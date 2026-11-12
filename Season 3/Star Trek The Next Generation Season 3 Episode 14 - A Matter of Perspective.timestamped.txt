@@ -1,0 +1,674 @@
+[00:00:36.240 --> 00:00:38.400] DATA: Captain, we have arrived at Tanuga Four.
+[00:00:38.880 --> 00:00:42.880] DATA: The away team has completed its survey of Doctor Apgar's work and is ready to return to the ship.
+[00:00:44.160 --> 00:00:44.480] PICARD: Good.
+[00:00:48.480 --> 00:00:52.400] PICARD: Please. And feel free to examine the work of the other students too.
+[00:01:01.440 --> 00:01:05.280] DATA: Ensign Williams' striking style is heavily influenced by geometric constructivism.
+[00:01:14.320 --> 00:01:19.760] DATA: Lieutenant Wright has effectively fused the incongruities of the surrealists with the irrationality of Dadaism.
+[00:01:32.480 --> 00:01:32.960] DATA: Interesting.
+[00:01:33.731 --> 00:01:35.251] PICARD: Oh, thank you.
+[00:01:37.171 --> 00:01:37.811] PICARD: In what way?
+[00:01:40.291 --> 00:01:50.531] DATA: While suggesting the free treatment of form usually attributed to Fauvism, this quite inappropriately attempts to juxtapose the disparate cubistic styles of Picasso and Leger.
+[00:01:51.011 --> 00:01:55.971] DATA: In addition, the use of colour suggests a haphazard mélange of clashing styles.
+[00:01:56.371 --> 00:01:59.011] DATA: Furthermore, the unsettling overtones of proto-Vulcan influences
+[00:01:59.011 --> 00:02:00.931] PICARD: Thank you, Mister Data.
+[00:02:01.811 --> 00:02:02.451] DATA: You are welcome, sir.
+[00:02:03.251 --> 00:02:04.531] DATA: If I can be of further assistance
+[00:02:04.531 --> 00:02:05.651] PICARD: No! Thank you.
+[00:02:13.411 --> 00:02:16.371] LOG: Captain's log, Stardate 43610.4.
+[00:02:17.091 --> 00:02:29.171] LOG: After completing a delivery of dicosilium to the Tanuga Four research station, our away team has received an update from Doctor Nel Apgar on his efforts to create Krieger Waves, a potentially valuable new power source.
+[00:02:29.571 --> 00:02:30.451] PICARD: Welcome back, Mister La Forge.
+[00:02:31.651 --> 00:02:32.051] LAFORGE: Thank you, sir.
+[00:02:32.451 --> 00:02:33.171] PICARD: Where's Commander Riker?
+[00:02:33.971 --> 00:02:35.571] LAFORGE: He's still on the station, sir.
+[00:02:36.531 --> 00:02:38.051] LAFORGE: Doctor Apgar wanted to have a word with him.
+[00:02:39.571 --> 00:02:40.131] PICARD: Any problems?
+[00:02:41.411 --> 00:02:43.651] LAFORGE: Not with the scientific part of the mission, no, sir.
+[00:02:43.651 --> 00:02:45.011] RIKER: Riker to Enterprise.
+[00:02:45.651 --> 00:02:46.851] RIKER: I'm ready to leave, now.
+[00:02:47.331 --> 00:02:49.811] LAFORGE: I'm sure Commander Riker will be able to explain everything, Captain.
+[00:02:50.291 --> 00:02:51.091] O'BRIEN: Stand by, Commander.
+[00:02:51.971 --> 00:02:52.771] O'BRIEN: Engaging transport.
+[00:02:52.771 --> 00:02:52.771] O'BRIEN: Transporter
+[00:02:56.211 --> 00:02:58.771] O'BRIEN: Room to Engineering.
+[00:02:59.386 --> 00:03:00.186] O'BRIEN: I have a power drain.
+[00:03:11.146 --> 00:03:11.706] PICARD: Transporter Room!
+[00:03:11.786 --> 00:03:12.666] PICARD: Is Commander Riker aboard?
+[00:03:13.466 --> 00:03:13.946] O'BRIEN: Not yet, Captain.
+[00:03:14.266 --> 00:03:15.386] O'BRIEN: I'm having trouble clearing the signal
+[00:03:26.106 --> 00:03:27.226] O'BRIEN: Transporter Room to Bridge.
+[00:03:27.626 --> 00:03:27.786] O'BRIEN: He's aboard.
+[00:03:27.946 --> 00:03:29.466] RIKER: Why do
+[00:03:33.066 --> 00:03:34.426] RIKER: you sound so surprised, Mister O'Brien?
+[00:03:34.986 --> 00:03:37.626] O'BRIEN: For a moment, we weren't sure you left the space station in time.
+[00:03:37.626 --> 00:03:38.186] RIKER: In time for what?
+[00:03:38.186 --> 00:03:39.626] O'BRIEN: It just exploded, sir.
+[00:04:14.026 --> 00:04:16.586] PICARD: Space, the final frontier.
+[00:04:18.426 --> 00:04:21.307] PICARD: These are the voyages of the starship Enterprise.
+[00:04:22.426 --> 00:04:26.186] PICARD: Its continuing mission to explore strange new worlds.
+[00:04:27.680 --> 00:04:34.960] PICARD: To seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:05:25.000 --> 00:05:33.000] [music]
+[00:05:33.120 --> 00:05:34.320] LOG: Captain's log, supplemental.
+[00:05:34.720 --> 00:05:40.080] LOG: Commander Riker has informed me that Doctor Apgar was the only one aboard the space station when it exploded.
+[00:05:40.800 --> 00:05:43.520] LOG: We remain in orbit investigating the accident.
+[00:05:45.680 --> 00:05:47.120] O'BRIEN: I've gone through the whole system, Captain.
+[00:05:47.360 --> 00:05:51.440] O'BRIEN: I can't find any malfunction in the transporter. Nothing that would cause an explosion like that
+[00:05:51.920 --> 00:05:53.600] PICARD: Why was there a power drain before transport?
+[00:05:54.288 --> 00:05:55.008] O'BRIEN: I don't know, sir.
+[00:05:55.888 --> 00:05:56.928] PICARD: I shall want an answer to that.
+[00:05:57.568 --> 00:05:58.768] PICARD: I'm sure the Tanugans will too.
+[00:05:59.248 --> 00:05:59.488] O'BRIEN: Yes, sir.
+[00:06:00.448 --> 00:06:04.848] DATA: Captain, the radiation and debris are consistent with an overload of the station's reactor core.
+[00:06:04.848 --> 00:06:09.568] PICARD: Were there any indications of reactor core problems while you were on the station?
+[00:06:09.888 --> 00:06:10.368] LAFORGE: No, sir.
+[00:06:11.408 --> 00:06:11.808] PICARD: Number One?
+[00:06:15.408 --> 00:06:19.728] PICARD: Mister La Forge indicated that this was not an entirely routine mission.
+[00:06:21.728 --> 00:06:24.528] RIKER: It's a long story, sir, but I'm sure it doesn't have anything to do with this accident.
+[00:06:25.328 --> 00:06:30.128] WORF: Captain, Chief Investigator Krag of the Tanugan security force requests permission to beam aboard.
+[00:06:31.248 --> 00:06:31.648] PICARD: Granted.
+[00:06:31.888 --> 00:06:33.088] PICARD: Will you escort him to the Bridge, Mister Worf.
+[00:06:33.568 --> 00:06:33.808] WORF: Aye, sir.
+[00:06:38.448 --> 00:06:41.808] PICARD: Perhaps you had tell me as much as possible prior to his arrival,
+[00:06:43.488 --> 00:06:46.528] PICARD: Number One.
+[00:06:55.408 --> 00:06:57.568] WORF: I'm Lieutenant Worf, head of ship's Security.
+[00:06:57.728 --> 00:06:58.848] WORF: I will take you to the Captain.
+[00:07:09.088 --> 00:07:10.848] PICARD: Chief Investigator, welcome to the Enterprise.
+[00:07:10.848 --> 00:07:12.048] PICARD: I'm Captain Picard.
+[00:07:12.208 --> 00:07:14.848] PICARD: This is my First Officer, Commander William Riker.
+[00:07:17.008 --> 00:07:19.808] KRAG: Commander Riker, I am here to take you into custody.
+[00:07:20.631 --> 00:07:21.911] RIKER: Custody? On what charge?
+[00:07:22.471 --> 00:07:23.671] KRAG: Suspicion of murder.
+[00:07:24.471 --> 00:07:24.871] RIKER: Murder?
+[00:07:24.871 --> 00:07:25.511] RIKER: Now wait a minute,
+[00:07:25.591 --> 00:07:26.444] RIKER: you can't come on
+[00:07:26.444 --> 00:07:26.871] PICARD: Chief Investigator,
+[00:07:27.831 --> 00:07:29.431] PICARD: we are perfectly willing to cooperate with you, but
+[00:07:29.431 --> 00:07:32.071] KRAG: Then release the prisoner for transportation to the planet.
+[00:07:36.231 --> 00:07:38.471] PICARD: Let's continue this discussion in private.
+[00:07:40.551 --> 00:07:40.951] PICARD: Number One,
+[00:07:42.791 --> 00:07:43.511] PICARD: you have the Bridge.
+[00:08:05.511 --> 00:08:07.111] PICARD: Just what is the evidence against my officer?
+[00:08:07.991 --> 00:08:11.671] KRAG: Two witnesses have come forward to describe Commander Riker's threats against Doctor
+[00:08:11.671 --> 00:08:12.071] KRAG: Apgar.
+[00:08:12.471 --> 00:08:12.951] PICARD: Threats?
+[00:08:13.991 --> 00:08:16.311] PICARD: I'm aware there was a private conversation between them.
+[00:08:16.551 --> 00:08:19.271] KRAG: Apparently, it was much more than just a private conversation,
+[00:08:19.671 --> 00:08:22.391] KRAG: but he will have a chance to prove his innocence.
+[00:08:22.951 --> 00:08:28.551] PICARD: Investigator, in our system of jurisprudence, a man is innocent until proved guilty.
+[00:08:28.871 --> 00:08:34.231] KRAG: In ours, he is guilty until he is proved innocent, and you are under our jurisdiction.
+[00:08:35.031 --> 00:08:40.585] KRAG: If I understand the Federation regulations on these matters, and I just happened to look them up before I
+[00:08:40.585 --> 00:08:42.631] PICARD: I am aware of Federation regulations, sir,
+[00:08:43.191 --> 00:08:46.551] PICARD: and if you investigate them further, you will find the captain decides
+[00:08:46.650 --> 00:08:47.962] PICARD: if extradition is warranted.
+[00:08:47.962 --> 00:08:49.930] KRAG: Are you saying it is not?
+[00:08:50.570 --> 00:08:57.530] PICARD: I'm saying, if there is sufficient cause to warrant a trial, I will release my officer into your custody.
+[00:08:59.130 --> 00:09:01.530] KRAG: Would you say you're close to your First Officer, Captain?
+[00:09:02.010 --> 00:09:03.210] PICARD: That question is irrelevant here.
+[00:09:03.530 --> 00:09:05.450] KRAG: Really, Captain, you cannot believe that.
+[00:09:06.570 --> 00:09:09.130] KRAG: How can I expect a fair and impartial decision?
+[00:09:09.930 --> 00:09:12.010] PICARD: I must protect the rights of my officer.
+[00:09:12.250 --> 00:09:13.370] KRAG: I can appreciate that,
+[00:09:14.970 --> 00:09:17.690] KRAG: but you will do it on the planet, not here.
+[00:09:19.610 --> 00:09:23.130] KRAG: After all, what if you were suddenly to decide to leave this star system?
+[00:09:24.810 --> 00:09:27.450] PICARD: You have my word as a Starfleet officer that I will not.
+[00:09:29.930 --> 00:09:30.810] KRAG: Unacceptable.
+[00:09:31.770 --> 00:09:35.530] KRAG: Captain, you will turn him over to me for interrogation now.
+[00:09:38.090 --> 00:09:39.050] PICARD: Interrogate him here.
+[00:09:40.970 --> 00:09:46.810] KRAG: We must recreate, step by step, moment by moment, all the events leading to the explosion.
+[00:09:47.050 --> 00:09:52.170] KRAG: We will require access to all the witnesses, as well as the data from the lab's ground computers.
+[00:09:53.210 --> 00:09:56.090] KRAG: It would be impossible to accomplish here.
+[00:09:57.210 --> 00:09:57.770] PICARD: Perhaps not.
+[00:09:58.410 --> 00:10:00.090] PICARD: Mister Data, will you report to my Ready Room?
+[00:10:00.570 --> 00:10:00.890] DATA: Aye, sir.
+[00:10:02.010 --> 00:10:04.730] PICARD: We may be able to assist you in recreating the events.
+[00:10:08.410 --> 00:10:10.650] PICARD: Commander Data, this is Chief Investigator Krag.
+[00:10:12.250 --> 00:10:14.730] PICARD: Commander, by taking testimony from the away team
+[00:10:15.019 --> 00:10:22.859] PICARD: and from witnesses provided by the Investigator, would it be possible to programme the Holodeck to recreate what happened on the science station?
+[00:10:24.139 --> 00:10:33.979] DATA: It would require construction and design specifications, full orthographic representations of the Krieger equipment, as well as visual representations and voice analyses of the persons involved.
+[00:10:34.619 --> 00:10:35.419] DATA: But it is possible.
+[00:10:39.019 --> 00:10:39.499] KRAG: Very well.
+[00:10:41.179 --> 00:10:44.219] KRAG: Arrangements will be made to provide you with all available information.
+[00:10:45.659 --> 00:10:47.739] KRAG: I shall return shortly with our witnesses.
+[00:10:48.939 --> 00:10:52.619] PICARD: Commander, will you escort Investigator Krag to Transporter Room Three.
+[00:11:06.699 --> 00:11:13.259] PICARD: Ensign Crusher, Mister La Forge, we are going to recreate the research station here on the holodeck.
+[00:11:13.419 --> 00:11:16.059] PICARD: I want you to work with Commander Data on the preparations.
+[00:11:16.459 --> 00:11:25.099] PICARD: In addition, Commander La Forge and Commander Riker, I want you to give the computer detailed depositions of everything you saw, everything you heard while you were on board.
+[00:11:26.139 --> 00:11:29.819] PICARD: Counsellor, I want you to assist me during this inquiry.
+[00:11:35.179 --> 00:11:40.779] PICARD: My decision about the extradition will be based upon the evidence presented during these recreations.
+[00:11:44.779 --> 00:11:45.099] RIKER: Captain,
+[00:11:47.899 --> 00:11:48.619] RIKER: may I have a word with you?
+[00:11:50.720 --> 00:11:51.840] PICARD: Under these circumstances, Number One,
+[00:11:51.840 --> 00:11:53.120] PICARD: I think that would be inappropriate.
+[00:12:05.920 --> 00:12:10.480] LOG: Second officer's log, Stardate 43611.6.
+[00:12:11.040 --> 00:12:14.640] LOG: Programming of the holodeck has taken eighteen hours eleven minutes, and is now complete.
+[00:12:15.360 --> 00:12:17.760] LOG: All participants have entered their depositions.
+[00:12:18.240 --> 00:12:24.320] LOG: Technical schematics and complete records from the lab's ground computers, as well as Doctor Apgar's personal logs, have been included.
+[00:12:24.960 --> 00:12:28.400] LOG: The recreations will have a nominal eight point seven percent margin of error.
+[00:12:54.880 --> 00:12:56.880] PICARD: Is there anything you'd like to say before we begin, Number One?
+[00:12:58.000 --> 00:12:58.560] RIKER: Just this.
+[00:12:59.440 --> 00:13:00.240] RIKER: I'm not a murderer.
+[00:13:01.280 --> 00:13:04.320] RIKER: I went to the Tanugan lab as an official representative of Starfleet.
+[00:13:04.640 --> 00:13:05.600] RIKER: I acted accordingly.
+[00:13:06.560 --> 00:13:12.160] RIKER: I was there to evaluate Doctor Apgar's progress in the development of a Krieger Wave converter.
+[00:13:13.040 --> 00:13:13.920] RIKER: That's all I was interested in.
+[00:13:15.600 --> 00:13:16.000] RIKER: Computer.
+[00:13:18.234 --> 00:13:20.314] RIKER: Load deposition programme Riker one.
+[00:13:22.954 --> 00:13:23.754] RIKER: Run the simulation.
+[00:13:31.034 --> 00:13:35.560] RIKER: Doctor Apgar, I'm Commander William Riker. Lieutenant Commander Geordi La Forge.
+[00:13:35.560 --> 00:13:36.794] APGAR: My assistant, Tayna.
+[00:13:38.314 --> 00:13:39.514] APGAR: Well, let's get on with it, shall we?
+[00:13:39.674 --> 00:13:41.594] MANUA: Don't be in such a hurry, dear.
+[00:13:42.794 --> 00:13:45.034] MANUA: Perhaps our guests would care for some refreshments.
+[00:13:45.674 --> 00:13:46.954] APGAR: My wife, Manua.
+[00:13:47.434 --> 00:13:48.314] RIKER: A pleasure to meet you, Mrs.
+[00:13:48.314 --> 00:13:48.634] RIKER: Apgar.
+[00:13:50.154 --> 00:13:51.434] RIKER: If you're prepared to get started, so are we.
+[00:13:52.074 --> 00:13:52.954] APGAR: Of course I'm prepared.
+[00:13:53.354 --> 00:13:53.594] RIKER: All right,
+[00:13:53.594 --> 00:13:55.674] RIKER: why don't you give me the overview of your research while Mister
+[00:13:55.674 --> 00:13:58.554] RIKER: La Forge and your assistant take a look at the experimental data.
+[00:13:58.874 --> 00:13:59.594] APGAR: Fine, whatever.
+[00:13:59.594 --> 00:14:02.074] APGAR: I must say, Commander, I resent this early arrival.
+[00:14:02.074 --> 00:14:04.074] APGAR: Starfleet will get its converter.
+[00:14:04.074 --> 00:14:05.754] APGAR: I've had a few setbacks,
+[00:14:05.754 --> 00:14:06.234] APGAR: that's all.
+[00:14:07.834 --> 00:14:09.114] RIKER: We're not here to pressure you, Doctor.
+[00:14:09.114 --> 00:14:10.714] RIKER: We just want an update on your progress.
+[00:14:11.674 --> 00:14:14.554] APGAR: Tayna, show the Commander's assistant whatever he wants to see.
+[00:14:14.554 --> 00:14:16.714] APGAR: Give him full access to our records.
+[00:14:16.874 --> 00:14:17.514] TAYNA: Yes, Doctor.
+[00:14:17.754 --> 00:14:25.434] TAYNA: If you'll come with me. Our lambda field generator is on the planet since it requires a minimum of five thousand kilometres for the field to collimate.
+[00:14:25.674 --> 00:14:27.194] MANUA: Really, darling, you're being rude.
+[00:14:27.194 --> 00:14:31.034] MANUA: After all, Commander Riker is willing to sit through all your prattle about Krieger Waves.
+[00:14:31.434 --> 00:14:34.234] MANUA: Let's have a drink, Commander, and we'll hear all about Krieger Waves.
+[00:14:34.384 --> 00:14:34.984] RIKER: To
+[00:14:45.994 --> 00:14:46.954] RIKER: your success, Doctor.
+[00:14:48.554 --> 00:14:50.074] MANUA: And the rewards that come with it.
+[00:14:51.501 --> 00:14:55.661] APGAR: Riker, what is Starfleet doing here anyway?
+[00:14:55.661 --> 00:14:58.221] APGAR: My delivery wasn't scheduled for another three months.
+[00:14:58.381 --> 00:15:04.381] RIKER: We were in this sector on another mission, and since you had already contacted Starfleet about additional dicosilium, it seemed like a good opportunity.
+[00:15:05.181 --> 00:15:05.821] MANUA: How interesting.
+[00:15:06.301 --> 00:15:07.741] MANUA: Tell us about this other mission.
+[00:15:07.741 --> 00:15:09.981] RIKER: It's just a study of a proto-star cloud.
+[00:15:10.541 --> 00:15:11.741] RIKER: The Enterprise'll be back tomorrow.
+[00:15:12.381 --> 00:15:13.981] APGAR: The Enterprise just left you here?
+[00:15:14.861 --> 00:15:15.901] RIKER: We didn't want to inconvenience you.
+[00:15:15.901 --> 00:15:17.581] RIKER: We've made arrangements for quarters on the planet.
+[00:15:17.981 --> 00:15:20.141] MANUA: I won't hear of such a thing. Commander,
+[00:15:20.141 --> 00:15:21.981] MANUA: I insist you and Mister La Forge stay with us.
+[00:15:21.981 --> 00:15:22.701] APGAR: I hardly
+[00:15:22.781 --> 00:15:25.581] MANUA: I know that you would prefer to be alone with your very important work
+[00:15:25.581 --> 00:15:28.381] MANUA: but I, for one, am glad for the
+[00:15:30.621 --> 00:15:32.621] MANUA: company.
+[00:15:34.301 --> 00:15:34.621] MANUA: Good.
+[00:15:36.541 --> 00:15:39.581] MANUA: I must apologise for my husband's lack of social graces.
+[00:15:40.061 --> 00:15:45.821] MANUA: He may be one of the great scientific minds in the galaxy, but he does come up a bit short in other areas.
+[00:15:50.621 --> 00:15:51.261] KRAG: Wait a moment.
+[00:15:51.261 --> 00:15:51.821] KRAG: Stop.
+[00:15:53.341 --> 00:15:54.301] PICARD: Computer, freeze programme.
+[00:15:56.061 --> 00:15:58.061] KRAG: Then it's your testimony that it was Mrs.
+[00:15:58.061 --> 00:16:00.781] KRAG: Apgar's idea for you to spend the night aboard the space station.
+[00:16:01.581 --> 00:16:03.421] RIKER: It's my testimony and it's the truth.
+[00:16:05.501 --> 00:16:07.901] PICARD: Resume programme.
+[00:16:13.101 --> 00:16:17.181] MANUA: Our guest quarters aren't luxurious but I've tried to make this room warm and inviting.
+[00:16:17.501 --> 00:16:18.221] RIKER: I'll be very comfortable,
+[00:16:18.221 --> 00:16:18.621] RIKER: thank you.
+[00:16:19.101 --> 00:16:19.421] RIKER: Good night.
+[00:16:20.141 --> 00:16:23.341] MANUA: The environmental controls are over here.
+[00:16:23.866 --> 00:16:25.306] RIKER: I'm sure I'll find everything I need.
+[00:16:25.386 --> 00:16:27.306] MANUA: And the door shuts by touching this panel.
+[00:16:31.946 --> 00:16:32.506] RIKER: Mrs. Apgar.
+[00:16:32.986 --> 00:16:34.026] MANUA: This is my sanctuary.
+[00:16:34.666 --> 00:16:37.146] MANUA: Privacy is very important on a small station.
+[00:16:39.626 --> 00:16:42.746] MANUA: I'm left alone here. Often for hours.
+[00:16:43.946 --> 00:16:44.346] RIKER: It's late.
+[00:16:44.906 --> 00:16:45.546] RIKER: I am tired.
+[00:16:48.346 --> 00:16:49.626] MANUA: Are you still tired, Commander?
+[00:16:49.626 --> 00:16:49.946] RIKER: Ma'am,
+[00:16:50.666 --> 00:16:51.226] RIKER: excuse me.
+[00:16:52.266 --> 00:16:53.386] RIKER: I really think that you ought to leave.
+[00:16:56.186 --> 00:16:57.546] APGAR: I knew I'd find you with him.
+[00:16:58.186 --> 00:17:00.746] APGAR: Did you think I didn't notice how you looked at him?
+[00:17:00.906 --> 00:17:03.182] APGAR: I'm not the fool you take me for.
+[00:17:03.182 --> 00:17:03.466] RIKER: Doctor.
+[00:17:07.546 --> 00:17:09.706] RIKER: Doctor, believe me. This has been a terrible mistake.
+[00:17:09.946 --> 00:17:11.626] APGAR: You won't get away with this.
+[00:17:11.706 --> 00:17:12.586] APGAR: I'll see to it.
+[00:17:12.586 --> 00:17:13.946] APGAR: I swear I will, Riker.
+[00:17:19.626 --> 00:17:20.106] PICARD: Freeze programme.
+[00:17:21.866 --> 00:17:24.986] RIKER: I didn't see Doctor Apgar until the following morning when he asked to see me alone.
+[00:17:25.466 --> 00:17:27.386] RIKER: Commander La Forge returned to the Enterprise.
+[00:17:28.666 --> 00:17:29.386] RIKER: Resume programme.
+[00:17:33.146 --> 00:17:37.075] APGAR: I suppose if I make a formal complaint, your report on my work won't be very good.
+[00:17:37.075 --> 00:17:37.306] RIKER: Doctor,
+[00:17:37.306 --> 00:17:39.306] RIKER: this is going to have no impact on my report.
+[00:17:39.786 --> 00:17:41.626] RIKER: It was a misunderstanding of the worst kind.
+[00:17:42.026 --> 00:17:44.906] RIKER: We could straighten the entire thing out if you would ask Mrs. Apgar to join us.
+[00:17:44.906 --> 00:17:48.026] APGAR: My wife and my assistant have transported down to the planet.
+[00:17:50.026 --> 00:17:52.106] APGAR: What are you going to put in your report, Riker?
+[00:17:52.266 --> 00:17:55.866] APGAR: That there is no justification for all the extra dicosilium I've requested?
+[00:17:56.026 --> 00:17:58.026] APGAR: That is why they sent you early, isn't it?
+[00:17:58.022 --> 00:17:58.609] RIKER: Doctor, I
+[00:17:58.609 --> 00:18:00.662] APGAR: I can explain why I needed it.
+[00:18:00.662 --> 00:18:02.662] APGAR: They have no idea what my problems are.
+[00:18:02.822 --> 00:18:04.822] APGAR: There are explanations for all of it.
+[00:18:04.822 --> 00:18:06.022] RIKER: I don't need explanations.
+[00:18:06.822 --> 00:18:09.462] APGAR: Then we have nothing further to say to each other.
+[00:18:12.582 --> 00:18:14.582] RIKER: I'll tell my Captain to expect your grievance.
+[00:18:15.782 --> 00:18:16.262] APGAR: Do that.
+[00:18:20.182 --> 00:18:21.222] RIKER: Riker to Enterprise.
+[00:18:21.862 --> 00:18:22.982] RIKER: I'm ready to leave. Now.
+[00:18:24.342 --> 00:18:25.302] O'BRIEN: Stand by, Commander.
+[00:18:27.302 --> 00:18:28.422] O'BRIEN: Engaging transport.
+[00:18:29.142 --> 00:18:29.782] RIKER: Freeze programme.
+[00:18:30.982 --> 00:18:32.102] RIKER: Then I returned to the Enterprise.
+[00:18:33.542 --> 00:18:35.462] KRAG: And you have nothing further to add, Commander?
+[00:18:36.422 --> 00:18:37.782] KRAG: Nothing about firing a phaser?
+[00:18:39.142 --> 00:18:41.062] RIKER: I never fired a phaser on the science station.
+[00:18:41.622 --> 00:18:42.182] KRAG: That's odd.
+[00:18:43.462 --> 00:18:44.262] KRAG: Very odd.
+[00:18:45.462 --> 00:18:51.622] KRAG: Captain Picard, is it not true that your sensors detected an energy drain just as Commander Riker began transport?
+[00:18:52.342 --> 00:18:52.902] PICARD: That's correct.
+[00:18:53.462 --> 00:18:54.822] KRAG: Have you been able to explain it?
+[00:18:55.142 --> 00:18:56.022] PICARD: Not to my knowledge.
+[00:18:57.302 --> 00:18:57.782] KRAG: We have.
+[00:19:02.662 --> 00:19:04.262] KRAG: Our readings are quite clear about it.
+[00:19:05.382 --> 00:19:13.302] KRAG: Information retrieved from the lab's ground computers indicate that a focused energy pulse was fired just as Commander Riker began transport.
+[00:19:14.102 --> 00:19:21.142] KRAG: Furthermore, by analysing the angle and trajectory, we have determined that it came from the very spot Commander Riker was standing.
+[00:19:27.862 --> 00:19:31.782] KRAG: So then, will you allow me to show you my recreation
+[00:19:32.591 --> 00:19:36.111] KRAG: of the end of this story? A speculation, if you will.
+[00:19:37.071 --> 00:19:40.751] KRAG: Computer, run hypothetical Krag one.
+[00:19:46.191 --> 00:19:48.751] RIKER: Riker to Enterprise. I'm ready to leave. Now.
+[00:19:49.631 --> 00:19:50.591] O'BRIEN: Stand by, Commander.
+[00:19:51.551 --> 00:19:52.511] O'BRIEN: Engaging transport.
+[00:19:53.551 --> 00:19:54.911] KRAG: Freeze programme.
+[00:19:57.151 --> 00:20:00.111] KRAG: Three seconds later, the station exploded.
+[00:20:00.111 --> 00:20:00.111] LAFORGE: The Tanugans are
+[00:20:02.191 --> 00:20:04.191] LAFORGE: right.
+[00:20:16.191 --> 00:20:18.991] LAFORGE: Something was fired at the reactor core just before transport.
+[00:20:19.551 --> 00:20:22.351] DATA: The energy signature would seem to indicate a phaser-like blast.
+[00:20:22.671 --> 00:20:24.111] WESLEY: Well, it wasn't the commander's phaser.
+[00:20:24.111 --> 00:20:24.751] WESLEY: It couldn't have been.
+[00:20:24.991 --> 00:20:26.031] WESLEY: There's another answer.
+[00:20:26.751 --> 00:20:27.871] WESLEY: We're just not seeing it.
+[00:20:28.831 --> 00:20:32.591] DATA: Was there anything else in the lab capable of creating this kind of energy discharge?
+[00:20:32.671 --> 00:20:33.151] LAFORGE: Not that I saw.
+[00:20:33.951 --> 00:20:37.391] LAFORGE: Besides, how do you account for the fact that it came from Commander's Riker's exact position.
+[00:20:38.111 --> 00:20:39.711] LAFORGE: Damn it, I should have stayed with him.
+[00:20:39.711 --> 00:20:45.151] WORF: Commander, sensors indicate a radiation burst on deck thirty nine, outside cargo bay twelve.
+[00:20:45.311 --> 00:20:45.711] DATA: Source?
+[00:20:46.751 --> 00:20:47.311] WORF: Unknown, sir.
+[00:20:47.791 --> 00:20:50.031] DATA: Computer, identify type of radiation.
+[00:20:50.511 --> 00:20:53.231] COMPUTER: Emission is not consistent with any known radiation.
+[00:20:54.351 --> 00:20:55.311] WORF: It is subsiding, sir.
+[00:20:58.945 --> 00:21:00.305] WESLEY: What kind of radiation could do this?
+[00:21:03.585 --> 00:21:04.305] WESLEY: Make any sense to you?
+[00:21:04.945 --> 00:21:05.905] LAFORGE: I don't recognise it.
+[00:21:06.865 --> 00:21:09.105] LAFORGE: Not even the main deflector puts out that kind of spillage.
+[00:21:09.585 --> 00:21:10.545] WESLEY: Where would it be coming from?
+[00:21:10.785 --> 00:21:11.505] LAFORGE: I don't know, Wes,
+[00:21:12.145 --> 00:21:15.105] LAFORGE: but whatever it is, it's capable of putting a hole in solid duranium.
+[00:21:34.305 --> 00:21:35.905] KRAG: In a sense we have already met Mrs.
+[00:21:35.905 --> 00:21:38.545] KRAG: Apgar, so we shall dispense with introductions.
+[00:21:39.985 --> 00:21:40.225] PICARD: Mrs.
+[00:21:40.225 --> 00:21:42.385] PICARD: Apgar, you understand the purpose of this hearing?
+[00:21:43.985 --> 00:21:46.625] TROI: We understand how difficult this will be for you.
+[00:21:47.265 --> 00:21:49.745] TROI: If you need a recess, please, don't hesitate to ask.
+[00:21:49.745 --> 00:21:52.545] PICARD: Would you like to make a statement before we begin?
+[00:21:54.225 --> 00:21:54.465] MANUA: No.
+[00:21:56.625 --> 00:21:57.505] MANUA: I just know he did it.
+[00:21:58.385 --> 00:21:59.265] MANUA: He killed my husband.
+[00:22:02.305 --> 00:22:05.745] KRAG: Computer, load Manua simulation one.
+[00:22:08.705 --> 00:22:09.345] KRAG: Run programme.
+[00:22:10.305 --> 00:22:15.105] MANUA: If you greet them with such a long face they're going to assume something is wrong with the experiment.
+[00:22:15.585 --> 00:22:17.345] APGAR: I just need time. A little more time.
+[00:22:17.345 --> 00:22:21.745] MANUA: I'm certain they'll give you the time you need if you just show a little charm.
+[00:22:22.225 --> 00:22:24.305] APGAR: You do that so much better than I do.
+[00:22:28.711 --> 00:22:29.431] APGAR: Manua,
+[00:22:30.551 --> 00:22:33.591] APGAR: someday I'll be able to reward you for all your patience.
+[00:22:33.591 --> 00:22:36.151] APGAR: I'll get you everything you ever dreamed of.
+[00:22:37.031 --> 00:22:38.471] MANUA: I have all the reward I need.
+[00:22:39.431 --> 00:22:39.831] MANUA: Now go on,
+[00:22:40.631 --> 00:22:41.111] MANUA: I'll be right
+[00:22:45.351 --> 00:22:47.351] MANUA: in.
+[00:22:47.351 --> 00:22:49.751] RIKER: Doctor Apgar? I'm Commander William Riker.
+[00:22:50.231 --> 00:22:51.671] RIKER: Lieutenant Commander Geordi La Forge.
+[00:22:52.311 --> 00:22:53.271] APGAR: My assistant, Tayna.
+[00:22:54.871 --> 00:22:56.071] APGAR: Well, let's get on with it, shall we?
+[00:22:56.231 --> 00:22:57.671] MANUA: Don't be in such a hurry, dear.
+[00:22:58.071 --> 00:22:59.751] MANUA: Perhaps our guests would like some refreshment?
+[00:23:00.151 --> 00:23:01.291] APGAR: My wife, Manua.
+[00:23:01.291 --> 00:23:01.671] RIKER: It's
+[00:23:02.311 --> 00:23:03.671] RIKER: a pleasure to meet you, Manua.
+[00:23:04.791 --> 00:23:05.911] APGAR: I'm anxious to get started.
+[00:23:06.231 --> 00:23:06.951] RIKER: If you wish.
+[00:23:06.951 --> 00:23:09.111] APGAR: I must say I resent your early arrival, Commander
+[00:23:09.111 --> 00:23:10.151] APGAR: I have much work to do.
+[00:23:10.711 --> 00:23:13.831] RIKER: Doctor, I'll do everything in my power to make this as painless as possible for both of us.
+[00:23:15.111 --> 00:23:16.471] RIKER: Do you assist your husband in his work?
+[00:23:17.031 --> 00:23:17.591] MANUA: Oh, dear, no.
+[00:23:17.591 --> 00:23:18.551] MANUA: I'm no scientist.
+[00:23:18.791 --> 00:23:19.751] RIKER: No, neither am I.
+[00:23:21.431 --> 00:23:23.351] MANUA: But I find this all fascinating, don't you?
+[00:23:25.271 --> 00:23:28.471] RIKER: Mister La Forge, why don't you take a look at the doctor's experimental data.
+[00:23:29.511 --> 00:23:30.471] RIKER: Later, you can give me an overview.
+[00:23:30.871 --> 00:23:31.591] APGAR: Fine. Whatever.
+[00:23:31.671 --> 00:23:33.911] APGAR: Starfleet will get its Krieger wave converter.
+[00:23:33.911 --> 00:23:35.191] APGAR: These things take time.
+[00:23:35.191 --> 00:23:36.311] APGAR: I've had a few setbacks,
+[00:23:36.311 --> 00:23:36.711] APGAR: that's all.
+[00:23:37.271 --> 00:23:38.791] RIKER: Doctor, I'm not trying to put any pressure on you.
+[00:23:39.191 --> 00:23:43.831] RIKER: I'm sure my report will only underscore the need for continued support of your research.
+[00:23:44.951 --> 00:23:47.751] APGAR: Tayna, I'll call up the records.
+[00:23:47.751 --> 00:23:50.471] APGAR: Show the Commander's assistant whatever he wants to see.
+[00:23:51.031 --> 00:23:51.591] TAYNA: Yes, Doctor.
+[00:23:51.751 --> 00:23:52.631] TAYNA: If you'll come with me?
+[00:23:53.269 --> 00:23:58.709] TAYNA: Our field generator is on the planet, since it requires a minimum of five thousand kilometres for the field to collimate.
+[00:24:01.749 --> 00:24:03.349] MANUA: Darling, let Tayna take care of that.
+[00:24:03.349 --> 00:24:06.149] MANUA: I'm sure Commander Riker wants to hear how close you are to a breakthrough.
+[00:24:06.709 --> 00:24:09.349] MANUA: I'll pour the two of you a drink and you can talk all about Krieger waves.
+[00:24:18.709 --> 00:24:19.109] MANUA: Commander.
+[00:24:21.589 --> 00:24:23.029] APGAR: To success.
+[00:24:23.029 --> 00:24:23.749] RIKER: Success.
+[00:24:26.789 --> 00:24:30.389] APGAR: Well, in a way, I suppose it's good that you're early.
+[00:24:30.709 --> 00:24:35.189] APGAR: Manua's right, it gives me a chance to show you the progress we've been making.
+[00:24:35.589 --> 00:24:39.429] RIKER: I'd appreciate it if Commander La Forge and I could stay here until the Enterprise returns.
+[00:24:41.509 --> 00:24:43.189] MANUA: It's a little inconvenient.
+[00:24:43.669 --> 00:24:45.429] RIKER: It would help to accelerate the process.
+[00:24:51.589 --> 00:24:53.589] APGAR: Well, if you wish, Commander.
+[00:24:54.709 --> 00:24:55.109] APGAR: Now,
+[00:24:56.789 --> 00:24:57.909] APGAR: where shall I start?
+[00:24:59.509 --> 00:25:07.589] APGAR: Well, first of all, you should know that I am very close to being able to collimate a Krieger field.
+[00:25:11.669 --> 00:25:13.429] MANUA: Our guest quarters are very modest.
+[00:25:14.229 --> 00:25:14.869] RIKER: Very charming.
+[00:25:16.069 --> 00:25:16.709] RIKER: It has your touch.
+[00:25:17.429 --> 00:25:20.709] MANUA: The station is small, and we don't often have guests. I use this as my sanctuary.
+[00:25:21.909 --> 00:25:23.269] RIKER: Who do you need sanctuary from?
+[00:25:24.712 --> 00:25:26.072] MANUA: The environmental controls are here.
+[00:25:30.152 --> 00:25:30.552] MANUA: Commander,
+[00:25:30.792 --> 00:25:33.272] MANUA: please. It's late and I'm tired.
+[00:25:34.152 --> 00:25:36.792] RIKER: A man more interested in Krieger waves than in a lovely woman like you.
+[00:25:37.272 --> 00:25:38.392] RIKER: How is that possible?
+[00:25:38.392 --> 00:25:42.712] MANUA: My husband is one of the great minds in the galaxy and we love each other very much.
+[00:25:43.112 --> 00:25:44.072] MANUA: Please don't.
+[00:25:44.152 --> 00:25:48.712] RIKER: It must be very lonely. A princess in a very high tower.
+[00:25:49.112 --> 00:25:50.632] MANUA: Please, my husband will be looking for me.
+[00:25:50.712 --> 00:25:52.232] RIKER: Your sanctuary, remember?
+[00:25:52.952 --> 00:25:54.392] MANUA: Commander, don't, please!
+[00:25:54.632 --> 00:25:55.352] RIKER: She's lying!
+[00:25:55.352 --> 00:25:56.312] RIKER: That never happened.
+[00:25:57.112 --> 00:25:57.672] PICARD: Freeze programme.
+[00:25:57.672 --> 00:25:58.232] MANUA: Please.
+[00:25:59.832 --> 00:26:01.992] RIKER: Captain, you know I would never act like that.
+[00:26:02.232 --> 00:26:03.320] PICARD: Commander Riker!
+[00:26:03.320 --> 00:26:04.952] RIKER: This isn't me.
+[00:26:05.432 --> 00:26:07.112] RIKER: I wasn't the one who closed the door.
+[00:26:07.672 --> 00:26:10.232] RIKER: I didn't proposition her and I certainly didn't try to rape her.
+[00:26:12.632 --> 00:26:13.592] RIKER: Why are you doing this?
+[00:26:15.752 --> 00:26:16.952] MANUA: It's exactly what happened.
+[00:26:19.432 --> 00:26:20.472] TROI: Will, come on, sit down.
+[00:26:34.392 --> 00:26:35.432] KRAG: Resume programme.
+[00:26:37.352 --> 00:26:38.232] MANUA: Please.
+[00:26:39.432 --> 00:26:41.112] APGAR: I knew you'd try this, Riker.
+[00:26:41.112 --> 00:26:43.432] APGAR: Do you think I didn't notice how you looked at her?
+[00:26:43.672 --> 00:26:45.912] APGAR: I'm not the fool you take me for.
+[00:26:47.032 --> 00:26:47.272] APGAR: You
+[00:26:51.112 --> 00:26:52.392] APGAR: won't get away with this.
+[00:26:52.392 --> 00:26:53.672] APGAR: Your career is over.
+[00:26:54.232 --> 00:26:55.112] APGAR: I'll see to it.
+[00:26:55.112 --> 00:26:56.792] APGAR: I swear I will, Riker.
+[00:26:57.080 --> 00:26:59.480] RIKER: If you report this, you'll be making a terrible mistake, Doctor.
+[00:27:00.200 --> 00:27:01.240] RIKER: A terrible mistake.
+[00:27:09.160 --> 00:27:10.040] KRAG: Freeze programme.
+[00:27:12.360 --> 00:27:13.240] MANUA: Your career was safe.
+[00:27:14.280 --> 00:27:15.240] MANUA: He was a scientist.
+[00:27:15.800 --> 00:27:19.160] MANUA: In another day some fascinating bit of technical trivia would have distracted him.
+[00:27:20.120 --> 00:27:22.440] MANUA: He would have forgotten about you and his complaint to Starfleet.
+[00:27:22.590 --> 00:27:23.590] MANUA: Excuse me.
+[00:27:29.160 --> 00:27:29.160] PICARD: We'll,
+[00:27:31.640 --> 00:27:35.000] PICARD: um, we'll take a short recess.
+[00:27:40.040 --> 00:27:40.040] RIKER: Why
+[00:27:46.200 --> 00:27:47.240] RIKER: would she lie like that?
+[00:27:48.920 --> 00:27:49.640] RIKER: She was lying.
+[00:27:49.880 --> 00:27:50.200] RIKER: You could tell.
+[00:27:51.240 --> 00:27:54.840] TROI: Will, I didn't sense any deception from her.
+[00:27:56.600 --> 00:27:57.400] RIKER: Then you think that I?
+[00:27:57.400 --> 00:27:59.160] TROI: No! No, of course not.
+[00:28:00.040 --> 00:28:00.760] TROI: I know you.
+[00:28:00.840 --> 00:28:02.680] TROI: You don't have to convince me of anything.
+[00:28:02.680 --> 00:28:04.040] RIKER: We can't both be telling the truth.
+[00:28:04.920 --> 00:28:07.960] TROI: It is the truth as each of you remembers it.
+[00:28:11.320 --> 00:28:12.600] RIKER: But her version puts a noose around my
+[00:28:16.040 --> 00:28:16.200] RIKER: neck.
+[00:28:17.640 --> 00:28:18.680] CRUSHER: This is healing beautifully.
+[00:28:19.160 --> 00:28:21.240] CRUSHER: I think you can work on strengthening these muscles again.
+[00:28:22.120 --> 00:28:23.080] WORF: Security to Doctor
+[00:28:23.080 --> 00:28:23.400] WORF: Crusher.
+[00:28:23.511 --> 00:28:23.991] WORF: Evacuate.
+[00:28:24.391 --> 00:28:24.791] WORF: Repeat,
+[00:28:25.111 --> 00:28:25.111] WORF: evacuate.
+[00:28:25.191 --> 00:28:28.071] WORF: Radiation emissions are indicated in Sickbay.
+[00:28:41.111 --> 00:28:44.151] DATA: It is definitely the same radiation that penetrated deck thirty nine.
+[00:28:44.791 --> 00:28:47.671] DATA: Highly focused, very powerful but of unknown origin.
+[00:28:47.911 --> 00:28:50.471] LAFORGE: If this should happen in the engine core or the anti-matter containment tanks,
+[00:28:50.871 --> 00:28:51.911] LAFORGE: we'll be in big trouble, Captain.
+[00:28:52.711 --> 00:28:53.511] PICARD: Do you have any theories?
+[00:28:53.911 --> 00:28:58.071] WESLEY: Captain, Data's noticed something that's too strange to be a coincidence.
+[00:28:58.631 --> 00:29:03.671] DATA: The two radiation events aboard the Enterprise occurred five hours, twenty minutes and three seconds apart.
+[00:29:04.231 --> 00:29:07.671] DATA: The science station exploded yesterday at almost four times that interval.
+[00:29:08.071 --> 00:29:12.231] WESLEY: There's a point zero zero one four second variance we haven't been able to explain yet.
+[00:29:12.711 --> 00:29:15.831] RIKER: So you're saying there's a connection between the radiation bursts and the explosion?
+[00:29:16.711 --> 00:29:19.671] DATA: We do not have the evidence to support that conclusion at this time, Commander.
+[00:29:20.631 --> 00:29:23.111] CRUSHER: If they're right, we should be able to predict the next event.
+[00:29:23.591 --> 00:29:25.111] LAFORGE: We're expecting it in just over five hours.
+[00:29:25.831 --> 00:29:28.391] PICARD: Take every precaution to protect the ship's vital areas.
+[00:29:28.871 --> 00:29:33.351] PICARD: If we haven't identified the source before the time interval, we'll leave orbit.
+[00:29:33.991 --> 00:29:36.951] PICARD: If you perceive any further danger, advise me immediately.
+[00:29:40.391 --> 00:29:41.591] WESLEY: We'll figure it out for you, Commander.
+[00:29:53.991 --> 00:29:57.351] TAYNA: After the fight, Doctor Apgar came to find me
+[00:29:57.923 --> 00:29:59.043] TAYNA: he was very upset.
+[00:30:01.283 --> 00:30:02.563] KRAG: And he told you what happened?
+[00:30:03.043 --> 00:30:05.043] TAYNA: Yes, he told me everything that happened.
+[00:30:06.003 --> 00:30:12.963] KRAG: Based on Tayna's deposition, we have recreated the incident in Commander Riker's quarters as Doctor Apgar described it to her.
+[00:30:14.803 --> 00:30:15.216] KRAG: Computer.
+[00:30:15.216 --> 00:30:17.283] PICARD: Inspector, Inspector, this is hearsay.
+[00:30:18.163 --> 00:30:20.263] PICARD: She wasn't a witness to this incident.
+[00:30:20.263 --> 00:30:21.763] KRAG: But Doctor Apgar is dead.
+[00:30:22.963 --> 00:30:27.763] KRAG: Her statement is admissible according Tanugan law and I insist you consider it.
+[00:30:29.923 --> 00:30:30.323] PICARD: Well,
+[00:30:32.003 --> 00:30:36.163] PICARD: we'll watch this evidence, and we'll weigh it accordingly.
+[00:30:37.523 --> 00:30:40.643] KRAG: Computer, run Tayna simulation three.
+[00:30:43.843 --> 00:30:45.363] APGAR: I
+[00:30:48.723 --> 00:30:50.483] APGAR: knew I'd find the two of you together.
+[00:30:51.043 --> 00:30:53.523] APGAR: Do you think I didn't notice how you were looking at each other?
+[00:30:54.003 --> 00:30:56.323] APGAR: I'm not the fool you take me for.
+[00:31:00.403 --> 00:31:03.843] APGAR: I'm going to report this, Riker.
+[00:31:03.843 --> 00:31:05.203] APGAR: You can count on that.
+[00:31:05.283 --> 00:31:06.723] RIKER: You're a dead man, Apgar.
+[00:31:07.363 --> 00:31:08.163] RIKER: A dead man.
+[00:31:08.963 --> 00:31:09.843] KRAG: Freeze programme.
+[00:31:11.683 --> 00:31:13.683] KRAG: And then Doctor Apgar came to find you?
+[00:31:14.163 --> 00:31:14.643] TAYNA: Yes.
+[00:31:15.763 --> 00:31:17.923] KRAG: Run Tayna simulation four.
+[00:31:19.043 --> 00:31:25.283] APGAR: I want you to take Manua and beam down to Tanuga immediately.
+[00:31:25.443 --> 00:31:27.523] TAYNA: But Doctor, if he threatened you, you shouldn't stay
+[00:31:27.603 --> 00:31:29.043] APGAR: I'm not leaving him here alone.
+[00:31:29.043 --> 00:31:30.083] APGAR: He's capable of anything.
+[00:31:30.083 --> 00:31:31.603] APGAR: I've got to protect our work.
+[00:31:32.043 --> 00:31:33.243] TAYNA: I'll contact the authorities.
+[00:31:33.243 --> 00:31:33.243] APGAR: No.
+[00:31:35.083 --> 00:31:35.883] APGAR: I'll take care of that.
+[00:31:40.923 --> 00:31:42.603] TAYNA: Doctor, be careful.
+[00:31:43.003 --> 00:31:44.123] APGAR: It'll be all right.
+[00:31:45.243 --> 00:31:46.243] APGAR: Go on.
+[00:31:46.243 --> 00:31:47.243] KRAG: Freeze programme.
+[00:31:47.803 --> 00:31:50.043] KRAG: Then what happened?
+[00:31:50.763 --> 00:31:52.283] TAYNA: I left the station with Manua.
+[00:31:52.923 --> 00:31:56.763] TAYNA: The next day, when I heard the station had exploded, I knew what had happened.
+[00:31:57.083 --> 00:31:58.923] TAYNA: He'd killed Doctor Apgar.
+[00:32:00.683 --> 00:32:01.083] KRAG: Thank you.
+[00:32:01.963 --> 00:32:02.763] KRAG: You are excused.
+[00:32:07.483 --> 00:32:07.883] KRAG: Captain,
+[00:32:08.923 --> 00:32:11.483] KRAG: I have established motive, method and opportunity.
+[00:32:11.723 --> 00:32:16.843] KRAG: In any court in the Federation, that is sufficient to warrant the extradition of the accused.
+[00:32:18.603 --> 00:32:19.723] KRAG: I await your decision forthwith.
+[00:32:20.123 --> 00:32:20.363] PICARD: I
+[00:32:33.003 --> 00:32:33.883] PICARD: don't see any alternative,
+[00:32:34.043 --> 00:32:34.283] PICARD: do you?
+[00:32:35.243 --> 00:32:36.683] TROI: We both know Will's innocent.
+[00:32:36.923 --> 00:32:37.883] PICARD: Of course he's innocent.
+[00:32:39.083 --> 00:32:43.403] PICARD: But as a Starfleet Captain, I can't allow myself the luxury of yielding to my personal feelings.
+[00:32:46.763 --> 00:32:48.203] PICARD: The evidence warrants a trial.
+[00:32:49.563 --> 00:32:50.763] PICARD: I'll have to allow extradition.
+[00:32:53.483 --> 00:32:55.883] TROI: Do you think there's enough evidence to prove his innocence?
+[00:32:59.163 --> 00:32:59.843] PICARD: No.
+[00:32:59.843 --> 00:33:00.523] DATA: Captain,
+[00:33:01.003 --> 00:33:02.763] DATA: I believe we have found the source of the radiation.
+[00:33:03.163 --> 00:33:04.283] DATA: Can you join us on the Bridge?
+[00:33:04.923 --> 00:33:05.323] PICARD: Acknowledged.
+[00:33:12.095 --> 00:33:17.151] DATA: As you know, Captain, we are looking for a phenomenon that reoccurs every five hours, twenty minutes and three seconds.
+[00:33:17.151 --> 00:33:18.415] PICARD: The interval between radiation bursts.
+[00:33:18.815 --> 00:33:21.135] DATA: We have found one such phenomenon on the planet's surface.
+[00:33:21.375 --> 00:33:23.775] LAFORGE: It's the field generator that Apgar during in his research.
+[00:33:24.335 --> 00:33:30.655] LAFORGE: When it's fully charged, it automatically emits an energy pulse and then takes five hours, twenty minutes and three seconds to recharge itself.
+[00:33:30.975 --> 00:33:33.055] WESLEY: It must have been left on after the explosion of the lab.
+[00:33:33.775 --> 00:33:36.895] PICARD: But why would a generator be affecting the Enterprise this way?
+[00:33:37.855 --> 00:33:38.655] DATA: It should not be.
+[00:33:38.975 --> 00:33:40.895] DATA: It is a harmless lambda field generator.
+[00:33:41.535 --> 00:33:45.615] LAFORGE: But we knew that somehow it was related to our radiation bursts and then the pieces started just falling together.
+[00:33:46.095 --> 00:33:49.775] DATA: We now know what is causing the bursts, and why the science station exploded, sir.
+[00:33:50.335 --> 00:33:51.935] WESLEY: And we also know who killed Doctor Apgar.
+[00:34:09.295 --> 00:34:20.495] PICARD: Chief Inspector, we've watched the events replayed over and over again and I am impressed, and admittedly dismayed
+[00:34:22.335 --> 00:34:24.495] PICARD: by the body of evidence against Commander Riker.
+[00:34:25.855 --> 00:34:36.895] PICARD: But isn't it remarkable that with all the witnesses, all the different points of view of the events aboard the space station, we haven't seen what really happened?
+[00:34:38.095 --> 00:34:39.055] KRAG: I do not understand.
+[00:34:39.666 --> 00:34:43.186] PICARD: Allow me, with the help of Mister La Forge, to explain.
+[00:34:43.506 --> 00:34:45.826] PICARD: Computer, load Manua programme one,
+[00:34:46.546 --> 00:34:47.346] PICARD: time index
+[00:34:49.346 --> 00:34:50.226] PICARD: fourteen four one.
+[00:34:50.226 --> 00:34:50.866] PICARD: Play
+[00:34:52.706 --> 00:34:53.186] PICARD: programme.
+[00:34:53.986 --> 00:34:54.706] APGAR: Fine. Whatever.
+[00:34:54.706 --> 00:34:56.706] APGAR: Starfleet will get its Krieger wave converter.
+[00:34:56.706 --> 00:34:57.826] APGAR: These things take time.
+[00:34:57.826 --> 00:34:59.106] APGAR: I've had a few setbacks,
+[00:34:59.106 --> 00:34:59.586] APGAR: that's all.
+[00:34:59.666 --> 00:34:59.986] PICARD: Freeze.
+[00:35:01.586 --> 00:35:03.506] PICARD: Mrs. Apgar, this was from your deposition.
+[00:35:03.506 --> 00:35:07.346] PICARD: It would seem to suggest that your husband had failed to create Krieger waves.
+[00:35:07.346 --> 00:35:09.266] MANUA: Yes, but he was very close to a breakthrough.
+[00:35:09.426 --> 00:35:10.706] PICARD: He said he needed more time.
+[00:35:10.706 --> 00:35:12.626] PICARD: He was upset by our early arrival.
+[00:35:13.346 --> 00:35:16.786] PICARD: But in fact I maintain he already had made that breakthrough
+[00:35:18.546 --> 00:35:19.586] PICARD: and that he was lying to us.
+[00:35:21.266 --> 00:35:22.146] KRAG: On what basis?
+[00:35:22.546 --> 00:35:26.146] LAFORGE: For the last several hours, the Enterprise has been experiencing unusual radiation bursts.
+[00:35:26.866 --> 00:35:28.786] LAFORGE: We've identified them as Krieger waves.
+[00:35:29.346 --> 00:35:30.226] TAYNA: Krieger waves?
+[00:35:30.386 --> 00:35:31.346] TAYNA: But that's impossible.
+[00:35:31.826 --> 00:35:32.306] TAYNA: From where?
+[00:35:32.866 --> 00:35:34.466] LAFORGE: From right here. Inside the holodeck.
+[00:35:35.186 --> 00:35:38.386] PICARD: We recreated your science lab in every conceivable detail.
+[00:35:39.026 --> 00:35:41.752] PICARD: Essentially, what was in the original lab is here.
+[00:35:41.752 --> 00:35:43.266] LAFORGE: Including the Krieger wave converter
+[00:35:43.266 --> 00:35:44.786] LAFORGE: that Doctor Apgar claimed didn't work.
+[00:35:45.586 --> 00:35:46.306] LAFORGE: Except it does work.
+[00:35:46.946 --> 00:35:56.546] PICARD: Your field generator on the planet surface has been sending out harmless energy charges, which this facsimile has been converting into Krieger waves.
+[00:35:56.866 --> 00:35:58.466] RIKER: But the holodeck can't create anything dangerous.
+[00:35:59.186 --> 00:35:59.826] LAFORGE: Well, it didn't.
+[00:36:01.346 --> 00:36:08.386] LAFORGE: When you get down to basics, the converter is nothing more than a complex series of mirrors and reflective coils.
+[00:36:09.211 --> 00:36:15.931] LAFORGE: The energy from the field generator down on the planet simply reflects off of elements in the convertor which turns it into highly focused Krieger waves.
+[00:36:17.451 --> 00:36:24.251] PICARD: And those same waves have been randomly striking different areas of our ship as we orbit the planet and our angle to the generator changes.
+[00:36:25.451 --> 00:36:28.091] KRAG: Why would Apgar lie about his success?
+[00:36:28.411 --> 00:36:32.731] PICARD: Computer, run Manua programme one, time code, fourteen three eight.
+[00:36:36.091 --> 00:36:36.571] APGAR: Manua,
+[00:36:38.331 --> 00:36:41.211] APGAR: someday I'll be able reward you for all your patience.
+[00:36:41.211 --> 00:36:43.611] APGAR: I'll get you everything you ever dreamed of.
+[00:36:43.691 --> 00:36:46.171] MANUA: I have all the reward I need.
+[00:36:46.171 --> 00:36:46.811] PICARD: Freeze programme.
+[00:36:47.931 --> 00:36:51.291] PICARD: Run Riker programme two, time code,
+[00:36:53.051 --> 00:36:54.171] PICARD: sixteen one zero.
+[00:36:55.531 --> 00:36:55.691] RIKER: To your
+[00:36:57.531 --> 00:36:59.771] RIKER: success, doctor.
+[00:37:00.731 --> 00:37:02.331] MANUA: And the rewards that come with it.
+[00:37:03.131 --> 00:37:03.451] PICARD: Freeze.
+[00:37:03.611 --> 00:37:06.251] MANUA: I never said that.
+[00:37:07.211 --> 00:37:12.571] PICARD: Nevertheless, it seems clear that your husband was motivated to earn the kind of rewards that pleased you, Mrs.
+[00:37:12.571 --> 00:37:12.891] PICARD: Apgar.
+[00:37:13.611 --> 00:37:14.331] MANUA: What's wrong with that?
+[00:37:15.051 --> 00:37:18.971] TROI: Well, he wouldn't have earned great profits from his dealings with Starfleet.
+[00:37:18.971 --> 00:37:21.451] TROI: We were only interested in a new power source.
+[00:37:21.451 --> 00:37:26.731] LAFORGE: But if he could turn this into a weapon it would be worth a lot to the Romulans, the Ferengi and a few others.
+[00:37:27.451 --> 00:37:30.251] LAFORGE: Now Doctor Apgar had been ordering extra dicosilium for months.
+[00:37:30.251 --> 00:37:33.531] LAFORGE: That's a pretty good indication that he was trying to create larger reflective coils.
+[00:37:33.771 --> 00:37:35.291] PICARD: And when the away team arrived early
+[00:37:35.371 --> 00:37:38.971] PICARD: he must have been worried that Starfleet was becoming suspicious.
+[00:37:41.611 --> 00:37:43.451] PICARD: He needed more time to finish his work.
+[00:37:44.171 --> 00:37:46.091] PICARD: Apgar said that each of the three versions.
+[00:37:46.251 --> 00:37:53.771] PICARD: No doubt, he was afraid that Commander Riker might learn the truth and cut off his support prematurely.
+[00:37:59.611 --> 00:38:03.051] PICARD: Discovering Commander Riker with his wife didn't help matters.
+[00:38:03.851 --> 00:38:06.251] PICARD: I submit that he decided to murder Commander Riker.
+[00:38:08.251 --> 00:38:09.131] MANUA: Ridiculous.
+[00:38:09.531 --> 00:38:09.851] PICARD: Is it?
+[00:38:11.051 --> 00:38:17.451] PICARD: Computer, run Tayna programme four, time index eighteen one four.
+[00:38:22.171 --> 00:38:23.451] TAYNA: I'll contact the authorities.
+[00:38:23.451 --> 00:38:23.771] APGAR: No,
+[00:38:25.291 --> 00:38:26.171] APGAR: I'll take care of that.
+[00:38:29.371 --> 00:38:29.611] PICARD: Freeze.
+[00:38:29.611 --> 00:38:33.451] PICARD: Tayna, exactly is Apgar doing here?
+[00:38:34.651 --> 00:38:36.491] TAYNA: Activating the generator on the planet.
+[00:38:37.131 --> 00:38:37.931] PICARD: Why would he do that?
+[00:38:39.451 --> 00:38:41.691] TAYNA: Maybe he was going to work on the converter,
+[00:38:42.171 --> 00:38:42.891] TAYNA: I don't know.
+[00:38:44.251 --> 00:38:47.851] PICARD: Maybe he was already thinking ahead to his next confrontation with Commander Riker.
+[00:38:49.051 --> 00:38:53.771] PICARD: Computer, play Riker programme four, time index twenty four one.
+[00:38:57.291 --> 00:38:59.131] APGAR: What are you going to put in your report, Riker?
+[00:38:59.131 --> 00:39:02.651] APGAR: That there's no justification for all the extra dicosilium I've requested?
+[00:39:02.651 --> 00:39:04.251] APGAR: That is why they sent you early, isn't it?
+[00:39:04.251 --> 00:39:04.511] RIKER: Doctor.
+[00:39:04.511 --> 00:39:06.331] APGAR: I can explain why I needed it.
+[00:39:06.331 --> 00:39:08.411] APGAR: They have no idea what my problems are.
+[00:39:08.598 --> 00:39:10.278] APGAR: There are explanations for all of it.
+[00:39:10.278 --> 00:39:11.638] RIKER: I don't need explanations.
+[00:39:11.798 --> 00:39:12.118] PICARD: Freeze.
+[00:39:12.118 --> 00:39:12.198] PICARD: To
+[00:39:14.118 --> 00:39:23.406] PICARD: Apgar, this must have seemed as though Commander Riker were confirming his worst fears. And I believe it was now that he decided finally to kill him.
+[00:39:23.406 --> 00:39:24.438] KRAG: You forget, Picard,
+[00:39:25.078 --> 00:39:33.238] KRAG: we know the energy pulse which blew up the reactor originated from Commander Riker's position, not Doctor Apgar's.
+[00:39:34.358 --> 00:39:42.758] LAFORGE: We are hypothesising that Doctor Apgar energised the converter at the moment of Commander Riker's beam-out, hoping to make his death look like a transporter accident.
+[00:39:43.318 --> 00:39:44.198] LAFORGE: But something went wrong.
+[00:39:45.238 --> 00:39:50.278] LAFORGE: The energy pulse hit the transporter beam and reflected back to the reactor, which caused the explosion.
+[00:39:50.998 --> 00:39:54.278] KRAG: An interesting hypothesis. But impossible to prove.
+[00:39:54.998 --> 00:39:55.478] LAFORGE: Not really.
+[00:39:56.678 --> 00:40:00.598] LAFORGE: We know that the field generator on the planet has been repeating a discharge ever since the explosion.
+[00:40:00.598 --> 00:40:04.758] LAFORGE: The intervals are like clockwork, except the explosion occurred
+[00:40:04.758 --> 00:40:08.118] LAFORGE: point zero zero one four seconds after the initial discharge.
+[00:40:08.518 --> 00:40:14.438] LAFORGE: And the only explanation for that variance is the time it would take the energy pulse to bounce back from the transporter beam to the reactor.
+[00:40:14.998 --> 00:40:16.758] PICARD: We've arranged a demonstration to illustrate.
+[00:40:16.918 --> 00:40:19.638] PICARD: Mister La Forge, I think it's about time, isn't it?
+[00:40:20.118 --> 00:40:22.278] LAFORGE: Computer, load programme, La Forge one.
+[00:40:23.478 --> 00:40:26.038] LAFORGE: Coordinate auto-engage time sequence.
+[00:40:26.038 --> 00:40:34.918] LAFORGE: The next discharge from the field generator is scheduled to occur in just a few moments, and we've aligned the holodeck programme to recreate the final events as Commander Riker described them.
+[00:40:35.158 --> 00:40:35.798] LAFORGE: Only this time
+[00:40:36.252 --> 00:40:44.332] LAFORGE: our facsimile will automatically process the energy charge from the planet and reflect it just as the original convertor did before the explosion.
+[00:40:45.292 --> 00:40:48.172] PICARD: If we're correct, we'll know it instantly.
+[00:40:48.732 --> 00:40:51.132] COMPUTER: Auto-engage time sequence synchronised.
+[00:40:52.732 --> 00:40:55.292] APGAR: Then we have nothing further to say to each other.
+[00:40:56.252 --> 00:40:58.412] RIKER: I'll tell my Captain to expect your grievance.
+[00:40:58.892 --> 00:40:59.292] APGAR: Do that.
+[00:41:01.372 --> 00:41:02.332] RIKER: Riker to Enterprise.
+[00:41:02.652 --> 00:41:03.772] RIKER: I'm ready to leave, now.
+[00:41:04.572 --> 00:41:05.532] O'BRIEN: Stand by, Commander.
+[00:41:06.012 --> 00:41:06.972] O'BRIEN: Engaging transport.
+[00:41:09.612 --> 00:41:10.092] PICARD: Doctor
+[00:41:31.292 --> 00:41:35.052] PICARD: Apgar killed himself during his attempt to kill Commander Riker.
+[00:41:42.572 --> 00:41:47.532] KRAG: Based on this new evidence, I withdraw my request for Commander Riker's extradition.
+[00:41:49.692 --> 00:41:52.252] KRAG: Commander, my apologies.
+[00:41:59.612 --> 00:42:01.612] PICARD: Number One,
+[00:42:02.270 --> 00:42:05.390] PICARD: have we any further business in the Tanuga system?
+[00:42:05.870 --> 00:42:06.350] RIKER: Not that I know of.
+[00:42:06.510 --> 00:42:08.430] RIKER: I'd be more than willing to put it behind me.
+[00:42:08.430 --> 00:42:11.070] PICARD: Then perhaps you would do me the pleasure of getting this ship underway.
+[00:42:11.310 --> 00:42:11.950] RIKER: With pleasure, sir.
+[00:42:12.670 --> 00:42:15.630] RIKER: Ensign Crusher, set course for Emila Two, warp three.
+[00:42:17.390 --> 00:42:18.110] WESLEY: Course laid in, sir.
+[00:42:19.070 --> 00:42:19.470] RIKER: Engage.

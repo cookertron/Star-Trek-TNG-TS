@@ -1,0 +1,689 @@
+[00:00:02.080 --> 00:00:05.680] LOG: Captain's log, stardate 41309.5.
+[00:00:06.160 --> 00:00:13.920] LOG: We are in orbit around Persephone Five, where I have been sent to confer with Admiral Mark Jameson in regard to an extraordinary situation.
+[00:00:14.640 --> 00:00:18.560] PICARD: Starfleet received this subspace transmission two days ago, Admiral.
+[00:00:19.200 --> 00:00:20.160] JAMESON: Let's see it, Captain.
+[00:00:20.960 --> 00:00:21.440] PICARD: On viewer.
+[00:00:24.640 --> 00:00:24.640] KARNAS: I
+[00:00:26.640 --> 00:00:28.640] KARNAS: am Karnas, governor of Mordan Four.
+[00:00:29.360 --> 00:00:34.960] KARNAS: A dissident group of terrorists have taken Federation Ambassador Hawkins and his staff hostage.
+[00:00:35.600 --> 00:00:37.520] KARNAS: They will not discuss terms with me.
+[00:00:38.320 --> 00:00:40.560] KARNAS: This is a crisis I cannot resolve.
+[00:00:41.120 --> 00:00:44.160] KARNAS: The terrorists are demanding a Federation negotiator.
+[00:00:44.720 --> 00:00:49.440] KARNAS: I feel there is only one negotiator with the skills to resolve the situation.
+[00:00:50.080 --> 00:00:54.400] KARNAS: The lives of the hostages will depend on Starfleet delivering this man to Mordan.
+[00:00:55.760 --> 00:00:59.200] KARNAS: Commander Mark Jameson. Admiral Jameson.
+[00:01:00.080 --> 00:01:06.480] KARNAS: The terrorists have given you six Earth days to bring him here, or the hostages will die.
+[00:01:08.000 --> 00:01:11.040] PICARD: Starfleet cannot understand how or why this situation has developed.
+[00:01:11.360 --> 00:01:14.720] PICARD: Mordan Four has finally gained peace after decades of civil war
+[00:01:15.360 --> 00:01:17.360] JAMESON: Forty years of civil war, Captain.
+[00:01:18.000 --> 00:01:18.320] PICARD: Yes, sir.
+[00:01:19.280 --> 00:01:23.040] PICARD: Karnas was largely responsible for the planet's unification and peace.
+[00:01:23.040 --> 00:01:27.120] PICARD: Why should he now be unable to deal with this rebellious faction?
+[00:01:28.000 --> 00:01:29.280] JAMESON: Forty-five years ago
+[00:01:29.640 --> 00:01:33.320] JAMESON: I negotiated a hostage situation on Mordan, Captain.
+[00:01:33.480 --> 00:01:37.720] JAMESON: Karnas was a young man then, but so was I.
+[00:01:38.120 --> 00:01:41.240] JAMESON: He seems to feel that I can handle the situation again.
+[00:01:41.480 --> 00:01:44.600] PICARD: I'm detailed to take you to Mordan Four as soon as you can be ready, Admiral.
+[00:01:45.880 --> 00:01:47.560] JAMESON: My wife and I will beam aboard at
+[00:01:48.040 --> 00:01:49.480] JAMESON: fifteen hundred hours, Captain.
+[00:01:50.200 --> 00:01:50.760] JAMESON: Acknowledge.
+[00:01:51.560 --> 00:01:52.520] PICARD: Received and acknowledged, sir.
+[00:01:52.840 --> 00:01:53.400] PICARD: Picard out.
+[00:01:54.520 --> 00:01:55.800] TROI: Nearly fifteen hundred now, sir.
+[00:01:57.720 --> 00:02:00.440] PICARD: Well, Number One, let's go and welcome the Admiral aboard.
+[00:02:12.200 --> 00:02:13.000] PICARD: Welcome aboard, Admiral.
+[00:02:14.760 --> 00:02:16.680] PICARD: This is my Executive Officer, Commander William Riker.
+[00:02:17.160 --> 00:02:17.880] RIKER: My pleasure, sir.
+[00:02:18.440 --> 00:02:18.680] RIKER: Ma'am.
+[00:02:19.560 --> 00:02:22.280] JAMESON: My wife, Anne. Captain,
+[00:02:23.080 --> 00:02:27.320] JAMESON: there are certain details of this mission that you should understand before we begin.
+[00:02:28.040 --> 00:02:28.280] PICARD: Yes, sir.
+[00:02:28.920 --> 00:02:30.360] JAMESON: I am not simply an advisor.
+[00:02:30.920 --> 00:02:35.320] JAMESON: On any assignment I accompany, Starfleet has designated me Senior Mission Officer.
+[00:02:35.960 --> 00:02:38.120] JAMESON: I control the away team and all its actions.
+[00:02:38.120 --> 00:02:38.920] JAMESON: Is that understood?
+[00:02:40.280 --> 00:02:41.400] JAMESON: Of course, Captain,
+[00:02:41.800 --> 00:02:45.240] JAMESON: you command the ship, but the mission is mine.
+[00:02:45.320 --> 00:02:47.080] JAMESON: I trust you are in complete agreement.
+[00:02:50.280 --> 00:02:50.600] PICARD: Yes, sir.
+[00:02:50.600 --> 00:02:51.880] PICARD: Of course.
+[00:03:12.311 --> 00:03:14.871] PICARD: Space, the final frontier.
+[00:03:16.711 --> 00:03:19.591] PICARD: These are the voyages of the starship Enterprise.
+[00:03:20.711 --> 00:03:33.591] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:39.000 --> 00:03:49.000] [music]
+[00:03:50.000 --> 00:04:15.000] [music]
+[00:04:16.000 --> 00:04:26.000] [music]
+[00:04:27.000 --> 00:04:35.000] [music]
+[00:04:41.030 --> 00:04:42.310] GEORDI: Message coming in from Mordan, sir.
+[00:04:42.310 --> 00:04:47.590] PICARD: Put it on the screen, Mister Data.
+[00:04:47.750 --> 00:04:49.030] KARNAS: Mordan Four to Enterprise.
+[00:04:49.030 --> 00:04:49.830] KARNAS: This is Karnas.
+[00:04:49.990 --> 00:04:51.190] KARNAS: I will speak to the Captain.
+[00:04:52.550 --> 00:04:54.710] PICARD: I am Captain Picard, commanding the Enterprise.
+[00:04:55.430 --> 00:04:58.470] KARNAS: Is Admiral Jameson on board?
+[00:04:58.470 --> 00:04:59.750] PICARD: He's here, beside my First Officer.
+[00:05:00.630 --> 00:05:01.670] PICARD: Do you wish to speak to him now?
+[00:05:03.750 --> 00:05:06.470] KARNAS: So, Jameson. I see time has not been kind.
+[00:05:07.350 --> 00:05:08.870] JAMESON: It seldom is, Karnas.
+[00:05:09.910 --> 00:05:14.951] JAMESON: However, we could save a good deal of it now if you'll outline the terrorists' demands.
+[00:05:15.430 --> 00:05:18.310] KARNAS: They insist all discussions will take place here on Mordan.
+[00:05:18.870 --> 00:05:22.550] KARNAS: They refuse to speak to me, only to a Federation mediator.
+[00:05:22.951 --> 00:05:26.790] KARNAS: They say they will brook no excuses. If there are any offered,
+[00:05:27.030 --> 00:05:29.350] KARNAS: your ambassador and his people will die.
+[00:05:30.150 --> 00:05:32.390] KARNAS: Unpleasantly. I believe them.
+[00:05:33.030 --> 00:05:33.910] KARNAS: So should you, Admiral.
+[00:05:35.990 --> 00:05:36.230] JAMESON: Tell them
+[00:05:38.150 --> 00:05:40.630] JAMESON: I accept the conditions of negotiation.
+[00:05:41.430 --> 00:05:42.710] KARNAS: I will do so immediately.
+[00:05:43.830 --> 00:05:48.630] RIKER: For a man in his position, he doesn't seem to know much about the situation.
+[00:05:49.030 --> 00:05:49.910] JAMESON: Wrong, Number One.
+[00:05:51.670 --> 00:05:56.550] JAMESON: He told me that the terrorists are desperate enough to kill if they're crossed.
+[00:05:57.881 --> 00:06:02.755] JAMESON: They are willing to talk, one on one, but not to him.
+[00:06:02.755 --> 00:06:03.161] PICARD: Counsellor?
+[00:06:04.201 --> 00:06:10.121] TROI: From his body language as well as his words and tone, I'd judge that what Karnas said was honest.
+[00:06:11.641 --> 00:06:13.241] TROI: But I sensed a holding back.
+[00:06:14.761 --> 00:06:17.481] PICARD: Perhaps he knows more about the terrorists than he's prepared to admit.
+[00:06:18.201 --> 00:06:28.121] JAMESON: Possible, but I suspect it's closer to the mark if we said he doesn't want to admit failure of his own efforts to negotiate.
+[00:06:28.681 --> 00:06:29.721] JAMESON: He is a proud man.
+[00:06:30.441 --> 00:06:31.241] TROI: That could be, sir.
+[00:06:31.961 --> 00:06:35.241] TROI: Karnas has established himself as a powerful man on Mordan.
+[00:06:36.041 --> 00:06:39.481] TROI: Suddenly, in this situation, his power is useless.
+[00:06:39.961 --> 00:06:40.921] CRUSHER: Sickbay to Bridge.
+[00:06:41.401 --> 00:06:43.001] CRUSHER: I'm ready for Admiral Jameson now.
+[00:06:43.401 --> 00:06:44.681] PICARD: In a few moments, Doctor.
+[00:06:46.521 --> 00:06:47.721] JAMESON: Ready for what, Captain?
+[00:06:49.001 --> 00:06:50.281] PICARD: Just a routine medical checkup.
+[00:06:50.761 --> 00:06:51.641] PICARD: Ship's regulations.
+[00:06:58.921 --> 00:07:01.961] RIKER: What I don't understand, sir,
+[00:07:01.961 --> 00:07:02.441] RIKER: is how
+[00:07:02.521 --> 00:07:04.777] RIKER: Karnas knew you were still available.
+[00:07:04.777 --> 00:07:06.281] JAMESON: Still alive, you mean.
+[00:07:06.841 --> 00:07:08.521] RIKER: So far as he knew, sir, you could have been dead.
+[00:07:09.081 --> 00:07:10.041] JAMESON: Quite right, Commander,
+[00:07:10.441 --> 00:07:13.881] JAMESON: but I am not, and I imagine Ambassador Hawkins has told him that.
+[00:07:14.841 --> 00:07:18.281] JAMESON: I briefed the Ambassador about Mordan before he left to take up residence.
+[00:07:19.321 --> 00:07:20.921] PICARD: All right. Karnas has a problem
+[00:07:21.241 --> 00:07:22.361] PICARD: he thinks you can resolve.
+[00:07:22.441 --> 00:07:24.601] PICARD: What do the terrorists need that Karnas
+[00:07:24.697 --> 00:07:25.097] PICARD: can't,
+[00:07:25.977 --> 00:07:26.857] PICARD: or won't, give them?
+[00:07:27.497 --> 00:07:29.417] DATA: Mordan has had peace for five years.
+[00:07:29.817 --> 00:07:34.937] DATA: They have finally come to a state of productivity which satisfies their planetary needs, but no more than that.
+[00:07:35.737 --> 00:07:39.177] DATA: Perhaps the dissidents feel the Federation could provide them with more.
+[00:07:39.497 --> 00:07:42.697] JAMESON: I have negotiated many treaties on many planets, Picard.
+[00:07:43.577 --> 00:07:47.577] JAMESON: I've found that peace, or the appearance of it, is often a prelude to war.
+[00:07:48.377 --> 00:07:52.697] TROI: Admiral, are you suggesting the terrorists want arms and weapons?
+[00:07:52.937 --> 00:07:53.417] JAMESON: They may.
+[00:07:53.417 --> 00:07:57.897] JAMESON: I am suggesting Karnas is the last man to give them such weapons.
+[00:07:58.297 --> 00:07:58.857] TROI: I see.
+[00:07:59.257 --> 00:08:06.537] TROI: You believe that Karnas would not negotiate on that point, and so the terrorists demanded an outside negotiator.
+[00:08:06.857 --> 00:08:08.137] JAMESON: I know Karnas.
+[00:08:08.137 --> 00:08:09.177] JAMESON: He is a warrior.
+[00:08:09.577 --> 00:08:10.857] JAMESON: He lives for challenge. These
+[00:08:11.177 --> 00:08:14.457] JAMESON: people have insulted his honour by taking the embassy staff hostage.
+[00:08:15.417 --> 00:08:19.657] JAMESON: I'll negotiate, but I'll have to be very careful in dealing with Karnas.
+[00:08:20.537 --> 00:08:22.457] JAMESON: He'll want revenge for that insult.
+[00:08:29.657 --> 00:08:29.817] ANNE: Well, it's
+[00:08:36.057 --> 00:08:37.017] ANNE: about time.
+[00:08:37.897 --> 00:08:39.257] ANNE: Couldn't get away from the Bridge?
+[00:08:39.657 --> 00:08:40.457] JAMESON: Didn't want to.
+[00:08:41.257 --> 00:08:42.777] JAMESON: Feels good to be on one again.
+[00:08:45.017 --> 00:08:45.977] ANNE: I'm glad, Mark. Do
+[00:08:47.177 --> 00:08:47.897] ANNE: you want me to help you up?
+[00:08:51.737 --> 00:08:52.137] ANNE: You're
+[00:08:58.909 --> 00:09:00.589] ANNE: stronger today.
+[00:09:02.109 --> 00:09:02.589] JAMESON: I'm fine.
+[00:09:02.589 --> 00:09:03.629] JAMESON: I feel like a kid again.
+[00:09:06.509 --> 00:09:08.429] ANNE: This ship is magnificent.
+[00:09:09.229 --> 00:09:10.909] ANNE: It even has family quarters.
+[00:09:12.109 --> 00:09:14.989] ANNE: Pity we didn't have them twenty, thirty years ago.
+[00:09:15.789 --> 00:09:18.429] ANNE: We could have been together almost all of your career.
+[00:09:22.429 --> 00:09:24.429] ANNE: Mark! Mark? I'll
+[00:09:26.829 --> 00:09:27.469] ANNE: get Sickbay.
+[00:09:28.269 --> 00:09:30.349] JAMESON: No. There's no need.
+[00:09:30.349 --> 00:09:31.549] JAMESON: It's happened before.
+[00:09:34.189 --> 00:09:36.760] ANNE: When? You haven't said anything.
+[00:09:36.760 --> 00:09:37.789] JAMESON: It'll pass.
+[00:09:38.509 --> 00:09:39.309] JAMESON: Just give me a moment.
+[00:09:42.109 --> 00:09:43.789] JAMESON: See, I'm better.
+[00:09:43.949 --> 00:09:44.509] JAMESON: It's going away.
+[00:09:44.509 --> 00:09:44.509] ANNE: What
+[00:09:47.549 --> 00:09:47.869] ANNE: is it?
+[00:09:48.029 --> 00:09:49.229] ANNE: Do the doctors know?
+[00:09:49.949 --> 00:09:51.149] JAMESON: Just body changes.
+[00:09:52.189 --> 00:09:53.229] JAMESON: Last checkup they said
+[00:09:53.229 --> 00:09:54.669] JAMESON: I'd have to expect it.
+[00:09:57.629 --> 00:09:58.189] ANNE: You're sure?
+[00:09:59.069 --> 00:09:59.789] ANNE: Don't lie to me.
+[00:10:01.229 --> 00:10:01.709] JAMESON: I'm sure.
+[00:10:06.669 --> 00:10:11.949] CRUSHER: All the medical information the Admiral provided is satisfactory, sir.
+[00:10:12.189 --> 00:10:12.989] PICARD: Excellent, Doctor.
+[00:10:13.069 --> 00:10:14.429] CRUSHER: Except for one thing.
+[00:10:15.469 --> 00:10:17.869] CRUSHER: The test results he gave me aren't two days old,
+[00:10:17.869 --> 00:10:19.069] CRUSHER: they're two months old.
+[00:10:19.869 --> 00:10:22.829] CRUSHER: The medical file coder always includes the date as part of the file number.
+[00:10:23.960 --> 00:10:25.880] CRUSHER: He lied to me, sir, and I don't know why.
+[00:10:28.040 --> 00:10:29.720] PICARD: He is eighty five years old, Doctor.
+[00:10:29.960 --> 00:10:31.480] PICARD: For some, the memory begins to fail.
+[00:10:31.640 --> 00:10:33.720] CRUSHER: He suffers from Iverson's Disease, sir.
+[00:10:33.720 --> 00:10:36.040] CRUSHER: It affects the body, not the mind.
+[00:10:36.840 --> 00:10:38.680] CRUSHER: No, I have a gut feeling he's hiding something.
+[00:10:40.120 --> 00:10:42.280] PICARD: That is an observation I'd expect from Counsellor Troi.
+[00:10:46.680 --> 00:10:47.000] PICARD: Doctor.
+[00:10:51.080 --> 00:10:57.320] PICARD: Doctor, I do respect your opinion, and I'll want you on the Bridge for the next day or so.
+[00:10:57.400 --> 00:11:03.560] PICARD: The Admiral must remain in the best of health for these negotiations, and he might require your services.
+[00:11:10.440 --> 00:11:12.760] PICARD: Admiral, we're approaching the Idini Star Cluster.
+[00:11:12.760 --> 00:11:14.120] PICARD: Would you like to take the conn as
+[00:11:14.120 --> 00:11:14.840] PICARD: we make transit?
+[00:11:16.360 --> 00:11:17.240] JAMESON: Thank you, Captain.
+[00:11:17.800 --> 00:11:18.280] JAMESON: I would.
+[00:11:40.200 --> 00:11:42.200] PICARD: Well,
+[00:11:55.480 --> 00:11:57.000] PICARD: Admiral, quite a little surprise you've pulled on us.
+[00:11:59.182 --> 00:11:59.902] CRUSHER: Yes, quite.
+[00:12:01.582 --> 00:12:06.782] JAMESON: Neglected to mention I began some new therapy before I left.
+[00:12:06.782 --> 00:12:07.582] JAMESON: Seems to be working.
+[00:12:08.622 --> 00:12:11.422] JAMESON: I haven't felt this good since the last time I was in space.
+[00:12:11.422 --> 00:12:12.062] JAMESON: The Gettysburg.
+[00:12:13.022 --> 00:12:18.142] JAMESON: All I needed to get me out of that chair was the thought of walking the decks in command of a starship again.
+[00:12:19.422 --> 00:12:21.582] PICARD: Admiral, you only have the conn temporarily.
+[00:12:22.542 --> 00:12:23.502] JAMESON: A figure of speech.
+[00:12:23.662 --> 00:12:24.942] JAMESON: Of course she's your ship.
+[00:12:25.262 --> 00:12:28.062] JAMESON: I'll just keep an eye on her for a while.
+[00:12:38.862 --> 00:12:43.742] PICARD: The admiral displayed a remarkable improvement out there, wouldn't you say?
+[00:12:45.102 --> 00:12:47.742] CRUSHER: Captain, no one recovers from Iverson's Disease.
+[00:12:47.902 --> 00:12:48.782] CRUSHER: There is no known cure, and
+[00:12:48.782 --> 00:12:50.782] CRUSHER: there are no cases where it has gone into remission.
+[00:12:51.182 --> 00:12:53.662] CRUSHER: I have never heard of any therapy that would produce results like that.
+[00:12:54.382 --> 00:12:55.262] PICARD: Then how do you account for it?
+[00:12:55.582 --> 00:12:55.982] CRUSHER: I can't.
+[00:12:56.702 --> 00:13:01.662] CRUSHER: All I can tell you is that the Admiral has been confined to his support chair for the last four years by the effects of Iverson's.
+[00:13:02.142 --> 00:13:05.102] CRUSHER: By all the medical facts we know, he should never have walked again.
+[00:13:06.702 --> 00:13:08.622] PICARD: I want you to look into it, Doctor. Thoroughly.
+[00:13:09.022 --> 00:13:09.422] CRUSHER: Yes, sir.
+[00:13:11.022 --> 00:13:17.422] KARNAS: The terrorists have given you six Earth days to bring him here, or the hostages will die.
+[00:13:21.342 --> 00:13:24.782] ANNE: I don't know how much more information you think you can get from that tape.
+[00:13:26.693 --> 00:13:27.253] ANNE: Mark!
+[00:13:28.053 --> 00:13:29.173] ANNE: My God, what's happened?
+[00:13:29.573 --> 00:13:31.013] JAMESON: It's the new therapy I'm taking.
+[00:13:31.653 --> 00:13:32.373] JAMESON: It's working, Annie.
+[00:13:33.253 --> 00:13:34.933] ANNE: Oh, darling!
+[00:13:41.653 --> 00:13:41.813] ANNE: Mark?
+[00:13:42.853 --> 00:13:45.653] JAMESON: I told you I just needed to get back into space again.
+[00:13:48.053 --> 00:13:50.293] ANNE: You really are looking much better.
+[00:13:50.933 --> 00:13:51.893] JAMESON: It's the new treatment.
+[00:13:52.693 --> 00:13:53.093] ANNE: No.
+[00:13:53.893 --> 00:13:55.493] ANNE: Come here.
+[00:13:56.053 --> 00:13:57.733] JAMESON: I hope you're heading for the bedroom.
+[00:13:57.973 --> 00:13:59.093] ANNE: You stop it.
+[00:14:01.333 --> 00:14:05.333] ANNE: Darling, you look like you looked twenty years ago.
+[00:14:06.533 --> 00:14:07.493] JAMESON: You're flatter me.
+[00:14:08.213 --> 00:14:11.413] ANNE: Now you tell me what the hell is going on?
+[00:14:11.653 --> 00:14:12.613] JAMESON: I don't know
+[00:14:12.613 --> 00:14:12.933] ANNE: Sickbay!
+[00:14:16.453 --> 00:14:19.333] ANNE: Medical emergency in the Admiral's quarters!
+[00:14:22.293 --> 00:14:29.893] CRUSHER: I found traces of chemical substances in his blood and tissue samples, but none of them are in our pharmacopoeia.
+[00:14:30.933 --> 00:14:33.733] CRUSHER: I'm still working on alien references to substances like these.
+[00:14:34.133 --> 00:14:38.453] CRUSHER: All I can tell you is that he's ingested something that's strongly affecting his body.
+[00:14:38.533 --> 00:14:39.493] PICARD: Specifics, Doctor.
+[00:14:39.733 --> 00:14:41.253] CRUSHER: Captain, there are so many things going on,
+[00:14:41.253 --> 00:14:43.813] CRUSHER: I can't give you specifics until I do a lot more tests.
+[00:14:44.133 --> 00:14:44.933] PICARD: Give me what you have now.
+[00:14:45.973 --> 00:14:47.653] CRUSHER: His red cell count is running riot.
+[00:14:47.813 --> 00:14:50.533] CRUSHER: The cellular structure of his body is radically changing, but
+[00:14:50.533 --> 00:14:53.333] CRUSHER: we can't make any decisions on that until we know what it's changing to.
+[00:14:53.733 --> 00:14:55.173] CRUSHER: His DNA is skewed.
+[00:14:55.573 --> 00:14:58.053] CRUSHER: Don't ask me how, but he even looks younger.
+[00:14:59.068 --> 00:15:02.828] CRUSHER: And Captain, there are absolutely no traces of Iverson's Disease.
+[00:15:03.388 --> 00:15:05.068] PICARD: You said there is no cure for Iverson's.
+[00:15:05.708 --> 00:15:07.068] CRUSHER: None that we know of.
+[00:15:08.108 --> 00:15:11.148] CRUSHER: But whatever these substances are doing to his body, at least they've done that for him.
+[00:15:11.628 --> 00:15:12.268] CRUSHER: But how or
+[00:15:12.588 --> 00:15:12.908] CRUSHER: why?
+[00:15:14.268 --> 00:15:15.628] CRUSHER: It's too early to say.
+[00:15:17.308 --> 00:15:18.348] PICARD: Get me some answers, Doctor.
+[00:15:18.498 --> 00:15:19.098] PICARD: As
+[00:15:19.948 --> 00:15:20.668] PICARD: soon as possible.
+[00:15:22.268 --> 00:15:22.668] CRUSHER: Yes, sir.
+[00:15:30.188 --> 00:15:30.588] ANNE: Captain.
+[00:15:30.908 --> 00:15:31.548] PICARD: Mrs. Jameson,
+[00:15:32.428 --> 00:15:34.348] PICARD: I have to ask the Admiral some questions.
+[00:15:35.228 --> 00:15:35.948] JAMESON: Ask away.
+[00:15:40.188 --> 00:15:41.148] JAMESON: There's nothing to hide
+[00:15:42.748 --> 00:15:44.748] JAMESON: now.
+[00:15:46.588 --> 00:15:50.588] PICARD: Admiral, in addition to your rank, you are a particularly valuable commodity just now.
+[00:15:51.708 --> 00:15:53.468] PICARD: Starfleet has a right to some answers.
+[00:15:54.668 --> 00:16:01.468] JAMESON: I've planned this for a long time, ever since I learned I had Iverson's Disease. Since it put me in that chair.
+[00:16:02.268 --> 00:16:03.548] ANNE: What did you do, Mark?
+[00:16:04.508 --> 00:16:06.188] JAMESON: There's a planet in the Cerebus system,
+[00:16:07.068 --> 00:16:07.788] JAMESON: Cerebus Two.
+[00:16:08.668 --> 00:16:12.908] JAMESON: They say the natives have a process that rejuvenates the body, gives you your youth back.
+[00:16:13.628 --> 00:16:14.668] PICARD: Yes, I've heard of that story.
+[00:16:15.068 --> 00:16:15.468] PICARD: It's a myth.
+[00:16:16.028 --> 00:16:17.148] JAMESON: It's true, Picard.
+[00:16:17.788 --> 00:16:18.988] JAMESON: I'm living proof.
+[00:16:19.868 --> 00:16:20.668] JAMESON: Oh, it's dangerous.
+[00:16:20.668 --> 00:16:24.428] JAMESON: The mortality rate is high, and it's very
+[00:16:24.497 --> 00:16:24.897] JAMESON: painful.
+[00:16:25.937 --> 00:16:29.217] JAMESON: Aliens are seldom allowed to obtain the process, but I managed it.
+[00:16:29.777 --> 00:16:37.057] JAMESON: I negotiated a treaty for Cerebus Two some years ago, and they felt obligated to honour my request for the process.
+[00:16:37.617 --> 00:16:40.177] PICARD: Obviously it works very rapidly, but how does it work?
+[00:16:40.897 --> 00:16:46.177] JAMESON: The herb and drug combinations are self-administered slowly over a period of two years.
+[00:16:46.977 --> 00:16:50.177] JAMESON: Every response is different, depending on a being's DNA.
+[00:16:50.977 --> 00:16:52.737] JAMESON: I got enough for both of us, Annie, but
+[00:16:52.737 --> 00:16:54.497] JAMESON: I had to test it on myself first.
+[00:16:54.497 --> 00:16:55.857] JAMESON: I couldn't risk you.
+[00:16:56.817 --> 00:17:00.897] JAMESON: If I died, well, I was half a man, so what did it matter.
+[00:17:01.937 --> 00:17:03.457] ANNE: It would matter to me.
+[00:17:03.777 --> 00:17:05.697] JAMESON: But I was starting to change,
+[00:17:05.697 --> 00:17:10.177] JAMESON: Anne. It was almost undetectable, but the improvement was there.
+[00:17:10.177 --> 00:17:14.657] JAMESON: Then when this hostage situation came up, I knew I'd have to be at my peak to deal with it.
+[00:17:15.297 --> 00:17:18.657] JAMESON: I didn't have time to wait for the drug to work naturally.
+[00:17:18.897 --> 00:17:20.017] PICARD: So you took the whole dose.
+[00:17:20.417 --> 00:17:21.457] JAMESON: I took both of them.
+[00:17:22.577 --> 00:17:24.017] JAMESON: And look at me, Annie, look at me.
+[00:17:24.577 --> 00:17:25.537] JAMESON: I'm strong.
+[00:17:25.537 --> 00:17:26.817] JAMESON: I'm alert, Fit.
+[00:17:26.817 --> 00:17:27.137] JAMESON: I'm fitter than
+[00:17:27.137 --> 00:17:27.457] JAMESON: you are, Picard. And
+[00:17:27.457 --> 00:17:29.297] JAMESON: I'm getting younger!
+[00:17:30.497 --> 00:17:30.577] PICARD: The
+[00:17:37.537 --> 00:17:39.457] PICARD: only question I have, Admiral, is why
+[00:17:40.417 --> 00:17:46.017] PICARD: you thought it necessary to be young to negotiate the release of the hostages. Even willing to put your life at risk for it.
+[00:17:52.977 --> 00:17:54.897] PICARD: I'll be on the Bridge, Admiral, if you want to talk further.
+[00:18:04.868 --> 00:18:07.108] ANNE: Why didn't you tell me, Mark?
+[00:18:07.988 --> 00:18:10.548] ANNE: We've always been honest with each other, until now.
+[00:18:11.508 --> 00:18:12.788] JAMESON: Annie, I did it for us.
+[00:18:13.348 --> 00:18:28.068] ANNE: Oh, I'm sure you believed that, until you had a chance to head up a mission, to command again, and then you just upended the bottle or whatever it was, and damn everything.
+[00:18:28.948 --> 00:18:31.348] ANNE: Did you think about me at all?
+[00:18:32.228 --> 00:18:35.588] JAMESON: I obtained enough of the dosage for both of us.
+[00:18:35.828 --> 00:18:38.068] ANNE: But you never asked if I wanted it.
+[00:18:38.708 --> 00:18:43.988] ANNE: It's just like you, Mark, to assume that what you felt was right was the only answer.
+[00:18:44.148 --> 00:18:45.988] JAMESON: But it was the right answer for me.
+[00:18:46.628 --> 00:18:48.708] JAMESON: It was killing you, having to take care of an invalid.
+[00:18:49.428 --> 00:18:50.628] JAMESON: Annie, what good was I to you?
+[00:18:50.948 --> 00:18:52.148] JAMESON: We can be together again.
+[00:18:52.388 --> 00:18:53.828] ANNE: Let me go!
+[00:18:54.388 --> 00:18:55.988] JAMESON: I can get you another supply of the drug.
+[00:19:18.708 --> 00:19:24.788] JAMESON: Commander Data, I wish to open a communication frequency to Karnas.
+[00:19:25.837 --> 00:19:26.237] DATA: Aye, sir.
+[00:19:26.717 --> 00:19:27.517] PICARD: One moment, Mister Data.
+[00:19:28.557 --> 00:19:29.677] PICARD: Admiral, this is Picard.
+[00:19:30.797 --> 00:19:32.477] PICARD: May I know the reason for this communication?
+[00:19:33.037 --> 00:19:38.077] JAMESON: Karnas must have tried to negotiate with the terrorists before he was forced to call on me.
+[00:19:38.317 --> 00:19:40.637] JAMESON: I want all the information he has access to.
+[00:19:41.677 --> 00:19:43.517] PICARD: You said Karnas was a proud man, Admiral,
+[00:19:43.517 --> 00:19:46.237] PICARD: probably sensitive about his failure to deal with this situation.
+[00:19:46.237 --> 00:19:47.837] PICARD: Is it wise to press him on this?
+[00:19:48.157 --> 00:19:49.757] JAMESON: I'm the negotiator, Picard.
+[00:19:50.397 --> 00:19:54.157] JAMESON: Karnas will have to cooperate with me and the terrorists, and damn his sensitivities.
+[00:19:54.797 --> 00:19:57.037] PICARD: Then I suggest a secured channel, Admiral.
+[00:19:58.077 --> 00:19:59.677] JAMESON: A sensible precaution, Picard.
+[00:20:00.797 --> 00:20:01.277] JAMESON: Make it so.
+[00:20:03.197 --> 00:20:03.677] PICARD: Make it so.
+[00:20:04.877 --> 00:20:05.277] DATA: Aye, sir.
+[00:20:05.997 --> 00:20:08.397] DATA: Frequency open and secured.
+[00:20:09.677 --> 00:20:10.077] JAMESON: Karnas.
+[00:20:10.077 --> 00:20:12.477] KARNAS: What is it you want, Admiral?
+[00:20:12.717 --> 00:20:14.317] JAMESON: We're on a secured channel, Karnas.
+[00:20:14.317 --> 00:20:15.277] JAMESON: You can talk freely.
+[00:20:17.277 --> 00:20:18.317] JAMESON: Who's behind this thing?
+[00:20:18.717 --> 00:20:19.837] JAMESON: You said dissidents.
+[00:20:20.397 --> 00:20:20.717] KARNAS: Yes,
+[00:20:21.757 --> 00:20:28.317] KARNAS: political opponents who feel the Federation will disavow me as Governor if they stir up enough trouble on Mordan.
+[00:20:29.037 --> 00:20:29.757] JAMESON: Then who is it?
+[00:20:29.997 --> 00:20:31.357] JAMESON: Ardan? Gilnor?
+[00:20:31.677 --> 00:20:32.557] KARNAS: They're dead, Jameson.
+[00:20:33.677 --> 00:20:34.797] KARNAS: A long time now.
+[00:20:35.517 --> 00:20:36.237] KARNAS: For a long time
+[00:20:36.237 --> 00:20:37.597] KARNAS: I thought you were dead, too.
+[00:20:38.957 --> 00:20:43.037] JAMESON: I almost died a couple of times on missions, but I always made it through somehow.
+[00:20:43.837 --> 00:20:44.477] KARNAS: Yes.
+[00:20:44.957 --> 00:20:48.717] KARNAS: Now you're coming back to Mordan to negotiate for hostages again.
+[00:20:49.357 --> 00:20:52.797] KARNAS: It's almost as though the forty five years in-between never happened.
+[00:20:56.557 --> 00:20:58.317] JAMESON: You've never forgiven me.
+[00:20:58.797 --> 00:20:59.917] KARNAS: Of course I have.
+[00:21:00.115 --> 00:21:01.555] KARNAS: It was years ago.
+[00:21:02.035 --> 00:21:02.195] JAMESON: There are
+[00:21:04.835 --> 00:21:06.355] JAMESON: no dissidents, are there?
+[00:21:07.315 --> 00:21:08.355] JAMESON: No terrorists.
+[00:21:08.755 --> 00:21:10.417] JAMESON: You have the hostages.
+[00:21:10.417 --> 00:21:21.635] KARNAS: And if I have? You're coming to Mordan, Jameson, and you're going to negotiate for their lives. And I'm going to ask a very, very high price.
+[00:21:21.795 --> 00:21:23.075] JAMESON: What if I refuse?
+[00:21:23.795 --> 00:21:25.235] KARNAS: Then the hostages will die.
+[00:21:26.035 --> 00:21:27.795] KARNAS: You've seen how my executioners work.
+[00:21:28.835 --> 00:21:30.515] KARNAS: They are still as efficient as they were,
+[00:21:30.995 --> 00:21:32.595] KARNAS: perhaps even more skilled now.
+[00:21:34.515 --> 00:21:35.155] KARNAS: You'll come,
+[00:21:37.075 --> 00:21:38.915] KARNAS: even if you don't have much honour left.
+[00:21:50.675 --> 00:21:50.995] JAMESON: Conn,
+[00:21:52.915 --> 00:21:55.715] JAMESON: are we still on schedule to arrive at Mordan in thirty eight hours?
+[00:21:55.955 --> 00:21:56.435] LAFORGE: Aye, sir.
+[00:21:56.515 --> 00:21:57.715] LAFORGE: We're at warp four.
+[00:21:58.275 --> 00:22:03.315] JAMESON: Picard, I want a jump to warp eight, so that we arrive ahead of our announced ETA.
+[00:22:03.795 --> 00:22:07.475] JAMESON: It'll throw Karnas off balance, and we can catch him before he's ready.
+[00:22:08.115 --> 00:22:09.315] PICARD: Ready for exactly what, Admiral?
+[00:22:09.715 --> 00:22:13.875] JAMESON: I believe Karnas has the hostages, and there never were any dissidents.
+[00:22:14.515 --> 00:22:16.035] PICARD: What has happened to bring you to that conclusion?
+[00:22:16.035 --> 00:22:16.835] PICARD: That's quite a big jump.
+[00:22:16.995 --> 00:22:20.915] JAMESON: I'm not at liberty to say, Picard, but negotiations are no longer the answer.
+[00:22:22.035 --> 00:22:24.595] PICARD: Isn't the most important thing the hostage's lives?
+[00:22:26.435 --> 00:22:27.715] JAMESON: And you agree with that too, Riker?
+[00:22:27.955 --> 00:22:28.275] RIKER: I do, sir.
+[00:22:28.275 --> 00:22:28.275] JAMESON: Good.
+[00:22:29.795 --> 00:22:32.195] JAMESON: Because I plan to personally lead an away team
+[00:22:32.502 --> 00:22:34.742] JAMESON: on an armed rescue mission to get them out of
+[00:22:39.302 --> 00:22:41.302] JAMESON: there.
+[00:22:41.622 --> 00:22:45.862] JAMESON: Commander Data, bring up the plans I requested on the viewscreen, please.
+[00:22:46.102 --> 00:22:46.422] DATA: Aye, sir.
+[00:22:47.062 --> 00:22:50.982] JAMESON: Most of Mordan's principal city was devastated during the war.
+[00:22:51.702 --> 00:22:56.182] JAMESON: What was left consisted largely of a network of underground tunnels. A rat's maze.
+[00:22:57.222 --> 00:23:01.222] JAMESON: When they rebuilt the city, they simply built over the tunnels.
+[00:23:02.502 --> 00:23:03.062] DATA: I have it, sir.
+[00:23:06.982 --> 00:23:11.462] LAFORGE: Pardon me, sir, but where do these tunnels come into the picture?
+[00:23:12.102 --> 00:23:17.222] JAMESON: This is where Karnas held his hostages before and where I believe he has them now.
+[00:23:17.942 --> 00:23:19.222] PICARD: Wouldn't that be a little obvious, Admiral?
+[00:23:19.942 --> 00:23:21.622] JAMESON: Karnas is a dogged strategist,
+[00:23:21.942 --> 00:23:23.142] JAMESON: Picard, not a brilliant one.
+[00:23:23.142 --> 00:23:24.502] JAMESON: He sticks to what works.
+[00:23:25.542 --> 00:23:28.422] JAMESON: He will kill the hostages if we do not get them out of there.
+[00:23:29.542 --> 00:23:31.942] PICARD: Therefore you see this armed raid as the only option.
+[00:23:32.582 --> 00:23:33.462] JAMESON: You don't agree?
+[00:23:34.262 --> 00:23:38.662] PICARD: With respect, Admiral, I would point out no one else has heard or considered Karnas's demands.
+[00:23:38.742 --> 00:23:42.022] PICARD: The Federation might view them differently if they knew what they were.
+[00:23:42.582 --> 00:23:50.662] JAMESON: Starfleet has given me command of the away team, Picard, and I intend to use them as I see fit.
+[00:23:54.902 --> 00:23:58.182] ANNE: Our anniversary is next week. Our fiftieth.
+[00:23:59.222 --> 00:24:01.942] CRUSHER: In his heart, he's still the same man you married, Anne.
+[00:24:02.625 --> 00:24:03.425] TROI: That's true.
+[00:24:03.665 --> 00:24:07.505] TROI: He still cares for you, despite the physical changes he's undergoing.
+[00:24:08.385 --> 00:24:13.105] ANNE: But he's getting younger, and I'm, well look at me.
+[00:24:14.385 --> 00:24:15.825] ANNE: Why did he do this?
+[00:24:16.705 --> 00:24:18.465] TROI: Because there are lives at stake, Mrs.
+[00:24:18.465 --> 00:24:18.945] TROI: Jameson.
+[00:24:19.665 --> 00:24:22.305] ANNE: What about our lives, his and mine?
+[00:24:23.185 --> 00:24:25.265] ANNE: I was looking forward to time together
+[00:24:25.345 --> 00:24:27.585] ANNE: finally. Our retirement.
+[00:24:28.225 --> 00:24:32.305] ANNE: Now he's young again, and has his life to live over.
+[00:24:35.185 --> 00:24:36.545] TROI: Doctor, she has to know.
+[00:24:38.065 --> 00:24:38.545] ANNE: Know what?
+[00:24:41.905 --> 00:24:44.545] CRUSHER: Anne, your husband.
+[00:24:45.745 --> 00:24:46.065] ANNE: What is it?
+[00:24:46.625 --> 00:24:47.985] CRUSHER: He's not stabilising.
+[00:24:49.025 --> 00:24:50.865] CRUSHER: He may not have that life to live over.
+[00:25:11.665 --> 00:25:13.425] JAMESON: We'll be at Mordan in three hours.
+[00:25:17.345 --> 00:25:18.145] PICARD: I couldn't sleep either.
+[00:25:20.385 --> 00:25:21.665] JAMESON: I never could before a mission.
+[00:25:21.815 --> 00:25:22.415] JAMESON: I
+[00:25:23.505 --> 00:25:27.105] JAMESON: always wound up in the observation lounge, staring out at the stars, thinking.
+[00:25:29.025 --> 00:25:30.145] PICARD: Perhaps in this case,
+[00:25:30.761 --> 00:25:31.321] PICARD: rethinking?
+[00:25:44.521 --> 00:25:46.041] PICARD: Why is this mission so important to you?
+[00:25:46.521 --> 00:25:48.521] PICARD: Why did you risk your life to lead it personally?
+[00:25:49.401 --> 00:25:50.921] JAMESON: I want to save lives, Captain.
+[00:25:52.201 --> 00:25:55.481] PICARD: Noble sentiments, but that's too easy an answer.
+[00:25:55.801 --> 00:25:56.761] PICARD: You've been here before.
+[00:25:56.921 --> 00:26:00.201] PICARD: You negotiated a release of the hostages with Karnas before.
+[00:26:01.001 --> 00:26:01.641] PICARD: Why is it now
+[00:26:01.641 --> 00:26:03.321] PICARD: your answer is an armed raid?
+[00:26:04.761 --> 00:26:05.721] PICARD: It's my away team
+[00:26:05.721 --> 00:26:06.761] PICARD: you're sending in there.
+[00:26:08.761 --> 00:26:11.321] PICARD: I think there's something you're not telling me, and I have a right to know what it is.
+[00:26:13.721 --> 00:26:14.841] JAMESON: Do you know the background?
+[00:26:17.881 --> 00:26:23.321] JAMESON: The Mordanites had some sophistication, but were still ruled by tribal family units.
+[00:26:24.841 --> 00:26:31.401] JAMESON: Karnas's father was the ruling chief of one of the families. Another tribe had him assassinated.
+[00:26:33.481 --> 00:26:42.521] JAMESON: Karnas seized the passengers of a starliner and held them hostage, demanding that Starfleet provide him with weapons that would enable him to defeat his rivals.
+[00:26:44.041 --> 00:26:45.241] PICARD: That's the official record.
+[00:26:46.361 --> 00:26:47.081] JAMESON: Officially,
+[00:26:49.321 --> 00:26:53.641] JAMESON: the story is that after two other mediators were murdered,
+[00:26:55.561 --> 00:27:00.761] JAMESON: I went in and negotiated with Karnas to bring out the hostages safely.
+[00:27:01.910 --> 00:27:03.030] PICARD: Are you saying that's not the truth?
+[00:27:04.150 --> 00:27:04.950] JAMESON: It wasn't my
+[00:27:06.550 --> 00:27:08.790] JAMESON: golden oratory that saved them, Captain.
+[00:27:11.830 --> 00:27:13.590] JAMESON: I gave Karnas the weapons he wanted.
+[00:27:15.270 --> 00:27:16.790] PICARD: You did what?
+[00:27:17.750 --> 00:27:20.390] JAMESON: I gave exactly the same weapons to his rivals.
+[00:27:20.550 --> 00:27:26.150] JAMESON: My interpretation of the Prime Directive. Let them solve their problems with those arms on an equal basis.
+[00:27:29.430 --> 00:27:35.110] PICARD: And that decision plunged them into forty years of civil war.
+[00:27:35.670 --> 00:27:36.870] JAMESON: I didn't know that would happen.
+[00:27:36.870 --> 00:27:40.550] JAMESON: I thought a minor war. It would be settled in less than a year.
+[00:27:40.550 --> 00:27:42.550] JAMESON: How would I know it would take four decades?
+[00:27:44.070 --> 00:27:52.710] JAMESON: But I falsified the reports to Starfleet, and I lived with that on my soul, Picard.
+[00:27:53.830 --> 00:27:59.190] JAMESON: Sixty-three people came away safe but millions died on Mordan because I delivered those weapons.
+[00:27:59.830 --> 00:28:04.950] PICARD: Karnas could have worked for peace during those years instead of continuing the war.
+[00:28:04.950 --> 00:28:06.310] PICARD: It's not all on your head, Admiral.
+[00:28:07.030 --> 00:28:07.830] JAMESON: But I started it.
+[00:28:07.830 --> 00:28:08.790] JAMESON: I lit the match.
+[00:28:09.750 --> 00:28:10.310] JAMESON: Now finally
+[00:28:10.310 --> 00:28:12.550] JAMESON: I can vindicate myself, if only in a small way.
+[00:28:13.670 --> 00:28:17.510] JAMESON: I came to negotiate, but that isn't what Karnas wants.
+[00:28:18.390 --> 00:28:18.950] PICARD: Revenge.
+[00:28:20.790 --> 00:28:23.350] PICARD: That's why he demanded you when he knew that you were still alive.
+[00:28:24.230 --> 00:28:26.150] JAMESON: And I'm not going to give it to him, Picard.
+[00:28:27.030 --> 00:28:29.030] JAMESON: I'm going to do what I should have done the first time.
+[00:28:30.070 --> 00:28:32.710] JAMESON: We're taking the hostages out by force, if necessary.
+[00:28:32.710 --> 00:28:33.750] JAMESON: No deals.
+[00:28:39.671 --> 00:28:42.631] JAMESON: Prepare to energise, Chief.
+[00:28:43.111 --> 00:28:45.031] PICARD: Belay that. Admiral,
+[00:28:45.031 --> 00:28:46.311] PICARD: your proper place is on the Bridge.
+[00:28:47.191 --> 00:28:49.351] JAMESON: I will remind you one more time, Picard,
+[00:28:50.231 --> 00:28:53.431] JAMESON: I am the Senior Mission Commander and I'm leading this team.
+[00:28:54.551 --> 00:28:54.871] RIKER: Sir?
+[00:28:56.551 --> 00:28:57.831] PICARD: The Admiral is correct, Number One.
+[00:28:58.151 --> 00:28:58.951] PICARD: He has that right.
+[00:29:00.311 --> 00:29:02.631] PICARD: But I am the Captain of this ship, and
+[00:29:02.631 --> 00:29:02.951] PICARD: I have a
+[00:29:04.631 --> 00:29:07.351] PICARD: right to accompany him.
+[00:29:07.431 --> 00:29:10.631] PICARD: Riker, you're in command of the Enterprise.
+[00:29:11.191 --> 00:29:11.751] PICARD: Energise.
+[00:29:38.471 --> 00:29:39.591] JAMESON: Yes, perfect.
+[00:29:39.991 --> 00:29:43.111] JAMESON: We are in the M4 tunnel, directly under the Governor's residence.
+[00:29:43.511 --> 00:29:47.431] JAMESON: M-4 is a subsidiary tunnel, but it crosses and links with several main ones.
+[00:29:48.231 --> 00:29:48.951] DATA: I am sorry, sir.
+[00:29:49.351 --> 00:29:51.751] DATA: That does not correspond with the information in my tricorder, sir.
+[00:29:51.751 --> 00:29:53.671] DATA: JAMESON: Your information is incorrect, Commander.
+[00:29:53.751 --> 00:29:55.911] DATA: I know these tunnels like the back of my own hand.
+[00:29:55.991 --> 00:29:57.991] DATA: Keep scanning for signs of human life forms.
+[00:29:58.391 --> 00:30:00.871] DATA: Karnas held his hostages in these tunnels before.
+[00:30:00.871 --> 00:30:01.671] DATA: He'll do it again.
+[00:30:12.111 --> 00:30:12.431] DATA: Captain,
+[00:30:14.671 --> 00:30:16.351] DATA: the Admiral is definitely incorrect.
+[00:30:16.911 --> 00:30:19.231] DATA: The tunnel schematics we have show this to be a dead end.
+[00:30:19.391 --> 00:30:20.751] DATA: It was sealed off two years ago.
+[00:30:20.751 --> 00:30:22.271] PICARD: No doubt you're right, Mister Data.
+[00:30:22.431 --> 00:30:25.711] PICARD: However, forty five years ago, I'm sure it linked in with the tunnels
+[00:30:25.711 --> 00:30:26.671] PICARD: the Admiral remembers.
+[00:30:35.231 --> 00:30:35.551] JAMESON: Damn.
+[00:30:37.631 --> 00:30:38.399] PICARD: Geordi?
+[00:30:38.399 --> 00:30:41.471] LAFORGE: This is steelplast, sir.
+[00:30:42.271 --> 00:30:43.311] LAFORGE: Fairly recent installation.
+[00:30:43.791 --> 00:30:44.911] JAMESON: This is the most direct route.
+[00:30:44.911 --> 00:30:45.951] JAMESON: Set phasers to cut through it.
+[00:31:11.551 --> 00:31:15.471] TASHA: If you have the coordinates where you think the hostages are, sir, we could just beam in over there.
+[00:31:16.031 --> 00:31:18.031] JAMESON: Karnas may not have them in the same place.
+[00:31:18.351 --> 00:31:19.871] JAMESON: There's no substitute, Lieutenant,
+[00:31:20.191 --> 00:31:21.551] JAMESON: for personal reconnoitre.
+[00:31:21.551 --> 00:31:21.551] LAFORGE: Admiral,
+[00:31:35.471 --> 00:31:36.911] LAFORGE: there's an infrared light signal ahead.
+[00:31:36.867 --> 00:31:38.867] LAFORGE: Steady beam, straight across the tunnel, chest high.
+[00:31:38.867 --> 00:31:39.587] LAFORGE: There's another
+[00:31:40.227 --> 00:31:40.867] LAFORGE: at waist level.
+[00:31:41.507 --> 00:31:42.387] TASHA: An alarm trigger or
+[00:31:42.467 --> 00:31:43.427] PICARD: Reset phasers to stun.
+[00:31:43.827 --> 00:31:47.347] PICARD: Take
+[00:31:50.707 --> 00:31:52.707] PICARD: cover!
+[00:32:09.507 --> 00:32:09.547] WORF: Sir, look out!
+[00:32:09.557 --> 00:32:10.387] DATA: Their phasers, sir, set on kill.
+[00:32:10.787 --> 00:32:11.827] PICARD: Thank you, Mister Data.
+[00:32:11.827 --> 00:32:13.027] PICARD: I have heard the sound before.
+[00:32:13.347 --> 00:32:13.347] TASHA: Is
+[00:32:14.867 --> 00:32:16.867] TASHA: he hit?
+[00:32:31.427 --> 00:32:32.227] DATA: No sign of a wound.
+[00:32:32.403 --> 00:32:33.707] PICARD: Enterprise, this is Picard.
+[00:32:33.907 --> 00:32:34.087] PICARD: Six to
+[00:32:35.907 --> 00:32:37.907] PICARD: beam up,
+[00:32:37.907 --> 00:32:38.227] PICARD: now!
+[00:32:38.377 --> 00:32:38.977] RIKER: The
+[00:32:50.147 --> 00:32:52.467] RIKER: Admiral?
+[00:32:52.467 --> 00:32:54.787] PICARD: Sickbay.
+[00:32:55.187 --> 00:32:55.427] PICARD: Not good
+[00:32:55.667 --> 00:32:57.027] PICARD: is a galactic understatement.
+[00:32:57.587 --> 00:32:57.907] LAFORGE: Sir?
+[00:32:58.467 --> 00:32:59.187] LAFORGE: Karnas again, sir.
+[00:32:59.747 --> 00:33:00.307] LAFORGE: On screen.
+[00:33:01.667 --> 00:33:02.227] KARNAS: Enterprise.
+[00:33:02.707 --> 00:33:05.027] KARNAS: There has been an armed intrusion in the tunnels beneath
+[00:33:05.108 --> 00:33:05.588] KARNAS: the city.
+[00:33:06.228 --> 00:33:07.908] KARNAS: That smells of Jameson.
+[00:33:08.148 --> 00:33:08.628] KARNAS: Where is he?
+[00:33:11.188 --> 00:33:12.308] PICARD: Karnas, this is Picard.
+[00:33:12.308 --> 00:33:15.348] PICARD: I'm sorry to inform you the Admiral is critically ill.
+[00:33:15.828 --> 00:33:18.308] KARNAS: That is not my concern.
+[00:33:18.468 --> 00:33:22.708] KARNAS: Sick or well, you have ten minutes to beam him down.
+[00:33:24.068 --> 00:33:24.868] TROI: Sickbay to Bridge.
+[00:33:25.588 --> 00:33:25.988] PICARD: Picard.
+[00:33:26.948 --> 00:33:29.348] TROI: Doctor Crusher Requests your presence in Sickbay immediately, sir.
+[00:33:30.388 --> 00:33:30.948] PICARD: I'm on my way.
+[00:33:33.428 --> 00:33:35.428] PICARD: Sickbay.
+[00:33:37.268 --> 00:33:39.748] PICARD: What is it, Doctor?
+[00:33:39.748 --> 00:33:42.708] CRUSHER: I think you'd better see for yourself, Captain.
+[00:33:55.108 --> 00:33:57.108] JAMESON: Picard.
+[00:33:57.108 --> 00:33:58.308] JAMESON: Picard, I have to get to Karnas.
+[00:33:58.548 --> 00:34:00.148] CRUSHER: I can't allow him out of my care, Captain.
+[00:34:00.868 --> 00:34:01.908] JAMESON: It's my last option, Picard.
+[00:34:02.628 --> 00:34:03.428] JAMESON: The raid failed.
+[00:34:03.428 --> 00:34:05.348] JAMESON: All I have left to bargain with is myself.
+[00:34:06.628 --> 00:34:07.428] RIKER: Bridge to Picard.
+[00:34:07.908 --> 00:34:08.388] PICARD: Picard here.
+[00:34:09.108 --> 00:34:10.388] RIKER: A new message from Karnas, sir.
+[00:34:11.028 --> 00:34:14.148] RIKER: If we don't deliver Jameson in five minutes, one of the hostages will be executed.
+[00:34:14.788 --> 00:34:16.948] RIKER: Fifteen minutes after that, another.
+[00:34:17.988 --> 00:34:21.268] RIKER: He promises the method of execution will be most painful.
+[00:34:22.548 --> 00:34:23.108] JAMESON: Let me go.
+[00:34:24.308 --> 00:34:26.948] JAMESON: If I give myself over to him, he'll let the hostages go.
+[00:34:27.428 --> 00:34:28.548] JAMESON: It's me he wants.
+[00:34:29.668 --> 00:34:31.268] PICARD: It means almost certain death for you, Admiral.
+[00:34:32.788 --> 00:34:34.308] JAMESON: My life for how many hostages,
+[00:34:34.308 --> 00:34:35.268] JAMESON: Picard? Twenty?
+[00:34:37.028 --> 00:34:37.588] JAMESON: Let me go.
+[00:34:45.883 --> 00:34:46.923] PICARD: Number One, inform Karnas
+[00:34:46.923 --> 00:34:48.522] PICARD: we'll be beaming down in less than five minutes.
+[00:34:49.323 --> 00:34:50.122] RIKER: Did you say we, sir?
+[00:34:51.403 --> 00:34:52.442] PICARD: You have your orders, Number One.
+[00:34:54.283 --> 00:34:54.602] RIKER: Aye, sir.
+[00:35:07.082 --> 00:35:07.562] KARNAS: Who are you?
+[00:35:08.922 --> 00:35:10.283] KARNAS: I want Jameson.
+[00:35:11.803 --> 00:35:12.203] PICARD: Karnas,
+[00:35:13.642 --> 00:35:15.402] PICARD: this is Admiral Mark Jameson.
+[00:35:23.723 --> 00:35:28.763] KARNAS: This charade will accomplish nothing, Picard.
+[00:35:29.562 --> 00:35:32.922] KARNAS: Beam down Jameson, and the hostages will be freed.
+[00:35:33.162 --> 00:35:36.922] KARNAS: Continue this and I promise you they will die. And you with them.
+[00:35:37.243 --> 00:35:40.203] JAMESON: Peretor Karnas, you always were a stubborn man.
+[00:35:41.162 --> 00:35:42.283] JAMESON: I thought you wanted me.
+[00:35:43.082 --> 00:35:43.642] JAMESON: I'm here.
+[00:35:44.283 --> 00:35:45.642] JAMESON: Release the hostages now.
+[00:35:46.522 --> 00:35:47.882] KARNAS: Peretor was my old title.
+[00:35:48.763 --> 00:35:50.122] KARNAS: Why do you call me that?
+[00:35:50.842 --> 00:35:52.042] KARNAS: I warn you, Picard.
+[00:35:52.842 --> 00:35:54.362] KARNAS: This trick is going too far.
+[00:35:54.522 --> 00:35:57.482] KARNAS: He has been coached for some devious reason.
+[00:35:58.442 --> 00:36:04.042] KARNAS: If this farce does not stopped immediately, you and the hostages will be put to death.
+[00:36:04.843 --> 00:36:06.283] PICARD: Doctor!
+[00:36:09.963 --> 00:36:12.603] KARNAS: I am waiting for an explanation, Captain.
+[00:36:12.603 --> 00:36:14.123] PICARD: He is the Admiral, Karnas.
+[00:36:14.763 --> 00:36:18.683] PICARD: Before he left on this mission, he administered an overdose of an alien de-aging drug to himself.
+[00:36:18.683 --> 00:36:22.683] PICARD: He wanted to face you with strength again, on even terms.
+[00:36:23.723 --> 00:36:25.323] PICARD: This is what the drug has done to him.
+[00:36:25.403 --> 00:36:28.203] KARNAS: This story you are telling is unbelievable.
+[00:36:28.603 --> 00:36:31.323] KARNAS: Jameson is a man of more than eighty years,
+[00:36:31.643 --> 00:36:32.763] KARNAS: not this.
+[00:36:33.403 --> 00:36:36.363] KARNAS: I want that old man, Picard.
+[00:36:36.683 --> 00:36:40.283] KARNAS: I want to show him this world he helped to make.
+[00:36:40.603 --> 00:36:48.923] KARNAS: The scars on old soldiers' bodies. The graveyards of our young dead. The wasted cities we are still rebuilding.
+[00:36:49.483 --> 00:36:53.883] KARNAS: And all of it caused by him.
+[00:36:54.523 --> 00:36:55.963] PICARD: As I understand it, Karnas,
+[00:36:55.963 --> 00:36:58.763] PICARD: you were the one who demanded the weapons to avenge your father's death.
+[00:36:58.763 --> 00:37:02.283] KARNAS: But Jameson didn't give weapons to only us.
+[00:37:02.763 --> 00:37:08.683] KARNAS: If he had, we would have quickly triumphed over our enemies, and there would have been peace in all these decades.
+[00:37:09.163 --> 00:37:11.643] KARNAS: I want him to pay for that, Picard.
+[00:37:15.163 --> 00:37:16.443] CRUSHER: Captain, I think Mrs.
+[00:37:16.443 --> 00:37:17.723] CRUSHER: Jameson should beam down now.
+[00:37:19.083 --> 00:37:20.123] PICARD: Enterprise, this is Picard.
+[00:37:20.123 --> 00:37:20.443] PICARD: Have Mrs.
+[00:37:20.443 --> 00:37:21.643] PICARD: Jameson prepare to beam down.
+[00:37:22.603 --> 00:37:27.243] PICARD: Karnas, I asked Doctor Crusher to bring with her the visual records we've made of Admiral Jameson's deterioration.
+[00:37:27.403 --> 00:37:27.883] PICARD: Will you look at them?
+[00:37:28.203 --> 00:37:29.723] KARNAS: You're wasting my time, Picard.
+[00:37:29.803 --> 00:37:30.603] PICARD: Just a few moments.
+[00:37:32.203 --> 00:37:35.003] PICARD: You saw the Admiral on the Enterprise when he was en route to Mordan?
+[00:37:35.153 --> 00:37:35.473] KARNAS: Yes.
+[00:37:35.473 --> 00:37:36.433] PICARD: And you recognised him?
+[00:37:36.433 --> 00:37:36.913] KARNAS: Yes.
+[00:37:36.913 --> 00:37:37.793] PICARD: Is this the man you saw?
+[00:37:38.993 --> 00:37:41.713] KARNAS: This is the man I want.
+[00:37:41.793 --> 00:37:42.673] PICARD: He's here, Karnas. Look.
+[00:37:54.913 --> 00:37:59.313] PICARD: Once he took the compound there was no way to stop it.
+[00:38:00.113 --> 00:38:00.113] PICARD: You'll
+[00:38:14.753 --> 00:38:14.913] PICARD: have
+[00:38:17.633 --> 00:38:18.993] PICARD: to deal with me, Karnas.
+[00:38:20.193 --> 00:38:23.953] PICARD: Whatever you wanted from Jameson isn't possible any more. And you wanted revenge.
+[00:38:24.353 --> 00:38:28.193] PICARD: You blamed your war on him, and there's no doubt he had a lot to do with it.
+[00:38:28.833 --> 00:38:30.673] PICARD: But you had the weapons and you used them.
+[00:38:31.473 --> 00:38:35.153] PICARD: You could have tried for negotiations for peace on your planet long ago.
+[00:38:35.633 --> 00:38:37.233] PICARD: Instead you chose to fight.
+[00:38:37.233 --> 00:38:40.673] PICARD: How many of those forty years of civil war are on your head, Karnas?
+[00:38:40.833 --> 00:38:42.513] KARNAS: Jameson has to pay for his crimes.
+[00:38:42.513 --> 00:38:43.713] KARNAS: I have sworn it to my people.
+[00:38:44.273 --> 00:38:46.273] PICARD: Forty five years ago he made the wrong decision.
+[00:38:46.433 --> 00:38:51.713] PICARD: He wanted to come here to somehow right it, to atone for what he did.
+[00:38:53.153 --> 00:38:56.353] PICARD: Now all he can do is to give himself up to you.
+[00:38:58.273 --> 00:39:00.193] PICARD: He brought this retribution on himself.
+[00:39:00.575 --> 00:39:02.015] KARNAS: No. I don't believe you.
+[00:39:02.335 --> 00:39:05.295] KARNAS: You're shielding Jameson on the ship and you're telling me this tale to save his life.
+[00:39:07.295 --> 00:39:08.255] JAMESON: Peretor Karnas,
+[00:39:10.895 --> 00:39:12.735] JAMESON: there were only two of us in the meeting.
+[00:39:13.535 --> 00:39:15.855] JAMESON: You didn't even trust your lieutenants there.
+[00:39:16.815 --> 00:39:21.855] JAMESON: You told me that old Peretor Sain had ordered your father's assassination.
+[00:39:22.815 --> 00:39:25.855] JAMESON: You told me that you wanted arms to destroy him.
+[00:39:26.815 --> 00:39:29.935] JAMESON: Peace wasn't on your mind.
+[00:39:30.735 --> 00:39:35.455] JAMESON: All you wanted was revenge. And I gave you the weapons to do it.
+[00:39:37.455 --> 00:39:39.135] KARNAS: Jameson told you this.
+[00:39:41.215 --> 00:39:44.015] KARNAS: If it is you, show me the scar.
+[00:39:46.015 --> 00:39:50.015] JAMESON: There. The blood cut you gave me to seal our bargain.
+[00:39:54.335 --> 00:39:54.975] KARNAS: It is you.
+[00:39:57.375 --> 00:39:58.335] KARNAS: Somehow
+[00:40:00.415 --> 00:40:00.895] KARNAS: it is you.
+[00:40:04.895 --> 00:40:06.015] KARNAS: Then
+[00:40:09.455 --> 00:40:10.735] KARNAS: die by your own weapon!
+[00:40:18.495 --> 00:40:21.295] KARNAS: No. No, my revenge will be in seeing you live like this.
+[00:40:21.535 --> 00:40:21.615] KARNAS: Such
+[00:40:30.495 --> 00:40:31.135] KARNAS: pain.
+[00:40:31.135 --> 00:40:35.055] CRUSHER: The compound he took is forcing his cells and organs to go
+[00:40:35.210 --> 00:40:37.290] CRUSHER: further, younger, and they can't take the stress.
+[00:40:37.530 --> 00:40:41.130] CRUSHER: It's like they're imploding. And I can't give him anything to stop it.
+[00:40:41.450 --> 00:40:42.250] PICARD: Can you ease the pain?
+[00:40:45.450 --> 00:40:47.370] ANNE: Mark, can you hear me?
+[00:40:48.970 --> 00:40:49.450] JAMESON: Yes.
+[00:40:49.930 --> 00:40:52.970] ANNE: I'll always love you.
+[00:40:55.290 --> 00:40:56.970] JAMESON: Annie with the golden
+[00:40:59.050 --> 00:40:59.610] JAMESON: hair.
+[00:40:59.610 --> 00:41:00.170] ANNE: Flatterer.
+[00:41:01.850 --> 00:41:02.810] ANNE: It's grey now.
+[00:41:07.530 --> 00:41:08.650] JAMESON: I see only the gold.
+[00:41:27.610 --> 00:41:29.290] KARNAS: Rest, Jameson.
+[00:41:31.130 --> 00:41:31.930] KARNAS: Your long night,
+[00:41:34.010 --> 00:41:34.490] KARNAS: and mine,
+[00:41:36.010 --> 00:41:36.330] KARNAS: are over.
+[00:41:37.530 --> 00:41:37.610] KARNAS: The
+[00:41:40.890 --> 00:41:43.370] KARNAS: hostages will be freed immediately,
+[00:41:43.530 --> 00:41:45.530] KARNAS: Captain.
+[00:41:46.090 --> 00:41:46.250] KARNAS: I'm
+[00:41:46.250 --> 00:41:48.810] KARNAS: prepared to be cooperative.
+[00:41:50.810 --> 00:41:51.210] PICARD: The
+[00:41:57.210 --> 00:42:01.370] PICARD: hostages have been freed by Karnas, unharmed,
+[00:42:02.195 --> 00:42:08.915] PICARD: and the body of Admiral Mark Jameson has been buried on Mordan, at the request of his widow and by the permission of Karnas.
+[00:42:12.035 --> 00:42:15.075] PICARD: The quest for youth, Number One. So futile.
+[00:42:17.075 --> 00:42:19.155] PICARD: Age and wisdom have their graces too.
+[00:42:20.035 --> 00:42:24.195] RIKER: I wonder if one doesn't have to have age and wisdom to appreciate that, sir.
+[00:42:25.795 --> 00:42:28.995] PICARD: I hope not, Number One.
+[00:42:28.995 --> 00:42:30.675] PICARD: Mister La Forge, prepare to take us out of orbit.
+[00:42:31.235 --> 00:42:32.995] PICARD: Set course for Isis Three.
+[00:42:33.475 --> 00:42:35.875] LAFORGE: Aye, sir. Leaving orbit.

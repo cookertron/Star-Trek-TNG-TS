@@ -1,0 +1,718 @@
+[00:00:02.720 --> 00:00:06.000] LOG: Captain's log, stardate 43930.7.
+[00:00:06.640 --> 00:00:10.800] LOG: The Enterprise has been in attendance at the biennial Trade Agreements Conference on Betazed.
+[00:00:11.840 --> 00:00:18.560] LOG: For the first time, the Ferengi are present, and I have reluctantly consented to their boarding the Enterprise for the closing reception.
+[00:00:42.800 --> 00:00:43.920] RIKER: Check and mate.
+[00:00:45.280 --> 00:00:45.920] WESLEY: Perfect.
+[00:00:46.480 --> 00:00:49.120] WESLEY: The queen's gambit finished off with the Aldabren Exchange.
+[00:00:50.560 --> 00:00:51.600] NIBOR: That is unfair.
+[00:00:51.920 --> 00:00:53.760] NIBOR: I couldn't concentrate with all that noise.
+[00:00:54.160 --> 00:00:54.640] WESLEY: Noise?
+[00:00:55.280 --> 00:00:56.800] WESLEY: It's Algolian ceremonial rhythms.
+[00:00:56.880 --> 00:00:58.880] PICARD: A
+[00:01:05.920 --> 00:01:07.680] PICARD: toast to the success of the trade conference, Reittan.
+[00:01:07.680 --> 00:01:13.440] PICARD: I must admit, I had some doubts when you invited the Ferengi.
+[00:01:13.920 --> 00:01:15.680] GRAX: They made a profit and behaved themselves.
+[00:01:15.680 --> 00:01:16.560] GRAX: What more could one ask?
+[00:01:16.720 --> 00:01:17.600] GRAX: Still, they trouble me.
+[00:01:18.080 --> 00:01:21.760] GRAX: We Betazeds are uncomfortable with species like the Ferengi whose
+[00:01:22.400 --> 00:01:23.120] GRAX: minds we can't read.
+[00:01:24.400 --> 00:01:30.320] DATA: Perhaps your telepathic abilities are ineffective owing to the anomalous construction of the Ferengi brain, which is composed of four different
+[00:01:30.400 --> 00:01:31.040] PICARD: Thank you, Mister Data.
+[00:01:32.000 --> 00:01:34.800] PICARD: It was thoughtful of you to invite Lwaxana Troi to be part of the
+[00:01:34.964 --> 00:01:35.844] PICARD: Betazed delegation.
+[00:01:36.244 --> 00:01:38.244] GRAX: Yes, Lwaxana and I go way back.
+[00:01:38.884 --> 00:01:42.164] GRAX: Her first husband and I were old friends, and I've known Deanna since she was a child.
+[00:01:42.484 --> 00:01:45.524] PICARD: I'm sure Counsellor Troi appreciates the opportunity to spend time with her mother.
+[00:01:46.564 --> 00:01:49.124] LWAXANA: Little One, you could at least pretend you're happy to see me.
+[00:01:50.084 --> 00:01:52.564] TROI: Mother, we're among non-telepaths.
+[00:01:52.724 --> 00:01:54.724] TROI: It's impolite not to speak aloud.
+[00:01:55.204 --> 00:01:58.404] LWAXANA: You mean talk with my mouth full? Deanna,
+[00:01:58.724 --> 00:01:59.204] LWAXANA: please!
+[00:02:00.724 --> 00:02:03.444] LWAXANA: All right,
+[00:02:03.524 --> 00:02:04.884] LWAXANA: you want me to say something aloud?
+[00:02:05.684 --> 00:02:09.364] LWAXANA: Have you considered if you had stayed on Betazed, you might have been a happier person.
+[00:02:10.084 --> 00:02:12.324] TROI: Let's not guess what might have been.
+[00:02:13.284 --> 00:02:15.284] TROI: I love my work aboard the Enterprise.
+[00:02:15.684 --> 00:02:16.644] LWAXANA: Yes, of course you do,
+[00:02:16.724 --> 00:02:18.884] LWAXANA: but its all business and no play.
+[00:02:19.604 --> 00:02:22.644] LWAXANA: You've got to enjoy life, relax, like I do.
+[00:02:23.364 --> 00:02:24.804] LWAXANA: Find yourself the right man,
+[00:02:25.124 --> 00:02:26.084] LWAXANA: think of your future.
+[00:02:26.804 --> 00:02:27.844] LWAXANA: Think of my future.
+[00:02:28.644 --> 00:02:30.884] RIKER: Lwaxana, Deanna. Anything I can do for you?
+[00:02:34.884 --> 00:02:35.204] TROI: Could I?
+[00:02:44.084 --> 00:02:45.684] FAREK: She's as repulsive as the rest of them.
+[00:02:46.324 --> 00:02:46.804] TOG: Repulsive?
+[00:02:47.284 --> 00:02:49.764] TOG: I find her exotic.
+[00:02:51.844 --> 00:02:55.969] TOG: And what an advantage her telepathy would be in our negotiations.
+[00:02:55.969 --> 00:02:57.844] FAREK: To read our competitors' minds?
+[00:02:58.564 --> 00:02:59.924] FAREK: Yes, that would be valuable.
+[00:03:01.924 --> 00:03:04.404] FAREK: But she'd never agree to use her powers to help us.
+[00:03:05.186 --> 00:03:06.386] TOG: I'm not so sure.
+[00:03:08.866 --> 00:03:11.346] TOG: Lwaxana Troi
+[00:03:11.346 --> 00:03:12.306] TOG: of Betazed, I believe.
+[00:03:12.786 --> 00:03:14.786] TOG: I am DaiMon Tog of the Ferengi vessel
+[00:03:15.026 --> 00:03:16.626] TOG: Krayton. May I join you?
+[00:03:17.186 --> 00:03:18.706] LWAXANA: I was just going to see Captain Picard.
+[00:03:18.706 --> 00:03:19.346] LWAXANA: Excuse me.
+[00:03:26.786 --> 00:03:29.666] LWAXANA: Oh, Jean-Luc! Jean-Luc! Come have a drink with me.
+[00:03:29.666 --> 00:03:30.946] LWAXANA: Tell me what you've been up to.
+[00:03:31.026 --> 00:03:32.146] PICARD: Perhaps later, Lwaxana.
+[00:03:32.306 --> 00:03:39.266] PICARD: Mister Data and I were just about to show Reittan Grax the er, the er, the new door mechanisms on the aft turbolifts.
+[00:03:39.266 --> 00:03:40.146] PICARD: If you'll excuse us?
+[00:03:45.906 --> 00:03:46.866] TOG: Lwaxana Troi.
+[00:03:48.146 --> 00:03:49.506] TOG: I desire you.
+[00:03:50.066 --> 00:03:50.226] LWAXANA: What?
+[00:03:51.346 --> 00:03:57.346] TOG: You see, your Betazoid skills would be very useful to me, and I find you very attractive.
+[00:03:58.866 --> 00:04:01.426] TOG: I am willing to pay handsomely for you.
+[00:04:01.506 --> 00:04:03.986] LWAXANA: I don't believe this.
+[00:04:04.066 --> 00:04:08.466] TOG: You must be aware that every female has her price.
+[00:04:14.946 --> 00:04:17.186] LWAXANA: Let's get one thing straight, little man.
+[00:04:17.906 --> 00:04:19.346] LWAXANA: I am not for sale.
+[00:04:20.066 --> 00:04:28.706] LWAXANA: And if, by some chance I were to become available, I would rather eat Orion wing-slugs than deal with a toad-faced troll like you!
+[00:04:29.186 --> 00:04:32.306] LWAXANA: So go away and find someone else to become your property.
+[00:04:34.466 --> 00:04:35.186] TOG: As you wish.
+[00:04:39.586 --> 00:04:44.226] FAREK: Now that you've totally humiliated us, may we return to our vessel?
+[00:04:45.186 --> 00:04:47.906] TOG: She is exhilarating, isn't she?
+[00:04:50.546 --> 00:04:54.866] TOG: Now I want her more than ever. Lwaxana Troi,
+[00:04:56.546 --> 00:04:57.506] TOG: you will be mine.
+[00:05:24.786 --> 00:05:27.586] PICARD: Space, the final frontier.
+[00:05:29.426 --> 00:05:32.306] PICARD: These are the voyages of the starship Enterprise.
+[00:05:33.426 --> 00:05:41.426] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:43.026 --> 00:05:45.986] PICARD: to boldly go where no one has gone before.
+[00:06:10.074 --> 00:06:10.074] TROI: Are
+[00:06:46.234 --> 00:06:47.754] TROI: we at war with the Ferengi yet?
+[00:06:48.234 --> 00:06:51.434] WORF: DaiMon Tog has returned to his vessel and the Ferengi have left orbit.
+[00:06:51.834 --> 00:06:53.114] TROI: My mother will be relieved.
+[00:06:54.314 --> 00:06:56.634] WORF: I hear she handled the situation quite skillfully.
+[00:06:57.194 --> 00:06:58.154] WORF: An admirable woman.
+[00:06:59.994 --> 00:07:01.514] TROI: I'll be sure to tell her you said so.
+[00:07:02.154 --> 00:07:04.954] LWAXANA: Come in, Little One.
+[00:07:10.954 --> 00:07:11.274] TROI: Mother?
+[00:07:14.634 --> 00:07:15.594] TROI: Mother, please.
+[00:07:20.474 --> 00:07:24.714] LWAXANA: After that awful little Ferengi insulted me, I needed to centre myself.
+[00:07:25.994 --> 00:07:28.954] LWAXANA: Can you imagine that dreadful little creature talking to me like that?
+[00:07:29.994 --> 00:07:36.394] LWAXANA: Doesn't he realise that I am a daughter of the Fifth House of Betazed. Holder of the Sacred Chalice of Rixx?
+[00:07:37.283 --> 00:07:42.403] TROI: The Sacred Chalice of Rixx is an old clay pot with mold growing inside it.
+[00:07:42.563 --> 00:07:45.203] LWAXANA: Perhaps one day when you're older and wiser, you'll understand.
+[00:07:47.203 --> 00:07:48.243] LWAXANA: Come on, sit down.
+[00:07:48.483 --> 00:07:49.123] LWAXANA: Talk to me.
+[00:07:49.683 --> 00:07:51.203] LWAXANA: We spend so little time together.
+[00:07:51.363 --> 00:07:52.003] TROI: That's true.
+[00:07:54.003 --> 00:07:58.883] TROI: I'm sorry, and I didn't mean to get so upset with you at the reception.
+[00:08:00.963 --> 00:08:02.883] LWAXANA: Deanna, try to understand.
+[00:08:02.883 --> 00:08:03.523] LWAXANA: You're all I have.
+[00:08:04.803 --> 00:08:06.483] LWAXANA: My only concern is for your happiness.
+[00:08:07.123 --> 00:08:08.403] TROI: I am happy.
+[00:08:09.203 --> 00:08:11.043] TROI: Why can't you believe that?
+[00:08:12.163 --> 00:08:18.723] LWAXANA: I wish I could, but how much happiness is there in always being there for someone else, and never being there for yourself?
+[00:08:19.043 --> 00:08:22.083] TROI: I get a great deal of satisfaction out of my work.
+[00:08:22.163 --> 00:08:23.523] LWAXANA: I'm sure you do.
+[00:08:23.523 --> 00:08:25.683] LWAXANA: I'm sure it's very rewarding in its way.
+[00:08:27.443 --> 00:08:28.403] LWAXANA: What about a family?
+[00:08:29.843 --> 00:08:31.203] TROI: This is my family.
+[00:08:32.323 --> 00:08:34.483] TROI: My friends here on the Enterprise.
+[00:08:34.883 --> 00:08:35.043] LWAXANA: All right.
+[00:08:35.683 --> 00:08:41.363] LWAXANA: In case I have to spell it out for you, I'm talking about finding a husband, having a child.
+[00:08:41.363 --> 00:08:42.563] LWAXANA: That's what made me happy.
+[00:08:43.763 --> 00:08:44.883] LWAXANA: At least until now.
+[00:08:45.603 --> 00:08:46.403] TROI: Mother, look.
+[00:08:47.043 --> 00:08:55.683] TROI: Perhaps some day I will marry. But you've got to let me make my own choices, live my own life, and not the life you would choose for me.
+[00:08:55.763 --> 00:08:57.923] LWAXANA: You had your chance with Commander Riker.
+[00:08:58.723 --> 00:08:59.923] LWAXANA: Look how you ruined that.
+[00:09:00.083 --> 00:09:01.843] TROI: I did not ruin anything.
+[00:09:02.083 --> 00:09:03.683] TROI: We've became very good friends.
+[00:09:04.003 --> 00:09:04.803] LWAXANA: Well, all the better.
+[00:09:04.803 --> 00:09:06.483] LWAXANA: You certainly wouldn't want to marry an enemy.
+[00:09:07.326 --> 00:09:09.646] LWAXANA: I see we can't talk about this.
+[00:09:11.246 --> 00:09:12.926] LWAXANA: Very well, have it your way, Little One.
+[00:09:13.486 --> 00:09:17.246] TROI: Little One? You called me that when I was five.
+[00:09:18.046 --> 00:09:21.166] TROI: Now stop demeaning me and address me as an adult!
+[00:09:23.646 --> 00:09:25.726] LWAXANA: I'll be home on Betazed if you need me, Little.
+[00:09:27.246 --> 00:09:27.726] LWAXANA: Deanna.
+[00:09:32.446 --> 00:09:36.206] WESLEY: Adding pre-processors to the neutrino counters boosted efficiency by eleven percent.
+[00:09:36.286 --> 00:09:38.606] WESLEY: Of course, Commander La Forge and Commander Data did most of the work.
+[00:09:39.006 --> 00:09:40.206] LAFORGE: Not so fast, Wesley.
+[00:09:41.006 --> 00:09:43.246] LAFORGE: Pre-processing the data with an optical chip was your idea.
+[00:09:43.806 --> 00:09:44.606] DATA: That is correct, sir.
+[00:09:45.326 --> 00:09:50.286] DATA: Although Commander La Forge and I designed the chip, Mister Crusher derived the equation governing its operation.
+[00:09:50.606 --> 00:09:52.686] RIKER: The point is, you've completed the upgrade well ahead of schedule.
+[00:09:53.006 --> 00:09:53.966] RIKER: Very impressive.
+[00:09:53.966 --> 00:09:54.446] PICARD: Indeed.
+[00:09:54.846 --> 00:09:55.326] PICARD: Fine work.
+[00:09:56.846 --> 00:09:57.726] PICARD: We shall miss you, Mister Crusher.
+[00:09:58.766 --> 00:10:02.686] PICARD: As you've guessed, final entrance examination scores from Starfleet Academy have arrived.
+[00:10:02.846 --> 00:10:03.646] PICARD: Congratulations.
+[00:10:03.886 --> 00:10:07.166] PICARD: As soon as you have completed the oral exam, you'll be formally admitted.
+[00:10:08.606 --> 00:10:11.486] RIKER: We'll have you back at Betazed in plenty of time to meet up with the Academy transport ship.
+[00:10:12.286 --> 00:10:12.766] WESLEY: Thank you, sir.
+[00:10:13.966 --> 00:10:14.366] PICARD: That'll be all.
+[00:10:17.406 --> 00:10:17.726] PICARD: Number One,
+[00:10:17.726 --> 00:10:18.286] PICARD: a moment.
+[00:10:18.686 --> 00:10:19.166] RIKER: Yes, Captain?
+[00:10:21.006 --> 00:10:23.326] PICARD: You'll agree that this is a fairly routine mapping mission?
+[00:10:23.806 --> 00:10:23.966] RIKER: Yes, sir.
+[00:10:26.366 --> 00:10:28.686] PICARD: Counsellor Troi had the good sense to ask for shore leave.
+[00:10:28.686 --> 00:10:30.526] PICARD: I can see I'm going to have to suggest it to you.
+[00:10:32.446 --> 00:10:33.326] PICARD: Have a good time, Number One.
+[00:10:56.061 --> 00:10:56.221] RIKER: I
+[00:10:59.181 --> 00:11:00.301] RIKER: think it's around here somewhere.
+[00:11:00.701 --> 00:11:01.981] TROI: Maybe it died.
+[00:11:01.981 --> 00:11:03.341] TROI: It has been a few years.
+[00:11:03.421 --> 00:11:05.741] RIKER: Muktok live for hundreds of years.
+[00:11:06.781 --> 00:11:07.181] RIKER: Here it is.
+[00:11:11.901 --> 00:11:12.861] TROI: It's lovely.
+[00:11:15.661 --> 00:11:17.181] TROI: I remember that sound,
+[00:11:19.021 --> 00:11:20.461] TROI: and all the good times we had.
+[00:11:22.461 --> 00:11:27.261] RIKER: I remember a certain junior officer meeting a very serious psychologist.
+[00:11:27.261 --> 00:11:27.341] RIKER: The
+[00:11:29.261 --> 00:11:30.521] RIKER: best part about being assigned to Betazed.
+[00:11:30.521 --> 00:11:30.701] LWAXANA: Oh,
+[00:11:34.461 --> 00:11:36.301] LWAXANA: this is the perfect spot.
+[00:11:36.781 --> 00:11:37.901] LWAXANA: Put the food down over there,
+[00:11:39.021 --> 00:11:40.941] LWAXANA: Mister Homn. Isn't it a beautiful day
+[00:11:42.541 --> 00:11:42.541] LWAXANA: for a picnic? They'll
+[00:11:42.541 --> 00:11:42.861] LWAXANA: join us in a minute. No,
+[00:11:44.541 --> 00:11:45.341] LWAXANA: no, no, no. Here,
+[00:11:45.421 --> 00:11:47.101] LWAXANA: put the food over there.
+[00:11:47.581 --> 00:11:48.461] LWAXANA: No, you can go back
+[00:11:48.461 --> 00:11:51.261] TROI: Mother, how did you know about this place?
+[00:11:53.021 --> 00:11:54.541] LWAXANA: Your father used to bring me here.
+[00:11:55.501 --> 00:11:56.061] LWAXANA: Sit down.
+[00:11:56.701 --> 00:11:57.901] RIKER: And you even brought provisions.
+[00:11:57.981 --> 00:11:58.381] RIKER: Very thoughtful.
+[00:11:59.821 --> 00:12:00.941] LWAXANA: Here, Will,
+[00:12:01.331 --> 00:12:03.331] LWAXANA: Deanna. Try an oskoid.
+[00:12:04.051 --> 00:12:04.771] LWAXANA: They're delicious.
+[00:12:09.331 --> 00:12:12.451] LWAXANA: That sap running through the veins helps keep it warm.
+[00:12:15.811 --> 00:12:16.451] RIKER: Very tasty.
+[00:12:18.291 --> 00:12:21.091] RIKER: So tell us, Lwaxana. The last time we met, you were looking for a husband.
+[00:12:21.091 --> 00:12:21.651] RIKER: Did you have any luck?
+[00:12:22.451 --> 00:12:23.811] LWAXANA: Alas, no,
+[00:12:25.171 --> 00:12:27.091] LWAXANA: but what happens to me isn't important.
+[00:12:27.891 --> 00:12:31.731] LWAXANA: I'm much more concerned about other people getting on with their lives.
+[00:12:32.611 --> 00:12:33.091] TROI: Mother.
+[00:12:35.891 --> 00:12:39.171] LWAXANA: Mister Homn, I noticed some uttaberries back along the path.
+[00:12:39.811 --> 00:12:40.291] LWAXANA: Pick some.
+[00:12:43.411 --> 00:12:47.571] LWAXANA: Well, Mister Homn and I could go back home if you two would like to be alone.
+[00:12:47.571 --> 00:12:49.971] LWAXANA: It's such a romantic setting.
+[00:12:50.211 --> 00:12:51.091] TROI: Mother, stop it.
+[00:12:52.611 --> 00:12:53.011] LWAXANA: Darling,
+[00:12:53.011 --> 00:12:54.771] LWAXANA: you have been so excitable lately.
+[00:12:55.411 --> 00:12:56.931] LWAXANA: Have you ever thought of a leave of absence?
+[00:12:56.931 --> 00:12:57.811] LWAXANA: I could talk to Jean-Luc.
+[00:12:58.851 --> 00:12:59.571] RIKER: Try the oskoid.
+[00:13:00.371 --> 00:13:00.931] RIKER: Very different.
+[00:13:07.091 --> 00:13:07.411] RIKER: What the?
+[00:13:07.651 --> 00:13:10.424] TOG: For one whose beauty surpasses even these pericules.
+[00:13:10.424 --> 00:13:13.891] RIKER: DaiMon Tog, I thought the Krayton left orbit hours ago.
+[00:13:14.691 --> 00:13:20.531] TOG: It did. But when I tried to get the image of Lwaxana Troi out of my mind, I could not succeed.
+[00:13:22.131 --> 00:13:23.171] LWAXANA: This is ludicrous.
+[00:13:23.571 --> 00:13:25.891] LWAXANA: You mean you came all the way back to Betazed for me?
+[00:13:26.451 --> 00:13:29.091] TOG: Why continue to search for perfection once you have found it?
+[00:13:31.091 --> 00:13:32.051] TROI: I don't believe this.
+[00:13:32.211 --> 00:13:35.251] LWAXANA: Look, Demon Tog, or whatever you call yourself,
+[00:13:35.440 --> 00:13:40.560] LWAXANA: I am the Daughter of the Fifth House, Holder of the Sacred Chalice of Rixx, heir to the Holy Rings of Betazed.
+[00:13:40.800 --> 00:13:44.640] LWAXANA: And unless you want to create an interstellar incident, you had better beam back to your ship.
+[00:13:44.960 --> 00:13:47.120] TOG: Returning to my ship is exactly what I had in mind.
+[00:13:49.920 --> 00:13:51.360] TOG: Krayton, transport four immediately.
+[00:13:51.600 --> 00:13:52.080] RIKER: No, Tog!
+[00:14:04.560 --> 00:14:04.560] RIKER: Lwaxana?
+[00:14:44.720 --> 00:14:45.040] RIKER: Deanna?
+[00:14:45.190 --> 00:14:46.590] LWAXANA: Where are we?
+[00:14:48.160 --> 00:14:50.560] RIKER: From the smell of things, I'd say we're aboard a Ferengi vessel.
+[00:14:50.800 --> 00:14:52.240] LWAXANA: The Ferengi can't do that.
+[00:14:52.240 --> 00:14:53.360] LWAXANA: You're Starfleet officers.
+[00:14:53.760 --> 00:14:56.240] RIKER: Tog must have missed that chapter in the Ferengi book of Etiquette.
+[00:14:57.200 --> 00:14:57.840] RIKER: Enterprise?
+[00:15:01.265 --> 00:15:02.465] RIKER: Must be too far out of range.
+[00:15:13.025 --> 00:15:15.185] NIBOR: DaiMon, they have regained consciousness.
+[00:15:15.505 --> 00:15:16.225] TOG: Very good.
+[00:15:27.585 --> 00:15:29.585] LWAXANA: I should have known.
+[00:15:29.585 --> 00:15:31.345] LWAXANA: Even their transporters can't be trusted.
+[00:15:36.225 --> 00:15:37.585] TROI: Why have you removed our clothing?
+[00:15:37.825 --> 00:15:40.145] FAREK: Females do not deserve the honour of clothing.
+[00:15:42.145 --> 00:15:43.105] LWAXANA: They're as bad as humans.
+[00:15:43.105 --> 00:15:44.625] LWAXANA: Look at the leer on his face.
+[00:15:47.665 --> 00:15:49.665] TOG: No.
+[00:15:51.025 --> 00:15:55.745] TOG: His is an expression of revulsion. But it is a feeling that I do not share, Lwaxana.
+[00:15:59.105 --> 00:15:59.105] LWAXANA: Well,
+[00:16:04.385 --> 00:16:05.905] LWAXANA: it's cold in
+[00:16:07.745 --> 00:16:07.745] LWAXANA: here.
+[00:16:07.825 --> 00:16:09.025] LWAXANA: Do you want me to become ill?
+[00:16:09.425 --> 00:16:10.465] TOG: You must forgive the doctor.
+[00:16:11.185 --> 00:16:13.985] TOG: He is not accustomed to dealing with Betazoid females.
+[00:16:14.705 --> 00:16:15.745] TOG: Now, Lwaxana,
+[00:16:16.785 --> 00:16:19.265] TOG: I have a business proposition for you.
+[00:16:19.585 --> 00:16:21.825] LWAXANA: Thanks, but I'm not interested in any of your propositions.
+[00:16:21.905 --> 00:16:22.545] TOG: Hear me out.
+[00:16:23.105 --> 00:16:25.825] TOG: Your telepathic powers could bring us both great profit.
+[00:16:26.545 --> 00:16:27.825] LWAXANA: Huh. Why would I want to bring you profit?
+[00:16:28.465 --> 00:16:32.625] FAREK: In order to keep your daughter alive and healthy, for one.
+[00:16:33.615 --> 00:16:34.735] TOG: There's no need for threats.
+[00:16:35.455 --> 00:16:37.535] TOG: Lwaxana is a sensible female
+[00:16:38.335 --> 00:16:39.695] TROI: I don't like the sound of this, mother.
+[00:16:40.175 --> 00:16:43.695] LWAXANA: I believe I can control him, Little One.
+[00:16:43.775 --> 00:16:48.735] LWAXANA: I'm sure we can talk about this. Just the two of us.
+[00:16:49.535 --> 00:16:50.255] TOG: A wise choice.
+[00:16:51.695 --> 00:16:53.055] TOG: Farek, leave us.
+[00:17:02.735 --> 00:17:04.975] TOG: And you may rejoin your friend.
+[00:17:05.295 --> 00:17:06.415] TROI: Mother, are you sure?
+[00:17:06.735 --> 00:17:07.695] LWAXANA: I'll be fine.
+[00:17:25.775 --> 00:17:27.295] TOG: And now, Lwaxana Troi,
+[00:17:28.415 --> 00:17:29.855] TOG: let us talk.
+[00:17:30.095 --> 00:17:31.375] LAFORGE: Fifteen
+[00:17:48.975 --> 00:17:54.655] LAFORGE: hours from Gamma Erandi, and already the subspace static is playing hell with communications.
+[00:17:54.975 --> 00:17:56.575] WESLEY: Just what you'd expect from a stellar nursery.
+[00:17:57.135 --> 00:18:00.655] DATA: Wesley, congratulations on passing your Starfleet written examination.
+[00:18:01.135 --> 00:18:02.095] DATA: An excellent achievement.
+[00:18:02.335 --> 00:18:02.895] WESLEY: Thanks, Data.
+[00:18:03.764 --> 00:18:06.019] WESLEY: Now if I can just do well on the oral exams.
+[00:18:06.019 --> 00:18:07.044] LAFORGE: Not to worry, you will.
+[00:18:07.364 --> 00:18:10.164] LAFORGE: And when you return, we'll be gaining the best ensign in the fleet.
+[00:18:11.524 --> 00:18:14.404] DATA: There is no guarantee that Wesley will be reassigned to the Enterprise.
+[00:18:14.964 --> 00:18:19.444] DATA: Ninety one per cent of Starfleet graduates are not posted to Galaxy class starships on their first assignment.
+[00:18:20.724 --> 00:18:21.604] WESLEY: I never thought of that.
+[00:18:22.804 --> 00:18:24.564] WESLEY: I always assumed I'd be coming back to the Enterprise.
+[00:18:24.804 --> 00:18:26.644] LAFORGE: I'm sure Captain Picard will request you.
+[00:18:27.364 --> 00:18:30.324] LAFORGE: That is, if he's still commanding the Enterprise when you graduate.
+[00:18:30.404 --> 00:18:30.564] WESLEY: I
+[00:18:33.124 --> 00:18:34.084] WESLEY: never thought of that, either.
+[00:18:37.204 --> 00:18:39.924] WESLEY: I never thought I'd feel this way about leaving you guys and the Enterprise.
+[00:18:40.164 --> 00:18:41.924] DATA: Is that not a part of the human experience?
+[00:18:42.324 --> 00:18:43.604] DATA: Growth and change?
+[00:18:44.484 --> 00:18:45.444] WESLEY: I suppose so,
+[00:18:45.604 --> 00:18:45.795] WESLEY: but.
+[00:18:45.795 --> 00:18:49.044] LAFORGE: Listen, Wesley. I felt the same way when I left my family to go to the Academy.
+[00:18:49.364 --> 00:18:51.044] LAFORGE: But it was one of the best times of my life.
+[00:18:51.044 --> 00:18:54.324] LAFORGE: You're going to meet new friends and have adventures that you can't even imagine yet.
+[00:18:55.604 --> 00:18:56.484] WESLEY: I hope you're right, Geordi.
+[00:18:59.764 --> 00:19:03.204] LWAXANA: Little One, Tog's given me something perfectly hideous to wear.
+[00:19:03.604 --> 00:19:05.044] LWAXANA: He says it flatters my beauty.
+[00:19:13.524 --> 00:19:15.444] TROI: So far, Mother's in no danger.
+[00:19:17.044 --> 00:19:18.564] TROI: I hope she knows what she's doing.
+[00:19:19.524 --> 00:19:20.484] RIKER: Well, she's bought us some time.
+[00:19:20.484 --> 00:19:21.284] RIKER: Let's make the most of it.
+[00:19:21.434 --> 00:19:22.034] RIKER: I
+[00:19:24.724 --> 00:19:25.444] RIKER: wouldn't do that.
+[00:19:27.604 --> 00:19:28.564] NIBOR: I don't need your help.
+[00:19:28.579 --> 00:19:30.179] RIKER: The hell you don't.
+[00:19:30.179 --> 00:19:31.539] RIKER: You're two moves away from being mated.
+[00:19:37.699 --> 00:19:38.819] RIKER: See, you should have listened to me.
+[00:19:39.859 --> 00:19:41.219] RIKER: Now you've only got one possible escape.
+[00:19:41.299 --> 00:19:41.459] RIKER: That
+[00:19:48.339 --> 00:19:48.659] RIKER: wasn't
+[00:19:50.259 --> 00:19:52.259] RIKER: it.
+[00:19:55.859 --> 00:19:56.659] RIKER: You should've moved the bishop.
+[00:19:57.139 --> 00:19:57.939] NIBOR: Ridiculous!
+[00:19:58.179 --> 00:19:59.219] NIBOR: The bishop was pinned.
+[00:19:59.619 --> 00:20:00.419] RIKER: Don't listen to me.
+[00:20:01.059 --> 00:20:03.299] RIKER: Forget the fact that I beat you in thirty moves.
+[00:20:03.699 --> 00:20:04.419] NIBOR: Pure luck.
+[00:20:05.059 --> 00:20:05.939] RIKER: I was being polite.
+[00:20:05.939 --> 00:20:06.819] RIKER: I could've won in twenty moves.
+[00:20:11.939 --> 00:20:12.739] NIBOR: Then prove it.
+[00:20:18.339 --> 00:20:20.739] NIBOR: Pawn to queen four, King's level.
+[00:20:21.859 --> 00:20:24.419] RIKER: Pawn to king's bishop three, Queen's level.
+[00:20:32.659 --> 00:20:38.579] LWAXANA: I must admit, when you first approached me aboard the Enterprise, I was intrigued.
+[00:20:39.699 --> 00:20:40.579] TOG: You mean revolted.
+[00:20:40.739 --> 00:20:41.459] LWAXANA: Perhaps a little.
+[00:20:43.619 --> 00:20:44.499] LWAXANA: Do you forgive me?
+[00:20:44.979 --> 00:20:45.459] TOG: Yes.
+[00:20:47.459 --> 00:20:48.339] TOG: With your powers
+[00:20:50.179 --> 00:20:51.779] TOG: we could be a formidable team.
+[00:20:52.659 --> 00:20:54.659] LWAXANA: My,
+[00:20:55.779 --> 00:20:58.419] LWAXANA: you have great strength in your hands.
+[00:20:59.299 --> 00:20:59.939] TOG: And you like that?
+[00:21:00.997 --> 00:21:03.717] LWAXANA: I have always admired strong males.
+[00:21:05.397 --> 00:21:06.117] TOG: You are beautiful.
+[00:21:07.717 --> 00:21:09.477] TOG: It is impossible for me to resist you.
+[00:21:11.637 --> 00:21:13.877] LWAXANA: Then don't.
+[00:21:35.557 --> 00:21:39.557] DATA: Initial scans of ionisation patterns complete, sir.
+[00:21:40.277 --> 00:21:41.717] DATA: Now correlating sensor readings.
+[00:21:41.867 --> 00:21:42.467] PICARD: It's
+[00:21:45.317 --> 00:21:46.437] PICARD: almost incomprehensible,
+[00:21:48.037 --> 00:21:49.477] PICARD: the amount of energy being expended.
+[00:21:50.517 --> 00:21:54.037] DATA: Actually, it is five point three four times ten to the forty first watts, sir.
+[00:21:54.517 --> 00:21:56.117] DATA: Well within the norm for this type of phenomena.
+[00:21:56.517 --> 00:21:57.317] PICARD: Yes, yes, yes.
+[00:21:57.317 --> 00:21:57.877] PICARD: Perhaps, Data,
+[00:21:58.357 --> 00:22:01.557] PICARD: but that takes away none of the wonder.
+[00:22:10.517 --> 00:22:10.917] NIBOR: Check.
+[00:22:10.917 --> 00:22:12.757] RIKER: I'm sick of this game.
+[00:22:12.997 --> 00:22:13.477] NIBOR: Of course,
+[00:22:13.797 --> 00:22:15.450] NIBOR: now that you're losing.
+[00:22:15.450 --> 00:22:16.277] RIKER: Who's losing?
+[00:22:16.277 --> 00:22:17.637] RIKER: I'm just tired of standing up.
+[00:22:18.117 --> 00:22:19.557] NIBOR: You can't resign now.
+[00:22:19.797 --> 00:22:20.837] RIKER: It's hard to play from in here.
+[00:22:20.837 --> 00:22:22.117] RIKER: I can't even see the whole board.
+[00:22:22.597 --> 00:22:25.877] NIBOR: Ah, then you'll finish the game if I let you out of the cell?
+[00:22:27.317 --> 00:22:27.637] RIKER: I might.
+[00:22:29.397 --> 00:22:31.717] NIBOR: Clever, human, but I'm not that foolish.
+[00:22:31.858 --> 00:22:33.138] RIKER: What, do you think I'm going to try to escape?
+[00:22:33.858 --> 00:22:34.578] RIKER: What would that get me?
+[00:22:34.738 --> 00:22:35.618] RIKER: You've already got her.
+[00:22:38.178 --> 00:22:39.218] RIKER: Besides, where would I go?
+[00:22:41.698 --> 00:22:42.658] NIBOR: I do not trust you.
+[00:22:43.538 --> 00:22:43.858] RIKER: Fine.
+[00:22:44.738 --> 00:22:45.298] RIKER: Thanks for the game.
+[00:22:55.378 --> 00:22:56.178] NIBOR: Come out here.
+[00:23:11.218 --> 00:23:13.538] NIBOR: Now save your rook, if you can.
+[00:23:18.818 --> 00:23:20.418] LWAXANA: And that was my first husband.
+[00:23:21.458 --> 00:23:22.978] LWAXANA: Not much of a conversationalist, but
+[00:23:24.578 --> 00:23:26.578] LWAXANA: what a lover.
+[00:23:26.728 --> 00:23:27.328] LWAXANA: Well,
+[00:23:29.378 --> 00:23:30.578] LWAXANA: then I met Zarn
+[00:23:30.578 --> 00:23:34.098] TOG: I do not want to hear about your other romances.
+[00:23:34.978 --> 00:23:36.018] TOG: It makes me jealous.
+[00:23:39.218 --> 00:23:42.658] LWAXANA: My, my. What big ears you have.
+[00:23:43.458 --> 00:23:45.938] LWAXANA: Has anyone ever told you how attractive they are?
+[00:23:46.338 --> 00:23:49.138] TOG: Some females think they are my best feature.
+[00:23:52.658 --> 00:23:55.378] TOG: No one has ever given me oo-mox like this before.
+[00:23:56.018 --> 00:23:56.658] LWAXANA: Oo-mox?
+[00:23:58.337 --> 00:24:03.777] TOG: There is no translation. But the ear is one of our most erogenous zones.
+[00:24:05.297 --> 00:24:06.897] RIKER: Those Ferengi have iron jaws.
+[00:24:10.657 --> 00:24:13.057] LWAXANA: Little One, if Tog were a kitten, he'd be purring.
+[00:24:13.537 --> 00:24:14.337] TROI: Good work, Mother.
+[00:24:15.777 --> 00:24:20.017] TROI: According to Mother, DaiMon Tog is extremely relaxed at the moment.
+[00:24:20.497 --> 00:24:21.857] RIKER: Tell Lwaxana to keep him relaxed
+[00:24:21.937 --> 00:24:22.977] RIKER: while we call the cavalry.
+[00:24:25.297 --> 00:24:27.057] COMPUTER: Access to communications denied.
+[00:24:27.697 --> 00:24:30.017] COMPUTER: All transmissions to be authorised by DaiMon Tog.
+[00:24:32.977 --> 00:24:35.857] TROI: Let's see just how relaxed DaiMon Tog is.
+[00:24:36.737 --> 00:24:41.937] TROI: Mother, we're out of the cell and we're trying to contact the Enterprise, but we can't do it without Tog's access code.
+[00:24:42.417 --> 00:24:43.377] TROI: Do you think you could manage to
+[00:24:43.377 --> 00:24:44.657] LWAXANA: Say no more, Little One.
+[00:24:46.817 --> 00:24:50.577] TOG: Lwaxana, you and I are going to make such a wonderful team.
+[00:24:51.457 --> 00:24:55.244] TOG: With your telepathy and my cunning, I foresee
+[00:24:55.244 --> 00:24:57.137] LWAXANA: A very profitable future.
+[00:25:07.057 --> 00:25:08.897] WORF: Subspace interference is subsiding, sir.
+[00:25:08.977 --> 00:25:10.337] WORF: Communications have been restored.
+[00:25:10.657 --> 00:25:10.977] PICARD: Good.
+[00:25:11.457 --> 00:25:12.737] PICARD: Contact Commander Riker on Betazed.
+[00:25:14.257 --> 00:25:15.697] WORF: Message coming in from Betazed, sir.
+[00:25:15.697 --> 00:25:16.577] WORF: Priority One.
+[00:25:18.177 --> 00:25:18.577] PICARD: On screen.
+[00:25:20.417 --> 00:25:23.697] GRAX: Captain Picard, at last. We have been trying to reach you for two days.
+[00:25:24.047 --> 00:25:25.887] PICARD: Our communications have been blocked by the nebula,
+[00:25:25.887 --> 00:25:27.647] PICARD: Reittan. Is there a problem?
+[00:25:28.127 --> 00:25:29.087] GRAX: I'm afraid so, Captain.
+[00:25:30.047 --> 00:25:33.647] GRAX: Lwaxana, Deanna and Commander Riker have disappeared.
+[00:25:40.127 --> 00:25:42.527] TOG: I knew I wanted you the moment I saw you.
+[00:25:43.327 --> 00:25:44.847] TOG: You have fulfilled all my expectations.
+[00:25:46.207 --> 00:25:46.687] LWAXANA: How sweet.
+[00:25:47.647 --> 00:25:51.007] TOG: Farek thought it was a bad idea, but I knew better.
+[00:25:51.807 --> 00:25:52.447] LWAXANA: How clever.
+[00:25:52.847 --> 00:25:53.887] TOG: I knew best.
+[00:25:54.687 --> 00:25:55.887] TOG: I always know best.
+[00:25:57.167 --> 00:25:57.887] LWAXANA: How repugnant.
+[00:25:58.527 --> 00:25:58.687] TOG: What?
+[00:25:59.007 --> 00:26:00.447] LWAXANA: I said, how romantic.
+[00:26:01.807 --> 00:26:05.887] LWAXANA: I can't resist a man who knows what he wants and goes after it.
+[00:26:05.887 --> 00:26:08.767] TOG: That's me. That's why I'm DaiMon of this ship.
+[00:26:09.567 --> 00:26:11.327] TOG: I take charge of every situation.
+[00:26:13.087 --> 00:26:14.207] TOG: More to the left, woman.
+[00:26:14.847 --> 00:26:15.887] LWAXANA: Whatever you say.
+[00:26:17.007 --> 00:26:17.567] LWAXANA: My
+[00:26:21.327 --> 00:26:23.327] LWAXANA: darling, would you care for something to drink?
+[00:26:23.727 --> 00:26:25.007] TOG: You're so attentive.
+[00:26:25.887 --> 00:26:29.967] LWAXANA: Does your food synthesiser know how to make an Arcturian Fizz?
+[00:26:30.527 --> 00:26:31.407] TOG: I don't think so.
+[00:26:32.127 --> 00:26:35.087] LWAXANA: They have certain pleasure-enhancing qualities.
+[00:26:35.327 --> 00:26:35.711] TOG: Mmm
+[00:26:35.711 --> 00:26:39.167] LWAXANA: Let me teach your computer how to make one.
+[00:26:44.287 --> 00:26:47.087] LWAXANA: I'll need your access code.
+[00:26:48.047 --> 00:26:49.167] TOG: Yes, my beloved.
+[00:26:50.127 --> 00:26:50.767] TOG: Computer,
+[00:26:51.270 --> 00:26:52.230] TOG: access code
+[00:26:52.950 --> 00:26:53.590] TOG: kayee yooree
+[00:26:53.590 --> 00:26:54.950] TOG: dahtayee
+[00:26:54.950 --> 00:26:54.950] FAREK: Tog!
+[00:26:55.910 --> 00:26:56.070] FAREK: Be silent!
+[00:26:59.270 --> 00:27:01.110] FAREK: I knew you were not to be trusted.
+[00:27:01.110 --> 00:27:03.430] LWAXANA: Doctor Farek! I was going to make DaiMon Tog a
+[00:27:03.590 --> 00:27:03.910] LWAXANA: drink.
+[00:27:03.910 --> 00:27:05.910] FAREK: Save your lies for this fool.
+[00:27:06.710 --> 00:27:09.510] LWAXANA: Oh please, don't listen to him. Don't.
+[00:27:09.750 --> 00:27:10.790] LWAXANA: No, he's misunderstood me.
+[00:27:10.870 --> 00:27:11.510] FAREK: No, Tog.
+[00:27:11.590 --> 00:27:12.710] FAREK: You have misunderstood.
+[00:27:13.350 --> 00:27:17.430] FAREK: You have been tricked by a sly female who finds you repulsive.
+[00:27:18.150 --> 00:27:20.310] TOG: She was only trying to serve me a drink.
+[00:27:20.870 --> 00:27:23.830] FAREK: You almost gave her complete access to the ship's computer.
+[00:27:25.030 --> 00:27:28.470] FAREK: A security breach severe enough to cost you your command.!
+[00:27:30.950 --> 00:27:32.550] FAREK: It's time you took my advice.
+[00:27:33.430 --> 00:27:34.150] FAREK: Let me study her.
+[00:27:34.870 --> 00:27:35.430] TOG: Study her?
+[00:27:37.990 --> 00:27:39.590] TOG: Your mind probes could kill her.
+[00:27:39.830 --> 00:27:42.150] FAREK: You brought her aboard for her telepathic powers.
+[00:27:43.430 --> 00:27:49.270] FAREK: If I can determine what neural configuration gives her those powers, I may be able to duplicate them.
+[00:27:50.150 --> 00:27:52.070] FAREK: We could still profit from this.
+[00:27:53.270 --> 00:27:53.830] TOG: I don't know.
+[00:27:54.390 --> 00:27:57.270] FAREK: A true DaiMon would not be blinded by lust.
+[00:27:57.670 --> 00:28:02.630] FAREK: Give her to me, or I may be forced to report your transgressions.
+[00:28:05.430 --> 00:28:05.910] TOG: Very well.
+[00:28:06.710 --> 00:28:06.870] TOG: Take her.
+[00:28:07.020 --> 00:28:10.820] WORF: When you have finished here, survey in that direction.
+[00:28:24.145 --> 00:28:25.145] CREWWOMAN: Aye, sir.
+[00:28:28.101 --> 00:28:31.541] GRAX: I wish I had some answers for you, Lieutenant Worf.
+[00:28:33.381 --> 00:28:34.421] WORF: Mister Homn was no help?
+[00:28:34.501 --> 00:28:34.741] GRAX: None.
+[00:28:35.061 --> 00:28:36.661] GRAX: He last saw them as he was leaving this clearing.
+[00:28:36.661 --> 00:28:38.421] GRAX: When he returned, all three of them were gone.
+[00:28:39.301 --> 00:28:41.221] DATA: Lieutenant Foley discovered this in the pond.
+[00:28:41.781 --> 00:28:43.461] DATA: The species is Zan Periculi.
+[00:28:44.021 --> 00:28:47.861] DATA: It is not indigenous to Betazed, but to Lappa Four. A Ferengi world.
+[00:28:54.421 --> 00:28:56.501] PICARD: Now we now have a reasonable hypothesis as to whom.
+[00:28:57.061 --> 00:28:59.061] WORF: The difficult question is where.
+[00:28:59.541 --> 00:29:01.701] LAFORGE: The Ferengi ship is almost as fast as the Enterprise.
+[00:29:01.781 --> 00:29:02.661] LAFORGE: She could be anywhere by now.
+[00:29:03.621 --> 00:29:05.061] PICARD: Commander Riker will assume that we'll be searching for them.
+[00:29:05.061 --> 00:29:06.581] PICARD: He'll find some way to send us a message.
+[00:29:07.141 --> 00:29:10.661] PICARD: Mister Worf, I want continual monitoring of Ferengi subspace frequencies.
+[00:29:10.821 --> 00:29:12.821] PICARD: Mister La Forge, can you extend our sensor range?
+[00:29:13.221 --> 00:29:17.061] LAFORGE: If I narrow the band and tie in long range sensors to the subspace scanners, I can boost the gain.
+[00:29:17.301 --> 00:29:17.861] PICARD: Make it so.
+[00:29:22.581 --> 00:29:23.541] DATA: Do you wish to leave orbit, sir?
+[00:29:24.501 --> 00:29:25.861] PICARD: Not until we have someplace to go.
+[00:29:29.861 --> 00:29:34.981] RIKER: I've done everything I know how.
+[00:29:34.981 --> 00:29:35.621] RIKER: It's no use.
+[00:29:36.501 --> 00:29:39.701] RIKER: Without Tog's security code, I can't get near their communication system.
+[00:29:40.661 --> 00:29:41.781] TROI: We're running out of time.
+[00:29:41.781 --> 00:29:43.941] TROI: Farek's about to begin the neural scan on Mother.
+[00:29:44.581 --> 00:29:46.101] RIKER: Maybe I'm going about this in the wrong way.
+[00:29:48.101 --> 00:29:50.581] RIKER: If I pick a minor subsystem, something non-essential.
+[00:29:53.781 --> 00:29:54.261] RIKER: Like this.
+[00:29:54.377 --> 00:29:55.577] RIKER: Warp field phase adjustment.
+[00:29:56.057 --> 00:29:59.497] RIKER: All this does is suppress the subspace interference generated by the warp engines.
+[00:29:59.737 --> 00:30:00.297] TROI: Meaning what?
+[00:30:00.457 --> 00:30:03.177] RIKER: Meaning if I set up a simple oscillation, I can send out a signal.
+[00:30:03.897 --> 00:30:09.097] RIKER: The trick is to create a message that the Enterprise will understand but that the Ferengi will think is just normal subspace static.
+[00:30:15.577 --> 00:30:19.737] RIKER: What's wrong?
+[00:30:22.697 --> 00:30:23.017] TROI: Mother.
+[00:30:27.177 --> 00:30:27.257] TROI: Will,
+[00:30:29.177 --> 00:30:29.817] TROI: we have to help
+[00:30:34.217 --> 00:30:34.217] TROI: her.
+[00:30:42.617 --> 00:30:43.577] LAFORGE: Thanks for your help, Wes,
+[00:30:43.737 --> 00:30:44.777] LAFORGE: but you'd better get aboard the Bradbury.
+[00:30:44.777 --> 00:30:46.297] LAFORGE: They were ready to break orbit an hour ago.
+[00:30:46.537 --> 00:30:47.737] WESLEY: Soon as I'm sure this works.
+[00:30:52.137 --> 00:30:53.577] LAFORGE: Initiating scans now, Captain.
+[00:30:58.057 --> 00:31:00.777] PICARD: Can you locate the Krayton?
+[00:31:01.977 --> 00:31:04.937] DATA: Ferengi transmissions are routinely scrambled and encoded, sir.
+[00:31:05.177 --> 00:31:08.777] DATA: Without breaking the code, we will be unable to identify any specific Ferengi vessel.
+[00:31:09.257 --> 00:31:11.257] LAFORGE: Ferengi codes are damn near impossible to break.
+[00:31:11.897 --> 00:31:15.577] PICARD: Gentlemen, I have the utmost confidence in your ability to perform the impossible.
+[00:31:22.697 --> 00:31:24.457] WORF: Captain, the Bradbury is hailing us.
+[00:31:24.697 --> 00:31:26.377] WORF: They can no longer delay their departure.
+[00:31:26.937 --> 00:31:28.617] PICARD: Mister Crusher. Now.
+[00:31:29.421 --> 00:31:30.301] PICARD: No lengthy farewells.
+[00:31:31.341 --> 00:31:31.581] PICARD: Good luck.
+[00:31:32.941 --> 00:31:33.341] WESLEY: Thank you, sir.
+[00:31:41.741 --> 00:31:45.021] DATA: The repetitive nature of the subcarrier pattern would imply a modified
+[00:31:47.581 --> 00:31:48.141] WESLEY: Deck six.
+[00:31:52.541 --> 00:31:53.021] CRUSHER: Wesley?
+[00:31:58.781 --> 00:31:59.261] CRUSHER: Take care.
+[00:32:00.221 --> 00:32:00.461] WESLEY: You too,
+[00:32:02.941 --> 00:32:04.941] WESLEY: Mom.
+[00:32:04.941 --> 00:32:05.581] CRUSHER: Something the matter?
+[00:32:07.341 --> 00:32:10.141] WESLEY: We've been scanning Ferengi transmissions, trying to find the Krayton.
+[00:32:11.661 --> 00:32:15.821] WESLEY: One of the signals was, I don't know, familiar somehow.
+[00:32:15.821 --> 00:32:16.781] CRUSHER: Something in the message?
+[00:32:17.181 --> 00:32:19.421] WESLEY: No, the message was scrambled.
+[00:32:21.821 --> 00:32:22.621] WESLEY: It was the static!
+[00:32:23.741 --> 00:32:24.541] CRUSHER: Where are you going?
+[00:32:32.781 --> 00:32:33.021] WORF: Captain.
+[00:32:35.661 --> 00:32:38.781] WORF: The Bradbury has informed us they can wait no longer for Mister Crusher to come aboard.
+[00:32:40.221 --> 00:32:40.621] PICARD: Wesley.
+[00:32:41.661 --> 00:32:45.341] WESLEY: Captain, I think there's a pattern to the subspace interference I heard on one of the Ferengi messages.
+[00:32:45.341 --> 00:32:47.421] PICARD: Wesley, unless you leave immediately, you're going to miss the Bradbury.
+[00:32:47.661 --> 00:32:49.581] WESLEY: The interference itself could be a message.
+[00:32:49.581 --> 00:32:51.501] WESLEY: If I could just hear a replay of the subspace scans.
+[00:32:54.061 --> 00:32:55.341] PICARD: Signal the Bradbury they may leave.
+[00:32:56.061 --> 00:32:56.541] PICARD: Play back
+[00:32:56.541 --> 00:32:57.421] PICARD: the Ferengi transmissions.
+[00:32:58.941 --> 00:32:59.501] WESLEY: Wait.
+[00:33:02.594 --> 00:33:03.154] WESLEY: Repeat that one.
+[00:33:04.034 --> 00:33:04.994] WESLEY: Put it on a continuous replay.
+[00:33:07.634 --> 00:33:08.594] WESLEY: Hear that popping noise?
+[00:33:09.954 --> 00:33:11.714] WESLEY: Data, can you filter out everything but that sound?
+[00:33:14.194 --> 00:33:15.554] LAFORGE: That's Cochrane distortion.
+[00:33:16.034 --> 00:33:18.114] LAFORGE: A fluctuation in the phase of the subspace field.
+[00:33:18.114 --> 00:33:20.434] LAFORGE: All warp engines generate that kind of interference.
+[00:33:20.594 --> 00:33:21.794] WESLEY: But listen to the pattern.
+[00:33:24.434 --> 00:33:27.314] WESLEY: It's the Algolian ceremonial rhythm that the musician played at the reception.
+[00:33:28.034 --> 00:33:28.194] DATA: Mister
+[00:33:28.194 --> 00:33:29.074] DATA: Crusher is correct, sir.
+[00:33:29.394 --> 00:33:30.674] DATA: There is a temporal correlation.
+[00:33:31.474 --> 00:33:32.914] PICARD: Then it is a signal from Commander Riker.
+[00:33:33.794 --> 00:33:34.354] PICARD: Ingenious.
+[00:33:35.474 --> 00:33:39.234] PICARD: He selected a signal we'd recognise but one the Ferengi would dismiss as static.
+[00:33:43.554 --> 00:33:44.514] WORF: Signal source located,
+[00:33:45.234 --> 00:33:45.410] WORF: Captain.
+[00:33:45.410 --> 00:33:46.114] PICARD: Plot an intercept course.
+[00:33:47.394 --> 00:33:48.514] WESLEY: Course plotted and laid in, sir.
+[00:33:48.834 --> 00:33:49.314] PICARD: Well done, Mister
+[00:33:49.314 --> 00:33:49.634] PICARD: Crusher.
+[00:33:50.034 --> 00:33:50.434] PICARD: Warp eight.
+[00:33:50.994 --> 00:33:51.394] WESLEY: Aye, sir.
+[00:33:52.354 --> 00:33:52.834] PICARD: Engage.
+[00:33:54.754 --> 00:33:54.834] RIKER: Get
+[00:33:58.594 --> 00:33:58.914] RIKER: away from her.
+[00:33:58.994 --> 00:34:00.114] FAREK: What are you doing?
+[00:34:00.264 --> 00:34:00.864] FAREK: br>
+[00:34:03.714 --> 00:34:04.594] TOG: Stand off, Commander.
+[00:34:11.394 --> 00:34:13.554] LWAXANA: DaiMon Tog, can't we strike a bargain?
+[00:34:15.154 --> 00:34:17.394] LWAXANA: All I'm concerned about is my daughter's safety.
+[00:34:18.034 --> 00:34:19.474] LWAXANA: What happens to me isn't important.
+[00:34:20.354 --> 00:34:21.154] TOG: What are you suggesting?
+[00:34:21.634 --> 00:34:22.914] LWAXANA: Let me be candid, DaiMon Tog.
+[00:34:24.114 --> 00:34:25.234] LWAXANA: Deanna's of no use to you.
+[00:34:25.234 --> 00:34:29.954] LWAXANA: She's only half Betazoid. And if you keep Riker, Starfleet will never stop chasing for you.
+[00:34:31.314 --> 00:34:31.874] LWAXANA: Release them.
+[00:34:32.347 --> 00:34:34.987] LWAXANA: Release them and I will stay with you willingly.
+[00:34:35.947 --> 00:34:39.547] LWAXANA: I'll even use my telepathy to aid you in your negotiations.
+[00:34:40.587 --> 00:34:41.307] TOG: A tempting offer.
+[00:34:42.667 --> 00:34:43.627] TOG: I would like to believe you.
+[00:34:44.107 --> 00:34:45.067] LWAXANA: The offer is genuine.
+[00:34:47.067 --> 00:34:49.830] LWAXANA: I give you my word as a Daughter of the Fifth House of Betazed.
+[00:34:49.830 --> 00:34:50.027] RIKER: Lwaxana,
+[00:34:50.347 --> 00:34:51.227] RIKER: don't.
+[00:34:51.787 --> 00:34:52.667] LWAXANA: I've made up my mind.
+[00:34:52.667 --> 00:34:54.381] RIKER: I can't let you do this.
+[00:34:54.381 --> 00:34:54.667] LWAXANA: William,
+[00:34:54.827 --> 00:34:55.627] LWAXANA: I am a grown woman.
+[00:34:55.627 --> 00:34:56.987] LWAXANA: I can make my own decisions.
+[00:34:57.227 --> 00:34:58.907] TROI: Mother, we can't just leave you here.
+[00:34:59.307 --> 00:35:00.107] LWAXANA: Yes, you can,
+[00:35:00.347 --> 00:35:01.867] LWAXANA: and before he changes his mind.
+[00:35:03.467 --> 00:35:06.027] LWAXANA: Please, Little One, do this for me.
+[00:35:07.227 --> 00:35:08.027] LWAXANA: Just this once.
+[00:35:16.747 --> 00:35:17.627] LWAXANA: Do we have an agreement?
+[00:35:24.827 --> 00:35:25.547] TOG: I give you my word.
+[00:35:26.747 --> 00:35:26.747] TOG: I
+[00:35:28.587 --> 00:35:30.747] TOG: will release your daughter and the Commander.
+[00:35:31.547 --> 00:35:33.947] FERENGI: DaiMon. A Federation ship approaching at high warp.
+[00:35:34.907 --> 00:35:36.027] FAREK: The Enterprise has found us
+[00:35:36.347 --> 00:35:37.307] TOG: Slow to impulse.
+[00:35:37.627 --> 00:35:38.347] TOG: Raise shields.
+[00:35:40.667 --> 00:35:44.587] TOG: Inform the Enterprise that two of our guests are ready to return.
+[00:35:44.987 --> 00:35:47.467] TOG: The other will be staying with us, at her own request.
+[00:35:47.787 --> 00:35:50.027] FAREK: I must protest, DaiMon.
+[00:35:50.187 --> 00:35:51.547] TOG: Lwaxana has given her word.
+[00:36:01.867 --> 00:36:03.627] LWAXANA: Oo-mox is only the beginning.
+[00:36:03.777 --> 00:36:04.377] PICARD: Are
+[00:36:26.280 --> 00:36:26.840] PICARD: you both all right?
+[00:36:27.160 --> 00:36:28.200] RIKER: None the worse for wear.
+[00:36:28.520 --> 00:36:30.520] TROI: My mother bought our freedom, Captain.
+[00:36:30.600 --> 00:36:32.280] TROI: She doesn't want to stay with Tog.
+[00:36:35.000 --> 00:36:35.560] PICARD: Hail the Krayton.
+[00:36:37.080 --> 00:36:37.800] WORF: Frequencies open.
+[00:36:38.840 --> 00:36:40.120] WORF: DaiMon Tog responding.
+[00:36:41.000 --> 00:36:41.400] PICARD: On screen.
+[00:36:42.360 --> 00:36:43.080] TOG: Captain Picard,
+[00:36:44.680 --> 00:36:46.120] TOG: so good of you to meet us.
+[00:36:47.080 --> 00:36:49.960] TOG: We were on our way to Betazed to return our guests.
+[00:36:50.680 --> 00:36:51.880] PICARD: Of course you were, DaiMon.
+[00:36:52.600 --> 00:36:54.360] PICARD: But you're still holding Lwaxana Troi.
+[00:36:57.160 --> 00:37:00.200] LWAXANA: When will you get it through your thick head that it's over between us, Jean-Luc?
+[00:37:03.880 --> 00:37:05.160] TROI: I think I know what she's doing.
+[00:37:06.040 --> 00:37:07.880] TROI: You have to fight to get her back, Captain.
+[00:37:14.760 --> 00:37:15.160] WORF: Open.
+[00:37:18.120 --> 00:37:18.600] PICARD: Er,
+[00:37:18.760 --> 00:37:18.760] PICARD: er.
+[00:37:19.320 --> 00:37:20.920] PICARD: It's not over between us, Lwaxana.
+[00:37:23.080 --> 00:37:24.280] PICARD: You're mine and
+[00:37:24.280 --> 00:37:25.880] PICARD: I will not let you go.
+[00:37:26.040 --> 00:37:28.600] PICARD: I insist you return to my side immediately.
+[00:37:29.000 --> 00:37:30.520] LWAXANA: You mean, you still care?
+[00:37:34.520 --> 00:37:35.000] PICARD: My love
+[00:37:36.240 --> 00:37:42.000] PICARD: is a fever, longing still for that which longer nurseth the disease.
+[00:37:42.880 --> 00:37:43.600] LWAXANA: Tell me more.
+[00:37:45.040 --> 00:37:52.160] PICARD: In faith, I do not love thee with mine eyes, for they in thee a thousand errors see.
+[00:37:52.320 --> 00:37:56.800] PICARD: But 'tis my heart that loves what they despise,
+[00:37:56.880 --> 00:38:00.240] PICARD: who in despite of view are please'd to dote.
+[00:38:00.320 --> 00:38:02.720] PICARD: Shall I compare the to a summer's day?
+[00:38:03.440 --> 00:38:05.600] PICARD: Thou art more lovely and more temperate.
+[00:38:05.840 --> 00:38:09.040] TOG: You didn't tell me that you and Captain Picard were
+[00:38:09.040 --> 00:38:11.920] LWAXANA: You said you didn't want to hear about my other romances.
+[00:38:11.920 --> 00:38:16.960] LWAXANA: I have a new love, Jean-Luc. And you can't keep killing all my lovers.
+[00:38:16.960 --> 00:38:18.400] LWAXANA: That simply has to stop.
+[00:38:19.200 --> 00:38:19.520] TOG: Killing?
+[00:38:20.000 --> 00:38:20.960] LWAXANA: Oh, he's insanely jealous.
+[00:38:21.360 --> 00:38:26.960] PICARD: Listen, Tog, I must possesses Lwaxana. And if that means destroying your ship in the process, so be it.
+[00:38:27.280 --> 00:38:30.560] TOG: Captain, I had no idea Lwaxana was
+[00:38:30.640 --> 00:38:32.400] LWAXANA: Don't let him threaten you.
+[00:38:32.400 --> 00:38:33.520] LWAXANA: You can defeat him.
+[00:38:34.160 --> 00:38:37.600] LWAXANA: The only way you'll ever get me back is over Tog's dead body!
+[00:38:38.080 --> 00:38:40.080] PICARD: That can be arranged. Mister Worf,
+[00:38:41.040 --> 00:38:42.960] PICARD: arm phaser banks and photon torpedoes.
+[00:38:43.120 --> 00:38:48.160] PICARD: If Lwaxana Troi is not in my arms in ten seconds, throw everything you've got at the Krayton.
+[00:38:49.040 --> 00:38:50.960] TOG: But you will destroy Lwaxana!
+[00:38:51.120 --> 00:38:56.160] PICARD: When I have plucked the rose, I cannot give it vital growth again.
+[00:38:56.160 --> 00:38:58.000] PICARD: It needs must wither.
+[00:38:58.720 --> 00:39:00.480] PICARD: Nine, eight.
+[00:39:01.520 --> 00:39:06.800] PICARD: 'Tis better to have loved and lost than never to have loved at all.
+[00:39:06.960 --> 00:39:08.640] PICARD: Seven, six
+[00:39:08.640 --> 00:39:09.520] TOG: No, wait.
+[00:39:09.874 --> 00:39:10.754] PICARD: Five, four
+[00:39:10.754 --> 00:39:13.394] TOG: Beam her to their Bridge, now!
+[00:39:13.794 --> 00:39:14.194] PICARD: Two,
+[00:39:22.834 --> 00:39:24.834] PICARD: one
+[00:39:24.834 --> 00:39:26.674] LWAXANA: You wonderfully jealous fool, you.
+[00:39:28.434 --> 00:39:32.914] TOG: Captain, I trust there will be no further action taken against us?
+[00:39:33.394 --> 00:39:36.994] PICARD: Such as my reporting this incident to your superiors who may question your competency as DaiMon?
+[00:39:37.314 --> 00:39:38.114] PICARD: I will think about it.
+[00:39:38.354 --> 00:39:38.754] PICARD: Screen off.
+[00:39:42.034 --> 00:39:42.594] LWAXANA: Thank you, Jean-Luc.
+[00:39:43.314 --> 00:39:44.194] LWAXANA: You were most convincing.
+[00:39:45.554 --> 00:39:47.154] LWAXANA: You certainly convinced me.
+[00:39:47.794 --> 00:39:49.074] PICARD: I am truly grateful, Mrs.
+[00:39:49.074 --> 00:39:51.314] PICARD: Troi, that you risked your life to save my people.
+[00:39:52.194 --> 00:39:53.154] PICARD: I'll have you home within a few hours.
+[00:39:53.154 --> 00:39:54.034] LWAXANA: Oh, no, no, no, no,
+[00:39:54.034 --> 00:39:55.314] LWAXANA: that won't be necessary.
+[00:39:56.274 --> 00:39:58.354] LWAXANA: I'd just love to hear more of your poetry.
+[00:39:58.914 --> 00:40:00.674] PICARD: Perhaps another time.
+[00:40:03.234 --> 00:40:03.554] UNKNOWN: Please,
+[00:40:05.154 --> 00:40:07.154] UNKNOWN: Mr.
+[00:40:07.154 --> 00:40:07.154] UNKNOWN: Crusher.
+[00:40:07.714 --> 00:40:08.754] UNKNOWN: Set course for Beta Z.
+[00:40:10.434 --> 00:40:10.994] UNKNOWN: Warp nine.
+[00:40:19.954 --> 00:40:20.274] UNKNOWN: Come.
+[00:40:20.274 --> 00:40:20.834] WESLEY: You
+[00:40:24.194 --> 00:40:24.994] WESLEY: asked to see me, Captain?
+[00:40:25.314 --> 00:40:27.234] PICARD: I've been in touch with Admiral Hahn at Starfleet Academy.
+[00:40:27.314 --> 00:40:31.714] PICARD: The Admiral regrets your missing the oral examination but hopes that you'll reapply next year.
+[00:40:32.274 --> 00:40:32.994] WESLEY: I understand, sir,
+[00:40:34.674 --> 00:40:35.394] WESLEY: and I do intend to reapply.
+[00:40:37.594 --> 00:40:39.514] PICARD: In the interim, the Academy's loss is our gain.
+[00:40:39.514 --> 00:40:42.954] PICARD: The Enterprise will continue to benefit from your talents for another year.
+[00:40:43.674 --> 00:40:44.074] WESLEY: Thank you, sir.
+[00:40:49.434 --> 00:40:49.834] WESLEY: Is that all?
+[00:40:52.394 --> 00:40:52.634] PICARD: No.
+[00:40:54.474 --> 00:40:55.514] WESLEY: Is there something wrong, Captain?
+[00:40:56.474 --> 00:40:57.434] PICARD: I'm just thinking that
+[00:40:59.594 --> 00:41:00.634] PICARD: I'm saying goodbye to you
+[00:41:02.314 --> 00:41:03.194] PICARD: as you are today.
+[00:41:04.794 --> 00:41:06.714] WESLEY: But I thought you said I wasn't going to be able to go?
+[00:41:07.034 --> 00:41:08.554] PICARD: The Academy must make you wait,
+[00:41:08.554 --> 00:41:09.114] PICARD: that's true.
+[00:41:09.994 --> 00:41:18.554] PICARD: But, when I review your service to this ship, your crewmates, I cannot in all conscience make you wait for the Academy.
+[00:41:19.754 --> 00:41:20.314] PICARD: You see, Wesley,
+[00:41:22.554 --> 00:41:25.754] PICARD: in my eyes you're an acting ensign in title only.
+[00:41:28.634 --> 00:41:35.914] PICARD: I hereby grant you field promotion to full Ensign, with all the commensurate responsibilities and privileges of that rank.
+[00:41:37.754 --> 00:41:38.474] PICARD: Congratulations.
+[00:41:41.914 --> 00:41:42.234] PICARD: You're dismissed.
+[00:41:42.234 --> 00:41:42.394] WORF: Lwaxana
+[00:41:42.394 --> 00:41:42.554] WORF: Troi
+[00:41:53.354 --> 00:41:57.034] WORF: has beamed down to Betazed, Captain.
+[00:41:57.034 --> 00:41:57.954] PICARD: Notify Starfleet
+[00:41:58.214 --> 00:42:02.954] PICARD: we are en route to the Xanthras system for our rendezvous with the Zapata.
+[00:42:03.700 --> 00:42:04.100] WORF: Aye, sir.
+[00:42:22.740 --> 00:42:24.340] PICARD: Ensign Crusher, take us out of orbit and
+[00:42:25.380 --> 00:42:28.580] PICARD: set course for Xanthras Three, warp factor six.
+[00:42:28.980 --> 00:42:29.300] WESLEY: Aye, sir.
+[00:42:31.140 --> 00:42:31.700] WESLEY: Course is set.
+[00:42:34.820 --> 00:42:35.140] PICARD: Engage.

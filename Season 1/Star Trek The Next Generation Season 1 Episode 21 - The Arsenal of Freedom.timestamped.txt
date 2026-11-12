@@ -1,0 +1,870 @@
+[00:00:03.600 --> 00:00:06.400] LOG: Captain's log, stardate 41798.2.
+[00:00:07.200 --> 00:00:17.520] LOG: We have been ordered by Starfleet to proceed to the Lorenze Cluster and investigate the disappearance of a light cruiser, USS Drake, which was in that system trying to unravel a mystery of its own
+[00:00:18.400 --> 00:00:25.040] LOG: which began when recent long range probes indicated that all intelligent life on the planet Minos has disappeared.
+[00:00:28.400 --> 00:00:28.800] PICARD: Number One?
+[00:00:29.680 --> 00:00:31.120] RIKER: No help from their communications log.
+[00:00:31.360 --> 00:00:33.920] RIKER: The Drake reported arriving at Minos and then wasn't heard from again.
+[00:00:34.640 --> 00:00:35.120] PICARD: Mister Data?
+[00:00:35.920 --> 00:00:39.920] DATA: The citizens of Minos gained fame during the Ersalrope wars as arms merchants.
+[00:00:40.240 --> 00:00:42.960] DATA: They manufactured sophisticated and highly advanced weaponry.
+[00:00:43.360 --> 00:00:44.480] LAFORGE: Yeah? For which side?
+[00:00:45.600 --> 00:00:45.840] DATA: Both.
+[00:00:47.680 --> 00:00:49.200] LAFORGE: We are approaching the planet Minos, sir.
+[00:00:50.400 --> 00:00:51.520] PICARD: Standard orbit, Mister La Forge.
+[00:00:51.600 --> 00:00:52.800] LAFORGE: Aye, sir. Standard orbit.
+[00:00:54.640 --> 00:00:55.600] RIKER: Whatever happened to the Drake,
+[00:00:55.920 --> 00:00:56.560] RIKER: happened quickly,
+[00:00:56.880 --> 00:00:58.800] RIKER: otherwise a man like Rice would have reported again.
+[00:00:59.360 --> 00:01:00.080] PICARD: You know Captain Rice?
+[00:01:00.640 --> 00:01:01.600] RIKER: We were at the Academy together.
+[00:01:02.000 --> 00:01:02.400] PICARD: Tell me about him.
+[00:01:03.200 --> 00:01:03.440] RIKER: Able.
+[00:01:03.680 --> 00:01:04.080] RIKER: A good officer.
+[00:01:04.880 --> 00:01:06.400] TROI: How would he react under stress?
+[00:01:07.200 --> 00:01:11.520] RIKER: Paul Rice is confident to the point of arrogance, he but carries it well because he's usually right.
+[00:01:11.680 --> 00:01:12.480] RIKER: He's a risk taker.
+[00:01:12.800 --> 00:01:13.040] PICARD: Really?
+[00:01:13.600 --> 00:01:14.560] RIKER: I'll give you an example.
+[00:01:15.120 --> 00:01:19.520] RIKER: One of the final tests in advance navigation at the Academy provides the student with three options.
+[00:01:19.680 --> 00:01:22.560] RIKER: Rice was given this test, rejected their options and offered one of his own.
+[00:01:24.080 --> 00:01:25.120] PICARD: That's taking a risk.
+[00:01:25.680 --> 00:01:26.320] RIKER: And it paid off.
+[00:01:26.320 --> 00:01:29.120] RIKER: He received the top grade and now that same test has four options.
+[00:01:29.840 --> 00:01:32.800] TROI: In a difficult situation a man like that would act aggressively.
+[00:01:33.120 --> 00:01:33.440] RIKER: Agreed.
+[00:01:34.240 --> 00:01:34.560] WORF: Commander,
+[00:01:35.067 --> 00:01:36.027] WORF: weren't you offered the Drake?
+[00:01:37.067 --> 00:01:37.547] RIKER: Yes.
+[00:01:38.027 --> 00:01:40.027] TASHA: You gave up your own command to take this assignment?
+[00:01:41.067 --> 00:01:44.027] RIKER: At the time I thought it would be more advantageous for me to do a tour on the Enterprise.
+[00:01:44.827 --> 00:01:47.547] DATA: Captain, readings correspond with the findings of the probe.
+[00:01:47.707 --> 00:01:49.467] DATA: No signs of intelligent life forms.
+[00:01:49.787 --> 00:01:51.387] DATA: Vegetation and animal life only.
+[00:01:52.587 --> 00:01:53.947] TROI: What happened to all the people?
+[00:01:54.827 --> 00:01:55.499] WORF: War?
+[00:01:55.499 --> 00:01:56.171] DATA: Disease?
+[00:01:56.171 --> 00:01:58.187] LAFORGE: A dissatisfied customer?
+[00:01:59.227 --> 00:02:04.347] TASHA: In any war, natural disaster, even the most virulent plague, there are always survivors.
+[00:02:05.787 --> 00:02:06.907] DATA: Captain, we are being hailed.
+[00:02:07.787 --> 00:02:09.627] RIKER: How can that be from a planet with no people?
+[00:02:10.587 --> 00:02:12.827] PICARD: Your sensors indicated no intelligent life forms?
+[00:02:13.147 --> 00:02:13.707] DATA: Correct, sir.
+[00:02:14.267 --> 00:02:17.227] DATA: Something has scanned our language banks and is hailing us.
+[00:02:19.067 --> 00:02:19.547] PICARD: On main viewer.
+[00:02:21.947 --> 00:02:26.427] SALESMAN: Whoever you are, wherever you're from, greetings.
+[00:02:27.067 --> 00:02:29.467] SALESMAN: Welcome to Minos, the arsenal of freedom.
+[00:02:30.267 --> 00:02:31.974] PICARD: I am Captain Jean-Luc Picard of the USS
+[00:02:31.974 --> 00:02:32.187] SALESMAN: If
+[00:02:32.187 --> 00:02:34.507] SALESMAN: you need a little something special,
+[00:02:35.067 --> 00:02:37.867] SALESMAN: be it for one target or multiple targets,
+[00:02:38.107 --> 00:02:38.587] SALESMAN: we got it.
+[00:02:38.987 --> 00:02:46.267] SALESMAN: You'll see it here on Minos, where we live by the motto 'peace through superior firepower'.
+[00:02:46.267 --> 00:02:47.867] PICARD: To whom am I speaking?
+[00:02:47.867 --> 00:02:50.507] SALESMAN: To be totally armed is to be totally secure.
+[00:02:51.147 --> 00:02:55.547] SALESMAN: Remember, the early bird that hesitates gets wormed.
+[00:02:56.267 --> 00:02:57.467] DATA: It is a recorded message, sir.
+[00:02:57.867 --> 00:03:00.587] SALESMAN: Minos, the arsenal of freedom.
+[00:03:00.907 --> 00:03:03.387] SALESMAN: Perfection in highly advanced weaponry.
+[00:03:03.867 --> 00:03:04.187] SALESMAN: Versatility.
+[00:03:04.187 --> 00:03:05.787] PICARD: We must have triggered something
+[00:03:05.787 --> 00:03:09.067] PICARD: left over from the Erselrope wars when the arms business was booming.
+[00:03:10.191 --> 00:03:13.711] SALESMAN: So lock on to my signal and beam on down,
+[00:03:13.711 --> 00:03:16.111] SALESMAN: because we don't just provide weapons
+[00:03:16.271 --> 00:03:16.831] PICARD: Shut that off.
+[00:03:16.831 --> 00:03:18.831] SALESMAN: We provide complete weapons systems.
+[00:03:18.981 --> 00:03:19.581] LAFORGE: It's
+[00:03:21.071 --> 00:03:22.591] LAFORGE: a heck of a sales pitch.
+[00:03:23.311 --> 00:03:28.191] PICARD: If an automated message system is still functioning, there could be other systems on that planet that are still operational.
+[00:03:28.431 --> 00:03:29.231] TASHA: Weapons systems?
+[00:03:29.231 --> 00:03:29.471] PICARD: Possibly.
+[00:03:29.711 --> 00:03:31.071] RIKER: We're going to have to go down there to find it.
+[00:03:31.231 --> 00:03:32.351] PICARD: Number One, prepare am away team.
+[00:03:32.671 --> 00:03:33.391] RIKER: Lieutenant Yar.
+[00:03:33.631 --> 00:03:33.871] RIKER: Data.
+[00:03:34.431 --> 00:03:34.831] TASHA: Commander,
+[00:03:35.551 --> 00:03:36.911] TASHA: I recommend a minimum complement.
+[00:03:36.991 --> 00:03:38.111] RIKER: Oh? I would have thought otherwise.
+[00:03:38.671 --> 00:03:44.511] TASHA: We'll keep the first landing party small and mobile, until I'm confident that whatever killed the inhabitants of this planet isn't still down there.
+[00:04:10.111 --> 00:04:12.111] RIKER: Okay.
+[00:04:12.191 --> 00:04:14.511] PICARD: Space, the final frontier.
+[00:04:16.431 --> 00:04:19.311] PICARD: These are the voyagers of the starship Enterprise.
+[00:04:20.431 --> 00:04:24.191] PICARD: Its continuing mission to explore strange new worlds, to
+[00:04:26.031 --> 00:04:28.671] PICARD: seek out new life and new civilizations,
+[00:04:30.351 --> 00:04:33.231] PICARD: to boldly go where no one has gone before.
+[00:04:50.000 --> 00:05:07.000] [music]
+[00:05:08.000 --> 00:05:17.000] [music]
+[00:05:34.016 --> 00:05:35.296] UNKNOWN: Captain's log, supplemental.
+[00:05:36.016 --> 00:05:40.816] UNKNOWN: I've ordered an away team to beam down to Minos to investigate the disappearance of the Drake.
+[00:05:41.696 --> 00:05:49.136] UNKNOWN: Although there are no signs of intelligent life coming from this heavily forested planet, I'm far from certain that it is devoid of danger.
+[00:06:01.456 --> 00:06:01.856] RIKER: Spooky.
+[00:06:03.616 --> 00:06:03.920] RIKER: Riker.
+[00:06:03.920 --> 00:06:05.136] PICARD: This is the Bridge.
+[00:06:06.416 --> 00:06:08.496] RIKER: We'll start a pattern search from this point.
+[00:06:09.216 --> 00:06:10.256] PICARD: Keep this channel open.
+[00:06:10.616 --> 00:06:11.869] RIKER: Aye, sir.
+[00:06:11.869 --> 00:06:12.496] DATA: Commander,
+[00:06:13.216 --> 00:06:14.587] DATA: our communications are being monitored.
+[00:06:14.587 --> 00:06:15.136] RIKER: By whom?
+[00:06:16.096 --> 00:06:17.616] DATA: Since there is no intelligent life,
+[00:06:18.494 --> 00:06:20.494] DATA: the question is by what?
+[00:06:20.494 --> 00:06:20.894] RIKER: Captain?
+[00:06:21.614 --> 00:06:22.734] PICARD: Yes, we heard that, Number One.
+[00:06:23.454 --> 00:06:24.734] PICARD: We'll try and track it down from here.
+[00:06:50.654 --> 00:06:52.654] TASHA: Tritanium. It's been melted.
+[00:06:53.054 --> 00:06:53.694] RIKER: What could do that?
+[00:06:54.014 --> 00:06:54.494] TASHA: I don't know.
+[00:06:55.054 --> 00:06:56.814] TASHA: Whatever it was, it's beyond our technology.
+[00:06:57.214 --> 00:06:57.694] DATA: Over here.
+[00:07:03.054 --> 00:07:03.294] TASHA: Wow.
+[00:07:06.414 --> 00:07:07.614] RIKER: We've never even seen anything like this.
+[00:07:07.614 --> 00:07:08.574] TASHA: It's undamaged.
+[00:07:09.534 --> 00:07:12.174] RIKER: Maybe a demonstration model for some potential buyer.
+[00:07:12.814 --> 00:07:13.134] TASHA: Maybe.
+[00:07:14.254 --> 00:07:14.974] TASHA: Let's spread out a little.
+[00:07:19.774 --> 00:07:20.574] T'SU: Commander Riker,
+[00:07:20.974 --> 00:07:21.854] T'SU: this is Ensign T'Su.
+[00:07:21.854 --> 00:07:25.054] T'SU: I'm monitoring a slight energy buildup near your position.
+[00:07:25.774 --> 00:07:27.534] T'SU: I am not able to pinpoint the source.
+[00:07:28.094 --> 00:07:28.974] RIKER: Give me a direction.
+[00:07:30.014 --> 00:07:32.174] T'SU: East of your position, ten metres.
+[00:07:32.814 --> 00:07:33.934] T'SU: I will continue monitoring.
+[00:07:37.454 --> 00:07:38.734] RIKER: I can't see anything through here.
+[00:07:38.734 --> 00:07:39.614] RIKER: The underbrush is too thick.
+[00:07:46.094 --> 00:07:46.334] RICE: Hello.
+[00:07:47.265 --> 00:07:47.825] RICE: Commander Riker.
+[00:07:49.905 --> 00:07:50.465] RIKER: Rice!
+[00:07:52.705 --> 00:07:53.585] RIKER: Where did you come from?
+[00:07:55.105 --> 00:07:55.665] RICE: I was over there.
+[00:07:56.705 --> 00:07:57.745] RIKER: We were worried about you.
+[00:07:57.745 --> 00:07:58.785] RIKER: I should have known you'd pop up.
+[00:07:59.425 --> 00:08:00.385] RICE: How are you, Commander Riker?
+[00:08:00.625 --> 00:08:00.865] RIKER: Me?
+[00:08:00.865 --> 00:08:01.505] RIKER: Forget about me.
+[00:08:01.505 --> 00:08:01.985] RIKER: How are you?
+[00:08:01.985 --> 00:08:02.465] RIKER: No word,
+[00:08:02.545 --> 00:08:03.105] RIKER: no message,
+[00:08:03.105 --> 00:08:03.505] RIKER: nothing.
+[00:08:04.945 --> 00:08:05.505] RICE: How many are with you?
+[00:08:06.225 --> 00:08:06.945] RIKER: There are two others.
+[00:08:06.945 --> 00:08:07.505] RIKER: Where's the Drake?
+[00:08:07.505 --> 00:08:08.225] RIKER: Where's your crew?
+[00:08:09.105 --> 00:08:09.505] PICARD: Number One,
+[00:08:10.065 --> 00:08:10.465] PICARD: a word.
+[00:08:12.385 --> 00:08:14.545] PICARD: We have some information you should be aware of.
+[00:08:16.145 --> 00:08:16.625] PICARD: Ensign T'Su? T'SU:
+[00:08:17.505 --> 00:08:22.385] PICARD: Sensors indicate low level energy readings, but the only life signs are the away team.
+[00:08:22.865 --> 00:08:23.825] PICARD: You copy, Number One?
+[00:08:25.665 --> 00:08:26.225] RIKER: Understood.
+[00:08:30.705 --> 00:08:31.025] RIKER: You
+[00:08:33.825 --> 00:08:34.945] RIKER: look strange, Paul.
+[00:08:37.105 --> 00:08:38.305] RICE: I was injured getting here.
+[00:08:38.455 --> 00:08:39.055] RIKER: Do
+[00:08:40.625 --> 00:08:41.505] RIKER: you need medical help?
+[00:08:42.465 --> 00:08:42.625] RICE: No.
+[00:08:44.465 --> 00:08:45.345] RICE: What's your purpose here?
+[00:08:47.185 --> 00:08:48.625] RIKER: Commander Data, Lieutenant Yar.
+[00:08:48.945 --> 00:08:49.345] DATA: Sir,
+[00:08:50.065 --> 00:08:51.185] DATA: other than ourselves,
+[00:08:52.225 --> 00:08:53.745] DATA: I am picking up no life signs here.
+[00:08:54.465 --> 00:08:54.785] RIKER: I know.
+[00:08:55.905 --> 00:08:56.945] RICE: Riker, you didn't answer me.
+[00:08:58.465 --> 00:08:59.185] RICE: Who sent you here to look for me?
+[00:09:00.145 --> 00:09:00.545] RIKER: Your mother.
+[00:09:01.505 --> 00:09:02.305] RIKER: She's worried about you.
+[00:09:05.025 --> 00:09:06.065] RICE: Tell me about your ship, Riker.
+[00:09:07.105 --> 00:09:07.985] RICE: It's the Enterprise, isn't it?
+[00:09:09.185 --> 00:09:09.505] RIKER: No.
+[00:09:09.505 --> 00:09:11.425] RIKER: The name of my ship is the Lollipop.
+[00:09:13.425 --> 00:09:14.625] RICE: I have no knowledge of that ship.
+[00:09:15.265 --> 00:09:16.145] RIKER: It's just been commissioned.
+[00:09:16.145 --> 00:09:16.705] RIKER: It's a good ship.
+[00:09:18.385 --> 00:09:19.425] RICE: Refresh me, would you, Riker?
+[00:09:20.145 --> 00:09:20.785] RICE: What's its size,
+[00:09:21.025 --> 00:09:21.505] RICE: it's complement?
+[00:09:22.459 --> 00:09:23.339] RIKER: Who is here with you?
+[00:09:24.939 --> 00:09:26.139] RICE: What's the armament on the Lollipop?
+[00:09:26.779 --> 00:09:30.219] RIKER: Paul, I will only answer your questions if you answer mine.
+[00:09:31.019 --> 00:09:32.699] RIKER: Why do you want to know so much about my ship?
+[00:09:33.019 --> 00:09:34.299] RICE: We're friends, aren't we?
+[00:09:35.579 --> 00:09:36.379] RIKER: Old friends.
+[00:09:38.379 --> 00:09:39.579] RICE: Our top speed is warp three.
+[00:09:39.659 --> 00:09:40.059] RICE: What's yours?
+[00:09:41.659 --> 00:09:41.979] RIKER: Is?
+[00:09:43.579 --> 00:09:45.019] RIKER: Then the Drake has not been destroyed.
+[00:09:46.059 --> 00:09:46.459] RICE: The Drake?
+[00:09:47.339 --> 00:09:47.979] RIKER: Yes, your ship.
+[00:09:49.739 --> 00:09:50.779] RICE: Of course, my ship is the Drake.
+[00:09:51.099 --> 00:09:51.579] RIKER: Where is it?
+[00:09:52.859 --> 00:09:53.179] RICE: Classified.
+[00:09:53.499 --> 00:09:54.219] RIKER: Classified?
+[00:09:55.099 --> 00:09:57.099] RICE: Please, it's important.
+[00:09:57.099 --> 00:09:58.299] RICE: Our survival depends on knowing.
+[00:09:59.019 --> 00:10:00.139] RICE: What's the armament on your ship?
+[00:10:01.179 --> 00:10:01.499] RIKER: Ten.
+[00:10:02.299 --> 00:10:02.539] RICE: Ten?
+[00:10:02.859 --> 00:10:03.579] RICE: I don't understand.
+[00:10:03.579 --> 00:10:03.899] RICE: Ten what?
+[00:10:05.259 --> 00:10:05.979] RIKER: Six.
+[00:10:07.419 --> 00:10:09.099] RICE: Commander Riker, your answers make no sense.
+[00:10:09.659 --> 00:10:11.499] RIKER: You haven't used my first name once, Paul.
+[00:10:12.139 --> 00:10:13.099] RIKER: You remember it, don't you?
+[00:10:15.579 --> 00:10:16.299] RIKER: You don't, do you?
+[00:10:17.339 --> 00:10:18.379] RIKER: Because you don't exist.
+[00:10:18.779 --> 00:10:19.259] RIKER: You're a fake.
+[00:10:20.379 --> 00:10:21.579] RIKER: You're an image of the original, aren't you?
+[00:10:21.659 --> 00:10:22.299] RIKER: Answer me!
+[00:10:22.459 --> 00:10:22.459] PICARD: Report,
+[00:10:25.339 --> 00:10:25.339] PICARD: Number
+[00:10:26.939 --> 00:10:26.939] PICARD: One.
+[00:10:32.059 --> 00:10:35.819] RIKER: The image of Rice has been replaced by something which is hovering several metres away.
+[00:10:37.019 --> 00:10:38.459] PICARD: Number One, get your team back up here.
+[00:10:39.819 --> 00:10:40.539] RIKER: Prepare to beam up.
+[00:10:41.979 --> 00:10:42.699] TASHA: Commander!
+[00:10:48.619 --> 00:10:51.339] PICARD: What's happened, Number One?
+[00:10:51.339 --> 00:10:51.579] PICARD: Report.
+[00:10:54.093 --> 00:10:54.573] PICARD: Report!
+[00:10:54.573 --> 00:10:55.053] PICARD: Report!
+[00:10:55.773 --> 00:10:56.813] TASHA: He can't answer you, Captain.
+[00:10:56.973 --> 00:10:59.613] DATA: Commander Riker just has been encased in some kind of energy field.
+[00:11:01.533 --> 00:11:02.093] PICARD: Is he alive?
+[00:11:04.813 --> 00:11:05.293] DATA: Unknown.
+[00:11:10.813 --> 00:11:11.933] LOG: Captain's log, supplemental.
+[00:11:12.573 --> 00:11:18.733] LOG: Some kind of weapon, which for a time took the form of Captain Paul Rice, has enveloped Commander Riker.
+[00:11:20.493 --> 00:11:21.373] PICARD: Transporter room three,
+[00:11:21.533 --> 00:11:22.973] PICARD: have you been able to lock on to the away team?
+[00:11:23.533 --> 00:11:25.613] CHIEF: I am unable to lock on to Commander Riker, sir.
+[00:11:26.173 --> 00:11:27.533] PICARD: Ensign T'Su, situation report.
+[00:11:27.933 --> 00:11:29.373] T'SU: Previous energy readings are gone.
+[00:11:30.093 --> 00:11:32.573] PICARD: Data, have you been able to assess Commander Riker's condition?
+[00:11:33.133 --> 00:11:35.053] DATA: He appears to be in some kind of stasis.
+[00:11:36.653 --> 00:11:37.773] PICARD: Theorise, Mister Data.
+[00:11:38.653 --> 00:11:40.413] PICARD: What would be the purpose of such an encasement?
+[00:11:40.973 --> 00:11:43.613] DATA: Typically, the purpose of such an enclosure is for storage.
+[00:11:44.493 --> 00:11:45.853] PICARD: Which would suggest what?
+[00:11:46.653 --> 00:11:49.533] TASHA: That sooner or later someone or something will be along to collect him.
+[00:11:50.573 --> 00:11:51.053] PICARD: Stand by.
+[00:11:51.053 --> 00:11:51.773] PICARD: I'm coming down.
+[00:11:52.013 --> 00:11:52.573] TROI: You, sir?
+[00:11:52.573 --> 00:11:53.693] PICARD: Yes. Doctor Crusher,
+[00:11:53.853 --> 00:11:54.493] PICARD: this is the Captain.
+[00:11:54.493 --> 00:11:56.413] PICARD: Meet me in Transporter room three. Mister La Forge,
+[00:11:57.133 --> 00:11:57.933] PICARD: you have command of the Bridge.
+[00:11:58.253 --> 00:11:58.573] LAFORGE: Aye, sir.
+[00:11:58.973 --> 00:12:01.853] PICARD: And whatever happens down there, your prime responsibility is to the ship.
+[00:12:02.093 --> 00:12:02.733] LAFORGE: Understood, sir.
+[00:12:03.133 --> 00:12:06.093] TROI: Captain, I take great exception to your decision to beam down.
+[00:12:06.253 --> 00:12:06.653] PICARD: Noted.
+[00:12:15.613 --> 00:12:16.653] CRUSHER: Is it just Riker?
+[00:12:16.893 --> 00:12:17.373] PICARD: Yes.
+[00:12:17.453 --> 00:12:19.853] PICARD: Apparently he's confined in some sort of force field.
+[00:12:20.813 --> 00:12:21.453] PICARD: Energise.
+[00:12:31.531 --> 00:12:32.171] PICARD: Any changes?
+[00:12:32.411 --> 00:12:33.611] TASHA: Data's figured out what it is.
+[00:12:33.931 --> 00:12:35.131] CRUSHER: Are you getting any life signs?
+[00:12:35.451 --> 00:12:36.171] DATA: He is alive.
+[00:12:37.371 --> 00:12:42.331] DATA: What appeared in the form of Captain Rice is an intelligence gathering device used during the Ersalrope Wars.
+[00:12:42.411 --> 00:12:43.451] TASHA: Probably developed here.
+[00:12:43.851 --> 00:12:46.331] DATA: It projects an image of someone the subject will trust,
+[00:12:46.811 --> 00:12:48.491] DATA: gets as much information as possible.
+[00:12:48.731 --> 00:12:52.971] TASHA: If it's found out, it encases the subject to await a more detailed interrogation later.
+[00:12:53.611 --> 00:12:54.011] CRUSHER: Clever.
+[00:12:54.811 --> 00:12:55.451] PICARD: Can you remove it?
+[00:12:55.851 --> 00:12:58.571] DATA: Possibly, but I will need to know the exact frequency
+[00:12:59.051 --> 00:13:01.211] DATA: and I cannot determine the risk to Commander Riker.
+[00:13:02.731 --> 00:13:03.611] PICARD: We have little choice.
+[00:13:03.931 --> 00:13:05.771] PICARD: Whatever has him is interrupting the transporter beam.
+[00:13:05.851 --> 00:13:06.171] PICARD: Remove it.
+[00:13:09.451 --> 00:13:10.571] DATA: This will take some time, sir.
+[00:13:12.011 --> 00:13:14.011] WORF: I
+[00:13:20.731 --> 00:13:22.091] WORF: am picking up energy readings.
+[00:13:23.611 --> 00:13:23.931] LAFORGE: Captain,
+[00:13:24.331 --> 00:13:25.291] LAFORGE: Lieutenant La Forge here.
+[00:13:25.451 --> 00:13:27.691] LAFORGE: Sensors indicate energy readings in your area.
+[00:14:19.137 --> 00:14:19.457] PICARD: Doctor, over here!
+[00:14:19.607 --> 00:14:20.207] PICARD: Doctor.
+[00:14:31.137 --> 00:14:34.577] TASHA: This one is different.
+[00:14:38.817 --> 00:14:39.697] TASHA: It's anticipating.
+[00:14:40.017 --> 00:14:40.817] TASHA: Data, I need you.
+[00:14:43.297 --> 00:14:44.337] TASHA: Set your phaser on kill.
+[00:14:44.817 --> 00:14:44.977] TASHA: I'll lead left,
+[00:14:46.897 --> 00:14:48.497] TASHA: you
+[00:14:50.257 --> 00:14:52.257] TASHA: get it.
+[00:14:53.457 --> 00:14:53.457] TASHA: Captain?
+[00:14:57.857 --> 00:14:58.177] TASHA: Doctor Crusher?
+[00:14:58.337 --> 00:14:58.577] DATA: Captain Picard?
+[00:15:00.497 --> 00:15:01.297] DATA: I have a malfunction.
+[00:15:01.537 --> 00:15:02.737] TASHA: Enterprise, this is Lieutenant Yar.
+[00:15:03.857 --> 00:15:04.497] TASHA: Mine's out too.
+[00:15:04.817 --> 00:15:07.537] DATA: The close pass by the weapons must have disrupted our communicators.
+[00:15:07.537 --> 00:15:08.177] TASHA: Keep on working.
+[00:15:08.177 --> 00:15:09.617] TASHA: I'll look for the Captain and Doctor Crusher.
+[00:15:14.417 --> 00:15:15.377] CRUSHER: Ow! My arm.
+[00:15:16.017 --> 00:15:16.257] PICARD: How
+[00:15:19.137 --> 00:15:20.497] PICARD: bad is it?
+[00:15:22.017 --> 00:15:22.097] CRUSHER: Oh,
+[00:15:23.630 --> 00:15:24.350] CRUSHER: it's bad.
+[00:15:28.590 --> 00:15:30.430] PICARD: Come on. Alright,
+[00:15:33.070 --> 00:15:33.310] PICARD: don't worry,
+[00:15:34.030 --> 00:15:35.390] PICARD: we'll get you out of here. Enterprise,
+[00:15:35.550 --> 00:15:36.190] PICARD: this is the Captain.
+[00:15:36.190 --> 00:15:36.750] PICARD: Two to beam up.
+[00:15:38.270 --> 00:15:38.830] PICARD: Enterprise?
+[00:15:41.470 --> 00:15:42.030] PICARD: Enterprise, come in.
+[00:15:44.110 --> 00:15:44.990] PICARD: Data? Lieutenant Yar?
+[00:15:46.510 --> 00:15:46.830] CRUSHER: What's wrong?
+[00:15:46.830 --> 00:15:47.790] CRUSHER: Why aren't they working?
+[00:15:48.110 --> 00:15:50.110] PICARD: I don't know. But don't worry.
+[00:15:50.110 --> 00:15:56.990] PICARD: As soon as they realise our communicators are not working, the sensors will find us and Geordi will beam us up.
+[00:15:58.670 --> 00:16:00.510] PICARD: Now, just you hold on.
+[00:16:01.310 --> 00:16:04.110] PICARD: I'm sorry about this.
+[00:16:07.230 --> 00:16:07.230] PICARD: Hold
+[00:16:11.070 --> 00:16:11.230] PICARD: on, it
+[00:16:13.070 --> 00:16:13.470] PICARD: won't be long.
+[00:16:19.710 --> 00:16:21.310] CRUSHER: I must keep conscious.
+[00:16:25.950 --> 00:16:26.030] TASHA: Data,
+[00:16:28.430 --> 00:16:29.150] TASHA: I can't find them.
+[00:16:30.590 --> 00:16:31.230] DATA: Step back, please.
+[00:16:31.870 --> 00:16:32.750] DATA: I believe I have found it.
+[00:16:32.750 --> 00:16:32.750] RIKER: Data.
+[00:16:45.310 --> 00:16:46.990] DATA: All vital signs returning to normal.
+[00:16:47.470 --> 00:16:47.710] TASHA: Good.
+[00:16:48.270 --> 00:16:49.550] TASHA: Now Geordi can get us out of here.
+[00:16:50.270 --> 00:16:50.590] TASHA: Come on.
+[00:16:51.671 --> 00:16:53.351] TASHA: The Captain and Doctor Crusher can't be far away.
+[00:16:55.591 --> 00:16:57.591] T'SU: Sir, I'm reading life forms on the planet.
+[00:16:58.391 --> 00:16:59.991] T'SU: All five members of the away team.
+[00:17:00.791 --> 00:17:01.031] LAFORGE: Good.
+[00:17:01.511 --> 00:17:02.871] LAFORGE: They must have freed Commander Riker.
+[00:17:03.511 --> 00:17:04.311] LAFORGE: Transporter Room,
+[00:17:04.711 --> 00:17:06.631] LAFORGE: get a lock on the away team and beam them up.
+[00:17:07.591 --> 00:17:08.471] WORF: Shields just came on.
+[00:17:08.871 --> 00:17:09.751] WORF: Deflectors also up.
+[00:17:10.311 --> 00:17:12.391] WORF: I'm picking up an object off the port bow.
+[00:17:13.351 --> 00:17:13.911] WORF: It's firing!
+[00:17:14.061 --> 00:17:14.661] LAFORGE: Red
+[00:17:18.471 --> 00:17:18.871] LAFORGE: Alert!
+[00:17:19.111 --> 00:17:19.991] LAFORGE: Battle stations!
+[00:17:23.111 --> 00:17:26.551] LAFORGE: We can't the away team beam up with our shields in place.
+[00:17:27.431 --> 00:17:27.991] WORF: Phasers ready.
+[00:17:27.991 --> 00:17:29.431] WORF: Photon torpedoes standing by.
+[00:17:29.831 --> 00:17:30.551] WORF: Locking on target.
+[00:17:31.751 --> 00:17:32.151] WORF: Correction.
+[00:17:33.351 --> 00:17:34.311] WORF: Target has disappeared.
+[00:17:34.391 --> 00:17:35.191] LAFORGE: Give me a full scan.
+[00:17:35.271 --> 00:17:35.751] WORF: Scanning.
+[00:17:37.271 --> 00:17:37.831] WORF: No readings yet.
+[00:17:39.191 --> 00:17:39.351] WORF: Wait.
+[00:17:40.631 --> 00:17:41.511] WORF: Something dead astern.
+[00:17:41.911 --> 00:17:43.271] LAFORGE: Emergency power to shields!
+[00:17:43.271 --> 00:17:44.071] WORF: Object is firing.
+[00:17:45.351 --> 00:17:45.991] LAFORGE: Return fire!
+[00:17:46.871 --> 00:17:47.351] WORF: No use.
+[00:17:47.751 --> 00:17:48.391] WORF: It's gone again.
+[00:17:49.591 --> 00:17:50.471] WORF: SOLIS: Aft shields weakened.
+[00:17:50.951 --> 00:17:53.431] WORF: Whatever they're using, our shields can't stand up to it much longer.
+[00:17:54.631 --> 00:17:55.911] LOGAN: This is Chief Engineer Logan.
+[00:17:55.911 --> 00:17:56.791] LOGAN: Are we breaking orbit?
+[00:17:57.191 --> 00:17:58.151] LOGAN: I need to know now.
+[00:18:04.391 --> 00:18:05.511] LOG: Ship's log, supplemental.
+[00:18:05.991 --> 00:18:07.271] LOG: Lieutenant La Forge in command.
+[00:18:07.991 --> 00:18:11.431] LOG: I am unable to beam up the away team due to an unseen assailant attacking the ship.
+[00:18:12.151 --> 00:18:16.951] LOG: To make matters worse, Chief Engineer Logan is on his way to the Bridge, and he's not paying a courtesy call.
+[00:18:19.875 --> 00:18:20.915] LOGAN: Why are we still in orbit?
+[00:18:21.155 --> 00:18:21.955] LOGAN: We're taking a beating.
+[00:18:22.195 --> 00:18:23.795] LAFORGE: We've got to hold out as long as we can.
+[00:18:23.795 --> 00:18:28.835] LAFORGE: Now, if we can disable our attacker, if only for a few seconds, we can drop our shields and beam the away team back aboard.
+[00:18:29.315 --> 00:18:32.275] LOGAN: If we follow that plan, we'll lose the Enterprise.
+[00:18:32.675 --> 00:18:36.355] LOGAN: In view of the present crisis, I believe you should relinquish command to me.
+[00:18:37.075 --> 00:18:37.462] LAFORGE: No.
+[00:18:37.462 --> 00:18:38.622] LOGAN: I outrank you.
+[00:18:38.622 --> 00:18:39.395] LAFORGE: Mister Logan,
+[00:18:40.595 --> 00:18:41.155] LAFORGE: I'm in command.
+[00:18:41.955 --> 00:18:44.835] LOGAN: The Captain did not anticipate the Enterprise would come under attack.
+[00:18:45.555 --> 00:18:48.035] LOGAN: If he had, would he have left the Bridge to you?
+[00:18:48.115 --> 00:18:49.875] LAFORGE: If he had, he wouldn't have left the ship.
+[00:18:50.435 --> 00:18:51.795] T'SU: Picking up an object to starboard, sir,
+[00:18:52.035 --> 00:18:52.835] T'SU: heading toward us.
+[00:18:53.075 --> 00:18:55.315] LAFORGE: Lock phasers on that thing and fire the moment it's in range.
+[00:18:55.715 --> 00:18:56.195] WORF: Locking in.
+[00:18:57.875 --> 00:18:58.755] WORF: The object has vanished.
+[00:19:06.755 --> 00:19:07.635] WORF: Phaser lock lost.
+[00:19:08.355 --> 00:19:09.315] T'SU: Starboard shields weakened.
+[00:19:09.955 --> 00:19:10.755] WORF: It's cloaked itself.
+[00:19:11.155 --> 00:19:12.675] LOGAN: You can't fight this thing and win.
+[00:19:13.155 --> 00:19:14.275] LOGAN: We've got to break orbit now.
+[00:19:15.555 --> 00:19:15.795] LAFORGE: Worf,
+[00:19:17.395 --> 00:19:19.075] LAFORGE: analyse its firing pattern.
+[00:19:19.795 --> 00:19:21.315] LAFORGE: Maybe we can anticipate its location.
+[00:19:21.955 --> 00:19:22.275] WORF: Aye.
+[00:19:23.475 --> 00:19:23.875] WORF: Solis,
+[00:19:24.595 --> 00:19:27.075] WORF: correlate the trajectory of the energy bolts with the attack path.
+[00:19:27.715 --> 00:19:30.355] WORF: I'll compute the optimum spread of phasers and photon torpedoes to hit it.
+[00:19:30.435 --> 00:19:30.675] LAFORGE: Right.
+[00:19:31.235 --> 00:19:32.195] LOGAN: Lieutenant La Forge.
+[00:19:34.275 --> 00:19:34.515] LOGAN: Geordi.
+[00:19:35.955 --> 00:19:38.115] LOGAN: I know you want to do what's best for the Enterprise.
+[00:19:38.435 --> 00:19:39.075] LOGAN: So do I.
+[00:19:40.035 --> 00:19:40.835] LOGAN: Now the best thing
+[00:19:40.835 --> 00:19:45.715] LAFORGE: The best thing, Mister Logan, is for this discussion to end and for you to return to your duties.
+[00:19:45.715 --> 00:19:49.155] LAFORGE: Now, I'm in charge until relieved by Commander Riker or Captain Picard.
+[00:19:49.200 --> 00:19:51.680] LOGAN: You're ignoring my greater rank and experience.
+[00:19:51.840 --> 00:19:52.240] LAFORGE: Not at all.
+[00:19:52.560 --> 00:19:53.760] LAFORGE: In fact, just to opposite.
+[00:19:53.920 --> 00:19:55.120] LAFORGE: I'm counting on it.
+[00:19:55.120 --> 00:19:59.760] LAFORGE: Now I need you to get back down to Engineering and get me every available scrap of emergency power you can.
+[00:20:00.160 --> 00:20:03.120] LAFORGE: The more power we can channel to the shields, the longer we'll be able to hold out.
+[00:20:10.080 --> 00:20:11.200] LAFORGE: Now, Mister Logan.
+[00:20:18.400 --> 00:20:20.240] LAFORGE: Worf, have you got a lock on it yet?
+[00:20:21.440 --> 00:20:22.640] WORF: It's impossible to be sure.
+[00:20:31.200 --> 00:20:34.720] TASHA: Maybe you should wait here while Data and I search for the Captain and Doctor Crusher.
+[00:20:34.720 --> 00:20:36.720] RIKER: No, I'm a little groggy, but I'll be all right.
+[00:20:37.920 --> 00:20:38.880] DATA: I am getting energy readings.
+[00:20:40.160 --> 00:20:40.160] DATA: Look out!
+[00:20:40.160 --> 00:20:40.160] TASHA: We'll
+[00:20:48.880 --> 00:20:51.760] TASHA: do it just like before.
+[00:20:52.160 --> 00:20:52.160] TASHA: It's
+[00:21:03.440 --> 00:21:04.400] TASHA: got a deflector shield.
+[00:21:04.800 --> 00:21:06.720] DATA: The product continues to upgrade and improve.
+[00:21:07.680 --> 00:21:09.840] TASHA: We'll concentrate our fire and try to collapse its shield.
+[00:21:10.560 --> 00:21:11.680] TASHA: Commander, we'll need you too.
+[00:21:11.680 --> 00:21:11.680] TASHA: Now!
+[00:21:29.590 --> 00:21:31.910] TASHA: You're right,
+[00:21:32.150 --> 00:21:33.030] TASHA: they keep getting better.
+[00:21:33.430 --> 00:21:37.190] DATA: The weapons are appearing at intervals of precisely twelve minutes.
+[00:21:37.430 --> 00:21:38.710] TASHA: Well this one took everything we had.
+[00:21:38.790 --> 00:21:40.070] TASHA: I don't know how we'll handle the next one.
+[00:21:40.470 --> 00:21:41.430] RIKER: We're not going to wait around.
+[00:21:41.910 --> 00:21:42.950] RIKER: Let's find the rest of our team.
+[00:21:51.270 --> 00:21:59.750] PICARD: We seem to be in some kind of underground structure, but I don't see any.
+[00:22:02.230 --> 00:22:04.310] PICARD: Hey, no, you don't.
+[00:22:04.790 --> 00:22:05.350] PICARD: No time to sleep.
+[00:22:06.550 --> 00:22:07.190] CRUSHER: I'm tired.
+[00:22:07.350 --> 00:22:08.630] PICARD: Come on, stay with me.
+[00:22:09.430 --> 00:22:10.470] PICARD: Come on now, stay awake.
+[00:22:10.630 --> 00:22:11.110] PICARD: That's an order.
+[00:22:11.990 --> 00:22:13.430] CRUSHER: I must have lost a lot of blood.
+[00:22:16.230 --> 00:22:17.030] PICARD: I've stopped the bleeding.
+[00:22:18.390 --> 00:22:20.230] CRUSHER: No, there's another wound.
+[00:22:21.110 --> 00:22:21.590] CRUSHER: My leg.
+[00:22:29.750 --> 00:22:31.030] PICARD: Not to worry,
+[00:22:31.990 --> 00:22:33.110] PICARD: Everything is going to be fine.
+[00:22:35.670 --> 00:22:37.910] PICARD: Now, this is going to hurt a bit.
+[00:22:39.190 --> 00:22:40.230] CRUSHER: I've heard that before.
+[00:22:41.110 --> 00:22:43.110] PICARD: Hey,
+[00:22:44.950 --> 00:22:44.950] PICARD: hey,
+[00:22:48.550 --> 00:22:50.150] PICARD: Doctor. Stay awake.
+[00:22:50.150 --> 00:22:50.390] PICARD: Come on.
+[00:22:52.307 --> 00:22:52.947] PICARD: There's a lot of blood.
+[00:22:53.107 --> 00:22:53.827] PICARD: What do I do next?
+[00:22:55.587 --> 00:22:55.907] PICARD: Doctor.
+[00:22:57.587 --> 00:22:59.267] CRUSHER: The wound needs a clotting agent.
+[00:23:00.787 --> 00:23:01.827] PICARD: I couldn't find your medical kit.
+[00:23:04.867 --> 00:23:05.507] CRUSHER: Those roots.
+[00:23:06.147 --> 00:23:06.627] CRUSHER: What are they?
+[00:23:07.267 --> 00:23:07.667] PICARD: Roots?
+[00:23:09.027 --> 00:23:09.507] PICARD: What, these?
+[00:23:12.307 --> 00:23:13.507] CRUSHER: Break off a piece and taste it.
+[00:23:13.747 --> 00:23:14.387] CRUSHER: Don't swallow it.
+[00:23:21.187 --> 00:23:21.427] PICARD: Very
+[00:23:23.187 --> 00:23:25.187] PICARD: bitter.
+[00:23:26.227 --> 00:23:27.347] CRUSHER: Apply some to your hand.
+[00:23:30.707 --> 00:23:31.907] CRUSHER: Is there a colour change?
+[00:23:32.067 --> 00:23:33.827] PICARD: It's turning yellowish.
+[00:23:34.307 --> 00:23:34.547] CRUSHER: Good.
+[00:23:34.627 --> 00:23:36.787] CRUSHER: Now, spread as much of it as you can onto the wound.
+[00:23:47.427 --> 00:23:48.227] PICARD: Hey, hey, Doctor.
+[00:23:48.627 --> 00:23:49.187] PICARD: Now, stay awake.
+[00:23:51.267 --> 00:23:51.907] PICARD: You've got to help me.
+[00:23:53.427 --> 00:23:54.227] PICARD: I need your help.
+[00:23:58.227 --> 00:23:58.467] PICARD: All right,
+[00:23:58.707 --> 00:23:59.027] PICARD: now listen.
+[00:24:00.227 --> 00:24:04.627] PICARD: Your patient has lost a great deal of blood from multiple lacerations.
+[00:24:06.707 --> 00:24:08.947] CRUSHER: The patient's going into shock.
+[00:24:09.667 --> 00:24:10.147] PICARD: So what do I do?
+[00:24:12.787 --> 00:24:16.067] CRUSHER: Elevate the legs and try to keep her warm.
+[00:24:19.045 --> 00:24:19.205] PICARD: Good.
+[00:24:20.165 --> 00:24:20.405] PICARD: All right.
+[00:24:22.965 --> 00:24:23.685] PICARD: Stay with me, Doctor.
+[00:24:26.725 --> 00:24:27.285] PICARD: Keep talking.
+[00:24:28.965 --> 00:24:30.965] CRUSHER: You
+[00:24:32.565 --> 00:24:36.405] CRUSHER: didn't happen to bring a blanket with you, did you?
+[00:24:37.365 --> 00:24:37.525] PICARD: No.
+[00:24:40.565 --> 00:24:41.525] PICARD: I'm going to look for a way out.
+[00:24:44.325 --> 00:24:46.005] PICARD: Now, you keep up your end.
+[00:24:47.765 --> 00:24:48.325] PICARD: Stay awake.
+[00:25:05.685 --> 00:25:06.165] LAFORGE: All right,
+[00:25:06.165 --> 00:25:10.645] LAFORGE: I know it's risky, but a shot in the dark is better than nothing.
+[00:25:12.005 --> 00:25:14.165] LAFORGE: Let's see if we can get lucky.
+[00:25:14.165 --> 00:25:17.045] T'SU: I can't seem to pin down the pattern.
+[00:25:21.125 --> 00:25:21.365] LAFORGE: There.
+[00:25:22.485 --> 00:25:22.965] T'SU: Sorry, sir,
+[00:25:22.965 --> 00:25:24.325] T'SU: I should have seen that.
+[00:25:24.325 --> 00:25:24.805] LAFORGE: That's all right,
+[00:25:25.045 --> 00:25:25.765] LAFORGE: you're doing fine.
+[00:25:25.925 --> 00:25:26.645] WORF: Programme laid in.
+[00:25:26.965 --> 00:25:28.405] WORF: Phasers and photon torpedoes ready.
+[00:25:30.085 --> 00:25:32.005] LAFORGE: Okay. Mister Solis,
+[00:25:32.725 --> 00:25:36.165] LAFORGE: bring her about to two three mark one eight five.
+[00:25:36.805 --> 00:25:37.285] SOLIS: Aye, sir.
+[00:25:39.125 --> 00:25:39.205] LAFORGE: Fire!
+[00:25:44.874 --> 00:25:44.954] LAFORGE: Now!
+[00:25:46.234 --> 00:25:47.434] WORF: Phasers and photons firing.
+[00:25:53.674 --> 00:25:54.314] WORF: We missed.
+[00:25:54.314 --> 00:25:56.634] T'SU: Number four shield buckling.
+[00:25:57.434 --> 00:25:59.994] T'SU: Number three shield nearing failure.
+[00:26:00.394 --> 00:26:01.674] LOGAN: Bridge, this is Engineering.
+[00:26:01.834 --> 00:26:03.754] LOGAN: I can't hold this power level much longer.
+[00:26:03.914 --> 00:26:06.074] LOGAN: You've got to do something.
+[00:26:06.074 --> 00:26:07.114] T'SU: Backup systems are overloaded.
+[00:26:07.834 --> 00:26:08.794] T'SU: Backup systems failing.
+[00:26:09.754 --> 00:26:10.554] LOGAN: La Forge,
+[00:26:11.434 --> 00:26:13.034] LOGAN: this is Logan.
+[00:26:13.034 --> 00:26:16.074] LOGAN: Tell me something.
+[00:26:16.954 --> 00:26:18.954] LAFORGE: Mister
+[00:26:18.954 --> 00:26:20.714] LAFORGE: Logan, report to the Bridge.
+[00:26:22.314 --> 00:26:23.434] LOGAN: On
+[00:26:26.234 --> 00:26:28.234] LOGAN: my way.
+[00:26:40.314 --> 00:26:41.354] WORF: Deflectors are breaking down.
+[00:26:41.594 --> 00:26:43.034] WORF: We have less than one minute of reserve.
+[00:26:44.314 --> 00:26:45.114] LAFORGE: We are getting out of here.
+[00:26:46.874 --> 00:26:51.274] LAFORGE: Lieutenant Solis, set course three one five mark zero, zero seven.
+[00:26:52.074 --> 00:26:52.554] SOLIS: Course set.
+[00:26:53.354 --> 00:26:54.634] LOGAN: You are leaving them on the planet.
+[00:26:54.874 --> 00:26:55.674] LAFORGE: Speed warp five.
+[00:26:56.074 --> 00:26:56.714] SOLIS: Warp five.
+[00:26:57.194 --> 00:26:57.514] SOLIS: Aye.
+[00:27:08.394 --> 00:27:08.954] LAFORGE: Engage.
+[00:27:19.758 --> 00:27:27.038] LAFORGE: Hold course and speed for twenty eight seconds, then come to a full stop. Mister Logan,
+[00:27:28.718 --> 00:27:30.638] LAFORGE: had we stayed, we would have been destroyed.
+[00:27:30.638 --> 00:27:32.158] LAFORGE: Now, there are over a thousand people on this ship.
+[00:27:32.318 --> 00:27:33.598] LAFORGE: I have a responsibility to them.
+[00:27:33.598 --> 00:27:37.118] LOGAN: What about your responsibility to Captain Picard and the members of the away team?
+[00:27:37.198 --> 00:27:38.638] LAFORGE: I have a responsibility to them as well.
+[00:27:41.278 --> 00:27:41.838] LAFORGE: Mister Logan,
+[00:27:42.878 --> 00:27:44.238] LAFORGE: you are going to take command
+[00:27:46.078 --> 00:27:47.038] LAFORGE: of the Saucer Section.
+[00:27:47.918 --> 00:27:49.838] LAFORGE: Backup crew, report to the main Bridge.
+[00:27:50.638 --> 00:27:51.438] LOGAN: You're going to separate?
+[00:27:51.438 --> 00:27:55.198] LAFORGE: Yes, and I want you to take the saucer section and proceed immediately to Starbase one zero three.
+[00:27:55.598 --> 00:27:59.358] LOGAN: You can't fight what you can't see, and you still won't be able to see that thing.
+[00:27:59.678 --> 00:28:00.558] LAFORGE: Maybe we won't have to.
+[00:28:01.038 --> 00:28:01.598] LOGAN: Risky.
+[00:28:02.078 --> 00:28:04.478] LAFORGE: Yes. That's why we're going to separate.
+[00:28:05.278 --> 00:28:08.798] LAFORGE: Worf, Solis, T'Su. Report to the Battle Bridge.
+[00:28:08.798 --> 00:28:09.678] LAFORGE: I'll join you in a moment.
+[00:28:09.998 --> 00:28:11.518] WORF: Ensign, secure connector levels.
+[00:28:11.758 --> 00:28:12.078] ENSIGN: Aye, sir.
+[00:28:14.878 --> 00:28:14.878] LAFORGE: Come
+[00:28:16.798 --> 00:28:17.558] LAFORGE: in.
+[00:28:17.558 --> 00:28:18.318] TROI: Lieutenant,
+[00:28:27.918 --> 00:28:29.918] TROI: I
+[00:28:39.518 --> 00:28:42.158] TROI: need to speak to you.
+[00:28:43.768 --> 00:28:45.928] LAFORGE: Counsellor, we're a few minutes away from separating the battle section.
+[00:28:45.928 --> 00:28:47.048] LAFORGE: I don't have a lot of time.
+[00:28:47.608 --> 00:28:53.048] TROI: I know, but as Counsellor I have a duty to evaluate the emotional fitness of the crew.
+[00:28:53.848 --> 00:28:55.048] LAFORGE: And you sense I'm nervous.
+[00:28:55.198 --> 00:28:55.798] LAFORGE: Well,
+[00:28:58.008 --> 00:28:59.768] LAFORGE: you're right. Counsellor,
+[00:28:59.848 --> 00:29:01.848] LAFORGE: deep down I'm shaking.
+[00:29:02.968 --> 00:29:07.208] LAFORGE: I'm about to take this ship into battle, and there's a good chance she'll be blasted out of the sky.
+[00:29:07.688 --> 00:29:08.728] LAFORGE: I'm taking a huge risk here,
+[00:29:10.328 --> 00:29:11.368] LAFORGE: and there are a lot of lives at stake.
+[00:29:11.368 --> 00:29:13.528] LAFORGE: So, yeah, I'm nervous.
+[00:29:14.488 --> 00:29:15.368] LAFORGE: Did you expect otherwise?
+[00:29:15.528 --> 00:29:16.088] TROI: Not at all.
+[00:29:16.648 --> 00:29:19.928] TROI: You're under tremendous pressure, more than you've ever experienced.
+[00:29:20.088 --> 00:29:21.048] LAFORGE: You think I'm about to crack?
+[00:29:21.768 --> 00:29:25.448] TROI: On the contrary. You should be proud of the way you're handling command.
+[00:29:26.328 --> 00:29:30.568] TROI: You've kept a cool head, taken charge, and made some very difficult decisions.
+[00:29:31.848 --> 00:29:32.888] LAFORGE: Then what did you want to see me about?
+[00:29:33.208 --> 00:29:35.848] SOLIS: Lieutenant La Forge. Battle bridge is manned and ready.
+[00:29:36.408 --> 00:29:39.128] SOLIS: However, deflectors have not yet returned to full efficiency.
+[00:29:40.088 --> 00:29:41.528] LAFORGE: Let's get them there, Mister Solis.
+[00:29:41.848 --> 00:29:42.328] SOLIS: Aye, sir.
+[00:29:43.368 --> 00:29:44.008] LAFORGE: I'll join you shortly.
+[00:29:44.008 --> 00:29:44.728] LAFORGE: La Forge out.
+[00:29:46.408 --> 00:29:48.888] TROI: Did you hear the uneasiness in his voice?
+[00:29:49.528 --> 00:29:50.808] LAFORGE: Solis is doing a fine job.
+[00:29:51.208 --> 00:29:53.288] TROI: Yes, but he isn't handling the stress as well as you are.
+[00:29:54.088 --> 00:29:55.928] TROI: Both he and Ensign T'Su are very young.
+[00:29:55.928 --> 00:29:56.248] LAFORGE: No, wait.
+[00:29:56.248 --> 00:29:57.448] LAFORGE: They're good officers.
+[00:29:57.528 --> 00:29:59.688] TROI: Yes, but they lack battle experience.
+[00:30:00.488 --> 00:30:03.608] TROI: They're worried about making mistakes, and they need some encouragement.
+[00:30:05.688 --> 00:30:06.168] LAFORGE: What do I do?
+[00:30:07.688 --> 00:30:10.888] TROI: Just remember it's you they draw strength from.
+[00:30:11.928 --> 00:30:13.928] TROI: They look to you for guidance and for leadership.
+[00:30:17.547 --> 00:30:17.867] TROI: Help them.
+[00:30:20.187 --> 00:30:21.307] TROI: Show confidence in them.
+[00:30:23.947 --> 00:30:25.867] LAFORGE: Like Captain Picard showed confidence in me.
+[00:30:27.067 --> 00:30:27.307] LAFORGE: Right.
+[00:30:29.227 --> 00:30:29.627] LAFORGE: I understand.
+[00:30:30.827 --> 00:30:31.387] LAFORGE: Thanks, Counsellor.
+[00:30:45.307 --> 00:30:47.227] LAFORGE: Prepare to initiate separation sequence.
+[00:30:47.867 --> 00:30:48.827] T'SU: All decks report ready.
+[00:30:49.547 --> 00:30:50.187] LAFORGE: On my mark.
+[00:30:58.747 --> 00:30:59.147] LAFORGE: Now.
+[00:31:12.907 --> 00:31:14.987] COMPUTER: Main latch bags to zero.
+[00:31:15.707 --> 00:31:18.427] COMPUTER: Main latch retraction one to one eight,
+[00:31:19.067 --> 00:31:19.547] COMPUTER: initiate.
+[00:31:20.267 --> 00:31:22.107] COMPUTER: Static charge compensate.
+[00:31:29.387 --> 00:31:30.347] WORF: Separation complete.
+[00:31:31.067 --> 00:31:34.587] LAFORGE: Lieutenant Solis, lay in a reciprocal course for Minos, warp five.
+[00:31:35.707 --> 00:31:36.267] SOLIS: Course set.
+[00:31:37.147 --> 00:31:37.787] LAFORGE: On my mark.
+[00:31:39.147 --> 00:31:40.027] LAFORGE: Engage.
+[00:31:53.866 --> 00:31:55.866] PICARD: We seem to be pretty well sealed in, Doctor.
+[00:31:56.746 --> 00:31:57.546] CRUSHER: No exits?
+[00:31:57.866 --> 00:31:58.586] PICARD: None that I can see.
+[00:32:00.426 --> 00:32:02.266] CRUSHER: If you find one, go.
+[00:32:04.106 --> 00:32:05.226] PICARD: Tired of my company already?
+[00:32:06.906 --> 00:32:07.386] PICARD: Beverly.
+[00:32:09.226 --> 00:32:09.546] PICARD: Beverly!
+[00:32:11.146 --> 00:32:11.786] CRUSHER: I'm tired.
+[00:32:13.146 --> 00:32:13.946] CRUSHER: I need to sleep.
+[00:32:14.026 --> 00:32:14.986] CRUSHER: Woke up too early.
+[00:32:15.546 --> 00:32:16.026] PICARD: Talk to me,
+[00:32:16.106 --> 00:32:16.666] PICARD: stay awake.
+[00:32:16.666 --> 00:32:17.146] PICARD: Tell me something.
+[00:32:18.826 --> 00:32:21.466] PICARD: Tell me about those roots.
+[00:32:21.466 --> 00:32:22.986] PICARD: How did you know their medicinal values?
+[00:32:23.866 --> 00:32:24.826] CRUSHER: My grandmother.
+[00:32:25.626 --> 00:32:26.746] PICARD: Your grandmother was a doctor?
+[00:32:28.346 --> 00:32:28.826] CRUSHER: No.
+[00:32:29.466 --> 00:32:30.666] PICARD: Oh. She was a botanist, then?
+[00:32:32.026 --> 00:32:32.506] CRUSHER: No.
+[00:32:33.946 --> 00:32:36.106] CRUSHER: She helped to colonise Arveda Three.
+[00:32:36.266 --> 00:32:38.586] PICARD: Arveda Three?
+[00:32:38.736 --> 00:32:39.336] PICARD: That's
+[00:32:40.186 --> 00:32:40.986] PICARD: such a tragedy.
+[00:32:40.986 --> 00:32:42.266] PICARD: Did she survive?
+[00:32:44.106 --> 00:32:44.666] CRUSHER: Yes.
+[00:32:46.106 --> 00:32:50.586] CRUSHER: Once the medical supplies had run out, she had to use what was at hand.
+[00:32:51.466 --> 00:32:56.586] CRUSHER: So she learned all about roots and herbs, and then taught it to me.
+[00:32:58.026 --> 00:32:59.146] PICARD: You were part of that colony.
+[00:32:59.146 --> 00:32:59.946] PICARD: I didn't know that.
+[00:33:01.386 --> 00:33:03.546] PICARD: But then there must be a lot of things about you that I don't know.
+[00:33:05.786 --> 00:33:06.586] CRUSHER: Quite a few.
+[00:33:07.800 --> 00:33:07.960] PICARD: What?
+[00:33:08.920 --> 00:33:09.560] PICARD: Now just a minute.
+[00:33:09.560 --> 00:33:10.520] PICARD: Here's something odd.
+[00:33:12.040 --> 00:33:12.760] PICARD: It's glowing.
+[00:33:14.360 --> 00:33:14.840] CRUSHER: What is it?
+[00:33:15.960 --> 00:33:16.520] PICARD: I don't know.
+[00:33:16.520 --> 00:33:18.360] PICARD: It's covered up.
+[00:33:18.600 --> 00:33:21.000] PICARD: I'm just clearing away the dirt.
+[00:33:23.080 --> 00:33:23.800] PICARD: It's a viewscreen.
+[00:33:26.280 --> 00:33:29.720] PICARD: It seems to still be operative.
+[00:33:32.840 --> 00:33:33.800] PICARD: It's a
+[00:33:45.640 --> 00:33:47.000] PICARD: tracking device of some kind.
+[00:33:48.120 --> 00:33:49.080] CRUSHER: Tracking what?
+[00:33:50.280 --> 00:33:51.640] PICARD: There are three moving indicators.
+[00:33:51.640 --> 00:33:52.760] PICARD: Possibly the away team.
+[00:33:59.960 --> 00:34:01.000] SALESMAN: Beautiful, isn't it?
+[00:34:01.080 --> 00:34:02.840] SALESMAN: It's the centrepiece of the whole unit.
+[00:34:03.720 --> 00:34:04.360] CRUSHER: Who's that?
+[00:34:04.360 --> 00:34:05.880] PICARD: A
+[00:34:07.640 --> 00:34:08.120] PICARD: projection.
+[00:34:09.240 --> 00:34:11.880] PICARD: It's the automated salesman who greeted us on the Enterprise.
+[00:34:13.240 --> 00:34:13.640] PICARD: What unit?
+[00:34:13.880 --> 00:34:15.880] SALESMAN: Why, the Echo Papa Six Oh Seven.
+[00:34:16.120 --> 00:34:17.560] SALESMAN: Our proudest achievement.
+[00:34:18.040 --> 00:34:20.600] SALESMAN: The ultimate in weapons system technology.
+[00:34:22.120 --> 00:34:23.640] PICARD: Is that what's behind the attack on my people?
+[00:34:24.760 --> 00:34:26.520] SALESMAN: Impressive demonstration, isn't it?
+[00:34:26.920 --> 00:34:27.560] PICARD: Demonstration?
+[00:34:28.200 --> 00:34:29.000] PICARD: It tried to kill us.
+[00:34:29.480 --> 00:34:31.880] SALESMAN: Versatile, powerful, and easy to use.
+[00:34:32.371 --> 00:34:33.971] SALESMAN: The Six Oh Seven does it all.
+[00:34:34.531 --> 00:34:41.651] SALESMAN: Its various modules can gather information, neutralise ground personnel, even destroy enemy space vessels.
+[00:34:44.131 --> 00:34:44.691] PICARD: The Enterprise.
+[00:34:46.291 --> 00:34:47.411] PICARD: Is one of those things after my ship?
+[00:34:47.971 --> 00:34:48.291] PICARD: Tell me.
+[00:34:48.611 --> 00:34:49.891] SALESMAN: Of course I can tell you.
+[00:34:50.531 --> 00:34:53.811] SALESMAN: I am programmed to answer any and all questions about the unit.
+[00:34:54.211 --> 00:34:57.331] SALESMAN: I can talk terms, arrange for delivery, whatever you need.
+[00:34:57.891 --> 00:35:01.011] CRUSHER: It doesn't understand anything other than what it's peddling.
+[00:35:01.411 --> 00:35:05.811] SALESMAN: The Six Oh Seven represents the state of the art in dynamic, adaptive design.
+[00:35:06.371 --> 00:35:09.331] SALESMAN: It learns from each encounter, and improves itself.
+[00:35:09.811 --> 00:35:10.451] PICARD: So what went wrong?
+[00:35:11.091 --> 00:35:11.891] PICARD: Where are it's creators?
+[00:35:12.131 --> 00:35:13.091] PICARD: Where are the people of Minos?
+[00:35:13.491 --> 00:35:16.051] SALESMAN: Once unleashed, the unit is invincible.
+[00:35:16.531 --> 00:35:18.291] SALESMAN: The perfect killing system.
+[00:35:20.211 --> 00:35:20.851] PICARD: Too perfect.
+[00:35:22.371 --> 00:35:24.531] PICARD: You poor fools, your own creation destroyed you.
+[00:35:28.371 --> 00:35:29.011] PICARD: What was that noise?
+[00:35:29.651 --> 00:35:35.491] SALESMAN: The unit has analysed its last attack and constructed a new, stronger, deadlier weapon.
+[00:35:36.051 --> 00:35:40.531] SALESMAN: In a moment, it will launch that weapon against the targets on the surface.
+[00:35:40.931 --> 00:35:41.331] PICARD: Abort it!
+[00:35:42.291 --> 00:35:43.491] SALESMAN: Why would I want to do that?
+[00:35:44.131 --> 00:35:47.411] SALESMAN: It can't demonstrate its abilities unless we let it leave the nest.
+[00:35:51.411 --> 00:35:52.211] DATA: They are down there, sir.
+[00:35:53.571 --> 00:35:54.451] RIKER: Let's clear some of that away.
+[00:35:54.771 --> 00:35:58.451] TASHA: If Data's calculations are correct, the next one should show itself in two minutes.
+[00:36:02.291 --> 00:36:02.611] RIKER: Captain!
+[00:36:03.052 --> 00:36:03.692] RIKER: Can you hear me?
+[00:36:03.852 --> 00:36:04.332] PICARD: Yes, we're here!
+[00:36:06.252 --> 00:36:06.892] RIKER: Are you all right?
+[00:36:08.812 --> 00:36:10.732] PICARD: Doctor Crusher is seriously hurt.
+[00:36:11.692 --> 00:36:13.132] PICARD: We can't contact the Enterprise.
+[00:36:13.132 --> 00:36:14.172] PICARD: The communicators are out.
+[00:36:14.572 --> 00:36:16.252] RIKER: Yes, our communicators are out too.
+[00:36:16.652 --> 00:36:21.452] PICARD: Those devices are part of a system located down here. Another one is about to be released.
+[00:36:21.452 --> 00:36:22.092] PICARD: Watch yourselves.
+[00:36:22.332 --> 00:36:23.052] TASHA: We know, Captain.
+[00:36:23.852 --> 00:36:25.932] RIKER: It's too far down there. There's nothing to hold on to.
+[00:36:25.932 --> 00:36:27.292] RIKER: No way to climb down.
+[00:36:27.452 --> 00:36:29.052] TASHA: I'm surprised either of them survived.
+[00:36:29.212 --> 00:36:30.092] DATA: I can do it, Commander.
+[00:36:30.412 --> 00:36:30.652] RIKER: How?
+[00:36:31.772 --> 00:36:32.092] DATA: Jump.
+[00:36:33.932 --> 00:36:35.052] RIKER: Data, it's over ten metres.
+[00:36:35.372 --> 00:36:36.732] DATA: Eleven point seven five, sir.
+[00:36:37.532 --> 00:36:40.652] TASHA: Data, you may be sturdy, but you're not indestructible.
+[00:36:41.532 --> 00:36:44.812] DATA: I believe I can safely traverse the distance.
+[00:36:45.852 --> 00:36:47.612] RIKER: Captain, Data's going down to join you down there.
+[00:36:51.372 --> 00:36:52.092] RIKER: Be my guest.
+[00:36:56.812 --> 00:36:58.812] PICARD: Data.
+[00:36:59.452 --> 00:37:00.332] DATA: At your service, Captain.
+[00:37:10.972 --> 00:37:12.492] TASHA: We'd better find a defensive position.
+[00:37:12.892 --> 00:37:13.772] TASHA: If Data's right
+[00:37:13.772 --> 00:37:14.652] RIKER: He usually is.
+[00:37:14.652 --> 00:37:18.252] TASHA: We're going to have company any minute now, and this time I don't know how we're going to stop it.
+[00:37:22.252 --> 00:37:23.452] LOG: Ship's log, supplemental.
+[00:37:23.772 --> 00:37:26.332] LOG: Lieutenant La Forge in command of the star drive section.
+[00:37:27.212 --> 00:37:30.972] LOG: After separating from the saucer, we have returned to Minos to rescue the away team.
+[00:37:31.852 --> 00:37:36.252] LOG: Unfortunately, I have only one option left, and it's a long shot.
+[00:37:37.952 --> 00:37:39.152] T'SU: Shields and deflectors are up.
+[00:37:39.872 --> 00:37:40.432] LAFORGE: Ensign T'Su,
+[00:37:40.672 --> 00:37:43.712] LAFORGE: when I order the shields down, you have one responsibility.
+[00:37:43.712 --> 00:37:44.672] LAFORGE: Locate the away team and
+[00:37:44.912 --> 00:37:45.632] LAFORGE: get them up here.
+[00:37:46.032 --> 00:37:47.312] LAFORGE: You may only have a few seconds.
+[00:37:47.632 --> 00:37:48.592] SOLIS: Approaching the planet, sir.
+[00:37:50.992 --> 00:37:52.032] LAFORGE: Ride's going to get a little bumpy.
+[00:37:52.192 --> 00:37:53.152] LAFORGE: Things are going to happen fast.
+[00:37:53.232 --> 00:37:56.112] LAFORGE: Just keep alert, stay calm.
+[00:37:57.232 --> 00:38:00.352] LAFORGE: Let's focus on what we're doing.
+[00:38:00.432 --> 00:38:01.312] LAFORGE: You know your jobs.
+[00:38:01.392 --> 00:38:02.112] LAFORGE: You've been trained,
+[00:38:02.192 --> 00:38:02.832] LAFORGE: you've been tested.
+[00:38:04.352 --> 00:38:05.952] LAFORGE: You've earned the right to sit in those chairs.
+[00:38:14.992 --> 00:38:15.712] PICARD: That sound again.
+[00:38:16.992 --> 00:38:18.352] DATA: Another weapon has been launched, sir.
+[00:38:18.672 --> 00:38:19.952] PICARD: We've got to find some way to stop this system.
+[00:38:20.112 --> 00:38:21.632] DATA: I would need to see the programme schematic.
+[00:38:21.712 --> 00:38:22.272] SALESMAN: You've got it.
+[00:38:25.312 --> 00:38:27.952] PICARD: Is it possible to re-adjust the targeting sequence?
+[00:38:28.512 --> 00:38:29.472] SALESMAN: Absolutely.
+[00:38:29.632 --> 00:38:31.152] SALESMAN: It wouldn't be much good without it.
+[00:38:31.472 --> 00:38:32.752] PICARD: Data, assign it a neutral target.
+[00:38:32.992 --> 00:38:34.192] DATA: The target must be specific, sir.
+[00:38:34.272 --> 00:38:34.752] PICARD: Itself, then. Itself
+[00:38:35.152 --> 00:38:36.272] PICARD: or it's own power source.
+[00:38:36.272 --> 00:38:39.312] DATA: The force of that explosion would destroy this cavern and everyone on the surface.
+[00:38:39.552 --> 00:38:40.192] SALESMAN: Watch now.
+[00:38:40.912 --> 00:38:43.792] SALESMAN: This is the fourth and final projectile.
+[00:38:44.512 --> 00:38:49.392] SALESMAN: The Echo Papa series Six Oh Seven is about to complete this phase of its mission.
+[00:38:50.672 --> 00:38:51.392] TASHA: We could split up.
+[00:38:51.712 --> 00:38:52.352] RIKER: What good would that do?
+[00:38:52.512 --> 00:38:53.952] TASHA: Confuse it, delay it. Something.
+[00:38:53.952 --> 00:38:54.592] RIKER: It would still get us. It
+[00:38:54.672 --> 00:38:55.632] RIKER: would just take a little longer.
+[00:38:55.632 --> 00:38:57.472] TASHA: It might give one of us long enough to get out of range.
+[00:38:58.032 --> 00:38:58.752] RIKER: Out of range?
+[00:39:00.352 --> 00:39:00.992] TASHA: Forget I said it.
+[00:39:01.232 --> 00:39:02.752] TASHA: These devices wiped out an entire
+[00:39:02.891 --> 00:39:03.211] TASHA: planet.
+[00:39:03.211 --> 00:39:04.331] TASHA: I don't think it has a range.
+[00:39:04.331 --> 00:39:05.531] RIKER: Then what does that leave us?
+[00:39:06.011 --> 00:39:08.011] RIKER: Right.
+[00:39:08.331 --> 00:39:08.731] RIKER: That's what I
+[00:39:10.251 --> 00:39:10.251] RIKER: thought.
+[00:39:10.571 --> 00:39:12.011] TASHA: On the other hand, we could look for deeper cover.
+[00:39:20.491 --> 00:39:21.371] RIKER: You got any ideas?
+[00:39:22.411 --> 00:39:22.731] TASHA: None.
+[00:39:26.651 --> 00:39:27.691] PICARD: Give me some options, Data, quickly.
+[00:39:28.251 --> 00:39:29.851] CRUSHER: Why don't you just shut it off?
+[00:39:31.691 --> 00:39:32.091] PICARD: Is that possible?
+[00:39:32.971 --> 00:39:33.451] CRUSHER: Why not?
+[00:39:34.091 --> 00:39:35.211] CRUSHER: It's a machine, isn't it?
+[00:39:36.811 --> 00:39:37.291] PICARD: Shut it off.
+[00:39:38.011 --> 00:39:38.651] SALESMAN: Why?
+[00:39:38.891 --> 00:39:41.291] SALESMAN: You haven't seen half of what this beauty can do.
+[00:39:41.531 --> 00:39:42.251] PICARD: We've seen enough.
+[00:39:44.411 --> 00:39:45.931] SALESMAN: Does that mean you're going to buy it?
+[00:39:46.091 --> 00:39:46.651] PICARD: Yes. Yes,
+[00:39:46.731 --> 00:39:47.291] PICARD: we've seen enough.
+[00:39:47.291 --> 00:39:47.851] PICARD: You've made a sale.
+[00:39:48.331 --> 00:39:49.291] SALESMAN: You won't be sorry.
+[00:39:49.531 --> 00:39:49.771] PICARD: Good.
+[00:39:50.251 --> 00:39:51.211] PICARD: Now end the demonstration.
+[00:39:51.931 --> 00:39:52.171] SALESMAN: Done.
+[00:39:58.011 --> 00:40:00.251] PICARD: Number One!
+[00:40:00.891 --> 00:40:01.451] RIKER: Right here.
+[00:40:04.011 --> 00:40:04.651] RIKER: That was close.
+[00:40:05.691 --> 00:40:06.731] PICARD: La Forge, everything's alright.
+[00:40:07.131 --> 00:40:07.851] PICARD: We've neutralised it.
+[00:40:08.001 --> 00:40:08.601] LAFORGE: It's
+[00:40:09.691 --> 00:40:10.811] LAFORGE: great to hear your voice, Captain.
+[00:40:11.291 --> 00:40:12.331] LAFORGE: We're a little busy right now.
+[00:40:12.331 --> 00:40:13.371] LAFORGE: I'll get right back to you.
+[00:40:13.611 --> 00:40:14.731] WORF: Phasers at full readiness.
+[00:40:14.731 --> 00:40:16.091] LAFORGE: Keep those shields at full power.
+[00:40:16.411 --> 00:40:17.131] LAFORGE: Ahead one quarter,
+[00:40:17.771 --> 00:40:19.771] LAFORGE: heading two five mark three zero zero.
+[00:40:19.931 --> 00:40:22.571] SOLIS: Sir, that heading will take us further into the planet's atmosphere.
+[00:40:22.651 --> 00:40:23.211] LAFORGE: That's correct.
+[00:40:23.211 --> 00:40:24.491] LAFORGE: We're going to lose some maneuverability,
+[00:40:24.491 --> 00:40:25.691] LAFORGE: so keep a firm hand on the helm.
+[00:40:25.851 --> 00:40:26.171] SOLIS: Aye, sir.
+[00:40:27.211 --> 00:40:29.531] WORF: You hope our attacker will follow us into the atmosphere.
+[00:40:29.611 --> 00:40:30.411] LAFORGE: I'm counting on it.
+[00:40:30.835 --> 00:40:33.315] LAFORGE: Lian, scan for any air disruption or vortex.
+[00:40:33.315 --> 00:40:35.395] LAFORGE: Cloak or no cloak, we'll spot it by its turbulence.
+[00:40:35.635 --> 00:40:35.875] LAFORGE: Worf,
+[00:40:36.275 --> 00:40:37.315] LAFORGE: how fast can you get a phaser lock?
+[00:40:37.635 --> 00:40:38.195] WORF: Fast.
+[00:40:38.515 --> 00:40:40.115] T'SU: Hull temperature one thousand degrees and rising.
+[00:40:40.195 --> 00:40:41.555] LAFORGE: Emergency power to deflectors.
+[00:40:41.635 --> 00:40:42.595] SOLIS: Velocity increasing.
+[00:40:42.595 --> 00:40:43.635] LAFORGE: Steady as she goes.
+[00:40:50.595 --> 00:40:52.035] T'SU: Hull temperature twenty five hundred degrees.
+[00:40:52.435 --> 00:40:53.715] WORF: Deflectors nearing overload.
+[00:40:55.635 --> 00:40:56.995] SOLIS: Sir, helm growing unresponsive.
+[00:40:57.155 --> 00:40:57.875] LAFORGE: Can you compensate?
+[00:40:57.875 --> 00:40:58.595] SOLIS: Yes, sir, I can.
+[00:40:58.835 --> 00:40:59.875] T'SU: Hull three thousand degrees.
+[00:41:00.435 --> 00:41:01.395] LAFORGE: Maintain heading.
+[00:41:01.715 --> 00:41:03.315] WORF: We're about to lose number four deflector.
+[00:41:05.315 --> 00:41:06.355] T'SU: Thirty three hundred degrees.
+[00:41:06.915 --> 00:41:08.355] WORF: Deflector four is now inoperative.
+[00:41:08.915 --> 00:41:09.715] T'SU: Turbulence to starboard!
+[00:41:12.995 --> 00:41:15.715] LAFORGE: There he is!
+[00:41:16.195 --> 00:41:16.915] T'SU: Scanners locked.
+[00:41:17.075 --> 00:41:17.635] WORF: Weapons locked.
+[00:41:17.875 --> 00:41:18.035] LAFORGE: Fire!
+[00:41:18.185 --> 00:41:19.185] WORF: Got him!
+[00:41:28.755 --> 00:41:29.955] LAFORGE: Shields down.
+[00:41:32.115 --> 00:41:33.315] T'SU: Locked onto away team.
+[00:41:33.715 --> 00:41:34.595] T'SU: Beaming them home now.
+[00:41:35.475 --> 00:41:37.315] LAFORGE: Come to four zero mark six five,
+[00:41:37.475 --> 00:41:38.435] LAFORGE: ahead one third,
+[00:41:39.315 --> 00:41:42.035] LAFORGE: and assume a standard orbit.
+[00:41:42.035 --> 00:41:42.835] SOLIS: Standard orbit.
+[00:41:43.075 --> 00:41:43.555] SOLIS: Aye, sir.
+[00:41:53.555 --> 00:41:56.195] LAFORGE: Relinquishing command, Captain.
+[00:41:56.275 --> 00:41:57.315] PICARD: As you were, Lieutenant.
+[00:41:57.875 --> 00:41:58.035] LAFORGE: Sir?
+[00:41:58.812 --> 00:41:58.972] PICARD: Mister
+[00:41:58.972 --> 00:42:00.812] PICARD: La Forge, when I left this ship, it was in one piece.
+[00:42:01.692 --> 00:42:03.852] PICARD: I would appreciate your returning it in the same condition.
+[00:42:05.452 --> 00:42:06.012] PICARD: Do you concur, Number One?
+[00:42:06.572 --> 00:42:07.292] RIKER: Absolutely, sir.
+[00:42:10.812 --> 00:42:11.772] LAFORGE: Lieutenant Solis,
+[00:42:12.492 --> 00:42:13.932] LAFORGE: plot a course to rendezvous with the saucer section.
+[00:42:13.932 --> 00:42:16.972] T'SU: Sickbay reports Doctor Crusher's going to be fine.
+[00:42:17.532 --> 00:42:18.812] SOLIS: Course plotted and laid
+[00:42:20.332 --> 00:42:22.332] SOLIS: in.
+[00:42:24.732 --> 00:42:25.532] LAFORGE: Engage.

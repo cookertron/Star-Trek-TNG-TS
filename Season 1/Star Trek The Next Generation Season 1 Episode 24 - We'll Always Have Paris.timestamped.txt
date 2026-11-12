@@ -1,0 +1,722 @@
+[00:00:02.400 --> 00:00:05.760] LOG: Captain's log, stardate 41697.9.
+[00:00:06.320 --> 00:00:09.280] LOG: We're en route to Sarona Eight for much needed shore leave.
+[00:00:09.840 --> 00:00:11.600] LOG: The entire crew is looking forward to the diversion.
+[00:00:12.400 --> 00:00:16.720] LOG: On a personal note, I have allowed myself the luxury of a head start.
+[00:00:22.160 --> 00:00:24.160] DEAN: I
+[00:00:27.600 --> 00:00:28.160] DEAN: took advantage.
+[00:00:28.720 --> 00:00:29.440] PICARD: No, no, Lieutenant,
+[00:00:29.440 --> 00:00:31.200] PICARD: the advantage was yours.
+[00:00:32.720 --> 00:00:33.200] PICARD: Come again.
+[00:00:37.600 --> 00:00:39.600] PICARD: En
+[00:01:03.680 --> 00:01:05.680] PICARD: garde.
+[00:01:12.640 --> 00:01:13.440] DEAN: Interesting move, sir, but
+[00:01:14.160 --> 00:01:15.120] DEAN: what technique was that?
+[00:01:15.600 --> 00:01:16.730] PICARD: The technique of a desperate man.
+[00:01:16.893 --> 00:01:17.711] DEAN: Interesting move, sir, but
+[00:01:17.874 --> 00:01:19.019] DEAN: what technique was that?
+[00:01:19.182 --> 00:01:24.160] PICARD: The technique of a desperate man.
+[00:01:26.809 --> 00:01:28.809] DEAN: Captain, what was that?
+[00:01:35.609 --> 00:01:36.249] PICARD: Picard to Bridge.
+[00:01:36.569 --> 00:01:36.989] RIKER: Captain?
+[00:01:36.989 --> 00:01:38.249] PICARD: Number One, did
+[00:01:38.969 --> 00:01:40.489] PICARD: something unusual just occur on the Bridge?
+[00:01:41.449 --> 00:01:41.769] RIKER: Yes, sir.
+[00:01:42.249 --> 00:01:45.289] RIKER: We experienced some kind of loop where everything repeats itself.
+[00:01:47.129 --> 00:01:47.529] PICARD: Here too.
+[00:01:48.809 --> 00:01:49.369] PICARD: I'm on my way.
+[00:01:58.569 --> 00:01:59.609] PICARD: Report, Mister Data.
+[00:02:00.489 --> 00:02:01.689] DATA: Sensors show nothing, sir,
+[00:02:02.009 --> 00:02:05.689] DATA: but it appears a moment in time repeated itself exactly for everyone.
+[00:02:05.849 --> 00:02:07.609] LAFORGE: Just like a feeling of deja vu.
+[00:02:07.769 --> 00:02:09.289] WORF: Reports from all decks coming in, sir.
+[00:02:09.849 --> 00:02:14.809] DATA: Computers were also affected, which would indicate the phenomenon was not an illusion but occurred in real time.
+[00:02:16.009 --> 00:02:16.409] PICARD: Number One,
+[00:02:16.889 --> 00:02:18.649] PICARD: find out if anything similar happened in this sector.
+[00:02:20.489 --> 00:02:24.329] WORF: Sir, I am receiving an emergency transmission from the Pegos Minor system.
+[00:02:24.969 --> 00:02:25.369] PICARD: Put it on.
+[00:02:26.889 --> 00:02:29.129] MANHEIM: Five four two point two.
+[00:02:29.929 --> 00:02:33.289] MANHEIM: I repeat. This is Doctor Paul Manheim.
+[00:02:34.169 --> 00:02:36.489] MANHEIM: We are in need of help. Urgent.
+[00:02:36.889 --> 00:02:39.289] MANHEIM: All ships, please respond.
+[00:02:40.169 --> 00:02:50.729] MANHEIM: I repeat. Coordinates are six six seven two eight point nine
+[00:02:50.889 --> 00:02:52.329] WORF: It is an automated signal, sir.
+[00:02:52.746 --> 00:02:54.186] WORF: I am unable to establish contact.
+[00:02:58.106 --> 00:02:58.266] PICARD: Shut it off.
+[00:02:58.266 --> 00:03:00.026] PICARD: Mister La Forge, lay in a course on those coordinates.
+[00:03:00.026 --> 00:03:00.426] LAFORGE: Aye, sir.
+[00:03:01.626 --> 00:03:05.546] RIKER: Captain, you act as if there's a connection between the time distortion and the distress signal.
+[00:03:06.666 --> 00:03:06.986] PICARD: There is.
+[00:03:09.226 --> 00:03:10.186] PICARD: Paul Manheim.
+[00:03:12.346 --> 00:03:17.306] PICARD: Fifteen years ago he went off to work on experiments relating to non-linear time.
+[00:03:18.346 --> 00:03:20.586] PICARD: It appears he may have achieved some measure of success.
+[00:03:20.586 --> 00:03:21.306] PICARD: Speed warp eight.
+[00:03:21.386 --> 00:03:22.106] LAFORGE: Aye, sir. Warp eight.
+[00:03:22.826 --> 00:03:23.306] PICARD: Engage.
+[00:03:45.146 --> 00:03:47.706] PICARD: Space, the final frontier.
+[00:03:49.626 --> 00:03:52.506] PICARD: These are the voyages of the starship Enterprise.
+[00:03:53.626 --> 00:04:06.426] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:04:08.000 --> 00:04:22.000] [music]
+[00:04:17.856 --> 00:04:17.856] LAFORGE: Estimated
+[00:05:12.576 --> 00:05:16.576] LAFORGE: arrival Pegos Minor, four hours, thirty five minutes, seventeen seconds.
+[00:05:17.136 --> 00:05:18.996] RIKER: I've never heard of Paul Manheim.
+[00:05:18.996 --> 00:05:19.616] PICARD: Mister Data.
+[00:05:19.616 --> 00:05:23.376] DATA: A highly respected scientist, considered a visionary,
+[00:05:23.616 --> 00:05:25.456] DATA: he advanced several time-related theories.
+[00:05:25.776 --> 00:05:32.096] DATA: One regarding the relationships between time and gravity was quite intriguing. But neither that theory nor any other received wide acceptance.
+[00:05:33.056 --> 00:05:37.936] PICARD: Fifteen years ago, he assembled a team of scientists to expand that research.
+[00:05:38.816 --> 00:05:39.456] PICARD: They disappeared.
+[00:05:40.016 --> 00:05:40.976] PICARD: Haven't been heard from since.
+[00:05:41.536 --> 00:05:42.496] RIKER: Did you know him, Captain?
+[00:05:43.856 --> 00:05:44.576] PICARD: I knew of him.
+[00:05:45.056 --> 00:05:47.376] PICARD: He was teaching at the University when I was in Paris, but I
+[00:05:49.856 --> 00:05:50.656] PICARD: didn't have the pleasure.
+[00:05:50.656 --> 00:05:51.456] PICARD: I must change.
+[00:05:52.467 --> 00:06:01.907] PICARD: Number One, inform me half an hour before we reach those co-ordinates. Keep trying to determine if the time distortion was specifically located on the Enterprise.
+[00:06:02.227 --> 00:06:02.467] RIKER: Yes, sir.
+[00:06:03.187 --> 00:06:05.587] TROI: Captain? Excuse me.
+[00:06:06.067 --> 00:06:07.107] PICARD: Yes, what is it, Counsellor?
+[00:06:08.067 --> 00:06:10.467] TROI: I think you would prefer to discuss this in private.
+[00:06:11.187 --> 00:06:12.067] PICARD: That's not necessary.
+[00:06:12.547 --> 00:06:12.787] PICARD: Go on.
+[00:06:14.147 --> 00:06:18.547] TROI: When Professor Manheim's name was mentioned, you reacted with intense emotion.
+[00:06:20.067 --> 00:06:20.387] PICARD: Yes.
+[00:06:20.547 --> 00:06:21.267] PICARD: Please get to the point.
+[00:06:22.467 --> 00:06:24.467] TROI: I don't want to interfere with your personal life,
+[00:06:25.587 --> 00:06:28.387] TROI: but unresolved strong emotion can affect judgement.
+[00:06:31.507 --> 00:06:31.827] PICARD: Well,
+[00:06:32.467 --> 00:06:33.427] PICARD: thank you for your concern.
+[00:06:33.587 --> 00:06:36.387] TROI: As Ship's Counsellor, I offer my assistance.
+[00:06:37.987 --> 00:06:38.787] PICARD: What do you suggest?
+[00:06:41.187 --> 00:06:44.627] TROI: Confronting deep personal issues is not easy for you.
+[00:06:44.947 --> 00:06:46.147] TROI: You tend to suppress them.
+[00:06:47.427 --> 00:06:48.867] TROI: There are a few hours until we arrive.
+[00:06:50.067 --> 00:06:55.347] TROI: Perhaps you should use this time to analyse your feelings and put them into perspective.
+[00:06:55.747 --> 00:06:56.467] PICARD: Thank you, Counsellor.
+[00:06:57.427 --> 00:06:58.627] PICARD: If I should need you further, I'll let you know.
+[00:07:31.502 --> 00:07:31.502] PICARD: Bridge.
+[00:07:31.502 --> 00:07:31.902] PICARD: Belay that.
+[00:07:36.702 --> 00:07:37.102] PICARD: Computer,
+[00:07:37.822 --> 00:07:39.262] PICARD: estimated arrival at Pegos Minor.
+[00:07:40.382 --> 00:07:41.982] COMPUTER: Two hours, nine minutes.
+[00:07:44.222 --> 00:07:46.462] PICARD: Holodeck three.
+[00:07:55.902 --> 00:07:57.022] PICARD: Computer, this is Captain Picard.
+[00:07:57.502 --> 00:07:58.782] COMPUTER: Holodeck three is clear.
+[00:08:00.542 --> 00:08:03.342] PICARD: Location, Paris, Cafe des Artistes,
+[00:08:04.782 --> 00:08:05.582] PICARD: as it appeared
+[00:08:07.262 --> 00:08:08.142] PICARD: twenty two years ago.
+[00:08:10.222 --> 00:08:12.702] PICARD: April the ninth, fifteen hundred hours, three o'clock.
+[00:08:13.262 --> 00:08:15.902] PICARD: Warm spring day.
+[00:08:18.062 --> 00:08:18.862] COMPUTER: Programme complete.
+[00:08:31.422 --> 00:08:35.022] EDOUARD: Monsieur, welcome to the Cafe des Artistes.
+[00:08:36.302 --> 00:08:37.902] EDOUARD: Is this your first time in Paris?
+[00:08:39.262 --> 00:08:39.422] PICARD: No.
+[00:08:40.782 --> 00:08:41.182] EDOUARD: This way.
+[00:08:42.222 --> 00:08:44.462] PICARD: That table.
+[00:08:45.422 --> 00:08:46.542] EDOUARD: Mais oui, bien sur, monsieur.
+[00:08:46.622 --> 00:08:48.222] EDOUARD: We are here to please you.
+[00:09:02.799 --> 00:09:04.879] PICARD: I've been away far too long.
+[00:09:07.039 --> 00:09:08.959] EDOUARD: Some wine, some cheese?
+[00:09:09.679 --> 00:09:11.199] PICARD: I'm not very hungry.
+[00:09:11.359 --> 00:09:13.279] PICARD: I really came for the view.
+[00:09:14.799 --> 00:09:19.199] EDOUARD: Perhaps what you hunger for is not on the menu.
+[00:09:19.199 --> 00:09:19.679] PICARD: Perhaps not.
+[00:09:21.839 --> 00:09:22.879] PICARD: It was many years ago,
+[00:09:23.039 --> 00:09:24.639] PICARD: I had a rendezvous.
+[00:09:26.239 --> 00:09:27.119] PICARD: I was to meet someone.
+[00:09:29.359 --> 00:09:32.079] PICARD: Someone here, at this very table.
+[00:09:35.119 --> 00:09:37.119] EDOUARD: Your young lady, she did not come?
+[00:09:39.679 --> 00:09:40.639] PICARD: Actually, I don't know.
+[00:09:41.759 --> 00:09:42.959] PICARD: I always imagined that she did.
+[00:09:45.599 --> 00:09:47.119] EDOUARD: You, however, did not.
+[00:09:50.079 --> 00:09:50.319] EDOUARD: Ah.
+[00:09:53.919 --> 00:09:56.159] EDOUARD: Well, trust Edouard.
+[00:09:57.119 --> 00:09:59.999] EDOUARD: I will bring something very special, just for you.
+[00:10:03.759 --> 00:10:04.479] FRANCINE: Let's go.
+[00:10:04.559 --> 00:10:05.519] FRANCINE: We've waited long enough.
+[00:10:05.919 --> 00:10:06.639] GABRIELLE: Fine. You go.
+[00:10:07.199 --> 00:10:08.239] GABRIELLE: I'll stay a little longer.
+[00:10:09.039 --> 00:10:10.479] FRANCINE: He's not coming, Gabrielle.
+[00:10:10.479 --> 00:10:11.199] GABRIELLE: No,
+[00:10:11.919 --> 00:10:13.359] GABRIELLE: after last night, I know he will.
+[00:10:13.679 --> 00:10:14.189] GABRIELLE: I just know.
+[00:10:14.189 --> 00:10:15.039] FRANCINE: Then he would be here.
+[00:10:15.639 --> 00:10:18.759] FRANCINE: You are making a fool out of yourself, and I will not watch.
+[00:10:25.399 --> 00:10:26.199] GABRIELLE: Do we know each other?
+[00:10:27.079 --> 00:10:27.239] PICARD: No.
+[00:10:28.519 --> 00:10:30.919] GABRIELLE: The way you look at me, do I remind you of someone?
+[00:10:31.479 --> 00:10:31.719] PICARD: No.
+[00:10:34.439 --> 00:10:36.119] PICARD: Yes, you do, somewhat.
+[00:10:40.039 --> 00:10:40.999] GABRIELLE: He's not coming.
+[00:10:42.679 --> 00:10:43.159] GABRIELLE: Why?
+[00:10:44.039 --> 00:10:45.639] GABRIELLE: What did I do to drive him away?
+[00:10:47.239 --> 00:10:48.439] PICARD: Maybe you did nothing.
+[00:10:48.439 --> 00:10:49.399] PICARD: Maybe he had no choice.
+[00:10:51.319 --> 00:10:52.199] PICARD: Maybe he was afraid.
+[00:10:53.719 --> 00:10:54.199] GABRIELLE: Of what?
+[00:10:54.599 --> 00:10:55.079] GABRIELLE: Of me?
+[00:10:56.439 --> 00:11:00.679] PICARD: Oh, of being connected, rooted.
+[00:11:02.199 --> 00:11:05.879] PICARD: Perhaps if he's as young as you are, he doesn't know yet exactly what he wants to do.
+[00:11:08.039 --> 00:11:08.439] PICARD: Maybe.
+[00:11:14.839 --> 00:11:16.279] PICARD: Enough of this self-indulgence.
+[00:11:18.039 --> 00:11:18.039] PICARD: Exit.
+[00:11:18.039 --> 00:11:22.456] RIKER: Captain, we've received communication from the freighter Lalo,
+[00:11:24.972 --> 00:11:26.972] RIKER: as
+[00:11:29.487 --> 00:11:31.487] RIKER: well
+[00:11:34.003 --> 00:11:36.003] RIKER: as
+[00:11:38.519 --> 00:11:42.199] RIKER: from a farming colony on Coltar Four.
+[00:11:42.199 --> 00:11:44.359] RIKER: Both described the same time distortion.
+[00:11:44.679 --> 00:11:46.999] RIKER: The Captain of the Lalo described it a hiccup.
+[00:11:47.399 --> 00:11:47.639] PICARD: Hiccup?
+[00:11:48.274 --> 00:11:50.274] DATA: Actually sir, that may be an incorrect analogy.
+[00:11:50.674 --> 00:11:51.234] PICARD: How so, Data?
+[00:11:51.714 --> 00:11:56.274] DATA: A hiccup is a spasmodic inhalation with closure of the glottis. accompanied by a peculiar sound.
+[00:11:56.914 --> 00:12:00.990] DATA: If we were to continue this analogy to a body function, what occurred would be best represented by a
+[00:12:00.990 --> 00:12:01.634] PICARD: That's enough, Data.
+[00:12:02.514 --> 00:12:04.994] PICARD: Have you been able to learn more specifics about the Manheim project?
+[00:12:05.634 --> 00:12:07.234] DATA: All I have found sir, is what you already know.
+[00:12:07.474 --> 00:12:10.114] DATA: Manheim was concentrating on time gravity experiments when he left.
+[00:12:10.594 --> 00:12:13.074] LAFORGE: Captain, we've reached the coordinates specified.
+[00:12:14.194 --> 00:12:14.914] LAFORGE: There's nothing here.
+[00:12:15.874 --> 00:12:17.234] WORF: I'm receiving new coordinates.
+[00:12:17.634 --> 00:12:19.234] WORF: It's a relay signal.
+[00:12:19.394 --> 00:12:20.434] WORF: Same source as the first one.
+[00:12:20.994 --> 00:12:21.634] LAFORGE: What are they, Worf?
+[00:12:22.754 --> 00:12:27.954] WORF: Six six four point eight by one three two three point seven by four nine four nine point nine.
+[00:12:28.674 --> 00:12:30.114] LAFORGE: Very remote area, sir.
+[00:12:30.434 --> 00:12:32.754] LAFORGE: It's in the middle of the Vandor system, a binary star system.
+[00:12:33.154 --> 00:12:34.594] LAFORGE: Main star's a B class giant,
+[00:12:34.594 --> 00:12:35.874] LAFORGE: the companion star's a pulsar.
+[00:12:36.834 --> 00:12:38.514] PICARD: Set course for the new coordinates, Mister La Forge.
+[00:12:38.674 --> 00:12:38.994] LAFORGE: Aye, sir.
+[00:12:41.154 --> 00:12:42.914] RIKER: Why is he making it this difficult to find him?
+[00:12:44.754 --> 00:12:45.474] PICARD: Hopefully he'll tell us,
+[00:12:47.074 --> 00:12:49.074] PICARD: Number
+[00:12:50.914 --> 00:12:52.914] PICARD: One.
+[00:12:53.474 --> 00:12:54.994] LAFORGE: We have reached the coordinates, Captain.
+[00:12:56.034 --> 00:13:00.834] DATA: Sensors indicate it is Vandor Four, a planetoid in elliptical orbit around the binary system.
+[00:13:01.314 --> 00:13:02.434] PICARD: Standard orbit, Mister La Forge.
+[00:13:02.514 --> 00:13:02.834] LAFORGE: Aye, sir.
+[00:13:03.874 --> 00:13:04.514] PICARD: Give me a visual.
+[00:13:05.314 --> 00:13:05.954] WORF: Viewscreen on.
+[00:13:07.474 --> 00:13:09.154] WORF: There's a small forcefield on the planet.
+[00:13:10.034 --> 00:13:12.194] WORF: Latitude twenty degrees, nine minutes north.
+[00:13:12.914 --> 00:13:16.354] WORF: Longitude forty degrees, two minutes east of the present terminator.
+[00:13:17.154 --> 00:13:17.634] PICARD: Penetrable?
+[00:13:18.114 --> 00:13:18.514] DATA: No, sir.
+[00:13:19.776 --> 00:13:20.736] PICARD: Open hailing frequencies.
+[00:13:21.056 --> 00:13:22.176] WORF: Hailing frequencies open, sir.
+[00:13:23.376 --> 00:13:24.176] PICARD: This is Captain.
+[00:13:24.576 --> 00:13:29.456] PICARD: This is the Captain of the USS Enterprise responding to your signal for help.
+[00:13:30.096 --> 00:13:31.936] JENICE: Enterprise, thank you for hearing us.
+[00:13:32.576 --> 00:13:33.056] JENICE: Where are you?
+[00:13:34.176 --> 00:13:36.336] PICARD: We're in orbit around Vandor now.
+[00:13:36.976 --> 00:13:37.616] JENICE: Then you can help me.
+[00:13:38.416 --> 00:13:39.296] JENICE: I don't know what to do.
+[00:13:39.856 --> 00:13:41.216] JENICE: It's only the two of us left.
+[00:13:41.936 --> 00:13:42.896] JENICE: He's having convulsions.
+[00:13:46.736 --> 00:13:46.736] JENICE: Please.
+[00:13:46.736 --> 00:13:48.096] PICARD: Can you lock on to her coordinates?
+[00:13:48.736 --> 00:13:49.136] LAFORGE: No, sir.
+[00:13:49.136 --> 00:13:51.376] LAFORGE: The forcefield is preventing any kind of contact other than audio.
+[00:13:52.656 --> 00:13:54.176] PICARD: There is a force field at your location.
+[00:13:54.336 --> 00:13:55.616] JENICE: Yes. I know.
+[00:13:55.776 --> 00:13:55.936] PICARD: Good.
+[00:13:56.656 --> 00:13:58.736] PICARD: But it is preventing us from helping you.
+[00:13:59.296 --> 00:14:01.936] PICARD: Now, you must find some way to shut it down.
+[00:14:02.176 --> 00:14:02.736] JENICE: I'll try.
+[00:14:08.576 --> 00:14:09.296] WORF: Force field is off.
+[00:14:09.776 --> 00:14:10.016] PICARD: Good.
+[00:14:10.336 --> 00:14:11.296] PICARD: Lock onto their coordinates.
+[00:14:11.376 --> 00:14:12.656] PICARD: Beam them up directly to Sickbay.
+[00:14:13.056 --> 00:14:14.976] PICARD: Doctor Crusher, prepare for a Medical Emergency.
+[00:14:14.976 --> 00:14:16.336] PICARD: Two to beam directly up to Sickbay.
+[00:14:16.656 --> 00:14:17.456] CRUSHER: We'll be ready, Captain.
+[00:14:18.976 --> 00:14:21.456] PICARD: That's where I'll be.
+[00:14:24.176 --> 00:14:24.896] PICARD: Number One. Mister Data.
+[00:14:26.336 --> 00:14:28.336] CRUSHER: I'll
+[00:14:38.896 --> 00:14:39.296] CRUSHER: help.
+[00:14:42.016 --> 00:14:43.296] CRUSHER: Easy. Easy.
+[00:14:43.296 --> 00:14:45.296] CRUSHER: I've got his legs.
+[00:14:50.176 --> 00:14:51.216] CRUSHER: How long has he been like this?
+[00:14:51.616 --> 00:14:53.136] JENICE: Several hours at least.
+[00:14:53.590 --> 00:14:54.790] JENICE: He was in his lab, so
+[00:14:54.870 --> 00:14:55.350] JENICE: I can't be sure.
+[00:14:57.030 --> 00:14:58.230] CRUSHER: I need to do some tests.
+[00:14:58.380 --> 00:14:58.980] PICARD: Er,
+[00:15:08.310 --> 00:15:08.790] PICARD: I, er.
+[00:15:12.630 --> 00:15:12.630] JENICE: Jean-Luc.
+[00:15:15.510 --> 00:15:17.430] JENICE: I thought the voice sounded familiar.
+[00:15:21.110 --> 00:15:21.350] PICARD: Hello.
+[00:15:23.510 --> 00:15:25.030] JENICE: I should have known.
+[00:15:26.710 --> 00:15:28.630] JENICE: Who else would have charged to my rescue?
+[00:15:36.070 --> 00:15:37.670] PICARD: This is my First Officer, Commander William Riker.
+[00:15:39.430 --> 00:15:40.310] PICARD: Lieutenant Commander Data.
+[00:15:42.550 --> 00:15:45.350] PICARD: This is Jenice Manheim.
+[00:15:46.310 --> 00:15:47.030] RIKER: A pleasure, Mrs.
+[00:15:47.030 --> 00:15:47.430] RIKER: Manheim.
+[00:15:47.750 --> 00:15:47.990] JENICE: Thank you.
+[00:15:50.310 --> 00:15:51.590] PICARD: I have a number of questions for you.
+[00:15:52.950 --> 00:15:54.070] JENICE: I hope I can be of some help.
+[00:15:55.750 --> 00:15:56.950] PICARD: Why don't we sit down?
+[00:15:57.190 --> 00:15:57.270] PICARD: You
+[00:15:59.590 --> 00:16:00.950] PICARD: said there were only two of you left.
+[00:16:00.950 --> 00:16:01.990] PICARD: What happened to the rest of the crew?
+[00:16:02.870 --> 00:16:03.990] JENICE: They were working in the second lab.
+[00:16:05.030 --> 00:16:06.390] JENICE: Something happened there a few weeks ago.
+[00:16:07.350 --> 00:16:07.990] JENICE: They were all killed.
+[00:16:10.230 --> 00:16:11.270] JENICE: It was a terrible accident.
+[00:16:11.270 --> 00:16:12.630] JENICE: I don't know exactly what happened.
+[00:16:13.430 --> 00:16:17.270] JENICE: So many brilliant, wonderful minds, just gone.
+[00:16:18.710 --> 00:16:20.790] DATA: Do you know the nature of Doctor Manheim's work?
+[00:16:21.590 --> 00:16:22.950] JENICE: Paul's always been interested in time.
+[00:16:24.310 --> 00:16:27.430] JENICE: He's never believed that it was immutable, any more than space is immutable.
+[00:16:28.638 --> 00:16:36.478] JENICE: Over the last decade, he came to believe that we reside in one of infinite dimensions, and what holds us here is the constancy of time.
+[00:16:37.278 --> 00:16:42.049] JENICE: Change that and it would be what he called opening the window to those other dimensions.
+[00:16:42.049 --> 00:16:43.838] RIKER: Which begins to explain what happened.
+[00:16:45.518 --> 00:16:47.758] JENICE: Have you been experiencing something up here?
+[00:16:48.158 --> 00:16:48.398] PICARD: Yes.
+[00:16:48.638 --> 00:16:52.878] PICARD: What is emanating here is having repercussions light years away, maybe even further.
+[00:16:53.678 --> 00:16:55.678] JENICE: That would explain his anxiety.
+[00:16:56.158 --> 00:16:58.958] JENICE: I had no idea it had gone so far beyond Vandor.
+[00:16:59.598 --> 00:17:00.158] RIKER: Why this place?
+[00:17:00.158 --> 00:17:00.958] RIKER: Why Vandor?
+[00:17:01.438 --> 00:17:05.918] JENICE: All I can tell you about that is Paul and the rest of the team searched for two years to find it.
+[00:17:06.638 --> 00:17:10.238] JENICE: Vandor's exactly what they needed. A planetoid around a binary star.
+[00:17:10.558 --> 00:17:12.158] DATA: Because of the dense gravity of the pulsar.
+[00:17:12.718 --> 00:17:16.398] PICARD: Did your husband ever attempt to define these dimensions,
+[00:17:16.398 --> 00:17:18.158] PICARD: give you an idea of what he expected?
+[00:17:18.398 --> 00:17:18.638] JENICE: No.
+[00:17:19.998 --> 00:17:23.118] JENICE: But he did say that he was very close to proving his theories.
+[00:17:24.798 --> 00:17:25.678] JENICE: And then the accident.
+[00:17:25.678 --> 00:17:29.678] PICARD: Did he anticipate that these experiments might be dangerous?
+[00:17:30.078 --> 00:17:30.878] JENICE: I didn't think so.
+[00:17:32.158 --> 00:17:35.758] JENICE: Now, in retrospect, he probably did.
+[00:17:36.958 --> 00:17:49.358] JENICE: That would explain all the unusual precautions he began taking, even before the accident. The force field, the elaborate security system. Every time he started a new experiment,
+[00:17:49.358 --> 00:17:52.638] JENICE: he insisted that I stay in what he said called a protected room.
+[00:17:53.118 --> 00:17:55.078] PICARD: Ah, and that's why you weren't affected.
+[00:17:55.078 --> 00:17:55.358] JENICE: Jean-Luc,
+[00:17:56.478 --> 00:17:58.958] JENICE: he would never knowingly do anything to hurt anyone.
+[00:17:59.747 --> 00:18:00.627] PICARD: Yes, I believe that.
+[00:18:01.187 --> 00:18:06.787] JENICE: But as he saw his goal getting closer, seeming possible, he became more and more obsessive.
+[00:18:07.907 --> 00:18:09.187] JENICE: Maybe that clouded his judgement.
+[00:18:15.667 --> 00:18:17.427] JENICE: This is not how I imagined seeing you again.
+[00:18:19.107 --> 00:18:19.587] PICARD: Nor I you.
+[00:18:21.747 --> 00:18:22.307] JENICE: You've done well.
+[00:18:23.587 --> 00:18:26.387] JENICE: A great starship in the far reaches of the galaxy.
+[00:18:27.347 --> 00:18:28.627] JENICE: It's everything you'd hoped.
+[00:18:30.307 --> 00:18:31.107] PICARD: Not exactly.
+[00:18:32.307 --> 00:18:34.707] PICARD: Nothing works just as you hope.
+[00:18:35.347 --> 00:18:39.187] PICARD: If you can't tell us any more, I need to send a team down to the lab.
+[00:18:39.667 --> 00:18:40.147] JENICE: You can't.
+[00:18:40.547 --> 00:18:41.107] JENICE: It's protected.
+[00:18:42.227 --> 00:18:44.467] JENICE: One of the other scientists made sure no one could get in.
+[00:18:45.907 --> 00:18:46.787] CRUSHER: Excuse me.
+[00:18:48.947 --> 00:18:49.427] JENICE: Is he worse?
+[00:18:49.587 --> 00:18:50.307] CRUSHER: He's resting.
+[00:18:50.867 --> 00:18:52.787] CRUSHER: But I'd like you to undergo some tests as well.
+[00:18:52.787 --> 00:18:53.827] CRUSHER: My nurse will start them.
+[00:18:54.947 --> 00:18:56.067] JENICE: Thank you for your kindness, Doctor.
+[00:19:06.147 --> 00:19:06.787] PICARD: She's an old friend.
+[00:19:07.107 --> 00:19:07.987] CRUSHER: I gathered that.
+[00:19:08.547 --> 00:19:10.547] CRUSHER: It's her husband I'm more concerned with at the moment.
+[00:19:10.547 --> 00:19:11.347] PICARD: What's the prognosis?
+[00:19:11.907 --> 00:19:13.027] CRUSHER: I believe he's dying.
+[00:19:13.667 --> 00:19:16.307] CRUSHER: His neurochemistry's been affected, but I don't know how or why.
+[00:19:16.307 --> 00:19:18.067] CRUSHER: I've never encountered anything like it before.
+[00:19:18.067 --> 00:19:18.787] RIKER: How long does he have?
+[00:19:19.187 --> 00:19:20.147] CRUSHER: Maybe a couple of days.
+[00:19:20.547 --> 00:19:21.267] CRUSHER: It's hard to predict.
+[00:19:21.587 --> 00:19:25.987] CRUSHER: All I can do is maintain him or attempt to maintain him until I find out what's causing the damage.
+[00:19:25.987 --> 00:19:26.467] PICARD: Can we talk to him?
+[00:19:27.427 --> 00:19:27.987] CRUSHER: Not now.
+[00:19:28.067 --> 00:19:28.467] CRUSHER: Not yet.
+[00:19:32.547 --> 00:19:33.587] DATA: Incidentally, Captain,
+[00:19:34.379 --> 00:19:37.579] DATA: the effects of the time distortions are now being felt in the Ilecom system.
+[00:19:43.179 --> 00:19:43.419] PICARD: Bridge.
+[00:19:43.569 --> 00:19:44.169] PICARD: In
+[00:19:45.099 --> 00:19:49.099] PICARD: the past decade, Manheim has turned some vague theories into a practical application.
+[00:19:49.259 --> 00:19:53.419] RIKER: Yes, but without his help, I'm not sure we'll be able to pose any intelligent questions,
+[00:19:53.739 --> 00:19:54.859] RIKER: let alone come up with any solutions.
+[00:19:56.219 --> 00:20:01.019] DATA: Incidentally, Captain, the effects of the time distortions are now being felt in the Ilecom system.
+[00:20:02.699 --> 00:20:04.299] PICARD: It's us before we stepped into the turbolift.
+[00:20:04.859 --> 00:20:05.499] PICARD 2: It's happening again.
+[00:20:07.019 --> 00:20:08.619] DATA 2: I feel no disorientation.
+[00:20:08.619 --> 00:20:09.819] DATA: Nor do I.
+[00:20:12.539 --> 00:20:12.939] RIKER: What was that?
+[00:20:13.979 --> 00:20:17.419] DATA: I believe what could be termed the Manheim Effect is becoming more pronounced.
+[00:20:18.299 --> 00:20:19.339] RIKER: This is where we started,
+[00:20:20.459 --> 00:20:21.383] RIKER: if we are us.
+[00:20:21.383 --> 00:20:22.539] DATA: Oh, we are us, sir,
+[00:20:23.019 --> 00:20:23.979] DATA: but they are also us.
+[00:20:24.539 --> 00:20:29.259] DATA: So indeed, we are both us at different points along the same time continuum.
+[00:20:39.739 --> 00:20:39.979] PICARD: Bridge.
+[00:20:45.099 --> 00:20:46.945] PICARD: What have you learned?
+[00:20:46.945 --> 00:20:51.099] DATA: We have completed a scan of the planet surface.
+[00:20:51.499 --> 00:20:54.859] RIKER: We've discovered the second lab is on the far side of the planet, completely destroyed.
+[00:20:55.179 --> 00:20:56.539] RIKER: Unable to determine what caused it.
+[00:20:56.539 --> 00:20:58.939] RIKER: Otherwise, very little to clarify the situation.
+[00:20:59.659 --> 00:21:05.659] DATA: Our sensors show an immense volume of energy emanating deep within the planet, and concentrated near Manheim's remaining laboratory.
+[00:21:05.899 --> 00:21:07.019] PICARD: How is the energy being used.
+[00:21:07.183 --> 00:21:07.663] RIKER: No idea.
+[00:21:07.823 --> 00:21:08.463] PICARD: What's it's source?
+[00:21:09.023 --> 00:21:09.903] DATA: I cannot be sure, sir,
+[00:21:10.303 --> 00:21:13.663] DATA: but I believe Manheim has developed a method for harnessing energy from the pulsar.
+[00:21:13.903 --> 00:21:14.863] RIKER: It comes down to this, Captain.
+[00:21:15.103 --> 00:21:19.583] RIKER: We've learned everything we can from here, and we are no closer to understanding it than we were twelve hours ago.
+[00:21:20.143 --> 00:21:24.703] RIKER: Manheim is unable to help us, but hopefully, having been a good scientist, he kept notes.
+[00:21:25.103 --> 00:21:26.352] DATA: I would need to study Manheim's records.
+[00:21:26.352 --> 00:21:27.423] RIKER: And in order to do that
+[00:21:27.423 --> 00:21:28.303] RIKER: we're going to have to go down there.
+[00:21:28.863 --> 00:21:30.383] PICARD: What about the defence system Mrs. Manheim
+[00:21:30.383 --> 00:21:30.623] PICARD: spoke of?
+[00:21:30.943 --> 00:21:34.703] RIKER: It may have been connected to the main system, and when she lowered the shield she may have turned that off as well.
+[00:21:35.583 --> 00:21:37.343] RIKER: If not, we'll deal with it as best we can.
+[00:21:37.583 --> 00:21:38.159] PICARD: Prepare your team.
+[00:21:38.159 --> 00:21:38.543] RIKER: Aye, sir.
+[00:21:45.423 --> 00:21:47.583] RIKER: Coordinates set?
+[00:21:47.903 --> 00:21:48.383] CHIEF: Yes, sir.
+[00:21:52.223 --> 00:21:52.623] RIKER: Energise.
+[00:21:56.823 --> 00:21:58.823] CHIEF: There's
+[00:22:03.023 --> 00:22:06.383] CHIEF: a lack of integrity at the landing point.
+[00:22:07.663 --> 00:22:08.463] CHIEF: I'm losing them.
+[00:22:09.503 --> 00:22:11.183] PICARD: Bring them back. Now.
+[00:22:18.863 --> 00:22:19.903] PICARD: Chief Herbert, what's going on?
+[00:22:20.463 --> 00:22:23.503] CHIEF: There seems to be some kind of strange bouncing effect.
+[00:22:24.783 --> 00:22:26.063] CHIEF: I can't get them to materialise.
+[00:22:27.103 --> 00:22:28.063] CHIEF: My readings aren't complete.
+[00:22:29.103 --> 00:22:29.583] PICARD: Keep trying.
+[00:22:44.126 --> 00:22:46.926] RIKER: What are we doing back here?
+[00:22:47.886 --> 00:22:49.326] CHIEF: You're lucky you made it back at all, sir.
+[00:22:56.286 --> 00:22:56.766] MANHEIM: Where am I?
+[00:22:59.806 --> 00:23:01.806] JENICE: Paul.
+[00:23:03.326 --> 00:23:03.326] JENICE: Thank God.
+[00:23:04.366 --> 00:23:05.726] JENICE: You're on the USS Enterprise.
+[00:23:06.286 --> 00:23:07.406] JENICE: They answered your distress signal.
+[00:23:08.766 --> 00:23:09.486] MANHEIM: I sent one.?
+[00:23:10.526 --> 00:23:12.126] JENICE: Oh, Paul, you're going to be just fine.
+[00:23:12.606 --> 00:23:14.526] MANHEIM: I am not fine, Jenice.
+[00:23:14.766 --> 00:23:16.446] MANHEIM: I'm not even close to fine.
+[00:23:16.686 --> 00:23:17.806] CRUSHER: Bridge, this is Doctor Crusher.
+[00:23:17.806 --> 00:23:19.246] CRUSHER: Professor Manheim is conscious.
+[00:23:19.886 --> 00:23:21.326] MANHEIM: Remember, it was worth it,
+[00:23:21.326 --> 00:23:21.726] MANHEIM: what happened.
+[00:23:22.126 --> 00:23:22.686] MANHEIM: What will happen,
+[00:23:22.766 --> 00:23:23.166] MANHEIM: all of it,
+[00:23:23.166 --> 00:23:24.206] MANHEIM: it was all worth it.
+[00:23:24.686 --> 00:23:28.446] MANHEIM: Again. It's changing again.
+[00:23:29.006 --> 00:23:29.486] CRUSHER: What is?
+[00:23:29.806 --> 00:23:30.606] CRUSHER: What do you see?
+[00:23:30.846 --> 00:23:32.126] MANHEIM: I'm having difficulty.
+[00:23:32.686 --> 00:23:33.166] CRUSHER: With what?
+[00:23:33.646 --> 00:23:34.286] CRUSHER: Are you in pain?
+[00:23:34.766 --> 00:23:36.206] MANHEIM: I have been on the other side.
+[00:23:37.326 --> 00:23:39.486] MANHEIM: I have touched another dimension.
+[00:23:40.206 --> 00:23:41.486] MANHEIM: Part of me is still there.
+[00:23:43.166 --> 00:23:43.726] JENICE: Help him.
+[00:23:43.726 --> 00:23:45.646] CRUSHER: Try to stay calm, Doctor Manheim.
+[00:23:46.206 --> 00:23:48.206] CRUSHER: I don't think it's going to help you struggling against it.
+[00:23:48.366 --> 00:23:51.166] MANHEIM: My mind is floating between two places.
+[00:23:51.566 --> 00:23:54.366] MANHEIM: It is difficult to know which is which.
+[00:23:55.086 --> 00:23:56.686] MANHEIM: There is no way to explain it.
+[00:23:59.246 --> 00:24:01.006] PICARD: Doctor Manheim, I'm Captain Picard.
+[00:24:03.694 --> 00:24:04.254] MANHEIM: The same one?
+[00:24:08.094 --> 00:24:12.174] MANHEIM: She has told me about you. Not all, but enough.
+[00:24:13.134 --> 00:24:13.854] PICARD: We need your help.
+[00:24:14.174 --> 00:24:15.374] PICARD: The situation is not good.
+[00:24:16.014 --> 00:24:16.814] MANHEIM: It will get worse.
+[00:24:17.774 --> 00:24:18.254] PICARD: What do we do?
+[00:24:18.254 --> 00:24:18.974] PICARD: How do we stop it?
+[00:24:19.774 --> 00:24:21.614] MANHEIM: I'm having difficulty holding the moment.
+[00:24:23.214 --> 00:24:24.974] PICARD: Doctor, this is Lieutenant Commander Data.
+[00:24:25.934 --> 00:24:27.294] PICARD: Will you explain the situation to him?
+[00:24:27.934 --> 00:24:31.134] DATA: I am fully versed, sir, on all your theories regarding time and gravity.
+[00:24:31.534 --> 00:24:32.574] MANHEIM: How is that possible?
+[00:24:33.854 --> 00:24:36.574] MANHEIM: I am not even fully versed on all of my theories.
+[00:24:37.134 --> 00:24:37.854] DATA: I am an android.
+[00:24:39.454 --> 00:24:39.934] MANHEIM: Android?
+[00:24:41.294 --> 00:24:42.174] MANHEIM: On a Starfleet vessel?
+[00:24:43.614 --> 00:24:44.494] DATA: I am the only one, sir.
+[00:24:45.054 --> 00:24:49.774] MANHEIM: Your knowledge is useless, because the work we have done here has made most of those theories obsolete.
+[00:24:50.494 --> 00:24:52.654] DATA: Then you have harnessed a dynamic energy source.
+[00:24:53.214 --> 00:24:54.574] MANHEIM: Then you do understand.
+[00:24:55.934 --> 00:24:59.214] MANHEIM: Yes. We were able to locate an energy source in the centre of this planetoid.
+[00:25:00.254 --> 00:25:02.894] MANHEIM: We learned to enhance it, to focus it.
+[00:25:04.414 --> 00:25:05.454] MANHEIM: Everything worked too well.
+[00:25:06.254 --> 00:25:09.054] MANHEIM: The energy from the pulsar, the energy from the planetoid.
+[00:25:10.574 --> 00:25:11.614] MANHEIM: We opened a crack,
+[00:25:13.134 --> 00:25:15.214] MANHEIM: a window into another dimension.
+[00:25:16.174 --> 00:25:17.907] PICARD: The time distortion we felt.
+[00:25:17.907 --> 00:25:18.254] MANHEIM: Felt?
+[00:25:19.374 --> 00:25:21.534] MANHEIM: Then it is not confined to the planetoid?
+[00:25:22.254 --> 00:25:24.734] DATA: The range is at least several thousand light years.
+[00:25:25.454 --> 00:25:26.814] MANHEIM: Captain, it must be stopped!
+[00:25:27.694 --> 00:25:31.774] MANHEIM: You must help me to execute a controlled shut down of this experiment.
+[00:25:32.334 --> 00:25:34.014] MANHEIM: Get my notes, they're in the lab.
+[00:25:35.265 --> 00:25:37.265] PICARD: How do we bypass the security system?
+[00:25:37.825 --> 00:25:45.265] MANHEIM: I'll give you the correct coordinates to beam safely down to Vandor, and the codes you need to bypass security systems to get into my lab.
+[00:25:55.265 --> 00:26:03.265] DATA: If what the Professor has given me is accurate, it is possible to repair the damage. But it must be perfectly timed to coincide with another time distortion episode.
+[00:26:03.585 --> 00:26:04.465] RIKER: Can we predict the timing?
+[00:26:04.705 --> 00:26:05.345] DATA: I believe so, sir.
+[00:26:05.665 --> 00:26:06.225] PICARD: We have to.
+[00:26:06.465 --> 00:26:10.705] PICARD: If we don't seal that hole, this other dimension he's opened will rip into the fabric of the galaxy.
+[00:26:10.945 --> 00:26:13.105] PICARD: Reality as we perceive it will not be the same.
+[00:26:13.745 --> 00:26:14.305] PICARD: Lieutenant Worf.
+[00:26:14.785 --> 00:26:15.025] WORF: Yes, sir?
+[00:26:15.665 --> 00:26:19.585] PICARD: I want those codes that Manheim gave Mister Data rechecked and then checked again.
+[00:26:19.585 --> 00:26:22.865] PICARD: No one is beaming down to Vandor unless we can be reasonably sure they can get through.
+[00:26:23.015 --> 00:26:24.015] WORF: Aye, sir.
+[00:26:24.545 --> 00:26:27.425] JENICE: I'm sorry for intruding.
+[00:26:27.905 --> 00:26:29.185] JENICE: I was told I'd find you here.
+[00:26:29.665 --> 00:26:30.465] PICARD: You're not intruding.
+[00:26:30.465 --> 00:26:31.185] PICARD: We're just finished.
+[00:26:31.665 --> 00:26:32.385] PICARD: Come in. Thank you.
+[00:26:42.945 --> 00:26:44.385] JENICE: I knew you wouldn't come to me.
+[00:26:45.505 --> 00:26:47.185] PICARD: No, not under these circumstances.
+[00:26:50.065 --> 00:26:51.345] JENICE: We have unfinished business.
+[00:26:53.425 --> 00:26:54.065] PICARD: Yes, we do.
+[00:26:56.145 --> 00:26:58.385] JENICE: Why didn't you come to meet me that last day in Paris?
+[00:27:02.145 --> 00:27:02.705] PICARD: I was afraid.
+[00:27:03.025 --> 00:27:04.865] JENICE: Oh, I didn't want this.
+[00:27:05.105 --> 00:27:05.265] PICARD: What?
+[00:27:05.905 --> 00:27:06.545] JENICE: The truth.
+[00:27:07.265 --> 00:27:08.305] PICARD: Oh, you want me to lie?
+[00:27:08.681 --> 00:27:09.241] JENICE: Of course.
+[00:27:09.391 --> 00:27:09.991] JENICE: A
+[00:27:11.161 --> 00:27:14.041] JENICE: nice, soft, painless lie.
+[00:27:14.681 --> 00:27:16.121] PICARD: Oh, I got the days confused.
+[00:27:16.121 --> 00:27:17.481] PICARD: I thought it was Tuesday when it was Wednesday.
+[00:27:18.041 --> 00:27:20.361] PICARD: I went to the Cafe Moulin instead of the Cafe des Artistes.
+[00:27:20.681 --> 00:27:21.961] JENICE: Ah, that's better.
+[00:27:23.881 --> 00:27:25.561] JENICE: It was raining and you couldn't find a cab.
+[00:27:31.081 --> 00:27:31.641] JENICE: I waited all
+[00:27:34.201 --> 00:27:34.921] JENICE: day. And it was raining.
+[00:27:36.041 --> 00:27:36.921] JENICE: It rained the rest of the week.
+[00:27:38.201 --> 00:27:41.161] JENICE: I went to Starfleet headquarters looking for you, but you'd already shipped out.
+[00:27:43.801 --> 00:27:43.961] JENICE: So,
+[00:27:46.601 --> 00:27:47.241] JENICE: come on, Jean-Luc.
+[00:27:49.961 --> 00:27:50.281] JENICE: Let's hear the
+[00:27:52.521 --> 00:27:52.681] JENICE: truth.
+[00:27:52.681 --> 00:27:53.001] PICARD: It was fear.
+[00:27:56.521 --> 00:27:57.961] PICARD: Fear of seeing you, losing my resolve.
+[00:27:59.081 --> 00:28:00.041] PICARD: Fear of staying,
+[00:28:02.121 --> 00:28:02.841] PICARD: losing myself.
+[00:28:05.161 --> 00:28:07.481] PICARD: Fear that neither of these choices was right, and that,
+[00:28:09.561 --> 00:28:10.361] PICARD: and that either would have
+[00:28:13.801 --> 00:28:20.761] JENICE: For a long time, not a day went by when I didn't look up into the sky, and wonder.
+[00:28:27.481 --> 00:28:30.361] PICARD: Each time that I returned to Earth, my thoughts were filled with you.
+[00:28:30.441 --> 00:28:33.801] JENICE: I've thought a lot about this over the years,
+[00:28:35.801 --> 00:28:38.281] JENICE: and perhaps you're leaving out your greatest fear. The
+[00:28:40.521 --> 00:28:42.121] JENICE: real reason you left.
+[00:28:42.121 --> 00:28:42.921] PICARD: Which was?
+[00:28:43.744 --> 00:28:49.584] JENICE: That life with me would have somehow made you ordinary.
+[00:28:53.904 --> 00:28:55.904] PICARD: You're
+[00:29:04.784 --> 00:29:05.264] PICARD: wonderful.
+[00:29:06.784 --> 00:29:07.904] PICARD: And am I that transparent?
+[00:29:10.544 --> 00:29:11.024] JENICE: Only to me.
+[00:29:35.984 --> 00:29:37.904] CRUSHER: I wish I could talk to you, Professor Manheim.
+[00:29:37.904 --> 00:29:40.864] CRUSHER: I bet you were really something.
+[00:29:51.104 --> 00:29:51.424] CRUSHER: Deanna.
+[00:29:51.424 --> 00:29:53.984] TROI: I wanted to see how he was doing.
+[00:29:56.064 --> 00:29:56.624] CRUSHER: The same.
+[00:29:58.704 --> 00:30:00.944] CRUSHER: Nothing I do seems to make any difference.
+[00:30:05.024 --> 00:30:06.224] CRUSHER: That's not why you're here.
+[00:30:08.784 --> 00:30:10.144] TROI: I thought I was the empath.
+[00:30:18.060 --> 00:30:18.700] TROI: Are you all right?
+[00:30:19.500 --> 00:30:20.380] CRUSHER: Why wouldn't I be?
+[00:30:20.620 --> 00:30:24.300] CRUSHER: I've got one of the medical wonders of the galaxy dying in my sickbay.
+[00:30:25.340 --> 00:30:26.380] TROI: That's not what I meant.
+[00:30:27.740 --> 00:30:31.969] CRUSHER: I don't think I want to talk about what I think you mean.
+[00:30:31.969 --> 00:30:32.620] TROI: Captain Picard
+[00:30:32.620 --> 00:30:34.940] CRUSHER: I can't compete with a ghost from his past.
+[00:30:35.180 --> 00:30:35.820] CRUSHER: No one could.
+[00:30:37.100 --> 00:30:38.140] TROI: She's not a ghost.
+[00:30:39.100 --> 00:30:40.140] TROI: She's here right now.
+[00:30:40.460 --> 00:30:43.740] CRUSHER: She may be in the here and now, but it's the ghost he sees.
+[00:30:45.500 --> 00:30:46.140] CRUSHER: Excuse me,
+[00:30:46.380 --> 00:30:47.980] CRUSHER: I have to get back to my patient.
+[00:30:53.420 --> 00:30:54.380] PICARD: How soon, Mister Data?
+[00:30:55.420 --> 00:31:02.700] DATA: If Doctor Manheim's information is correct, by my calculations, the next time distortion should occur between twenty eight to forty seven minutes.
+[00:31:03.500 --> 00:31:04.540] CRUSHER: Bridge, this is Sickbay.
+[00:31:05.100 --> 00:31:07.660] CRUSHER: Doctor Manheim is awake and asking to speak with you, Captain.
+[00:31:08.380 --> 00:31:08.860] CRUSHER: Alone.
+[00:31:09.740 --> 00:31:10.380] PICARD: On my way, Doctor.
+[00:31:17.900 --> 00:31:18.380] PICARD: You asked for me.
+[00:31:21.980 --> 00:31:26.140] MANHEIM: I am not sure I remembered all of the codes for the security system.
+[00:31:26.540 --> 00:31:28.540] MANHEIM: You should warn anyone going down there
+[00:31:29.100 --> 00:31:29.500] PICARD: Thank you.
+[00:31:29.580 --> 00:31:30.700] PICARD: I'll tell them to be cautious.
+[00:31:32.140 --> 00:31:36.140] MANHEIM: What I really wanted to talk to you about is Jenice.
+[00:31:37.660 --> 00:31:39.900] PICARD: Doctor Manheim, I did not come here to discuss your wife.
+[00:31:40.300 --> 00:31:41.100] MANHEIM: It is only this.
+[00:31:43.020 --> 00:31:43.340] MANHEIM: If
+[00:31:43.536 --> 00:31:44.736] MANHEIM: anything should go wrong,
+[00:31:45.216 --> 00:31:45.776] MANHEIM: please,
+[00:31:48.016 --> 00:31:49.056] MANHEIM: take care of her for me.
+[00:31:57.136 --> 00:31:57.616] PICARD: Of course.
+[00:32:01.856 --> 00:32:03.296] MANHEIM: She never would admit this,
+[00:32:05.376 --> 00:32:07.536] MANHEIM: but she has had a terrible time these last years.
+[00:32:08.816 --> 00:32:12.096] MANHEIM: Had we not been so isolated, she might have left me, and I never would have known.
+[00:32:12.736 --> 00:32:14.416] MANHEIM: At least, not right away.
+[00:32:15.696 --> 00:32:18.176] MANHEIM: Perhaps I'm not a man who should have a woman like her.
+[00:32:21.536 --> 00:32:22.496] MANHEIM: She deserves better.
+[00:32:26.416 --> 00:32:28.416] PICARD: You underestimate her.
+[00:32:28.416 --> 00:32:31.296] PICARD: I know, because I once did.
+[00:32:36.816 --> 00:32:46.496] DATA: In both cases, the time distortions occurred along the same continuum as a preview or a reprise of a specific point in time.
+[00:32:46.816 --> 00:32:49.136] PICARD: Where we are, where we were, and where we will be.
+[00:32:49.776 --> 00:32:52.336] PICARD: Data, I want this to be an away team of one.
+[00:32:52.976 --> 00:32:53.216] PICARD: You.
+[00:32:54.736 --> 00:32:56.656] PICARD: I don't think there's any reason to risk anyone else.
+[00:32:57.536 --> 00:32:58.416] DATA: It is reasonable, sir.
+[00:32:58.896 --> 00:33:01.056] DATA: After all, I am a machine and dispensable.
+[00:33:02.896 --> 00:33:04.496] PICARD: Indispensable is the appropriate word.
+[00:33:05.696 --> 00:33:10.496] PICARD: I think it should be only you because you seem more able to control the effects of the time distortion.
+[00:33:11.216 --> 00:33:11.856] DATA: Oh, I see, sir.
+[00:33:12.416 --> 00:33:13.216] DATA: That is quite true, sir.
+[00:33:14.016 --> 00:33:15.296] DATA: I see time as a constant,
+[00:33:15.833 --> 00:33:23.193] DATA: whereas humans perceive time as flexible. Hence the expression, times flies when you're having fun, which until now has always confused me.
+[00:33:24.633 --> 00:33:30.602] PICARD: Well, I want you to put a stitch in time and, er, save much more than nine.
+[00:33:30.602 --> 00:33:30.953] DATA: Sir?
+[00:33:31.913 --> 00:33:40.313] PICARD: If other members of the away team became disoriented, it could create additional problems and perhaps increase the danger.
+[00:33:41.353 --> 00:33:42.233] DATA: I will go immediately, sir.
+[00:33:44.473 --> 00:33:45.033] PICARD: Good luck, Data.
+[00:33:49.753 --> 00:33:50.233] LAFORGE: All right.
+[00:33:51.113 --> 00:33:53.593] LAFORGE: We have the coordinates exactly as the Professor specified.
+[00:34:15.033 --> 00:34:17.033] DATA: Enterprise.
+[00:34:17.033 --> 00:34:17.033] PICARD: Picard.
+[00:34:17.113 --> 00:34:18.313] DATA: I am proceeding to the lab, sir.
+[00:34:19.353 --> 00:34:21.193] PICARD: Maintain an open frequency, Mister Data.
+[00:34:21.513 --> 00:34:21.673] DATA: Aye,
+[00:34:25.033 --> 00:34:27.113] DATA: sir.
+[00:34:45.782 --> 00:34:46.262] PICARD: Mister
+[00:34:46.262 --> 00:34:46.982] PICARD: Data, what's going on?
+[00:34:48.022 --> 00:34:50.822] DATA: Doctor Manheim forgot to mention one of his security precautions, sir.
+[00:34:51.942 --> 00:34:53.382] DATA: I am proceeding into the laboratory.
+[00:35:25.382 --> 00:35:25.462] PICARD: Mister
+[00:35:25.462 --> 00:35:27.142] PICARD: Data, this channel will remain open.
+[00:35:27.542 --> 00:35:28.662] PICARD: Please continue to report.
+[00:35:33.542 --> 00:35:36.102] DATA: This appears to be the instrument Doctor Manheim described.
+[00:35:36.742 --> 00:35:38.822] DATA: It should confirm when the next time effect will occur.
+[00:35:39.542 --> 00:35:43.222] RIKER: Data? Did Manheim give you enough information to decipher the security code?
+[00:35:43.702 --> 00:35:44.582] DATA: I will know in a moment, sir.
+[00:35:48.022 --> 00:35:52.022] DATA: According to calculations, the next time effect will occur in one minute thirty seconds.
+[00:35:54.022 --> 00:35:54.982] PICARD: What's the next step, Mister
+[00:35:54.982 --> 00:35:55.302] PICARD: Data?
+[00:35:56.022 --> 00:36:00.662] DATA: I will need to add a specific amount of antimatter to rebalance and align the system.
+[00:36:00.982 --> 00:36:01.782] PICARD: Will that plug the hole?
+[00:36:02.662 --> 00:36:03.702] DATA: Theoretically, yes.
+[00:36:05.062 --> 00:36:07.702] DATA: In reality I do not know.
+[00:36:15.594 --> 00:36:21.834] DATA: When the effect hits, the forcefields will align, opening a clean straight path to the other dimension.
+[00:36:23.594 --> 00:36:28.234] DATA: Whatever the time distortion, I must add the antimatter at the appropriate moment.
+[00:36:29.514 --> 00:36:32.794] DATA: Geordi, if the Professor was right, I will need a twenty seven second countdown.
+[00:36:33.194 --> 00:36:33.914] LAFORGE: You got it, Data.
+[00:36:35.514 --> 00:36:41.754] DATA: Captain, I now have the antimatter and am moving towards the opening at the end of the lab.
+[00:36:44.314 --> 00:36:46.634] DATA: The next time distortion should occur within seconds.
+[00:36:48.234 --> 00:36:48.554] DATA: Geordi,
+[00:36:50.394 --> 00:36:51.754] DATA: begin countdown on my mark.
+[00:36:59.194 --> 00:37:05.674] DATA: Now.
+[00:37:05.754 --> 00:37:08.714] DATA 3: Captain, there appear to be three of us.
+[00:37:09.194 --> 00:37:11.754] DATA 1: Should I drop the antimatter or wait for one of you?
+[00:37:12.554 --> 00:37:14.394] DATA 3: Only one of us is at the correct time
+[00:37:17.034 --> 00:37:17.034] DATA 3: continuum.
+[00:37:17.514 --> 00:37:17.514] DATA 1: Which one?
+[00:37:17.514 --> 00:37:19.434] DATA 2: Me. It's me.
+[00:37:19.434 --> 00:37:23.194] GEORDI: Five, four, three, two, one.
+[00:37:28.154 --> 00:37:30.314] PICARD: Data, report.
+[00:37:30.314 --> 00:37:30.794] PICARD: Are you all right?
+[00:37:31.754 --> 00:37:31.994] DATA: Yes, sir.
+[00:37:32.874 --> 00:37:33.354] PICARD: Is it closed?
+[00:37:35.914 --> 00:37:37.034] DATA: It is well patched, sir.
+[00:37:37.674 --> 00:37:40.394] DATA: Closed indicates a permanent condition, which I cannot guarantee.
+[00:37:42.084 --> 00:37:42.884] PICARD: Patched is good enough.
+[00:37:43.524 --> 00:37:43.844] PICARD: Well done.
+[00:37:45.204 --> 00:37:46.004] PICARD: Beam back immediately.
+[00:37:48.484 --> 00:37:48.884] DATA: With pleasure, sir.
+[00:37:54.164 --> 00:37:55.444] CRUSHER: This is amazing.
+[00:37:55.764 --> 00:37:57.924] CRUSHER: All your readings are completely normal.
+[00:38:00.564 --> 00:38:01.204] MANHEIM: Where is my wife?
+[00:38:01.204 --> 00:38:01.764] MANHEIM: Is she all right?
+[00:38:01.924 --> 00:38:02.644] CRUSHER: She's right here.
+[00:38:03.844 --> 00:38:04.084] MANHEIM: Jenice.
+[00:38:04.724 --> 00:38:05.044] JENICE: Paul.
+[00:38:06.324 --> 00:38:07.444] MANHEIM: The effect has been reversed.
+[00:38:07.924 --> 00:38:08.804] MANHEIM: I can feel it.
+[00:38:09.684 --> 00:38:10.404] MANHEIM: We're safe.
+[00:38:11.604 --> 00:38:12.084] JENICE: How is he?
+[00:38:12.164 --> 00:38:13.124] CRUSHER: He needs rest.
+[00:38:13.284 --> 00:38:16.404] CRUSHER: There might be some residual effects, but other than that, he'll be all right.
+[00:38:18.164 --> 00:38:20.244] MANHEIM: I feel like I'm coming out of a long tunnel.
+[00:38:21.524 --> 00:38:21.924] MANHEIM: It's there.
+[00:38:23.604 --> 00:38:24.884] MANHEIM: Not at all like I thought it would be.
+[00:38:25.124 --> 00:38:25.764] MANHEIM: Different.
+[00:38:27.124 --> 00:38:27.844] JENICE: Describe it.
+[00:38:27.844 --> 00:38:29.044] MANHEIM: I can't,
+[00:38:29.684 --> 00:38:30.084] MANHEIM: not yet.
+[00:38:30.724 --> 00:38:35.924] MANHEIM: The only words that fit are too pale because the images are so vibrant.
+[00:38:36.884 --> 00:38:40.244] MANHEIM: It's not like anything anyone has ever experienced before.
+[00:38:41.124 --> 00:38:41.604] MANHEIM: There was, no, no,
+[00:38:41.844 --> 00:38:43.524] MANHEIM: there is
+[00:38:44.004 --> 00:38:45.364] MANHEIM: this kind of life.
+[00:38:46.004 --> 00:38:46.804] MANHEIM: Not like us.
+[00:38:46.804 --> 00:38:47.764] MANHEIM: Not like this.
+[00:38:49.524 --> 00:38:52.244] MANHEIM: What's the condition of my lab?
+[00:38:54.004 --> 00:38:55.364] PICARD: Intact, for the most part.
+[00:38:57.204 --> 00:38:58.564] JENICE: Don't tell me we're going back?
+[00:38:59.924 --> 00:39:01.924] MANHEIM: Oh, Jenice, we are so close.
+[00:39:01.924 --> 00:39:04.084] MANHEIM: We have learned so much to walk away.
+[00:39:04.724 --> 00:39:07.124] MANHEIM: Besides, we owe it to the others, our friends.
+[00:39:07.764 --> 00:39:12.244] MANHEIM: There have been so many sacrifices by so many good people.
+[00:39:15.995 --> 00:39:16.715] JENICE: We'll be going back.
+[00:39:18.235 --> 00:39:19.035] PICARD: Yes, I can see that.
+[00:39:20.635 --> 00:39:23.355] PICARD: I'm sure the Federation will want to help in any way that it can.
+[00:39:24.715 --> 00:39:25.035] MANHEIM: Thank you.
+[00:39:28.075 --> 00:39:30.155] MANHEIM: This time it will be different,
+[00:39:31.755 --> 00:39:32.315] MANHEIM: I promise.
+[00:39:34.555 --> 00:39:35.995] JENICE: It always is, my love.
+[00:39:36.795 --> 00:39:38.635] JENICE: You said my life would never be dull,
+[00:39:40.235 --> 00:39:41.355] JENICE: and it never has been.
+[00:39:43.355 --> 00:39:43.595] MANHEIM: Thank
+[00:39:53.355 --> 00:39:55.355] MANHEIM: you.
+[00:39:55.435 --> 00:39:56.795] TROI: Computer, this is Counsellor Troi.
+[00:39:56.875 --> 00:39:57.835] TROI: Request access.
+[00:39:57.915 --> 00:39:59.915] COMPUTER: Do you wish to terminate the current programme?
+[00:39:59.995 --> 00:40:01.195] TROI: No, continue the programme.
+[00:40:01.515 --> 00:40:02.395] COMPUTER: Enter when ready.
+[00:40:04.875 --> 00:40:06.475] TROI: The Captain is waiting for you inside.
+[00:40:13.115 --> 00:40:14.075] JENICE: How is this possible?
+[00:40:15.035 --> 00:40:15.915] JENICE: It's Paris.
+[00:40:17.755 --> 00:40:18.395] JENICE: Unbelievable.
+[00:40:19.995 --> 00:40:23.115] EDOUARD: Madame, this way.
+[00:40:23.115 --> 00:40:24.955] EDOUARD: The Captain is waiting for you.
+[00:40:24.955 --> 00:40:25.115] JENICE: This
+[00:40:28.635 --> 00:40:29.515] JENICE: is so real.
+[00:40:30.155 --> 00:40:30.715] EDOUARD: Bien sur.
+[00:40:31.195 --> 00:40:31.675] EDOUARD: Pourquoi
+[00:40:34.795 --> 00:40:35.115] EDOUARD: pas?
+[00:40:35.115 --> 00:40:37.675] JENICE: Jean-Luc, don't tell me how you did it.
+[00:40:37.675 --> 00:40:38.235] JENICE: I don't care.
+[00:40:40.075 --> 00:40:41.035] JENICE: It's perfect.
+[00:40:42.795 --> 00:40:44.155] JENICE: It's as if we were really there.
+[00:40:49.641 --> 00:40:51.881] PICARD: I wanted to say goodbye properly this time.
+[00:40:59.401 --> 00:41:00.521] PICARD: I shall always picture you here.
+[00:41:08.041 --> 00:41:10.521] JENICE: I expect you to always come charging to my rescue.
+[00:41:12.041 --> 00:41:12.681] PICARD: I'll do my best.
+[00:41:16.521 --> 00:41:17.321] JENICE: Goodbye, Jean-Luc.
+[00:41:19.561 --> 00:41:19.801] JENICE: Be well.
+[00:41:21.881 --> 00:41:22.121] PICARD: And you.
+[00:41:23.481 --> 00:41:24.681] JENICE: Thank you for Paris.
+[00:41:32.681 --> 00:41:37.001] JENICE: Well, so much for my dramatically romantic exit.
+[00:42:02.921 --> 00:42:03.561] PICARD: Is anything wrong?
+[00:42:04.121 --> 00:42:04.441] RIKER: No, sir.
+[00:42:06.121 --> 00:42:07.481] PICARD: Then set course for Sarona Eight.
+[00:42:09.561 --> 00:42:12.441] PICARD: As I remember we were on our way for some much needed shore leave.
+[00:42:13.891 --> 00:42:15.171] LAFORGE: Course set and laid in, sir.
+[00:42:15.891 --> 00:42:16.451] PICARD: Warp five.
+[00:42:18.131 --> 00:42:18.531] PICARD: Engage.
+[00:42:20.131 --> 00:42:22.291] RIKER: I've only been there once, but they've got this great club.
+[00:42:23.011 --> 00:42:23.971] RIKER: I don't remember the name of it.
+[00:42:23.971 --> 00:42:25.411] RIKER: They serve these blue concoctions
+[00:42:26.051 --> 00:42:28.291] TROI: It's across the square from the Zanza Men's Dance Palace.
+[00:42:30.851 --> 00:42:32.371] PICARD: It's called the Blue Parrot Cafe, and
+[00:42:33.251 --> 00:42:33.971] PICARD: you're buying.
+[00:42:39.000 --> 00:43:03.000] [music]
+[00:43:04.000 --> 00:43:33.000] [music]

@@ -1,0 +1,677 @@
+[00:00:05.280 --> 00:00:08.960] LOG: Captain's log, Stardate 41209.2.
+[00:00:09.600 --> 00:00:19.360] LOG: We are running at warp seven to rendezvous with the science vessel SS Tsiolkovsky, which has been routinely monitoring the collapse of a red super giant star into a white dwarf.
+[00:00:20.080 --> 00:00:27.360] LOG: What has brought us here is a series of strange messages indicating something has gone wrong aboard the research vessel.
+[00:00:31.760 --> 00:00:32.880] DATA: SS Tsiolkovsky,
+[00:00:33.600 --> 00:00:34.560] DATA: repeat your message.
+[00:00:35.360 --> 00:00:36.800] WOMAN: Well hello, Enterprise.
+[00:00:37.040 --> 00:00:37.040] WOMAN: Welcome.
+[00:00:38.240 --> 00:00:42.640] WOMAN: I hope you have a lot of pretty boys on board, because i'm willing and waiting.
+[00:00:43.360 --> 00:00:46.880] WOMAN: In fact, we're going to have a real blow-out here.
+[00:00:47.030 --> 00:00:48.030] MAN: Do it!
+[00:00:50.419 --> 00:00:51.819] MAN: Yeah, go ahead.
+[00:00:55.501 --> 00:00:56.501] MAN: Do it!
+[00:00:59.040 --> 00:01:01.920] DATA: Captain, what we just heard is
+[00:01:03.840 --> 00:01:04.800] DATA: impossible.
+[00:01:04.800 --> 00:01:04.880] PICARD: Report.
+[00:01:04.960 --> 00:01:09.280] DATA: I believe that last sound we heard was an emergency hatch being blown.
+[00:01:10.400 --> 00:01:10.720] PICARD: Are you certain?
+[00:01:11.520 --> 00:01:12.080] PICARD: Yes, of course you are.
+[00:01:14.240 --> 00:01:15.120] RIKER: Data, Geordi, Tasha.
+[00:01:15.360 --> 00:01:15.680] WORF: Sensor
+[00:01:19.040 --> 00:01:21.360] WORF: scan now reveals no life signs aboard, Captain.
+[00:01:46.837 --> 00:01:49.557] RIKER: Cover the ship as planned.
+[00:01:49.877 --> 00:01:50.197] RIKER: Move out.
+[00:02:09.877 --> 00:02:13.557] DATA: Indications of what humans would call a wild party?
+[00:02:19.077 --> 00:02:19.477] RIKER: Their Bridge.
+[00:02:20.277 --> 00:02:23.717] RIKER: If this thing works, be sure to record everything.
+[00:02:28.197 --> 00:02:28.197] RIKER: You were
+[00:02:31.077 --> 00:02:31.237] RIKER: right.
+[00:02:32.037 --> 00:02:32.837] RIKER: Somebody blew the hatch.
+[00:02:34.117 --> 00:02:35.237] RIKER: They were all sucked out into space.
+[00:02:36.357 --> 00:02:36.837] DATA: Correction, sir,
+[00:02:37.397 --> 00:02:38.117] DATA: that's blown out.
+[00:02:39.317 --> 00:02:39.797] RIKER: Thank you, Data.
+[00:02:40.757 --> 00:02:41.637] DATA: A common mistake, sir,
+[00:02:42.917 --> 00:02:45.477] TASHA: Commander Riker, Lieutenant Yar. Location Engineering.
+[00:02:45.877 --> 00:02:46.837] TASHA: Ten people here, sir,
+[00:02:46.917 --> 00:02:47.237] TASHA: all frozen.
+[00:02:48.357 --> 00:02:49.157] TASHA: No vital signs.
+[00:02:49.477 --> 00:02:49.797] RIKER: Frozen?
+[00:02:49.797 --> 00:02:50.037] RIKER: How?
+[00:02:50.517 --> 00:02:54.837] TASHA: It looks like someone has been playing with the environmental controls, sir.
+[00:02:55.237 --> 00:02:57.237] TASHA: Just let all the heat bleed away into space.
+[00:03:02.700 --> 00:03:05.260] LAFORGE: Sir, Lieutenant La Forge in the crew quarters.
+[00:03:06.380 --> 00:03:07.180] LAFORGE: Something in here.
+[00:03:36.620 --> 00:03:39.980] RIKER: Riker to Captain, I have a report for you, sir.
+[00:03:41.100 --> 00:03:41.500] PICARD: Picard here.
+[00:03:43.020 --> 00:03:43.500] RIKER: They're all dead.
+[00:03:44.780 --> 00:03:46.700] RIKER: Apparently some of them were apparently blown out the emergency hatches.
+[00:03:46.850 --> 00:03:47.450] PICARD: But
+[00:03:48.300 --> 00:03:50.140] PICARD: there were eighty people on that ship, Number One.
+[00:03:51.100 --> 00:03:51.420] RIKER: Yes sir.
+[00:03:52.460 --> 00:03:55.820] RIKER: As I said, all dead.
+[00:04:18.060 --> 00:04:20.620] PICARD: Space, the final frontier.
+[00:04:22.540 --> 00:04:24.620] PICARD: These are the voyages of the starship Enterprise.
+[00:04:24.894 --> 00:04:25.374] PICARD: Prize.
+[00:04:26.494 --> 00:04:30.254] PICARD: Its continuing mission to explore strange new worlds,
+[00:04:32.014 --> 00:04:34.814] PICARD: to seek out new life and new civilizations,
+[00:04:36.414 --> 00:04:39.294] PICARD: to boldly go where no one has gone before.
+[00:05:39.294 --> 00:05:40.574] LOG: Captain's log, supplemental.
+[00:05:40.974 --> 00:05:45.294] LOG: We are downloading the research information gathered on the collapsing star nearby.
+[00:05:46.014 --> 00:05:53.854] LOG: I am concerned at being in such close orbit, but the Tsiolkovsky's research records will no doubt predict the time of the star's final collapse.
+[00:05:56.626 --> 00:06:00.066] CRUSHER: I can't find anything unusual in any of the tricorder readings they've sent over, Captain.
+[00:06:01.106 --> 00:06:02.066] PICARD: Give me a theory, Doctor.
+[00:06:02.306 --> 00:06:02.546] PICARD: Anything.
+[00:06:04.466 --> 00:06:07.346] PICARD: Madness? Mass hysteria? Delusion?
+[00:06:09.346 --> 00:06:10.466] TROI: Any or all, Captain.
+[00:06:13.266 --> 00:06:13.666] PICARD: All right.
+[00:06:13.906 --> 00:06:15.506] PICARD: Let's bring the away team back.
+[00:06:15.746 --> 00:06:22.226] PICARD: Set the transporter to maximum decontamination, and then full examination and observation when they're here.
+[00:06:30.786 --> 00:06:33.906] CRUSHER: If you were any more perfect, Data, I'd write you up in a Starfleet medical textbook.
+[00:06:34.786 --> 00:06:37.426] DATA: I am already listed in several bio-mechanical texts, Doctor.
+[00:06:37.906 --> 00:06:39.666] CRUSHER: Yes of course.
+[00:06:40.466 --> 00:06:41.346] CRUSHER: You're next, Lieutenant.
+[00:06:42.226 --> 00:06:44.226] CRUSHER: Normal
+[00:06:56.866 --> 00:06:57.826] CRUSHER: all across.
+[00:07:00.626 --> 00:07:03.506] CRUSHER: Except, why are you perspiring, Lieutenant?
+[00:07:03.826 --> 00:07:06.146] LAFORGE: I suppose because you have it too hot in here.
+[00:07:06.386 --> 00:07:07.106] LAFORGE: What else would it be?
+[00:07:07.256 --> 00:07:07.856] RIKER: That
+[00:07:08.786 --> 00:07:09.746] RIKER: doesn't sound like you, Geordi.
+[00:07:11.106 --> 00:07:12.226] LAFORGE: Well, maybe it's not.
+[00:07:12.226 --> 00:07:13.986] LAFORGE: Maybe she threw her voice.
+[00:07:16.786 --> 00:07:18.466] LAFORGE: Hey, it was a joke.
+[00:07:19.026 --> 00:07:20.706] CRUSHER: Of course, but
+[00:07:20.868 --> 00:07:23.828] CRUSHER: I would like to run one or two more tests on you, Lieutenant. :
+[00:07:29.588 --> 00:07:30.228] CRUSHER: Sickbay to Bridge,
+[00:07:31.188 --> 00:07:31.748] PICARD: Picard here.
+[00:07:31.748 --> 00:07:32.388] PICARD: Go ahead, Doctor. :
+[00:07:32.948 --> 00:07:35.748] CRUSHER: I'm confining Lieutenant La Forge to Sickbay until further notice.
+[00:07:36.468 --> 00:07:37.748] PICARD: Do we have a problem, Doctor?
+[00:07:38.228 --> 00:07:39.028] CRUSHER: I don't know yet.
+[00:07:42.548 --> 00:07:45.748] RIKER: Data, I need help in locating some library computer information.
+[00:07:46.148 --> 00:07:46.788] DATA: Specifics, sir?
+[00:07:47.348 --> 00:07:52.148] RIKER: All I have is a vague memory of reading somewhere about someone taking a shower in his or her clothing.
+[00:07:52.868 --> 00:07:54.868] DATA: Ah. The body Geordi discovered.
+[00:07:55.188 --> 00:07:56.468] RIKER: I believe it may have happened before.
+[00:07:57.748 --> 00:07:59.668] DATA: To someone, somewhere.
+[00:08:00.068 --> 00:08:02.788] RIKER: This ought to be easy for someone written up in bio-mechanical texts.
+[00:08:06.388 --> 00:08:07.188] DATA: About that, sir.
+[00:08:08.308 --> 00:08:09.988] DATA: Did the Doctor believe I was boasting?
+[00:08:10.548 --> 00:08:10.868] RIKER: Probably.
+[00:08:12.148 --> 00:08:12.948] RIKER: This may take some time.
+[00:08:13.428 --> 00:08:14.548] DATA: At least several hours.
+[00:08:15.188 --> 00:08:16.788] DATA: But what I said was a statement of fact.
+[00:08:17.588 --> 00:08:18.468] DATA: Perhaps she will look it up.
+[00:08:19.268 --> 00:08:20.068] RIKER: You can depend on it.
+[00:09:25.518 --> 00:09:25.998] CRUSHER: Geordi!
+[00:09:25.998 --> 00:09:28.878] CRUSHER: Security. Lieutenant La Forge just left Sickbay while I was in my office.
+[00:09:29.278 --> 00:09:30.638] CRUSHER: He doesn't have his communicator.
+[00:09:30.638 --> 00:09:32.558] CRUSHER: It is very important that we find him.
+[00:09:33.678 --> 00:09:34.638] TASHA: Security team alert,
+[00:09:34.638 --> 00:09:35.758] TASHA: pick up Lieutenant La Forge.
+[00:09:35.758 --> 00:09:37.038] TASHA: He just left Sickbay moments ago.
+[00:09:37.518 --> 00:09:38.798] TASHA: Captain, anything further?
+[00:09:39.278 --> 00:09:39.838] PICARD: Affirmative.
+[00:09:40.558 --> 00:09:42.078] PICARD: Make it a ship-wide search, Lieutenant.
+[00:10:06.158 --> 00:10:11.198] WESLEY: It's a model of the same kind of tractor beam our ship uses with a few ideas of my own added.
+[00:10:11.358 --> 00:10:12.878] LAFORGE: So that's your science project, huh?
+[00:10:13.118 --> 00:10:14.398] LAFORGE: Wes, you're really something.
+[00:10:15.312 --> 00:10:18.992] WESLEY: And since the Captain won't let me on the Bridge, I use this to
+[00:10:19.472 --> 00:10:20.192] WESLEY: imagine I'm there.
+[00:10:22.032 --> 00:10:23.152] PICARD: Take the helm, Mister Crusher.
+[00:10:23.712 --> 00:10:26.912] PICARD: Set a course for thirty seven mark one hundred eighty. Warp six.
+[00:10:27.792 --> 00:10:29.152] LAFORGE: It's the Captain's voice.
+[00:10:29.392 --> 00:10:31.392] WESLEY: It's pieced together from words he's used on the intercom.
+[00:10:31.792 --> 00:10:34.832] WESLEY: With this, I can pretend he's ordering me to take the Enterprise anywhere.
+[00:10:34.832 --> 00:10:35.952] WESLEY: And listen to this,
+[00:10:36.912 --> 00:10:38.272] PICARD: Chief Engineer, report to the Bridge.
+[00:10:39.152 --> 00:10:40.592] PICARD: Commander Riker, report to the Bridge.
+[00:10:41.472 --> 00:10:43.072] PICARD: Doctor Crusher, report to the Bridge.
+[00:10:44.672 --> 00:10:45.152] WESLEY: What do you think?
+[00:10:45.312 --> 00:10:47.472] LAFORGE: I think the Captain's lucky you're on his side.
+[00:10:48.432 --> 00:10:50.112] WESLEY: But he still won't let me on the Bridge.
+[00:10:50.592 --> 00:10:53.232] WESLEY: And there's nothing there I don't understand.
+[00:10:53.632 --> 00:10:56.272] LAFORGE: I wish I understood myself that well.
+[00:10:58.352 --> 00:10:58.912] WESLEY: Are you okay?
+[00:10:59.952 --> 00:11:00.272] LAFORGE: No,
+[00:11:00.672 --> 00:11:04.672] LAFORGE: Suddenly I seem to be burning up inside.
+[00:11:04.832 --> 00:11:05.312] LAFORGE: It's
+[00:11:07.232 --> 00:11:08.032] LAFORGE: hot in
+[00:11:11.072 --> 00:11:11.072] LAFORGE: here.
+[00:11:18.432 --> 00:11:18.832] TASHA: Geordi?
+[00:11:25.152 --> 00:11:25.152] TASHA: Geordi?
+[00:11:28.592 --> 00:11:29.632] TASHA: Lieutenant Yar in the Observation lounge.
+[00:11:29.632 --> 00:11:30.752] TASHA: Send a team here now.
+[00:11:31.872 --> 00:11:33.232] TASHA: Medical's been worried about you.
+[00:11:33.312 --> 00:11:34.112] LAFORGE: Help me.
+[00:11:35.392 --> 00:11:38.272] LAFORGE: Help me to not to give in to the wild things coming into my mind,
+[00:11:39.712 --> 00:11:41.072] TASHA: Geordi, my job is security,
+[00:11:41.152 --> 00:11:42.192] LAFORGE: Tasha, please.
+[00:11:43.647 --> 00:11:45.967] TASHA: Alright.
+[00:11:47.967 --> 00:11:48.207] TASHA: Alright,
+[00:11:48.207 --> 00:11:50.047] TASHA: helping is more important. Geordi,
+[00:11:50.047 --> 00:11:50.847] TASHA: how can I help you?
+[00:11:51.247 --> 00:11:53.967] LAFORGE: Help me to see. Like you do.
+[00:11:55.327 --> 00:11:57.407] TASHA: But you already see better than I can.
+[00:11:57.727 --> 00:11:58.447] LAFORGE: I see more.
+[00:12:01.887 --> 00:12:04.207] LAFORGE: But more isn't better.
+[00:12:05.327 --> 00:12:05.887] TASHA: Geordi, please put
+[00:12:05.967 --> 00:12:11.647] LAFORGE: I want to see in shallow, dim, beautiful human
+[00:12:13.487 --> 00:12:15.487] LAFORGE: ways.
+[00:12:20.207 --> 00:12:21.247] TASHA: We'll talk about it, Geordi.
+[00:12:23.567 --> 00:12:25.247] TASHA: Right now I'm going to take you to Sickbay.
+[00:12:25.247 --> 00:12:26.847] TASHA: All right?
+[00:12:26.997 --> 00:12:27.597] LAFORGE: Yeah.
+[00:12:30.687 --> 00:12:30.767] TASHA: Okay.
+[00:12:41.887 --> 00:12:43.887] TASHA: Good.
+[00:12:43.887 --> 00:12:47.327] TASHA: And then we got him down to Sickbay so Doctor Crusher could examine him.
+[00:12:49.167 --> 00:12:49.887] PICARD: He wasn't violent?
+[00:12:51.487 --> 00:12:51.807] TASHA: No, sir.
+[00:12:53.007 --> 00:12:53.967] TASHA: He was very upset.
+[00:12:54.447 --> 00:12:56.367] TASHA: He kept talking about wanting normal vision.
+[00:12:59.327 --> 00:12:59.967] PICARD: Thank you, Lieutenant.
+[00:13:14.607 --> 00:13:17.087] CRUSHER: According to our medical readouts, there's still nothing wrong with him.
+[00:13:17.628 --> 00:13:20.508] CRUSHER: He looks like he's running a temperature but every instrument we have says he's not.
+[00:13:20.828 --> 00:13:23.228] PICARD: Doctor, every person on that ship over there died.
+[00:13:23.308 --> 00:13:28.268] PICARD: Is there any chance that whatever did it is loose on my ship?
+[00:13:28.748 --> 00:13:30.748] CRUSHER: If you mean a disease, sir, I'd say there's no chance of it.
+[00:13:31.308 --> 00:13:32.748] CRUSHER: We used full decontamination,
+[00:13:32.988 --> 00:13:34.908] CRUSHER: we examined every team member very carefully,
+[00:13:35.148 --> 00:13:38.508] PICARD: The entire crew somehow managed to kill themselves, Doctor.
+[00:13:39.708 --> 00:13:41.548] PICARD: If it's not a disease, what else could have made them do that?
+[00:13:42.268 --> 00:13:45.468] CRUSHER: The obvious alternatives would be in areas of insanity and severe emotional upset.
+[00:13:46.588 --> 00:13:49.708] CRUSHER: Troi, do you feel anything unusual in the lieutenant?
+[00:13:50.268 --> 00:13:53.388] PICARD: Security just told me that he was longing for normal eyesight. That's
+[00:13:53.788 --> 00:13:54.988] PICARD: a sudden yearning for that.
+[00:13:55.948 --> 00:14:00.348] TROI: Since his records show no previous mention of that, the fact that it's happened now could be important.
+[00:14:00.988 --> 00:14:04.668] TROI: But all I sense from him is confusion.
+[00:14:05.388 --> 00:14:07.708] TROI: If I didn't know better, I'd say he was intoxicated.
+[00:14:08.108 --> 00:14:09.548] CRUSHER: Our tests would have shown that.
+[00:14:10.028 --> 00:14:13.388] CRUSHER: Also any other signs of drugs, hallucinogens or other contaminants.
+[00:14:28.028 --> 00:14:29.468] DATA: Can you provide more information, sir?
+[00:14:30.748 --> 00:14:33.419] DATA: Seeking an instance of someone showering in his or her clothing is
+[00:14:33.419 --> 00:14:35.868] RIKER: I know. It's like looking for a needle in a haystack.
+[00:14:38.908 --> 00:14:41.308] DATA: Why should anyone wish to expend his time in such a search?
+[00:14:41.308 --> 00:14:41.948] RIKER: Correction, Data,
+[00:14:41.948 --> 00:14:43.708] RIKER: I should have said proverbial needle in a haystack.
+[00:14:44.770 --> 00:14:49.330] DATA: Ah, a human proverb! As in folklore, or an historical allusion, or tribal memories
+[00:14:49.330 --> 00:14:49.730] RIKER: Historical.
+[00:14:49.970 --> 00:14:50.290] RIKER: That's it.
+[00:14:50.770 --> 00:14:53.730] RIKER: I remember I was reading a history of all the past starships named Enterprise.
+[00:14:54.530 --> 00:14:59.090] DATA: Enterprise history. Aberrant behavior. Medical cross reference,
+[00:14:59.250 --> 00:15:01.490] RIKER: Captain, I believe we've have the answer to what happened over there.
+[00:15:01.640 --> 00:15:02.240] PICARD: The
+[00:15:07.250 --> 00:15:10.050] PICARD: Constitution class Enterprise, Captain James T.
+[00:15:10.210 --> 00:15:10.930] PICARD: Kirk commanding.
+[00:15:11.330 --> 00:15:12.530] RIKER: Similar conditions.
+[00:15:13.090 --> 00:15:16.610] RIKER: They were monitoring a planet that was breaking up, not a collapsing star
+[00:15:16.610 --> 00:15:21.013] RIKER: as in this case. But there were the same huge shifts in gravity,
+[00:15:21.013 --> 00:15:26.770] PICARD: Which somehow resulted in complex strings of water molecules which acquired carbon from the body and acted
+[00:15:28.530 --> 00:15:30.450] PICARD: on the brain like alcohol.
+[00:15:33.010 --> 00:15:34.770] PICARD: Data, download this information to Medical immediately.
+[00:15:35.010 --> 00:15:35.730] DATA: Aye,
+[00:15:36.050 --> 00:15:36.530] DATA: sir. Downloading.
+[00:15:37.650 --> 00:15:38.050] PICARD: Fascinating!
+[00:15:39.330 --> 00:15:42.079] PICARD: The entire crew going out of control,
+[00:15:42.079 --> 00:15:43.650] RIKER: Like intoxication, but worse.
+[00:15:44.850 --> 00:15:46.530] RIKER: Judgment almost completely impaired,
+[00:15:47.650 --> 00:15:50.210] PICARD: Until they found this formula, barely in time.
+[00:15:52.850 --> 00:15:53.810] PICARD: Picard to Doctor Crusher,
+[00:15:53.810 --> 00:15:54.210] PICARD: come in.
+[00:15:55.490 --> 00:15:56.050] CRUSHER: This is Crusher.
+[00:15:56.050 --> 00:15:56.690] CRUSHER: Go ahead Captain.
+[00:15:57.090 --> 00:15:58.130] PICARD: You can relax, Doctor.
+[00:15:58.130 --> 00:16:02.850] PICARD: The answer to all of this is feeding into your medical banks right now. Including a cure.
+[00:16:03.490 --> 00:16:04.370] CRUSHER: Are you certain, Captain?
+[00:16:05.250 --> 00:16:05.890] PICARD: Absolutely.
+[00:16:15.307 --> 00:16:16.667] TROI: Tasha?
+[00:16:19.947 --> 00:16:20.587] TROI: What are you doing?
+[00:16:21.627 --> 00:16:22.507] TASHA: I need your advice.
+[00:16:23.387 --> 00:16:24.987] TASHA: That's why I came to your quarters.
+[00:16:25.867 --> 00:16:26.767] TROI: Of course. Anything I can do
+[00:16:26.767 --> 00:16:27.067] TASHA: On clothes.
+[00:16:27.147 --> 00:16:34.027] TASHA: You always wear such beautiful clothes off duty. And your hair always looks so nice.
+[00:16:35.067 --> 00:16:36.347] TASHA: I want to change my image.
+[00:16:36.907 --> 00:16:40.827] TASHA: What do you think about this? Or this one?
+[00:16:44.107 --> 00:16:46.347] TROI: It's not for you. Tasha,
+[00:16:47.307 --> 00:16:48.827] TROI: I feel you're very uncertain.
+[00:16:50.427 --> 00:16:52.027] TROI: Yhat you're fighting something.
+[00:16:53.467 --> 00:16:53.787] TROI: What is it?
+[00:16:56.187 --> 00:16:56.667] TASHA: Never mind.
+[00:16:58.267 --> 00:16:59.547] TASHA: I'll find what I need myself.
+[00:17:01.307 --> 00:17:02.107] TASHA: Ship's stores will
+[00:17:03.707 --> 00:17:03.707] TASHA: have it.
+[00:17:07.547 --> 00:17:09.467] TROI: Tasha? Tasha, wait.
+[00:17:12.427 --> 00:17:14.027] TROI: Troi to Captain Picard.
+[00:17:14.027 --> 00:17:14.587] PICARD: Picard here.
+[00:17:14.987 --> 00:17:18.187] TROI: Sir, I think Tasha's been infected too.
+[00:17:18.267 --> 00:17:19.307] TROI: She just left my quarters,
+[00:17:20.827 --> 00:17:22.667] PICARD: Counsellor, it's not actually an infection.
+[00:17:23.067 --> 00:17:23.547] TROI: Yes, sir.
+[00:17:23.627 --> 00:17:25.227] TROI: It's more like an intoxication.
+[00:17:26.107 --> 00:17:28.747] TROI: Nut whatever it is, she's got it.
+[00:17:30.107 --> 00:17:30.827] PICARD: Thank you, Counsellor.
+[00:17:33.787 --> 00:17:37.627] PICARD: Number One, it seems our Security Chief has the equivalent of a snootful.
+[00:17:39.147 --> 00:17:39.787] DATA: Inquiry, sir.
+[00:17:41.866 --> 00:17:42.426] DATA: Snootful?
+[00:17:45.546 --> 00:17:45.866] PICARD: Forget it.
+[00:17:56.666 --> 00:17:57.146] WESLEY: Hey, Mom,
+[00:17:57.146 --> 00:17:57.706] WESLEY: look what I can do.
+[00:18:08.906 --> 00:18:12.026] WESLEY: I've been able to widen and strengthen the beam, just like I told you last night.
+[00:18:12.186 --> 00:18:13.226] CRUSHER: Do me a favour, Wes.
+[00:18:13.946 --> 00:18:15.306] CRUSHER: There's something happening on this ship.
+[00:18:15.946 --> 00:18:18.586] CRUSHER: Just to be safe, I'd like you to stay in our quarters until it's solved.
+[00:18:19.146 --> 00:18:19.626] WESLEY: Sure, Mom,
+[00:18:19.786 --> 00:18:19.946] WESLEY: sure.
+[00:18:21.226 --> 00:18:22.266] WESLEY: Your wish is my command.
+[00:18:22.346 --> 00:18:23.146] CRUSHER: Now, Wes.
+[00:18:24.266 --> 00:18:24.666] WESLEY: Okay,
+[00:18:25.226 --> 00:18:26.906] WESLEY: but you could be stunting my emotional growth,
+[00:18:26.906 --> 00:18:27.626] WESLEY: you realise that.
+[00:18:28.746 --> 00:18:29.866] WESLEY: Why is it so hot in here, anyway?
+[00:18:30.506 --> 00:18:31.386] PICARD: Picard to Crusher.
+[00:18:35.386 --> 00:18:35.946] CRUSHER: Crusher here.
+[00:18:36.506 --> 00:18:37.946] PICARD: Have you made a test injection yet?
+[00:18:38.586 --> 00:18:41.146] PICARD: We're getting indications that this condition is spreading.
+[00:18:42.026 --> 00:18:43.066] CRUSHER: No test yet, Captain,
+[00:18:43.626 --> 00:18:44.506] CRUSHER: but very soon.
+[00:18:44.506 --> 00:18:44.586] DATA: Captain,
+[00:19:06.986 --> 00:19:12.506] DATA: another forty-one minutes will see the information from the Tsiolkovsky downloaded to us.
+[00:19:12.826 --> 00:19:13.466] PICARD: Why so slow?
+[00:19:16.519 --> 00:19:17.079] DATA: Slow, sir?
+[00:19:17.959 --> 00:19:20.519] DATA: The Tsiolkovsky has been eight months in accumulating it.
+[00:19:21.399 --> 00:19:22.839] PICARD: How much danger from that star?
+[00:19:23.239 --> 00:19:23.879] PICARD: Worse case.
+[00:19:25.879 --> 00:19:26.919] DATA: Like a full collapse, sir?
+[00:19:27.799 --> 00:19:31.479] DATA: Any stellar material it threw this way we could still outrun on half impulse power.
+[00:19:41.399 --> 00:19:42.599] PICARD: Picard to Engineering.
+[00:19:43.239 --> 00:19:44.919] PICARD: Chief Engineer report to the Bridge.
+[00:19:54.199 --> 00:19:56.919] PICARD: Assistant Chief Engineer Shimoda, report to Medical.
+[00:20:00.759 --> 00:20:01.159] WESLEY: Hi, Jim.
+[00:20:01.719 --> 00:20:03.959] WESLEY: Was that the Captain sending you to Medical?
+[00:20:04.279 --> 00:20:05.639] SHIMODA: Which would leave no one on duty here.
+[00:20:06.359 --> 00:20:07.879] SHIMODA: The Chief was just summoned to the Bridge.
+[00:20:08.519 --> 00:20:09.159] WESLEY: What about me?
+[00:20:09.719 --> 00:20:11.479] WESLEY: I could call the Chief on the Bridge if anything happened.
+[00:20:25.879 --> 00:20:26.759] MACDOUGAL: Reporting as ordered, sir.
+[00:20:28.279 --> 00:20:28.519] PICARD: What?
+[00:20:29.799 --> 00:20:31.719] MACDOUGAL: You ordered me to report to the Bridge, sir.
+[00:20:32.359 --> 00:20:33.159] PICARD: I did no such thing.
+[00:20:33.719 --> 00:20:36.439] PICARD: I want you down in the Engine room just in case we need to move out of here.
+[00:20:36.999 --> 00:20:40.359] PICARD: Attention all decks, all divisions.
+[00:20:40.679 --> 00:20:45.959] PICARD: Effective immediately, I have handed over control of this vessel to Acting Captain Wesley Crusher.
+[00:20:48.015 --> 00:20:49.135] PICARD: Acting Captain?
+[00:20:49.375 --> 00:20:50.655] WESLEY: Thank you, Captain Picard,
+[00:20:51.055 --> 00:20:51.455] WESLEY: thank you.
+[00:20:51.855 --> 00:20:54.735] WESLEY: And with that order dawns a brave new day for the Enterprise.
+[00:21:01.295 --> 00:21:04.735] LOG: Captain's log, Stardate 41209.3.
+[00:21:05.295 --> 00:21:15.775] LOG: The strange contaminant that led to the deaths of the Tsiolkovsky crew is now aboard the Enterprise and our Engineering section has been commandeered by young Wesley Crusher.
+[00:21:16.255 --> 00:21:24.415] WESLEY: And henceforth, a dessert course shall precede and follow every meal. Including breakfast.
+[00:21:24.895 --> 00:21:26.015] CREWMAN: Hurray for the acting Captain!
+[00:21:27.855 --> 00:21:30.895] SHIMODA: Never got as far as Sickbay, Wes.
+[00:21:31.615 --> 00:21:32.895] SHIMODA: I feel too good for that.
+[00:21:40.735 --> 00:21:41.695] SHIMODA: Incredible.
+[00:21:41.695 --> 00:21:43.375] SHIMODA: How did you do that?
+[00:21:44.415 --> 00:21:46.255] WESLEY: Hooked my model tractor beam into ship's power.
+[00:21:46.735 --> 00:21:47.935] WESLEY: Now its a repulser beam too.
+[00:21:49.215 --> 00:21:49.615] WESLEY: Want in?
+[00:21:51.935 --> 00:21:53.775] SHIMODA: Swear to be faithful to you, Captain.
+[00:21:56.495 --> 00:21:57.695] PICARD: Number
+[00:22:05.055 --> 00:22:08.975] PICARD: One, MacDougal, get that boy out of Engineering.
+[00:22:12.255 --> 00:22:12.575] WORF: Sir,
+[00:22:12.575 --> 00:22:16.495] WORF: I'm getting very strange reports from all decks.
+[00:22:16.970 --> 00:22:17.572] PICARD: Such as?
+[00:22:17.572 --> 00:22:22.090] WORF: Such as the ship's Training Division ordering all officers to attend a lecture on metaphysics.
+[00:22:22.490 --> 00:22:23.050] PICARD: Metaphysics?
+[00:22:23.930 --> 00:22:24.570] DATA: Confirmed, sir.
+[00:22:26.970 --> 00:22:31.210] DATA: And there was a rather peculiar limerick being delivered by someone in the Shuttlecraft bay.
+[00:22:32.330 --> 00:22:33.770] DATA: I am not sure I understand it.
+[00:22:35.930 --> 00:22:40.170] DATA: There was a young lady from Venus whose body was shaped like
+[00:22:40.170 --> 00:22:43.210] PICARD: Captain to Security, come in!
+[00:22:43.210 --> 00:22:44.090] DATA: Did I say something wrong?
+[00:22:44.970 --> 00:22:46.410] WORF: I don't understand their humour either.
+[00:22:47.210 --> 00:22:48.010] SECURITY: Yeah, Captain?
+[00:22:48.010 --> 00:22:49.130] PICARD: Where is my security chief!
+[00:22:49.290 --> 00:22:50.410] PICARD: Get me Lieutenant Yar.
+[00:22:50.730 --> 00:22:52.650] SECURITY: Keep your britches on.
+[00:22:52.650 --> 00:22:53.610] TASHA: Captain Picard.
+[00:22:53.850 --> 00:22:55.290] PICARD: Lieutenant, where are you?
+[00:22:55.770 --> 00:23:02.250] TASHA: I'm in my quarters, and I'm pretty busy right at the moment, Jean-Luc.
+[00:23:05.450 --> 00:23:06.410] PICARD: All right, Lieutenant,
+[00:23:06.970 --> 00:23:08.090] PICARD: you just stay right there.
+[00:23:08.970 --> 00:23:10.170] PICARD: Data, please go to Lieutenant Yar and
+[00:23:10.250 --> 00:23:11.050] PICARD: take her down to Sickbay.
+[00:23:11.050 --> 00:23:11.610] DATA: Yes, sir.
+[00:23:12.730 --> 00:23:13.770] PICARD: Captain to Security,
+[00:23:14.170 --> 00:23:16.970] PICARD: I want all your senior supervisors to report to the Bridge immediately.
+[00:23:29.050 --> 00:23:29.770] DATA: Lieutenant Yar?
+[00:23:31.290 --> 00:23:31.930] TASHA: Here, Data.
+[00:23:34.890 --> 00:23:38.490] TASHA: You wanted me?
+[00:23:44.570 --> 00:23:45.370] DATA: Captain Picard
+[00:23:45.875 --> 00:23:47.875] DATA: ordered me to escort you to Sickbay, Lieutenant.
+[00:23:48.515 --> 00:23:49.155] TASHA: Did he say when?
+[00:23:51.635 --> 00:23:52.595] DATA: I am sure he meant now.
+[00:23:54.195 --> 00:23:56.355] DATA: So, you need time to get into uniform.
+[00:23:58.035 --> 00:24:00.435] TASHA: But I got out of uniform for you, Data.
+[00:24:00.435 --> 00:24:00.435] TASHA: Do
+[00:24:02.755 --> 00:24:04.755] TASHA: you know how old I was when I was abandoned?
+[00:24:05.955 --> 00:24:06.995] DATA: Chronological age?
+[00:24:07.875 --> 00:24:08.115] DATA: No,
+[00:24:09.315 --> 00:24:11.235] DATA: I am afraid I am not familiar with
+[00:24:11.235 --> 00:24:11.475] TASHA: Five.
+[00:24:13.075 --> 00:24:13.955] TASHA: Five years old,
+[00:24:15.395 --> 00:24:16.115] TASHA: but I survived.
+[00:24:18.035 --> 00:24:19.235] TASHA: I learned how to stay alive,
+[00:24:20.675 --> 00:24:22.355] TASHA: how to avoid the rape gangs.
+[00:24:24.035 --> 00:24:25.875] TASHA: I was fifteen before I escaped.
+[00:24:27.235 --> 00:24:27.955] DATA: I am sorry.
+[00:24:29.235 --> 00:24:29.875] DATA: I did not know,
+[00:24:31.395 --> 00:24:33.315] TASHA: And what I want now is gentleness.
+[00:24:35.315 --> 00:24:35.795] TASHA: And joy.
+[00:24:37.715 --> 00:24:38.115] TASHA: And love.
+[00:24:39.715 --> 00:24:42.035] TASHA: From you, Data. You are fully functional, aren't you?
+[00:24:42.435 --> 00:24:43.443] DATA: Of course, but
+[00:24:43.443 --> 00:24:44.115] TASHA: How fully?
+[00:24:44.835 --> 00:24:46.035] DATA: In every way, of course.
+[00:24:46.755 --> 00:24:48.835] DATA: I am programmed in multiple techniques,
+[00:24:49.875 --> 00:24:52.195] DATA: a broad variety of pleasuring,
+[00:24:52.355 --> 00:24:54.835] TASHA: Oh, you jewel!
+[00:24:54.835 --> 00:24:58.915] TASHA: That's exactly what I hoped.
+[00:25:07.475 --> 00:25:08.675] PICARD: What have you learned, Number One?
+[00:25:09.555 --> 00:25:11.155] RIKER: Captain, the ship's engines are cut off
+[00:25:11.155 --> 00:25:15.555] RIKER: from the bridge. The Assistant Chief Engineer pulled out the isolinear optical chips from command.
+[00:25:16.275 --> 00:25:17.475] RIKER: All engines are offline.
+[00:25:18.350 --> 00:25:22.590] RIKER: Wesley has hooked some kind of tractor beam to ship's power and
+[00:25:22.590 --> 00:25:26.590] RIKER: he has it aimed at the door. We can't get past to get at the computer.
+[00:25:27.470 --> 00:25:28.750] PICARD: Can you short out the power?
+[00:25:30.190 --> 00:25:32.750] MACDOUGAL: Yes, I can. But it's going to take some time.
+[00:25:33.150 --> 00:25:33.470] PICARD: Do it!
+[00:25:41.230 --> 00:25:43.230] TROI: Bill.
+[00:25:44.830 --> 00:25:45.390] TROI: RIKER: Deanna, what?
+[00:25:47.710 --> 00:25:49.230] TROI: So many minds on this ship,
+[00:25:50.750 --> 00:25:51.630] TROI: all free.
+[00:25:53.310 --> 00:25:53.870] TROI: Released,
+[00:25:55.070 --> 00:25:55.270] RIKER: Deanna.
+[00:25:55.270 --> 00:25:55.470] TROI: I
+[00:25:57.630 --> 00:25:58.190] TROI: can feel them all.
+[00:25:59.790 --> 00:26:00.510] TROI: What they want,
+[00:26:02.110 --> 00:26:02.750] TROI: what they feel.
+[00:26:05.550 --> 00:26:07.310] TROI: It's a side of humans I've never felt before.
+[00:26:10.510 --> 00:26:12.110] RIKER: Come on, I'm getting you to Sickbay.
+[00:26:12.110 --> 00:26:17.230] TROI: Wouldn't you rather be alone with me? With me in your mind?
+[00:26:17.230 --> 00:26:19.230] CRUSHER: The
+[00:26:32.510 --> 00:26:34.990] CRUSHER: medical records we found say this works almost instantly.
+[00:26:38.430 --> 00:26:38.430] LAFORGE: It's
+[00:26:42.030 --> 00:26:43.230] LAFORGE: not fair, Doc.
+[00:26:44.430 --> 00:26:49.470] LAFORGE: I've never seen a rainbow, sunset, sunrise.
+[00:26:50.884 --> 00:26:51.764] LAFORGE: This is going to help me?
+[00:26:53.605 --> 00:26:54.644] LAFORGE: Help me see like you?
+[00:27:04.164 --> 00:27:04.884] RIKER: Doctor Crusher?
+[00:27:10.805 --> 00:27:13.204] RIKER: Deanna needs your help.
+[00:27:13.764 --> 00:27:15.764] CRUSHER: The formula from the old Enterprise didn't work.
+[00:27:15.924 --> 00:27:16.085] RIKER: What?
+[00:27:16.644 --> 00:27:20.325] CRUSHER: This water-carbon complex may induce the same symptoms, but somehow it's different.
+[00:27:21.045 --> 00:27:21.924] CRUSHER: Maybe it's mutated.
+[00:27:22.085 --> 00:27:25.125] CRUSHER: But I've got to isolate it in order to analyse it,
+[00:27:25.125 --> 00:27:26.164] RIKER: We don't have that kind of time.
+[00:27:26.724 --> 00:27:27.285] CRUSHER: You brought Deanna
+[00:27:27.444 --> 00:27:27.711] CRUSHER: in.
+[00:27:27.711 --> 00:27:28.244] RIKER: She's infected
+[00:27:28.244 --> 00:27:28.388] RIKER: with
+[00:27:28.388 --> 00:27:28.964] CRUSHER: Then you touched her!
+[00:27:29.764 --> 00:27:30.164] CRUSHER: Oh, God.
+[00:27:30.404 --> 00:27:31.045] CRUSHER: And you touched
+[00:27:32.964 --> 00:27:33.845] CRUSHER: me.
+[00:27:33.845 --> 00:27:35.045] CRUSHER: Wait! I've got to quarantine you.
+[00:27:35.045 --> 00:27:37.444] RIKER: If I don't get the command computer back online soon, none of this,
+[00:27:37.524 --> 00:27:38.565] RIKER: whatever this is, won't matter.
+[00:27:39.444 --> 00:27:39.845] RIKER: We'll all be
+[00:27:42.004 --> 00:27:44.004] RIKER: dead.
+[00:27:49.204 --> 00:27:50.484] LOG: Captain's log, supplemental.
+[00:27:50.644 --> 00:27:54.484] LOG: It is no longer an inconvenient, childish prank.
+[00:27:55.204 --> 00:28:02.244] LOG: Young Wesley Crusher, admittedly a victim of the Tsiolkovsky infection, is now in control of my starship.
+[00:28:03.365 --> 00:28:03.684] PICARD: Wes,
+[00:28:04.805 --> 00:28:05.924] PICARD: this is Captain Picard.
+[00:28:06.404 --> 00:28:07.045] PICARD: Do you see me?
+[00:28:07.605 --> 00:28:08.004] WESLEY: Yes sir?
+[00:28:08.724 --> 00:28:12.964] PICARD: You will now return control of this vessel to the Bridge where it belongs.
+[00:28:13.125 --> 00:28:13.845] PICARD: At once.
+[00:28:14.884 --> 00:28:15.845] WESLEY: I'm sorry, sir.
+[00:28:16.164 --> 00:28:18.085] WESLEY: Why don't you just tell me what you want done and I'll do it.
+[00:28:18.244 --> 00:28:21.365] PICARD: Because ship captains control their own vessels, young man!
+[00:28:21.605 --> 00:28:23.605] WESLEY: But, sir, you don't do it yourself.
+[00:28:24.126 --> 00:28:26.286] WESLEY: You give the orders, but someone else does it.
+[00:28:27.006 --> 00:28:29.842] WESLEY: What's wrong with giving me the orders to do it?
+[00:28:29.842 --> 00:28:30.126] WORF: Captain,
+[00:28:30.846 --> 00:28:33.246] WORF: getting unusual readings now from the dwarf star.
+[00:28:33.326 --> 00:28:35.806] PICARD: Stand by a moment on that. Wesley.
+[00:28:38.286 --> 00:28:38.606] PICARD: Wes.
+[00:28:40.366 --> 00:28:43.166] PICARD: Are you aware that you're acting strangely,
+[00:28:43.646 --> 00:28:53.086] PICARD: that a kind of infection was brought over from the Tsiolkovsky which acts like intoxication?
+[00:28:53.566 --> 00:28:57.326] WESLEY: Are you saying that's why I feel so so hot? So strange?
+[00:28:59.486 --> 00:29:02.286] PICARD: That's a very adult bit of reasoning, Wes,
+[00:29:03.006 --> 00:29:04.126] WESLEY: So you mean I'm drunk!
+[00:29:05.086 --> 00:29:06.846] WESLEY: I feel strange, but also good.
+[00:29:07.246 --> 00:29:12.926] PICARD: Because, because you've lost the capacity for self-judgment.
+[00:29:13.406 --> 00:29:19.486] PICARD: Now, alcohol does this, Wesley. But this contaminant we've brought back from the Tsiolkovsky does it even more so.
+[00:29:21.006 --> 00:29:23.086] WESLEY: What would you do if you got your ship back?
+[00:29:23.566 --> 00:29:31.806] PICARD: Oh, it's very important I do, Wesley, because I must immediately lock a tractor beam onto the Tsiolkovsky, then tow it out of,
+[00:29:31.806 --> 00:29:33.486] WESLEY: Tractor beams are my specialty, Skipper!
+[00:29:33.566 --> 00:29:34.606] WESLEY: I'll contact you when that's done.
+[00:29:34.766 --> 00:29:35.326] WESLEY: Wesley out!
+[00:29:36.926 --> 00:29:38.846] PICARD: Wesley! Wesley!
+[00:29:38.996 --> 00:29:39.596] PICARD: Conn,
+[00:29:41.486 --> 00:29:44.750] PICARD: where are you headed?
+[00:29:44.750 --> 00:29:45.566] WORF: Sir.
+[00:29:46.526 --> 00:29:48.446] WORF: The star. It's beginning to collapse.
+[00:29:50.204 --> 00:29:50.444] PICARD: What the hell
+[00:29:54.604 --> 00:29:58.644] PICARD: is happening in Engineering?
+[00:29:59.884 --> 00:30:08.231] WESLEY: Lock on. Lock on Tsiolkovsky.
+[00:30:08.231 --> 00:30:09.900] RIKER: Where's
+[00:30:09.996 --> 00:30:10.604] RIKER: that sonic driver?
+[00:30:11.788 --> 00:30:17.672] MACDOUGAL: It's over there. Okay, let's see if this cuts out his tractor beam power. Oh, come on.
+[00:30:17.672 --> 00:30:18.364] CRUSHER: Oh no!
+[00:30:19.324 --> 00:30:21.644] CRUSHER: I must find the answer.
+[00:30:21.794 --> 00:30:23.994] CRUSHER: I've got to find the
+[00:30:45.004 --> 00:30:45.004] CRUSHER: answer.
+[00:30:45.004 --> 00:30:45.004] WORF: Captain, tractor beam.
+[00:30:45.004 --> 00:30:47.964] WORF: We just locked onto the Tsiolkovsky.
+[00:30:49.244 --> 00:30:49.724] PICARD: Captain to.
+[00:30:52.364 --> 00:30:52.764] PICARD: Wesley.
+[00:30:53.484 --> 00:30:54.684] PICARD: Wesley Crusher, come in!
+[00:30:55.404 --> 00:30:56.204] PICARD: Ah, Data.
+[00:30:56.204 --> 00:30:56.284] PICARD: At
+[00:30:59.484 --> 00:31:01.116] PICARD: least you're functioning.
+[00:31:01.116 --> 00:31:02.204] DATA: Fully, Captain.
+[00:31:03.484 --> 00:31:05.484] PICARD: Data,
+[00:31:06.684 --> 00:31:08.684] PICARD: intoxication is a human condition.
+[00:31:09.324 --> 00:31:10.524] PICARD: Your mind is different,
+[00:31:10.764 --> 00:31:11.644] PICARD: it's not the same as
+[00:31:12.684 --> 00:31:15.964] DATA: We are more alike than unlike, my dear Captain.
+[00:31:18.284 --> 00:31:19.164] DATA: I have pores.
+[00:31:20.204 --> 00:31:21.164] DATA: Humans have pores.
+[00:31:22.204 --> 00:31:22.444] DATA: I have
+[00:31:24.044 --> 00:31:24.764] DATA: fingerprints.
+[00:31:26.142 --> 00:31:27.422] DATA: Humans have fingerprints.
+[00:31:28.462 --> 00:31:30.622] DATA: My chemical nutrients are like your blood.
+[00:31:32.782 --> 00:31:33.582] DATA: If you prick me,
+[00:31:35.822 --> 00:31:36.382] DATA: do I not
+[00:31:37.902 --> 00:31:38.302] DATA: leak?
+[00:31:41.742 --> 00:31:42.142] PICARD: Doctor,
+[00:31:42.222 --> 00:31:43.582] CRUSHER: Captain, can I see you in your Ready Room?
+[00:31:43.662 --> 00:31:45.022] CRUSHER: It's a private matter.
+[00:31:46.142 --> 00:31:47.262] CRUSHER: No, actually it's an urgent one.
+[00:31:47.902 --> 00:31:48.142] PICARD: But.
+[00:31:48.292 --> 00:31:49.292] PICARD: Damn it.
+[00:31:58.622 --> 00:31:59.342] PICARD: Now, Doctor
+[00:31:59.422 --> 00:32:01.262] CRUSHER: I believe I'm infected myself, Captain.
+[00:32:02.622 --> 00:32:03.422] PICARD: Do you know what the infection
+[00:32:05.022 --> 00:32:05.102] PICARD: is?
+[00:32:05.902 --> 00:32:06.462] PICARD: Come on, quickly.
+[00:32:07.182 --> 00:32:07.742] CRUSHER: Sorry.
+[00:32:08.542 --> 00:32:10.702] CRUSHER: It is definitely like alcohol intoxication.
+[00:32:11.182 --> 00:32:12.942] CRUSHER: The same lack of good judgment,
+[00:32:13.742 --> 00:32:14.542] CRUSHER: For example,
+[00:32:15.742 --> 00:32:20.862] CRUSHER: right now I find you extremely, extremely,
+[00:32:22.142 --> 00:32:23.902] CRUSHER: Of course we haven't time for that sort of thing,
+[00:32:24.542 --> 00:32:25.102] PICARD: What sort of thing?
+[00:32:25.662 --> 00:32:28.062] CRUSHER: Oh God, would I love to show you.
+[00:32:29.102 --> 00:32:31.342] PICARD: Doctor, there must be a cure.
+[00:32:31.662 --> 00:32:32.382] PICARD: Some formula,
+[00:32:32.382 --> 00:32:34.142] PICARD: similar to the
+[00:32:36.142 --> 00:32:36.542] PICARD: old one,
+[00:32:37.182 --> 00:32:38.862] CRUSHER: Damn it, damn it, Captain.
+[00:32:40.702 --> 00:32:43.422] CRUSHER: My dear Captain. You owe
+[00:32:46.142 --> 00:32:46.862] CRUSHER: me something.
+[00:32:48.062 --> 00:32:49.342] CRUSHER: You do realise that, don't you?
+[00:32:50.382 --> 00:32:50.862] CRUSHER: I'm a woman.
+[00:32:51.982 --> 00:32:55.102] CRUSHER: I haven't the comfort of a husband. A man.
+[00:33:00.211 --> 00:33:02.211] PICARD: Not now, Doctor.
+[00:33:02.211 --> 00:33:02.531] PICARD: Please.
+[00:33:13.331 --> 00:33:15.731] WORF: Bridge to Riker,
+[00:33:15.731 --> 00:33:15.811] WORF: Urgent.
+[00:33:17.091 --> 00:33:17.571] RIKER: Riker here.
+[00:33:17.971 --> 00:33:21.571] WORF: Sir. Sir, regret to inform you that the Captain appears to be infected.
+[00:33:22.851 --> 00:33:23.251] WORF: And Data.
+[00:33:23.571 --> 00:33:25.171] RIKER: Thank you, Lieutenant.
+[00:33:25.171 --> 00:33:25.651] RIKER: I'm on my way.
+[00:33:26.531 --> 00:33:27.171] RIKER: You'll have to handle this.
+[00:33:27.971 --> 00:33:29.011] MACDOUGAL: Are you saying you're going to handle
+[00:33:31.891 --> 00:33:31.891] MACDOUGAL: that?
+[00:33:43.171 --> 00:33:46.371] WORF: What we're seeing, sir, is a huge chunk of the star's surface blown away,
+[00:33:47.651 --> 00:33:48.291] WORF: heading for us.
+[00:33:50.931 --> 00:33:51.251] PICARD: Take us
+[00:33:51.251 --> 00:33:51.411] RIKER: Are
+[00:33:53.091 --> 00:33:53.651] RIKER: you alright, sir?
+[00:33:55.171 --> 00:33:57.811] PICARD: Worf, you know what to do.
+[00:33:58.051 --> 00:33:58.291] PICARD: Take us er
+[00:34:00.051 --> 00:34:00.931] RIKER: Take us out of here.
+[00:34:02.691 --> 00:34:04.691] PICARD: Right.
+[00:34:12.131 --> 00:34:14.931] WORF: Controls are still offline, sir.
+[00:34:14.931 --> 00:34:15.731] PICARD: Override.
+[00:34:20.883 --> 00:34:21.523] WORF: Same result, sir.
+[00:34:27.443 --> 00:34:29.923] RIKER: Wes, come in please.
+[00:34:32.483 --> 00:34:34.083] RIKER: Wesley Crusher, this is Riker.
+[00:34:34.723 --> 00:34:35.523] RIKER: Come in. This is urgent.
+[00:34:35.603 --> 00:34:36.243] RIKER: Come in, please.
+[00:34:46.243 --> 00:34:47.283] RIKER: Engineering, urgent.
+[00:34:47.683 --> 00:34:48.803] RIKER: We must have ship's power,
+[00:34:49.043 --> 00:34:51.683] MACDOUGAL: Those are control
+[00:34:53.203 --> 00:34:53.843] MACDOUGAL: chips!
+[00:34:59.842 --> 00:35:00.723] MACDOUGAL: Bridge from Engineering.
+[00:35:00.963 --> 00:35:02.403] RIKER: The star is still collapsing.
+[00:35:02.803 --> 00:35:03.603] RIKER: We're directly in the path of
+[00:35:03.683 --> 00:35:05.043] MACDOUGAL: I can't help you, Bridge!
+[00:35:05.283 --> 00:35:07.603] MACDOUGAL: Someone here has yanked out all the control chips.
+[00:35:07.603 --> 00:35:09.283] WESLEY: It was an adult who did it!
+[00:35:09.283 --> 00:35:09.523] WORF: Sir,
+[00:35:10.003 --> 00:35:12.322] WORF: I estimate fourteen minutes until that mass gets here.
+[00:35:12.803 --> 00:35:13.443] MACDOUGAL: No way, sir.
+[00:35:13.443 --> 00:35:15.443] MACDOUGAL: I cannot replace these chips in fourteen minutes.
+[00:35:15.523 --> 00:35:16.803] MACDOUGAL: Two hours, three Maybe.
+[00:35:18.403 --> 00:35:19.683] WESLEY: Data could assemble them back faster.
+[00:35:22.003 --> 00:35:22.243] PICARD: What,
+[00:35:22.243 --> 00:35:23.283] PICARD: what's that?
+[00:35:24.243 --> 00:35:24.963] PICARD: What's that, Wesley?
+[00:35:25.683 --> 00:35:27.283] WESLEY: Well, they're just simple isolinear chips,
+[00:35:27.283 --> 00:35:28.243] WESLEY: sir, to Data anyway.
+[00:35:28.563 --> 00:35:29.683] WESLEY: He can shuffle them like cards.
+[00:35:29.683 --> 00:35:31.523] RIKER: Come on, Data,
+[00:35:31.603 --> 00:35:31.842] RIKER: hurry.
+[00:35:38.723 --> 00:35:40.483] LOG: Ship's log, First Officer Riker.
+[00:35:40.483 --> 00:35:45.683] LOG: Enterprise will be destroyed unless it can be moved out of the path of the star material hurtling toward us.
+[00:35:46.322 --> 00:35:46.803] LOG: Our only hope
+[00:35:47.403 --> 00:35:52.363] LOG: is for Lieutenant Commander Data, in the time we have left, to regain his senses and reconnect engine power to the Bridge.
+[00:35:53.323 --> 00:35:54.443] DATA: Nice to see you, Wesley.
+[00:35:54.843 --> 00:35:55.483] WESLEY: Hi, Mister Data.
+[00:35:55.643 --> 00:35:56.443] RIKER: No time for courtesy.
+[00:35:56.443 --> 00:35:59.083] RIKER: Get the damned control chips back in place, in the correct order.
+[00:35:59.723 --> 00:36:00.283] RIKER: Now!
+[00:36:01.163 --> 00:36:01.963] WESLEY: It's like a game.
+[00:36:03.163 --> 00:36:04.123] WESLEY: How fast can you do it?
+[00:36:05.083 --> 00:36:05.643] DATA: Ah, a game!
+[00:36:05.793 --> 00:36:06.393] WESLEY: I
+[00:36:15.723 --> 00:36:17.243] WESLEY: think I can switch this to main viewer, sir,
+[00:36:32.043 --> 00:36:33.723] RIKER: Data, we've got eight or nine minutes
+[00:36:33.723 --> 00:36:35.963] RIKER: at most. Can you finish by then?
+[00:36:35.963 --> 00:36:35.963] DATA: No,
+[00:36:37.083 --> 00:36:39.243] DATA: this will take slightly more time than we have, sir.
+[00:36:39.393 --> 00:36:40.393] RIKER: Damn it,
+[00:36:43.163 --> 00:36:43.163] RIKER: no.
+[00:36:50.283 --> 00:36:51.563] RIKER: I can't afford to get this.
+[00:37:03.243 --> 00:37:03.563] PICARD: Beverly.
+[00:37:05.243 --> 00:37:06.123] CRUSHER: Yes, Jean-Luc?
+[00:37:08.043 --> 00:37:09.963] PICARD: You will address me as Captain.
+[00:37:11.483 --> 00:37:12.283] CRUSHER: Captain?
+[00:37:13.163 --> 00:37:19.083] CRUSHER: Well then, my dear Captain, you will address me as Chief Medical Officer or
+[00:37:20.063 --> 00:37:20.543] CRUSHER: Doctor.
+[00:37:20.543 --> 00:37:21.503] PICARD: I will?
+[00:37:23.423 --> 00:37:23.983] PICARD: That's true.
+[00:37:24.783 --> 00:37:28.863] PICARD: I started off calling you Beverly, and of course, naturally, you.
+[00:37:30.863 --> 00:37:31.903] PICARD: I'm still not thinking straight.
+[00:37:33.583 --> 00:37:35.183] CRUSHER: Likewise. Where the hell was I headed?
+[00:37:38.383 --> 00:37:41.183] PICARD: If that's something you were going to test,
+[00:37:41.183 --> 00:37:43.023] CRUSHER: Yes, on Geordi.
+[00:37:43.263 --> 00:37:43.503] CRUSHER: Come
+[00:37:48.383 --> 00:37:50.383] CRUSHER: here.
+[00:37:55.663 --> 00:37:59.343] WESLEY: See how I reversed the fields on this, Commander?
+[00:38:00.143 --> 00:38:01.503] WESLEY: I made it into a repulser beam.
+[00:38:01.653 --> 00:38:02.253] DATA: If
+[00:38:03.423 --> 00:38:05.423] DATA: we just had one minute more, sir,
+[00:38:19.663 --> 00:38:21.583] WESLEY: If this were a hundred times more powerful than it
+[00:38:23.423 --> 00:38:23.423] WESLEY: is.
+[00:38:27.103 --> 00:38:28.783] WESLEY: Why not try it with the real thing?
+[00:38:30.623 --> 00:38:32.143] WESLEY: Why not reverse fields on this, Ma'am?
+[00:38:32.383 --> 00:38:34.063] WESLEY: If we just need an extra minute,
+[00:38:34.063 --> 00:38:36.223] MACDOUGAL: It would take weeks of laying out new circuits.
+[00:38:36.623 --> 00:38:37.663] WESLEY: Why not just see it in your head?
+[00:38:41.503 --> 00:38:42.703] WESLEY: Come off the main lead,
+[00:38:42.943 --> 00:38:44.623] WESLEY: split off at the force activator,
+[00:38:47.663 --> 00:38:51.183] WESLEY: then, then. If I could just think straight about this,
+[00:38:53.263 --> 00:38:53.823] CRUSHER: I made this
+[00:38:53.877 --> 00:39:02.037] CRUSHER: a broader based remedy. I hope. But it's still close to the formula from the old Enterprise records.
+[00:39:02.037 --> 00:39:04.357] PICARD: Decades ago, light years away,
+[00:39:04.677 --> 00:39:07.477] CRUSHER: But almost exactly the same conditions as here.
+[00:39:08.197 --> 00:39:08.517] LAFORGE: Wow!
+[00:39:09.477 --> 00:39:10.197] LAFORGE: What was in that, Doctor?
+[00:39:11.237 --> 00:39:12.357] LAFORGE: My head's beginning to clear,
+[00:39:12.997 --> 00:39:13.957] CRUSHER: Come
+[00:39:20.197 --> 00:39:20.357] CRUSHER: here.
+[00:39:20.357 --> 00:39:21.877] CRUSHER: Here, take this to Engineering.
+[00:39:22.117 --> 00:39:23.637] CRUSHER: I'll make up more hypos for the others.
+[00:39:24.437 --> 00:39:24.517] PICARD: Okay,
+[00:39:36.117 --> 00:39:36.717] PICARD: Bev.
+[00:39:36.717 --> 00:39:37.317] RIKER: We're
+[00:39:40.677 --> 00:39:41.477] RIKER: not going to make it, Captain.
+[00:39:42.597 --> 00:39:43.317] RIKER: If we had just a minute or so.
+[00:39:45.237 --> 00:39:47.557] WESLEY: Then reversing
+[00:39:54.837 --> 00:39:57.717] WESLEY: power leads, back through the force activator.
+[00:39:58.437 --> 00:40:00.997] WESLEY: Repulser beam hard against Tsiolkovsky.
+[00:40:04.357 --> 00:40:06.837] WESLEY: Don't you see?
+[00:40:07.157 --> 00:40:09.637] WESLEY: It's giving us a push off. The extra time we need.
+[00:40:13.557 --> 00:40:13.957] RIKER: We're pushing away.
+[00:40:14.107 --> 00:40:15.507] RIKER: Bridge, engage engines!
+[00:40:46.351 --> 00:40:51.151] LAFORGE: Captain , something seemed to move us aside at the last minute.
+[00:40:51.871 --> 00:40:53.631] WORF: Do we owe our thanks to Commander Data, sir?
+[00:40:53.791 --> 00:40:57.711] PICARD: Yes, and Wesley may have given us a few seconds, too.
+[00:40:58.351 --> 00:41:00.351] WORF: Did he say Wesley? The boy?
+[00:41:00.911 --> 00:41:02.431] CRUSHER: He said Wesley.
+[00:41:08.271 --> 00:41:10.511] RIKER: It's only fair to mention Wesley in a log entry, sir.
+[00:41:13.711 --> 00:41:14.271] PICARD: Fair's fair.
+[00:41:16.831 --> 00:41:18.671] PICARD: And let's credit his science teacher, too.
+[00:41:38.831 --> 00:41:39.791] LAFORGE: Congratulations, sir.
+[00:41:40.671 --> 00:41:41.391] PICARD: To many people.
+[00:41:55.071 --> 00:42:00.191] TASHA: Data. I'm only going to tell you this just once.
+[00:42:00.795 --> 00:42:01.435] TASHA: It never happened.
+[00:42:07.915 --> 00:42:08.875] PICARD: I put it to you all.
+[00:42:10.555 --> 00:42:12.315] PICARD: I think we shall end up with a fine crew,
+[00:42:14.155 --> 00:42:15.195] PICARD: if we avoid temptation.
+[00:42:20.715 --> 00:42:23.355] PICARD: So, Number One, let's go to our next job.
+[00:42:24.635 --> 00:42:25.035] RIKER: Aye, sir.
+[00:42:25.755 --> 00:42:27.035] RIKER: Helm, prepare for warp three.
+[00:42:28.555 --> 00:42:31.035] RIKER: Heading two hundred and ninety four mark thirty seven.
+[00:42:31.275 --> 00:42:34.875] LAFORGE: Warp three, heading two hundred and ninety four mark thirty seven, sir.
+[00:42:34.875 --> 00:42:34.955] RIKER: Engage.
+[00:43:10.000 --> 00:43:21.000] [music]
+[00:43:30.000 --> 00:43:39.000] [music]

@@ -1,0 +1,646 @@
+[00:00:02.640 --> 00:00:05.600] LOG: Captain's Log, Stardate 43957.2.
+[00:00:06.240 --> 00:00:09.760] LOG: We are charting an unexplored star system within the Zeta Gelis cluster.
+[00:00:10.480 --> 00:00:14.800] LOG: This routine assignment has made for a refreshingly quiet time aboard the Enterprise.
+[00:00:16.720 --> 00:00:17.040] LAFORGE: That's her.
+[00:00:19.920 --> 00:00:20.320] WORF: Which one?
+[00:00:20.880 --> 00:00:21.600] LAFORGE: The one on the right.
+[00:00:23.120 --> 00:00:23.920] LAFORGE: Don't stare.
+[00:00:25.200 --> 00:00:25.600] WORF: Why not?
+[00:00:25.760 --> 00:00:26.720] LAFORGE: Because she'll see.
+[00:00:28.400 --> 00:00:28.880] WORF: Good.
+[00:00:29.600 --> 00:00:32.320] WORF: You must let her see the fire in your eyes.
+[00:00:34.640 --> 00:00:37.760] LAFORGE: But what would I say?
+[00:00:40.000 --> 00:00:41.360] WORF: Words come later.
+[00:00:42.160 --> 00:00:45.120] WORF: It is the scent that first speaks of love.
+[00:00:47.920 --> 00:00:48.480] LAFORGE: Thanks, Worf.
+[00:00:49.520 --> 00:00:49.920] LAFORGE: That helps a
+[00:00:55.280 --> 00:00:57.280] LAFORGE: lot.
+[00:00:59.600 --> 00:01:00.240] CHRISTI: Hi, Geordi.
+[00:01:01.040 --> 00:01:03.040] LAFORGE: Hi.
+[00:01:05.760 --> 00:01:06.640] CHRISTI: So, how have you been?
+[00:01:07.120 --> 00:01:07.600] LAFORGE: Good.
+[00:01:07.750 --> 00:01:08.750] LAFORGE: I, er.
+[00:01:11.360 --> 00:01:12.800] CHRISTI: How are things down in Engineering?
+[00:01:13.440 --> 00:01:13.920] LAFORGE: Fine.
+[00:01:13.920 --> 00:01:14.080] LAFORGE: They,
+[00:01:17.440 --> 00:01:18.400] LAFORGE: they've been fine.
+[00:01:21.760 --> 00:01:23.040] CHRISTI: Well, I'll see you around.
+[00:01:26.000 --> 00:01:30.800] WORF: I have much to teach you about women.
+[00:01:31.120 --> 00:01:33.440] RIKER: Mister La Forge, report to Transporter room three.
+[00:01:41.481 --> 00:01:42.521] LAFORGE: What's this all about, Commander?
+[00:01:42.681 --> 00:01:45.561] RIKER: Sensors have discovered a small one-man spaceship crashed on the planet.
+[00:01:45.801 --> 00:01:48.601] CRUSHER: We're picked up life-signs, humanoid, very faint and fading.
+[00:01:59.641 --> 00:02:01.641] DATA: Radiation levels within acceptable limits.
+[00:02:22.201 --> 00:02:24.201] LAFORGE: We can beam him out from under there, get him right up to Sickbay.
+[00:02:24.521 --> 00:02:25.961] CRUSHER: He's not stable enough for transport.
+[00:02:27.081 --> 00:02:28.361] CRUSHER: There's damage to his brain stem,
+[00:02:28.361 --> 00:02:29.641] CRUSHER: autonomic functions are failing.
+[00:02:30.201 --> 00:02:31.721] CRUSHER: His heart needs active neurofeedback.
+[00:02:31.801 --> 00:02:32.921] CRUSHER: It can't regulate itself.
+[00:02:34.201 --> 00:02:35.081] CRUSHER: I need a volunteer.
+[00:02:35.481 --> 00:02:35.881] LAFORGE: Right here.
+[00:02:39.481 --> 00:02:42.041] CRUSHER: I'm going to hook your nervous systems to the tricorder.
+[00:02:43.321 --> 00:02:45.001] CRUSHER: Your brain will regulate both systems.
+[00:02:45.401 --> 00:02:47.481] CRUSHER: That should stabilise him long enough to get him up to the ship.
+[00:02:49.481 --> 00:02:51.161] CRUSHER: Take deep, regular breaths.
+[00:02:51.401 --> 00:02:53.321] CRUSHER: If anything goes wrong I'll break the connection.
+[00:02:53.471 --> 00:02:54.071] LAFORGE: Okay.
+[00:02:58.281 --> 00:03:00.281] CRUSHER: Geordi!
+[00:03:02.441 --> 00:03:02.761] LAFORGE: I'm fine.
+[00:03:02.761 --> 00:03:03.321] LAFORGE: No problem.
+[00:03:04.529 --> 00:03:05.249] CRUSHER: Transporter room,
+[00:03:05.489 --> 00:03:06.609] CRUSHER: three to beam directly to Sickbay.
+[00:03:39.809 --> 00:03:42.609] PICARD: Space, the final frontier.
+[00:03:44.449 --> 00:03:47.329] PICARD: These are the voyages of the starship Enterprise.
+[00:03:48.449 --> 00:03:56.449] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations, to
+[00:03:58.289 --> 00:04:01.009] PICARD: boldly go where no one has gone before.
+[00:05:16.002 --> 00:05:17.442] CRUSHER: Autonomic responses are still low.
+[00:05:17.442 --> 00:05:18.722] CRUSHER: Begin cardiostimulation. Sixty
+[00:05:18.882 --> 00:05:20.402] CRUSHER: cc's of inaprovaline.
+[00:05:23.762 --> 00:05:25.042] CRUSHER: Massive infection is setting in.
+[00:05:25.042 --> 00:05:27.442] CRUSHER: Use the protodynoplaser to stabilize his immune system.
+[00:05:28.482 --> 00:05:32.562] CRUSHER: We need to design a virus that can infiltrate his cell structure and boost his ATP production.
+[00:05:32.882 --> 00:05:34.002] TEMPLE: What about Commander La Forge.
+[00:05:34.082 --> 00:05:35.442] TEMPLE: He's waiting in the diagnostic centre.
+[00:05:35.682 --> 00:05:37.202] CRUSHER: I need you to give him a full bioscan.
+[00:05:37.202 --> 00:05:40.482] CRUSHER: See if there's any residual effect from that energy discharge during the neurolink.
+[00:05:41.122 --> 00:05:45.282] CRUSHER: Keep his arm in cryogenic stasis until the vital signs are strong enough to begin surgical procedures.
+[00:05:45.282 --> 00:05:45.362] RIKER: From
+[00:05:47.842 --> 00:05:50.802] RIKER: the size and shape of the wreckage, it appeared to be some kind of escape pod.
+[00:05:51.122 --> 00:05:54.562] RIKER: Their control system was badly damaged, which is probably what caused the crash.
+[00:05:54.642 --> 00:05:55.522] PICARD: An escape pod?
+[00:05:55.602 --> 00:05:56.962] PICARD: Then he couldn't have travelled very far.
+[00:05:57.442 --> 00:05:59.922] PICARD: Mister Data, are there any other signs of ships in this area?
+[00:06:00.482 --> 00:06:03.842] DATA: I am picking up a scattering of debris in extended orbit around the planet.
+[00:06:04.402 --> 00:06:07.922] DATA: It reads as refined metals and other synthetic compounds.
+[00:06:08.322 --> 00:06:09.442] PICARD: The remains of a larger vessel.
+[00:06:09.842 --> 00:06:10.722] PICARD: He must have left in the pod
+[00:06:10.774 --> 00:06:12.414] PICARD: before the ship was destroyed.
+[00:06:12.414 --> 00:06:17.334] WORF: Sensors show trace elements in the debris that would indicate phaser fire was recently exchanged.
+[00:06:18.214 --> 00:06:19.974] PICARD: Were you able to salvage anything else from the escape pod?
+[00:06:20.054 --> 00:06:21.654] RIKER: This is all that was left from their computer system.
+[00:06:22.694 --> 00:06:23.734] PICARD: Mister Data, can you access it?
+[00:06:24.294 --> 00:06:25.174] DATA: It will take time, sir.
+[00:06:25.894 --> 00:06:31.174] DATA: Downloading this into our system will require fabrication of a matrix translator to emulate the alien's computer system.
+[00:06:31.654 --> 00:06:32.614] PICARD: Keep me apprised of your progress.
+[00:06:33.414 --> 00:06:33.654] DATA: Aye, sir.
+[00:06:54.054 --> 00:06:56.534] TEMPLE: Limb re-fusion appears to be successful, Doctor.
+[00:06:56.934 --> 00:06:59.654] TEMPLE: Tissue oxygenation is within norms.
+[00:07:00.934 --> 00:07:02.054] CRUSHER: That's all we can do for now.
+[00:07:02.454 --> 00:07:05.414] CRUSHER: We won't be able to test neuromuscular function for a few days.
+[00:07:08.374 --> 00:07:09.083] CRUSHER: Ah, Geordi.
+[00:07:09.083 --> 00:07:10.854] LAFORGE: Can I go now, Doc?
+[00:07:11.254 --> 00:07:12.374] CRUSHER: No need to keep you here.
+[00:07:12.374 --> 00:07:13.894] CRUSHER: Your bioscan came out negative.
+[00:07:14.694 --> 00:07:15.414] LAFORGE: Could've told you that.
+[00:07:15.414 --> 00:07:16.534] LAFORGE: I feel great.
+[00:07:20.054 --> 00:07:21.334] PICARD: How's your patient?
+[00:07:24.454 --> 00:07:26.054] CRUSHER: I never thought he'd make it this far.
+[00:07:26.854 --> 00:07:32.614] CRUSHER: There was major trauma to his head and chest cavity, massive plasma loss, and severe damage to most of his organs.
+[00:07:33.254 --> 00:07:33.894] PICARD: What are his chances?
+[00:07:34.374 --> 00:07:35.174] CRUSHER: I believe he's going to live.
+[00:07:36.454 --> 00:07:38.134] CRUSHER: I'm afraid I can't take the credit for it, though.
+[00:07:39.443 --> 00:07:42.403] CRUSHER: His body seems to have amazing recuperative powers.
+[00:07:43.923 --> 00:07:47.043] CRUSHER: The damaged tissue seems to be repairing itself at a phenomenal rate.
+[00:07:49.203 --> 00:07:51.043] CRUSHER: There's one thing that troubles me though.
+[00:07:51.283 --> 00:07:51.603] PICARD: What's that?
+[00:07:54.083 --> 00:07:55.363] CRUSHER: Take a look at this.
+[00:07:59.283 --> 00:08:00.163] PICARD: Cell regeneration?
+[00:08:00.803 --> 00:08:01.283] CRUSHER: Yes.
+[00:08:02.643 --> 00:08:05.203] CRUSHER: The thing is, it has nothing to do with the injuries.
+[00:08:07.043 --> 00:08:09.523] CRUSHER: These are undamaged cells that seem to be mutating.
+[00:08:10.723 --> 00:08:11.763] PICARD: Do you have a theory as to the cause?
+[00:08:12.243 --> 00:08:12.403] CRUSHER: No.
+[00:08:13.203 --> 00:08:14.483] CRUSHER: I've never seen anything like it in my life.
+[00:08:16.083 --> 00:08:19.603] CRUSHER: There is a possibility that it's part of his natural healing process.
+[00:08:20.483 --> 00:08:23.603] CRUSHER: I hope it is, because there's nothing I can do to stop it.
+[00:08:26.323 --> 00:08:29.763] LAFORGE: I'm telling you Data, there's got to be some way to decode the information in this thing.
+[00:08:30.883 --> 00:08:35.843] DATA: I agree Geordi. But the data matrix within the capsule does not correspond to any standard format.
+[00:08:36.323 --> 00:08:41.683] DATA: All we have been able to determine is that the device contains a chemically based system for molecular energy encoding.
+[00:08:41.843 --> 00:08:45.443] LAFORGE: Yeah, and the computer still can't analyse the specific chemical elements involved.
+[00:08:45.683 --> 00:08:47.522] LAFORGE: It's got to be part of the data processing system.
+[00:08:49.042 --> 00:08:52.243] LAFORGE: What if it's a feedback loop controller?
+[00:08:52.642 --> 00:08:57.443] DATA: The compact shape does suggest a rapid chemical processing and storage capacity.
+[00:08:57.762 --> 00:09:00.083] LAFORGE: We found it near the escape pod's instrumentation assemblage.
+[00:09:00.803 --> 00:09:05.282] LAFORGE: This capsule might process the ship's dynamic motions and augment its manual control inputs.
+[00:09:05.762 --> 00:09:07.203] LAFORGE: We could send it a few test signals,
+[00:09:07.532 --> 00:09:09.612] LAFORGE: make it think the entire assemblage was awake and operating.
+[00:09:10.012 --> 00:09:11.212] DATA: An intriguing experiment.
+[00:09:12.412 --> 00:09:16.972] DATA: The capsule might provide us with information without the need to decode the storage medium itself.
+[00:09:18.252 --> 00:09:20.172] DATA: Perhaps we should examine your theory immediately.
+[00:09:20.412 --> 00:09:22.892] WORF: Less talk, more synthahol.
+[00:09:26.252 --> 00:09:27.532] WORF: We came here to relax.
+[00:09:28.012 --> 00:09:28.972] LAFORGE: I am relaxed.
+[00:09:29.612 --> 00:09:30.412] LAFORGE: In fact, I've never felt better.
+[00:09:35.772 --> 00:09:37.612] LAFORGE: But you know, Worf, you're right.
+[00:09:38.652 --> 00:09:40.092] LAFORGE: The storage capsule can wait awhile. Christi,
+[00:09:50.012 --> 00:09:52.012] LAFORGE: you're not leaving, are you?
+[00:09:53.052 --> 00:09:55.052] CHRISTI: I was just on my way down to the arboretum.
+[00:09:55.852 --> 00:09:57.292] LAFORGE: Would you care for some company?
+[00:09:59.052 --> 00:10:02.652] CHRISTI: I'd love some, but I didn't think you were interested in that kind of thing.
+[00:10:02.812 --> 00:10:05.612] LAFORGE: There are a lot of things you don't know about
+[00:10:09.772 --> 00:10:09.772] LAFORGE: me.
+[00:10:12.972 --> 00:10:14.012] WORF: I've been tutoring him.
+[00:10:15.692 --> 00:10:16.652] WORF: He learns very quickly.
+[00:10:20.172 --> 00:10:23.932] LOG: Medical Log, Stardate 43958.8.
+[00:10:25.212 --> 00:10:29.052] LOG: I have removed patient John Doe from the emergency bio-support unit.
+[00:10:30.092 --> 00:10:36.972] LOG: In just thirty six hours, most of his major organ systems have regenerated themselves to the point where they can now function on their own.
+[00:10:55.979 --> 00:10:59.899] JOHN: I am alive?
+[00:11:01.259 --> 00:11:02.139] CRUSHER: You certainly are.
+[00:11:04.779 --> 00:11:09.259] JOHN: Thank you for my life.
+[00:11:09.419 --> 00:11:09.819] JOHN: Tell me,
+[00:11:12.059 --> 00:11:13.339] JOHN: who am I?
+[00:11:20.619 --> 00:11:23.739] LOG: Captain's log, stardate 43960.6.
+[00:11:24.379 --> 00:11:27.899] LOG: Our mission to map the Zeta Gelis star cluster is proceeding on schedule.
+[00:11:28.779 --> 00:11:35.339] LOG: Meanwhile, Doctor Crusher reports that the recovery of the patient she has named John Doe continues at a remarkable pace.
+[00:11:43.019 --> 00:11:44.619] CRUSHER: Are you experiencing any discomfort?
+[00:11:47.339 --> 00:11:47.659] JOHN: None.
+[00:11:47.659 --> 00:11:47.659] JOHN: I
+[00:11:49.419 --> 00:11:51.339] JOHN: can feel the life returning to my body.
+[00:11:52.459 --> 00:11:55.179] CRUSHER: Your neurofibre waves are functioning almost normally again.
+[00:11:56.379 --> 00:11:59.099] CRUSHER: That puts you about six weeks ahead of my original schedule.
+[00:11:59.099 --> 00:12:02.939] JOHN: That should give you and your colleagues something to talk about.
+[00:12:03.259 --> 00:12:05.659] CRUSHER: You are all we've talked about since your arrival.
+[00:12:08.134 --> 00:12:10.294] JOHN: I believe I'm ready for the next phase of my treatment.
+[00:12:10.534 --> 00:12:11.334] CRUSHER: You are right.
+[00:12:11.494 --> 00:12:14.134] CRUSHER: It is time you stopped taking up valuable bed space.
+[00:12:15.094 --> 00:12:20.614] CRUSHER: Now these motor-assist bands will provide you with electrical stimulation for your arms and legs.
+[00:12:22.454 --> 00:12:24.934] CRUSHER: They will help you re-learn how to control your muscles again.
+[00:12:25.734 --> 00:12:32.614] CRUSHER: But remember, you've been off your feet for almost a month, so don't be disappointed if at first your mobility is restricted.
+[00:12:33.174 --> 00:12:34.294] CRUSHER: Your limbs are still weak.
+[00:12:35.654 --> 00:12:39.334] JOHN: I appreciate your concern, Doctor, but I think I may surprise you again.
+[00:12:41.494 --> 00:12:44.054] JOHN: I feel strong enough to fly.
+[00:12:44.204 --> 00:12:44.804] CRUSHER: Whoops.
+[00:12:54.934 --> 00:12:58.854] JOHN: Perhaps I should concentrate on walking first.
+[00:12:59.414 --> 00:13:02.054] CRUSHER: Let's try again, a little more slowly this time.
+[00:13:03.014 --> 00:13:03.814] JOHN: Much more slowly.
+[00:13:07.414 --> 00:13:09.414] JOHN: I
+[00:13:33.654 --> 00:13:35.654] JOHN: envy
+[00:13:37.734 --> 00:13:38.934] JOHN: your reflexes, Captain.
+[00:13:39.715 --> 00:13:40.915] PICARD: I envy your strength of will.
+[00:13:42.035 --> 00:13:44.115] PICARD: Doctor Crusher has been keeping me informed of your progress.
+[00:13:44.115 --> 00:13:45.074] PICARD: It's quite extraordinary.
+[00:13:46.595 --> 00:13:48.115] JOHN: I have an extraordinary doctor.
+[00:13:49.875 --> 00:13:51.074] JOHN: She gave me back my life.
+[00:13:52.195 --> 00:13:54.035] JOHN: I hope that I am worthy of her efforts.
+[00:13:54.185 --> 00:13:54.785] PICARD: Are
+[00:13:57.875 --> 00:14:00.275] PICARD: you still unable to recall anything about your past?
+[00:14:05.875 --> 00:14:06.595] JOHN: Unfortunately, Captain,
+[00:14:07.395 --> 00:14:10.035] JOHN: my memories begin the moment I woke up in Sickbay.
+[00:14:12.915 --> 00:14:15.475] JOHN: Doctor Crusher told me you think I was in some kind of battle.
+[00:14:15.954 --> 00:14:16.675] JOHN: PICARD: I'm quite sure of that.
+[00:14:17.475 --> 00:14:21.555] JOHN: Have you any idea how you came to be in that escape pod, or what happened to the ship?
+[00:14:22.515 --> 00:14:22.675] JOHN: No.
+[00:14:25.315 --> 00:14:29.715] JOHN: Believe me, Captain, it's a horrible feeling not knowing who you are or where you're from.
+[00:14:30.515 --> 00:14:31.795] PICARD: Have you tried synaptic induction?
+[00:14:33.074 --> 00:14:35.795] CRUSHER: His neural nets don't conform to any known patterns.
+[00:14:35.954 --> 00:14:38.035] CRUSHER: Conventional neurotherapy has proven ineffective.
+[00:14:39.475 --> 00:14:43.235] CRUSHER: Hopefully, in time, his memory pathways will reestablish themselves naturally.
+[00:14:46.915 --> 00:14:47.714] CRUSHER: That same pain?
+[00:14:48.115 --> 00:14:48.435] JOHN: Yes.
+[00:14:51.075 --> 00:14:53.954] JOHN: I think I've made enough progress for one day.
+[00:14:55.714 --> 00:14:56.675] PICARD: Not a relapse I hope.
+[00:14:56.835 --> 00:14:59.075] CRUSHER: This is nothing to do with his previous wounds.
+[00:14:59.555 --> 00:15:02.915] CRUSHER: I think this has something to do with the continuing mutation of his cell structure.
+[00:15:02.915 --> 00:15:05.170] PICARD: You still have no theory as to what's causing it?
+[00:15:05.170 --> 00:15:05.395] CRUSHER: It
+[00:15:05.555 --> 00:15:06.915] CRUSHER: doesn't make any sense.
+[00:15:07.117 --> 00:15:12.157] JOHN: I seem to be a mystery, Doctor. To you and to myself.
+[00:15:22.717 --> 00:15:24.717] CHRISTI: Well, this is where I get off.
+[00:15:26.317 --> 00:15:27.517] CHRISTI: See you tonight in Ten Forward?
+[00:15:27.517 --> 00:15:28.397] LAFORGE: Yeah, I'll be there.
+[00:15:30.957 --> 00:15:31.837] CHRISTI: Hello, Commander.
+[00:15:32.557 --> 00:15:33.117] RIKER: Miss Henshaw.
+[00:15:38.157 --> 00:15:38.477] RIKER: Bridge.
+[00:15:39.917 --> 00:15:40.317] LAFORGE: Deck six.
+[00:15:42.157 --> 00:15:45.277] RIKER: So, you and Miss Henshaw have been seeing a lot of each other.
+[00:15:45.277 --> 00:15:46.237] LAFORGE: Every night this week.
+[00:15:46.797 --> 00:15:47.197] RIKER: Is that all?
+[00:15:47.197 --> 00:15:49.757] RIKER: I thought you'd been walking around with that smile on your face a lot longer than that.
+[00:15:51.357 --> 00:15:51.997] LAFORGE: I guess I have.
+[00:15:52.477 --> 00:15:55.197] LAFORGE: This whole last month or so everything seems to be going my way.
+[00:15:56.077 --> 00:15:58.557] LAFORGE: I don't know what it is, but something sure has changed around here.
+[00:15:58.637 --> 00:16:00.247] RIKER: The only thing that's changed is you.
+[00:16:00.247 --> 00:16:00.477] LAFORGE: Me?
+[00:16:01.117 --> 00:16:03.757] LAFORGE: I'm the same old guy I always was.
+[00:16:03.997 --> 00:16:04.557] RIKER: If you say so.
+[00:16:05.517 --> 00:16:08.637] RIKER: I don't remember the old Geordi having that much success with Miss Christi Henshaw.
+[00:16:10.157 --> 00:16:10.237] LAFORGE: Well,
+[00:16:13.117 --> 00:16:15.277] LAFORGE: maybe I am a little bit more confident than I used to be.
+[00:16:26.717 --> 00:16:29.517] CRUSHER: What happened to you?
+[00:16:30.237 --> 00:16:32.157] O'BRIEN: I was kayaking in the holodeck again.
+[00:16:34.599 --> 00:16:34.679] CRUSHER: You
+[00:16:36.599 --> 00:16:37.799] CRUSHER: dislocated your shoulder.
+[00:16:39.319 --> 00:16:39.799] CRUSHER: Sit down,
+[00:16:39.799 --> 00:16:41.159] CRUSHER: I'll get the osteotractor frame.
+[00:16:42.919 --> 00:16:43.239] WESLEY: Hi mom.
+[00:16:44.039 --> 00:16:44.839] WESLEY: We still on for dinner tonight?
+[00:16:45.079 --> 00:16:45.879] CRUSHER: Seven thirty sharp.
+[00:16:45.959 --> 00:16:46.679] CRUSHER: I'll be right back.
+[00:16:48.839 --> 00:16:49.559] WESLEY: Kayaking again?
+[00:16:50.439 --> 00:16:50.679] O'BRIEN: Yeah.
+[00:16:50.829 --> 00:16:51.429] WESLEY: How's
+[00:16:52.919 --> 00:16:54.039] WESLEY: my mom's favourite patient?
+[00:16:54.919 --> 00:16:55.639] JOHN: Judge for yourself.
+[00:16:58.679 --> 00:16:59.319] WESLEY: Not bad.
+[00:17:01.159 --> 00:17:02.999] JOHN: Your mom promised me a tour of the ship tomorrow.
+[00:17:04.919 --> 00:17:09.239] JOHN: You may find this hard to believe, but Sickbay can be an incredibly boring place to be.
+[00:17:09.799 --> 00:17:10.439] O'BRIEN: Hey, Doc!
+[00:17:11.399 --> 00:17:12.439] O'BRIEN: I'm dying here.
+[00:17:18.519 --> 00:17:19.399] JOHN: Don't worry my friend.
+[00:17:19.639 --> 00:17:20.119] JOHN: You'll be alright.
+[00:17:22.519 --> 00:17:24.439] O'BRIEN: The
+[00:17:28.199 --> 00:17:28.759] O'BRIEN: pain's gone.
+[00:17:32.839 --> 00:17:34.599] CRUSHER: It's completely healed.
+[00:17:35.479 --> 00:17:36.439] CRUSHER: I don't understand.
+[00:17:37.719 --> 00:17:38.359] CRUSHER: What did you do?
+[00:17:38.999 --> 00:17:39.559] JOHN: I don't know.
+[00:17:41.159 --> 00:17:41.959] JOHN: It was instinct.
+[00:17:41.959 --> 00:17:42.839] JOHN: I just touched him.
+[00:17:44.279 --> 00:17:46.279] CRUSHER: I've
+[00:17:53.159 --> 00:17:57.479] CRUSHER: run every test and scan on him that I can think of,
+[00:17:58.999 --> 00:18:00.919] CRUSHER: and yet there's no physiological evidence to
+[00:18:01.488 --> 00:18:03.728] CRUSHER: indicate that he would possess such powers.
+[00:18:05.488 --> 00:18:07.408] CRUSHER: But then, there's so much about John that's a mystery.
+[00:18:08.848 --> 00:18:10.288] WESLEY: You know, I really like him.
+[00:18:10.768 --> 00:18:12.528] CRUSHER: He does have a certain charm doesn't he?
+[00:18:13.568 --> 00:18:16.208] CRUSHER: The entire medical staff has commented on it.
+[00:18:17.888 --> 00:18:19.568] WESLEY: You seem a little taken with him yourself.
+[00:18:21.088 --> 00:18:26.688] CRUSHER: He has a strength and serenity that I find very attractive. And yet he's vulnerable.
+[00:18:28.448 --> 00:18:31.808] CRUSHER: I guess I find him intriguing.
+[00:18:32.768 --> 00:18:34.688] WESLEY: Seems like there's a little more to it than that.
+[00:18:36.528 --> 00:18:40.048] CRUSHER: Is this your way of asking me if I'm getting romantically involved with him?
+[00:18:41.008 --> 00:18:41.648] WESLEY: You said it,
+[00:18:41.648 --> 00:18:42.128] WESLEY: I didn't.
+[00:18:42.448 --> 00:18:45.488] CRUSHER: My feelings toward him aren't romantic
+[00:18:47.328 --> 00:18:48.048] CRUSHER: exactly.
+[00:18:48.848 --> 00:18:59.088] CRUSHER: I mean, I know that the doctor-patient relationship can sometimes create a false sense of intimacy, but this is different.
+[00:18:59.648 --> 00:19:02.608] CRUSHER: There's an almost spiritual connection.
+[00:19:02.758 --> 00:19:03.358] CRUSHER: I
+[00:19:04.528 --> 00:19:06.208] CRUSHER: guess I'm not making any sense, am I?
+[00:19:08.448 --> 00:19:09.328] WESLEY: I think I understand.
+[00:19:13.728 --> 00:19:13.888] LAFORGE: Data,
+[00:19:15.488 --> 00:19:17.488] LAFORGE: I
+[00:19:21.328 --> 00:19:26.688] LAFORGE: was thinking about the storage capsule last night and I was wondering, what if we've been going about this thing the wrong way?
+[00:19:27.808 --> 00:19:28.848] LAFORGE: We've been trying to analyse
+[00:19:29.270 --> 00:19:30.310] LAFORGE: its mechanical properties.
+[00:19:30.310 --> 00:19:32.390] LAFORGE: What if it is a biochemical storage medium?
+[00:19:33.190 --> 00:19:36.470] DATA: Are you suggesting that it employs memory RNA like an organic cell?
+[00:19:36.950 --> 00:19:38.950] LAFORGE: Well, it does contain quantities of nucleic acids.
+[00:19:39.670 --> 00:19:43.350] DATA: Perhaps the information sequences are encoded in the molecular patterns themselves.
+[00:19:43.350 --> 00:19:45.350] LAFORGE: Computer, scan the storage capsule.
+[00:19:46.150 --> 00:19:49.350] LAFORGE: Analyse molecular sequences on nucleic acid chains.
+[00:19:52.630 --> 00:19:53.830] LAFORGE: Well. what do you know.
+[00:19:54.630 --> 00:19:55.670] LAFORGE: A navigational chart.
+[00:19:56.070 --> 00:19:58.310] DATA: It appears that your hypothesis was correct, Geordi.
+[00:19:58.630 --> 00:19:59.510] LAFORGE: I knew it. Captain?
+[00:20:01.030 --> 00:20:01.297] PICARD: Found something?
+[00:20:01.297 --> 00:20:01.430] DATA: We
+[00:20:02.310 --> 00:20:06.550] DATA: have determined that the storage cube from John Doe's escape pod contains navigational information.
+[00:20:07.270 --> 00:20:08.790] PICARD: Can you match these stars to our charts?
+[00:20:09.910 --> 00:20:13.110] DATA: Computer, run transformational matrix calculations.
+[00:20:13.510 --> 00:20:16.070] DATA: Match navigational referents to known stars in this sector.
+[00:20:17.670 --> 00:20:19.750] COMPUTER: Information on this sector is incomplete.
+[00:20:20.230 --> 00:20:20.950] COMPUTER: No correlation.
+[00:20:21.830 --> 00:20:22.630] LAFORGE: I'm not giving up yet.
+[00:20:22.630 --> 00:20:24.390] LAFORGE: Not after coming so close to cracking this thing.
+[00:20:25.350 --> 00:20:25.750] LAFORGE: You know,
+[00:20:27.270 --> 00:20:32.070] LAFORGE: that might be flight path information from John's ship, but without a frame of reference, I can't determine its origin points.
+[00:20:33.590 --> 00:20:40.550] DATA: Computer, assume those paths are course corrections and derive gravitational values for stellar objects near those flight paths.
+[00:20:44.710 --> 00:20:46.470] DATA: Most of these are ordinary G-type stars.
+[00:20:47.350 --> 00:20:51.121] DATA: This would appear to be a neutron star, possibly a pulsar.
+[00:20:51.121 --> 00:20:54.550] LAFORGE: Which means that this might be a rotational time reference.
+[00:20:55.479 --> 00:20:58.519] DATA: Computer, assume these symbols are pulsars.
+[00:20:59.239 --> 00:21:02.519] DATA: Translate associated values into standard temporal notations.
+[00:21:04.519 --> 00:21:11.399] DATA: Computer, is there a pulsar with a rotational period of one point five two four four seconds within sensor range?
+[00:21:11.959 --> 00:21:12.599] COMPUTER: Affirmative.
+[00:21:13.639 --> 00:21:13.879] LAFORGE: Bingo!
+[00:21:14.519 --> 00:21:19.239] LAFORGE: Now, Computer, overlay navigational chart using referenced pulsars and project a flight path back to it's origin.
+[00:21:19.399 --> 00:21:25.559] COMPUTER: Flight path originated at bearing zero zero three, mark zero one five.
+[00:21:26.919 --> 00:21:29.639] COMPUTER: Distance, two point three parsecs.
+[00:21:29.719 --> 00:21:30.359] LAFORGE: That's it, Captain.
+[00:21:30.919 --> 00:21:31.959] LAFORGE: That's where John Doe came from.
+[00:21:32.519 --> 00:21:34.759] DATA: That bearing is almost directly along our planned course, sir.
+[00:21:35.319 --> 00:21:35.479] PICARD: Good.
+[00:21:36.359 --> 00:21:38.679] PICARD: Then we can continue our mission without significant interruption.
+[00:21:42.039 --> 00:21:42.119] JOHN: Home?
+[00:21:51.799 --> 00:21:52.039] PICARD: Yes.
+[00:21:52.679 --> 00:21:55.959] PICARD: Using the information we found in your escape pod, we may be able to return you to your people.
+[00:21:58.999 --> 00:22:00.119] JOHN: I cannot go back.
+[00:22:02.279 --> 00:22:02.679] PICARD: Why is that?
+[00:22:03.719 --> 00:22:05.559] JOHN: You must not take me home, Captain.
+[00:22:06.199 --> 00:22:08.759] CRUSHER: John, your memory, has it returned?
+[00:22:09.399 --> 00:22:11.159] JOHN: All I know is that we came out here to escape.
+[00:22:11.719 --> 00:22:12.119] PICARD: Escape?
+[00:22:12.199 --> 00:22:13.239] CRUSHER: There were others with you?
+[00:22:13.639 --> 00:22:15.079] JOHN: Yes, I was not alone.
+[00:22:17.959 --> 00:22:19.719] JOHN: But what happened to the others,
+[00:22:22.039 --> 00:22:24.759] JOHN: or what we were escaping from, I cannot remember.
+[00:22:28.439 --> 00:22:30.519] JOHN: But I do know you must not take me back.
+[00:22:30.599 --> 00:22:31.159] JOHN: Not yet.
+[00:22:35.239 --> 00:22:37.559] PICARD: We will not arrive in your star system for at least three weeks.
+[00:22:38.359 --> 00:22:40.439] PICARD: That will give us plenty of time to discuss this further.
+[00:22:42.119 --> 00:22:44.439] CRUSHER: Hopefully, by then you will have regained more of your memory.
+[00:22:45.479 --> 00:22:45.719] JOHN: You're right,
+[00:22:46.039 --> 00:22:46.999] JOHN: of course, Captain.
+[00:22:47.879 --> 00:22:49.559] JOHN: I apologise for my outburst.
+[00:22:50.359 --> 00:22:50.679] PICARD: It's
+[00:22:53.079 --> 00:22:53.559] PICARD: understandable.
+[00:23:31.719 --> 00:23:32.839] JOHN: This ship is astounding.
+[00:23:32.839 --> 00:23:35.159] JOHN: It seems to stretch on without end.
+[00:23:35.799 --> 00:23:37.479] CRUSHER: We can see the rest of it some other time.
+[00:23:38.119 --> 00:23:41.479] CRUSHER: This is your first day out of Sickbay and I don't want you to overexert yourself.
+[00:23:43.799 --> 00:23:45.799] JOHN: This looks like an ideal place to rest.
+[00:23:47.319 --> 00:23:48.679] CRUSHER: My thoughts exactly.
+[00:24:02.994 --> 00:24:03.954] JOHN: Truly remarkable.
+[00:24:04.674 --> 00:24:05.794] CRUSHER: What is?
+[00:24:05.794 --> 00:24:06.914] JOHN: These people.
+[00:24:08.114 --> 00:24:11.154] JOHN: They're all so different from one another yet they work together freely.
+[00:24:11.314 --> 00:24:12.274] CRUSHER: That surprises you?
+[00:24:13.074 --> 00:24:15.794] JOHN: It is new to me.
+[00:24:17.874 --> 00:24:19.394] JOHN: My people are different somehow.
+[00:24:21.714 --> 00:24:22.834] JOHN: If only I could remember.
+[00:24:26.754 --> 00:24:31.714] JOHN: Yesterday, for one terrifying moment, there was clarity.
+[00:24:32.354 --> 00:24:33.634] CRUSHER: You mean the energy pulse?
+[00:24:33.634 --> 00:24:34.674] JOHN: Yes. For that moment
+[00:24:36.274 --> 00:24:37.634] JOHN: my purpose seemed clear,
+[00:24:41.314 --> 00:24:42.034] JOHN: and then it was gone.
+[00:24:45.794 --> 00:24:52.594] CRUSHER: The pain, the energy pulse, must be linked to the cell mutation in the body.
+[00:24:53.714 --> 00:24:56.354] CRUSHER: I wish I could help you find the truth.
+[00:24:58.674 --> 00:25:00.194] JOHN: Beverly, you've done so much for me.
+[00:25:01.554 --> 00:25:03.474] JOHN: I only wish there was some way I could repay you.
+[00:25:04.034 --> 00:25:04.674] CRUSHER: But you have.
+[00:25:06.194 --> 00:25:08.994] CRUSHER: The friendship we've developed has made me very happy.
+[00:25:11.554 --> 00:25:15.234] JOHN: The rapport that exists between us also means a great deal to me.
+[00:25:16.514 --> 00:25:19.074] JOHN: But I am on some kind of journey.
+[00:25:21.829 --> 00:25:22.869] JOHN: Whatever brought me here,
+[00:25:24.469 --> 00:25:29.029] JOHN: whatever is happening to my body, is all part of that journey.
+[00:25:32.389 --> 00:25:33.189] JOHN: And I must complete it
+[00:25:35.509 --> 00:25:37.989] JOHN: before any other consideration.
+[00:25:47.909 --> 00:25:50.629] WORF: Sir, I am reading a vessel on long range scanners.
+[00:25:50.789 --> 00:25:52.869] WORF: It is coming from sector nine five six nine.
+[00:25:53.269 --> 00:25:54.069] PICARD: What configuration?
+[00:25:55.269 --> 00:25:57.989] WORF: Impossible to identify at this distance.
+[00:25:58.469 --> 00:26:00.309] WORF: However, it is on an intercept course.
+[00:26:00.949 --> 00:26:04.549] DATA: Captain, the ship is travelling at warp nine point seven two.
+[00:26:04.789 --> 00:26:06.149] RIKER: Warp nine point seven two?
+[00:26:07.189 --> 00:26:07.989] PICARD: Time to intercept?
+[00:26:08.709 --> 00:26:11.269] DATA: At present course and speed, ten hours fifty three minutes.
+[00:26:11.669 --> 00:26:12.549] PICARD: Try and hail them, Mister Worf.
+[00:26:14.949 --> 00:26:15.829] WORF: No response, Captain.
+[00:26:17.589 --> 00:26:18.709] PICARD: Keep monitoring their approach.
+[00:26:18.869 --> 00:26:20.149] PICARD: Repeat the hail every half an hour.
+[00:26:20.389 --> 00:26:20.789] WORF: Aye, sir.
+[00:26:21.269 --> 00:26:22.949] RIKER: Whoever they are, they're in a big hurry to get here.
+[00:26:29.989 --> 00:26:30.309] TEMPLE: Doctor
+[00:26:40.629 --> 00:26:42.389] TEMPLE: Crusher, medical emergency, room four.
+[00:26:42.389 --> 00:26:42.469] JOHN: I can't make it stop.
+[00:26:56.974 --> 00:26:59.134] CRUSHER: John, tell me. Is it worse than before?
+[00:26:59.374 --> 00:27:00.174] JOHN: Much worse.
+[00:27:00.814 --> 00:27:01.854] TEMPLE: Should I get something for the pain?
+[00:27:02.094 --> 00:27:03.854] CRUSHER: No. The readings are fluctuating too wildly.
+[00:27:04.414 --> 00:27:05.534] CRUSHER: Besides, it wouldn't do any good.
+[00:27:05.534 --> 00:27:07.614] CRUSHER: His entire cell structure is transforming.
+[00:27:07.774 --> 00:27:09.214] JOHN: I have to leave, Beverly.
+[00:27:09.694 --> 00:27:10.894] CRUSHER: John, where do you have to go?
+[00:27:11.134 --> 00:27:13.294] JOHN: I must get off this ship.
+[00:27:13.934 --> 00:27:15.054] CRUSHER: That's impossible.
+[00:27:15.294 --> 00:27:16.414] CRUSHER: Not in your condition.
+[00:27:16.414 --> 00:27:17.054] JOHN: I must!
+[00:27:31.694 --> 00:27:33.214] CRUSHER: Security.
+[00:27:44.814 --> 00:27:47.214] LAFORGE: Okay, let's realign the magnetic inducer on the starboard nacelle.
+[00:28:16.894 --> 00:28:17.214] CRUSHER: John!
+[00:28:20.894 --> 00:28:22.734] WORF: Leave the control booth immediately!
+[00:28:41.621 --> 00:28:43.221] CRUSHER: John, listen to me.
+[00:28:44.181 --> 00:28:44.741] CRUSHER: You must come down.
+[00:28:45.381 --> 00:28:48.501] CRUSHER: I'll try to help you.
+[00:28:48.501 --> 00:28:49.781] WORF: Step away from the controls.
+[00:28:49.781 --> 00:28:49.781] JOHN: Get back.
+[00:29:04.341 --> 00:29:05.141] JOHN: Please, stay away.
+[00:29:06.501 --> 00:29:10.501] WORF: I have no wish to harm you, but you must return to Sickbay immediately.
+[00:29:10.581 --> 00:29:12.981] JOHN: No. Do not come any closer.
+[00:29:13.701 --> 00:29:15.381] JOHN: I cannot control over what is happening
+[00:29:19.941 --> 00:29:21.941] JOHN: to me.
+[00:29:29.221 --> 00:29:30.021] CRUSHER: His neck is broken.
+[00:29:30.341 --> 00:29:31.301] CRUSHER: No life signs.
+[00:29:32.741 --> 00:29:34.261] CRUSHER: Sickbay, form a resuscitation team.
+[00:29:34.261 --> 00:29:35.781] CRUSHER: I have a code seven in shuttlebay two.
+[00:29:35.781 --> 00:29:37.141] CRUSHER: Transporter room, stand by.
+[00:29:37.701 --> 00:29:38.021] SECURITY: Hold it.
+[00:29:38.261 --> 00:29:38.581] CRUSHER: No, don't. Hold
+[00:29:57.158 --> 00:29:57.838] CRUSHER: still.
+[00:29:57.838 --> 00:29:58.518] LAFORGE: Doc.
+[00:30:00.118 --> 00:30:00.198] CRUSHER: I
+[00:30:01.718 --> 00:30:02.198] CRUSHER: can't believe it.
+[00:30:05.718 --> 00:30:06.998] CRUSHER: There's no trace of injury.
+[00:30:14.758 --> 00:30:18.758] PICARD: You admit you were trying to steal a shuttlecraft.
+[00:30:19.958 --> 00:30:20.438] JOHN: Yes.
+[00:30:20.598 --> 00:30:21.878] PICARD: So I ask you again, why?
+[00:30:23.878 --> 00:30:24.518] JOHN: I don't know.
+[00:30:24.998 --> 00:30:25.718] PICARD: Unacceptable.
+[00:30:25.798 --> 00:30:26.438] PICARD: You had a reason.
+[00:30:26.438 --> 00:30:27.318] PICARD: I want to know what it was.
+[00:30:28.358 --> 00:30:28.598] PICARD: Damn it,
+[00:30:28.598 --> 00:30:29.878] PICARD: you nearly killed a member of my crew.
+[00:30:30.038 --> 00:30:30.758] CRUSHER: And healed him.
+[00:30:30.758 --> 00:30:31.558] PICARD: I'm not forgetting that.
+[00:30:31.558 --> 00:30:33.318] PICARD: That's the reason he's here and not in the brig.
+[00:30:33.958 --> 00:30:34.518] JOHN: I warned him.
+[00:30:35.238 --> 00:30:36.438] JOHN: I told him it was dangerous.
+[00:30:36.758 --> 00:30:36.998] PICARD: Why?
+[00:30:37.798 --> 00:30:38.598] PICARD: Why was it dangerous?
+[00:30:39.558 --> 00:30:40.358] PICARD: What is happening to you?
+[00:30:42.358 --> 00:30:42.838] JOHN: I don't know.
+[00:30:45.398 --> 00:30:47.398] CRUSHER: The rate of metamorphosis is accelerating.
+[00:30:47.718 --> 00:30:50.838] CRUSHER: It's almost as if your body were generating an electrical field
+[00:30:50.838 --> 00:30:52.118] CRUSHER: that's warping the tissue.
+[00:30:54.678 --> 00:30:55.078] PICARD: Who are you?
+[00:30:56.598 --> 00:30:57.078] PICARD: What are you?
+[00:30:58.598 --> 00:30:58.998] JOHN: I'm afraid.
+[00:31:00.678 --> 00:31:01.318] JOHN: For myself.
+[00:31:03.078 --> 00:31:03.638] JOHN: For all of you.
+[00:31:03.638 --> 00:31:03.638] JOHN: I
+[00:31:06.198 --> 00:31:06.838] JOHN: have to get away.
+[00:31:07.798 --> 00:31:08.678] JOHN: Isolate myself.
+[00:31:10.438 --> 00:31:13.078] JOHN: Whatever is happening to me, it's dangerous.
+[00:31:13.718 --> 00:31:15.158] PICARD: As Lieutenant Worf discovered.
+[00:31:16.358 --> 00:31:17.558] JOHN: I don't want to hurt anyone.
+[00:31:19.558 --> 00:31:23.798] JOHN: Captain, for the sake of your crew, let me go before this happens again.
+[00:31:23.958 --> 00:31:26.910] CRUSHER: John, I don't believe you're capable of harming any
+[00:31:26.910 --> 00:31:27.238] DATA: Captain,
+[00:31:27.816 --> 00:31:30.136] DATA: the alien vessel is coming within weapons range.
+[00:31:30.456 --> 00:31:31.256] DATA: Its shields are up.
+[00:31:31.576 --> 00:31:32.216] PICARD: I'm on my way.
+[00:31:32.856 --> 00:31:34.456] PICARD: I want him kept under constant surveillance.
+[00:31:39.976 --> 00:31:40.216] LAFORGE: John,
+[00:31:42.536 --> 00:31:43.816] LAFORGE: I really want to thank you.
+[00:31:45.416 --> 00:31:45.736] JOHN: For what?
+[00:31:46.696 --> 00:31:53.096] LAFORGE: I don't know how, or even why, but down on the planet you gave me something. A new confidence.
+[00:31:54.376 --> 00:31:55.496] JOHN: I doubt I can take credit for
+[00:31:57.416 --> 00:31:57.496] JOHN: that.
+[00:31:57.496 --> 00:31:59.576] JOHN: Perhaps I only helped you find something you already
+[00:32:02.456 --> 00:32:02.696] JOHN: had.
+[00:32:05.496 --> 00:32:06.456] DATA: Captain, on screen.
+[00:32:09.576 --> 00:32:11.656] DATA: Alien vessel approaching at half impulse, sir.
+[00:32:12.296 --> 00:32:15.016] DATA: Heading zero five one mark one one four.
+[00:32:15.736 --> 00:32:16.296] PICARD: Raise shields.
+[00:32:17.016 --> 00:32:18.536] PICARD: Slow to one third impulse power.
+[00:32:18.856 --> 00:32:20.936] PICARD: Bring us to one zero three mark zero two five.
+[00:32:21.736 --> 00:32:22.936] PICARD: Mister Worf, hail the alien vessel.
+[00:32:24.856 --> 00:32:26.376] WORF: They continue to ignore our hails, sir.
+[00:32:28.296 --> 00:32:29.176] DATA: They are scanning us, Captain.
+[00:32:30.296 --> 00:32:31.816] WORF: They are answering our hail, Captain.
+[00:32:32.216 --> 00:32:32.696] PICARD: On screen.
+[00:32:35.096 --> 00:32:35.976] JOHN: Sunad.
+[00:32:40.936 --> 00:32:41.256] PICARD: You
+[00:32:43.496 --> 00:32:43.816] PICARD: know him?
+[00:32:44.776 --> 00:32:45.176] JOHN: Yes.
+[00:32:45.976 --> 00:32:46.696] JOHN: I don't know how, but
+[00:32:48.216 --> 00:32:48.936] JOHN: he's dangerous.
+[00:32:51.736 --> 00:32:55.576] SUNAD: I am Commander Sunad of Zalkon.
+[00:32:56.216 --> 00:32:56.536] SUNAD: You are
+[00:32:56.625 --> 00:33:01.265] SUNAD: trespassing into our space and you are holding a Zalkonian citizen.
+[00:33:01.425 --> 00:33:03.985] PICARD: I'm Captain Jean-Luc Picard of the United Federation of Planets.
+[00:33:04.545 --> 00:33:05.905] PICARD: We do not intend transgression of
+[00:33:05.905 --> 00:33:08.305] SUNAD: You will return him to us immediately.
+[00:33:09.825 --> 00:33:12.305] PICARD: Sunad, this individual is a guest aboard our ship.
+[00:33:12.625 --> 00:33:13.825] PICARD: We found him dying in a shipwreck.
+[00:33:14.145 --> 00:33:14.945] PICARD: We returned him to health.
+[00:33:16.865 --> 00:33:18.305] SUNAD: Then you aided a criminal.
+[00:33:19.425 --> 00:33:21.345] SUNAD: He is one of four escaped prisoners.
+[00:33:21.985 --> 00:33:23.425] SUNAD: We eliminated the other three.
+[00:33:24.225 --> 00:33:25.905] SUNAD: We thought this one dead as well.
+[00:33:26.465 --> 00:33:28.945] SUNAD: Return him so we may complete our task.
+[00:33:29.745 --> 00:33:30.625] PICARD: Of what is he accused?
+[00:33:31.025 --> 00:33:33.265] SUNAD: He is a disruptive influence.
+[00:33:33.665 --> 00:33:35.265] SUNAD: He spreads lies.
+[00:33:35.425 --> 00:33:37.025] SUNAD: He encourages dissent.
+[00:33:37.105 --> 00:33:39.825] SUNAD: He disturbs the natural order of our society.
+[00:33:40.785 --> 00:33:41.265] PICARD: In what way?
+[00:33:41.585 --> 00:33:42.625] SUNAD: It is not your concern.
+[00:33:43.905 --> 00:33:45.825] SUNAD: I will give you two hours to comply.
+[00:33:47.665 --> 00:33:48.545] RIKER: Tactical analysis.
+[00:33:49.185 --> 00:33:51.825] WORF: The Zalkonian ship has a formidable armament.
+[00:33:52.145 --> 00:33:53.905] WORF: Their weaponry is comparable to ours.
+[00:33:54.305 --> 00:33:56.545] LAFORGE: They're as fast and probably just as manoeuvrable.
+[00:33:58.145 --> 00:33:59.745] PICARD: Counsellor, do they mean to carry out their threat?
+[00:34:00.305 --> 00:34:00.945] TROI: I believe so.
+[00:34:02.465 --> 00:34:06.465] TROI: Sunad's hatred for John was evident but there's something else.
+[00:34:07.585 --> 00:34:09.345] TROI: The Zalkonians are afraid of John.
+[00:34:11.105 --> 00:34:14.065] PICARD: Commander Riker, Counsellor, Doctor. John, I want you to join us.
+[00:34:14.305 --> 00:34:15.265] PICARD: Mister Data, you have the Bridge.
+[00:34:15.665 --> 00:34:16.865] PICARD: Mister Worf stay at Tactical.
+[00:34:16.945 --> 00:34:18.465] PICARD: Counter any moves the Zalkonian makes.
+[00:34:18.545 --> 00:34:18.865] WORF: Aye, sir.
+[00:34:24.145 --> 00:34:27.505] JOHN: I can neither confirm nor deny what the Zalkonians told you.
+[00:34:28.785 --> 00:34:30.625] PICARD: They make serious accusations against you.
+[00:34:32.363 --> 00:34:33.803] JOHN: Their accusations may be true.
+[00:34:33.803 --> 00:34:34.123] JOHN: I don't know.
+[00:34:36.523 --> 00:34:37.803] JOHN: I don't believe that I am a criminal.
+[00:34:39.243 --> 00:34:41.083] PICARD: You understand the difficult position in which I'm placed.
+[00:34:43.403 --> 00:34:43.883] JOHN: Completely,
+[00:34:45.483 --> 00:34:47.323] JOHN: and I refuse to place your ship in danger.
+[00:34:51.163 --> 00:34:52.843] JOHN: If necessary, I will surrender to them.
+[00:34:55.643 --> 00:34:58.683] JOHN: But I am convinced there's more at stake here than my life.
+[00:35:00.683 --> 00:35:01.323] JOHN: There's something
+[00:35:02.843 --> 00:35:04.043] JOHN: important I must complete.
+[00:35:06.843 --> 00:35:08.203] JOHN: My survival is vital.
+[00:35:12.603 --> 00:35:14.523] JOHN: If I could explain it, I would.
+[00:35:19.723 --> 00:35:22.923] PICARD: I'll inform you of my decision shortly.
+[00:35:32.683 --> 00:35:34.843] CRUSHER: Captain, you can't seriously be considering
+[00:35:34.843 --> 00:35:39.163] PICARD: We must consider all options, Doctor, and not let our personal feelings impede our judgment.
+[00:35:39.563 --> 00:35:42.043] CRUSHER: You're going to tell me it's irrelevant that we'd be sending him to his death.
+[00:35:42.523 --> 00:35:45.003] PICARD: Whether we approve of the Zalkonians' intentions is not the issue.
+[00:35:47.083 --> 00:35:51.643] PICARD: But for what it's worth, I believe John is correct
+[00:35:51.643 --> 00:35:55.723] PICARD: that his existence has broader ramifications than that of a simple criminal.
+[00:35:56.603 --> 00:35:57.563] TROI: Sunad thinks so.
+[00:35:58.123 --> 00:36:00.283] TROI: He feels personally threatened by John.
+[00:36:00.443 --> 00:36:02.683] CRUSHER: Sunad called John a disruptive influence.
+[00:36:02.683 --> 00:36:04.443] CRUSHER: That's hardly a capital offence.
+[00:36:04.770 --> 00:36:06.770] PICARD: It's not up to us to judge their laws, Doctor.
+[00:36:07.090 --> 00:36:09.410] RIKER: I know how I would feel if the situation were reversed,
+[00:36:09.650 --> 00:36:11.970] RIKER: if they were in our territory holding a Federation citizen.
+[00:36:12.930 --> 00:36:17.170] TROI: The Zalkonians truly don't understand our indecision about returning John.
+[00:36:17.970 --> 00:36:20.210] TROI: In their eyes, we shouldn't even be involved.
+[00:36:20.370 --> 00:36:22.050] CRUSHER: But we are involved.
+[00:36:22.770 --> 00:36:23.970] CRUSHER: I saved his life.
+[00:36:25.090 --> 00:36:25.570] CRUSHER: For what?
+[00:36:26.370 --> 00:36:28.930] CRUSHER: So that they could chase him down and take away that life away?
+[00:36:40.770 --> 00:36:43.430] SUNAD: Picard, we will not tolerate more delays.
+[00:36:43.430 --> 00:36:43.810] PICARD: Commander,
+[00:36:45.010 --> 00:36:48.210] PICARD: let me remind you we are on a mission of exploration.
+[00:36:48.610 --> 00:36:52.290] PICARD: Our purpose is to establish peaceful relations with the civilisations we encounter.
+[00:36:52.610 --> 00:36:54.690] SUNAD: We do not want relations with you.
+[00:36:55.170 --> 00:36:57.650] PICARD: If that is your wish, we will respect it.
+[00:36:57.970 --> 00:37:02.370] SUNAD: We simply want you to leave Zalkonian space as soon as you return the criminal.
+[00:37:03.170 --> 00:37:04.130] PICARD: Commander, we will leave.
+[00:37:05.010 --> 00:37:08.130] PICARD: It is not our policy to intervene in the affairs of other cultures.
+[00:37:08.850 --> 00:37:10.690] PICARD: But before I return the survivor to you,
+[00:37:12.210 --> 00:37:17.330] PICARD: I would appreciate a more detailed explanation of what he has done to merit a death sentence.
+[00:37:17.570 --> 00:37:20.130] SUNAD: As I said. it is not your concern.
+[00:37:20.610 --> 00:37:21.010] PICARD: Agreed.
+[00:37:21.490 --> 00:37:23.730] PICARD: However, there are circumstances of which you may be unaware.
+[00:37:24.850 --> 00:37:27.410] PICARD: The survivor has suffered a memory loss.
+[00:37:27.410 --> 00:37:30.210] PICARD: He's therefore ill-equipped to defend himself against your accusations.
+[00:37:30.530 --> 00:37:31.970] SUNAD: There is no defence.
+[00:37:32.305 --> 00:37:33.425] SUNAD: Our judgment is final.
+[00:37:33.745 --> 00:37:34.705] PICARD: There's something else.
+[00:37:35.265 --> 00:37:37.905] PICARD: Since his recovery, he's manifested unusual abilities.
+[00:37:39.745 --> 00:37:40.785] SUNAD: What kind of abilities?
+[00:37:41.345 --> 00:37:44.865] PICARD: He apparently has the power to heal injuries with a simple touch.
+[00:37:45.265 --> 00:37:45.905] SUNAD: Lies.
+[00:37:46.065 --> 00:37:48.865] PICARD: And even to reverse death itself.
+[00:37:49.665 --> 00:37:51.505] SUNAD: Obviously he has corrupted you as well.
+[00:37:51.825 --> 00:37:52.225] SUNAD: I see
+[00:37:52.225 --> 00:37:53.185] SUNAD: I am wasting my time.
+[00:38:24.305 --> 00:38:26.305] CRUSHER: I can't breathe.
+[00:38:26.305 --> 00:38:27.185] JOHN: It's come back to me, Beverly.
+[00:38:29.985 --> 00:38:33.585] JOHN: I know who I am.
+[00:38:33.585 --> 00:38:34.065] JOHN: What I am.
+[00:39:08.880 --> 00:39:09.840] SUNAD: Ready all weapons.
+[00:39:13.520 --> 00:39:15.520] JOHN: You will no longer harm these people, Sunad.
+[00:39:16.080 --> 00:39:17.200] SUNAD: Fire upon that ship.
+[00:39:22.160 --> 00:39:22.960] JOHN: Do not be afraid.
+[00:39:24.400 --> 00:39:25.120] JOHN: I won't hurt you.
+[00:39:26.640 --> 00:39:27.280] SUNAD: Kill him, Captain.
+[00:39:27.600 --> 00:39:28.160] SUNAD: He's evil.
+[00:39:29.840 --> 00:39:31.360] JOHN: You could learn from these people, Sunad.
+[00:39:32.400 --> 00:39:33.200] JOHN: They do not fear me.
+[00:39:33.520 --> 00:39:35.280] SUNAD: They don't know how dangerous you are,
+[00:39:35.520 --> 00:39:37.127] SUNAD: you and the others like you.
+[00:39:37.127 --> 00:39:41.680] JOHN: That is what you and the other leaders have maintained for generations, but it is not true.
+[00:39:44.080 --> 00:39:44.400] JOHN: Captain,
+[00:39:45.200 --> 00:39:50.720] JOHN: my species is on the verge of a wondrous evolutionary change. A transmutation beyond our physical being.
+[00:39:53.360 --> 00:39:56.000] JOHN: I am the first of my kind to approach this metamorphosis.
+[00:39:58.320 --> 00:40:00.880] JOHN: They tried to convince us it was a sickness we would never survive,
+[00:40:01.520 --> 00:40:03.440] JOHN: that the pain and energy pulses would kill us.
+[00:40:04.800 --> 00:40:09.920] JOHN: They claimed we were dangerous so they destroyed anyone who exhibited the signs of the transfiguration.
+[00:40:10.240 --> 00:40:12.190] SUNAD: We were protecting our society.
+[00:40:12.190 --> 00:40:13.360] JOHN: By murdering us?
+[00:40:14.480 --> 00:40:16.560] JOHN: You saw the mutations as a threat to your authority.
+[00:40:16.640 --> 00:40:19.120] JOHN: You were terrified of something you couldn't understand.
+[00:40:20.000 --> 00:40:22.880] JOHN: Some suspected that what was happening to them was not evil.
+[00:40:24.640 --> 00:40:29.120] JOHN: Four of us decided to flee Zalkon and let the metamorphosis take its course.
+[00:40:30.720 --> 00:40:31.600] JOHN: You hunted us down,
+[00:40:32.576 --> 00:40:34.976] JOHN: killed the others, but I survived
+[00:40:37.136 --> 00:40:38.096] JOHN: with the help of a kind
+[00:40:40.816 --> 00:40:41.776] JOHN: and generous people.
+[00:41:00.496 --> 00:41:01.216] JOHN: There is nothing to fear.
+[00:41:02.816 --> 00:41:03.616] JOHN: You can join me.
+[00:41:04.416 --> 00:41:05.616] JOHN: All Zalkonians can.
+[00:41:06.336 --> 00:41:06.896] JOHN: Let me show you.
+[00:41:06.896 --> 00:41:08.016] SUNAD: Don't touch me!
+[00:41:08.016 --> 00:41:09.136] JOHN: As you wish.
+[00:41:10.016 --> 00:41:13.456] JOHN: But others will listen now that you can no longer prevent me from telling them the truth.
+[00:41:14.496 --> 00:41:16.816] JOHN: Those who are willing will follow me.
+[00:41:23.376 --> 00:41:26.096] WORF: Sunad is back aboard the Zalkonian vessel, Captain.
+[00:41:31.296 --> 00:41:33.296] JOHN: My
+[00:41:40.576 --> 00:41:44.656] JOHN: people are about to embark upon a new realm, a new plane of existence,
+[00:41:44.976 --> 00:41:45.456] JOHN: thanks to you.
+[00:41:46.096 --> 00:41:48.256] PICARD: It is our mission to seek out life in all forms.
+[00:41:49.536 --> 00:41:52.256] PICARD: We are privileged to have been present at the emergence of a new species.
+[00:41:54.896 --> 00:41:58.016] JOHN: Beverly, you gave me life and more.
+[00:42:00.096 --> 00:42:01.936] JOHN: I do not have the words for my gratitude
+[00:42:04.016 --> 00:42:04.576] JOHN: nor my sorrow at
+[00:42:06.096 --> 00:42:06.416] JOHN: leaving
+[00:43:00.016 --> 00:43:02.016] JOHN: you.

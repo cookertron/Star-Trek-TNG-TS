@@ -1,0 +1,662 @@
+[00:00:06.320 --> 00:00:08.240] WORF: Captain. Communication from Starfleet.
+[00:00:08.720 --> 00:00:10.560] WORF: They have reported a disturbance in the Neutral Zone.
+[00:00:10.960 --> 00:00:11.520] PICARD: Of what nature?
+[00:00:11.670 --> 00:00:12.270] WORF: A
+[00:00:13.440 --> 00:00:13.680] WORF: battle.
+[00:00:14.640 --> 00:00:17.120] WORF: Quadrant nine, coordinates zero seven zero, mark three.
+[00:00:17.520 --> 00:00:19.120] WORF: There's no information who is involved.
+[00:00:19.200 --> 00:00:20.560] WORF: They are asking if we can investigate.
+[00:00:20.640 --> 00:00:22.800] PICARD: Answer affirmative. Lieutenant La Forge, lay in the course.
+[00:00:23.600 --> 00:00:24.000] LAFORGE: Aye, sir.
+[00:00:24.000 --> 00:00:26.640] DATA: I have no reports of any Federation ships in that area, sir.
+[00:00:27.280 --> 00:00:27.680] RIKER: Ferengi?
+[00:00:28.240 --> 00:00:29.280] PICARD: It's a little out of their territory.
+[00:00:29.280 --> 00:00:30.240] RIKER: Shall we separate the saucer?
+[00:00:30.880 --> 00:00:32.240] PICARD: Let's get a little more information first.
+[00:00:32.880 --> 00:00:33.600] LAFORGE: Course set, Captain.
+[00:00:34.320 --> 00:00:35.120] PICARD: Speed, warp seven.
+[00:00:35.680 --> 00:00:36.400] LAFORGE: Aye, sir, warp seven.
+[00:00:41.760 --> 00:00:43.760] PICARD: Engage.
+[00:00:46.640 --> 00:00:49.020] LAFORGE: We are now approaching the Neutral Zone.
+[00:00:49.020 --> 00:00:49.360] TASHA: Sir,
+[00:00:49.680 --> 00:00:52.960] TASHA: sensors indicate several recent photon explosions and heavy phaser activity.
+[00:00:53.200 --> 00:00:55.600] DATA: Sir, I have analysed the residue from the explosions.
+[00:00:55.920 --> 00:00:57.840] DATA: This is of no known Ferengi design.
+[00:00:58.320 --> 00:01:00.240] DATA: It is possibly Romulan.
+[00:01:01.680 --> 00:01:03.520] PICARD: Now there's a name we haven't heard for a while.
+[00:01:03.600 --> 00:01:05.200] RIKER: I could go a lot longer without hearing it.
+[00:01:05.360 --> 00:01:08.080] PICARD: If the Romulans have returned to this sector we should know about that.
+[00:01:08.560 --> 00:01:09.920] PICARD: Mister Worf, any further activity?
+[00:01:10.160 --> 00:01:10.720] WORF: Negative, sir.
+[00:01:11.680 --> 00:01:12.720] PICARD: Slow to half impulse.
+[00:01:12.880 --> 00:01:14.320] LAFORGE: Going to one half impulse.
+[00:01:19.520 --> 00:01:21.920] LAFORGE: Now entering quadrant nine zero seven, mark three.
+[00:01:22.160 --> 00:01:23.200] PICARD: Shields and deflectors up.
+[00:01:23.200 --> 00:01:24.080] PICARD: Go to Yellow Alert.
+[00:01:25.040 --> 00:01:26.160] DATA: I have located a vessel, sir.
+[00:01:26.880 --> 00:01:27.600] DATA: It is drifting.
+[00:01:29.200 --> 00:01:29.920] PICARD: Put it on main viewer.
+[00:01:30.640 --> 00:01:30.960] TASHA: Aye, sir.
+[00:01:34.314 --> 00:01:34.794] PICARD: Magnify.
+[00:01:37.594 --> 00:01:39.674] DATA: The life support systems on the ship are failing, sir.
+[00:01:39.994 --> 00:01:42.794] DATA: Propulsion, navigation, and all communication, inoperative.
+[00:01:43.274 --> 00:01:44.314] PICARD: Any trace of the other vessel?
+[00:01:44.554 --> 00:01:44.874] DATA: No, sir.
+[00:01:45.274 --> 00:01:47.034] RIKER: If it is a Romulan vessel, it could be cloaked.
+[00:01:47.674 --> 00:01:49.434] PICARD: Tell Starfleet we're entering the Neutral Zone.
+[00:01:49.674 --> 00:01:50.074] DATA: Yes, sir.
+[00:01:50.714 --> 00:01:52.314] PICARD: Mister La Forge, take us in a little closer.
+[00:01:53.274 --> 00:01:53.674] LAFORGE: Aye, aye, sir.
+[00:01:55.274 --> 00:01:56.154] PICARD: Stay sharp everyone.
+[00:02:06.714 --> 00:02:07.354] RIKER: It's Talarian.
+[00:02:10.314 --> 00:02:10.874] PICARD: Life signs?
+[00:02:12.314 --> 00:02:12.954] WORF: Nothing yet, sir.
+[00:02:13.834 --> 00:02:15.194] DATA: I have identified the vessel, Captain.
+[00:02:15.594 --> 00:02:17.914] DATA: It is the Batris, a general cargo vessel.
+[00:02:18.554 --> 00:02:19.274] RIKER: A long way from home.
+[00:02:20.794 --> 00:02:21.274] PICARD: Keep alert.
+[00:02:25.434 --> 00:02:25.754] WORF: Captain,
+[00:02:26.154 --> 00:02:27.194] WORF: possible life signs.
+[00:02:27.754 --> 00:02:28.474] PICARD: What do you mean, possible?
+[00:02:29.034 --> 00:02:32.074] WORF: The readings emanate from a location near what is left of main Engineering.
+[00:02:32.234 --> 00:02:36.634] WORF: There is a great deal of magnetic and radioactive clutter making a positive determination difficult.
+[00:02:37.354 --> 00:02:38.314] RIKER: I'll prepare an away team.
+[00:02:39.034 --> 00:02:40.394] PICARD: Lieutenant Yar, you stay at your post.
+[00:02:40.634 --> 00:02:44.394] PICARD: If this is the result of a Romulan attack, they may still be in the area.
+[00:02:45.274 --> 00:02:45.514] TASHA: Aye, sir.
+[00:02:45.754 --> 00:02:47.594] RIKER: Data, Geordi, let's go.
+[00:02:48.874 --> 00:02:52.394] PICARD: Mister La Forge, are we close enough to use the Visual Acuity transmitter?
+[00:02:53.594 --> 00:02:54.554] LAFORGE: We can certainly try it, sir.
+[00:02:54.874 --> 00:02:55.274] PICARD: Please do.
+[00:02:57.514 --> 00:02:58.074] PICARD: And Number One?
+[00:03:00.634 --> 00:03:02.074] PICARD: Everything about this seems wrong.
+[00:03:03.168 --> 00:03:03.408] RIKER: Agreed. It
+[00:03:03.808 --> 00:03:04.448] RIKER: smells like a trap.
+[00:03:04.528 --> 00:03:04.848] RIKER: Let's go.
+[00:03:26.368 --> 00:03:29.088] PICARD: Space, the final frontier.
+[00:03:31.008 --> 00:03:33.888] PICARD: These are the voyages of the starship Enterprise.
+[00:03:34.928 --> 00:03:47.728] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:50.000 --> 00:04:02.000] [music]
+[00:04:04.000 --> 00:04:47.000] [music]
+[00:04:47.738 --> 00:04:51.098] LOG: Captain's log, stardate 41503.7.
+[00:04:51.418 --> 00:04:52.858] LOG: We have entered the Neutral Zone,
+[00:04:53.018 --> 00:04:55.978] LOG: where a Talarian freighter has been severely damaged in a battle.
+[00:04:56.378 --> 00:04:58.058] LOG: I have sent an away team to investigate.
+[00:04:59.178 --> 00:05:00.538] RIKER: What exactly does this device do?
+[00:05:01.018 --> 00:05:03.498] LAFORGE: Data and I have been working on a way to transmit what my visor sees.
+[00:05:04.218 --> 00:05:06.458] LAFORGE: If it works, the Bridge'll be able to monitor us.
+[00:05:06.778 --> 00:05:07.818] DATA: It has restrictions.
+[00:05:08.058 --> 00:05:11.738] DATA: The information from Geordi's visor is so complex it is difficult to encode.
+[00:05:12.218 --> 00:05:13.818] DATA: Therefore the signal breaks down easily.
+[00:05:13.898 --> 00:05:14.138] RIKER: That
+[00:05:14.538 --> 00:05:15.738] RIKER: means it doesn't have much range.
+[00:05:15.738 --> 00:05:16.298] LAFORGE: Exactly.
+[00:05:16.538 --> 00:05:18.538] LAFORGE: So far, the effective range is only few kilometres,
+[00:05:18.698 --> 00:05:20.298] LAFORGE: but we're working on it.
+[00:05:21.498 --> 00:05:22.298] LAFORGE: La Forge to Bridge.
+[00:05:22.378 --> 00:05:23.098] WORF: This is the Bridge.
+[00:05:23.738 --> 00:05:25.818] LAFORGE: Worf, I've switched on the Visual Acuity Transmitter.
+[00:05:26.218 --> 00:05:26.778] WORF: We are receiving.
+[00:05:27.818 --> 00:05:28.698] WORF: The signal is strong.
+[00:05:29.578 --> 00:05:31.738] LAFORGE: Okay, Worf. I am switching off for transport.
+[00:05:39.338 --> 00:05:40.378] RIKER: Set phasers on stun.
+[00:05:41.098 --> 00:05:41.978] RIKER: Let's be ready for anything.
+[00:05:44.218 --> 00:05:44.698] RIKER: Energise.
+[00:05:55.898 --> 00:05:58.538] LAFORGE: La Forge to Bridge.
+[00:05:58.538 --> 00:06:00.458] PICARD: This is the Enterprise.
+[00:06:00.458 --> 00:06:03.578] LAFORGE: Captain, I'm switching on the transmitter.
+[00:06:04.864 --> 00:06:06.944] PICARD: Ready to receive. Put this on main viewer.
+[00:06:07.104 --> 00:06:07.344] TASHA: Aye, sir.
+[00:06:19.504 --> 00:06:20.144] PICARD: Extraordinary.
+[00:06:31.184 --> 00:06:32.544] PICARD: Now I'm beginning to understand him.
+[00:06:37.104 --> 00:06:37.904] PICARD: Geordi. What was that?
+[00:06:39.424 --> 00:06:40.144] PICARD: Over to the left.
+[00:06:40.784 --> 00:06:41.024] LAFORGE: What?
+[00:06:41.584 --> 00:06:42.224] PICARD: Yes, that.
+[00:06:42.224 --> 00:06:43.104] PICARD: No, no, back.
+[00:06:44.464 --> 00:06:44.784] PICARD: Yes, that.
+[00:06:44.784 --> 00:06:45.424] PICARD: Right there.
+[00:06:46.944 --> 00:06:47.344] PICARD: What is that?
+[00:06:49.424 --> 00:06:50.624] LAFORGE: That's Commander Riker.
+[00:06:52.464 --> 00:06:59.584] PICARD: Ah, to me it's just an undefined form, standing in a visual frenzy.
+[00:07:00.064 --> 00:07:04.144] PICARD: Can you filter out the extraneous information?
+[00:07:04.944 --> 00:07:07.104] LAFORGE: No, I get it all simultaneously.
+[00:07:07.664 --> 00:07:09.184] PICARD: But it's just a jumble.
+[00:07:10.144 --> 00:07:11.344] PICARD: How can you make head or tail of it?
+[00:07:11.904 --> 00:07:15.184] LAFORGE: I select what I want and then disregard the rest.
+[00:07:15.744 --> 00:07:16.704] PICARD: But how is that possible?
+[00:07:18.144 --> 00:07:22.784] LAFORGE: Well, how, in a noisy room, can you select one specific voice or sound?
+[00:07:23.264 --> 00:07:25.104] PICARD: Of course, something you learn.
+[00:07:25.744 --> 00:07:26.304] LAFORGE: Exactly.
+[00:07:26.704 --> 00:07:27.664] LAFORGE: It's something I have learned.
+[00:07:28.304 --> 00:07:29.584] LAFORGE: Does that make it more clear?
+[00:07:30.326 --> 00:07:31.126] PICARD: Look over at Data.
+[00:07:37.446 --> 00:07:38.726] PICARD: There's an aura around Data.
+[00:07:39.766 --> 00:07:41.366] LAFORGE: Well, of course. He's an android.
+[00:07:42.566 --> 00:07:47.366] PICARD: You say that as if you think that's what we all see.
+[00:07:47.366 --> 00:07:48.166] LAFORGE: Don't you?
+[00:07:48.166 --> 00:07:48.566] RIKER: Sir,
+[00:07:48.886 --> 00:07:50.646] RIKER: I hate to break this up, but
+[00:07:52.886 --> 00:07:53.766] PICARD: Oh, yes,
+[00:07:54.886 --> 00:07:56.006] PICARD: of course, Number One.
+[00:07:56.406 --> 00:07:56.806] PICARD: Proceed.
+[00:07:58.566 --> 00:07:58.886] RIKER: Let's go.
+[00:08:30.206 --> 00:08:32.206] DATA: I
+[00:08:46.606 --> 00:08:48.606] DATA: am
+[00:08:56.806 --> 00:08:58.966] DATA: detecting high levels of deuterium gas,
+[00:08:59.216 --> 00:09:01.056] DATA: probably from the leakage in the drive system.
+[00:09:01.216 --> 00:09:01.616] RIKER: Toxic?
+[00:09:02.416 --> 00:09:03.136] DATA: Not as yet, sir.
+[00:09:09.456 --> 00:09:12.096] DATA: The life signs are emanating from the far side of Engineering.
+[00:09:12.976 --> 00:09:14.256] RIKER: What's the safest way around?
+[00:09:15.376 --> 00:09:16.816] DATA: All routes are equally dangerous, sir.
+[00:09:17.136 --> 00:09:18.896] LAFORGE: Well, what's the least dangerous route, Data?
+[00:09:19.376 --> 00:09:21.136] DATA: There is no significant difference.
+[00:09:24.016 --> 00:09:24.496] RIKER: Steady on.
+[00:09:43.456 --> 00:09:45.616] LAFORGE: Commander Riker!
+[00:09:46.496 --> 00:09:46.896] LAFORGE: Commander.
+[00:09:47.456 --> 00:09:48.016] RIKER: Yes, Geordi.
+[00:09:49.056 --> 00:09:51.056] LAFORGE: There's a fissure developing in the bulkhead.
+[00:09:51.296 --> 00:09:53.696] LAFORGE: The skin of the ship is losing its integrity.
+[00:09:54.976 --> 00:09:55.376] RIKER: Where is it?
+[00:09:55.376 --> 00:09:56.016] RIKER: I can't see it.
+[00:09:56.736 --> 00:09:58.896] LAFORGE: Right there.
+[00:10:01.056 --> 00:10:02.176] PICARD: Geordi, step closer.
+[00:10:07.536 --> 00:10:12.496] PICARD: It looks to me like a spectrograph indicating metal fatigue.
+[00:10:13.296 --> 00:10:14.336] PICARD: Is that how you interpret it?
+[00:10:14.896 --> 00:10:15.776] LAFORGE: Very good, Captain.
+[00:10:15.776 --> 00:10:16.496] LAFORGE: Exactly right.
+[00:10:17.376 --> 00:10:19.616] RIKER: How long before this hull ruptures?
+[00:10:20.336 --> 00:10:21.616] LAFORGE: It's impossible to be exact.
+[00:10:21.776 --> 00:10:24.016] LAFORGE: I'd say five minutes.
+[00:10:24.416 --> 00:10:25.216] LAFORGE: Probably less.
+[00:10:26.571 --> 00:10:26.891] RIKER: Let's go.
+[00:10:27.211 --> 00:10:27.211] PICARD: Geordi,
+[00:10:43.691 --> 00:10:44.491] PICARD: we've lost transmission.
+[00:10:45.531 --> 00:10:46.491] LAFORGE: Signal overload.
+[00:10:46.971 --> 00:10:48.251] LAFORGE: I'm surprised it lasted this long.
+[00:10:56.891 --> 00:10:59.931] RIKER: We've reached the core, Captain.
+[00:11:01.051 --> 00:11:02.731] DATA: The life signs are very strong now, sir.
+[00:11:03.211 --> 00:11:04.251] DATA: They are coming from over there.
+[00:11:05.531 --> 00:11:06.491] RIKER: Is there any other way around?
+[00:11:06.891 --> 00:11:07.211] DATA: Negative.
+[00:11:07.771 --> 00:11:08.731] DATA: This is the only way.
+[00:11:09.451 --> 00:11:11.691] DATA: The safest way to proceed is for me to cross alone.
+[00:11:12.011 --> 00:11:14.171] DATA: The heat and toxic gases have less effect on me.
+[00:11:15.691 --> 00:11:16.091] RIKER: Agreed.
+[00:11:27.531 --> 00:11:28.971] RIKER: Captain, Data's gone ahead.
+[00:11:30.011 --> 00:11:32.731] RIKER: The life signs seem to be coming from the far side of Engineering.
+[00:11:34.491 --> 00:11:34.491] DATA: I've
+[00:11:38.731 --> 00:11:39.291] DATA: found them, sir.
+[00:11:39.691 --> 00:11:41.131] DATA: The door to their compartment is jammed.
+[00:11:48.251 --> 00:11:48.251] DATA: The
+[00:11:52.091 --> 00:11:53.851] DATA: control mechanism's not operative, sir.
+[00:12:00.062 --> 00:12:02.862] RIKER: This is Commander Riker of the USS Enterprise.
+[00:12:03.262 --> 00:12:03.902] RIKER: Do you hear me?
+[00:12:07.422 --> 00:12:09.342] DATA: I advise against the use of phasers, sir.
+[00:12:09.342 --> 00:12:10.702] DATA: The gas buildup is too great.
+[00:12:11.022 --> 00:12:11.662] LAFORGE: He's right, sir.
+[00:12:11.662 --> 00:12:13.982] LAFORGE: A phaser discharge now could blow us all out of here.
+[00:12:14.462 --> 00:12:15.022] DATA: Shall I, sir?
+[00:12:16.382 --> 00:12:17.502] PICARD: Number One, what's going on?
+[00:12:18.702 --> 00:12:20.222] RIKER: We're about to force the door.
+[00:12:37.662 --> 00:12:39.902] PICARD: What is it?
+[00:12:39.982 --> 00:12:40.622] PICARD: What do you see?
+[00:12:41.662 --> 00:12:42.462] RIKER: Klingons.
+[00:12:43.662 --> 00:12:44.142] PICARD: Klingons?
+[00:12:45.902 --> 00:12:47.502] KORRIS: I
+[00:12:50.622 --> 00:12:51.182] KORRIS: am Korris.
+[00:12:51.822 --> 00:12:53.502] RIKER: We'll handle the formalities later.
+[00:12:53.502 --> 00:12:54.782] RIKER: Right now we have to get off this ship.
+[00:12:54.862 --> 00:12:55.902] RIKER: Are there any others survivors?
+[00:12:57.022 --> 00:12:57.262] KORRIS: No.
+[00:13:00.542 --> 00:13:02.462] DATA: I believe I have found a quicker way out of here, sir.
+[00:13:03.902 --> 00:13:04.462] RIKER: Check him out.
+[00:13:08.462 --> 00:13:09.982] DATA: He is alive, sir, but just barely.
+[00:13:10.222 --> 00:13:12.142] RIKER: Then pick the body and let's get out of here.
+[00:13:12.222 --> 00:13:12.462] KORRIS: No.
+[00:13:15.422 --> 00:13:16.302] KORRIS: I will carry him.
+[00:13:17.182 --> 00:13:17.822] DATA: As you wish.
+[00:13:18.382 --> 00:13:19.342] LAFORGE: Come on, let's go!
+[00:13:21.662 --> 00:13:23.422] PICARD: Tasha, go to transporter room three.
+[00:13:24.737 --> 00:13:26.097] PICARD: I want you there when the away team returns.
+[00:13:26.657 --> 00:13:27.057] TASHA: Aye, sir.
+[00:13:29.605 --> 00:13:31.605] LAFORGE: Commander,
+[00:13:34.154 --> 00:13:36.154] LAFORGE: we
+[00:13:38.702 --> 00:13:40.702] LAFORGE: are
+[00:13:42.977 --> 00:13:43.145] LAFORGE: out of time.
+[00:13:43.148 --> 00:13:43.169] LAFORGE: This ship is blowing.
+[00:13:43.172 --> 00:13:43.537] RIKER: Transporter room, have you got a lock on us?
+[00:13:44.497 --> 00:13:45.377] TASHA: Too much interference.
+[00:13:46.097 --> 00:13:47.937] TASHA: You have to get farther away from the Engineering section.
+[00:13:48.257 --> 00:13:50.017] WORF: Sir, the Engineering section is critical.
+[00:13:50.017 --> 00:13:51.377] WORF: Destruction of the Batris is imminent.
+[00:13:51.377 --> 00:13:53.057] PICARD: They're out of options. Do it!
+[00:13:53.537 --> 00:13:54.217] PICARD: Now!
+[00:13:54.217 --> 00:13:54.897] RIKER: Bridge,
+[00:14:41.777 --> 00:14:42.897] RIKER: this is Commander Riker.
+[00:14:44.097 --> 00:14:45.537] RIKER: We are taking the survivors to Sickbay.
+[00:14:49.377 --> 00:14:49.937] PICARD: I'll be in Sickbay.
+[00:14:50.188 --> 00:14:50.508] WORF: Captain.
+[00:14:52.028 --> 00:14:53.308] WORF: Request permission to join you.
+[00:14:54.428 --> 00:14:54.828] PICARD: Granted.
+[00:15:01.468 --> 00:15:02.988] WORF: Debris is still being analysed.
+[00:15:03.548 --> 00:15:04.988] PICARD: Inform me as soon as it is complete.
+[00:15:05.468 --> 00:15:05.868] WORF: Aye, sir.
+[00:15:09.868 --> 00:15:10.668] PICARD: Situation, Doctor.
+[00:15:11.228 --> 00:15:12.428] CRUSHER: His injuries are very critical.
+[00:15:19.308 --> 00:15:21.228] PICARD: I am Jean Luc Picard, Captain of this vessel.
+[00:15:21.708 --> 00:15:24.188] KORRIS: My name is Korris, Captain of the Klingon Defence Force.
+[00:15:24.188 --> 00:15:25.468] KORRIS: This is Lieutenant Konmel.
+[00:15:26.748 --> 00:15:28.428] PICARD: Would you mind telling me what has happened?
+[00:15:29.308 --> 00:15:30.188] KORRIS: We were passengers.
+[00:15:30.348 --> 00:15:33.068] KORRIS: The Talarians were taking us to outpost M Zed Five.
+[00:15:33.868 --> 00:15:35.788] PICARD: What was the ship doing in the Neutral Zone?
+[00:15:36.748 --> 00:15:39.228] KORRIS: We were attacked without warning by a Ferengi cruiser.
+[00:15:39.548 --> 00:15:43.068] KORRIS: During the course of the battle we must have unknowingly entered the Neutral Zone.
+[00:15:43.628 --> 00:15:45.868] WORF: The weapons were not Ferengi.
+[00:15:46.748 --> 00:15:47.868] KORRIS: What is your name?
+[00:15:49.228 --> 00:15:50.108] WORF: I am Lieutenant Worf.
+[00:15:51.628 --> 00:15:53.628] KORRIS: And you are a member of this crew?
+[00:15:54.108 --> 00:15:54.508] WORF: Yes.
+[00:15:56.268 --> 00:15:56.828] KORRIS: You are correct.
+[00:15:58.108 --> 00:16:00.828] KORRIS: The weapons were Klingon, but the vessel was Ferengi.
+[00:16:01.068 --> 00:16:02.348] PICARD: What precipitated the attack?
+[00:16:03.788 --> 00:16:04.268] KORRIS: I don't know.
+[00:16:04.268 --> 00:16:05.308] KORRIS: We were in our quarters.
+[00:16:05.708 --> 00:16:11.708] KONMEL: The captain of the freighter had no combat experience so he did not anticipate the first attack, which was nearly fatal.
+[00:16:11.948 --> 00:16:14.108] KORRIS: We took control with his permission.
+[00:16:14.508 --> 00:16:16.588] KORRIS: The Ferengi called for surrender.
+[00:16:17.228 --> 00:16:19.468] KORRIS: I told the Captain to agree to all their terms.
+[00:16:19.788 --> 00:16:21.068] KORRIS: We had only one chance,
+[00:16:21.385 --> 00:16:23.705] KORRIS: but I was confident it would be enough.
+[00:16:24.665 --> 00:16:27.705] KONMEL: As adversaries the Ferengi are not very worthy.
+[00:16:28.265 --> 00:16:31.625] WORF: Still, your weapons were limited and their ship superior.
+[00:16:32.025 --> 00:16:36.825] KORRIS: Yes. All we had was an ancient battery of Merculite rockets.
+[00:16:37.385 --> 00:16:39.865] KORRIS: Our only chance was to trick them into lowering their shields.
+[00:16:40.345 --> 00:16:42.025] KONMEL: We reduced power and lured them in.
+[00:16:42.425 --> 00:16:43.785] KORRIS: They suspected nothing.
+[00:16:44.425 --> 00:16:48.505] KONMEL: Then, when they lowered their shields to beam over a boarding party, we opened fire.
+[00:16:49.705 --> 00:16:52.712] PICARD: Still, there are some points that I'm not very clear about.
+[00:16:52.712 --> 00:16:52.985] KORRIS: Captain,
+[00:16:53.305 --> 00:16:55.145] KORRIS: we are hungry and tired.
+[00:16:56.185 --> 00:16:56.585] PICARD: Of course.
+[00:16:57.145 --> 00:17:01.065] KORRIS: If there is anything else you wish to know about this incident, we will be available.
+[00:17:01.945 --> 00:17:04.425] WORF: Permission to show our guests to their quarters, Captain.
+[00:17:04.985 --> 00:17:05.625] PICARD: Permission granted.
+[00:17:17.145 --> 00:17:17.865] RIKER: What do you think, Captain?
+[00:17:18.665 --> 00:17:20.025] PICARD: There's more to this than we've been told.
+[00:17:21.545 --> 00:17:23.145] PICARD: Why was the Talarian ship so far
+[00:17:23.145 --> 00:17:23.785] PICARD: off course?
+[00:17:24.265 --> 00:17:25.385] PICARD: What was its point of departure?
+[00:17:26.505 --> 00:17:29.785] RIKER: Why would three Klingon officers hitch a ride on a broken down freighter?
+[00:17:31.545 --> 00:17:32.345] PICARD: Contact Starfleet.
+[00:17:32.505 --> 00:17:34.425] PICARD: Find out what they know about Korris and company.
+[00:17:34.825 --> 00:17:37.865] RIKER: It'll take forty eight hours for a message to get to Starfleet on subspace frequency.
+[00:17:37.945 --> 00:17:38.905] PICARD: They're going to be with us for a while.
+[00:17:38.905 --> 00:17:40.025] PICARD: Let's find out all we can about them.
+[00:17:42.425 --> 00:17:45.465] RIKER: Do you think I should have assigned a security team to keep an eye on our guests?
+[00:17:45.465 --> 00:17:47.625] PICARD: No. Worf can deal with anything that might arise.
+[00:17:48.105 --> 00:17:49.065] PICARD: How's your patient, Doctor?
+[00:17:50.087 --> 00:17:50.647] CRUSHER: Not good.
+[00:17:51.527 --> 00:17:52.327] CRUSHER: I'll keep you posted.
+[00:18:04.647 --> 00:18:05.367] KORRIS: Sit, friend.
+[00:18:05.847 --> 00:18:06.487] KORRIS: Let us eat.
+[00:18:06.647 --> 00:18:08.567] KONMEL: O'Mat gri tea and piviots.
+[00:18:17.127 --> 00:18:20.887] KORRIS: I did not know there were Klingons serving on human Starfleet vessels.
+[00:18:21.447 --> 00:18:23.927] WORF: As far as I know, I am the only one.
+[00:18:25.367 --> 00:18:29.767] KORRIS: Tell me, what it is like for the hunter to lie down with the prey?
+[00:18:30.727 --> 00:18:34.087] KORRIS: Have they tamed you, or have you always been docile?
+[00:18:35.527 --> 00:18:36.807] KONMEL: Does it make you gentle?
+[00:18:37.207 --> 00:18:38.647] KONMEL: Has it filled your heart with peace?
+[00:18:39.607 --> 00:18:42.967] KORRIS: Do glorious battles no longer inspire your dreams?
+[00:18:44.327 --> 00:18:45.287] WORF: Why do you mock me?
+[00:18:46.967 --> 00:18:48.327] WORF: Why do you wish to anger me?
+[00:18:49.207 --> 00:18:50.887] KORRIS: Only to see if it is still possible.
+[00:18:52.247 --> 00:18:52.967] WORF: It is.
+[00:19:00.167 --> 00:19:01.127] NURSE: Doctor! I think you'd better come and look at this. The
+[00:19:02.167 --> 00:19:03.063] NURSE: Klingon's condition is worsening.
+[00:19:03.063 --> 00:19:03.287] CRUSHER: He's
+[00:19:03.607 --> 00:19:05.079] CRUSHER: convulsing. Get the hypospray.
+[00:19:05.079 --> 00:19:05.447] PICARD: Commander
+[00:19:05.447 --> 00:19:05.527] PICARD: Korris,
+[00:19:16.807 --> 00:19:17.767] PICARD: this is Captain Picard.
+[00:19:19.047 --> 00:19:19.607] KORRIS: Yes, Captain.
+[00:19:20.727 --> 00:19:23.927] PICARD: I am sorry to report your comrade's injuries are beyond our medical abilities.
+[00:19:26.934 --> 00:19:28.934] CRUSHER: He's
+[00:19:36.278 --> 00:19:38.278] CRUSHER: dying.
+[00:20:32.982 --> 00:20:35.222] CRUSHER: Is there any special arrangement you would like for the body?
+[00:20:38.022 --> 00:20:39.622] KORRIS: It is only an empty shell now.
+[00:20:41.622 --> 00:20:42.822] KORRIS: Please treat it as such.
+[00:20:58.427 --> 00:21:02.747] KONMEL: The opponent that killed Kunivas should have been an enemy, then his death would have been even more glorious.
+[00:21:03.307 --> 00:21:06.587] WORF: If the opponent was not an enemy, who was it?
+[00:21:08.027 --> 00:21:09.787] WORF: Tell me. What really happened?
+[00:21:10.667 --> 00:21:11.947] KORRIS: I do not wish to anger you.
+[00:21:12.667 --> 00:21:16.267] KORRIS: We are after all, brothers lost among infidels.
+[00:21:17.627 --> 00:21:22.769] KORRIS: Tell me, how is it that you come to this ship, that uniform?
+[00:21:22.769 --> 00:21:24.747] WORF: Through an act of kindness.
+[00:21:25.707 --> 00:21:27.867] WORF: The Romulans attacked the Khitomer outpost.
+[00:21:28.507 --> 00:21:29.547] WORF: Everyone was killed.
+[00:21:30.187 --> 00:21:32.347] WORF: I was buried under the rubble and left for dead.
+[00:21:33.067 --> 00:21:35.787] WORF: A human Starfleet officer found me.
+[00:21:36.427 --> 00:21:40.987] WORF: He took me to his home on Gault and told his wife to raise me as his son.
+[00:21:42.347 --> 00:21:43.467] KONMEL: How old were you?
+[00:21:44.427 --> 00:21:45.787] WORF: Before the age of inclusion.
+[00:21:48.107 --> 00:21:48.667] KONMEL: That young?
+[00:21:50.027 --> 00:21:52.027] KORRIS: Gault is a farming colony.
+[00:21:55.787 --> 00:21:58.987] WORF: When my foster brother and I were of age, we entered the Starfleet Academy.
+[00:21:59.307 --> 00:22:00.987] WORF: He hated it and returned to Gault.
+[00:22:01.627 --> 00:22:02.347] WORF: I stayed.
+[00:22:02.747 --> 00:22:04.667] KONMEL: You have not spent much time among your own kind.
+[00:22:05.707 --> 00:22:06.347] WORF: Hardly none.
+[00:22:07.387 --> 00:22:10.267] KORRIS: So, when the night was still and quiet, and
+[00:22:11.467 --> 00:22:15.067] KORRIS: the sound of the blood rushing through your veins filled your ears,
+[00:22:15.627 --> 00:22:20.987] KORRIS: the only way to silence it was to slip out into the night and, like the hunter that spawned you,
+[00:22:21.127 --> 00:22:23.527] KORRIS: join in the struggle of life and death.
+[00:22:25.127 --> 00:22:25.767] KORRIS: You were unable
+[00:22:25.767 --> 00:22:28.967] KONMEL: And those around you did not understand. You frightened them.
+[00:22:29.927 --> 00:22:34.487] KORRIS: They shunned you. Cursed you. Called you vile names, and you knew not why.
+[00:22:35.527 --> 00:22:37.447] KORRIS: Even now do you know why you are driven?
+[00:22:38.407 --> 00:22:44.247] KORRIS: Why you cannot relent or repent or confess or abstain?
+[00:22:45.927 --> 00:22:46.727] KORRIS: How could you know?
+[00:22:48.167 --> 00:22:51.367] KORRIS: There have been no other Klingons to lead you to that knowledge.
+[00:22:53.767 --> 00:22:56.487] WORF: Yes. Yes, those feelings are part of me.
+[00:23:01.207 --> 00:23:02.087] WORF: But I control them.
+[00:23:03.047 --> 00:23:04.247] WORF: They do not rule me.
+[00:23:07.367 --> 00:23:13.687] KORRIS: Yes. To fit in, the humans demand that you change the one thing that you cannot change.
+[00:23:18.087 --> 00:23:20.167] KORRIS: Yet, because you cannot, you do.
+[00:23:21.607 --> 00:23:23.127] KORRIS: That too is the mark of the warrior.
+[00:23:24.967 --> 00:23:25.767] KORRIS: You said that I mock you.
+[00:23:26.887 --> 00:23:27.367] KORRIS: I do not.
+[00:23:28.407 --> 00:23:29.207] KORRIS: I salute you.
+[00:23:29.927 --> 00:23:31.207] KONMEL: But against whom do you test yourself?
+[00:23:32.007 --> 00:23:33.927] KONMEL: Against what enemy do you charge into battle?
+[00:23:34.727 --> 00:23:35.847] WORF: I have been in battle.
+[00:23:36.007 --> 00:23:36.967] KORRIS: Then you understand.
+[00:23:37.527 --> 00:23:38.847] WORF: Yes, I do.
+[00:23:38.847 --> 00:23:39.287] KORRIS: Brother,
+[00:23:39.687 --> 00:23:44.887] KORRIS: this peace, this alliance, is like a living death to warriors like us.
+[00:23:45.687 --> 00:23:46.167] KONMEL: You're right,
+[00:23:47.207 --> 00:23:48.487] KONMEL: we lied to your Commander.
+[00:23:49.287 --> 00:23:51.207] KONMEL: We commandeered that freighter and left the crew behind,
+[00:23:52.240 --> 00:23:56.240] KONMEL: and we were in search of a place where we could live our lives like true Klingons.
+[00:23:57.040 --> 00:23:58.720] WORF: You did not battle the Ferengi.
+[00:23:58.720 --> 00:24:01.520] KORRIS: It was one of our own cruisers sent to bring us back.
+[00:24:02.480 --> 00:24:04.960] WORF: You destroyed a Klingon vessel?
+[00:24:05.040 --> 00:24:06.960] KORRIS: I did not want to battle our brothers.
+[00:24:07.440 --> 00:24:08.400] KORRIS: I had no choice.
+[00:24:09.200 --> 00:24:12.160] KORRIS: They had been corrupted by the illusion of peace.
+[00:24:12.960 --> 00:24:17.123] KONMEL: They traded our birthright so they could die in their sleep.
+[00:24:17.123 --> 00:24:22.800] KORRIS: A peace that makes the Klingon heart that beats in my chest wither and die.
+[00:24:26.960 --> 00:24:29.920] KORRIS: Is it permitted for you to show us around this ship?
+[00:24:31.680 --> 00:24:33.040] WORF: Yes, of course.
+[00:24:35.520 --> 00:24:35.520] PICARD: And
+[00:24:44.480 --> 00:24:45.440] PICARD: as I watched Worf,
+[00:24:47.200 --> 00:24:49.360] PICARD: it was like looking at a man that I had never known.
+[00:24:51.440 --> 00:24:55.120] DATA: Captain, long range sensors indicate another vessel approaching this area.
+[00:24:55.760 --> 00:24:56.800] PICARD: Can you identify it?
+[00:24:57.760 --> 00:24:58.400] DATA: No, sir, not yet.
+[00:24:59.600 --> 00:25:00.400] PICARD: Keep a close watch on it.
+[00:25:00.880 --> 00:25:02.640] PICARD: So close to the Neutral Zone it can't be random.
+[00:25:04.960 --> 00:25:06.400] UNKNOWN: Let's have a look at that sensor data.
+[00:25:09.040 --> 00:25:11.920] KONMEL: What magnificent battles we could have at the helm of this ship.
+[00:25:14.400 --> 00:25:18.160] WORF: Perhaps your dreams of glory no longer fit the time.
+[00:25:18.800 --> 00:25:20.560] WORF: They belong buried with the past.
+[00:25:21.280 --> 00:25:22.720] KORRIS: Standing here we will never know.
+[00:25:23.920 --> 00:25:25.120] KORRIS: Our answer lies out there.
+[00:25:25.829 --> 00:25:27.254] KORRIS: Our instincts will lead us.
+[00:25:27.254 --> 00:25:30.389] KONMEL: Instincts that have not been dulled by living among civilised men.
+[00:25:33.509 --> 00:25:37.829] DATA: I believe, sir, that was the first time outsiders have witnessed the Klingon death ritual.
+[00:25:39.429 --> 00:25:43.528] PICARD: I can understand them looking at a dying man's eyes, but the howling?
+[00:25:43.528 --> 00:25:44.789] DATA: It was a warning.
+[00:25:45.589 --> 00:25:45.909] PICARD: To whom?
+[00:25:46.869 --> 00:25:47.989] DATA: They are warning the dead, sir.
+[00:25:48.629 --> 00:25:51.829] DATA: Beware, a Klingon warrior is about to arrive.
+[00:25:55.509 --> 00:26:02.149] LAFORGE: Captain, that unidentified vessel is approaching us at warp five. Intersect one hour, sixteen minutes, thirty three seconds.
+[00:26:02.469 --> 00:26:03.029] PICARD: Can we get a visual?
+[00:26:03.909 --> 00:26:04.309] LAFORGE: I can try, sir.
+[00:26:16.549 --> 00:26:16.549] PICARD: Magnify.
+[00:26:16.549 --> 00:26:17.429] LAFORGE: Hello.
+[00:26:20.229 --> 00:26:21.029] RIKER: Klingons.
+[00:26:21.989 --> 00:26:23.429] PICARD: Open hailing frequencies, Lieutenant Yar.
+[00:26:24.069 --> 00:26:24.949] TASHA: Hailing frequencies open.
+[00:26:26.389 --> 00:26:29.509] PICARD: Klingon cruiser, this is Captain Jean Luc Picard of the USS Enterprise.
+[00:26:29.989 --> 00:26:32.789] K'NERA: I am Commander K'Nera. What is your purpose in this area?
+[00:26:33.589 --> 00:26:34.869] PICARD: We came to investigate a battle.
+[00:26:35.029 --> 00:26:36.629] PICARD: We rescued three Klingon survivors.
+[00:26:36.949 --> 00:26:39.509] K'NERA: That is all that is left of the crew of the cruiser T'Acog?
+[00:26:40.309 --> 00:26:41.349] PICARD: They were not off the cruiser.
+[00:26:41.589 --> 00:26:43.029] PICARD: They were from the freighter Batris.
+[00:26:43.109 --> 00:26:44.549] PICARD: The leader is Captain Korris.
+[00:26:45.109 --> 00:26:46.549] K'NERA: You have him on your ship?
+[00:26:46.549 --> 00:26:47.349] K'NERA: He is alive?
+[00:26:47.989 --> 00:26:48.389] PICARD: Yes.
+[00:26:48.869 --> 00:26:50.869] K'NERA: He is a criminal. A renegade,
+[00:26:51.466 --> 00:26:55.146] K'NERA: who with two others stole that freighter, and somehow destroyed the Klingon cruiser
+[00:26:55.146 --> 00:26:56.106] K'NERA: sent to bring them back.
+[00:26:56.906 --> 00:27:02.186] K'NERA: We expect the criminals to be delivered into our custody as soon as we are within transporter range.
+[00:27:04.986 --> 00:27:07.386] PICARD: Lieutenant Yar, where are they now?
+[00:27:08.986 --> 00:27:10.266] TASHA: They're with Worf on deck seventeen.
+[00:27:10.906 --> 00:27:11.626] PICARD: Deck seventeen?
+[00:27:11.786 --> 00:27:12.186] TASHA: Yes, sir.
+[00:27:12.666 --> 00:27:14.426] TASHA: Near the auxiliary turbolift to the battle bridge.
+[00:27:14.666 --> 00:27:15.706] TASHA: Shall I alert Lieutenant Worf?
+[00:27:16.266 --> 00:27:17.386] PICARD: No. Send a security team.
+[00:27:18.346 --> 00:27:20.346] RIKER: You don't think Worf would allow them access to the battle bridge?
+[00:27:20.986 --> 00:27:22.746] PICARD: I think, Number One, we cannot assume anything.
+[00:27:23.146 --> 00:27:26.666] TASHA: Captain, shall I stay at my tactical position or lead the security team?
+[00:27:26.746 --> 00:27:27.386] PICARD: Lead the security team,
+[00:27:28.026 --> 00:27:31.546] PICARD: and, Lieutenant, you understand with whom you are dealing.
+[00:27:32.746 --> 00:27:33.066] TASHA: Aye, sir.
+[00:27:37.626 --> 00:27:40.266] KORRIS: We have heard this ship can separate in time of battle.
+[00:27:41.226 --> 00:27:45.466] WORF: Yes. When relieved of its bulk, the Enterprise becomes an exceptional weapon.
+[00:27:47.626 --> 00:27:47.946] TASHA: Worf.
+[00:27:50.586 --> 00:27:51.386] KORRIS: They have come for us.
+[00:27:52.266 --> 00:27:52.586] TASHA: Step aside.
+[00:27:55.626 --> 00:27:56.346] WORF: What is the problem?
+[00:27:57.546 --> 00:27:59.386] TASHA: The Captain wants those two taken into custody.
+[00:28:00.346 --> 00:28:01.386] KORRIS: Do not let them take us, Worf.
+[00:28:02.186 --> 00:28:02.746] KORRIS: Help us.
+[00:28:02.826 --> 00:28:04.186] KONMEL: Listen to the voice of your blood.
+[00:28:04.666 --> 00:28:05.626] KONMEL: You are not of these people.
+[00:28:11.306 --> 00:28:11.706] KORRIS: Yes.
+[00:28:12.666 --> 00:28:13.386] KORRIS: Join us.
+[00:28:30.171 --> 00:28:31.851] TASHA: Go back! Please,
+[00:28:32.411 --> 00:28:34.011] TASHA: turn around and go back to your mother.
+[00:28:37.051 --> 00:28:40.091] TASHA: Bridge, we have a hostage situation on deck seventeen.
+[00:28:48.811 --> 00:28:50.811] GIRL: Mommy.
+[00:28:58.011 --> 00:28:59.771] TASHA: Bridge, this is Lieutenant Yar.
+[00:29:00.891 --> 00:29:01.451] TASHA: Disregard.
+[00:29:02.491 --> 00:29:03.691] TASHA: Situation is under control.
+[00:29:10.811 --> 00:29:12.651] TASHA: By order of the Captain, you are confined to Security.
+[00:29:24.011 --> 00:29:24.571] TASHA: I
+[00:29:26.891 --> 00:29:28.091] TASHA: thought for a minute we had a problem.
+[00:29:28.651 --> 00:29:29.051] WORF: Oh?
+[00:29:29.851 --> 00:29:33.451] TASHA: Yes. It looked like Korris was going to hold that little girl as a hostage.
+[00:29:33.611 --> 00:29:34.891] WORF: That is not our way.
+[00:29:35.371 --> 00:29:36.811] WORF: Cowards take hostages.
+[00:29:37.371 --> 00:29:38.411] WORF: Klingons do not.
+[00:30:14.767 --> 00:30:15.247] KORRIS: Ri'ario.
+[00:30:20.207 --> 00:30:22.207] PICARD: Lieutenant.
+[00:30:22.357 --> 00:30:22.957] PICARD: The
+[00:30:26.847 --> 00:30:28.207] PICARD: Klingon vessel has to arrived.
+[00:30:28.207 --> 00:30:29.967] PICARD: They have requested return of the renegades.
+[00:30:32.527 --> 00:30:34.367] WORF: They will be tried and executed, sir.
+[00:30:34.847 --> 00:30:35.247] PICARD: I know.
+[00:30:36.047 --> 00:30:36.847] PICARD: Lieutenant, understand that
+[00:30:36.847 --> 00:30:40.527] PICARD: I am not unmindful of the mixed feelings you must have about this incident.
+[00:30:42.047 --> 00:30:42.527] WORF: Thank you, sir.
+[00:30:46.047 --> 00:30:47.967] WORF: Are there no other options, sir?
+[00:30:48.527 --> 00:30:49.247] PICARD: None that I can see.
+[00:30:58.607 --> 00:31:00.047] RIKER: He seems to be handling this quite well, sir.
+[00:31:00.447 --> 00:31:01.007] PICARD: So far.
+[00:31:04.127 --> 00:31:05.087] PICARD: He must be torn.
+[00:31:05.247 --> 00:31:05.967] PICARD: These are his people.
+[00:31:06.687 --> 00:31:08.367] DATA: The Klingon vessel is within range, sir.
+[00:31:08.687 --> 00:31:10.447] DATA: They are requesting visual contact.
+[00:31:11.007 --> 00:31:11.727] PICARD: Open frequencies.
+[00:31:12.447 --> 00:31:13.647] DATA: Hailing frequencies open, sir.
+[00:31:16.217 --> 00:31:19.097] K'NERA: We are in position now to receive the criminals.
+[00:31:20.537 --> 00:31:22.201] PICARD: We're prepared to transfer.
+[00:31:22.201 --> 00:31:22.617] WORF: Captain.
+[00:31:25.577 --> 00:31:28.057] WORF: Request permission to address the Captain on the Klingon vessel.
+[00:31:30.617 --> 00:31:33.417] WORF: I know it is against standard procedure, but there is something I must say.
+[00:31:34.937 --> 00:31:35.657] PICARD: Permission granted.
+[00:31:46.457 --> 00:31:48.537] WORF: K'Mongi B'Mus.
+[00:31:48.537 --> 00:31:50.617] K'NERA: G'Armond T'Ris.
+[00:31:52.217 --> 00:31:53.577] K'NERA: What is it you want?
+[00:31:54.857 --> 00:31:55.417] WORF: To plead.
+[00:31:56.617 --> 00:31:57.817] K'NERA: You waste your time.
+[00:31:58.617 --> 00:32:00.937] K'NERA: Their actions threaten the alliance.
+[00:32:01.257 --> 00:32:03.097] K'NERA: They disobeyed and must be punished.
+[00:32:03.657 --> 00:32:04.137] WORF: Yes,
+[00:32:04.697 --> 00:32:09.177] WORF: they must be punished, but not executed with dishonour.
+[00:32:10.297 --> 00:32:11.337] K'NERA: Why do you care?
+[00:32:13.657 --> 00:32:17.177] WORF: What burns in their eyes, fires my soul.
+[00:32:18.617 --> 00:32:22.297] WORF: I hear their words, and I see it all as it was.
+[00:32:23.497 --> 00:32:25.737] WORF: Part of me longs for that time.
+[00:32:26.617 --> 00:32:28.857] K'NERA: It's bred in the bone. We all do.
+[00:32:30.777 --> 00:32:37.417] WORF: Then send them to a planet in the Halee system, where they can meet death on their feet with a weapon in their hands, not tied and helpless.
+[00:32:38.457 --> 00:32:40.537] K'NERA: When one of us dies that way
+[00:32:40.874 --> 00:32:42.314] K'NERA: it diminishes all of us.
+[00:32:42.874 --> 00:32:43.874] WORF: Yes.
+[00:32:43.874 --> 00:32:44.874] K'NERA: Brother,
+[00:32:44.874 --> 00:32:46.874] K'NERA: I feel as you.
+[00:32:48.074 --> 00:32:51.754] K'NERA: I too wish they could fly free, but I have no choice.
+[00:32:53.434 --> 00:32:53.754] WORF: Sir.
+[00:32:55.114 --> 00:32:56.954] K'NERA: We await the transfer.
+[00:33:03.914 --> 00:33:06.874] PICARD: Lieutenant Yar, escort the prisoners to the Transporter room.
+[00:33:07.514 --> 00:33:07.594] TASHA: Aye,
+[00:33:10.794 --> 00:33:10.794] TASHA: sir.
+[00:33:59.754 --> 00:34:00.394] GUARD: This is Ramos.
+[00:34:00.474 --> 00:34:02.394] GUARD: The forcefield in Security Three has been broken.
+[00:34:31.176 --> 00:34:31.976] TASHA: Lieutenant Yar to Bridge.
+[00:34:32.136 --> 00:34:32.936] TASHA: There's been an escape.
+[00:34:33.256 --> 00:34:34.696] TASHA: At least one of my security is dead.
+[00:34:35.256 --> 00:34:35.896] TASHA: So is Konmel.
+[00:34:36.696 --> 00:34:37.976] TASHA: Korris is loose and armed.
+[00:34:37.976 --> 00:34:38.936] PICARD: Keep me informed, Lieutenant.
+[00:34:39.416 --> 00:34:39.496] TASHA: Aye, sir.
+[00:34:39.496 --> 00:34:39.736] PICARD: Data,
+[00:34:45.096 --> 00:34:47.576] PICARD: visual on K'Nera.
+[00:34:49.096 --> 00:34:49.816] DATA: Visual on, sir.
+[00:34:53.656 --> 00:34:55.416] PICARD: Captain, there will be a short delay.
+[00:34:56.696 --> 00:34:57.736] PICARD: Korris has escaped.
+[00:34:59.016 --> 00:35:01.256] K'NERA: He is a trained Klingon warrior, Captain.
+[00:35:02.136 --> 00:35:03.656] K'NERA: Perhaps more than you can handle.
+[00:35:04.536 --> 00:35:07.416] K'NERA: It is not a disgrace to request our assistance.
+[00:35:08.376 --> 00:35:08.536] PICARD: I
+[00:35:10.376 --> 00:35:11.576] PICARD: think we can handle the situation.
+[00:35:11.726 --> 00:35:13.126] CREWMAN: He's up there!
+[00:35:40.057 --> 00:35:40.297] TASHA: Captain,
+[00:35:40.537 --> 00:35:41.737] TASHA: Korris is in main Engineering.
+[00:35:45.657 --> 00:35:45.977] PICARD: Commander Korris.
+[00:35:46.297 --> 00:35:47.417] PICARD: This is a futile effort.
+[00:35:47.737 --> 00:35:48.297] PICARD: You cannot win.
+[00:35:50.217 --> 00:35:51.977] KORRIS: I will speak only to my countryman!
+[00:35:52.617 --> 00:35:53.177] KORRIS: Only to Worf!
+[00:36:05.337 --> 00:36:08.617] TASHA: Captain, he has a phaser aimed directly at the dilithium crystal chamber.
+[00:36:08.937 --> 00:36:09.897] TASHA: At that range, one blast and
+[00:36:09.897 --> 00:36:10.057] PICARD: I
+[00:36:10.057 --> 00:36:10.777] PICARD: understand, Lieutenant.
+[00:36:11.737 --> 00:36:12.057] WORF: Captain,
+[00:36:13.817 --> 00:36:14.937] WORF: permission to leave the Bridge.
+[00:36:19.017 --> 00:36:19.337] PICARD: We'll both
+[00:36:21.417 --> 00:36:23.417] PICARD: go.
+[00:36:35.737 --> 00:36:36.457] PICARD: What's the situation?
+[00:36:36.697 --> 00:36:38.297] TASHA: He's on the second level armed with a phaser.
+[00:36:38.377 --> 00:36:39.817] TASHA: We do not have a clear field of fire.
+[00:36:40.137 --> 00:36:41.017] PICARD: How do you suggest we proceed?
+[00:36:41.337 --> 00:36:41.817] TASHA: Wait him out.
+[00:36:42.377 --> 00:36:43.737] WORF: Captain, let me talk to him.
+[00:36:43.897 --> 00:36:45.657] TASHA: I do not think that's a good idea, Worf.
+[00:36:45.657 --> 00:36:46.857] TASHA: Right now he's running on adrenalin.
+[00:36:47.017 --> 00:36:47.737] TASHA: Let it cool.
+[00:36:47.737 --> 00:36:48.697] TASHA: There's no where he can go.
+[00:36:49.177 --> 00:36:52.057] WORF: He will wait only as long as he believes it is to his advantage.
+[00:36:52.457 --> 00:36:57.017] WORF: The moment it is not, he will fire his phaser into the dilithium crystal chamber.
+[00:36:57.657 --> 00:36:59.657] TASHA: That would destroy the Enterprise and him along with it.
+[00:36:59.977 --> 00:37:00.457] WORF: Yes.
+[00:37:01.337 --> 00:37:01.897] WORF: He knows.
+[00:37:03.257 --> 00:37:03.737] PICARD: Talk to him, Worf.
+[00:37:15.406 --> 00:37:15.646] KORRIS: Brother,
+[00:37:18.686 --> 00:37:19.486] KORRIS: I knew you would come.
+[00:37:26.206 --> 00:37:28.926] KORRIS: Now I, we have a chance.
+[00:37:31.886 --> 00:37:39.246] KORRIS: I could not do it alone, but I would rather die here, than let the traitors of Kling pick the meat from my bones.
+[00:37:39.566 --> 00:37:42.926] KORRIS: With you it will work.
+[00:37:43.646 --> 00:37:44.366] WORF: What will work?
+[00:37:45.486 --> 00:37:48.766] KORRIS: I will demand Captain Picard give us access to the battle bridge.
+[00:37:49.486 --> 00:37:54.126] KORRIS: We will separate from the rest of the ship, then together we will light up the galaxy.
+[00:37:55.086 --> 00:37:57.246] KORRIS: Imagine the fear which will roll before us.
+[00:37:58.446 --> 00:38:00.766] WORF: Captain Picard will not comply.
+[00:38:01.406 --> 00:38:04.286] KORRIS: He can not, dare not refuse us.
+[00:38:05.006 --> 00:38:07.566] KORRIS: In order to save themselves, they will give us what we demand.
+[00:38:08.366 --> 00:38:10.286] KORRIS: Then, brother, we are free.
+[00:38:10.436 --> 00:38:11.036] WORF: Put
+[00:38:12.926 --> 00:38:13.726] WORF: down the phaser.
+[00:38:16.126 --> 00:38:16.446] KORRIS: Wait.
+[00:38:18.526 --> 00:38:19.566] KORRIS: I do not believe this.
+[00:38:20.286 --> 00:38:20.846] WORF: Believe it.
+[00:38:22.366 --> 00:38:23.966] KORRIS: I have tasted your heart.
+[00:38:25.166 --> 00:38:28.446] KORRIS: You have been with them, but you are still of us.
+[00:38:29.566 --> 00:38:31.406] KORRIS: Do not deny the challenge of your destiny.
+[00:38:32.126 --> 00:38:33.566] KORRIS: Get off your knees and soar.
+[00:38:34.304 --> 00:38:37.024] KORRIS: Open your eyes and let the dream take flight.
+[00:38:38.224 --> 00:38:41.344] WORF: My brother, it is you who does not see.
+[00:38:42.144 --> 00:38:44.704] WORF: You look for battles in the wrong place.
+[00:38:45.584 --> 00:38:49.264] WORF: The test of the warrior is not without, it is within.
+[00:38:49.824 --> 00:38:52.464] WORF: Here, here we meet the challenge.
+[00:38:53.584 --> 00:38:56.864] WORF: It is the weaknesses in here a warrior must overcome.
+[00:38:57.824 --> 00:38:58.373] KORRIS: No.
+[00:38:58.373 --> 00:39:05.504] WORF: You have talked of glory and of conquest and legends we will write.
+[00:39:06.064 --> 00:39:08.624] KORRIS: Yes, the birthright of every Klingon.
+[00:39:09.104 --> 00:39:10.304] WORF: Yet in all you say,
+[00:39:10.304 --> 00:39:16.864] WORF: where are the words duty, honour, loyalty. Without which a warrior is nothing.
+[00:39:18.944 --> 00:39:19.744] KORRIS: What are you saying?
+[00:39:21.584 --> 00:39:25.264] KORRIS: Living among these humans has sucked the Klingon heart out of you.
+[00:39:26.144 --> 00:39:27.264] WORF: Put down the phaser.
+[00:39:28.144 --> 00:39:29.344] KORRIS: You are a sham!
+[00:39:30.544 --> 00:39:32.784] KORRIS: My words were dust upon the ground.
+[00:39:33.584 --> 00:39:36.144] KORRIS: Your blood has no fire.
+[00:39:36.464 --> 00:39:37.664] KORRIS: You are weak like them.
+[00:39:38.304 --> 00:39:39.744] KORRIS: I don't care what you look like
+[00:39:40.384 --> 00:39:42.224] KORRIS: you are no Klingon.
+[00:39:43.184 --> 00:39:43.904] WORF: Perhaps not.
+[00:39:43.904 --> 00:39:43.904] PICARD: Wait.
+[00:40:43.447 --> 00:40:43.687] PICARD: Mister
+[00:40:43.687 --> 00:40:45.527] PICARD: La Forge, open hailing frequencies.
+[00:40:45.607 --> 00:40:46.807] LAFORGE: Hailing frequencies open, sir.
+[00:40:47.127 --> 00:40:48.887] PICARD: Commander K'Nera, this is Captain Picard.
+[00:40:49.527 --> 00:40:50.567] K'NERA: Yes, Captain?
+[00:40:51.367 --> 00:40:53.767] PICARD: Korris and the other Klingon are dead.
+[00:40:55.927 --> 00:40:57.847] K'NERA: May I speak with Lieutenant Worf?
+[00:41:04.487 --> 00:41:05.127] WORF: Yes, Commander?
+[00:41:06.807 --> 00:41:07.767] K'NERA: How did they die?
+[00:41:10.247 --> 00:41:10.967] WORF: They died well.
+[00:41:11.117 --> 00:41:11.717] PICARD: Do
+[00:41:12.487 --> 00:41:13.447] PICARD: you wish the bodies returned?
+[00:41:15.127 --> 00:41:17.527] K'NERA: They are now only empty shells.
+[00:41:17.527 --> 00:41:20.727] K'NERA: Dispose of them as you see fit. Worf,
+[00:41:22.327 --> 00:41:26.887] K'NERA: when your tour of duty on the Enterprise is complete. consider serving with us.
+[00:41:27.527 --> 00:41:30.887] K'NERA: Your training and experience would be of benefit to us, and perhaps
+[00:41:31.741 --> 00:41:33.901] K'NERA: there are some things we could teach you.
+[00:41:35.901 --> 00:41:36.461] WORF: I am honoured.
+[00:41:37.661 --> 00:41:38.061] WORF: Thank you.
+[00:41:53.421 --> 00:41:56.861] WORF: I was just being polite, sir.
+[00:41:58.461 --> 00:42:01.021] PICARD: Ah. Commendable, Lieutenant.
+[00:42:06.381 --> 00:42:08.941] PICARD: Mister La Forge, set course for Starbase Eighty four.
+[00:42:08.941 --> 00:42:09.341] LAFORGE: Aye, sir.
+[00:42:11.421 --> 00:42:11.741] WORF: Really.
+[00:42:12.541 --> 00:42:14.861] WORF: I have no desire to leave the Enterprise.
+[00:42:14.861 --> 00:42:15.901] PICARD: Good.
+[00:42:16.781 --> 00:42:17.901] LAFORGE: Coordinates set in, Captain.
+[00:42:19.501 --> 00:42:19.901] PICARD: Speed,
+[00:42:20.861 --> 00:42:21.421] PICARD: warp five.
+[00:42:21.741 --> 00:42:22.141] LAFORGE: Aye, sir,
+[00:42:22.141 --> 00:42:22.701] LAFORGE: warp five.
+[00:42:26.461 --> 00:42:26.941] PICARD: And Mister Worf,
+[00:42:29.741 --> 00:42:31.101] PICARD: the Bridge wouldn't be the same without
+[00:42:32.621 --> 00:42:34.621] PICARD: you.
+[00:42:36.461 --> 00:42:36.941] PICARD: Engage.
+[00:42:45.000 --> 00:43:04.000] [music]
+[00:43:05.000 --> 00:43:33.000] [music]

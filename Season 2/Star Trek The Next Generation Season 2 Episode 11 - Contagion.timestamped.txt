@@ -1,0 +1,750 @@
+[00:00:02.640 --> 00:00:05.760] LOG: Captain's log, stardate 42609.1.
+[00:00:06.400 --> 00:00:16.160] LOG: In response to a desperate plea for aid by my old friend, Captain Donald Varley of the USS Yamato, I am running a grave risk by taking the Enterprise into the Neutral Zone.
+[00:00:16.960 --> 00:00:21.120] LOG: Varley's request was prompted by dangerous malfunctions which have been plaguing our sister ship.
+[00:00:21.600 --> 00:00:27.680] LOG: Perhaps with both crews working together we can able to eliminate the problems before our presence is detected by the Romulans.
+[00:00:32.000 --> 00:00:33.040] PICARD: How long to rendezvous, Mister
+[00:00:33.040 --> 00:00:33.280] PICARD: Crusher?
+[00:00:34.560 --> 00:00:36.160] WESLEY: Four minutes and thirty three seconds, sir.
+[00:00:37.440 --> 00:00:38.720] PICARD: Status of download, Mister Data?
+[00:00:39.280 --> 00:00:41.440] DATA: The Yamato log should be in our computer by rendezvous, sir.
+[00:00:41.920 --> 00:00:44.267] RIKER: Have you nailed down our little hiccup yet?
+[00:00:44.267 --> 00:00:44.560] DATA: Sir?
+[00:00:44.800 --> 00:00:45.360] RIKER: The odd reading?
+[00:00:46.080 --> 00:00:46.320] DATA: No, sir.
+[00:00:46.960 --> 00:00:49.520] DATA: It might be due to problems currently being experienced by the Yamato.
+[00:00:52.240 --> 00:00:52.800] PICARD: Trouble, Number One?
+[00:00:54.160 --> 00:00:54.880] RIKER: I'm not sure, sir.
+[00:00:54.880 --> 00:00:56.160] RIKER: Are we alone out here, Worf?
+[00:00:56.720 --> 00:00:56.960] WORF: Yes, sir.
+[00:00:57.360 --> 00:01:02.320] WORF: There are no other vessels in the area except the Yamato, which is coming into visual range now.
+[00:01:03.520 --> 00:01:04.000] PICARD: At last.
+[00:01:06.720 --> 00:01:07.920] WORF: Transmission from the Yamato, sir.
+[00:01:08.720 --> 00:01:09.120] PICARD: On viewer.
+[00:01:11.520 --> 00:01:11.840] PICARD: Donald,
+[00:01:13.760 --> 00:01:16.240] PICARD: what's a nice Starfleet Captain like you doing in a place like this?
+[00:01:17.040 --> 00:01:18.400] VARLEY: It's good to see you again, Jean-Luc,
+[00:01:19.120 --> 00:01:23.360] VARLEY: despite your antique humour. I only hope your people are able to help us.
+[00:01:24.400 --> 00:01:26.480] VARLEY: Malfunctions are becoming serious.
+[00:01:28.250 --> 00:01:29.610] VARLEY: We lost an engineering team when
+[00:01:30.410 --> 00:01:31.530] VARLEY: the computer shut down
+[00:01:31.850 --> 00:01:33.610] VARLEY: a forcefield in an open shuttlebay.
+[00:01:35.210 --> 00:01:36.090] VARLEY: Eighteen people.
+[00:01:39.130 --> 00:01:40.330] RIKER: Do you have any idea what caused this, sir?
+[00:01:40.810 --> 00:01:41.130] VARLEY: None.
+[00:01:41.690 --> 00:01:43.770] VARLEY: They are affecting every system simultaneously.
+[00:01:43.770 --> 00:01:46.010] VARLEY: It's like the ship has suddenly decided to fall apart.
+[00:01:47.050 --> 00:01:52.330] VARLEY: It's beginning to make me think we should have run these Galaxy Class ships across a few more drawing boards before we built one.
+[00:01:53.130 --> 00:01:54.570] PICARD: You believe it's a design flaw?
+[00:01:55.290 --> 00:01:56.490] VARLEY: I don't know.
+[00:01:56.490 --> 00:01:57.770] VARLEY: I'm grasping at straws here.
+[00:01:58.570 --> 00:02:02.170] VARLEY: All I know is we've got to get it fixed, and before I lose more than an engineering team.
+[00:02:03.130 --> 00:02:06.170] RIKER: Do you wish to evacuate any non-essential personnel to the Enterprise, sir?
+[00:02:07.050 --> 00:02:07.370] VARLEY: No.
+[00:02:07.930 --> 00:02:09.050] VARLEY: No, that would be premature.
+[00:02:10.330 --> 00:02:12.330] PICARD: Donald, we'll get our teams to work on it immediately.
+[00:02:13.370 --> 00:02:16.490] PICARD: I'm sure neither of us feels too comfortable sitting around in the Neutral Zone.
+[00:02:17.370 --> 00:02:18.330] VARLEY: I know what you're thinking,
+[00:02:18.330 --> 00:02:19.530] VARLEY: what the hell am I doing here?
+[00:02:20.890 --> 00:02:21.690] VARLEY: Well, I had heard
+[00:02:23.210 --> 00:02:29.450] VARLEY: rumours about a couple of archaeological digs that started making the Iconians sound a lot less like legend.
+[00:02:30.490 --> 00:02:33.530] VARLEY: I did a little investigating, and I located their homeworld.
+[00:02:34.250 --> 00:02:34.890] PICARD: In the Neutral Zone?
+[00:02:35.930 --> 00:02:36.730] VARLEY: In the Neutral Zone.
+[00:02:38.010 --> 00:02:42.010] PICARD: Donald, that was quite a risk to run to satisfy archaeological curiosity.
+[00:02:43.130 --> 00:02:46.250] VARLEY: The risk would be in allowing the Romulans to locate Iconia.
+[00:02:46.730 --> 00:02:47.930] VARLEY: Fortunately, I got
+[00:02:50.730 --> 00:02:51.370] VARLEY: there first.
+[00:02:53.210 --> 00:02:54.410] VARLEY: It's a virtually dead planet, but
+[00:02:55.285 --> 00:02:59.525] VARLEY: enough technology remains to give the Romulans an edge if they should find it.
+[00:03:02.485 --> 00:03:04.245] PICARD: Donald, your transmission is breaking up.
+[00:03:05.045 --> 00:03:06.325] PICARD: Mister Data, try and clean that up.
+[00:03:07.125 --> 00:03:11.205] WORF: Sir, there is an energy build-up in the Yamato's Engineering section.
+[00:03:13.525 --> 00:03:14.885] PICARD: Yamato, this is the Enterprise.
+[00:03:16.325 --> 00:03:17.125] PICARD: Yamato, come
+[00:03:18.645 --> 00:03:18.645] PICARD: in.
+[00:03:18.805 --> 00:03:21.845] WORF: Captain, magnetic seals in the antimatter chamber are decaying!
+[00:03:22.485 --> 00:03:22.805] PICARD: Captain!
+[00:03:24.405 --> 00:03:25.125] PICARD: Donald, come in!
+[00:03:29.685 --> 00:03:30.085] PICARD: Shields up.
+[00:03:36.325 --> 00:03:36.565] WORF: Sir!
+[00:03:40.645 --> 00:03:43.365] DATA: Sensors indicate no life readings, sir.
+[00:03:50.565 --> 00:03:54.005] WORF: Captain. Another vessel is coming within sensor range.
+[00:03:55.525 --> 00:03:56.245] WORF: It is Romulan.
+[00:04:19.125 --> 00:04:21.845] PICARD: Space, the final frontier.
+[00:04:23.722 --> 00:04:26.362] PICARD: These are the voyagers of the Starship Enterprise.
+[00:04:27.643 --> 00:04:35.963] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:37.643 --> 00:04:40.523] PICARD: to boldly go where no one has gone before.
+[00:05:06.000 --> 00:05:16.000] [music]
+[00:05:29.000 --> 00:05:37.000] [music]
+[00:05:35.722 --> 00:05:36.922] LOG: Captain's log, supplemental.
+[00:05:37.562 --> 00:05:42.202] LOG: The Yamato's entire crew and their families, more than a thousand people, have been lost.
+[00:05:43.162 --> 00:05:46.523] LOG: Circumstances unfortunately permit us no pause for grief.
+[00:05:48.442 --> 00:05:49.802] WORF: No response from the Romulan vessel.
+[00:05:50.682 --> 00:05:52.523] RIKER: Arm phasers and prepare to lock on target.
+[00:05:53.508 --> 00:05:54.468] PICARD: Did they attack the Yamato?
+[00:05:55.989 --> 00:05:56.388] DATA: Unknown, sir.
+[00:05:57.989 --> 00:06:00.068] WORF: All their weapons systems have been fully activated.
+[00:06:00.629 --> 00:06:01.508] WORF: Still no response.
+[00:06:03.348 --> 00:06:03.989] PICARD: Romulan vessel,
+[00:06:04.869 --> 00:06:07.668] PICARD: this is Captain Jean-Luc Picard of the USS Enterprise.
+[00:06:10.708 --> 00:06:11.508] TARIS: Captain Picard.
+[00:06:14.309 --> 00:06:16.468] PICARD: Explain your illegal presence in the Neutral Zone.
+[00:06:17.268 --> 00:06:18.708] TARIS: Explain yours.
+[00:06:19.828 --> 00:06:22.068] PICARD: Are you responsible for the destruction of the Yamato?
+[00:06:23.028 --> 00:06:23.348] TARIS: No.
+[00:06:24.629 --> 00:06:29.588] TARIS: But believe me, Captain, had we chosen to exercise our right to defend the Neutral Zone,
+[00:06:29.908 --> 00:06:32.068] TARIS: we would not have stopped with one starship.
+[00:06:33.028 --> 00:06:35.109] TARIS: You will leave at once.
+[00:06:39.428 --> 00:06:39.588] WORF: Mute.
+[00:06:40.068 --> 00:06:40.309] PICARD: Comments.
+[00:06:41.109 --> 00:06:42.468] TROI: She's extremely anxious.
+[00:06:42.788 --> 00:06:45.268] WORF: Understandable if she just destroyed a Federation starship.
+[00:06:45.668 --> 00:06:47.028] RIKER: Your scan was inconclusive.
+[00:06:47.028 --> 00:06:48.388] RIKER: We don't know what happened to the Yamato.
+[00:06:49.268 --> 00:06:51.348] TROI: Our presence in the Neutral Zone is provocative.
+[00:06:51.348 --> 00:06:52.708] TROI: It could force her to respond.
+[00:06:59.348 --> 00:06:59.588] WORF: Open.
+[00:07:00.788 --> 00:07:01.908] PICARD: We will comply
+[00:07:03.189 --> 00:07:09.268] PICARD: when I have determined the cause of the destruction of the Yamato, and when I am fully satisfied that you were not responsible. Picard out.
+[00:07:09.268 --> 00:07:09.348] WORF: They
+[00:07:13.189 --> 00:07:14.468] WORF: are engaging their cloaking device.
+[00:07:14.948 --> 00:07:17.360] RIKER: Good. They can't fire when they're cloaked.
+[00:07:17.360 --> 00:07:19.428] WORF: Unless they have overcome that deficiency.
+[00:07:20.468 --> 00:07:22.388] WORF: The Yamato was destroyed while they were cloaked.
+[00:07:23.189 --> 00:07:23.588] PICARD: Enough.
+[00:07:24.389 --> 00:07:24.869] PICARD: Answers.
+[00:07:25.029 --> 00:07:26.149] PICARD: I want answers, not conjecture.
+[00:07:26.229 --> 00:07:27.429] PICARD: Number One, I want them at
+[00:07:27.509 --> 00:07:28.789] PICARD: a staff meeting in one hour.
+[00:07:29.189 --> 00:07:29.509] RIKER: Aye, sir.
+[00:07:35.189 --> 00:07:41.189] LAFORGE: Sensor recordings reveal that what we witnessed was an uncontrolled and catastrophic matter-antimatter mix.
+[00:07:42.149 --> 00:07:44.949] LAFORGE: The magnetic seals between the chambers collapsed and
+[00:07:45.349 --> 00:07:46.069] PICARD: Wait. Wait.
+[00:07:47.349 --> 00:07:47.989] PICARD: That's not possible.
+[00:07:48.869 --> 00:07:49.669] LAFORGE: Yes, sir, it is,
+[00:07:49.669 --> 00:07:54.069] LAFORGE: but a highly improbable series of events has to take place for such a result to occur.
+[00:07:55.269 --> 00:07:55.669] PICARD: Explain.
+[00:07:57.269 --> 00:07:57.509] LAFORGE: Okay.
+[00:07:58.149 --> 00:08:03.429] LAFORGE: In the event of a breach of seal integrity there's an emergency release system which dumps the antimatter.
+[00:08:04.389 --> 00:08:08.789] LAFORGE: DATA: Apparently such a dump began, was then halted, and the containment seals were dropped.
+[00:08:09.269 --> 00:08:12.229] LAFORGE: There was still sufficient antimatter present to lead to an explosion.
+[00:08:13.189 --> 00:08:15.269] PICARD: And so there is no evidence that a weapon was used?
+[00:08:16.229 --> 00:08:16.549] DATA: No, sir.
+[00:08:16.949 --> 00:08:17.109] DATA: None.
+[00:08:17.989 --> 00:08:20.309] LAFORGE: However it happened, the Yamato did it to herself.
+[00:08:21.189 --> 00:08:21.829] PICARD: Theorise.
+[00:08:23.429 --> 00:08:26.069] PICARD: What could have caused such a catastrophic malfunction?
+[00:08:27.109 --> 00:08:29.029] LAFORGE: I think Captain Varley may have been right.
+[00:08:29.829 --> 00:08:31.705] LAFORGE: There may be a design flaw.
+[00:08:31.705 --> 00:08:33.269] RIKER: In a Galaxy Class starship?
+[00:08:34.069 --> 00:08:34.549] LAFORGE: Yes, sir.
+[00:08:34.789 --> 00:08:37.109] LAFORGE: It's the most sophisticated piece of machinery ever built.
+[00:08:37.749 --> 00:08:38.789] LAFORGE: Something could have been overlooked.
+[00:08:39.989 --> 00:08:43.589] PICARD: Knowing where the flaw is located, can you isolate the problem and solve it?
+[00:08:44.469 --> 00:08:45.509] LAFORGE: We're already working on it, sir.
+[00:08:46.949 --> 00:08:48.229] PICARD: Pull any personnel you can use.
+[00:08:52.272 --> 00:08:59.392] TROI: If we have established that the Romulans were not responsible for the destruction of the Yamato, would it not be prudent to withdraw?
+[00:09:01.712 --> 00:09:05.792] PICARD: If it is a design flaw, we're better to stay where we are and give Geordi time to work on it.
+[00:09:05.942 --> 00:09:06.542] PICARD: Or
+[00:09:07.472 --> 00:09:08.512] PICARD: what happened to the Yamato
+[00:09:08.512 --> 00:09:10.352] PICARD: could happen to us.
+[00:09:26.192 --> 00:09:30.352] PICARD: Computer, access Captain Donald Varley's personal log.
+[00:09:31.952 --> 00:09:32.752] PICARD: Search parameter.
+[00:09:34.512 --> 00:09:39.632] PICARD: Locate entries containing words Romulan and or Iconia.
+[00:09:40.912 --> 00:09:41.232] COMPUTER: Working.
+[00:09:44.112 --> 00:09:44.912] VARLEY: Personal log.
+[00:09:46.032 --> 00:09:53.392] VARLEY: It was kind of Doctor Ramsey to allow me to carry away my own little piece of legend from the archaeological dig at Denius Three.
+[00:09:54.272 --> 00:09:59.472] VARLEY: My engineers have examined it, but are completely baffled by its technology.
+[00:10:02.272 --> 00:10:03.312] VARLEY: What was its purpose?
+[00:10:03.472 --> 00:10:07.072] VARLEY: I'm like a caveman confronted by a tricorder.
+[00:10:08.272 --> 00:10:14.992] VARLEY: I'm certain this device is Iconian, but how far had it travelled before it was abandoned on this alien world?
+[00:10:17.712 --> 00:10:18.512] VARLEY: Personal log.
+[00:10:18.592 --> 00:10:18.672] VARLEY: A
+[00:10:20.192 --> 00:10:21.632] VARLEY: galactic Rosetta stone.
+[00:10:22.802 --> 00:10:29.122] VARLEY: The starfields on the artefact were unintelligible until I took into account two hundred millennia of stellar drift.
+[00:10:30.402 --> 00:10:34.722] VARLEY: After that it was easy to pinpoint Iconia.
+[00:10:35.362 --> 00:10:38.802] VARLEY: My First Officer is questioning the wisdom of my order to violate the Neutral Zone,
+[00:10:40.642 --> 00:10:43.842] VARLEY: but I am convinced that I have taken the only proper course.
+[00:10:44.482 --> 00:10:51.682] VARLEY: Should this advanced technology fall into the hands of the Romulans, we might as well dock our ships and defend ourselves with sticks.
+[00:10:53.922 --> 00:10:54.562] VARLEY: Personal log.
+[00:10:55.602 --> 00:11:03.042] VARLEY: We've been spotted by a Romulan cruiser, but after playing hide and seek through several solar systems, I think I've managed to elude them.
+[00:11:05.202 --> 00:11:06.482] VARLEY: The Iconian probe scan.
+[00:11:08.322 --> 00:11:10.082] VARLEY: Was it an attempt at communication?
+[00:11:11.362 --> 00:11:14.002] VARLEY: If only I knew what we were dealing with here.
+[00:11:16.722 --> 00:11:17.602] VARLEY: Personal log.
+[00:11:17.602 --> 00:11:26.082] VARLEY: I'm unable to send an away team to the surface of Iconia, nor can I scan the energy source on the planet because of these maddening system failures.
+[00:11:27.522 --> 00:11:31.122] VARLEY: It's infuriating to be stopped at the threshold of a dream by one's own ship.
+[00:11:32.642 --> 00:11:34.882] VARLEY: We're leaving orbit to rendezvous with Picard.
+[00:11:35.602 --> 00:11:42.082] VARLEY: If his people can't help us repair the Yamato, I must convince him to continue this exploration.
+[00:11:43.042 --> 00:11:46.562] VARLEY: The future wellbeing of the Federation may well depend upon it.
+[00:11:48.614 --> 00:11:51.334] COMPUTER: No further entries conforming to search parameters.
+[00:12:19.574 --> 00:12:26.134] PICARD: Mister Data, there's a reference in Captain Varley's personal log to a probe that scanned the Yamato.
+[00:12:26.694 --> 00:12:27.974] DATA: Aye, sir. We have a visual record.
+[00:12:30.054 --> 00:12:30.654] PICARD: Put it on main viewer.
+[00:12:30.654 --> 00:12:30.774] RIKER: What
+[00:12:34.454 --> 00:12:35.174] RIKER: the devil is that?
+[00:12:38.454 --> 00:12:38.934] PICARD: Have
+[00:12:42.614 --> 00:12:43.974] PICARD: you seen anything like that before?
+[00:12:44.694 --> 00:12:45.014] DATA: No, sir.
+[00:12:45.734 --> 00:12:47.814] DATA: It appears to be a scanner. Possibly a transmitter.
+[00:12:48.614 --> 00:12:49.334] RIKER: Transmitting what?
+[00:12:50.294 --> 00:12:50.854] DATA: Unknown, sir.
+[00:12:52.214 --> 00:12:52.774] PICARD: Engineering.
+[00:12:53.734 --> 00:12:54.294] LAFORGE: La Forge.
+[00:12:54.694 --> 00:12:56.774] PICARD: What progress on the matter-antimatter scan?
+[00:12:57.494 --> 00:12:58.614] LAFORGE: Everything continues to check out.
+[00:12:58.614 --> 00:13:00.694] LAFORGE: I'm starting an analysis on the magnetic coils.
+[00:13:00.694 --> 00:13:03.734] PICARD: When the Yamato was probed, where was she?
+[00:13:04.374 --> 00:13:07.974] DATA: In orbit around a planet at coordinates two two seven mark three five nine, sir.
+[00:13:12.534 --> 00:13:13.734] PICARD: ETA at warp factor eight?
+[00:13:14.809 --> 00:13:16.249] DATA: Twelve hours sixteen minutes, sir.
+[00:13:17.209 --> 00:13:21.449] WORF: Sir, that would put us substantially close to the Romulan side of the Neutral Zone.
+[00:13:22.169 --> 00:13:23.289] PICARD: That can't be helped. Ensign,
+[00:13:23.449 --> 00:13:25.209] PICARD: lay in a course. Warp factor eight.
+[00:13:25.529 --> 00:13:25.769] WESLEY: Aye, sir.
+[00:13:26.729 --> 00:13:30.003] PICARD: We're going to assume the Yamato's mission.
+[00:13:30.003 --> 00:13:31.874] RIKER: And risk a war?
+[00:13:31.874 --> 00:13:32.809] PICARD: Perhaps prevent
+[00:13:38.729 --> 00:13:40.729] PICARD: one.
+[00:13:41.689 --> 00:13:42.089] PICARD: Come.
+[00:13:46.409 --> 00:13:46.809] WESLEY: Sir,
+[00:13:47.529 --> 00:13:48.489] WESLEY: may I speak with you for a minute?
+[00:13:51.129 --> 00:13:51.689] PICARD: Yes, of course.
+[00:13:58.569 --> 00:13:59.369] PICARD: Well, what is it, Wesley?
+[00:14:01.209 --> 00:14:02.489] WESLEY: It's about the Iconians, sir.
+[00:14:04.009 --> 00:14:05.289] WESLEY: I was told they were just a myth.
+[00:14:06.089 --> 00:14:09.369] PICARD: China was thought to be only a myth until Marco Polo travelled there.
+[00:14:10.249 --> 00:14:11.689] PICARD: No, the Iconians were certainly real.
+[00:14:12.489 --> 00:14:12.809] PICARD: Sit down.
+[00:14:14.169 --> 00:14:23.449] PICARD: We know that three systems within this sector had a number of cultural similarities. Similarities which could only be explained by there being a single unifying influence.
+[00:14:24.169 --> 00:14:25.449] WESLEY: So they colonised those worlds?
+[00:14:26.489 --> 00:14:27.449] PICARD: Probably conquered.
+[00:14:28.009 --> 00:14:29.049] WESLEY: You mean they were warlike?
+[00:14:30.489 --> 00:14:30.969] PICARD: Perhaps.
+[00:14:32.089 --> 00:14:37.369] PICARD: Ancient texts did speak of 'Demons of Air and Darkness'.
+[00:14:38.249 --> 00:14:39.289] WESLEY: Air and darkness?
+[00:14:39.987 --> 00:14:48.307] PICARD: Legend has it that they travelled without the benefit of spaceships, merely appearing out of thin air on distant planets.
+[00:14:48.947 --> 00:14:49.907] WESLEY: Sounds like magic.
+[00:14:50.787 --> 00:14:53.747] PICARD: Well, we would appear magical to Stone Age people.
+[00:14:56.467 --> 00:14:57.507] WESLEY: How did you find all this out?
+[00:14:59.347 --> 00:15:02.547] PICARD: Archaeology has been a hobby since Academy days.
+[00:15:02.547 --> 00:15:06.707] PICARD: But why don't we talk about what really brought you here?
+[00:15:12.467 --> 00:15:13.427] WESLEY: It's the Yamato, Captain.
+[00:15:15.507 --> 00:15:16.787] WESLEY: I can't stop thinking about her.
+[00:15:19.507 --> 00:15:20.467] WESLEY: All those people
+[00:15:22.547 --> 00:15:22.867] WESLEY: dead.
+[00:15:24.947 --> 00:15:30.867] WESLEY: I don't know how you and Commander Riker and Geordi, how you handle it so easily.
+[00:15:31.827 --> 00:15:32.147] PICARD: Easily?
+[00:15:34.867 --> 00:15:35.827] PICARD: Oh no, not easily.
+[00:15:39.427 --> 00:15:40.787] PICARD: We handle it because we're trained to,
+[00:15:42.467 --> 00:15:44.307] PICARD: as you will be. Tea,
+[00:15:44.307 --> 00:15:44.467] PICARD: Earl
+[00:15:44.467 --> 00:15:45.027] PICARD: Grey, hot.
+[00:15:46.307 --> 00:15:52.147] PICARD: But if the time ever comes when the death of a single individual fails to move us
+[00:15:54.627 --> 00:15:55.187] WESLEY: Didn't
+[00:16:00.627 --> 00:16:03.267] WESLEY: you order tea, sir?
+[00:16:04.227 --> 00:16:05.267] PICARD: Now that should not have happened.
+[00:16:07.568 --> 00:16:08.768] LOG: Captain's log, supplemental.
+[00:16:09.008 --> 00:16:13.648] LOG: As happened with our sister ship, the Enterprise is being to experience a series of system failures.
+[00:16:13.888 --> 00:16:19.648] LOG: So far they are random, but I fear they could be early symptoms of what happened to the Yamato.
+[00:16:19.648 --> 00:16:20.421] PICARD: Engineering.
+[00:16:20.421 --> 00:16:21.968] LAFORGE: La Forge.
+[00:16:22.608 --> 00:16:25.328] PICARD: Lieutenant Are you making any progress toward solving our problems?
+[00:16:25.968 --> 00:16:26.608] LAFORGE: Solving them, no sir,
+[00:16:26.848 --> 00:16:28.448] LAFORGE: but I can eliminate one worry.
+[00:16:28.928 --> 00:16:30.368] LAFORGE: It is not a design flaw.
+[00:16:31.088 --> 00:16:35.488] LAFORGE: I've been reviewing the Yamato's log, and I think maybe that alien probe had something to do with her problems.
+[00:16:35.888 --> 00:16:36.128] PICARD: How?
+[00:16:36.688 --> 00:16:37.648] LAFORGE: I need to see the thing.
+[00:16:38.688 --> 00:16:45.248] PICARD: If it was the probe, that explains the Yamato. But how do you account for the difficulties the Enterprise is experiencing?
+[00:16:46.288 --> 00:16:46.848] LAFORGE: I can't.
+[00:16:47.648 --> 00:16:51.888] PICARD: Lieutenant, Are our problems likely to attain the seriousness of those on the Yamato?
+[00:16:53.168 --> 00:16:54.288] LAFORGE: If you're asking for speculation,
+[00:16:54.288 --> 00:16:55.008] LAFORGE: I'd say yes, sir,
+[00:16:55.008 --> 00:16:55.408] LAFORGE: they are.
+[00:16:55.888 --> 00:16:56.608] LAFORGE: I need time.
+[00:16:58.288 --> 00:17:01.808] PICARD: Mister La Forge, time is the one thing which we do not have in abundance.
+[00:17:15.728 --> 00:17:16.768] PICARD: Analysis, Mister Data.
+[00:17:17.648 --> 00:17:18.288] DATA: Scanning, sir.
+[00:17:25.248 --> 00:17:26.379] PICARD: Well, Mister Data?
+[00:17:26.379 --> 00:17:27.888] DATA: No life-form readings, sir.
+[00:17:29.008 --> 00:17:34.608] WORF: All major cities have been heavily damaged, and the pattern of destruction is that consistent with large-scale orbital bombardment.
+[00:17:36.608 --> 00:17:37.328] PICARD: How long ago?
+[00:17:37.968 --> 00:17:39.088] DATA: Approximately two hundred
+[00:17:39.187 --> 00:17:39.987] DATA: thousand years, sir.
+[00:17:41.507 --> 00:17:44.547] WORF: There is an energy source in the mountains of the smaller continent.
+[00:17:45.507 --> 00:17:45.987] PICARD: Magnify.
+[00:17:46.307 --> 00:17:46.307] RIKER: Is
+[00:17:49.667 --> 00:17:50.227] RIKER: that Iconia?
+[00:17:51.747 --> 00:17:53.827] PICARD: Captain Varley died believing that it was.
+[00:17:56.867 --> 00:17:57.267] RIKER: Did you see that?
+[00:17:58.867 --> 00:17:59.187] WORF: Captain.
+[00:17:59.427 --> 00:18:00.867] WORF: Projectile launched from the planet's surface.
+[00:18:02.067 --> 00:18:05.027] DATA: Its size and composition match the probe which scanned the Yamato, sir.
+[00:18:06.867 --> 00:18:07.427] PICARD: Shields up.
+[00:18:07.667 --> 00:18:09.827] PICARD: Prepare a tractor beam. Mister La Forge,
+[00:18:11.027 --> 00:18:12.707] PICARD: I'm going to assist you in your research.
+[00:18:13.507 --> 00:18:15.187] PICARD: A probe has been launched from Iconia.
+[00:18:15.187 --> 00:18:17.347] PICARD: I'm going to capture it.
+[00:18:19.827 --> 00:18:20.147] LAFORGE: No, sir,
+[00:18:20.307 --> 00:18:21.747] LAFORGE: wait! Captain!
+[00:18:22.387 --> 00:18:22.947] LAFORGE: Captain!
+[00:18:23.267 --> 00:18:23.267] LAFORGE: Coming
+[00:18:24.867 --> 00:18:26.307] LAFORGE: through!
+[00:18:26.307 --> 00:18:26.307] LAFORGE: Bridge!
+[00:18:26.457 --> 00:18:27.457] LAFORGE: Emergency stop!
+[00:18:46.685 --> 00:18:47.285] LAFORGE: Stop!
+[00:18:56.800 --> 00:18:57.800] LAFORGE: Damn it!
+[00:19:17.178 --> 00:19:18.058] WORF: Tractor beam ready, sir.
+[00:19:18.377 --> 00:19:20.058] RIKER: Geordi, are you all right?
+[00:19:24.377 --> 00:19:25.577] LAFORGE: Destroy the probe, sir. Quickly!
+[00:19:27.897 --> 00:19:28.857] PICARD: Worf, target phasers.
+[00:19:32.058 --> 00:19:32.857] WORF: Phasers locked on target.
+[00:19:33.258 --> 00:19:33.498] PICARD: Fire!
+[00:19:40.698 --> 00:19:42.058] PICARD: Welcome to the Bridge, Mister La Forge.
+[00:19:43.258 --> 00:19:43.657] LAFORGE: Thank you, sir.
+[00:19:44.938 --> 00:19:48.538] LAFORGE: If that thing had managed to scan us, we never would have had any chance of saving the Enterprise.
+[00:19:53.978 --> 00:20:02.218] LAFORGE: That probe was a transmitter sending an alien computer programme. The same programme that is currently aboard the Enterprise trying to rewrite our software in its own image.
+[00:20:02.617 --> 00:20:06.617] LAFORGE: We have two completely incompatible computer systems trying to interact.
+[00:20:07.178 --> 00:20:09.258] RIKER: So that's why the ship's instruments have become so erratic.
+[00:20:09.258 --> 00:20:09.738] LAFORGE: Yes.
+[00:20:09.738 --> 00:20:10.377] PICARD: What can you do?
+[00:20:11.018 --> 00:20:11.897] LAFORGE: Not very much.
+[00:20:12.137 --> 00:20:15.498] LAFORGE: The Iconian programme is so sophisticated I may never understand it.
+[00:20:15.978 --> 00:20:16.698] DATA: Consider, Captain,
+[00:20:17.418 --> 00:20:26.058] DATA: this programme has entered an alien data base, ours, and in less than seven hours has managed to not only learn our systems, but has begun to reprogram our computer.
+[00:20:26.778 --> 00:20:30.137] PICARD: And so the earlier probe was responsible for the Yamato's destruction?
+[00:20:30.778 --> 00:20:34.298] LAFORGE: Yes, but only in as much as it was the probe that transmitted the programme.
+[00:20:35.258 --> 00:20:37.018] RIKER: But we weren't scanned by that probe.
+[00:20:37.097 --> 00:20:38.698] RIKER: How did this thing get aboard the Enterprise?
+[00:20:39.018 --> 00:20:40.538] DATA: We downloaded the Yamato log,
+[00:20:40.853 --> 00:20:42.453] DATA: and contained in the log was the programme.
+[00:20:43.573 --> 00:20:45.253] PICARD: Why didn't we suffered the same fate?
+[00:20:46.053 --> 00:20:52.213] LAFORGE: The programme affected all of the Yamato's systems simultaneously. But with us, it was deposited within a specific section of our mainframe,
+[00:20:52.533 --> 00:20:56.693] LAFORGE: so it's having to work its way out from that location. That gives us a little breathing space.
+[00:20:57.493 --> 00:20:58.213] RIKER: Not much.
+[00:21:01.653 --> 00:21:03.333] RIKER: The injury reports are increasing too, sir.
+[00:21:04.773 --> 00:21:07.253] DATA: Doctor Pulaski is unwilling to trust the turbolifts.
+[00:21:07.573 --> 00:21:09.893] DATA: She is sending medical teams through the access tunnels.
+[00:21:11.573 --> 00:21:17.493] LAFORGE: Captain, the Enterprise computer system is a lot like our own bodies with voluntary and involuntary system.
+[00:21:17.653 --> 00:21:22.533] LAFORGE: Now, probably ninety percent of what happens on this ship is done automatically. Completely out of our control.
+[00:21:23.973 --> 00:21:27.333] LAFORGE: We're sitting on a bomb that could go off any second, or maybe never.
+[00:21:38.293 --> 00:21:39.813] PULASKI: The biobeds aren't working?
+[00:21:40.373 --> 00:21:42.293] PULASKI: The ship is falling apart!
+[00:21:42.853 --> 00:21:46.373] PULASKI: I've had thirty-five emergency calls scattered across twelve decks.
+[00:21:46.533 --> 00:21:49.893] PULASKI: My trauma teams are being run ragged trying to respond.
+[00:21:50.853 --> 00:21:51.893] PULASKI: Biobeds!
+[00:21:52.133 --> 00:21:52.933] MEDIC: Doctor Pulaski.
+[00:21:53.413 --> 00:21:53.813] PULASKI: Yes.
+[00:21:54.053 --> 00:21:54.933] MEDIC: I've got a problem here.
+[00:21:56.373 --> 00:21:57.413] MEDIC: The knitter isn't working.
+[00:21:59.253 --> 00:21:59.813] PULASKI: Try a splint.
+[00:22:00.053 --> 00:22:00.453] MEDIC: Doctor?
+[00:22:01.093 --> 00:22:01.493] PULASKI: Splint.
+[00:22:01.493 --> 00:22:02.773] PULASKI: It's a very ancient concept.
+[00:22:03.173 --> 00:22:06.293] PULASKI: You take two flat pieces of wood or plastic, a bandage.
+[00:22:06.533 --> 00:22:07.813] PULASKI: The broken limb is kept immobile.
+[00:22:08.106 --> 00:22:08.826] DOCTOR: That's crazy,
+[00:22:08.826 --> 00:22:10.346] DOCTOR: that's not practicing medicine.
+[00:22:10.586 --> 00:22:11.466] PULASKI: Oh yes, it is.
+[00:22:11.466 --> 00:22:15.306] PULASKI: It's a time honoured way to practice medicine, with your head and your heart and your hands.
+[00:22:15.306 --> 00:22:16.506] PULASKI: So jump to
+[00:22:19.066 --> 00:22:19.066] PULASKI: it.
+[00:22:20.346 --> 00:22:20.826] LAFORGE: Damn!
+[00:22:22.026 --> 00:22:24.266] DATA: Try a bypass on the shield control interface.
+[00:22:24.346 --> 00:22:25.386] LAFORGE: No go.
+[00:22:26.026 --> 00:22:28.186] LAFORGE: Let me see if I can directly access the master programme.
+[00:22:35.946 --> 00:22:36.266] LAFORGE: Data?
+[00:22:36.746 --> 00:22:37.066] DATA: Yes?
+[00:22:37.626 --> 00:22:38.186] LAFORGE: What happened?
+[00:22:38.986 --> 00:22:40.666] DATA: Any answer would be mere speculation.
+[00:22:41.306 --> 00:22:44.266] DATA: This is yet another example of how our actions have random results.
+[00:22:45.146 --> 00:22:45.626] LAFORGE: Thanks, Data.
+[00:22:46.106 --> 00:22:46.586] LAFORGE: I noticed.
+[00:22:48.506 --> 00:22:51.066] RIKER: Life support has failed on decks seven and thirteen, sir.
+[00:22:51.626 --> 00:22:54.426] RIKER: Now what if this thing manages to rewrite our entire system?
+[00:22:54.426 --> 00:22:55.306] RIKER: It's so far beyond us that
+[00:22:55.306 --> 00:22:58.106] RIKER: we don't have a hope of understanding it, let alone controlling it.
+[00:22:59.066 --> 00:23:00.746] RIKER: Our own ignorance could kill us.
+[00:23:01.546 --> 00:23:02.186] PICARD: We may never
+[00:23:03.866 --> 00:23:05.066] PICARD: reach that point.
+[00:23:05.466 --> 00:23:08.506] PICARD: A variation of what happened to the Yamato might destroy us first.
+[00:23:08.826 --> 00:23:11.306] RIKER: So we just sit here and watch our ship disintegrate around us?
+[00:23:12.506 --> 00:23:14.026] PICARD: The probe was launched from Iconia,
+[00:23:15.466 --> 00:23:17.466] PICARD: probably from an automated system.
+[00:23:20.826 --> 00:23:23.146] PICARD: There may be records near the launch site
+[00:23:23.866 --> 00:23:25.226] PICARD: that could help us find a solution.
+[00:23:28.106 --> 00:23:29.350] RIKER: I'll arrange an away team.
+[00:23:29.350 --> 00:23:30.346] PICARD: And I'll lead it.
+[00:23:31.866 --> 00:23:32.346] RIKER: You will lead it?
+[00:23:33.706 --> 00:23:34.106] PICARD: Yes.
+[00:23:34.106 --> 00:23:34.506] RIKER: Sir,
+[00:23:34.506 --> 00:23:36.272] RIKER: we've had this conversation a hundred times.
+[00:23:36.272 --> 00:23:37.786] PICARD: And we will have it again,
+[00:23:37.786 --> 00:23:40.346] PICARD: Number One. I have been studying the Iconians since I was a cadet.
+[00:23:40.346 --> 00:23:40.666] PICARD: I have
+[00:23:40.705 --> 00:23:41.505] PICARD: to be the one to go.
+[00:23:42.865 --> 00:23:43.745] PICARD: The Enterprise is yours.
+[00:23:43.895 --> 00:23:44.495] RIKER: For
+[00:23:46.305 --> 00:23:47.345] RIKER: as long as she lasts.
+[00:23:54.065 --> 00:23:56.945] O'BRIEN: I've got a fix on the energy source, and for the moment this baby's working,
+[00:23:56.945 --> 00:23:58.705] O'BRIEN: but that could change in an instant.
+[00:23:59.025 --> 00:24:00.065] PICARD: We're aware of the risks.
+[00:24:00.785 --> 00:24:01.345] PICARD: Energise.
+[00:24:11.105 --> 00:24:11.905] O'BRIEN: Transport complete.
+[00:24:13.345 --> 00:24:14.545] RIKER: Stay sharp, Mister O'Brien,
+[00:24:14.545 --> 00:24:16.545] RIKER: I want to be able to pull them out of there at a moment's notice.
+[00:24:16.945 --> 00:24:17.345] O'BRIEN: Aye, sir.
+[00:24:19.425 --> 00:24:20.385] WESLEY: Commander, Romulan vessel.
+[00:24:22.225 --> 00:24:23.105] RIKER: Open hailing frequencies.
+[00:24:23.105 --> 00:24:24.865] WILLIAMS: They're arming photon torpedoes.
+[00:24:25.825 --> 00:24:26.145] RIKER: Shields up!
+[00:24:26.305 --> 00:24:26.865] RIKER: Go to Red Alert.
+[00:24:28.145 --> 00:24:29.265] WESLEY: Sir, the shields aren't responding.
+[00:24:30.065 --> 00:24:31.585] WILLIAMS: They are preparing to fire photon torpedoes.
+[00:24:32.225 --> 00:24:33.745] RIKER: Mister Crusher, I need those shields!
+[00:24:34.705 --> 00:24:35.425] WESLEY: I'm trying, sir!
+[00:24:36.065 --> 00:24:36.705] WILLIAMS: They're firing.
+[00:24:47.425 --> 00:24:47.825] RIKER: What happened?
+[00:24:49.505 --> 00:24:51.825] WILLIAMS: Instead of firing they suddenly disarmed and cancelled.
+[00:24:53.425 --> 00:24:53.665] RIKER: Fate
+[00:24:56.305 --> 00:24:59.905] RIKER: protects fools, little children and ships named Enterprise.
+[00:25:01.985 --> 00:25:05.825] RIKER: Lock phasers on the Romulans and hold your fire.
+[00:25:07.098 --> 00:25:08.058] WESLEY: Sir, the shields are back up.
+[00:25:09.658 --> 00:25:10.378] RIKER: Impeccable timing.
+[00:25:11.738 --> 00:25:12.858] WESLEY: Sir, the shields are back down.
+[00:25:13.338 --> 00:25:14.378] WILLIAMS: Phaser banks are down.
+[00:25:15.338 --> 00:25:16.218] WESLEY: Shields are back up.
+[00:25:17.338 --> 00:25:19.178] TROI: In another time and place this could be funny.
+[00:25:20.058 --> 00:25:21.418] RIKER: Status of torpedo banks?
+[00:25:22.458 --> 00:25:23.018] WILLIAMS: They're down, too.
+[00:25:23.578 --> 00:25:27.578] RIKER: In case it should become necessary to fight, could you arrange to find me some rocks to throw at them?
+[00:25:29.738 --> 00:25:32.858] WILLIAMS: Sir, the Romulan torpedoes are continuing to arm and disarm.
+[00:25:34.138 --> 00:25:36.058] RIKER: Maybe its attempt to fire was unintentional.
+[00:25:36.538 --> 00:25:37.658] RIKER: Open hailing frequencies.
+[00:25:38.138 --> 00:25:38.458] WILLIAMS: Open.
+[00:25:40.538 --> 00:25:41.338] RIKER: Romulan vessel,
+[00:25:41.658 --> 00:25:44.538] RIKER: this is Commander William Riker, First Officer of the USS Enterprise.
+[00:25:45.098 --> 00:25:46.458] RIKER: Why did you attempt to fire on us?
+[00:25:47.898 --> 00:25:49.978] TARIS: This is Sub-Commander Taris of the Haakona.
+[00:25:50.778 --> 00:25:53.098] TARIS: Why have you penetrated deeper into the Neutral Zone?
+[00:25:53.738 --> 00:25:54.938] RIKER: Why are you still here?
+[00:25:55.978 --> 00:25:58.138] TARIS: I have claimed this planet for the Romulan Empire.
+[00:25:58.938 --> 00:26:00.058] RIKER: This is the Neutral Zone.
+[00:26:00.058 --> 00:26:01.898] RIKER: Nobody can claim anything.
+[00:26:02.778 --> 00:26:07.178] TARIS: You will withdraw or I will be forced to destroy your ship and your away team.
+[00:26:08.058 --> 00:26:08.378] RIKER: What
+[00:26:13.978 --> 00:26:14.458] RIKER: the hell?
+[00:26:16.618 --> 00:26:17.978] TARIS: This is your final warning,
+[00:26:18.058 --> 00:26:18.858] TARIS: I will not
+[00:26:21.418 --> 00:26:23.098] RIKER: Having a little trouble with your systems, Commander?
+[00:26:23.898 --> 00:26:25.898] RIKER: Maybe we could consider postponing the war
+[00:26:27.578 --> 00:26:29.898] RIKER: until we solve our more immediate problem?
+[00:26:31.178 --> 00:26:32.858] TARIS: You're stalling for time.
+[00:26:32.938 --> 00:26:34.058] WESLEY: Sir, another probe launched from the
+[00:26:34.092 --> 00:26:35.532] WESLEY: planet, heading toward the Romulans.
+[00:26:36.252 --> 00:26:37.052] RIKER: Have we got our phasers back?
+[00:26:37.292 --> 00:26:37.772] WILLIAMS: No, sir.
+[00:26:38.892 --> 00:26:42.092] RIKER: Taris, if you've got phaser capability, prepare use them now!
+[00:26:42.732 --> 00:26:42.892] TARIS: What?
+[00:26:43.612 --> 00:26:44.572] RIKER: Destroy that probe!
+[00:26:44.722 --> 00:26:45.322] RIKER: And
+[00:26:57.452 --> 00:26:58.332] RIKER: not even a thank you.
+[00:26:59.532 --> 00:27:04.332] TROI: Sub-Commander Taris is deeply frustrated, probably because her ship is as crippled as the Enterprise.
+[00:27:04.812 --> 00:27:07.132] WESLEY: Why would the Romulans be experiencing problems?
+[00:27:07.292 --> 00:27:07.932] WESLEY: They weren't probed.
+[00:27:08.572 --> 00:27:10.332] RIKER: They must have tapped into the Yamato log.
+[00:27:13.772 --> 00:27:15.532] RIKER: Taris got a whole lot more than she bargained for.
+[00:27:17.532 --> 00:27:22.652] RIKER: Maintain Red Alert. Try to keep those shields up in case Taris decides to act on her threat.
+[00:27:23.852 --> 00:27:26.332] WESLEY: Commander, what about the away team?
+[00:27:27.212 --> 00:27:28.732] WESLEY: With the shields up, we can't beam them back.
+[00:27:37.612 --> 00:27:38.812] LOG: Captain's log, supplemental.
+[00:27:39.132 --> 00:27:46.012] LOG: While there is little left on the surface of Iconia, we have found what appears to be a control centre which seems to have remained intact.
+[00:27:47.372 --> 00:27:50.812] WORF: Come in, Enterprise.
+[00:27:53.532 --> 00:27:54.332] WORF: Still no response, sir.
+[00:27:55.292 --> 00:27:55.852] PICARD: Keep trying them.
+[00:27:56.332 --> 00:27:57.692] PICARD: Communications are bound to be erratic.
+[00:28:00.252 --> 00:28:03.212] WORF: I would not like to become a permanent resident of this planet.
+[00:28:04.892 --> 00:28:05.932] PICARD: Nor would I, Mister Worf.
+[00:28:11.867 --> 00:28:13.947] DATA: Scanners show no other life forms on the planet, sir.
+[00:28:15.227 --> 00:28:16.187] PICARD: I would not expect any.
+[00:28:18.027 --> 00:28:22.507] PICARD: Judging from the severity of bombardment, I doubt any Iconians survived.
+[00:28:23.707 --> 00:28:24.107] PICARD: Well,
+[00:28:26.267 --> 00:28:29.067] PICARD: Mister Data, let's see what sense we can make of this.
+[00:28:29.387 --> 00:28:29.707] DATA: Aye, sir.
+[00:28:31.147 --> 00:28:33.307] PICARD: This is very reminiscent of Dinasian.
+[00:28:34.107 --> 00:28:34.427] DATA: Yes, sir.
+[00:28:35.467 --> 00:28:37.529] DATA: There are also similarities to Dewan and Iccobar.
+[00:28:37.529 --> 00:28:37.787] PICARD: Is
+[00:28:39.147 --> 00:28:42.427] PICARD: it possible that they could be branches of the same language family, beginning with Iconian?
+[00:28:42.987 --> 00:28:43.387] DATA: It is, sir.
+[00:28:45.867 --> 00:28:49.707] PICARD: Run a comparison using basic simple words from Dinasian, Dewan and Iccobar.
+[00:28:50.747 --> 00:28:53.147] PICARD: See if we can reconstruct a common root language.
+[00:28:54.107 --> 00:28:54.667] DATA: Accessing, sir.
+[00:28:57.307 --> 00:28:57.387] RIKER: You're
+[00:29:07.147 --> 00:29:07.547] RIKER: jumpy.
+[00:29:10.027 --> 00:29:11.547] TROI: The tension on the ship is very high.
+[00:29:16.187 --> 00:29:17.067] RIKER: What's your recommendation?
+[00:29:19.707 --> 00:29:22.747] TROI: Give everyone something to do, somewhere to focus their attention.
+[00:29:24.427 --> 00:29:24.667] RIKER: All right.
+[00:29:28.347 --> 00:29:29.707] RIKER: Let's consider evacuation.
+[00:29:29.707 --> 00:29:31.307] TROI: To the planet?
+[00:29:32.267 --> 00:29:34.827] RIKER: I know it's probably impossible with Taris sitting out there,
+[00:29:36.718 --> 00:29:38.558] RIKER: but it would give everyone something to do.
+[00:29:39.838 --> 00:29:40.798] RIKER: You go and organise it.
+[00:29:41.438 --> 00:29:43.918] TROI: But you might need me if you have to negotiate with Taris again.
+[00:29:44.878 --> 00:29:45.438] RIKER: I'll manage.
+[00:29:46.958 --> 00:29:48.158] RIKER: Right now, they're more important.
+[00:30:00.798 --> 00:30:01.038] DATA: Captain,
+[00:30:03.358 --> 00:30:05.198] DATA: your original hypothesis is correct.
+[00:30:06.478 --> 00:30:11.358] DATA: Iconian is the parent tongue of a language family which consists of Iccobar, Dewan and Dinasian. I
+[00:30:12.158 --> 00:30:21.278] DATA: have constructed a basic working understanding through a comparison of common root words such as mother, father, child, home, tribe, food, life, death, yours, ours, mine
+[00:30:21.278 --> 00:30:22.318] PICARD: Data, Data, Data.
+[00:30:23.278 --> 00:30:26.318] DATA: You do understand, sir, that my interpretation of the symbols will not be exact?
+[00:30:27.118 --> 00:30:27.518] PICARD: Yes.
+[00:30:27.918 --> 00:30:30.078] PICARD: Let's get on with it.
+[00:30:30.078 --> 00:30:32.078] DATA: This would appear to be manual override.
+[00:30:43.678 --> 00:30:45.598] DATA: That was not manual override.
+[00:30:47.598 --> 00:30:49.598] PICARD: Demons of Air and Darkness, indeed.
+[00:30:54.398 --> 00:30:55.038] WORF: What is that?
+[00:30:55.678 --> 00:30:56.158] PICARD: A gateway?
+[00:30:57.198 --> 00:30:59.518] WORF: These scenes could be holographic images.
+[00:31:00.798 --> 00:31:01.278] PICARD: Be careful.
+[00:31:04.878 --> 00:31:07.598] PICARD: Data! That was very foolish.
+[00:31:08.169 --> 00:31:10.169] DATA: But we have established that this is not a holograph.
+[00:31:10.649 --> 00:31:14.889] DATA: If I step through and investigate, we could determine whether it is truly a gateway.
+[00:31:15.369 --> 00:31:15.769] PICARD: No, Data.
+[00:31:16.489 --> 00:31:18.729] PICARD: You might not be able to get back, and I can't risk losing you.
+[00:31:19.849 --> 00:31:23.609] WORF: If it is not illusion, this gate would seem to take us beyond the confines of this planet.
+[00:31:24.569 --> 00:31:26.169] PICARD: Is this how the Iconians travelled?
+[00:31:27.449 --> 00:31:30.489] PICARD: Crossing light years as easily as we would cross a room?
+[00:31:31.129 --> 00:31:34.249] PICARD: Those places could be on worlds in distant sectors of the galaxy.
+[00:31:34.649 --> 00:31:38.169] PICARD: I think the Iconians might have out-foxed their enemies.
+[00:31:39.609 --> 00:31:41.609] PICARD: Maybe they didn't all die in the bombardment.
+[00:31:42.329 --> 00:31:44.169] PICARD: Some of them could have passed through this.
+[00:31:46.009 --> 00:31:47.449] PICARD: This is what Varley feared.
+[00:31:48.169 --> 00:31:49.952] PICARD: This is what he died for.
+[00:31:49.952 --> 00:31:50.249] WORF: Sir?
+[00:31:51.369 --> 00:31:54.637] PICARD: The Romulans could use this technology as a weapon.
+[00:31:54.637 --> 00:31:56.089] WORF: Like the Iconians did.
+[00:31:56.569 --> 00:31:59.129] DATA: No, I disagree. Captain,
+[00:31:59.529 --> 00:32:02.809] DATA: there is nothing in this room to indicate it was used as a military command centre.
+[00:32:03.769 --> 00:32:05.049] DATA: Perhaps a transporter room?
+[00:32:07.289 --> 00:32:08.809] WORF: But the probe was hostile.
+[00:32:09.049 --> 00:32:10.169] PICARD: We can't make that assumption.
+[00:32:10.649 --> 00:32:12.249] PICARD: The effect on the Yamato was devastating,
+[00:32:12.409 --> 00:32:14.489] PICARD: but what if it was by accident, not by design.
+[00:32:15.929 --> 00:32:25.049] PICARD: What I'm going to say may sound unscientific, but standing on this soil, breathing in this air, my instincts tell me that we may have got them wrong.
+[00:32:25.529 --> 00:32:27.929] WORF: But we do know that the Iconians were conquerors.
+[00:32:28.329 --> 00:32:31.929] PICARD: But that knowledge was passed down by the descendants of those who attacked this world.
+[00:32:32.249 --> 00:32:35.449] PICARD: The victors invariably write the history to their own advantage.
+[00:32:36.152 --> 00:32:41.192] PICARD: There is an unfortunate tendency in many cultures to fear what they do not understand.
+[00:32:42.072 --> 00:32:48.712] PICARD: It's possible that their enemies, confronted with this technology, were driven to attack the Iconians out of fear.
+[00:32:51.352 --> 00:32:51.672] WORF: Sir!
+[00:32:59.192 --> 00:33:00.312] WORF: Was that really the Enterprise?
+[00:33:01.672 --> 00:33:02.472] PICARD: I believe that it was.
+[00:33:04.392 --> 00:33:04.792] PICARD: Gentlemen,
+[00:33:05.192 --> 00:33:07.059] PICARD: we have a way home.
+[00:33:07.059 --> 00:33:07.432] DATA: Captain,
+[00:33:08.712 --> 00:33:11.992] DATA: there is a vast underground power source which is controlled by this console.
+[00:33:13.432 --> 00:33:17.832] DATA: I believe my triggering of the gateway has caused a dramatic upsurge in power level.
+[00:33:19.832 --> 00:33:21.832] DATA: Ah, I have access.
+[00:33:21.912 --> 00:33:21.912] PICARD: Data,
+[00:33:29.392 --> 00:33:31.392] PICARD: can
+[00:33:38.872 --> 00:33:41.112] PICARD: you hear me?
+[00:33:43.032 --> 00:33:43.752] PICARD: Data, respond.
+[00:33:45.352 --> 00:33:45.640] DATA: Captain.
+[00:33:45.640 --> 00:33:46.792] WORF: Are you all right?
+[00:33:48.152 --> 00:33:50.952] DATA: No, I am damaged.
+[00:33:51.832 --> 00:33:52.312] PICARD: How bad is it?
+[00:33:53.752 --> 00:34:01.432] DATA: The Iconian programme is attempting to rewrite my software. Physical manifestations, blindness, motor con
+[00:34:03.352 --> 00:34:06.472] WORF: Sir, without him we have no hope of deciphering the programme.
+[00:34:09.230 --> 00:34:10.990] WORF: Captain, the Enterprise again.
+[00:34:16.110 --> 00:34:16.910] PICARD: How long is the interval?
+[00:34:17.870 --> 00:34:19.950] WORF: About four minutes, if the cycle holds.
+[00:34:21.150 --> 00:34:23.630] PICARD: The next time the Enterprise appears, go through it with Data.
+[00:34:24.430 --> 00:34:26.997] PICARD: Geordi will be able to learn from him. Maybe help him.
+[00:34:26.997 --> 00:34:27.230] WORF: Sir,
+[00:34:27.630 --> 00:34:30.510] WORF: we have not yet established that that is truly a gateway.
+[00:34:30.990 --> 00:34:32.647] PICARD: This will be the test.
+[00:34:32.647 --> 00:34:33.310] WORF: Aye, sir.
+[00:34:37.230 --> 00:34:38.030] PICARD: Destroy the tricorder.
+[00:34:40.110 --> 00:34:40.270] WORF: Sir,
+[00:34:40.430 --> 00:34:42.670] WORF: it contains everything we've discovered up to this point.
+[00:34:42.670 --> 00:34:44.910] PICARD: And that is precisely why it must be destroyed.
+[00:34:47.310 --> 00:34:47.630] PICARD: How long?
+[00:34:49.790 --> 00:34:50.350] WORF: About three minutes.
+[00:34:50.750 --> 00:34:53.630] PICARD: I'm running out of time.
+[00:34:55.470 --> 00:34:56.030] PICARD: We all are.
+[00:34:56.910 --> 00:34:57.230] PICARD: Data.
+[00:34:58.990 --> 00:34:59.230] PICARD: Data,
+[00:35:00.910 --> 00:35:01.790] PICARD: I have to destroy this.
+[00:35:02.350 --> 00:35:05.790] PICARD: This control room and its technology must not be allowed to fall into Romulan hands.
+[00:35:06.190 --> 00:35:08.030] DATA: I understand, sir.
+[00:35:08.430 --> 00:35:08.750] PICARD: How!
+[00:35:09.710 --> 00:35:10.270] PICARD: How do I do it?
+[00:35:10.270 --> 00:35:11.550] PICARD: How do I destroy everything?
+[00:35:11.790 --> 00:35:13.230] PICARD: The control room, the probes, all of it.
+[00:35:16.670 --> 00:35:18.990] DATA: The power source, sir.
+[00:35:21.070 --> 00:35:21.550] PICARD: I detonate it. But
+[00:35:23.390 --> 00:35:23.630] PICARD: how?
+[00:35:23.710 --> 00:35:24.430] PICARD: How do I do that?
+[00:35:24.990 --> 00:35:26.990] DATA: The probes, sir.
+[00:35:27.710 --> 00:35:28.110] PICARD: Probes?
+[00:35:28.910 --> 00:35:29.470] PICARD: The probes.
+[00:35:31.870 --> 00:35:32.350] PICARD: Launch?
+[00:35:33.710 --> 00:35:34.510] PICARD: I launch the probes?
+[00:35:35.870 --> 00:35:37.550] PICARD: But why?
+[00:35:38.638 --> 00:35:39.358] PICARD: What's good will that do?
+[00:35:39.998 --> 00:35:42.158] DATA: The doors, sir.
+[00:35:42.238 --> 00:35:42.718] PICARD: Doors?
+[00:35:43.998 --> 00:35:45.358] WORF: Perhaps the probes are in a launch bay.
+[00:35:45.358 --> 00:35:45.358] PICARD: And
+[00:35:47.438 --> 00:35:52.398] PICARD: if the doors are closed, then the backwash from the rockets will spill into the power grids and there'll be an overload.
+[00:35:52.718 --> 00:35:53.758] DATA: Yes, sir.
+[00:35:53.998 --> 00:35:58.398] PICARD: But the doors will open automatically when the launch begins. And I will override.
+[00:35:58.798 --> 00:36:00.078] DATA: Correct, sir.
+[00:36:02.318 --> 00:36:03.198] PICARD: Which control keys?
+[00:36:03.278 --> 00:36:03.518] PICARD: Damn.
+[00:36:05.038 --> 00:36:05.838] PICARD: Of course, you can't see.
+[00:36:06.878 --> 00:36:07.118] DATA: Help.
+[00:36:10.238 --> 00:36:10.798] PICARD: Worf, help him up.
+[00:36:16.638 --> 00:36:18.078] DATA: Describe, please.
+[00:36:18.638 --> 00:36:19.998] PICARD: I'm standing directly in front of the gate.
+[00:36:19.998 --> 00:36:22.638] PICARD: To my left there is a small triangular screen.
+[00:36:24.078 --> 00:36:24.318] DATA: Right
+[00:36:25.118 --> 00:36:25.438] DATA: one
+[00:36:26.318 --> 00:36:26.638] DATA: metre.
+[00:36:27.678 --> 00:36:27.838] PICARD: Right.
+[00:36:30.398 --> 00:36:32.638] PICARD: Now, to my right is a larger triangular screen.
+[00:36:32.638 --> 00:36:33.678] PICARD: The top is solid amber.
+[00:36:33.918 --> 00:36:34.718] PICARD: To the left, red.
+[00:36:35.198 --> 00:36:35.598] DATA: Correct.
+[00:36:36.478 --> 00:36:36.798] DATA: Key
+[00:36:37.278 --> 00:36:37.518] DATA: blue,
+[00:36:38.398 --> 00:36:38.718] DATA: amber,
+[00:36:39.038 --> 00:36:39.358] DATA: amber,
+[00:36:39.678 --> 00:36:39.918] DATA: red.
+[00:36:41.038 --> 00:36:41.918] PICARD: That's the launch sequence?
+[00:36:44.318 --> 00:36:45.358] PICARD: How do I override the doors?
+[00:36:46.158 --> 00:36:46.398] DATA: Blue,
+[00:36:46.638 --> 00:36:46.878] DATA: blue,
+[00:36:47.118 --> 00:36:47.438] DATA: blue.
+[00:36:49.118 --> 00:36:50.158] PICARD: I hope that's not a stutter.
+[00:36:50.158 --> 00:36:53.838] PICARD: I don't know how long a delay there will be between the launch and the detonation.
+[00:36:54.478 --> 00:36:57.038] PICARD: I'll hold keying the launch sequence until you're through the gate.
+[00:36:58.078 --> 00:36:59.278] PICARD: How long until the Enterprise reappears?
+[00:37:02.478 --> 00:37:03.038] WORF: Almost time.
+[00:37:03.918 --> 00:37:04.158] WORF: Captain,
+[00:37:06.197 --> 00:37:07.237] WORF: you will be killed.
+[00:37:08.517 --> 00:37:09.862] PICARD: I'll go through the gate.
+[00:37:09.862 --> 00:37:11.477] WORF: But where will you end up?
+[00:37:12.677 --> 00:37:13.157] PICARD: Very shortly,
+[00:37:13.557 --> 00:37:15.317] PICARD: anywhere will be preferable to this room.
+[00:37:16.277 --> 00:37:18.277] PICARD: Mister Worf, I am depending on you.
+[00:37:18.277 --> 00:37:20.517] PICARD: You must get Data back to the Enterprise.
+[00:37:20.677 --> 00:37:21.637] PICARD: He may be their only hope.
+[00:37:23.397 --> 00:37:23.637] WORF: Aye, sir.
+[00:37:38.757 --> 00:37:40.917] CREWMAN: Commander! Look!
+[00:37:42.437 --> 00:37:42.677] RIKER: Worf!
+[00:37:43.237 --> 00:37:43.797] RIKER: What happened?
+[00:37:43.797 --> 00:37:44.277] RIKER: Where's the Captain?
+[00:37:44.437 --> 00:37:45.557] WORF: We must take Data to Engineering.
+[00:37:46.437 --> 00:37:47.797] WORF: Hopefully the Captain will follow.
+[00:38:03.797 --> 00:38:10.917] LAFORGE: I don't know how to help him. But comparing recorded norms for Data to the current readings, it's clear that all his functions are just going crazy.
+[00:38:12.037 --> 00:38:13.717] LAFORGE: If we had an expert, a Maddox, somebody,
+[00:38:51.691 --> 00:38:52.651] LAFORGE: I
+[00:38:52.801 --> 00:38:53.797] LAFORGE: He's gone.
+[00:38:53.797 --> 00:38:54.793] COMPUTER: Kandar qui.
+[00:38:54.793 --> 00:38:55.789] COMPUTER: Kandar pro.
+[00:38:55.789 --> 00:38:56.785] COMPUTER: Kandar kija.
+[00:38:56.785 --> 00:38:57.781] COMPUTER: Kandar sis.
+[00:38:57.931 --> 00:38:58.011] COMPUTER: Kandar exen.
+[00:39:02.411 --> 00:39:04.411] LAFORGE: Data!
+[00:39:04.411 --> 00:39:04.811] RIKER: What the hell?
+[00:39:04.971 --> 00:39:04.971] DATA: I
+[00:39:07.691 --> 00:39:08.331] DATA: am accessing.
+[00:39:08.971 --> 00:39:10.571] LAFORGE: The self-correcting mechanism.
+[00:39:11.451 --> 00:39:11.851] DATA: Captain?
+[00:39:13.291 --> 00:39:13.771] DATA: Captain?
+[00:39:14.171 --> 00:39:17.371] LAFORGE: It's constantly kicking in to make minute adjustments in the positronic brain.
+[00:39:18.331 --> 00:39:19.291] DATA: I am on the Enterprise.
+[00:39:20.411 --> 00:39:21.211] DATA: How did I get here?
+[00:39:21.931 --> 00:39:23.931] RIKER: He cleared the Iconian programme from his own system.
+[00:39:23.931 --> 00:39:24.171] RIKER: How?
+[00:39:25.611 --> 00:39:26.011] DATA: Iconia?
+[00:39:27.051 --> 00:39:27.931] DATA: I was on Iconia,
+[00:39:29.051 --> 00:39:30.171] DATA: now I am on the Enterprise.
+[00:39:30.571 --> 00:39:31.371] RIKER: Geordi, this is critical.
+[00:39:31.371 --> 00:39:31.771] RIKER: How?
+[00:39:31.851 --> 00:39:32.731] LAFORGE: Okay, give me a second to think.
+[00:39:33.531 --> 00:39:39.051] LAFORGE: There was an incompatible programme running through Data's system, so the mechanism started searching for a way to keep him alive.
+[00:39:40.491 --> 00:39:41.451] LAFORGE: The solution.
+[00:39:42.971 --> 00:39:46.331] LAFORGE: The solution was a shutdown and a total wipe of all affected memory.
+[00:39:46.891 --> 00:39:47.211] DATA: Query.
+[00:39:48.171 --> 00:39:48.891] DATA: What have I forgotten?
+[00:39:49.131 --> 00:39:50.491] RIKER: Can you do the same thing with the Enterprise?
+[00:39:50.491 --> 00:39:53.211] LAFORGE: I don't see why not, but it will have to be a complete shutdown.
+[00:39:53.211 --> 00:39:58.411] LAFORGE: We turn her off, and effect a wipe of the Yamato log including every subsequent event since we downloaded it.
+[00:39:58.571 --> 00:40:00.811] LAFORGE: I'll then be able to reload all the ship's programs from the
+[00:40:00.914 --> 00:40:02.834] LAFORGE: protected archives in the main core.
+[00:40:02.834 --> 00:40:03.154] RIKER: Geordi,
+[00:40:04.914 --> 00:40:09.794] RIKER: if we shut down that means we're going to be bringing down the shields, and we're hanging nose to nose with a Romulan battle cruiser.
+[00:40:10.674 --> 00:40:14.434] LAFORGE: Hey, Commander, whether it's Romulan phasers or our own warp engines, we're just as dead.
+[00:40:16.434 --> 00:40:16.834] RIKER: Make it so.
+[00:40:20.754 --> 00:40:21.234] DATA: May I help?
+[00:40:27.554 --> 00:40:29.394] COMPUTER: Kandar nien,
+[00:40:29.394 --> 00:40:31.314] COMPUTER: kandar cobar,
+[00:40:32.354 --> 00:40:33.714] COMPUTER: Kandar konyen.
+[00:40:37.714 --> 00:40:40.434] O'BRIEN: All systems functioning.
+[00:40:41.794 --> 00:40:42.434] RIKER: Lock on the Captain,
+[00:40:42.434 --> 00:40:42.914] RIKER: bring him back.
+[00:40:43.154 --> 00:40:43.634] O'BRIEN: Scanning, sir.
+[00:40:45.634 --> 00:40:45.954] O'BRIEN: Got him.
+[00:40:47.074 --> 00:40:47.314] COMPUTER: Kandar
+[00:40:48.994 --> 00:40:49.314] COMPUTER: jet,
+[00:40:49.314 --> 00:40:50.354] COMPUTER: kandar
+[00:40:55.474 --> 00:40:57.474] COMPUTER: se,
+[00:40:57.474 --> 00:40:57.474] COMPUTER: kandar
+[00:40:58.194 --> 00:40:59.074] COMPUTER: tor,
+[00:40:59.554 --> 00:40:59.858] COMPUTER: kandar
+[00:40:59.922 --> 00:41:00.242] COMPUTER: eir,
+[00:41:00.306 --> 00:41:01.074] COMPUTER: kandar
+[00:41:05.874 --> 00:41:06.354] O'BRIEN: I've lost him!
+[00:41:06.914 --> 00:41:07.234] RIKER: Damn it!
+[00:41:08.674 --> 00:41:08.994] O'BRIEN: Got him, sir.
+[00:41:10.674 --> 00:41:11.474] O'BRIEN: He's on the Romulan ship.
+[00:41:13.554 --> 00:41:13.554] RIKER: How
+[00:41:13.554 --> 00:41:14.514] RIKER: the
+[00:41:14.914 --> 00:41:14.914] RIKER: hell?
+[00:41:18.274 --> 00:41:19.154] TARIS: Go to your stations.
+[00:41:26.034 --> 00:41:28.034] TARIS: You
+[00:41:28.238 --> 00:41:28.878] TARIS: did this.
+[00:41:29.598 --> 00:41:31.038] TARIS: You sabotaged my ship.
+[00:41:31.998 --> 00:41:32.398] PICARD: Oh, no.
+[00:41:32.398 --> 00:41:35.598] TARIS: I cannot deactivate the auto-destruct,
+[00:41:36.798 --> 00:41:39.678] TARIS: but at least I have the satisfaction that you will die
+[00:41:40.078 --> 00:41:40.238] TARIS: with us.
+[00:41:41.838 --> 00:41:43.998] PICARD: Not, I think, today,
+[00:41:44.318 --> 00:41:44.318] PICARD: Commander.
+[00:41:57.758 --> 00:41:58.398] PICARD: Bridge, Picard.
+[00:41:58.638 --> 00:41:59.198] DATA: Yes, Captain.
+[00:41:59.278 --> 00:41:59.998] PICARD: Take us out of here.
+[00:41:59.998 --> 00:42:02.878] PICARD: The Romulan ship is set to auto-destruct and they can't deactivate it.
+[00:42:03.038 --> 00:42:04.158] RIKER: Wait, sir. Open hailing frequencies.
+[00:42:04.478 --> 00:42:04.878] O'BRIEN: Open, sir.
+[00:42:05.118 --> 00:42:07.998] RIKER: Commander Taris, prepare to receive a transmission from our Chief Engineer.
+[00:42:07.998 --> 00:42:09.518] RIKER: He'll instruct you how to purge your system.
+[00:42:10.318 --> 00:42:11.358] TARIS: Agreed, Enterprise.
+[00:42:12.318 --> 00:42:12.958] TARIS: Standing by.
+[00:42:13.518 --> 00:42:16.878] DATA: Commander, your transmission has been received And acknowledged.
+[00:42:17.358 --> 00:42:19.198] RIKER: Now, Mister Data, warp speed, please.
+[00:42:19.518 --> 00:42:22.478] RIKER: Just in case Taris's engineer is not as efficient as our Mister La Forge.
+[00:42:22.958 --> 00:42:23.278] DATA: Aye, sir.
+[00:42:24.718 --> 00:42:28.638] PICARD: Well, Number One, I can see why you want to keep the away missions to yourself.
+[00:42:29.438 --> 00:42:30.558] PICARD: That's where the excitement is.
+[00:42:30.958 --> 00:42:31.998] PICARD: So, what's been happening here?
+[00:42:33.198 --> 00:42:34.718] PICARD: Same old routine, I suppose?
+[00:42:55.000 --> 00:43:04.000] [music]
+[00:43:08.000 --> 00:43:17.000] [music]
+[00:43:18.000 --> 00:43:33.000] [music]

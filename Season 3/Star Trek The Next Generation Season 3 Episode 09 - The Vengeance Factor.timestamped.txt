@@ -1,0 +1,615 @@
+[00:00:29.120 --> 00:00:30.720] RIKER: Someone sure stripped this place.
+[00:00:40.080 --> 00:00:42.800] WORF: The reactor's gone.
+[00:00:45.600 --> 00:00:47.680] RIKER: No wonder they didn't answer our hail for two days.
+[00:00:48.880 --> 00:00:49.840] RIKER: Nothing here to answer with.
+[00:00:50.640 --> 00:00:53.600] DATA: Commander, I am detecting life signs from behind that door.
+[00:00:53.920 --> 00:00:54.160] RIKER: Worf!
+[00:00:57.520 --> 00:00:59.920] CRUSHER: Commander, take a look at this.
+[00:01:02.800 --> 00:01:04.800] RIKER: Blood.
+[00:01:06.800 --> 00:01:08.160] CRUSHER: Yes, but not human.
+[00:01:09.120 --> 00:01:10.480] CRUSHER: I'm going to have to do some analysis on it.
+[00:01:10.630 --> 00:01:11.230] WORF: It's
+[00:01:16.480 --> 00:01:16.960] WORF: jammed.
+[00:01:59.592 --> 00:02:02.312] PICARD: Space, the final frontier.
+[00:02:04.232 --> 00:02:07.112] PICARD: These are the voyages of the starship Enterprise.
+[00:02:08.232 --> 00:02:11.912] PICARD: Its continuing mission to explore strange new worlds,
+[00:02:13.432 --> 00:02:16.152] PICARD: to seek out new life and new civilizations,
+[00:02:17.832 --> 00:02:20.712] PICARD: to boldly go where no one has gone before.
+[00:02:50.000 --> 00:02:58.000] [music]
+[00:03:30.706 --> 00:03:33.106] CRUSHER: The two scientists are suffering from phaser stuns.
+[00:03:33.986 --> 00:03:35.346] CRUSHER: I'd guess several hits each.
+[00:03:36.386 --> 00:03:36.706] PICARD: Several?
+[00:03:37.586 --> 00:03:39.906] CRUSHER: It'll take us a while to bring them around, but they will recover.
+[00:03:41.026 --> 00:03:42.466] CRUSHER: We found a sample of blood.
+[00:03:44.386 --> 00:03:50.786] CRUSHER: It's a rare iron-copper composite, unique to one humanoid species. The Acamarians.
+[00:03:53.586 --> 00:03:54.706] PICARD: Acamarians?
+[00:03:56.546 --> 00:03:59.506] PICARD: Then that would suggest the Gatherers.
+[00:04:00.146 --> 00:04:01.506] DATA: It is a likely hypothesis.
+[00:04:02.066 --> 00:04:07.666] DATA: The nomadic marauders who refer to themselves as Gatherers have raided other outposts in neighbouring sectors.
+[00:04:07.986 --> 00:04:09.266] RIKER: They've never come out this far before.
+[00:04:11.186 --> 00:04:13.906] PICARD: Mister Crusher, set course for the Acamar system.
+[00:04:14.386 --> 00:04:14.706] WESLEY: Aye, sir.
+[00:04:18.946 --> 00:04:21.986] LOG: Captain's log, Stardate 43421.9.
+[00:04:22.786 --> 00:04:30.546] LOG: In an effort to put an end to the Gatherer raids, we have come to the Acamar System to enlist the aid of Marouk, the Sovereign of Acamar Three.
+[00:04:31.666 --> 00:04:33.826] PICARD: Their raids have made this sector unsafe.
+[00:04:33.882 --> 00:04:35.482] PICARD: They've ransacked our research facilities,
+[00:04:35.642 --> 00:04:37.082] PICARD: our trade routes have been disrupted.
+[00:04:37.242 --> 00:04:38.762] MAROUK: The Gatherers are elusive.
+[00:04:39.322 --> 00:04:45.019] MAROUK: We've only managed to capture a handful of them. But with the Starfleet's help
+[00:04:45.019 --> 00:04:48.682] PICARD: Hunting them down is not what I am proposing.
+[00:04:49.402 --> 00:04:52.122] MAROUK: Reconciliation with the Gatherers is impossible.
+[00:04:52.602 --> 00:04:53.642] MAROUK: It's been tried.
+[00:04:55.002 --> 00:04:58.122] MAROUK: Every time we've offered amnesty, they've rejected it.
+[00:04:58.282 --> 00:04:59.722] TROI: When was the last attempt made?
+[00:05:00.202 --> 00:05:01.162] MAROUK: Eighteen years ago.
+[00:05:02.202 --> 00:05:03.082] PICARD: Eighteen years?
+[00:05:03.642 --> 00:05:11.562] MAROUK: For almost a century now, they've been parasites, moving from star system to star system, living on what they could find or steal.
+[00:05:11.882 --> 00:05:12.922] PICARD: They're still your people.
+[00:05:13.002 --> 00:05:14.922] MAROUK: No. Captain,
+[00:05:16.042 --> 00:05:18.442] MAROUK: you have to understand our history.
+[00:05:19.402 --> 00:05:27.082] MAROUK: A hundred years ago, before the Gatherers split off from our culture, we were a savage, violent race.
+[00:05:27.482 --> 00:05:32.602] MAROUK: Clans battled clans. Bloody, vengeful feuds that lasted for generations.
+[00:05:33.082 --> 00:05:37.562] MAROUK: But we overcame those ways, all except for the Gatherers.
+[00:05:38.362 --> 00:05:41.402] TROI: After a century of wandering, they may be ready to come home.
+[00:05:42.122 --> 00:05:48.362] PICARD: Despite your progress, you are a divided society, and so it will remain until the Gatherers return to Acamar.
+[00:05:51.082 --> 00:05:52.555] MAROUK: The attempt may be futile.
+[00:05:52.555 --> 00:05:57.562] PICARD: But there is so much to gain and there is so little to lose by the effort.
+[00:05:58.602 --> 00:06:01.402] PICARD: The problem affects us all. It cannot be ignored.
+[00:06:08.467 --> 00:06:09.907] PICARD: Sovereign Marouk, welcome to the Bridge.
+[00:06:10.307 --> 00:06:12.467] MAROUK: Thank you, Captain.
+[00:06:12.787 --> 00:06:14.515] PICARD: How soon will you be ready to leave Acamar?
+[00:06:14.515 --> 00:06:14.707] MAROUK: I
+[00:06:14.947 --> 00:06:16.147] MAROUK: am ready now, Captain.
+[00:06:16.147 --> 00:06:18.387] MAROUK: I need only bring aboard two more servants.
+[00:06:18.387 --> 00:06:20.067] RIKER: I'll see to that, and to your accommodations.
+[00:06:21.027 --> 00:06:27.107] MAROUK: I have reason to believe there is a Gatherer encampment somewhere in the Hromi Cluster.
+[00:06:31.507 --> 00:06:32.177] PICARD: Mister Data?
+[00:06:32.177 --> 00:06:36.867] DATA: The Federation has charted but not explored several class M planets in that area.
+[00:06:37.187 --> 00:06:39.267] DATA: Any one of these planets might well serve as a base.
+[00:06:41.267 --> 00:06:44.227] PICARD: Mister Crusher, set course for the Hromi Cluster.
+[00:06:44.787 --> 00:06:45.187] WESLEY: Aye, sir.
+[00:06:46.707 --> 00:06:48.707] MAROUK: A
+[00:07:02.547 --> 00:07:03.987] MAROUK: fine ship, Commander.
+[00:07:04.307 --> 00:07:05.107] RIKER: We're all very proud of her.
+[00:07:07.267 --> 00:07:10.227] MAROUK: Yuta, a light meal in twenty minutes.
+[00:07:11.987 --> 00:07:13.427] YUTA: May I be shown the kitchen, Commander?
+[00:07:14.787 --> 00:07:15.347] RIKER: You're the chef?
+[00:07:15.827 --> 00:07:18.867] YUTA: Yes. I'll prepare all meals for the Sovereign and her servants.
+[00:07:18.867 --> 00:07:21.427] RIKER: We can provide you with a kitchen, but it won't really be necessary.
+[00:07:22.627 --> 00:07:26.307] RIKER: These food dispensers can synthesise anything that you may been.
+[00:07:27.347 --> 00:07:27.827] RIKER: I'll show you.
+[00:07:28.307 --> 00:07:29.587] RIKER: Sovereign, may I offer you a drink?
+[00:07:30.227 --> 00:07:31.427] MAROUK: Yes, thank you.
+[00:07:31.427 --> 00:07:32.227] MAROUK: Cold water.
+[00:07:32.867 --> 00:07:36.307] RIKER: Computer, a glass of water, five degrees.
+[00:07:43.459 --> 00:07:43.939] YUTA: Please.
+[00:07:49.459 --> 00:07:50.499] RIKER: You're also the food taster?
+[00:07:51.379 --> 00:07:52.499] YUTA: That's part of the cook's duty.
+[00:08:03.459 --> 00:08:10.579] YUTA: I'm sure the Sovereign will wish to sample many of the cuisines your ship has to offer, but there are some Acamarian dishes that she will insist upon.
+[00:08:11.139 --> 00:08:14.259] RIKER: I will arrange for a technician to help programme your recipes into the computer.
+[00:08:14.259 --> 00:08:16.019] RIKER: Of course, I'll have to try some of them.
+[00:08:16.659 --> 00:08:17.299] RIKER: What's your specialty?
+[00:08:18.259 --> 00:08:18.739] YUTA: I have none.
+[00:08:19.539 --> 00:08:20.419] RIKER: Don't be modest.
+[00:08:21.379 --> 00:08:24.739] RIKER: You can't tell me you haven't come up with a few culinary delights.
+[00:08:27.139 --> 00:08:29.299] YUTA: There is a spiced parthas dish.
+[00:08:30.099 --> 00:08:30.819] RIKER: Parthas?
+[00:08:31.299 --> 00:08:33.219] YUTA: A green vegetable with fleshy roots.
+[00:08:34.179 --> 00:08:35.859] RIKER: Parthas a la Yuta.
+[00:08:36.499 --> 00:08:38.659] RIKER: I look forward to tasting it. Sovereign.
+[00:08:40.339 --> 00:08:40.579] RIKER: Chef.
+[00:08:54.419 --> 00:08:56.659] WESLEY: Now entering standard orbit of Gamma Hromi Two, sir.
+[00:08:57.139 --> 00:09:06.819] DATA: Captain, I am detecting life readings from the planet surface, as well as several small areas of thermal radiation and carbon dioxide emissions, indicative of combustion.
+[00:09:07.911 --> 00:09:08.871] WESLEY: Campfires, Data.
+[00:09:10.951 --> 00:09:11.831] DATA: Is that not what I said?
+[00:09:13.351 --> 00:09:13.991] RIKER: It's worth a look.
+[00:09:14.231 --> 00:09:15.491] PICARD: Make it so.
+[00:09:15.491 --> 00:09:15.911] RIKER: Data,
+[00:09:17.111 --> 00:09:17.271] RIKER: Worf.
+[00:10:09.671 --> 00:10:10.951] LAFORGE: Artonian lasers.
+[00:10:17.271 --> 00:10:18.711] LAFORGE: Tonkian homing beacons.
+[00:10:19.671 --> 00:10:20.391] LAFORGE: Quite a collection.
+[00:10:22.471 --> 00:10:22.471] DATA: Noranium
+[00:10:35.991 --> 00:10:36.551] DATA: alloy, sir.
+[00:10:36.737 --> 00:10:38.231] DATA: It's salvage value is quite low.
+[00:10:39.379 --> 00:10:42.532] RIKER: Looks like these Gatherers weren't too discriminating in what they steal.
+[00:10:42.532 --> 00:10:42.819] WORF: Commander?
+[00:10:51.699 --> 00:10:52.019] WORF: Ambush!
+[00:11:02.339 --> 00:11:03.699] DATA: Rigelian phaser rifles, sir.
+[00:11:03.939 --> 00:11:05.059] DATA: Not particularly powerful.
+[00:11:06.979 --> 00:11:09.299] RIKER: Powerful enough.
+[00:11:14.979 --> 00:11:16.019] RIKER: We came to talk!
+[00:11:24.099 --> 00:11:25.619] WORF: Your words are wasted, Commander.
+[00:11:26.179 --> 00:11:27.379] WORF: They understand only this.
+[00:11:28.419 --> 00:11:30.099] RIKER: We're here to establish a dialogue, Worf.
+[00:11:33.619 --> 00:11:34.819] RIKER: Data, tell me about noranium.
+[00:11:35.219 --> 00:11:36.152] RIKER: It vaporises at?
+[00:11:36.152 --> 00:11:38.019] DATA: Two thousand three hundred fourteen degrees.
+[00:11:38.419 --> 00:11:39.219] DATA: Of course, noranium carbide
+[00:11:39.219 --> 00:11:39.779] RIKER: Thank you, Data.
+[00:11:40.659 --> 00:11:41.779] LAFORGE: Setting seven ought to do it.
+[00:11:45.459 --> 00:11:46.899] RIKER: Three, two, one,
+[00:11:47.459 --> 00:11:47.859] RIKER: now!
+[00:11:47.939 --> 00:11:54.819] RIKER: Enterprise, four to
+[00:11:56.339 --> 00:11:56.739] RIKER: beam up.
+[00:11:56.739 --> 00:11:56.739] BRULL: Cowards!
+[00:12:19.771 --> 00:12:22.891] WORF: Your ambushes would be more successful if you bathed more often.
+[00:12:26.811 --> 00:12:28.251] RIKER: We've brought the Sovereign of Acamar.
+[00:12:29.211 --> 00:12:30.125] BRULL: Marouk? Here?
+[00:12:30.125 --> 00:12:32.411] RIKER: With an offer of amnesty.
+[00:12:37.531 --> 00:12:42.971] MAROUK: Full dispensation will be extended to all Gatherers who are willing to return to Acamar
+[00:12:43.051 --> 00:12:43.291] MAROUK: Three.
+[00:12:43.611 --> 00:12:44.811] BRULL: You don't trust me, Marouk.
+[00:12:46.731 --> 00:12:47.051] MAROUK: Should I?
+[00:12:48.011 --> 00:12:49.371] BRULL: But you expect me to trust you.
+[00:12:49.851 --> 00:12:51.291] BRULL: Maybe you just poisoned it yourself.
+[00:12:54.491 --> 00:12:55.371] BRULL: Taste this, Temarek.
+[00:13:10.411 --> 00:13:13.547] MAROUK: Barbarians. This is futile.
+[00:13:13.547 --> 00:13:14.331] PICARD: Sovereign.
+[00:13:17.291 --> 00:13:19.291] PICARD: Brull!
+[00:13:19.291 --> 00:13:20.011] BRULL: Go home, old woman.
+[00:13:20.171 --> 00:13:23.291] MAROUK: You people haven't changed in a hundred years.
+[00:13:23.451 --> 00:13:24.091] BRULL: You should know.
+[00:13:24.971 --> 00:13:25.371] BRULL: You were there.
+[00:13:27.051 --> 00:13:29.371] PICARD: Sit down! Please.
+[00:13:30.891 --> 00:13:30.891] PICARD: Please.
+[00:13:41.527 --> 00:13:42.327] PICARD: Now, we're here to talk.
+[00:13:42.727 --> 00:13:44.487] MAROUK: It's a waste of time, Captain.
+[00:13:45.047 --> 00:13:46.807] MAROUK: They don't care about how they live.
+[00:13:47.607 --> 00:13:49.767] BRULL: Am I supposed to believe that you care how we live?
+[00:13:50.327 --> 00:13:51.287] MAROUK: Yes.
+[00:13:52.407 --> 00:13:53.767] PICARD: Brull, she's here, isn't she?
+[00:13:54.727 --> 00:13:56.247] BRULL: Maybe you forced her to come, Picard.
+[00:13:58.887 --> 00:14:01.447] MAROUK: Nobody forces me anywhere, Brull.
+[00:14:02.807 --> 00:14:05.047] BRULL: What is there for us on Acamar Three?
+[00:14:06.567 --> 00:14:08.247] MAROUK: A life. A home.
+[00:14:09.367 --> 00:14:12.807] MAROUK: You can end your wanderings, your miserable existence.
+[00:14:14.007 --> 00:14:16.567] BRULL: Do I look miserable to you?
+[00:14:17.847 --> 00:14:22.727] MAROUK: The clan wars are over, Brull.
+[00:14:24.087 --> 00:14:25.847] MAROUK: It is a past we're ashamed of.
+[00:14:26.487 --> 00:14:28.007] MAROUK: It is why you had to leave.
+[00:14:29.847 --> 00:14:33.287] MAROUK: Now, it is time to come home.
+[00:14:39.207 --> 00:14:42.807] BRULL: I want to speak privately with Sovereign Marouk and Picard.
+[00:14:43.367 --> 00:14:44.247] BRULL: Everyone else, get out.
+[00:14:52.967 --> 00:14:52.967] RIKER: Any
+[00:14:58.567 --> 00:14:59.127] RIKER: insights?
+[00:14:59.847 --> 00:15:01.047] TROI: Brull's ready to negotiate.
+[00:15:01.447 --> 00:15:04.967] TROI: He just wants privacy so that he won't appear weak in front of the other Gatherers.
+[00:15:38.533 --> 00:15:40.293] YUTA: You are of the clan Lornak.
+[00:15:41.973 --> 00:15:42.373] VOLNOTH: What
+[00:15:44.613 --> 00:15:49.173] VOLNOTH: of it? I've seen you before.
+[00:15:49.493 --> 00:15:50.053] YUTA: Yes.
+[00:15:50.203 --> 00:15:51.203] VOLNOTH: But it's
+[00:15:52.613 --> 00:15:54.613] VOLNOTH: impossible.
+[00:15:56.133 --> 00:15:56.133] YUTA: No.
+[00:15:57.333 --> 00:15:57.973] YUTA: Look closer.
+[00:15:59.893 --> 00:16:02.373] YUTA: I am Yuta of the clan Tralesta.
+[00:16:04.373 --> 00:16:09.973] YUTA: I am the
+[00:16:15.253 --> 00:16:19.333] YUTA: last of my line, but my clan will outlive yours.
+[00:16:32.469 --> 00:16:33.909] BRULL: Marouk's offer has value.
+[00:16:35.589 --> 00:16:35.989] PICARD: Commander.
+[00:16:37.269 --> 00:16:39.829] BRULL: But still, I don't know.
+[00:16:41.749 --> 00:16:44.149] PICARD: But you'll agree it is enough to present to your leader.
+[00:16:45.269 --> 00:16:47.509] BRULL: Chorgan is a better judge of these matters.
+[00:16:48.309 --> 00:16:49.189] BRULL: I will take it to him.
+[00:16:49.669 --> 00:16:51.029] BRULL: You will hear from me in twenty days.
+[00:16:51.589 --> 00:16:55.349] PICARD: Brull, in twenty days, I hope to be very far away from here.
+[00:16:55.989 --> 00:17:02.949] MAROUK: With all due respect, Brull, I would like to make the offer to Chorgan myself.
+[00:17:04.069 --> 00:17:05.669] PICARD: We'll gladly take you with us on the Enterprise.
+[00:17:06.069 --> 00:17:07.749] PICARD: How many of your men do you want to accompany you?
+[00:17:09.189 --> 00:17:09.909] BRULL: I'll come alone.
+[00:17:11.509 --> 00:17:12.709] BRULL: If this is a trap.
+[00:17:12.709 --> 00:17:13.429] MAROUK: Oh, it isn't.
+[00:17:17.669 --> 00:17:19.909] BRULL: Mallon, you'll be in charge while I'm gone.
+[00:17:20.389 --> 00:17:22.878] BRULL: If I'm not back in ten days
+[00:17:22.878 --> 00:17:23.589] TEMAREK: Brull! Brull!
+[00:17:31.269 --> 00:17:31.589] BRULL: Volnoth.
+[00:17:34.549 --> 00:17:36.549] RIKER: Away team to Enterprise. Medical Emergency.
+[00:17:36.869 --> 00:17:38.069] BRULL: Volnoth was an old man.
+[00:17:38.869 --> 00:17:39.829] BRULL: There's nothing to be done.
+[00:17:40.469 --> 00:17:41.909] RIKER: There's a chance that our doctors can do something.
+[00:17:46.389 --> 00:17:46.869] BRULL: You found him?
+[00:17:47.269 --> 00:17:47.669] TEMAREK: Yes.
+[00:17:47.989 --> 00:17:51.349] TEMAREK: And there are no other members of the Lornak clan here, so I claim his possessions.
+[00:17:51.989 --> 00:17:52.389] BRULL: Granted.
+[00:17:55.429 --> 00:17:58.069] MAROUK: Have you no respect for the dead?
+[00:17:58.149 --> 00:17:59.589] BRULL: What's there to respect about a corpse?
+[00:17:59.589 --> 00:17:59.909] BRULL: Temarek,
+[00:18:15.116 --> 00:18:15.756] BRULL: no.
+[00:18:16.556 --> 00:18:17.116] BRULL: Calm down.
+[00:18:17.356 --> 00:18:18.476] CRUSHER: He's been dead too long.
+[00:18:19.356 --> 00:18:19.596] RIKER: How?
+[00:18:20.636 --> 00:18:21.516] CRUSHER: Cardiac arrest?
+[00:18:23.436 --> 00:18:24.396] RIKER: You don't sound convinced.
+[00:18:25.196 --> 00:18:28.796] CRUSHER: No, he died of a heart attack, all right, but I can't find the cause.
+[00:18:29.676 --> 00:18:33.036] CRUSHER: His cardiac muscle is strong and there's no sign of arterial occlusion.
+[00:18:54.716 --> 00:18:58.556] PICARD: Brull, will you show Mister Crusher the course to set to the Hromi Cluster?
+[00:18:58.876 --> 00:19:00.796] BRULL: A child?
+[00:19:02.956 --> 00:19:05.036] BRULL: This doesn't inspire my confidence.
+[00:19:23.036 --> 00:19:24.476] WESLEY: This is our present position.
+[00:19:26.796 --> 00:19:27.356] BRULL: Set a heading
+[00:19:27.359 --> 00:19:28.879] BRULL: for three four three mark seven two.
+[00:19:31.919 --> 00:19:33.519] WESLEY: That's going to take us through the centre of an asteroid
+[00:19:35.279 --> 00:19:35.583] WESLEY: belt.
+[00:19:35.583 --> 00:19:36.799] BRULL: What's the matter, kid?
+[00:19:37.359 --> 00:19:39.199] BRULL: Can't you fly yourself around a couple of rocks?
+[00:19:41.439 --> 00:19:42.239] WESLEY: Sure I can,
+[00:19:42.719 --> 00:19:49.999] WESLEY: but if we take this heading we can avoid the belt completely, and only lose twelve point one minutes at warp seven.
+[00:19:51.599 --> 00:19:52.399] BRULL: Have it your way, kid.
+[00:19:59.279 --> 00:20:03.039] MAROUK: For centuries, my planet was in chaos.
+[00:20:03.999 --> 00:20:06.879] MAROUK: Loyalty to one's clan was absolute.
+[00:20:08.399 --> 00:20:12.634] MAROUK: The slightest injury to one member demanded violent retaliation.
+[00:20:12.634 --> 00:20:16.399] PICARD: And these blood feuds could last for decades?
+[00:20:16.879 --> 00:20:26.399] MAROUK: The obsession with vengeance would be passed from generation to generation. And with each act of retribution, the violence would escalate.
+[00:20:28.079 --> 00:20:32.319] PICARD: It's not unlike much the history of my own planet.
+[00:20:34.879 --> 00:20:35.679] YUTA: Your pardon, Sovereign.
+[00:20:36.479 --> 00:20:37.679] YUTA: May I be excused briefly?
+[00:20:37.919 --> 00:20:40.639] YUTA: Commander Riker requested that I prepare him an Acamarian dish.
+[00:20:40.799 --> 00:20:41.759] MAROUK: Of course, Yuta.
+[00:21:08.212 --> 00:21:08.852] BRULL: What are you doing?
+[00:21:09.572 --> 00:21:09.972] WESLEY: Homework.
+[00:21:11.012 --> 00:21:11.972] BRULL: What is this?
+[00:21:12.292 --> 00:21:12.532] WESLEY: Math.
+[00:21:12.932 --> 00:21:14.372] BRULL: I can see that, but what does it mean?
+[00:21:15.972 --> 00:21:20.692] WESLEY: This is the locally Euclidean metrisation of a k-fold contravariant Riemannian tensor field.
+[00:21:22.132 --> 00:21:22.852] BRULL: You good at it?
+[00:21:27.812 --> 00:21:28.692] BRULL: You don't like me.
+[00:21:29.812 --> 00:21:30.532] WESLEY: I didn't say that.
+[00:21:31.492 --> 00:21:32.132] BRULL: No problem.
+[00:21:32.852 --> 00:21:34.772] BRULL: I have many friends that don't like me.
+[00:21:35.892 --> 00:21:36.932] BRULL: But what do you know about me?
+[00:21:37.812 --> 00:21:38.532] WESLEY: You're a thief.
+[00:21:38.852 --> 00:21:41.892] BRULL: I do it to survive, not because I enjoy it.
+[00:21:42.692 --> 00:21:44.532] BRULL: We Gatherers value our freedom.
+[00:21:44.692 --> 00:21:47.012] BRULL: We do as we want and we answer to no creature.
+[00:21:47.572 --> 00:21:49.652] WESLEY: Then why are you helping Sovereign Marouk to change all that?
+[00:21:52.772 --> 00:21:55.572] BRULL: Maybe because I want something better for me, and
+[00:21:57.092 --> 00:21:57.972] BRULL: for my children.
+[00:21:59.252 --> 00:22:00.292] WESLEY: You have children?
+[00:22:00.852 --> 00:22:01.092] BRULL: Yeah,
+[00:22:01.812 --> 00:22:02.372] BRULL: two sons.
+[00:22:03.972 --> 00:22:05.012] BRULL: One's just about your age.
+[00:22:08.852 --> 00:22:09.972] BRULL: He's not any good at math.
+[00:22:20.932 --> 00:22:23.652] RIKER: Parthas a la Yuta.
+[00:22:24.292 --> 00:22:26.372] YUTA: With the help of one of your food stations.
+[00:22:33.667 --> 00:22:34.467] TROI: It's wonderful.
+[00:22:35.987 --> 00:22:36.707] RIKER: Truly excellent.
+[00:22:37.267 --> 00:22:37.667] YUTA: Thank you.
+[00:22:38.147 --> 00:22:38.947] RIKER: Would you care to join us?
+[00:22:40.147 --> 00:22:41.267] YUTA: I don't want to intrude.
+[00:22:43.587 --> 00:22:43.987] TROI: You're not.
+[00:22:46.147 --> 00:22:47.507] TROI: I was just leaving.
+[00:22:47.667 --> 00:22:48.947] TROI: Please, sit down.
+[00:22:49.097 --> 00:22:49.697] RIKER: It
+[00:22:58.467 --> 00:22:59.267] RIKER: really is delicious.
+[00:23:00.227 --> 00:23:01.827] YUTA: I'm glad it pleases you, Commander.
+[00:23:02.307 --> 00:23:03.187] RIKER: I'm not your commander.
+[00:23:03.507 --> 00:23:04.227] RIKER: My name is William.
+[00:23:04.787 --> 00:23:06.067] YUTA: I will call you William if you prefer.
+[00:23:06.387 --> 00:23:06.707] RIKER: I do.
+[00:23:06.707 --> 00:23:10.307] RIKER: When you say Commander you say it like you say Sovereign to Marouk.
+[00:23:13.027 --> 00:23:13.667] YUTA: As a servant.
+[00:23:18.547 --> 00:23:21.987] YUTA: You're an excellent commander, but you'd make a poor sovereign.
+[00:23:22.707 --> 00:23:23.187] RIKER: Why's that?
+[00:23:23.267 --> 00:23:24.307] RIKER: Not that I disagree.
+[00:23:24.547 --> 00:23:26.067] YUTA: You're not comfortable with servants.
+[00:23:26.147 --> 00:23:28.227] RIKER: No, I prefer the company of equals.
+[00:23:29.187 --> 00:23:31.039] YUTA: So you treat me as an equal.
+[00:23:31.039 --> 00:23:32.627] RIKER: And you're not comfortable with that?
+[00:23:34.947 --> 00:23:35.987] YUTA: I'm not used to it.
+[00:23:36.787 --> 00:23:37.907] YUTA: I've always been a servant.
+[00:23:39.907 --> 00:23:41.027] YUTA: Not that I'm complaining.
+[00:23:41.507 --> 00:23:42.707] YUTA: The Sovereign treats me well.
+[00:23:43.347 --> 00:23:44.467] YUTA: I have all that I could want.
+[00:23:45.347 --> 00:23:45.987] RIKER: What about freedom?
+[00:23:50.787 --> 00:23:51.507] YUTA: I can never have that.
+[00:23:53.347 --> 00:23:54.707] RIKER: Because you're the property of the Sovereign?
+[00:23:55.027 --> 00:23:57.267] YUTA: No. I'm not her slave.
+[00:23:57.987 --> 00:23:59.347] YUTA: I can leave whenever I wish.
+[00:24:00.401 --> 00:24:01.361] RIKER: But you have no place to go?
+[00:24:02.321 --> 00:24:03.201] YUTA: Just the opposite.
+[00:24:06.241 --> 00:24:07.441] YUTA: My path is all too clear.
+[00:24:09.761 --> 00:24:10.881] RIKER: Yuta, you're an excellent chef,
+[00:24:12.481 --> 00:24:13.441] RIKER: but you speak in riddles.
+[00:24:16.561 --> 00:24:18.721] YUTA: I've never been very good at conversation.
+[00:24:23.841 --> 00:24:24.321] MAROUK: Yuta.
+[00:24:30.081 --> 00:24:31.761] YUTA: I believe the Sovereign wants me to return.
+[00:24:31.921 --> 00:24:32.801] YUTA: Enjoy the parthas.
+[00:24:43.601 --> 00:24:44.801] CRUSHER: Sickbay to Commander Riker.
+[00:24:45.361 --> 00:24:46.561] CRUSHER: I've discovered something interesting,
+[00:24:46.561 --> 00:24:46.801] CRUSHER: Will.
+[00:24:47.681 --> 00:24:48.161] RIKER: On my way.
+[00:24:55.841 --> 00:24:56.721] RIKER: You're scowling, Doctor.
+[00:24:58.001 --> 00:24:58.641] CRUSHER: I'm thinking.
+[00:24:59.201 --> 00:24:59.521] RIKER: And?
+[00:25:01.761 --> 00:25:03.201] CRUSHER: The old Gatherer on the planet?
+[00:25:03.841 --> 00:25:05.201] CRUSHER: I know what caused his heart attack.
+[00:25:06.721 --> 00:25:14.081] CRUSHER: The medical tricorder almost missed it, but there was a microvirus in his body, blocking his autonomic nerve impulses.
+[00:25:14.241 --> 00:25:15.041] RIKER: And that stopped his heart?
+[00:25:17.121 --> 00:25:18.401] CRUSHER: But here's the really interesting part.
+[00:25:22.081 --> 00:25:27.201] CRUSHER: This microvirus will only attach itself to cells which contain a very specific DNA sequence.
+[00:25:28.506 --> 00:25:28.986] RIKER: How specific?
+[00:25:30.426 --> 00:25:33.146] CRUSHER: Without knowing more about their genetic makeup, I can't be sure.
+[00:25:34.106 --> 00:25:39.626] CRUSHER: But my guess is, this virus would only kill one Acamarian in a million.
+[00:25:40.826 --> 00:25:41.946] RIKER: Pretty single-minded bug.
+[00:25:42.266 --> 00:25:43.226] CRUSHER: Too single-minded.
+[00:25:43.786 --> 00:25:46.186] CRUSHER: I can't believe it's a naturally occurring virus.
+[00:25:47.626 --> 00:25:48.666] RIKER: Meaning somebody engineered it.
+[00:25:49.786 --> 00:25:50.746] CRUSHER: Meaning Volnoth was
+[00:25:52.506 --> 00:25:54.506] CRUSHER: murdered.
+[00:25:54.506 --> 00:25:55.946] DATA: Sir,
+[00:26:08.986 --> 00:26:13.226] DATA: Acamar Three has agreed to your request for access to their databases.
+[00:26:13.626 --> 00:26:16.506] DATA: They are now being transmitted into our computer over subspace link.
+[00:26:16.826 --> 00:26:17.066] RIKER: Good.
+[00:26:17.386 --> 00:26:20.746] RIKER: Notify Doctor Crusher when Acamar's medical database is online.
+[00:26:20.986 --> 00:26:21.706] RIKER: Riker out.
+[00:26:28.506 --> 00:26:28.906] RIKER: Come in.
+[00:26:31.066 --> 00:26:31.866] YUTA: I'm disturbing you.
+[00:26:34.266 --> 00:26:34.906] RIKER: Not at all.
+[00:26:38.266 --> 00:26:38.666] YUTA: As
+[00:26:41.946 --> 00:26:47.626] YUTA: the Sovereign has no further need for my services this evening, she suggested I might spend some time with you.
+[00:26:49.946 --> 00:26:51.306] RIKER: What a charming suggestion.
+[00:26:54.346 --> 00:26:56.426] YUTA: She appreciates the
+[00:26:57.797 --> 00:26:59.237] YUTA: affection you've shown me.
+[00:27:00.437 --> 00:27:01.157] RIKER: Was I that obvious?
+[00:27:03.637 --> 00:27:04.117] YUTA: Yes.
+[00:27:05.637 --> 00:27:07.877] RIKER: Well, I've already dined.
+[00:27:08.757 --> 00:27:10.597] RIKER: Maybe you know a good Acamarian dessert recipe.
+[00:27:15.637 --> 00:27:16.677] YUTA: Does that not please you?
+[00:27:25.317 --> 00:27:26.277] YUTA: Tell me what you want, William.
+[00:27:26.917 --> 00:27:28.117] YUTA: I will do anything you wish.
+[00:27:29.077 --> 00:27:29.557] RIKER: Wait a minute.
+[00:27:31.797 --> 00:27:32.437] YUTA: I don't understand.
+[00:27:34.037 --> 00:27:35.557] YUTA: Don't you want me to give you pleasure?
+[00:27:36.277 --> 00:27:37.077] RIKER: Not as a servant. I
+[00:27:38.677 --> 00:27:39.957] RIKER: told you, I prefer equals.
+[00:27:41.237 --> 00:27:42.357] YUTA: Even in the matters of love?
+[00:27:44.197 --> 00:27:45.397] RIKER: Especially in matters of love.
+[00:27:47.237 --> 00:27:48.037] YUTA: I've offended you.
+[00:27:49.957 --> 00:27:52.677] RIKER: No. I only want to make you as happy as you want to make me.
+[00:27:53.797 --> 00:27:54.997] RIKER: You're entitled to that.
+[00:27:56.997 --> 00:27:58.917] YUTA: No, I'm not.
+[00:27:59.317 --> 00:27:59.557] RIKER: Yuta.
+[00:28:02.597 --> 00:28:05.077] YUTA: I do not feel pleasure, or passion.
+[00:28:06.757 --> 00:28:08.837] YUTA: I haven't been able to for a long time.
+[00:28:17.477 --> 00:28:18.597] RIKER: I don't know who did this to you,
+[00:28:20.597 --> 00:28:21.157] RIKER: or why,
+[00:28:23.157 --> 00:28:23.797] RIKER: but it can change.
+[00:28:25.987 --> 00:28:26.867] YUTA: I wish it could.
+[00:28:28.707 --> 00:28:29.827] YUTA: Tonight most of all.
+[00:28:32.787 --> 00:28:33.347] YUTA: I'm sorry.
+[00:28:35.907 --> 00:28:36.067] PICARD: Your
+[00:28:55.427 --> 00:28:56.867] PICARD: people prepare a warm welcome.
+[00:28:57.027 --> 00:28:57.827] BRULL: That's Chorgan's ship.
+[00:29:03.347 --> 00:29:03.987] WORF: Shields holding.
+[00:29:04.947 --> 00:29:06.707] PICARD: Mister Worf, contact Chorgan.
+[00:29:07.107 --> 00:29:08.387] PICARD: Tell him Brull has brought us to talk.
+[00:29:10.307 --> 00:29:12.307] WORF: Chorgan
+[00:29:13.987 --> 00:29:14.947] WORF: is not responding.
+[00:29:17.267 --> 00:29:17.747] PICARD: Mister Worf,
+[00:29:19.347 --> 00:29:22.387] PICARD: can we knock out their shields without seriously damaging their ship?
+[00:29:24.147 --> 00:29:25.347] WORF: I believe we can, sir.
+[00:29:25.987 --> 00:29:27.667] PICARD: Prepare phasers and open a channel.
+[00:29:28.307 --> 00:29:28.947] WORF: Phasers locked.
+[00:29:29.187 --> 00:29:29.747] WORF: Channel open.
+[00:29:30.547 --> 00:29:34.067] PICARD: Chorgan, this is Captain Jean-Luc Picard of the Enterprise.
+[00:29:37.267 --> 00:29:37.427] PICARD: All right,
+[00:29:39.747 --> 00:29:41.107] PICARD: let's focus their attention.
+[00:29:42.627 --> 00:29:44.227] PICARD: Mister Worf, fire phasers.
+[00:29:44.307 --> 00:29:44.467] WORF: Their
+[00:29:50.227 --> 00:29:53.667] WORF: forward shields are inoperative.
+[00:29:54.395 --> 00:29:55.275] PICARD: Well done, Lieutenant.
+[00:29:58.235 --> 00:29:59.595] WORF: We are being hailed, sir.
+[00:30:00.155 --> 00:30:00.795] PICARD: That's better.
+[00:30:02.075 --> 00:30:02.635] PICARD: On screen.
+[00:30:04.955 --> 00:30:06.795] CHORGAN: Brull, you traitor!
+[00:30:07.595 --> 00:30:09.728] CHORGAN: You have led them here to destroy me!
+[00:30:09.728 --> 00:30:09.995] PICARD: Chorgan,
+[00:30:10.155 --> 00:30:12.795] PICARD: if I had wanted you destroyed, you would not be talking to me now.
+[00:30:14.235 --> 00:30:15.675] PICARD: Obviously, I wanted something else.
+[00:30:16.235 --> 00:30:17.675] CHORGAN: And what is that?
+[00:30:18.155 --> 00:30:20.475] PICARD: I have on board Sovereign Marouk of Acamar Three.
+[00:30:20.555 --> 00:30:22.475] PICARD: I want you to hear what she and Brull have to say.
+[00:30:22.715 --> 00:30:23.835] BRULL: She's worth listening to.
+[00:30:24.235 --> 00:30:25.755] CHORGAN: I don't wish to listen to either of you.
+[00:30:26.475 --> 00:30:27.275] PICARD: You have no choice.
+[00:30:27.435 --> 00:30:28.235] PICARD: Prepare to receive us.
+[00:30:28.235 --> 00:30:29.195] PICARD: We're beaming on board.
+[00:30:29.435 --> 00:30:29.995] PICARD: Picard out.
+[00:30:32.075 --> 00:30:32.875] PICARD: Cancel Red Alert.
+[00:30:33.995 --> 00:30:36.075] PICARD: Tell Sovereign Marouk meet me in transporter three.
+[00:30:36.395 --> 00:30:36.795] WORF: Aye, sir.
+[00:30:38.235 --> 00:30:39.275] RIKER: You're going alone, Captain?
+[00:30:39.675 --> 00:30:41.355] PICARD: The danger is minimal, Number One.
+[00:30:41.355 --> 00:30:45.195] PICARD: Chorgan is unlikely to do anything rash with the Enterprise's phasers trained on his ship.
+[00:30:45.275 --> 00:30:46.315] RIKER: There are still risks.
+[00:30:46.315 --> 00:30:46.315] PICARD: For
+[00:30:48.635 --> 00:30:53.275] PICARD: these negotiations to succeed I must be a mediator, not an enforcer.
+[00:30:54.635 --> 00:30:55.435] PICARD: You have the Bridge, Number One.
+[00:30:56.955 --> 00:30:57.275] PICARD: Brull.
+[00:30:59.435 --> 00:30:59.435] PICARD: Chorgan,
+[00:31:00.875 --> 00:31:00.955] PICARD: this is
+[00:31:04.395 --> 00:31:04.715] PICARD: Sovereign
+[00:31:06.635 --> 00:31:08.635] PICARD: Marouk.
+[00:31:12.875 --> 00:31:14.875] CHORGAN: You
+[00:31:17.995 --> 00:31:18.715] CHORGAN: may sit.
+[00:31:27.240 --> 00:31:29.240] PICARD: Chorgan, I think you will find Marouk's proposal
+[00:31:29.240 --> 00:31:29.880] CHORGAN: You know, Picard,
+[00:31:32.040 --> 00:31:33.640] CHORGAN: I could take you prisoner.
+[00:31:35.560 --> 00:31:36.840] CHORGAN: Oh, don't worry,
+[00:31:37.720 --> 00:31:39.160] CHORGAN: I've no intention of doing so.
+[00:31:39.720 --> 00:31:44.360] CHORGAN: I know what trouble it's been for you to get here, and I am curious why.
+[00:31:45.080 --> 00:31:45.800] PICARD: Then let's proceed.
+[00:31:46.280 --> 00:31:50.120] MAROUK: Quite simply, I am proposing amnesty for every Gatherer.
+[00:31:50.600 --> 00:31:51.400] CHORGAN: Amnesty?
+[00:31:53.880 --> 00:31:55.000] CHORGAN: You mean slavery.
+[00:31:55.080 --> 00:31:57.044] BRULL: Chorgan, if you want to know what I think
+[00:31:57.044 --> 00:31:57.480] CHORGAN: I don't.
+[00:31:59.320 --> 00:32:00.680] CHORGAN: Say what you came to say, though
+[00:32:01.240 --> 00:32:02.840] CHORGAN: I doubt that I'm going to believe you.
+[00:32:03.800 --> 00:32:10.120] MAROUK: I didn't believe this very persuasive Federation Captain when he suggested that we could reconcile our differences.
+[00:32:10.520 --> 00:32:14.680] MAROUK: I'm convinced now it's the right thing, not just for you, but for us too.
+[00:32:16.040 --> 00:32:16.840] MAROUK: We need you back.
+[00:32:21.560 --> 00:32:24.040] MAROUK: I've brought some Acamarian brandy.
+[00:32:25.080 --> 00:32:27.240] MAROUK: I'm sure it's been a long time.
+[00:32:28.760 --> 00:32:31.960] CHORGAN: No! You have spent a century hunting us down.
+[00:32:32.200 --> 00:32:34.360] PICARD: She is trying to put an end to all that.
+[00:32:34.520 --> 00:32:36.840] CHORGAN: Yes, by luring us back and putting us in prison.
+[00:32:37.000 --> 00:32:39.688] MAROUK: No, by accepting you back as free men.
+[00:32:39.688 --> 00:32:42.040] CHORGAN: Will you feed and clothe us, too?
+[00:32:42.360 --> 00:32:44.040] MAROUK: No, of course I won't.
+[00:32:44.600 --> 00:32:48.120] MAROUK: What I will do is give you the means to feed and clothe yourselves.
+[00:32:49.240 --> 00:32:51.320] MAROUK: We've set aside some land and you
+[00:32:54.680 --> 00:32:55.960] MAROUK: can use it to
+[00:32:55.960 --> 00:32:56.280] CHORGAN: Land?
+[00:32:56.440 --> 00:32:56.920] CHORGAN: Do we
+[00:32:58.840 --> 00:33:00.680] CHORGAN: look like farmers to you?
+[00:33:01.328 --> 00:33:02.448] MAROUK: Then don't farm.
+[00:33:03.328 --> 00:33:04.528] MAROUK: Use the land as you wish.
+[00:33:04.528 --> 00:33:09.408] MAROUK: It is yours. And the moment you set foot on it, you'll be better off than you are today.
+[00:33:10.128 --> 00:33:11.728] MAROUK: You won't be running any longer.
+[00:33:13.328 --> 00:33:14.688] CHORGAN: We will need autonomy.
+[00:33:15.088 --> 00:33:16.048] MAROUK: Autonomy?
+[00:33:16.128 --> 00:33:21.888] PICARD: Sovereign, we can at least acknowledge that Chorgan appears willing to discuss your offer.
+[00:33:25.328 --> 00:33:27.408] MAROUK: There are many levels of autonomy.
+[00:33:27.968 --> 00:33:30.688] MAROUK: Certainly your region would have certain rights.
+[00:33:30.768 --> 00:33:30.928] CHORGAN: Yes,
+[00:33:32.768 --> 00:33:37.568] CHORGAN: and those rights will be spelled out before I agree to anything.
+[00:33:39.968 --> 00:33:40.368] DATA: Commander,
+[00:33:41.648 --> 00:33:45.772] DATA: I'm afraid the only entry we have on Volnoth in the Acamarian database is a birth record.
+[00:33:45.772 --> 00:33:49.168] RIKER: Probably one of the last of the Gatherers to be born on their planet.
+[00:33:50.688 --> 00:34:01.408] CRUSHER: Commander? I've been digging through the medical database from Acamar Three for hours, and I have found another victim of the same microvirus that killed Volnoth. But only one.
+[00:34:02.608 --> 00:34:06.128] CRUSHER: Fifty three years ago, a Gatherer named Penthor-Mul.
+[00:34:06.608 --> 00:34:08.528] RIKER: Data? Anything in your file on Penthor-Mul?
+[00:34:10.448 --> 00:34:10.688] DATA: Yes, sir.
+[00:34:11.408 --> 00:34:12.848] DATA: He was a member of the Lornak clan.
+[00:34:13.408 --> 00:34:17.568] DATA: He was captured while leading a Gatherer raid on an Acamarian outpost.
+[00:34:18.768 --> 00:34:20.848] DATA: He died of a heart attack before his trial ended.
+[00:34:23.168 --> 00:34:26.848] RIKER: Display Volnoth's birth record again.
+[00:34:31.888 --> 00:34:33.728] CRUSHER: Lornak. The same clan.
+[00:34:34.513 --> 00:34:37.953] RIKER: The only two recorded deaths by this microvirus both from the same clan.
+[00:34:38.273 --> 00:34:39.073] RIKER: What does that tell us, Doctor?
+[00:34:40.353 --> 00:34:45.473] CRUSHER: If these microbes were engineered for murder, I'd say somebody could be going after a whole family.
+[00:34:46.113 --> 00:34:51.873] DATA: Commander, Chorgan, the present leader of the Gatherers, is also from the Lornak clan.
+[00:34:52.833 --> 00:34:58.113] RIKER: I want to know just how this clan was involved in the Acamarian blood feuds, and I'd like to know any clue as to who their enemies were.
+[00:34:58.913 --> 00:35:00.593] RIKER: How could this virus have been transmitted, Doctor?
+[00:35:00.993 --> 00:35:06.753] CRUSHER: More ways than I can count. And it's perfectly safe to the carrier as long as he doesn't have the same DNA patterns.
+[00:35:06.913 --> 00:35:08.273] RIKER: Tailor made for their enemies.
+[00:35:08.753 --> 00:35:14.993] DATA: Commander, eighty years ago the Lornaks massacred a rival clan, the Tralestas.
+[00:35:15.393 --> 00:35:17.793] DATA: It ended a feud that had lasted for two hundred years.
+[00:35:18.273 --> 00:35:18.673] RIKER: Ended it?
+[00:35:19.233 --> 00:35:21.473] DATA: According to these records, there were no survivors.
+[00:35:22.113 --> 00:35:23.713] DATA: The Tralestas were annihilated.
+[00:35:24.193 --> 00:35:26.433] CRUSHER: Something tells me they weren't all been wiped out.
+[00:35:26.433 --> 00:35:28.833] RIKER: There must be a missing link here.
+[00:35:29.393 --> 00:35:33.873] CRUSHER: Computer, any members of the Acamarian delegation from the Tralesta clan?
+[00:35:34.993 --> 00:35:37.553] COMPUTER: Clan affiliation is not within provided records.
+[00:35:38.513 --> 00:35:38.753] DATA: Sir,
+[00:35:40.593 --> 00:35:42.913] DATA: I believe I have found a correlation between the two deaths.
+[00:35:44.513 --> 00:35:45.793] DATA: Your missing link.
+[00:35:49.553 --> 00:35:54.193] DATA: That is Penthor-Mul being led from his trial.
+[00:35:55.633 --> 00:35:56.433] RIKER: I don't see the connection.
+[00:35:57.393 --> 00:35:58.673] DATA: Behind him and to the left, sir.
+[00:35:59.873 --> 00:36:02.273] RIKER: Computer, scan left and magnify.
+[00:36:06.186 --> 00:36:09.066] DATA: The computer can extrapolate and reconstruct the rest of the face, sir.
+[00:36:09.866 --> 00:36:10.106] RIKER: Do it.
+[00:36:16.746 --> 00:36:19.866] CRUSHER: But that photograph was taken over fifty years ago.
+[00:36:25.066 --> 00:36:27.466] RIKER: Fifty three years ago, and she hasn't aged
+[00:36:30.826 --> 00:36:31.466] RIKER: a day.
+[00:36:38.106 --> 00:36:42.026] MAROUK: Three seats on the ruling council?
+[00:36:42.266 --> 00:36:46.586] CHORGAN: If we're going to be subject to your laws, we want a part in making it.
+[00:36:46.906 --> 00:36:52.586] MAROUK: Well I agree you're entitled to representation but not on the ruling council.
+[00:36:52.826 --> 00:36:53.946] CHORGAN: Unacceptable.
+[00:36:54.906 --> 00:36:56.746] CHORGAN: The real power is in the council.
+[00:36:57.386 --> 00:36:58.746] CHORGAN: You're shutting us off already.
+[00:36:58.826 --> 00:37:00.986] MAROUK: No! You're trying to take too much!
+[00:37:01.306 --> 00:37:03.466] MAROUK: No group has three seats on the council.
+[00:37:03.626 --> 00:37:05.786] CHORGAN: I don't care what others have.
+[00:37:06.186 --> 00:37:09.546] MAROUK: You only care about what you can take.
+[00:37:09.946 --> 00:37:17.306] PICARD: Sovereign, if the situation were reversed, I'm sure you would be demanding equal levels of representation.
+[00:37:20.026 --> 00:37:20.826] MAROUK: You're right, Captain.
+[00:37:23.626 --> 00:37:25.466] MAROUK: I apologise for my temper.
+[00:37:37.501 --> 00:37:41.021] PICARD: Perhaps a brief pause would be helpful.
+[00:37:42.861 --> 00:37:43.341] CHORGAN: I agree.
+[00:37:47.581 --> 00:37:49.581] CHORGAN: Maybe a little touch of that brandy?
+[00:37:51.181 --> 00:37:51.741] MAROUK: Yuta.
+[00:37:53.021 --> 00:37:54.621] PICARD: You know, thank you,
+[00:37:54.781 --> 00:37:59.421] PICARD: it is remarkable how very much alike the two of you actually are.
+[00:37:59.501 --> 00:38:00.221] CHORGAN: That's ridiculous.
+[00:38:00.221 --> 00:38:00.941] MAROUK: Really, Captain.
+[00:38:01.261 --> 00:38:02.381] PICARD: No, I'm quite serious.
+[00:38:02.701 --> 00:38:05.901] PICARD: You are both able negotiators, strong leaders.
+[00:38:05.901 --> 00:38:07.421] BRULL: We don't obey weak leaders.
+[00:38:07.501 --> 00:38:08.621] CHORGAN: We have nothing in common at all.
+[00:38:08.621 --> 00:38:09.661] CHORGAN: We haven't agreed to anything.
+[00:38:09.901 --> 00:38:10.621] PICARD: You're wrong, Chorgan.
+[00:38:11.901 --> 00:38:13.341] PICARD: We've agreed to have some brandy together.
+[00:38:14.941 --> 00:38:16.701] RIKER: Don't
+[00:38:18.381 --> 00:38:18.841] RIKER: move!
+[00:38:18.841 --> 00:38:20.221] CHORGAN: A Federation trap!
+[00:38:20.941 --> 00:38:24.541] PICARD: Chorgan, I assure you, my First Officer has a good reason for his actions.
+[00:38:26.061 --> 00:38:26.941] PICARD: You do, Number One?
+[00:38:28.541 --> 00:38:30.621] RIKER: Yuta. Move away from Chorgan.
+[00:38:32.141 --> 00:38:32.301] RIKER: Do it.
+[00:38:33.341 --> 00:38:33.501] YUTA: Why?
+[00:38:34.221 --> 00:38:36.781] RIKER: Because of a man you once knew named Penthar-Mul.
+[00:38:37.581 --> 00:38:38.301] CHORGAN: Penthar-Mul?
+[00:38:39.101 --> 00:38:40.381] CHORGAN: How do you know Penthar-Mul?
+[00:38:40.541 --> 00:38:41.181] RIKER: Tell him, Yuta.
+[00:38:43.581 --> 00:38:44.541] YUTA: I don't understand.
+[00:38:44.541 --> 00:38:46.461] RIKER: You were with Penthar-Mul when he died.
+[00:38:47.981 --> 00:38:49.261] YUTA: It was fifty years ago.
+[00:38:49.261 --> 00:38:50.061] YUTA: How could I?
+[00:38:50.141 --> 00:38:50.861] RIKER: I know, Yuta.
+[00:38:52.221 --> 00:38:52.701] RIKER: Stop!
+[00:38:53.626 --> 00:38:55.626] RIKER: Chorgan, keep perfectly still.
+[00:38:56.186 --> 00:38:57.146] RIKER: Your life is in danger.
+[00:38:58.186 --> 00:38:58.906] RIKER: Step back, Yuta.
+[00:39:01.786 --> 00:39:03.306] YUTA: William, this is not your concern.
+[00:39:03.386 --> 00:39:04.106] RIKER: It is now.
+[00:39:04.986 --> 00:39:06.026] RIKER: You're about to commit a murder.
+[00:39:06.826 --> 00:39:08.186] YUTA: It isn't murder.
+[00:39:09.146 --> 00:39:10.106] YUTA: It's justice.
+[00:39:10.826 --> 00:39:11.626] CHORGAN: Who are you?
+[00:39:13.226 --> 00:39:14.986] YUTA: Yuta of the clan Tralesta.
+[00:39:15.626 --> 00:39:17.386] CHORGAN: There are no more Tralestas.
+[00:39:18.826 --> 00:39:27.546] YUTA: Five survived the last Lornak raid. But on that day, a century ago, my life ended and my search began.
+[00:39:30.826 --> 00:39:33.706] YUTA: I was the one chosen, transformed.
+[00:39:35.306 --> 00:39:36.426] YUTA: My cells were altered,
+[00:39:37.706 --> 00:39:41.306] YUTA: my aging slowed, enough to finish my task.
+[00:39:41.786 --> 00:39:45.466] MAROUK: You used me in order to get to the last few you couldn't reach.
+[00:39:45.946 --> 00:39:46.586] YUTA: Yes, Sovereign.
+[00:39:47.146 --> 00:39:50.186] CHORGAN: You will never leave this ship alive.
+[00:39:50.986 --> 00:39:52.106] YUTA: You're the last.
+[00:39:52.906 --> 00:39:57.706] YUTA: Once you're dead, what happens to me doesn't matter.
+[00:39:58.186 --> 00:39:59.226] RIKER: The wars are over, Yuta.
+[00:40:01.466 --> 00:40:02.666] YUTA: You cannot understand.
+[00:40:03.066 --> 00:40:03.386] RIKER: You're right,
+[00:40:03.466 --> 00:40:03.786] RIKER: I can't.
+[00:40:05.066 --> 00:40:07.466] RIKER: Because I've seen the part of you that regrets what you've become.
+[00:40:07.466 --> 00:40:08.026] RIKER: Listen to me.
+[00:40:08.986 --> 00:40:10.106] RIKER: You don't have to do this any more.
+[00:40:15.066 --> 00:40:16.106] YUTA: I have no choice.
+[00:40:17.146 --> 00:40:17.386] RIKER: You do.
+[00:40:20.504 --> 00:40:21.064] YUTA: William, I.
+[00:40:24.024 --> 00:40:24.904] YUTA: I'm sorry.
+[00:40:26.504 --> 00:40:26.904] RIKER: Stop.
+[00:40:32.264 --> 00:40:32.264] RIKER: Yuta,
+[00:40:52.744 --> 00:40:52.744] RIKER: don't
+[00:41:15.464 --> 00:41:19.224] RIKER: do this.
+[00:41:19.224 --> 00:41:21.384] CHORGAN: Commander, I am in your debt.
+[00:41:24.744 --> 00:41:25.464] PICARD: Oh, yes, thank you.
+[00:41:56.945 --> 00:41:57.905] PICARD: New orders from Starfleet.
+[00:41:58.465 --> 00:41:59.585] PICARD: The rendezvous. Nothing,
+[00:41:59.585 --> 00:41:59.905] PICARD: thank you.
+[00:42:00.145 --> 00:42:01.825] PICARD: The rendezvous with the Goddard has been postponed.
+[00:42:02.625 --> 00:42:04.065] RIKER: In the meantime?
+[00:42:04.065 --> 00:42:05.985] PICARD: Starbase three four three.
+[00:42:07.505 --> 00:42:09.985] PICARD: We're to take on medical supplies for the Alpha Leonis system.
+[00:42:10.945 --> 00:42:11.745] RIKER: Sounds pretty routine.
+[00:42:13.505 --> 00:42:15.665] PICARD: With the Gatherer truce in effect, it certainly should be.
+[00:42:18.225 --> 00:42:20.385] PICARD: We won't require a full ship's complement.
+[00:42:22.145 --> 00:42:25.265] PICARD: I'm going to extend shore leave on the starbase to anyone who wants it.
+[00:42:29.345 --> 00:42:30.705] RIKER: I'll pass that along to the crew, Captain.
+[00:42:38.000 --> 00:42:56.000] [music]
+[00:43:28.000 --> 00:43:36.000] [music]

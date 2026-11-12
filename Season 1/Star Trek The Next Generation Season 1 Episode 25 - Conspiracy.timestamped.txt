@@ -1,0 +1,663 @@
+[00:00:02.080 --> 00:00:02.960] LOG: First officer's log,
+[00:00:03.360 --> 00:00:05.680] LOG: stardate 41775.5.
+[00:00:06.480 --> 00:00:08.480] LOG: We are en route to the ocean world of Pacifica.
+[00:00:08.960 --> 00:00:16.240] LOG: While our mission is scientific in nature, we look forward to the warm blue waters and fine beaches that make Pacifica a jewel of the galaxy.
+[00:00:16.800 --> 00:00:19.840] LAFORGE: So the guy staggers to his feet and goes back to the girl, right?
+[00:00:20.400 --> 00:00:26.160] LAFORGE: Well, she smiles, looks him right in the eye and says 'just try that in hyperspace!'
+[00:00:25.000 --> 00:00:28.000] [laughter]
+[00:00:26.800 --> 00:00:28.800] DATA: I
+[00:00:31.440 --> 00:00:31.920] DATA: see.
+[00:00:32.640 --> 00:00:42.880] DATA: So the difficulty in attaining such complex positioning in zero gravity environment, coupled with the adverse effect it would have on the psychological well being of the average human male, is what makes this anecdote so amusing.
+[00:00:43.680 --> 00:00:46.160] DATA: Yes. Very humorous indeed.
+[00:00:46.960 --> 00:00:47.920] DATA: Hysterical, in fact.
+[00:00:51.000 --> 00:00:57.000] [laughter]
+[00:01:02.720 --> 00:01:04.560] RIKER: What is our e.t.a. at Pacifica, Mister La Forge?
+[00:01:05.040 --> 00:01:07.280] LAFORGE: Twenty two hours fourteen minutes, sir.
+[00:01:08.080 --> 00:01:09.280] RIKER: Increase to warp six.
+[00:01:09.440 --> 00:01:09.920] LAFORGE: Aye sir.
+[00:01:10.000 --> 00:01:10.880] LAFORGE: Full impulse.
+[00:01:11.360 --> 00:01:13.360] RIKER: Do you think anyone would object to our arriving ahead of schedule?
+[00:01:13.920 --> 00:01:14.640] TROI: I know I won't.
+[00:01:15.520 --> 00:01:17.600] TROI: I've been really looking forward to a nice swim.
+[00:01:18.480 --> 00:01:22.640] DATA: You are aware, Counsellor, that the holodeck can be programmed to recreate an oceanic environment.
+[00:01:22.960 --> 00:01:24.720] TROI: Data, it's just not the same.
+[00:01:25.680 --> 00:01:27.920] TROI: Have you ever been for a real moonlight swim?
+[00:01:29.360 --> 00:01:30.560] DATA: One can swim in moonlight?
+[00:01:32.960 --> 00:01:34.240] TROI: How about you, Mister Worf?
+[00:01:36.402 --> 00:01:39.362] WORF: Swimming is too much like bathing.
+[00:01:41.442 --> 00:01:42.162] DATA: Commander Riker.
+[00:01:43.682 --> 00:01:45.122] DATA: I am receiving a Code Forty Seven.
+[00:01:45.922 --> 00:01:46.402] RIKER: Verify.
+[00:01:47.282 --> 00:01:48.482] DATA: It is a Code Forty Seven, sir.
+[00:01:49.042 --> 00:01:50.402] DATA: Starfleet emergency frequency.
+[00:01:51.202 --> 00:01:53.442] TROI: Code Forty Seven. Captain's eyes only.
+[00:01:54.562 --> 00:01:56.402] RIKER: Captain, I'm sorry to disturb you.
+[00:01:57.042 --> 00:01:57.682] PICARD: Yes, Number One.
+[00:01:57.682 --> 00:01:58.002] PICARD: What is it?
+[00:01:58.802 --> 00:01:59.682] RIKER: An incoming message.
+[00:02:00.322 --> 00:02:01.522] RIKER: Code Forty Seven, sir.
+[00:02:02.562 --> 00:02:03.042] PICARD: Pipe it through.
+[00:02:06.722 --> 00:02:08.802] COMPUTER: This is an emergency communiqué.
+[00:02:09.362 --> 00:02:14.162] COMPUTER: It is not to be discussed with fellow officers unless deemed absolutely necessary.
+[00:02:15.042 --> 00:02:18.322] COMPUTER: There will be no computer record of said transmission.
+[00:02:18.882 --> 00:02:19.362] PICARD: Understood.
+[00:02:20.082 --> 00:02:22.242] COMPUTER: Proceed with voice print identification.
+[00:02:23.842 --> 00:02:26.162] PICARD: Picard, Jean-Luc. Captain, USS Enterprise.
+[00:02:27.202 --> 00:02:28.802] COMPUTER: Voice print verified.
+[00:02:32.242 --> 00:02:32.562] PICARD: Walker!
+[00:02:32.562 --> 00:02:32.882] KEEL: Hello,
+[00:02:34.402 --> 00:02:34.882] KEEL: Jean-Luc.
+[00:02:35.922 --> 00:02:36.882] KEEL: It's been a long time.
+[00:02:37.522 --> 00:02:38.562] PICARD: Too long, old friend.
+[00:02:40.322 --> 00:02:42.082] PICARD: Why are you contacting me on this frequency?
+[00:02:42.962 --> 00:02:44.242] KEEL: It was a difficult decision.
+[00:02:45.202 --> 00:02:46.482] KEEL: I felt it was worth the risk.
+[00:02:47.442 --> 00:02:47.922] PICARD: Risk?
+[00:02:49.042 --> 00:02:50.002] KEEL: It's about Starfleet.
+[00:02:50.642 --> 00:02:52.802] KEEL: About something we've always considered to be impossible.
+[00:02:54.242 --> 00:02:55.202] PICARD: I don't understand.
+[00:02:55.522 --> 00:02:56.482] KEEL: I can't explain it now.
+[00:02:57.442 --> 00:02:59.602] KEEL: We need to talk, face to face.
+[00:03:00.882 --> 00:03:02.802] PICARD: You're using a Code Forty Seven.
+[00:03:03.202 --> 00:03:04.482] PICARD: I have to know what this is all about.
+[00:03:04.962 --> 00:03:05.922] KEEL: Not over subspace,
+[00:03:06.242 --> 00:03:06.402] KEEL: no.
+[00:03:06.934 --> 00:03:08.294] PICARD: Oh, for God's sake, Walker.
+[00:03:08.374 --> 00:03:09.734] PICARD: This is a secured channel
+[00:03:09.814 --> 00:03:10.134] KEEL: No.
+[00:03:11.254 --> 00:03:14.934] KEEL: I want you to meet me on Dytallix B.
+[00:03:17.574 --> 00:03:17.894] PICARD: When?
+[00:03:18.374 --> 00:03:19.014] KEEL: Immediately.
+[00:03:19.814 --> 00:03:20.534] PICARD: Not possible.
+[00:03:20.694 --> 00:03:21.734] PICARD: We're expected at Pacifica,
+[00:03:21.734 --> 00:03:22.374] KEEL: That can wait.
+[00:03:24.534 --> 00:03:29.174] KEEL: You owe me. And you owe it to yourself to hear what I have to say.
+[00:03:31.414 --> 00:03:32.694] KEEL: Something is beginning.
+[00:03:33.734 --> 00:03:35.334] KEEL: Don't trust anyone.
+[00:03:35.494 --> 00:03:36.534] KEEL: Remember that, Jean-Luc.
+[00:03:37.414 --> 00:03:38.614] KEEL: Don't take anything for granted.
+[00:03:38.614 --> 00:03:39.521] PICARD: Walker.
+[00:03:39.521 --> 00:03:41.334] KEEL: Dytallix B.
+[00:03:41.974 --> 00:03:42.534] KEEL: We'll be waiting.
+[00:04:09.494 --> 00:04:12.214] PICARD: Space, the final frontier.
+[00:04:14.134 --> 00:04:17.014] PICARD: These are the voyagers of the Starship Enterprise.
+[00:04:17.014 --> 00:04:21.894] PICARD: Its continuing mission to explore strange new worlds, to
+[00:04:23.734 --> 00:04:26.374] PICARD: seek out new life and new civilizations, to
+[00:04:28.214 --> 00:04:30.934] PICARD: boldly go where no one has gone before.
+[00:04:33.000 --> 00:04:44.000] [music]
+[00:04:48.000 --> 00:05:12.000] [music]
+[00:05:25.000 --> 00:05:33.000] [music]
+[00:05:33.910 --> 00:05:36.710] PICARD: Data, are you familiar with Dytallix B?
+[00:05:38.230 --> 00:05:43.510] DATA: Dytallix B is one of seven uninhabited planets mined for the Federation by the Dytallix Mining Company.
+[00:05:43.910 --> 00:05:45.270] DATA: It is in the nearby Mira system.
+[00:05:46.230 --> 00:05:53.768] PICARD: Mister La Forge, chart a course for it immediately. Warp seven. And there will be no records or logs mentioning any aspect of this diversion.
+[00:05:53.768 --> 00:05:54.070] RIKER: Captain,
+[00:05:55.110 --> 00:05:56.230] RIKER: they're expecting us at Pacifica.
+[00:05:56.230 --> 00:05:57.910] RIKER: Shouldn't we contact them and let them know.
+[00:05:58.230 --> 00:05:58.630] PICARD: Negative.
+[00:05:59.190 --> 00:06:01.270] PICARD: Nothing goes out without specific orders from me.
+[00:06:03.990 --> 00:06:05.030] PICARD: Hopefully the delay
+[00:06:06.148 --> 00:06:06.628] PICARD: will be minimal.
+[00:06:32.308 --> 00:06:34.148] DATA: I have the readout on Dytallix B, Commander.
+[00:06:40.308 --> 00:06:40.948] RIKER: What have you got?
+[00:06:41.348 --> 00:06:45.668] DATA: Dytallix B is the fifth of six planets circling the red giant known as Mira.
+[00:06:46.308 --> 00:06:50.308] DATA: One side always faces the sun, where temperatures reach up to one hundred and eighty degrees.
+[00:06:50.708 --> 00:06:55.108] DATA: The mines line the temperate zone between the day and night sides, but they are long deserted.
+[00:06:55.588 --> 00:06:57.188] RIKER: Why the devil are we be going to this planet?
+[00:06:58.388 --> 00:07:00.708] RIKER: Are there any miners or indigenous life forms on the planet?
+[00:07:01.748 --> 00:07:03.748] DATA: I believe the answer to both questions is no, sir.
+[00:07:04.068 --> 00:07:09.348] DATA: In a manner of speaking, it is nothing but a lifeless hunk of rock, a useless ball of mud, a worthless chunk
+[00:07:09.348 --> 00:07:09.749] RIKER: Thank you, Data.
+[00:07:10.388 --> 00:07:10.948] RIKER: I get the idea.
+[00:07:13.028 --> 00:07:15.028] RIKER: Captain, we are approaching Dytallix B.
+[00:07:15.588 --> 00:07:16.228] PICARD: Very good, Number One.
+[00:07:16.788 --> 00:07:17.268] PICARD: I'm on my way.
+[00:07:27.668 --> 00:07:27.908] WORF: Captain,
+[00:07:29.428 --> 00:07:33.188] WORF: sensors are detecting three Federation starships already in orbit around the planet.
+[00:07:33.749 --> 00:07:34.308] PICARD: Identify.
+[00:07:34.788 --> 00:07:35.508] WORF: Two are frigates.
+[00:07:36.308 --> 00:07:37.908] WORF: The Renegade commanded by Tryla Scott,
+[00:07:38.453 --> 00:07:39.333] WORF: and the Thomas Paine,
+[00:07:40.453 --> 00:07:41.493] WORF: Captain Rixx commanding.
+[00:07:43.813 --> 00:07:45.573] DATA: The third is just coming into range now, sir.
+[00:07:46.373 --> 00:07:50.773] DATA: It is Ambassador Class heavy cruiser, USS Horatio.
+[00:07:51.973 --> 00:07:52.453] RIKER: Horatio?
+[00:07:53.253 --> 00:07:54.373] RIKER: Isn't that Walker Keel's ship?
+[00:07:55.333 --> 00:07:58.293] WORF: Attempts at communication have been ignored by all three vessels.
+[00:07:58.373 --> 00:08:00.053] PICARD: Make no further attempts, Mister Worf.
+[00:08:00.933 --> 00:08:02.773] PICARD: Any life form readings on the surface, Data?
+[00:08:03.413 --> 00:08:03.813] DATA: Three, sir.
+[00:08:04.293 --> 00:08:07.893] DATA: All gathered inside what appears to be the entrance to a mining tunnel.
+[00:08:08.533 --> 00:08:09.013] PICARD: Very well.
+[00:08:10.293 --> 00:08:12.613] PICARD: Relay those coordinates to the transporter room.
+[00:08:12.773 --> 00:08:13.653] PICARD: I'm beaming down.
+[00:08:14.533 --> 00:08:15.173] RIKER: Alone, Captain?
+[00:08:15.733 --> 00:08:16.613] PICARD: Alone, Number One.
+[00:09:25.094 --> 00:09:25.734] KEEL: Thanks for coming.
+[00:09:27.974 --> 00:09:30.054] PICARD: This is some greeting, old friend.
+[00:09:31.414 --> 00:09:31.974] KEEL: Tell me, Jean-Luc,
+[00:09:33.974 --> 00:09:34.774] KEEL: where did we first meet?
+[00:09:38.694 --> 00:09:39.654] RIXX: Answer the question.
+[00:09:42.054 --> 00:09:42.854] PICARD: Tau Ceti Three.
+[00:09:44.534 --> 00:09:45.094] PICARD: It was a bar.
+[00:09:45.094 --> 00:09:47.574] PICARD: Quite an exotic one as I remember.
+[00:09:47.894 --> 00:09:48.454] PICARD: What do I win?
+[00:09:51.414 --> 00:09:54.854] KEEL: Do you recall the night you introduced Jack Crusher to Beverly?
+[00:09:55.004 --> 00:09:55.604] PICARD: You
+[00:09:58.374 --> 00:10:00.454] PICARD: know full well I hadn't even met Beverly then.
+[00:10:00.454 --> 00:10:01.014] PICARD: You introduced
+[00:10:02.614 --> 00:10:02.614] PICARD: them.
+[00:10:02.614 --> 00:10:03.654] KEEL: My brother introduced them.
+[00:10:04.054 --> 00:10:04.934] PICARD: You don't have a brother.
+[00:10:04.934 --> 00:10:06.294] PICARD: Two sisters, Anne and Melissa.
+[00:10:06.534 --> 00:10:07.654] PICARD: What the hell is this all about?
+[00:10:13.574 --> 00:10:14.534] RIXX: Apologies, Captain.
+[00:10:15.654 --> 00:10:17.414] RIXX: We had to make sure you were really you.
+[00:10:17.414 --> 00:10:19.654] PICARD: Walker, what is going on?
+[00:10:19.974 --> 00:10:22.214] KEEL: Captain Picard, meet Captain Rixx.
+[00:10:24.534 --> 00:10:25.174] PICARD: I believe we've met.
+[00:10:26.134 --> 00:10:27.094] PICARD: The Altairian conference.
+[00:10:29.494 --> 00:10:30.694] KEEL: And Captain Scott.
+[00:10:31.974 --> 00:10:32.934] PICARD: Tryla Scott.
+[00:10:33.084 --> 00:10:33.684] PICARD: It's
+[00:10:34.454 --> 00:10:38.774] PICARD: said you made Captain faster than anyone in Starfleet history, present company included.
+[00:10:38.924 --> 00:10:39.524] PICARD: Are
+[00:10:40.294 --> 00:10:40.854] PICARD: you that good?
+[00:10:41.654 --> 00:10:42.294] TRYLA: Yes, I am.
+[00:10:43.735 --> 00:10:45.015] PICARD: Starfleet's finest.
+[00:10:46.135 --> 00:10:47.095] PICARD: Fancy meeting you here.
+[00:10:48.135 --> 00:10:51.575] RIXX: We all came secretly, Picard. To discuss the threat.
+[00:10:53.015 --> 00:10:53.415] PICARD: What threat?
+[00:10:53.975 --> 00:10:56.375] TRYLA: Have you noticed anything about Starfleet Command lately?
+[00:10:56.695 --> 00:10:57.655] TRYLA: Anything unusual?
+[00:10:58.375 --> 00:10:58.615] PICARD: No.
+[00:10:59.975 --> 00:11:01.575] PICARD: But we've been on the outer rim for a while.
+[00:11:01.575 --> 00:11:02.775] PICARD: We haven't had much contact with them.
+[00:11:04.215 --> 00:11:11.255] KEEL: Some of us have seen strange patterns emerging. Unusual orders. High-ranking officials backing irrational proposals.
+[00:11:11.575 --> 00:11:14.615] RIXX: Starbase twelve was completely evacuated for two full days.
+[00:11:15.015 --> 00:11:16.295] RIXX: No explanation given.
+[00:11:17.095 --> 00:11:18.455] TRYLA: And what about the deaths?
+[00:11:18.935 --> 00:11:23.415] TRYLA: McKinney, Ryan Sipe, Onna Karapleedeez.
+[00:11:27.255 --> 00:11:27.655] PICARD: All dead?
+[00:11:28.375 --> 00:11:29.655] TRYLA: A series of accidents.
+[00:11:29.815 --> 00:11:30.455] KEEL: Or so they say.
+[00:11:31.495 --> 00:11:32.615] KEEL: It's hard to be certain of anything.
+[00:11:33.255 --> 00:11:37.255] KEEL: Interfleet communications are at a minimum. But something is happening.
+[00:11:37.815 --> 00:11:40.535] TRYLA: And we fully expect the Enterprise to be targeted soon.
+[00:11:41.255 --> 00:11:42.055] PICARD: Targeted for what?
+[00:11:42.455 --> 00:11:42.855] PICARD: By whom?
+[00:11:43.415 --> 00:11:44.295] KEEL: We're not sure yet.
+[00:11:45.095 --> 00:11:45.655] KEEL: Damn it, Jean-Luc.
+[00:11:45.655 --> 00:11:48.855] KEEL: I tell you that some of Starfleet's top command people are changing.
+[00:11:49.655 --> 00:11:51.655] KEEL: This could affect the very core of our organisation.
+[00:11:52.215 --> 00:11:55.895] KEEL: Officers I've known for years are bluffing their way through talk of old times.
+[00:11:56.775 --> 00:11:57.895] RIXX: That's their weakness,
+[00:11:58.535 --> 00:11:59.655] RIXX: a lack of memory.
+[00:12:02.615 --> 00:12:05.415] TRYLA: He doesn't believe us.
+[00:12:05.975 --> 00:12:07.015] TRYLA: He thinks we're crazy.
+[00:12:07.415 --> 00:12:10.295] PICARD: You've given me nothing to believe in.
+[00:12:10.535 --> 00:12:15.095] PICARD: Just a lot of vague talk about strange patterns, irrational proposals.
+[00:12:15.668 --> 00:12:18.228] PICARD: Who's behind this,
+[00:12:18.228 --> 00:12:19.348] PICARD: and to what purpose?
+[00:12:19.588 --> 00:12:21.268] PICARD: How are people being changed?
+[00:12:22.148 --> 00:12:26.068] KEEL: I can't say exactly, but I think its spread to my own ship.
+[00:12:27.108 --> 00:12:29.428] KEEL: My First Officer hasn't been the same since we stopped off at Earth.
+[00:12:30.548 --> 00:12:33.508] KEEL: Our Medical Officer says he's perfectly normal, but I don't think I trust him either.
+[00:12:33.748 --> 00:12:34.868] PICARD: Walker!
+[00:12:34.948 --> 00:12:36.868] TRYLA: We know we don't have all the answers.
+[00:12:37.348 --> 00:12:39.828] TRYLA: All we ask is that you keep your eyes open.
+[00:12:39.828 --> 00:12:41.588] PICARD: That's sound advice at any time, Captain.
+[00:12:42.708 --> 00:12:45.108] KEEL: Stay in touch with us, covertly.
+[00:12:46.868 --> 00:12:49.028] KEEL: This meeting never took place as far as Starfleet is concerned.
+[00:12:52.468 --> 00:12:55.508] KEEL: Please, I'm asking this as a personal
+[00:12:57.508 --> 00:12:59.508] KEEL: favour.
+[00:13:00.388 --> 00:13:03.188] KEEL: I'm glad, Jean-Luc.
+[00:13:03.188 --> 00:13:05.668] KEEL: I'm glad you're still one of us.
+[00:13:08.788 --> 00:13:11.268] KEEL: Tell Beverly I said hello.
+[00:13:18.068 --> 00:13:20.068] RIXX: And
+[00:13:23.988 --> 00:13:26.148] RIXX: watch your back, Picard.
+[00:13:28.388 --> 00:13:28.788] PICARD: Friends,
+[00:13:42.788 --> 00:13:44.308] PICARD: close friends, are few and far between.
+[00:13:44.948 --> 00:13:47.468] PICARD: Two of the oldest and closest are Jack
+[00:13:47.808 --> 00:13:48.148] PICARD: Crusher, may he
+[00:13:48.659 --> 00:13:49.859] PICARD: rest in peace, and Walker Keel.
+[00:13:51.619 --> 00:13:54.659] PICARD: Before various missions split us apart, we were virtually inseparable.
+[00:13:57.379 --> 00:13:58.499] PICARD: I trust Keel completely.
+[00:13:58.499 --> 00:14:01.699] PICARD: If he felt it necessary to violate regulations, he must have had a good reason.
+[00:14:02.659 --> 00:14:04.899] TROI: But you're putting your career at risk for him.
+[00:14:05.779 --> 00:14:07.859] PICARD: Friendship must dare to risk, Counsellor, or
+[00:14:08.259 --> 00:14:08.979] PICARD: it's not friendship.
+[00:14:09.459 --> 00:14:12.339] TROI: They illicitly used the emergency channel to draw you here.
+[00:14:12.819 --> 00:14:18.819] TROI: Then they asked you to keep secrets from your superiors. Effectively, to disobey Starfleet regulations.
+[00:14:19.139 --> 00:14:21.139] PICARD: The people involved in this are of the highest calibre. If
+[00:14:22.019 --> 00:14:23.139] PICARD: I didn't believe in their loyalty,
+[00:14:23.139 --> 00:14:24.019] PICARD: I wouldn't have gone this far.
+[00:14:24.899 --> 00:14:26.819] TROI: Don't you think you should tell the rest of the crew?
+[00:14:27.139 --> 00:14:27.299] PICARD: No.
+[00:14:28.339 --> 00:14:29.699] PICARD: I don't want to risk implicating them.
+[00:14:31.139 --> 00:14:33.779] PICARD: Not until I have solid evidence that something really is wrong.
+[00:14:40.819 --> 00:14:42.179] PICARD: Take us out of orbit, Mister La Forge.
+[00:14:42.419 --> 00:14:42.819] LAFORGE: Aye, sir.
+[00:14:43.699 --> 00:14:45.619] PICARD: Resume heading to Pacifica, warp factor eight.
+[00:14:46.099 --> 00:14:46.579] LAFORGE: Aye sir,
+[00:14:46.579 --> 00:14:47.139] LAFORGE: warp eight.
+[00:14:48.019 --> 00:14:52.019] DATA: At that speed sir, we should arrive nine point six three hours behind the original schedule, sir.
+[00:14:52.419 --> 00:14:53.139] PICARD: Very good. Data,
+[00:14:53.139 --> 00:14:56.259] PICARD: I have an assignment for you. One especially suited to your talents.
+[00:15:03.779 --> 00:15:06.259] DATA: Computer, this is Lieutenant Commander Data.
+[00:15:06.819 --> 00:15:13.059] DATA: Please access all Starfleet Command orders to starships, starbases and colonies for the past six months.
+[00:15:13.459 --> 00:15:13.859] COMPUTER: Working.
+[00:15:29.932 --> 00:15:30.252] PICARD: Doctor.
+[00:15:31.612 --> 00:15:34.412] CRUSHER: I understand the Horatio was in orbit around Dytallix.
+[00:15:35.372 --> 00:15:36.332] CRUSHER: Did you see Walker?
+[00:15:37.292 --> 00:15:37.532] PICARD: No.
+[00:15:37.682 --> 00:15:38.282] CRUSHER: Oh.
+[00:15:39.132 --> 00:15:40.892] CRUSHER: I would have loved to have seen him.
+[00:15:41.932 --> 00:15:42.892] PICARD: It wasn't possible, Doctor.
+[00:15:43.292 --> 00:15:47.292] WORF: Captain, I am picking up an unusual disturbance in a nearby quadrant.
+[00:15:47.932 --> 00:15:48.492] LAFORGE: Confirmed, sir.
+[00:15:48.732 --> 00:15:49.692] LAFORGE: Sector sixty three.
+[00:15:50.652 --> 00:15:52.412] PICARD: Specify. What kind of disturbance?
+[00:15:53.692 --> 00:15:55.212] WORF: Hard to say at this distance, sir.
+[00:15:56.412 --> 00:15:58.252] RIKER: I guess the trip Pacifica will have to wait.
+[00:16:00.172 --> 00:16:00.812] PICARD: Let's investigate.
+[00:16:02.172 --> 00:16:03.612] PICARD: Maintain speed. Alter course accordingly.
+[00:16:04.492 --> 00:16:08.012] LAFORGE: Aye, sir. Changing course to three five one mark four.
+[00:16:20.652 --> 00:16:22.012] LAFORGE: Approaching sector sixty three, sir.
+[00:16:23.452 --> 00:16:24.172] PICARD: Slow to impulse.
+[00:16:25.212 --> 00:16:27.612] LAFORGE: Aye, sir. Going to impulse power, now.
+[00:16:29.052 --> 00:16:31.212] WORF: Sensors beginning to pick up small objects, sir.
+[00:16:31.692 --> 00:16:32.092] PICARD: On screen.
+[00:16:32.092 --> 00:16:32.172] RIKER: It doesn't
+[00:16:37.532 --> 00:16:38.172] RIKER: look natural.
+[00:16:39.452 --> 00:16:39.852] PICARD: Agreed.
+[00:16:40.572 --> 00:16:41.532] PICARD: Enlarge and identify.
+[00:16:42.444 --> 00:16:50.204] WORF: It looks like debris. From a space vessel of some kind.
+[00:16:50.844 --> 00:16:53.484] RIKER: It could be one of those ships that was orbiting Dytallix.
+[00:16:53.484 --> 00:16:55.084] LAFORGE: We are in close proximity to that planet.
+[00:17:05.724 --> 00:17:06.844] PICARD: Identifying marks, Mister Worf?
+[00:17:07.884 --> 00:17:08.764] WORF: Nothing so far.
+[00:17:09.564 --> 00:17:13.084] WORF: Sensors not detecting any bodies in the flotsam,
+[00:17:13.084 --> 00:17:14.204] WORF: but from the amount of wreckage.
+[00:17:15.884 --> 00:17:18.604] WORF: I'm sorry sir.
+[00:17:19.164 --> 00:17:20.444] WORF: It can only be the Horatio.
+[00:17:22.924 --> 00:17:24.924] WORF: From the looks of it, she's been totally destroyed.
+[00:17:35.964 --> 00:17:39.564] LOG: Captain's personal log, stardate 41776.1.
+[00:17:40.284 --> 00:17:44.124] LOG: The apparent death of Walker Keel has had a powerful impact on me.
+[00:17:44.604 --> 00:17:48.764] LOG: I now believe there may be a cancer growing within the ranks of Starfleet.
+[00:17:49.724 --> 00:17:54.204] LOG: As a result, I have alerted my Executive Officer to the suspicions voiced by Keel and the others.
+[00:17:54.764 --> 00:17:55.404] RIKER: There's no proof of anything.
+[00:17:56.124 --> 00:18:00.604] PICARD: The last time I saw Admiral Quinn he tried to warn me about a subversion within the Federation.
+[00:18:02.044 --> 00:18:02.844] PICARD: Then Walker tried, and
+[00:18:03.884 --> 00:18:04.444] PICARD: he's dead.
+[00:18:05.244 --> 00:18:05.964] RIKER: Subversion?
+[00:18:07.164 --> 00:18:09.244] RIKER: Personally, I don't believe this conspiracy
+[00:18:11.244 --> 00:18:11.244] RIKER: theory.
+[00:18:12.844 --> 00:18:13.484] DATA: Startling.
+[00:18:14.778 --> 00:18:16.538] DATA: Quite extraordinary, in fact.
+[00:18:17.258 --> 00:18:18.538] COMPUTER: Directions unclear.
+[00:18:18.938 --> 00:18:20.298] COMPUTER: Please repeat request.
+[00:18:21.738 --> 00:18:22.778] DATA: That was not a request.
+[00:18:23.338 --> 00:18:23.818] DATA: I was simply
+[00:18:26.138 --> 00:18:27.178] DATA: talking to myself.
+[00:18:30.938 --> 00:18:42.011] DATA: A human idiosyncrasy, triggered by fascination with a particular set of facts. Or sometimes brought about by senility. Or used as a means of weighing information before reaching a conclusion. Or, as a
+[00:18:42.011 --> 00:18:43.018] COMPUTER: Thank you, sir.
+[00:18:43.098 --> 00:18:43.978] COMPUTER: I comprehend.
+[00:18:46.538 --> 00:18:49.098] COMPUTER: Please specify how you would like to proceed, sir.
+[00:18:50.858 --> 00:18:52.058] DATA: Please continue with record scan.
+[00:18:58.458 --> 00:19:00.458] DATA: Intriguing.
+[00:19:05.818 --> 00:19:06.858] RIKER: But we have no facts.
+[00:19:06.858 --> 00:19:09.018] RIKER: We have to assume the explosion was an accident.
+[00:19:13.098 --> 00:19:15.738] PICARD: Number One, I believe what happened on the Horatio was sabotage.
+[00:19:15.738 --> 00:19:16.938] RIKER: But we can't be certain.
+[00:19:17.258 --> 00:19:17.978] DATA: Perhaps we can.
+[00:19:19.818 --> 00:19:23.018] DATA: My orders were to search for abnormal patterns in Starfleet's directives.
+[00:19:23.978 --> 00:19:25.178] DATA: I believe I have found just that.
+[00:19:31.418 --> 00:19:36.458] DATA: These are various outposts and starbases where I have detected unusual activity over the past few months.
+[00:19:37.258 --> 00:19:38.058] PICARD: What sort of activity?
+[00:19:39.178 --> 00:19:41.178] DATA: An uncustomary reshuffling of personnel,
+[00:19:41.513 --> 00:19:47.353] DATA: usually in the command areas. The new officers have had frequent contact with the highest levels of Starfleet Command.
+[00:19:48.313 --> 00:19:49.993] RIKER: Why hasn't anybody discovered this before?
+[00:19:51.513 --> 00:19:53.353] DATA: The orders were given with great subtlety.
+[00:19:53.353 --> 00:19:57.513] DATA: To use an aphorism, Starfleet's left hand did not know what its right hand was doing.
+[00:19:58.553 --> 00:20:01.353] PICARD: Data, can you speculate as to the purpose of these reassignments?
+[00:20:03.193 --> 00:20:07.593] DATA: I believe it is a clandestine attempt to control vital sectors of Federation territory.
+[00:20:10.473 --> 00:20:12.153] RIKER: This could be a prelude to an invasion.
+[00:20:13.033 --> 00:20:14.633] RIKER: But who's behind it?
+[00:20:14.633 --> 00:20:16.553] DATA: There is insufficient data to make such an assessment, sir.
+[00:20:17.593 --> 00:20:21.433] RIKER: Are you suggesting that we warp over to Starfleet headquarters and demand to know what's going on?
+[00:20:25.353 --> 00:20:25.833] DATA: Why not?
+[00:20:26.473 --> 00:20:27.193] PICARD: Yes, why not?
+[00:20:27.833 --> 00:20:30.313] PICARD: We're talking about a threat to the entire future of the Federation.
+[00:20:31.113 --> 00:20:34.873] PICARD: I don't think any of us can rest easy until we've been to the source.
+[00:20:38.793 --> 00:20:40.473] LOG: Captain's personal log, supplemental.
+[00:20:41.033 --> 00:20:45.673] LOG: While it is quite unusual for a starship to return to Earth, we seem to be left with no other choice.
+[00:20:46.393 --> 00:20:49.353] LOG: I have apprised the remaining bridge crew of our situation.
+[00:20:50.553 --> 00:20:51.513] LAFORGE: Approaching Earth, sir.
+[00:20:52.153 --> 00:20:53.513] PICARD: Standard orbit, Mister La Forge.
+[00:20:53.513 --> 00:20:54.233] LAFORGE: Standard orbit, sir.
+[00:20:57.913 --> 00:20:59.433] PICARD: Any word from Starfleet Command, Data?
+[00:20:59.913 --> 00:21:00.633] DATA: Nothing so far, sir.
+[00:21:03.033 --> 00:21:03.593] PICARD: Strange.
+[00:21:22.288 --> 00:21:25.248] DATA: Captain. I am now receiving a message from Starfleet Command.
+[00:21:25.968 --> 00:21:26.448] PICARD: On screen.
+[00:21:31.968 --> 00:21:32.928] SAVAR: Greetings Enterprise.
+[00:21:33.728 --> 00:21:35.088] SAVAR: I am Admiral Savar.
+[00:21:35.088 --> 00:21:38.848] SAVAR: This is Admiral Aaron, and I believe you already know Admiral Quinn.
+[00:21:40.288 --> 00:21:40.848] PICARD: Yes, indeed.
+[00:21:40.928 --> 00:21:41.968] PICARD: It's good to see you again, Admiral.
+[00:21:42.768 --> 00:21:43.488] QUINN: And you, Captain.
+[00:21:44.208 --> 00:21:47.408] SAVAR: Of course. We are always delighted when the Enterprise returns to the nest.
+[00:21:48.208 --> 00:21:50.288] SAVAR: Yet we are puzzled by the timing of your visit.
+[00:21:51.248 --> 00:21:51.648] PICARD: Yes, sir.
+[00:21:51.648 --> 00:21:52.768] PICARD: I can imagine you would be.
+[00:21:53.248 --> 00:21:57.568] AARON: Governor Delaplane of Pacifica informs us that you cancelled your scheduled stop there.
+[00:21:58.368 --> 00:21:59.008] AARON: Is this true?
+[00:21:59.648 --> 00:22:00.048] PICARD: Yes, sir,
+[00:22:00.048 --> 00:22:00.528] PICARD: it is.
+[00:22:01.088 --> 00:22:02.288] AARON: Explain yourself, Captain.
+[00:22:02.608 --> 00:22:04.048] AARON: Why have you returned to Earth?
+[00:22:05.408 --> 00:22:08.288] PICARD: I would rather discuss in person, Admiral.
+[00:22:17.888 --> 00:22:19.488] SAVAR: Excuse us for one moment, Captain.
+[00:22:19.488 --> 00:22:20.288] RIKER: They
+[00:22:27.488 --> 00:22:28.448] RIKER: seem normal enough.
+[00:22:29.408 --> 00:22:31.808] PICARD: On the surface. Counsellor, any thoughts?
+[00:22:32.928 --> 00:22:33.648] TROI: Hard to say.
+[00:22:34.608 --> 00:22:37.488] TROI: Someone is hiding something, but I can't tell who or what.
+[00:22:37.888 --> 00:22:39.888] RIKER: I must say I'm not overjoyed to see Remmick again.
+[00:22:40.246 --> 00:22:42.486] LAFORGE: Considering what we've done, their response has been pretty temperate.
+[00:22:42.966 --> 00:22:43.766] WORF: I don't like it.
+[00:22:44.726 --> 00:22:45.606] WORF: You can't trust them.
+[00:22:46.566 --> 00:22:48.406] SAVAR: Forgive the delay, Captain Picard.
+[00:22:49.446 --> 00:22:52.886] SAVAR: We'd be delighted if you and your First Officer would join us for dinner.
+[00:22:53.126 --> 00:22:53.926] AARON: Yes. Delighted.
+[00:22:54.646 --> 00:22:57.888] SAVAR: It would give you a good opportunity to expatiate your viewpoint.
+[00:22:57.888 --> 00:23:00.246] AARON: To elaborate upon whatever it is that's troubling
+[00:23:01.766 --> 00:23:01.766] AARON: you.
+[00:23:01.766 --> 00:23:02.086] PICARD: Thank you.
+[00:23:02.166 --> 00:23:03.366] PICARD: We accept your gracious offer.
+[00:23:03.926 --> 00:23:04.326] SAVAR: Excellent.
+[00:23:05.366 --> 00:23:07.286] SAVAR: Preparations are already underway.
+[00:23:07.686 --> 00:23:11.046] AARON: We'll greet you in the reception area in, say, twenty minutes?
+[00:23:12.086 --> 00:23:12.566] PICARD: Splendid.
+[00:23:12.886 --> 00:23:18.726] QUINN: I won't be able to attend dinner, I'm afraid, but I would like to see the ship and say hello again, Captain.
+[00:23:19.526 --> 00:23:20.006] PICARD: Of course.
+[00:23:20.566 --> 00:23:21.766] PICARD: We look forward to seeing you, Admiral.
+[00:23:22.406 --> 00:23:23.046] PICARD: Enterprise out.
+[00:23:29.206 --> 00:23:30.646] PICARD: Quinn wants to see us alone.
+[00:23:32.566 --> 00:23:33.926] PICARD: At least we know he's still on our side.
+[00:23:35.766 --> 00:23:36.646] PICARD: Mister Data, you have the Bridge.
+[00:23:36.966 --> 00:23:37.206] DATA: Aye, sir.
+[00:23:40.566 --> 00:23:40.566] REMMICK: Are
+[00:23:43.446 --> 00:23:43.526] REMMICK: you
+[00:24:10.166 --> 00:24:11.606] REMMICK: ready to beam up to the Enterprise, sir?
+[00:24:12.966 --> 00:24:13.606] QUINN: Yes, Commander,
+[00:24:14.406 --> 00:24:14.726] QUINN: quite
+[00:24:14.917 --> 00:24:15.237] QUINN: ready.
+[00:24:26.677 --> 00:24:27.877] QUINN: Energise, Mister Remmick.
+[00:24:45.157 --> 00:24:46.037] PICARD: Welcome aboard, Greg.
+[00:24:46.037 --> 00:24:46.677] QUINN: Good to see you.
+[00:24:46.997 --> 00:24:48.117] PICARD: You remember Commander Riker.
+[00:24:48.437 --> 00:24:49.717] QUINN: Hello again, Commander.
+[00:24:50.197 --> 00:24:51.797] PICARD: I must say, you're looking remarkably well.
+[00:24:52.117 --> 00:24:53.237] QUINN: Never felt better in my life.
+[00:24:53.957 --> 00:24:57.397] PICARD: When you were here last, you were saying that you were feeling tired.
+[00:24:57.557 --> 00:25:00.437] QUINN: Tired of life I was, but not anymore.
+[00:25:00.677 --> 00:25:02.037] QUINN: I'm ready for new challenges now.
+[00:25:02.597 --> 00:25:03.557] QUINN: What about another look at this ship?
+[00:25:06.437 --> 00:25:08.437] PICARD: Remember
+[00:25:10.437 --> 00:25:17.877] PICARD: what you told me back at Relva Seven, About the threat that you perceived to the very fabric of the Federation?
+[00:25:18.037 --> 00:25:18.677] QUINN: Is that why you're here?
+[00:25:18.677 --> 00:25:19.637] QUINN: Because of what I said?
+[00:25:19.797 --> 00:25:21.077] PICARD: It's one of the reasons, yes.
+[00:25:21.077 --> 00:25:24.277] QUINN: But Jean-Luc, you took me far too literally.
+[00:25:24.677 --> 00:25:29.717] QUINN: I was only referring to the problems involved in assimilating new races into the Federation.
+[00:25:30.197 --> 00:25:36.437] QUINN: It's an ongoing, tumultuous process which can cause stress and strain on every aspect of our alliance.
+[00:25:38.517 --> 00:25:39.077] PICARD: I'm sorry,
+[00:25:39.077 --> 00:25:40.277] PICARD: I must have misunderstood.
+[00:25:40.917 --> 00:25:42.357] QUINN: It's not for you to apologise.
+[00:25:42.357 --> 00:25:45.797] QUINN: If I led you up the garden path, I humbly ask your forgiveness.
+[00:25:47.075 --> 00:25:47.555] PICARD: Of course.
+[00:25:48.115 --> 00:25:53.715] QUINN: Now, gentlemen, you have a dinner to attend to, while I would like to go and freshen up before I look around a little bit more.
+[00:25:54.195 --> 00:25:55.795] RIKER: We've arranged your usual accommodation,
+[00:25:55.795 --> 00:25:56.062] RIKER: sir.
+[00:25:56.062 --> 00:25:56.595] QUINN: That's outstanding.
+[00:25:57.395 --> 00:25:59.235] PICARD: Yes, I should be getting down to the planet.
+[00:26:01.155 --> 00:26:05.155] PICARD: Commander Riker will be available here to show you anything that you want to see.
+[00:26:05.315 --> 00:26:06.515] QUINN: It's really not necessary.
+[00:26:06.675 --> 00:26:07.555] PICARD: I insist.
+[00:26:08.435 --> 00:26:12.595] PICARD: When you've finished showing the Admiral anything that he needs, you can join me down on Earth.
+[00:26:12.755 --> 00:26:14.515] QUINN: I may want to stay a while, Jean-Luc.
+[00:26:14.755 --> 00:26:16.675] PICARD: Of course. Stay as long as you wish.
+[00:26:16.825 --> 00:26:17.425] PICARD: No.
+[00:26:32.275 --> 00:26:33.075] PICARD: It's not Gregory Quinn.
+[00:26:34.035 --> 00:26:35.795] PICARD: It may look like him and sound like him, but it isn't him.
+[00:26:35.955 --> 00:26:37.235] RIKER: Are you absolutely certain, Captain?
+[00:26:37.315 --> 00:26:38.515] PICARD: I'm certain, Number One.
+[00:26:39.315 --> 00:26:42.275] PICARD: I want you to stay close. Keep your eye on his every move.
+[00:26:43.155 --> 00:26:47.555] PICARD: Have Beverly concoct some reason for giving him a full medical examination.
+[00:26:47.715 --> 00:26:47.875] RIKER: How?
+[00:26:48.435 --> 00:26:48.835] PICARD: I don't know,
+[00:26:48.835 --> 00:26:49.395] PICARD: just do it.
+[00:26:49.475 --> 00:26:50.515] RIKER: He's a senior Admiral.
+[00:26:50.595 --> 00:26:51.395] PICARD: It's not him, Will.
+[00:26:51.475 --> 00:26:52.195] PICARD: I know that now.
+[00:26:52.755 --> 00:26:56.035] PICARD: What I have to find out is how this happened, and who or what is behind it.
+[00:26:56.995 --> 00:26:57.875] RIKER: Captain, if you're right.
+[00:26:57.955 --> 00:26:58.515] PICARD: I'm right.
+[00:26:58.755 --> 00:27:00.675] RIKER: Should you be beaming down there alone, unarmed?
+[00:27:01.715 --> 00:27:02.275] PICARD: I'll take care.
+[00:27:03.075 --> 00:27:04.355] PICARD: Find out what you can, then join me,
+[00:27:04.435 --> 00:27:05.635] PICARD: in force if necessary.
+[00:27:05.795 --> 00:27:06.355] PICARD: Energise.
+[00:27:07.395 --> 00:27:07.795] RIKER: Good luck, sir.
+[00:27:23.734 --> 00:27:24.854] SAVAR: Welcome home, Captain Picard.
+[00:27:26.854 --> 00:27:27.174] PICARD: Thank you, sir.
+[00:27:28.054 --> 00:27:29.494] PICARD: My first officer will be joining us shortly.
+[00:27:29.974 --> 00:27:31.734] SAVAR: Yes, I'm sure he will.
+[00:27:33.414 --> 00:27:35.014] AARON: You've met Commander Remmick, haven't you?
+[00:27:35.334 --> 00:27:37.734] REMMICK: Under less than ideal circumstances.
+[00:27:38.454 --> 00:27:39.654] REMMICK: It's nice to see you again, Captain.
+[00:27:40.934 --> 00:27:42.854] SAVAR: We've prepared a special meal in your honour.
+[00:27:43.894 --> 00:27:44.214] PICARD: Delightful.
+[00:27:44.854 --> 00:27:47.094] PICARD: Tell me, why is the corridor so quiet?
+[00:27:47.094 --> 00:27:49.574] PICARD: The last time I was here, it was bustling with activity.
+[00:27:50.054 --> 00:27:51.334] REMMICK: It usually is.
+[00:27:51.814 --> 00:27:52.774] REMMICK: Tonight's a quiet night.
+[00:27:53.414 --> 00:27:55.734] SAVAR: Yes, a quiet night.
+[00:28:04.854 --> 00:28:05.814] RIKER: Ready for your tour, Admiral?
+[00:28:07.334 --> 00:28:08.054] QUINN: Quite ready, Commander.
+[00:28:09.254 --> 00:28:09.894] RIKER: What's in the case?
+[00:28:10.694 --> 00:28:12.534] QUINN: Actually, I brought it for Doctor Crusher.
+[00:28:13.814 --> 00:28:15.894] QUINN: But perhaps you would like you to see it first?
+[00:28:16.214 --> 00:28:16.614] RIKER: What is it?
+[00:28:17.094 --> 00:28:18.054] QUINN: A form of life.
+[00:28:18.214 --> 00:28:22.774] QUINN: It was discovered accidentally by a survey team on an uncharted planet.
+[00:28:23.174 --> 00:28:24.454] RIKER: Why haven't we heard anything about that?
+[00:28:24.854 --> 00:28:26.214] QUINN: Oh, you'll be hearing about it shortly,
+[00:28:26.774 --> 00:28:29.094] QUINN: but first there remains much scientific study to be done.
+[00:28:29.094 --> 00:28:32.214] QUINN: After all, it is a superior form of life.
+[00:28:32.454 --> 00:28:33.014] RIKER: Superior?
+[00:28:33.414 --> 00:28:33.734] QUINN: Totally.
+[00:28:34.854 --> 00:28:35.974] QUINN: Come, have a look.
+[00:28:36.774 --> 00:28:38.294] RIKER: I think I'll summon my Science Officer.
+[00:28:38.774 --> 00:28:40.454] QUINN: It won't like your Science Officer.
+[00:28:41.414 --> 00:28:42.934] QUINN: It does like you!
+[00:28:43.974 --> 00:28:47.094] QUINN: Vitamins. They do wonders for the body.
+[00:28:50.589 --> 00:28:52.589] RIKER: Riker to
+[00:29:01.189 --> 00:29:03.189] RIKER: Security.
+[00:29:08.489 --> 00:29:09.929] RIKER: Guest quarters seventeen. Emergency.
+[00:29:34.569 --> 00:29:37.689] AARON: Let's have some Andonian tea while we wait for your Riker.
+[00:29:37.849 --> 00:29:39.929] AARON: Then you can tell us about what's brought you here.
+[00:29:40.729 --> 00:29:42.249] PICARD: I see you keep up with our duty roster.
+[00:29:42.809 --> 00:29:44.009] AARON: Yes, of course, Captain.
+[00:29:44.089 --> 00:29:46.409] AARON: The Enterprise is very important to us.
+[00:29:46.409 --> 00:29:47.209] REMMICK: Excuse me, gentlemen.
+[00:29:48.729 --> 00:29:48.729] AARON: To
+[00:29:50.569 --> 00:29:50.569] AARON: the
+[00:29:52.809 --> 00:29:53.689] AARON: Horatio, gentlemen.
+[00:29:54.329 --> 00:29:54.889] SAVAR: The Horatio.
+[00:29:55.609 --> 00:29:55.609] AARON: What
+[00:30:00.969 --> 00:30:01.929] AARON: an awful tragedy.
+[00:30:02.969 --> 00:30:04.489] AARON: Such a terrible loss of life.
+[00:30:05.449 --> 00:30:07.209] PICARD: It's interesting that you should mention the Horatio.
+[00:30:07.209 --> 00:30:09.049] PICARD: It's one of the subjects I wanted to discuss.
+[00:30:09.289 --> 00:30:09.689] AARON: Really?
+[00:30:11.049 --> 00:30:13.769] PICARD: Has the cause of her destruction been ascertained?
+[00:30:14.649 --> 00:30:15.209] SAVAR: Absolutely.
+[00:30:16.489 --> 00:30:17.049] SAVAR: Implosion,
+[00:30:17.692 --> 00:30:20.012] SAVAR: due to extreme negligence on the part of her Captain.
+[00:30:20.652 --> 00:30:21.292] AARON: Enjoy, Picard.
+[00:30:22.092 --> 00:30:23.852] AARON: I believe you'll find it an excellent aperitif.
+[00:30:25.212 --> 00:30:27.372] QUINN: It's
+[00:30:44.652 --> 00:30:45.372] QUINN: good thing you're here.
+[00:30:45.692 --> 00:30:46.892] QUINN: He slipped and hit his head.
+[00:30:47.532 --> 00:30:49.532] LAFORGE: This is Lieutenant La Forge in guest quarter seventeen.
+[00:30:49.772 --> 00:30:50.812] LAFORGE: We have a medical emergency.
+[00:30:51.372 --> 00:30:52.732] QUINN: Your Doctor Crusher is most capable.
+[00:30:52.732 --> 00:30:53.772] QUINN: I'm sure he'll be all right.
+[00:30:54.252 --> 00:30:57.452] QUINN: Now if you'll excuse me, my time here is most limited.
+[00:30:57.692 --> 00:30:58.012] LAFORGE: Admiral.
+[00:30:59.692 --> 00:31:01.212] LAFORGE: Don't you think we should wait until the Doctor gets here?
+[00:31:04.652 --> 00:31:06.092] QUINN: Now, Klingon,
+[00:31:09.532 --> 00:31:11.372] QUINN: it's between you and me.
+[00:31:35.212 --> 00:31:37.292] QUINN: Do Klingons fear death as much as humans?
+[00:31:39.052 --> 00:31:42.332] QUINN: I could snap your neck in a second, but it wouldn't be as much fun.
+[00:31:44.568 --> 00:31:45.128] WORF: Are
+[00:32:06.008 --> 00:32:06.408] WORF: you all right?
+[00:32:06.408 --> 00:32:08.888] LAFORGE: If I could see, I'd be seeing stars.
+[00:32:13.128 --> 00:32:13.848] WORF: What is he?
+[00:32:18.488 --> 00:32:19.368] CRUSHER: Let's find out.
+[00:32:29.288 --> 00:32:31.128] CRUSHER: Retinal scans are an exact match
+[00:32:31.768 --> 00:32:32.648] CRUSHER: It really is Quinn.
+[00:32:33.048 --> 00:32:33.608] LAFORGE: How can that be?
+[00:32:33.608 --> 00:32:35.048] LAFORGE: The man picked me up like a rag doll.
+[00:32:36.168 --> 00:32:38.408] CRUSHER: I'm going to have to do a complete internal scan.
+[00:32:38.888 --> 00:32:39.608] LAFORGE: Keep me posted, Doctor,
+[00:32:39.608 --> 00:32:40.408] LAFORGE: I'll be on the Bridge.
+[00:32:52.808 --> 00:32:54.088] CRUSHER: What is that?
+[00:32:55.834 --> 00:32:57.581] AARON: What
+[00:32:59.328 --> 00:33:01.074] AARON: do
+[00:33:02.821 --> 00:33:05.928] AARON: you know of conspiracies, Captain?
+[00:33:06.008 --> 00:33:08.328] PICARD: Not nearly enough, I suppose.
+[00:33:08.968 --> 00:33:10.408] AARON: That's the charming thing about them, isn't it?
+[00:33:11.048 --> 00:33:15.448] AARON: When a machination is real, no one knows about it. And when it's suspected,
+[00:33:16.046 --> 00:33:17.326] AARON: it's almost never real.
+[00:33:17.326 --> 00:33:20.526] SAVAR: Except, of course, in paranoid delusions for those who believe.
+[00:33:23.006 --> 00:33:24.126] REMMICK: Sorry to interrupt.
+[00:33:25.166 --> 00:33:25.966] REMMICK: Dinner is served.
+[00:33:26.126 --> 00:33:26.686] AARON: Wonderful.
+[00:33:27.006 --> 00:33:29.006] AARON: Bantering with the Captain has given me quite an appetite.
+[00:33:29.246 --> 00:33:33.006] PICARD: I need to contact my ship to let Commander Riker that we're about to sit down.
+[00:33:33.246 --> 00:33:34.126] SAVAR: Of course, Captain.
+[00:33:34.926 --> 00:33:35.966] SAVAR: We'll wait for you at the table.
+[00:33:46.526 --> 00:33:47.166] PICARD: Picard to Riker.
+[00:33:47.966 --> 00:33:49.006] CRUSHER: Doctor Crusher here, Captain.
+[00:33:50.206 --> 00:33:51.406] CRUSHER: May I speak freely?
+[00:33:54.446 --> 00:33:55.646] PICARD: I suppose I have little choice.
+[00:33:55.806 --> 00:33:56.366] PICARD: Where's Riker?
+[00:33:56.926 --> 00:33:59.966] CRUSHER: He was attacked by Quinn, or what we thought was Quinn.
+[00:34:00.926 --> 00:34:01.646] PICARD: Specify, Doctor.
+[00:34:02.926 --> 00:34:05.326] CRUSHER: A parasitic being has invaded Quinn's body.
+[00:34:05.806 --> 00:34:08.286] CRUSHER: It has complete control over all brain functions.
+[00:34:08.926 --> 00:34:13.246] CRUSHER: It seems to breath through a small gill protruding from the back of Quinn's neck.
+[00:34:14.046 --> 00:34:15.086] CRUSHER: Look for this, Captain.
+[00:34:15.806 --> 00:34:18.926] CRUSHER: I believe it will be visible on anyone who has been compromised.
+[00:34:20.126 --> 00:34:21.486] PICARD: Any idea what it is or where it comes from?
+[00:34:21.806 --> 00:34:22.206] CRUSHER: Negative.
+[00:34:22.686 --> 00:34:24.286] CRUSHER: I've never seen anything like it before.
+[00:34:24.846 --> 00:34:27.486] DATA: Lieutenant Worf, if the situation is under control,
+[00:34:27.646 --> 00:34:28.766] DATA: please report to the Bridge.
+[00:34:29.406 --> 00:34:29.726] WORF: Doctor?
+[00:34:30.126 --> 00:34:30.686] CRUSHER: It's okay.
+[00:34:31.246 --> 00:34:33.166] CRUSHER: He won't be waking up for a long time.
+[00:34:34.926 --> 00:34:35.566] PICARD: Continue, Doctor.
+[00:34:36.286 --> 00:34:44.686] CRUSHER: By the placement of the tendrils The parasite appears to stimulate the victim's adrenal glands, generate great strength And resistance to the
+[00:34:44.766 --> 00:34:45.726] PICARD: Never mind the details.
+[00:34:45.726 --> 00:34:46.526] PICARD: Can you remove it?
+[00:34:46.948 --> 00:34:47.908] CRUSHER: I don't think so.
+[00:34:48.708 --> 00:34:50.468] CRUSHER: Not without killing the patient.
+[00:34:52.868 --> 00:34:53.428] CRUSHER: Captain.
+[00:34:53.828 --> 00:34:55.748] CRUSHER: You must set your phaser on kill.
+[00:34:56.068 --> 00:34:57.508] CRUSHER: Stun has little effect.
+[00:35:00.388 --> 00:35:03.668] PICARD: Doctor, one does not beam down to Starfleet Headquarters armed.
+[00:35:06.788 --> 00:35:08.388] REMMICK: Your food is getting cold, Captain.
+[00:35:11.188 --> 00:35:12.548] PICARD: I'm going in to dinner now, Doctor.
+[00:35:13.268 --> 00:35:15.348] PICARD: Tell Commander Riker to join me as soon as he's ready.
+[00:35:17.268 --> 00:35:17.828] PICARD: Picard out.
+[00:35:32.388 --> 00:35:33.988] AARON: Please, sit down, Captain.
+[00:35:34.148 --> 00:35:34.868] AARON: We've been waiting.
+[00:35:41.348 --> 00:35:44.228] AARON: Go ahead and start, Captain.
+[00:35:44.788 --> 00:35:45.988] AARON: We don't stand on ceremony here.
+[00:36:04.948 --> 00:36:06.548] AARON: Oh do eat up, Picard.
+[00:36:07.028 --> 00:36:08.388] AARON: Raise your hand if you want seconds.
+[00:36:39.324 --> 00:36:40.204] PICARD: Riker! Thank God.
+[00:36:41.724 --> 00:36:42.204] PICARD: We're leaving.
+[00:36:43.084 --> 00:36:44.044] RIKER: You're not going anywhere.
+[00:36:48.284 --> 00:36:49.324] RIKER: You'll be one of us soon.
+[00:36:53.404 --> 00:36:54.924] AARON: You were meant for the Doctor.
+[00:36:55.324 --> 00:36:56.124] RIKER: It couldn't be helped.
+[00:36:56.764 --> 00:36:58.284] RIKER: Riker walked in on us unexpectedly.
+[00:37:02.764 --> 00:37:03.164] SAVAR: No matter.
+[00:37:04.284 --> 00:37:05.564] SAVAR: The Doctor will soon be joining us.
+[00:37:08.044 --> 00:37:08.844] SAVAR: All in good time.
+[00:37:12.044 --> 00:37:12.284] SAVAR: Well,
+[00:37:13.244 --> 00:37:14.124] SAVAR: Captain Scott. Good.
+[00:37:15.164 --> 00:37:16.284] SAVAR: Now the setting is complete.
+[00:37:20.124 --> 00:37:23.404] AARON: You don't really think we were in the dark about your intentions, do you?
+[00:37:23.804 --> 00:37:25.324] SAVAR: Patience is one of our virtues, Captain.
+[00:37:26.844 --> 00:37:27.724] SAVAR: We didn't go after you,
+[00:37:28.124 --> 00:37:30.284] SAVAR: we allowed you to come after us.
+[00:37:32.044 --> 00:37:33.724] AARON: More dramatic that way, don't you think?
+[00:37:36.364 --> 00:37:36.924] TRYLA: Yes,
+[00:37:37.644 --> 00:37:42.204] TRYLA: the one thing both races share is a love of theatre. And you've put on a fine show.
+[00:37:42.844 --> 00:37:43.484] PICARD: What race are you?
+[00:37:44.284 --> 00:37:44.844] PICARD: Where are you from?
+[00:37:45.244 --> 00:37:45.884] SAVAR: It's not important.
+[00:37:47.004 --> 00:37:47.724] SAVAR: Let us just say
+[00:37:48.313 --> 00:37:50.233] SAVAR: we've come a long way to join you.
+[00:37:51.033 --> 00:37:52.153] TRYLA: It's a perfect match.
+[00:37:52.473 --> 00:37:53.273] TRYLA: We're the brains,
+[00:37:53.833 --> 00:37:54.473] TRYLA: you're the brawn.
+[00:37:55.033 --> 00:37:56.713] RIKER: You'll understand soon, Picard.
+[00:37:57.433 --> 00:37:57.913] SAVAR: Indeed.
+[00:37:58.633 --> 00:38:01.033] SAVAR: We've been moving slowly, cautiously, for many months now.
+[00:38:01.833 --> 00:38:03.193] SAVAR: Careful to cover our tracks.
+[00:38:03.593 --> 00:38:06.873] SAVAR: Careful not to arouse suspicion, until it's too late.
+[00:38:07.593 --> 00:38:08.313] RIKER: And now it's too late.
+[00:38:09.033 --> 00:38:09.593] RIKER: For you, that is.
+[00:38:09.913 --> 00:38:10.873] AARON: Well said, brother.
+[00:38:11.273 --> 00:38:16.153] AARON: Picard and Riker control the Enterprise, which means we control the Enterprise.
+[00:38:17.193 --> 00:38:18.073] SAVAR: Eat hearty, brother!
+[00:38:19.753 --> 00:38:20.953] SAVAR: Relish your new body!
+[00:38:50.553 --> 00:38:52.793] PICARD: Aaron!
+[00:39:00.393 --> 00:39:02.393] PICARD: Aaron!
+[00:39:37.777 --> 00:39:38.497] REMMICK: Can I help you, gentlemen?
+[00:39:40.497 --> 00:39:41.457] REMMICK: Is there any trouble here?
+[00:39:42.977 --> 00:39:44.337] REMMICK: Perhaps if you'd tell me what it is
+[00:39:49.457 --> 00:39:49.617] PICARD: Remmick!
+[00:39:54.737 --> 00:39:55.217] PICARD: No, Will.
+[00:40:18.817 --> 00:40:19.937] REMMICK: You don't understand.
+[00:40:28.737 --> 00:40:29.777] REMMICK: We mean you no harm.
+[00:40:36.497 --> 00:40:38.737] REMMICK: We seek peaceful co-existence.
+[00:41:25.490 --> 00:41:28.530] LOG: Captain's log, stardate 41780.2.
+[00:41:29.410 --> 00:41:33.810] LOG: How difficult after all these years of learning to respect life, to be forced to destroy it.
+[00:41:34.370 --> 00:41:35.970] LOG: But there seems to be no alternative.
+[00:41:36.690 --> 00:41:38.850] LOG: Admiral Quinn is expected to make a full recovery.
+[00:41:39.010 --> 00:41:41.650] LOG: There is no trace of the parasite which took control of him.
+[00:41:42.770 --> 00:41:51.330] LOG: We'll never know how many of these life forms infiltrated Starfleet, but it seems they could not survive without the mother creature which had taken over Commander Remmick.
+[00:41:52.370 --> 00:41:52.850] RIKER: It was Doctor
+[00:41:52.850 --> 00:41:54.930] RIKER: Crusher's idea to simulate the blue gill.
+[00:41:55.650 --> 00:41:57.650] RIKER: We had to make sure it would fool everyone, including you.
+[00:41:57.810 --> 00:41:58.770] PICARD: That it did, Number One.
+[00:41:58.770 --> 00:41:59.677] PICARD: Rest assured.
+[00:41:59.677 --> 00:42:00.130] DATA: Captain,
+[00:42:01.090 --> 00:42:03.490] DATA: I have attempted to trace the message Remmick was sending.
+[00:42:03.810 --> 00:42:06.690] DATA: I believe it was aimed at an unexplored sector of our galaxy.
+[00:42:08.130 --> 00:42:09.490] LAFORGE: Any idea what the message was, Data?
+[00:42:12.530 --> 00:42:13.410] DATA: I believe it was a beacon.
+[00:42:14.690 --> 00:42:15.170] PICARD: A beacon?
+[00:42:16.050 --> 00:42:16.290] DATA: Yes, sir.
+[00:42:17.128 --> 00:42:19.208] DATA: A homing beacon, sent from Earth.
+[00:42:28.000 --> 00:42:38.000] [music]
+[00:42:47.000 --> 00:43:33.000] [music]

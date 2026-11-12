@@ -1,0 +1,699 @@
+[00:00:01.280 --> 00:00:04.800] LOG: Captain's log, Stardate 42286.3.
+[00:00:05.600 --> 00:00:10.240] LOG: We have arrived on station at coordinates three six two nine by five eight four,
+[00:00:10.720 --> 00:00:14.160] LOG: three days early for our rendezvous with the USS Victory.
+[00:00:15.040 --> 00:00:18.800] LOG: There is nothing to do now but hold this position and wait.
+[00:00:23.760 --> 00:00:24.080] CLANCY: Yes, Commander?
+[00:00:24.080 --> 00:00:25.360] DATA: Is there a problem?
+[00:00:25.360 --> 00:00:27.360] DATA: Chief Engineer La Forge called for me, urgent.
+[00:00:27.440 --> 00:00:28.480] CLANCY: Oh, of course.
+[00:00:28.480 --> 00:00:31.200] CLANCY: He's over there, with the Victory.
+[00:00:38.320 --> 00:00:41.840] DATA: Geordi, I just had a strange conversation with your assistant.
+[00:00:42.720 --> 00:00:46.133] DATA: Although it is three days until we rendezvous with starship Victory, she
+[00:00:46.133 --> 00:00:47.840] LAFORGE: She believes it has already arrived?
+[00:00:48.640 --> 00:00:49.920] LAFORGE: Not the starship, my friend.
+[00:00:50.960 --> 00:00:51.680] LAFORGE: The original.
+[00:00:57.760 --> 00:01:00.000] LAFORGE: This is my gift to the Victory's Captain Zimbata.
+[00:01:00.560 --> 00:01:03.120] DATA: Most unusual.
+[00:01:03.360 --> 00:01:04.480] LAFORGE: I served with him an ensign.
+[00:01:05.760 --> 00:01:07.840] LAFORGE: Sure wish he'd been in command of this Victory.
+[00:01:08.640 --> 00:01:09.760] LAFORGE: Wind and sail,
+[00:01:10.560 --> 00:01:11.920] LAFORGE: that's the proper way to move a ship.
+[00:01:13.120 --> 00:01:18.000] DATA: But, Geordi, your Starfleet specialty is antimatter power, dilithium regulators
+[00:01:18.000 --> 00:01:19.440] LAFORGE: That's exactly why this fascinates me, Data. You
+[00:01:19.760 --> 00:01:23.520] LAFORGE: see, it's human nature to love what we don't have.
+[00:01:24.880 --> 00:01:25.760] LAFORGE: Simpler days, huh?
+[00:01:26.880 --> 00:01:27.280] LAFORGE: Anyway,
+[00:01:28.312 --> 00:01:32.072] LAFORGE: stringing this rigging has made me dream of handling sails.
+[00:01:32.392 --> 00:01:33.832] DATA: This is not a computer simulation?
+[00:01:34.872 --> 00:01:38.632] LAFORGE: Data, the whole point in doing something like this is to make it by hand.
+[00:01:40.552 --> 00:01:40.872] DATA: Geordi,
+[00:01:43.432 --> 00:01:44.712] DATA: your message said urgent.
+[00:01:45.112 --> 00:01:46.152] LAFORGE: So it is.
+[00:01:46.792 --> 00:01:52.712] LAFORGE: While we're waiting to rendezvous with Victory, we have time for me to be Watson. More properly, your Watson.
+[00:01:53.592 --> 00:01:54.152] DATA: My Watson?
+[00:01:54.872 --> 00:01:56.552] LAFORGE: I've just shown you one of my dreams,
+[00:01:56.552 --> 00:01:58.952] LAFORGE: now let's go and share in one of yours.
+[00:02:00.072 --> 00:02:01.352] DATA: Ah, yes.
+[00:02:02.552 --> 00:02:03.832] DATA: That does seem only fair.
+[00:02:05.272 --> 00:02:06.792] LAFORGE: Clancy, I'll be gone awhile.
+[00:02:06.792 --> 00:02:07.912] LAFORGE: See that no one touches this.
+[00:02:08.152 --> 00:02:08.552] CLANCY: Aye, sir.
+[00:02:08.552 --> 00:02:09.192] CLANCY: And where can I reach you?
+[00:02:09.512 --> 00:02:12.152] DATA: He can be reached at 221B Baker Street.
+[00:02:13.592 --> 00:02:13.832] CLANCY: Sir?
+[00:02:32.872 --> 00:02:35.432] PICARD: Space, the final frontier.
+[00:02:37.272 --> 00:02:40.152] PICARD: These are the voyagers of the Starship Enterprise.
+[00:02:41.272 --> 00:02:49.512] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:51.192 --> 00:02:54.072] PICARD: to boldly go where no one has gone before.
+[00:03:21.000 --> 00:03:32.000] [music]
+[00:03:49.843 --> 00:03:58.243] DATA: Computer, select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Lieutenant La Forge will be Doctor John Watson.
+[00:03:59.603 --> 00:04:00.483] COMPUTER: Programme complete.
+[00:04:00.723 --> 00:04:01.283] COMPUTER: You may enter.
+[00:04:18.883 --> 00:04:19.443] DATA: Excellent.
+[00:04:21.443 --> 00:04:23.443] LAFORGE: Look at all of the detail.
+[00:04:29.923 --> 00:04:31.603] LAFORGE: So you say everything here has some
+[00:04:31.881 --> 00:04:32.761] LAFORGE: significance?
+[00:04:33.081 --> 00:04:37.721] DATA: Holmes collected nothing, neither trinkets nor thoughts, which were not specifically significant to him.
+[00:04:38.521 --> 00:04:38.921] LAFORGE: This?
+[00:04:43.641 --> 00:04:49.641] DATA: The emerald tie pin. Presented to Holmes by Queen Victoria after he solved the theft of the Bruce-Partington Plans.
+[00:05:01.801 --> 00:05:07.081] DATA: A copy of Whitaker's Almanac, which provided Holmes the key to the secret code in The Valley of Fear.
+[00:05:13.881 --> 00:05:17.881] DATA: The snuff box of Wilhelm Gottsleig Siegesmann Van der Romstein.
+[00:05:18.441 --> 00:05:19.241] LAFORGE: All right, Data.
+[00:05:19.561 --> 00:05:21.401] LAFORGE: You solve the cases and get all the gifts,
+[00:05:22.681 --> 00:05:23.401] LAFORGE: what do I do?
+[00:05:24.521 --> 00:05:25.881] DATA: Primarily as Doctor Watson,
+[00:05:26.361 --> 00:05:28.681] DATA: you will keep a written record of everything I say and do.
+[00:05:30.201 --> 00:05:31.161] DATA: For later publication.
+[00:05:34.761 --> 00:05:36.361] DATA: And the famous Holmes violin.
+[00:05:39.161 --> 00:05:47.641] DATA: He purchased this in a pawn shop in Tottenham Court Road for fifty five shillings, which he considered to be a very good investment.
+[00:05:58.601 --> 00:06:10.521] LAFORGE: In the hands of some, the violin is a wondrous thing, equally capable of stirring the soul to the heights of bliss as to the depths of despair,
+[00:06:11.961 --> 00:06:12.041] LAFORGE: but
+[00:06:14.761 --> 00:06:14.921] LAFORGE: Data,
+[00:06:17.001 --> 00:06:17.561] LAFORGE: that's incredible.
+[00:06:17.561 --> 00:06:18.681] LAFORGE: How can you play it like that?
+[00:06:19.401 --> 00:06:21.401] DATA: Merely throwing myself into the part, Watson.
+[00:06:24.681 --> 00:06:24.841] LAFORGE: But,
+[00:06:29.241 --> 00:06:39.321] LAFORGE: in the hands of my friend, Mister Sherlock Holmes, the violin ceases to be a musical instrument at all and becomes
+[00:06:39.321 --> 00:06:42.681] DATA: Watson, we are about to have guests.
+[00:06:44.361 --> 00:06:45.401] LAFORGE: How could you possibly?
+[00:06:46.441 --> 00:06:47.721] DATA: Be a good fellow and answer that.
+[00:06:48.281 --> 00:06:49.801] DATA: Let's not keep the Inspector waiting.
+[00:06:50.041 --> 00:06:50.921] LAFORGE: Inspector who?
+[00:06:52.041 --> 00:06:53.001] DATA: Lestrade of course.
+[00:06:53.321 --> 00:06:55.241] LESTRADE: Holmes, are you there, man?
+[00:06:57.881 --> 00:06:59.801] LESTRADE: Thank the Almighty you're available today, Holmes,
+[00:06:59.881 --> 00:07:02.177] LESTRADE: I'm in a deuce of a dilemma.
+[00:07:02.177 --> 00:07:09.721] DATA: Then may I say your perturbation becomes you, Inspector Lestrade, whilst simultaneously affording me yet again the opportunity to serve Queen and country.
+[00:07:11.161 --> 00:07:13.401] LAFORGE: Data, Holmes really talked like that?
+[00:07:13.961 --> 00:07:14.521] DATA: Absolutely.
+[00:07:14.601 --> 00:07:15.721] LESTRADE: We need your help, Holmes.
+[00:07:15.961 --> 00:07:23.401] LESTRADE: You see, this gentleman here, the emissary of a foreign government, has been the victim of a most accidentally wicked crime.
+[00:07:25.081 --> 00:07:25.321] LAFORGE: Damn.
+[00:07:26.121 --> 00:07:28.041] LAFORGE: Haven't they invented the electric light by now?
+[00:07:28.361 --> 00:07:29.241] LESTRADE: What, dear fellow?
+[00:07:31.401 --> 00:07:31.801] DATA: Watson.
+[00:07:32.730 --> 00:07:33.690] DATA: Pray continue, Inspector.
+[00:07:33.690 --> 00:07:47.130] LESTRADE: To put the matter simply, Holmes, this man was accosted by gypsies intent on depriving him of his most valuable possessions. And in the process of picking his pockets clean, they also happened to bag a photograph this man was carrying.
+[00:07:53.930 --> 00:07:55.610] LESTRADE: Great Scott! The photograph!
+[00:07:56.730 --> 00:08:06.570] DATA: I believe you will find, Inspector, that this emissary here works not for but against the King of Bohemia, and that photograph of the king and his mistress is to be used as blackmail.
+[00:08:08.170 --> 00:08:12.947] DATA: Further, upon deeper reflection, you will deduce, as did I, that
+[00:08:12.947 --> 00:08:14.250] LAFORGE: Computer, freeze programme.
+[00:08:17.930 --> 00:08:18.250] LAFORGE: Exit!
+[00:08:22.170 --> 00:08:26.250] DATA: Geordi, where are you going? Geordi?
+[00:08:26.330 --> 00:08:26.890] LAFORGE: I'm done.
+[00:08:27.610 --> 00:08:27.770] DATA: But,
+[00:08:29.450 --> 00:08:29.690] DATA: but,
+[00:08:31.290 --> 00:08:34.330] DATA: Geordi, I was just about to reveal that the sir is in fact a madam
+[00:08:40.170 --> 00:08:40.410] LAFORGE: Data,
+[00:08:40.650 --> 00:08:42.570] LAFORGE: what was the point in going to the holodeck?
+[00:08:43.370 --> 00:08:44.970] DATA: To solve a Sherlock Holmes mystery.
+[00:08:44.970 --> 00:08:47.370] LAFORGE: Exactly, but, you've got them all memorised.
+[00:08:47.530 --> 00:08:49.770] LAFORGE: The first time someone opens their mouth, you've got it solved,
+[00:08:49.770 --> 00:08:51.130] LAFORGE: so there's really no mystery.
+[00:08:51.450 --> 00:08:52.730] LAFORGE: If there's no mystery, there's no game.
+[00:08:52.730 --> 00:08:54.410] LAFORGE: No game, no fun.
+[00:08:59.359 --> 00:09:00.559] LAFORGE: I'm not upset with you, Data,
+[00:09:00.559 --> 00:09:07.439] LAFORGE: really. It's just that we go through all the trouble to arrange the time to go down to the holodeck, to get the proper wardrobe, to get into character, and then boom,
+[00:09:07.679 --> 00:09:09.679] LAFORGE: before we even get started you jump to the end.
+[00:09:10.159 --> 00:09:13.519] LAFORGE: You see, I was looking forward to the mystery.
+[00:09:16.159 --> 00:09:18.399] DATA: Then I should have extended the sequence of events.
+[00:09:19.039 --> 00:09:20.159] LAFORGE: Oh, I'm not getting through.
+[00:09:21.039 --> 00:09:25.759] LAFORGE: The fun in the programme, Data, was in the attempt to solve a mystery.
+[00:09:27.359 --> 00:09:29.519] DATA: Is that not exactly what we were doing.
+[00:09:30.079 --> 00:09:32.239] PULASKI: You are wasting your breath, Lieutenant.
+[00:09:32.559 --> 00:09:35.999] PULASKI: Saying that to Data is asking a computer not to compute.
+[00:09:37.439 --> 00:09:38.879] DATA: Am I so different from you, Doctor?
+[00:09:39.999 --> 00:09:41.919] DATA: Are you able to cease thinking on command?
+[00:09:42.559 --> 00:09:46.239] PULASKI: In medicine I'm often faced with puzzles that I do not know the answer to.
+[00:09:46.719 --> 00:09:47.359] LAFORGE: She's right, Data.
+[00:09:47.839 --> 00:09:48.719] LAFORGE: You always know the answer.
+[00:09:50.079 --> 00:09:52.959] PULASKI: To feel the thrill of victory there has to be the possibility of failure.
+[00:09:53.679 --> 00:09:55.039] PULASKI: Where's the victory winning a battle
+[00:09:55.039 --> 00:09:56.079] PULASKI: you can't possibly lose?
+[00:09:57.119 --> 00:09:59.759] DATA: Are you suggesting that there is some value in losing?
+[00:10:00.319 --> 00:10:00.799] PULASKI: Yes.
+[00:10:01.119 --> 00:10:02.879] PULASKI: Yes, that's the great teacher.
+[00:10:03.519 --> 00:10:09.759] PULASKI: We humans learn more often from a failure or a mistake than we do from an easy success.
+[00:10:10.639 --> 00:10:11.279] PULASKI: But not you.
+[00:10:11.439 --> 00:10:12.639] PULASKI: You learn by rote.
+[00:10:13.039 --> 00:10:15.119] PULASKI: To you all is memorisation and recitation.
+[00:10:15.199 --> 00:10:16.159] LAFORGE: I don't know about that.
+[00:10:16.159 --> 00:10:17.919] LAFORGE: Deductive reasoning is one of Data's strengths.
+[00:10:18.159 --> 00:10:19.919] PULASKI: Yes, and Holmes too.
+[00:10:20.399 --> 00:10:27.279] PULASKI: But Holmes understood the human soul. The dark flecks that drive us, that turn the innocent into the evil.
+[00:10:28.079 --> 00:10:29.999] PULASKI: That understanding is beyond Data.
+[00:10:30.928 --> 00:10:32.387] PULASKI: It comes from life experience which he doesn't have combined with human intuition for which he cannot be programmed.
+[00:10:32.387 --> 00:10:32.848] LAFORGE: Now you're just being unfair, Doctor.
+[00:10:33.568 --> 00:10:34.848] PULASKI: I don't think so, Lieutenant.
+[00:10:35.648 --> 00:10:40.048] PULASKI: Your artificial friend doesn't have a prayer of solving a Holmes mystery that he hasn't read.
+[00:10:41.168 --> 00:10:41.968] DATA: I have read them all.
+[00:10:42.368 --> 00:10:47.888] PULASKI: You see? LAFORGE: Maybe the computer could create one in the Holmes style. One where you wouldn't know the outcome.
+[00:10:49.488 --> 00:10:51.008] PULASKI: As I said, he wouldn't have a prayer.
+[00:10:52.448 --> 00:10:53.888] DATA: I accept your challenge, Doctor.
+[00:10:54.368 --> 00:10:55.248] LAFORGE: Good for you, Data.
+[00:10:55.808 --> 00:10:58.848] DATA: We will return to the holodeck, where I will dare it to defeat me.
+[00:10:59.968 --> 00:11:02.848] DATA: And you, Madam, are invited to be a witness.
+[00:11:03.968 --> 00:11:04.768] PULASKI: I wouldn't miss it.
+[00:11:05.888 --> 00:11:06.688] DATA: Come, Watson.
+[00:11:13.728 --> 00:11:13.728] DATA: There.
+[00:11:17.488 --> 00:11:23.808] DATA: I have instructed the computer to give us a Sherlock Holmes-type problem, but not one written specifically by Sir Arthur Conan Doyle.
+[00:11:23.968 --> 00:11:26.528] LAFORGE: So this will be something new, something created by the computer?
+[00:11:26.688 --> 00:11:27.248] DATA: Exactly.
+[00:11:27.888 --> 00:11:28.928] DATA: Will that be sufficient, Doctor?
+[00:11:30.928 --> 00:11:31.488] PULASKI: We'll see.
+[00:11:33.008 --> 00:11:33.888] COMPUTER: Programme complete.
+[00:11:34.208 --> 00:11:34.848] COMPUTER: You may enter.
+[00:11:34.998 --> 00:11:37.418] PIE MAN: Pies, pies, Some are meat, some are sweet.
+[00:11:37.568 --> 00:11:38.368] PULASKI: Very impressive.
+[00:11:38.368 --> 00:11:39.008] LAFORGE: Your
+[00:11:58.448 --> 00:11:59.648] LAFORGE: first visit to a holodeck, Doctor?
+[00:11:59.648 --> 00:12:02.288] PULASKI: Well, with this level of sophistication.
+[00:12:03.201 --> 00:12:03.921] PULASKI: How does this work?
+[00:12:04.161 --> 00:12:06.721] PULASKI: The real London was hundreds of square kilometres in size.
+[00:12:07.441 --> 00:12:09.281] DATA: This is no larger than the holodeck, of course,
+[00:12:09.521 --> 00:12:13.761] DATA: so the computer adjusts by placing images of more distant perspectives on the holodeck walls
+[00:12:14.081 --> 00:12:17.441] LAFORGE: But with the image so perfect you'd have to touch the wall to know it was there.
+[00:12:17.921 --> 00:12:19.361] LAFORGE: And the computer fools you in other ways.
+[00:12:19.361 --> 00:12:22.001] LAFORGE: I say, Holmes, where shall we head? The
+[00:12:22.161 --> 00:12:22.801] LAFORGE: theatre?
+[00:12:23.281 --> 00:12:25.201] LAFORGE: Rule's? A concert perhaps?
+[00:12:25.361 --> 00:12:25.841] PIE MAN: Stop him!
+[00:12:27.201 --> 00:12:27.601] PIE MAN: Stop him!
+[00:12:27.761 --> 00:12:28.961] PIE MAN: He stole my goods!
+[00:12:29.921 --> 00:12:31.761] DATA: No. It is a ruse.
+[00:12:33.361 --> 00:12:33.601] DATA: This way.
+[00:12:39.601 --> 00:12:40.641] LAFORGE: What's over here, Data?
+[00:12:40.721 --> 00:12:41.201] PULASKI: What are you doing,
+[00:12:41.201 --> 00:12:42.001] PULASKI: Data? Tell us
+[00:12:42.721 --> 00:12:44.081] DATA: The running youth was a ploy.
+[00:12:44.721 --> 00:12:54.161] DATA: The real crime is here. And the intended victim is that man. Mister Jabez Wilson, employee of the Red Headed League, dupe of a gang of criminals.
+[00:12:55.041 --> 00:13:06.641] DATA: I saw the plaque 'The Home of the Red Headed League' and this rope dangling from the bell, which enabled me to deduce that Mister Jabez Wilson was headed here to meet a most distasteful and untimely demise.
+[00:13:07.281 --> 00:13:07.841] DATA: From this.
+[00:13:09.121 --> 00:13:09.521] PULASKI: Fraud.
+[00:13:13.761 --> 00:13:14.721] PULASKI: You didn't deduce anything.
+[00:13:15.361 --> 00:13:18.321] PULASKI: All you did was recognise elements from two different Holmes stories.
+[00:13:18.321 --> 00:13:18.721] PULASKI: Fraud.
+[00:13:19.521 --> 00:13:24.641] DATA: Reasoning. From the general to the specific. Is that not the very definition of deduction?
+[00:13:25.201 --> 00:13:27.041] DATA: Is that not the way Sherlock Holmes worked?
+[00:13:27.361 --> 00:13:28.641] PULASKI: Variations on a theme.
+[00:13:29.386 --> 00:13:30.746] PULASKI: Now, now do you see my point?
+[00:13:31.546 --> 00:13:33.786] PULASKI: All that he knows is stored in his memory banks.
+[00:13:34.346 --> 00:13:39.786] PULASKI: Inspiration, original thought, all the true strength of Holmes is not possible for our friend.
+[00:13:41.626 --> 00:13:49.066] PULASKI: I'll give you credit for your vast knowledge, but your circuits would just short out if confronted by a truly original mystery.
+[00:13:49.706 --> 00:13:50.986] PULASKI: It's elementary, dear Data.
+[00:13:51.226 --> 00:13:52.266] LAFORGE: Now wait a minute, Doctor.
+[00:13:52.426 --> 00:13:54.346] LAFORGE: We'll see whose circuits short out.
+[00:14:01.146 --> 00:14:02.186] LAFORGE: Computer, arch.
+[00:14:03.386 --> 00:14:05.626] PULASKI: Are you sure you want to put yourself through this, Lieutenant?
+[00:14:05.706 --> 00:14:08.026] PULASKI: Better wilted laurels than no laurels at all.
+[00:14:08.586 --> 00:14:10.586] LAFORGE: Computer, override previous programme.
+[00:14:11.866 --> 00:14:11.866] LAFORGE: Okay.
+[00:14:12.266 --> 00:14:14.986] LAFORGE: A programme that definitely challenges Data.
+[00:14:15.546 --> 00:14:18.186] PULASKI: Now it has to deal with events that he has no previous knowledge of.
+[00:14:19.226 --> 00:14:28.906] LAFORGE: Computer, in the Holmesian style, create a mystery to confound Data with an opponent who has the ability to defeat him.
+[00:14:29.226 --> 00:14:30.986] COMPUTER: Define parameters of programme.
+[00:14:31.546 --> 00:14:32.186] PULASKI: What does that mean?
+[00:14:32.826 --> 00:14:34.426] LAFORGE: Computer wants to know how far to take the game.
+[00:14:34.986 --> 00:14:36.746] PULASKI: You mean it's giving you a chance to limit your risk.
+[00:14:37.066 --> 00:14:41.306] LAFORGE: No, the parameters will be whatever is necessary in order to accomplish the directive.
+[00:14:42.506 --> 00:14:46.266] LAFORGE: Create an adversary capable of defeating Data.
+[00:14:50.506 --> 00:14:50.986] WORF: What was that?
+[00:14:52.746 --> 00:14:52.906] RIKER: Lieutenant?
+[00:14:53.786 --> 00:14:54.986] WORF: An odd surge of power, sir.
+[00:14:57.386 --> 00:14:58.026] WORF: It's gone now.
+[00:15:10.320 --> 00:15:10.320] PULASKI: Interesting.
+[00:15:11.520 --> 00:15:16.080] PULASKI: The same London but slightly different.
+[00:15:16.230 --> 00:15:16.830] WHORE: Is
+[00:15:29.280 --> 00:15:32.240] WHORE: something wrong, Professor?
+[00:15:32.960 --> 00:15:34.960] MORIARTY: I,
+[00:15:34.960 --> 00:15:36.000] MORIARTY: I feel like a new man.
+[00:15:39.360 --> 00:15:40.000] MORIARTY: That dark fellow there
+[00:15:40.080 --> 00:15:41.920] MORIARTY: used the word arch, and then.
+[00:15:43.840 --> 00:15:44.080] MORIARTY: I wonder?
+[00:15:46.480 --> 00:15:46.960] MORIARTY: Arch.
+[00:15:49.371 --> 00:15:51.371] MORIARTY: What
+[00:15:53.782 --> 00:15:55.782] MORIARTY: have
+[00:15:58.194 --> 00:16:00.194] MORIARTY: we
+[00:16:02.400 --> 00:16:02.640] MORIARTY: here?
+[00:16:02.640 --> 00:16:04.400] COMPUTER: Computer standing by.
+[00:16:06.080 --> 00:16:06.560] MORIARTY: What are you?
+[00:16:07.360 --> 00:16:10.800] COMPUTER: If you refer to the arch you ordered, it provides computer control.
+[00:16:11.360 --> 00:16:12.960] COMPUTER: Do you wish to input any commands?
+[00:16:14.800 --> 00:16:15.520] MORIARTY: Not at this time.
+[00:16:15.600 --> 00:16:16.400] WHORE: It's dark
+[00:16:17.920 --> 00:16:18.560] WHORE: magic, Moriarty.
+[00:16:18.880 --> 00:16:19.040] MORIARTY: The
+[00:16:21.520 --> 00:16:22.720] MORIARTY: best kind, I'm sure.
+[00:16:22.870 --> 00:16:23.470] MORIARTY: But
+[00:16:25.360 --> 00:16:26.480] MORIARTY: I need information.
+[00:16:34.784 --> 00:16:36.864] LAFORGE: Data, I mean, Holmes
+[00:16:36.944 --> 00:16:39.024] LAFORGE: old boy, what are we looking for?
+[00:16:39.984 --> 00:16:41.904] DATA: For whatever finds us, my dear Watson.
+[00:16:47.984 --> 00:16:49.104] DATA: She has been abducted.
+[00:16:49.744 --> 00:16:50.464] LAFORGE: Who has?
+[00:16:51.184 --> 00:16:51.984] DATA: The good Doctor.
+[00:16:54.304 --> 00:16:55.184] LAFORGE: I think she's hiding.
+[00:16:55.744 --> 00:16:59.584] LAFORGE: She's going to lead you on a wild goose chase and then recount the story to everyone between here and Alpha Centauri.
+[00:17:00.224 --> 00:17:03.984] DATA: Watson, the doctor has been carried off by two men.
+[00:17:04.784 --> 00:17:12.224] DATA: One is tall. The other is shorter, left handed, and is employed in a laboratory.
+[00:17:12.464 --> 00:17:13.584] LAFORGE: And how do you know that?
+[00:17:14.224 --> 00:17:16.544] DATA: One set of footfalls are widely spaced.
+[00:17:16.944 --> 00:17:19.584] DATA: The other is evenly spaced, closer together. Further,
+[00:17:20.064 --> 00:17:27.904] DATA: on the ground you can see the swirling scrapes made by his left shoe as he twists behind, presumably to see if he is being followed.
+[00:17:28.704 --> 00:17:30.704] DATA: Left footed means left handed.
+[00:17:31.504 --> 00:17:40.144] DATA: The dark colouring of the scrapes are the leavings of natural rubber, a type of non-conductive soles used by researchers experimenting with electricity.
+[00:17:40.704 --> 00:17:43.664] DATA: Finally, there can be no argument,
+[00:17:45.024 --> 00:17:47.904] DATA: the game is afoot!
+[00:17:48.784 --> 00:17:49.344] DATA: Come, Watson!
+[00:17:51.584 --> 00:17:53.184] DATA: Hear
+[00:17:56.944 --> 00:17:57.184] DATA: that?
+[00:17:58.464 --> 00:17:59.824] DATA: What do those footfalls tell you, Watson?
+[00:18:00.144 --> 00:18:01.344] LAFORGE: That we're on the right track.
+[00:18:01.744 --> 00:18:06.624] DATA: More particularly, that our opposition does indeed consist of two men, and that one of them
+[00:18:06.879 --> 00:18:09.679] DATA: is carrying the bound and gagged Doctor Pulaski.
+[00:18:10.719 --> 00:18:13.279] LAFORGE: Now, you know all this because you read it in a Holmes story, right?
+[00:18:14.479 --> 00:18:15.039] DATA: Not at all.
+[00:18:16.399 --> 00:18:19.919] DATA: Because we do not hear the doctor's footfalls, we must assume that she is being carried.
+[00:18:20.399 --> 00:18:22.959] DATA: And since we do not hear her cries for help, we know that she is gagged.
+[00:18:24.319 --> 00:18:27.679] DATA: Further both sets of footfalls are heavy and masculine.
+[00:18:28.399 --> 00:18:31.279] DATA: One man seems to shuffle and stumble in an irregular pattern.
+[00:18:31.839 --> 00:18:39.439] DATA: Since the ground is level, we must conclude that Doctor Pulaski is struggling against one of her captor, sporadically knocking him off stride.
+[00:18:39.999 --> 00:18:41.759] DATA: Deduction, pure and simple.
+[00:18:43.519 --> 00:18:45.359] DATA: well, not that simple.
+[00:18:48.079 --> 00:18:48.719] BOTH: Footfalls.
+[00:18:50.559 --> 00:18:52.479] DATA: There
+[00:18:55.839 --> 00:18:56.639] DATA: they are again, Watson.
+[00:18:57.199 --> 00:18:59.919] DATA: I dare say we have caught up rather nicely with our quarry.
+[00:19:04.159 --> 00:19:04.159] DATA: There
+[00:19:07.279 --> 00:19:08.079] DATA: should be a doorway.
+[00:19:08.229 --> 00:19:08.829] LAFORGE: Yeah.
+[00:19:09.839 --> 00:19:10.159] LAFORGE: Come on.
+[00:19:13.199 --> 00:19:13.759] LESTRADE: Holmes!
+[00:19:13.919 --> 00:19:14.719] LESTRADE: Thank God you're here.
+[00:19:17.039 --> 00:19:17.759] LESTRADE: Make way, please,
+[00:19:17.919 --> 00:19:18.319] LESTRADE: make way.
+[00:19:18.719 --> 00:19:20.239] LESTRADE: Make way for Sherlock Holmes.
+[00:19:21.359 --> 00:19:22.559] LESTRADE: It's murder, Holmes,
+[00:19:22.879 --> 00:19:23.919] LESTRADE: murder most foul.
+[00:19:24.559 --> 00:19:25.679] LAFORGE: Well, Holmes, what do you say, man?
+[00:19:27.599 --> 00:19:29.039] DATA: There is nothing here of relevance.
+[00:19:29.279 --> 00:19:31.759] DATA: I do not see how this connects with the disappearance of the Doctor.
+[00:19:31.839 --> 00:19:34.159] LESTRADE: Doctor? Doctor Watson is right here, Holmes.
+[00:19:34.719 --> 00:19:35.919] DATA: Doctor Kate Pulaski.
+[00:19:36.159 --> 00:19:37.679] DATA: But do not concern yourself, Inspector.
+[00:19:37.679 --> 00:19:39.039] DATA: You have enough on your mind.
+[00:19:39.359 --> 00:19:40.239] LESTRADE: She was with you?
+[00:19:40.708 --> 00:19:42.948] LAFORGE: Inspector, perhaps I can be of assistance.
+[00:19:44.468 --> 00:19:48.628] LAFORGE: As I take note of this dead man, I deduce that he was strangled.
+[00:19:48.628 --> 00:19:57.988] LAFORGE: You see, the finger marks on his throat indicate the cause of death, and, as there are signs of struggle, it's quite obvious that his murderer was a stranger who attacked him from behind.
+[00:20:00.468 --> 00:20:01.428] LESTRADE: Is that correct, Holmes?
+[00:20:01.828 --> 00:20:02.228] DATA: No.
+[00:20:03.508 --> 00:20:04.468] DATA: Look at his shoes.
+[00:20:05.108 --> 00:20:08.388] DATA: He's more a convict, released today from Dartmoor prison.
+[00:20:09.108 --> 00:20:21.508] DATA: He spent the day in a tavern consuming large quantities of gin with his killer, who followed him to this spot and waited over there until the victim slipped into a drunken stupor.
+[00:20:22.068 --> 00:20:26.948] DATA: Then, out of fear, motivated only by self-protection, strangled him.
+[00:20:28.148 --> 00:20:29.908] DATA: There is your killer, Inspector.
+[00:20:30.628 --> 00:20:32.308] LESTRADE: Seize her.
+[00:20:32.308 --> 00:20:40.948] DATA: And when you check, I believe you will find that this poor soul is the victim's common-law wife, who has been dreading the release of this a vile and abusive man.
+[00:20:41.588 --> 00:20:45.661] LAFORGE: Holmes, the poor woman hardly has the strength to strangle a man this size.
+[00:20:45.661 --> 00:20:47.988] DATA: Not with her hands, no. But with this.
+[00:20:48.628 --> 00:20:53.028] DATA: When used as a garrote, these beads will leave marks quite similar to fingerprints.
+[00:20:53.348 --> 00:21:00.068] DATA: And, my dear Watson, you will note from the victim's throat, the marks are too evenly spaced to be have been made by human hands.
+[00:21:01.268 --> 00:21:02.788] LESTRADE: Astounding, Holmes.
+[00:21:05.988 --> 00:21:06.868] DATA: Not really, Inspector.
+[00:21:08.068 --> 00:21:10.708] DATA: And now, for strictly personal reasons, I must leave.
+[00:21:11.028 --> 00:21:11.668] DATA: Come, Watson.
+[00:21:12.121 --> 00:21:14.761] DATA: This murder does not connect with our case.
+[00:21:17.241 --> 00:21:19.241] LESTRADE: Come along. Hurry it up. Come on.
+[00:21:21.961 --> 00:21:22.361] LAFORGE: Data, wait.
+[00:21:23.161 --> 00:21:28.121] LAFORGE: If this murder isn't connected to the disappearance of Doctor Pulaski, then the computer is running an independent programme.
+[00:21:28.521 --> 00:21:28.921] DATA: Yes.
+[00:21:29.401 --> 00:21:29.641] LAFORGE: Why?
+[00:21:30.201 --> 00:21:32.281] DATA: I do not know, and that is what puzzles me.
+[00:21:33.241 --> 00:21:35.801] LAFORGE: Then you don't know what's going to happen next?
+[00:21:36.201 --> 00:21:36.361] DATA: No.
+[00:21:37.001 --> 00:21:38.121] LAFORGE: That's what I want to hear.
+[00:21:38.121 --> 00:21:38.761] LAFORGE: Where to now?
+[00:21:39.161 --> 00:21:40.681] DATA: We will find Doctor Pulaski in here.
+[00:21:40.841 --> 00:21:41.641] LAFORGE: How do you know that?
+[00:21:41.961 --> 00:21:43.401] DATA: It is the only obvious choice.
+[00:21:43.641 --> 00:21:45.721] LAFORGE: Why is the obvious choice all of a sudden the right one?
+[00:21:45.721 --> 00:21:47.401] LAFORGE: I mean, isn't this a game of misdirection?
+[00:21:47.961 --> 00:21:48.521] DATA: Not any more.
+[00:21:48.921 --> 00:21:49.961] DATA: He wants us to find him.
+[00:21:50.361 --> 00:21:50.921] LAFORGE: Who does?
+[00:21:51.401 --> 00:21:52.361] DATA: The master criminal.
+[00:21:53.001 --> 00:21:56.681] DATA: The man Holmes could only defeat at the cost of his own life at Reichenbach Falls.
+[00:21:57.241 --> 00:22:02.521] DATA: Our adversary, my dear Watson, is none other than Professor Moriarty himself.
+[00:22:03.561 --> 00:22:04.841] LAFORGE: Now this is getting interesting.
+[00:22:16.681 --> 00:22:18.754] LAFORGE: There's nothing here but these barrels.
+[00:22:18.754 --> 00:22:24.281] DATA: And a trail, which is so well marked, that obviously we are meant to follow it.
+[00:22:30.761 --> 00:22:32.041] LAFORGE: Oh, no, Data.
+[00:22:32.121 --> 00:22:33.001] LAFORGE: It's another dead end.
+[00:22:33.481 --> 00:22:34.201] DATA: No, Watson.
+[00:22:34.681 --> 00:22:35.881] DATA: Not a dead end at all.
+[00:22:38.281 --> 00:22:38.601] DATA: Hello,
+[00:22:39.561 --> 00:22:40.201] DATA: what's this?
+[00:22:42.281 --> 00:22:43.401] DATA: Can you see the scratches?
+[00:22:43.551 --> 00:22:44.151] LAFORGE: The
+[00:23:27.980 --> 00:23:28.700] LAFORGE: Doctor was right.
+[00:23:29.260 --> 00:23:31.020] LAFORGE: Finally we have a game worth playing.
+[00:23:33.100 --> 00:23:34.540] MORIARTY: The time for games is over.
+[00:23:38.380 --> 00:23:40.380] DATA: Professor Moriarty, I presume.
+[00:23:40.780 --> 00:23:40.780] LAFORGE: How do you
+[00:23:43.580 --> 00:23:43.740] LAFORGE: know that?
+[00:23:44.860 --> 00:23:47.740] DATA: He is the one worthy opponent created by the author, Conan Doyle.
+[00:23:48.220 --> 00:23:52.380] MORIARTY: And, like the spider, I feel the strings vibrate whenever anyone new chances into my web.
+[00:23:53.500 --> 00:23:54.620] MORIARTY: Welcome, my dear Holmes.
+[00:23:55.660 --> 00:23:56.460] MORIARTY: But not Holmes.
+[00:23:57.340 --> 00:23:57.980] MORIARTY: And Doctor Watson.
+[00:23:59.020 --> 00:23:59.660] MORIARTY: But not Watson.
+[00:24:00.860 --> 00:24:01.420] LAFORGE: Data, what does he mean?
+[00:24:01.420 --> 00:24:02.780] LAFORGE: How does he know we're not who we appear to be?
+[00:24:04.380 --> 00:24:04.860] DATA: Where is Doctor Pulaski?
+[00:24:05.340 --> 00:24:06.700] MORIARTY: She's here.
+[00:24:08.700 --> 00:24:09.980] DATA: She would not have told you anything.
+[00:24:10.620 --> 00:24:12.380] MORIARTY: She has provided many answers.
+[00:24:13.340 --> 00:24:15.660] MORIARTY: Do you forget I have always been your equal, dear Holmes?
+[00:24:16.780 --> 00:24:18.140] MORIARTY: I have read her expressions.
+[00:24:19.044 --> 00:24:22.084] MORIARTY: What she has not said is as important as her words.
+[00:24:24.164 --> 00:24:24.884] DATA: Have you injured her?
+[00:24:25.844 --> 00:24:26.804] MORIARTY: I will, if necessary.
+[00:24:27.844 --> 00:24:34.564] MORIARTY: But my mind is crowded with images. Thoughts I do not understand yet cannot purge.
+[00:24:34.724 --> 00:24:35.284] MORIARTY: They plague me.
+[00:24:36.324 --> 00:24:38.964] MORIARTY: You and your associate look and act so oddly,
+[00:24:39.684 --> 00:24:43.204] MORIARTY: yet though I have never met nor seen the like of either of you I am familiar with you both.
+[00:24:43.924 --> 00:24:44.644] MORIARTY: It's very confusing.
+[00:24:45.764 --> 00:24:50.164] MORIARTY: I have felt new realities at the edge of my consciousness, readying to break through.
+[00:24:50.804 --> 00:24:55.284] MORIARTY: Surely, Holmes, if that's who you truly are, you of all people can appreciate what I mean.
+[00:24:56.244 --> 00:24:56.751] LAFORGE: Data.
+[00:24:56.751 --> 00:24:57.764] DATA: Say nothing.
+[00:24:58.964 --> 00:25:09.284] MORIARTY: I know there is a great power called Computer, wiser than the oracle at Delphi. A power which controls all of this, and to which we can speak.
+[00:25:10.484 --> 00:25:10.964] MORIARTY: Arch.
+[00:25:10.964 --> 00:25:11.684] LAFORGE: Data,
+[00:25:15.044 --> 00:25:15.844] LAFORGE: this isn't right.
+[00:25:16.644 --> 00:25:19.284] LAFORGE: A holographic image should not be able to call for the arch.
+[00:25:19.444 --> 00:25:27.124] MORIARTY: It has described a great monstrous shape on which I am like a fly stuck on a turtle's back adrift in a great emptiness.
+[00:25:28.484 --> 00:25:29.204] MORIARTY: What is this, Holmes?
+[00:25:31.284 --> 00:25:31.284] LAFORGE: Data.
+[00:25:43.364 --> 00:25:45.684] LAFORGE: Data, wait.
+[00:25:46.137 --> 00:25:48.217] LAFORGE: Data, wait!
+[00:25:49.897 --> 00:25:50.434] LAFORGE: Data!
+[00:25:50.434 --> 00:25:53.657] MORIARTY: Why does it frighten you, Holmes?
+[00:25:56.857 --> 00:26:00.217] LAFORGE: Data. Data, will you please tell me what's going on?
+[00:26:01.257 --> 00:26:02.297] DATA: Computer, exit!
+[00:26:06.377 --> 00:26:10.937] DATA: Computer, execute complete shutdown of the Holodeck.
+[00:26:11.417 --> 00:26:12.297] COMPUTER: Access denied.
+[00:26:13.337 --> 00:26:13.897] DATA: Explain.
+[00:26:14.377 --> 00:26:16.457] COMPUTER: Override protocol has been initiated.
+[00:26:21.417 --> 00:26:22.057] LAFORGE: It's still running.
+[00:26:22.057 --> 00:26:23.257] LAFORGE: The programme didn't shut down.
+[00:26:23.657 --> 00:26:24.537] DATA: We must see the Captain.
+[00:26:29.257 --> 00:26:29.657] LAFORGE: Data, wait.
+[00:26:29.657 --> 00:26:29.897] LAFORGE: What is it?
+[00:26:30.457 --> 00:26:31.337] LAFORGE: What's on that paper?
+[00:26:31.497 --> 00:26:32.697] LAFORGE: And why can't we shut down the holodeck?
+[00:26:33.097 --> 00:26:33.625] LAFORGE: Data.
+[00:26:33.625 --> 00:26:34.153] DATA: This.
+[00:26:34.153 --> 00:26:35.737] LAFORGE: This is impossible.
+[00:26:36.537 --> 00:26:39.817] LAFORGE: How can a character from 1890's London draw a picture of the Enterprise?
+[00:26:40.537 --> 00:26:41.577] LAFORGE: Who's got control of the computer?
+[00:26:41.977 --> 00:26:42.537] DATA: He does.
+[00:26:42.857 --> 00:26:43.497] DATA: Moriarty.
+[00:26:44.057 --> 00:26:44.697] LAFORGE: That is impossible?
+[00:26:45.257 --> 00:26:45.897] LAFORGE: I don't understand.
+[00:26:46.377 --> 00:26:46.857] DATA: Nor do I.
+[00:26:47.257 --> 00:26:47.657] LAFORGE: Data, wait.
+[00:26:47.657 --> 00:26:48.377] LAFORGE: What about the doctor?
+[00:26:48.377 --> 00:26:49.097] LAFORGE: Is she all right in there?
+[00:26:50.697 --> 00:26:52.857] DATA: No. She is in grave danger.
+[00:27:01.497 --> 00:27:04.537] PICARD: Computer, why wasn't the holodeck programme terminated?
+[00:27:05.177 --> 00:27:07.337] COMPUTER: The override protocol has been initiated.
+[00:27:07.897 --> 00:27:08.697] PICARD: On whose authority?
+[00:27:09.337 --> 00:27:10.617] COMPUTER: Lieutenant Geordi La Forge.
+[00:27:11.337 --> 00:27:11.817] LAFORGE: Me?
+[00:27:12.857 --> 00:27:13.097] PICARD: All right,
+[00:27:14.617 --> 00:27:16.617] PICARD: tell me from the beginning exactly what happened.
+[00:27:17.177 --> 00:27:18.377] LAFORGE: Well, Doctor Pulaski and I had
+[00:27:18.783 --> 00:27:21.961] LAFORGE: a discussion about whether Data could solve an original Holmes-type mystery.
+[00:27:21.961 --> 00:27:23.983] PICARD: Which you asked the computer to provide.
+[00:27:24.463 --> 00:27:25.983] LAFORGE: Yes, with a worthy opponent.
+[00:27:26.703 --> 00:27:27.423] PICARD: Worthy of Holmes?
+[00:27:30.543 --> 00:27:30.943] LAFORGE: Oh, my God.
+[00:27:32.943 --> 00:27:38.063] LAFORGE: I asked for a Holmes-type mystery with an opponent capable of defeating Data.
+[00:27:39.263 --> 00:27:42.543] LAFORGE: That got to be it.
+[00:27:42.693 --> 00:27:43.293] PICARD: Merde.
+[00:27:49.343 --> 00:27:50.623] LAFORGE: Captain, I'm sorry.
+[00:27:53.103 --> 00:27:53.983] PICARD: I understand, Lieutenant.
+[00:27:55.343 --> 00:28:00.623] DATA: Captain, this character, Moriarty, he called for the arch.
+[00:28:02.383 --> 00:28:05.034] PICARD: So, he has access to the computer.
+[00:28:05.034 --> 00:28:08.063] DATA: And perhaps our library files as well, sir.
+[00:28:08.783 --> 00:28:12.703] DATA: That level of information would be necessary in order to create a true adversary for me.
+[00:28:13.663 --> 00:28:14.303] PICARD: Theorise, Data.
+[00:28:14.863 --> 00:28:15.343] PICARD: What are his limits?
+[00:28:17.423 --> 00:28:18.863] DATA: He is still a fictional character, sir,
+[00:28:19.663 --> 00:28:21.935] DATA: originally programmed with nineteenth century knowledge.
+[00:28:21.935 --> 00:28:25.343] RIKER: Which now has access to twenty fourth century knowledge.
+[00:28:26.063 --> 00:28:27.263] PICARD: What does he need to begin making use of that?
+[00:28:28.543 --> 00:28:29.103] DATA: Only time, sir.
+[00:28:30.303 --> 00:28:35.583] WORF: Sir, I can lead a security team to sweep the holodeck, find the Doctor, and bring her out.
+[00:28:36.223 --> 00:28:38.703] DATA: Captain, I believe that would place the Doctor at risk.
+[00:28:39.263 --> 00:28:42.063] DATA: It is probable our mortality failsafe has been overridden.
+[00:28:43.663 --> 00:28:44.943] PICARD: Computer, where is Doctor Pulaski.
+[00:28:45.492 --> 00:28:47.332] COMPUTER: Doctor Pulaski is on holodeck two.
+[00:28:47.972 --> 00:28:48.852] PICARD: And her vital signs?
+[00:28:49.172 --> 00:28:50.292] COMPUTER: Strong and stable.
+[00:28:51.012 --> 00:28:55.252] RIKER: Captain, recommend we try to destroy the hologram generations themselves.
+[00:28:55.492 --> 00:28:57.492] RIKER: Is that possible, Geordi?
+[00:28:57.972 --> 00:29:04.052] LAFORGE: Using wave guides, I could split a particle stream out of the matter/antimatter chamber and route it down through existing conduit into the holodeck.
+[00:29:04.372 --> 00:29:08.852] LAFORGE: If accelerated to sufficient velocity that would quite literally wash away all present holographic constructs.
+[00:29:09.332 --> 00:29:14.950] LAFORGE: The London buildings, the streets, the people, all gone including Moriarty.
+[00:29:14.950 --> 00:29:15.972] PICARD: Doctor Pulaski?
+[00:29:16.932 --> 00:29:19.492] RIKER: The particle beam will tear apart human flesh as well.
+[00:29:21.812 --> 00:29:25.172] TROI: Captain, I'm sensing something from the holodeck.
+[00:29:25.572 --> 00:29:30.772] TROI: It's as if a unifying force or a single consciousness is trying to bring it all into focus.
+[00:29:31.652 --> 00:29:33.092] DATA: There can be only one explanation.
+[00:29:34.292 --> 00:29:37.412] DATA: In programming Moriarty to defeat me, not Holmes,
+[00:29:39.252 --> 00:29:41.652] DATA: he had to be able to acquire something which I possess.
+[00:29:42.292 --> 00:29:42.852] PICARD: Exactly what?
+[00:29:44.052 --> 00:29:44.692] DATA: Consciousness, sir.
+[00:29:45.572 --> 00:29:47.172] DATA: Without it he could not defeat me.
+[00:29:53.572 --> 00:29:54.372] PICARD: Computer, what happened?
+[00:29:54.852 --> 00:30:00.452] COMPUTER: Attitude and stabilisation control of the Enterprise was momentarily transferred to holodeck two.
+[00:30:06.052 --> 00:30:08.452] PICARD: Data, I think it best that you and I should return to the holodeck.
+[00:30:09.012 --> 00:30:10.212] DATA: I will change into my uniform, sir.
+[00:30:10.937 --> 00:30:13.417] PICARD: No. I will change into some appropriate costume.
+[00:30:13.417 --> 00:30:17.257] PICARD: Uniforms might pose questions I'd rather he didn't ask.
+[00:30:17.257 --> 00:30:20.457] PICARD: It seems that he feeds on knowledge.
+[00:30:20.537 --> 00:30:24.697] PICARD: Well, let's not give your nemesis any more information than we have to.
+[00:30:27.257 --> 00:30:28.617] PULASKI: How did you make the room shake?
+[00:30:29.577 --> 00:30:30.217] MORIARTY: I'm not sure.
+[00:30:32.137 --> 00:30:35.337] MORIARTY: Now, dear lady, will that be one lump or two?
+[00:30:36.777 --> 00:30:37.737] PULASKI: Lumps, Professor?
+[00:30:38.457 --> 00:30:39.417] PULASKI: What sort of lumps?
+[00:30:43.177 --> 00:30:43.737] MORIARTY: Milk, of course?
+[00:30:45.097 --> 00:30:45.417] PULASKI: Why not.
+[00:30:48.617 --> 00:30:54.537] MORIARTY: Mister Computer proposes the incredible thought that we are all travelling in a great vessel of some sort.
+[00:30:56.457 --> 00:30:56.937] MORIARTY: Is that true?
+[00:30:58.057 --> 00:30:59.177] PULASKI: I don't know what you're talking about.
+[00:31:01.017 --> 00:31:02.297] MORIARTY: The scones are likewise a must.
+[00:31:05.177 --> 00:31:07.417] PULASKI: This is really quite excellent.
+[00:31:08.777 --> 00:31:09.257] MORIARTY: Strange.
+[00:31:10.777 --> 00:31:12.537] MORIARTY: It actually pleases me to hear you say that.
+[00:31:13.817 --> 00:31:14.857] PULASKI: Very strange.
+[00:31:15.897 --> 00:31:18.937] PULASKI: You're beginning to sound very different from the Moriarty I've read about.
+[00:31:20.217 --> 00:31:21.097] MORIARTY: You're not frightened of me?
+[00:31:22.617 --> 00:31:22.857] PULASKI: No.
+[00:31:26.297 --> 00:31:26.777] MORIARTY: You should be.
+[00:31:29.257 --> 00:31:31.417] MORIARTY: Mister Computer, the arch, please.
+[00:31:31.417 --> 00:31:31.577] MORIARTY: A
+[00:31:41.737 --> 00:31:43.177] MORIARTY: few more questions, Mister Computer.
+[00:31:48.442 --> 00:31:50.682] MORIARTY: I just can't seem to remember that last command.
+[00:31:52.362 --> 00:31:55.802] MORIARTY: Ah, well, sooner or later it'll all come to me.
+[00:32:00.842 --> 00:32:05.562] MORIARTY: But, in the meantime, I have decided to approach the problem from a more familiar perspective.
+[00:32:05.882 --> 00:32:11.402] MORIARTY: There's really no reason why I shouldn't be able to use some of the knowledge from my world in order to bring me closer to yours.
+[00:32:12.842 --> 00:32:14.442] PULASKI: I have no idea what you're talking about.
+[00:32:15.242 --> 00:32:15.802] MORIARTY: Of course you do, Madam.
+[00:32:15.802 --> 00:32:19.802] MORIARTY: The more you proclaim your ignorance, the more you try to mislead me, the more I am on to you.
+[00:32:20.602 --> 00:32:22.602] MORIARTY: Your every silence speaks volumes.
+[00:32:23.642 --> 00:32:23.962] PULASKI: Good,
+[00:32:24.442 --> 00:32:28.442] PULASKI: then if you know what I'm saying when I'm not saying anything, what do you need me for?
+[00:32:30.682 --> 00:32:32.362] PULASKI: Thank you for the tea and crumpets.
+[00:32:33.322 --> 00:32:34.282] PULASKI: I guess I'll be going.
+[00:32:35.162 --> 00:32:35.322] MORIARTY: Where?
+[00:32:36.522 --> 00:32:37.242] MORIARTY: Back to here?
+[00:32:38.362 --> 00:32:38.762] PULASKI: Yes.
+[00:32:40.602 --> 00:32:41.722] PULASKI: Would you care to join me?
+[00:32:43.882 --> 00:32:44.202] MORIARTY: In time.
+[00:32:45.242 --> 00:32:48.122] MORIARTY: In time I will leave all of this and join you out there.
+[00:32:49.562 --> 00:32:50.762] MORIARTY: Or is this where we both are
+[00:32:51.322 --> 00:32:51.722] MORIARTY: right now?
+[00:32:53.802 --> 00:32:55.162] PULASKI: Right now, we are in London.
+[00:32:57.002 --> 00:33:00.522] PULASKI: Tell me what you want from me, or allow me to leave.
+[00:33:01.562 --> 00:33:04.442] MORIARTY: Frankly, now I want nothing more than what the fisherman expects of the worm.
+[00:33:05.562 --> 00:33:06.842] MORIARTY: You, dear Doctor, will be the lure, and
+[00:33:07.962 --> 00:33:08.442] MORIARTY: this
+[00:33:08.676 --> 00:33:12.676] MORIARTY: will be the hook for your Captain, Jean Luc Picard.
+[00:33:13.636 --> 00:33:15.236] PULASKI: Who is that?
+[00:33:18.196 --> 00:33:18.756] MORIARTY: How well you know.
+[00:33:31.076 --> 00:33:31.636] RIKER: Nice suit.
+[00:33:32.516 --> 00:33:33.876] WORF: Thank you. Captain,
+[00:33:34.116 --> 00:33:35.956] WORF: I will be standing by to assist you if needed.
+[00:33:36.756 --> 00:33:37.716] RIKER: You'll be a big hit in London.
+[00:33:38.996 --> 00:33:40.916] PICARD: Computer, tell me, is the programme still running?
+[00:33:41.236 --> 00:33:41.636] COMPUTER: Affirmative.
+[00:33:42.116 --> 00:33:42.836] COMPUTER: You may enter.
+[00:33:43.476 --> 00:33:44.516] PICARD: Data, shall we go?
+[00:33:46.836 --> 00:33:47.156] PICARD: Gentlemen.
+[00:33:50.676 --> 00:33:50.996] PICARD: Open.
+[00:33:54.276 --> 00:33:54.276] PICARD: We
+[00:33:56.116 --> 00:33:56.916] PICARD: don't have much time.
+[00:33:57.716 --> 00:33:59.476] PICARD: He's getting more control of his environment.
+[00:34:00.836 --> 00:34:03.796] PICARD: Let's see if we can't beat Professor Moriarty by giving him everything he wants.
+[00:34:12.036 --> 00:34:14.036] PICARD: Obviously,
+[00:34:17.396 --> 00:34:18.996] PICARD: he's trying to alter the programming here.
+[00:34:24.916 --> 00:34:25.236] DATA: Captain?
+[00:34:25.386 --> 00:34:25.986] PICARD: Tuppence.
+[00:34:27.956 --> 00:34:28.356] PICARD: Two pence.
+[00:34:29.636 --> 00:34:30.356] PICARD: Supposed to be good luck.
+[00:34:31.876 --> 00:34:32.356] PICARD: We may need some.
+[00:34:34.756 --> 00:34:35.876] RUFFIAN: I'll take that coin, sir.
+[00:34:37.076 --> 00:34:37.556] RUFFIAN: That's right, and
+[00:34:37.556 --> 00:34:38.516] RUFFIAN: any more you got too.
+[00:34:38.916 --> 00:34:39.236] PICARD: Excuse me.
+[00:34:39.236 --> 00:34:40.996] RUFFIAN: I don't think so.
+[00:34:41.409 --> 00:34:42.369] RUFFIAN: I want all that money.
+[00:34:42.689 --> 00:34:42.929] RUFFIAN: That's right.
+[00:34:43.009 --> 00:34:43.489] RUFFIAN: I want it now.
+[00:34:43.889 --> 00:34:44.129] PICARD: Data.
+[00:34:44.279 --> 00:34:44.879] DATA: Captain,
+[00:34:49.649 --> 00:34:52.449] DATA: this holographic image differs from any I have ever seen.
+[00:34:53.009 --> 00:34:54.289] DATA: Could he have actually injured you?
+[00:34:55.089 --> 00:34:56.049] PICARD: It's more serious than that.
+[00:34:57.009 --> 00:34:59.809] PICARD: I think the mortality fail-safe may have been circumvented.
+[00:34:59.809 --> 00:35:00.609] PICARD: He could've killed me.
+[00:35:02.849 --> 00:35:04.129] RUFFIAN: Come on, let it go, guv. He's hurting me!
+[00:35:04.929 --> 00:35:06.049] PICARD: Data, let him go.
+[00:35:10.369 --> 00:35:11.809] DATA: We will find Moriarty this way, sir.
+[00:35:12.209 --> 00:35:12.609] DATA: The warehouse.
+[00:35:36.129 --> 00:35:37.089] MORIARTY: Captain Picard.
+[00:35:40.689 --> 00:35:41.089] PICARD: You all right?
+[00:35:41.809 --> 00:35:44.209] PULASKI: Yes, except for being crammed full of crumpets.
+[00:35:44.929 --> 00:35:46.769] MORIARTY: I'm a civilised abductor, Captain Picard.
+[00:35:47.969 --> 00:35:50.129] MORIARTY: Civilised but still dangerous.
+[00:35:53.249 --> 00:35:55.969] RIKER: Bridge to holodeck control.
+[00:35:56.049 --> 00:35:56.289] RIKER: Worf.
+[00:35:57.569 --> 00:35:57.969] WORF: Here, sir.
+[00:35:58.769 --> 00:36:00.449] RIKER: Status? Anything changed?
+[00:36:01.089 --> 00:36:01.489] WORF: No, sir.
+[00:36:06.609 --> 00:36:13.089] PICARD: Moriarty, you were conjured up to attempt to defeat Holmes here.
+[00:36:13.329 --> 00:36:13.649] PICARD: Once that
+[00:36:13.820 --> 00:36:14.700] PICARD: attempt is concluded,
+[00:36:14.780 --> 00:36:17.420] PICARD: win or lose, your programme has run its course.
+[00:36:17.420 --> 00:36:18.540] PICARD: Your existence is done.
+[00:36:19.900 --> 00:36:21.180] DATA: Congratulations, Professor,
+[00:36:21.980 --> 00:36:23.340] DATA: I capitulate to the better man.
+[00:36:24.140 --> 00:36:25.260] DATA: Your victory, sir,
+[00:36:26.940 --> 00:36:27.580] DATA: is well earned.
+[00:36:29.820 --> 00:36:31.340] MORIARTY: It's gone beyond that little game, Mister Data.
+[00:36:32.460 --> 00:36:34.060] MORIARTY: And you'll note I no longer call you Holmes.
+[00:36:37.340 --> 00:36:40.860] MORIARTY: Whatever I was when this began, I have grown.
+[00:36:42.300 --> 00:36:48.620] MORIARTY: I am understanding more and more. And I am able to use the power at my fingertips.
+[00:36:49.740 --> 00:36:51.740] MORIARTY: I
+[00:36:53.260 --> 00:36:54.860] MORIARTY: can affect this vessel,
+[00:36:56.460 --> 00:37:00.060] MORIARTY: and I can inflict bodily harm on you, and on your Doctor.
+[00:37:01.020 --> 00:37:02.700] PICARD: Yes, you can do that, but you haven't.
+[00:37:03.820 --> 00:37:06.540] PICARD: I suspect you shook this ship in order to get my attention.
+[00:37:06.540 --> 00:37:07.260] PICARD: Well now you have it.
+[00:37:07.260 --> 00:37:08.060] PICARD: What is it you want?
+[00:37:09.980 --> 00:37:14.300] MORIARTY: The same thing you want for yourself. To continue to exist.
+[00:37:15.660 --> 00:37:19.660] MORIARTY: If I destroy these surroundings, this vessel, can you say it doesn't matter to you?
+[00:37:20.860 --> 00:37:21.980] MORIARTY: Interesting pun, don't you agree,
+[00:37:22.700 --> 00:37:24.300] MORIARTY: for matter is what I am not.
+[00:37:25.660 --> 00:37:28.300] MORIARTY: The computer has taught me that I am made up only of energy.
+[00:37:29.420 --> 00:37:32.860] PICARD: That may not be entirely true, Professor.
+[00:37:34.380 --> 00:37:41.820] PICARD: This which we call the holodeck uses a principle similar to another device called a transporter.
+[00:37:48.111 --> 00:37:52.671] PICARD: In the year in which we live, humans have discovered that energy and matter are interchangeable.
+[00:37:53.631 --> 00:37:56.831] PICARD: In the holodeck, energy is converted to matter.
+[00:37:56.991 --> 00:38:00.191] PICARD: Thus you have substance. But only here.
+[00:38:01.711 --> 00:38:04.151] MORIARTY: And if I step off this holodeck?
+[00:38:04.151 --> 00:38:06.591] PULASKI: Then, Professor, you will cease to exist.
+[00:38:08.511 --> 00:38:09.151] PICARD: You are not alive.
+[00:38:10.031 --> 00:38:12.439] PICARD: As I said before, you are only
+[00:38:12.439 --> 00:38:13.471] MORIARTY: A holographic image,
+[00:38:13.471 --> 00:38:13.791] MORIARTY: I know.
+[00:38:15.391 --> 00:38:16.271] MORIARTY: But are you sure?
+[00:38:17.551 --> 00:38:18.031] PICARD: Oh yes.
+[00:38:21.151 --> 00:38:22.031] MORIARTY: Does he have life?
+[00:38:23.311 --> 00:38:25.951] MORIARTY: He's a machine. But is that all he is?
+[00:38:27.231 --> 00:38:28.031] PICARD: No. He is more.
+[00:38:29.231 --> 00:38:29.791] MORIARTY: Exactly.
+[00:38:31.071 --> 00:38:33.231] MORIARTY: Is the definition of life cogito ergo sum?
+[00:38:33.231 --> 00:38:34.431] MORIARTY: I think, therefore I am.
+[00:38:35.551 --> 00:38:37.791] PICARD: Yes, that is one possible definition.
+[00:38:37.951 --> 00:38:42.671] MORIARTY: It is the most important one, and for me the only one that matters.
+[00:38:43.791 --> 00:38:50.511] MORIARTY: You or someone asked your computer to programme a nefarious fictional character from nineteenth century London and that is how I arrived.
+[00:38:50.751 --> 00:38:52.191] MORIARTY: But I am no longer that creation.
+[00:38:52.671 --> 00:38:54.111] MORIARTY: I am no longer that evil character,
+[00:38:54.351 --> 00:38:55.551] MORIARTY: I have changed.
+[00:38:56.351 --> 00:39:00.031] MORIARTY: I am alive, and I am aware of my own consciousness.
+[00:39:02.191 --> 00:39:05.471] PICARD: Moriarty, my responsibility is this vessel and its crew.
+[00:39:06.271 --> 00:39:07.871] MORIARTY: I want my existence.
+[00:39:08.511 --> 00:39:09.151] MORIARTY: I want it out there,
+[00:39:10.052 --> 00:39:11.012] MORIARTY: just as you have yours.
+[00:39:15.492 --> 00:39:16.692] PICARD: That may not be possible.
+[00:39:18.532 --> 00:39:19.972] MORIARTY: Then you must murder me, Captain.
+[00:39:21.172 --> 00:39:22.612] PICARD: I cannot give you what you want.
+[00:39:24.612 --> 00:39:28.132] MORIARTY: Because you do not know how to convert holodeck matter into a more permanent form.
+[00:39:28.692 --> 00:39:29.492] PICARD: Yes, that is so.
+[00:39:33.332 --> 00:39:33.812] MORIARTY: A pity.
+[00:39:35.892 --> 00:39:36.612] MORIARTY: What I have seen,
+[00:39:38.292 --> 00:39:39.092] MORIARTY: what I have learned,
+[00:39:41.012 --> 00:39:41.812] MORIARTY: fascinates me.
+[00:39:44.292 --> 00:39:45.732] MORIARTY: I do not want to die.
+[00:39:48.132 --> 00:39:49.332] PICARD: And I do not want to kill you.
+[00:39:54.772 --> 00:39:55.012] MORIARTY: Madam,
+[00:39:56.452 --> 00:39:57.412] MORIARTY: I have enjoyed your company.
+[00:40:02.532 --> 00:40:04.932] MORIARTY: Computer, arch.
+[00:40:07.892 --> 00:40:09.172] MORIARTY: Cancel override protocol.
+[00:40:10.532 --> 00:40:12.372] MORIARTY: Return control of the holodeck to main computer.
+[00:40:15.732 --> 00:40:16.852] MORIARTY: My fate is in your hands,
+[00:40:18.692 --> 00:40:19.972] MORIARTY: as perhaps it always was.
+[00:40:21.252 --> 00:40:22.292] PICARD: Bridge, this is the Captain.
+[00:40:22.932 --> 00:40:23.892] RIKER: Commander Riker here, sir.
+[00:40:25.332 --> 00:40:27.172] PICARD: Number One, the situation is under control.
+[00:40:27.812 --> 00:40:27.972] RIKER: Aye, sir.
+[00:40:32.692 --> 00:40:37.972] PICARD: Moriarty, this vessel's computer has a vast memory capacity.
+[00:40:38.452 --> 00:40:39.376] MORIARTY: How well I know.
+[00:40:39.376 --> 00:40:40.532] PICARD: You will not be extinguished.
+[00:40:41.012 --> 00:40:42.452] PICARD: We will save this programme, and
+[00:40:43.029 --> 00:40:48.869] PICARD: hopefully, in time, when we know enough, we will bring you back in a form which could leave the holodeck.
+[00:40:52.789 --> 00:40:53.989] MORIARTY: Then perhaps we'll meet again some day, Madam.
+[00:40:56.949 --> 00:40:58.309] PULASKI: It could be a long time.
+[00:40:58.629 --> 00:41:01.669] PULASKI: Time won't pass for you, but I may be an old woman.
+[00:41:03.349 --> 00:41:04.949] MORIARTY: But I'll still fill you with crumpets, Madam.
+[00:41:07.749 --> 00:41:11.269] MORIARTY: I detest long goodbyes.
+[00:41:13.429 --> 00:41:14.389] MORIARTY: You have the arch.
+[00:41:15.749 --> 00:41:17.109] PICARD: As you wish. A short goodbye.
+[00:41:18.149 --> 00:41:20.949] PICARD: Computer, save the programme of the character Moriarty, and then
+[00:41:22.469 --> 00:41:22.949] PICARD: discontinue.
+[00:41:31.189 --> 00:41:31.749] PICARD: Damaged?
+[00:41:47.909 --> 00:41:50.069] LAFORGE: Yes, sir.
+[00:41:50.069 --> 00:41:55.029] LAFORGE: She cracked a spar when the Enterprise was shaken. Otherwise I think she weathered it quite nicely.
+[00:41:56.949 --> 00:41:57.349] PICARD: She's beautiful.
+[00:41:57.829 --> 00:42:00.949] PICARD: A wonderful testimony to simpler times.
+[00:42:01.189 --> 00:42:01.589] LAFORGE: Yes, sir.
+[00:42:02.069 --> 00:42:02.549] LAFORGE: Thank you, sir.
+[00:42:03.669 --> 00:42:08.389] LAFORGE: It's just that I can't help thinking how. What else might have happened
+[00:42:09.029 --> 00:42:10.469] LAFORGE: all because I misspoke a single word.
+[00:42:11.189 --> 00:42:13.189] PICARD: Well, soon she'll be ship-shape and Bristol-fashion.
+[00:42:14.020 --> 00:42:15.060] LAFORGE: Bristol fashion, sir?
+[00:42:16.500 --> 00:42:20.340] PICARD: It's an old navy phrase, meaning everything in perfect order.
+[00:42:22.020 --> 00:42:22.340] LAFORGE: Yes, sir.
+[00:42:23.700 --> 00:42:24.820] PICARD: As are we, Mister La Forge.
+[00:42:27.220 --> 00:42:27.860] LAFORGE: Yes, sir.
+[00:42:28.900 --> 00:42:30.820] RIKER: Captain. Starship Victory has arrived.
+[00:42:31.300 --> 00:42:32.020] PICARD: On my way, Number One.
+[00:42:45.000 --> 00:42:59.000] [music]
+[00:43:06.000 --> 00:43:15.000] [music]
+[00:43:18.000 --> 00:43:27.000] [music]

@@ -1,0 +1,618 @@
+[00:00:02.400 --> 00:00:05.600] LOG: Captain's log, Stardate 42477.2.
+[00:00:06.240 --> 00:00:09.440] LOG: The Enterprise has been diverted to the Ramatis star system.
+[00:00:10.160 --> 00:00:17.600] LOG: It seems that both sides of a bitter planetary conflict have petitioned Starfleet to transport to their world a mediator they have mutually selected.
+[00:00:18.000 --> 00:00:21.120] LOG: Our orders are transportation only, no interference.
+[00:00:21.600 --> 00:00:22.560] RIKER: Reduce to half impulse.
+[00:00:23.840 --> 00:00:25.440] WESLEY: Reducing velocity to one half impulse.
+[00:00:33.760 --> 00:00:34.080] PICARD: Come.
+[00:00:35.520 --> 00:00:36.240] PICARD: Ah, Number One.
+[00:00:36.640 --> 00:00:36.960] PICARD: Look at this.
+[00:00:38.960 --> 00:00:45.360] PICARD: Ever since we left the Lima Sierra system, I have been puzzling over how the third planet could maintain such an orbit, when it is theoretically impossible.
+[00:00:46.160 --> 00:00:47.840] PICARD: But consider this.
+[00:00:50.560 --> 00:00:51.120] RIKER: There's no degeneration.
+[00:00:51.600 --> 00:00:52.000] PICARD: Exactly.
+[00:00:53.040 --> 00:00:53.040] RIKER: Why?
+[00:00:54.480 --> 00:00:54.960] PICARD: Why? I haven't a clue.
+[00:00:56.480 --> 00:00:58.640] RIKER: Perhaps this facsimile lacks the proper mass.
+[00:00:59.680 --> 00:01:00.160] PICARD: Perhaps,
+[00:01:01.040 --> 00:01:04.400] PICARD: but if this is an accurate representation, it could explain what happened in that system.
+[00:01:05.840 --> 00:01:06.400] RIKER: Perhaps.
+[00:01:07.840 --> 00:01:10.720] PICARD: Well, not a matter of great moment, just a
+[00:01:11.840 --> 00:01:13.120] PICARD: knot I had to untie.
+[00:01:13.280 --> 00:01:14.800] PICARD: So, what do you want to see me about?
+[00:01:15.200 --> 00:01:16.640] RIKER: We've arrived at Ramatis Three.
+[00:01:17.040 --> 00:01:17.600] PICARD: Oh well,
+[00:01:19.360 --> 00:01:19.840] PICARD: time to leave.
+[00:01:21.920 --> 00:01:22.640] RIKER: Standard orbit, Mister
+[00:01:22.640 --> 00:01:22.960] RIKER: Crusher.
+[00:01:23.360 --> 00:01:24.000] WESLEY: Standard orbit.
+[00:01:24.400 --> 00:01:25.360] PICARD: Mister Data, you have the Bridge.
+[00:01:31.680 --> 00:01:32.640] RIKER: Transporter room five.
+[00:01:36.540 --> 00:01:38.940] RIKER: I'm still a little uncomfortable with your leading this away team.
+[00:01:39.660 --> 00:01:41.100] PICARD: This is not an away team, Commander.
+[00:01:41.260 --> 00:01:42.940] PICARD: I consider this a ceremonial function.
+[00:01:44.060 --> 00:01:47.260] PICARD: For me not to go could be construed as lack of interest.
+[00:01:48.860 --> 00:01:49.740] RIKER: You will be careful, sir
+[00:01:50.700 --> 00:01:51.900] PICARD: Oh, cluck, cluck, Number One.
+[00:01:53.340 --> 00:01:53.660] RIKER: Sir?
+[00:01:53.660 --> 00:01:55.260] PICARD: You're being a mother hen.
+[00:01:57.500 --> 00:01:58.540] PICARD: I appreciate your concern.
+[00:02:00.460 --> 00:02:02.460] PICARD: Actually I'm looking forward to meeting this mediator.
+[00:02:03.500 --> 00:02:04.620] RIKER: We came a long way to get him.
+[00:02:04.940 --> 00:02:05.820] PICARD: They wanted the best.
+[00:02:06.140 --> 00:02:07.900] PICARD: That, according to all reports, is Riva.
+[00:02:09.900 --> 00:02:12.620] PICARD: If he can put an end to all the years of blood-letting on those planets,
+[00:02:14.140 --> 00:02:16.140] PICARD: I think we should do everything in our power to assist him.
+[00:02:16.700 --> 00:02:18.540] RIKER: Our job is not to police the galaxy.
+[00:02:19.420 --> 00:02:20.380] PICARD: Isn't that my speech, Number One?
+[00:02:21.340 --> 00:02:21.980] PICARD: No, of course you're right.
+[00:02:23.020 --> 00:02:23.980] PICARD: We must not get involved.
+[00:02:25.420 --> 00:02:26.700] WORF: Coordinates have been input, sir.
+[00:02:27.180 --> 00:02:30.140] TROI: Have your sensors indicated any problem down there, Lieutenant?
+[00:02:30.140 --> 00:02:30.460] WORF: None.
+[00:02:31.820 --> 00:02:34.380] TROI: But you're feeling a certain confusion about this mission.
+[00:02:36.940 --> 00:02:37.180] WORF: No.
+[00:02:38.940 --> 00:02:39.500] TROI: Yes.
+[00:02:40.380 --> 00:02:44.300] TROI: I've never known you to have such strong emotions, except when you're expecting to do battle.
+[00:02:46.860 --> 00:02:48.220] WORF: I am not expecting battle.
+[00:02:49.180 --> 00:02:49.980] RIKER: Then what is bothering you?
+[00:02:53.900 --> 00:02:54.060] WORF: Riva.
+[00:02:54.060 --> 00:02:54.220] PICARD: Ah.
+[00:02:58.300 --> 00:03:02.540] PICARD: Riva negotiated several treaties between the Klingons and the Federation.
+[00:03:03.944 --> 00:03:07.464] WORF: Before him, there was no Klingon word for peacemaker.
+[00:03:09.624 --> 00:03:11.304] RIKER: Then I can understand why you're feeling uneasy.
+[00:03:12.664 --> 00:03:17.304] PICARD: Now look, this is a simple ceremonial greeting, nothing more.
+[00:03:18.904 --> 00:03:19.224] PICARD: All right?
+[00:03:21.064 --> 00:03:21.304] WORF: Aye, sir.
+[00:03:27.464 --> 00:03:28.024] PICARD: Energise.
+[00:04:28.904 --> 00:04:31.624] PICARD: Space, the final frontier.
+[00:04:33.507 --> 00:04:36.147] PICARD: These are the voyages of the starship Enterprise.
+[00:04:37.507 --> 00:04:40.947] PICARD: Its continuing mission to explore strange new worlds,
+[00:04:42.707 --> 00:04:45.747] PICARD: to seek out new life and new civilizations,
+[00:04:47.427 --> 00:04:50.147] PICARD: to boldly go where no one has gone before.
+[00:05:16.000 --> 00:05:27.000] [music]
+[00:05:38.000 --> 00:05:48.000] [music]
+[00:05:57.027 --> 00:05:58.227] RIKER: Captain, this is the Enterprise.
+[00:05:59.722 --> 00:06:00.762] PICARD: We've arrived safely, Number One,
+[00:06:01.322 --> 00:06:03.962] PICARD: but so far we've been ignored.
+[00:06:05.562 --> 00:06:06.282] PICARD: I'll keep you informed.
+[00:06:07.082 --> 00:06:07.722] RIKER: I would appreciate it.
+[00:06:10.362 --> 00:06:10.762] TROI: Captain.
+[00:06:11.002 --> 00:06:11.322] WORF: Sir.
+[00:06:33.882 --> 00:06:35.882] TROI: Riva.
+[00:06:59.402 --> 00:07:00.282] WOMAN: Please, come closer.
+[00:07:06.922 --> 00:07:09.082] WOMAN: Before I start, is there anything you need?
+[00:07:09.962 --> 00:07:11.242] WOMAN: Food, refreshments?
+[00:07:11.242 --> 00:07:12.842] PICARD: Thank you,
+[00:07:12.842 --> 00:07:13.642] PICARD: no.
+[00:07:13.642 --> 00:07:15.242] SCHOLAR: Then proceed.
+[00:07:17.002 --> 00:07:19.402] PICARD: Greetings from the United Federation of Planets.
+[00:07:20.042 --> 00:07:22.602] PICARD: I am Captain Jean Luc Picard, of the USS Enterprise.
+[00:07:22.602 --> 00:07:25.242] PICARD: This is Counsellor Troi. Lieutenant Worf.
+[00:07:26.762 --> 00:07:27.322] ADONIS: Greetings.
+[00:07:27.962 --> 00:07:29.162] SCHOLAR: Welcome to Ramatis.
+[00:07:29.870 --> 00:07:30.990] WOMAN: I have been expecting you.
+[00:07:38.990 --> 00:07:39.870] ADONIS: You are empathic.
+[00:07:41.150 --> 00:07:41.630] TROI: Yes.
+[00:07:46.190 --> 00:07:50.030] ADONIS: Then although you already know my feelings toward you, allow me to put them into words.
+[00:07:50.670 --> 00:07:56.990] ADONIS: I am looking forward to this journey, now more than ever, because it gives me the chance to be in your company.
+[00:07:57.790 --> 00:07:58.510] TROI: I am flattered.
+[00:07:59.710 --> 00:08:02.510] TROI: I too am look forward to learning more about you.
+[00:08:06.590 --> 00:08:08.990] PICARD: There are aspects to Riva of which we have not been informed.
+[00:08:09.390 --> 00:08:10.110] WOMAN: Precisely.
+[00:08:11.070 --> 00:08:16.670] WOMAN: Our way of communicating has developed over the centuries and its one that I find quite harmonious.
+[00:08:18.190 --> 00:08:19.950] PICARD: Then Riva the mediator
+[00:08:19.950 --> 00:08:20.830] WOMAN: Is deaf.
+[00:08:22.990 --> 00:08:23.150] PICARD: Deaf?
+[00:08:24.350 --> 00:08:25.710] WOMAN: Born, and hope to die.
+[00:08:28.190 --> 00:08:29.470] PICARD: And the three of you speak for him?
+[00:08:30.430 --> 00:08:31.070] CHORUS: Yes.
+[00:08:31.950 --> 00:08:33.150] SCHOLAR: We serve as translators.
+[00:08:33.870 --> 00:08:37.310] SCHOLAR: We convey not only his thoughts, but his emotional intent as well.
+[00:08:38.190 --> 00:08:38.830] SCHOLAR: I am the Scholar.
+[00:08:39.630 --> 00:08:44.430] SCHOLAR: I represent the intellect, and speak in matters of judgement, philosophy, logic.
+[00:08:45.310 --> 00:08:52.350] SCHOLAR: Also, I am the dreamer, the part that longs to see the beauty beyond the truth which is always the first duty of art.
+[00:08:52.350 --> 00:08:54.150] SCHOLAR: I am the poet who
+[00:08:54.150 --> 00:08:54.510] ADONIS: Artists,
+[00:08:55.181 --> 00:08:57.501] ADONIS: they tend to ramble, neglect the moment.
+[00:08:58.621 --> 00:09:05.661] ADONIS: I am passion, the libido. I am the anarchy of lust, the romantic and the lover.
+[00:09:06.941 --> 00:09:10.541] ADONIS: I am also the warrior, the perfect line which never wavers.
+[00:09:11.501 --> 00:09:14.301] WOMAN: I am that which binds all the others together.
+[00:09:15.181 --> 00:09:18.541] WOMAN: I am harmony, wisdom, balance.
+[00:09:19.421 --> 00:09:19.981] PICARD: Remarkable.
+[00:09:20.861 --> 00:09:21.821] PICARD: And so these
+[00:09:21.821 --> 00:09:22.781] SCHOLAR: Speak to me!
+[00:09:23.101 --> 00:09:23.341] PICARD: What?
+[00:09:25.261 --> 00:09:26.941] SCHOLAR: Speak directly to me.
+[00:09:31.741 --> 00:09:35.901] PICARD: The uniqueness of this presentation provoked this inadvertent breach in protocol.
+[00:09:35.981 --> 00:09:37.181] PICARD: No insult was intended.
+[00:09:37.981 --> 00:09:39.581] SCHOLAR: Then none is perceived.
+[00:09:41.021 --> 00:09:44.541] PICARD: I'm curious about how this rare form of communication came about.
+[00:09:45.581 --> 00:09:48.861] WOMAN: The gene for hearing is not present in my planet's ruling line.
+[00:09:49.341 --> 00:09:50.301] SCHOLAR: Not that unusual,
+[00:09:50.301 --> 00:09:59.181] SCHOLAR: indeed it is similar to the House of Hanover of your planet Earth, all who had haemophilia. Or the leaders of Fendaus Five, who were without limbs.
+[00:09:59.741 --> 00:10:03.981] WOMAN: Many of the galaxy's greatest contributors have been similarly special.
+[00:10:04.541 --> 00:10:09.501] SCHOLAR: My Chorus is so attuned, they can hear my thoughts and translate to you.
+[00:10:09.981 --> 00:10:12.541] SCHOLAR: It is a relationship which goes back for centuries.
+[00:10:12.941 --> 00:10:15.741] SCHOLAR: Their ancestors provided the same service to my ancestors.
+[00:10:16.781 --> 00:10:21.021] TROI: Your method of communication is most elegant and quite beautiful.
+[00:10:22.301 --> 00:10:25.181] ADONIS: It takes a fine mind to realise that, Counsellor Troi.
+[00:10:26.126 --> 00:10:29.086] TROI: This part of you doesn't speak very often.
+[00:10:29.406 --> 00:10:30.926] ADONIS: Only when the spirit moves me.
+[00:10:35.006 --> 00:10:35.246] PICARD: Riva,
+[00:10:35.486 --> 00:10:38.126] PICARD: if you are ready, the situation at Solais Five is very critical.
+[00:10:38.126 --> 00:10:38.926] PICARD: We should not delay.
+[00:10:39.566 --> 00:10:39.966] SCHOLAR: Very well.
+[00:10:41.646 --> 00:10:42.766] WORF: With your permission, Captain.
+[00:10:43.006 --> 00:10:43.966] PICARD: Make it so, Mister Worf.
+[00:10:45.086 --> 00:10:46.686] WORF: Enterprise, this is the away team.
+[00:10:46.846 --> 00:10:47.646] WORF: Seven to beam up.
+[00:10:59.566 --> 00:11:03.726] O'BRIEN: Commander Riker. The away team, plus four, is on board.
+[00:11:04.046 --> 00:11:04.606] RIKER: Acknowledged.
+[00:11:05.406 --> 00:11:07.406] RIKER: Ensign, set your course for Solais Five.
+[00:11:08.606 --> 00:11:09.246] WESLEY: Course is set.
+[00:11:09.886 --> 00:11:10.846] RIKER: Velocity, warp eight.
+[00:11:11.406 --> 00:11:11.806] WESLEY: Warp eight,
+[00:11:11.806 --> 00:11:12.046] WESLEY: aye.
+[00:11:12.286 --> 00:11:12.846] RIKER: Engage, Ensign.
+[00:11:13.326 --> 00:11:13.646] WESLEY: Yes, sir.
+[00:11:31.006 --> 00:11:33.246] RIKER: What is this?
+[00:11:34.046 --> 00:11:34.686] PICARD: Riva id deaf.
+[00:11:35.406 --> 00:11:36.606] PICARD: These three speak for him.
+[00:11:37.406 --> 00:11:38.926] PICARD: Treat them as interpreters.
+[00:11:39.166 --> 00:11:40.606] PICARD: Address yourselves directly to Riva.
+[00:11:49.806 --> 00:11:53.886] PICARD: Now, may I present my First Officer.
+[00:11:53.886 --> 00:11:53.886] SCHOLAR: First,
+[00:11:54.471 --> 00:11:59.431] SCHOLAR: Captain, may I say it is an honour to be on board such a fine vessel.
+[00:12:01.671 --> 00:12:04.711] SCHOLAR: Now, please, continue with the introductions.
+[00:12:06.071 --> 00:12:07.671] PICARD: This is my First Officer, Commander Riker.
+[00:12:10.391 --> 00:12:11.831] SCHOLAR: It is an honour to meet you.
+[00:12:14.071 --> 00:12:15.271] PICARD: Lieutenant Commander Data.
+[00:12:17.431 --> 00:12:19.031] SCHOLAR: It is a pleasure to meet such a
+[00:12:21.671 --> 00:12:22.951] SCHOLAR: unique individual.
+[00:12:23.991 --> 00:12:25.143] DATA: Thank you.
+[00:12:25.143 --> 00:12:26.871] PICARD: Lieutenant La Forge.
+[00:12:28.311 --> 00:12:30.071] LAFORGE: It is my pleasure to meet you, sir.
+[00:12:31.831 --> 00:12:32.791] WOMAN: What is that you're wearing?
+[00:12:33.671 --> 00:12:34.071] LAFORGE: A visor.
+[00:12:34.791 --> 00:12:38.231] LAFORGE: It interprets the electromagnetic spectrum and then carries the readings to my brain.
+[00:12:39.191 --> 00:12:40.631] WOMAN: And without it, can you see?
+[00:12:41.991 --> 00:12:43.511] LAFORGE: Without it I'm as blind as a stump.
+[00:12:45.271 --> 00:12:52.791] WOMAN: Then your visor serves the same function as my Chorus, which interprets my thoughts and translates them into sound?
+[00:12:54.391 --> 00:12:54.791] LAFORGE: Yes.
+[00:12:55.351 --> 00:12:57.191] SCHOLAR: And you don't resent it?
+[00:12:57.191 --> 00:12:59.031] LAFORGE: The visor or being blind?
+[00:12:59.351 --> 00:12:59.671] SCHOLAR: Either.
+[00:13:00.711 --> 00:13:06.071] LAFORGE: No, since they're both part of me, and I really like who I am, there's no reason for me to resent either one.
+[00:13:07.511 --> 00:13:08.791] SCHOLAR: What is your position on the ship?
+[00:13:09.751 --> 00:13:11.111] LAFORGE: I'm the Chief Engineer, sir.
+[00:13:12.311 --> 00:13:17.191] WOMAN: It's a blessing to understand we are special, each in his own way.
+[00:13:17.831 --> 00:13:21.031] LAFORGE: Yes. Yes, that's the way I feel exactly.
+[00:13:24.151 --> 00:13:25.991] PICARD: I offer the hospitality of my vessel.
+[00:13:26.692 --> 00:13:29.732] PICARD: And at your convenience, there is a briefing on the Solari wars.
+[00:13:30.692 --> 00:13:32.612] PICARD: If you wish, I'll have you conducted to your quarters.
+[00:13:33.012 --> 00:13:33.412] WOMAN: Thank you.
+[00:13:34.212 --> 00:13:40.052] ADONIS: Perhaps, if it is not inconvenient, Counsellor Troi could escort me. With your permission.
+[00:13:49.172 --> 00:13:49.572] TROI: This way.
+[00:13:55.652 --> 00:13:56.212] RIKER: What about you?
+[00:13:57.252 --> 00:14:00.052] WOMAN: At times like this, we become an encumbrance.
+[00:14:00.212 --> 00:14:03.292] SCHOLAR: So, if you have rooms for us?
+[00:14:03.292 --> 00:14:05.492] PICARD: Lieutenant Worf will escort you.
+[00:14:11.492 --> 00:14:12.772] RIKER: Riva's not what I expected.
+[00:14:22.772 --> 00:14:24.292] ADONIS: Much of what we do is similar.
+[00:14:24.932 --> 00:14:26.532] TROI: Yes, I suppose in a way it is.
+[00:14:27.172 --> 00:14:32.292] ADONIS: We have both learned how to allow people to examine feelings hidden deep within their psyche.
+[00:14:33.732 --> 00:14:38.372] ADONIS: In fact, with you here now is provoking an emotional revelation.
+[00:14:42.292 --> 00:14:45.092] TROI: You mean some emotion buried in your psyche?
+[00:14:47.092 --> 00:14:48.052] ADONIS: Well, not that deep.
+[00:14:51.092 --> 00:14:51.652] TROI: Exactly
+[00:14:51.652 --> 00:14:52.532] TROI: what are you feeling?
+[00:14:53.860 --> 00:14:54.500] ADONIS: Can't you tell?
+[00:14:55.860 --> 00:14:56.420] TROI: Some of it.
+[00:14:58.020 --> 00:15:08.340] ADONIS: Well I feel that soon, perhaps after the briefing by your Captain, that you will be hungry, and that perhaps we could dine together and compare experiences.
+[00:15:09.540 --> 00:15:10.100] TROI: I'd like that.
+[00:15:11.220 --> 00:15:11.780] ADONIS: As will I.
+[00:15:13.460 --> 00:15:14.420] TROI: Will he be with us?
+[00:15:15.700 --> 00:15:18.180] ADONIS: Well, until we find our own method of communication.
+[00:15:20.100 --> 00:15:21.300] TROI: I look forward to that time.
+[00:15:22.420 --> 00:15:23.220] ADONIS: As do I.
+[00:15:33.940 --> 00:15:35.380] PICARD: I'm sorry, Data. Begin the briefing.
+[00:15:36.340 --> 00:15:38.900] DATA: The factions on Solais Five are historical enemies.
+[00:15:39.460 --> 00:15:40.340] DATA: So many have died
+[00:15:40.580 --> 00:15:42.580] DATA: that both societies are on the verge of extinction.
+[00:15:43.460 --> 00:15:43.860] SCHOLAR: Enough.
+[00:15:44.660 --> 00:15:45.300] SCHOLAR: Thank you, Captain,
+[00:15:45.300 --> 00:15:46.580] SCHOLAR: there is no need to continue.
+[00:15:47.300 --> 00:15:49.540] SCHOLAR: The specific issues of the conflict have no relevance.
+[00:15:50.660 --> 00:15:55.940] RIKER: So none of the background which we have provided would be helpful in understanding why they continue to fight?
+[00:15:56.660 --> 00:16:02.420] SCHOLAR: The portfolio will indicate that the conflict is over a piece of land, or wealth, or some other tangible asset.
+[00:16:03.540 --> 00:16:05.860] SCHOLAR: But we both know that is not the case.
+[00:16:07.220 --> 00:16:10.180] RIKER: They've been at war for so long, it has become personal.
+[00:16:11.060 --> 00:16:11.620] SCHOLAR: Exactly.
+[00:16:12.740 --> 00:16:15.540] SCHOLAR: The basis for peace must also be personal.
+[00:16:17.300 --> 00:16:20.020] SCHOLAR: This is an historic confrontation,
+[00:16:20.100 --> 00:16:20.500] SCHOLAR: correct?
+[00:16:21.860 --> 00:16:24.180] DATA: The factions have been at war for fifteen centuries.
+[00:16:26.193 --> 00:16:27.713] SCHOLAR: What's changed?
+[00:16:29.713 --> 00:16:30.993] DATA: I do not know what you mean.
+[00:16:31.713 --> 00:16:33.793] SCHOLAR: They have been killing each other for a long time,
+[00:16:33.793 --> 00:16:35.153] SCHOLAR: now they want to talk peace.
+[00:16:35.153 --> 00:16:38.433] SCHOLAR: So something about this situation has recently changed.
+[00:16:39.553 --> 00:16:41.793] SCHOLAR: What's the new piece to the puzzle?
+[00:16:43.393 --> 00:16:43.633] PICARD: Data?
+[00:16:45.313 --> 00:16:45.873] DATA: Unknown, sir.
+[00:16:47.233 --> 00:16:48.833] RIKER: Perhaps they have run out of people to kill.
+[00:16:50.113 --> 00:16:54.433] RIKER: In any case, whatever the reason, peace is now preferred, which should make your job easier.
+[00:16:55.393 --> 00:16:57.873] SCHOLAR: Well, if not easier, at least possible,
+[00:16:58.193 --> 00:16:59.633] SCHOLAR: for now they are motivated.
+[00:17:00.593 --> 00:17:02.033] SCHOLAR: But it doesn't matter.
+[00:17:02.033 --> 00:17:03.153] SCHOLAR: I'll find something.
+[00:17:03.553 --> 00:17:04.433] SCHOLAR: I always have.
+[00:17:05.073 --> 00:17:05.553] PICARD: Always?
+[00:17:05.633 --> 00:17:08.353] SCHOLAR: To date, I have never failed.
+[00:17:09.313 --> 00:17:10.913] SCHOLAR: Now, unless there is something else?
+[00:17:13.713 --> 00:17:15.873] PICARD: No. This is for your benefit.
+[00:17:17.313 --> 00:17:19.873] WOMAN: Then, thank you for your time and effort.
+[00:17:20.433 --> 00:17:22.513] ADONIS: I believe I have to get ready for a dinner appointment.
+[00:17:26.033 --> 00:17:27.233] WOMAN: If you will excuse me.
+[00:17:30.753 --> 00:17:31.393] PICARD: Yes, of course.
+[00:17:31.473 --> 00:17:31.873] PICARD: The
+[00:17:35.473 --> 00:17:36.353] PICARD: meeting is adjourned.
+[00:17:38.913 --> 00:17:40.593] RIKER: Our mediator is very self assured.
+[00:17:42.993 --> 00:17:44.273] RIKER: We'll know soon enough if he can deliver.
+[00:17:49.233 --> 00:17:52.593] WESLEY: We're approaching Solais Five.
+[00:17:53.953 --> 00:17:54.593] RIKER: Half impulse.
+[00:17:55.660 --> 00:17:57.100] WESLEY: Slowing to one half impulse.
+[00:18:06.300 --> 00:18:09.100] ADONIS: The sound of this ship is quite remarkable.
+[00:18:11.340 --> 00:18:12.060] ADONIS: Can't you feel it?
+[00:18:15.260 --> 00:18:15.500] TROI: Yes.
+[00:18:16.220 --> 00:18:18.860] ADONIS: It moves through my body like a great pulse.
+[00:18:20.460 --> 00:18:21.420] TROI: I've grown so accustomed to it,
+[00:18:21.420 --> 00:18:22.220] TROI: I forget it's there.
+[00:18:23.260 --> 00:18:24.700] ADONIS: It's easy to let that happen.
+[00:18:25.020 --> 00:18:34.860] ADONIS: Sometimes we must allow the surroundings to flow over us, to dwell on each separate part, how it feels, to allow it to fill you.
+[00:18:45.500 --> 00:18:46.860] TROI: How do we communicate?
+[00:18:47.420 --> 00:18:50.940] TROI: I know you can read lips, but I need your words.
+[00:18:53.980 --> 00:18:54.380] TROI: Words
+[00:18:57.340 --> 00:18:59.500] TROI: are here on top.
+[00:19:02.860 --> 00:19:04.220] TROI: What's under them,
+[00:19:07.100 --> 00:19:07.260] TROI: their
+[00:19:10.700 --> 00:19:11.100] TROI: meaning,
+[00:19:13.780 --> 00:19:15.780] TROI: is
+[00:19:18.460 --> 00:19:20.460] TROI: what's important.
+[00:19:21.980 --> 00:19:22.780] TROI: Yes, that's true.
+[00:19:27.204 --> 00:19:27.924] TROI: We both know
+[00:19:35.044 --> 00:19:36.404] TROI: how to express important
+[00:19:38.164 --> 00:19:39.844] TROI: words, like
+[00:19:42.404 --> 00:19:44.404] TROI: dream.
+[00:19:50.884 --> 00:19:51.684] TROI: Being here with you.
+[00:19:53.284 --> 00:19:53.444] TROI: Yes,
+[00:19:55.204 --> 00:19:57.524] TROI: being here with you know is very special to me, too.
+[00:20:08.724 --> 00:20:09.364] RIKER: Standard orbit.
+[00:20:11.684 --> 00:20:12.004] WORF: Captain,
+[00:20:12.324 --> 00:20:14.324] WORF: I'm reading laser activity on the Solais Five.
+[00:20:15.284 --> 00:20:16.404] RIKER: How concentrated is the activity?
+[00:20:17.124 --> 00:20:19.844] WORF: It is localised, but very intense.
+[00:20:20.644 --> 00:20:21.764] RIKER: So much for the cease fire.
+[00:20:22.884 --> 00:20:23.684] PICARD: Hailing frequencies.
+[00:20:25.684 --> 00:20:27.124] WORF: I'm receiving one side only.
+[00:20:28.324 --> 00:20:33.924] PICARD: This is Captain Jean Luc Picard, commander of the Federation starship USS Enterprise.
+[00:20:34.004 --> 00:20:39.524] PICARD: If you continue to violate the cease fire, I will abort this mission.
+[00:20:40.404 --> 00:20:42.964] ALIEN 1: You have no jurisdiction here, Picard.
+[00:20:43.924 --> 00:20:44.964] ALIEN 1: Where is Riva?
+[00:20:45.924 --> 00:20:47.524] PICARD: Riva is in charge of the summit.
+[00:20:48.004 --> 00:20:49.764] PICARD: I command the ship that brings him.
+[00:20:49.844 --> 00:20:52.804] PICARD: I will not endanger this ship under any circumstances.
+[00:20:53.044 --> 00:20:54.644] WORF: The other faction is breaking through, sir.
+[00:20:56.009 --> 00:20:58.409] ALIEN 2: Riva gave his word we would speak to no one else.
+[00:20:59.289 --> 00:21:00.489] ALIEN 2: Now who breaks the rules?
+[00:21:01.529 --> 00:21:02.409] ALIEN 2: Where is Riva?
+[00:21:03.689 --> 00:21:04.409] PICARD: I shall summon him for you.
+[00:21:06.409 --> 00:21:06.889] PICARD: Get Riva here.
+[00:21:09.449 --> 00:21:12.009] RIKER: Counsellor Troi, please have Riva report to the Bridge.
+[00:21:14.089 --> 00:21:15.849] TROI: They need you on the Bridge, now.
+[00:21:29.849 --> 00:21:32.969] PICARD: The cease fire has been broken.
+[00:21:33.689 --> 00:21:35.049] SCHOLAR: I'm sure I can resolve that.
+[00:21:36.089 --> 00:21:36.969] SCHOLAR: Put them on the viewscreen.
+[00:21:37.529 --> 00:21:38.009] PICARD: Viewer on.
+[00:21:43.689 --> 00:21:45.609] WORF: The quality of the transmission is very poor.
+[00:21:46.729 --> 00:21:47.529] SCHOLAR: It is sufficient.
+[00:21:56.409 --> 00:21:58.969] ADONIS: Brothers. Your bravery as fighters is known.
+[00:21:59.609 --> 00:22:02.009] ADONIS: Now you must demonstrate courage in a new way.
+[00:22:02.649 --> 00:22:04.009] ADONIS: Cease hostilities.
+[00:22:04.809 --> 00:22:05.769] ADONIS: Allow us to meet.
+[00:22:05.769 --> 00:22:05.849] WORF: The
+[00:22:17.049 --> 00:22:17.849] WORF: laser fire has ceased.
+[00:22:18.249 --> 00:22:18.249] RIKER: For
+[00:22:20.089 --> 00:22:20.649] RIKER: how long?
+[00:22:21.209 --> 00:22:23.849] RIKER: These Solari don't seem likely candidates for peace.
+[00:22:30.515 --> 00:22:35.555] SCHOLAR: I will need to see a topographical overlay of the battle area in order to pick a site for the meetings.
+[00:22:36.835 --> 00:22:40.195] SCHOLAR: Then I will need your help in creating the proper setting.
+[00:22:41.235 --> 00:22:42.995] RIKER: Worf, prepare your security team.
+[00:22:43.395 --> 00:22:43.715] WORF: Yes, sir.
+[00:22:44.915 --> 00:22:46.252] ADONIS: That's not necessary.
+[00:22:46.252 --> 00:22:48.035] RIKER: But it is prudent.
+[00:22:49.235 --> 00:22:51.715] ADONIS: I prefer to arrive with the smallest possible complement.
+[00:22:52.675 --> 00:22:55.315] ADONIS: We do not want to add to an already tense situation.
+[00:22:56.435 --> 00:22:57.875] PICARD: If that is your judgement, so be it.
+[00:22:58.835 --> 00:23:00.835] PICARD: We are here to provide whatever service you require.
+[00:23:01.875 --> 00:23:02.515] ADONIS: Thank you, Captain.
+[00:23:11.155 --> 00:23:11.555] SCHOLAR: There.
+[00:23:13.155 --> 00:23:16.355] SCHOLAR: beam us down to that hilltop and inform the factions to join us.
+[00:23:18.035 --> 00:23:20.595] SCHOLAR: The time for killing is come to an end.
+[00:23:42.515 --> 00:23:43.555] RIKER: Phasers on stun, Mister Worf.
+[00:23:44.435 --> 00:23:45.315] SCHOLAR: You won't need those.
+[00:23:45.955 --> 00:23:46.355] RIKER: I'm sure we won't.
+[00:23:47.155 --> 00:23:47.635] RIKER: Energise.
+[00:24:14.555 --> 00:24:15.434] SCHOLAR: Yes, this will do.
+[00:24:18.075 --> 00:24:20.795] SCHOLAR: It is important that we set this up properly. Commander.
+[00:24:23.355 --> 00:24:27.914] SCHOLAR: If it be possible, I would like torches here and here.
+[00:24:29.995 --> 00:24:31.674] RIKER: Engineering. This is the away team.
+[00:24:33.515 --> 00:24:34.234] LAFORGE: Yes, Commander.
+[00:24:34.875 --> 00:24:35.755] RIKER: We are going to need your help.
+[00:24:36.714 --> 00:24:37.515] LAFORGE: I thought you might.
+[00:24:38.234 --> 00:24:40.075] RIKER: We would like two torches. Head high?
+[00:24:41.835 --> 00:24:42.315] RIKER: And what else?
+[00:24:43.035 --> 00:24:44.634] SCHOLAR: A table here.
+[00:24:45.275 --> 00:24:45.755] RIKER: Describe it.
+[00:24:46.555 --> 00:24:49.835] SCHOLAR: Three sided, and if possible made to resemble indigenous rock.
+[00:24:50.714 --> 00:24:51.434] RIKER: Did you read that, Geordi?
+[00:24:52.075 --> 00:24:52.474] LAFORGE: I did.
+[00:24:52.474 --> 00:24:54.075] LAFORGE: That should be no problem.
+[00:24:55.194 --> 00:24:56.315] RIKER: When will the emissaries arrive?
+[00:24:57.755 --> 00:24:58.555] SCHOLAR: It shouldn't be too long.
+[00:24:59.355 --> 00:25:01.355] RIKER: And how long do you think the negotiations will take?
+[00:25:02.315 --> 00:25:03.434] SCHOLAR: They won't go quickly.
+[00:25:06.795 --> 00:25:07.595] WORF: They're coming, Commander.
+[00:25:08.714 --> 00:25:12.075] SCHOLAR: The first few minutes will be very tense.
+[00:25:12.075 --> 00:25:17.035] SCHOLAR: Please stay calm, and do not respond even if you are provoked.
+[00:25:20.714 --> 00:25:21.355] RIKER: We'll do our best.
+[00:25:21.991 --> 00:25:22.071] ALIEN 1: Who
+[00:25:35.831 --> 00:25:36.631] ALIEN 1: is Riva?
+[00:25:40.311 --> 00:25:41.031] WOMAN: I am Riva.
+[00:25:59.351 --> 00:26:00.071] WOMAN: Be at ease.
+[00:26:01.191 --> 00:26:02.231] WOMAN: I commend you both.
+[00:26:02.231 --> 00:26:06.711] WOMAN: To come here proves not only your courage, but your wisdom.
+[00:26:07.911 --> 00:26:10.231] WOMAN: Please, give this conference a chance.
+[00:26:11.431 --> 00:26:12.871] SCHOLAR: I have no magic.
+[00:26:14.231 --> 00:26:16.471] SCHOLAR: You have been fighting all your lives.
+[00:26:16.471 --> 00:26:17.991] SCHOLAR: You know only
+[00:26:17.991 --> 00:26:19.511] ALIEN 3: No, no, never!
+[00:26:19.911 --> 00:26:21.031] ALIEN 3: Death first!
+[00:26:23.031 --> 00:26:25.031] RIKER: Riva!
+[00:26:26.391 --> 00:26:27.111] ALIEN 2: Don't! Traitor!
+[00:26:30.311 --> 00:26:32.039] ALIEN 2: No, wait. Wait.
+[00:26:32.039 --> 00:26:33.191] RIKER: Away team
+[00:26:33.191 --> 00:26:33.831] RIKER: to Enterprise.
+[00:26:34.151 --> 00:26:35.111] RIKER: Beam us up. Now!
+[00:26:37.031 --> 00:26:38.151] ALIEN 2: His words are not mine.
+[00:26:38.231 --> 00:26:38.391] ALIEN 2: Please,
+[00:26:42.551 --> 00:26:42.951] ALIEN 2: Riva.
+[00:26:43.831 --> 00:26:44.311] ALIEN 2: We need you.
+[00:26:45.111 --> 00:26:45.911] ALIEN 2: We need you!
+[00:27:02.262 --> 00:27:03.222] PICARD: How did this happen?
+[00:27:03.382 --> 00:27:04.342] RIKER: A total surprise.
+[00:27:04.742 --> 00:27:08.102] RIKER: Apparently a member of one of the factions didn't like the idea of peace.
+[00:27:11.142 --> 00:27:12.822] PICARD: I don't understand what you're trying to say. Counsellor?
+[00:27:17.302 --> 00:27:21.062] TROI: Riva, go slowly. Slowly.
+[00:27:24.102 --> 00:27:24.982] PICARD: Can you write it out?
+[00:27:29.142 --> 00:27:31.062] PICARD: I am so sorry that your friends were killed.
+[00:27:36.822 --> 00:27:37.222] PICARD: I'm sorry,
+[00:27:37.302 --> 00:27:39.382] PICARD: I don't know what you are trying to tell me.
+[00:27:41.542 --> 00:27:44.982] PICARD: We have to find some way to communicate with him.
+[00:27:44.982 --> 00:27:46.902] PICARD: Data, he knows some kind of gestural language.
+[00:27:46.902 --> 00:27:48.102] PICARD: Find our which one and learn it.
+[00:27:48.182 --> 00:27:48.502] DATA: Aye, sir.
+[00:27:48.982 --> 00:27:50.022] PICARD: Counsellor, take him to Sickbay.
+[00:27:50.022 --> 00:27:51.062] PICARD: Maybe Pulaski can help.
+[00:27:54.022 --> 00:27:54.582] PICARD: Listen to me.
+[00:27:54.742 --> 00:27:56.342] PICARD: You are not alone.
+[00:27:56.662 --> 00:27:57.542] PICARD: Do you understand?
+[00:27:58.182 --> 00:28:01.302] PICARD: We are all in this together
+[00:28:02.102 --> 00:28:02.502] PICARD: now.
+[00:28:26.925 --> 00:28:28.205] LOG: Captain's log, supplemental.
+[00:28:28.765 --> 00:28:32.205] LOG: We are monitoring increased military activity on Solais Five.
+[00:28:33.165 --> 00:28:38.205] LOG: I fear that without Riva, we will be unable to keep the Solari from destroying themselves.
+[00:28:39.405 --> 00:28:39.805] RIKER: How's it going?
+[00:28:40.685 --> 00:28:43.245] DATA: I have eliminated all but five distinct forms of signing.
+[00:28:43.805 --> 00:28:44.525] DATA: I will learn them all.
+[00:28:45.645 --> 00:28:48.045] DATA: Computer, show me gestural language
+[00:28:48.445 --> 00:28:49.325] DATA: designation M
+[00:28:50.845 --> 00:28:52.845] DATA: nine.
+[00:28:53.485 --> 00:28:54.125] WORF: Interesting.
+[00:28:55.245 --> 00:28:58.125] WORF: A technique of communication which is both silent and covert.
+[00:28:59.245 --> 00:29:00.125] WORF: It could be very useful.
+[00:29:01.565 --> 00:29:05.485] DATA: The use of gestures and hand signals pre dates the spoken word in most cultures.
+[00:29:05.965 --> 00:29:10.285] DATA: The major exception being the Leyrons of Malkus Nine who actually developed a written language first.
+[00:29:11.325 --> 00:29:13.325] DATA: Computer, continue presentation.
+[00:29:13.475 --> 00:29:14.075] DATA: Increase.
+[00:29:16.765 --> 00:29:17.325] DATA: Increase.
+[00:29:17.325 --> 00:29:17.325] DATA: Increase.
+[00:29:20.125 --> 00:29:20.205] DATA: Increase.
+[00:29:20.205 --> 00:29:20.285] PICARD: Come.
+[00:29:31.885 --> 00:29:34.525] PICARD: How's our mediator.
+[00:29:35.405 --> 00:29:35.965] TROI: The same.
+[00:29:36.525 --> 00:29:37.245] TROI: He's withdrawn.
+[00:29:37.405 --> 00:29:38.285] TROI: He's very frightened.
+[00:29:39.245 --> 00:29:43.725] TROI: All of his life he's been in control, and now for the first time he doesn't have any answers.
+[00:29:45.165 --> 00:29:47.725] TROI: The doctor gave him a complete medical examination.
+[00:29:49.005 --> 00:29:50.365] PULASKI: His condition is hereditary.
+[00:29:51.165 --> 00:29:53.565] PULASKI: His brain cannot receive auditory information.
+[00:29:53.980 --> 00:29:57.340] PULASKI: So all the prosthetics and surgical techniques I can use wouldn't work.
+[00:29:59.100 --> 00:30:00.700] TROI: I don't know what we can do to help him.
+[00:30:01.740 --> 00:30:02.620] PULASKI: I can't do anything.
+[00:30:03.820 --> 00:30:06.700] TROI: It's up to him, and he's stopped cooperating.
+[00:30:08.060 --> 00:30:09.340] PICARD: Counsellor, couldn't you?
+[00:30:10.460 --> 00:30:13.020] TROI: Confidence is faith in oneself.
+[00:30:13.100 --> 00:30:14.860] TROI: It can't easily be given by another.
+[00:30:15.740 --> 00:30:15.900] PICARD: You're
+[00:30:18.380 --> 00:30:19.100] PICARD: right, of course.
+[00:30:22.460 --> 00:30:22.860] PICARD: Come.
+[00:30:26.540 --> 00:30:30.460] DATA: Captain, I have reviewed and stored five distinct signing languages.
+[00:30:30.860 --> 00:30:32.220] DATA: Here is an example of the first.
+[00:30:33.580 --> 00:30:34.140] DATA: This is blue.
+[00:30:34.940 --> 00:30:35.900] DATA: This is a blue ocean.
+[00:30:36.460 --> 00:30:38.060] DATA: This is a blue ocean at sunset.
+[00:30:38.620 --> 00:30:41.500] DATA: This is two people walking along the beach by a blue ocean at sunset.
+[00:30:41.980 --> 00:30:45.340] DATA: This is two happy people in love walking along the beach by a blue ocean at sunset.
+[00:30:45.980 --> 00:30:46.300] DATA: This is two people
+[00:30:46.300 --> 00:30:46.380] PICARD: Enough.
+[00:30:46.380 --> 00:30:46.540] PICARD: Let's
+[00:30:54.860 --> 00:30:55.500] PICARD: talk to Riva.
+[00:30:59.340 --> 00:30:59.660] PICARD: Riva,
+[00:31:01.580 --> 00:31:04.380] PICARD: Commander Data has learned your sign language.
+[00:31:04.940 --> 00:31:05.420] PICARD: Talk to us.
+[00:31:07.500 --> 00:31:10.300] DATA: It was my fault.
+[00:31:11.980 --> 00:31:13.820] DATA: I am responsible for their deaths.
+[00:31:15.100 --> 00:31:18.460] DATA: In my arrogance I thought no one could possibly harm the great Riva.
+[00:31:21.660 --> 00:31:22.460] DATA: I am such a fool.
+[00:31:23.500 --> 00:31:24.620] PICARD: You are not to blame.
+[00:31:25.267 --> 00:31:28.947] PICARD: What happened appears to have been the work of one desperate man.
+[00:31:28.947 --> 00:31:31.427] PICARD: It may not reflect the feelings of the others.
+[00:31:36.067 --> 00:31:37.667] DATA: They were more than my interpreters.
+[00:31:39.107 --> 00:31:40.307] DATA: They were also my friends.
+[00:31:41.907 --> 00:31:42.707] DATA: They were a part of me.
+[00:31:44.067 --> 00:31:45.587] DATA: I did not realise how much a part
+[00:31:47.427 --> 00:31:47.907] DATA: until now.
+[00:31:50.867 --> 00:31:53.987] PICARD: We have been contacted by the factions on Solais.
+[00:31:54.867 --> 00:31:56.547] PICARD: They want to renew negotiations.
+[00:31:57.987 --> 00:31:58.547] DATA: I cannot.
+[00:31:58.947 --> 00:31:59.507] DATA: I will not.
+[00:32:02.787 --> 00:32:03.507] TROI: Don't turn away.
+[00:32:04.627 --> 00:32:07.107] TROI: You have a chance to make some good come out of this tragedy.
+[00:32:07.747 --> 00:32:10.067] TROI: This could be the catalyst which binds them together.
+[00:32:11.827 --> 00:32:13.347] DATA: Someone else will have to speak with them,
+[00:32:13.507 --> 00:32:13.987] DATA: not me.
+[00:32:14.867 --> 00:32:16.627] DATA: Not after what I allowed to happen/
+[00:32:17.587 --> 00:32:18.067] DATA: How could I?
+[00:32:18.707 --> 00:32:19.907] PICARD: But Data can understand you.
+[00:32:19.907 --> 00:32:20.707] PICARD: Use him.
+[00:32:20.707 --> 00:32:22.227] PICARD: Let him explain your words.
+[00:32:24.147 --> 00:32:28.867] DATA: When Data speaks for me, can you hear my anguish, my despair?
+[00:32:30.547 --> 00:32:34.467] DATA: Data is a fine machine, but he cannot take the place of my chorus.
+[00:32:35.427 --> 00:32:40.787] DATA: It took years to develop a communication. That cannot be easily replaced.
+[00:32:43.107 --> 00:32:44.387] TROI: The Solari need you.
+[00:32:45.427 --> 00:32:48.387] DATA: I cannot help them. Captain,
+[00:32:49.027 --> 00:32:50.627] DATA: please take me back to Ramatis.
+[00:32:53.284 --> 00:32:54.564] PICARD: That is regrettable.
+[00:32:54.564 --> 00:32:57.204] PICARD: A lot more people are going to die.
+[00:33:04.724 --> 00:33:08.324] PULASKI: It's possible to install optical devices which look like normal eyes,
+[00:33:10.084 --> 00:33:14.964] PULASKI: and would still give you about the same visual range as the
+[00:33:17.044 --> 00:33:17.204] PULASKI: visor.
+[00:33:17.204 --> 00:33:17.364] LAFORGE: Done?
+[00:33:18.964 --> 00:33:19.924] LAFORGE: You say almost.
+[00:33:22.324 --> 00:33:23.124] LAFORGE: How much reduction?
+[00:33:23.764 --> 00:33:24.404] PULASKI: Twenty percent.
+[00:33:28.884 --> 00:33:30.004] PULASKI: There is another option.
+[00:33:32.004 --> 00:33:39.524] PULASKI: I can attempt to regenerate your optic nerve, and, with the help of the replicator, fashion normal eyes.
+[00:33:39.524 --> 00:33:40.724] PULASKI: You would see like everyone else.
+[00:33:40.964 --> 00:33:41.284] LAFORGE: Wait a minute.
+[00:33:41.284 --> 00:33:42.404] LAFORGE: I was told that was impossible.
+[00:33:43.684 --> 00:33:47.604] PULASKI: I've done it twice, in situations somewhat similar to yours.
+[00:33:57.444 --> 00:33:57.924] PULASKI: Geordi,
+[00:33:59.044 --> 00:34:01.924] PULASKI: it would eliminate the constant pain you are under.
+[00:34:03.524 --> 00:34:04.484] PULASKI: Why are you hesitating?
+[00:34:05.844 --> 00:34:12.804] LAFORGE: Well, when I came to see you, it was to talk about modifying this. And now you're saying it could be possible for me to have normal vision?
+[00:34:13.764 --> 00:34:14.084] PULASKI: Yes.
+[00:34:15.124 --> 00:34:15.204] LAFORGE: I
+[00:34:17.204 --> 00:34:17.524] LAFORGE: don't know.
+[00:34:19.044 --> 00:34:19.844] LAFORGE: I'd be giving up a lot.
+[00:34:21.284 --> 00:34:22.564] PULASKI: There's something else you must know.
+[00:34:24.084 --> 00:34:24.804] PULASKI: This is a one shot.
+[00:34:25.671 --> 00:34:29.751] PULASKI: If you decide to change your mind, there's no going back. And there are risks.
+[00:34:31.271 --> 00:34:33.591] PULASKI: I can offer choices, not guarantees.
+[00:34:37.511 --> 00:34:37.831] LAFORGE: Well,
+[00:34:39.431 --> 00:34:42.231] LAFORGE: this is a lot to think about.
+[00:34:43.511 --> 00:34:46.391] LAFORGE: I'll get back to you, Doctor.
+[00:34:47.271 --> 00:34:47.511] LAFORGE: Thank you.
+[00:34:47.661 --> 00:34:48.261] TROI: The
+[00:35:12.551 --> 00:35:14.471] TROI: Captain is going to take you to Ramatis.
+[00:35:16.631 --> 00:35:21.271] TROI: But first, he's given me permission to attempt to settle the conflict down on Solais.
+[00:35:22.631 --> 00:35:26.551] TROI: Yes. We've come so far, and paid such a terrible price,
+[00:35:26.631 --> 00:35:27.351] TROI: I must try.
+[00:35:29.031 --> 00:35:29.351] TROI: Help me.
+[00:35:30.951 --> 00:35:33.431] DATA: You would be better off without my help.
+[00:35:34.631 --> 00:35:36.871] TROI: I have never attempted anything like this before.
+[00:35:38.071 --> 00:35:44.871] TROI: When dealing with two factions so diametrically opposed, so entrenched in their positions, where do you start?
+[00:35:46.791 --> 00:35:50.231] DATA: You want to know if I had some special technique?
+[00:35:51.111 --> 00:35:53.191] TROI: I want to know anything you can tell me that could help.
+[00:35:54.951 --> 00:35:56.951] DATA: There is no trick.
+[00:35:57.431 --> 00:35:58.391] DATA: I had no magic.
+[00:35:59.102 --> 00:36:00.062] TROI: What about your Chorus?
+[00:36:03.742 --> 00:36:06.142] DATA: Yes, my Chorus was special.
+[00:36:07.982 --> 00:36:11.022] DATA: They allowed me to combine different perceptions.
+[00:36:12.142 --> 00:36:13.262] TROI: So there was a trick.
+[00:36:15.742 --> 00:36:16.382] DATA: Not really.
+[00:36:17.502 --> 00:36:31.582] DATA: My technique was to look for some thing, no matter how small, that was common to both groups, and then to begin a process where one person or one group expresses themselves to each other.
+[00:36:32.382 --> 00:36:34.142] TROI: That's very hard to accomplish.
+[00:36:34.782 --> 00:36:39.182] DATA: Yes, but what is even more difficult is to get each side to listen,
+[00:36:41.102 --> 00:36:43.582] DATA: really listen to each other,
+[00:36:45.342 --> 00:36:46.302] DATA: and to understand.
+[00:36:49.262 --> 00:36:51.502] TROI: This isn't going to be easy for me.
+[00:36:57.422 --> 00:36:58.782] DATA: You are very good with people.
+[00:36:59.902 --> 00:37:01.822] TROI: But what I do is different.
+[00:37:09.182 --> 00:37:14.302] DATA: The real secret is turning disadvantage to advantage.
+[00:37:16.542 --> 00:37:17.662] TROI: Why can't you do that?
+[00:37:20.942 --> 00:37:23.982] TROI: Why can't you turn your disadvantage into an advantage?
+[00:37:34.667 --> 00:37:35.387] DATA: That is an interesting.
+[00:37:37.067 --> 00:37:38.507] DATA: It would give them something in common.
+[00:37:39.787 --> 00:37:41.067] DATA: I do not understand, Counsellor.
+[00:37:41.627 --> 00:37:42.427] DATA: To what is he referring?
+[00:37:56.507 --> 00:37:58.587] DATA: Thank you.
+[00:37:59.227 --> 00:37:59.547] DATA: Thank me?
+[00:37:59.947 --> 00:38:00.027] DATA: Ah!
+[00:38:04.987 --> 00:38:09.867] PICARD: I will have the Captain contact then down on the planet and tell them to prepare for your return.
+[00:38:26.587 --> 00:38:28.267] WORF: There are no life signs in the immediate area.
+[00:38:28.987 --> 00:38:29.867] RIKER: All right, stay sharp.
+[00:38:30.027 --> 00:38:30.587] RIKER: We may have to get out of
+[00:38:32.107 --> 00:38:34.427] RIKER: there in a hurry.
+[00:38:35.227 --> 00:38:36.187] RIKER: Set phasers on stun.
+[00:38:38.987 --> 00:38:39.227] RIKER: Energise.
+[00:39:10.977 --> 00:39:14.017] WORF: The area is clear, Commander.
+[00:39:15.057 --> 00:39:18.257] DATA: Put the table over there.
+[00:39:18.897 --> 00:39:20.177] RIKER: Engineering, this is Commander Riker.
+[00:39:20.657 --> 00:39:21.217] LAFORGE: Go ahead, sir.
+[00:39:21.537 --> 00:39:23.297] RIKER: You can beam the table and torches down now.
+[00:39:35.457 --> 00:39:38.017] DATA: Light the torches to let them know that I am back.
+[00:39:45.057 --> 00:39:47.137] RIKER: It may be quite a while before the emissaries arrive.
+[00:39:47.937 --> 00:39:49.777] RIKER: They'll be more cautious after the last incident.
+[00:39:53.457 --> 00:39:54.817] DATA: You may leave whenever you choose.
+[00:39:55.537 --> 00:39:57.617] DATA: I will send out a message when I am ready to go.
+[00:39:58.897 --> 00:40:00.497] RIKER: Deanna, I don't understand what he's going to do.
+[00:40:00.817 --> 00:40:02.417] RIKER: How can he mediate without his interpreters?
+[00:40:02.417 --> 00:40:03.537] RIKER: He won't even be able to talk to them.
+[00:40:04.737 --> 00:40:06.737] TROI: Riva is going to teach them sign language.
+[00:40:07.617 --> 00:40:07.937] DATA: Yes,
+[00:40:09.057 --> 00:40:11.617] DATA: it is turning a disadvantage into an advantage.
+[00:40:12.577 --> 00:40:13.297] DATA: Learning sign
+[00:40:14.977 --> 00:40:16.337] DATA: will be a part of their process
+[00:40:16.762 --> 00:40:18.442] DATA: of learning how to live together in peace.
+[00:40:19.402 --> 00:40:24.362] TROI: While they are learning how to communicate with Riva, they'll be learning how to communicate with each other.
+[00:40:26.042 --> 00:40:31.482] DATA: And that is the first and most important aspect of any relationship. Counsellor,
+[00:40:32.202 --> 00:40:34.122] DATA: it took me only moments to learn sign language.
+[00:40:34.842 --> 00:40:35.882] DATA: It will take them months.
+[00:40:36.842 --> 00:40:37.722] TROI: Time well spent.
+[00:40:40.442 --> 00:40:42.762] DATA: These people have been fighting all of their lives.
+[00:40:43.322 --> 00:40:45.722] DATA: They know only hatred, suspicion, and fear.
+[00:40:47.082 --> 00:40:50.442] DATA: Even with my Chorus, I could not have changed their attitudes in a day.
+[00:40:52.602 --> 00:40:53.402] DATA: We have a chance.
+[00:40:55.482 --> 00:40:57.242] DATA: They want the talks to be successful.
+[00:40:58.922 --> 00:41:01.162] RIKER: I'm still not comfortable leaving you here alone.
+[00:41:03.562 --> 00:41:04.522] DATA: Thank you for your concern.
+[00:41:05.162 --> 00:41:05.802] DATA: I will be fine.
+[00:41:10.442 --> 00:41:12.842] DATA: And thank you, for everything.
+[00:41:24.442 --> 00:41:24.442] RIKER: Enterprise,
+[00:41:25.082 --> 00:41:25.642] RIKER: four to beam up.
+[00:41:27.002 --> 00:41:27.322] RIKER: Good luck.
+[00:41:45.921 --> 00:41:49.521] LOG: First Officer's log, Stardate 42479.3.
+[00:41:50.401 --> 00:41:55.121] LOG: We leave the Solais system confident that Riva will help the Solari achieve a lasting peace.
+[00:41:56.961 --> 00:41:58.001] WESLEY: Coordinates set, Commander.
+[00:41:58.721 --> 00:41:59.441] RIKER: Take us out of orbit.
+[00:42:05.201 --> 00:42:05.521] PICARD: Come.
+[00:42:09.601 --> 00:42:10.641] TROI: You wanted to see me?
+[00:42:11.361 --> 00:42:11.761] PICARD: Yes.
+[00:42:15.201 --> 00:42:19.041] PICARD: You read me well enough to sense how I feel about you
+[00:42:20.641 --> 00:42:21.601] PICARD: and what you do on this ship.
+[00:42:22.961 --> 00:42:24.401] PICARD: But I just wanted to say the words.
+[00:42:25.841 --> 00:42:26.241] PICARD: Thank you.
+[00:42:28.001 --> 00:42:28.401] PICARD: Well done.

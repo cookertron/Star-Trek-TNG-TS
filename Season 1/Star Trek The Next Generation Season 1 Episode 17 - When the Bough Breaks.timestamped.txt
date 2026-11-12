@@ -1,0 +1,746 @@
+[00:00:04.960 --> 00:00:06.720] PICARD: Commander Riker, report to the Bridge.
+[00:00:07.040 --> 00:00:07.360] RIKER: On the way.
+[00:00:09.120 --> 00:00:10.560] BERNARD: Harry! Harry, come back here!
+[00:00:12.560 --> 00:00:15.280] RIKER: What's your hurry, Harry?
+[00:00:16.480 --> 00:00:18.160] HARRY: Sorry, Commander.
+[00:00:18.560 --> 00:00:19.040] HARRY: I was just
+[00:00:19.520 --> 00:00:19.920] BERNARD: Harry!
+[00:00:22.960 --> 00:00:24.240] BERNARD: I'm sorry if he bothered you.
+[00:00:24.480 --> 00:00:25.520] RIKER: No bother, Doctor Bernard.
+[00:00:26.400 --> 00:00:26.960] HARRY: I'm not going
+[00:00:28.480 --> 00:00:28.480] HARRY: back.
+[00:00:29.200 --> 00:00:30.080] HARRY: I hate that teacher and
+[00:00:30.080 --> 00:00:30.960] HARRY: I hate calculus.
+[00:00:30.960 --> 00:00:34.400] BERNARD: Everyone needs an understanding of basic calculus, whether they like it or not.
+[00:00:34.560 --> 00:00:34.640] HARRY: Why?
+[00:00:51.840 --> 00:00:52.560] CRUSHER: You're limping.
+[00:00:53.280 --> 00:00:55.360] RIKER: Had a small run-in with an aspiring sprinter.
+[00:00:55.520 --> 00:00:55.840] PICARD: Number One.
+[00:00:56.160 --> 00:00:56.720] RIKER: Problem, Captain?
+[00:00:57.360 --> 00:00:58.240] PICARD: No, more a curiosity.
+[00:00:58.400 --> 00:01:05.120] PICARD: For the past few hours we've been tracking faint energy readings in an attempt to locate the source. It's like following a trail of bread crumbs.
+[00:01:05.120 --> 00:01:06.880] PICARD: The pathfinder lead here and stopped,
+[00:01:08.240 --> 00:01:09.600] PICARD: which is what I knew would interest you.
+[00:01:11.200 --> 00:01:12.080] RIKER: What's our position, Geordi?
+[00:01:12.480 --> 00:01:14.400] LAFORGE: The Epsilon Mynos system, sir.
+[00:01:15.760 --> 00:01:16.320] RIKER: Thank you, Captain,
+[00:01:16.320 --> 00:01:16.640] RIKER: you're right.
+[00:01:16.640 --> 00:01:17.840] RIKER: I wouldn't miss this for anything.
+[00:01:18.480 --> 00:01:20.160] TASHA: What's so interesting about this system?
+[00:01:21.040 --> 00:01:21.920] RIKER: Aldea.
+[00:01:24.080 --> 00:01:28.560] RIKER: Tasha, I'm surprised you haven't heard the stories about Aldea, the wondrous mythical world.
+[00:01:29.115 --> 00:01:43.515] RIKER: Like Atlantis of ancient Earth or Neinman of Xerxes Seven. Advanced culture, centuries old. Self-contained, peaceful. Incredible technical sophistication providing the daily needs for all the citizens, so that they could turn themselves over to art and culture.
+[00:01:44.075 --> 00:01:45.115] TASHA: Where is it supposed to be?
+[00:01:45.355 --> 00:01:45.915] RIKER: That's the myth.
+[00:01:46.235 --> 00:01:56.795] RIKER: Somehow, as the legend goes, the Aldeans were able to cloak their planet in darkness and go unseen by marauders, and other hostile passers-by who might rob and plunder.
+[00:01:58.475 --> 00:01:59.915] TASHA: What a wonderful fairy tale.
+[00:02:00.555 --> 00:02:01.995] DATA: Scanners still show nothing, sir.
+[00:02:02.715 --> 00:02:07.835] TROI: Scanners may show nothing, sir, but I'm sensing something very strong. Thousands of minds.
+[00:02:08.635 --> 00:02:08.955] PICARD: From where?
+[00:02:11.035 --> 00:02:11.595] TROI: Very close.
+[00:02:18.875 --> 00:02:20.955] PICARD: All stop, and hold this position.
+[00:02:22.075 --> 00:02:22.555] LAFORGE: Aye, sir.
+[00:02:23.675 --> 00:02:26.075] LAFORGE: All stop, and hold.
+[00:02:28.555 --> 00:02:29.555] PICARD: Anything?
+[00:02:29.555 --> 00:02:30.555] WORF: Captain,
+[00:02:31.035 --> 00:02:33.995] WORF: I'm recording a distortion in quadrant one, mark nine zero.
+[00:02:35.355 --> 00:02:35.835] PICARD: On screen.
+[00:02:39.515 --> 00:02:40.395] PICARD: Shields and deflectors up.
+[00:02:40.795 --> 00:02:41.035] TASHA: Aye, sir.
+[00:02:41.115 --> 00:02:41.275] RIKER: It's Aldea, Captain.
+[00:03:02.823 --> 00:03:03.703] RIKER: It has to be.
+[00:03:23.703 --> 00:03:26.423] PICARD: space, the final frontier.
+[00:03:28.263 --> 00:03:31.143] PICARD: These are the voyages of the starship Enterprise.
+[00:03:32.263 --> 00:03:45.143] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:53.000 --> 00:04:01.000] [music]
+[00:04:03.000 --> 00:04:14.000] [music]
+[00:04:15.000 --> 00:04:26.000] [music]
+[00:04:46.563 --> 00:04:49.523] LOG: Captain's log, stardate 41509.1.
+[00:04:50.323 --> 00:04:59.043] LOG: Either by chance or intent, we've been led to the planet Aldea, which appeared out of nowhere, hidden behind a sophisticated shielding device.
+[00:04:59.363 --> 00:05:05.891] DATA: Sensors indicate that the shield is electromagnetic, a complicated light refracting mechanism.
+[00:05:05.891 --> 00:05:07.523] PICARD: A cloaking device?
+[00:05:07.683 --> 00:05:08.140] DATA: Aye, sir.
+[00:05:08.140 --> 00:05:10.883] LAFORGE: It's got to be pretty sophisticated to hide an entire planet .
+[00:05:11.923 --> 00:05:13.043] WORF: We're being scanned, sir.
+[00:05:14.323 --> 00:05:15.683] PICARD: We'll let them know our peaceful intention.
+[00:05:15.683 --> 00:05:17.203] PICARD: Open hailing frequencies, Lieutenant Yar.
+[00:05:17.843 --> 00:05:18.643] TASHA: Frequencies open, sir.
+[00:05:20.883 --> 00:05:21.683] RASHELLA: I am Rashella.
+[00:05:22.323 --> 00:05:22.963] RASHELLA: Welcome to
+[00:05:25.123 --> 00:05:27.123] RASHELLA: Aldea.
+[00:05:27.603 --> 00:05:27.603] PICARD: I
+[00:05:29.523 --> 00:05:33.043] PICARD: am Jean-Luc Picard, Captain of the USS Enterprise.
+[00:05:33.763 --> 00:05:34.563] PICARD: We come in peace.
+[00:05:35.523 --> 00:05:35.843] RASHELLA: We know.
+[00:05:37.043 --> 00:05:38.963] PICARD: We've heard the stories about Aldea, but
+[00:05:40.723 --> 00:05:42.483] PICARD: frankly I never believed they could be true.
+[00:05:43.603 --> 00:05:46.643] RASHELLA: Our shield has confused outsiders for millennia, Captain.
+[00:05:47.923 --> 00:05:50.243] PICARD: That's a very long time to have such technology.
+[00:05:51.603 --> 00:05:53.203] PICARD: Why do you reveal yourselves to us now?
+[00:05:54.083 --> 00:05:58.963] RASHELLA: We're eager to meet in person to discuss that, and other subjects of mutual interest.
+[00:05:59.763 --> 00:06:00.723] PICARD: We're ready anytime.
+[00:06:01.363 --> 00:06:01.843] RASHELLA: Excellent!
+[00:06:07.135 --> 00:06:08.655] RADUE: We mean no harm.
+[00:06:13.295 --> 00:06:15.295] RASHELLA: Our arrival seems to have startled you.
+[00:06:15.935 --> 00:06:16.735] PICARD: It was a little sudden.
+[00:06:17.695 --> 00:06:20.015] RADUE: I'm Radue, First Appointee to Aldea.
+[00:06:20.895 --> 00:06:21.695] PICARD: Welcome aboard.
+[00:06:21.695 --> 00:06:22.095] CRUSHER: Captain,
+[00:06:22.095 --> 00:06:23.695] CRUSHER: they haven't been through decontamination.
+[00:06:24.495 --> 00:06:28.255] PICARD: Our medical doctor is concerned that you didn't go through the regular transporting procedure.
+[00:06:28.975 --> 00:06:30.415] RASHELLA: You couldn't transport us.
+[00:06:30.655 --> 00:06:32.815] RASHELLA: The only way through our shield is our way, Captain.
+[00:06:33.455 --> 00:06:36.255] RASHELLA: Our cloaking device may be off, but our shield is operating.
+[00:06:38.175 --> 00:06:40.625] RASHELLA: We've brought you small tokens of welcome.
+[00:06:40.625 --> 00:06:43.775] RADUE: And a personal invitation to a celebration on Aldea.
+[00:06:44.175 --> 00:06:44.975] PICARD: That would be delightful.
+[00:06:45.775 --> 00:06:47.535] PICARD: Number One, assemble the away team.
+[00:06:48.175 --> 00:06:50.735] RADUE: We will prepare for your arrival, Commander Riker.
+[00:06:53.375 --> 00:06:54.122] RIKER: How do you know
+[00:06:54.122 --> 00:06:54.495] RADUE: Your name?
+[00:06:56.015 --> 00:06:58.415] RADUE: We've been monitoring your ship's communications.
+[00:06:59.535 --> 00:07:01.215] RADUE: We must return now to Aldea.
+[00:07:01.215 --> 00:07:03.455] RADUE: Our eyes are very sensitive to bright light.
+[00:07:03.535 --> 00:07:04.575] RADUE: Rashella.
+[00:07:06.135 --> 00:07:07.695] PICARD: Amazing.
+[00:07:09.255 --> 00:07:10.815] PICARD: To
+[00:07:12.735 --> 00:07:17.615] PICARD: exist only in that dreamworld of mythology and then suddenly to be here, right in front of us.
+[00:07:17.935 --> 00:07:19.615] RIKER: Now we know who placed the bread crumbs.
+[00:07:20.015 --> 00:07:20.975] RIKER: We're not here by accident.
+[00:07:21.775 --> 00:07:22.815] PICARD: Counsellor, do you sense anything?
+[00:07:23.135 --> 00:07:26.415] TROI: They want something from us, something we value greatly.
+[00:07:27.455 --> 00:07:30.255] TROI: So much, that they're afraid we won't part with it.
+[00:07:30.754 --> 00:07:36.674] RADUE: We are ready to receive you, Commander Riker, and two of your colleagues?
+[00:07:40.354 --> 00:07:41.154] PICARD: Interesting choices.
+[00:07:47.074 --> 00:07:50.754] RADUE: I hope Duana and I know how to greet you properly, Commander.
+[00:07:57.234 --> 00:07:58.354] WESLEY: How do they cloak the planet?
+[00:07:58.914 --> 00:07:59.714] DATA: The theory is simple.
+[00:08:00.114 --> 00:08:07.074] DATA: The shield bends light rays around the planet's contour, similar to the Romulan cloaking device. But the implementation is quite difficult.
+[00:08:08.114 --> 00:08:08.607] WORF: Captain!
+[00:08:08.607 --> 00:08:11.074] PICARD: Data, what do you read?
+[00:08:11.074 --> 00:08:12.754] DATA: Some sort of scanning device, sir.
+[00:08:14.114 --> 00:08:14.594] PICARD: Don't touch
+[00:08:15.314 --> 00:08:15.474] PICARD: him!
+[00:08:15.474 --> 00:08:16.434] LAFORGE: This beam is emanating from Aldea.
+[00:08:16.674 --> 00:08:16.994] PICARD: Shields up.
+[00:08:17.314 --> 00:08:18.434] PICARD: La Forge, contact Commander Riker.
+[00:08:18.514 --> 00:08:18.754] PICARD: Worf,
+[00:08:18.754 --> 00:08:19.394] PICARD: check all decks.
+[00:08:19.794 --> 00:08:20.674] TASHA: Shields inoperable, sir.
+[00:08:20.914 --> 00:08:22.914] DATA: All decks being probed in a methodical pattern, sir.
+[00:08:23.074 --> 00:08:24.354] PICARD: All decks? Everything? The entire ship?
+[00:08:24.594 --> 00:08:24.914] DATA: Aye, sir.
+[00:08:25.554 --> 00:08:26.194] LAFORGE: I can't reach the Commander.
+[00:08:26.194 --> 00:08:26.754] LAFORGE: We're being blocked.
+[00:08:28.994 --> 00:08:32.834] PICARD: Wesley, are you all right?
+[00:08:35.714 --> 00:08:40.261] WESLEY: It was scary at first, but I really didn't feel anything.
+[00:08:40.261 --> 00:08:40.674] WORF: Sir,
+[00:08:41.234 --> 00:08:45.234] WORF: similar incidents all decks, but only with the children.
+[00:08:49.474 --> 00:08:53.554] RADUE: Yes, we are an ancient power, Commander, but we've suffered for it.
+[00:08:54.194 --> 00:08:58.114] RADUE: Our history is littered with the deaths of those Aldeans who wanted more and more things.
+[00:08:58.114 --> 00:08:59.154] RADUE: Nothing was ever enough.
+[00:08:59.701 --> 00:09:02.181] RADUE: So we've evolved a very simple way of living.
+[00:09:02.261 --> 00:09:04.261] RADUE: For whatever is taken, something is given in return.
+[00:09:04.261 --> 00:09:06.981] RIKER: It seems an equitable code.
+[00:09:08.581 --> 00:09:09.701] RADUE: It's brought us peace.
+[00:09:09.941 --> 00:09:12.901] RADUE: Unfortunately, there are very few of us left to enjoy it.
+[00:09:13.541 --> 00:09:13.781] TROI: Why?
+[00:09:14.741 --> 00:09:17.781] RADUE: That is part of what we wish to discuss.
+[00:09:19.781 --> 00:09:23.061] RADUE: We need help from the Federation to rebuild our heritage.
+[00:09:23.381 --> 00:09:28.901] RADUE: We need a younger generation, strong and healthy, following in the Aldean traditions.
+[00:09:29.541 --> 00:09:30.261] RIKER: I don't understand.
+[00:09:30.261 --> 00:09:33.701] RIKER: How can the Federation help influence your children in your traditions?
+[00:09:34.661 --> 00:09:36.741] RADUE: Because we have no children, Commander.
+[00:09:40.421 --> 00:09:43.461] RADUE: Rashella was the last child born on this planet.
+[00:09:46.661 --> 00:09:48.981] CRUSHER: And your medical community can do nothing?
+[00:09:49.541 --> 00:09:52.021] RASHELLA: They've tried, Doctor Crusher. And failed.
+[00:09:53.541 --> 00:09:54.741] CRUSHER: Perhaps we can help.
+[00:09:55.621 --> 00:09:56.181] RIKER: Radue, exactly
+[00:09:56.181 --> 00:09:57.061] RIKER: why were we invited here?
+[00:09:58.741 --> 00:10:03.861] RADUE: We propose a trade. One which will solve our problem and give something back to the Federation.
+[00:10:04.101 --> 00:10:05.141] RIKER: And the nature of this trade?
+[00:10:07.141 --> 00:10:08.581] RADUE: We need some of your children.
+[00:10:09.061 --> 00:10:12.981] RADUE: In payment, we will give you information that would take you centuries to acquire.
+[00:10:16.021 --> 00:10:22.821] TROI: That might be acceptable to some other races, but humans are unusually attached to their offspring.
+[00:10:24.613 --> 00:10:27.333] CRUSHER: Our children are not for sale at any price.
+[00:10:27.893 --> 00:10:32.133] RIKER: We sympathise with your situation, but what you ask is not possible.
+[00:10:33.333 --> 00:10:34.613] RADUE: And that's your final answer?
+[00:10:35.973 --> 00:10:36.853] RIKER: That's my only answer.
+[00:10:38.213 --> 00:10:40.367] RIKER: Now if there's some other way we can help you.
+[00:10:40.367 --> 00:10:41.013] RADUE: I am sorry
+[00:10:41.893 --> 00:10:43.253] RADUE: you are intransigent.
+[00:10:49.813 --> 00:10:50.853] LAFORGE: Still no response, sir.
+[00:10:55.413 --> 00:10:55.813] CRUSHER: Wesley!
+[00:10:56.213 --> 00:10:58.933] CRUSHER: They've taken my son.
+[00:11:16.933 --> 00:11:16.933] WORF: Captain,
+[00:11:18.613 --> 00:11:23.893] WORF: Saucer Section reports six more children are gone.
+[00:11:23.893 --> 00:11:24.533] RIKER: It's the children.
+[00:11:25.573 --> 00:11:26.693] RIKER: That's why we've been brought here.
+[00:11:27.413 --> 00:11:28.302] RIKER: That's what they wanted.
+[00:11:28.302 --> 00:11:29.413] PICARD: And that's what they have.
+[00:11:33.253 --> 00:11:33.813] PICARD: Status.
+[00:11:34.293 --> 00:11:35.493] TASHA: Aldean shield still up.
+[00:11:35.653 --> 00:11:36.773] TASHA: Hailing frequencies open.
+[00:11:36.773 --> 00:11:37.413] TASHA: No response.
+[00:11:37.413 --> 00:11:39.093] PICARD: Keep trying. Counsellor,
+[00:11:39.093 --> 00:11:40.293] PICARD: you'll have to gather the parents.
+[00:11:40.453 --> 00:11:41.973] TROI: They'll need to speak to you as well, Captain.
+[00:11:43.333 --> 00:11:46.213] RADUE: Captain, your children are with us.
+[00:11:47.733 --> 00:11:51.093] RADUE: My word of honour, no harm will ever come to them.
+[00:11:51.733 --> 00:11:53.013] PICARD: Harm has already come to them.
+[00:11:54.886 --> 00:11:58.566] RADUE: Captain, let us begin discussions regarding appropriate compensation.
+[00:11:58.966 --> 00:11:59.606] PICARD: Compensation?
+[00:12:01.926 --> 00:12:07.046] PICARD: You have stolen our children away from their classrooms, away from their bedrooms and you talk about compensation?
+[00:12:07.606 --> 00:12:11.046] PICARD: You claim to be a civilised world and yet you have just committed an act of utter barbarity!
+[00:12:11.766 --> 00:12:14.806] RADUE: Captain, we will continue these discussions when you've calmed down.
+[00:12:24.006 --> 00:12:24.566] KATIE: Wesley,
+[00:12:26.326 --> 00:12:26.886] KATIE: I'm frightened.
+[00:12:28.886 --> 00:12:29.846] WESLEY: I know you are, Katie.
+[00:12:30.406 --> 00:12:32.966] WESLEY: We all are. But we're going to be all right.
+[00:12:33.606 --> 00:12:36.806] WESLEY: Everyone knows where we are, and no one is going to hurt you.
+[00:12:37.526 --> 00:12:38.246] WESLEY: I promise.
+[00:12:46.406 --> 00:12:48.006] RADUE: Greetings, Wesley Crusher.
+[00:12:49.766 --> 00:12:52.166] RADUE: The Custodian indicated that you would be the leader.
+[00:12:52.966 --> 00:12:53.526] WESLEY: The Custodian?
+[00:12:54.486 --> 00:12:55.366] WESLEY: Who is the Custodian?
+[00:12:55.926 --> 00:12:57.686] RADUE: The Custodian is not a person.
+[00:12:58.806 --> 00:13:01.286] RASHELLA: You have been brought to Aldea as our guests.
+[00:13:01.686 --> 00:13:03.766] RASHELLA: We'll provide anything you need or want.
+[00:13:04.806 --> 00:13:05.766] WESLEY: We want to go home.
+[00:13:06.406 --> 00:13:10.486] RADUE: Wesley, all of you have been chosen because you are special.
+[00:13:11.766 --> 00:13:14.486] RADUE: Just ask for anything you want, and you shall have it.
+[00:13:27.376 --> 00:13:30.176] TOYA: What's happened to Alexandra and the other children, Captain?
+[00:13:30.736 --> 00:13:32.256] TOYA: How are you getting them back?
+[00:13:32.256 --> 00:13:33.856] CRUSHER: Toya, sit down.
+[00:13:34.816 --> 00:13:36.496] CRUSHER: Don't give in to fear.
+[00:13:38.336 --> 00:13:43.216] CRUSHER: Now, we all knew what the risks were when we signed on, and that's the choice we made.
+[00:13:43.696 --> 00:13:47.056] CRUSHER: Now, Captain Picard will do everything possible to bring our children back.
+[00:13:47.216 --> 00:13:49.376] PICARD: The Aldeans are anxious to discuss compensation.
+[00:13:49.696 --> 00:13:50.656] BERNARD: Compensation?
+[00:13:50.976 --> 00:13:52.096] PICARD: That will buy us time.
+[00:13:52.656 --> 00:13:57.216] PICARD: I've asked Doctor Crusher to be involved in the negotiations as your representative.
+[00:13:58.736 --> 00:14:01.456] BERNARD: Why were these specific children taken?
+[00:14:02.176 --> 00:14:03.056] TROI: We can't be sure.
+[00:14:04.416 --> 00:14:07.456] TROI: We do know the Aldeans can't have children of their own.
+[00:14:09.376 --> 00:14:11.056] BERNARD: Then they won't let them go easily.
+[00:14:12.816 --> 00:14:15.296] PICARD: I won't insult you by pretending that any of this will be easy.
+[00:14:16.576 --> 00:14:20.416] PICARD: But I can tell you that the Enterprise will not leave them behind.
+[00:14:22.016 --> 00:14:22.896] PICARD: You can be assured of that.
+[00:14:25.456 --> 00:14:26.816] BERNARD: Can we talk with our children?
+[00:14:27.456 --> 00:14:29.056] BERNARD: Give them some reassurance.
+[00:14:29.536 --> 00:14:32.016] BERNARD: Let them know that we are here, and that they will be safe.
+[00:14:32.896 --> 00:14:33.936] PICARD: I'll do my best to arrange that.
+[00:14:37.216 --> 00:14:40.416] BERNARD: The last time I saw him, I yelled at him.
+[00:14:54.469 --> 00:14:55.108] RASHELLA: There you are!
+[00:14:56.068 --> 00:14:56.868] RASHELLA: I have you now!
+[00:15:01.668 --> 00:15:02.469] RADUE: Come in.
+[00:15:02.469 --> 00:15:03.748] RADUE: Don't be alarmed.
+[00:15:03.748 --> 00:15:05.748] RADUE: The other children have been assigned to their units.
+[00:15:06.469 --> 00:15:06.949] WESLEY: Units?
+[00:15:07.268 --> 00:15:11.668] RADUE: A unit is a group where those of similar talents and interests live together.
+[00:15:13.108 --> 00:15:14.148] WESLEY: Do you mean like a family.
+[00:15:14.788 --> 00:15:15.428] RADUE: Yes,
+[00:15:15.428 --> 00:15:16.868] RADUE: you could call it that.
+[00:15:19.748 --> 00:15:21.188] WESLEY: We already have families.
+[00:15:24.148 --> 00:15:25.668] WESLEY: Does Captain Picard know you're doing this?
+[00:15:26.228 --> 00:15:27.348] RADUE: We are keeping nothing from him.
+[00:15:31.028 --> 00:15:33.028] LEDA: We have been waiting for you so long, Harry.
+[00:15:34.388 --> 00:15:36.069] LEDA: We are artists, just like you.
+[00:15:36.069 --> 00:15:39.508] LEDA: We see within you the potential of what you can be.
+[00:15:40.709 --> 00:15:41.668] HARRY: I'm not an artist.
+[00:15:42.469 --> 00:15:44.709] ACCOLAN: You will be. And a great one.
+[00:15:46.069 --> 00:15:46.469] LEDA: This way.
+[00:15:53.348 --> 00:15:56.628] LEDA: Unit B, three seven five.
+[00:15:59.348 --> 00:15:59.668] RADUE: Katie.
+[00:16:03.348 --> 00:16:04.228] MELIAN: I am honoured.
+[00:16:05.428 --> 00:16:05.908] KATIE: Thank you.
+[00:16:06.788 --> 00:16:09.908] RADUE: Melian is the foremost musician on Aldea.
+[00:16:09.908 --> 00:16:11.589] MELIAN: Music speaks its own language.
+[00:16:12.388 --> 00:16:14.469] MELIAN: I know we'll have much to learn from each other.
+[00:16:16.148 --> 00:16:16.948] MELIAN: Don't worry, Katie,
+[00:16:17.188 --> 00:16:18.308] MELIAN: you'll be seeing Wesley soon.
+[00:16:24.483 --> 00:16:25.123] WESLEY: What about me?
+[00:16:26.563 --> 00:16:27.523] WESLEY: Don't I get a say in this?
+[00:16:28.003 --> 00:16:31.043] RADUE: Wesley, sometimes something happens which you just
+[00:16:32.643 --> 00:16:33.443] RADUE: must accept.
+[00:16:34.723 --> 00:16:38.323] RADUE: You and the other children are now members of this society. That will not change.
+[00:16:39.363 --> 00:16:42.883] RADUE: It is up to you to make the transition as easy as possible for the others.
+[00:16:42.883 --> 00:16:45.123] RADUE: It's your duty, because you are their leader.
+[00:16:46.083 --> 00:16:52.963] RADUE: Help them to accept it because nothing you, or those on the starship can do will change it.
+[00:16:54.323 --> 00:16:56.243] RADUE: Because like you,
+[00:16:58.163 --> 00:17:00.243] RADUE: we also have no choice.
+[00:17:03.203 --> 00:17:06.323] RADUE: Where have you been Rashella?
+[00:17:06.323 --> 00:17:08.403] RADUE: Zena and Aran are waiting to take Alexandra.
+[00:17:09.283 --> 00:17:09.603] RASHELLA: No.
+[00:17:10.403 --> 00:17:11.363] RADUE: No?
+[00:17:11.363 --> 00:17:12.163] RADUE: I told you that she
+[00:17:12.163 --> 00:17:13.603] RASHELLA: No, Radue.
+[00:17:13.763 --> 00:17:14.643] RASHELLA: They can't have her.
+[00:17:16.083 --> 00:17:17.203] RASHELLA: I will never let her go.
+[00:17:22.323 --> 00:17:24.323] PICARD: Any
+[00:17:26.163 --> 00:17:27.363] PICARD: response from Aldea, Lieutenant?
+[00:17:27.763 --> 00:17:28.403] TASHA: Not yet, sir.
+[00:17:28.563 --> 00:17:28.883] RIKER: Captain,
+[00:17:30.803 --> 00:17:32.163] RIKER: Data has found something interesting.
+[00:17:32.803 --> 00:17:37.843] RIKER: The Aldean shield gives evidence of random fluctuations, weakening its structure in isolated sections.
+[00:17:38.563 --> 00:17:40.323] PICARD: You're saying there are holes in their defence system?
+[00:17:40.403 --> 00:17:41.363] RIKER: In essence, yes.
+[00:17:41.923 --> 00:17:46.723] RIKER: I find it surprising after all these eons that the Aldeans' have not perfected their technology.
+[00:17:46.723 --> 00:17:48.563] RIKER: One would assume they would be aware of the weakness and repair it.
+[00:17:49.053 --> 00:17:51.693] PICARD: Can we beam down an away team through one of those holes?
+[00:17:51.853 --> 00:17:53.853] RIKER: It's a possibility. It would have to be perfectly timed, and
+[00:17:53.933 --> 00:17:54.733] RIKER: there's no guarantee.
+[00:17:54.813 --> 00:17:58.813] DATA: We may be more successful in deciphering the code they use to transport through the magnetic shield.
+[00:17:58.973 --> 00:17:59.533] PICARD: Can you do that?
+[00:17:59.933 --> 00:18:00.653] DATA: Eventually, sir.
+[00:18:00.893 --> 00:18:01.853] DATA: I am working on it now
+[00:18:02.413 --> 00:18:04.893] DATA: but the number of permutations is almost endless.
+[00:18:05.133 --> 00:18:05.613] PICARD: Keep trying.
+[00:18:06.333 --> 00:18:10.813] PICARD: While he's doing that, Number One, I want you and La Forge to try and find some way of getting through one of those holes,
+[00:18:10.973 --> 00:18:17.933] PICARD: because one way or the other we have got to get an away team on the planet, locate the power source for the shield and neutralise it.
+[00:18:18.893 --> 00:18:19.773] RIKER: You're certain they'll negotiate?
+[00:18:20.413 --> 00:18:21.533] PICARD: Oh, they'll negotiate, or
+[00:18:22.173 --> 00:18:23.053] PICARD: they'll call it that.
+[00:18:24.733 --> 00:18:25.773] PICARD: They've taken what they want.
+[00:18:26.653 --> 00:18:29.933] PICARD: Now they'll rationalise it by throwing us some sort of bone.
+[00:18:30.973 --> 00:18:32.855] RIKER: And when we don't accept their offer?
+[00:18:32.855 --> 00:18:37.693] PICARD: The minute they believe that we won't accept their compensation for the children, they'll break off the discussion,
+[00:18:37.693 --> 00:18:41.853] PICARD: they'll disappear behind their shield, locking us out and the children in
+[00:18:43.373 --> 00:18:43.693] PICARD: forever.
+[00:18:46.013 --> 00:18:47.453] PICARD: That's why I've got to keep them talking.
+[00:19:02.653 --> 00:19:03.533] DUANA: Custodian,
+[00:19:04.413 --> 00:19:10.173] DUANA: Wesley Crusher's voice will be entered into the authorised file for Third Level clearance.
+[00:19:10.813 --> 00:19:11.693] CUSTODIAN: Proceed, Duana.
+[00:19:11.693 --> 00:19:14.813] DUANA: Announce yourself to the Custodian.
+[00:19:15.933 --> 00:19:16.893] WESLEY: Hello, Custodian.
+[00:19:17.213 --> 00:19:18.093] WESLEY: I am Wesley Crusher.
+[00:19:18.653 --> 00:19:19.373] CUSTODIAN: Hello, Wesley.
+[00:19:19.853 --> 00:19:22.653] CUSTODIAN: Your voice will now activate Third Level clearance.
+[00:19:23.796 --> 00:19:24.516] WESLEY: What does that mean?
+[00:19:25.396 --> 00:19:27.476] CUSTODIAN: You may ask any questions you wish.
+[00:19:28.276 --> 00:19:28.596] WESLEY: Thank you.
+[00:19:29.956 --> 00:19:32.036] WESLEY: Duana, what does the Custodian do?
+[00:19:32.436 --> 00:19:33.876] DUANA: It frees us from all burden.
+[00:19:34.116 --> 00:19:35.556] DUANA: It takes care of all our needs.
+[00:19:35.956 --> 00:19:37.236] DUANA: It regulates our lives.
+[00:19:38.276 --> 00:19:38.676] WESLEY: Who built it?
+[00:19:39.236 --> 00:19:40.036] DUANA: The Progenitors.
+[00:19:40.276 --> 00:19:40.596] WESLEY: When?
+[00:19:40.916 --> 00:19:43.156] DUANA: Oh, hundreds of centuries ago.
+[00:19:44.356 --> 00:19:45.396] WESLEY: What is its power source?
+[00:19:46.516 --> 00:19:47.956] DUANA: Wesley, why is that important?
+[00:19:48.436 --> 00:19:49.636] DUANA: It does what we ask it.
+[00:19:49.636 --> 00:19:50.516] DUANA: It always has.
+[00:19:51.236 --> 00:19:52.756] DUANA: What difference does it make how it works?
+[00:19:54.036 --> 00:19:56.036] WESLEY: If you don't know how it works, then how can you repair it?
+[00:19:57.316 --> 00:19:58.836] DUANA: Why would we want to repair it?
+[00:19:59.716 --> 00:20:04.196] WESLEY: From time to time, every computer, I mean Custodian, requires maintenance.
+[00:20:05.236 --> 00:20:06.676] DUANA: Wesley, Radue is right.
+[00:20:07.476 --> 00:20:09.156] DUANA: You ask questions I can't answer.
+[00:20:11.076 --> 00:20:12.516] DUANA: Ask the Custodian instead.
+[00:20:15.156 --> 00:20:18.436] WESLEY: Custodian, can you show me where Harry is?
+[00:20:18.916 --> 00:20:19.636] CUSTODIAN: Yes.
+[00:20:20.436 --> 00:20:22.116] WESLEY: Custodian, show me Harry.
+[00:20:22.356 --> 00:20:22.356] HARRY: I never
+[00:20:26.516 --> 00:20:26.756] HARRY: did
+[00:20:33.076 --> 00:20:33.796] HARRY: this before.
+[00:20:33.796 --> 00:20:34.836] HARRY: It's fun.
+[00:20:34.836 --> 00:20:34.916] WESLEY: You
+[00:20:38.276 --> 00:20:39.796] WESLEY: are going to make him into a sculptor?
+[00:20:40.276 --> 00:20:41.156] DUANA: He already is.
+[00:20:41.716 --> 00:20:43.316] DUANA: He was just never encouraged properly.
+[00:20:44.116 --> 00:20:47.156] DUANA: The tool Leda is giving him will allow him to bring out his visions.
+[00:20:49.156 --> 00:20:50.836] WESLEY: It will take him years to learn to do that.
+[00:20:51.176 --> 00:20:51.736] DUANA: Oh, no.
+[00:20:52.696 --> 00:20:53.896] DUANA: It will happen quite quickly.
+[00:20:56.856 --> 00:20:59.016] WESLEY: Custodian, show me Alexandra.
+[00:21:09.016 --> 00:21:10.136] WESLEY: Custodian, show me Mason.
+[00:21:10.696 --> 00:21:11.576] DUANA: Stop, Custodian.
+[00:21:11.736 --> 00:21:12.776] DUANA: We must work now.
+[00:21:13.096 --> 00:21:13.656] DUANA: There is much to
+[00:21:15.976 --> 00:21:17.976] DUANA: learn.
+[00:21:17.976 --> 00:21:18.456] WESLEY: What's in there?
+[00:21:21.496 --> 00:21:22.136] WESLEY: The power source?
+[00:21:25.896 --> 00:21:26.536] DUANA: I don't know.
+[00:21:26.686 --> 00:21:27.686] DUANA: It's forbidden.
+[00:21:28.536 --> 00:21:29.656] LOG: Captain's log, supplemental.
+[00:21:30.136 --> 00:21:31.976] LOG: We remain in orbit around Aldea.
+[00:21:32.696 --> 00:21:36.936] LOG: It's becoming all too evident that talk will not effect the return of our children.
+[00:21:37.576 --> 00:21:39.496] LOG: We must neutralise the Aldean shield.
+[00:21:40.056 --> 00:21:41.496] LOG: Until then, we are helpless.
+[00:21:41.736 --> 00:21:43.496] TASHA: Sir, Radue is hailing us.
+[00:21:45.336 --> 00:21:46.216] RADUE: Captain Picard?
+[00:21:47.176 --> 00:21:48.536] PICARD: Doctor Crusher and I are ready, Radue.
+[00:21:49.896 --> 00:21:51.016] RADUE: Are you ill, Captain?
+[00:21:51.576 --> 00:21:53.416] PICARD: No. Doctor Crusher is a Staff Officer,
+[00:21:53.896 --> 00:21:59.736] PICARD: Radue. Starfleet Regulation six point five seven requires that at least two Staff Officers are present during any treaty or contract negotiations.
+[00:22:03.176 --> 00:22:03.736] RADUE: Very well.
+[00:22:05.976 --> 00:22:07.256] RIKER: Not much on pleasantries, is he?
+[00:22:07.656 --> 00:22:10.296] DATA: I am not aware of Regulation six point five seven.
+[00:22:11.576 --> 00:22:12.536] PICARD: No, Data. Neither am I.
+[00:22:13.096 --> 00:22:13.576] DATA: I see, sir.
+[00:22:14.616 --> 00:22:16.536] DATA: Oh, I see, sir.
+[00:22:18.856 --> 00:22:20.296] PICARD: Doctor Crusher, please report to the Bridge.
+[00:22:20.856 --> 00:22:22.216] PICARD: Now, we'll see what they have in mind.
+[00:22:27.888 --> 00:22:30.448] PICARD: Before we begin, we want to see the children.
+[00:22:30.608 --> 00:22:35.728] RADUE: No. We're here to negotiate appropriate compensation, not to pander to emotions.
+[00:22:35.728 --> 00:22:36.368] RADUE: Please sit.
+[00:22:41.328 --> 00:22:42.688] PICARD: We do not condone your actions.
+[00:22:43.328 --> 00:22:47.088] PICARD: You're attempting to salve your conscience by offering goods in exchange for our children.
+[00:22:47.408 --> 00:22:49.168] RADUE: Why do you want them back so badly?
+[00:22:49.168 --> 00:22:50.528] RADUE: You can always have more.
+[00:22:51.088 --> 00:22:53.888] PICARD: You are trifling with the primal instincts of our species.
+[00:22:54.368 --> 00:22:58.128] PICARD: I must warn you that human parents are quite willing to die for their children.
+[00:22:58.448 --> 00:23:00.448] RADUE: Returning the children is non-negotiable.
+[00:23:01.168 --> 00:23:08.768] RASHELLA: I promise you, they'll have a beautiful life with us. And they'll be father and mother to a new breed born of an ancient culture.
+[00:23:09.328 --> 00:23:12.368] CRUSHER: But how can you be so sure that they can have children?
+[00:23:12.768 --> 00:23:13.488] CRUSHER: You can't.
+[00:23:13.728 --> 00:23:14.688] RADUE: But they will.
+[00:23:15.088 --> 00:23:17.808] RADUE: Our inability to bear children is a genetic dysfunction.
+[00:23:17.808 --> 00:23:18.848] RADUE: It's not contagious.
+[00:23:23.808 --> 00:23:26.928] PICARD: We sympathise with your situation.
+[00:23:27.968 --> 00:23:31.008] PICARD: Surely there is a solution which can be mutually satisfactory?
+[00:23:32.048 --> 00:23:38.528] RADUE: For us, the problem is solved. And we're offering you information on areas of the galaxy you do not even know exist.
+[00:23:39.168 --> 00:23:40.128] RADUE: What more can we offer?
+[00:23:40.608 --> 00:23:41.888] RADUE: What more would you like?
+[00:23:44.368 --> 00:23:45.408] PICARD: A significant beginning.
+[00:23:46.848 --> 00:23:51.088] PICARD: But first, I must ask that Doctor Crusher be allowed to see her son before we continue.
+[00:23:53.327 --> 00:23:53.567] RADUE: You
+[00:23:55.087 --> 00:23:57.647] RADUE: are a stubborn people.
+[00:23:57.647 --> 00:23:57.647] RADUE: Ah,
+[00:23:59.807 --> 00:24:03.327] RADUE: well, that too can be a positive trait.
+[00:24:06.287 --> 00:24:06.847] RADUE: You may see him.
+[00:24:09.807 --> 00:24:10.287] WESLEY: Mom!
+[00:24:10.847 --> 00:24:10.887] CRUSHER: Wes.
+[00:24:10.887 --> 00:24:10.927] WESLEY: I
+[00:24:14.767 --> 00:24:16.207] WESLEY: knew Captain Picard would get us home.
+[00:24:17.007 --> 00:24:18.127] CRUSHER: Not yet, Wes.
+[00:24:20.047 --> 00:24:20.627] WESLEY: Oh.
+[00:24:20.627 --> 00:24:22.367] CRUSHER: Are you okay?
+[00:24:23.327 --> 00:24:24.207] CRUSHER: And the others?
+[00:24:25.967 --> 00:24:27.727] WESLEY: Okay, really okay.
+[00:24:29.087 --> 00:24:32.127] WESLEY: We've been assigned to our units, like families.
+[00:24:35.567 --> 00:24:36.847] WESLEY: They're treating us like gods.
+[00:24:38.447 --> 00:24:40.047] CRUSHER: Don't let it go to your head.
+[00:24:41.887 --> 00:24:42.287] WESLEY: I won't.
+[00:24:48.447 --> 00:24:49.407] CRUSHER: Wes seems fine.
+[00:24:49.487 --> 00:24:51.007] CRUSHER: He says the other children are too.
+[00:24:51.567 --> 00:24:52.527] RASHELLA: Of course they're well.
+[00:24:52.927 --> 00:24:54.527] RADUE: Captain Picard, you have our offer.
+[00:24:55.087 --> 00:24:55.567] RADUE: It is final.
+[00:24:56.527 --> 00:24:57.007] RADUE: Rashella.
+[00:25:03.407 --> 00:25:03.887] RADUE: Captain,
+[00:25:05.407 --> 00:25:08.447] RADUE: we want you to understand the nature of your choice.
+[00:25:09.727 --> 00:25:12.607] RADUE: A small demonstration of our power.
+[00:25:12.757 --> 00:25:13.357] RADUE: PICARD:
+[00:25:31.118 --> 00:25:31.518] RADUE: What was that?
+[00:25:32.238 --> 00:25:33.598] DATA: I believe it was a repulsor beam.
+[00:25:34.558 --> 00:25:35.118] PICARD: Position report.
+[00:25:35.518 --> 00:25:36.558] LAFORGE: This is unbelievable, sir.
+[00:25:37.198 --> 00:25:40.238] LAFORGE: According to my calculations, we're three days from Aldea.
+[00:25:40.238 --> 00:25:42.798] LAFORGE: At warp nine.
+[00:25:43.038 --> 00:25:44.798] RIKER: And they call that a small demonstration?
+[00:25:47.518 --> 00:25:48.638] PICARD: Geordi, get us back to Aldea.
+[00:25:49.198 --> 00:25:49.678] PICARD: Warp nine.
+[00:25:49.678 --> 00:25:50.158] LAFORGE: Aye, sir.
+[00:25:50.798 --> 00:26:01.438] RADUE: Captain, if you don't accept our terms, the Enterprise will be pushed so far away that by the time you return, your children will be grandparents.
+[00:26:06.958 --> 00:26:09.918] LOG: Captain's log, stardate 41512.4.
+[00:26:10.238 --> 00:26:13.278] LOG: We are twenty hours away from Aldea, and no closer to a solution.
+[00:26:13.598 --> 00:26:15.758] LOG: Their deliberate show of force pushed us out of orbit
+[00:26:16.238 --> 00:26:17.918] LOG: and could have easily disintegrated the ship.
+[00:26:22.878 --> 00:26:24.558] MELIAN: Now, hold it a little bit more firmly.
+[00:26:25.118 --> 00:26:26.478] MELIAN: That's it. Perfect.
+[00:26:27.278 --> 00:26:28.078] MELIAN: Now think.
+[00:26:28.958 --> 00:26:29.998] MELIAN: No, think's not right.
+[00:26:31.358 --> 00:26:33.518] MELIAN: Feel the notes inside your head.
+[00:26:33.668 --> 00:26:34.268] KATIE: I'm
+[00:26:43.758 --> 00:26:45.758] KATIE: sorry. Did I break it?
+[00:26:45.758 --> 00:26:46.878] MELIAN: No, it's all right.
+[00:26:46.878 --> 00:26:48.158] MELIAN: You can't break this.
+[00:26:49.438 --> 00:26:51.518] KATIE: It did exactly what I thought.
+[00:26:51.668 --> 00:26:53.068] KATIE: I mean, felt.
+[00:26:54.080 --> 00:26:56.800] MELIAN: Yes, it's a direct expression of the music within.
+[00:26:57.200 --> 00:26:59.600] MELIAN: Now we just have to teach you to structure that feeling.
+[00:27:00.400 --> 00:27:00.880] MELIAN: Try it again.
+[00:27:29.200 --> 00:27:30.000] MELIAN: That was beautiful.
+[00:27:32.640 --> 00:27:32.960] MELIAN: Now,
+[00:27:34.880 --> 00:27:35.840] MELIAN: play something happier.
+[00:27:38.320 --> 00:27:39.680] KATIE: That's not the way I feel.
+[00:27:44.000 --> 00:27:45.440] KATIE: I don't want to do this any more.
+[00:27:51.280 --> 00:27:54.080] ACCOLAN: You see, Harry, I told you you were going to be an artist.
+[00:27:55.040 --> 00:27:55.600] HARRY: Are you sure?
+[00:27:55.600 --> 00:27:57.600] HARRY: Did I really do this?
+[00:27:57.760 --> 00:27:58.320] ACCOLAN: Oh, yes.
+[00:27:59.120 --> 00:28:00.400] ACCOLAN: Your talent has always been there.
+[00:28:01.280 --> 00:28:03.520] ACCOLAN: The sculpting tool is just helping you develop it.
+[00:28:04.720 --> 00:28:05.920] ACCOLAN: It's what you were meant to do.
+[00:28:07.440 --> 00:28:09.600] HARRY: You mean I don't have to take calculus anymore?
+[00:28:10.160 --> 00:28:11.840] ACCOLAN: You don't have to do anything you don't want to do.
+[00:28:14.000 --> 00:28:14.800] ACCOLAN: What's calculus?
+[00:28:15.280 --> 00:28:16.560] HARRY: Nothing important.
+[00:28:17.120 --> 00:28:17.760] HARRY: Can I do some more?
+[00:28:23.746 --> 00:28:24.946] PICARD: Captain's log, supplemental.
+[00:28:25.666 --> 00:28:28.306] PICARD: It has been three days since the Aldeans pushed us away.
+[00:28:28.946 --> 00:28:31.106] PICARD: We have had no contact with Radue since then.
+[00:28:33.346 --> 00:28:34.866] PICARD: Open hailing frequencies, Lieutenant Yar.
+[00:28:35.746 --> 00:28:36.226] TASHA: Frequencies
+[00:28:38.706 --> 00:28:38.946] TASHA: open,
+[00:28:38.946 --> 00:28:39.122] TASHA: sir.
+[00:28:39.122 --> 00:28:39.826] PICARD: Radue, this is Picard.
+[00:28:40.306 --> 00:28:41.266] RADUE: Welcome back, Captain.
+[00:28:41.986 --> 00:28:43.557] RADUE: What have you decided?
+[00:28:43.557 --> 00:28:46.306] PICARD: That there is room for discussion, Radue.
+[00:28:46.306 --> 00:28:49.106] RADUE: We will bring you down when we are ready.
+[00:28:51.746 --> 00:28:53.266] PICARD: Data, find a way to defeat that shield.
+[00:28:53.826 --> 00:28:54.866] DATA: That may be impossible, sir.
+[00:28:54.946 --> 00:28:56.466] PICARD: Things are only impossible until they're not.
+[00:28:56.706 --> 00:28:56.946] DATA: Yes, sir.
+[00:29:00.546 --> 00:29:01.026] CRUSHER: Captain.
+[00:29:03.346 --> 00:29:04.546] CRUSHER: Here's what I've learned so far.
+[00:29:05.746 --> 00:29:06.866] CRUSHER: Duana is dying.
+[00:29:07.266 --> 00:29:09.586] CRUSHER: I have no reason to believe the rest of the Aldeans are any healthier.
+[00:29:09.986 --> 00:29:12.466] CRUSHER: They're suffering from some kind of chromosomal damage.
+[00:29:12.866 --> 00:29:14.946] CRUSHER: It could be genetic or environmental.
+[00:29:15.186 --> 00:29:16.306] PICARD: And is that why they can't conceive?
+[00:29:16.466 --> 00:29:16.946] CRUSHER: Yes.
+[00:29:17.266 --> 00:29:21.026] CRUSHER: It also explains their lack of appetite, extreme pallor and sensitivity to light.
+[00:29:21.176 --> 00:29:21.776] PICARD: An
+[00:29:22.546 --> 00:29:24.626] PICARD: entire civilisation that's terminally ill.
+[00:29:25.666 --> 00:29:26.306] PICARD: Is it reversible?
+[00:29:27.906 --> 00:29:29.586] CRUSHER: I won't know until I find the cause.
+[00:29:29.986 --> 00:29:31.266] CRUSHER: And you don't need to tell me
+[00:29:31.346 --> 00:29:32.546] CRUSHER: time is running out.
+[00:29:34.066 --> 00:29:34.786] PICARD: Good work, Doctor.
+[00:29:40.946 --> 00:29:43.906] ACCOLAN: Have the lesions gone?
+[00:29:44.626 --> 00:29:44.786] LEDA: Yes.
+[00:29:45.986 --> 00:29:47.186] LEDA: The medicine worked again.
+[00:29:47.746 --> 00:29:48.066] ACCOLAN: Good.
+[00:29:49.346 --> 00:29:50.386] ACCOLAN: Come see what Harry's doing.
+[00:29:56.990 --> 00:29:57.470] ACCOLAN: Beautiful!
+[00:29:58.830 --> 00:30:00.750] HARRY: Yeah, it really turned out well.
+[00:30:02.350 --> 00:30:03.870] ACCOLAN: It is so alive and graceful.
+[00:30:04.590 --> 00:30:05.150] ACCOLAN: What do you call it?
+[00:30:05.550 --> 00:30:06.270] HARRY: It's a dolphin.
+[00:30:07.150 --> 00:30:07.630] LEDA: Dolphin?
+[00:30:08.590 --> 00:30:12.910] HARRY: You know, it swims in the ocean. Like a fish, only it's not a fish.
+[00:30:13.630 --> 00:30:15.390] LEDA: Ah. A fish.
+[00:30:16.910 --> 00:30:18.590] LEDA: We used to have them in our oceans.
+[00:30:19.630 --> 00:30:20.830] LEDA: I've never seen one before.
+[00:30:21.950 --> 00:30:24.270] HARRY: I used to live near the ocean on Zadar Four.
+[00:30:24.590 --> 00:30:25.790] HARRY: My dad's an oceanographer.
+[00:30:25.950 --> 00:30:26.910] HARRY: He says that.
+[00:30:26.990 --> 00:30:27.150] HARRY: Never
+[00:30:31.310 --> 00:30:32.110] HARRY: mind.
+[00:30:32.830 --> 00:30:33.070] HARRY: It
+[00:30:33.070 --> 00:30:34.590] HARRY: doesn't matter.
+[00:30:34.740 --> 00:30:36.140] ALEXANDRA: I want Mommy.
+[00:30:40.870 --> 00:30:42.270] ALEXANDRA: I want Mommy.
+[00:30:47.150 --> 00:30:49.150] DUANA: You
+[00:30:54.510 --> 00:30:55.150] DUANA: haven't eaten.
+[00:30:55.550 --> 00:30:57.870] WESLEY: You didn't eat anything.
+[00:30:58.750 --> 00:30:59.790] RADUE: We need very little.
+[00:31:00.670 --> 00:31:04.110] DUANA: I know you miss your family. But you will grow accustomed to us.
+[00:31:04.830 --> 00:31:05.950] DUANA: I promise you'll be happy.
+[00:31:06.590 --> 00:31:08.270] WESLEY: We were happy before we came.
+[00:31:08.990 --> 00:31:11.630] DUANA: We are offering more, especially for you.
+[00:31:15.710 --> 00:31:16.030] WESLEY: Duana,
+[00:31:18.190 --> 00:31:22.510] WESLEY: I feel badly for you that you have no children, but I have to tell you
+[00:31:22.928 --> 00:31:24.048] WESLEY: that we don't want to be here
+[00:31:26.048 --> 00:31:27.088] WESLEY: and we will not cooperate.
+[00:31:27.238 --> 00:31:27.596] CRUSHER: No.
+[00:31:27.596 --> 00:31:29.383] CRUSHER: That doesn't fit the pattern.
+[00:31:29.383 --> 00:31:34.032] CRUSHER: Give me a list of the appropriate medical literature from the twenty-second century.
+[00:31:34.032 --> 00:31:35.462] CRUSHER: There's not enough time!
+[00:31:35.462 --> 00:31:37.607] PICARD: Is there anything I can do?
+[00:31:37.607 --> 00:31:39.038] CRUSHER: You just did, Jean-Luc.
+[00:31:39.038 --> 00:31:41.898] CRUSHER: Now I have to get back to work.
+[00:31:42.048 --> 00:31:42.848] WESLEY: Custodian's room.
+[00:31:54.768 --> 00:31:56.528] WESLEY: Custodian, this is Wesley Crusher.
+[00:31:57.008 --> 00:31:57.728] CUSTODIAN: Proceed, Wesley.
+[00:32:01.728 --> 00:32:04.048] WESLEY: Show me where the Enterprise children are in relation to this room.
+[00:32:08.448 --> 00:32:08.768] WESLEY: Thank you.
+[00:32:09.408 --> 00:32:09.728] WESLEY: Goodnight.
+[00:32:10.448 --> 00:32:11.408] CUSTODIAN: Good night, Wesley.
+[00:32:11.648 --> 00:32:11.728] WESLEY: I
+[00:32:27.728 --> 00:32:29.168] WESLEY: think I know a way to get us home.
+[00:32:29.488 --> 00:32:29.968] WESLEY: I need your
+[00:32:32.048 --> 00:32:32.928] WESLEY: help.
+[00:32:33.168 --> 00:32:36.208] LOG: Chief Medical Officer's log, stardate 41512.9.
+[00:32:37.008 --> 00:32:43.488] LOG: I've begun to suspect that whatever is killing the Aldeans is related to a danger faced by Earth in the twenty first century.
+[00:32:44.608 --> 00:32:47.248] LOG: Can it be that Aldea's ozone layer has been weakened?
+[00:32:49.503 --> 00:32:52.143] KATIE: Why will not talking or eating make them send us home?
+[00:32:53.743 --> 00:32:55.583] WESLEY: It's called passive resistance.
+[00:32:56.383 --> 00:33:00.463] WESLEY: We don't do what they want us to do and then they won't want us.
+[00:33:01.423 --> 00:33:02.303] KATIE: Will they get mad at us?
+[00:33:02.943 --> 00:33:03.903] WESLEY: They won't hurt us.
+[00:33:04.783 --> 00:33:07.103] HARRY: But, Wes, I do kind of like them.
+[00:33:08.143 --> 00:33:08.783] WESLEY: So do I,
+[00:33:09.343 --> 00:33:10.543] WESLEY: but I don't want to stay here forever.
+[00:33:11.263 --> 00:33:11.503] WESLEY: Do you?
+[00:33:12.863 --> 00:33:13.263] HARRY: No,
+[00:33:14.703 --> 00:33:16.063] HARRY: but I like working with the wood.
+[00:33:17.263 --> 00:33:21.663] WESLEY: Harry, we all have to be in this together or it's not going to work.
+[00:33:24.223 --> 00:33:24.463] HARRY: Okay.
+[00:33:26.703 --> 00:33:27.183] HARRY: I'll do it.
+[00:33:28.063 --> 00:33:29.263] RASHELLA: What are you all doing here together?
+[00:33:33.023 --> 00:33:33.103] RASHELLA: What
+[00:33:36.463 --> 00:33:37.423] RASHELLA: is going on here?
+[00:33:44.223 --> 00:33:46.783] CRUSHER: I've got it, Captain.
+[00:33:47.583 --> 00:33:50.223] CRUSHER: The Aldeans are suffering from a form of radiation poisoning.
+[00:33:50.543 --> 00:33:51.423] PICARD: Is that what made the Aldeans sterile?
+[00:33:51.743 --> 00:33:52.223] CRUSHER: Yes.
+[00:33:52.303 --> 00:33:52.943] PICARD: Is it reversible?
+[00:33:53.503 --> 00:33:54.863] CRUSHER: With the proper treatment, yes.
+[00:33:54.863 --> 00:33:55.183] DATA: Captain.
+[00:33:55.423 --> 00:33:55.663] CRUSHER: Sir.
+[00:33:57.583 --> 00:33:59.903] DATA: These permutations are going to take a very long time.
+[00:34:00.143 --> 00:34:00.463] PICARD: How long?
+[00:34:00.783 --> 00:34:01.263] DATA: Weeks.
+[00:34:01.663 --> 00:34:02.463] RIKER: There is the option.
+[00:34:03.023 --> 00:34:05.583] LAFORGE: We were able to further define the weakness in their shield.
+[00:34:05.903 --> 00:34:08.623] LAFORGE: Now, it's not a hole as much as it is a fluctuation.
+[00:34:08.863 --> 00:34:11.343] RIKER: If the timing is precise, it's possible to beam through and onto the planet.
+[00:34:11.823 --> 00:34:13.503] PICARD: Why don't we just beam the children up through the hole?
+[00:34:13.663 --> 00:34:15.503] RIKER: The timing would be more difficult, and the risk greater.
+[00:34:16.783 --> 00:34:18.063] PICARD: All right. You and Data beam down.
+[00:34:18.063 --> 00:34:19.823] PICARD: Locate the power source of that shield. Knock it out.
+[00:34:20.223 --> 00:34:22.543] PICARD: I'll delay the Aldeans
+[00:34:22.804 --> 00:34:23.364] PICARD: until you're ready.
+[00:34:31.364 --> 00:34:34.084] LEDA: Will you at least eat?
+[00:34:50.164 --> 00:34:50.884] WESLEY: No, Alexandra.
+[00:34:51.684 --> 00:34:51.844] ALEXANDRA: Why?
+[00:34:53.764 --> 00:34:54.644] WESLEY: We can't eat.
+[00:34:55.124 --> 00:34:56.084] WESLEY: I know you're hungry.
+[00:34:56.084 --> 00:34:56.724] WESLEY: We all are.
+[00:34:58.004 --> 00:35:00.404] WESLEY: But it's our way of telling them that we want to go home.
+[00:35:01.284 --> 00:35:02.004] WESLEY: Understand?
+[00:35:04.004 --> 00:35:06.004] ALEXANDRA: Yes.
+[00:35:06.004 --> 00:35:07.204] RIKER: We're ready,
+[00:35:10.564 --> 00:35:10.964] RIKER: Lieutenant
+[00:35:12.484 --> 00:35:14.484] RIKER: Worf.
+[00:35:14.484 --> 00:35:20.564] RADUE: Captain, you may come down now to conclude our discussions, or your ship may leave.
+[00:35:21.364 --> 00:35:22.164] RADUE: It's your choice.
+[00:35:23.364 --> 00:35:25.844] PICARD: Doctor Crusher and I are prepared to conclude our negotiations.
+[00:35:29.124 --> 00:35:29.844] WORF: Transporter room,
+[00:35:32.324 --> 00:35:34.324] WORF: now!
+[00:35:34.804 --> 00:35:34.804] DATA: This is it, Commander.
+[00:35:53.390 --> 00:35:53.390] DATA: It
+[00:36:04.110 --> 00:36:06.830] DATA: is programmed to accept only authorised voice command.
+[00:36:07.550 --> 00:36:08.510] RIKER: There's no way we can override.
+[00:36:08.830 --> 00:36:09.070] DATA: No,
+[00:36:10.190 --> 00:36:12.430] DATA: but I can scramble the input so that nobody else can.
+[00:36:14.430 --> 00:36:18.350] RADUE: Before we begin, Captain, you must speak with the children.
+[00:36:19.150 --> 00:36:21.470] RADUE: It seems they are on some sort of strike.
+[00:36:21.790 --> 00:36:23.070] RADUE: I don't understand it.
+[00:36:24.270 --> 00:36:25.870] RADUE: You must deal with this, Captain.
+[00:36:26.830 --> 00:36:27.390] RADUE: I'm not
+[00:36:29.150 --> 00:36:30.350] RADUE: very good with children.
+[00:36:34.830 --> 00:36:35.150] PICARD: Strike?
+[00:36:36.750 --> 00:36:37.470] PICARD: I'll see what I can do.
+[00:36:38.990 --> 00:36:42.190] WESLEY: I'm sure if we just stick together, guys, we'll all be
+[00:36:44.030 --> 00:36:44.750] KATIE: Hi, Captain Picard.
+[00:36:44.990 --> 00:36:45.470] HARRY: Hi, Captain.
+[00:36:46.030 --> 00:36:46.910] WESLEY: Sir, I knew you'd come.
+[00:36:47.550 --> 00:36:48.510] PICARD: It's not over yet, Wesley.
+[00:36:50.590 --> 00:36:53.550] WESLEY: I think I figured out their computer controls, sir, but I'm not sure.
+[00:36:53.790 --> 00:36:55.310] WESLEY: It's a much different system than ours.
+[00:36:55.950 --> 00:36:56.350] PICARD: Good, Wesley.
+[00:36:58.190 --> 00:36:58.510] PICARD: Now
+[00:36:58.830 --> 00:36:59.230] HARRY: Captain.
+[00:37:00.030 --> 00:37:00.590] PICARD: Yes, Harry.
+[00:37:01.230 --> 00:37:06.350] HARRY: If something happens and you have to leave us here, will you tell my Dad that I'm sorry that I made him angry, and
+[00:37:08.030 --> 00:37:08.510] HARRY: that I miss him.
+[00:37:09.950 --> 00:37:14.350] PICARD: You will tell him that, Harry, and I will tell him how much I admire his son.
+[00:37:19.470 --> 00:37:20.190] PICARD: Hello, Alexandra.
+[00:37:20.340 --> 00:37:20.940] ALEXANDRA: Hi.
+[00:37:43.750 --> 00:37:44.790] RADUE: What is this?
+[00:37:45.350 --> 00:37:45.990] PICARD: They want to go home.
+[00:37:46.310 --> 00:37:48.390] RADUE: No. They're staying.
+[00:37:48.870 --> 00:37:49.270] PICARD: Number One.
+[00:37:50.310 --> 00:37:50.870] RIKER: We're in position.
+[00:37:51.750 --> 00:37:52.390] PICARD: Hold for orders.
+[00:37:53.430 --> 00:37:57.430] CRUSHER: The radiation levels on Aldea have been building up over a long period of time.
+[00:37:57.990 --> 00:38:06.390] CRUSHER: It is similar to what was experienced on Earth in the twenty-first century. When the ozone layer had deteriorated and the surface of the planet was flooded with ultraviolet radiation.
+[00:38:06.710 --> 00:38:09.830] PICARD: The shield that protected your world in one way is weakening it in another.
+[00:38:10.390 --> 00:38:13.030] PICARD: It is the radiation of your own sun that is destroying you.
+[00:38:13.270 --> 00:38:15.110] RADUE: You're trying to confuse the issue.
+[00:38:15.350 --> 00:38:16.870] CRUSHER: Please, listen.
+[00:38:17.750 --> 00:38:20.150] CRUSHER: You're all suffering from radiation poisoning.
+[00:38:20.150 --> 00:38:22.070] CRUSHER: Sterility is only the latest symptom.
+[00:38:22.630 --> 00:38:25.030] CRUSHER: If the children remain, they will be affected as well.
+[00:38:25.190 --> 00:38:25.990] RADUE: It's impossible.
+[00:38:25.990 --> 00:38:27.590] RADUE: Our scientists would have known.
+[00:38:28.070 --> 00:38:28.790] CRUSHER: How could they?
+[00:38:28.790 --> 00:38:31.030] CRUSHER: Your scientists have forgotten how everything works.
+[00:38:31.190 --> 00:38:31.910] RADUE: No.
+[00:38:32.870 --> 00:38:33.830] RADUE: All lies.
+[00:38:33.830 --> 00:38:34.230] RASHELLA: No.
+[00:38:34.550 --> 00:38:35.030] RASHELLA: Wait.
+[00:38:35.910 --> 00:38:36.950] RASHELLA: Don't send them back yet.
+[00:38:38.230 --> 00:38:39.510] RASHELLA: What if they're right?
+[00:38:40.630 --> 00:38:45.110] RASHELLA: Instead of the children being our hope, what if we're just condemning them to our fate?
+[00:38:45.110 --> 00:38:45.830] RADUE: Rashella,
+[00:38:45.990 --> 00:38:48.150] RADUE: they're just protecting their own interests.
+[00:38:48.470 --> 00:38:49.430] RASHELLA: As are we.
+[00:38:50.550 --> 00:38:51.350] RASHELLA: But hear them out.
+[00:38:52.179 --> 00:38:58.419] RASHELLA: The Captain and Doctor Crusher are saying that the very thing which has given us this wonderful world is what has caused this tragedy.
+[00:38:58.899 --> 00:38:59.859] PICARD: That's it, exactly.
+[00:39:00.739 --> 00:39:04.579] PICARD: Your Custodian has controlled you so completely you've lost even the desire to even question it.
+[00:39:04.819 --> 00:39:06.659] RADUE: Lies, and the discussion is over.
+[00:39:11.859 --> 00:39:14.019] PICARD: Commander Riker.
+[00:39:14.659 --> 00:39:14.899] RIKER: Here, sir.
+[00:39:15.379 --> 00:39:16.899] PICARD: I assume you have control of the computer.
+[00:39:16.899 --> 00:39:19.459] RIKER: We've disabled the system temporarily.
+[00:39:19.459 --> 00:39:21.779] RIKER: We found the power source to the shield and we've neutralised it.
+[00:39:22.419 --> 00:39:22.659] PICARD: Good.
+[00:39:23.299 --> 00:39:24.339] PICARD: Enterprise, this is Picard.
+[00:39:25.379 --> 00:39:26.179] PICARD: Beam the children up.
+[00:39:26.419 --> 00:39:26.739] HARRY: Wait.
+[00:39:27.939 --> 00:39:28.579] PICARD: Enterprise, hold.
+[00:39:32.819 --> 00:39:33.299] HARRY: Thank you.
+[00:39:34.899 --> 00:39:36.659] ACCOLAN: Let me get the dolphin for you to take with you.
+[00:39:37.619 --> 00:39:39.139] HARRY: No, you keep it.
+[00:39:39.139 --> 00:39:41.219] HARRY: I'll make another one.
+[00:39:50.979 --> 00:39:51.459] PICARD: All right, Harry?
+[00:39:51.859 --> 00:39:52.419] HARRY: Yes, Captain.
+[00:39:54.099 --> 00:39:55.619] WESLEY: Okay, kids. Let's go home.
+[00:40:01.219 --> 00:40:01.699] PICARD: Beam them up.
+[00:40:12.339 --> 00:40:15.699] RADUE: You have destroyed us.
+[00:40:16.958 --> 00:40:18.398] PICARD: We are not here to destroy you, Radue.
+[00:40:19.118 --> 00:40:19.678] PICARD: We can help you.
+[00:40:37.918 --> 00:40:38.398] RADUE: What is it?
+[00:40:40.718 --> 00:40:45.118] PICARD: A legacy of your Progenitors, Radue. The source of your power and of your problems.
+[00:40:45.598 --> 00:40:47.518] DATA: It is reading incredible amounts of energy, sir.
+[00:40:48.158 --> 00:40:49.918] DATA: Even more since we have taken down the shield.
+[00:40:50.718 --> 00:40:51.758] RASHELLA: What are we going to do with it?
+[00:40:52.398 --> 00:40:54.318] RADUE: Learn, all over again.
+[00:40:55.598 --> 00:41:01.598] RADUE: All this time we've been destroying ourselves, so sure of our technological invulnerability.
+[00:41:02.158 --> 00:41:04.798] RADUE: Now we must learn to use this power safely.
+[00:41:05.358 --> 00:41:06.078] PICARD: Will you let us help you?
+[00:41:06.958 --> 00:41:08.318] RADUE: Yes. Please.
+[00:41:14.318 --> 00:41:19.518] HARRY: Dad, I want to be an artist, but I don't want to take calculus anymore.
+[00:41:19.918 --> 00:41:21.278] BERNARD: You can be anything you want, Harry.
+[00:41:22.158 --> 00:41:27.198] BERNARD: Anything. But you still have to take calculus.
+[00:41:27.438 --> 00:41:28.638] HARRY: Okay. Thanks, Dad.
+[00:41:29.678 --> 00:41:29.758] DATA: It
+[00:41:33.198 --> 00:41:33.918] DATA: worked well, sir.
+[00:41:34.398 --> 00:41:40.782] DATA: We have successfully reseeded the ozone layer. But for their atmosphere to maintain it's integrity, they can never use the shield.
+[00:41:40.782 --> 00:41:41.998] RIKER: Or be cloaked again.
+[00:41:42.148 --> 00:41:42.748] PICARD: Are
+[00:41:44.558 --> 00:41:44.958] PICARD: you finished?
+[00:41:45.438 --> 00:41:46.158] CRUSHER: Yes, Captain,
+[00:41:46.718 --> 00:41:48.638] CRUSHER: and they're responding very well to the treatment.
+[00:41:50.616 --> 00:41:51.496] PICARD: The legend will die,
+[00:41:53.016 --> 00:41:53.896] PICARD: but the people will live.
+[00:41:54.456 --> 00:41:56.296] TROI: And we know they'll make good parents.
+[00:42:00.136 --> 00:42:00.536] PICARD: Wesley!
+[00:42:01.496 --> 00:42:02.216] WESLEY: Sorry, Captain.
+[00:42:02.536 --> 00:42:04.856] WESLEY: She just wanted to thank you for bringing her home to her mother.
+[00:42:14.296 --> 00:42:15.016] ALEXANDRA: Thank you.
+[00:42:15.166 --> 00:42:16.166] WESLEY: Come on.
+[00:42:30.216 --> 00:42:30.936] PICARD: Mister La Forge,
+[00:42:32.216 --> 00:42:33.336] PICARD: out of orbit. Warp five.
+[00:42:33.896 --> 00:42:34.376] LAFORGE: Yes, sir.
+[00:42:34.856 --> 00:42:35.336] LAFORGE: Certainly, sir.
+[00:42:47.000 --> 00:43:23.000] [music]
+[00:43:24.000 --> 00:43:35.000] [music]

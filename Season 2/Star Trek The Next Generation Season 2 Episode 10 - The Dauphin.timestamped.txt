@@ -1,0 +1,705 @@
+[00:00:07.440 --> 00:00:09.520] DATA: Sir, we are approaching Klavdia Three.
+[00:00:10.560 --> 00:00:11.440] PICARD: Take us to impulse power.
+[00:00:12.080 --> 00:00:12.400] GIBSON: Aye, sir.
+[00:00:12.880 --> 00:00:13.520] GIBSON: Impulse power.
+[00:00:22.080 --> 00:00:23.280] LAFORGE: Bridge, this is Engineering.
+[00:00:23.440 --> 00:00:24.160] PICARD: Yes, Lieutenant.
+[00:00:24.640 --> 00:00:29.280] LAFORGE: Now that we're out of warp, I'd like to use this time to make some routine adjustments on the deuterium control conduit.
+[00:00:29.360 --> 00:00:30.080] LAFORGE: We're overdue.
+[00:00:30.880 --> 00:00:33.280] PICARD: How much time will these adjustments require, Lieutenant?
+[00:00:34.080 --> 00:00:34.880] LAFORGE: A couple of hours, sir.
+[00:00:36.640 --> 00:00:37.840] RIKER: Proceed, Lieutenant La Forge.
+[00:00:38.240 --> 00:00:39.040] RIKER: Standard orbit, Ensign.
+[00:00:48.480 --> 00:00:48.640] LAFORGE: Wes,
+[00:00:48.640 --> 00:00:52.400] LAFORGE: I'm going to need an SCM model three, from ship's stores.
+[00:00:52.400 --> 00:00:53.200] LAFORGE: Can you handle that?
+[00:00:53.200 --> 00:00:53.600] WESLEY: Right away.
+[00:00:53.600 --> 00:00:53.920] LAFORGE: All right.
+[00:00:54.240 --> 00:00:56.240] PICARD: Magnify,
+[00:00:59.600 --> 00:00:59.920] PICARD: Mister Worf. Hardly
+[00:01:04.480 --> 00:01:07.360] PICARD: an inviting planet, even for a research establishment.
+[00:01:08.320 --> 00:01:13.600] TROI: I would have thought the inhabitants of Daled Four would send a future leader to a more hospitable environment.
+[00:01:14.160 --> 00:01:16.560] WORF: For some, security is more important than comfort.
+[00:01:17.760 --> 00:01:19.360] TROI: Yes, but sixteen years.
+[00:01:19.920 --> 00:01:21.120] WORF: Captain, we're being hailed.
+[00:01:22.080 --> 00:01:23.200] PICARD: Hailing frequencies, Mister Worf.
+[00:01:23.760 --> 00:01:24.080] WORF: Open.
+[00:01:25.120 --> 00:01:27.360] PICARD: This is Captain Picard of the USS Enterprise.
+[00:01:27.510 --> 00:01:29.310] ANYA: I am Anya of
+[00:01:32.710 --> 00:01:34.870] DATA: Sir, the planet's troposphere is distorting our signal.
+[00:01:35.430 --> 00:01:36.470] PICARD: Can you clean that up, Mister Worf?
+[00:01:36.630 --> 00:01:37.110] WORF: I'll try.
+[00:01:38.710 --> 00:01:38.950] WORF: Now.
+[00:01:39.990 --> 00:01:41.990] PICARD: This is Picard of the Enterprise.
+[00:01:42.550 --> 00:01:44.150] PICARD: Please will you repeat your message?
+[00:01:44.790 --> 00:01:45.670] ANYA: I am Anya.
+[00:01:45.670 --> 00:01:48.150] ANYA: Have you come for Salia of Daled Four?
+[00:01:49.110 --> 00:01:49.750] PICARD: That is correct.
+[00:01:50.070 --> 00:01:51.190] ANYA: What species are you?
+[00:01:51.750 --> 00:01:52.230] PICARD: Human.
+[00:01:52.790 --> 00:01:53.110] ANYA: Excellent.
+[00:01:53.750 --> 00:01:54.550] ANYA: Bring us aboard.
+[00:01:55.190 --> 00:01:55.670] ANYA: That is all.
+[00:01:57.350 --> 00:01:58.070] RIKER: Friendly, isn't she?
+[00:01:58.870 --> 00:02:01.190] PICARD: Friendly or not, Salia has the rank of head of state, so
+[00:02:02.150 --> 00:02:03.910] PICARD: we will treat her and Anya accordingly.
+[00:02:03.990 --> 00:02:04.870] PICARD: Number One, Mister Worf,
+[00:02:05.670 --> 00:02:06.870] PICARD: let's go greet our visitors.
+[00:02:07.030 --> 00:02:08.070] PICARD: You have the Bridge, Mister Data.
+[00:02:08.550 --> 00:02:08.870] DATA: Aye, sir.
+[00:02:23.510 --> 00:02:24.470] PICARD: Welcome to the Enterprise.
+[00:02:24.950 --> 00:02:25.830] PICARD: I'm Captain Picard.
+[00:02:26.710 --> 00:02:28.230] ANYA: This is Salia of Daled Four.
+[00:02:29.350 --> 00:02:30.310] SALIA: I didn't feel a thing.
+[00:02:31.030 --> 00:02:32.790] SALIA: Is that normal when one is transported, Captain?
+[00:02:32.950 --> 00:02:33.750] PICARD: Oh, yes, it is.
+[00:02:34.550 --> 00:02:36.390] SALIA: Those must be the matter energy conversion controls.
+[00:02:36.390 --> 00:02:37.030] SALIA: May I take a look?
+[00:02:37.430 --> 00:02:37.910] PICARD: Yes, of course.
+[00:02:41.030 --> 00:02:42.550] RIKER: I can arrange for a tour of the ship, if you'd like.
+[00:02:43.190 --> 00:02:43.910] SALIA: Oh, I'd love that.
+[00:02:43.990 --> 00:02:45.590] ANYA: No, that will not be necessary.
+[00:02:46.470 --> 00:02:48.470] ANYA: Just show us to our quarters, Captain Picard.
+[00:02:53.270 --> 00:02:53.510] PICARD: Very well.
+[00:02:57.662 --> 00:03:00.462] PICARD: We're accommodating you in quarters normally reserved for Starfleet admiralty.
+[00:03:00.462 --> 00:03:01.822] PICARD: I'm sure you'll find them quite comfortable.
+[00:03:11.182 --> 00:03:12.782] SALIA: That's a superconducting magnet, isn't it?
+[00:03:14.142 --> 00:03:15.582] WESLEY: Yes It's an SCM model.
+[00:03:17.022 --> 00:03:17.662] WESLEY: How did you know that?
+[00:03:18.382 --> 00:03:18.782] SALIA: Study, for
+[00:03:19.102 --> 00:03:20.702] SALIA: the last sixteen years it is all I could
+[00:03:20.702 --> 00:03:22.942] ANYA: Please, Salia, walk ahead with me.
+[00:03:24.462 --> 00:03:25.182] SALIA: Better be careful.
+[00:03:25.342 --> 00:03:27.022] SALIA: Those can rip the iron right out of your blood cells.
+[00:03:31.342 --> 00:03:33.982] WESLEY: Commander, who
+[00:03:37.262 --> 00:03:37.582] WESLEY: is she?
+[00:03:38.702 --> 00:03:40.462] RIKER: I think she's a governess.
+[00:03:41.502 --> 00:03:42.382] WESLEY: No! The girl.
+[00:03:43.902 --> 00:03:44.382] RIKER: I don't know if
+[00:03:44.462 --> 00:03:45.582] RIKER: she'll have time for you, Wes.
+[00:03:46.142 --> 00:03:47.822] RIKER: She's destined to rule an entire world.
+[00:04:10.702 --> 00:04:13.422] PICARD: Space, the final frontier.
+[00:04:15.342 --> 00:04:18.142] PICARD: These are the voyagers of the starship Enterprise.
+[00:04:19.262 --> 00:04:21.502] PICARD: It's continuing mission to explore.
+[00:04:21.737 --> 00:04:22.697] PICARD: Strange new worlds,
+[00:04:24.777 --> 00:04:27.577] PICARD: to seek out new life and new civilizations,
+[00:04:29.257 --> 00:04:32.057] PICARD: to boldly go where no one has gone before.
+[00:04:35.417 --> 00:04:37.417] WESLEY: Come in.
+[00:05:34.297 --> 00:05:35.017] DATA: You wanted to see me?
+[00:05:35.577 --> 00:05:35.977] WESLEY: Yes.
+[00:05:37.017 --> 00:05:39.206] WESLEY: Data, the girl who came on board.
+[00:05:39.206 --> 00:05:40.457] DATA: Salia of Daled Four.
+[00:05:41.177 --> 00:05:41.737] WESLEY: Who is she?
+[00:05:42.297 --> 00:05:42.937] DATA: Little is known.
+[00:05:43.657 --> 00:05:45.017] DATA: She was born on Daled Four.
+[00:05:45.737 --> 00:05:49.257] DATA: Her parents were from opposite sides in a civil war which has lasted for centuries.
+[00:05:49.743 --> 00:05:51.503] DATA: They both died shortly after her birth.
+[00:05:52.223 --> 00:05:57.263] DATA: A Federation ship brought her and her governess to Klavdia Three so that she could be raised in a neutral environment.
+[00:05:58.223 --> 00:05:59.023] WESLEY: And now she's returning?
+[00:05:59.583 --> 00:06:02.063] DATA: It is hoped she will unite the factions and bring peace.
+[00:06:02.703 --> 00:06:04.063] LAFORGE: Ensign Crusher, report.
+[00:06:04.063 --> 00:06:05.343] LAFORGE: Are you all right?
+[00:06:05.343 --> 00:06:05.663] WESLEY: Geordi?
+[00:06:07.103 --> 00:06:07.903] WESLEY: Yeah, I'm fine.
+[00:06:07.903 --> 00:06:08.383] WESLEY: I just
+[00:06:08.383 --> 00:06:10.143] LAFORGE: Wes, we're waiting for that magnet.
+[00:06:11.983 --> 00:06:12.463] WESLEY: I'm on my way.
+[00:06:23.023 --> 00:06:23.263] RIKER: Captain,
+[00:06:23.263 --> 00:06:29.023] RIKER: we've broken orbit and laid in a course for Daled Four. We will remain on impulse power until Lieutenant La Forge completes his adjustments.
+[00:06:29.983 --> 00:06:32.543] PICARD: Mister Worf, have our passenger's accommodations met with their approval?
+[00:06:33.103 --> 00:06:36.463] WORF: I doubt if anything ever meets with that woman's approval, sir.
+[00:06:37.183 --> 00:06:41.103] TROI: Captain, I'm concerned our new passengers.
+[00:06:42.143 --> 00:06:45.263] TROI: Their emotions do not fit who they are and what they're doing.
+[00:06:46.063 --> 00:06:47.743] PICARD: Are you suggesting they're not who they say they are?
+[00:06:48.863 --> 00:06:49.503] TROI: Actually no,
+[00:06:49.663 --> 00:06:52.303] TROI: it's more like they're not what they say they are.
+[00:06:54.703 --> 00:06:56.143] PICARD: Picard to Salia's quarters.
+[00:06:57.103 --> 00:06:57.343] SALIA: Yes?
+[00:06:57.503 --> 00:06:58.383] PICARD: May we turn on the viewer?
+[00:06:58.943 --> 00:06:59.743] SALIA: Yes, of course.
+[00:07:01.743 --> 00:07:02.863] PICARD: Are your quarters satisfactory?
+[00:07:03.263 --> 00:07:03.983] SALIA: Yes, very.
+[00:07:06.143 --> 00:07:09.183] SALIA: Tell me, Captain, who was the young man I met before?
+[00:07:10.223 --> 00:07:11.743] PICARD: That was Ensign Wesley Crusher.
+[00:07:14.543 --> 00:07:15.823] SALIA: Thank you for checking on us, Captain.
+[00:07:16.383 --> 00:07:19.423] SALIA: I only hope our quarters on Daled Four will be this luxurious.
+[00:07:20.943 --> 00:07:23.023] PICARD: Please feel free to contact me at any time.
+[00:07:23.796 --> 00:07:24.276] PICARD: Picard out.
+[00:07:34.996 --> 00:07:36.596] TROI: What I sensed before hasn't changed.
+[00:07:37.076 --> 00:07:40.916] DATA: What puzzles me, Captain, is how she is expected to bring peace to Daled Four.
+[00:07:41.156 --> 00:07:43.716] DATA: Its inhabitants have been fighting throughout their recorded history.
+[00:07:44.596 --> 00:07:46.596] PICARD: What do we know about the cause of these wars?
+[00:07:47.396 --> 00:07:49.716] DATA: Only that it is the difference between night and day.
+[00:07:50.356 --> 00:07:51.716] RIKER: Data, you used a colloquialism.
+[00:07:52.516 --> 00:07:52.756] DATA: Did I?
+[00:07:54.756 --> 00:07:58.756] DATA: What I meant, sir, is that Daled Four rotates only once per revolution.
+[00:07:58.996 --> 00:08:02.836] DATA: Therefore one side is constantly dark, and the other side constantly light.
+[00:08:03.636 --> 00:08:08.676] DATA: One might surmise that the two hemispheres have developed disparate cultures, which is a major cause of most wars.
+[00:08:10.516 --> 00:08:12.516] PICARD: This child is supposed to bring them together.
+[00:08:13.636 --> 00:08:15.636] RIKER: She seems too delicate for such a task.
+[00:08:16.356 --> 00:08:18.516] WORF: Do not be fooled by her looks.
+[00:08:19.716 --> 00:08:21.076] WORF: The body is just a shell.
+[00:08:25.236 --> 00:08:27.636] SALIA: How can I be a leader if I don't know anything about my people?
+[00:08:28.436 --> 00:08:32.516] GIRL: You will lead because you are accepted by both sides. And because it is in your blood.
+[00:08:33.556 --> 00:08:34.836] SALIA: What is expected of me once I'm there?
+[00:08:35.396 --> 00:08:36.236] GIRL: You will know.
+[00:08:36.236 --> 00:08:36.516] SALIA: How?
+[00:08:37.076 --> 00:08:37.796] GIRL: You just will.
+[00:08:39.236 --> 00:08:46.196] GIRL: Salia, you must arrive with an open mind, without preconceived ideas of the worlds you will find or the people on either side.
+[00:08:48.756 --> 00:08:49.796] SALIA: It's very frustrating.
+[00:08:50.516 --> 00:08:52.276] GIRL: You feel the weight of so much responsibility,
+[00:08:52.996 --> 00:08:55.156] GIRL: you're not sure you'll live up to everyone's expectations.
+[00:08:56.116 --> 00:08:57.156] SALIA: It's not only that.
+[00:09:03.925 --> 00:09:05.925] SALIA: Nobody's even asked me if this is something I want.
+[00:09:07.285 --> 00:09:08.005] GIRL: It is your duty.
+[00:09:09.605 --> 00:09:12.485] SALIA: And I have no choice.
+[00:09:13.205 --> 00:09:14.805] GIRL: It won't be as bad as you think.
+[00:09:16.885 --> 00:09:18.325] GIRL: In fact, it could be quite wonderful.
+[00:09:19.365 --> 00:09:22.245] GIRL: Besides, you are the last and only chance.
+[00:09:32.565 --> 00:09:33.285] SALIA: Don't
+[00:09:36.725 --> 00:09:40.645] SALIA: you think I'm going to need more than instinct to do whatever is expected of me on Daled Four?
+[00:09:43.925 --> 00:09:44.965] LAFORGE: Energy depletion level?
+[00:09:45.845 --> 00:09:48.005] COMPUTER: Point oh four percent and increasing.
+[00:09:49.125 --> 00:09:49.685] LAFORGE: Wesley?
+[00:09:52.165 --> 00:09:54.245] LAFORGE: Wesley, you haven't found that defocused area yet?
+[00:09:54.725 --> 00:09:55.285] WESLEY: I'm looking.
+[00:09:58.485 --> 00:10:00.085] LAFORGE: Yeah, I see the way you're looking.
+[00:10:02.005 --> 00:10:02.645] LAFORGE: Wesley!
+[00:10:02.965 --> 00:10:03.125] WESLEY: What?
+[00:10:05.685 --> 00:10:06.085] WESLEY: Sorry.
+[00:10:07.445 --> 00:10:08.645] WESLEY: I've got my mind on something.
+[00:10:09.205 --> 00:10:09.925] LAFORGE: I can see that.
+[00:10:12.485 --> 00:10:14.485] WESLEY: It's this girl they beamed up, Geordi.
+[00:10:14.965 --> 00:10:16.005] WESLEY: She's perfect.
+[00:10:16.805 --> 00:10:17.845] WESLEY: Absolutely perfect.
+[00:10:17.845 --> 00:10:21.525] LAFORGE: Now I understand why you can't concentrate.
+[00:10:23.445 --> 00:10:23.845] WESLEY: I'll do better.
+[00:10:24.165 --> 00:10:24.325] LAFORGE: Okay.
+[00:10:25.525 --> 00:10:25.685] COMPUTER: Warning,
+[00:10:32.452 --> 00:10:33.972] COMPUTER: resonant field applied.
+[00:10:35.412 --> 00:10:35.812] LAFORGE: What is it?
+[00:10:36.052 --> 00:10:37.092] LAFORGE: What happened?
+[00:10:37.092 --> 00:10:37.493] WESLEY: Nothing.
+[00:10:37.493 --> 00:10:39.092] WESLEY: I had it on the wrong setting.
+[00:10:39.242 --> 00:10:39.842] LAFORGE: I
+[00:10:41.252 --> 00:10:44.052] LAFORGE: suppose it had to happen to you. It usually does at about this age.
+[00:10:44.932 --> 00:10:45.972] WESLEY: What usually does?
+[00:10:46.612 --> 00:10:49.732] LAFORGE: Glands erupting with hormones. It happens to all of us.
+[00:10:50.452 --> 00:10:53.023] WESLEY: Just because I said that I think she's interesting
+[00:10:53.023 --> 00:10:54.452] LAFORGE: You said she was perfect.
+[00:10:55.732 --> 00:10:56.452] LAFORGE: Come on down.
+[00:10:56.452 --> 00:10:57.572] LAFORGE: You're no use around here for now.
+[00:10:57.572 --> 00:10:58.852] LAFORGE: Come on down.
+[00:10:59.493 --> 00:11:01.012] LAFORGE: Go talk to her.
+[00:11:01.812 --> 00:11:02.373] LAFORGE: Use the ladder.
+[00:11:10.532 --> 00:11:11.332] WESLEY: That's silly, Geordi.
+[00:11:12.132 --> 00:11:15.332] WESLEY: But since you recommended it, how should I approach her?
+[00:11:15.972 --> 00:11:17.412] WESLEY: If she'll talk to me, what should I say?
+[00:11:17.493 --> 00:11:18.692] LAFORGE: Just say, 'Hi,
+[00:11:18.692 --> 00:11:19.892] LAFORGE: I'm Wesley Crusher.
+[00:11:19.972 --> 00:11:20.692] LAFORGE: I'd like to talk to you'.
+[00:11:21.012 --> 00:11:21.493] WESLEY: And then what?
+[00:11:22.052 --> 00:11:23.412] LAFORGE: Whatever occurs to you.
+[00:11:23.652 --> 00:11:24.932] WESLEY: What if nothing occurs to me?
+[00:11:24.932 --> 00:11:26.852] LAFORGE: Look, Wes, I don't have time for this.
+[00:11:27.092 --> 00:11:28.692] LAFORGE: You're going to have to ask somebody else.
+[00:11:29.412 --> 00:11:29.732] WESLEY: Okay.
+[00:11:36.132 --> 00:11:39.733] WORF: That is how the Klingon lures a mate.
+[00:11:41.972 --> 00:11:43.412] WESLEY: Are you telling me to go yell at Salia?
+[00:11:43.572 --> 00:11:43.812] WORF: No.
+[00:11:44.692 --> 00:11:45.652] WORF: Men do not roar.
+[00:11:46.292 --> 00:11:47.092] WORF: Women roar.
+[00:11:48.532 --> 00:11:50.372] WORF: Then they hurl heavy objects.
+[00:11:52.692 --> 00:11:53.652] WORF: And claw at you.
+[00:11:55.412 --> 00:11:56.132] WESLEY: What does the man do?
+[00:11:57.412 --> 00:11:58.852] WORF: He reads love poetry.
+[00:12:03.652 --> 00:12:04.212] WORF: He ducks a lot.
+[00:12:05.393 --> 00:12:12.753] WESLEY: Worf, sounds like it works great for the Klingons, but I think I need to try something a little less dangerous.
+[00:12:13.953 --> 00:12:16.753] WORF: Then go to her door. Beg like a human.
+[00:12:17.793 --> 00:12:19.153] DATA: It should be that simple, Wesley.
+[00:12:20.113 --> 00:12:24.113] DATA: Judging by her appearance it is likely you and Salia are biologically compatible.
+[00:12:24.513 --> 00:12:29.223] DATA: Of course, there could be a difference in the histocompatibility complex in the cell membrane, but.
+[00:12:29.223 --> 00:12:31.873] WESLEY: Data, I want to meet her, not dissect her.
+[00:12:38.993 --> 00:12:40.353] PICARD: Picard to Salia's quarters.
+[00:12:40.833 --> 00:12:41.393] SALIA: Yes, Captain?
+[00:12:41.793 --> 00:12:42.913] PICARD: May I activate the viewer?
+[00:12:44.433 --> 00:12:45.313] SALIA: Hurry, go, go.
+[00:12:47.553 --> 00:12:48.033] SALIA: Certainly.
+[00:12:50.273 --> 00:12:51.313] PICARD: We've invited Anya
+[00:12:51.473 --> 00:12:52.433] PICARD: to take a tour of the ship.
+[00:12:53.153 --> 00:12:54.193] PICARD: Maybe you would like to join her?
+[00:12:54.673 --> 00:12:55.393] SALIA: Very much.
+[00:12:55.953 --> 00:12:57.313] PICARD: Your escort will with you shortly.
+[00:12:58.113 --> 00:12:58.673] PICARD: Picard out.
+[00:13:01.313 --> 00:13:02.353] SALIA: I think I'll go on the tour.
+[00:13:06.273 --> 00:13:06.993] SALIA: Why can't I?
+[00:13:08.833 --> 00:13:12.833] SALIA: This is the only chance I'll ever have to see a vessel like this.
+[00:13:14.833 --> 00:13:18.513] ANYA: No. You must remain here where it is safe.
+[00:13:24.273 --> 00:13:28.833] ANYA: Salia, do an old woman a favour and obey me for the rest of this trip.
+[00:13:30.353 --> 00:13:32.433] SALIA: You are no more an old woman than I am a leader.
+[00:13:34.833 --> 00:13:35.553] SALIA: Yes. Come in.
+[00:13:37.218 --> 00:13:39.218] WORF: I'm here to escort you on a tour of the Enterprise.
+[00:13:40.338 --> 00:13:41.778] ANYA: Salia will remain behind.
+[00:13:42.418 --> 00:13:43.058] ANYA: I will be right there.
+[00:13:43.378 --> 00:13:50.258] ANYA: You are a leader. And I am older than you could ever imagine.
+[00:14:01.938 --> 00:14:02.818] WESLEY: What should I say?
+[00:14:03.378 --> 00:14:04.498] WESLEY: How do I act?
+[00:14:04.498 --> 00:14:04.978] WESLEY: What do I do?
+[00:14:07.618 --> 00:14:08.418] RIKER: Guinan, I need your help.
+[00:14:08.418 --> 00:14:09.378] RIKER: Could you step over here a minute?
+[00:14:11.698 --> 00:14:12.818] GUINAN: Sounds simple enough.
+[00:14:19.858 --> 00:14:22.498] RIKER: Now, the first words out of your mouth are the most important.
+[00:14:22.498 --> 00:14:23.858] RIKER: You may want to start with something like this.
+[00:14:23.858 --> 00:14:24.018] RIKER: You are
+[00:14:27.538 --> 00:14:29.778] RIKER: the most beautiful woman in the galaxy.
+[00:14:34.338 --> 00:14:35.218] RIKER: But that might not work.
+[00:14:36.418 --> 00:14:37.858] GUINAN: Yes. Yes, it would.
+[00:14:42.258 --> 00:14:43.618] RIKER: You don't know how long I've longed to tell you that.
+[00:14:43.938 --> 00:14:44.818] GUINAN: But you were afraid?
+[00:14:44.978 --> 00:14:45.298] RIKER: Yes.
+[00:14:45.538 --> 00:14:46.018] GUINAN: Of me?
+[00:14:46.018 --> 00:14:46.418] RIKER: Of us.
+[00:14:46.418 --> 00:14:47.458] RIKER: Of what we might become.
+[00:14:48.498 --> 00:14:48.978] WESLEY: Commander?
+[00:14:49.298 --> 00:14:50.738] RIKER: or that you might think that was a line.
+[00:14:51.218 --> 00:14:52.418] GUINAN: Maybe I do think it's a line.
+[00:14:53.218 --> 00:14:54.338] RIKER: Then you think I'm not sincere?
+[00:14:54.818 --> 00:14:55.458] GUINAN: I didn't say that.
+[00:14:55.858 --> 00:14:57.138] GUINAN: There's nothing wrong with a line.
+[00:14:57.138 --> 00:14:58.898] GUINAN: It's like a knock at the door.
+[00:14:59.138 --> 00:15:00.178] RIKER: Then you're inviting me in?
+[00:15:00.498 --> 00:15:01.458] GUINAN: I'm not sending you away.
+[00:15:01.938 --> 00:15:02.978] RIKER: That's more than I expected.
+[00:15:03.298 --> 00:15:04.738] GUINAN: Is it as much as you hoped?
+[00:15:04.980 --> 00:15:07.300] RIKER: To hope is to recognise the possibility.
+[00:15:07.380 --> 00:15:08.260] RIKER: I had only dreams.
+[00:15:08.660 --> 00:15:09.540] GUINAN: Dreams can be dangerous.
+[00:15:09.780 --> 00:15:10.500] RIKER: Not these dreams.
+[00:15:10.980 --> 00:15:15.860] RIKER: I dream of a galaxy where your eyes are stars, and the universe worships the night.
+[00:15:17.540 --> 00:15:21.780] GUINAN: Careful. Putting me on a pedestal so high, you may not be able to reach me.
+[00:15:22.660 --> 00:15:23.700] RIKER: Then I'll learn how to fly.
+[00:15:24.900 --> 00:15:28.260] RIKER: You are the heart in my day and the soul in my night.
+[00:15:28.900 --> 00:15:30.180] WESLEY: I don't think this is my style.
+[00:15:31.220 --> 00:15:31.700] GUINAN: Shut up, kid.
+[00:15:33.459 --> 00:15:35.940] GUINAN: Tell me more about my eyes.
+[00:15:40.100 --> 00:15:41.700] WORF: This is the dilithium crystal chamber.
+[00:15:43.060 --> 00:15:45.140] WORF: Our Chief Engineer, Geordi La Forge.
+[00:15:46.100 --> 00:15:46.579] ANYA: What is that?
+[00:15:46.820 --> 00:15:47.380] ANYA: What are you doing?
+[00:15:49.700 --> 00:15:50.820] LAFORGE: Nothing to be concerned about.
+[00:15:51.620 --> 00:15:53.780] LAFORGE: Just performing some routine adjustments.
+[00:15:54.500 --> 00:15:58.020] ANYA: I wasn't aware that the deuterium control conduit required routine adjustments.
+[00:16:00.900 --> 00:16:01.700] LAFORGE: I
+[00:16:15.540 --> 00:16:18.180] LAFORGE: perform periodic inspections on all engineering systems.
+[00:16:18.500 --> 00:16:20.740] ANYA: In this case you seem to have found a malfunction.
+[00:16:21.300 --> 00:16:22.580] LAFORGE: It's not a malfunction.
+[00:16:22.580 --> 00:16:26.420] LAFORGE: It's simply that a minute defocused area has developed. It lowers our operating efficiency.
+[00:16:26.420 --> 00:16:28.660] ANYA: It could also lead to excess prion production.
+[00:16:28.980 --> 00:16:30.913] LAFORGE: Our computer would detect that.
+[00:16:30.913 --> 00:16:33.620] ANYA: Unless, of course, it too is malfunctioning.
+[00:16:35.071 --> 00:16:39.267] LAFORGE: Look, I really have to get this finished.
+[00:16:39.267 --> 00:16:39.791] WORF: Anya.
+[00:16:41.471 --> 00:16:42.271] WORF: Please come with me.
+[00:16:49.391 --> 00:16:51.391] ANYA: I will be back to check your progress.
+[00:17:01.951 --> 00:17:01.951] GUARD: Ensign
+[00:17:02.111 --> 00:17:03.231] GUARD: Crusher, what can I do for you?
+[00:17:05.231 --> 00:17:05.471] WESLEY: Nothing.
+[00:17:12.991 --> 00:17:13.631] GUARD: Is there a problem?
+[00:17:14.431 --> 00:17:14.591] WESLEY: No.
+[00:17:18.111 --> 00:17:20.031] SALIA: Could you show me how to work the food dispenser?
+[00:17:21.631 --> 00:17:21.791] WESLEY: Sure.
+[00:17:28.511 --> 00:17:29.791] WESLEY: Really, it's quite simple.
+[00:17:30.271 --> 00:17:33.391] WESLEY: You just tell the computer what you want and it prepares it for you.
+[00:17:34.031 --> 00:17:34.431] SALIA: Oh.
+[00:17:35.871 --> 00:17:36.591] SALIA: What should I order?
+[00:17:38.831 --> 00:17:39.311] WESLEY: I don't know.
+[00:17:40.111 --> 00:17:40.591] WESLEY: what do you like?
+[00:17:42.111 --> 00:17:43.151] SALIA: I'd like something sweet.
+[00:17:46.991 --> 00:17:47.311] WESLEY: I know.
+[00:17:49.071 --> 00:17:51.471] WESLEY: Computer, Thalian chocolate mousse.
+[00:18:10.918 --> 00:18:12.758] SALIA: It's a wonderful sensation.
+[00:18:14.198 --> 00:18:15.078] WESLEY: On Thalos Seven
+[00:18:15.318 --> 00:18:16.838] WESLEY: they age the beans four hundred years.
+[00:18:17.558 --> 00:18:18.198] SALIA: You've been there?
+[00:18:18.918 --> 00:18:20.118] WESLEY: It's one of my favourite places.
+[00:18:20.518 --> 00:18:22.758] SALIA: It must be fun to visit a planet like that.
+[00:18:23.638 --> 00:18:25.078] WESLEY: It's the best part of being on the Enterprise.
+[00:18:26.518 --> 00:18:30.518] SALIA: I've studied about some of them, but to see them, that would be wonderful.
+[00:18:31.558 --> 00:18:33.158] SALIA: Tell me about some of the other places you've been.
+[00:18:33.798 --> 00:18:34.598] WESLEY: Oh, there's too many.
+[00:18:35.878 --> 00:18:37.878] SALIA: The only world I've known is Klavdia Three.
+[00:18:41.398 --> 00:18:43.798] WESLEY: It's about time we changed that.
+[00:18:43.798 --> 00:18:44.038] SALIA: How?
+[00:18:45.958 --> 00:18:46.518] WESLEY: Come with me.
+[00:18:58.678 --> 00:18:59.718] PULASKI: I'll be with you in a moment.
+[00:19:01.798 --> 00:19:02.438] ANYA: What's wrong with him?
+[00:19:03.238 --> 00:19:05.478] PULASKI: Andronesian encephalitis.
+[00:19:06.278 --> 00:19:07.718] ANYA: That disease is contagious.
+[00:19:08.758 --> 00:19:09.638] PULASKI: Very unlikely.
+[00:19:09.638 --> 00:19:11.078] PULASKI: Our air filtering system can handle
+[00:19:11.078 --> 00:19:11.318] ANYA: But
+[00:19:11.318 --> 00:19:11.958] ANYA: there is a chance.
+[00:19:13.318 --> 00:19:16.598] PULASKI: If you mean mathematically, yes, the probability is not zero.
+[00:19:17.158 --> 00:19:19.798] ANYA: I cannot rely on your primitive technologies.
+[00:19:20.598 --> 00:19:21.238] ANYA: Kill the patient!
+[00:19:24.358 --> 00:19:24.598] PULASKI: What?
+[00:19:24.598 --> 00:19:27.078] ANYA: Destroy the patient.
+[00:19:27.718 --> 00:19:28.758] ANYA: Immediately!
+[00:19:29.478 --> 00:19:30.598] PULASKI: Now, you calm down.
+[00:19:31.040 --> 00:19:32.880] ANYA: If you won't take action, then I will!
+[00:19:43.680 --> 00:19:45.680] PULASKI: Security to Sickbay! Hurry!
+[00:19:55.280 --> 00:19:55.280] PICARD: Wait!
+[00:19:55.280 --> 00:19:55.760] PICARD: Hold your fire.
+[00:19:59.920 --> 00:20:00.160] PICARD: Worf!
+[00:20:01.520 --> 00:20:02.000] PULASKI: What is she?
+[00:20:02.320 --> 00:20:02.880] PULASKI: Keep her away!
+[00:20:03.440 --> 00:20:04.560] ANYA: Do not interfere!
+[00:20:05.200 --> 00:20:06.480] PULASKI: She wants to kill Hennesey!
+[00:20:07.040 --> 00:20:08.560] ANYA: His disease threatens Salia.
+[00:20:09.520 --> 00:20:11.360] PULASKI: Captain, there is no chance of contagion.
+[00:20:11.360 --> 00:20:11.360] PICARD: The
+[00:20:14.160 --> 00:20:15.440] PICARD: situation is under control.
+[00:20:15.680 --> 00:20:17.280] ANYA: That's not good enough!
+[00:20:17.600 --> 00:20:18.640] PICARD: Well, it will have to be.
+[00:20:20.400 --> 00:20:23.760] ANYA: Your powers are infinitesimal compared to mine.
+[00:20:27.760 --> 00:20:30.800] PICARD: Yes, that may be, but you will obey my orders.
+[00:20:32.080 --> 00:20:36.480] PICARD: You are to remain in your quarters and in your present form for the rest of this voyage.
+[00:20:36.480 --> 00:20:37.120] PICARD: Is that clear?
+[00:20:39.840 --> 00:20:40.240] ANYA: Very.
+[00:20:41.520 --> 00:20:42.240] PICARD: Keep her under guard.
+[00:20:43.120 --> 00:20:43.360] WORF: Aye, sir.
+[00:20:43.360 --> 00:20:43.440] WORF: Wait
+[00:20:46.560 --> 00:20:46.880] WORF: for me.
+[00:20:50.880 --> 00:20:52.160] WORF: What kind of creature is she?
+[00:20:53.440 --> 00:20:54.480] PICARD: I've never seen anything like her.
+[00:20:54.960 --> 00:20:55.840] PULASKI: There is mention
+[00:20:56.320 --> 00:21:05.840] PULASKI: in the galactic zoological catalogue of a species called allasomorph, which is supposed to possess the power to alter their molecular structure into other life forms.
+[00:21:07.440 --> 00:21:09.440] WORF: Such a creature would make a perfect protector.
+[00:21:10.400 --> 00:21:12.960] PICARD: I want a Security team stationed outside Sickbay, Mister Worf.
+[00:21:13.520 --> 00:21:14.800] WORF: Aye, sir. Captain,
+[00:21:16.080 --> 00:21:17.280] WORF: what if Anya transforms?
+[00:21:21.840 --> 00:21:22.400] PICARD: Improvise.
+[00:21:26.560 --> 00:21:29.280] SALIA: Can a place so remarkable truly exist?
+[00:21:30.080 --> 00:21:30.560] WESLEY: Yes.
+[00:21:31.680 --> 00:21:32.480] WESLEY: There are many more.
+[00:21:33.120 --> 00:21:34.000] WESLEY: All of them are different.
+[00:21:34.560 --> 00:21:35.520] SALIA: I've learned about them.
+[00:21:36.560 --> 00:21:38.560] SALIA: That's all I did on Klavdia Three, was learn.
+[00:21:39.920 --> 00:21:40.880] SALIA: I know so much, but
+[00:21:41.920 --> 00:21:42.880] SALIA: I've seen so little.
+[00:21:45.040 --> 00:21:46.640] WESLEY: Think of what you have to look forward to.
+[00:21:48.480 --> 00:21:49.920] WESLEY: This is a great time to be alive.
+[00:21:51.600 --> 00:21:51.920] SALIA: For you.
+[00:21:52.800 --> 00:21:53.680] WESLEY: For both of us.
+[00:21:54.400 --> 00:21:55.440] WESLEY: This is all just beginning.
+[00:21:56.480 --> 00:21:58.480] WESLEY: We've only charted nineteen percent of our galaxy.
+[00:21:59.120 --> 00:22:00.720] WESLEY: The rest is out there, just waiting.
+[00:22:01.600 --> 00:22:02.720] WESLEY: Look what we've already discovered.
+[00:22:04.560 --> 00:22:08.640] SALIA: I have never seen anything so wondrous.
+[00:22:09.440 --> 00:22:09.760] WESLEY: Wait.
+[00:22:11.600 --> 00:22:12.080] WESLEY: Computer,
+[00:22:13.440 --> 00:22:14.240] WESLEY: Rosseau Five.
+[00:22:14.560 --> 00:22:14.560] SALIA: It's
+[00:22:21.120 --> 00:22:21.920] SALIA: breathtaking!
+[00:22:23.040 --> 00:22:23.360] WESLEY: Yes.
+[00:22:24.240 --> 00:22:25.600] SALIA: And you've been to this place?
+[00:22:27.520 --> 00:22:29.360] WESLEY: Someday, you'll visit Rosseau Five,
+[00:22:29.986 --> 00:22:32.786] WESLEY: and many other places, all more spectacular.
+[00:22:32.786 --> 00:22:35.186] SALIA: If only it were possible.
+[00:22:37.586 --> 00:22:37.826] WESLEY: Listen.
+[00:22:41.826 --> 00:22:42.226] SALIA: What is it?
+[00:22:43.186 --> 00:22:43.666] WESLEY: In a moment,
+[00:22:44.306 --> 00:22:45.666] WESLEY: the harmonic resonance
+[00:22:45.666 --> 00:22:47.266] WESLEY: from the neutrino clouds
+[00:22:47.906 --> 00:22:48.866] WESLEY: will become synchronous.
+[00:22:55.746 --> 00:22:56.226] SALIA: It's so beautiful!
+[00:22:56.466 --> 00:22:56.626] SALIA: It's
+[00:22:58.386 --> 00:22:59.506] SALIA: like this place has a voice
+[00:23:00.546 --> 00:23:01.746] SALIA: and is trying to speak to us.
+[00:23:04.626 --> 00:23:06.066] SALIA: Thank you for sharing all of this with me.
+[00:23:07.586 --> 00:23:10.066] WESLEY: Someday, you'll see it all for yourself.
+[00:23:11.426 --> 00:23:11.826] WESLEY: Look over there.
+[00:23:26.066 --> 00:23:26.626] WORF: Remain here.
+[00:23:27.666 --> 00:23:30.626] WORF: You are restricted to these quarters for the remainder of this voyage.
+[00:23:30.626 --> 00:23:32.546] ANYA: You are the protector of this ship, are you not?
+[00:23:33.666 --> 00:23:34.946] WORF: I am in charge of Security.
+[00:23:36.546 --> 00:23:38.546] ANYA: You must understand my duties as well.
+[00:23:39.586 --> 00:23:42.546] ANYA: If you confine me to this cell, I cannot protect Salia.
+[00:23:43.186 --> 00:23:45.186] WORF: There is no need for concern.
+[00:23:45.426 --> 00:23:46.786] WORF: She is safe on this ship.
+[00:23:47.266 --> 00:23:50.546] ANYA: You must understand that I cannot make such an assumption.
+[00:23:51.026 --> 00:23:52.226] WORF: You no longer have the choice.
+[00:23:52.226 --> 00:23:52.306] WORF: You
+[00:23:54.706 --> 00:23:56.146] WORF: have to trust me to protect her.
+[00:23:56.306 --> 00:23:56.626] ANYA: No.
+[00:23:57.746 --> 00:24:00.546] ANYA: A true protector cannot have two charges.
+[00:24:00.786 --> 00:24:02.466] ANYA: Your responsibility is to the ship.
+[00:24:03.094 --> 00:24:04.134] ANYA: My duty is to Salia.
+[00:24:04.934 --> 00:24:08.134] WORF: My responsibility to the ship includes protecting Salia.
+[00:24:08.134 --> 00:24:08.294] ANYA: You
+[00:24:10.054 --> 00:24:11.494] ANYA: know I'm stronger than you.
+[00:24:14.054 --> 00:24:15.014] WORF: I was unprepared.
+[00:24:15.894 --> 00:24:18.054] ANYA: You underestimated me in your Sickbay.
+[00:24:19.014 --> 00:24:20.454] ANYA: That is usually fatal.
+[00:24:22.294 --> 00:24:26.054] WORF: Still, you are here, confined to your room.
+[00:24:26.214 --> 00:24:30.054] ANYA: I ceased my struggle by choice, not because of you or your Captain.
+[00:24:30.214 --> 00:24:33.094] WORF: I would have stopped you. If not me, someone else.
+[00:24:33.894 --> 00:24:36.694] ANYA: No, you cannot control me.
+[00:24:39.414 --> 00:24:39.894] WORF: We will see.
+[00:24:48.454 --> 00:24:50.854] PICARD: We've obviously brought a very dangerous life form aboard this ship.
+[00:24:51.334 --> 00:24:53.414] PICARD: I want to minimize the chances of any incident.
+[00:24:54.134 --> 00:24:58.694] TROI: Whatever kind of life form Anya is, emotionally she's Salia's mother.
+[00:25:00.614 --> 00:25:04.614] PICARD: The most dangerous animal is a mother protecting her young.
+[00:25:05.014 --> 00:25:05.574] TROI: Exactly.
+[00:25:05.574 --> 00:25:06.134] ANYA: Captain,
+[00:25:06.534 --> 00:25:07.014] ANYA: this is Anya.
+[00:25:08.054 --> 00:25:08.374] PICARD: Yes?
+[00:25:08.694 --> 00:25:09.654] ANYA: Salia is gone.
+[00:25:10.214 --> 00:25:10.774] ANYA: Where is she?
+[00:25:12.054 --> 00:25:13.574] SALIA: This has all been so wonderful.
+[00:25:14.214 --> 00:25:15.654] SALIA: I'm not even sure it's real.
+[00:25:16.614 --> 00:25:18.934] WESLEY: Believe me, Ten Forward isn't an illusion.
+[00:25:19.494 --> 00:25:20.054] SALIA: Not that.
+[00:25:21.254 --> 00:25:22.214] SALIA: I mean the way I feel.
+[00:25:25.574 --> 00:25:27.814] GUINAN: You won't find a better dish of chocolate anywhere.
+[00:25:29.259 --> 00:25:29.339] SALIA: I'm
+[00:25:32.459 --> 00:25:33.019] SALIA: sure I won't.
+[00:25:33.169 --> 00:25:33.769] WESLEY: Is
+[00:25:36.939 --> 00:25:37.499] WESLEY: something wrong?
+[00:25:40.539 --> 00:25:42.379] SALIA: I've had a great time being with you, Wesley.
+[00:25:43.739 --> 00:25:44.539] WESLEY: And that makes you sad?
+[00:25:48.939 --> 00:25:53.499] SALIA: When I was on Klavdia Three, all I could think of was leaving that isolation.
+[00:25:55.339 --> 00:25:59.419] SALIA: What makes me sad is having to face it again after seeing what else is possible.
+[00:26:00.699 --> 00:26:02.059] WESLEY: Is that what awaits you on Daled Four?
+[00:26:02.939 --> 00:26:03.579] WESLEY: Isolation?
+[00:26:05.579 --> 00:26:05.899] SALIA: Yes.
+[00:26:08.459 --> 00:26:11.899] WESLEY: I thought you were going there to reunite two warring parties.
+[00:26:13.099 --> 00:26:13.899] SALIA: What else do you know?
+[00:26:15.819 --> 00:26:16.539] WESLEY: Very little.
+[00:26:17.339 --> 00:26:19.259] WESLEY: The ship's computer doesn't have that much on Daled Four.
+[00:26:20.379 --> 00:26:21.179] WESLEY: How will you stop the fighting?
+[00:26:22.219 --> 00:26:23.019] SALIA: I'm not certain.
+[00:26:24.299 --> 00:26:26.939] SALIA: I only know I will have many responsibilities when I get there.
+[00:26:27.819 --> 00:26:30.139] SALIA: Your language has no word for the position I'll hold.
+[00:26:31.819 --> 00:26:34.699] SALIA: In many ways I'll have even less freedom than I did on Klavdia Three.
+[00:26:41.579 --> 00:26:44.059] WESLEY: You could stay.
+[00:26:45.899 --> 00:26:46.779] SALIA: On the Enterprise?
+[00:26:47.739 --> 00:26:48.059] WESLEY: Why not?
+[00:26:59.659 --> 00:27:00.059] SALIA: Because I can't.
+[00:27:04.475 --> 00:27:07.595] GUINAN: Just because a girl runs out, doesn't mean she doesn't wish you to follow.
+[00:27:11.435 --> 00:27:11.835] WESLEY: What is it?
+[00:27:12.555 --> 00:27:13.195] WESLEY: What happened?
+[00:27:14.635 --> 00:27:14.971] WESLEY: Salia!
+[00:27:14.971 --> 00:27:16.315] SALIA: Stay away from me!
+[00:27:19.755 --> 00:27:22.235] SALIA: I'm sorry.
+[00:27:24.555 --> 00:27:25.515] WESLEY: I don't understand.
+[00:27:26.475 --> 00:27:27.755] SALIA: I can't stay here!
+[00:27:28.795 --> 00:27:30.155] SALIA: I can't have this life!
+[00:27:31.195 --> 00:27:33.915] SALIA: I want it more than anything, but I can't have it!
+[00:27:36.715 --> 00:27:37.995] WESLEY: Salia, nothing is impossible.
+[00:27:40.715 --> 00:27:41.115] SALIA: Not for you.
+[00:27:42.155 --> 00:27:42.875] WESLEY: There's a way.
+[00:27:43.515 --> 00:27:44.315] WESLEY: I know there is!
+[00:27:46.955 --> 00:27:47.755] ANYA: Leave her alone!
+[00:27:50.715 --> 00:27:51.835] PICARD: Ensign, step away from her.
+[00:27:54.955 --> 00:27:55.275] ANYA: Come with me.
+[00:28:30.955 --> 00:28:32.155] LAFORGE: Energy depletion level?
+[00:28:32.740 --> 00:28:33.140] COMPUTER: Zero.
+[00:28:34.580 --> 00:28:37.540] LAFORGE: La Forge to bridge.
+[00:28:37.940 --> 00:28:38.580] PICARD: Yes, Lieutenant?
+[00:28:38.820 --> 00:28:40.820] LAFORGE: I've just completed my final adjustments.
+[00:28:41.300 --> 00:28:42.260] LAFORGE: Thanks for the time.
+[00:28:42.500 --> 00:28:44.340] LAFORGE: You now have warp engines available.
+[00:28:44.660 --> 00:28:45.140] PICARD: Very good.
+[00:28:46.500 --> 00:28:48.420] PICARD: Number One, get us to Daled as quickly as possible.
+[00:28:48.660 --> 00:28:50.660] RIKER: Ensign Gibson, take us to warp eight point eight.
+[00:28:51.860 --> 00:28:53.140] GIBSON: Warp eight point eight, sir.
+[00:28:53.700 --> 00:28:55.460] RIKER: Estimated time?
+[00:28:55.460 --> 00:28:56.660] GIBSON: Three hours, nine minutes.
+[00:28:57.780 --> 00:29:01.060] PICARD: Ensign Crusher, when you're finished with your duties in Engineering, report to my Ready Room.
+[00:29:01.300 --> 00:29:01.780] WESLEY: Yes, sir.
+[00:29:02.420 --> 00:29:03.380] PICARD: You have the Bridge, Number One.
+[00:29:03.700 --> 00:29:04.020] RIKER: Aye, sir.
+[00:29:12.660 --> 00:29:16.100] PICARD: The woman, Anya, is not what she appears to be.
+[00:29:17.460 --> 00:29:19.892] PICARD: She is an allasomorph.
+[00:29:19.892 --> 00:29:20.500] WESLEY: A
+[00:29:22.180 --> 00:29:22.900] WESLEY: shape shifter?
+[00:29:24.740 --> 00:29:30.420] PICARD: Yes. She's not only a governess, she's also the girl's protector.
+[00:29:34.340 --> 00:29:40.740] PICARD: Now, I don't care to interfere in the personal relationships of those under my command,
+[00:29:44.260 --> 00:29:45.060] PICARD: but in this case.
+[00:29:47.140 --> 00:29:48.580] WESLEY: You want me to stay away from Salia?
+[00:29:48.740 --> 00:29:52.100] PICARD: Yes, I do. For the good of the ship and the safety of everyone on board.
+[00:30:05.380 --> 00:30:06.260] WESLEY: I will do as you ask.
+[00:30:18.148 --> 00:30:19.828] SALIA: Why won't you let me have a friend?
+[00:30:21.108 --> 00:30:23.188] ANYA: It is my duty to protect you from danger.
+[00:30:23.188 --> 00:30:24.868] SALIA: There's no danger here.
+[00:30:25.588 --> 00:30:28.228] ANYA: There is always danger from one who is not your kind.
+[00:30:29.188 --> 00:30:30.628] ANYA: Salia, he's confusing you.
+[00:30:31.268 --> 00:30:33.348] ANYA: You're forgetting you responsibilities.
+[00:30:33.988 --> 00:30:37.108] SALIA: Whether or not I see Wesley is for me to decide.
+[00:30:37.588 --> 00:30:38.308] ANYA: It is not!
+[00:30:39.748 --> 00:30:40.788] ANYA: I raised you,
+[00:30:40.868 --> 00:30:44.628] ANYA: I protected you and I intend to deliver you to Daled Four!
+[00:30:44.868 --> 00:30:47.028] SALIA: Maybe what you want doesn't matter any more.
+[00:30:49.428 --> 00:30:50.868] ANYA: Salia, please.
+[00:30:51.988 --> 00:30:53.508] ANYA: I know it's difficult for you.
+[00:30:55.028 --> 00:30:57.428] ANYA: But you must do what you are destined to do.
+[00:31:07.668 --> 00:31:08.388] PICARD: Standard orbit.
+[00:31:08.788 --> 00:31:09.188] GIBSON: Aye, sir.
+[00:31:18.228 --> 00:31:21.028] PICARD: Hailing frequencies, Mister Worf.
+[00:31:23.028 --> 00:31:26.388] WORF: Captain, I am encountering the same interference we experienced on Klavdia Three.
+[00:31:26.468 --> 00:31:29.748] DATA: The troposphere appears to be distorting our signals.
+[00:31:30.388 --> 00:31:31.508] DATA: It is fascinating, Captain.
+[00:31:32.148 --> 00:31:35.828] DATA: Klavdia Three and Daled Four have almost identical atmospheres.
+[00:31:36.308 --> 00:31:36.708] PICARD: Magnify.
+[00:31:37.668 --> 00:31:38.228] PICARD: Times twenty.
+[00:31:46.331 --> 00:31:50.011] RIKER: How could anyone exist in an environment so totally hostile toward human life?
+[00:31:51.051 --> 00:31:51.211] PICARD: Mister
+[00:31:51.211 --> 00:31:53.691] PICARD: Data, do whatever is necessary to override the interference.
+[00:31:53.691 --> 00:31:54.651] PICARD: Let's complete our mission.
+[00:32:01.211 --> 00:32:01.611] WESLEY: Come in.
+[00:32:05.931 --> 00:32:06.331] WESLEY: Salia!
+[00:32:08.091 --> 00:32:08.891] WESLEY: You shouldn't have come.
+[00:32:09.451 --> 00:32:10.171] SALIA: Do you want me to leave?
+[00:32:10.971 --> 00:32:11.451] WESLEY: I didn't say that.
+[00:32:11.931 --> 00:32:12.651] SALIA: Then you want me to stay.
+[00:32:13.691 --> 00:32:14.491] WESLEY: Does Anya know you're here?
+[00:32:14.811 --> 00:32:15.371] SALIA: That doesn't matter.
+[00:32:17.371 --> 00:32:18.091] WESLEY: I'm glad you came.
+[00:32:19.131 --> 00:32:20.331] WESLEY: I thought Anya would have kept you with her.
+[00:32:20.811 --> 00:32:21.611] SALIA: I have certain rights.
+[00:32:22.571 --> 00:32:23.691] WESLEY: So in other words, you slipped out.
+[00:32:24.171 --> 00:32:25.131] SALIA: While she was asleep.
+[00:32:26.411 --> 00:32:28.811] SALIA: I hope you didn't get in trouble from your Captain.
+[00:32:29.611 --> 00:32:30.891] WESLEY: Oh, I haven't got in trouble yet.
+[00:32:32.251 --> 00:32:33.851] SALIA: Anya thought you would corrupt me.
+[00:32:33.851 --> 00:32:35.451] WESLEY: With my wild way of life?
+[00:32:37.291 --> 00:32:37.771] SALIA: Maybe.
+[00:32:40.491 --> 00:32:44.491] SALIA: With the normal things people do when they like each other.
+[00:32:44.491 --> 00:32:44.491] SALIA: Wesley, get out of here now.
+[00:32:44.491 --> 00:32:44.571] WESLEY: What's going on?
+[00:32:44.571 --> 00:32:45.131] SALIA: Just go, please.
+[00:32:45.131 --> 00:32:45.131] WESLEY: Security, crew quarters!
+[00:32:45.281 --> 00:32:45.881] SALIA: No!
+[00:32:58.854 --> 00:32:59.854] SALIA: Anya, No!
+[00:33:26.151 --> 00:33:27.591] ANYA: You should not have disobeyed me.
+[00:33:27.831 --> 00:33:28.791] SALIA: I had to.
+[00:33:30.791 --> 00:33:31.991] ANYA: I warned you to leave her
+[00:33:37.031 --> 00:33:39.031] ANYA: alone.
+[00:33:40.551 --> 00:33:43.431] LOG: Captain's log, stardate 42568.8.
+[00:33:43.751 --> 00:33:55.111] LOG: Since Anya's powers of transformation apparently gave her the ability to escape her guards unnoticed, we have sealed her quarters with a forcefield that will contain her no matter how small a form she may take.
+[00:33:55.351 --> 00:33:57.111] WORF: Captain, I'm receiving an audio signal.
+[00:33:58.071 --> 00:33:58.711] PICARD: Audio on.
+[00:33:59.271 --> 00:34:00.231] VOICE: Come in Enterprise.
+[00:34:00.551 --> 00:34:02.711] VOICE: This is Command Headquarters of Daled Four.
+[00:34:03.031 --> 00:34:04.231] VOICE: We have been expecting you.
+[00:34:04.231 --> 00:34:04.471] DATA: Sir,
+[00:34:04.471 --> 00:34:08.231] DATA: sensors indicate the communication originated from a terawatt source on the planet.
+[00:34:09.191 --> 00:34:11.191] RIKER: That's more power than our entire ship can generate.
+[00:34:12.311 --> 00:34:14.725] DATA: It is what is needed to penetrate the atmosphere.
+[00:34:14.725 --> 00:34:16.871] RIKER: Which means we lack the ability to respond,
+[00:34:18.231 --> 00:34:18.507] RIKER: sir.
+[00:34:18.507 --> 00:34:21.271] WORF: Sir, there are beam-down coordinates encoded within the carrier signal.
+[00:34:23.511 --> 00:34:23.991] PICARD: Splendid.
+[00:34:24.711 --> 00:34:25.991] RIKER: I'll arrange for our guests to beam down.
+[00:34:30.871 --> 00:34:31.831] WORF: Forcefield off.
+[00:34:35.911 --> 00:34:36.311] SALIA: Come in.
+[00:34:38.773 --> 00:34:39.493] WORF: We have arrived.
+[00:34:41.013 --> 00:34:42.773] ANYA: Salia will be with you in just a moment.
+[00:34:48.213 --> 00:34:48.933] SALIA: You're not going?
+[00:34:49.973 --> 00:34:50.213] ANYA: No.
+[00:34:52.693 --> 00:34:54.213] ANYA: My duties have been completed.
+[00:34:55.173 --> 00:34:56.453] ANYA: I have done all that I could.
+[00:34:58.693 --> 00:34:59.493] ANYA: I hope it was enough.
+[00:35:01.653 --> 00:35:04.213] SALIA: You've raised me well, and I thank you for that.
+[00:35:05.813 --> 00:35:07.013] ANYA: I would not have harmed the boy,
+[00:35:08.693 --> 00:35:09.893] ANYA: I only wanted to frighten him.
+[00:35:11.973 --> 00:35:12.213] SALIA: I know.
+[00:35:15.413 --> 00:35:17.893] ANYA: You are ready for what awaits you and you will do well.
+[00:35:19.253 --> 00:35:24.293] ANYA: I know that I have been hard on you, but I wanted to prepare you for anything you might be required to do.
+[00:35:25.573 --> 00:35:27.333] SALIA: Will I ever be able to leave Daled Four?
+[00:35:29.253 --> 00:35:29.733] ANYA: Probably not.
+[00:35:31.893 --> 00:35:33.093] ANYA: But anything is possible.
+[00:35:35.093 --> 00:35:35.973] SALIA: That's what Wes said.
+[00:35:37.733 --> 00:35:38.373] ANYA: I hope he's right.
+[00:35:40.853 --> 00:35:41.333] SALIA: Where will you go?
+[00:35:42.053 --> 00:35:44.453] ANYA: The third moon is within range of this ship's transporter,
+[00:35:44.453 --> 00:35:45.013] ANYA: I shall go there.
+[00:35:46.933 --> 00:35:48.373] ANYA: It was my home before we went away.
+[00:35:49.173 --> 00:35:51.573] SALIA: I'm going to miss you.
+[00:35:54.853 --> 00:35:56.533] ANYA: I know.
+[00:36:16.940 --> 00:36:17.660] SALIA: I am ready now.
+[00:36:26.060 --> 00:36:28.300] WORF: I will escort you to transporter room six.
+[00:36:32.780 --> 00:36:34.060] ANYA: You will be happy to see me leave.
+[00:36:35.500 --> 00:36:37.980] WORF: No. You are a worthy opponent.
+[00:36:38.620 --> 00:36:39.100] ANYA: Thank you.
+[00:36:40.300 --> 00:36:41.660] ANYA: At heart, we are very much alike.
+[00:36:43.740 --> 00:36:45.100] WORF: Yes, we are.
+[00:36:46.300 --> 00:36:47.660] ANYA: Perhaps we shall fight again.
+[00:36:49.180 --> 00:36:50.060] ANYA: On the same side.
+[00:36:52.220 --> 00:36:53.100] WORF: It would be an honour.
+[00:36:54.540 --> 00:36:55.100] WORF: Shall we go?
+[00:37:03.100 --> 00:37:05.100] WESLEY: Come in.
+[00:37:11.660 --> 00:37:12.780] SALIA: Wesley, I have to go now.
+[00:37:16.700 --> 00:37:17.260] WESLEY: Was it fun?
+[00:37:19.180 --> 00:37:19.740] SALIA: What do you mean?
+[00:37:22.940 --> 00:37:23.820] WESLEY: Playing humanoid.
+[00:37:23.820 --> 00:37:24.940] WESLEY: Was it fun?
+[00:37:26.460 --> 00:37:27.260] SALIA: Wesley, look at me.
+[00:37:28.700 --> 00:37:33.180] SALIA: Right now, this minute, this is what I am. A humanoid girl.
+[00:37:34.609 --> 00:37:35.249] WESLEY: What are you really?
+[00:37:37.009 --> 00:37:37.569] SALIA: Does it matter?
+[00:37:38.689 --> 00:37:39.089] WESLEY: Yes.
+[00:37:41.569 --> 00:37:44.049] SALIA: Our natural state is one unlike anything you can imagine.
+[00:37:45.489 --> 00:37:46.929] WESLEY: So you took this form for our benefit?
+[00:37:49.169 --> 00:37:50.849] WESLEY: That's why you wanted to know what species we are.
+[00:37:52.529 --> 00:37:53.649] SALIA: I'm sorry I hurt you.
+[00:37:54.289 --> 00:37:54.929] SALIA: I didn't mean
+[00:37:59.169 --> 00:37:59.249] SALIA: to.
+[00:37:59.249 --> 00:37:59.649] WESLEY: I loved you.
+[00:38:00.609 --> 00:38:01.649] SALIA: I love you, too.
+[00:38:03.569 --> 00:38:04.049] WESLEY: Can you?
+[00:38:05.409 --> 00:38:05.969] SALIA: Yes,
+[00:38:06.209 --> 00:38:07.089] SALIA: oh yes.
+[00:38:07.169 --> 00:38:10.049] SALIA: I have the same feelings, the same emotions as you.
+[00:38:10.289 --> 00:38:11.409] SALIA: You must believe me.
+[00:38:15.569 --> 00:38:15.889] WESLEY: Please go.
+[00:38:18.449 --> 00:38:18.769] SALIA: Wesley,
+[00:38:19.649 --> 00:38:21.249] SALIA: let's not say goodbye like this.
+[00:38:44.609 --> 00:38:46.529] RIKER: Prepare to beam Salia to the specified coordinates.
+[00:38:46.529 --> 00:38:46.849] O'BRIEN: Aye, sir.
+[00:38:48.049 --> 00:38:50.369] SALIA: Our world is grateful for the courtesy which you have extended us.
+[00:38:51.249 --> 00:38:54.289] RIKER: I hope some day that the Federation and Daled Four will have formal contact.
+[00:38:54.529 --> 00:38:55.569] SALIA: That is my wish as well.
+[00:38:56.209 --> 00:38:57.169] O'BRIEN: Coordinates have been input, sir.
+[00:38:57.649 --> 00:38:58.129] RIKER: Proceed.
+[00:39:03.043 --> 00:39:03.283] WESLEY: Wait.
+[00:39:03.433 --> 00:39:04.033] WESLEY: A
+[00:39:11.763 --> 00:39:12.483] WESLEY: taste to remember
+[00:39:18.483 --> 00:39:18.483] WESLEY: me by.
+[00:39:18.483 --> 00:39:20.163] SALIA: I wish there were something I could give you.
+[00:39:22.243 --> 00:39:22.723] WESLEY: You already have.
+[00:39:24.083 --> 00:39:25.523] SALIA: I'm glad you came to say goodbye.
+[00:39:27.043 --> 00:39:28.723] SALIA: Thank you, for everything.
+[00:39:29.603 --> 00:39:29.683] SALIA: I
+[00:39:32.483 --> 00:39:33.523] SALIA: want you to leave now.
+[00:39:35.443 --> 00:39:35.683] WESLEY: Why?
+[00:39:36.723 --> 00:39:41.123] SALIA: I cannot arrive on my planet in this form, and I want you to remember me as I am now.
+[00:39:43.443 --> 00:39:44.643] WESLEY: Don't' worry, I will.
+[00:40:16.083 --> 00:40:16.083] WESLEY: Energise.
+[00:41:01.985 --> 00:41:06.385] WESLEY: Seeing her on the transporter pad, it was like seeing pure light.
+[00:41:11.825 --> 00:41:12.225] WESLEY: I miss her.
+[00:41:15.105 --> 00:41:17.345] WESLEY: I feel empty.
+[00:41:21.505 --> 00:41:24.545] GUINAN: I know that sensation.
+[00:41:27.025 --> 00:41:32.145] GUINAN: But there'll come a time when all you remember is the love.
+[00:41:35.825 --> 00:41:37.985] WESLEY: I'm never going to feel this way about anyone else.
+[00:41:41.985 --> 00:41:42.465] GUINAN: You're right.
+[00:41:47.105 --> 00:41:47.985] WESLEY: I didn't expect you to say
+[00:41:51.265 --> 00:41:51.265] WESLEY: that.
+[00:41:51.265 --> 00:41:52.065] GUINAN: There'll be others,
+[00:41:52.065 --> 00:41:56.785] GUINAN: but every time you feel love it'll will be different.
+[00:41:58.305 --> 00:41:59.505] GUINAN: Every time, it's different.
+[00:42:05.628 --> 00:42:06.988] WESLEY: Knowing that doesn't make it any easier.
+[00:42:10.348 --> 00:42:11.388] GUINAN: It's not supposed to.
+[00:43:09.000 --> 00:43:17.000] [music]
+[00:43:27.000 --> 00:43:36.000] [music]

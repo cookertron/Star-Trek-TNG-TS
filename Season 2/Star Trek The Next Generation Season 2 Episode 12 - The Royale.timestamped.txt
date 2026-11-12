@@ -1,0 +1,731 @@
+[00:00:02.320 --> 00:00:05.840] LOG: Captain's log, stardate 42625.4, We're
+[00:00:06.800 --> 00:00:12.480] LOG: entering orbit around the eighth planet in this previously unmapped Theta One Sixteen solar system.
+[00:00:13.280 --> 00:00:21.520] LOG: We diverted from our scheduled course when a passing Klingon cruiser reported discovering pieces of a strange vessel in the upper atmosphere of this planet.
+[00:00:22.400 --> 00:00:23.440] LOG: We have come to investigate.
+[00:00:24.560 --> 00:00:25.120] LAFORGE: Nasty.
+[00:00:25.920 --> 00:00:29.120] LAFORGE: Nitrogen, methane, liquid neon.
+[00:00:29.360 --> 00:00:32.720] LAFORGE: Surface temperature minus two hundred and ninety one degrees Celsius.
+[00:00:33.200 --> 00:00:36.240] LAFORGE: Winds up to three hundred and twelve metres per second.
+[00:00:37.360 --> 00:00:38.880] RIKER: Not exactly a vacation planet, eh?
+[00:00:40.160 --> 00:00:41.760] LAFORGE: Not unless you like ammonia tornadoes.
+[00:00:42.960 --> 00:00:46.240] LAFORGE: But I have found indications of debris in an elliptical orbit.
+[00:00:46.960 --> 00:00:47.840] RIKER: Keep me informed.
+[00:00:48.480 --> 00:00:51.440] RIKER: The sooner we find out what the Klingons think they saw, the sooner we can get the hell out of here.
+[00:00:52.000 --> 00:00:52.800] LAFORGE: Sounds good to me.
+[00:00:57.840 --> 00:00:58.400] LAFORGE: Nasty.
+[00:01:00.640 --> 00:01:00.960] PICARD: Come.
+[00:01:06.400 --> 00:01:07.600] PICARD: Fermat's last theorem.
+[00:01:08.000 --> 00:01:08.640] PICARD: You're familiar with it?
+[00:01:09.520 --> 00:01:10.000] RIKER: Vaguely.
+[00:01:10.880 --> 00:01:13.520] RIKER: I spent too many math classes daydreaming about being on a starship.
+[00:01:13.760 --> 00:01:26.480] PICARD: When Pierre de Fermat died they found this equation scrawled in the margin of his notes. X to the nth plus Y to the nth equals Z to the nth, where n is greater than 2, which he said had no solution in whole numbers.
+[00:01:26.880 --> 00:01:30.800] PICARD: But he also added this phrase. Remarkable
+[00:01:31.356 --> 00:01:31.676] PICARD: proof.
+[00:01:31.996 --> 00:01:33.116] RIKER: Yeah, that's starting to come back to me.
+[00:01:33.116 --> 00:01:34.636] RIKER: There was no proof included.
+[00:01:34.956 --> 00:01:38.659] PICARD: For the eight hundred years people have been trying to solve it.
+[00:01:38.659 --> 00:01:39.276] RIKER: Including you.
+[00:01:39.996 --> 00:01:40.956] PICARD: I find it stimulating.
+[00:01:41.916 --> 00:01:43.436] PICARD: Also, it puts things in perspective.
+[00:01:44.476 --> 00:01:55.516] PICARD: In our arrogance we feel we are so advanced, and yet we cannot unravel a simple knot tied by a part-time French mathematician working alone, without a computer.
+[00:01:57.676 --> 00:01:59.916] RIKER: Captain, we've detected some sort of debris in a loose orbit.
+[00:02:00.636 --> 00:02:01.489] PICARD: Can you identify it?
+[00:02:01.489 --> 00:02:01.916] RIKER: No, sir.
+[00:02:02.316 --> 00:02:04.396] RIKER: I suggest we beam a section aboard for analysis.
+[00:02:04.556 --> 00:02:05.436] PICARD: Make it so, Number One.
+[00:02:16.556 --> 00:02:18.236] RIKER: We've locked onto something with markings on it.
+[00:02:18.716 --> 00:02:19.516] PICARD: What sort of markings?
+[00:02:19.516 --> 00:02:19.996] RIKER: Uncertain.
+[00:02:20.316 --> 00:02:20.876] RIKER: Energise.
+[00:02:45.836 --> 00:02:47.516] PICARD: We've got ourselves a puzzle, Number One.
+[00:02:48.556 --> 00:02:49.836] RIKER: Yes sir. I think we have.
+[00:03:15.920 --> 00:03:18.640] PICARD: Space, the final frontier.
+[00:03:20.560 --> 00:03:23.440] PICARD: These are the voyages of the starship Enterprise.
+[00:03:24.560 --> 00:03:32.880] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:34.480 --> 00:03:37.360] PICARD: to boldly go where no one has gone before.
+[00:04:04.000 --> 00:04:15.000] [music]
+[00:04:36.443 --> 00:04:42.043] DATA: Analysis bears out that the object was definitely terrestrial in origin, dated mid twenty first century.
+[00:04:42.283 --> 00:04:43.563] PICARD: No, no. No
+[00:04:43.643 --> 00:04:46.283] PICARD: Earth ship of that time could have travelled out this far.
+[00:04:46.923 --> 00:04:51.963] DATA: Nevertheless, that is what our tests indicate. And the markings we discovered are consistent with this hypothesis.
+[00:04:52.843 --> 00:04:54.603] TROI: Any indication of what destroyed it, Data?
+[00:04:55.723 --> 00:04:58.123] DATA: That is even more significant than the object itself, Counsellor.
+[00:04:58.683 --> 00:05:01.723] DATA: On several of its surfaces, the molecules seem to have disintegrated
+[00:05:02.523 --> 00:05:03.243] RIKER: Disintegrated?
+[00:05:03.323 --> 00:05:03.563] RIKER: How?
+[00:05:04.523 --> 00:05:06.683] DATA: Almost as if they were hit by a weapon from our time.
+[00:05:08.203 --> 00:05:10.443] PICARD: Curiouser and curiouser.
+[00:05:10.763 --> 00:05:13.563] WESLEY: Captain, we've detected a large structure on the planet.
+[00:05:18.123 --> 00:05:24.603] WESLEY: It's a building of some sort, situated on a plain of frozen methane, smack in the middle of a tremendous storm belt.
+[00:05:25.563 --> 00:05:26.283] RIKER: I don't believe this.
+[00:05:26.283 --> 00:05:28.123] RIKER: That structure is surrounded by breathable air.
+[00:05:28.523 --> 00:05:31.483] PICARD: Is there any connection between that structure and the ship fragment we found?
+[00:05:31.963 --> 00:05:32.523] LAFORGE: Unknown, sir.
+[00:05:34.363 --> 00:05:34.923] PICARD: Suggestions?
+[00:05:35.643 --> 00:05:36.123] RIKER: Just one,
+[00:05:36.123 --> 00:05:37.323] RIKER: sir. We could go down there and have a look.
+[00:05:38.283 --> 00:05:38.843] PICARD: Breathable air.
+[00:05:39.643 --> 00:05:41.403] PICARD: No life forms that might be dangerous.
+[00:05:41.403 --> 00:05:44.283] PICARD: I think we could risk a minimal away team, Number One.
+[00:05:46.923 --> 00:05:47.643] O'BRIEN: Give me a moment, gents.
+[00:05:47.643 --> 00:05:49.563] O'BRIEN: We're dealing with an extremely narrow access point.
+[00:05:52.923 --> 00:05:53.403] RIKER: Phasers on
+[00:05:53.483 --> 00:05:53.723] RIKER: stun.
+[00:05:56.603 --> 00:05:57.243] RIKER: Ready when you are.
+[00:05:58.763 --> 00:05:59.483] O'BRIEN: I believe we've got it now.
+[00:06:00.604 --> 00:06:01.484] O'BRIEN: You have a green light, Commander.
+[00:06:02.044 --> 00:06:02.604] RIKER: Energise.
+[00:06:20.364 --> 00:06:22.444] DATA: Those ammonia storms are less than a kilometre away,
+[00:06:23.164 --> 00:06:25.658] DATA: yet they do not appear to penetrate this breathable zone.
+[00:06:25.658 --> 00:06:27.404] RIKER: It's like the eye of a hurricane.
+[00:06:27.724 --> 00:06:29.804] WORF: Commander, what is that?
+[00:06:36.524 --> 00:06:36.524] RIKER: A
+[00:06:39.564 --> 00:06:39.804] RIKER: door.
+[00:06:39.954 --> 00:06:40.554] DATA: The
+[00:06:43.484 --> 00:06:46.844] DATA: structure must be here, yet we cannot see it.
+[00:06:50.044 --> 00:06:52.284] RIKER: Enterprise, this is Commander Riker.
+[00:06:52.924 --> 00:06:55.324] RIKER: As your read out shows, this is an unusual place.
+[00:06:55.964 --> 00:06:58.844] RIKER: Completely calm, no sound, no movement,
+[00:06:59.804 --> 00:07:01.964] RIKER: yet a few hundred metres away a storm is raging.
+[00:07:02.844 --> 00:07:04.284] PICARD: Any information about the structure.
+[00:07:04.844 --> 00:07:05.244] RIKER: Yes, sir.
+[00:07:05.644 --> 00:07:07.244] RIKER: There is an antique revolving door.
+[00:07:07.244 --> 00:07:07.884] RIKER: It could be an entrance.
+[00:07:08.034 --> 00:07:08.634] PICARD: A
+[00:07:09.644 --> 00:07:10.444] PICARD: revolving door?
+[00:07:12.044 --> 00:07:13.564] PICARD: Number One, proceed with caution.
+[00:07:14.124 --> 00:07:14.444] RIKER: Yes, sir.
+[00:07:16.604 --> 00:07:17.884] RIKER: Well, this is what we came here for.
+[00:07:19.164 --> 00:07:19.884] RIKER: Captain, we're entering.
+[00:07:57.966 --> 00:08:01.006] PICARD: Enterprise to away team, come in.
+[00:08:02.526 --> 00:08:04.366] LAFORGE: We're receiving no signal at all from them, sir.
+[00:08:06.446 --> 00:08:08.766] PICARD: Transporter room. lock on to the landing party. Beam them up.
+[00:08:10.206 --> 00:08:11.726] LAFORGE: We've got nothing to lock on to, sir.
+[00:08:13.246 --> 00:08:14.046] RIKER: Riker to Enterprise.
+[00:08:14.766 --> 00:08:15.646] RIKER: We've entered the structure.
+[00:08:18.046 --> 00:08:19.006] RIKER: Riker to Enterprise,
+[00:08:19.246 --> 00:08:19.486] RIKER: come in.
+[00:08:22.046 --> 00:08:22.846] RIKER: Come in, Enterprise.
+[00:08:25.086 --> 00:08:28.286] WESLEY: When they went through that antique doorway, the signal just disappeared, sir.
+[00:08:30.686 --> 00:08:31.806] PICARD: What's causing the interference?
+[00:08:33.006 --> 00:08:33.486] LAFORGE: Unknown.
+[00:08:34.766 --> 00:08:35.406] PICARD: Are they receiving us?
+[00:08:36.926 --> 00:08:37.326] LAFORGE: No.
+[00:08:38.206 --> 00:08:40.766] LAFORGE: We're going to have to recalibrate all the frequencies to find one that'll work.
+[00:08:41.566 --> 00:08:41.886] PICARD: Then do it.
+[00:08:48.846 --> 00:08:49.086] DATA: Sir,
+[00:08:49.966 --> 00:08:52.366] DATA: without communication, we should beam up immediately.
+[00:08:53.406 --> 00:08:53.806] RIKER: We're here,
+[00:08:53.886 --> 00:08:54.526] RIKER: there's no danger.
+[00:08:55.273 --> 00:08:56.153] RIKER: We'll look around then leave.
+[00:08:57.113 --> 00:08:57.913] BELLBOY: Checking in, gentlemen?
+[00:08:58.073 --> 00:08:59.113] BELLBOY: You'll have to go to the front desk.
+[00:09:00.473 --> 00:09:00.873] RIKER: Very good.
+[00:09:01.353 --> 00:09:01.993] RIKER: We'll start with that.
+[00:09:18.153 --> 00:09:18.873] CLERK: Welcome, gentlemen.
+[00:09:21.353 --> 00:09:21.833] CLERK: Have a nice trip?
+[00:09:26.233 --> 00:09:26.793] RIKER: Do you know us?
+[00:09:27.993 --> 00:09:28.873] CLERK: We've been expecting you.
+[00:09:29.833 --> 00:09:31.673] CLERK: A trio of foreign gentlemen.
+[00:09:32.873 --> 00:09:34.633] RIKER: Yes. We're from the United Federation of Planets.
+[00:09:35.833 --> 00:09:36.473] CLERK: Of course you are.
+[00:09:37.593 --> 00:09:38.633] CLERK: Welcome to the Hotel Royale
+[00:09:42.793 --> 00:09:43.273] BELLBOY: Excuse me.
+[00:09:44.553 --> 00:09:45.193] BELLBOY: Did Rita call?
+[00:09:45.673 --> 00:09:46.153] CLERK: I'm busy.
+[00:09:47.033 --> 00:09:47.433] BELLBOY: You're busy?
+[00:09:48.233 --> 00:09:48.873] BELLBOY: This is my life
+[00:09:48.873 --> 00:09:49.673] BELLBOY: I'm talking about here.
+[00:09:50.313 --> 00:09:51.353] BELLBOY: Now did Rita call or not?
+[00:09:53.833 --> 00:09:54.153] CLERK: No,
+[00:09:54.953 --> 00:09:57.593] CLERK: and for your own good you'd better quit thinking about Rita.
+[00:09:58.313 --> 00:09:59.513] BELLBOY: I'm not afraid of Mickey D.
+[00:09:59.913 --> 00:10:00.473] CLERK: Then you're a fool.
+[00:10:01.273 --> 00:10:03.033] CLERK: Anybody with any sense is afraid of Mickey D.
+[00:10:04.073 --> 00:10:04.713] BELLBOY: If Rita calls,
+[00:10:05.273 --> 00:10:05.753] BELLBOY: you let me know.
+[00:10:15.833 --> 00:10:16.873] CLERK: Kid's just asking for trouble.
+[00:10:17.993 --> 00:10:21.113] CLERK: Rita's too much for him to handle, and Mickey D's going to plant his face in the pavement.
+[00:10:23.568 --> 00:10:26.128] CLERK: Now, here are your room keys.
+[00:10:32.608 --> 00:10:35.248] CLERK: And some complimentary casino chips.
+[00:10:43.168 --> 00:10:43.568] CLERK: Enjoy.
+[00:10:47.408 --> 00:10:48.288] WORF: What is this place?
+[00:10:49.408 --> 00:10:50.608] WORF: How did a being like you get here?
+[00:10:51.408 --> 00:10:53.008] CLERK: Why, this is the Royale, of course.
+[00:10:53.568 --> 00:10:55.648] CLERK: And my personal life is really none of your business,
+[00:10:55.648 --> 00:10:55.968] CLERK: thank you.
+[00:10:56.608 --> 00:10:58.208] RIKER: What he means is, what planet is this?
+[00:10:59.488 --> 00:11:00.208] CLERK: I beg your pardon?
+[00:11:01.168 --> 00:11:01.728] RIKER: This planet.
+[00:11:01.968 --> 00:11:02.528] RIKER: What do you call it?
+[00:11:03.728 --> 00:11:04.208] CLERK: Earth.
+[00:11:05.328 --> 00:11:05.968] CLERK: What do you call it?
+[00:11:07.088 --> 00:11:08.288] WORF: We call it Theta Eight.
+[00:11:10.048 --> 00:11:10.288] CLERK: How charming.
+[00:11:33.168 --> 00:11:35.168] DATA: Commander
+[00:11:35.568 --> 00:11:35.888] RIKER: Yes, Data?
+[00:11:39.008 --> 00:11:40.848] DATA: None of these people are emitting life signs.
+[00:11:42.208 --> 00:11:43.328] WORF: You mean they're not alive?
+[00:11:45.328 --> 00:11:45.888] RIKER: Then what are they?
+[00:11:58.658 --> 00:12:04.098] WORF: These beings, are they machines, or mere illusions designed to deceive us?
+[00:12:04.898 --> 00:12:05.858] DATA: Not illusion, Lieutenant.
+[00:12:06.658 --> 00:12:10.098] DATA: They do exist, but they do not register as either man or machine.
+[00:12:12.738 --> 00:12:14.018] DATA: Take this creature, for example.
+[00:12:15.458 --> 00:12:17.458] DATA: He does not exhibit any DNA structure.
+[00:12:19.058 --> 00:12:19.618] TEXAS: Excuse me, son.
+[00:12:20.818 --> 00:12:21.538] TEXAS: Look who's talking.
+[00:12:22.658 --> 00:12:24.338] TEXAS: Man, you sound just like my ex-wife.
+[00:12:26.898 --> 00:12:27.378] TEXAS: All right.
+[00:12:28.338 --> 00:12:29.698] TEXAS: Time to get back to business!
+[00:12:32.098 --> 00:12:34.578] DATA: What sort of business do you suppose he is getting down to?
+[00:12:46.098 --> 00:12:46.738] PICARD: Status report.
+[00:12:47.378 --> 00:12:49.858] WESLEY: We're attempting to employ alternate encoding schemes.
+[00:12:50.258 --> 00:12:52.418] LAFORGE: There could be hundreds of possible combinations.
+[00:12:55.218 --> 00:12:57.298] PICARD: Is there an intelligence causing this interference?
+[00:12:59.778 --> 00:13:00.738] LAFORGE: That's impossible to tell, Captain.
+[00:13:00.978 --> 00:13:01.058] PICARD: It's
+[00:13:12.498 --> 00:13:16.658] PICARD: unlike Commander Riker not to follow procedure.
+[00:13:16.658 --> 00:13:16.658] PICARD: When
+[00:13:18.578 --> 00:13:22.978] PICARD: he lost contact with the Enterprise, he should have returned immediately to the beam down coordinates.
+[00:13:23.538 --> 00:13:25.298] TROI: I don't feel he's in any danger.
+[00:13:26.488 --> 00:13:31.128] TROI: In fact, if I could choose one word to assess his mood, it would be amused.
+[00:13:33.448 --> 00:13:33.928] PICARD: Amused?
+[00:13:38.168 --> 00:13:43.288] TEXAS: Put some chips there, mister. Yes, sirree!
+[00:13:46.248 --> 00:13:47.288] TEXAS: You're new around here, aren't you?
+[00:13:47.688 --> 00:13:47.928] DATA: Yes, sir.
+[00:13:48.328 --> 00:13:48.968] TEXAS: Sit down.
+[00:13:48.968 --> 00:13:51.128] TEXAS: I'm going to teach you how this game is played, boy.
+[00:13:54.408 --> 00:13:54.968] TEXAS: Go ahead. Ante
+[00:13:56.888 --> 00:13:57.688] TEXAS: up.
+[00:13:57.688 --> 00:13:58.488] VANESSA: He
+[00:14:00.168 --> 00:14:01.528] VANESSA: wants you to cut the cards.
+[00:14:02.408 --> 00:14:02.968] DATA: Ah, is this poker?
+[00:14:03.208 --> 00:14:04.088] TEXAS: No, no, blackjack.
+[00:14:06.088 --> 00:14:06.328] DATA: Blackjack.
+[00:14:06.328 --> 00:14:07.768] DATA: Accessing. Ah.
+[00:14:07.768 --> 00:14:08.248] DATA: Also
+[00:14:11.688 --> 00:14:14.728] DATA: known as twenty one, a number which defines the object of the game.
+[00:14:15.528 --> 00:14:20.168] DATA: Picture cards are worth ten, aces one or eleven, all other cards face value.
+[00:14:21.848 --> 00:14:22.248] TEXAS: Boy, you're right.
+[00:14:22.968 --> 00:14:26.808] TEXAS: You are right.
+[00:14:28.808 --> 00:14:29.768] TEXAS: Pretty smooth.
+[00:14:31.208 --> 00:14:31.528] TEXAS: Run 'em, boy.
+[00:14:32.328 --> 00:14:33.228] TEXAS: Make 'em nice and friendly.
+[00:14:33.228 --> 00:14:33.768] VANESSA: Twenty one, twenty
+[00:14:34.328 --> 00:14:36.888] VANESSA: one.
+[00:14:39.128 --> 00:14:42.088] TEXAS: Don't look at your hand, honey.
+[00:14:42.888 --> 00:14:44.488] TEXAS: That gal has got to win.
+[00:14:45.288 --> 00:14:49.368] TEXAS: Now, honey, you got fifteen and the dealer's showing ten.
+[00:14:50.968 --> 00:14:53.208] VANESSA: Do I hit, Texas, or do I stand?
+[00:14:53.368 --> 00:14:55.448] TEXAS: If you've got to win, you've got to hit.
+[00:14:57.391 --> 00:14:57.631] VANESSA: Hit me.
+[00:14:59.631 --> 00:15:01.871] VANESSA: Damn!
+[00:15:02.031 --> 00:15:02.991] TEXAS: Shoot.
+[00:15:03.711 --> 00:15:04.351] TEXAS: Hit me.
+[00:15:06.991 --> 00:15:09.631] TEXAS: Twenty one, and a winner. Yes, sirree.
+[00:15:10.911 --> 00:15:11.231] DATA: Hit me.
+[00:15:13.471 --> 00:15:14.191] DATA: Another please.
+[00:15:14.911 --> 00:15:16.191] TEXAS: Do you think you've had about enough?
+[00:15:17.071 --> 00:15:22.831] DATA: If the objective of the game is to approach a total of twenty one points, I will definitely need another card.
+[00:15:24.031 --> 00:15:24.317] VANESSA: Yeah.
+[00:15:24.317 --> 00:15:26.031] TEXAS: Boy, you have got the brass.
+[00:15:26.351 --> 00:15:28.751] TEXAS: Do you know what the odds are on a five card charlie?
+[00:15:29.311 --> 00:15:31.071] TEXAS: Hell, you're just throwing your money away.
+[00:15:32.831 --> 00:15:33.071] DATA: Hit me.
+[00:15:35.951 --> 00:15:36.431] TEXAS: How'd you?
+[00:15:37.791 --> 00:15:38.351] TEXAS: Shut my mouth.
+[00:15:38.511 --> 00:15:38.911] TEXAS: Hey,
+[00:15:41.791 --> 00:15:44.671] TEXAS: you're not one of them card counting fellas, are you?
+[00:15:45.951 --> 00:15:48.831] DATA: The number of the cards and their values remain quite constant.
+[00:15:50.031 --> 00:15:51.311] DATA: What would be the purpose in counting them?
+[00:15:52.991 --> 00:15:53.311] VANESSA: Yeah.
+[00:15:54.111 --> 00:15:54.751] RIKER: Having fun, Data?
+[00:15:56.431 --> 00:15:56.831] DATA: Fun, sir?
+[00:15:58.191 --> 00:16:01.720] DATA: While there is a certain amount of enjoyment involved, I am mainly conducting research into
+[00:16:01.720 --> 00:16:02.191] RIKER: Save it.
+[00:16:02.591 --> 00:16:03.231] RIKER: We're getting out of here.
+[00:16:03.551 --> 00:16:04.031] DATA: Understood, sir.
+[00:16:04.191 --> 00:16:05.311] TEXAS: Guys, you're holding up the game.
+[00:16:05.791 --> 00:16:06.671] RIKER: Our apologies, sir.
+[00:16:07.871 --> 00:16:08.511] TEXAS: I'll watch your chips.
+[00:16:10.431 --> 00:16:10.831] DATA: Thank you, sir.
+[00:16:11.391 --> 00:16:11.631] TEXAS: Hey.
+[00:16:13.551 --> 00:16:13.871] TEXAS: The hat.
+[00:16:16.991 --> 00:16:17.471] DATA: Sorry, sir.
+[00:16:19.871 --> 00:16:20.271] TEXAS: Deal them up.
+[00:16:26.494 --> 00:16:26.894] PICARD: Progress?
+[00:16:27.614 --> 00:16:29.214] WESLEY: We've accessed the range of encoding scheme
+[00:16:29.214 --> 00:16:32.014] WESLEY: alternates. The difficulty is in the frequency range.
+[00:16:32.254 --> 00:16:33.694] WESLEY: The interference is highly variable.
+[00:16:34.414 --> 00:16:37.374] LAFORGE: See, the problem may be with the envelope covering the structure.
+[00:16:37.374 --> 00:16:39.774] LAFORGE: There are hydrogen-carbon helix patterns throughout.
+[00:16:40.574 --> 00:16:43.774] PICARD: Any transmissions are simply scattered and refracted at random.
+[00:16:43.774 --> 00:16:44.814] PICARD: No wonder you can't get through.
+[00:16:44.974 --> 00:16:45.454] LAFORGE: Exactly.
+[00:16:48.734 --> 00:16:51.054] PICARD: Those are some fairly aggressive computations, Lieutenant.
+[00:16:51.614 --> 00:16:54.974] LAFORGE: I'm comparing the molecular integrity of that bubble against our phasers.
+[00:16:56.414 --> 00:16:57.934] PICARD: Is penetration possible?
+[00:16:58.414 --> 00:16:59.054] LAFORGE: I don't know just yet.
+[00:16:59.054 --> 00:16:59.854] LAFORGE: It may be an option.
+[00:17:00.734 --> 00:17:01.854] LAFORGE: I'd like to run this test.
+[00:17:02.654 --> 00:17:03.054] PICARD: Make it so.
+[00:17:03.054 --> 00:17:04.494] RIKER: Let's try that again.
+[00:17:15.654 --> 00:17:17.654] RIKER: Let's
+[00:17:32.694 --> 00:17:34.694] RIKER: find
+[00:17:43.214 --> 00:17:49.014] RIKER: another way out of here.
+[00:17:49.954 --> 00:17:51.054] DATA: Excuse me.
+[00:17:56.134 --> 00:17:56.854] DATA: Excuse me.
+[00:17:56.854 --> 00:18:00.294] DATA: Aside from the main door, is there another exit I might use?
+[00:18:07.814 --> 00:18:09.814] DATA: Excuse me?
+[00:18:09.814 --> 00:18:10.054] RIKER: Excuse me.
+[00:18:14.134 --> 00:18:15.734] RIKER: Say, I was wondering if you could tell me
+[00:18:38.934 --> 00:18:41.254] RIKER: There's a good deal of structural integrity, Worf.
+[00:18:42.294 --> 00:18:43.494] WORF: Permission to use phaser, sir.
+[00:18:43.574 --> 00:18:43.894] RIKER: Granted.
+[00:19:08.934 --> 00:19:10.934] DATA: Sir, I can find no other exits.
+[00:19:11.334 --> 00:19:12.534] DATA: I believe we are trapped here.
+[00:19:18.755 --> 00:19:20.115] LOG: Captain's log, supplemental.
+[00:19:20.675 --> 00:19:25.315] LOG: We remain in orbit around Theta Eight, still out of contact with the away team.
+[00:19:26.595 --> 00:19:27.555] LAFORGE: We're almost there, Captain.
+[00:19:27.555 --> 00:19:29.635] LAFORGE: We'll be able to attempt contact in a few minutes.
+[00:19:33.315 --> 00:19:35.235] TROI: Captain, the situation down there has changed.
+[00:19:37.235 --> 00:19:37.715] PICARD: In what way?
+[00:19:38.675 --> 00:19:41.475] TROI: Commander Riker has become tense.
+[00:19:42.835 --> 00:19:44.195] TROI: Closed in, he's feeling trapped.
+[00:19:52.675 --> 00:19:54.872] WORF: Phasers are totally ineffective on all surfaces.
+[00:19:54.872 --> 00:19:56.755] DATA: Sir, our options appear quite limited.
+[00:19:56.995 --> 00:19:57.475] RIKER: We don't have any.
+[00:19:58.115 --> 00:19:58.835] RIKER: If we're going to get out of here,
+[00:19:58.835 --> 00:19:59.875] RIKER: we're going to have to do it on our own.
+[00:20:00.755 --> 00:20:01.795] RIKER: I'm going to get some answers out of that desk clerk.
+[00:20:05.235 --> 00:20:05.235] CLERK: Are
+[00:20:11.475 --> 00:20:12.222] CLERK: you crazy?
+[00:20:12.222 --> 00:20:12.595] BELLBOY: Wrong.
+[00:20:13.715 --> 00:20:15.075] BELLBOY: I'm finally getting some smarts.
+[00:20:15.395 --> 00:20:17.395] CLERK: You think you're going to scare Mickey D with that gun?
+[00:20:17.715 --> 00:20:19.315] BELLBOY: I'm going to make him leave Rita alone.
+[00:20:19.875 --> 00:20:22.755] CLERK: Kid, she's a big girl, and she's Mickey D's girl.
+[00:20:23.475 --> 00:20:24.035] BELLBOY: Not any more.
+[00:20:24.835 --> 00:20:25.795] BELLBOY: Not after tonight.
+[00:20:26.595 --> 00:20:27.155] CLERK: Look, kid.
+[00:20:27.475 --> 00:20:28.035] CLERK: I like you.
+[00:20:28.035 --> 00:20:30.755] CLERK: I don't want to see you get hurt, especially over some dame
+[00:20:31.155 --> 00:20:31.875] BELLBOY: Don't call her that.
+[00:20:33.155 --> 00:20:33.715] BELLBOY: You'll see.
+[00:20:34.435 --> 00:20:35.955] BELLBOY: You'll see how tough Mickey D is.
+[00:20:36.675 --> 00:20:37.235] BELLBOY: He's nothing.
+[00:20:37.955 --> 00:20:39.955] RIKER: I
+[00:20:43.635 --> 00:20:44.435] RIKER: want some answers.
+[00:20:44.995 --> 00:20:46.115] CLERK: I'm sure the concierge will be
+[00:20:46.115 --> 00:20:46.235] CLERK: delighted
+[00:20:46.235 --> 00:20:47.315] RIKER: We would like to get out of here. Now.
+[00:20:48.138 --> 00:20:49.658] CLERK: The Royale's exits are clearly marked.
+[00:20:50.218 --> 00:20:50.938] RIKER: That's not good enough.
+[00:20:51.658 --> 00:20:56.138] CLERK: If you have a complaint about the service you've received during your stay here, you can always take it up with the manager.
+[00:20:56.538 --> 00:20:56.858] RIKER: Fine.
+[00:20:57.098 --> 00:20:58.138] RIKER: I'd like to see him, immediately.
+[00:20:58.938 --> 00:21:00.378] CLERK: I'm afraid the manager is very busy.
+[00:21:00.528 --> 00:21:02.728] PICARD: Riker, can you read me?
+[00:21:10.298 --> 00:21:10.778] RIKER: Yes.
+[00:21:11.418 --> 00:21:14.058] RIKER: There's a good deal of interference, but you are getting through.
+[00:21:16.458 --> 00:21:18.138] PICARD: Number One, why haven't you left that building?
+[00:21:19.178 --> 00:21:19.738] RIKER: We tried, sir.
+[00:21:19.738 --> 00:21:21.018] RIKER: It seems like we're trapped here.
+[00:21:21.418 --> 00:21:22.538] RIKER: We're in no immediate danger But I am concerned.
+[00:21:22.938 --> 00:21:27.338] PICARD: Something about your location is interfering with communication.
+[00:21:27.338 --> 00:21:28.618] PICARD: We are working on the problem.
+[00:21:28.768 --> 00:21:30.168] RIKER: Standing by, sir.
+[00:21:30.698 --> 00:21:30.698] WESLEY: Captain,
+[00:21:30.698 --> 00:21:32.058] WESLEY: these frequencies are unstable.
+[00:21:32.378 --> 00:21:33.098] PICARD: Then find others.
+[00:21:33.258 --> 00:21:33.498] WESLEY: Yes, sir.
+[00:21:38.138 --> 00:21:39.178] PICARD: What is going on down there?
+[00:21:45.178 --> 00:21:47.178] DATA: Commander, I
+[00:21:49.738 --> 00:21:53.098] DATA: am picking up something most unusual in another section of this structure.
+[00:21:53.818 --> 00:21:55.178] DATA: It appears to be human DNA.
+[00:21:55.258 --> 00:21:55.498] RIKER: Where?
+[00:21:56.538 --> 00:21:59.098] DATA: Thirty one point nine metres above and to the right of us.
+[00:22:01.258 --> 00:22:02.858] WORF: Perhaps those turbolifts could take us there.
+[00:22:10.378 --> 00:22:11.738] WORF: Seems to be malfunctioning.
+[00:22:33.540 --> 00:22:37.460] DATA: The reading I received is from behind this door, sir.
+[00:22:57.220 --> 00:22:58.420] DATA: My reading is intensifying, sir.
+[00:22:58.420 --> 00:22:58.500] RIKER: Are
+[00:23:00.660 --> 00:23:01.620] RIKER: you getting any life signs?
+[00:23:02.820 --> 00:23:03.060] DATA: None, sir.
+[00:23:19.700 --> 00:23:20.340] DATA: Definitely human.
+[00:23:21.380 --> 00:23:21.700] DATA: Male.
+[00:23:22.000 --> 00:23:24.260] RIKER: Looks like the poor devil died in his sleep.
+[00:23:26.660 --> 00:23:27.780] WORF: What a terrible way to die.
+[00:23:30.340 --> 00:23:32.580] DATA: He has been dead for two hundred and eighty three years, sir.
+[00:23:33.460 --> 00:23:37.380] DATA: The lack of any advanced decomposition is due to the sterile environment.
+[00:23:38.340 --> 00:23:39.700] RIKER: Why would anyone go to all this trouble?
+[00:23:40.820 --> 00:23:42.340] RIKER: It's just window dressing for a dead man.
+[00:23:43.134 --> 00:23:43.534] WORF: Commander.
+[00:23:47.134 --> 00:23:48.174] DATA: Is this significant, sir?
+[00:23:51.134 --> 00:23:51.534] RIKER: American.
+[00:23:53.374 --> 00:23:54.174] DATA: Fifty two stars sir.
+[00:23:55.134 --> 00:23:57.934] DATA: Places it between 2033 and 2079 AD.
+[00:23:58.814 --> 00:23:59.854] DATA: It correlates with the debris we
+[00:24:02.734 --> 00:24:04.734] DATA: found.
+[00:24:05.614 --> 00:24:06.494] DATA: Colonel S.
+[00:24:06.574 --> 00:24:06.814] DATA: Richey.
+[00:24:10.334 --> 00:24:11.294] DATA: Rest in peace, Colonel.
+[00:24:14.734 --> 00:24:15.934] PICARD: Picard to Riker.
+[00:24:17.054 --> 00:24:19.054] RIKER: Finally. Riker. Go ahead.
+[00:24:19.454 --> 00:24:20.494] RIKER: You're coming through clearly now.
+[00:24:20.974 --> 00:24:21.854] PICARD: What's your situation?
+[00:24:22.734 --> 00:24:25.614] RIKER: This structure was apparently made to resemble twentieth century Earth.
+[00:24:26.174 --> 00:24:27.614] RIKER: All efforts to exit have failed.
+[00:24:28.094 --> 00:24:30.174] PICARD: We haven't found a way to transport you back yet.
+[00:24:30.654 --> 00:24:31.374] RIKER: I assumed as much,
+[00:24:31.374 --> 00:24:33.134] RIKER: sir. We've also located the remains of a human.
+[00:24:33.854 --> 00:24:34.974] RIKER: Request identity scan.
+[00:24:35.934 --> 00:24:40.174] RIKER: Colonel Richey. American. First initial S. Roughly the same time period.
+[00:24:41.134 --> 00:24:41.454] PICARD: Do it.
+[00:24:43.774 --> 00:24:44.174] WORF: Commander.
+[00:24:45.454 --> 00:24:46.334] WORF: Some curiosities.
+[00:24:48.974 --> 00:24:52.574] RIKER: Books. A novel. Hotel Royale?
+[00:24:53.294 --> 00:24:53.934] RIKER: Summarise, please.
+[00:24:58.334 --> 00:24:59.454] WESLEY: Information retrieved, Captain
+[00:25:01.694 --> 00:25:01.934] PICARD: Number One?
+[00:25:02.254 --> 00:25:03.054] RIKER: Go ahead, Captain.
+[00:25:03.454 --> 00:25:04.734] PICARD: We have the information you requested.
+[00:25:05.934 --> 00:25:15.374] PICARD: Colonel Stephen Richey was the commanding officer of the explorer ship Charybdis Which had a terrestrial launch date of July 23rd, 2037.
+[00:25:15.855 --> 00:25:20.175] PICARD: It was the third manned attempt to travel beyond the confines of the Earth's solar system.
+[00:25:20.975 --> 00:25:22.175] PICARD: Its telemetry failed.
+[00:25:22.255 --> 00:25:23.215] PICARD: It was never heard from again.
+[00:25:23.365 --> 00:25:23.965] PICARD: Do
+[00:25:25.135 --> 00:25:28.335] PICARD: you believe that you've discovered the remains of Colonel Richey?
+[00:25:28.815 --> 00:25:29.535] RIKER: Yes. And Captain,
+[00:25:29.535 --> 00:25:35.215] RIKER: We've found something else. A novel by Todd Matthews, entitled Hotel Royale, which is the name of this structure.
+[00:25:35.775 --> 00:25:35.935] RIKER: Data.
+[00:25:36.975 --> 00:25:42.815] DATA: Captain, this is the story of a group of compulsive gamblers caught up in a web of crime, corruption and deceit.
+[00:25:43.455 --> 00:25:51.215] DATA: It is told by nefarious lothario Mickey D, who appears only at the climax to carry out the cold-blooded murder of the hotel bellboy.
+[00:25:52.095 --> 00:25:56.575] DATA: There is also a subplot about an older man conspiring with a younger woman to murder her husband.
+[00:25:57.215 --> 00:25:58.895] DATA: She is squandering her inheritance.
+[00:25:59.135 --> 00:26:03.695] RIKER: Captain, this novel and everything Data just described Seems to be exactly what's happening at this hotel.
+[00:26:05.535 --> 00:26:06.335] PICARD: Extraordinary.
+[00:26:06.735 --> 00:26:08.975] RIKER: There's also one other thing, a diary with only
+[00:26:09.615 --> 00:26:10.975] RIKER: Obviously made by Colonel Richey.
+[00:26:12.015 --> 00:26:12.575] PICARD: Can you read it?
+[00:26:12.895 --> 00:26:13.215] RIKER: Yes.
+[00:26:14.495 --> 00:26:17.775] RIKER: I write this in the hope that it will someday be read by human eyes.
+[00:26:18.495 --> 00:26:26.735] RIKER: I can only surmise at this point, but apparently our exploratory shuttle was contaminated by an alien life form which infected and killed all personnel except myself.
+[00:26:27.775 --> 00:26:34.015] RIKER: I awakened to find myself here in the Royale Hotel, precisely as described in the novel I found in my room.
+[00:26:35.055 --> 00:26:38.415] RIKER: And for the last thirty eight years I have survived here.
+[00:26:39.535 --> 00:26:45.375] RIKER: I have come to understand that the alien contaminators created this place for me out of some sense of guilt,
+[00:26:46.331 --> 00:26:54.411] RIKER: presuming that the novel we had on board the shuttle about the Hotel Royale was in fact a guide to our preferred lifestyle and social habits.
+[00:26:55.691 --> 00:26:58.171] RIKER: Obviously, they thought this was the world from which I came.
+[00:26:58.891 --> 00:27:00.811] RIKER: I hold no malice toward my benefactors.
+[00:27:00.811 --> 00:27:03.291] RIKER: They could not possibly know the hell they have put me through.
+[00:27:04.251 --> 00:27:08.971] RIKER: for it was such a badly written book, filled with endless cliché and shallow characters.
+[00:27:09.931 --> 00:27:12.571] RIKER: I shall welcome death when it
+[00:27:14.251 --> 00:27:16.251] RIKER: comes.
+[00:27:16.401 --> 00:27:17.001] PICARD: I
+[00:27:19.131 --> 00:27:20.091] PICARD: understand, Number One.
+[00:27:21.691 --> 00:27:23.371] PICARD: Now we know why all that is there.
+[00:27:25.211 --> 00:27:26.171] PICARD: Why can't you get out?
+[00:27:34.811 --> 00:27:35.291] PICARD: Number One.
+[00:27:35.531 --> 00:27:35.931] RIKER: Yes, sir.
+[00:27:36.171 --> 00:27:37.771] PICARD: Lieutenant La Forge has a thought.
+[00:27:38.091 --> 00:27:42.091] PICARD: He believes we can phaser a slice in the field Surrounding the structure.
+[00:27:42.651 --> 00:27:45.051] RIKER: That means the atmosphere of the planet would instantly rush in.
+[00:27:45.531 --> 00:27:48.651] DATA: Our projected survival would be approximately twelve seconds.
+[00:27:49.051 --> 00:27:49.611] PULASKI: Correct.
+[00:27:49.931 --> 00:27:52.571] PULASKI: The cryogenic process would be nearly instantaneous.
+[00:27:53.051 --> 00:27:54.491] RIKER: But I assume you could revive us?
+[00:27:54.891 --> 00:27:55.291] PULASKI: Yes.
+[00:27:56.011 --> 00:27:56.571] PULASKI: In theory.
+[00:27:57.531 --> 00:27:58.971] PICARD: You must understand, Number One
+[00:27:59.931 --> 00:28:01.771] PICARD: We'll wait here for months if necessary.
+[00:28:01.851 --> 00:28:03.851] PICARD: We're just considering options.
+[00:28:04.571 --> 00:28:08.171] RIKER: If you're trying to motivate us to find Our own way out of here, you've succeeded, Captain.
+[00:28:26.815 --> 00:28:27.215] WORF: Yes?
+[00:28:32.095 --> 00:28:34.975] WORF: There is a female voice asking if we want room service.
+[00:28:39.135 --> 00:28:41.375] DATA: I believe she is asking if we want the room cleaned.
+[00:28:41.935 --> 00:28:42.495] RIKER: Tell her no.
+[00:28:44.015 --> 00:28:44.415] WORF: No.
+[00:28:49.535 --> 00:28:50.095] RIKER: What did she say?
+[00:28:51.375 --> 00:28:54.735] WORF: She said the kitchen will be open twenty four hours if we change our minds.
+[00:28:56.815 --> 00:28:58.255] RIKER: We're going to explore the rest of the hotel.
+[00:28:58.575 --> 00:28:59.615] RIKER: We'll keep a comm. line open.
+[00:28:59.695 --> 00:29:01.615] RIKER: You two go down to the lobby and see if there's anything that we've missed.
+[00:29:01.615 --> 00:29:02.335] RIKER: You talk to the guests and
+[00:29:02.495 --> 00:29:03.935] RIKER: try to find out who or what they are.
+[00:29:04.175 --> 00:29:05.375] RIKER: I'll check out the rest of the floors.
+[00:29:21.695 --> 00:29:28.175] PICARD: Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews.
+[00:29:29.215 --> 00:29:29.935] COMPUTER: Accessing.
+[00:29:31.855 --> 00:29:35.935] PICARD: If the cause of the difficulties is in the novel, we may find the solution within its pages.
+[00:29:38.415 --> 00:29:38.575] PICARD: Ah.
+[00:29:40.095 --> 00:29:41.775] PICARD: 'It was a dark and stormy night'.
+[00:29:43.050 --> 00:29:45.690] PICARD: It's not a promising beginning.
+[00:29:46.890 --> 00:29:47.530] TROI: It may get better.
+[00:29:57.690 --> 00:30:02.090] DATA: I suggest we separate and blend in with these beings.
+[00:30:02.330 --> 00:30:05.930] DATA: Casual queries, offered inconspicuously, may prove fruitful.
+[00:30:06.010 --> 00:30:06.090] VANESSA: I
+[00:30:10.250 --> 00:30:12.186] VANESSA: need
+[00:30:14.122 --> 00:30:16.058] VANESSA: a
+[00:30:17.994 --> 00:30:20.650] VANESSA: four. Give me a four.
+[00:30:20.810 --> 00:30:22.810] TEXAS: Oh,
+[00:30:22.810 --> 00:30:23.530] TEXAS: shoot.
+[00:30:23.930 --> 00:30:26.310] VANESSA: How much do I have left here?
+[00:30:26.310 --> 00:30:26.650] TEXAS: Honey,
+[00:30:26.650 --> 00:30:28.010] TEXAS: now you know it's bad luck to
+[00:30:28.170 --> 00:30:29.290] TEXAS: count your chips at the table.
+[00:30:29.370 --> 00:30:29.610] VANESSA: Yeah?
+[00:30:29.850 --> 00:30:30.490] DATA: Excuse me, sir.
+[00:30:31.530 --> 00:30:33.770] DATA: Might I inquire, where are you from?
+[00:30:34.490 --> 00:30:35.210] TEXAS: Lubbock, Texas.
+[00:30:36.970 --> 00:30:37.930] DATA: And how did you get here?
+[00:30:39.370 --> 00:30:39.850] TEXAS: To Vegas?
+[00:30:40.330 --> 00:30:40.970] TEXAS: Drove my car.
+[00:30:41.450 --> 00:30:44.330] TEXAS: I got a ninety one Caddy with only eighty thousand miles on it.
+[00:30:44.490 --> 00:30:45.610] DATA: Where is your automobile now?
+[00:30:46.250 --> 00:30:47.370] TEXAS: Out front, I suppose.
+[00:30:47.690 --> 00:30:49.050] TEXAS: What the hell difference does it make?
+[00:30:50.090 --> 00:30:51.050] DATA: Could you take me there?
+[00:30:51.770 --> 00:30:52.250] VANESSA: Hit me.
+[00:30:54.330 --> 00:30:55.450] VANESSA: I'm losing my shirt.
+[00:30:57.290 --> 00:30:58.730] TEXAS: Son, why would I want to do that?
+[00:30:59.690 --> 00:31:01.450] TEXAS: Can't you see I'm trying to to help this little lady?
+[00:31:01.450 --> 00:31:06.730] DATA: I believe you are trapped inside the Royale, just as I am.
+[00:31:07.690 --> 00:31:09.770] TEXAS: Sure does seem that way when you're losing, don't it?
+[00:31:10.170 --> 00:31:13.530] TEXAS: We're just trying to turn this lady's wagon around, and win back some lost change.
+[00:31:14.422 --> 00:31:17.542] TEXAS: Otherwise she's in a desperate situation and she's got nowhere to turn.
+[00:31:18.662 --> 00:31:20.502] TEXAS: Well, almost nowhere.
+[00:31:24.182 --> 00:31:25.462] VANESSA: I stay, right?
+[00:31:26.182 --> 00:31:26.582] TEXAS: I wouldn't.
+[00:31:28.982 --> 00:31:30.422] DATA: The odds favour standing pat.
+[00:31:33.622 --> 00:31:33.942] VANESSA: What do I
+[00:31:35.782 --> 00:31:37.782] VANESSA: do?
+[00:31:37.782 --> 00:31:39.222] TEXAS: Do you want a card or what?
+[00:31:42.982 --> 00:31:43.302] VANESSA: Hit me.
+[00:31:44.902 --> 00:31:46.342] VANESSA: Too many.
+[00:31:49.302 --> 00:31:50.662] VANESSA: I've almost lost it all.
+[00:31:51.542 --> 00:31:52.102] VANESSA: What am I going to do?
+[00:31:52.252 --> 00:31:53.252] TEXAS: There, there,
+[00:31:54.262 --> 00:31:54.822] TEXAS: there, there, there.
+[00:32:06.582 --> 00:32:06.982] RIKER: What did you find?
+[00:32:08.022 --> 00:32:08.262] WORD: Nothing.
+[00:32:09.062 --> 00:32:09.622] CLERK: Rita just called.
+[00:32:10.102 --> 00:32:10.422] BELLBOY: She did?
+[00:32:10.902 --> 00:32:11.382] BELLBOY: What did she say?
+[00:32:11.542 --> 00:32:12.502] CLERK: It was kind of hard to tell.
+[00:32:12.502 --> 00:32:13.462] CLERK: She was crying.
+[00:32:13.702 --> 00:32:14.022] BELLBOY: Crying?
+[00:32:14.742 --> 00:32:14.822] BELLBOY: Damn.
+[00:32:15.622 --> 00:32:17.622] BELLBOY: Mickey D thinks he can treat people any way he wants.
+[00:32:18.182 --> 00:32:19.382] BELLBOY: Well, that's all over now.
+[00:32:27.382 --> 00:32:34.022] MICKEY D: You were told.
+[00:32:38.262 --> 00:32:40.262] BELLBOY: It's
+[00:32:43.382 --> 00:32:44.422] BELLBOY: not for you to make the call.
+[00:32:45.222 --> 00:32:45.782] BELLBOY: It's for Rita.
+[00:32:47.084 --> 00:32:48.444] MICKEY D: She sent me to tell you.
+[00:32:49.564 --> 00:32:50.364] CLERK: Okay, boys. Look,
+[00:32:50.364 --> 00:32:52.124] CLERK: we can't afford to have any trouble in here.
+[00:32:52.764 --> 00:32:53.964] CLERK: Why don't you just take this outside.
+[00:32:54.844 --> 00:32:56.844] MICKEY D: Yeah, I like that.
+[00:32:57.724 --> 00:32:59.004] MICKEY D: Come on, baggage man.
+[00:32:59.804 --> 00:33:01.324] MICKEY D: Let's you and me take it outside.
+[00:33:02.524 --> 00:33:04.524] BELLBOY: When I was a kid, I used to look up to you guys.
+[00:33:04.924 --> 00:33:07.404] BELLBOY: The suit, the fancy shoes.
+[00:33:08.524 --> 00:33:12.364] BELLBOY: I really thought that made you somebody, but you're nobody.
+[00:33:13.564 --> 00:33:14.844] BELLBOY: She could make something out of her life
+[00:33:15.004 --> 00:33:16.604] TROI: I don't believe this dialogue.
+[00:33:16.684 --> 00:33:18.364] TROI: Did humans really talk like that?
+[00:33:19.244 --> 00:33:20.204] PICARD: Not in real life.
+[00:33:20.684 --> 00:33:26.124] PICARD: Remember, everything that's going on down there is taken from what Colonel Richey calls a second-rate novel.
+[00:33:26.274 --> 00:33:27.274] BELLBOY: Like Rita.
+[00:33:29.004 --> 00:33:30.444] BELLBOY: She could do something with her life.
+[00:33:31.164 --> 00:33:32.999] BELLBOY: She could be somebody if she only had the chance.
+[00:33:32.999 --> 00:33:33.733] TROI: With your permission, sir.
+[00:33:33.733 --> 00:33:34.284] MICKEY D: She is somebody.
+[00:33:34.284 --> 00:33:35.324] MICKEY D: She's my girl.
+[00:33:35.324 --> 00:33:36.204] BELLBOY: You got her on the stuff. That's
+[00:33:36.844 --> 00:33:39.724] BELLBOY: the only reason she stays with you. Because you feed her sickness.
+[00:33:40.444 --> 00:33:41.564] BELLBOY: You got to let me help her.
+[00:33:44.764 --> 00:33:46.844] MICKEY D: Well why don't we just go outside and talk about
+[00:33:48.684 --> 00:33:48.764] MICKEY D: it?
+[00:33:49.004 --> 00:33:49.804] CLERK: Just watch yourself.
+[00:33:50.924 --> 00:33:51.484] BELLBOY: Don't worry.
+[00:33:51.964 --> 00:33:51.964] RIKER: It's
+[00:33:59.084 --> 00:33:59.884] RIKER: all part of the novel.
+[00:34:00.604 --> 00:34:01.164] RIKER: Don't interfere.
+[00:34:27.900 --> 00:34:28.940] MICKEY D: You should have listened to me, kid.
+[00:34:30.540 --> 00:34:32.060] MICKEY D: No woman's worth dying for.
+[00:34:33.740 --> 00:34:34.220] MICKEY D: Killing for,
+[00:34:36.220 --> 00:34:36.700] MICKEY D: not dying
+[00:34:41.180 --> 00:34:43.180] MICKEY D: for.
+[00:34:47.036 --> 00:34:49.036] RIKER: Riker
+[00:34:52.892 --> 00:34:54.892] RIKER: to
+[00:34:57.820 --> 00:34:57.820] RIKER: Enterprise.
+[00:34:57.820 --> 00:34:58.460] PICARD: Yes, Number One.
+[00:34:59.500 --> 00:35:00.860] RIKER: A bizarre incident just took place.
+[00:35:01.740 --> 00:35:04.380] PICARD: The shoot-out between the bellboy and Mickey D.
+[00:35:05.100 --> 00:35:05.980] RIKER: Yes, and Mickey D
+[00:35:05.980 --> 00:35:06.940] RIKER: just walked out the door.
+[00:35:06.940 --> 00:35:07.580] RIKER: How did he do that?
+[00:35:10.780 --> 00:35:12.124] PICARD: It's on page 244.
+[00:35:12.124 --> 00:35:12.460] RIKER: In
+[00:35:13.740 --> 00:35:14.380] RIKER: the novel. Right.
+[00:35:15.340 --> 00:35:15.900] RIKER: How does it end?
+[00:35:17.500 --> 00:35:20.140] PICARD: A bad love affair ends in a bloody shoot-out,
+[00:35:20.540 --> 00:35:25.340] PICARD: the hotel gets bought out, and life goes on, such as it is.
+[00:35:26.060 --> 00:35:27.660] RIKER: The hotel gets bought? By whom?
+[00:35:31.820 --> 00:35:32.700] PICARD: It isn't specific.
+[00:35:33.180 --> 00:35:34.780] PICARD: It simply refers to foreign investors.
+[00:35:34.780 --> 00:35:38.460] PICARD: Sale price, twelve point five million United States Dollars.
+[00:35:38.860 --> 00:35:41.980] PICARD: They return home, leaving the assistant manager in charge.
+[00:35:46.636 --> 00:35:46.876] RIKER: Captain,
+[00:35:49.916 --> 00:35:50.716] RIKER: that's how we're getting out.
+[00:35:53.116 --> 00:35:53.676] RIKER: We're buying this place.
+[00:36:02.716 --> 00:36:04.556] DATA: It is all a question of probabilities.
+[00:36:05.036 --> 00:36:07.756] DATA: Quite simple, really, if one bets with any sequential consistency.
+[00:36:07.836 --> 00:36:08.236] RIKER: Elaborate.
+[00:36:09.356 --> 00:36:13.996] DATA: The combinations totalling seven or eleven have considerable value when achieved on the primary attempt.
+[00:36:14.476 --> 00:36:19.516] DATA: With eight variations possible to create those totals, the likelihood of those totals occurring is not significant.
+[00:36:19.516 --> 00:36:19.756] DATA: However
+[00:36:19.756 --> 00:36:21.196] RIKER: Okay, okay. Can you do it?
+[00:36:21.836 --> 00:36:22.476] DATA: I believe so, sir.
+[00:36:28.316 --> 00:36:29.196] TEXAS: Eight's a point.
+[00:36:29.356 --> 00:36:30.236] TEXAS: Eighter from Decatur. Candy see the wise.
+[00:36:31.116 --> 00:36:31.436] TEXAS: Do it,
+[00:36:31.436 --> 00:36:33.676] TEXAS: do it.
+[00:36:34.796 --> 00:36:35.916] TEXAS: Oh. Snake eyes.
+[00:36:36.556 --> 00:36:38.956] DATA: Single digits on each cube are not at all desirable.
+[00:36:40.076 --> 00:36:40.956] VANESSA: You're almost broke.
+[00:36:41.356 --> 00:36:41.916] TEXAS: Relax, honey.
+[00:36:41.916 --> 00:36:42.796] TEXAS: It's only money
+[00:36:43.756 --> 00:36:46.396] VANESSA: Yeah, but if you lose it all, I won't even have a place to sleep.
+[00:36:46.396 --> 00:36:48.316] TEXAS: Don't worry your little head, honey.
+[00:36:48.476 --> 00:36:50.316] TEXAS: I'd never let that happen.
+[00:36:55.996 --> 00:36:56.236] TEXAS: Go babe,
+[00:36:56.556 --> 00:36:56.876] TEXAS: let's go.
+[00:36:57.036 --> 00:36:57.356] TEXAS: Here they come,
+[00:36:57.356 --> 00:36:57.676] TEXAS: babe.
+[00:36:57.676 --> 00:36:58.316] CROUPIER: Seven. You're
+[00:36:58.316 --> 00:36:59.596] CROUPIER: out.
+[00:37:00.476 --> 00:37:02.956] TEXAS: You're turn, Slick.
+[00:37:03.836 --> 00:37:04.156] RIKER: Go to work.
+[00:37:05.036 --> 00:37:06.476] TEXAS: Maybe this turkey'll bring us some luck.
+[00:37:18.548 --> 00:37:19.348] CROUPIER: Six. Six is your number.
+[00:37:19.668 --> 00:37:22.148] TEXAS: Hell, my blind grandmother can make a six.
+[00:37:22.228 --> 00:37:23.108] TEXAS: Come on, boy, roll 'em.
+[00:37:23.908 --> 00:37:25.428] RIKER: I thought seven and eleven had value.
+[00:37:26.228 --> 00:37:27.908] DATA: Actually, six is a valid point.
+[00:37:28.228 --> 00:37:31.508] DATA: Of course, now the objective is to roll a duplicate six before hitting seven.
+[00:37:32.068 --> 00:37:34.948] RIKER: But the probability of making a six is no greater than that of rolling a seven.
+[00:37:36.308 --> 00:37:38.468] DATA: There is a certain degree of random fortune involved.
+[00:37:39.188 --> 00:37:40.628] DATA: I believe that is why they call it gambling.
+[00:37:40.778 --> 00:37:41.378] VANESSA: Yeah.
+[00:37:47.588 --> 00:37:48.548] CROUPIER: Seven. Seven away.
+[00:37:48.628 --> 00:37:49.028] CROUPIER: Next shooter.
+[00:37:49.828 --> 00:37:51.428] VANESSA: So much for your new turkey.
+[00:37:51.988 --> 00:37:53.028] TEXAS: Give Slick another shot.
+[00:37:53.988 --> 00:37:55.188] TEXAS: I got a feeling about you, boy.
+[00:37:59.588 --> 00:38:02.388] DATA: Commander, these cubes are improperly balanced.
+[00:38:03.108 --> 00:38:04.644] DATA: I believe their final resting position would be
+[00:38:04.644 --> 00:38:05.028] RIKER: Can you
+[00:38:05.028 --> 00:38:05.428] RIKER: repair them?
+[00:38:07.428 --> 00:38:07.988] DATA: I believe so.
+[00:38:10.708 --> 00:38:11.668] DATA: I will make another attempt.
+[00:38:16.068 --> 00:38:17.508] DATA: Baby needs a new pair of shoes.
+[00:38:17.508 --> 00:38:20.644] TEXAS: Eleven! Attaboy! Do that a few more times and we're all gonna get well!
+[00:38:20.644 --> 00:38:21.316] CROUPIER: Seven, a winner.
+[00:38:21.316 --> 00:38:21.988] TEXAS: And another one.
+[00:38:21.988 --> 00:38:22.768] TEXAS: Keep going, boy.
+[00:38:22.828 --> 00:38:23.908] TEXAS: We got a hot one. Let's
+[00:38:23.908 --> 00:38:23.908] TEXAS: go.
+[00:38:23.908 --> 00:38:24.128] TEXAS: Let's go.
+[00:38:24.128 --> 00:38:24.788] RIKER: Double 'em up. Here we go.
+[00:38:24.868 --> 00:38:26.468] TEXAS: Keep 'em rolling, boy.
+[00:38:26.468 --> 00:38:26.468] TEXAS: Keep rolling.
+[00:38:26.468 --> 00:38:26.468] TEXAS: Seven, a winner.
+[00:38:47.833 --> 00:38:48.713] PICARD: Status, Number One.
+[00:38:50.553 --> 00:38:51.672] RIKER: Rather a nice run of luck, Captain.
+[00:38:52.553 --> 00:38:54.072] PICARD: Don't get out of character, Commander.
+[00:38:54.473 --> 00:38:54.980] RIKER: Sir?
+[00:38:54.980 --> 00:39:00.553] PICARD: The foreign investors in the book are described as flamboyantly generous.
+[00:39:02.793 --> 00:39:04.072] RIKER: Yes, sir. I understand.
+[00:39:04.222 --> 00:39:04.822] TEXAS: Seven,
+[00:39:09.672 --> 00:39:09.913] TEXAS: look at
+[00:39:11.433 --> 00:39:11.433] TEXAS: that.
+[00:39:11.833 --> 00:39:13.433] VANESSA: Oh, Tex, darlin', you're brilliant!
+[00:39:16.473 --> 00:39:18.152] TEXAS: Yeah. And I'm good lookin' too, huh?
+[00:39:18.152 --> 00:39:21.672] WORF: Isn't that enough?
+[00:39:21.672 --> 00:39:23.193] RIKER: No. Don't want to come up short.
+[00:39:23.672 --> 00:39:24.393] RIKER: You are keeping count?
+[00:39:24.793 --> 00:39:25.033] DATA: Yes, sir.
+[00:39:25.672 --> 00:39:26.793] DATA: Twelve point three million.
+[00:39:27.433 --> 00:39:29.993] DATA: Perhaps I will bet seven hundred thousand.
+[00:39:30.953 --> 00:39:31.833] RIKER: No, bet it all.
+[00:39:32.393 --> 00:39:35.513] DATA: But sir, the sale price of this edifice is twelve point five million.
+[00:39:35.913 --> 00:39:37.513] RIKER: We need some spreading around money, Data.
+[00:39:38.393 --> 00:39:38.653] DATA: Sir?
+[00:39:38.653 --> 00:39:39.433] RIKER: Bet it all.
+[00:39:40.313 --> 00:39:40.632] RIKER: There you go.
+[00:39:41.513 --> 00:39:43.592] RIKER: A little something for you, Ziggy. A
+[00:39:43.592 --> 00:39:44.953] RIKER: little something for those cocktail waitresses. Why
+[00:39:44.953 --> 00:39:47.672] RIKER: don't you run this outside, give it to the parking lot attendants.
+[00:39:48.072 --> 00:39:48.873] CLERK: You're very kind, sir.
+[00:39:50.152 --> 00:39:50.793] RIKER: Here you go, Vanessa.
+[00:39:50.953 --> 00:39:51.833] RIKER: A little something for you, too.
+[00:39:52.233 --> 00:39:53.033] VANESSA: Thank you.
+[00:39:53.913 --> 00:39:55.913] RIKER: When the train comes in, everybody rides.
+[00:39:56.393 --> 00:39:58.393] TEXAS: Yeah, and I'm getting off at this station.
+[00:39:59.112 --> 00:40:02.793] TEXAS: After eighteen passes, the air gets a little too thin for this country boy.
+[00:40:04.072 --> 00:40:04.953] TEXAS: I'm betting against you, fella.
+[00:40:04.953 --> 00:40:06.553] VANESSA: Are you nuts?
+[00:40:06.713 --> 00:40:08.873] DATA: I do not believe that is a prudent choice, sir.
+[00:40:09.433 --> 00:40:09.833] TEXAS: Hey,
+[00:40:11.148 --> 00:40:12.268] TEXAS: that's what horse racing's about.
+[00:40:12.748 --> 00:40:13.148] TEXAS: Roll 'em, boy.
+[00:40:13.148 --> 00:40:14.028] CROUPIER: Seven,
+[00:40:16.028 --> 00:40:16.028] CROUPIER: a
+[00:40:21.448 --> 00:40:23.448] CROUPIER: winner.
+[00:40:27.328 --> 00:40:29.328] CLERK: The
+[00:40:32.268 --> 00:40:33.228] CLERK: man has the touch.
+[00:40:35.788 --> 00:40:38.828] TEXAS: You knew you were going to throw that seven, didn't you?
+[00:40:38.828 --> 00:40:40.028] TEXAS: You just let me go down the tube.
+[00:40:41.788 --> 00:40:42.908] DATA: I tried to caution you, sir.
+[00:40:44.108 --> 00:40:44.508] TEXAS: What was it?
+[00:40:44.508 --> 00:40:46.828] TEXAS: I mean, was it personal, or what?
+[00:40:47.788 --> 00:40:49.148] TEXAS: Because I didn't show you my car?
+[00:40:51.148 --> 00:40:51.388] RIKER: Now.
+[00:40:53.068 --> 00:40:54.028] DATA: I wish to cash in, sir.
+[00:40:55.388 --> 00:40:56.908] CLERK: I'm afraid you've broken the bank.
+[00:40:57.388 --> 00:41:00.108] RIKER: Just take twelve point five million, the purchase price of this hotel.
+[00:41:00.668 --> 00:41:01.628] RIKER: Spread the rest around.
+[00:41:05.308 --> 00:41:06.748] CLERK: You're the foreign investors.
+[00:41:07.708 --> 00:41:08.028] RIKER: That's right.
+[00:41:09.308 --> 00:41:11.468] RIKER: We just bought this place, lock, stock, and barrel.
+[00:41:12.588 --> 00:41:13.708] RIKER: Consider it a done deal.
+[00:41:14.268 --> 00:41:15.388] TEXAS: I like you fellas.
+[00:41:16.108 --> 00:41:16.828] TEXAS: You got style.
+[00:41:17.788 --> 00:41:19.068] TEXAS: Let me buy you guys a drink.
+[00:41:19.788 --> 00:41:20.668] RIKER: Just enjoy the game.
+[00:41:21.388 --> 00:41:22.348] RIKER: Don't let them change the dice on you.
+[00:41:23.308 --> 00:41:23.628] TEXAS: You got
+[00:41:25.948 --> 00:41:25.948] TEXAS: it.
+[00:41:37.779 --> 00:41:37.779] RIKER: Enterprise,
+[00:41:42.499 --> 00:41:43.299] RIKER: this is the away team.
+[00:41:43.779 --> 00:41:44.739] RIKER: We're clear of the structure.
+[00:41:45.539 --> 00:41:46.019] RIKER: Three to beam up.
+[00:41:46.899 --> 00:41:49.139] PICARD: Time to come home now, Number One.
+[00:41:49.219 --> 00:41:49.859] PICARD: Transporter room,
+[00:41:49.939 --> 00:41:51.139] PICARD: we have a fix on the away team.
+[00:41:51.379 --> 00:41:51.779] PICARD: Beam them up.
+[00:42:01.299 --> 00:42:03.299] PICARD: Come.
+[00:42:06.819 --> 00:42:07.219] RIKER: Sir.
+[00:42:07.219 --> 00:42:08.819] PICARD: Welcome back, Number One.
+[00:42:09.059 --> 00:42:10.179] RIKER: Very strange experience.
+[00:42:10.499 --> 00:42:10.899] RIKER: Puzzling.
+[00:42:11.699 --> 00:42:14.899] RIKER: I still can't comprehend how Colonel Richey's vessel could have travelled out that far.
+[00:42:15.699 --> 00:42:16.659] RIKER: Not on it's own, at any rate.
+[00:42:18.019 --> 00:42:22.179] PICARD: Perhaps they were brought here by whoever created that make-believe world down there.
+[00:42:22.899 --> 00:42:26.739] PICARD: It's possible they didn't know how fragile the humans aboard actually were.
+[00:42:28.179 --> 00:42:29.299] PICARD: Only one of them survived.
+[00:42:30.899 --> 00:42:32.099] RIKER: None of it makes any sense.
+[00:42:33.539 --> 00:42:36.659] PICARD: Like Fermat's theorem, it's a puzzle we may never solve.
+[00:42:52.000 --> 00:43:00.000] [music]
+[00:43:05.000 --> 00:43:34.000] [music]

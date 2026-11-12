@@ -1,0 +1,717 @@
+[00:00:02.240 --> 00:00:03.040] LOG: First officer's log,
+[00:00:03.200 --> 00:00:05.360] LOG: stardate 41986.0.
+[00:00:06.000 --> 00:00:10.960] LOG: We are awaiting the return of Captain Picard who was summoned to Starbase 718 for an emergency conference.
+[00:00:11.520 --> 00:00:17.200] LOG: Meanwhile, our sensors are monitoring an ancient capsule floating in our vicinity which appears to be from Earth.
+[00:00:17.840 --> 00:00:19.120] LAFORGE: I wonder how it got out here.
+[00:00:19.920 --> 00:00:24.720] WORF: At its present speed and heading, it will eventually enter the Kazis binary system and will certainly be destroyed.
+[00:00:25.360 --> 00:00:27.520] WORF: I could attach a tractor beam and adjust its heading.
+[00:00:28.000 --> 00:00:28.960] RIKER: I think not, Mister Worf.
+[00:00:29.280 --> 00:00:30.720] RIKER: It's just a piece of space debris.
+[00:00:30.720 --> 00:00:32.960] RIKER: If we hadn't sitting here waiting for the Captain, we wouldn't have noticed it.
+[00:00:33.600 --> 00:00:34.000] RIKER: Leave it be.
+[00:00:34.320 --> 00:00:35.280] RIKER: Let nature take its course.
+[00:00:36.480 --> 00:00:38.000] RIKER: How long until Captain Picard returns?
+[00:00:38.400 --> 00:00:40.880] WORF: The last communication indicated it would be several hours.
+[00:00:41.280 --> 00:00:44.160] DATA: Commander, request permission to investigate this vehicle.
+[00:00:44.560 --> 00:00:45.760] RIKER: Why, Data? It's just a derelict.
+[00:00:46.240 --> 00:00:47.200] DATA: It is a piece of history.
+[00:00:47.760 --> 00:00:54.080] DATA: The opportunity to examine such an ancient vehicle does not come around very often, and as you pointed out, we do have the time.
+[00:00:54.720 --> 00:00:55.200] RIKER: Very well.
+[00:00:55.920 --> 00:00:58.080] RIKER: Be prepared to beam back before the Captain returns.
+[00:00:58.960 --> 00:00:59.280] DATA: Thank you, sir.
+[00:00:59.440 --> 00:01:01.280] RIKER: Lieutenant Worf, go with him.
+[00:01:01.680 --> 00:01:02.080] WORF: Aye, sir.
+[00:01:18.240 --> 00:01:19.520] DATA: Minimal oxygen atmosphere.
+[00:01:22.480 --> 00:01:25.040] DATA: An ancient solar generator, still operating.
+[00:01:31.135 --> 00:01:32.415] WORF: Commander, look at this.
+[00:01:34.975 --> 00:01:36.655] DATA: The on-board computers have ceased functioning.
+[00:01:37.695 --> 00:01:40.975] DATA: I may be able to download this old style disk drive back to the Enterprise.
+[00:01:41.125 --> 00:01:41.725] WORF: It
+[00:01:50.815 --> 00:01:55.615] WORF: must be sealed, probably with age.
+[00:01:57.055 --> 00:01:59.295] DATA: Not necessary.
+[00:01:59.775 --> 00:01:59.775] DATA: The
+[00:02:34.095 --> 00:02:36.255] DATA: seal was broken and the environment has been corrupted.
+[00:02:39.615 --> 00:02:40.095] WORF: Here's another.
+[00:02:48.175 --> 00:02:50.895] DATA: This one is empty.
+[00:02:56.780 --> 00:02:58.060] WORF: Commander, look at this.
+[00:03:29.020 --> 00:03:31.820] PICARD: Space, the final frontier.
+[00:03:33.660 --> 00:03:36.540] PICARD: These are the voyages of the starship Enterprise.
+[00:03:37.660 --> 00:03:50.460] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:04:07.000 --> 00:04:32.000] [music]
+[00:04:33.000 --> 00:04:42.000] [music]
+[00:05:15.245 --> 00:05:16.845] WORF: Were they frozen for an extended journey?
+[00:05:17.645 --> 00:05:21.325] DATA: If that were the purpose, there would be evidence of a more sophisticated monitoring system.
+[00:05:21.725 --> 00:05:24.205] DATA: These containers were designed solely for refrigeration.
+[00:05:26.685 --> 00:05:28.765] LAFORGE: The Captain's shuttle is approaching the main Shuttlebay, sir. :
+[00:05:29.245 --> 00:05:30.445] PICARD: Enterprise, this is the Captain.
+[00:05:30.605 --> 00:05:31.005] PICARD: Number One,
+[00:05:31.005 --> 00:05:32.925] PICARD: I want to get underway as soon as the shuttle is secure.
+[00:05:33.325 --> 00:05:33.645] RIKER: Aye, sir.
+[00:05:33.805 --> 00:05:34.925] RIKER: We'll make all preparations.
+[00:05:35.245 --> 00:05:37.085] RIKER: Commander Data, return to the Enterprise immediately. :
+[00:05:37.965 --> 00:05:39.965] DATA: We have run into an unusual situation, sir.
+[00:05:40.445 --> 00:05:42.525] DATA: There are people on board. Frozen.
+[00:05:43.325 --> 00:05:43.645] RIKER: Frozen.
+[00:05:43.725 --> 00:05:44.125] RIKER: How many?
+[00:05:45.245 --> 00:05:45.565] DATA: Three.
+[00:05:46.125 --> 00:05:48.205] DATA: The vehicle has suffered severe damage.
+[00:05:48.753 --> 00:05:50.273] DATA: Most of her systems have failed.
+[00:05:50.913 --> 00:05:52.673] RIKER: Are you suggesting they be transferred to the Enterprise?
+[00:05:54.353 --> 00:05:56.033] DATA: I do not believe we should leave them here, sir.
+[00:05:57.473 --> 00:06:00.593] DATA: With your permission, we will be returning with three containers.
+[00:06:00.913 --> 00:06:02.433] RIKER: Whatever you do, do it quickly.
+[00:06:09.633 --> 00:06:12.833] PICARD: Mister La Forge, set course zero five eight, mark one seven three.
+[00:06:12.993 --> 00:06:13.633] LAFORGE: Laying it in, sir.
+[00:06:13.633 --> 00:06:15.633] PICARD: Number One, I want a staff meeting on the observation deck.
+[00:06:16.993 --> 00:06:20.193] LAFORGE: Captain, those coordinates will take us right into the Neutral Zone.
+[00:06:24.593 --> 00:06:25.553] PICARD: That is correct, Mister La Forge.
+[00:06:26.033 --> 00:06:26.753] PICARD: Warp factor eight.
+[00:06:27.793 --> 00:06:28.113] LAFORGE: Aye, sir.
+[00:06:28.113 --> 00:06:28.593] LAFORGE: Warp eight.
+[00:06:29.473 --> 00:06:29.873] PICARD: Engage.
+[00:06:32.673 --> 00:06:32.913] PICARD: Two
+[00:06:36.513 --> 00:06:39.953] PICARD: Federation outposts in sector three zero have been destroyed.
+[00:06:42.033 --> 00:06:50.833] PICARD: There's been no communication with Federation starbases in sector three one since stardate 41903.2.
+[00:06:53.233 --> 00:06:53.873] WORF: Romulans.
+[00:06:55.073 --> 00:06:55.793] PICARD: That's the assumption.
+[00:06:56.353 --> 00:06:59.873] RIKER: There's been no direct contact with the Romulans since the Tomed Incident.
+[00:07:01.953 --> 00:07:03.153] PICARD: The question are, why now?
+[00:07:03.713 --> 00:07:04.593] PICARD: What's their objective?
+[00:07:05.793 --> 00:07:10.833] PICARD: For fifty years there's barely a whisper out of them, and now for no apparent reason they seem to be back with a roar.
+[00:07:11.393 --> 00:07:13.873] RIKER: Everything we know about them is based on rumour or conjecture.
+[00:07:15.202 --> 00:07:20.258] PICARD: The strategic decision is to send one ship.
+[00:07:20.258 --> 00:07:21.522] RIKER: The Enterprise.
+[00:07:22.162 --> 00:07:24.722] WORF: We could get out there and find ourselves greatly over-matched.
+[00:07:25.362 --> 00:07:26.722] PICARD: True enough. It's a gamble.
+[00:07:27.362 --> 00:07:32.562] RIKER: This first encounter, coming so suddenly after all this time. We have to assume it's a setup.
+[00:07:33.602 --> 00:07:35.442] PICARD: If force is necessary, we will use it,
+[00:07:35.442 --> 00:07:36.722] PICARD: but that will mean we have failed.
+[00:07:37.042 --> 00:07:40.402] PICARD: Our goal here is to establish some kind of relations with the Romulans.
+[00:07:40.722 --> 00:07:48.242] PICARD: If we don't succeed, then to convince them of our resolve. The general feeling at Starfleet is that they are seeking a confrontation.
+[00:07:48.802 --> 00:07:55.842] PICARD: They may want to test themselves in battle against a Federation starship. See how far we have advanced.
+[00:07:55.842 --> 00:07:58.162] PICARD: If that is the case, then I need to know it. Counsellor,
+[00:07:58.162 --> 00:07:59.442] PICARD: I shall need a full profile on them.
+[00:07:59.842 --> 00:08:02.642] TROI: There is limited information, but I will prepare something.
+[00:08:03.762 --> 00:08:06.162] PICARD: Computer, estimated arrival time at the Neutral Zone?
+[00:08:06.402 --> 00:08:08.482] COMPUTER: Nineteen hours, twenty eight minutes.
+[00:08:09.202 --> 00:08:09.842] PICARD: Let's reassemble
+[00:08:09.922 --> 00:08:13.122] PICARD: in six hours. Stay sharp.
+[00:08:13.202 --> 00:08:14.242] PICARD: No surprises.
+[00:08:14.882 --> 00:08:16.802] PICARD: I would rather outthink them than outfight them.
+[00:08:17.122 --> 00:08:17.522] PICARD: Questions?
+[00:08:17.522 --> 00:08:17.522] PICARD: What
+[00:08:27.602 --> 00:08:27.922] PICARD: is it, Doctor?
+[00:08:28.482 --> 00:08:29.762] CRUSHER: It's the people from the capsule.
+[00:08:30.402 --> 00:08:31.122] PICARD: Capsule? People?
+[00:08:31.122 --> 00:08:31.522] PICARD: What people?
+[00:08:32.162 --> 00:08:33.522] CRUSHER: The people Data beamed over.
+[00:08:33.522 --> 00:08:34.642] PICARD: I wasn't aware that he had.
+[00:08:35.202 --> 00:08:37.362] CRUSHER: Well he did, and they were frozen.
+[00:08:38.002 --> 00:08:38.802] CRUSHER: I thawed them.
+[00:08:39.442 --> 00:08:39.842] PICARD: You what?
+[00:08:40.722 --> 00:08:41.922] CRUSHER: I didn't know what else to do.
+[00:08:42.402 --> 00:08:45.042] CRUSHER: The crypts in which they were frozen were literally falling apart.
+[00:08:46.121 --> 00:08:46.841] PICARD: So what's their condition?
+[00:08:48.041 --> 00:08:49.401] CRUSHER: Right now, they are all sleeping.
+[00:08:50.841 --> 00:08:55.881] CRUSHER: Each of them needed minor medical attention. Minor now, but then their conditions were obviously terminal.
+[00:08:56.681 --> 00:09:01.801] CRUSHER: One had a heart problem, another had an advanced case of emphysema with extensive liver damage.
+[00:09:02.521 --> 00:09:06.921] CRUSHER: You know the most surprising thing of all, is that each of them had been frozen after they died.
+[00:09:08.761 --> 00:09:09.481] PICARD: After they died?
+[00:09:10.441 --> 00:09:11.321] CRUSHER: Cryonics.
+[00:09:11.881 --> 00:09:14.121] CRUSHER: It was a kind of fad in the late twentieth century.
+[00:09:14.921 --> 00:09:16.281] CRUSHER: People feared dying.
+[00:09:17.081 --> 00:09:18.201] CRUSHER: It terrified them.
+[00:09:18.921 --> 00:09:30.361] CRUSHER: At the moment of death, they would be frozen, so that later, some time in the future, when presumably medical science had a cure for whatever killed them, they could be thawed back to life, healed, and sent on about their business.
+[00:09:33.321 --> 00:09:35.481] PICARD: In the case of this group, it apparently worked.
+[00:09:38.921 --> 00:09:42.121] PICARD: Mister Data, will you report to Sickbay. Immediately.
+[00:09:51.561 --> 00:09:51.801] PICARD: Look,
+[00:09:51.801 --> 00:09:59.321] PICARD: I am never critical of any member of my staff being curious, but it's just that the timing is so
+[00:09:59.561 --> 00:10:00.841] DATA: I could not leave them there, Captain.
+[00:10:01.081 --> 00:10:03.001] DATA: The condition of their vehicle was deteriorating.
+[00:10:03.721 --> 00:10:05.801] PICARD: But Data, they were already dead.
+[00:10:06.441 --> 00:10:08.201] PICARD: I mean, what more could have happened to them?
+[00:10:09.321 --> 00:10:10.281] DATA: I see your point, Captain,
+[00:10:10.841 --> 00:10:12.841] DATA: but at the time it seemed the proper thing to do.
+[00:10:15.224 --> 00:10:16.584] PICARD: Well, they're alive now.
+[00:10:18.264 --> 00:10:20.424] PICARD: We're going to have to treat them as living human beings.
+[00:10:21.304 --> 00:10:23.224] CRUSHER: Alive and well and ready to be awakened.
+[00:10:24.104 --> 00:10:26.344] PICARD: Before you wake them up, I want to have Security here.
+[00:10:26.744 --> 00:10:28.344] PICARD: Lieutenant Worf, report to Sickbay.
+[00:10:29.224 --> 00:10:32.584] CRUSHER: I have them sedated now, but they should be up and about as soon as possible.
+[00:10:34.744 --> 00:10:35.064] PICARD: Well, then
+[00:10:36.744 --> 00:10:37.624] PICARD: we have no other choice.
+[00:10:38.824 --> 00:10:39.704] CRUSHER: None that I can see.
+[00:11:28.744 --> 00:11:30.104] PICARD: Welcome to the twenty fourth century.
+[00:11:34.584 --> 00:11:40.744] DATA: I was able to retrieve some information from the ancient disk I removed from the module's computer.
+[00:11:41.704 --> 00:11:44.264] DATA: Her name is Clare Raymond, age thirty five,
+[00:11:44.824 --> 00:11:45.464] DATA: occupation
+[00:11:45.860 --> 00:11:46.500] DATA: homemaker.
+[00:11:48.340 --> 00:11:49.780] DATA: Must be some kind of construction work.
+[00:11:50.660 --> 00:11:51.860] CRUSHER: She died of an embolism.
+[00:11:52.180 --> 00:11:55.780] CRUSHER: It probably happened very suddenly, otherwise her physical condition was excellent.
+[00:12:02.020 --> 00:12:07.380] DATA: His name is Ralph Offenhouse, age fifty five, occupation financier.
+[00:12:08.500 --> 00:12:13.220] CRUSHER: Advanced cardiomyopathy. Inoperable at the time, but easily correctable now.
+[00:12:13.940 --> 00:12:16.580] CRUSHER: He must have known his condition was terminal for quite some time.
+[00:12:19.140 --> 00:12:21.220] DATA: Much of his file we could not retrieved.
+[00:12:22.180 --> 00:12:24.500] DATA: His name is L Q Sonny Clemonds.
+[00:12:24.740 --> 00:12:27.060] DATA: Apparently his occupation had something to do with music.
+[00:12:27.780 --> 00:12:32.660] CRUSHER: There was marked deterioration of every system in his body. Probably from massive chemical abuse.
+[00:12:32.980 --> 00:12:33.940] CRUSHER: Unbelievable.
+[00:12:34.500 --> 00:12:35.860] PICARD: That sounds like someone who hated life.
+[00:12:36.340 --> 00:12:39.620] PICARD: Yet he had himself frozen presumably so he could go through it all again.
+[00:12:40.340 --> 00:12:42.100] CRUSHER: Too afraid to live, too scared to die.
+[00:12:43.860 --> 00:12:46.900] PICARD: Doctor, this seems to be a situation more suited to your talents.
+[00:12:46.900 --> 00:12:47.700] PICARD: I'll leave it with you.
+[00:12:47.860 --> 00:12:48.580] PICARD: I'll be on the Bridge.
+[00:12:56.260 --> 00:12:56.660] PICARD: Number One,
+[00:12:58.500 --> 00:13:02.336] PICARD: kindly take charge of our guests until we have time to decide what we're going to do with them.
+[00:13:02.336 --> 00:13:02.740] RIKER: Aye, sir.
+[00:13:03.300 --> 00:13:03.860] PICARD: Number One,
+[00:13:05.700 --> 00:13:06.340] PICARD: keep them out of my way.
+[00:13:16.820 --> 00:13:20.340] RIKER: I know this is all very confusing to you so I'll attempt to explain.
+[00:13:20.675 --> 00:13:23.685] RIKER: You are on the starship USS Enterprise.
+[00:13:23.685 --> 00:13:24.115] RALPH: American?
+[00:13:24.515 --> 00:13:27.795] RIKER: No, it's a vessel of the United Federation of Planets, and Earth is a member.
+[00:13:28.755 --> 00:13:31.715] RALPH: What year is this?
+[00:13:32.035 --> 00:13:34.675] DATA: By your calendar two thousand three hundred sixty four.
+[00:13:36.675 --> 00:13:37.075] RALPH: What?
+[00:13:37.395 --> 00:13:37.395] RALPH: My
+[00:13:39.315 --> 00:13:42.195] RALPH: heart, is it?
+[00:13:43.235 --> 00:13:44.355] CRUSHER: It's perfectly fine.
+[00:13:44.675 --> 00:13:46.995] CRUSHER: In fact, you are all now in excellent health.
+[00:13:48.755 --> 00:13:49.235] RALPH: It worked.
+[00:13:50.675 --> 00:13:51.075] RALPH: I made it.
+[00:13:53.875 --> 00:13:54.595] SONNY: What is that?
+[00:13:56.835 --> 00:13:57.635] RIKER: An android.
+[00:14:00.035 --> 00:14:01.075] SONNY: You mean a robot?
+[00:14:01.555 --> 00:14:04.515] DATA: Actually there is a distinct difference between an android and a robot.
+[00:14:05.475 --> 00:14:08.435] CLARE: And him? The one I saw before, with the head?
+[00:14:09.715 --> 00:14:10.435] CRUSHER: She means Worf.
+[00:14:12.275 --> 00:14:12.995] RIKER: He's a Klingon.
+[00:14:13.635 --> 00:14:15.235] RIKER: That takes a little more explanation.
+[00:14:15.395 --> 00:14:16.435] SONNY: Now, listen, guys.
+[00:14:16.515 --> 00:14:21.715] SONNY: I paid some idiot a lot of money to freeze me when I died, and I just got to hear the words.
+[00:14:22.355 --> 00:14:23.235] SONNY: Am I alive?
+[00:14:23.635 --> 00:14:24.995] RIKER: Oh, yes. Absolutely.
+[00:14:25.395 --> 00:14:28.035] SONNY: And the liver that was about to explode in my face?
+[00:14:28.835 --> 00:14:30.115] CRUSHER: Perfectly sound.
+[00:14:31.235 --> 00:14:31.795] CLARE: Excuse me,
+[00:14:32.675 --> 00:14:34.435] CLARE: could someone please tell me what's going on here?
+[00:14:35.235 --> 00:14:39.395] CRUSHER: About three hundred and seventy years ago, you died of a massive embolism.
+[00:14:42.675 --> 00:14:43.955] CLARE: I don't remember anything about that.
+[00:14:45.235 --> 00:14:46.835] CRUSHER: You and the others were frozen.
+[00:14:48.595 --> 00:14:49.235] SONNY: Cryonics.
+[00:14:49.235 --> 00:14:49.795] SONNY: You know,
+[00:14:50.069 --> 00:14:51.509] SONNY: freeze you now and heal you later.
+[00:14:52.149 --> 00:14:53.269] CLARE: Yeah, I've heard of it.
+[00:14:53.269 --> 00:14:54.709] CLARE: I just never gave it much thought.
+[00:14:56.309 --> 00:14:57.029] CLARE: How did we get here?
+[00:14:57.829 --> 00:14:59.029] DATA: You were in a space module.
+[00:14:59.589 --> 00:15:04.389] SONNY: The whacko who sold me this scam said that by putting us in orbit there weren't gonna be no chance of a brown out.
+[00:15:05.109 --> 00:15:12.469] RALPH: Yes, several cryonics companies fell into disrepute because of power failures which adversely affected their refrigeration system.
+[00:15:12.949 --> 00:15:14.709] RALPH: Their stocks were severely depressed.
+[00:15:15.189 --> 00:15:21.429] SONNY: The whole deal was a long shot but I figured what the hell, might as well give them the dough instead of leaving it to my ex-wives.
+[00:15:21.509 --> 00:15:21.589] SONNY: But
+[00:15:24.629 --> 00:15:26.949] SONNY: you know, son, I figured it was all just a bunch of hooey.
+[00:15:28.069 --> 00:15:28.389] DATA: Hooey?
+[00:15:29.989 --> 00:15:34.629] DATA: Ah, as in hogwash, malarky, jive. An intentional fabrication.
+[00:15:34.949 --> 00:15:35.749] SONNY: There you go,
+[00:15:35.749 --> 00:15:36.549] SONNY: now you got it.
+[00:15:39.189 --> 00:15:41.589] RIKER: Now, if you didn't contract for this, who did?
+[00:15:42.789 --> 00:15:44.629] CLARE: It must have been my husband, Donald.
+[00:15:45.509 --> 00:15:46.469] CLARE: If it was new and foolish,
+[00:15:46.469 --> 00:15:47.269] CLARE: he would have popped for it.
+[00:15:48.789 --> 00:15:51.589] CLARE: Well, I'll say this for it. It's the first thing he's ever bought into that worked.
+[00:15:53.109 --> 00:15:54.549] RALPH: I, for one, never had a doubt.
+[00:15:54.709 --> 00:15:58.789] RALPH: My stock in this company must have split at least a dozen times by now.
+[00:15:59.589 --> 00:16:05.189] DATA: Actually, the process of cryonics was never more than a fad, and did not continue much beyond the mid-twenty first century.
+[00:16:08.629 --> 00:16:10.709] RALPH: I need to make a phone call as soon as possible.
+[00:16:10.869 --> 00:16:11.509] RIKER: A phone call?
+[00:16:11.829 --> 00:16:13.749] RALPH: Yes. I have provided for myself.
+[00:16:14.069 --> 00:16:15.989] RALPH: I have a substantial portfolio.
+[00:16:16.229 --> 00:16:17.589] RALPH: It's critical that I check on it.
+[00:16:18.069 --> 00:16:19.349] RALPH: Let the bank know that I am alive and
+[00:16:19.909 --> 00:16:20.149] RALPH: well.
+[00:16:21.302 --> 00:16:24.342] RIKER: Ah, that's going to be a little difficult right at the moment.
+[00:16:24.422 --> 00:16:27.622] RALPH: Well, do you at least have a copy of The Wall Street Journal?
+[00:16:29.862 --> 00:16:31.462] RIKER: I think we should take the Doctor's advice.
+[00:16:31.942 --> 00:16:36.502] RIKER: Take this very slowly until we've all adjusted, and then we'll talk to the Captain.
+[00:16:37.782 --> 00:16:41.375] TROI: As you know, there is very little available on the Romulans.
+[00:16:41.375 --> 00:16:41.702] PICARD: Counsellor,
+[00:16:41.782 --> 00:16:42.662] PICARD: anything would be helpful.
+[00:16:43.702 --> 00:16:45.542] TROI: They seem to be creatures of extremes.
+[00:16:46.102 --> 00:16:49.302] TROI: One moment violent beyond description, the next tender.
+[00:16:50.182 --> 00:16:54.982] TROI: They are related to the Vulcans, but as each race developed, their differences grew wider.
+[00:16:56.182 --> 00:16:57.462] TROI: They are intensely curious.
+[00:16:58.422 --> 00:17:01.942] TROI: Their belief in their own superiority is beyond arrogance.
+[00:17:02.662 --> 00:17:10.342] TROI: For some reason they have exhibited a fascination with humans and it is that fascination, more than anything else, that has kept the peace.
+[00:17:11.062 --> 00:17:11.622] TROI: One other thing.
+[00:17:12.742 --> 00:17:14.662] TROI: They will not initiate anything.
+[00:17:15.062 --> 00:17:16.662] TROI: They will wait for you to commit yourself.
+[00:17:19.382 --> 00:17:21.782] PICARD: Counter-punchers. Thank you, Counsellor.
+[00:17:22.422 --> 00:17:23.222] PICARD: That's quite valuable.
+[00:17:27.542 --> 00:17:27.782] DATA: Talk.
+[00:17:29.542 --> 00:17:36.182] SONNY: I'd like me a thick Kansas City steak, and some country fried potatoes, and a mess of greens.
+[00:17:36.582 --> 00:17:42.422] SONNY: Oh, hell, just forget all that and give me have a martini, straight up, with two olives. For the vitamins.
+[00:18:05.004 --> 00:18:05.564] DATA: Is there something wrong?
+[00:18:06.684 --> 00:18:07.324] SONNY: Wrong?
+[00:18:07.804 --> 00:18:11.244] SONNY: Only that your computer here fixed about the best martini I have ever had.
+[00:18:11.804 --> 00:18:13.564] SONNY: I just might get to like this place.
+[00:18:14.204 --> 00:18:15.484] SONNY: Let's see if the Braves are on.
+[00:18:15.484 --> 00:18:16.604] SONNY: How do you turn on this teevee?
+[00:18:17.404 --> 00:18:17.804] RIKER: TV?
+[00:18:18.284 --> 00:18:19.484] SONNY: Yeah, the boob tube.
+[00:18:20.204 --> 00:18:22.604] SONNY: I'd like to see how the Braves are doing after all this time.
+[00:18:22.844 --> 00:18:24.604] SONNY: Probably still finding ways to lose.
+[00:18:26.124 --> 00:18:27.484] DATA: I believe he means television, sir.
+[00:18:29.484 --> 00:18:32.764] DATA: That particular form of entertainment did not last much beyond the year two thousand forty.
+[00:18:32.764 --> 00:18:33.004] SONNY: Well,
+[00:18:35.324 --> 00:18:36.364] SONNY: what do you guys do?
+[00:18:36.844 --> 00:18:38.844] SONNY: I mean, you don't drink, and you ain't got no TV.
+[00:18:39.804 --> 00:18:41.084] SONNY: Must be kind of boring, ain't it?
+[00:18:43.964 --> 00:18:44.444] PICARD: Number One.
+[00:18:48.924 --> 00:18:49.324] RIKER: Riker here.
+[00:18:50.044 --> 00:18:51.324] PICARD: Would you and Mister Data report to the Bridge?
+[00:18:52.044 --> 00:18:52.604] RIKER: At once, sir.
+[00:18:52.924 --> 00:18:56.364] RALPH: With whom were you speaking?
+[00:18:57.404 --> 00:18:57.884] RIKER: The Captain.
+[00:18:58.444 --> 00:18:58.764] RALPH: Good.
+[00:18:59.164 --> 00:19:02.764] RALPH: Would you tell him I would like to see him as soon as it's convenient?
+[00:19:03.724 --> 00:19:04.604] CLARE: What's going to happen to us?
+[00:19:05.164 --> 00:19:06.444] CLARE: Do we stay here with you?
+[00:19:06.444 --> 00:19:07.324] CLARE: Do we go back to Earth?
+[00:19:07.884 --> 00:19:08.924] RIKER: That will all be up to the Captain.
+[00:19:09.484 --> 00:19:10.924] RALPH: Well, get him in here.
+[00:19:11.564 --> 00:19:14.684] RALPH: I have to phone Geneva right away about my accounts.
+[00:19:14.684 --> 00:19:18.124] RALPH: The interest alone could be enough to buy this ship.
+[00:19:18.924 --> 00:19:19.724] SONNY: The Yankee's right.
+[00:19:19.724 --> 00:19:21.004] SONNY: Let's get the big boy in here.
+[00:19:22.206 --> 00:19:23.566] RIKER: I'll pass along your request.
+[00:19:23.566 --> 00:19:25.006] RIKER: If you'll excuse us.
+[00:19:25.006 --> 00:19:25.726] SONNY: Duty calls.
+[00:19:25.726 --> 00:19:26.686] SONNY: Hey, I understand.
+[00:19:27.886 --> 00:19:29.166] SONNY: Why don't you come back later on.
+[00:19:29.166 --> 00:19:33.006] SONNY: You and me'll find us a couple of low mileage pit woofies, and help'em build a memory.
+[00:19:42.046 --> 00:19:43.246] DATA: What is to be done with them, sir?
+[00:19:43.726 --> 00:19:44.366] RIKER: I don't know.
+[00:19:46.446 --> 00:19:46.926] DATA: Commander,
+[00:19:47.886 --> 00:19:49.246] DATA: a low mileage pit woofie?
+[00:19:49.566 --> 00:19:50.526] RIKER: This time you've got me.
+[00:19:50.766 --> 00:19:51.486] RIKER: I haven't a clue.
+[00:19:52.206 --> 00:19:54.446] DATA: These are the most unusual humans I have ever encountered.
+[00:19:55.086 --> 00:19:57.806] RIKER: Well, from what I've seen of our guests, there's not much to redeem them.
+[00:19:58.366 --> 00:20:01.006] RIKER: It makes one wonder how our species survived the twenty-first century.
+[00:20:04.686 --> 00:20:05.006] PICARD: Report.
+[00:20:09.006 --> 00:20:10.926] WORF: We are six hours from the Neutral Zone.
+[00:20:11.246 --> 00:20:15.646] WORF: I have been unable to establish communications with any Federation colony or station in this vicinity.
+[00:20:16.206 --> 00:20:17.646] PICARD: How many outposts are there in this sector?
+[00:20:18.046 --> 00:20:18.526] WORF: Nine.
+[00:20:19.006 --> 00:20:21.246] RIKER: I think we work on the assumption they've all been destroyed.
+[00:20:21.806 --> 00:20:22.526] LAFORGE: By the Romulans?
+[00:20:23.566 --> 00:20:24.766] RIKER: It fits their historical pattern.
+[00:20:26.286 --> 00:20:33.406] DATA: Since we have no contact with the Romulans for fifty three years, seven months, eighteen days, we must consider that the information we do have, is out of date.
+[00:20:33.806 --> 00:20:37.406] RIKER: The positive side of that is the information they have about us is also out of date.
+[00:20:38.046 --> 00:20:40.926] RIKER: Captain, I think it's that lack of information that this is all about.
+[00:20:41.326 --> 00:20:41.646] PICARD: Go on.
+[00:20:42.606 --> 00:20:46.366] RIKER: In my opinion, the Romulans want a confrontation specifically with us.
+[00:20:46.800 --> 00:20:47.369] PICARD: The Enterprise?
+[00:20:47.369 --> 00:20:49.360] RIKER: Well, not by name, but the Federation.
+[00:20:50.080 --> 00:20:51.840] RIKER: They know the Federation will send their best.
+[00:20:52.480 --> 00:20:57.680] RIKER: That'll give them a perfect chance to see firsthand how far we've advanced both in technology and technique.
+[00:20:58.640 --> 00:20:59.440] PICARD: What are you recommending?
+[00:20:59.600 --> 00:21:01.360] RIKER: I'm not sure I have a specific recommendation.
+[00:21:01.920 --> 00:21:03.280] RIKER: Perhaps we should assume the initiative.
+[00:21:04.000 --> 00:21:05.280] WORF: I agree with Commander Riker.
+[00:21:05.600 --> 00:21:07.360] WORF: This may be our only opportunity.
+[00:21:07.600 --> 00:21:08.240] WORF: We should seize it.
+[00:21:12.320 --> 00:21:13.010] PICARD: Mister Data?
+[00:21:13.010 --> 00:21:17.840] DATA: The strategy is built on a single premise. The hostile intent of the Romulans.
+[00:21:18.640 --> 00:21:22.000] DATA: If the premise is sound, so is the proposal.
+[00:21:23.440 --> 00:21:25.920] LAFORGE: If their intention isn't hostile, what is it?
+[00:21:26.480 --> 00:21:27.440] RALPH: Captain Picard?
+[00:21:30.000 --> 00:21:30.880] PICARD: This is Captain Picard.
+[00:21:31.040 --> 00:21:31.840] PICARD: To whom am I speaking?
+[00:21:32.240 --> 00:21:33.520] RALPH: Ralph Offenhouse.
+[00:21:34.000 --> 00:21:35.120] RALPH: I need to talk to you.
+[00:21:36.080 --> 00:21:37.040] PICARD: What is going on here, Number One?
+[00:21:37.200 --> 00:21:38.720] PICARD: Did you give him permission to contact me?
+[00:21:39.200 --> 00:21:39.760] RIKER: Of course not.
+[00:21:39.760 --> 00:21:41.040] RIKER: He must have seen me use the comm. panel.
+[00:21:42.640 --> 00:21:45.440] PICARD: Listen, Mister Offenhouse.
+[00:21:45.440 --> 00:21:47.280] PICARD: We're in a very important conference right now.
+[00:21:47.360 --> 00:21:50.320] RALPH: I'm sick and tired of being put off By you and your staff.
+[00:21:50.320 --> 00:21:53.040] RALPH: This is the worst run ship I have ever been on.
+[00:21:53.440 --> 00:21:54.880] RALPH: You should take some lessons from the QE Two.
+[00:21:55.440 --> 00:21:57.120] RALPH: Now that's an efficient operation.
+[00:21:57.760 --> 00:21:58.720] PICARD: Data, identify.
+[00:21:58.800 --> 00:21:59.360] PICARD: What is a QE Two?
+[00:22:00.880 --> 00:22:05.920] DATA: It was a passenger liner which mostly travelled Earth's Atlantic Ocean during the late twentieth and early twenty first centuries.
+[00:22:07.840 --> 00:22:09.680] PICARD: He's comparing the Enterprise to a cruise ship?
+[00:22:10.480 --> 00:22:13.360] RALPH: Captain Picard, I demand that you see me.
+[00:22:13.840 --> 00:22:16.240] RALPH: I think I have been very, very patient.
+[00:22:17.440 --> 00:22:18.960] RALPH: I demand a phone,
+[00:22:19.095 --> 00:22:22.935] RALPH: or a radio whatever else you have. Frankly, enough is enough.
+[00:22:23.255 --> 00:22:29.895] RALPH: Especially under the circumstances, and considering what I paid for this procedure! I must make contact with my law
+[00:22:33.655 --> 00:22:34.695] PICARD: I'm Captain Picard.
+[00:22:35.895 --> 00:22:36.455] RALPH: Excellent.
+[00:22:38.055 --> 00:22:40.055] RALPH: Now, maybe we'll be able to get some things straightened out.
+[00:22:40.295 --> 00:22:41.015] PICARD: We may indeed.
+[00:22:41.655 --> 00:22:43.895] PICARD: Those comm. panels are for official ship business.
+[00:22:44.055 --> 00:22:46.935] RALPH: If they are so important, why don't they need an executive key?
+[00:22:49.015 --> 00:22:50.935] PICARD: Aboard a starship, that is not necessary.
+[00:22:50.935 --> 00:22:54.055] PICARD: We are all capable of exercising self-discipline. Now,
+[00:22:54.775 --> 00:22:55.975] PICARD: you will refrain from using them.
+[00:22:56.215 --> 00:22:56.935] RALPH: Now just a minute.
+[00:22:57.255 --> 00:23:01.415] PICARD: We are in a very serious and potentially dangerous situation.
+[00:23:01.735 --> 00:23:07.575] RALPH: I'm sure whatever it is seems very important to you, but my situation is far more critical.
+[00:23:08.615 --> 00:23:13.175] PICARD: I don't think you are aware of your situation, or of how much time has passed.
+[00:23:13.335 --> 00:23:17.015] RALPH: Believe me, I'm fully cognisant of where I am, and when.
+[00:23:17.735 --> 00:23:22.375] RALPH: It is simply that I have more to protect than a man in your position could possibly imagine.
+[00:23:23.095 --> 00:23:28.535] RALPH: No offence, but a military career has never been considered to be upwardly mobile.
+[00:23:29.095 --> 00:23:31.255] RALPH: I must contact my lawyer.
+[00:23:32.055 --> 00:23:34.055] PICARD: Your lawyer has been dead for centuries.
+[00:23:34.455 --> 00:23:39.015] RALPH: Yes, of course I know that, but he was a full partner in a very important firm.
+[00:23:39.495 --> 00:23:43.015] RALPH: Rest assured, that firm is still operating.
+[00:23:48.215 --> 00:23:49.415] PICARD: That's what this is all about.
+[00:23:51.178 --> 00:23:53.498] PICARD: A lot has changed in the past three hundred years.
+[00:23:53.578 --> 00:23:57.498] PICARD: People are no longer obsessed with the accumulation of things.
+[00:23:58.138 --> 00:24:02.218] PICARD: We've eliminated hunger, want, the need for possessions.
+[00:24:03.418 --> 00:24:04.618] PICARD: We have grown out of our infancy.
+[00:24:05.738 --> 00:24:06.698] RALPH: You've got it all wrong.
+[00:24:07.498 --> 00:24:09.578] RALPH: It's never been about possessions.
+[00:24:09.978 --> 00:24:11.018] RALPH: It's about power.
+[00:24:11.738 --> 00:24:12.458] PICARD: Power to do what?
+[00:24:13.258 --> 00:24:15.978] RALPH: To control your life, your destiny.
+[00:24:18.058 --> 00:24:19.738] PICARD: That kind of control is an illusion.
+[00:24:21.178 --> 00:24:21.738] RALPH: Really?
+[00:24:23.258 --> 00:24:24.458] RALPH: I'm here, aren't I?
+[00:24:25.498 --> 00:24:27.658] RALPH: I should be dead but I'm not.
+[00:24:31.418 --> 00:24:33.498] PICARD: What is it?
+[00:24:36.938 --> 00:24:37.418] CLARE: I don't know.
+[00:24:37.418 --> 00:24:38.938] CLARE: It just started and it won't stop.
+[00:24:41.418 --> 00:24:42.938] CLARE: I keep thinking about my boys.
+[00:24:47.418 --> 00:24:49.658] PICARD: Counsellor Troi, will you report to the guest lounge?
+[00:24:50.378 --> 00:24:54.058] RIKER: Captain, we are approaching Science Station Delta Zero Five.
+[00:24:55.098 --> 00:24:55.978] PICARD: Slow to half impulse.
+[00:24:55.978 --> 00:24:56.618] PICARD: I'm on my way.
+[00:25:01.178 --> 00:25:05.012] SONNY: Captain, I need to see that pretty little Doctor of yours.
+[00:25:05.012 --> 00:25:06.058] PICARD: I'll inform her.
+[00:25:07.178 --> 00:25:09.738] RALPH: Captain. I didn't mean to come on so strong.
+[00:25:09.738 --> 00:25:14.618] RALPH: It's just that I've built my whole life on knowing what's going on.
+[00:25:14.938 --> 00:25:18.538] RALPH: For the first time I feel completely out of touch.
+[00:25:18.538 --> 00:25:21.098] RALPH: It's making me crazy.
+[00:25:21.534 --> 00:25:22.254] RALPH: You can understand that?
+[00:25:22.814 --> 00:25:23.774] PICARD: It's the first thing you've said
+[00:25:23.774 --> 00:25:24.494] PICARD: I do understand.
+[00:25:25.294 --> 00:25:25.934] PICARD: I'll see what I can do.
+[00:25:26.494 --> 00:25:29.214] PICARD: And, please, stay off the comm. panels.
+[00:25:38.254 --> 00:25:41.774] PICARD: Counsellor, will you get those people under control.
+[00:25:41.934 --> 00:25:44.094] PICARD: We cannot afford this continuing distraction.
+[00:25:44.414 --> 00:25:44.814] TROI: Yes, sir.
+[00:25:51.374 --> 00:25:51.694] TROI: Hello.
+[00:25:54.974 --> 00:25:55.854] TROI: My name is Deanna.
+[00:25:57.694 --> 00:25:59.214] CLARE: They sent you here to settle me down?
+[00:26:01.294 --> 00:26:02.734] TROI: I'm the ship's Counsellor and
+[00:26:03.934 --> 00:26:05.214] TROI: I thought you might want to talk.
+[00:26:10.574 --> 00:26:11.534] CLARE: The local shrink.
+[00:26:12.814 --> 00:26:14.574] TROI: I'm sorry, I'm not familiar with that term.
+[00:26:15.774 --> 00:26:16.494] CLARE: It doesn't matter.
+[00:26:19.454 --> 00:26:21.214] TROI: You're feeling profoundly sad.
+[00:26:23.374 --> 00:26:24.494] CLARE: I can't stop crying.
+[00:26:24.494 --> 00:26:27.214] CLARE: I miss my sons,
+[00:26:28.254 --> 00:26:31.454] CLARE: and then I think I'm here, but they are gone.
+[00:26:33.934 --> 00:26:35.534] CLARE: Donald, that's my husband.
+[00:26:37.054 --> 00:26:41.134] CLARE: I love that man but, good intentions aside, he'd mess up a free lunch.
+[00:26:42.894 --> 00:26:44.574] CLARE: Why on Earth he ever decided to do this?
+[00:26:46.174 --> 00:26:47.934] TROI: He must have thought you would have wanted it.
+[00:26:48.894 --> 00:26:50.654] CLARE: No, I can tell you exactly what happened.
+[00:26:52.174 --> 00:26:53.694] CLARE: He couldn't think about going on alone.
+[00:26:55.224 --> 00:26:58.904] CLARE: I died and he couldn't face it, so he figured if he had me frozen,
+[00:26:58.984 --> 00:27:01.944] CLARE: then in his mind I wasn't really gone.
+[00:27:02.094 --> 00:27:02.694] CLARE: It
+[00:27:05.544 --> 00:27:07.864] CLARE: sounds crazy, but you had to know Donald.
+[00:27:11.224 --> 00:27:12.984] CLARE: I wish I knew what happened to my children.
+[00:27:14.024 --> 00:27:14.984] CLARE: Did they get married,
+[00:27:14.984 --> 00:27:15.784] CLARE: did they have kids?
+[00:27:18.264 --> 00:27:19.464] TROI: Let's see if we can find out.
+[00:27:23.384 --> 00:27:25.224] TROI: Computer, this is Counsellor Troi.
+[00:27:26.184 --> 00:27:27.864] TROI: Request personal history on.
+[00:27:28.504 --> 00:27:29.224] TROI: What are their names?
+[00:27:30.904 --> 00:27:34.104] CLARE: Tommy. He's eight, and Eddie's five.
+[00:27:34.584 --> 00:27:36.504] COMPUTER: Full names, date and place of birth.
+[00:27:38.504 --> 00:27:40.424] CLARE: They were born in Secaucus,
+[00:27:40.504 --> 00:27:41.464] CLARE: that's in Jersey.
+[00:27:42.184 --> 00:27:43.144] CLARE: Can this really work?
+[00:27:43.624 --> 00:27:44.824] CLARE: Can this tell me what's happened to them?
+[00:27:45.064 --> 00:27:46.504] TROI: Well, there must be a record somewhere.
+[00:27:47.384 --> 00:27:48.584] TROI: There is a good chance we can find it.
+[00:27:48.734 --> 00:27:49.334] CLARE: Well,
+[00:27:50.424 --> 00:27:52.104] CLARE: whether we do or not, I want to thank you
+[00:27:52.984 --> 00:27:53.384] CLARE: for
+[00:27:57.064 --> 00:27:58.104] CLARE: trying. Date of birth.
+[00:27:59.064 --> 00:28:01.144] CLARE: Tommy was born February seventeenth
+[00:28:02.104 --> 00:28:06.184] SONNY: I just got to have a little something to jump start the morning, and a little something else to shut down the night.
+[00:28:06.344 --> 00:28:08.024] CRUSHER: You have no medical need.
+[00:28:08.424 --> 00:28:10.104] SONNY: It ain't a question of need, darling.
+[00:28:10.264 --> 00:28:11.864] SONNY: It's a matter of survival.
+[00:28:12.824 --> 00:28:13.384] CRUSHER: Sorry.
+[00:28:13.624 --> 00:28:16.584] SONNY: Not to worry. Old Watosh'll scuffle along the best way he can.
+[00:28:17.144 --> 00:28:19.544] SONNY: How do I get a hold of that feller with the strange looking face?
+[00:28:20.298 --> 00:28:21.018] CRUSHER: I beg your pardon?
+[00:28:21.258 --> 00:28:21.898] SONNY: What's his name.
+[00:28:22.138 --> 00:28:23.338] SONNY: That android fella.
+[00:28:24.938 --> 00:28:26.378] CRUSHER: You mean Lieutenant Commander Data?
+[00:28:26.618 --> 00:28:27.418] SONNY: That's the one.
+[00:28:27.898 --> 00:28:29.178] CRUSHER: I'll let him know you're looking for him.
+[00:28:29.578 --> 00:28:30.298] SONNY: Much obliged.
+[00:28:30.538 --> 00:28:33.498] SONNY: You know, you're just about the prettiest little old Doctor I ever seen.
+[00:28:39.178 --> 00:28:41.178] CRUSHER: Much
+[00:28:43.098 --> 00:28:43.114] CRUSHER: obliged.
+[00:28:43.130 --> 00:28:43.658] CLARE: This is amazing.
+[00:28:44.378 --> 00:28:45.098] CLARE: It's all right here.
+[00:28:46.378 --> 00:28:47.978] TROI: Ten generations of your progeny.
+[00:28:50.378 --> 00:28:51.578] CLARE: Everyone I've ever known is dead.
+[00:28:54.538 --> 00:28:54.618] CLARE: Do
+[00:28:56.298 --> 00:28:56.698] CLARE: you mind?
+[00:28:56.698 --> 00:28:58.938] CLARE: I'd like to be alone.
+[00:29:00.218 --> 00:29:01.098] TROI: No, not at all.
+[00:29:12.938 --> 00:29:15.578] DATA: You asked to see me.
+[00:29:16.058 --> 00:29:18.138] SONNY: Look, I'm about to go out of my mind for something to do.
+[00:29:18.298 --> 00:29:20.138] SONNY: I mean, sitting here alone just don't get it.
+[00:29:20.298 --> 00:29:22.458] SONNY: What say you and I put together a little party?
+[00:29:23.178 --> 00:29:23.898] DATA: A celebration?
+[00:29:23.978 --> 00:29:25.498] SONNY: No, nothing that fancy.
+[00:29:25.498 --> 00:29:27.578] SONNY: Just some folks, some suds, and some sounds.
+[00:29:27.578 --> 00:29:29.258] SONNY: Hell, it ain't nothing but something to do.
+[00:29:31.098 --> 00:29:32.058] DATA: I will speak to the Captain.
+[00:29:32.138 --> 00:29:33.258] SONNY: Great, you do that.
+[00:29:33.418 --> 00:29:33.898] DATA: Inquiry.
+[00:29:35.098 --> 00:29:39.178] DATA: You do not seem to be having as much difficulty adjusting to your current circumstances as the others.
+[00:29:39.418 --> 00:29:42.938] SONNY: You mean being here on this tub four hundred years from where I started?
+[00:29:43.178 --> 00:29:44.858] SONNY: Heck, it's the same dance,
+[00:29:44.858 --> 00:29:46.138] SONNY: it's just a different tune.
+[00:29:46.458 --> 00:29:48.938] SONNY: You think anybody here's got a guitar I could borrow?
+[00:29:49.484 --> 00:29:52.044] DATA: No, but the computer can replicate such an instrument.
+[00:29:52.284 --> 00:29:54.764] SONNY: I was kind of hoping to get one while I still remember the chords.
+[00:29:55.324 --> 00:29:57.644] RIKER: Commander Data, we are approaching the Neutral Zone.
+[00:29:57.724 --> 00:29:58.764] RIKER: Report to the Bridge.
+[00:29:59.084 --> 00:29:59.724] DATA: I must leave now.
+[00:30:01.484 --> 00:30:03.964] SONNY: What's this Neutral Zone?
+[00:30:03.964 --> 00:30:06.684] DATA: It is a buffer between the Romulan Empire and the Federation.
+[00:30:07.884 --> 00:30:09.164] SONNY: Why does that make me nervous?
+[00:30:10.204 --> 00:30:10.684] DATA: I do not know.
+[00:30:11.164 --> 00:30:15.164] SONNY: We won't be inviting these Romulans to our party, will we?
+[00:30:15.164 --> 00:30:17.964] DATA: No, that would not be appropriate.
+[00:30:26.204 --> 00:30:27.484] LOG: Captain's log, supplemental.
+[00:30:27.884 --> 00:30:35.084] LOG: We have arrived at the edge of the Neutral Zone, where we will now have an opportunity to learn firsthand what happened to our distant outpost.
+[00:30:36.044 --> 00:30:39.964] DATA: Captain, there is nothing left of Outpost Delta Zero Five.
+[00:30:42.204 --> 00:30:43.804] LAFORGE: Must have been one hell of an explosion.
+[00:30:44.844 --> 00:30:47.164] DATA: Sensors indicate no evidence of conventional attack.
+[00:30:49.324 --> 00:30:50.524] PICARD: Can you determine what happened?
+[00:30:52.204 --> 00:30:53.964] WORF: The outpost was not just destroyed,
+[00:30:54.444 --> 00:30:57.484] WORF: it's as though some great force just scooped it off the face of the planet.
+[00:30:59.004 --> 00:31:00.204] PICARD: Could it have been a natural phenomenon?
+[00:31:01.564 --> 00:31:02.764] WORF: Insufficient information, sir.
+[00:31:04.044 --> 00:31:05.084] PICARD: Mister
+[00:31:07.644 --> 00:31:08.231] PICARD: La Forge.
+[00:31:08.231 --> 00:31:08.524] LAFORGE: Sir?
+[00:31:09.644 --> 00:31:11.164] PICARD: Set course for the next closest station.
+[00:31:12.204 --> 00:31:12.444] LAFORGE: Aye, sir.
+[00:31:16.444 --> 00:31:16.444] RALPH: I
+[00:31:20.284 --> 00:31:22.924] RALPH: have spent my career
+[00:31:22.996 --> 00:31:25.876] RALPH: being able to tell when the other guy's mouth is dry.
+[00:31:26.676 --> 00:31:30.356] RALPH: There is something going on here. Something serious.
+[00:31:30.756 --> 00:31:33.156] RALPH: The tension level on this ship has jumped up.
+[00:31:34.116 --> 00:31:36.036] SONNY: Even if you're right, what can we do about it?
+[00:31:36.436 --> 00:31:40.036] SONNY: And besides, these old boys here don't need us telling them where the bear sits.
+[00:31:40.676 --> 00:31:42.356] SONNY: Look here what that young fella made for me.
+[00:31:46.116 --> 00:31:46.756] CLARE: How did he do that?
+[00:31:47.636 --> 00:31:49.796] SONNY: He called it a pattern replication.
+[00:31:49.796 --> 00:31:50.996] SONNY: It plays real good, too.
+[00:31:51.796 --> 00:31:59.396] RALPH: I'm trying to tell you that there is a situation developing on this vessel that directly affects us, and all you can talk about is that stupid guitar!
+[00:31:59.556 --> 00:32:02.676] SONNY: Hey, now, these folks don't need us swimming in their soup,
+[00:32:03.236 --> 00:32:05.556] SONNY: so why don't you just relax and let'em do their jobs?
+[00:32:06.356 --> 00:32:11.956] RALPH: That may be all right for you, but I am not willing to allow my fate to be decided by others.
+[00:32:12.596 --> 00:32:14.356] RALPH: I at least want to know what is going on.
+[00:32:19.716 --> 00:32:21.636] LAFORGE: We are approaching Tarod Nine.
+[00:32:22.916 --> 00:32:24.356] DATA: The condition is identical, Captain.
+[00:32:25.076 --> 00:32:26.943] WORF: Everyone and everything is gone.
+[00:32:26.943 --> 00:32:27.316] RIKER: Captain,
+[00:32:28.036 --> 00:32:29.716] RIKER: I strongly recommend that we go to Red Alert.
+[00:32:30.036 --> 00:32:36.356] RIKER: If the Romulans have improved their cloaking device, and we'd be fools to believe they haven't, we should assume a more defensive posture.
+[00:32:37.476 --> 00:32:38.436] WORF: I agree, Captain.
+[00:32:38.676 --> 00:32:40.916] WORF: I recommend we go immediately to battle stations.
+[00:32:41.716 --> 00:32:43.236] PICARD: I appreciate your advice and concern, but
+[00:32:43.236 --> 00:32:44.756] PICARD: this is not the time for rash actions.
+[00:32:44.996 --> 00:32:46.276] PICARD: We are still investigating.
+[00:32:46.276 --> 00:32:48.356] PICARD: There are three other stations in this sector we have to visit.
+[00:32:48.756 --> 00:32:50.756] PICARD: Let's proceed in a calm and orderly manner.
+[00:32:50.916 --> 00:32:53.876] RIKER: If not battle stations, may we at least take the ship to Yellow Alert?
+[00:32:54.116 --> 00:32:54.676] PICARD: Yes, Number One.
+[00:32:54.676 --> 00:32:55.316] PICARD: That would be prudent.
+[00:32:55.526 --> 00:32:56.166] PICARD: Make it so.
+[00:33:01.286 --> 00:33:02.726] RALPH: Ah,
+[00:33:24.886 --> 00:33:25.606] RALPH: let's see.
+[00:33:25.606 --> 00:33:26.006] RALPH: I
+[00:33:29.046 --> 00:33:31.606] RALPH: want to go to the, er. Where would
+[00:33:34.806 --> 00:33:35.686] RALPH: the Captain be?
+[00:33:36.246 --> 00:33:38.886] COMPUTER: Captain Picard is located on the main Bridge.
+[00:33:40.086 --> 00:33:43.002] RALPH: Well then, take me to the main Bridge.
+[00:33:43.002 --> 00:33:43.366] WORF: Captain,
+[00:33:43.766 --> 00:33:45.286] WORF: my sensors indicate a disturbance.
+[00:33:45.606 --> 00:33:49.366] WORF: It is large and moving, but I cannot get a positive lock nor can I get it on the viewscreen.
+[00:33:50.486 --> 00:33:51.046] RIKER: Shields up.
+[00:33:51.046 --> 00:33:51.606] WORF: Aye, sir.
+[00:33:53.366 --> 00:33:56.726] RIKER: Captain, I recommend we transfer all power to phasers, and arm the photon torpedoes.
+[00:33:56.886 --> 00:33:57.126] PICARD: Wait.
+[00:33:57.846 --> 00:33:59.846] PICARD: If that is a Romulan ship, they will read our intent.
+[00:34:00.566 --> 00:34:02.726] PICARD: It'll force them into taking a similar posture.
+[00:34:02.966 --> 00:34:04.006] PICARD: We don't want to engage in battle.
+[00:34:04.646 --> 00:34:06.486] RIKER: Captain, this is sufficient evidence.
+[00:34:06.566 --> 00:34:07.926] RIKER: Outposts have been destroyed.
+[00:34:07.926 --> 00:34:09.366] RIKER: Countless lives have been lost.
+[00:34:10.006 --> 00:34:10.966] WORF: I have a positive lock.
+[00:34:11.526 --> 00:34:13.126] WORF: They're disengaging their cloaking device.
+[00:34:13.126 --> 00:34:16.566] RIKER: They'll only be vulnerable for an instant as they become visible.
+[00:34:17.846 --> 00:34:20.646] WORF: Captain, this may be our only chance.
+[00:34:21.366 --> 00:34:21.606] PICARD: No.
+[00:34:25.766 --> 00:34:27.046] RIKER: Where are they?
+[00:34:27.126 --> 00:34:28.166] WORF: The signal is weakening.
+[00:34:28.441 --> 00:34:30.841] WORF: I've lost them.
+[00:34:33.561 --> 00:34:33.961] PICARD: Damn.
+[00:34:37.801 --> 00:34:40.041] PICARD: Mister Data, are your sensors picking up anything?
+[00:34:40.761 --> 00:34:42.281] PICARD: You should be detecting a disturbance.
+[00:34:43.321 --> 00:34:43.801] DATA: Negative, sir.
+[00:34:44.601 --> 00:34:46.761] LAFORGE: We wanted to know if they have improved the cloaking device.
+[00:34:47.241 --> 00:34:48.121] LAFORGE: Guess we have our answer.
+[00:34:48.921 --> 00:34:50.681] PICARD: They were trying to determine our intent.
+[00:34:51.641 --> 00:34:53.001] PICARD: They wanted to see if we would fire.
+[00:34:53.721 --> 00:34:54.841] RALPH: Who the hell are they?
+[00:34:56.681 --> 00:34:58.281] RIKER: Get that man off the Bridge, now.
+[00:34:58.681 --> 00:35:00.537] RALPH: I'm not going anywhere.
+[00:35:00.537 --> 00:35:01.001] WORF: Captain,
+[00:35:01.961 --> 00:35:02.441] WORF: they're back.
+[00:35:27.081 --> 00:35:27.961] RIKER: Amazing.
+[00:35:28.521 --> 00:35:34.521] RIKER: I never thought I would ever see a Romulan ship. Not this close.
+[00:35:35.001 --> 00:35:36.921] LAFORGE: The last time we encountered them was decades ago.
+[00:35:37.961 --> 00:35:39.241] LAFORGE: Cost thousands of lives.
+[00:35:40.281 --> 00:35:41.161] RALPH: I can believe that.
+[00:35:42.921 --> 00:35:43.801] PICARD: Stay calm, everyone.
+[00:35:45.721 --> 00:35:46.761] PICARD: Open hailing frequencies.
+[00:35:47.561 --> 00:35:50.201] WORF: Captain, these are Romulans.
+[00:35:51.001 --> 00:35:52.761] WORF: They are without honour.
+[00:35:53.721 --> 00:35:57.961] WORF: They killed my parents in an attack on Khitomer when they were supposed to be our allies.
+[00:35:58.921 --> 00:36:02.201] WORF: They believe humans and Klingons are a waste of skin.
+[00:36:02.921 --> 00:36:04.281] PICARD: Lieutenant, control your emotions.
+[00:36:05.161 --> 00:36:06.521] PICARD: Please, open hailing frequencies.
+[00:36:11.801 --> 00:36:12.761] WORF: Hailing frequencies open.
+[00:36:13.801 --> 00:36:17.401] PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise.
+[00:36:20.761 --> 00:36:22.921] DATA: Sensors indicate all of their systems are armed, sir.
+[00:36:24.201 --> 00:36:25.241] PICARD: But they've not fired.
+[00:36:25.391 --> 00:36:27.191] PICARD: Let's try them again.
+[00:36:28.681 --> 00:36:32.521] TEBOK: I am Commander Tebok.
+[00:36:32.521 --> 00:36:35.081] PICARD: Commander, you have crossed the Neutral Zone.
+[00:36:35.961 --> 00:36:37.561] PICARD: This is Federation territory.
+[00:36:38.761 --> 00:36:39.801] THEI: It was necessary.
+[00:36:40.601 --> 00:36:42.201] PICARD: It might be viewed as an act of aggression.
+[00:36:42.841 --> 00:36:44.201] THEI: If our intent were aggression,
+[00:36:45.001 --> 00:36:46.041] THEI: you would not be here now.
+[00:36:46.681 --> 00:36:51.081] TEBOK: If we go to war, let us be sure it is for the right reason.
+[00:36:52.601 --> 00:36:58.298] TEBOK: We are here because our outposts, which border the Neutral Zone, were also attacked.
+[00:36:58.298 --> 00:37:01.961] THEI: Destroyed in the exact same manner as your own.
+[00:37:02.841 --> 00:37:05.881] WORF: Even so, what gives them the right to enter Federation space?
+[00:37:06.281 --> 00:37:08.761] TEBOK: Silence your dog, Captain.
+[00:37:09.961 --> 00:37:11.641] PICARD: Lieutenant Worf's question is valid.
+[00:37:11.641 --> 00:37:15.321] THEI: To even to ask such a question implies that we need permission.
+[00:37:16.761 --> 00:37:17.321] THEI: We do not.
+[00:37:18.361 --> 00:37:20.281] PICARD: Do you think that we attacked your outposts?
+[00:37:21.161 --> 00:37:28.681] TEBOK: Once we realised the level of destruction, we knew it could not have been you.
+[00:37:29.906 --> 00:37:30.706] PICARD: Who is responsible?
+[00:37:34.626 --> 00:37:35.906] RALPH: They haven't got a clue.
+[00:37:37.826 --> 00:37:41.346] RALPH: They're hoping you know, but they're too arrogant to ask.
+[00:37:41.826 --> 00:37:42.786] RIKER: You're out of line, Mister.
+[00:37:43.666 --> 00:37:46.066] PICARD: Yes, but it's a correct assessment.
+[00:37:47.026 --> 00:37:49.346] TEBOK: We do not know who is responsible.
+[00:37:50.706 --> 00:37:51.266] TEBOK: Why
+[00:37:51.266 --> 00:37:55.346] TEBOK: entire outposts on both sides have been carried off.
+[00:37:56.306 --> 00:37:57.666] PICARD: I would like to offer a proposal.
+[00:37:58.626 --> 00:38:02.146] THEI: An alliance? Between the Romulans and the Federation?
+[00:38:03.266 --> 00:38:04.306] PICARD: Nothing so grandiose.
+[00:38:05.346 --> 00:38:07.586] PICARD: Just this. Cooperation.
+[00:38:09.666 --> 00:38:10.546] PICARD: There was an intent here.
+[00:38:10.706 --> 00:38:15.106] PICARD: Whoever or whatever did this is more powerful than either of us.
+[00:38:16.226 --> 00:38:16.946] PICARD: Let's collaborate.
+[00:38:17.746 --> 00:38:19.906] PICARD: Let's share whatever we learn about what has happened here.
+[00:38:22.626 --> 00:38:31.657] THEI: Agreed. On this one issue. And only if it is convenient and appropriate at the time.
+[00:38:31.657 --> 00:38:32.786] TEBOK: Captain Picard,
+[00:38:34.066 --> 00:38:42.466] TEBOK: because your actions are those of a thoughtful man, I'll you this. Matters more urgent caused our absence.
+[00:38:43.666 --> 00:38:53.266] TEBOK: Now, witness the result. Outposts destroyed, expansion of the Federation everywhere.
+[00:38:54.786 --> 00:38:58.946] TEBOK: Yes, we have indeed been negligent, Captain.
+[00:39:00.546 --> 00:39:02.226] TEBOK: But no more.
+[00:39:02.226 --> 00:39:02.786] PICARD: Commander,
+[00:39:03.695 --> 00:39:04.895] PICARD: we have made some progress here.
+[00:39:04.895 --> 00:39:07.535] PICARD: Let's not ruin that with unnecessary posturing.
+[00:39:08.015 --> 00:39:10.175] TEBOK: Your presence is not wanted.
+[00:39:11.855 --> 00:39:14.095] TEBOK: Do you understand my meaning, Captain?
+[00:39:15.775 --> 00:39:16.015] TEBOK: We
+[00:39:17.935 --> 00:39:18.495] TEBOK: are back.
+[00:39:24.015 --> 00:39:28.495] PICARD: I think our lives just became a lot more complicated.
+[00:39:28.495 --> 00:39:28.495] PICARD: Get
+[00:39:36.655 --> 00:39:37.375] PICARD: him off my Bridge.
+[00:39:49.295 --> 00:39:52.095] TROI: I've found something.
+[00:39:55.455 --> 00:39:58.735] TROI: I have been able to locate a family living outside of Indianapolis.
+[00:39:59.855 --> 00:40:01.295] TROI: The man's name is Thomas Raymond.
+[00:40:02.255 --> 00:40:03.695] CLARE: That's my son's name.
+[00:40:03.695 --> 00:40:04.975] CLARE: My son's name is Tommy.
+[00:40:05.775 --> 00:40:07.535] TROI: Computer, let us see Thomas Raymond.
+[00:40:10.895 --> 00:40:11.615] CLARE: Oh, my God.
+[00:40:13.295 --> 00:40:14.175] CLARE: That's Donald.
+[00:40:14.175 --> 00:40:15.295] CLARE: That's my husband.
+[00:40:15.775 --> 00:40:19.695] TROI: Actually, it's your great, great, great, great, great grandson.
+[00:40:22.655 --> 00:40:23.535] CLARE: He's the spitting image.
+[00:40:24.335 --> 00:40:25.615] TROI: Well, I have his address.
+[00:40:26.015 --> 00:40:27.615] TROI: When you get back to Earth, you can go and see him.
+[00:40:29.455 --> 00:40:29.935] CLARE: No,
+[00:40:30.095 --> 00:40:31.215] CLARE: I'll be out of time.
+[00:40:31.855 --> 00:40:33.455] CLARE: A relic.
+[00:40:33.455 --> 00:40:34.255] TROI: Perhaps.
+[00:40:35.535 --> 00:40:36.655] TROI: But it's a place to start.
+[00:40:38.164 --> 00:40:39.604] TROI: After all, he is family.
+[00:40:42.404 --> 00:40:43.284] CLARE: There's no denying that.
+[00:40:46.004 --> 00:40:46.724] PICARD: Here's what I propose.
+[00:40:48.244 --> 00:40:52.884] PICARD: You can't stay on the Enterprise, but I have arranged for us to rendezvous with the USS Charleston, bound for Earth.
+[00:40:53.364 --> 00:40:54.084] PICARD: They will deliver you there.
+[00:40:54.724 --> 00:40:55.844] RALPH: Then what will happen to us?
+[00:40:56.724 --> 00:40:57.844] RALPH: There's no trace of my money.
+[00:40:58.644 --> 00:40:59.684] RALPH: My office is gone.
+[00:41:00.804 --> 00:41:01.284] RALPH: What will I do?
+[00:41:02.164 --> 00:41:02.724] RALPH: How will I live?
+[00:41:04.804 --> 00:41:06.244] PICARD: This is the twenty fourth century.
+[00:41:06.964 --> 00:41:08.804] PICARD: Material needs no longer exist.
+[00:41:11.604 --> 00:41:12.724] RALPH: Then what's the challenge?
+[00:41:15.764 --> 00:41:20.804] PICARD: The challenge, Mister Offenhouse, is to improve yourself. To enrich yourself.
+[00:41:22.644 --> 00:41:23.044] PICARD: Enjoy it.
+[00:41:25.524 --> 00:41:31.684] SONNY: Well, one good thing is, since everybody's forgotten everything I ever did, it'll all be brand spanking new.
+[00:41:32.164 --> 00:41:33.844] SONNY: I'll be a bigger hit than I ever was.
+[00:41:36.244 --> 00:41:36.804] PICARD: Perhaps so.
+[00:41:37.044 --> 00:41:37.844] PICARD: Anything is possible.
+[00:41:39.524 --> 00:41:40.564] SONNY: What say you, son.
+[00:41:40.644 --> 00:41:42.164] SONNY: You'd make a hell of a sideman.
+[00:41:44.244 --> 00:41:46.324] DATA: That offer does present a certain fascination.
+[00:41:54.404 --> 00:42:00.964] LAFORGE: Captain, I have plotted a course to intercept the Charleston, but they've just informed me that they'll be making an extended stop at Arloff Nine.
+[00:42:01.684 --> 00:42:02.724] PICARD: Your point, Mister La Forge?
+[00:42:03.604 --> 00:42:07.364] LAFORGE: Well, at warp eight, we could have our guests at Starbase Thirty Nine Sierra in five days.
+[00:42:08.209 --> 00:42:09.909] LAFORGE: Take months off their journey.
+[00:42:09.909 --> 00:42:12.289] PICARD: But they'll benefit from the extended time.
+[00:42:12.289 --> 00:42:14.449] PICARD: It will allow them to acclimate before returning to Earth.
+[00:42:14.689 --> 00:42:16.529] RIKER: It's a pity we can't take them ourselves.
+[00:42:17.009 --> 00:42:19.009] RIKER: Having them on board is like a visit from the past.
+[00:42:20.929 --> 00:42:22.209] PICARD: That would take us in the wrong direction.
+[00:42:23.249 --> 00:42:26.289] PICARD: Our mission is to go forward, and it's just begun.
+[00:42:27.729 --> 00:42:30.929] PICARD: Set velocity. Warp six, Mister La Forge.
+[00:42:32.209 --> 00:42:33.569] LAFORGE: Aye, sir. Warp six.
+[00:42:33.719 --> 00:42:34.319] PICARD: There's
+[00:42:35.089 --> 00:42:35.729] PICARD: still much to do.
+[00:42:37.169 --> 00:42:38.129] PICARD: Still so much to learn.
+[00:42:41.329 --> 00:42:41.889] PICARD: Mister La Forge,
+[00:42:44.049 --> 00:42:44.609] PICARD: engage.

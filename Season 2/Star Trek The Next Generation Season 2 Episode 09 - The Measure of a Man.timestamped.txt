@@ -1,0 +1,643 @@
+[00:00:02.240 --> 00:00:05.440] LOG: Captain's log, stardate 42523.7.
+[00:00:06.320 --> 00:00:10.480] LOG: We are en route to newly established Starbase one seven three for port call.
+[00:00:11.200 --> 00:00:14.960] LOG: Crew rotation is scheduled, and we will be off-loading experiment modules.
+[00:00:16.160 --> 00:00:17.680] O'BRIEN: Hold it, that's my chair.
+[00:00:18.560 --> 00:00:21.120] O'BRIEN: My luck is always lousy unless I start on the dealer's right.
+[00:00:21.760 --> 00:00:22.960] DATA: That would seem to be superstition.
+[00:00:23.280 --> 00:00:26.240] O'BRIEN: Bitter experience has taught me it's a fundamental truth.
+[00:00:28.800 --> 00:00:29.920] RIKER: Okay, the game is five card stud,
+[00:00:30.000 --> 00:00:31.280] RIKER: nothing wild. Ante up.
+[00:00:32.320 --> 00:00:33.760] DATA: This game is exceedingly simple.
+[00:00:34.240 --> 00:00:39.840] DATA: With only fifty two cards, twenty one of which I will see, and four other players, there are a limited number of winning combinations.
+[00:00:40.560 --> 00:00:42.000] LAFORGE: There's more to this than just the cards, Data.
+[00:00:42.640 --> 00:00:45.600] DATA: Of course. The bets will indicate of the relative strength of each hand.
+[00:00:46.640 --> 00:00:47.600] O'BRIEN: Time to pluck a pigeon.
+[00:00:51.120 --> 00:00:51.520] PULASKI: Five.
+[00:00:52.960 --> 00:00:53.360] LAFORGE: I'm in.
+[00:00:54.480 --> 00:00:54.880] DATA: I too.
+[00:00:57.520 --> 00:00:57.840] RIKER: Call.
+[00:00:57.990 --> 00:00:58.590] RIKER: A
+[00:01:00.240 --> 00:01:01.920] RIKER: seven, and a six, and the ace.
+[00:01:05.680 --> 00:01:06.320] DATA: I bet ten.
+[00:01:07.440 --> 00:01:07.840] O'BRIEN: See that.
+[00:01:09.680 --> 00:01:09.920] RIKER: Call.
+[00:01:11.920 --> 00:01:12.240] PULASKI: Fold.
+[00:01:13.600 --> 00:01:14.240] LAFORGE: Yeah, me too.
+[00:01:14.240 --> 00:01:14.640] LAFORGE: I'm out.
+[00:01:25.280 --> 00:01:28.000] DATA: I bet five.
+[00:01:29.600 --> 00:01:29.720] O'BRIEN: Same.
+[00:01:29.720 --> 00:01:29.840] RIKER: Your
+[00:01:31.360 --> 00:01:31.840] RIKER: five.
+[00:01:32.564 --> 00:01:33.044] RIKER: And five.
+[00:01:37.604 --> 00:01:38.164] O'BRIEN: Too rich for me.
+[00:01:42.084 --> 00:01:42.484] RIKER: No help.
+[00:01:45.124 --> 00:01:48.164] DATA: I bet ten.
+[00:01:49.204 --> 00:01:50.164] RIKER: Your ten and ten.
+[00:02:04.324 --> 00:02:06.244] DATA: Is that what is known as a poker face?
+[00:02:07.524 --> 00:02:08.164] RIKER: Are you playing or not?
+[00:02:11.924 --> 00:02:12.404] DATA: I fold.
+[00:02:19.924 --> 00:02:21.124] DATA: You had nothing!
+[00:02:21.684 --> 00:02:23.044] LAFORGE: He bluffed you, Data.
+[00:02:24.244 --> 00:02:26.484] DATA: It makes very little sense to bet when you cannot win.
+[00:02:27.124 --> 00:02:27.764] RIKER: But I did win.
+[00:02:28.004 --> 00:02:29.044] RIKER: I was betting that you wouldn't call.
+[00:02:30.324 --> 00:02:30.964] DATA: How could you tell?
+[00:02:31.524 --> 00:02:32.404] PULASKI: Instinct, Data,
+[00:02:33.044 --> 00:02:33.684] PULASKI: instinct.
+[00:02:34.004 --> 00:02:41.364] PULASKI: The game is seven card high/low with a buy on the last card. And just to make it more interesting, the man with the axe takes all.
+[00:02:41.364 --> 00:02:42.724] PICARD: My
+[00:02:44.564 --> 00:02:45.844] PICARD: God.
+[00:03:05.504 --> 00:03:07.024] PICARD: Phillipa
+[00:03:11.184 --> 00:03:11.344] PICARD: Louvois.
+[00:03:12.944 --> 00:03:13.984] PICARD: And back in uniform.
+[00:03:15.424 --> 00:03:19.504] PICARD: It's been ten years, but seeing you again like this makes it seem like fifty.
+[00:03:21.264 --> 00:03:23.584] PICARD: If we weren't around all these people, do you know what I would like to do?
+[00:03:23.824 --> 00:03:25.184] PHILLIPA: Bust a chair across my teeth?
+[00:03:25.424 --> 00:03:25.904] PICARD: After that.
+[00:03:26.224 --> 00:03:27.424] PHILLIPA: Ain't love wonderful.
+[00:03:46.784 --> 00:03:49.504] PICARD: Space, the final frontier.
+[00:03:51.424 --> 00:03:54.064] PICARD: These are the voyagers of the starship Enterprise.
+[00:03:55.424 --> 00:03:58.864] PICARD: Its continuing mission to explore strange new worlds,
+[00:04:00.704 --> 00:04:03.664] PICARD: to seek out new life and new civilizations,
+[00:04:05.344 --> 00:04:07.744] PICARD: to boldly go where no one has gone
+[00:04:11.344 --> 00:04:11.504] PICARD: before.
+[00:04:34.000 --> 00:04:46.000] [music]
+[00:05:07.286 --> 00:05:10.166] PICARD: So, what are you doing out here?
+[00:05:11.446 --> 00:05:14.246] PHILLIPA: I am in charge of the Twenty third Sector JAG office.
+[00:05:14.406 --> 00:05:15.126] PHILLIPA: We're brand new.
+[00:05:15.526 --> 00:05:20.886] PHILLIPA: I have no staff but one terrified little Ensign. Hopefully we can make some good law out here.
+[00:05:21.686 --> 00:05:22.406] PICARD: Anything is possible.
+[00:05:24.246 --> 00:05:25.366] PICARD: So you came back to Starfleet.
+[00:05:26.486 --> 00:05:28.326] PHILLIPA: Still the most exciting and worthwhile place to be.
+[00:05:28.646 --> 00:05:29.606] PICARD: You had no reason to leave.
+[00:05:29.846 --> 00:05:30.566] PHILLIPA: They forced me out.
+[00:05:30.726 --> 00:05:30.966] PICARD: No.
+[00:05:33.046 --> 00:05:35.526] PICARD: That was your own damn stubborn pride.
+[00:05:36.086 --> 00:05:39.446] PHILLIPA: When I prosecuted you in the Stargazer court martial, I was doing my job.
+[00:05:39.686 --> 00:05:41.206] PICARD: Oh, you did more than your job.
+[00:05:41.206 --> 00:05:41.846] PICARD: You enjoyed it.
+[00:05:42.326 --> 00:05:43.126] PHILLIPA: Not true!
+[00:05:44.006 --> 00:05:46.406] PHILLIPA: A court martial is standard procedure when a ship is lost.
+[00:05:46.406 --> 00:05:49.206] PHILLIPA: I was doing my duty as an officer of the Judge Advocate General.
+[00:05:49.686 --> 00:05:52.886] PICARD: You always enjoyed the adversarial process more than arriving at the truth.
+[00:05:58.966 --> 00:06:01.606] PICARD: Well, I hope you've learned a little wisdom along the way.
+[00:06:06.326 --> 00:06:06.646] PHILLIPA: You know,
+[00:06:07.240 --> 00:06:11.480] PHILLIPA: I never thought I would say this, but it's good to see you again.
+[00:06:12.920 --> 00:06:18.520] PHILLIPA: It brings a sense of order and stability to my universe to know that you're still a pompous ass.
+[00:06:22.680 --> 00:06:24.120] PHILLIPA: And a damn sexy man.
+[00:06:26.120 --> 00:06:26.760] NAKAMURA: Captain Picard?
+[00:06:30.120 --> 00:06:30.440] PHILLIPA: Admiral.
+[00:06:30.760 --> 00:06:32.680] NAKAMURA: Captain Louvois. You're acquainted with Captain Picard?
+[00:06:32.760 --> 00:06:35.480] PHILLIPA: Oh, yes. We're old friends.
+[00:06:36.120 --> 00:06:38.440] PHILLIPA: Excuse me. Picard,
+[00:06:39.560 --> 00:06:39.960] PHILLIPA: call me.
+[00:06:40.760 --> 00:06:41.560] PHILLIPA: You can buy me dinner.
+[00:06:43.800 --> 00:06:45.200] NAKAMURA: Captain, it's good to see you again.
+[00:06:45.200 --> 00:06:45.400] PICARD: Admiral.
+[00:06:45.960 --> 00:06:47.480] NAKAMURA: May I present Commander Bruce Maddox.
+[00:06:48.040 --> 00:06:48.350] PICARD: Commander.
+[00:06:48.350 --> 00:06:50.520] NAKAMURA: He has an interesting proposal for you,
+[00:06:50.920 --> 00:06:51.960] NAKAMURA: but that can wait for a while.
+[00:06:52.760 --> 00:06:53.960] NAKAMURA: I'm eager to see the Enterprise.
+[00:06:54.680 --> 00:06:55.080] PICARD: Yes, sir.
+[00:06:55.480 --> 00:06:55.880] PICARD: This way.
+[00:07:05.160 --> 00:07:06.040] RIKER: Admiral on the Bridge.
+[00:07:10.280 --> 00:07:14.360] PICARD: I was a little surprised at the decision to put a base in force so close to the Neutral Zone.
+[00:07:14.760 --> 00:07:17.880] NAKAMURA: As you know, we've had disturbing news from both sides of the zone.
+[00:07:18.200 --> 00:07:23.240] NAKAMURA: We're here to respond when needed. And it won't hurt to have the Romulans know that we're nearby.
+[00:07:25.640 --> 00:07:29.000] NAKAMURA: Well, Captain, I want to thank you for this opportunity.
+[00:07:29.560 --> 00:07:33.080] NAKAMURA: For five hundred years every ship that has borne the name of the Enterprise has been a legend.
+[00:07:33.400 --> 00:07:34.360] NAKAMURA: This one is no different.
+[00:07:34.962 --> 00:07:35.282] MADDOX: Admiral.
+[00:07:36.642 --> 00:07:37.202] NAKAMURA: Oh yes,
+[00:07:37.922 --> 00:07:40.562] NAKAMURA: Captain. Commander Maddox is here to do some work on your android.
+[00:07:40.962 --> 00:07:41.762] NAKAMURA: Please take care of him.
+[00:07:46.962 --> 00:07:47.602] MADDOX: How have you been, Data?
+[00:07:50.242 --> 00:07:52.722] DATA: My condition does not alter with the passage of time, Commander.
+[00:07:53.842 --> 00:07:54.722] PICARD: The two of you are acquainted?
+[00:07:55.282 --> 00:07:57.975] MADDOX: Yes, I evaluated Data when it first applied to the Academy.
+[00:07:57.975 --> 00:08:03.362] DATA: And was the sole member of the committee to oppose my entrance on the grounds that I was not a sentient being.
+[00:08:05.122 --> 00:08:06.802] PICARD: What exactly will this work entail?
+[00:08:09.042 --> 00:08:10.402] MADDOX: I am going to disassemble Data.
+[00:08:14.482 --> 00:08:14.722] PICARD: All right,
+[00:08:16.402 --> 00:08:17.282] PICARD: explain this procedure.
+[00:08:19.202 --> 00:08:24.562] MADDOX: Ever since I first saw Data at the entrance evaluation at the Starfleet Academy, I've wanted to understand it.
+[00:08:25.762 --> 00:08:31.602] MADDOX: I became a student of the works of Doctor Noonien Soong, Data's creator, and I've tried to continue his work.
+[00:08:32.562 --> 00:08:41.202] MADDOX: I believe I am very close to the breakthrough that will enable me to duplicate Doctor Soong's work and replicate this.
+[00:08:44.642 --> 00:08:47.602] MADDOX: But as a first step I must disassemble and study it.
+[00:08:48.722 --> 00:08:51.042] MADDOX: Data is going to be my guide.
+[00:08:53.122 --> 00:08:53.442] PICARD: Data?
+[00:08:55.362 --> 00:08:56.322] DATA: It sounds intriguing.
+[00:08:57.842 --> 00:08:58.562] RIKER: How will you proceed?
+[00:08:59.202 --> 00:09:03.522] MADDOX: I will run a full diagnostic on Data, evaluating the condition of its current software.
+[00:09:04.024 --> 00:09:09.464] MADDOX: I will then dump its core memory into the starbase mainframe computer and begin a detailed analysis of its construction.
+[00:09:10.664 --> 00:09:12.344] DATA: You've constructed a positronic brain?
+[00:09:13.224 --> 00:09:13.544] MADDOX: Yes.
+[00:09:15.704 --> 00:09:19.704] DATA: Have you determined how the electron resistance across the neural filaments is to be resolved?
+[00:09:21.144 --> 00:09:21.864] MADDOX: Not precisely.
+[00:09:24.824 --> 00:09:26.824] DATA: That would seem to be a necessary first step.
+[00:09:28.264 --> 00:09:34.344] MADDOX: I am confident that I will find the answer once I examine the filament links in your anterior cortex.
+[00:09:35.784 --> 00:09:39.384] DATA: But if the answer is not forthcoming, your model will not function.
+[00:09:40.744 --> 00:09:43.304] MADDOX: I do not anticipate any problems.
+[00:09:44.184 --> 00:09:45.784] RIKER: You seem a little vague on the specifics.
+[00:09:46.664 --> 00:09:48.104] PICARD: What are the risks to Commander Data?
+[00:09:50.184 --> 00:09:50.744] MADDOX: Negligible.
+[00:09:52.504 --> 00:09:59.224] DATA: Captain, I believe his basic research lacks the specifics necessary to support an experiment of this magnitude.
+[00:10:01.624 --> 00:10:04.664] PICARD: Commander Data is a valued member of my Bridge crew.
+[00:10:05.384 --> 00:10:10.424] PICARD: Based on what I've heard, I cannot allow Commander Data to submit himself to this experiment.
+[00:10:11.624 --> 00:10:13.384] MADDOX: I was afraid this might be your attitude, Captain.
+[00:10:14.984 --> 00:10:22.824] MADDOX: Here are Starfleet's transfer orders separating Commander Data from the Enterprise, and reassigning it to Starbase one seventy three under my command.
+[00:10:24.584 --> 00:10:27.384] MADDOX: Data, I will see you in my office tomorrow at zero nine hundred hours.
+[00:10:49.210 --> 00:10:49.530] PICARD: Come.
+[00:10:53.050 --> 00:10:53.770] DATA: You sent for me, sir?
+[00:10:54.650 --> 00:10:55.290] PICARD: Data, please sit
+[00:10:56.890 --> 00:10:58.890] PICARD: down.
+[00:11:00.650 --> 00:11:02.730] PICARD: Well, we have a problem.
+[00:11:04.410 --> 00:11:07.530] DATA: I find myself in complete agreement with that assessment of the situation, sir.
+[00:11:10.810 --> 00:11:12.890] PICARD: Your service to this ship has been exemplary.
+[00:11:13.770 --> 00:11:14.650] PICARD: I don't want to lose you.
+[00:11:17.050 --> 00:11:18.730] DATA: I will not submit to the procedure, sir.
+[00:11:22.810 --> 00:11:23.130] PICARD: Data,
+[00:11:23.130 --> 00:11:23.530] PICARD: I
+[00:11:26.890 --> 00:11:28.250] PICARD: understand your objections,
+[00:11:30.810 --> 00:11:32.890] PICARD: but I have to consider Starfleet's interests.
+[00:11:33.930 --> 00:11:35.690] PICARD: What if Commander Maddox is correct,
+[00:11:36.410 --> 00:11:42.947] PICARD: there is a possibility that many more beings like yourself could be constructed.
+[00:11:42.947 --> 00:11:43.450] DATA: Sir,
+[00:11:45.050 --> 00:11:48.810] DATA: Lieutenant La Forge's eyes are far superior to human biological eyes.
+[00:11:48.810 --> 00:11:49.130] DATA: True?
+[00:11:51.370 --> 00:11:56.970] DATA: Then why are not all human officers required to have their eyes replaced with cybernetic implants?
+[00:12:02.890 --> 00:12:05.130] DATA: I see.
+[00:12:06.970 --> 00:12:07.130] DATA: It is
+[00:12:07.217 --> 00:12:08.897] DATA: precisely because I am not human.
+[00:12:11.617 --> 00:12:12.657] PICARD: That will be all, Mister Data.
+[00:12:23.937 --> 00:12:29.777] PICARD: Computer, pull all relevant information with regard to Starfleet regulations on the transfer of officers.
+[00:12:30.897 --> 00:12:31.297] COMPUTER: Working.
+[00:12:40.817 --> 00:12:43.457] PHILLIPA: My God, twice in as many days.
+[00:12:44.097 --> 00:12:44.657] PICARD: I need your help.
+[00:12:45.697 --> 00:12:46.657] PHILLIPA: An historic moment.
+[00:12:48.097 --> 00:12:50.817] PICARD: I have been trying to make sense of this gobbledygook, but it's beyond me.
+[00:12:51.777 --> 00:13:00.177] PICARD: The fact is, my android officer, Data, is being transferred compulsorily to be made part of a highly dangerous, ill-conceived experiment, and I want it stopped.
+[00:13:00.737 --> 00:13:03.457] PHILLIPA: He can refuse to undergo the procedure, but we can't stop the transfer.
+[00:13:06.177 --> 00:13:07.537] PICARD: Once this Maddox has
+[00:13:08.737 --> 00:13:10.257] PICARD: got control of Data,
+[00:13:11.217 --> 00:13:12.017] PICARD: anything could happen.
+[00:13:12.337 --> 00:13:13.537] PICARD: I don't trust that man.
+[00:13:14.097 --> 00:13:17.137] PHILLIPA: We agree to certain risks when we join Starfleet.
+[00:13:17.137 --> 00:13:20.337] PICARD: Yes. Acceptable risks, justified risks, but I can't accept this.
+[00:13:20.337 --> 00:13:21.137] PICARD: It's unjustified.
+[00:13:21.137 --> 00:13:21.777] PICARD: It's unfair.
+[00:13:22.177 --> 00:13:23.057] PICARD: He has rights.
+[00:13:23.457 --> 00:13:25.777] PHILLIPA: All this passion over a machine?
+[00:13:26.497 --> 00:13:27.137] PICARD: Don't start.
+[00:13:28.337 --> 00:13:29.297] PICARD: This is important to me.
+[00:13:32.257 --> 00:13:32.977] PICARD: Is there an option?
+[00:13:33.697 --> 00:13:34.817] PHILLIPA: There is always an option.
+[00:13:36.257 --> 00:13:37.057] PHILLIPA: He can resign.
+[00:13:41.646 --> 00:13:42.046] PICARD: I see.
+[00:13:43.726 --> 00:13:45.006] PHILLIPA: So you came to me for help.
+[00:13:46.526 --> 00:13:47.486] PICARD: Yes, I came to you.
+[00:13:47.806 --> 00:13:49.566] PICARD: You're the JAG officer for this sector.
+[00:13:50.606 --> 00:13:51.726] PICARD: I had no choice but to come to you.
+[00:13:52.446 --> 00:13:52.846] PHILLIPA: Wait!
+[00:13:56.606 --> 00:13:57.566] PHILLIPA: I didn't mean it that way.
+[00:13:59.086 --> 00:14:00.126] PHILLIPA: I'm glad that you felt you could,
+[00:14:01.646 --> 00:14:02.766] PHILLIPA: well, come to me.
+[00:14:03.886 --> 00:14:06.126] PICARD: The word trust just isn't in your vocabulary, is it.
+[00:14:06.846 --> 00:14:07.326] PICARD: Good try,
+[00:14:07.326 --> 00:14:08.446] PICARD: nine out of ten for effort.
+[00:14:09.086 --> 00:14:10.286] PHILLIPA: I wish things were different.
+[00:14:11.726 --> 00:14:12.766] PICARD: I wish I could believe that.
+[00:15:29.270 --> 00:15:33.750] MADDOX: 'When in disgrace with fortune and men's eyes, I all alone beweep my outcast state'.
+[00:15:36.790 --> 00:15:38.070] MADDOX: Is it just words to you,
+[00:15:39.030 --> 00:15:40.470] MADDOX: or do you fathom the meaning?
+[00:15:41.830 --> 00:15:45.670] DATA: Is it not customary to request permission before entering an individual's quarters?
+[00:15:46.470 --> 00:15:48.070] MADDOX: I thought that we could talk this out,
+[00:15:48.070 --> 00:15:50.710] MADDOX: that I could try to persuade you.
+[00:15:50.710 --> 00:15:53.734] MADDOX: Your memories and knowledge will remain intact.
+[00:15:53.734 --> 00:16:01.510] DATA: Reduced to the mere facts of the events. The substance, the flavour of the moment, could be lost.
+[00:16:03.670 --> 00:16:04.790] DATA: Take games of chance.
+[00:16:05.910 --> 00:16:06.870] MADDOX: Games of chance?
+[00:16:07.110 --> 00:16:14.470] DATA: Yes, I had read and absorbed every treatise and textbook on the subject, and felt myself well prepared for the experience.
+[00:16:14.950 --> 00:16:21.750] DATA: Yet, when I finally played poker, I discovered that the reality bore little resemblance to the rules.
+[00:16:22.150 --> 00:16:23.447] MADDOX: And the point being?
+[00:16:23.447 --> 00:16:34.150] DATA: That while I believe it is possible to download the information contained in the positronic brain, I do not think you have acquired the expertise necessary to preserve the essence of those experiences.
+[00:16:35.830 --> 00:16:37.750] DATA: There is an ineffable quality to memory
+[00:16:38.075 --> 00:16:40.315] DATA: which I do not believe can survive your procedure.
+[00:16:41.755 --> 00:16:42.875] MADDOX: Ineffable quality.
+[00:16:46.555 --> 00:16:51.435] MADDOX: I had rather we had done this together, but one way or the other, we are doing it.
+[00:16:52.715 --> 00:16:53.675] MADDOX: You are under my command.
+[00:16:55.275 --> 00:16:55.515] DATA: No, sir,
+[00:16:56.555 --> 00:16:58.955] DATA: I am not under your nor anyone else's command.
+[00:16:59.675 --> 00:17:00.955] DATA: I have resigned from Starfleet.
+[00:17:01.355 --> 00:17:01.915] MADDOX: Resigned?
+[00:17:03.515 --> 00:17:04.555] MADDOX: You can't resign.
+[00:17:06.635 --> 00:17:08.795] DATA: I regret the decision, but I must.
+[00:17:09.915 --> 00:17:11.915] DATA: I am the culmination of one man's dream.
+[00:17:12.795 --> 00:17:19.435] DATA: This is not ego or vanity, but when Doctor Soong created me he added to the substance of the universe.
+[00:17:20.235 --> 00:17:25.515] DATA: If by your experiments I am destroyed, something unique, something wonderful will be lost.
+[00:17:26.315 --> 00:17:27.195] DATA: I cannot permit that,
+[00:17:28.155 --> 00:17:29.915] DATA: I must protect his dream.
+[00:17:31.355 --> 00:17:32.235] MADDOX: And so must I.
+[00:17:33.755 --> 00:17:36.795] MADDOX: But keep packing, because one way or the other, you will be reporting.
+[00:17:46.875 --> 00:17:48.155] LOG: Captain's log, supplemental.
+[00:17:48.395 --> 00:17:54.715] LOG: Commander Bruce Maddox, having been thwarted by Data's abrupt resignation, is now seeking a legal remedy for his woes.
+[00:17:55.275 --> 00:17:58.475] LOG: Captain Louvois has requested my presence at those discussions.
+[00:17:59.435 --> 00:18:01.515] MADDOX: Your response is emotional and irrational.
+[00:18:01.595 --> 00:18:02.075] PICARD: Irrational?
+[00:18:02.075 --> 00:18:06.395] MADDOX: You are endowing Data with human characteristics because it looks human. But it is not.
+[00:18:07.385 --> 00:18:10.505] MADDOX: If it were a box on wheels I would not be facing this opposition.
+[00:18:10.825 --> 00:18:13.945] PHILLIPA: Overt sentimentality is not one of Captain Picard's failings.
+[00:18:14.025 --> 00:18:15.065] PHILLIPA: Trust me, I know.
+[00:18:16.425 --> 00:18:17.625] PICARD: I will tell you again.
+[00:18:18.105 --> 00:18:20.505] PICARD: Data is a valued member of my crew.
+[00:18:20.505 --> 00:18:22.265] PICARD: He is an outstanding Bridge officer.
+[00:18:22.665 --> 00:18:27.785] MADDOX: If I am permitted to make this experiment, the horizons for human achievement become boundless.
+[00:18:28.745 --> 00:18:39.145] MADDOX: Consider, every ship in Starfleet with a Data on board. Utilising its tremendous capabilities, acting as our hands and eyes in dangerous situations.
+[00:18:39.465 --> 00:18:40.985] PHILLIPA: Look, you're preaching to the choir here.
+[00:18:41.385 --> 00:18:42.265] PHILLIPA: Why don't you get to the point?
+[00:18:42.985 --> 00:18:44.665] MADDOX: Data must not be permitted to resign.
+[00:18:44.985 --> 00:18:46.665] PICARD: Data is a Starfleet officer.
+[00:18:46.745 --> 00:18:47.865] PICARD: He still has certain rights.
+[00:18:47.865 --> 00:18:48.745] MADDOX: Rights! Rights!
+[00:18:48.745 --> 00:18:50.505] MADDOX: I'm sick to death of hearing about rights!
+[00:18:50.905 --> 00:18:54.745] MADDOX: What about my right not to have my life work subverted by blind ignorance?
+[00:18:54.905 --> 00:18:56.825] PHILLIPA: We have rule of law in this Federation.
+[00:18:56.825 --> 00:19:00.745] PHILLIPA: You ca not simply seize people and experiment with them to prove your pet theories.
+[00:19:00.745 --> 00:19:01.145] PICARD: Thank you.
+[00:19:01.465 --> 00:19:02.425] MADDOX: Now you're doing it.
+[00:19:03.145 --> 00:19:06.585] MADDOX: Data is an extraordinary piece of engineering, but it is a machine.
+[00:19:07.225 --> 00:19:10.825] MADDOX: If you permit it to resign it will destroy years of work in robotics.
+[00:19:11.865 --> 00:19:14.025] MADDOX: Starfleet does not have to allow the resignation.
+[00:19:14.585 --> 00:19:16.025] PICARD: Commander, who do you think you're working for?
+[00:19:16.905 --> 00:19:20.985] PICARD: Starfleet is not an organisation that ignores its own regulations when they become inconvenient.
+[00:19:21.865 --> 00:19:24.025] PICARD: Whether you like it or not, Data does have rights.
+[00:19:25.305 --> 00:19:26.345] MADDOX: Let me put it another way.
+[00:19:28.185 --> 00:19:31.785] MADDOX: Would you permit the computer of the Enterprise to refuse a refit?
+[00:19:34.185 --> 00:19:35.065] PHILLIPA: That's an interesting point.
+[00:19:36.290 --> 00:19:39.330] PHILLIPA: But the Enterprise computer is property. Is Data?
+[00:19:39.330 --> 00:19:40.050] MADDOX: Of course.
+[00:19:41.971 --> 00:19:43.570] PHILLIPA: There may be law to support this position.
+[00:19:44.211 --> 00:19:44.930] PICARD: Then find it.
+[00:19:45.650 --> 00:19:49.810] PICARD: A ruling with such broad ranging implications must be supported. Phillipa,
+[00:19:51.090 --> 00:19:55.010] PICARD: I hope you will use the same zeal that you did in the Stargazer court martial.
+[00:20:04.930 --> 00:20:06.930] WESLEY: Data, you're supposed to rip the wrapping off.
+[00:20:08.530 --> 00:20:14.690] DATA: With the application of a little care, Wes, the paper can be utilised again.
+[00:20:15.490 --> 00:20:16.610] WESLEY: Data, you're missing the point.
+[00:20:23.490 --> 00:20:26.130] DATA: The Dream of the Fire, by K'Ratak.
+[00:20:27.330 --> 00:20:27.890] DATA: Thank you, Worf.
+[00:20:28.450 --> 00:20:31.330] WORF: It was in the hands of the Klingons that the novel attained its full stature.
+[00:20:31.570 --> 00:20:33.090] PULASKI: I couldn't disagree more.
+[00:20:33.810 --> 00:20:35.330] PULASKI: We'll save that argument for another day.
+[00:20:35.731 --> 00:20:37.010] PULASKI: DATA: Excuse me, please.
+[00:20:40.130 --> 00:20:40.770] DATA: Is something wrong?
+[00:20:43.490 --> 00:20:45.890] LAFORGE: Of course there is. You're going away.
+[00:20:47.650 --> 00:20:52.211] DATA: No one regrets that necessity more than myself. You do understand my reasons?
+[00:20:52.770 --> 00:20:53.971] LAFORGE: Sure, I understand.
+[00:20:55.170 --> 00:20:56.370] LAFORGE: I just don't like your being forced out.
+[00:20:57.090 --> 00:20:57.810] LAFORGE: It's not fair.
+[00:21:01.010 --> 00:21:01.330] DATA: As Doctor
+[00:21:01.330 --> 00:21:03.570] DATA: Pulaski would at this juncture, no doubt, remind us,
+[00:21:04.383 --> 00:21:05.503] DATA: life is rarely fair.
+[00:21:07.183 --> 00:21:08.783] LAFORGE: Sorry, that just doesn't make it any better.
+[00:21:12.623 --> 00:21:13.503] DATA: I shall miss you, Geordi.
+[00:21:14.943 --> 00:21:15.103] LAFORGE: Yeah.
+[00:21:16.943 --> 00:21:17.263] LAFORGE: Me too.
+[00:21:21.343 --> 00:21:22.063] LAFORGE: Take care of yourself,
+[00:21:23.583 --> 00:21:25.583] LAFORGE: Data.
+[00:21:30.383 --> 00:21:35.183] PHILLIPA: I have completed my research, based on the Acts of Cumberland passed in the early twenty first century.
+[00:21:35.983 --> 00:21:37.663] PHILLIPA: Data is the property of Starfleet.
+[00:21:38.063 --> 00:21:41.423] PHILLIPA: He cannot resign and he cannot refuse to cooperate with Commander Maddox.
+[00:21:45.903 --> 00:21:47.023] PICARD: What if I challenge this ruling?
+[00:21:48.143 --> 00:21:49.663] PHILLIPA: Then I shall be required to hold a hearing.
+[00:21:50.143 --> 00:21:51.023] PICARD: Then I so challenge.
+[00:21:51.023 --> 00:21:52.163] PICARD: Convene your hearing.
+[00:21:52.163 --> 00:21:52.543] PHILLIPA: Captain,
+[00:21:52.543 --> 00:21:53.903] PHILLIPA: that would be exceedingly difficult.
+[00:21:55.103 --> 00:21:55.823] PHILLIPA: This is a new base.
+[00:21:55.823 --> 00:21:56.783] PHILLIPA: I have no staff.
+[00:21:58.063 --> 00:22:02.703] PICARD: But surely, Captain, you have regulations to take care of such an eventuality.
+[00:22:03.503 --> 00:22:03.983] PHILLIPA: There are.
+[00:22:04.623 --> 00:22:06.943] PHILLIPA: I can use serving officers as legal counsel.
+[00:22:07.583 --> 00:22:09.423] PHILLIPA: You as the senior officer would defend.
+[00:22:11.103 --> 00:22:11.503] PICARD: Very good.
+[00:22:13.103 --> 00:22:18.943] PHILLIPA: And the unenviable task of prosecuting this case would fall on you, Commander, as the next most senior officer of the defendant's ship.
+[00:22:21.983 --> 00:22:22.463] RIKER: I can't.
+[00:22:23.183 --> 00:22:23.983] RIKER: I won't.
+[00:22:24.463 --> 00:22:25.423] RIKER: Data's my comrade.
+[00:22:25.503 --> 00:22:26.303] RIKER: We have served together.
+[00:22:26.543 --> 00:22:27.663] RIKER: I not only respect him,
+[00:22:27.663 --> 00:22:29.023] RIKER: I consider him my friend.
+[00:22:30.285 --> 00:22:36.445] PHILLIPA: When people of good conscience have an honest dispute, we must still sometimes resort to this kind of adversarial system.
+[00:22:37.725 --> 00:22:39.805] RIKER: You just want me to prove that Data is a mere machine.
+[00:22:39.885 --> 00:22:41.645] RIKER: I can't do that because I don't believe it.
+[00:22:42.045 --> 00:22:45.085] RIKER: I happen to know better. So I'm neither qualified nor willing.
+[00:22:46.045 --> 00:22:47.165] RIKER: You're going to have to find someone else.
+[00:22:47.725 --> 00:22:50.205] PHILLIPA: Then I will rule summarily based upon my findings.
+[00:22:50.925 --> 00:22:51.965] PHILLIPA: Data is a toaster.
+[00:22:52.445 --> 00:22:55.245] PHILLIPA: Have him report to Commander Maddox immediately for experimental refit.
+[00:23:01.165 --> 00:23:01.645] RIKER: I see.
+[00:23:02.045 --> 00:23:03.325] RIKER: I have no choice but to agree.
+[00:23:04.525 --> 00:23:04.845] PHILLIPA: Good.
+[00:23:05.645 --> 00:23:07.645] PHILLIPA: And I expect you to do your duty in that courtroom.
+[00:23:07.885 --> 00:23:11.485] PHILLIPA: If I find for one minute that you are not doing your best, I will end this then and there.
+[00:23:14.045 --> 00:23:15.325] PICARD: You don't have to remind us of our duty.
+[00:23:19.085 --> 00:23:21.725] PICARD: You just
+[00:23:24.045 --> 00:23:24.525] PICARD: remember yours.
+[00:23:25.725 --> 00:23:26.765] PHILLIPA: I have never forgotten it.
+[00:23:27.725 --> 00:23:29.805] PHILLIPA: Not then, and certainly not now.
+[00:23:42.525 --> 00:23:42.765] PICARD: Come.
+[00:23:46.765 --> 00:23:47.005] PICARD: Data,
+[00:23:47.725 --> 00:23:49.165] PICARD: Captain Louvois has issued a ruling.
+[00:23:49.165 --> 00:23:50.925] PICARD: You are the property of Starfleet Command.
+[00:23:51.645 --> 00:23:52.845] PICARD: You can not resign.
+[00:23:54.685 --> 00:23:55.005] DATA: I see.
+[00:23:56.445 --> 00:23:59.725] DATA: From limitless options I am reduced to none, or rather one.
+[00:24:01.080 --> 00:24:03.640] DATA: I can only hope that Commander Maddox is more capable than it would appear.
+[00:24:04.040 --> 00:24:05.320] PICARD: Data, you're not going to submit.
+[00:24:05.320 --> 00:24:06.360] PICARD: We're going to fight this.
+[00:24:07.160 --> 00:24:08.120] PICARD: I challenged the ruling.
+[00:24:08.920 --> 00:24:11.160] PICARD: Captain Louvois will be compelled to hold a hearing.
+[00:24:11.720 --> 00:24:16.920] PICARD: She may be overly attached to the letter of the law, but I suspect that she still understands its spirit.
+[00:24:17.720 --> 00:24:21.400] PICARD: We will put to rest this question of your legal status once and for all.
+[00:24:21.400 --> 00:24:27.249] PICARD: Now, I have been asked to represent you, but if there is some other officer with which you would feel more happy?
+[00:24:27.249 --> 00:24:30.440] DATA: Captain, I have complete confidence in your ability to represent my interests.
+[00:24:45.080 --> 00:24:47.320] RIKER: Computer, identify Riker, William T.
+[00:24:48.040 --> 00:24:51.080] RIKER: Access code theta alpha two seven three seven, blue,
+[00:24:51.320 --> 00:24:51.640] RIKER: enable.
+[00:24:52.440 --> 00:24:53.720] COMPUTER: Riker, William T,
+[00:24:53.960 --> 00:24:54.760] COMPUTER: identified.
+[00:24:55.640 --> 00:24:55.960] COMPUTER: Ready.
+[00:24:57.240 --> 00:25:01.000] RIKER: Access all available technical schematics on Lieutenant Commander Data.
+[00:25:02.360 --> 00:25:02.760] COMPUTER: Working.
+[00:25:28.360 --> 00:25:33.320] PHILLIPA: This hearing, convened on stardate 42527.4,
+[00:25:33.788 --> 00:25:36.748] PHILLIPA: is to determine the legal status of the android known as Data.
+[00:25:37.468 --> 00:25:41.868] PHILLIPA: The office of the Judge Advocate General has rendered a finding of property, the defence has challenged.
+[00:25:42.508 --> 00:25:43.228] PHILLIPA: Commander Riker?
+[00:25:44.028 --> 00:25:46.828] RIKER: Your honour, there is only one issue, and one relevant piece of evidence.
+[00:25:47.228 --> 00:25:48.428] RIKER: I call Lieutenant Commander Data.
+[00:25:57.548 --> 00:26:00.588] COMPUTER: Verify. Lieutenant Commander Data.
+[00:26:01.308 --> 00:26:06.348] COMPUTER: Current assignment, USS Enterprise. Starfleet Command Decoration for Valour and
+[00:26:06.588 --> 00:26:08.108] RIKER: Your honour, we'll stipulate to all of this.
+[00:26:08.988 --> 00:26:09.708] PICARD: Objection, Your Honour,
+[00:26:11.468 --> 00:26:12.188] PICARD: I want this read.
+[00:26:12.828 --> 00:26:13.228] PICARD: All of it.
+[00:26:13.868 --> 00:26:14.348] PHILLIPA: Sustained.
+[00:26:15.068 --> 00:26:21.548] COMPUTER: Valour and Gallantry, Medal of Honour with Clusters, Legion of Honour, the Star Cross.
+[00:26:24.988 --> 00:26:25.548] PHILLIPA: Proceed, Commander.
+[00:26:28.908 --> 00:26:29.628] RIKER: Commander, what are you?
+[00:26:31.948 --> 00:26:32.428] DATA: An android.
+[00:26:33.868 --> 00:26:34.268] RIKER: Which is?
+[00:26:35.548 --> 00:26:41.708] DATA: Webster's Twenty Fourth Century Dictionary, Fifth Edition, defines an android as an automaton made to resemble a human being.
+[00:26:42.508 --> 00:26:43.228] RIKER: Automaton.
+[00:26:44.108 --> 00:26:45.388] RIKER: Made. By whom?
+[00:26:47.068 --> 00:26:47.308] DATA: Sir?
+[00:26:48.108 --> 00:26:48.908] RIKER: Who built you, Commander?
+[00:26:49.868 --> 00:26:50.828] DATA: Doctor Noonien Soong.
+[00:26:51.308 --> 00:26:52.298] RIKER: And he was?
+[00:26:52.298 --> 00:26:53.948] DATA: The foremost authority in cybernetics.
+[00:26:54.748 --> 00:26:56.668] RIKER: More basic than that. What was he?
+[00:27:00.268 --> 00:27:00.668] DATA: Human?
+[00:27:02.645 --> 00:27:02.965] RIKER: Thank you.
+[00:27:05.605 --> 00:27:05.925] RIKER: Commander,
+[00:27:05.925 --> 00:27:09.045] RIKER: what is the capacity of your memory, and how fast can you access information?
+[00:27:10.565 --> 00:27:14.085] DATA: I have an ultimate storage capacity of eight hundred quadrillion bits.
+[00:27:14.405 --> 00:27:19.045] DATA: My total linear computational speed has been rated at sixty trillion operations per second.
+[00:27:24.565 --> 00:27:30.805] RIKER: Your Honour, I offer in evidence prosecution's exhibit A, a rod of par-steel. Tensile strength, forty kilobars.
+[00:27:36.565 --> 00:27:37.525] RIKER: Commander, would you bend that?
+[00:27:37.925 --> 00:27:38.405] PICARD: Objection.
+[00:27:38.885 --> 00:27:41.205] PICARD: There are many life forms possessed of mega strength.
+[00:27:41.925 --> 00:27:43.365] PICARD: These issues are not relevant to this hearing.
+[00:27:43.925 --> 00:27:45.285] PHILLIPA: I'm afraid I can't agree, Captain.
+[00:27:45.845 --> 00:27:47.445] PHILLIPA: Proceed with you demonstration, Commander.
+[00:28:04.485 --> 00:28:11.045] RIKER: Drawing on the log record of the construction of the prototype android Lore, also constructed by Noonien Soong, I request to be allowed to
+[00:28:13.125 --> 00:28:15.365] RIKER: remove the Commander's hand for your inspection.
+[00:28:15.765 --> 00:28:16.325] PICARD: Objection!
+[00:28:16.475 --> 00:28:17.075] PICARD: It
+[00:28:21.045 --> 00:28:21.685] PICARD: doesn't matter.
+[00:28:25.125 --> 00:28:25.925] PICARD: Objection withdrawn.
+[00:28:30.085 --> 00:28:30.725] PHILLIPA: Proceed, Commander.
+[00:28:36.259 --> 00:28:36.739] RIKER: I'm sorry.
+[00:28:54.419 --> 00:29:02.179] RIKER: The Commander is a physical representation of a dream, an idea conceived of by the mind of a man.
+[00:29:03.459 --> 00:29:07.139] RIKER: It's purpose is to serve human needs and interests.
+[00:29:07.379 --> 00:29:11.939] RIKER: It's a collection of neural nets and heuristic algorithms.
+[00:29:14.019 --> 00:29:17.859] RIKER: Its responses dictated by an elaborate software programme written by a man.
+[00:29:17.859 --> 00:29:20.259] RIKER: Its hardware built by a man.
+[00:29:20.899 --> 00:29:21.299] RIKER: And now.
+[00:29:23.379 --> 00:29:24.579] RIKER: And now a man will shut it off.
+[00:29:30.019 --> 00:29:32.579] RIKER: Pinocchio is broken.
+[00:29:33.299 --> 00:29:34.499] RIKER: Its strings have been cut.
+[00:29:46.339 --> 00:29:49.219] PICARD: I request a recess.
+[00:29:50.819 --> 00:29:51.059] PHILLIPA: Granted.
+[00:30:06.730 --> 00:30:08.570] GUINAN: Do you mean his argument was that good?
+[00:30:10.010 --> 00:30:11.850] PICARD: Riker's presentation was devastating.
+[00:30:12.330 --> 00:30:13.370] PICARD: He almost convinced me.
+[00:30:13.370 --> 00:30:15.930] GUINAN: You've got the harder argument.
+[00:30:16.330 --> 00:30:18.330] GUINAN: By his own admission, Data is a machine.
+[00:30:19.210 --> 00:30:19.610] PICARD: That's true.
+[00:30:22.490 --> 00:30:24.890] GUINAN: You're worried about what's going to happen to him?
+[00:30:26.250 --> 00:30:28.890] PICARD: I've had to send people on far more dangerous missions.
+[00:30:30.810 --> 00:30:32.410] GUINAN: Then this should work out fine.
+[00:30:33.130 --> 00:30:37.210] GUINAN: Maddox could get lucky and create a whole army of Datas, all very valuable.
+[00:30:38.090 --> 00:30:38.890] PICARD: Oh, yes. No doubt.
+[00:30:39.690 --> 00:30:40.730] GUINAN: He's proved his value to
+[00:30:44.170 --> 00:30:44.170] GUINAN: you.
+[00:30:46.170 --> 00:30:48.250] PICARD: In ways that I cannot even begin to calculate.
+[00:30:51.370 --> 00:30:54.410] GUINAN: And now he's about to be ruled the property of Starfleet.
+[00:30:55.130 --> 00:30:56.410] GUINAN: That should increase his value.
+[00:31:00.490 --> 00:31:00.970] PICARD: In what way?
+[00:31:00.970 --> 00:31:07.450] GUINAN: Well, consider that in the history of many worlds there have always been disposable creatures.
+[00:31:08.410 --> 00:31:09.450] GUINAN: They do the dirty work.
+[00:31:10.330 --> 00:31:14.250] GUINAN: They do the work that no one else wants to do because it's too difficult, or to hazardous.
+[00:31:15.050 --> 00:31:17.610] GUINAN: And an army of Datas, all disposable,
+[00:31:18.410 --> 00:31:20.330] GUINAN: you don't have to think about their welfare,
+[00:31:20.330 --> 00:31:21.930] GUINAN: you don't think about how they feel.
+[00:31:23.627 --> 00:31:27.147] GUINAN: Whole generations of disposable people.
+[00:31:27.297 --> 00:31:27.897] PICARD: You're
+[00:31:31.227 --> 00:31:32.267] PICARD: talking about slavery.
+[00:31:35.867 --> 00:31:37.387] GUINAN: I think that's a little harsh.
+[00:31:38.347 --> 00:31:39.707] PICARD: I don't think that's a little harsh.
+[00:31:39.707 --> 00:31:40.587] PICARD: I think that's the truth.
+[00:31:41.227 --> 00:31:45.387] PICARD: But that's a truth we have obscured behind a
+[00:31:47.387 --> 00:31:51.307] PICARD: comfortable, easy euphemism. Property.
+[00:31:53.387 --> 00:31:55.787] PICARD: But that's not the issue at all, is it?
+[00:32:02.587 --> 00:32:12.107] PICARD: Commander Riker has dramatically demonstrated to this court that Lieutenant Commander Data is a machine.
+[00:32:12.507 --> 00:32:13.387] PICARD: Do we deny that?
+[00:32:13.467 --> 00:32:15.627] PICARD: No. Because it is not relevant.
+[00:32:16.667 --> 00:32:20.507] PICARD: We too are machines, just machines of a different type.
+[00:32:21.707 --> 00:32:28.187] PICARD: Commander Riker has also reminded us that Lieutenant Commander Data was created by a human.
+[00:32:28.267 --> 00:32:29.307] PICARD: Do we deny that?
+[00:32:29.387 --> 00:32:29.787] PICARD: No.
+[00:32:30.347 --> 00:32:31.547] PICARD: Again it is not relevant.
+[00:32:33.147 --> 00:32:38.107] PICARD: Children are created from the building blocks of their parents' DNA.
+[00:32:40.267 --> 00:32:40.907] PICARD: Are they property?
+[00:32:43.627 --> 00:32:45.867] PICARD: I call Lieutenant Commander Data to the stand.
+[00:33:02.744 --> 00:33:03.224] PICARD: What are these?
+[00:33:03.864 --> 00:33:04.504] DATA: My medals.
+[00:33:05.624 --> 00:33:06.424] PICARD: Why do you pack them?
+[00:33:06.424 --> 00:33:07.704] PICARD: What logical purpose do they serve?
+[00:33:09.464 --> 00:33:10.344] DATA: I do not know, sir.
+[00:33:11.224 --> 00:33:12.024] DATA: I suppose none.
+[00:33:12.264 --> 00:33:13.304] DATA: I just wanted them.
+[00:33:14.584 --> 00:33:15.464] DATA: Is that vanity?
+[00:33:17.704 --> 00:33:19.624] PICARD: And this?
+[00:33:20.984 --> 00:33:21.944] DATA: A gift from you, sir.
+[00:33:22.344 --> 00:33:22.824] PICARD: You value it?
+[00:33:23.944 --> 00:33:24.184] DATA: Yes, sir.
+[00:33:24.584 --> 00:33:24.824] PICARD: Why?
+[00:33:25.864 --> 00:33:28.424] DATA: It is a reminder of friendship and service.
+[00:33:42.584 --> 00:33:42.984] PICARD: And this?
+[00:33:44.744 --> 00:33:46.744] PICARD: You have no other portraits of your fellow crew members.
+[00:33:47.544 --> 00:33:48.184] PICARD: Why this person?
+[00:33:50.824 --> 00:33:52.744] DATA: I would prefer not to answer that question, sir.
+[00:33:52.984 --> 00:33:53.784] DATA: I gave my word.
+[00:33:55.784 --> 00:33:58.344] PICARD: Under the circumstances, I don't think Tasha would mind.
+[00:34:01.544 --> 00:34:02.584] DATA: She was special to me, sir.
+[00:34:03.624 --> 00:34:03.944] DATA: We were
+[00:34:06.904 --> 00:34:07.304] DATA: intimate.
+[00:34:16.104 --> 00:34:18.904] PICARD: Thank you, Commander.
+[00:34:19.064 --> 00:34:21.064] PICARD: I have no further questions for this witness.
+[00:34:23.144 --> 00:34:24.904] PHILLIPA: Commander Riker, do you want to cross?
+[00:34:26.104 --> 00:34:27.144] RIKER: I have no questions, Your Honour.
+[00:34:28.264 --> 00:34:28.664] PHILLIPA: Thank you.
+[00:34:28.744 --> 00:34:29.464] PHILLIPA: You may step down.
+[00:34:34.251 --> 00:34:37.371] PICARD: I call to the stand Commander Bruce Maddox as a hostile witness.
+[00:34:48.171 --> 00:34:58.971] COMPUTER: Verify, Maddox, Bruce, Commander. Current assignment, Associate Chair of Robotics, Daystrom Technological Institute. Major papers
+[00:34:58.971 --> 00:34:59.371] PICARD: Yes, yes, yes.
+[00:34:59.531 --> 00:35:01.211] PICARD: Suffice it to say, he's an expert. Commander,
+[00:35:01.451 --> 00:35:10.571] PICARD: is your contention that Lieutenant Commander Data is not a sentient being and therefore not entitled to all the rights reserved for all life forms within this Federation?
+[00:35:11.291 --> 00:35:12.491] MADDOX: Data is not sentient,
+[00:35:12.571 --> 00:35:13.171] MADDOX: no.
+[00:35:13.171 --> 00:35:13.771] PICARD: Commander,
+[00:35:13.851 --> 00:35:14.891] PICARD: would you enlighten us?
+[00:35:14.971 --> 00:35:16.811] PICARD: What is required for sentience?
+[00:35:18.011 --> 00:35:21.211] MADDOX: Intelligence, self awareness, consciousness.
+[00:35:23.211 --> 00:35:24.731] PICARD: Prove to the court that I am sentient.
+[00:35:25.611 --> 00:35:26.411] MADDOX: This is absurd!
+[00:35:27.051 --> 00:35:28.171] MADDOX: We all know you're sentient.
+[00:35:28.571 --> 00:35:30.731] PICARD: So I am sentient, but Data is not?
+[00:35:30.891 --> 00:35:31.291] MADDOX: That's right.
+[00:35:32.651 --> 00:35:32.891] PICARD: Why?
+[00:35:34.491 --> 00:35:35.371] PICARD: Why am I sentient?
+[00:35:36.491 --> 00:35:37.611] MADDOX: Well, you are self aware.
+[00:35:38.171 --> 00:35:39.531] PICARD: Ah, that's the second of your criteria.
+[00:35:39.931 --> 00:35:41.211] PICARD: Let's deal with the first,
+[00:35:41.531 --> 00:35:44.411] PICARD: intelligence. Is Commander Data intelligent?
+[00:35:44.411 --> 00:35:44.891] MADDOX: Yes.
+[00:35:45.931 --> 00:35:51.070] MADDOX: It has the ability to learn and understand, and to cope with new situations.
+[00:35:51.070 --> 00:35:52.171] PICARD: Like this hearing.
+[00:35:52.411 --> 00:35:52.651] MADDOX: Yes.
+[00:35:54.331 --> 00:35:55.851] PICARD: What about self awareness.
+[00:35:55.931 --> 00:35:57.051] PICARD: What does that mean?
+[00:35:57.211 --> 00:35:57.691] PICARD: Why
+[00:35:58.491 --> 00:35:59.691] PICARD: am I self aware?
+[00:36:00.565 --> 00:36:06.325] MADDOX: Because you are conscious of your existence and actions. You are aware of yourself and your own ego.
+[00:36:07.605 --> 00:36:08.805] PICARD: Commander Data, what are you doing now?
+[00:36:09.845 --> 00:36:13.045] DATA: I am taking part in a legal hearing to determine my rights and status.
+[00:36:13.605 --> 00:36:14.805] DATA: Am I a person or property?
+[00:36:15.205 --> 00:36:16.085] PICARD: And what's at stake?
+[00:36:16.885 --> 00:36:19.765] DATA: My right to choose. Perhaps my very life.
+[00:36:21.285 --> 00:36:25.125] PICARD: My rights. My status. My right to choose.
+[00:36:28.405 --> 00:36:28.885] PICARD: My life.
+[00:36:32.005 --> 00:36:36.405] PICARD: It seems reasonably self aware to me. Commander?
+[00:36:41.845 --> 00:36:42.405] PICARD: I'm waiting.
+[00:36:45.205 --> 00:36:47.045] MADDOX: This is exceedingly difficult.
+[00:36:47.525 --> 00:36:48.645] PICARD: Do you like Commander Data?
+[00:36:52.485 --> 00:36:56.325] MADDOX: I don't know it well enough to like or dislike it.
+[00:36:57.045 --> 00:36:58.005] PICARD: But you admire him?
+[00:36:58.165 --> 00:36:58.645] MADDOX: Oh yes,
+[00:37:00.165 --> 00:37:01.665] MADDOX: it's an extraordinary piece of
+[00:37:01.665 --> 00:37:02.565] PICARD: Engineering and programming.
+[00:37:02.565 --> 00:37:04.325] PICARD: Yes, you have said that. Commander,
+[00:37:04.325 --> 00:37:07.285] PICARD: you have devoted your life to the study of cybernetics in general?
+[00:37:07.685 --> 00:37:08.005] MADDOX: Yes.
+[00:37:08.565 --> 00:37:09.845] PICARD: And Commander Data in particular?
+[00:37:09.925 --> 00:37:10.245] MADDOX: Yes.
+[00:37:10.325 --> 00:37:12.038] PICARD: And now you propose to dismantle him.
+[00:37:12.038 --> 00:37:14.485] MADDOX: So that I can learn from it and construct more.
+[00:37:15.765 --> 00:37:16.245] PICARD: How many more?
+[00:37:16.325 --> 00:37:17.605] MADDOX: As many as are needed.
+[00:37:18.485 --> 00:37:20.805] MADDOX: Hundreds, thousands if necessary.
+[00:37:21.685 --> 00:37:22.965] MADDOX: There is no limit.
+[00:37:24.725 --> 00:37:30.325] PICARD: A single Data, and forgive me, Commander, is a curiosity.
+[00:37:32.083 --> 00:37:34.003] PICARD: A wonder, even. But thousands of Datas.
+[00:37:36.323 --> 00:37:37.203] PICARD: Isn't that becoming
+[00:37:39.203 --> 00:37:39.843] PICARD: a race?
+[00:37:41.363 --> 00:37:44.483] PICARD: And won't we be judged by how we treat that race?
+[00:37:45.203 --> 00:37:47.123] PICARD: Now, tell me, Commander, what is Data?
+[00:37:49.603 --> 00:37:50.163] MADDOX: I don't understand.
+[00:37:50.483 --> 00:37:51.283] PICARD: What is he?
+[00:37:51.603 --> 00:37:52.403] MADDOX: A machine!
+[00:37:52.483 --> 00:37:52.723] PICARD: Is he?
+[00:37:52.723 --> 00:37:53.203] PICARD: Are you sure?
+[00:37:53.203 --> 00:37:53.763] MADDOX: Yes!
+[00:37:53.923 --> 00:37:56.163] PICARD: You see, he's met two of your three criteria for sentience,
+[00:37:56.163 --> 00:37:58.883] PICARD: so what if he meets the third. Consciousness in even the smallest degree.
+[00:37:59.203 --> 00:37:59.683] PICARD: What is he then?
+[00:38:00.003 --> 00:38:00.403] PICARD: I don't know.
+[00:38:01.683 --> 00:38:03.683] PICARD: Do you?
+[00:38:03.843 --> 00:38:03.923] PICARD: Do you?
+[00:38:07.683 --> 00:38:08.083] PICARD: Do you?
+[00:38:13.843 --> 00:38:15.363] PICARD: Well, that's the question you have to answer.
+[00:38:18.243 --> 00:38:19.603] PICARD: Your Honour, the courtroom is a crucible.
+[00:38:19.683 --> 00:38:24.163] PICARD: In it we burn away irrelevancies until we are left with a pure product, the truth for all time.
+[00:38:25.043 --> 00:38:29.683] PICARD: Now, sooner or later, this man or others like him will succeed in replicating Commander Data.
+[00:38:30.403 --> 00:38:36.563] PICARD: And the decision you reach here today will determine how we will regard this creation of our genius.
+[00:38:37.683 --> 00:38:40.963] PICARD: It will reveal the kind of a people we are, what he is destined to be.
+[00:38:40.963 --> 00:38:44.963] PICARD: It will reach far beyond this courtroom and this one android.
+[00:38:46.483 --> 00:38:51.843] PICARD: It could significantly redefine the boundaries of personal liberty and freedom, expanding them for some,
+[00:38:53.843 --> 00:38:55.443] PICARD: savagely curtailing them for others.
+[00:38:58.163 --> 00:39:01.683] PICARD: Are you prepared to condemn him and all who come after him to servitude and slavery?
+[00:39:04.181 --> 00:39:07.221] PICARD: Your Honour, Starfleet was founded to seek out new life.
+[00:39:07.221 --> 00:39:08.741] PICARD: Well, there it sits.
+[00:39:12.661 --> 00:39:12.901] PICARD: Waiting.
+[00:39:20.101 --> 00:39:21.381] PICARD: You wanted a chance to make law.
+[00:39:21.461 --> 00:39:22.181] PICARD: Well, here it is.
+[00:39:22.661 --> 00:39:23.301] PICARD: Make a good one.
+[00:39:35.381 --> 00:39:38.741] PHILLIPA: It sits there looking at me, and I don't know what it is.
+[00:39:41.781 --> 00:39:47.781] PHILLIPA: This case has dealt with metaphysics, with questions best left to saints and philosophers.
+[00:39:49.221 --> 00:39:52.421] PHILLIPA: I'm neither competent nor qualified to answer those.
+[00:39:53.861 --> 00:39:55.221] PHILLIPA: I've got to make a ruling,
+[00:39:56.341 --> 00:39:57.701] PHILLIPA: to try to speak to the future.
+[00:40:01.621 --> 00:40:02.501] PHILLIPA: Is Data a machine?
+[00:40:03.061 --> 00:40:03.381] PHILLIPA: Yes.
+[00:40:05.541 --> 00:40:06.821] PHILLIPA: Is he the property of Starfleet?
+[00:40:08.421 --> 00:40:08.581] PHILLIPA: No.
+[00:40:10.661 --> 00:40:12.981] PHILLIPA: We have all been dancing around the basic issue.
+[00:40:14.501 --> 00:40:15.701] PHILLIPA: Does Data have a soul?
+[00:40:17.381 --> 00:40:18.341] PHILLIPA: I don't know that he has.
+[00:40:19.701 --> 00:40:20.741] PHILLIPA: I don't know that I have.
+[00:40:23.061 --> 00:40:26.661] PHILLIPA: But I have got to give him the freedom to explore that question himself.
+[00:40:28.741 --> 00:40:30.101] PHILLIPA: It is the ruling of this court
+[00:40:30.542 --> 00:40:34.622] PHILLIPA: that Lieutenant Commander Data has the freedom to choose.
+[00:40:48.302 --> 00:40:50.942] DATA: I formally refuse to undergo your procedure.
+[00:40:51.822 --> 00:40:54.222] MADDOX: I will cancel that transfer order.
+[00:40:55.422 --> 00:40:55.662] DATA: Thank you.
+[00:40:57.822 --> 00:41:00.302] DATA: And, Commander, continue your work.
+[00:41:01.342 --> 00:41:03.662] DATA: When you are ready, I will still be here.
+[00:41:05.102 --> 00:41:06.542] DATA: I find some of what you propose
+[00:41:08.702 --> 00:41:09.262] DATA: intriguing.
+[00:41:16.862 --> 00:41:17.662] MADDOX: He's remarkable.
+[00:41:18.942 --> 00:41:19.902] PHILLIPA: You didn't call him it.
+[00:41:30.862 --> 00:41:33.502] PHILLIPA: You see? Sometimes it does work.
+[00:41:36.702 --> 00:41:37.022] PICARD: Phillipa.
+[00:41:42.462 --> 00:41:42.702] PICARD: Dinner?
+[00:41:44.382 --> 00:41:44.942] PHILLIPA: You buying?
+[00:41:46.662 --> 00:41:48.382] DATA: Sir,
+[00:41:50.102 --> 00:41:51.822] DATA: there
+[00:41:53.542 --> 00:41:55.262] DATA: is
+[00:41:56.982 --> 00:41:58.702] DATA: a
+[00:42:00.422 --> 00:42:02.142] DATA: celebration on the Holodeck.
+[00:42:04.314 --> 00:42:06.123] RIKER: I have no right to be there.
+[00:42:06.123 --> 00:42:07.674] DATA: Because you failed in your task?
+[00:42:08.234 --> 00:42:09.194] RIKER: No, God, no.
+[00:42:09.194 --> 00:42:10.634] RIKER: I came that close to winning, Data.
+[00:42:11.674 --> 00:42:11.994] DATA: Yes, sir.
+[00:42:12.874 --> 00:42:14.154] RIKER: I almost cost you your life!
+[00:42:15.514 --> 00:42:21.914] DATA: Is it not true that had you refused to prosecute, Captain Louvois would have ruled summarily against me?
+[00:42:22.954 --> 00:42:23.114] RIKER: Yes.
+[00:42:24.394 --> 00:42:27.834] DATA: That action injured you, and saved me.
+[00:42:29.674 --> 00:42:30.394] DATA: I will not forget
+[00:42:31.994 --> 00:42:33.994] DATA: it.
+[00:42:34.234 --> 00:42:35.434] RIKER: You're a wise man, my friend.
+[00:42:36.794 --> 00:42:40.474] DATA: Not yet, sir. But with your help, I am learning.

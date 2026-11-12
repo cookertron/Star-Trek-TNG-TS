@@ -1,0 +1,764 @@
+[00:00:02.080 --> 00:00:05.520] LOG: Captain's log, Stardate 42402.7.
+[00:00:05.920 --> 00:00:12.160] LOG: We are travelling in the Omega Sagitta system traversing between twin planets that form the Coalition of Madena.
+[00:00:13.040 --> 00:00:22.080] LOG: Both worlds is populated by a humanoid race which colonised the planets two centuries ago, and which now co-exist under a precarious but successful treaty.
+[00:00:23.520 --> 00:00:24.880] WORF: Unidentified vessel approaching.
+[00:00:32.080 --> 00:00:37.040] DATA: Sensor readings show it to be a small class-nine vessel, probably an interplanetary cargo ship.
+[00:00:38.640 --> 00:00:39.840] WORF: One life sign aboard, sir.
+[00:00:40.640 --> 00:00:42.880] WORF: It appears to be humanoid.
+[00:00:44.000 --> 00:00:45.200] DATA: I have its call sign now, sir.
+[00:00:45.600 --> 00:00:46.160] WORF: Confirmed.
+[00:00:47.200 --> 00:00:48.560] WORF: Armed with lasers only.
+[00:00:49.280 --> 00:00:50.480] DATA: Its cargo holds are empty.
+[00:00:51.120 --> 00:00:53.520] DATA: The readout shows its guidance system is malfunctioning.
+[00:00:54.400 --> 00:00:56.800] DATA: The pilot is attempting to hold course manually.
+[00:00:57.520 --> 00:01:01.520] RIKER: I recommend we set the Enterprise on an intercept course in case he needs emergency assistance.
+[00:01:01.840 --> 00:01:02.880] PICARD: Make it so, Mister Crusher.
+[00:01:09.072 --> 00:01:11.072] RIKER: We're
+[00:01:17.264 --> 00:01:19.264] RIKER: in
+[00:01:23.360 --> 00:01:24.640] RIKER: position now, Captain.
+[00:01:25.440 --> 00:01:26.240] PICARD: Open hailing frequencies.
+[00:01:26.573 --> 00:01:28.240] WORF: Hailing frequencies open.
+[00:01:28.758 --> 00:01:29.158] PICARD: On viewer.
+[00:01:30.198 --> 00:01:32.598] PICARD: This is the USS Enterprise. Captain Jean Luc Picard.
+[00:01:33.318 --> 00:01:35.478] OKONA: And this is the cargo carrier Erstwhile.
+[00:01:35.478 --> 00:01:37.398] OKONA: Captain Okona at your service, sir.
+[00:01:38.118 --> 00:01:39.798] OKONA: There's no need for your phasers, Captain.
+[00:01:39.798 --> 00:01:42.518] OKONA: I'm harmless and not quite yet ready for mercy killing.
+[00:01:43.558 --> 00:01:45.558] PICARD: You were never considered a danger to us, Captain.
+[00:01:45.878 --> 00:01:46.838] OKONA: Oh, that's a shame.
+[00:01:46.838 --> 00:01:49.398] OKONA: I can remember when I was at least considered a risk.
+[00:01:52.198 --> 00:02:02.358] OKONA: I'm the owner and operator of this craft and since we both know that you've already scanned it, you know I'm alone and empty, which is truly a rare occasion for a man of my charm and talent.
+[00:02:03.558 --> 00:02:04.278] PICARD: Mute main viewer.
+[00:02:04.998 --> 00:02:05.318] PICARD: Counsellor?
+[00:02:05.798 --> 00:02:10.918] TROI: His emotions suggest that he's mischievous, irreverent and somewhat brazen.
+[00:02:12.118 --> 00:02:15.158] TROI: The word that seems to best describe him is rogue.
+[00:02:17.078 --> 00:02:17.398] DATA: Rogue?
+[00:02:19.158 --> 00:02:19.398] DATA: Ah.
+[00:02:19.878 --> 00:02:20.198] DATA: Cad,
+[00:02:20.678 --> 00:02:20.998] DATA: knave,
+[00:02:21.158 --> 00:02:21.398] DATA: rake,
+[00:02:21.478 --> 00:02:21.878] DATA: rascal,
+[00:02:22.038 --> 00:02:22.358] DATA: villain,
+[00:02:22.678 --> 00:02:23.105] DATA: wild element.
+[00:02:23.105 --> 00:02:23.318] TROI: Yes,
+[00:02:23.318 --> 00:02:23.718] TROI: Data,
+[00:02:24.198 --> 00:02:26.278] TROI: but there is no malevolence or ill will.
+[00:02:28.518 --> 00:02:29.158] PICARD: Audio on.
+[00:02:29.718 --> 00:02:31.638] PICARD: You have a burn-out in your guidance system, Captain.
+[00:02:32.278 --> 00:02:32.678] OKONA: Whoa.
+[00:02:33.478 --> 00:02:37.489] OKONA: Since you're able to diagnose my problems, how about helping me fix them?
+[00:02:37.489 --> 00:02:37.798] WESLEY: Captain,
+[00:02:38.038 --> 00:02:40.198] WESLEY: we could easily repair the type of system he uses.
+[00:02:42.358 --> 00:02:43.398] PICARD: We can accommodate you, Captain.
+[00:02:43.718 --> 00:02:44.998] RIKER: This is the First Officer, sir.
+[00:02:45.078 --> 00:02:49.106] RIKER: If you prepare to shut down your engines, we can lock on the tractor and beam you over here.
+[00:02:49.106 --> 00:02:49.318] WORF: Sir,
+[00:02:49.958 --> 00:02:51.718] WORF: recommend limited access to our ship.
+[00:02:52.358 --> 00:02:52.838] PICARD: Agreed.
+[00:02:53.238 --> 00:02:54.438] RIKER: Data, lock on the tractor beam.
+[00:02:54.438 --> 00:02:56.198] RIKER: Transporter Chief, prepare to him beam aboard.
+[00:02:56.598 --> 00:02:57.718] ROBINSON: Ready on your command, sir.
+[00:02:58.438 --> 00:02:59.478] OKONA: Excuse me, Commander.
+[00:03:00.358 --> 00:03:01.718] OKONA: Is that a woman's voice I hear?
+[00:03:05.142 --> 00:03:05.622] PICARD: Yes.
+[00:03:05.622 --> 00:03:09.462] PICARD: Now please follow Commander Riker's instructions so our ship can get back to its normal routine.
+[00:03:10.102 --> 00:03:10.982] OKONA: Whatever you say, Captain.
+[00:03:12.102 --> 00:03:12.582] PICARD: Something funny?
+[00:03:13.862 --> 00:03:14.822] RIKER: Well, the unexpected
+[00:03:15.062 --> 00:03:16.022] RIKER: is our normal routine.
+[00:03:36.662 --> 00:03:39.382] PICARD: space the final frontier?
+[00:03:41.302 --> 00:03:43.942] PICARD: These are the voyages of the starship Enterprise.
+[00:03:45.302 --> 00:03:48.982] PICARD: Its continuing mission to explore strange new worlds, to
+[00:03:50.902 --> 00:03:57.782] PICARD: seek out new life and new civilizations, to boldly go where no one has gone
+[00:03:59.462 --> 00:04:01.462] PICARD: before.
+[00:04:24.000 --> 00:04:34.000] [music]
+[00:04:57.787 --> 00:04:58.587] RIKER: Hold it steady, Wesley.
+[00:04:59.867 --> 00:05:01.671] RIKER: Ready to link up on my command
+[00:05:01.671 --> 00:05:02.187] WESLEY: Aye, sir.
+[00:05:02.827 --> 00:05:03.067] RIKER: Easy.
+[00:05:03.067 --> 00:05:03.067] RIKER: Easy.
+[00:05:08.267 --> 00:05:10.267] RIKER: Engage.
+[00:05:16.827 --> 00:05:18.827] RIKER: Captain Okona, shut down your engines.
+[00:05:18.907 --> 00:05:19.307] OKONA: Understood.
+[00:05:19.467 --> 00:05:21.307] RIKER: Transporter room, prepare for the beaming operation.
+[00:05:21.307 --> 00:05:22.587] RIKER: We're on our way. Wesley,
+[00:05:22.587 --> 00:05:23.227] RIKER: Data, let's go.
+[00:05:39.547 --> 00:05:40.667] WORF: Your weapons, please.
+[00:05:42.507 --> 00:05:44.027] OKONA: A Klingon Security officer.
+[00:05:45.147 --> 00:05:45.627] WORF: Yes.
+[00:05:46.427 --> 00:05:47.387] OKONA: No wars available, eh?
+[00:05:56.747 --> 00:06:00.347] OKONA: It's more of a piece of jewellry than a weapon.
+[00:06:00.827 --> 00:06:01.467] OKONA: A remembrance.
+[00:06:06.941 --> 00:06:07.901] RIKER: Welcome aboard, Captain Okona.
+[00:06:07.901 --> 00:06:08.781] RIKER: I'm Commander Riker.
+[00:06:09.261 --> 00:06:12.141] RIKER: If you'll turn over the inoperative part to Commander Data, we can begin repairs.
+[00:06:12.701 --> 00:06:14.781] OKONA: I'd be most happy to do the work myself, Commander.
+[00:06:14.781 --> 00:06:16.541] OKONA: I'm sort of the hands-on type.
+[00:06:17.181 --> 00:06:19.501] RIKER: I think you'd find the tools we use rather unusual, sir.
+[00:06:20.061 --> 00:06:20.861] OKONA: I can believe that.
+[00:06:21.501 --> 00:06:22.541] OKONA: May I at least watch?
+[00:06:23.901 --> 00:06:24.621] RIKER: That can be arranged.
+[00:06:25.181 --> 00:06:25.581] OKONA: Good then.
+[00:06:25.981 --> 00:06:28.968] OKONA: Commander, I leave this in your capable hands.
+[00:06:28.968 --> 00:06:29.341] WESLEY: Sir,
+[00:06:29.581 --> 00:06:30.541] WESLEY: this is Commander Data.
+[00:06:31.101 --> 00:06:32.061] WESLEY: I'm just an acting ensign.
+[00:06:32.461 --> 00:06:34.461] OKONA: Well, acting ensigns have names, don't they?
+[00:06:35.981 --> 00:06:36.461] WESLEY: Wesley.
+[00:06:36.941 --> 00:06:37.501] WESLEY: Wesley Crusher.
+[00:06:37.741 --> 00:06:40.381] OKONA: Nice to meet you Acting Ensign Wesley Wesley Crusher.
+[00:06:43.981 --> 00:06:49.821] OKONA: And thank you for beaming me here and enabling me to see a truly beautiful woman.
+[00:06:50.941 --> 00:06:56.141] OKONA: You have the majestic carriage and loveliness that could surely be traced back to the noblest of families.
+[00:06:58.861 --> 00:07:03.581] ROBINSON: Well, I'm sure that you've said that to many ladies before, and it was no more true then than it is now.
+[00:07:04.061 --> 00:07:06.701] OKONA: But it's how I say it that's really important.
+[00:07:07.181 --> 00:07:10.861] OKONA: The warmth, the attraction that I have for you.
+[00:07:12.381 --> 00:07:14.381] OKONA: The attraction that we share.
+[00:07:19.821 --> 00:07:20.061] RIKER: Mister
+[00:07:20.061 --> 00:07:23.821] RIKER: Okona seems to have excellent vision as well as a healthy libido.
+[00:07:23.821 --> 00:07:25.261] ROBINSON: It's eight oh six.
+[00:07:25.261 --> 00:07:25.981] RIKER: Captain Okona,
+[00:07:28.221 --> 00:07:30.061] RIKER: if you follow Commander Data, you can get started right away.
+[00:07:39.808 --> 00:07:41.328] OKONA: Now, that's sex appeal.
+[00:07:42.848 --> 00:07:45.808] DATA: Sexual attraction in this context is not a part of my programming.
+[00:07:46.528 --> 00:07:47.168] DATA: I am an android.
+[00:07:50.048 --> 00:07:52.928] OKONA: Well, then. Have you seen any good looking computers lately?
+[00:07:57.328 --> 00:07:57.888] OKONA: That's a joke.
+[00:07:58.128 --> 00:07:58.608] OKONA: It's funny.
+[00:07:58.758 --> 00:07:59.358] DATA: Ah.
+[00:08:00.288 --> 00:08:01.808] DATA: Of course it is.
+[00:08:08.048 --> 00:08:12.448] OKONA: Will that do what the original did?
+[00:08:13.168 --> 00:08:14.688] LAFORGE: Sure will, and better.
+[00:08:15.888 --> 00:08:16.448] LAFORGE: Let me show you.
+[00:08:17.248 --> 00:08:20.128] LAFORGE: On your old one, the zelebium contacts that wore down and then fused.
+[00:08:20.608 --> 00:08:24.448] LAFORGE: What I've done is replace them with tricellite.
+[00:08:24.928 --> 00:08:26.528] OKONA: Tricellite isn't available in this system.
+[00:08:26.528 --> 00:08:28.055] OKONA: If I ever had to replace it.
+[00:08:28.055 --> 00:08:28.928] LAFORGE: Don't worry, you won't.
+[00:08:28.928 --> 00:08:30.928] LAFORGE: Your ship will never outlast this part.
+[00:08:31.168 --> 00:08:32.928] OKONA: Because of the part or the way I fly my ship?
+[00:08:33.408 --> 00:08:39.648] LAFORGE: Well, this part, but the stress test did show that you tend to push your ship a little beyond its design capabilities.
+[00:08:41.168 --> 00:08:43.488] OKONA: Blame the pattern of my life, Lieutenant La Forge.
+[00:08:43.968 --> 00:08:54.128] OKONA: Because it relegates me to cargo carrying rather than the grand explorations you enjoy, I'm forced to add a measure of flamboyancy and a zest to the doldrum of my existence.
+[00:08:57.168 --> 00:09:01.728] OKONA: Have you ever been cold?
+[00:09:02.368 --> 00:09:02.608] DATA: No.
+[00:09:03.851 --> 00:09:04.171] OKONA: Warm, then?
+[00:09:05.451 --> 00:09:05.771] DATA: No.
+[00:09:06.971 --> 00:09:07.691] OKONA: What about drunk?
+[00:09:07.691 --> 00:09:08.171] OKONA: Ever do that?
+[00:09:08.971 --> 00:09:09.531] DATA: From alcohol?
+[00:09:10.091 --> 00:09:11.291] DATA: That is not possible for me, sir.
+[00:09:11.531 --> 00:09:11.851] OKONA: Pity.
+[00:09:12.971 --> 00:09:13.531] OKONA: What about love?
+[00:09:15.371 --> 00:09:16.331] DATA: The act or the emotion?
+[00:09:17.131 --> 00:09:17.771] OKONA: They're both the same.
+[00:09:19.131 --> 00:09:20.651] DATA: I believe that statement to be inaccurate, sir.
+[00:09:23.291 --> 00:09:23.611] OKONA: Maybe.
+[00:09:25.211 --> 00:09:29.771] OKONA: Life is like loading twice your cargo weight onto your spacecraft.
+[00:09:30.571 --> 00:09:34.331] OKONA: If it's canaries and you can keep half of them flying all the time,
+[00:09:36.331 --> 00:09:36.891] OKONA: you're all right.
+[00:09:38.571 --> 00:09:40.651] DATA: I doubt that statement is entirely accurate either, sir.
+[00:09:40.971 --> 00:09:41.611] OKONA: Accurate?
+[00:09:41.691 --> 00:09:43.691] OKONA: That was a joke I just told you.
+[00:09:45.211 --> 00:09:46.011] DATA: I do not understand.
+[00:09:46.491 --> 00:09:47.531] OKONA: You don't know what a joke is?
+[00:09:48.091 --> 00:09:48.651] DATA: Of course I do.
+[00:09:49.451 --> 00:09:54.491] DATA: It is a witticism, a gag, a bon mot, a fluctuation of words concluding with a trick ending.
+[00:09:54.571 --> 00:09:55.851] OKONA: That's the dictionary meaning.
+[00:09:55.851 --> 00:09:57.691] OKONA: I'm talking about humour, fun.
+[00:09:58.011 --> 00:09:59.051] OKONA: Do you know what funny is?
+[00:10:03.291 --> 00:10:04.091] OKONA: Where is eight oh six?
+[00:10:05.211 --> 00:10:05.691] DATA: Right over there, sir.
+[00:10:06.491 --> 00:10:06.731] DATA: Why?
+[00:10:09.291 --> 00:10:10.891] OKONA: You probably wouldn't understand that
+[00:10:13.611 --> 00:10:13.691] OKONA: either.
+[00:10:14.971 --> 00:10:14.971] ROBINSON: Hello, there.
+[00:10:42.223 --> 00:10:43.023] RIKER: Status on the repair?
+[00:10:43.423 --> 00:10:44.063] LAFORGE: Working on it.
+[00:10:46.143 --> 00:10:48.143] WESLEY: Commander, what do you think of Captain Okona?
+[00:10:49.103 --> 00:10:51.743] RIKER: Well, Okona is an interesting man,
+[00:10:51.743 --> 00:10:53.663] RIKER: certainly. We've seen how he handles his ship.
+[00:10:54.543 --> 00:10:56.383] RIKER: Apparently he knows how to handle people as well.
+[00:10:57.183 --> 00:10:57.983] WESLEY: Then why does he work alone?
+[00:10:58.623 --> 00:11:01.103] RIKER: He's a man who lives his life by his own rules.
+[00:11:01.183 --> 00:11:03.823] RIKER: He does what he does by choice. By his choice.
+[00:11:05.823 --> 00:11:06.783] RIKER: Someday you'll make yours.
+[00:11:08.703 --> 00:11:09.343] WESLEY: I already have.
+[00:11:17.263 --> 00:11:21.823] DATA: So you agree with Okona that I am missing a very important human factor.
+[00:11:21.903 --> 00:11:23.023] GUINAN: I never said that.
+[00:11:23.263 --> 00:11:26.063] GUINAN: I simply said that I've never seen you laugh.
+[00:11:26.783 --> 00:11:30.703] DATA: I am capable of that function when it is expected of me.
+[00:11:32.703 --> 00:11:34.623] GUINAN: Data, do you even know what a joke is?
+[00:11:35.663 --> 00:11:36.303] DATA: Of course I do.
+[00:11:37.023 --> 00:11:39.903] DATA: It is a witticism, a gag, a bon mot, a fluctuation of
+[00:11:39.903 --> 00:11:40.143] GUINAN: Stop.
+[00:11:40.863 --> 00:11:42.943] GUINAN: Look, it's just you and I here.
+[00:11:43.423 --> 00:11:43.983] GUINAN: We're talking,
+[00:11:43.983 --> 00:11:45.583] GUINAN: we're having an intimate conversation.
+[00:11:46.303 --> 00:11:46.703] GUINAN: Why?
+[00:11:47.103 --> 00:11:49.165] GUINAN: Because you're a 'droid and I'm a 'noid.
+[00:11:49.165 --> 00:11:49.423] DATA: But
+[00:11:50.623 --> 00:11:51.023] DATA: why?
+[00:11:51.343 --> 00:11:52.463] GUINAN: Because that's what I am.
+[00:11:53.903 --> 00:11:55.183] DATA: Have I said something to offend you?
+[00:11:55.903 --> 00:11:56.303] GUINAN: No.
+[00:11:57.343 --> 00:11:58.303] DATA: Then why are you annoyed?
+[00:11:59.023 --> 00:12:02.863] GUINAN: Because you're a 'droid and I'm
+[00:12:03.953 --> 00:12:04.833] GUINAN: a 'noid.
+[00:12:07.473 --> 00:12:08.033] DATA: Humanoid.
+[00:12:08.113 --> 00:12:08.593] GUINAN: Yes.
+[00:12:08.993 --> 00:12:09.633] DATA: You told a joke.
+[00:12:09.633 --> 00:12:10.193] GUINAN: Yes.
+[00:12:10.273 --> 00:12:10.993] DATA: I am not laughing.
+[00:12:10.993 --> 00:12:11.473] GUINAN: Yes.
+[00:12:14.273 --> 00:12:15.553] DATA: Perhaps the joke was not funny.
+[00:12:15.713 --> 00:12:17.553] GUINAN: No, the joke was funny.
+[00:12:17.553 --> 00:12:18.113] GUINAN: It's you, Data.
+[00:12:20.193 --> 00:12:20.673] DATA: Are you sure?
+[00:12:20.913 --> 00:12:21.313] GUINAN: Yes.
+[00:12:22.513 --> 00:12:22.993] DATA: I agree.
+[00:12:24.193 --> 00:12:24.833] DATA: What do I do?
+[00:12:25.953 --> 00:12:28.993] GUINAN: Well, under normal circumstances, I'd say seek a higher power.
+[00:12:29.473 --> 00:12:32.033] GUINAN: But in your case, probably a smarter computer is in order.
+[00:12:39.313 --> 00:12:39.873] DATA: Computer,
+[00:12:40.193 --> 00:12:42.273] DATA: I wish to know more about humour.
+[00:12:42.993 --> 00:12:46.753] DATA: Why certain combinations of words and actions make humans laugh.
+[00:12:47.793 --> 00:12:50.113] COMPUTER: Source material on that subject is extensive.
+[00:12:50.273 --> 00:12:51.233] COMPUTER: Please specify.
+[00:12:52.113 --> 00:12:53.313] DATA: Animated presentation,
+[00:12:53.633 --> 00:12:54.273] DATA: humanoid.
+[00:12:54.673 --> 00:12:55.793] DATA: Interaction required.
+[00:12:56.593 --> 00:12:59.073] COMPUTER: Physical humour, cerebral, or general raconteur.
+[00:13:00.833 --> 00:13:04.113] DATA: Of all performers available, who is considered funniest?
+[00:13:04.513 --> 00:13:09.313] COMPUTER: Twenty third century Stano Rega specialised in jokes about quantum mathematics.
+[00:13:10.113 --> 00:13:10.353] DATA: No.
+[00:13:11.233 --> 00:13:12.033] DATA: Too esoteric.
+[00:13:12.593 --> 00:13:13.233] DATA: More generic.
+[00:13:13.953 --> 00:13:14.513] COMPUTER: Accessing.
+[00:13:20.033 --> 00:13:20.433] DATA: That one.
+[00:13:21.073 --> 00:13:24.353] DATA: RW nine six three two one, twentieth century.
+[00:13:24.593 --> 00:13:25.553] COMPUTER: Programme installation complete.
+[00:13:25.953 --> 00:13:26.513] COMPUTER: You may enter.
+[00:13:40.676 --> 00:13:41.556] COMIC: Thank you ladies and gentlemen.
+[00:13:41.556 --> 00:13:42.436] COMIC: Thank you very much.
+[00:13:42.836 --> 00:13:43.396] COMIC: You've been great.
+[00:13:43.476 --> 00:13:45.236] COMIC: As a matter of fact I'd like to take you home with me.
+[00:13:45.556 --> 00:13:48.436] COMIC: Unfortunately I took the last audience home and there's no more room.
+[00:13:48.836 --> 00:13:49.156] COMIC: Boom, boom.
+[00:13:49.556 --> 00:13:50.356] COMIC: But thank you, really.
+[00:13:50.356 --> 00:13:50.836] COMIC: Thank you.
+[00:13:51.876 --> 00:13:53.076] COMIC: Hey, and thank you for bringing me here.
+[00:13:53.476 --> 00:13:54.329] COMIC: What's up?
+[00:13:54.329 --> 00:13:54.756] DATA: Mister
+[00:13:54.756 --> 00:13:55.236] DATA: Comic,
+[00:13:55.716 --> 00:13:56.996] DATA: I wish to know what is funny.
+[00:13:58.276 --> 00:13:58.836] COMIC: Funny?
+[00:13:58.836 --> 00:13:59.236] COMIC: I don't know.
+[00:13:59.396 --> 00:14:00.596] COMIC: It's a matter of opinion, I guess.
+[00:14:00.596 --> 00:14:02.916] COMIC: Tip O'Neill in a dress?
+[00:14:03.876 --> 00:14:06.436] COMIC: Some people say words that end with a K are funny.
+[00:14:06.996 --> 00:14:08.676] COMIC: A briefcase that looks like a fish.
+[00:14:08.676 --> 00:14:10.036] COMIC: Personally I find that hysterical.
+[00:14:11.156 --> 00:14:12.756] DATA: Tip O'Neill. Accessing.
+[00:14:16.116 --> 00:14:23.636] DATA: Twentieth century male, politician, overweight, wearing female clothing, carrying a valise that looks like a fish.
+[00:14:24.436 --> 00:14:29.956] DATA: So, the juxtaposition of gender and an amphibian briefcase is funny.
+[00:14:30.836 --> 00:14:33.636] COMIC: Well, I think whatever makes you laugh is funny.
+[00:14:38.036 --> 00:14:38.916] DATA: Nothing makes me laugh.
+[00:14:39.636 --> 00:14:40.356] DATA: I wish to learn.
+[00:14:41.156 --> 00:14:42.676] COMIC: How much time do we have here?
+[00:14:43.316 --> 00:14:43.876] DATA: Unlimited.
+[00:14:44.596 --> 00:14:47.396] COMIC: We're going to need it. You, pal, are a tough room.
+[00:14:48.276 --> 00:14:48.916] DATA: Tough room?
+[00:14:50.356 --> 00:14:54.916] DATA: A colloquialism meaning a severe, rigid, closed-minded audience.
+[00:14:55.156 --> 00:14:55.876] DATA: I understand.
+[00:14:56.196 --> 00:14:57.876] DATA: I will attempt to be an easy room.
+[00:14:58.916 --> 00:14:59.956] DATA: Show me what is funny.
+[00:15:00.836 --> 00:15:01.956] COMIC: All right, you're on.
+[00:15:03.791 --> 00:15:04.511] COMIC: Jerry Lewis.
+[00:15:13.071 --> 00:15:13.071] COMIC: Mister
+[00:15:17.551 --> 00:15:18.751] COMIC: Robot, would you like to come up?
+[00:15:18.751 --> 00:15:19.631] DATA: I am an android.
+[00:15:19.711 --> 00:15:21.951] COMIC: Oh, I'm terribly sorry, Mister Android.
+[00:15:22.111 --> 00:15:22.591] COMIC: Here, teeth.
+[00:15:22.831 --> 00:15:23.471] COMIC: Put them in your mouth.
+[00:15:23.631 --> 00:15:24.751] COMIC: Come up with
+[00:15:24.911 --> 00:15:25.471] COMIC: me. Where'd he go?
+[00:15:28.271 --> 00:15:29.871] COMIC: Try, if you would.
+[00:15:30.511 --> 00:15:30.831] COMIC: You go
+[00:15:30.911 --> 00:15:31.231] COMIC: Ha!
+[00:15:43.791 --> 00:15:44.351] DATA: That is considered to
+[00:15:47.471 --> 00:15:47.951] DATA: be funny?
+[00:15:48.751 --> 00:15:50.191] COMIC: Actually it brought the house down in Teaneck.
+[00:15:51.071 --> 00:15:52.511] DATA: Ah, a word that ends in K.
+[00:15:53.151 --> 00:15:58.991] DATA: So, if you put funny teeth in your mouth and jump around like an idiot, that is considered funny.
+[00:16:00.511 --> 00:16:01.471] COMIC: I'm sorry, I didn't get your name.
+[00:16:01.711 --> 00:16:02.031] DATA: Data.
+[00:16:02.831 --> 00:16:03.311] COMIC: Data,
+[00:16:03.311 --> 00:16:07.631] COMIC: did you consider juggling, weird bird calls, stuff like that?
+[00:16:08.271 --> 00:16:09.071] DATA: That does not apply.
+[00:16:10.031 --> 00:16:12.031] DATA: I simply want to know what is funny.
+[00:16:12.831 --> 00:16:15.231] DATA: I want to be able to involve myself in other people's laughter.
+[00:16:16.271 --> 00:16:17.311] DATA: I wish to join in.
+[00:16:18.271 --> 00:16:19.311] COMIC: I think that's nice.
+[00:16:19.551 --> 00:16:21.791] COMIC: Let's put the physical stuff aside for a while, all right?
+[00:16:21.951 --> 00:16:23.871] COMIC: We'll do some jokes.
+[00:16:23.951 --> 00:16:29.471] COMIC: See, it's not my forte, but I think that would work good for you. If you would just have a seat and we'll try some jokes
+[00:16:29.471 --> 00:16:32.031] COMIC: like. I dunno. We'll start with the classics.
+[00:16:32.350 --> 00:16:34.670] COMIC: See, there's this travelling salesman. now. He's going down the road and
+[00:16:34.670 --> 00:16:35.710] COMIC: his car breaks down, right?
+[00:16:35.790 --> 00:16:36.163] DATA: Access faster.
+[00:16:36.163 --> 00:16:36.350] COMIC: Comes
+[00:16:36.350 --> 00:16:37.390] COMIC: up on this farmhouse and
+[00:16:37.390 --> 00:16:38.670] COMIC: It's probably best when you do something like this.
+[00:16:38.670 --> 00:16:41.070] COMIC: Need a cigar 'cos it's kind a prop kind of thing and you go like this
+[00:16:41.070 --> 00:16:41.310] COMIC: and
+[00:16:41.310 --> 00:16:41.710] DATA: Faster.
+[00:16:42.030 --> 00:16:44.030] DATA: Move to maximum speed.
+[00:16:44.180 --> 00:16:44.780] DATA: A
+[00:16:56.590 --> 00:16:58.430] DATA: guy walks into the doctor's office
+[00:16:58.670 --> 00:17:00.430] DATA: The doctor tells him you need an operation.
+[00:17:00.670 --> 00:17:02.350] DATA: The guy says I want a second opinion.
+[00:17:02.510 --> 00:17:04.910] DATA: The doctor said, okay, you're ugly too. Ba-boom boom.
+[00:17:07.950 --> 00:17:08.510] DATA: Was that funny?
+[00:17:09.390 --> 00:17:09.790] GUINAN: No.
+[00:17:18.430 --> 00:17:20.910] GUINAN: Data, you spoiled the joke.
+[00:17:22.110 --> 00:17:23.310] GUINAN: It could have been your timing.
+[00:17:24.030 --> 00:17:25.070] DATA: My timing is digital.
+[00:17:27.230 --> 00:17:27.470] DATA: What?
+[00:17:29.710 --> 00:17:30.190] GUINAN: That's funny.
+[00:17:31.310 --> 00:17:31.550] DATA: Why?
+[00:17:33.150 --> 00:17:35.470] GUINAN: It would take too long to explain. Tell me another joke.
+[00:17:37.790 --> 00:17:40.590] DATA: A monk, a clone and a Ferengi decide to go bowling together.
+[00:17:40.750 --> 00:17:43.150] PICARD: Commander Data, report to the main Bridge immediately.
+[00:17:43.150 --> 00:17:43.150] DATA: I
+[00:17:44.990 --> 00:17:45.710] DATA: will be back.
+[00:17:49.070 --> 00:17:49.950] GUINAN: Bring new jokes.
+[00:17:57.150 --> 00:17:58.510] WORF: We have an unidentified at twelve
+[00:17:58.587 --> 00:17:59.228] WORF: mark four.
+[00:18:03.067 --> 00:18:04.508] WORF: No response to our enquiries.
+[00:18:05.468 --> 00:18:06.587] PICARD: Extend hailing frequencies,
+[00:18:06.667 --> 00:18:07.308] PICARD: all languages,
+[00:18:07.308 --> 00:18:07.867] PICARD: all channels.
+[00:18:08.347 --> 00:18:08.827] WORF: Extending.
+[00:18:09.387 --> 00:18:11.707] DATA: Sensors show it to be an interplanetary vessel, sir.
+[00:18:12.028 --> 00:18:12.827] DATA: Class seven,
+[00:18:13.067 --> 00:18:15.228] DATA: crew complement twenty six.
+[00:18:15.468 --> 00:18:16.268] WORF: Still no response.
+[00:18:37.788 --> 00:18:38.107] WORF: Captain,
+[00:18:39.228 --> 00:18:41.147] WORF: they are now locking lasers on us.
+[00:18:42.268 --> 00:18:42.827] RIKER: Lasers?
+[00:18:43.147 --> 00:18:43.468] WORF: Yes, sir.
+[00:18:44.107 --> 00:18:46.427] PICARD: Lasers can't even penetrate our navigation shields.
+[00:18:46.427 --> 00:18:47.067] PICARD: Don't they know that?
+[00:18:47.947 --> 00:18:50.347] RIKER: Regulations so call for a Yellow Alert.
+[00:18:50.827 --> 00:18:51.067] PICARD: A
+[00:18:51.707 --> 00:18:52.827] PICARD: very old regulation.
+[00:18:53.707 --> 00:18:56.587] PICARD: Well, make it so, Number One. And reduce speed.
+[00:18:57.308 --> 00:18:58.427] PICARD: Drop main shields as well.
+[00:19:00.187 --> 00:19:00.988] RIKER: May I ask why, sir?
+[00:19:00.988 --> 00:19:00.988] PICARD: In
+[00:19:02.667 --> 00:19:04.427] PICARD: case we decide to surrender to them, Number One.
+[00:19:17.867 --> 00:19:19.467] WORF: Still no response to our hail, sir.
+[00:19:20.268 --> 00:19:22.028] DATA: It is slowing and is holding its position, Captain.
+[00:19:23.708 --> 00:19:25.627] WORF: Sir, we are now being hailed.
+[00:19:26.844 --> 00:19:27.244] PICARD: Viewer on.
+[00:19:30.844 --> 00:19:33.644] DEBIN: Federation vessel, you have no rights in this solar system.
+[00:19:34.364 --> 00:19:38.044] DEBIN: I am Debin of planet Atlec, ordering you to heave to and prepare to be boarded.
+[00:19:40.524 --> 00:19:41.884] RIKER: Shades of Gulliver's Travels.
+[00:19:42.844 --> 00:19:43.804] RIKER: He actually meant it.
+[00:19:43.804 --> 00:19:44.764] PICARD: But he is right.
+[00:19:45.244 --> 00:19:46.524] PICARD: We are in their solar system.
+[00:19:49.244 --> 00:19:50.044] PICARD: Open a channel.
+[00:19:50.524 --> 00:19:50.844] WORF: Open, sir.
+[00:19:53.164 --> 00:19:56.044] PICARD: I am Captain Jean Luc Picard of the USS Enterprise.
+[00:19:57.004 --> 00:19:59.324] PICARD: For what reason have you locked your weapons on us?
+[00:19:59.964 --> 00:20:02.604] DEBIN: Enterprise, you are towing a spacecraft of a known criminal.
+[00:20:05.324 --> 00:20:06.844] PICARD: He was in need of emergency repair.
+[00:20:07.324 --> 00:20:08.924] PICARD: It was our obligation to assist.
+[00:20:09.404 --> 00:20:11.484] DEBIN: You have a man aboard by the name of Okona.
+[00:20:12.444 --> 00:20:13.164] DEBIN: I want him.
+[00:20:14.604 --> 00:20:15.324] PICARD: On what authority?
+[00:20:15.884 --> 00:20:18.284] DEBIN: He is guilty of crimes committed on the planet Atlec.
+[00:20:18.684 --> 00:20:21.484] DEBIN: I expect him to be turned over to my authority immediately.
+[00:20:23.964 --> 00:20:24.284] WORF: Mute.
+[00:20:25.884 --> 00:20:26.684] PICARD: What do you think, Counsellor?
+[00:20:27.324 --> 00:20:28.284] TROI: He believes what he's saying.
+[00:20:29.084 --> 00:20:29.884] TROI: His anger is genuine.
+[00:20:32.364 --> 00:20:32.604] PICARD: Open.
+[00:20:37.404 --> 00:20:38.364] PICARD: What crimes are you referring to?
+[00:20:39.244 --> 00:20:40.924] DEBIN: Neither important nor necessary.
+[00:20:41.244 --> 00:20:42.924] DEBIN: I want Okona now!
+[00:20:43.324 --> 00:20:47.804] WESLEY: Captain, we have another Class seven armed spacecraft approaching, from the opposite sector.
+[00:20:48.844 --> 00:20:50.044] RIKER: Another ship from Atlec?
+[00:20:50.444 --> 00:20:55.564] DATA: Similar in specifications and capabilities, but a variation in markings and hailing language.
+[00:20:56.825 --> 00:20:57.785] PICARD: Debin, hold this position.
+[00:20:58.265 --> 00:20:58.665] PICARD: Viewer off.
+[00:21:01.305 --> 00:21:01.945] PICARD: Data, identify.
+[00:21:02.825 --> 00:21:06.585] DATA: Sensors indicate it a security vessel from the planet Straleb.
+[00:21:08.105 --> 00:21:08.985] WORF: Another glob fly.
+[00:21:11.225 --> 00:21:11.873] RIKER: Glob fly?
+[00:21:11.873 --> 00:21:18.025] DATA: A Klingon fly, half the size of an Earth mosquito, with no sting and a buzzing sound like this.
+[00:21:18.265 --> 00:21:19.465] PICARD: Data. Viewer on.
+[00:21:20.105 --> 00:21:20.825] PICARD: Hailing frequencies.
+[00:21:21.385 --> 00:21:21.785] WORF: Open, sir
+[00:21:23.465 --> 00:21:27.545] KUSHELL: I am Secretary Kushell from the Legation of Unity of the planet Straleb.
+[00:21:28.265 --> 00:21:29.625] PICARD: I am Captain Picard.
+[00:21:30.265 --> 00:21:32.425] KUSHELL: We know who you are, Captain Picard.
+[00:21:33.145 --> 00:21:38.425] KUSHELL: We have been monitoring your communications, and we know of the demands made by Debin of planet Atlec.
+[00:21:39.705 --> 00:21:42.105] PICARD: Then you're aware that we have no hostile interaction.
+[00:21:42.825 --> 00:21:45.065] KUSHELL: You only have to concede to one demand.
+[00:21:47.225 --> 00:21:49.625] PICARD: That word demand has a tone of finality.
+[00:21:49.625 --> 00:21:51.945] KUSHELL: It is a word I have chosen.
+[00:21:53.625 --> 00:21:56.505] KUSHELL: We demand you turn Okona over to us immediately.
+[00:22:00.105 --> 00:22:00.425] WORF: Mute.
+[00:22:01.225 --> 00:22:02.905] PICARD: Mister Okona to the Bridge immediately.
+[00:22:04.185 --> 00:22:04.425] PICARD: Open.
+[00:22:07.065 --> 00:22:09.785] PICARD: The same demand has been made by the Atlec legation.
+[00:22:10.585 --> 00:22:16.025] KUSHELL: I have no interest in their request, but we intend to back up our legal right to Okona.
+[00:22:17.145 --> 00:22:20.185] PICARD: I would rather not escalate this situation any further.
+[00:22:20.905 --> 00:22:22.905] KUSHELL: Our honour and prestige are at stake.
+[00:22:23.305 --> 00:22:24.505] KUSHELL: We are prepared to take Okona by
+[00:22:24.516 --> 00:22:27.236] KUSHELL: force and die in the doing of it if necessary.
+[00:22:27.796 --> 00:22:30.596] PICARD: I trust that that can be avoided.
+[00:22:32.516 --> 00:22:34.196] PICARD: I will respond to your request shortly.
+[00:22:34.836 --> 00:22:35.236] PICARD: Viewer off.
+[00:22:37.636 --> 00:22:39.396] WORF: Captain Okona has not responded, sir.
+[00:22:39.956 --> 00:22:42.756] WORF: He's been reported in three different crew quarters.
+[00:22:43.076 --> 00:22:43.476] PICARD: Find him.
+[00:22:43.556 --> 00:22:44.116] PICARD: Get him up here.
+[00:22:44.836 --> 00:22:45.396] WORF: Yes, sir.
+[00:23:09.236 --> 00:23:11.396] WORF: You will come with me to the main Bridge.
+[00:23:12.756 --> 00:23:13.876] OKONA: I'm sure it can wait a few minutes.
+[00:23:18.116 --> 00:23:18.676] WORF: Now!
+[00:23:27.236 --> 00:23:30.356] WORF: I'd like that.
+[00:23:34.436 --> 00:23:35.796] WORF: But I have my orders.
+[00:23:37.636 --> 00:23:38.356] OKONA: Some other time.
+[00:23:43.796 --> 00:23:45.716] OKONA: Remember what it took to drag me from your arms.
+[00:24:04.921 --> 00:24:06.361] OKONA: Am I going to meet Captain Picard?
+[00:24:08.521 --> 00:24:09.161] WORF: Definitely.
+[00:24:09.801 --> 00:24:10.601] OKONA: Did I say something funny?
+[00:24:22.361 --> 00:24:23.081] WORF: Captain Picard,
+[00:24:24.681 --> 00:24:26.761] WORF: this is Thadium Okona.
+[00:24:31.081 --> 00:24:35.001] PICARD: Mister Okona, you were welcomed aboard without any undue investigation.
+[00:24:35.481 --> 00:24:39.241] PICARD: In turn it was assumed that you did not come under false pretenses.
+[00:24:39.241 --> 00:24:40.601] PICARD: It now seems that you may have done.
+[00:24:42.121 --> 00:24:42.442] OKONA: Captain,
+[00:24:42.442 --> 00:24:45.161] OKONA: if you mean my socialising with the members of the crew?
+[00:24:46.841 --> 00:24:51.081] PICARD: Mister Okona, you are free to socialise with the members of my crew.
+[00:24:52.521 --> 00:24:54.121] PICARD: I'm talking about a man named Debin.
+[00:24:55.962 --> 00:24:56.681] OKONA: He's from Atlec.
+[00:24:56.681 --> 00:24:58.281] OKONA: I've had dealings with some of his family.
+[00:24:58.601 --> 00:25:03.962] PICARD: Then perhaps you can explain why his craft is threatening to attack us unless I give him custody of you.
+[00:25:05.001 --> 00:25:05.401] OKONA: I can't.
+[00:25:07.001 --> 00:25:11.161] PICARD: Then tell me why Kushell of the planet Straleb is demanding the same thing?
+[00:25:11.641 --> 00:25:12.521] OKONA: He's here also?
+[00:25:13.561 --> 00:25:15.321] PICARD: And quite adamant.
+[00:25:17.143 --> 00:25:17.303] PICARD: Mister
+[00:25:17.303 --> 00:25:20.343] PICARD: Okona, what crimes are you accused of?
+[00:25:20.823 --> 00:25:23.783] OKONA: I am not a criminal.
+[00:25:24.343 --> 00:25:25.143] PICARD: Why do these men want you?
+[00:25:26.183 --> 00:25:28.823] OKONA: I can't say.
+[00:25:30.503 --> 00:25:32.423] PICARD: They're threatening to attack the Enterprise.
+[00:25:32.503 --> 00:25:33.383] OKONA: That would be crazy.
+[00:25:33.383 --> 00:25:34.583] OKONA: They wouldn't stand a chance.
+[00:25:34.663 --> 00:25:34.903] PICARD: Right.
+[00:25:36.903 --> 00:25:44.903] PICARD: Then you can offer no reason why they are set on this provocative course?
+[00:25:48.423 --> 00:25:49.783] OKONA: I can't think of one right now.
+[00:25:51.383 --> 00:25:51.703] PICARD: On viewer.
+[00:25:53.383 --> 00:25:53.463] WORF: Which ship?
+[00:25:54.183 --> 00:25:54.423] PICARD: What?
+[00:25:54.983 --> 00:25:57.303] PICARD: The first on. Captain Debin.
+[00:25:59.543 --> 00:26:03.223] PICARD: Captain, let me ask you again. What are Okona's crimes?
+[00:26:04.183 --> 00:26:05.463] DEBIN: That is not your concern.
+[00:26:05.943 --> 00:26:07.783] PICARD: It is if you wish me to release him to you.
+[00:26:08.663 --> 00:26:08.983] DEBIN: All right,
+[00:26:09.943 --> 00:26:10.903] DEBIN: you want to know what he did?
+[00:26:11.543 --> 00:26:14.423] DEBIN: You want to know why I have chased him across this system? All right. Here,
+[00:26:14.903 --> 00:26:15.943] DEBIN: This is his crime.
+[00:26:17.703 --> 00:26:19.223] DEBIN: He
+[00:26:21.143 --> 00:26:21.943] DEBIN: dishonoured my daughter.
+[00:26:22.663 --> 00:26:25.943] DEBIN: He took advantage of her, then he ran off and left her carrying his bastard child.
+[00:26:26.823 --> 00:26:31.383] DEBIN: He'll return, and he'll do the right thing or I'll hunt him to the ends of the galaxy.
+[00:26:36.903 --> 00:26:38.103] LOG: Captain's log, supplemental.
+[00:26:38.583 --> 00:26:44.023] LOG: Some of the mystery surrounding this ancient morality play we've been dragged into has been revealed.
+[00:26:44.423 --> 00:26:48.903] LOG: One of Captain Okona's pursuers is an outraged father with a heartfelt, if
+[00:26:48.990 --> 00:26:50.750] LOG: arcane, sense of righteousness.
+[00:26:51.630 --> 00:26:52.510] PICARD: Your advice, Counsellor.
+[00:26:54.110 --> 00:26:57.150] TROI: We are dealing with ancient codes involving procreation.
+[00:26:57.790 --> 00:27:01.550] TROI: While they may be meaningless to us, to Debin they represent his honour.
+[00:27:02.350 --> 00:27:07.070] TROI: He will fight, risking himself, his crew, his daughter and her unborn child.
+[00:27:08.030 --> 00:27:09.390] OKONA: You know, Captain, your Counsellor's right.
+[00:27:09.390 --> 00:27:10.110] OKONA: He will fight.
+[00:27:10.590 --> 00:27:12.910] WORF: The captain of the other ship is demanding to be heard.
+[00:27:13.950 --> 00:27:17.470] PICARD: I don't suppose you can give me any indication why this man wants you?
+[00:27:23.310 --> 00:27:25.710] PICARD: Let's put all this together. Lieutenant Worf,
+[00:27:26.430 --> 00:27:27.950] PICARD: multiple image, full conference mode.
+[00:27:28.350 --> 00:27:29.310] PICARD: Let them all see each other.
+[00:27:29.550 --> 00:27:29.950] WORF: Yes, sir.
+[00:27:31.550 --> 00:27:35.710] KUSHELL: Here you are, Debin, trying to save this criminal.
+[00:27:36.350 --> 00:27:38.190] DEBIN: My purpose is not your concern.
+[00:27:38.830 --> 00:27:40.590] KUSHELL: It is if it involves Okona.
+[00:27:40.910 --> 00:27:44.110] PICARD: Gentlemen, please, let's try and resolve this matter.
+[00:27:44.590 --> 00:27:48.030] PICARD: Captain Kushell, what crime has Okona allegedly committed against you?
+[00:27:48.110 --> 00:27:48.910] KUSHELL: He is a thief.
+[00:27:49.710 --> 00:27:53.587] KUSHELL: He stole the Jewel of Thesia. A national heritage.
+[00:27:53.587 --> 00:27:55.310] DEBIN: A thing. An item.
+[00:27:55.870 --> 00:27:59.550] DEBIN: My case involves the victimisation of my daughter, and my honour.
+[00:28:00.270 --> 00:28:01.550] DEBIN: I'll have Okona now.
+[00:28:01.870 --> 00:28:03.390] KUSHELL: He is mine.
+[00:28:03.470 --> 00:28:04.270] OKONA: One at a time.
+[00:28:05.150 --> 00:28:06.270] OKONA: Who accuses me of stealing?
+[00:28:07.070 --> 00:28:07.310] KUSHELL: I do.
+[00:28:07.950 --> 00:28:09.470] KUSHELL: My son Benzan and I.
+[00:28:09.470 --> 00:28:10.350] BENZAN: Father, please.
+[00:28:10.430 --> 00:28:12.030] KUSHELL: He used you to become my friend.
+[00:28:12.190 --> 00:28:13.390] DEBIN: He used my daughter.
+[00:28:13.630 --> 00:28:14.910] KUSHELL: He used my son to
+[00:28:15.030 --> 00:28:16.710] KUSHELL: plunder a national treasure.
+[00:28:17.350 --> 00:28:17.510] WORF: Mute.
+[00:28:29.430 --> 00:28:30.390] PICARD: Terminate communications.
+[00:28:31.670 --> 00:28:32.150] PICARD: Come with me.
+[00:28:39.030 --> 00:28:39.350] OKONA: Captain,
+[00:28:39.350 --> 00:28:41.590] OKONA: you can't be afraid of those two or what they can do to your ship.
+[00:28:41.910 --> 00:28:44.390] PICARD: No, they could fire until their lasers ran dry and
+[00:28:44.390 --> 00:28:45.510] PICARD: they wouldn't hurt the Enterprise.
+[00:28:45.750 --> 00:28:46.950] PICARD: My predicament is what to do with you.
+[00:28:47.350 --> 00:28:47.910] PICARD: OKONA: I'm sorry.
+[00:28:48.790 --> 00:28:49.990] PICARD: I'm sorry my ship broke down.
+[00:28:49.990 --> 00:28:51.030] PICARD: I'm sorry you stopped to help.
+[00:28:51.030 --> 00:28:52.230] PICARD: I'm sorry you're involved.
+[00:28:52.550 --> 00:28:53.030] PICARD: But you're right.
+[00:28:53.270 --> 00:28:55.510] PICARD: Whatever happens, however it goes, someone gets hurt.
+[00:28:56.390 --> 00:28:58.390] PICARD: Hand me over to Kushell, and Debin goes to war.
+[00:28:58.950 --> 00:29:00.790] PICARD: And if I hand you over to Debin, then it's the same thing.
+[00:29:01.750 --> 00:29:02.390] OKONA: I wish I could.
+[00:29:06.790 --> 00:29:07.910] OKONA: I wish I could make it easier.
+[00:29:08.630 --> 00:29:09.830] PICARD: I'm sure you do.
+[00:29:13.110 --> 00:29:16.470] OKONA: I'm not going to apologise for the way I am or how I live my life,
+[00:29:16.790 --> 00:29:20.070] OKONA: but just for the record, I did not steal the Jewel of Thesia.
+[00:29:21.030 --> 00:29:23.110] OKONA: I am not a criminal, Captain.
+[00:29:23.110 --> 00:29:27.350] OKONA: And as to the other business, that's between me and Yanar,
+[00:29:27.590 --> 00:29:28.150] OKONA: no one else.
+[00:29:30.070 --> 00:29:33.430] PICARD: In truth, I simply do not have authority in this matter.
+[00:29:33.590 --> 00:29:36.950] PICARD: I'm not your judge, nor is it my duty to arbitrate.
+[00:29:38.630 --> 00:29:41.110] PICARD: But you are in my custody, and that creates the dilemma.
+[00:29:41.998 --> 00:29:42.718] OKONA: How about this?
+[00:29:45.758 --> 00:29:46.398] OKONA: Do what you said.
+[00:29:46.398 --> 00:29:47.998] OKONA: Fix my guidance system and let me leave.
+[00:29:49.758 --> 00:29:52.558] PICARD: According to Starfleet regulations, that would be my only course of action.
+[00:29:52.878 --> 00:29:55.758] PICARD: But their ships are faster than yours.
+[00:29:55.758 --> 00:29:57.335] PICARD: I'm not doing you a favour.
+[00:29:57.335 --> 00:29:57.598] OKONA: Captain,
+[00:29:58.078 --> 00:29:59.998] OKONA: with all due respect, that's not your concern.
+[00:30:00.878 --> 00:30:03.838] OKONA: Besides, I can take care of myself.
+[00:30:12.558 --> 00:30:12.638] OKONA: You're
+[00:30:17.038 --> 00:30:18.638] OKONA: quite a craftsman, Lieutenant La Forge.
+[00:30:19.278 --> 00:30:19.838] OKONA: How soon?
+[00:30:20.638 --> 00:30:21.438] LAFORGE: What's the rush?
+[00:30:22.558 --> 00:30:23.358] LAFORGE: I thought you liked it here.
+[00:30:23.358 --> 00:30:23.838] OKONA: I did.
+[00:30:23.838 --> 00:30:25.758] OKONA: It stopped liking me.
+[00:30:26.718 --> 00:30:27.598] OKONA: Time to disappear.
+[00:30:28.958 --> 00:30:29.518] WESLEY: Where will you go?
+[00:30:30.398 --> 00:30:30.558] OKONA: What?
+[00:30:31.598 --> 00:30:32.478] WESLEY: I said, where will you go?
+[00:30:33.278 --> 00:30:35.598] OKONA: A new place, if I make it.
+[00:30:37.118 --> 00:30:38.158] WESLEY: Don't you ever stay anywhere?
+[00:30:38.958 --> 00:30:39.518] OKONA: Not for long.
+[00:30:42.158 --> 00:30:43.198] WESLEY: I couldn't be like that.
+[00:30:43.518 --> 00:30:43.678] OKONA: Oh?
+[00:30:45.278 --> 00:30:46.958] WESLEY: I mean, always being alone.
+[00:30:47.598 --> 00:30:50.238] WESLEY: Commander Riker says you choose to live the way you do and you like it.
+[00:30:51.118 --> 00:30:51.838] OKONA: Is that what he says?
+[00:30:53.198 --> 00:30:53.518] WESLEY: Yeah.
+[00:30:53.838 --> 00:30:57.918] WESLEY: It would be difficult for me to be leaving all the time.
+[00:30:59.118 --> 00:31:01.278] WESLEY: I'd miss my friends, the people I love.
+[00:31:03.998 --> 00:31:05.358] WESLEY: I guess leaving's gotten easy for you.
+[00:31:08.238 --> 00:31:11.918] OKONA: I seem to have a way of using up a place.
+[00:31:11.918 --> 00:31:13.198] WESLEY: I wasn't talking about a place.
+[00:31:15.147 --> 00:31:17.307] OKONA: I know. I know what you were talking about.
+[00:31:18.107 --> 00:31:18.507] LAFORGE: It's ready.
+[00:31:21.707 --> 00:31:24.107] LAFORGE: You should be able to install this in roughly five minutes.
+[00:31:28.507 --> 00:31:30.587] OKONA: Like you said, Geordi, what's the rush?
+[00:31:31.227 --> 00:31:32.427] OKONA: I have some friends around here.
+[00:31:32.427 --> 00:31:34.747] OKONA: I think it's time to make a stand.
+[00:31:51.387 --> 00:31:51.627] PICARD: Mister
+[00:31:51.627 --> 00:31:52.027] PICARD: Okona.
+[00:31:54.027 --> 00:31:57.787] OKONA: Captain, I've decided not to leave.
+[00:31:58.747 --> 00:31:59.147] PICARD: Oh.
+[00:31:59.147 --> 00:32:01.547] OKONA: Don't worry, I'm not staying either.
+[00:32:01.947 --> 00:32:03.147] PICARD: Just what are your plans, Mister
+[00:32:03.147 --> 00:32:03.467] PICARD: Okona?
+[00:32:03.867 --> 00:32:05.307] OKONA: I've decided to surrender myself.
+[00:32:06.667 --> 00:32:07.147] RIKER: To which one?
+[00:32:08.347 --> 00:32:09.387] OKONA: There's really only one option.
+[00:32:12.747 --> 00:32:13.307] PICARD: Viewer on.
+[00:32:19.307 --> 00:32:19.707] PICARD: Gentlemen,
+[00:32:20.587 --> 00:32:22.507] PICARD: communicating like this is very distracting.
+[00:32:22.907 --> 00:32:26.907] PICARD: I suggest that we beam you up to the Enterprise and we resolve this face to face.
+[00:32:27.947 --> 00:32:28.347] KUSHELL: Excellent.
+[00:32:29.387 --> 00:32:30.107] DEBIN: Agreed.
+[00:32:30.827 --> 00:32:31.787] RIKER: Leave your weapons behind.
+[00:32:32.267 --> 00:32:33.387] RIKER: Let's keep this civilised.
+[00:32:33.787 --> 00:32:34.827] PICARD: Number One, you have the Bridge.
+[00:32:35.227 --> 00:32:38.107] PICARD: Counsellor Troi, would you accompany me to deck fourteen conference room.
+[00:32:39.307 --> 00:32:40.427] PICARD: Worf, see to our guests.
+[00:32:41.147 --> 00:32:41.627] WORF: Aye, sir.
+[00:32:48.985 --> 00:32:49.065] ROBINSON: They
+[00:32:55.945 --> 00:32:56.745] ROBINSON: have no weapons.
+[00:32:58.185 --> 00:32:58.665] WORF: This way.
+[00:33:14.985 --> 00:33:15.465] DEBIN: Okona,
+[00:33:15.945 --> 00:33:17.145] DEBIN: you are without shame.
+[00:33:17.225 --> 00:33:19.145] KUSHELL: For once I agree with Debin.
+[00:33:19.385 --> 00:33:20.665] KUSHELL: You are without shame.
+[00:33:21.225 --> 00:33:22.265] KUSHELL: I trusted you.
+[00:33:22.985 --> 00:33:27.305] KUSHELL: My son treated you like a brother. And then to steal from us.
+[00:33:27.785 --> 00:33:29.145] KUSHELL: I want him now.
+[00:33:29.545 --> 00:33:31.945] DEBIN: No, he's coming with me. Captain,
+[00:33:31.945 --> 00:33:33.625] DEBIN: my complaint was registered first.
+[00:33:33.945 --> 00:33:37.145] PICARD: Now please, please, be calm. Lieutenant,
+[00:33:37.145 --> 00:33:37.545] PICARD: thank you.
+[00:33:43.065 --> 00:33:45.625] OKONA: Everyone is talking about me, and no one's talking to me.
+[00:33:48.585 --> 00:33:53.865] OKONA: You all believe that I stole the jewel, and that it was I who fathered the child.
+[00:33:54.345 --> 00:33:57.879] DEBIN: You dare call my daughter a liar?
+[00:33:57.879 --> 00:34:08.985] OKONA: And now I'm offered these two choices, and given these two options, condemnation as a thief or marriage to the beautiful Yanar.
+[00:34:10.425 --> 00:34:12.025] OKONA: I will take the more pleasant sentence.
+[00:34:15.065 --> 00:34:17.145] OKONA: I will take Yanar as my wife.
+[00:34:17.785 --> 00:34:18.905] BENZAN: No! You can't!
+[00:34:19.305 --> 00:34:19.865] KUSHELL: My son is right.
+[00:34:20.265 --> 00:34:21.465] KUSHELL: You can't escape that way.
+[00:34:21.625 --> 00:34:22.585] BENZAN: That's not what I mean.
+[00:34:22.893 --> 00:34:24.973] DEBIN: It's not up to you, or to Okona.
+[00:34:24.973 --> 00:34:26.893] DEBIN: I've been dishonoured.
+[00:34:27.053 --> 00:34:28.013] DEBIN: I will decide.
+[00:34:28.333 --> 00:34:28.813] YANAR: Wait.
+[00:34:29.533 --> 00:34:33.213] YANAR: Since all of you believe Okona is the father of this child, then so be it.
+[00:34:38.173 --> 00:34:38.973] YANAR: I'll marry you.
+[00:34:39.373 --> 00:34:41.453] BENZAN: No! You can't.
+[00:34:42.653 --> 00:34:43.693] YANAR: Yes, I can.
+[00:34:43.933 --> 00:34:45.613] KUSHELL: Okona is still a thief.
+[00:34:46.173 --> 00:34:46.893] BENZAN: No, he's not.
+[00:34:48.253 --> 00:34:49.533] BENZAN: Nothing has been stolen.
+[00:34:51.453 --> 00:34:55.933] BENZAN: The Jewel of Thesia has been taken into custody by its rightful heir. Me.
+[00:34:57.933 --> 00:34:59.933] BENZAN: I was to give it to Yanar as our pledge of marriage.
+[00:35:01.213 --> 00:35:02.013] KUSHELL: Marriage?
+[00:35:04.653 --> 00:35:06.573] BENZAN: Yanar is carrying my child.
+[00:35:07.773 --> 00:35:10.653] DEBIN: You said it was Okona's.
+[00:35:13.053 --> 00:35:16.093] YANAR: If I'd told you it was Benzan you would have gone to war with his father.
+[00:35:16.893 --> 00:35:18.573] YANAR: So I let you believe it was Okona.
+[00:35:19.453 --> 00:35:21.053] OKONA: See how a man gets a reputation?
+[00:35:21.213 --> 00:35:25.933] BENZAN: If I had told you I was giving the Jewel to Debin's daughter, you'd have disowned me.
+[00:35:26.733 --> 00:35:28.093] TROI: Now we're hearing some truth.
+[00:35:28.653 --> 00:35:32.893] KUSHELL: So you let me chase Okona when you knew he was innocent.
+[00:35:32.893 --> 00:35:36.413] BENZAN: Yes, because I didn't believe for one moment that you could catch him.
+[00:35:37.693 --> 00:35:38.173] OKONA: Well, said.
+[00:35:38.173 --> 00:35:38.813] OKONA: He never would have.
+[00:35:40.333 --> 00:35:43.373] BENZAN: And once Yanar accepted the Jewel the marriage would have been made.
+[00:35:44.093 --> 00:35:45.053] YANAR: Well, I never got it.
+[00:35:45.773 --> 00:35:48.013] KUSHELL: Then Okona does have the jewel.
+[00:35:48.733 --> 00:35:51.213] OKONA: I never had the chance to deliver it.
+[00:35:52.653 --> 00:35:53.693] YANAR: Anyway it's too late.
+[00:35:54.093 --> 00:35:55.213] YANAR: I won't marry Benzan.
+[00:35:55.613 --> 00:35:57.133] DEBIN: Then you'll marry Okona.
+[00:35:58.119 --> 00:35:59.719] YANAR: I won't marry anyone!
+[00:36:04.999 --> 00:36:06.587] DATA: I have reinstated the same programme.
+[00:36:06.587 --> 00:36:08.439] GUINAN: Along with some new jokes, I hope.
+[00:36:08.999 --> 00:36:09.959] COMPUTER: Programme complete.
+[00:36:10.119 --> 00:36:10.919] COMPUTER: Enter when ready.
+[00:36:23.079 --> 00:36:23.479] DATA: Comic,
+[00:36:23.799 --> 00:36:24.279] DATA: continue.
+[00:36:25.159 --> 00:36:26.039] COMIC: More freebies, huh?
+[00:36:26.119 --> 00:36:27.799] COMIC: No cover, no minimum, just Comic,
+[00:36:27.959 --> 00:36:28.439] COMIC: continue?
+[00:36:29.399 --> 00:36:30.519] COMIC: Tell me, Data, what happened?
+[00:36:32.119 --> 00:36:33.399] DATA: I told a joke.
+[00:36:33.399 --> 00:36:33.719] COMIC: And?
+[00:36:33.719 --> 00:36:34.679] DATA: No one laughed.
+[00:36:34.999 --> 00:36:36.359] COMIC: No one? Nobody in the whole room?
+[00:36:36.679 --> 00:36:37.559] GUINAN: I was the whole room.
+[00:36:38.119 --> 00:36:39.559] DATA: She said I spoiled the joke.
+[00:36:39.799 --> 00:36:41.479] GUINAN: Actually, killed would have been a better word.
+[00:36:42.119 --> 00:36:45.879] COMIC: You know, Data, I think I know what your problem is. You should always try out new material on an audience.
+[00:36:46.599 --> 00:36:47.479] GUINAN: You know, he could be right.
+[00:36:47.639 --> 00:36:49.239] GUINAN: Perhaps an audience is what you need.
+[00:36:53.319 --> 00:36:57.399] DATA: Computer. Programme an audience appropriate to this venue.
+[00:37:02.839 --> 00:37:03.239] OKONA: Yanar.
+[00:37:09.799 --> 00:37:16.039] OKONA: You're angry at the embarrassment of all this, and maybe the timing and the approach is not the most romantic,
+[00:37:16.119 --> 00:37:18.919] OKONA: but I know you love Benzan
+[00:37:20.599 --> 00:37:27.639] OKONA: and I don't want to see you throw away that feeling just because your parents have been quarrelling for years and don't know how to behave properly.
+[00:37:31.952 --> 00:37:34.992] OKONA: I've carried your messages back and forth for almost six months.
+[00:37:35.072 --> 00:37:36.912] OKONA: I've smuggled each of you into the other's homeland.
+[00:37:36.992 --> 00:37:40.832] OKONA: You feel for him the same way he feels for you.
+[00:37:57.152 --> 00:37:58.112] YANAR: I do love you.
+[00:38:00.992 --> 00:38:04.032] YANAR: It is your child. Our child.
+[00:38:08.192 --> 00:38:08.512] BENZAN: Marry me.
+[00:38:10.752 --> 00:38:10.912] YANAR: Yes.
+[00:38:10.912 --> 00:38:14.432] BENZAN: We'll find a
+[00:38:25.072 --> 00:38:26.912] BENZAN: new planet to live on.
+[00:38:27.152 --> 00:38:29.792] KUSHELL: You'll live on Straleb.
+[00:38:30.192 --> 00:38:31.312] DEBIN: No, no, no, no no.
+[00:38:31.632 --> 00:38:33.232] DEBIN: You'll live on Atlec.
+[00:38:33.792 --> 00:38:36.912] KUSHELL: I will not have this man raising my grandson.
+[00:38:37.232 --> 00:38:40.512] PICARD: The rest of this is an issue, gentlemen, to be settled between yourselves.
+[00:38:41.152 --> 00:38:42.752] PICARD: Now if you will excuse us, we have business.
+[00:38:43.072 --> 00:38:43.952] YANAR: Thank you, Captain.
+[00:38:44.512 --> 00:38:45.552] DEBIN: Your grandson?
+[00:38:45.552 --> 00:38:46.592] KUSHELL: My grandson.
+[00:38:50.192 --> 00:38:51.712] COMIC: Thank you. Thank you.
+[00:38:51.712 --> 00:38:51.792] COMIC: Thanks for coming, folks. We
+[00:38:53.472 --> 00:38:56.592] COMIC: got a great show for you tonight.
+[00:38:57.312 --> 00:38:58.752] COMIC: I'm so excited this evening.
+[00:38:58.832 --> 00:39:01.712] COMIC: Tonight I have for you the funny man of the stars,
+[00:39:01.951 --> 00:39:06.031] COMIC: the android of antics, that Lieutenant Commander of mirth.
+[00:39:06.031 --> 00:39:07.871] COMIC: Please give him a nice welcome, ladies and gentlemen,
+[00:39:08.111 --> 00:39:11.311] COMIC: none other than. He's just the best. Data!
+[00:39:11.000 --> 00:39:15.000] [applause]
+[00:39:11.311 --> 00:39:11.471] DATA: Good
+[00:39:20.831 --> 00:39:23.711] DATA: evening ladies and germs.
+[00:39:23.000 --> 00:39:25.000] [laughter]
+[00:39:31.551 --> 00:39:31.551] DATA: I
+[00:39:33.000 --> 00:39:38.000] [laughter]
+[00:39:36.911 --> 00:39:40.191] DATA: come from a town so small, we had a fraction for a zip code.
+[00:39:39.000 --> 00:39:43.000] [laughter]
+[00:39:40.831 --> 00:39:43.791] GUINAN: You made a living doing this?
+[00:39:44.031 --> 00:39:44.831] COMIC: Yes, I did.
+[00:39:45.631 --> 00:39:50.111] DATA: It was so small in fact we didn't have a godfather of crime, we had a nephew.
+[00:39:59.631 --> 00:40:05.071] DATA: I was so ugly as a child they hung a pork chop
+[00:40:04.000 --> 00:40:06.000] [laughter]
+[00:40:06.991 --> 00:40:08.991] DATA: around my neck
+[00:40:07.000 --> 00:40:10.000] [laughter]
+[00:40:10.991 --> 00:40:13.151] DATA: so the dog would play with me.
+[00:40:15.000 --> 00:40:19.000] [laughter]
+[00:40:16.431 --> 00:40:20.671] DATA: And then there was the human cannonball who
+[00:40:20.831 --> 00:40:23.471] DATA: was hired and fired in the same night.
+[00:40:23.471 --> 00:40:24.031] DATA: Audience
+[00:40:32.751 --> 00:40:33.311] DATA: programme
+[00:40:34.100 --> 00:40:34.500] DATA: off.
+[00:40:45.300 --> 00:40:46.500] DATA: Discontinue Comic.
+[00:40:56.100 --> 00:40:57.380] DATA: It was a holodeck audience.
+[00:40:58.020 --> 00:40:59.460] DATA: They were programmed to laugh at everything.
+[00:41:01.380 --> 00:41:05.300] DATA: Perhaps I should reprogram the audience to display a more accurate response.
+[00:41:05.540 --> 00:41:06.900] GUINAN: Data, let me give you one.
+[00:41:09.140 --> 00:41:14.900] GUINAN: Being able to make people laugh, or being able to laugh, is not the end all and be all of being human.
+[00:41:15.460 --> 00:41:15.700] DATA: No,
+[00:41:16.820 --> 00:41:19.460] DATA: but there is nothing more uniquely human.
+[00:41:22.740 --> 00:41:22.740] RIKER: Hold
+[00:41:35.540 --> 00:41:36.500] RIKER: your speed, Captain Okona.
+[00:41:37.540 --> 00:41:38.100] RIKER: Disengage.
+[00:41:38.100 --> 00:41:38.580] WESLEY: Separated.
+[00:41:38.580 --> 00:41:39.860] OKONA: I'm under
+[00:41:42.260 --> 00:41:43.140] OKONA: my own power now.
+[00:41:43.700 --> 00:41:44.820] OKONA: Thank you, Enterprise.
+[00:41:45.140 --> 00:41:46.100] OKONA: Thank you, Captain Picard.
+[00:41:46.980 --> 00:41:47.940] PICARD: Goodbye, Captain Okona.
+[00:41:49.220 --> 00:41:50.020] WESLEY: Bye, Captain Okona.
+[00:41:53.300 --> 00:41:53.860] WESLEY: Say goodbye, Data.
+[00:41:55.140 --> 00:41:55.700] DATA: Goodbye, Data.
+[00:41:57.620 --> 00:42:00.100] DATA: Was that funny?
+[00:42:03.010 --> 00:42:03.490] DATA: Accessing.
+[00:42:05.570 --> 00:42:09.570] DATA: Ah. Burns and Allen, Roxy Theater, New York City, 1932.
+[00:42:10.450 --> 00:42:11.250] DATA: It still works.
+[00:42:13.090 --> 00:42:16.690] DATA: Then there was the one about the girl in the nudist colony that nothing looked good on?
+[00:42:16.930 --> 00:42:18.370] WORF: We're ready to get underway, sir.
+[00:42:19.410 --> 00:42:20.930] DATA: Take my Worf. Please.
+[00:42:21.730 --> 00:42:22.530] RIKER: Warp speed, sir?
+[00:42:23.650 --> 00:42:24.130] PICARD: Please.

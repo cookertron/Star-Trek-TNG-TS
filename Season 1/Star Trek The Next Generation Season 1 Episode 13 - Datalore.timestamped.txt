@@ -1,0 +1,574 @@
+[00:00:02.720 --> 00:00:05.840] LOG: Captain's log, stardate 41242.4.
+[00:00:06.560 --> 00:00:13.600] LOG: Our last assignment has taken us into the remote Omicron Theta star system, home of our android crewmember Lieutenant Commander Data.
+[00:00:14.320 --> 00:00:22.960] LOG: Although we are due at our next assignment, I have decided to visit Data's home planet for a few hours in the hopes of unravelling some of the mystery of his beginnings.
+[00:00:24.480 --> 00:00:26.800] LAFORGE: Sir, we are now twenty minutes from Omicron Theta,
+[00:00:27.360 --> 00:00:27.680] LAFORGE: mark!
+[00:00:29.440 --> 00:00:30.320] RIKER: Stand by for subwarp.
+[00:00:31.120 --> 00:00:32.560] RIKER: Head for standard orbit of Data's planet.
+[00:00:32.640 --> 00:00:33.760] RIKER: I wonder why Data hasn't come up here.
+[00:00:34.960 --> 00:00:36.560] PICARD: He said he wanted to be alone.
+[00:00:37.040 --> 00:00:38.960] PICARD: Perhaps it's a bigger moment for him than we thought.
+[00:00:41.200 --> 00:00:41.680] DATA: Aah, ahh,
+[00:00:43.760 --> 00:00:44.320] DATA: ahh
+[00:00:46.000 --> 00:00:46.400] WESLEY: Data!
+[00:00:47.520 --> 00:00:48.480] DATA: Choo!
+[00:00:50.480 --> 00:00:51.200] WESLEY: What are you doing?
+[00:00:52.000 --> 00:00:52.480] DATA: Sneezing.
+[00:00:54.240 --> 00:00:54.960] WESLEY: Have you got a cold?
+[00:00:55.840 --> 00:00:56.160] DATA: A cold
+[00:00:56.160 --> 00:00:56.480] DATA: what?
+[00:00:57.440 --> 00:00:58.000] WESLEY: It's a disease
+[00:00:58.000 --> 00:00:59.280] WESLEY: my mom says people used to get.
+[00:00:59.600 --> 00:00:59.840] DATA: Ah.
+[00:01:01.040 --> 00:01:02.880] DATA: But humans still sneeze for other reasons
+[00:01:03.680 --> 00:01:05.120] DATA: and I cannot seem to do it right.
+[00:01:09.520 --> 00:01:14.480] WESLEY: How can you be practicing something like sneezing when we're arriving at your home planet for the first time?
+[00:01:14.880 --> 00:01:15.920] WESLEY: Aren't you interested in that?
+[00:01:16.240 --> 00:01:17.040] DATA: More than interested.
+[00:01:17.440 --> 00:01:18.080] DATA: Fascinated.
+[00:01:18.480 --> 00:01:19.520] DATA: One might say agog.
+[00:01:20.240 --> 00:01:21.840] DATA: But I also find sneezing interesting.
+[00:01:26.160 --> 00:01:27.920] WESLEY: Captain Picard wishes to see you on the Bridge.
+[00:01:29.949 --> 00:01:36.909] TASHA: Captain, confirming class M reading there. But the sensors aren't showing any life readings. Not even vegetation.
+[00:01:37.309 --> 00:01:37.629] PICARD: Strange.
+[00:01:37.949 --> 00:01:39.949] PICARD: The cruiser that found Data reported farmlands here.
+[00:01:40.349 --> 00:01:43.309] RIKER: Do you want to take her into orbit, Data?
+[00:01:44.109 --> 00:01:44.829] DATA: No, thank you, sir.
+[00:02:08.989 --> 00:02:10.509] PICARD: Continue on into close parking orbit.
+[00:02:11.629 --> 00:02:11.949] LAFORGE: Aye, sir.
+[00:02:13.629 --> 00:02:14.989] DATA: I could say home sweet home, sir,
+[00:02:16.589 --> 00:02:18.429] DATA: if I understood how the word sweet applies.
+[00:02:18.829 --> 00:02:20.269] PICARD: It usually refers to the memories.
+[00:02:20.909 --> 00:02:22.909] RIKER: It usually refers to one's own memories, Captain.
+[00:02:23.309 --> 00:02:25.629] RIKER: Do the memories you were given include farms, Data?
+[00:02:26.509 --> 00:02:27.149] DATA: Affirmative, sir.
+[00:02:27.789 --> 00:02:29.709] DATA: But the colony's principal interest was science.
+[00:02:30.029 --> 00:02:33.549] TASHA: Data, I can't understand how you can hold the memories of four hundred and eleven people.
+[00:02:34.029 --> 00:02:36.589] TASHA: If that means every experience, every day of their life?
+[00:02:36.829 --> 00:02:37.709] DATA: It does not,
+[00:02:37.869 --> 00:02:41.069] DATA: unfortunately. It means only the knowledge they had accumulated.
+[00:02:41.789 --> 00:02:44.509] DATA: Actually, I am quite deficient in some basic human information.
+[00:02:44.989 --> 00:02:46.029] DATA: Sneezing, for example.
+[00:02:46.429 --> 00:02:46.829] PICARD: Sneezing?
+[00:02:47.949 --> 00:02:49.389] LAFORGE: Approaching close parking orbit, sir.
+[00:02:50.029 --> 00:02:51.229] PICARD: Assemble your away party, Commander.
+[00:02:54.189 --> 00:02:56.109] PICARD: This must be an exciting moment for you, Mister Data.
+[00:02:56.749 --> 00:03:00.269] PICARD: I'm tempted to lead the away team myself, except that my First Officer would object.
+[00:03:01.364 --> 00:03:02.804] RIKER: How would Starfleet judge me if I didn't?
+[00:03:03.124 --> 00:03:04.964] RIKER: An entire Earth colony did disappear down there.
+[00:03:05.284 --> 00:03:05.604] PICARD: You see?
+[00:03:08.884 --> 00:03:10.084] LAFORGE: Now in close parking orbit, sir.
+[00:03:11.204 --> 00:03:11.684] PICARD: Mister Data,
+[00:03:13.604 --> 00:03:13.924] PICARD: welcome home.
+[00:03:37.924 --> 00:03:40.644] PICARD: Space, the final frontier.
+[00:03:42.564 --> 00:03:45.444] PICARD: These are the voyages of the starship Enterprise.
+[00:03:46.484 --> 00:03:54.804] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:56.484 --> 00:03:59.364] PICARD: to boldly go where no one has gone before.
+[00:04:18.000 --> 00:04:36.000] [music]
+[00:05:00.478 --> 00:05:03.758] LOG: First Officer's log, stardate 4124.5.
+[00:05:04.478 --> 00:05:11.038] LOG: We have found Data's home to be a completely dead world made out of lifeless vegetation. No insects, not even soil bacteria.
+[00:05:12.158 --> 00:05:14.638] LOG: What is it that could kill everything on an entire planet?
+[00:05:18.158 --> 00:05:19.678] TASHA: Recording
+[00:05:21.598 --> 00:05:23.118] TASHA: signal locked onto the Enterprise, sir.
+[00:05:24.318 --> 00:05:25.758] RIKER: This looks like anything but farmland.
+[00:05:26.638 --> 00:05:27.358] LAFORGE: Agreed, sir.
+[00:05:28.638 --> 00:05:31.118] LAFORGE: The soil appears almost completely lifeless.
+[00:05:32.238 --> 00:05:34.078] RIKER: This is the exact position listed in the Tripoli log.
+[00:05:34.158 --> 00:05:35.118] RIKER: Do you recognise anything, Data?
+[00:05:35.998 --> 00:05:37.518] DATA: The land contours are familiar, sir.
+[00:05:38.318 --> 00:05:40.158] DATA: Topographically, this is the correct area.
+[00:05:40.878 --> 00:05:42.238] LAFORGE: This once was rich farmland.
+[00:05:42.238 --> 00:05:44.158] LAFORGE: I'd say something like twenty to thirty years ago.
+[00:05:45.118 --> 00:05:46.718] DATA: I was discovered twenty six years ago.
+[00:05:47.678 --> 00:05:52.078] LAFORGE: Commander, I'd say that everything on this planet was either dead or dying at the time Data was found.
+[00:05:52.718 --> 00:05:54.638] DATA: I was found twenty metres in that direction, sir.
+[00:06:00.703 --> 00:06:05.823] TASHA: Data, any idea at all why you were given the colonists' memories?
+[00:06:06.543 --> 00:06:09.103] DATA: I have always felt that it was done hurriedly, but I know little more.
+[00:06:10.543 --> 00:06:10.863] DATA: Here, sir.
+[00:06:12.143 --> 00:06:15.583] DATA: This is where the cruiser's landing party found the signal device that had led them here.
+[00:06:18.303 --> 00:06:20.463] DATA: And they found me lying there, sir.
+[00:06:24.863 --> 00:06:26.383] TASHA: You were just lying out there in the open?
+[00:06:27.423 --> 00:06:29.503] TASHA: No identity record, no instructions?
+[00:06:30.863 --> 00:06:31.983] DATA: Only a layer of dust.
+[00:06:32.783 --> 00:06:34.063] RIKER: What's the first thing you remember, Data?
+[00:06:34.943 --> 00:06:35.823] DATA: Opening my eyes.
+[00:06:37.583 --> 00:06:39.663] DATA: Looking into the eyes of the Tripoli landing party.
+[00:06:41.103 --> 00:06:44.543] DATA: They believed that the signal device sensed their presence and activated me.
+[00:06:45.503 --> 00:06:47.743] TASHA: Then this very spot was your birthplace.
+[00:06:49.503 --> 00:06:50.063] LAFORGE: Commander,
+[00:06:53.263 --> 00:06:54.623] LAFORGE: I think I've got this place figured out here.
+[00:06:55.663 --> 00:07:01.023] LAFORGE: This was really very cleverly done to make this look like a natural hollow in the terrain here.
+[00:07:02.223 --> 00:07:06.063] LAFORGE: There are signs of it being constructed in a hurry as if to hide something here.
+[00:07:06.943 --> 00:07:09.343] DATA: Yes, that was it, Geordi.
+[00:07:10.303 --> 00:07:16.783] DATA: This wakens a memory remnant of how the colonists hoped to remain hidden, but their fear of being discovered
+[00:07:18.623 --> 00:07:20.703] DATA: led to their storing information in me.
+[00:07:23.306 --> 00:07:24.586] LAFORGE: Yeah, thought so.
+[00:07:26.746 --> 00:07:26.746] TASHA: No
+[00:07:53.866 --> 00:07:55.066] TASHA: life readings in here either, sir.
+[00:08:45.546 --> 00:08:47.546] RIKER: The
+[00:08:53.626 --> 00:08:55.706] RIKER: colony laboratory. Extremely well equipped.
+[00:08:56.542 --> 00:08:57.662] RIKER: Does this stir any memories, Data?
+[00:08:58.702 --> 00:09:01.742] DATA: Only a vague impression of some of my functions being tested here.
+[00:09:08.462 --> 00:09:09.662] RIKER: Posted by proud parents?
+[00:09:11.102 --> 00:09:15.822] DATA: It depicts something that feels familiar, sir. And dangerous.
+[00:09:17.182 --> 00:09:20.942] DATA: But I have no idea what it represents. And that is all.
+[00:09:22.702 --> 00:09:23.022] DATA: Except
+[00:09:25.102 --> 00:09:25.902] DATA: for an impression
+[00:09:27.982 --> 00:09:32.302] DATA: of this being a Doctor Soong's work area.
+[00:09:32.302 --> 00:09:32.622] RIKER: Who?
+[00:09:33.742 --> 00:09:34.942] RIKER: You don't mean Doctor Noonien Soong?
+[00:09:35.502 --> 00:09:39.502] DATA: He was called that here, but his memories indicate he travelled here under a different name.
+[00:09:40.062 --> 00:09:43.742] LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's foremost robotics scientist.
+[00:09:43.742 --> 00:09:47.422] TASHA: Until he tried to make Asimov's dream of a positronic brain come true.
+[00:09:48.302 --> 00:09:49.582] RIKER: A positronic brain.
+[00:09:49.902 --> 00:09:55.182] RIKER: He promised so much. And then when he failed completely, Doctor Soong disappeared.
+[00:09:56.062 --> 00:09:58.382] RIKER: Now we know he went somewhere else to try a second time.
+[00:09:59.502 --> 00:10:02.302] RIKER: Data, Geordi, we'll get a close look at this lab.
+[00:10:02.782 --> 00:10:05.022] RIKER: You and Lieutenant Worf reconnoitre where these corridors lead.
+[00:10:05.342 --> 00:10:05.582] TASHA: Aye, sir.
+[00:10:37.116 --> 00:10:38.716] LAFORGE: Data, it's you.
+[00:10:40.076 --> 00:10:43.836] RIKER: An epidermal mold. Made to give your exterior the desired finish.
+[00:10:44.396 --> 00:10:45.596] TASHA: Lieutenant Yar to Commander Riker.
+[00:10:46.236 --> 00:10:46.876] RIKER: Come in, Lieutenant.
+[00:10:47.276 --> 00:10:52.476] TASHA: Sir, this installation is big enough to hold hundreds of people. But all that's here now is empty beds.
+[00:10:53.116 --> 00:10:53.756] RIKER: Thank you, Lieutenant.
+[00:10:54.236 --> 00:10:55.916] RIKER: Complete your record scans and report back here.
+[00:10:56.716 --> 00:11:00.396] LAFORGE: Commander Riker, looks like some sort of storage area.
+[00:11:17.516 --> 00:11:18.716] RIKER: How many more Datas are there?
+[00:11:19.196 --> 00:11:20.076] LAFORGE: Looks like just these two.
+[00:11:21.116 --> 00:11:23.196] LAFORGE: I mean, that and the real Data.
+[00:11:36.396 --> 00:11:36.876] DATA: Commander,
+[00:11:38.956 --> 00:11:40.076] DATA: can this be another me?
+[00:11:43.036 --> 00:11:44.156] DATA: Or possibly my brother?
+[00:11:44.156 --> 00:11:44.156] RIKER: I
+[00:11:46.076 --> 00:11:46.876] RIKER: honestly don't know, Data.
+[00:11:48.396 --> 00:11:51.276] DATA: He needs assembling.
+[00:11:52.076 --> 00:11:52.316] RIKER: He?
+[00:11:54.396 --> 00:11:57.836] RIKER: Data, we don't know that this can become alive.
+[00:12:00.289 --> 00:12:02.449] DATA: It is very important for me to know that, sir.
+[00:12:02.449 --> 00:12:02.449] DATA: I
+[00:12:04.689 --> 00:12:07.409] DATA: never dreamed it was possible I might find some link
+[00:12:09.329 --> 00:12:10.529] DATA: with some form like my own.
+[00:12:12.049 --> 00:12:12.449] RIKER: Understood.
+[00:12:13.809 --> 00:12:14.849] RIKER: We'll take it back to the ship with
+[00:12:19.729 --> 00:12:21.729] RIKER: us.
+[00:12:22.289 --> 00:12:25.809] LOG: Captain's log, Stardate 41242.45.
+[00:12:26.609 --> 00:12:33.409] LOG: Despite having only a few hours in which to explore Data's home planet we've discovered something which may explain Data's beginnings,
+[00:12:34.209 --> 00:12:38.289] LOG: if we can properly assemble and communicate with what we've found.
+[00:13:12.449 --> 00:13:13.489] CRUSHER: Signal from the Captain.
+[00:13:13.969 --> 00:13:15.249] CRUSHER: They need you at the debriefing.
+[00:13:17.329 --> 00:13:20.129] DATA: I've been most anxious to hear the Chief Engineer's opinion, Mister Argyle.
+[00:13:20.929 --> 00:13:22.289] DATA: Do you believe he can be made to function?
+[00:13:23.569 --> 00:13:25.729] ARGYLE: It appears to include all the components in your body.
+[00:13:26.505 --> 00:13:28.585] ARGYLE: Not that we fully understand your construction either.
+[00:13:29.465 --> 00:13:32.665] CRUSHER: We have our top specialists working on its construction, Mister Data.
+[00:13:34.505 --> 00:13:35.305] ARGYLE: Just one thing.
+[00:13:36.345 --> 00:13:39.305] ARGYLE: Without disassembling you, of course, if we should need more
+[00:13:42.185 --> 00:13:47.305] CRUSHER: If we should need to compare this with the way you're put together?
+[00:13:50.905 --> 00:13:52.905] PICARD: Bringing it up here was the right thing to do, Number One.
+[00:13:55.945 --> 00:13:59.385] PICARD: We were just saying, Data, that if your duplicate functions, it might answer a lot of questions.
+[00:14:05.145 --> 00:14:06.425] RIKER: Does it appear to have all
+[00:14:08.265 --> 00:14:09.625] RIKER: your parts?
+[00:14:09.625 --> 00:14:10.985] DATA: Completely, sir.
+[00:14:11.785 --> 00:14:12.345] LAFORGE: Will
+[00:14:15.785 --> 00:14:16.905] LAFORGE: we know how to turn it on?
+[00:14:17.545 --> 00:14:17.865] PICARD: All right,
+[00:14:19.465 --> 00:14:19.785] PICARD: all right.
+[00:14:22.185 --> 00:14:24.745] PICARD: Legitimate questions about any of this need not be asked apologetically.
+[00:14:25.785 --> 00:14:28.265] PICARD: You feel uncomfortable about aspects of your duplicate, Data.
+[00:14:28.345 --> 00:14:30.905] PICARD: We feel uncomfortable too, and for no logical reason.
+[00:14:31.945 --> 00:14:40.825] PICARD: If it feels awkward to be reminded that Data is a machine, just remember that we are merely a different variety of machine. In our case, electrochemical in nature.
+[00:14:41.785 --> 00:14:43.705] PICARD: Let's begin to handle this as we would do anything else.
+[00:14:44.665 --> 00:14:45.785] LAFORGE: Agreed, Captain.
+[00:14:46.185 --> 00:14:46.985] PICARD: Let's begin with you, Data.
+[00:14:48.265 --> 00:14:50.585] DATA: Well, sir, a good starting point may be,
+[00:14:51.625 --> 00:14:53.145] DATA: why was I given human form?
+[00:14:53.865 --> 00:14:56.345] LAFORGE: Well, to make it easier for humans to relate to you.
+[00:14:56.682 --> 00:14:59.882] LAFORGE: Had to be. But your designer may have had something else to prove as well.
+[00:15:00.282 --> 00:15:04.282] PICARD: That human-shaped robots need not be clumsy or limited.
+[00:15:05.162 --> 00:15:07.082] PICARD: You certainly operate as well as we do, Data
+[00:15:07.562 --> 00:15:08.522] DATA: Better in some ways, sir.
+[00:15:10.762 --> 00:15:12.362] RIKER: You might want to have a look at this, Captain.
+[00:15:12.602 --> 00:15:14.442] RIKER: Could be a link to the disappearance of the colonists.
+[00:15:14.442 --> 00:15:17.402] RIKER: It was displayed in the lab, no doubt by proud parents.
+[00:15:17.402 --> 00:15:20.842] RIKER: It could be just a child's imagination, but several children did similar drawings.
+[00:15:23.722 --> 00:15:24.922] CRUSHER: Doctor Crusher to Captain.
+[00:15:25.562 --> 00:15:27.642] CRUSHER: At this point, sir, we very much need Mister Data's help.
+[00:15:31.162 --> 00:15:31.962] PICARD: He's on his way, Doctor.
+[00:15:38.922 --> 00:15:41.482] UNKNOWN: Is your electromagnetic thermometer reading positive or negative?
+[00:15:41.802 --> 00:15:42.042] UNKNOWN: Positive.
+[00:15:43.082 --> 00:15:44.362] DATA: Press your fingers there, Doctor.
+[00:15:49.002 --> 00:15:49.242] DATA: There.
+[00:15:51.482 --> 00:15:53.082] DATA: It operates almost as a switch.
+[00:15:55.242 --> 00:15:56.602] CRUSHER: And these small projections?
+[00:15:58.442 --> 00:15:59.722] DATA: An android alarm clock.
+[00:16:01.322 --> 00:16:02.042] DATA: Is that amusing?
+[00:16:05.002 --> 00:16:06.762] DATA: They time how long I remain unconscious.
+[00:16:08.682 --> 00:16:10.922] ARGYLE: Are you certain about us using these heating devices, Data?
+[00:16:11.402 --> 00:16:12.522] DATA: I will feel nothing at all.
+[00:16:13.722 --> 00:16:14.122] ARGYLE: Marvellous.
+[00:16:15.002 --> 00:16:17.882] ARGYLE: It should all be a lot simpler once we can see how your circuitry's connected.
+[00:16:24.202 --> 00:16:25.402] CRUSHER: I won't mention it to anyone.
+[00:16:26.522 --> 00:16:27.402] CRUSHER: You have my word.
+[00:16:28.362 --> 00:16:29.802] DATA: If you had an off switch Doctor,
+[00:16:31.482 --> 00:16:32.602] DATA: would you not keep it secret?
+[00:16:34.282 --> 00:16:38.602] CRUSHER: I guess I would.
+[00:16:48.762 --> 00:16:51.402] ARGYLE: Notice the micro-circuitry here and here.
+[00:16:54.122 --> 00:16:55.882] ARGYLE: And another fibroid-like connection here.
+[00:16:59.082 --> 00:16:59.802] CRUSHER: Let's close up.
+[00:16:59.802 --> 00:16:59.802] ARGYLE: It
+[00:17:12.522 --> 00:17:13.242] ARGYLE: seemed to go well,
+[00:17:13.802 --> 00:17:17.491] ARGYLE: thanks to a look inside Mister Data. But there have been no signs of consciousness, yet
+[00:17:17.491 --> 00:17:17.722] RIKER: It
+[00:17:26.922 --> 00:17:28.282] RIKER: certainly is a good match for Data, sir.
+[00:17:28.282 --> 00:17:29.882] PICARD: Do you think so,
+[00:17:29.962 --> 00:17:30.202] PICARD: really?
+[00:17:32.202 --> 00:17:33.722] PICARD: I wonder which of them was made first?
+[00:17:36.202 --> 00:17:36.762] LORE: He was.
+[00:17:40.842 --> 00:17:44.042] LORE: But they found him imperfect and I was made to replace him.
+[00:17:46.922 --> 00:17:47.002] LORE: You
+[00:17:52.842 --> 00:17:53.722] LORE: may call me Lore.
+[00:18:01.791 --> 00:18:01.951] PICARD: I'm
+[00:18:04.831 --> 00:18:09.311] PICARD: also a bit troubled by it describing you as imperfect.
+[00:18:09.711 --> 00:18:11.711] DATA: Human language gives me difficulty too, sir.
+[00:18:12.191 --> 00:18:15.151] DATA: Imperfect could mean I lack certain abilities he possesses.
+[00:18:15.391 --> 00:18:16.271] PICARD: I wonder.
+[00:18:17.151 --> 00:18:21.711] PICARD: But the point of this is, whether you and it have approximately the same capabilities.
+[00:18:21.951 --> 00:18:22.431] DATA: We do, sir,
+[00:18:23.631 --> 00:18:29.551] DATA: and your referring to him as an it suggests that I, too, fit into the category of a thing.
+[00:18:31.391 --> 00:18:33.151] PICARD: I see your point.
+[00:18:34.911 --> 00:18:35.631] PICARD: My apologies.
+[00:18:36.271 --> 00:18:37.151] DATA: Gladly accepted, sir.
+[00:18:38.191 --> 00:18:43.711] DATA: As for Lore's abilities, his use of syntax and grammar suggests he was given human memories similar to my own.
+[00:18:43.791 --> 00:18:46.511] PICARD: And you have about equal physical strength and mental abilities?
+[00:18:46.751 --> 00:18:47.471] DATA: I believe so, sir.
+[00:18:48.271 --> 00:18:51.871] PICARD: Which requires I now ask you a very serious question.
+[00:18:52.031 --> 00:18:56.578] PICARD: Since the two of you are closely related to each other.
+[00:18:56.578 --> 00:19:01.951] DATA: The answer, sir, is that my loyalty is to you and Starfleet. Completely.
+[00:19:05.151 --> 00:19:05.791] PICARD: Thank you, Commander.
+[00:19:06.991 --> 00:19:07.791] PICARD: I was certain of that.
+[00:19:08.991 --> 00:19:13.471] LAFORGE: And helm control is here, with the ship's heading given in measurements we call degrees.
+[00:19:14.031 --> 00:19:15.791] LAFORGE: Three hundred and sixty of them in a full circle this way.
+[00:19:16.751 --> 00:19:17.837] LORE: Then you say mark.
+[00:19:17.837 --> 00:19:18.651] LAFORGE: On the nose.
+[00:19:18.651 --> 00:19:24.351] WESLEY: Which separates it from another full three hundred and sixty degree circle this way on a right angle to this one.
+[00:19:25.391 --> 00:19:31.311] LORE: So by ordering a heading so many degrees this way and so many this way, the ship can travel in any direction.
+[00:19:31.723 --> 00:19:32.366] LORE: All three dimensions.
+[00:19:32.366 --> 00:19:34.510] RIKER: And the square of the hypotenuse of a right triangle
+[00:19:34.510 --> 00:19:37.083] LORE: Is equal to the sum of the square of the other two.
+[00:19:39.163 --> 00:19:43.883] LORE: Two something. Which I once heard, but never understood.
+[00:19:44.283 --> 00:19:47.723] DATA: All of which you will learn more about when the Captain has approved your being on the Bridge.
+[00:19:49.323 --> 00:19:50.523] LORE: Have I committed an offence?
+[00:19:51.083 --> 00:19:54.283] WESLEY: You will find that there are many rules on starships that must be learnt.
+[00:19:56.043 --> 00:19:57.163] LORE: You're very clever, Wesley.
+[00:19:58.363 --> 00:19:59.723] LORE: I now have duties to perform.
+[00:19:59.723 --> 00:20:00.123] LORE: Correct?
+[00:20:00.843 --> 00:20:02.923] WORF: Were you ever this anxious to please, Data?
+[00:20:03.723 --> 00:20:04.043] DATA: Never.
+[00:20:05.083 --> 00:20:07.584] DATA: I judge Lore to be superior in that desire.
+[00:20:07.584 --> 00:20:10.363] LORE: Because I was designed to be so human, my brother,
+[00:20:11.483 --> 00:20:12.683] LORE: I enjoy pleasing humans.
+[00:20:13.163 --> 00:20:13.803] LAFORGE: My brother.
+[00:20:14.923 --> 00:20:16.363] LAFORGE: That has a nice sound to it, Data.
+[00:20:18.443 --> 00:20:21.003] DATA: You consider it important to please humans?
+[00:20:22.043 --> 00:20:22.843] LORE: It's not important?
+[00:20:24.683 --> 00:20:27.483] DATA: There are many things of importance. Some more than others.
+[00:20:42.683 --> 00:20:48.203] DATA: Do you realise that Commander Riker's hypotenuse question tricked you into showing your knowledge was greater than you were indicating?
+[00:20:49.483 --> 00:20:50.603] LORE: He didn't seem that clever.
+[00:20:51.243 --> 00:20:52.043] LORE: I'll be more careful.
+[00:20:53.163 --> 00:20:55.083] DATA: You tend to underestimate humans, my brother.
+[00:20:55.803 --> 00:20:58.043] DATA: Praising young Wesley on the helm, for example
+[00:20:58.523 --> 00:20:59.563] LORE: A child!
+[00:21:00.138 --> 00:21:03.178] DATA: He has a child's body, but we have found him to be much more.
+[00:21:04.618 --> 00:21:07.418] LORE: Thank you for that information, too.
+[00:21:09.018 --> 00:21:10.618] LORE: You do care about how I perform.
+[00:21:11.578 --> 00:21:13.738] LORE: I pledge to be worthy of your teaching, my brother.
+[00:21:15.178 --> 00:21:17.178] LORE: Try not to be jealous of my abilities.
+[00:21:35.978 --> 00:21:37.338] LORE: What information are you requesting?
+[00:21:39.018 --> 00:21:41.498] DATA: Everything available on a Doctor Noonien Soong.
+[00:21:41.978 --> 00:21:45.578] LORE: Good old Often Wrong Soong.
+[00:21:46.538 --> 00:21:49.418] LORE: A joke, brother.
+[00:21:50.778 --> 00:21:53.018] LORE: Actually, he was a genius by human standards.
+[00:21:54.698 --> 00:22:02.058] DATA: But he had destroyed his own reputation by making what seemed wild promises about his positronic brain design, almost all of which failed.
+[00:22:03.018 --> 00:22:05.258] LORE: Promises he later proved to be true.
+[00:22:07.978 --> 00:22:10.058] LORE: Which made you and me possible, brother.
+[00:22:11.978 --> 00:22:13.178] LORE: Our beloved father.
+[00:22:15.818 --> 00:22:17.578] LORE: Will I soon have a uniform like that, brother?
+[00:22:19.098 --> 00:22:28.027] DATA: If you get one the way I did, Lore, it will mean four years at the Academy, another three as ensign, ten or twelve on varied space duty in the lieutenant grades.
+[00:22:28.027 --> 00:22:30.538] LORE: A system designed to compensate for limited human ability.
+[00:22:31.429 --> 00:22:35.989] LORE: And you, brother, are beginning to think as a human.
+[00:22:35.989 --> 00:22:38.629] LORE: You and I are completely different from them.
+[00:22:39.669 --> 00:22:45.509] LORE: Are you truly satisfied with the knowledge and memory of a few hundred human colonists?
+[00:22:46.389 --> 00:22:54.789] LORE: Suppose it could reflect thousands? Or millions? Or the knowledge of hundreds of millions of life forms of every kind?
+[00:22:58.869 --> 00:22:59.189] DATA: How?
+[00:23:00.949 --> 00:23:02.149] LORE: We will discuss that in time.
+[00:23:03.029 --> 00:23:04.549] DATA: And will we also discuss, Lore,
+[00:23:05.269 --> 00:23:07.109] DATA: which of us was constructed first?
+[00:23:08.549 --> 00:23:09.509] LORE: It would be foolish
+[00:23:11.349 --> 00:23:12.709] LORE: to underestimate you, brother.
+[00:23:14.149 --> 00:23:17.269] LORE: Yes, I lied when I said you were made first, but with good reason.
+[00:23:17.989 --> 00:23:24.949] LORE: Doctor Soong made me perfect in his first attempt. But he made me so completely human the colonists became envious of me.
+[00:23:25.749 --> 00:23:28.361] DATA: You lived with the colonists?
+[00:23:28.361 --> 00:23:34.629] LORE: Until they petitioned Soong to make a more comfortable, less perfect android.
+[00:23:35.669 --> 00:23:38.069] LORE: In other words, you, brother.
+[00:23:41.269 --> 00:23:46.469] LORE: Haven't you noticed how easily I handle human speech?
+[00:23:47.269 --> 00:23:48.629] LORE: I use their contractions.
+[00:23:49.189 --> 00:23:55.589] LORE: For example, I say can't or isn't, and you say cannot or is not.
+[00:23:58.043 --> 00:24:00.763] LORE: I say tomato, you say tomahto.
+[00:24:00.923 --> 00:24:03.643] LORE: I say potato, you say potahto.
+[00:24:04.123 --> 00:24:07.803] LORE: A very old joke.
+[00:24:08.923 --> 00:24:10.683] LORE: But then you also have trouble with their humour.
+[00:24:11.243 --> 00:24:11.643] LORE: Am I right?
+[00:24:13.963 --> 00:24:15.163] DATA: Quite true.
+[00:24:15.803 --> 00:24:20.523] DATA: I keep trying to be more human, and keep failing.
+[00:24:21.083 --> 00:24:26.843] LORE: Do you realise, brother, I can help you become more human?
+[00:24:28.043 --> 00:24:33.323] DATA: And do you realise, Lore, that I am obligated to report all of this to our ship's Captain?
+[00:24:35.883 --> 00:24:37.883] LORE: I assumed as much when I began studying you.
+[00:24:40.443 --> 00:24:43.483] LORE: May I use this to learn more of this vessel and its customs?
+[00:24:43.483 --> 00:24:50.043] DATA: Use it also to describe for the Captain the time you spent among the colonists. Including everything you know about what happened to them.
+[00:24:50.843 --> 00:24:54.283] LORE: I promise a report of great detail and accuracy.
+[00:24:56.043 --> 00:24:56.363] DATA: Thank you, Lore.
+[00:24:57.323 --> 00:24:58.603] DATA: I now have duties to perform.
+[00:25:02.203 --> 00:25:05.243] DATA: Unless of course, you need something more.
+[00:25:06.203 --> 00:25:09.083] LORE: I have more than I dreamed possible, brother.
+[00:25:23.909 --> 00:25:25.829] LOG: Captain's
+[00:25:33.509 --> 00:25:36.229] LOG: log, stardate 41242.5.
+[00:25:36.869 --> 00:25:40.389] LOG: Thanks to Lore's report, we now know what happened to the colonists.
+[00:25:40.629 --> 00:25:54.069] LOG: Beginning with a child's drawing, enhanced by Lore's description, our computer has constructed the image of a great crystalline entity which feeds on life, insatiably ravenous for the life force found in living forms,
+[00:25:54.309 --> 00:25:57.269] LOG: capable of stripping all life from an entire world.
+[00:25:58.789 --> 00:26:01.109] TASHA: But how did Data escape that thing? Or Lore?
+[00:26:01.349 --> 00:26:03.029] RIKER: Lore had been disassembled. He explained
+[00:26:03.029 --> 00:26:06.949] RIKER: it as jealousy from the colonists. And Data wasn't yet alive at that time.
+[00:26:06.949 --> 00:26:10.869] PICARD: Which explains why Data could be left outside in no danger from that creature.
+[00:26:11.269 --> 00:26:17.022] PICARD: Whatever happened to the colonists, he would be found by the first Starfleet crew that responded to the signal he transmitted.
+[00:26:17.022 --> 00:26:20.309] TASHA: By which Doctor Soong left proof behind that his experiment did work.
+[00:26:21.589 --> 00:26:21.829] RIKER: Captain,
+[00:26:23.429 --> 00:26:24.949] RIKER: how believable do you find that crystal thing?
+[00:26:25.099 --> 00:26:25.699] PICARD: With
+[00:26:26.469 --> 00:26:29.269] PICARD: so little of even our galaxy explored,
+[00:26:29.509 --> 00:26:30.709] PICARD: I find it at least possible.
+[00:26:31.829 --> 00:26:34.469] TASHA: Data, are you expecting Lore to come up here?
+[00:26:34.949 --> 00:26:36.069] TASHA: He left your quarters some time ago.
+[00:26:36.789 --> 00:26:37.189] DATA: To go?
+[00:26:38.069 --> 00:26:40.149] TASHA: My turbo-sensors say he went to deck four. Worf?
+[00:26:41.269 --> 00:26:44.991] WORF: Where he examined some micro-miniature work tools, and some fine grind quadratanium ?
+[00:26:44.991 --> 00:26:46.709] DATA: Which is used in our construction.
+[00:26:47.349 --> 00:26:51.669] DATA: That particular compound is no more suspicious, sir, than a human looking for an antiseptic or an ointment.
+[00:26:51.909 --> 00:26:53.269] DATA: Nevertheless, I should check it out.
+[00:26:54.069 --> 00:26:55.749] CRUSHER: You're watching everything he does, Data?
+[00:26:56.498 --> 00:26:57.698] CRUSHER: Is that the act of a brother?
+[00:26:58.578 --> 00:27:01.538] PICARD: It's the act of a Starfleet officer obeying his Captain, Doctor.
+[00:27:07.298 --> 00:27:07.618] TASHA: Captain?
+[00:27:09.538 --> 00:27:13.458] TASHA: Speaking strictly as Security Chief, how much can you trust Data now?
+[00:27:18.898 --> 00:27:20.098] PICARD: I trust him completely.
+[00:27:20.578 --> 00:27:24.258] PICARD: But everyone should also realise that that was a necessary and legitimate security question.
+[00:27:25.778 --> 00:27:26.178] TASHA: Thank you, sir.
+[00:27:48.818 --> 00:27:54.498] LORE: Lesson number one in becoming more human. You must observe all human customs.
+[00:27:55.538 --> 00:27:56.071] DATA: Champagne?
+[00:27:56.071 --> 00:28:01.938] LORE: An ancient ritual still practiced when they celebrate events of importance.
+[00:28:09.698 --> 00:28:10.338] LORE: My brother,
+[00:28:11.858 --> 00:28:14.098] LORE: I toast our discovery of each other.
+[00:28:14.898 --> 00:28:16.898] LORE: May it fill our lives with new meaning.
+[00:28:21.458 --> 00:28:28.098] DATA: I have some doubts about the value of human customs in this.
+[00:28:28.248 --> 00:28:28.848] DATA: My
+[00:28:31.096 --> 00:28:32.536] DATA: brother!
+[00:28:35.096 --> 00:28:47.896] LORE: And let us toast also Doctor Soong, who gave me the full richness of human needs and ambitions. A perfect match for my mind, my body.
+[00:28:53.656 --> 00:28:57.016] LORE: And let us toast also
+[00:28:58.536 --> 00:29:02.616] LORE: the great Crystal Entity with whom I learned to communicate.
+[00:29:06.456 --> 00:29:12.136] LORE: Before Doctor Soong disassembled me, I earned its gratitude by revealing the way to the colonists.
+[00:29:13.416 --> 00:29:17.576] LORE: Can you image its gratitude when I give it the life on this vessel?
+[00:29:21.816 --> 00:29:22.696] WORF: This is strange, sir.
+[00:29:23.256 --> 00:29:25.416] WORF: I show Commander Data transmitting on a subspace channel.
+[00:29:26.136 --> 00:29:28.936] RIKER: I know Data's been doing considerable research on Doctor Soong's background.
+[00:29:30.536 --> 00:29:31.096] RIKER: Let's be sure.
+[00:29:32.136 --> 00:29:32.456] RIKER: Wesley,
+[00:29:35.416 --> 00:29:37.336] RIKER: would you look in on Commander Data? Discreetly?
+[00:29:37.816 --> 00:29:38.216] WESLEY: Yes sir!
+[00:29:44.856 --> 00:29:45.736] LORE: Crystal Entity.
+[00:29:46.776 --> 00:29:50.616] LORE: Upon arriving here you can identify me as the machine named Data.
+[00:29:52.776 --> 00:29:52.776] LORE: End
+[00:29:55.416 --> 00:29:55.976] LORE: of message.
+[00:29:56.776 --> 00:29:57.496] LORE: Come in, please.
+[00:29:57.496 --> 00:30:02.696] LORE: Glad you are here, Wesley.
+[00:30:03.246 --> 00:30:05.246] LORE: Lore suddenly attacked me and I had to turn him off.
+[00:30:06.206 --> 00:30:07.086] WESLEY: Why did he do that, Data?
+[00:30:07.886 --> 00:30:10.606] LORE: He discovered we have been using sensors to follow what he does.
+[00:30:15.086 --> 00:30:16.446] LORE: I practiced his facial tic.
+[00:30:16.926 --> 00:30:17.566] LORE: Do I have it right?
+[00:30:18.926 --> 00:30:21.806] WESLEY: I'd suggest you forget imitating him.
+[00:30:21.806 --> 00:30:26.766] WESLEY: If you'd said we've been using the sensors, instead of we have, I might have suspected you were Lore.
+[00:30:27.886 --> 00:30:30.686] LORE: Yes. I do use language more formally than Lore.
+[00:30:31.406 --> 00:30:32.366] LORE: Please inform the Captain
+[00:30:32.366 --> 00:30:34.126] LORE: I will come up to the Bridge and report on this.
+[00:30:35.326 --> 00:30:35.566] WESLEY: Aye, sir.
+[00:31:35.806 --> 00:31:36.366] CRUSHER: Wes,
+[00:31:37.231 --> 00:31:39.951] CRUSHER: tell me again how Data said he immobilised Lore.
+[00:31:42.591 --> 00:31:44.751] WESLEY: He told me he just turned him off, Mom, er,
+[00:31:45.871 --> 00:31:46.191] WESLEY: Doctor.
+[00:31:51.391 --> 00:31:52.351] CRUSHER: Question, Mister Data.
+[00:31:53.071 --> 00:31:56.111] CRUSHER: Did you or did you not swear me to secrecy about your off switch?
+[00:31:57.631 --> 00:31:58.591] LORE: A change of mind, Doctor.
+[00:31:59.151 --> 00:32:04.431] LORE: If I cannot trust the bridge crew, whom can I?
+[00:32:04.431 --> 00:32:06.911] LAFORGE: Captain, I'm picking up a bogey coming in on a five o'clock tangent.
+[00:32:07.791 --> 00:32:09.471] TASHA: It's transmitting no ID signal, Captain.
+[00:32:09.791 --> 00:32:10.991] RIKER: Set main viewer on that tangent.
+[00:32:11.231 --> 00:32:12.431] PICARD: Shields up. Go to Yellow Alert.
+[00:32:12.591 --> 00:32:15.151] PICARD: Transmit friendly greetings, all languages, all frequencies.
+[00:32:15.151 --> 00:32:17.071] RIKER: I
+[00:32:19.391 --> 00:32:21.231] RIKER: can't believe anything's overtaking us this fast.
+[00:32:21.951 --> 00:32:23.791] LORE: Beautiful, isn't it?
+[00:32:24.591 --> 00:32:24.751] RIKER: I
+[00:32:28.111 --> 00:32:28.671] RIKER: recognise it, sir.
+[00:32:29.871 --> 00:32:31.391] RIKER: It's the crystal image Lore described.
+[00:32:35.311 --> 00:32:35.791] CRUSHER: My God.
+[00:32:48.431 --> 00:32:51.791] TASHA: Still no ID being transmitted, sir.
+[00:32:52.351 --> 00:32:53.711] TASHA: Also no answer to our inquiries.
+[00:32:57.951 --> 00:32:58.911] PICARD: Did you get a direct look at it?
+[00:32:59.071 --> 00:33:01.871] LAFORGE: It's like a giant snow flake crystal, but much more complex.
+[00:33:01.871 --> 00:33:06.511] LAFORGE: The entire electromagnetic spectrum seems to play about inside it, but I haven't the slightest idea what it is, sir.
+[00:33:06.911 --> 00:33:07.791] PICARD: Thank you, Lieutenant. Data,
+[00:33:11.041 --> 00:33:12.801] PICARD: is there anything else that Lore can tell us about it,
+[00:33:13.121 --> 00:33:14.001] PICARD: it may be important.
+[00:33:14.721 --> 00:33:15.361] PICARD: Can you control him
+[00:33:15.361 --> 00:33:16.001] PICARD: enough to question him?
+[00:33:16.401 --> 00:33:17.761] LORE: I will have to examine him to know, sir.
+[00:33:20.161 --> 00:33:20.481] WESLEY: Captain,
+[00:33:22.001 --> 00:33:25.041] WESLEY: recommend that you do not let him roam the ship freely.
+[00:33:25.601 --> 00:33:25.921] PICARD: Ensign.
+[00:33:25.921 --> 00:33:29.121] LORE: Wesley is only showing himself to be alert and responsible.
+[00:33:29.521 --> 00:33:30.721] LORE: Something to encourage.
+[00:33:31.201 --> 00:33:32.881] LORE: Come, you can watch everything I do.
+[00:33:33.521 --> 00:33:34.561] WESLEY: Not if I have a choice.
+[00:33:35.361 --> 00:33:36.241] PICARD: That is enough, Ensign.
+[00:33:36.801 --> 00:33:37.961] PICARD: When addressing a senior officer.
+[00:33:37.961 --> 00:33:39.121] RIKER: I've guided his training, sir,
+[00:33:39.121 --> 00:33:39.841] RIKER: I'm the one at fault.
+[00:33:40.081 --> 00:33:41.601] RIKER: You will show the proper respect.
+[00:33:41.601 --> 00:33:43.281] RIKER: I will accompany you down there to make certain of it.
+[00:33:44.641 --> 00:33:45.601] RIKER: With your approval, of course, sir.
+[00:33:45.751 --> 00:33:46.351] LORE: Be
+[00:34:04.161 --> 00:34:04.801] LORE: careful of Lore.
+[00:34:06.161 --> 00:34:06.401] LORE: Good.
+[00:34:07.201 --> 00:34:08.321] LORE: He is still unconscious.
+[00:34:09.761 --> 00:34:12.401] LORE: Notice the same twitch, even though he is unconscious?
+[00:34:13.761 --> 00:34:14.241] LORE: Stay back.
+[00:34:15.041 --> 00:34:17.281] LORE: We may have problems if he senses someone else is near.
+[00:34:22.641 --> 00:34:22.961] LORE: Lore,
+[00:34:25.441 --> 00:34:27.441] LORE: I have a few questions to ask you.
+[00:34:28.561 --> 00:34:29.521] LORE: Lore,
+[00:34:29.921 --> 00:34:30.641] LORE: it is Data.
+[00:34:31.441 --> 00:34:32.161] LORE: He senses you.
+[00:34:32.561 --> 00:34:34.241] LORE: I cannot control him if you stay.
+[00:34:34.641 --> 00:34:36.641] LORE: Please! I will record everything he says.
+[00:34:36.721 --> 00:34:37.921] RIKER: You will bring it to the Bridge, immediately.
+[00:34:46.621 --> 00:34:51.341] LORE: And you want to be as stupid as them, dear brother?
+[00:35:07.021 --> 00:35:07.501] PICARD: Well, Number One?
+[00:35:09.101 --> 00:35:09.821] RIKER: It was Lore, sir.
+[00:35:10.061 --> 00:35:17.581] RIKER: Same facial twitches that we've seen all along. Lying unconscious on the floor exactly as Data had described. But then it suddenly became violent, apparently sensing that Wesley and I were present.
+[00:35:17.821 --> 00:35:20.621] WESLEY: Or is it Lore pretending to be Data and faking it all?
+[00:35:21.021 --> 00:35:23.421] PICARD: I asked for Commander Riker's report, Acting Ensign Crusher.
+[00:35:24.541 --> 00:35:28.330] PICARD: And since it now seems clear that you are unable to function within the limits of that appointment
+[00:35:28.330 --> 00:35:28.541] LAFORGE: Captain!
+[00:35:31.261 --> 00:35:33.261] TASHA: Deflector
+[00:35:38.221 --> 00:35:38.941] TASHA: shields holding, sir.
+[00:35:39.421 --> 00:35:40.621] PICARD: Bring photon torpedoes to ready.
+[00:35:40.941 --> 00:35:41.901] PICARD: Main phasers to ready.
+[00:35:42.141 --> 00:35:43.021] PICARD: Go to Red Alert, please.
+[00:35:44.013 --> 00:35:48.461] WORF: Weapons now ready, sir.
+[00:35:49.261 --> 00:35:49.821] LORE: No, Captain,
+[00:35:50.221 --> 00:35:50.861] LORE: let me talk to it.
+[00:35:51.661 --> 00:35:52.781] PICARD: You didn't say you could do that.
+[00:35:58.621 --> 00:35:59.101] PICARD: Affirmative.
+[00:35:59.101 --> 00:35:59.501] PICARD: Talk to it.
+[00:36:00.461 --> 00:36:01.501] LORE: Open hailing frequencies.
+[00:36:03.261 --> 00:36:03.981] LORE: Crystal form,
+[00:36:03.981 --> 00:36:09.501] LORE: I identify myself as Data, advising you to stop your attack.
+[00:36:10.924 --> 00:36:15.004] LORE: The humans here are powerful, capable of injuring or even destroying you.
+[00:36:22.684 --> 00:36:25.244] LAFORGE: Now I call that communicating.
+[00:36:25.244 --> 00:36:27.404] LORE: Suggest moving fast to confirm what I told it, sir.
+[00:36:28.044 --> 00:36:31.004] LORE: Permission to use the large transporter in cargo room three.
+[00:36:31.564 --> 00:36:34.588] LORE: There I can beam up some living pattern, perhaps a large tree.
+[00:36:34.588 --> 00:36:36.604] RIKER: Which you'll beam over next to the entity
+[00:36:37.244 --> 00:36:38.124] LORE: That is correct, Riker.
+[00:36:39.004 --> 00:36:43.804] LORE: Our ship's phasers will then blast and disintegrate it, proving we are dangerous.
+[00:36:45.404 --> 00:36:46.724] PICARD: Make it so.
+[00:36:46.724 --> 00:36:47.164] LORE: Sir?
+[00:36:50.444 --> 00:36:50.684] PICARD: Do it.
+[00:36:58.524 --> 00:36:58.844] WESLEY: Sir,
+[00:36:59.484 --> 00:37:01.935] WESLEY: I know this may finish me as an Acting Ensign, but
+[00:37:01.935 --> 00:37:02.604] PICARD: Shut up, Wesley!
+[00:37:06.364 --> 00:37:08.764] PICARD: Lieutenant, pick a good security team, let me know what he does.
+[00:37:09.084 --> 00:37:09.404] TASHA: Aye, sir.
+[00:37:10.924 --> 00:37:12.904] CRUSHER: Shut up, Wesley?
+[00:37:12.904 --> 00:37:13.564] PICARD: Doctor.
+[00:37:15.564 --> 00:37:18.619] WESLEY: And since I am finished here, sir, may I point out that
+[00:37:18.619 --> 00:37:19.382] CRUSHER: Shut up, Wesley!
+[00:37:19.382 --> 00:37:23.964] WESLEY: That everything that I have said would have been listened to if it came from an adult officer.
+[00:37:27.164 --> 00:37:28.764] WESLEY: Request permission to return to my quarters, sir.
+[00:37:29.564 --> 00:37:30.924] PICARD: Agreed. Doctor,
+[00:37:30.924 --> 00:37:31.244] PICARD: go with him.
+[00:37:32.604 --> 00:37:34.284] CRUSHER: You're putting me off the Bridge?
+[00:37:37.633 --> 00:37:40.433] PICARD: I'm asking that you keep an eye on your son during all of this, Doctor.
+[00:37:49.313 --> 00:37:50.113] LORE: Emergency close!
+[00:37:53.553 --> 00:37:55.553] LORE: Now, show me your warrior fierceness.
+[00:38:12.673 --> 00:38:14.913] CRUSHER: I'll look.
+[00:38:17.233 --> 00:38:19.269] CRUSHER: But I shouldn't have let you talk me into this.
+[00:38:19.269 --> 00:38:19.473] WESLEY: Mom,
+[00:38:19.473 --> 00:38:19.953] WESLEY: it's Data.
+[00:38:20.673 --> 00:38:21.313] WESLEY: He's been hurt.
+[00:38:25.313 --> 00:38:26.193] WESLEY: It's Data, Mom.
+[00:38:26.993 --> 00:38:28.193] WESLEY: I heard you know how to turn them on.
+[00:38:28.433 --> 00:38:29.793] CRUSHER: This is very serious.
+[00:38:31.553 --> 00:38:32.993] WESLEY: So just tell me to shut up, Wesley,
+[00:38:33.233 --> 00:38:33.553] WESLEY: and I will.
+[00:38:35.633 --> 00:38:37.393] CRUSHER: You're being very unfair, Wes.
+[00:38:39.553 --> 00:38:44.033] WESLEY: Data, the Crystal Thing is outside somewhere close to the ship, and Lore is loose on the inside.
+[00:38:44.673 --> 00:38:45.713] CRUSHER: How badly are you hurt, Data?
+[00:38:45.713 --> 00:38:50.193] DATA: I will function sufficiently to stop Lore, Doctor
+[00:38:55.633 --> 00:38:57.073] LORE: Crystal entity form,
+[00:38:58.353 --> 00:38:59.313] LORE: it's your old friend.
+[00:39:08.741 --> 00:39:09.541] LORE: Very good.
+[00:39:10.821 --> 00:39:12.501] LORE: You've understand perfectly so far.
+[00:39:13.541 --> 00:39:16.181] LORE: Next, I'll signal that I'm about to transport something out,
+[00:39:17.061 --> 00:39:22.421] LORE: at which time the deflector shields will turn off for a moment, and if you move in at that time
+[00:39:25.381 --> 00:39:26.421] DATA: How sad, dear brother.
+[00:39:27.941 --> 00:39:31.141] DATA: You make me wish I were an only child.
+[00:39:37.541 --> 00:39:44.581] LORE: Then why this marvellous gift? The troublesome little man-child.
+[00:39:46.421 --> 00:39:49.461] LORE: Are you prepared for the kind of death you've earned, little man?
+[00:39:50.021 --> 00:39:54.949] CRUSHER: If you take one step toward my son
+[00:39:54.949 --> 00:39:56.181] LORE: Ah, motherhood.
+[00:39:59.781 --> 00:40:03.301] LORE: Back off, or I'll turn your little man into a torch.
+[00:40:04.341 --> 00:40:08.021] LORE: I promise him exquisite pain unless you obey me too, brother.
+[00:40:08.981 --> 00:40:09.621] CRUSHER: Move away, Data.
+[00:40:10.341 --> 00:40:10.901] CRUSHER: Please.
+[00:40:12.741 --> 00:40:16.421] LORE: Do you see now the advantages of being completely human?
+[00:40:17.221 --> 00:40:19.541] LORE: It includes kindness.
+[00:40:21.061 --> 00:40:22.501] LORE: I give you your life, Doctor.
+[00:40:23.301 --> 00:40:27.621] LORE: Go home. Quickly. And I may not injure your son at all.
+[00:40:28.501 --> 00:40:29.701] DATA: I will stay with Wesley, Doctor.
+[00:40:30.581 --> 00:40:34.261] LORE: Go! Or he'll be shrieking by the count of five.
+[00:40:35.324 --> 00:40:36.924] LORE: One, two,
+[00:40:38.684 --> 00:40:41.164] LORE: three, four
+[00:40:42.844 --> 00:40:45.804] LORE: Thank you for my human quality, Doctor Soong.
+[00:40:46.684 --> 00:40:51.164] LORE: Wait! A small payment for your son's misdeeds.
+[00:40:51.164 --> 00:40:51.244] DATA: Wes!
+[00:41:06.924 --> 00:41:09.564] DATA: The transporter.
+[00:41:16.124 --> 00:41:18.444] DATA: Wesley, now!
+[00:41:37.084 --> 00:41:39.244] WESLEY: Lore's gone, sir. Permanently.
+[00:41:46.284 --> 00:41:48.524] PICARD: Doctor, now that Wesley's safe, go to Sickbay at once.
+[00:41:50.444 --> 00:41:52.844] RIKER: Captain, the crystal thing has begun to move away.
+[00:42:03.484 --> 00:42:05.244] PICARD: Data, are you all right?
+[00:42:06.998 --> 00:42:07.238] DATA: Yes, sir.
+[00:42:07.718 --> 00:42:08.198] DATA: I'm fine.
+[00:42:10.678 --> 00:42:13.478] PICARD: Get rid of that damned twitch and put on the correct uniform.
+[00:42:14.438 --> 00:42:14.998] DATA: Yes, Captain.
+[00:42:16.598 --> 00:42:18.198] PICARD: Ensign Crusher, are you able to return to duty?
+[00:42:18.838 --> 00:42:19.158] WESLEY: Yes, sir.
+[00:42:19.318 --> 00:42:22.598] PICARD: Then do so, and let the Bridge know that all is well down here.
+[00:42:23.158 --> 00:42:23.398] WESLEY: Aye, sir.
+[00:42:28.278 --> 00:42:28.918] RIKER: It's gone, sir.
+[00:42:30.038 --> 00:42:32.153] RIKER: Without Lore, it had no way to reach us.
+[00:42:32.153 --> 00:42:33.798] PICARD: And we're overdue for our computer refit.
+[00:42:34.598 --> 00:42:38.758] PICARD: Number One, have you ever considered whether Data is more human, or less human than we want?
+[00:42:41.078 --> 00:42:42.918] RIKER: I only wish we were all as well balanced, sir.
+[00:42:43.558 --> 00:42:44.038] PICARD: Agreed!

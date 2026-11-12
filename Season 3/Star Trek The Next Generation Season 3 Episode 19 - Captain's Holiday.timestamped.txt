@@ -1,0 +1,624 @@
+[00:00:36.400 --> 00:00:37.520] COMPUTER: Welcome to Risa.
+[00:00:38.000 --> 00:00:40.000] COMPUTER: All that is ours is yours.
+[00:00:41.120 --> 00:00:44.560] AJUR: We are looking for the lodging chamber of Captain Jean-Luc Picard.
+[00:00:45.600 --> 00:00:50.400] COMPUTER: A file scan reveals no record of a Captain Picard currently visiting Risa.
+[00:00:51.680 --> 00:00:53.200] AJUR: When is he expected to arrive?
+[00:00:54.400 --> 00:00:58.240] COMPUTER: Where is no arrival date on file for any such individual.
+[00:01:00.480 --> 00:01:01.760] BORATUS: Could we have been mistaken?
+[00:01:05.520 --> 00:01:06.080] AJUR: He will come.
+[00:01:11.280 --> 00:01:14.480] LOG: First officer's log, Stardate 43745.2.
+[00:01:15.520 --> 00:01:24.560] LOG: We have departed Gemaris Five, where for the past two weeks Captain Picard has been serving as mediator in a trade dispute between the Gemarians and their nearest neighbour, the Dachlyds.
+[00:01:27.200 --> 00:01:28.240] RIKER: Welcome back, Deanna.
+[00:01:28.560 --> 00:01:29.920] TROI: It's good to be back.
+[00:01:30.960 --> 00:01:32.880] TROI: The last two weeks have been gruelling.
+[00:01:33.692 --> 00:01:37.292] RIKER: I take it the Captain was able to negotiate an agreement mutually beneficial to both parties.
+[00:01:37.692 --> 00:01:38.252] TROI: He was.
+[00:01:38.732 --> 00:01:39.932] TROI: I don't know how he managed it.
+[00:01:40.412 --> 00:01:43.692] TROI: The Gemarians and the Dachlyds are both incredibly stubborn people.
+[00:01:44.012 --> 00:01:46.252] RIKER: The more difficult the task, the sweeter the victory.
+[00:01:48.812 --> 00:01:49.932] PICARD: Go to warp four, Mister Bennett.
+[00:01:50.012 --> 00:01:51.452] PICARD: Set a course for Starbase twelve.
+[00:01:52.252 --> 00:01:52.572] PICARD: Report.
+[00:01:53.132 --> 00:01:54.012] RIKER: Everything status quo, sir.
+[00:01:55.612 --> 00:01:56.012] PICARD: Very well.
+[00:01:58.572 --> 00:02:02.252] PICARD: If anyone needs me, I'll be in my Ready Room.
+[00:02:03.612 --> 00:02:03.852] RIKER: Sir.
+[00:02:06.572 --> 00:02:07.212] RIKER: Congratulations.
+[00:02:08.892 --> 00:02:09.292] PICARD: About what?
+[00:02:09.852 --> 00:02:10.812] PIKER: About the trade agreement.
+[00:02:16.892 --> 00:02:18.892] RIKER: Is it my imagination, or is something bothering the Captain?
+[00:02:19.372 --> 00:02:21.612] TROI: He has been under a great deal of strain lately.
+[00:02:22.652 --> 00:02:27.292] TROI: While we were on Gemaris, he ate sparingly and slept even less.
+[00:02:27.612 --> 00:02:28.252] RIKER: Anything we can do?
+[00:02:28.732 --> 00:02:33.212] TROI: Actually, I have a solution in mind, but I doubt he'll agree to it.
+[00:02:34.812 --> 00:02:35.452] RIKER: What would that be?
+[00:02:36.732 --> 00:02:38.412] TROI: Our captain needs a vacation.
+[00:02:42.252 --> 00:02:42.252] PICARD: Space.
+[00:03:08.449 --> 00:03:09.649] PICARD: The final frontier.
+[00:03:11.569 --> 00:03:14.449] PICARD: These are the voyages of the starship Enterprise.
+[00:03:15.569 --> 00:03:23.569] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:25.169 --> 00:03:28.049] PICARD: to boldly go where no one has gone before.
+[00:03:31.409 --> 00:03:31.569] PICARD: Come.
+[00:04:40.468 --> 00:04:44.388] CRUSHER: Sir, it's been brought to my attention one of the crew has been neglecting his health again.
+[00:04:45.108 --> 00:04:45.508] PICARD: How so?
+[00:04:46.068 --> 00:04:53.668] CRUSHER: It's a classic case of stress-related ailments brought on by overwork. Exhaustion, irritability, muscle spasms.
+[00:04:54.148 --> 00:04:56.228] CRUSHER: Yet he insists on ignoring them.
+[00:04:57.268 --> 00:04:58.228] PICARD: Doesn't sound too serious.
+[00:04:58.628 --> 00:05:00.308] CRUSHER: And I plan to keep it that way.
+[00:05:03.748 --> 00:05:04.388] PICARD: What's the treatment.
+[00:05:05.588 --> 00:05:06.788] CRUSHER: A week's shore leave.
+[00:05:07.108 --> 00:05:09.028] PICARD: Impossible.
+[00:05:09.508 --> 00:05:11.348] CRUSHER: Jean-Luc, I could make that an order.
+[00:05:11.908 --> 00:05:12.388] PICARD: But you won't.
+[00:05:13.428 --> 00:05:13.908] PICARD: Beverly,
+[00:05:13.908 --> 00:05:15.428] PICARD: you know I loathe vacations.
+[00:05:15.588 --> 00:05:18.068] CRUSHER: You loathe going on vacations.
+[00:05:18.148 --> 00:05:20.628] CRUSHER: Once you're there you have a marvellous time.
+[00:05:21.268 --> 00:05:24.548] CRUSHER: You told me your four days on Zytchin Three were wonderful.
+[00:05:25.188 --> 00:05:25.668] PICARD: I lied.
+[00:05:27.988 --> 00:05:28.228] PICARD: Look,
+[00:05:30.948 --> 00:05:35.028] PICARD: the Enterprise is scheduled to spend a week undergoing maintenance overhaul at Starbase twelve.
+[00:05:35.988 --> 00:05:39.988] PICARD: While there, I promise that I will make full use of available recreation activity.
+[00:05:40.708 --> 00:05:44.228] CRUSHER: Watching some technician fill deuterium tanks is not my idea of fun.
+[00:05:46.308 --> 00:05:48.628] PICARD: I suppose I could find a few hours to spend on the holodeck.
+[00:05:49.268 --> 00:05:50.228] CRUSHER: Forget the holodeck.
+[00:05:50.788 --> 00:05:53.028] CRUSHER: Isn't there someplace you want to go?
+[00:05:55.188 --> 00:05:59.748] PICARD: The Astrophysics Centre on Icor Nine is holding a symposium on rogue star clusters.
+[00:05:59.748 --> 00:06:01.508] PICARD: I had given serious thought to attending.
+[00:06:02.899 --> 00:06:06.979] CRUSHER: The last thing you need is serious thought. Jean-Luc,
+[00:06:07.059 --> 00:06:11.139] CRUSHER: why don't you go some place beautiful, where you can relax and be pampered.
+[00:06:11.779 --> 00:06:12.579] CRUSHER: You deserve it.
+[00:06:13.539 --> 00:06:15.672] PICARD: I'll give it serious thought.
+[00:06:15.672 --> 00:06:16.099] CRUSHER: Captain.
+[00:06:16.339 --> 00:06:17.859] PICARD: Doctor. Enough.
+[00:06:30.419 --> 00:06:31.779] RIKER: So, have you decided where you're going yet?
+[00:06:32.099 --> 00:06:32.899] PICARD: Yes I have, Number One.
+[00:06:33.219 --> 00:06:33.459] PICARD: Bridge.
+[00:06:33.859 --> 00:06:34.739] RIKER: No, I meant on your shore leave.
+[00:06:35.299 --> 00:06:35.859] PICARD: Not you too.
+[00:06:36.419 --> 00:06:36.659] RIKER: Halt.
+[00:06:37.139 --> 00:06:38.659] RIKER: I know this perfect little vacation spot.
+[00:06:38.659 --> 00:06:40.979] RIKER: In fact, it falls within the coordinates of this sector.
+[00:06:41.139 --> 00:06:41.779] PICARD: How convenient.
+[00:06:41.859 --> 00:06:45.299] PICARD: Except, Number One, I have absolutely no intention of taking a holiday.
+[00:06:45.299 --> 00:06:45.939] PICARD: Is that clear?
+[00:06:45.939 --> 00:06:46.419] RIKER: Very clear.
+[00:06:46.579 --> 00:06:46.819] PICARD: Good.
+[00:06:46.819 --> 00:06:48.339] PICARD: I'm glad we've got that straightened out.
+[00:06:48.499 --> 00:06:48.899] PICARD: Resume.
+[00:06:49.059 --> 00:06:52.339] RIKER: The place is called Risa, and believe me, Captain, it is a paradise.
+[00:06:52.339 --> 00:06:57.116] RIKER: Warm tropical breezes, exotic food. Nothing to do but sit around all day and enjoy the quiet. And then
+[00:06:57.116 --> 00:06:57.619] PICARD + RIKER: The women.
+[00:06:57.779 --> 00:06:58.419] PICARD: Of course.
+[00:06:58.979 --> 00:07:01.299] RIKER: I'm sure you would find their sybaritic outlook on life very appealing.
+[00:07:02.019 --> 00:07:02.659] PICARD: Oh, I'm sure.
+[00:07:02.659 --> 00:07:04.579] RIKER: I'm glad to hear you say so, sir.
+[00:07:05.299 --> 00:07:10.099] PICARD: Unfortunately, this vessel is about to undergo extensive repairs requiring my personal supervision.
+[00:07:10.979 --> 00:07:11.539] RIKER: What about Risa?
+[00:07:11.699 --> 00:07:12.659] PICARD: Some other time, Number One.
+[00:07:14.659 --> 00:07:16.739] TROI: Will, I've just had some terrific news.
+[00:07:17.219 --> 00:07:17.539] RIKER: Really?
+[00:07:18.259 --> 00:07:21.779] TROI: There's an excellent chance my mother may be joining us on Starbase twelve.
+[00:07:23.219 --> 00:07:23.619] PICARD: Your mother?
+[00:07:24.419 --> 00:07:31.539] TROI: She's returning home from a conference on Achrady Seven, and she's going to try to rearrange her schedule so she can spend some time visiting with us.
+[00:07:31.699 --> 00:07:32.659] RIKER: That's wonderful, Deanna.
+[00:07:33.219 --> 00:07:36.099] TROI: She mentioned how much she was looking forward to seeing you again, Captain.
+[00:07:36.659 --> 00:07:36.979] PICARD: Did she?
+[00:07:39.500 --> 00:07:40.620] PICARD: Commander, could I have a word with you?
+[00:07:40.770 --> 00:07:41.370] RIKER: Is
+[00:07:50.460 --> 00:07:51.180] RIKER: something wrong, Captain?
+[00:07:52.860 --> 00:07:58.700] PICARD: Tell me, Number One, is the entire crew aware of this little scheme to send me off on holiday?
+[00:07:59.500 --> 00:08:03.260] RIKER: I believe there are two ensigns stationed on deck thirty nine who know nothing about it.
+[00:08:05.500 --> 00:08:09.580] PICARD: I suppose this means I can look forward to a week of continual harassment on this subject?
+[00:08:13.580 --> 00:08:15.820] PICARD: I admit,
+[00:08:17.420 --> 00:08:19.020] PICARD: I've been feeling a little fatigued.
+[00:08:22.300 --> 00:08:22.300] RIKER: I'll
+[00:08:27.580 --> 00:08:29.820] RIKER: see to it that these bags are beamed directly to your room, sir.
+[00:08:30.620 --> 00:08:33.100] TROI: You look very handsome, if I might saying so Captain.
+[00:08:33.580 --> 00:08:34.540] RIKER: Are you taking all these books?
+[00:08:35.180 --> 00:08:36.540] PICARD: I thought I'd take some light reading
+[00:08:36.940 --> 00:08:37.660] PICARD: in case I got bored.
+[00:08:38.380 --> 00:08:42.940] RIKER: Ulysses by James Joyce? Ethics, Sophistry and the Alternate Universe by Ving Kuda.
+[00:08:42.940 --> 00:08:43.980] RIKER: You call that light reading?
+[00:08:44.300 --> 00:08:45.180] PICARD: To each his own, Number One.
+[00:08:45.820 --> 00:08:48.300] RIKER: Have I mentioned how imaginative the Risian women are, sir?
+[00:08:50.940 --> 00:08:51.980] TROI: Too often, Commander.
+[00:09:01.100 --> 00:09:02.620] RIKER: I do have one request, sir.
+[00:09:03.420 --> 00:09:04.780] PICARD: You want me to bring you back a souvenir?
+[00:09:05.660 --> 00:09:06.780] RIKER: It's called a Horga'hn.
+[00:09:07.420 --> 00:09:09.100] RIKER: I don't think you'll have any trouble finding one.
+[00:09:09.420 --> 00:09:10.060] PICARD: Consider it done.
+[00:09:11.682 --> 00:09:15.682] WORF: Captain, I would feel better if you would allow me to assign a security officer to you.
+[00:09:16.002 --> 00:09:18.562] WORF: We will be out of communication range when we leave orbit.
+[00:09:19.202 --> 00:09:19.202] PICARD: I
+[00:09:20.722 --> 00:09:22.322] PICARD: really don't think that will be necessary, Mister Worf.
+[00:09:22.962 --> 00:09:25.522] PICARD: Risa has a reputation of being a most peaceful planet.
+[00:09:27.442 --> 00:09:27.842] WORF: Aye, sir.
+[00:09:30.162 --> 00:09:32.402] PICARD: Well, the ship is yours, Number One.
+[00:09:33.442 --> 00:09:34.402] TROI: Enjoy your trip, Captain.
+[00:09:35.602 --> 00:09:36.322] PICARD: I'll try, Counsellor.
+[00:09:41.042 --> 00:09:41.922] RIKER: He's going to have a great time.
+[00:09:50.642 --> 00:09:52.642] PICARD: I
+[00:10:13.522 --> 00:10:16.082] PICARD: beg your pardon.
+[00:10:16.082 --> 00:10:16.722] VASH: God,
+[00:10:21.522 --> 00:10:22.882] VASH: it's so good to see you again.
+[00:10:27.522 --> 00:10:31.442] PICARD: I think you've mistaken me for someone else.
+[00:10:34.482 --> 00:10:35.602] VASH: You know, I think you might be right.
+[00:10:36.082 --> 00:10:38.482] VASH: Welcome to Risa.
+[00:10:38.843 --> 00:10:38.843] PICARD: A
+[00:10:40.603 --> 00:10:42.283] PICARD: simple handshake would have sufficed.
+[00:11:44.283 --> 00:11:44.683] JOVAL: Return.
+[00:11:46.283 --> 00:11:47.323] JOVAL: My apologies.
+[00:11:47.483 --> 00:11:49.803] JOVAL: I fear I have yet to master the art of hoverball.
+[00:11:51.643 --> 00:11:52.363] PICARD: So it would seem.
+[00:11:54.603 --> 00:11:55.563] JOVAL: My name is Joval. I
+[00:11:55.883 --> 00:11:56.683] JOVAL: am employed here.
+[00:11:57.243 --> 00:11:59.883] JOVAL: Is there anything you require to make your stay a more pleasant one?
+[00:12:01.963 --> 00:12:04.603] JOVAL: You find me amusing.
+[00:12:04.843 --> 00:12:05.003] PICARD: No.
+[00:12:06.203 --> 00:12:09.563] PICARD: It's just that you are the fifth woman to ask me that question this morning.
+[00:12:09.832 --> 00:12:13.992] PICARD: All I require is to sit in the sun and read my book. Alone.
+[00:12:14.712 --> 00:12:15.432] JOVAL: And afterward?
+[00:12:17.752 --> 00:12:19.512] PICARD: I really haven't thought that far ahead.
+[00:12:20.552 --> 00:12:23.432] JOVAL: Then may I suggest a swim to be followed by a massage?
+[00:12:23.432 --> 00:12:24.552] PICARD: Some other time perhaps.
+[00:12:27.672 --> 00:12:28.712] JOVAL: I don't understand.
+[00:12:29.112 --> 00:12:32.392] JOVAL: You say you wish to be alone yet you carry the Horga'hn.
+[00:12:33.192 --> 00:12:34.152] PICARD: I just purchased that.
+[00:12:36.872 --> 00:12:37.272] PICARD: Why?
+[00:12:38.632 --> 00:12:41.192] PICARD: Are you implying this has some special meaning?
+[00:12:41.832 --> 00:12:44.792] JOVAL: The Horga'hn is the Risian symbol of sexuality.
+[00:12:45.592 --> 00:12:48.152] JOVAL: To own one is to call forth it powers.
+[00:12:48.712 --> 00:12:51.432] JOVAL: To display it is to announce you are seeking Jamaharon.
+[00:12:54.392 --> 00:12:54.792] PICARD: Riker!
+[00:12:55.912 --> 00:12:57.192] JOVAL: Do you seek Jamaharohn?
+[00:12:58.232 --> 00:12:59.672] PICARD: I don't even know what it means.
+[00:13:01.352 --> 00:13:02.632] PICARD: The Horga'hn is for a friend.
+[00:13:03.112 --> 00:13:05.112] JOVAL: I see. Someone close to you?
+[00:13:05.352 --> 00:13:05.832] PICARD: That's right.
+[00:13:05.912 --> 00:13:06.712] JOVAL: Someone you love?
+[00:13:07.112 --> 00:13:08.152] PICARD: I wouldn't go that far.
+[00:13:09.192 --> 00:13:10.792] JOVAL: Your attitude is most puzzling.
+[00:13:11.512 --> 00:13:13.112] JOVAL: I will leave you now to your book.
+[00:13:13.912 --> 00:13:14.712] PICARD: That is all I ask.
+[00:13:23.032 --> 00:13:23.032] PICARD: You're
+[00:13:36.632 --> 00:13:37.592] PICARD: blocking the suns.
+[00:13:39.832 --> 00:13:41.112] SOVAK: I know you're working with her.
+[00:13:41.912 --> 00:13:43.752] SOVAK: I warn you, it's a mistake.
+[00:13:46.278 --> 00:13:47.078] PICARD: Are you addressing me?
+[00:13:47.798 --> 00:13:49.238] SOVAK: Don't bother to deny it.
+[00:13:49.558 --> 00:13:50.918] SOVAK: I've seen the two of you together.
+[00:13:51.558 --> 00:13:52.998] PICARD: I don't know what the devil you're talking about.
+[00:13:53.878 --> 00:13:56.118] PICARD: But whatever it is, I assure you it's no concern of mine.
+[00:13:56.758 --> 00:14:00.358] SOVAK: Tell her I want the disc returned to me immediately.
+[00:14:01.478 --> 00:14:03.318] PICARD: Perhaps I have not made myself clear.
+[00:14:03.958 --> 00:14:04.758] PICARD: You have the wrong
+[00:14:11.638 --> 00:14:13.638] PICARD: man.
+[00:14:16.198 --> 00:14:18.598] SOVAK: I am rapidly losing patience with you.
+[00:14:19.318 --> 00:14:21.318] SOVAK: I demand you talk business.
+[00:14:22.838 --> 00:14:25.318] PICARD: You'll find Ferengi demands carry little weight with me.
+[00:14:26.598 --> 00:14:29.718] SOVAK: Obviously you've never dealt with my people before.
+[00:14:31.558 --> 00:14:33.798] PICARD: On the contrary, all too often.
+[00:14:34.038 --> 00:14:37.355] SOVAK: Then you know the Ferengi are not to be trifled with.
+[00:14:37.355 --> 00:14:37.958] PICARD: Or trusted.
+[00:14:39.638 --> 00:14:41.558] SOVAK: You dare to insult me?
+[00:14:41.708 --> 00:14:42.308] PICARD: I
+[00:14:49.318 --> 00:14:52.438] PICARD: advise you to listen closely for I will not say this again.
+[00:14:52.838 --> 00:14:55.078] PICARD: I came to Risa for a holiday, nothing more.
+[00:14:55.158 --> 00:14:58.998] PICARD: I have no knowledge of this woman of whom you speak, nor have I laid eyes on any disc.
+[00:15:01.558 --> 00:15:05.078] SOVAK: You expect me to believe such feeble lies?
+[00:15:05.238 --> 00:15:06.838] PICARD: I don't care what you believe!
+[00:15:09.798 --> 00:15:11.718] SOVAK: This is not over yet, human.
+[00:15:12.438 --> 00:15:13.958] SOVAK: The disc is mine!
+[00:15:17.808 --> 00:15:19.328] SOVAK: And so is the woman.
+[00:15:19.888 --> 00:15:20.848] SOVAK: Remember that.
+[00:15:35.488 --> 00:15:35.888] VASH: Hello.
+[00:15:39.088 --> 00:15:39.728] PICARD: Oh, it's you.
+[00:15:40.848 --> 00:15:42.048] VASH: That's not much of a greeting.
+[00:15:44.208 --> 00:15:49.008] PICARD: Look, I don't wish to appear rude, but I am not seeking jamaharon.
+[00:15:51.808 --> 00:15:52.208] VASH: All right,
+[00:15:53.888 --> 00:15:55.728] VASH: but you really should try it some time.
+[00:15:56.208 --> 00:15:59.168] PICARD: If I try it, it will be at a time of my own choosing.
+[00:16:00.928 --> 00:16:01.808] VASH: That's fine with me.
+[00:16:02.688 --> 00:16:04.688] VASH: It's not as though I was offering to help you find it.
+[00:16:11.408 --> 00:16:11.808] PICARD: I, er,
+[00:16:13.408 --> 00:16:16.128] PICARD: I assumed because of the way you welcomed me the other day.
+[00:16:16.208 --> 00:16:17.568] VASH: I'm sorry if I embarrassed you.
+[00:16:18.608 --> 00:16:20.128] PICARD: I don't recall saying I was embarrassed.
+[00:16:21.488 --> 00:16:24.128] PICARD: If's just that I prefer to be acquainted with the women that I kiss.
+[00:16:24.768 --> 00:16:25.568] VASH: That's understandable.
+[00:16:26.048 --> 00:16:26.768] VASH: The name's Vash.
+[00:16:29.088 --> 00:16:29.648] PICARD: Jean-Luc Picard.
+[00:16:33.808 --> 00:16:35.088] VASH: So tell me about yourself, Jean-Luc.
+[00:16:38.608 --> 00:16:39.168] VASH: Would you rather
+[00:16:39.168 --> 00:16:39.888] VASH: I guess?
+[00:16:41.679 --> 00:16:42.879] VASH: I can be very persistent.
+[00:16:44.639 --> 00:16:46.319] PICARD: I'm the captain of a Federation starship.
+[00:16:47.999 --> 00:16:48.079] VASH: That
+[00:16:50.159 --> 00:16:51.119] VASH: explains it.
+[00:16:52.479 --> 00:16:53.039] PICARD: Explains what?
+[00:16:53.839 --> 00:16:56.239] VASH: I noticed you arguing with that Ferengi.
+[00:16:57.519 --> 00:16:59.839] VASH: For a moment there it looked like it was going to come to blows.
+[00:17:01.439 --> 00:17:02.879] PICARD: You're the woman he was talking about?
+[00:17:03.279 --> 00:17:04.959] VASH: I hope your disagreement wasn't over me.
+[00:17:05.599 --> 00:17:08.559] PICARD: For that information you'll have to ask him.
+[00:17:09.759 --> 00:17:10.399] VASH: Where are you going?
+[00:17:11.519 --> 00:17:12.399] PICARD: To find some privacy.
+[00:17:12.719 --> 00:17:13.439] VASH: Wait a second.
+[00:17:13.679 --> 00:17:14.479] VASH: What did he tell you?
+[00:17:14.479 --> 00:17:16.159] VASH: I'm sure there wasn't a bit of truth to it.
+[00:17:16.559 --> 00:17:18.159] SOVAK: And you said you didn't know her.
+[00:17:18.479 --> 00:17:18.799] PICARD: I don't.
+[00:17:19.839 --> 00:17:20.399] PICARD: And I don't want to.
+[00:17:21.519 --> 00:17:24.079] SOVAK: Return the disc to me and all will be forgiven.
+[00:17:24.319 --> 00:17:25.919] VASH: The disc doesn't belong to you, Sovak.
+[00:17:25.919 --> 00:17:26.639] VASH: It never did.
+[00:17:26.799 --> 00:17:28.639] PICARD: It would seem you two have a lot to discuss.
+[00:17:28.719 --> 00:17:29.439] PICARD: If you'll excuse me.
+[00:17:29.599 --> 00:17:30.719] VASH: Jean-Luc, I'm sorry.
+[00:17:30.719 --> 00:17:32.639] VASH: Perhaps one day I could explain all this to you later.
+[00:17:33.759 --> 00:17:34.159] PICARD: Perhaps you can.
+[00:17:37.119 --> 00:17:38.319] SOVAK: I have a proposal
+[00:17:38.399 --> 00:17:40.559] SOVAK: I believe you'll find most interesting.
+[00:17:40.559 --> 00:17:41.359] VASH: Save your breath.
+[00:17:41.919 --> 00:17:45.839] SOVAK: I am willing to pay you your weight in gold in exchange for the disc.
+[00:17:46.399 --> 00:17:47.999] SOVAK: Is that not a generous offer?
+[00:17:47.999 --> 00:17:47.999] SOVAK: I
+[00:17:54.159 --> 00:17:55.919] SOVAK: must have that woman.
+[00:18:05.119 --> 00:18:06.879] PICARD: What the hell are you doing in my room?
+[00:18:07.439 --> 00:18:08.479] AJUR: We are Vorgons.
+[00:18:09.044 --> 00:18:09.924] AJUR: I am Ajur.
+[00:18:10.884 --> 00:18:12.004] AJUR: This is Boratus.
+[00:18:12.484 --> 00:18:14.244] BORATUS: We come from the twenty seventh century.
+[00:18:14.804 --> 00:18:17.284] BORATUS: We travelled three hundred years into the past to find you.
+[00:18:22.644 --> 00:18:28.164] PICARD: All right, let's assume for the moment I believe you, that you are indeed from the future.
+[00:18:29.284 --> 00:18:30.324] PICARD: What is it that you want from me?
+[00:18:31.764 --> 00:18:33.444] AJUR: Have you heard of the Tox Uthat?
+[00:18:34.244 --> 00:18:34.404] PICARD: What?
+[00:18:36.724 --> 00:18:37.764] PICARD: I'm aware of the legend.
+[00:18:39.044 --> 00:18:40.884] PICARD: It tells of a visitor
+[00:18:42.804 --> 00:18:48.564] PICARD: from the future who left behind a mysterious device known as the Tox Uthat.
+[00:18:49.204 --> 00:18:50.964] AJUR: Essentially that story is correct.
+[00:18:53.124 --> 00:18:55.284] PICARD: Then the Uthat actually exists?
+[00:18:55.844 --> 00:18:56.244] BORATUS: Yes.
+[00:18:57.284 --> 00:19:00.884] BORATUS: It was invented by a scientist named Kal Dano in the mid twenty seventh century.
+[00:19:01.764 --> 00:19:07.364] BORATUS: The Uthat is a quantum phase inhibitor capable of halting all nuclear reaction within a star.
+[00:19:12.004 --> 00:19:12.324] PICARD: But
+[00:19:14.244 --> 00:19:18.244] PICARD: why bring such a powerful weapon into the past?
+[00:19:18.564 --> 00:19:22.804] BORATUS: Criminals attempted to steal the device, so he fled back to the twenty second century where he hid it.
+[00:19:23.284 --> 00:19:26.850] BORATUS: Ajur and I were the security team assigned to retrieve the Uthat.
+[00:19:26.850 --> 00:19:27.444] PICARD: I gather
+[00:19:27.444 --> 00:19:28.324] PICARD: you were unsuccessful.
+[00:19:28.964 --> 00:19:29.364] BORATUS: Yes.
+[00:19:29.684 --> 00:19:34.964] BORATUS: When we returned we began to search through the historical records for some clue to the Uthat's fate.
+[00:19:35.364 --> 00:19:36.724] PICARD: And your search led you to me?
+[00:19:37.119 --> 00:19:42.799] AJUR: We came upon a brief account stating you had discovered an object of unknown origin while vacationing on Risa.
+[00:19:43.439 --> 00:19:49.999] AJUR: From its description, a crystal cube that fits in the palm of the hand, we surmised it could very well be the Tox Uthat.
+[00:19:51.919 --> 00:19:59.359] PICARD: I'm sorry to disappoint you, but I haven't found anything, including peace, which is the only thing I'm looking for.
+[00:19:59.999 --> 00:20:01.999] BORATUS: You will find such a device, Captain.
+[00:20:02.719 --> 00:20:04.719] BORATUS: To us, it is already part of history.
+[00:20:05.999 --> 00:20:09.199] PICARD: And if I do find it, what then?
+[00:20:09.999 --> 00:20:12.959] AJUR: You will give it to us immediately so that we may return with it.
+[00:20:14.319 --> 00:20:18.479] PICARD: Well, the Uthat belongs to your time, not mine.
+[00:20:33.759 --> 00:20:35.759] PICARD: May
+[00:20:46.319 --> 00:20:46.799] PICARD: I come in?
+[00:20:49.199 --> 00:20:50.399] VASH: Excuse the mess.
+[00:20:51.119 --> 00:20:53.839] VASH: Sovak has taken to searching my room periodically.
+[00:20:55.519 --> 00:20:56.239] PICARD: Is this what he's looking for?
+[00:20:56.639 --> 00:20:59.439] VASH: I'm sorry I had to hide it like that.
+[00:20:59.439 --> 00:21:01.599] VASH: I was afraid he'd start searching me next.
+[00:21:03.359 --> 00:21:03.999] PICARD: This disc
+[00:21:05.108 --> 00:21:07.268] PICARD: must contain some very valuable information.
+[00:21:07.748 --> 00:21:09.348] VASH: I doubt it's anything you'd be interested in.
+[00:21:09.508 --> 00:21:10.068] PICARD: Depends.
+[00:21:11.348 --> 00:21:11.668] VASH: On what?
+[00:21:12.548 --> 00:21:16.148] PICARD: On whether or not it has something to do with the Tox Uthat.
+[00:21:21.828 --> 00:21:22.948] VASH: Did Sovak tell you that?
+[00:21:23.348 --> 00:21:26.468] PICARD: Well, let's just say I've heard rumours
+[00:21:28.308 --> 00:21:31.908] PICARD: that the Uthat is located somewhere on Risa.
+[00:21:32.548 --> 00:21:35.108] VASH: Look, the last thing I need is a partner.
+[00:21:36.948 --> 00:21:37.748] PICARD: So it's true.
+[00:21:38.948 --> 00:21:39.588] VASH: Have a seat.
+[00:21:41.508 --> 00:21:46.148] VASH: I don't suppose you ever heard of Professor Samuel Estragon?
+[00:21:46.468 --> 00:21:48.228] PICARD: Yes, as a matter of fact, I have.
+[00:21:48.228 --> 00:21:50.548] PICARD: He spent half his life searching for the Tox Uthat.
+[00:21:50.948 --> 00:21:53.588] VASH: I served as his personal assistant for the past five years.
+[00:21:54.308 --> 00:22:01.028] VASH: Shortly before he died, he uncovered new data pinpointing its location. And that disc contains his research notes and maps.
+[00:22:02.948 --> 00:22:05.588] PICARD: And you're continuing his work?
+[00:22:06.148 --> 00:22:06.708] VASH: Exactly.
+[00:22:07.028 --> 00:22:07.988] PICARD: With a Ferengi as an associate?
+[00:22:07.988 --> 00:22:12.708] VASH: Sovak and I are definitely not working together.
+[00:22:13.268 --> 00:22:16.628] PICARD: But the two of you are very well acquainted.
+[00:22:17.908 --> 00:22:25.348] VASH: Well, at times he aided the professor in his explorations. Especially in situations that weren't quite ethical.
+[00:22:26.308 --> 00:22:31.668] PICARD: And now, with typical Ferengi logic, he's convinced that the Tox Uthat belongs to him.
+[00:22:31.988 --> 00:22:33.988] VASH: All he cares about is selling it to the highest bidder.
+[00:22:34.468 --> 00:22:37.588] PICARD: Whereas you, of course, have a nobler purpose in mind.
+[00:22:38.412 --> 00:22:41.372] VASH: I told the professor I'd present it to the Daystrom Institute for study.
+[00:22:42.492 --> 00:22:47.212] VASH: But first I have to find it. And that won't be easy with Sovak watching me every minute.
+[00:22:54.812 --> 00:22:55.532] PICARD: I'll go in your place.
+[00:22:56.732 --> 00:22:57.692] VASH: And what about me?
+[00:22:58.492 --> 00:22:58.972] PICARD: You'll remain here.
+[00:22:59.132 --> 00:22:59.612] PICARD: It's safer.
+[00:23:00.252 --> 00:23:01.212] VASH: Is that an order?
+[00:23:01.852 --> 00:23:02.332] PICARD: Absolutely.
+[00:23:03.772 --> 00:23:05.452] VASH: This isn't a starship, Jean-Luc.
+[00:23:06.172 --> 00:23:07.132] VASH: I don't follow orders.
+[00:23:08.172 --> 00:23:08.892] PICARD: Oh, I see.
+[00:23:10.012 --> 00:23:11.452] VASH: Besides, you'd never find it without me.
+[00:23:12.092 --> 00:23:13.932] VASH: The professor's notes are in code.
+[00:23:18.492 --> 00:23:20.812] PICARD: From the moment I met you, I knew you were going to be trouble.
+[00:23:22.012 --> 00:23:23.772] VASH: You look like a man who could handle trouble.
+[00:23:26.012 --> 00:23:27.532] PICARD: So, where exactly is the location?
+[00:23:28.652 --> 00:23:30.492] VASH: It's about twenty seven kilometres due east.
+[00:23:30.732 --> 00:23:32.252] VASH: There are some subterranean caves there.
+[00:23:32.652 --> 00:23:34.412] VASH: That's where you'll find the Uthat.
+[00:23:35.612 --> 00:23:37.052] PICARD: I'll meet you in the lobby in fifteen minutes.
+[00:23:37.692 --> 00:23:38.412] PICARD: Be punctual.
+[00:23:39.372 --> 00:23:39.932] PICARD: Oh, and I
+[00:23:41.452 --> 00:23:42.492] PICARD: advise you to change your clothing.
+[00:23:43.772 --> 00:23:44.172] VASH: Jean-Luc.
+[00:23:46.812 --> 00:23:48.572] VASH: We're going to make a wonderful team.
+[00:24:04.508 --> 00:24:06.188] SOVAK: I expected such treachery.
+[00:24:06.588 --> 00:24:08.828] SOVAK: Did you think you could sneak away from me so easily?
+[00:24:16.988 --> 00:24:17.388] SOVAK: The disc.
+[00:24:17.948 --> 00:24:18.428] SOVAK: Where is it?
+[00:24:18.588 --> 00:24:20.508] PICARD: Didn't anyone tell you weapons aren't allowed on Risa?
+[00:24:20.588 --> 00:24:24.268] SOVAK: You're making a grave mistake putting your trust in this woman.
+[00:24:24.508 --> 00:24:26.108] VASH: It' be a worse mistake to trust you.
+[00:24:26.108 --> 00:24:27.308] SOVAK: Silence!
+[00:24:28.668 --> 00:24:31.388] SOVAK: Do you know how she acquired the disc in the first place?
+[00:24:31.468 --> 00:24:31.948] VASH: Sovak!
+[00:24:32.268 --> 00:24:33.628] SOVAK: I
+[00:24:36.988 --> 00:24:43.468] SOVAK: paid her to steal it. But instead she betrayed me, and used my money to make her way here.
+[00:24:43.868 --> 00:24:44.748] VASH: It didn't happen that way.
+[00:24:45.468 --> 00:24:48.428] SOVAK: She's a greedy and unscrupulous woman.
+[00:24:50.908 --> 00:24:55.308] SOVAK: A perfect mate for a Ferengi.
+[00:24:55.548 --> 00:24:57.068] PICARD: You're becoming quite annoying, Sovak.
+[00:24:57.628 --> 00:24:59.548] SOVAK: As are you, human.
+[00:25:00.268 --> 00:25:02.988] SOVAK: Perhaps I should kill you and then take the disc.
+[00:25:03.708 --> 00:25:04.028] VASH: No, wait.
+[00:25:04.588 --> 00:25:05.148] VASH: You can have it.
+[00:25:21.948 --> 00:25:23.788] VASH: See? I told you we'd make a wonderful team.
+[00:25:24.428 --> 00:25:24.428] PICARD: We've
+[00:25:29.548 --> 00:25:30.268] PICARD: got long trip.
+[00:25:44.911 --> 00:25:46.671] PICARD: Have you calculated how much further we have to go?
+[00:25:49.631 --> 00:25:50.991] VASH: Another eleven kilometres.
+[00:25:54.591 --> 00:25:55.551] PICARD: We should stay here for the night.
+[00:25:56.271 --> 00:25:57.551] VASH: I was hoping you'd say that.
+[00:26:00.191 --> 00:26:00.911] PICARD: Actually, we've
+[00:26:03.231 --> 00:26:04.831] PICARD: made better time than I expected.
+[00:26:06.271 --> 00:26:07.631] VASH: I'll take that as a compliment.
+[00:26:08.351 --> 00:26:09.151] PICARD: As it was intended.
+[00:26:25.711 --> 00:26:26.111] VASH: Jean-Luc,
+[00:26:28.511 --> 00:26:30.191] VASH: I'm afraid I haven't been totally honest with you.
+[00:26:31.151 --> 00:26:32.991] PICARD: Forgive me if I don't act surprised.
+[00:26:36.671 --> 00:26:39.231] VASH: Sovak did pay me to hand over the disc.
+[00:26:41.071 --> 00:26:41.871] PICARD: So you did steal it?
+[00:26:42.751 --> 00:26:43.791] VASH: It wasn't stealing.
+[00:26:44.191 --> 00:26:45.391] VASH: The professor had died.
+[00:26:45.471 --> 00:26:48.751] VASH: I had already devoted five years of my life to tracking down the Uthat.
+[00:26:49.231 --> 00:26:50.511] PICARD: But you took Sovak's money.
+[00:26:52.351 --> 00:26:54.191] VASH: It was the only way I could afford to get to Risa.
+[00:26:55.151 --> 00:26:57.871] VASH: As for Sovak, he got exactly what he deserved.
+[00:26:59.951 --> 00:27:05.071] PICARD: Well, any woman who can beat a Ferengi at his own game bears watching.
+[00:27:07.608 --> 00:27:09.048] VASH: I'll take that as another compliment.
+[00:27:10.808 --> 00:27:11.368] VASH: I'm flattered.
+[00:27:13.688 --> 00:27:14.088] PICARD: Hmm.
+[00:27:15.368 --> 00:27:17.368] PICARD: Well, we should get some sleep.
+[00:27:20.648 --> 00:27:20.728] VASH: You
+[00:27:26.568 --> 00:27:28.728] VASH: know Jean-Luc, it's lucky for you we met.
+[00:27:29.048 --> 00:27:29.848] VASH: If it wasn't for me,
+[00:27:31.928 --> 00:27:36.168] VASH: you'd still be back there sitting in the sun, relaxing.
+[00:27:37.208 --> 00:27:39.048] PICARD: That happens to be why I came to Risa.
+[00:27:39.848 --> 00:27:41.528] VASH: I'm sure you hated every minute of it.
+[00:27:42.568 --> 00:27:44.568] VASH: That kind of vacation isn't for a man like you.
+[00:27:44.968 --> 00:27:45.768] VASH: You need excitement.
+[00:27:45.848 --> 00:27:46.408] PICARD: Excitement?
+[00:27:47.128 --> 00:27:48.328] PICARD: Spending in a damp cave?
+[00:27:50.168 --> 00:27:52.088] PICARD: Chasing after something we shall probably never find?
+[00:27:54.728 --> 00:27:57.128] VASH: You're enjoying yourself, aren't you?
+[00:28:00.488 --> 00:28:00.808] PICARD: Yes,
+[00:28:02.408 --> 00:28:03.848] VASH: I just wanted to hear you say it.
+[00:28:03.928 --> 00:28:04.248] PICARD: Good.
+[00:28:04.408 --> 00:28:05.448] PICARD: Now, let's get some sleep.
+[00:28:05.768 --> 00:28:07.768] VASH: I'll
+[00:28:31.928 --> 00:28:35.928] VASH: never forget that look on your face when you thought I was offering you jamaharon.
+[00:28:37.048 --> 00:28:38.968] PICARD: Now that was a simple misunderstanding.
+[00:28:47.057 --> 00:28:50.017] VASH: You did seem a little disappointed when I turned you down.
+[00:28:53.217 --> 00:28:56.337] PICARD: You are outrageous.
+[00:28:57.697 --> 00:28:57.937] VASH: Thank you.
+[00:28:58.087 --> 00:28:58.687] VASH: You're
+[00:29:00.897 --> 00:29:02.257] VASH: pretty stimulating yourself.
+[00:29:05.617 --> 00:29:06.097] VASH: Don't you see,
+[00:29:06.257 --> 00:29:07.217] VASH: we're a lot alike.
+[00:29:08.337 --> 00:29:10.177] VASH: That's probably why we get along so well.
+[00:29:10.817 --> 00:29:12.017] PICARD: You call this getting along?
+[00:29:13.857 --> 00:29:14.337] VASH: Fine.
+[00:29:15.697 --> 00:29:16.737] VASH: We don't get along.
+[00:29:16.737 --> 00:29:17.777] VASH: We're not getting along.
+[00:29:17.857 --> 00:29:18.577] PICARD: I didn't say that.
+[00:29:18.737 --> 00:29:18.817] VASH: No,
+[00:29:19.457 --> 00:29:23.217] VASH: if you want to believe we're not getting along, that's all right with me.
+[00:29:37.857 --> 00:29:38.897] VASH: Still think I'm trouble?
+[00:29:44.737 --> 00:29:45.297] PICARD: I'm sure of it.
+[00:29:45.297 --> 00:29:46.257] VASH: This is it.
+[00:30:10.097 --> 00:30:11.377] VASH: We've reached the end of our journey.
+[00:30:13.790 --> 00:30:14.670] PICARD: Do you have the exact location?
+[00:30:16.910 --> 00:30:19.550] VASH: Seven metres in from the opening along the wall.
+[00:30:25.870 --> 00:30:26.910] PICARD: That should make it about here.
+[00:30:32.190 --> 00:30:32.350] VASH: What the?
+[00:30:35.630 --> 00:30:36.190] PICARD: Something wrong?
+[00:30:39.390 --> 00:30:40.430] VASH: I can't get a reading on this.
+[00:30:42.110 --> 00:30:43.790] VASH: There must be starithium ore in these rocks.
+[00:30:45.390 --> 00:30:47.710] PICARD: That leaves us but one alternative.
+[00:31:03.950 --> 00:31:04.270] PICARD: Shall we?
+[00:31:07.870 --> 00:31:08.270] VASH: Picard!
+[00:31:08.270 --> 00:31:09.950] PICARD: A little
+[00:31:11.870 --> 00:31:13.870] PICARD: premature, aren't we?
+[00:31:13.870 --> 00:31:16.510] AJUR: We are to be witness to a great moment, Picard.
+[00:31:17.230 --> 00:31:18.270] VASH: Who the hell are they?
+[00:31:20.670 --> 00:31:20.990] PICARD: They are
+[00:31:22.670 --> 00:31:24.750] PICARD: security officers from the twenty seventh century.
+[00:31:26.430 --> 00:31:27.950] PICARD: They're here to take back the Uthat.
+[00:31:29.950 --> 00:31:32.030] VASH: You knew about this and didn't say anything?
+[00:31:33.550 --> 00:31:34.270] PICARD: I'm sorry, Vash.
+[00:31:34.990 --> 00:31:35.950] PICARD: Would you have brought me here
+[00:31:35.950 --> 00:31:36.590] PICARD: if I had told you?
+[00:31:38.990 --> 00:31:39.790] VASH: Probably not.
+[00:31:40.430 --> 00:31:41.230] PICARD: My point exactly.
+[00:31:42.110 --> 00:31:44.350] SOVAK: So the betrayer is herself betrayed.
+[00:31:46.372 --> 00:31:47.972] SOVAK: You've put together quite a little team.
+[00:31:48.452 --> 00:31:49.812] AJUR: Do not interrupt the captain.
+[00:31:52.212 --> 00:31:53.092] PICARD: How did you get here?
+[00:31:53.892 --> 00:31:55.572] SOVAK: I found the disc in her room.
+[00:31:57.172 --> 00:31:57.972] VASH: That's impossible.
+[00:31:58.372 --> 00:32:01.332] VASH: I made a copy as a precaution, but I burned it before we left.
+[00:32:01.492 --> 00:32:04.052] SOVAK: Only the outer casing was incinerated.
+[00:32:04.372 --> 00:32:06.852] SOVAK: Now, I had no intention of interrupting you.
+[00:32:07.172 --> 00:32:09.972] SOVAK: Please, continue digging.
+[00:32:40.212 --> 00:32:41.732] SOVAK: No one told you to stop digging, human.
+[00:32:42.932 --> 00:32:44.292] PICARD: I see no reason to continue.
+[00:32:44.612 --> 00:32:45.732] SOVAK: You will do as I say.
+[00:32:46.212 --> 00:32:50.532] PICARD: Look about you, Sovak.
+[00:32:51.412 --> 00:32:55.092] PICARD: By now it must be obvious, even to you. The Uthat is not here.
+[00:32:57.172 --> 00:33:00.132] SOVAK: Is this some pathetic attempt at trickery?
+[00:33:00.932 --> 00:33:01.732] SOVAK: Of course it's here.
+[00:33:02.212 --> 00:33:04.052] SOVAK: We simply haven't found it yet.
+[00:33:04.692 --> 00:33:07.172] VASH: Are you saying that the professor's findings were wrong?
+[00:33:08.372 --> 00:33:08.932] PICARD: It would appear so.
+[00:33:10.372 --> 00:33:11.012] VASH: But how could that be?
+[00:33:11.012 --> 00:33:12.372] VASH: His evidence was overwhelming.
+[00:33:12.932 --> 00:33:14.292] SOVAK: Enough with this foolishness.
+[00:33:14.772 --> 00:33:17.012] SOVAK: Can't you see he's trying to deceive us?
+[00:33:17.732 --> 00:33:19.172] SOVAK: Return to work this instant!
+[00:33:21.410 --> 00:33:22.770] VASH: I'm afraid he's right, Sovak.
+[00:33:24.050 --> 00:33:26.130] VASH: According to the disc we should have reached it hours ago.
+[00:33:27.090 --> 00:33:27.730] SOVAK: Lies!
+[00:33:28.370 --> 00:33:29.090] SOVAK: Treachery!
+[00:33:30.450 --> 00:33:31.330] SOVAK: This cannot be happening.
+[00:33:31.970 --> 00:33:32.930] SOVAK: Not another failure.
+[00:33:33.250 --> 00:33:34.930] SOVAK: Not after having come so close.
+[00:33:36.050 --> 00:33:37.170] AJUR: It is most puzzling.
+[00:33:48.770 --> 00:33:49.730] PICARD: It's over, Sovak.
+[00:33:51.250 --> 00:33:51.570] SOVAK: No,
+[00:33:52.290 --> 00:33:54.690] SOVAK: I will not be cheated out of my prize.
+[00:33:54.930 --> 00:33:56.290] SOVAK: Tell him.
+[00:33:56.290 --> 00:33:58.850] SOVAK: Tell him the professor's research is irrefutable.
+[00:34:00.370 --> 00:34:01.170] VASH: I don't know anymore.
+[00:34:04.290 --> 00:34:05.250] SOVAK: Then step aside.
+[00:34:10.130 --> 00:34:12.210] SOVAK: The Uthat is here,
+[00:34:13.330 --> 00:34:13.730] SOVAK: somewhere.
+[00:34:14.210 --> 00:34:15.730] SOVAK: It's just waiting to be found.
+[00:34:16.930 --> 00:34:20.130] SOVAK: It can't hide from me forever.
+[00:34:20.130 --> 00:34:21.250] VASH: Five
+[00:34:33.490 --> 00:34:36.130] VASH: years of my life, wasted.
+[00:34:36.370 --> 00:34:36.370] PICARD: There
+[00:34:44.370 --> 00:34:46.210] PICARD: will be other treasures to be found, Vash.
+[00:34:47.890 --> 00:34:48.610] VASH: Not like the Uthat.
+[00:34:58.323 --> 00:35:00.243] VASH: I hope you won't mind, but
+[00:35:02.403 --> 00:35:03.443] VASH: I need to be alone.
+[00:35:29.923 --> 00:35:31.923] RIKER: Enterprise
+[00:35:35.363 --> 00:35:37.283] RIKER: to Captain Picard.
+[00:35:37.283 --> 00:35:38.083] PICARD: Picard here.
+[00:35:38.803 --> 00:35:39.443] PICARD: Go ahead, Commander.
+[00:35:40.403 --> 00:35:42.803] RIKER: We hope we're not interrupting anything important, Captain,
+[00:35:42.803 --> 00:35:48.563] RIKER: but we wanted to inform you that we have achieved orbit around Risa and we're ready to beam you aboard at your convenience.
+[00:35:49.123 --> 00:35:50.483] PICARD: I'll be returning shortly, Commander.
+[00:35:51.123 --> 00:35:56.083] PICARD: In the interim, stand ready to initiate transporter code fourteen at my signal.
+[00:35:57.283 --> 00:35:58.643] RIKER: Transporter code fourteen?
+[00:35:59.203 --> 00:36:00.003] PICARD: You heard me, Number One.
+[00:36:00.963 --> 00:36:01.203] RIKER: Yes, sir.
+[00:36:01.603 --> 00:36:02.163] PICARD: Picard out.
+[00:36:05.900 --> 00:36:07.900] PICARD: Leaving
+[00:36:11.637 --> 00:36:13.637] PICARD: so
+[00:36:17.374 --> 00:36:19.374] PICARD: soon?
+[00:36:22.243 --> 00:36:22.243] VASH: Jean-Luc.
+[00:36:24.816 --> 00:36:26.976] VASH: I was just about to come say goodbye.
+[00:36:31.296 --> 00:36:31.776] PICARD: Well then,
+[00:36:33.536 --> 00:36:34.416] PICARD: I've saved you the bother.
+[00:36:37.376 --> 00:36:39.536] VASH: I want to put all this behind me as soon as possible.
+[00:36:40.896 --> 00:36:41.616] VASH: You understand?
+[00:36:44.096 --> 00:36:44.576] PICARD: Of course.
+[00:36:45.536 --> 00:36:48.336] PICARD: There's just one last thing you can do for me.
+[00:36:48.336 --> 00:36:48.816] VASH: Anything.
+[00:36:51.936 --> 00:36:53.856] PICARD: Tell me where you've hidden the Tox Uthat.
+[00:36:55.856 --> 00:36:56.656] VASH: That's not funny.
+[00:36:57.376 --> 00:36:59.856] PICARD: You never intended to burn that second disc.
+[00:37:00.576 --> 00:37:04.576] PICARD: If you had, you wouldn't have been so careless as to allow Sovak to salvage any of it.
+[00:37:04.656 --> 00:37:11.376] PICARD: You wanted him to follow us, so that he could see for himself that the Uthat wasn't at the cave site.
+[00:37:13.216 --> 00:37:16.976] PICARD: That was the only way he could be convinced that your quest had been futile.
+[00:37:18.016 --> 00:37:19.936] VASH: But how could I have known the Uthat wasn't there?
+[00:37:20.816 --> 00:37:22.576] PICARD: Because you'd already been there once before,
+[00:37:23.136 --> 00:37:24.896] PICARD: probably the moment you arrived on the planet.
+[00:37:27.056 --> 00:37:28.336] PICARD: That's when you found it.
+[00:37:33.536 --> 00:37:40.416] VASH: You're a man of many talents, Jean-Luc.
+[00:37:40.416 --> 00:37:41.616] VASH: A
+[00:37:55.136 --> 00:37:56.256] VASH: piece of the future.
+[00:38:07.711 --> 00:38:10.671] PICARD: A very dangerous piece.
+[00:38:14.191 --> 00:38:16.991] PICARD: Were you really going to give this to the Daystrom Institute?
+[00:38:18.831 --> 00:38:20.671] VASH: Well, maybe not
+[00:38:21.471 --> 00:38:21.791] VASH: give it.
+[00:38:24.271 --> 00:38:26.671] VASH: Five years is a huge investment, Jean-Luc.
+[00:38:26.671 --> 00:38:30.031] VASH: I deserve to make a reasonable profit.
+[00:38:31.871 --> 00:38:34.351] AJUR: Congratulations Picard.
+[00:38:34.911 --> 00:38:36.591] AJUR: We knew you would not fail us.
+[00:38:38.271 --> 00:38:39.791] VASH: You're not going to just hand it over, are you?
+[00:38:40.991 --> 00:38:41.631] VASH: You didn't trust me.
+[00:38:41.631 --> 00:38:42.991] VASH: What makes you think you can trust them?
+[00:38:44.671 --> 00:38:47.151] PICARD: I assume the Vorgons have proof to back up their claim.
+[00:38:47.631 --> 00:38:49.071] BORATUS: Our being here is proof enough.
+[00:38:50.751 --> 00:38:52.031] VASH: Wait a second, Vorgons?
+[00:38:53.231 --> 00:38:58.511] VASH: The professor's notes said it was two Vorgons, a male and a female, who attempted to steal the Uthat in the first place.
+[00:38:59.551 --> 00:39:00.511] VASH: For all we know it could be them.
+[00:39:06.431 --> 00:39:08.271] PICARD: You're going to have to prove that you are who you say you are.
+[00:39:08.831 --> 00:39:11.551] AJUR: You yourself said, the Uthat belongs to the future.
+[00:39:11.791 --> 00:39:12.991] PICARD: But not necessarily to you.
+[00:39:14.671 --> 00:39:16.431] BORATUS: You will return what is ours.
+[00:39:16.591 --> 00:39:16.991] VASH: No!
+[00:39:20.911 --> 00:39:23.071] PICARD: Enterprise. Code fourteen. Lock on present coordinates.
+[00:39:23.071 --> 00:39:23.871] PICARD: Two second delay.
+[00:39:24.600 --> 00:39:24.840] PICARD: Mark!
+[00:39:25.720 --> 00:39:25.720] PICARD: Are you all
+[00:39:29.480 --> 00:39:31.480] PICARD: right?
+[00:39:36.120 --> 00:39:36.440] PICARD: Go.
+[00:39:37.880 --> 00:39:39.000] PICARD: Return to your own time.
+[00:39:39.960 --> 00:39:40.920] PICARD: There's nothing for you here.
+[00:39:41.640 --> 00:39:44.280] BORATUS: History recorded that you destroyed the Uthat.
+[00:39:45.560 --> 00:39:48.600] AJUR: You have fulfilled your destiny all too well, Picard.
+[00:39:53.400 --> 00:39:55.400] VASH: I
+[00:40:11.960 --> 00:40:14.920] VASH: don't suppose there are any openings for an archaeologist aboard the Enterprise.
+[00:40:16.680 --> 00:40:18.680] PICARD: Somehow
+[00:40:22.360 --> 00:40:25.560] PICARD: I doubt you'd find life aboard a starship suitable to your taste.
+[00:40:29.320 --> 00:40:29.880] VASH: Probably not.
+[00:40:30.840 --> 00:40:33.720] VASH: I could never tolerate all that discipline.
+[00:40:41.080 --> 00:40:41.320] PICARD: So,
+[00:40:44.760 --> 00:40:47.320] PICARD: what are your plans?
+[00:40:49.240 --> 00:40:52.040] VASH: I thought I might explore the ruins on Sarthong Five.
+[00:40:52.360 --> 00:40:53.960] PICARD: Unbelievable!
+[00:40:55.480 --> 00:40:58.120] PICARD: You are out of your mind!
+[00:40:58.970 --> 00:41:01.690] PICARD: The Sarthongians are merciless to trespassers.
+[00:41:04.810 --> 00:41:05.610] VASH: Why, Jean-Luc,
+[00:41:08.010 --> 00:41:09.610] VASH: you really do care about me.
+[00:41:13.210 --> 00:41:17.210] PICARD: Promise me you will try and stay out of trouble.
+[00:41:18.490 --> 00:41:19.450] VASH: I always try.
+[00:41:19.450 --> 00:41:19.610] VASH: I
+[00:41:33.850 --> 00:41:35.050] VASH: wish we had more time together.
+[00:41:37.610 --> 00:41:38.410] PICARD: Perhaps we do.
+[00:41:40.330 --> 00:41:42.170] PICARD: The Vorgons are time travellers.
+[00:41:43.850 --> 00:41:47.610] PICARD: Now that they know where and when the Uthat can be found,
+[00:41:49.210 --> 00:41:51.690] PICARD: they may very well come back and try for it again.
+[00:41:55.610 --> 00:41:57.770] VASH: So we may be doing this all over
+[00:41:59.770 --> 00:42:01.770] VASH: again?
+[00:42:07.770 --> 00:42:08.730] RIKER: Welcome aboard, Captain.
+[00:42:09.210 --> 00:42:10.250] PICARD: Status report, Number One?
+[00:42:10.810 --> 00:42:12.410] RIKER: All went well on Starbase twelve.
+[00:42:12.410 --> 00:42:14.410] RIKER: I think you'll find the ship to be in splendid condition.
+[00:42:14.650 --> 00:42:16.010] PICARD: I'll present my compliments to the crew.
+[00:42:16.810 --> 00:42:18.570] PICARD: Oh yes, Number One,
+[00:42:19.210 --> 00:42:20.810] PICARD: about that Horga'hn you requested.
+[00:42:22.410 --> 00:42:22.570] RIKER: Yes, sir.
+[00:42:23.530 --> 00:42:25.290] PICARD: You and I need to have a little chat about that.
+[00:42:26.570 --> 00:42:28.250] TROI: Was it a relaxing trip, Captain?
+[00:42:32.239 --> 00:42:32.479] PICARD: Uh huh.
+[00:42:36.799 --> 00:42:37.759] RIKER: I knew he'd have a great time.
+[00:42:38.000 --> 00:42:57.000] [music]

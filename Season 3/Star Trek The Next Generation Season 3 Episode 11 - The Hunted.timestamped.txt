@@ -1,0 +1,666 @@
+[00:00:03.920 --> 00:00:06.960] LOG: Captain's log, Stardate 43489.2.
+[00:00:07.360 --> 00:00:13.280] LOG: We have arrived at Angosia Three, a planet that has expressed a strong desire for membership in the Federation.
+[00:00:13.920 --> 00:00:17.840] LOG: Prime Minister Nayrok has taken Commander Riker and me on a tour of the capital city.
+[00:00:21.200 --> 00:00:24.240] PICARD: Well, I'm greatly impressed with everything I've seen so far, Prime Minister.
+[00:00:24.240 --> 00:00:26.720] NAYROK: Then I hope it will reflect favourably in your report, Captain.
+[00:00:27.200 --> 00:00:30.880] RIKER: It's a tribute to your people that you were able to recover so rapidly from the Tarsian War.
+[00:00:31.120 --> 00:00:31.840] NAYROK: It is indeed.
+[00:00:32.480 --> 00:00:33.520] NAYROK: We are not warriors.
+[00:00:33.840 --> 00:00:37.680] NAYROK: We believe reason can settle disputes. But not every culture agrees with our position.
+[00:00:38.240 --> 00:00:39.440] PICARD: An unfortunate reality.
+[00:00:39.920 --> 00:00:47.440] NAYROK: The development of the mind, the cultivation of the intellect, these are the pursuits to which the Angosians have dedicated themselves for centuries.
+[00:00:48.080 --> 00:00:48.640] ZAYNAR: Prime Minister.
+[00:00:50.320 --> 00:00:52.560] ZAYNAR: I'm sorry to interrupt, but we have a problem.
+[00:00:53.120 --> 00:00:54.000] ZAYNAR: May I see you for a moment?
+[00:00:54.720 --> 00:00:55.280] NAYROK: Excuse me, gentlemen.
+[00:00:59.760 --> 00:01:00.240] NAYROK: Yes, what is it?
+[00:01:01.360 --> 00:01:04.400] PICARD: Well, I think they'll make a fine addition to the Federation,
+[00:01:04.400 --> 00:01:04.880] PICARD: Number One.
+[00:01:04.880 --> 00:01:07.280] RIKER: I'm not sure I'd like to live in this place.
+[00:01:07.680 --> 00:01:08.880] RIKER: A little stuffy for my taste.
+[00:01:12.800 --> 00:01:12.800] NAYROK: A
+[00:01:14.800 --> 00:01:17.600] NAYROK: prisoner has escaped from the penal colony on Lunar Five.
+[00:01:18.560 --> 00:01:19.280] NAYROK: Two guards are dead.
+[00:01:20.160 --> 00:01:21.760] NAYROK: The prisoner has taken a transport vessel.
+[00:01:22.560 --> 00:01:23.360] RIKER: Do you have means of pursuit?
+[00:01:23.360 --> 00:01:26.000] NAYROK: The tracking station was sabotaged.
+[00:01:26.000 --> 00:01:27.440] NAYROK: The entire base is in chaos.
+[00:01:27.882 --> 00:01:33.322] NAYROK: We have ordered ships from the surface to follow him, but to be honest, our civilian pilots are not trained for this.
+[00:01:34.922 --> 00:01:35.642] RIKER: With your permission?
+[00:01:38.522 --> 00:01:39.002] RIKER: Mister Data,
+[00:01:39.482 --> 00:01:42.042] RIKER: a stolen transport vessel has departed from Lunar Five.
+[00:01:42.042 --> 00:01:43.002] RIKER: Have you picked it up on the sensors?
+[00:01:44.442 --> 00:01:45.002] DATA: Yes, Commander.
+[00:01:45.562 --> 00:01:45.802] RIKER: Good.
+[00:01:46.042 --> 00:01:48.122] RIKER: Detain the vessel and quarantine the pilot.
+[00:01:48.122 --> 00:01:48.602] RIKER: Is he armed?
+[00:01:48.922 --> 00:01:50.682] NAYROK: Yes. And extremely dangerous, Commander.
+[00:01:51.242 --> 00:01:53.482] NAYROK: Lunar Five is a maximum security facility.
+[00:01:54.442 --> 00:01:55.242] RIKER: Did you read that, Data?
+[00:01:55.642 --> 00:01:55.882] DATA: Yes, sir.
+[00:01:56.202 --> 00:01:57.482] DATA: We will use extreme caution.
+[00:01:58.122 --> 00:01:59.002] RIKER: Keep us informed.
+[00:01:59.482 --> 00:02:00.042] RIKER: Riker out.
+[00:02:00.842 --> 00:02:01.562] WORF: On screen, sir.
+[00:02:04.042 --> 00:02:05.642] DATA: Specifications on the vessel, Mister Worf?
+[00:02:06.362 --> 00:02:07.002] WORF: No warp drive.
+[00:02:08.042 --> 00:02:08.762] WORF: Minimal weaponry.
+[00:02:09.562 --> 00:02:10.282] DATA: Heading, Mister Crusher?
+[00:02:10.842 --> 00:02:13.322] WESLEY: Three one nine mark two five oh, sir.
+[00:02:14.842 --> 00:02:15.722] LAFORGE: Vessel's speed increasing to
+[00:02:15.802 --> 00:02:16.762] LAFORGE: point oh two impulse.
+[00:02:17.162 --> 00:02:17.882] LAFORGE: He's seen us, Data.
+[00:02:31.322 --> 00:02:32.442] LAFORGE: That's the ship's drive section
+[00:02:33.162 --> 00:02:34.282] WESLEY: What happened to the rest of the ship?
+[00:02:35.242 --> 00:02:37.082] DATA: Scan the drive section for life form readings.
+[00:02:38.122 --> 00:02:38.362] WORF: None.
+[00:02:40.042 --> 00:02:42.282] DATA: Bring us around to the back side of the asteroid, Mister Crusher.
+[00:02:49.802 --> 00:02:52.202] LAFORGE: Sensors indicate wreckage on the asteroid's surface, Data.
+[00:02:52.682 --> 00:02:53.402] WORF: No life signs.
+[00:02:55.411 --> 00:02:56.611] DATA: Apparently, he did not survive.
+[00:02:57.331 --> 00:02:59.171] WESLEY: Data, the drive section.
+[00:03:00.131 --> 00:03:00.611] WESLEY: Where'd it go?
+[00:03:02.611 --> 00:03:04.211] WESLEY: There's no sign of it on its previous heading.
+[00:03:04.371 --> 00:03:05.651] WESLEY: Someone must be at the helm.
+[00:03:06.131 --> 00:03:09.027] RIKER: Status report, Mister Data?
+[00:03:09.491 --> 00:03:11.171] DATA: I am afraid the prisoner has eluded us, sir.
+[00:03:13.731 --> 00:03:14.931] PICARD: Eluded the Enterprise?
+[00:03:43.811 --> 00:03:46.371] PICARD: Space, the final frontier.
+[00:03:48.211 --> 00:03:51.091] PICARD: These are the voyages of the starship Enterprise.
+[00:03:52.211 --> 00:04:00.211] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:01.891 --> 00:04:04.771] PICARD: to boldly go where no one has gone before.
+[00:04:56.000 --> 00:05:08.000] [music]
+[00:05:04.757 --> 00:05:08.277] DATA: We followed procedures precisely, Captain.
+[00:05:08.917 --> 00:05:11.797] DATA: Scanners indicated no life forms present in the drive section.
+[00:05:12.277 --> 00:05:13.637] DATA: I cannot explain how he escaped.
+[00:05:14.197 --> 00:05:16.357] WORF: Incoming message from the Angosian Prime Minister.
+[00:05:16.757 --> 00:05:17.157] PICARD: On screen.
+[00:05:18.917 --> 00:05:20.437] NAYROK: Captain, we've identified the prisoner.
+[00:05:21.317 --> 00:05:22.117] NAYROK: His name is Roga Danar.
+[00:05:23.477 --> 00:05:29.957] NAYROK: His criminal record is too long to go into, but I must caution you that he is given to bouts of uncontrollable violence.
+[00:05:31.317 --> 00:05:32.677] PICARD: I appreciate your warning, Prime Minister.
+[00:05:33.237 --> 00:05:34.517] PICARD: We will keep you informed of our progress.
+[00:05:36.277 --> 00:05:38.677] RIKER: Geordi, how far and how fast can that transport ship travel?
+[00:05:39.237 --> 00:05:41.557] LAFORGE: Without warp drive, there's no way he could be out of our range by now.
+[00:05:41.877 --> 00:05:43.637] WESLEY: We've been sweeping the area constantly, Commander.
+[00:05:43.637 --> 00:05:45.157] WESLEY: There's nothing within sensor range.
+[00:05:46.597 --> 00:05:47.497] PICARD: A cloaking device?
+[00:05:47.497 --> 00:05:47.797] WORF: Sir,
+[00:05:48.117 --> 00:05:50.197] WORF: the Angosians have no cloaking technology.
+[00:05:50.757 --> 00:05:51.877] RIKER: Unless he's borrowing one.
+[00:05:53.237 --> 00:05:56.597] RIKER: If he's hanging over the planet's pole, the magnetic field would confuse our sensors.
+[00:05:57.797 --> 00:06:01.397] DATA: Commander, I believe I can recalibrate our sensors
+[00:06:01.796 --> 00:06:04.676] DATA: to read through the electromagnetic interference over the poles.
+[00:06:05.316 --> 00:06:06.436] RIKER: Let's try it. Mister Crusher,
+[00:06:06.756 --> 00:06:07.796] RIKER: realign for polar orbit.
+[00:06:08.916 --> 00:06:09.316] WESLEY: Aye, sir.
+[00:06:14.356 --> 00:06:14.996] DATA: There he is, Commander.
+[00:06:15.156 --> 00:06:15.796] DATA: You were correct.
+[00:06:16.356 --> 00:06:17.476] RIKER: This guy knows all the tricks, doesn't he.
+[00:06:18.116 --> 00:06:20.036] DATA: There are still no life form readings coming from the vessel.
+[00:06:20.756 --> 00:06:22.276] LAFORGE: Could it be the magnetic interference, Data?
+[00:06:23.076 --> 00:06:23.876] DATA: I have compensated.
+[00:06:24.036 --> 00:06:24.676] DATA: Still no readings.
+[00:06:25.076 --> 00:06:26.116] PICARD: We'll have an answer shortly.
+[00:06:26.276 --> 00:06:27.796] PICARD: Lock on tractor beam, Mister La Forge.
+[00:06:28.276 --> 00:06:29.716] LAFORGE: Tractor beam locking on, sir.
+[00:06:36.516 --> 00:06:37.236] DATA: He is coming about, sir.
+[00:06:38.116 --> 00:06:39.236] RIKER: He's out of his mind!
+[00:06:39.476 --> 00:06:42.276] WORF: Sensors detect a massive power build up in his aft thrusters.
+[00:06:42.756 --> 00:06:43.236] PICARD: On main viewer.
+[00:06:45.476 --> 00:06:45.556] LAFORGE: He's
+[00:06:48.916 --> 00:06:50.196] LAFORGE: making a suicide run.
+[00:06:50.916 --> 00:06:52.436] DATA: Shields have been automatically activated.
+[00:06:52.596 --> 00:06:53.796] DATA: Tractor beam disengaged.
+[00:06:57.156 --> 00:06:57.476] WESLEY: He
+[00:06:59.636 --> 00:07:00.676] WESLEY: bounced off the shields.
+[00:07:02.036 --> 00:07:03.583] RIKER: That's an interesting twist.
+[00:07:03.583 --> 00:07:04.356] PICARD: Mister Crusher,
+[00:07:04.916 --> 00:07:06.516] PICARD: fix coordinates onto that vessel.
+[00:07:06.676 --> 00:07:08.916] PICARD: We'll just beam the whole thing to a shuttlebay if we have to.
+[00:07:08.916 --> 00:07:11.236] DATA: I do not believe that will be necessary, Captain.
+[00:07:11.876 --> 00:07:13.316] DATA: He is no longer in the drive section.
+[00:07:15.076 --> 00:07:15.236] PICARD: What?
+[00:07:16.036 --> 00:07:19.476] DATA: I anticipated that diversionary tactic based on his pattern to date.
+[00:07:19.956 --> 00:07:24.836] DATA: We are picking up a cylindrical object approximately seven metres in length and three metres in diameter.
+[00:07:25.716 --> 00:07:26.116] WORF: On screen.
+[00:07:27.956 --> 00:07:28.516] PICARD: Magnify.
+[00:07:31.876 --> 00:07:32.516] WESLEY: An escape pod.
+[00:07:33.476 --> 00:07:34.436] LAFORGE: This guy's incredible.
+[00:07:35.100 --> 00:07:37.100] DATA: Yet there are still no life form readings.
+[00:07:37.740 --> 00:07:44.220] PICARD: Transporter room four, prepare to beam aboard from inside that shuttle anything large enough to be a humanoid adult.
+[00:07:44.780 --> 00:07:45.180] O'BRIEN: Aye, sir.
+[00:07:45.980 --> 00:07:48.220] WORF: Security team, report to transporter room four.
+[00:07:48.940 --> 00:07:49.420] SECURITY: On our way, sir.
+[00:07:50.540 --> 00:07:53.260] O'BRIEN: We're holding the contents in stasis pending arrival of security.
+[00:07:54.460 --> 00:07:56.940] O'BRIEN: An illicit weapon has been detected in the transport beam, sir.
+[00:07:57.820 --> 00:07:58.940] O'BRIEN: It's been rendered inoperable.
+[00:07:59.580 --> 00:08:01.100] RIKER: Work, let's greet our guest.
+[00:08:06.940 --> 00:08:07.820] SECURITY: Bring him in, Mister O'Brien.
+[00:08:13.980 --> 00:08:15.180] SECURITY: Just stay where you are.
+[00:08:17.180 --> 00:08:21.420] O'BRIEN: More security, transporter room four.
+[00:08:22.300 --> 00:08:23.180] O'BRIEN: More security!
+[00:08:23.820 --> 00:08:24.780] O'BRIEN: More security!
+[00:09:17.373 --> 00:09:18.493] RIKER: Get him to a detention cell.
+[00:09:19.133 --> 00:09:20.813] RIKER: Set phasers on maximum stun.
+[00:09:24.573 --> 00:09:25.053] O'BRIEN: Commander.
+[00:09:36.094 --> 00:09:40.493] NAYROK: We'll need a few hours to get the containment field on Lunar Five operational before we pick him up.
+[00:09:41.214 --> 00:09:43.533] NAYROK: The damage he did during his escape was considerable.
+[00:09:43.853 --> 00:09:45.533] PICARD: We will await your signal.
+[00:09:46.094 --> 00:09:47.293] NAYROK: I appreciate your patience.
+[00:09:47.853 --> 00:09:52.974] NAYROK: The prison psychologist recommends that you keep Danar fully sedated until he's ready for transport.
+[00:09:54.733 --> 00:09:57.373] PICARD: Well, he's in our highest security detention area.
+[00:09:58.094 --> 00:09:59.373] PICARD: There shouldn't be any more problems.
+[00:09:59.933 --> 00:10:02.574] NAYROK: Do not relax your security for an instant, Captain.
+[00:10:02.813 --> 00:10:05.933] NAYROK: He is extremely violent and very cunning, as you already know.
+[00:10:06.653 --> 00:10:10.013] NAYROK: I will send a transport vessel to pick him up as soon as possible. Nayrok out.
+[00:10:11.293 --> 00:10:12.813] RIKER: Have you run a diagnostic on the sensors, Data?
+[00:10:13.133 --> 00:10:13.453] DATA: Yes, sir.
+[00:10:13.933 --> 00:10:15.693] DATA: There is nothing wrong with the ship's sensors.
+[00:10:16.013 --> 00:10:21.214] DATA: The reason we did not sense life signs aboard the escape vessel is because the prisoner has no life signs.
+[00:10:23.133 --> 00:10:26.094] RIKER: Computer, identify the occupant of the detention cell.
+[00:10:26.574 --> 00:10:28.733] COMPUTER: The detention cell is vacant at this time.
+[00:10:29.933 --> 00:10:30.413] RIKER: He's in there.
+[00:10:31.232 --> 00:10:32.512] PICARD: Could he be some kind of android?
+[00:10:33.072 --> 00:10:35.312] DATA: Our sensors can identify artificial lifeforms, sir.
+[00:10:36.112 --> 00:10:38.112] DATA: Apparently, he is capable of deceiving the sensors.
+[00:11:22.032 --> 00:11:22.592] TROI: Are you all right?
+[00:11:27.232 --> 00:11:27.952] ROGA: What is this ship?
+[00:11:30.352 --> 00:11:31.952] TROI: You're on board the USS Enterprise.
+[00:11:33.152 --> 00:11:33.712] ROGA: A war vessel?
+[00:11:35.472 --> 00:11:36.672] TROI: A Federation starship.
+[00:11:39.632 --> 00:11:40.352] ROGA: Federation!
+[00:11:42.272 --> 00:11:46.112] TROI: We were orbiting Angosia when you escaped from Lunar Five.
+[00:11:52.192 --> 00:11:54.352] ROGA: It seems that I am a victim of my own bad timing.
+[00:12:07.392 --> 00:12:09.552] ROGA: And you are the keeper of this jail?
+[00:12:11.552 --> 00:12:13.392] TROI: I'm Deanna Troi, ship's Counsellor.
+[00:12:14.672 --> 00:12:15.152] ROGA: Counsellor?
+[00:12:16.512 --> 00:12:16.992] ROGA: Too bad.
+[00:12:18.032 --> 00:12:20.672] ROGA: I'd rather you were a jailer to keep me company during my return trip.
+[00:12:22.592 --> 00:12:24.432] ROGA: I assume we are returning to Lunar Five.
+[00:12:28.592 --> 00:12:29.632] TROI: That terrifies you.
+[00:12:30.672 --> 00:12:32.672] ROGA: I just killed three men to get out of there, Counsellor, and
+[00:12:33.792 --> 00:12:35.632] ROGA: I'm fully capable of killing you as well.
+[00:12:38.672 --> 00:12:39.952] ROGA: That's terrifying thought, isn't it?
+[00:12:39.952 --> 00:12:40.592] ROGA: Even to me.
+[00:12:42.992 --> 00:12:44.192] TROI: Do they mistreat you there?
+[00:12:45.312 --> 00:12:46.672] ROGA: Not at all.
+[00:12:47.232 --> 00:12:49.472] ROGA: I am comfortable, well fed and housed.
+[00:12:50.512 --> 00:12:53.232] ROGA: Oh no, the Angosians take good care of their prisoners.
+[00:12:53.392 --> 00:12:55.312] ROGA: It's simply a matter of never being able to leave.
+[00:12:58.832 --> 00:12:59.712] ROGA: What about you, Counsellor?
+[00:12:59.792 --> 00:12:59.872] ROGA: Do
+[00:13:01.712 --> 00:13:02.912] ROGA: you always visit the prisoners?
+[00:13:02.992 --> 00:13:11.872] ROGA: Are you a specialist in criminal behaviour? Or am I just an interesting specimen that landed on your ship like an insect to be studied under your microscope?
+[00:13:13.232 --> 00:13:15.152] TROI: Why do you have all this anger toward me?
+[00:13:18.112 --> 00:13:21.952] ROGA: A girl with long dark hair broke my heart a long time ago.
+[00:13:23.728 --> 00:13:26.288] ROGA: Out of bitterness and resentment,
+[00:13:28.128 --> 00:13:29.008] ROGA: I turned to crime.
+[00:13:29.158 --> 00:13:29.758] ROGA: How
+[00:13:35.168 --> 00:13:35.728] ROGA: about this one?
+[00:13:37.408 --> 00:13:39.328] ROGA: My mother abandoned me when I was a little boy.
+[00:13:40.528 --> 00:13:42.608] ROGA: I never got the guidance that a wild young man needed.
+[00:13:43.888 --> 00:13:45.008] TROI: Why are you doing this?
+[00:13:45.568 --> 00:13:48.128] ROGA: Playing games? Isn't that what you do, Counsellor?
+[00:13:49.488 --> 00:13:51.888] ROGA: Isn't that what all of you mind control experts do?
+[00:13:52.368 --> 00:13:54.368] TROI: I am not a mind control expert.
+[00:13:55.408 --> 00:13:57.568] TROI: I came here because I sensed you were in pain.
+[00:13:59.248 --> 00:14:00.208] ROGA: And what do you sense now?
+[00:14:03.488 --> 00:14:04.208] TROI: The pain is gone.
+[00:14:07.728 --> 00:14:09.328] ROGA: It's interesting, isn't it?
+[00:14:11.488 --> 00:14:13.968] TROI: There's a duality in the man.
+[00:14:14.208 --> 00:14:15.328] TROI: It's hard to describe.
+[00:14:15.568 --> 00:14:17.088] TROI: He's aware of his crimes.
+[00:14:17.248 --> 00:14:19.328] TROI: In fact, they trouble him deeply.
+[00:14:19.488 --> 00:14:19.968] PICARD: Counsellor.
+[00:14:20.128 --> 00:14:23.648] TROI: He's intelligent, thoughtful, typically Angosian.
+[00:14:25.248 --> 00:14:32.448] TROI: I know what he's done, but when I'm with him I cannot believe he is randomly and deliberately violent.
+[00:14:32.608 --> 00:14:36.208] TROI: in fact, inherently, he has a non-violent personality.
+[00:14:36.768 --> 00:14:41.808] PICARD: Counsellor, it took five men to restrain him and he took apart half of the Transporter Room in the process.
+[00:14:42.368 --> 00:14:44.688] TROI: I'm not opening the door for him, Captain.
+[00:14:45.408 --> 00:14:49.568] TROI: I can only tell you that I sense something very unusual about him.
+[00:14:50.688 --> 00:14:53.968] TROI: Something that is not inherent to a criminal personality.
+[00:14:54.368 --> 00:14:56.528] PICARD: In a few hours, I'll be turning him over to the Angosians,
+[00:14:56.826 --> 00:14:58.026] PICARD: and I'll be happy to do it.
+[00:15:01.146 --> 00:15:01.866] TROI: I understand.
+[00:15:12.186 --> 00:15:16.026] TROI: Data, do we have a link up to the Angosian central computer?
+[00:15:16.506 --> 00:15:16.986] DATA: Yes, Counsellor.
+[00:15:17.626 --> 00:15:21.706] DATA: We are copying records for Federation inspection pursuant to their application for admittance.
+[00:15:22.346 --> 00:15:24.506] TROI: Can I see a police record on Roga Danar?
+[00:15:27.946 --> 00:15:30.586] DATA: There is no police record.
+[00:15:31.626 --> 00:15:32.346] TROI: That's impossible.
+[00:15:32.346 --> 00:15:33.146] TROI: He's been in prison.
+[00:15:34.026 --> 00:15:36.186] DATA: Lunar Five is a military prison facility.
+[00:15:37.066 --> 00:15:37.866] TROI: Military?
+[00:15:38.906 --> 00:15:39.786] TROI: He's a soldier ?
+[00:15:41.546 --> 00:15:45.546] DATA: That may provide an explanation for the tactics he was able to use against us when we tried to capture him.
+[00:15:48.426 --> 00:15:50.506] TROI: It doesn't say here what he was arrested for.
+[00:15:52.106 --> 00:15:53.706] TROI: Call up his military record.
+[00:15:56.666 --> 00:15:59.306] DATA: He served in many campaigns during the Tarsian War,
+[00:15:59.626 --> 00:16:01.626] DATA: received two promotions, to the rank of Subhadar.
+[00:16:02.426 --> 00:16:03.946] DATA: A very honourable tour of duty
+[00:16:04.986 --> 00:16:08.026] TROI: What was this man's crime?
+[00:16:08.106 --> 00:16:08.346] TROI: I've
+[00:16:22.346 --> 00:16:23.546] TROI: learned you are a soldier.
+[00:16:24.746 --> 00:16:25.466] ROGA: I was a soldier.
+[00:16:25.466 --> 00:16:28.586] TROI: Why were you put in prison?
+[00:16:28.666 --> 00:16:30.746] ROGA: Obviously, because I am a threat to society.
+[00:16:31.376 --> 00:16:32.736] TROI: There's no police record.
+[00:16:34.016 --> 00:16:34.576] TROI: What did you do?
+[00:16:35.856 --> 00:16:37.056] ROGA: Everything they asked me to do.
+[00:16:38.016 --> 00:16:39.296] ROGA: That's why I became such a threat.
+[00:16:40.576 --> 00:16:41.696] TROI: I don't understand.
+[00:16:42.176 --> 00:16:43.776] ROGA: Why are you bothering to try, Counsellor?
+[00:16:44.496 --> 00:16:46.176] TROI: Because I want to help, if I can.
+[00:16:47.136 --> 00:16:47.856] ROGA: Unlock the door.
+[00:16:51.696 --> 00:16:57.536] TROI: You are a non-violent man, yet you committed acts of excessive violence.
+[00:16:59.296 --> 00:17:00.736] ROGA: You can learn to do it if you have to.
+[00:17:02.256 --> 00:17:02.976] TROI: Did you have to?
+[00:17:03.376 --> 00:17:04.016] ROGA: It was war.
+[00:17:05.376 --> 00:17:06.816] TROI: So it started with the war?
+[00:17:07.056 --> 00:17:09.056] ROGA: It started the day I volunteered, Counsellor.
+[00:17:10.176 --> 00:17:11.296] ROGA: The day I began training.
+[00:17:11.296 --> 00:17:12.976] ROGA: The day I met my first instructor.
+[00:17:12.976 --> 00:17:15.916] ROGA: And he also called himself a counsellor.
+[00:17:15.916 --> 00:17:16.336] TROI: Roga
+[00:17:26.096 --> 00:17:32.096] TROI: Danar was an idealistic young man who answered his people's call to service.
+[00:17:32.816 --> 00:17:36.016] TROI: He joined the military to fight for the Angosian way of life.
+[00:17:36.736 --> 00:17:41.536] TROI: What he didn't realise was that by doing so he would have to give up that way of life for ever.
+[00:17:42.416 --> 00:17:44.976] TROI: He's not the same man who left home to go to war.
+[00:17:45.456 --> 00:17:50.896] TROI: He's been through intense psychological manipulation and biochemical modifications.
+[00:17:51.536 --> 00:17:53.136] CRUSHER: At Troi's request I examined him.
+[00:17:53.376 --> 00:17:55.776] CRUSHER: His cell structure has been significantly altered.
+[00:17:56.256 --> 00:18:01.536] CRUSHER: They used a combination of cryptobiolin, triclenidil, macrospentol and a few things I can't even recognise.
+[00:18:02.176 --> 00:18:03.216] RIKER: Was he a prisoner of war?
+[00:18:03.456 --> 00:18:04.176] RIKER: Who did this to him?
+[00:18:04.816 --> 00:18:05.376] TROI: His own
+[00:18:05.468 --> 00:18:06.028] TROI: government.
+[00:18:06.908 --> 00:18:09.308] TROI: He's been programmed to be the perfect soldier.
+[00:18:09.628 --> 00:18:15.868] TROI: He can be absolutely normal, but when a danger is perceived, the programming clicks in and takes over.
+[00:18:16.668 --> 00:18:21.868] TROI: Memory, strength, intelligence, reflexes, all become enhanced.
+[00:18:22.188 --> 00:18:24.668] TROI: He's conditioned to survive at any cost.
+[00:18:25.468 --> 00:18:29.708] CRUSHER: One of the new substances in his cellular structure even shields electrical impulses.
+[00:18:30.668 --> 00:18:33.228] DATA: Perhaps that would explain why our sensors did not detect him.
+[00:18:34.828 --> 00:18:37.228] PICARD: Why was he assigned to the Lunar Five facility?
+[00:18:38.348 --> 00:18:39.548] TROI: He committed no crime.
+[00:18:40.428 --> 00:18:42.668] TROI: He says he was ordered there with others like him.
+[00:18:43.148 --> 00:18:46.108] TROI: When the first soldiers returned to Angosia, they had trouble.
+[00:18:47.228 --> 00:18:49.228] TROI: The rules changed too quickly.
+[00:18:49.228 --> 00:18:51.708] TROI: A lost temper could result in murder.
+[00:18:52.348 --> 00:18:55.468] DATA: Counsellor, did no one try to adjust their programming?
+[00:18:57.068 --> 00:18:58.748] TROI: They were just exiled to Lunar Five.
+[00:19:00.108 --> 00:19:00.748] PICARD: Lunar Five, an
+[00:19:02.828 --> 00:19:04.188] PICARD: orbiting gulag.
+[00:19:14.108 --> 00:19:14.668] ROGA: What do you want?
+[00:19:16.028 --> 00:19:16.748] DATA: Am I disturbing you?
+[00:19:16.828 --> 00:19:17.308] ROGA: Yes.
+[00:19:18.028 --> 00:19:18.668] DATA: Then I will leave.
+[00:19:19.308 --> 00:19:19.948] ROGA: NO. Wait, wait.
+[00:19:21.068 --> 00:19:22.108] ROGA: I'd rather talk to someone.
+[00:19:22.108 --> 00:19:22.268] ROGA: Why
+[00:19:24.108 --> 00:19:27.068] ROGA: do you have yellow eyes?
+[00:19:27.628 --> 00:19:28.348] DATA: I am an android.
+[00:19:29.788 --> 00:19:31.388] DATA: I believe you and I have something in common.
+[00:19:31.788 --> 00:19:32.268] ROGA: We do?
+[00:19:32.668 --> 00:19:33.068] DATA: Yes.
+[00:19:33.708 --> 00:19:34.828] DATA: We have both been programmed.
+[00:19:36.112 --> 00:19:37.232] ROGA: Ah, yes, yes.
+[00:19:37.232 --> 00:19:38.672] ROGA: You've been talking to Counsellor Troi.
+[00:19:40.352 --> 00:19:41.792] ROGA: It is not at all the same, android.
+[00:19:43.152 --> 00:19:44.752] DATA: I do not mean to belittle your condition.
+[00:19:45.072 --> 00:19:48.432] DATA: I understand your dilemma. But I am curious.
+[00:19:49.072 --> 00:19:50.352] DATA: My programme can be altered.
+[00:19:51.392 --> 00:19:52.032] DATA: Yours cannot?
+[00:19:52.112 --> 00:20:03.552] ROGA: The man I was is still inside me, but this conditioning has been imposed. Woven together with my thoughts and my feelings and my responses.
+[00:20:04.592 --> 00:20:06.432] ROGA: How do you separate the programme from the man?
+[00:20:07.872 --> 00:20:14.352] DATA: Without further analysis of your condition from Counsellor Troi or Doctor Crusher, I cannot say. But I believe it is possible.
+[00:20:14.512 --> 00:20:15.472] ROGA: Yeah, doctors!
+[00:20:17.152 --> 00:20:19.232] ROGA: The Angosian doctors did this to me.
+[00:20:21.872 --> 00:20:23.712] ROGA: If it could be undone, wouldn't they undo it?
+[00:20:25.312 --> 00:20:26.192] DATA: I cannot answer that.
+[00:20:27.072 --> 00:20:29.472] ROGA: Nor can I,
+[00:20:31.952 --> 00:20:35.152] ROGA: yet I ask myself that question every moment of every day.
+[00:20:38.032 --> 00:20:38.272] NAYROK: Captain,
+[00:20:38.272 --> 00:20:40.512] NAYROK: what this man has been telling you is full of half-truths.
+[00:20:40.592 --> 00:20:41.072] NAYROK: He's a prisoner.
+[00:20:41.072 --> 00:20:42.512] NAYROK: What do you expect him to say about us?
+[00:20:43.152 --> 00:20:44.992] PICARD: Well, perhaps you would clarify it for me.
+[00:20:46.032 --> 00:20:48.112] NAYROK: The soldiers were resettled on Lunar Five.
+[00:20:48.192 --> 00:20:49.472] NAYROK: It was to be their colony.
+[00:20:50.672 --> 00:20:52.992] PICARD: Was it a resettlement of their choosing?
+[00:20:53.392 --> 00:20:55.552] NAYROK: It was for their own protection as well as that of others.
+[00:20:56.032 --> 00:20:57.152] NAYROK: Most of them were quite happy there.
+[00:20:57.152 --> 00:20:59.632] NAYROK: We went to great lengths to give them a fine quality of life.
+[00:21:01.232 --> 00:21:01.552] PICARD: Prime Minister,
+[00:21:01.977 --> 00:21:04.777] PICARD: even the most comfortable prison is a prison.
+[00:21:05.337 --> 00:21:09.097] NAYROK: Unfortunately, a few agitators like Danar forced us to add security.
+[00:21:10.937 --> 00:21:15.017] PICARD: My medical team suggests there may be alternative treatment.
+[00:21:15.497 --> 00:21:22.377] NAYROK: Captain, I assure you that every alternative has been explored. And this discussion is now treading upon matters of internal security,
+[00:21:23.177 --> 00:21:23.977] NAYROK: which is not your concern.
+[00:21:24.777 --> 00:21:28.697] NAYROK: I have dispatched a ship to rendezvous with you to transport the prisoner back to Lunar Five.
+[00:21:29.577 --> 00:21:33.977] NAYROK: On behalf of Angosia, I thank the Federation for its assistance in retrieving our citizen.
+[00:21:39.657 --> 00:21:41.177] PICARD: Matter of internal security.
+[00:21:41.977 --> 00:21:44.697] PICARD: The age-old cry of the oppressor.
+[00:21:47.177 --> 00:21:48.697] ROGA: Were you built for combat, android?
+[00:21:48.697 --> 00:21:49.497] DATA: No.
+[00:21:50.057 --> 00:21:52.297] DATA: But my programme does include military strategy.
+[00:21:52.777 --> 00:21:55.657] DATA: That is how I was able to anticipate your final tactic and capture you.
+[00:21:56.617 --> 00:21:57.257] ROGA: You did that?
+[00:21:58.617 --> 00:22:00.377] ROGA: Perhaps you would be better at combat than you think.
+[00:22:01.337 --> 00:22:03.017] DATA: Except that I am not programmed to kill.
+[00:22:05.657 --> 00:22:15.017] ROGA: My improved reflexes have allowed me to kill eighty four times. And my improved memory lets me remember each of those eighty four faces.
+[00:22:15.177 --> 00:22:18.537] ROGA: Can you understand how that feels?
+[00:22:19.177 --> 00:22:21.737] DATA: I am incapable of any feeling.
+[00:22:22.537 --> 00:22:25.737] ROGA: Why, then I envy you.
+[00:22:31.017 --> 00:22:32.617] TROI: Roga, this is Captain Picard.
+[00:22:33.337 --> 00:22:33.737] ROGA: Captain.
+[00:22:33.817 --> 00:22:36.217] PICARD: Mister Danar,
+[00:22:36.540 --> 00:22:38.540] PICARD: I'm transferring you to Angosian security.
+[00:22:39.100 --> 00:22:40.460] PICARD: They're en route. They will arrive shortly.
+[00:22:41.020 --> 00:22:43.900] PICARD: I wanted to tell you I have no choice.
+[00:22:44.620 --> 00:22:47.420] PICARD: The Prime Minister insisted and we have no right to refuse.
+[00:22:48.380 --> 00:22:50.620] ROGA: You would be foolish to consider it otherwise, Captain,
+[00:22:50.780 --> 00:22:51.740] ROGA: for they are very correct.
+[00:22:53.020 --> 00:22:53.980] ROGA: I am dangerous.
+[00:22:55.100 --> 00:22:58.300] ROGA: There is no place for me in a civilised society.
+[00:22:58.860 --> 00:22:59.740] TROI: I do not believe that.
+[00:23:00.300 --> 00:23:00.860] DATA: Nor do I.
+[00:23:03.340 --> 00:23:04.780] PICARD: I respect my officers' judgements.
+[00:23:05.820 --> 00:23:06.940] PICARD: I wish I could help further.
+[00:23:07.100 --> 00:23:08.380] PICARD: If a way appears to me, I will.
+[00:23:09.340 --> 00:23:11.260] ROGA: I appreciate your telling me that face to face.
+[00:23:11.900 --> 00:23:13.100] PICARD: I thought you deserved that much.
+[00:23:13.740 --> 00:23:16.860] ROGA: And you deserve to know that I must use whatever means I can to escape.
+[00:23:18.540 --> 00:23:21.420] WORF: Captain, the Angosian transport vessel has arrived.
+[00:23:23.020 --> 00:23:24.700] PICARD: Inform them the transfer will take place shortly.
+[00:23:24.700 --> 00:23:25.260] PICARD: Picard out.
+[00:23:27.660 --> 00:23:28.620] PICARD: Mister Data, to the Bridge please.
+[00:23:31.340 --> 00:23:32.620] ROGA: Take care of yourself, android.
+[00:23:33.900 --> 00:23:35.180] ROGA: I enjoyed our talk.
+[00:23:36.700 --> 00:23:37.180] DATA: I too.
+[00:23:44.060 --> 00:23:47.260] TROI: Perhaps when this planet becomes a member of the Federation, we'll be able
+[00:23:47.260 --> 00:23:48.780] ROGA: I will not be there to see it, Counsellor.
+[00:23:50.620 --> 00:23:54.620] ROGA: Because even with this overwhelming demand to survive that they've built into my soul,
+[00:23:56.780 --> 00:23:58.700] ROGA: I would rather die than return to Lunar Five.
+[00:24:14.861 --> 00:24:16.621] WAGNOR: Captain Picard, we're ready to receive the prisoner.
+[00:24:17.021 --> 00:24:18.861] WAGNOR: Now transmitting the coordinates of our holding cell.
+[00:24:21.341 --> 00:24:22.301] DATA: Coordinates received, sir.
+[00:24:23.021 --> 00:24:23.981] PICARD: Stand by for transport.
+[00:24:24.221 --> 00:24:24.701] PICARD: Picard out.
+[00:24:27.181 --> 00:24:29.261] PICARD: Mister Worf, have all security precautions been taken?
+[00:24:29.821 --> 00:24:33.661] WORF: Release of the force field and activation of the transporter will be virtually simultaneous.
+[00:24:33.981 --> 00:24:36.541] WORF: There will only be a point one second difference between them.
+[00:24:37.181 --> 00:24:38.781] RIKER: Even Danar can't move that fast.
+[00:24:39.341 --> 00:24:41.661] WORF: There will be a full security contingent present.
+[00:24:42.621 --> 00:24:42.941] PICARD: Proceed.
+[00:24:53.181 --> 00:24:54.941] O'BRIEN: Transporter room one to Lieutenant Worf.
+[00:24:55.181 --> 00:24:55.661] O'BRIEN: We're ready, sir.
+[00:24:56.701 --> 00:24:57.261] O'BRIEN: Energising.
+[00:25:04.381 --> 00:25:07.701] WORF: O'Brien, increase transporter power.
+[00:25:07.741 --> 00:25:10.221] O'BRIEN: I'm losing him.
+[00:25:11.181 --> 00:25:11.181] TROI: Roga, don't!
+[00:25:13.181 --> 00:25:14.301] TROI: You'll be killed!
+[00:25:15.021 --> 00:25:15.261] O'BRIEN: What the
+[00:25:18.941 --> 00:25:19.181] O'BRIEN: hell?
+[00:25:31.825 --> 00:25:33.105] RIKER: Security personnel, full alert.
+[00:25:33.185 --> 00:25:35.665] RIKER: Shut down all shuttlebays, transporters, and turbolifts.
+[00:25:35.985 --> 00:25:37.585] WORF: Captain, a phaser is missing.
+[00:25:37.745 --> 00:25:39.025] WORF: We must assume that he is armed.
+[00:25:42.705 --> 00:25:43.585] PICARD: Sound general quarters.
+[00:25:43.905 --> 00:25:46.065] PICARD: Clear corridors of all non-essential personnel.
+[00:25:46.945 --> 00:25:48.305] PICARD: I don't want him taking any hostages.
+[00:25:48.865 --> 00:25:49.905] DATA: General quarters sounded, sir.
+[00:25:50.305 --> 00:25:54.145] PICARD: Raise security containment fields immediately on decks thirty four, thirty five, and thirty six.
+[00:25:54.625 --> 00:25:54.945] SECURITY: Aye, sir.
+[00:25:55.265 --> 00:25:57.185] RIKER: Data, put the turbolifts back online.
+[00:25:58.305 --> 00:25:59.265] RIKER: If Danar sees they're operating, he
+[00:25:59.265 --> 00:25:59.985] RIKER: may try to use them. Soon
+[00:25:59.985 --> 00:26:00.625] RIKER: as he does,
+[00:26:00.865 --> 00:26:01.185] RIKER: we have him.
+[00:26:31.105 --> 00:26:34.378] DATA: Sir, unauthorised access of turbolift five on deck thirty four.
+[00:26:34.378 --> 00:26:34.705] RIKER: He
+[00:26:35.825 --> 00:26:36.545] RIKER: took the bait.
+[00:26:36.865 --> 00:26:38.305] PICARD: Data, override its destination.
+[00:26:38.545 --> 00:26:42.225] PICARD: Divert that turbolift to a position near Lieutenant Worf's present location.
+[00:26:43.745 --> 00:26:44.785] DATA: Four seconds to arrival, sir.
+[00:26:49.025 --> 00:26:49.585] WORF: We're in position.
+[00:26:53.665 --> 00:26:56.065] WORF: Phaser on overload!
+[00:26:56.225 --> 00:26:56.705] WORF: Seal this deck.
+[00:26:57.203 --> 00:26:57.203] WORF: Captain, the
+[00:27:10.243 --> 00:27:11.283] WORF: overload has been averted.
+[00:27:21.283 --> 00:27:21.843] ROGA: Drop
+[00:27:25.603 --> 00:27:27.043] ROGA: force field on deck thirty six.
+[00:27:33.523 --> 00:27:36.163] DATA: Sir, containment field down on deck thirty six.
+[00:27:36.483 --> 00:27:37.603] RIKER: How the hell did he manage that?
+[00:27:38.163 --> 00:27:39.203] PICARD: He's headed for Engineering.
+[00:27:40.163 --> 00:27:41.123] RIKER: Riker to La Forge.
+[00:27:43.123 --> 00:27:44.083] RIKER: Engineering, respond.
+[00:27:45.443 --> 00:27:45.923] RIKER: Engineering!.
+[00:27:47.043 --> 00:27:47.843] RIKER: Engineering, come in!
+[00:27:49.843 --> 00:27:50.963] RIKER: Geordi, are you okay?
+[00:28:01.203 --> 00:28:05.283] DATA: Captain, someone in Engineering is attempting to override the security system lockout.
+[00:28:05.923 --> 00:28:06.483] RIKER: Riker to Worf,
+[00:28:07.283 --> 00:28:08.003] RIKER: he's in Engineering.
+[00:28:08.723 --> 00:28:09.443] WORF: Acknowledged, Commander.
+[00:28:09.443 --> 00:28:10.083] WORF: We're on our way.
+[00:28:12.083 --> 00:28:13.603] PICARD: Data, I want you to stall Danar.
+[00:28:13.763 --> 00:28:14.963] PICARD: Allow him to think he's succeeding.
+[00:28:16.003 --> 00:28:19.523] DATA: As he bypasses each subsystem, I can re-route it without his knowledge.
+[00:28:20.243 --> 00:28:20.723] PICARD: Make it so.
+[00:28:26.449 --> 00:28:28.049] DATA: Danar is extremely adept,
+[00:28:28.769 --> 00:28:31.489] DATA: sir. I am not certain which security measure he is attempting to circumvent.
+[00:28:33.169 --> 00:28:33.409] DATA: Sir,
+[00:28:34.209 --> 00:28:36.689] DATA: Danar has succeeded in restoring power to shuttlebay two.
+[00:28:57.169 --> 00:29:00.769] DATA: I have overridden Danar's bypass.
+[00:29:01.249 --> 00:29:03.409] DATA: Shuttlebay two is once again inactive.
+[00:29:04.209 --> 00:29:05.009] PICARD: Very good, Mister Data.
+[00:29:05.809 --> 00:29:06.609] PICARD: Now we know where he's headed.
+[00:29:24.209 --> 00:29:25.249] WORF: Geordi!
+[00:29:28.689 --> 00:29:29.089] LAFORGE: I'm all right.
+[00:29:31.249 --> 00:29:32.609] LAFORGE: He took us by surprise.
+[00:29:33.569 --> 00:29:34.529] LAFORGE: He came out of nowhere.
+[00:29:35.249 --> 00:29:37.667] LAFORGE: I didn't think anyone could move that fast.
+[00:29:37.667 --> 00:29:37.969] DATA: Lieutenant,
+[00:29:38.289 --> 00:29:39.409] DATA: I am reading an open panel.
+[00:29:39.809 --> 00:29:41.889] DATA: K twelve, J nine, deck thirty.
+[00:29:42.289 --> 00:29:42.849] WORF: Acknowledged.
+[00:29:43.489 --> 00:29:45.969] LAFORGE: Danar must have climbed up the reactor core and got into a Jefferies tube.
+[00:29:47.809 --> 00:29:48.609] LAFORGE: He could be anywhere.
+[00:29:49.489 --> 00:29:51.489] WORF: We believe he is attempting to reach shuttlebay two.
+[00:29:52.049 --> 00:29:53.569] LAFORGE: That's twenty five decks up from here.
+[00:29:54.289 --> 00:29:55.969] LAFORGE: Quite a climb, but I wouldn't put it past him.
+[00:29:56.289 --> 00:29:58.849] WORF: There is a full contingent of security at all shuttlebays.
+[00:29:59.249 --> 00:30:00.289] LAFORGE: You want my advice?
+[00:30:01.083 --> 00:30:01.483] LAFORGE: Double it!
+[00:30:13.323 --> 00:30:13.643] DATA: Captain,
+[00:30:14.123 --> 00:30:15.563] DATA: reading another open access panel.
+[00:30:18.363 --> 00:30:20.923] PICARD: Security team to Jefferies tube J four, deck fifteen.
+[00:30:21.483 --> 00:30:22.363] SECURITY: Security acknowledged.
+[00:30:23.403 --> 00:30:24.763] RIKER: Deck
+[00:30:28.523 --> 00:30:30.603] RIKER: fifteen, a few decks below the shuttlebay.
+[00:30:31.563 --> 00:30:36.123] DATA: Sir, I find it highly unlikely that Danar would be attempting to reach shuttlebay two.
+[00:30:36.523 --> 00:30:36.843] PICARD: Explain.
+[00:30:37.403 --> 00:30:42.683] DATA: In our previous encounter, Danar employed a strategy of misdirection in an attempt to gain his objective.
+[00:30:43.243 --> 00:30:44.843] PICARD: And you believe he's using the same tactic now.
+[00:30:45.563 --> 00:30:50.523] DATA: He is aware that our sensors are unable to track him, yet he seems to be purposely leaving a trail for us to follow.
+[00:30:51.403 --> 00:30:52.203] RIKER: Where do you think he's headed?
+[00:30:53.003 --> 00:30:55.403] DATA: I am afraid his true destination remains a mystery.
+[00:31:02.923 --> 00:31:08.843] DATA: Readings now indicate an open access panel in Jeffries tube N eleven, deck thirty eight.
+[00:31:09.963 --> 00:31:10.683] PICARD: He's doubled back on us.
+[00:31:10.843 --> 00:31:11.643] RIKER: The cargo bays.
+[00:31:13.723 --> 00:31:16.683] PICARD: Advise all personnel on deck thirty eight to stay out of the cargo bays.
+[00:31:34.150 --> 00:31:35.030] PICARD: Status, Mister Data?
+[00:31:36.150 --> 00:31:37.030] DATA: They appear to be empty, sir.
+[00:31:37.590 --> 00:31:37.750] PICARD: Good.
+[00:31:39.750 --> 00:31:41.030] PICARD: I want you to flood them with anestazine.
+[00:31:41.030 --> 00:31:41.190] DATA: Aye,
+[00:31:41.990 --> 00:31:42.310] DATA: sir. Sensors
+[00:32:03.750 --> 00:32:07.750] DATA: show anestazine concentration seventy parts per million within the cargo bays.
+[00:32:08.470 --> 00:32:09.510] RIKER: That should have put our boy to sleep.
+[00:32:10.790 --> 00:32:12.630] PICARD: Return environmental conditions to normal, Mister Data.
+[00:32:13.510 --> 00:32:16.710] PICARD: Move in your security teams, Mister Worf.
+[00:32:17.190 --> 00:32:17.750] WORF: Acknowledged.
+[00:32:18.870 --> 00:32:18.870] WORF: Worf
+[00:32:49.110 --> 00:32:49.590] WORF: to Bridge.
+[00:32:50.390 --> 00:32:51.990] WORF: We have found no sign of the intruder.
+[00:32:52.315 --> 00:32:54.955] WORF: But there is a missing pressure suit From cargo bay three.
+[00:32:55.755 --> 00:32:56.235] PICARD: Pressure suit?
+[00:32:56.875 --> 00:33:01.115] RIKER: Could be he's planning to enter shuttlebay two from outside the Enterprise, bypassing the security guards.
+[00:33:01.995 --> 00:33:06.715] PICARD: Mister Worf, post security guards at all emergency airlocks on decks Thirty seven through thirty nine.
+[00:33:06.715 --> 00:33:07.515] WORF: Aye, sir.
+[00:33:09.915 --> 00:33:11.755] WORF: I'll also cover the photon torpedo launchers.
+[00:33:12.155 --> 00:33:14.235] WORF: Danar may attempt to leave the ship that way.
+[00:33:15.195 --> 00:33:15.595] WORF: Worf out.
+[00:33:31.835 --> 00:33:32.155] WORF: Danar!
+[00:33:35.115 --> 00:33:35.995] WORF: You are cunning.
+[00:33:39.435 --> 00:33:40.795] WORF: You must have Klingon blood.
+[00:33:42.155 --> 00:33:43.115] WORF: But the battle is over.
+[00:33:44.155 --> 00:33:45.355] ROGA: My battle is never over.
+[00:33:47.435 --> 00:33:48.075] WORF: Worf to Bridge.
+[00:33:48.715 --> 00:33:51.915] WORF: I have Danar.
+[00:34:01.995 --> 00:34:04.635] DATA: Explosion in Jefferies tube section T nine five.
+[00:34:04.875 --> 00:34:06.395] DATA: All external sensors inoperative.
+[00:34:06.395 --> 00:34:07.675] RIKER: Go to backup systems.
+[00:34:08.235 --> 00:34:08.635] DATA: Unable to
+[00:34:10.555 --> 00:34:11.435] DATA: transfer control, sir.
+[00:34:52.511 --> 00:34:53.391] ROGA: Sit down, gentlemen.
+[00:35:14.111 --> 00:35:14.751] WORF: Worf to Bridge.
+[00:35:15.151 --> 00:35:15.551] PICARD: Go ahead.
+[00:35:16.191 --> 00:35:17.231] WORF: Danar has escaped.
+[00:35:18.031 --> 00:35:20.191] WORF: He used a phaser to power the cargo transporter.
+[00:35:20.511 --> 00:35:23.071] WORF: Coordinates indicate he beamed aboard the Angosian transport ship.
+[00:35:24.911 --> 00:35:26.031] PICARD: Data, can you verify that?
+[00:35:27.791 --> 00:35:28.271] DATA: Negative, sir.
+[00:35:29.311 --> 00:35:31.231] DATA: All external sensors still nonfunctioning.
+[00:35:33.551 --> 00:35:34.831] PICARD: Then we have no way to track him.
+[00:35:36.591 --> 00:35:37.871] RIKER: That was his plan all along.
+[00:35:45.311 --> 00:35:46.751] LOG: First officer's log, supplemental.
+[00:35:47.391 --> 00:35:51.791] LOG: We are continuing to repair damage to the ship's sensors following the escape of the Angosian prisoner, Danar.
+[00:35:52.431 --> 00:35:53.151] LOG: He is still at large.
+[00:35:54.351 --> 00:35:56.111] RIKER: Engineering, I'm getting readings on Tactical.
+[00:35:56.111 --> 00:35:56.751] RIKER: Are we back up?
+[00:35:56.831 --> 00:35:56.991] LAFORGE: That's
+[00:35:57.061 --> 00:35:57.861] LAFORGE: affirmative, Commander.
+[00:35:58.501 --> 00:35:59.781] PICARD: Mister Worf, sweep the area.
+[00:36:00.581 --> 00:36:02.501] DATA: Captain, the Prime Minister is hailing us.
+[00:36:02.501 --> 00:36:03.301] DATA: Priority one.
+[00:36:04.181 --> 00:36:04.661] PICARD: On screen.
+[00:36:06.981 --> 00:36:08.021] WORF: Priority channel cleared.
+[00:36:08.981 --> 00:36:09.781] PICARD: Yes, Prime Minister?
+[00:36:10.421 --> 00:36:14.821] NAYROK: Captain, I've just been informed that Roga Danar has attacked the penal colony on Lunar Five.
+[00:36:15.541 --> 00:36:16.101] PICARD: Attacked it ?
+[00:36:16.501 --> 00:36:17.541] NAYROK: In our own police shuttle.
+[00:36:18.021 --> 00:36:19.381] NAYROK: Several of my people have been wounded.
+[00:36:19.701 --> 00:36:20.901] NAYROK: Hundreds of prisoners are rioting.
+[00:36:21.461 --> 00:36:24.981] NAYROK: Some of them have escaped with Danar and at last report are headed to the capital city.
+[00:36:25.781 --> 00:36:28.901] NAYROK: Captain, we are not suited to handle situations like this.
+[00:36:29.701 --> 00:36:30.821] NAYROK: That's what we created them for.
+[00:36:32.661 --> 00:36:34.021] PICARD: I'll send an away team, Prime Minister.
+[00:36:35.141 --> 00:36:35.621] PICARD: Picard out.
+[00:36:37.941 --> 00:36:41.061] PICARD: Counsellor Troi, Commander Data, Mister Worf, you will accompany me to the planet.
+[00:36:52.501 --> 00:36:55.301] PICARD: And my understanding is these men are programmed to survive.
+[00:36:55.461 --> 00:36:55.941] PICARD: Is that correct?
+[00:36:55.941 --> 00:36:56.581] TROI: Yes, Captain.
+[00:36:56.981 --> 00:37:00.181] PICARD: And that they will not kill unless their survival is at stake?
+[00:37:00.661 --> 00:37:02.421] DATA: It is against their nature to do so, Captain.
+[00:37:03.461 --> 00:37:06.101] PICARD: Then let us hope they do not believe their survival is at stake.
+[00:37:10.741 --> 00:37:11.141] RIKER: Mister Worf,
+[00:37:14.581 --> 00:37:16.581] RIKER: you are personally responsible for the Captain's safety.
+[00:37:17.301 --> 00:37:18.181] WORF: I understand, Commander.
+[00:37:26.181 --> 00:37:26.261] NAYROK: I
+[00:37:29.541 --> 00:37:30.981] NAYROK: don't expect them to listen to reason.
+[00:37:31.644 --> 00:37:34.604] NAYROK: I loathe the idea of a violent confrontation, but we must be prepared.
+[00:37:45.324 --> 00:37:46.364] NAYROK: This is all you've brought?
+[00:37:46.844 --> 00:37:47.884] NAYROK: Where are your security men?
+[00:37:48.684 --> 00:37:50.124] PICARD: We're not here to fight your wars for you.
+[00:37:50.844 --> 00:37:53.244] NAYROK: They have been seen moving toward the center of the city.
+[00:37:53.404 --> 00:37:54.204] NAYROK: People are scared.
+[00:37:54.204 --> 00:37:55.164] NAYROK: Don't you understand, Captain?
+[00:37:55.164 --> 00:37:55.964] NAYROK: They're dangerous.
+[00:37:56.284 --> 00:37:57.084] PICARD: You are dangerous.
+[00:37:57.084 --> 00:37:58.044] PICARD: They're only victims.
+[00:37:58.204 --> 00:37:59.244] PICARD: You made them what they are.
+[00:38:00.044 --> 00:38:03.244] PICARD: You asked them to defend your way of life and then you discarded them.
+[00:38:03.644 --> 00:38:04.444] ZAYNAR: They were not happy here.
+[00:38:04.844 --> 00:38:06.284] TROI: They were not welcome here.
+[00:38:06.524 --> 00:38:08.044] ZAYNAR: It was the will of the people to resettle them.
+[00:38:08.364 --> 00:38:12.444] NAYROK: No one was pleased with the solution, but we had to act for the greater good.
+[00:38:13.324 --> 00:38:19.004] DATA: Prime Minister, if you have the skills to create a master soldier, can you not contradict the effect?
+[00:38:19.964 --> 00:38:26.684] NAYROK: The chemicals can be removed from their systems, but we're not convinced that the psychological conditioning can ever be entirely reversed.
+[00:38:27.724 --> 00:38:28.444] DATA: Have you tried, sir?
+[00:38:28.844 --> 00:38:30.284] NAYROK: We studied it thoroughly.
+[00:38:31.004 --> 00:38:34.124] NAYROK: Even before the training began, we knew there would be problems reversing it.
+[00:38:34.524 --> 00:38:35.884] NAYROK: It was a risk we had to take.
+[00:38:36.284 --> 00:38:38.844] WORF: Did you reveal that risk to the men who volunteered for service?
+[00:38:39.084 --> 00:38:41.164] NAYROK: We were helping them to survive the war,
+[00:38:41.404 --> 00:38:42.204] NAYROK: you understand?
+[00:38:42.684 --> 00:38:44.204] NAYROK: They needed these skills.
+[00:38:44.604 --> 00:38:48.204] PICARD: They're your brothers, your sons, and you turned your backs on
+[00:38:49.724 --> 00:38:49.724] PICARD: them.
+[00:38:49.724 --> 00:38:51.244] TROI: There are methods of treatment.
+[00:38:51.884 --> 00:38:54.444] TROI: Until you try them, how can you know they won't work?
+[00:38:55.164 --> 00:38:57.644] TROI: Even a partial recovery could give them some peace.
+[00:38:58.124 --> 00:38:59.851] ZAYNAR: It was the will of the people.
+[00:38:59.851 --> 00:39:01.084] TROI: To allow them to suffer?
+[00:39:02.282 --> 00:39:03.482] NAYROK: There was a referendum.
+[00:39:03.882 --> 00:39:06.442] NAYROK: The people weighed the costs involved.
+[00:39:06.682 --> 00:39:08.442] NAYROK: They chose the resettlement solution.
+[00:39:08.682 --> 00:39:11.162] ZAYNAR: Besides, we may need to use them again some day.
+[00:39:11.722 --> 00:39:13.562] PICARD: Have you understood one word that we've said?
+[00:39:14.522 --> 00:39:14.762] ROGA: Freeze! Nobody move!
+[00:39:15.162 --> 00:39:15.802] PICARD: No, Worf!
+[00:39:20.762 --> 00:39:21.082] PICARD: All of you.
+[00:39:22.442 --> 00:39:23.002] PICARD: Don't respond.
+[00:39:23.642 --> 00:39:24.442] PICARD: Don't provoke them further.
+[00:39:24.442 --> 00:39:26.202] PICARD: Keep those weapons down unless you wish to be killed.
+[00:39:31.562 --> 00:39:32.042] NAYROK: Do as he says.
+[00:39:32.202 --> 00:39:32.522] ROGA: No!
+[00:39:33.482 --> 00:39:33.722] ROGA: Don't.
+[00:39:35.002 --> 00:39:35.482] ROGA: Shoot us.
+[00:39:36.522 --> 00:39:37.162] ROGA: Destroy us.
+[00:39:37.162 --> 00:39:37.962] ROGA: Do what you have to do.
+[00:39:39.082 --> 00:39:40.522] ROGA: But you will not ignore us.
+[00:39:55.802 --> 00:39:57.882] ROGA: Go on, do it!
+[00:39:57.882 --> 00:39:58.042] ROGA: Cowards.
+[00:39:59.002 --> 00:39:59.322] PICARD: Yes, and
+[00:40:00.042 --> 00:40:01.562] PICARD: you are not programmed to murder cowards.
+[00:40:02.282 --> 00:40:03.962] PICARD: So if they will not fight back, what will you do?
+[00:40:05.242 --> 00:40:06.282] ROGA: We will not go back.
+[00:40:07.722 --> 00:40:08.922] NAYROK: You are programmed to survive.
+[00:40:08.922 --> 00:40:10.842] NAYROK: You can survive at the Lunar Five settlement.
+[00:40:11.642 --> 00:40:12.922] ROGA: To survive is not enough.
+[00:40:14.042 --> 00:40:16.762] ROGA: To simply exist is not enough.
+[00:40:19.242 --> 00:40:20.682] TROI: Roga, tell them what you want.
+[00:40:23.322 --> 00:40:24.362] ROGA: We want our lives back.
+[00:40:26.282 --> 00:40:27.082] ROGA: We want to come home.
+[00:40:29.722 --> 00:40:31.962] NAYROK: I am not prepared to negotiate under threat, Danar,
+[00:40:35.441 --> 00:40:39.281] NAYROK: but if you will put down your weapons and return peaceably to Lunar Five,
+[00:40:42.081 --> 00:40:42.721] NAYROK: I would be willing.
+[00:40:44.241 --> 00:40:45.281] ROGA: Mister Prime Minister,
+[00:40:46.641 --> 00:40:51.601] ROGA: with all due respect, you will have to force us. Or at least try.
+[00:40:54.481 --> 00:40:55.441] NAYROK: Captain, you must do something.
+[00:40:55.601 --> 00:40:56.081] NAYROK: Call your ship.
+[00:40:57.521 --> 00:40:58.561] PICARD: Quite right, Prime Minister.
+[00:40:59.601 --> 00:41:02.001] PICARD: Enterprise, prepare to beam the away team back.
+[00:41:02.721 --> 00:41:03.601] RIKER: At your command, Captain.
+[00:41:05.121 --> 00:41:06.961] NAYROK: Picard, you can't leave us like this.
+[00:41:07.521 --> 00:41:09.201] PICARD: I have all the information I need for our report.
+[00:41:09.841 --> 00:41:16.961] PICARD: Your prisoner has been returned to you and you have a decision to make. Whether to try to force them back or welcome them home.
+[00:41:17.761 --> 00:41:20.321] PICARD: In your own words, this is not our affair.
+[00:41:20.801 --> 00:41:29.121] PICARD: We cannot interfere in the natural course of your society's development, and I'd say it's likely to develop significantly in the next several minutes.
+[00:41:29.121 --> 00:41:34.401] PICARD: It's been an interesting visit.
+[00:41:34.961 --> 00:41:41.361] PICARD: When you're ready for membership, the Federation will be pleased to reconsider your application. Mister Riker,
+[00:41:42.561 --> 00:41:43.201] PICARD: four to beam up.
+[00:41:43.841 --> 00:41:44.001] RIKER: Aye, sir.
+[00:41:44.001 --> 00:41:44.601] RIKER: Success, Captain?
+[00:41:44.821 --> 00:41:45.041] PICARD: Number One,
+[00:42:10.584 --> 00:42:19.864] PICARD: will you note in our report that if the government of Angosia survives the night, we will offer them Federation assistance in their efforts to reprogram their veterans.
+[00:42:19.864 --> 00:42:21.144] RIKER: And if the government doesn't survive?
+[00:42:22.744 --> 00:42:25.144] PICARD: I have a feeling they will choose to.
+[00:42:26.904 --> 00:42:27.144] PICARD: Mister
+[00:42:27.144 --> 00:42:30.424] PICARD: Crusher, set coordinates for Starbase Lya Three.
+[00:42:32.184 --> 00:42:32.984] WESLEY: Coordinates set, Captain.
+[00:42:35.144 --> 00:42:35.384] PICARD: Engage.
+[00:42:45.000 --> 00:42:55.000] [music]
+[00:43:05.000 --> 00:43:16.000] [music]
+[00:43:18.000 --> 00:43:26.000] [music]

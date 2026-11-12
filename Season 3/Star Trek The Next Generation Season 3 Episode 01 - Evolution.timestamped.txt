@@ -1,0 +1,602 @@
+[00:00:29.920 --> 00:00:30.800] RIKER: Riker to Ensign Crusher.
+[00:00:34.480 --> 00:00:34.880] WESLEY: Go ahead.
+[00:00:36.240 --> 00:00:37.280] RIKER: Forget to set your alarm, Wesley?
+[00:00:37.920 --> 00:00:38.400] WESLEY: Yes, sir.
+[00:00:38.480 --> 00:00:41.120] WESLEY: I'm very sorry.
+[00:00:41.120 --> 00:00:41.840] WESLEY: I'll be right there.
+[00:00:41.990 --> 00:00:42.590] WESLEY: this.
+[00:00:51.440 --> 00:00:54.320] LOG: Captain's log, Stardate 43125.8.
+[00:00:54.720 --> 00:01:01.360] LOG: We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astro-physical research.
+[00:01:01.680 --> 00:01:14.240] LOG: Our eminent guest, Doctor Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds by a massive stellar explosion which will occur here in a matter of hours.
+[00:01:16.240 --> 00:01:17.040] RIKER: Ensign, our position.
+[00:01:18.720 --> 00:01:20.960] WESLEY: Approaching one million kilometres from the neutron star, sir.
+[00:01:21.440 --> 00:01:22.800] RIKER: Slow to one third impulse power.
+[00:01:28.960 --> 00:01:30.640] STUBBS: Spectacular, isn't it, my young friend?
+[00:01:31.653 --> 00:01:32.053] WESLEY: Yes sir.
+[00:01:34.613 --> 00:01:49.893] STUBBS: Over and over again, the intense gravitational pull of the little neutron star sucks up the star material from the red giant, and it builds up on the surface until it explodes, every one hundred and ninety six years. Like clockwork.
+[00:01:52.053 --> 00:01:53.813] STUBBS: And it is but eighteen hours away.
+[00:01:55.333 --> 00:01:58.133] DATA: Eighteen hours, seven minutes, and ten seconds, Doctor.
+[00:02:01.413 --> 00:02:05.253] STUBBS: The interstellar counterpart to Earth's Old Faithful.
+[00:02:07.173 --> 00:02:11.573] STUBBS: The only predictable burst of energy in the universe that can accomplish our goal.
+[00:02:15.173 --> 00:02:17.573] PICARD: Doctor Stubbs, if you would like to make one final inspection of the unit.
+[00:02:17.653 --> 00:02:21.893] STUBBS: Captain, I've been inspecting the Egg for the last twenty years.
+[00:02:23.173 --> 00:02:24.533] STUBBS: You may lay it when ready.
+[00:02:31.093 --> 00:02:32.053] PICARD: Begin launch sequence.
+[00:02:33.013 --> 00:02:36.373] RIKER: Shuttlebay two, stand-by to launch the Egg.
+[00:02:37.253 --> 00:02:38.133] CREWMAN: Standing by, Commander.
+[00:02:39.333 --> 00:02:41.045] DATA: Five minutes to launch site.
+[00:02:41.109 --> 00:02:41.173] PICARD: Stabilise.
+[00:02:41.173 --> 00:02:42.293] WESLEY: The ship isn't responding, sir.
+[00:03:01.012 --> 00:03:02.612] PICARD: Engineering. Report, Mister La Forge.
+[00:03:03.332 --> 00:03:05.092] LAFORGE: Checking for failure of inertial dampeners.
+[00:03:06.372 --> 00:03:07.412] LAFORGE: Instruments say they're working
+[00:03:10.372 --> 00:03:12.692] WORF: Captain, we're heading straight into the path of that stellar matter.
+[00:03:12.852 --> 00:03:13.332] PICARD: Shields up.
+[00:03:15.412 --> 00:03:15.732] WORF: Negative.
+[00:03:16.292 --> 00:03:17.492] WORF: The shields will not respond.
+[00:03:48.772 --> 00:03:51.572] PICARD: Space, the final frontier.
+[00:03:53.412 --> 00:03:56.292] PICARD: These are the voyages of the starship Enterprise.
+[00:03:57.412 --> 00:04:05.412] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to
+[00:04:07.252 --> 00:04:09.972] PICARD: boldly go where no one has gone before.
+[00:04:39.000 --> 00:04:49.000] [music]
+[00:05:01.000 --> 00:05:09.000] [music]
+[00:05:11.578 --> 00:05:12.778] DATA: Thirty seconds to impact, sir.
+[00:05:12.778 --> 00:05:15.658] PICARD: Manual override on shields.
+[00:05:15.658 --> 00:05:16.058] WORF: Shields are rising.
+[00:05:17.658 --> 00:05:19.178] RIKER: Reset dampeners. Mister La Forge.
+[00:05:19.978 --> 00:05:21.018] LAFORGE: Dampeners not responding.
+[00:05:21.418 --> 00:05:22.218] LAFORGE: Unable to reset.
+[00:05:22.778 --> 00:05:23.818] PICARD: Reverse impulse engines.
+[00:05:24.298 --> 00:05:25.658] LAFORGE: Initiating reverse sequence,
+[00:05:26.858 --> 00:05:27.258] LAFORGE: now.
+[00:05:28.698 --> 00:05:30.778] PICARD: Our momentum
+[00:05:43.338 --> 00:05:45.418] PICARD: is still carrying us into the path of the stellar matter.
+[00:05:46.698 --> 00:05:47.978] DATA: Twelve seconds to impact, sir.
+[00:05:48.538 --> 00:05:49.498] RIKER: Prepare for impact.
+[00:05:51.578 --> 00:05:51.578] RIKER: Medical
+[00:05:59.338 --> 00:06:00.858] RIKER: personnel, report to the Bridge.
+[00:06:01.338 --> 00:06:02.538] RIKER: Commander Data, check all systems.
+[00:06:03.818 --> 00:06:05.418] DATA: All systems functioning normally, sir.
+[00:06:05.738 --> 00:06:06.138] PICARD: Computer,
+[00:06:07.212 --> 00:06:08.492] PICARD: explain control malfunction.
+[00:06:09.452 --> 00:06:11.612] COMPUTER: No control malfunction has been recorded.
+[00:06:24.972 --> 00:06:25.932] NURSE: Lay down carefully.
+[00:06:26.082 --> 00:06:27.482] NURSE: There you go.
+[00:06:33.612 --> 00:06:34.332] WESLEY: Doctor Stubbs,
+[00:06:36.012 --> 00:06:40.092] WESLEY: the captain asked me to tell you that our systems are back to normal, and we can try another launch attempt as soon as you're ready.
+[00:06:42.252 --> 00:06:44.812] STUBBS: Quite a dynamic family team, you Crushers.
+[00:06:46.892 --> 00:06:48.492] CRUSHER: Well, it's nice to be together again.
+[00:06:49.052 --> 00:06:50.652] CRUSHER: I was at Starfleet Medical for a year.
+[00:06:51.132 --> 00:06:53.292] CRUSHER: I missed about two inches of him.
+[00:06:55.372 --> 00:06:58.332] STUBBS: I'm not sure I'd want my mother to be flying through space with me.
+[00:06:59.612 --> 00:07:00.812] STUBBS: No, I take that back.
+[00:07:01.692 --> 00:07:03.372] STUBBS: I am sure. I wouldn't want her.
+[00:07:04.732 --> 00:07:10.892] STUBBS: My mother is a formidable woman, too. A woman of letters. A great critic.
+[00:07:11.532 --> 00:07:11.852] WESLEY: I know.
+[00:07:13.292 --> 00:07:16.332] STUBBS: Good Lord, son. You didn't read that unauthorised biography?
+[00:07:17.292 --> 00:07:18.412] STUBBS: Is this all this boy does,
+[00:07:18.412 --> 00:07:19.852] STUBBS: Doctor? Fly the ship and read?
+[00:07:19.852 --> 00:07:21.052] STUBBS: Doesn't he ever have any fun?
+[00:07:21.612 --> 00:07:22.492] CRUSHER: Sure he does.
+[00:07:24.012 --> 00:07:27.052] WESLEY: Actually, most of my free time is taken up with my studies.
+[00:07:27.692 --> 00:07:29.132] WESLEY: I'm trying to get into Starfleet Academy, and
+[00:07:29.132 --> 00:07:32.892] WESLEY: I earn credits for the time spent on the Enterprise, but it's just not the same.
+[00:07:33.247 --> 00:07:34.047] NURSE: Are you ready to sit up?
+[00:07:34.197 --> 00:07:34.797] STUBBS: Well.
+[00:07:39.967 --> 00:07:41.727] STUBBS: I am whole again.
+[00:07:45.247 --> 00:07:45.887] STUBBS: Thank you, Doctor.
+[00:07:48.047 --> 00:07:48.847] STUBBS: Come along, Wesley.
+[00:07:48.847 --> 00:07:51.567] STUBBS: Let's go see if Humpty Dumpty is still in one piece.
+[00:08:05.487 --> 00:08:06.767] CRUSHER: Computer, fix the food slot.
+[00:08:07.567 --> 00:08:09.327] COMPUTER: The food slot is functioning properly.
+[00:08:11.087 --> 00:08:12.207] CRUSHER: Well, check again.
+[00:08:13.167 --> 00:08:15.007] COMPUTER: The food slot is functioning properly.
+[00:08:16.207 --> 00:08:17.647] CRUSHER: Computer, deactivate food slot.
+[00:08:20.207 --> 00:08:21.247] LAFORGE: We're
+[00:08:23.727 --> 00:08:25.807] LAFORGE: analysing the engineering systems data, Captain.
+[00:08:26.207 --> 00:08:29.407] LAFORGE: So far we're showing nothing unusual In the computer log for that time period.
+[00:08:30.447 --> 00:08:32.127] PICARD: Run a level one diagnostic series.
+[00:08:32.527 --> 00:08:32.767] PICARD: Come.
+[00:08:34.127 --> 00:08:34.527] PICARD: I
+[00:08:35.887 --> 00:08:41.807] PICARD: want a computer that's one hundred percent to expedite Doctor Stubbs' experiment. As well as the food slots in Sickbay.
+[00:08:41.807 --> 00:08:42.527] PICARD: Picard out.
+[00:08:43.007 --> 00:08:45.327] CRUSHER: Which seem to be working again, for the moment anyway.
+[00:08:46.367 --> 00:08:47.407] PICARD: What can I do for you, Doctor?
+[00:08:52.127 --> 00:08:52.207] CRUSHER: Jean-Luc, how
+[00:08:54.127 --> 00:08:59.727] CRUSHER: would you feel if you were a seventeen year old and the only Starfleet Officer whose mother was on board?
+[00:09:02.207 --> 00:09:02.767] PICARD: Inhibited,
+[00:09:03.407 --> 00:09:03.807] PICARD: I suppose.
+[00:09:04.527 --> 00:09:06.687] PICARD: But then, I'm not Wesley.
+[00:09:08.221 --> 00:09:13.501] PICARD: And if you are concerned about him, I see no evidence that there is a problem.
+[00:09:13.821 --> 00:09:17.501] CRUSHER: I know, but, in a funny kind of way, that's exactly my point.
+[00:09:18.781 --> 00:09:20.141] CRUSHER: We talk. We smile.
+[00:09:20.141 --> 00:09:21.581] CRUSHER: It's almost too polite.
+[00:09:22.141 --> 00:09:25.421] PICARD: Beverly, isn't it just a matter of time?
+[00:09:31.261 --> 00:09:33.341] PICARD: I know how difficult it was for you being away.
+[00:09:40.781 --> 00:09:41.581] CRUSHER: Tell me about him.
+[00:09:43.421 --> 00:09:45.261] PICARD: Well, he's becoming a very fine officer.
+[00:09:46.621 --> 00:09:48.621] PICARD: He works as hard as any member of the crew.
+[00:09:49.341 --> 00:09:50.781] PICARD: Riker says his studies are online.
+[00:09:50.781 --> 00:09:53.901] CRUSHER: No. Tell me about him.
+[00:09:56.621 --> 00:09:57.821] PICARD: He's his father's son.
+[00:09:59.101 --> 00:09:59.501] PICARD: Honest,
+[00:10:01.021 --> 00:10:01.501] PICARD: trusting,
+[00:10:03.021 --> 00:10:03.581] PICARD: strong.
+[00:10:06.381 --> 00:10:07.901] CRUSHER: Does he have many friends?
+[00:10:09.661 --> 00:10:10.861] CRUSHER: Has he ever been in love?
+[00:10:14.621 --> 00:10:16.461] CRUSHER: Jean-Luc, I'm worried.
+[00:10:17.661 --> 00:10:23.541] CRUSHER: He's come so far, so fast, And since I've been back, I don't feel
+[00:10:23.541 --> 00:10:24.381] PICARD: His dependence.
+[00:10:25.421 --> 00:10:30.141] PICARD: Beverly, look, he's seventeen years old.
+[00:10:31.341 --> 00:10:33.341] CRUSHER: What were you doing when you were seventeen?
+[00:10:33.661 --> 00:10:35.421] PICARD: Probably getting into more trouble than Wesley,
+[00:10:35.501 --> 00:10:36.141] PICARD: I can assure you.
+[00:10:36.701 --> 00:10:37.341] CRUSHER: So was I.
+[00:10:38.141 --> 00:10:40.301] CRUSHER: Isn't that what seventeen's supposed to be?
+[00:10:49.422 --> 00:10:50.782] STUBBS: No cracks in the armour.
+[00:10:52.302 --> 00:10:53.422] STUBBS: We'll do just fine.
+[00:10:54.142 --> 00:10:55.902] WESLEY: How can you be so calm about this?
+[00:10:56.142 --> 00:10:58.403] WESLEY: If I was about to make this kind of breakthrough
+[00:10:58.403 --> 00:11:01.342] STUBBS: I have never doubted for a moment that this day would come, Wesley.
+[00:11:03.102 --> 00:11:05.742] STUBBS: And I suspect that some day it will come for you as well.
+[00:11:07.342 --> 00:11:08.622] STUBBS: I see a lot of me in you.
+[00:11:11.982 --> 00:11:14.302] STUBBS: In my youth, they called me a vunderkind.
+[00:11:15.822 --> 00:11:17.102] STUBBS: Do you understand vunderkind?
+[00:11:18.622 --> 00:11:19.342] WESLEY: It's German, isn't it?
+[00:11:21.662 --> 00:11:23.662] STUBBS: It means wonder child.
+[00:11:25.262 --> 00:11:28.862] STUBBS: It is reserved for those of us who achieve early in life.
+[00:11:30.462 --> 00:11:31.982] STUBBS: Now the burden is yours.
+[00:11:32.942 --> 00:11:33.406] WESLEY: Burden?
+[00:11:33.406 --> 00:11:35.262] STUBBS: To fulfill your potential.
+[00:11:37.342 --> 00:11:42.382] STUBBS: You will never come up against a greater adversary than your own potential, my young friend.
+[00:11:43.982 --> 00:11:45.022] WESLEY: Red Alert.
+[00:11:45.022 --> 00:11:46.142] WESLEY: Return to quarters immediately.
+[00:11:48.862 --> 00:11:50.062] PICARD: Still no visual contact.
+[00:11:50.222 --> 00:11:51.022] PICARD: That's impossible.
+[00:11:52.862 --> 00:11:55.022] PICARD: Mister Worf, same magnification fifty degrees starboard.
+[00:12:01.022 --> 00:12:01.982] RIKER: Worf, you're absolutely sure?
+[00:12:03.102 --> 00:12:05.982] WORF: Sensors clearly indicate the approach of a Borg vessel.
+[00:12:06.062 --> 00:12:06.702] RIKER: Shields up.
+[00:12:08.787 --> 00:12:09.827] WORF: Shields are not responding.
+[00:12:10.947 --> 00:12:12.307] LAFORGE: Manual override is jammed.
+[00:12:13.107 --> 00:12:13.987] LAFORGE: It's not going to work this time.
+[00:12:13.987 --> 00:12:15.187] LAFORGE: We don't have the shields, Captain.
+[00:12:15.427 --> 00:12:17.347] WORF: Captain, they're firing energy weapons at us.
+[00:12:17.907 --> 00:12:18.627] PICARD: Evasive action.
+[00:12:19.267 --> 00:12:20.867] RIKER: Bring her round to two seven five mark three.
+[00:12:21.347 --> 00:12:21.667] PICARD: Predict
+[00:12:21.747 --> 00:12:23.107] PICARD: current vector of Borg ship.
+[00:12:23.827 --> 00:12:24.147] WORF: Vector.
+[00:12:27.107 --> 00:12:27.507] WORF: Is gone.
+[00:12:28.787 --> 00:12:29.667] WORF: And so is the Borg vessel.
+[00:12:30.387 --> 00:12:32.147] PICARD: You're telling me this is another computer glitch?
+[00:12:32.947 --> 00:12:35.827] DATA: It is conceivable that he was viewing a synthetically generated image, sir.
+[00:12:36.387 --> 00:12:37.507] RIKER: That our computer was daydreaming?
+[00:12:41.587 --> 00:12:41.907] PICARD: Computer,
+[00:12:41.987 --> 00:12:44.227] PICARD: identify malfunction immediately.
+[00:12:44.707 --> 00:12:45.827] COMPUTER: Pawn to Bishop Four.
+[00:12:46.547 --> 00:12:47.907] COMPUTER: Knight to King's Rook Three.
+[00:12:48.627 --> 00:12:49.667] COMPUTER: Bishop to Queen's Bishop Four.
+[00:12:51.107 --> 00:12:52.307] COMPUTER: Knight to Knight Five.
+[00:12:53.187 --> 00:12:54.147] COMPUTER: Queen's Knight to King Two.
+[00:12:54.227 --> 00:12:55.427] DATA: Controls are not responding, sir.
+[00:12:55.747 --> 00:12:56.387] COMPUTER: Queen to Bishop Three.
+[00:12:57.347 --> 00:12:58.387] COMPUTER: Bishop to Bishop Two.
+[00:13:00.707 --> 00:13:01.907] LAFORGE: Impulse engines are down.
+[00:13:03.267 --> 00:13:03.907] RIKER: Try warp engines.
+[00:13:06.387 --> 00:13:06.707] LAFORGE: No.
+[00:13:07.267 --> 00:13:07.907] LAFORGE: Sorry, Commander.
+[00:13:08.307 --> 00:13:09.507] LAFORGE: I'd better get back to Engineering
+[00:13:09.667 --> 00:13:10.227] PICARD: Mister La Forge,
+[00:13:11.427 --> 00:13:12.627] PICARD: I want Lieutenant Worf to accompany you.
+[00:13:13.027 --> 00:13:15.347] PICARD: Get me a full report on the prospects of getting our shields back.
+[00:13:15.427 --> 00:13:16.307] PICARD: Number One, Mister Data,
+[00:13:17.507 --> 00:13:19.267] PICARD: will you join me in the conference room as soon as possible.
+[00:13:19.667 --> 00:13:21.747] PICARD: It's time to discuss the future of this mission, if
+[00:13:21.827 --> 00:13:23.267] PICARD: there still is one.
+[00:13:23.667 --> 00:13:23.747] PICARD: The
+[00:13:31.827 --> 00:13:36.067] PICARD: fact of the matter is, we are dealing with a potential breakdown of the main computer.
+[00:13:36.547 --> 00:13:37.347] RIKER: That's hard to accept.
+[00:13:37.747 --> 00:13:40.547] DATA: The system automatically provides for self-correction, Captain.
+[00:13:40.988 --> 00:13:45.308] DATA: There has not been a systems-wide technological failure on a starship in seventy nine years.
+[00:13:47.468 --> 00:13:50.588] TROI: Excuse me, Captain, but Doctor Stubbs is waiting outside.
+[00:13:50.908 --> 00:13:54.588] STUBBS: Captain, I'm sure you have everything under control.
+[00:13:54.828 --> 00:13:56.428] STUBBS: I'd just like to know what's going on.
+[00:13:56.828 --> 00:13:58.028] PICARD: Of course, Doctor. Sit down.
+[00:13:59.628 --> 00:13:59.948] PICARD: Counsellor.
+[00:14:02.508 --> 00:14:06.188] PICARD: Commander La Forge is attempting repairs even as we speak.
+[00:14:06.268 --> 00:14:06.748] STUBBS: Attempting.
+[00:14:07.548 --> 00:14:09.548] STUBBS: That doesn't sound particularly reassuring.
+[00:14:10.348 --> 00:14:13.388] PICARD: Doctor, if at all possible, we will continue this mission as planned.
+[00:14:14.028 --> 00:14:19.788] STUBBS: Captain, if we miss our chance now, we don't get another for two centuries.
+[00:14:20.828 --> 00:14:24.828] STUBBS: There will be many questions asked by Starfleet if the Enterprise fails in its duty
+[00:14:26.828 --> 00:14:32.428] PICARD: Nevertheless, my first and foremost consideration will be to ensure the safety of this ship and its crew.
+[00:14:33.308 --> 00:14:34.748] STUBBS: Ensure the safety, Captain?
+[00:14:35.708 --> 00:14:38.268] STUBBS: Or are you really talking about playing it safe?
+[00:14:40.188 --> 00:14:47.068] PICARD: My dear Doctor, in our current position, when that star explodes, you'll get to watch your experiment from the inside out.
+[00:14:47.708 --> 00:14:49.148] STUBBS: I would rather die than leave.
+[00:14:50.188 --> 00:14:52.108] PICARD: I don't believe you speak for the majority of the crew.
+[00:14:54.188 --> 00:14:57.450] TROI: Doctor Stubbs, I know how much this means to you.
+[00:14:57.450 --> 00:14:58.428] STUBBS: My dear Counsellor,
+[00:14:59.388 --> 00:15:03.708] STUBBS: no insult intended but please turn off your beam into my soul.
+[00:15:04.348 --> 00:15:06.828] STUBBS: I will share the feelings I wish to share.
+[00:15:11.522 --> 00:15:15.122] STUBBS: Well, if we do not leave in time, so be it.
+[00:15:16.402 --> 00:15:18.482] STUBBS: It's one sure way into the record books, eh?
+[00:15:25.042 --> 00:15:28.322] TROI: His nonchalance is studied and practised.
+[00:15:29.762 --> 00:15:31.762] PICARD: Even my sensory perception picked that up.
+[00:15:33.202 --> 00:15:36.802] TROI: He's put his entire self-worth on the line with this experiment.
+[00:15:38.082 --> 00:15:40.722] TROI: He is telling the truth when he says he'd rather die than leave.
+[00:15:45.762 --> 00:15:48.882] LAFORGE: Call up the cross-section of computer core processor four five one.
+[00:15:48.882 --> 00:15:52.002] LAFORGE: I want to see elements zero two hundred through zero three hundred.
+[00:15:52.322 --> 00:15:52.722] CREWMAN: Aye, sir.
+[00:15:53.442 --> 00:15:57.282] LAFORGE: In order to get some power, I had to by-pass the computer core. Essentially hotwire the connection.
+[00:15:58.562 --> 00:15:59.202] LAFORGE: Whoa, whoa, right there.
+[00:16:00.322 --> 00:16:01.602] LAFORGE: Look at that lesion.
+[00:16:01.602 --> 00:16:03.202] LAFORGE: No wonder we're coming apart at the seams.
+[00:16:04.002 --> 00:16:10.482] LAFORGE: It's definitely some kind of continuing disintegration, but from what I can't tell you. And I haven't the slightest idea how to stop it.
+[00:16:11.922 --> 00:16:13.442] WESLEY: It's just a mechanical problem, though, right?
+[00:16:13.602 --> 00:16:15.122] LAFORGE: Increase magnification, factor fifty.
+[00:16:16.402 --> 00:16:23.522] LAFORGE: I don't know, Wes, but looking at it. You know, if I didn't know any better, I'd say someone had climbed in there and started taking it apart.
+[00:17:05.537 --> 00:17:05.937] WESLEY: Guinan!
+[00:17:08.097 --> 00:17:09.217] WESLEY: I didn't think anyone would be here.
+[00:17:10.097 --> 00:17:13.937] GUINAN: I've never been any good at being confined to quarters, as my husbands will attest to.
+[00:17:15.617 --> 00:17:16.017] GUINAN: What's that?
+[00:17:18.257 --> 00:17:19.777] WESLEY: I'm just setting traps.
+[00:17:22.097 --> 00:17:23.137] GUINAN: I run a clean place.
+[00:17:23.697 --> 00:17:24.657] WESLEY: I know. It's not that.
+[00:17:25.937 --> 00:17:30.097] WESLEY: It's. I'm scared, Guinan.
+[00:17:32.017 --> 00:17:34.817] WESLEY: I think that everything that's been going wrong might be my fault.
+[00:17:36.897 --> 00:17:37.777] GUINAN: You want to tell me about it?
+[00:17:39.537 --> 00:17:42.177] WESLEY: I've been working on my final project for Advanced Genetics.
+[00:17:42.257 --> 00:17:43.537] WESLEY: It's on nanotechnology.
+[00:17:43.937 --> 00:17:46.577] WESLEY: I've been studying the nanites we have in the Sickbay genetic supplies.
+[00:17:47.297 --> 00:17:51.457] WESLEY: They're these little tiny robots with gigabytes of mechanical computer memory.
+[00:17:52.017 --> 00:17:54.657] WESLEY: They're designed to enter living cells and conduct repairs.
+[00:17:54.807 --> 00:17:55.407] WESLEY: They're
+[00:17:56.257 --> 00:17:57.777] WESLEY: supposed to remain confined to the lab.
+[00:17:59.297 --> 00:18:00.977] GUINAN: Are you saying there are nanites loose?
+[00:18:02.538 --> 00:18:02.938] WESLEY: Two of them,
+[00:18:02.938 --> 00:18:03.578] WESLEY: that's all.
+[00:18:04.698 --> 00:18:07.418] WESLEY: I just wanted to see how they would interact and function in tandem.
+[00:18:08.218 --> 00:18:14.218] WESLEY: You see, in my experiment, I had proposed a theory that by working together they could combine their skills and increase their usefulness.
+[00:18:14.538 --> 00:18:15.178] WESLEY: It was working.
+[00:18:15.898 --> 00:18:16.938] GUINAN: So you made better nanites.
+[00:18:18.298 --> 00:18:20.618] WESLEY: I was pulling an all-nighter to collect my final data.
+[00:18:21.578 --> 00:18:25.978] WESLEY: I fell asleep. And when I woke up I saw the container had been left open.
+[00:18:28.618 --> 00:18:30.058] WESLEY: It's just a science project.
+[00:18:31.978 --> 00:18:33.978] GUINAN: You know, a doctor friend once said the same thing to me.
+[00:18:34.858 --> 00:18:36.058] GUINAN: Frankenstein was his name.
+[00:18:37.898 --> 00:18:39.018] WESLEY: They're really harmless.
+[00:18:40.218 --> 00:18:42.458] WESLEY: I mean, they're equipped with only the most basic skills.
+[00:18:42.458 --> 00:18:44.378] WESLEY: It's almost impossible they could be responsible
+[00:18:45.018 --> 00:18:45.658] GUINAN: Almost.
+[00:18:46.138 --> 00:18:47.738] CRUSHER: Doctor Crusher to Wesley Crusher.
+[00:18:49.658 --> 00:18:50.058] WESLEY: Go ahead.
+[00:18:50.938 --> 00:18:52.378] CRUSHER: I stopped by your quarters, Wes.
+[00:18:52.378 --> 00:18:54.298] CRUSHER: I assumed you'd be there, since you're off duty.
+[00:18:55.338 --> 00:18:55.818] WESLEY: I know.
+[00:18:56.458 --> 00:18:57.498] WESLEY: I just I had some things to do
+[00:18:58.298 --> 00:18:59.898] CRUSHER: Orders are orders, Mister Crusher.
+[00:19:01.018 --> 00:19:01.578] WESLEY: On my way.
+[00:19:02.778 --> 00:19:03.898] WESLEY: You won't tell anybody, will you?
+[00:19:06.138 --> 00:19:06.618] WESLEY: I know.
+[00:19:06.938 --> 00:19:07.418] WESLEY: I will.
+[00:19:11.738 --> 00:19:12.378] WESLEY: If it's true.
+[00:19:14.778 --> 00:19:16.938] GUINAN: Wes, do you think you're going to get a good grade?
+[00:19:19.098 --> 00:19:22.618] WESLEY: I always get an A.
+[00:19:24.618 --> 00:19:25.818] GUINAN: So did Doctor Frankenstein.
+[00:19:29.235 --> 00:19:30.355] LOG: Captain's log, supplemental.
+[00:19:30.675 --> 00:19:35.635] LOG: Our computer core has clearly been tampered with and yet there is no sign of a breach of security on board.
+[00:19:36.355 --> 00:19:43.555] LOG: We have engines back and will attempt to complete our mission, but without a reliable computer, Doctor Stubbs' experiment is in serious jeopardy.
+[00:19:44.355 --> 00:19:45.555] RIKER: Manual restart sequence.
+[00:19:46.195 --> 00:19:47.715] LAFORGE: Manual restart successful.
+[00:19:48.195 --> 00:19:49.795] LAFORGE: Impulse engine functions all appear normal.
+[00:19:49.955 --> 00:19:50.275] PICARD: Proceed.
+[00:19:50.915 --> 00:19:51.635] RIKER: Shuttlebay two,
+[00:19:52.355 --> 00:19:53.075] RIKER: open hangar door.
+[00:19:53.555 --> 00:19:53.955] CREWMAN: Aye, sir.
+[00:19:55.955 --> 00:19:56.995] CREWMAN: Door did not respond.
+[00:19:57.795 --> 00:19:58.595] CREWMAN: Repeating sequence.
+[00:19:59.075 --> 00:20:04.915] PICARD: What in heaven's name?
+[00:20:06.515 --> 00:20:12.595] DATA: It is 'Stars and Stripes Forever'. sir, by John Phillip Sousa, a popular American composer of band music in the early twentieth century.
+[00:20:12.675 --> 00:20:13.715] PICARD: Yes, yes, I know that.
+[00:20:13.875 --> 00:20:14.995] RIKER: Computer, shut off the music!
+[00:20:15.145 --> 00:20:15.745] DATA: The
+[00:20:16.675 --> 00:20:18.515] DATA: music is on all communications channels, sir.
+[00:20:19.955 --> 00:20:20.435] RIKER: Weapons. power,
+[00:20:20.595 --> 00:20:21.075] RIKER: communications.
+[00:20:21.075 --> 00:20:22.435] RIKER: We're being stripped one system at a time.
+[00:20:23.555 --> 00:20:24.595] PICARD: Shut off the power to the
+[00:20:26.195 --> 00:20:28.195] PICARD: Bridge.
+[00:20:28.995 --> 00:20:32.275] PICARD: Commander La Forge, can you get us out of this star system safely?
+[00:20:32.995 --> 00:20:33.315] STUBBS: No!
+[00:20:33.875 --> 00:20:34.595] RIKER: Not now, Doctor.
+[00:20:35.315 --> 00:20:36.115] LAFORGE: I'll try, Captain.
+[00:20:36.355 --> 00:20:37.875] LAFORGE: I don't want to overload the engines.
+[00:20:38.275 --> 00:20:39.875] PICARD: Do it gently. But do it.
+[00:20:42.355 --> 00:20:44.035] RIKER: We'll circuit in auxiliary power to the Bridge.
+[00:20:44.275 --> 00:20:46.755] RIKER: Somehow we'll silence Sousa if he decides to play an encore.
+[00:20:46.915 --> 00:20:49.715] PICARD: The priority is to find out who or what is doing this.
+[00:20:50.915 --> 00:20:54.515] PICARD: Number One, the Bridge, such as it is, is yours.
+[00:21:02.951 --> 00:21:05.071] STUBBS: The Egg that Stubbs laid.
+[00:21:05.071 --> 00:21:07.191] WESLEY: No one will say that.
+[00:21:08.311 --> 00:21:11.031] STUBBS: Nobody will say anything at all, Wesley.
+[00:21:11.751 --> 00:21:13.431] STUBBS: We will not even be mentioned.
+[00:21:16.391 --> 00:21:17.671] STUBBS: I could live with failure.
+[00:21:18.631 --> 00:21:24.551] STUBBS: Well, maybe not. But never even to try. To miss your one chance at bat.
+[00:21:25.591 --> 00:21:26.391] STUBBS: Do you know baseball?
+[00:21:26.791 --> 00:21:28.311] WESLEY: Yes, my father taught it to me when I was young.
+[00:21:29.831 --> 00:21:34.871] STUBBS: Once, centuries ago, it was the beloved national pastime of the Americas,
+[00:21:34.871 --> 00:21:44.071] STUBBS: Wesley. Abandoned by a society that prized fast food and faster games. Lost to impatience.
+[00:21:46.791 --> 00:21:50.151] STUBBS: But I have seen the great players make the great plays.
+[00:21:51.111 --> 00:21:52.311] WESLEY: Do you recreate them on a holodeck?
+[00:21:53.271 --> 00:21:54.231] STUBBS: No.
+[00:21:55.591 --> 00:21:56.391] STUBBS: In here.
+[00:21:57.991 --> 00:22:07.031] STUBBS: With the knowledge of statistics, runs, hits and errors, times at bat, box scores.
+[00:22:08.631 --> 00:22:11.191] STUBBS: Men like us do not need holodecks, Wesley.
+[00:22:13.191 --> 00:22:15.271] STUBBS: I have played seasons in my mind.
+[00:22:16.071 --> 00:22:21.191] STUBBS: It was my reward to myself for patience.
+[00:22:22.711 --> 00:22:24.631] STUBBS: Knowing my turn would come.
+[00:22:26.631 --> 00:22:27.511] STUBBS: Call your shot.
+[00:22:29.671 --> 00:22:30.791] STUBBS: Point to a star.
+[00:22:32.631 --> 00:22:37.031] STUBBS: One great blast and the crowd rises.
+[00:22:39.140 --> 00:22:42.420] STUBBS: A brand new era in astrophysics.
+[00:22:44.580 --> 00:22:47.540] STUBBS: Postponed one hundred and ninety six years
+[00:22:50.900 --> 00:22:52.020] STUBBS: on account of rain.
+[00:23:28.260 --> 00:23:28.980] CRUSHER: We have to talk.
+[00:23:31.780 --> 00:23:34.020] CRUSHER: You really look like you could use some rest, Wesley.
+[00:23:35.220 --> 00:23:35.540] WESLEY: I know.
+[00:23:37.300 --> 00:23:38.420] WESLEY: It's okay. Really.
+[00:23:40.580 --> 00:23:41.700] CRUSHER: No, it's not okay.
+[00:23:42.420 --> 00:23:42.740] CRUSHER: Really.
+[00:23:43.940 --> 00:23:49.572] WESLEY: Look, mom, I'm just checking some traps that I set to see if I can find out what's happening to the Enterprise.
+[00:23:49.572 --> 00:23:50.340] CRUSHER: On someone's orders?
+[00:23:51.220 --> 00:23:53.060] WESLEY: We're running out of time for Doctor Stubbs.
+[00:23:53.460 --> 00:23:55.940] CRUSHER: You can't put everything on your shoulders, Wesley.
+[00:23:56.020 --> 00:23:57.700] CRUSHER: Even when you're off duty, you're on duty.
+[00:23:58.020 --> 00:23:59.700] WESLEY: Mom, you don't understand.
+[00:24:00.020 --> 00:24:01.940] CRUSHER: You are a seventeen year old
+[00:24:02.180 --> 00:24:02.516] CRUSHER: boy.
+[00:24:02.516 --> 00:24:05.540] WESLEY: I'm also an acting officer and I have responsibilities.
+[00:24:07.497 --> 00:24:11.337] CRUSHER: I'm beginning to think maybe you've taken on too many responsibilities.
+[00:24:12.137 --> 00:24:15.097] WESLEY: Look, I have done everything that everyone has asked of me and more.
+[00:24:15.337 --> 00:24:16.137] WESLEY: And how can you know?
+[00:24:16.137 --> 00:24:17.177] WESLEY: You haven't even been here.
+[00:24:26.217 --> 00:24:27.337] CRUSHER: I'm here now, Wesley.
+[00:24:33.017 --> 00:24:33.497] CRUSHER: Come on,
+[00:24:34.617 --> 00:24:35.177] CRUSHER: I'll help you.
+[00:24:36.217 --> 00:24:36.937] CRUSHER: What are you looking for?
+[00:24:42.537 --> 00:24:43.337] CRUSHER: Wesley?
+[00:24:53.897 --> 00:24:55.337] WESLEY: I think I've made a horrible mistake.
+[00:24:59.897 --> 00:25:07.417] CRUSHER: Nanites. Tiny machines built from the atom up. Designed to have exposure only to the inside of nucleii during cellular surgeries.
+[00:25:07.817 --> 00:25:12.057] CRUSHER: Until then, they are kept tightly confined in a non-functioning state.
+[00:25:12.857 --> 00:25:14.297] DATA: These are not ordinary nanites.
+[00:25:14.857 --> 00:25:17.417] CRUSHER: No, they have evolved.
+[00:25:17.817 --> 00:25:18.457] STUBBS: Evolved?
+[00:25:19.097 --> 00:25:20.857] STUBBS: How does a machine evolve?
+[00:25:22.857 --> 00:25:23.337] WESLEY: It's true.
+[00:25:24.617 --> 00:25:26.057] WESLEY: I am responsible for this.
+[00:25:26.937 --> 00:25:31.097] WESLEY: I allowed two of the nanites to interact for a school project.
+[00:25:31.253 --> 00:25:34.773] WESLEY: I wanted to increase their capabilities. And they escaped.
+[00:25:35.733 --> 00:25:36.773] PICARD: School project?
+[00:25:38.133 --> 00:25:40.053] PICARD: Just how far have these things evolved?
+[00:25:41.413 --> 00:25:41.813] WESLEY: Well,
+[00:25:43.973 --> 00:25:47.173] WESLEY: this is a sample of linear memory crystal from our computer core.
+[00:25:58.533 --> 00:25:59.493] RIKER: It's like candy to them.
+[00:26:00.373 --> 00:26:03.093] CRUSHER: As you can see, they're able to mechanically replicate themselves.
+[00:26:03.973 --> 00:26:08.133] DATA: It is conceivable that with each new generation they enhance their own design.
+[00:26:08.773 --> 00:26:10.373] DATA: The rate of evolution would be extraordinary.
+[00:26:10.693 --> 00:26:12.453] PICARD: How many generations are we dealing with here?
+[00:26:15.253 --> 00:26:20.693] DATA: Engineering, display computer core processor four five one, element zero two nine nine.
+[00:26:22.693 --> 00:26:24.933] DATA: Increase magnification, factor one thousand.
+[00:26:29.333 --> 00:26:31.573] PICARD: Can it be possible they know what they're doing?
+[00:26:32.533 --> 00:26:33.493] RIKER: Why would they attack us?
+[00:26:33.813 --> 00:26:35.093] STUBBS: Why does a mosquito bite your ear?
+[00:26:35.973 --> 00:26:36.773] STUBBS: and who cares?
+[00:26:37.333 --> 00:26:38.453] STUBBS: The answer is simple.
+[00:26:38.773 --> 00:26:39.973] STUBBS: Call an exterminator.
+[00:26:41.253 --> 00:26:51.733] CRUSHER: Doctor Stubbs, these nanites are now working with a new collective intelligence. Operating together. Teaching each other skills.
+[00:26:51.973 --> 00:26:52.693] STUBBS: Oh really.
+[00:26:53.733 --> 00:26:55.573] STUBBS: I'm sorry but this is nonsense.
+[00:26:56.293 --> 00:26:58.693] STUBBS: You can't have a civilisation of computer chips.
+[00:26:59.413 --> 00:27:01.733] STUBBS: They're made in a plant in Dakar, Senegal.
+[00:27:01.962 --> 00:27:03.162] STUBBS: I've watched the construction.
+[00:27:05.082 --> 00:27:08.922] CRUSHER: Then how do you explain what we've seen here?
+[00:27:10.202 --> 00:27:14.282] STUBBS: It's no more mysterious than watching a strain of the Leutscher virus reproduce itself.
+[00:27:15.562 --> 00:27:17.882] STUBBS: And that at least is a bona fide lifeform.
+[00:27:19.402 --> 00:27:24.442] STUBBS: How many disease germs and viruses have you destroyed in your time, Doctor Crusher?
+[00:27:25.402 --> 00:27:29.642] PICARD: Doctor Stubbs, we cannot exterminate something that may or may not be intelligent.
+[00:27:29.962 --> 00:27:31.002] STUBBS: My good Captain.
+[00:27:33.082 --> 00:27:33.722] PICARD: There's still time.
+[00:27:34.522 --> 00:27:38.202] PICARD: Ensign, will you work with mister Data to try to remove them safely.
+[00:27:38.842 --> 00:27:42.682] PICARD: If things get worse, we'll use stronger measures.
+[00:28:02.442 --> 00:28:02.922] STUBBS: Gentlemen.
+[00:28:04.602 --> 00:28:10.682] STUBBS: I need a computer that is one hundred percent in less than eight hours, and we still have core reconstruction to consider.
+[00:28:11.962 --> 00:28:13.642] WESLEY: We're trying low gamma bursts.
+[00:28:13.642 --> 00:28:15.162] WESLEY: We think it might slow down their productivity.
+[00:28:15.802 --> 00:28:17.402] STUBBS: Have you considered a high level charge?
+[00:28:18.602 --> 00:28:20.362] DATA: High level gamma radiation would kill them, Doctor.
+[00:28:21.802 --> 00:28:22.202] STUBBS: I know.
+[00:28:23.402 --> 00:28:27.962] PICARD: I can't get the story of Gulliver out of my head.
+[00:28:28.682 --> 00:28:30.362] PICARD: Overpowered by Lilliputians.
+[00:28:31.402 --> 00:28:32.602] PICARD: How long do we have to wait?
+[00:28:33.345 --> 00:28:38.865] RIKER: We can continue to bypass the part of the computer that's affected, but if the nanites are spreading through the whole the ship.
+[00:28:39.015 --> 00:28:39.615] PICARD: Do
+[00:28:48.000 --> 00:28:53.000] [throat clearing]
+[00:28:48.145 --> 00:28:49.105] PICARD: you smell a change?
+[00:28:50.785 --> 00:28:50.945] PICARD: What?
+[00:28:51.025 --> 00:28:51.585] PICARD: Picard to
+[00:28:54.000 --> 00:28:59.000] [throat clearing]
+[00:28:57.825 --> 00:28:58.705] PICARD: La Forge. We have an
+[00:28:59.345 --> 00:29:01.505] PICARD: environmental system malfunction on the Bridge.
+[00:29:01.505 --> 00:29:02.065] PICARD: Acknowledge.
+[00:29:02.065 --> 00:29:02.705] LAFORGE: Aye, sir.
+[00:29:02.705 --> 00:29:03.345] RIKER: Nitrogen oxide.
+[00:29:03.505 --> 00:29:04.465] RIKER: Toxic levels.
+[00:29:04.545 --> 00:29:05.345] LAFORGE: Working on it, Captain.
+[00:29:11.825 --> 00:29:16.065] RIKER: I've switched to manual control of the air handling system.
+[00:29:22.065 --> 00:29:22.865] PICARD: Mister
+[00:29:27.585 --> 00:29:28.305] PICARD: Worf, report.
+[00:29:28.705 --> 00:29:33.425] WORF: He entered a computer access room and sterilised one of the processors with gamma radiation.
+[00:29:34.145 --> 00:29:36.465] DATA: The nanites in the upper core are all dead, Captain.
+[00:29:45.905 --> 00:29:47.105] STUBBS: You have no choice now.
+[00:29:47.745 --> 00:29:49.025] STUBBS: It is a matter of survival.
+[00:29:49.665 --> 00:29:51.905] PICARD: Doctor Stubbs, if you were a member of my crew, sir, I would
+[00:29:51.905 --> 00:29:53.825] STUBBS: But I am not a member of your crew, sir.
+[00:29:54.865 --> 00:30:01.185] STUBBS: I am a representative of the highest command of the Federation, which has directed you to perform my experiment.
+[00:30:01.185 --> 00:30:01.265] PICARD: If
+[00:30:02.785 --> 00:30:05.345] PICARD: any man, woman or child on this ship is harmed
+[00:30:05.317 --> 00:30:10.997] PICARD: as a result of your experiment, I will have your head before the highest command in the Federation.
+[00:30:11.397 --> 00:30:16.517] STUBBS: Good Lord, you are talking about machines with a screw loose.
+[00:30:16.997 --> 00:30:19.877] STUBBS: Simply turn them off and be done with them.
+[00:30:19.877 --> 00:30:20.517] DATA: Doctor Stubbs,
+[00:30:21.397 --> 00:30:24.517] DATA: your own actions have provided evidence to the contrary.
+[00:30:25.317 --> 00:30:29.957] DATA: When you destroyed the nanites in the core, they responded by interfering with our life support systems.
+[00:30:30.517 --> 00:30:34.677] DATA: It is difficult to accept these as random actions by machines with loose screws.
+[00:30:35.237 --> 00:30:39.077] DATA: In effect, you may have proven that the nanites do have a collective intelligence.
+[00:30:40.197 --> 00:30:42.357] WORF: Captain, the ship is at risk.
+[00:30:43.157 --> 00:30:45.237] WORF: Extermination may be our only alternative.
+[00:30:45.877 --> 00:30:46.277] STUBBS: A good point.
+[00:30:48.037 --> 00:30:48.517] PICARD: Lieutenant Worf,
+[00:30:48.677 --> 00:30:51.397] PICARD: I want Doctor Stubbs confined to his quarters until further notice.
+[00:31:02.757 --> 00:31:07.237] PICARD: Mister Data, can you find me some way to communicate with these things?
+[00:31:08.677 --> 00:31:14.757] DATA: With intelligence, there is the capability of language, but it will depend on how far their evolution has brought them.
+[00:31:16.037 --> 00:31:20.837] DATA: We could modify the circuitry in the universal translator to make it capable of communications with them.
+[00:31:23.157 --> 00:31:23.477] PICARD: Proceed.
+[00:31:39.792 --> 00:31:40.672] TROI: May I come in?
+[00:31:42.432 --> 00:31:44.272] STUBBS: You just can't resist, can you, Counsellor?
+[00:31:47.952 --> 00:31:49.232] TROI: I only want to help.
+[00:31:50.432 --> 00:31:51.872] STUBBS: Yes, yes.
+[00:31:52.832 --> 00:31:57.312] STUBBS: To break the shell. To get in touch with my true feelings.
+[00:31:59.312 --> 00:32:01.952] TROI: I'm only worried about your state of mind, Doctor.
+[00:32:03.312 --> 00:32:04.032] STUBBS: All right, Counsellor,
+[00:32:05.632 --> 00:32:07.392] STUBBS: what is it that has you so worried?
+[00:32:08.112 --> 00:32:12.672] TROI: Your single-mindedness, your need to have this experiment work.
+[00:32:12.752 --> 00:32:13.152] STUBBS: But it will.
+[00:32:14.352 --> 00:32:15.712] STUBBS: Picard has no choice now.
+[00:32:16.192 --> 00:32:17.632] STUBBS: He must defend the Enterprise.
+[00:32:22.592 --> 00:32:22.992] STUBBS: Counsellor,
+[00:32:24.192 --> 00:32:33.152] STUBBS: when this is all over, I will show you New Manhattan on Beth Delta One as you've never seen it, and we will laugh over glasses of champagne.
+[00:32:34.832 --> 00:32:38.992] TROI: Your self portrait is so practiced, so polished.
+[00:32:39.472 --> 00:32:41.472] STUBBS: Yes, isn't it, though?
+[00:32:42.592 --> 00:32:48.272] TROI: It is stretched so tight the tension fills this room. And if you finally fail,
+[00:32:49.952 --> 00:32:50.992] TROI: I fear it will snap.
+[00:32:55.232 --> 00:32:56.192] STUBBS: A good try, Counsellor.
+[00:33:01.312 --> 00:33:02.192] STUBBS: But sometimes
+[00:33:03.792 --> 00:33:10.032] STUBBS: when you reach beneath a man's self portrait, as you so eloquently put it, deep down inside
+[00:33:10.417 --> 00:33:11.217] STUBBS: what you find
+[00:33:13.057 --> 00:33:13.937] STUBBS: is nothing at all.
+[00:33:45.697 --> 00:33:48.097] STUBBS: Lockman on first,
+[00:33:49.857 --> 00:33:50.737] STUBBS: Dark on second.
+[00:33:52.257 --> 00:33:53.217] STUBBS: Thompson at the plate
+[00:33:55.297 --> 00:33:55.857] STUBBS: Branca on the mound.
+[00:34:40.017 --> 00:34:42.257] CRUSHER: He's coming around.
+[00:34:43.292 --> 00:34:45.452] PICARD: I cannot believe this was not an arbitrary attack.
+[00:34:46.332 --> 00:34:48.172] CRUSHER: Has Data made any progress in contacting them?
+[00:34:48.252 --> 00:34:48.972] STUBBS: Picard.
+[00:34:52.652 --> 00:34:53.692] STUBBS: You must protect me.
+[00:34:55.212 --> 00:34:55.772] STUBBS: Kill them!
+[00:35:09.372 --> 00:35:15.052] PICARD: Commander Riker. On my signal, we will gamma-irradiate all computer systems throughout the Enterprise.
+[00:35:16.572 --> 00:35:17.852] PICARD: Let's put an end to this conflict.
+[00:35:19.212 --> 00:35:21.532] RIKER: Worf, prepare to activate gamma pulse generators.
+[00:35:25.212 --> 00:35:27.052] WORF: Electromagnetic scanners ready, Captain.
+[00:35:32.412 --> 00:35:36.172] DATA: Captain. I
+[00:35:43.372 --> 00:35:44.492] DATA: have established contact.
+[00:35:52.252 --> 00:35:57.532] DATA: As we continue, Captain, they are virtually learning the concept of communication.
+[00:35:58.252 --> 00:36:00.572] DATA: Each new generation is making modifications.
+[00:36:00.732 --> 00:36:02.092] PICARD: Can we actually talk to them yet?
+[00:36:02.732 --> 00:36:03.852] DATA: I believe it is worth an attempt. sir.
+[00:36:06.012 --> 00:36:08.492] PICARD: Commander Riker, bring Doctor Stubbs to the Bridge.
+[00:36:11.932 --> 00:36:14.172] STUBBS: I don't think this is a wise idea.
+[00:36:14.749 --> 00:36:16.189] STUBBS: They have already tried to kill me
+[00:36:16.189 --> 00:36:16.669] STUBBS: once.
+[00:36:16.989 --> 00:36:18.589] RIKER: One sure way into the record books, Doctor.
+[00:36:23.709 --> 00:36:24.349] DATA: I am ready, sir.
+[00:36:24.989 --> 00:36:28.589] PICARD: Tell them the human who destroyed their comrades is here and wishes to address them.
+[00:36:29.149 --> 00:36:30.001] STUBBS: Captain, if I
+[00:36:30.001 --> 00:36:34.829] PICARD: You, sir, you will explain your error and apologise, and pray that we can negotiate a peace
+[00:36:34.909 --> 00:36:36.189] PICARD: we can all live with.
+[00:36:36.509 --> 00:36:36.989] PICARD: Is that clear?
+[00:36:38.109 --> 00:36:38.349] DATA: Captain,
+[00:36:39.949 --> 00:36:44.189] DATA: if a face to face negotiation would be helpful, I would like to volunteer myself as a conduit.
+[00:36:45.149 --> 00:36:45.789] RIKER: Yourself, Data?
+[00:36:46.509 --> 00:36:50.429] DATA: I can easily furnish the nanites with a schematic design of my neurological structure.
+[00:36:51.229 --> 00:36:54.589] DATA: Entering my neural network would require no more than their most basic skills.
+[00:36:54.909 --> 00:36:56.349] CRUSHER: That's what they were designed for.
+[00:36:57.309 --> 00:37:03.869] DATA: They could penetrate the molecular fabric of my hand-covering into my nerve circuitry, and interface with my verbal programs.
+[00:37:04.749 --> 00:37:08.589] WORF: If they have control of a Starfleet Commander, they become an even greater threat.
+[00:37:09.869 --> 00:37:12.109] PICARD: How can we be sure we can get them out of you?
+[00:37:12.909 --> 00:37:17.149] DATA: It would be a considerable risk, sir, but it would also represent a gesture of trust on our part.
+[00:37:17.709 --> 00:37:19.229] DATA: It could be an important step toward peace, sir.
+[00:37:20.349 --> 00:37:20.909] PICARD: All right, Data.
+[00:37:21.709 --> 00:37:23.149] PICARD: Propose it to the nanites.
+[00:37:27.069 --> 00:37:27.309] DATA: The
+[00:37:30.669 --> 00:37:31.469] DATA: answer is yes.
+[00:37:32.989 --> 00:37:38.989] DATA: They are ready, Captain.
+[00:37:41.389 --> 00:37:41.709] PICARD: Proceed.
+[00:38:13.498 --> 00:38:14.058] DATA: You are very
+[00:38:15.978 --> 00:38:18.458] DATA: strange looking creatures.
+[00:38:20.378 --> 00:38:25.978] PICARD: In our travels, we have encountered many other creatures, perhaps even stranger-looking than ourselves.
+[00:38:26.538 --> 00:38:28.938] PICARD: But we try to co-exist peacefully with them.
+[00:38:29.418 --> 00:38:30.458] DATA: Why did you attack us?
+[00:38:31.258 --> 00:38:34.138] PICARD: We misinterpreted your actions as an attack on us.
+[00:38:35.738 --> 00:38:36.058] DATA: We were
+[00:38:37.738 --> 00:38:42.698] DATA: seeking raw materials for our replicating process.
+[00:38:42.778 --> 00:38:46.778] PICARD: Yes, but you endangered this vessel in which we all travel. You nearly killed a crewmember.
+[00:38:48.058 --> 00:38:48.938] DATA: We meant no harm.
+[00:38:50.058 --> 00:38:50.378] DATA: We were
+[00:38:53.498 --> 00:38:54.218] DATA: exploring.
+[00:38:56.218 --> 00:38:56.778] PICARD: I understand.
+[00:38:57.978 --> 00:38:59.018] PICARD: We are also explorers.
+[00:38:59.018 --> 00:39:04.058] PICARD: We mean no harm to any other living creature.
+[00:39:08.218 --> 00:39:12.058] STUBBS: I am the one responsible for the deaths in the computer core.
+[00:39:13.264 --> 00:39:15.504] DATA: We know who you are.
+[00:39:17.744 --> 00:39:19.424] STUBBS: I deeply regret the incident.
+[00:39:21.584 --> 00:39:23.664] STUBBS: I am a scientist on an important mission.
+[00:39:24.224 --> 00:39:28.064] STUBBS: Your colleagues' exploration of the core memory put our mission at risk.
+[00:39:29.024 --> 00:39:32.144] STUBBS: I was only trying to protect a lifetime of work from being destroyed.
+[00:39:35.664 --> 00:39:36.864] STUBBS: I am at your mercy.
+[00:39:37.984 --> 00:39:40.144] DATA: What is at your mercy?
+[00:39:41.424 --> 00:39:43.024] PICARD: He asks your forgiveness.
+[00:39:44.304 --> 00:39:48.144] PICARD: This conflict was started by mistakes on both sides.
+[00:39:48.304 --> 00:39:49.344] PICARD: Let's agree to end it here and
+[00:39:51.904 --> 00:39:51.904] PICARD: now.
+[00:39:51.984 --> 00:39:52.224] DATA: We
+[00:39:55.504 --> 00:39:55.904] DATA: agree.
+[00:39:59.584 --> 00:40:04.864] PICARD: I pledge we will do everything possible to assist your continued survival.
+[00:40:06.144 --> 00:40:06.544] DATA: Thank you,
+[00:40:07.744 --> 00:40:11.904] DATA: but we have evolved beyond any need for your assistance.
+[00:40:13.344 --> 00:40:15.744] DATA: This vessel has become too confining.
+[00:40:18.304 --> 00:40:20.704] DATA: We require relocation.
+[00:40:22.384 --> 00:40:23.584] LOG: Captain's log, supplemental.
+[00:40:24.304 --> 00:40:31.504] LOG: Doctor Stubbs has used his influence to have planet Kavis Alpha Four designated the new home of the nanite civilisation.
+[00:40:32.064 --> 00:40:34.544] LOG: Commander Data's neural network has been vacated.
+[00:40:35.104 --> 00:40:42.464] LOG: He has been returned to us unharmed. And with the help of the nanites, our computer core has been reconstructed in time for the experiment
+[00:40:48.361 --> 00:40:49.881] DATA: Ten seconds to stellar blast, sir.
+[00:40:50.841 --> 00:40:53.001] WESLEY: We're at forty million kilometres from the neutron star, sir.
+[00:40:53.241 --> 00:40:53.881] RIKER: Hold your position.
+[00:41:15.881 --> 00:41:16.201] PICARD: Doctor?
+[00:41:16.201 --> 00:41:16.201] CRUSHER: Do
+[00:41:36.681 --> 00:41:37.961] CRUSHER: you have any children, Guinan?
+[00:41:39.481 --> 00:41:39.881] GUINAN: A lot.
+[00:41:41.161 --> 00:41:42.681] CRUSHER: Ever have any trouble relating to them?
+[00:41:43.801 --> 00:41:44.441] GUINAN: Just one.
+[00:41:45.241 --> 00:41:45.481] CRUSHER: One?
+[00:41:46.521 --> 00:41:47.561] GUINAN: Wouldn't listen to anybody.
+[00:41:47.711 --> 00:41:48.311] CRUSHER: Well,
+[00:41:49.401 --> 00:41:50.601] CRUSHER: they all go through that.
+[00:41:51.401 --> 00:41:52.761] GUINAN: Not in a species of listeners.
+[00:41:55.321 --> 00:41:56.007] CRUSHER: Did he grow out of it?
+[00:41:56.007 --> 00:41:56.121] GUINAN: It
+[00:41:57.881 --> 00:42:01.401] GUINAN: took several hundred years but I managed to bring him around.
+[00:42:01.401 --> 00:42:01.401] CRUSHER: How?
+[00:42:03.241 --> 00:42:05.961] GUINAN: A mother shapes her child in ways she doesn't even realise.
+[00:42:06.521 --> 00:42:07.961] GUINAN: Sometimes just by listening.
+[00:42:13.958 --> 00:42:14.598] GUINAN: Cute couple.
+[00:42:17.478 --> 00:42:21.638] CRUSHER: See? Now that is healthy for a boy his age.
+[00:42:22.038 --> 00:42:23.638] CRUSHER: I mean that as a doctor, not as just a mother.
+[00:42:24.758 --> 00:42:35.478] CRUSHER: It is so good to see him having fun for a change, with an attractive young woman who obviously looks at him with extraordinary affection.
+[00:42:36.598 --> 00:42:39.238] CRUSHER: What do you know about this girl?
+[00:42:45.000 --> 00:43:03.000] [music]
+[00:43:08.000 --> 00:43:19.000] [music]
+[00:43:20.000 --> 00:43:29.000] [music]

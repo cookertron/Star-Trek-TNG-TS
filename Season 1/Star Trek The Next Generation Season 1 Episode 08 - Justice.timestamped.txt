@@ -1,0 +1,687 @@
+[00:00:02.640 --> 00:00:05.760] LOG: Captain's log, stardate 41255.6.
+[00:00:06.560 --> 00:00:14.480] LOG: After delivering a party of Earth colonists to the Strnad solar system, we have discovered another Class M planet in the adjoining Rubicun star system.
+[00:00:15.040 --> 00:00:19.600] LOG: We are now in orbit there, having determined it to be inhabited as well as unusually lovely.
+[00:00:20.400 --> 00:00:25.440] LOG: My first officer has taken an away team down to make contact and they are in the process of returning to the ship.
+[00:00:26.080 --> 00:00:29.280] PICARD: Riker says the planet's life forms are almost identical to us.
+[00:00:29.520 --> 00:00:30.540] TROI: He's very enthusiastic.
+[00:00:30.540 --> 00:00:30.880] CRUSHER: Captain?
+[00:00:32.000 --> 00:00:32.880] CRUSHER: Sorry, Troi.
+[00:00:33.680 --> 00:00:36.240] TROI: The Doctor has something very important to tell you, Captain.
+[00:00:36.480 --> 00:00:37.920] PICARD: You've been talking about it for days.
+[00:00:38.400 --> 00:00:39.840] PICARD: Shore leave for the crew.
+[00:00:40.560 --> 00:00:44.080] CRUSHER: Establishing that colony has been exhausting for the entire crew, Captain.
+[00:00:44.800 --> 00:00:45.920] CRUSHER: We're not a supply vessel.
+[00:00:46.480 --> 00:00:48.720] CRUSHER: Settling all those people has been a strain on everyone.
+[00:00:49.120 --> 00:00:49.920] CRUSHER: I'm tired myself.
+[00:00:54.400 --> 00:00:56.560] PICARD: Is it as good as your report suggests, Number One?
+[00:00:56.640 --> 00:00:59.760] RIKER: As per report, sir. Class M, Earth-like, beautiful.
+[00:01:00.720 --> 00:01:01.600] RIKER: It will startle you.
+[00:01:01.920 --> 00:01:03.200] CRUSHER: It sounds wonderful for the children.
+[00:01:04.000 --> 00:01:09.200] CRUSHER: The holodecks are marvellous, of course, but there's nothing like open spaces and fresh air.
+[00:01:10.560 --> 00:01:12.800] TASHA: I've listed my report on their customs and laws, sir.
+[00:01:13.280 --> 00:01:15.040] TASHA: Fairly simple, common sense things.
+[00:01:15.440 --> 00:01:17.840] LAFORGE: They're wild in some ways, actually puritanical in others.
+[00:01:18.000 --> 00:01:18.720] LAFORGE: Neat as pins,
+[00:01:18.800 --> 00:01:19.600] LAFORGE: ultra-lawful, and
+[00:01:19.920 --> 00:01:22.000] LAFORGE: make love at the drop of a hat.
+[00:01:22.800 --> 00:01:23.760] TASHA: Any hat.
+[00:01:27.600 --> 00:01:28.080] PICARD: But the
+[00:01:28.410 --> 00:01:29.850] PICARD: happiest report has its negatives.
+[00:01:29.850 --> 00:01:30.570] PICARD: Let's start with them,
+[00:01:30.570 --> 00:01:31.023] PICARD: Number One.
+[00:01:31.023 --> 00:01:31.930] RIKER: There are none, sir.
+[00:01:32.090 --> 00:01:33.050] RIKER: Not that any of us can find.
+[00:01:33.850 --> 00:01:35.210] DATA: But there is a problem here, sir.
+[00:01:35.370 --> 00:01:37.210] WORF: It's the faulty reading I reported, sir.
+[00:01:37.850 --> 00:01:41.210] DATA: I'm reading something off the starboard bow, but there is nothing there.
+[00:01:44.970 --> 00:01:46.490] TASHA: Sensor technicians are working on it, sir.
+[00:01:47.130 --> 00:01:49.210] TASHA: They've identified it as a glitch in the system.
+[00:01:51.610 --> 00:01:54.570] PICARD: I take it you find no glitch at all in this planet, however?
+[00:01:55.130 --> 00:01:55.690] RIKER: No, sir.
+[00:01:56.330 --> 00:01:59.450] TASHA: If you approve shore leave, sir, we could start with a small group.
+[00:02:00.490 --> 00:02:00.890] PICARD: Of course.
+[00:02:01.690 --> 00:02:08.650] PICARD: Wesley? If we go down, I'd like you to join the away team to evaluate this world as a place for young people to relax.
+[00:02:08.970 --> 00:02:09.450] WESLEY: Yes, sir.
+[00:02:10.410 --> 00:02:14.170] PICARD: If our scans and observations confirm the report, of course I'll approve it.
+[00:02:18.010 --> 00:02:20.250] PICARD: Let's hope it is not too good to be true.
+[00:02:41.050 --> 00:02:43.850] PICARD: Space, the final frontier.
+[00:02:45.690 --> 00:02:48.570] PICARD: These are the voyagers of the starship Enterprise.
+[00:02:49.690 --> 00:02:53.450] PICARD: Its continuing mission to explore strange new worlds, to
+[00:02:55.290 --> 00:02:57.930] PICARD: seek out new life and new civilizations.
+[00:02:59.621 --> 00:03:02.501] PICARD: To boldly go when no one has gone before.
+[00:03:19.000 --> 00:03:28.000] [music]
+[00:03:36.000 --> 00:03:45.000] [music]
+[00:04:04.101 --> 00:04:05.061] LOG: Captain's log, supplemental.
+[00:04:05.941 --> 00:04:11.541] LOG: We are in orbit of a planet designated Rubicun Three, the home of a life form who call themselves the Edo.
+[00:04:12.341 --> 00:04:19.061] LOG: Our away team, including Wesley Crusher, has beamed down to make arrangements concerning some well-deserved recreation.
+[00:04:26.501 --> 00:04:28.741] WORF: Careful, sir.
+[00:04:28.821 --> 00:04:29.781] RIKER: No, it's all right, Lieutenant.
+[00:04:30.021 --> 00:04:31.141] RIKER: Those are the Edo we met before.
+[00:04:33.415 --> 00:04:36.615] RIKER: They certainly are fit.
+[00:04:38.055 --> 00:04:39.175] TROI: They certainly are.
+[00:04:41.415 --> 00:04:44.135] RIVAN: Health and happiness.
+[00:04:44.135 --> 00:04:45.095] LIATOR: A pleasant day to you.
+[00:04:45.255 --> 00:04:46.695] RIVAN: You did return as promised.
+[00:04:55.015 --> 00:04:59.320] RIKER: Rivan, Liator. Also from our vessel, Troi.
+[00:04:59.320 --> 00:05:04.855] LIATOR: Slowly, slowly. I must also welcome this lovely one.
+[00:05:14.135 --> 00:05:15.495] LIATOR: Nice to see you again.
+[00:05:15.495 --> 00:05:15.495] TASHA: My
+[00:05:18.135 --> 00:05:18.135] TASHA: pleasure.
+[00:05:24.935 --> 00:05:25.335] RIKER: Counsellor?
+[00:05:26.455 --> 00:05:27.895] TROI: Healthy sensuality, sir.
+[00:05:27.975 --> 00:05:32.615] TROI: I feel mainly friendship, and happiness.
+[00:05:34.295 --> 00:05:36.455] RIVAN: And I welcome this huge one.
+[00:05:37.975 --> 00:05:38.695] RIVAN: Oh, yes.
+[00:05:43.655 --> 00:05:44.375] WORF: Nice planet.
+[00:05:47.655 --> 00:05:47.815] RIKER: Yeah.
+[00:05:49.815 --> 00:05:52.855] RIVAN: But you are a young one.
+[00:05:54.215 --> 00:05:55.815] RIVAN: I do not know your custom regarding love.
+[00:05:57.655 --> 00:05:57.975] WESLEY: Er.
+[00:06:01.206 --> 00:06:05.046] WESLEY: I guess, whatever you usually do.
+[00:06:12.006 --> 00:06:14.886] RIKER: There are others who would like to visit here, if you would give us a limit on the numbers.
+[00:06:14.886 --> 00:06:18.086] LIATOR: Whatever pleases you. We can discuss it at the Council Chambers.
+[00:06:18.326 --> 00:06:20.646] RIVAN: Shall we go there now or remain in play?
+[00:06:21.926 --> 00:06:22.246] RIKER: Play?
+[00:06:23.686 --> 00:06:24.326] RIVAN: At love.
+[00:06:25.606 --> 00:06:26.886] RIVAN: Unless you don't enjoy that.
+[00:06:30.806 --> 00:06:31.686] RIVAN: Perhaps you do?
+[00:06:36.086 --> 00:06:36.806] LIATOR: And you?
+[00:06:39.686 --> 00:06:41.366] LIATOR: Yes, I can see that you do.
+[00:06:42.486 --> 00:06:44.726] WESLEY: Maybe I should just go on ahead.
+[00:06:46.326 --> 00:06:47.766] RIVAN: Oh, this is unfair to him.
+[00:06:48.566 --> 00:06:50.006] RIVAN: We'll go to the Council Chambers.
+[00:06:50.246 --> 00:06:51.846] RIVAN: You'll find young people your age there.
+[00:06:52.246 --> 00:06:54.966] WESLEY: Well, I can't make any promises.
+[00:06:56.326 --> 00:06:57.286] LIATOR: You don't have to.
+[00:06:58.006 --> 00:06:59.126] LIATOR: Our rules are simple.
+[00:07:00.006 --> 00:07:01.926] LIATOR: No one does anything uncomfortable to them.
+[00:07:02.486 --> 00:07:04.326] RIVAN: Come! Our people will want to know you.
+[00:07:05.286 --> 00:07:08.166] LIATOR: Rivan, perhaps they can't run.
+[00:07:09.126 --> 00:07:10.006] WESLEY: Can't run?
+[00:07:10.966 --> 00:07:12.006] WESLEY: Sure we can run.
+[00:07:12.406 --> 00:07:13.046] WESLEY: Right, Commander?
+[00:07:14.086 --> 00:07:14.886] RIKER: That's the custom here,
+[00:07:14.886 --> 00:07:15.286] RIKER: running.
+[00:07:16.646 --> 00:07:17.126] RIKER: Lead the way.
+[00:07:18.086 --> 00:07:19.046] RIKER: When
+[00:07:20.806 --> 00:07:21.046] RIKER: in Rome, eh?
+[00:07:24.886 --> 00:07:25.926] WORF: When in where, sir?
+[00:07:26.344 --> 00:07:26.504] EDO: Good
+[00:07:28.690 --> 00:07:30.690] EDO: health
+[00:07:32.877 --> 00:07:34.877] EDO: to
+[00:07:37.064 --> 00:07:39.064] EDO: you!
+[00:07:39.064 --> 00:07:39.064] TASHA: Happiness to you!
+[00:07:39.064 --> 00:07:42.117] TASHA: It's like an Eden here.
+[00:07:45.104 --> 00:07:47.104] RIVAN: Good
+[00:07:50.090 --> 00:07:52.090] RIVAN: health!
+[00:07:54.584 --> 00:07:55.704] RIVAN: I thought you might be out of breath.
+[00:07:56.424 --> 00:07:58.728] RIKER: We may surprise you in a lot of ways.
+[00:07:58.728 --> 00:07:58.984] LIATOR: Children,
+[00:08:00.104 --> 00:08:01.144] LIATOR: we've brought you a new friend!
+[00:08:01.864 --> 00:08:02.504] BOY: Well, hello.
+[00:08:03.064 --> 00:08:03.384] BOY: Join us.
+[00:08:03.784 --> 00:08:06.024] GIRL: Yes, please.
+[00:08:10.904 --> 00:08:14.824] RIVAN: And now it's time for you to meet some new friends.
+[00:08:19.544 --> 00:08:21.544] RIVAN: Everyone!
+[00:08:47.784 --> 00:08:48.744] RIVAN: We've brought the visitors!
+[00:08:49.624 --> 00:08:51.944] LIATOR: Please enjoy what we have!
+[00:09:08.530 --> 00:09:10.450] DATA: I've traced it through our sensor channel, sir
+[00:09:10.930 --> 00:09:13.490] DATA: It is not a glitch or any other form of error or malfunction.
+[00:09:13.970 --> 00:09:15.330] LAFORGE: Confirmed by my readings, Captain.
+[00:09:15.330 --> 00:09:17.730] LAFORGE: It's a shadow something.
+[00:09:17.810 --> 00:09:18.370] DATA: Exactly.
+[00:09:18.770 --> 00:09:20.930] DATA: As if it were neither in or out of our dimension.
+[00:09:21.490 --> 00:09:22.130] PICARD: What is, Commander?
+[00:09:22.930 --> 00:09:25.730] DATA: Whatever is sitting out there without triggering our alarm relays, sir.
+[00:09:27.010 --> 00:09:28.290] PICARD: Centre main viewer on that area.
+[00:09:35.410 --> 00:09:36.290] PICARD: I see nothing, Commander.
+[00:09:37.330 --> 00:09:39.330] DATA: Enterprise to object off our starboard bow.
+[00:09:39.890 --> 00:09:41.490] DATA: Request that you identify yourself.
+[00:10:01.810 --> 00:10:03.170] LAFORGE: Shields and deflectors up full, sir.
+[00:10:03.170 --> 00:10:04.850] LAFORGE: Main phaser banks ready.
+[00:10:05.570 --> 00:10:06.210] PICARD: Hailing frequencies.
+[00:10:06.210 --> 00:10:06.770] PICARD: Any reply?
+[00:10:07.090 --> 00:10:08.530] DATA: It was something unintelligible, Captain.
+[00:10:08.770 --> 00:10:10.832] DATA: Now running it through language and logic circuits.
+[00:10:10.832 --> 00:10:11.090] PICARD: Geordi.
+[00:10:11.090 --> 00:10:11.330] LAFORGE: Sir.
+[00:10:11.330 --> 00:10:12.290] PICARD: Have a real look.
+[00:10:12.770 --> 00:10:13.090] LAFORGE: Aye, sir.
+[00:10:14.450 --> 00:10:16.210] OFFICER: Sir, my sensors read it.
+[00:10:17.090 --> 00:10:20.770] OFFICER: Well, it's half there. It does look as if it were partly transparent.
+[00:10:24.141 --> 00:10:26.221] PICARD: Data, what the hell is it?
+[00:10:39.821 --> 00:10:41.021] LAFORGE: Lieutenant La Forge to Captain.
+[00:10:42.141 --> 00:10:42.781] PICARD: Go ahead, LaForge.
+[00:10:43.181 --> 00:10:43.901] PICARD: What can you make out?
+[00:10:44.861 --> 00:10:46.861] LAFORGE: This is something I've never seen before, sir.
+[00:10:48.141 --> 00:10:52.701] LAFORGE: After complete spectral analysis, well it's as if it's not really there.
+[00:10:53.581 --> 00:10:55.021] GEORDI: I don't understand it.
+[00:10:55.421 --> 00:10:57.741] DATA: I've got some information on its first transmission, sir.
+[00:10:58.221 --> 00:11:01.341] DATA: It translates as stand by. :
+[00:11:02.701 --> 00:11:04.221] OFFICER: Sir, I see show something coming out of that ship.
+[00:11:04.781 --> 00:11:05.501] DATA: Verified, sir.
+[00:11:06.221 --> 00:11:07.341] DATA: Something very small.
+[00:11:23.741 --> 00:11:24.541] OFFICER: Intruder alert, sir.
+[00:11:24.541 --> 00:11:25.981] OFFICER: I don't show a location.
+[00:11:27.101 --> 00:11:28.701] DATA: The away team signal's been cut off, Captain.
+[00:11:29.101 --> 00:11:30.381] DATA: We've lost contact with our people.
+[00:11:30.621 --> 00:11:32.221] OFFICER: Intruder relays do show something.
+[00:11:33.341 --> 00:11:35.261] PICARD: Why has everything become a something, or a whatever?
+[00:11:36.301 --> 00:11:36.701] EDO: State the purpose.
+[00:12:02.602 --> 00:12:05.802] EDO: State the purpose of what you have done.
+[00:12:07.562 --> 00:12:11.082] PICARD: I'm Captain Picard, commanding this Federation starship.
+[00:12:17.482 --> 00:12:20.442] EDO: State the purpose of your visit here.
+[00:12:23.402 --> 00:12:28.202] PICARD: We have sent down what we call an away team to make peaceful contact here.
+[00:12:29.082 --> 00:12:32.522] EDO: Do you plan to leave life forms here?
+[00:12:33.002 --> 00:12:33.402] PICARD: No.
+[00:12:35.002 --> 00:12:36.122] PICARD: We are merely visiting here.
+[00:12:36.682 --> 00:12:39.882] EDO: But you did more at the world you just left.
+[00:12:40.602 --> 00:12:43.962] EDO: Why have you left your own life forms there?
+[00:12:44.362 --> 00:12:45.882] DATA: The colony we just planted, sir.
+[00:12:47.562 --> 00:12:48.922] PICARD: We found that world uninhabited.
+[00:12:49.882 --> 00:12:52.122] PICARD: The life forms we left there had,
+[00:12:54.042 --> 00:12:55.322] PICARD: had sought the challenge.
+[00:12:55.882 --> 00:12:58.122] PICARD: At least, that is the basic reason.
+[00:12:58.122 --> 00:13:06.042] PICARD: Had sought the challenge of creating a new lifestyle, a new society there.
+[00:13:06.922 --> 00:13:13.002] PICARD: Life on our world is driven to protect itself by seeding itself as widely as possible.
+[00:13:13.802 --> 00:13:18.042] EDO: Do not interfere with my children below.
+[00:13:25.322 --> 00:13:25.802] DATA: Captain, I
+[00:13:27.242 --> 00:13:28.762] DATA: do not understand how, but
+[00:13:30.602 --> 00:13:31.482] DATA: it is asking me if
+[00:13:32.322 --> 00:13:36.162] DATA: I was constructed for information exchange.
+[00:13:37.362 --> 00:13:41.042] PICARD: If there is any way of finding out whatever is out there, Data.
+[00:14:01.362 --> 00:14:01.762] BOY: Watch!
+[00:14:01.762 --> 00:14:02.882] BOY: I bet you can't do this!
+[00:14:10.722 --> 00:14:11.602] WESLEY: Watch this.
+[00:14:19.042 --> 00:14:20.962] GIRL: I want to do something too. With you.
+[00:14:22.162 --> 00:14:24.082] WESLEY: Er. What?
+[00:14:24.482 --> 00:14:25.762] GIRL: It's something you can teach me.
+[00:14:25.842 --> 00:14:26.242] GIRL: Will you?
+[00:14:26.962 --> 00:14:33.602] WESLEY: Er. Well, actually, there are some games I don't quite know yet
+[00:14:34.482 --> 00:14:35.282] GIRL: It's playing ball.
+[00:14:35.522 --> 00:14:36.002] GIRL: Will you teach me?
+[00:14:37.202 --> 00:14:38.162] WESLEY: Oh, sure!
+[00:14:38.562 --> 00:14:41.922] WESLEY: If you have a bat for the ball, I can show you my favourite.
+[00:14:45.922 --> 00:14:46.322] WESLEY: A bat?
+[00:14:48.722 --> 00:14:50.482] WESLEY: A stick or branch,
+[00:14:50.962 --> 00:14:53.362] WESLEY: about this thick, this long.
+[00:14:54.722 --> 00:14:57.682] GIRL: We can get it in the gardens.
+[00:14:57.682 --> 00:14:58.002] GIRL: Come on.
+[00:15:12.070 --> 00:15:12.950] MAN: This will please you.
+[00:15:13.190 --> 00:15:13.670] MAN: Join us.
+[00:15:14.790 --> 00:15:15.109] RIKER: Thanks.
+[00:15:15.430 --> 00:15:15.989] RIKER: Another time.
+[00:15:22.150 --> 00:15:23.670] WOMAN: Joy and happiness.
+[00:15:25.030 --> 00:15:25.910] RIKER: It certainly is.
+[00:15:26.629 --> 00:15:26.709] RIKER: The
+[00:15:30.070 --> 00:15:30.790] RIKER: good life, Worf.
+[00:15:31.749 --> 00:15:33.589] WORF: I am not concerned with pleasure, Commander.
+[00:15:33.910 --> 00:15:34.709] WORF: I am a warrior.
+[00:15:36.550 --> 00:15:38.229] RIKER: Even Klingons need love now and then.
+[00:15:38.629 --> 00:15:41.190] WORF: For what we consider love, sir, I would need a Klingon woman.
+[00:15:42.070 --> 00:15:45.030] RIKER: What about plain old basic sex? You must have some need for that.
+[00:15:45.509 --> 00:15:46.070] WORF: Of course,
+[00:15:46.469 --> 00:15:52.229] WORF: but with the females available to me, sir, Earth females, I must restrain myself too much.
+[00:15:53.270 --> 00:15:54.709] WORF: They are quite fragile, sir.
+[00:15:56.310 --> 00:15:58.790] RIKER: Worf, if anyone else had said that, I'd suspect he was bragging.
+[00:16:00.469 --> 00:16:01.190] WORF: Bragging, sir?
+[00:16:01.989 --> 00:16:02.869] RIKER: I think I'll pass on that.
+[00:16:03.829 --> 00:16:04.469] RIKER: I'd better check in.
+[00:16:05.589 --> 00:16:06.310] RIKER: Enterprise, come in.
+[00:16:10.390 --> 00:16:11.269] RIKER: Captain, do you read me?
+[00:16:15.030 --> 00:16:15.589] RIKER: Let's.
+[00:16:16.550 --> 00:16:21.360] RIKER: This may be nothing, but let's move all our people together.
+[00:16:21.360 --> 00:16:23.109] WORF: Including Wesley, the boy?
+[00:16:23.670 --> 00:16:24.310] WORF: He's outside.
+[00:16:26.150 --> 00:16:27.190] TROI: Is there a problem?
+[00:16:27.190 --> 00:16:28.390] RIKER: We've lost contact with our ship.
+[00:16:28.390 --> 00:16:31.349] TROI: It's nothing these people have done.
+[00:16:31.749 --> 00:16:32.550] TROI: I'm certain of that.
+[00:16:33.363 --> 00:16:34.643] TROI: Their minds are so open.
+[00:16:36.243 --> 00:16:37.043] RIKER: Help me locate Wes.
+[00:16:37.043 --> 00:16:38.003] RIKER: He's wandered off.
+[00:16:40.883 --> 00:16:40.883] TASHA: That
+[00:16:52.083 --> 00:16:53.443] TASHA: is extraordinary.
+[00:16:53.683 --> 00:16:55.123] WORF: Can I take a moment of your time, Lieutenant?
+[00:16:55.283 --> 00:16:57.523] TASHA: Yes, Worf, but you've got to hear this.
+[00:16:58.323 --> 00:17:00.803] TASHA: Are you telling me that there's no crime here whatsoever?
+[00:17:01.363 --> 00:17:02.483] TASHA: No one breaks any laws?
+[00:17:03.203 --> 00:17:04.083] LIATOR: Once they did.
+[00:17:04.963 --> 00:17:07.443] LIATOR: Long, long ago there was much disorder.
+[00:17:08.483 --> 00:17:09.203] LIATOR: But not now.
+[00:17:10.163 --> 00:17:12.083] TASHA: But I seen no sign of police.
+[00:17:15.283 --> 00:17:16.643] TASHA: Those who enforce laws.
+[00:17:17.523 --> 00:17:18.803] RIVAN: Oh, we have very few.
+[00:17:19.523 --> 00:17:23.203] RIVAN: They are called Mediators. And they are needed only in one place each day.
+[00:17:23.443 --> 00:17:27.123] LIATOR: The punishment zone. An area that's selected for a period of time.
+[00:17:27.523 --> 00:17:29.123] TASHA: It's a completely random selection?
+[00:17:29.523 --> 00:17:32.563] LIATOR: No one but our Mediators know what place or for how long.
+[00:17:33.443 --> 00:17:35.763] LIATOR: We're very proud of the wisdom of our ancestors.
+[00:17:36.163 --> 00:17:38.803] LIATOR: No person ever knows where or when a zone will be.
+[00:17:38.883 --> 00:17:40.243] RIVAN: And so no one risks death.
+[00:17:41.363 --> 00:17:41.603] WORF: Death?
+[00:17:43.363 --> 00:17:44.403] RIVAN: by breaking any law.
+[00:17:45.043 --> 00:17:46.403] TASHA: Wait. Explain this.
+[00:17:46.723 --> 00:17:48.963] LIATOR: Only one punishment for any crime.
+[00:17:49.443 --> 00:17:52.403] WORF: Anyone who commits any crime in the punishment zone dies?
+[00:17:52.963 --> 00:17:54.243] LIATOR: The law is the law.
+[00:17:55.043 --> 00:17:56.483] LIATOR: Our peace is built on that.
+[00:17:56.963 --> 00:18:01.443] TASHA: Even a small thing? Such as ignoring the rule, keep off the grass?
+[00:18:02.003 --> 00:18:03.603] RIVAN: Then no one breaks that rule.
+[00:18:04.563 --> 00:18:06.083] RIVAN: Who wants to risk execution?
+[00:18:06.920 --> 00:18:10.600] RIVAN: And there's always a white wall or fence to remind anyone of a forbidden area like that.
+[00:18:11.960 --> 00:18:14.520] TASHA: And just who tells visitors about these rules?
+[00:18:15.640 --> 00:18:16.600] WORF: We'd better find Wesley.
+[00:18:52.040 --> 00:18:55.240] GIRL: You're very clever at this.
+[00:18:56.120 --> 00:18:57.160] WESLEY: At home we play a lot of it.
+[00:18:57.720 --> 00:18:58.760] WESLEY: Here, toss the ball ahead of me.
+[00:19:03.160 --> 00:19:03.960] GIRL: No, Wes!
+[00:19:03.960 --> 00:19:05.560] BOY: No! It's forbidden to disturb new
+[00:19:07.240 --> 00:19:09.240] BOY: plants!
+[00:19:11.440 --> 00:19:13.440] BOY: Couldn't
+[00:19:15.640 --> 00:19:18.520] BOY: you see the fence?
+[00:19:18.840 --> 00:19:19.880] BOY: It's for new plants.
+[00:19:19.880 --> 00:19:21.480] BOY: Don't ever go past a white marker.
+[00:19:22.760 --> 00:19:23.320] WESLEY: It's okay.
+[00:19:24.920 --> 00:19:25.400] WESLEY: I'm fine.
+[00:19:26.840 --> 00:19:27.320] GIRL: Oh, no!
+[00:19:27.880 --> 00:19:29.160] GIRL: Oh, please, no!
+[00:19:33.960 --> 00:19:34.760] MEDIATOR 2: Speak the truth.
+[00:19:35.003 --> 00:19:35.883] MEDIATOR 2: We are mediators.
+[00:19:37.483 --> 00:19:38.603] WESLEY: I said I was fine.
+[00:19:38.763 --> 00:19:39.803] GIRL: He doesn't know.
+[00:19:39.803 --> 00:19:40.923] GIRL: He's from another place.
+[00:19:41.323 --> 00:19:42.123] MEDIATOR 2: How very sad.
+[00:19:42.843 --> 00:19:44.443] MEDIATOR 2: But this zone has been selected.
+[00:19:45.003 --> 00:19:46.203] BOY: But he doesn't understand.
+[00:19:46.843 --> 00:19:47.643] MEDIATOR: It's always sad.
+[00:19:48.523 --> 00:19:49.323] MEDIATOR: Now doubly so.
+[00:19:52.683 --> 00:19:56.123] WESLEY: I was chasing a ball and I fell into that.
+[00:19:57.643 --> 00:19:58.443] WESLEY: I'm really sorry!
+[00:19:59.323 --> 00:20:01.323] MEDIATOR: You admit you did that? Freely?
+[00:20:03.483 --> 00:20:04.443] WESLEY: I'm with Starfleet.
+[00:20:05.083 --> 00:20:05.803] WESLEY: We don't lie.
+[00:20:09.403 --> 00:20:10.203] RIKER: It won't happen again.
+[00:20:10.603 --> 00:20:11.403] RIKER: We apologise.
+[00:20:12.043 --> 00:20:12.843] MEDIATOR: We're sorry, too.
+[00:20:13.803 --> 00:20:14.763] MEDIATOR: But that changes nothing.
+[00:20:16.523 --> 00:20:17.323] TASHA: Careful, Commander.
+[00:20:18.203 --> 00:20:19.643] TASHA: They've got some strange laws here.
+[00:20:19.883 --> 00:20:21.083] RIKER: I thought you reviewed their laws.
+[00:20:21.483 --> 00:20:23.003] TASHA: But they listed nothing about punishment.
+[00:20:23.563 --> 00:20:24.363] MEDIATOR: One moment, please.
+[00:20:25.803 --> 00:20:27.483] MEDIATOR: Is there a witness to this transgression?
+[00:20:28.043 --> 00:20:29.003] BOY: But it was my fault.
+[00:20:29.083 --> 00:20:30.283] BOY: I threw the ball past him.
+[00:20:31.803 --> 00:20:36.683] MEDIATOR: We have a visible transgression, ample witnesses, and an admission of guilt.
+[00:20:38.043 --> 00:20:39.883] MEDIATOR: And though it deeply pains us to do it, we must.
+[00:20:41.083 --> 00:20:41.163] MEDIATOR: Are
+[00:20:44.523 --> 00:20:45.723] MEDIATOR: you prepared for punishment?
+[00:20:46.443 --> 00:20:46.923] WORF: Punishment?
+[00:20:47.963 --> 00:20:49.883] WORF: If you mean what the others were talking about.
+[00:20:50.523 --> 00:20:51.243] RIKER: What punishment?
+[00:20:51.483 --> 00:20:52.203] RIKER: Name it!
+[00:20:52.203 --> 00:20:52.923] MEDIATOR: Death, of course.
+[00:20:52.923 --> 00:20:54.203] MEDIATOR: Don't make it difficult for the boy.
+[00:20:56.923 --> 00:20:59.003] WORF: Drop it.
+[00:21:02.123 --> 00:21:02.923] WORF: Drop it now!
+[00:21:14.574 --> 00:21:15.614] TASHA: It's a kind of syringe.
+[00:21:17.534 --> 00:21:18.014] RIKER: What is this?
+[00:21:18.894 --> 00:21:19.454] RIKER: You said death.
+[00:21:19.534 --> 00:21:20.094] RIKER: Is this poison?
+[00:21:20.494 --> 00:21:22.894] MEDIATOR: But of course it is. Completely painless.
+[00:21:22.894 --> 00:21:24.094] MEDIATOR: The boy would have felt nothing.
+[00:21:25.294 --> 00:21:26.174] MEDIATOR: But look at him now.
+[00:21:27.054 --> 00:21:27.854] MEDIATOR: You've frightened him.
+[00:21:29.134 --> 00:21:30.814] WESLEY: He was going to kill me?
+[00:21:30.814 --> 00:21:34.414] MEDIATOR 2: And if this Zone were still in effect, you would all deserve death.
+[00:21:35.694 --> 00:21:36.974] MEDIATOR: It was announced you came as friends.
+[00:21:37.134 --> 00:21:39.854] MEDIATOR: Is this how friends act?
+[00:21:46.174 --> 00:21:48.894] RIKER: Enterprise from away team, come in.
+[00:21:50.334 --> 00:21:53.374] RIKER: Are you receiving us, Enterprise?
+[00:22:02.974 --> 00:22:04.974] PICARD: Condition?
+[00:22:05.614 --> 00:22:09.454] CRUSHER: No sign of consciousness, but the balance of the readings are quite normal for him.
+[00:22:09.854 --> 00:22:13.694] PICARD: I believe this is some form of information exchange with whatever is over there.
+[00:22:14.094 --> 00:22:15.614] PICARD: At least, I hope it is.
+[00:22:16.814 --> 00:22:18.254] CRUSHER: Any communication from the away team?
+[00:22:19.294 --> 00:22:20.974] PICARD: Something is blocking communication both
+[00:22:27.214 --> 00:22:28.014] TASHA: Security. Urgent.
+[00:22:28.174 --> 00:22:29.694] TASHA: Repeating. Enterprise from away team.
+[00:22:31.054 --> 00:22:32.974] LAFORGE: This is the Enterprise, Lieutenant. We're receiving you now.
+[00:22:33.374 --> 00:22:35.614] TASHA: This is an urgent call for Captain Picard.
+[00:22:36.094 --> 00:22:37.454] RIKER: We may need your presence here, Captain.
+[00:22:37.694 --> 00:22:38.254] RIKER: We have serious
+[00:22:38.323 --> 00:22:42.563] RIKER: trouble with a member of our away team and an unusual law they have here.
+[00:22:43.923 --> 00:22:45.123] PICARD: Captain to Riker, stand by.
+[00:22:45.603 --> 00:22:46.563] PICARD: Signs of consciousness?
+[00:22:47.203 --> 00:22:47.763] CRUSHER: Not yet.
+[00:22:47.843 --> 00:22:49.203] CRUSHER: Could be minutes or hours.
+[00:22:49.603 --> 00:22:50.963] CRUSHER: It's unclear what's happened to him.
+[00:22:51.043 --> 00:22:51.683] PICARD: Take him to Sickbay.
+[00:22:51.683 --> 00:22:52.963] PICARD: Let me know the instant he's awake.
+[00:22:53.683 --> 00:22:54.963] PICARD: Anything new on that that thing out there?
+[00:22:55.363 --> 00:22:55.923] LAFORGE: Negative, sir.
+[00:22:57.523 --> 00:22:58.403] PICARD: Captain to First Officer.
+[00:22:58.963 --> 00:22:59.363] PICARD: I'm beaming
+[00:23:01.363 --> 00:23:03.363] PICARD: down.
+[00:23:23.763 --> 00:23:29.123] PICARD: Would you care to comment privately how you read any of this?
+[00:23:29.683 --> 00:23:30.483] TROI: Unnecessary, sir.
+[00:23:31.443 --> 00:23:35.923] TROI: These people are honest, almost to a fault. And they have great pride in their ways.
+[00:23:39.123 --> 00:23:39.843] LIATOR: You're the Captain.
+[00:23:40.883 --> 00:23:41.283] LIATOR: We're ready.
+[00:23:41.523 --> 00:23:42.163] LIATOR: This way, please.
+[00:23:57.923 --> 00:23:59.443] LIATOR: Welcome to our world, Captain.
+[00:23:59.763 --> 00:24:00.083] PICARD: Thank you.
+[00:24:00.883 --> 00:24:03.523] LIATOR: We regret that our system of justice is troubling you.
+[00:24:03.987 --> 00:24:05.987] PICARD: The boy, Wesley Crusher, where is he, please?
+[00:24:06.467 --> 00:24:10.387] RIKER: In accord with the Prime Directive, I've allowed them to hold him pending the outcome of this.
+[00:24:11.667 --> 00:24:13.187] RIVAN: He is safe and unharmed.
+[00:24:13.667 --> 00:24:16.307] RIVAN: We promise that. Captain Picard,
+[00:24:16.307 --> 00:24:21.907] RIVAN: I do not know how you Earth people conduct law and justice, even if you respect such things.
+[00:24:22.387 --> 00:24:22.787] PICARD: We do.
+[00:24:23.587 --> 00:24:23.827] LIATOR: Good,
+[00:24:24.947 --> 00:24:25.587] LIATOR: so do we.
+[00:24:26.867 --> 00:24:29.347] LIATOR: Our precepts have been handed down from long ago.
+[00:24:30.147 --> 00:24:33.987] LIATOR: The tranquillity you see in our lives has been made possible by our laws.
+[00:24:34.547 --> 00:24:35.747] RIVAN: We are a people of law.
+[00:24:36.707 --> 00:24:39.987] RIVAN: They do sometimes bring us sadness, but we have learned to adjust to that.
+[00:24:41.027 --> 00:24:42.467] RIVAN: Perhaps your laws work as well.
+[00:24:43.747 --> 00:24:45.507] PICARD: They haven't always, but now they do.
+[00:24:46.867 --> 00:24:48.147] LIATOR: Do you execute criminals?
+[00:24:48.467 --> 00:24:49.987] PICARD: No, not any longer.
+[00:24:50.627 --> 00:24:51.587] RIVAN: But you did once?
+[00:24:52.467 --> 00:24:53.587] PICARD: Unfortunately, yes.
+[00:24:53.907 --> 00:24:54.627] PICARD: But since then
+[00:24:54.627 --> 00:24:57.267] RIVAN: But when you did, was it believed necessary to do so?
+[00:24:59.187 --> 00:25:04.547] PICARD: Some people felt that it was necessary. But we have learned to detect the seeds of criminal behaviour
+[00:25:05.267 --> 00:25:09.587] PICARD: Capital punishment, in our world, is no longer considered a justifiable deterrent.
+[00:25:10.627 --> 00:25:11.027] LIATOR: So,
+[00:25:13.027 --> 00:25:14.947] LIATOR: we are not yet as advanced as they are.
+[00:25:17.267 --> 00:25:23.107] LIATOR: And since you are advanced in other ways too, I suggest you use your superior powers to rescue the Wesley boy.
+[00:25:24.307 --> 00:25:32.947] LIATOR: We will record him as a convicted criminal out of our reach, an advanced person who luckily escaped the barbarism of this backward little world.
+[00:25:34.547 --> 00:25:37.107] PICARD: Unfortunately, we have a law known as the Prime Directive.
+[00:25:37.950 --> 00:25:39.390] RIVAN: Riker has explained it to us.
+[00:25:41.070 --> 00:25:44.270] PICARD: Is the boy in any danger from you at this moment?
+[00:25:47.950 --> 00:25:48.750] LIATOR: Until sundown?
+[00:25:51.790 --> 00:25:57.950] RIVAN: Because you are strangers, we are delaying enforcement of the law. But we must act by sundown.
+[00:25:58.590 --> 00:25:59.470] PICARD: Then I have another question.
+[00:26:00.350 --> 00:26:09.870] PICARD: While orbiting, while circling high above your world, as we do, we have encountered a strange object. A vessel perhaps.
+[00:26:11.470 --> 00:26:12.990] PICARD: Have you any idea what it is?
+[00:26:13.070 --> 00:26:15.790] PICARD: It's not entirely real.
+[00:26:15.790 --> 00:26:19.070] PICARD: At least, it's not completely solid.
+[00:26:22.990 --> 00:26:23.870] RIVAN: Do you mean God?
+[00:26:25.870 --> 00:26:26.190] PICARD: God?
+[00:26:27.310 --> 00:26:30.910] LIATOR: God is said to be somewhere up there, protecting us.
+[00:26:31.870 --> 00:26:32.510] PICARD: Exactly,
+[00:26:33.390 --> 00:26:33.710] PICARD: exactly
+[00:26:33.710 --> 00:26:34.990] PICARD: how would you describe God?
+[00:26:35.870 --> 00:26:39.870] RIVAN: As you just did. As existing both here and in another place also.
+[00:26:41.070 --> 00:26:46.190] LIATOR: But when God wants to show its power, it can make itself felt most fully.
+[00:26:48.990 --> 00:26:50.110] CRUSHER: Captain, come in please.
+[00:26:50.990 --> 00:26:51.470] PICARD: Picard here.
+[00:26:51.950 --> 00:26:53.070] BEVERLY: CMO Crusher, sir.
+[00:26:53.390 --> 00:26:55.390] CRUSHER: Commander Data has just regained consciousness.
+[00:26:55.470 --> 00:26:56.030] PICARD: What condition?
+[00:26:56.190 --> 00:26:56.670] PICARD: Can he talk?
+[00:26:56.910 --> 00:26:58.190] BEVERLY: He's insisting on it, sir.
+[00:26:58.670 --> 00:26:59.310] BEVERLY: Urgently.
+[00:27:02.430 --> 00:27:02.910] TROI: Wesley.
+[00:27:05.870 --> 00:27:06.350] PICARD: Stand by.
+[00:27:06.510 --> 00:27:07.070] PICARD: Picard out.
+[00:27:08.593 --> 00:27:11.073] PICARD: I want to speak to her personally about her son.
+[00:27:14.833 --> 00:27:18.113] PICARD: So you promise that Wesley Crusher is safe until sundown?
+[00:27:18.673 --> 00:27:19.713] LIATOR: You have our word.
+[00:27:22.113 --> 00:27:24.753] PICARD: Then, will one of you return with me to our vessel?
+[00:27:28.193 --> 00:27:31.073] RIVAN: Of course. I'll go as a hostage for the boy's safety.
+[00:27:31.073 --> 00:27:32.113] PICARD: No, no, no. That's not it.
+[00:27:32.353 --> 00:27:34.513] PICARD: I want you to identify something for me, if you can.
+[00:27:35.793 --> 00:27:37.873] PICARD: Captain to Transporter Room. Three to beam up.
+[00:27:43.873 --> 00:27:46.193] RIVAN: I'm frightened.
+[00:27:46.753 --> 00:27:47.473] TROI: There's no reason to be.
+[00:27:48.033 --> 00:27:49.153] PICARD: Transporter Room, energise.
+[00:27:54.753 --> 00:27:54.753] RIVAN: But
+[00:27:57.553 --> 00:27:57.713] RIVAN: this
+[00:28:01.073 --> 00:28:03.542] RIVAN: is a city. A great city.
+[00:28:03.542 --> 00:28:03.953] CRUSHER: Captain,
+[00:28:04.113 --> 00:28:06.033] CRUSHER: I've just seen the away team report about Wesley.
+[00:28:06.913 --> 00:28:07.713] PICARD: In a moment, Doctor.
+[00:28:07.873 --> 00:28:08.753] CRUSHER: In a moment?
+[00:28:08.993 --> 00:28:09.713] PICARD: Exactly.
+[00:28:10.513 --> 00:28:10.993] PICARD: In a moment.
+[00:28:14.593 --> 00:28:15.473] PICARD: You were about to say?
+[00:28:16.753 --> 00:28:20.033] RIVAN: Since you have all this power, why be concerned about our laws?
+[00:28:21.153 --> 00:28:22.353] RIVAN: You could take the boy from us.
+[00:28:28.033 --> 00:28:28.993] PICARD: It's not that simple.
+[00:28:31.073 --> 00:28:35.073] PICARD: From the starboard lounge, you can see whatever is outside this vessel.
+[00:28:36.193 --> 00:28:37.233] RIVAN: Do you mean my world?
+[00:28:37.953 --> 00:28:39.233] RIVAN: You said we'd be high above it.
+[00:28:39.875 --> 00:28:42.355] PICARD: And something else that's circling your world.
+[00:28:42.355 --> 00:28:46.035] PICARD: It's very important to us, and perhaps to you, to know what it is.
+[00:29:01.955 --> 00:29:03.715] PICARD: I'm sorry, Rivan, but this was necessary.
+[00:29:04.835 --> 00:29:05.715] PICARD: Do you know what that is?
+[00:29:09.715 --> 00:29:10.835] TROI: Can you tell us what it is?
+[00:29:12.195 --> 00:29:12.995] PICARD: Is it God?
+[00:29:17.635 --> 00:29:19.955] PICARD: Now, it's very important you answer something.
+[00:29:20.515 --> 00:29:21.955] PICARD: How do you recognise what it
+[00:29:23.475 --> 00:29:25.475] PICARD: is?
+[00:29:29.635 --> 00:29:30.755] TROI: Nothing will harm you,
+[00:29:30.995 --> 00:29:31.635] TROI: I promise.
+[00:29:33.075 --> 00:29:34.595] TROI: Just tell us how you recognise it.
+[00:29:36.675 --> 00:29:38.195] RIVAN: It has appeared before.
+[00:29:41.955 --> 00:29:42.915] PICARD: Can you speak to it?
+[00:29:44.275 --> 00:29:45.235] PICARD: Does it speak to you?
+[00:29:46.435 --> 00:29:46.995] TROI: Captain!
+[00:29:50.595 --> 00:29:52.515] EDO: Return my
+[00:29:56.115 --> 00:29:56.675] EDO: child.
+[00:29:59.955 --> 00:30:00.099] CRUSHER: Return?
+[00:30:00.099 --> 00:30:00.675] TROI: It's coming toward us.
+[00:30:02.435 --> 00:30:05.335] PICARD: Picard to Transporter Room,
+[00:30:05.555 --> 00:30:05.715] PICARD: come in.
+[00:30:07.523 --> 00:30:08.403] TROI: Yes, do that. But hurry!
+[00:30:09.043 --> 00:30:10.083] CRUSHER: It's still coming toward us.
+[00:30:11.443 --> 00:30:12.563] CHIEF: Transporter Chief to Captain.
+[00:30:13.203 --> 00:30:14.803] PICARD: One to beam down to away team location.
+[00:30:15.363 --> 00:30:15.603] PICARD: Hurry!
+[00:30:16.563 --> 00:30:17.043] PICARD: Engage!
+[00:30:17.763 --> 00:30:18.643] PICARD: Transporter Room. Urgent!
+[00:30:18.803 --> 00:30:18.803] PICARD: Engage!
+[00:30:37.443 --> 00:30:40.563] CRUSHER: It seems the Edo's god is very protective of its children.
+[00:30:41.203 --> 00:30:44.083] PICARD: I had no choice but to learn about that thing from her.
+[00:30:45.923 --> 00:30:46.883] PICARD: I'm sorry I had to.
+[00:30:48.083 --> 00:30:48.883] PICARD: She was so frightened.
+[00:30:49.843 --> 00:30:50.883] TROI: It's understandable, sir.
+[00:30:51.923 --> 00:30:54.963] TROI: Sharing an orbit with God is no small experience.
+[00:30:57.603 --> 00:30:58.963] PICARD: Let's go see your patient, Doctor.
+[00:31:03.523 --> 00:31:05.443] CRUSHER: What do you intend to do about my son?
+[00:31:06.403 --> 00:31:08.323] PICARD: He's being held safely until sundown.
+[00:31:08.483 --> 00:31:14.403] CRUSHER: When he faces execution! Although he's committed no crime, certainly none that any sane and reasonable person would
+[00:31:14.403 --> 00:31:15.923] PICARD: You saw what that thing was about to do.
+[00:31:17.763 --> 00:31:21.363] CRUSHER: I apologise, sir, but this is very difficult for me.
+[00:31:22.323 --> 00:31:24.243] CRUSHER: If he were your son, you'd be as frightened
+[00:31:24.243 --> 00:31:24.803] PICARD: But I am.
+[00:31:30.003 --> 00:31:31.123] CRUSHER: Data is in Sickbay here.
+[00:31:31.603 --> 00:31:33.043] CRUSHER: You'll find him able to talk to you.
+[00:31:36.323 --> 00:31:37.523] MEDIC: He's checking out fine, Doctor.
+[00:31:38.349 --> 00:31:38.749] CRUSHER: Thank you.
+[00:31:38.749 --> 00:31:39.869] CRUSHER: Finish it later, please.
+[00:31:40.989 --> 00:31:42.669] DATA: I was an excellent choice for them, Captain.
+[00:31:43.069 --> 00:31:44.509] DATA: They were able to communicate with me quite.
+[00:31:46.669 --> 00:31:49.469] DATA: I was about to say quite easily, but there was nothing easy about it.
+[00:31:49.949 --> 00:31:52.589] DATA: Fortunately, they stopped short of overloading my circuitry.
+[00:31:53.069 --> 00:31:55.469] PICARD: You're saying they. It is a vessel of some sort.
+[00:31:56.269 --> 00:31:58.749] DATA: Definitely not a single entity if that's what you mean, sir,
+[00:31:59.149 --> 00:32:01.924] DATA: although they know the Edo worship them as a god thing.
+[00:32:01.924 --> 00:32:02.429] PICARD: They know?
+[00:32:03.149 --> 00:32:07.309] DATA: They recognise that this is quite expected and harmless at the present Edo stage of evolution.
+[00:32:08.509 --> 00:32:09.309] PICARD: What sort of vessel?
+[00:32:10.269 --> 00:32:13.549] DATA: It is perhaps not what we would understand as a vessel, sir.
+[00:32:14.029 --> 00:32:16.269] DATA: The dimensions this one occupies allows them to be,
+[00:32:17.869 --> 00:32:23.149] DATA: well, to be in several places at once. But they consider this entire star cluster to be theirs.
+[00:32:23.709 --> 00:32:27.229] DATA: It was probably unwise of us to attempt to place a human colony in this area.
+[00:32:28.029 --> 00:32:32.429] DATA: Of course, there are three thousand four other planets in this star cluster in which we could have colonised.
+[00:32:32.909 --> 00:32:34.029] DATA: The largest and closest
+[00:32:34.029 --> 00:32:35.229] PICARD: Data, don't babble.
+[00:32:36.429 --> 00:32:36.909] DATA: Babble, sir?
+[00:32:38.909 --> 00:32:40.669] DATA: I'm not aware that I ever babble, sir.
+[00:32:41.629 --> 00:32:47.469] DATA: It may be that from time to time I have considerable information to communicate, and you may question the way I organise it.
+[00:32:47.869 --> 00:32:51.309] PICARD: Please, organise it into brief answers to my questions.
+[00:32:51.949 --> 00:32:52.909] PICARD: We have very little time.
+[00:32:54.509 --> 00:32:58.829] PICARD: Do they accept our presence at this planet?
+[00:32:59.709 --> 00:33:00.509] DATA: Undecided, sir.
+[00:33:03.309 --> 00:33:03.629] PICARD: Data,
+[00:33:04.787 --> 00:33:08.307] PICARD: please, feel free to volunteer any important information.
+[00:33:09.507 --> 00:33:12.227] DATA: I volunteer that they are now observing us, sir.
+[00:33:12.227 --> 00:33:14.947] PICARD: To judge what kind of life forms we are?
+[00:33:15.427 --> 00:33:17.507] DATA: No, it is more curiosity, sir.
+[00:33:18.067 --> 00:33:21.027] DATA: I doubt that they expect us to abide by their value systems.
+[00:33:21.827 --> 00:33:23.187] PICARD: Do they know of our Prime Directive?
+[00:33:24.147 --> 00:33:26.067] DATA: They know everything I know, sir.
+[00:33:27.427 --> 00:33:27.747] PICARD: And,
+[00:33:29.827 --> 00:33:32.090] PICARD: if we were to violate the Prime Directive, how
+[00:33:32.090 --> 00:33:33.347] CRUSHER: That's not a fair question.
+[00:33:34.787 --> 00:33:35.667] PICARD: How would they react?
+[00:33:37.107 --> 00:33:39.587] DATA: It would be a case of judging us by our own rules, sir.
+[00:33:40.547 --> 00:33:45.747] DATA: If we violate our own Prime Directive, they might consider us to be deceitful and untrustworthy.
+[00:33:46.547 --> 00:33:50.467] DATA: You do recall they cautioned us not to interfere with their children below.
+[00:33:54.067 --> 00:33:54.707] DATA: What has happened?
+[00:33:55.107 --> 00:33:57.347] CRUSHER: The Edo want to execute my son.
+[00:33:58.227 --> 00:34:00.787] CRUSHER: I will not allow that to happen, Jean-Luc.
+[00:34:02.307 --> 00:34:03.427] DATA: Most interesting, sir.
+[00:34:04.307 --> 00:34:06.947] DATA: The emotion of motherhood, compared to all others felt by
+[00:34:06.947 --> 00:34:07.747] CRUSHER: Shut up!
+[00:34:08.707 --> 00:34:11.347] DATA: You were right, sir.
+[00:34:12.947 --> 00:34:13.987] DATA: I do tend to babble.
+[00:34:18.547 --> 00:34:21.907] LOG: Captain's log, stardate 41255.9.
+[00:34:22.707 --> 00:34:27.827] LOG: Whatever the object or vessel in orbit with us, it hangs there like a nemesis.
+[00:34:28.627 --> 00:34:34.627] LOG: It is one thing to communicate with something mysterious, but it is quite another to be silently observed by it.
+[00:34:35.107 --> 00:34:38.307] LOG: I am concerned whether it understands the same concept
+[00:34:38.445 --> 00:34:39.885] LOG: of reason that we do?
+[00:34:41.245 --> 00:34:42.045] DATA: You sent for me, sir?
+[00:34:44.205 --> 00:34:45.325] PICARD: Let's have more talk, Data.
+[00:34:46.525 --> 00:34:46.925] DATA: Yes, sir.
+[00:34:50.685 --> 00:34:51.085] PICARD: Sit down.
+[00:34:54.845 --> 00:34:57.485] DATA: What level of communication, sir?
+[00:34:58.765 --> 00:34:59.085] PICARD: Any.
+[00:35:00.765 --> 00:35:02.685] PICARD: My apologies for saying that you babbled.
+[00:35:03.885 --> 00:35:04.525] DATA: But I do, sir.
+[00:35:05.325 --> 00:35:08.525] PICARD: You also see things in a way we do not, but as they truly are.
+[00:35:09.405 --> 00:35:10.445] PICARD: I need help, my friend.
+[00:35:10.845 --> 00:35:15.805] PICARD: I cannot permit that boy or any member of this vessel be sacrificed.
+[00:35:15.805 --> 00:35:17.565] PICARD: The Prime Directive never intended that.
+[00:35:18.925 --> 00:35:19.645] DATA: The problem, sir,
+[00:35:21.165 --> 00:35:21.725] DATA: is there.
+[00:35:22.765 --> 00:35:27.485] DATA: Although they've learned of the Prime Directive from my mind, how will they evaluate it?
+[00:35:28.365 --> 00:35:29.165] DATA: How do they reason?
+[00:35:30.525 --> 00:35:31.325] DATA: What are their values?
+[00:35:32.365 --> 00:35:33.645] DATA: Remember their warning to us, sir.
+[00:35:34.205 --> 00:35:34.685] PICARD: Exactly.
+[00:35:34.685 --> 00:35:37.245] PICARD: How do I explain my refusing to obey their laws down there.
+[00:35:38.205 --> 00:35:40.525] PICARD: Not permitting the Crusher boy
+[00:35:42.685 --> 00:35:48.125] PICARD: to be executed. And by so doing do I endanger this vessel and more than a thousand other lives?
+[00:35:49.805 --> 00:35:52.445] DATA: Would you choose one life over one thousand, sir?
+[00:35:54.445 --> 00:35:57.085] PICARD: I refuse to let arithmetic decide questions like that.
+[00:35:59.565 --> 00:36:02.765] PICARD: Did you learn anything about the relationship between that and the Edo?
+[00:36:02.765 --> 00:36:04.605] PICARD: Why are they so certain it's a god?
+[00:36:05.565 --> 00:36:08.925] DATA: Any sufficiently advanced life form would appear to others to be that, sir.
+[00:36:10.221 --> 00:36:18.061] DATA: But when they were probing my thoughts, Captain, I could feel that whatever they are now, they once existed in this dimension, just as we do.
+[00:36:18.701 --> 00:36:21.181] DATA: Perhaps in the same kind of flesh and blood form.
+[00:36:22.541 --> 00:36:25.901] DATA: Since then, however, they have evolved considerably.
+[00:36:26.941 --> 00:36:31.581] DATA: Their present existence in multi-dimensions no doubt has advantages we do not understand.
+[00:36:32.541 --> 00:36:36.541] PICARD: Then in some earlier flesh and blood form they might have shared our kind of values.
+[00:36:37.261 --> 00:36:38.461] DATA: We know the Edo share them, sir.
+[00:36:39.581 --> 00:36:43.821] PICARD: Why would such an advanced thing feel obliged to protect the Edo?
+[00:36:45.181 --> 00:36:48.221] DATA: Perhaps the Edo are a child race by comparison.
+[00:36:49.021 --> 00:36:56.461] DATA: Possibly a race which those life forms have planted here. Much as we plant human colonies on Class-M planets.
+[00:37:03.021 --> 00:37:05.617] CRUSHER: Having fulfilled my professional obligations regarding Commander Data
+[00:37:05.617 --> 00:37:08.861] PICARD: You now request permission to beam down to the planet.
+[00:37:09.101 --> 00:37:09.901] PICARD: Permission granted.
+[00:37:10.861 --> 00:37:13.101] PICARD: You can accompany me while I try and resolve this.
+[00:37:16.141 --> 00:37:22.061] PICARD: And you should know that whatever the cost, I will not allow them to execute your son.
+[00:37:26.781 --> 00:37:28.061] CRUSHER: Thank you, sir.
+[00:37:32.381 --> 00:37:33.341] PICARD: Data, take command.
+[00:37:33.741 --> 00:37:34.061] DATA: Aye, sir.
+[00:37:34.211 --> 00:37:34.811] RIKER: It's
+[00:37:44.778 --> 00:37:46.138] RIKER: almost time.
+[00:37:46.138 --> 00:37:47.338] RIKER: I want the boy brought here now.
+[00:37:50.858 --> 00:37:51.418] TASHA: I'll go along with you.
+[00:37:51.898 --> 00:37:52.378] LIATOR: Of course.
+[00:38:00.298 --> 00:38:02.858] RIVAN: Captain Picard.
+[00:38:07.498 --> 00:38:09.178] RIVAN: I saw you share the sky with God.
+[00:38:10.298 --> 00:38:11.418] RIVAN: You must be Gods.
+[00:38:15.658 --> 00:38:19.498] PICARD: No, no, we're not gods.
+[00:38:22.378 --> 00:38:22.378] WESLEY: Mother.
+[00:38:22.378 --> 00:38:22.378] WESLEY: I
+[00:38:29.178 --> 00:38:30.458] WESLEY: guess you know a lot has happened here.
+[00:38:32.218 --> 00:38:32.538] CRUSHER: I know.
+[00:38:35.418 --> 00:38:36.058] WESLEY: Captain Picard,
+[00:38:39.178 --> 00:38:40.218] WESLEY: are you going to let them kill me?
+[00:38:41.338 --> 00:38:41.658] PICARD: No.
+[00:38:43.498 --> 00:38:45.018] PICARD: But I must find some way to prevent it
+[00:38:45.018 --> 00:38:45.978] PICARD: that you understand.
+[00:38:47.018 --> 00:38:48.618] MEDIATOR: How can we let this happen, Liator?
+[00:38:49.818 --> 00:38:51.658] MEDIATOR: They threaten everything we respect.
+[00:38:52.618 --> 00:38:56.378] MEDIATOR: Our law, our peace, our tranquillity and order.
+[00:38:56.618 --> 00:39:00.058] MEDIATOR 2: You are powerful, but do not do this to us,
+[00:39:00.058 --> 00:39:00.538] MEDIATOR 2: we beg you.
+[00:39:01.418 --> 00:39:03.498] MEDIATOR 2: At least study what we were without law.
+[00:39:04.058 --> 00:39:07.018] MEDIATOR 2: Hurtful to each other, savage, thieving.
+[00:39:08.252 --> 00:39:08.892] PICARD: I understand.
+[00:39:09.772 --> 00:39:21.292] PICARD: Perhaps your system of law and punishment is better than any system we once had. But we do now have a law I must obey. And part of it says I must protect my people from harm.
+[00:39:22.492 --> 00:39:24.172] LIATOR: We did not ask you to come here.
+[00:39:25.772 --> 00:39:28.812] RIKER: Which has to do with another law that we must obey.
+[00:39:29.852 --> 00:39:34.332] PICARD: We are all sworn not to interfere with other lives in the galaxy.
+[00:39:34.972 --> 00:39:37.172] PICARD: If I save this boy, I break that law.
+[00:39:37.172 --> 00:39:39.372] MEDIATOR: And you should be executed if you do so!
+[00:39:40.012 --> 00:39:41.212] PICARD: I may suffer almost as much.
+[00:39:41.772 --> 00:39:44.012] PICARD: Starfleet takes the Prime Directive very seriously.
+[00:39:44.172 --> 00:39:47.532] MEDIATOR 2: No, it is God who will punish you.
+[00:39:48.252 --> 00:39:49.532] PICARD: That thought has crossed our minds.
+[00:39:50.092 --> 00:39:54.172] PICARD: Your god up there may insist that we obey our non-interference directive.
+[00:39:54.732 --> 00:39:59.692] WESLEY: Sir, does this mean if you save me the entire crew could die?
+[00:40:00.012 --> 00:40:01.532] PICARD: You're not involved in this decision, boy.
+[00:40:02.412 --> 00:40:04.652] WESLEY: I'm sorry, sir, but it seems like I am.
+[00:40:07.612 --> 00:40:09.612] PICARD: Picard to Transporter room. Lock into this signal.
+[00:40:10.012 --> 00:40:12.652] PICARD: Stand by for six to beam up. Wesley, Lieutenant.
+[00:40:18.492 --> 00:40:21.692] LIATOR: Our laws have been violated.
+[00:40:22.492 --> 00:40:23.532] LIATOR: What of justice?
+[00:40:23.852 --> 00:40:25.372] TASHA: What of justice to Wesley?
+[00:40:25.932 --> 00:40:26.972] TASHA: Does he deserve to die?
+[00:40:28.172 --> 00:40:31.212] PICARD: I'm truly sorry, Liator, but I must have justice for my people too.
+[00:40:32.732 --> 00:40:34.332] PICARD: Transporter room, energise.
+[00:40:42.223 --> 00:40:43.103] PICARD: Transporter room, come in.
+[00:40:43.823 --> 00:40:45.343] CHIEF: We can't energise the beam, sir.
+[00:40:45.583 --> 00:40:47.423] CHIEF: Everything checks out but we're getting no results.
+[00:40:47.903 --> 00:40:49.503] MEDIATOR: God has prevented your escape.
+[00:40:50.223 --> 00:40:51.823] CRUSHER: Then your god is unfair.
+[00:40:52.143 --> 00:40:54.463] CRUSHER: My son had no warning that his act was criminal.
+[00:40:54.943 --> 00:40:58.383] MEDIATOR 2: We cannot allow ignorance of the law to become a defence.
+[00:40:59.823 --> 00:41:02.383] PICARD: I don't know how to communicate this, or even if it is possible,
+[00:41:03.503 --> 00:41:11.663] PICARD: but the question of justice has concerned me greatly of lately. And I say to any creature who may be listening, there can be no justice so long as laws are absolute.
+[00:41:13.583 --> 00:41:17.503] PICARD: Even life itself is an exercise in exceptions.
+[00:41:17.503 --> 00:41:21.263] RIKER: When has justice ever been as simple as a rulebook?
+[00:41:21.413 --> 00:41:22.013] PICARD: It
+[00:41:24.143 --> 00:41:27.503] PICARD: seems the Edo Lord agrees with you, Number
+[00:41:32.463 --> 00:41:34.463] PICARD: One.
+[00:41:38.943 --> 00:41:39.743] RIKER: Main viewer on.
+[00:41:45.983 --> 00:41:46.703] PICARD: Hailing frequencies.
+[00:41:47.743 --> 00:41:48.143] TASHA: Open, sir.
+[00:41:48.783 --> 00:41:51.983] PICARD: To the object in orbit with us.
+[00:41:53.983 --> 00:41:59.343] PICARD: We will remove the human colonists from the adjoining solar system if you signal us to do so.
+[00:41:59.983 --> 00:42:00.543] PICARD: Please tell us.
+[00:42:04.543 --> 00:42:04.943] DATA: Captain.
+[00:42:09.183 --> 00:42:11.983] LAFORGE: Is that a signal?
+[00:42:12.205 --> 00:42:13.565] PICARD: I suppose, I
+[00:42:15.405 --> 00:42:16.365] PICARD: suppose it must be.
+[00:42:16.605 --> 00:42:17.885] PICARD: I was hoping for more.
+[00:42:19.165 --> 00:42:19.805] LAFORGE: More of what, sir?
+[00:42:21.165 --> 00:42:22.045] LAFORGE: I'm glad it's gone.
+[00:42:22.925 --> 00:42:23.485] RIKER: Agreed, sir.
+[00:42:24.285 --> 00:42:24.925] RIKER: Short and sweet.
+[00:42:25.725 --> 00:42:26.685] RIKER: God-like efficiency.
+[00:42:27.565 --> 00:42:29.725] PICARD: I was hoping we'd learn more about it.
+[00:42:31.965 --> 00:42:32.605] PICARD: But since we can't,
+[00:42:34.205 --> 00:42:35.565] PICARD: take us out of here, Number One.
+[00:42:36.205 --> 00:42:36.685] RIKER: Gladly,
+[00:42:47.325 --> 00:42:49.325] RIKER: sir.
+[00:42:56.000 --> 00:43:04.000] [music]
+[00:43:06.000 --> 00:43:35.000] [music]

@@ -1,0 +1,625 @@
+[00:00:03.360 --> 00:00:06.720] LOG: Captain's log, Stardate 43173.5. We are
+[00:00:07.200 --> 00:00:13.680] LOG: en route to Mintaka Three, where a three man Federation anthropological field team has been studying the inhabitants.
+[00:00:14.240 --> 00:00:18.000] LOG: Our mission is to resupply the outpost and repair their malfunctioning reactor.
+[00:00:18.800 --> 00:00:19.920] PICARD: Mister La Forge, report.
+[00:00:20.400 --> 00:00:22.320] LAFORGE: We've finished replicating the parts they'll need,
+[00:00:22.720 --> 00:00:28.240] LAFORGE: but what I don't understand is why a three man station would need a reactor capable of producing four point two gigawatts.
+[00:00:28.560 --> 00:00:31.920] RIKER: Enough to power a small phaser bank, a subspace relay station, or
+[00:00:32.400 --> 00:00:33.360] LAFORGE: A hologram generator.
+[00:00:34.960 --> 00:00:36.640] LAFORGE: Oh, a duck blind.
+[00:00:36.880 --> 00:00:38.240] LAFORGE: Right. They're anthropologists.
+[00:00:39.040 --> 00:00:44.880] PICARD: Who are studying an extended family of Mintakans at close range from a camouflaged observation post.
+[00:00:45.200 --> 00:00:53.760] TROI: According to Doctor Barron's preliminary reports, the Mintakans are proto-Vulcan humanoids at the Bronze Age level. Quite peaceful and highly rational.
+[00:00:54.160 --> 00:00:57.600] PICARD: Which is not surprising, considering how closely their evolution parallels Vulcan.
+[00:00:58.000 --> 00:00:58.400] WORF: Captain,
+[00:00:58.800 --> 00:01:00.800] WORF: incoming transmission from Mintaka Three.
+[00:01:00.880 --> 00:01:01.680] PICARD: Thank you, Lieutenant.
+[00:01:01.680 --> 00:01:02.240] PICARD: On screen.
+[00:01:04.320 --> 00:01:05.920] BARRON: Barron to Enterprise. Our temporary repairs
+[00:01:06.960 --> 00:01:09.280] BARRON: have failed. The reactor is now inoperative.
+[00:01:09.760 --> 00:01:10.800] PICARD: Do you have battery backup?
+[00:01:11.440 --> 00:01:12.320] BARRON: Three hours at best.
+[00:01:13.280 --> 00:01:16.800] DATA: Captain, if we increase to warp seven we can be there in twenty three minutes.
+[00:01:17.360 --> 00:01:17.920] PICARD: Make it so.
+[00:01:19.520 --> 00:01:19.920] PICARD: We're on our
+[00:01:21.520 --> 00:01:23.520] PICARD: way.
+[00:01:47.805 --> 00:01:49.965] WORF: We've lost contact, sir.
+[00:01:51.325 --> 00:01:52.205] PICARD: Increase to warp nine.
+[00:02:21.245 --> 00:02:24.045] PICARD: Space, the final frontier.
+[00:02:25.885 --> 00:02:28.765] PICARD: These are the voyages of the starship Enterprise.
+[00:02:29.885 --> 00:02:37.885] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:39.485 --> 00:02:42.445] PICARD: to boldly go where no one has gone before.
+[00:03:11.000 --> 00:03:20.000] [music]
+[00:03:33.000 --> 00:03:45.000] [music]
+[00:03:52.968 --> 00:03:53.768] LAFORGE: The framework's still charged,
+[00:03:54.008 --> 00:03:54.408] LAFORGE: so watch it.
+[00:04:04.488 --> 00:04:06.968] LIKO: Why did we have to come so early?
+[00:04:07.848 --> 00:04:11.208] OJI: When the sun reaches its zenith, I have to be ready to take the measurements.
+[00:04:11.208 --> 00:04:11.928] LIKO: You'll be ready.
+[00:04:11.928 --> 00:04:13.848] LIKO: You've read the sundial hundreds of times.
+[00:04:14.328 --> 00:04:17.048] OJI: Yes, father, but never as the appointed record keeper.
+[00:04:26.648 --> 00:04:28.328] LIKO: You're taking your duties quite seriously.
+[00:04:29.483 --> 00:04:30.843] LIKO: Your mother would have been proud of you.
+[00:04:35.643 --> 00:04:36.923] OJI: What is that?
+[00:04:38.043 --> 00:04:38.923] OJI: Up there, father.
+[00:04:39.403 --> 00:04:39.803] OJI: What is it?
+[00:04:40.603 --> 00:04:41.163] LIKO: I don't know.
+[00:04:41.313 --> 00:04:41.913] LIKO: BARRON:
+[00:04:52.683 --> 00:04:56.123] LIKO: Keep work. Palmer.
+[00:04:56.283 --> 00:04:57.003] CRUSHER: It's all right.
+[00:04:58.523 --> 00:05:02.423] CRUSHER: It's all right.
+[00:05:03.843 --> 00:05:08.443] DATA: The hologram generator is now functioning, sir.
+[00:05:08.923 --> 00:05:09.963] RIKER: All we need now is power.
+[00:05:10.843 --> 00:05:11.323] LAFORGE: Almost there.
+[00:05:16.763 --> 00:05:16.763] LIKO: You
+[00:05:33.563 --> 00:05:33.803] LIKO: wait here,
+[00:05:40.043 --> 00:05:42.043] LIKO: Oji.
+[00:06:16.156 --> 00:06:18.956] CRUSHER: Enterprise, beam Martinez and his patient directly to Sickbay.
+[00:06:32.476 --> 00:06:32.796] DATA: Commander.
+[00:06:34.766 --> 00:06:36.736] RIKER: Doctor,
+[00:06:38.706 --> 00:06:40.676] RIKER: be
+[00:06:42.646 --> 00:06:44.616] RIKER: careful.
+[00:06:46.586 --> 00:06:48.956] CRUSHER: I've got to get
+[00:06:50.636 --> 00:06:52.636] CRUSHER: down there.
+[00:07:15.276 --> 00:07:16.156] CRUSHER: Crusher to Enterprise.
+[00:07:16.956 --> 00:07:17.836] CRUSHER: Medical emergency.
+[00:07:18.876 --> 00:07:20.396] CRUSHER: Two to beam directly to Sickbay.
+[00:07:20.716 --> 00:07:21.196] OGAWA: Aye, Doctor.
+[00:07:33.105 --> 00:07:33.744] LAFORGE: That should do it.
+[00:07:33.894 --> 00:07:36.494] CRUSHER: You increased the levels of tricordrazine?
+[00:08:21.265 --> 00:08:22.864] CRUSHER: Let me see his chart, please.
+[00:08:41.665 --> 00:08:43.665] PICARD: Doctor Crusher.
+[00:08:51.185 --> 00:08:53.344] CRUSHER: Before you start quoting me the Prime Directive,
+[00:08:53.824 --> 00:08:54.784] CRUSHER: he'd already seen us.
+[00:08:54.784 --> 00:08:55.665] CRUSHER: The damage was done.
+[00:08:55.824 --> 00:08:57.504] CRUSHER: It was either bring him aboard or let him die.
+[00:08:58.065 --> 00:08:59.264] PICARD: Then why didn't you let him die?
+[00:09:00.999 --> 00:09:03.479] CRUSHER: Because we were responsible for his injuries.
+[00:09:05.559 --> 00:09:07.959] PICARD: I'm not sure that I concur with that reasoning, Doctor.
+[00:09:09.719 --> 00:09:14.679] PICARD: But now that he's here, you must remove all memory of his encounter with the away team.
+[00:09:15.079 --> 00:09:16.359] CRUSHER: By erasing short term recall?
+[00:09:17.159 --> 00:09:18.199] PICARD: It has been accomplished before.
+[00:09:19.639 --> 00:09:25.239] CRUSHER: I am familiar with Doctor Pulaski's technique. I can't guarantee it will be effective on Mintakan brain chemistry.
+[00:09:25.239 --> 00:09:26.839] CRUSHER: Their lie-zone levels are much lower.
+[00:09:27.079 --> 00:09:28.119] BARRON: Wait. No! No!
+[00:09:28.519 --> 00:09:29.799] BARRON: We must evacuate.
+[00:09:30.199 --> 00:09:32.359] CRUSHER: Doctor Barron, you're on the Enterprise.
+[00:09:32.599 --> 00:09:33.399] CRUSHER: You're safe.
+[00:09:35.079 --> 00:09:35.719] BARRON: The others?
+[00:09:36.919 --> 00:09:38.519] PICARD: Doctor Warren is here.
+[00:09:38.759 --> 00:09:39.799] PICARD: We're doing all we can.
+[00:09:39.879 --> 00:09:41.159] BARRON: And Palmer? Where is Palmer?
+[00:09:41.639 --> 00:09:42.759] PICARD: Still on Mintaka Three.
+[00:09:42.999 --> 00:09:44.199] BARRON: Picard, you have to find him.
+[00:09:44.919 --> 00:09:45.239] PICARD: We will.
+[00:09:45.319 --> 00:09:46.039] BARRON: He may be hurt.
+[00:09:47.239 --> 00:09:50.599] PICARD: Rest assured we shall not leave until he is located.
+[00:09:50.999 --> 00:09:51.559] BARRON: Thank you, Picard.
+[00:09:58.119 --> 00:09:58.759] PICARD: Picard to bridge.
+[00:09:59.159 --> 00:09:59.559] PICARD: Report.
+[00:10:00.439 --> 00:10:02.679] WORF: Scans of the planet detect no humans, Captain.
+[00:10:04.439 --> 00:10:04.839] PICARD: Very well.
+[00:10:05.399 --> 00:10:06.279] PICARD: Put us into a close orbit.
+[00:10:06.679 --> 00:10:09.239] WORF: Sir, a close orbit will increase sensor efficiency
+[00:10:09.239 --> 00:10:10.279] WORF: by only four percent.
+[00:10:11.239 --> 00:10:12.759] PICARD: I want that four percent, Lieutenant.
+[00:10:13.239 --> 00:10:13.559] WORF: Aye, sir.
+[00:10:14.439 --> 00:10:14.919] PICARD: Picard out.
+[00:10:17.159 --> 00:10:17.559] LIKO: Picard?
+[00:10:18.759 --> 00:10:19.079] CRUSHER: Damn.
+[00:10:25.079 --> 00:10:29.559] PICARD: Well, Doctor. Your next task is clear.
+[00:10:58.512 --> 00:10:58.672] LIKO: Oji?
+[00:11:20.672 --> 00:11:22.672] LIKO: Oji?
+[00:11:22.672 --> 00:11:23.312] OJI: Father?
+[00:11:24.112 --> 00:11:24.112] LIKO: Here.
+[00:11:24.672 --> 00:11:24.832] LIKO: Oji.
+[00:11:24.924 --> 00:11:25.014] OJI: Father!
+[00:11:25.106 --> 00:11:25.198] OJI: I thought
+[00:11:25.290 --> 00:11:25.380] OJI: I'd
+[00:11:25.472 --> 00:11:25.632] OJI: never see you again.
+[00:11:26.512 --> 00:11:29.632] OJI: When you and the woman vanished, I was sure you were dead.
+[00:11:30.992 --> 00:11:31.632] LIKO: I think I was,
+[00:11:33.552 --> 00:11:34.672] LIKO: but I was brought back to life.
+[00:11:35.552 --> 00:11:35.712] LIKO: Oji,
+[00:11:35.872 --> 00:11:38.832] LIKO: I awoke in an incredible place
+[00:11:40.032 --> 00:11:41.632] LIKO: and my wounds were gone.
+[00:11:43.072 --> 00:11:43.952] LIKO: I had been healed.
+[00:11:45.472 --> 00:11:46.832] OJI: How is that possible?
+[00:11:52.112 --> 00:11:56.032] LIKO: Long ago, our people believed in beings with great powers.
+[00:11:57.041 --> 00:11:58.401] LIKO: These beings made the rains come,
+[00:11:59.041 --> 00:12:00.321] LIKO: told the sun when to rise,
+[00:12:00.721 --> 00:12:03.441] LIKO: they caused all life to be born, to grow, to die.
+[00:12:04.481 --> 00:12:06.081] OJI: But those are just tales, father.
+[00:12:06.081 --> 00:12:07.601] OJI: Old superstitions.
+[00:12:07.601 --> 00:12:10.001] LIKO: But perhaps the beliefs of our ancestors are true.
+[00:12:12.321 --> 00:12:13.761] LIKO: Nothing else can explain what's happened.
+[00:12:17.041 --> 00:12:18.401] LIKO: Everything is changed now, Oji.
+[00:12:19.601 --> 00:12:20.561] LIKO: We must tell the others.
+[00:12:26.241 --> 00:12:28.161] CRUSHER: Barron is stable, but Warren is still critical.
+[00:12:28.321 --> 00:12:29.121] RIKER: Palmer is missing.
+[00:12:29.361 --> 00:12:32.241] RIKER: A scan of the planet shows Mintakan life forms only, no humans.
+[00:12:32.241 --> 00:12:32.668] RIKER: However
+[00:12:32.668 --> 00:12:38.641] DATA: The area around the duck blind exhibits Karst topography. Sinkholes, underground rivers, and caverns.
+[00:12:39.201 --> 00:12:44.241] DATA: And the rock strata contain a high concentration of thallium compounds which may be obstructing our sensor beams.
+[00:12:44.321 --> 00:12:49.601] PICARD: So if Palmer, in his delirium, fled into a cave, we may be unable to detect his life signs?
+[00:12:49.841 --> 00:12:50.321] DATA: Correct, sir.
+[00:12:51.601 --> 00:12:54.721] CRUSHER: Captain, if he is still alive, he needs medical attention.
+[00:12:54.801 --> 00:12:57.354] CRUSHER: We must send an away team to locate him.
+[00:12:57.354 --> 00:13:01.041] TROI: But our presence must not interfere with the cultural development of the Mintakans.
+[00:13:01.441 --> 00:13:01.761] PICARD: Agreed.
+[00:13:02.481 --> 00:13:04.721] PICARD: Further contamination must be prevented.
+[00:13:07.361 --> 00:13:08.161] RIKER: I have a suggestion.
+[00:13:11.361 --> 00:13:14.721] LOG: First officer's log, Stardate 43174.2. Counsellor
+[00:13:15.681 --> 00:13:21.921] LOG: Troi and I are beaming down to Mintaka Three to locate Doctor Palmer and to determine the extent of the cultural contamination.
+[00:13:22.881 --> 00:13:26.001] LOG: Doctor Crusher has temporarily altered our features and skin colour.
+[00:13:26.666 --> 00:13:32.106] LOG: She's also implanted subcutaneous communicators so that any transmissions we receive will be inaudible to the Mintakans.
+[00:13:34.026 --> 00:13:34.826] RIKER: Riker to Enterprise.
+[00:13:34.826 --> 00:13:35.386] RIKER: Do you hear me?
+[00:13:36.026 --> 00:13:36.746] DATA: Perfectly, Commander.
+[00:13:37.226 --> 00:13:38.746] DATA: I will be monitoring you continuously.
+[00:13:39.626 --> 00:13:41.946] TROI: Mintakan emotions are quite interesting.
+[00:13:42.186 --> 00:13:46.586] TROI: Like the Vulcans, they have highly ordered minds. A very sensible people.
+[00:13:47.066 --> 00:13:51.066] TROI: For example, Mintakan women precede their mates.
+[00:13:51.546 --> 00:13:52.906] TROI: It's a signal to other women.
+[00:13:53.466 --> 00:13:54.586] RIKER: This man's taken, get your own?
+[00:13:55.066 --> 00:13:56.106] TROI: Not precisely.
+[00:13:56.586 --> 00:14:00.666] TROI: More like, if you want his services, I'm the one you have to negotiate with.
+[00:14:00.746 --> 00:14:01.946] RIKER: What kind of services?
+[00:14:02.266 --> 00:14:03.066] TROI: All kinds.
+[00:14:04.186 --> 00:14:05.226] RIKER: They are a sensible race.
+[00:14:15.706 --> 00:14:15.706] LIKO: I
+[00:14:33.546 --> 00:14:35.226] LIKO: understand your skepticism.
+[00:14:35.786 --> 00:14:39.066] LIKO: Had it not happened to me, I would find it difficult to accept as well.
+[00:14:39.226 --> 00:14:40.986] OJI: But it did happen, just as we've said.
+[00:14:41.466 --> 00:14:43.466] LIKO: Fento, you know the legends better than anyone.
+[00:14:43.946 --> 00:14:46.971] LIKO: Do they not speak of beings like the kind I've seen?
+[00:14:46.971 --> 00:14:48.346] OJI: Who could vanish like smoke?
+[00:14:49.066 --> 00:14:53.982] FENTO: There are the stories of the Overseer who could appear and disappear at will.
+[00:14:53.982 --> 00:14:55.386] LIKO: And couldn't this Overseer
+[00:14:56.217 --> 00:14:56.857] LIKO: heal the dead?
+[00:14:57.657 --> 00:15:02.057] FENTO: He had supreme power, or so our ancestors believed.
+[00:15:02.777 --> 00:15:05.097] LIKO: I believe I have seen the Overseer.
+[00:15:06.617 --> 00:15:08.777] LIKO: He is called the Picard.
+[00:15:10.217 --> 00:15:10.633] RIKER: Uh oh.
+[00:15:10.633 --> 00:15:11.257] TROI: His memory's intact.
+[00:15:11.257 --> 00:15:12.297] RIKER: The procedure didn't work.
+[00:15:12.697 --> 00:15:18.857] NURIA: Liko, all this talk of supernatural beings. No one has believed that for countless generations.
+[00:15:19.657 --> 00:15:25.417] NURIA: Just as we no longer believe the stars control our fates, or the spirits of the dead haunt the living.
+[00:15:28.377 --> 00:15:36.937] LIKO: Nuria, I'm not saying all the old beliefs are true. But I did see the Picard, and I was restored back to life.
+[00:15:38.617 --> 00:15:40.377] TROI: We are visitors.
+[00:15:40.857 --> 00:15:42.137] TROI: We've come to trade our cloth.
+[00:15:43.017 --> 00:15:43.737] TROI: May we speak?
+[00:15:43.897 --> 00:15:44.537] NURIA: Please do.
+[00:15:44.857 --> 00:15:46.057] NURIA: We welcome outsiders.
+[00:15:46.937 --> 00:15:47.577] NURIA: I am Nuria.
+[00:15:48.217 --> 00:15:49.657] TROI: I am Troi and this is Riker.
+[00:15:51.737 --> 00:15:53.497] TROI: You've had a very interesting dream.
+[00:15:54.297 --> 00:15:54.857] LIKO: Dream?
+[00:15:56.217 --> 00:15:57.017] LIKO: It was real!
+[00:15:58.297 --> 00:16:00.937] OJI: My father and I both witnessed these beings.
+[00:16:01.577 --> 00:16:05.737] TROI: If you are father and daughter, you may well have shared the same dream.
+[00:16:07.497 --> 00:16:08.777] LIKO: That is not reasonable.
+[00:16:09.257 --> 00:16:14.057] RIKER: Is that any less reasonable than being magically transformed to another place by the Picard?
+[00:16:14.297 --> 00:16:15.017] HALI: Nuria!
+[00:16:15.657 --> 00:16:20.297] LIKO: It has to be Palmer! The one the Picard wished to find.
+[00:16:20.857 --> 00:16:21.577] NURIA: Remarkable.
+[00:16:22.187 --> 00:16:23.627] NURIA: You were speaking the truth.
+[00:16:23.627 --> 00:16:24.747] LIKO: The Picard will be pleased.
+[00:16:24.747 --> 00:16:26.667] RIKER: Riker to
+[00:16:29.547 --> 00:16:29.547] RIKER: Picard.
+[00:16:31.787 --> 00:16:33.707] PICARD: Go ahead, Number One.
+[00:16:33.707 --> 00:16:34.347] RIKER: We have a problem.
+[00:16:35.387 --> 00:16:36.027] PICARD: With the contamination?
+[00:16:36.747 --> 00:16:37.947] RIKER: It's worse than we suspected.
+[00:16:38.587 --> 00:16:40.587] RIKER: The Mintakans are beginning to believe in a god And
+[00:16:41.867 --> 00:16:44.187] RIKER: the one they've chosen is you.
+[00:16:51.547 --> 00:16:55.147] BARRON: Picard, you must beam Palmer aboard immediately. Without medical attention
+[00:16:55.147 --> 00:16:55.867] PICARD: It's not as simple as that.
+[00:16:55.867 --> 00:16:57.307] PICARD: He is surrounded by Mintakans.
+[00:16:57.307 --> 00:16:59.725] PICARD: If he dematerialises before their eyes, the impact
+[00:16:59.725 --> 00:17:02.747] BARRON: It will slightly increase the cultural contamination which already exists.
+[00:17:03.147 --> 00:17:04.907] BARRON: A small price for saving Palmer's life.
+[00:17:07.867 --> 00:17:12.107] PICARD: Number One? Is there any chance of your freeing Palmer and transporting up unseen?
+[00:17:12.747 --> 00:17:13.307] RIKER: We can try.
+[00:17:13.787 --> 00:17:15.227] PICARD: Try hard. Picard
+[00:17:15.227 --> 00:17:15.587] PICARD: out.
+[00:17:15.587 --> 00:17:15.947] BARRON: Picard,
+[00:17:15.947 --> 00:17:16.747] BARRON: I must protest.
+[00:17:16.907 --> 00:17:18.827] BARRON: You're endangering Palmer with this delay.
+[00:17:19.387 --> 00:17:20.347] PICARD: I am aware of that.
+[00:17:21.467 --> 00:17:26.667] PICARD: But each of us, including Doctor Palmer took an oath that we would uphold the Prime Directive,
+[00:17:28.027 --> 00:17:29.787] PICARD: if necessary, with our lives.
+[00:17:32.027 --> 00:17:33.707] HALI: Riga and I were hunting on the third ridge.
+[00:17:34.347 --> 00:17:35.787] HALI: We followed a hornbuck into a cave.
+[00:17:36.027 --> 00:17:37.467] HALI: The stranger was there, asleep.
+[00:17:37.867 --> 00:17:39.947] NURIA: This Palmer is one of the Overseer's servants?
+[00:17:40.027 --> 00:17:40.507] LIKO: Yes.
+[00:17:41.067 --> 00:17:43.227] LIKO: The Picard has many servants.
+[00:17:44.187 --> 00:17:45.227] LIKO: Isn't that true, Fento?
+[00:17:45.707 --> 00:17:49.627] FENTO: According to legend. But if this Palmer is a servant of the Overseer,
+[00:17:50.610 --> 00:17:51.890] FENTO: what was he doing in the cave?
+[00:17:52.690 --> 00:17:53.714] OJI: Perhaps he ran away.
+[00:17:53.714 --> 00:17:56.529] HALI: Or he failed the Picard somehow and was hiding from him.
+[00:17:56.769 --> 00:17:59.809] LIKO: We should bind him in case he wakes and tries to escape.
+[00:18:01.010 --> 00:18:03.089] RIKER: It's senseless for this stranger to be held captive.
+[00:18:03.569 --> 00:18:06.769] RIKER: All this talk of the Overseer, it's old superstitions.
+[00:18:07.329 --> 00:18:08.130] NURIA: I disagree.
+[00:18:09.250 --> 00:18:11.730] NURIA: All the evidence indicates that the Overseer exists.
+[00:18:12.049 --> 00:18:14.769] LIKO: And I heard the Picard say he wanted to find Palmer.
+[00:18:17.170 --> 00:18:20.746] OJI: Then by keeping Palmer safe, we will please the Picard.
+[00:18:20.746 --> 00:18:23.250] LIKO: And he'll grant us favours in return.
+[00:18:23.970 --> 00:18:24.370] NURIA: Favours?
+[00:18:25.089 --> 00:18:27.250] FENTO: It is said that the Overseer is all powerful.
+[00:18:27.970 --> 00:18:34.210] FENTO: He can provide gentle winters, plentiful hunting, fertile crops, anything.
+[00:18:34.930 --> 00:18:38.210] LIKO: He could even bring back those who have died.
+[00:18:42.049 --> 00:18:42.769] NURIA: It's agreed.
+[00:18:43.730 --> 00:18:45.490] NURIA: We will save Palmer for the Picard.
+[00:18:46.210 --> 00:18:48.210] TROI: I've seen another one, like Palmer.
+[00:18:49.010 --> 00:18:50.289] LIKO: Another servant of the Picard?
+[00:18:50.769 --> 00:18:52.049] TROI: He's headed toward the caves.
+[00:18:53.170 --> 00:18:53.650] NURIA: Fento,
+[00:18:53.809 --> 00:18:54.930] NURIA: stay and bind Palmer.
+[00:18:55.410 --> 00:18:55.809] MAN: Where?
+[00:18:55.890 --> 00:18:56.193] TROI: Over
+[00:18:56.306 --> 00:18:56.769] TROI: there.
+[00:18:56.769 --> 00:18:57.250] RIKER: That knot won't
+[00:19:00.690 --> 00:19:00.690] RIKER: hold.
+[00:19:01.010 --> 00:19:01.090] RIKER: If
+[00:19:05.425 --> 00:19:07.425] RIKER: I
+[00:19:11.761 --> 00:19:13.761] RIKER: may?
+[00:19:16.930 --> 00:19:17.410] FENTO: Please do.
+[00:19:17.410 --> 00:19:20.049] RIKER: You need a knot that'll tighten under pressure.
+[00:19:20.266 --> 00:19:20.746] RIKER: Let me show you.
+[00:19:34.026 --> 00:19:35.946] OJI: Father, the sun's reaching its zenith.
+[00:19:35.946 --> 00:19:37.043] OJI: If I don't go to measure
+[00:19:37.043 --> 00:19:37.226] LIKO: Go.
+[00:19:42.746 --> 00:19:42.746] RIKER: Forgive
+[00:19:44.506 --> 00:19:45.946] RIKER: me, friend, but the stranger must be set free.
+[00:20:12.666 --> 00:20:12.666] OJI: Riker?
+[00:20:14.506 --> 00:20:17.226] RIKER: Riker to Enterprise. Lock on and prepare to beam us directly to Sickbay,
+[00:20:17.226 --> 00:20:18.266] RIKER: but hang on for my signal.
+[00:20:18.666 --> 00:20:19.386] DATA: Acknowledged, Commander.
+[00:20:20.186 --> 00:20:21.146] OJI: Riker, stop!
+[00:20:21.866 --> 00:20:22.266] NURIA: Oji?
+[00:20:25.306 --> 00:20:25.866] OJI: It's Riker,
+[00:20:25.866 --> 00:20:26.506] OJI: he's taking
+[00:20:26.506 --> 00:20:26.666] OJI: Palmer!
+[00:20:27.546 --> 00:20:27.546] NURIA: Hali.
+[00:20:28.266 --> 00:20:28.586] NURIA: Yuri,
+[00:20:28.586 --> 00:20:30.506] NURIA: don't let her escape.
+[00:20:30.656 --> 00:20:31.256] RIKER: I'm
+[00:20:46.019 --> 00:20:46.019] RIKER: clear.
+[00:21:34.579 --> 00:21:35.059] RIKER: Energise!
+[00:21:49.699 --> 00:21:50.659] RIKER: Data, has Counsellor Troi beamed up?
+[00:21:51.859 --> 00:21:52.499] DATA: Negative, Commander.
+[00:21:52.979 --> 00:21:55.699] DATA: Sensors show she's in the midst of a group of Mintakans.
+[00:21:57.219 --> 00:21:57.699] RIKER: Damn.
+[00:21:59.699 --> 00:21:59.779] NURIA: He
+[00:22:03.219 --> 00:22:05.619] NURIA: is all right.
+[00:22:07.939 --> 00:22:10.339] NURIA: Hali, find Riker and Palmer.
+[00:22:13.219 --> 00:22:15.219] LIKO: Why did you and Riker take Palmer from us?
+[00:22:15.646 --> 00:22:17.006] TROI: We did not take Palmer.
+[00:22:17.566 --> 00:22:18.446] TROI: We set him free.
+[00:22:18.926 --> 00:22:22.206] TROI: Riker and I do not believe in these fables about an Overseer.
+[00:22:23.086 --> 00:22:24.526] LIKO: Don't you realise what you've done?
+[00:22:25.246 --> 00:22:28.046] LIKO: You've angered the Picard and we may all suffer for it.
+[00:22:28.606 --> 00:22:29.006] LIKO: I know.
+[00:22:29.006 --> 00:22:29.646] LIKO: I've seen him.
+[00:22:29.886 --> 00:22:31.006] LIKO: He is all-powerful. Fanto,
+[00:22:31.886 --> 00:22:37.406] LIKO: weren't there stories about the Overseer destroying those who offended him?
+[00:22:37.806 --> 00:22:39.326] FENTO: Stories, nothing more.
+[00:22:39.486 --> 00:22:42.206] NURIA: Liko, we'll get Palmer back.
+[00:22:42.926 --> 00:22:43.966] NURIA: Riker was carrying him.
+[00:22:43.966 --> 00:22:45.006] NURIA: They can't have gone far.
+[00:22:45.566 --> 00:22:49.006] LIKO: Still, the Picard may blame us for letting Palmer escape.
+[00:22:52.926 --> 00:22:55.566] LIKO: Perhaps we should punish her.
+[00:22:57.006 --> 00:22:59.246] LIKO: Let the Overseer know That she and Riker acted alone.
+[00:23:00.366 --> 00:23:01.646] NURIA: We will keep Troi captive.
+[00:23:02.846 --> 00:23:03.726] LIKO: That's not enough.
+[00:23:05.886 --> 00:23:07.086] NURIA: You would have us harm her?
+[00:23:10.286 --> 00:23:12.526] LIKO: If it will hold off the Picard's anger,
+[00:23:13.806 --> 00:23:14.206] LIKO: yes.
+[00:23:15.966 --> 00:23:17.726] LIKO: I've seen how powerful he is.
+[00:23:21.726 --> 00:23:23.566] NURIA: I am unwilling to hurt her needlessly.
+[00:23:24.846 --> 00:23:27.215] NURIA: We will wait for Hali to return.
+[00:23:27.215 --> 00:23:29.246] OJI: And if they don't find Palmer?
+[00:23:35.326 --> 00:23:37.246] NURIA: Then we may have to do as Liko suggests.
+[00:23:44.926 --> 00:23:47.406] PICARD: Doctor, you believe the Mintakans are capable of
+[00:23:47.503 --> 00:23:48.863] PICARD: harming Counsellor Troi?
+[00:23:49.343 --> 00:23:53.343] BARRON: They are not normally a violent people but these are extraordinary circumstances.
+[00:23:53.983 --> 00:23:56.543] BARRON: They're trying to comprehend what they believe to be a god.
+[00:24:02.943 --> 00:24:03.663] PICARD: Recommendations?
+[00:24:04.303 --> 00:24:07.503] BARRON: The Mintakans wish to please the Overseer, but they can only guess what he wants.
+[00:24:07.823 --> 00:24:08.863] BARRON: They need a sign.
+[00:24:09.583 --> 00:24:10.463] PICARD: Are you suggesting?
+[00:24:10.623 --> 00:24:12.812] BARRON: You must go down to Mintaka Three.
+[00:24:12.812 --> 00:24:14.063] RIKER: Masquerading as a god?
+[00:24:14.543 --> 00:24:16.063] PICARD: Absolutely out of the question.
+[00:24:16.143 --> 00:24:17.034] PICARD: The Prime Directive
+[00:24:17.034 --> 00:24:18.223] BARRON: Has already been violated.
+[00:24:18.383 --> 00:24:19.423] BARRON: The damage is done.
+[00:24:19.823 --> 00:24:22.161] BARRON: All we can do now is minimise it.
+[00:24:22.161 --> 00:24:23.623] PICARD: By sanctioning their false beliefs?
+[00:24:23.623 --> 00:24:27.423] BARRON: By giving them guidelines. Letting them know what the Overseer expects of them.
+[00:24:27.823 --> 00:24:29.023] PICARD: Doctor Barron, I cannot,
+[00:24:29.183 --> 00:24:32.063] PICARD: I will not, impose a set of commandments on these people.
+[00:24:32.543 --> 00:24:35.023] PICARD: To do so violates the very essence of the Prime Directive.
+[00:24:35.423 --> 00:24:38.543] BARRON: Like it or not, we have rekindled the Mintakans' belief in the Overseer.
+[00:24:39.023 --> 00:24:42.303] RIKER: And are you saying that this belief will eventually become a religion?
+[00:24:42.623 --> 00:24:43.263] BARRON: It's inevitable.
+[00:24:44.463 --> 00:24:50.063] BARRON: And without guidance, that religion could degenerate into inquisitions, holy wars, chaos.
+[00:24:53.903 --> 00:24:54.143] PICARD: Horrifying.
+[00:24:56.703 --> 00:25:01.983] PICARD: Doctor Barron, your report describes how rational these people are.
+[00:25:02.223 --> 00:25:06.383] PICARD: Millennia ago, they abandoned their belief in the supernatural.
+[00:25:06.623 --> 00:25:14.223] PICARD: Now you are asking me to sabotage that achievement, to send them back into the Dark Ages of superstition and ignorance and fear?
+[00:25:14.303 --> 00:25:14.863] PICARD: No!
+[00:25:20.411 --> 00:25:23.371] PICARD: We will find some way to undo the damage we've caused.
+[00:25:26.571 --> 00:25:30.909] PICARD: Number One, tell me about this group's leader.
+[00:25:30.909 --> 00:25:31.451] RIKER: Nuria.
+[00:25:32.491 --> 00:25:34.411] RIKER: Exceptionally clear-minded, sensible.
+[00:25:35.131 --> 00:25:36.891] RIKER: The Mintakans trust her judgment.
+[00:25:36.891 --> 00:25:39.299] RIKER: If we can convince her that you are not a god
+[00:25:39.299 --> 00:25:41.051] PICARD: She might be able to persuade the others.
+[00:25:41.531 --> 00:25:43.291] BARRON: And how do you propose to convince her?
+[00:25:44.731 --> 00:25:46.091] PICARD: She believes the Picard
+[00:25:47.931 --> 00:25:49.051] PICARD: is a magical figure.
+[00:25:51.531 --> 00:25:53.611] PICARD: I'm going to show her how the magic works.
+[00:25:55.371 --> 00:25:56.331] PICARD: I'm going to bring her aboard.
+[00:26:01.051 --> 00:26:04.811] DATA: Counsellor, sensors indicate five Mintakans in your immediate vicinity.
+[00:26:05.371 --> 00:26:06.411] DATA: Four are motionless.
+[00:26:06.811 --> 00:26:10.331] DATA: The fifth is eight meters away, proceeding south. Is Nuria
+[00:26:10.331 --> 00:26:11.771] DATA: one of these five?
+[00:26:11.921 --> 00:26:12.921] TROI: Mmm hmm.
+[00:26:14.971 --> 00:26:16.251] DATA: Was that intended to be an affirmative?
+[00:26:16.331 --> 00:26:16.731] RIKER: Yes, Data, it was.
+[00:26:18.171 --> 00:26:19.611] DATA: Is Nuria the closest of the five?
+[00:26:19.761 --> 00:26:20.761] TROI: Uh un.
+[00:26:21.291 --> 00:26:21.611] RIKER: Negative.
+[00:26:22.891 --> 00:26:25.131] DATA: Is Nuria the one in motion?
+[00:26:26.571 --> 00:26:26.571] TROI: Mmm hmm.
+[00:26:27.051 --> 00:26:28.091] RIKER: Lock sensors on Nuria.
+[00:26:28.891 --> 00:26:29.291] DATA: Locked on.
+[00:26:30.171 --> 00:26:31.771] DATA: We can beam Nuria aboard at will.
+[00:26:32.171 --> 00:26:35.451] PICARD: Data, when sensors indicate she's alone, beam her directly to transporter room one.
+[00:26:35.611 --> 00:26:35.931] DATA: Aye, sir.
+[00:26:48.515 --> 00:26:49.048] PICARD: Ensign Hoy?
+[00:26:49.048 --> 00:26:49.315] DATA: Captain,
+[00:26:49.715 --> 00:26:50.515] DATA: Nuria is alone.
+[00:26:50.835 --> 00:26:51.555] PICARD: I'll handle this.
+[00:27:07.235 --> 00:27:09.395] PICARD: Nuria, don't be afraid.
+[00:27:10.995 --> 00:27:14.035] PICARD: No one is going to harm you.
+[00:27:14.035 --> 00:27:14.035] NURIA: Who?
+[00:27:16.435 --> 00:27:18.995] PICARD: I am Jean Luc
+[00:27:21.875 --> 00:27:22.275] PICARD: Picard.
+[00:27:30.675 --> 00:27:31.475] PICARD: Please, get up.
+[00:27:32.755 --> 00:27:33.075] PICARD: Get up.
+[00:27:33.315 --> 00:27:34.275] PICARD: You must not kneel to me.
+[00:27:35.635 --> 00:27:36.515] NURIA: You do not wish it?
+[00:27:36.995 --> 00:27:37.875] PICARD: I do not deserve it.
+[00:27:44.435 --> 00:27:44.755] PICARD: Look at me.
+[00:27:46.595 --> 00:27:46.915] PICARD: Look at me.
+[00:27:53.635 --> 00:27:54.035] PICARD: Feel
+[00:27:55.955 --> 00:27:56.995] PICARD: the warmth of my hand,
+[00:28:00.755 --> 00:28:01.875] PICARD: the rhythm of my pulse.
+[00:28:01.875 --> 00:28:01.955] PICARD: I'm
+[00:28:04.195 --> 00:28:05.155] PICARD: not a supreme being.
+[00:28:07.395 --> 00:28:09.075] PICARD: I'm flesh and blood, like you.
+[00:28:10.195 --> 00:28:10.835] NURIA: Not like me.
+[00:28:10.995 --> 00:28:11.555] PICARD: Like you.
+[00:28:12.115 --> 00:28:15.395] PICARD: Different in appearance, yes. But we are both living beings.
+[00:28:15.715 --> 00:28:16.355] PICARD: We are born,
+[00:28:16.595 --> 00:28:17.155] PICARD: we grow,
+[00:28:17.235 --> 00:28:17.635] PICARD: we live
+[00:28:19.235 --> 00:28:19.955] PICARD: and we die.
+[00:28:21.678 --> 00:28:23.518] PICARD: In all the ways that matter, we are alike.
+[00:28:25.358 --> 00:28:26.558] NURIA: But you are the Picard!
+[00:28:32.238 --> 00:28:33.758] PICARD: There is something I want you to see.
+[00:28:39.838 --> 00:28:41.278] NURIA: What a wondrous place.
+[00:28:42.158 --> 00:28:43.838] NURIA: Even the walls obey your command.
+[00:28:44.718 --> 00:28:46.318] PICARD: Wondrous, yes, but not miraculous.
+[00:28:47.038 --> 00:28:52.158] PICARD: The doors merely work differently from the ones you know.
+[00:29:03.038 --> 00:29:04.638] NURIA: That is my home?
+[00:29:06.798 --> 00:29:08.318] PICARD: Seen from far, far above.
+[00:29:11.358 --> 00:29:12.478] NURIA: Yet we do not fall.
+[00:29:19.038 --> 00:29:21.838] NURIA: I never imagined I would see the clouds from the other side.
+[00:29:25.758 --> 00:29:27.998] NURIA: Your powers are truly boundless.
+[00:29:41.678 --> 00:29:42.078] PICARD: Nuria,
+[00:29:45.923 --> 00:29:47.043] PICARD: your people live in huts.
+[00:29:47.843 --> 00:29:48.643] PICARD: Was it always so?
+[00:29:49.203 --> 00:29:49.683] NURIA: No.
+[00:29:52.243 --> 00:29:54.483] NURIA: We have found remnants of tools in caves.
+[00:29:54.963 --> 00:29:56.403] NURIA: Our ancestors must have lived there.
+[00:29:57.043 --> 00:29:58.163] PICARD: So why do you now live in huts?
+[00:29:58.643 --> 00:29:59.363] NURIA: Huts are better.
+[00:30:00.723 --> 00:30:02.003] NURIA: Caves are dark and wet.
+[00:30:02.483 --> 00:30:03.363] PICARD: If huts are better,
+[00:30:03.603 --> 00:30:04.883] PICARD: why did you once live in caves?
+[00:30:07.763 --> 00:30:13.603] NURIA: The most reasonable explanation would be that at one time we didn't know how to make huts.
+[00:30:14.003 --> 00:30:21.683] PICARD: Just as at one time you did not know how to weave cloth, how to make a bow.
+[00:30:23.283 --> 00:30:24.323] NURIA: That would be reasonable.
+[00:30:25.043 --> 00:30:26.163] PICARD: Someone invented a hut.
+[00:30:26.483 --> 00:30:28.483] PICARD: Someone invented a bow,
+[00:30:28.563 --> 00:30:29.603] PICARD: who taught others,
+[00:30:30.723 --> 00:30:31.763] PICARD: who taught their children,
+[00:30:33.283 --> 00:30:34.483] PICARD: who built a stronger hut,
+[00:30:34.483 --> 00:30:35.603] PICARD: built a better bow,
+[00:30:35.683 --> 00:30:36.883] PICARD: who taught their children.
+[00:30:39.843 --> 00:30:47.763] PICARD: Now, Nuria, suppose one of your cave dwelling ancestors could see you as you are today.
+[00:30:48.643 --> 00:30:50.163] PICARD: What would she think?
+[00:30:52.643 --> 00:30:53.363] NURIA: I don't know.
+[00:30:53.763 --> 00:30:55.683] PICARD: Put yourself in her place.
+[00:30:56.963 --> 00:31:00.723] PICARD: You see, she cannot kill a hornbuck at a great distance.
+[00:31:00.723 --> 00:31:01.203] PICARD: You can.
+[00:31:01.523 --> 00:31:03.043] PICARD: You have a power she lacks.
+[00:31:03.363 --> 00:31:04.563] NURIA: Only because I have a bow.
+[00:31:04.803 --> 00:31:06.003] PICARD: She's never seen a bow.
+[00:31:07.043 --> 00:31:08.403] PICARD: It doesn't exist in her world.
+[00:31:10.243 --> 00:31:11.843] PICARD: To you, it's a simple tool.
+[00:31:12.003 --> 00:31:12.403] PICARD: To her,
+[00:31:14.403 --> 00:31:14.963] PICARD: it's magic.
+[00:31:17.763 --> 00:31:18.723] NURIA: I suppose she might
+[00:31:18.838 --> 00:31:19.238] NURIA: think so.
+[00:31:19.878 --> 00:31:21.638] PICARD: Now, how would she react to you?
+[00:31:25.318 --> 00:31:26.598] NURIA: I think she would fear me.
+[00:31:27.478 --> 00:31:28.838] PICARD: Just as you fear me.
+[00:31:34.278 --> 00:31:35.878] NURIA: I do not fear you any longer.
+[00:31:36.838 --> 00:31:38.038] PICARD: Good. That's good.
+[00:31:39.478 --> 00:31:39.798] PICARD: You see,
+[00:31:42.918 --> 00:31:44.918] PICARD: my people once lived in caves.
+[00:31:46.598 --> 00:31:51.478] PICARD: And then we learned to build huts and, in time, to build ships like this one.
+[00:31:51.628 --> 00:31:52.228] PICARD: NURIA:
+[00:32:04.758 --> 00:32:07.238] PICARD: Perhaps one day, my people will travel above the skies.
+[00:32:13.558 --> 00:32:15.638] PICARD: Of that, I have absolutely no doubt.
+[00:32:19.958 --> 00:32:21.078] LIKO: It's not the season for lightning.
+[00:32:22.598 --> 00:32:23.478] LIKO: It must be a warning.
+[00:32:24.918 --> 00:32:26.438] FENTO: We've had storms like this before.
+[00:32:28.038 --> 00:32:30.678] OJI: Not like this one.
+[00:32:30.838 --> 00:32:31.718] LIKO: It must mean something.
+[00:32:32.918 --> 00:32:34.198] LIKO: The Picard is angry with us.
+[00:32:34.998 --> 00:32:36.758] LIKO: He blames us for letting Palmer escape.
+[00:32:37.478 --> 00:32:42.198] FENTO: Liko, we don't know that the Overseer is responsible for this storm.
+[00:32:42.998 --> 00:32:44.118] LIKO: Will he also send floods?
+[00:32:44.678 --> 00:32:46.118] LIKO: My wife died in last year's floods.
+[00:32:47.558 --> 00:32:48.438] LIKO: Will we all die now?
+[00:32:51.017 --> 00:32:51.977] LIKO: We must find Nuria.
+[00:33:04.377 --> 00:33:12.297] NURIA: Picard, you have shown me wonders I could never have imagined, and I am grateful beyond words.
+[00:33:16.377 --> 00:33:18.457] NURIA: Might I request something for my people?
+[00:33:20.377 --> 00:33:21.577] PICARD: You are indeed a leader.
+[00:33:24.697 --> 00:33:26.537] NURIA: You have shown me such generosity.
+[00:33:27.817 --> 00:33:29.417] NURIA: I wish my people could share in it.
+[00:33:32.857 --> 00:33:35.737] NURIA: Six Mintakans died in a flood last winter.
+[00:33:36.217 --> 00:33:37.257] NURIA: Four of them children.
+[00:33:38.537 --> 00:33:39.897] NURIA: Would you bring them back to life?
+[00:33:41.897 --> 00:33:43.017] PICARD: That is not in my power.
+[00:33:43.737 --> 00:33:44.217] NURIA: Why?
+[00:33:45.497 --> 00:33:46.857] NURIA: You restored Liko's life.
+[00:33:48.617 --> 00:33:50.937] NURIA: Did the six who died offend you in some way?
+[00:33:52.617 --> 00:33:53.577] NURIA: Did I offended you?
+[00:33:54.537 --> 00:33:56.297] NURIA: Should I have ordered the death of Troi?
+[00:33:58.217 --> 00:33:58.777] NURIA: Please,
+[00:34:00.217 --> 00:34:03.097] NURIA: you must tell me if there's anything I can do to change your mind.
+[00:34:05.017 --> 00:34:06.457] PICARD: I've failed to get through to you, haven't I?
+[00:34:07.097 --> 00:34:08.377] PICARD: Despite all my efforts.
+[00:34:21.926 --> 00:34:23.046] OJI: Nuria can't be found.
+[00:34:23.046 --> 00:34:24.326] OJI: No one knows where she's gone.
+[00:34:24.486 --> 00:34:27.366] LIKO: Hali, any sign of Palmer or Riker?
+[00:34:27.926 --> 00:34:28.726] HALI: They have escaped us.
+[00:34:28.886 --> 00:34:29.686] HALI: We searched everywhere.
+[00:34:30.646 --> 00:34:33.606] OJI: What do we do now, father?
+[00:34:36.646 --> 00:34:38.086] LIKO: We must do as the Picard wishes.
+[00:34:42.006 --> 00:34:43.206] LIKO: Punish those responsible.
+[00:34:44.646 --> 00:34:45.766] FENTO: Nuria would not allow us to
+[00:34:45.766 --> 00:34:46.646] LIKO: Nuria isn't here.
+[00:34:50.726 --> 00:34:51.366] LIKO: We can't wait.
+[00:35:30.806 --> 00:35:31.686] CRUSHER: Crusher to Picard.
+[00:35:32.966 --> 00:35:34.246] CRUSHER: I think we're going to lose Warren.
+[00:35:34.646 --> 00:35:35.206] PICARD: On my way.
+[00:35:42.326 --> 00:35:44.566] BARRON: I'm here, Mary.
+[00:35:52.067 --> 00:35:52.947] CRUSHER: Prepare two cc's of norep.
+[00:36:09.267 --> 00:36:09.827] CRUSHER: I'm sorry.
+[00:36:32.867 --> 00:36:33.427] NURIA: Picard,
+[00:36:34.147 --> 00:36:35.347] NURIA: you could not save her?
+[00:36:37.187 --> 00:36:39.187] PICARD: No.
+[00:36:39.187 --> 00:36:40.387] NURIA: You do have limits.
+[00:36:41.267 --> 00:36:43.027] NURIA: You are not masters of life and death.
+[00:36:44.707 --> 00:36:45.267] PICARD: No, we are not.
+[00:36:48.067 --> 00:36:49.827] PICARD: We can cure many diseases and
+[00:36:50.547 --> 00:36:51.987] PICARD: we can repair injuries,
+[00:36:51.987 --> 00:36:53.667] PICARD: we can even extend life.
+[00:36:55.427 --> 00:36:58.627] PICARD: But for all our knowledge, all our advances,
+[00:37:00.547 --> 00:37:01.907] PICARD: we are just as mortal as you are.
+[00:37:04.067 --> 00:37:05.267] PICARD: We're just as powerless to
+[00:37:06.947 --> 00:37:07.747] PICARD: prevent the inevitable.
+[00:37:11.427 --> 00:37:16.627] NURIA: You are a remarkable people, but you are not superior beings.
+[00:37:17.673 --> 00:37:19.753] NURIA: My people must be made to understand that.
+[00:37:24.393 --> 00:37:26.873] TROI: Liko, you don't want to kill me.
+[00:37:27.513 --> 00:37:28.313] LIKO: I have no choice.
+[00:37:28.953 --> 00:37:30.313] LIKO: I must do as the Picard wishes.
+[00:37:30.473 --> 00:37:32.393] TROI: Are you sure you know what he wants?
+[00:37:34.233 --> 00:37:36.873] TROI: That's the problem with believing in a supernatural being.
+[00:37:38.473 --> 00:37:40.633] TROI: Trying to determine what he wants.
+[00:37:45.913 --> 00:37:46.793] LIKO: We must do something.
+[00:37:47.993 --> 00:37:49.913] OJI: But what if we do the wrong thing, father?
+[00:37:56.233 --> 00:37:58.553] LIKO: Picard, we need your guidance.
+[00:38:00.233 --> 00:38:03.033] LIKO: Is it your wish that this woman should die?
+[00:38:04.313 --> 00:38:04.953] LIKO: Answer us.
+[00:38:06.713 --> 00:38:07.433] LIKO: Speak.
+[00:38:07.433 --> 00:38:08.153] PICARD: Liko!
+[00:38:10.873 --> 00:38:14.393] LIKO: The Picard. The Overseer has come.
+[00:38:15.113 --> 00:38:16.633] PICARD: No. Liko.
+[00:38:17.833 --> 00:38:18.713] PICARD: Liko, I am a man.
+[00:38:18.713 --> 00:38:20.553] PICARD: I am not the Overseer.
+[00:38:21.353 --> 00:38:24.633] PICARD: I am a traveller from a faraway land.
+[00:38:25.113 --> 00:38:25.513] PICARD: Nothing more.
+[00:38:26.313 --> 00:38:27.913] LIKO: But you have restored my life.
+[00:38:28.393 --> 00:38:29.433] LIKO: I am your servant.
+[00:38:31.193 --> 00:38:32.393] PICARD: You are no one's servant, Liko.
+[00:38:33.433 --> 00:38:35.593] PICARD: I neither desire your obedience nor your worship.
+[00:38:36.553 --> 00:38:37.993] NURIA: Picard speaks the truth.
+[00:38:38.873 --> 00:38:40.153] NURIA: I have visited his people.
+[00:38:40.713 --> 00:38:42.873] NURIA: I have seen how they live and how they die.
+[00:38:44.313 --> 00:38:46.073] NURIA: When death takes one of their loved ones,
+[00:38:46.477 --> 00:38:47.757] NURIA: they are as helpless as we are.
+[00:38:48.797 --> 00:38:52.157] LIKO: Then how was I brought back to life?
+[00:38:52.717 --> 00:38:53.837] NURIA: Liko, you were not dead.
+[00:38:54.877 --> 00:38:57.277] NURIA: Picard's people have a knowledge that we lack.
+[00:38:57.917 --> 00:38:59.917] NURIA: They are able to heal wounds that we cannot.
+[00:39:00.077 --> 00:39:02.477] LIKO: No. No. He can bring back the dead.
+[00:39:03.677 --> 00:39:04.397] LIKO: Show them, Picard.
+[00:39:05.277 --> 00:39:07.677] LIKO: You can bring my wife back to me.
+[00:39:08.957 --> 00:39:09.517] PICARD: I cannot.
+[00:39:10.397 --> 00:39:10.717] LIKO: Why?
+[00:39:12.317 --> 00:39:13.277] LIKO: Why won't you do this for me?
+[00:39:14.477 --> 00:39:15.597] LIKO: Have I failed you in some way?
+[00:39:16.557 --> 00:39:17.437] LIKO: Are you angry with me?
+[00:39:17.517 --> 00:39:18.237] PICARD: I am not angry with
+[00:39:18.237 --> 00:39:18.437] PICARD: you.
+[00:39:18.437 --> 00:39:20.237] LIKO: Then I beg you, bring her back to me.
+[00:39:21.437 --> 00:39:23.757] LIKO: I will give you my life in exchange.
+[00:39:24.157 --> 00:39:26.797] LIKO: Please, take back what you gave me.
+[00:39:27.197 --> 00:39:27.997] LIKO: Give it to her.
+[00:39:28.157 --> 00:39:28.877] LIKO: Let her live!
+[00:39:29.197 --> 00:39:30.397] PICARD: It is beyond my power.
+[00:39:30.877 --> 00:39:32.157] LIKO: Nothing is beyond your power!
+[00:39:32.477 --> 00:39:33.517] LIKO: You are the Overseer.
+[00:39:34.077 --> 00:39:34.637] LIKO: I will prove it!
+[00:39:38.237 --> 00:39:38.637] NURIA: Liko!
+[00:39:41.037 --> 00:39:44.317] PICARD: If you believe I am all-powerful, then you cannot hurt me.
+[00:39:46.797 --> 00:39:49.357] PICARD: If, however, I am telling the truth
+[00:39:51.517 --> 00:39:53.197] PICARD: and I am mortal,
+[00:39:55.197 --> 00:39:55.837] PICARD: you will kill me.
+[00:39:57.917 --> 00:40:00.797] PICARD: But if the only proof you will believe is my death,
+[00:40:03.437 --> 00:40:03.757] PICARD: then shoot.
+[00:40:04.717 --> 00:40:06.253] NURIA: Liko, don't do it!
+[00:40:06.253 --> 00:40:06.637] OJI: Father,
+[00:40:06.637 --> 00:40:06.717] OJI: no!
+[00:40:28.674 --> 00:40:29.874] LOG: Captain's log, supplemental.
+[00:40:30.194 --> 00:40:33.234] LOG: Doctor Crusher has repaired my injury with her usual skill.
+[00:40:34.034 --> 00:40:39.954] LOG: Mister La Forge will supervise the dismantling of the observation post after I make one last visit to Mintaka Three.
+[00:40:43.074 --> 00:40:43.794] PICARD: Now, Mister La Forge.
+[00:40:44.194 --> 00:40:44.514] LAFORGE: Aye, sir.
+[00:40:50.514 --> 00:40:51.874] NURIA: What is that?
+[00:40:52.514 --> 00:40:55.074] PICARD: A place where we can watch your people.
+[00:40:56.594 --> 00:40:57.154] FENTO: But why?
+[00:40:57.954 --> 00:41:00.274] PICARD: To study you. To understand your ways.
+[00:41:01.234 --> 00:41:02.194] PICARD: Discontinue, Mister La Forge.
+[00:41:08.114 --> 00:41:11.794] NURIA: Picard, why should a people so advanced want to learn about us?
+[00:41:12.514 --> 00:41:14.194] PICARD: We were once as you are now.
+[00:41:14.594 --> 00:41:17.474] PICARD: To study you is to understand ourselves.
+[00:41:18.674 --> 00:41:20.514] FENTO: But why did you have to hide yourself from us?
+[00:41:20.914 --> 00:41:25.394] LIKO: Because their presence would affect us, just as it affected me.
+[00:41:27.074 --> 00:41:30.354] PICARD: It is our highest law that we shall not interfere with other cultures.
+[00:41:31.074 --> 00:41:32.914] OJI: Then revealing yourselves was an accident.
+[00:41:33.314 --> 00:41:33.794] PICARD: Oh, yes,
+[00:41:35.314 --> 00:41:36.114] PICARD: and now we must leave you.
+[00:41:37.554 --> 00:41:37.794] OJI: Why?
+[00:41:37.794 --> 00:41:39.394] OJI: There's so much you can teach us.
+[00:41:39.954 --> 00:41:42.434] PICARD: But that, too, would be interference.
+[00:41:44.034 --> 00:41:47.394] PICARD: You must progress in your own way.
+[00:41:49.074 --> 00:41:49.794] NURIA: So we will.
+[00:41:50.970 --> 00:41:52.810] NURIA: You have taught us there is nothing beyond our reach.
+[00:41:54.010 --> 00:41:54.970] PICARD: Not even the stars.
+[00:41:56.330 --> 00:41:56.730] NURIA: Pahkee.
+[00:42:13.050 --> 00:42:16.570] NURIA: I wish you good journeys, Picard.
+[00:42:18.650 --> 00:42:19.770] NURIA: Remember my people.
+[00:42:22.570 --> 00:42:23.050] PICARD: Always.

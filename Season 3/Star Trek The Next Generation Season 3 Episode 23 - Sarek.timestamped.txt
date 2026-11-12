@@ -1,0 +1,681 @@
+[00:00:02.240 --> 00:00:05.360] LOG: Captain's log, Stardate 43917.4
+[00:00:06.160 --> 00:00:13.680] LOG: The Enterprise has been given the singular honour of hosting the first meeting between the Federation and a mysterious race known as the Legarans.
+[00:00:14.080 --> 00:00:20.720] LOG: We are in orbit around Vulcan, preparing to welcome aboard Federation Ambassador Sarek and his wife Perrin, who like his first wife, is from Earth.
+[00:00:21.280 --> 00:00:28.640] RIKER: I remember studying his career in school. The treaty of Alpha Cygnus Nine, the Coridan admission to the Federation, the Klingon Alliance.
+[00:00:28.720 --> 00:00:32.000] PICARD: I met him once, many years ago, very briefly at his son's wedding.
+[00:00:32.960 --> 00:00:36.720] PICARD: I can tell you that was quite a moment for a young lieutenant, standing in the presence of such history.
+[00:00:37.120 --> 00:00:39.760] PICARD: I remember he spoke to me and I just stood there grinning like an idiot.
+[00:00:40.080 --> 00:00:41.093] RIKER: You? Tongue-tied?
+[00:00:41.093 --> 00:00:41.600] PICARD: Indeed.
+[00:00:41.680 --> 00:00:44.320] PICARD: How do you make small talk with someone who shaped the Federation?
+[00:00:44.880 --> 00:00:46.640] RIKER: Is it true that he'll be retiring after this mission?
+[00:00:46.960 --> 00:00:48.160] PICARD: Unofficially, that's what I hear.
+[00:00:48.720 --> 00:00:50.160] PICARD: What a crowning achievement for his career.
+[00:00:50.960 --> 00:00:53.840] PICARD: The benefits of relations with the Legarans are incalculable.
+[00:01:05.040 --> 00:01:06.720] MENDROSSEN: Ah Captain Picard.
+[00:01:07.120 --> 00:01:10.000] MENDROSSEN: I am Ki Mendrossen, the ambassador's chief of staff.
+[00:01:10.400 --> 00:01:12.800] MENDROSSEN: This is Sakkath, his personal assistant.
+[00:01:13.440 --> 00:01:14.400] PICARD: Has the ambassador been delayed?
+[00:01:15.120 --> 00:01:16.720] MENDROSSEN: He will be joining us momentarily.
+[00:01:17.440 --> 00:01:21.280] MENDROSSEN: But first we must discuss some matters of the utmost delicacy.
+[00:01:26.400 --> 00:01:26.960] PICARD: Please go ahead.
+[00:01:27.760 --> 00:01:28.480] MENDROSSEN: To be frank, Captain,
+[00:01:29.095 --> 00:01:30.535] MENDROSSEN: the ambassador is not a young man.
+[00:01:30.935 --> 00:01:31.975] MENDROSSEN: He tires easily.
+[00:01:32.135 --> 00:01:36.320] SAKKATH: He's going to need a lot of rest to prepare himself for the difficult job that awaits him.
+[00:01:36.320 --> 00:01:39.575] MENDROSSEN: Which is why it is imperative that he be allowed to conserve his strength.
+[00:01:40.135 --> 00:01:45.975] MENDROSSEN: I must request that you dispense with any formal activities normally associated with a visitor of his rank.
+[00:01:47.735 --> 00:01:49.415] RIKER: We had planned a ship's concert this evening.
+[00:01:50.135 --> 00:01:52.535] PICARD: I believe the Ambassador is extremely fond of Mozart.
+[00:01:52.935 --> 00:01:55.335] MENDROSSEN: I'm afraid it would be impossible for him to attend.
+[00:01:55.975 --> 00:02:02.055] MENDROSSEN: Upon his arrival he will be taken directly to his quarters where he will remain in seclusion until we reach Legara Four.
+[00:02:03.495 --> 00:02:06.855] PICARD: You have my assurance that the Ambassador will not be disturbed during the voyage.
+[00:02:07.655 --> 00:02:08.855] MENDROSSEN: That's all we ask.
+[00:02:10.055 --> 00:02:11.975] MENDROSSEN: Well, now that's settled,
+[00:02:12.775 --> 00:02:14.055] MENDROSSEN: the Ambassador is waiting.
+[00:02:26.455 --> 00:02:28.535] PICARD: Welcome aboard the Enterprise, Ambassador Sarek.
+[00:02:32.215 --> 00:02:33.815] SAREK: We come to serve.
+[00:02:33.815 --> 00:02:35.415] PICARD: Your service honours us.
+[00:02:35.975 --> 00:02:38.495] SAREK: Allow me to present she who is my wife.
+[00:02:38.495 --> 00:02:38.775] PICARD: Mrs.
+[00:02:38.775 --> 00:02:39.015] PICARD: Sarek.
+[00:02:39.655 --> 00:02:41.335] PERRIN: Please call me Perrin, Captain.
+[00:02:42.055 --> 00:02:43.655] PICARD: This is my first officer, Commander William Riker.
+[00:02:46.135 --> 00:02:48.855] PERRIN: Captain, would you be so kind as to show us to our quarters?
+[00:02:49.655 --> 00:02:51.975] SAREK: I prefer to view the conference room first.
+[00:02:52.215 --> 00:02:55.735] MENDROSSEN: Ambassador, I'm sure Sakkath and I can handle all the necessary details.
+[00:02:56.375 --> 00:02:57.975] SAREK: I will examine it for myself.
+[00:03:00.146 --> 00:03:02.706] PERRIN: Perhaps it would be best if we settled in first.
+[00:03:04.146 --> 00:03:05.906] SAREK: They worry about my health, Captain.
+[00:03:06.866 --> 00:03:07.426] SAREK: Too much.
+[00:03:09.026 --> 00:03:11.186] SAREK: You will take me to the conference room, please.
+[00:03:13.026 --> 00:03:13.746] RIKER: If you'll follow me, sir.
+[00:03:13.896 --> 00:03:14.496] WESLEY: Are
+[00:03:49.506 --> 00:03:52.226] PICARD: Space, the final frontier.
+[00:03:54.066 --> 00:03:56.946] PICARD: These are the voyages of the starship Enterprise.
+[00:03:58.066 --> 00:04:06.066] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:07.746 --> 00:04:10.626] PICARD: to boldly go where no one has gone before.
+[00:04:32.585 --> 00:04:32.585] WESLEY: the
+[00:05:09.145 --> 00:05:10.585] WESLEY: Legarans really going to sit in this stuff?
+[00:05:11.145 --> 00:05:11.945] LAFORGE: Well, I'm sure not.
+[00:05:12.825 --> 00:05:13.705] WESLEY: Can you believe this smell?
+[00:05:14.745 --> 00:05:15.145] LAFORGE: What smell?
+[00:05:17.785 --> 00:05:18.745] LAFORGE: What can I say? To us
+[00:05:18.745 --> 00:05:19.545] LAFORGE: it's a slime pit,
+[00:05:19.545 --> 00:05:20.665] LAFORGE: but to them it's home.
+[00:05:21.545 --> 00:05:21.865] WESLEY: Okay,
+[00:05:22.665 --> 00:05:23.785] WESLEY: the environmental controls are ready.
+[00:05:24.185 --> 00:05:24.745] WESLEY: What's next?
+[00:05:25.065 --> 00:05:26.505] LAFORGE: What, are you in some kind of hurry or something?
+[00:05:26.985 --> 00:05:27.225] WESLEY: Yeah,
+[00:05:28.105 --> 00:05:28.585] WESLEY: I have a date.
+[00:05:29.305 --> 00:05:29.945] LAFORGE: A date?
+[00:05:30.665 --> 00:05:31.065] LAFORGE: With who?
+[00:05:31.945 --> 00:05:32.585] WESLEY: Ensign Dumont.
+[00:05:33.065 --> 00:05:33.545] LAFORGE: Really?
+[00:05:34.585 --> 00:05:35.385] LAFORGE: She's very attractive.
+[00:05:36.025 --> 00:05:38.025] LAFORGE: I've got to admit, Wes, I'm a bit surprised.
+[00:05:38.905 --> 00:05:39.065] WESLEY: What,
+[00:05:39.065 --> 00:05:39.785] WESLEY: that she'd go out with me?
+[00:05:40.265 --> 00:05:40.585] LAFORGE: No,
+[00:05:40.585 --> 00:05:42.265] LAFORGE: that you'd actually have the nerve to ask her.
+[00:05:42.985 --> 00:05:43.385] LAFORGE: Way to go.
+[00:05:44.985 --> 00:05:45.065] SAREK: The
+[00:05:51.465 --> 00:05:52.505] SAREK: room is not ready.
+[00:05:53.945 --> 00:05:54.985] PICARD: No Ambassador.
+[00:05:55.305 --> 00:05:55.625] PICARD: Commander La Forge and
+[00:05:56.025 --> 00:05:56.665] PICARD: Ensign Crusher are
+[00:05:56.665 --> 00:05:59.865] SAREK: The Legarans are very sensitive in matters of protocol.
+[00:06:00.155 --> 00:06:02.315] SAREK: You will remove all the furniture from the room.
+[00:06:02.315 --> 00:06:03.755] SAREK: The walls must be bare.
+[00:06:03.835 --> 00:06:07.675] MENDROSSEN: I'm sure everything will be set up according to our specifications before the Legarans arrive.
+[00:06:08.315 --> 00:06:09.035] MENDROSSEN: Isn't that right, Captain?
+[00:06:10.555 --> 00:06:11.435] PICARD: I assure you, Ambassador,
+[00:06:12.155 --> 00:06:14.395] PICARD: everything will be ready before the conference begins.
+[00:06:15.275 --> 00:06:18.155] PERRIN: My husband and I have every confidence in you, Captain.
+[00:06:19.035 --> 00:06:22.155] SAREK: I have worked for ninety three years in preparation for this meeting.
+[00:06:22.315 --> 00:06:25.195] SAREK: It is vital that no detail be overlooked.
+[00:06:25.755 --> 00:06:28.875] SAKKATH: Perhaps we should allow these gentlemen to return to their work, Ambassador.
+[00:06:32.635 --> 00:06:33.515] SAREK: That will be acceptable.
+[00:06:40.555 --> 00:06:41.675] SAREK: These walls are too bright.
+[00:06:41.675 --> 00:06:41.835] RIKER: The
+[00:06:55.595 --> 00:06:58.715] RIKER: way Mendrossen described him, I expected to see a frail old man.
+[00:06:58.715 --> 00:07:02.235] PICARD: I hope I'm that frail when I'm two hundred and two years old.
+[00:07:03.035 --> 00:07:06.555] PICARD: But his aides did seem to be a little overprotective, didn't they?
+[00:07:06.875 --> 00:07:09.595] RIKER: From what I could see, the Ambassador doesn't need to be protected from anything.
+[00:07:10.395 --> 00:07:11.355] PICARD: Well, we'll respect Mister
+[00:07:11.355 --> 00:07:15.195] PICARD: Mendrossen's request and allow Ambassador Sarek his privacy.
+[00:07:16.475 --> 00:07:18.235] PICARD: I suppose they were foolish and vain,
+[00:07:18.555 --> 00:07:19.835] PICARD: my expectations of this voyage.
+[00:07:20.875 --> 00:07:22.875] PICARD: Sharing his thoughts, memories,
+[00:07:24.635 --> 00:07:27.515] PICARD: his unique understanding of the history he's made.
+[00:07:29.173 --> 00:07:31.813] TROI: Does this mean you're going to cancel the concert this evening?
+[00:07:32.373 --> 00:07:34.053] PICARD: No, the concert will ahead as scheduled.
+[00:07:34.373 --> 00:07:36.213] PICARD: But it's a pity that the guest of honour will be absent.
+[00:07:36.533 --> 00:07:39.013] RIKER: For all we know, the Ambassador might enjoy an evening's entertainment
+[00:07:39.653 --> 00:07:41.653] TROI: Why not ask his wife if she'd like to attend?
+[00:07:44.053 --> 00:07:45.413] PICARD: That's an excellent idea, Counsellor.
+[00:07:47.413 --> 00:07:48.373] PICARD: You have the Bridge, Number One.
+[00:07:55.413 --> 00:07:56.053] PERRIN: Come in.
+[00:07:57.413 --> 00:07:58.373] PICARD: I hope I'm not intruding.
+[00:07:59.013 --> 00:08:00.373] PERRIN: Not at all, Captain,
+[00:08:01.013 --> 00:08:03.093] PERRIN: but Sarek is in meditation at the moment.
+[00:08:04.693 --> 00:08:05.733] PICARD: Actually, I came to see you.
+[00:08:06.933 --> 00:08:08.693] PERRIN: Well, how nice.
+[00:08:09.653 --> 00:08:11.893] PERRIN: I so rarely get visitors of my own.
+[00:08:12.853 --> 00:08:15.013] PERRIN: Usually everyone wants to see the Ambassador.
+[00:08:16.613 --> 00:08:17.733] PICARD: I find that hard to believe.
+[00:08:17.973 --> 00:08:18.293] PICARD: Thank you.
+[00:08:21.973 --> 00:08:23.733] PERRIN: These quarters are quite comfortable.
+[00:08:23.893 --> 00:08:31.013] PERRIN: The Ambassador and I were very pleased when we heard that the negotiations were going to take place aboard the flagship of the Federation.
+[00:08:31.733 --> 00:08:32.773] PICARD: The honour is ours.
+[00:08:33.493 --> 00:08:35.573] PERRIN: My husband has taken an interest in your career.
+[00:08:37.013 --> 00:08:40.053] PERRIN: He finds it to be satisfactory.
+[00:08:40.853 --> 00:08:43.493] PICARD: My word! High praise from a Vulcan.
+[00:08:44.373 --> 00:08:51.173] PERRIN: Some people who expect an emotional response often find Vulcans quite cold when they are merely being
+[00:08:51.173 --> 00:08:51.573] PICARD: Logical.
+[00:08:52.933 --> 00:08:53.493] PERRIN: Exactly.
+[00:08:55.214 --> 00:09:01.694] PICARD: I came to invite you, and your husband if he is available, to a Mozart recital this evening.
+[00:09:03.054 --> 00:09:04.254] PERRIN: What a tempting offer.
+[00:09:07.054 --> 00:09:12.414] PERRIN: I doubt that the Ambassador will be able to attend, but I will make it a point to ask him.
+[00:09:13.774 --> 00:09:16.174] PICARD: Well, then I hope to see you tonight.
+[00:09:16.574 --> 00:09:16.894] PERRIN: As do
+[00:09:18.414 --> 00:09:20.414] PERRIN: I.
+[00:09:29.454 --> 00:09:32.814] PERRIN: You are still unable to meditate?
+[00:09:33.854 --> 00:09:34.974] SAREK: It is of no importance.
+[00:09:35.854 --> 00:09:37.454] PERRIN: It has eluded you for many weeks.
+[00:09:37.454 --> 00:09:39.694] SAREK: I said it is of no importance.
+[00:09:42.494 --> 00:09:43.374] PERRIN: You know I am right.
+[00:09:44.494 --> 00:09:46.734] SAREK: My wife, you will leave me now.
+[00:09:47.694 --> 00:09:49.134] SAREK: I require solitude.
+[00:09:52.494 --> 00:09:52.574] WESLEY: The
+[00:09:59.134 --> 00:10:01.694] WESLEY: temperature in the tank is now one hundred fifty degrees Celsius.
+[00:10:01.854 --> 00:10:02.494] LAFORGE: Okay, lock it off.
+[00:10:06.494 --> 00:10:06.894] WESLEY: Is that it?
+[00:10:07.614 --> 00:10:08.254] WESLEY: Can I get out of here now?
+[00:10:08.974 --> 00:10:09.454] LAFORGE: What's your hurry?
+[00:10:10.094 --> 00:10:12.414] LAFORGE: You don't really think something's going to happen with Suzanne Dumont, do you?
+[00:10:13.454 --> 00:10:16.014] WESLEY: At least I'm not spending the night with a good book like some people.
+[00:10:16.174 --> 00:10:17.054] LAFORGE: What's that supposed to mean?
+[00:10:17.054 --> 00:10:18.014] WESLEY: Just what it sounds like.
+[00:10:18.174 --> 00:10:19.054] LAFORGE: Let me tell you something.
+[00:10:19.374 --> 00:10:19.934] LAFORGE: You'd get more
+[00:10:20.063 --> 00:10:23.023] LAFORGE: action out of a good book than you'll ever see on this date, I'll guarantee it.
+[00:10:23.423 --> 00:10:25.343] LAFORGE: She's not going to waste her time on someone like you.
+[00:10:25.343 --> 00:10:26.223] WESLEY: Someone like me?
+[00:10:26.223 --> 00:10:27.343] LAFORGE: She's way out of your league.
+[00:10:27.343 --> 00:10:29.183] WESLEY: Since when did you become an expert on women?
+[00:10:29.263 --> 00:10:32.463] LAFORGE: Compared to you, every male on this ship is an expert on women.
+[00:10:32.623 --> 00:10:34.303] WESLEY: Well at least I don't have to find my women on the holodeck!
+[00:10:34.863 --> 00:10:35.823] LAFORGE: What did you say?
+[00:10:35.823 --> 00:10:36.383] WESLEY: You heard me!
+[00:10:36.543 --> 00:10:37.263] LAFORGE: Yeah, I heard you.
+[00:10:37.263 --> 00:10:38.623] LAFORGE: Just what do you think is going to stop
+[00:10:44.463 --> 00:10:44.463] RIKER: Something wrong?
+[00:10:44.463 --> 00:10:45.343] RIKER: I asked a question.
+[00:10:47.423 --> 00:10:47.743] LAFORGE: No, sir.
+[00:10:48.623 --> 00:10:49.663] LAFORGE: Nothing wrong here.
+[00:10:51.023 --> 00:10:52.303] WESLEY: May I be excused, Commander?
+[00:10:57.183 --> 00:10:58.383] RIKER: Anything you'd like to talk about, Geordi?
+[00:10:59.983 --> 00:11:00.463] LAFORGE: No, sir.
+[00:11:09.103 --> 00:11:13.608] PICARD: I noticed that Lieutenant Worf put Ensign D'Amato on report for insubordination.
+[00:11:13.608 --> 00:11:13.983] RIKER: D'Amato's
+[00:11:14.623 --> 00:11:16.223] RIKER: been an exemplary officer.
+[00:11:16.383 --> 00:11:17.023] PICARD: Indeed he has.
+[00:11:17.103 --> 00:11:17.983] PICARD: Would you look into it, Number One.
+[00:11:18.223 --> 00:11:18.383] RIKER: Of course.
+[00:11:18.943 --> 00:11:19.343] PICARD: Good evening.
+[00:11:19.583 --> 00:11:19.983] CRUSHER: Good evening.
+[00:11:20.863 --> 00:11:23.023] PICARD: I assume the work is progressing on the conference room?
+[00:11:23.503 --> 00:11:25.583] RIKER: Yes, I checked in with Wesley and Geordi a few hours ago.
+[00:11:27.343 --> 00:11:29.983] RIKER: There was a moment when I actually thought that the two of them were going to hit one each other.
+[00:11:38.223 --> 00:11:39.023] PICARD: Ambassador Sarek,
+[00:11:40.143 --> 00:11:42.543] PICARD: Perrin, on behalf of the entire crew, welcome.
+[00:11:43.263 --> 00:11:45.743] SAREK: It was my wife's suggestion that we attend.
+[00:11:45.743 --> 00:11:47.343] SAREK: It seemed an ideal diversion.
+[00:11:48.463 --> 00:11:50.703] SAREK: Perrin can be quite logical,
+[00:11:51.277 --> 00:11:52.157] SAREK: when she so chooses.
+[00:11:52.557 --> 00:11:55.517] MENDROSSEN: It seems that the Ambassador had more free time than I anticipated.
+[00:11:57.357 --> 00:12:00.797] PICARD: Commander Data will be our featured soloist this evening.
+[00:12:03.037 --> 00:12:11.437] DATA: I have been programmed to reproduce the individual musical styles of over three hundred concert violinists, including Heifetz, Menuhin, Grak-tay and Tataglia.
+[00:12:11.997 --> 00:12:12.877] DATA: Do you have a preference?
+[00:12:15.437 --> 00:12:16.717] PERRIN: Tataglia would be lovely.
+[00:12:17.997 --> 00:12:19.437] DATA: I hope you find the performance pleasing.
+[00:12:20.157 --> 00:12:22.637] PERRIN: I look forward to it.
+[00:12:22.637 --> 00:12:23.677] PICARD: At your convenience, Mister Data.
+[00:12:24.317 --> 00:12:24.557] PICARD: Please.
+[00:15:00.310 --> 00:15:00.710] WESLEY: Hi Mom.
+[00:15:01.190 --> 00:15:02.150] WESLEY: I got a message you wanted to see me?
+[00:15:03.670 --> 00:15:05.590] CRUSHER: I thought you were going to be at the concert last night.
+[00:15:06.630 --> 00:15:07.670] WESLEY: I said I may be going.
+[00:15:07.830 --> 00:15:09.110] WESLEY: Suzanne wanted to go to the arboretum.
+[00:15:12.550 --> 00:15:13.990] CRUSHER: Captain Picard asked me where you were.
+[00:15:14.870 --> 00:15:16.790] CRUSHER: I don't like making excuses for you.
+[00:15:17.110 --> 00:15:17.910] WESLEY: Excuses?
+[00:15:18.310 --> 00:15:18.790] WESLEY: Come on, Mom.
+[00:15:18.870 --> 00:15:19.990] WESLEY: It wasn't an official function.
+[00:15:21.030 --> 00:15:21.750] CRUSHER: Listen, young man.
+[00:15:22.790 --> 00:15:24.950] CRUSHER: You have responsibilities and I want you to live up to them.
+[00:15:25.510 --> 00:15:26.950] WESLEY: Don't you think you're overreacting a little?
+[00:15:28.470 --> 00:15:29.430] CRUSHER: Don't talk back to me!
+[00:15:30.710 --> 00:15:31.270] WESLEY: Okay, I won't.
+[00:15:32.550 --> 00:15:33.190] CRUSHER: Where do you think you're going?
+[00:15:34.070 --> 00:15:34.950] WESLEY: Away from you.
+[00:15:38.390 --> 00:15:43.270] CRUSHER: And then I just slapped him. Really hard.
+[00:15:44.470 --> 00:15:45.590] CRUSHER: I slapped Wesley.
+[00:15:46.630 --> 00:15:47.670] TROI: Do you know why you did it?
+[00:15:47.910 --> 00:15:50.390] CRUSHER: I've never hit my son in his life.
+[00:15:51.830 --> 00:15:52.950] TROI: Beverly, this is important.
+[00:15:53.430 --> 00:15:55.270] TROI: What were you thinking when you hit Wes?
+[00:15:55.750 --> 00:15:57.190] CRUSHER: I wasn't thinking about anything.
+[00:15:57.190 --> 00:15:58.390] CRUSHER: I was just angry.
+[00:15:59.430 --> 00:16:01.670] TROI: And Wesley didn't provoke you in any way?
+[00:16:01.670 --> 00:16:03.750] TROI: It wasn't anything he said, or anything he did?
+[00:16:03.750 --> 00:16:05.030] CRUSHER: No, that's just it.
+[00:16:05.270 --> 00:16:07.510] CRUSHER: It was a sudden burst of anger.
+[00:16:08.230 --> 00:16:09.990] CRUSHER: I still can't believe I did it.
+[00:16:10.950 --> 00:16:12.310] TROI: I don't know why you did it either,
+[00:16:13.277 --> 00:16:19.037] TROI: but I can tell you that I've heard the same kind of story from ten different people over the last two days.
+[00:16:20.477 --> 00:16:21.597] SAKKATH: This is your command centre.
+[00:16:21.997 --> 00:16:26.397] DATA: Yes. It is normally occupied by Captain Picard, Commander Riker, and Counsellor Troi.
+[00:16:26.957 --> 00:16:29.557] SAKKATH: Counsellor Troi is a Betazoid?
+[00:16:29.557 --> 00:16:30.077] DATA: Half-Betazoid.
+[00:16:30.477 --> 00:16:31.277] DATA: Her father was human.
+[00:16:31.997 --> 00:16:33.517] SAKKATH: Then she is not a true telepath?
+[00:16:33.997 --> 00:16:35.757] DATA: Her skills are empathic in nature.
+[00:16:36.077 --> 00:16:38.317] DATA: She is able to sense the emotions of other beings.
+[00:16:39.197 --> 00:16:41.597] SAKKATH: What is Captain Picard's background in diplomacy?
+[00:16:42.157 --> 00:16:42.637] DATA: Extensive.
+[00:16:43.837 --> 00:16:45.917] DATA: The Captain's first diplomatic contact dates back to
+[00:16:45.917 --> 00:16:47.437] SAKKATH: And what of his knowledge of the Legarans?
+[00:16:47.917 --> 00:16:50.877] SAKKATH: Would he be able to conduct negotiations with them should the need arise?
+[00:16:51.517 --> 00:16:53.357] DATA: Do you foresee such a circumstance occurring?
+[00:16:54.237 --> 00:16:55.551] DATA: Is Ambassador Sarek unable to
+[00:16:55.551 --> 00:16:56.077] SAKKATH: Forgive me.
+[00:16:56.637 --> 00:16:59.757] SAKKATH: I was merely exploring various possible permutations of our mission.
+[00:17:01.277 --> 00:17:03.597] SAKKATH: Your tour of the Bridge has been most informative.
+[00:17:09.757 --> 00:17:11.357] O'BRIEN: Excuse
+[00:17:13.757 --> 00:17:14.957] O'BRIEN: me, we were sitting here.
+[00:17:15.357 --> 00:17:16.237] CREWMAN: Well we're sitting here now.
+[00:17:17.277 --> 00:17:18.957] O'BRIEN: Come on, fella. This is our table.
+[00:17:19.837 --> 00:17:20.157] CREWMAN: Really?
+[00:17:21.357 --> 00:17:23.517] CREWMAN: Funny, I don't see your name on it.
+[00:17:23.517 --> 00:17:24.957] O'BRIEN: Didn't your mother teach you manners?
+[00:17:27.437 --> 00:17:29.117] LAFORGE: Hey, hey guys.
+[00:17:29.117 --> 00:17:31.437] LAFORGE: Is there some kind of problem here?
+[00:17:31.997 --> 00:17:34.877] O'BRIEN: There seems to be a question of who's table this is.
+[00:17:36.237 --> 00:17:38.477] LAFORGE: There are plenty of other tables, right?
+[00:17:41.277 --> 00:17:41.917] O'BRIEN: I suppose you're right.
+[00:17:42.877 --> 00:17:44.397] LAFORGE: Why don't I get everyone another round of drinks?
+[00:17:44.822 --> 00:17:44.982] LAFORGE: All right?
+[00:17:48.662 --> 00:17:52.422] RIKER: I don't need to tell you that insubordination is a serious charge to level against any officer.
+[00:17:52.662 --> 00:17:53.862] WORF: I am aware of that, Commander.
+[00:17:54.422 --> 00:17:56.822] WORF: However, Ensign D'Amato directly challenged my authority.
+[00:17:57.302 --> 00:18:00.742] RIKER: Is it my imagination, or have tempers become a little frayed on this ship lately?
+[00:18:00.822 --> 00:18:01.622] WORF: I hadn't noticed.
+[00:18:06.422 --> 00:18:08.422] WORF: I
+[00:18:10.982 --> 00:18:11.702] WORF: see what you mean.
+[00:18:11.702 --> 00:18:12.822] WORF: Security team to Ten
+[00:18:21.462 --> 00:18:23.462] WORF: Forward.
+[00:18:23.462 --> 00:18:25.062] RIKER: Geordi, what the hell is going on here?
+[00:18:25.062 --> 00:18:25.862] LAFORGE: I wish I knew.
+[00:18:25.862 --> 00:18:26.022] RIKER: All right,
+[00:18:27.542 --> 00:18:28.422] RIKER: that's enough!
+[00:18:29.782 --> 00:18:29.782] LAFORGE: The
+[00:18:39.782 --> 00:18:42.502] LAFORGE: next thing I know somebody's left hook is on its way to my chin.
+[00:18:44.582 --> 00:18:46.902] TROI: Captain, this is not an isolated incident.
+[00:18:46.982 --> 00:18:50.102] TROI: There have been reports of random violence all over the ship.
+[00:18:51.062 --> 00:18:52.902] PICARD: Are you suggesting this is somehow contagious?
+[00:18:53.782 --> 00:18:56.102] CRUSHER: There's no indication of any bacteria or virus.
+[00:18:56.342 --> 00:18:57.542] CRUSHER: I've run every test I know.
+[00:18:57.942 --> 00:19:01.142] CRUSHER: I've checked the water, food replicators, airborne samples.
+[00:19:02.102 --> 00:19:03.222] PICARD: This is a hell of a time.
+[00:19:04.822 --> 00:19:07.142] PICARD: Whatever it is, I don't want it to affect the Ambassador.
+[00:19:07.142 --> 00:19:09.942] PICARD: I want his quarters isolated from the rest of the crew
+[00:19:10.192 --> 00:19:11.472] PICARD: until we've identified the cause.
+[00:19:12.833 --> 00:19:14.433] TROI: It's not that simple, Captain.
+[00:19:15.153 --> 00:19:22.353] CRUSHER: We have determined that the outbreak of violence started at virtually the same time Sarek and his party beamed onto the ship.
+[00:19:26.833 --> 00:19:28.433] CRUSHER: We do have a working theory.
+[00:19:30.913 --> 00:19:35.952] CRUSHER: We believe that it's possible Ambassador Sarek himself is responsible for these incidents.
+[00:19:36.192 --> 00:19:36.753] PICARD: Sarek?
+[00:19:36.833 --> 00:19:41.793] TROI: I felt something during the concert. Vague and undefined, but very disturbing
+[00:19:43.553 --> 00:19:44.033] PICARD: He cried.
+[00:19:44.513 --> 00:19:45.073] PICARD: I saw that.
+[00:19:45.073 --> 00:19:45.793] PICARD: I couldn't believe it.
+[00:19:46.673 --> 00:19:48.433] PICARD: A Vulcan moved to tears by music?
+[00:19:48.433 --> 00:19:48.753] PICARD: It's
+[00:19:48.833 --> 00:19:51.472] TROI: Well, Vulcans have the same basic emotions we do.
+[00:19:51.472 --> 00:19:52.913] TROI: They've just learned to repress them.
+[00:19:54.192 --> 00:19:57.313] TROI: What I sensed during the concert was that he'd lost control.
+[00:19:58.192 --> 00:20:00.993] PICARD: What would cause such a loss of control?
+[00:20:01.553 --> 00:20:07.313] CRUSHER: There's a very rare condition that sometimes affects Vulcans over the age of two hundred. Bendii Syndrome.
+[00:20:07.712 --> 00:20:11.873] CRUSHER: Its early symptoms include sudden bursts of emotion, mostly irrational anger.
+[00:20:12.593 --> 00:20:15.553] CRUSHER: Eventually, all emotional control is lost.
+[00:20:16.993 --> 00:20:19.472] PICARD: I can imagine nothing that would be more offensive to a Vulcan.
+[00:20:19.553 --> 00:20:22.913] PICARD: Their emotional detachment is the very core of their being.
+[00:20:24.353 --> 00:20:25.873] PICARD: How would this affect others on board the ship?
+[00:20:26.833 --> 00:20:28.673] TROI: Vulcans possess telepathic ability.
+[00:20:29.472 --> 00:20:34.993] TROI: Sarek may unintentionally be projecting intense emotions onto other people, at random.
+[00:20:35.553 --> 00:20:36.913] PICARD: And when the Legarans beam on board?
+[00:20:38.392 --> 00:20:40.152] CRUSHER: They could very well be affected too.
+[00:20:41.752 --> 00:20:42.392] PICARD: Is there a treatment?
+[00:20:45.272 --> 00:20:46.872] CRUSHER: Can't someone else take his place?
+[00:20:48.952 --> 00:20:51.432] PICARD: Sarek has built a personal relationship with them.
+[00:20:51.672 --> 00:20:52.712] PICARD: They will accept no one else.
+[00:20:55.432 --> 00:20:57.992] PICARD: How can we confirm your diagnosis?
+[00:20:59.032 --> 00:21:03.912] CRUSHER: We can grow a culture from the tissue of the metathalamus, but the results will take several days.
+[00:21:04.632 --> 00:21:05.672] PICARD: I have twelve hours.
+[00:21:06.712 --> 00:21:08.392] MENDROSSEN: That's impossible, Captain Picard.
+[00:21:08.472 --> 00:21:13.352] MENDROSSEN: I cannot delay the conference. Not for a day, not for an hour.
+[00:21:13.672 --> 00:21:17.032] MENDROSSEN: The schedule itself required three months of negotiations.
+[00:21:17.272 --> 00:21:18.564] PICARD: Nevertheless, we appear to be facing
+[00:21:18.564 --> 00:21:20.072] MENDROSSEN: I give you my word of honour
+[00:21:20.152 --> 00:21:23.885] MENDROSSEN: that the Ambassador is in perfect health. Is that enough?
+[00:21:23.885 --> 00:21:24.632] PICARD: Mister Mendrossen
+[00:21:24.792 --> 00:21:27.672] MENDROSSEN: You are dealing with a theory full of holes, Captain.
+[00:21:28.472 --> 00:21:31.832] MENDROSSEN: Why am I not affected by Sarek's supposed condition?
+[00:21:32.552 --> 00:21:37.272] MENDROSSEN: And Perrin. How could his wife function normally if this theory of yours is correct?
+[00:21:37.512 --> 00:21:38.392] PICARD: I cannot explain that.
+[00:21:38.552 --> 00:21:40.632] PICARD: Hundreds of others on board have not been affected either.
+[00:21:40.872 --> 00:21:41.432] PICARD: I have not.
+[00:21:42.552 --> 00:21:43.672] PICARD: It appears to be random.
+[00:21:44.392 --> 00:21:47.432] PICARD: Proximity, apparently, has no bearing on the phenomenon.
+[00:21:47.912 --> 00:21:57.112] MENDROSSEN: You are accusing the greatest man of his time of losing his mind on the eve of his greatest triumph, and you cannot explain why.
+[00:22:03.112 --> 00:22:04.872] MENDROSSEN: I won't report this to the Ambassador,
+[00:22:05.832 --> 00:22:09.912] MENDROSSEN: for the moment. I don't want to divert his attention from the mission.
+[00:22:10.472 --> 00:22:11.272] MENDROSSEN: But if I were you,
+[00:22:12.021 --> 00:22:21.061] MENDROSSEN: in the interests of your career, I'd be very concerned about finding the real cause of these outbursts before the Legarans arrive.
+[00:22:29.141 --> 00:22:31.221] PICARD: Mister Data, will you please report to my Ready room.
+[00:22:32.261 --> 00:22:32.581] DATA: Aye, sir.
+[00:22:40.741 --> 00:22:45.861] DATA: Captain Picard is not satisfied with Ki Mendrossen's assurances that the Ambassador is in good health.
+[00:22:46.741 --> 00:22:49.461] DATA: Do you consider Sarek capable of carrying out his mission?
+[00:22:54.421 --> 00:22:55.861] SAKKATH: Have I given you cause to think otherwise?
+[00:22:56.981 --> 00:23:00.021] DATA: You have voiced certain reservations to me about his abilities.
+[00:23:01.541 --> 00:23:03.301] SAKKATH: I do not recall making such a statement.
+[00:23:03.941 --> 00:23:04.981] DATA: Not directly, no.
+[00:23:05.781 --> 00:23:10.421] DATA: But you did question me about the diplomatic capabilities of both Captain Picard and Counsellor Troi.
+[00:23:11.861 --> 00:23:15.141] SAKKATH: I am honour-bound to help Sarek carry out this mission.
+[00:23:16.101 --> 00:23:18.341] SAKKATH: That is the only answer I can give.
+[00:23:19.221 --> 00:23:25.301] DATA: Then you must decide which is your greater obligation. Your loyalty to Sarek or your duty to the Federation.
+[00:23:26.741 --> 00:23:30.101] DATA: Can you accept the logic of continuing this mission?
+[00:23:33.461 --> 00:23:34.421] SAKKATH: Tell your Captain
+[00:23:37.941 --> 00:23:39.061] SAKKATH: the mission is in jeopardy.
+[00:23:42.525 --> 00:23:51.725] DATA: Sakkath has been able, until recently, to use his telepathic skills to reinforce Sarek's emotional control, thus protecting others from the effects of his deterioration.
+[00:23:52.045 --> 00:23:53.405] RIKER: He hasn't been doing a very good job.
+[00:23:53.805 --> 00:23:56.125] DATA: The strain of this mission on Sarek has made it impossible.
+[00:23:57.325 --> 00:23:58.445] PICARD: It's ironic, isn't it?
+[00:23:59.405 --> 00:24:04.125] PICARD: All this magnificent technology and we find ourselves still susceptible to the ravages of old age.
+[00:24:04.275 --> 00:24:04.875] PICARD: The
+[00:24:05.965 --> 00:24:06.845] PICARD: loss of dignity, the
+[00:24:08.765 --> 00:24:12.045] PICARD: slow betrayal of our bodies by forces we cannot master.
+[00:24:15.405 --> 00:24:16.845] PICARD: Do you still want to be one of us, Data?
+[00:24:17.805 --> 00:24:23.565] DATA: Sir, it is conceivable, even for me, that time will eventually lead to irreparable circuit failure.
+[00:24:24.605 --> 00:24:26.125] DATA: But there is one thing I do not understand.
+[00:24:27.085 --> 00:24:29.485] DATA: Sarek is a logical, intelligent being.
+[00:24:30.125 --> 00:24:32.205] DATA: The effects of Bendii Syndrome are apparent.
+[00:24:33.005 --> 00:24:34.685] DATA: Why would such a man choose to ignore them?
+[00:24:36.445 --> 00:24:38.045] PICARD: Logic fails us sometimes, Data.
+[00:24:38.045 --> 00:24:39.405] PICARD: I think this is one of those times.
+[00:24:40.765 --> 00:24:50.045] PICARD: I can only guess that he does not see, or he does not wish to see, the truth. And he is being insulated against that truth by those who love him most.
+[00:24:54.285 --> 00:24:55.405] RIKER: Someone has to confront
+[00:24:57.645 --> 00:24:57.805] RIKER: him.
+[00:24:58.285 --> 00:24:59.805] PICARD: Not a task that I'm looking forward to.
+[00:25:01.085 --> 00:25:02.045] RIKER: I don't understand this.
+[00:25:02.045 --> 00:25:03.565] RIKER: Everyone is protecting Sarek.
+[00:25:03.565 --> 00:25:05.405] RIKER: His wife, Mendrossen, even you.
+[00:25:06.002 --> 00:25:06.962] PICARD: What would you have me do?
+[00:25:07.762 --> 00:25:09.522] PICARD: March down there and destroy the man?
+[00:25:09.682 --> 00:25:13.122] RIKER: The mission with the Legarans cannot be carried out with Sarek in this condition!
+[00:25:13.122 --> 00:25:13.602] PICARD: I know that!
+[00:25:13.602 --> 00:25:15.042] RIKER: Then tell him that there is no way
+[00:25:15.042 --> 00:25:16.722] PICARD: Don't you tell me what to do!
+[00:25:16.722 --> 00:25:16.962] DATA: Captain.
+[00:25:17.442 --> 00:25:17.762] DATA: Commander.
+[00:25:17.922 --> 00:25:17.922] PICARD: Of
+[00:25:25.122 --> 00:25:25.442] PICARD: course.
+[00:25:26.722 --> 00:25:27.362] PICARD: You're right, Number One.
+[00:25:31.442 --> 00:25:32.722] PICARD: It's a task that I will attend
+[00:25:36.082 --> 00:25:36.162] PICARD: to.
+[00:25:38.642 --> 00:25:41.522] PERRIN: Captain, I don't think I understand what you're telling me.
+[00:25:42.322 --> 00:25:46.482] PERRIN: My husband is responsible for your crew assaulting one another?
+[00:25:48.802 --> 00:25:49.922] PICARD: He is very ill,
+[00:25:50.162 --> 00:25:50.482] PICARD: Perrin.
+[00:25:53.202 --> 00:25:57.362] PERRIN: Bendii Syndrome is more a folk tale than a disease.
+[00:25:57.362 --> 00:25:59.762] PERRIN: There hasn't been a true case of it in my husband's lifetime.
+[00:26:00.722 --> 00:26:01.282] PICARD: There's one now.
+[00:26:02.402 --> 00:26:03.202] PICARD: Sakkath knows.
+[00:26:03.842 --> 00:26:04.162] PERRIN: Sakkath?
+[00:26:05.682 --> 00:26:06.962] PERRIN: Sakkath knows nothing
+[00:26:06.962 --> 00:26:08.402] PERRIN: my husband didn't teach him.
+[00:26:08.482 --> 00:26:16.242] PICARD: He knows. And more than that. On this mission he has been consciously holding Sarek's mind together as well as he could.
+[00:26:16.402 --> 00:26:17.922] PERRIN: That is not true!
+[00:26:20.242 --> 00:26:20.962] PICARD: I must see Sarek.
+[00:26:22.002 --> 00:26:29.202] PERRIN: Captain, I know a good deal about the Vulcan mind and I know a good deal about the heart of one particular Vulcan.
+[00:26:29.602 --> 00:26:31.522] PERRIN: I am his wife, and he is fine.
+[00:26:32.402 --> 00:26:35.442] PERRIN: He does not have Bendii Syndrome, and that shall be the end of it.
+[00:26:36.082 --> 00:26:36.482] PICARD: I'm sorry.
+[00:26:36.562 --> 00:26:39.362] PERRIN: Please, you must not do this to him.
+[00:26:42.231 --> 00:26:43.191] SAREK: Must not do what,
+[00:26:43.511 --> 00:26:43.911] SAREK: my wife?
+[00:26:48.551 --> 00:26:51.671] SAREK: If Captain Picard wishes to see me, he may do so.
+[00:26:59.271 --> 00:27:05.111] SAREK: I regret that we have seen so little of each other during this voyage, Captain.
+[00:27:05.431 --> 00:27:06.551] PICARD: The loss is mine, Ambassador.
+[00:27:06.871 --> 00:27:08.471] MENDROSSEN: Captain, may I talk with you in private?
+[00:27:10.631 --> 00:27:14.151] SAREK: You were speaking of your belief that I suffer from Bendii Syndrome.
+[00:27:15.351 --> 00:27:17.671] SAREK: I have been accused of many things in my life,
+[00:27:18.951 --> 00:27:21.084] SAREK: never an excess of emotion.
+[00:27:21.084 --> 00:27:21.511] PERRIN: Sarek,
+[00:27:22.231 --> 00:27:24.391] PERRIN: I see no reason to continue this discussion.
+[00:27:24.871 --> 00:27:31.271] SAREK: On the contrary, I wish to assuage any fears the Captain may have regarding my capabilities.
+[00:27:32.551 --> 00:27:34.951] SAREK: I believe there is a test for Bendii Syndrome.
+[00:27:36.151 --> 00:27:37.351] SAREK: I will take it immediately.
+[00:27:38.711 --> 00:27:46.871] PICARD: Unfortunately the results would not be available for several days, which is why I must ask for a postponement of the conference.
+[00:27:47.271 --> 00:27:48.471] SAREK: That would be a mistake.
+[00:27:51.671 --> 00:27:52.071] SAREK: Captain,
+[00:27:53.351 --> 00:27:55.911] SAREK: I give you my word. I am in perfect health.
+[00:27:57.591 --> 00:27:57.911] PICARD: Then
+[00:27:59.751 --> 00:28:03.591] PICARD: why must Sakkath help to contain your emotions?
+[00:28:08.151 --> 00:28:09.511] SAREK: Is what the captain says true?
+[00:28:09.751 --> 00:28:10.311] MENDROSSEN: No, Ambassador,
+[00:28:11.253 --> 00:28:12.053] MENDROSSEN: absolutely not.
+[00:28:15.813 --> 00:28:16.133] SAREK: Perrin,
+[00:28:16.933 --> 00:28:17.893] SAREK: were you aware of this?
+[00:28:21.493 --> 00:28:21.813] SAREK: Sakkath,
+[00:28:23.013 --> 00:28:23.813] SAREK: I await an answer.
+[00:28:25.813 --> 00:28:30.693] SAKKATH: I have been using my limited abilities to strengthen your mental discipline.
+[00:28:31.573 --> 00:28:33.573] SAREK: Your efforts will no longer be required!
+[00:28:34.613 --> 00:28:35.733] SAKKATH: That would not be wise.
+[00:28:35.883 --> 00:28:36.483] SAREK: It
+[00:28:39.653 --> 00:28:40.293] SAREK: may not be wise
+[00:28:42.053 --> 00:28:42.933] SAREK: but it is necessary.
+[00:28:50.933 --> 00:28:51.253] SAREK: Leave me.
+[00:28:53.173 --> 00:28:54.853] SAREK: I wish to speak with Captain Picard.
+[00:28:54.853 --> 00:28:55.093] PERRIN: Sarek,
+[00:28:55.973 --> 00:28:57.173] PERRIN: I ask you to reconsider.
+[00:28:58.133 --> 00:28:59.173] SAREK: Obey my wishes.
+[00:29:00.533 --> 00:29:01.573] SAREK: There is nothing to fear.
+[00:29:11.093 --> 00:29:13.093] PICARD: I
+[00:29:17.413 --> 00:29:19.253] PICARD: hope I've not embarrassed you, Ambassador.
+[00:29:19.493 --> 00:29:21.493] SAREK: You seem to forget, Captain, that I am a Vulcan.
+[00:29:22.533 --> 00:29:25.173] SAREK: I am not affected by emotional considerations.
+[00:29:25.493 --> 00:29:28.693] PICARD: I think you are affected, sir, far more than you realise.
+[00:29:30.373 --> 00:29:31.493] SAREK: I am a logical being.
+[00:29:32.613 --> 00:29:33.733] SAREK: Present your arguments.
+[00:29:34.773 --> 00:29:35.333] SAREK: I will listen.
+[00:29:36.293 --> 00:29:39.093] PICARD: There is an epidemic of violent incidents aboard the Enterprise.
+[00:29:40.203 --> 00:29:42.203] PICARD: As we speak, the situation is worsening.
+[00:29:43.243 --> 00:29:47.083] SAREK: And it is your hypothesis that I am the cause of these incidents?
+[00:29:47.563 --> 00:29:47.883] PICARD: Yes.
+[00:29:49.403 --> 00:29:53.403] PICARD: My Chief Medical Officer has explored all other probable causes.
+[00:29:54.283 --> 00:29:55.803] SAREK: I share your concern for your crew.
+[00:29:55.803 --> 00:30:01.883] SAREK: However, you must agree it is not unusual for a starship to encounter unexplained phenomena.
+[00:30:02.603 --> 00:30:03.243] PICARD: That is correct.
+[00:30:03.563 --> 00:30:11.963] SAREK: Therefore, since I can assure you that I am not the cause of your difficulties, the logical course would be to have your doctor to continue her search.
+[00:30:12.443 --> 00:30:12.843] PICARD: She is.
+[00:30:15.003 --> 00:30:18.923] PICARD: It is also a fact that these incidents began shortly after your arrival.
+[00:30:19.883 --> 00:30:23.483] SAREK: Is your entire argument to be based on mere coincidence?
+[00:30:23.803 --> 00:30:28.043] PICARD: Is it also coincidence that your wife and chief of staff are carefully isolating you?
+[00:30:29.323 --> 00:30:32.203] SAREK: Ah. I believe I see the flaw in your logic.
+[00:30:32.363 --> 00:30:36.123] SAREK: You are reacting to their overprotective attitudes towards me.
+[00:30:36.363 --> 00:30:39.483] SAREK: They are both somewhat emotional concerning my age.
+[00:30:40.123 --> 00:30:42.363] PICARD: Surely Sakkath cannot be influenced by emotion?
+[00:30:42.683 --> 00:30:44.523] SAREK: Am I to be blamed for the judgment of a child?
+[00:30:44.523 --> 00:30:47.243] SAREK: Sakkath is young and inexperienced.
+[00:30:47.483 --> 00:30:49.563] SAREK: He erred in his assumption that I needed help!
+[00:30:50.283 --> 00:30:51.643] PICARD: But you needed his help at the concert.
+[00:30:52.123 --> 00:30:55.963] PICARD: Or is there possibly some other logical explanation for what happened that night?
+[00:30:57.163 --> 00:30:57.643] SAREK: What happened?
+[00:30:58.763 --> 00:30:59.563] PICARD: I saw you crying.
+[00:31:00.203 --> 00:31:00.923] SAREK: I do not cry.
+[00:31:00.923 --> 00:31:01.963] PICARD: I was there
+[00:31:02.123 --> 00:31:02.923] PICARD: I saw the tears.
+[00:31:03.243 --> 00:31:04.203] SAREK: You exaggerate, Captain.
+[00:31:04.203 --> 00:31:05.323] SAREK: I recall only one tear.
+[00:31:06.107 --> 00:31:08.267] PICARD: So you were emotionally affected by the music.
+[00:31:08.267 --> 00:31:09.707] SAREK: That is not possible!
+[00:31:10.667 --> 00:31:12.107] PICARD: You still haven't answered my question, Sarek.
+[00:31:14.267 --> 00:31:17.307] PICARD: Is it logical for a Vulcan to cry?
+[00:31:18.587 --> 00:31:19.067] SAREK: It was late.
+[00:31:19.467 --> 00:31:20.507] SAREK: I was fatigued.
+[00:31:20.587 --> 00:31:21.227] SAREK: Nothing more.
+[00:31:22.027 --> 00:31:23.947] SAREK: The Legarans trust only me.
+[00:31:23.947 --> 00:31:26.507] SAREK: They will not meet with any other member of the Federation.
+[00:31:26.507 --> 00:31:28.827] SAREK: I must be allowed to complete my mission!
+[00:31:29.467 --> 00:31:31.787] SAREK: There are no other logical solutions!
+[00:31:32.347 --> 00:31:33.627] PICARD: No other logical solutions?
+[00:31:34.027 --> 00:31:35.627] PICARD: But Ambassador, there are always other solutions.
+[00:31:35.627 --> 00:31:37.147] PICARD: You have said so yourself many times.
+[00:31:37.147 --> 00:31:38.312] SAREK: What I meant was that
+[00:31:38.312 --> 00:31:42.507] PICARD: Sarek of Vulcan would never be afraid of looking straight at something he did not want to see.
+[00:31:42.507 --> 00:31:45.776] SAREK: I warn you! Your efforts to discredit me will not succeed!
+[00:31:45.776 --> 00:31:46.667] PICARD: Sarek of Vulcan
+[00:31:46.667 --> 00:31:48.827] PICARD: never confused what he wanted with the truth.
+[00:31:48.827 --> 00:31:50.667] SAREK: I will not be spoken to in this manner!
+[00:31:50.667 --> 00:31:52.747] PICARD: Do I hear anger in your voice?
+[00:31:52.827 --> 00:31:54.587] SAREK: It would be illogical for a Vulcan to show anger!
+[00:31:55.627 --> 00:31:57.707] SAREK: It would be illogical!
+[00:31:59.547 --> 00:31:59.547] SAREK: Illogical!
+[00:31:59.547 --> 00:32:00.187] SAREK: Illogical!
+[00:32:02.347 --> 00:32:04.347] SAREK: Illogical!
+[00:32:07.387 --> 00:32:08.587] LOG: Captain's log, supplemental.
+[00:32:09.307 --> 00:32:12.827] LOG: In three hours time we are scheduled to meet with the Legaran delegation.
+[00:32:13.787 --> 00:32:19.787] LOG: However, it is now all too evident that Ambassador Sarek is in no condition to proceed with the conference.
+[00:32:20.267 --> 00:32:21.867] RIKER: We're entering the Legaran system, sir.
+[00:32:21.947 --> 00:32:23.627] RIKER: Shall I have Mister Worf contact their ambassador?
+[00:32:24.987 --> 00:32:25.147] PICARD: No.
+[00:32:28.587 --> 00:32:30.907] PICARD: I will present our regrets to the Legarans personally.
+[00:32:33.721 --> 00:32:37.709] PICARD: It is vital that they understand our reasons for cancelling these negotiations.
+[00:32:37.709 --> 00:32:38.041] RIKER: Captain,
+[00:32:38.521 --> 00:32:41.561] RIKER: I think you did the right thing.
+[00:32:43.081 --> 00:32:44.281] PICARD: But at what cost, Number One?
+[00:32:46.041 --> 00:32:46.361] PICARD: Come.
+[00:32:47.721 --> 00:32:48.681] PICARD: Perrin?
+[00:32:49.481 --> 00:32:50.761] PERRIN: I must speak with you, Captain.
+[00:32:51.481 --> 00:32:51.961] RIKER: I'll be on the Bridge, sir.
+[00:32:54.681 --> 00:32:55.561] PICARD: How is the Ambassador?
+[00:32:55.801 --> 00:32:56.441] PERRIN: Resting.
+[00:32:59.161 --> 00:33:01.641] PERRIN: I've come to ask you to reconsider your position.
+[00:33:03.001 --> 00:33:04.041] PICARD: You know that is impossible.
+[00:33:04.761 --> 00:33:06.121] PERRIN: Sarek is a good man.
+[00:33:06.921 --> 00:33:09.321] PERRIN: He's given the Federation a lifetime of service.
+[00:33:10.041 --> 00:33:13.161] PERRIN: I beg you to let him keep the respect he has earned.
+[00:33:13.881 --> 00:33:15.401] PICARD: He'll never lose that respect.
+[00:33:16.441 --> 00:33:18.841] PERRIN: Mendrossen and I never wanted to deceive you.
+[00:33:19.801 --> 00:33:25.401] PERRIN: My husband's condition came on him so gradually it was so easy to delude ourselves and pretend that nothing was wrong.
+[00:33:26.361 --> 00:33:33.481] PERRIN: We convinced ourselves that he could complete this one last task and end his career with dignity.
+[00:33:35.001 --> 00:33:35.881] PERRIN: Help him, Captain.
+[00:33:37.081 --> 00:33:40.601] PERRIN: Help him regain his pride, his honour.
+[00:33:42.681 --> 00:33:47.081] PICARD: Believe me, it would give me great pleasure, but there is nothing I can do.
+[00:33:48.681 --> 00:33:50.361] PERRIN: The mission can be saved. But
+[00:33:52.201 --> 00:33:53.481] PERRIN: he needs your help to do it.
+[00:33:57.401 --> 00:33:58.201] SAREK: A mind-meld?
+[00:34:00.267 --> 00:34:01.467] SAREK: Between the two of us?
+[00:34:04.587 --> 00:34:09.067] SAREK: Do you realise the dangers involved in what you are proposing, Captain?
+[00:34:11.227 --> 00:34:12.027] PICARD: Yes, I do, Ambassador.
+[00:34:13.787 --> 00:34:16.027] PICARD: But I also realise the potential benefits.
+[00:34:18.027 --> 00:34:23.627] SAREK: We would be linked telepathically, sharing our thoughts, becoming in essence one mind.
+[00:34:26.027 --> 00:34:29.387] PICARD: Which, for a few hours, should provide the emotional control you need.
+[00:34:29.947 --> 00:34:33.467] PICARD: In that time, you can meet with the Legarans and conclude the treaty.
+[00:34:35.947 --> 00:34:38.827] SAREK: It is a generous offer. But I must warn you
+[00:34:40.827 --> 00:34:49.067] SAREK: that while I would gain your stability, you would experience the fierce onslaught of emotions unleashed by my condition.
+[00:34:50.667 --> 00:34:53.147] SAREK: Vulcan emotions are extremely intense.
+[00:34:53.387 --> 00:34:54.587] SAREK: We have learned to suppress them.
+[00:34:54.827 --> 00:34:57.147] SAREK: No human would be able to control them. They would overwhelm you.
+[00:34:58.667 --> 00:35:00.667] SAREK: The mind-meld can be a terrible intimacy.
+[00:35:01.707 --> 00:35:02.587] SAREK: I cannot allow it.
+[00:35:03.867 --> 00:35:04.987] PICARD: I'm aware of the risks.
+[00:35:06.587 --> 00:35:07.547] PICARD: But it is the only
+[00:35:09.387 --> 00:35:10.267] PICARD: logical solution.
+[00:35:15.467 --> 00:35:16.427] SAREK: Your courage honours me, Captain.
+[00:35:20.587 --> 00:35:22.587] CRUSHER: I can't say I approve of this, Jean-Luc.
+[00:35:23.147 --> 00:35:24.987] PICARD: I didn't expect that you would, Beverly.
+[00:35:25.707 --> 00:35:27.467] CRUSHER: I don't suppose I could talk you out of it?
+[00:35:27.707 --> 00:35:28.347] PICARD: I'm afraid not,
+[00:35:28.747 --> 00:35:29.387] PICARD: though I do
+[00:35:30.141 --> 00:35:32.942] PICARD: admit to a certain trepidation.
+[00:35:35.342 --> 00:35:37.502] PICARD: Your company is much appreciated.
+[00:35:39.181 --> 00:35:39.502] PICARD: Come.
+[00:35:43.422 --> 00:35:44.862] SAREK: I see that you are ready, Captain.
+[00:35:45.502 --> 00:35:47.741] PICARD: Doctor Crusher will monitor our responses.
+[00:35:48.382 --> 00:35:49.502] SAREK: A sensible precaution.
+[00:36:04.062 --> 00:36:08.221] SAREK: My mind to your mind.
+[00:36:10.621 --> 00:36:14.221] SAREK: Your thoughts to my thoughts.
+[00:36:25.661 --> 00:36:29.502] DATA: Commander, the Legarans are ready to beam aboard.
+[00:36:29.661 --> 00:36:30.141] RIKER: Very well.
+[00:36:30.782 --> 00:36:31.181] SAREK: Number One,
+[00:36:33.262 --> 00:36:39.902] SAREK: please inform the Legaran delegation that Sarek of Vulcan is on his way to welcome them.
+[00:36:41.582 --> 00:36:42.141] RIKER: Yes, Ambassador.
+[00:36:45.582 --> 00:36:47.502] RIKER: I take it the mind-meld was a success?
+[00:36:47.582 --> 00:36:49.502] SAREK: Yes. All went as planned.
+[00:36:49.982 --> 00:36:51.101] RIKER: Is Captain Picard all right?
+[00:36:52.542 --> 00:36:53.822] SAREK: Don't worry, Number One.
+[00:36:55.422 --> 00:36:57.262] RIKER: And the Ambassador?
+[00:36:59.822 --> 00:37:00.942] SAREK: I am myself again.
+[00:37:02.384 --> 00:37:03.984] SAREK: It has been a long time.
+[00:37:07.984 --> 00:37:09.104] PICARD: No!
+[00:37:10.064 --> 00:37:10.464] PICARD: It is
+[00:37:13.584 --> 00:37:13.904] PICARD: wrong.
+[00:37:14.144 --> 00:37:14.944] PICARD: It is wrong!
+[00:37:15.584 --> 00:37:18.944] PICARD: A lifetime of discipline washed away, and in its place
+[00:37:27.264 --> 00:37:27.744] PICARD: bedlam.
+[00:37:27.744 --> 00:37:29.424] PICARD: Bedlam!
+[00:37:29.424 --> 00:37:29.424] PICARD: I am
+[00:37:31.824 --> 00:37:32.624] PICARD: so old.
+[00:37:33.584 --> 00:37:39.424] PICARD: There is nothing left but dry bones and dead friends.
+[00:37:40.184 --> 00:37:40.944] PICARD: Tired,
+[00:37:41.704 --> 00:37:43.264] PICARD: oh so tired.
+[00:37:43.424 --> 00:37:44.304] CRUSHER: It
+[00:37:47.504 --> 00:37:48.224] CRUSHER: will pass,
+[00:37:48.304 --> 00:37:49.104] CRUSHER: all of it.
+[00:37:49.104 --> 00:37:50.064] CRUSHER: Just another hour or so.
+[00:37:50.064 --> 00:37:50.784] CRUSHER: You're doing fine.
+[00:37:50.784 --> 00:37:51.664] CRUSHER: Just hold on.
+[00:37:51.904 --> 00:37:52.144] PICARD: No!
+[00:37:53.024 --> 00:37:54.384] PICARD: This weakness disgusts me!
+[00:37:54.384 --> 00:37:55.344] PICARD: I hate it!
+[00:37:56.864 --> 00:37:57.824] PICARD: Where is my logic?
+[00:37:57.974 --> 00:37:58.974] PICARD: I am
+[00:38:00.464 --> 00:38:01.344] PICARD: betrayed by
+[00:38:04.544 --> 00:38:04.864] PICARD: desires.
+[00:38:04.864 --> 00:38:05.984] PICARD: I
+[00:38:10.064 --> 00:38:11.104] PICARD: want to feel.
+[00:38:11.104 --> 00:38:14.464] PICARD: I want to feel everything.
+[00:38:19.584 --> 00:38:21.344] PICARD: But I am a Vulcan.
+[00:38:21.344 --> 00:38:21.344] PICARD: I
+[00:38:22.864 --> 00:38:23.584] PICARD: must feel nothing.
+[00:38:23.584 --> 00:38:23.584] PICARD: Give me back my
+[00:38:38.893 --> 00:38:39.053] PICARD: control.
+[00:38:40.893 --> 00:38:40.933] CRUSHER: Jean-Luc!
+[00:38:40.933 --> 00:38:40.973] PICARD: Perrin.
+[00:38:42.593 --> 00:38:44.213] PICARD: Amanda.
+[00:38:45.833 --> 00:38:51.053] PICARD: I wanted to give you so much more.
+[00:38:53.293 --> 00:38:55.133] PICARD: I wanted to show you such
+[00:38:57.373 --> 00:38:59.373] PICARD: tenderness.
+[00:39:00.973 --> 00:39:01.373] PICARD: But
+[00:39:02.973 --> 00:39:05.613] PICARD: that is not our way.
+[00:39:08.493 --> 00:39:11.917] PICARD: Spock, Amanda,
+[00:39:12.653 --> 00:39:12.653] PICARD: did
+[00:39:15.773 --> 00:39:20.593] PICARD: you know? Perrin,
+[00:39:22.373 --> 00:39:24.153] PICARD: can
+[00:39:25.933 --> 00:39:29.693] PICARD: you know how much I love you?
+[00:39:29.693 --> 00:39:33.053] PICARD: I do love you!
+[00:39:51.853 --> 00:39:53.853] PICARD: Beverly.
+[00:39:54.125 --> 00:39:55.430] CRUSHER: I'm here, Jean-Luc.
+[00:39:55.647 --> 00:39:56.733] CRUSHER: I'm not going anywhere.
+[00:39:58.337 --> 00:40:00.497] PICARD: It's quite difficult.
+[00:40:00.497 --> 00:40:00.577] PICARD: The
+[00:40:05.057 --> 00:40:05.697] PICARD: anguish of the man, the
+[00:40:08.657 --> 00:40:09.057] PICARD: despair
+[00:40:11.457 --> 00:40:13.297] PICARD: pouring out of him, all those feelings,
+[00:40:15.217 --> 00:40:16.097] PICARD: the regrets.
+[00:40:16.247 --> 00:40:17.247] PICARD: I can't
+[00:40:17.937 --> 00:40:19.937] PICARD: stop them.
+[00:40:20.087 --> 00:40:21.887] PICARD: I can't stop them.
+[00:40:23.937 --> 00:40:24.937] PICARD: I can't.
+[00:40:25.862 --> 00:40:26.862] PICARD: I can't.
+[00:40:27.937 --> 00:40:29.297] CRUSHER: Don't even try.
+[00:40:42.257 --> 00:40:45.537] LOG: First Officer's log, Stardate 43920.7.
+[00:40:46.337 --> 00:40:49.937] LOG: Ambassador Sarek has successfully concluded the negotiations with the Legarans.
+[00:40:50.657 --> 00:40:54.737] LOG: The USS Merrimac has arrived and will transport the Ambassador and his party back to Vulcan.
+[00:40:55.537 --> 00:40:57.697] PICARD: I hope your journey aboard the Merrimac will be uneventful.
+[00:40:58.257 --> 00:41:03.537] SAKKATH: With the pressures of the conference behind him, I believe I can help maintain his control until we return to Vulcan.
+[00:41:04.337 --> 00:41:05.377] RIKER: What will happen to him then?
+[00:41:05.857 --> 00:41:08.097] MENDROSSEN: The effects of Bendii Syndrome are irreversible.
+[00:41:08.897 --> 00:41:11.617] MENDROSSEN: Medical research is always continuing, of course.
+[00:41:15.057 --> 00:41:16.977] RIKER: Mister O'Brien, stand by for transport.
+[00:41:17.457 --> 00:41:17.857] O'BRIEN: Aye, sir.
+[00:41:19.857 --> 00:41:20.737] PERRIN: Thank you, Captain.
+[00:41:26.337 --> 00:41:27.057] PICARD: He loves you
+[00:41:29.777 --> 00:41:30.497] PICARD: very much.
+[00:41:32.371 --> 00:41:32.771] PERRIN: I know.
+[00:41:33.971 --> 00:41:34.771] PERRIN: I have always known.
+[00:41:40.611 --> 00:41:42.291] SAREK: I will take my leave of you now, Captain.
+[00:41:43.891 --> 00:41:45.731] SAREK: I do not think we shall meet again.
+[00:41:46.931 --> 00:41:48.211] PICARD: I hope you are wrong, Ambassador.
+[00:41:49.731 --> 00:41:52.691] SAREK: We shall always retain the best part of the other
+[00:41:54.211 --> 00:41:54.771] SAREK: inside us.
+[00:41:56.611 --> 00:41:58.771] PICARD: I believe I have the best part of that bargain,
+[00:42:02.291 --> 00:42:02.691] PICARD: Ambassador.
+[00:42:04.211 --> 00:42:05.331] PICARD: Peace and long life.
+[00:42:08.451 --> 00:42:09.411] SAREK: Live long and prosper.
+[00:42:34.000 --> 00:42:55.000] [music]

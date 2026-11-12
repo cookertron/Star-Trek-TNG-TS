@@ -1,0 +1,657 @@
+[00:00:01.840 --> 00:00:05.280] LOG: Captain's log, stardate 41249.3.
+[00:00:06.080 --> 00:00:12.160] LOG: We have orbited the two major planets of the Beta Renner system taking aboard delegates from those two worlds.
+[00:00:12.640 --> 00:00:18.560] LOG: Since achieving space flight, their major life forms, the Anticans and the Selay have become deadly enemies.
+[00:00:19.120 --> 00:00:21.680] LOG: But both have also applied for admission into our Federation.
+[00:00:22.560 --> 00:00:29.040] LOG: We are to deliver these delegates to this sector's neutral conference planet, called Parliament, in the hope their dispute can be
+[00:00:30.720 --> 00:00:32.720] LOG: resolved.
+[00:00:35.520 --> 00:00:36.720] PICARD: I'm Captain Picard.
+[00:00:36.720 --> 00:00:37.440] PICARD: Welcome aboard.
+[00:00:38.400 --> 00:00:40.960] PICARD: We hope your journey will be pleasant and comfortable.
+[00:00:41.280 --> 00:00:43.680] PICARD: Arranging that will be my First Officer, Commander Riker.
+[00:00:44.480 --> 00:00:45.120] RIKER: Welcome aboard.
+[00:00:45.840 --> 00:00:48.160] RIKER: If you'll follow me I will show you the accommodations that we've
+[00:00:48.160 --> 00:00:50.160] SELAY: We can already smell the Anticans.
+[00:00:50.480 --> 00:00:52.104] SELAY: They were taken aboard first?
+[00:00:52.104 --> 00:00:56.000] PICARD: Only because their world was the first on this heading to Parliament.
+[00:00:56.800 --> 00:00:59.280] SELAY: Will our quarters be near the Anticans?
+[00:00:59.440 --> 00:01:00.640] RIKER: About one hundred metres apart.
+[00:01:02.240 --> 00:01:02.800] PICARD: Is that all right?
+[00:01:03.040 --> 00:01:03.520] SELAY: No.
+[00:01:03.920 --> 00:01:05.280] SELAY: Unsatisfactory.
+[00:01:06.000 --> 00:01:07.680] RIKER: I believe we can accommodate your wishes.
+[00:01:07.680 --> 00:01:09.280] RIKER: We'll rearrange the suite assignments.
+[00:01:10.080 --> 00:01:10.640] RIKER: If you'll follow me.
+[00:01:10.640 --> 00:01:13.600] SELAY: And we must be upwind from the Anticans.
+[00:01:14.080 --> 00:01:14.640] RIKER: Of course, sir.
+[00:01:27.760 --> 00:01:32.240] TASHA: Neither seem like very promising Federation candidates, sir.
+[00:01:32.800 --> 00:01:33.520] PICARD: Even Parliament's
+[00:01:33.652 --> 00:01:35.812] PICARD: peacemakers may find this case a little difficult.
+[00:01:46.372 --> 00:01:49.252] PICARD: But do you understand the basis of all this nonsense between them?
+[00:01:49.492 --> 00:01:49.732] RIKER: No sir.
+[00:01:50.292 --> 00:01:52.772] RIKER: I didn't understand that kind of hostility even when I studied Earth history.
+[00:01:53.012 --> 00:01:53.332] PICARD: Really?
+[00:01:53.652 --> 00:01:53.892] PICARD: Oh,
+[00:01:53.892 --> 00:01:54.292] PICARD: yes,
+[00:01:54.292 --> 00:02:02.612] PICARD: well these life forms feel such passionate hatred matters of custom, God concepts, even, strangely enough, economic systems
+[00:02:03.012 --> 00:02:05.812] DATA: Sir, my sensors are picking up an unusual energy object ahead.
+[00:02:06.372 --> 00:02:06.932] PICARD: On screen.
+[00:02:11.572 --> 00:02:12.132] TASHA: Confirmed, sir.
+[00:02:13.092 --> 00:02:16.852] TASHA: My sensors read nothing solid but considerable energy in changing patterns.
+[00:02:17.092 --> 00:02:18.612] DATA: Also travelling at warp speed, sir.
+[00:02:19.731 --> 00:02:20.291] DATA: Intriguing.
+[00:02:21.172 --> 00:02:23.012] DATA: I can find no match with anything in our records, sir.
+[00:02:23.572 --> 00:02:25.572] PICARD: Change course to make a close sensor pass.
+[00:02:26.532 --> 00:02:29.332] PICARD: We can then increase warp speed and reach Parliament on schedule.
+[00:02:29.332 --> 00:02:29.652] DATA: Aye, sir.
+[00:02:35.972 --> 00:02:37.652] LAFORGE: So, Worf, why the interest in this?
+[00:02:37.892 --> 00:02:39.892] LAFORGE: It's just routine maintenance on the sensor assemblies.
+[00:02:40.532 --> 00:02:41.412] WORF: Simple, Geordi.
+[00:02:41.812 --> 00:02:45.892] WORF: Our Captain wants his junior officers to learn, learn, learn.
+[00:02:46.932 --> 00:02:48.052] LAFORGE: Not just the junior ones.
+[00:02:48.772 --> 00:02:51.572] LAFORGE: Okay, you hold this relay offline while I adjust these sensor circuits.
+[00:02:52.052 --> 00:02:53.492] TASHA: Security to Sensor Maintenance.
+[00:02:53.972 --> 00:02:54.772] LAFORGE: Lieutenant La Forge here.
+[00:02:55.252 --> 00:02:58.212] TASHA: We're making a close sensor pass on an unusual object, Geordi.
+[00:02:58.611 --> 00:02:59.332] TASHA: Any problems?
+[00:02:59.806 --> 00:03:00.606] GEORDI: Not at all, Lieutenant.
+[00:03:00.846 --> 00:03:02.926] GEORDI: All equipment online and functioning.
+[00:03:03.406 --> 00:03:04.206] TASHA: Sensors ready, sir.
+[00:03:04.686 --> 00:03:05.646] PICARD: Life form reading?
+[00:03:06.286 --> 00:03:07.406] DATA: No life form reading, sir.
+[00:03:08.046 --> 00:03:08.686] PICARD: Begin the pass.
+[00:03:12.926 --> 00:03:15.246] DATA: Sir, it is changing shape.
+[00:03:16.526 --> 00:03:17.806] PICARD: Any readings of matter there?
+[00:03:18.686 --> 00:03:19.246] DATA: Negative, Captain.
+[00:03:19.966 --> 00:03:20.606] DATA: Energy only.
+[00:03:54.846 --> 00:03:57.406] LAFORGE: Worf! La Forge to Sickbay.
+[00:03:57.406 --> 00:03:59.326] LAFORGE: We havd a medical emergency in sensor maintenance.
+[00:03:59.406 --> 00:04:01.646] LAFORGE: I repeat, this is a medical emergency.
+[00:04:20.526 --> 00:04:24.606] PICARD: Space, the final frontier.
+[00:04:26.452 --> 00:04:29.332] PICARD: These are the voyages of the starship Enterprise.
+[00:04:30.452 --> 00:04:34.212] PICARD: Its continuing mission to explore strange new worlds, to
+[00:04:36.052 --> 00:04:43.252] PICARD: seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:05:47.172 --> 00:05:47.732] CRUSHER: What happened?
+[00:05:47.732 --> 00:05:48.052] LAFORGE: I don't know.
+[00:05:48.052 --> 00:05:51.012] LAFORGE: He got hit by some sensor feedback, maybe.
+[00:05:51.012 --> 00:05:53.172] LAFORGE: You got it, Doc?
+[00:05:53.652 --> 00:05:53.732] CRUSHER: I got it.
+[00:06:04.367 --> 00:06:07.647] CRUSHER: Lieutenant Worf, can you hear what I'm saying?
+[00:06:11.967 --> 00:06:12.527] CRUSHER: Let's get him up.
+[00:06:12.527 --> 00:06:12.687] GEORDI: Okay. Come
+[00:06:14.367 --> 00:06:14.927] GEORDI: on, big guy.
+[00:06:15.567 --> 00:06:15.887] GEORDI: On your feet.
+[00:06:16.527 --> 00:06:18.447] GEORDI: Here we go.
+[00:06:18.447 --> 00:06:20.287] GEORDI: That's it.
+[00:06:22.527 --> 00:06:24.527] CRUSHER: Are you okay?
+[00:06:25.567 --> 00:06:31.727] LAFORGE: He was just monitoring the sensor console when he jerked as though something hit him.
+[00:06:32.447 --> 00:06:34.047] LAFORGE: What my sensors showed was
+[00:06:35.647 --> 00:06:38.047] LAFORGE: a glow, just for a second.
+[00:06:38.047 --> 00:06:40.207] LAFORGE: I can't explain it.
+[00:06:40.687 --> 00:06:42.607] PICARD: Could your Visor device have malfunctioned?
+[00:06:43.007 --> 00:06:44.207] LAFORGE: I doubt it, sir.
+[00:06:44.927 --> 00:06:46.447] LAFORGE: It seemed what I was seeing was something real.
+[00:06:56.367 --> 00:06:57.167] TASHA: Sorry to call you, sir.
+[00:06:58.047 --> 00:06:59.247] TASHA: Not strictly security.
+[00:07:00.127 --> 00:07:02.927] TASHA: It's about the dietary requirements of the Antican delegates.
+[00:07:02.927 --> 00:07:05.887] RIKER: I thought that had been taken care of in advance, Tasha.
+[00:07:05.887 --> 00:07:07.407] TASHA: So did we, sir.
+[00:07:08.287 --> 00:07:09.807] TASHA: Their live animals were beamed aboard.
+[00:07:09.807 --> 00:07:13.967] TASHA: We were going to preserve the meat for them, but they say we must bring it to them alive.
+[00:07:14.927 --> 00:07:15.407] RIKER: Then do so.
+[00:07:15.807 --> 00:07:19.407] RIKER: Lieutenant Yar was confused.
+[00:07:19.967 --> 00:07:22.367] RIKER: We no longer enslave animals for food purposes.
+[00:07:22.367 --> 00:07:25.007] ANTICAN: But we have seen humans eat meat.
+[00:07:26.809 --> 00:07:33.609] RIKER: You've seen something as fresh and tasty as meat, but inorganically materialised out of patterns used by our transporters.
+[00:07:36.489 --> 00:07:36.969] ANTICAN: This is sickening.
+[00:07:43.209 --> 00:07:45.209] ANTICAN: It's barbaric.
+[00:07:57.129 --> 00:07:59.129] TROI: He's
+[00:08:06.089 --> 00:08:06.969] TROI: reading normal now.
+[00:08:07.449 --> 00:08:08.169] TROI: How did you manage that?
+[00:08:08.409 --> 00:08:09.609] CRUSHER: Yes. Normal.
+[00:08:12.009 --> 00:08:12.409] TROI: Are you all right?
+[00:08:13.529 --> 00:08:14.409] CRUSHER: Yes, perfectly.
+[00:08:16.569 --> 00:08:18.009] CRUSHER: Both of us. Quite normal
+[00:08:21.289 --> 00:08:22.009] CRUSHER: now.
+[00:08:22.889 --> 00:08:23.049] WORF: What?
+[00:08:24.489 --> 00:08:25.049] WORF: Where am I?
+[00:08:26.009 --> 00:08:26.649] TROI: Don't you remember?
+[00:08:27.769 --> 00:08:29.449] TROI: You were in the sensor maintenance room.
+[00:08:30.649 --> 00:08:32.649] WORF: I remember monitoring the sensor console.
+[00:08:34.249 --> 00:08:35.049] WORF: What am I doing here?
+[00:08:36.249 --> 00:08:37.769] TROI: That's a story the Doctor will tell you.
+[00:08:42.409 --> 00:08:42.969] PICARD: Obviously
+[00:08:46.329 --> 00:08:50.089] PICARD: you feel it's something we should look at more carefully.
+[00:08:50.969 --> 00:08:52.249] DATA: A mystery is only a mystery
+[00:08:52.356 --> 00:08:54.116] DATA: as long as it remains uninvestigated, sir.
+[00:08:54.996 --> 00:08:56.196] PICARD: I love a mystery, Data,
+[00:08:57.076 --> 00:09:00.836] PICARD: but this one will have to to wait until we deliver the delegates to their peace conference on Parliament.
+[00:09:02.436 --> 00:09:04.036] PICARD: Time and tide, Lieutenant La Forge.
+[00:09:04.196 --> 00:09:04.836] PICARD: Go to warp eight.
+[00:09:06.276 --> 00:09:07.076] LAFORGE: Warp eight, sir.
+[00:09:11.556 --> 00:09:13.716] WESLEY: Him Mom.
+[00:09:16.036 --> 00:09:16.596] WESLEY: You're back early.
+[00:09:17.956 --> 00:09:18.516] CRUSHER: Yes.
+[00:09:27.716 --> 00:09:28.756] WESLEY: Physical sciences class.
+[00:09:30.276 --> 00:09:32.836] WESLEY: We're studying Doctor Channing's theory on dilithium crystals.
+[00:09:32.916 --> 00:09:33.556] CRUSHER: Tell me about it.
+[00:09:35.476 --> 00:09:35.876] WESLEY: Really?
+[00:09:37.076 --> 00:09:39.156] WESLEY: You never seemed that interested in warp theory before.
+[00:09:40.276 --> 00:09:44.516] WESLEY: Doctor Channing thinks it's possible to force dilithium into even more useful crystals.
+[00:09:45.076 --> 00:09:49.481] WESLEY: If as shown here, matter and antimatter could be aligned even more efficiently
+[00:09:49.481 --> 00:09:50.836] CRUSHER: Would that affect navigation?
+[00:09:52.116 --> 00:09:53.876] WESLEY: This is engineering, not helm control.
+[00:09:53.876 --> 00:09:53.876] CRUSHER: Oh
+[00:09:55.396 --> 00:09:58.116] CRUSHER: yes, the helm's located on the Bridge.
+[00:10:00.596 --> 00:10:02.836] WESLEY: Mom, is something wrong?
+[00:10:05.076 --> 00:10:05.476] CRUSHER: This is the helm.
+[00:10:20.762 --> 00:10:22.762] LAFORGE: Unless there have been some changes I don't know about.
+[00:10:24.282 --> 00:10:24.842] PICARD: Doctor Crusher?
+[00:10:30.202 --> 00:10:33.562] CRUSHER: You will wish to know Lieutenant Worf is much improved. Ready to return to duty.
+[00:10:33.882 --> 00:10:34.842] PICARD: What was the diagnosis?
+[00:10:35.322 --> 00:10:36.042] CRUSHER: A temporary mental
+[00:10:38.042 --> 00:10:40.042] CRUSHER: aberration.
+[00:10:41.402 --> 00:10:41.722] PICARD: Doctor,
+[00:10:44.042 --> 00:10:46.362] PICARD: when such a diagnosis concerns a bridge officer,
+[00:10:46.842 --> 00:10:48.202] PICARD: I expect a better explanation.
+[00:10:48.522 --> 00:10:51.082] CRUSHER: Then I will first have to run some crosschecks on the library computer.
+[00:10:52.842 --> 00:10:55.882] CRUSHER: Klingons are so unusual in their reactions, aren't they?
+[00:10:58.522 --> 00:10:59.962] PICARD: Use Science Station two, Doctor.
+[00:11:14.362 --> 00:11:15.162] DATA: Intriguing, Doctor.
+[00:11:16.602 --> 00:11:19.802] DATA: What does helm control have to do with medical crosschecks?
+[00:11:21.162 --> 00:11:23.162] CRUSHER: Why
+[00:11:35.642 --> 00:11:36.282] CRUSHER: am I?
+[00:11:38.282 --> 00:11:39.082] DATA: Is something wrong, Doctor?
+[00:11:40.762 --> 00:11:42.122] PICARD: Doctor, are you all right?
+[00:11:43.882 --> 00:11:44.282] CRUSHER: Yes.
+[00:11:45.482 --> 00:11:47.482] CRUSHER: Yes.
+[00:11:48.122 --> 00:11:51.482] CRUSHER: I'll do my work in my office.
+[00:11:52.561 --> 00:11:53.521] CRUSHER: That's where I should be.
+[00:11:53.761 --> 00:11:54.801] PICARD: Do you want someone to accompany you?
+[00:11:59.761 --> 00:12:00.161] DATA: Captain?
+[00:12:00.961 --> 00:12:02.481] DATA: There is a malfunction in this station.
+[00:12:03.521 --> 00:12:05.361] DATA: I cannot bring any information up on it.
+[00:12:08.321 --> 00:12:10.081] DATA: Science two does not function either, sir.
+[00:12:10.961 --> 00:12:12.241] SINGH: Engineering to Captain Picard.
+[00:12:12.721 --> 00:12:14.561] SINGH: We have something wrong with warp drive circuitry, sir.
+[00:12:16.641 --> 00:12:18.241] CHIEF: Transporter room six to Bridge.
+[00:12:18.721 --> 00:12:21.041] CHIEF: Reporting transporter console malfunction, sir.
+[00:12:27.361 --> 00:12:31.281] PICARD: Data, this ship is less than a year out of Spacedock.
+[00:12:32.641 --> 00:12:34.081] PICARD: What are the chances of this occurring?
+[00:12:36.081 --> 00:12:37.761] DATA: It is a virtual impossibility, sir.
+[00:12:40.321 --> 00:12:41.761] PICARD: So what the hell is going on
+[00:12:43.921 --> 00:12:45.921] PICARD: here?
+[00:12:59.521 --> 00:13:02.321] PICARD: And you are telling me there are no explanations for these malfunctions?
+[00:13:03.601 --> 00:13:06.561] RIKER: At least, sir, all the department heads have reported the damage repaired.
+[00:13:07.601 --> 00:13:09.041] PICARD: That was not my question, Number One.
+[00:13:09.201 --> 00:13:10.881] PICARD: What caused the malfunctions?
+[00:13:12.561 --> 00:13:16.481] SINGH: I believe it was a rampant electronic short that jumped from system to system, sir.
+[00:13:17.841 --> 00:13:19.601] SINGH: But the only thing is, er
+[00:13:19.601 --> 00:13:20.481] PICARD: Yes, Mister Singh?
+[00:13:21.921 --> 00:13:22.961] SINGH: That shouldn't be possible.
+[00:13:23.959 --> 00:13:26.519] SINGH: The affected systems don't generally interact with each other.
+[00:13:27.079 --> 00:13:31.239] SINGH: And where they do, it wasn't an interlink that was malfunctioning.
+[00:13:32.919 --> 00:13:35.239] PICARD: Have you spoken with Chief Engineer Argyle about this problem?
+[00:13:35.959 --> 00:13:37.159] SINGH: With all the Engineering staff, sir.
+[00:13:38.119 --> 00:13:38.919] SINGH: They're just as puzzled.
+[00:13:40.039 --> 00:13:41.079] PICARD: Well, I'm not satisfied.
+[00:13:41.959 --> 00:13:44.359] PICARD: I want an explanation of this by the time we reach Parliament.
+[00:13:44.599 --> 00:13:45.079] SINGH: But, sir.
+[00:13:46.519 --> 00:13:48.359] PICARD: By the time we reach Parliament, Mister Singh.
+[00:13:57.959 --> 00:14:03.559] RIKER: These weapons were taken from two of your people who were loitering out of sight in the vicinity of the Selay delegation quarters.
+[00:14:04.119 --> 00:14:04.999] RIKER: Would you care to explain, sir?
+[00:14:06.279 --> 00:14:08.199] ANTICAN: These are not weapons, First Officer.
+[00:14:08.359 --> 00:14:09.399] ANTICAN: They are tools.
+[00:14:09.719 --> 00:14:13.479] ANTICAN: We use these to dispatch the animals we consume.
+[00:14:13.799 --> 00:14:16.599] TASHA: Your food supply is not on the same deck as the Selay delegation, sir.
+[00:14:16.839 --> 00:14:18.279] RIKER: And you have to admit that these could kill.
+[00:14:18.999 --> 00:14:25.799] ANTICAN: I admit some of my people are impulsive. and we all have reason to hate the Selay.
+[00:14:26.359 --> 00:14:28.439] TASHA: They appear to have the same feelings about you, sir.
+[00:14:28.839 --> 00:14:30.999] ANTICAN: The nature of politics.
+[00:14:31.239 --> 00:14:37.159] RIKER: Nevertheless, Chief Delegate, you're on notice that all of your weapons, no matter what their basic function, are being confiscated.
+[00:14:38.599 --> 00:14:40.359] RIKER: Violence will not be tolerated on the Enterprise.
+[00:14:44.359 --> 00:14:44.439] ANTICAN: Of course
+[00:14:45.959 --> 00:14:46.039] ANTICAN: not.
+[00:14:46.039 --> 00:14:50.519] ANTICAN: And if any does occur, let me assure you it will not be we Anticans who start it.
+[00:14:51.107 --> 00:14:51.587] TASHA: Thank you, sir.
+[00:14:52.307 --> 00:14:52.307] ANTICAN: But we
+[00:14:59.587 --> 00:15:01.347] ANTICAN: will finish it.
+[00:15:03.107 --> 00:15:03.267] WORF: Sir,
+[00:15:03.747 --> 00:15:04.627] WORF: warp power is fading.
+[00:15:06.787 --> 00:15:07.987] PICARD: Picard to Engineering.
+[00:15:07.987 --> 00:15:08.867] PICARD: What is the problem?
+[00:15:09.827 --> 00:15:12.174] SINGH: We have lost the warp engine computer tie.
+[00:15:12.174 --> 00:15:12.467] WORF: Warp
+[00:15:14.787 --> 00:15:17.747] WORF: five, four, three, two
+[00:15:22.387 --> 00:15:23.667] PICARD: State of the art vessel?
+[00:15:25.187 --> 00:15:25.667] PICARD: Data, signal
+[00:15:25.747 --> 00:15:26.707] PICARD: Parliament we'll be delayed.
+[00:15:27.427 --> 00:15:30.918] PICARD: We will send a new arrival time as soon as it is determined.
+[00:15:30.918 --> 00:15:31.187] DATA: Sir,
+[00:15:32.067 --> 00:15:33.427] DATA: subspace radio is out.
+[00:15:45.987 --> 00:15:46.547] PICARD: All right, gentlemen,
+[00:15:47.587 --> 00:15:51.267] PICARD: your theories on this sudden vulnerability of these systems.
+[00:15:51.987 --> 00:15:55.747] DATA: If the Enterprise were really this fragile, sir, she never would have left Spacedock.
+[00:15:56.467 --> 00:16:01.747] DATA: Therefore, her systems' failures are not endemic to the ship, but are the result of the actions of an unknown adversary.
+[00:16:02.147 --> 00:16:03.747] RIKER: We have a saboteur aboard.
+[00:16:05.187 --> 00:16:06.654] DATA: I believe I said that.
+[00:16:06.654 --> 00:16:06.947] PICARD: Gentlemen.
+[00:16:07.347 --> 00:16:08.787] PICARD: The question is, who?
+[00:16:09.667 --> 00:16:11.507] PICARD: I can't believe it's one of our people.
+[00:16:12.067 --> 00:16:12.387] RIKER: Agreed.
+[00:16:13.027 --> 00:16:15.187] RIKER: It must be someone from either alien delegation.
+[00:16:15.187 --> 00:16:16.227] RIKER: Now, if the Ferengi could have bought
+[00:16:16.624 --> 00:16:17.984] RIKER: or bribed even one of them,
+[00:16:17.984 --> 00:16:18.784] RIKER: that's all that they'd need.
+[00:16:19.824 --> 00:16:23.264] DATA: Ferengi contacts have been detected on both Selay and Antica, sir.
+[00:16:24.064 --> 00:16:26.064] PICARD: Can any of you suggest any other suspects?
+[00:16:27.424 --> 00:16:28.704] RIKER: You're sounding like a private eye, sir.
+[00:16:30.064 --> 00:16:30.544] DATA: Inquiry.
+[00:16:31.824 --> 00:16:32.304] DATA: Private eye?
+[00:16:33.744 --> 00:16:36.544] PICARD: A private consulting investigator, Data, who solves crimes.
+[00:16:36.694 --> 00:16:37.294] DATA: A
+[00:16:38.864 --> 00:16:40.064] DATA: most interesting occupation.
+[00:16:41.584 --> 00:16:43.424] PICARD: In the world of fact, probably not.
+[00:16:44.704 --> 00:16:49.344] PICARD: However, in literature, criminal detection can be a fascinating exercise.
+[00:16:50.544 --> 00:16:53.504] PICARD: The immortal Sherlock Holmes would have an interesting view of our mystery, I believe.
+[00:16:54.064 --> 00:16:58.384] RIKER: But I'm afraid we're going to have to find our solution without history's greatest Consulting Detective.
+[00:17:06.464 --> 00:17:07.744] WESLEY: How about here, Mister Singh?
+[00:17:13.904 --> 00:17:16.125] WESLEY: If the control network breaks at this point
+[00:17:16.125 --> 00:17:18.624] SINGH: It bleeds warp engine commands off into dead ends.
+[00:17:21.264 --> 00:17:21.584] SINGH: Excellent.
+[00:17:25.824 --> 00:17:27.584] SINGH: I believe I can handle it from here, Mister Crusher.
+[00:17:29.024 --> 00:17:29.575] WESLEY: But, sir
+[00:17:29.575 --> 00:17:31.504] SINGH: You are scheduled for class work now.
+[00:17:32.704 --> 00:17:33.024] SINGH: Sorry.
+[00:17:33.984 --> 00:17:34.224] WESLEY: Yes, sir.
+[00:17:37.904 --> 00:17:41.664] WESLEY: But I don't learn nearly this much in school.
+[00:17:42.544 --> 00:17:43.424] SINGH: I tend to agree,
+[00:17:44.064 --> 00:17:45.744] SINGH: but the captain's orders on this are very clear.
+[00:17:59.368 --> 00:17:59.768] CRUSHER: Hi.
+[00:18:03.528 --> 00:18:04.888] CRUSHER: Solve any new problems today?
+[00:18:05.688 --> 00:18:06.968] WESLEY: I was starting to, maybe.
+[00:18:07.928 --> 00:18:09.368] WESLEY: Mister Singh sent me off to class.
+[00:18:10.808 --> 00:18:12.408] CRUSHER: Wes, you're only an acting ensign.
+[00:18:12.488 --> 00:18:14.568] CRUSHER: You've got to let the commissioned officers do some of the work.
+[00:18:18.648 --> 00:18:21.768] WESLEY: Mom, I've learned a more than they understand.
+[00:18:23.048 --> 00:18:26.568] WESLEY: For example, the Channing's dilithium crystals theory I was telling you about?
+[00:18:27.208 --> 00:18:28.248] CRUSHER: When were you telling me about that?
+[00:18:30.488 --> 00:18:31.768] WESLEY: This morning. Don't you remember?
+[00:18:33.608 --> 00:18:35.048] CRUSHER: Honestly, I don't remember.
+[00:19:08.408 --> 00:19:09.528] WORF: Engineering to Captain Picard.
+[00:19:09.848 --> 00:19:10.488] WORF: Security alert.
+[00:19:11.448 --> 00:19:11.688] PICARD: Picard.
+[00:19:12.248 --> 00:19:13.128] WORF: Lieutenant Worf, sir.
+[00:19:13.928 --> 00:19:15.048] WORF: I just found Mister Singh.
+[00:19:16.497 --> 00:19:16.817] WORF: He's dead.
+[00:19:24.977 --> 00:19:28.257] LOG: Captain's log, stardate 41249.4.
+[00:19:29.377 --> 00:19:33.297] LOG: I've ordered an immediate investigation into the death of Assistant Chief Engineer Singh.
+[00:19:34.417 --> 00:19:35.857] LOG: We continue to run on impulse power.
+[00:19:37.857 --> 00:19:40.177] WESLEY: He could have been working there, restoring warp power.
+[00:19:41.377 --> 00:19:43.937] LAFORGE: According to these readings, we could go back to warp speed now.
+[00:19:46.417 --> 00:19:47.937] WESLEY: Those aren't the same readings as when I left.
+[00:19:49.057 --> 00:19:51.377] WORF: Singh probably repaired it just before he was killed.
+[00:19:52.737 --> 00:19:53.857] WESLEY: He couldn't have repaired, sir.
+[00:19:54.497 --> 00:19:55.777] WESLEY: The problems were inside the engine.
+[00:19:56.257 --> 00:19:57.937] LAFORGE: Who else could have corrected it, Wes?
+[00:19:59.377 --> 00:20:00.897] LAFORGE: Inform the bridge of engine status.
+[00:20:03.697 --> 00:20:04.577] WORF: Engineering to Bridge.
+[00:20:04.817 --> 00:20:06.257] WORF: We now have warp capacity, sir.
+[00:20:06.497 --> 00:20:07.537] WORF: All power online.
+[00:20:08.097 --> 00:20:08.737] PICARD: Well done.
+[00:20:08.977 --> 00:20:09.777] PICARD: Warp engines ready
+[00:20:09.777 --> 00:20:10.737] PICARD: on previous heading.
+[00:20:13.137 --> 00:20:14.337] PICARD: Warp factor six.
+[00:20:16.417 --> 00:20:24.257] ANTICAN: I tolerate these questions, Lieutenant Yar, because I need this vessel to get us to Parliament.
+[00:20:24.817 --> 00:20:27.537] ANTICAN: Your shipboard problems do not concern me.
+[00:20:27.697 --> 00:20:28.337] TASHA: They should.
+[00:20:28.817 --> 00:20:30.097] TASHA: Our delays are your delays.
+[00:20:31.137 --> 00:20:34.257] ANTICAN: The peace conference will wait for us.
+[00:20:34.897 --> 00:20:40.337] TASHA: I must ask where you were during this vessel's Earth hours of eighteen hundred last night and zero seven hundred this morning.
+[00:20:41.137 --> 00:20:41.897] ANTICAN: Eating.
+[00:20:41.897 --> 00:20:42.657] TASHA: Sir,
+[00:20:43.617 --> 00:20:45.217] TASHA: we're talking about hours here.
+[00:20:52.158 --> 00:20:58.558] ANTICAN: It was a large meal, Lieutenant Yar. And a very interesting animal.
+[00:21:04.638 --> 00:21:07.518] WORF: You wanted me, Doctor?
+[00:21:08.078 --> 00:21:09.998] CRUSHER: Yes, concerning your memory blackout.
+[00:21:10.878 --> 00:21:12.638] WORF: I still don't remember having one.
+[00:21:13.598 --> 00:21:15.198] CRUSHER: The same thing happened to me.
+[00:21:15.838 --> 00:21:17.758] TROI: I want to try hypnosis on both of you.
+[00:21:18.558 --> 00:21:20.478] TROI: It may restore your memory as to what happened.
+[00:21:23.438 --> 00:21:24.158] TASHA: One thing is clear.
+[00:21:25.118 --> 00:21:27.998] TASHA: Almost all of the peace delegates answered our questions with lies.
+[00:21:29.278 --> 00:21:30.558] DATA: Imprecise, Lieutenant.
+[00:21:31.598 --> 00:21:35.198] DATA: They omitted certain truths, which in itself tells us something.
+[00:21:36.478 --> 00:21:38.398] TASHA: We can learn something from non-disclosure?
+[00:21:40.238 --> 00:21:42.558] DATA: Indubitably, my good woman.
+[00:21:44.558 --> 00:21:49.198] RIKER: It's something the Captain mentioned. Sherlock Holmes.
+[00:21:50.078 --> 00:21:52.718] RIKER: Indubitably, Data has been studying him.
+[00:21:53.278 --> 00:21:54.078] DATA: Has studied, sir.
+[00:21:54.878 --> 00:22:01.598] DATA: Every case. As Holmes would've pointed out, during the time in question, something was afoot.
+[00:22:02.398 --> 00:22:02.878] TASHA: Afoot?
+[00:22:03.518 --> 00:22:09.838] DATA: While both sets of delegates say they were in their quarters, our crew locator sensed them passing here and here.
+[00:22:11.838 --> 00:22:16.558] TASHA: But since it doesn't show where they went, we're still in the dark.
+[00:22:17.551 --> 00:22:19.551] DATA: On the contrary, dear colleague.
+[00:22:24.271 --> 00:22:30.315] DATA: On their return, they drew medical supplies appropriate to the treatment of minor wounds and abrasions on these life forms.
+[00:22:30.315 --> 00:22:32.431] RIKER: Which, leaves us with only one conclusion.
+[00:22:32.511 --> 00:22:37.471] DATA: Exactly. That they were too engaged in their own affairs to have disabled our ship and murdered the Engineer.
+[00:22:37.871 --> 00:22:42.111] DATA: Given a choice, they'd rather kill each other than any of us.
+[00:22:42.911 --> 00:22:45.631] DATA: It's elementary, my dear Riker.
+[00:22:48.031 --> 00:22:48.271] DATA: Sir.
+[00:22:53.711 --> 00:22:54.351] TROI: Beverly, can you
+[00:22:56.271 --> 00:22:58.671] TROI: hear me?
+[00:22:58.821 --> 00:22:59.421] CRUSHER: Yes.
+[00:23:02.351 --> 00:23:08.191] TROI: I want you to go back in your mind to the moment when you first recall this sensation of memory loss.
+[00:23:09.871 --> 00:23:12.031] TROI: Picture it exactly as it occurred.
+[00:23:13.871 --> 00:23:16.111] CRUSHER: He's lying on the hospital bed sedated.
+[00:23:17.711 --> 00:23:18.911] CRUSHER: I'm walking up to him.
+[00:23:20.271 --> 00:23:20.671] CRUSHER: I.
+[00:23:25.391 --> 00:23:28.671] TROI: How do you feel at this moment, as you lean over him to take the specimen?
+[00:23:30.271 --> 00:23:34.031] CRUSHER: I feel someone else.
+[00:23:34.431 --> 00:23:36.671] CRUSHER: There's someone else who's there.
+[00:23:38.111 --> 00:23:40.111] CRUSHER: Not alone.
+[00:23:42.751 --> 00:23:45.391] CRUSHER: Get out. Get out of my mind.
+[00:23:53.574 --> 00:23:55.814] TROI: That's almost exactly what you said.
+[00:23:56.934 --> 00:23:58.774] TROI: As though there was something else inside you.
+[00:24:01.654 --> 00:24:05.654] TROI: Which confirms the feeling of duality that I sensed earlier in both of them.
+[00:24:05.894 --> 00:24:06.934] PICARD: Why didn't you report it?
+[00:24:08.054 --> 00:24:16.054] TROI: Because, sir, I assumed at first it was the kind of duality we Betazeds feel in all of you. Even you, sir.
+[00:24:17.414 --> 00:24:24.134] TROI: When you approach a decision and ask yourself which way to go, who are you talking to?
+[00:24:25.654 --> 00:24:28.614] PICARD: Your hypnotism revealed another form of duality?
+[00:24:29.414 --> 00:24:29.814] TROI: Yes, sir.
+[00:24:31.014 --> 00:24:32.854] TROI: I believe something invaded them.
+[00:24:34.214 --> 00:24:36.134] CRUSHER: It seems the only possible conclusion.
+[00:24:38.774 --> 00:24:39.174] PICARD: Data,
+[00:24:42.534 --> 00:24:43.894] PICARD: let's proceed without the pipe.
+[00:24:46.134 --> 00:24:46.374] DATA: Yes, sir.
+[00:24:47.014 --> 00:24:47.654] DATA: If you wish, sir.
+[00:24:47.974 --> 00:24:54.134] DATA: But I ask if you'd take it as incontrovertible that it cannot be a family member or one of our crew?
+[00:24:56.374 --> 00:24:57.334] PICARD: Yes. Very unlikely.
+[00:24:57.974 --> 00:24:59.814] DATA: Then our investigation was worthwhile, sir.
+[00:25:00.454 --> 00:25:03.734] DATA: We have eliminated both the delegates and the ship's regular complement.
+[00:25:04.534 --> 00:25:05.654] PICARD: Data, what are you suggesting?
+[00:25:09.254 --> 00:25:12.214] DATA: I am referring to the great detective's credo, sir.
+[00:25:12.934 --> 00:25:13.414] DATA: I quote,
+[00:25:15.334 --> 00:25:19.414] DATA: we must fall back on the old axiom that when other contingencies fail,
+[00:25:20.413 --> 00:25:23.613] DATA: whatever remains, however improbable,
+[00:25:25.693 --> 00:25:26.813] DATA: must be the truth.
+[00:25:35.533 --> 00:25:39.773] WESLEY: That engine computer net wasn't repaired, sir.
+[00:25:40.813 --> 00:25:42.493] WESLEY: It just suddenly became all right.
+[00:25:42.893 --> 00:25:44.733] LAFORGE: Sometimes it's the result that counts,
+[00:25:44.733 --> 00:25:45.053] LAFORGE: you know.
+[00:25:45.773 --> 00:25:46.253] LAFORGE: What the?
+[00:25:47.213 --> 00:25:47.693] LAFORGE: Oh, no.
+[00:25:51.453 --> 00:25:51.853] WORF: What is it?
+[00:25:52.013 --> 00:25:53.133] LAFORGE: Helm control just went down.
+[00:25:53.373 --> 00:25:54.173] LAFORGE: She won't respond.
+[00:25:54.813 --> 00:25:55.533] WORF: Bridge to Captain.
+[00:25:55.853 --> 00:25:57.053] WORF: You're needed here immediately.
+[00:25:57.133 --> 00:25:58.973] LAFORGE: Wes, alert Engineering from your panel, alright?
+[00:26:00.893 --> 00:26:01.533] WESLEY: I'm trying.
+[00:26:02.173 --> 00:26:02.573] PICARD: Report.
+[00:26:04.573 --> 00:26:05.533] WORF: Helm is down, sir.
+[00:26:05.853 --> 00:26:06.813] WORF: There's no apparent reason.
+[00:26:07.693 --> 00:26:09.293] LAFORGE: Captain, we've just dropped to impulse power.
+[00:26:14.173 --> 00:26:14.173] LAFORGE: Sir,
+[00:26:23.533 --> 00:26:24.013] LAFORGE: are you all right?
+[00:26:24.013 --> 00:26:25.373] LAFORGE: I thought I just saw
+[00:26:27.613 --> 00:26:28.253] PICARD: I'm fine.
+[00:26:28.253 --> 00:26:28.493] PICARD: Everything
+[00:26:35.373 --> 00:26:37.693] PICARD: is fine now.
+[00:26:37.693 --> 00:26:37.693] PICARD: Why the drop to impulse power, Lieutenant?
+[00:26:48.913 --> 00:26:50.353] LAFORGE: The helm is suddenly malfunctioning, sir.
+[00:26:50.993 --> 00:26:52.993] PICARD: Malfunctioning?
+[00:26:52.993 --> 00:26:53.473] PICARD: You're wrong.
+[00:26:53.473 --> 00:26:54.033] PICARD: Look again.
+[00:26:54.273 --> 00:26:55.153] LAFORGE: Sir, I was just
+[00:26:58.193 --> 00:26:58.833] RIKER: Mister La Forge?
+[00:27:00.593 --> 00:27:02.193] LAFORGE: Well, there's nothing wrong with it now, sir.
+[00:27:02.193 --> 00:27:03.633] LAFORGE: Everything is just as it should be.
+[00:27:03.633 --> 00:27:03.633] PICARD: In
+[00:27:05.473 --> 00:27:06.593] PICARD: that case, make our heading
+[00:27:07.953 --> 00:27:09.313] PICARD: nine two five mark three
+[00:27:10.993 --> 00:27:12.273] PICARD: seven.
+[00:27:12.273 --> 00:27:12.513] LAFORGE: Sir?
+[00:27:12.513 --> 00:27:12.513] PICARD: You
+[00:27:15.553 --> 00:27:17.153] PICARD: have a problem with that heading, Lieutenant?
+[00:27:17.153 --> 00:27:20.033] LAFORGE: You want to double back on our course, sir?
+[00:27:22.033 --> 00:27:24.833] PICARD: Isn't that what I ordered?
+[00:27:24.983 --> 00:27:25.583] LAFORGE: Yes,
+[00:27:40.193 --> 00:27:40.433] LAFORGE: sir.
+[00:27:40.433 --> 00:27:40.433] RIKER: Sir,
+[00:27:42.513 --> 00:27:44.113] RIKER: I'm puzzled about your reversing our course.
+[00:27:46.113 --> 00:27:47.393] PICARD: That energy cloud, Commander.
+[00:27:48.113 --> 00:27:49.873] PICARD: I believe it important we have another look at it.
+[00:27:50.753 --> 00:27:52.433] RIKER: But we're behind schedule for Parliament already.
+[00:27:53.073 --> 00:27:56.993] PICARD: I believe a very important scientific discovery awaits us on this heading.
+[00:27:57.713 --> 00:28:00.273] TROI: Perhaps you'd like to share your reasoning on that, sir?
+[00:28:01.073 --> 00:28:01.553] DATA: Yes,
+[00:28:02.273 --> 00:28:05.313] DATA: since we obtained only minimal information on our sensor pass of it.
+[00:28:05.633 --> 00:28:06.593] PICARD: Right, Data.
+[00:28:06.833 --> 00:28:08.193] PICARD: We must go back to learn more.
+[00:28:10.913 --> 00:28:16.193] PICARD: Counsellor, do you believe a ship Captain should explain every order?
+[00:28:16.790 --> 00:28:17.430] TROI: Of
+[00:28:19.350 --> 00:28:19.910] TROI: course not, sir.
+[00:28:19.910 --> 00:28:19.990] ANTICAN: I
+[00:28:26.550 --> 00:28:26.550] ANTICAN: demand
+[00:28:28.310 --> 00:28:29.910] ANTICAN: to see the Captain.
+[00:28:29.910 --> 00:28:31.910] O'BRIEN: Stop! Return to your quarters.
+[00:28:32.310 --> 00:28:32.470] SELAY: What
+[00:28:34.310 --> 00:28:35.750] SELAY: is that doing on our deck?
+[00:28:35.750 --> 00:28:40.070] ANTICAN: I demand to know why this starship has changed its course!
+[00:28:40.070 --> 00:28:43.110] O'BRIEN: Please, return to your quarters, delegates!
+[00:28:45.750 --> 00:28:48.470] DATA: A mere change of direction hardly justifies mutiny.
+[00:28:49.510 --> 00:28:50.230] CRUSHER: Exactly
+[00:28:50.310 --> 00:28:52.310] CRUSHER: what do you believe you're sensing from him?
+[00:28:52.870 --> 00:28:58.070] TROI: It's just a feeling that he's, well, that he's closed part of his mind to me.
+[00:28:59.190 --> 00:29:01.990] TROI: I just feel that the Captain has become,
+[00:29:03.750 --> 00:29:04.950] TROI: perhaps dangerous.
+[00:29:07.910 --> 00:29:09.777] RIKER: If he's dangerous. If.
+[00:29:09.777 --> 00:29:13.510] LAFORGE: Then he'd have to be relieved of command.
+[00:29:15.430 --> 00:29:16.470] LAFORGE: Which you could do, Doctor,
+[00:29:16.470 --> 00:29:18.310] LAFORGE: but it's beaucoup trouble if you're wrong.
+[00:29:18.870 --> 00:29:21.110] DATA: And at the moment it is all pure speculation.
+[00:29:21.590 --> 00:29:24.470] DATA: He has done nothing to subject the Enterprise to danger.
+[00:29:25.430 --> 00:29:28.390] CRUSHER: I'd need a medical log citing clear evidence of incapacity.
+[00:29:29.750 --> 00:29:31.270] CRUSHER: You could do it without that problem.
+[00:29:31.990 --> 00:29:34.870] RIKER: Only if all command officers agreed it vital to do so.
+[00:29:36.550 --> 00:29:39.270] RIKER: But he has not been showing any overt unusual behaviour.
+[00:29:40.710 --> 00:29:42.630] TROI: Ultimately, I believe he will.
+[00:29:46.306 --> 00:29:48.466] CRUSHER: As second in command, it's still in your corner.
+[00:29:49.186 --> 00:29:51.266] CRUSHER: I'll order medical and psychiatric exams.
+[00:29:54.546 --> 00:29:55.986] CRUSHER: You'll have to back me up somehow.
+[00:30:04.786 --> 00:30:06.146] LOG: First Officer's log, supplemental.
+[00:30:07.026 --> 00:30:12.706] LOG: After meeting with the senior officers, Doctor Crusher and I decided to approach the Captain regarding his recent behaviour.
+[00:30:17.346 --> 00:30:17.746] PICARD: Yes?
+[00:30:21.906 --> 00:30:25.586] CRUSHER: I'd like you to come to Sickbay for some examinations, Captain.
+[00:30:26.466 --> 00:30:26.706] PICARD: Oh?
+[00:30:28.386 --> 00:30:29.586] PICARD: I'll be glad to do when I'm free.
+[00:30:31.346 --> 00:30:33.106] CRUSHER: I'd like to conduct them now, sir.
+[00:30:35.346 --> 00:30:35.586] PICARD: Why?
+[00:30:41.106 --> 00:30:42.146] PICARD: What can I do for you, Number One?
+[00:30:42.786 --> 00:30:45.026] RIKER: Sir, Counsellor Troi has recommended the examinations.
+[00:30:45.746 --> 00:30:46.466] PICARD: Same question.
+[00:30:47.346 --> 00:30:47.586] PICARD: Why?
+[00:30:51.426 --> 00:30:52.946] RIKER: It is my duty to inform the Captain
+[00:30:53.106 --> 00:30:58.706] RIKER: we believe he may be under some kind of alien influence which may constitute a danger to this ship.
+[00:31:02.146 --> 00:31:10.706] PICARD: I consider it equally possible that the two of you, and Counsellor Troi, are overworked,
+[00:31:12.267 --> 00:31:13.947] PICARD: and possibly suffering hallucinations.
+[00:31:14.507 --> 00:31:15.227] PICARD: Now this is an order.
+[00:31:15.707 --> 00:31:19.707] PICARD: You will arrange medical and psychiatric exams of both yourself and them.
+[00:31:22.587 --> 00:31:25.627] PICARD: Doctor, are you aware everybody is behaving strangely?
+[00:31:26.427 --> 00:31:29.307] CRUSHER: I'm concerned that you've suddenly turned the ship away from it's course.
+[00:31:29.307 --> 00:31:30.747] PICARD: What's happened to your mind, Doctor?
+[00:31:35.547 --> 00:31:40.107] PICARD: The search for knowledge is always our primary mission.
+[00:31:42.907 --> 00:31:43.387] PICARD: I'm sorry,
+[00:31:43.467 --> 00:31:47.147] PICARD: I really am too busy for this kind of nonsense.
+[00:31:49.947 --> 00:31:54.427] PICARD: Do I have to call Security to force you to report to the Sickbay?
+[00:31:54.427 --> 00:31:54.827] CRUSHER: No, sir.
+[00:32:13.307 --> 00:32:16.027] RIKER: What the hell?
+[00:32:18.987 --> 00:32:20.987] SELAY: Sorry. Wrong species.
+[00:32:21.147 --> 00:32:21.627] RIKER: Riker
+[00:32:23.227 --> 00:32:24.027] RIKER: to Security Chief.
+[00:32:24.747 --> 00:32:25.147] TASHA: Yar here.
+[00:32:25.627 --> 00:32:27.067] RIKER: Security guard to the Engineering deck.
+[00:32:27.947 --> 00:32:29.627] RIKER: Selays are playing hide and seek down here,
+[00:32:29.627 --> 00:32:31.867] RIKER: obviously with the Anticans. It's a lethal game.
+[00:32:31.867 --> 00:32:33.787] RIKER: I want them returned to their quarters under guard.
+[00:32:34.427 --> 00:32:34.907] TASHA: Right away, sir.
+[00:32:40.587 --> 00:32:40.987] PICARD: Come.
+[00:32:48.010 --> 00:32:48.490] PICARD: What do you want?
+[00:32:50.090 --> 00:32:52.170] CRUSHER: Here are the results from the exams you ordered, sir.
+[00:33:02.490 --> 00:33:03.770] CRUSHER: You don't care to inspect them?
+[00:33:08.170 --> 00:33:08.650] CRUSHER: Please,
+[00:33:09.450 --> 00:33:10.410] CRUSHER: are you Jean-Luc?
+[00:33:12.170 --> 00:33:12.650] PICARD: He is here.
+[00:33:13.690 --> 00:33:14.730] CRUSHER: The Jean-Luc I know?
+[00:33:15.690 --> 00:33:16.090] PICARD: And more.
+[00:33:18.090 --> 00:33:19.210] CRUSHER: The more frightens me.
+[00:33:20.250 --> 00:33:20.970] PICARD: And elates us.
+[00:33:20.970 --> 00:33:24.650] PICARD: We wish you could understand the glorious adventure ahead.
+[00:33:26.570 --> 00:33:27.450] CRUSHER: You and?
+[00:33:30.090 --> 00:33:31.210] PICARD: Soon we'll both be home.
+[00:33:40.730 --> 00:33:42.330] LOG: First officer's log, supplemental.
+[00:33:43.290 --> 00:33:47.450] LOG: On the orders of Captain Picard, we have returned to the vicinity of the energy pattern cloud.
+[00:33:48.250 --> 00:33:55.370] LOG: I am personally convinced that something from this cloud now shares the Captain's mind. But there seems to be nothing we can do,
+[00:33:55.610 --> 00:33:56.730] LOG: at least within regulations.
+[00:33:57.850 --> 00:33:59.050] LAFORGE: We're now approaching the cloud, sir.
+[00:34:00.090 --> 00:34:01.130] RIKER: Very well, Mister La Forge.
+[00:34:01.130 --> 00:34:01.690] RIKER: Bring us
+[00:34:05.130 --> 00:34:07.050] RIKER: to within ten thousand kilometres and hold us there.
+[00:34:07.283 --> 00:34:07.683] LAFORGE: Aye, sir.
+[00:34:14.643 --> 00:34:16.403] RIKER: Shall we begin the scientific tests you wanted, sir?
+[00:34:16.963 --> 00:34:18.403] PICARD: Oh, they're already underway.
+[00:34:20.083 --> 00:34:20.083] PICARD: I
+[00:34:26.883 --> 00:34:28.643] PICARD: have an announcement for the entire Bridge.
+[00:34:30.243 --> 00:34:43.923] PICARD: As many of you suspected, when our ship passed through the edge of this, it accidentally carried away a sentient being. Much like these energy patterns we're seeing here.
+[00:34:44.073 --> 00:34:44.673] PICARD: A
+[00:34:45.763 --> 00:34:55.363] PICARD: terrifying experience for any intelligent being. As if a great claw had reached down and scooped one of you from your home world. Drawn into the energy circuits of
+[00:34:55.523 --> 00:34:57.203] PICARD: this vessel, it found its way to you, Worf.
+[00:34:57.603 --> 00:35:05.523] PICARD: Frantic at being carried from its home world, and recognising you as sentient beings, it pleaded for help, but in ways you couldn't understand.
+[00:35:07.123 --> 00:35:14.323] PICARD: Desperately going from person to person, and then discovering the computer intelligence in this ship's memory circuits.
+[00:35:14.403 --> 00:35:18.403] PICARD: Oh, simplistic intelligence, but it furnished it enough
+[00:35:20.483 --> 00:35:21.283] PICARD: to slow this
+[00:35:22.803 --> 00:35:25.523] PICARD: Enterprise thing that had captured it.
+[00:35:27.443 --> 00:35:31.523] PICARD: And it very much regrets the accidental death of Engineer Singh.
+[00:35:33.283 --> 00:35:33.683] TROI: Captain,
+[00:35:36.403 --> 00:35:39.603] TROI: do you exist in combination with this entity?
+[00:35:40.803 --> 00:35:41.923] RIKER: Is it in control of you, sir?
+[00:35:42.255 --> 00:35:44.895] PICARD: Very soon after we combined we had learned much about each other.
+[00:35:46.015 --> 00:35:54.495] PICARD: A passion for exploration, for the unknown. We found we had similar dreams, and it offered your Captain a way to realise them beyond human expectations.
+[00:35:54.895 --> 00:35:57.695] RIKER: Captain, I must speak to you privately now.
+[00:35:58.655 --> 00:35:59.535] DATA: I understand.
+[00:36:00.735 --> 00:36:07.295] DATA: As an energy pattern, free of the limitations of matter, he might travel anywhere, at any velocity.
+[00:36:08.415 --> 00:36:09.948] RIKER: Captain, do you hear me?
+[00:36:09.948 --> 00:36:10.255] DATA: Sir,
+[00:36:11.055 --> 00:36:13.535] DATA: I see no way for you to journey with an energy form.
+[00:36:13.935 --> 00:36:15.375] PICARD: Isn't there?
+[00:36:18.895 --> 00:36:22.255] TROI: He's planning to beam himself and the entity into that cloud.
+[00:36:24.175 --> 00:36:26.255] PICARD: The transporter need not pattern your Captain into matter.
+[00:36:28.095 --> 00:36:33.535] PICARD: We'll beam energy only, and we will become a combined energy pattern of our life forms.
+[00:36:35.615 --> 00:36:38.975] PICARD: A resignation from this command and from Starfleet has been appropriately recorded.
+[00:36:39.135 --> 00:36:40.255] RIKER: I refuse to allow this, sir.
+[00:36:42.095 --> 00:36:45.354] PICARD: How does this resignation threaten the ship and its crew in any way?
+[00:36:45.354 --> 00:36:45.855] CRUSHER: Captain Picard,
+[00:36:45.855 --> 00:36:46.975] CRUSHER: you are now relieved from duty.
+[00:36:46.975 --> 00:36:48.975] CRUSHER: I judge you to be disabled and mentally incapacitated.
+[00:36:49.125 --> 00:36:49.725] RIKER: Security!
+[00:36:51.354 --> 00:36:52.354] RIKER: Red Alert!
+[00:36:55.812 --> 00:36:57.212] RIKER: Restrain the Captain!
+[00:37:02.498 --> 00:37:03.898] TASHA: Where is he?
+[00:37:09.185 --> 00:37:10.985] TROI: This is blinding me.
+[00:37:18.100 --> 00:37:18.700] WORF: Captain!
+[00:37:20.329 --> 00:37:23.329] WORF: I'll help you if you'll let me.
+[00:37:35.931 --> 00:37:37.731] RIKER: Someone restrain the Captain!
+[00:37:44.996 --> 00:37:48.356] LOG: First Officer's log, supplemental.
+[00:37:49.316 --> 00:37:51.636] LOG: More than an hour has passed since the Captain beamed out,
+[00:37:51.956 --> 00:37:52.516] LOG: energy only.
+[00:37:53.316 --> 00:37:55.956] LOG: Every effort has been made to determine his whereabouts.
+[00:37:56.116 --> 00:37:58.596] TASHA: The Transporter Chief has no idea what the coordinates were, sir.
+[00:37:59.396 --> 00:38:00.676] LAFORGE: So he's just floating around out there?
+[00:38:01.156 --> 00:38:02.116] LAFORGE: How can we settle for that?
+[00:38:03.076 --> 00:38:04.036] RIKER: Give me a choice then.
+[00:38:04.836 --> 00:38:05.796] DATA: Still no readings,
+[00:38:06.036 --> 00:38:06.916] DATA: no sign of anything.
+[00:38:20.196 --> 00:38:20.996] RIKER: Mister La Forge,
+[00:38:23.236 --> 00:38:24.756] RIKER: it's time to set a course for Parliament.
+[00:38:25.476 --> 00:38:25.956] RIKER: Warp eight.
+[00:38:28.916 --> 00:38:30.516] LAFORGE: We're really leaving him?
+[00:38:30.516 --> 00:38:30.916] TROI: Commander,
+[00:38:31.956 --> 00:38:32.356] TROI: wait!
+[00:38:32.356 --> 00:38:32.436] TROI: It's
+[00:38:34.596 --> 00:38:35.156] TROI: the Captain.
+[00:38:35.156 --> 00:38:38.196] TROI: But only the Captain.
+[00:38:38.676 --> 00:38:39.796] TROI: He's out there alone!
+[00:38:41.036 --> 00:38:43.196] RIKER: The entity, has it abandoned him?
+[00:38:44.476 --> 00:38:44.716] TROI: No,
+[00:38:46.556 --> 00:38:48.876] TROI: but the combination wasn't possible out there.
+[00:38:51.196 --> 00:38:52.876] TROI: He's in trouble, sir. We have to beam him back.
+[00:38:53.436 --> 00:38:54.396] RIKER: Beam him back as what?
+[00:38:54.396 --> 00:38:55.996] RIKER: He's nothing but energy now.
+[00:38:55.996 --> 00:38:56.316] DATA: Sir,
+[00:38:57.116 --> 00:38:58.956] DATA: the entity was caught in the ship's circuitry.
+[00:38:59.436 --> 00:39:01.676] DATA: The Captain might try to get in the same way if he's in trouble.
+[00:39:02.556 --> 00:39:04.316] RIKER: Bring us in closer, La Forge.
+[00:39:04.316 --> 00:39:05.196] LAFORGE: Moving in, sir,
+[00:39:05.356 --> 00:39:06.396] LAFORGE: but where?
+[00:39:06.396 --> 00:39:07.676] RIKER: There's no way to know.
+[00:39:09.916 --> 00:39:11.356] RIKER: Let's hope he can come part way himself.
+[00:39:19.756 --> 00:39:22.476] RIKER: Troi, is there any way you can get a message to him?
+[00:39:23.116 --> 00:39:23.996] TROI: I wish I could.
+[00:39:25.036 --> 00:39:29.436] LAFORGE: Sensors monitoring the perimeter, ship's circuitry, sir.
+[00:39:30.876 --> 00:39:31.356] LAFORGE: Nothing.
+[00:39:32.236 --> 00:39:33.836] RIKER: Bring us right into the edge of it, La Forge.
+[00:39:38.476 --> 00:39:41.996] LAFORGE: Aye, sir.
+[00:39:41.996 --> 00:39:44.476] WORF: Sir? On my sensor controls.
+[00:39:45.676 --> 00:39:46.316] TROI: There's something's here.
+[00:39:47.356 --> 00:39:47.836] TROI: I feel it.
+[00:39:48.876 --> 00:39:51.516] DATA: Just as before, going to Worf first.
+[00:39:53.916 --> 00:39:55.916] LAFORGE: Something crazy on my panel.
+[00:39:57.356 --> 00:39:58.076] LAFORGE: Commander Riker.
+[00:39:58.076 --> 00:39:58.156] LAFORGE: Static?
+[00:39:58.156 --> 00:39:58.236] RIKER: P
+[00:40:00.156 --> 00:40:00.156] RIKER: for
+[00:40:03.996 --> 00:40:03.996] RIKER: Picard!
+[00:40:05.596 --> 00:40:06.636] DATA: He's in the ship's circuitry.
+[00:40:08.396 --> 00:40:09.596] DATA: Come to the Transporter room, please.
+[00:40:10.787 --> 00:40:11.507] DATA: There might be a way, sir.
+[00:40:12.147 --> 00:40:12.467] DATA: Hurry!
+[00:40:20.147 --> 00:40:23.267] RIKER: Is it a wild theory, Data?
+[00:40:23.827 --> 00:40:26.067] DATA: I knew we had to have the Captain's physical pattern here, sir.
+[00:40:26.307 --> 00:40:27.587] DATA: He was the last one to beam out.
+[00:40:27.987 --> 00:40:29.107] RIKER: Is what you're thinking possible?
+[00:40:29.747 --> 00:40:30.787] DATA: Unknown at this time, sir.
+[00:40:31.427 --> 00:40:33.667] DATA: I hope the Captain remembers his physical pattern is here.
+[00:40:33.987 --> 00:40:37.587] DATA: If he has, his energy has moved into the transporter relays by now.
+[00:40:37.667 --> 00:40:39.187] RIKER: I wish we had some sign that he's in here.
+[00:40:41.587 --> 00:40:42.867] RIKER: I guess we have no choice but to risk it.
+[00:40:43.587 --> 00:40:44.387] DATA: Energising, sir.
+[00:40:46.787 --> 00:40:48.787] PICARD: What
+[00:41:09.667 --> 00:41:15.187] PICARD: the devil am I doing here?
+[00:41:16.707 --> 00:41:18.027] RIKER: Sounds like our Captain.
+[00:41:18.487 --> 00:41:19.587] TROI: But confused.
+[00:41:20.227 --> 00:41:22.387] TROI: This Picard pattern was formed before he went out there.
+[00:41:26.707 --> 00:41:27.827] PICARD: What's happening to me, Number One?
+[00:41:29.427 --> 00:41:32.547] PICARD: I was preparing to beam out to
+[00:41:34.067 --> 00:41:37.827] PICARD: somewhere. And I remember there was talk of an entity?
+[00:41:38.619 --> 00:41:40.219] PICARD: But it all seems so vague.
+[00:41:40.859 --> 00:41:43.099] DATA: I believe the Captain is now his separate self, sir.
+[00:41:43.739 --> 00:41:45.499] DATA: Much of what happened is naturally missing.
+[00:41:46.059 --> 00:41:47.259] PICARD: What are you talking about, Data?
+[00:41:47.979 --> 00:41:49.179] PICARD: Is this still Sherlock Holmes?
+[00:41:51.099 --> 00:41:51.979] DATA: Indubitably, sir,
+[00:41:53.019 --> 00:41:53.739] DATA: Indubitably.
+[00:41:55.339 --> 00:41:56.779] PICARD: Well, at least you got rid of the damn pipe.
+[00:41:57.899 --> 00:42:00.059] RIKER: Doctor Crusher asked me to steer you past Sickbay.
+[00:42:00.539 --> 00:42:01.579] RIKER: She said you've been looking very tired.
+[00:42:03.099 --> 00:42:03.499] TASHA: Captain!
+[00:42:03.819 --> 00:42:04.379] PICARD: Yes, Lieutenant.
+[00:42:05.259 --> 00:42:12.219] TASHA: Sorry, Commander, but Security Team Two reports they've discovered a puddle of blood outside the Selay Quarters and they can't find one of the delegates and so
+[00:42:12.219 --> 00:42:14.539] RIKER: Lieutenant. This couldn't have waited a moment?
+[00:42:16.219 --> 00:42:16.939] TASHA: It's good to see you, sir.
+[00:42:18.219 --> 00:42:24.379] TASHA: The problem is that one of the cooks has just been asked to broil reptile for the Anticans, and it looks like the Selay delegate.
+[00:42:26.699 --> 00:42:30.459] PICARD: Riker, with the peace delegates and all,
+[00:42:31.899 --> 00:42:32.859] PICARD: I think I do need a rest.
+[00:42:33.899 --> 00:42:34.779] PICARD: Take charge, Number One.
+[00:42:45.000 --> 00:43:05.000] [music]
+[00:43:06.000 --> 00:43:23.000] [music]
+[00:43:24.000 --> 00:43:35.000] [music]

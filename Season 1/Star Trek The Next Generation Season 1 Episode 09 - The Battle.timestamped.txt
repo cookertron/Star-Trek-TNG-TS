@@ -1,0 +1,755 @@
+[00:00:01.760 --> 00:00:06.400] LOG: Captain's log, stardate 41723.9.
+[00:00:07.200 --> 00:00:14.320] LOG: In response to a Starfleet order we are in the Xendi Sabu star system, having rendezvoused with a Ferengi vessel which has requested a meeting.
+[00:00:15.280 --> 00:00:22.720] LOG: Although we arrived here and made appropriate signals to the Ferengi three days ago, they have so far responded only with the message, stand by Enterprise.
+[00:00:27.760 --> 00:00:28.640] CRUSHER: You sent for me, sir?
+[00:00:30.640 --> 00:00:31.200] PICARD: Yes, Doctor.
+[00:00:32.000 --> 00:00:32.400] PICARD: Sit down.
+[00:00:37.040 --> 00:00:39.440] PICARD: Look, this perhaps
+[00:00:41.200 --> 00:00:42.960] PICARD: may be nothings, but I've been feeling
+[00:00:44.480 --> 00:00:45.680] PICARD: a bit odd of late.
+[00:00:47.280 --> 00:00:49.600] PICARD: Fatigued. And
+[00:00:51.120 --> 00:00:52.320] PICARD: now I've got this damned headache.
+[00:00:52.800 --> 00:00:53.280] CRUSHER: A what?
+[00:00:54.720 --> 00:00:55.440] PICARD: Headache. Headache.
+[00:00:55.600 --> 00:00:56.560] PICARD: Surely you know what a headache is.
+[00:00:57.440 --> 00:01:00.400] CRUSHER: Of course. But I don't often encounter them.
+[00:01:02.720 --> 00:01:04.240] PICARD: The reason is obvious, of course.
+[00:01:04.880 --> 00:01:05.920] PICARD: What are the Ferengi up to?
+[00:01:07.120 --> 00:01:08.400] PICARD: Stand by, Enterprise.
+[00:01:08.400 --> 00:01:09.200] PICARD: Stand by for what?
+[00:01:10.160 --> 00:01:11.360] CRUSHER: I don't see a thing wrong.
+[00:01:11.440 --> 00:01:12.080] PICARD: No, neither can I.
+[00:01:12.640 --> 00:01:15.360] PICARD: Unless they're baiting some kind of trap.
+[00:01:16.000 --> 00:01:16.720] CRUSHER: With your head.
+[00:01:18.960 --> 00:01:22.560] CRUSHER: I see nothing physically wrong, but I want to run some additional scans in Sickbay.
+[00:01:23.280 --> 00:01:24.580] PICARD: Doctor, all I've got is
+[00:01:24.580 --> 00:01:26.400] CRUSHER: Is an order to report to Sickbay.
+[00:01:27.087 --> 00:01:30.504] CRUSHER: From the one person aboard this ship who can give you an order.
+[00:01:30.504 --> 00:01:30.767] RIKER: Captain
+[00:01:30.767 --> 00:01:33.327] RIKER: from First Officer. They're finally sending a message.
+[00:01:34.367 --> 00:01:35.087] PICARD: On my way, Number One.
+[00:01:36.927 --> 00:01:38.207] PICARD: Sorry, Doctor. Duty calls.
+[00:01:42.127 --> 00:01:43.087] RIKER: They're prepared to talk, sir.
+[00:01:43.647 --> 00:01:45.247] PICARD: Have they given any hint of what they've been waiting for?
+[00:01:45.487 --> 00:01:46.207] TASHA: Negative, Captain.
+[00:01:46.687 --> 00:01:49.567] TASHA: They've identified their Captain as Bok. DaiMon Bok.
+[00:01:49.967 --> 00:01:51.007] LAFORGE: You'll be able to see him now, sir.
+[00:01:51.407 --> 00:01:52.767] LAFORGE: They're willing to communicate on visual.
+[00:01:52.847 --> 00:01:53.967] PICARD: Open hailing frequencies.
+[00:01:55.327 --> 00:01:56.287] TASHA: Hailing frequencies open, sir.
+[00:01:56.607 --> 00:01:57.247] PICARD: Ferengi vessel.
+[00:01:57.247 --> 00:01:59.167] PICARD: This is Captain Jean-Luc Picard of the Enterprise.
+[00:01:59.887 --> 00:02:01.087] PICARD: We are transmitting visually.
+[00:02:03.887 --> 00:02:06.287] BOK: Is this the Captain Picard?
+[00:02:07.487 --> 00:02:08.287] PICARD: Do we know each other?
+[00:02:08.767 --> 00:02:09.887] BOK: I know you, Picard.
+[00:02:11.327 --> 00:02:12.447] PICARD: Then you have the advantage.
+[00:02:13.327 --> 00:02:14.127] PICARD: Is this Bok?
+[00:02:14.927 --> 00:02:17.807] BOK: I am Bok, DaiMon of the Ferengi.
+[00:02:19.007 --> 00:02:23.647] BOK: I have asked you here to discuss a mutual problem, Captain.
+[00:02:24.367 --> 00:02:25.647] PICARD: What problem is that, DaiMon Bok?
+[00:02:25.807 --> 00:02:30.127] BOK: I insist on speaking of that matter in person.
+[00:02:31.407 --> 00:02:34.527] BOK: Shall we meet on your vessel or mine?
+[00:02:39.087 --> 00:02:40.207] TASHA: Hailing frequencies closed.
+[00:02:41.807 --> 00:02:45.247] TROI: Captain, I sense considerable deception on Bok's part. And danger.
+[00:02:45.727 --> 00:02:46.527] RIKER: Then we should meet him here.
+[00:02:46.927 --> 00:02:47.807] RIKER: Keep him under our control.
+[00:02:50.527 --> 00:02:51.007] TASHA: Now open, sir.
+[00:02:52.767 --> 00:02:54.287] PICARD: I appreciate your offer, DaiMon Bok.
+[00:02:54.447 --> 00:02:56.607] PICARD: We would like you to be our guest here.
+[00:02:56.607 --> 00:02:57.327] BOK: As you wish,
+[00:02:57.444 --> 00:02:57.844] BOK: Picard.
+[00:02:59.124 --> 00:03:03.684] BOK: Perhaps this will begin a new era of cooperation for both our peoples.
+[00:03:04.724 --> 00:03:06.244] BOK: In one Earth hour, then?
+[00:03:06.884 --> 00:03:08.004] PICARD: In one hour, DaiMon Bok.
+[00:03:09.524 --> 00:03:10.164] PICARD: End transmission.
+[00:03:12.884 --> 00:03:14.804] WORF: I can't believe they're coming here.
+[00:03:17.924 --> 00:03:18.644] PICARD: They did agree a bit easily.
+[00:03:18.794 --> 00:03:19.394] PICARD: Well,
+[00:03:20.484 --> 00:03:21.124] PICARD: in one hour we shall
+[00:03:26.084 --> 00:03:30.084] PICARD: know why.
+[00:03:47.444 --> 00:03:50.164] PICARD: Space, the final frontier.
+[00:03:52.084 --> 00:03:54.964] PICARD: These are the voyagers of the Starship Enterprise.
+[00:03:56.004 --> 00:03:59.764] PICARD: Its continuing mission to explore strange new worlds,
+[00:04:01.604 --> 00:04:04.324] PICARD: to seek out new life and new civilizations,
+[00:04:06.004 --> 00:04:08.884] PICARD: to boldly go where no one has gone before.
+[00:04:22.494 --> 00:04:22.574] PICARD: Are you
+[00:05:13.534 --> 00:05:16.094] PICARD: always accustomed to getting your way, Doctor?
+[00:05:16.094 --> 00:05:17.694] CRUSHER: Only when my way makes sense, Captain.
+[00:05:18.574 --> 00:05:20.654] CRUSHER: There are still forty minutes before the Ferengi beam over.
+[00:05:21.134 --> 00:05:22.494] CRUSHER: I'll have these scans done in ten.
+[00:05:22.974 --> 00:05:25.294] PICARD: It seems an awful lot of effort for something as simple as a headache.
+[00:05:26.014 --> 00:05:26.654] CRUSHER: As simple?
+[00:05:26.974 --> 00:05:29.294] CRUSHER: You should not have a headache unless there's something wrong, sir. It
+[00:05:30.334 --> 00:05:32.094] CRUSHER: may be true that headaches were once quite common, but
+[00:05:32.494 --> 00:05:39.694] CRUSHER: that was in the days before the brain was charted, before we understood the nature of pain. When we were suffering from such things as the common cold.
+[00:05:40.174 --> 00:05:41.374] PICARD: So what's the cause of my headache?
+[00:05:41.374 --> 00:05:41.374] CRUSHER: I
+[00:05:42.894 --> 00:05:44.254] CRUSHER: haven't the slightest idea.
+[00:05:49.934 --> 00:05:50.334] CRUSHER: Feel better.
+[00:05:50.484 --> 00:05:51.084] PICARD: The
+[00:05:53.868 --> 00:05:54.508] PICARD: pain's gone.
+[00:05:55.148 --> 00:05:56.028] CRUSHER: Medical fakery.
+[00:05:56.268 --> 00:05:57.788] CRUSHER: The pain is actually still there.
+[00:05:58.108 --> 00:05:59.068] CRUSHER: It's just cloaked.
+[00:06:01.948 --> 00:06:03.308] CRUSHER: I'll want further exams.
+[00:06:03.708 --> 00:06:04.188] PICARD: Doctor!
+[00:06:04.268 --> 00:06:06.268] CRUSHER: When the Ferengi matter is settled.
+[00:06:10.348 --> 00:06:11.868] WESLEY: Commander, you'll soon be getting an intruder alert.
+[00:06:12.108 --> 00:06:12.908] RIKER: What? Wesley,
+[00:06:12.908 --> 00:06:14.108] RIKER: if you've something to report.
+[00:06:14.188 --> 00:06:16.983] WESLEY: If you'll scan heading four four mark one six three, Lieutenant, you'll find
+[00:06:16.983 --> 00:06:17.628] TASHA: Intruder alert, sir.
+[00:06:18.908 --> 00:06:19.788] LAFORGE: I've got something, sir.
+[00:06:22.108 --> 00:06:23.548] WESLEY: It's an old style starship,
+[00:06:23.708 --> 00:06:25.788] WESLEY: Constellation Class, heading this way under impulse power, sir.
+[00:06:26.508 --> 00:06:27.068] RIKER: Says who?
+[00:06:29.308 --> 00:06:31.068] PICARD: Ensign, answer the First Officer's question.
+[00:06:33.068 --> 00:06:34.668] WESLEY: Says the long distance sensors, sir.
+[00:06:34.988 --> 00:06:37.468] WESLEY: I was in Engineering, playing around with boosting sensor output.
+[00:06:37.948 --> 00:06:38.428] DATA: Boosting it?
+[00:06:39.308 --> 00:06:39.548] DATA: How?
+[00:06:42.428 --> 00:06:43.388] DATA: We will discuss this later.
+[00:06:44.188 --> 00:06:45.148] LAFORGE: I read it now, sir,
+[00:06:45.148 --> 00:06:48.268] LAFORGE: as a Constellation class starship heading this way under impulse power.
+[00:06:49.628 --> 00:06:50.748] LAFORGE: Sending no call letters, sir.
+[00:06:51.228 --> 00:06:52.188] PICARD: The correct procedure,
+[00:06:57.068 --> 00:06:58.588] RIKER: What's wrong, sir?
+[00:06:58.588 --> 00:06:59.148] PICARD: Oh, it's nothing.
+[00:06:59.628 --> 00:07:01.788] PICARD: It's just a, just a mild headache.
+[00:07:04.188 --> 00:07:05.468] PICARD: The correct procedure, Ensign,
+[00:07:05.468 --> 00:07:08.028] PICARD: would have been to signal the Bridge of your finding immediately.
+[00:07:08.588 --> 00:07:08.908] WESLEY: Yes, sir.
+[00:07:09.228 --> 00:07:13.308] RIKER: Bringing it here personally, perhaps with the idea of being on hand for the Ferengi beam over,
+[00:07:13.868 --> 00:07:16.588] RIKER: might have imperiled this vessel had it been something hostile approaching.
+[00:07:17.228 --> 00:07:17.548] WESLEY: Yes, sir.
+[00:07:18.108 --> 00:07:20.908] WORF: We are receiving no signal at all from the approaching starship, sir.
+[00:07:23.622 --> 00:07:24.102] DATA: Time, sir.
+[00:07:25.702 --> 00:07:26.022] PICARD: Time?
+[00:07:27.702 --> 00:07:29.302] PICARD: Oh, for the Ferengi to beam over.
+[00:07:30.582 --> 00:07:33.542] PICARD: Do you see any problems connected with this old starship coming in, Number One?
+[00:07:33.862 --> 00:07:35.702] RIKER: Suggest it would be safer, sir, to have the Ferengi here
+[00:07:35.702 --> 00:07:36.822] RIKER: whatever happenings.
+[00:07:36.822 --> 00:07:37.302] PICARD: Concur.
+[00:07:37.622 --> 00:07:38.262] PICARD: Stand by.
+[00:07:38.742 --> 00:07:39.702] TASHA: Hailing frequencies open,
+[00:07:43.062 --> 00:07:43.062] TASHA: sir.
+[00:07:48.502 --> 00:07:50.502] PICARD: Welcome you in
+[00:07:53.942 --> 00:07:55.302] PICARD: peace to the Enterprise, DaiMon Bok.
+[00:07:55.702 --> 00:07:57.862] BOK: It is our pleasure, Captain Picard.
+[00:07:58.502 --> 00:08:01.302] BOK: Might I introduce my First Officer, Kazago, and
+[00:08:02.262 --> 00:08:03.382] BOK: my Second, Rata?
+[00:08:04.262 --> 00:08:07.062] PICARD: This is my First Officer, Commander William Riker.
+[00:08:08.182 --> 00:08:09.542] PICARD: Second in command, Data.
+[00:08:10.342 --> 00:08:11.062] PICARD: Counsellor Troi.
+[00:08:11.222 --> 00:08:13.782] BOK: We have heard that you use females.
+[00:08:15.142 --> 00:08:16.742] BOK: Clothed females.
+[00:08:17.462 --> 00:08:18.902] BOK: Most interesting.
+[00:08:20.342 --> 00:08:20.982] RIKER: They are that, sir.
+[00:08:21.782 --> 00:08:24.102] KAZAGO: And the android was mentioned
+[00:08:24.102 --> 00:08:25.782] KAZAGO: too. What is its price?
+[00:08:25.782 --> 00:08:28.182] KAZAGO: We should like to purchase it.
+[00:08:28.902 --> 00:08:29.942] PICARD: He is not for sale.
+[00:08:30.902 --> 00:08:32.022] PICARD: Commander Data is, um,
+[00:08:33.942 --> 00:08:34.760] PICARD: is, um
+[00:08:34.760 --> 00:08:37.622] RIKER: Is second-hand merchandise. You wouldn't want him.
+[00:08:38.422 --> 00:08:39.222] DATA: Second-hand, sir?
+[00:08:42.102 --> 00:08:43.382] DATA: Oh, of course.
+[00:08:44.022 --> 00:08:44.822] DATA: A human joke.
+[00:08:46.102 --> 00:08:46.982] TASHA: Excuse, Captain,
+[00:08:47.542 --> 00:08:49.302] TASHA: but the unidentified starship is coming in.
+[00:08:49.702 --> 00:08:50.822] TASHA: Still no signal at all.
+[00:08:51.302 --> 00:08:52.342] BOK: Think nothing of it.
+[00:08:53.711 --> 00:08:54.991] BOK: It is under our control.
+[00:08:55.231 --> 00:08:56.831] PICARD: One of our starships under your control?
+[00:08:57.551 --> 00:08:59.151] BOK: Do not be alarmed, Captain.
+[00:09:00.591 --> 00:09:06.191] BOK: It is a gift from us. With which we honour the Hero of Maxia.
+[00:09:07.871 --> 00:09:08.111] PICARD: Who?
+[00:09:08.671 --> 00:09:09.391] BOK: Why you, Picard,
+[00:09:09.391 --> 00:09:10.031] BOK: of course.
+[00:09:12.191 --> 00:09:15.071] BOK: Do you not remember the Battle of Maxia?
+[00:09:15.711 --> 00:09:17.631] PICARD: I'm sorry, I do not remember it, DaiMon Bok.
+[00:09:18.751 --> 00:09:19.271] PICARD: Data?
+[00:09:19.271 --> 00:09:19.791] DATA: Captain,
+[00:09:20.511 --> 00:09:26.831] DATA: he may refer to an incident which occurred nine years ago in the Maxia Zeta star system, in which an unidentified starship
+[00:09:26.831 --> 00:09:27.871] BOK: Unidentified?
+[00:09:30.671 --> 00:09:33.293] BOK: That fine vessel was Ferengi.
+[00:09:33.293 --> 00:09:35.391] DATA: Which you destroyed, sir.
+[00:09:35.541 --> 00:09:36.141] PICARD: The
+[00:09:38.031 --> 00:09:38.991] PICARD: Battle of Maxia.
+[00:09:40.111 --> 00:09:42.511] PICARD: I've never heard it referred to so dramatically before.
+[00:09:44.431 --> 00:09:45.871] PICARD: My sincere regrets, Bok,
+[00:09:45.951 --> 00:09:48.911] PICARD: but that vessel refused to identify itself.
+[00:09:48.911 --> 00:09:50.111] PICARD: It simply attacked us.
+[00:09:50.111 --> 00:09:51.311] PICARD: We defended ourselves.
+[00:09:52.111 --> 00:09:55.631] BOK: Such mistakes happen in space.
+[00:09:56.031 --> 00:09:57.151] DATA: Hardly a mistake, sir.
+[00:09:57.871 --> 00:09:59.951] DATA: Your report shows that it deliberately attacked.
+[00:09:59.951 --> 00:10:01.951] TASHA: Do you want the arriving vessel on main viewer, sir?
+[00:10:02.511 --> 00:10:03.951] TASHA: It is only a thousand kilometres away now.
+[00:10:04.431 --> 00:10:05.631] BOK: Put it on your viewer.
+[00:10:06.351 --> 00:10:06.831] PICARD: Main viewer.
+[00:10:07.951 --> 00:10:09.391] BOK: There is no one aboard it.
+[00:10:10.031 --> 00:10:13.071] RATA: The log should be downloaded into the Enterprise's records.
+[00:10:13.071 --> 00:10:13.871] RATA: At a price.
+[00:10:13.871 --> 00:10:16.111] BOK: No price!
+[00:10:16.271 --> 00:10:18.431] KAZAGO: No price?
+[00:10:19.791 --> 00:10:20.831] PICARD: For what purpose?
+[00:10:21.679 --> 00:10:21.919] PICARD: What
+[00:10:22.079 --> 00:10:22.159] TROI: I
+[00:10:28.479 --> 00:10:29.759] TROI: just felt something too, Captain.
+[00:10:30.479 --> 00:10:32.959] BOK: Perhaps it is his conscience?
+[00:10:34.079 --> 00:10:34.959] RIKER: Bridge to Sickbay.
+[00:10:35.519 --> 00:10:36.639] PICARD: No, no. I'm fine
+[00:10:36.639 --> 00:10:40.959] TROI: It felt as if it were something from your past.
+[00:10:42.799 --> 00:10:43.039] PICARD: It's right.
+[00:10:43.439 --> 00:10:46.719] PICARD: I'm fine.
+[00:10:46.799 --> 00:10:47.839] PICARD: What is this all about?
+[00:10:48.559 --> 00:10:51.999] BOK: It is about the battle I mentioned, Captain.
+[00:10:53.119 --> 00:10:55.439] BOK: A gift, in honour of that occasion.
+[00:10:56.959 --> 00:10:59.199] BOK: Look at that ship closely.
+[00:10:59.999 --> 00:11:00.719] PICARD: Magnify please,
+[00:11:01.199 --> 00:11:01.359] PICARD: Lieutenant La Forge.
+[00:11:03.119 --> 00:11:03.226] LAFORGE: Aye, sir.
+[00:11:03.226 --> 00:11:03.279] PICARD: Why,
+[00:11:13.519 --> 00:11:14.319] PICARD: it's the Stargazer.
+[00:11:14.319 --> 00:11:16.719] PICARD: It's my old ship.
+[00:11:20.639 --> 00:11:21.519] PICARD: How did you find it?
+[00:11:22.079 --> 00:11:27.359] BOK: It was a derelict, adrift in space on the far side of this star system.
+[00:11:27.839 --> 00:11:31.199] BOK: How it got there is none of my business, Captain.
+[00:11:32.399 --> 00:11:37.359] BOK: But now, that vessel is yours, if you wish to have it.
+[00:11:39.759 --> 00:11:42.079] KAZAGO: We are not selling it to him?
+[00:11:43.119 --> 00:11:46.852] BOK: Consider it an act of friendship.
+[00:11:46.852 --> 00:11:48.719] RATA: At no cost?
+[00:11:48.719 --> 00:11:48.719] RATA: Oh, ugly.
+[00:11:51.519 --> 00:11:53.119] RATA: Very ugly.
+[00:11:59.634 --> 00:12:00.754] LOG: Captain's log, supplemental.
+[00:12:00.834 --> 00:12:06.594] LOG: Bok and his officers have returned to their vessel, inviting us now to officially take possession of the Stargazer.
+[00:12:07.314 --> 00:12:07.794] CRUSHER: Like before?
+[00:12:08.354 --> 00:12:09.874] PICARD: No. It hit with more impact.
+[00:12:10.354 --> 00:12:10.594] TROI: Hit?
+[00:12:12.034 --> 00:12:13.874] TROI: I'm sorry, but anything could be important.
+[00:12:14.274 --> 00:12:15.874] CRUSHER: You said you felt something yourself.
+[00:12:16.434 --> 00:12:17.154] TROI: I believe so.
+[00:12:17.634 --> 00:12:21.234] TROI: Like a thought, but rather mechanical in nature.
+[00:12:21.554 --> 00:12:22.834] PICARD: Are you sure it wasn't one of my thoughts?
+[00:12:23.714 --> 00:12:27.474] PICARD: At that moment, I was remembering being at the helm of the Stargazer.
+[00:12:28.034 --> 00:12:29.074] PICARD: A manoeuvre was being made.
+[00:12:30.354 --> 00:12:32.594] PICARD: We were hit. Something's burning.
+[00:12:34.434 --> 00:12:35.234] PICARD: I can smell smoke.
+[00:12:35.474 --> 00:12:35.954] PICARD: Can you smell it?
+[00:12:38.114 --> 00:12:39.394] CRUSHER: There's nothing burning, Jean-Luc.
+[00:12:39.874 --> 00:12:44.114] PICARD: That was just part of my memory.
+[00:12:46.274 --> 00:12:47.554] TROI: Memory or nightmare?
+[00:12:49.394 --> 00:12:50.834] PICARD: Well, it was strong, whatever it was.
+[00:12:50.984 --> 00:12:51.584] PICARD: Are
+[00:12:52.594 --> 00:12:53.314] PICARD: you ready, Number One.
+[00:12:53.474 --> 00:12:54.194] RIKER: Staff's waiting, if
+[00:12:54.274 --> 00:12:54.594] RIKER: Doctor
+[00:12:54.594 --> 00:12:55.234] RIKER: Crusher approves.
+[00:12:56.034 --> 00:12:56.994] CRUSHER: I'll do better than that.
+[00:12:57.234 --> 00:12:58.194] CRUSHER: I'll go along.
+[00:13:02.034 --> 00:13:08.594] PICARD: We were traveling at warp two through the Maxia Zeta star system when this unidentified starship suddenly appeared and fired on us, point-blank range.
+[00:13:09.154 --> 00:13:09.874] RIKER: Where did it come from?
+[00:13:10.514 --> 00:13:13.474] PICARD: It must have been lying in some deep moon crater.
+[00:13:14.514 --> 00:13:15.954] PICARD: First attack damaged the shields.
+[00:13:15.954 --> 00:13:18.114] PICARD: In the confusion, they hit us a second time.
+[00:13:18.194 --> 00:13:19.154] TASHA: No clue who they were?
+[00:13:19.554 --> 00:13:20.274] PICARD: No names,
+[00:13:20.354 --> 00:13:20.834] PICARD: no reason.
+[00:13:21.264 --> 00:13:22.464] PICARD: Can you identify them, Vigo?
+[00:13:22.464 --> 00:13:24.464] PICARD: If they come in a second time with our shields damaged
+[00:13:25.664 --> 00:13:26.864] TROI: Sir? Who's Vigo?
+[00:13:27.264 --> 00:13:28.784] PICARD: He's my weapons officer on the Stargazer.
+[00:13:34.224 --> 00:13:35.824] PICARD: I'm getting quite caught up in this.
+[00:13:37.504 --> 00:13:38.544] RIKER: Your shields were failing, sir.
+[00:13:40.144 --> 00:13:45.104] PICARD: I improvised. With the enemy vessel coming in for the kill,
+[00:13:45.584 --> 00:13:49.453] PICARD: I ordered a sensor bearing, and when it went into the return arc
+[00:13:49.453 --> 00:13:53.024] DATA: You performed what Starfleet textbooks now refer to as the Picard Manoeuvre.
+[00:13:53.024 --> 00:13:55.344] PICARD: Well, I did what any good helmsman would have done.
+[00:13:55.344 --> 00:14:00.544] PICARD: I dropped into high warp, stopped right off the enemy vessel's bow and fired with everything I had.
+[00:14:00.544 --> 00:14:05.744] RIKER: And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+[00:14:06.064 --> 00:14:07.744] PICARD: And our attacker fired on the wrong one.
+[00:14:08.544 --> 00:14:10.384] RIKER: I did what any good helmsman could have done.
+[00:14:11.184 --> 00:14:12.064] RIKER: You did it first, sir.
+[00:14:12.464 --> 00:14:14.304] PICARD: It was a save our skins manoeuvre.
+[00:14:16.864 --> 00:14:17.504] PICARD: We were finished.
+[00:14:18.064 --> 00:14:18.624] PICARD: On fire.
+[00:14:19.184 --> 00:14:20.224] PICARD: We had to abandon ship.
+[00:14:20.224 --> 00:14:24.864] PICARD: We limped through space in shuttlecraft for weeks before we were picked up.
+[00:14:27.184 --> 00:14:30.404] PICARD: I haven't thought about this for years.
+[00:14:30.404 --> 00:14:30.864] DATA: Sir,
+[00:14:31.424 --> 00:14:34.544] DATA: the Ferengi are standing by for us to take possession of the Stargazer.
+[00:14:35.664 --> 00:14:36.624] PICARD: I want to go over to her.
+[00:14:37.264 --> 00:14:37.984] RIKER: I understand, sir.
+[00:14:39.264 --> 00:14:41.264] RIKER: As soon as my people have made certain she's safe.
+[00:14:42.384 --> 00:14:44.384] CRUSHER: And after I have another look at you, Captain.
+[00:15:16.285 --> 00:15:24.445] DATA: USS Stargazer. Constellation Class. Starfleet Registry NCC 2893.
+[00:15:28.845 --> 00:15:30.605] LAFORGE: I activated the emergency power cells.
+[00:15:31.405 --> 00:15:32.925] LAFORGE: Amazing they still work.
+[00:15:33.565 --> 00:15:33.565] WORF: The
+[00:15:35.965 --> 00:15:37.085] WORF: rest of the ship is clear of
+[00:15:37.085 --> 00:15:38.125] WORF: surprises, Lieutenant Yar.
+[00:15:39.245 --> 00:15:42.045] LAFORGE: I read about this ship at the Academy,
+[00:15:42.045 --> 00:15:43.565] LAFORGE: I never dreamed I'd ever be on her.
+[00:15:45.405 --> 00:15:47.005] TASHA: Yar to Enterprise. All clear, sir.
+[00:16:04.605 --> 00:16:06.925] PICARD: Hello, old friend.
+[00:16:12.056 --> 00:16:13.016] DATA: You'll
+[00:16:27.096 --> 00:16:28.376] DATA: find this most intriguing, sir.
+[00:16:29.256 --> 00:16:29.896] PICARD: What did you find, Data?
+[00:16:30.856 --> 00:16:33.016] DATA: The last entry dated nine years ago, sir.
+[00:16:33.416 --> 00:16:33.896] DATA: By you.
+[00:16:36.136 --> 00:16:37.816] DATA: We are forced to abandon our starship.
+[00:16:38.936 --> 00:16:40.536] DATA: May she find her way without us.
+[00:16:42.136 --> 00:16:42.936] DATA: Apparently she did, sir.
+[00:16:48.056 --> 00:16:49.176] CRUSHER: How do you feel, Captain?
+[00:16:49.496 --> 00:16:50.776] PICARD: Oh, I'm fine, Doctor.
+[00:16:51.576 --> 00:16:55.256] PICARD: Lieutenant Yar, run a structural analysis on the Stargazer for an impulse tow.
+[00:16:55.896 --> 00:16:58.856] PICARD: Data, download all computers to the Enterprise and file.
+[00:17:01.256 --> 00:17:03.256] PICARD: I'm going to look at my old cabin.
+[00:17:24.696 --> 00:17:29.256] BOK: Try this, Hero of Maxia.
+[00:17:29.256 --> 00:17:29.256] CRUSHER: Captain?
+[00:17:42.554 --> 00:17:43.434] CRUSHER: Another headache?
+[00:17:44.154 --> 00:17:45.274] CRUSHER: This really worries me.
+[00:17:45.354 --> 00:17:46.874] CRUSHER: I want you back on the Enterprise.
+[00:17:46.874 --> 00:17:47.514] PICARD: But my things
+[00:17:47.994 --> 00:17:50.074] CRUSHER: I'll see they're sent to your Enterprise quarters.
+[00:17:58.154 --> 00:18:01.114] RIKER: Enterprise now taking possession of Stargazer, Kazago.
+[00:18:01.754 --> 00:18:03.034] KAZAGO: Permission granted, Riker.
+[00:18:05.034 --> 00:18:06.714] RIKER: Actually it was quite a bargain, Kazago.
+[00:18:06.714 --> 00:18:08.874] RIKER: I thought the Ferengi always made a profit on things.
+[00:18:10.554 --> 00:18:14.668] RIKER: Set sub-warp speed for towing, LaForge.
+[00:18:14.668 --> 00:18:15.354] LAFORGE: Aye,
+[00:18:15.514 --> 00:18:15.914] LAFORGE: sir.
+[00:18:19.834 --> 00:18:21.994] DATA: Starfleet has responded to our request, sir.
+[00:18:22.634 --> 00:18:26.474] DATA: A tug will rendezvous with us and tow the Stargazer back to Xendi Starbase Nine.
+[00:18:27.114 --> 00:18:27.674] PICARD: Very well, Data.
+[00:18:31.914 --> 00:18:32.474] RIKER: How was it, Captain?
+[00:18:33.674 --> 00:18:34.554] PICARD: Very strange, Number One.
+[00:18:35.354 --> 00:18:41.274] PICARD: Like going back to the house you grew up in, but no one's home, except the phantoms of the past.
+[00:18:42.154 --> 00:18:43.114] TROI: It has troubled you?
+[00:18:45.514 --> 00:18:47.114] PICARD: Not half as much as this damn headache.
+[00:18:50.474 --> 00:18:51.274] PICARD: Take over, Number One.
+[00:18:53.754 --> 00:18:54.074] RIKER: Aye, sir.
+[00:18:58.474 --> 00:18:58.954] RIKER: What's wrong?
+[00:19:03.274 --> 00:19:04.154] TROI: I wish I could say.
+[00:19:29.839 --> 00:19:30.799] VOICES: Shields weakening, Captain.
+[00:19:32.879 --> 00:19:34.479] VOICES: Torpedoes armed.
+[00:19:34.479 --> 00:19:34.479] VOICES: Where are
+[00:19:37.119 --> 00:19:38.319] VOICES: they? Oh my god, sir!
+[00:19:38.399 --> 00:19:38.399] VOICES: Fire!
+[00:19:38.399 --> 00:19:38.399] VOICES: Fire!
+[00:19:45.759 --> 00:19:46.319] RIKER: What is it, Data?
+[00:19:50.479 --> 00:19:51.617] RIKER: Why all the mystery?
+[00:19:51.617 --> 00:19:55.599] DATA: The records of the Stargazer, sir. What the Ferengi call the Battle of Maxia.
+[00:19:56.879 --> 00:20:02.959] DATA: It seems the Captain's personal log contains a much different version of that conflict than the official historic account.
+[00:20:03.519 --> 00:20:03.999] RIKER: What are you saying?
+[00:20:04.719 --> 00:20:10.399] DATA: It would appear that the starship which Captain Picard attacked, had in fact, been under a flag of truce.
+[00:20:10.559 --> 00:20:10.799] RIKER: What?
+[00:20:10.959 --> 00:20:14.719] DATA: And apparently, the Captain destroyed the ship without notice or provocation.
+[00:20:14.799 --> 00:20:15.519] RIKER: Impossible.
+[00:20:15.519 --> 00:20:17.359] RIKER: What about the fire aboard the Stargazer?
+[00:20:17.519 --> 00:20:18.879] DATA: An accident in Engineering.
+[00:20:19.039 --> 00:20:19.679] RIKER: And what proof?
+[00:20:19.999 --> 00:20:21.599] DATA: It is logged in his own voice, sir.
+[00:20:21.599 --> 00:20:26.319] DATA: Would you care to hear it, sir?
+[00:20:29.119 --> 00:20:29.119] DATA: Sir?
+[00:20:29.199 --> 00:20:29.279] PICARD: This is
+[00:20:35.759 --> 00:20:42.639] PICARD: a confession given by me, Jean-Luc Picard commanding USS Stargazer.
+[00:20:43.439 --> 00:20:43.919] PICARD: What does this mean?
+[00:20:44.364 --> 00:20:44.924] RIKER: I don't know, sir.
+[00:20:45.404 --> 00:20:46.444] RIKER: It sounds like your voice.
+[00:20:46.604 --> 00:20:47.591] PICARD: It is, Number One.
+[00:20:47.591 --> 00:20:49.564] RIKER: I refuse to believe you ever said that.
+[00:20:50.524 --> 00:20:54.924] PICARD: I admit I must have mistaken their subspace antenna for a weapons cluster.
+[00:20:55.404 --> 00:21:01.564] PICARD: Unfortunately, I fired our main phasers and our direct hit destroyed the unknown vessel.
+[00:21:02.684 --> 00:21:04.524] RIKER: I've assumed they've simulated your voice somehow.
+[00:21:04.524 --> 00:21:05.804] RIKER: I've already put Data to work on it.
+[00:21:06.044 --> 00:21:06.524] PICARD: Thank you, Will.
+[00:21:07.724 --> 00:21:12.364] PICARD: I never made that log entry, of course, but it still leaves you with a duty to perform.
+[00:21:14.124 --> 00:21:14.684] RIKER: I know, sir,
+[00:21:14.684 --> 00:21:16.044] RIKER: I must report it to Starfleet.
+[00:21:17.484 --> 00:21:20.408] RIKER: That's at least one full day for subspace communications to reach there.
+[00:21:20.408 --> 00:21:22.844] PICARD: And one more full day for their answer to return.
+[00:21:25.564 --> 00:21:26.844] PICARD: I'd like the truth on this by then.
+[00:21:28.604 --> 00:21:30.204] PICARD: I'd hate to have to prepare a formal defence.
+[00:21:30.844 --> 00:21:32.444] RIKER: I can't believe they'd ask for your command.
+[00:21:33.004 --> 00:21:33.564] PICARD: Why wouldn't they?
+[00:21:33.804 --> 00:21:39.244] PICARD: With the Ferengi making these friendship overtures, I could become a severe embarrassment to Starfleet.
+[00:21:39.804 --> 00:21:42.124] RIKER: I'm certain the Ferengi are behind the faked log.
+[00:21:42.524 --> 00:21:43.644] RIKER: No wonder they're waiting out there.
+[00:21:45.004 --> 00:21:45.644] RIKER: Headache back, sir?
+[00:21:46.924 --> 00:21:47.164] PICARD: Damn!
+[00:21:49.644 --> 00:21:50.524] PICARD: I'll call the Doctor again.
+[00:21:51.324 --> 00:21:52.684] RIKER: It's no wonder, with all this going on.
+[00:21:53.164 --> 00:21:53.964] RIKER: Try to relax.
+[00:21:54.114 --> 00:21:54.714] RIKER: PICARD
+[00:22:03.804 --> 00:22:12.524] RIKER: This is a confession given by me, Jean-Luc Picard, commanding USS Stargazer, in the hopes that my belated honesty will be taken into account
+[00:22:12.564 --> 00:22:19.924] RIKER: by Starfleet when judging my actions during a confrontation with an unidentified vessel. Open hailing frequencies, Geordi.
+[00:22:20.644 --> 00:22:21.124] LAFORGE: Open, sir.
+[00:22:21.124 --> 00:22:21.924] RIKER: I'll take it in the Ready room.
+[00:22:21.924 --> 00:22:22.964] RIKER: Secure channel, La Forge.
+[00:22:25.684 --> 00:22:26.404] LAFORGE: Secure, Sir.
+[00:22:28.004 --> 00:22:28.884] RIKER: Starship Ferengi,
+[00:22:29.524 --> 00:22:30.644] RIKER: this is Commander Riker here.
+[00:22:30.644 --> 00:22:32.164] RIKER: I'd like to speak to First Officer Kazago.
+[00:22:33.844 --> 00:22:34.884] KAZAGO: A problem, Riker?
+[00:22:35.524 --> 00:22:36.724] RIKER: Are our channels secure on your end?
+[00:22:38.644 --> 00:22:39.284] KAZAGO: It is now.
+[00:22:40.484 --> 00:22:42.564] RIKER: Are you aware of the details of the Battle of Maxia?
+[00:22:42.964 --> 00:22:45.204] KAZAGO: Captain Bok has just made me aware of it, Riker.
+[00:22:45.604 --> 00:22:48.324] KAZAGO: The infamy of your Picard is now fully known.
+[00:22:48.484 --> 00:22:49.124] RIKER: Infamy?
+[00:22:49.604 --> 00:22:53.284] KAZAGO: I would call the wanton destruction of an unarmed vessel infamy.
+[00:22:54.484 --> 00:22:59.328] RIKER: And if I produced evidence that Captain Picard's log entry was falsified to indicate that?
+[00:22:59.328 --> 00:23:03.204] KAZAGO: I can hardly imagine you contacted me to discuss an ancient battle.
+[00:23:03.684 --> 00:23:04.964] KAZAGO: What do you want of me?
+[00:23:05.204 --> 00:23:06.004] RIKER: Just one question.
+[00:23:06.804 --> 00:23:09.204] KAZAGO: As you humans say, I'm all ears.
+[00:23:10.164 --> 00:23:12.004] RIKER: First Officer to First Officer, Kazago,
+[00:23:13.524 --> 00:23:19.844] RIKER: if your Captain Bok knew about this, then why this peaceful meeting to present us with the Stargazer?
+[00:23:20.484 --> 00:23:24.404] KAZAGO: We freely give you back your derelict warship and now you accuse us of crime, Riker?
+[00:23:24.404 --> 00:23:26.964] KAZAGO: I can bear no more insults!
+[00:23:36.724 --> 00:23:37.684] PICARD: Yes? Who the hell is it?
+[00:23:41.124 --> 00:23:42.644] CRUSHER: Not resting, Captain?
+[00:23:43.700 --> 00:23:44.740] PICARD: More like dying, Doctor.
+[00:23:45.300 --> 00:23:45.860] CRUSHER: Over here.
+[00:23:52.580 --> 00:23:53.300] PICARD: What is wrong with me?
+[00:23:54.500 --> 00:23:55.780] CRUSHER: I wish to hell I knew, Captain,
+[00:23:56.740 --> 00:23:59.380] CRUSHER: but something unusual has definitely been happening to you.
+[00:23:59.620 --> 00:24:02.020] PICARD: Why do doctors always say the obvious as though it's a revelation?
+[00:24:02.500 --> 00:24:04.180] CRUSHER: Why do captains always act like they're immortal?
+[00:24:09.620 --> 00:24:11.620] PICARD: No.
+[00:24:30.420 --> 00:24:32.580] CRUSHER: You didn't tell me it had been this bad.
+[00:24:33.540 --> 00:24:35.700] PICARD: It wasn't this bad. But it's getting worse.
+[00:24:36.420 --> 00:24:37.220] CRUSHER: This should help a little.
+[00:24:45.700 --> 00:24:49.220] CRUSHER: It's got to be some kind of emotional pressure connected with the Stargazer.
+[00:24:50.020 --> 00:24:50.820] PICARD: I got this headache
+[00:24:51.940 --> 00:24:54.340] PICARD: long before I even knew my old ship still existed.
+[00:24:58.580 --> 00:25:00.180] PICARD: Still, perhaps you're partly right.
+[00:25:02.340 --> 00:25:03.060] CRUSHER: Want to talk about it?
+[00:25:05.380 --> 00:25:05.780] CRUSHER: I'm here.
+[00:25:07.860 --> 00:25:08.820] PICARD: The fight at Maxia.
+[00:25:09.140 --> 00:25:12.500] PICARD: I destroyed an entire vessel. An entire crew.
+[00:25:14.553 --> 00:25:15.673] CRUSHER: Did you have a choice?
+[00:25:16.633 --> 00:25:17.433] PICARD: I don't know anymore.
+[00:25:17.433 --> 00:25:18.473] PICARD: I just don't know.
+[00:25:21.433 --> 00:25:24.473] CRUSHER: Commander Riker's told me about the altered log,
+[00:25:24.473 --> 00:25:25.753] CRUSHER: if that's what's troubling you.
+[00:25:29.113 --> 00:25:30.793] PICARD: The last three nights I've,
+[00:25:32.713 --> 00:25:33.593] PICARD: I've heard these voices.
+[00:25:35.033 --> 00:25:37.993] PICARD: I'm on the bridge of my old ship.
+[00:25:39.913 --> 00:25:43.193] PICARD: There's fire all around me. The klaxons, smoke.
+[00:25:45.433 --> 00:25:46.553] PICARD: And then I give the order.
+[00:25:48.713 --> 00:25:50.633] PICARD: And now the Stargazer is really here!.
+[00:25:52.393 --> 00:25:53.113] PICARD: And that log.
+[00:25:53.913 --> 00:25:54.713] PICARD: Am I going crazy?
+[00:25:58.313 --> 00:26:00.073] PICARD: How do I know I was in my right mind at Maxia?
+[00:26:00.073 --> 00:26:01.673] PICARD: How do I know I'm in my right mind now?
+[00:26:13.593 --> 00:26:14.073] PICARD: What was that?
+[00:26:15.433 --> 00:26:16.873] CRUSHER: Something to let you sleep.
+[00:26:17.023 --> 00:26:17.623] PICARD: Yes
+[00:26:20.073 --> 00:26:22.073] PICARD: sleep.
+[00:26:22.073 --> 00:26:22.313] PICARD: Sleep.
+[00:27:22.570 --> 00:27:22.570] VOICES: Shields weakening, Captain.
+[00:27:22.570 --> 00:27:22.570] VOICES: Torpedoes armed. Where
+[00:27:22.570 --> 00:27:22.570] VOICES: are they?
+[00:27:22.570 --> 00:27:23.850] BOK: And now, dear Captain, you are ready to live the past.
+[00:27:27.530 --> 00:27:33.770] VOICES: Where did they come from?
+[00:27:33.770 --> 00:27:33.770] VOICES: Phasers, sir?
+[00:27:33.770 --> 00:27:33.930] VOICES: Sir?
+[00:27:33.930 --> 00:27:33.930] VOICES: Sir?
+[00:27:38.090 --> 00:27:38.090] VOICES: What should we do, sir?
+[00:27:38.090 --> 00:27:38.970] VOICES: Should we fire
+[00:27:42.010 --> 00:27:42.026] VOICES: back?
+[00:27:42.042 --> 00:27:42.090] VOICES: Fire, Captain?
+[00:27:42.810 --> 00:27:43.530] VOICES: Fire!
+[00:27:44.250 --> 00:27:50.650] BOK: You will injure yourself as you once injured me.
+[00:27:54.010 --> 00:27:54.090] VOICES: Sir!
+[00:27:55.050 --> 00:27:58.170] PICARD: Damage report!
+[00:27:59.370 --> 00:28:01.882] VOICE: Fusion generator under surge control, sir!
+[00:28:02.554 --> 00:28:04.703] VOICE: Power systems failing!
+[00:28:04.770 --> 00:28:05.530] PICARD: Sensor beam bearing on
+[00:28:05.532 --> 00:28:06.738] PICARD: hostile ship!
+[00:28:06.738 --> 00:28:10.960] VOICE: Seven mark nineteen, sir! Phasers, sir? Sir?
+[00:28:10.960 --> 00:28:13.372] PICARD: Ready phasers, and lock!
+[00:28:14.492 --> 00:28:15.452] PICARD: Stand by on warp nine.
+[00:28:16.572 --> 00:28:18.412] PICARD: Heading seven, seven
+[00:28:19.532 --> 00:28:20.252] PICARD: mark twenty.
+[00:28:20.252 --> 00:28:20.332] PICARD: Engage.
+[00:28:20.332 --> 00:28:20.332] PICARD: Steady.
+[00:28:26.732 --> 00:28:30.012] PICARD: Now, reverse and stop!
+[00:28:30.012 --> 00:28:30.332] PICARD: Phasers fire,
+[00:28:30.332 --> 00:28:30.812] PICARD: torpedoes away!
+[00:28:35.852 --> 00:28:37.852] PICARD: Fire.
+[00:28:42.892 --> 00:28:44.892] PICARD: Fire.
+[00:28:49.932 --> 00:28:58.012] DATA: By comparing the Stargazer's main computer log with Captain Picard's personal log, I have found checksum discrepancies, sir.
+[00:28:58.972 --> 00:28:59.612] RIKER: What does that mean?
+[00:29:00.092 --> 00:29:04.492] DATA: All information is time-coded by entry, and the bits when totaled produce an aggregate amount which
+[00:29:04.492 --> 00:29:06.492] RIKER: I don't want a computer science lesson, Data.
+[00:29:07.452 --> 00:29:07.961] RIKER: Bottom line.
+[00:29:07.961 --> 00:29:10.252] DATA: One of these two logs is a forgery, sir.
+[00:29:10.492 --> 00:29:13.772] LAFORGE: Correction. The log just found aboard the Stargazer is a forgery.
+[00:29:14.652 --> 00:29:16.492] DATA: As I said, that is one of them,
+[00:29:17.052 --> 00:29:17.452] DATA: is it not?
+[00:29:19.132 --> 00:29:19.532] LAFORGE: Captain.
+[00:29:22.492 --> 00:29:23.612] LAFORGE: You're looking better, sir.
+[00:29:24.012 --> 00:29:27.132] PICARD: A little sleep, thanks to the good Doctor, works wonders.
+[00:29:29.212 --> 00:29:30.332] PICARD: What report on the logs?
+[00:29:30.812 --> 00:29:31.132] DATA: Yes, sir.
+[00:29:31.532 --> 00:29:33.772] DATA: Whoever tampered with your personal log was clever.
+[00:29:33.772 --> 00:29:34.892] LAFORGE: But a bit clumsy.
+[00:29:35.074 --> 00:29:36.594] LAFORGE: It's definitely a fabrication, sir.
+[00:29:37.874 --> 00:29:38.434] CRUSHER: Number One,
+[00:29:40.034 --> 00:29:41.874] CRUSHER: I'd like you to take a look at this brain scan graph.
+[00:29:42.994 --> 00:29:43.714] CRUSHER: What are you doing here?
+[00:29:44.354 --> 00:29:45.714] PICARD: I thought I was Captain of this starship.
+[00:29:46.274 --> 00:29:47.434] CRUSHER: Of course you are, but I
+[00:29:47.434 --> 00:29:48.594] PICARD: Thank you for the confirmation, Doctor.
+[00:29:49.234 --> 00:29:52.914] PICARD: But now, except for Riker, I would like you all to return to your stations.
+[00:29:53.954 --> 00:29:54.854] PICARD: Is that clear?
+[00:29:54.854 --> 00:29:55.154] DATA: Sir.
+[00:30:01.154 --> 00:30:01.794] PICARD: You too, Doctor.
+[00:30:02.034 --> 00:30:03.234] PICARD: I have business with the Commander.
+[00:30:04.914 --> 00:30:05.874] CRUSHER: Under protest, Captain.
+[00:30:12.754 --> 00:30:13.794] RIKER: You have orders for me, sir?
+[00:30:14.434 --> 00:30:17.098] PICARD: Release the Stargazer from the tractor beam, Number One.
+[00:30:17.098 --> 00:30:17.394] RIKER: Sir?
+[00:30:17.794 --> 00:30:19.294] PICARD: The tractor beam.
+[00:30:19.294 --> 00:30:19.794] RIKER: Sir,
+[00:30:19.794 --> 00:30:20.514] RIKER: are you abandoning?
+[00:30:20.914 --> 00:30:24.434] PICARD: No, but her inertia will carry the Stargazer along with us.
+[00:30:26.194 --> 00:30:29.634] PICARD: Or did you sleep through the Academy lecture on conservation of tractor beam power?
+[00:30:31.314 --> 00:30:31.714] RIKER: No, sir.
+[00:30:32.994 --> 00:30:33.874] RIKER: I'll release her, of course.
+[00:30:39.474 --> 00:30:39.874] CRUSHER: Obviously,
+[00:30:47.714 --> 00:30:54.274] CRUSHER: there's some thought process disorder, but I can't find a physical reason for it.
+[00:30:54.914 --> 00:30:55.394] CRUSHER: Anything?
+[00:30:56.594 --> 00:30:57.314] TROI: I'm puzzled too.
+[00:30:58.194 --> 00:31:03.554] TROI: I keep sensing random thoughts but two sets of them. As if they were his, but
+[00:31:03.908 --> 00:31:06.628] TROI: intermixed other thoughts which are also his.
+[00:31:08.868 --> 00:31:10.229] CRUSHER: I'm busy at the moment, Wesley.
+[00:31:10.548 --> 00:31:11.989] WESLEY: I know, Mom, but this is important.
+[00:31:12.469 --> 00:31:16.002] WESLEY: When I went back to the main sensors in Engineering to try some more sensitivity experiments
+[00:31:16.002 --> 00:31:17.989] TROI: Does this have something to do with Captain Picard?
+[00:31:18.708 --> 00:31:19.269] WESLEY: Yes, ma'am,
+[00:31:20.148 --> 00:31:32.388] WESLEY: if this is what you're talking about here. I don't know much about brain scans but I glanced at these when you were studying them, and I noticed that these patterns are the same as those picked up from the low-intensity transmissions from the Ferengi ship.
+[00:31:33.269 --> 00:31:36.308] WESLEY: I went back and checked, and they're exactly the same.
+[00:31:36.628 --> 00:31:37.828] TROI: What kind of transmissions?
+[00:31:38.148 --> 00:31:38.708] WESLEY: I don't know.
+[00:31:39.108 --> 00:31:41.029] WESLEY: Engineering has nothing like it on record.
+[00:31:41.668 --> 00:31:42.535] TROI: Let's get to the Captain.
+[00:31:42.535 --> 00:31:42.708] CRUSHER: No,
+[00:31:42.708 --> 00:31:43.989] CRUSHER: they might be affecting the Captain.
+[00:31:44.308 --> 00:31:44.868] CRUSHER: To Riker.
+[00:31:49.588 --> 00:31:50.308] WESLEY: You're welcome, ladies.
+[00:31:52.548 --> 00:31:53.108] WESLEY: Adults.
+[00:31:55.908 --> 00:31:56.308] CRUSHER: The
+[00:32:00.868 --> 00:32:01.668] CRUSHER: captain, Commander?
+[00:32:02.229 --> 00:32:05.749] RIKER: Resting in his quarters after ordering both of you to your duty stations.
+[00:32:06.068 --> 00:32:06.948] TROI: There have been some,
+[00:32:07.908 --> 00:32:09.029] TROI: did he say low intensity?
+[00:32:09.989 --> 00:32:13.828] TROI: Some unusual low intensity transmissions from the Ferengi vessel.
+[00:32:14.068 --> 00:32:14.709] RIKER: Did who say?
+[00:32:14.788 --> 00:32:15.428] CRUSHER: My son.
+[00:32:15.749 --> 00:32:20.068] CRUSHER: Transmissions which exactly match certain anomalies found in the Captain's brain scans.
+[00:32:20.868 --> 00:32:24.229] CRUSHER: Something over there is affecting the Captain's thought patterns.
+[00:32:26.868 --> 00:32:29.428] RIKER: Computer, give me a location on Captain Picard.
+[00:32:29.828 --> 00:32:32.148] COMPUTER: Captain Picard is in Transporter room three.
+[00:32:33.348 --> 00:32:33.509] RIKER: What?
+[00:32:35.188 --> 00:32:37.749] RIKER: Computer, emergency order to Transporter room three.
+[00:32:38.210 --> 00:32:39.090] COMPUTER: New information.
+[00:32:39.650 --> 00:32:41.810] COMPUTER: Captain Picard is no longer aboard the Enterprise.
+[00:32:41.810 --> 00:32:42.130] BOK: Welcome
+[00:33:07.810 --> 00:33:08.770] BOK: back, Captain.
+[00:33:10.050 --> 00:33:10.530] PICARD: What is happening?
+[00:33:11.810 --> 00:33:13.410] BOK: Shields up, computer.
+[00:33:14.130 --> 00:33:16.610] PICARD: What are you doing?
+[00:33:17.490 --> 00:33:19.570] BOK: Collecting on an old debt.
+[00:33:21.010 --> 00:33:21.410] RIKER: Stargazer,
+[00:33:25.170 --> 00:33:25.970] RIKER: Captain, respond!
+[00:33:26.610 --> 00:33:27.170] TASHA: Shields up, sir.
+[00:33:27.410 --> 00:33:29.028] TASHA: No way to beam over any help.
+[00:33:29.028 --> 00:33:29.490] LAFORGE: Commander, I'm
+[00:33:29.810 --> 00:33:31.170] LAFORGE: reading something very strange here.
+[00:33:31.810 --> 00:33:35.330] LAFORGE: A low intensity beam of intermittent pulse inside this starship.
+[00:33:35.810 --> 00:33:36.770] DATA: I have a fix on it, sir.
+[00:33:38.450 --> 00:33:40.210] DATA: Inside Captain Picard's quarters.
+[00:33:42.210 --> 00:33:44.370] TASHA: You transferred some of his belongings from the Stargazer?
+[00:33:44.690 --> 00:33:47.410] WORF: Yes. Including a fairly heavy chest.
+[00:33:47.650 --> 00:33:49.183] RIKER: Go take a look, fast!
+[00:33:49.183 --> 00:33:49.490] LAFORGE: Commander,
+[00:33:50.610 --> 00:33:52.210] LAFORGE: Stargazer is now powering up, sir.
+[00:33:56.130 --> 00:34:02.850] BOK: I have been waiting a long nine years for this, Picard.
+[00:34:03.787 --> 00:34:03.787] PICARD: I
+[00:34:06.507 --> 00:34:07.627] PICARD: don't know what you're talking about.
+[00:34:08.587 --> 00:34:09.707] BOK: Do you not, human?
+[00:34:12.027 --> 00:34:16.587] BOK: Can you not remember the crime you committed against my very blood?
+[00:34:17.947 --> 00:34:20.267] BOK: You murdered my only son.
+[00:34:21.227 --> 00:34:21.627] PICARD: Your son?
+[00:34:22.347 --> 00:34:27.627] BOK: He was the commander of the ship you destroyed! On his first voyage as DaiMon.
+[00:34:27.707 --> 00:34:28.747] PICARD: The ship?
+[00:34:30.107 --> 00:34:32.507] PICARD: The Ferengi ship that attacked me.
+[00:34:34.827 --> 00:34:36.027] PICARD: Or is it about to attack me?
+[00:34:36.667 --> 00:34:43.787] BOK: And I have spent these years searching, seeking a proper blood revenge!
+[00:34:45.947 --> 00:34:47.067] BOK: And I found it!
+[00:34:48.987 --> 00:34:50.987] BOK: I am rich,
+[00:34:54.507 --> 00:34:55.067] BOK: Picard,
+[00:34:56.427 --> 00:35:00.267] BOK: yet two of these cost me the profits of an entire life.
+[00:35:01.707 --> 00:35:05.067] BOK: You are back in command of the Stargazer, Picard.
+[00:35:06.427 --> 00:35:09.147] BOK: Its computers will answer your orders.
+[00:35:12.347 --> 00:35:14.347] BOK: Die well, Captain.
+[00:35:20.347 --> 00:35:22.907] LOG: First officer's log.
+[00:35:23.247 --> 00:35:28.187] LOG: Captain Picard has beamed himself to the Stargazer, which is now moving away from us under its own power.
+[00:35:29.307 --> 00:35:30.507] RIKER: Enterprise to Stargazer,
+[00:35:30.735 --> 00:35:31.455] RIKER: please respond.
+[00:35:40.815 --> 00:35:43.295] RIKER: Enterprise to Captain Picard aboard Stargazer.
+[00:35:43.615 --> 00:35:46.015] RIKER: Please answer.
+[00:35:49.695 --> 00:35:50.095] RIKER: Mister Data,
+[00:35:50.335 --> 00:35:51.295] RIKER: what was Stargazer's condition?
+[00:35:51.775 --> 00:35:54.575] DATA: Considerable fire damage to interior surface reported, sir.
+[00:35:54.815 --> 00:35:56.415] DATA: But none of her main systems were crippled.
+[00:35:56.655 --> 00:35:57.695] RIKER: Armaments, Lieutenant Yar?
+[00:35:58.095 --> 00:35:59.535] TASHA: Six photon torpedoes short, sir,
+[00:36:00.015 --> 00:36:02.975] TASHA: probably used when the Captain destroyed his Ferengi attackers nine years ago.
+[00:36:03.375 --> 00:36:04.255] TASHA: Otherwise fully armed.
+[00:36:05.375 --> 00:36:06.335] RIKER: What do you make of it, La Forge?
+[00:36:06.735 --> 00:36:08.735] LAFORGE: It seems to be a network of miniature circuitry, sir.
+[00:36:08.735 --> 00:36:09.775] LAFORGE: Incredibly complex.
+[00:36:10.495 --> 00:36:12.415] LAFORGE: Maybe an amplifier.
+[00:36:16.895 --> 00:36:18.575] RIKER: Where was it in the Captain's quarters, Mister Worf?
+[00:36:18.815 --> 00:36:20.255] WORF: His chest from the Stargazer, sir?
+[00:36:20.735 --> 00:36:21.695] WORF: Just where I had left it.
+[00:36:21.855 --> 00:36:22.895] WORF: He hadn't yet unpacked.
+[00:36:23.215 --> 00:36:25.295] CRUSHER: So, he may not have even known it was there.
+[00:36:25.935 --> 00:36:29.557] CRUSHER: And if this is able to pick up or magnify thought-altering transmissions
+[00:36:29.557 --> 00:36:32.575] TROI: It could have prepared him for whatever is happening now.
+[00:36:32.735 --> 00:36:33.375] RIKER: Let's find out,
+[00:36:33.695 --> 00:36:34.175] RIKER: or try to.
+[00:36:35.135 --> 00:36:36.655] RIKER: Contact the Ferengi vessel, Lieutenant.
+[00:36:37.695 --> 00:36:38.975] TASHA: Hailing frequencies open, sir.
+[00:36:39.615 --> 00:36:40.815] RIKER: Enterprise to Ferengi vessel,
+[00:36:41.375 --> 00:36:42.415] RIKER: we transmit visually.
+[00:36:42.815 --> 00:36:43.535] RIKER: Do you respond?
+[00:36:45.215 --> 00:36:47.695] KAZAGO: Why is our gift to you under power, human?
+[00:36:48.175 --> 00:36:49.775] RIKER: I will discuss that with your captain.
+[00:36:50.015 --> 00:36:52.015] KAZAGO: He is working in our ship's laboratory.
+[00:36:52.575 --> 00:36:54.015] KAZAGO: Where is your Captain?
+[00:36:54.255 --> 00:36:58.895] RIKER: He's beamed himself aboard the Stargazer, and I'm wondering if this has something to do with it.
+[00:37:01.031 --> 00:37:02.791] KAZAGO: How do you have possession of that?
+[00:37:02.791 --> 00:37:06.391] RIKER: It was found in our Captain's chest, which brought over from the Stargazer.
+[00:37:07.271 --> 00:37:11.191] KAZAGO: It is a forbidden device. A thought maker.
+[00:37:11.671 --> 00:37:14.731] KAZAGO: If your Captain is criminal enough to own one
+[00:37:14.731 --> 00:37:17.111] RIKER: Kazago, you know who controls those spheres.
+[00:37:17.911 --> 00:37:22.311] RIKER: Now I ask you again, First Officer to First Officer. What's going on?
+[00:37:23.431 --> 00:37:27.111] KAZAGO: It is not seemly to question one's own DaiMon, Riker.
+[00:37:27.911 --> 00:37:30.081] KAZAGO: I am not prepared to do that.
+[00:37:30.081 --> 00:37:30.391] TASHA: Sir,
+[00:37:30.551 --> 00:37:31.351] TASHA: I have the Stargazer.
+[00:37:31.671 --> 00:37:32.391] RIKER: Switch, now!
+[00:37:34.871 --> 00:37:35.831] RIKER: Enterprise to Picard.
+[00:37:37.111 --> 00:37:38.791] PICARD: Do not attack again!
+[00:37:39.511 --> 00:37:41.031] PICARD: We are on a peaceful mission.
+[00:37:41.831 --> 00:37:42.951] PICARD: Give your identity.
+[00:37:44.471 --> 00:37:45.911] PICARD: You force us to defend ourselves.
+[00:37:47.911 --> 00:37:48.551] PICARD: Phasers full up.
+[00:37:49.911 --> 00:37:50.391] PICARD: Arm torpedoes.
+[00:37:50.391 --> 00:37:50.391] PICARD: Why aren't
+[00:37:52.391 --> 00:37:53.351] PICARD: the shields at full power?
+[00:37:55.831 --> 00:37:58.391] TASHA: We've lost him, sir.
+[00:37:59.031 --> 00:37:59.911] LAFORGE: When he put up the shields, sir.
+[00:38:04.631 --> 00:38:04.791] PICARD: Damn,
+[00:38:05.191 --> 00:38:07.671] PICARD: I said put fusion generators under surge control.
+[00:38:07.671 --> 00:38:09.031] PICARD: You're moving too slowly.
+[00:38:10.151 --> 00:38:10.791] PICARD: Arm the torpedoes, man!
+[00:38:10.791 --> 00:38:12.311] PICARD: Vigo! Get a fire control
+[00:38:15.671 --> 00:38:16.231] PICARD: party up here!
+[00:38:16.381 --> 00:38:17.381] VOICES: Shields weakening,
+[00:38:19.511 --> 00:38:21.511] VOICES: Captain!
+[00:38:21.511 --> 00:38:22.596] VOICES: Fusion generator online.
+[00:38:22.813 --> 00:38:23.465] PICARD: Weapons report!
+[00:38:23.682 --> 00:38:25.911] VOICE: Phasers coming to full charge, sir.
+[00:38:26.391 --> 00:38:28.631] VOICE: Torpedoes armed!
+[00:38:28.631 --> 00:38:30.471] PICARD: Who are they?
+[00:38:30.551 --> 00:38:31.191] PICARD: Identify them!
+[00:38:31.838 --> 00:38:33.438] VOICE: They're coming for a third pass at us, sir!
+[00:38:33.838 --> 00:38:35.678] VOICE: We can't take another hit,
+[00:38:37.198 --> 00:38:39.198] VOICE: Captain!
+[00:38:39.678 --> 00:38:45.758] TROI: Sir, I now feel anger from our Captain. Fury over whatever it is he is reliving out there.
+[00:38:46.238 --> 00:38:47.198] LAFORGE: The Battle of Maxia, sir.
+[00:38:47.438 --> 00:38:48.158] LAFORGE: That's what it is.
+[00:38:49.198 --> 00:38:49.918] RIKER: The Picard Manoeuvre.
+[00:38:50.398 --> 00:38:51.518] RIKER: What is the defence against that, Data?
+[00:38:51.998 --> 00:38:53.038] DATA: There is no defence, sir.
+[00:38:53.358 --> 00:38:53.998] RIKER: Then devise one,
+[00:38:54.158 --> 00:38:54.638] RIKER: fast!
+[00:38:59.278 --> 00:39:00.798] KAZAGO: First Officer Kazago to
+[00:39:00.958 --> 00:39:01.918] KAZAGO: human Riker.
+[00:39:02.158 --> 00:39:03.358] RIKER: Not now, Kazago.
+[00:39:03.758 --> 00:39:08.238] KAZAGO: We do not wish to become involved in what has become clearly a Federation matter.
+[00:39:08.398 --> 00:39:09.118] RIKER: Fine, fine,
+[00:39:09.118 --> 00:39:09.998] RIKER: Enterprise out!
+[00:39:10.718 --> 00:39:14.238] KAZAGO: You should also know that DaiMon Bok no longer commands this vessel.
+[00:39:16.958 --> 00:39:21.758] KAZAGO: His First Officer has confined him for engaging in this unprofitable venture.
+[00:39:21.758 --> 00:39:21.758] KAZAGO: Good
+[00:39:24.478 --> 00:39:25.918] KAZAGO: luck, First Officer Riker.
+[00:39:28.558 --> 00:39:32.158] DATA: I have computed a possibility, Commander.
+[00:39:32.798 --> 00:39:40.255] DATA: Since even deep space contains trace gases, sir, a vessel in the Picard manoeuvre might seem to disappear, but our sensors could locate any sudden compression of those gases.
+[00:39:40.255 --> 00:39:43.598] RIKER: And use it as an aiming point and blow our Captain to bits?
+[00:39:44.158 --> 00:39:47.358] DATA: This class starship has enough power to use our tractor beam on it.
+[00:39:47.758 --> 00:39:48.318] DATA: Seize it,
+[00:39:48.638 --> 00:39:49.758] DATA: limit it's field of fire.
+[00:39:49.998 --> 00:39:50.158] RIKER: Right.
+[00:39:50.558 --> 00:39:51.758] RIKER: Concentrate shields at that point.
+[00:39:51.998 --> 00:39:52.558] RIKER: Make it so.
+[00:39:53.038 --> 00:39:53.918] RIKER: I hope you're right, Data.
+[00:39:55.518 --> 00:39:56.478] DATA: No question of it, sir.
+[00:39:59.118 --> 00:39:59.678] RIKER: Stand by!
+[00:40:05.992 --> 00:40:07.032] RIKER: Lock on tractor beam.
+[00:40:11.672 --> 00:40:12.512] PICARD: Ready phasers.
+[00:40:12.512 --> 00:40:13.352] RIKER: Captain Picard,
+[00:40:13.752 --> 00:40:15.981] RIKER: listen to me.
+[00:40:15.981 --> 00:40:18.952] PICARD: Vigo, is that you?
+[00:40:18.952 --> 00:40:20.552] RIKER: It's Commander Riker, sir!
+[00:40:22.392 --> 00:40:22.632] RIKER: Captain, hear me!
+[00:40:23.592 --> 00:40:23.992] RIKER: Look around you,
+[00:40:24.712 --> 00:40:26.632] RIKER: the Ferengi are using their thought devices on you.
+[00:40:27.192 --> 00:40:27.592] PICARD: Stand by.
+[00:40:27.592 --> 00:40:27.592] PICARD: Who
+[00:40:31.112 --> 00:40:31.512] PICARD: is this?
+[00:40:32.072 --> 00:40:32.712] RIKER: It's Riker, sir.
+[00:40:33.512 --> 00:40:34.152] RIKER: Your Number One.
+[00:40:34.872 --> 00:40:36.232] RIKER: Look for a silver sphere.
+[00:40:38.872 --> 00:40:39.912] RIKER: Destroy it with your phaser.
+[00:40:41.512 --> 00:40:43.512] PICARD: Phaser.
+[00:40:43.662 --> 00:40:44.262] PICARD: A
+[00:40:47.848 --> 00:40:49.848] PICARD: sphere.
+[00:40:54.184 --> 00:40:56.184] PICARD: Bok
+[00:40:59.352 --> 00:40:59.752] PICARD: used it.
+[00:41:00.312 --> 00:41:00.792] RIKER: Destroy
+[00:41:06.072 --> 00:41:06.072] RIKER: it!
+[00:41:09.592 --> 00:41:09.592] PICARD: Phaser.
+[00:41:09.592 --> 00:41:09.632] PICARD: Destroy the sphere.
+[00:41:09.652 --> 00:41:09.672] PICARD: Destroy
+[00:41:11.432 --> 00:41:11.432] PICARD: the sphere.
+[00:41:34.638 --> 00:41:35.358] RIKER: Are you all right, Captain?
+[00:41:38.798 --> 00:41:39.118] RIKER: Captain?
+[00:41:42.238 --> 00:41:42.638] RIKER: Captain,
+[00:41:42.878 --> 00:41:43.358] RIKER: are you all right?
+[00:41:43.518 --> 00:41:46.238] RIKER: Captain, are you all right?
+[00:41:49.678 --> 00:41:50.158] PICARD: Where am I, Number One?
+[00:41:51.358 --> 00:41:52.478] RIKER: Aboard the Stargazer, sir.
+[00:41:55.518 --> 00:41:57.580] RIKER: The sphere you destroyed, it's been controlling your
+[00:41:57.580 --> 00:41:57.838] PICARD: Bok!
+[00:41:59.678 --> 00:42:00.558] PICARD: Where is Bok?
+[00:42:01.198 --> 00:42:04.798] RIKER: Removed from command, sir. Placed under guard for his act of personal vengeance.
+[00:42:05.438 --> 00:42:06.798] RIKER: Seems there was no profit in it.
+[00:42:09.278 --> 00:42:10.478] PICARD: In revenge, there never is.
+[00:42:17.358 --> 00:42:18.238] PICARD: Let the dead rest.
+[00:42:19.918 --> 00:42:20.558] PICARD: And the past
+[00:42:23.038 --> 00:42:23.838] PICARD: remain the past.
+[00:42:27.998 --> 00:42:29.838] PICARD: Enterprise, lock on.
+[00:42:32.078 --> 00:42:34.078] PICARD: Beam me home, Riker.
+[00:42:48.000 --> 00:43:06.000] [music]
+[00:43:07.000 --> 00:43:24.000] [music]
+[00:43:26.000 --> 00:43:36.648] [music]

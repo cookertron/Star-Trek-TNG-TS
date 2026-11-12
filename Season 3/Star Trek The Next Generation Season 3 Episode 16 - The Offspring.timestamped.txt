@@ -1,0 +1,636 @@
+[00:00:02.880 --> 00:00:05.840] LOG: Captain's log, Stardate 43657.0
+[00:00:06.320 --> 00:00:14.000] LOG: While Commander Riker is away on personal leave, the Enterprise has travelled to sector three nine six to begin charting the Selebi Asteroid Belt.
+[00:00:17.600 --> 00:00:18.320] LAFORGE: He sent for you too?
+[00:00:18.720 --> 00:00:19.200] TROI: Yes.
+[00:00:19.440 --> 00:00:20.640] TROI: He was very mysterious.
+[00:00:20.640 --> 00:00:22.480] WESLEY: Does you have any idea what this is about?
+[00:00:22.480 --> 00:00:24.400] LAFORGE: Something happened at that cybernetics conference.
+[00:00:24.400 --> 00:00:27.040] LAFORGE: Since he's come back he's spent every off duty minute in that lab.
+[00:00:27.280 --> 00:00:29.712] TROI: It's not like Data to be so secretive.
+[00:00:29.712 --> 00:00:30.320] WESLEY: And cautious.
+[00:00:30.320 --> 00:00:32.000] WESLEY: He kept the lab locked every minute.
+[00:00:32.640 --> 00:00:33.520] LAFORGE: Now how would you know that?
+[00:00:34.800 --> 00:00:35.440] LAFORGE: Ah ha.
+[00:00:41.920 --> 00:00:42.240] DATA: Oh,
+[00:00:43.200 --> 00:00:43.840] DATA: you are early.
+[00:00:44.560 --> 00:00:45.360] DATA: Just a moment please.
+[00:00:47.200 --> 00:00:47.200] DATA: You
+[00:01:04.960 --> 00:01:05.440] DATA: may enter now.
+[00:01:11.440 --> 00:01:11.920] LAFORGE: Come on, Data,
+[00:01:12.480 --> 00:01:13.040] LAFORGE: what is this?
+[00:01:13.760 --> 00:01:14.240] WESLEY: Yeah, Data.
+[00:01:14.240 --> 00:01:14.800] WESLEY: what's going on?
+[00:01:16.080 --> 00:01:17.760] DATA: I have invited you here to meet someone.
+[00:01:30.983 --> 00:01:32.344] DATA: This is Lal.
+[00:01:36.344 --> 00:01:36.664] DATA: Lal,
+[00:01:38.424 --> 00:01:40.264] DATA: say hello to Counsellor Deanna Troi
+[00:01:43.544 --> 00:01:44.904] LAL: Hello Counsellor Deanna Troi.
+[00:01:47.224 --> 00:01:48.104] TROI: How do you do, Lal?
+[00:01:48.664 --> 00:01:50.983] LAL: I am functioning within normal parameters.
+[00:01:52.104 --> 00:01:52.344] DATA: Lal,
+[00:01:54.024 --> 00:01:55.544] DATA: this is Geordi La Forge.
+[00:01:56.504 --> 00:01:57.971] LAL: Purpose for exterior drapings, Father?
+[00:01:57.971 --> 00:01:58.264] WESLEY: Father?
+[00:02:00.104 --> 00:02:02.264] DATA: It is an accepted custom that we wear clothing.
+[00:02:02.983 --> 00:02:03.143] WESLEY: Data,
+[00:02:04.664 --> 00:02:05.464] WESLEY: it called you Father.
+[00:02:06.584 --> 00:02:07.064] DATA: Yes, Wesley.
+[00:02:09.064 --> 00:02:10.104] DATA: Lal is my child.
+[00:02:41.623 --> 00:02:44.344] PICARD: Space, the final frontier.
+[00:02:46.264 --> 00:02:49.144] PICARD: These are the voyagers of the Starship Enterprise.
+[00:02:50.264 --> 00:02:56.664] PICARD: Its continuing mission to explore strange new worlds, to seek out new life.
+[00:02:56.768 --> 00:02:58.208] PICARD: A new civilization's to
+[00:03:00.048 --> 00:03:02.768] PICARD: boldly go where no one has gone before.
+[00:03:32.000 --> 00:03:40.000] [music]
+[00:03:54.000 --> 00:04:02.000] [music]
+[00:04:01.488 --> 00:04:02.608] LOG: Captain's log, supplemental.
+[00:04:03.168 --> 00:04:07.168] LOG: I have just been advised of a highly unusual project undertaken by Commander Data.
+[00:04:08.368 --> 00:04:11.648] DATA: Lal has a positronic brain one very similar to my own.
+[00:04:12.208 --> 00:04:14.128] DATA: I began programming it at the cybernetics conference.
+[00:04:14.128 --> 00:04:16.288] LAFORGE: But nobody's ever been able to do that, Data,
+[00:04:16.768 --> 00:04:17.968] LAFORGE: at least not since you were programmed.
+[00:04:18.288 --> 00:04:26.768] DATA: True, but here was a new submicron matrix transfer technology introduced at the conference which I discovered could be used to lay down complex neural net pathways.
+[00:04:27.408 --> 00:04:29.888] WESLEY: So you did a transfer from your brain into Lal's.
+[00:04:30.128 --> 00:04:31.008] DATA: Exactly, Wesley.
+[00:04:31.969 --> 00:04:35.569] DATA: I realised for the first time it was possible to continue Doctor Soong's work.
+[00:04:37.329 --> 00:04:42.049] DATA: My initial transfers produced very encouraging results, so I brought Lal's brain back with me.
+[00:04:42.609 --> 00:04:43.009] PICARD: Data,
+[00:04:46.369 --> 00:04:47.969] PICARD: I would like to have been consulted.
+[00:04:51.089 --> 00:04:54.689] DATA: I have not observed anyone else on board consulting you about their procreation, Captain.
+[00:04:59.089 --> 00:05:01.889] TROI: Why didn't you give it a more human look, Data?
+[00:05:03.409 --> 00:05:07.222] DATA: I decided to allow my child to choose its own sex and appearance.
+[00:05:07.222 --> 00:05:07.809] PICARD: Commander Data,
+[00:05:07.809 --> 00:05:10.689] PICARD: at your convenience, I would like to talk to you in my Ready room. Counsellor?
+[00:05:14.449 --> 00:05:14.529] PICARD: I
+[00:05:16.449 --> 00:05:20.689] PICARD: insist we do whatever we can to discourage the perception of this new android as a child.
+[00:05:20.689 --> 00:05:21.569] PICARD: It is not a child.
+[00:05:22.209 --> 00:05:24.369] PICARD: It is an invention, albeit an extraordinary one.
+[00:05:25.009 --> 00:05:28.929] TROI: Why should biology rather than technology determine whether it is a child?
+[00:05:29.649 --> 00:05:33.809] TROI: Data has created an offspring. A new life out of his own being.
+[00:05:33.889 --> 00:05:35.489] TROI: To me, that suggests a child.
+[00:05:35.969 --> 00:05:38.929] TROI: If he wishes to call Lal his child, then who are we to argue?
+[00:05:39.249 --> 00:05:46.609] PICARD: Well, if he must, but I fail to understand how a five foot android with heuristic learning systems and the strength of a ten men can be called a child.
+[00:05:48.209 --> 00:05:49.409] TROI: You've never been a parent.
+[00:05:56.529 --> 00:05:59.809] PICARD: What you have done will have serious ramifications.
+[00:06:00.849 --> 00:06:03.969] PICARD: I am truly dismayed that you told no one
+[00:06:04.445 --> 00:06:05.956] PICARD: of what you were doing.
+[00:06:05.956 --> 00:06:07.165] DATA: I am sorry, Captain.
+[00:06:08.205 --> 00:06:10.045] DATA: I did not anticipate your objections.
+[00:06:10.925 --> 00:06:12.365] DATA: Do you wish me to deactivate Lal?
+[00:06:13.725 --> 00:06:14.845] PICARD: It's a life, Data.
+[00:06:15.165 --> 00:06:17.645] PICARD: It can't be activated and deactivated simply.
+[00:06:17.965 --> 00:06:18.525] PICARD: This is a most
+[00:06:20.045 --> 00:06:21.725] PICARD: stupendous undertaking.
+[00:06:24.845 --> 00:06:28.365] PICARD: Have you any idea what will happen when Starfleet learns about this?
+[00:06:29.325 --> 00:06:32.365] DATA: I have followed all of Starfleet regulations to the best of my ability.
+[00:06:33.005 --> 00:06:34.365] DATA: I expected they would be pleased.
+[00:06:38.045 --> 00:06:38.205] PICARD: Well,
+[00:06:40.605 --> 00:06:43.085] PICARD: you have taken on quite a responsibility, Data.
+[00:06:43.085 --> 00:06:47.565] DATA: To prepare, I have scanned all available literature on parenting.
+[00:06:48.445 --> 00:06:50.285] DATA: There seems to be much confusion on this issue.
+[00:06:51.165 --> 00:06:57.325] DATA: One traditional doctrine insists, spare the rod and spoil the child, suggesting a punitive approach.
+[00:06:58.045 --> 00:07:01.885] DATA: While another more liberal attitude would allow the child enormous freedom.
+[00:07:02.205 --> 00:07:02.445] PICARD: Data
+[00:07:02.445 --> 00:07:04.125] DATA: And what Klingons do to their children
+[00:07:04.125 --> 00:07:06.045] PICARD: Data! I'm not talking about parenting.
+[00:07:06.045 --> 00:07:09.965] PICARD: I am talking about the extraordinary consequences of creating new life.
+[00:07:11.165 --> 00:07:13.725] DATA: Does that not describe becoming a parent, sir?
+[00:07:13.805 --> 00:07:14.125] PICARD: Data,
+[00:07:23.485 --> 00:07:30.285] PICARD: you are seeking to achieve what only your own creator has been able to achieve. To make
+[00:07:30.648 --> 00:07:34.168] PICARD: another functioning, sentient, android.
+[00:07:35.528 --> 00:07:37.048] PICARD: To make another Data.
+[00:07:38.408 --> 00:07:40.168] DATA: That is why I must attempt this, sir.
+[00:07:41.528 --> 00:07:46.088] DATA: I have observed that in most species, there is a primal instinct to perpetuate themselves.
+[00:07:46.888 --> 00:07:49.928] DATA: Until now, I have been the last of my kind.
+[00:07:50.648 --> 00:07:54.248] DATA: If I were to be damaged or destroyed, I would be lost forever.
+[00:07:56.088 --> 00:08:00.888] DATA: But if I am successful with the creation of Lal, my continuance is assured.
+[00:08:02.488 --> 00:08:07.128] DATA: I understand the risk, sir. and I am prepared to accept the responsibility.
+[00:08:17.208 --> 00:08:18.088] LAL: Gender female.
+[00:08:18.488 --> 00:08:20.088] TROI: That's right, Lal. Just like me.
+[00:08:21.528 --> 00:08:22.408] LAL: Gender male.
+[00:08:22.968 --> 00:08:23.448] DATA: Correct.
+[00:08:25.128 --> 00:08:27.608] LAL: I am gender neuter.
+[00:08:28.328 --> 00:08:28.808] LAL: Inadequate.
+[00:08:29.448 --> 00:08:32.408] DATA: That is why you must choose a gender, Lal, to complete your appearance.
+[00:08:33.608 --> 00:08:34.568] LAL: What are criteria?
+[00:08:35.528 --> 00:08:37.928] DATA: Access your data bank on sexuality, level two.
+[00:08:38.408 --> 00:08:39.848] DATA: That will define the parameters.
+[00:08:40.248 --> 00:08:42.968] TROI: Whatever you choose will be yours for your lifetime.
+[00:08:43.528 --> 00:08:46.648] TROI: It's a decision that will affect how people interrelate with you.
+[00:08:47.928 --> 00:08:49.928] LAL: I choose your sex and appearance.
+[00:08:50.088 --> 00:08:50.488] DATA: No, Lal.
+[00:08:50.888 --> 00:08:51.848] DATA: That would be confusing.
+[00:08:52.728 --> 00:08:56.488] DATA: We are taking you to the holodeck to show you several thousand composites I have programmed.
+[00:08:57.570 --> 00:08:58.450] DATA: You may choose from them.
+[00:08:59.329 --> 00:09:00.609] TROI: Several thousand?
+[00:09:01.570 --> 00:09:02.769] DATA: This is a big decision
+[00:09:10.530 --> 00:09:10.930] DATA: Counsellor?
+[00:09:13.329 --> 00:09:15.170] DATA: Lal has narrowed the choices to four.
+[00:09:15.810 --> 00:09:16.609] DATA: Would you like to see?
+[00:09:16.690 --> 00:09:18.209] TROI: Yes, yes, of course, Data.
+[00:09:21.489 --> 00:09:24.609] DATA: Computer, Lal gender sequence finalists.
+[00:09:24.930 --> 00:09:25.249] DATA: Begin.
+[00:09:26.690 --> 00:09:27.889] DATA: An Andorian female.
+[00:09:28.849 --> 00:09:29.410] TROI: Interesting.
+[00:09:30.369 --> 00:09:32.529] TROI: You'll be the only one on board the Enterprise, Lal.
+[00:09:34.369 --> 00:09:36.849] DATA: That could make socialisation more difficult.
+[00:09:38.930 --> 00:09:39.810] DATA: A human male.
+[00:09:40.690 --> 00:09:41.570] TROI: Very attractive.
+[00:09:42.050 --> 00:09:44.050] TROI: There's no problem with socialisation here.
+[00:09:45.249 --> 00:09:46.129] DATA: A human female.
+[00:09:47.009 --> 00:09:47.729] TROI: I like her.
+[00:09:47.729 --> 00:09:47.729] DATA: A
+[00:09:49.329 --> 00:09:50.050] DATA: Klingon male.
+[00:09:51.089 --> 00:09:52.050] TROI: A friend for Worf.
+[00:09:53.969 --> 00:09:55.329] TROI: They're all very interesting.
+[00:09:56.129 --> 00:09:57.170] TROI: Do you have a favourite?
+[00:09:58.290 --> 00:09:58.769] LAL: Yes.
+[00:09:59.329 --> 00:10:00.129] LAL: I have chosen.
+[00:10:05.329 --> 00:10:07.650] DATA: I have completed the assembly of the replicated anatomy.
+[00:10:07.810 --> 00:10:11.410] DATA: I was able to provide Lal with more realistic skin and eye colour than my own.
+[00:10:17.729 --> 00:10:18.849] TROI: Congratulations, Data.
+[00:10:19.489 --> 00:10:20.050] TROI: It's a girl.
+[00:10:29.679 --> 00:10:30.879] DATA: This is home, Lal.
+[00:10:31.679 --> 00:10:32.079] LAL: Home.
+[00:10:33.999 --> 00:10:34.959] LAL: Place of residence.
+[00:10:35.839 --> 00:10:38.239] LAL: Social unit formed by a family living together.
+[00:10:39.039 --> 00:10:39.279] DATA: Yes.
+[00:10:40.559 --> 00:10:41.519] DATA: We are a family, Lal.
+[00:10:44.319 --> 00:10:44.639] DATA: Chair.
+[00:10:48.239 --> 00:10:48.879] DATA: To sit in.
+[00:10:52.239 --> 00:10:52.479] DATA: Sit.
+[00:10:57.199 --> 00:10:57.199] DATA: Good.
+[00:11:00.559 --> 00:11:00.559] DATA: Painting.
+[00:11:01.999 --> 00:11:02.399] LAL: Painting.
+[00:11:03.919 --> 00:11:06.479] LAL: Colours produced on a surface by applying a pigment.
+[00:11:07.119 --> 00:11:07.359] DATA: Yes.
+[00:11:08.559 --> 00:11:11.439] DATA: I will teach you to recognise the artistry in paintings.
+[00:11:15.679 --> 00:11:16.239] LAL: Soft.
+[00:11:16.959 --> 00:11:17.519] DATA: Yes,
+[00:11:18.159 --> 00:11:19.119] DATA: very good, Lal.
+[00:11:19.919 --> 00:11:22.239] DATA: You have correctly processed the sense of touch.
+[00:11:24.319 --> 00:11:27.199] DATA: There are many fascinating experiences I wish to share with you.
+[00:11:28.639 --> 00:11:29.199] LAL: Painting.
+[00:11:29.839 --> 00:11:29.999] DATA: No,
+[00:11:31.359 --> 00:11:32.399] DATA: that is a flower, Lal.
+[00:11:34.879 --> 00:11:35.359] DATA: Inhale.
+[00:11:39.919 --> 00:11:40.159] LAL: Smell!
+[00:11:40.719 --> 00:11:41.199] DATA: Yes.
+[00:11:41.199 --> 00:11:42.319] LAL: Show me more, Father.
+[00:11:43.279 --> 00:11:45.359] LOG: Second officer's science log, supplemental.
+[00:11:46.079 --> 00:11:49.199] LOG: Training in social skills at the most elementary level has begun.
+[00:11:49.999 --> 00:11:53.599] LOG: Lal is progressing very slowly but is not deterred by early setbacks.
+[00:11:59.103 --> 00:12:03.263] LOG: While motor coordination has improved twelve percent, reflexes still need to develop.
+[00:12:09.343 --> 00:12:11.983] LOG: Visual comprehension is especially difficult for Lal.
+[00:12:12.623 --> 00:12:18.063] LOG: Translating her vast data banks into recognisable applications may improve with additional transfers.
+[00:12:18.623 --> 00:12:23.423] LOG: She is also learning to supplement her innate android behaviour with simulated human responses.
+[00:12:31.023 --> 00:12:38.543] LOG: And it is interesting to note that as I observe Lal learning about her world, I share in her experience, almost as though I am learning things over again.
+[00:12:52.943 --> 00:12:56.623] DATA: The transfer itself is fairly simple.
+[00:12:57.103 --> 00:13:00.863] DATA: Each neural pathway in my brain is duplicated precisely in hers.
+[00:13:01.503 --> 00:13:05.663] DATA: Theoretically, the duplicate brains should be able to store and process the same information
+[00:13:06.063 --> 00:13:08.783] DATA: but until all of the transfers are complete, we will not know for certain.
+[00:13:09.503 --> 00:13:10.703] WESLEY: What does Lal do while you're on duty?
+[00:13:11.103 --> 00:13:12.303] DATA: She studies in our quarters.
+[00:13:12.943 --> 00:13:14.703] DATA: She requires very little supervision.
+[00:13:15.183 --> 00:13:16.543] DATA: Lal is quite self-sufficient.
+[00:13:16.943 --> 00:13:18.303] WESLEY: Have you considered sending her to school?
+[00:13:19.743 --> 00:13:22.543] DATA: She already has access to the sum of human knowledge from me.
+[00:13:22.985 --> 00:13:25.385] WESLEY: Data, she could learn a lot by being with kids her own age.
+[00:13:26.985 --> 00:13:28.105] DATA: She is only two weeks old.
+[00:13:28.985 --> 00:13:30.665] WESLEY: Okay, close to her own age.
+[00:13:31.225 --> 00:13:35.465] CRUSHER: Doctor Crusher to Ensign Crusher. Aren't you supposed to be getting a hair cut, Wesley?
+[00:13:37.065 --> 00:13:38.105] WESLEY: I'm on my way.
+[00:13:39.225 --> 00:13:39.705] WESLEY: Parents.
+[00:13:42.265 --> 00:13:42.905] WESLEY: Nothing personal.
+[00:13:49.705 --> 00:13:50.025] DATA: Lal,
+[00:13:51.465 --> 00:13:53.865] DATA: the third crosslink transfer series is complete.
+[00:13:56.105 --> 00:13:58.265] LAL: Father? What is my purpose?
+[00:13:59.225 --> 00:13:59.625] DATA: Purpose?
+[00:14:00.265 --> 00:14:00.825] LAL: My function,
+[00:14:01.385 --> 00:14:02.425] LAL: my reason for being?
+[00:14:04.345 --> 00:14:05.705] DATA: That is a complex question, Lal.
+[00:14:09.465 --> 00:14:17.705] DATA: I can only begin to answer by telling you that our function is to contribute in a positive way to the world in which we live.
+[00:14:18.825 --> 00:14:21.225] LAL: Why am I me instead of someone else?
+[00:14:21.865 --> 00:14:23.625] DATA: Because you are my child.
+[00:14:24.665 --> 00:14:25.545] LAL: Where did I come from?
+[00:14:27.865 --> 00:14:35.465] DATA: These questions suggest that we have made a successful transfer of the heuristic associative pathways.
+[00:14:36.185 --> 00:14:42.505] DATA: You will now begin to process information on logic, aesthetics, metaphysics, and epistemology.
+[00:14:43.385 --> 00:14:45.225] DATA: You are truly becoming sentient, Lal.
+[00:14:45.785 --> 00:14:46.185] LAL: How?
+[00:14:47.305 --> 00:14:51.225] DATA: By developing the awareness to examine and question your perceptions.
+[00:14:54.425 --> 00:14:55.545] LAL: Why do we have two hands?
+[00:14:55.945 --> 00:14:57.305] LAL: Why not three or four?
+[00:14:57.773 --> 00:14:58.893] LAL: Why is the sky black?
+[00:14:59.453 --> 00:15:00.013] LAL: Why do
+[00:15:04.173 --> 00:15:06.333] DATA: Tomorrow will be your first day of school, Lal.
+[00:15:15.133 --> 00:15:18.973] PICARD: I assure you, Admiral, there's no better guide into this life for Lal than Data.
+[00:15:18.973 --> 00:15:20.013] PICARD: He's doing an excellent job.
+[00:15:20.333 --> 00:15:24.333] HAFTEL: We all have enormous admiration for what Commander Data has already achieved, but
+[00:15:24.973 --> 00:15:28.093] HAFTEL: we have superior facilities and personnel here at Galor Four.
+[00:15:29.373 --> 00:15:31.213] HAFTEL: A starship is hardly a proper setting
+[00:15:31.213 --> 00:15:36.733] PICARD: This starship's mission is to seek out new life and that is exactly what Commander Data is doing, under my guidance.
+[00:15:37.293 --> 00:15:39.533] HAFTEL: We all want what's best for the new android.
+[00:15:40.013 --> 00:15:40.653] PICARD: As do I.
+[00:15:44.333 --> 00:15:50.653] PICARD: I would be willing to consider releasing Lal and Data to you so that he may continue his work with her.
+[00:15:50.813 --> 00:15:54.413] HAFTEL: His presence would undoubtedly retard the new android's progress.
+[00:15:55.293 --> 00:16:02.413] PICARD: Admiral, to you, Lal is a new android. But to Data, she's his child.
+[00:16:03.293 --> 00:16:04.093] HAFTEL: His child?
+[00:16:04.973 --> 00:16:05.453] PICARD: Yes, Admiral.
+[00:16:05.453 --> 00:16:09.133] PICARD: It may not be easy for you and I to see her that way, but he does.
+[00:16:10.333 --> 00:16:11.213] PICARD: And I respect that.
+[00:16:14.173 --> 00:16:15.373] PICARD: They will remain here for now.
+[00:16:15.853 --> 00:16:18.013] HAFTEL: Starfleet's policy on research is clear.
+[00:16:19.213 --> 00:16:21.613] HAFTEL: You're making your stand on very uncertain ground.
+[00:16:22.413 --> 00:16:24.093] HAFTEL: I do hope it doesn't fall out from under you.
+[00:16:25.133 --> 00:16:25.773] HAFTEL: Haftel out.
+[00:16:32.680 --> 00:16:36.200] BALLARD: She achieved a very high score on a test of academic achievement.
+[00:16:37.000 --> 00:16:37.800] DATA: A perfect score?
+[00:16:37.800 --> 00:16:45.720] BALLARD: Yes, which is why we started her out with the older children. But Lal couldn't understand the nuances of how they related to each other.
+[00:16:46.920 --> 00:16:47.240] DATA: I see.
+[00:16:48.520 --> 00:16:52.040] BALLARD: We decided the best thing to do would be to put her with younger children.
+[00:16:53.240 --> 00:16:54.280] DATA: That would seem to be reasonable.
+[00:16:55.560 --> 00:16:56.840] BALLARD: It isn't working out that way.
+[00:16:59.400 --> 00:17:01.400] BALLARD: The
+[00:17:04.840 --> 00:17:05.880] BALLARD: children were afraid of
+[00:17:07.880 --> 00:17:09.880] BALLARD: her.
+[00:17:13.160 --> 00:17:13.480] LAL: Father,
+[00:17:15.080 --> 00:17:16.520] LAL: what is the significance of laughter?
+[00:17:17.480 --> 00:17:19.800] DATA: It is a human physiological response to humour.
+[00:17:21.800 --> 00:17:25.400] LAL: Then judging from their laughter, the children at school found my remarks humorous.
+[00:17:27.160 --> 00:17:28.680] LAL: So without understanding humour,
+[00:17:30.280 --> 00:17:31.480] LAL: I have somehow mastered it.
+[00:17:34.280 --> 00:17:35.000] DATA: Deck fifteen.
+[00:17:37.960 --> 00:17:38.280] DATA: Lal.
+[00:17:41.160 --> 00:17:41.720] LAL: Yes, Father?
+[00:17:42.600 --> 00:17:45.560] DATA: The children were not laughing with you, they were laughing at you.
+[00:17:47.320 --> 00:17:47.800] LAL: Explain.
+[00:17:48.520 --> 00:17:50.680] DATA: One is meant kindly, the other is not.
+[00:17:53.560 --> 00:17:54.840] LAL: Why would they wish to be unkind?
+[00:17:55.452 --> 00:17:56.412] DATA: Because you are different.
+[00:17:57.452 --> 00:17:59.452] DATA: Differences sometimes scare people.
+[00:18:00.572 --> 00:18:04.252] DATA: I have learned that some of them use humour to hide their fear.
+[00:18:06.172 --> 00:18:07.372] LAL: I do not want to be different.
+[00:18:15.932 --> 00:18:16.332] DATA: Doctor?
+[00:18:18.092 --> 00:18:20.972] DATA: I require your advice as a successful parent.
+[00:18:22.812 --> 00:18:24.492] CRUSHER: Well, thank you, Data.
+[00:18:26.092 --> 00:18:27.292] CRUSHER: I'd like to think I was.
+[00:18:28.412 --> 00:18:29.612] CRUSHER: Well, please sit down.
+[00:18:35.372 --> 00:18:36.012] CRUSHER: How's Lal?
+[00:18:37.692 --> 00:18:40.172] DATA: Lal is realising she is not the same as other children.
+[00:18:43.052 --> 00:18:43.932] CRUSHER: Is it lonely for her?
+[00:18:44.252 --> 00:18:49.612] DATA: She does not feel the emotion of loneliness, but she can observe how isolated she is from the others.
+[00:18:50.572 --> 00:18:51.932] DATA: She wishes to be more like them.
+[00:18:52.732 --> 00:18:54.092] DATA: I do not know how to help her.
+[00:18:55.372 --> 00:18:57.132] DATA: Lal is passing into sentience.
+[00:18:57.612 --> 00:19:00.092] DATA: It is perhaps the most difficult stage of her development.
+[00:19:04.732 --> 00:19:06.092] CRUSHER: When Wesley was growing up,
+[00:19:07.612 --> 00:19:12.812] CRUSHER: he was an extraordinarily bright boy, but he had a hard time making friends.
+[00:19:14.252 --> 00:19:16.732] CRUSHER: I think the other children were a little intimidated by him.
+[00:19:17.772 --> 00:19:20.172] DATA: That is precisely what happened to Lal in school.
+[00:19:20.812 --> 00:19:21.612] DATA: How did you help him?
+[00:19:23.116 --> 00:19:23.276] CRUSHER: Well,
+[00:19:25.596 --> 00:19:35.116] CRUSHER: first I went back to my own childhood and remembered how painful it was for me. Because I remember a time when I wasn't very popular either.
+[00:19:37.996 --> 00:19:40.396] CRUSHER: And when I told that to Wesley, it made him feel a little better.
+[00:19:40.716 --> 00:19:42.636] CRUSHER: He knew I understood what he was going through.
+[00:19:43.036 --> 00:19:46.076] DATA: I have not told Lal how difficult it was for me to assimilate.
+[00:19:46.716 --> 00:19:48.316] DATA: I did not wish it to discourage her.
+[00:19:50.236 --> 00:19:51.836] DATA: Perhaps this was an error of judgement.
+[00:19:52.396 --> 00:19:55.676] CRUSHER: You didn't have any one experienced to help you through sentience.
+[00:19:57.116 --> 00:19:58.236] CRUSHER: She at least has you.
+[00:20:01.196 --> 00:20:03.036] CRUSHER: Just help her realise that she's not alone,
+[00:20:04.636 --> 00:20:08.956] CRUSHER: and be there to nurture her when she needs love and attention.
+[00:20:11.276 --> 00:20:12.636] DATA: I can give her attention, Doctor.
+[00:20:14.236 --> 00:20:15.756] DATA: But I am incapable of giving her love.
+[00:20:20.076 --> 00:20:22.396] CRUSHER: Now why do I find that so hard to believe?
+[00:20:27.836 --> 00:20:32.716] WORF: Captain, incoming signal. Starfleet priority one. Admiral Haftel.
+[00:20:33.916 --> 00:20:35.036] PICARD: On my monitor, Lieutenant.
+[00:20:39.596 --> 00:20:40.289] PICARD: Admiral.
+[00:20:40.289 --> 00:20:41.676] HAFTEL: Captain Picard,
+[00:20:42.636 --> 00:20:43.836] HAFTEL: I hope I didn't disturb you.
+[00:20:44.316 --> 00:20:44.876] PICARD: Not at all.
+[00:20:45.436 --> 00:20:48.076] HAFTEL: I have discussed my concerns with Starfleet Command.
+[00:20:48.876 --> 00:20:54.236] HAFTEL: You are to hold your position until I join you. Then I shall personally review the android's
+[00:20:54.269 --> 00:20:54.829] HAFTEL: development.
+[00:20:55.789 --> 00:20:56.269] PICARD: Understood.
+[00:20:56.749 --> 00:21:03.229] HAFTEL: I should advise you, Captain, that if I'm not satisfied with what I see, I am empowered to take the android back with me.
+[00:21:03.869 --> 00:21:04.589] HAFTEL: Haftel out.
+[00:21:11.229 --> 00:21:12.269] LOG: Captain's log, supplemental.
+[00:21:12.669 --> 00:21:16.829] LOG: We are holding position pending the arrival of Admiral Haftel from Starfleet Research.
+[00:21:17.709 --> 00:21:27.549] LOG: Commander Data is completing his final neural transfers to the android he has named Lal, which I have learned, in the language Hindi means beloved.
+[00:21:34.349 --> 00:21:34.909] GUINAN: Hello, Data.
+[00:21:35.229 --> 00:21:35.549] DATA: Guinan.
+[00:21:43.549 --> 00:21:45.069] GUINAN: Lal, how are you?
+[00:21:45.469 --> 00:21:46.749] LAL: I am functioning within normal.
+[00:21:48.989 --> 00:21:50.029] LAL: I am fine, thank you.
+[00:21:51.949 --> 00:21:51.949] GUINAN: Good.
+[00:21:51.949 --> 00:21:54.589] DATA: Guinan, Lal needs to observe human behaviour.
+[00:21:55.069 --> 00:21:56.889] GUINAN: She's in the right place for it.
+[00:21:56.889 --> 00:22:00.269] DATA: And for this opportunity, she is willing to provide services to assist you.
+[00:22:01.709 --> 00:22:04.989] LAL: Father says I would learn a great deal from working with someone as old as you.
+[00:22:08.669 --> 00:22:09.229] GUINAN: You're hired.
+[00:22:11.069 --> 00:22:14.749] GUINAN: The most important part about working some place like this is the art listening.
+[00:22:15.549 --> 00:22:17.789] GUINAN: I have some expertise, so I shall teach you.
+[00:22:18.509 --> 00:22:19.869] DATA: That would be most beneficial.
+[00:22:20.663 --> 00:22:24.183] LAL: I've been programmed with a listing of fourteen hundred and twelve known beverages.
+[00:22:24.263 --> 00:22:24.743] GUINAN: What did you say?
+[00:22:25.543 --> 00:22:27.703] LAL: I've been programmed with a listing of fourteen hundred
+[00:22:27.703 --> 00:22:28.103] GUINAN: I've?
+[00:22:29.063 --> 00:22:30.423] DATA: You have used a verbal contraction.
+[00:22:30.903 --> 00:22:32.903] GUINAN: You said I've instead of I have.
+[00:22:33.383 --> 00:22:35.303] DATA: It is a skill my programme has never mastered.
+[00:22:35.703 --> 00:22:36.663] LAL: Then I will desist.
+[00:22:36.663 --> 00:22:36.823] DATA: No.
+[00:22:37.783 --> 00:22:39.303] DATA: You have exceeded my abilities.
+[00:22:40.023 --> 00:22:43.783] DATA: I do not object, but I do not understand how this has occurred.
+[00:22:44.023 --> 00:22:46.583] PICARD: Picard to Commander Data. Please report to my Ready room.
+[00:22:47.383 --> 00:22:47.703] DATA: Aye, sir.
+[00:22:59.623 --> 00:23:01.463] DATA: I am certain the Admiral is anxious to meet Lal.
+[00:23:02.103 --> 00:23:04.983] DATA: I have been sending him regular status reports on her development.
+[00:23:05.943 --> 00:23:09.543] PICARD: His visit is not just an inspection of Lal's progress.
+[00:23:09.543 --> 00:23:13.383] PICARD: He has expressed a concern for her environment.
+[00:23:14.183 --> 00:23:14.823] DATA: Her environment, sir?
+[00:23:16.183 --> 00:23:20.663] PICARD: He believes the Daystrom annex on Galor Four would be more suitable.
+[00:23:22.423 --> 00:23:23.783] DATA: Then he wishes to relocate us?
+[00:23:25.303 --> 00:23:26.823] PICARD: Not you, Data.
+[00:23:27.943 --> 00:23:28.423] PICARD: Just her.
+[00:23:28.423 --> 00:23:28.423] DATA: I
+[00:23:31.543 --> 00:23:32.983] DATA: would not be in favour of that, sir.
+[00:23:33.783 --> 00:23:36.023] DATA: There are many things that she can learn only from me.
+[00:23:36.503 --> 00:23:40.503] DATA: My lifetime of experiences. The mistakes I have made and what I have learned from them.
+[00:23:41.303 --> 00:23:44.103] WORF: Captain, Commander Riker's shuttle has just returned.
+[00:23:44.903 --> 00:23:45.703] PICARD: Acknowledged, Lieutenant.
+[00:23:46.581 --> 00:23:47.861] PICARD: Will you advise Commander Riker
+[00:23:48.181 --> 00:23:49.381] PICARD: I will meet with him in one hour.
+[00:23:49.701 --> 00:23:50.181] PICARD: Picard out.
+[00:23:51.861 --> 00:23:57.461] PICARD: The Admiral is taking the position that Lal's development should be overseen by the most experienced personnel.
+[00:24:04.181 --> 00:24:06.261] DATA: Then he is questioning my ability as a parent.
+[00:24:08.181 --> 00:24:09.141] PICARD: In a manner of speaking.
+[00:24:10.741 --> 00:24:11.861] DATA: Does the Admiral have children?
+[00:24:14.101 --> 00:24:15.381] PICARD: Yes, I believe he does, Data.
+[00:24:16.421 --> 00:24:16.661] PICARD: Why?
+[00:24:17.701 --> 00:24:22.741] DATA: I am forced to wonder how much experience he had as a parent when his first child was born.
+[00:24:30.581 --> 00:24:32.021] GUINAN: You see?
+[00:24:32.021 --> 00:24:34.901] LAL: What are they doing?
+[00:24:35.541 --> 00:24:36.421] GUINAN: It's called flirting.
+[00:24:37.061 --> 00:24:38.901] LAL: They seem to be communicating telepathically.
+[00:24:41.541 --> 00:24:44.101] GUINAN: They're both thinking the same thing, if that's what you mean.
+[00:24:48.741 --> 00:24:52.421] LAL: Guinan, is the joining of hands a symbolic act for humans?
+[00:24:53.221 --> 00:24:55.301] GUINAN: It shows affection.
+[00:24:55.781 --> 00:24:57.221] GUINAN: Humans like to touch each other.
+[00:24:57.221 --> 00:24:59.541] GUINAN: They start with the hands, and go from there.
+[00:25:02.501 --> 00:25:03.621] LAL: He's biting that female.
+[00:25:04.261 --> 00:25:05.461] GUINAN: No, he's not biting.
+[00:25:05.541 --> 00:25:06.501] GUINAN: They're pressing lips.
+[00:25:06.581 --> 00:25:07.781] GUINAN: It's called kissing.
+[00:25:12.341 --> 00:25:13.061] LAL: Why are they leaving?
+[00:25:15.221 --> 00:25:19.221] GUINAN: Lal, there are some things your father's just going to have to explain to you when he thinks you're ready.
+[00:25:29.657 --> 00:25:30.537] RIKER: You're new around here, aren't you?
+[00:25:31.097 --> 00:25:31.257] LAL: Yes.
+[00:25:34.777 --> 00:25:35.177] GUINAN: Lal!
+[00:25:35.337 --> 00:25:35.817] GUINAN: Lal,
+[00:25:36.537 --> 00:25:37.177] GUINAN: put him down.
+[00:25:38.777 --> 00:25:39.257] DATA: Commander,
+[00:25:40.777 --> 00:25:42.377] DATA: what are your intentions toward my daughter?
+[00:25:44.297 --> 00:25:44.857] RIKER: Your daughter?
+[00:25:47.177 --> 00:25:51.097] RIKER: Nice to meet you.
+[00:25:59.497 --> 00:26:02.617] LAL: I watch them and I can do the things they do
+[00:26:02.777 --> 00:26:04.937] LAL: but I will never feel the emotions.
+[00:26:07.257 --> 00:26:08.217] LAL: I'll never know love.
+[00:26:09.417 --> 00:26:11.657] DATA: It is a limitation we must learn to accept, Lal.
+[00:26:13.097 --> 00:26:15.337] LAL: Then why do you still try to emulate humans?
+[00:26:16.057 --> 00:26:19.497] LAL: What purpose does it serve except to remind you that you are incomplete?
+[00:26:21.657 --> 00:26:25.817] DATA: I have asked myself that many times as I have struggled to be more human.
+[00:26:29.017 --> 00:26:33.417] DATA: Until I realised it is the struggle itself that is most important.
+[00:26:34.537 --> 00:26:37.017] DATA: We must strive to be more than we are, Lal.
+[00:26:38.297 --> 00:26:41.417] DATA: It does not matter that we will never reach our ultimate goal.
+[00:26:42.537 --> 00:26:45.017] DATA: The effort yields its own rewards.
+[00:26:46.777 --> 00:26:47.817] LAL: You are wise, Father.
+[00:26:49.417 --> 00:26:52.937] DATA: It is the difference between knowledge and experience.
+[00:26:55.968 --> 00:26:58.208] LAL: I learned today that humans like to hold hands.
+[00:26:59.168 --> 00:27:01.088] LAL: It is a symbolic gesture of affection.
+[00:27:27.248 --> 00:27:30.128] HAFTEL: No objective viewpoint could see it any other way.
+[00:27:30.608 --> 00:27:31.408] PICARD: Forgive me, Admiral,
+[00:27:31.968 --> 00:27:35.808] PICARD: I thought you were sent here to form an opinion, not to justify one.
+[00:27:36.128 --> 00:27:39.328] HAFTEL: Captain, do not make this more difficult than it needs to be.
+[00:27:39.808 --> 00:27:42.128] PICARD: I see no need for it to be difficult at all.
+[00:27:42.128 --> 00:27:43.968] PICARD: I understand your concerns.
+[00:27:44.048 --> 00:27:47.328] PICARD: What I'm asking for is time, patience.
+[00:27:47.968 --> 00:27:55.008] PICARD: If you have an open mind, I'm sure you will see that it is imperative that Data and Lal be kept together during the formative stages of her development.
+[00:27:55.008 --> 00:28:00.048] PICARD: After that, I have no doubt Commander Data will be delighted to deliver her to Starfleet Research.
+[00:28:00.528 --> 00:28:01.728] HAFTEL: That's not satisfactory.
+[00:28:02.688 --> 00:28:07.088] HAFTEL: If mistakes are made, the damage that's done might be irreparable.
+[00:28:08.528 --> 00:28:11.888] PICARD: I'm convinced the damage will be irreparable if they're separated.
+[00:28:12.368 --> 00:28:12.768] HAFTEL: Captain,
+[00:28:14.528 --> 00:28:16.208] HAFTEL: are we talking about breaking up a family?
+[00:28:16.208 --> 00:28:20.928] HAFTEL: Isn't that rather a sentimental attitude about androids?
+[00:28:23.968 --> 00:28:25.648] PICARD: They're living, sentient beings.
+[00:28:26.401 --> 00:28:29.201] PICARD: Their rights and privileges in our society have been defined.
+[00:28:29.281 --> 00:28:30.401] PICARD: I helped define them.
+[00:28:30.721 --> 00:28:31.521] HAFTEL: Yes, Captain,
+[00:28:32.161 --> 00:28:34.081] HAFTEL: and I am more than willing to acknowledge that.
+[00:28:34.881 --> 00:28:43.121] HAFTEL: What you must acknowledge is that Lal may be a technological step forward in the development of artificial intelligence.
+[00:28:43.201 --> 00:28:44.161] PICARD: A most significant step.
+[00:28:44.321 --> 00:28:48.001] HAFTEL: Yes, and work like this demands to be done with controlled procedures.
+[00:28:48.001 --> 00:28:49.681] PICARD: Which Commander Data is following.
+[00:28:49.761 --> 00:28:51.681] HAFTEL: In effective isolation.
+[00:28:52.961 --> 00:28:56.001] HAFTEL: And that is what Starfleet Research finds unacceptable.
+[00:29:00.561 --> 00:29:02.961] DATA: So Lal now possesses the sum of my programming.
+[00:29:03.841 --> 00:29:06.401] HAFTEL: Her neural nets are laid down identically to yours?
+[00:29:07.281 --> 00:29:09.441] DATA: There do seem to be some variations on the quantum level.
+[00:29:09.921 --> 00:29:11.121] DATA: She can use contractions.
+[00:29:11.841 --> 00:29:12.321] DATA: I cannot.
+[00:29:13.361 --> 00:29:14.241] HAFTEL: An aberration.
+[00:29:14.961 --> 00:29:15.921] HAFTEL: What have you done about this?
+[00:29:16.401 --> 00:29:22.001] DATA: I have maintained records on positronic matrix activity, behavioral norms, and all verbal patterns.
+[00:29:22.401 --> 00:29:24.321] DATA: I have seen no evidence of other aberrations.
+[00:29:24.721 --> 00:29:27.281] PICARD: It would seem you've actually improved upon yourself, Data.
+[00:29:28.241 --> 00:29:29.761] DATA: Is that not the goal of every parent, sir?
+[00:29:30.801 --> 00:29:41.281] HAFTEL: But as a good father, don't you think it would be better, especially in light of this new aberration, if Lal were close to people trained in diagnostic and evaluative procedures?
+[00:29:41.681 --> 00:29:43.841] DATA: I am programmed with the procedures you mention, sir.
+[00:29:44.641 --> 00:29:50.561] DATA: And in any meaningful evaluation of Lal, you would require a model for a basis of comparison.
+[00:29:51.601 --> 00:29:53.121] DATA: I am the only model available, Admiral.
+[00:29:54.081 --> 00:29:58.641] HAFTEL: You haven't mastered human cultural and behavioural norms yourself yet, have you?
+[00:29:59.041 --> 00:29:59.361] DATA: No, sir.
+[00:30:00.908 --> 00:30:01.788] HAFTEL: Where is Lal now?
+[00:30:12.188 --> 00:30:13.228] HAFTEL: This is your idea of
+[00:30:14.188 --> 00:30:15.468] HAFTEL: appropriate guidance?
+[00:30:16.108 --> 00:30:22.028] DATA: It is an opportunity for her to observe human behaviour and more importantly, for her to interact with her crewmates.
+[00:30:26.748 --> 00:30:33.224] HAFTEL: She is capable of running over sixty trillion calculations per second, and you have her working as a cocktail waitress.
+[00:30:33.224 --> 00:30:33.548] PICARD: Admiral,
+[00:30:33.868 --> 00:30:38.428] PICARD: she is under the strict guidance of a woman in whom I have absolute trust.
+[00:30:39.628 --> 00:30:42.028] PICARD: Ten Forward is the centre of the ship's social activity.
+[00:30:42.428 --> 00:30:43.548] PICARD: Everyone on board comes here.
+[00:30:44.428 --> 00:30:47.868] HAFTEL: I'm not convinced the sort of behaviour she observes here will be a positive influence.
+[00:30:48.108 --> 00:30:52.508] GUINAN: Most people when they come here behave themselves. If they don't, I ask them to leave.
+[00:30:53.388 --> 00:30:54.108] PICARD: Admiral Haftel,
+[00:30:54.508 --> 00:30:54.828] PICARD: Guinan.
+[00:30:55.308 --> 00:30:56.508] PICARD: She runs Ten Forward.
+[00:30:56.988 --> 00:30:57.868] PICARD: How is Lal doing?
+[00:30:58.268 --> 00:31:00.828] GUINAN: She spills a few drinks every now and then, but she's learning.
+[00:31:03.388 --> 00:31:03.468] HAFTEL: I
+[00:31:06.428 --> 00:31:07.628] HAFTEL: want the android out of here.
+[00:31:08.188 --> 00:31:11.388] GUINAN: Now, Admiral, you've been in one or two bars in your time.
+[00:31:12.828 --> 00:31:14.748] HAFTEL: Have her report to me immediately for an interview.
+[00:31:14.748 --> 00:31:14.748] HAFTEL: Well, Lal,
+[00:31:35.165 --> 00:31:36.605] HAFTEL: I've been looking forward to meeting you.
+[00:31:37.405 --> 00:31:37.725] LAL: Why?
+[00:31:38.765 --> 00:31:41.165] HAFTEL: You're very important to us at Starfleet Research.
+[00:31:42.285 --> 00:31:44.125] HAFTEL: We have got quite a facility at Galor Four.
+[00:31:44.765 --> 00:31:45.565] HAFTEL: I want like to show it to you.
+[00:31:45.965 --> 00:31:49.645] PICARD: In fact, the Admiral is fact suggesting you be moved to Galor Four, Lal.
+[00:31:50.765 --> 00:31:51.805] LAL: Have I done something wrong?
+[00:31:52.365 --> 00:31:53.245] HAFTEL: Oh, no, of course not.
+[00:31:53.805 --> 00:31:55.565] HAFTEL: We just want to broaden your experience.
+[00:31:56.205 --> 00:31:58.525] HAFTEL: There's only so much you can learn on a starship.
+[00:31:59.085 --> 00:32:00.205] HAFTEL: I'm sure you'll agree to that.
+[00:32:01.005 --> 00:32:02.125] LAL: Yes, I'll agree.
+[00:32:02.365 --> 00:32:02.605] HAFTEL: Good.
+[00:32:03.725 --> 00:32:09.965] LAL: Thus, the natural conclusion would be when I have learned all there is to learn aboard the starship, I would relocate to Galor Four.
+[00:32:10.285 --> 00:32:12.445] HAFTEL: That is not the natural conclusion here.
+[00:32:14.845 --> 00:32:15.725] LAL: I believe it is.
+[00:32:15.875 --> 00:32:16.475] PICARD: You
+[00:32:17.245 --> 00:32:25.005] PICARD: see, Lal, the Admiral is concerned that you need more guidance than your father can provide here on the Enterprise.
+[00:32:25.565 --> 00:32:25.965] HAFTEL: Yes.
+[00:32:26.285 --> 00:32:27.245] HAFTEL: Don't misunderstand me,
+[00:32:27.245 --> 00:32:29.245] HAFTEL: I have great respect for your father.
+[00:32:29.725 --> 00:32:31.085] LAL: You do not speak with respect.
+[00:32:32.445 --> 00:32:34.205] HAFTEL: She seems very adversarial.
+[00:32:35.005 --> 00:32:36.685] LAL: I'm merely stating a fact, Admiral.
+[00:32:38.525 --> 00:32:44.285] HAFTEL: I don't think your father has taught you selective judgment in the verbalisation of your own thoughts.
+[00:32:45.325 --> 00:32:47.405] HAFTEL: That is a skill we will help you develop.
+[00:32:48.765 --> 00:32:50.525] LAL: My father is already helping me, sir.
+[00:32:51.085 --> 00:32:53.405] HAFTEL: The question is, has he helped you enough?
+[00:32:56.845 --> 00:32:57.965] LAL: Are you asking me, sir?
+[00:32:59.085 --> 00:33:00.685] HAFTEL: No, I didn't mean to ask any
+[00:33:00.765 --> 00:33:01.565] PICARD: Why don't we, Admiral?
+[00:33:02.811 --> 00:33:05.691] PICARD: In all these discussions, no one has ever mentioned her wishes.
+[00:33:06.491 --> 00:33:07.931] PICARD: She's a free, sentient being.
+[00:33:08.651 --> 00:33:09.611] PICARD: What are your wishes, Lal?
+[00:33:11.451 --> 00:33:14.651] LAL: I wish to remain here, Captain Picard.
+[00:33:19.851 --> 00:33:20.411] PICARD: Thank you, Lal.
+[00:33:21.611 --> 00:33:22.171] PICARD: You're excused.
+[00:33:34.171 --> 00:33:36.491] TROI: Come in.
+[00:33:43.691 --> 00:33:44.251] TROI: Hello, Lal.
+[00:33:46.331 --> 00:33:47.291] TROI: How are you?
+[00:33:47.291 --> 00:33:47.611] LAL: Troi.
+[00:33:49.211 --> 00:33:49.611] LAL: Admiral.
+[00:33:50.811 --> 00:33:51.211] LAL: Admiral.
+[00:33:52.091 --> 00:33:55.131] LAL: An admiral from Starfleet has come to take me away, Troi.
+[00:33:56.971 --> 00:33:58.091] LAL: I am scared.
+[00:33:59.451 --> 00:34:00.651] TROI: You are scared, aren't you?
+[00:34:04.971 --> 00:34:05.851] LAL: I feel it.
+[00:34:08.331 --> 00:34:09.291] LAL: How is this possible?
+[00:34:11.291 --> 00:34:12.091] TROI: I don't know.
+[00:34:18.011 --> 00:34:19.531] LAL: This is what it means to feel.
+[00:34:22.251 --> 00:34:26.331] LAL: This is what it means to
+[00:34:27.451 --> 00:34:27.851] LAL: feel.
+[00:34:38.178 --> 00:34:41.538] HAFTEL: You have Lal off to a wonderful start in life, Commander.
+[00:34:43.698 --> 00:34:45.298] HAFTEL: And that's what being a parent is all about.
+[00:34:47.538 --> 00:34:52.178] HAFTEL: However, I have finally decided that I must ask you to release her to me.
+[00:34:53.538 --> 00:34:54.418] DATA: May I ask why, sir?
+[00:34:54.978 --> 00:34:57.698] HAFTEL: All the other arguments aside, there's one that is irrefutable.
+[00:34:59.058 --> 00:35:01.938] HAFTEL: There are only two Soong-type androids in existence.
+[00:35:02.658 --> 00:35:06.578] HAFTEL: It would be very dangerous to have you both in the same place. Especially aboard a starship.
+[00:35:07.458 --> 00:35:10.178] HAFTEL: One lucky shot by a Romulan, we'd lose you both.
+[00:35:10.818 --> 00:35:14.578] PICARD: Admiral, that is a fine argument, but it
+[00:35:16.338 --> 00:35:22.018] PICARD: doesn't change my feeling that the proper place for Lal to develop is by Data's side.
+[00:35:22.578 --> 00:35:24.018] HAFTEL: You're not a parent, Captain.
+[00:35:25.058 --> 00:35:25.698] HAFTEL: I am.
+[00:35:27.058 --> 00:35:32.338] HAFTEL: I have learned, with difficulty, that there comes a time
+[00:35:34.258 --> 00:35:37.858] HAFTEL: when all parents must give up their children for their own good.
+[00:35:38.578 --> 00:35:39.458] PICARD: This is not the time.
+[00:35:40.818 --> 00:35:41.138] PICARD: Damn it,
+[00:35:41.138 --> 00:35:41.938] PICARD: even I can see
+[00:35:45.058 --> 00:35:47.218] PICARD: the umbilical cord is virtually uncut.
+[00:35:48.098 --> 00:35:48.658] PICARD: The child,
+[00:35:52.258 --> 00:35:52.898] PICARD: the child
+[00:35:53.858 --> 00:35:54.898] PICARD: depends on him.
+[00:35:56.658 --> 00:36:05.218] HAFTEL: Mister Data, it would be better for Lal if she left knowing you had voluntarily decided that this was the best course of action.
+[00:36:07.722 --> 00:36:15.722] DATA: Admiral, when I created Lal, it was in the hope that someday she would choose to enter the Academy and become a member of Starfleet.
+[00:36:16.842 --> 00:36:20.602] DATA: I wanted to give something back in return for all Starfleet has given me.
+[00:36:21.882 --> 00:36:22.522] DATA: I still do.
+[00:36:24.522 --> 00:36:25.802] DATA: But Lal is my child.
+[00:36:27.402 --> 00:36:29.242] DATA: You ask that I volunteer to give her up.
+[00:36:31.002 --> 00:36:31.642] DATA: I cannot.
+[00:36:32.602 --> 00:36:35.882] DATA: It would violate every lesson I have learned about human parenting.
+[00:36:37.082 --> 00:36:52.522] DATA: I have brought a new life into this world, and it is my duty, not Starfleet's, to guide her through these first difficult steps to maturity, to support her as she learns, to prepare her to be a contributing member of society.
+[00:36:54.202 --> 00:36:59.002] DATA: No one can relieve me from that obligation. And I cannot ignore it.
+[00:37:00.922 --> 00:37:01.242] DATA: I am
+[00:37:03.642 --> 00:37:04.122] DATA: her father.
+[00:37:10.762 --> 00:37:14.522] HAFTEL: Then I regret that I must order you to transport Lal aboard my ship.
+[00:37:18.202 --> 00:37:19.242] PICARD: Belay that order, Mister Data.
+[00:37:19.962 --> 00:37:20.922] HAFTEL: I beg your pardon?
+[00:37:21.962 --> 00:37:24.602] PICARD: I will take this to Starfleet myself.
+[00:37:24.842 --> 00:37:26.602] HAFTEL: I am Starfleet, Captain!
+[00:37:28.282 --> 00:37:28.922] HAFTEL: Proceed, Commander.
+[00:37:29.482 --> 00:37:30.762] PICARD: Hold your ground, Mister Data.
+[00:37:31.482 --> 00:37:34.042] HAFTEL: Captain, you are jeopardising your command and your career.
+[00:37:38.226 --> 00:37:46.066] PICARD: There are times, sir, when men of good conscience cannot blindly follow orders.
+[00:37:47.426 --> 00:37:49.106] PICARD: You acknowledge their sentience, but
+[00:37:50.706 --> 00:37:53.986] PICARD: you ignore their personal liberties and freedom.
+[00:37:57.426 --> 00:38:00.066] PICARD: Order a man to hand his child over to the state?
+[00:38:01.746 --> 00:38:02.786] PICARD: Not while I am his captain.
+[00:38:04.306 --> 00:38:08.146] PICARD: If you wish, you can accompany us to Starfleet, where we shall
+[00:38:08.146 --> 00:38:08.370] PICARD: see
+[00:38:08.370 --> 00:38:09.266] TROI: Troi to Commander Data.
+[00:38:09.666 --> 00:38:11.026] TROI: Report to your lab at once.
+[00:38:13.506 --> 00:38:14.226] PICARD: Acknowledged, Counsellor.
+[00:38:14.226 --> 00:38:14.706] PICARD: He's on his way.
+[00:38:15.506 --> 00:38:16.066] PICARD: Is there a problem?
+[00:38:16.626 --> 00:38:17.346] TROI: Yes, Captain.
+[00:38:18.626 --> 00:38:20.546] TROI: Something is terribly wrong with Lal.
+[00:38:23.506 --> 00:38:24.866] TROI: It lasted barely a moment.
+[00:38:25.506 --> 00:38:31.506] TROI: She experienced fear and confusion. And then for no apparent reason she walked out of my quarters.
+[00:38:32.066 --> 00:38:32.866] TROI: She didn't say another word,
+[00:38:32.866 --> 00:38:36.626] TROI: she just started walking here and each step became more and more difficult.
+[00:38:37.186 --> 00:38:40.066] DATA: Lal is programmed to return to the lab in the event of a malfunction.
+[00:38:41.826 --> 00:38:42.226] LAL: Father.
+[00:38:43.026 --> 00:38:43.426] DATA: Yes, Lal.
+[00:38:44.146 --> 00:38:44.626] DATA: I am here.
+[00:38:45.426 --> 00:38:46.306] PICARD: A malfunction.
+[00:38:47.906 --> 00:38:49.346] PICARD: Emotional awareness.
+[00:38:49.986 --> 00:38:52.066] DATA: It appears to be a symptom of cascade failure.
+[00:38:52.946 --> 00:38:56.946] DATA: It would require initialisation the base matrix without wiping out the higher functions.
+[00:38:57.266 --> 00:38:57.746] HAFTEL: I agree.
+[00:39:00.226 --> 00:39:01.186] HAFTEL: May I assist?
+[00:39:03.506 --> 00:39:03.906] DATA: Thank you, Admiral.
+[00:39:04.786 --> 00:39:07.746] HAFTEL: If you'll excuse us, Commander Data and I have much to do.
+[00:39:47.001 --> 00:39:48.921] HAFTEL: She won't survive much longer.
+[00:39:51.481 --> 00:39:53.081] HAFTEL: There was nothing anyone could have done.
+[00:39:54.041 --> 00:40:00.521] HAFTEL: We'd repolarise one pathway and another would collapse. And then another.
+[00:40:03.401 --> 00:40:10.441] HAFTEL: His hands were moving faster than I could see, trying to stay ahead of each breakdown.
+[00:40:11.721 --> 00:40:12.841] HAFTEL: He refused to give up.
+[00:40:14.841 --> 00:40:15.881] HAFTEL: He was remarkable.
+[00:40:16.031 --> 00:40:16.631] HAFTEL: It
+[00:40:20.521 --> 00:40:23.321] HAFTEL: just wasn't meant to be.
+[00:40:30.601 --> 00:40:30.841] DATA: Lal?
+[00:40:30.841 --> 00:40:31.481] DATA: I am
+[00:40:33.801 --> 00:40:35.001] DATA: unable to correct the system failure.
+[00:40:36.681 --> 00:40:37.161] LAL: I know.
+[00:40:39.481 --> 00:40:40.521] DATA: We must say goodbye now.
+[00:40:44.967 --> 00:40:45.607] LAL: I feel
+[00:40:47.927 --> 00:40:48.567] DATA: What do you feel, Lal?
+[00:40:51.207 --> 00:40:52.327] LAL: I love you, Father.
+[00:40:52.327 --> 00:40:52.407] DATA: I
+[00:41:01.127 --> 00:41:02.087] DATA: wish I could feel it with
+[00:41:03.607 --> 00:41:05.607] DATA: you.
+[00:41:05.687 --> 00:41:07.687] LAL: I will feel it for both of us.
+[00:41:11.047 --> 00:41:12.407] LAL: Thank you for my life.
+[00:41:17.927 --> 00:41:18.407] LAL: Flirting.
+[00:41:20.887 --> 00:41:21.367] LAL: Laughter.
+[00:41:23.047 --> 00:41:24.327] LAL: Painting. Family.
+[00:41:27.047 --> 00:41:30.087] LAL: Female. Human.
+[00:41:39.047 --> 00:41:42.487] DATA: Lal suffered complete neural system failure at thirteen hundred hours.
+[00:41:43.287 --> 00:41:44.407] DATA: I have deactivated the unit.
+[00:41:48.007 --> 00:41:50.087] PICARD: The crew is saddened by your loss, Mister Data.
+[00:41:53.527 --> 00:41:54.967] DATA: I thank you for your sympathy, but
+[00:41:57.527 --> 00:41:58.167] DATA: she is here.
+[00:42:00.087 --> 00:42:04.727] DATA: Her presence so enriched my life that I could not allow her to pass into oblivion.
+[00:42:05.687 --> 00:42:06.407] DATA: So I incorporated
+[00:42:06.306 --> 00:42:09.026] DATA: her programs back into my own.
+[00:42:10.386 --> 00:42:13.026] DATA: I have transferred her memories to me.
+[00:42:16.786 --> 00:42:18.146] PICARD: Mister Data, will you take your position?
+[00:42:22.146 --> 00:42:22.546] PICARD: Mister Crusher?
+[00:42:24.226 --> 00:42:26.066] PICARD: Lay in a course for the starbase on Otar Two.
+[00:42:30.866 --> 00:42:31.586] WESLEY: Course is set, sir.
+[00:42:33.666 --> 00:42:34.146] PICARD: Engage.

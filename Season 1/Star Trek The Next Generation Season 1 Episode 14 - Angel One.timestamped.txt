@@ -1,0 +1,626 @@
+[00:00:04.160 --> 00:00:07.200] LOG: Captain's log, stardate 41636.9.
+[00:00:07.680 --> 00:00:15.680] LOG: As feared, our examination of the seven year overdue Federation freighter, Odin, disabled by an asteroid collision, revealed no survivors.
+[00:00:16.320 --> 00:00:21.120] LOG: However, three escape pods were missing, suggesting the possibility of survivors.
+[00:00:22.080 --> 00:00:23.920] LAFORGE: Ready to begin orbit of Angel One, Captain.
+[00:00:24.080 --> 00:00:25.280] PICARD: Make it so, Mister La Forge.
+[00:00:25.520 --> 00:00:26.720] PICARD: What kind of place is this, Data?
+[00:00:27.200 --> 00:00:33.200] DATA: Angel One is a class M planet, sir, supporting carbon based flora and fauna, sparsely populated with intelligent life forms.
+[00:00:33.520 --> 00:00:36.800] DATA: It is similar in technological development to mid-twentieth century Earth.
+[00:00:37.440 --> 00:00:38.960] LAFORGE: Kind of like being marooned at home.
+[00:00:39.760 --> 00:00:41.600] RIKER: Assuming any of the survivors made it this far.
+[00:00:42.400 --> 00:00:44.240] RIKER: Admittedly, it 'is the closest planet to the Odin, but
+[00:00:44.720 --> 00:00:50.240] RIKER: to travel distance we did in two days at warp one would have taken the Odin escape pod five months.
+[00:00:50.960 --> 00:00:53.520] DATA: Five months, fourteen days, eleven hours, two minutes
+[00:00:53.520 --> 00:00:54.480] RIKER: Thank you, Data.
+[00:00:54.480 --> 00:00:55.760] DATA: And fifty seven seconds.
+[00:00:56.640 --> 00:00:58.800] TASHA: Captain, we're receiving an audio signal from Angel One.
+[00:00:59.440 --> 00:01:04.160] PICARD: Starfleet are adamant that we maintain excellent diplomatic relations with this planet. Mister Data,
+[00:01:05.200 --> 00:01:07.760] PICARD: is there any other pertinent information before we reply?
+[00:01:08.480 --> 00:01:11.120] DATA: Angel One has evolved into a constitutional oligarchy.
+[00:01:11.600 --> 00:01:18.400] DATA: It is governed by a parliamentary body consisting of six elected Mistresses, and headed by a female they refer to as The Elected One.
+[00:01:18.880 --> 00:01:20.480] TROI: It sounds like my own planet.
+[00:01:21.440 --> 00:01:23.360] WORF: Klingons appreciate strong women.
+[00:01:26.320 --> 00:01:27.920] PICARD: How current is this information, Mister Data?
+[00:01:28.800 --> 00:01:32.400] DATA: A Federation vessel last visited this planet sixty two years ago, Captain.
+[00:01:33.375 --> 00:01:39.455] PICARD: Counsellor, as this is a female dominated society, you might wish to make the initial contact.
+[00:01:40.095 --> 00:01:40.495] TROI: Thank you, sir.
+[00:01:41.375 --> 00:01:42.335] PICARD: Open hailing frequencies.
+[00:01:42.975 --> 00:01:44.015] TASHA: Hailing frequencies open, sir.
+[00:01:45.295 --> 00:01:48.255] TROI: This is Counsellor Deanna Troi from the USS Enterprise. :
+[00:01:49.455 --> 00:01:50.815] BEATA: I am Beata, The Elected One.
+[00:01:51.295 --> 00:01:52.575] BEATA: How may we assist you, Counsellor?
+[00:01:53.695 --> 00:01:57.295] TROI: The Federation has neglected to visit to your planet for far too long.
+[00:01:58.015 --> 00:02:01.375] TROI: With your permission, we would like to correct that oversight. :
+[00:02:02.255 --> 00:02:04.255] BEATA: We feel in no way neglected, Counsellor.
+[00:02:04.975 --> 00:02:08.015] BEATA: A diplomatic courtesy call is neither expected nor required.
+[00:02:10.415 --> 00:02:14.655] TROI: We also come in search of possible survivors from one of our freighters. :
+[00:02:15.615 --> 00:02:19.615] BEATA: A brief visit will be tolerated.
+[00:02:20.415 --> 00:02:22.815] TASHA: They've broken off transmission.
+[00:02:24.335 --> 00:02:26.415] LAFORGE: Ever feel like you're not really wanted?
+[00:02:50.735 --> 00:02:53.535] PICARD: Space, the final frontier.
+[00:02:55.375 --> 00:02:58.335] PICARD: These are the voyagers of the starship Enterprise.
+[00:02:57.761 --> 00:02:58.241] PICARD: Prize.
+[00:02:59.361 --> 00:03:07.681] PICARD: It's continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:09.281 --> 00:03:12.161] PICARD: to boldly go where no one has gone before.
+[00:03:15.000 --> 00:03:23.000] [music]
+[00:03:30.000 --> 00:04:03.000] [music]
+[00:04:20.641 --> 00:04:21.441] RIKER: Where're you fellows off to?
+[00:04:21.761 --> 00:04:24.161] WESLEY: Our ski instructor has us scheduled for the Denubian Alps, sir.
+[00:04:24.481 --> 00:04:25.521] RIKER: Save us some deep powder.
+[00:04:25.822 --> 00:04:26.462] WESLEY: No problem, sir.
+[00:04:26.622 --> 00:04:27.902] WESLEY: The holodecks have all you'll ever need.
+[00:04:38.782 --> 00:04:39.742] RIKER: The away team's ready, sir.
+[00:04:40.222 --> 00:04:43.182] PICARD: Angel One's strategic importance in this quadrant may become vital.
+[00:04:43.822 --> 00:04:46.702] PICARD: Starfleet's hope is that one day this world may become part of the Federation.
+[00:04:46.942 --> 00:04:48.542] RIKER: We'll do our best to make a good impression, sir.
+[00:04:50.862 --> 00:04:51.342] PICARD: Energise.
+[00:04:58.782 --> 00:04:59.422] LOG: Captain's log,
+[00:04:59.422 --> 00:04:59.982] LOG: supplemental.
+[00:05:00.462 --> 00:05:09.822] LOG: Our away team has beamed down to an unusual matriarchal society where the female is as aggressively dominant as the male gender was on Earth hundreds of years ago.
+[00:05:10.222 --> 00:05:15.582] LOG: Here, the female is the hunter, the soldier, larger and stronger than the male.
+[00:05:16.382 --> 00:05:18.862] LOG: An arrangement considered most sensible and natural.
+[00:05:20.302 --> 00:05:22.222] BEATA: I am Beata, The Elected One of Angel One.
+[00:05:23.022 --> 00:05:26.062] BEATA: Representatives of the Starfleet Enterprise, do you wish to petition?
+[00:05:26.462 --> 00:05:26.862] TROI: We do.
+[00:05:27.822 --> 00:05:32.782] TROI: We have reason to hope that survivors from a damaged Federation freighter may be marooned on your planet.
+[00:05:33.582 --> 00:05:35.102] TROI: We are seeking to learn if this is so.
+[00:05:37.982 --> 00:05:40.782] BEATA: Even a planet as remote as Angel One has heard of Starfleet.
+[00:05:41.982 --> 00:05:46.382] BEATA: Searching the galaxy for survivors seems a petty task for one of their mighty vessels.
+[00:05:48.062 --> 00:05:50.062] RIKER: We don't consider even one survivor petty.
+[00:05:52.688 --> 00:05:56.448] BEATA: Is this man implying that we put a lesser value on life than you do?
+[00:05:58.048 --> 00:05:58.688] TROI: Not at all.
+[00:06:00.368 --> 00:06:02.848] TROI: Our discovery of the freighter was unexpected.
+[00:06:03.568 --> 00:06:05.168] TROI: We have a duty to investigate.
+[00:06:05.808 --> 00:06:06.208] BEATA: I see.
+[00:06:09.168 --> 00:06:11.756] BEATA: And if you find any survivors, what then?
+[00:06:11.756 --> 00:06:16.608] TROI: We will take them with us and see that they were reunited with their families.
+[00:06:17.088 --> 00:06:19.248] ARIEL: Are we to take these strangers at their word?
+[00:06:20.208 --> 00:06:20.928] BEATA: Good question.
+[00:06:21.328 --> 00:06:23.488] TASHA: What reason could we possibly have to deceive you?
+[00:06:24.288 --> 00:06:25.328] BEATA: Another good question.
+[00:06:26.768 --> 00:06:29.728] RIKER: Are there survivors from the freighter Odin on your planet?
+[00:06:32.928 --> 00:06:35.328] BEATA: I'm not prepared to answer, yet.
+[00:06:35.808 --> 00:06:36.608] BEATA: See to their comforts.
+[00:06:39.248 --> 00:06:39.488] RIKER: What's going
+[00:06:42.848 --> 00:06:42.848] RIKER: on?
+[00:06:52.208 --> 00:06:55.968] TRENT: You will remain here until summoned.
+[00:07:05.568 --> 00:07:08.448] RIKER: Is thus area secure?
+[00:07:08.768 --> 00:07:09.248] RIKER: Can we talk?
+[00:07:09.888 --> 00:07:10.368] TASHA: Yes.
+[00:07:11.088 --> 00:07:14.768] TASHA: Tricorder doesn't show any listening devices or anything else of a threatening nature.
+[00:07:15.568 --> 00:07:16.608] RIKER: Good. Troi?
+[00:07:17.808 --> 00:07:19.248] TROI: There was much fear in that room.
+[00:07:19.826 --> 00:07:21.346] RIKER: Paranoia, I'd say. But of what?
+[00:07:21.826 --> 00:07:22.466] TROI: I cannot say.
+[00:07:23.266 --> 00:07:24.786] TROI: But their fear was not focused.
+[00:07:25.586 --> 00:07:28.226] TROI: I sensed that all were not concerned for the same reason.
+[00:07:29.586 --> 00:07:32.866] TROI: Undoubtedly there are survivors from the Odin on this planet.
+[00:07:33.346 --> 00:07:33.746] RIKER: I agree.
+[00:07:34.546 --> 00:07:36.066] RIKER: Otherwise, why would they be so circumspect?
+[00:07:36.706 --> 00:07:39.826] TASHA: As Mistress Beata is so fond of saying, good question.
+[00:07:40.786 --> 00:07:43.506] DATA: What do we do if they deny the existence of survivors?
+[00:07:44.386 --> 00:07:45.666] RIKER: Let's not look for problems.
+[00:07:49.106 --> 00:07:49.186] PICARD: I
+[00:07:52.546 --> 00:07:57.586] PICARD: want all departments prepared for a warp six trip into the Neutral Zone as soon as the away team completes its mission.
+[00:07:58.066 --> 00:07:58.706] WORF: Trouble, Captain?
+[00:07:59.666 --> 00:08:00.306] PICARD: Insurance.
+[00:08:00.866 --> 00:08:04.706] PICARD: Romulan battle cruisers have been detected near one of our border posts.
+[00:08:06.306 --> 00:08:08.386] PICARD: They've requested assistance
+[00:08:09.266 --> 00:08:10.546] PICARD: as soon as Argh!
+[00:08:16.066 --> 00:08:16.866] PICARD: Report, Mister Crusher.
+[00:08:18.306 --> 00:08:21.986] WESLEY: We finished our ski lesson, sir, and it kind of just happened.
+[00:08:22.466 --> 00:08:24.706] PICARD: On the Enterprise, Mister Crusher, nothing just happens.
+[00:08:25.906 --> 00:08:26.626] PICARD: What is that smell?
+[00:08:26.776 --> 00:08:27.376] WORF: Hmm,
+[00:08:28.386 --> 00:08:31.986] WORF: yes. Slightly reminiscent of night blooming throgni, Captain.
+[00:08:32.706 --> 00:08:33.266] WORF: From home.
+[00:08:35.746 --> 00:08:37.426] WORF: Quite stimulating, wouldn't you say?
+[00:08:37.666 --> 00:08:37.986] PICARD: No.
+[00:08:39.506 --> 00:08:40.386] WESLEY: I don't smell anything.
+[00:08:41.026 --> 00:08:41.906] WESLEY: I'm a little congested.
+[00:08:42.306 --> 00:08:42.706] WESLEY: The snow.
+[00:08:43.746 --> 00:08:46.226] PICARD: Don't let this just happen again, Mister Crusher.
+[00:08:46.786 --> 00:08:47.106] WESLEY: Yes, sir.
+[00:09:01.074 --> 00:09:01.474] DATA: Interesting.
+[00:09:02.514 --> 00:09:06.354] DATA: An alcohol-based synthetic, artificially reproducing a floral scent.
+[00:09:06.834 --> 00:09:08.114] TROI: It's called perfume, Data.
+[00:09:08.914 --> 00:09:10.034] DATA: The purpose of which is?
+[00:09:10.354 --> 00:09:12.674] TASHA: Certain cultures consider perfume an aphrodisiac.
+[00:09:13.874 --> 00:09:15.154] DATA: I am unfamiliar with that term.
+[00:09:16.114 --> 00:09:20.514] RIKER: An aphrodisiac is something used to stimulate or enhance sexual pleasure.
+[00:09:21.794 --> 00:09:25.714] DATA: How does stimulation of the olfactory nerves affect the enjoyment of sex?
+[00:09:29.234 --> 00:09:31.634] TRENT: The Elected One will see you now.
+[00:09:41.474 --> 00:09:44.274] BEATA: You claim you intend to remove these survivors from our planet.
+[00:09:45.074 --> 00:09:46.834] BEATA: Are you prepared to give us your solemn word on that?
+[00:09:47.874 --> 00:09:48.354] TROI: We are.
+[00:09:49.474 --> 00:09:51.714] BEATA: You should know that the vote was not unanimous.
+[00:09:53.074 --> 00:09:54.834] BEATA: Some of those among us are suspicious.
+[00:09:57.154 --> 00:09:59.474] BEATA: Yet the majority feel that we have no choice but to trust you.
+[00:10:00.354 --> 00:10:04.194] RIKER: We don't understand the source of your misgivings, Mistress, but we appreciate your faith in us.
+[00:10:04.674 --> 00:10:07.074] BEATA: Make certain that faith is not misplaced.
+[00:10:09.794 --> 00:10:12.114] BEATA: There are four survivors from the ship you call Odin.
+[00:10:13.714 --> 00:10:14.354] BEATA: All male.
+[00:10:15.554 --> 00:10:17.634] BEATA: Their leader is a man who calls himself Ramsey.
+[00:10:18.914 --> 00:10:23.234] TROI: If you'll deliver these men to us, we'll have them off your planet immediately.
+[00:10:23.714 --> 00:10:26.354] BEATA: If they were mine to deliver, I would do it without hesitation.
+[00:10:27.212 --> 00:10:29.612] BEATA: Unfortunately, their hiding place has long eluded us.
+[00:10:30.092 --> 00:10:30.892] TASHA: Hiding place?
+[00:10:31.932 --> 00:10:32.812] TASHA: Why are they in hiding?
+[00:10:33.292 --> 00:10:37.292] BEATA: Because they are fugitives on Angel One, and the quicker we get rid of them, the better.
+[00:10:38.172 --> 00:10:42.252] BEATA: When these men came to us seven years ago, they accepted our hospitality quickly enough.
+[00:10:44.252 --> 00:10:48.892] BEATA: But they gradually became restive, started making unreasonable demands,
+[00:10:50.972 --> 00:10:52.332] BEATA: went against the natural order.
+[00:10:53.692 --> 00:10:58.012] TROI: Using the technology of the Enterprise, we might be able to find these men.
+[00:10:58.572 --> 00:10:59.532] BEATA: I assumed as much.
+[00:11:00.972 --> 00:11:02.012] BEATA: But be warned, Counsellor,
+[00:11:02.892 --> 00:11:04.012] BEATA: these men are dangerous.
+[00:11:14.000 --> 00:11:18.000] [throat clearing]
+[00:11:17.372 --> 00:11:20.252] CRUSHER: Sickbay to Captain Picard.
+[00:11:20.972 --> 00:11:21.452] PICARD: Picard here.
+[00:11:22.012 --> 00:11:25.372] CRUSHER: Wesley and one of his friends have contracted some form of respiratory ailment.
+[00:11:25.692 --> 00:11:26.892] PICARD: A respiratory aliment?
+[00:11:27.532 --> 00:11:28.252] PICARD: Is it contained?
+[00:11:28.812 --> 00:11:29.612] CRUSHER: I hope so.
+[00:11:30.172 --> 00:11:33.372] CRUSHER: I've isolated the twelve students who were on the Quazulu Eight field trip.
+[00:11:34.332 --> 00:11:35.212] PICARD: How contagious is it?
+[00:11:35.932 --> 00:11:37.132] CRUSHER: Still running tests.
+[00:11:37.292 --> 00:11:40.252] CRUSHER: The key is to figure out how the virus is transmitted.
+[00:11:40.972 --> 00:11:44.092] CRUSHER: So far I've been able to rule out Person to person contact.
+[00:11:44.332 --> 00:11:45.212] PICARD: Well, keep with it, Doctor.
+[00:11:45.612 --> 00:11:47.372] PICARD: Starfleet has very important business for us
+[00:11:47.372 --> 00:11:51.532] PICARD: as soon as the away team returns. I don't fancy the idea of my crew being infected.
+[00:12:01.448 --> 00:12:05.288] RIKER: Data, what's the best way to go about finding Ramsey and the other survivors?
+[00:12:06.568 --> 00:12:14.488] DATA: If we can isolate something unique to the Odin survivors, perhaps an element not otherwise found on Angel One, we can utilise the Enterprise scanners.
+[00:12:17.688 --> 00:12:19.288] RIKER: Mister Data will need access to your library.
+[00:12:20.808 --> 00:12:23.448] BEATA: Our library is far too sophisticated for a man to comprehend.
+[00:12:24.728 --> 00:12:25.848] DATA: I am an android, Mistress,
+[00:12:26.408 --> 00:12:27.848] DATA: although anatomically I am a male.
+[00:12:29.688 --> 00:12:30.648] BEATA: An amusing notion.
+[00:12:32.488 --> 00:12:34.328] BEATA: Maybe you could teach our males a thing or two.
+[00:12:35.048 --> 00:12:37.448] BEATA: Trent, see to the android's needs.
+[00:12:44.408 --> 00:12:47.127] WORF: Bridge to Captain Picard. :
+[00:12:47.768 --> 00:12:48.488] PICARD: Go ahead, Lieutenant.
+[00:12:49.127 --> 00:12:52.808] WORF: The away team requests that we scan the planet surface for traces of platinum. :
+[00:12:54.408 --> 00:12:56.007] PICARD: Have Mister La Forge break fixed orbit and
+[00:12:56.007 --> 00:12:57.208] PICARD: initiate a search pattern.
+[00:12:59.688 --> 00:13:00.088] WORF: Aye, Captain.
+[00:13:01.127 --> 00:13:01.448] WORF: Geordi.
+[00:13:02.248 --> 00:13:03.768] LAFORGE: Search pattern initiated
+[00:13:04.168 --> 00:13:04.568] LAFORGE: now.
+[00:13:13.208 --> 00:13:14.968] TROI: This was delivered for you.
+[00:13:15.368 --> 00:13:15.608] RIKER: Good.
+[00:13:16.088 --> 00:13:17.208] RIKER: It's for my meeting with Beata.
+[00:13:20.488 --> 00:13:21.528] TROI: You're not going to wear that.
+[00:13:22.408 --> 00:13:22.888] RIKER: Of course.
+[00:13:23.528 --> 00:13:24.728] RIKER: Part of this mission is diplomatic.
+[00:13:24.728 --> 00:13:29.928] RIKER: I have requested an audience with a head of state, and I will honour her by wearing indigenous apparel.
+[00:13:29.928 --> 00:13:32.408] TASHA: I don't believe this.
+[00:13:32.648 --> 00:13:34.968] TASHA: You're going to put that thing on and parade around like one of them?
+[00:13:35.343 --> 00:13:35.503] RIKER: Why,
+[00:13:35.503 --> 00:13:36.383] RIKER: what is this attitude?
+[00:13:36.863 --> 00:13:42.223] RIKER: On Kabatris I had to wear furs to meet the leadership council. And on Armus Nine I wore feathers.
+[00:13:46.063 --> 00:13:50.223] RIKER: This objection doesn't have anything to do with the fact that Beata is a woman, and an attractive one, does
+[00:14:00.143 --> 00:14:00.143] RIKER: it?
+[00:14:00.143 --> 00:14:01.343] PICARD: This is quite unnecessary, Doctor.
+[00:14:01.343 --> 00:14:01.983] PICARD: I'm fine.
+[00:14:02.703 --> 00:14:04.383] CRUSHER: You're infected with the virus. Captain.
+[00:14:04.943 --> 00:14:08.543] CRUSHER: In my opinion, you are no longer physically able to effectively command this vessel.
+[00:14:08.543 --> 00:14:09.503] PICARD: That is ridiculous, Doctor.
+[00:14:10.703 --> 00:14:17.103] PICARD: I have an away team down there, in less than friendly territory, and in addition I have an appointment with several Romulan battlecruisers.
+[00:14:19.183 --> 00:14:22.063] CRUSHER: You have an appointment in your cabin, Captain. With your bed.
+[00:14:22.863 --> 00:14:23.823] PICARD: Is that an order, Doctor?
+[00:14:24.063 --> 00:14:24.703] CRUSHER: Yes.
+[00:14:26.703 --> 00:14:27.983] WORF: I think I may sneeze.
+[00:14:28.303 --> 00:14:29.263] LAFORGE: A Klingon sneeze?
+[00:14:30.303 --> 00:14:31.183] WORF: Only kind I know.
+[00:14:33.023 --> 00:14:36.943] PICARD: Lieutenant La Forge, you have command until further notice.
+[00:14:38.703 --> 00:14:41.423] PICARD: Please, make the proper ship's log entries.
+[00:14:41.503 --> 00:14:41.903] LAFORGE: Aye, sir.
+[00:14:52.863 --> 00:14:55.423] WORF: Scanners indicate a platinum trace.
+[00:14:55.423 --> 00:14:57.663] WORF: Should I notify the away team?
+[00:14:58.943 --> 00:14:59.503] LAFORGE: Make it so.
+[00:15:09.818 --> 00:15:10.218] TROI: Tasha.
+[00:15:17.738 --> 00:15:17.898] RIKER: What
+[00:15:20.538 --> 00:15:20.938] RIKER: do you think?
+[00:15:25.098 --> 00:15:26.938] TASHA: Well, I got to
+[00:15:30.298 --> 00:15:32.938] TASHA: say, it's kind of sexy.
+[00:15:34.138 --> 00:15:34.858] RIKER: Thank you, Lieutenant.
+[00:15:35.818 --> 00:15:37.738] RIKER: Actually it feels quite comfortable.
+[00:15:39.418 --> 00:15:40.698] BEATA: How handsome
+[00:15:43.898 --> 00:15:44.618] BEATA: you look.
+[00:15:45.578 --> 00:15:45.978] RIKER: Thank you,
+[00:15:47.578 --> 00:15:51.098] RIKER: The Enterprise reports a possible location for Mister Ramsey and the other survivors.
+[00:15:51.498 --> 00:15:51.978] BEATA: So soon?
+[00:15:51.978 --> 00:15:53.018] BEATA: I'm impressed.
+[00:15:53.498 --> 00:15:54.378] ARIEL: I suspicious.
+[00:15:55.178 --> 00:15:56.138] RIKER: You don't believe me?
+[00:15:56.858 --> 00:15:57.418] ARIEL: Not yet.
+[00:15:58.298 --> 00:16:00.458] ARIEL: I hear the words, but not the sincerity.
+[00:16:00.858 --> 00:16:03.098] BEATA: You had your opportunity to object, Ariel.
+[00:16:03.098 --> 00:16:04.218] BEATA: You were in the minority.
+[00:16:04.538 --> 00:16:10.618] ARIEL: After seven years, the great ship Enterprise come to repatriate a small group of insignificant people.
+[00:16:11.898 --> 00:16:14.458] RIKER: Mistress Ariel, I hear the words but not the sincerity.
+[00:16:15.178 --> 00:16:16.698] ARIEL: You should listen more carefully.
+[00:16:18.218 --> 00:16:19.098] ARIEL: Excuse me, Mistress.
+[00:16:20.538 --> 00:16:21.818] ARIEL: I have matters to attend to elsewhere.
+[00:16:27.818 --> 00:16:29.898] RIKER: With your permission, we'd like to begin our search immediately.
+[00:16:30.858 --> 00:16:31.498] BEATA: By all means.
+[00:16:32.778 --> 00:16:36.378] BEATA: But I'm sure that Counsellor Troi and the others can do that without you.
+[00:16:37.578 --> 00:16:40.458] BEATA: If I recall, you had a gesture of goodwill you wished to give to me?
+[00:16:40.698 --> 00:16:43.098] RIKER: Certainly that can wait until we've recovered the survivors.
+[00:16:44.378 --> 00:16:49.178] BEATA: Are you suggesting that the women in your party are incapable of accomplishing their task without the help of a man?
+[00:16:49.418 --> 00:16:49.898] RIKER: Not at all.
+[00:16:50.618 --> 00:16:53.498] RIKER: Lieutenant Yar and Counsellor Troi are completely qualified.
+[00:16:55.978 --> 00:16:57.258] BEATA: You're very generous with your praise.
+[00:16:58.858 --> 00:17:00.858] BEATA: Inform them you will remain here with me.
+[00:17:07.258 --> 00:17:08.218] RIKER: Riker to Lieutenant Yar.
+[00:17:09.738 --> 00:17:10.218] TASHA: This is Yar.
+[00:17:11.258 --> 00:17:15.338] RIKER: In the interests of diplomatic relations, I'll remain here with Mistress Beata while you conduct our search.
+[00:17:16.538 --> 00:17:17.018] TASHA: Commander?
+[00:17:17.578 --> 00:17:18.058] RIKER: You have your
+[00:17:19.978 --> 00:17:21.978] RIKER: instructions.
+[00:17:22.218 --> 00:17:22.698] BEATA: Relax.
+[00:17:23.098 --> 00:17:24.378] BEATA: We have much to discuss.
+[00:17:24.458 --> 00:17:27.818] TASHA: Set phasers to
+[00:17:30.378 --> 00:17:30.618] TASHA: stun.
+[00:17:31.178 --> 00:17:32.458] TROI: I wish they weren't necessary.
+[00:17:33.098 --> 00:17:34.698] DATA: A justified precaution, Counsellor.
+[00:17:35.258 --> 00:17:38.698] DATA: Mistress Beata observed that Mister Ramsey and his men are dangerous.
+[00:17:39.178 --> 00:17:40.298] TASHA: Lieutenant Yar to Enterprise.
+[00:17:40.698 --> 00:17:41.418] LAFORGE: Go ahead, Tasha.
+[00:17:41.818 --> 00:17:44.218] TASHA: Three to beam to the location of that platinum trace, Geordi.
+[00:17:44.938 --> 00:17:45.658] LAFORGE: Coordinates set.
+[00:17:46.778 --> 00:17:46.778] TASHA: Energise.
+[00:17:59.418 --> 00:17:59.898] TROI: Tasha!
+[00:18:03.258 --> 00:18:03.578] RAMSEY: Welcome.
+[00:18:07.098 --> 00:18:10.058] RAMSEY: I've been expecting you.
+[00:18:22.167 --> 00:18:22.887] PICARD: Picard to Bridge.
+[00:18:26.727 --> 00:18:27.527] LAFORGE: La Forge here.
+[00:18:28.567 --> 00:18:29.367] PICARD: Status report.
+[00:18:29.367 --> 00:18:32.247] LAFORGE: Eighty-two more reported cases of the virus, sir.
+[00:18:32.807 --> 00:18:35.207] LAFORGE: Doctor Crusher's converted the holodeck into an isolation ward.
+[00:18:37.047 --> 00:18:37.367] PICARD: And
+[00:18:38.807 --> 00:18:39.447] PICARD: the away team?
+[00:18:40.567 --> 00:18:42.327] LAFORGE: Well, no recent contact, sir,
+[00:18:42.567 --> 00:18:47.687] LAFORGE: but I have informed them of the medical situation up here and the growing Romulan threat to our Neutral Zone outpost.
+[00:18:49.607 --> 00:18:50.247] PICARD: Keep me advised.
+[00:18:51.687 --> 00:18:52.407] PICARD: You have the Bridge
+[00:18:53.287 --> 00:18:54.487] PICARD: until Commander Riker returns.
+[00:18:56.167 --> 00:18:57.767] WORF: Engineering reports a computer malf
+[00:18:59.687 --> 00:18:59.847] WORF: I'm
+[00:19:02.727 --> 00:19:04.727] WORF: sorry,
+[00:19:06.967 --> 00:19:07.687] WORF: I'm getting sick.
+[00:19:08.487 --> 00:19:10.407] LAFORGE: I'm sure half the ship knows that by now.
+[00:19:11.127 --> 00:19:12.167] LAFORGE: Report to Sickbay, Lieutenant.
+[00:19:13.367 --> 00:19:14.247] CREWMAN: Engineering to bridge.
+[00:19:16.967 --> 00:19:17.527] LAFORGE: La Forge here.
+[00:19:17.847 --> 00:19:20.087] CREWMAN: The computer won't accept the variant climate controls.
+[00:19:20.327 --> 00:19:20.967] LAFORGE: On my way.
+[00:19:21.527 --> 00:19:22.647] WORF: With all respect, Lieutenant,
+[00:19:23.367 --> 00:19:24.567] WORF: there are people to do that job now.
+[00:19:27.687 --> 00:19:29.207] LAFORGE: La Forge to Engineering.
+[00:19:29.927 --> 00:19:31.127] LAFORGE: Lieutenant Wong knows the system.
+[00:19:31.127 --> 00:19:33.127] LAFORGE: I'm sure she'll be able to resolve all problems.
+[00:19:34.567 --> 00:19:34.807] LAFORGE: Worf,
+[00:19:37.927 --> 00:19:38.887] LAFORGE: thanks for the advice.
+[00:19:41.847 --> 00:19:42.247] RAMSEY: How did
+[00:19:46.487 --> 00:19:46.727] RAMSEY: you
+[00:19:48.196 --> 00:19:48.905] RAMSEY: find me?
+[00:19:48.905 --> 00:19:50.676] DATA: Actually, it was quite simple.
+[00:19:51.476 --> 00:19:53.316] DATA: Angel One has no platinum.
+[00:19:53.876 --> 00:19:55.236] DATA: Enterprise scanners did the rest.
+[00:19:57.236 --> 00:19:57.876] RAMSEY: Platinum, was it?
+[00:20:00.356 --> 00:20:01.076] RAMSEY: My wings.
+[00:20:02.356 --> 00:20:03.716] RAMSEY: I kept them for their sentimental value.
+[00:20:04.596 --> 00:20:06.196] TASHA: Where are the other survivors, Mister Ramsey?
+[00:20:06.996 --> 00:20:07.636] RAMSEY: Oh, they're nearby.
+[00:20:08.356 --> 00:20:10.996] RAMSEY: They're packing, as a matter of fact, since we can no longer remain here.
+[00:20:11.556 --> 00:20:17.876] TROI: Seven years on an alien planet, and I sense no anticipation, no excitement at being rescued.
+[00:20:18.036 --> 00:20:19.876] RAMSEY: What is it that you think you're rescuing me from?
+[00:20:20.756 --> 00:20:22.436] RAMSEY: My shipmates and I have all taken wives.
+[00:20:22.436 --> 00:20:23.316] RAMSEY: A few even have children.
+[00:20:24.516 --> 00:20:26.996] RAMSEY: You can't rescue a man from a place that he calls his home.
+[00:20:33.316 --> 00:20:35.956] RIKER: Why were you so hesitant at first to tell us about the Odin survivors?
+[00:20:36.516 --> 00:20:38.996] BEATA: Simply because Ramsey and his men are anarchists.
+[00:20:40.116 --> 00:20:42.036] BEATA: I had to make sure you weren't here to fuel their struggle.
+[00:20:46.916 --> 00:20:48.756] BEATA: I like the way your eyes pick up the colour of your tunic.
+[00:20:51.476 --> 00:20:55.956] RIKER: It's not our position to interfere in the domestic affairs of other societies.
+[00:20:56.516 --> 00:20:57.556] BEATA: But you can interact.
+[00:20:57.876 --> 00:20:58.276] RIKER: Of course.
+[00:20:59.556 --> 00:21:00.676] RIKER: Otherwise, how can we learn?
+[00:21:02.036 --> 00:21:03.396] BEATA: Is that why you're here with me tonight?
+[00:21:04.196 --> 00:21:04.596] BEATA: To learn?
+[00:21:05.876 --> 00:21:06.196] RIKER: Yes.
+[00:21:07.396 --> 00:21:08.196] BEATA: About our society.
+[00:21:09.156 --> 00:21:09.716] RIKER: Yes.
+[00:21:12.276 --> 00:21:18.756] BEATA: Well, in our society, it is the men who are the fortunate ones, enjoying all life has to offer
+[00:21:20.143 --> 00:21:23.343] BEATA: while we women devote ourselves to the obligation of making life work.
+[00:21:23.743 --> 00:21:23.823] RIKER: In
+[00:21:26.463 --> 00:21:35.103] RIKER: our society, we share the responsibilities and the pleasures equally. Which is why I am able to be here with you while the women of the away team go to find Ramsey.
+[00:21:36.543 --> 00:21:39.663] BEATA: You'll have to remind me to thank them when they come back for giving us this time.
+[00:21:48.623 --> 00:21:49.263] BEATA: You resist.
+[00:21:50.623 --> 00:21:51.663] BEATA: Don't you find me attractive?
+[00:21:54.863 --> 00:21:56.463] RIKER: Yes, I find you very attractive.
+[00:21:58.543 --> 00:22:00.383] BEATA: You attract me like no man ever has.
+[00:22:00.943 --> 00:22:06.543] RIKER: It's not my function to seduce or be seduced by the leader of another world.
+[00:22:08.543 --> 00:22:09.103] BEATA: It's not the reason.
+[00:22:09.503 --> 00:22:09.983] RIKER: No, it's not.
+[00:22:11.103 --> 00:22:12.783] RIKER: But will you still respect me in the morning?
+[00:22:14.623 --> 00:22:17.663] BEATA: I hope so.
+[00:22:26.863 --> 00:22:27.423] RIKER: Thank you, Trent.
+[00:22:30.303 --> 00:22:30.783] BEATA: You may go.
+[00:22:39.263 --> 00:22:42.303] RIKER: Compliments of the USS Enterprise.
+[00:22:46.329 --> 00:22:49.289] RIKER: It's called an Albeni meditation crystal.
+[00:22:54.490 --> 00:22:55.690] BEATA: Very impressive.
+[00:22:57.930 --> 00:23:01.210] BEATA: And now I must repay you in kind.
+[00:23:07.930 --> 00:23:13.049] RAMSEY: Five months in a rescue pod no bigger than this room is an eternity
+[00:23:13.049 --> 00:23:14.730] RAMSEY: I hope none of you will ever have to face.
+[00:23:17.690 --> 00:23:18.889] RAMSEY: When we finally made it here,
+[00:23:21.609 --> 00:23:22.970] RAMSEY: we thought we'd died and gone to heaven.
+[00:23:23.849 --> 00:23:25.210] RAMSEY: You've seen the women of the planet.
+[00:23:25.609 --> 00:23:28.410] RAMSEY: They're tall and strong and lovely.
+[00:23:29.289 --> 00:23:32.089] RAMSEY: But after the newness wore off, we started to see how the men were treated.
+[00:23:34.970 --> 00:23:35.690] RAMSEY: There's no votes.
+[00:23:37.129 --> 00:23:38.010] RAMSEY: There's no opinions.
+[00:23:39.129 --> 00:23:39.930] RAMSEY: There's no respect.
+[00:23:40.569 --> 00:23:42.569] TASHA: None of which is your concern any longer, Mister
+[00:23:42.569 --> 00:23:42.889] TASHA: Ramsey.
+[00:23:47.210 --> 00:23:48.250] TASHA: Call the others in, please.
+[00:23:49.289 --> 00:23:50.010] TASHA: It's time to leave.
+[00:23:50.650 --> 00:23:53.450] RAMSEY: Despite their problems, Lieutenant, we happen to like it here on Angel One.
+[00:23:54.490 --> 00:23:55.369] RAMSEY: We're not going anywhere.
+[00:23:56.010 --> 00:23:57.210] TROI: But Mistress Beata
+[00:23:57.210 --> 00:23:58.809] RAMSEY: Mistress Beata be damned!
+[00:23:59.289 --> 00:24:01.210] RAMSEY: Her wish is not my command, and neither is yours.
+[00:24:01.930 --> 00:24:03.129] RAMSEY: You can't force us to go.
+[00:24:03.930 --> 00:24:04.170] DATA: Mister
+[00:24:04.170 --> 00:24:05.369] DATA: Ramsey is correct, Counsellor.
+[00:24:06.490 --> 00:24:11.129] DATA: The Odin was not a starship, which means her crew is not bound by the Prime Directive.
+[00:24:12.182 --> 00:24:16.102] DATA: If he and the others wish to stay here, there is absolutely nothing we can do about it. :
+[00:24:27.302 --> 00:24:29.942] LAFORGE: Bridge to Sickbay
+[00:24:30.742 --> 00:24:31.702] LAFORGE: how are you Doing, Doctor?
+[00:24:32.982 --> 00:24:34.902] CRUSHER: We have more sick than we do beds.
+[00:24:36.262 --> 00:24:39.782] CRUSHER: So far I've been forced to confine over three hundred to their private quarters.
+[00:24:40.662 --> 00:24:44.022] LAFORGE: We're going to be seriously undermanned if we're forced to engage the Romulans in battle.
+[00:24:44.662 --> 00:24:46.502] CRUSHER: The Romulans are your problem, Lieutenant.
+[00:24:47.142 --> 00:24:48.982] CRUSHER: Trying to find an inoculants is mine.
+[00:24:50.742 --> 00:24:56.902] CRUSHER: This virus mutates every twenty minutes. But so far we haven't had any fatalities, yet.
+[00:24:57.942 --> 00:25:00.422] LAFORGE: If this continues, there'll be no one left to run the ship.
+[00:25:01.222 --> 00:25:05.142] CRUSHER: If this continues, Lieutenant La Forge, no one will be healthy enough to care. :
+[00:25:07.862 --> 00:25:08.582] TASHA: Yar to Enterprise.
+[00:25:10.022 --> 00:25:10.742] LAFORGE: Enterprise here.
+[00:25:10.742 --> 00:25:11.382] LAFORGE: Go ahead.
+[00:25:12.182 --> 00:25:14.342] TASHA: Prepare to beam three to our previous location, Geordi.
+[00:25:14.662 --> 00:25:17.222] TASHA: After re-grouping with Commander Riker, we'll return to the ship.
+[00:25:17.942 --> 00:25:19.782] LAFORGE: I suggest you make that on the double, Tasha.
+[00:25:19.782 --> 00:25:22.022] LAFORGE: We have a real medical emergency brewing up here.
+[00:25:22.662 --> 00:25:28.902] LAFORGE: One third of the crew is down, and the latest information from the Neutral Zone outpost is that more Romulan vessels are converging on that area.
+[00:25:29.462 --> 00:25:30.422] TASHA: I'll inform the Commander.
+[00:25:30.822 --> 00:25:31.222] TASHA: Yar out.
+[00:25:33.462 --> 00:25:34.502] TASHA: One thing before we go.
+[00:25:35.622 --> 00:25:37.142] TASHA: You said you were expecting us.
+[00:25:38.182 --> 00:25:38.582] TASHA: Why?
+[00:25:39.942 --> 00:25:40.902] RAMSEY: I can't answer that.
+[00:25:45.428 --> 00:25:46.788] TROI: We wish you well, Mister Ramsey.
+[00:25:49.588 --> 00:25:50.308] TASHA: Energise.
+[00:25:58.868 --> 00:25:59.428] RAMSEY: They're gone.
+[00:25:59.578 --> 00:26:00.178] BEATA: What
+[00:26:14.548 --> 00:26:17.268] BEATA: a refreshing change to be with a man who knows what he wants.
+[00:26:17.828 --> 00:26:19.428] RIKER: And doesn't have to be told by a woman?
+[00:26:20.468 --> 00:26:21.188] BEATA: Exactly.
+[00:26:23.028 --> 00:26:24.548] BEATA: I knew you were bright enough to understand.
+[00:26:24.698 --> 00:26:25.298] BEATA: You
+[00:26:26.068 --> 00:26:29.348] BEATA: see, women, by our very nature, want only what is best for their men.
+[00:26:30.788 --> 00:26:33.668] RIKER: Men are not objects to be possessed, Mistress Beata.
+[00:26:35.348 --> 00:26:36.308] BEATA: Of course they're not.
+[00:26:38.868 --> 00:26:41.348] BEATA: It was merely a figure of speech.
+[00:26:48.388 --> 00:26:50.388] BEATA: Enter.
+[00:26:52.948 --> 00:26:56.308] BEATA: What is so important you find it necessary to intrude upon my privacy?
+[00:26:56.548 --> 00:27:00.468] TRENT: They have returned, Mistress, but without Ramsey or the others.
+[00:27:04.468 --> 00:27:08.468] BEATA: Your advanced technology has proven inadequate?
+[00:27:10.308 --> 00:27:11.108] RIKER: What happened, Tasha?
+[00:27:11.908 --> 00:27:14.628] TROI: Mister Ramsey and the other survivors refuse to leave.
+[00:27:15.575 --> 00:27:16.855] BEATA: You gave me your solemn word.
+[00:27:21.655 --> 00:27:22.135] RIKER: I'm sorry,
+[00:27:22.215 --> 00:27:23.175] RIKER: there's nothing else we can do.
+[00:27:25.735 --> 00:27:26.455] BEATA: I'm sorry as well.
+[00:27:33.255 --> 00:27:34.775] BEATA: Since you refuse to take them with you,
+[00:27:36.375 --> 00:27:39.415] BEATA: I am left with no choice but to sentence them all to death.
+[00:27:43.335 --> 00:27:43.495] PICARD: Come.
+[00:28:02.295 --> 00:28:03.495] CRUSHER: It looks horrible,
+[00:28:04.295 --> 00:28:08.615] CRUSHER: tastes worse, and it's absolutely guaranteed to make you feel better.
+[00:28:15.095 --> 00:28:17.095] CRUSHER: I
+[00:28:20.775 --> 00:28:21.015] CRUSHER: knew
+[00:28:24.135 --> 00:28:24.695] CRUSHER: you'd like it.
+[00:28:26.695 --> 00:28:27.815] CRUSHER: Are you wearing cologne?
+[00:28:29.415 --> 00:28:32.215] CRUSHER: Like something I smelled earlier. Something Klingon.
+[00:28:34.535 --> 00:28:42.215] PICARD: Lieutenant Worf and I detected the same scent when we bumped into your son at the Holodeck.
+[00:28:44.111 --> 00:28:44.911] CRUSHER: It's that smell.
+[00:28:46.511 --> 00:28:48.111] CRUSHER: That's how the virus travels.
+[00:28:48.591 --> 00:28:58.591] CRUSHER: An airborne particle whose sweet scent inspires deep inhalation. And once inside the body, it becomes that damned virus.
+[00:28:59.311 --> 00:29:00.031] CRUSHER: I have work to do.
+[00:29:03.551 --> 00:29:04.991] PICARD: You are excused, Doctor.
+[00:29:10.351 --> 00:29:12.351] RIKER: What's the latest on the Enterprise's medical situation?
+[00:29:13.071 --> 00:29:16.751] DATA: Doctor Crusher feels the virus will undoubtedly run unchecked through the entire ship.
+[00:29:17.071 --> 00:29:19.791] DATA: Attempts to develop an inoculants have so far ended in failure.
+[00:29:20.431 --> 00:29:23.151] DATA: Lieutenant La Forge still has Bridge command pending your return, sir.
+[00:29:24.751 --> 00:29:26.591] RIKER: And what about the Romulans entering the Neutral Zone?
+[00:29:27.551 --> 00:29:32.431] DATA: The border outpost reports a contingent of seven Romulan battlecruisers within sensor range.
+[00:29:32.671 --> 00:29:34.831] DATA: The USS Berlin has answered the distress call.
+[00:29:34.831 --> 00:29:39.711] DATA: However, should hostilities erupt, both the outpost and the starship will be out-gunned.
+[00:29:41.071 --> 00:29:44.991] DATA: It is felt that the Enterprise's presence in the area will be a vital show of force.
+[00:29:45.791 --> 00:29:46.911] TASHA: Some show of force.
+[00:29:47.391 --> 00:29:53.391] TASHA: The Enterprise could fly on autopilot, but with that virus knocking down our crew, we're going to be in sorry shape if things turn ugly.
+[00:29:56.751 --> 00:29:58.111] RIKER: I think it's time we to leave this place.
+[00:29:58.351 --> 00:30:02.031] TROI: It doesn't feel right to leave while Beata is determined to execute those people.
+[00:30:02.431 --> 00:30:03.951] RIKER: She has to find them first.
+[00:30:04.591 --> 00:30:06.351] RIKER: Ramsey and his bunch have been fugitives for years.
+[00:30:06.351 --> 00:30:08.111] RIKER: I suspect he's pretty good at evading capture.
+[00:30:11.074 --> 00:30:11.794] TROI: Something's wrong.
+[00:30:18.674 --> 00:30:21.954] BEATA: Before you go back to your ship, there's something I want you to see.
+[00:30:28.034 --> 00:30:28.434] RAMSEY: We
+[00:30:30.034 --> 00:30:33.074] RAMSEY: were no harm to anyone.
+[00:30:35.554 --> 00:30:36.834] RAMSEY: Why did you tell them where to find us?
+[00:30:37.394 --> 00:30:38.594] BEATA: You brought this upon yourself.
+[00:30:39.794 --> 00:30:40.514] BEATA: You and the traitor.
+[00:30:42.034 --> 00:30:47.394] BEATA: One does not need the technology of the Enterprise to follow Mistress Ariel sneaking out to warn her husband.
+[00:30:49.394 --> 00:30:50.354] BEATA: Let her stand with him now.
+[00:30:54.834 --> 00:30:56.354] BEATA: For tomorrow they will die together.
+[00:31:06.434 --> 00:31:11.394] RIKER: You claim to be an advanced society, and yet you resort to executions in order to suppress those who don't share your views.
+[00:31:11.714 --> 00:31:13.314] BEATA: I don't expect you to understand.
+[00:31:13.714 --> 00:31:14.034] RIKER: Why?
+[00:31:14.914 --> 00:31:15.874] RIKER: Because I'm only a man?
+[00:31:19.554 --> 00:31:21.474] BEATA: You'll accomplish nothing with that attitude.
+[00:31:30.274 --> 00:31:30.994] RIKER: Mistress Beata,
+[00:31:30.994 --> 00:31:36.674] RIKER: if you had an alternative to the execution of Ramsey and his followers, would you take it?
+[00:31:39.684 --> 00:31:41.604] BEATA: Is that not the way of an advanced society?
+[00:31:43.044 --> 00:31:45.124] RIKER: Then let us meet with the men from Odin one last time.
+[00:31:46.164 --> 00:31:48.644] RIKER: Let me try to convince them to leave with us.
+[00:31:51.124 --> 00:31:55.204] BEATA: Will you also include those from this world who unwisely choose to follow Ramsey and his group?
+[00:31:56.324 --> 00:31:57.604] RIKER: Yes. All
+[00:32:00.804 --> 00:32:00.804] RIKER: of
+[00:32:06.324 --> 00:32:08.324] RIKER: them.
+[00:32:14.564 --> 00:32:17.524] TROI: Mistress Beata is willing to give you a second chance.
+[00:32:18.244 --> 00:32:21.364] TROI: We're prepared to take your entire group with us.
+[00:32:24.884 --> 00:32:25.604] RAMSEY: That's very kind of
+[00:32:28.964 --> 00:32:29.044] RAMSEY: you,
+[00:32:30.484 --> 00:32:31.124] RAMSEY: but we're not going.
+[00:32:34.484 --> 00:32:36.324] TASHA: Haven't you been paying attention, Ramsey?
+[00:32:37.524 --> 00:32:39.284] TASHA: You're scheduled to be executed tomorrow.
+[00:32:41.684 --> 00:32:42.324] RAMSEY: We don't want to die.
+[00:32:49.684 --> 00:32:50.564] RAMSEY: We don't want to leave, either.
+[00:32:52.164 --> 00:32:53.444] RIKER: There's no time to debate the issues.
+[00:32:53.844 --> 00:32:55.684] RIKER: You're going with us whether you choose to go or not.
+[00:32:56.644 --> 00:32:57.524] DATA: Excuse me, Commander,
+[00:32:58.324 --> 00:33:06.244] DATA: but removing any of these people against their will would be a violation of several Starfleet regulations, not the least of which would be the Prime Directive.
+[00:33:06.244 --> 00:33:07.524] RIKER: I realise that, Mister Data.
+[00:33:09.922 --> 00:33:14.322] RIKER: I'd rather face a court martial than live with the guilt of leaving these people to their deaths.
+[00:33:16.242 --> 00:33:17.602] RIKER: Commander Riker to Enterprise.
+[00:33:17.842 --> 00:33:18.802] CRUSHER: This is the Enterprise.
+[00:33:18.802 --> 00:33:19.522] CRUSHER: Crusher here.
+[00:33:20.882 --> 00:33:22.242] TASHA: It must be worse up there than we thought.
+[00:33:23.202 --> 00:33:24.562] RIKER: Doctor, where is Lieutenant La Forge?
+[00:33:25.442 --> 00:33:27.362] CRUSHER: He's right here, but he's in bad shape.
+[00:33:28.802 --> 00:33:29.922] RIKER: Notify the transporter room
+[00:33:30.002 --> 00:33:31.202] RIKER: I have fourteen to beam up.
+[00:33:33.602 --> 00:33:34.562] CRUSHER: I can't allow it.
+[00:33:35.282 --> 00:33:37.442] CRUSHER: This virus is totally out of control here.
+[00:33:39.362 --> 00:33:41.512] CRUSHER: Until I know exactly what I'm dealing with, I can't let anyone new be exposed.
+[00:33:41.512 --> 00:33:42.802] RIKER: Doctor, these people are facing their deaths down here.
+[00:33:43.602 --> 00:33:45.762] CRUSHER: They might be facing the same thing up here.
+[00:33:46.082 --> 00:33:49.442] CRUSHER: Until I have a better idea of what I'm dealing with, no one can beam up.
+[00:33:50.722 --> 00:33:52.482] CRUSHER: I'm sorry, Will, but you must wait.
+[00:33:54.242 --> 00:33:54.722] RIKER: Understood.
+[00:33:55.202 --> 00:33:58.162] RIKER: Doctor, would this virus have any effect on Mister Data?
+[00:34:00.322 --> 00:34:01.042] CRUSHER: Not likely.
+[00:34:02.962 --> 00:34:03.922] RIKER: You're going back there alone.
+[00:34:05.602 --> 00:34:08.242] RIKER: I want you to get the Enterprise into the Neutral Zone before it's too late.
+[00:34:15.602 --> 00:34:17.442] DATA: This is Data, standing by to beam up.
+[00:34:24.562 --> 00:34:27.122] TROI: What of them?
+[00:34:31.442 --> 00:34:34.162] RIKER: I don't know, Deanna.
+[00:34:49.899 --> 00:34:55.659] TRENT: Mistress Beata invites you to witness this morning's reaffirmation of Angel One's moral imperative.
+[00:34:56.699 --> 00:34:59.499] TASHA: Is that the civilised word for murder on this world?
+[00:35:00.219 --> 00:35:01.899] RIKER: You send Mistress Beata our regrets.
+[00:35:03.339 --> 00:35:05.259] TRENT: The Elected One will not look fondly upon :
+[00:35:05.259 --> 00:35:06.539] DATA: Enterprise to Commander Riker.
+[00:35:07.339 --> 00:35:07.979] TROI: They're still here!
+[00:35:09.819 --> 00:35:10.379] RIKER: Riker here.
+[00:35:11.259 --> 00:35:13.659] RIKER: Data, I gave you direct orders to get to Neutral Zone immediately.
+[00:35:13.659 --> 00:35:14.459] RIKER: Explain the delay.
+[00:35:15.259 --> 00:35:19.659] DATA: To be precise, Commander, you ordered me to reach the Neutral Zone before it is too late.
+[00:35:20.619 --> 00:35:28.459] DATA: After relieving Lieutenant La Forge, I computed the length of time the border outpost And the USS Berlin can safely withstand a Romulan attack, and
+[00:35:28.859 --> 00:35:31.979] DATA: deducted our time to destination at maximum warp speed.
+[00:35:33.099 --> 00:35:38.139] DATA: That leaves Doctor Crusher forty eight minutes to develop an inoculants to the virus.
+[00:35:39.099 --> 00:35:40.939] TASHA: Which means there's still time for us to do something.
+[00:35:41.259 --> 00:35:42.139] RIKER: Forty-eight minutes.
+[00:35:43.659 --> 00:35:44.299] DATA: Forty seven, sir.
+[00:35:45.819 --> 00:35:46.459] RIKER: Perhaps, Data,
+[00:35:46.699 --> 00:35:47.179] RIKER: perhaps.
+[00:35:48.219 --> 00:35:50.459] RIKER: Thank you For following my orders so precisely, Data.
+[00:35:53.979 --> 00:35:58.699] RIKER: On second thought, Trent, we would be honoured to witness your moral imperative in action.
+[00:36:11.632 --> 00:36:18.192] BEATA: We have determined that the heretical teachings of Ramsey and his followers are inconsistent with harmonious life on Angel One.
+[00:36:19.792 --> 00:36:24.912] BEATA: Our patient efforts to silence revolutionary voices have failed.
+[00:36:31.312 --> 00:36:34.032] BEATA: Therefore we are left with none but the most final alternative.
+[00:36:51.472 --> 00:36:53.552] BEATA: As you can see, we are not without compassion.
+[00:36:55.472 --> 00:36:57.072] BEATA: Your deaths will be swift and painless.
+[00:36:58.672 --> 00:36:58.912] RIKER: Mistress
+[00:36:58.912 --> 00:37:04.352] RIKER: Beata, before we see living examples of your compassion, may I speak?
+[00:37:05.072 --> 00:37:06.352] BEATA: Is this a plea for leniency?
+[00:37:06.832 --> 00:37:07.552] RIKER: Nothing of the sort.
+[00:37:08.192 --> 00:37:14.512] RIKER: As the governing body of Angel One, you're entitled to execute your laws or your citizens as you see fit.
+[00:37:15.952 --> 00:37:18.672] BEATA: Make your point, so we can proceed with this unpleasant business.
+[00:37:20.272 --> 00:37:23.552] RIKER: When you spoke of the prisoners, you used the term revolutionary.
+[00:37:24.272 --> 00:37:27.552] RIKER: Indeed, death has been known to stop revolutions.
+[00:37:29.632 --> 00:37:33.152] RIKER: But I suspect it's not a revolution that Angel One is hoping to stop.
+[00:37:34.592 --> 00:37:35.232] RIKER: It's evolution.
+[00:37:36.352 --> 00:37:36.512] RIKER: Mister
+[00:37:36.512 --> 00:37:38.752] RIKER: Ramsey and the Odin survivors
+[00:37:39.435 --> 00:37:42.635] RIKER: did not initiate the waves of dissent that are rippling through your planet.
+[00:37:43.515 --> 00:37:49.915] RIKER: Their presence here merely reinforced the change in attitudes between men and women that was already well under way.
+[00:37:49.915 --> 00:37:54.555] RIKER: They became symbols around whom others who shared their views could gather.
+[00:37:56.155 --> 00:38:02.555] RIKER: You may eliminate the symbols, but that does not mean death to the issues which those symbols represent.
+[00:38:03.355 --> 00:38:07.595] RIKER: No power in the universe can hope to stop the force of evolution.
+[00:38:08.475 --> 00:38:08.955] RIKER: Be warned.
+[00:38:12.635 --> 00:38:18.315] RIKER: The execution of Mister Ramsey and his followers may elevate them to the status of martyrs.
+[00:38:20.955 --> 00:38:22.875] RIKER: Martyrs cannot be silenced.
+[00:39:07.835 --> 00:39:09.835] ARIEL: Beata!
+[00:39:09.835 --> 00:39:09.835] BEATA: Stop.
+[00:39:19.497 --> 00:39:21.257] BEATA: We will adjourn to consider your words.
+[00:39:38.857 --> 00:39:39.177] RAMSEY: Thank you.
+[00:39:43.097 --> 00:39:43.897] RIKER: I don't know if it was enough. :
+[00:39:48.697 --> 00:39:49.417] CRUSHER: Sickbay to Bridge.
+[00:39:50.697 --> 00:39:51.337] DATA: Go ahead, Doctor.
+[00:39:51.337 --> 00:39:53.017] CRUSHER: Bingo, Data.
+[00:39:55.337 --> 00:39:55.737] DATA: Bingo?
+[00:39:55.737 --> 00:39:55.737] DATA: I
+[00:39:57.657 --> 00:39:59.017] DATA: fail to see the relevance, Doctor.
+[00:39:59.977 --> 00:40:02.137] DATA: Is that not a reference to an ancient Earth game?
+[00:40:02.857 --> 00:40:05.097] CRUSHER: It's also a reference to success, Data.
+[00:40:05.897 --> 00:40:07.417] CRUSHER: I've got the inoculants.
+[00:40:08.297 --> 00:40:08.937] DATA: Excellent, Doctor.
+[00:40:09.737 --> 00:40:11.337] DATA: We still have seventeen minutes left.
+[00:40:11.577 --> 00:40:13.177] DATA: I will inform the away team immediately.
+[00:40:14.537 --> 00:40:15.577] DATA: Enterprise to Riker.
+[00:40:16.137 --> 00:40:17.897] DATA: We are ready to have you beamed up, Commander.
+[00:40:19.257 --> 00:40:19.497] RIKER: Data,
+[00:40:21.017 --> 00:40:22.857] RIKER: Ramsey and the prisoners are with us in the Great Hall.
+[00:40:23.257 --> 00:40:26.777] RIKER: I want you to lock the transporter. Prepare to evacuate the entire group.
+[00:40:27.337 --> 00:40:28.937] RIKER: But for now, stand by.
+[00:40:30.137 --> 00:40:30.937] DATA: Understood, Commander.
+[00:40:45.182 --> 00:40:49.902] BEATA: After careful consideration, this legislature has voted to stay the execution of the prisoners.
+[00:40:51.262 --> 00:40:53.182] BEATA: Their children will be returned to them immediately.
+[00:40:54.942 --> 00:40:56.782] BEATA: Do not rejoice prematurely.
+[00:40:57.742 --> 00:41:02.702] BEATA: Ramsey and his followers are to be exiled to a distant and unpopulated region.
+[00:41:03.582 --> 00:41:07.982] BEATA: Life will be difficult there with little time for revolutionary
+[00:41:09.502 --> 00:41:10.782] BEATA: or evolutionary upheaval.
+[00:41:12.302 --> 00:41:18.462] BEATA: As some have observed, we may be able to stop evolution, but perhaps we can reduce it to a slow crawl.
+[00:41:22.062 --> 00:41:27.502] BEATA: For a man, you can be very clever, Commander Riker.
+[00:41:27.502 --> 00:41:27.502] RIKER: Riker to
+[00:41:31.422 --> 00:41:31.422] RIKER: Enterprise.
+[00:41:31.422 --> 00:41:35.422] RIKER: Belay my previous order, Mister Data.
+[00:41:36.542 --> 00:41:37.822] RIKER: There will now be only three to beam up.
+[00:41:38.542 --> 00:41:38.702] RIKER: Energise.
+[00:41:48.942 --> 00:41:49.902] CRUSHER: Welcome home.
+[00:41:50.782 --> 00:41:51.822] TROI: It's good to be back.
+[00:41:52.782 --> 00:41:53.502] RIKER: Are they recovering?
+[00:41:54.862 --> 00:41:55.742] CRUSHER: Slowly, but yes.
+[00:41:57.022 --> 00:41:57.982] RIKER: And the Captain?
+[00:41:58.702 --> 00:41:59.902] PICARD: The Captain is fine, thank you.
+[00:42:05.742 --> 00:42:08.622] PICARD: Mister Data has been briefing me on the away team's
+[00:42:09.182 --> 00:42:10.462] PICARD: comportment, Number One.
+[00:42:11.262 --> 00:42:12.062] TROI: We improvised,
+[00:42:12.614 --> 00:42:13.654] TROI: sir.
+[00:42:13.654 --> 00:42:16.614] PICARD: I look forward to your reports.
+[00:42:17.174 --> 00:42:18.854] RIKER: Don't we have a call to pay on the Romulans, Captain?
+[00:42:19.174 --> 00:42:19.974] PICARD: Indeed we do.
+[00:42:20.374 --> 00:42:22.454] PICARD: Mister Data, set course for the Neutral Zone.
+[00:42:22.854 --> 00:42:23.654] PICARD: Warp six.
+[00:42:24.454 --> 00:42:25.254] PICARD: DATA: Co-ordinates set.
+[00:42:26.054 --> 00:42:26.774] PICARD: Warp six
+[00:42:27.094 --> 00:42:27.894] PICARD: on your mark, sir.
+[00:42:29.894 --> 00:42:31.894] PICARD: Engage.
+[00:42:31.894 --> 00:42:32.214] DATA: Sir?
+[00:42:36.614 --> 00:42:37.334] RIKER: Engage.
+[00:42:42.000 --> 00:42:56.000] [music]
+[00:42:57.000 --> 00:43:23.000] [music]
+[00:43:24.000 --> 00:43:35.000] [music]

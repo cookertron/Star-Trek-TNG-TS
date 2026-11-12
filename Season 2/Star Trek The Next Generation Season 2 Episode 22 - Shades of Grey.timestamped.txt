@@ -1,0 +1,592 @@
+[00:00:11.680 --> 00:00:12.480] LAFORGE: There you are.
+[00:00:16.320 --> 00:00:16.800] LAFORGE: What's wrong?
+[00:00:16.960 --> 00:00:18.240] RIKER: Something jabbed me here in the calf.
+[00:00:22.560 --> 00:00:22.800] LAFORGE: O'Brien,
+[00:00:30.240 --> 00:00:32.080] LAFORGE: Commander Riker's been injured.
+[00:00:32.080 --> 00:00:33.040] LAFORGE: Lock on and bring him up.
+[00:00:33.600 --> 00:00:34.000] O'BRIEN: Stand by.
+[00:00:34.560 --> 00:00:35.424] RIKER: Geordi, it's just
+[00:00:35.424 --> 00:00:36.000] LAFORGE: A scratch.
+[00:00:36.240 --> 00:00:36.400] LAFORGE: Right.
+[00:00:36.960 --> 00:00:37.600] LAFORGE: Sorry, Commander.
+[00:00:38.160 --> 00:00:38.960] LAFORGE: We can't take any chances.
+[00:00:38.960 --> 00:00:40.640] LAFORGE: We're the first survey team to set foot on this planet.
+[00:00:40.640 --> 00:00:41.760] LAFORGE: We don't know what the risks are.
+[00:00:45.360 --> 00:00:46.240] LAFORGE: O'Brien, what's the hold up?
+[00:00:47.200 --> 00:00:51.040] O'BRIEN: The transporter's detected unidentified microbes in Commander Riker's body.
+[00:00:52.000 --> 00:00:53.520] LAFORGE: Well, can't the bio-filter screen them out?
+[00:00:54.320 --> 00:00:54.800] O'BRIEN: Apparently not.
+[00:00:55.520 --> 00:00:55.840] O'BRIEN: But Doctor
+[00:00:55.840 --> 00:00:56.960] O'BRIEN: Pulaski has been notified.
+[00:00:57.760 --> 00:00:58.320] LAFORGE: Acknowledged.
+[00:00:59.440 --> 00:01:00.640] RIKER: I wasn't ready to leave here anyway.
+[00:01:07.760 --> 00:01:10.080] O'BRIEN: Here's the biofilter's analysis of the microbes.
+[00:01:10.560 --> 00:01:11.680] PULASKI: That's not much to go on.
+[00:01:12.560 --> 00:01:14.480] O'BRIEN: I can override and beam Commander Riker aboard .
+[00:01:15.600 --> 00:01:15.920] PULASKI: No.
+[00:01:16.640 --> 00:01:19.040] PULASKI: I'd better go down and make an evaluation there.
+[00:01:27.760 --> 00:01:29.440] O'BRIEN: I hope these are the right coordinates.
+[00:01:31.306 --> 00:01:32.026] O'BRIEN: Just kidding, Doctor.
+[00:01:32.666 --> 00:01:34.106] O'BRIEN: I know how much you love the transporter.
+[00:01:34.506 --> 00:01:37.706] PULASKI: About as much as I love comical Transporter Chiefs.
+[00:01:42.506 --> 00:01:42.826] O'BRIEN: Ready?
+[00:01:56.186 --> 00:01:57.066] RIKER: Over here, Doctor.
+[00:02:03.226 --> 00:02:03.626] PULASKI: Fill me in.
+[00:02:04.426 --> 00:02:08.746] RIKER: I was walking along minding my own business, doing a simple geological sweep.
+[00:02:09.546 --> 00:02:10.506] RIKER: Something stuck me in the leg.
+[00:02:11.706 --> 00:02:12.186] PULASKI: Any pain?
+[00:02:12.506 --> 00:02:12.666] RIKER: No.
+[00:02:13.146 --> 00:02:14.026] RIKER: Just a little numb, that's all.
+[00:02:14.826 --> 00:02:15.866] PULASKI: Do you know what it was that stuck you?
+[00:02:16.266 --> 00:02:16.986] LAFORGE: We've been looking for it.
+[00:02:17.466 --> 00:02:17.866] LAFORGE: No luck.
+[00:02:18.666 --> 00:02:20.266] PULASKI: Well, whatever it was, it left something behind.
+[00:02:20.906 --> 00:02:22.026] PULASKI: I'm going to take you up to Sickbay.
+[00:02:27.626 --> 00:02:29.226] PULASKI: O'Brien, this is Doctor Pulaski.
+[00:02:29.706 --> 00:02:31.226] PULASKI: Medical override is authorised.
+[00:02:31.946 --> 00:02:32.506] O'BRIEN: Acknowledged.
+[00:02:40.506 --> 00:02:43.306] RIKER: This is the strangest feeling.
+[00:02:43.306 --> 00:02:44.346] RIKER: My whole leg just went dead.
+[00:03:13.265 --> 00:03:15.985] PICARD: Space, the final frontier.
+[00:03:17.905 --> 00:03:20.545] PICARD: These are the voyages of the starship Enterprise.
+[00:03:21.905 --> 00:03:30.145] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:31.825 --> 00:03:34.225] PICARD: to boldly go where no one has gone
+[00:03:36.065 --> 00:03:38.065] PICARD: before.
+[00:03:56.000 --> 00:04:14.000] [music]
+[00:04:23.000 --> 00:04:31.000] [music]
+[00:04:30.427 --> 00:04:33.227] LOG: Captain's log, Stardate 42976.1.
+[00:04:33.867 --> 00:04:39.947] LOG: During a geological survey on Surata Four, Commander Riker has become infected by an unidentified microbe.
+[00:04:40.347 --> 00:04:41.094] PICARD: Number One.
+[00:04:41.094 --> 00:04:41.467] RIKER: Captain.
+[00:04:43.067 --> 00:04:44.667] PICARD: Put your foot where it didn't belong?
+[00:04:45.307 --> 00:04:46.507] RIKER: The Doctor said she was getting bored.
+[00:04:46.507 --> 00:04:48.107] RIKER: I just thought I'd give her a challenge.
+[00:04:48.427 --> 00:04:49.147] PULASKI: That you did.
+[00:04:53.387 --> 00:04:56.827] PULASKI: The Commander's nervous system has been invaded by an unknown microorganism.
+[00:04:57.707 --> 00:05:00.667] PULASKI: Not a bacteria, not a virus, but with the elements of both.
+[00:05:01.147 --> 00:05:02.027] PULASKI: There's the point of entry.
+[00:05:06.507 --> 00:05:13.067] PULASKI: The microbes are infecting the great sciatic nerve, and they are multiplying at an incredible rate.
+[00:05:14.187 --> 00:05:16.187] PULASKI: There.
+[00:05:17.707 --> 00:05:18.347] PICARD: Can you remove it?
+[00:05:19.307 --> 00:05:19.947] PULASKI: Not surgically.
+[00:05:20.267 --> 00:05:24.907] PULASKI: The organisms fuse to the nerve, intertwining at the molecular level.
+[00:05:25.707 --> 00:05:28.747] RIKER: That's why the transporter's biofilters weren't able to extract it.
+[00:05:29.147 --> 00:05:34.747] PULASKI: There's no evidence of nerve damage, but the organisms are impeding nervous function.
+[00:05:36.107 --> 00:05:36.987] RIKER: My leg's still asleep.
+[00:05:38.027 --> 00:05:38.347] PICARD: Prognosis?
+[00:05:38.987 --> 00:05:42.267] PULASKI: The infection is spreading.
+[00:05:42.267 --> 00:05:43.467] PULASKI: It will eventually reach the brain.
+[00:05:44.587 --> 00:05:47.307] PICARD: And if it interfered with neural activity there?
+[00:05:47.307 --> 00:05:48.667] PULASKI: Commander Riker could die.
+[00:05:55.227 --> 00:05:55.707] PICARD: How can I help?
+[00:05:57.627 --> 00:05:59.387] PULASKI: I need to know more about its composition.
+[00:06:00.044 --> 00:06:01.084] PICARD: And for that, you need a sample.
+[00:06:01.404 --> 00:06:01.884] PULASKI: Exactly.
+[00:06:02.524 --> 00:06:03.724] PICARD: Commander Data, Mister La Forge,
+[00:06:04.924 --> 00:06:06.044] PICARD: prepare to beam down to the planet.
+[00:06:06.604 --> 00:06:07.004] LAFORGE: Aye, sir.
+[00:06:09.324 --> 00:06:10.124] DATA: I must reiterate,
+[00:06:11.804 --> 00:06:13.004] DATA: it would be better if I went alone.
+[00:06:13.404 --> 00:06:14.124] LAFORGE: Don't like my company?
+[00:06:14.844 --> 00:06:15.884] DATA: Your company is not at issue.
+[00:06:16.284 --> 00:06:18.364] DATA: Your vulnerability to the microorganism is.
+[00:06:18.764 --> 00:06:19.644] LAFORGE: I'll watch where I step.
+[00:06:20.364 --> 00:06:23.644] LAFORGE: Besides, how do we know that this bug doesn't like androids more than it likes humans?
+[00:06:24.044 --> 00:06:26.124] DATA: Possible, but highly unlikely.
+[00:06:26.364 --> 00:06:27.964] DATA: In any event, why risk both of us?
+[00:06:28.444 --> 00:06:31.004] LAFORGE: Because I know exactly where Commander Riker was when it happened.
+[00:06:34.124 --> 00:06:36.604] DATA: Mister O'Brien, energise.
+[00:06:52.204 --> 00:06:53.564] LAFORGE: He was right over here.
+[00:06:56.924 --> 00:07:00.124] DATA: I am detecting no animal life within fifty kilometres.
+[00:07:00.764 --> 00:07:04.764] DATA: However, I am reading extensive animal remains, mostly fossilised.
+[00:07:05.244 --> 00:07:05.964] LAFORGE: A graveyard?
+[00:07:07.084 --> 00:07:07.804] DATA: I do not know.
+[00:07:10.204 --> 00:07:10.444] LAFORGE: Data,
+[00:07:11.644 --> 00:07:12.444] LAFORGE: that a look at this.
+[00:07:13.244 --> 00:07:15.244] DATA: The
+[00:07:19.884 --> 00:07:21.324] DATA: structure is rhizomatous.
+[00:07:23.964 --> 00:07:24.364] LAFORGE: Careful.
+[00:07:25.244 --> 00:07:25.964] DATA: I am always careful.
+[00:07:26.114 --> 00:07:26.714] DATA: It
+[00:07:27.564 --> 00:07:28.364] DATA: appears to be dead.
+[00:07:29.426 --> 00:07:30.146] LAFORGE: I'm not so sure.
+[00:07:30.146 --> 00:07:31.666] LAFORGE: I can see thermal variations.
+[00:07:32.866 --> 00:07:33.906] LAFORGE: Let it go for a second, Data.
+[00:07:34.546 --> 00:07:35.106] LAFORGE: Let's try something.
+[00:07:35.746 --> 00:07:37.346] LAFORGE: Perhaps it likes humans more than androids.
+[00:07:37.346 --> 00:07:40.146] DATA: If you are correct, you are placing yourself in grave danger.
+[00:07:40.546 --> 00:07:43.746] LAFORGE: I'm counting on those great android reflexes of yours.
+[00:07:43.896 --> 00:07:44.496] LAFORGE: That
+[00:07:47.026 --> 00:07:48.386] LAFORGE: must be what we're looking for.
+[00:07:49.666 --> 00:07:50.546] DATA: I would tend to agree.
+[00:07:55.266 --> 00:07:56.786] LAFORGE: Stand by,
+[00:07:58.466 --> 00:08:00.466] LAFORGE: O'Brien.
+[00:08:00.466 --> 00:08:00.546] LAFORGE: Got it.
+[00:08:02.546 --> 00:08:02.546] LAFORGE: Energise!
+[00:08:10.706 --> 00:08:11.426] LAFORGE: Thanks, O'Brien.
+[00:08:12.706 --> 00:08:14.546] LAFORGE: Another minute, and we'd have been fossils ourselves.
+[00:08:14.786 --> 00:08:15.826] DATA: Not precisely, Geordi.
+[00:08:16.226 --> 00:08:18.866] DATA: True fossilisation requires several millennia.
+[00:08:20.226 --> 00:08:21.026] LAFORGE: Here's your sample, Captain.
+[00:08:21.186 --> 00:08:22.226] PICARD: Get it to Sickbay right away.
+[00:08:25.026 --> 00:08:25.866] PICARD: Report.
+[00:08:25.866 --> 00:08:26.706] DATA: Captain,
+[00:08:27.186 --> 00:08:29.106] DATA: Commander Riker's injury was not accidental.
+[00:08:29.586 --> 00:08:33.907] DATA: Certain vines on the planet evidently seek out warm-blooded beings and deliberately infect them.
+[00:08:34.866 --> 00:08:35.346] PICARD: To what end?
+[00:08:35.986 --> 00:08:36.547] DATA: Unknown, sir.
+[00:08:37.506 --> 00:08:40.147] DATA: It is conceivable there is a symbiotic relationship involved.
+[00:08:41.667 --> 00:08:41.986] PICARD: Go on.
+[00:08:42.787 --> 00:08:48.066] DATA: There are numerous animal remains in the area, leading me to hypothesize that the vines could be predatory.
+[00:08:50.386 --> 00:08:53.746] PICARD: Vines infect animals in order to kill them?
+[00:08:54.546 --> 00:08:55.266] DATA: It is possible.
+[00:08:56.386 --> 00:08:57.506] DATA: For Commander Riker's sake,
+[00:08:58.038 --> 00:08:59.478] DATA: I hope my hypothesis is in error.
+[00:09:00.918 --> 00:09:04.138] PICARD: Unfortunately, Mister Data, your hypotheses rarely are.
+[00:09:04.138 --> 00:09:04.598] PULASKI: All
+[00:09:18.598 --> 00:09:18.918] PULASKI: negative.
+[00:09:23.318 --> 00:09:24.918] PICARD: Is there nothing that will cure this infection?
+[00:09:25.878 --> 00:09:28.198] PULASKI: This microorganism is very mysterious.
+[00:09:28.278 --> 00:09:30.678] PULASKI: I can't even figure out what's keeping it alive.
+[00:09:31.558 --> 00:09:32.198] PICARD: Or how to kill it.
+[00:09:32.438 --> 00:09:37.158] PULASKI: Oh, I can kill it but not without destroying the nerves it's inhabiting.
+[00:09:39.478 --> 00:09:40.918] PICARD: I know you're doing your best, Doctor.
+[00:09:41.798 --> 00:09:42.998] PULASKI: My best may not be good
+[00:09:46.438 --> 00:09:46.438] PULASKI: enough.
+[00:10:02.838 --> 00:10:03.238] PICARD: Comfortable?
+[00:10:03.238 --> 00:10:05.398] RIKER: Why wouldn't
+[00:10:05.478 --> 00:10:06.198] RIKER: I be comfortable?
+[00:10:06.518 --> 00:10:07.478] RIKER: They're waiting on me hand and foot.
+[00:10:07.638 --> 00:10:10.118] RIKER: I hope that they don't find out that I'm faking it.
+[00:10:11.798 --> 00:10:12.598] PICARD: I wish you were faking it.
+[00:10:14.518 --> 00:10:15.769] PICARD: I've seen the thorn.
+[00:10:15.769 --> 00:10:17.958] RIKER: Yes, Doctor showed it to me, too.
+[00:10:17.958 --> 00:10:19.158] RIKER: Rather harmless-looking thing, I thought.
+[00:10:21.078 --> 00:10:21.558] PICARD: And deadly.
+[00:10:22.038 --> 00:10:24.358] PICARD: I'm sorry.
+[00:10:25.558 --> 00:10:27.558] RIKER: Well, these things happen.
+[00:10:29.110 --> 00:10:29.990] PICARD: When least expected.
+[00:10:31.350 --> 00:10:32.790] RIKER: I'm surprised they don't happen more often.
+[00:10:33.350 --> 00:10:36.390] RIKER: After all, we are exploring the unknown.
+[00:10:40.390 --> 00:10:43.110] PICARD: And the unknown can be benign
+[00:10:45.270 --> 00:10:45.910] PICARD: or malevolent.
+[00:10:47.030 --> 00:10:56.870] RIKER: Captain, one of the things I've learned anything on these voyages, on this ship, and from you, is that most life forms act out of an instinct for survival, not out of malice.
+[00:10:57.430 --> 00:10:58.310] PICARD: It's an important lesson,
+[00:11:00.230 --> 00:11:02.870] PICARD: and I admire your lack of resentment, Number One.
+[00:11:04.870 --> 00:11:09.270] RIKER: If you drop a hammer on your foot, it's hardly useful to get mad at the hammer.
+[00:11:22.950 --> 00:11:23.270] PICARD: Anything?
+[00:11:23.750 --> 00:11:24.150] PULASKI: Not yet.
+[00:11:25.110 --> 00:11:25.590] PICARD: What can I do?
+[00:11:27.270 --> 00:11:28.230] PULASKI: You can get out of my hair.
+[00:11:29.670 --> 00:11:30.230] PICARD: Aye aye, Doctor.
+[00:11:37.830 --> 00:11:37.830] RIKER: This
+[00:11:48.550 --> 00:11:49.510] RIKER: bug is persistent,
+[00:11:49.510 --> 00:11:51.590] RIKER: I'll admit that. But I'm not worried.
+[00:11:51.590 --> 00:11:53.270] RIKER: We Rikers are ornery, too.
+[00:11:54.230 --> 00:11:57.030] RIKER: As a matter of fact, my great grandfather once got bit by a rattlesnake.
+[00:11:57.510 --> 00:11:59.990] RIKER: After three days of intense pain, the
+[00:12:00.609 --> 00:12:01.409] RIKER: snake died.
+[00:12:10.369 --> 00:12:12.049] TROI: You're a very entertaining patient.
+[00:12:12.929 --> 00:12:13.489] RIKER: I try.
+[00:12:14.849 --> 00:12:16.609] TROI: Yes. you're making quite an effort to be cheerful.
+[00:12:18.129 --> 00:12:19.329] RIKER: You, of all people, should know.
+[00:12:21.009 --> 00:12:23.729] TROI: You feel what anyone in your position would feel.
+[00:12:24.769 --> 00:12:28.529] RIKER: As the First Officer on this ship, I have to set an example.
+[00:12:29.969 --> 00:12:30.609] TROI: Even now?
+[00:12:32.369 --> 00:12:34.849] RIKER: Now more than ever.
+[00:12:35.729 --> 00:12:39.329] RIKER: Deanna, facing death is the ultimate test of character.
+[00:12:41.729 --> 00:12:45.489] RIKER: I don't want to die, but if I have to, I'd like to do it with a little pride.
+[00:12:47.649 --> 00:12:49.089] TROI: And a lot of impudence.
+[00:12:50.129 --> 00:12:50.369] RIKER: You bet.
+[00:12:52.529 --> 00:12:56.529] RIKER: Dying is bad enough but, to lose my sense of humour? Forget it.
+[00:13:00.769 --> 00:13:02.769] TROI: Imzadi.
+[00:13:05.249 --> 00:13:05.729] RIKER: I haven't given up
+[00:13:07.809 --> 00:13:07.809] RIKER: yet.
+[00:13:07.889 --> 00:13:07.889] PULASKI: It's
+[00:13:21.009 --> 00:13:25.000] PULASKI: spread to the spinal column.
+[00:13:25.249 --> 00:13:26.689] PULASKI: It's weakening his autonomic nervous system.
+[00:13:30.193 --> 00:13:36.913] PULASKI: Judging by its present rate of growth and its infiltration pattern, the infection will spread to the brain within
+[00:13:41.953 --> 00:13:43.953] PULASKI: an hour.
+[00:13:45.393 --> 00:13:48.513] LOG: Medical log, Stardate 42976.3.
+[00:13:49.233 --> 00:13:52.833] LOG: I can't keep the alien infection from spreading to Commander Riker's brain.
+[00:13:53.473 --> 00:13:56.833] LOG: Once there, it will kill him by dampening neural impulses.
+[00:13:57.473 --> 00:14:04.673] LOG: The only way I can keep him alive is to force the neurons to stay active by stimulating them directly with electrical impulses.
+[00:14:12.273 --> 00:14:12.993] PULASKI: Let's proceed.
+[00:14:14.593 --> 00:14:15.873] PULASKI: Good.
+[00:15:00.113 --> 00:15:00.753] PULASKI: Stand by with
+[00:15:01.029 --> 00:15:04.389] PULASKI: five milligrams of tricordrazine in case of seizure.
+[00:15:05.909 --> 00:15:06.149] PULASKI: Here goes.
+[00:15:06.299 --> 00:15:06.899] RIKER: Tasha?
+[00:16:00.629 --> 00:16:01.989] RIKER: Data?
+[00:16:04.069 --> 00:16:04.069] RIKER: Geordi?
+[00:16:11.989 --> 00:16:13.989] RIKER: Worf?
+[00:16:14.709 --> 00:16:15.189] RIKER: Anybody?
+[00:16:15.749 --> 00:16:17.749] PULASKI: We've
+[00:16:27.909 --> 00:16:31.349] PULASKI: stimulated random wave activity, but the patterns are dangerously erratic.
+[00:16:34.801 --> 00:16:35.441] TROI: Hang on, Will.
+[00:16:37.121 --> 00:16:39.681] TROI: Hang on.
+[00:16:49.441 --> 00:16:51.281] PULASKI: The wave patterns are still too irregular.
+[00:16:51.761 --> 00:16:53.201] TROI: Why won't they stabilise?
+[00:16:56.161 --> 00:16:56.321] PULASKI: Wait.
+[00:16:57.521 --> 00:16:58.561] PULASKI: I've found the right amplitude.
+[00:17:00.641 --> 00:17:00.721] PULASKI: There.
+[00:17:02.961 --> 00:17:03.841] PULASKI: The patterns are steadier.
+[00:17:05.281 --> 00:17:07.921] TROI: Is the stimulation preventing the infection from taking hold?
+[00:17:08.081 --> 00:17:08.561] PULASKI: For now.
+[00:17:10.721 --> 00:17:14.321] PULASKI: The vertex waves indicate a K-complex corresponding to an REM state.
+[00:17:20.081 --> 00:17:20.721] TROI: He's dreaming.
+[00:18:36.000 --> 00:18:47.000] [whistling]
+[00:18:48.000 --> 00:18:51.000] [whistling]
+[00:18:53.956 --> 00:18:55.716] RIKER: Hello!
+[00:18:55.716 --> 00:18:56.036] DATA: Marvellous.
+[00:18:56.056 --> 00:18:56.996] DATA: How easily humans do that.
+[00:18:58.196 --> 00:18:59.396] DATA: I still need much practice.
+[00:19:00.596 --> 00:19:01.716] RIKER: There are some puzzles
+[00:19:04.676 --> 00:19:06.436] RIKER: down on the planet that the Captain wants answered.
+[00:19:07.396 --> 00:19:09.636] RIKER: He suggested that I take you with me on the away team I'll be leading.
+[00:19:10.036 --> 00:19:11.556] DATA: I shall endeavour to function adequately, sir.
+[00:19:13.476 --> 00:19:13.956] RIKER: Yes.
+[00:19:18.036 --> 00:19:22.356] RIKER: When the captain suggested you, I looked up your record.
+[00:19:22.516 --> 00:19:22.836] DATA: Yes, sir.
+[00:19:23.156 --> 00:19:24.196] DATA: A wise procedure, sir,
+[00:19:24.196 --> 00:19:24.516] DATA: always.
+[00:19:24.836 --> 00:19:26.836] RIKER: Then your rank of Lieutenant Commander is honorary?
+[00:19:27.076 --> 00:19:27.476] DATA: No, sir.
+[00:19:27.956 --> 00:19:31.716] DATA: Starfleet class of '78. Honours in probability mechanics and exobiology.
+[00:19:31.876 --> 00:19:33.416] RIKER: But your files they say you're a
+[00:19:33.416 --> 00:19:33.636] DATA: Machine?
+[00:19:33.636 --> 00:19:34.116] DATA: Correct, sir.
+[00:19:34.276 --> 00:19:34.916] DATA: Does that trouble you?
+[00:19:36.303 --> 00:19:36.703] RIKER: To be honest,
+[00:19:36.703 --> 00:19:37.711] RIKER: yes, a little.
+[00:19:37.711 --> 00:19:38.383] DATA: Understood, sir.
+[00:19:38.863 --> 00:19:40.063] DATA: Prejudice is very human.
+[00:19:41.583 --> 00:19:42.463] RIKER: Now that does trouble me.
+[00:19:42.463 --> 00:19:44.383] RIKER: Do you consider yourself superior to us?
+[00:19:44.783 --> 00:19:46.543] DATA: I am superior, sir, in many ways.
+[00:19:47.503 --> 00:19:49.263] DATA: But I would gladly give it up to be human.
+[00:19:50.703 --> 00:19:51.343] RIKER: Nice to meet you,
+[00:19:52.863 --> 00:19:53.343] RIKER: Pinocchio. A
+[00:19:55.983 --> 00:19:56.143] RIKER: joke.
+[00:19:58.223 --> 00:20:00.063] DATA: Ah! Intriguing.
+[00:20:01.903 --> 00:20:03.743] RIKER: You're going to be an interesting companion, Mister Data.
+[00:20:06.943 --> 00:20:07.183] WESLEY: What
+[00:20:10.863 --> 00:20:11.503] WESLEY: should I say?
+[00:20:12.143 --> 00:20:13.263] WESLEY: How do I act?
+[00:20:13.263 --> 00:20:13.823] WESLEY: What do I do?
+[00:20:16.383 --> 00:20:17.183] RIKER: Guinan, I need your help.
+[00:20:17.183 --> 00:20:18.223] RIKER: Could you step over here a minute?
+[00:20:20.543 --> 00:20:21.583] GUINAN: Sounds simple enough.
+[00:20:28.623 --> 00:20:31.263] RIKER: Now, the first words out of your mouth are the most important.
+[00:20:31.263 --> 00:20:32.703] RIKER: You may want to start with something like this here.
+[00:20:36.063 --> 00:20:38.543] RIKER: You are the most beautiful woman in the galaxy.
+[00:20:43.183 --> 00:20:43.983] RIKER: But that might not work.
+[00:20:45.183 --> 00:20:46.623] GUINAN: Yes. Yes, it would.
+[00:20:49.183 --> 00:20:52.463] RIKER: You don't know how long I've wanted to tell you that.
+[00:20:52.783 --> 00:20:53.663] GUINAN: But you were afraid.
+[00:20:53.823 --> 00:20:54.063] RIKER: Yes.
+[00:20:54.383 --> 00:20:54.783] GUINAN: Of me?
+[00:20:54.783 --> 00:20:55.183] RIKER: Of us.
+[00:20:55.263 --> 00:20:56.303] RIKER: Of what we might become.
+[00:20:57.343 --> 00:20:57.743] WESLEY: Commander?
+[00:20:58.143 --> 00:20:59.503] RIKER: Or that you might think that was a line.
+[00:21:00.063 --> 00:21:01.183] GUINAN: Maybe I do think it's a line.
+[00:21:01.983 --> 00:21:03.183] RIKER: Then you think I'm not sincere?
+[00:21:03.584 --> 00:21:04.304] GUINAN: I didn't say that.
+[00:21:04.624 --> 00:21:05.904] GUINAN: There's nothing wrong with a line.
+[00:21:05.904 --> 00:21:07.664] GUINAN: It's like a knock on the door.
+[00:21:07.904 --> 00:21:09.024] RIKER: Then you're inviting me in?
+[00:21:09.024 --> 00:21:10.304] GUINAN: I'm not sending you away.
+[00:21:10.704 --> 00:21:11.824] RIKER: That's more than I expected.
+[00:21:12.144 --> 00:21:13.504] GUINAN: Is it as much as you hoped?
+[00:21:13.744 --> 00:21:16.144] RIKER: To hope is to recognise the possibility.
+[00:21:16.144 --> 00:21:17.024] RIKER: I had only dreams.
+[00:21:17.424 --> 00:21:18.384] GUINAN: Dreams can be dangerous.
+[00:21:18.544 --> 00:21:19.344] RIKER: Not these dreams.
+[00:21:19.824 --> 00:21:24.624] RIKER: I dream of a galaxy where your eyes are stars and the universe worships the night.
+[00:21:26.384 --> 00:21:26.864] GUINAN: Careful.
+[00:21:27.824 --> 00:21:30.544] GUINAN: Putting me on a pedestal so high, you may not be able to reach me.
+[00:21:31.504 --> 00:21:32.704] RIKER: Then I'll learn how to fly.
+[00:21:33.744 --> 00:21:37.104] RIKER: You are the heart in my day and the soul in my night.
+[00:21:37.664 --> 00:21:39.024] WESLEY: I don't think this is my style.
+[00:21:39.984 --> 00:21:40.544] GUINAN: Shut up, kid.
+[00:21:42.224 --> 00:21:44.704] GUINAN: Tell me more about my eyes.
+[00:21:45.904 --> 00:21:47.264] RIKER: I didn't want to leave without saying goodbye.
+[00:21:48.704 --> 00:21:50.064] TROI: I don't like goodbyes.
+[00:21:50.784 --> 00:21:52.144] TROI: How about, until next time.
+[00:21:53.264 --> 00:21:56.144] RIKER: How about, until next time.
+[00:21:56.544 --> 00:21:59.024] TROI: It's been a pleasure working with you, Commander.
+[00:22:00.384 --> 00:22:02.224] RIKER: The feeling is mutual, Counsellor.
+[00:22:03.504 --> 00:22:07.984] TROI: I'm supposed to know how everyone feels, but I can't read you right now.
+[00:22:09.264 --> 00:22:10.704] RIKER: Perhaps your own feelings are getting in the way.
+[00:22:12.304 --> 00:22:14.944] TROI: My job is to help others sort out their emotions.
+[00:22:15.664 --> 00:22:17.184] TROI: My own feelings are beside the point.
+[00:22:19.184 --> 00:22:19.744] RIKER: Not to me.
+[00:22:21.344 --> 00:22:22.864] RIKER: Our feelings are what make us all human.
+[00:22:26.464 --> 00:22:27.504] TROI: Are you feeling sad?
+[00:22:34.505 --> 00:22:35.065] RIKER: Yes, I am.
+[00:22:37.065 --> 00:22:37.625] TROI: So am I.
+[00:22:44.985 --> 00:22:45.865] TROI: He's relaxed.
+[00:22:48.345 --> 00:22:52.185] TROI: Experiencing feelings of warmth and friendship.
+[00:22:53.305 --> 00:22:54.345] PULASKI: He's reliving memories.
+[00:22:54.345 --> 00:22:57.545] PULASKI: It's a natural side effect of neural stimulation.
+[00:23:01.625 --> 00:23:02.025] PULASKI: Look at this.
+[00:23:03.145 --> 00:23:04.905] PULASKI: The organisms' metabolism has changed.
+[00:23:04.985 --> 00:23:07.145] PULASKI: I wonder if the stimulation is affecting them somehow.
+[00:23:07.865 --> 00:23:11.678] PULASKI: I'm going to refocus the impulse pattern on the interpretative cortex.
+[00:23:11.678 --> 00:23:13.065] TROI: To intensify his memories?
+[00:23:13.065 --> 00:23:13.625] PULASKI: Exactly.
+[00:23:14.265 --> 00:23:16.345] PULASKI: We'll see if that has an effect on the microbes.
+[00:23:46.265 --> 00:23:50.185] RIVAN: Everyone! We've brought the visitors.
+[00:23:51.145 --> 00:23:53.385] LIATOR: Please, enjoy what we have.
+[00:24:14.613 --> 00:24:14.933] RIKER: Gentlemen,
+[00:24:17.013 --> 00:24:18.453] RIKER: if this is what you call enhancement,
+[00:24:20.133 --> 00:24:21.653] RIKER: you've got a gift for understatement.
+[00:24:30.773 --> 00:24:35.013] RIKER: What's a knockout like you doing in a computer-generated joint like this?
+[00:24:36.453 --> 00:24:37.333] MINUET: Waiting for you.
+[00:24:38.133 --> 00:24:38.773] RIKER: Waiting for me?
+[00:24:40.453 --> 00:24:41.493] RIKER: You can't be serious?
+[00:24:41.733 --> 00:24:42.613] MINUET: Oh yes, Will.
+[00:24:44.533 --> 00:24:48.533] MINUET: I've never been more serious in my life.
+[00:24:49.973 --> 00:24:50.613] PULASKI: Something wrong?
+[00:24:52.213 --> 00:24:58.182] TROI: No, it's just that Commander Riker's emotions are rather passionate.
+[00:24:58.182 --> 00:24:59.973] PULASKI: As in erotic?
+[00:25:01.493 --> 00:25:02.213] TROI: Very much so.
+[00:25:06.053 --> 00:25:08.613] MINUET: A dream?
+[00:25:08.613 --> 00:25:10.533] MINUET: Is that what this is?
+[00:25:10.533 --> 00:25:10.533] MINUET: Is
+[00:25:12.293 --> 00:25:12.933] MINUET: that what I am?
+[00:25:14.853 --> 00:25:17.413] RIKER: I know you are a computer-generated image, but
+[00:25:19.253 --> 00:25:21.013] RIKER: your smell, your
+[00:25:23.093 --> 00:25:24.053] RIKER: touch, the way you feel.
+[00:25:26.065 --> 00:25:28.625] RIKER: Even the things you say and think seem so real.
+[00:25:30.465 --> 00:25:31.025] MINUET: Thank you.
+[00:25:34.465 --> 00:25:36.145] RIKER: How far can this relationship go?
+[00:25:38.385 --> 00:25:40.385] RIKER: I mean, how real are you?
+[00:25:41.185 --> 00:25:43.665] MINUET: As real as you need me to be.
+[00:25:57.585 --> 00:25:58.225] BEATA: You resist.
+[00:25:59.505 --> 00:26:00.625] BEATA: Don't you find me attractive?
+[00:26:03.825 --> 00:26:05.425] RIKER: Yes, I find you very attractive.
+[00:26:07.425 --> 00:26:09.265] BEATA: You attract me like no man ever has.
+[00:26:09.905 --> 00:26:15.505] RIKER: It's not my function to seduce or be seduced by the leader of another world.
+[00:26:17.425 --> 00:26:18.065] BEATA: It's not the reason.
+[00:26:18.385 --> 00:26:18.865] RIKER: No, it's not.
+[00:26:19.985 --> 00:26:21.745] RIKER: But will you still respect me in the morning?
+[00:26:21.745 --> 00:26:22.785] BEATA: I hope so.
+[00:26:24.705 --> 00:26:25.905] BRENNA: William, is something wrong?
+[00:26:26.705 --> 00:26:26.945] RIKER: What do you mean?
+[00:26:29.185 --> 00:26:30.625] BRENNA: Do you not like girls?
+[00:26:32.305 --> 00:26:36.305] RIKER: Of course I do.
+[00:26:38.545 --> 00:26:41.905] RIKER: Oh, is there a technique to this foot washing?
+[00:26:43.745 --> 00:26:47.345] BRENNA: You generally start at the top and work your way down.
+[00:26:51.585 --> 00:26:52.465] RIKER: I think I can handle that.
+[00:27:01.975 --> 00:27:03.015] BRENNA: I was hoping you might.
+[00:27:16.215 --> 00:27:17.735] PULASKI: The organisms responded all right.
+[00:27:18.375 --> 00:27:19.415] PULASKI: Their growth rate has doubled.
+[00:27:20.695 --> 00:27:22.695] TROI: Then all we've done is made things worse.
+[00:27:34.295 --> 00:27:38.327] PULASKI: Now we know the organism's growth rate is related to the memories he's experiencing.
+[00:27:38.327 --> 00:27:40.055] TROI: Or the emotions that they produce.
+[00:27:40.215 --> 00:27:42.935] PULASKI: Different mental processes generate different chemicals.
+[00:27:43.495 --> 00:27:48.055] PULASKI: Perhaps the organisms are sensitive to brain endorphins.
+[00:27:48.935 --> 00:27:51.728] TROI: Then if some types of endorphins attract them
+[00:27:51.728 --> 00:27:52.775] PULASKI: Others will repel
+[00:27:55.175 --> 00:27:55.175] PULASKI: them.
+[00:27:56.295 --> 00:27:58.855] PULASKI: I'm going to change the differential current pattern and see what happens.
+[00:28:09.815 --> 00:28:10.767] TASHA: We're not going without our shuttle crew.
+[00:28:10.767 --> 00:28:11.175] ARMUS: I warn you.
+[00:28:11.495 --> 00:28:11.495] TASHA: Enough!
+[00:28:11.735 --> 00:28:12.535] TASHA: We have
+[00:28:14.375 --> 00:28:15.255] TASHA: people who need attention.
+[00:28:16.295 --> 00:28:17.975] TASHA: We won't hurt you, but we must help them.
+[00:28:30.841 --> 00:28:31.241] PICARD: Number One!
+[00:28:32.441 --> 00:28:33.321] RIKER: The creature attacked us.
+[00:28:33.321 --> 00:28:34.361] RIKER: Lieutenant Yar is down.
+[00:28:34.601 --> 00:28:36.361] DATA: It seems to feed on our phaser energy.
+[00:28:36.361 --> 00:28:37.321] RIKER: We had no effect on it.
+[00:28:49.481 --> 00:28:50.681] PICARD: What's Lieutenant Yar's condition?
+[00:28:54.521 --> 00:28:55.241] PICARD: Doctor Crusher, report!
+[00:28:56.601 --> 00:28:57.241] CRUSHER: She's dead.
+[00:28:59.321 --> 00:29:02.121] PULASKI: I'm losing life signs.
+[00:29:04.121 --> 00:29:05.561] TROI: You must save him.
+[00:29:26.681 --> 00:29:27.961] PULASKI: I'm sorry.
+[00:29:29.241 --> 00:29:29.561] PULASKI: Growth
+[00:29:49.561 --> 00:29:50.761] PULASKI: rate has definitely slowed.
+[00:29:51.641 --> 00:29:52.281] PULASKI: What is he feeling?
+[00:29:52.281 --> 00:29:52.761] PULASKI: Can you tell?
+[00:29:53.743 --> 00:29:54.143] TROI: Sadness.
+[00:29:54.143 --> 00:29:56.543] PULASKI: Which is the opposite of before,
+[00:29:58.383 --> 00:30:00.303] PULASKI: and it's having the opposite effect on the infection.
+[00:30:00.943 --> 00:30:01.983] TROI: Then your theory's correct.
+[00:30:02.703 --> 00:30:05.663] TROI: The organisms are sensitive to different types of endorphins.
+[00:30:07.503 --> 00:30:08.906] PULASKI: And negative emotions
+[00:30:08.906 --> 00:30:10.309] TROI: Such as sadness
+[00:30:10.309 --> 00:30:13.583] PULASKI: Produce endorphins that inhibit the organisms' growth.
+[00:30:13.983 --> 00:30:16.383] TROI: Then we've found a way to repel the infection.
+[00:30:16.383 --> 00:30:17.983] PULASKI: Assuming we're not too late already.
+[00:30:19.183 --> 00:30:20.143] TROI: How much time do we have?
+[00:30:20.223 --> 00:30:20.863] PULASKI: I'm not sure.
+[00:30:22.303 --> 00:30:23.663] PULASKI: His vital signs are getting weaker.
+[00:30:24.063 --> 00:30:29.023] PULASKI: I don't want to risk another dose of tricordrazine unless I have to.
+[00:30:29.423 --> 00:30:31.183] PULASKI: I must refocus the pattern again.
+[00:30:32.463 --> 00:30:36.783] PULASKI: We need to isolate memories that generate stronger negative emotions.
+[00:30:48.863 --> 00:30:54.863] PULASKI: I know I can count on every Klingon warrior in this crew to serve and die in that battle.
+[00:30:54.863 --> 00:30:59.103] PULASKI: So I ask you again, Commander Riker. Where are your loyalties?
+[00:31:01.903 --> 00:31:07.503] RIKER: I have been assigned to serve this ship and to obey your orders. And I will do exactly that.
+[00:31:08.383 --> 00:31:09.903] KARGAN: Will you take an oath to that effect?
+[00:31:10.943 --> 00:31:11.583] RIKER: I just did.
+[00:31:13.023 --> 00:31:14.703] KLAG: Do not believe him! He lies!
+[00:31:18.063 --> 00:31:19.103] KARGAN: Speak in their language.
+[00:31:21.520 --> 00:31:21.680] KARGAN: This
+[00:31:23.280 --> 00:31:25.920] KARGAN: is your Second Officer, Lieutenant Klag.
+[00:31:27.200 --> 00:31:27.440] RIKER: Is
+[00:31:29.520 --> 00:31:31.200] RIKER: there something you wanted to say to me, Lieutenant?
+[00:31:35.680 --> 00:31:36.320] KLAG: Yes sir.
+[00:31:39.440 --> 00:31:41.200] KLAG: I do not believe you.
+[00:31:42.080 --> 00:31:44.880] RIKER: Then I take it you challenge my authority over you.
+[00:31:46.320 --> 00:31:46.720] KLAG: Correct.
+[00:31:49.840 --> 00:31:51.920] RIKER: And your position on this, Captain?
+[00:31:52.560 --> 00:31:55.520] KARGAN: I would say it your first command
+[00:31:56.000 --> 00:31:56.320] KARGAN: decision.
+[00:31:57.360 --> 00:31:57.360] RIKER: Ready
+[00:32:22.160 --> 00:32:22.960] RIKER: for your tour, Admiral?
+[00:32:24.400 --> 00:32:25.200] QUINN: Quite ready, Commander.
+[00:32:26.320 --> 00:32:27.040] RIKER: What's in the case?
+[00:32:27.840 --> 00:32:32.960] QUINN: Actually, I brought it for Doctor Crusher. But perhaps you would like you to see it first?
+[00:32:33.360 --> 00:32:33.760] RIKER: What is it?
+[00:32:34.240 --> 00:32:35.200] QUINN: A form of life.
+[00:32:35.360 --> 00:32:39.920] QUINN: It was discovered accidentally by a survey team on an uncharted planet.
+[00:32:40.320 --> 00:32:41.520] RIKER: Why haven't we heard anything about that?
+[00:32:42.000 --> 00:32:43.360] QUINN: Oh, you'll be hearing about it shortly,
+[00:32:43.920 --> 00:32:46.160] QUINN: but first there remains much scientific study to be done.
+[00:32:46.160 --> 00:32:49.360] QUINN: After all, it is a superior form of life.
+[00:32:49.600 --> 00:32:50.160] RIKER: Superior?
+[00:32:50.560 --> 00:32:50.880] QUINN: Totally.
+[00:32:52.000 --> 00:32:52.240] QUINN: Come,
+[00:32:52.699 --> 00:32:53.019] QUINN: have a look.
+[00:32:53.899 --> 00:32:55.419] RIKER: I think I'll summon my Science Officer.
+[00:32:55.899 --> 00:32:57.579] QUINN: It won't like your Science Officer.
+[00:32:58.539 --> 00:33:00.059] QUINN: It does like you!
+[00:33:01.099 --> 00:33:04.219] QUINN: Vitamins. They do wonders for the body.
+[00:33:25.339 --> 00:33:25.579] RIKER: Riker to Security.
+[00:33:25.659 --> 00:33:26.459] RIKER: Guest quarters seventeen.
+[00:33:26.539 --> 00:33:27.099] RIKER: Emergency.
+[00:33:48.539 --> 00:33:52.779] PULASKI: We've reduced the growth rate even further, but not enough. And his vital signs are deteriorating.
+[00:33:53.339 --> 00:33:56.379] TROI: But we've isolated the specific areas to stimulate.
+[00:34:00.379 --> 00:34:05.419] TROI: The feelings were primal. Survival emotions.
+[00:34:07.019 --> 00:34:10.139] PULASKI: They must be producing a type of endorphin that's poisonous to the organisms.
+[00:34:10.779 --> 00:34:12.699] TROI: Can't you intensify that emotion?
+[00:34:15.179 --> 00:34:17.819] PULASKI: I can refocus the impulse pattern even tighter.
+[00:34:19.179 --> 00:34:21.099] PULASKI: But I don't know if he can withstand it.
+[00:34:21.099 --> 00:34:22.459] PULASKI: He's extremely weak.
+[00:34:22.977 --> 00:34:24.097] TROI: Do we have a choice?
+[00:34:26.817 --> 00:34:26.897] PULASKI: No.
+[00:34:28.417 --> 00:34:33.697] PULASKI: If we don't neutralise the infection, within half an hour he'll be dead.
+[00:34:50.657 --> 00:34:52.177] LOG: Medical log, supplemental.
+[00:34:53.457 --> 00:34:55.697] LOG: Commander Riker's condition is still critical.
+[00:34:56.417 --> 00:35:00.737] LOG: I've discovered a way to reverse the infection's growth rate, but I may be too late.
+[00:35:02.017 --> 00:35:03.217] TROI: He's getting weaker, isn't he?
+[00:35:05.217 --> 00:35:08.897] PULASKI: Respiration shallow, heartbeat extremely irregular, but we can't delay any longer.
+[00:35:21.937 --> 00:35:24.177] T'JON: You will take us to our planet and leave us there with our medicine
+[00:35:24.177 --> 00:35:25.457] T'JON: or this person dies.
+[00:35:26.737 --> 00:35:27.217] T'JON: Don't you see
+[00:35:27.217 --> 00:35:28.097] T'JON: I have no choice?
+[00:35:29.137 --> 00:35:31.137] T'JON: We were sent to bring the felicium back.
+[00:35:31.857 --> 00:35:33.537] T'JON: The suffering on my planet is too great.
+[00:35:33.617 --> 00:35:34.497] T'JON: People are dying.
+[00:35:35.617 --> 00:35:37.457] T'JON: It doesn't matter whether we're entitled to it or not.
+[00:35:37.857 --> 00:35:38.737] T'JON: We must have it.
+[00:35:39.297 --> 00:35:39.697] PICARD: Let him go.
+[00:35:40.577 --> 00:35:41.377] T'JON: You will take us there
+[00:35:42.897 --> 00:35:43.057] T'JON: now,
+[00:35:43.057 --> 00:35:46.017] T'JON: or give us a shuttle. But we must have the medicine.
+[00:35:47.617 --> 00:35:48.657] T'JON: If you refuse,
+[00:35:49.515 --> 00:35:50.475] T'JON: this person will die.
+[00:35:51.755 --> 00:35:52.715] PICARD: I will not be coerced.
+[00:35:53.755 --> 00:35:54.315] T'JON: I will do it.
+[00:35:56.315 --> 00:35:56.315] T'JON: I
+[00:36:00.875 --> 00:36:00.875] T'JON: will kill him.
+[00:36:00.875 --> 00:36:01.435] RIKER: Who are you?
+[00:36:19.035 --> 00:36:22.715] RIKER: Help! Data, something's got me!
+[00:36:22.715 --> 00:36:23.755] ARMUS: Touch him and he dies.
+[00:36:25.355 --> 00:36:27.755] RIKER: No! No, don't!
+[00:36:37.035 --> 00:36:37.515] DATA: Enterprise?
+[00:36:38.315 --> 00:36:38.635] DATA: Armus has
+[00:36:39.515 --> 00:36:40.875] DATA: enveloped Commander Riker.
+[00:36:41.835 --> 00:36:42.315] PICARD: I'm beaming you up.
+[00:36:43.275 --> 00:36:48.955] ARMUS: If any of you leave now, he dies. And so do the survivors of the crash.
+[00:36:56.875 --> 00:36:58.875] PULASKI: The
+[00:37:09.515 --> 00:37:11.435] PULASKI: growth rate's down to seven percent.
+[00:37:11.435 --> 00:37:15.435] PULASKI: The organisms are still impairing his neural functions.
+[00:37:16.075 --> 00:37:17.115] PULASKI: Respiration's erratic,
+[00:37:17.195 --> 00:37:18.155] PULASKI: pulse grossly irregular,
+[00:37:18.235 --> 00:37:19.595] PULASKI: blood pressure almost nil.
+[00:37:19.595 --> 00:37:20.315] PULASKI: Tricordrazine.
+[00:37:24.546 --> 00:37:25.826] TROI: Can we tighten the pattern further?
+[00:37:35.906 --> 00:37:38.546] COMPUTER: Recognise Picard, Jean-Luc, Captain.
+[00:37:39.346 --> 00:37:42.066] COMPUTER: Recognise Riker, William T, Commander.
+[00:37:44.146 --> 00:37:45.586] PICARD: Set auto-destruct sequence.
+[00:37:46.386 --> 00:37:48.066] COMPUTER: Does the First Officer concur?
+[00:37:49.426 --> 00:37:49.746] RIKER: Yes.
+[00:37:50.066 --> 00:37:51.506] RIKER: Set auto-destruct sequence.
+[00:37:51.986 --> 00:37:52.466] RIKER: Now.
+[00:37:52.466 --> 00:37:56.786] COMPUTER: Auto-destruct will detonate in four minutes and fifty-nine seconds.
+[00:38:01.746 --> 00:38:02.466] KORRIS: I am Korris.
+[00:38:03.186 --> 00:38:04.786] RIKER: We'll handle the formalities later.
+[00:38:04.786 --> 00:38:06.066] RIKER: Right now we have to get off this ship.
+[00:38:06.146 --> 00:38:07.186] RIKER: Are there any others survivors?
+[00:38:08.386 --> 00:38:08.546] KORRIS: No.
+[00:38:11.826 --> 00:38:13.826] DATA: I believe I have found a quicker way out of here, sir.
+[00:38:15.186 --> 00:38:15.826] RIKER: Check him out.
+[00:38:19.826 --> 00:38:21.266] DATA: He is alive, sir, but just barely.
+[00:38:21.506 --> 00:38:23.426] RIKER: Then pick the body and let's get out of here.
+[00:38:23.506 --> 00:38:23.746] KORRIS: No.
+[00:38:26.706 --> 00:38:27.666] KORRIS: I will carry him.
+[00:38:28.546 --> 00:38:29.186] DATA: As you wish.
+[00:38:29.826 --> 00:38:30.386] LAFORGE: Come on, let's go!
+[00:38:32.946 --> 00:38:34.706] PICARD: Tasha, go to transporter room three.
+[00:38:36.066 --> 00:38:37.346] PICARD: I want you there when the away team returns.
+[00:38:38.146 --> 00:38:38.386] TASHA: Aye, sir.
+[00:38:38.546 --> 00:38:40.546] LAFORGE: Commander,
+[00:38:49.186 --> 00:38:50.046] LAFORGE: we are out of time.
+[00:38:50.176 --> 00:38:50.706] LAFORGE: This ship is blowing.
+[00:38:50.834 --> 00:38:54.866] RIKER: Transporter room, have you got a lock on us?
+[00:38:55.841 --> 00:38:56.721] TASHA: Too much interference.
+[00:38:57.441 --> 00:38:59.623] TASHA: You have to get farther away from the Engineering section.
+[00:38:59.623 --> 00:38:59.841] WORF: Sir,
+[00:39:00.001 --> 00:39:01.361] WORF: the Engineering section is critical.
+[00:39:01.361 --> 00:39:02.641] WORF: Destruction of the Batris is imminent.
+[00:39:03.201 --> 00:39:04.001] PICARD: They're out of options.
+[00:39:04.081 --> 00:39:05.281] PICARD: Do it! Now!
+[00:39:38.961 --> 00:39:40.641] TROI: The growth rate's almost down to zero.
+[00:39:41.441 --> 00:39:42.321] PULASKI: That's not good enough.
+[00:39:42.321 --> 00:39:43.041] REMMICK: We
+[00:39:57.041 --> 00:40:00.081] REMMICK: seek peaceful co-existence.
+[00:40:00.081 --> 00:40:00.161] RIKER: Data,
+[00:40:07.921 --> 00:40:08.801] RIKER: something's
+[00:40:10.481 --> 00:40:11.121] RIKER: got
+[00:40:11.281 --> 00:40:11.281] RIKER: me!
+[00:41:10.044 --> 00:41:10.924] PULASKI: Sickbay to Bridge.
+[00:41:11.324 --> 00:41:11.884] PICARD: Yes, Doctor?
+[00:41:12.684 --> 00:41:14.524] PULASKI: We've eradicated the infection.
+[00:41:15.244 --> 00:41:18.444] PICARD: I'm on my way.
+[00:41:36.204 --> 00:41:36.924] RIKER: You're still here?
+[00:41:38.284 --> 00:41:39.804] TROI: I could ask you the same question.
+[00:41:41.564 --> 00:41:42.284] PULASKI: How do you feel?
+[00:41:44.444 --> 00:41:44.764] RIKER: Beat.
+[00:41:46.524 --> 00:41:48.124] RIKER: You wouldn't believe the dreams I was having.
+[00:41:49.724 --> 00:41:50.524] TROI: Oh yes we would.
+[00:41:51.484 --> 00:41:54.764] PULASKI: You'll be pleased to know that we've terminated the infection.
+[00:41:56.364 --> 00:41:57.324] RIKER: Great work, Doctor.
+[00:41:57.964 --> 00:42:01.010] RIKER: Now, if I can get out of here, I'd like to get back
+[00:42:01.010 --> 00:42:01.244] PULASKI: Lie
+[00:42:01.244 --> 00:42:01.884] PULASKI: still.
+[00:42:02.698 --> 00:42:04.538] PULASKI: I have a few dozen tests to run first.
+[00:42:05.178 --> 00:42:06.378] RIKER: Why? I feel fine.
+[00:42:06.698 --> 00:42:09.018] PULASKI: There may be some residual memory loss.
+[00:42:09.418 --> 00:42:12.138] PULASKI: I just want to be sure you still know who you are.
+[00:42:15.658 --> 00:42:17.418] RIKER: Of course I know who I am.
+[00:42:17.818 --> 00:42:20.778] RIKER: I'm Captain Jean-Luc Picard of the USS Enterprise.
+[00:42:22.698 --> 00:42:24.778] PICARD: I'm delighted that you're feeling better, Captain.
+[00:42:25.658 --> 00:42:28.787] PICARD: The Admiral and I were worried about you.
+[00:42:28.787 --> 00:42:29.178] DATA: Captain,
+[00:42:30.138 --> 00:42:32.938] DATA: I do not believe you have the authority to promote me to the rank of Admiral.

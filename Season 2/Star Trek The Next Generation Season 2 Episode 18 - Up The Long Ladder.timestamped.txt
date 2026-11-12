@@ -1,0 +1,649 @@
+[00:00:23.920 --> 00:00:26.320] PICARD: Number One, will you join me in the Ready room?
+[00:00:26.480 --> 00:00:26.800] RIKER: Yes, sir.
+[00:00:39.520 --> 00:00:41.520] PICARD: I've just come from a meeting with Admiral Moore.
+[00:00:42.320 --> 00:00:44.400] PICARD: He wanted to discuss this.
+[00:00:50.080 --> 00:00:50.640] PICARD: Recognise it?
+[00:00:52.880 --> 00:00:54.080] RIKER: Sounds like it might be an SOS.
+[00:00:54.640 --> 00:00:56.720] PICARD: Good guess.
+[00:00:56.720 --> 00:00:59.440] PICARD: You're quicker than Starbase research.
+[00:00:59.440 --> 00:01:02.400] PICARD: It took them hours to determine this was a distress beacon.
+[00:01:03.120 --> 00:01:03.840] RIKER: When was it detected?
+[00:01:04.640 --> 00:01:05.280] PICARD: Last month.
+[00:01:06.000 --> 00:01:08.320] PICARD: Just kicked in without any warning.
+[00:01:08.960 --> 00:01:09.760] RIKER: Who used the beacon?
+[00:01:10.960 --> 00:01:12.240] PICARD: It's Terran.
+[00:01:12.240 --> 00:01:12.880] RIKER: Captain,
+[00:01:12.880 --> 00:01:14.800] RIKER: I'm familiar with most Earth codes, and
+[00:01:15.680 --> 00:01:16.240] PICARD: Interesting.
+[00:01:17.200 --> 00:01:20.240] PICARD: Yes, that code hasn't been used in centuries.
+[00:01:21.440 --> 00:01:22.400] RIKER: What was its origin point?
+[00:01:23.200 --> 00:01:24.000] PICARD: Ficus sector.
+[00:01:25.040 --> 00:01:27.600] RIKER: Captain, I don't think there's any record of an Earth colony in that area.
+[00:01:27.680 --> 00:01:31.200] PICARD: Now we know there's someone out there and they're asking for help.
+[00:01:32.240 --> 00:01:32.720] RIKER: But who?
+[00:01:34.037 --> 00:01:34.837] PICARD: Let's try and find out.
+[00:01:36.757 --> 00:01:42.117] PICARD: Computer, download all information regarding signal beacon from Starbase mainframe.
+[00:01:43.397 --> 00:01:46.117] COMPUTER: Distress beacon used by the European Hegemony.
+[00:01:48.357 --> 00:01:49.092] RIKER: The European Hegemony?
+[00:01:49.092 --> 00:01:52.277] PICARD: A loose alliance formed in the early part of the twenty second century.
+[00:01:54.997 --> 00:01:56.837] PICARD: It was the first stirrings of world government.
+[00:01:56.837 --> 00:01:58.517] PICARD: You should read more history, Number One.
+[00:01:59.557 --> 00:02:03.317] PICARD: Computer, locate exact dates in which this signal beacon was in general use.
+[00:02:04.357 --> 00:02:08.517] COMPUTER: Old Earth calendar, 2123 until 2190.
+[00:02:08.517 --> 00:02:10.997] RIKER: No extraterrestrial source ever used this code?
+[00:02:11.877 --> 00:02:12.357] COMPUTER: Negative.
+[00:02:13.557 --> 00:02:18.437] PICARD: Locate all Earth deep space launches from 2123 until 2190,
+[00:02:20.517 --> 00:02:23.317] PICARD: with a destination in or near the Ficus sector.
+[00:02:24.437 --> 00:02:24.837] COMPUTER: Working.
+[00:02:29.797 --> 00:02:30.677] RIKER: Nothing for Ficus.
+[00:02:32.757 --> 00:02:32.757] PICARD: Damn
+[00:02:35.077 --> 00:02:35.157] PICARD: it,
+[00:02:35.237 --> 00:02:35.957] PICARD: who's out there?
+[00:02:37.237 --> 00:02:37.877] RIKER: Lost sheep.
+[00:02:40.037 --> 00:02:40.997] PICARD: Let's go see if we can find
+[00:02:44.757 --> 00:02:44.757] PICARD: them.
+[00:02:46.917 --> 00:02:47.717] DATA: Medical emergency.
+[00:02:48.037 --> 00:02:49.317] DATA: Doctor Pulaski to the Bridge.
+[00:02:52.837 --> 00:02:53.237] PICARD: What happened?
+[00:02:54.357 --> 00:02:55.237] DATA: He just collapsed, sir.
+[00:03:15.674 --> 00:03:18.474] PICARD: Space, the final frontier.
+[00:03:20.314 --> 00:03:22.954] PICARD: These are the voyages of the starship Enterprise.
+[00:03:24.314 --> 00:03:32.634] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:34.234 --> 00:03:37.114] PICARD: to boldly go where no one has gone before.
+[00:04:03.000 --> 00:04:15.000] [music]
+[00:04:25.000 --> 00:04:33.000] [music]
+[00:04:33.151 --> 00:04:36.111] LOG: Captain's log, stardate 42823.2.
+[00:04:36.591 --> 00:04:41.871] LOG: We're departing from Starbase Seven Three to investigate the source of the mysterious distress signal.
+[00:04:42.751 --> 00:04:48.671] LOG: Meanwhile, my Security Officer remains in Sickbay, where Doctor Pulaski is searching for the cause of his collapse.
+[00:04:49.471 --> 00:04:50.031] WORF: I am fine.
+[00:04:50.591 --> 00:04:51.231] PULASKI: You're not fine.
+[00:04:51.231 --> 00:04:51.711] PULASKI: You fainted.
+[00:04:51.871 --> 00:04:52.751] WORF: I did not faint.
+[00:04:53.311 --> 00:04:54.831] WORF: Klingons do not faint.
+[00:04:55.071 --> 00:04:55.631] PULASKI: Excuse me,
+[00:04:55.631 --> 00:04:56.431] PULASKI: I'll rephrase.
+[00:04:56.831 --> 00:05:00.431] PULASKI: This Klingon suffered a dramatic drop in blood pressure,
+[00:05:00.431 --> 00:05:02.351] PULASKI: his blood glucose level dropped,
+[00:05:02.991 --> 00:05:08.031] PULASKI: there was deficient blood flow resulting from circulatory failure.
+[00:05:08.591 --> 00:05:13.471] PULASKI: In other words, he curled up his toes and laid unconscious on the floor.
+[00:05:14.991 --> 00:05:17.471] WORF: Doctor, there is no need to insult me.
+[00:05:17.791 --> 00:05:18.751] PULASKI: Worf, I am worried.
+[00:05:18.901 --> 00:05:19.501] PULASKI: Now,
+[00:05:21.231 --> 00:05:22.111] PULASKI: something is wrong.
+[00:05:22.751 --> 00:05:24.431] PULASKI: Klingons don't faint.
+[00:05:25.871 --> 00:05:26.511] PULASKI: Forgive me.
+[00:05:26.511 --> 00:05:28.431] PULASKI: I just can't think of another word that applies.
+[00:05:29.551 --> 00:05:30.191] PULASKI: You're sick.
+[00:05:30.511 --> 00:05:32.031] WORF: Klingons do not give in to illness.
+[00:05:32.111 --> 00:05:33.311] PULASKI: Just stay right where you are.
+[00:05:33.391 --> 00:05:35.231] PULASKI: I have to check something with the computer.
+[00:05:45.071 --> 00:05:49.311] PULASKI: Lieutenant, you have rop'ngor.
+[00:05:53.151 --> 00:05:56.591] WORF: But that is a childhood ailment!
+[00:05:56.991 --> 00:05:57.471] PULASKI: Yes.
+[00:05:59.026 --> 00:06:01.406] WORF: How shall I live down the humiliation?
+[00:06:01.406 --> 00:06:01.746] PULASKI: Worf,
+[00:06:01.746 --> 00:06:02.386] PULASKI: you can't help.
+[00:06:02.386 --> 00:06:02.786] WORF: Still, for a
+[00:06:04.386 --> 00:06:07.346] WORF: warrior to find himself in such a situation.
+[00:06:07.906 --> 00:06:10.866] PULASKI: So you've got the Klingon version of the measles.
+[00:06:11.426 --> 00:06:13.986] WORF: How would Commander Riker feel if he had the measles.
+[00:06:14.466 --> 00:06:15.186] PULASKI: Pretty silly.
+[00:06:15.506 --> 00:06:17.426] PICARD: Doctor Pulaski, how is Lieutenant Worf?
+[00:06:19.026 --> 00:06:20.066] PULASKI: He's in no danger.
+[00:06:21.986 --> 00:06:27.426] PULASKI: Worf was just observing a Klingon ritual involving fasting,
+[00:06:29.026 --> 00:06:35.186] PULASKI: and he didn't take into account that you have to decrease your physical activity as you decrease your caloric intake.
+[00:06:35.506 --> 00:06:36.466] PULASKI: Pulaski out.
+[00:06:39.426 --> 00:06:39.746] WORF: Thank you.
+[00:06:41.346 --> 00:06:42.066] WORF: I am in your debt.
+[00:06:48.306 --> 00:06:49.306] PICARD: Come.
+[00:06:49.306 --> 00:06:50.306] DATA: Captain,
+[00:06:51.026 --> 00:06:53.106] DATA: I have been considering the problem of the missing ship.
+[00:06:53.906 --> 00:07:01.826] DATA: Although there is no record of a launch to the Ficus sector, which would not be unusual considering the chaos of the early twenty second century, someone had to load that ship.
+[00:07:04.626 --> 00:07:05.666] PICARD: The manifest.
+[00:07:05.666 --> 00:07:06.706] DATA: Yes, sir.
+[00:07:09.906 --> 00:07:10.066] PICARD: There
+[00:07:14.466 --> 00:07:16.626] PICARD: it is.
+[00:07:17.826 --> 00:07:22.066] PICARD: SS Mariposa, loaded 27th November, 2123.
+[00:07:22.066 --> 00:07:23.826] PICARD: Destination Ficus
+[00:07:23.985 --> 00:07:26.065] PICARD: sector. Captain Walter Granger, commanding.
+[00:07:26.625 --> 00:07:27.185] DATA: Mariposa.
+[00:07:27.745 --> 00:07:29.265] DATA: The Spanish word for butterfly.
+[00:07:30.225 --> 00:07:30.705] PICARD: Thank you, Data.
+[00:07:31.745 --> 00:07:33.025] DATA: I thought it might be significant, sir.
+[00:07:33.665 --> 00:07:34.545] PICARD: It doesn't appear to be, Data.
+[00:07:35.505 --> 00:07:35.745] DATA: No, sir.
+[00:07:37.105 --> 00:07:44.785] PICARD: You learn a lot about people from their luggage. Two hundred and twenty five Yoshimitsu computers, five monitor beacon satellites, seven hundred cellular commlinks, fifty spinning wheels.
+[00:07:44.945 --> 00:07:45.665] DATA: Spinning wheels?
+[00:07:45.905 --> 00:07:46.305] DATA: Accessing.
+[00:07:48.705 --> 00:07:53.265] DATA: A device for spinning yarn or thread that consists of a large foot or hand driven wheel and one spindle.
+[00:07:53.425 --> 00:07:55.097] PICARD: Cattle, chickens, pigs. Not DNA, the actual livestock. Incredible. Why would anyone carry such an insane mix of cargo?
+[00:07:55.097 --> 00:07:55.185] DATA: Spindle,
+[00:07:55.185 --> 00:07:56.225] DATA: a thin rounded tapering rod
+[00:07:56.545 --> 00:07:56.865] PICARD: Data!
+[00:07:59.345 --> 00:08:00.625] DATA: Perhaps they were planning for the worst, sir.
+[00:08:03.345 --> 00:08:04.145] PICARD: Theorise, Data.
+[00:08:04.945 --> 00:08:05.745] PICARD: Give me some background.
+[00:08:06.945 --> 00:08:11.185] DATA: In the early twenty-second century, Earth was recovering from World War Three.
+[00:08:11.185 --> 00:08:21.665] DATA: A major philosopher of the period was Liam Dieghan, founder of the Neo-Transcendentalists, who advocated a return to a simpler life in which one lived in harmony with nature, and learned under her gentle tutelage
+[00:08:23.105 --> 00:08:23.665] PICARD: Thank you, Data.
+[00:08:25.345 --> 00:08:32.385] PICARD: But if this was a ship full of utopians, why carry all this technological baggage?
+[00:08:33.585 --> 00:08:36.465] DATA: I have insufficient information from which to form a cogent theory, sir.
+[00:08:48.225 --> 00:08:48.625] WORF: Doctor.
+[00:08:53.636 --> 00:08:57.956] WORF: I wished to thank you for protecting my
+[00:08:58.996 --> 00:09:00.196] PULASKI: Your secret is safe with me.
+[00:09:01.876 --> 00:09:03.956] PULASKI: Worf, I'm honoured.
+[00:09:05.316 --> 00:09:10.836] PULASKI: No one has ever performed the Klingon tea ceremony for me.
+[00:09:24.516 --> 00:09:27.556] PULASKI: There, that should do it.
+[00:09:28.116 --> 00:09:29.236] WORF: You know the ceremony?
+[00:09:30.036 --> 00:09:32.596] PULASKI: I understand the externals, not the mysteries.
+[00:09:32.756 --> 00:09:33.316] PULASKI: I'm not a Klingon.
+[00:09:34.196 --> 00:09:35.556] WORF: You must not drink the tea.
+[00:09:35.716 --> 00:09:36.996] WORF: It is deadly to humans.
+[00:09:37.716 --> 00:09:39.076] PULASKI: And none too good for Klingons.
+[00:09:39.796 --> 00:09:43.796] WORF: It is a test of bravery, of one's ability to look at the face of mortality.
+[00:09:44.516 --> 00:09:49.716] WORF: It is also a reminder that death is an experience best shared, like the tea.
+[00:09:50.436 --> 00:09:52.836] PULASKI: Worf, you're a romantic.
+[00:09:54.196 --> 00:09:58.676] WORF: It is among the Klingons that love poetry achieves its fullest flower.
+[00:09:59.556 --> 00:10:00.356] PULASKI: Hold that thought.
+[00:10:09.076 --> 00:10:09.556] PULASKI: Antidote.
+[00:10:11.716 --> 00:10:13.556] PULASKI: If we're going to share, let's share.
+[00:10:26.960 --> 00:10:29.440] PULASKI: Now, quote me a little of that poetry.
+[00:10:39.120 --> 00:10:40.320] PICARD: Initiate sensor sweeps.
+[00:10:40.560 --> 00:10:40.880] DATA: Aye, sir.
+[00:10:44.320 --> 00:10:47.200] DATA: The system's sun has entered a period of severe flare activity.
+[00:10:47.760 --> 00:10:49.120] RIKER: Now we know what triggered the SOS.
+[00:10:49.520 --> 00:10:51.840] DATA: Class M readings from the fifth planet in the system.
+[00:10:55.280 --> 00:10:55.760] PICARD: Take us in.
+[00:10:56.240 --> 00:10:57.440] WORF: Shields at maximum.
+[00:11:09.520 --> 00:11:13.520] DATA: Sensors indicate human life form readings thirty metres below the planet's surface.
+[00:11:14.720 --> 00:11:15.920] WORF: Hailing on all frequencies.
+[00:11:17.840 --> 00:11:18.880] WORF: No response so far,
+[00:11:19.360 --> 00:11:21.440] WORF: but the flares may be interfering with communications.
+[00:11:22.080 --> 00:11:25.040] DATA: There is no evidence of an advanced communication network.
+[00:11:26.480 --> 00:11:27.760] PICARD: They brought a lot of technology.
+[00:11:27.760 --> 00:11:28.320] PICARD: Where is it?
+[00:11:29.600 --> 00:11:32.000] WORF: There is no artificial power source on the planet.
+[00:11:33.200 --> 00:11:35.840] DATA: The stellar flares are increasing in magnitude and frequency.
+[00:11:36.480 --> 00:11:40.240] DATA: Computer projections indicate they will brush the planet in three point six hours.
+[00:11:40.800 --> 00:11:42.160] WORF: Evacuation will be difficult.
+[00:11:42.480 --> 00:11:45.200] WORF: We can lower our shields for transport only between the flares.
+[00:11:46.003 --> 00:11:49.603] TROI: Captain, these people have been isolated for three hundred years.
+[00:11:49.603 --> 00:11:51.363] TROI: They could be very unsophisticated.
+[00:11:51.923 --> 00:11:56.403] TROI: The shock of suddenly being transported onto a spaceship could frighten them, to say the least.
+[00:11:57.123 --> 00:11:58.963] PICARD: Your point is well taken, Counsellor.
+[00:12:00.403 --> 00:12:00.883] PICARD: Number One,
+[00:12:02.883 --> 00:12:04.003] PICARD: you're going to have to go down there.
+[00:12:04.563 --> 00:12:04.963] RIKER: On my way.
+[00:12:12.643 --> 00:12:15.683] LOG: Captain's log, stardate 42827.3.
+[00:12:16.163 --> 00:12:20.803] LOG: Commander Riker has reached the caverns, where he is making preparations to begin the evacuation.
+[00:12:22.803 --> 00:12:23.843] PICARD: What's the situation, Number One?
+[00:12:24.483 --> 00:12:26.323] RIKER: There are roughly two hundred people down here.
+[00:12:26.563 --> 00:12:27.123] PICARD: Their condition?
+[00:12:27.683 --> 00:12:28.723] RIKER: Surprisingly good.
+[00:12:29.043 --> 00:12:29.923] PICARD: Are they willing to leave?
+[00:12:30.483 --> 00:12:30.963] RIKER: Yes, but
+[00:12:31.043 --> 00:12:31.763] PICARD: Well, get them up here.
+[00:12:31.763 --> 00:12:35.043] RIKER: I'm having a little debate with the colony's leader.
+[00:12:35.043 --> 00:12:35.443] RIKER: It seems
+[00:12:35.443 --> 00:12:36.723] PICARD: There's no time, Number One.
+[00:12:36.723 --> 00:12:37.923] PICARD: Initiate the transport.
+[00:12:38.483 --> 00:12:39.043] RIKER: But, sir
+[00:12:39.123 --> 00:12:40.963] PICARD: Whatever the problem, we'll handle it up here.
+[00:12:42.083 --> 00:12:42.643] RIKER: Aye, aye, sir,
+[00:12:42.963 --> 00:12:44.483] RIKER: we're on our way. All of us.
+[00:12:44.963 --> 00:12:45.443] RIKER: Riker out.
+[00:12:47.043 --> 00:12:48.243] RIKER: First load ready, Mister O'Brien.
+[00:12:49.043 --> 00:12:49.603] O'BRIEN: Energising.
+[00:13:04.963 --> 00:13:06.963] O'BRIEN: Captain, you'd better get somebody down here.
+[00:13:08.083 --> 00:13:08.563] O'BRIEN: Right away.
+[00:13:27.855 --> 00:13:27.935] DANILO: Take the pig out there,
+[00:13:38.415 --> 00:13:38.918] DANILO: will you? Very good.
+[00:13:38.918 --> 00:13:40.175] RIKER: O'Brien, I think that third wave should be in position.
+[00:13:40.735 --> 00:13:40.975] DANILO: Shoo, damn
+[00:13:42.175 --> 00:13:42.175] DANILO: you,
+[00:13:42.175 --> 00:13:42.335] DANILO: shoo.
+[00:13:43.055 --> 00:13:44.575] O'BRIEN: Aye,
+[00:13:50.895 --> 00:13:52.895] O'BRIEN: sir.
+[00:13:59.215 --> 00:14:01.215] DANILO: O'Brien,
+[00:14:05.375 --> 00:14:05.695] DANILO: is it?
+[00:14:05.695 --> 00:14:08.655] DANILO: I should have known t'would be a good Irishman that was running this ship.
+[00:14:09.695 --> 00:14:09.855] PICARD: What the
+[00:14:13.215 --> 00:14:14.415] PICARD: devil is going on here, Number One?
+[00:14:14.815 --> 00:14:17.455] DANILO: Ah, Captain Picard is it.
+[00:14:17.615 --> 00:14:21.615] DANILO: The man who makes decisions for me and mine without so much as a by your leave.
+[00:14:24.415 --> 00:14:26.175] PICARD: This is my Security Chief, Lieutenant Worf.
+[00:14:28.015 --> 00:14:31.775] DANILO: I don't suppose security is much of a problem for you.
+[00:14:33.855 --> 00:14:36.895] DANILO: Danilo Odell, sir, at your service.
+[00:14:38.175 --> 00:14:39.775] PICARD: What are these animals doing here, Number One.
+[00:14:39.855 --> 00:14:40.655] RIKER: I'm sorry, sir.
+[00:14:41.055 --> 00:14:43.135] RIKER: It was either this or arguing till hell froze over.
+[00:14:43.615 --> 00:14:47.215] DANILO: Captain Picard, sir, we can't leave our animals here to die.
+[00:14:48.095 --> 00:14:50.175] DANILO: Besides, how could we build our future
+[00:14:50.288 --> 00:14:51.248] DANILO: without our animals?
+[00:14:53.648 --> 00:14:58.048] PICARD: All right. Chief O'Brien, transport this group directly to cargo hold seven,
+[00:14:59.088 --> 00:15:02.128] PICARD: and beam the remaining refugees from the planet directly to that hold.
+[00:15:02.368 --> 00:15:02.608] O'BRIEN: Yes, sir.
+[00:15:03.088 --> 00:15:06.048] DANILO: Right, lads. Everybody back onto the infernal machine.
+[00:15:07.088 --> 00:15:08.768] RIKER: Everybody up here.
+[00:15:09.408 --> 00:15:13.568] DANILO: Captain! Captain, t'was very good of you, sir, to rescue us from our troubles.
+[00:15:13.808 --> 00:15:14.288] PICARD: My pleasure.
+[00:15:14.528 --> 00:15:15.328] DANILO: Sir,
+[00:15:15.568 --> 00:15:18.448] DANILO: you must be worth quite a bit to own a fine ship like this.
+[00:15:19.248 --> 00:15:20.608] PICARD: I don't own the Enterprise,
+[00:15:20.608 --> 00:15:21.888] PICARD: I command her.
+[00:15:21.888 --> 00:15:22.368] DANILO: Whatever.
+[00:15:23.168 --> 00:15:25.408] DANILO: Sir, would you happen to be married?
+[00:15:26.688 --> 00:15:26.928] PICARD: No.
+[00:15:27.008 --> 00:15:27.248] PICARD: Why?
+[00:15:27.568 --> 00:15:27.728] DANILO: No?
+[00:15:28.448 --> 00:15:30.608] DANILO: Well, you see, sir, I have a daughter.
+[00:15:31.088 --> 00:15:31.888] PICARD: Felicitations.
+[00:15:33.728 --> 00:15:35.728] DANILO: Would you be interested, sir?
+[00:15:35.968 --> 00:15:36.288] PICARD: No.
+[00:15:36.688 --> 00:15:37.328] DANILO: You're quite sure?
+[00:15:37.488 --> 00:15:38.208] PICARD: Quite sure.
+[00:15:38.368 --> 00:15:40.288] DANILO: He's quite sure.
+[00:15:54.128 --> 00:15:54.768] PICARD: What's the total?
+[00:15:55.008 --> 00:15:55.728] WORF: Two hundred and twenty three.
+[00:15:56.368 --> 00:15:58.128] PULASKI: Count on two more in the next few days.
+[00:15:59.248 --> 00:16:00.848] PICARD: Set course for the nearest starbase.
+[00:16:01.168 --> 00:16:03.728] PULASKI: You know, they were anachronistic in 2123.
+[00:16:03.728 --> 00:16:05.248] PULASKI: It will be interesting to see how they cope.
+[00:16:05.648 --> 00:16:06.848] RIKER: They'll learn and adapt.
+[00:16:07.328 --> 00:16:10.208] RIKER: If Danilo Odell's any indication, they'll be running this place inside of a week.
+[00:16:11.648 --> 00:16:12.688] WORF: Lieutenant Worf, here. Report.
+[00:16:12.848 --> 00:16:14.208] CREWMAN: Fire in cargo hold seven.
+[00:16:15.408 --> 00:16:16.048] RIKER: The Bringloidi.
+[00:16:16.830 --> 00:16:18.110] PICARD: What have they done to my ship now?
+[00:16:23.950 --> 00:16:24.750] WORF: Keep the area clear.
+[00:16:25.710 --> 00:16:25.950] PICARD: Report.
+[00:16:26.750 --> 00:16:27.710] WORF: Fire has been contained.
+[00:16:28.110 --> 00:16:28.670] WORF: No damage.
+[00:16:28.990 --> 00:16:29.710] PICARD: Unseal the doors.
+[00:16:32.190 --> 00:16:34.990] DANILO: My God, Picard,
+[00:16:34.990 --> 00:16:36.430] DANILO: the place is a bloody death trap!
+[00:16:36.670 --> 00:16:38.510] DANILO: Lightning bolts falling from the ceiling!
+[00:16:44.030 --> 00:16:45.550] DANILO: What the hell was that thing?
+[00:16:46.110 --> 00:16:47.230] WORF: Automated fire system.
+[00:16:47.870 --> 00:16:51.870] WORF: A force field contains the flame until the remaining oxygen within the field has been consumed.
+[00:16:52.750 --> 00:16:55.070] DANILO: What if I had been under that thing?
+[00:16:56.030 --> 00:16:57.470] WORF: You would have been standing in the fire.
+[00:16:58.030 --> 00:16:59.710] DANILO: Well, leaving that aside for the moment,
+[00:16:59.790 --> 00:17:01.310] DANILO: I mean, what would have happened to me?
+[00:17:01.310 --> 00:17:03.150] WORF: You would have suffocated and died.
+[00:17:03.550 --> 00:17:04.830] DANILO: Sweet mercy.
+[00:17:05.470 --> 00:17:06.750] BRENNA: Oh, there you are.
+[00:17:08.190 --> 00:17:10.350] BRENNA: Your hospitality leaves a hell of a lot to be desired!
+[00:17:10.990 --> 00:17:15.390] BRENNA: You don't offer us a bite or a sup, and when we build a fire to cook a little something, the place goes mad!
+[00:17:16.670 --> 00:17:18.830] PICARD: My apologies.
+[00:17:18.830 --> 00:17:24.830] PICARD: I was unaware that you had not been instructed in the use of the food dispensers.
+[00:17:25.630 --> 00:17:25.790] BRENNA: And
+[00:17:27.470 --> 00:17:28.750] BRENNA: what are you staring at?
+[00:17:29.150 --> 00:17:30.270] BRENNA: Have you never seen a woman before?
+[00:17:30.270 --> 00:17:33.390] RIKER: I thought I had.
+[00:17:33.390 --> 00:17:34.030] DANILO: Commander,
+[00:17:34.990 --> 00:17:35.950] DANILO: may I present
+[00:17:36.190 --> 00:17:37.577] DANILO: my daughter, Brenna Odell.
+[00:17:37.577 --> 00:17:38.270] RIKER: Pleased to
+[00:17:39.950 --> 00:17:40.670] RIKER: meet you, ma'am.
+[00:17:44.350 --> 00:17:48.990] BRENNA: You may have all the time in the world, but I've dozens of frightened and hungry children and women to look after.
+[00:17:49.470 --> 00:17:50.350] RIKER: And what about the men?
+[00:17:51.240 --> 00:17:55.080] BRENNA: Well, I'm sure they'll find their comfort as they always do, in the bottom of a mug of home brew!
+[00:17:55.880 --> 00:17:55.960] DANILO: Pay
+[00:17:57.480 --> 00:17:58.760] DANILO: no heed, Commander.
+[00:17:58.920 --> 00:17:59.720] DANILO: She's a fine girl.
+[00:18:00.840 --> 00:18:02.360] DANILO: She's not usually so sharp tongued.
+[00:18:03.160 --> 00:18:03.160] BRENNA: Dado!
+[00:18:09.160 --> 00:18:09.400] RIKER: Sir?
+[00:18:09.550 --> 00:18:10.150] RIKER: That's
+[00:18:13.480 --> 00:18:14.760] RIKER: the last thing I expected.
+[00:18:16.920 --> 00:18:17.080] PICARD: Sometimes, Number One,
+[00:18:19.640 --> 00:18:22.760] PICARD: you just have to bow to the absurd.
+[00:18:28.760 --> 00:18:32.600] DANILO: Captain, Captain, sir. How did the ship sense the fire?
+[00:18:34.840 --> 00:18:36.040] PICARD: The ship's computer
+[00:18:36.040 --> 00:18:36.440] DANILO: Computer?
+[00:18:36.840 --> 00:18:40.760] PICARD: The ship's computers sense a localised increase
+[00:18:40.920 --> 00:18:43.240] BRENNA: Men! Always talking when there's work to be done.
+[00:18:45.640 --> 00:18:48.760] BRENNA: And shouldn't you be flying this ship, or whatever it is you do?
+[00:18:48.760 --> 00:18:49.000] RIKER: Sir,
+[00:18:54.360 --> 00:18:57.560] RIKER: I think I'll stay and give her some help.
+[00:18:59.640 --> 00:18:59.800] RIKER: That
+[00:19:05.000 --> 00:19:07.640] RIKER: isn't necessary.
+[00:19:08.360 --> 00:19:09.240] RIKER: The ship will clean itself.
+[00:19:11.240 --> 00:19:13.480] BRENNA: Well, good for the bloody ship.
+[00:19:47.606 --> 00:19:51.446] BRENNA: Tell me, Commander Riker, where does a girl go to wash her feet on this ship?
+[00:19:56.246 --> 00:20:00.566] RIKER: As the First Officer, I feel it's my responsibility to show you all the amenities.
+[00:20:02.006 --> 00:20:04.006] WORF: She is
+[00:20:09.286 --> 00:20:10.726] WORF: very like a Klingon woman.
+[00:20:11.126 --> 00:20:11.606] DANILO: Ah, Captain,
+[00:20:11.846 --> 00:20:12.326] DANILO: there's
+[00:20:13.206 --> 00:20:17.286] DANILO: just one other thing. It slipped my mind in all the hustle and bustle.
+[00:20:17.366 --> 00:20:18.406] PICARD: The point, Mister Odell.
+[00:20:19.526 --> 00:20:23.526] DANILO: Well, in all your travels, have you heard anything from the other colony?
+[00:20:26.966 --> 00:20:27.766] PICARD: The other colony?
+[00:20:34.726 --> 00:20:35.846] LOG: Captain's log, supplemental.
+[00:20:36.406 --> 00:20:41.926] LOG: A review of stellar charts has revealed a Class M planet only half a light year from the Bringloid system.
+[00:20:42.566 --> 00:20:47.606] LOG: I am proceeding on the premise that it was the destination of the colony which possessed the more sophisticated equipment.
+[00:20:53.473 --> 00:20:55.153] BRENNA: William Riker, you're a mess.
+[00:20:56.753 --> 00:20:57.633] RIKER: You don't have to do that.
+[00:20:58.193 --> 00:20:59.553] BRENNA: And if I don't, who will?
+[00:21:00.513 --> 00:21:02.353] RIKER: I can see why your father wants to marry you off.
+[00:21:03.233 --> 00:21:03.473] BRENNA: Oh,
+[00:21:05.073 --> 00:21:05.953] BRENNA: and why is that?
+[00:21:06.273 --> 00:21:08.033] RIKER: So he can have a pipe and mug of beer in peace.
+[00:21:12.433 --> 00:21:18.033] BRENNA: You've shown me so many wonders on your great ship, but there's still one thing you haven't shown me.
+[00:21:18.433 --> 00:21:18.753] RIKER: What's that?
+[00:21:21.793 --> 00:21:23.473] BRENNA: I'm still waiting to wash my feet.
+[00:21:23.623 --> 00:21:24.223] RIKER: Right
+[00:21:25.153 --> 00:21:25.713] RIKER: behind that door.
+[00:21:29.313 --> 00:21:30.593] BRENNA: William, is something wrong?
+[00:21:31.313 --> 00:21:31.633] RIKER: What do you mean?
+[00:21:33.793 --> 00:21:35.233] BRENNA: Do you not like girls?
+[00:21:35.233 --> 00:21:35.233] RIKER: Of
+[00:21:40.433 --> 00:21:40.913] RIKER: course I do.
+[00:21:43.153 --> 00:21:46.513] RIKER: Oh, is there a technique to this foot washing?
+[00:21:48.433 --> 00:21:52.033] BRENNA: You generally start at the top and work your way down.
+[00:21:56.193 --> 00:21:57.073] RIKER: I think I can handle that.
+[00:21:57.073 --> 00:21:58.913] BRENNA: I
+[00:22:06.673 --> 00:22:07.633] BRENNA: was hoping you might.
+[00:22:28.339 --> 00:22:29.059] WORF: You sent for me?
+[00:22:29.619 --> 00:22:30.739] DANILO: Ah, yes, yes.
+[00:22:32.259 --> 00:22:43.139] DANILO: Now, we're brewing poteen, but we need to find a way to heat it without this bloody ship firing bloody lightning bolts at us.
+[00:22:43.619 --> 00:22:46.339] WORF: You can obtain spirituous liquours from the food dispensers.
+[00:22:46.739 --> 00:22:51.699] DANILO: Oh, no, no, no. It's not that synthehol bilge that O'Brien offered me, is it?
+[00:22:52.099 --> 00:22:55.219] WORF: No, if you wish, it can be real alcohol.
+[00:22:56.019 --> 00:22:56.339] DANILO: Good.
+[00:22:56.979 --> 00:22:59.139] WORF: With all of the deleterious effects intact.
+[00:22:59.779 --> 00:23:01.459] DANILO: As it should be.
+[00:23:01.459 --> 00:23:09.219] DANILO: You see, lad, every moment of pleasure in life has to be purchased by an equal moment of pain.
+[00:23:14.259 --> 00:23:14.739] DANILO: Whiskey.
+[00:23:26.579 --> 00:23:26.579] DANILO: Terrible.
+[00:23:27.859 --> 00:23:29.059] DANILO: It's got no bite.
+[00:23:31.939 --> 00:23:32.299] WORF: Chech'tluth.
+[00:23:32.299 --> 00:23:32.659] DANILO: Now
+[00:23:33.139 --> 00:23:33.139] DANILO: that's what I call a wee drop
+[00:23:33.139 --> 00:23:33.139] DANILO: of the creature.
+[00:23:52.065 --> 00:23:52.785] BRENNA: Father!
+[00:23:54.545 --> 00:23:57.985] DANILO: Remember what I said about the moment of pain? Well, tis about to begin.
+[00:23:58.135 --> 00:23:59.535] DANILO: Hello, my darling.
+[00:24:05.185 --> 00:24:06.385] BRENNA: Oh, my darling, is it?
+[00:24:07.025 --> 00:24:07.985] BRENNA: I might have known!
+[00:24:09.345 --> 00:24:11.905] BRENNA: Are you drunk yet, or can you talk with Doctor Pulaski about the children?
+[00:24:13.105 --> 00:24:13.825] DANILO: What about them?
+[00:24:14.865 --> 00:24:16.865] BRENNA: She wants to send them to school with the ship's children.
+[00:24:17.265 --> 00:24:19.265] DANILO: What do you think?
+[00:24:20.145 --> 00:24:21.265] BRENNA: I think it's a good idea.
+[00:24:23.585 --> 00:24:24.385] BRENNA: So go handle
+[00:24:26.385 --> 00:24:26.465] BRENNA: it!
+[00:24:28.945 --> 00:24:31.665] BRENNA: I'm sure there's something you can be doing with your time.
+[00:24:32.385 --> 00:24:34.225] BRENNA: And as for you.
+[00:24:35.745 --> 00:24:36.065] WORF: What?
+[00:24:37.185 --> 00:24:40.465] BRENNA: Why did you have to tell them that this magic wall can give them more than meat and potatoes?
+[00:24:40.705 --> 00:24:42.145] BRENNA: Now we'll never get a lick of work out of them.
+[00:24:42.385 --> 00:24:45.105] WORF: Madam, have you considered a career in security?
+[00:24:45.585 --> 00:24:47.825] BRENNA: If it's anything like babysitting, I'm an authority.
+[00:24:54.225 --> 00:24:55.425] LOG: Captain's log, supplemental.
+[00:24:56.065 --> 00:25:00.305] LOG: We are approaching the class M planet where we hope to find the other colonists.
+[00:25:02.065 --> 00:25:03.265] WORF: Signal from the planet, Captain.
+[00:25:05.025 --> 00:25:05.505] PICARD: On screen.
+[00:25:08.545 --> 00:25:14.065] PICARD: This is Jean-Luc Picard of the USS Enterprise, representing the United Federation of Planets.
+[00:25:14.145 --> 00:25:15.105] GRANGER: This is wonderful.
+[00:25:15.745 --> 00:25:16.465] GRANGER: Welcome, Captain.
+[00:25:17.265 --> 00:25:19.585] GRANGER: I'm Wilson Granger, Prime Minister of Mariposa.
+[00:25:20.453 --> 00:25:22.933] DATA: No doubt a descendant of Captain Walter Granger.
+[00:25:23.653 --> 00:25:24.853] GRANGER: Not quite a descendant.
+[00:25:25.893 --> 00:25:29.653] GRANGER: We feared Earth had suffered some catastrophe when no one came back to check on us.
+[00:25:30.213 --> 00:25:33.653] PICARD: I'm afraid the truth is, you got lost in the bureaucracy.
+[00:25:34.693 --> 00:25:39.893] PICARD: But despite the lateness of our arrival, we're here now and we're eager to renew ties.
+[00:25:40.293 --> 00:25:41.653] GRANGER: Splendid.
+[00:25:41.653 --> 00:25:45.893] GRANGER: Please, come down, and allow us to extend our hospitality to you and your crew.
+[00:25:46.853 --> 00:25:47.173] PICARD: Thank you.
+[00:25:48.213 --> 00:25:49.173] PICARD: Form an away team, Number One.
+[00:25:50.533 --> 00:25:51.573] TROI: I would urge caution.
+[00:25:51.973 --> 00:25:52.293] RIKER: Caution?
+[00:25:52.533 --> 00:25:52.933] RIKER: What's wrong?
+[00:25:53.493 --> 00:25:54.613] TROI: He's hiding something.
+[00:25:55.093 --> 00:25:56.533] RIKER: We'll check it out. Mister Worf.
+[00:25:57.013 --> 00:26:00.053] RIKER: Doctor Pulaski, join us in Transporter room three for an away detail.
+[00:26:09.173 --> 00:26:10.373] GRANGER 2: Welcome to Mariposa.
+[00:26:11.413 --> 00:26:13.573] GRANGER 2: I'm Victor Granger, Minister of Health.
+[00:26:14.293 --> 00:26:17.093] RIKER: Commander William Riker, Doctor Pulaski, Lieutenant Worf.
+[00:26:17.973 --> 00:26:18.453] GRANGER 2: A pleasure.
+[00:26:19.093 --> 00:26:20.453] GRANGER 2: I'll escort you to the Prime Minister.
+[00:26:20.613 --> 00:26:21.173] GRANGER 2: This way please.
+[00:26:22.453 --> 00:26:23.093] RIKER: Twin brothers?
+[00:26:24.693 --> 00:26:26.533] GRANGER 2: Your arrival really is serendipitous.
+[00:26:26.533 --> 00:26:27.173] PULASKI: Oh, how so?
+[00:26:28.373 --> 00:26:31.573] GRANGER 2: Well, perhaps I'll let the Prime Minister to explain that.
+[00:26:35.573 --> 00:26:35.973] RIKER: Triplets?
+[00:26:39.973 --> 00:26:42.053] RIKER: Worf, there is something damn odd down
+[00:26:43.973 --> 00:26:45.813] RIKER: here.
+[00:26:50.453 --> 00:26:51.173] WORF: Quadruplets.
+[00:26:53.544 --> 00:26:56.264] GRANGER 2: Doctor, is your title scientific or medical?
+[00:26:56.504 --> 00:26:56.744] PULASKI: Medical.
+[00:26:57.384 --> 00:26:58.184] GRANGER 2: Ah, excellent.
+[00:26:58.584 --> 00:27:00.584] PULASKI: Is there some medical problem we should know about?
+[00:27:01.784 --> 00:27:04.737] GRANGER 2: I think it best if the, er
+[00:27:04.737 --> 00:27:06.424] PULASKI: Prime minister explains that.
+[00:27:06.424 --> 00:27:07.464] PULASKI: Somehow I thought you might.
+[00:27:07.624 --> 00:27:08.504] GRANGER 2: Yes. Excuse me.
+[00:27:09.544 --> 00:27:10.024] GRANGER 2: Gentlemen?
+[00:27:11.944 --> 00:27:12.824] GRANGER 2: Please, follow me.
+[00:27:18.264 --> 00:27:18.584] GRANGER 2: This way please.
+[00:27:20.824 --> 00:27:21.064] GRANGER 2: Doctor.
+[00:27:30.584 --> 00:27:31.784] GRANGER: Welcome to Mariposa.
+[00:27:37.784 --> 00:27:39.304] PULASKI: Doctor Katherine Pulaski.
+[00:27:40.344 --> 00:27:42.504] GRANGER: This is my Chief of Staff, Elizabeth Vallis.
+[00:27:42.904 --> 00:27:46.984] PULASKI: Tell me, is your entire population made up of clones, Prime Minister?
+[00:27:50.664 --> 00:27:51.144] WORF: Clones?
+[00:27:53.144 --> 00:27:53.864] RIKER: Clones?
+[00:27:53.864 --> 00:27:53.864] GRANGER: Clones.
+[00:28:01.384 --> 00:28:02.664] LOG: Captain's log, supplemental.
+[00:28:03.064 --> 00:28:08.504] LOG: Prime Minister Granger has requested an urgent meeting to discuss the future of the Mariposan colony.
+[00:28:09.144 --> 00:28:10.744] LOG: I've invited him to the Enterprise.
+[00:28:11.384 --> 00:28:12.584] GRANGER: Captain, we need your help.
+[00:28:14.584 --> 00:28:19.544] GRANGER: Three hundred years ago during our landing on Mariposa, the skin of our ship was breached.
+[00:28:20.650 --> 00:28:22.570] GRANGER: Only five of the colonists survived.
+[00:28:23.850 --> 00:28:29.986] GRANGER: The progenitors weren't willing to just give up and die, and they were scientists
+[00:28:29.986 --> 00:28:33.930] PICARD: So, they used that expertise and turned to cloning.
+[00:28:34.250 --> 00:28:34.730] GRANGER: Yes.
+[00:28:36.330 --> 00:28:37.290] GRANGER: We had no other option.
+[00:28:38.090 --> 00:28:42.570] GRANGER: Two women and three men represented an insufficient gene pool from which to build a society.
+[00:28:43.930 --> 00:28:46.330] PULASKI: How did you suppress the natural sexual drive?
+[00:28:46.810 --> 00:28:47.290] PULASKI: Drugs?
+[00:28:47.850 --> 00:28:48.730] PULASKI: Punitive laws?
+[00:28:49.370 --> 00:28:51.930] GRANGER: In the beginning, a little bit of each.
+[00:28:52.570 --> 00:28:59.370] GRANGER: Now, after three hundred years, the entire concept of sexual reproduction is a little repugnant to us.
+[00:29:01.290 --> 00:29:04.010] PULASKI: How did you overcome the problem of replicative fading?
+[00:29:05.370 --> 00:29:05.850] GRANGER: We haven't.
+[00:29:07.690 --> 00:29:08.810] PULASKI: You have got a problem.
+[00:29:09.850 --> 00:29:12.010] RIKER: Wait. I don't understand replicative fading.
+[00:29:13.610 --> 00:29:16.170] PULASKI: Each time you clone, you're making a copy of a copy.
+[00:29:16.490 --> 00:29:20.090] PULASKI: Subtle errors creep into the chromosomes, and eventually you end up with a non-viable clone.
+[00:29:21.050 --> 00:29:21.610] PICARD: How can we help you?
+[00:29:22.570 --> 00:29:24.650] GRANGER: We need an infusion of fresh DNA.
+[00:29:25.210 --> 00:29:28.570] GRANGER: I was hoping that you would be willing to share some tissue samples.
+[00:29:32.090 --> 00:29:33.130] RIKER: You want to clone us?
+[00:29:34.890 --> 00:29:35.290] GRANGER: Yes.
+[00:29:36.730 --> 00:29:37.450] RIKER: No way, not me.
+[00:29:38.810 --> 00:29:40.330] GRANGER: How can you possibly be harmed?
+[00:29:40.650 --> 00:29:42.010] RIKER: It's not a question of harm.
+[00:29:43.370 --> 00:29:47.130] RIKER: One William Riker is unique, perhaps even special.
+[00:29:47.530 --> 00:29:51.450] RIKER: But a hundred of him, a thousand of him diminishes me in ways I can't even imagine.
+[00:29:52.220 --> 00:29:54.060] GRANGER: You would be preserving yourself.
+[00:29:54.860 --> 00:29:56.700] RIKER: Human beings have other ways of doing that.
+[00:29:57.420 --> 00:29:58.380] RIKER: We have children.
+[00:30:09.900 --> 00:30:14.060] PICARD: I think you will find that attitude prevalent among all the Enterprise people.
+[00:30:16.300 --> 00:30:16.940] GRANGER: I see.
+[00:30:19.660 --> 00:30:19.900] GRANGER: Well,
+[00:30:21.740 --> 00:30:28.140] GRANGER: if you are not willing to share your DNA, will you at least send some people to repair our malfunctioning equipment?
+[00:30:28.540 --> 00:30:29.740] PICARD: Yes, of course. Number One,
+[00:30:30.140 --> 00:30:31.340] PICARD: put a technical team together.
+[00:30:31.580 --> 00:30:32.940] PICARD: Let's get these repairs underway.
+[00:30:33.180 --> 00:30:33.420] RIKER: Yes, sir.
+[00:30:35.820 --> 00:30:39.660] RIKER: Lieutenant La Forge. Prepare a technical support away team.
+[00:30:39.660 --> 00:30:40.860] RIKER: Meet me in transporter room three.
+[00:30:40.940 --> 00:30:44.220] PULASKI: Captain, with your permission, I would like to return to the planet.
+[00:30:44.380 --> 00:30:47.180] PULASKI: It could be my last opportunity to study replicative fading.
+[00:30:47.580 --> 00:30:49.740] PULASKI: With your permission, of course, Mister Prime Minister.
+[00:30:50.620 --> 00:30:51.500] GRANGER: You'd be most welcome.
+[00:30:52.300 --> 00:30:54.460] GRANGER: Perhaps you will find a solution that we have overlooked.
+[00:30:55.580 --> 00:30:58.380] PULASKI: Well, I appreciate the compliment, but I don't think that's very likely.
+[00:30:59.500 --> 00:31:04.300] PULASKI: And repairing that equipment will certainly not solve your problems.
+[00:31:05.500 --> 00:31:08.540] GRANGER: What other solution do we have? Doctor,
+[00:31:08.540 --> 00:31:11.500] GRANGER: remember, there are only five of us.
+[00:31:20.572 --> 00:31:21.692] LOG: Captain's log, supplemental.
+[00:31:22.092 --> 00:31:27.052] LOG: Commander Riker and Doctor Pulaski have returned to Mariposa with a team of Enterprise technicians.
+[00:31:30.412 --> 00:31:33.452] RIKER: The repairs are almost complete.
+[00:31:34.012 --> 00:31:35.212] RIKER: I wish there was something more we could do.
+[00:31:35.852 --> 00:31:37.825] GRANGER: Are you sure you won't reconsider?
+[00:31:37.825 --> 00:31:38.812] PULASKI: About the cloning?
+[00:31:38.972 --> 00:31:39.212] GRANGER: Yes.
+[00:31:39.212 --> 00:31:40.172] RIKER: Out of the question.
+[00:31:56.572 --> 00:31:57.212] LAFORGE: Excuse me, sir,
+[00:31:57.212 --> 00:32:00.172] LAFORGE: I was looking for Commander Riker.
+[00:32:01.052 --> 00:32:02.012] GRANGER: I'm afraid I haven't seen him.
+[00:32:02.812 --> 00:32:03.452] LAFORGE: Doctor Pulaski?
+[00:32:04.652 --> 00:32:05.532] GRANGER: Sorry, I can't help you.
+[00:32:07.292 --> 00:32:08.652] LAFORGE: Well, I guess I'll just have to hunt for them.
+[00:32:09.292 --> 00:32:10.012] LAFORGE: Sorry to disturb you.
+[00:32:43.612 --> 00:32:45.612] LAFORGE: Hey.
+[00:32:46.732 --> 00:32:48.172] LAFORGE: So what happened to you two down on Mariposa?
+[00:32:48.172 --> 00:32:48.812] LAFORGE: Is everything all right?
+[00:32:50.765 --> 00:32:51.805] RIKER: Is there any reason why it shouldn't be?
+[00:32:51.965 --> 00:32:52.205] LAFORGE: Yeah.
+[00:32:52.685 --> 00:32:55.005] LAFORGE: Every time I asked where you were, some clone lied to me.
+[00:32:55.085 --> 00:32:56.105] RIKER: Lied to you?
+[00:32:56.105 --> 00:32:56.445] LAFORGE: Commander,
+[00:32:56.445 --> 00:32:58.605] LAFORGE: with this I can see better than your average person.
+[00:32:59.085 --> 00:33:06.365] LAFORGE: Now when someone lies there are certain physical manifestations. Variations in blush response, pupil dilation, pulse, breath rate.
+[00:33:06.605 --> 00:33:08.845] LAFORGE: Doesn't always work with aliens, but humans? Got'em nailed.
+[00:33:09.645 --> 00:33:11.085] PULASKI: The clones lied about our whereabouts?
+[00:33:11.965 --> 00:33:13.165] PULASKI: I don't remember anything happening.
+[00:33:14.045 --> 00:33:17.645] PULASKI: I was working in their medical facility and got a call to report to Granger's office.
+[00:33:18.125 --> 00:33:19.405] PULASKI: I ran into Will on the way
+[00:33:19.485 --> 00:33:19.885] LAFORGE: Now wait a minute.
+[00:33:20.685 --> 00:33:22.525] LAFORGE: Granger said he hadn't seen either one of you.
+[00:33:23.485 --> 00:33:24.605] LAFORGE: Did you make it to his office?
+[00:33:25.805 --> 00:33:26.205] RIKER: I think,
+[00:33:28.845 --> 00:33:29.485] RIKER: I don't remember.
+[00:33:39.485 --> 00:33:40.445] LAFORGE: So what's the prognosis, Doc?
+[00:33:41.325 --> 00:33:44.765] PULASKI: Geordi, you'll be pleased to know that you're not missing any epithelial cells.
+[00:33:44.925 --> 00:33:45.165] LAFORGE: Great.
+[00:33:45.725 --> 00:33:46.765] PULASKI: Will and I, however, are.
+[00:33:48.365 --> 00:33:48.605] RIKER: Meaning?
+[00:33:49.485 --> 00:33:55.565] PULASKI: Although you can clone from any cell in the body, the cells lining the stomach are the best choice because they're relatively undifferentiated.
+[00:33:58.365 --> 00:33:58.845] LAFORGE: Where are you going?
+[00:33:59.405 --> 00:34:00.285] RIKER: To their cloning lab.
+[00:35:07.926 --> 00:35:08.646] GRANGER: Stop!
+[00:35:15.126 --> 00:35:15.846] GRANGER: Murderers!
+[00:35:16.166 --> 00:35:17.606] RIKER: Like hell! You're a damn thief!
+[00:35:17.686 --> 00:35:18.886] PULASKI: Gentlemen, please.
+[00:35:19.206 --> 00:35:20.006] GRANGER: What else could we do?
+[00:35:21.126 --> 00:35:23.046] GRANGER: We asked for your help and you refused us.
+[00:35:23.686 --> 00:35:24.326] GRANGER: We're desperate.
+[00:35:24.726 --> 00:35:25.206] GRANGER: Desperate!
+[00:35:25.526 --> 00:35:27.766] RIKER: And that gave you the right to assault us, to rob us.
+[00:35:27.766 --> 00:35:28.886] GRANGER: We have the right to survive!
+[00:35:44.726 --> 00:35:47.046] PICARD: Doctor, how desperate is the colony's situation?
+[00:35:47.606 --> 00:35:50.486] PULASKI: They've got two or three generations, then the fading will be terminal.
+[00:35:51.126 --> 00:35:52.806] PULASKI: They're among the walking dead now.
+[00:35:52.886 --> 00:35:53.846] PULASKI: They just haven't been buried.
+[00:35:54.566 --> 00:35:55.686] RIKER: I want the cloning equipment
+[00:35:55.618 --> 00:35:56.258] RIKER: inspected.
+[00:35:56.738 --> 00:35:58.498] RIKER: Who knows how many tissue samples were stolen.
+[00:35:58.578 --> 00:36:01.538] RIKER: We certainly have a right to exercise control over our own bodies.
+[00:36:02.258 --> 00:36:03.458] PULASKI: You'll get no argument from me.
+[00:36:04.258 --> 00:36:10.738] TROI: I know the Mariposan culture seems alien, even frightening, but really, we do have much in common.
+[00:36:11.218 --> 00:36:13.378] TROI: They're human beings fighting for survival.
+[00:36:13.778 --> 00:36:15.058] TROI: Would we do any less?
+[00:36:15.458 --> 00:36:17.778] PICARD: Are you saying we should give them the DNA samples they require?
+[00:36:18.418 --> 00:36:19.858] PULASKI: That's just postponing the inevitable.
+[00:36:20.738 --> 00:36:26.338] PULASKI: If they get an infusion of fresh DNA, in fifteen generations they'll just go back to the same problems.
+[00:36:27.618 --> 00:36:28.658] PULASKI: Cloning isn't the answer.
+[00:36:29.378 --> 00:36:30.978] PULASKI: What they need is breeding stock.
+[00:36:37.138 --> 00:36:37.778] PICARD: The Bringloidi.
+[00:36:38.418 --> 00:36:44.978] TROI: Yes. They have the energy and drive, and the clones possess the emotional maturity and the technological knowledge.
+[00:36:45.458 --> 00:36:46.338] PICARD: They started out together.
+[00:36:46.578 --> 00:36:50.578] PICARD: It seems only fitting they should end up together.
+[00:36:51.138 --> 00:36:52.978] PULASKI: It's a match made in heaven.
+[00:36:53.058 --> 00:36:55.298] RIKER: Unfortunately it will have to be a shotgun wedding.
+[00:37:12.898 --> 00:37:13.938] GRANGER: I'm sorry, Captain,
+[00:37:13.938 --> 00:37:14.818] GRANGER: it's out of the question.
+[00:37:15.058 --> 00:37:16.898] GRANGER: You're trying to dump your problems on us.
+[00:37:16.898 --> 00:37:18.018] GRANGER: We have problems of our own.
+[00:37:18.658 --> 00:37:19.698] PICARD: Don't you understand?
+[00:37:19.938 --> 00:37:21.458] PICARD: The Bringloidi can help you.
+[00:37:22.018 --> 00:37:22.578] GRANGER: Look at him.
+[00:37:23.132 --> 00:37:26.252] GRANGER: How could we ever integrate that into our society?
+[00:37:26.492 --> 00:37:27.932] DANILO: You're no prize yourself.
+[00:37:29.212 --> 00:37:31.852] GRANGER: Primitive, hostile, disruptive.
+[00:37:32.332 --> 00:37:34.652] GRANGER: It would require enormous effort to even educate them.
+[00:37:35.052 --> 00:37:37.612] DANILO: Oh, forget it, Captain Picard.
+[00:37:37.612 --> 00:37:42.492] DANILO: I'm not going to come in here with my hat in my hand begging charity from this blatherskite.
+[00:37:42.492 --> 00:37:42.972] PICARD: Now stop!
+[00:37:44.092 --> 00:37:47.212] PICARD: I will not allow posturing and bigotry to destroy this meeting.
+[00:37:47.372 --> 00:37:48.412] PICARD: Now please, sit down.
+[00:37:54.892 --> 00:37:55.212] PICARD: Now,
+[00:37:57.692 --> 00:38:04.812] PICARD: Commander Riker has asked that your laboratories be inspected for stolen tissue samples, and I understand his concern.
+[00:38:05.292 --> 00:38:08.412] PICARD: We may have to transport all your equipment here, to the Enterprise.
+[00:38:09.932 --> 00:38:10.412] GRANGER: I see.
+[00:38:11.212 --> 00:38:13.532] GRANGER: When reason fails, you'll resort to blackmail.
+[00:38:14.732 --> 00:38:15.132] PICARD: Fine.
+[00:38:16.012 --> 00:38:17.052] PICARD: Destroy yourselves.
+[00:38:18.252 --> 00:38:19.292] PULASKI: It's not so bad, Captain.
+[00:38:19.292 --> 00:38:24.492] PULASKI: In fifty years we'll have a new class M planet, complete with cities, and ready for colonisation.
+[00:38:28.172 --> 00:38:31.932] PICARD: You see, the end is closer than you like to think.
+[00:38:35.452 --> 00:38:37.852] GRANGER: I don't know.
+[00:38:37.932 --> 00:38:39.532] GRANGER: There are so many difficulties.
+[00:38:41.132 --> 00:38:44.652] DANILO: Look, man. We are decent, hard working people.
+[00:38:45.452 --> 00:38:47.532] DANILO: We're willing to learn.
+[00:38:49.372 --> 00:38:50.732] GRANGER: They're so different.
+[00:38:51.786 --> 00:38:54.506] PICARD: It is the differences that have made us strong.
+[00:38:56.186 --> 00:38:59.866] GRANGER: For three hundred years, we have denied the carnal side of our nature.
+[00:39:00.266 --> 00:39:01.866] GRANGER: How can we learn to put that aside?
+[00:39:02.986 --> 00:39:10.186] DANILO: Well, you put a young couple together and you let nature take its course.
+[00:39:11.306 --> 00:39:14.346] PULASKI: Now if this is going to work, you're going to have to alter your society, too.
+[00:39:14.986 --> 00:39:18.346] PULASKI: Monogamous marriage will not be possible for several generations.
+[00:39:19.546 --> 00:39:22.026] DANILO: I don't quite understand.
+[00:39:22.986 --> 00:39:25.946] PULASKI: Thirty couples are enough to create a viable genetic base.
+[00:39:26.426 --> 00:39:29.146] PULASKI: But the broader the base the healthier and the safer the society.
+[00:39:29.706 --> 00:39:36.666] PULASKI: So it will be best if each woman, Bringloidi and Mariposan, had at least three children by three different men.
+[00:39:41.546 --> 00:39:42.986] DANILO: I think I could handle that,
+[00:39:43.066 --> 00:39:43.226] DANILO: yes.
+[00:39:47.546 --> 00:39:49.066] GRANGER: Oh, God, it's so
+[00:39:50.586 --> 00:39:51.946] PICARD: Frightening?
+[00:39:51.946 --> 00:39:53.306] GRANGER: Repugnant.
+[00:39:54.666 --> 00:39:56.986] DANILO: So, it's a done deal?
+[00:39:58.026 --> 00:39:58.106] DANILO: And
+[00:40:00.186 --> 00:40:01.386] DANILO: here's my hand on it.
+[00:40:01.786 --> 00:40:01.786] DANILO: Right,
+[00:40:08.186 --> 00:40:11.866] DANILO: now, let's go and stake out my three women.
+[00:40:12.986 --> 00:40:14.346] DANILO: Send in the clones.
+[00:40:15.306 --> 00:40:19.626] PICARD: I must be out of my mind.
+[00:40:21.146 --> 00:40:23.306] PULASKI: Starfleet will probably agree with you.
+[00:40:28.118 --> 00:40:29.078] DANILO: Excuse me, sir.
+[00:40:29.078 --> 00:40:30.278] DANILO: Captain. Thank you. Brenna.
+[00:40:30.838 --> 00:40:33.558] DANILO: Brenna, a word.
+[00:41:15.638 --> 00:41:16.758] BRENNA: Isn't that just like a man!
+[00:41:17.478 --> 00:41:20.598] BRENNA: You make these grandiose decisions, but you never stop to consider the poor women.
+[00:41:20.838 --> 00:41:21.512] PICARD: Miss Odell, I
+[00:41:21.512 --> 00:41:25.558] BRENNA: You men draw a mug, and solve all the problems of the world while the beer goes down,
+[00:41:25.638 --> 00:41:32.038] BRENNA: but, when it comes to the practical matters, it always falls to the women to make your grand dreams come true.
+[00:41:32.518 --> 00:41:35.398] PICARD: Miss Odell, you were the one who wanted a new home.
+[00:41:36.198 --> 00:41:37.638] BRENNA: But I don't know if I want to be Eve.
+[00:41:41.158 --> 00:41:41.878] PICARD: It's your choice.
+[00:41:43.078 --> 00:41:44.598] PICARD: If you wish, you can stay on the Enterprise.
+[00:41:44.598 --> 00:41:46.278] PICARD: We will drop you at a starbase,
+[00:41:47.478 --> 00:41:48.678] PICARD: then you can go where you wish.
+[00:41:49.878 --> 00:41:50.298] BRENNA: Leave my da?
+[00:41:50.298 --> 00:41:50.438] PICARD: If
+[00:41:55.238 --> 00:41:56.278] PICARD: this is going to work,
+[00:41:57.637 --> 00:42:02.277] PICARD: these people will need your strength, your guidance.
+[00:42:02.427 --> 00:42:03.427] BRENNA: Oh, damn.
+[00:42:09.957 --> 00:42:10.677] BRENNA: What does he do again?
+[00:42:11.797 --> 00:42:12.437] PICARD: Prime Minister.
+[00:42:13.637 --> 00:42:14.117] BRENNA: Sounds important.
+[00:42:14.677 --> 00:42:15.237] PICARD: Oh, it is.
+[00:42:16.677 --> 00:42:18.997] BRENNA: Sounds like he might have more than two coins to rub together.
+[00:42:21.637 --> 00:42:22.437] BRENNA: Three husbands?

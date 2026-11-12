@@ -1,0 +1,668 @@
+[00:00:02.640 --> 00:00:06.000] LOG: Captain's log, Stardate 42494.8.
+[00:00:06.480 --> 00:00:11.520] LOG: The Enterprise is bound for Star Station India to rendezvous with a Starfleet medical courier.
+[00:00:12.240 --> 00:00:14.720] LOG: We've been told only that our presence is imperative.
+[00:00:16.000 --> 00:00:21.280] LOG: Hopefully the mission will give me further opportunities to assess the performance of our new Chief Medical Officer.
+[00:00:22.880 --> 00:00:23.120] PICARD: Come.
+[00:00:27.600 --> 00:00:28.960] TROI: You wanted to see me, Captain?
+[00:00:29.680 --> 00:00:31.280] PICARD: Yes, Counsellor.
+[00:00:32.640 --> 00:00:32.800] PICARD: Come,
+[00:00:34.000 --> 00:00:34.400] PICARD: sit down.
+[00:00:37.760 --> 00:00:38.160] PICARD: Counsellor,
+[00:00:40.160 --> 00:00:42.720] PICARD: you've had the opportunity to observe Doctor
+[00:00:42.720 --> 00:00:44.400] PICARD: Pulaski for some time now.
+[00:00:45.040 --> 00:00:48.160] PICARD: How would you evaluate her as a Chief Medical Officer?
+[00:00:48.720 --> 00:00:51.040] TROI: I've never met a more dedicated physician.
+[00:00:52.000 --> 00:00:55.200] TROI: I would say she has a passion for her work.
+[00:00:56.560 --> 00:00:57.360] PICARD: Yes, of course.
+[00:00:59.440 --> 00:01:00.160] PICARD: I entirely agree.
+[00:01:02.400 --> 00:01:06.640] PICARD: Is it possible that such consuming dedication could interfere with her judgement?
+[00:01:08.400 --> 00:01:11.440] TROI: I feel your concern, Captain, but I don't share it.
+[00:01:12.480 --> 00:01:17.360] TROI: Perhaps because I've had the opportunity to spend more time with her and get to know her better.
+[00:01:19.280 --> 00:01:20.000] PICARD: Yes, perhaps you're right.
+[00:01:21.120 --> 00:01:25.360] DATA: Captain, we are picking up a faint distress signal on an open subspace frequency.
+[00:01:26.000 --> 00:01:27.840] DATA: It appears to be coming from an adjacent sector.
+[00:01:29.040 --> 00:01:30.080] PICARD: Respond on the same frequency.
+[00:01:32.800 --> 00:01:32.880] PICARD: Are
+[00:01:37.200 --> 00:01:38.321] PICARD: you locked on to that transmission?
+[00:01:38.480 --> 00:01:38.800] DATA: Aye, sir.
+[00:01:39.601 --> 00:01:43.280] DATA: A voice only transmission from the USS Lantree, a Federation supply ship.
+[00:01:44.321 --> 00:01:47.520] PICARD: USS Lantree, this is Picard of the Enterprise.
+[00:01:48.000 --> 00:01:49.200] PICARD: What is the nature of your emergency?
+[00:01:49.840 --> 00:01:52.560] VOICE: Can't hold out any more. People dying.
+[00:01:52.710 --> 00:01:53.710] VOICE: Too many
+[00:01:54.160 --> 00:01:54.560] VOICE: to help.
+[00:01:56.000 --> 00:01:58.720] DATA: We are still receiving their signal, Captain, but there is no message.
+[00:02:00.640 --> 00:02:01.041] PICARD: Lantree.
+[00:02:03.120 --> 00:02:03.920] PICARD: Are you under attack?
+[00:02:08.080 --> 00:02:09.841] PICARD: Lantree?
+[00:02:31.440 --> 00:02:34.160] PICARD: Space, the final frontier.
+[00:02:36.000 --> 00:02:38.640] PICARD: These are the voyagers of the starship Enterprise.
+[00:02:40.000 --> 00:02:43.760] PICARD: Its continuing mission to explore strange new worlds, to
+[00:02:45.600 --> 00:02:48.320] PICARD: seek out new life and new civilizations,
+[00:02:49.920 --> 00:02:52.640] PICARD: to boldly go where no one has gone before.
+[00:03:19.000 --> 00:03:29.000] [music]
+[00:03:41.000 --> 00:03:50.000] [music]
+[00:03:53.974 --> 00:03:57.335] PICARD: USS Lantree, this is the Enterprise.
+[00:04:00.134 --> 00:04:00.854] PICARD: Come in, Lantree.
+[00:04:05.175 --> 00:04:06.215] PICARD: Replay that last transmission.
+[00:04:07.735 --> 00:04:08.468] VOICE: Can't hold out any more. People dying. Too many to help.
+[00:04:08.468 --> 00:04:08.934] RIKER: Have we got a fix on her?
+[00:04:10.454 --> 00:04:12.454] DATA: Two point
+[00:04:15.014 --> 00:04:15.014] DATA: two
+[00:04:17.574 --> 00:04:21.095] DATA: milli-parsecs, bearing three zero at one four five degrees.
+[00:04:21.894 --> 00:04:22.215] PICARD: Number One?
+[00:04:22.934 --> 00:04:23.574] RIKER: We'd better take a look.
+[00:04:24.614 --> 00:04:25.334] RIKER: What kind of vessel is she?
+[00:04:26.134 --> 00:04:27.894] DATA: The Lantree is a Class Six Federation
+[00:04:27.994 --> 00:04:35.695] DATA: supply ship assigned to Gamma seven sector, Captain L.I. Telaka commanding. Normal complement, twenty six officers and crew.
+[00:04:35.695 --> 00:04:36.123] RIKER: Armed?
+[00:04:36.123 --> 00:04:37.834] DATA: Class three defensive only.
+[00:04:38.634 --> 00:04:39.274] RIKER: Is she still underway?
+[00:04:39.514 --> 00:04:39.834] DATA: Aye, sir.
+[00:04:41.354 --> 00:04:42.714] PICARD: Adjust course to intercept. Warp seven.
+[00:04:43.834 --> 00:04:45.994] WESLEY: Adjusting course to intercept. Warp seven, sir.
+[00:04:55.754 --> 00:04:57.114] LAFORGE: Engineering, transfer to Bridge.
+[00:04:59.674 --> 00:05:01.034] WESLEY: We are closing on the Lantree, Captain.
+[00:05:01.434 --> 00:05:02.154] PICARD: Take us out of warp.
+[00:05:03.514 --> 00:05:05.514] PICARD: Establish parallel course. Match speed.
+[00:05:05.914 --> 00:05:06.234] WESLEY: Yes, sir.
+[00:05:14.314 --> 00:05:15.034] PICARD: Hailing frequencies.
+[00:05:16.554 --> 00:05:16.794] WORF: Open.
+[00:05:17.674 --> 00:05:18.874] PICARD: Lantree, this is the Enterprise.
+[00:05:23.834 --> 00:05:26.314] PICARD: Captain Telaka, this is Picard of the Enterprise.
+[00:05:26.474 --> 00:05:27.034] PICARD: Do you read me?
+[00:05:30.154 --> 00:05:31.034] DATA: No life signs, Captain.
+[00:05:32.554 --> 00:05:32.794] PICARD: Counsellor?
+[00:05:34.074 --> 00:05:34.714] TROI: Nothing, Captain.
+[00:05:35.994 --> 00:05:37.034] RIKER: What else have we got in the neighbourhood?
+[00:05:38.794 --> 00:05:41.674] WESLEY: No other vessels of any kind within two parsecs.
+[00:05:42.314 --> 00:05:43.114] WORF: No battle damage.
+[00:05:43.914 --> 00:05:45.434] DATA: All systems seem functional, Captain.
+[00:05:46.554 --> 00:05:47.674] DATA: Everything is in perfect order.
+[00:05:49.274 --> 00:05:50.474] WORF: We have to board her, Captain.
+[00:05:51.594 --> 00:05:52.554] PICARD: Possibly, Mister Worf.
+[00:05:53.391 --> 00:05:53.791] PICARD: Number One?
+[00:05:54.511 --> 00:05:57.951] RIKER: If we gain control of her systems remotely, we could activate the viewscreen.
+[00:05:58.431 --> 00:05:59.711] RIKER: That way we could at least look at the Bridge.
+[00:06:00.911 --> 00:06:01.151] PICARD: Agreed.
+[00:06:09.471 --> 00:06:09.471] PICARD: Computer,
+[00:06:09.791 --> 00:06:09.951] PICARD: security override
+[00:06:11.791 --> 00:06:12.111] PICARD: request.
+[00:06:12.271 --> 00:06:13.071] COMPUTER: Identify.
+[00:06:13.311 --> 00:06:15.551] PICARD: Picard, Jean-Luc, Captain, USS Enterprise.
+[00:06:16.751 --> 00:06:20.991] PICARD: Request control access Starfleet ship USS Lantree,
+[00:06:21.231 --> 00:06:22.511] PICARD: Isao Telaka commanding.
+[00:06:22.751 --> 00:06:23.871] COMPUTER: Enter access code.
+[00:06:24.191 --> 00:06:26.431] PICARD: Omicron omicron alpha yellow daystar two seven.
+[00:06:26.671 --> 00:06:27.071] PICARD: Enable.
+[00:06:31.391 --> 00:06:33.951] DATA: I have verified receipt of the access codes for the Lantree, Captain.
+[00:06:34.431 --> 00:06:36.271] PICARD: Grand. Commence operations.
+[00:06:36.271 --> 00:06:37.871] RIKER: Our first move will be shut down the engines.
+[00:06:37.951 --> 00:06:38.751] LAFORGE: Standing by, Commander.
+[00:06:39.551 --> 00:06:43.711] DATA: The Lantree computer reports access codes received and accepted, sir.
+[00:06:45.471 --> 00:06:46.591] PULASKI: Sickbay on alert, Captain.
+[00:06:46.831 --> 00:06:47.711] LAFORGE: Interlock is engaged.
+[00:06:47.711 --> 00:06:49.471] LAFORGE: The Lantree is responding, sir.
+[00:06:50.351 --> 00:06:51.951] DATA: We have override control of her Bridge, Captain.
+[00:06:51.951 --> 00:06:52.911] DATA: All systems answering.
+[00:06:53.231 --> 00:06:53.711] PICARD: All right,
+[00:06:54.111 --> 00:06:54.831] PICARD: let's have a look.
+[00:06:55.631 --> 00:06:57.951] LAFORGE: Lantree Bridge monitor engaging.
+[00:06:58.101 --> 00:06:58.701] PICARD: Are
+[00:06:59.631 --> 00:06:59.711] PICARD: you
+[00:07:02.431 --> 00:07:03.231] PICARD: reading anything, Doctor?
+[00:07:03.951 --> 00:07:05.311] PULASKI: Still no signs of life, Captain.
+[00:07:07.951 --> 00:07:08.431] PICARD: Magnify.
+[00:07:14.031 --> 00:07:17.391] PICARD: That must be Captain Telaka on the left.
+[00:07:18.111 --> 00:07:18.671] PICARD: Let's look at him.
+[00:07:25.085 --> 00:07:25.405] PICARD: Closer.
+[00:07:34.445 --> 00:07:35.005] PICARD: My God.
+[00:07:38.205 --> 00:07:40.829] RIKER: Looks like they had a battle with time.
+[00:07:40.829 --> 00:07:41.485] WORF: And lost.
+[00:07:43.885 --> 00:07:46.445] PULASKI: Heart, lungs, liver, everything.
+[00:07:47.565 --> 00:07:48.045] PICARD: What is it?
+[00:07:48.925 --> 00:07:50.125] PULASKI: They died of natural causes.
+[00:07:51.165 --> 00:07:52.125] PICARD: Natural causes?
+[00:07:53.085 --> 00:07:54.525] PICARD: What in nature could cause that?
+[00:07:57.165 --> 00:07:59.085] PULASKI: For the record, Captain, they died of old age.
+[00:08:12.605 --> 00:08:14.205] RIKER: We've downloaded the Lantree's log, sir.
+[00:08:15.325 --> 00:08:16.525] PICARD: Play back the Captain's last entry.
+[00:08:18.205 --> 00:08:21.725] TELAKA: Captain's log, stardate 42493.1.
+[00:08:22.685 --> 00:08:24.285] TELAKA: There are only six of us left.
+[00:08:24.525 --> 00:08:29.085] TELAKA: We've set course for the nearest Federation outpost, but I am afraid it's too late.
+[00:08:29.725 --> 00:08:32.125] TELAKA: All attempts to analyse what is happening have failed.
+[00:08:32.925 --> 00:08:42.205] TELAKA: In the last few hours I've watched friends grow old and die, and I'm seeing it happen to me. Captain L.I. Telaka, USS Lantree.
+[00:08:44.765 --> 00:08:45.245] RIKER: Captain Telaka was
+[00:08:47.805 --> 00:08:48.445] RIKER: my age, sir.
+[00:08:51.728 --> 00:08:52.048] PICARD: Doctor?
+[00:08:53.408 --> 00:08:59.088] PULASKI: Every member of the Lantree crew had a complete examination at the beginning of this duty cycle eight weeks ago.
+[00:08:59.328 --> 00:09:00.208] PULASKI: They were in perfect health.
+[00:09:01.088 --> 00:09:02.448] TROI: Nothing else since?
+[00:09:03.088 --> 00:09:08.688] PULASKI: A single medical entry noting that the First Officer was treated for Thelusian flu five days ago.
+[00:09:10.048 --> 00:09:10.768] PICARD: Thelusian flu?
+[00:09:11.408 --> 00:09:13.808] PULASKI: It's an exotic but harmless rhinal virus.
+[00:09:13.808 --> 00:09:14.688] PULASKI: It couldn't have caused this.
+[00:09:15.808 --> 00:09:22.688] RIKER: The last port of call of the Lantree was the Darwin Genetic Research Station on Gagarin Four three days ago.
+[00:09:23.568 --> 00:09:28.208] PULASKI: Whatever happened, it could be something that the Lantree crew already had or it could have come from Gagarin.
+[00:09:28.448 --> 00:09:32.288] PULASKI: At the very least, the people from Darwin Station deserve a warning.
+[00:09:32.768 --> 00:09:34.448] PULASKI: We may have to consider a quarantine.
+[00:09:36.688 --> 00:09:38.528] PICARD: You'll agree that we should quarantine the Lantree.
+[00:09:39.248 --> 00:09:39.808] PULASKI: Absolutely.
+[00:09:40.928 --> 00:09:43.648] RIKER: Lieutenant, initiate the quarantine transmitters on the Lantree and
+[00:09:44.048 --> 00:09:45.488] RIKER: activate her marker beacons.
+[00:09:45.568 --> 00:09:46.448] RIKER: We'll need to find her again.
+[00:09:47.408 --> 00:09:47.728] WORF: Aye, sir.
+[00:09:52.928 --> 00:09:54.928] WORF: Quarantine
+[00:10:01.728 --> 00:10:03.408] WORF: warnings active on all frequencies, Captain.
+[00:10:04.528 --> 00:10:05.488] LANTREE: Extreme caution.
+[00:10:05.568 --> 00:10:09.568] LANTREE: The USS Lantree is a quarantined vessel by order of Starfleet Command.
+[00:10:09.568 --> 00:10:10.208] LANTREE: Do not board.
+[00:10:10.208 --> 00:10:11.408] PICARD: Set course for Gagarin Four,
+[00:10:11.568 --> 00:10:12.528] PICARD: warp seven.
+[00:10:13.568 --> 00:10:14.448] WESLEY: Course and speed set, sir.
+[00:10:14.548 --> 00:10:14.828] PICARD: Engage.
+[00:10:14.828 --> 00:10:15.108] LOG: Captain's
+[00:10:28.628 --> 00:10:29.588] LOG: log, supplemental.
+[00:10:30.068 --> 00:10:32.788] LOG: We're en route to the Federation Research station on Gagarin Four.
+[00:10:33.668 --> 00:10:40.948] LOG: The mere thought of a possible connection between the Lantree tragedy and a genetic research facility fills me with profound apprehension.
+[00:10:45.348 --> 00:10:47.028] WESLEY: We're approaching Gagarin Four, Captain.
+[00:10:47.028 --> 00:10:48.068] PICARD: Standard orbit, Mister Crusher.
+[00:10:48.068 --> 00:10:48.468] WESLEY: Aye, sir.
+[00:10:49.268 --> 00:10:49.988] PICARD: Hailing frequencies.
+[00:10:50.868 --> 00:10:51.188] WORF: Open.
+[00:10:51.828 --> 00:10:52.708] PICARD: Darwin Station,
+[00:10:53.188 --> 00:10:56.068] PICARD: this is Captain Jean-Luc Picard of the USS Enterprise.
+[00:10:57.668 --> 00:10:59.428] KINGSLEY: Enterprise, this is Darwin Station.
+[00:10:59.428 --> 00:11:00.468] KINGSLEY: I'm Doctor Kingsley.
+[00:11:01.028 --> 00:11:02.948] KINGSLEY: We've just declared a medical emergency here.
+[00:11:03.028 --> 00:11:04.068] KINGSLEY: We need your help.
+[00:11:05.348 --> 00:11:08.868] PULASKI: Doctor Kingsley, what is the nature of your emergency?
+[00:11:09.588 --> 00:11:10.948] KINGSLEY: To whom am I speaking, please?
+[00:11:11.508 --> 00:11:13.348] PULASKI: I'm Doctor Pulaski, Chief Medical Officer.
+[00:11:14.308 --> 00:11:17.748] KINGSLEY: Katherine Pulaski, author of Linear Models of Viral Propagation?
+[00:11:18.708 --> 00:11:19.508] PULASKI: That was a long time ago.
+[00:11:19.988 --> 00:11:21.028] KINGSLEY: But still the standard.
+[00:11:21.428 --> 00:11:23.188] KINGSLEY: I can't think of anyone I'd rather be dealing with.
+[00:11:24.228 --> 00:11:28.628] KINGSLEY: Doctor, we're experiencing the rapid onset of geriatric phenomena.
+[00:11:29.028 --> 00:11:32.468] KINGSLEY: The first symptom is sudden, acute arthritic inflammation.
+[00:11:32.948 --> 00:11:35.268] KINGSLEY: Then the aging process accelerates.
+[00:11:35.988 --> 00:11:36.468] PULASKI: The Lantree.
+[00:11:37.428 --> 00:11:39.828] KINGSLEY: Doctor Pulaski, I celebrated my thirty
+[00:11:39.943 --> 00:11:41.223] KINGSLEY: fifth birthday a week ago.
+[00:11:44.663 --> 00:11:48.023] PULASKI: Doctor, we understand that Darwin Station is involved in genetic research.
+[00:11:48.023 --> 00:11:49.463] PULASKI: Is there a possible connection?
+[00:11:49.783 --> 00:11:51.863] KINGSLEY: Our research here is limited to human genetics.
+[00:11:51.943 --> 00:11:54.583] KINGSLEY: I can assure you we're not dealing with something that got away from us.
+[00:11:55.223 --> 00:11:58.663] KINGSLEY: We believe that we were infected by a supply ship that was here three days ago.
+[00:11:59.623 --> 00:12:03.143] PICARD: Doctor, if you're speaking of the Lantree, we encountered it a few hours ago.
+[00:12:04.343 --> 00:12:05.703] PICARD: All the crew members were dead.
+[00:12:07.063 --> 00:12:08.823] KINGSLEY: Which would seem to confirm our suspicion.
+[00:12:09.303 --> 00:12:11.303] KINGSLEY: Were you able to establish a pathology, Doctor?
+[00:12:11.783 --> 00:12:13.063] PICARD: Doctor, did you hear what I said?
+[00:12:13.063 --> 00:12:16.103] PICARD: All the twenty six men and women aboard that ship were dead.
+[00:12:16.663 --> 00:12:19.303] KINGSLEY: I heard you, Captain, and the prognosis is alarming,
+[00:12:19.463 --> 00:12:21.303] KINGSLEY: but my immediate concern is our children.
+[00:12:21.623 --> 00:12:22.103] PULASKI: Children?
+[00:12:22.583 --> 00:12:25.223] KINGSLEY: They represent years of advanced genetic research.
+[00:12:25.463 --> 00:12:27.383] KINGSLEY: You must evacuate them as soon as possible.
+[00:12:28.023 --> 00:12:33.463] PICARD: I'm sorry, but under the circumstances, until we know what's going on I'm imposing a full quarantine on Darwin Station.
+[00:12:33.943 --> 00:12:37.383] KINGSLEY: But the children have been in protective isolation since this was detected.
+[00:12:37.383 --> 00:12:38.663] KINGSLEY: They show no symptoms.
+[00:12:38.903 --> 00:12:40.423] KINGSLEY: You cannot leave them here to die!
+[00:12:40.663 --> 00:12:44.583] PICARD: Doctor, our options in a quarantine situation are extremely limited.
+[00:12:45.383 --> 00:12:47.143] PICARD: We are going to consider the possibilities.
+[00:12:48.103 --> 00:12:49.143] PICARD: I suggest you do the same.
+[00:12:52.583 --> 00:12:54.103] WORF: I recommend against contact, Captain.
+[00:12:54.903 --> 00:12:55.303] PICARD: Number One?
+[00:12:56.823 --> 00:12:57.623] RIKER: I have to agree, sir.
+[00:12:57.623 --> 00:13:00.162] RIKER: I wish there was something we could do, but the risk is too great.
+[00:13:00.162 --> 00:13:00.343] PICARD: Doctor?
+[00:13:01.463 --> 00:13:05.063] PULASKI: If the children are free of disease, as Doctor Kingsley said, they should be evacuated.
+[00:13:05.463 --> 00:13:09.463] PULASKI: I would like to bring one of them aboard within a force field for a complete examination.
+[00:13:10.772 --> 00:13:11.172] PICARD: Counsellor,
+[00:13:11.572 --> 00:13:12.292] PICARD: do you sense anything?
+[00:13:13.492 --> 00:13:18.772] TROI: Doctor Kingsley sincerely believes the children are not a threat, but she's not telling us the whole truth.
+[00:13:19.492 --> 00:13:20.452] TROI: I recommend caution.
+[00:13:23.172 --> 00:13:31.492] PICARD: We have only Doctor Kingsley's assurance that these children are not infected, whereas we have seen the results of this disease first hand. In
+[00:13:31.732 --> 00:13:35.572] PICARD: a case like this, I think we should err on the side of caution.
+[00:13:37.252 --> 00:13:37.652] PULASKI: All right.
+[00:13:38.932 --> 00:13:42.852] PULASKI: We could beam up one child in styrolite in suspended animation.
+[00:13:43.332 --> 00:13:48.372] PULASKI: That way I could scan for possible infection without any danger to ourselves or to the child.
+[00:13:49.012 --> 00:13:50.132] RIKER: But we don't know what we're looking for.
+[00:13:50.692 --> 00:13:51.492] PULASKI: Exactly.
+[00:13:52.132 --> 00:13:55.092] PULASKI: And we won't know until we begin gathering data. Captain,
+[00:13:55.572 --> 00:13:56.532] PULASKI: that's worth some risk.
+[00:13:57.252 --> 00:13:58.292] PICARD: There's always risk, Doctor.
+[00:14:03.892 --> 00:14:05.012] PICARD: Proceed with the examination,
+[00:14:05.332 --> 00:14:10.932] PICARD: but I shall require positive proof that these children are harmless before I place any of my crew in jeopardy.
+[00:14:11.082 --> 00:14:11.682] LAFORGE: The
+[00:14:19.412 --> 00:14:20.292] LAFORGE: forcefield's ready, Captain.
+[00:14:20.772 --> 00:14:21.092] PICARD: Activate it.
+[00:14:22.292 --> 00:14:22.612] PICARD: Transporter?
+[00:14:22.772 --> 00:14:23.412] O'BRIEN: This
+[00:14:25.412 --> 00:14:27.092] O'BRIEN: is
+[00:14:28.932 --> 00:14:29.572] O'BRIEN: Chief O'Brien,
+[00:14:29.652 --> 00:14:30.292] O'BRIEN: sir. Almost ready.
+[00:14:31.332 --> 00:14:31.972] PICARD: Is there a problem?
+[00:14:32.612 --> 00:14:33.492] O'BRIEN: It's the styrolite.
+[00:14:34.372 --> 00:14:38.612] O'BRIEN: I'm altering the delta-T so the styrolite coding materialises two micro-seconds ahead of the child.
+[00:14:38.836 --> 00:14:40.596] O'BRIEN: It has to be right the first time.
+[00:14:41.396 --> 00:14:42.516] PICARD: Well take all the time you need.
+[00:14:42.916 --> 00:14:43.956] O'BRIEN: Entering corrections now, sir.
+[00:14:46.276 --> 00:14:46.836] O'BRIEN: Ready, Captain.
+[00:14:49.556 --> 00:14:52.916] PULASKI: Doctor Kingsley, are you ready to transport?
+[00:14:52.916 --> 00:14:54.676] KINGSLEY: You have the coordinates.
+[00:14:54.676 --> 00:14:57.796] KINGSLEY: We have one twelve year old male encased in number six styrolite.
+[00:14:59.636 --> 00:15:00.116] LAFORGE: Transporter,
+[00:15:02.116 --> 00:15:02.676] LAFORGE: energise.
+[00:15:07.636 --> 00:15:07.956] WORF: A trick!
+[00:15:08.356 --> 00:15:08.836] LAFORGE: Transporter, reverse
+[00:15:08.836 --> 00:15:09.076] PICARD: One
+[00:15:09.156 --> 00:15:10.036] PICARD: moment, Lieutenant.
+[00:15:10.036 --> 00:15:11.556] PICARD: Whoever he is, he's still in stasis.
+[00:15:11.706 --> 00:15:12.306] PULASKI: The
+[00:15:15.636 --> 00:15:17.076] PULASKI: styrolite is intact, Captain.
+[00:15:19.476 --> 00:15:20.116] PICARD: Force field down.
+[00:15:35.716 --> 00:15:41.396] TROI: Captain, there's a definite presence, a distinct personality.
+[00:15:41.396 --> 00:15:43.156] TROI: Even in stasis it's quite strong.
+[00:15:43.956 --> 00:15:45.636] TROI: The child is unquestionably telepathic.
+[00:15:46.676 --> 00:15:51.316] PULASKI: A child this mature? We could be looking at the future of humanity.
+[00:15:54.596 --> 00:15:56.756] PICARD: At least Doctor Kingsley's vision of it.
+[00:16:27.870 --> 00:16:29.870] PULASKI: This child is in better health than we are.
+[00:16:30.190 --> 00:16:34.350] PULASKI: His immune system is so advanced it may not be possible for him to contract disease.
+[00:16:35.070 --> 00:16:36.670] PULASKI: I want to free him from the styrolite.
+[00:16:37.710 --> 00:16:38.750] PICARD: That seems rather risky, Doctor.
+[00:16:39.470 --> 00:16:41.150] PULASKI: I can do no further tests until he's out of it.
+[00:16:43.070 --> 00:16:43.870] PICARD: But what if you're wrong?
+[00:16:45.230 --> 00:16:46.590] PICARD: You saw what happened on the Lantree.
+[00:16:47.550 --> 00:16:48.270] PULASKI: I know I'm right.
+[00:16:48.910 --> 00:16:52.830] PICARD: I can't expose the Enterprise until I know where this disease came from and how it is transmitted.
+[00:16:53.390 --> 00:16:54.750] PULASKI: I realise that, Captain.
+[00:16:54.750 --> 00:16:56.910] PULASKI: Naturally, we'll establish a force field containment.
+[00:16:57.310 --> 00:16:59.790] PICARD: But if we lose the force field for any reason, we lose the ship.
+[00:17:00.270 --> 00:17:02.036] PICARD: Force fields can fail, and until
+[00:17:02.036 --> 00:17:07.630] PULASKI: We don't have that kind of time. These children can't survive in the lab once their parents are dead.
+[00:17:08.670 --> 00:17:09.550] PULASKI: Look at him, Captain.
+[00:17:11.870 --> 00:17:14.110] PULASKI: He's a human being who needs our help.
+[00:17:14.670 --> 00:17:15.566] PICARD: But the risk is
+[00:17:15.566 --> 00:17:15.790] PULASKI: Minimal.
+[00:17:20.350 --> 00:17:24.030] PICARD: If you can demonstrate that he is biologically harmless without risk to the crew,
+[00:17:26.030 --> 00:17:27.790] PICARD: I'll do everything in my power to assist.
+[00:17:29.870 --> 00:17:32.830] PICARD: And Doctor, God knows I'm not one to discourage input,
+[00:17:33.588 --> 00:17:36.628] PICARD: but I would appreciate it if you'd let me finish my sentences once in a while.
+[00:17:51.828 --> 00:17:53.748] PULASKI: Deanna, do you have a minute?
+[00:17:54.788 --> 00:17:56.228] PULASKI: You've known the Captain for some time.
+[00:17:57.348 --> 00:17:58.628] PULASKI: I think I need some advice.
+[00:17:58.628 --> 00:18:00.308] PULASKI: I don't seem to be dealing with him very well.
+[00:18:00.628 --> 00:18:01.188] TROI: Why do you say that?
+[00:18:01.828 --> 00:18:03.828] PULASKI: Well, my arguments don't seem to have any affect on him.
+[00:18:03.828 --> 00:18:06.788] PULASKI: We just end up quoting regulations to each other.
+[00:18:07.588 --> 00:18:10.148] PULASKI: He has such a consuming dedication to his ship,
+[00:18:10.148 --> 00:18:13.668] PULASKI: he doesn't seem able to step back to see the human side of the equation.
+[00:18:15.508 --> 00:18:16.708] PULASKI: What's the matter?
+[00:18:16.708 --> 00:18:17.108] TROI: Kate,
+[00:18:17.828 --> 00:18:21.748] TROI: I don't think he'd be where he is if he couldn't see the human side of the equation.
+[00:18:22.548 --> 00:18:24.548] TROI: Perhaps the two of you aren't all that different.
+[00:18:25.668 --> 00:18:26.068] PULASKI: What do you mean?
+[00:18:27.588 --> 00:18:32.228] TROI: Let's just say you both have well established personalities.
+[00:18:45.668 --> 00:18:49.028] PULASKI: Doctor Kingsley, this is Kate Pulaski.
+[00:18:50.148 --> 00:18:51.588] KINGSLEY: Doctor? Do you have a decision?
+[00:18:52.308 --> 00:18:53.508] PULASKI: I'm afraid it's bad news.
+[00:18:54.388 --> 00:18:55.188] KINGSLEY: How can that be?!
+[00:18:56.068 --> 00:18:57.988] PULASKI: The risk to the ship and crew is too great.
+[00:18:58.468 --> 00:19:01.460] PULASKI: Until we absolutely know the cause of the disease, the children
+[00:19:01.460 --> 00:19:02.548] KINGSLEY: The children are harmless.
+[00:19:03.992 --> 00:19:05.432] KINGSLEY: Every test on them has been negative.
+[00:19:07.352 --> 00:19:09.032] KINGSLEY: I demand that you do something to save them.
+[00:19:10.152 --> 00:19:10.792] KINGSLEY: Please, Doctor.
+[00:19:13.512 --> 00:19:15.992] KINGSLEY: For God's sake, we haven't got much time.
+[00:19:17.832 --> 00:19:18.952] PULASKI: Stand by. I'll get back to you.
+[00:19:23.272 --> 00:19:25.352] PULASKI: Geordi, I need your help.
+[00:19:25.752 --> 00:19:26.392] LAFORGE: What is it, Doctor.
+[00:19:27.592 --> 00:19:29.832] PULASKI: I need to prove the children are harmless.
+[00:19:29.832 --> 00:19:31.912] PULASKI: I can only do that in a fail-safe environment.
+[00:19:32.392 --> 00:19:37.112] LAFORGE: The problem is there's no area on the ship that can be sealed off with absolute certainty, even with force fields.
+[00:19:37.592 --> 00:19:39.192] PULASKI: Sickbay has an isolated system.
+[00:19:39.192 --> 00:19:42.232] LAFORGE: But it's not possible to totally cut it off from the rest of the ship.
+[00:19:43.032 --> 00:19:47.752] LAFORGE: The only truly independent environment would be something like a shuttlecraft.
+[00:19:47.752 --> 00:19:48.232] PULASKI: A shuttlecraft.
+[00:19:49.352 --> 00:19:50.312] PULASKI: Why didn't you say so?
+[00:19:58.472 --> 00:19:58.792] PICARD: Come.
+[00:20:00.712 --> 00:20:04.312] PULASKI: Captain, I'd like permission to put the boy in a shuttlecraft.
+[00:20:04.312 --> 00:20:06.792] PULASKI: I can study him there without risk to anyone else.
+[00:20:07.272 --> 00:20:07.672] PICARD: What about you?
+[00:20:08.232 --> 00:20:09.432] PULASKI: I'm prepared to take that risk.
+[00:20:09.912 --> 00:20:13.512] PULASKI: Someone has to breathe the same air he breathes, to touch him.
+[00:20:13.992 --> 00:20:15.832] PULASKI: I'm volunteering to make that test myself.
+[00:20:17.592 --> 00:20:20.952] PICARD: Doctor, you have a responsibility to this ship which goes
+[00:20:20.952 --> 00:20:23.352] PULASKI: I also have a responsibility to humanity.
+[00:20:24.232 --> 00:20:27.512] PICARD: Starfleet guidelines about contact with quarantined
+[00:20:27.592 --> 00:20:29.192] PULASKI: You don't have to quote the rule book. You were saying?
+[00:20:34.455 --> 00:20:36.775] PICARD: Request approved.
+[00:20:37.495 --> 00:20:39.495] PULASKI: Captain, you said if I.
+[00:20:41.015 --> 00:20:41.735] PULASKI: Approved?
+[00:20:43.015 --> 00:20:45.335] PICARD: I recognise that you're trying to satisfy my conditions.
+[00:20:48.775 --> 00:20:49.095] PULASKI: Thank
+[00:20:51.015 --> 00:20:52.455] PULASKI: you.
+[00:21:01.415 --> 00:21:02.295] DATA: You sent for me, Doctor?
+[00:21:02.375 --> 00:21:03.175] PULASKI: I did, Commander.
+[00:21:03.575 --> 00:21:05.895] PULASKI: I assume that you're qualified to pilot this shuttlecraft.
+[00:21:06.215 --> 00:21:06.535] DATA: Certainly.
+[00:21:06.535 --> 00:21:11.295] DATA: I took advanced training in the operation of auxiliary space vessels at Starfleet Academy, where I received
+[00:21:11.295 --> 00:21:13.255] PULASKI: A more than passing grade, no doubt.
+[00:21:13.255 --> 00:21:14.215] PULASKI: Please, come aboard.
+[00:21:14.215 --> 00:21:15.015] PULASKI: We don't have much time.
+[00:21:18.055 --> 00:21:21.415] COMPUTER: Shuttlebay three force field activated.
+[00:21:21.895 --> 00:21:21.975] DATA: You're certain
+[00:21:23.895 --> 00:21:23.895] DATA: the
+[00:21:40.215 --> 00:21:40.535] DATA: Captain
+[00:21:40.535 --> 00:21:41.415] DATA: approved this, Doctor?
+[00:21:41.815 --> 00:21:44.935] PULASKI: You'll take us a few hundred metres away from the Enterprise and hold position.
+[00:21:46.295 --> 00:21:47.975] DATA: Begin shuttlecraft launch sequence.
+[00:22:10.055 --> 00:22:10.615] PICARD: Good luck, Doctor.
+[00:22:22.695 --> 00:22:23.735] DATA: We are in position, Doctor.
+[00:22:25.015 --> 00:22:26.775] PULASKI: It's the only way to prove they're harmless.
+[00:22:28.055 --> 00:22:29.495] DATA: And if they are not?
+[00:22:31.335 --> 00:22:33.815] PULASKI: I hate to keep reminding you, but you are a machine.
+[00:22:33.815 --> 00:22:34.855] PULASKI: You'll be perfectly safe.
+[00:22:36.775 --> 00:22:38.135] DATA: That is by no means certain, Doctor,
+[00:22:38.695 --> 00:22:39.815] DATA: but I was referring to you.
+[00:22:42.215 --> 00:22:44.775] PULASKI: Medical research is sometimes a risky business.
+[00:22:47.255 --> 00:22:48.695] PULASKI: It's all part of being human.
+[00:22:49.095 --> 00:22:50.055] PULASKI: Shall we proceed?
+[00:22:52.855 --> 00:22:53.735] DATA: Ready to transport.
+[00:22:54.695 --> 00:22:56.215] DATA: You have the coordinates, Chief O'Brien.
+[00:22:57.095 --> 00:22:59.095] O'BRIEN: Shuttlecraft, maintain your position and stand by.
+[00:22:59.415 --> 00:23:00.135] DATA: Standing by.
+[00:23:09.815 --> 00:23:11.575] O'BRIEN: Transporter control, what's our status?
+[00:23:12.135 --> 00:23:13.415] CREWMAN: We have a green panel, sir.
+[00:23:14.455 --> 00:23:15.415] O'BRIEN: Stand by to transport.
+[00:23:15.895 --> 00:23:16.375] CREWMAN: Aye, sir.
+[00:23:17.815 --> 00:23:18.375] O'BRIEN: Energise.
+[00:23:53.784 --> 00:23:54.264] PULASKI: Oh, yes,
+[00:23:55.864 --> 00:23:56.184] PULASKI: I do.
+[00:23:57.464 --> 00:23:58.824] PULASKI: I understand you perfectly.
+[00:24:00.904 --> 00:24:01.624] DATA: How could you, Doctor?
+[00:24:02.584 --> 00:24:03.464] DATA: He has not said anything.
+[00:24:04.824 --> 00:24:05.624] PULASKI: Oh yes, he has.
+[00:24:05.624 --> 00:24:06.424] PULASKI: Troi's right.
+[00:24:07.704 --> 00:24:08.264] PULASKI: He's telepathic.
+[00:24:28.904 --> 00:24:29.224] PICARD: Time?
+[00:24:29.944 --> 00:24:31.944] COMPUTER: Zero three two two exactly.
+[00:24:33.784 --> 00:24:36.424] PICARD: She's been in direct contact with the boy for eighteen minutes.
+[00:24:44.424 --> 00:24:47.144] DATA: All systems are functioning within normal specifications, Doctor.
+[00:24:47.624 --> 00:24:49.304] PULASKI: The manufacturer will be pleased to hear it.
+[00:24:50.424 --> 00:24:53.144] PULASKI: I appreciate your help, but your bedside manner needs work.
+[00:24:53.784 --> 00:24:54.584] DATA: Bedside manner?
+[00:24:57.095 --> 00:24:59.095] DATA: Doctor?
+[00:24:59.095 --> 00:24:59.095] PICARD: Doctor,
+[00:25:12.375 --> 00:25:15.175] PICARD: I don't understand.
+[00:25:15.335 --> 00:25:15.895] PICARD: What has happened?
+[00:25:18.455 --> 00:25:19.335] PULASKI: There was no warning.
+[00:25:19.655 --> 00:25:20.215] PICARD: Explain.
+[00:25:21.415 --> 00:25:25.575] PULASKI: Arthritic inflammation. It's the initial symptom of the disease.
+[00:25:27.015 --> 00:25:27.655] PICARD: What can we do?
+[00:25:27.735 --> 00:25:29.575] PULASKI: Return the boy to Darwin Station.
+[00:25:29.815 --> 00:25:31.815] PULASKI: Apparently the children are carriers.
+[00:25:38.615 --> 00:25:39.655] PICARD: Chief O'Brien, are you ready?
+[00:25:43.175 --> 00:25:45.735] O'BRIEN: I have the original coordinates of the Darwin isolation lab, Captain.
+[00:25:46.135 --> 00:25:46.695] PICARD: Quickly, please.
+[00:25:47.415 --> 00:25:48.615] O'BRIEN: Shuttle One, hold your position.
+[00:25:50.935 --> 00:25:51.255] DATA: Holding.
+[00:25:53.335 --> 00:25:56.295] O'BRIEN: Stand by to transport.
+[00:25:58.615 --> 00:25:59.335] PULASKI: It wasn't your
+[00:26:01.175 --> 00:26:01.175] PULASKI: fault.
+[00:26:09.655 --> 00:26:10.615] PICARD: Tell us what you need, Doctor.
+[00:26:12.055 --> 00:26:13.575] PULASKI: There's nothing you can do, Captain.
+[00:26:13.575 --> 00:26:17.735] PULASKI: I'm not going to make myself an exception to the Darwin quarantine.
+[00:26:18.215 --> 00:26:18.935] PULASKI: Shuttle One out.
+[00:26:21.569 --> 00:26:22.529] DATA: What is your condition, Doctor?
+[00:26:23.409 --> 00:26:25.249] PULASKI: Not exactly up to factory specs.
+[00:26:26.849 --> 00:26:27.569] PULASKI: I'm sorry.
+[00:26:28.769 --> 00:26:30.369] PULASKI: The pain is tolerable, thank you.
+[00:26:30.849 --> 00:26:32.369] DATA: Shall I set course for Darwin Station?
+[00:26:33.569 --> 00:26:34.849] PULASKI: We're already under quarantined.
+[00:26:35.889 --> 00:26:37.009] PULASKI: What do we have to lose?
+[00:26:41.489 --> 00:26:44.849] PICARD: We can no longer consider the Darwin Station crisis our most immediate concern,
+[00:26:45.649 --> 00:26:56.048] PICARD: although Doctor Pulaski's condition is inseparably linked with that emergency. Her safe return and that of Commander Data must take priority, please.
+[00:26:56.769 --> 00:26:59.089] TROI: Shouldn't Doctor Pulaski be involved in this?
+[00:26:59.569 --> 00:27:02.769] RIKER: From what we've seen on the Lantree, Doctor Pulaski may not have time to help herself.
+[00:27:03.489 --> 00:27:06.048] TROI: Well I suggest we beam them both back onto the ship.
+[00:27:06.288 --> 00:27:10.326] TROI: Commander Data is most likely immune and surely the biofilter will
+[00:27:10.326 --> 00:27:12.529] O'BRIEN: The transporter's biofilter won't protect us.
+[00:27:12.929 --> 00:27:16.048] O'BRIEN: The boy was transported twice already and still infected Doctor Pulaski.
+[00:27:16.769 --> 00:27:18.369] LAFORGE: Couldn't we adjust the biofilter?
+[00:27:19.009 --> 00:27:22.129] LAFORGE: We could alter the filter to screen out whatever it is that's causing the disease.
+[00:27:22.288 --> 00:27:24.689] PICARD: But we don't know what's causing the disease.
+[00:27:24.689 --> 00:27:26.689] PICARD: We can't protect ourselves against the unknown.
+[00:27:27.649 --> 00:27:32.129] PICARD: What we need is some kind of filter that doesn't depend on known biological factors.
+[00:27:34.049 --> 00:27:35.649] O'BRIEN: We might try the trace.
+[00:27:36.769 --> 00:27:37.569] RIKER: The transporter trace?
+[00:27:37.969 --> 00:27:41.649] O'BRIEN: As you know, the transporter keeps a record of all transmissions, a pattern if you will.
+[00:27:42.288 --> 00:27:44.449] O'BRIEN: Usually it's just stored for security purposes,
+[00:27:44.929 --> 00:27:48.329] O'BRIEN: but if we use the transporter trace to control the reconstitution process
+[00:27:48.329 --> 00:27:51.729] LAFORGE: I don't think it's ever been tried quite that way before, but
+[00:27:53.409 --> 00:27:54.449] LAFORGE: theoretically it is possible.
+[00:27:56.683 --> 00:27:58.443] O'BRIEN: I'd have to make extensive modifications.
+[00:27:59.083 --> 00:27:59.563] PICARD: Then do it.
+[00:28:00.123 --> 00:28:01.323] PICARD: It seems we have no alternative.
+[00:28:01.803 --> 00:28:03.083] RIKER: Where will we get the trace pattern?
+[00:28:03.723 --> 00:28:05.003] RIKER: The Doctor's never used our transporter.
+[00:28:05.723 --> 00:28:05.963] PICARD: Never?
+[00:28:06.923 --> 00:28:09.723] RIKER: No. She's a woman of very strongly held opinions, sir.
+[00:28:10.123 --> 00:28:11.243] RIKER: What was her previous assignment?
+[00:28:11.723 --> 00:28:13.083] TROI: Her last ship was the Repulse.
+[00:28:15.563 --> 00:28:21.163] PICARD: Bridge, Picard. Contact the USS Repulse using subspace captain's priority channel.
+[00:28:22.123 --> 00:28:22.203] KINGSLEY: Oh,
+[00:28:36.043 --> 00:28:37.083] KINGSLEY: Doctor Pulaski.
+[00:28:38.843 --> 00:28:44.523] KINGSLEY: I can only tell you how much I regret the burden we've imposed on you. On both of you.
+[00:28:45.163 --> 00:28:47.643] PULASKI: Commander Data is an android, Doctor. He is unaffected.
+[00:28:47.643 --> 00:28:49.243] PULASKI: As for me, I chose this.
+[00:28:49.323 --> 00:28:51.483] PULASKI: I was convinced the children were safe.
+[00:28:52.523 --> 00:28:55.163] KINGSLEY: I still can't believe you were infected by one of our children.
+[00:28:55.963 --> 00:28:57.323] DATA: The evidence is fairly conclusive.
+[00:28:58.283 --> 00:28:59.083] KINGSLEY: You don't understand.
+[00:28:59.083 --> 00:29:00.923] KINGSLEY: They were designed to resist disease.
+[00:29:01.643 --> 00:29:04.043] PULASKI: I think it's time we talked about that.
+[00:29:05.403 --> 00:29:06.283] KINGSLEY: Let me show you something.
+[00:29:07.243 --> 00:29:09.243] KINGSLEY: Our ultimate achievement.
+[00:29:25.447 --> 00:29:28.487] KINGSLEY: The oldest is twelve, and all are telekinetic.
+[00:29:29.047 --> 00:29:29.447] KINGSLEY: Watch.
+[00:29:35.767 --> 00:29:37.011] PULASKI: Genetically engineered?
+[00:29:37.011 --> 00:29:41.367] KINGSLEY: Not engineered, created. Perfect in every way.
+[00:29:42.167 --> 00:29:44.967] KINGSLEY: Their body structure, their musculature, their minds.
+[00:29:46.087 --> 00:29:47.847] PULASKI: You were telling me about their immune system.
+[00:29:48.967 --> 00:29:50.087] KINGSLEY: That was our masterpiece.
+[00:29:50.567 --> 00:29:52.807] KINGSLEY: We gave these children an aggressive immunity.
+[00:29:53.847 --> 00:29:57.607] KINGSLEY: The rest of us were infected by the supply ship, but they were protected.
+[00:29:58.247 --> 00:30:02.807] DATA: The Lantree logs indicated that only one crewman had any illness prior to arrival here.
+[00:30:03.127 --> 00:30:05.927] DATA: The First Officer had a mild case of Thelusian flu.
+[00:30:06.407 --> 00:30:09.367] KINGSLEY: Yes, he was one of the crewmen who came in direct contact with us.
+[00:30:10.167 --> 00:30:14.967] PULASKI: The Thelusian flu would have little effect on you, but tell me, how would they react?
+[00:30:15.767 --> 00:30:19.988] KINGSLEY: Their immune system would release an active antibody that would attack the virus.
+[00:30:19.988 --> 00:30:21.287] PULASKI: Even at a distance?
+[00:30:21.927 --> 00:30:27.047] KINGSLEY: Their immune systems don't wait for a disease to attack the body. It would seek out an airborne virus and destroy it.
+[00:30:27.527 --> 00:30:28.167] PULASKI: Destroy it?
+[00:30:28.887 --> 00:30:29.607] PULASKI: How, exactly?
+[00:30:30.727 --> 00:30:36.007] KINGSLEY: The antibody would adapt itself to alter the genetic code of the virus.
+[00:30:37.127 --> 00:30:42.647] PULASKI: Commander, I want an analysis of the interaction between the Thelusian flu and the children.
+[00:30:43.207 --> 00:30:44.407] DATA: On a molecular genetic level?
+[00:30:45.127 --> 00:30:46.327] KINGSLEY: We don't have time for that.
+[00:30:46.647 --> 00:30:48.567] KINGSLEY: Genetic analysis could take months.
+[00:30:49.367 --> 00:30:53.367] PULASKI: Not necessarily. Commander Data has a way with computers.
+[00:30:54.945 --> 00:30:55.745] TAGGERT: Sorry, Picard.
+[00:30:56.145 --> 00:30:56.945] TAGGERT: We erased Doctor
+[00:30:56.945 --> 00:30:59.345] TAGGERT: Pulaski's transporter pattern right after she transferred.
+[00:31:00.145 --> 00:31:01.745] TAGGERT: Not that she used the transporter much,
+[00:31:02.145 --> 00:31:04.145] TAGGERT: she preferred using the shuttlecraft.
+[00:31:04.145 --> 00:31:06.385] TAGGERT: I would have given her a shuttle if it would have kept her here.
+[00:31:07.585 --> 00:31:11.585] PICARD: Tell me, Taggert, if she served you as well as you say, why did you let her go?
+[00:31:13.665 --> 00:31:15.665] TAGGERT: I see you haven't run into her stubborn streak yet.
+[00:31:16.945 --> 00:31:21.505] TAGGERT: As soon as she found out about an opening on the Enterprise, she put in a request for transfer.
+[00:31:21.985 --> 00:31:24.225] TAGGERT: Knew your service record backward and forward.
+[00:31:24.865 --> 00:31:27.425] TAGGERT: Apparently she's been an admirer of yours for some time.
+[00:31:29.425 --> 00:31:29.905] PICARD: Extraordinary.
+[00:31:31.745 --> 00:31:32.225] PULASKI: Commander,
+[00:31:33.905 --> 00:31:34.545] PULASKI: what have you got?
+[00:31:36.385 --> 00:31:37.425] DATA: The answer, I believe, Doctor.
+[00:31:38.465 --> 00:31:42.145] DATA: The Lantree was not the source of the disease, but it was the trigger.
+[00:31:42.865 --> 00:31:43.345] KINGSLEY: Trigger?
+[00:31:44.145 --> 00:31:48.545] DATA: The Lantree's First Officer exposed your children to Thelusian flu for the first time.
+[00:31:49.025 --> 00:31:54.305] DATA: Their active immune systems set out to attack the virus, and once it was triggered, it kept going.
+[00:31:55.185 --> 00:31:57.825] DATA: The antibody created an unexpected side-effect.
+[00:31:59.425 --> 00:32:02.145] DATA: It alters the genetic make-up of normal humans.
+[00:32:02.865 --> 00:32:05.745] DATA: This is a comparison of the normal and altered DNA.
+[00:32:06.065 --> 00:32:08.225] DATA: These are the two molecules that have been transposed.
+[00:32:08.785 --> 00:32:14.087] PULASKI: And since our DNA is self replicating, the process
+[00:32:14.087 --> 00:32:15.265] DATA: Is irreversible.
+[00:32:17.585 --> 00:32:20.625] PULASKI: Judging from what happened on the Lantree, anyone
+[00:32:21.200 --> 00:32:23.680] PULASKI: is a carrier once they're infected.
+[00:32:28.960 --> 00:32:28.960] PICARD: Have
+[00:32:36.560 --> 00:32:37.680] PICARD: you made any progress, Doctor?
+[00:32:38.560 --> 00:32:42.560] PULASKI: I'm afraid so, Captain. The children don't carry the disease, they are the cause.
+[00:32:43.600 --> 00:32:44.000] PICARD: What do you mean?
+[00:32:44.800 --> 00:32:48.800] PULASKI: Their advanced immune system has created an antibody that changes normal DNA.
+[00:32:49.200 --> 00:32:52.080] PULASKI: The altered genes are the ones that control aging.
+[00:32:52.960 --> 00:32:55.440] PICARD: Then why did it attack you more quickly than Doctor Kingsley?
+[00:32:56.000 --> 00:33:00.000] PULASKI: The enclosed environment of the shuttlecraft concentrated my exposure.
+[00:33:00.640 --> 00:33:04.240] PULASKI: The Lantree's First Officer carried the antibody onto his ship.
+[00:33:04.800 --> 00:33:06.480] PULASKI: It had the same effect on his crew.
+[00:33:07.120 --> 00:33:07.280] PICARD: Right,
+[00:33:07.280 --> 00:33:08.080] PICARD: what's the next step?
+[00:33:08.080 --> 00:33:13.440] PULASKI: The children will survive, but the rest of us are just about out of time.
+[00:33:22.400 --> 00:33:23.840] PICARD: Doctor, I want you back aboard this ship.
+[00:33:24.240 --> 00:33:26.560] PICARD: We'll beam you up in suspended animation like the boy.
+[00:33:26.560 --> 00:33:27.520] PICARD: That will give us more time.
+[00:33:27.520 --> 00:33:33.600] PULASKI: Captain, I appreciate what you're trying to do, but I got into this by leaping before I looked, and I won't allow you to make the same mistake.
+[00:33:39.840 --> 00:33:41.920] PULASKI: Chief Medical Officer's log.
+[00:33:41.920 --> 00:33:44.240] PULASKI: This will be my final report to the Enterprise.
+[00:33:45.600 --> 00:33:51.200] PULASKI: Just as changes in evolution are known to be caused by changes in the environment,
+[00:33:51.211 --> 00:33:54.011] PULASKI: we now know the process also works in reverse.
+[00:33:55.451 --> 00:34:01.371] PULASKI: An attempt to control human evolution has resulted in a new species that's lethal to its predecessors.
+[00:34:02.571 --> 00:34:06.651] PULASKI: The children will be condemned to live out their lives in isolation.
+[00:34:07.371 --> 00:34:10.971] PULASKI: Quarantine of the Darwin Station must be maintained for ever.
+[00:34:21.211 --> 00:34:21.211] DATA: I
+[00:34:23.291 --> 00:34:25.211] DATA: am sorry I could not be more helpful, Doctor Pulaski.
+[00:34:25.931 --> 00:34:28.011] PULASKI: You did everything you could, Commander.
+[00:34:28.971 --> 00:34:32.331] PULASKI: As androids go, you're in a class by yourself.
+[00:34:35.531 --> 00:34:35.771] DATA: Doctor
+[00:34:36.171 --> 00:34:36.331] PULASKI: Please,
+[00:34:38.091 --> 00:34:39.291] PULASKI: give my best to the Captain.
+[00:34:44.171 --> 00:34:44.651] DATA: Enterprise.
+[00:34:45.451 --> 00:34:47.371] DATA: Commander Data ready to beam aboard.
+[00:34:58.811 --> 00:34:58.811] TROI: Captain,
+[00:35:00.411 --> 00:35:01.691] TROI: Kate knew what she was doing.
+[00:35:03.371 --> 00:35:04.971] PICARD: I wish I could be certain that we'd tried everything.
+[00:35:07.131 --> 00:35:08.651] WORF: Commander Data is ready to come aboard, sir.
+[00:35:14.171 --> 00:35:15.051] PICARD: You have the Bridge, Number One.
+[00:35:29.447 --> 00:35:30.807] CREWMAN: No life forms present.
+[00:35:34.887 --> 00:35:36.087] O'BRIEN: You may step down, sir.
+[00:35:39.287 --> 00:35:39.847] PICARD: Data, tell me if.
+[00:35:40.647 --> 00:35:42.647] PICARD: It's good to see you again.
+[00:35:43.127 --> 00:35:43.527] DATA: Thank you, sir.
+[00:35:43.767 --> 00:35:44.327] PICARD: Now, quickly.
+[00:35:44.567 --> 00:35:47.927] PICARD: If the changes in Doctor Pulaski's DNA were reversed, would it be possible
+[00:35:47.927 --> 00:35:48.807] DATA: It is not reversible, sir.
+[00:35:49.367 --> 00:35:50.617] DATA: The subtle molecular transposition of
+[00:35:50.617 --> 00:35:51.367] PICARD: Yes, yes, yes.
+[00:35:51.367 --> 00:35:54.167] PICARD: But say if it were undone, would she be normal again?
+[00:35:55.607 --> 00:35:56.567] DATA: As normal as ever, sir.
+[00:35:57.687 --> 00:36:02.247] PICARD: You said that the transporter could be modified to filter out the changes in Doctor Pulaski?
+[00:36:02.567 --> 00:36:03.047] O'BRIEN: Yes, sir,
+[00:36:03.047 --> 00:36:05.047] O'BRIEN: but we were unable to locate her trace pattern.
+[00:36:05.607 --> 00:36:05.767] PICARD: Well,
+[00:36:07.367 --> 00:36:14.487] PICARD: what if we used a sample of her DNA, say from a blood test taken before she was exposed to the disease?
+[00:36:15.367 --> 00:36:17.847] PICARD: Could that be used to filter out the genetic changes?
+[00:36:18.487 --> 00:36:22.167] O'BRIEN: Well, I'd have to get into the biofilter bus to patch in a molecular matrix reader.
+[00:36:22.487 --> 00:36:23.447] O'BRIEN: That's no problem.
+[00:36:23.687 --> 00:36:28.407] O'BRIEN: But the waveform modulator will be overloaded without the regeneration limiter in the first stage circuit.
+[00:36:29.047 --> 00:36:29.527] DATA: Interesting.
+[00:36:30.007 --> 00:36:30.860] DATA: However, theoretically,
+[00:36:30.860 --> 00:36:31.287] PICARD: Data.
+[00:36:31.367 --> 00:36:31.687] DATA: Yes, sir.
+[00:36:32.007 --> 00:36:33.127] PICARD: Can you do the modifications?
+[00:36:33.367 --> 00:36:34.007] O'BRIEN: I think so, sir.
+[00:36:34.247 --> 00:36:34.887] PICARD: Then make it so.
+[00:36:36.887 --> 00:36:37.687] O'BRIEN: You heard what he said.
+[00:36:37.687 --> 00:36:38.727] O'BRIEN: Let's get those panels off.
+[00:36:40.967 --> 00:36:42.967] RIKER: A
+[00:36:45.687 --> 00:36:49.687] RIKER: blood test, a tissue sample, anything that would have a sample of Doctor Pulaski's original DNA.
+[00:36:50.327 --> 00:36:50.647] DATA: No, sir.
+[00:36:50.647 --> 00:36:53.047] DATA: Her records were shipped by way of Starfleet headquarters.
+[00:36:53.447 --> 00:36:54.407] DATA: They have not caught up with us yet.
+[00:36:55.031 --> 00:36:56.151] RIKER: This is ridiculous.
+[00:36:56.631 --> 00:36:57.911] RIKER: A cell, a single cell.
+[00:36:58.871 --> 00:36:59.671] RIKER: Let's check her quarters.
+[00:37:14.151 --> 00:37:14.151] RIKER: Anything.
+[00:37:14.871 --> 00:37:16.311] RIKER: A fingernail, a hair.
+[00:37:16.311 --> 00:37:17.031] DATA: Hair brush.
+[00:37:24.551 --> 00:37:26.551] DATA: It
+[00:37:30.151 --> 00:37:31.031] DATA: has a follicle, sir.
+[00:37:31.511 --> 00:37:32.391] DATA: Live cells.
+[00:37:36.951 --> 00:37:38.391] PICARD: Darwin Station, this is the Enterprise.
+[00:37:39.671 --> 00:37:40.631] PULASKI: Go ahead, Captain.
+[00:37:40.951 --> 00:37:41.111] PULASKI: I'm
+[00:37:44.551 --> 00:37:44.871] PULASKI: here.
+[00:37:49.111 --> 00:37:50.151] PICARD: Doctor, we may have a solution.
+[00:37:51.191 --> 00:37:56.151] PICARD: We have a sample of your normal DNA to use as a filter in the transporter.
+[00:37:56.151 --> 00:38:04.231] PICARD: We think that we can beam you aboard while filtering out any of the genetic problems caused by the disease.
+[00:38:05.431 --> 00:38:06.871] PULASKI: Interesting theory, Captain.
+[00:38:08.551 --> 00:38:12.791] PULASKI: If it works, we could use the same technique to save Doctor
+[00:38:12.791 --> 00:38:14.391] PULASKI: Kingsley and her colleagues.
+[00:38:16.551 --> 00:38:17.431] PICARD: I think you should know,
+[00:38:18.631 --> 00:38:20.231] PICARD: this has never been attempted before.
+[00:38:20.471 --> 00:38:21.911] PULASKI: Well, I'll tell you one thing.
+[00:38:22.791 --> 00:38:23.991] PULASKI: If I live through this, I'll
+[00:38:26.791 --> 00:38:29.351] PULASKI: have a much better understanding of geriatrics.
+[00:38:35.997 --> 00:38:36.477] PICARD: All set, Chief?
+[00:38:36.717 --> 00:38:37.357] O'BRIEN: Almost ready, sir.
+[00:38:37.997 --> 00:38:38.797] O'BRIEN: There's just one thing.
+[00:38:39.037 --> 00:38:39.277] PICARD: Yes?
+[00:38:39.997 --> 00:38:41.917] O'BRIEN: This modification's one way only.
+[00:38:42.317 --> 00:38:45.357] O'BRIEN: If it doesn't work we won't be able to reverse transport the Doctor back to the planet.
+[00:38:48.717 --> 00:38:53.837] PICARD: Then I'll operate the transporter controls myself.
+[00:38:55.277 --> 00:38:58.637] PICARD: If she's going to be consigned to oblivion, then
+[00:38:58.637 --> 00:38:59.757] O'BRIEN: Thank you, sir.
+[00:39:01.277 --> 00:39:06.397] O'BRIEN: I'll be monitoring the medical scans. But you'll be able to tell if it's worked by watching the stack.
+[00:39:09.277 --> 00:39:10.397] PICARD: Doctor Pulaski, are you ready?
+[00:39:12.317 --> 00:39:13.597] PULASKI: I suppose I am,
+[00:39:20.717 --> 00:39:20.717] PULASKI: Captain.
+[00:39:20.797 --> 00:39:21.277] PICARD: Here we go.
+[00:39:30.877 --> 00:39:33.357] PICARD: It's not working.
+[00:39:35.597 --> 00:39:36.157] O'BRIEN: Captain, wait.
+[00:40:05.824 --> 00:40:06.291] DATA: Doctor.
+[00:40:06.291 --> 00:40:08.624] LAFORGE: Good to see you, Doctor.
+[00:40:10.544 --> 00:40:11.184] PICARD: Welcome back, Doctor.
+[00:40:13.184 --> 00:40:13.344] PICARD: Come.
+[00:40:19.344 --> 00:40:19.904] PULASKI: Captain,
+[00:40:19.984 --> 00:40:21.538] PULASKI: if this hadn't worked?
+[00:40:21.538 --> 00:40:27.755] PICARD: If this hadn't worked, it would have been necessary to beam your energy into empty space.
+[00:40:27.755 --> 00:40:30.864] PULASKI: And spread my atoms spread across the galaxy.
+[00:40:31.984 --> 00:40:33.104] PICARD: Yes. I'm sorry.
+[00:40:33.184 --> 00:40:34.704] PULASKI: No, no, don't be sorry.
+[00:40:34.864 --> 00:40:38.464] PULASKI: Every time I get into the damn thing, I'm convinced that's what's going to happen.
+[00:40:45.184 --> 00:40:47.344] LOG: Chief Medical Officer's log, supplemental.
+[00:40:48.224 --> 00:40:52.464] LOG: The adults of Darwin Station have been restored to normal health using our transporter.
+[00:40:53.024 --> 00:40:58.304] LOG: They will remain on Gagarin Four and continue their research in hopes of one day rejoining their children.
+[00:40:59.744 --> 00:41:00.384] WESLEY: Impulse speed.
+[00:41:02.864 --> 00:41:03.584] DATA: There she is, Captain.
+[00:41:05.264 --> 00:41:11.344] PULASKI: Scientists believe no experiment is a failure, that even a mistake advances the evolution of understanding.
+[00:41:11.904 --> 00:41:12.864] RIKER: Close to forty kilometres.
+[00:41:14.144 --> 00:41:14.944] WESLEY: Forty kilometres,
+[00:41:15.104 --> 00:41:15.424] WESLEY: aye, sir.
+[00:41:16.544 --> 00:41:18.384] PULASKI: But all achievement has a price.
+[00:41:19.184 --> 00:41:25.904] PULASKI: For one brief glimpse at the mysterious blueprint of human evolution, the men and women off the USS Lantree paid with their lives.
+[00:41:26.704 --> 00:41:30.464] PULASKI: Their sacrifice is thus noted in this scientist's log.
+[00:41:32.864 --> 00:41:33.184] PICARD: Number One.
+[00:41:35.184 --> 00:41:37.504] RIKER: Lieutenant Worf, arm the photon torpedoes.
+[00:41:40.788 --> 00:41:41.828] WORF: Torpedoes ready, Commander.
+[00:41:43.108 --> 00:41:43.828] LANTREE: Extreme caution.
+[00:41:44.148 --> 00:41:48.148] LANTREE: The USS Lantree is a quarantined vessel by order of Starfleet Command.
+[00:41:48.148 --> 00:41:48.948] LANTREE: Do not board.
+[00:41:50.868 --> 00:41:51.188] PICARD: Gentlemen.
+[00:41:53.028 --> 00:41:53.748] LANTREE: Extreme caution.
+[00:41:54.068 --> 00:41:58.068] LANTREE: The USS Lantree is a quarantined vessel by order of Starfleet Command.
+[00:41:58.068 --> 00:41:58.948] LANTREE: Do not board.
+[00:42:13.748 --> 00:42:15.828] RIKER: Set course and speed for Star Station India.
+[00:42:17.668 --> 00:42:18.868] WESLEY: Course and speed set, sir.
+[00:42:26.148 --> 00:42:26.548] PICARD: Engage.

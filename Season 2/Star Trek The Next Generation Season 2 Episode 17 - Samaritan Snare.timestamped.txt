@@ -1,0 +1,782 @@
+[00:00:01.760 --> 00:00:04.960] LOG: Captain's log, Stardate 42779.1.
+[00:00:05.360 --> 00:00:10.080] LOG: We're en route to the Epsilon Nine Sector for astronomical survey of a new pulsar cluster.
+[00:00:11.040 --> 00:00:16.800] LOG: In the meantime, Ensign Crusher will be diverting to Starbase Five One Five for Starfleet exams.
+[00:00:17.360 --> 00:00:18.960] RIKER: This just came in for you from Starfleet
+[00:00:19.920 --> 00:00:20.800] WESLEY: Testing parameters?
+[00:00:21.120 --> 00:00:22.400] DATA: Do not be apprehensive. Wes.
+[00:00:22.640 --> 00:00:25.200] DATA: I found the Academy examinations quite elementary.
+[00:00:25.840 --> 00:00:26.320] WESLEY: You would.
+[00:00:26.960 --> 00:00:29.840] RIKER: Your earlier test results were good enough to get you Academy credit for your work here.
+[00:00:29.840 --> 00:00:31.120] RIKER: I don't think you have anything to worry about.
+[00:00:31.520 --> 00:00:33.520] WESLEY: Those Academy cadets can be extremely competitive.
+[00:00:33.520 --> 00:00:35.520] RIKER: But you have the practical experience, Wes.
+[00:00:36.000 --> 00:00:37.120] DATA: Commander Riker is correct.
+[00:00:37.760 --> 00:00:48.880] DATA: While the information imparted to cadets at the Academy is unquestionably vital for prospective Starfleet officers, it nevertheless requires a significant period of supplementary systems training and situational disciplines.
+[00:00:49.280 --> 00:00:49.840] RIKER: Didn't I just say that?
+[00:00:50.720 --> 00:00:50.960] DATA: Yes, sir,
+[00:00:51.600 --> 00:00:52.960] DATA: but not quite as perspicuously.
+[00:00:55.840 --> 00:00:58.560] PICARD: I will not have you telling me what course to set.
+[00:00:58.880 --> 00:01:03.520] PULASKI: As Chief Medical Officer, I am ordering you to report to Starbase Five One Five immediately.
+[00:01:03.680 --> 00:01:05.440] PICARD: Oh, please. I feel fine.
+[00:01:06.160 --> 00:01:08.640] PULASKI: The truth is, you've ignored this far too long.
+[00:01:09.840 --> 00:01:11.680] PICARD: This ship has a mission to carry out.
+[00:01:12.720 --> 00:01:16.560] PULASKI: An astronomical survey to be conducted by the science officers, I believe.
+[00:01:16.880 --> 00:01:20.000] PICARD: And I 'was looking forward to seeing the Epsilon Pulsar Cluster for myself.
+[00:01:21.920 --> 00:01:23.680] PULASKI: Then we'll perform the procedure right here.
+[00:01:25.120 --> 00:01:25.920] PICARD: Absolutely not.
+[00:01:27.040 --> 00:01:30.080] PULASKI: My staff and I are fully capable of giving you the replacement.
+[00:01:30.800 --> 00:01:31.520] PICARD: That's not the point.
+[00:01:32.036 --> 00:01:32.436] PICARD: It would be It
+[00:01:35.156 --> 00:01:37.396] PICARD: would be inappropriate for you to carry out the procedure.
+[00:01:39.876 --> 00:01:41.476] PULASKI: Captain Picard, I had no idea.
+[00:01:43.316 --> 00:01:44.756] PULASKI: You do have an ego, don't you?
+[00:01:45.956 --> 00:01:46.356] PICARD: Meaning?
+[00:01:47.796 --> 00:01:49.396] PULASKI: You're concerned about your image.
+[00:01:50.756 --> 00:01:51.796] PULASKI: Don't worry.
+[00:01:52.516 --> 00:01:56.596] PULASKI: If you get yourself down to Starbase Five One Five, your image will be safe with me.
+[00:02:10.196 --> 00:02:11.156] WESLEY: Captain, excuse me.
+[00:02:11.156 --> 00:02:11.476] PICARD: Ensign.
+[00:02:12.836 --> 00:02:15.076] PICARD: I understand you're leaving for Starbase Five One Five.
+[00:02:15.476 --> 00:02:15.796] WESLEY: Yes, sir.
+[00:02:15.796 --> 00:02:17.076] WESLEY: I was just going to shuttlebay two.
+[00:02:17.316 --> 00:02:17.476] PICARD: Good.
+[00:02:17.476 --> 00:02:18.756] PICARD: I have business there.
+[00:02:18.756 --> 00:02:19.556] PICARD: I shall accompany you.
+[00:02:19.956 --> 00:02:20.356] WESLEY: You will?
+[00:02:22.516 --> 00:02:23.156] WESLEY: I mean, yes sir.
+[00:02:23.396 --> 00:02:24.836] PICARD: Prepare the shuttle for immediate departure.
+[00:02:25.636 --> 00:02:25.876] WESLEY: Aye, sir.
+[00:02:27.396 --> 00:02:29.796] RIKER: Something I can take care of for you on Starbase Five One Five?
+[00:02:31.156 --> 00:02:32.116] PICARD: Hardly, Number One.
+[00:02:32.516 --> 00:02:34.116] RIKER: But you'll miss the Epsilon Pulsar survey.
+[00:02:34.356 --> 00:02:35.476] PICARD: I'm well aware of that fact.
+[00:02:35.636 --> 00:02:36.356] PICARD: You have the Bridge.
+[00:02:36.436 --> 00:02:36.756] PICARD: Carry on.
+[00:02:48.916 --> 00:02:49.156] PICARD: Come.
+[00:02:50.196 --> 00:02:50.916] PICARD: Yes, what is it, Number One?
+[00:02:51.066 --> 00:02:51.666] RIKER: Is
+[00:02:52.676 --> 00:02:53.236] RIKER: something wrong?
+[00:02:53.556 --> 00:02:56.036] RIKER: This trip to Starbase Five One Five is rather unexpected.
+[00:02:56.516 --> 00:02:59.956] PICARD: Ensign Crusher and I will rendezvous with you on your return from the Epsilon Pulsar Cluster.
+[00:03:00.196 --> 00:03:03.076] RIKER: Forgive my saying so, sir, but you're being rather enigmatic.
+[00:03:04.059 --> 00:03:05.339] PICARD: Consider it Captain's privilege.
+[00:03:05.659 --> 00:03:07.899] RIKER: As First Officer, I have complete security clearance.
+[00:03:08.539 --> 00:03:10.459] PICARD: This has nothing to do with ship's business, Number One.
+[00:03:10.779 --> 00:03:14.939] PICARD: Suffice it to say, it is strictly a matter of image.
+[00:03:17.739 --> 00:03:18.219] LAFORGE: Relax, Wes.
+[00:03:18.299 --> 00:03:19.419] LAFORGE: You'll do fine on your exams.
+[00:03:19.419 --> 00:03:19.669] SONYA: Yeah.
+[00:03:19.669 --> 00:03:21.419] WESLEY: It's not my exams I'm worried about.
+[00:03:21.499 --> 00:03:22.219] WESLEY: It's Captain Picard.
+[00:03:22.699 --> 00:03:22.859] SONYA: Why?
+[00:03:23.019 --> 00:03:24.379] SONYA: He's not taking the exams.
+[00:03:25.339 --> 00:03:28.539] WESLEY: It's just the two of us, in a shuttlecraft for six hours.
+[00:03:28.939 --> 00:03:31.739] WESLEY: What am I going to talk to Captain Picard about for six hours?
+[00:03:31.899 --> 00:03:34.619] SONYA: Archaeology, semantics, literature, art.
+[00:03:35.259 --> 00:03:36.539] SONYA: You could learn a lot from Captain Picard.
+[00:03:38.379 --> 00:03:39.579] LAFORGE: Ah, Captain Picard.
+[00:03:41.739 --> 00:03:42.539] LAFORGE: Nice day for a little trip.
+[00:04:08.939 --> 00:04:10.539] WESLEY: Shuttle number two is ready for departure.
+[00:04:11.099 --> 00:04:13.819] DATA: The Enterprise is at impulse speed. You are cleared for take off.
+[00:04:14.939 --> 00:04:15.179] RIKER: Data,
+[00:04:30.172 --> 00:04:32.812] RIKER: wasn't the Captain looking forward to this mission to the Epsilon Pulsar Cluster?
+[00:04:33.692 --> 00:04:34.252] DATA: So he said.
+[00:04:34.412 --> 00:04:35.612] RIKER: Then what would make him change his mind?
+[00:04:35.612 --> 00:04:37.642] RIKER: Why would he leave the ship now?
+[00:04:37.642 --> 00:04:37.932] WORF: Commander,
+[00:04:38.492 --> 00:04:40.172] WORF: receiving a mayday on all frequencies.
+[00:04:40.572 --> 00:04:41.098] RIKER: Source?
+[00:04:41.098 --> 00:04:44.252] WORF: Rhomboid Dronegar Sector zero zero six
+[00:04:44.892 --> 00:04:45.692] RIKER: Detail?
+[00:04:45.692 --> 00:04:47.292] WORF: Ship. Unidentified.
+[00:04:48.172 --> 00:04:48.572] WORF: Distress.
+[00:04:48.732 --> 00:04:49.212] WORF: Nothing more.
+[00:04:51.052 --> 00:04:53.852] RIKER: Set course for Rhomboid Dronegar zero zero six, warp seven.
+[00:04:54.252 --> 00:04:58.732] DATA: Sir, Rhomboid Dronegar sector would put us at considerable distance from Captain Picard.
+[00:04:59.212 --> 00:04:59.852] RIKER: I know, Data.
+[00:05:01.212 --> 00:05:01.452] RIKER: I know.
+[00:05:22.572 --> 00:05:25.372] PICARD: Space, the final frontier.
+[00:05:27.212 --> 00:05:30.092] PICARD: These are the voyages of the Starship Enterprise.
+[00:05:31.212 --> 00:05:34.972] PICARD: Its continuing mission to explore strange new worlds, to
+[00:05:36.812 --> 00:05:39.532] PICARD: seek out new life and new civilizations,
+[00:05:41.132 --> 00:05:43.932] PICARD: to boldly go where no one has gone before.
+[00:05:56.810 --> 00:05:56.810] DATA: Entering
+[00:06:43.850 --> 00:06:46.250] DATA: Rhomboid Dronegar Sector zero zero six.
+[00:06:46.490 --> 00:06:47.690] WORF: I have a ship on target path.
+[00:06:48.010 --> 00:06:48.970] RIKER: Slow to impulse speed.
+[00:06:49.210 --> 00:06:49.530] HELM: Aye, sir.
+[00:06:52.330 --> 00:06:52.650] RIKER: Viewer.
+[00:06:53.290 --> 00:06:53.290] WORF: Deploy
+[00:06:57.690 --> 00:06:58.170] WORF: shields, sir?
+[00:06:58.410 --> 00:06:58.970] RIKER: Hold fast.
+[00:06:59.290 --> 00:06:59.530] RIKER: Data?
+[00:07:00.810 --> 00:07:03.850] DATA: Basic early design. Capable of sub-light travel only.
+[00:07:04.570 --> 00:07:06.250] WORF: Sir, we are being hailed.
+[00:07:07.050 --> 00:07:07.530] RIKER: On screen.
+[00:07:08.730 --> 00:07:10.970] RIKER: I am First Officer William Riker of the USS Enterprise.
+[00:07:10.970 --> 00:07:12.730] RIKER: We're responding to your distress signal.
+[00:07:13.770 --> 00:07:16.090] RIKER: What is your problem?
+[00:07:18.010 --> 00:07:19.450] GREBNEDLOG: We are far from home.
+[00:07:21.210 --> 00:07:21.770] RIKER: Aren't we all.
+[00:07:22.730 --> 00:07:23.770] RIKER: But you sent out a Mayday?
+[00:07:26.170 --> 00:07:26.970] RIKER: Do you need help?
+[00:07:28.667 --> 00:07:29.707] GREBNEDLOG: We are Pakleds.
+[00:07:30.187 --> 00:07:31.627] GREBNEDLOG: Our ship is the Mondor.
+[00:07:34.027 --> 00:07:34.747] GREBNEDLOG: It is broken.
+[00:07:37.707 --> 00:07:38.827] GREBNEDLOG: We are far from home.
+[00:07:39.467 --> 00:07:40.187] GREBNEDLOG: We need help.
+[00:07:41.707 --> 00:07:43.547] LAFORGE: Let me guess. Their rubber band broke, right?
+[00:07:44.747 --> 00:07:46.507] DATA: Sensors indicate engineering problems.
+[00:07:46.907 --> 00:07:51.787] DATA: They're experiencing total guidance system failure, with less than twenty four hours' reserve power.
+[00:07:51.867 --> 00:07:52.507] LAFORGE: Maybe I can help.
+[00:07:53.387 --> 00:07:54.587] RIKER: What brings you so far from home?
+[00:07:56.107 --> 00:07:57.067] GREBNEDLOG: We look for things.
+[00:07:57.467 --> 00:07:58.267] RIKER: What were you looking for?
+[00:08:00.027 --> 00:08:00.907] GREBNEDLOG: Things we need.
+[00:08:02.747 --> 00:08:03.947] RIKER: Can you be more specific?
+[00:08:05.627 --> 00:08:06.907] GREBNEDLOG: Things that make us go.
+[00:08:08.187 --> 00:08:08.827] GREBNEDLOG: We need help.
+[00:08:11.947 --> 00:08:13.307] RIKER: What is the nature of your mission?
+[00:08:14.107 --> 00:08:14.907] GREBNEDLOG: We look for things.
+[00:08:16.507 --> 00:08:17.067] RIKER: Did you hear an echo?
+[00:08:18.267 --> 00:08:20.587] LAFORGE: Commander, from the looks of their ship, I could have them up and running in no time.
+[00:08:20.587 --> 00:08:20.907] RIKER: You sure?
+[00:08:21.067 --> 00:08:21.547] LAFORGE: Yeah, no problem.
+[00:08:22.107 --> 00:08:22.507] RIKER: Very well.
+[00:08:23.387 --> 00:08:24.907] RIKER: Our Chief Engineer will beam over to help you.
+[00:08:28.587 --> 00:08:28.987] RIKER: Close.
+[00:08:29.867 --> 00:08:34.187] WORF: Commander? Do we truly need to send our Chief Engineer over to them?
+[00:08:34.907 --> 00:08:36.027] RIKER: Obviously they need our help.
+[00:08:37.227 --> 00:08:40.907] WORF: Why do we not simply give them the information they need to make their own repairs?
+[00:08:41.627 --> 00:08:44.587] RIKER: Do you honestly get the impression they could handle our technical specifications?
+[00:08:45.947 --> 00:08:47.467] WORF: We do not know anything about them.
+[00:08:48.267 --> 00:08:49.227] RIKER: Acknowledged, Mister Worf.
+[00:08:50.267 --> 00:08:51.947] RIKER: We have an obligation to render aid.
+[00:08:53.867 --> 00:08:55.787] RIKER: Report to the transporter Room with all necessary gear.
+[00:08:55.867 --> 00:08:56.187] LAFORGE: Aye, sir.
+[00:09:00.200 --> 00:09:01.400] WORF: We need more information.
+[00:09:01.400 --> 00:09:01.480] RIKER: Do
+[00:09:03.400 --> 00:09:04.280] RIKER: you have anything else on them?
+[00:09:04.680 --> 00:09:06.360] DATA: They are a relatively benign species.
+[00:09:07.320 --> 00:09:08.440] RIKER: Don't they seem a little slow?
+[00:09:09.000 --> 00:09:11.720] DATA: They may merely have poorly developed language skills.
+[00:09:12.280 --> 00:09:13.240] WORF: What about weapons?
+[00:09:16.040 --> 00:09:17.560] DATA: Scanners shows limited armaments.
+[00:09:18.360 --> 00:09:19.720] RIKER: I think we can relax, Mister Worf.
+[00:09:20.680 --> 00:09:22.520] RIKER: They can't even move their ship without our help.
+[00:09:23.000 --> 00:09:25.000] RIKER: We certainly have them outmanned and outgunned.
+[00:09:37.080 --> 00:09:39.160] WESLEY: ETA thirteen thirty hours, sir.
+[00:09:40.040 --> 00:09:41.560] WESLEY: It's not exactly warp speed.
+[00:09:42.440 --> 00:09:46.440] PICARD: More like a late twenty-second century interplanetary journey.
+[00:09:47.720 --> 00:09:48.040] WESLEY: Sir?
+[00:09:48.190 --> 00:09:48.790] PICARD: You
+[00:09:50.600 --> 00:09:51.960] PICARD: should read more history, Ensign.
+[00:09:52.680 --> 00:09:53.080] WESLEY: Yes, sir.
+[00:09:58.840 --> 00:10:01.400] PICARD: Complete waste of time.
+[00:10:02.840 --> 00:10:03.160] WESLEY: Pardon?
+[00:10:04.120 --> 00:10:05.720] PICARD: I shouldn't be taking this trip at all.
+[00:10:05.720 --> 00:10:07.160] PICARD: I should be back on board the Enterprise.
+[00:10:08.360 --> 00:10:10.600] WESLEY: Why are you coming with me to Starbase Five One Five, sir?
+[00:10:11.240 --> 00:10:12.520] PICARD: Well, it's certainly not my idea.
+[00:10:16.600 --> 00:10:17.400] PICARD: I'm sorry, Ensign,
+[00:10:17.400 --> 00:10:19.960] PICARD: I didn't mean to take it out on you.
+[00:10:20.120 --> 00:10:26.520] PICARD: I just hate the prospect of another damned cardiac replacement.
+[00:10:28.361 --> 00:10:29.401] WESLEY: Cardiac replacement?
+[00:10:31.001 --> 00:10:31.641] WESLEY: I didn't know.
+[00:10:34.041 --> 00:10:34.841] PICARD: Well, now you do.
+[00:10:36.441 --> 00:10:37.721] WESLEY: A parthenogenetic implant?
+[00:10:38.361 --> 00:10:39.081] PICARD: What else would it be?
+[00:10:42.441 --> 00:10:43.161] PICARD: My heart was
+[00:10:45.001 --> 00:10:45.401] PICARD: injured
+[00:10:47.801 --> 00:10:49.401] PICARD: and a replacement was necessary.
+[00:10:49.641 --> 00:10:52.921] PICARD: That would have been it, except that the replacement is faulty.
+[00:10:55.321 --> 00:10:57.161] WESLEY: Why would anyone use a faulty replacement?
+[00:10:57.881 --> 00:10:59.721] PICARD: Just pilot the shuttle, Ensign.
+[00:11:23.001 --> 00:11:23.881] LAFORGE: Whoa, whoa,
+[00:11:23.881 --> 00:11:24.361] LAFORGE: wait a minute,
+[00:11:24.441 --> 00:11:24.921] LAFORGE: it's okay.
+[00:11:25.481 --> 00:11:26.361] LAFORGE: I'm here to help.
+[00:11:31.001 --> 00:11:32.201] GREBNEDLOG: We are far from home.
+[00:11:34.841 --> 00:11:36.281] LAFORGE: Who's in charge of Engineering?
+[00:11:36.761 --> 00:11:37.401] GREBNEDLOG: My friend.
+[00:11:37.481 --> 00:11:38.761] GREBNEDLOG: His name is Reginod.
+[00:11:39.641 --> 00:11:40.281] LAFORGE: Think I could meet him?
+[00:11:44.921 --> 00:11:45.881] GREBNEDLOG: He is Reginod.
+[00:11:46.281 --> 00:11:47.401] LAFORGE: Yes, I think you mentioned that.
+[00:11:48.041 --> 00:11:49.081] REGINOD: We look for things.
+[00:11:49.961 --> 00:11:50.841] LAFORGE: So I've heard.
+[00:11:51.481 --> 00:11:52.761] GREBNEDLOG: Can you make our ship go?
+[00:11:54.361 --> 00:11:55.961] LAFORGE: Yes, I think so.
+[00:11:57.801 --> 00:12:00.121] GREBNEDLOG: We look for things to make us go.
+[00:12:01.204 --> 00:12:04.164] LAFORGE: Fellas, why don't you show me where your guidance system is,
+[00:12:04.564 --> 00:12:04.644] LAFORGE: okay?
+[00:12:08.724 --> 00:12:08.804] LAFORGE: Excuse me.
+[00:12:08.964 --> 00:12:09.684] REGINOD: He is smart.
+[00:12:22.564 --> 00:12:22.964] TROI: Commander?
+[00:12:28.404 --> 00:12:30.004] TROI: Lieutenant La Forge is on an alien ship?
+[00:12:30.244 --> 00:12:32.964] RIKER: Yes. We're rendering assistance to some curious throwbacks.
+[00:12:33.204 --> 00:12:36.404] DATA: How they ever mastered the rudiments of space travel is a genuine curiosity.
+[00:12:36.404 --> 00:12:41.364] TROI: Commander. Those aliens. What they feel is not helplessness.
+[00:12:41.524 --> 00:12:43.444] TROI: Lieutenant La Forge is in great danger!
+[00:12:47.444 --> 00:12:48.324] TROI: He's in danger,
+[00:12:48.804 --> 00:12:49.524] TROI: great danger.
+[00:12:50.244 --> 00:12:51.524] RIKER: Can you be more specific, Counsellor?
+[00:12:52.964 --> 00:12:54.164] TROI: It's not our help they want.
+[00:12:54.404 --> 00:12:55.684] RIKER: Well, our help is all they're going to get.
+[00:12:55.684 --> 00:12:57.284] RIKER: They can't force us into anything, can they?
+[00:12:58.324 --> 00:12:58.964] TROI: You think they're weak.
+[00:13:00.244 --> 00:13:00.564] RIKER: Look at them.
+[00:13:00.564 --> 00:13:02.164] RIKER: They're certainly not Jarada or Romulans.
+[00:13:02.804 --> 00:13:07.444] DATA: Our Betazoid Counsellor is often aware of things beyond our perceptive abilities.
+[00:13:07.444 --> 00:13:07.524] PICARD: Van
+[00:13:30.324 --> 00:13:33.364] PICARD: Doren's technique has been perfected to two point four percent.
+[00:13:34.611 --> 00:13:35.086] WESLEY: Sir?
+[00:13:35.086 --> 00:13:42.211] PICARD: The cardiac replacement procedure. It has a very low mortality rate. Two point four percent.
+[00:13:43.811 --> 00:13:44.851] WESLEY: Those are pretty good odds.
+[00:13:46.131 --> 00:13:51.651] PICARD: Just not overly thrilled at the prospect of having my innards becoming the subject of Starfleet gossip.
+[00:13:52.451 --> 00:13:53.411] WESLEY: Of course not, sir.
+[00:13:57.731 --> 00:13:58.851] WESLEY: Why didn't you just have Doctor
+[00:13:58.851 --> 00:14:00.211] WESLEY: Pulaski perform the operation?
+[00:14:01.171 --> 00:14:03.011] WESLEY: I'm sure you could've trusted her to keep it quiet.
+[00:14:05.491 --> 00:14:08.291] PICARD: Let's say I have personal reasons and leave it at that, shall
+[00:14:09.891 --> 00:14:11.891] PICARD: we?
+[00:14:16.291 --> 00:14:21.971] LAFORGE: The power needs to be rerouted through this venturi chamber before it can be channelled to the engine's coils.
+[00:14:25.331 --> 00:14:26.771] REGINOD: It is broken.
+[00:14:26.851 --> 00:14:28.211] LAFORGE: Yeah, but not for long.
+[00:14:28.291 --> 00:14:36.051] LAFORGE: See, we are going to reconfigure these separators, here and over here.
+[00:14:36.611 --> 00:14:38.851] RIKER: Lieutenant La Forge, this is Commander Riker. Come in.
+[00:14:38.931 --> 00:14:39.811] LAFORGE: Yes, Commander. Go ahead.
+[00:14:41.011 --> 00:14:41.491] RIKER: Are you all right?
+[00:14:42.451 --> 00:14:42.771] LAFORGE: Sure.
+[00:14:42.771 --> 00:14:43.491] LAFORGE: Why do you ask?
+[00:14:44.371 --> 00:14:48.371] RIKER: Counsellor Troi has expressed misgivings about your absence from the Enterprise.
+[00:14:48.851 --> 00:14:51.411] LAFORGE: I don't think there's anything to worry about.
+[00:14:52.931 --> 00:14:53.411] RIKER: Understood.
+[00:14:53.891 --> 00:14:56.051] RIKER: As soon as you complete the repairs, I want you back here.
+[00:14:56.211 --> 00:14:56.691] LAFORGE: Yes, sir,
+[00:14:56.851 --> 00:14:58.691] LAFORGE: I should be done here momentarily.
+[00:14:58.841 --> 00:14:59.441] LAFORGE: You
+[00:15:03.011 --> 00:15:07.251] LAFORGE: see? Like that.
+[00:15:15.891 --> 00:15:20.451] LAFORGE: There. Your guidance is now up and running.
+[00:15:26.051 --> 00:15:27.331] LAFORGE: Main power failure?
+[00:15:28.131 --> 00:15:29.171] GREBNEDLOG: Will our ship go now?
+[00:15:29.971 --> 00:15:33.171] LAFORGE: Your guidance is operational, but you're not going anywhere,
+[00:15:33.571 --> 00:15:35.091] LAFORGE: not with a main power failure.
+[00:15:36.291 --> 00:15:37.091] GREBNEDLOG: It is broken.
+[00:15:38.371 --> 00:15:39.491] REGINOD: Can you make it go?
+[00:15:41.571 --> 00:15:45.251] LAFORGE: Commander Riker? I have a problem.
+[00:15:46.131 --> 00:15:46.611] RIKER: On screen.
+[00:15:48.371 --> 00:15:51.491] LAFORGE: It looks like this is going to take a little bit longer than I anticipated.
+[00:15:57.491 --> 00:15:59.491] WESLEY: I
+[00:16:06.931 --> 00:16:09.571] WESLEY: guess you would have preferred Commander Riker as a travelling companion.
+[00:16:11.571 --> 00:16:11.731] PICARD: What?
+[00:16:14.051 --> 00:16:14.291] WESLEY: It's okay.
+[00:16:15.971 --> 00:16:17.091] WESLEY: You're not too comfortable with me.
+[00:16:18.611 --> 00:16:19.251] WESLEY: I understand.
+[00:16:23.571 --> 00:16:23.571] PICARD: Ensign.
+[00:16:25.171 --> 00:16:26.451] PICARD: Wesley, that's not true.
+[00:16:26.451 --> 00:16:27.571] PICARD: You're a fine young man.
+[00:16:28.931 --> 00:16:30.051] WESLEY: You don't have to say that, sir.
+[00:16:30.771 --> 00:16:32.051] WESLEY: It's pretty obvious how you feel.
+[00:16:32.931 --> 00:16:33.171] PICARD: Is it?
+[00:16:34.211 --> 00:16:34.531] PICARD: How so?
+[00:16:35.873 --> 00:16:36.753] WESLEY: Everyone knows.
+[00:16:37.233 --> 00:16:38.193] WESLEY: You don't like kids.
+[00:16:41.793 --> 00:16:42.273] WESLEY: That's too bad.
+[00:16:43.953 --> 00:16:45.233] WESLEY: You'd have made a good father.
+[00:16:53.233 --> 00:16:53.553] PICARD: Thank you.
+[00:17:02.193 --> 00:17:03.793] WESLEY: Didn't you ever wish you had kids of your own?
+[00:17:09.073 --> 00:17:10.993] PICARD: Wishing for a thing does not make it so.
+[00:17:11.143 --> 00:17:11.743] RIKER: We
+[00:17:26.673 --> 00:17:28.353] RIKER: send him over there for one set of repairs,
+[00:17:28.593 --> 00:17:29.393] RIKER: now they need him for more.
+[00:17:29.953 --> 00:17:31.633] DATA: Apparently, their ship is apparently quite fragile.
+[00:17:33.073 --> 00:17:34.513] RIKER: This is Riker on the Enterprise.
+[00:17:36.193 --> 00:17:37.313] LAFORGE: Almost got it, Commander.
+[00:17:39.873 --> 00:17:40.913] GREBNEDLOG: We look for things.
+[00:17:42.193 --> 00:17:44.593] RIKER: Apparently your ship is in need of more than minor repair.
+[00:17:45.073 --> 00:17:46.193] GREBNEDLOG: Things to make it go.
+[00:17:46.913 --> 00:17:49.633] RIKER: We will use our tractor beam to tow you to the nearest base.
+[00:17:50.833 --> 00:17:51.793] GREBNEDLOG: He can make it go.
+[00:17:52.353 --> 00:17:54.993] RIKER: Yes, but we need our Chief Engineer back on board our ship.
+[00:18:00.753 --> 00:18:01.633] GREBNEDLOG: He is smart.
+[00:18:04.273 --> 00:18:05.233] LAFORGE: All done, Commander.
+[00:18:06.193 --> 00:18:07.073] RIKER: Prepare to beam over.
+[00:18:07.393 --> 00:18:07.873] LAFORGE: Yes, sir.
+[00:18:08.842 --> 00:18:09.962] REGINOD: You are good.
+[00:18:10.202 --> 00:18:11.322] LAFORGE: We aim to please.
+[00:18:11.802 --> 00:18:13.002] REGINOD: We need you.
+[00:18:13.402 --> 00:18:13.722] LAFORGE: I'm flattered.
+[00:18:13.962 --> 00:18:17.002] LAFORGE: Look, fellas, I hate to repair and run, but if you'll excuse me.
+[00:18:18.042 --> 00:18:18.922] LAFORGE: One to beam aboard.
+[00:18:19.642 --> 00:18:20.202] LAFORGE: Hey! Don't!
+[00:18:20.522 --> 00:18:22.122] RIKER: Transporter
+[00:18:24.362 --> 00:18:24.522] RIKER: room,
+[00:18:24.842 --> 00:18:26.042] RIKER: beam La Forge back immediately.
+[00:18:27.082 --> 00:18:27.882] CHIEF: Aye negative response, sir.
+[00:18:28.522 --> 00:18:28.922] RIKER: Try again!
+[00:18:30.042 --> 00:18:30.762] CHIEF: Negative response!
+[00:18:31.242 --> 00:18:32.682] DATA: The Pakled ship has a shield up, sir.
+[00:18:33.322 --> 00:18:34.122] RIKER: A shield? What kind?
+[00:18:34.362 --> 00:18:38.202] DATA: It appears to be beyond their technology. Similar to Romulan shields.
+[00:18:39.082 --> 00:18:41.242] RIKER: Do not interfere with our transporter beam.
+[00:18:41.802 --> 00:18:42.762] RIKER: Drop your shields.
+[00:18:45.962 --> 00:18:46.282] RIKER: Status?
+[00:18:48.282 --> 00:18:50.522] WORF: Viewer transmission terminated and blocked.
+[00:18:51.082 --> 00:18:51.162] RIKER: Hail
+[00:19:02.042 --> 00:19:02.842] RIKER: on all frequencies.
+[00:19:03.402 --> 00:19:04.522] DATA: Running frequency search.
+[00:19:06.602 --> 00:19:07.082] DATA: Negative, sir.
+[00:19:07.482 --> 00:19:08.282] RIKER: They're ignoring us.
+[00:19:09.242 --> 00:19:09.802] DATA: Apparently so.
+[00:19:10.522 --> 00:19:11.082] RIKER: Shields up.
+[00:19:11.642 --> 00:19:12.042] WORF: Shields up.
+[00:19:12.762 --> 00:19:14.442] RIKER: Sensors at maximum sensitivity.
+[00:19:15.162 --> 00:19:16.042] DATA: Sensors at maximum.
+[00:19:16.922 --> 00:19:17.802] WORF: Phasers ready, sir.
+[00:19:20.922 --> 00:19:21.162] PICARD: Would you
+[00:19:27.802 --> 00:19:28.762] PICARD: care for some coffee, Ensign?
+[00:19:29.802 --> 00:19:30.442] WESLEY: No, thank you, sir.
+[00:19:32.122 --> 00:19:32.762] PICARD: How about a sandwich?
+[00:19:35.482 --> 00:19:36.282] WESLEY: I don't think so, sir.
+[00:19:36.922 --> 00:19:37.802] PICARD: Oh, come on, it's been
+[00:19:38.073 --> 00:19:38.473] PICARD: hours.
+[00:19:38.473 --> 00:19:39.193] PICARD: You must be hungry.
+[00:19:50.233 --> 00:19:50.633] WESLEY: Thank you, sir.
+[00:19:57.113 --> 00:19:57.273] PICARD: Here.
+[00:20:09.353 --> 00:20:10.073] WESLEY: Were you ever married?
+[00:20:13.193 --> 00:20:13.913] PICARD: Never had the time.
+[00:20:15.513 --> 00:20:16.313] WESLEY: Don't you ever get lonely?
+[00:20:19.833 --> 00:20:23.033] PICARD: For ambitious Starfleet officers, there are certain costs involved.
+[00:20:25.833 --> 00:20:28.713] PICARD: One must be cautious of long-term commitments, Wesley.
+[00:20:30.473 --> 00:20:31.113] WESLEY: No problem.
+[00:20:31.673 --> 00:20:32.473] WESLEY: Where women are concerned,
+[00:20:32.473 --> 00:20:33.753] WESLEY: I am in complete control.
+[00:20:35.993 --> 00:20:36.153] PICARD: Really?
+[00:20:36.153 --> 00:20:36.313] PICARD: I
+[00:20:38.393 --> 00:20:39.993] PICARD: always rather had to work at that.
+[00:20:44.153 --> 00:20:45.593] WESLEY: Have you always been so disciplined?
+[00:20:47.753 --> 00:20:48.233] PICARD: Good Lord, no.
+[00:20:49.433 --> 00:20:51.113] PICARD: If I was, I wouldn't have this problem.
+[00:20:52.793 --> 00:20:53.433] WESLEY: I don't understand.
+[00:20:56.713 --> 00:20:56.953] PICARD: Well, I
+[00:21:00.953 --> 00:21:03.993] PICARD: was a young Starfleet officer, not many years older than you are now.
+[00:21:06.073 --> 00:21:07.273] PICARD: Top of my Academy Class.
+[00:21:08.953 --> 00:21:09.753] PICARD: Green as hell.
+[00:21:09.903 --> 00:21:10.503] PICARD: And
+[00:21:11.521 --> 00:21:12.401] PICARD: oh, so cocky.
+[00:21:14.481 --> 00:21:15.601] PICARD: Too cocky, as it turned out.
+[00:21:16.961 --> 00:21:17.441] WESLEY: What happened?
+[00:21:18.241 --> 00:21:22.881] PICARD: Several friends and I were on leave at Farspace Starbase Earhart.
+[00:21:23.201 --> 00:21:26.561] PICARD: It was little more than a galactic outpost in those days.
+[00:21:27.121 --> 00:21:28.881] WESLEY: Was this before the Klingons joined the Federation?
+[00:21:29.761 --> 00:21:30.081] PICARD: That's right.
+[00:21:31.841 --> 00:21:46.881] PICARD: Well, my mates and I were at the Bonestell Recreation Facility, which was something of a dead rough crossroads at the time, filled with an assorted bunch of galactic riffraff.
+[00:21:48.481 --> 00:21:48.721] PICARD: When
+[00:21:50.401 --> 00:21:59.921] PICARD: a trio of Nausicaans came in, they were clearly spoiling for a confrontation with a group of fresh-faced Starfleet officers such as ourselves.
+[00:22:00.561 --> 00:22:07.681] PICARD: Well, everyone in the group had the good sense to give these Nausicaans a wide berth, to stand off. Everyone, that is, except me.
+[00:22:09.521 --> 00:22:19.201] PICARD: I stood toe to toe with the worst of the three, and I told him what I thought of him, his pals, his planet, and I possibly made some passing reference to his questionable parentage.
+[00:22:20.401 --> 00:22:24.161] PICARD: And the next thing I knew, all three of them were on me and I was fighting for my life.
+[00:22:26.161 --> 00:22:27.921] PICARD: I was actually doing quite well for a while, too.
+[00:22:29.601 --> 00:22:31.441] WESLEY: You fought them? And won?
+[00:22:33.201 --> 00:22:41.281] PICARD: I had this one Nausicaan down in this somewhat devious joint-lock when, unbeknownst to me, one of his chums
+[00:22:41.448 --> 00:22:44.648] PICARD: drew his weapon and impaled me through the back.
+[00:22:46.888 --> 00:22:47.928] PICARD: Curious sensation, actually.
+[00:22:49.048 --> 00:22:49.768] PICARD: Not much pain.
+[00:22:50.648 --> 00:22:56.968] PICARD: Shock, certainly, at the sight of serrated metal sticking through my chest.
+[00:22:57.118 --> 00:22:57.718] PICARD: A
+[00:22:59.368 --> 00:23:00.728] PICARD: certain giddy warmth.
+[00:23:01.128 --> 00:23:04.648] PICARD: In fact I do actually remember that I laughed out loud.
+[00:23:06.648 --> 00:23:07.928] PICARD: Well, it pierced my heart, of course.
+[00:23:09.768 --> 00:23:13.848] PICARD: Well, if we'd not been so near to a medical facility, I would surely have died.
+[00:23:14.728 --> 00:23:15.208] WESLEY: Really?
+[00:23:17.288 --> 00:23:17.928] WESLEY: Then what happened?
+[00:23:19.288 --> 00:23:19.288] PICARD: Nothing.
+[00:23:19.288 --> 00:23:21.688] PICARD: I was no hero, Wesley.
+[00:23:23.688 --> 00:23:29.448] PICARD: I was an undisciplined, loud-mouthed, opinionated young man who was way out of his league.
+[00:23:29.598 --> 00:23:30.198] PICARD: I
+[00:23:33.208 --> 00:23:34.088] PICARD: learned a very hard, very
+[00:23:35.608 --> 00:23:38.568] PICARD: painful lesson that day, but I learned it well.
+[00:23:40.248 --> 00:23:41.688] PICARD: I hope you never have to learn it the same way.
+[00:23:46.168 --> 00:23:47.320] PICARD: Care for another sandwich?
+[00:23:47.320 --> 00:23:47.608] WESLEY: Please.
+[00:23:47.608 --> 00:23:48.168] RIKER: Come
+[00:23:53.728 --> 00:23:55.728] RIKER: on,
+[00:24:01.288 --> 00:24:03.288] RIKER: Data.
+[00:24:04.728 --> 00:24:09.128] DATA: I am programming the comm. system to scan the interference patterns, but a full analysis will take time.
+[00:24:16.800 --> 00:24:17.840] LAFORGE: You be careful with that thing.
+[00:24:18.240 --> 00:24:19.440] GREBNEDLOG: You want to hurt us.
+[00:24:20.560 --> 00:24:20.720] LAFORGE: What?
+[00:24:22.160 --> 00:24:23.360] LAFORGE: I came here to help you.
+[00:24:23.600 --> 00:24:25.200] REGINOD: We can make more.
+[00:24:25.200 --> 00:24:26.400] GREBNEDLOG: Make more weapons.
+[00:24:26.880 --> 00:24:27.040] LAFORGE: Wait a
+[00:24:28.720 --> 00:24:29.040] LAFORGE: minute.
+[00:24:29.200 --> 00:24:30.800] LAFORGE: You have a replicator?
+[00:24:30.800 --> 00:24:32.400] GREBNEDLOG: It is not broken.
+[00:24:35.200 --> 00:24:37.040] LAFORGE: I didn't come here to give you weapons.
+[00:24:38.960 --> 00:24:40.080] GREBNEDLOG: You will make more.
+[00:24:45.920 --> 00:24:49.200] WORF: Commander, a photon torpedo may penetrate their shield.
+[00:24:49.360 --> 00:24:51.440] RIKER: Any hostile move on our part could jeopardise Geordi.
+[00:24:52.400 --> 00:24:52.720] WORF: Agreed.
+[00:24:52.720 --> 00:24:55.531] WORF: But what do the Pakleds want?
+[00:24:55.531 --> 00:24:56.000] RIKER: Counsellor?
+[00:24:57.440 --> 00:24:58.481] TROI: They have what they want.
+[00:24:59.280 --> 00:24:59.760] TROI: For now.
+[00:25:06.560 --> 00:25:10.080] WESLEY: We're approaching Starbase Five One Five, sir.
+[00:25:13.040 --> 00:25:13.680] PICARD: At last.
+[00:25:17.360 --> 00:25:17.360] PICARD: Did
+[00:25:21.680 --> 00:25:21.840] PICARD: you
+[00:25:25.280 --> 00:25:26.240] PICARD: read that book I gave you?
+[00:25:28.880 --> 00:25:29.440] WESLEY: Some of it.
+[00:25:32.481 --> 00:25:33.360] PICARD: That's reassuring.
+[00:25:33.360 --> 00:25:33.360] WESLEY: I
+[00:25:35.440 --> 00:25:36.400] WESLEY: just don't have much time.
+[00:25:38.000 --> 00:25:40.800] PICARD: There is no greater challenge than the study of philosophy.
+[00:25:42.240 --> 00:25:44.720] WESLEY: But William James won't be in my Starfleet exams.
+[00:25:45.600 --> 00:25:46.560] PICARD: The important things never will be.
+[00:25:48.000 --> 00:25:50.160] PICARD: Anyone can be trained in the
+[00:25:50.946 --> 00:25:53.026] PICARD: mechanics of piloting a starship.
+[00:25:53.026 --> 00:25:54.466] WESLEY: But Starfleet Academy
+[00:25:54.466 --> 00:25:55.906] PICARD: It takes more.
+[00:25:57.346 --> 00:26:01.906] PICARD: Open your mind to the past. Art, history, philosophy.
+[00:26:04.306 --> 00:26:05.906] PICARD: And all this may mean something.
+[00:26:12.866 --> 00:26:13.826] TROI: It's all deception.
+[00:26:14.786 --> 00:26:17.266] TROI: Nothing the Pakleds have said or done has been sincere.
+[00:26:18.226 --> 00:26:21.506] DATA: Intensified scan shows their guidance system to be perfectly intact,
+[00:26:21.986 --> 00:26:23.346] DATA: as is their power generator.
+[00:26:24.786 --> 00:26:25.826] RIKER: Then what was Geordi repairing?
+[00:26:26.786 --> 00:26:30.386] DATA: Apparently, the putative malfunctions were carefully programmed into their ship's computer.
+[00:26:31.026 --> 00:26:32.866] RIKER: I didn't think the Pakleds had that kind of technology.
+[00:26:33.506 --> 00:26:36.066] DATA: They seem to have made some technological leaps forward, Commander.
+[00:26:36.786 --> 00:26:38.546] RIKER: Why would they go through the charade of needing our help?
+[00:26:39.506 --> 00:26:42.466] TROI: For the sole purpose of making Lieutenant La Forge their prisoner.
+[00:26:48.226 --> 00:26:51.986] LOG: Captain's personal log, stardate 42779.5.
+[00:26:52.386 --> 00:26:54.626] LOG: We have arrived at Starbase Five One Five.
+[00:26:55.426 --> 00:27:00.386] LOG: I'm still quite uneasy, despite assurances that this medical procedure poses little risk.
+[00:27:02.866 --> 00:27:04.226] PICARD: I hope you won't be late for your exams.
+[00:27:04.626 --> 00:27:05.426] WESLEY: I still have some time, sir.
+[00:27:09.026 --> 00:27:12.626] PICARD: Why do I get the distinct impression you're acting like some kind of escort?
+[00:27:15.026 --> 00:27:17.826] WESLEY: Doctor Pulaski asked me to make sure you actually went inside.
+[00:27:20.466 --> 00:27:21.026] PICARD: That woman.
+[00:27:22.226 --> 00:27:22.706] PICARD: She would.
+[00:27:22.946 --> 00:27:23.186] WESLEY: Sir?
+[00:27:25.064 --> 00:27:25.784] PICARD: Yes, what is it, Ensign?
+[00:27:27.144 --> 00:27:28.424] WESLEY: I enjoyed our trip together, sir.
+[00:27:30.744 --> 00:27:31.224] PICARD: So did I.
+[00:27:40.904 --> 00:27:42.664] DATA: They are initiating visual contact, sir.
+[00:27:43.064 --> 00:27:44.504] RIKER: Maybe now we'll find out what they really want.
+[00:27:46.824 --> 00:27:47.384] GREBNEDLOG: Enterprise.
+[00:27:48.104 --> 00:27:50.744] RIKER: We demand that you return our crewmember immediately.
+[00:27:51.384 --> 00:27:52.184] GREBNEDLOG: Request denied.
+[00:27:52.984 --> 00:27:54.104] RIKER: Lower your shield!
+[00:27:55.224 --> 00:27:56.264] GREBNEDLOG: Request denied.
+[00:27:56.264 --> 00:27:58.104] RIKER: Stop it!
+[00:28:02.264 --> 00:28:02.984] RIKER: What do you want?
+[00:28:04.184 --> 00:28:05.544] GREBNEDLOG: You think we are not smart.
+[00:28:07.864 --> 00:28:09.864] RIKER: I think you need to continue to develop.
+[00:28:11.784 --> 00:28:12.504] GREBNEDLOG: We are smart.
+[00:28:13.784 --> 00:28:14.104] RIKER: Prove it.
+[00:28:14.904 --> 00:28:16.024] RIKER: Return our man to us.
+[00:28:17.464 --> 00:28:17.944] GREBNEDLOG: You want him?
+[00:28:19.064 --> 00:28:19.704] RIKER: Yes,
+[00:28:19.784 --> 00:28:20.024] RIKER: damn it.
+[00:28:22.344 --> 00:28:22.664] GREBNEDLOG: Good.
+[00:28:24.264 --> 00:28:26.504] GREBNEDLOG: We want all computer information from your ship.
+[00:28:29.304 --> 00:28:29.464] GREBNEDLOG: Now.
+[00:28:31.704 --> 00:28:31.704] RIKER: We've
+[00:28:34.664 --> 00:28:36.984] RIKER: got a
+[00:28:38.644 --> 00:28:40.304] RIKER: man
+[00:28:41.964 --> 00:28:46.424] RIKER: held hostage by alien forces and all I have are no-option options.
+[00:28:47.224 --> 00:28:47.944] RIKER: I need some input.
+[00:28:48.424 --> 00:28:49.544] PULASKI: Is Geordi all right?
+[00:28:50.024 --> 00:28:51.464] WORF: He's already been hit by multiple
+[00:28:51.502 --> 00:28:52.142] WORF: phaser stuns.
+[00:28:52.782 --> 00:28:54.062] PULASKI: He could need medical attention.
+[00:28:54.782 --> 00:28:56.942] WORF: Security team stands ready to take the initiative, sir.
+[00:28:57.582 --> 00:28:57.929] RIKER: Data?
+[00:28:57.929 --> 00:28:59.662] DATA: Our options have not changed.
+[00:29:00.222 --> 00:29:02.462] DATA: We can either respond to the Pakled demand or not.
+[00:29:03.182 --> 00:29:05.022] DATA: We can either use force or not.
+[00:29:06.062 --> 00:29:09.022] RIKER: Allowing them access to our computer is a complete breech of Starfleet security.
+[00:29:09.422 --> 00:29:10.622] WORF: Then force it must be.
+[00:29:24.142 --> 00:29:25.262] SURGEON: Don't worry about a thing, Captain.
+[00:29:25.662 --> 00:29:27.982] SURGEON: We've done this a hundred times, and we're ready when you are.
+[00:29:28.702 --> 00:29:29.822] PICARD: Just get on with it, Doctor.
+[00:29:29.822 --> 00:29:30.782] PICARD: I've got work to do.
+[00:29:31.902 --> 00:29:33.182] SURGEON: Activate Sterile Field.
+[00:29:36.062 --> 00:29:36.942] SURGEON: Neural callipers.
+[00:29:47.262 --> 00:29:52.782] SURGEON: This will be a secondary cardiac procedure with mid-line entry and excision of the early model unit.
+[00:29:53.662 --> 00:30:00.622] SURGEON: I anticipate no complications, as the patient has had positive primary results and exhibits extraordinary physical condition.
+[00:30:01.262 --> 00:30:02.702] SURGEON: We'll all be home in time for dinner.
+[00:30:04.062 --> 00:30:04.782] SURGEON: Tissue mitigator.
+[00:30:06.782 --> 00:30:17.662] DATA: There's limited information available on Pakled culture, but the eclectic range of their equipment suggests their technology was borrowed from others.
+[00:30:17.982 --> 00:30:19.502] TROI: And now they have become militant.
+[00:30:19.982 --> 00:30:20.542] DATA: So it would seem.
+[00:30:21.242 --> 00:30:21.722] RIKER: Rationale?
+[00:30:23.002 --> 00:30:28.202] TROI: They are unwilling to wait for the timely evolution of their species' intellectual capacity.
+[00:30:28.682 --> 00:30:32.122] TROI: They want instant knowledge, instant power and gratification.
+[00:30:33.082 --> 00:30:34.122] PULASKI: The more they get, the more they want.
+[00:30:34.282 --> 00:30:36.042] RIKER: And the more aggressive and dangerous they become.
+[00:30:36.762 --> 00:30:38.842] RIKER: I think it's time we set some limits.
+[00:30:39.242 --> 00:30:39.962] DATA: To what effect, sir?
+[00:30:40.442 --> 00:30:42.042] DATA: We are faced with an impossible conundrum.
+[00:30:42.922 --> 00:30:46.442] RIKER: Suppose we turn their impatience and greed against them?
+[00:30:46.442 --> 00:30:46.762] PULASKI: But how?
+[00:30:47.642 --> 00:30:50.842] RIKER: Perhaps Geordi should give them something they want. Something important.
+[00:30:51.082 --> 00:30:55.162] RIKER: Then we simply create the right moment for him to take it away, and get him the hell out of there.
+[00:30:55.962 --> 00:30:58.122] TROI: Would you be suggesting a ruse of some sort?
+[00:30:58.602 --> 00:30:59.082] RIKER: I would.
+[00:31:00.362 --> 00:31:01.562] PULASKI: But what if we fail?
+[00:31:02.282 --> 00:31:03.242] PULASKI: What'll happen to Geordi then?
+[00:31:03.962 --> 00:31:04.922] RIKER: We have no other choice.
+[00:31:05.482 --> 00:31:06.042] RIKER: We have to try.
+[00:31:12.842 --> 00:31:14.762] SURGEON: There's been some capillary reaction here.
+[00:31:15.562 --> 00:31:16.602] SURGEON: Let's proceed carefully.
+[00:31:17.962 --> 00:31:24.362] SURGEON: We'll need sharper focus on the thoracic polychromatics and verification of myocardial enzyme balance.
+[00:31:24.512 --> 00:31:25.681] LAFORGE: Let me talk to them.
+[00:31:25.681 --> 00:31:27.083] LAFORGE: I'll get you their computer banks.
+[00:31:27.083 --> 00:31:28.251] GREBNEDLOG: We want to be smart.
+[00:31:28.251 --> 00:31:29.420] LAFORGE: So open the hailing frequency.
+[00:31:29.420 --> 00:31:30.355] LAFORGE: They'll listen to me.
+[00:31:30.355 --> 00:31:31.056] GREBNEDLOG: We are smart.
+[00:31:31.056 --> 00:31:32.225] REGINOD: We need their computer things.
+[00:31:32.225 --> 00:31:32.458] GREBNEDLOG: Yes.
+[00:31:32.458 --> 00:31:32.692] GREBNEDLOG: Yes.
+[00:31:32.842 --> 00:31:33.082] LAFORGE: Hey,
+[00:31:35.242 --> 00:31:35.882] LAFORGE: let me talk to him.
+[00:31:37.082 --> 00:31:38.202] LAFORGE: I'll get you their computer banks.
+[00:31:39.402 --> 00:31:40.442] GREBNEDLOG: We want to be smart.
+[00:31:40.762 --> 00:31:42.602] LAFORGE: So open the hailing frequency.
+[00:31:43.402 --> 00:31:44.042] LAFORGE: They'll listen to me.
+[00:31:46.362 --> 00:31:47.162] GREBNEDLOG: We are smart.
+[00:31:47.802 --> 00:31:49.642] REGINOD: We need their computer things.
+[00:31:50.602 --> 00:31:51.002] GREBNEDLOG: Yes.
+[00:31:52.922 --> 00:31:53.402] GREBNEDLOG: Yes.
+[00:31:56.083 --> 00:31:56.643] LAFORGE: Commander Riker?
+[00:31:57.123 --> 00:31:57.683] RIKER: Yes, Lieutenant,
+[00:31:57.683 --> 00:31:58.163] RIKER: we're here.
+[00:31:58.803 --> 00:32:00.963] LAFORGE: The Pakleds seem pretty sincere.
+[00:32:02.083 --> 00:32:03.203] GREBNEDLOG: We want what we want.
+[00:32:03.683 --> 00:32:05.603] RIKER: Our computer banks are non-negotiable.
+[00:32:05.763 --> 00:32:06.403] GREBNEDLOG: We want them.
+[00:32:07.283 --> 00:32:07.683] LAFORGE: Believe me, they're
+[00:32:08.323 --> 00:32:10.003] LAFORGE: nothing if not persistent.
+[00:32:11.203 --> 00:32:13.123] GREBNEDLOG: We want to be nothing if not persistent.
+[00:32:14.563 --> 00:32:16.483] LAFORGE: Nobody ever said they were great conversationalists.
+[00:32:17.363 --> 00:32:18.963] RIKER: Where did they get their shields?
+[00:32:19.603 --> 00:32:21.123] GREBNEDLOG: Yes. We like shields.
+[00:32:21.603 --> 00:32:30.483] LAFORGE: Well, from what I've seen, half the systems on this ship have been stolen from Romulans, Klingons, Jarada, just about anybody they've ever came in contact with.
+[00:32:31.283 --> 00:32:32.323] GREBNEDLOG: We like to be smart.
+[00:32:33.523 --> 00:32:35.203] RIKER: Confirmed, Lieutenant La Forge.
+[00:32:35.603 --> 00:32:36.583] RIKER: They steal technology.
+[00:32:36.583 --> 00:32:39.523] DATA: But they lack the ability to use it properly.
+[00:32:40.883 --> 00:32:43.443] RIKER: You're an excellent Chief Engineer, Lieutenant La Forge.
+[00:32:44.243 --> 00:32:44.723] LAFORGE: Thank you, sir.
+[00:32:46.003 --> 00:32:49.363] RIKER: And of course your knowledge of phaser and photon weaponry is unmatched.
+[00:32:50.003 --> 00:32:51.523] LAFORGE: That's nice of you to say, sir,
+[00:32:51.523 --> 00:32:53.603] LAFORGE: but really Lieutenant Worf
+[00:32:53.683 --> 00:33:00.323] RIKER: Our missions are always inherently dangerous, and any of us could be called upon to make the ultimate sacrifice at any time.
+[00:33:01.203 --> 00:33:01.683] LAFORGE: Yes, sir,
+[00:33:02.563 --> 00:33:02.990] LAFORGE: but
+[00:33:02.990 --> 00:33:06.403] RIKER: Speaking of time. This may be your time.
+[00:33:07.763 --> 00:33:08.883] RIKER: I shall personally miss you.
+[00:33:10.803 --> 00:33:11.523] DATA: Goodbye, Geordi.
+[00:33:12.323 --> 00:33:14.643] DATA: I shall miss you at weapons systems analysis.
+[00:33:17.043 --> 00:33:20.643] LAFORGE: And I guess you'll just have to arm your photon
+[00:33:20.685 --> 00:33:22.349] LAFORGE: torpedo countdowns without me.
+[00:33:22.349 --> 00:33:24.845] DATA: As well as our hydrogen collectors.
+[00:33:25.805 --> 00:33:26.685] DATA: Fond farewell.
+[00:33:28.205 --> 00:33:29.165] GREBNEDLOG: He knows about weapons.
+[00:33:30.205 --> 00:33:31.565] REGINOD: You can make us strong.
+[00:33:32.525 --> 00:33:34.125] LAFORGE: It's not something I really like to talk about.
+[00:33:34.365 --> 00:33:38.205] WORF: Any classified weapons knowledge you share with your captors will be considered treason.
+[00:33:38.765 --> 00:33:40.045] LAFORGE: But I may have no choice.
+[00:33:41.005 --> 00:33:42.525] WORF: You will die without honour.
+[00:33:43.725 --> 00:33:44.445] LAFORGE: Thanks a lot, Worf.
+[00:33:45.245 --> 00:33:48.125] WORF: You will never attain the twenty fourth level of awareness.
+[00:33:49.005 --> 00:33:50.125] LAFORGE: Twenty-four?
+[00:33:50.765 --> 00:33:53.005] LAFORGE: That's quite a challenge.
+[00:33:53.805 --> 00:33:57.485] WORF: Indeed. Twenty four is the gateway to heroic salvation.
+[00:34:00.845 --> 00:34:00.925] PULASKI: Do
+[00:34:03.565 --> 00:34:04.525] PULASKI: you think he understands?
+[00:34:05.165 --> 00:34:05.485] RIKER: He'd better.
+[00:34:06.125 --> 00:34:06.765] TROI: He's afraid.
+[00:34:07.965 --> 00:34:08.925] RIKER: We all are, Counsellor.
+[00:34:14.525 --> 00:34:15.245] GREBNEDLOG: You are smart.
+[00:34:17.165 --> 00:34:17.965] LAFORGE: Not smart enough.
+[00:34:18.525 --> 00:34:19.165] LAFORGE: I'm still here.
+[00:34:20.445 --> 00:34:21.165] GREBNEDLOG: Make us strong.
+[00:34:22.685 --> 00:34:24.205] LAFORGE: I thought you wanted me to help you go.
+[00:34:25.565 --> 00:34:27.485] LAFORGE: Why don't we work on that guidance system, okay?
+[00:34:28.525 --> 00:34:29.405] GREBNEDLOG: Make us strong,
+[00:34:30.845 --> 00:34:31.165] GREBNEDLOG: or die.
+[00:34:41.245 --> 00:34:42.285] SURGEON: It's not working.
+[00:34:42.445 --> 00:34:43.245] SURGEON: Something's wrong.
+[00:34:44.445 --> 00:34:46.365] SURGEON: The metabolation occlusions aren't holding.
+[00:34:49.565 --> 00:34:49.885] SURGEON: Damn it!
+[00:34:50.285 --> 00:34:52.605] SURGEON: I can't stop the heterocyclic declination.
+[00:34:53.456 --> 00:34:53.936] SURGEON: Fuse.
+[00:34:56.016 --> 00:34:56.336] SURGEON: Again!
+[00:35:02.416 --> 00:35:04.736] SURGEON: We need a biomolecular physiologist in here.
+[00:35:05.536 --> 00:35:06.496] SURGEON: This man is dying.
+[00:35:07.056 --> 00:35:07.456] MEDIC: Right away, sir.
+[00:35:25.376 --> 00:35:26.656] LAFORGE: You've got to be kidding.
+[00:35:27.616 --> 00:35:28.576] GREBNEDLOG: Make us strong.
+[00:35:28.736 --> 00:35:31.696] LAFORGE: Come on. There's not enough juice in these to blow up a passing asteroid.
+[00:35:32.256 --> 00:35:32.656] GREBNEDLOG: Do it.
+[00:35:33.216 --> 00:35:35.376] GREBNEDLOG: Make us strong.
+[00:35:35.536 --> 00:35:38.336] LAFORGE: I suppose we could increase the anti-matter charges.
+[00:35:38.816 --> 00:35:39.136] REGINOD: Yes.
+[00:35:39.376 --> 00:35:40.336] REGINOD: We like power.
+[00:35:42.736 --> 00:35:43.136] LAFORGE: Yeah.
+[00:35:43.456 --> 00:35:44.976] GREBNEDLOG: Do not try to trick us.
+[00:35:44.976 --> 00:35:46.656] GREBNEDLOG: We can tell.
+[00:36:03.456 --> 00:36:04.016] PHYSIOLOGIST: Metabolation?
+[00:36:05.536 --> 00:36:05.776] SURGEON: Negative.
+[00:36:06.576 --> 00:36:06.576] PHYSIOLOGIST: Heterocyclics?
+[00:36:08.336 --> 00:36:08.336] SURGEON: Failing.
+[00:36:09.296 --> 00:36:12.816] SURGEON: And capillary integrity too unpredictable to attempt a resect.
+[00:36:13.536 --> 00:36:14.816] PHYSIOLOGIST: You're unwilling to make the attempt??
+[00:36:16.976 --> 00:36:17.856] SURGEON: I'm not qualified.
+[00:36:19.296 --> 00:36:20.256] PHYSIOLOGIST: I know someone who is.
+[00:36:25.839 --> 00:36:27.999] SONYA: Are you sure he can do it, sir?
+[00:36:28.319 --> 00:36:31.039] SONYA: Geordi's an engineer, not a weapons specialist.
+[00:36:31.039 --> 00:36:32.479] RIKER: If anyone can improvise, it's Geordi.
+[00:36:33.199 --> 00:36:35.519] SONYA: What makes you think the Pakleds even have that kind of gear on board?
+[00:36:36.159 --> 00:36:38.879] DATA: Ongoing scanning indicates progressive weapons potential.
+[00:36:39.359 --> 00:36:40.399] DATA: The timing will be crucial.
+[00:36:40.799 --> 00:36:42.879] DATA: Geordi must correctly interpret our intentions.
+[00:36:43.199 --> 00:36:43.999] RIKER: Geordi's up to speed.
+[00:36:44.319 --> 00:36:45.199] RIKER: I trust his instincts.
+[00:36:45.439 --> 00:36:48.399] DATA: The Pakleds did hear our little fiction about Geordi's weapons knowledge.
+[00:36:48.799 --> 00:36:53.279] RIKER: Exactly. And since they equate intelligence with strength, they won't pass up the chance to use that knowledge.
+[00:36:53.839 --> 00:36:54.319] RIKER: Can you do it?
+[00:36:55.119 --> 00:36:55.599] SONYA: Count on it.
+[00:36:56.159 --> 00:36:57.119] WORF: Bridge to Commander Riker!
+[00:36:58.959 --> 00:36:59.679] RIKER: Go ahead, Bridge.
+[00:37:00.159 --> 00:37:03.199] WORF: I am receiving an emergency summons from Starbase Five One Five.
+[00:37:03.999 --> 00:37:05.919] WORF: Captain Picard Is close to death.
+[00:37:05.919 --> 00:37:05.919] RIKER: Be
+[00:37:09.279 --> 00:37:09.599] RIKER: ready.
+[00:37:19.439 --> 00:37:20.639] REGINOD: We are strong.
+[00:37:21.039 --> 00:37:22.159] LAFORGE: You're now armed to the teeth.
+[00:37:23.039 --> 00:37:23.999] GREBNEDLOG: Teeth are for chewing.
+[00:37:24.879 --> 00:37:26.639] LAFORGE: You have photon torpedo.
+[00:37:27.599 --> 00:37:28.319] LAFORGE: You are strong.
+[00:37:29.199 --> 00:37:30.239] GREBNEDLOG: We are strong.
+[00:37:31.359 --> 00:37:32.239] GREBNEDLOG: We have power.
+[00:37:38.079 --> 00:37:40.959] DATA: Positive indication of armed photon torpedoes, Commander.
+[00:37:41.279 --> 00:37:41.999] RIKER: Geordi did it.
+[00:37:42.399 --> 00:37:44.639] WORF: Starbase requests we proceed to base at warp nine
+[00:37:45.199 --> 00:37:45.839] PULASKI: We've got to go.
+[00:37:46.159 --> 00:37:47.839] TROI: Yes. the Captain needs our help.
+[00:37:48.399 --> 00:37:49.439] RIKER: We can't leave Geordi behind.
+[00:37:50.799 --> 00:37:53.119] RIKER: I want the Pakleds on that screen and I want them now.
+[00:37:53.464 --> 00:37:55.784] DATA: Forced spectrum communications are spotty at best, sir.
+[00:37:56.024 --> 00:37:56.424] RIKER: Do it.
+[00:37:59.224 --> 00:37:59.944] RIKER: This is the Enterprise.
+[00:38:00.024 --> 00:38:02.024] RIKER: Return our personnel or face immediate reprisal.
+[00:38:03.624 --> 00:38:04.584] GREBNEDLOG: We are strong now.
+[00:38:04.904 --> 00:38:06.024] GREBNEDLOG: We have better weapons.
+[00:38:07.304 --> 00:38:08.424] RIKER: Are you prepared to use them?
+[00:38:09.224 --> 00:38:10.424] REGINOD: We are a force now.
+[00:38:10.744 --> 00:38:12.184] REGINOD: We will have respect.
+[00:38:12.744 --> 00:38:13.224] REGINOD: Power.
+[00:38:14.024 --> 00:38:14.904] RIKER: We don't have time for this.
+[00:38:15.304 --> 00:38:16.104] RIKER: You want power?
+[00:38:16.584 --> 00:38:17.144] RIKER: Here's power.
+[00:38:17.864 --> 00:38:18.824] RIKER: Riker to Ensign Gomez.
+[00:38:19.944 --> 00:38:21.224] SONYA: Ready, Commander Riker.
+[00:38:21.464 --> 00:38:22.104] RIKER: Prepare firing sequencing.
+[00:38:23.224 --> 00:38:23.944] RIKER: Start firing
+[00:38:23.944 --> 00:38:25.464] RIKER: countdown from twenty four.
+[00:38:26.744 --> 00:38:27.544] LAFORGE: I can't believe it!
+[00:38:27.544 --> 00:38:29.304] LAFORGE: My friends, my people, they're trying to kill us!
+[00:38:29.624 --> 00:38:30.264] LAFORGE: Kill me!
+[00:38:30.584 --> 00:38:31.144] GREBNEDLOG: Believe it.
+[00:38:31.544 --> 00:38:32.344] GREBNEDLOG: They are violent.
+[00:38:32.824 --> 00:38:33.064] LAFORGE: Okay,
+[00:38:33.464 --> 00:38:34.024] LAFORGE: they want to play rough,
+[00:38:34.024 --> 00:38:34.744] LAFORGE: that's fine with me.
+[00:38:34.904 --> 00:38:35.864] LAFORGE: Just let me check something.
+[00:38:37.624 --> 00:38:37.784] GREBNEDLOG: Good.
+[00:38:38.744 --> 00:38:40.104] GREBNEDLOG: He is on our side now.
+[00:38:41.144 --> 00:38:42.424] RIKER: Begin firing sequence.
+[00:38:47.704 --> 00:38:47.704] COMPUTER: Twenty
+[00:38:48.424 --> 00:38:48.424] COMPUTER: four, twenty three Twenty two.
+[00:38:50.504 --> 00:38:51.635] COMPUTER: twenty one, twenty
+[00:38:51.635 --> 00:38:53.144] WORF: Firing sequence proceeding, sir.
+[00:38:53.144 --> 00:38:53.624] RIKER: Hold fast.
+[00:38:53.784 --> 00:38:54.024] COMPUTER: Eighteen,
+[00:38:55.624 --> 00:38:55.864] COMPUTER: seventeen COMPUTER
+[00:38:57.624 --> 00:38:57.784] COMPUTER: Sixteen,
+[00:38:57.784 --> 00:38:57.784] COMPUTER: fifteen
+[00:38:59.544 --> 00:39:00.664] LAFORGE: Don't do anything yet.
+[00:39:00.824 --> 00:39:01.064] COMPUTER: Fourteen, thirteen.
+[00:39:02.984 --> 00:39:03.704] REGINOD: What are you doing?
+[00:39:03.944 --> 00:39:05.464] LAFORGE: Making sure your systems are operative.
+[00:39:06.104 --> 00:39:06.744] GREBNEDLOG: We will attack.
+[00:39:07.144 --> 00:39:08.104] GREBNEDLOG: We are strong.
+[00:39:08.824 --> 00:39:09.144] COMPUTER: Nine,
+[00:39:10.584 --> 00:39:10.744] COMPUTER: eight,
+[00:39:12.184 --> 00:39:12.424] COMPUTER: seven,
+[00:39:13.784 --> 00:39:13.864] COMPUTER: six,
+[00:39:15.224 --> 00:39:15.384] COMPUTER: five
+[00:39:16.664 --> 00:39:17.944] REGINOD: We should attack now.
+[00:39:17.944 --> 00:39:18.744] LAFORGE: Just another second.
+[00:39:18.744 --> 00:39:19.944] LAFORGE: We can't afford a mis-fire here.
+[00:39:20.264 --> 00:39:20.424] COMPUTER: Two, one.
+[00:39:21.723 --> 00:39:21.963] GREBNEDLOG: Hurry.
+[00:39:24.283 --> 00:39:24.443] RIKER: Fire.
+[00:39:26.363 --> 00:39:28.363] LAFORGE: Now!
+[00:39:28.513 --> 00:39:29.113] LAFORGE: No!
+[00:39:30.763 --> 00:39:32.123] LAFORGE: Too late!
+[00:39:32.283 --> 00:39:33.163] REGINOD: We have fired!
+[00:39:33.483 --> 00:39:35.003] REGINOD: They will be destroyed.
+[00:39:35.083 --> 00:39:36.683] LAFORGE: They used their crimson force field.
+[00:39:37.163 --> 00:39:38.443] GREBNEDLOG: It did not shoot.
+[00:39:40.043 --> 00:39:41.803] LAFORGE: No, the crimson force field has disarmed us.
+[00:39:43.723 --> 00:39:44.843] REGINOD: They are smart.
+[00:39:46.923 --> 00:39:47.883] GREBNEDLOG: We are not strong.
+[00:39:48.683 --> 00:39:49.323] RIKER: Drop your shields.
+[00:39:49.883 --> 00:39:52.203] RIKER: Allow us transport Lieutenant La Forge immediately.
+[00:39:55.483 --> 00:39:56.283] DATA: Shields are down.
+[00:39:57.163 --> 00:39:57.803] RIKER: Transporter room,
+[00:39:57.803 --> 00:39:58.763] RIKER: beam one to the Bridge.
+[00:39:59.243 --> 00:39:59.563] CHIEF: Aye, sir.
+[00:40:09.563 --> 00:40:11.323] RIKER: Set heading for Starbase Five One Five,
+[00:40:11.323 --> 00:40:11.883] RIKER: warp nine.
+[00:40:13.243 --> 00:40:16.443] LAFORGE: Blowing that hydrogen exhaust through the Bussard collectors sure put on a nice light show.
+[00:40:16.683 --> 00:40:17.563] RIKER: Harmless, but effective.
+[00:40:18.683 --> 00:40:19.963] RIKER: Were you able disable the photons?
+[00:40:20.043 --> 00:40:20.683] LAFORGE: Just in time.
+[00:40:20.843 --> 00:40:21.803] LAFORGE: That's why you're still here.
+[00:40:32.523 --> 00:40:33.243] NURSE: Deactivating neural callipers.
+[00:40:33.243 --> 00:40:33.723] PICARD: What the
+[00:40:57.387 --> 00:40:59.067] PICARD: hell are you doing here?
+[00:41:02.267 --> 00:41:03.067] PULASKI: Saving your life.
+[00:41:04.827 --> 00:41:05.867] PICARD: Oh, come on.
+[00:41:08.347 --> 00:41:11.707] PICARD: This is a routine procedure. Quite commonplace.
+[00:41:12.507 --> 00:41:12.827] PULASKI: True.
+[00:41:14.347 --> 00:41:16.587] PULASKI: But you are not a commonplace
+[00:41:18.187 --> 00:41:20.187] PULASKI: man.
+[00:41:20.347 --> 00:41:22.187] PULASKI: You'll be out of recovery in four hours.
+[00:41:22.187 --> 00:41:25.867] PICARD: I didn't want you involved in this.
+[00:41:27.467 --> 00:41:27.867] PULASKI: You're welcome.
+[00:41:30.107 --> 00:41:30.827] PICARD: If you're here, the
+[00:41:32.347 --> 00:41:33.547] PICARD: entire crew must know.
+[00:41:36.027 --> 00:41:38.107] PULASKI: You're still the Captain. Invincible.
+[00:41:40.747 --> 00:41:41.387] PICARD: Thank you.
+[00:41:41.387 --> 00:41:42.347] PICARD: I
+[00:41:59.627 --> 00:42:00.347] PICARD: beg your pardon?
+[00:42:02.107 --> 00:42:03.387] LAFORGE: Looks like things are back to normal.
+[00:42:04.747 --> 00:42:10.027] PICARD: I'm pleased to report that Ensign Crusher's Starfleet exam results permit him to continue his studies on board the Enterprise.
+[00:42:11.387 --> 00:42:16.187] PICARD: Furthermore, any rumours of my brush with death are greatly exaggerated.
+[00:42:16.187 --> 00:42:16.827] PICARD: Is that clear?
+[00:42:17.387 --> 00:42:17.787] RIKER: Yes, sir.
+[00:42:18.987 --> 00:42:20.187] PICARD: Then, Ensign Crusher,
+[00:42:20.957 --> 00:42:23.517] PICARD: set course for the Epsilon Sector, warp five.
+[00:42:24.877 --> 00:42:25.437] PICARD: Engage.
+[00:42:31.000 --> 00:42:39.000] [music]
+[00:43:09.000 --> 00:43:20.000] [music]

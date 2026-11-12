@@ -1,0 +1,697 @@
+[00:00:02.880 --> 00:00:05.840] LOG: Captain's log, Stardate 42859.2.
+[00:00:06.400 --> 00:00:10.160] LOG: We are in orbit around Antede Three, awaiting the arrival of two dignitaries.
+[00:00:10.560 --> 00:00:16.640] LOG: Our mission is to escort them to a conference on planet Pacifica, where they will be given the opportunity to join the Federation.
+[00:00:21.760 --> 00:00:23.280] PICARD: I thought you might find this interesting, Mister Crusher.
+[00:00:24.000 --> 00:00:26.400] PICARD: Few humans have ever seen an Antedean in the flesh.
+[00:00:33.760 --> 00:00:34.320] PICARD: Welcome.
+[00:00:35.120 --> 00:00:37.680] PICARD: I'm Jean-Luc Picard, Captain of the Enterprise.
+[00:00:46.800 --> 00:00:47.520] WESLEY: Are they alright, Captain?
+[00:00:48.960 --> 00:00:49.520] PICARD: Yes.
+[00:00:49.840 --> 00:00:52.000] PICARD: This is their preferred way of space travel.
+[00:00:52.880 --> 00:00:57.680] PULASKI: Their physical condition is good enough, considering the circumstances.
+[00:00:58.160 --> 00:01:00.640] PICARD: It is a self-induced catatonic state.
+[00:01:01.440 --> 00:01:04.480] PICARD: Their way of dealing with the trauma of spaceflight.
+[00:01:05.440 --> 00:01:06.400] WESLEY: Will we try to revive them?
+[00:01:07.200 --> 00:01:07.600] PICARD: No,
+[00:01:08.000 --> 00:01:10.720] PICARD: not until we reach the Pacifica conference, three days from now.
+[00:01:11.200 --> 00:01:14.560] PICARD: Doctor, have you prepared a Sickbay facility to accommodate our guests?
+[00:01:15.040 --> 00:01:16.480] PULASKI: As soon as I can make some adjustments.
+[00:01:16.720 --> 00:01:18.480] PULASKI: Their physiology is unusual.
+[00:01:19.360 --> 00:01:20.960] PULASKI: You can store them for a few hours?
+[00:01:21.200 --> 00:01:21.440] O'BRIEN: Sure.
+[00:01:21.600 --> 00:01:22.560] O'BRIEN: I'll have them kept out of the way here.
+[00:01:23.360 --> 00:01:24.400] PICARD: Mister Worf, provide security.
+[00:01:24.640 --> 00:01:25.120] WORF: Aye, sir.
+[00:01:27.186 --> 00:01:27.986] WESLEY: What's in that container?
+[00:01:29.826 --> 00:01:30.546] PULASKI: Vermicula.
+[00:01:31.426 --> 00:01:32.306] PULASKI: It's their food.
+[00:01:33.026 --> 00:01:35.106] PULASKI: When they come out of stasis, they'll be very hungry.
+[00:01:38.226 --> 00:01:39.506] WESLEY: They eat this?
+[00:01:39.506 --> 00:01:40.786] PULASKI: In great quantities.
+[00:01:46.866 --> 00:01:47.826] WORF: What a handsome race.
+[00:01:56.626 --> 00:01:58.066] RIKER: So what did you think of the Antedeans, Wesley?
+[00:01:59.426 --> 00:02:02.066] WESLEY: They are rather strange-looking, Commander.
+[00:02:03.026 --> 00:02:06.866] DATA: Judging a being by its physical appearance is the last major human prejudice, Wesley.
+[00:02:07.746 --> 00:02:09.026] PICARD: Your point is well taken, Mister Data.
+[00:02:09.746 --> 00:02:12.946] PICARD: I'm sure that to the Antedeans, we are equally unattractive.
+[00:02:12.946 --> 00:02:13.266] WORF: Captain,
+[00:02:13.506 --> 00:02:15.746] WORF: we are being hailed by a small transport vessel,
+[00:02:16.066 --> 00:02:17.026] WORF: just coming into range.
+[00:02:17.266 --> 00:02:17.986] TROI: Oh, my God.
+[00:02:20.306 --> 00:02:20.786] PICARD: What's the problem?
+[00:02:23.106 --> 00:02:23.986] TROI: What's she doing here?
+[00:02:24.706 --> 00:02:25.506] WESLEY: On screen, Captain.
+[00:02:25.906 --> 00:02:27.026] PILOT: Starship Enterprise, come in.
+[00:02:27.346 --> 00:02:28.546] RIKER: We have you on our viewer, pilot.
+[00:02:29.266 --> 00:02:30.626] PILOT: Enterprise, I have a passenger.
+[00:02:31.026 --> 00:02:32.786] PILOT: A VIP passenger who I'm ordered to
+[00:02:32.786 --> 00:02:33.826] LWAXANA: Oh, let me talk to them.
+[00:02:33.826 --> 00:02:36.346] LWAXANA: I'm sure I'm more articulate than that.
+[00:02:36.346 --> 00:02:36.706] TROI: Mother.
+[00:02:37.426 --> 00:02:41.186] DATA: Captain, we are receiving Starfleet orders granting a Lwaxana
+[00:02:41.186 --> 00:02:48.146] LWAXANA: Lwaxana Troi, daughter of the Fifth House, Holder of the Sacred Chalice of Rixx, Heir to the Holy Rings of Betazed.
+[00:02:49.106 --> 00:02:50.546] DATA: Full ambassadorial status, sir.
+[00:02:51.106 --> 00:02:52.626] RIKER: It looks like it's back into that dress uniform, sir.
+[00:02:53.426 --> 00:02:54.546] DATA: And yours as well, Commander.
+[00:02:55.026 --> 00:02:57.346] DATA: She is listed as representing the Betazed government at the conference.
+[00:02:57.606 --> 00:03:00.326] TROI: Mother, please, don't do this to me.
+[00:03:00.886 --> 00:03:02.246] LWAXANA: Do what to you, Little One?
+[00:03:03.206 --> 00:03:07.126] LWAXANA: Oh, Jean-Luc. What naughty thoughts.
+[00:03:08.246 --> 00:03:10.646] LWAXANA: But how wonderful you still think of me like that.
+[00:03:33.926 --> 00:03:36.646] PICARD: Space, the final frontier.
+[00:03:38.566 --> 00:03:41.206] PICARD: These are the voyages of the starship Enterprise.
+[00:03:42.486 --> 00:03:46.006] PICARD: Its continuing mission to explore strange new worlds, to
+[00:03:48.086 --> 00:03:50.806] PICARD: seek out new life and new civilizations,
+[00:03:52.486 --> 00:03:54.886] PICARD: to boldly go where no one has gone
+[00:03:56.726 --> 00:03:58.726] PICARD: before.
+[00:04:22.000 --> 00:04:32.000] [music]
+[00:04:54.402 --> 00:04:56.722] TROI: It's so like my mother to do the unexpected.
+[00:04:57.442 --> 00:05:02.002] PICARD: It will be pleasant to have her as a guest of the Enterprise again.
+[00:05:04.402 --> 00:05:04.962] PICARD: Energise.
+[00:05:12.962 --> 00:05:14.662] LWAXANA: Legs! Where are the legs?
+[00:05:14.662 --> 00:05:17.042] TROI: Where they belong, Mother, Right under you.
+[00:05:17.682 --> 00:05:18.562] LWAXANA: Oh, I hate that.
+[00:05:19.522 --> 00:05:22.482] LWAXANA: I will never completely trust this device, Jean-Luc.
+[00:05:23.042 --> 00:05:24.402] TROI: Captain Picard, Mother.
+[00:05:24.552 --> 00:05:25.152] LWAXANA: Aaagh!
+[00:05:26.962 --> 00:05:29.202] PICARD: Explain to her.
+[00:05:29.682 --> 00:05:31.282] RIKER: I'm sorry they startled you, Mrs.
+[00:05:31.282 --> 00:05:31.442] RIKER: Troi.
+[00:05:31.442 --> 00:05:34.082] RIKER: They're Antedean delegates. They're being stored here temporarily.
+[00:05:34.642 --> 00:05:35.282] LWAXANA: Delegates?
+[00:05:36.002 --> 00:05:38.642] LWAXANA: Last time I saw something like that, it was being served on a plate.
+[00:05:42.722 --> 00:05:43.282] LWAXANA: Darling.
+[00:05:47.522 --> 00:05:48.562] LWAXANA: Well, well, well.
+[00:05:49.122 --> 00:05:50.242] LWAXANA: And you, Jean-Luc,
+[00:05:50.322 --> 00:05:52.402] LWAXANA: I wasn't aware you had such handsome legs.
+[00:05:53.122 --> 00:05:54.402] LWAXANA: My valet is waiting.
+[00:05:54.962 --> 00:05:56.402] LWAXANA: You may beam him aboard now.
+[00:05:58.722 --> 00:05:58.962] LWAXANA: You
+[00:06:02.322 --> 00:06:03.362] LWAXANA: remember Mister Homn,
+[00:06:03.397 --> 00:06:03.925] LWAXANA: of course.
+[00:06:03.925 --> 00:06:06.037] PICARD: It would be hard to forget Mister Homn.
+[00:06:06.917 --> 00:06:11.237] LWAXANA: I retain his services despite the outlandishly lustful thoughts he spews in my direction.
+[00:06:11.957 --> 00:06:13.157] LWAXANA: You can put that down, Homn.
+[00:06:13.557 --> 00:06:16.597] LWAXANA: We can't deny the Captain the honour of carrying my belongings.
+[00:06:18.197 --> 00:06:20.597] PICARD: I will not interfere with Homn's duties this time.
+[00:06:21.477 --> 00:06:24.197] LWAXANA: That's not what you're really thinking, Jean-Luc.
+[00:06:24.437 --> 00:06:26.504] LWAXANA: You forget I'm a telepath.
+[00:06:26.504 --> 00:06:26.917] RIKER: Mrs.Troi,
+[00:06:27.797 --> 00:06:29.557] RIKER: since this obviously significant to you,
+[00:06:33.877 --> 00:06:34.197] RIKER: I'll
+[00:06:40.117 --> 00:06:40.517] RIKER: I'll carry it.
+[00:06:50.517 --> 00:06:51.557] RIKER: Just down this corridor.
+[00:06:53.717 --> 00:06:55.397] LWAXANA: He has nice legs too, Little One.
+[00:06:55.877 --> 00:06:56.597] LWAXANA: Is he still yours?
+[00:06:57.637 --> 00:06:59.957] TROI: Humans no longer own each other that way, Mother.
+[00:07:00.437 --> 00:07:00.917] LWAXANA: Really?
+[00:07:03.077 --> 00:07:05.237] LWAXANA: That's a custom we may have to introduce again.
+[00:07:12.117 --> 00:07:12.677] LWAXANA: Thank you.
+[00:07:12.677 --> 00:07:14.117] RIKER: Glad to help.
+[00:07:15.717 --> 00:07:15.717] PICARD: Well,
+[00:07:19.157 --> 00:07:20.677] PICARD: I trust you will be comfortable here.
+[00:07:21.397 --> 00:07:22.117] PICARD: If you will excuse me.
+[00:07:22.597 --> 00:07:26.757] LWAXANA: I am be serving a Betazoid dinner of greeting tonight, Captain.
+[00:07:27.397 --> 00:07:29.317] LWAXANA: It is an ambassadorial function.
+[00:07:30.037 --> 00:07:30.837] PICARD: It sounds delightful.
+[00:07:35.778 --> 00:07:39.858] LWAXANA: He's a fine man. Solid, reliable.
+[00:07:42.178 --> 00:07:46.338] LWAXANA: He's a little on the stuffy side, but, all in all, he's not that bad.
+[00:07:46.978 --> 00:07:48.098] TROI: I can't believe you, Mother.
+[00:07:48.098 --> 00:07:50.942] TROI: You sound like you're sizing up a commodity.
+[00:07:50.942 --> 00:07:54.498] LWAXANA: But that's exactly what men are, darling. Especially human men.
+[00:07:56.338 --> 00:07:58.258] LWAXANA: Was your father ever unhappy with me?
+[00:07:59.298 --> 00:07:59.618] TROI: No.
+[00:08:00.738 --> 00:08:05.138] TROI: He worshipped you. But I don't think I'll ever learn to see men the way you do.
+[00:08:06.578 --> 00:08:08.018] LWAXANA: You will as you mature, darling.
+[00:08:09.538 --> 00:08:12.018] LWAXANA: And the men in your life are going to bless you for it.
+[00:08:13.698 --> 00:08:14.098] LWAXANA: You're so
+[00:08:16.018 --> 00:08:18.018] LWAXANA: beautiful.
+[00:08:18.338 --> 00:08:20.978] WESLEY: And she actually complimented Captain Picard on his legs?
+[00:08:22.338 --> 00:08:24.818] DATA: I would have thought a telepath would be more discreet, sir.
+[00:08:24.978 --> 00:08:25.778] RIKER: Exactly the opposite.
+[00:08:25.778 --> 00:08:28.818] RIKER: She knows what's in your mind and she lets you know what's on hers.
+[00:08:30.498 --> 00:08:30.898] PICARD: Gentlemen.
+[00:08:30.898 --> 00:08:31.138] PICARD: I
+[00:08:37.858 --> 00:08:46.738] PICARD: think we must not lose sight of the fact that we're talking about someone who has been granted ambassadorial rank. Even though she may appear somewhat eccentric,
+[00:08:47.618 --> 00:08:50.498] PICARD: Lwaxana Troi must be treated with the appropriate respect.
+[00:08:50.498 --> 00:08:51.298] PICARD: Is that understood?
+[00:08:55.458 --> 00:08:56.338] PICARD: Picard to Pulaski.
+[00:08:56.658 --> 00:08:57.218] PULASKI: Yes, Captain.
+[00:08:57.618 --> 00:09:00.098] PICARD: When did you last time you look in on the Antedean guests?
+[00:09:00.939 --> 00:09:02.059] PULASKI: Doing so right now, Captain.
+[00:09:02.699 --> 00:09:03.659] PICARD: Are they still catatonic?
+[00:09:04.699 --> 00:09:06.219] PULASKI: Status of the beings is unchanged.
+[00:09:08.539 --> 00:09:10.139] PULASKI: Pulse, still steady.
+[00:09:11.819 --> 00:09:14.619] PULASKI: Respiration normal for them.
+[00:09:15.259 --> 00:09:15.739] PICARD: Understood.
+[00:09:15.819 --> 00:09:16.539] PICARD: Keep me informed.
+[00:09:17.099 --> 00:09:17.579] PICARD: Picard out.
+[00:09:18.219 --> 00:09:18.859] PICARD: I'll be in my quarters.
+[00:09:20.379 --> 00:09:22.619] PICARD: It will be a dress uniform dinner, gentlemen.
+[00:09:24.059 --> 00:09:24.379] RIKER: Sir?
+[00:09:25.099 --> 00:09:25.179] DATA: To
+[00:09:28.619 --> 00:09:31.099] DATA: which dinner was the Captain referring, sir?
+[00:09:31.819 --> 00:09:32.059] RIKER: Nothing
+[00:09:32.059 --> 00:09:32.779] RIKER: I've been invited to.
+[00:09:33.339 --> 00:09:33.739] RIKER: Any of you?
+[00:09:41.579 --> 00:09:42.059] RIKER: Very interesting!
+[00:09:53.339 --> 00:09:53.659] PICARD: Doctor?
+[00:09:55.659 --> 00:09:57.659] PICARD: You're not attending the dinner with the rest of us this evening?
+[00:09:58.219 --> 00:10:00.459] PULASKI: I've already eaten, but thanks, Captain.
+[00:10:55.185 --> 00:10:55.985] PICARD: I seem to be a little early.
+[00:11:00.705 --> 00:11:02.065] PICARD: I'm sure the others will be here soon.
+[00:11:07.425 --> 00:11:09.745] PICARD: The other officers? Commander Riker? Counsellor Troi?
+[00:11:22.625 --> 00:11:23.265] LWAXANA: Hello, Jean-Luc.
+[00:11:25.105 --> 00:11:27.985] LWAXANA: So glad you could come.
+[00:11:42.305 --> 00:11:51.345] LWAXANA: A toast to Earthmen, who, despite their faults, have that unique ability to charm women of all races, in all corners of the galaxy.
+[00:11:54.225 --> 00:11:57.985] PICARD: Speaking on behalf of men of Earth, which is indeed an awesome responsibility,
+[00:11:58.225 --> 00:11:58.705] PICARD: I thank you.
+[00:12:10.304 --> 00:12:11.424] LWAXANA: I know what you're thinking, Captain.
+[00:12:12.544 --> 00:12:12.784] PICARD: You do?
+[00:12:13.984 --> 00:12:15.744] LWAXANA: You're wondering whether I'm seeing any other man.
+[00:12:17.344 --> 00:12:18.144] LWAXANA: On a serious basis.
+[00:12:18.944 --> 00:12:20.384] PICARD: Well, actually, I wasn't
+[00:12:20.544 --> 00:12:22.624] LWAXANA: I wouldn't worry about it, Jean-Luc.
+[00:12:25.424 --> 00:12:27.904] LWAXANA: Competition seems to bring out the best in the human male.
+[00:12:34.464 --> 00:12:35.824] PICARD: The fact is, I wasn't
+[00:12:37.504 --> 00:12:40.144] PICARD: expecting this setting.
+[00:12:41.584 --> 00:12:44.384] PICARD: I had assumed that my senior Bridge officers would be attending.
+[00:12:45.264 --> 00:12:48.384] LWAXANA: You never assume anything where Lwaxana Troi is concerned.
+[00:12:49.024 --> 00:12:51.184] LWAXANA: Betazoid women are full of surprises.
+[00:12:57.984 --> 00:12:58.944] LWAXANA: Strange,
+[00:13:01.904 --> 00:13:03.344] LWAXANA: I'm not really very hungry tonight.
+[00:13:05.584 --> 00:13:07.264] LWAXANA: I wonder what's made me lose my appetite?
+[00:13:08.064 --> 00:13:08.704] LWAXANA: Any ideas?
+[00:13:10.384 --> 00:13:12.064] PICARD: Of
+[00:13:14.864 --> 00:13:16.624] PICARD: course, you're giving thanks for your food.
+[00:13:16.624 --> 00:13:17.584] PICARD: I'd forgotten about that.
+[00:13:18.944 --> 00:13:24.064] PICARD: I wonder how many other cultures have similar customs.
+[00:13:26.064 --> 00:13:26.704] LWAXANA: I don't know.
+[00:13:29.158 --> 00:13:32.038] PICARD: Well, let's find out. Commander Data?
+[00:13:32.438 --> 00:13:32.838] DATA: Yes, Captain?
+[00:13:33.878 --> 00:13:34.198] PICARD: Mrs.
+[00:13:34.198 --> 00:13:41.478] PICARD: Troi and I are having a very interesting discussion about various societies' ways of giving thanks.
+[00:13:41.798 --> 00:13:44.118] PICARD: The Betazoid use of the chime, for instance.
+[00:13:44.678 --> 00:13:53.798] DATA: The use of the chime is unique, but not at all dissimilar to the Ooolans of Marejaretus Six, who use two large stones which are continuously struck during the meal.
+[00:13:54.278 --> 00:13:59.638] DATA: Those at the dinner must eat until the stones are broken. Or the oligarchy on Atifs Four, which require a young
+[00:13:59.638 --> 00:14:01.158] PICARD: Data, this is fascinating.
+[00:14:01.478 --> 00:14:02.438] PICARD: Don't you agree, Mrs.
+[00:14:02.438 --> 00:14:02.598] PICARD: Troi?
+[00:14:03.558 --> 00:14:07.398] PICARD: Commander, if your duties permit, why don't you join us for dessert?
+[00:14:07.398 --> 00:14:08.758] PICARD: I'm sure that Mrs.
+[00:14:08.758 --> 00:14:11.078] PICARD: Troi would much appreciate the pleasure of your company.
+[00:14:11.478 --> 00:14:11.558] LWAXANA: What?
+[00:14:12.438 --> 00:14:12.838] DATA: Indeed, sir.
+[00:14:13.478 --> 00:14:14.198] DATA: I'm on my way.
+[00:14:14.438 --> 00:14:14.918] DATA: Data out.
+[00:14:16.838 --> 00:14:22.278] LWAXANA: How could you possibly think I would want to share our special time together with that, that, robot of yours?
+[00:14:22.998 --> 00:14:29.798] PICARD: Because of Data's wonderful after-dinner conversation. His anecdotes are the stuff of legends aboard this ship.
+[00:14:32.518 --> 00:14:41.958] DATA: So, by using the square root of pi and multiplying it by nine to the third power, I was able to accurately calculate the distance between the Omicron system and the Crab Nebula.
+[00:14:42.278 --> 00:14:45.958] PICARD: Fascinating, Data,
+[00:14:46.278 --> 00:14:48.838] PICARD: absolutely fascinating.
+[00:14:51.078 --> 00:14:52.358] PICARD: I'm sure Mrs.
+[00:14:52.358 --> 00:14:59.078] PICARD: Troi would love to hear the one about the anomalous chemical composition of
+[00:14:59.810 --> 00:15:01.410] PICARD: brown dwarf stars.
+[00:15:01.890 --> 00:15:02.610] LWAXANA: Not really.
+[00:15:02.850 --> 00:15:03.410] DATA: Yes, Captain.
+[00:15:03.650 --> 00:15:05.890] DATA: That is a particularly spellbinding subject.
+[00:15:06.610 --> 00:15:12.690] DATA: In most stars, the rare Earth element europium is enriched relative to samarium and gadolinium
+[00:15:12.850 --> 00:15:13.410] LWAXANA: Is that so?
+[00:15:13.810 --> 00:15:14.290] DATA: It is.
+[00:15:14.530 --> 00:15:14.850] DATA: However,
+[00:15:15.490 --> 00:15:17.890] PULASKI: Your mother seems quite an interesting woman, Deanna.
+[00:15:19.330 --> 00:15:22.850] TROI: Perhaps I should tell you something about my mother's condition at this time.
+[00:15:22.850 --> 00:15:23.970] PULASKI: Condition at this time?
+[00:15:24.530 --> 00:15:28.850] TROI: It's something that occurs to Betazoid females as they enter mid-life.
+[00:15:29.570 --> 00:15:30.770] TROI: We call it the phase.
+[00:15:31.570 --> 00:15:33.970] PULASKI: Mid-life? As in a human female's menopause?
+[00:15:34.370 --> 00:15:34.930] TROI: Similar.
+[00:15:35.250 --> 00:15:41.490] TROI: It's only at mid-life that a Betazed female becomes, well, fully sexual,
+[00:15:41.650 --> 00:15:42.450] TROI: if you know what I mean.
+[00:15:42.930 --> 00:15:44.050] PULASKI: Yes, I think I do.
+[00:15:45.330 --> 00:15:48.850] PULASKI: I also think that I saw the Captain on his way to her quarters.
+[00:15:49.890 --> 00:15:50.930] TROI: I wonder if I shouldn't warn him?
+[00:15:51.410 --> 00:15:51.970] PULASKI: No.
+[00:15:52.370 --> 00:15:57.490] PULASKI: As ship's Doctor I'd consider it excellent exercise for his reflexes and agility.
+[00:15:58.530 --> 00:15:59.390] TROI: Doctor !
+[00:15:59.390 --> 00:16:01.970] PULASKI: For staying ahead of your mother.
+[00:16:02.690 --> 00:16:02.850] TROI: Yes.
+[00:16:04.290 --> 00:16:07.050] TROI: An animal is always at its best when hunted.
+[00:16:07.050 --> 00:16:07.970] PULASKI: Or when hunting.
+[00:16:09.810 --> 00:16:13.970] DATA: And at this point, the second co-orbital satellite avoids a collision with the first.
+[00:16:16.770 --> 00:16:19.330] LWAXANA: Deanna, darling. Thank the Four Deities you're here.
+[00:16:19.650 --> 00:16:21.010] TROI: I hope I'm not interrupting.
+[00:16:21.330 --> 00:16:22.290] PICARD: No, I must,
+[00:16:23.330 --> 00:16:25.383] PICARD: as a matter of fact, be getting back to the Bridge.
+[00:16:25.383 --> 00:16:25.570] DATA: Captain.
+[00:16:27.010 --> 00:16:29.330] DATA: Perhaps I should remain and further entertain our guest.
+[00:16:29.490 --> 00:16:29.730] LWAXANA: No!
+[00:16:30.210 --> 00:16:32.530] LWAXANA: I mean, I'm sure you're needed on the Bridge as well.
+[00:16:34.148 --> 00:16:37.908] PICARD: Well, thank you for a delicious meal.
+[00:16:39.028 --> 00:16:40.788] PICARD: We must do this again sometime.
+[00:16:41.908 --> 00:16:42.708] LWAXANA: I know we will.
+[00:16:51.668 --> 00:16:56.708] LWAXANA: Well, Little One, the Captain is every bit as charming as your father was.
+[00:17:15.828 --> 00:17:18.388] PICARD: Data, you will never know just how much I owe you for that.
+[00:17:19.028 --> 00:17:19.668] DATA: Indeed, Captain?
+[00:17:20.628 --> 00:17:22.468] DATA: I know many more interesting anecdotes, sir.
+[00:17:22.788 --> 00:17:23.628] DATA: For example,
+[00:17:23.628 --> 00:17:24.048] PICARD: Data.
+[00:17:24.048 --> 00:17:24.468] DATA: Sir?
+[00:17:24.948 --> 00:17:25.268] PICARD: Later.
+[00:17:25.268 --> 00:17:25.908] DATA: Yes, sir.
+[00:17:29.268 --> 00:17:31.348] TROI: Why would you come aboard at a time like this?
+[00:17:31.508 --> 00:17:32.388] LWAXANA: I had no choice.
+[00:17:32.388 --> 00:17:33.348] LWAXANA: I was going to Pacifica,
+[00:17:33.348 --> 00:17:34.548] LWAXANA: you were going to Pacifica.
+[00:17:34.708 --> 00:17:35.588] TROI: Don't be absurd, Mother.
+[00:17:35.588 --> 00:17:36.868] TROI: You knew what would happen.
+[00:17:47.908 --> 00:17:48.708] TROI: What stage is it in?
+[00:17:48.788 --> 00:17:50.708] LWAXANA: I have it completely under control.
+[00:17:50.868 --> 00:17:52.228] TROI: What stage is it in?
+[00:17:52.228 --> 00:17:54.948] LWAXANA: Well, far enough along for me to enjoy it, Little One.
+[00:17:55.588 --> 00:17:57.268] TROI: Now I know why you wore that dress.
+[00:17:57.828 --> 00:17:58.948] LWAXANA: Don't be ridiculous.
+[00:17:58.948 --> 00:17:59.668] LWAXANA: This simple little dress?
+[00:18:00.708 --> 00:18:01.828] LWAXANA: Nothing provocative about it.
+[00:18:03.188 --> 00:18:03.988] TROI: What are we going to do?
+[00:18:04.308 --> 00:18:06.468] LWAXANA: I'm going to do the only honourable thing there is to do.
+[00:18:07.293 --> 00:18:09.053] LWAXANA: And I'd say your Captain has the inside track.
+[00:18:10.093 --> 00:18:11.613] TROI: Mother, don't even think it.
+[00:18:12.253 --> 00:18:12.653] LWAXANA: Why not?
+[00:18:12.733 --> 00:18:14.333] LWAXANA: He was thinking about it all through dinner.
+[00:18:16.973 --> 00:18:19.533] PICARD: I was what?
+[00:18:26.333 --> 00:18:33.693] PICARD: I tell you, Deanna, for a telepath, your mother's accuracy leaves much to be desired.
+[00:18:34.813 --> 00:18:39.373] TROI: Actually, her telepathic prowess is quite advanced. Except for now.
+[00:18:40.333 --> 00:18:40.973] RIKER: Except for now?
+[00:18:42.093 --> 00:18:44.253] PICARD: Don't misunderstand me, Counsellor.
+[00:18:45.053 --> 00:18:47.213] PICARD: Your mother is a beautiful person,
+[00:18:47.453 --> 00:18:50.653] TROI: My mother is beginning a physiological phase.
+[00:18:50.973 --> 00:18:54.333] TROI: It's one that all Betazoid women must deal with as they enter mid-life.
+[00:18:54.733 --> 00:18:58.013] RIKER: Yes, it's something Troi warned me about when we first started to see each other.
+[00:18:58.493 --> 00:19:02.653] RIKER: A Betazoid woman, when she goes through this phase, quadruples her sex drive.
+[00:19:03.293 --> 00:19:03.693] TROI: Or more.
+[00:19:03.933 --> 00:19:04.413] RIKER: Or more?
+[00:19:04.563 --> 00:19:05.163] RIKER: You
+[00:19:06.813 --> 00:19:07.613] RIKER: never told me that.
+[00:19:08.333 --> 00:19:09.293] TROI: I didn't want to frighten you.
+[00:19:11.533 --> 00:19:15.373] TROI: She has opted for the only dignified option open to her.
+[00:19:15.933 --> 00:19:16.573] RIKER: Isolation?
+[00:19:18.813 --> 00:19:26.013] TROI: She has decided to focus all of her sexual energy on one male, who will, of course, eventually become her husband.
+[00:19:27.933 --> 00:19:32.173] TROI: It seems, Captain, that you are the early favourite.
+[00:19:32.493 --> 00:19:33.453] RIKER: Congratulations, sir!
+[00:19:34.469 --> 00:19:35.429] PICARD: I'm not amused, Number One.
+[00:19:42.789 --> 00:19:50.389] PICARD: There must be some way to convince her that it's quite impossible, without offending her.
+[00:19:51.029 --> 00:19:53.429] TROI: You cannot apply human style logic to this, Captain.
+[00:19:54.149 --> 00:20:00.629] TROI: A Betazoid woman in the phase would be shocked and deeply resentful, should you spurn any such advances.
+[00:20:01.589 --> 00:20:02.789] TROI: She would take it personally.
+[00:20:03.429 --> 00:20:14.549] PICARD: Well, under the circumstances, I think it would be prudent if I were to make myself less available for the duration of this journey.
+[00:20:15.989 --> 00:20:16.309] RIKER: Agreed.
+[00:20:17.989 --> 00:20:21.269] PICARD: Setting, San Francisco California, United States Of America.
+[00:20:21.509 --> 00:20:24.149] PICARD: The year, 1945 A.D.
+[00:20:24.149 --> 00:20:28.149] PICARD: The office of Dixon Hill, Private Investigator.
+[00:20:29.509 --> 00:20:30.469] COMPUTER: Programme complete.
+[00:20:30.629 --> 00:20:31.829] COMPUTER: You may enter when ready.
+[00:21:11.264 --> 00:21:11.264] MADELINE: Hi, Dix.
+[00:21:15.184 --> 00:21:15.504] PICARD: Madeline.
+[00:21:17.664 --> 00:21:18.464] PICARD: Good to see you again.
+[00:21:19.824 --> 00:21:20.704] MADELINE: You're too much, Dix.
+[00:21:20.784 --> 00:21:23.344] MADELINE: You make it sound like you ain't seen me in a year.
+[00:21:26.544 --> 00:21:27.264] MADELINE: You got two calls.
+[00:21:27.504 --> 00:21:28.064] MADELINE: They're on your desk.
+[00:21:28.864 --> 00:21:29.424] PICARD: New cases?
+[00:21:29.984 --> 00:21:30.464] MADELINE: Are you kidding?
+[00:21:30.544 --> 00:21:33.344] MADELINE: The last time we had a new case, Hitler and Stalin were bosom buddies.
+[00:21:34.064 --> 00:21:35.184] MADELINE: The landlord came by.
+[00:21:35.184 --> 00:21:36.864] MADELINE: He wants the geetas or he wants you out.
+[00:21:37.184 --> 00:21:37.744] PICARD: The geetas?
+[00:21:38.144 --> 00:21:39.104] MADELINE: The moolah, Dix.
+[00:21:39.104 --> 00:21:39.664] MADELINE: The rent.
+[00:21:40.064 --> 00:21:42.784] MADELINE: And since we're on the subject, it's been a month since I seen anything.
+[00:21:43.104 --> 00:21:46.784] MADELINE: Now I know it's been tough, since you got out of the hospital, but I got responsibilities.
+[00:21:48.384 --> 00:21:51.904] PICARD: Then I suppose I had better get a case.
+[00:21:52.704 --> 00:21:54.304] MADELINE: It wouldn't hurt.
+[00:22:20.000 --> 00:22:28.000] [music]
+[00:22:51.056 --> 00:22:53.616] LWAXANA: Unavailable? Ship's business?
+[00:22:54.016 --> 00:22:56.576] LWAXANA: You mean ship's business takes precedence over me?
+[00:22:57.216 --> 00:22:58.416] TROI: I'm afraid so, Mother.
+[00:22:59.216 --> 00:23:03.216] LWAXANA: Oh, well, he was too old for me anyway.
+[00:23:04.096 --> 00:23:04.496] LWAXANA: Homn,
+[00:23:08.576 --> 00:23:10.496] LWAXANA: perhaps we should consider my alternate plan.
+[00:23:11.056 --> 00:23:11.936] TROI: Alternate plan?
+[00:23:12.496 --> 00:23:14.016] LWAXANA: You worry too much, Little One.
+[00:23:14.576 --> 00:23:16.576] LWAXANA: Your mother has the situation well in hand.
+[00:23:25.216 --> 00:23:26.896] MADELINE: There's a gentleman here to see you, Mister
+[00:23:26.896 --> 00:23:29.696] MADELINE: Hill. And he doesn't look like a client.
+[00:23:31.616 --> 00:23:31.856] SLADE: Hill?
+[00:23:32.576 --> 00:23:33.776] SLADE: The name is Slade Bender.
+[00:23:34.816 --> 00:23:35.216] PICARD: Excuse me.
+[00:23:40.896 --> 00:23:42.096] PICARD: What can I do for you, Mister
+[00:23:42.096 --> 00:23:42.496] PICARD: Bender?
+[00:23:42.976 --> 00:23:43.856] SLADE: It's about Alva.
+[00:23:46.416 --> 00:23:48.656] PICARD: You'll have to be a little more precise.
+[00:23:49.136 --> 00:23:50.336] SLADE: Okay, you want to play stupid?
+[00:23:50.576 --> 00:23:51.536] SLADE: That's jake with me.
+[00:23:52.336 --> 00:23:53.776] SLADE: A week ago a man came in here.
+[00:23:53.776 --> 00:23:56.336] SLADE: He wanted you to find his girlfriend. Name's Alva.
+[00:23:56.827 --> 00:23:57.547] PICARD: Did I find her?
+[00:23:58.107 --> 00:23:59.467] SLADE: You know, you're getting on my nerves.
+[00:24:00.507 --> 00:24:02.667] SLADE: You found her, all right. Face down in the river.
+[00:24:03.867 --> 00:24:05.227] PICARD: I'm sorry to hear that.
+[00:24:06.107 --> 00:24:08.107] SLADE: Yeah, yeah, we're all broken up about it.
+[00:24:08.267 --> 00:24:11.227] SLADE: Especially the boyfriend, who's been indicted for murder.
+[00:24:11.627 --> 00:24:13.387] PICARD: And what are you here to do?
+[00:24:14.107 --> 00:24:14.907] PICARD: Ask for a refund?
+[00:24:15.067 --> 00:24:16.907] SLADE: Nah, I'm here to kill you!
+[00:24:17.307 --> 00:24:18.267] PICARD: Computer, freeze programme.
+[00:24:26.587 --> 00:24:28.027] PICARD: Computer, this isn't what I wanted at all.
+[00:24:29.787 --> 00:24:30.587] PICARD: It's much to violent.
+[00:24:30.587 --> 00:24:33.067] PICARD: I'm here to relax, not to dodge bullets.
+[00:24:33.627 --> 00:24:34.107] PICARD: Reconfigure.
+[00:24:35.387 --> 00:24:36.187] COMPUTER: Please define.
+[00:24:38.747 --> 00:24:43.067] PICARD: More ambience. Less substance.
+[00:24:44.427 --> 00:24:48.347] COMPUTER: Do you wish to leave the holodeck and re-enter, or continue from this point?
+[00:24:48.827 --> 00:24:49.627] PICARD: I will continue.
+[00:24:51.227 --> 00:24:52.187] COMPUTER: Programme complete.
+[00:24:52.427 --> 00:24:53.067] COMPUTER: You may continue.
+[00:24:54.747 --> 00:24:56.187] MADELINE: There's a gentleman here to see you, Mister
+[00:24:56.187 --> 00:24:56.507] MADELINE: Hill.
+[00:24:58.027 --> 00:24:58.667] PICARD: Thank you, Madeline.
+[00:25:12.907 --> 00:25:13.947] MAN: You a private dick?
+[00:25:15.547 --> 00:25:16.667] PICARD: That's what it says on my door.
+[00:25:17.067 --> 00:25:17.067] MAN: Is
+[00:25:18.747 --> 00:25:19.627] MAN: that supposed to be funny?
+[00:25:21.147 --> 00:25:21.707] MAN: 'Cos if it is,
+[00:25:24.107 --> 00:25:27.707] MAN: you gotta know that I ain't in the mood for funny.
+[00:25:40.254 --> 00:25:42.334] MAN: Now, I came here on serious business.
+[00:25:43.134 --> 00:25:44.814] MAN: There's a job I want you to do for me.
+[00:25:45.374 --> 00:25:46.334] PICARD: Computer, freeze programme.
+[00:25:49.214 --> 00:25:49.454] PICARD: Clear.
+[00:25:52.574 --> 00:25:54.734] PICARD: Computer, this still isn't right.
+[00:25:55.374 --> 00:25:57.614] PICARD: One kind of violence is being substituted for another.
+[00:25:58.174 --> 00:25:58.654] PICARD: Reconfigure.
+[00:26:00.494 --> 00:26:01.374] COMPUTER: You may continue.
+[00:26:01.934 --> 00:26:02.254] PICARD: Thank you.
+[00:26:03.054 --> 00:26:04.254] SLADE: You're through ducking me, Hill!
+[00:26:04.974 --> 00:26:06.014] PICARD: Computer, freeze programme!
+[00:26:12.254 --> 00:26:13.374] PICARD: Variations on a theme.
+[00:26:15.134 --> 00:26:19.054] PICARD: Computer, perhaps I am not clearly defining my intent.
+[00:26:20.254 --> 00:26:24.894] COMPUTER: The flexibility of the programme is limited to the parameters of the Dixon Hill novels.
+[00:26:26.974 --> 00:26:27.134] PICARD: Yes.
+[00:26:28.894 --> 00:26:29.534] PICARD: Of course.
+[00:26:33.294 --> 00:26:36.654] WORF: Even in this state, they possess a certain dignity, a
+[00:26:38.174 --> 00:26:39.534] WORF: graceful countenance.
+[00:26:41.374 --> 00:26:42.494] WESLEY: If you say so, Lieutenant.
+[00:26:45.374 --> 00:26:45.934] WORF: I see.
+[00:26:47.214 --> 00:26:49.054] WORF: Is this how you felt when you first saw me?
+[00:26:51.454 --> 00:26:51.854] WESLEY: Well,
+[00:26:53.614 --> 00:26:54.574] WESLEY: maybe at first, a little.
+[00:26:56.922 --> 00:27:00.762] WESLEY: But now that I've seen more Klingons, I've come to think you're handsome for a Klingon.
+[00:27:03.322 --> 00:27:04.842] WESLEY: That didn't quite come out the way I meant, sir.
+[00:27:07.082 --> 00:27:07.162] LWAXANA: I
+[00:27:12.522 --> 00:27:13.962] LWAXANA: still say they look better in sauce.
+[00:27:14.682 --> 00:27:16.522] LWAXANA: When will the good Captain revive them?
+[00:27:16.842 --> 00:27:18.202] WESLEY: Not until we reach Pacifica, ma'am.
+[00:27:21.242 --> 00:27:22.522] LWAXANA: You seem a fine boy.
+[00:27:24.522 --> 00:27:26.922] LWAXANA: One day you'll grow up to be a big, strong man.
+[00:27:27.322 --> 00:27:29.962] LWAXANA: But I'm afraid I cannot afford to wait for you to mature.
+[00:27:31.962 --> 00:27:33.242] LWAXANA: Now that's more like it.
+[00:27:34.362 --> 00:27:36.442] LWAXANA: Your thoughts, they're primal, savage.
+[00:27:36.522 --> 00:27:37.162] LWAXANA: I like that in a man.
+[00:27:38.362 --> 00:27:39.482] WORF: I am not a man.
+[00:27:39.962 --> 00:27:41.242] LWAXANA: Which is in your favour,
+[00:27:41.722 --> 00:27:44.042] LWAXANA: men so often being irrational and egotistical.
+[00:27:44.522 --> 00:27:48.122] LWAXANA: But unfortunately, I've grown accustomed to human companionship.
+[00:27:49.882 --> 00:27:50.202] LWAXANA: Pity.
+[00:27:51.802 --> 00:27:52.922] LWAXANA: You'd have made a fine choice.
+[00:27:56.842 --> 00:27:57.002] LWAXANA: Well,
+[00:27:57.642 --> 00:27:58.682] LWAXANA: who's next, Mister Homn?
+[00:28:02.202 --> 00:28:03.162] LWAXANA: Ah yes.
+[00:28:03.882 --> 00:28:04.442] LWAXANA: Let's do it,
+[00:28:05.002 --> 00:28:06.362] LWAXANA: I'm not getting any younger.
+[00:28:11.722 --> 00:28:12.762] WESLEY: What was that all about?
+[00:28:22.842 --> 00:28:23.482] PICARD: So, Madeline,
+[00:28:24.602 --> 00:28:25.162] PICARD: I'll see you later.
+[00:28:27.846 --> 00:28:28.486] PICARD: Activate programme.
+[00:28:29.926 --> 00:28:30.486] MADELINE: Leaving, Dix?
+[00:28:31.926 --> 00:28:33.526] MADELINE: You're not to Rex's bar, are you?
+[00:28:33.766 --> 00:28:34.406] PICARD: Rex's bar?
+[00:28:34.646 --> 00:28:35.126] PICARD: Why do you ask?
+[00:28:35.926 --> 00:28:37.766] MADELINE: It's one of the messages I left on your desk.
+[00:28:38.646 --> 00:28:39.926] PICARD: That sounds like an excellent idea.
+[00:28:43.126 --> 00:28:45.286] PICARD: Would you care to join me?
+[00:28:45.286 --> 00:28:45.286] MADELINE: Me?
+[00:28:46.006 --> 00:28:46.806] MADELINE: Have a drink with you?
+[00:28:47.686 --> 00:28:47.926] PICARD: Why not?
+[00:28:48.326 --> 00:28:49.526] MADELINE: There ain't no why not about it.
+[00:28:50.166 --> 00:28:51.846] MADELINE: It's just that this is the first time you ever asked.
+[00:28:53.126 --> 00:28:53.846] PICARD: Is that a problem?
+[00:28:54.806 --> 00:28:55.366] MADELINE: Not for me,
+[00:28:56.486 --> 00:28:57.366] MADELINE: but you'd better take this.
+[00:29:03.286 --> 00:29:03.446] PICARD: Why?
+[00:29:04.966 --> 00:29:07.606] MADELINE: Because if we're going to Rex's bar, you're gonna need
+[00:29:11.446 --> 00:29:11.446] MADELINE: it.
+[00:29:46.406 --> 00:29:48.806] REX: Hey, Dix.
+[00:29:48.806 --> 00:29:49.926] REX: What do you know and what do you say?
+[00:29:50.886 --> 00:29:51.686] REX: See this?
+[00:29:52.486 --> 00:29:54.806] REX: Germany's getting ready to invade England.
+[00:29:55.366 --> 00:29:56.326] MADELINE: Who's going to stop them?
+[00:29:56.806 --> 00:29:57.366] REX: Somebody'd better.
+[00:29:58.006 --> 00:29:59.206] MADELINE: Just as long as it isn't us.
+[00:29:59.615 --> 00:30:02.495] MADELINE: The last thing America needs to do is fight in another world war.
+[00:30:03.375 --> 00:30:12.895] PICARD: Actually, the Second World War, although disastrous, did end with the United States taking its place as a dominant world power and cultural influence in the second half of the twentieth century.
+[00:30:13.535 --> 00:30:23.135] PICARD: Additionally, that war was a catalyst of technological advancement. Developments in rocketry and fission resonate on into the twenty fourth century.
+[00:30:23.695 --> 00:30:25.615] REX: I don't know if I should pour you one, Dix.
+[00:30:26.495 --> 00:30:28.095] REX: Sounds like you've got a snootful already.
+[00:30:29.455 --> 00:30:29.855] PICARD: What's this?
+[00:30:30.415 --> 00:30:30.815] REX: The usual.
+[00:30:31.935 --> 00:30:32.575] PICARD: Ah,
+[00:30:32.575 --> 00:30:33.055] PICARD: now let me see.
+[00:30:33.055 --> 00:30:34.815] PICARD: That would be Scotch, neat.
+[00:30:35.535 --> 00:30:36.095] REX: What else?
+[00:30:43.535 --> 00:30:44.335] REX: And for the lady?
+[00:30:47.375 --> 00:30:48.015] MADELINE: Rye and ginger.
+[00:31:10.175 --> 00:31:10.415] PICARD: Money.
+[00:31:11.215 --> 00:31:12.655] PICARD: I keep forgetting the need to carry money.
+[00:31:12.735 --> 00:31:15.055] PICARD: I must remember not to let this happen again.
+[00:31:15.775 --> 00:31:16.095] REX: Right.
+[00:31:16.735 --> 00:31:19.775] REX: I don't mind you being on the cuff, but you're up the sleeve halfway to my collar.
+[00:31:20.335 --> 00:31:22.575] PICARD: Is that why you wanted to see me, about my bar bill?
+[00:31:23.135 --> 00:31:23.295] REX: No,
+[00:31:24.415 --> 00:31:26.335] REX: it's on account of Jimmy Cuzzo.
+[00:31:27.055 --> 00:31:27.855] PICARD: Jimmy Cuzzo.
+[00:31:28.495 --> 00:31:29.295] PICARD: I know that name.
+[00:31:30.415 --> 00:31:31.695] MADELINE: He's why I gave you the gun.
+[00:31:33.215 --> 00:31:34.335] PICARD: What was the name of that
+[00:31:34.443 --> 00:31:35.723] PICARD: case he was involved in?
+[00:31:37.723 --> 00:31:38.683] PICARD: The Parrot's Claw.
+[00:31:39.883 --> 00:31:43.883] MADELINE: Jeez, Dix. Cuzzo's the guy who iced Marty O'Farron.
+[00:31:44.923 --> 00:31:47.003] MADELINE: They never would have nailed him if it hadn't been for you.
+[00:31:47.003 --> 00:31:48.843] MADELINE: Your testimony got him arraigned.
+[00:31:49.483 --> 00:31:51.403] REX: Yeah. Yours and mine.
+[00:31:52.843 --> 00:31:56.843] PICARD: So you brought me here because you didn't want to face him alone.
+[00:31:57.563 --> 00:31:58.923] REX: I don't want to face him at all.
+[00:31:59.563 --> 00:32:04.043] REX: I'm hoping that seeing us together will slow him up long enough to get some things straight.
+[00:32:04.763 --> 00:32:05.781] PICARD: And if it doesn't?
+[00:32:05.781 --> 00:32:07.563] REX: Then you just have to kill him.
+[00:32:13.803 --> 00:32:15.403] PULASKI: Bridge, this is Doctor Pulaski.
+[00:32:15.963 --> 00:32:19.323] PULASKI: We've just completed the transfer. The Antedeans are now in Sickbay.
+[00:32:20.523 --> 00:32:21.323] RIKER: Acknowledged, Doctor.
+[00:32:25.003 --> 00:32:26.443] TROI: Mother, what are you doing here?
+[00:32:26.843 --> 00:32:29.723] TROI: You can't just stroll on to the Bridge whenever you feel like it.
+[00:32:29.883 --> 00:32:31.323] LWAXANA: I didn't just stroll on, dear.
+[00:32:31.323 --> 00:32:33.723] LWAXANA: I took the turbo tube, or whatever you call it.
+[00:32:34.203 --> 00:32:35.483] LWAXANA: The Captain's not here?
+[00:32:36.283 --> 00:32:38.443] RIKER: He is busy elsewhere, ma'am.
+[00:32:39.163 --> 00:32:42.603] LWAXANA: I have other interests as well.
+[00:32:43.643 --> 00:32:45.083] TROI: You're scheming something, Mother.
+[00:32:45.323 --> 00:32:46.283] TROI: Don't try to fool me,
+[00:32:46.283 --> 00:32:46.843] TROI: I can tell.
+[00:32:47.883 --> 00:32:49.643] LWAXANA: You're always so melodramatic, Little One.
+[00:32:49.643 --> 00:32:50.523] LWAXANA: I'm not scheming,
+[00:32:51.003 --> 00:32:51.563] LWAXANA: I'm deciding.
+[00:32:55.803 --> 00:32:57.083] TROI: Mother, not him.
+[00:32:57.643 --> 00:32:58.363] LWAXANA: And why not him?
+[00:33:00.283 --> 00:33:00.923] LWAXANA: He's adorable.
+[00:33:10.808 --> 00:33:10.808] PULASKI: Pulaski
+[00:33:12.408 --> 00:33:12.888] PULASKI: to Bridge.
+[00:33:13.288 --> 00:33:13.951] RIKER: Riker here.
+[00:33:13.951 --> 00:33:15.608] PULASKI: The Antedeans are coming around.
+[00:33:16.488 --> 00:33:19.128] PULASKI: They are currently in the early stages of post hibernation.
+[00:33:19.608 --> 00:33:20.888] RIKER: How long until they're fully conscious?
+[00:33:21.528 --> 00:33:23.368] PULASKI: I'd guess it to be a matter of hours now.
+[00:33:24.008 --> 00:33:26.248] RIKER: Very well, I'll inform the Captain. If you'll excuse me, ma'am.
+[00:33:28.968 --> 00:33:32.168] LWAXANA: You're going to see the Captain? But I thought he was tied up on ship's business.
+[00:33:32.408 --> 00:33:33.528] RIKER: In a manner of speaking he is.
+[00:33:33.528 --> 00:33:34.728] RIKER: I'm not going to be disturbing him,
+[00:33:34.728 --> 00:33:36.008] RIKER: I'll just give him the message.
+[00:33:38.168 --> 00:33:39.288] LWAXANA: Excellent timing.
+[00:33:39.688 --> 00:33:42.408] LWAXANA: Then you may also inform him about us.
+[00:33:42.408 --> 00:33:42.568] RIKER: Us?
+[00:33:42.568 --> 00:33:45.848] LWAXANA: You don't mind if I let our ship's crew know first, do you, William?
+[00:33:46.488 --> 00:33:53.448] LWAXANA: Friends. Dear friends. You are all invited to a prestigious occasion on the planet Pacifica.
+[00:33:54.008 --> 00:33:54.497] TROI: No.
+[00:33:54.497 --> 00:34:07.208] LWAXANA: There, on the shores of the Western Sea, in a traditional Betazoid ceremony, your Commander Riker and I will be joined in the union of matrimony.
+[00:34:11.368 --> 00:34:11.835] WESLEY: Married?
+[00:34:11.835 --> 00:34:14.168] LWAXANA: Until death us do part.
+[00:34:26.088 --> 00:34:26.408] RIKER: Mrs.
+[00:34:26.408 --> 00:34:28.488] RIKER: Troi, I don't know how to tell you this.
+[00:34:28.488 --> 00:34:30.088] LWAXANA: I know how you feel, dear.
+[00:34:30.088 --> 00:34:34.728] LWAXANA: You're overwhelmed with excitement. Believe me, I understand.
+[00:34:35.288 --> 00:34:36.728] LWAXANA: We'll talk about the details later.
+[00:34:36.728 --> 00:34:38.728] LWAXANA: Right now, there are preparations to be made.
+[00:34:43.176 --> 00:34:44.056] TROI: Why did you stop me?
+[00:34:44.296 --> 00:34:45.736] TROI: Someone needs to set her straight!
+[00:34:45.816 --> 00:34:47.016] RIKER: I think I'll leave that to the Captain.
+[00:34:47.416 --> 00:34:47.896] TROI: Coward.
+[00:34:48.536 --> 00:34:48.936] DATA: Commander.
+[00:34:51.336 --> 00:34:52.936] DATA: Are you planning on going into the holodeck?
+[00:34:53.416 --> 00:34:54.136] RIKER: I thought I might.
+[00:34:54.376 --> 00:34:54.936] RIKER: Would you like to join me?
+[00:34:56.536 --> 00:34:58.696] DATA: Could you postpone our departure for just five minutes, sir?
+[00:35:00.696 --> 00:35:00.776] RIKER: No
+[00:35:02.456 --> 00:35:04.456] RIKER: problem.
+[00:35:07.016 --> 00:35:09.016] PICARD: You said you had responsibilities.
+[00:35:09.016 --> 00:35:09.976] PICARD: What exactly did you mean?
+[00:35:10.776 --> 00:35:14.376] MADELINE: You know about my mother's cousin, the girl from San Antonio
+[00:35:14.376 --> 00:35:14.776] MADELINE: I told you
+[00:35:17.576 --> 00:35:17.816] MADELINE: about?
+[00:35:18.536 --> 00:35:18.856] MADELINE: Jimmy.
+[00:35:25.496 --> 00:35:29.416] REX: I'm as jumpy as Haircut Lapinski trying to land on a fraction.
+[00:35:29.736 --> 00:35:30.856] RIKER: Sorry to bother you, Captain.
+[00:35:31.416 --> 00:35:31.756] REX: Captain?
+[00:35:31.756 --> 00:35:32.776] PICARD: Call me Dix.
+[00:35:33.256 --> 00:35:34.296] RIKER: Sorry to bother you, Dix,
+[00:35:34.456 --> 00:35:35.896] RIKER: but our two passengers have awakened.
+[00:35:36.376 --> 00:35:37.656] PICARD: Then it's time for me to go.
+[00:35:38.216 --> 00:35:39.176] MADELINE: What about Jimmy Cuzzo?
+[00:35:39.736 --> 00:35:41.576] MADELINE: You can't leave Rex to face him alone.
+[00:35:41.976 --> 00:35:43.976] PICARD: I'll be back before Jimmy Cuzzo arrives.
+[00:35:44.136 --> 00:35:45.816] PICARD: I guarantee it will be taken care of.
+[00:35:45.816 --> 00:35:46.296] PICARD: Just relax.
+[00:35:46.376 --> 00:35:48.776] REX: Your friends've got time for one drink, haven't they, Dix?
+[00:35:49.656 --> 00:35:50.536] PICARD: Oh, yes, of course.
+[00:35:50.696 --> 00:35:51.256] PICARD: One more round.
+[00:35:57.256 --> 00:35:58.216] PICARD: These are my associates.
+[00:35:58.296 --> 00:36:02.509] PICARD: This is Nails, from Chicago. And this is
+[00:36:02.509 --> 00:36:03.036] DATA: Carlos.
+[00:36:03.036 --> 00:36:04.616] PICARD: From South America.
+[00:36:05.256 --> 00:36:08.536] PICARD: This is Madeline, my secretary, and I want you to meet Rex.
+[00:36:09.256 --> 00:36:10.776] PICARD: You know, I don't think I ever heard your last name?
+[00:36:11.256 --> 00:36:11.496] REX: Hm.
+[00:36:11.896 --> 00:36:12.616] REX: Don't think I have one.
+[00:36:13.166 --> 00:36:14.126] REX: Just Rex, that's all.
+[00:36:14.766 --> 00:36:16.206] REX: So, fellas, tell me your troubles.
+[00:36:16.366 --> 00:36:18.126] RIKER: Well, troubles. We've got some, Captain.
+[00:36:18.366 --> 00:36:22.046] RIKER: It seems that a certain woman, both wealthy and beautiful, now thinks that that she's going to marry me.
+[00:36:22.926 --> 00:36:24.526] REX: She's got looks and bucks?
+[00:36:25.086 --> 00:36:27.246] REX: Sounds like you've got yourself a heck of a deal.
+[00:36:32.286 --> 00:36:35.886] LWAXANA: My fiancé just has to see how I look in this.
+[00:36:36.526 --> 00:36:37.166] LWAXANA: Come along, Homn.
+[00:36:45.246 --> 00:36:46.206] LWAXANA: Hello, computer?
+[00:36:47.086 --> 00:36:49.086] LWAXANA: Is Commander Riker still on the Bridge?
+[00:36:49.486 --> 00:36:49.886] COMPUTER: Negative.
+[00:36:50.286 --> 00:36:52.526] COMPUTER: Riker is currently in holodeck three.
+[00:36:52.846 --> 00:36:54.126] LWAXANA: Holodeck?
+[00:36:54.126 --> 00:36:55.406] LWAXANA: Where is that?
+[00:36:56.286 --> 00:36:57.726] COMPUTER: Follow the comm. panel lights.
+[00:36:57.806 --> 00:36:59.246] COMPUTER: They will lead you there.
+[00:37:08.606 --> 00:37:10.046] REX: Good God, what's that?
+[00:37:13.806 --> 00:37:14.686] REX: I'll
+[00:37:17.806 --> 00:37:19.726] REX: bet that's the broad with the big bucks.
+[00:37:20.126 --> 00:37:21.806] REX: Come on over here, darlin'.
+[00:37:22.206 --> 00:37:24.366] REX: I got the best stool in the house saved for you.
+[00:37:25.246 --> 00:37:25.246] LWAXANA: So,
+[00:37:28.926 --> 00:37:30.526] LWAXANA: this is where you've been hiding, Jean-Luc.
+[00:37:31.886 --> 00:37:34.286] LWAXANA: I'm surprised you let this part of the ship get this dirty.
+[00:37:34.446 --> 00:37:35.806] LWAXANA: Oh, relax, Commander.
+[00:37:36.766 --> 00:37:39.086] LWAXANA: You've been making your true feelings quite clear.
+[00:37:39.246 --> 00:37:40.046] LWAXANA: Obviously
+[00:37:40.871 --> 00:37:42.391] LWAXANA: you feel unable to handle me.
+[00:37:42.951 --> 00:37:48.071] REX: Anyway, why would a beautiful high-class lady like yourself want to hook up with a mug like that?
+[00:37:49.511 --> 00:37:50.711] REX: You're too good for him, if you ask me.
+[00:37:51.591 --> 00:37:53.431] LWAXANA: You are a very interesting person.
+[00:37:54.391 --> 00:37:55.591] REX: You're not so bad yourself.
+[00:37:55.991 --> 00:37:58.951] REX: In fact, you're as much class as this joint's ever seen.
+[00:38:00.391 --> 00:38:02.471] REX: Here. On the house.
+[00:38:02.951 --> 00:38:05.351] REX: It's French. Almost.
+[00:38:06.471 --> 00:38:08.391] LWAXANA: This is the most remarkable man.
+[00:38:08.391 --> 00:38:09.751] LWAXANA: I have never met anyone quite like him.
+[00:38:11.271 --> 00:38:12.231] PICARD: I don't suppose you have.
+[00:38:13.591 --> 00:38:14.471] LWAXANA: He's strong.
+[00:38:15.511 --> 00:38:17.351] LWAXANA: I get no thoughts from him at all.
+[00:38:17.351 --> 00:38:17.831] LWAXANA: Nothing.
+[00:38:18.551 --> 00:38:22.551] LWAXANA: I've never known a man so able to keep his true feelings completely hidden.
+[00:38:23.511 --> 00:38:24.338] PICARD: That's because
+[00:38:24.338 --> 00:38:28.471] LWAXANA: No man has ever been such a mystery to me.
+[00:38:29.111 --> 00:38:30.951] LWAXANA: I usually know their thoughts before they do.
+[00:38:31.671 --> 00:38:32.711] REX: But not with me, huh?
+[00:38:34.151 --> 00:38:34.471] LWAXANA: No.
+[00:38:36.391 --> 00:38:38.471] LWAXANA: And I never realised how erotic that could be.
+[00:38:44.311 --> 00:38:45.831] LWAXANA: Carry my beverage to that table.
+[00:38:47.431 --> 00:38:49.111] LWAXANA: We have some things to discuss.
+[00:39:12.526 --> 00:39:12.526] RIKER: Should
+[00:39:15.406 --> 00:39:15.726] RIKER: we tell her?
+[00:39:19.326 --> 00:39:22.926] PICARD: I think it would be only fair. But let's allow her the moment.
+[00:39:23.076 --> 00:39:23.676] ANTEDEANS: Food.
+[00:39:23.944 --> 00:39:24.544] ANTEDEANS: Food.
+[00:39:24.812 --> 00:39:25.412] ANTEDEANS: Food.
+[00:39:25.680 --> 00:39:26.280] ANTEDEANS: Food.
+[00:39:26.548 --> 00:39:27.148] ANTEDEANS: Food.
+[00:39:27.566 --> 00:39:28.046] PULASKI: Worf,
+[00:39:30.046 --> 00:39:31.246] PULASKI: the vermicula.
+[00:39:33.086 --> 00:39:37.566] PULASKI: Pulaski to
+[00:39:40.926 --> 00:39:41.726] PULASKI: Captain Picard.
+[00:39:42.446 --> 00:39:43.166] PICARD: Go ahead, Doctor.
+[00:39:43.886 --> 00:39:45.886] PULASKI: Our passengers are on their feet.
+[00:39:46.286 --> 00:39:46.766] PICARD: Understood.
+[00:39:47.166 --> 00:39:47.966] RIKER: I'd better get to the Bridge.
+[00:39:49.006 --> 00:39:49.646] PICARD: What's their condition?
+[00:39:50.846 --> 00:39:51.406] PULASKI: Hungry.
+[00:39:55.086 --> 00:39:56.670] PULASKI: Would you like to be shown to your rooms?
+[00:39:56.670 --> 00:39:56.846] PICARD: Are
+[00:40:08.846 --> 00:40:09.646] PICARD: you coming, Mrs.
+[00:40:09.726 --> 00:40:09.886] PICARD: Troi?
+[00:40:11.166 --> 00:40:12.206] LWAXANA: Not just yet.
+[00:40:14.286 --> 00:40:18.606] LWAXANA: Tell William I'm sorry, but Rex and I are getting married.
+[00:40:22.046 --> 00:40:22.286] PICARD: Mrs.
+[00:40:22.286 --> 00:40:28.206] PICARD: Troi, your government expects us to deliver you to the conference on time, and that's what I intend to do.
+[00:40:29.726 --> 00:40:29.966] LWAXANA: Pity.
+[00:40:32.286 --> 00:40:33.406] LWAXANA: Duty calls, darling.
+[00:40:35.166 --> 00:40:36.606] LWAXANA: But I'll be back for you later.
+[00:40:38.932 --> 00:40:39.252] PICARD: Mrs.
+[00:40:39.252 --> 00:40:42.452] PICARD: Troi, there is something you ought to know about Rex.
+[00:40:43.252 --> 00:40:43.492] LWAXANA: Oh?
+[00:40:53.012 --> 00:40:58.692] LWAXANA: Imagine, allowing me to go on like that with that man, who doesn't even exist.
+[00:40:59.652 --> 00:41:01.572] TROI: But you always say you like surprises, Mother.
+[00:41:05.652 --> 00:41:06.612] LWAXANA: Why are they still here?
+[00:41:09.092 --> 00:41:12.212] RIKER: We thought that since you're going to the same conference, you might like to beam down with the other delegates.
+[00:41:12.372 --> 00:41:13.332] LWAXANA: They're not delegates.
+[00:41:13.332 --> 00:41:14.772] LWAXANA: Those two are assassins.
+[00:41:15.332 --> 00:41:16.372] ANTEDEAN: That is an outrage!
+[00:41:16.852 --> 00:41:17.412] ANTEDEAN: Lies!
+[00:41:17.732 --> 00:41:19.892] ANTEDEAN: We demand you transport at once!
+[00:41:20.612 --> 00:41:21.812] LWAXANA: Don't bother to deny it.
+[00:41:21.812 --> 00:41:23.252] LWAXANA: Your minds are so unsophisticated
+[00:41:23.252 --> 00:41:24.692] LWAXANA: I can read your thoughts in my sleep.
+[00:41:25.892 --> 00:41:30.452] LWAXANA: Their robes are lined with ultritium, highly explosive, virtually undetectable by your transporter.
+[00:41:33.172 --> 00:41:33.972] DATA: She is correct, sir.
+[00:41:35.012 --> 00:41:36.852] DATA: I am detecting large amounts of ultritium.
+[00:41:37.092 --> 00:41:37.892] LWAXANA: Well of course you are.
+[00:41:37.892 --> 00:41:40.132] LWAXANA: They were planning on blowing up the entire conference.
+[00:41:41.412 --> 00:41:42.692] PICARD: Mister Worf, take them to level five.
+[00:41:42.852 --> 00:41:43.412] PICARD: Disarm them.
+[00:41:43.652 --> 00:41:44.452] PICARD: Hold them for questioning.
+[00:41:44.852 --> 00:41:45.252] WORF: Aye, sir.
+[00:41:50.772 --> 00:41:50.852] LWAXANA: Ah
+[00:42:03.732 --> 00:42:03.892] LWAXANA: well,
+[00:42:04.789 --> 00:42:08.549] LWAXANA: I didn't find a mate, but I did save the conference, as well as your reputations.
+[00:42:09.589 --> 00:42:11.109] LWAXANA: All in a day's work, I suppose.
+[00:42:11.989 --> 00:42:12.469] PICARD: Goodbye Mrs.
+[00:42:12.469 --> 00:42:12.709] PICARD: Troi,
+[00:42:14.149 --> 00:42:15.829] PICARD: and thank you.
+[00:42:22.229 --> 00:42:23.189] PICARD: Energise, Chief O'Brien.
+[00:42:28.309 --> 00:42:28.869] LWAXANA: Jean-Luc.
+[00:42:30.149 --> 00:42:32.149] LWAXANA: Shame on you for thinking such a thing.
+[00:42:43.000 --> 00:42:55.000] [music]
+[00:43:04.000 --> 00:43:13.000] [music]
+[00:43:14.000 --> 00:43:33.000] [music]

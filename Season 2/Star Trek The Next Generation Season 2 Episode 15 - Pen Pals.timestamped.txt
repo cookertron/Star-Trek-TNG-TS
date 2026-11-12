@@ -1,0 +1,648 @@
+[00:00:02.080 --> 00:00:05.360] LOG: Captain's log, Stardate 42695.3.
+[00:00:06.000 --> 00:00:09.680] LOG: We are the first manned vessel to enter the Selcundi Drema sector.
+[00:00:10.240 --> 00:00:15.840] LOG: Unmanned probes have recorded unusual levels of geological activity in all five planetary systems.
+[00:00:16.320 --> 00:00:19.520] LOG: I am hoping the Enterprise will find the answer to this enigma.
+[00:00:19.920 --> 00:00:23.360] DATA: Commander, I've been reviewing the unmanned probe scans.
+[00:00:23.840 --> 00:00:30.400] DATA: At some point during the last one hundred and fifty years, the fifth planet of Selcundi Drema has shattered, forming an asteroid belt.
+[00:00:31.360 --> 00:00:32.960] RIKER: I'd call that geological instability.
+[00:00:33.760 --> 00:00:36.720] WORF: Is there any indication that this is the work of an unknown intelligence?
+[00:00:36.960 --> 00:00:39.120] RIKER: This is geology, not malevolence.
+[00:00:39.520 --> 00:00:41.520] RIKER: These planets live fast and die hard.
+[00:00:42.080 --> 00:00:43.520] RIKER: The question is, why?
+[00:00:43.670 --> 00:00:44.270] PICARD: You're
+[00:00:48.800 --> 00:00:49.760] PICARD: sure you won't reconsider?
+[00:00:50.160 --> 00:00:52.560] TROI: No, I'll just watch you and be impressed.
+[00:00:52.960 --> 00:00:55.360] PICARD: An optimistic vote of confidence from a non-rider.
+[00:00:56.160 --> 00:00:59.120] TROI: You know, I never particularly thought of you as an animal person.
+[00:00:59.360 --> 00:01:02.160] PICARD: Small animals, no, but horses.
+[00:01:06.880 --> 00:01:12.320] PICARD: Computer, programme the holodeck for a woodland setting, with a bridle path and an appropriate mount.
+[00:01:12.640 --> 00:01:13.280] COMPUTER: Type of mount?
+[00:01:13.360 --> 00:01:15.280] COMPUTER: Andorian Zabathu, Klingon Sark
+[00:01:15.440 --> 00:01:16.400] PICARD: Horse. Earth horse.
+[00:01:16.640 --> 00:01:16.960] COMPUTER: Breed?
+[00:01:17.520 --> 00:01:17.920] PICARD: Arabian.
+[00:01:18.400 --> 00:01:22.240] PICARD: The Arabs believed that Allah gathered the south wind and made the horse.
+[00:01:22.720 --> 00:01:24.960] TROI: On the holodeck we've made that legend come true.
+[00:01:28.918 --> 00:01:29.398] PICARD: I like that.
+[00:01:30.358 --> 00:01:31.238] PICARD: Oh yes, computer,
+[00:01:31.718 --> 00:01:34.118] PICARD: English tack, and I will control the animal myself.
+[00:01:34.518 --> 00:01:35.398] COMPUTER: Enter when ready.
+[00:01:40.838 --> 00:01:42.758] TROI: So you like horses for the romance?
+[00:01:43.478 --> 00:01:44.518] PICARD: It goes deeper than that.
+[00:01:44.668 --> 00:01:45.268] PICARD: A
+[00:01:46.118 --> 00:01:52.038] PICARD: fine war mare would sleep in a bedouin's tent, carry him into battle, feed his children with her milk.
+[00:01:53.718 --> 00:01:57.558] PICARD: There's a bond which is created by mutual need.
+[00:02:02.118 --> 00:02:02.918] PICARD: Hello, beautiful.
+[00:02:04.118 --> 00:02:04.998] TROI: Now I understand.
+[00:02:05.718 --> 00:02:07.238] TROI: You don't want the comfort of a pet,
+[00:02:07.718 --> 00:02:08.518] TROI: you want a companion.
+[00:02:09.878 --> 00:02:10.198] PICARD: Thank you.
+[00:02:11.478 --> 00:02:13.318] PICARD: I don't want to anthropomorphise anything.
+[00:02:16.518 --> 00:02:23.558] PICARD: I seems that some creatures have the capacity to fill spaces you never knew were empty.
+[00:02:25.478 --> 00:02:26.838] TROI: I had a Betazoid kitten once.
+[00:02:28.598 --> 00:02:31.638] TROI: My mother and the cat reacted badly to one another.
+[00:02:39.638 --> 00:02:40.438] PICARD: Sure you don't want to try?
+[00:02:41.078 --> 00:02:41.718] PICARD: It's very relaxing.
+[00:02:42.838 --> 00:02:44.838] PICARD: We can find you something that will be quiet and gentle.
+[00:02:45.878 --> 00:02:49.718] TROI: No, I prefer a mode of transportation that doesn't have a mind of its own.
+[00:02:51.478 --> 00:02:52.038] PICARD: Strange.
+[00:02:53.558 --> 00:02:55.318] PICARD: I would expect Betazoids to be
+[00:02:55.553 --> 00:02:56.993] PICARD: outstanding animal trainers.
+[00:02:57.713 --> 00:03:01.473] TROI: We become too involved in the thoughts and shifting passions of the beast.
+[00:03:01.873 --> 00:03:04.353] TROI: We lose our way and get swept up in emotion.
+[00:03:05.473 --> 00:03:08.593] PICARD: I should think the shifting passions of this beast would be far more terrifying.
+[00:03:15.713 --> 00:03:15.713] RIKER: Captain.
+[00:03:15.713 --> 00:03:16.273] PICARD: Yes, Number One?
+[00:03:16.993 --> 00:03:18.273] RIKER: We've entered the first system.
+[00:03:18.273 --> 00:03:19.553] RIKER: I think you might want to come to the Bridge.
+[00:03:20.193 --> 00:03:20.913] PICARD: Something interesting?
+[00:03:21.473 --> 00:03:23.313] RIKER: Spectacular. And a little terrifying.
+[00:03:26.673 --> 00:03:27.313] PICARD: I'm on my way.
+[00:03:51.473 --> 00:03:54.273] RIKER: The first long range reading. Magnification ten to the sixth.
+[00:03:56.433 --> 00:03:56.993] PICARD: Quite impressive.
+[00:03:57.313 --> 00:03:57.633] RIKER: And deadly.
+[00:03:58.513 --> 00:04:01.633] RIKER: The last unmanned probe showed a thriving ecosystem.
+[00:04:02.433 --> 00:04:03.153] RIKER: Now there's nothing.
+[00:04:23.793 --> 00:04:23.793] PICARD: Space,
+[00:04:25.393 --> 00:04:26.513] PICARD: the final frontier.
+[00:04:28.453 --> 00:04:31.093] PICARD: These are the voyages of the starship Enterprise.
+[00:04:32.373 --> 00:04:40.693] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:42.373 --> 00:04:45.093] PICARD: to boldly go where no one has gone before.
+[00:05:12.000 --> 00:05:22.000] [music]
+[00:05:34.000 --> 00:05:44.000] [music]
+[00:05:49.173 --> 00:05:50.533] PICARD: This is Commander Riker's meeting.
+[00:05:52.533 --> 00:05:54.293] RIKER: I'll need your advice and recommendations.
+[00:05:54.293 --> 00:05:57.413] RIKER: As you know, I've been given the responsibility of overseeing Wesley's education.
+[00:05:57.573 --> 00:06:00.213] RIKER: To further that goal, I would like to put him in charge of the planetary
+[00:06:00.550 --> 00:06:01.430] RIKER: mineral surveys.
+[00:06:02.390 --> 00:06:04.870] PULASKI: It's a big job with a lot of responsibility.
+[00:06:05.270 --> 00:06:07.190] RIKER: The game isn't big enough unless it scares you a little.
+[00:06:08.230 --> 00:06:10.150] LAFORGE: To do the job, Wesley's going to need a team.
+[00:06:10.630 --> 00:06:11.750] LAFORGE: It takes command presence to lead. Do you
+[00:06:11.750 --> 00:06:12.390] LAFORGE: think he's ready for that?
+[00:06:13.030 --> 00:06:18.070] TROI: Leadership grows from self-confidence, which is also part of a Starfleet officer's education.
+[00:06:19.670 --> 00:06:25.270] PICARD: All of this is true, but there is an old horse trainer's adage about putting too much weight on a young back.
+[00:06:26.550 --> 00:06:27.830] PICARD: We don't want him to break under pressure.
+[00:06:28.470 --> 00:06:30.230] PULASKI: We seem to be shifting the focus here.
+[00:06:31.110 --> 00:06:40.630] PULASKI: Are we talking about a young officer on the fast track to the Academy, or are we talking about a young man that we are guiding through adolescence and into adulthood?
+[00:06:40.950 --> 00:06:42.950] TROI: You can't guide someone into adulthood.
+[00:06:43.510 --> 00:06:45.750] TROI: The experiences are unique to each person.
+[00:06:46.150 --> 00:06:49.510] TROI: Whether Wes succeeds or fails, he will learn from the experience.
+[00:06:50.070 --> 00:06:50.790] PULASKI: I agree.
+[00:06:51.430 --> 00:06:53.830] PULASKI: I'm just questioning the speed at which we're moving.
+[00:06:54.310 --> 00:06:55.510] LAFORGE: You think we're pushing him too hard?
+[00:06:56.230 --> 00:06:57.510] PULASKI: I think that's a valid concern.
+[00:06:59.030 --> 00:07:00.950] PICARD: Tempering is taken to extremes.
+[00:07:02.150 --> 00:07:03.750] PULASKI: He is a boy, not a sword.
+[00:07:04.470 --> 00:07:05.910] PICARD: Who will one day be a man
+[00:07:06.150 --> 00:07:14.310] PICARD: and, to extend the metaphor, will need a fine edge that won't dull at the first touch of resistance.
+[00:07:16.790 --> 00:07:18.790] RIKER: Sooner or later he'll have to feel the burden of command.
+[00:07:20.550 --> 00:07:22.630] RIKER: Ensign Crusher. Report to the Observation Lounge.
+[00:07:41.503 --> 00:07:41.823] RIKER: Wesley,
+[00:07:43.903 --> 00:07:45.903] RIKER: I've assigned you the command of the planetary mineral surveys.
+[00:07:48.463 --> 00:07:48.943] WESLEY: Sir?
+[00:07:53.823 --> 00:07:54.303] WESLEY: Thank you, sir.
+[00:07:55.343 --> 00:07:57.423] RIKER: You may not thank me once you see how much work it entails.
+[00:07:57.823 --> 00:08:00.703] RIKER: Assemble a team, and take a look at the records on the Drema quadrant.
+[00:08:01.343 --> 00:08:02.223] RIKER: There's a mystery here.
+[00:08:02.543 --> 00:08:03.263] RIKER: We've got to solve it.
+[00:08:04.463 --> 00:08:04.863] WESLEY: Yes, sir.
+[00:08:04.863 --> 00:08:06.463] WESLEY: A team, sir?
+[00:08:08.063 --> 00:08:09.903] PICARD: Ensign, this is a serious responsibility.
+[00:08:11.663 --> 00:08:12.143] WESLEY: I know, sir.
+[00:08:13.343 --> 00:08:17.343] PICARD: These officers are here to assist you. Not judge, help you.
+[00:08:18.463 --> 00:08:19.503] PICARD: You should make use of them.
+[00:08:19.503 --> 00:08:20.783] PICARD: They are a valuable resource.
+[00:08:22.143 --> 00:08:22.703] PICARD: And by the way,
+[00:08:24.383 --> 00:08:33.503] PICARD: I respect an officer who is prepared to admit ignorance and ask a question, rather than one who out of pride will blunder blindly forward.
+[00:08:34.383 --> 00:08:35.103] WESLEY: I understand, sir.
+[00:08:36.463 --> 00:08:36.703] RIKER: Ensign.
+[00:08:39.663 --> 00:08:40.223] RIKER: You're dismissed.
+[00:08:42.383 --> 00:08:43.423] WESLEY: I'll try not to disappoint you.
+[00:08:46.463 --> 00:08:51.196] WORF: Is this
+[00:08:54.663 --> 00:08:56.663] WORF: part
+[00:09:00.129 --> 00:09:02.129] WORF: of
+[00:09:04.863 --> 00:09:05.663] WORF: your regular duties?
+[00:09:06.063 --> 00:09:07.423] DATA: No, it is a personal project.
+[00:09:08.700 --> 00:09:13.575] DATA: I have reset the sensors to scan for frequencies outside their usual range.
+[00:09:13.575 --> 00:09:14.325] WORF: Such as?
+[00:09:14.325 --> 00:09:20.700] DATA: The dips and peaks of the galaxy's magnetic field, organic molecules in nebular clouds, energetic cosmic rays.
+[00:09:21.180 --> 00:09:21.740] WORF: Interesting.
+[00:09:23.020 --> 00:09:26.940] WORF: Would these scans also detect artificial transmissions as well as naturally occurring signals?
+[00:09:27.340 --> 00:09:27.820] DATA: Of course.
+[00:09:28.780 --> 00:09:29.162] WORF: Good.
+[00:09:29.162 --> 00:09:33.740] DATA: Those signals are very faint and difficult to distinguish from background noise.
+[00:09:34.140 --> 00:09:35.500] DATA: That is why I am boosting the power.
+[00:09:42.780 --> 00:09:44.620] DATA: I will be removing that equipment to my quarters.
+[00:09:46.220 --> 00:09:46.540] WORF: Good.
+[00:09:57.020 --> 00:09:57.340] WESLEY: Hi.
+[00:09:57.900 --> 00:09:58.540] WESLEY: Can I walk with you?
+[00:09:58.700 --> 00:09:59.180] TROI: Yes.
+[00:09:59.900 --> 00:10:00.940] WESLEY: I need a little advice.
+[00:10:01.020 --> 00:10:01.660] RIKER: Well, it's free.
+[00:10:02.060 --> 00:10:03.020] WESLEY: Walking or advice?
+[00:10:03.100 --> 00:10:03.420] RIKER: Both.
+[00:10:04.700 --> 00:10:05.500] WESLEY: It's about my team.
+[00:10:06.060 --> 00:10:08.220] WESLEY: I'm considering so many factors I'm confusing myself.
+[00:10:08.700 --> 00:10:09.740] TROI: What have you done so far?
+[00:10:10.060 --> 00:10:12.540] WESLEY: Well, I've broken down the task and picked the best people in those disciplines.
+[00:10:12.620 --> 00:10:13.420] RIKER: So who have you got so far?
+[00:10:14.060 --> 00:10:18.540] WESLEY: I've got Prixus in mineralogy and metallurgy, Alans and Hildebrandt for volcanology and geomechanics.
+[00:10:18.700 --> 00:10:20.277] WESLEY: I want Davies for geochemistry, but
+[00:10:20.277 --> 00:10:22.380] TROI: But they're all much older than you are.
+[00:10:23.100 --> 00:10:24.540] WESLEY: Right, and it makes me feel strange.
+[00:10:24.540 --> 00:10:27.020] WESLEY: What do I do about personality conflicts?
+[00:10:27.020 --> 00:10:27.820] RIKER: Completely irrelevant.
+[00:10:27.900 --> 00:10:28.940] RIKER: These people are professionals.
+[00:10:28.940 --> 00:10:30.940] RIKER: If there's a personality conflict, you're in charge,
+[00:10:30.940 --> 00:10:31.340] RIKER: you settle it.
+[00:10:32.220 --> 00:10:34.860] WESLEY: So you not only have to understand the job, you also have to be a ship's Counsellor.
+[00:10:35.260 --> 00:10:36.060] TROI: Sometimes.
+[00:10:38.061 --> 00:10:39.821] WESLEY: Well, thank you.
+[00:10:44.781 --> 00:10:47.981] LOG: Captain's log, Stardate 42696.3. We are
+[00:10:48.621 --> 00:10:51.181] LOG: entering the second Selcundi star system,
+[00:10:51.501 --> 00:10:55.261] LOG: where acting Ensign Crusher will begin his planetary mineral survey.
+[00:10:55.981 --> 00:10:59.021] LOG: The results of which may help unlock the geological puzzle.
+[00:11:22.541 --> 00:11:23.085] WESLEY: Ensign Davies?
+[00:11:23.085 --> 00:11:23.901] DAVIES: You got him.
+[00:11:24.301 --> 00:11:24.781] WESLEY: Wesley Crusher.
+[00:11:25.581 --> 00:11:28.621] WESLEY: I've been put in charge of the planetary geological surveys, and I'd like to have you on the team.
+[00:11:29.021 --> 00:11:29.501] DAVIES: Sounds great.
+[00:11:30.221 --> 00:11:30.781] DAVIES: Who else is on it?
+[00:11:31.261 --> 00:11:33.581] WESLEY: I have Prixus and Alans and Hildebrandt.
+[00:11:33.581 --> 00:11:35.901] DAVIES: It's a shame you didn't talk to me first.
+[00:11:36.621 --> 00:11:39.821] DAVIES: It's just personal opinion, but I like to break up married teams.
+[00:11:42.061 --> 00:11:42.701] WESLEY: I hadn't thought of that.
+[00:11:43.501 --> 00:11:45.181] DAVIES: Don't worry, they'll probably work out fine.
+[00:11:45.821 --> 00:11:50.461] DAVIES: And if you need any help, just give me a signal and I'll take over for you.
+[00:11:51.421 --> 00:11:53.261] DAVIES: We don't want you to get too beat up on your first command.
+[00:11:54.621 --> 00:11:57.181] WESLEY: Thanks, but I'm pretty sure I'll be all right.
+[00:12:05.901 --> 00:12:06.381] DATA: Computer,
+[00:12:06.986 --> 00:12:07.866] DATA: identify please.
+[00:12:08.506 --> 00:12:11.226] COMPUTER: Sensors indicate low-level rf waves.
+[00:12:12.186 --> 00:12:12.986] DATA: Is there a pattern?
+[00:12:13.546 --> 00:12:14.106] COMPUTER: Affirmative.
+[00:12:15.146 --> 00:12:16.026] DATA: Naturally occurring?
+[00:12:16.826 --> 00:12:17.226] COMPUTER: Negative.
+[00:12:19.066 --> 00:12:20.506] DATA: Key universal translator, please.
+[00:12:21.066 --> 00:12:22.266] COMPUTER: Unable to comply.
+[00:12:22.506 --> 00:12:23.146] COMPUTER: Weak signal.
+[00:12:24.426 --> 00:12:25.786] DATA: Lock on comm. link and boost.
+[00:12:26.506 --> 00:12:27.546] COMPUTER: Lock on complete.
+[00:12:28.506 --> 00:12:29.146] DATA: Read, please.
+[00:12:34.506 --> 00:12:35.946] COMPUTER: Insufficient signal strength.
+[00:12:36.666 --> 00:12:37.386] DATA: Enhance, please.
+[00:12:37.536 --> 00:12:39.336] SARJENKA: Is anybody out there?
+[00:13:08.506 --> 00:13:10.506] DATA: Yes.
+[00:13:10.506 --> 00:13:10.506] PULASKI: Wes?
+[00:13:11.866 --> 00:13:12.586] WESLEY: Hi, Doctor Pulaski.
+[00:13:14.106 --> 00:13:15.546] PULASKI: You have trouble behind that door?
+[00:13:16.426 --> 00:13:17.226] WESLEY: My team's in there.
+[00:13:18.186 --> 00:13:20.106] WESLEY: I've got to assign planets, set a schedule.
+[00:13:20.746 --> 00:13:22.666] PULASKI: It sounds like you've got everything under control.
+[00:13:22.906 --> 00:13:25.306] WESLEY: I haven't had to deal with them yet. Not together, not professionally.
+[00:13:25.706 --> 00:13:29.546] PULASKI: Wes, the minute you walk through that door they're your team.
+[00:13:30.026 --> 00:13:30.986] PULASKI: You have nothing to prove.
+[00:13:31.546 --> 00:13:32.666] PULASKI: You've got the authority.
+[00:13:32.906 --> 00:13:34.586] WESLEY: That's just 'cos Commander Riker says I do.
+[00:13:35.531 --> 00:13:37.291] PULASKI: It's up to you to hang on to it.
+[00:13:38.891 --> 00:13:40.330] PULASKI: Now, you'd better get in there, and Wes,
+[00:13:42.971 --> 00:13:44.891] PULASKI: for whatever it's worth, I think you're going to do just fine.
+[00:13:55.371 --> 00:13:58.330] LOG: Captain's log, stardate 42737.3.
+[00:13:58.731 --> 00:14:02.491] LOG: It has been six weeks since our entrance into the Selcundi Drema sector.
+[00:14:02.971 --> 00:14:07.450] LOG: Each system has revealed the same disturbing geological upheavals on every planet.
+[00:14:09.050 --> 00:14:11.851] HILDEBRANDT: It seems to be at this point we can expect the greatest tectonic stresses.
+[00:14:13.291 --> 00:14:13.771] WESLEY: I agree.
+[00:14:14.251 --> 00:14:14.651] WESLEY: Nice job.
+[00:14:15.131 --> 00:14:17.450] DAVIES: Here are the results of my scan on the third Selcundi system.
+[00:14:17.690 --> 00:14:18.731] DAVIES: It's just the same old song.
+[00:14:20.651 --> 00:14:24.731] WESLEY: Didn't you tell me that UV absorptions like these are indicative of traker deposits?
+[00:14:25.131 --> 00:14:26.731] DAVIES: And where there's traker there's generally dilithium?
+[00:14:26.891 --> 00:14:27.851] DAVIES: Yes, I did.
+[00:14:28.171 --> 00:14:29.690] WESLEY: So don't you think we ought to run an ico-spectrogram?
+[00:14:29.690 --> 00:14:31.690] DAVIES: Well, Wes, these traker readings are really faint.
+[00:14:31.690 --> 00:14:32.891] DAVIES: It's probably just a fool's echo.
+[00:14:33.371 --> 00:14:34.651] WESLEY: I think I'd still run an ico-gram.
+[00:14:35.050 --> 00:14:37.291] HILDEBRANDT: Wesley, it's a major undertaking to set up the scanner.
+[00:14:37.531 --> 00:14:39.050] DAVIES: We're looking at five hours minimum.
+[00:14:39.291 --> 00:14:39.930] WESLEY: I know, I know.
+[00:14:39.930 --> 00:14:41.531] WESLEY: I don't want to do a half way job.
+[00:14:42.090 --> 00:14:44.651] DAVIES: Wes, there's being thorough and then there's wasting time.
+[00:14:45.291 --> 00:14:47.531] DAVIES: It's also the mark of a good officer to recognise the difference.
+[00:14:55.690 --> 00:14:56.090] WESLEY: Maybe you're right.
+[00:15:04.199 --> 00:15:08.919] DATA: Computer, please access all volcanic and tectonic plate activity in Drema Four.
+[00:15:09.559 --> 00:15:10.199] COMPUTER: Accessing.
+[00:15:18.039 --> 00:15:20.039] DATA: Computer, locate Captain Picard.
+[00:15:21.319 --> 00:15:23.399] COMPUTER: Captain Picard is on holodeck three.
+[00:15:48.359 --> 00:15:48.679] PICARD: Data?
+[00:15:48.829 --> 00:15:49.429] DATA: An
+[00:15:51.159 --> 00:15:51.959] DATA: excellent steed, sir.
+[00:15:55.719 --> 00:15:56.679] DATA: Sorry to disturb you, Captain.
+[00:15:57.559 --> 00:15:58.279] PICARD: It's quite all right.
+[00:15:58.279 --> 00:15:59.799] PICARD: It must be important, or you wouldn't be here.
+[00:16:00.279 --> 00:16:00.599] DATA: Yes, sir,
+[00:16:00.999 --> 00:16:01.719] DATA: it is important.
+[00:16:02.039 --> 00:16:02.439] DATA: Very.
+[00:16:03.959 --> 00:16:09.479] DATA: Eight weeks ago I received a transmission, a simple four word message, 'Is anybody out there?'
+[00:16:10.919 --> 00:16:11.479] DATA: I answered it.
+[00:16:13.479 --> 00:16:13.719] PICARD: There
+[00:16:15.999 --> 00:16:17.999] PICARD: is
+[00:16:24.559 --> 00:16:26.559] PICARD: a
+[00:16:30.839 --> 00:16:30.839] PICARD: loneliness
+[00:16:32.826 --> 00:16:35.466] PICARD: inherent in that whisper from the darkness.
+[00:16:37.066 --> 00:16:37.386] DATA: Yes, sir.
+[00:16:38.186 --> 00:16:39.386] DATA: I am glad that you understand, sir.
+[00:16:44.266 --> 00:16:45.226] PICARD: But it didn't end there.
+[00:16:46.506 --> 00:16:46.986] DATA: No, sir.
+[00:16:47.466 --> 00:16:48.186] DATA: We speak often.
+[00:16:48.426 --> 00:16:49.946] DATA: It is a young female, humanoid.
+[00:16:52.186 --> 00:16:55.706] PICARD: Her society is aware that there is interstellar life?
+[00:16:56.746 --> 00:16:57.066] DATA: No, sir.
+[00:16:59.946 --> 00:17:00.106] PICARD: Oops.
+[00:17:00.266 --> 00:17:00.586] PICARD: Just
+[00:17:02.346 --> 00:17:04.026] PICARD: where does she think you're calling from?
+[00:17:04.746 --> 00:17:06.186] DATA: I have kept that somewhat vague, sir,
+[00:17:06.826 --> 00:17:17.626] DATA: but Sarjenka, that is her name, has been quite specific, telling me details of her family and friends. And interspersed among these confidences have been some alarming references.
+[00:17:18.186 --> 00:17:18.426] PICARD: Go on.
+[00:17:19.066 --> 00:17:23.306] DATA: Drema Four has been enduring the same geological stresses we have found in the other systems.
+[00:17:24.266 --> 00:17:25.386] PICARD: Then your friend is in trouble.
+[00:17:25.786 --> 00:17:26.106] DATA: Yes, sir.
+[00:17:27.466 --> 00:17:28.266] PICARD: What are you proposing?
+[00:17:29.546 --> 00:17:34.826] DATA: If we can determine the cause of these geological disturbances, we might be able to reverse the process.
+[00:17:38.106 --> 00:17:39.386] PICARD: Violate the Prime Directive?
+[00:17:41.466 --> 00:17:44.186] DATA: I was hoping that you might have another option, sir.
+[00:17:46.586 --> 00:17:49.226] PICARD: We don't even know if this catastrophe is preventable.
+[00:17:53.546 --> 00:17:56.106] PICARD: Call a conference in my quarters. All senior staff.
+[00:17:56.666 --> 00:17:56.906] DATA: Yes, sir.
+[00:17:57.772 --> 00:17:58.172] PICARD: And Data,
+[00:18:00.252 --> 00:18:02.492] PICARD: all communication with this life form must cease.
+[00:18:04.012 --> 00:18:04.172] DATA: Yes, sir.
+[00:18:04.572 --> 00:18:05.052] DATA: I understand, sir.
+[00:18:05.202 --> 00:18:06.202] RIKER: Seeing the
+[00:18:21.532 --> 00:18:22.732] RIKER: look on his face.
+[00:18:23.932 --> 00:18:24.652] RIKER: I'll get you another drink.
+[00:18:29.612 --> 00:18:29.932] RIKER: Two more.
+[00:18:35.932 --> 00:18:38.012] RIKER: Thank you.
+[00:18:40.332 --> 00:18:42.732] RIKER: Family emergency.
+[00:18:42.732 --> 00:18:42.812] RIKER: You
+[00:18:47.132 --> 00:18:48.812] RIKER: don't look like a person who came here to relax.
+[00:18:49.612 --> 00:18:49.692] WESLEY: I didn't.
+[00:18:49.852 --> 00:18:51.772] WESLEY: I need your advice.
+[00:18:52.892 --> 00:18:57.372] WESLEY: Yesterday, when Ensign Davies turned in his geological survey, I asked him to run an ico-spectrogram.
+[00:18:57.772 --> 00:18:58.412] WESLEY: He didn't agree.
+[00:18:59.452 --> 00:19:00.012] RIKER: Do you think you were right?
+[00:19:00.572 --> 00:19:01.052] WESLEY: Yes.
+[00:19:02.732 --> 00:19:03.292] WESLEY: I guess.
+[00:19:04.332 --> 00:19:05.692] WESLEY: I could have just been picking nits.
+[00:19:06.252 --> 00:19:07.212] RIKER: Or you could have been intimidated.
+[00:19:08.012 --> 00:19:09.292] RIKER: It's tough to tell other people what to do.
+[00:19:10.492 --> 00:19:16.012] WESLEY: I suppose I could have made it an order, but how do you give orders to somebody older and more experienced then you?
+[00:19:16.972 --> 00:19:19.692] RIKER: The difference in ages between you and Davies is not the issue here.
+[00:19:20.572 --> 00:19:21.132] WESLEY: I guess not.
+[00:19:21.132 --> 00:19:23.532] RIKER: Do you think it might have something to do with ego?
+[00:19:24.390 --> 00:19:26.150] WESLEY: No, it's just the opposite of ego.
+[00:19:26.470 --> 00:19:31.990] WESLEY: Every time I try to give an order, something inside me says, what makes my judgment so superior to these people's?
+[00:19:33.190 --> 00:19:37.430] RIKER: Wes, responsibility and authority go hand in hand.
+[00:19:37.430 --> 00:19:38.630] RIKER: I know you're responsible,
+[00:19:39.270 --> 00:19:40.870] RIKER: now we've got to teach you a little bit of authority.
+[00:19:40.950 --> 00:19:47.910] RIKER: One of the reasons you've been given command is so you can make a few right decisions, that will establish a pattern of success and help build self-confidence.
+[00:19:48.950 --> 00:19:52.950] RIKER: If you don't trust your own judgment, you don't belong in the command chair.
+[00:19:54.630 --> 00:19:55.670] WESLEY: But what if I'm wrong?
+[00:19:56.310 --> 00:19:56.870] RIKER: Then you're wrong.
+[00:19:57.270 --> 00:19:59.110] RIKER: It's arrogant to think you'll never make a mistake.
+[00:19:59.750 --> 00:20:01.190] WESLEY: But what if it's something really important.
+[00:20:01.190 --> 00:20:02.710] WESLEY: I mean, not just a mineral survey.
+[00:20:04.310 --> 00:20:06.630] WESLEY: What if someone dies because I made a mistake?
+[00:20:08.070 --> 00:20:10.310] RIKER: In your position, it's important to ask yourself one question.
+[00:20:12.390 --> 00:20:13.110] RIKER: What would Picard do?
+[00:20:15.510 --> 00:20:18.390] WESLEY: He'd listen to everyone's opinion, then make his own decision.
+[00:20:19.110 --> 00:20:20.070] WESLEY: But he's Captain Picard.
+[00:20:20.470 --> 00:20:21.110] RIKER: Well it doesn't matter.
+[00:20:21.110 --> 00:20:23.110] RIKER: Once Picard makes his decision, does anyone question it?
+[00:20:23.750 --> 00:20:24.310] WESLEY: No way.
+[00:20:24.310 --> 00:20:24.790] RIKER: And why not?
+[00:20:27.110 --> 00:20:27.670] WESLEY: I'm not sure.
+[00:20:28.230 --> 00:20:30.870] DATA: Commander Riker, report to the Captain's quarters.
+[00:20:32.550 --> 00:20:34.790] RIKER: When you figure it out, you'll understand command.
+[00:20:35.510 --> 00:20:36.150] RIKER: I'm on my way.
+[00:20:37.110 --> 00:20:37.990] RIKER: I hope I've been able to help.
+[00:20:38.150 --> 00:20:39.030] RIKER: You let me know what you decide?
+[00:20:40.150 --> 00:20:41.030] WESLEY: I've made my decision.
+[00:20:41.750 --> 00:20:43.190] WESLEY: I'm going to have Davies run that ico-gram.
+[00:20:44.150 --> 00:20:44.550] WESLEY: Thank you, sir.
+[00:20:45.350 --> 00:20:45.750] RIKER: You're welcome.
+[00:20:48.070 --> 00:20:48.310] WOMAN: Okay.
+[00:20:55.518 --> 00:20:56.238] WESLEY: Ensign Davies?
+[00:20:58.078 --> 00:21:00.478] WESLEY: I want that ico-spectrogram run on the Selcundi Drema system.
+[00:21:01.198 --> 00:21:01.678] DAVIES: You got it.
+[00:21:14.638 --> 00:21:19.118] PICARD: It is no longer a matter of how wrong Data was, or why he did it.
+[00:21:19.278 --> 00:21:20.318] PICARD: The dilemma exists.
+[00:21:21.518 --> 00:21:24.078] PICARD: We have to discuss the options. And please talk freely.
+[00:21:25.438 --> 00:21:26.478] WORF: There are no options.
+[00:21:26.878 --> 00:21:30.878] WORF: The Prime Directive is not a matter of degrees. It is an absolute.
+[00:21:31.758 --> 00:21:33.678] PULASKI: I have a problem with that kind of rigidity.
+[00:21:34.478 --> 00:21:37.518] PULASKI: It seems callous and even a little cowardly.
+[00:21:38.238 --> 00:21:41.518] PICARD: Doctor, I'm sure that is not what the Lieutenant meant,
+[00:21:41.518 --> 00:21:43.918] PICARD: but in a situation like this, we have to be cautious.
+[00:21:44.878 --> 00:21:49.358] PICARD: What we do today may profoundly affect upon the future.
+[00:21:50.878 --> 00:21:54.070] PICARD: If we could see every possible outcome
+[00:21:54.070 --> 00:21:55.438] RIKER: We'd be gods,
+[00:21:55.758 --> 00:21:56.158] RIKER: which we're not.
+[00:21:57.518 --> 00:22:03.118] RIKER: If there is a cosmic plan, is it not the height of hubris to think that we can, or should, interfere?
+[00:22:03.678 --> 00:22:04.398] LAFORGE: So what are you saying?
+[00:22:04.398 --> 00:22:06.318] LAFORGE: That the Dremans are fated to die?
+[00:22:06.558 --> 00:22:08.078] RIKER: I think that's an option we should be considering.
+[00:22:08.638 --> 00:22:10.158] LAFORGE: Consider it considered, and rejected.
+[00:22:10.318 --> 00:22:12.958] TROI: If there is a cosmic plan, are we not a part of it?
+[00:22:13.518 --> 00:22:17.518] TROI: Our presence at this place at this moment in time could be a part of that fate.
+[00:22:17.678 --> 00:22:20.078] LAFORGE: Right, and it could be part of that plan that we interfere.
+[00:22:20.897 --> 00:22:23.057] RIKER: Well that eliminates the possibility of fate.
+[00:22:23.457 --> 00:22:28.017] DATA: But Commander, the Dremans are not a subject for philosophical debate.
+[00:22:29.377 --> 00:22:30.097] DATA: They are a people.
+[00:22:31.377 --> 00:22:33.857] PICARD: So we make an exception in the deaths of millions.
+[00:22:35.217 --> 00:22:35.617] PULASKI: Yes.
+[00:22:36.577 --> 00:22:41.297] PICARD: And is it the same situation if it's an epidemic, and not a geological calamity?
+[00:22:41.537 --> 00:22:42.017] PULASKI: Absolutely.
+[00:22:43.217 --> 00:22:43.697] PICARD: How about a war?
+[00:22:45.297 --> 00:22:50.417] PICARD: If generations of conflict is killing millions, do we interfere?
+[00:22:54.817 --> 00:22:59.217] PICARD: Ah, well, now we're all a little less secure in our moral certitude.
+[00:23:00.257 --> 00:23:01.217] PICARD: And what if it's not just killings.
+[00:23:01.937 --> 00:23:12.257] PICARD: If an oppressive government is enslaving millions? You see, the Prime Directive has many different functions, not the least of which is to protect us. To
+[00:23:14.017 --> 00:23:17.857] PICARD: prevent us from allowing our emotions to overwhelm our judgement.
+[00:23:19.377 --> 00:23:21.377] PULASKI: My emotions are involved.
+[00:23:21.857 --> 00:23:23.537] PULASKI: Data's friend is going to die.
+[00:23:23.777 --> 00:23:24.817] PULASKI: That means something.
+[00:23:25.857 --> 00:23:26.337] WORF: To Data.
+[00:23:27.137 --> 00:23:28.737] PULASKI: Does that invalidate the emotion?
+[00:23:34.417 --> 00:23:36.097] LAFORGE: What if the Dremans asked for our help?
+[00:23:37.777 --> 00:23:38.177] DATA: Yes.
+[00:23:39.137 --> 00:23:41.777] DATA: Sarjenka's transmission could be viewed as a call for help.
+[00:23:43.937 --> 00:23:44.497] PICARD: Sophistry.
+[00:23:45.057 --> 00:23:46.417] PULASKI: I'll buy that excuse.
+[00:23:47.057 --> 00:23:49.137] PULASKI: We're all jigging madly on the head of a pin anyway.
+[00:23:49.377 --> 00:23:49.937] WORF: She cannot
+[00:23:49.948 --> 00:23:52.268] WORF: ask for help from someone she does not know.
+[00:23:53.708 --> 00:23:54.428] DATA: She knows me.
+[00:23:57.468 --> 00:23:59.628] RIKER: What a perfectly vicious little circle.
+[00:24:09.628 --> 00:24:11.228] DATA: We are going to allow her to die,
+[00:24:11.708 --> 00:24:12.108] DATA: are we not?
+[00:24:18.908 --> 00:24:22.428] PICARD: Data, I want you to sever the contact with Drema Four.
+[00:24:32.268 --> 00:24:33.628] COMPUTER: Isolating frequency.
+[00:24:37.068 --> 00:24:40.028] SARJENKA: Data. Data,
+[00:24:41.788 --> 00:24:42.348] SARJENKA: where are you?
+[00:24:43.228 --> 00:24:43.948] SARJENKA: Why won't you answer?
+[00:24:44.748 --> 00:24:45.548] SARJENKA: Are you angry me?
+[00:24:46.988 --> 00:24:48.108] SARJENKA: Please, please, I'm so afraid.
+[00:24:48.828 --> 00:24:50.668] SARJENKA: Data, Data, where are you?
+[00:24:53.228 --> 00:24:53.468] PICARD: Wait.
+[00:24:53.618 --> 00:24:54.218] PICARD: Oh,
+[00:25:00.508 --> 00:25:00.748] PICARD: Data.
+[00:25:02.828 --> 00:25:07.148] PICARD: Your whisper from the dark has now become a plea.
+[00:25:07.148 --> 00:25:07.148] PICARD: We cannot turn our backs.
+[00:25:26.403 --> 00:25:29.363] LOG: Captain's log, stardate 42741.3.
+[00:25:29.923 --> 00:25:34.883] LOG: We are entering into orbit of Drema Four, the planet from which Data received the distress signal.
+[00:25:35.603 --> 00:25:38.803] LOG: Sensors indicate that the volcanic activity is increasing.
+[00:25:39.763 --> 00:25:42.039] RIKER: We found the reason for the geological instability.
+[00:25:42.039 --> 00:25:42.323] PICARD: Excellent.
+[00:25:42.483 --> 00:25:45.843] DAVIES: We would have missed it if Ensign Crusher hadn't requested an ico-gram, but he did,
+[00:25:45.843 --> 00:25:46.230] DAVIES: and
+[00:25:46.230 --> 00:25:50.483] WESLEY: Drema Four has the largest deposit of dilithium ore ever recorded.
+[00:25:50.883 --> 00:25:52.883] WESLEY: It's also laid down in a very unusual pattern.
+[00:25:53.363 --> 00:25:55.763] WESLEY: The crystals are growing to form perfectly aligned lattices.
+[00:25:56.403 --> 00:25:58.498] HILDEBRANDT: The ore is forming generator strata.
+[00:25:58.498 --> 00:26:00.243] ALANS: Which creates a piezoelectric effect.
+[00:26:01.123 --> 00:26:05.283] PICARD: In plain English, you're saying the dilithium is causing the geological catastrophe.
+[00:26:05.763 --> 00:26:06.003] ALANS: Right,
+[00:26:06.243 --> 00:26:09.087] ALANS: the crystals take the natural radiant heat of the planet
+[00:26:09.087 --> 00:26:11.363] HILDEBRANDT: Focus it, and turn it into mechanical energy.
+[00:26:11.363 --> 00:26:12.501] ALANS: Which increases tectonic stresses
+[00:26:12.501 --> 00:26:13.923] HILDEBRANDT: That tear the planet apart.
+[00:26:14.803 --> 00:26:18.963] DAVIES: And then the crystals break down, which is why we found all these traces of illium 629.
+[00:26:19.443 --> 00:26:20.803] PICARD: So that takes care of the why.
+[00:26:20.883 --> 00:26:21.683] PICARD: Now, what can you do?
+[00:26:23.443 --> 00:26:25.283] WESLEY: That is going to take a little more work.
+[00:26:26.803 --> 00:26:28.163] PICARD: Can you reverse the process?
+[00:26:31.523 --> 00:26:32.003] WESLEY: We think so.
+[00:26:32.803 --> 00:26:33.043] PICARD: No.
+[00:26:33.923 --> 00:26:34.563] PICARD: No theories,
+[00:26:34.563 --> 00:26:35.603] PICARD: no half answers.
+[00:26:35.603 --> 00:26:36.163] PICARD: Yes or no?
+[00:26:37.603 --> 00:26:38.243] HILDEBRANDT: We'll get to work on
+[00:26:40.403 --> 00:26:40.403] HILDEBRANDT: it.
+[00:26:43.603 --> 00:26:43.843] RIKER: Sir,
+[00:26:47.763 --> 00:26:50.963] RIKER: Data's out there right now, monitoring the conditions on Drema Four.
+[00:26:51.603 --> 00:26:53.923] RIKER: The situation's become pretty desperate for his friend.
+[00:26:54.483 --> 00:26:55.363] RIKER: He's calculated
+[00:26:55.565 --> 00:26:57.645] RIKER: the safest location on the planet's surface.
+[00:26:58.125 --> 00:26:58.845] RIKER: You can guess why.
+[00:27:03.965 --> 00:27:07.005] PICARD: We're just keep getting deeper and deeper in, aren't we?
+[00:27:08.605 --> 00:27:09.405] RIKER: She's going to die.
+[00:27:09.645 --> 00:27:10.978] RIKER: They're all going to die.
+[00:27:10.978 --> 00:27:11.245] PICARD: Unless.
+[00:27:11.565 --> 00:27:12.445] RIKER: Yes. Unless.
+[00:27:16.125 --> 00:27:16.525] PICARD: All right,
+[00:27:16.525 --> 00:27:17.885] PICARD: you can tell Commander Data
+[00:27:19.085 --> 00:27:24.045] PICARD: he has my permission to contact his friend and conduct her to a safer location.
+[00:27:25.485 --> 00:27:25.965] PICARD: Number One,
+[00:27:27.245 --> 00:27:29.028] PICARD: you know where we are now?
+[00:27:29.028 --> 00:27:29.325] RIKER: Sir?
+[00:27:42.525 --> 00:27:44.285] DATA: Sarjenka, this is Data.
+[00:27:44.685 --> 00:27:45.485] DATA: Respond please.
+[00:27:46.365 --> 00:27:48.045] COMPUTER: Unable to complete transmission.
+[00:27:49.245 --> 00:27:50.045] DATA: Reason for failure?
+[00:27:50.445 --> 00:27:53.405] COMPUTER: Atmospheric activity interfering with RF signal.
+[00:27:58.285 --> 00:28:00.925] WORF: We're modifying class one probes so they become resonators.
+[00:28:01.085 --> 00:28:05.085] WORF: We will then use torpedo casings to protect them once they begin burrowing beneath the surface.
+[00:28:05.645 --> 00:28:08.365] PICARD: How will these resonators destroy the crystals?
+[00:28:09.245 --> 00:28:11.965] HILDEBRANDT: By emitting harmonic vibrations which will shatter the lattices.
+[00:28:12.525 --> 00:28:15.405] WORF: The Enterprise will monitor and adjust the frequency of the resonators.
+[00:28:15.405 --> 00:28:16.765] RIKER: Sounds like a plan.
+[00:28:17.085 --> 00:28:17.645] RIKER: Lets get started.
+[00:28:25.085 --> 00:28:25.485] DATA: Captain.
+[00:28:26.592 --> 00:28:27.792] PICARD: Tea, Earl Grey, hot.
+[00:28:31.392 --> 00:28:33.392] DATA: Captain, permission to beam down to Drema Four.
+[00:28:34.672 --> 00:28:34.832] PICARD: What?
+[00:28:35.712 --> 00:28:37.952] DATA: I have been unable to contact Sarjenka.
+[00:28:41.392 --> 00:28:42.832] PICARD: Data, I appreciate your concern.
+[00:28:44.432 --> 00:28:47.552] PICARD: Transporting to the surface is only going to make a bad situation worse.
+[00:28:49.392 --> 00:28:52.432] DATA: Sir, I feel it is important to determine the reason for
+[00:28:52.512 --> 00:28:53.152] RIKER: Come on, Data.
+[00:28:55.712 --> 00:28:58.272] DATA: Captain, your orders were to deliver the message, correct?
+[00:28:58.992 --> 00:28:59.232] PICARD: Yes.
+[00:28:59.632 --> 00:29:03.472] DATA: Then what is the difference between sending the message and delivering it personally?
+[00:29:03.952 --> 00:29:05.792] RIKER: A whopping big one, and you know it.
+[00:29:06.592 --> 00:29:07.792] DATA: Sir, we have come this far.
+[00:29:08.912 --> 00:29:10.352] PICARD: In for a penny, in for a pound,
+[00:29:10.352 --> 00:29:11.712] PICARD: is that what you're saying, Mister Data?
+[00:29:14.432 --> 00:29:14.752] DATA: Yes, sir.
+[00:29:14.902 --> 00:29:15.902] PICARD: Oh, hell.
+[00:29:18.432 --> 00:29:20.432] PICARD: Go.
+[00:29:22.512 --> 00:29:22.752] DATA: Sir?
+[00:29:24.512 --> 00:29:25.952] PICARD: Number One, handle the transporter.
+[00:29:26.432 --> 00:29:26.672] PICARD: Go.
+[00:29:30.672 --> 00:29:31.792] RIKER: Where would you say we are now, sir?
+[00:29:44.912 --> 00:29:45.872] RIKER: O'Brien, take a nap.
+[00:29:45.872 --> 00:29:46.512] RIKER: You didn't see any of this.
+[00:29:46.512 --> 00:29:47.072] RIKER: You're not involved.
+[00:29:47.392 --> 00:29:47.792] O'BRIEN: Right, sir.
+[00:29:47.792 --> 00:29:49.952] O'BRIEN: I'll just standing over here, dozing off.
+[00:29:50.192 --> 00:29:51.152] RIKER: Data, you've got ten minutes.
+[00:29:51.152 --> 00:29:51.552] RIKER: That's it.
+[00:29:51.552 --> 00:29:52.955] RIKER: If you meet anybody but Sarjenka
+[00:29:52.955 --> 00:29:54.592] DATA: I will signal for immediate beam out.
+[00:30:02.937 --> 00:30:03.817] PICARD: Commander Riker to the Bridge.
+[00:30:04.617 --> 00:30:04.937] RIKER: Damn.
+[00:30:05.577 --> 00:30:06.377] O'BRIEN: I just woke up, sir.
+[00:30:06.617 --> 00:30:07.097] RIKER: You know what to do?
+[00:30:07.497 --> 00:30:08.377] O'BRIEN: No problem, sir.
+[00:30:08.537 --> 00:30:09.817] O'BRIEN: I'll have him out of there as smooth as ice.
+[00:31:28.243 --> 00:31:28.803] DATA: Sarjenka?
+[00:31:31.203 --> 00:31:32.083] DATA: Wait! I'm Data.
+[00:31:35.923 --> 00:31:35.923] SARJENKA: Data.
+[00:31:38.483 --> 00:31:39.203] SARJENKA: Data, you came.
+[00:31:43.363 --> 00:31:46.163] SARJENKA: Data, where have you been?
+[00:31:47.283 --> 00:31:48.723] DATA: It would take too long to explain.
+[00:31:49.283 --> 00:31:50.403] DATA: You and your family must leave.
+[00:31:51.683 --> 00:31:52.403] SARJENKA: We already have.
+[00:31:53.043 --> 00:31:54.083] SARJENKA: We ran when the tremors began.
+[00:31:55.123 --> 00:31:55.923] DATA: Then why are you here?
+[00:31:58.323 --> 00:31:59.523] SARJENKA: My father wouldn't let us take anything,
+[00:32:00.643 --> 00:32:01.923] SARJENKA: but I had to have my transmitter.
+[00:32:01.923 --> 00:32:08.083] SARJENKA: I knew you would come back, and I didn't want you to find only silence, the way I did.
+[00:32:08.083 --> 00:32:12.883] DATA: I am sorry for that, but it is very complicated.
+[00:32:13.843 --> 00:32:15.123] DATA: Does your family know where you are?
+[00:32:15.683 --> 00:32:15.923] SARJENKA: No.
+[00:32:18.883 --> 00:32:20.083] DATA: You cannot survive in this.
+[00:32:24.243 --> 00:32:24.963] SARJENKA: What are we going to do?
+[00:32:34.563 --> 00:32:36.403] DATA: Enterprise, two to beam up.
+[00:32:37.603 --> 00:32:38.243] DATA: You must come with me.
+[00:32:39.523 --> 00:32:39.843] SARJENKA: Where are we going?
+[00:32:39.843 --> 00:32:40.083] SARJENKA: To the
+[00:32:45.843 --> 00:32:46.403] SARJENKA: stars?
+[00:33:08.703 --> 00:33:09.743] O'BRIEN: There's going to be hell to pay.
+[00:33:12.863 --> 00:33:13.663] DATA: Where is Commander Riker?
+[00:33:14.463 --> 00:33:14.943] O'BRIEN: On the Bridge.
+[00:33:16.383 --> 00:33:16.943] O'BRIEN: Where are you going?
+[00:33:18.703 --> 00:33:19.183] DATA: To the Bridge.
+[00:33:19.823 --> 00:33:21.023] O'BRIEN: And you're going to take that?
+[00:33:21.173 --> 00:33:21.773] SARJENKA: Don't
+[00:33:22.863 --> 00:33:23.743] SARJENKA: leave me here. Please
+[00:33:23.743 --> 00:33:24.543] SARJENKA: don't leave me.
+[00:33:25.663 --> 00:33:26.463] DATA: Quite impossible.
+[00:33:49.583 --> 00:33:52.623] WORF: Sir, three minutes to resonator launch.
+[00:33:56.543 --> 00:33:56.943] PICARD: Where is he?
+[00:33:57.183 --> 00:33:57.823] RIKER: He'll be here.
+[00:34:05.583 --> 00:34:08.863] PICARD: He has brought a child onto my ship and on my Bridge.
+[00:34:09.743 --> 00:34:11.743] RIKER: I'm sure Mister Data has a very good explanation.
+[00:34:12.383 --> 00:34:12.863] DATA: I do, sir.
+[00:34:14.063 --> 00:34:15.823] DATA: She was frightened and did not wish to be left alone
+[00:34:15.823 --> 00:34:18.063] PICARD: Mister Data, kindly assume your station.
+[00:34:20.447 --> 00:34:22.127] PICARD: Counsellor, will you escort her to Sickbay.
+[00:34:26.207 --> 00:34:26.687] SARJENKA: No, Data,
+[00:34:27.327 --> 00:34:28.367] SARJENKA: no. I'm scared.
+[00:34:28.367 --> 00:34:29.247] SARJENKA: Don't make me go.
+[00:34:30.367 --> 00:34:31.247] TROI: It's all right,
+[00:34:31.327 --> 00:34:32.527] TROI: no one's going to hurt you.
+[00:34:32.527 --> 00:34:32.927] SARJENKA: No!
+[00:34:36.207 --> 00:34:37.567] TROI: We'll just go and get a treat, and then
+[00:34:37.647 --> 00:34:38.287] SARJENKA: No.
+[00:34:38.687 --> 00:34:40.847] DATA: Captain, I will see to it that she is not in the way.
+[00:34:42.047 --> 00:34:43.087] WORF: One minute to launch.
+[00:34:43.967 --> 00:34:44.927] TROI: Come on, it'll be all right.
+[00:34:45.247 --> 00:34:45.647] SARJENKA: No.
+[00:34:47.887 --> 00:34:48.767] SARJENKA: Just leave me alone.
+[00:34:48.767 --> 00:34:50.287] SARJENKA: I want Data.
+[00:34:51.567 --> 00:34:52.927] DATA: Counsellor, allow me. Please.
+[00:34:53.887 --> 00:34:55.967] DATA: Sarjenka, no one will harm you.
+[00:34:56.687 --> 00:34:58.020] DATA: These are my friends.
+[00:34:58.020 --> 00:34:58.687] PICARD: Mister Data,
+[00:35:00.767 --> 00:35:02.207] PICARD: take your station and keep her with you.
+[00:35:03.727 --> 00:35:04.687] PICARD: This does concern her.
+[00:35:13.327 --> 00:35:13.967] WORF: Ten seconds.
+[00:35:16.767 --> 00:35:17.887] DATA: I will require my hand.
+[00:35:19.087 --> 00:35:19.327] DATA: Thank you.
+[00:35:21.167 --> 00:35:21.887] WORF: Firing torpedoes.
+[00:35:29.007 --> 00:35:30.207] DATA: Sensors locked on probes.
+[00:35:32.607 --> 00:35:34.047] WORF: Torpedoes have reached their targets.
+[00:35:35.727 --> 00:35:36.767] DATA: Resonators activated.
+[00:35:37.407 --> 00:35:38.767] DATA: Harmonic sequences have begun.
+[00:35:39.487 --> 00:35:40.047] SARJENKA: What are you doing?
+[00:35:41.007 --> 00:35:42.367] DATA: We are attempting to quiet your planet.
+[00:35:42.847 --> 00:35:46.367] DATA: If we succeed, there will be no more quakes, no more volcanoes.
+[00:35:47.007 --> 00:35:48.527] PICARD: Ensign, when should the results be known?
+[00:35:49.087 --> 00:35:50.207] WESLEY: They should happen very quickly, sir.
+[00:35:52.845 --> 00:35:54.125] SARJENKA: And my parents and brothers?
+[00:35:56.925 --> 00:36:02.445] DATA: Captain, sensors indicate a planetwide reduction in tectonic stress levels.
+[00:36:06.605 --> 00:36:07.085] WESLEY: It
+[00:36:09.885 --> 00:36:10.445] WESLEY: worked.
+[00:36:11.165 --> 00:36:11.805] WESLEY: We did it.
+[00:36:15.085 --> 00:36:16.285] DATA: Your parents will be safe now.
+[00:36:17.325 --> 00:36:18.125] SARJENKA: You did this for me?
+[00:36:21.485 --> 00:36:24.045] DATA: Look, Sarjenka, there is your home.
+[00:36:34.685 --> 00:36:35.005] PICARD: Data,
+[00:36:37.005 --> 00:36:37.805] PICARD: escort her to Sickbay.
+[00:36:40.445 --> 00:36:40.765] DATA: Aye, sir.
+[00:36:44.205 --> 00:36:45.005] PICARD: Number One, you have the Bridge.
+[00:36:51.485 --> 00:36:51.805] PICARD: Doctor.
+[00:36:52.365 --> 00:36:52.925] PULASKI: Yes, Captain?
+[00:36:53.485 --> 00:36:54.765] PICARD: Data and the alien are on their way down.
+[00:36:55.645 --> 00:37:02.365] PICARD: What would be involved in removing all memory of her communication with Data And her visit to this ship?
+[00:37:03.485 --> 00:37:06.605] PULASKI: Assuming her brain structure is similar to ours,
+[00:37:08.125 --> 00:37:12.925] PULASKI: the memories would be stored chemically on the neurons of the cerebral cortex.
+[00:37:13.165 --> 00:37:14.605] PULASKI: They're also time dependent.
+[00:37:15.885 --> 00:37:20.365] PULASKI: I would have to scan for age of the chemical links, and try to find The relevant neurons.
+[00:37:22.045 --> 00:37:23.885] PICARD: Well, do your best.
+[00:37:27.040 --> 00:37:28.800] SARJENKA: You have many different kinds of people here.
+[00:37:29.040 --> 00:37:29.520] DATA: Yes.
+[00:37:30.560 --> 00:37:32.160] SARJENKA: When I am bigger, can I be on your ship?
+[00:37:32.560 --> 00:37:33.600] DATA: I am certain that you could.
+[00:37:34.320 --> 00:37:35.680] SARJENKA: I wish I could come with you now.
+[00:37:36.480 --> 00:37:37.920] DATA: I am afraid that is not possible.
+[00:37:39.040 --> 00:37:41.040] SARJENKA: I know, but I can still wish for it.
+[00:37:44.720 --> 00:37:45.440] DATA: Doctor Pulaski,
+[00:37:47.040 --> 00:37:47.920] DATA: this is Sarjenka.
+[00:37:48.720 --> 00:37:49.680] PULASKI: Hello, Sarjenka.
+[00:37:50.480 --> 00:37:50.800] SARJENKA: Hello.
+[00:37:57.040 --> 00:37:57.440] SARJENKA: What is this?
+[00:37:58.880 --> 00:38:00.640] PULASKI: An Elanin singer stone.
+[00:38:01.600 --> 00:38:03.760] PULASKI: It sings a different song for each person.
+[00:38:06.320 --> 00:38:07.360] SARJENKA: What does it sing for you?
+[00:38:08.640 --> 00:38:09.680] DATA: It does not sing for me.
+[00:38:10.720 --> 00:38:11.200] SARJENKA: Why not?
+[00:38:12.000 --> 00:38:12.960] DATA: Because I am a machine.
+[00:38:13.920 --> 00:38:18.560] PULASKI: Sarjenka, we're going to run a few scans just to be sure you're all right.
+[00:38:20.080 --> 00:38:21.120] PULASKI: Data's will be right here.
+[00:38:21.600 --> 00:38:23.920] PULASKI: Don't worry.
+[00:38:24.070 --> 00:38:24.670] PULASKI: You
+[00:39:07.207 --> 00:39:08.167] PULASKI: did a good thing, Data.
+[00:39:10.167 --> 00:39:11.767] DATA: But are we doing a good thing now, Doctor?
+[00:39:12.487 --> 00:39:14.247] PULASKI: This is to protect her as much as us.
+[00:39:15.127 --> 00:39:16.407] DATA: By robbing her of her memories?
+[00:39:17.607 --> 00:39:20.487] PULASKI: To remember you and this ship would complicate her future.
+[00:39:22.087 --> 00:39:24.487] PULASKI: She has to be the person she was born to be.
+[00:39:26.407 --> 00:39:26.887] PULASKI: And you'll remember.
+[00:40:42.702 --> 00:40:44.782] DATA: Enterprise, one to beam up.
+[00:40:46.942 --> 00:40:47.102] RIKER: Wes.
+[00:41:02.862 --> 00:41:03.262] RIKER: Sit down.
+[00:41:05.342 --> 00:41:06.062] WESLEY: No, thank you, sir.
+[00:41:06.702 --> 00:41:08.942] WESLEY: It's going to be a long time before I'm qualified enough to sit here.
+[00:41:08.942 --> 00:41:09.102] RIKER: You
+[00:41:09.902 --> 00:41:10.542] RIKER: did a good job.
+[00:41:10.542 --> 00:41:10.942] RIKER: I'm proud of you.
+[00:41:12.542 --> 00:41:12.942] WESLEY: Thank you, sir.
+[00:41:14.382 --> 00:41:15.262] WESLEY: Does it get any easier?
+[00:41:16.862 --> 00:41:17.182] RIKER: No.
+[00:41:25.742 --> 00:41:26.062] PICARD: Come.
+[00:41:31.102 --> 00:41:32.222] DATA: I came to apologise, sir.
+[00:41:36.622 --> 00:41:37.902] PICARD: No apologies are necessary.
+[00:41:40.542 --> 00:41:46.542] PICARD: You reminded us that there are obligations that go beyond duty.
+[00:41:46.542 --> 00:41:49.582] DATA: I appreciate your seeking other options, sir.
+[00:41:50.382 --> 00:41:51.902] DATA: Your decision could have been unilateral.
+[00:41:52.773 --> 00:41:55.333] PICARD: One of my officers, one of my friends, was troubled.
+[00:41:55.973 --> 00:41:56.533] PICARD: I had to help.
+[00:42:00.373 --> 00:42:01.573] PICARD: Is Sarjenka safely home?
+[00:42:02.373 --> 00:42:02.693] DATA: Yes, sir.
+[00:42:06.933 --> 00:42:10.133] DATA: She will not remember me, sir, but I will remember her.
+[00:42:11.893 --> 00:42:14.373] PICARD: Remembrance and regrets, they too are a part of friendship.
+[00:42:15.093 --> 00:42:15.333] DATA: Yes, sir.
+[00:42:16.453 --> 00:42:23.013] PICARD: And understanding that has brought you a step closer to understanding humanity.

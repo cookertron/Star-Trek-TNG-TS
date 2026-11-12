@@ -1,0 +1,691 @@
+[00:00:02.720 --> 00:00:06.400] LOG: Captain's log, Stardate 42686.4.
+[00:00:07.120 --> 00:00:13.200] LOG: We are en route to Starbase Montgomery for engineering consultations prompted by minor readout anomalies.
+[00:00:15.040 --> 00:00:18.480] DATA: I would consider them insignificant.
+[00:00:18.560 --> 00:00:19.120] RIKER: What if you're wrong?
+[00:00:21.040 --> 00:00:21.280] RIKER: Sorry.
+[00:00:22.640 --> 00:00:24.160] RIKER: But what if it is more than a mere discrepancy?
+[00:00:24.640 --> 00:00:26.560] LAFORGE: Then I'd say we have a problem.
+[00:00:26.960 --> 00:00:27.360] PICARD: Agreed.
+[00:00:27.520 --> 00:00:30.400] PICARD: We'll have Starbase Montgomery give us an independent reading.
+[00:00:30.640 --> 00:00:35.440] DATA: Even if the molecular level controls have failed, we can still recrystallise the dilithium without outside help.
+[00:00:35.760 --> 00:00:36.480] LAFORGE: Don't worry, Data.
+[00:00:36.720 --> 00:00:37.920] LAFORGE: My ego isn't at stake here.
+[00:00:38.560 --> 00:00:41.440] DATA: Perhaps we can reprogram the system to correct the readout variables
+[00:00:43.680 --> 00:00:44.960] PICARD: Well, that's certainly another option,
+[00:00:44.960 --> 00:00:48.560] PICARD: but as we're stopping at Starbase Montgomery anyway, we'll let them do the analysis.
+[00:00:48.960 --> 00:00:51.680] RIKER: I don't recall Starbase Montgomery on the mission itinerary
+[00:00:52.880 --> 00:00:55.680] PICARD: I think we could all use a twelve hour layover.
+[00:00:56.240 --> 00:00:59.120] PICARD: Besides, I've just received some personnel transfer directives.
+[00:00:59.200 --> 00:01:00.080] PICARD: Priority matter,
+[00:01:00.800 --> 00:01:01.920] RIKER: Boarding or disembarking?
+[00:01:02.160 --> 00:01:04.960] WESLEY: Captain Picard. We're within hailing range of Starbase Montgomery
+[00:01:05.440 --> 00:01:06.480] PICARD: Go to half impulse power.
+[00:01:07.840 --> 00:01:10.160] PICARD: Will you join me in the Observation lounge when you're done?
+[00:01:24.240 --> 00:01:24.480] RIKER: Captain?
+[00:01:24.480 --> 00:01:24.560] PICARD: Number
+[00:01:26.960 --> 00:01:31.680] PICARD: One, I've just been recollecting the arrival of a new First Officer on board the Enterprise,
+[00:01:32.800 --> 00:01:34.000] PICARD: and a manual docking
+[00:01:34.351 --> 00:01:35.471] PICARD: confidently achieved.
+[00:01:37.391 --> 00:01:43.071] PICARD: I may have been somewhat miserly in my congratulations then, so let me make up for it now.
+[00:01:45.711 --> 00:01:48.591] PICARD: The Captain of the Starship Ares is retiring.
+[00:01:50.351 --> 00:01:53.231] PICARD: Congratulations. You've been selected as his replacement.
+[00:01:53.791 --> 00:01:55.871] RIKER: The Ares. She's in Vega-Omicron sector.
+[00:01:56.991 --> 00:02:01.791] PICARD: And they have picked up indications of an intelligent life form, though nothing confirmed.
+[00:02:02.351 --> 00:02:03.631] RIKER: Obviously, Starfleet will want to know more.
+[00:02:03.631 --> 00:02:10.831] PICARD: That's why they're asking for you. Not for your military proficiency, but for your skill as an explorer and as a diplomat.
+[00:02:11.711 --> 00:02:12.831] RIKER: Vega-Omicron. It'll
+[00:02:12.831 --> 00:02:14.431] RIKER: take months at high warp just to get there.
+[00:02:15.391 --> 00:02:17.311] PICARD: With no guarantee of finding anything when you arrive.
+[00:02:18.831 --> 00:02:20.271] PICARD: Well, you have twelve hours to think it over.
+[00:02:21.391 --> 00:02:25.311] PICARD: And if it's not too premature, congratulations, Captain.
+[00:02:50.431 --> 00:02:53.151] PICARD: Space, the final frontier.
+[00:02:55.071 --> 00:02:57.711] PICARD: These are the voyagers of the starship Enterprise.
+[00:02:58.991 --> 00:03:01.071] PICARD: Its continuing mission to explore.
+[00:03:01.438 --> 00:03:02.398] PICARD: Strange new worlds.
+[00:03:02.718 --> 00:03:02.798] PICARD: To
+[00:03:04.638 --> 00:03:07.278] PICARD: seek out new life and new civilizations.
+[00:03:08.958 --> 00:03:11.438] PICARD: To boldly go where no one has gone
+[00:03:13.198 --> 00:03:15.198] PICARD: before.
+[00:03:17.038 --> 00:03:17.038] PICARD: Establish
+[00:04:19.598 --> 00:04:20.318] PICARD: synchronous orbit.
+[00:04:20.718 --> 00:04:20.958] WESLEY: Aye, sir.
+[00:04:23.998 --> 00:04:28.238] PICARD: Starbase Montgomery is sending a civilian advisor on board to brief you on the Ares's mission.
+[00:04:28.638 --> 00:04:29.278] RIKER: A personal briefing?
+[00:04:30.775 --> 00:04:34.215] PICARD: A strategic attaché with specialised knowledge in the frontier regions.
+[00:04:34.215 --> 00:04:36.375] PICARD: I think you'll find the briefing interesting.
+[00:04:38.135 --> 00:04:38.855] RIKER: I hope it's complete.
+[00:04:39.415 --> 00:04:41.095] RIKER: Much of my decision will be based on it.
+[00:04:41.575 --> 00:04:43.255] HERBERT: Commander Riker to Transporter room three.
+[00:04:45.655 --> 00:04:46.135] PICARD: Enjoy.
+[00:04:53.815 --> 00:04:54.055] RIKER: Ensign.
+[00:04:54.695 --> 00:04:55.975] HERBERT: Ah, you're right on time, Commander.
+[00:04:56.215 --> 00:04:57.255] HERBERT: He's on his way now.
+[00:05:05.415 --> 00:05:05.735] RIKER: Dad.
+[00:05:09.255 --> 00:05:11.495] RIKER: You're the civilian advisor? The strategic attaché?
+[00:05:12.615 --> 00:05:14.455] KYLE: I asked Captain Picard to keep it quiet.
+[00:05:14.455 --> 00:05:15.735] KYLE: I didn't want you to make you nervous or
+[00:05:15.735 --> 00:05:16.135] KYLE: excited.
+[00:05:17.095 --> 00:05:18.135] RIKER: It's been fifteen years.
+[00:05:18.135 --> 00:05:19.975] RIKER: Excitement is hardly the appropriate emotion.
+[00:05:21.975 --> 00:05:22.535] KYLE: You've done well.
+[00:05:23.575 --> 00:05:26.615] KYLE: First Officer on the Enterprise. Quite a feather in your cap.
+[00:05:27.415 --> 00:05:28.055] RIKER: I've worked hard.
+[00:05:30.135 --> 00:05:30.455] KYLE: Of course.
+[00:05:31.655 --> 00:05:32.375] KYLE: I'm proud of you, son.
+[00:05:33.735 --> 00:05:35.575] RIKER: If you'll excuse me, I've got my duties to attend to.
+[00:05:36.935 --> 00:05:38.535] RIKER: When you've settled in, we can complete our briefing.
+[00:05:39.895 --> 00:05:41.815] RIKER: Have Security arrange an escort for this gentleman.
+[00:05:42.455 --> 00:05:42.775] HERBERT: Aye, sir.
+[00:05:54.215 --> 00:05:54.535] WESLEY: Worf,
+[00:05:55.255 --> 00:05:56.695] WESLEY: did you hear about Commander Riker's promotion?
+[00:05:56.775 --> 00:05:57.015] WORF: Yes.
+[00:05:57.015 --> 00:05:58.135] WESLEY: He didn't know his father was coming.
+[00:05:58.135 --> 00:05:59.335] WESLEY: He was completely surprised.
+[00:05:59.335 --> 00:05:59.655] WORF: So?
+[00:05:59.735 --> 00:06:01.175] WESLEY: Can you imagine if it was your father?
+[00:06:01.175 --> 00:06:02.295] WORF: I never knew my father.
+[00:06:02.641 --> 00:06:04.001] WESLEY: And I didn't have a father long enough to know him.
+[00:06:04.001 --> 00:06:06.241] WORF: It is a waste of time to think of such things.
+[00:06:07.281 --> 00:06:09.761] WESLEY: I wasn't thinking about it, but everybody needs somebody.
+[00:06:09.761 --> 00:06:10.161] WORF: Enough!
+[00:06:20.161 --> 00:06:27.041] LAFORGE: You know, Starbase Montgomery really didn't have to send me all this help, because we've already checked the entire dilithium spectrum for anomalous frequencies, so you don't have to waste your time on
+[00:06:28.961 --> 00:06:28.961] LAFORGE: that.
+[00:06:30.721 --> 00:06:32.561] LAFORGE: Wes. Are you okay?
+[00:06:33.761 --> 00:06:34.721] WESLEY: I was just talking to Worf.
+[00:06:36.401 --> 00:06:38.001] WESLEY: He's really eccentric at times.
+[00:06:38.561 --> 00:06:39.361] LAFORGE: That's one word for it.
+[00:06:40.641 --> 00:06:41.681] WESLEY: He was really upset.
+[00:06:42.881 --> 00:06:44.001] WESLEY: I must've said something wrong.
+[00:06:44.641 --> 00:06:47.921] LAFORGE: Maybe Worf's not too thrilled with the idea of losing Commander Riker to a new assignment.
+[00:06:48.641 --> 00:06:49.281] LAFORGE: I know I'm not.
+[00:06:49.841 --> 00:06:50.481] WESLEY: Neither am I.
+[00:06:51.361 --> 00:06:52.801] WESLEY: But with Worf it was something else.
+[00:06:53.521 --> 00:06:54.881] WESLEY: Something's really bothering him.
+[00:06:55.521 --> 00:06:56.001] LAFORGE: Think so?
+[00:07:09.281 --> 00:07:09.601] O'BRIEN: Female?
+[00:07:10.161 --> 00:07:10.161] RIKER: No.
+[00:07:11.521 --> 00:07:11.841] O'BRIEN: Career?
+[00:07:13.761 --> 00:07:14.161] O'BRIEN: Career?
+[00:07:15.281 --> 00:07:15.841] RIKER: Family.
+[00:07:16.481 --> 00:07:17.121] O'BRIEN: That is trouble.
+[00:07:18.081 --> 00:07:19.201] O'BRIEN: You choose your enemies,
+[00:07:19.281 --> 00:07:20.321] O'BRIEN: you choose your friends,
+[00:07:20.881 --> 00:07:21.441] O'BRIEN: but family?
+[00:07:22.401 --> 00:07:23.772] O'BRIEN: That's in the stars.
+[00:07:23.772 --> 00:07:24.801] RIKER: So I've heard.
+[00:07:32.773 --> 00:07:35.013] MAN: Kyle Riker! Excuse me, ladies.
+[00:07:37.973 --> 00:07:39.445] MAN: Great to see you.
+[00:07:39.445 --> 00:07:39.813] MAN 2: Kyle.
+[00:07:39.963 --> 00:07:40.963] MAN 2: Been a
+[00:07:42.293 --> 00:07:44.373] MAN 2: long time.
+[00:07:56.213 --> 00:07:59.653] PULASKI: This is more than a surprise.
+[00:07:59.653 --> 00:08:00.853] PULASKI: It's total shock.
+[00:08:01.653 --> 00:08:03.093] KYLE: You mean you didn't bake me a cake?
+[00:08:04.933 --> 00:08:05.973] PULASKI: You're actually here.
+[00:08:06.613 --> 00:08:07.413] KYLE: That makes two of us.
+[00:08:08.133 --> 00:08:08.613] KYLE: How about a drink?
+[00:08:09.173 --> 00:08:09.973] PULASKI: How about a kiss?
+[00:08:12.373 --> 00:08:12.453] RIKER: They
+[00:08:14.773 --> 00:08:15.253] RIKER: know each other.
+[00:08:16.453 --> 00:08:16.773] O'BRIEN: No kidding.
+[00:08:17.653 --> 00:08:18.373] O'BRIEN: I know her too, but
+[00:08:18.613 --> 00:08:19.333] O'BRIEN: we don't do that.
+[00:08:24.293 --> 00:08:24.373] KYLE: You
+[00:08:27.333 --> 00:08:27.893] KYLE: look wonderful.
+[00:08:34.773 --> 00:08:34.853] DATA: And
+[00:08:36.773 --> 00:08:39.173] DATA: it has nothing to do with Commander Riker's new assignment?
+[00:08:39.173 --> 00:08:41.813] WESLEY: No. His reaction was just the opposite of mine.
+[00:08:42.053 --> 00:08:42.933] WESLEY: Completely unaffected.
+[00:08:43.173 --> 00:08:44.853] LAFORGE: You see? With all that's going on,
+[00:08:44.853 --> 00:08:46.213] LAFORGE: maybe you're overreacting.
+[00:08:46.773 --> 00:08:47.173] WESLEY: Really?
+[00:08:48.133 --> 00:08:52.053] WESLEY: You try talking to Worf, Geordi. I'm telling you, he is not normal for Worf.
+[00:08:54.213 --> 00:09:00.693] DATA: There is, of course, a genetic predisposition toward hostility among all Klingons, but Worf has been unusually out of sorts.
+[00:09:00.762 --> 00:09:03.482] LAFORGE: Come on, he's never been much on charm.
+[00:09:04.762 --> 00:09:06.842] WESLEY: Well, whatever is troubling him, I think we should try to help.
+[00:09:07.482 --> 00:09:08.415] WESLEY: He is our friend.
+[00:09:08.415 --> 00:09:10.282] LAFORGE: I for one want to keep him friendly.
+[00:09:11.402 --> 00:09:11.962] WESLEY: Suggestions?
+[00:09:13.002 --> 00:09:13.882] DATA: Empirical study.
+[00:09:14.682 --> 00:09:15.642] DATA: Monitor the subject.
+[00:09:15.802 --> 00:09:16.122] WESLEY: Right.
+[00:09:16.602 --> 00:09:18.762] WESLEY: Watch the subject for any signs of unusual behaviour.
+[00:09:19.642 --> 00:09:20.629] LAFORGE: That won't be difficult.
+[00:09:20.629 --> 00:09:22.602] DATA: Within the norm of Klingon patterns, of course.
+[00:09:22.842 --> 00:09:24.282] DATA: Discretion will be required.
+[00:09:24.842 --> 00:09:25.242] WESLEY: Agreed.
+[00:09:25.642 --> 00:09:26.202] WESLEY: When do we start?
+[00:09:28.522 --> 00:09:30.442] LAFORGE: We will assist you as needed.
+[00:09:31.082 --> 00:09:32.184] LAFORGE: You found the problem.
+[00:09:32.184 --> 00:09:33.562] DATA: And you must solve it.
+[00:09:51.002 --> 00:09:51.402] KYLE: Thank you.
+[00:09:52.362 --> 00:09:59.242] KYLE: And after working out the Fuurinkazan battle strategies at the Tokyo Base, I was asked to come here to work for Starfleet as a tactical advisor.
+[00:09:59.642 --> 00:10:01.882] PULASKI: I'm surprised you stayed our of the action as long as you did.
+[00:10:02.202 --> 00:10:04.042] PULASKI: Will, please join us.
+[00:10:04.042 --> 00:10:05.482] PULASKI: Your father and I are just catching up.
+[00:10:05.882 --> 00:10:06.762] RIKER: You never told me you knew him.
+[00:10:09.482 --> 00:10:10.602] PULASKI: Well, it wasn't exactly a secret.
+[00:10:11.722 --> 00:10:12.762] PULASKI: It just never really came up.
+[00:10:13.882 --> 00:10:14.602] KYLE: Sit down, son.
+[00:10:15.482 --> 00:10:16.682] RIKER: I'm ready for that briefing whenever you are.
+[00:10:31.267 --> 00:10:32.467] KYLE: Good to see you too, Graham.
+[00:10:35.427 --> 00:10:36.947] PULASKI: You wouldn't be running for mayor, would you?
+[00:10:37.587 --> 00:10:40.787] KYLE: Do pick up work for the Federation long enough and it'll happen to you, too.
+[00:10:43.507 --> 00:10:44.467] KYLE: I thought about you a lot.
+[00:10:45.587 --> 00:10:47.827] PULASKI: Kyle, I don't need to hear what you don't need to say.
+[00:10:48.547 --> 00:10:49.747] KYLE: We could've been great together.
+[00:10:51.107 --> 00:10:51.507] PULASKI: Possibly.
+[00:10:52.307 --> 00:10:53.507] KYLE: Is it true you got married?
+[00:10:54.147 --> 00:10:55.507] PULASKI: Again and again.
+[00:10:56.627 --> 00:10:57.987] KYLE: That make you three for three, doesn't it?
+[00:10:58.867 --> 00:10:59.827] PULASKI: I'm not complaining.
+[00:10:59.987 --> 00:11:01.987] PULASKI: Each was good a man and we're all still good friends.
+[00:11:02.547 --> 00:11:03.107] KYLE: Like us?
+[00:11:04.067 --> 00:11:05.427] PULASKI: Close, but different.
+[00:11:05.987 --> 00:11:08.067] PULASKI: They were all a little more in touch with themselves.
+[00:11:08.067 --> 00:11:08.947] KYLE: Ouch.
+[00:11:09.027 --> 00:11:11.027] PULASKI: Face facts, Kyle.
+[00:11:11.027 --> 00:11:11.667] PULASKI: You're crusty.
+[00:11:11.667 --> 00:11:14.467] PULASKI: You have a reputation for being hard as nails and getting the job done.
+[00:11:14.947 --> 00:11:16.547] PULASKI: Underneath it all, you're not so bad.
+[00:11:17.667 --> 00:11:18.707] PULASKI: Some of us even love you.
+[00:11:21.907 --> 00:11:22.707] PULASKI: And then there's Will.
+[00:11:27.107 --> 00:11:27.827] KYLE: Then there's Will.
+[00:11:33.107 --> 00:11:34.867] LAFORGE: Wesley should really be doing this on his own.
+[00:11:35.747 --> 00:11:36.947] DATA: But he needs his study time.
+[00:11:37.987 --> 00:11:39.107] LAFORGE: I can't believe you fell for that.
+[00:11:44.467 --> 00:11:45.107] LAFORGE: I don't know, Data.
+[00:11:45.107 --> 00:11:46.547] LAFORGE: He looks perfectly normal to me.
+[00:11:47.587 --> 00:11:50.787] DATA: In solitude, there is nothing to trigger unusual behaviour.
+[00:11:51.747 --> 00:11:52.227] LAFORGE: Good point.
+[00:11:52.467 --> 00:11:54.307] LAFORGE: Let's not tamper with the status quo.
+[00:11:54.918 --> 00:11:57.878] DATA: But that would defeat the opportunity for our behavioural research.
+[00:11:58.518 --> 00:12:01.638] DATA: In all probability, he is simply lonely.
+[00:12:02.518 --> 00:12:04.998] DATA: We can relieve his anxiety through socialisation.
+[00:12:06.758 --> 00:12:07.638] LAFORGE: Be my guest.
+[00:12:16.038 --> 00:12:17.078] DATA: Excuse me, Lieutenant.
+[00:12:18.358 --> 00:12:21.238] DATA: You seem to have lost the will to communicate with others.
+[00:12:22.278 --> 00:12:23.398] DATA: You have friends here.
+[00:12:23.878 --> 00:12:24.038] DATA: We,
+[00:12:26.198 --> 00:12:27.238] DATA: we care about you.
+[00:12:28.278 --> 00:12:32.310] DATA: Why, just recently, Geordi, Wesley and I were saying
+[00:12:32.310 --> 00:12:34.998] WORF: With all due respect, be gone!
+[00:12:37.478 --> 00:12:37.638] WORF: Sir.
+[00:12:51.798 --> 00:12:55.158] DATA: He seems quite sincere in his desire for solitude.
+[00:12:55.398 --> 00:12:56.918] LAFORGE: Seeing is believing, huh?
+[00:12:56.918 --> 00:12:56.998] RIKER: Come
+[00:13:16.678 --> 00:13:16.758] RIKER: in.
+[00:13:19.878 --> 00:13:20.278] RIKER: Worf?
+[00:13:21.318 --> 00:13:22.118] WORF: May I have a moment, sir?
+[00:13:23.718 --> 00:13:23.878] RIKER: Of course.
+[00:13:23.878 --> 00:13:24.198] RIKER: What is it?
+[00:13:24.198 --> 00:13:26.678] WORF: It is very difficult to say.
+[00:13:28.297 --> 00:13:30.217] WORF: Words are not always easy for me.
+[00:13:31.577 --> 00:13:33.977] WORF: Is that Earth?
+[00:13:35.257 --> 00:13:36.297] RIKER: Yes. Alaska.
+[00:13:36.297 --> 00:13:37.497] RIKER: I was nine years old.
+[00:13:38.697 --> 00:13:40.137] WORF: That is a fish you are holding.
+[00:13:42.697 --> 00:13:43.657] RIKER: And I didn't even catch it.
+[00:13:45.977 --> 00:13:47.044] WORF: But it looks like you were
+[00:13:47.044 --> 00:13:47.577] RIKER: I hooked it.
+[00:13:48.217 --> 00:13:49.497] RIKER: My father took the rod away.
+[00:13:49.657 --> 00:13:50.697] RIKER: He wouldn't let me reel it in.
+[00:13:50.697 --> 00:13:51.897] RIKER: He was afraid that I might lose it.
+[00:13:54.937 --> 00:13:56.777] WORF: You do not have good feelings for your father?
+[00:13:58.057 --> 00:13:58.777] RIKER: No, I.
+[00:14:00.137 --> 00:14:02.857] RIKER: I'm not sure what I'm feeling.
+[00:14:05.017 --> 00:14:05.577] RIKER: What's on your mind?
+[00:14:11.017 --> 00:14:12.457] WORF: You plan to leave the Enterprise.
+[00:14:13.257 --> 00:14:14.457] RIKER: I've been offered my own command.
+[00:14:16.217 --> 00:14:16.937] WORF: I would like to join you.
+[00:14:22.217 --> 00:14:23.657] RIKER: I haven't accepted the assignment yet
+[00:14:24.617 --> 00:14:26.617] WORF: But sir, it could be a dangerous mission.
+[00:14:26.617 --> 00:14:28.217] WORF: There may be the potential for combat.
+[00:14:28.297 --> 00:14:29.737] RIKER: That is not the purpose of the mission.
+[00:14:29.737 --> 00:14:31.737] WORF: Still, to die a true hero
+[00:14:31.737 --> 00:14:31.977] RIKER: Worf,
+[00:14:33.737 --> 00:14:34.377] RIKER: you've made your point.
+[00:14:37.657 --> 00:14:39.257] WORF: Then I know you will do the right thing.
+[00:14:56.617 --> 00:14:57.657] KYLE: Finally. We're alone.
+[00:14:58.537 --> 00:14:59.657] KYLE: Maybe now we can talk.
+[00:15:00.697 --> 00:15:01.657] RIKER: I'm here for the briefing, sir.
+[00:15:05.640 --> 00:15:06.680] KYLE: All you need to know is here.
+[00:15:11.880 --> 00:15:13.400] RIKER: These mission details could have been transmitted.
+[00:15:15.400 --> 00:15:17.000] KYLE: I've been hearing some good things about you.
+[00:15:18.440 --> 00:15:19.560] RIKER: Then why haven't I heard from you?
+[00:15:21.160 --> 00:15:24.040] KYLE: I know. Keeping in touch is not my strong suit.
+[00:15:24.760 --> 00:15:26.440] KYLE: It's a funny thing about being a parent.
+[00:15:27.160 --> 00:15:31.640] KYLE: There aren't any tech manuals. No quick readouts to get you to the next set of variables.
+[00:15:31.640 --> 00:15:33.400] KYLE: You just got to wing it from day to day.
+[00:15:35.720 --> 00:15:37.834] KYLE: Will, when your mother died
+[00:15:37.834 --> 00:15:38.680] RIKER: Excuse me.
+[00:15:39.400 --> 00:15:40.680] RIKER: I've got to study this mission briefing.
+[00:15:42.280 --> 00:15:42.600] KYLE: Will.
+[00:15:44.360 --> 00:15:45.960] KYLE: I came to the Enterprise because.
+[00:15:48.840 --> 00:15:50.920] KYLE: Look, considering where you might be going, I wanted to.
+[00:15:54.040 --> 00:15:55.400] KYLE: I'm here with my hand out, son.
+[00:16:16.520 --> 00:16:19.960] PULASKI: Poor guy. Picked up a flu virus on our last stop at Nasreldine.
+[00:16:20.280 --> 00:16:21.000] KYLE: Sounds nasty.
+[00:16:21.000 --> 00:16:21.800] KYLE: What's the therapy?
+[00:16:22.040 --> 00:16:26.920] PULASKI: Tryptophan-lysine distillates with generous doses of PCS.
+[00:16:27.640 --> 00:16:28.440] KYLE: PCS?
+[00:16:28.920 --> 00:16:30.280] PULASKI: Pulaski's chicken soup.
+[00:16:31.640 --> 00:16:33.000] KYLE: You haven't lost your touch, haven't you?
+[00:16:33.414 --> 00:16:35.254] PULASKI: I like to help. When they hurt, I
+[00:16:35.894 --> 00:16:36.232] PULASKI: hurt.
+[00:16:36.232 --> 00:16:38.934] TROI: Commander Pulaski's greatest medical skill is her empathy.
+[00:16:40.374 --> 00:16:41.974] TROI: You must be Commander Riker's father.
+[00:16:42.134 --> 00:16:43.254] KYLE: Yes, but how?
+[00:16:43.494 --> 00:16:46.454] TROI: We've all heard about you, and I felt certain things.
+[00:16:46.934 --> 00:16:48.614] PULASKI: This is Deanna Troi, ship's Counsellor.
+[00:16:50.454 --> 00:16:51.094] KYLE: Kyle Riker.
+[00:16:51.574 --> 00:16:52.694] PULASKI: I thought you two should meet.
+[00:16:53.014 --> 00:16:55.414] PULASKI: Deanna's job is to keep us from deluding ourselves.
+[00:16:56.134 --> 00:16:57.654] KYLE: Let me guess. Betazoid?
+[00:16:58.774 --> 00:16:59.654] TROI: At your service.
+[00:17:00.774 --> 00:17:01.733] PULASKI: I have some lab work to do.
+[00:17:01.733 --> 00:17:02.534] PULASKI: If you'll excuse me.
+[00:17:03.414 --> 00:17:06.694] KYLE: Why do I get the feeling that this is a set-up?
+[00:17:07.413 --> 00:17:11.094] TROI: Because you are intelligent, wise and quite correct.
+[00:17:12.054 --> 00:17:13.893] KYLE: Well, I've never been set up better,
+[00:17:13.893 --> 00:17:14.613] KYLE: that's for sure
+[00:17:16.054 --> 00:17:18.054] TROI: You're also very anxious about something.
+[00:17:21.574 --> 00:17:22.694] TROI: It's Will, isn't it?
+[00:17:24.373 --> 00:17:26.294] TROI: You're not as close to him as you'd like to be.
+[00:17:27.413 --> 00:17:28.214] KYLE: Oh, I don't know.
+[00:17:29.014 --> 00:17:31.494] KYLE: We both have pretty good taste in women, wouldn't you say?
+[00:17:35.494 --> 00:17:39.254] TROI: I'd like to help you if I can. If you'll let me.
+[00:17:39.974 --> 00:17:40.294] KYLE: Fine.
+[00:17:40.534 --> 00:17:41.654] KYLE: What is it you want from me?
+[00:17:42.374 --> 00:17:47.894] KYLE: I came here to bury the hatchet with my son only to find out the ground was frozen solid.
+[00:17:49.173 --> 00:17:51.654] TROI: You don't seem to be the kind of man to give up so easily.
+[00:17:52.614 --> 00:17:54.054] KYLE: I didn't say I was giving up.
+[00:17:55.414 --> 00:17:57.494] KYLE: It would just be nice to get a little something from him.
+[00:17:58.214 --> 00:17:59.254] TROI: What is it you want from him?
+[00:18:00.214 --> 00:18:00.614] KYLE: I don't know.
+[00:18:01.334 --> 00:18:02.814] KYLE: Acknowledgement, maybe or
+[00:18:02.814 --> 00:18:04.294] TROI: Respect is earned,
+[00:18:04.852 --> 00:18:05.652] TROI: not bestowed.
+[00:18:06.612 --> 00:18:07.172] KYLE: Respect?
+[00:18:08.292 --> 00:18:09.332] KYLE: I don't need that from him.
+[00:18:11.172 --> 00:18:12.612] TROI: Perhaps you want him to be proud of you.
+[00:18:13.492 --> 00:18:15.412] TROI: You carry great pride in his accomplishments.
+[00:18:15.972 --> 00:18:16.852] KYLE: Absolutely.
+[00:18:17.092 --> 00:18:17.652] KYLE: Look at him.
+[00:18:18.132 --> 00:18:19.652] KYLE: First Officer of the Enterprise,
+[00:18:20.052 --> 00:18:21.652] KYLE: just been offered his first command.
+[00:18:22.452 --> 00:18:23.892] TROI: Yet you covet his success.
+[00:18:24.532 --> 00:18:25.012] KYLE: Please.
+[00:18:26.132 --> 00:18:27.732] KYLE: He'd be lucky to have the career I've had.
+[00:18:27.972 --> 00:18:30.132] TROI: True, you're well respected in your field.
+[00:18:30.932 --> 00:18:33.092] KYLE: I may have something of a reputation for excellence
+[00:18:33.972 --> 00:18:35.172] TROI: And false humility.
+[00:18:38.452 --> 00:18:41.812] KYLE: My guess is that Will finds you pretty fascinating.
+[00:18:42.052 --> 00:18:44.372] KYLE: Candour seems to be a trait he admires.
+[00:18:46.052 --> 00:18:48.372] TROI: Honesty is the trait he admires most.
+[00:18:50.052 --> 00:18:51.652] TROI: And you should honestly consider
+[00:18:51.892 --> 00:18:53.812] TROI: why you're so competitive with your own son.
+[00:18:56.212 --> 00:18:56.692] KYLE: Competitive?
+[00:18:58.452 --> 00:18:59.412] KYLE: Maybe in the past.
+[00:19:00.532 --> 00:19:04.932] KYLE: But I've come here to help Will prepare for his first task as captain.
+[00:19:05.732 --> 00:19:07.972] TROI: Are you sure he'll accept such a dangerous assignment?
+[00:19:08.612 --> 00:19:10.452] KYLE: He'll accept it just because it is dangerous.
+[00:19:11.252 --> 00:19:12.212] TROI: How can you be so sure?
+[00:19:13.252 --> 00:19:13.892] KYLE: Because I would.
+[00:19:15.412 --> 00:19:17.332] KYLE: And we aren't so different, Will and I.
+[00:19:32.852 --> 00:19:33.652] PICARD: You've seen your mission briefing?
+[00:19:33.972 --> 00:19:34.612] RIKER: Yes, I have.
+[00:19:35.398 --> 00:19:35.958] PICARD: Any questions?
+[00:19:36.278 --> 00:19:39.398] RIKER: No, other than a question about the Ares's First Officer.
+[00:19:39.798 --> 00:19:41.158] PICARD: Oh, yes. His name is Flaherty.
+[00:19:41.878 --> 00:19:45.878] RIKER: Yes. The briefing mentions something about an uncanny linguistic skill.
+[00:19:46.838 --> 00:19:47.958] PICARD: That is an understatement, Number One.
+[00:19:48.438 --> 00:19:52.038] PICARD: The last time I saw Commander Flaherty, he spoke forty languages.
+[00:19:52.118 --> 00:19:59.238] PICARD: As I recall, among the more exotic were Romulan, Klingon, Giamon, Stroyerian.
+[00:19:59.798 --> 00:20:01.238] RIKER: He speaks forty languages?
+[00:20:01.398 --> 00:20:08.118] PICARD: He has this unique ability of instantaneously interpreting and extrapolating any verbal communication that he hears.
+[00:20:08.118 --> 00:20:10.838] PICARD: You will find him very useful in Sector Vega-Omicron.
+[00:20:11.398 --> 00:20:12.198] RIKER: Yes, I'm sure I will.
+[00:20:13.638 --> 00:20:13.958] RIKER: Come in.
+[00:20:15.638 --> 00:20:17.878] KYLE: Oh, Captain Picard, at last.
+[00:20:18.518 --> 00:20:21.078] KYLE: I'd like to thank you for all the help you've been to my son.
+[00:20:21.478 --> 00:20:24.838] PICARD: My only regret is that your reunion marks Will's farewell.
+[00:20:25.318 --> 00:20:26.518] KYLE: But he's ready for this command.
+[00:20:26.998 --> 00:20:28.438] PICARD: Oh, yes, I have no doubt.
+[00:20:30.838 --> 00:20:32.758] KYLE: Captain, may I have a word with my son?
+[00:20:33.478 --> 00:20:34.038] PICARD: Yes, of course.
+[00:20:34.118 --> 00:20:34.758] PICARD: Excuse me, gentlemen.
+[00:20:39.958 --> 00:20:41.398] RIKER: I won't be pushed into this decision.
+[00:20:42.118 --> 00:20:43.078] KYLE: Oh, come on, Will.
+[00:20:44.358 --> 00:20:45.878] KYLE: Don't you think you're ready for the Ares?
+[00:20:47.558 --> 00:20:48.118] RIKER: Starfleet does.
+[00:20:48.118 --> 00:20:50.918] KYLE: Of course. Because you're the best candidate for the job.
+[00:20:52.758 --> 00:20:54.838] KYLE: I only want you to know I'm here if you need me.
+[00:20:55.478 --> 00:20:57.238] RIKER: I've been on my own since I was fifteen.
+[00:20:57.238 --> 00:20:58.598] RIKER: I can take care of myself.
+[00:20:59.238 --> 00:21:01.638] KYLE: Please, spare me the pain of your childhood.
+[00:21:03.000 --> 00:21:04.280] KYLE: I hung in for thirteen years.
+[00:21:04.280 --> 00:21:05.960] KYLE: If that wasn't enough, it's just too bad.
+[00:21:16.120 --> 00:21:17.880] LAFORGE: Data, what if I missed something?
+[00:21:17.880 --> 00:21:20.440] DATA: The ship's computer would have corrected immediately.
+[00:21:20.520 --> 00:21:22.360] LAFORGE: Maybe my inputs were incorrect.
+[00:21:22.360 --> 00:21:25.320] WESLEY: Data! Geordi! I figured out Worf's problem.
+[00:21:25.640 --> 00:21:26.280] LAFORGE: You spoke to him?
+[00:21:26.600 --> 00:21:27.080] WESLEY: No, no.
+[00:21:27.080 --> 00:21:29.640] WESLEY: I accessed the complete Klingon cultural database.
+[00:21:29.880 --> 00:21:30.840] WESLEY: It took me some time
+[00:21:30.840 --> 00:21:32.360] LAFORGE: Okay, Wesley, slow down.
+[00:21:33.400 --> 00:21:34.600] LAFORGE: What is the problem?
+[00:21:35.960 --> 00:21:37.800] WESLEY: It's the tenth anniversary of Worf's Age of Ascension.
+[00:21:38.920 --> 00:21:39.240] LAFORGE: His what?
+[00:21:39.320 --> 00:21:41.480] WESLEY: The Klingon Age of Ascension.
+[00:21:41.800 --> 00:21:46.840] WESLEY: It's a ritual of great significance. A rite of initiation marking a new level of Klingon spiritual attainment.
+[00:21:47.560 --> 00:21:50.120] DATA: And what is the significance of the anniversary of this event?
+[00:21:50.520 --> 00:21:53.480] WESLEY: It's a day of celebration and ritual spent with one's fellow Klingons.
+[00:21:53.880 --> 00:21:55.640] WESLEY: Worf doesn't have any Klingon friends.
+[00:21:56.680 --> 00:21:57.480] LAFORGE: We're his friends.
+[00:21:57.640 --> 00:22:00.760] WESLEY: Right, but we don't practice Klingon tradition, And we're not Klingons.
+[00:22:01.480 --> 00:22:03.720] WESLEY: Worf is feeling culturally and socially isolated.
+[00:22:05.000 --> 00:22:06.040] LAFORGE: So, what do you suggest
+[00:22:06.360 --> 00:22:09.080] LAFORGE: we do? I'm not sure I'd like to invite a bunch of Klingons on board.
+[00:22:09.240 --> 00:22:12.440] DATA: We can programme the ship's computer to supply simulations on the Holodeck.
+[00:22:13.000 --> 00:22:14.200] LAFORGE: Holographic Klingons.
+[00:22:14.760 --> 00:22:15.480] LAFORGE: Sure. Why not?
+[00:22:15.960 --> 00:22:19.240] DATA: We need only to programme the computer with details of the specific ceremony.
+[00:22:19.640 --> 00:22:22.760] WESLEY: The cultural database said the Klingon's family must attend.
+[00:22:23.160 --> 00:22:24.680] LAFORGE: So? We're his family.
+[00:22:24.680 --> 00:22:25.080] LAFORGE: We'll go.
+[00:22:26.280 --> 00:22:31.400] LAFORGE: I just wonder what kind of party the Klingons had in mind.
+[00:22:31.400 --> 00:22:35.320] RIKER: Have you got a minute?
+[00:22:36.396 --> 00:22:36.796] PULASKI: Sure.
+[00:22:37.916 --> 00:22:39.356] RIKER: I wanted to apologize for my remark in
+[00:22:39.596 --> 00:22:40.156] RIKER: Ten Forward.
+[00:22:40.236 --> 00:22:41.596] RIKER: Your personal is none of my business.
+[00:22:43.196 --> 00:22:44.556] PULASKI: Even if it involves your father?
+[00:22:45.356 --> 00:22:46.476] RIKER: Even if it involves my father.
+[00:22:48.956 --> 00:22:50.716] PULASKI: Did he ever tell you why he never remarried?
+[00:22:51.916 --> 00:22:53.436] RIKER: What woman would have him with an ego like that?
+[00:22:54.956 --> 00:22:55.676] PULASKI: I would have,
+[00:22:56.156 --> 00:22:56.956] PULASKI: in a cold minute.
+[00:23:09.196 --> 00:23:15.196] PULASKI: Twelve years ago, Kyle Riker was a civilian strategist advising Starfleet in its conflict with the Tholians.
+[00:23:15.196 --> 00:23:18.556] PULASKI: The starbase that he was operating from was attacked.
+[00:23:19.276 --> 00:23:22.636] PULASKI: None of the base crew was expected to live, and they all died.
+[00:23:23.516 --> 00:23:24.476] PULASKI: All except your father.
+[00:23:27.116 --> 00:23:31.516] PULASKI: Your father alone had the will to endure, to face the pain, to live.
+[00:23:34.396 --> 00:23:35.676] RIKER: I never knew any of that about him.
+[00:23:37.756 --> 00:23:40.796] PULASKI: I've never saw a man fight so hard in all my
+[00:23:42.716 --> 00:23:42.796] PULASKI: life.
+[00:23:42.796 --> 00:23:43.436] RIKER: And you fell in love?
+[00:23:44.476 --> 00:23:44.636] PULASKI: Yes.
+[00:23:46.156 --> 00:23:46.716] PULASKI: And so did he.
+[00:23:49.836 --> 00:23:51.916] PULASKI: But marriage was out of the question.
+[00:23:51.916 --> 00:23:53.196] PULASKI: He had other priorities.
+[00:23:53.516 --> 00:23:54.076] RIKER: His career.
+[00:23:56.636 --> 00:24:04.076] PULASKI: You know, if I were you, going out on the Ares, I'd jettison the emotional baggage you're still carrying around.
+[00:24:14.855 --> 00:24:17.815] WESLEY: Now the Klingon cultural database was very specific on the setting.
+[00:24:17.895 --> 00:24:22.535] LAFORGE: Now let me guess. Twenty piece orchestra, magnificent ballroom, everybody in formal wear.
+[00:24:22.935 --> 00:24:25.575] WESLEY: No, there is some unusual test of inner strength involved
+[00:24:26.375 --> 00:24:28.455] DATA: That would entail the use of Klingon painstiks.
+[00:24:28.535 --> 00:24:29.335] LAFORGE: Painstiks?
+[00:24:29.735 --> 00:24:30.375] LAFORGE: Sounds lovely.
+[00:24:30.935 --> 00:24:34.295] DATA: Enduring physical suffering is considered a Klingon spiritual test.
+[00:24:34.775 --> 00:24:41.175] LAFORGE: You mean in order for Worf to celebrate the anniversary of his Ascension, he has to be hurt? And we have to witness this?
+[00:24:42.375 --> 00:24:43.335] DATA: We are his family.
+[00:24:50.055 --> 00:24:50.455] PICARD: Come.
+[00:24:54.135 --> 00:24:54.535] PICARD: Number One?
+[00:24:56.615 --> 00:24:58.615] RIKER: I'd be a fool to turn that promotion down, wouldn't I?
+[00:24:59.975 --> 00:25:00.535] PICARD: I don't know,
+[00:25:02.215 --> 00:25:05.895] PICARD: and if you're asking me what I think you should do, I don't know that either.
+[00:25:09.335 --> 00:25:12.615] PICARD: I can spell out for you, albeit crudely, what you are choosing between.
+[00:25:14.215 --> 00:25:21.415] PICARD: As the First Officer of the Enterprise you have a position of distinction, prestige, even glamour of a sort.
+[00:25:22.935 --> 00:25:25.655] PICARD: You are the second in command of Starfleet's flagship, but
+[00:25:26.855 --> 00:25:27.895] PICARD: still second in command.
+[00:25:30.935 --> 00:25:36.295] PICARD: Your promotion will transfer you to a relatively insignificant ship
+[00:25:36.454 --> 00:25:38.694] PICARD: in an obscure corner of the galaxy>
+[00:25:40.854 --> 00:25:49.894] PICARD: But it will be your ship, and being who you are, it will soon be vibrant with your authority, your style,
+[00:25:51.574 --> 00:25:52.374] PICARD: your vision.
+[00:25:56.214 --> 00:25:56.534] PICARD: You know,
+[00:25:59.094 --> 00:26:01.414] PICARD: there really is no substitute for holding the reins.
+[00:26:07.974 --> 00:26:10.774] RIKER: I'll need a little more time to make this decision.
+[00:26:26.854 --> 00:26:27.414] O'BRIEN: Find anything yet?
+[00:26:28.294 --> 00:26:28.774] LAFORGE: Not yet.
+[00:26:29.414 --> 00:26:30.454] DATA: There is nothing to find.
+[00:26:31.494 --> 00:26:32.614] O'BRIEN: No harm in checking, I guess.
+[00:26:33.494 --> 00:26:33.814] LAFORGE: Really?
+[00:26:35.174 --> 00:26:37.814] LAFORGE: How would you like them to give the transporter operation a little once-over?
+[00:26:37.974 --> 00:26:38.534] O'BRIEN: No problem.
+[00:26:39.094 --> 00:26:39.974] O'BRIEN: We're totally ship-shape.
+[00:26:40.454 --> 00:26:41.414] LAFORGE: You're missing the point.
+[00:26:42.054 --> 00:26:44.294] LAFORGE: It's just the idea that they even suspect a malfunction.
+[00:26:45.094 --> 00:26:50.454] DATA: If I were not a consummate professional, and an android, I would find this entire procedure insulting.
+[00:26:52.134 --> 00:26:52.534] LAFORGE: Thanks, Data.
+[00:26:59.014 --> 00:27:03.414] WESLEY: Chief, will you be able to attend a little party for Lieutenant Worf at seventeen hundred hours?
+[00:27:03.574 --> 00:27:04.374] O'BRIEN: A party for Worf?
+[00:27:05.351 --> 00:27:06.311] O'BRIEN: Sounds intriguing.
+[00:27:06.471 --> 00:27:07.031] O'BRIEN: I'd be delighted.
+[00:27:07.431 --> 00:27:08.071] WESLEY: It's a surprise.
+[00:27:08.711 --> 00:27:09.591] O'BRIEN: My lips are sealed.
+[00:27:14.151 --> 00:27:15.431] RIKER: I didn't want to leave without saying good-bye.
+[00:27:16.951 --> 00:27:18.311] TROI: I don't like good-byes.
+[00:27:19.031 --> 00:27:20.391] TROI: How about, until next time?
+[00:27:21.511 --> 00:27:22.471] RIKER: How about until next time.
+[00:27:24.711 --> 00:27:27.191] TROI: It's been a pleasure serving with you, Commander.
+[00:27:27.191 --> 00:27:30.391] RIKER: The feeling is mutual, Counsellor.
+[00:27:31.751 --> 00:27:36.231] TROI: I'm supposed to know how everyone feels but, I can't read you right now.
+[00:27:37.511 --> 00:27:38.871] RIKER: Perhaps your own feelings are getting in the way.
+[00:27:40.551 --> 00:27:43.191] TROI: My job is to help others sort out their emotions.
+[00:27:43.911 --> 00:27:45.351] TROI: My own feelings are beside the point.
+[00:27:47.431 --> 00:27:47.991] RIKER: Not to me.
+[00:27:49.591 --> 00:27:51.111] RIKER: Our feelings are what make us all human.
+[00:27:54.711 --> 00:27:55.751] TROI: Are you feeling sad?
+[00:28:02.791 --> 00:28:03.351] RIKER: Yes, I am.
+[00:28:05.271 --> 00:28:05.831] TROI: So am I.
+[00:28:25.831 --> 00:28:29.111] KYLE: I'm leaving at twenty one hundred hours.
+[00:28:29.911 --> 00:28:30.151] KYLE: Can I have a minute?
+[00:28:37.136 --> 00:28:38.896] RIKER: I've practised my best Academy courtesy,
+[00:28:38.896 --> 00:28:40.176] RIKER: now it's time for you to go.
+[00:28:40.416 --> 00:28:41.936] KYLE: It's time for us to have a talk,
+[00:28:42.096 --> 00:28:43.296] KYLE: so lower your shields.
+[00:28:43.696 --> 00:28:45.500] RIKER: I'm asking you to leave, or I'll
+[00:28:45.500 --> 00:28:46.016] KYLE: You'll what?
+[00:28:47.456 --> 00:28:50.176] KYLE: You know, it's a shame there's no anbo-jyutsu ring nearby.
+[00:28:50.576 --> 00:28:50.896] RIKER: Really?
+[00:28:51.056 --> 00:28:51.456] RIKER: There is.
+[00:28:51.536 --> 00:28:52.816] RIKER: Deck Twelve. The gymnasium.
+[00:28:53.536 --> 00:28:55.696] KYLE: We can clear the air once and for all.
+[00:28:56.176 --> 00:28:56.656] RIKER: You're on.
+[00:29:05.936 --> 00:29:08.976] KYLE: Scuttlebutt says you wanted to see me.
+[00:29:09.616 --> 00:29:10.016] PULASKI: That's right.
+[00:29:13.296 --> 00:29:14.336] PULASKI: I thought I knew you, Kyle.
+[00:29:15.536 --> 00:29:16.736] KYLE: You do, as well as anyone.
+[00:29:17.296 --> 00:29:20.176] PULASKI: Then what is this I hear about an anbo-jyutsu match with Will?
+[00:29:21.936 --> 00:29:22.416] KYLE: You've heard.
+[00:29:23.056 --> 00:29:27.936] PULASKI: Haven't we grown beyond the point where we resolve our problems with physical conflict?
+[00:29:28.336 --> 00:29:29.856] KYLE: I think you're overreacting.
+[00:29:30.096 --> 00:29:31.056] PULASKI: I'm overreacting?
+[00:29:31.056 --> 00:29:33.056] PULASKI: You're the one who's going out to fight with his own son.
+[00:29:33.296 --> 00:29:34.656] KYLE: Don't think of it as a fight, Kate.
+[00:29:34.656 --> 00:29:36.256] KYLE: Think of it as more of a contest.
+[00:29:36.896 --> 00:29:38.496] PULASKI: And suppose one of you is injured?
+[00:29:39.216 --> 00:29:41.376] KYLE: I know where to find a good doctor. Kate
+[00:29:41.376 --> 00:29:41.616] PULASKI: Kyle.
+[00:29:43.696 --> 00:29:48.016] KYLE: Will and I have been playing anbo-jyutsu ever since he was eight old, and he knows how to handle himself.
+[00:29:48.576 --> 00:29:49.296] KYLE: And so do I.
+[00:29:50.096 --> 00:29:53.376] PULASKI: Don't take this personally, but Will is in his prime.
+[00:29:53.536 --> 00:29:54.816] KYLE: And I'm no spring chicken,
+[00:29:55.376 --> 00:29:55.696] KYLE: I know.
+[00:29:56.496 --> 00:29:56.976] KYLE: Don't worry.
+[00:29:57.616 --> 00:29:59.056] KYLE: He's never been able to beat me.
+[00:30:20.726 --> 00:30:21.206] DATA: Computer,
+[00:30:22.966 --> 00:30:23.686] DATA: is this it?
+[00:30:25.126 --> 00:30:27.766] COMPUTER: Correct. Klingon Rite of Ascension Chamber.
+[00:30:29.606 --> 00:30:30.726] LAFORGE: Is this really necessary?
+[00:30:31.686 --> 00:30:33.286] WESLEY: If we want to get Worf through his problem, it is.
+[00:30:34.166 --> 00:30:38.246] DATA: Computer, please give us Klingon personnel appropriate to this event.
+[00:30:39.286 --> 00:30:39.526] DATA: These
+[00:30:41.206 --> 00:30:44.246] DATA: images are specifically programmed for Ascension rites.
+[00:30:45.846 --> 00:30:46.566] LAFORGE: Cute bunch.
+[00:30:50.406 --> 00:30:51.286] WESLEY: And they use those?
+[00:30:52.246 --> 00:30:54.166] O'BRIEN: Those are Klingon painstiks.
+[00:30:56.166 --> 00:31:00.246] O'BRIEN: I once saw one of them used against a two-ton Rectyne Monopod.
+[00:31:01.286 --> 00:31:03.846] O'BRIEN: Poor creature jumped five metres at the slightest touch.
+[00:31:04.966 --> 00:31:07.446] O'BRIEN: It finally died from excessive cephalic pressures.
+[00:31:09.366 --> 00:31:09.846] WESLEY: You mean?
+[00:31:10.406 --> 00:31:10.806] O'BRIEN: That's right.
+[00:31:11.846 --> 00:31:13.126] O'BRIEN: The animal's head exploded like
+[00:31:13.286 --> 00:31:14.806] PULASKI: I think that's enough, Chief O'Brien.
+[00:31:23.206 --> 00:31:24.966] WORF: I do not enjoy riddles, Counsellor.
+[00:31:25.206 --> 00:31:26.646] TROI: You will enjoy this one.
+[00:31:27.286 --> 00:31:30.486] WORF: I am in no mood for trifling or games, not today.
+[00:31:30.886 --> 00:31:33.046] TROI: I know what an important day this is for you,
+[00:31:33.446 --> 00:31:35.446] TROI: the anniversary of your Rite of Ascension.
+[00:31:35.926 --> 00:31:36.806] WORF: You know about that?
+[00:31:37.843 --> 00:31:39.203] TROI: All your friends on board do.
+[00:31:40.323 --> 00:31:41.283] WORF: That is impossible.
+[00:31:41.923 --> 00:31:44.926] WORF: It is a secret known only to Klingons.
+[00:31:44.926 --> 00:31:46.803] TROI: And certain resourceful young Ensigns.
+[00:31:50.323 --> 00:31:51.203] WORF: Wesley Crusher.
+[00:31:52.963 --> 00:31:53.763] WORF: What does he know about it?
+[00:31:55.283 --> 00:31:56.163] TROI: Just bear with me.
+[00:31:57.363 --> 00:31:58.243] WORF: Where are we going?
+[00:31:58.563 --> 00:31:59.203] TROI: The holodeck.
+[00:32:03.123 --> 00:32:04.963] WORF: This is truly trying my patience, Counsellor.
+[00:32:05.203 --> 00:32:06.243] TROI: I think you will approve.
+[00:32:07.443 --> 00:32:08.163] WORF: You're not coming in?
+[00:32:10.483 --> 00:32:10.723] TROI: No.
+[00:32:35.123 --> 00:32:35.123] WORF: Open.
+[00:32:35.123 --> 00:32:36.403] WORF: An Ascension ceremony.
+[00:32:36.883 --> 00:32:38.563] LAFORGE: Happy anniversary, Worf.
+[00:32:40.243 --> 00:32:40.963] DATA: Shall we begin?
+[00:32:50.963 --> 00:32:51.443] WORF: I am ready.
+[00:32:59.203 --> 00:32:59.603] WORF: DaHjaj
+[00:33:00.563 --> 00:33:01.603] WORF: SuvwI''e'
+[00:33:01.603 --> 00:33:01.603] WORF: jIH.
+[00:33:02.003 --> 00:33:04.003] WORF: tIgwIj
+[00:33:04.563 --> 00:33:05.923] WORF: Sa'angNIS.
+[00:33:06.883 --> 00:33:08.403] WORF: 'Iw bIQtIqDaq jIjaH.
+[00:33:10.103 --> 00:33:10.503] WORF: Today
+[00:33:10.503 --> 00:33:14.903] WORF: I am a Warrior.
+[00:33:16.023 --> 00:33:17.463] WORF: I must show you my heart.
+[00:33:18.743 --> 00:33:21.063] WORF: I travel the river of blood.
+[00:33:22.103 --> 00:33:22.103] DATA: The
+[00:33:30.983 --> 00:33:36.983] DATA: true test of Klingon strength is to admit one's most profound feelings while under extreme duress.
+[00:33:37.703 --> 00:33:39.223] WORF: jIbechrup
+[00:33:41.143 --> 00:33:41.143] WORF: may'
+[00:33:43.623 --> 00:33:43.863] WORF: vIlos.
+[00:33:49.863 --> 00:33:53.463] WORF: The battle is mine.
+[00:33:55.063 --> 00:33:56.743] WORF: I crave only the blood of the enemy.
+[00:33:58.423 --> 00:34:00.103] WORF: HIHIvqa'.
+[00:34:07.703 --> 00:34:13.543] WORF: The bile of the vanquished flows over my hands.
+[00:34:15.463 --> 00:34:17.543] WORF: May'pequ' moH.
+[00:34:20.743 --> 00:34:22.743] WORF: Thank
+[00:35:00.769 --> 00:35:00.769] WORF: you.
+[00:35:00.769 --> 00:35:01.809] TROI: Is Lieutenant Worf all right?
+[00:35:02.289 --> 00:35:03.409] PULASKI: He's never been happier.
+[00:35:03.809 --> 00:35:04.929] TROI: So it was a good ceremony?
+[00:35:05.569 --> 00:35:08.929] PULASKI: Let's just say that I was not about to stay for refreshments.
+[00:35:09.569 --> 00:35:11.329] TROI: Klingon culture is not in your taste?
+[00:35:11.809 --> 00:35:16.209] PULASKI: I'm just glad that humans have progressed beyond the need for barbaric display.
+[00:35:17.489 --> 00:35:17.969] TROI: Have they?
+[00:35:19.089 --> 00:35:24.369] TROI: Commander Riker and his father are in the gymnasium, about to engage in barbarism of their own.
+[00:35:24.609 --> 00:35:26.609] PULASKI: Don't remind me. It's something of which I do not approve.
+[00:35:27.569 --> 00:35:31.729] TROI: In spite of human evolution, there are still some traits that are endemic to gender.
+[00:35:32.609 --> 00:35:35.249] PULASKI: You think that they're going to knock each other's brains out because they're men?
+[00:35:35.809 --> 00:35:37.249] TROI: Human males are unique.
+[00:35:38.049 --> 00:35:45.729] TROI: Fathers continue to regard their sons as children, even into adulthood. And sons continue to chafe against what they perceive as their fathers' expectations of them.
+[00:35:47.649 --> 00:35:49.889] PULASKI: It's almost as if they never really grow up at all, isn't it?
+[00:35:53.089 --> 00:35:58.405] TROI: Perhaps that's part of their charm, and why we find them so attractive.
+[00:35:58.405 --> 00:36:00.449] PULASKI: Particularly men like Commander Riker.
+[00:36:02.413 --> 00:36:03.133] TROI: And his father.
+[00:36:07.613 --> 00:36:08.973] PULASKI: I hope they don't hurt each other.
+[00:36:14.733 --> 00:36:18.733] KYLE: Anbo-jyutsu. The ultimate evolution if the martial arts.
+[00:36:19.693 --> 00:36:21.053] RIKER: I remember my early lessons.
+[00:36:21.933 --> 00:36:25.613] KYLE: You could never get used to the sightless factor, or to losing.
+[00:36:26.013 --> 00:36:28.813] RIKER: True, but I've had fifteen years to practise.
+[00:36:30.173 --> 00:36:32.573] KYLE: Well, let's see if you've learned anything.
+[00:36:38.413 --> 00:36:39.373] BOTH: Onegaishimasu.
+[00:36:39.373 --> 00:36:40.333] KYLE: Well,
+[00:37:29.773 --> 00:37:32.413] KYLE: you've been practising.
+[00:37:32.735 --> 00:37:33.375] RIKER: And remembering.
+[00:37:34.255 --> 00:37:35.775] RIKER: You should have been the one to die, not her.
+[00:37:38.015 --> 00:37:40.255] RIKER: Yoroshiku-onegaishimasu.
+[00:37:40.975 --> 00:37:42.815] KYLE: Good. Get it all out.
+[00:37:44.015 --> 00:37:45.335] KYLE: Yoroshiku-onegaishimasu.
+[00:37:45.335 --> 00:37:46.655] RIKER: Matta!
+[00:37:53.055 --> 00:37:55.055] RIKER: I
+[00:38:07.935 --> 00:38:10.095] RIKER: had you.
+[00:38:11.855 --> 00:38:12.335] KYLE: Listen, Will.
+[00:38:13.215 --> 00:38:17.455] KYLE: You were too young to understand and I was too hurt to explain.
+[00:38:18.335 --> 00:38:19.855] RIKER: You were never too hurt for anything.
+[00:38:20.815 --> 00:38:23.375] KYLE: She was your mother, but she was my wife.
+[00:38:23.935 --> 00:38:26.975] KYLE: And when she died all that kept me going was you.
+[00:38:28.415 --> 00:38:29.615] RIKER: You had a strange way of showing it.
+[00:38:30.655 --> 00:38:32.095] KYLE: I came here thinking we could talk this out, but
+[00:38:33.135 --> 00:38:33.775] KYLE: maybe you're right.
+[00:38:34.895 --> 00:38:37.135] KYLE: Maybe I am no father, and you're no son.
+[00:38:38.175 --> 00:38:40.175] KYLE: And this this fight is all we have left.
+[00:38:40.325 --> 00:38:40.925] RIKER: Wait!
+[00:39:08.692 --> 00:39:09.332] KYLE: What is it now?
+[00:39:10.772 --> 00:39:11.412] RIKER: You can't do that.
+[00:39:12.132 --> 00:39:12.372] KYLE: What?
+[00:39:13.572 --> 00:39:14.612] RIKER: Hachidan kiritsu!
+[00:39:14.612 --> 00:39:15.172] RIKER: It's illegal.
+[00:39:16.772 --> 00:39:17.412] KYLE: You're kidding?
+[00:39:20.212 --> 00:39:20.932] RIKER: All those years.
+[00:39:22.052 --> 00:39:22.852] RIKER: That's why I never won.
+[00:39:22.852 --> 00:39:23.332] RIKER: You were cheating.
+[00:39:26.372 --> 00:39:27.092] KYLE: It worked, didn't it?
+[00:39:28.452 --> 00:39:30.132] KYLE: Kept you coming back for more.
+[00:39:31.012 --> 00:39:31.652] RIKER: Incredible.
+[00:39:33.092 --> 00:39:33.572] RIKER: You cheated me.
+[00:39:34.132 --> 00:39:35.252] RIKER: How'd you get away with it?
+[00:39:35.252 --> 00:39:36.052] KYLE: You were just a kid.
+[00:39:36.372 --> 00:39:39.812] KYLE: By the time you were twelve years old, I knew I couldn't take you but I had to keep you interested,
+[00:39:39.812 --> 00:39:41.092] KYLE: I had to keep you challenged, didn't I?
+[00:39:41.092 --> 00:39:43.332] RIKER: I always hated you for that.
+[00:39:43.652 --> 00:39:44.612] KYLE: Damn it, Will.
+[00:39:45.092 --> 00:39:47.252] KYLE: You were barely out of diapers when she died.
+[00:39:47.252 --> 00:39:48.052] KYLE: You hardly knew her!
+[00:39:49.252 --> 00:39:49.972] KYLE: I'd loved her.
+[00:39:52.212 --> 00:39:53.332] KYLE: Of course you carried the pain.
+[00:39:53.412 --> 00:39:54.052] KYLE: So did I.
+[00:39:54.692 --> 00:39:57.252] KYLE: I should have explained this to you a long time ago, but it hurt too much.
+[00:40:00.692 --> 00:40:01.892] KYLE: Then the wall grew up between us.
+[00:40:03.012 --> 00:40:05.412] KYLE: And living there, you and me, the wall got bigger.
+[00:40:07.572 --> 00:40:07.892] KYLE: You know,
+[00:40:09.812 --> 00:40:10.292] KYLE: it's funny.
+[00:40:12.772 --> 00:40:16.772] KYLE: I can talk to a whole roomful of admirals about anything in the galaxy,
+[00:40:18.772 --> 00:40:22.052] KYLE: but I can't talk to you about how I feel.
+[00:40:24.212 --> 00:40:24.932] RIKER: How do you feel?
+[00:40:28.692 --> 00:40:29.252] KYLE: How do you think?
+[00:40:32.132 --> 00:40:33.012] KYLE: I love you, son.
+[00:40:34.372 --> 00:40:36.052] KYLE: I've
+[00:40:39.492 --> 00:40:40.452] KYLE: got to get back to the
+[00:40:41.455 --> 00:40:42.096] KYLE: Starbase.
+[00:40:42.096 --> 00:40:42.736] RIKER: I know.
+[00:40:42.736 --> 00:40:42.736] RIKER: I'm
+[00:40:44.335 --> 00:40:44.815] RIKER: glad you came.
+[00:40:51.616 --> 00:40:52.096] KYLE: Be careful now, okay?
+[00:41:01.136 --> 00:41:06.255] WORF: Starbase Montgomery's briefing specialist and analytical team have beamed down, sir.
+[00:41:07.056 --> 00:41:10.255] PICARD: Ah. What were the analytical team's findings?
+[00:41:10.496 --> 00:41:14.096] LAFORGE: They suggested we reprogram the system to correct the read-out variables.
+[00:41:15.455 --> 00:41:17.775] PICARD: Precisely what Data recommended, as I recall.
+[00:41:21.536 --> 00:41:25.375] PICARD: At least it gave Commander Riker the opportunity to consider his promotion.
+[00:41:26.815 --> 00:41:27.775] PICARD: Now that he's accepted,
+[00:41:29.375 --> 00:41:31.056] PICARD: we can leave him at Starbase Montgomery.
+[00:41:36.255 --> 00:41:37.216] PICARD: Number One.
+[00:41:37.216 --> 00:41:37.696] RIKER: Captain.
+[00:41:39.775 --> 00:41:42.895] RIKER: With your permission, I've decided to stay on board the Enterprise.
+[00:41:49.775 --> 00:41:50.016] PICARD: Granted.
+[00:41:50.016 --> 00:41:50.415] RIKER: Thank you,
+[00:41:51.935 --> 00:41:52.096] RIKER: sir.
+[00:41:55.536 --> 00:41:56.736] RIKER: Take us out of orbit, Ensign Crusher.
+[00:41:57.935 --> 00:41:59.056] WESLEY: Breaking synchronous orbit, sir.
+[00:41:59.536 --> 00:42:01.056] RIKER: Set course for Beta Kupsic.
+[00:42:01.056 --> 00:42:02.975] RIKER: That is still our destination?
+[00:42:04.335 --> 00:42:05.616] RIKER: Velocity, warp factor five.
+[00:42:07.616 --> 00:42:08.656] WESLEY: Course and speed set, sir.
+[00:42:11.009 --> 00:42:13.409] PICARD: Any particular reason for this change of heart?
+[00:42:14.689 --> 00:42:15.889] RIKER: Motivated self-interest.
+[00:42:15.889 --> 00:42:18.369] RIKER: Right now, the best place for me to be is here.
+[00:42:22.769 --> 00:42:23.329] PICARD: Engage.

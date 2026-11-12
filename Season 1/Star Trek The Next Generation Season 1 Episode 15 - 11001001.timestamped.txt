@@ -1,0 +1,787 @@
+[00:00:12.800 --> 00:00:16.080] LOG: Captain's log, stardate 41365.9.
+[00:00:16.720 --> 00:00:21.280] LOG: The Enterprise has been ordered to Starbase 74, in orbit around Tarsas Three.
+[00:00:22.240 --> 00:00:24.640] LOG: A routine maintenance check of all systems will be made, and
+[00:00:24.880 --> 00:00:28.800] LOG: certain upgrades completed, including the holodeck, with which we've had problems.
+[00:00:29.440 --> 00:00:30.800] LOG: I anticipate a glowing report.
+[00:00:30.800 --> 00:00:34.240] LOG: The ship has performed magnificently, beyond anyone's expectations.
+[00:00:43.120 --> 00:00:46.000] LAFORGE: Coming into position.
+[00:00:47.200 --> 00:00:48.160] RIKER: Stand by to dock.
+[00:00:49.200 --> 00:00:49.920] DATA: Ready to dock, sir.
+[00:00:52.480 --> 00:00:55.280] RIKER: Engage mooring
+[00:00:57.120 --> 00:00:59.120] RIKER: beams and
+[00:01:00.240 --> 00:01:00.613] RIKER: lock off.
+[00:01:00.613 --> 00:01:00.800] LAFORGE: Aye
+[00:01:00.960 --> 00:01:01.360] LAFORGE: sir. And
+[00:01:08.480 --> 00:01:10.320] LAFORGE: docking complete.
+[00:01:10.320 --> 00:01:13.280] PICARD: Thank you, Number One.
+[00:01:13.760 --> 00:01:14.080] PICARD: Well done.
+[00:01:15.760 --> 00:01:16.000] PICARD: And
+[00:01:18.560 --> 00:01:19.040] PICARD: well done all.
+[00:01:29.440 --> 00:01:33.040] COMPUTER: Starbase maintenance approaching airlock five.
+[00:01:51.306 --> 00:01:53.386] QUINTEROS: Commander Quinteros. Request permission to come aboard.
+[00:01:53.866 --> 00:01:54.586] PICARD: Granted. Welcome.
+[00:01:57.066 --> 00:01:57.466] QUINTEROS: Captain.
+[00:01:57.946 --> 00:01:58.959] PICARD: Commander Riker.
+[00:01:58.959 --> 00:01:59.466] QUINTEROS: Commander.
+[00:02:02.346 --> 00:02:02.746] QUINTEROS: You're late.
+[00:02:02.986 --> 00:02:04.186] QUINTEROS: We expected you a week ago.
+[00:02:04.906 --> 00:02:07.066] RIKER: We were unexpectedly delayed at Omicron Pascal.
+[00:02:07.786 --> 00:02:10.586] QUINTEROS: Is there anything specific you wish to report, or that we should be aware of?
+[00:02:10.826 --> 00:02:12.826] PICARD: No. We are very pleased with the operation of the Enterprise.
+[00:02:13.066 --> 00:02:13.786] QUINTEROS: I knew you would be -
+[00:02:14.346 --> 00:02:16.186] QUINTEROS: I was in charge of the team which put her together.
+[00:02:16.986 --> 00:02:18.346] RIKER: And are these gentlemen the Bynars?
+[00:02:18.666 --> 00:02:19.546] QUINTEROS: They're not gentlemen,
+[00:02:19.946 --> 00:02:21.066] QUINTEROS: or ladies, Commander.
+[00:02:21.626 --> 00:02:22.826] QUINTEROS: They are a unified pair.
+[00:02:23.386 --> 00:02:24.346] QUINTEROS: They're always together.
+[00:02:25.066 --> 00:02:28.346] QUINTEROS: This is One Zero. And this is Zero One.
+[00:02:29.146 --> 00:02:31.626] QUINTEROS: They just finished upgrading the computers on the Wellington.
+[00:02:31.866 --> 00:02:32.826] QUINTEROS: Did a great job.
+[00:02:32.826 --> 00:02:34.026] PICARD: Your reputation precedes you.
+[00:02:34.106 --> 00:02:36.106] PICARD: I'm very pleased you're going to be improving our system.
+[00:02:36.106 --> 00:02:37.029] ONE ZERO: It is a great pleasure
+[00:02:37.029 --> 00:02:38.506] ZERO ONE: to work on such a large mobile computer.
+[00:02:39.146 --> 00:02:43.226] PICARD: You have forty eight hours, because at forty eight plus six we have an appointment at Pelleus Five
+[00:02:43.226 --> 00:02:43.706] PICARD: we must keep.
+[00:02:44.266 --> 00:02:44.826] ZERO ONE: I thought we'd
+[00:02:44.826 --> 00:02:45.386] ONE ZERO: have more time.
+[00:02:45.866 --> 00:02:47.466] PICARD: I'm sorry. This mission can't be delayed.
+[00:02:47.946 --> 00:02:49.066] PICARD: If you want to postpone the work?
+[00:02:49.306 --> 00:02:50.042] ZERO ONE: Oh, no. This is
+[00:02:50.042 --> 00:02:50.594] ONE ZERO: the best time
+[00:02:50.594 --> 00:02:51.146] ZERO ONE: to do it.
+[00:02:51.146 --> 00:02:51.786] ONE ZERO: We can complete
+[00:02:51.786 --> 00:02:52.639] ZERO ONE: our work within the
+[00:02:52.639 --> 00:02:53.066] ONE ZERO: time allotted.
+[00:02:53.546 --> 00:02:55.786] QUINTEROS: They work very quickly, but it'll be very tight.
+[00:02:56.266 --> 00:02:59.066] PICARD: Commander Riker and I will stay on board, be available should you need us.
+[00:02:59.466 --> 00:03:00.186] QUINTEROS: Thank you, Captain.
+[00:03:00.186 --> 00:03:01.626] QUINTEROS: I don't think we'll need you until we're ready
+[00:03:01.738 --> 00:03:02.378] QUINTEROS: for inspection.
+[00:03:02.698 --> 00:03:03.178] RIKER: The
+[00:03:10.778 --> 00:03:15.418] RIKER: Bynars seem perfect for this. Even though this is the first time I've ever come in contact with them.
+[00:03:15.418 --> 00:03:16.138] PICARD: As I understand it,
+[00:03:16.138 --> 00:03:25.978] PICARD: over time they have become so interconnected with the master computer on their planet that their language, their thought patterns have become as close to binary as it's possible for organic beings.
+[00:03:26.618 --> 00:03:29.658] RIKER: It'll be interesting to see how they improve a computer as advanced as ours.
+[00:03:33.738 --> 00:03:34.058] PICARD: Bridge.
+[00:03:34.298 --> 00:03:37.098] PICARD: Well, I have a little work to finish up, then I'm going to my cabin.
+[00:03:37.178 --> 00:03:37.978] PICARD: I'm going to put my feet up,
+[00:03:38.058 --> 00:03:43.738] PICARD: I'm going to turn on my personal relaxation light and I'm going to lose myself in the pages of some old novel.
+[00:03:44.458 --> 00:03:45.258] PICARD: What about you, Number One?
+[00:03:45.258 --> 00:03:46.298] PICARD: You've earned a rest.
+[00:03:46.618 --> 00:03:48.778] RIKER: I've never been very good at organising my time off.
+[00:03:49.658 --> 00:03:50.298] RIKER: Something'll turn up.
+[00:03:50.538 --> 00:03:51.258] RIKER: It always does.
+[00:03:53.338 --> 00:03:55.338] PICARD: I'll
+[00:04:02.538 --> 00:04:03.258] PICARD: be in my ready room.
+[00:04:04.618 --> 00:04:05.178] PICARD: And Number One,
+[00:04:06.858 --> 00:04:07.178] PICARD: good work.
+[00:04:08.938 --> 00:04:09.018] RIKER: I
+[00:04:16.218 --> 00:04:17.337] RIKER: thought there were only going to be two of you.
+[00:04:19.898 --> 00:04:21.578] ONE ZERO: Because of the limited time allotted us
+[00:04:21.978 --> 00:04:22.618] ZERO ONE: We need others
+[00:04:23.098 --> 00:04:23.658] RIKER: Is there a problem?
+[00:04:23.978 --> 00:04:24.378] ZERO ONE: No.
+[00:04:24.378 --> 00:04:25.258] ONE ZERO: No. No problem.
+[00:04:25.818 --> 00:04:27.338] RIKER: Then why are you acting so excited?
+[00:04:27.658 --> 00:04:28.426] ZERO ONE: Because we have to
+[00:04:28.426 --> 00:04:28.618] ONE ZERO: The
+[00:04:28.900 --> 00:04:29.231] ONE ZERO: stacking
+[00:04:29.231 --> 00:04:30.553] ZERO ONE: To reconfigure the computer
+[00:04:30.553 --> 00:04:31.876] ONE ZERO: To communicate with itself
+[00:04:31.876 --> 00:04:32.537] ZERO ONE: More efficiently
+[00:04:32.537 --> 00:04:33.860] ONE ZERO: And at higher speeds.
+[00:04:37.220 --> 00:04:38.340] WESLEY: You act like you don't believe them.
+[00:04:39.540 --> 00:04:40.500] RIKER: I'm not sure that I do.
+[00:04:41.060 --> 00:04:41.700] RIKER: Maybe it's probably nothing.
+[00:04:42.820 --> 00:04:44.660] WESLEY: Perhaps it's just how another species behaves.
+[00:04:45.060 --> 00:04:45.300] RIKER: Maybe.
+[00:04:46.980 --> 00:04:48.020] RIKER: I'm going to stroll the ship.
+[00:04:48.420 --> 00:04:49.140] RIKER: You've got the Bridge.
+[00:04:49.700 --> 00:04:50.340] RIKER: Keep your eye on them.
+[00:04:50.980 --> 00:04:51.220] WESLEY: Yes, sir.
+[00:05:21.300 --> 00:05:23.300] PICARD: Space.
+[00:05:24.340 --> 00:05:25.620] PICARD: The final frontier.
+[00:05:27.460 --> 00:05:30.340] PICARD: These are the voyagers of the starship Enterprise.
+[00:05:31.460 --> 00:05:39.780] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:41.380 --> 00:05:44.340] PICARD: to boldly go where no one has gone before.
+[00:05:45.000 --> 00:05:54.000] [music]
+[00:06:02.000 --> 00:06:37.000] [music]
+[00:06:50.386 --> 00:06:53.906] TASHA: We've been challenged to a friendly game of Parrises Squares by some of the maintenance personnel.
+[00:06:54.306 --> 00:06:55.586] TASHA: Want to join us on the starbase?
+[00:06:56.306 --> 00:06:57.666] RIKER: You've already got all the players you need.
+[00:06:57.986 --> 00:06:58.706] TASHA: We can switch off.
+[00:06:58.786 --> 00:07:01.346] RIKER: No, you know if you do that in Parrises Squares you lose the rhythm of the game.
+[00:07:01.986 --> 00:07:03.266] TASHA: I can't talk you into coming with us?
+[00:07:03.266 --> 00:07:04.146] RIKER: No. But win, all right?
+[00:07:04.626 --> 00:07:05.906] RIKER: The pride of the Enterprise goes with you.
+[00:07:06.066 --> 00:07:09.266] WORF: Rest assured, Commander, we will be victorious. At whatever the cost.
+[00:07:09.906 --> 00:07:11.746] RIKER: Worf, it's just a game. A little friendly competition,
+[00:07:11.826 --> 00:07:14.626] RIKER: You work up a sweat, you have a few laughs, and you make new friends.
+[00:07:15.186 --> 00:07:19.266] WORF: If winning is not important, then, Commander, why keep score?
+[00:07:22.306 --> 00:07:25.346] TASHA: I think he's pulling your leg.
+[00:07:27.282 --> 00:07:30.562] TASHA: Believe it or not, Worf is developing a sense of humour.
+[00:07:30.882 --> 00:07:32.002] RIKER: I hope so, for their sake.
+[00:07:45.282 --> 00:07:47.843] RIKER: Computer. There's a power reduction in section L-Ninety Four.
+[00:07:48.162 --> 00:07:48.643] RIKER: Explain.
+[00:07:49.362 --> 00:07:53.922] COMPUTER: Unoccupied sections are being closed down in order to clear space in the main computer banks.
+[00:07:54.403 --> 00:07:56.722] COMPUTER: It is necessary to facilitate the system upgrade.
+[00:07:57.362 --> 00:07:59.602] COMPUTER: Full power can be restored if needed.
+[00:08:04.643 --> 00:08:05.843] LAFORGE: Well, what do you think?
+[00:08:07.042 --> 00:08:08.963] RIKER: Tell me what it's supposed to be, then I'll give you my opinion.
+[00:08:09.762 --> 00:08:12.162] DATA: It is an attempt at pure creativity.
+[00:08:12.643 --> 00:08:14.722] LAFORGE: What we're investigating is, can Data be creative?
+[00:08:15.602 --> 00:08:20.722] DATA: And this is my attempt, with guidance from Geordi.
+[00:08:21.122 --> 00:08:22.643] LAFORGE: I suggested the zylo eggs.
+[00:08:23.282 --> 00:08:24.162] RIKER: Is that what those are?
+[00:08:26.322 --> 00:08:26.963] RIKER: Keep notes.
+[00:08:27.762 --> 00:08:30.403] RIKER: This project might turn out to be of interest to scholars in the future.
+[00:08:30.562 --> 00:08:30.882] LAFORGE: Really?
+[00:08:31.442 --> 00:08:31.843] RIKER: Well of course.
+[00:08:31.843 --> 00:08:34.003] RIKER: Think about it. A blind man teaching an android how to paint?
+[00:08:35.842 --> 00:08:37.682] RIKER: That's got to be worth a couple of pages in somebody's book.
+[00:08:38.962 --> 00:08:40.962] RIKER: You
+[00:08:51.042 --> 00:08:52.243] RIKER: look like you're packing to leave forever.
+[00:08:52.950 --> 00:08:54.150] CRUSHER: Oh, Commander Riker.
+[00:08:55.190 --> 00:08:57.430] CRUSHER: No, I'm just gathering my notes.
+[00:09:00.310 --> 00:09:02.710] CRUSHER: Professor Terence Epstein is at this starbase.
+[00:09:04.550 --> 00:09:05.990] RIKER: Is that someone I should know of?
+[00:09:10.390 --> 00:09:12.790] CRUSHER: He's the leading mind in cybernetics.
+[00:09:15.270 --> 00:09:16.390] CRUSHER: He lectured at my medical school.
+[00:09:18.630 --> 00:09:20.070] CRUSHER: You know the disaster at Micromius?
+[00:09:20.470 --> 00:09:26.870] CRUSHER: Well, since then I've been working on an approach that combines cybernetics and regeneration.
+[00:09:27.430 --> 00:09:30.550] CRUSHER: It sounds impossible, I know, but I have found an approach which will work.
+[00:09:31.750 --> 00:09:35.750] CRUSHER: I mean, what an opportunity. To have a chance to talk with Doctor Epstein.
+[00:09:39.510 --> 00:09:44.790] CRUSHER: Sorry, Will, I'd love to chat, but I have to go.
+[00:09:55.110 --> 00:09:55.590] RIKER: How's it going?
+[00:09:55.830 --> 00:09:56.550] ZERO ZERO: We are almost done.
+[00:09:56.710 --> 00:09:57.270] ONE ONE: The deviation
+[00:09:57.270 --> 00:09:58.390] ZERO ZERO: caused by a previous
+[00:09:58.390 --> 00:09:59.510] ONE ONE: probe has been corrected
+[00:09:59.590 --> 00:10:00.840] ZERO ZERO: You may use the equipment
+[00:10:00.840 --> 00:10:01.590] ONE ONE: anytime you wish.
+[00:10:01.990 --> 00:10:03.030] RIKER: How much has been changed?
+[00:10:03.270 --> 00:10:04.230] RIKER: What exactly did you do?
+[00:10:04.230 --> 00:10:05.270] ONE ONE: Enhancement.
+[00:10:05.430 --> 00:10:05.990] ZERO ZERO: Nothing more.
+[00:10:10.150 --> 00:10:12.493] ZERO ZERO: Would you like to try
+[00:10:12.493 --> 00:10:13.430] ONE ONE: the enhancement?
+[00:10:13.830 --> 00:10:14.230] RIKER: All right.
+[00:10:15.990 --> 00:10:16.790] RIKER: What should I choose?
+[00:10:20.070 --> 00:10:20.790] RIKER: Computer, I'd like
+[00:10:20.943 --> 00:10:22.863] RIKER: some place to play some music. A little atmosphere.
+[00:10:23.343 --> 00:10:24.063] COMPUTER: Specify.
+[00:10:25.023 --> 00:10:25.423] RIKER: Jazz.
+[00:10:26.063 --> 00:10:26.463] COMPUTER: Era?
+[00:10:27.183 --> 00:10:28.623] RIKER: Circa 1958.
+[00:10:28.623 --> 00:10:28.623] COMPUTER: Location.
+[00:10:29.503 --> 00:10:30.063] RIKER: Kansas City.
+[00:10:31.823 --> 00:10:32.063] RIKER: No, wait.
+[00:10:33.823 --> 00:10:36.223] RIKER: New Orleans. Bourbon Street Bar, New Orleans.
+[00:10:36.623 --> 00:10:37.423] RIKER: Around two a.m.
+[00:10:38.223 --> 00:10:39.183] COMPUTER: Programme complete.
+[00:10:39.583 --> 00:10:40.303] COMPUTER: Enter when ready.
+[00:10:47.423 --> 00:10:47.743] RIKER: Very
+[00:10:49.423 --> 00:10:51.423] RIKER: good.
+[00:10:51.663 --> 00:10:52.783] RIKER: Very good indeed.
+[00:10:59.023 --> 00:11:00.143] RIKER: Now I'll need someone to play with.
+[00:11:01.343 --> 00:11:01.823] RIKER: A trio.
+[00:11:02.543 --> 00:11:04.223] RIKER: Piano, bass and drums, and a 'bone for me.
+[00:11:10.623 --> 00:11:11.103] RIKER: Now an
+[00:11:14.063 --> 00:11:16.063] RIKER: audience.
+[00:11:16.063 --> 00:11:16.303] RIKER: Whoa.
+[00:11:16.303 --> 00:11:17.183] RIKER: Too many.
+[00:11:22.223 --> 00:11:23.183] RIKER: I was thinking of something
+[00:11:24.703 --> 00:11:25.503] RIKER: a little more intimate.
+[00:11:29.023 --> 00:11:29.903] RIKER: Great job, boys.
+[00:11:31.103 --> 00:11:35.823] RIKER: But, computer, blondes and jazz seldom go together.
+[00:11:42.143 --> 00:11:44.543] RIKER: Now that is truly exceptional.
+[00:11:46.543 --> 00:11:49.263] RIKER: But more sultry.
+[00:12:07.197 --> 00:12:07.597] RIKER: Gentlemen,
+[00:12:09.597 --> 00:12:11.117] RIKER: if this is what you call enhancement,
+[00:12:12.797 --> 00:12:14.237] RIKER: you've got a gift for understatement.
+[00:12:36.557 --> 00:12:37.197] RIKER: What's your name?
+[00:12:37.837 --> 00:12:39.117] RIKER: Tell me you love jazz.
+[00:12:39.757 --> 00:12:45.117] MINUET: My name is Minuet and I love all jazz except Dixieland.
+[00:12:46.237 --> 00:12:47.037] RIKER: Why not Dixieland?
+[00:12:47.837 --> 00:12:50.237] MINUET: You can't dance to it.
+[00:12:51.037 --> 00:12:51.517] RIKER: My girl.
+[00:13:00.877 --> 00:13:07.117] RIKER: What's a knockout like you doing in a computer-generated gin joint like this?
+[00:13:08.397 --> 00:13:09.357] MINUET: Waiting for you.
+[00:13:10.077 --> 00:13:10.717] RIKER: Waiting for me?
+[00:13:11.677 --> 00:13:13.117] RIKER: You can't be serious.
+[00:13:13.677 --> 00:13:14.637] MINUET: Oh yes, Will.
+[00:13:14.637 --> 00:13:18.637] MINUET: I've never been more serious in my life.
+[00:13:56.223 --> 00:13:57.903] WESLEY: Can I ask you a question about the Bynars?
+[00:14:01.183 --> 00:14:02.223] QUINTEROS: Why not just ask them?
+[00:14:06.863 --> 00:14:08.303] WESLEY: What is that high-speed sound you make?
+[00:14:09.743 --> 00:14:10.559] ZERO ONE: That is our
+[00:14:10.559 --> 00:14:11.103] ONE ZERO: primary language.
+[00:14:11.743 --> 00:14:13.423] WESLEY: How can you process information at that speed?
+[00:14:13.583 --> 00:14:14.863] ZERO ONE: We store the information
+[00:14:14.863 --> 00:14:15.823] ONE ZERO: with these buffers.
+[00:14:15.823 --> 00:14:16.488] ZERO ONE: We receive information
+[00:14:16.488 --> 00:14:17.152] ONE ZERO: all the time
+[00:14:17.152 --> 00:14:17.817] ZERO ONE: and save it
+[00:14:17.817 --> 00:14:18.703] ONE ZERO: until we need it.
+[00:14:19.823 --> 00:14:21.503] WESLEY: How did you happen to develop this ability?
+[00:14:21.503 --> 00:14:22.133] ONE ZERO: It happened over
+[00:14:22.133 --> 00:14:23.183] ZERO ONE: a long period of time.
+[00:14:24.223 --> 00:14:27.978] WESLEY: To have a society so intermixed on computers has tremendous advantages.
+[00:14:27.978 --> 00:14:29.002] ONE ZERO: And a few
+[00:14:29.002 --> 00:14:29.343] ZERO ONE: disadvantages.
+[00:14:30.863 --> 00:14:35.183] PICARD: Everything under control, Ensign Crusher?
+[00:14:35.183 --> 00:14:35.903] WESLEY: Fine, Captain.
+[00:14:36.303 --> 00:14:38.063] WESLEY: I was just trying to find something about the Bynars.
+[00:14:40.143 --> 00:14:40.943] PICARD: Where's Commander Riker?
+[00:14:41.263 --> 00:14:42.223] WESLEY: He's in holodeck four.
+[00:14:42.223 --> 00:14:42.943] WESLEY: Shall I call him for you, sir?
+[00:14:44.223 --> 00:14:46.223] PICARD: No, I'll go down there myself.
+[00:14:47.183 --> 00:14:47.903] PICARD: Keep me apprised.
+[00:14:48.154 --> 00:14:48.474] WESLEY: Yes, sir.
+[00:16:07.994 --> 00:16:08.634] BASS: Hey, man, the
+[00:16:09.354 --> 00:16:10.074] BASS: chick digs you.
+[00:16:11.434 --> 00:16:12.154] RIKER: What makes you say that?
+[00:16:13.394 --> 00:16:14.274] BASS: Hey, look at her.
+[00:16:18.594 --> 00:16:19.394] RIKER: Maybe it's my music.
+[00:16:20.034 --> 00:16:22.354] PIANO: Yeah, well, about that. Don't give up your day job.
+[00:16:27.474 --> 00:16:28.034] RIKER: Too real.
+[00:16:28.994 --> 00:16:30.194] BASS: You got that straight, Slim.
+[00:16:30.194 --> 00:16:30.834] BASS: Too real
+[00:16:30.834 --> 00:16:31.474] BASS: is too right.
+[00:16:32.994 --> 00:16:33.794] RIKER: Thanks for letting me sit in.
+[00:16:34.194 --> 00:16:34.834] PIANO: Ain't nothin' to
+[00:16:37.634 --> 00:16:37.634] PIANO: it.
+[00:16:42.914 --> 00:16:45.314] RIKER: I'm going to have to leave for a while to see to my duties.
+[00:16:46.354 --> 00:16:48.194] MINUET: Your work's very important to you.
+[00:16:48.834 --> 00:16:49.394] RIKER: It is me.
+[00:16:49.634 --> 00:16:50.274] RIKER: It's what I am.
+[00:16:51.314 --> 00:16:52.754] MINUET: Can we dance once before you leave?
+[00:16:55.874 --> 00:16:56.594] RIKER: Sure, why not.
+[00:17:05.554 --> 00:17:07.554] RIKER: How did you learn to dance so well?
+[00:17:07.634 --> 00:17:08.594] MINUET: From following you.
+[00:17:09.634 --> 00:17:11.474] MINUET: I can anticipate your lead.
+[00:17:13.234 --> 00:17:13.394] MINUET: So,
+[00:17:14.354 --> 00:17:15.314] MINUET: tell me about your work.
+[00:17:16.114 --> 00:17:19.394] MINUET: What is it about it that consumes and enthralls you?
+[00:17:20.114 --> 00:17:21.874] RIKER: Interesting choice of words.
+[00:17:23.154 --> 00:17:24.434] RIKER: That's exactly what it does.
+[00:17:25.554 --> 00:17:26.354] MINUET: You're very fortunate.
+[00:17:26.994 --> 00:17:27.794] RIKER: I know that.
+[00:17:29.314 --> 00:17:31.394] MINUET: To be exactly where you want to be.
+[00:17:31.394 --> 00:17:34.194] MINUET: And it's great that you realise it.
+[00:17:37.074 --> 00:17:39.874] RIKER: I'd be a fool not to realise how lucky I am
+[00:17:41.474 --> 00:17:43.554] RIKER: to be on this ship serving with these people.
+[00:17:44.542 --> 00:17:45.582] RIKER: It's like a dream come true.
+[00:17:47.742 --> 00:17:48.542] RIKER: Just like this.
+[00:17:48.542 --> 00:17:49.902] MINUET: A dream?
+[00:17:51.422 --> 00:17:51.822] MINUET: Is that what this is?
+[00:17:51.822 --> 00:17:51.902] MINUET: Is
+[00:17:53.582 --> 00:17:55.422] MINUET: that what I am?
+[00:17:56.142 --> 00:17:58.622] RIKER: I know you are a computer-generated image,
+[00:18:00.542 --> 00:18:02.142] RIKER: but your smell,
+[00:18:03.742 --> 00:18:05.422] RIKER: your touch, the way you feel.
+[00:18:07.342 --> 00:18:09.902] RIKER: Even the things you say and think seem so real.
+[00:18:10.702 --> 00:18:12.382] MINUET: Thank you.
+[00:18:15.822 --> 00:18:17.422] RIKER: How far can this relationship go?
+[00:18:20.062 --> 00:18:21.662] RIKER: I mean, how real are you?
+[00:18:23.502 --> 00:18:25.022] MINUET: As real as you need me to be.
+[00:18:52.462 --> 00:18:53.342] PICARD: Astounding.
+[00:18:53.342 --> 00:18:54.222] RIKER: Captain.
+[00:18:55.022 --> 00:18:55.822] PICARD: Oh, I'm sorry, Number One.
+[00:18:55.822 --> 00:18:56.782] PICARD: I didn't mean to interrupt.
+[00:18:56.782 --> 00:18:57.422] RIKER: No, it's all right.
+[00:18:57.422 --> 00:18:58.142] RIKER: Come on in.
+[00:19:00.062 --> 00:19:01.502] PICARD: You picked a wonderful locale.
+[00:19:02.222 --> 00:19:05.022] PICARD: This is something I might have chosen myself.
+[00:19:05.982 --> 00:19:08.062] MINUET: Aren't you going to introduce me?
+[00:19:09.262 --> 00:19:11.022] RIKER: Captain Picard, this is Minuet.
+[00:19:11.022 --> 00:19:11.422] RIKER: Minuet,
+[00:19:12.382 --> 00:19:13.582] RIKER: Captain Jean-Luc Picard.
+[00:19:14.142 --> 00:19:14.622] MINUET: Enchantee.
+[00:19:15.262 --> 00:19:16.942] MINUET: Comme c'est merveilleux de vous voir ici.
+[00:19:17.789 --> 00:19:18.349] PICARD: Incroyable!
+[00:19:19.309 --> 00:19:20.109] PICARD: Vous etes Parisienne?
+[00:19:20.509 --> 00:19:22.669] MINUET: Au fond, c'est vrai, nous sommes tous Parisiens.
+[00:19:22.989 --> 00:19:25.709] PICARD: Oui, au fond, nous sommes tous Parisiens.
+[00:19:26.589 --> 00:19:30.509] PICARD: The spirit of that city can always enchant my soul.
+[00:19:31.549 --> 00:19:32.909] MINUET: I have been hoping to meet you.
+[00:19:33.629 --> 00:19:35.229] PICARD: Oh. Have I been the subject of conversation?
+[00:19:37.149 --> 00:19:38.109] MINUET: Indirectly.
+[00:19:38.829 --> 00:19:40.429] MINUET: Come, join us, Jean-Luc.
+[00:19:47.309 --> 00:19:48.109] MINUET: A glass of wine?
+[00:19:48.589 --> 00:19:48.909] PICARD: Thank you.
+[00:19:51.789 --> 00:19:54.349] MINUET: Will was saying how much he enjoys this assignment.
+[00:19:55.229 --> 00:19:56.029] MINUET: It's a credit to you.
+[00:19:56.989 --> 00:20:00.509] MINUET: For a ship and crew to function well it always starts with the Captain.
+[00:20:01.949 --> 00:20:02.909] MINUET: You set the tone.
+[00:20:03.309 --> 00:20:05.789] PICARD: At the moment, it's you who are setting the tone.
+[00:20:08.349 --> 00:20:11.389] PICARD: The sophistication of this programming is remarkable.
+[00:20:13.469 --> 00:20:13.949] MINUET: In what way?
+[00:20:14.989 --> 00:20:21.709] PICARD: The holodeck has been able to give us woodlands and ski slopes, figures that fight and fictional characters with which we can interact,
+[00:20:21.709 --> 00:20:22.109] PICARD: but you,
+[00:20:23.789 --> 00:20:24.669] PICARD: you're very different.
+[00:20:24.749 --> 00:20:25.549] PICARD: You adapt.
+[00:20:25.549 --> 00:20:26.669] PICARD: You spoke to me in French.
+[00:20:27.149 --> 00:20:28.109] MINUET: It was very simple.
+[00:20:29.069 --> 00:20:32.109] MINUET: When I heard your name, I merely accessed the foreign language bank.
+[00:20:35.069 --> 00:20:35.789] PICARD: That's very impressive.
+[00:20:36.589 --> 00:20:36.829] MINUET: Oui,
+[00:20:37.789 --> 00:20:38.269] MINUET: mon chou.
+[00:20:46.669 --> 00:20:47.389] LAFORGE: Now what are you doing?
+[00:20:49.415 --> 00:20:51.282] DATA: I am awaiting inspiration.
+[00:20:51.282 --> 00:20:52.215] WESLEY: Commander Data?
+[00:20:52.775 --> 00:20:53.495] DATA: This is Commander Data.
+[00:20:53.495 --> 00:20:54.215] DATA: Go ahead, please.
+[00:20:54.455 --> 00:20:57.255] WESLEY: I'm getting an indication of possible trouble in main Engineering, sir.
+[00:20:57.255 --> 00:20:58.375] DATA: Can you be more specific?
+[00:20:58.935 --> 00:20:59.815] WESLEY: I'm afraid not.
+[00:21:00.215 --> 00:21:03.575] WESLEY: I'm reading a problem with the magnetic containment field which contains the antimatter.
+[00:21:03.975 --> 00:21:04.615] WESLEY: Could you come up here?
+[00:21:05.335 --> 00:21:07.175] LAFORGE: We'll go to Engineering since that's where the trouble is.
+[00:21:07.175 --> 00:21:10.535] LAFORGE: Wes, don't disturb the Captain or Commander Riker until we check this out.
+[00:21:10.855 --> 00:21:11.175] WESLEY: Aye, sir.
+[00:21:23.655 --> 00:21:25.095] LAFORGE: Bridge, this is main Engineering.
+[00:21:25.655 --> 00:21:26.215] WESLEY: This is the Bridge.
+[00:21:26.855 --> 00:21:28.375] LAFORGE: Are you running any test programs up there?
+[00:21:29.015 --> 00:21:29.255] WESLEY: No.
+[00:21:30.135 --> 00:21:30.855] LAFORGE: Are the Bynars?
+[00:21:32.615 --> 00:21:33.575] WESLEY: Not to my knowledge.
+[00:21:33.895 --> 00:21:34.535] WESLEY: Is there a problem?
+[00:21:35.415 --> 00:21:35.895] LAFORGE: I don't know. There's
+[00:21:36.855 --> 00:21:41.415] LAFORGE: no one on duty here, and we're getting some very strange readings from the magnetic containment field.
+[00:21:41.415 --> 00:21:42.775] DATA: The field is deteriorating.
+[00:21:42.775 --> 00:21:43.975] DATA: Contact the captain immediately.
+[00:21:43.975 --> 00:21:45.015] DATA: I am initiating Red Alert.
+[00:21:45.095 --> 00:21:47.095] LAFORGE: Data,
+[00:21:47.095 --> 00:21:49.735] LAFORGE: I can't maintain the integrity of the containment field.
+[00:21:49.895 --> 00:21:51.175] DATA: Engineering to Captain.
+[00:21:53.975 --> 00:21:55.895] DATA: If the antimatter is released, the ship will be destroyed.
+[00:21:56.935 --> 00:21:58.055] LAFORGE: Nothing I do has any effect.
+[00:21:58.215 --> 00:22:00.535] LAFORGE: I'm losing it.
+[00:22:00.535 --> 00:22:00.615] LAFORGE: Data,
+[00:22:00.615 --> 00:22:01.975] LAFORGE: I've rechecked every circuit.
+[00:22:01.975 --> 00:22:04.295] LAFORGE: This is not a misread by the computer.
+[00:22:04.535 --> 00:22:06.455] DATA: Computer, situation analysis.
+[00:22:06.855 --> 00:22:12.295] COMPUTER: Estimate release of antimatter in four minutes eighteen seconds. Seventeen seconds.
+[00:22:13.277 --> 00:22:14.317] COMPUTER: Sixteen seconds.
+[00:22:14.877 --> 00:22:15.757] DATA: Engineering to Bridge.
+[00:22:16.157 --> 00:22:16.957] WESLEY: This is the bridge.
+[00:22:17.277 --> 00:22:18.557] DATA: Alert starbase.
+[00:22:18.557 --> 00:22:20.077] DATA: Inform them we are abandoning the ship.
+[00:22:20.477 --> 00:22:21.197] DATA: Tell them why.
+[00:22:21.597 --> 00:22:23.437] DATA: Initiate automated sequence for departure.
+[00:22:23.677 --> 00:22:28.157] DATA: Set course and speed course and speed to put maximum distance between the Enterprise and any inhabited planets.
+[00:22:29.357 --> 00:22:30.877] WESLEY: Shouldn't we wait for the Captain's approval?
+[00:22:31.197 --> 00:22:32.237] DATA: There is no time.
+[00:22:32.237 --> 00:22:35.117] DATA: Based on all information presently available, the decision is correct.
+[00:22:36.317 --> 00:22:38.877] DATA: This is Lieutenant Commander Data speaking for the Captain.
+[00:22:39.277 --> 00:22:40.317] DATA: Abandon ship.
+[00:22:40.797 --> 00:22:41.917] DATA: This is not a drill.
+[00:22:42.557 --> 00:22:43.437] DATA: All personnel.
+[00:22:43.997 --> 00:22:46.157] DATA: This is not a drill.
+[00:22:46.157 --> 00:22:48.637] DATA: I say again, abandon ship.
+[00:22:49.437 --> 00:22:50.877] DATA: All personnel,
+[00:22:50.957 --> 00:22:52.397] DATA: this is not a drill.
+[00:22:54.797 --> 00:22:57.357] DATA: Abandon ship.
+[00:22:58.077 --> 00:22:58.077] COMPUTER: Decks
+[00:23:02.077 --> 00:23:03.917] COMPUTER: two through four to cargo transporters.
+[00:23:05.517 --> 00:23:06.797] COMPUTER: Decks five through ten,
+[00:23:07.357 --> 00:23:10.877] COMPUTER: proceed to transporters one, two, three and four.
+[00:23:10.957 --> 00:23:13.597] COMPUTER: Decks six through sixteen,
+[00:23:14.317 --> 00:23:18.077] COMPUTER: proceed to transporters five, six, seven, eight, nine and ten.
+[00:23:18.637 --> 00:23:19.757] CHIEF: Hold your positions please.
+[00:23:19.907 --> 00:23:20.639] CHIEF: Prepare to energise.
+[00:23:20.639 --> 00:23:21.127] CHIEF: And energise.
+[00:23:21.277 --> 00:23:23.117] COMPUTER: Decks seventeen through twenty eight
+[00:23:23.517 --> 00:23:26.317] COMPUTER: proceed to transporters eleven, twelve,
+[00:23:29.517 --> 00:23:30.277] COMPUTER: thirteen and fourteen.
+[00:23:30.337 --> 00:23:30.957] COMPUTER: Decks twenty nine through forty two,
+[00:23:30.957 --> 00:23:31.597] COMPUTER: proceed to transporters
+[00:23:33.917 --> 00:23:37.437] COMPUTER: fifteen, sixteen, seventeen, eighteen, nineteen and twenty.
+[00:23:39.117 --> 00:23:41.837] COMPUTER: This is not a drill.
+[00:23:41.837 --> 00:23:42.157] COMPUTER: This is not a drill.
+[00:23:48.715 --> 00:23:49.535] WORF: What's going on?
+[00:23:49.955 --> 00:23:51.435] QUINTEROS: Please stand out of the way.
+[00:23:51.755 --> 00:23:53.035] CRUSHER: The Enterprise is being evacuated.
+[00:23:53.275 --> 00:23:53.595] WORF: Why?
+[00:23:53.915 --> 00:23:55.195] CRUSHER: Some problem in Engineering.
+[00:23:55.275 --> 00:23:56.395] TASHA: Get a Security team together.
+[00:23:56.395 --> 00:23:56.555] WORF: Aye, Lieutenant.
+[00:24:02.155 --> 00:24:03.435] LOG: Ship's log, supplemental.
+[00:24:04.075 --> 00:24:05.595] LOG: This is Lieutenant Commander Data.
+[00:24:06.395 --> 00:24:11.275] LOG: I have put the ship on automated departure and ordered the complete evacuation of the Enterprise.
+[00:24:11.755 --> 00:24:14.635] LOG: Everyone remaining is leaving on foot or beaming off.
+[00:24:15.675 --> 00:24:17.915] DATA: Computer, where are the Captain and Commander Riker?
+[00:24:18.155 --> 00:24:19.115] COMPUTER: All decks empty.
+[00:24:20.475 --> 00:24:20.955] DATA: Curious.
+[00:24:21.435 --> 00:24:22.955] DATA: The Captain is usually the last to leave.
+[00:24:23.035 --> 00:24:23.355] LAFORGE: Let's go.
+[00:24:23.355 --> 00:24:24.635] LAFORGE: We've only got forty one seconds.
+[00:24:24.785 --> 00:24:25.785] LAFORGE: I think
+[00:24:26.155 --> 00:24:26.315] LAFORGE: we're
+[00:24:29.675 --> 00:24:30.475] LAFORGE: the last.
+[00:24:31.675 --> 00:24:32.315] DATA: I hope we are.
+[00:24:34.715 --> 00:24:36.395] WORF: Did you see
+[00:24:47.035 --> 00:24:48.395] WORF: the Captain and Commander Riker?
+[00:24:48.715 --> 00:24:48.955] DATA: No.
+[00:24:49.595 --> 00:24:50.795] DATA: Are they not here on Starbase?
+[00:24:50.795 --> 00:24:51.115] TASHA: No,
+[00:24:51.435 --> 00:24:51.915] TASHA: we thought
+[00:24:51.915 --> 00:24:53.275] LAFORGE: You mean they're still on the Enterprise?
+[00:24:53.435 --> 00:24:54.635] WORF: Yes. Sir,
+[00:24:54.795 --> 00:24:55.835] WORF: where is your transporter room?
+[00:24:55.915 --> 00:24:57.195] DATA: We have to beam back and get them.
+[00:24:57.595 --> 00:24:58.635] QUINTEROS: You haven't time.
+[00:24:58.635 --> 00:25:00.075] STARBASE: This is Starbase 74.
+[00:25:00.235 --> 00:25:02.555] STARBASE: The Enterprise magnetic field is regenerating.
+[00:25:03.355 --> 00:25:03.755] LAFORGE: Wait a minute.
+[00:25:03.755 --> 00:25:04.715] LAFORGE: How is that possible?
+[00:25:05.115 --> 00:25:05.515] STARBASE: Unknown.
+[00:25:05.675 --> 00:25:06.795] TASHA: That changes nothing.
+[00:25:06.795 --> 00:25:09.435] TASHA: The Captain and Commander Riker must be in trouble, or they'd be here.
+[00:25:09.835 --> 00:25:10.075] QUINTEROS: Look.
+[00:25:11.179 --> 00:25:12.139] QUINTEROS: Your ship is almost clear.
+[00:26:06.459 --> 00:26:07.899] MINUET: And the boy never found out?
+[00:26:08.459 --> 00:26:11.419] RIKER: Oh, yes, but not until later when he came back into the room with his little sister.
+[00:26:11.739 --> 00:26:13.899] MINUET: I'll bet both of them were all smiles.
+[00:26:14.059 --> 00:26:16.459] RIKER: Yes, but by that time both of them had been found out.
+[00:26:16.619 --> 00:26:18.859] MINUET: You handled that in a very thoughtful way.
+[00:26:19.499 --> 00:26:22.059] MINUET: You're very good with people. Don't you agree, Jean-Luc?
+[00:26:22.459 --> 00:26:26.299] PICARD: She's so very different from the images we've experienced on the holodeck, isn't she?
+[00:26:28.299 --> 00:26:29.259] PICARD: She's more intuitive.
+[00:26:29.899 --> 00:26:32.139] RIKER: It's as though she's been plugged into my subconscious.
+[00:26:33.339 --> 00:26:37.019] RIKER: She already knows what I want her to say before I'm aware of it myself.
+[00:26:37.419 --> 00:26:39.019] PICARD: I suppose it's an understandable progression.
+[00:26:39.601 --> 00:26:48.721] PICARD: Computers make decisions based on inputs and we humans give off a multitude of subtle signs that communicate our emotions.
+[00:26:49.281 --> 00:26:50.081] RIKER: It's uncanny.
+[00:26:51.441 --> 00:26:57.121] RIKER: I could develop feelings for Minuet, exactly as I would for any woman.
+[00:26:57.201 --> 00:27:00.961] PICARD: Doesn't love always begin that way? With the illusion being more real than the woman?
+[00:27:02.161 --> 00:27:04.801] MINUET: Oh, Jean-Luc, spoken like a true Frenchman.
+[00:27:07.041 --> 00:27:08.721] PICARD: Well, I think I'll be leaving.
+[00:27:08.881 --> 00:27:09.761] MINUET: Oh, don't go.
+[00:27:10.321 --> 00:27:10.881] PICARD: Two's company.
+[00:27:11.521 --> 00:27:12.321] MINUET: We have time.
+[00:27:12.321 --> 00:27:13.201] MINUET: There's no rush.
+[00:27:14.321 --> 00:27:16.241] MINUET: I'd really like it if you would stay.
+[00:27:17.201 --> 00:27:17.921] RIKER: Yes, Captain,
+[00:27:17.921 --> 00:27:18.241] RIKER: stay.
+[00:27:19.201 --> 00:27:21.121] PICARD: This is your diversion, Number One, not mine.
+[00:27:21.281 --> 00:27:21.521] MINUET: Wait!
+[00:27:22.401 --> 00:27:23.441] MINUET: We haven't danced.
+[00:27:23.441 --> 00:27:24.481] PICARD: I don't dance.
+[00:27:24.561 --> 00:27:25.521] MINUET: Then some more wine.
+[00:27:25.601 --> 00:27:26.001] PICARD: No, thank you.
+[00:27:26.081 --> 00:27:28.321] MINUET: Wait! Please! Please, don't go.
+[00:27:28.721 --> 00:27:29.681] MINUET: You can't. Not yet.
+[00:27:30.241 --> 00:27:30.481] RIKER: Why?
+[00:27:30.641 --> 00:27:31.041] RIKER: What's the matter?
+[00:27:31.041 --> 00:27:31.681] RIKER: Why can't he leave?
+[00:27:32.401 --> 00:27:32.721] PICARD: Exit!
+[00:27:43.041 --> 00:27:43.601] PICARD: Captain to Bridge.
+[00:27:43.601 --> 00:27:44.321] PICARD: Situation report.
+[00:27:46.481 --> 00:27:47.201] RIKER: Riker to Bridge.
+[00:27:50.001 --> 00:27:51.201] PICARD: Computer, explain Red Alert.
+[00:27:51.601 --> 00:27:53.361] COMPUTER: Initiated as a programmed response.
+[00:27:53.441 --> 00:27:56.161] COMPUTER: The magnetic field containing the antimatter had weakened.
+[00:27:56.161 --> 00:27:57.521] COMPUTER: There was no fail-safe available.
+[00:27:57.841 --> 00:27:58.641] PICARD: Why wasn't I notified?
+[00:27:58.881 --> 00:27:59.361] COMPUTER: Unknown.
+[00:28:00.081 --> 00:28:00.641] PICARD: Present condition?
+[00:28:00.801 --> 00:28:02.401] COMPUTER: The magnetic field is now restored.
+[00:28:02.481 --> 00:28:03.601] COMPUTER: Containment is restored.
+[00:28:04.161 --> 00:28:05.681] COMPUTER: Propulsion is at maximum efficiency.
+[00:28:06.561 --> 00:28:07.761] PICARD: Locate Lieutenant Commander Data.
+[00:28:07.921 --> 00:28:09.361] COMPUTER: Not on board the Enterprise.
+[00:28:10.081 --> 00:28:10.481] PICARD: Explain.
+[00:28:10.721 --> 00:28:11.441] COMPUTER: All Enterprise
+[00:28:11.507 --> 00:28:14.707] COMPUTER: personnel except the Captain and First Officer have been evacuated.
+[00:28:15.267 --> 00:28:15.827] PICARD: Evacuated?
+[00:28:16.867 --> 00:28:18.067] PICARD: Was the condition that critical?
+[00:28:18.227 --> 00:28:18.547] COMPUTER: Yes.
+[00:28:19.027 --> 00:28:20.307] RIKER: Are we still docked at the starbase?
+[00:28:20.307 --> 00:28:20.707] COMPUTER: No.
+[00:28:21.907 --> 00:28:22.547] PICARD: Position report.
+[00:28:22.947 --> 00:28:30.707] COMPUTER: Co-ordinates four one five nine point two six by eight one nine two one by three one two. Heading two three three mark four five.
+[00:28:31.187 --> 00:28:31.507] PICARD: Destination?
+[00:28:32.147 --> 00:28:34.227] COMPUTER: Planet Bynaus in the Beta Magellan system.
+[00:28:34.787 --> 00:28:35.427] RIKER: The Bynars.
+[00:28:35.987 --> 00:28:38.467] PICARD: Am I to understand the Bynars have stolen the Enterprise?
+[00:28:38.867 --> 00:28:40.467] COMPUTER: That information is not available.
+[00:28:49.507 --> 00:28:50.227] PICARD: It's the Bynars, and
+[00:28:50.707 --> 00:28:51.427] PICARD: you're part of this.
+[00:28:52.867 --> 00:28:53.347] MINUET: Yes.
+[00:28:53.827 --> 00:28:55.107] RIKER: They made you the lure to keep me here.
+[00:28:55.107 --> 00:28:56.787] RIKER: They programmed you while I was relaxing.
+[00:28:56.787 --> 00:28:57.267] MINUET: Yes.
+[00:28:57.667 --> 00:29:01.267] MINUET: When they saw your interest in me, they thought I could distract you and keep you here.
+[00:29:01.427 --> 00:29:02.227] PICARD: That explains, Riker.
+[00:29:02.227 --> 00:29:02.787] PICARD: What about me?
+[00:29:03.347 --> 00:29:05.747] MINUET: Your being here was just a fortunate happenstance.
+[00:29:06.147 --> 00:29:07.107] RIKER: Why do they want with me?
+[00:29:07.187 --> 00:29:08.147] PICARD: What do they want with the Enterprise?
+[00:29:08.147 --> 00:29:08.867] PICARD: What's their purpose?
+[00:29:08.947 --> 00:29:11.187] MINUET: I'm not programmed to give you that information.
+[00:29:12.627 --> 00:29:13.267] PICARD: Come on, Number One.
+[00:29:13.827 --> 00:29:15.107] PICARD: We've got to regain control of our ship.
+[00:29:15.347 --> 00:29:15.587] LAFORGE: Okay,
+[00:29:22.787 --> 00:29:23.427] LAFORGE: so what do we do?
+[00:29:23.827 --> 00:29:25.347] DATA: Which is the nearest Starfleet vessel?
+[00:29:26.467 --> 00:29:27.267] QUINTEROS: The Trieste.
+[00:29:27.507 --> 00:29:28.307] DATA: I know the Trieste.
+[00:29:28.467 --> 00:29:28.867] DATA: Too small,
+[00:29:28.867 --> 00:29:29.427] DATA: too slow.
+[00:29:30.147 --> 00:29:31.827] QUINTEROS: Plus it's sixty six hours away.
+[00:29:33.187 --> 00:29:33.907] DATA: Where are the Bynars?
+[00:29:37.107 --> 00:29:37.907] QUINTEROS: I haven't seen them.
+[00:29:38.547 --> 00:29:39.827] DATA: They are obviously still aboard.
+[00:29:40.528 --> 00:29:43.648] DATA: Another Starfleet vessel must be sent to intercept the Enterprise at Bynaus.
+[00:29:43.728 --> 00:29:45.488] DATA: They might be taking the ship to their home planet.
+[00:29:45.888 --> 00:29:46.848] QUINTEROS: What makes you think so?
+[00:29:47.728 --> 00:29:49.648] DATA: It is the best place for us to start.
+[00:29:59.808 --> 00:30:02.288] PICARD: Picard. Access.
+[00:30:10.288 --> 00:30:11.408] LOG: Captain's log, supplemental.
+[00:30:12.128 --> 00:30:15.408] LOG: We now know who has commandeered the Enterprise. The Bynars.
+[00:30:15.968 --> 00:30:17.328] LOG: We can't communicate with the Bridge.
+[00:30:18.048 --> 00:30:20.928] LOG: Commander Riker and I will now try to regain control of our ship.
+[00:30:21.968 --> 00:30:22.608] PICARD: This way.
+[00:30:22.608 --> 00:30:23.568] RIKER: That's toward Engineering.
+[00:30:23.568 --> 00:30:24.288] PICARD: That's our first stop.
+[00:30:24.288 --> 00:30:26.768] PICARD: Verify containment and initiate auto-destruct.
+[00:30:27.648 --> 00:30:28.848] RIKER: Initiate auto-destruct?
+[00:30:29.568 --> 00:30:32.288] PICARD: Our ship has been commandeered by a force of unknown size and intent.
+[00:30:33.088 --> 00:30:33.728] PICARD: We're here alone.
+[00:30:33.888 --> 00:30:34.768] PICARD: We must assume the worst.
+[00:30:34.768 --> 00:30:37.008] PICARD: If we
+[00:30:39.088 --> 00:30:41.168] PICARD: don't regain control, then no one else must have it either.
+[00:30:42.528 --> 00:30:42.848] PICARD: Now,
+[00:30:44.608 --> 00:30:48.208] PICARD: this is the one decision involving the operation of this vessel which requires you and I to be in total agreement.
+[00:30:48.528 --> 00:30:49.968] RIKER: It's the time allotted that concerns me.
+[00:30:50.368 --> 00:30:51.168] PICARD: As to that, there's no option.
+[00:30:51.408 --> 00:30:51.648] RIKER: I know.
+[00:30:51.808 --> 00:30:52.688] RIKER: It's a five minute countdown.
+[00:30:52.928 --> 00:30:54.048] PICARD: That's sufficient to get to the Bridge.
+[00:30:54.128 --> 00:30:57.488] PICARD: Once there, either we'll get control of the ship and shut off the auto-destruct, or we won't.
+[00:30:58.128 --> 00:31:00.288] PICARD: This vessel must not fall into hostile hands.
+[00:31:03.728 --> 00:31:04.688] RIKER: Then let's set it and get going.
+[00:31:07.081 --> 00:31:11.321] COMPUTER: Recognise Picard, Jean-Luc, Captain.
+[00:31:11.961 --> 00:31:14.681] COMPUTER: Recognise Riker, William T, Commander.
+[00:31:16.761 --> 00:31:18.201] PICARD: Set auto-destruct sequence.
+[00:31:19.001 --> 00:31:20.681] COMPUTER: Does the First Officer concur?
+[00:31:21.961 --> 00:31:22.361] RIKER: Yes.
+[00:31:22.601 --> 00:31:24.121] RIKER: Set auto-destruct sequence.
+[00:31:24.601 --> 00:31:24.921] RIKER: Now.
+[00:31:25.641 --> 00:31:29.561] COMPUTER: Auto-destruct will detonate in four minutes and fifty-nine seconds.
+[00:31:32.201 --> 00:31:36.841] PICARD: The only place we can stop this is on the Bridge.
+[00:31:37.721 --> 00:31:38.041] PICARD: Let's go.
+[00:31:38.041 --> 00:31:40.601] RIKER: What do you make of this, sir?
+[00:31:41.241 --> 00:31:47.401] PICARD: An enormous amount of data is being received and stored in the main computer.
+[00:31:47.721 --> 00:31:48.281] RIKER: Just stored.
+[00:31:48.281 --> 00:31:48.601] RIKER: Why?
+[00:31:49.321 --> 00:31:50.361] PICARD: It's another piece to of puzzle.
+[00:31:50.511 --> 00:31:51.111] COMPUTER: Bridge
+[00:31:56.601 --> 00:31:56.601] COMPUTER: access
+[00:32:03.241 --> 00:32:03.641] COMPUTER: denied.
+[00:32:03.801 --> 00:32:05.721] PICARD: They've locked it off.
+[00:32:05.881 --> 00:32:07.001] PICARD: We must find another way to get in.
+[00:32:07.081 --> 00:32:08.281] RIKER: One of us could beam into the Bridge.
+[00:32:08.921 --> 00:32:10.521] PICARD: No, it takes several seconds to materialise.
+[00:32:10.521 --> 00:32:11.401] PICARD: You wouldn't stand a chance.
+[00:32:11.641 --> 00:32:14.281] RIKER: I could beam into the turbolift, force the doors, take them by surprise.
+[00:32:14.601 --> 00:32:14.761] PICARD: No,
+[00:32:16.201 --> 00:32:18.761] PICARD: we'll both beam in simultaneously in two different areas of the Bridge.
+[00:32:18.841 --> 00:32:21.401] PICARD: With luck one of us will be a distraction.
+[00:32:21.801 --> 00:32:23.001] RIKER: There must be only four minutes left.
+[00:32:25.401 --> 00:32:27.081] LAFORGE: Still no response from the Enterprise.
+[00:32:27.561 --> 00:32:28.601] WORF: They would answer if they could.
+[00:32:28.841 --> 00:32:30.601] WORF: Someone else has control of the ship.
+[00:32:33.302 --> 00:32:34.502] DATA: Do you think I am responsible?
+[00:32:34.822 --> 00:32:35.382] LAFORGE: Responsible?
+[00:32:36.102 --> 00:32:37.302] LAFORGE: How could you possibly have known?
+[00:32:38.182 --> 00:32:39.382] DATA: My station is on the Bridge.
+[00:32:39.702 --> 00:32:41.222] LAFORGE: You can't be on the Bridge every second, Data.
+[00:32:42.582 --> 00:32:43.222] DATA: You are wrong, Geordi.
+[00:32:43.782 --> 00:32:44.262] DATA: I can.
+[00:32:44.902 --> 00:32:46.342] DATA: I do not need rest or diversion.
+[00:32:47.782 --> 00:32:48.822] DATA: I should not have been painting.
+[00:32:50.342 --> 00:32:51.222] DATA: I was negligent.
+[00:32:51.542 --> 00:32:53.142] TASHA: It's a pointless discussion, Data.
+[00:32:53.542 --> 00:32:55.542] TASHA: You could have been on the Bridge and it still might have happened.
+[00:32:56.822 --> 00:32:59.862] TASHA: Commander Quinteros, you have three ships in here.
+[00:33:00.182 --> 00:33:01.142] TASHA: We need one of them now.
+[00:33:01.302 --> 00:33:05.462] QUINTEROS: We're rushing repairs on the USS Melbourne, but it's still eighteen hours until she'll be ready.
+[00:33:06.262 --> 00:33:07.142] QUINTEROS: There's nothing else you can
+[00:33:08.662 --> 00:33:10.662] QUINTEROS: do.
+[00:33:19.622 --> 00:33:20.822] PICARD: Set coordinates for main Bridge.
+[00:33:20.902 --> 00:33:22.342] PICARD: Port forward for me and aft for you.
+[00:33:22.502 --> 00:33:23.382] RIKER: You're on pad two.
+[00:33:24.342 --> 00:33:25.542] RIKER: I've set a ten second delay.
+[00:33:28.982 --> 00:33:29.862] PICARD: Set phasers on stun.
+[00:33:30.022 --> 00:33:32.262] PICARD: Number One,
+[00:33:33.622 --> 00:33:33.942] PICARD: good luck.
+[00:33:33.942 --> 00:33:34.022] RIKER: Over
+[00:33:49.782 --> 00:33:50.262] RIKER: here, Captain.
+[00:34:03.734 --> 00:34:03.734] PICARD: Why
+[00:34:09.254 --> 00:34:10.214] PICARD: did you steal my ship?
+[00:34:13.014 --> 00:34:16.734] ONE ZERO: Please try to
+[00:34:16.734 --> 00:34:17.974] ZERO ONE: help
+[00:34:20.214 --> 00:34:20.614] ZERO ONE: us.
+[00:34:37.814 --> 00:34:39.814] PICARD: Cancel
+[00:34:41.894 --> 00:34:42.454] PICARD: auto-destruct.
+[00:34:42.454 --> 00:34:44.534] COMPUTER: Does the First Officer agree?
+[00:34:45.254 --> 00:34:45.574] RIKER: Affirmative.
+[00:34:46.854 --> 00:34:48.214] COMPUTER: Auto-destruct cancelled.
+[00:34:54.134 --> 00:34:55.254] RIKER: We're in orbit around Bynaus.
+[00:34:56.454 --> 00:34:56.774] RIKER: How are they?
+[00:34:57.734 --> 00:34:58.454] PICARD: They appear dead.
+[00:34:58.604 --> 00:34:59.204] PICARD: Let's
+[00:35:00.374 --> 00:35:01.894] PICARD: see if we can get some answers from Bynaus.
+[00:35:05.254 --> 00:35:06.374] RIKER: Their main computer is off.
+[00:35:07.014 --> 00:35:09.734] RIKER: All sensors reveal that all of the equipment on the planet is inert.
+[00:35:10.054 --> 00:35:12.294] RIKER: They can neither receive nor send any messages.
+[00:35:12.374 --> 00:35:14.934] PICARD: What about all the people in that world who are totally dependant on their computer?
+[00:35:14.934 --> 00:35:15.734] PICARD: Are they still functioning?
+[00:35:16.214 --> 00:35:18.774] RIKER: They're probably like these Bynars here. Dying.
+[00:35:21.894 --> 00:35:22.534] RIKER: What is this all about?
+[00:35:22.534 --> 00:35:23.974] RIKER: Why did they steal the ship and bring it here?
+[00:35:23.974 --> 00:35:25.094] RIKER: What is their purpose?
+[00:35:25.414 --> 00:35:27.494] PICARD: They went to an awful lot of trouble to clear computer space.
+[00:35:27.494 --> 00:35:28.454] PICARD: Let's see what they've stored.
+[00:35:32.694 --> 00:35:33.574] RIKER: Captain, it's enormous.
+[00:35:34.614 --> 00:35:36.534] RIKER: Every byte of free space in the computer has been filled.
+[00:35:37.197 --> 00:35:39.677] RIKER: They must have made a core-dump from their world to our computer.
+[00:35:41.037 --> 00:35:41.437] RIKER: I
+[00:35:43.437 --> 00:35:43.917] RIKER: can't get in.
+[00:35:46.237 --> 00:35:47.277] RIKER: I wish they'd left a note.
+[00:35:49.037 --> 00:35:49.597] PICARD: Maybe they did.
+[00:35:50.317 --> 00:35:50.437] RIKER: Minuet.
+[00:35:50.437 --> 00:35:50.557] PICARD: Maybe.
+[00:36:00.877 --> 00:36:01.917] RIKER: Tell me what this is all about.
+[00:36:02.557 --> 00:36:06.077] MINUET: A star in the Bynar system went supernova and they miscalculated.
+[00:36:06.797 --> 00:36:10.397] MINUET: The electromagnetic pulse from the explosion was going to knock out their main computer.
+[00:36:11.917 --> 00:36:20.797] PICARD: So their only choice was to transfer all the stored information and shut down until after it passed. And then reactivate their system and transfer the information back to this main computer.
+[00:36:21.677 --> 00:36:24.877] RIKER: The Enterprise has the only mobile computer large enough to handle all that information.
+[00:36:25.037 --> 00:36:25.677] PICARD: So what went wrong?
+[00:36:26.077 --> 00:36:26.877] PICARD: Why are they dying?
+[00:36:27.597 --> 00:36:32.477] MINUET: The star went supernova before it was expected, and you were late arriving at Starbase 74.
+[00:36:32.477 --> 00:36:33.437] PICARD: Why
+[00:36:35.037 --> 00:36:35.837] PICARD: didn't they say something?
+[00:36:37.517 --> 00:36:38.557] PICARD: Why didn't they just ask for help?
+[00:36:39.357 --> 00:36:39.997] MINUET: I don't know.
+[00:36:40.557 --> 00:36:41.677] MINUET: I don't have those answers.
+[00:36:42.557 --> 00:36:43.597] PICARD: Is there anything we can do?
+[00:36:44.157 --> 00:36:44.477] MINUET: Yes.
+[00:36:45.037 --> 00:36:48.317] MINUET: Return the data stored on the Enterprise's computer back to the one on Bynaus.
+[00:36:48.717 --> 00:36:49.597] RIKER: How can we do that?
+[00:36:49.677 --> 00:36:50.317] MINUET: You don't know?
+[00:36:50.317 --> 00:36:50.637] RIKER: Yes.
+[00:36:50.637 --> 00:36:52.077] RIKER: If we had the file name. But we don't.
+[00:36:52.077 --> 00:36:52.477] RIKER: Do you?
+[00:36:53.437 --> 00:36:54.877] MINUET: I don't know what you're talking about.
+[00:36:55.677 --> 00:36:59.037] PICARD: They wouldn't intentionally hide it or make it difficult for us to find.
+[00:36:59.357 --> 00:37:00.637] PICARD: It must be right in front of our faces.
+[00:37:00.797 --> 00:37:03.597] RIKER: We should call Starbase 74, and see if anyone can decipher this.
+[00:37:03.677 --> 00:37:04.477] MINUET: They're dying.
+[00:37:04.788 --> 00:37:05.908] MINUET: They meant you no harm.
+[00:37:06.468 --> 00:37:08.468] MINUET: It was their world they were trying to save.
+[00:37:09.588 --> 00:37:10.308] MINUET: Help them, Will.
+[00:37:10.948 --> 00:37:11.348] MINUET: Hurry.
+[00:37:12.708 --> 00:37:13.428] MINUET: Please.
+[00:37:21.828 --> 00:37:22.628] PICARD: Starbase 74,
+[00:37:22.628 --> 00:37:23.428] PICARD: this is the Enterprise.
+[00:37:23.578 --> 00:37:24.178] PICARD: Do
+[00:37:25.268 --> 00:37:25.668] PICARD: you read me?
+[00:37:26.388 --> 00:37:28.308] QUINTEROS: This is Starbase 74. Captain Picard,
+[00:37:28.308 --> 00:37:29.348] QUINTEROS: what is your situation?
+[00:37:29.588 --> 00:37:30.388] PICARD: We'll go into that later.
+[00:37:30.388 --> 00:37:32.468] PICARD: Right now I must speak to Lieutenant Commander Data.
+[00:37:33.188 --> 00:37:33.828] DATA: I am here, sir.
+[00:37:34.788 --> 00:37:38.068] PICARD: Data, the Bynars have stored an enormous amount of material in our computer.
+[00:37:38.068 --> 00:37:39.668] PICARD: We need to access it. We can't.
+[00:37:40.068 --> 00:37:42.548] DATA: The access would be available by code or password.
+[00:37:42.948 --> 00:37:44.788] PICARD: Yes, I know that, Data, but what could it be?
+[00:37:45.668 --> 00:37:46.948] DATA: File names can be anything, sir.
+[00:37:48.228 --> 00:37:49.188] PICARD: They want us to find it.
+[00:37:49.828 --> 00:37:50.628] PICARD: They would have kept it simple.
+[00:37:50.868 --> 00:37:53.028] DATA: Then a name, or a place.
+[00:37:53.668 --> 00:37:54.788] DATA: It could be something personal.
+[00:37:55.508 --> 00:38:00.308] DATA: In this case, in binary language, which is ones and zeros in groups of eight or sixteen characters.
+[00:38:00.308 --> 00:38:01.988] PICARD: Would they have kept it that simple?
+[00:38:04.308 --> 00:38:04.628] PICARD: Try it.
+[00:38:05.188 --> 00:38:05.828] PICARD: Picard out.
+[00:38:18.068 --> 00:38:18.628] RIKER: That's the file.
+[00:38:18.788 --> 00:38:19.268] RIKER: It'll work now.
+[00:38:19.428 --> 00:38:20.228] PICARD: Now access the file.
+[00:38:20.228 --> 00:38:20.868] PICARD: Start the transfer.
+[00:38:20.868 --> 00:38:20.868] RIKER: So
+[00:38:23.748 --> 00:38:26.388] RIKER: much for that idea.
+[00:38:28.308 --> 00:38:29.428] PICARD: Let me get on the other position.
+[00:38:30.160 --> 00:38:33.280] PICARD: The Bynars always work in pairs.
+[00:38:33.280 --> 00:38:34.320] PICARD: Maybe that is also required.
+[00:38:34.320 --> 00:38:36.320] PICARD: It
+[00:38:40.720 --> 00:38:41.520] PICARD: appears to be successful. Their
+[00:38:44.400 --> 00:38:47.920] PICARD: system's started up.
+[00:38:47.920 --> 00:38:48.000] PICARD: A
+[00:38:50.160 --> 00:38:51.760] PICARD: resident diagnostic programme is running.
+[00:38:54.160 --> 00:38:55.840] PICARD: Their system is absolutely incredible.
+[00:38:55.840 --> 00:38:55.840] ZERO ONE: Our
+[00:39:19.920 --> 00:39:20.507] ZERO ONE: world
+[00:39:20.507 --> 00:39:21.680] ONE ZERO: is reactivated.
+[00:39:21.920 --> 00:39:22.816] ZERO ONE: Our people
+[00:39:22.816 --> 00:39:24.160] ONE ZERO: express their gratitude.
+[00:39:24.720 --> 00:39:26.069] ZERO ZERO: We will return to
+[00:39:26.069 --> 00:39:27.417] ONE ONE: your starbase for whatever
+[00:39:27.417 --> 00:39:28.429] ZERO ZERO: punishment your system
+[00:39:28.429 --> 00:39:29.440] ONE ONE: requires of us.
+[00:39:30.560 --> 00:39:32.160] PICARD: Why didn't you just ask for our help?
+[00:39:39.120 --> 00:39:39.840] ZERO ONE: You might have
+[00:39:39.840 --> 00:39:40.320] ONE ZERO: said no.
+[00:39:40.470 --> 00:39:41.070] RIKER: But
+[00:39:42.080 --> 00:39:43.760] RIKER: there was a very good chance we would have said yes.
+[00:39:44.080 --> 00:39:45.330] ZERO ZERO: Our need was too great
+[00:39:45.330 --> 00:39:46.080] ONE ONE: to risk rejection.
+[00:39:46.640 --> 00:39:47.360] PICARD: So you stole it.
+[00:39:49.440 --> 00:39:51.200] RIKER: Their reason is part of their binary thinking.
+[00:39:52.080 --> 00:39:55.840] RIKER: For them there are only two choices. One or zero. Yes or no.
+[00:39:56.960 --> 00:39:58.880] RIKER: Why did you lure me to the holodeck and hold me there.
+[00:39:59.201 --> 00:40:01.052] ONE ZERO: Because we knew we might die.
+[00:40:01.052 --> 00:40:02.287] ZERO ONE: And we needed someone
+[00:40:02.287 --> 00:40:03.521] ONE ZERO: to restore our computer.
+[00:40:03.521 --> 00:40:04.241] ZERO ONE: And you did.
+[00:40:06.081 --> 00:40:06.801] PICARD: No one has been hurt.
+[00:40:06.881 --> 00:40:07.921] PICARD: You have achieved your objective.
+[00:40:07.921 --> 00:40:09.201] PICARD: You have your planet back in order.
+[00:40:10.961 --> 00:40:11.601] PICARD: We have our ship.
+[00:40:11.601 --> 00:40:11.601] PICARD: Well,
+[00:40:19.521 --> 00:40:21.361] PICARD: it's been some time since I had the conn.
+[00:40:23.201 --> 00:40:26.561] PICARD: But not to worry, Number One, you're in good hands.
+[00:40:28.001 --> 00:40:30.001] PICARD: Starbase 74,
+[00:40:31.841 --> 00:40:32.961] PICARD: warp two.
+[00:40:34.881 --> 00:40:35.441] PICARD: Engage.
+[00:40:42.481 --> 00:40:43.441] PICARD: Everything's under control.
+[00:40:47.361 --> 00:40:51.441] COMPUTER: USS Enterprise has cleared the starbase perimeter.
+[00:41:08.401 --> 00:41:09.201] CRUSHER: Is everything all right?
+[00:41:09.361 --> 00:41:09.921] PICARD: We're fine.
+[00:41:09.921 --> 00:41:10.641] PICARD: Everything is in order.
+[00:41:10.801 --> 00:41:13.361] PICARD: But now, I want a complete check, all systems, all divisions.
+[00:41:15.761 --> 00:41:16.561] TASHA: What about the Bynars?
+[00:41:16.801 --> 00:41:17.761] PICARD: Turn them over to Quinteros.
+[00:41:17.761 --> 00:41:18.641] PICARD: There will be a hearing.
+[00:41:18.881 --> 00:41:19.761] ZERO ONE: We understood that
+[00:41:19.841 --> 00:41:20.321] ONE ZERO: would happen.
+[00:41:20.721 --> 00:41:21.281] TASHA: Follow me, please.
+[00:41:23.841 --> 00:41:25.761] RIKER: While these things are being checked, permission to leave the Bridge, sir.
+[00:41:26.481 --> 00:41:27.041] PICARD: Permission granted.
+[00:41:37.702 --> 00:41:41.302] RIKER: What is a knockout like you doing in a computer generated gin joint like this?
+[00:41:41.452 --> 00:41:42.052] RIKER: You're
+[00:41:50.102 --> 00:41:50.342] RIKER: not
+[00:41:53.222 --> 00:41:55.222] RIKER: Minuet.
+[00:42:08.502 --> 00:42:09.062] RIKER: She's gone.
+[00:42:11.702 --> 00:42:13.302] RIKER: I tried variations of the programme,
+[00:42:13.302 --> 00:42:15.862] RIKER: others appeared, but not Minuet.
+[00:42:18.422 --> 00:42:20.342] PICARD: Maybe it was all part of the Bynar's programming.
+[00:42:21.782 --> 00:42:22.582] PICARD: But you know, Number One,
+[00:42:24.502 --> 00:42:26.102] PICARD: some relationships just can't work.
+[00:42:27.382 --> 00:42:29.302] RIKER: Yes, probably true.
+[00:42:31.542 --> 00:42:32.582] RIKER: She'll be difficult to forget.

@@ -1,0 +1,623 @@
+[00:00:18.160 --> 00:00:20.160] RIKER: Come
+[00:00:29.360 --> 00:00:29.680] RIKER: on in.
+[00:00:32.480 --> 00:00:32.880] RIKER: Excellent.
+[00:00:33.120 --> 00:00:34.400] RIKER: Exactly what I need.
+[00:00:36.960 --> 00:00:38.320] RIKER: Ah, Mister Worf.
+[00:00:38.480 --> 00:00:41.120] RIKER: And the good Doctor, bearing gifts.
+[00:00:41.200 --> 00:00:42.800] PULASKI: Ale from Ennan Six.
+[00:00:42.880 --> 00:00:44.560] PULASKI: Your omelettes deserve no less.
+[00:00:45.680 --> 00:00:48.480] DATA: This is not an efficient method for the preparation of sustenance.
+[00:00:48.640 --> 00:00:49.200] RIKER: No, you're right, Data.
+[00:00:49.200 --> 00:00:53.360] RIKER: The ship's computer would be more efficient, but it wouldn't allow for the subtlety needed for great cooking.
+[00:00:53.760 --> 00:00:56.240] RIKER: It would give you all of the ingredients in pre-determined measurements,
+[00:00:56.240 --> 00:00:58.560] RIKER: but wouldn't allow for flair or individuality.
+[00:00:59.280 --> 00:01:03.680] RIKER: And Data, as we both know, flair is what marks the difference between artistry and mere competence.
+[00:01:03.920 --> 00:01:11.280] PULASKI: For much of the history of mankind, the breaking of bread was a symbol of friendship and community. Something we have gotten away from in the twenty-fourth century.
+[00:01:13.120 --> 00:01:15.360] PULASKI: Ah, you have a practiced hand, Commander.
+[00:01:16.080 --> 00:01:17.280] RIKER: Yes, I have my father to thank.
+[00:01:17.680 --> 00:01:19.440] PULASKI: Your father liked to cook?
+[00:01:19.680 --> 00:01:21.200] RIKER: No, he hated it.
+[00:01:21.200 --> 00:01:22.320] RIKER: That's why he left the chore to me.
+[00:01:22.720 --> 00:01:27.280] WORF: It is my understanding that in most human families, the woman shares in the cooking.
+[00:01:28.640 --> 00:01:29.600] RIKER: There were only the two of us.
+[00:01:30.131 --> 00:01:31.011] RIKER: I never knew my mother.
+[00:01:31.251 --> 00:01:32.451] RIKER: She died when I was very young.
+[00:01:40.051 --> 00:01:41.011] LAFORGE: Where did you get these eggs?
+[00:01:42.851 --> 00:01:44.131] RIKER: On our last stop.
+[00:01:44.131 --> 00:01:45.411] LAFORGE: At Starbase Seventy Three?
+[00:01:45.811 --> 00:01:45.971] RIKER: Yes.
+[00:01:47.411 --> 00:01:48.531] LAFORGE: What kind of eggs did you say these were?
+[00:01:49.011 --> 00:01:49.491] RIKER: Owon.
+[00:01:50.851 --> 00:01:52.851] RIKER: For you, Data, something special.
+[00:01:56.131 --> 00:01:56.691] RIKER: Don't be afraid.
+[00:01:57.011 --> 00:01:57.571] RIKER: They won't bite you.
+[00:01:59.251 --> 00:02:00.291] RIKER: And for you, Mister Worf.
+[00:02:09.811 --> 00:02:13.491] RIKER: A cook's only as good as his ingredients.
+[00:02:28.131 --> 00:02:28.531] WORF: Delicious.
+[00:02:32.291 --> 00:02:32.771] PICARD: Number One.
+[00:02:33.891 --> 00:02:34.291] RIKER: Go ahead.
+[00:02:34.771 --> 00:02:36.211] PICARD: I would appreciate you joining me on the Bridge.
+[00:02:36.931 --> 00:02:37.411] RIKER: Right away, sir.
+[00:02:46.131 --> 00:02:49.171] PICARD: Number One, we've picked up an automated signal from a Federation shuttlecraft.
+[00:02:49.171 --> 00:02:50.611] RIKER: A shuttlecraft?
+[00:02:50.611 --> 00:02:51.251] RIKER: How's that possible?
+[00:02:51.251 --> 00:02:53.091] RIKER: I thought we were the only manned Federation vessel out here.
+[00:02:53.411 --> 00:02:54.051] PICARD: Apparently not.
+[00:02:55.491 --> 00:02:57.011] RIKER: What's a shuttlecraft doing out this far?
+[00:02:57.251 --> 00:02:58.051] RIKER: Where's its mother ship?
+[00:02:58.691 --> 00:03:02.051] WORF: Sensors indicate there is at least one life form on board the shuttle, sir.
+[00:03:02.371 --> 00:03:02.931] WORF: Humanoid.
+[00:03:03.743 --> 00:03:05.583] PICARD: Perhaps someone to answer your questions, Number One.
+[00:03:06.303 --> 00:03:07.343] PICARD: Open hailing frequencies.
+[00:03:07.823 --> 00:03:09.423] WORF: Communication is not possible, sir.
+[00:03:09.583 --> 00:03:10.783] WORF: The shuttle is without power.
+[00:03:12.063 --> 00:03:13.023] RIKER: Set course to intercept.
+[00:03:14.223 --> 00:03:16.463] DATA: Estimate intercept in three minutes.
+[00:03:41.343 --> 00:03:44.063] PICARD: Space, the final frontier.
+[00:03:45.903 --> 00:03:48.783] PICARD: These are the voyages of the Starship Enterprise.
+[00:03:49.903 --> 00:03:53.343] PICARD: Its continuing mission to explore strange new worlds,
+[00:03:54.863 --> 00:03:58.223] PICARD: to seek out new life and new civilizations,
+[00:03:59.823 --> 00:04:02.303] PICARD: to boldly go where no one has gone
+[00:04:03.983 --> 00:04:05.983] PICARD: before.
+[00:04:28.000 --> 00:04:42.000] [music]
+[00:04:51.000 --> 00:04:59.000] [music]
+[00:04:59.031 --> 00:05:02.311] LOG: Captain's log, stardate 42679.2.
+[00:05:03.111 --> 00:05:09.111] LOG: While en route to the Endicor system, we have encountered a Federation shuttlecraft, which seems to have appeared out of nowhere.
+[00:05:09.671 --> 00:05:12.871] LOG: There are no indications of where it came from or how it got out here.
+[00:05:14.231 --> 00:05:15.591] WORF: We are closing on shuttlecraft, sir.
+[00:05:15.911 --> 00:05:16.631] PICARD: Thank you, Lieutenant.
+[00:05:17.431 --> 00:05:17.831] PICARD: On screen.
+[00:05:19.751 --> 00:05:20.151] RIKER: Magnify.
+[00:05:28.471 --> 00:05:29.351] RIKER: Prepare to lock on tractor beam.
+[00:05:30.311 --> 00:05:31.031] DATA: Target vehicle.
+[00:05:31.831 --> 00:05:34.231] DATA: We will be within tractor beam range in two seconds.
+[00:05:34.791 --> 00:05:36.391] RIKER: Set automatic locking device.
+[00:05:36.711 --> 00:05:37.591] RIKER: Alert Shuttlebay two.
+[00:05:41.111 --> 00:05:43.111] DATA: Shuttlebay two, prepare for retrieval procedure.
+[00:05:48.871 --> 00:05:49.751] DATA: Locking tractor beam.
+[00:05:49.751 --> 00:05:49.991] PICARD: Number One.
+[00:05:51.191 --> 00:05:51.271] RIKER: You're
+[00:06:01.911 --> 00:06:02.631] RIKER: with me, Mister Worf.
+[00:06:06.752 --> 00:06:09.792] PICARD: Doctor Pulaski, you are needed in Shuttlebay two.
+[00:06:10.592 --> 00:06:11.472] PULASKI: I've been monitoring.
+[00:06:11.472 --> 00:06:12.192] PULASKI: I'm on my way.
+[00:06:13.472 --> 00:06:15.152] DATA: Engage secondary tractor beam.
+[00:06:41.952 --> 00:06:43.552] RIKER: It's a Federation shuttlecraft, all right.
+[00:06:43.792 --> 00:06:46.032] WORF: Yet there are no Federation bases or vessels in this area.
+[00:06:46.512 --> 00:06:51.872] RIKER: NCC one seven zero one D USS Enterprise, shuttlecraft five.
+[00:07:04.672 --> 00:07:09.792] RIKER: NCC one seven zero one D USS Enterprise shuttlecraft five.
+[00:07:09.792 --> 00:07:10.752] WORF: How is this possible?
+[00:07:16.512 --> 00:07:17.392] PULASKI: Commander, come here!
+[00:07:22.832 --> 00:07:23.152] RIKER: Captain?
+[00:07:23.152 --> 00:07:24.992] PICARD: Yes, Number One.
+[00:07:26.032 --> 00:07:26.752] RIKER: Are you on the Bridge?
+[00:07:27.712 --> 00:07:28.512] PICARD: Where else would I be?
+[00:07:30.277 --> 00:07:32.277] RIKER: Well. right now I think you should be in Shuttlebay two.
+[00:07:33.237 --> 00:07:33.397] PICARD: Why?
+[00:07:33.397 --> 00:07:33.797] PICARD: What is it?
+[00:07:34.597 --> 00:07:36.277] RIKER: This I think you should see for yourself.
+[00:07:36.837 --> 00:07:37.637] RIKER: Bring Commander Data.
+[00:08:09.077 --> 00:08:09.397] PICARD: Condition?
+[00:08:10.277 --> 00:08:11.797] PULASKI: The life signs are very confusing.
+[00:08:12.357 --> 00:08:14.197] PULASKI: His heartbeat is strong, but the pulse is off.
+[00:08:15.797 --> 00:08:16.197] PICARD: Is he injured?
+[00:08:17.157 --> 00:08:18.437] PULASKI: There's no signs of trauma.
+[00:08:20.197 --> 00:08:21.157] PICARD: Why is he unconscious?
+[00:08:21.157 --> 00:08:21.637] PICARD: What happened to him?
+[00:08:21.637 --> 00:08:21.717] PULASKI: I
+[00:08:23.717 --> 00:08:24.197] PULASKI: can't say.
+[00:08:27.957 --> 00:08:31.797] PULASKI: The readings of his brain waves are very strange.
+[00:08:31.797 --> 00:08:32.597] PICARD: Strange?
+[00:08:33.317 --> 00:08:33.637] PICARD: In what way?
+[00:08:34.357 --> 00:08:34.757] PICARD: Non-human?
+[00:08:35.717 --> 00:08:36.117] PICARD: Artificial?
+[00:08:37.477 --> 00:08:37.797] PULASKI: No, neither.
+[00:08:37.797 --> 00:08:39.637] PULASKI: They're
+[00:08:41.237 --> 00:08:42.437] PULASKI: just out of phase.
+[00:08:42.587 --> 00:08:43.187] PICARD: Can
+[00:08:45.077 --> 00:08:45.557] PICARD: you revive him?
+[00:08:48.517 --> 00:08:51.237] PULASKI: I wouldn't even attempt it till we get him into Sickbay.
+[00:08:51.317 --> 00:08:51.877] PULASKI: Come on, let's get him
+[00:09:26.315 --> 00:09:26.515] PULASKI: back.
+[00:09:26.515 --> 00:09:26.715] PICARD: Counsellor?
+[00:09:28.875 --> 00:09:33.595] TROI: I have never felt anything quite like this before, so it's difficult to put into words.
+[00:09:35.675 --> 00:09:36.875] TROI: That person is you.
+[00:09:37.595 --> 00:09:37.755] PICARD: No.
+[00:09:40.555 --> 00:09:45.115] TROI: He is as much Jean-Luc Picard as the person I am standing next to.
+[00:09:46.075 --> 00:09:48.795] TROI: Beyond that, there is very little I can be sure of.
+[00:09:50.155 --> 00:09:52.955] TROI: I will have to wait until he regains consciousness before knowing more.
+[00:09:55.435 --> 00:09:57.915] PICARD: Data, I need to know what's on the shuttle's logs.
+[00:09:58.315 --> 00:09:58.395] DATA: Yes, sir.
+[00:10:06.315 --> 00:10:10.395] DATA: Captain, both primary and reserve power has been drained from the shuttle.
+[00:10:11.035 --> 00:10:14.635] DATA: I am going to have to connect to the Enterprise in order to activate the shuttle's systems.
+[00:10:15.355 --> 00:10:17.995] RIKER: Geordi Report to Shuttlebay two immediately.
+[00:10:19.035 --> 00:10:19.675] LAFORGE: I'm on my way.
+[00:10:21.176 --> 00:10:21.976] PICARD: I'll be in Sickbay.
+[00:10:21.976 --> 00:10:22.696] PICARD: Keep me informed.
+[00:10:22.696 --> 00:10:22.936] RIKER: Captain,
+[00:10:23.976 --> 00:10:24.456] RIKER: seen this?
+[00:10:27.656 --> 00:10:30.616] PICARD: Looks like the damage caused by an antimatter explosion.
+[00:10:31.736 --> 00:10:33.176] RIKER: It must have been just out of range of the shuttlecraft.
+[00:10:35.336 --> 00:10:36.456] PICARD: Data, I need those logs.
+[00:10:37.976 --> 00:10:38.456] PICARD: Counsellor.
+[00:10:44.056 --> 00:10:44.776] RIKER: We'll be on the Bridge.
+[00:10:47.016 --> 00:10:47.496] RIKER: Lieutenant.
+[00:10:54.456 --> 00:10:55.656] RIKER: Resume course and speed.
+[00:10:56.056 --> 00:10:57.256] RIKER: Scanners at maximum range.
+[00:10:57.816 --> 00:10:58.536] WORF: Maximum range.
+[00:11:09.096 --> 00:11:09.736] LAFORGE: There you go.
+[00:11:10.056 --> 00:11:10.856] LAFORGE: You should have power now.
+[00:11:16.216 --> 00:11:18.616] LAFORGE: What happened?
+[00:11:19.736 --> 00:11:21.176] DATA: The polarity is not compatible.
+[00:11:22.616 --> 00:11:23.496] LAFORGE: That's not possible.
+[00:11:23.496 --> 00:11:24.616] LAFORGE: The connection's idiot proof.
+[00:11:25.496 --> 00:11:28.376] DATA: The power requirements of the shuttle do not match those of the Enterprise.
+[00:11:29.736 --> 00:11:35.096] DATA: We will need a variable phase inverter, to align the power from the Enterprise to the circuits of the shuttle.
+[00:11:36.696 --> 00:11:39.256] LAFORGE: Data, what do you think is going on here?
+[00:11:39.576 --> 00:11:40.536] LAFORGE: I don't mean just with the shuttle,
+[00:11:40.536 --> 00:11:41.416] LAFORGE: I mean everything.
+[00:11:42.296 --> 00:11:43.496] DATA: I do not have enough information.
+[00:11:58.305 --> 00:12:00.385] PULASKI: I'm just starting a complete medical work-up.
+[00:12:01.585 --> 00:12:03.185] PULASKI: His vital signs are distorted.
+[00:12:06.145 --> 00:12:07.745] PULASKI: Some of the indicators are totally depressed,
+[00:12:07.825 --> 00:12:09.265] PULASKI: others are fluctuating wildly.
+[00:12:10.945 --> 00:12:12.065] PULASKI: I can't explain any of it.
+[00:12:12.385 --> 00:12:13.185] PULASKI: But he is alive.
+[00:12:20.225 --> 00:12:21.665] PULASKI: The restraints are for his own protection.
+[00:12:22.865 --> 00:12:25.185] PICARD: Have you been able to determine why he's still unconscious?
+[00:12:25.905 --> 00:12:28.705] PULASKI: No. but I have been able to rule out any head injury.
+[00:12:32.705 --> 00:12:32.945] PICARD: Wake
+[00:12:57.585 --> 00:12:59.585] PICARD: him.
+[00:13:10.065 --> 00:13:10.465] PICARD: What happened?
+[00:13:13.025 --> 00:13:15.905] PULASKI: Apparently, the normal stimulant had the opposite effect.
+[00:13:17.665 --> 00:13:18.865] PULASKI: I'll have to try something else.
+[00:13:29.652 --> 00:13:30.212] LAFORGE: All right, Data.
+[00:13:30.362 --> 00:13:30.962] LAFORGE: I
+[00:13:33.812 --> 00:13:34.612] LAFORGE: think I've got it now.
+[00:13:36.212 --> 00:13:37.252] LAFORGE: That ought to give you something.
+[00:13:38.772 --> 00:13:41.332] LAFORGE: Making this power adjustment is very tricky.
+[00:13:42.452 --> 00:13:45.172] LAFORGE: By all rights, this connection should blow all the shuttle's circuits.
+[00:13:46.852 --> 00:13:48.692] DATA: Perhaps you had better step out of the way.
+[00:13:49.812 --> 00:13:50.212] LAFORGE: All right,
+[00:13:51.732 --> 00:13:54.372] LAFORGE: but remember, you're not indestructible yourself, you know.
+[00:14:04.612 --> 00:14:05.492] DATA: Increase the power.
+[00:14:07.732 --> 00:14:08.292] LAFORGE: Powering up.
+[00:14:11.492 --> 00:14:12.292] DATA: Adjust the invert
+[00:14:13.332 --> 00:14:14.292] DATA: two percent positive.
+[00:14:14.292 --> 00:14:17.332] LAFORGE: Two percent positive.
+[00:14:17.332 --> 00:14:17.412] LAFORGE: It's
+[00:14:19.412 --> 00:14:21.732] LAFORGE: the right decision, but it's having the opposite effect.
+[00:14:21.892 --> 00:14:22.452] DATA: Yes.
+[00:14:22.852 --> 00:14:24.292] LAFORGE: I don't understand.
+[00:14:24.292 --> 00:14:28.452] LAFORGE: I can't think of anything that would cause the circuit to change so radically.
+[00:14:31.092 --> 00:14:33.412] DATA: Adjust the invert two percent negative.
+[00:14:34.372 --> 00:14:34.932] LAFORGE: Okay.
+[00:14:37.492 --> 00:14:39.572] LAFORGE: Two percent negative.
+[00:14:41.332 --> 00:14:43.572] LAFORGE: That's it.
+[00:14:44.532 --> 00:14:45.892] LAFORGE: It shouldn't work, but it does.
+[00:14:47.447 --> 00:14:47.847] LAFORGE: Hey, Data.
+[00:14:47.847 --> 00:14:50.167] LAFORGE: Take a look at the stardate.
+[00:14:53.527 --> 00:14:56.567] LAFORGE: 42679.5.
+[00:14:58.247 --> 00:14:58.727] LAFORGE: Captain.
+[00:14:59.527 --> 00:14:59.927] PICARD: Go ahead.
+[00:15:00.647 --> 00:15:07.047] LAFORGE: Captain, we've been able to reactivate the shuttle, and the on-board clock indicates that the shuttle is Six hours in front of us.
+[00:15:09.127 --> 00:15:10.007] LAFORGE: Captain, do you read me?
+[00:15:11.767 --> 00:15:14.487] LAFORGE: If the shuttle's from six hours into the future, then so is the other
+[00:15:14.487 --> 00:15:15.367] LAFORGE: Captain Picard.
+[00:15:25.127 --> 00:15:26.407] LOG: Captain's log, supplemental.
+[00:15:27.047 --> 00:15:28.727] LOG: Part of the mystery has been solved.
+[00:15:29.047 --> 00:15:38.647] LOG: The reason there are two number five shuttlecrafts is because one of them is from the future. Six hours, to be exact. And so, presumably, is the facsimile of me.
+[00:15:40.087 --> 00:15:40.887] PICARD: Try to wake him, again.
+[00:16:17.767 --> 00:16:17.927] PICARD: No!
+[00:16:19.479 --> 00:16:20.359] PULASKI: It's a only a sedative.
+[00:16:20.759 --> 00:16:21.319] PICARD: I know what it is.
+[00:16:21.319 --> 00:16:21.959] PICARD: Don't sedate him.
+[00:16:21.959 --> 00:16:22.359] PICARD: Let him be.
+[00:16:22.509 --> 00:16:23.109] PICARD: Please.
+[00:16:28.599 --> 00:16:29.719] PICARD: Let him to remain conscious.
+[00:16:31.879 --> 00:16:34.999] PULASKI: I have never seen anything like this.
+[00:16:34.999 --> 00:16:35.079] PULASKI: Are
+[00:16:47.799 --> 00:16:48.439] PULASKI: you all right?
+[00:16:50.599 --> 00:16:51.319] PICARD: I'm fine, Doctor.
+[00:16:51.639 --> 00:16:53.239] PICARD: Save your ministrations for your patient.
+[00:16:53.239 --> 00:16:54.919] PICARD: I want a staff meeting in five minutes.
+[00:16:55.959 --> 00:16:57.559] PICARD: Doctor, I assume you will want to remain here.
+[00:16:58.199 --> 00:17:00.119] PULASKI: Yes, I will monitor the conference from here.
+[00:17:01.719 --> 00:17:05.239] PICARD: Keep me informed of any changes, no matter how small.
+[00:17:22.919 --> 00:17:24.039] LOG: Captain's log, supplemental.
+[00:17:24.439 --> 00:17:28.359] LOG: I've been informed that Mister Data has recovered the logs from the duplicate shuttlecraft.
+[00:17:29.159 --> 00:17:33.719] LOG: I am more than apprehensive to play back a log which will not be recorded for several hours.
+[00:17:34.439 --> 00:17:38.199] LAFORGE: Captain, we've retrieved all we are going to get from the shuttle logs, including the last visual records.
+[00:17:38.199 --> 00:17:39.639] LAFORGE: Everything before that is just a jumble.
+[00:17:40.519 --> 00:17:40.919] PICARD: Show me.
+[00:17:44.119 --> 00:17:48.519] LAFORGE: The distortion is because we had to use a phase inverter to retrieve the logs.
+[00:17:48.990 --> 00:17:51.230] LAFORGE: The quality will improve slightly.
+[00:18:22.830 --> 00:18:27.470] DATA: According to the shuttle log, the Enterprise was destroyed three hours nineteen minutes from now.
+[00:18:28.750 --> 00:18:31.550] LAFORGE: Captain, we have a portion of the last log entry.
+[00:18:32.030 --> 00:18:32.350] LAFORGE: It's audio
+[00:18:33.950 --> 00:18:35.950] LAFORGE: only.
+[00:18:38.350 --> 00:18:40.030] PICARD: Captain's personal log, supplemental.
+[00:18:41.070 --> 00:18:46.590] PICARD: I have just witnessed the total destruction of the USS Enterprise with a loss of all hands,
+[00:18:47.310 --> 00:18:47.950] PICARD: save one.
+[00:18:49.470 --> 00:18:49.790] PICARD: Me.
+[00:18:53.710 --> 00:18:56.670] LAFORGE: All attempts to obtain further information from the shuttle have failed.
+[00:18:58.030 --> 00:19:00.110] RIKER: Well, at least now we have something to go on.
+[00:19:01.310 --> 00:19:06.030] LAFORGE: I just don't understand how you could have ended up in a shuttlecraft while the Enterprise was being destroyed.
+[00:19:06.430 --> 00:19:06.910] WORF: Nor I.
+[00:19:07.550 --> 00:19:10.670] WORF: The last thing you would do is leave the Bridge of the Enterprise during an emergency.
+[00:19:13.310 --> 00:19:13.630] PICARD: Yes.
+[00:19:18.953 --> 00:19:19.433] PICARD: All right,
+[00:19:19.913 --> 00:19:27.513] PICARD: let's proceed on the premise that what we have just seen happened, and that in less than four hours from now,
+[00:19:29.193 --> 00:19:38.553] PICARD: the Enterprise will be destroyed, and somehow, although this is unfathomable, I and I alone escape.
+[00:19:39.513 --> 00:19:39.913] PICARD: Discussion.
+[00:19:40.953 --> 00:19:42.633] RIKER: Our destination is the Endicor system.
+[00:19:42.873 --> 00:19:44.233] RIKER: We're due to arrive in three days.
+[00:19:44.793 --> 00:19:46.713] RIKER: The charts show nothing of consequence,
+[00:19:46.713 --> 00:19:48.873] RIKER: certainly nothing to threaten the Enterprise, between here and there.
+[00:19:50.073 --> 00:19:53.593] WORF: Sensors indicated no other vessels, Federation or otherwise, in this area.
+[00:19:54.633 --> 00:19:54.873] PICARD: Data?
+[00:19:56.553 --> 00:19:57.433] DATA: I have nothing to offer.
+[00:19:58.313 --> 00:20:01.033] DATA: There is not enough information upon which to base a hypothesis.
+[00:20:02.073 --> 00:20:04.713] LAFORGE: Well, the shuttle apparently came from somewhere up ahead,
+[00:20:04.713 --> 00:20:10.153] LAFORGE: so Rather than continuing on this course, maybe we should stop here and let whatever is out there come to us.
+[00:20:10.873 --> 00:20:11.993] RIKER: We may already be too late.
+[00:20:12.873 --> 00:20:13.353] LAFORGE: What are you saying?
+[00:20:13.353 --> 00:20:17.673] LAFORGE: That stopping, turning right or left, or even reversing our course, would be pointless?
+[00:20:18.313 --> 00:20:24.713] RIKER: When we brought the shuttle and the other Picard on board, we committed to a sequence of events which may be unalterable.
+[00:20:25.353 --> 00:20:31.673] PICARD: Yes, this is not a rock on the trail which once seen can easily be avoided.
+[00:20:32.713 --> 00:20:33.913] PICARD: This is much more complex.
+[00:20:34.633 --> 00:20:36.873] WORF: There is the theory of the moebius.
+[00:20:38.553 --> 00:20:41.513] WORF: A twist in the fabric of space where time becomes a loop
+[00:20:42.376 --> 00:20:43.416] WORF: from which there is no escape.
+[00:20:44.696 --> 00:20:48.056] LAFORGE: So, when we reach that point, whatever happened will happen again.
+[00:20:48.056 --> 00:20:49.496] LAFORGE: The Enterprise will be destroyed,
+[00:20:49.736 --> 00:20:52.856] LAFORGE: the other Picard will be sent back to meet with us and we do it all over again.
+[00:20:53.416 --> 00:20:55.096] LAFORGE: Sounds like someone's idea of hell to me.
+[00:20:55.576 --> 00:20:58.696] RIKER: Well, I know this much. We can't avoid the future.
+[00:20:59.976 --> 00:21:00.296] PICARD: Agreed.
+[00:21:00.776 --> 00:21:02.376] PICARD: So let's continue on course.
+[00:21:03.016 --> 00:21:05.576] PICARD: Somewhere out there something will happen.
+[00:21:06.056 --> 00:21:10.056] PICARD: A decision will be made during the course of which, I will be separated from the Enterprise.
+[00:21:10.456 --> 00:21:14.216] PICARD: At the time, the decision will seem to be correct, but it won't be.
+[00:21:15.576 --> 00:21:17.576] PICARD: We have to anticipate and not make,
+[00:21:19.256 --> 00:21:20.696] PICARD: not make the same mistake once.
+[00:21:22.696 --> 00:21:24.216] PICARD: Something is waiting for us out there.
+[00:21:26.216 --> 00:21:28.376] PICARD: Let's try and determine what it is, as quickly as possible.
+[00:21:57.016 --> 00:21:57.336] PICARD: Doctor?
+[00:21:59.096 --> 00:22:04.856] PULASKI: I'm just beginning to realise just how much of the body is held together by its own internal clock.
+[00:22:05.896 --> 00:22:11.256] PULASKI: He was thrown out of time, which caused his body systems to change their rhythm.
+[00:22:11.816 --> 00:22:15.176] PULASKI: Now, slowly, as we get closer to the time he left,
+[00:22:16.043 --> 00:22:18.763] PULASKI: his internal body clock is realigning.
+[00:22:20.123 --> 00:22:26.443] PICARD: You're saying that when our time intersects with the time he left, in that instant he will function normally and, and
+[00:22:29.883 --> 00:22:30.923] PICARD: there will be two of us.
+[00:22:32.843 --> 00:22:33.963] PULASKI: Right now, that is my guess.
+[00:22:36.283 --> 00:22:37.643] PICARD: Doctor, I don't think that's possible.
+[00:22:38.283 --> 00:22:40.203] TROI: I'm able to feel much more from him now, Captain.
+[00:22:41.403 --> 00:22:45.243] TROI: His emotions are still a jumble, but
+[00:23:00.603 --> 00:23:01.003] PICARD: Counsellor?
+[00:23:03.003 --> 00:23:04.843] TROI: He desperately wants to leave this ship.
+[00:23:26.123 --> 00:23:27.243] LOG: Captain's log, supplemental.
+[00:23:27.723 --> 00:23:29.483] LOG: We continue on course to Endicor.
+[00:23:30.123 --> 00:23:34.123] LOG: We are now less than two hours away from our rendezvous with ourselves.
+[00:23:35.243 --> 00:23:35.483] RIKER: Worf.
+[00:23:36.843 --> 00:23:37.803] WORF: Maximum scan.
+[00:23:38.043 --> 00:23:39.323] WORF: Nothing unusual to report.
+[00:23:39.883 --> 00:23:43.243] RIKER: If this timetable is correct, we could get an indication of something very soon.
+[00:23:43.643 --> 00:23:45.003] PULASKI: Bridge, this is Sickbay.
+[00:23:45.643 --> 00:23:46.283] PICARD: Yes, Doctor.
+[00:23:47.243 --> 00:23:49.563] PULASKI: Captain, my patient is more coherent.
+[00:23:51.195 --> 00:23:51.835] PICARD: I'm on my way.
+[00:23:51.995 --> 00:23:53.035] PICARD: You have the Bridge, Number One.
+[00:24:06.395 --> 00:24:06.715] PICARD: How is he?
+[00:24:07.515 --> 00:24:10.635] PULASKI: His vital signs are more normal. Which is to say, more like ours.
+[00:24:11.115 --> 00:24:11.835] PULASKI: He is calmer.
+[00:24:12.395 --> 00:24:13.115] PICARD: He's aware of me.
+[00:24:14.235 --> 00:24:15.595] PULASKI: Perhaps, in some fashion.
+[00:24:16.395 --> 00:24:17.355] PICARD: But he knows where he is,
+[00:24:17.435 --> 00:24:17.995] PICARD: who's here with him.
+[00:24:18.715 --> 00:24:19.115] PULASKI: I doubt it.
+[00:24:27.435 --> 00:24:28.155] PICARD: What went wrong?
+[00:24:29.915 --> 00:24:30.715] PICARD: You know, don't you?
+[00:24:39.115 --> 00:24:39.675] PICARD: What did you do?
+[00:24:40.715 --> 00:24:41.195] PICARD: What happened?
+[00:24:41.195 --> 00:24:41.995] PICARD: Why did you leave the ship?
+[00:24:51.195 --> 00:24:51.915] PICARD: Don't turn away.
+[00:24:51.915 --> 00:24:52.475] PICARD: Look at me.
+[00:24:56.955 --> 00:24:58.475] PICARD: Picard! Look at me!
+[00:24:59.195 --> 00:25:00.955] TROI: Captain, he doesn't understand you.
+[00:25:01.115 --> 00:25:01.835] PICARD: He knows I'm here.
+[00:25:02.875 --> 00:25:07.035] TROI: Yes, but in a nightmare of disjointed images and half-heard voices.
+[00:25:08.555 --> 00:25:15.275] TROI: He's in another dimension, looking at us across a great chasm. And he's feeling remorse at what he has witnessed.
+[00:25:16.382 --> 00:25:17.182] TROI: He's afraid.
+[00:25:17.982 --> 00:25:18.782] PICARD: What is he afraid of?
+[00:25:33.262 --> 00:25:34.622] PICARD: Damn you. Help me!
+[00:25:35.102 --> 00:25:36.062] PICARD: Why did you leave the ship?
+[00:25:36.382 --> 00:25:37.502] TROI: It's no use, Captain.
+[00:25:37.502 --> 00:25:38.862] TROI: He can't answer you.
+[00:25:42.782 --> 00:25:45.182] PULASKI: When we get closer to his time, he may be able to.
+[00:25:45.182 --> 00:25:48.062] PICARD: Are you still convinced he's me?
+[00:25:49.182 --> 00:25:50.862] TROI: Yes, but you're not convinced.
+[00:25:51.422 --> 00:25:52.462] PICARD: Not in the slightest.
+[00:25:52.462 --> 00:25:52.542] PICARD: Except
+[00:25:54.462 --> 00:25:57.102] PICARD: for his features, there is nothing about him that I find familiar.
+[00:26:01.662 --> 00:26:02.862] PICARD: Counsellor, I want you to stay with him.
+[00:26:04.142 --> 00:26:06.062] PICARD: He will be able to communicate with you before any on else.
+[00:26:09.982 --> 00:26:12.782] PULASKI: I don't know how long anyone could take this kind of anxiety state.
+[00:26:13.662 --> 00:26:14.862] PULASKI: There has to be a breaking point.
+[00:26:15.742 --> 00:26:17.262] TROI: I think he's handling it very well.
+[00:26:18.782 --> 00:26:20.062] PULASKI: He has a lot of anger.
+[00:26:20.702 --> 00:26:22.526] TROI: Yes, because of what he represents.
+[00:26:22.526 --> 00:26:23.742] PULASKI: And what is that?
+[00:26:25.022 --> 00:26:25.422] TROI: Doubt.
+[00:26:27.102 --> 00:26:34.702] TROI: He's afraid that seeing him here and knowing what happened to the Enterprise will make him timid, or worse, make him to hesitate.
+[00:26:36.382 --> 00:26:38.462] PULASKI: Part of my job is to anticipate problems.
+[00:26:40.542 --> 00:26:43.182] PULASKI: My duty is to the Captain, but first to the ship and its crew.
+[00:26:44.557 --> 00:26:48.397] TROI: Doctor, the Captain is quite capable of command decisions.
+[00:26:49.037 --> 00:26:50.237] PULASKI: Yes, for now.
+[00:26:51.357 --> 00:26:56.477] PULASKI: But this situation has put him under extreme pressure of a unique and very personal kind.
+[00:26:57.357 --> 00:26:59.517] PULASKI: We both know that pressure will only increase.
+[00:27:01.037 --> 00:27:04.806] PULASKI: You said yourself that he already has doubt.
+[00:27:04.806 --> 00:27:07.161] TROI: Which is understandable, and healthy.
+[00:27:07.161 --> 00:27:09.517] PULASKI: And could be potentially paralysing.
+[00:27:11.117 --> 00:27:17.277] PULASKI: If we begin to see signs that he's acting in an irrational manner, I have the authority and the duty to relieve
+[00:27:20.477 --> 00:27:20.717] PULASKI: him.
+[00:27:20.717 --> 00:27:22.637] TROI: I don't think that will be necessary.
+[00:27:23.597 --> 00:27:23.997] PULASKI: I hope you're
+[00:27:25.917 --> 00:27:27.917] PULASKI: right.
+[00:28:10.477 --> 00:28:13.757] PICARD: What force or
+[00:28:14.641 --> 00:28:17.441] PICARD: phenomenon could cause the shuttle to be thrown back in time?
+[00:28:17.841 --> 00:28:18.721] RIKER: None that we've encountered.
+[00:28:19.121 --> 00:28:20.988] RIKER: In theory, accelerating beyond warp ten.
+[00:28:20.988 --> 00:28:24.721] PICARD: Using the gravitational pull of a star to slingshot back in time.
+[00:28:24.721 --> 00:28:25.601] PICARD: Is that what happened here?
+[00:28:25.921 --> 00:28:28.241] RIKER: The shuttle doesn't have warp capability.
+[00:28:28.241 --> 00:28:28.481] PICARD: No.
+[00:28:29.761 --> 00:28:31.921] PICARD: So some external force was needed.
+[00:28:32.561 --> 00:28:34.961] RIKER: We've never encountered a natural force that powerful.
+[00:28:35.201 --> 00:28:36.001] RIKER: Why only six hours?
+[00:28:36.561 --> 00:28:37.121] RIKER: Why not a day?
+[00:28:37.361 --> 00:28:37.841] RIKER: Or a year?
+[00:28:37.991 --> 00:28:38.591] PICARD: Are
+[00:28:39.761 --> 00:28:43.681] PICARD: you saying there was some conscious mind at work here?
+[00:28:44.561 --> 00:28:45.601] RIKER: There's no evidence either way.
+[00:28:53.121 --> 00:28:56.561] PICARD: The Traveller moved through time using the power of his mind.
+[00:28:57.521 --> 00:28:58.641] RIKER: I don't think that's the case here.
+[00:29:00.321 --> 00:29:00.561] PICARD: No.
+[00:29:02.641 --> 00:29:08.641] PICARD: And Manheim's experiments with gravity and time were rudimentary, and uncontrollable.
+[00:29:10.001 --> 00:29:15.121] RIKER: Captain, I think this is one instance where you should suppress your natural tendencies.
+[00:29:17.041 --> 00:29:17.521] PICARD: Oh, really?
+[00:29:18.161 --> 00:29:26.881] RIKER: One of your strengths is your ability to evaluate the dynamics of a situation, and then take a definitive pre-emptive step,
+[00:29:26.881 --> 00:29:27.681] RIKER: take charge.
+[00:29:28.641 --> 00:29:34.081] RIKER: Now, you're frustrated because you not only can't see the solution, you can't even define the problem.
+[00:29:35.761 --> 00:29:36.081] PICARD: Go on.
+[00:29:37.281 --> 00:29:40.641] RIKER: What we're facing is neither a person nor a place.
+[00:29:40.721 --> 00:29:41.361] RIKER: At least not yet.
+[00:29:42.241 --> 00:29:42.801] RIKER: It's time.
+[00:29:43.601 --> 00:29:45.521] PICARD: You're saying I should just sit down, shut up and wait.
+[00:29:46.380 --> 00:29:47.900] RIKER: I wouldn't have put it exactly like that.
+[00:29:51.100 --> 00:29:52.300] PICARD: Not something I do easily.
+[00:29:53.260 --> 00:29:54.300] RIKER: Your Persian flaw.
+[00:29:56.060 --> 00:29:57.180] PICARD: Yes, perhaps it is.
+[00:29:59.660 --> 00:30:00.540] WORF: Captain to the Bridge.
+[00:30:06.380 --> 00:30:06.620] PICARD: Report.
+[00:30:07.740 --> 00:30:09.900] WORF: This energy vortex has just appeared beneath us.
+[00:30:14.300 --> 00:30:15.100] WORF: There was no warning.
+[00:30:16.220 --> 00:30:17.260] RIKER: Well, at least the waiting's over.
+[00:30:29.820 --> 00:30:31.020] LOG: Captain's log, supplemental.
+[00:30:31.900 --> 00:30:35.580] LOG: We have apparently intersected with something.
+[00:30:37.660 --> 00:30:40.300] DATA: It is similar to our tractor beam, sir, only much more powerful.
+[00:30:41.180 --> 00:30:42.780] LAFORGE: Bridge, this is Lieutenant La Forge.
+[00:30:43.500 --> 00:30:43.900] RIKER: Bridge.
+[00:30:44.700 --> 00:30:46.220] LAFORGE: The pull on the Enterprise is steady.
+[00:30:46.220 --> 00:30:49.660] LAFORGE: I'm having to hold the warp engines at thirty percent in order to maintain our present position.
+[00:30:50.620 --> 00:30:52.300] PICARD: Transfer Engine control to the Bridge.
+[00:30:52.540 --> 00:30:53.500] LAFORGE: On my way, Captain.
+[00:30:53.500 --> 00:30:58.860] TROI: Captain, there is a consciousness here. Not thought, more like instinct.
+[00:31:00.140 --> 00:31:00.700] PICARD: What do you think, Number One?
+[00:31:02.140 --> 00:31:03.180] RIKER: I think we're being probed.
+[00:31:04.140 --> 00:31:06.060] DATA: The beam is coming from the centre of the vortex.
+[00:31:06.460 --> 00:31:09.100] DATA: Sensors show it to be only a mass of energy.
+[00:31:09.250 --> 00:31:09.850] PICARD: What
+[00:31:12.700 --> 00:31:13.740] PICARD: is it trying to learn?
+[00:31:14.940 --> 00:31:17.180] TROI: I think it's trying to determine if we are a life force.
+[00:31:18.813 --> 00:31:19.773] PICARD: We'll stay and investigate.
+[00:31:20.173 --> 00:31:20.493] RIKER: Agreed.
+[00:31:23.613 --> 00:31:24.893] PICARD: Unless that was the mistake.
+[00:31:28.573 --> 00:31:29.213] PICARD: Staying too long.
+[00:31:30.893 --> 00:31:31.213] RIKER: Possibly.
+[00:31:34.333 --> 00:31:34.973] PICARD: We should go now.
+[00:31:35.693 --> 00:31:35.899] RIKER: Well
+[00:31:35.899 --> 00:31:37.133] PICARD: That would be the prudent move.
+[00:31:40.973 --> 00:31:42.413] PICARD: I never thought I'd hear myself saying something like
+[00:31:44.253 --> 00:31:44.333] PICARD: that.
+[00:31:44.333 --> 00:31:45.773] RIKER: Under the circumstances, sir, I think you're right.
+[00:31:47.613 --> 00:31:49.453] PICARD: But you would rather stay and find out what it is?
+[00:31:50.333 --> 00:31:51.133] PICARD: What is its intent?
+[00:31:55.213 --> 00:31:56.493] LAFORGE: Engineering, transfer to Bridge.
+[00:31:56.893 --> 00:31:57.373] PICARD: Mister La Forge.
+[00:31:57.933 --> 00:31:58.173] LAFORGE: Sir.
+[00:31:58.893 --> 00:31:59.773] PICARD: Try and take us out of here.
+[00:31:59.773 --> 00:32:00.573] PICARD: Maximum warp.
+[00:32:00.573 --> 00:32:00.973] LAFORGE: Aye, sir.
+[00:32:02.973 --> 00:32:04.573] LAFORGE: I've set the velocity at warp nine.
+[00:32:06.093 --> 00:32:06.093] PICARD: Engage.
+[00:32:06.253 --> 00:32:06.493] LAFORGE: Warp
+[00:32:14.413 --> 00:32:17.373] LAFORGE: engines are at ninety one percent.
+[00:32:18.413 --> 00:32:19.613] PICARD: Put it to the wall, Mister La Forge.
+[00:32:19.613 --> 00:32:20.013] LAFORGE: Aye, sir.
+[00:32:20.013 --> 00:32:20.013] LAFORGE: I
+[00:32:34.653 --> 00:32:35.293] LAFORGE: can't hold it.
+[00:32:37.693 --> 00:32:37.933] RIKER: Captain,
+[00:32:37.933 --> 00:32:38.493] RIKER: the engines can't handle the strain.
+[00:32:39.293 --> 00:32:39.613] PICARD: All stop.
+[00:32:39.613 --> 00:32:39.613] PICARD: Mister
+[00:32:42.893 --> 00:32:44.893] PICARD: La
+[00:32:48.173 --> 00:32:50.173] PICARD: Forge.
+[00:32:50.601 --> 00:32:52.201] LAFORGE: I'm re-engaging warp engines, Captain.
+[00:32:58.521 --> 00:32:58.521] PICARD: Status?
+[00:33:00.121 --> 00:33:01.161] WORF: All decks have reported.
+[00:33:01.561 --> 00:33:02.841] WORF: No damage. No injuries.
+[00:33:05.081 --> 00:33:07.001] LAFORGE: Captain, the hold on the Enterprise is still very strong.
+[00:33:07.001 --> 00:33:09.481] LAFORGE: I'm having to hold at warp seven just to maintain our position.
+[00:33:10.201 --> 00:33:11.801] PICARD: Everything we do tightens its grip.
+[00:33:11.951 --> 00:33:12.551] PICARD: Let's
+[00:33:13.961 --> 00:33:14.761] PICARD: see what we can learn.
+[00:33:14.921 --> 00:33:16.281] PICARD: Launch a Class one probe.
+[00:33:16.761 --> 00:33:17.081] WORF: Aye, sir.
+[00:33:25.961 --> 00:33:29.561] PICARD: Mister Worf
+[00:33:33.241 --> 00:33:33.321] PICARD: That
+[00:33:36.201 --> 00:33:36.761] PICARD: was personal.
+[00:33:37.561 --> 00:33:40.121] LAFORGE: Captain, the power drain needed to hold this position is enormous.
+[00:33:40.921 --> 00:33:41.881] PICARD: How long can you maintain it?
+[00:33:43.001 --> 00:33:45.161] LAFORGE: Just a few minutes and then we're going to have to shut down again.
+[00:33:45.801 --> 00:33:48.921] PULASKI: Captain some kind of energy Just surrounded my patient.
+[00:33:49.721 --> 00:33:50.121] PICARD: Is he still alive?
+[00:33:50.601 --> 00:33:50.761] PULASKI: Yes
+[00:33:51.801 --> 00:33:53.001] RIKER: Arm the photons, Mister Worf.
+[00:33:53.321 --> 00:33:54.361] RIKER: Lock on the centre of the vortex.
+[00:33:55.241 --> 00:33:56.601] WORF: Photon torpedoes locked on target.
+[00:33:57.161 --> 00:33:57.881] PICARD: Hold for my order.
+[00:34:07.161 --> 00:34:08.521] RIKER: Like a rag in a dog's mouth.
+[00:34:09.481 --> 00:34:11.001] LAFORGE: I am now at maximum warp.
+[00:34:12.041 --> 00:34:12.761] TROI: It's you, Captain.
+[00:34:13.721 --> 00:34:17.961] TROI: It was the entire ship, but now it has focused its attention entirely on you.
+[00:34:19.374 --> 00:34:21.214] LAFORGE: Captain, I can't hold it any longer.
+[00:34:21.294 --> 00:34:22.654] LAFORGE: If we don't shut down right now,
+[00:34:22.814 --> 00:34:23.454] LAFORGE: we are going
+[00:34:23.454 --> 00:34:24.094] PICARD: Hold this position.
+[00:34:25.614 --> 00:34:30.894] PICARD: Counsellor, if I were to leave the Enterprise, would its attention still be focused on
+[00:34:32.894 --> 00:34:32.974] PICARD: me?
+[00:34:32.974 --> 00:34:33.774] TROI: Yes. I think it would.
+[00:34:34.574 --> 00:34:35.534] RIKER: You'd never survive.
+[00:34:35.534 --> 00:34:35.774] PICARD: But in
+[00:34:38.254 --> 00:34:41.054] PICARD: those few seconds, the Enterprise might break free.
+[00:34:41.774 --> 00:34:42.334] PICARD: That's what he,
+[00:34:44.654 --> 00:34:46.094] PICARD: that's what the other Picard must have
+[00:34:47.774 --> 00:34:49.774] PICARD: thought.
+[00:34:50.014 --> 00:34:50.734] RIKER: Captain, where are you going?
+[00:34:50.974 --> 00:34:51.854] PICARD: You have the Bridge, Number One.
+[00:34:51.854 --> 00:34:52.414] RIKER: You're leaving the ship?
+[00:34:56.574 --> 00:34:58.414] PICARD: We may be on a road that has no turns.
+[00:35:14.254 --> 00:35:15.294] PULASKI: He's very agitated.
+[00:35:15.694 --> 00:35:15.774] P2: I
+[00:35:26.334 --> 00:35:27.054] P2: must get to the shuttle.
+[00:35:29.854 --> 00:35:30.174] PICARD: I know.
+[00:35:32.094 --> 00:35:32.654] PICARD: Do you know where you are?
+[00:35:36.414 --> 00:35:37.134] P2: The Enterprise.
+[00:35:40.174 --> 00:35:41.854] PICARD: Yes, but you're only vaguely aware of it.
+[00:35:42.654 --> 00:35:44.254] PICARD: And me? Do you know who I am?
+[00:35:49.587 --> 00:35:50.307] PICARD: No, you don't, do you.
+[00:35:53.587 --> 00:35:54.067] P2: I must go.
+[00:35:56.227 --> 00:35:56.627] PICARD: Release him.
+[00:35:57.587 --> 00:35:58.307] PULASKI: Do you know what you are doing?
+[00:35:59.187 --> 00:36:00.067] PICARD: No. Release him.
+[00:36:02.387 --> 00:36:03.507] PULASKI: Security to Sickbay.
+[00:36:03.747 --> 00:36:07.907] PICARD: No. Security, disregard that order, and clear all personnel,
+[00:36:08.147 --> 00:36:10.867] PICARD: repeat, all personnel, from Shuttlebay two.
+[00:36:25.827 --> 00:36:27.187] PICARD: I don't want any distractions.
+[00:36:28.707 --> 00:36:29.587] PICARD: You, stay here.
+[00:36:34.947 --> 00:36:36.067] PICARD: You made a decision to leave the ship?
+[00:36:36.467 --> 00:36:36.867] P2: I must.
+[00:36:36.947 --> 00:36:37.347] PICARD: Why?
+[00:36:37.587 --> 00:36:38.947] P2: The energy in the vortex wants me.
+[00:36:39.187 --> 00:36:39.747] PICARD: You're certain.
+[00:36:40.147 --> 00:36:40.467] P2: Yes.
+[00:36:41.267 --> 00:36:47.267] P2: It's an entity, a life form, which recognises the Enterprise as an entity with me as its brain. And it wants me.
+[00:36:52.307 --> 00:36:52.867] P2: Shuttlebay two.
+[00:36:54.467 --> 00:36:55.267] PICARD: What's your other option?
+[00:36:57.827 --> 00:36:58.787] P2: This is our only chance.
+[00:37:00.387 --> 00:37:01.107] P2: If I leave, it
+[00:37:03.187 --> 00:37:05.427] P2: may be distracted long enough for the Enterprise to escape.
+[00:37:06.467 --> 00:37:06.947] PICARD: You're wrong.
+[00:37:07.667 --> 00:37:09.267] PICARD: If you leave, the Enterprise will be destroyed.
+[00:37:09.267 --> 00:37:09.907] PICARD: Don't you remember?
+[00:37:10.547 --> 00:37:11.267] PICARD: You saw it happen.
+[00:37:13.827 --> 00:37:17.427] P2: If I don't leave the ship, then the Enterprise will be destroyed.
+[00:37:21.926 --> 00:37:23.126] PICARD: If that's true, then help me.
+[00:37:23.446 --> 00:37:24.326] PICARD: We want the same thing.
+[00:37:24.326 --> 00:37:25.766] PICARD: We both want the Enterprise to be safe.
+[00:37:25.926 --> 00:37:27.766] PICARD: But there is a piece of information I don't have.
+[00:37:27.766 --> 00:37:28.246] PICARD: What is it?
+[00:37:28.326 --> 00:37:28.806] P2: It's me.
+[00:37:28.966 --> 00:37:29.846] PICARD: You?
+[00:37:29.846 --> 00:37:30.726] RIKER: Captain.
+[00:37:31.126 --> 00:37:31.366] PICARD: Yes.
+[00:37:31.606 --> 00:37:32.726] RIKER: We are about to lose warp drive.
+[00:37:33.126 --> 00:37:33.446] PICARD: Understood.
+[00:37:33.446 --> 00:37:33.926] P2: Understood.
+[00:37:35.606 --> 00:37:41.286] PICARD: When you say it wants you, do you mean it's still you, only you, and not me.
+[00:37:42.646 --> 00:37:43.286] P2: You're confusing me.
+[00:37:44.406 --> 00:37:45.286] P2: We're almost out of time.
+[00:37:46.406 --> 00:37:47.446] P2: I must get to the shuttle.
+[00:37:48.086 --> 00:37:48.486] PICARD: Wait.
+[00:37:49.286 --> 00:37:49.686] PICARD: You can.
+[00:37:50.406 --> 00:37:50.966] PICARD: I'll let you.
+[00:37:51.686 --> 00:37:54.646] PICARD: But first, tell me. What is, what was your other choice?
+[00:37:57.926 --> 00:37:58.086] P2: Stand
+[00:38:00.086 --> 00:38:00.486] P2: aside.
+[00:38:01.526 --> 00:38:03.366] PICARD: You must tell me. What was it?
+[00:38:06.726 --> 00:38:08.646] PICARD: You don't
+[00:38:13.926 --> 00:38:16.886] PICARD: know what I'm talking about.
+[00:38:18.326 --> 00:38:24.406] PICARD: You're locked into a single intent unable to change. Unable to alter any part of your previous actions.
+[00:38:25.126 --> 00:38:25.766] P2: I have to leave.
+[00:38:25.766 --> 00:38:26.406] P2: There's no other way.
+[00:38:27.526 --> 00:38:28.726] PICARD: There must be.
+[00:38:28.726 --> 00:38:29.126] P2: One.
+[00:38:30.646 --> 00:38:31.366] P2: But it would never work.
+[00:38:32.166 --> 00:38:32.646] PICARD: What is it?
+[00:38:32.886 --> 00:38:33.846] PICARD: What would never work?
+[00:38:35.686 --> 00:38:36.166] P2: I have to leave.
+[00:38:39.846 --> 00:38:40.726] PICARD: What was the other choice?
+[00:38:41.046 --> 00:38:41.606] PICARD: We can't fight,
+[00:38:41.926 --> 00:38:42.486] PICARD: we can't escape,
+[00:38:43.046 --> 00:38:43.766] PICARD: we can't go forward.
+[00:38:44.326 --> 00:38:44.486] P2: No.
+[00:38:44.566 --> 00:38:44.806] P2: No,
+[00:38:45.562 --> 00:38:46.202] P2: we can't go forward.
+[00:38:47.002 --> 00:38:48.202] P2: That would destroy the Enterprise.
+[00:38:49.402 --> 00:38:49.722] PICARD: Was that it?
+[00:38:49.722 --> 00:38:51.402] PICARD: Is that the other choice?
+[00:38:52.442 --> 00:38:53.082] P2: I must leave.
+[00:38:54.362 --> 00:38:54.522] PICARD: No.
+[00:38:56.522 --> 00:38:57.002] PICARD: Captain Picard.
+[00:38:59.642 --> 00:39:00.522] PICARD: I can not allow you to leave.
+[00:39:02.042 --> 00:39:03.082] PICARD: Before we can go forward,
+[00:39:05.242 --> 00:39:05.882] PICARD: the cycle must end.
+[00:39:25.162 --> 00:39:27.562] PICARD: Doctor Pulaski, report to Shuttlebay two.
+[00:39:32.442 --> 00:39:32.762] PICARD: Bridge.
+[00:40:09.002 --> 00:40:09.322] PICARD: Number One,
+[00:40:10.042 --> 00:40:11.562] PICARD: we're wasting our energy trying to escape.
+[00:40:11.562 --> 00:40:12.362] PICARD: It only weakens us.
+[00:40:12.355 --> 00:40:14.275] PICARD: Helm, set a course for the center of the vortex.
+[00:40:14.515 --> 00:40:17.635] PICARD: Mister La Forge, on my command, I want all the power you can muster.
+[00:40:17.795 --> 00:40:18.275] LAFORGE: Yes, sir.
+[00:40:18.675 --> 00:40:19.235] RIKER: We're going in?
+[00:40:19.795 --> 00:40:20.035] PICARD: Yes.
+[00:40:20.355 --> 00:40:20.995] DATA: Course set, sir.
+[00:40:22.755 --> 00:40:23.875] PICARD: Now everyone hold their position.
+[00:40:25.475 --> 00:40:26.115] PICARD: No matter what.
+[00:40:27.555 --> 00:40:29.555] PICARD: Engage.
+[00:40:29.555 --> 00:40:29.635] PICARD: ibi
+[00:40:29.635 --> 00:40:29.715] O'BRIEN: Captain
+[00:41:06.755 --> 00:41:09.555] O'BRIEN: Picard. This is Shuttlebay two.
+[00:41:10.435 --> 00:41:12.275] O'BRIEN: The other Picard and the shuttle are gone.
+[00:41:12.515 --> 00:41:12.995] PICARD: Explain.
+[00:41:14.115 --> 00:41:15.475] O'BRIEN: They just vanished.
+[00:41:19.235 --> 00:41:19.795] PICARD: What's our position?
+[00:41:21.475 --> 00:41:22.755] DATA: We are back on course to Endicor.
+[00:41:22.755 --> 00:41:24.995] RIKER: Stand down from Red Alert.
+[00:41:27.795 --> 00:41:28.995] WORF: All decks have reported in.
+[00:41:30.115 --> 00:41:30.675] WORF: No damage,
+[00:41:30.835 --> 00:41:31.555] WORF: no casualties.
+[00:41:31.555 --> 00:41:31.555] PICARD: You
+[00:41:35.555 --> 00:41:36.515] PICARD: have the Bridge, Number One.
+[00:41:44.501 --> 00:41:44.501] PICARD: A
+[00:42:01.861 --> 00:42:03.301] PICARD: lot of questions, Number One.
+[00:42:04.501 --> 00:42:05.461] PICARD: Damn few answers.
+[00:42:07.301 --> 00:42:08.181] RIKER: Maybe none of it was real.
+[00:42:09.541 --> 00:42:11.541] RIKER: Perhaps we were all part of a shared illusion.
+[00:42:13.301 --> 00:42:19.861] PICARD: Or maybe he was thrown back in time, so that we would be able to take another road. Make
+[00:42:21.861 --> 00:42:23.141] PICARD: a different choice.
+[00:42:26.101 --> 00:42:32.261] PICARD: Well, they say if you travel far enough you will eventually meet yourself. Having experienced that, Number One, it's
+[00:42:33.381 --> 00:42:34.901] PICARD: not something I would care to repeat.
+[00:42:37.381 --> 00:42:38.181] RIKER: I'll be on the Bridge, sir.

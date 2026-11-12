@@ -1,0 +1,634 @@
+[00:00:11.440 --> 00:00:13.120] DATA: Commander, away team reporting in.
+[00:00:13.120 --> 00:00:14.240] DATA: Lieutenant Worf standing by.
+[00:00:15.360 --> 00:00:15.840] RIKER: This is Riker.
+[00:00:15.840 --> 00:00:16.560] RIKER: Go ahead, Lieutenant.
+[00:00:16.640 --> 00:00:20.800] WORF: The archeologists have identified the markings in these caverns.
+[00:00:21.360 --> 00:00:25.040] WORF: This planet was apparently once home to a race known as the Koinonians.
+[00:00:26.000 --> 00:00:26.880] PICARD: What do we know about them, Data?
+[00:00:28.000 --> 00:00:33.040] DATA: The Koinonians were an intelligent culture which became embroiled in a war that lasted for several generations.
+[00:00:33.440 --> 00:00:36.000] DATA: Our best evidence indicates they destroyed themselves.
+[00:00:36.160 --> 00:00:40.160] WORF: We have completed our survey of the third tunnel and will proceed into the ceremonial chamber.
+[00:00:40.640 --> 00:00:41.120] RIKER: Affirmative.
+[00:00:41.440 --> 00:00:42.160] RIKER: Enterprise out.
+[00:00:43.360 --> 00:00:44.880] PICARD: Destroyed themselves, Data?
+[00:00:45.680 --> 00:00:49.760] DATA: According to historical records. This will be the first opportunity for a Federation team
+[00:00:49.760 --> 00:00:52.160] TROI: Captain! Beam them up quickly!
+[00:00:52.640 --> 00:00:54.160] WORF: Captain. Emergency beam up!
+[00:00:54.400 --> 00:00:56.240] WORF: Enterprise, emergency! Severe injuries.
+[00:00:56.960 --> 00:00:57.440] PICARD: Transporter Room!
+[00:00:57.680 --> 00:00:58.400] O'BRIEN: I've got them, Captain.
+[00:00:58.880 --> 00:00:59.840] PICARD: Beam them straight to Sickbay.
+[00:01:00.000 --> 00:01:01.360] PICARD: Doctor Crusher, incoming wounded.
+[00:01:12.880 --> 00:01:14.240] CRUSHER: Away Team is aboard, Captain.
+[00:01:17.520 --> 00:01:17.520] CRUSHER: One
+[00:01:20.160 --> 00:01:20.800] CRUSHER: dead on arrival.
+[00:01:48.775 --> 00:01:51.335] PICARD: Space, the final frontier.
+[00:01:53.175 --> 00:01:56.055] PICARD: These are the voyages of the starship Enterprise.
+[00:01:57.175 --> 00:02:00.615] PICARD: Its continuing mission to explore strange new worlds,
+[00:02:02.375 --> 00:02:05.175] PICARD: to seek out new life and new civilizations,
+[00:02:06.855 --> 00:02:09.735] PICARD: to boldly go where no one has gone before.
+[00:02:39.000 --> 00:02:50.000] [music]
+[00:03:07.389 --> 00:03:10.669] LOG: Captain's Log, stardate 43198.7.
+[00:03:11.149 --> 00:03:16.189] LOG: The Enterprise remains in standard orbit while we investigate the tragedy which has struck the away team.
+[00:03:16.989 --> 00:03:22.109] LOG: Lieutenant Marla Aster, ship's archaeologist, has been killed in what should have been a routine mission.
+[00:03:22.989 --> 00:03:27.149] LOG: Whatever the explanation, it will not bring back a valued and trusted officer.
+[00:03:30.989 --> 00:03:31.389] PICARD: Lieutenant?
+[00:03:34.749 --> 00:03:36.989] WORF: We had completed our investigation of the third tunnel.
+[00:03:37.789 --> 00:03:41.069] WORF: Our scans had indicated no weapons or traps of any kind.
+[00:03:42.269 --> 00:03:44.589] WORF: Lieutenant Aster was three metres behind me.
+[00:03:44.589 --> 00:03:44.589] WORF: An
+[00:03:46.269 --> 00:03:47.629] WORF: explosive device went off.
+[00:03:50.829 --> 00:03:51.789] WORF: There was no warning.
+[00:03:53.709 --> 00:03:56.509] WORF: Lieutenant Aster bore the full brunt of the detonation.
+[00:04:05.149 --> 00:04:10.909] TROI: Lieutenant Aster is survived by a son, Jeremy. Twelve years old.
+[00:04:12.109 --> 00:04:13.709] TROI: He's aboard the Enterprise, sir.
+[00:04:14.829 --> 00:04:15.309] PICARD: And his father?
+[00:04:16.315 --> 00:04:17.435] TROI: He's also deceased.
+[00:04:18.395 --> 00:04:21.915] TROI: His only living relatives are an aunt and uncle residing on Earth.
+[00:04:28.635 --> 00:04:29.115] PICARD: Where is he now?
+[00:04:29.915 --> 00:04:30.475] TROI: In class.
+[00:04:31.115 --> 00:04:32.955] TROI: I've alerted the teacher to expect us.
+[00:04:36.955 --> 00:04:37.355] WORF: Captain.
+[00:04:39.515 --> 00:04:40.475] WORF: I must accompany you.
+[00:04:41.115 --> 00:04:42.555] WORF: I commanded the away team.
+[00:04:43.195 --> 00:04:44.475] PICARD: I appreciate your offer, Lieutenant, but
+[00:04:45.035 --> 00:04:46.155] PICARD: this is my responsibility.
+[00:04:52.715 --> 00:04:55.115] PICARD: Picard to Bridge.
+[00:04:55.435 --> 00:04:55.915] RIKER: Yes, Captain.
+[00:04:56.235 --> 00:04:58.955] PICARD: Assign Commander La Forge to lead another away team to the dig site.
+[00:04:58.955 --> 00:05:00.155] PICARD: I want to know why this happened.
+[00:05:00.315 --> 00:05:00.795] RIKER: Yes, Captain.
+[00:05:01.275 --> 00:05:03.435] PICARD: I will be with Counsellor Troi And young Jeremy Aster.
+[00:05:03.435 --> 00:05:03.515] RIKER: I
+[00:05:05.675 --> 00:05:06.155] RIKER: understand.
+[00:05:06.875 --> 00:05:07.355] RIKER: Riker out.
+[00:05:19.115 --> 00:05:20.315] WESLEY: He had to do the same thing for me.
+[00:05:22.475 --> 00:05:23.195] RIKER: Do you know Jeremy well?
+[00:05:25.195 --> 00:05:27.995] WESLEY: But I know this is going to be like for him.
+[00:05:27.995 --> 00:05:29.675] RIKER: That's part of life in Starfleet, Wesley.
+[00:05:30.795 --> 00:05:35.115] WESLEY: I know. They're very careful to prepare us for anything, but still
+[00:05:35.115 --> 00:05:35.835] RIKER: I know.
+[00:05:39.995 --> 00:05:40.875] WESLEY: How do you get used to it?
+[00:05:41.755 --> 00:05:42.315] WESLEY: Telling them?
+[00:05:44.798 --> 00:05:45.598] RIKER: You hope you never do.
+[00:06:19.918 --> 00:06:22.718] TROI: I sense the weight of this duty on you, Captain.
+[00:06:27.118 --> 00:06:27.998] PICARD: I really wonder.
+[00:06:31.678 --> 00:06:31.998] PICARD: Halt.
+[00:06:37.678 --> 00:06:42.958] PICARD: I've always believed that carrying children on a starship
+[00:06:45.038 --> 00:06:47.118] PICARD: is a very questionable policy.
+[00:06:50.398 --> 00:06:56.158] PICARD: Serving on a starship means accepting certain risks, certain dangers.
+[00:06:56.308 --> 00:06:56.908] PICARD: Did
+[00:06:59.518 --> 00:07:01.358] PICARD: Jeremy Aster make that choice?
+[00:07:03.198 --> 00:07:06.638] TROI: Death and loss are an integral part of life everywhere.
+[00:07:07.518 --> 00:07:09.518] TROI: Leaving him on Earth would not have protected him.
+[00:07:10.318 --> 00:07:14.478] PICARD: No, but Earth isn't likely to be ordered to the Neutral Zone, or to repel a Romulan attack,
+[00:07:15.580 --> 00:07:18.380] PICARD: It was my command which sent his mother to her death.
+[00:07:18.380 --> 00:07:20.380] PICARD: She understood her mission and my duty.
+[00:07:23.900 --> 00:07:24.380] PICARD: Will he?
+[00:07:25.500 --> 00:07:28.060] TROI: In time, and with help.
+[00:07:30.700 --> 00:07:31.900] TROI: Wesley Crusher does.
+[00:07:34.860 --> 00:07:35.340] TROI: He does.
+[00:07:37.100 --> 00:07:38.220] TROI: And so will Jeremy.
+[00:07:44.700 --> 00:07:45.100] PICARD: Resume.
+[00:07:56.300 --> 00:07:58.940] PICARD: Jeremy, I have some bad news.
+[00:07:59.900 --> 00:08:00.860] PICARD: There has been an accident.
+[00:08:04.060 --> 00:08:06.380] PICARD: Your mother has died.
+[00:08:15.260 --> 00:08:15.820] JEREMY: How, sir?
+[00:08:17.100 --> 00:08:19.260] PICARD: An explosive device at the mission site.
+[00:08:20.700 --> 00:08:21.580] PICARD: She died instantly.
+[00:08:23.260 --> 00:08:23.980] JEREMY: I understand.
+[00:08:25.900 --> 00:08:29.900] TROI: Jeremy, I know your mother loved you very much.
+[00:08:34.060 --> 00:08:37.500] PICARD: I'm told that your father is also dead.
+[00:08:38.380 --> 00:08:38.780] JEREMY: Yes, sir.
+[00:08:40.460 --> 00:08:43.500] JEREMY: He died five years ago from a Rushton infection.
+[00:08:48.509 --> 00:08:49.549] JEREMY: I'm all alone now, sir.
+[00:08:53.149 --> 00:08:57.629] PICARD: Jeremy, on the starship Enterprise, no one is alone.
+[00:09:01.229 --> 00:09:01.629] PICARD: No one.
+[00:09:18.189 --> 00:09:18.829] DATA: Excuse me, sir.
+[00:09:19.549 --> 00:09:20.269] DATA: Am I intruding?
+[00:09:21.949 --> 00:09:22.189] RIKER: No,
+[00:09:22.509 --> 00:09:22.909] RIKER: sit down.
+[00:09:28.669 --> 00:09:30.589] DATA: How well did you know Lieutenant Aster?
+[00:09:32.829 --> 00:09:33.869] RIKER: We spent some time together.
+[00:09:36.589 --> 00:09:37.149] RIKER: Not very well.
+[00:09:40.909 --> 00:09:41.709] RIKER: How well did you know her?
+[00:09:42.349 --> 00:09:42.989] DATA: Why do you ask?
+[00:09:43.389 --> 00:09:44.349] RIKER: Well, you just asked me.
+[00:09:44.989 --> 00:09:47.389] DATA: But why do you ask the question?
+[00:09:48.509 --> 00:09:58.029] DATA: Since her death, I have been asked several times to define how well I knew Lieutenant Aster. And I heard you ask Wesley on the Bridge how well he knew Jeremy.
+[00:09:59.229 --> 00:10:03.149] DATA: Does the question of familiarity have some bearing on death?
+[00:10:06.589 --> 00:10:08.509] RIKER: Do you remember how we all felt when Tasha died?
+[00:10:11.869 --> 00:10:13.149] DATA: I do not sense the same
+[00:10:13.878 --> 00:10:19.478] DATA: feelings of absence that I associate with Lieutenant Yar, although I cannot say precisely why.
+[00:10:20.598 --> 00:10:21.638] RIKER: Just human nature, Data.
+[00:10:22.438 --> 00:10:23.238] DATA: Human nature, sir?
+[00:10:23.878 --> 00:10:26.278] RIKER: We feel a loss more intensely when it's a friend.
+[00:10:28.998 --> 00:10:33.638] DATA: But should not the feelings run as deep regardless of who has died?
+[00:10:36.678 --> 00:10:37.478] RIKER: Maybe they should, Data.
+[00:10:38.038 --> 00:10:42.678] RIKER: Maybe if we felt the loss of any life as keenly as we felt the death of those close to us,
+[00:10:44.278 --> 00:10:46.038] RIKER: human history would be a lot less bloody.
+[00:10:46.678 --> 00:10:48.038] LAFORGE: La Forge to Riker
+[00:10:48.998 --> 00:10:49.638] RIKER: You're back, Geordi
+[00:10:50.038 --> 00:10:50.518] LAFORGE: Yes, sir,
+[00:10:50.518 --> 00:10:52.278] LAFORGE: and we've brought back a souvenir.
+[00:10:55.398 --> 00:10:58.918] LAFORGE: There are five more just like them. All identical to the one that killed Lieutenant Aster.
+[00:10:59.798 --> 00:11:04.118] DATA: They employ a subspace proximity detonator. A normal tricorder would never detect it.
+[00:11:04.598 --> 00:11:06.758] PICARD: How long would you say they've been there, Data?
+[00:11:07.478 --> 00:11:09.638] DATA: It comes from the time of the Koinonian Wars, sir.
+[00:11:10.598 --> 00:11:11.558] RIKER: Did you find them all, Geordi?
+[00:11:11.958 --> 00:11:13.078] LAFORGE: Yeah, but,
+[00:11:14.918 --> 00:11:17.158] LAFORGE: well, it seemed like they were left there to be found.
+[00:11:18.278 --> 00:11:19.158] PICARD: Left by whom?
+[00:11:19.718 --> 00:11:21.398] PICARD: There are no indications of life on this planet.
+[00:11:21.878 --> 00:11:22.598] LAFORGE: I don't know, Captain,
+[00:11:22.838 --> 00:11:26.358] LAFORGE: but it was pretty obvious that they'd been recently pulled out of the ground and defused.
+[00:11:30.838 --> 00:11:32.438] WORF: I have made my report to the Captain.
+[00:11:34.118 --> 00:11:36.838] TROI: I'm more interested in how you feel about what happened.
+[00:11:39.478 --> 00:11:40.918] TROI: I sense great anger.
+[00:11:43.478 --> 00:11:47.638] WORF: I cannot seek revenge against an enemy who's turned to dust centuries ago.
+[00:11:49.988 --> 00:11:51.108] WORF: Her death was senseless.
+[00:11:52.308 --> 00:11:54.228] WORF: The last victim of a forgotten war.
+[00:11:58.548 --> 00:11:58.948] TROI: Go on.
+[00:12:01.748 --> 00:12:02.708] WORF: There's nothing more to be said.
+[00:12:07.588 --> 00:12:09.348] TROI: A person died under your command.
+[00:12:10.708 --> 00:12:16.148] TROI: It may happen again. If you can't learn to release the anger and the guilt, to talk about it
+[00:12:16.308 --> 00:12:20.228] WORF: A leader must stand alone. As Captain Picard does.
+[00:12:20.628 --> 00:12:22.228] TROI: Captain Picard talks to me.
+[00:12:31.188 --> 00:12:36.548] WORF: Then may I seek your counsel about my plan to make the R'uustai with the boy.
+[00:12:36.548 --> 00:12:36.548] TROI: The
+[00:12:38.148 --> 00:12:38.628] TROI: Bonding.
+[00:12:39.828 --> 00:12:40.548] WORF: It is my right.
+[00:12:42.308 --> 00:12:47.108] TROI: It's very generous, Worf, but he's not a Klingon child.
+[00:12:47.108 --> 00:12:48.708] TROI: He has different sensibilities.
+[00:12:49.348 --> 00:12:50.148] WORF: He is an orphan.
+[00:12:50.468 --> 00:12:51.348] WORF: I am an orphan.
+[00:12:52.708 --> 00:12:53.588] WORF: He will understand.
+[00:12:54.868 --> 00:12:57.828] TROI: Right now, there isn't much he can understand.
+[00:12:58.948 --> 00:13:01.028] TROI: He's holding all his feelings inside.
+[00:13:03.428 --> 00:13:08.468] TROI: Children often feel they must be true to the memory of a lost parent.
+[00:13:09.188 --> 00:13:16.388] TROI: If you offer affection to them too soon they can feel guilty returning that affection. As if they're betraying the love of the parent.
+[00:13:18.228 --> 00:13:20.068] WORF: I only wish to honour his mother.
+[00:13:20.480 --> 00:13:24.640] TROI: I know. And I understand this means a great deal to you.
+[00:13:26.640 --> 00:13:28.080] TROI: But you must be prepared.
+[00:13:29.840 --> 00:13:33.760] TROI: He's very angry too, but his anger is deep inside him.
+[00:13:34.480 --> 00:13:38.720] TROI: When he touches it, it will strike out in many directions, including yours.
+[00:13:40.240 --> 00:13:40.880] TROI: Be with him.
+[00:13:42.480 --> 00:13:44.960] TROI: Talk to him. But don't rush this.
+[00:13:46.720 --> 00:13:47.600] TROI: When he's ready, we'll
+[00:13:49.280 --> 00:13:51.280] TROI: know.
+[00:13:58.560 --> 00:13:59.040] JEREMY: Captain Patches, an alien
+[00:14:01.680 --> 00:14:02.320] JEREMY: ship on the surface. What's it made of, Captain.
+[00:14:03.120 --> 00:14:04.160] JEREMY: Oh, no, we've been hit, Captain.
+[00:14:04.320 --> 00:14:04.880] JEREMY: We're going down.
+[00:14:06.880 --> 00:14:07.520] DAD: That was great.
+[00:14:07.520 --> 00:14:09.200] DAD: Now, let's get a shot of mom.
+[00:14:09.520 --> 00:14:12.080] MARLA: What are you doing?
+[00:14:12.080 --> 00:14:13.520] MARLA: I'll turn your lens into shards.
+[00:14:13.520 --> 00:14:14.800] MARLA: Go away!
+[00:14:14.800 --> 00:14:14.800] MARLA: Go away!
+[00:14:14.950 --> 00:14:15.550] MARLA: Go
+[00:14:16.400 --> 00:14:16.400] MARLA: away!
+[00:14:16.400 --> 00:14:16.800] MARLA: Over there.
+[00:14:17.440 --> 00:14:18.160] MARLA: Over there.
+[00:14:19.360 --> 00:14:19.360] JEREMY: Patches.
+[00:14:20.960 --> 00:14:21.680] JEREMY: Captain Patches is
+[00:14:24.320 --> 00:14:24.640] JEREMY: coming in
+[00:14:24.640 --> 00:14:25.680] JEREMY: for a landing on the sofa!
+[00:14:26.320 --> 00:14:27.040] JEREMY: Oh, no,
+[00:14:27.280 --> 00:14:27.760] JEREMY: he's going to crash.
+[00:14:30.400 --> 00:14:30.400] WORF: Jeremy
+[00:14:40.640 --> 00:14:41.040] WORF: Aster?
+[00:14:42.880 --> 00:14:43.840] WORF: I'm Lieutenant Worf.
+[00:14:44.080 --> 00:14:44.640] WORF: May I enter?
+[00:14:45.240 --> 00:14:48.480] JEREMY: You were in command of the away team.
+[00:14:48.560 --> 00:14:52.320] WORF: Yes. I was with Lieutenant Aster,
+[00:14:53.651 --> 00:14:55.411] WORF: your mother, when she died.
+[00:14:58.611 --> 00:14:59.651] JEREMY: You're a Klingon, aren't you.
+[00:15:01.571 --> 00:15:02.051] WORF: Yes.
+[00:15:04.931 --> 00:15:06.531] JEREMY: We studied about Klingons in school.
+[00:15:09.251 --> 00:15:10.531] WORF: What did they teach you about us?
+[00:15:12.771 --> 00:15:13.891] JEREMY: You used to be our enemies.
+[00:15:14.611 --> 00:15:19.411] WORF: Did they also teach you that every Klingon hopes to die in the line of duty as your mother did?
+[00:15:24.611 --> 00:15:29.171] WORF: In my tradition, we do not grieve the loss of the body.
+[00:15:30.611 --> 00:15:33.651] WORF: We celebrate the releasing of the spirit.
+[00:15:34.611 --> 00:15:35.411] JEREMY: I understand death.
+[00:15:35.731 --> 00:15:36.771] JEREMY: They teach us all about it.
+[00:15:38.371 --> 00:15:39.331] WORF: Jeremy Aster,
+[00:15:41.011 --> 00:15:45.811] WORF: we may both understand it, but we must bring meaning to your mother's death.
+[00:15:51.091 --> 00:15:53.091] WORF: Perhaps we can do it together.
+[00:16:01.811 --> 00:16:02.131] PICARD: Come.
+[00:16:05.171 --> 00:16:05.491] PICARD: Counsellor,
+[00:16:06.451 --> 00:16:06.851] PICARD: how's the boy?
+[00:16:07.491 --> 00:16:08.691] TROI: He's being very brave.
+[00:16:09.011 --> 00:16:09.251] PICARD: Good.
+[00:16:10.451 --> 00:16:13.171] TROI: No, he has to get past brave.
+[00:16:13.811 --> 00:16:19.171] TROI: He's very angry and he has to learn how to express that anger before he can really say goodbye to his mother.
+[00:16:22.066 --> 00:16:22.626] PICARD: How can we help?
+[00:16:23.906 --> 00:16:29.026] TROI: Well, I've asked Beverly if we might get Wesley to talk to Jeremy about his father's death.
+[00:16:31.346 --> 00:16:33.746] TROI: The one unusual element is Worf.
+[00:16:34.386 --> 00:16:34.466] PICARD: Oh?
+[00:16:35.666 --> 00:16:38.226] TROI: In many ways he's suffering as badly as the boy.
+[00:16:38.546 --> 00:16:44.226] TROI: He wishes to involve Jeremy in a Klingon ceremony called R'uustai, the Bonding
+[00:16:46.466 --> 00:16:47.106] PICARD: I know of that.
+[00:16:47.986 --> 00:16:49.586] PICARD: Perhaps it will be helpful to both of them.
+[00:16:50.146 --> 00:16:52.306] TROI: I don't think Jeremy's ready to accept Worf right now.
+[00:16:52.946 --> 00:16:56.386] TROI: Perhaps later, but it will have to be handled most delicately.
+[00:16:56.946 --> 00:16:57.826] PICARD: As you always do.
+[00:17:00.786 --> 00:17:04.306] PICARD: I break the unpleasant news and there my responsibility ends,
+[00:17:04.306 --> 00:17:08.946] PICARD: but you, you have to stay with them through the entire grieving process.
+[00:17:10.546 --> 00:17:20.706] TROI: We deal with our pain in many different ways, but over the years I've discovered it is in our joy that the uniqueness of each individual is revealed.
+[00:17:21.746 --> 00:17:24.146] TROI: If I can help a person back to a state of joy,
+[00:17:25.746 --> 00:17:28.226] TROI: well, my role has its rewards.
+[00:17:29.186 --> 00:17:31.426] RIKER: Captain, we're picking up an energy field on the planet surface.
+[00:17:35.986 --> 00:17:36.973] PICARD: Location?
+[00:17:36.973 --> 00:17:38.946] RIKER: Two kilometres
+[00:17:41.746 --> 00:17:43.506] RIKER: north of the away team's beam-down point.
+[00:17:44.386 --> 00:17:44.706] PICARD: Indeed?
+[00:17:46.146 --> 00:17:46.546] PICARD: Full scan.
+[00:17:49.506 --> 00:17:50.466] DATA: Inconclusive, Captain.
+[00:17:50.866 --> 00:17:53.666] TROI: Sir, I', sensing a presence on the planet.
+[00:17:54.802 --> 00:17:55.522] TROI: Very vague.
+[00:17:55.842 --> 00:17:56.242] PICARD: Life form?
+[00:17:56.802 --> 00:17:57.682] TROI: I can't be sure.
+[00:17:57.762 --> 00:18:00.242] TROI: The emotions of the crew are particularly strong right now.
+[00:18:01.122 --> 00:18:02.322] TROI: It's difficult to filter them out.
+[00:18:03.682 --> 00:18:05.202] PICARD: Data, scan analysis on main
+[00:18:14.082 --> 00:18:16.162] PICARD: viewer.
+[00:18:16.482 --> 00:18:18.482] WESLEY: Hi.
+[00:18:18.482 --> 00:18:18.482] CRUSHER: Hi.
+[00:18:20.802 --> 00:18:22.242] CRUSHER: Troi stopped by a little while ago.
+[00:18:22.482 --> 00:18:25.522] CRUSHER: She was wondering if you might be willing to talk to Jeremy Aster at some point.
+[00:18:27.922 --> 00:18:28.242] WESLEY: Me?
+[00:18:32.482 --> 00:18:32.962] WESLEY: What for?
+[00:18:33.762 --> 00:18:34.242] CRUSHER: About your Dad.
+[00:18:38.322 --> 00:18:39.122] WESLEY: What am I going to tell him?
+[00:18:39.762 --> 00:18:42.082] CRUSHER: It would help him to talk with someone who's been through this.
+[00:18:45.522 --> 00:18:46.722] CRUSHER: We had each other, Wes.
+[00:18:47.442 --> 00:18:53.602] CRUSHER: He doesn't have anyone to lean on right now. And he might be more comfortable talking to someone who's not much older than he is.
+[00:18:54.722 --> 00:18:55.042] WESLEY: Okay,
+[00:18:56.402 --> 00:18:56.882] WESLEY: I'll think about
+[00:18:59.122 --> 00:18:59.122] WESLEY: it.
+[00:18:59.122 --> 00:18:59.442] CRUSHER: Okay.
+[00:19:00.002 --> 00:19:01.122] WESLEY: Do you
+[00:19:18.082 --> 00:19:19.042] WESLEY: ever think about him, Mom?
+[00:19:20.482 --> 00:19:20.962] CRUSHER: Your father?
+[00:19:24.402 --> 00:19:24.882] CRUSHER: Sure I do.
+[00:19:26.722 --> 00:19:27.362] WESLEY: Sometimes I
+[00:19:28.508 --> 00:19:30.428] WESLEY: can't even remember what his face looks like.
+[00:19:30.578 --> 00:19:31.178] WESLEY: It
+[00:19:32.428 --> 00:19:32.988] WESLEY: scares me.
+[00:19:37.148 --> 00:19:38.828] CRUSHER: It happens to all of us, Wes.
+[00:19:41.228 --> 00:19:41.788] CRUSHER: Sometimes
+[00:19:43.708 --> 00:19:46.108] CRUSHER: I can't get his face out of my mind.
+[00:19:48.508 --> 00:19:54.908] WESLEY: Today, today it's like I can see it all as clearly as if it were yesterday.
+[00:19:55.058 --> 00:19:55.658] WESLEY: I
+[00:19:56.828 --> 00:20:00.268] WESLEY: can remember the way Dad looked when he hugged me goodbye.
+[00:20:01.548 --> 00:20:03.868] WESLEY: Captain Picard's eyes when he came to tell us
+[00:20:12.108 --> 00:20:13.708] RIKER: Data, run comparison of known phenomena.
+[00:20:13.858 --> 00:20:14.458] DATA: The
+[00:20:15.788 --> 00:20:18.188] DATA: pattern has no exact match in Federation records, sir.
+[00:20:18.908 --> 00:20:19.468] PICARD: Is it alive?
+[00:20:20.348 --> 00:20:21.068] DATA: A possibility.
+[00:20:21.628 --> 00:20:26.908] LAFORGE: Captain, I'm getting an unusual magnetic flux reading from the anti-matter containment pods.
+[00:20:28.588 --> 00:20:29.228] TROI: My God.
+[00:20:30.348 --> 00:20:30.748] JEREMY: Wait a minute,
+[00:20:30.748 --> 00:20:31.068] JEREMY: wait a minute.
+[00:20:31.548 --> 00:20:33.308] JEREMY: Okay, you've got ten seconds more, Mom.
+[00:20:33.788 --> 00:20:34.508] JEREMY: No peeking.
+[00:20:35.708 --> 00:20:36.988] JEREMY: Come on, Patches, in here.
+[00:20:37.308 --> 00:20:37.628] JEREMY: Shh.
+[00:20:37.628 --> 00:20:39.708] JEREMY: Okay, Mom, we're ready.
+[00:20:40.508 --> 00:20:42.828] MARLA: Jeremy? I'm getting closer.
+[00:20:44.588 --> 00:20:44.988] MARLA: Jeremy, I'm
+[00:20:46.508 --> 00:20:47.148] MARLA: going to find you. You
+[00:20:47.148 --> 00:20:47.148] MARLA: must be in here somewhere.
+[00:20:47.148 --> 00:20:47.148] MARLA: Jeremy!
+[00:20:47.148 --> 00:20:47.308] JEREMY: Mom?
+[00:21:05.986 --> 00:21:07.507] LAFORGE: All systems are functioning normally.
+[00:21:08.466 --> 00:21:11.106] LAFORGE: Still, there's this fluctuation in the containment field.
+[00:21:11.906 --> 00:21:12.626] LAFORGE: I can't account for it.
+[00:21:13.186 --> 00:21:15.747] RIKER: Data, is this possibly related to the energy fields on the planet?
+[00:21:16.226 --> 00:21:16.437] TROI: Captain
+[00:21:16.437 --> 00:21:19.186] DATA: There is a beam of highly charged particles emanating from the planet, sir,
+[00:21:19.747 --> 00:21:21.507] DATA: but I cannot pinpoint the location yet.
+[00:21:22.146 --> 00:21:25.106] TROI: Captain, there's a presence on the Enterprise.
+[00:21:27.346 --> 00:21:28.067] PICARD: An alien presence?
+[00:21:28.466 --> 00:21:29.906] DATA: No intruder noted by the sensors, sir.
+[00:21:31.507 --> 00:21:32.626] TROI: There is a presence.
+[00:21:36.067 --> 00:21:37.507] RIKER: Security, all decks yellow alert.
+[00:21:37.666 --> 00:21:38.547] RIKER: Possible intruder.
+[00:21:51.747 --> 00:21:52.706] JEREMY: They said you were dead.
+[00:21:54.146 --> 00:21:55.186] MARLA: There was a mistake.
+[00:21:56.547 --> 00:21:57.267] MARLA: It's okay.
+[00:22:03.426 --> 00:22:04.706] JEREMY: But there was an explosion.
+[00:22:05.267 --> 00:22:05.906] JEREMY: You were hurt.
+[00:22:06.866 --> 00:22:07.666] MARLA: I'm fine.
+[00:22:09.747 --> 00:22:11.586] MARLA: You mustn't think any more about this.
+[00:22:12.146 --> 00:22:15.267] MARLA: The important thing is I'm never going to leave you again.
+[00:22:16.626 --> 00:22:18.626] MARLA: I
+[00:22:20.626 --> 00:22:22.067] MARLA: think somebody needs a hug.
+[00:22:42.977 --> 00:22:43.937] MARLA: We have to go now.
+[00:22:45.457 --> 00:22:45.857] JEREMY: Where?
+[00:22:47.137 --> 00:22:47.697] MARLA: To the planet.
+[00:22:50.977 --> 00:22:52.177] MARLA: That's where we're going to live now.
+[00:22:53.697 --> 00:22:55.377] JEREMY: We're not going to stay on the Enterprise any more?
+[00:22:56.017 --> 00:22:56.417] MARLA: No.
+[00:22:57.537 --> 00:23:00.337] MARLA: We're going to live in a home just like we used to on Earth.
+[00:23:02.977 --> 00:23:03.297] MARLA: You'll see.
+[00:23:05.617 --> 00:23:06.417] MARLA: I promise.
+[00:23:16.337 --> 00:23:17.857] JEREMY: Lieutenant Worf! Did they tell you?
+[00:23:18.097 --> 00:23:19.057] JEREMY: It was a mistake.
+[00:23:19.457 --> 00:23:20.097] JEREMY: She didn't die.
+[00:23:20.097 --> 00:23:20.897] JEREMY: She's alive.
+[00:23:21.217 --> 00:23:22.177] WORF: Jeremy, come here.
+[00:23:22.577 --> 00:23:24.577] MARLA: Lieutenant Worf. It's all right.
+[00:23:25.457 --> 00:23:26.417] MARLA: I'm here for the boy.
+[00:23:28.737 --> 00:23:30.097] WORF: Lieutenant Worf to Captain Picard.
+[00:23:31.137 --> 00:23:31.617] PICARD: Go ahead.
+[00:23:32.017 --> 00:23:33.777] WORF: Lieutenant Aster is in her quarters.
+[00:23:36.017 --> 00:23:36.497] RIKER: Repeat, Worf?
+[00:23:37.377 --> 00:23:38.817] WORF: Lieutenant Aster is here.
+[00:23:40.017 --> 00:23:41.297] WORF: In her quarters with the boy.
+[00:23:42.017 --> 00:23:44.817] PICARD: Do not provoke her Or interfere in any way until I arrive.
+[00:23:45.297 --> 00:23:45.697] PICARD: Picard out.
+[00:23:48.017 --> 00:23:51.377] PICARD: Number One, have Security moving that way but tell them to keep their distance.
+[00:23:52.817 --> 00:23:53.377] PICARD: You have the Bridge.
+[00:23:55.297 --> 00:23:55.617] PICARD: Counsellor.
+[00:23:57.617 --> 00:23:57.857] MARLA: There is
+[00:24:01.217 --> 00:24:02.337] MARLA: nothing to worry about.
+[00:24:03.036 --> 00:24:05.436] MARLA: I'm going to take care of Jeremy and make him happy.
+[00:24:06.956 --> 00:24:07.676] MARLA: It's time to go.
+[00:24:08.556 --> 00:24:09.516] WORF: Where are you taking the child?
+[00:24:10.316 --> 00:24:10.796] JEREMY: To the planet.
+[00:24:11.836 --> 00:24:12.556] MARLA: Come, Jeremy.
+[00:24:21.676 --> 00:24:22.316] WORF: Worf to Picard,
+[00:24:22.556 --> 00:24:23.436] WORF: they're leaving their quarters.
+[00:24:26.476 --> 00:24:28.956] WORF: Captain, I believe we're headed for transporter room three.
+[00:24:30.156 --> 00:24:30.796] PICARD: We're on our way.
+[00:24:37.356 --> 00:24:40.476] MARLA: Chief O'Brien, Jeremy and I are going down to the surface.
+[00:24:48.796 --> 00:24:51.036] PICARD: Who are you?
+[00:24:52.556 --> 00:24:53.676] MARLA: I'm Marla Aster.
+[00:24:54.556 --> 00:24:55.596] JEREMY: It's my mother, Captain.
+[00:24:55.596 --> 00:24:56.156] JEREMY: She's alive.
+[00:24:57.116 --> 00:24:57.596] PICARD: What do you want?
+[00:24:58.556 --> 00:25:00.236] MARLA: To take my child down to the planet.
+[00:25:00.716 --> 00:25:01.756] PICARD: I cannot permit that.
+[00:25:01.836 --> 00:25:03.196] PICARD: The boy is my responsibility.
+[00:25:03.836 --> 00:25:05.276] MARLA: I'm here to care for him.
+[00:25:06.236 --> 00:25:07.116] MARLA: He needs me.
+[00:25:08.796 --> 00:25:09.676] MARLA: Why do you resist?
+[00:25:09.756 --> 00:25:13.036] PICARD: Because I don't know who or what you are.
+[00:25:14.156 --> 00:25:15.596] JEREMY: Can't you see who it is, Captain?
+[00:25:16.236 --> 00:25:19.196] PICARD: Jeremy, she appears to be your mother, but she is not.
+[00:25:21.996 --> 00:25:22.636] JEREMY: What do you mean?
+[00:25:22.796 --> 00:25:23.996] MARLA: You're confusing the boy.
+[00:25:24.556 --> 00:25:24.876] JEREMY: Hey!
+[00:25:24.956 --> 00:25:25.356] JEREMY: Wait!
+[00:25:25.516 --> 00:25:25.836] JEREMY: Stop!
+[00:25:25.996 --> 00:25:26.396] JEREMY: No!
+[00:25:26.876 --> 00:25:26.876] JEREMY: No!
+[00:25:27.276 --> 00:25:27.436] JEREMY: Wait!
+[00:25:28.876 --> 00:25:29.356] JEREMY: Stop!
+[00:25:30.080 --> 00:25:30.481] JEREMY: Mom!
+[00:25:31.280 --> 00:25:31.568] JEREMY: Mom?
+[00:25:31.568 --> 00:25:31.856] TROI: Jeremy
+[00:25:31.856 --> 00:25:32.721] JEREMY: Wait a minute.
+[00:25:32.961 --> 00:25:34.881] JEREMY: Let go of me.
+[00:25:35.040 --> 00:25:35.760] JEREMY: She was right
+[00:25:37.760 --> 00:25:39.760] JEREMY: there!
+[00:25:41.520 --> 00:25:43.167] JEREMY: What did you do to her?
+[00:25:43.167 --> 00:25:43.441] TROI: Jeremy,
+[00:25:43.520 --> 00:25:46.481] TROI: I don't know what that was, but it was not your mother.
+[00:25:46.961 --> 00:25:48.721] JEREMY: You saw her. She was here.
+[00:25:50.320 --> 00:25:50.961] TROI: Your mother's dead.
+[00:25:53.360 --> 00:25:54.161] JEREMY: But I touched her.
+[00:25:54.800 --> 00:25:55.600] JEREMY: She was real.
+[00:25:57.280 --> 00:26:00.161] TROI: Why would your real mother want you to go down to the planet?
+[00:26:00.481 --> 00:26:02.320] TROI: There's nothing there but dust and rocks.
+[00:26:18.961 --> 00:26:19.921] JEREMY: It's my house.
+[00:26:21.600 --> 00:26:22.481] JEREMY: It's my house on Earth.
+[00:26:23.840 --> 00:26:25.201] MARLA: Exactly the way it was.
+[00:26:26.320 --> 00:26:27.120] MARLA: Remember, Jeremy?
+[00:26:28.240 --> 00:26:28.961] JEREMY: How did you do it?
+[00:26:31.441 --> 00:26:32.161] MARLA: Does it matter?
+[00:26:33.201 --> 00:26:34.961] TROI: Yes, it matters.
+[00:26:35.520 --> 00:26:35.681] MARLA: I
+[00:26:39.040 --> 00:26:41.760] MARLA: am trying to understand your resistance.
+[00:26:42.641 --> 00:26:45.040] MARLA: You spoke of rocks and dust on the planet.
+[00:26:46.320 --> 00:26:48.320] MARLA: I decided to show you what awaits us there.
+[00:26:49.201 --> 00:26:51.360] TROI: Why would you create this fantasy?
+[00:26:53.520 --> 00:26:54.401] MARLA: It's his home.
+[00:26:56.161 --> 00:26:57.441] MARLA: And it makes you happy, doesn't it?
+[00:26:58.560 --> 00:26:59.840] TROI: But it's not real.
+[00:27:01.064 --> 00:27:01.544] MARLA: Isn't it?
+[00:27:03.464 --> 00:27:03.944] MARLA: Jeremy,
+[00:27:04.824 --> 00:27:06.104] MARLA: isn't that really Patches?
+[00:27:16.664 --> 00:27:19.704] JEREMY: He knows me.
+[00:27:20.504 --> 00:27:20.904] JEREMY: It's him.
+[00:27:23.944 --> 00:27:24.344] JEREMY: It's real.
+[00:27:25.464 --> 00:27:26.024] JEREMY: It's all real.
+[00:27:26.344 --> 00:27:27.464] TROI: No, it's not.
+[00:27:28.424 --> 00:27:31.224] TROI: Could your real mother just make all this appear?
+[00:27:32.664 --> 00:27:34.184] TROI: You must not stay here.
+[00:27:35.624 --> 00:27:36.184] TROI: Come with me.
+[00:27:46.824 --> 00:27:49.144] JEREMY: I can't.
+[00:27:49.224 --> 00:27:49.304] PICARD: Is
+[00:27:54.984 --> 00:27:56.024] PICARD: the boy in any danger?
+[00:27:56.664 --> 00:27:57.704] TROI: I don't think so.
+[00:27:58.104 --> 00:27:59.624] TROI: She seems to want to help him.
+[00:28:00.024 --> 00:28:00.344] PICARD: Help him?
+[00:28:01.224 --> 00:28:02.504] TROI: By easing his pain.
+[00:28:02.824 --> 00:28:05.384] TROI: She's very confused by our resistance, Captain.
+[00:28:06.584 --> 00:28:09.704] PICARD: Troi, would it be wise to remove Jeremy from his cabin?
+[00:28:10.744 --> 00:28:11.704] TROI: He doesn't want to leave.
+[00:28:11.944 --> 00:28:14.104] TROI: I would not recommend taking him By force.
+[00:28:14.584 --> 00:28:15.464] RIKER: She offers him everything.
+[00:28:15.704 --> 00:28:17.944] RIKER: All we offer is the cold reality of his mother's death.
+[00:28:18.424 --> 00:28:19.304] CRUSHER: What would you choose?
+[00:28:19.864 --> 00:28:25.384] CRUSHER: If somebody came along and offered to give you back your mother, father or husband, would any of us say no so easily?
+[00:28:26.504 --> 00:28:28.904] PICARD: Counsellor, stay with them in Jeremy's quarters.
+[00:28:29.624 --> 00:28:31.144] PICARD: We'll try and put an end to this from here.
+[00:28:32.264 --> 00:28:32.904] TROI: Understood.
+[00:28:36.404 --> 00:28:41.604] PICARD: Data, can you determine for certain that the energy source from the planet is powering this creation?
+[00:28:42.324 --> 00:28:45.764] DATA: The beam from the planet is clearly tapping into the ship's anti-matter, Captain.
+[00:28:46.324 --> 00:28:48.644] LAFORGE: I'd say they're running the manifestation off our own energy.
+[00:28:49.044 --> 00:28:50.404] PICARD: So there are limits to her power.
+[00:28:51.204 --> 00:28:53.044] RIKER: She needs the transporter to get the boy back.
+[00:28:54.084 --> 00:28:56.084] PICARD: So how do we cut the puppet's strings?
+[00:28:56.324 --> 00:29:00.884] LAFORGE: Increasing the shield harmonics to match our own antimatter containment fields will probably sever the beam.
+[00:29:01.444 --> 00:29:01.844] PICARD: Proceed.
+[00:29:02.724 --> 00:29:04.164] RIKER: Deanna, stand by.
+[00:29:04.564 --> 00:29:05.204] TROI: Standing by.
+[00:29:08.484 --> 00:29:08.884] TROI: Jeremy,
+[00:29:10.724 --> 00:29:12.004] TROI: it's time for this to end.
+[00:29:14.244 --> 00:29:16.564] TROI: It's not real and it's over now.
+[00:29:18.004 --> 00:29:20.564] MARLA: Jeremy, I'm not going to leave you ever again.
+[00:29:21.764 --> 00:29:24.004] TROI: I won't trick you or lie to you.
+[00:29:25.524 --> 00:29:27.204] MARLA: We'll be happy together, Jeremy,
+[00:29:27.204 --> 00:29:27.364] MARLA: as soon
+[00:29:30.084 --> 00:29:32.084] MARLA: as
+[00:29:32.084 --> 00:29:32.484] JEREMY: No.
+[00:29:53.684 --> 00:29:55.604] LAFORGE: Anti-matter containment pods reading nominal.
+[00:29:55.604 --> 00:29:58.084] DATA: The shield has severed the beam, sir.
+[00:30:01.467 --> 00:30:03.627] DATA: Captain, the energy field.
+[00:30:08.907 --> 00:30:10.027] PICARD: Mister Crusher, take us out of here.
+[00:30:22.827 --> 00:30:24.507] O'BRIEN: Alien intruder, transporter room three.
+[00:30:24.507 --> 00:30:25.227] O'BRIEN: Security alert.
+[00:30:26.027 --> 00:30:28.027] O'BRIEN: Alien
+[00:30:28.027 --> 00:30:29.307] WORF: Security to transporter room three.
+[00:30:29.627 --> 00:30:31.387] PICARD: Commander La Forge, Mister Worf, come with me.
+[00:30:32.027 --> 00:30:33.307] PICARD: Number One, you have the Bridge.
+[00:30:58.747 --> 00:30:59.387] MARLA: Come, Jeremy.
+[00:31:01.227 --> 00:31:03.467] MARLA: We will not let them separate us again.
+[00:31:04.587 --> 00:31:05.467] MARLA: We're going home.
+[00:31:18.427 --> 00:31:19.627] TROI: Captain, she's back.
+[00:31:20.027 --> 00:31:21.627] TROI: She's trying to take Jeremy off the ship again.
+[00:31:22.267 --> 00:31:22.587] PICARD: Acknowledged.
+[00:31:23.707 --> 00:31:24.187] LAFORGE: Engineering,
+[00:31:24.382 --> 00:31:25.022] LAFORGE: this is La Forge.
+[00:31:25.022 --> 00:31:26.782] LAFORGE: Shut down power to all transporters.
+[00:31:27.022 --> 00:31:27.582] LAFORGE: I'm on my way.
+[00:31:27.732 --> 00:31:29.132] CREWMAN: Aye, aye, sir.
+[00:31:30.302 --> 00:31:32.142] PICARD: Lieutenant Worf, to transporter room three.
+[00:31:35.742 --> 00:31:38.302] PICARD: Bridge, seal off deck eight, corridors A and B.
+[00:31:39.342 --> 00:31:40.622] DATA: Engaging force fields, Captain.
+[00:31:41.102 --> 00:31:42.302] DATA: Transporters down.
+[00:31:58.142 --> 00:31:59.822] WORF: Energy force has left transporter room three.
+[00:32:00.142 --> 00:32:01.502] WORF: Security alert, all decks.
+[00:32:02.542 --> 00:32:05.262] RIKER: La Forge, the intruder may try to reinstate Transporter power.
+[00:32:05.582 --> 00:32:06.382] LAFORGE: Understood, Commander.
+[00:32:32.222 --> 00:32:35.422] PICARD: Bridge, release security forcefield eight B.
+[00:32:40.702 --> 00:32:41.342] PICARD: Hello, Jeremy.
+[00:32:44.702 --> 00:32:45.022] PICARD: How are you?
+[00:32:45.172 --> 00:32:45.772] PICARD: Are
+[00:32:46.782 --> 00:32:47.262] PICARD: you frightened?
+[00:32:48.222 --> 00:32:48.222] JEREMY: No.
+[00:32:48.382 --> 00:32:53.342] JEREMY: Well, a little, sir.
+[00:32:54.250 --> 00:32:54.570] PICARD: Of course.
+[00:32:55.450 --> 00:32:56.970] PICARD: These are frightening things that are happening.
+[00:32:58.490 --> 00:32:59.770] PICARD: But we won't let anyone harm you.
+[00:33:01.850 --> 00:33:03.850] PICARD: Counsellor, why don't you take the boy to my quarters.
+[00:33:04.730 --> 00:33:05.050] MARLA: No!
+[00:33:17.930 --> 00:33:19.690] LAFORGE: It's looking over everything, Commander,
+[00:33:20.170 --> 00:33:20.890] LAFORGE: going to school.
+[00:33:22.890 --> 00:33:28.810] LAFORGE: Let's just hope it doesn't blow us to kingdom come while it's figuring out how to blow us to kingdom come.
+[00:33:36.650 --> 00:33:38.250] WORF: Power's back in transporter room three.
+[00:33:39.210 --> 00:33:40.810] LAFORGE: Bypassing the manual override.
+[00:33:41.290 --> 00:33:42.250] LAFORGE: Shutting it down.
+[00:33:44.250 --> 00:33:45.450] WORF: Transporter is down again.
+[00:33:45.850 --> 00:33:47.370] RIKER: Keep it down, Geordi, for as long as you can.
+[00:33:47.850 --> 00:33:48.570] LAFORGE: Understood, Commander.
+[00:33:55.530 --> 00:34:00.410] MARLA: It is only a matter of time, Captain, before we can power the transporters ourselves
+[00:34:00.890 --> 00:34:01.130] PICARD: We?
+[00:34:02.330 --> 00:34:03.690] PICARD: For whom else do you speak?
+[00:34:10.490 --> 00:34:15.290] MARLA: The accident on the surface was caused by a remnant of an ancient and tragic era.
+[00:34:17.610 --> 00:34:19.850] MARLA: Two species once shared this world.
+[00:34:21.042 --> 00:34:23.682] MARLA: One of energy and one of matter.
+[00:34:25.602 --> 00:34:31.282] MARLA: The physical beings you call the Koinonians destroyed themselves in unending, bitter wars.
+[00:34:31.922 --> 00:34:38.322] MARLA: The surviving life forms on this world will not tolerate any further suffering as a result of that dishonourable past.
+[00:34:39.522 --> 00:34:42.482] MARLA: So, they have made this possible.
+[00:34:43.602 --> 00:34:45.202] MARLA: They have made me possible.
+[00:34:46.082 --> 00:34:47.202] PICARD: I appreciate your motives,
+[00:34:49.682 --> 00:34:50.082] PICARD: but
+[00:34:51.602 --> 00:34:52.402] PICARD: his mother is dead.
+[00:34:53.522 --> 00:34:54.482] PICARD: He must learn to live with that.
+[00:34:55.202 --> 00:34:57.289] MARLA: I will be every bit his mother.
+[00:34:57.289 --> 00:34:58.482] PICARD: But not his mother.
+[00:35:04.882 --> 00:35:06.002] PICARD: Picard to Lieutenant Worf.
+[00:35:06.962 --> 00:35:07.602] WORF: Go ahead, Captain.
+[00:35:08.962 --> 00:35:12.402] PICARD: Will you escort Ensign Crusher to the Aster quarters?
+[00:35:12.722 --> 00:35:13.042] WORF: Yes, sir.
+[00:35:13.522 --> 00:35:14.002] PICARD: Picard out.
+[00:35:14.722 --> 00:35:16.482] MARLA: Your philosophy is curious, Captain.
+[00:35:18.082 --> 00:35:20.162] MARLA: What is so noble about sorrow?
+[00:35:20.962 --> 00:35:25.442] MARLA: I can provide him an existence where he will feel no pain, no anguish.
+[00:35:27.362 --> 00:35:29.202] PICARD: It is at the heart of our nature to feel pain
+[00:35:30.562 --> 00:35:32.962] PICARD: and joy.
+[00:35:32.962 --> 00:35:36.882] PICARD: It is an essential part of what makes us what we are.
+[00:35:39.202 --> 00:35:44.322] MARLA: He is alone now in your world. A child, alone.
+[00:35:45.842 --> 00:35:48.562] MARLA: How can you know he won't be happier with me?
+[00:35:49.122 --> 00:35:50.162] PICARD: For a brief moment in time,
+[00:35:51.322 --> 00:35:51.962] PICARD: he surely would be.
+[00:35:53.162 --> 00:35:54.682] PICARD: Any of us in his place would be.
+[00:35:56.682 --> 00:35:58.762] TROI: What would Jeremy do for friends in your world?
+[00:35:59.962 --> 00:36:01.722] MARLA: He will have any friends he needs.
+[00:36:02.442 --> 00:36:09.802] TROI: And will you provide for his education, his health, his growth, a career, a wife?
+[00:36:13.082 --> 00:36:15.562] PICARD: Yes, it's quite an undertaking you're proposing, isn't
+[00:36:18.122 --> 00:36:18.122] PICARD: it?
+[00:36:18.122 --> 00:36:20.442] MARLA: It is our duty to make him happy again.
+[00:36:21.002 --> 00:36:28.442] PICARD: Do you honestly believe he would be happy in this total fiction which you wish to create?
+[00:36:29.802 --> 00:36:31.002] PICARD: What reason would he have to live?
+[00:36:32.362 --> 00:36:37.402] PICARD: What you're offering him is a memory, something to cherish, not to live in.
+[00:36:38.762 --> 00:36:41.802] PICARD: It is part of our life cycle that we accept the death of those we love.
+[00:36:43.562 --> 00:36:45.482] PICARD: Jeremy must come to terms with his grief.
+[00:36:45.482 --> 00:36:47.562] PICARD: He must not cover it or hide away from it.
+[00:36:48.442 --> 00:36:49.322] PICARD: You see, we are mortal.
+[00:36:50.362 --> 00:36:52.122] PICARD: Our time in this universe is finite.
+[00:36:53.482 --> 00:36:57.002] PICARD: That is one of the truths that all human must learn.
+[00:37:03.882 --> 00:37:05.482] WESLEY: Acting Ensign Crusher reporting as ordered, sir.
+[00:37:05.882 --> 00:37:06.602] PICARD: Yes. Come in, Wesley.
+[00:37:07.722 --> 00:37:08.682] PICARD: Please stay, Lieutenant.
+[00:37:13.882 --> 00:37:14.282] PICARD: Jeremy,
+[00:37:16.122 --> 00:37:17.482] PICARD: Wesley's father
+[00:37:18.682 --> 00:37:20.602] PICARD: died on a Starfleet mission
+[00:37:21.955 --> 00:37:23.155] PICARD: when he was younger than you are.
+[00:37:25.795 --> 00:37:30.115] TROI: Wes, your mother told me you were finding it difficult to talk to Jeremy.
+[00:37:31.075 --> 00:37:31.635] TROI: Why is that?
+[00:37:33.395 --> 00:37:36.514] WESLEY: I don't know.
+[00:37:36.755 --> 00:37:38.275] WESLEY: I just didn't want to think about it any more.
+[00:37:39.315 --> 00:37:42.315] WESLEY: All this has reminded me so much of that day.
+[00:37:42.315 --> 00:37:45.315] PICARD: The day I told you your father had been killed.
+[00:37:46.355 --> 00:37:48.275] PICARD: As I recall, Wesley, you took it very well.
+[00:37:50.115 --> 00:37:53.635] WESLEY: My parents taught me about the dangers of Starfleet missions.
+[00:37:54.275 --> 00:37:54.995] WESLEY: I knew what could happen.
+[00:37:55.315 --> 00:37:56.115] PICARD: So you were prepared?
+[00:37:57.235 --> 00:37:59.075] WESLEY: No, I wasn't prepared at all.
+[00:38:00.195 --> 00:38:04.595] WESLEY: How could anyone be prepared to hear that a parent is never coming home again?
+[00:38:06.195 --> 00:38:08.595] WESLEY: I tried to be what everybody expected of me. Brave
+[00:38:10.275 --> 00:38:10.755] WESLEY: and mature.
+[00:38:12.675 --> 00:38:18.034] PICARD: Wesley, are you saying that you didn't want anybody to see what you were really feeling?
+[00:38:20.675 --> 00:38:21.795] PICARD: What were you really feeling?
+[00:38:22.915 --> 00:38:25.635] WESLEY: Like somebody had kicked me in the head.
+[00:38:26.675 --> 00:38:27.075] PICARD: Somebody?
+[00:38:29.315 --> 00:38:29.795] TROI: Go on.
+[00:38:31.315 --> 00:38:33.235] TROI: You've wanted to tell him for a long time.
+[00:38:35.635 --> 00:38:37.875] WESLEY: I was angry at you.
+[00:38:39.875 --> 00:38:40.355] PICARD: Why angry?
+[00:38:41.075 --> 00:38:42.355] PICARD: Why were you angry at me, Wesley?
+[00:38:44.034 --> 00:38:47.955] PICARD: Were you angry at me because I was the one who told you your father was dead?
+[00:38:48.830 --> 00:38:48.990] WESLEY: No.
+[00:38:50.350 --> 00:38:50.750] PICARD: Then why?
+[00:38:52.350 --> 00:38:54.510] WESLEY: Because you led the mission.
+[00:38:55.630 --> 00:38:57.550] WESLEY: You came home and my father didn't.
+[00:39:01.150 --> 00:39:03.150] TROI: How long were you angry with the Captain, Wes?
+[00:39:04.190 --> 00:39:05.070] WESLEY: For a long time.
+[00:39:07.070 --> 00:39:07.870] WESLEY: But not any more, sir.
+[00:39:10.510 --> 00:39:11.070] WESLEY: Not even a little.
+[00:39:14.670 --> 00:39:15.950] TROI: So, Jeremy,
+[00:39:17.710 --> 00:39:19.870] TROI: you must be very angry at Lieutenant Worf.
+[00:39:21.230 --> 00:39:26.830] TROI: He was in charge of your mother's mission, just as Captain Picard was in command when Wesley's father was killed.
+[00:39:28.510 --> 00:39:29.070] TROI: Isn't that right?
+[00:39:30.830 --> 00:39:32.030] TROI: Worf came back.
+[00:39:33.950 --> 00:39:34.670] TROI: Your mother didn't.
+[00:39:36.670 --> 00:39:37.150] JEREMY: Why?
+[00:39:37.550 --> 00:39:38.990] JEREMY: Why weren't you the one who died?
+[00:39:39.790 --> 00:39:41.150] JEREMY: Why did it have to be her?
+[00:39:42.110 --> 00:39:42.910] TROI: He can't answer that.
+[00:39:44.670 --> 00:39:45.230] TROI: None of us can.
+[00:39:47.470 --> 00:39:49.630] PICARD: Lieutenant Worf also lost his parents.
+[00:39:50.830 --> 00:39:52.750] WORF: They were killed in battle when I was six.
+[00:39:54.270 --> 00:39:57.390] WORF: When I was alone, humans helped me.
+[00:39:59.630 --> 00:40:00.430] WORF: Let me help you.
+[00:40:01.710 --> 00:40:05.390] WORF: The Marla Aster I knew and honoured is not in this room.
+[00:40:06.270 --> 00:40:07.950] WORF: Nor does she await you on the planet.
+[00:40:09.550 --> 00:40:11.470] WORF: Now she lives only here
+[00:40:13.470 --> 00:40:13.950] WORF: And here.
+[00:40:22.707 --> 00:40:25.187] WORF: Join me in the R'uustai, the Bonding.
+[00:40:26.067 --> 00:40:29.347] WORF: You will become part of my family now and for all time.
+[00:40:30.547 --> 00:40:31.907] WORF: We will be brothers.
+[00:42:07.496 --> 00:42:10.056] WORF: SoS jIH batlh SoH.
+[00:42:13.496 --> 00:42:14.056] JEREMY: What does that mean?
+[00:42:17.417 --> 00:42:19.337] WORF: It honours the memory of our mothers.
+[00:42:20.456 --> 00:42:23.576] WORF: We have bonded and our families are stronger.
+[00:42:26.776 --> 00:42:29.496] JEREMY: SoS jIH
+[00:43:15.122 --> 00:43:15.122] JEREMY: batlh SoH.

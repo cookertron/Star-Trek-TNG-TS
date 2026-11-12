@@ -1,0 +1,740 @@
+[00:00:02.240 --> 00:00:05.200] LOG: Captain's log, stardate 41463.9.
+[00:00:05.680 --> 00:00:11.040] LOG: While mapping the Pleiades Cluster, we've been asked by the Federation to visit a group terraforming Velara Three.
+[00:00:11.760 --> 00:00:15.040] LOG: Communications have been erratic and there is some concern about their welfare.
+[00:00:15.680 --> 00:00:16.960] LAFORGE: Entering standard orbit
+[00:00:17.600 --> 00:00:18.080] LAFORGE: now.
+[00:00:18.160 --> 00:00:20.800] PICARD: It takes very special people to live in such desolation.
+[00:00:21.120 --> 00:00:23.840] TROI: Visionaries who don't see this planet as it is, but as it will be.
+[00:00:24.240 --> 00:00:25.920] RIKER: I've always wanted to see terraforming in operation.
+[00:00:26.640 --> 00:00:27.920] PICARD: Lieutenant Yar, hailing frequencies.
+[00:00:28.560 --> 00:00:29.680] TASHA: Hailing frequencies open, sir.
+[00:00:30.240 --> 00:00:33.200] PICARD: Velara Three base, this is Captain Picard of the starship Enterprise.
+[00:00:44.720 --> 00:00:46.560] TASHA: No malfunctioning equipment on either side, sir.
+[00:00:46.720 --> 00:00:47.520] TASHA: They are receiving us.
+[00:00:47.920 --> 00:00:49.440] PICARD: Velara Three base, this is the Enterprise.
+[00:00:49.440 --> 00:00:50.240] PICARD: Come in please. Over.
+[00:00:53.280 --> 00:00:54.160] LAFORGE: Maybe no one's home.
+[00:00:58.240 --> 00:00:59.600] DATA: We are sensing life-forms, sir.
+[00:01:02.080 --> 00:01:03.440] PICARD: Velara Three base, do you copy?
+[00:01:04.560 --> 00:01:07.440] MANDL: Velara base to Enterprise.
+[00:01:08.000 --> 00:01:08.800] MANDL: Yes, Captain,
+[00:01:09.440 --> 00:01:14.720] MANDL: I'm Director Mandl. I'm sorry about the delay, but we weren't expecting visitors.
+[00:01:15.840 --> 00:01:19.600] PICARD: Terraform Command has asked us to see how you were getting along.
+[00:01:20.480 --> 00:01:22.560] MANDL: We were a little behind, but we're back on schedule.
+[00:01:23.520 --> 00:01:26.160] MANDL: I'd like to hope we'd be allowed to maintain that schedule.
+[00:01:27.680 --> 00:01:29.360] TROI: We alarm him for some reason.
+[00:01:32.080 --> 00:01:34.240] PICARD: Your staff is all well, I presume, Director?
+[00:01:34.803 --> 00:01:37.763] MANDL: Understandably tired. We're working very hard, Captain.
+[00:01:38.803 --> 00:01:44.883] PICARD: If there anything we can do to help? You and your staff are welcome aboard for a change of scene, rest.
+[00:01:45.043 --> 00:01:46.643] RIKER: We have some holodecks which you might enjoy.
+[00:01:46.723 --> 00:01:50.243] MANDL: No disrespect, sir, but we cannot afford the time.
+[00:01:52.563 --> 00:01:53.443] COMPUTER: Channel closed.
+[00:01:53.523 --> 00:01:54.803] TROI: His fear is escalating.
+[00:01:54.963 --> 00:01:58.003] MANDL: If you will excuse me, sir, I really must get back to work.
+[00:01:58.323 --> 00:02:00.003] TROI: I sense deliberate concealment, sir.
+[00:02:00.403 --> 00:02:00.803] PICARD: Of what?
+[00:02:01.203 --> 00:02:02.883] TROI: I don't know, but it's intense.
+[00:02:05.123 --> 00:02:08.243] PICARD: Director Mandl, we've heard of your remarkable achievements in terraforming.
+[00:02:09.203 --> 00:02:11.203] PICARD: My crew would very much appreciate looking around.
+[00:02:11.443 --> 00:02:13.763] MANDL: This is not really the best time.
+[00:02:13.763 --> 00:02:16.483] MANDL: We are at a very critical phase just now.
+[00:02:16.883 --> 00:02:18.563] PICARD: We would require no special attention.
+[00:02:18.963 --> 00:02:24.483] MANDL: I'm trying not to be rude, sir, but this is really very inconvenient.
+[00:02:26.243 --> 00:02:27.443] TROI: He is concealing something.
+[00:02:27.843 --> 00:02:29.443] TROI: It's more than just being too busy.
+[00:02:30.403 --> 00:02:34.003] TROI: Your announcement about coming down has sent him almost to a point of panic.
+[00:02:34.153 --> 00:02:35.153] PICARD: Well, whether
+[00:02:36.323 --> 00:02:38.803] PICARD: he wants us or not. Director Mandl,
+[00:02:39.363 --> 00:02:44.563] PICARD: unless you're absolutely refusing permission for us to land at your station, prepare to receive our away team.
+[00:02:46.483 --> 00:02:47.363] MANDL: As you wish.
+[00:02:51.683 --> 00:02:53.203] PICARD: Counsellor, perhaps you'd better go along as well.
+[00:02:53.363 --> 00:02:53.523] TROI: Aye, sir.
+[00:02:54.483 --> 00:02:56.403] PICARD: Someone that tense could be very unpredictable.
+[00:02:56.483 --> 00:02:57.523] PICARD: Stay on your toes, Number One.
+[00:03:23.155 --> 00:03:25.875] PICARD: Space, the final frontier.
+[00:03:27.715 --> 00:03:30.595] PICARD: These are the voyages of the starship Enterprise.
+[00:03:31.715 --> 00:03:44.515] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:46.000 --> 00:04:00.000] [music]
+[00:04:01.000 --> 00:04:38.000] [music]
+[00:04:44.000 --> 00:04:53.000] [music]
+[00:05:01.281 --> 00:05:02.641] LUISA: Welcome to Velara Three.
+[00:05:03.201 --> 00:05:03.681] LUISA: Please.
+[00:05:06.401 --> 00:05:11.121] LUISA: I want you to remember it as it is now, because in a couple of decades you won't recognise it.
+[00:05:13.201 --> 00:05:15.441] LUISA: Luisa Kim. Gardener of Edens.
+[00:05:16.001 --> 00:05:18.081] RIKER: Commander William Riker, USS Enterprise.
+[00:05:18.081 --> 00:05:22.321] RIKER: This is Counsellor Troi, Lieutenant Yar, Lieutenant La Forge, Lieutenant Commander Data.
+[00:05:23.761 --> 00:05:27.761] LUISA: Arthur Malencon, hydraulics specialist, and Bjorn Benson, Chief Engineer.
+[00:05:30.721 --> 00:05:31.281] BENSON: An android?
+[00:05:32.321 --> 00:05:33.761] TASHA: And third in command of the Enterprise.
+[00:05:35.121 --> 00:05:36.401] BENSEN: Where were you manufactured?
+[00:05:36.641 --> 00:05:37.601] BENSEN: Are there others like you?
+[00:05:38.481 --> 00:05:41.041] DATA: Both matters are subjects of protracted discussion.
+[00:05:41.441 --> 00:05:43.121] BENSEN: Remarkable.
+[00:05:44.961 --> 00:05:47.281] BENSEN: Excuse me.
+[00:05:49.921 --> 00:05:51.201] LUISA: We don't get many visitors.
+[00:05:51.441 --> 00:05:52.721] LUISA: It's exciting to have you here.
+[00:05:53.601 --> 00:05:55.441] RIKER: We weren't sure how we would be received.
+[00:05:56.401 --> 00:05:59.201] RIKER: Director Mandl was less than enthusiastic about our interest.
+[00:05:59.761 --> 00:06:01.601] LUISA: I should apologise for him.
+[00:06:02.241 --> 00:06:03.921] LUISA: We are at a critical phase.
+[00:06:04.321 --> 00:06:05.441] LUISA: Usually he's quite charming.
+[00:06:06.001 --> 00:06:06.961] RIKER: We'll try to stay out of the way.
+[00:06:07.281 --> 00:06:08.881] RIKER: We've never seen a terraforming station, and
+[00:06:09.995 --> 00:06:11.115] RIKER: we appreciate the opportunity.
+[00:06:12.395 --> 00:06:13.835] LUISA: How much do you know about the process?
+[00:06:14.315 --> 00:06:16.795] DATA: Theories, reports, but nothing first-hand.
+[00:06:17.515 --> 00:06:18.155] LUISA: Oh, wonderful.
+[00:06:18.155 --> 00:06:19.355] LUISA: Let me show you what we do.
+[00:06:19.835 --> 00:06:20.635] LUISA: Newcomers find this
+[00:06:20.635 --> 00:06:21.435] TROI: The other two
+[00:06:21.435 --> 00:06:24.475] TROI: are secretive, but she is as open as she appears.
+[00:06:24.715 --> 00:06:27.435] LUISA: What we're doing is so exciting, so inspiring.
+[00:06:27.835 --> 00:06:35.115] LUISA: We take a lifeless planet and little by little transform it into an M class environment, capable of supporting life.
+[00:06:36.555 --> 00:06:39.435] LUISA: Terraforming makes you feel a little god-like.
+[00:06:41.275 --> 00:06:43.755] LUISA: The first phase involves selecting the planet.
+[00:06:43.995 --> 00:06:45.035] LUISA: That's very important.
+[00:06:45.675 --> 00:06:51.755] LUISA: It must have the right mass and gravity, the correct rate of rotation, and a balanced day and night.
+[00:06:52.315 --> 00:06:56.875] LUISA: The planet must also be without life or the prospect of life developing naturally.
+[00:06:57.195 --> 00:06:59.035] LUISA: The Federation determines if that's so.
+[00:06:59.515 --> 00:07:01.915] LUISA: Then, we take over.
+[00:07:03.835 --> 00:07:05.995] LUISA: This station is phase two.
+[00:07:06.475 --> 00:07:07.995] LUISA: Phase Three involves water.
+[00:07:08.475 --> 00:07:16.395] LUISA: Usually we create basins using hydraulic landscaping, but the water on this planet is subsurface, and extremely high in salt content.
+[00:07:17.195 --> 00:07:23.995] LUISA: We are just about to begin pumping and filtering the water, removing the salt, oxygenating and replacing.
+[00:07:24.635 --> 00:07:34.395] LUISA: Next, we introduce micro-organisms, and when the process is complete eventually, we'll have a lush, arable, biosphere.
+[00:07:34.545 --> 00:07:35.145] RIKER: You
+[00:07:35.995 --> 00:07:36.875] RIKER: make it sound poetic.
+[00:07:37.665 --> 00:07:39.665] LUISA: I think it's the best job in the universe.
+[00:07:39.815 --> 00:07:40.415] DATA: The
+[00:07:44.865 --> 00:07:47.825] DATA: efficiency of your hydraulic landscaping is quite elegant.
+[00:07:48.705 --> 00:07:50.225] MALENCON: It isn't yet, but it will be.
+[00:07:51.585 --> 00:07:58.385] MALENCON: Right now I'm disturbed by erratic power surges in several of the servo-mechanisms that control the hydraulic probes.
+[00:07:58.705 --> 00:08:01.585] LAFORGE: Could it be the increased conductivity caused by the high saline content?
+[00:08:01.665 --> 00:08:03.415] MALENCON: That was my first thought, but I
+[00:08:03.415 --> 00:08:03.665] BENSEN: Arthur.
+[00:08:05.265 --> 00:08:07.345] BENSEN: The factors do not support that conclusion.
+[00:08:09.185 --> 00:08:14.225] MANDL: I'm Director Mandl, and I'm sorry about having been so abrupt during our initial contact.
+[00:08:14.225 --> 00:08:17.185] MANDL: Being isolated, one tends to forget the social graces.
+[00:08:18.225 --> 00:08:19.985] MANDL: Are you seeing everything that you want?
+[00:08:20.385 --> 00:08:21.905] TROI: What you're doing here is miraculous.
+[00:08:22.225 --> 00:08:32.465] MANDL: What we are doing here is working a difficult and demanding timetable, and there will be no miracle unless Malencon here gets the hydraulic probes back online.
+[00:08:33.905 --> 00:08:38.465] MANDL: We are set to step up to full conversion immediately.
+[00:08:40.465 --> 00:08:43.345] MANDL: Shouldn't you be in the hydraulic chamber, Arthur?
+[00:08:44.065 --> 00:08:44.905] MALENCON: Now?
+[00:08:44.905 --> 00:08:45.745] MANDL: Yes.
+[00:08:49.585 --> 00:08:50.225] MALENCON: All right, Kurt.
+[00:08:51.345 --> 00:08:54.625] DATA: Geordi, this appears to be the master subsurface pump.
+[00:08:55.025 --> 00:08:55.345] LAFORGE: You're right.
+[00:08:56.065 --> 00:08:56.785] LAFORGE: Very impressive.
+[00:08:56.945 --> 00:08:57.585] DATA: This is interesting.
+[00:08:58.145 --> 00:09:01.985] DATA: The water table is a thin ribbon between the sandy surface layer and the rocks below.
+[00:09:02.065 --> 00:09:04.945] LAFORGE: And those two surfaces follow that contour so precisely,
+[00:09:05.345 --> 00:09:07.566] LAFORGE: the water maintains a consistent depth between them.
+[00:09:07.566 --> 00:09:10.065] DATA: Which would require extreme precision from the probe controls.
+[00:09:10.945 --> 00:09:15.505] MANDL: Here we have something which may be of interest to you. A vegetation graph.
+[00:09:17.105 --> 00:09:21.665] MANDL: It is really the key centre for successful terraforming.
+[00:09:22.865 --> 00:09:23.265] RIKER: Incredible.
+[00:09:23.825 --> 00:09:26.225] RIKER: It's planned month by month, decade by decade?
+[00:09:26.465 --> 00:09:30.305] MANDL: Every single thing is specific and exact.
+[00:09:31.345 --> 00:09:34.065] MANDL: You see grand, romantic concepts.
+[00:09:35.425 --> 00:09:38.225] MANDL: I see unyielding rock under an ocean of sand.
+[00:09:40.865 --> 00:09:41.425] TROI: Commander!
+[00:09:41.745 --> 00:09:42.465] RIKER: What is it, Deanna?
+[00:09:42.865 --> 00:09:43.345] TROI: Malencon.
+[00:09:43.665 --> 00:09:44.305] TROI: He's in trouble!
+[00:09:45.265 --> 00:09:47.625] MALENCON: Help! Help! Argh!
+[00:09:47.625 --> 00:09:49.985] RIKER: Can you open
+[00:09:53.425 --> 00:09:53.425] RIKER: it?
+[00:09:53.425 --> 00:09:54.065] MANDL: It's jammed.
+[00:10:19.905 --> 00:10:23.265] LOG: First Officer's log, stardate 41464.3.
+[00:10:23.265 --> 00:10:27.985] LOG: What began as a routine visit to a terraforming site has turned into something far more serious.
+[00:10:28.385 --> 00:10:33.585] LOG: Arthur Malencon, the hydraulics engineer, has been critically injured by a laser drill which appears to have malfunctioned.
+[00:10:37.619 --> 00:10:38.899] PICARD: Situation report, Number One.
+[00:10:41.059 --> 00:10:45.059] RIKER: For safety reasons, we're shutting off all power to the Hydraulics room before entering to recover the body.
+[00:10:45.779 --> 00:10:46.979] RIKER: Then we'll beam him up to Sickbay,
+[00:10:47.699 --> 00:10:49.779] RIKER: but from the look of his wounds, it's probably hopeless.
+[00:10:50.259 --> 00:10:50.899] PICARD: Keep me informed.
+[00:10:52.019 --> 00:10:52.339] LAFORGE: Data ?
+[00:10:53.299 --> 00:10:53.939] DATA: Go ahead, Geordi.
+[00:10:55.139 --> 00:10:55.459] BENSEN: All set.
+[00:10:56.179 --> 00:10:58.419] LAFORGE: Data, we have your section completely powered down
+[00:10:58.419 --> 00:11:01.139] LAFORGE: now. Bensen has just locked the master servomotor drive system. LAFORGE
+[00:11:01.139 --> 00:11:02.259] LAFORGE: So it should be safe in there now.
+[00:11:03.539 --> 00:11:04.019] TASHA: I'm going in.
+[00:11:04.179 --> 00:11:04.819] DATA: I will go with you.
+[00:11:10.339 --> 00:11:10.899] TASHA: Transporter Room,
+[00:11:10.899 --> 00:11:11.779] TASHA: this is Lieutenant Yar.
+[00:11:12.179 --> 00:11:13.139] TASHA: Two to beam up to Sickbay.
+[00:11:20.259 --> 00:11:20.819] LUISA: I want to go.
+[00:11:22.739 --> 00:11:23.539] LUISA: We should be with him.
+[00:11:26.579 --> 00:11:27.539] LUISA: Kurt, please come too.
+[00:11:36.899 --> 00:11:37.459] RIKER: Transporter Room,
+[00:11:37.459 --> 00:11:38.419] RIKER: this is Commander Riker.
+[00:11:38.579 --> 00:11:40.019] RIKER: Beam up four at my co-ordinates.
+[00:11:45.379 --> 00:11:47.059] DATA: Geordi, this is intriguing.
+[00:11:48.179 --> 00:11:49.619] DATA: I have seen malfunctions
+[00:11:51.379 --> 00:11:52.099] DATA: But this is
+[00:11:53.619 --> 00:12:02.659] DATA: almost as if the laser drill seemed to operate itself with a will Separate from it's control console.
+[00:12:04.659 --> 00:12:05.459] BENSEN: I can't explain it.
+[00:12:07.061 --> 00:12:10.181] DATA: The laser blasts seemed to end when the yelling stopped.
+[00:12:12.901 --> 00:12:15.061] BENSEN: Maybe Arthur stopped it, only not in time.
+[00:12:16.741 --> 00:12:17.381] DATA: Not possible.
+[00:12:18.261 --> 00:12:19.141] LAFORGE: Then what are you suggesting?
+[00:12:19.621 --> 00:12:20.101] DATA: Uncertain.
+[00:12:21.221 --> 00:12:25.141] DATA: Geordi, please return power to the control console in this room.
+[00:12:25.461 --> 00:12:27.061] DATA: I wish to reactivate the programme.
+[00:12:27.861 --> 00:12:28.341] LAFORGE: You got it.
+[00:12:35.141 --> 00:12:37.141] DATA: I
+[00:12:41.701 --> 00:12:43.781] DATA: am running the base drilling programme.
+[00:12:49.221 --> 00:12:52.101] DATA: Geordi, servos off.
+[00:12:52.821 --> 00:12:53.301] BENSEN: They are off.
+[00:12:53.781 --> 00:12:54.501] LAFORGE: Data, what's happening?
+[00:12:54.821 --> 00:12:57.861] DATA: Too much to explain.
+[00:12:58.011 --> 00:12:58.611] LAFORGE: Can
+[00:12:59.701 --> 00:13:01.941] LAFORGE: you open that?
+[00:13:02.501 --> 00:13:02.661] LAFORGE: La Forge
+[00:13:02.661 --> 00:13:04.101] LAFORGE: to Enterprise.
+[00:13:04.261 --> 00:13:05.061] LAFORGE: We have a problem.
+[00:13:05.541 --> 00:13:06.021] PICARD: Be specific.
+[00:13:06.581 --> 00:13:09.221] LAFORGE: Data's in the hydraulics room alone, and we're hearing laser blasts.
+[00:13:09.541 --> 00:13:10.101] PICARD: Get him out of there!
+[00:13:11.301 --> 00:13:12.181] BENSEN: It's not working again.
+[00:13:12.181 --> 00:13:13.221] LAFORGE: We've got to get this door open.
+[00:13:13.701 --> 00:13:14.661] LAFORGE: Data! We can't get in!
+[00:13:16.581 --> 00:13:17.381] LAFORGE: Data!
+[00:13:17.381 --> 00:13:17.541] LAFORGE: Data!
+[00:13:17.541 --> 00:13:17.541] LAFORGE: Data!
+[00:13:22.261 --> 00:13:24.261] PICARD: Away
+[00:13:26.821 --> 00:13:27.061] PICARD: team,
+[00:13:27.061 --> 00:13:28.021] PICARD: now. What is happening?
+[00:13:29.461 --> 00:13:31.621] PICARD: I'm going to beam him out of there.
+[00:13:31.621 --> 00:13:33.621] DATA: Bridge, this is Lieutenant Commander Data.
+[00:13:34.375 --> 00:13:35.335] DATA: No need to beam me up, sir.
+[00:13:35.815 --> 00:13:37.175] DATA: The situation is under control.
+[00:13:43.015 --> 00:13:43.655] LAFORGE: Are you all right?
+[00:13:44.135 --> 00:13:44.455] DATA: Yes.
+[00:13:45.015 --> 00:13:45.735] LAFORGE: What happened?
+[00:13:45.735 --> 00:13:47.335] LAFORGE: Did you do anything which might have set it off?
+[00:13:47.895 --> 00:13:48.135] DATA: No,
+[00:13:48.935 --> 00:13:50.535] DATA: but the firing programme was dynamic.
+[00:13:50.855 --> 00:13:52.535] LAFORGE: The firing programme?
+[00:13:52.535 --> 00:13:53.175] LAFORGE: In what way?
+[00:13:53.815 --> 00:13:55.175] DATA: It adjusted to my tactics.
+[00:13:55.495 --> 00:13:57.095] DATA: It tracked with me, anticipating.
+[00:13:57.575 --> 00:13:59.095] DATA: A fixed programme could not have done that.
+[00:13:59.895 --> 00:14:02.695] LAFORGE: Are you suggesting that someone was controlling the aiming and firing sequence?
+[00:14:03.415 --> 00:14:04.775] DATA: That is exactly how it appeared.
+[00:14:05.255 --> 00:14:07.175] DATA: There was a mind working against me.
+[00:14:07.255 --> 00:14:09.015] BENSEN: What did you do to this laser drill?
+[00:14:11.335 --> 00:14:12.935] BENSEN: A year's work
+[00:14:14.055 --> 00:14:15.175] BENSEN: destroyed!
+[00:14:16.295 --> 00:14:17.255] DATA: I had no choice.
+[00:14:24.375 --> 00:14:27.415] DATA: We were attempting to trace the source of the malfunction when it attacked me.
+[00:14:27.895 --> 00:14:28.775] MANDL: How much more of this
+[00:14:29.015 --> 00:14:29.975] MANDL: useless fantasy
+[00:14:29.975 --> 00:14:30.935] MANDL: must I listen to?
+[00:14:31.495 --> 00:14:32.215] PICARD: None at all, Mister
+[00:14:32.215 --> 00:14:32.455] PICARD: Mandl.
+[00:14:32.535 --> 00:14:35.735] PICARD: Until this is sorted out, I've provided temporary quarters for you and your staff.
+[00:14:35.735 --> 00:14:36.935] PICARD: Perhaps you'd like to make use of them.
+[00:14:37.735 --> 00:14:39.815] MANDL: You're overstepping your authority, Picard.
+[00:14:40.135 --> 00:14:42.192] MANDL: You have no right to interfere.
+[00:14:42.192 --> 00:14:42.535] PICARD: Mister
+[00:14:42.535 --> 00:14:42.855] PICARD: Mandl,
+[00:14:42.855 --> 00:14:44.695] PICARD: an attack on one of my crew gives me the right.
+[00:14:45.255 --> 00:14:46.535] MANDL: I have a schedule to meet.
+[00:14:46.855 --> 00:14:50.135] PICARD: Your schedule is on hold, until I have a satisfactory explanation of this.
+[00:14:52.535 --> 00:14:53.095] PICARD: Director Mandl.
+[00:14:55.335 --> 00:14:57.895] PICARD: Lieutenant Yar, would you escort the Director to his quarters.
+[00:14:58.215 --> 00:14:58.535] TASHA: Aye, sir.
+[00:15:02.215 --> 00:15:03.095] PICARD: Go on with your report.
+[00:15:03.875 --> 00:15:06.675] DATA: It would appear the laser's drilling system was reprogrammed, sir.
+[00:15:07.075 --> 00:15:10.755] DATA: As soon as its memory bank received power, it turned itself on and went after me.
+[00:15:11.555 --> 00:15:12.995] DATA: Fortunately, I was able to cope with it.
+[00:15:13.315 --> 00:15:15.075] LAFORGE: And not by much, from what I saw.
+[00:15:15.955 --> 00:15:19.155] DATA: I believe it was programmed to destroy any person moving in that room, sir.
+[00:15:20.035 --> 00:15:21.955] PICARD: Certainty? Or speculation?
+[00:15:21.955 --> 00:15:22.595] DATA: Certainty.
+[00:15:23.075 --> 00:15:25.589] LAFORGE: That would have required the talents of a master programmer.
+[00:15:25.589 --> 00:15:26.595] DATA: But it was done.
+[00:15:27.075 --> 00:15:32.435] PICARD: And so the question becomes not who, since it clearly was one of the three remaining terraformers.
+[00:15:32.595 --> 00:15:33.875] PICARD: The question becomes why?
+[00:15:34.515 --> 00:15:35.235] PICARD: What are they hiding?
+[00:15:36.195 --> 00:15:41.075] PICARD: What could be so important that one or all of them, could be desperate enough to kill?
+[00:15:42.755 --> 00:15:43.795] LAFORGE: Shall I have them brought in, sir?
+[00:15:46.995 --> 00:15:47.395] PICARD: Not yet.
+[00:15:50.035 --> 00:15:50.435] PICARD: Malencon?
+[00:15:51.155 --> 00:15:52.035] CRUSHER: I couldn't save him.
+[00:15:52.195 --> 00:15:54.355] CRUSHER: The injuries were too severe, the damage too extensive.
+[00:15:54.515 --> 00:15:56.595] RIKER: The entire Velara Three facility has been powered down,
+[00:15:57.395 --> 00:15:57.610] RIKER: Captain.
+[00:15:57.610 --> 00:16:00.195] WORF: We've just completed a remote power feed to the life support systems.
+[00:16:00.355 --> 00:16:01.155] PICARD: Good. Data,
+[00:16:01.155 --> 00:16:04.115] PICARD: I want you and Geordi to return for more careful inspection.
+[00:16:04.515 --> 00:16:05.395] DATA: What are we to look for, sir?
+[00:16:05.795 --> 00:16:08.675] PICARD: Evidence of tampering, negligence, sabotage, whatever.
+[00:16:08.835 --> 00:16:10.115] PICARD: The answer's there, on the planet.
+[00:16:10.195 --> 00:16:16.035] PICARD: Tasha, I want you to provide Counsellor Troi and me with complete personnel records on our three guests. Psych profiles, training, everything.
+[00:16:16.035 --> 00:16:20.595] PICARD: I'm looking for motive, intent, the psychological capacity to commit one murder and to attempt another.
+[00:16:20.755 --> 00:16:21.075] TASHA: Aye, sir.
+[00:16:21.555 --> 00:16:23.475] PICARD: It seems we are becoming detectives, Number One.
+[00:16:42.901 --> 00:16:44.261] LAFORGE: Not much left of this drill.
+[00:16:58.981 --> 00:17:01.141] DATA: Geordi, I need some visual assistance.
+[00:17:03.541 --> 00:17:05.541] LAFORGE: Whoa.
+[00:17:05.541 --> 00:17:07.461] LAFORGE: What is it?
+[00:17:12.821 --> 00:17:14.101] LAFORGE: Nothing but basic elements.
+[00:17:15.861 --> 00:17:16.501] LAFORGE: Inorganic.
+[00:17:18.101 --> 00:17:18.581] LAFORGE: No carbon.
+[00:17:19.301 --> 00:17:20.181] LAFORGE: Sandy texture.
+[00:17:21.701 --> 00:17:23.541] LAFORGE: Those flashes are almost
+[00:17:25.221 --> 00:17:25.781] LAFORGE: musical.
+[00:17:28.261 --> 00:17:34.261] LAFORGE: I see colour variations and rhythms in complex harmonies.
+[00:17:39.621 --> 00:17:41.301] DATA: Speculation.
+[00:17:42.021 --> 00:17:42.821] DATA: Could it be alive?
+[00:17:44.501 --> 00:17:45.221] LAFORGE: How could it be alive?
+[00:17:45.221 --> 00:17:46.101] LAFORGE: It's inorganic.
+[00:17:47.701 --> 00:17:51.061] DATA: Whatever it is, it could be what they are covering up,
+[00:17:52.821 --> 00:17:54.661] DATA: and the reason someone killed Malencon.
+[00:18:00.581 --> 00:18:01.621] LOG: Captain's log, supplemental.
+[00:18:02.181 --> 00:18:08.581] LOG: On my order, Data's startling discovery of a possible life form has been beamed aboard so that its true nature might be uncovered.
+[00:18:09.301 --> 00:18:11.861] LOG: But unlike life on Earth and elsewhere, it appears to be
+[00:18:12.088 --> 00:18:13.368] LOG: completely inorganic.
+[00:18:13.928 --> 00:18:15.288] CRUSHER: A test for inorganic life.
+[00:18:15.608 --> 00:18:16.728] DATA: It's never been done, Doctor.
+[00:18:16.888 --> 00:18:18.808] CRUSHER: There are basic definitions for organic life.
+[00:18:19.128 --> 00:18:24.888] CRUSHER: Must have the ability to assimilate, respirate, reproduce, grow and develop, move, secrete and excrete.
+[00:18:24.888 --> 00:18:25.768] PICARD: Would any of those apply here?
+[00:18:26.248 --> 00:18:28.008] CRUSHER: Perhaps growth and development.
+[00:18:28.648 --> 00:18:29.208] DATA: Reproduction?
+[00:18:30.248 --> 00:18:32.248] CRUSHER: Yes. Those two may be basic for
+[00:18:32.488 --> 00:18:35.048] CRUSHER: any definition of life, organic or inorganic.
+[00:18:35.688 --> 00:18:37.528] PICARD: Well, Doctor, you're charging unknown seas.
+[00:18:37.528 --> 00:18:38.248] PICARD: How do we proceed?
+[00:18:39.208 --> 00:18:45.048] CRUSHER: As we're dealing with a fundamental question, let's use the basic scientific method. Observe, theorise and attempt to prove it.
+[00:18:46.088 --> 00:18:46.648] CRUSHER: Activate.
+[00:18:47.208 --> 00:18:48.328] CRUSHER: Let's be sure of what we're dealing with.
+[00:18:48.968 --> 00:18:50.168] CRUSHER: Is the sample organic?
+[00:18:51.048 --> 00:18:51.768] COMPUTER: Negative carbon.
+[00:18:52.408 --> 00:18:54.088] COMPUTER: Negative known life components.
+[00:18:54.648 --> 00:18:55.848] COMPUTER: Substance inorganic.
+[00:18:56.968 --> 00:18:58.088] DATA: Recheck analysis, please.
+[00:18:58.648 --> 00:18:59.208] COMPUTER: Rechecking.
+[00:19:00.008 --> 00:19:01.128] COMPUTER: Analysis verified.
+[00:19:01.688 --> 00:19:02.408] COMPUTER: Not organic.
+[00:19:03.928 --> 00:19:05.048] CRUSHER: Magnify to screen.
+[00:19:09.128 --> 00:19:09.928] CRUSHER: Factor five.
+[00:19:12.008 --> 00:19:12.728] CRUSHER: Hold surface.
+[00:19:14.888 --> 00:19:15.768] CRUSHER: Factor ten.
+[00:19:20.968 --> 00:19:21.608] PICARD: What are we looking at?
+[00:19:22.328 --> 00:19:23.848] WESLEY: It's really beautiful, whatever it is.
+[00:19:28.808 --> 00:19:29.448] PICARD: What's that hum?
+[00:19:30.648 --> 00:19:33.368] DATA: It started after Doctor Crusher ordered the scanner to magnify.
+[00:19:34.328 --> 00:19:35.208] CRUSHER: Computer, de-magnify.
+[00:19:35.848 --> 00:19:37.048] CRUSHER: Resume normal scan.
+[00:19:42.995 --> 00:19:43.795] PICARD: Everyone stand
+[00:19:47.235 --> 00:19:47.955] PICARD: back.
+[00:19:52.675 --> 00:19:53.395] CRUSHER: It's us.
+[00:19:54.915 --> 00:19:55.155] PICARD: Yes,
+[00:19:55.795 --> 00:19:56.355] PICARD: we're causing it.
+[00:19:56.755 --> 00:19:56.995] PICARD: Why?
+[00:19:57.475 --> 00:19:57.875] DATA: Unknown.
+[00:19:58.755 --> 00:20:00.755] DATA: But it is definitely reacting to our presence.
+[00:20:01.555 --> 00:20:04.355] DATA: Perhaps it is picking up the electrical impulse of our systems.
+[00:20:05.315 --> 00:20:06.435] WESLEY: The flashes haven't changed.
+[00:20:07.475 --> 00:20:08.915] WESLEY: Could the hum be connected to the flashing?
+[00:20:10.995 --> 00:20:12.275] CRUSHER: Computer, magnify.
+[00:20:14.595 --> 00:20:15.715] CRUSHER: What is the magnification?
+[00:20:16.435 --> 00:20:18.275] COMPUTER: Twenty five hundred diameters.
+[00:20:20.115 --> 00:20:22.595] CRUSHER: Analyse the pattern of the flashes.
+[00:20:23.875 --> 00:20:25.795] COMPUTER: Not repetitive or sequential.
+[00:20:25.795 --> 00:20:27.555] COMPUTER: Pattern not recognised.
+[00:20:28.995 --> 00:20:30.195] CRUSHER: What is the source of the flashes?
+[00:20:30.835 --> 00:20:32.115] COMPUTER: Unable to specify.
+[00:20:32.915 --> 00:20:34.835] COMPUTER: Theoretically not possible from this substance.
+[00:20:36.595 --> 00:20:38.115] CRUSHER: Disregard incongruity
+[00:20:39.875 --> 00:20:41.395] CRUSHER: and theorise as to source.
+[00:20:42.835 --> 00:20:44.835] COMPUTER: Life.
+[00:20:58.675 --> 00:20:59.715] MANDL: What do you mean a life form?!
+[00:21:00.195 --> 00:21:01.235] MANDL: What life form?!
+[00:21:02.275 --> 00:21:05.155] MANDL: A Federation recon expedition certified Velara Three lifeless.
+[00:21:05.635 --> 00:21:11.075] PICARD: Understandable, given this particular life form's novel nature.
+[00:21:11.515 --> 00:21:12.475] MANDL: What is that nature?
+[00:21:13.195 --> 00:21:15.675] PICARD: Doctor Crusher is still making her determination. Mister Mandl,
+[00:21:17.275 --> 00:21:18.315] PICARD: you know the Prime Directive.
+[00:21:19.835 --> 00:21:22.155] MANDL: Are you saying that I knowingly defied it?
+[00:21:22.795 --> 00:21:23.835] PICARD: That's what I have to find out.
+[00:21:23.835 --> 00:21:25.195] PICARD: You're a man obsessed with what you do.
+[00:21:25.515 --> 00:21:28.475] PICARD: Who knows what an obsessed man will do to keep going?
+[00:21:29.035 --> 00:21:29.915] PICARD: Kill, perhaps?
+[00:21:31.195 --> 00:21:32.315] MANDL: I create life.
+[00:21:36.795 --> 00:21:37.675] MANDL: I don't take it.
+[00:21:42.075 --> 00:21:44.075] RIKER: You
+[00:21:45.675 --> 00:21:46.634] RIKER: hit him pretty hard, Captain.
+[00:21:48.555 --> 00:21:49.275] PICARD: What do you think, Counsellor?
+[00:21:50.155 --> 00:21:50.955] TROI: It was useful.
+[00:21:51.915 --> 00:21:52.955] TROI: I felt two levels.
+[00:21:53.515 --> 00:21:57.435] TROI: He did know about the life form, but the idea of murder seemed to shock him.
+[00:21:57.835 --> 00:22:01.115] TROI: Whether it was the whole idea, or just being accused of it, I can't tell.
+[00:22:02.235 --> 00:22:03.675] PICARD: What about his file, Lieutenant Yar?
+[00:22:04.315 --> 00:22:06.875] PICARD: Could he have accomplished the reprogramming that Data says took place?
+[00:22:07.355 --> 00:22:11.115] TASHA: Mandl holds advanced degrees in computer science as well as artificial intelligence.
+[00:22:11.435 --> 00:22:12.075] TASHA: It's possible.
+[00:22:12.715 --> 00:22:14.394] PICARD: What about the others? Including the victim.
+[00:22:14.955 --> 00:22:17.515] TASHA: Only the victim had the required expertise.
+[00:22:17.995 --> 00:22:21.275] TASHA: Malencon did work where the whatever it is was found.
+[00:22:21.995 --> 00:22:24.395] TASHA: Trying to suppress that knowledge would be motive for murder,
+[00:22:25.195 --> 00:22:27.239] TASHA: if Mandl were obsessed enough.
+[00:22:27.239 --> 00:22:28.875] TROI: Terraformers are often obsessive.
+[00:22:29.355 --> 00:22:31.195] TROI: It frequently goes with the career profile.
+[00:22:32.075 --> 00:22:33.035] RIKER: How do you read the designer?
+[00:22:34.154 --> 00:22:36.315] TROI: She's possessed of highly abstracted reality.
+[00:22:37.062 --> 00:22:41.702] TROI: Lovely visions, little data. You might do better than I.
+[00:22:51.062 --> 00:22:53.782] LUISA: It's not locked.
+[00:23:02.582 --> 00:23:03.142] RIKER: Mind a visitor?
+[00:23:08.182 --> 00:23:08.742] LUISA: Is it true?
+[00:23:12.822 --> 00:23:14.262] LUISA: Did you really find a life form?
+[00:23:15.542 --> 00:23:19.862] RIKER: The debate is still going on in some quarters, but I think so,
+[00:23:19.862 --> 00:23:20.262] RIKER: yes.
+[00:23:22.582 --> 00:23:23.222] LUISA: What's it like?
+[00:23:25.142 --> 00:23:26.582] RIKER: We have nothing we can compare it with.
+[00:23:27.862 --> 00:23:28.742] RIKER: It's microscopic.
+[00:23:29.222 --> 00:23:32.102] RIKER: It seems colonial, simple.
+[00:23:33.782 --> 00:23:37.302] RIKER: But it's inorganic. Which is why the recon scouts missed it.
+[00:23:37.302 --> 00:23:38.662] RIKER: It was not your mistake.
+[00:23:44.662 --> 00:23:47.062] LUISA: Everything I've worked so hard for
+[00:23:49.782 --> 00:23:52.902] LUISA: is falling apart.
+[00:23:55.862 --> 00:23:57.862] RIKER: Luisa,
+[00:24:00.822 --> 00:24:02.822] RIKER: it's
+[00:24:05.302 --> 00:24:06.214] RIKER: very beautiful.
+[00:24:06.806 --> 00:24:10.022] RIKER: I could arrange for you to see it if you like.
+[00:24:13.160 --> 00:24:13.800] LUISA: Perhaps later.
+[00:24:31.080 --> 00:24:31.320] CRUSHER: Captain,
+[00:24:31.400 --> 00:24:32.200] CRUSHER: this is Doctor Crusher.
+[00:24:32.520 --> 00:24:33.720] CRUSHER: I think you'd better come to the Medical
+[00:24:35.400 --> 00:24:37.400] CRUSHER: Lab.
+[00:24:41.800 --> 00:24:42.120] PICARD: What is it?
+[00:24:42.760 --> 00:24:43.960] CRUSHER: Geordi observed movement.
+[00:24:44.040 --> 00:24:46.920] LAFORGE: Not movement exactly, but a definite shift in the energy pattern.
+[00:24:47.000 --> 00:24:47.750] DATA: Without external influence.
+[00:24:47.750 --> 00:24:49.000] PICARD: The hum has gone too.
+[00:24:49.000 --> 00:24:49.320] PICARD: Why?
+[00:24:50.280 --> 00:24:50.760] DATA: Unknown, sir.
+[00:24:51.240 --> 00:24:52.440] DATA: Perhaps it is scanning us.
+[00:24:52.920 --> 00:24:53.640] PICARD: Scanning us?
+[00:24:54.040 --> 00:24:54.280] PICARD: Why?
+[00:24:54.600 --> 00:24:55.320] PICARD: What could it hope to learn?
+[00:24:56.360 --> 00:24:57.400] DATA: Unknown at this time, sir.
+[00:24:58.520 --> 00:24:59.080] LAFORGE: It's changing.
+[00:25:00.360 --> 00:25:00.440] PICARD: I
+[00:25:02.120 --> 00:25:02.680] PICARD: don't see anything.
+[00:25:03.160 --> 00:25:04.600] LAFORGE: The infrared range is increasing.
+[00:25:07.720 --> 00:25:07.960] COMPUTER: Warning.
+[00:25:08.600 --> 00:25:09.320] COMPUTER: Input overload.
+[00:25:11.000 --> 00:25:11.560] CRUSHER: The hum is back.
+[00:25:11.720 --> 00:25:13.427] DATA: It is projecting an energy field.
+[00:25:13.427 --> 00:25:14.280] LAFORGE: And it's intensifying!
+[00:25:16.600 --> 00:25:16.920] COMPUTER: Magnification
+[00:25:19.640 --> 00:25:19.720] COMPUTER: deactivated.
+[00:25:19.880 --> 00:25:20.040] CRUSHER: Two
+[00:25:23.640 --> 00:25:23.640] CRUSHER: of them!
+[00:25:25.560 --> 00:25:27.480] DATA: Only
+[00:25:29.400 --> 00:25:31.320] DATA: life
+[00:25:33.240 --> 00:25:35.160] DATA: can
+[00:25:37.080 --> 00:25:39.000] DATA: replicate itself, Doctor.
+[00:25:40.974 --> 00:25:41.854] DATA: Inorganic or not,
+[00:25:43.374 --> 00:25:43.934] DATA: it is alive.
+[00:25:51.134 --> 00:25:52.494] CRUSHER: Activate quarantine field.
+[00:25:57.774 --> 00:25:58.734] CRUSHER: Quarantine field full.
+[00:26:01.134 --> 00:26:02.254] CRUSHER: Full shield backup!
+[00:26:06.254 --> 00:26:07.134] CRUSHER: Evacuating lab.
+[00:26:07.854 --> 00:26:09.854] COMPUTER: Translation request being patched.
+[00:26:10.734 --> 00:26:11.774] PICARD: Translation? From whom?
+[00:26:11.774 --> 00:26:13.374] CRUSHER: Evacuate.
+[00:26:13.374 --> 00:26:14.974] WESLEY: What's wrong on with the translator circuit?
+[00:26:15.374 --> 00:26:18.494] PICARD: Bridge, this is the Captain.
+[00:26:18.734 --> 00:26:23.454] PICARD: Request emergency power to initiate
+[00:26:25.134 --> 00:26:27.934] PICARD: lab quarantine seal.
+[00:26:29.374 --> 00:26:29.454] RIKER: Do it, Mister
+[00:26:29.774 --> 00:26:29.934] RIKER: Worf.
+[00:26:30.414 --> 00:26:30.814] WORF: Aye, sir.
+[00:26:30.814 --> 00:26:32.734] RIKER: What's the nature of the problem, Captain?
+[00:26:32.814 --> 00:26:33.454] RIKER: We've lost visual.
+[00:26:34.254 --> 00:26:40.414] PICARD: We have confirmed that Data's discovery is life. But more than that, it is intelligent life.
+[00:26:40.414 --> 00:26:40.414] RIKER: How
+[00:26:44.014 --> 00:26:44.494] RIKER: do you know, sir?
+[00:26:50.174 --> 00:26:51.374] PICARD: It's trying to communicate with us.
+[00:26:56.894 --> 00:26:58.014] LOG: Captain's log, supplemental.
+[00:26:58.334 --> 00:27:02.414] LOG: The inorganic life form from Velara Three has apparently taken over our Medical Lab.
+[00:27:03.934 --> 00:27:06.494] WORF: It generates enough energy to interfere with the surrounding systems.
+[00:27:06.654 --> 00:27:06.894] PICARD: Mister
+[00:27:06.894 --> 00:27:08.094] PICARD: La Forge, can we see into the lab yet?
+[00:27:08.334 --> 00:27:09.054] LAFORGE: Negative, Captain.
+[00:27:09.374 --> 00:27:11.374] LAFORGE: Reducing the backup to the quarantine seal might help.
+[00:27:11.685 --> 00:27:12.165] PICARD: Doctor?
+[00:27:12.165 --> 00:27:13.125] CRUSHER: I wouldn't.
+[00:27:13.685 --> 00:27:14.365] PICARD: Continue quarantine.
+[00:27:14.365 --> 00:27:15.045] LAFORGE: Aye, sir.
+[00:27:15.205 --> 00:27:18.325] TASHA: Director Mandl and the others are in the Observation Lounge as you requested.
+[00:27:18.884 --> 00:27:19.845] PICARD: Counsellor, I shall need you.
+[00:27:20.005 --> 00:27:21.045] PICARD: You have the Bridge, Number One.
+[00:27:26.245 --> 00:27:28.644] PICARD: Director Mandl, I put it to you again.
+[00:27:28.644 --> 00:27:30.325] PICARD: What do you know about these life forms?
+[00:27:30.644 --> 00:27:31.685] MANDL: Not a thing.
+[00:27:32.165 --> 00:27:32.644] PICARD: Enough!
+[00:27:36.085 --> 00:27:36.805] PICARD: Sit down, Lieutenant.
+[00:27:37.765 --> 00:27:39.605] PICARD: You are deliberately evasive and it must stop.
+[00:27:40.085 --> 00:27:42.485] PICARD: You have kept information from me since our first communication.
+[00:27:42.965 --> 00:27:46.325] PICARD: An alien life form has taken possession of my Medical Lab.
+[00:27:48.965 --> 00:27:50.165] PICARD: You knew of its existence.
+[00:27:51.845 --> 00:27:52.245] MANDL: Yes.
+[00:27:53.285 --> 00:27:54.085] LUISA: Is this true?
+[00:27:54.805 --> 00:27:56.644] LUISA: You knew there was life on Velara Three?
+[00:27:57.445 --> 00:28:00.085] MANDL: I knew that there were random energy patterns,
+[00:28:00.245 --> 00:28:02.965] MANDL: yes, I knew that. But not life.
+[00:28:03.925 --> 00:28:05.765] MANDL: Not by any definition I have ever heard.
+[00:28:06.485 --> 00:28:09.125] TROI: But you tried to keep that knowledge from us.
+[00:28:09.605 --> 00:28:10.405] MANDL: No!
+[00:28:10.884 --> 00:28:14.245] MANDL: They are meaningless silicon crystals, which rebroadcast sunlight.
+[00:28:14.965 --> 00:28:16.884] PICARD: It is a life form and it has intelligence.
+[00:28:20.565 --> 00:28:21.525] MANDL: Why do you say that?
+[00:28:22.485 --> 00:28:23.845] PICARD: It's trying to communicate with us.
+[00:28:24.884 --> 00:28:25.925] MANDL: Communicate with you?
+[00:28:27.445 --> 00:28:28.565] PICARD: When did you first become aware of them?
+[00:28:31.445 --> 00:28:33.045] BENSEN: Tell them about the pattern in the sand.
+[00:28:34.085 --> 00:28:34.725] PICARD: Oh, yes.
+[00:28:35.285 --> 00:28:35.765] PICARD: Do tell us.
+[00:28:40.005 --> 00:28:41.765] BENSEN: When we first arrived, we noticed that
+[00:28:42.033 --> 00:28:48.993] BENSEN: in certain areas the sand had a sparkling effect, like sunlight bouncing off new fallen snow.
+[00:28:49.873 --> 00:28:50.673] PICARD: What did you think it was?
+[00:28:51.473 --> 00:28:53.953] BENSEN: Honestly, we did not give it any thought.
+[00:28:55.153 --> 00:29:09.073] MANDL: Picard, I must point out again that we were assured, not once but many times, by the best scientific minds in the Federation, that this planet has no life. No life!
+[00:29:10.193 --> 00:29:10.993] MANDL: And we were not looking,
+[00:29:12.193 --> 00:29:13.393] MANDL: and therefore we did not see.
+[00:29:14.193 --> 00:29:14.433] PICARD: All right.
+[00:29:14.673 --> 00:29:21.473] PICARD: At first you dismissed it. But then you began to understand that there was something that was different about them.
+[00:29:22.353 --> 00:29:24.113] MANDL: You can't know that.
+[00:29:24.113 --> 00:29:26.673] PICARD: Your apprehension suggested it, when we first arrived.
+[00:29:28.033 --> 00:29:29.313] PICARD: Tell me about these patterns.
+[00:29:30.913 --> 00:29:34.113] BENSEN: At first we thought it was just a natural phenomenon unique to Velara Three.
+[00:29:34.193 --> 00:29:40.353] MANDL: Refraction and a thin atmosphere is interesting, but certainly not life.
+[00:29:40.673 --> 00:29:42.273] LUISA: Why was I never told about this?
+[00:29:42.753 --> 00:29:44.593] MANDL: Because it's not particularly important.
+[00:29:46.113 --> 00:29:51.153] BENSEN: As the building of the terraforming station went forward, the patterns in the sand ceased being random
+[00:29:51.553 --> 00:29:59.873] BENSEN: and became very specific. Geometric shapes suddenly appearing, disappearing, changing location, changing size.
+[00:30:00.433 --> 00:30:05.313] PICARD: Did you ever feel that these patterns were attempting to communicate?
+[00:30:09.153 --> 00:30:10.033] MANDL: No, never.
+[00:30:12.139 --> 00:30:12.459] PICARD: Bensen?
+[00:30:13.979 --> 00:30:14.619] BENSEN: I don't know.
+[00:30:15.339 --> 00:30:17.659] BENSEN: At the time, I didn't think so.
+[00:30:18.219 --> 00:30:23.979] BENSEN: But now, after hearing what you just said. Now, I don't know.
+[00:30:24.539 --> 00:30:27.179] RIKER: Captain, we've regained magnification of the life form.
+[00:30:27.339 --> 00:30:28.219] RIKER: It's divided again.
+[00:30:28.939 --> 00:30:30.219] PICARD: Patch visual to Observation lounge.
+[00:30:37.259 --> 00:30:40.619] MANDL: There was no indication of any of this on Velara Three.
+[00:30:41.179 --> 00:30:42.459] BENSEN: Absolutely none.
+[00:30:46.699 --> 00:30:48.139] WORF: I cannot understand the patterns.
+[00:30:48.299 --> 00:30:49.819] LAFORGE: Neither can I.
+[00:30:50.379 --> 00:30:53.419] DATA: Please show me the spectral analysis magnification twelve K.
+[00:30:54.059 --> 00:30:55.163] COMPUTER: Silicon. Germanium.
+[00:30:55.163 --> 00:30:56.267] DATA: Transistor material.
+[00:30:56.267 --> 00:30:57.371] COMPUTER: Gallium arsenide.
+[00:30:57.371 --> 00:30:59.579] LAFORGE: Emits light when charged.
+[00:30:59.659 --> 00:31:00.928] COMPUTER: Cadmium selenide sulfide.
+[00:31:00.928 --> 00:31:02.619] DATA: Emits charge when lit.
+[00:31:02.939 --> 00:31:05.435] COMPUTER: Water, impurities, sodium salts.
+[00:31:05.435 --> 00:31:06.059] WORF: Conductor.
+[00:31:09.579 --> 00:31:10.459] WORF: But is it alive?!
+[00:31:10.939 --> 00:31:11.979] COMPUTER: Probability positive.
+[00:31:12.539 --> 00:31:13.579] WORF: I wasn't asking you.
+[00:31:14.619 --> 00:31:15.739] CREWWOMAN: Engineering to Bridge.
+[00:31:16.459 --> 00:31:17.339] RIKER: This is Commander Riker,
+[00:31:17.339 --> 00:31:17.739] RIKER: go ahead.
+[00:31:18.459 --> 00:31:20.699] CREWWOMAN: The backup on the lab seal is fluctuating, sir.
+[00:31:21.659 --> 00:31:23.259] CREWWOMAN: I think you should come down here.
+[00:31:24.299 --> 00:31:24.859] RIKER: On my way.
+[00:31:26.779 --> 00:31:28.379] RIKER: Data, you've got the Bridge.
+[00:31:28.859 --> 00:31:29.419] RIKER: Inform the Captain.
+[00:31:35.419 --> 00:31:36.159] RIKER: Status, Ensign?
+[00:31:36.159 --> 00:31:38.379] CREWWOMAN: The quarantine seal is getting weaker.
+[00:31:39.499 --> 00:31:41.899] CREWWOMAN: Every time I try to redirect backup it goes somewhere else.
+[00:31:42.459 --> 00:31:42.859] CREWWOMAN: I think I've.
+[00:31:43.842 --> 00:31:45.282] CREWWOMAN: No, it's locked
+[00:31:45.442 --> 00:31:48.642] CREWWOMAN: three people in a turbolift and two more in the programmers' rest room.
+[00:31:49.282 --> 00:31:50.882] RIKER: If that reading is right, there is no seal.
+[00:31:51.522 --> 00:31:52.562] RIKER: Give me lab interior image.
+[00:31:52.802 --> 00:31:53.122] CREWWOMAN: Yes, sir.
+[00:31:57.922 --> 00:31:58.402] RIKER: Magnify.
+[00:32:02.482 --> 00:32:03.442] RIKER: Picard, this is Riker.
+[00:32:04.802 --> 00:32:05.602] PICARD: We see it too, Number
+[00:32:08.962 --> 00:32:09.602] PICARD: One.
+[00:32:13.122 --> 00:32:15.122] PICARD: Get that seal back up.
+[00:32:15.122 --> 00:32:15.522] CREWWOMAN: Sir,
+[00:32:15.842 --> 00:32:17.922] CREWWOMAN: no matter what I do, the energy goes somewhere else.
+[00:32:18.082 --> 00:32:19.922] CREWWOMAN: What if it hits the Sickbay, or nursery?
+[00:32:20.002 --> 00:32:20.322] RIKER: Hold off.
+[00:32:21.042 --> 00:32:21.762] RIKER: Impossible, Captain.
+[00:32:21.762 --> 00:32:22.562] RIKER: We haven't got the power.
+[00:32:25.522 --> 00:32:26.722] LOG: Captain's log, supplemental.
+[00:32:26.962 --> 00:32:31.842] LOG: The life form, which has significantly increased in size, is again attempting to communicate with us.
+[00:32:33.602 --> 00:32:35.682] DATA: The Universal Translator is coming online, sir.
+[00:32:36.962 --> 00:32:42.898] VOICE: Ugly, ugly giants bags of mostly water
+[00:32:43.202 --> 00:32:44.402] PICARD: Bags of mostly water?
+[00:32:45.442 --> 00:32:47.042] DATA: An accurate description of humans, sir.
+[00:32:47.362 --> 00:32:50.242] DATA: You are over ninety per cent water surrounded by a flexible container.
+[00:32:53.202 --> 00:32:54.322] CRUSHER: Life force,
+[00:32:54.962 --> 00:32:56.642] CRUSHER: do you understand us?
+[00:33:00.002 --> 00:33:00.882] VOICE: We understand.
+[00:33:01.602 --> 00:33:03.602] VOICE: We ask you that you be gone.
+[00:33:04.002 --> 00:33:04.482] VOICE: We call.
+[00:33:05.042 --> 00:33:05.762] VOICE: We talk.
+[00:33:06.482 --> 00:33:07.842] VOICE: You not listen.
+[00:33:08.002 --> 00:33:08.802] PICARD: We didn't hear you.
+[00:33:09.902 --> 00:33:11.573] PICARD: We come in peace.
+[00:33:11.573 --> 00:33:13.662] VOICE: Ugly bags of mostly water,
+[00:33:14.222 --> 00:33:19.182] VOICE: we try at peace. You still do not listen.
+[00:33:19.902 --> 00:33:20.942] VOICE: Bags who
+[00:33:20.942 --> 00:33:23.342] VOICE: drill in sands of home have to die.
+[00:33:24.462 --> 00:33:25.582] RIKER: It killed Malencon.
+[00:33:28.062 --> 00:33:29.742] TROI: We see and hear you now.
+[00:33:30.862 --> 00:33:32.222] TROI: We didn't know you were there.
+[00:33:33.822 --> 00:33:35.582] TROI: You are beautiful to us.
+[00:33:37.422 --> 00:33:39.262] TROI: All life is beautiful.
+[00:33:40.702 --> 00:33:42.542] VOICE: Bag in dome did know.
+[00:33:43.182 --> 00:33:47.502] VOICE: Caused much death. Made us kill.
+[00:33:48.302 --> 00:33:50.702] VOICE: War is now with you.
+[00:33:53.422 --> 00:33:54.862] DATA: The translator is now offline, sir.
+[00:33:57.022 --> 00:33:57.902] PICARD: Can you hear us now?
+[00:34:02.302 --> 00:34:02.782] PICARD: Mister La Forge?
+[00:34:03.182 --> 00:34:04.382] LAFORGE: Restabilising, Captain.
+[00:34:05.022 --> 00:34:05.262] DATA: Sir,
+[00:34:06.222 --> 00:34:11.102] DATA: that chaos when we were studying it in the lab must have been the energy surge of a reproductive cycle.
+[00:34:12.382 --> 00:34:15.262] DATA: It is now a colony of single cells which organize as a computer.
+[00:34:15.822 --> 00:34:17.971] DATA: And like any computer
+[00:34:17.971 --> 00:34:19.582] PICARD: More is stronger.
+[00:34:29.662 --> 00:34:30.862] LOG: Captain's log, supplemental.
+[00:34:31.262 --> 00:34:38.862] LOG: We have regained visual contact with the lab, but our attempts to restore communication with this microbrain, as we have come to call it, has been unsuccessful.
+[00:34:39.502 --> 00:34:40.302] LOG: One thing that is certain,
+[00:34:40.382 --> 00:34:43.262] LOG: however. This life form has declared war on us.
+[00:34:44.505 --> 00:34:47.065] RIKER: Their range of influence appears to be concentrated in the Medical Lab, Captain.
+[00:34:47.385 --> 00:34:50.585] TASHA: All non-essential personnel have been moved to the most distant areas of the ship, sir.
+[00:34:50.665 --> 00:34:50.985] PICARD: Data,
+[00:34:51.145 --> 00:34:52.985] PICARD: any analysis of those bolts of light it emits?
+[00:34:53.545 --> 00:34:55.785] DATA: That seems to be it's method of reprogramming, Captain.
+[00:34:56.025 --> 00:35:01.225] DATA: Each bolt of light consists of negatively and positively charged ions. A series of programme instructions, as it were.
+[00:35:02.665 --> 00:35:04.985] DATA: It seems to have a quicker rapport with our computers than we have.
+[00:35:05.385 --> 00:35:06.265] WORF: What do you expect?
+[00:35:06.585 --> 00:35:07.545] WORF: It is computer.
+[00:35:08.265 --> 00:35:10.585] PICARD: Have we disabled the Medical Lab computer console?
+[00:35:10.745 --> 00:35:11.145] RIKER: Aye, sir.
+[00:35:11.305 --> 00:35:13.465] RIKER: As soon as Data determined the microbrain's method of operation.
+[00:35:13.705 --> 00:35:16.745] LAFORGE: Captain, picking up a decrease in infra-red intensity.
+[00:35:17.625 --> 00:35:19.545] WORF: Maybe the life-form has reached its energy level.
+[00:35:20.025 --> 00:35:21.465] CRUSHER: Or maybe that's not the end of it.
+[00:35:22.585 --> 00:35:29.145] CRUSHER: With single-celled life forms, at least organic ones, cell division is preceded by a resting state.
+[00:35:30.185 --> 00:35:31.305] RIKER: The calm before the storm?
+[00:35:32.185 --> 00:35:33.225] PICARD: Medical Lab on main viewer.
+[00:35:33.545 --> 00:35:34.585] PICARD: Let's use this calm.
+[00:35:40.665 --> 00:35:41.865] DATA: It does seem dormant, Captain.
+[00:35:45.065 --> 00:35:45.305] PICARD: Tasha,
+[00:35:49.145 --> 00:35:51.145] PICARD: set coordinates to beam it back where it came from.
+[00:35:53.785 --> 00:35:54.425] TASHA: Coordinates set, sir.
+[00:35:55.705 --> 00:35:56.185] PICARD: Energise.
+[00:36:04.185 --> 00:36:07.625] LAFORGE: Transporter power being redirected, sir.
+[00:36:08.425 --> 00:36:09.785] LAFORGE: We are unable to affect it.
+[00:36:19.127 --> 00:36:25.447] PICARD: Life form or not, intelligent or not , the safety of this ship and everyone aboard her is my primary responsibility. Data,
+[00:36:28.167 --> 00:36:29.847] PICARD: evacuate all the air from the Medical Lab.
+[00:36:30.007 --> 00:36:30.887] PICARD: I want a vacuum there.
+[00:36:34.327 --> 00:36:36.727] DATA: Environmental systems fail to respond to command, Captain.
+[00:36:38.167 --> 00:36:41.367] DATA: It appears the microbrain has successfully interfaced with our computers.
+[00:36:47.847 --> 00:36:51.127] MANDL: Picard, if it did try to communicate with us, we didn't understand that.
+[00:36:51.207 --> 00:36:53.527] PICARD: It has declared a state of war and we are on the defensive.
+[00:36:54.087 --> 00:36:56.967] PICARD: We have no control over our Medical Lab nor our computer. At this moment
+[00:36:56.967 --> 00:36:59.687] PICARD: it has the power to destroy this ship and everybody on it.
+[00:37:00.647 --> 00:37:01.367] PICARD: I need your help.
+[00:37:01.687 --> 00:37:02.647] MANDL: Unbelievable.
+[00:37:03.207 --> 00:37:04.567] PICARD: It said you killed some of them.
+[00:37:04.567 --> 00:37:05.447] PICARD: I need to know how.
+[00:37:05.927 --> 00:37:06.967] MANDL: I don't know.
+[00:37:08.327 --> 00:37:10.247] PICARD: What was Malencon doing when he was killed?
+[00:37:11.287 --> 00:37:14.807] LUISA: There is a very thin layer of highly saline water under the sandy top soil.
+[00:37:15.047 --> 00:37:16.167] LUISA: He was siphoning that off.
+[00:37:17.527 --> 00:37:20.247] CRUSHER: Perhaps somehow that saline water sustained them.
+[00:37:20.647 --> 00:37:21.367] DATA: It connected them.
+[00:37:22.247 --> 00:37:23.207] LUISA: I don't understand.
+[00:37:23.207 --> 00:37:25.447] CRUSHER: The microbrains may be like our own brain cells.
+[00:37:25.767 --> 00:37:28.167] CRUSHER: Individually, a cell has life but not intelligence.
+[00:37:28.567 --> 00:37:32.247] CRUSHER: Yet when interconnected, their combined intelligence is formidable.
+[00:37:32.887 --> 00:37:36.567] DATA: The saline fluid is their circuitry, and to prevent its loss,
+[00:37:37.174 --> 00:37:38.054] DATA: they killed Malencon.
+[00:37:41.894 --> 00:37:43.894] LUISA: If we had continued to remove that water,
+[00:37:46.774 --> 00:37:47.974] LUISA: we would have destroyed them all.
+[00:37:49.494 --> 00:37:51.174] PICARD: Reason enough for anyone to go to war.
+[00:37:54.374 --> 00:37:55.814] RIKER: Captain, it's happening again.
+[00:37:56.134 --> 00:37:56.774] RIKER: I think you'd better get
+[00:37:58.294 --> 00:38:00.294] RIKER: in here.
+[00:38:09.574 --> 00:38:11.094] RIKER: If this keeps up, it will tear up the Enterprise.
+[00:38:11.414 --> 00:38:12.694] PICARD: What can you determine, Mister La Forge?
+[00:38:12.854 --> 00:38:18.534] DATA: Captain, our sensors indicate that the microbrain expends a tremendous amount of energy during its reproductive cycle.
+[00:38:18.854 --> 00:38:21.414] DATA: Yet there is no discernible power drain on our own systems.
+[00:38:21.574 --> 00:38:22.774] PICARD: Then what is feeding the damn thing?
+[00:38:23.014 --> 00:38:24.694] LAFORGE: We found traces of cadmium salts.
+[00:38:24.934 --> 00:38:28.054] LAFORGE: Now, cadmium is a conduit for converting infra-red into electricity.
+[00:38:28.294 --> 00:38:28.614] PICARD: Meaning?
+[00:38:28.694 --> 00:38:31.174] DATA: Meaning the microbrains might be photoelectric.
+[00:38:33.334 --> 00:38:37.494] PICARD: Kill the lights in the medical lab, Mister La Forge. Let's see if darkness will neutralise it.
+[00:38:38.854 --> 00:38:40.694] LAFORGE: Sorry, sir, it still has control of the computer.
+[00:38:40.694 --> 00:38:41.814] LAFORGE: We can't do it by remote.
+[00:38:41.894 --> 00:38:42.454] PICARD: Number One, light.
+[00:38:45.814 --> 00:38:50.614] LUISA: The life form must have evolved at that narrow layer where the light got through the sand to the water.
+[00:38:51.894 --> 00:38:54.694] LUISA: Drop the water a centimetre below the light penetration level,
+[00:38:56.694 --> 00:38:57.414] LUISA: and they starve.
+[00:39:08.054 --> 00:39:10.454] RIKER: Killing lab lights now.
+[00:39:15.199 --> 00:39:15.919] TASHA: It's slowing down.
+[00:39:18.479 --> 00:39:19.759] LAFORGE: It's getting dimmer, too.
+[00:39:22.159 --> 00:39:24.079] VOICE: More light please.
+[00:39:24.719 --> 00:39:25.919] PICARD: Only if you will talk to us.
+[00:39:27.199 --> 00:39:30.879] VOICE: We die. Bags of water
+[00:39:31.279 --> 00:39:31.919] VOICE: kill us.
+[00:39:32.799 --> 00:39:35.439] VOICE: You are like others.
+[00:39:37.039 --> 00:39:38.319] PICARD: We have no wish to kill you.
+[00:39:38.319 --> 00:39:38.959] PICARD: We never have.
+[00:39:39.679 --> 00:39:41.839] VOICE: You do not say truth.
+[00:39:43.119 --> 00:39:46.319] PICARD: We will end this war, if you will end the war.
+[00:39:47.839 --> 00:39:54.959] VOICE: Darkness. Death. Terrible. Must go home to wet sand.
+[00:39:56.399 --> 00:39:57.759] VOICE: War over.
+[00:39:59.999 --> 00:40:00.399] PICARD: Agreed.
+[00:40:00.399 --> 00:40:03.519] PICARD: We will send you home to your wet sand.
+[00:40:05.119 --> 00:40:05.599] PICARD: Picard to Riker.
+[00:40:07.359 --> 00:40:09.519] PICARD: Bring up the lights in the lab, just a bit.
+[00:40:17.119 --> 00:40:17.599] PICARD: Are you better?
+[00:40:18.959 --> 00:40:19.279] VOICE: Better.
+[00:40:20.719 --> 00:40:21.759] PICARD: We mean you no harm.
+[00:40:23.199 --> 00:40:23.919] PICARD: Do you believe me?
+[00:40:25.039 --> 00:40:25.279] VOICE: Yes.
+[00:40:25.919 --> 00:40:26.159] PICARD: Good.
+[00:40:27.759 --> 00:40:29.279] PICARD: It is important that you trust us.
+[00:40:31.359 --> 00:40:32.319] VOICE: Not yet.
+[00:40:33.359 --> 00:40:38.639] VOICE: You are still too arrogant. Too primitive.
+[00:40:39.919 --> 00:40:42.719] VOICE: Come back three centuries.
+[00:40:44.482 --> 00:40:46.722] VOICE: Perhaps then we trust.
+[00:40:51.762 --> 00:40:52.882] PICARD: We understand what you are saying.
+[00:40:55.042 --> 00:40:55.922] PICARD: We will leave you.
+[00:40:58.962 --> 00:41:00.162] PICARD: We will send you home.
+[00:41:22.242 --> 00:41:23.362] RIKER: Riker to Transporter Chief.
+[00:41:24.802 --> 00:41:27.202] RIKER: Pick up the coordinates of the bell jar in the Medical Lab
+[00:41:28.162 --> 00:41:30.322] RIKER: for return to Velara Three.
+[00:41:30.882 --> 00:41:32.002] CHIEF: Coordinates entered, sir.
+[00:41:38.962 --> 00:41:40.722] RIKER: Riker to Bridge.
+[00:41:42.722 --> 00:41:43.202] RIKER: Captain,
+[00:41:45.682 --> 00:41:46.962] RIKER: we're ready to beam it back to the planet.
+[00:41:50.002 --> 00:41:51.842] DATA: I wish we were able to learn more about them, sir.
+[00:41:52.082 --> 00:41:55.202] PICARD: In time, Mister Data. When we're better prepared.
+[00:41:57.522 --> 00:42:00.722] MANDL: I wanted to create a place where living things could thrive,
+[00:42:02.242 --> 00:42:06.802] MANDL: and all the while I was about to destroy the life that is there.
+[00:42:08.322 --> 00:42:09.762] TROI: Our apologies.
+[00:42:09.762 --> 00:42:12.642] PICARD: And respects. Lieutenant Yar.
+[00:42:13.064 --> 00:42:13.784] TASHA: Co-ordinates set, sir.
+[00:42:15.864 --> 00:42:17.864] PICARD: Energise.
+[00:42:28.424 --> 00:42:31.384] LOG: Captain's log, stardate 41464.8.
+[00:42:32.024 --> 00:42:38.584] LOG: I have declared an indefinite quarantine for Velara Three, and we are now returning to Starbase with the three surviving terraformers.
+[00:42:39.304 --> 00:42:43.944] LOG: Perhaps the lesson we have learned from this near tragedy will prevent it from happening elsewhere.

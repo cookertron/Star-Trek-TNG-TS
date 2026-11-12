@@ -1,0 +1,709 @@
+[00:00:01.760 --> 00:00:04.960] LOG: Captain's log, stardate 41601.3.
+[00:00:05.600 --> 00:00:13.120] LOG: We are crossing through the Zed Lapis sector, where we will rendezvous with shuttlecraft thirteen, carrying Deanna Troi, who is returning from a conference.
+[00:00:13.600 --> 00:00:19.200] LOG: Because Engineering is involved in preventive maintenance on our dilithium crystals, we are presently travelling on impulse power.
+[00:00:20.480 --> 00:00:24.640] WORF: Routine deep sensor probe indicates no obstacles or vessels within a range of three light years.
+[00:00:24.800 --> 00:00:25.280] TASHA: Confirm.
+[00:00:27.040 --> 00:00:28.960] WORF: The martial arts competition is in three days.
+[00:00:29.360 --> 00:00:29.920] WORF: Are you prepared?
+[00:00:31.440 --> 00:00:33.120] TASHA: I will be if you'll meet me on the holodeck later.
+[00:00:33.920 --> 00:00:36.000] TASHA: I need your help on the Mishiama wrist-lock and break.
+[00:00:36.400 --> 00:00:38.960] TASHA: If it works on you, I can use it on anyone.
+[00:00:39.520 --> 00:00:40.480] WORF: A valid assumption.
+[00:00:41.120 --> 00:00:42.320] WORF: Who is your first competitor?
+[00:00:43.360 --> 00:00:44.800] TASHA: Science Officer Swenson.
+[00:00:45.440 --> 00:00:47.120] WORF: You will defeat him easily.
+[00:00:47.520 --> 00:00:50.080] TASHA: I'm more concerned with Lieutenant Minnerly's kick boxing.
+[00:00:51.360 --> 00:00:53.360] WORF: You are favoured in the ship's pool.
+[00:00:55.360 --> 00:00:55.920] TASHA: You bet on me?
+[00:00:56.960 --> 00:00:57.680] WORF: A sure thing.
+[00:01:08.800 --> 00:01:09.200] LAFORGE: Captain,
+[00:01:10.080 --> 00:01:13.040] LAFORGE: estimated rendezvous with the shuttle in one hour and ten minutes.
+[00:01:13.200 --> 00:01:13.920] PICARD: Thank you, Lieutenant.
+[00:01:14.400 --> 00:01:14.800] LAFORGE: Aye, sir.
+[00:01:16.000 --> 00:01:18.400] PICARD: It'll be good to have Counsellor Troi back, won't it, Number One?
+[00:01:20.000 --> 00:01:21.080] RIKER: It certainly will.
+[00:01:21.080 --> 00:01:21.440] WORF: Sir,
+[00:01:22.240 --> 00:01:24.400] WORF: I'm receiving an emergency transmission from the shuttle.
+[00:01:25.120 --> 00:01:25.600] PICARD: On main viewer.
+[00:01:27.120 --> 00:01:27.760] TASHA: I can't, sir.
+[00:01:28.000 --> 00:01:29.120] TASHA: We're receiving audio only.
+[00:01:29.760 --> 00:01:30.400] PICARD: Open the frequency.
+[00:01:30.560 --> 00:01:30.880] TASHA: Aye, sir.
+[00:01:31.760 --> 00:01:32.320] PRIETO: What a jolt!
+[00:01:32.800 --> 00:01:33.600] RIKER: Position report.
+[00:01:34.371 --> 00:01:35.971] PRIETO: Sir, I have an onboard systems failure.
+[00:01:36.291 --> 00:01:37.251] PRIETO: You'll have to tell me where I am.
+[00:01:37.891 --> 00:01:41.651] LAFORGE: I read your coordinates at three seven zero point two three six.
+[00:01:41.811 --> 00:01:42.211] LAFORGE: Confirm.
+[00:01:43.091 --> 00:01:43.651] PRIETO: I can't confirm.
+[00:01:43.971 --> 00:01:44.931] PRIETO: My instruments are haywire.
+[00:01:45.891 --> 00:01:47.971] PICARD: Lieutenant Prieto, is Counsellor Troi all right?
+[00:01:48.851 --> 00:01:49.091] PRIETO: Yes, sir.
+[00:01:49.571 --> 00:01:50.451] PRIETO: Just a little shaken.
+[00:01:50.851 --> 00:01:51.731] PRIETO: We're being buffeted a bit.
+[00:01:53.571 --> 00:01:54.291] PRIETO: Losing more power!
+[00:01:55.731 --> 00:01:57.091] PRIETO: My flight control computer's fried.
+[00:01:57.251 --> 00:01:58.531] PICARD: Main Engineering.
+[00:01:58.851 --> 00:02:00.931] LYNCH: Lieutenant Commander Leland T. Lynch here, sir.
+[00:02:02.771 --> 00:02:04.691] PICARD: How long before we can return to warp power?
+[00:02:05.171 --> 00:02:08.131] LYNCH: Captain, I'm in the middle of realigning the dilithium crystals.
+[00:02:08.211 --> 00:02:09.411] PICARD: There is an emergency.
+[00:02:09.411 --> 00:02:10.611] PICARD: We need warp drive.
+[00:02:10.611 --> 00:02:11.011] PICARD: How long?
+[00:02:11.251 --> 00:02:12.451] LYNCH: Twenty minutes. Maybe more.
+[00:02:12.451 --> 00:02:13.571] PICARD: We don't have it, Mister Lynch.
+[00:02:13.571 --> 00:02:15.171] LYNCH: I'll align it by hand.
+[00:02:15.171 --> 00:02:15.971] PICARD: Whatever it takes.
+[00:02:16.131 --> 00:02:16.611] LYNCH: Aye, sir.
+[00:02:17.731 --> 00:02:19.091] LAFORGE: Shuttle, this is the Enterprise.
+[00:02:19.091 --> 00:02:22.451] LAFORGE: Your coordinates now read two three seven point one zero one.
+[00:02:23.171 --> 00:02:24.691] LAFORGE: Ben, you're dangerously close to a planet.
+[00:02:25.011 --> 00:02:25.571] PRIETO: I can see it.
+[00:02:26.211 --> 00:02:29.731] DATA: The planet is Vagra Two, sir, in the Zed Lapis sector. Uninhabited.
+[00:02:30.531 --> 00:02:31.171] PICARD: Lieutenant, report!
+[00:02:31.971 --> 00:02:32.931] TROI: This is Counsellor Troi.
+[00:02:33.491 --> 00:02:34.291] TROI: I'll relay, sir.
+[00:02:34.851 --> 00:02:36.051] TROI: The pilot is busy.
+[00:02:37.011 --> 00:02:38.771] TROI: We've lost most of our impulse power.
+[00:02:39.411 --> 00:02:40.531] PICARD: Engineering, status report.
+[00:02:40.931 --> 00:02:41.971] LYNCH: Working on it, Captain.
+[00:02:42.451 --> 00:02:43.091] LYNCH: Three minutes.
+[00:02:43.811 --> 00:02:44.691] LYNCH: But there are no guarantees.
+[00:02:45.651 --> 00:02:46.771] PRIETO: Captain, we're out of control.
+[00:02:47.571 --> 00:02:48.691] PRIETO: We're caught in the planet's gravity.
+[00:03:10.932 --> 00:03:13.652] PICARD: Space, the final frontier.
+[00:03:15.492 --> 00:03:18.372] PICARD: These are the voyages of the starship Enterprise.
+[00:03:19.492 --> 00:03:23.252] PICARD: Its continuing mission to explore strange new worlds, to
+[00:03:25.092 --> 00:03:27.812] PICARD: seek out new life and new civilizations, to
+[00:03:29.652 --> 00:03:32.292] PICARD: boldly go where no one has gone before.
+[00:03:34.000 --> 00:03:46.000] [music]
+[00:03:49.000 --> 00:04:13.000] [music]
+[00:04:15.000 --> 00:04:23.000] [music]
+[00:04:34.587 --> 00:04:35.867] LOG: Captain's log, supplemental.
+[00:04:36.347 --> 00:04:41.867] LOG: We've lost all contact with shuttlecraft thirteen, and can only assume they've crash-landed on Vagra Two.
+[00:04:42.507 --> 00:04:45.467] LOG: Meanwhile, main Engineering is trying to return us to warp power.
+[00:04:46.747 --> 00:04:47.627] LYNCH: Forget the final check.
+[00:04:54.187 --> 00:04:55.547] LYNCH: Initiate start-up sequence.
+[00:04:55.867 --> 00:04:56.987] COMPUTER: Beginning check list.
+[00:04:57.387 --> 00:04:58.027] LYNCH: Override.
+[00:04:58.347 --> 00:04:59.627] LYNCH: We are going directly to start-up.
+[00:05:00.107 --> 00:05:01.867] COMPUTER: That procedure is not recommended.
+[00:05:02.107 --> 00:05:02.667] LYNCH: Understood.
+[00:05:02.827 --> 00:05:06.267] LYNCH: Now. Prime matter-antimatter injectors.
+[00:05:06.667 --> 00:05:08.827] LYNCH: Set ratio at twenty-five to one
+[00:05:09.067 --> 00:05:09.867] COMPUTER: Ratio set.
+[00:05:09.947 --> 00:05:12.267] LYNCH: Power engine core. Inject reactants.
+[00:05:15.787 --> 00:05:16.347] LYNCH: Leland T.
+[00:05:16.347 --> 00:05:17.147] LYNCH: Lynch here, Captain.
+[00:05:17.227 --> 00:05:18.907] LYNCH: We now have minimum warp drive.
+[00:05:19.467 --> 00:05:21.307] LAFORGE: Course plotted and set for Vagra Two.
+[00:05:21.547 --> 00:05:21.947] PICARD: Warp eight.
+[00:05:22.587 --> 00:05:24.347] LYNCH: I said minimum warp drive, Captain.
+[00:05:24.987 --> 00:05:26.107] PICARD: You heard the order, Mister Lynch.
+[00:05:26.827 --> 00:05:27.467] PICARD: Make it so.
+[00:05:27.707 --> 00:05:28.187] LYNCH: Yes, sir.
+[00:05:33.947 --> 00:05:36.827] LAFORGE: Approaching Vagra Two, Captain.
+[00:05:37.147 --> 00:05:37.707] DATA: Strange, sir.
+[00:05:38.507 --> 00:05:40.587] DATA: There's no emergency signal from the shuttle as yet.
+[00:05:42.107 --> 00:05:43.227] PICARD: What is this place, Mister Data?
+[00:05:43.707 --> 00:05:47.147] DATA: There is little information in the library computer other than the fact of its existence.
+[00:05:48.587 --> 00:05:52.347] DATA: Our sensor show no signs of life forms, virtually no vegetation.
+[00:05:53.227 --> 00:05:53.707] RIKER: Atmosphere?
+[00:05:54.187 --> 00:05:55.227] DATA: Minimum for our needs, sir.
+[00:05:56.187 --> 00:05:56.667] PICARD: Standard orbit.
+[00:05:56.827 --> 00:05:57.307] LAFORGE: Aye, sir.
+[00:05:57.387 --> 00:05:58.027] LAFORGE: Standard orbit.
+[00:06:05.419 --> 00:06:08.219] WORF: I've located the shuttle.
+[00:06:09.099 --> 00:06:09.707] PICARD: Life signs?
+[00:06:09.707 --> 00:06:10.619] WORF: Not yet, sir.
+[00:06:11.179 --> 00:06:11.899] WORF: Still probing.
+[00:06:12.939 --> 00:06:16.219] WORF: It appears to be buried under a lot of debris.
+[00:06:20.619 --> 00:06:21.419] WORF: I may have something, sir.
+[00:06:23.019 --> 00:06:25.819] WORF: Faint life signs. Very faint.
+[00:06:25.899 --> 00:06:26.219] RIKER: How many?
+[00:06:27.339 --> 00:06:28.379] WORF: There's no way of telling from here.
+[00:06:29.739 --> 00:06:30.939] PICARD: Data, can we beam up the injured?
+[00:06:31.499 --> 00:06:31.819] DATA: No, sir.
+[00:06:32.459 --> 00:06:34.939] DATA: Our sensors are not fully penetrating whatever the debris is.
+[00:06:34.939 --> 00:06:37.259] PICARD: That's very unusual.
+[00:06:37.819 --> 00:06:38.139] DATA: Yes, sir.
+[00:06:38.779 --> 00:06:39.579] DATA: I cannot explain.
+[00:06:45.739 --> 00:06:46.699] PICARD: Number One, prepare your away team.
+[00:06:47.099 --> 00:06:47.499] RIKER: Right away.
+[00:06:47.899 --> 00:06:48.859] RIKER: Data, Yar.
+[00:06:52.539 --> 00:06:54.219] PICARD: Doctor Crusher, have you been monitoring all this?
+[00:06:54.379 --> 00:06:57.339] CRUSHER: Yes. I'll meet the away team in transporter room four.
+[00:07:30.817 --> 00:07:31.217] CRUSHER: Let's go.
+[00:07:31.217 --> 00:07:32.257] CRUSHER: The life signs are weak.
+[00:07:39.137 --> 00:07:39.537] RIKER: What is this?
+[00:07:40.257 --> 00:07:40.657] TASHA: No idea.
+[00:07:41.457 --> 00:07:42.737] TASHA: We'll go around, just to be on the safe side.
+[00:07:42.737 --> 00:07:42.817] TASHA: Let's
+[00:07:58.017 --> 00:07:58.577] TASHA: try the other way.
+[00:08:12.417 --> 00:08:13.377] RIKER: Enterprise, this is Riker.
+[00:08:13.377 --> 00:08:14.177] RIKER: We've got a problem.
+[00:08:14.817 --> 00:08:15.937] PICARD: What kind of problem, Number One?
+[00:08:16.497 --> 00:08:17.057] RIKER: I'm not sure yet.
+[00:08:17.537 --> 00:08:20.097] RIKER: There appears to be some kind of a slick blocking our path.
+[00:08:20.497 --> 00:08:21.377] RIKER: Will keep you apprised.
+[00:08:21.617 --> 00:08:22.657] PICARD: Maintain an open frequency.
+[00:08:23.137 --> 00:08:23.457] RIKER: Aye, sir.
+[00:08:24.977 --> 00:08:25.857] RIKER: Analysis, Mister Data.
+[00:08:27.057 --> 00:08:27.937] DATA: Inconclusive, sir.
+[00:08:27.937 --> 00:08:31.937] DATA: I cannot tell you what it is, but I can tell you what it is not.
+[00:08:32.337 --> 00:08:32.897] RIKER: Explain.
+[00:08:33.377 --> 00:08:35.617] DATA: There is no evidence of neural or circulatory systems.
+[00:08:36.417 --> 00:08:37.457] DATA: No internal organs.
+[00:08:38.497 --> 00:08:39.857] DATA: Cellular structure unknown.
+[00:08:40.257 --> 00:08:42.017] DATA: It does not have any proteins which are known to us.
+[00:08:42.337 --> 00:08:43.457] CRUSHER: It's narrower over here.
+[00:08:43.457 --> 00:08:44.257] CRUSHER: We can get over it.
+[00:08:47.297 --> 00:08:48.257] RIKER: How is it moving, Data?
+[00:08:48.257 --> 00:08:50.337] DATA: I do not know, sir.
+[00:08:50.817 --> 00:08:54.177] DATA: It does not appear to have a skeletal framework or musculature.
+[00:08:55.217 --> 00:08:56.337] RIKER: Then what's causing it to move?
+[00:08:57.697 --> 00:08:58.737] DATA: It appears to be following us, sir.
+[00:08:59.617 --> 00:09:00.577] RIKER: No sign of intelligence,
+[00:09:00.922 --> 00:09:04.122] RIKER: no brain as we know it, yet evidence of thought, Mister Data?
+[00:09:04.922 --> 00:09:06.282] DATA: Insufficient information, sir.
+[00:09:07.962 --> 00:09:09.002] PICARD: Is it a life form, Data?
+[00:09:09.802 --> 00:09:11.642] DATA: Again, insufficient information, sir.
+[00:09:12.442 --> 00:09:12.922] PICARD: Theorise.
+[00:09:14.762 --> 00:09:15.482] DATA: It is possible.
+[00:09:16.042 --> 00:09:16.602] ARMUS: Very
+[00:09:18.922 --> 00:09:18.922] ARMUS: good, tin
+[00:09:20.442 --> 00:09:21.162] ARMUS: man.
+[00:09:29.802 --> 00:09:30.442] PICARD: What is it, Number One?
+[00:09:31.802 --> 00:09:32.282] PICARD: What are you seeing?
+[00:09:37.562 --> 00:09:37.882] RIKER: Trouble.
+[00:09:45.082 --> 00:09:46.282] LOG: Captain's log, supplemental.
+[00:09:46.762 --> 00:09:57.802] LOG: While on a mission to rescue survivors from an unexplained shuttle crash, the away team has encountered a strange creature which seems able to assume different forms, including one which resembles humanoid.
+[00:09:58.762 --> 00:09:59.482] PICARD: Easy, Number One.
+[00:10:00.042 --> 00:10:01.482] PICARD: Let's find out what it is we're dealing with.
+[00:10:01.882 --> 00:10:02.602] RIKER: Agreed, Captain.
+[00:10:03.162 --> 00:10:03.722] PICARD: Number One,
+[00:10:03.722 --> 00:10:09.962] PICARD: I don't believe that the location of the crash and the proximity of the creature is a coincidence.
+[00:10:10.282 --> 00:10:11.242] RIKER: I am
+[00:10:21.882 --> 00:10:23.882] RIKER: Commander William Riker of the USS Enterprise.
+[00:10:23.882 --> 00:10:26.282] ARMUS: I am Armus.
+[00:10:26.442 --> 00:10:28.282] ARMUS: Why are you here?
+[00:10:28.673 --> 00:10:29.633] RIKER: We mean you no harm.
+[00:10:29.953 --> 00:10:32.193] RIKER: We have injured crewmen in the shuttlecraft.
+[00:10:32.193 --> 00:10:32.993] RIKER: We need to get to them.
+[00:10:33.153 --> 00:10:33.873] RIKER: May we pass?
+[00:10:34.513 --> 00:10:38.353] ARMUS: You haven't given me a good enough reason.
+[00:10:38.673 --> 00:10:41.713] RIKER: Preserving life, all life, is very important to us.
+[00:10:42.433 --> 00:10:43.073] ARMUS: Why?
+[00:10:45.553 --> 00:10:47.953] RIKER: We believe everything in the universe has a right to exist.
+[00:10:48.193 --> 00:10:51.713] ARMUS: An interesting notion which I do not share.
+[00:10:52.273 --> 00:10:55.793] ARMUS: You may now leave, if you wish.
+[00:10:55.873 --> 00:10:56.769] TASHA: We're not going without our shuttle crew.
+[00:10:56.769 --> 00:10:57.153] ARMUS: I warn you.
+[00:10:58.193 --> 00:10:58.273] TASHA: Enough!
+[00:10:58.273 --> 00:11:01.393] TASHA: We have people who need attention.
+[00:11:02.273 --> 00:11:04.033] TASHA: We won't hurt you, but we must help them.
+[00:11:13.713 --> 00:11:17.713] PICARD: Number One!
+[00:11:18.513 --> 00:11:19.313] RIKER: The creature attacked us.
+[00:11:19.313 --> 00:11:20.433] RIKER: Lieutenant Yar is down.
+[00:11:20.673 --> 00:11:22.433] DATA: It seems to feed on our phaser energy.
+[00:11:22.433 --> 00:11:23.393] RIKER: We had no effect on it.
+[00:11:35.553 --> 00:11:36.753] PICARD: What's Lieutenant Yar's condition?
+[00:11:40.593 --> 00:11:41.713] PICARD: Doctor Crusher, report!
+[00:11:42.673 --> 00:11:43.313] CRUSHER: She's dead.
+[00:11:48.513 --> 00:11:49.073] PICARD: Transporter room,
+[00:11:49.473 --> 00:11:50.353] PICARD: get them up, now.
+[00:11:50.503 --> 00:11:51.503] PICARD: Transporter Room]
+[00:11:54.673 --> 00:11:57.073] CRUSHER: I need her in Sickbay now.
+[00:11:58.554 --> 00:11:59.274] PICARD: Go to Yellow Alert,
+[00:11:59.274 --> 00:11:59.754] PICARD: Lieutenant Worf.
+[00:12:00.314 --> 00:12:00.874] PICARD: I'll be in Sickbay.
+[00:12:01.034 --> 00:12:01.514] WORF: Aye, sir.
+[00:12:09.594 --> 00:12:10.154] PICARD: Status, Doctor?
+[00:12:10.314 --> 00:12:10.954] CRUSHER: Unchanged.
+[00:12:12.954 --> 00:12:13.514] PICARD: Can you bring her back?
+[00:12:14.314 --> 00:12:14.794] CRUSHER: We'll see.
+[00:12:15.034 --> 00:12:15.754] CRUSHER: Neural stimulator.
+[00:12:19.514 --> 00:12:20.474] NURSE: Neural stimulator locked in.
+[00:12:20.474 --> 00:12:21.594] CRUSHER: Interlock current feeds.
+[00:12:22.714 --> 00:12:25.114] CRUSHER: Set sensitivity factor to four point four.
+[00:12:25.514 --> 00:12:25.834] NURSE: Affirmative.
+[00:12:28.554 --> 00:12:31.834] NURSE 2: Monitoring two point three, one point eight.
+[00:12:32.954 --> 00:12:33.674] RIKER: You did it.
+[00:12:34.714 --> 00:12:36.154] CRUSHER: No. I've got her on full support.
+[00:12:36.554 --> 00:12:38.314] CRUSHER: There is no independent brain function.
+[00:12:40.074 --> 00:12:41.594] NURSE 2: Current feeds operating.
+[00:12:41.594 --> 00:12:42.634] NURSE: She's not responding, Doctor.
+[00:12:42.634 --> 00:12:44.554] NURSE: Her synaptic network is breaking down.
+[00:12:44.554 --> 00:12:45.034] CRUSHER: Inject norep.
+[00:12:49.514 --> 00:12:50.954] NURSE: Neurons are beginning to depolarise.
+[00:12:53.674 --> 00:12:55.434] CRUSHER: Let's go for direct reticular stimulation.
+[00:12:55.594 --> 00:12:55.834] NURSE: Direct?
+[00:12:56.234 --> 00:12:56.634] CRUSHER: Do it!
+[00:13:04.794 --> 00:13:06.634] CRUSHER: Increase to seventy microvolts.
+[00:13:07.594 --> 00:13:07.594] CRUSHER: Eighty five
+[00:13:11.354 --> 00:13:11.994] CRUSHER: microvolts.
+[00:13:16.234 --> 00:13:16.634] CRUSHER: Again.
+[00:13:16.634 --> 00:13:16.874] CRUSHER: Ninety.
+[00:13:16.874 --> 00:13:16.874] CRUSHER: Again.
+[00:13:16.874 --> 00:13:16.874] CRUSHER: Again.
+[00:13:42.945 --> 00:13:43.344] CRUSHER: She's gone.
+[00:13:48.785 --> 00:13:48.785] PICARD: Gone?
+[00:13:54.945 --> 00:13:56.545] CRUSHER: There was too much synaptic damage.
+[00:13:57.344 --> 00:13:59.025] CRUSHER: That thing just sucked the life right out of her.
+[00:14:00.704 --> 00:14:01.584] CRUSHER: There's nothing I can do.
+[00:14:39.584 --> 00:14:41.744] ARMUS: Your friends have deserted you.
+[00:14:41.905 --> 00:14:44.464] ARMUS: They're not coming back.
+[00:14:45.824 --> 00:14:46.385] TROI: You're wrong.
+[00:14:47.905 --> 00:14:50.145] ARMUS: I killed one of them.
+[00:14:51.905 --> 00:14:52.224] TROI: Yes.
+[00:14:54.464 --> 00:14:54.865] TROI: I know.
+[00:14:55.425 --> 00:14:59.025] ARMUS: How could you be in there and know that?
+[00:14:59.104 --> 00:15:00.145] TROI: I felt her die.
+[00:15:00.704 --> 00:15:03.824] ARMUS: Do you want to know why I killed her?
+[00:15:06.111 --> 00:15:07.631] TROI: Your answer would be meaningless.
+[00:15:09.551 --> 00:15:11.151] TROI: That act had no reason.
+[00:15:12.431 --> 00:15:13.551] ARMUS: Exactly.
+[00:15:13.871 --> 00:15:15.871] ARMUS: It had no meaning.
+[00:15:16.271 --> 00:15:18.991] ARMUS: I did it because I wanted to.
+[00:15:19.631 --> 00:15:21.231] ARMUS: It amused me.
+[00:15:21.791 --> 00:15:21.951] TROI: No.
+[00:15:23.551 --> 00:15:26.431] TROI: You thought it would amuse you, but it didn't.
+[00:15:28.191 --> 00:15:29.711] TROI: You felt no satisfaction.
+[00:15:30.351 --> 00:15:31.151] ARMUS: No.
+[00:15:32.111 --> 00:15:34.111] ARMUS: It was too easy.
+[00:15:36.751 --> 00:15:37.791] TROI: You wanted her to suffer.
+[00:15:41.311 --> 00:15:42.751] TROI: You have a great need.
+[00:15:42.991 --> 00:15:44.351] ARMUS: I need nothing.
+[00:15:44.671 --> 00:15:45.151] TROI: Liar.
+[00:15:48.351 --> 00:15:48.991] TROI: End this.
+[00:15:50.271 --> 00:15:50.991] TROI: Let us go.
+[00:15:51.311 --> 00:15:52.191] ARMUS: Not yet.
+[00:15:53.071 --> 00:15:55.071] TROI: They won't give you what you want.
+[00:15:55.231 --> 00:15:56.911] ARMUS: And what is that?
+[00:15:57.391 --> 00:15:58.751] TROI: To break their spirit.
+[00:16:00.031 --> 00:16:02.191] ARMUS: Oh, is that what I want?
+[00:16:02.911 --> 00:16:07.471] ARMUS: If breaking their spirit will amuse me, then that's what I will have.
+[00:16:09.391 --> 00:16:10.111] TROI: Never.
+[00:16:15.471 --> 00:16:18.671] CRUSHER: She didn't do anything.
+[00:16:18.671 --> 00:16:19.711] CRUSHER: Her phaser was lowered.
+[00:16:19.711 --> 00:16:20.911] DATA: She only wanted to get to Troi and Lieutenant Prieto.
+[00:16:20.911 --> 00:16:21.151] RIKER: There was
+[00:16:21.151 --> 00:16:21.151] RIKER: nothing
+[00:16:21.151 --> 00:16:21.151] RIKER: provocative about what she did.
+[00:16:21.151 --> 00:16:21.151] CRUSHER: She was killed in a brutal,
+[00:16:21.151 --> 00:16:21.151] CRUSHER: senseless act.
+[00:16:21.151 --> 00:16:21.151] PICARD: Lieutenant
+[00:16:26.191 --> 00:16:29.711] PICARD: Yar's death is very painful for all of us.
+[00:16:30.031 --> 00:16:32.191] PICARD: We will have to deal with it as best we can for now.
+[00:16:33.311 --> 00:16:36.911] PICARD: Until the shuttle crew is safely beamed aboard this ship, our feelings will have to wait.
+[00:16:36.911 --> 00:16:37.631] PICARD: Is that understood?
+[00:16:42.862 --> 00:16:45.422] PICARD: Lieutenant Worf, you are now Acting Chief of Security.
+[00:16:46.062 --> 00:16:47.182] WORF: I will do my best, sir.
+[00:16:48.542 --> 00:16:50.302] PICARD: Doctor, what is the state of the shuttle crew?
+[00:16:50.702 --> 00:16:54.222] CRUSHER: We're still receiving faint life signs, but the sensor readings are fluctuating.
+[00:16:54.462 --> 00:16:55.742] CRUSHER: They may not be accurate.
+[00:16:56.142 --> 00:16:59.102] DATA: Armus is capable of creating undefined forcefields.
+[00:16:59.422 --> 00:17:03.102] DATA: In effect, we are powerless to communicate or use the transporter unless it allows it.
+[00:17:04.062 --> 00:17:05.982] PICARD: A creature against whom we seem to have no defence.
+[00:17:07.742 --> 00:17:08.222] PICARD: Number One?
+[00:17:08.222 --> 00:17:10.862] RIKER: It's down on that planet waiting for us to come back.
+[00:17:11.582 --> 00:17:13.822] RIKER: It killed Tasha and it could have killed us, but it didn't.
+[00:17:14.702 --> 00:17:21.182] RIKER: Deanna and Ben are alive for a reason, and it knows we're not going anywhere as long as they're still alive.
+[00:17:21.582 --> 00:17:25.182] PICARD: Are you saying it's attack on Yar was not arbitrary but part of some tactic?
+[00:17:25.502 --> 00:17:27.102] RIKER: The only way to find out is to go back down.
+[00:17:27.662 --> 00:17:30.542] LAFORGE: Commander, I may be able to see something in the creature which might be helpful.
+[00:17:31.262 --> 00:17:31.582] PICARD: Agreed.
+[00:17:32.062 --> 00:17:33.022] PICARD: Prepare your away team, Number
+[00:17:35.422 --> 00:17:37.422] PICARD: One.
+[00:17:37.822 --> 00:17:38.382] RIKER: Lieutenant Worf?
+[00:17:42.622 --> 00:17:42.702] WORF: I
+[00:17:44.382 --> 00:17:45.342] WORF: will remain on the ship.
+[00:17:46.782 --> 00:17:49.182] WORF: The object here is not to engage the creature in battle.
+[00:17:50.062 --> 00:17:53.182] WORF: The goal is the safe return of Counsellor Troi and Lieutenant Prieto.
+[00:17:54.382 --> 00:17:56.382] WORF: I can best accomplish this at the Tactical Station.
+[00:17:58.142 --> 00:17:58.462] PICARD: Very good.
+[00:17:59.102 --> 00:17:59.422] PICARD: Number One?
+[00:18:18.779 --> 00:18:20.779] RIKER: Enterprise.
+[00:18:23.019 --> 00:18:23.019] PICARD: Number One.
+[00:18:23.169 --> 00:18:24.969] RIKER: We're approaching the shuttlecraft.
+[00:18:25.390 --> 00:18:27.590] RIKER: The creature is covering it.
+[00:18:28.165 --> 00:18:29.965] ARMUS: I lied to you.
+[00:18:30.386 --> 00:18:31.786] ARMUS: They came back.
+[00:18:32.051 --> 00:18:34.251] TROI: Let me talk with them.
+[00:18:34.827 --> 00:18:35.382] ARMUS: No.
+[00:18:35.382 --> 00:18:35.937] TROI: Why?
+[00:18:35.937 --> 00:18:40.937] TROI: Does the thought of my having contact with them make you uneasy?
+[00:18:42.598 --> 00:18:43.154] ARMUS: No.
+[00:18:43.154 --> 00:18:49.354] ARMUS: Not being able to contact you, not knowing if you are alive, makes them uneasy.
+[00:18:51.480 --> 00:18:54.480] ARMUS: Can't you feel how worried they are?
+[00:18:55.366 --> 00:18:55.921] TROI: Yes.
+[00:18:55.921 --> 00:18:57.721] TROI: Yes, they are worried.
+[00:18:58.142 --> 00:18:59.942] ARMUS: They care for you.
+[00:19:00.362 --> 00:19:02.562] ARMUS: You must be very special.
+[00:19:03.138 --> 00:19:05.738] TROI: We are members of a community.
+[00:19:06.469 --> 00:19:09.069] TROI: We all care for one another.
+[00:19:09.800 --> 00:19:10.355] ARMUS: Equally?
+[00:19:10.355 --> 00:19:13.355] TROI: You were really surprised they came back.
+[00:19:14.241 --> 00:19:14.796] ARMUS: Yes.
+[00:19:14.796 --> 00:19:15.351] TROI: Why?
+[00:19:15.351 --> 00:19:17.551] TROI: Because the others did not?
+[00:19:18.126 --> 00:19:19.126] ARMUS: What others?
+[00:19:19.237 --> 00:19:22.237] TROI: You can't hide the emptiness from me.
+[00:19:23.123 --> 00:19:24.123] TROI: The others.
+[00:19:24.233 --> 00:19:26.433] TROI: The ones who hurt you.
+[00:19:27.008 --> 00:19:29.208] TROI: Who left you alone, rejected.
+[00:19:29.784 --> 00:19:32.784] TROI: The ones who make you so angry.
+[00:19:33.670 --> 00:19:36.270] ARMUS: What do you know of them?
+[00:19:37.001 --> 00:19:39.201] TROI: Only what you tell me.
+[00:19:39.776 --> 00:19:41.976] ARMUS: I will tell you nothing.
+[00:19:42.702 --> 00:19:48.622] TROI: Not now. But soon.
+[00:19:57.102 --> 00:19:58.302] WORF: Captain, look at this.
+[00:20:00.622 --> 00:20:05.314] WORF: The force of the energy field around the shuttlecraft decreased for a few moments when the creature was draped over it.
+[00:20:05.314 --> 00:20:07.102] PICARD: But not low enough to beam them out.
+[00:20:07.822 --> 00:20:08.302] WORF: Almost.
+[00:20:08.862 --> 00:20:13.502] WESLEY: It's approaching the away team now, and the energy field over the shuttlecraft is back to full intensity.
+[00:20:14.302 --> 00:20:14.782] PICARD: Chart it.
+[00:20:15.182 --> 00:20:15.982] PICARD: I want to see if there's a pattern.
+[00:20:16.382 --> 00:20:16.622] WORF: Aye, sir.
+[00:20:27.422 --> 00:20:29.422] ARMUS: She said you'd be back.
+[00:20:31.262 --> 00:20:32.062] RIKER: Then she is alive.
+[00:20:32.462 --> 00:20:33.262] ARMUS: For now.
+[00:20:34.382 --> 00:20:35.902] ARMUS: Why have you returned?
+[00:20:36.462 --> 00:20:37.102] RIKER: We have no choice.
+[00:20:37.102 --> 00:20:38.782] RIKER: We're here to negotiate for our team.
+[00:20:38.782 --> 00:20:39.502] RIKER: What do you want?
+[00:20:40.222 --> 00:20:42.062] ARMUS: Maybe I want nothing.
+[00:20:42.702 --> 00:20:43.742] RIKER: Then you would have killed all of us.
+[00:20:44.222 --> 00:20:45.662] ARMUS: I still might.
+[00:20:46.222 --> 00:20:47.022] RIKER: What do you want?
+[00:20:47.182 --> 00:20:47.422] RIKER: Tell me.
+[00:20:48.222 --> 00:20:49.662] RIKER: Maybe we can reach an accommodation.
+[00:20:50.462 --> 00:20:52.942] ARMUS: If I tell you, will you give it to me?
+[00:20:53.182 --> 00:20:53.582] RIKER: I might.
+[00:20:53.902 --> 00:20:54.462] RIKER: It depends.
+[00:20:56.702 --> 00:20:57.662] CRUSHER: I am a doctor.
+[00:20:58.462 --> 00:21:00.702] CRUSHER: I need to treat our injured friends.
+[00:21:01.022 --> 00:21:02.702] ARMUS: Say please.
+[00:21:04.702 --> 00:21:05.262] CRUSHER: Please.
+[00:21:06.142 --> 00:21:07.502] ARMUS: You ask nicely.
+[00:21:08.142 --> 00:21:09.502] ARMUS: I will allow it.
+[00:21:11.022 --> 00:21:11.502] ARMUS: Wait!
+[00:21:12.382 --> 00:21:13.742] ARMUS: I've changed my mind.
+[00:21:14.511 --> 00:21:16.351] ARMUS: Talk to her from here.
+[00:21:18.191 --> 00:21:21.471] CRUSHER: How? Troi, can you hear me?
+[00:21:23.951 --> 00:21:25.071] BEVERLY: Deanna, are you all right?
+[00:21:28.191 --> 00:21:30.351] TROI: Beverly? I can hear you.
+[00:21:32.351 --> 00:21:33.151] CRUSHER: Are you all right?
+[00:21:35.071 --> 00:21:35.551] TROI: Yes.
+[00:21:37.231 --> 00:21:39.551] CRUSHER: We've encountered some difficulty.
+[00:21:41.231 --> 00:21:41.711] TROI: I know.
+[00:21:42.751 --> 00:21:43.871] RIKER: She needs our help.
+[00:21:44.511 --> 00:21:46.031] ARMUS: So what.
+[00:21:47.151 --> 00:21:50.511] CRUSHER: Our friends are suffering only a few metres away, yet you block our path.
+[00:21:50.831 --> 00:21:51.151] CRUSHER: Why?
+[00:21:51.551 --> 00:21:54.751] ARMUS: You are all ungrateful.
+[00:21:55.071 --> 00:21:56.191] CRUSHER: What is he made of?
+[00:21:56.591 --> 00:21:58.191] DATA: It did not register on the tricorder.
+[00:21:58.591 --> 00:22:02.031] ARMUS: It? Does that mean I am not alive?
+[00:22:02.751 --> 00:22:02.911] DATA: No.
+[00:22:03.711 --> 00:22:06.351] DATA: Clearly you are some kind of intelligent form.
+[00:22:07.311 --> 00:22:10.591] ARMUS: But you said I did not register on your instrument.
+[00:22:11.471 --> 00:22:14.111] ARMUS: Perhaps your instruments are useless.
+[00:22:23.551 --> 00:22:25.171] ARMUS: Don't help him.
+[00:22:25.171 --> 00:22:25.711] RIKER: Data.
+[00:22:25.711 --> 00:22:26.111] DATA: Half metre to
+[00:22:31.711 --> 00:22:32.351] DATA: the right, Geordi.
+[00:22:32.757 --> 00:22:41.286] ARMUS: Aren't you going to lead him to his sight again, robot?
+[00:22:41.692 --> 00:22:42.098] DATA: No.
+[00:22:42.504 --> 00:22:43.871] DATA: You will just move it again,
+[00:22:44.437 --> 00:22:45.237] DATA: and I will not help you
+[00:22:45.237 --> 00:22:45.557] DATA: hurt him.
+[00:22:46.837 --> 00:22:47.957] ARMUS: Then give it to him.
+[00:22:48.597 --> 00:22:50.997] ARMUS: I will find something else to amuse me.
+[00:23:04.597 --> 00:23:08.597] ARMUS: You said they wouldn't amuse me.
+[00:23:09.237 --> 00:23:10.037] ARMUS: You were right.
+[00:23:11.317 --> 00:23:12.517] TROI: And the emptiness remains.
+[00:23:16.597 --> 00:23:17.797] TROI: You sound so alone.
+[00:23:19.317 --> 00:23:20.917] ARMUS: I am alone.
+[00:23:22.997 --> 00:23:23.317] TROI: Abandoned.
+[00:23:26.357 --> 00:23:27.157] TROI: Who deserted you?
+[00:23:28.357 --> 00:23:31.957] ARMUS: Creatures whose beauty now dazzles all who see them.
+[00:23:32.757 --> 00:23:35.237] ARMUS: They would not exist without me.
+[00:23:37.477 --> 00:23:38.037] TROI: You were together?
+[00:23:39.317 --> 00:23:48.517] ARMUS: They perfected a means of bringing to the surface all that was evil and negative within. Erupting, spreading, connecting.
+[00:23:48.837 --> 00:23:53.717] ARMUS: In time it formed second skin, dank and vile.
+[00:23:55.317 --> 00:23:55.637] TROI: You.
+[00:23:56.677 --> 00:23:57.317] ARMUS: Yes.
+[00:24:00.757 --> 00:24:02.437] TROI: They discarded you and left.
+[00:24:04.117 --> 00:24:06.349] ARMUS: And here I am.
+[00:24:06.853 --> 00:24:10.117] TROI: You have my pity.
+[00:24:10.520 --> 00:24:10.840] ARMUS: Your
+[00:24:16.200 --> 00:24:18.200] ARMUS: pity?
+[00:24:19.240 --> 00:24:21.080] ARMUS: Save that for yourself.
+[00:24:23.800 --> 00:24:23.960] RIKER: Help! Data,
+[00:24:36.200 --> 00:24:38.280] RIKER: something's got me!
+[00:24:38.280 --> 00:24:42.211] ARMUS: Touch him
+[00:24:44.874 --> 00:24:46.874] ARMUS: and
+[00:24:49.537 --> 00:24:51.537] ARMUS: he
+[00:24:54.200 --> 00:24:56.200] ARMUS: dies.
+[00:24:56.265 --> 00:24:56.595] RIKER: No! No, don't!
+[00:24:56.661 --> 00:24:57.720] DATA: Enterprise? Armus has enveloped Commander Riker.
+[00:24:58.600 --> 00:24:59.240] PICARD: I'm beaming you up.
+[00:25:00.040 --> 00:25:06.200] ARMUS: If any of you leave now, he dies. And so do the survivors of the crash.
+[00:25:24.600 --> 00:25:25.640] LOG: Captain's log, supplemental.
+[00:25:26.120 --> 00:25:28.280] LOG: There is grave danger to the crew on Vagra Two.
+[00:25:28.840 --> 00:25:29.880] LOG: My first officer is missing,
+[00:25:30.280 --> 00:25:32.520] LOG: attacked by this entity known as Armus.
+[00:25:34.360 --> 00:25:36.200] WORF: Captain, perhaps you should look at this.
+[00:25:38.120 --> 00:25:40.360] WORF: We have the chart of the energy field surrounding the shuttle.
+[00:25:41.080 --> 00:25:42.120] PICARD: There are a great deal of fluctuations.
+[00:25:42.520 --> 00:25:43.880] WORF: Yes, but there is a pattern.
+[00:25:45.000 --> 00:25:45.240] WORF: Here
+[00:25:45.410 --> 00:25:48.690] WORF: is when it killed Lieutenant Yar, and here is when it absorbed Commander Riker.
+[00:25:49.730 --> 00:25:52.546] PICARD: And here, here, where the energy is lowest?
+[00:25:52.546 --> 00:25:55.010] WORF: Both times it had enveloped the shuttle.
+[00:25:55.160 --> 00:25:55.760] PICARD: It
+[00:25:57.490 --> 00:25:59.330] PICARD: has something to do with Counsellor Troi.
+[00:26:00.690 --> 00:26:04.290] PICARD: Somehow when it's dealing with her, the energy field is affected.
+[00:26:04.610 --> 00:26:05.410] PICARD: I want to talk to her.
+[00:26:05.410 --> 00:26:06.610] PICARD: I'm going to beam down.
+[00:26:06.610 --> 00:26:07.650] PICARD: Lieutenant Worf, you have the conn.
+[00:26:10.130 --> 00:26:12.130] TROI: Imzadi! No!
+[00:26:14.450 --> 00:26:17.170] TROI: Please, stop hurting him!
+[00:26:17.170 --> 00:26:22.850] ARMUS: He resists. If he would give himself over, the pain would diminish.
+[00:26:22.850 --> 00:26:26.490] ARMUS: He struggles. You should feel his strength.
+[00:26:26.490 --> 00:26:27.010] TROI: I
+[00:26:27.330 --> 00:26:27.330] TROI: can.
+[00:26:30.690 --> 00:26:32.210] ARMUS: Should I let him go?
+[00:26:33.330 --> 00:26:34.930] TROI: You only ask to torment me.
+[00:26:35.490 --> 00:26:36.450] ARMUS: Perhaps.
+[00:26:37.170 --> 00:26:38.290] TROI: How should I answer?
+[00:26:39.410 --> 00:26:41.410] TROI: What can I offer except myself?
+[00:26:41.730 --> 00:26:44.370] ARMUS: And would you give yourself for him?
+[00:26:45.410 --> 00:26:47.170] ARMUS: Would you give that much?
+[00:26:47.970 --> 00:26:50.770] TROI: Yes. Without hesitation.
+[00:26:52.130 --> 00:26:53.570] ARMUS: Just for him?
+[00:26:53.970 --> 00:26:55.570] TROI: No, not just for him.
+[00:26:56.290 --> 00:26:58.290] TROI: I would do the same for any of the others.
+[00:27:00.530 --> 00:27:03.010] TROI: Armus, you have me.
+[00:27:04.370 --> 00:27:05.410] TROI: Let them go.
+[00:27:05.890 --> 00:27:06.850] ARMUS: Perhaps.
+[00:27:07.650 --> 00:27:09.810] ARMUS: Ah, another has arrived.
+[00:27:27.024 --> 00:27:29.424] ARMUS: You are the one in charge?
+[00:27:29.574 --> 00:27:30.174] PICARD: Is
+[00:27:31.824 --> 00:27:32.624] PICARD: Commander Riker alive?
+[00:27:33.264 --> 00:27:34.704] ARMUS: Answer, Tin Man.
+[00:27:35.824 --> 00:27:39.824] DATA: I would guess that death is no longer sufficient entertainment to alleviate its boredom.
+[00:27:40.384 --> 00:27:42.144] DATA: Therefore, Commander Riker is alive.
+[00:27:43.184 --> 00:27:44.064] ARMUS: Maybe.
+[00:27:52.944 --> 00:27:55.904] ARMUS: Don't you want to ask me what I want?
+[00:27:57.024 --> 00:27:57.184] PICARD: No.
+[00:27:58.464 --> 00:28:02.064] ARMUS: Not even to protect your own existence?
+[00:28:06.544 --> 00:28:08.784] PICARD: I want to see my people in the shuttle.
+[00:28:10.224 --> 00:28:11.424] ARMUS: Entertain me.
+[00:28:13.184 --> 00:28:16.624] ARMUS: Then I will do it myself.
+[00:28:17.024 --> 00:28:17.184] ARMUS: You, Tin Man.
+[00:28:23.344 --> 00:28:23.904] ARMUS: Now tell
+[00:28:32.784 --> 00:28:38.944] ARMUS: me, how would you feel if you were the instrument of death for your leader?
+[00:28:39.315 --> 00:28:39.955] PICARD: Don't struggle, Data.
+[00:28:41.235 --> 00:28:43.315] DATA: I have no control over what you do with the phaser.
+[00:28:44.035 --> 00:28:46.035] DATA: Therefore, I would not be the instrument of his death.
+[00:28:46.995 --> 00:28:50.275] ARMUS: Perhaps killing the Doctor would engender more feeling?
+[00:28:52.355 --> 00:28:54.755] DATA: No, the control is still yours.
+[00:28:54.755 --> 00:28:58.035] ARMUS: And what about you, Doctor?
+[00:28:58.435 --> 00:29:00.195] ARMUS: Are you ready to die?
+[00:29:00.835 --> 00:29:02.435] ARMUS: Tell me you are not afraid.
+[00:29:03.235 --> 00:29:04.435] CRUSHER: I am afraid.
+[00:29:04.675 --> 00:29:06.035] ARMUS: Beg me to spare you.
+[00:29:06.435 --> 00:29:06.915] CRUSHER: No.
+[00:29:08.755 --> 00:29:13.795] ARMUS: One of you is going to die, and you, Doctor, get to choose.
+[00:29:14.355 --> 00:29:16.115] ARMUS: You don't like that, do you?
+[00:29:16.995 --> 00:29:18.435] CRUSHER: Then I choose myself.
+[00:29:19.235 --> 00:29:22.115] ARMUS: No. You are going to live.
+[00:29:22.755 --> 00:29:24.755] ARMUS: One of them dies.
+[00:29:27.715 --> 00:29:28.915] ARMUS: Maybe this one.
+[00:29:29.555 --> 00:29:33.555] ARMUS: Though I would not call it death, since he is only a device.
+[00:29:34.035 --> 00:29:38.675] ARMUS: Tell me, Tin Man, how does it feel to face your own extinction.
+[00:29:39.715 --> 00:29:40.275] DATA: Curious.
+[00:29:42.195 --> 00:29:44.195] DATA: You are
+[00:29:46.195 --> 00:29:48.195] DATA: capable of great sadism and cruelty.
+[00:29:49.635 --> 00:29:50.115] DATA: Interesting.
+[00:29:51.315 --> 00:29:52.755] DATA: No redeeming qualities.
+[00:29:53.315 --> 00:29:54.995] ARMUS: So what do you think?
+[00:29:55.555 --> 00:29:56.675] DATA: I think you should be destroyed.
+[00:29:57.555 --> 00:30:00.366] ARMUS: A moral judgment from a machine.
+[00:30:00.366 --> 00:30:00.835] PICARD: Data.
+[00:30:02.595 --> 00:30:04.515] PICARD: Armus, we're finished dealing with you.
+[00:30:04.755 --> 00:30:08.115] ARMUS: I have your man in here, and the others in the shuttle.
+[00:30:08.595 --> 00:30:09.075] PICARD: It doesn't matter.
+[00:30:09.555 --> 00:30:11.155] PICARD: We will no longer be a source of amusement.
+[00:30:11.155 --> 00:30:13.155] ARMUS: I can kill them.
+[00:30:13.961 --> 00:30:16.441] PICARD: Yes. You can. But only I can command them.
+[00:30:16.521 --> 00:30:17.561] PICARD: They follow my orders.
+[00:30:18.281 --> 00:30:19.641] ARMUS: Have them amuse me.
+[00:30:20.281 --> 00:30:22.361] PICARD: Only if you let me see my people on the shuttle first.
+[00:30:22.441 --> 00:30:23.161] PICARD: I must see them.
+[00:30:23.561 --> 00:30:24.601] ARMUS: Not possible.
+[00:30:26.281 --> 00:30:27.481] PICARD: Then our business with you is concluded.
+[00:30:28.281 --> 00:30:31.401] ARMUS: And you claim you care about your comrades.
+[00:30:31.961 --> 00:30:34.281] PICARD: I care. Which is why I must see them.
+[00:30:35.641 --> 00:30:37.401] ARMUS: You want to see your people?
+[00:30:43.161 --> 00:30:44.761] ARMUS: Then, here.
+[00:30:46.281 --> 00:30:49.481] ARMUS: Look at this one.
+[00:30:52.361 --> 00:30:52.361] CRUSHER: He's
+[00:30:55.001 --> 00:30:55.401] CRUSHER: alive.
+[00:30:58.521 --> 00:30:59.081] CRUSHER: Don't move.
+[00:31:02.521 --> 00:31:02.841] PICARD: Is he all right?
+[00:31:03.961 --> 00:31:05.001] CRUSHER: All signs show normal.
+[00:31:06.841 --> 00:31:08.281] RIKER: So much frustration. It had to get
+[00:31:09.961 --> 00:31:12.921] RIKER: rid of me.
+[00:31:15.241 --> 00:31:16.281] PICARD: Now, let me see the others.
+[00:31:17.801 --> 00:31:18.441] ARMUS: No.
+[00:31:19.961 --> 00:31:22.041] PICARD: I will not allow my people to entertain you until you do.
+[00:31:22.521 --> 00:31:25.241] ARMUS: They are incapable of entertaining me.
+[00:31:25.241 --> 00:31:28.281] PICARD: I want the four of you out of here.
+[00:31:28.921 --> 00:31:30.841] PICARD: Enterprise, beam up the away team immediately.
+[00:31:31.401 --> 00:31:31.801] WORF: Aye, sir.
+[00:31:33.401 --> 00:31:34.761] PICARD: They're
+[00:31:36.281 --> 00:31:37.081] PICARD: no longer involved.
+[00:31:37.561 --> 00:31:38.521] PICARD: This is between you and me.
+[00:31:39.561 --> 00:31:40.681] ARMUS: They may leave.
+[00:31:49.443 --> 00:31:49.443] PICARD: Now.
+[00:31:57.123 --> 00:32:00.803] ARMUS: I want to leave this place.
+[00:32:03.443 --> 00:32:05.283] PICARD: You want me to give you transportation?
+[00:32:06.723 --> 00:32:09.443] ARMUS: For which I will trade you lives.
+[00:32:09.923 --> 00:32:11.523] PICARD: I must see my people in the shuttle.
+[00:32:12.483 --> 00:32:14.403] ARMUS: Will you give me what I want?
+[00:32:15.763 --> 00:32:19.763] PICARD: I have the means. But first I must see my people.
+[00:32:21.763 --> 00:32:23.580] ARMUS: If you must.
+[00:32:23.580 --> 00:32:26.003] PICARD: Troi, are you all
+[00:32:32.803 --> 00:32:32.963] PICARD: right?
+[00:32:33.363 --> 00:32:35.043] TROI: Yes, but Ben is not.
+[00:32:40.403 --> 00:32:40.883] PICARD: He's alive.
+[00:32:44.483 --> 00:32:45.843] TROI: Were you able to help Tasha?
+[00:32:50.403 --> 00:32:50.643] PICARD: No.
+[00:32:55.363 --> 00:32:55.683] PICARD: Troi.
+[00:32:57.763 --> 00:32:59.443] PICARD: Troi, we must talk.
+[00:33:00.643 --> 00:33:04.563] PICARD: I believe it's possible to outmanoeuvre this creature, and beam you and Ben back up to the ship.
+[00:33:05.123 --> 00:33:07.923] PICARD: We've been monitoring the energy field that surrounds the shuttle.
+[00:33:08.163 --> 00:33:10.963] PICARD: When the creature is here, the field weakens.
+[00:33:12.403 --> 00:33:12.963] PICARD: Do you know why?
+[00:33:14.380 --> 00:33:19.020] TROI: The creature is filled with rage. Undirected, unfocused rage.
+[00:33:19.980 --> 00:33:24.700] TROI: When he confronts it, his guard goes down because he's feeling it instead of suppressing it.
+[00:33:25.980 --> 00:33:28.620] TROI: Acknowledging his needs makes him vulnerable.
+[00:33:29.500 --> 00:33:30.620] PICARD: What caused the rage?
+[00:33:31.900 --> 00:33:34.780] TROI: He was left here. Abandoned.
+[00:33:43.500 --> 00:33:46.860] WORF: The forcefield will have to drop below two point seven before we can beam them up.
+[00:33:49.900 --> 00:33:50.940] ARMUS: Satisfied?
+[00:33:51.980 --> 00:33:52.220] PICARD: Yes.
+[00:33:53.420 --> 00:33:54.700] ARMUS: Then can we leave?
+[00:33:55.260 --> 00:33:55.900] PICARD: Where do you want to go?
+[00:33:56.540 --> 00:33:58.140] PICARD: Do you want to try to find those who left you here?
+[00:33:59.340 --> 00:34:01.100] ARMUS: She told you about them.
+[00:34:02.940 --> 00:34:04.940] PICARD: How
+[00:34:08.780 --> 00:34:09.580] PICARD: long have you been here?
+[00:34:11.020 --> 00:34:14.700] ARMUS: Since they left. A very long time.
+[00:34:15.340 --> 00:34:16.460] PICARD: A long time to be alone.
+[00:34:16.780 --> 00:34:17.980] ARMUS: Save your compassion.
+[00:34:18.620 --> 00:34:19.660] ARMUS: It's revolting.
+[00:34:20.220 --> 00:34:24.480] ARMUS: You offer it like a prize when in fact it's an insult.
+[00:34:24.480 --> 00:34:25.900] PICARD: Because you feel unworthy.
+[00:34:26.300 --> 00:34:27.980] ARMUS: You overrate your gift.
+[00:34:28.380 --> 00:34:31.100] ARMUS: You humans are puny, weak.
+[00:34:31.100 --> 00:34:33.500] PICARD: But our spirit, it is indomitable.
+[00:34:33.500 --> 00:34:37.500] ARMUS: And still you die from a flake of my power.
+[00:34:37.650 --> 00:34:38.250] PICARD: A
+[00:34:39.420 --> 00:34:44.220] PICARD: great poet once said, 'all spirits are enslaved that serve things evil'.
+[00:34:45.644 --> 00:34:47.244] ARMUS: You do not understand.
+[00:34:47.244 --> 00:34:49.884] ARMUS: I do not serve things evil.
+[00:34:49.884 --> 00:34:51.564] ARMUS: I am evil.
+[00:34:51.564 --> 00:34:51.564] PICARD: Oh, no,
+[00:34:54.924 --> 00:34:55.564] PICARD: you are not.
+[00:34:55.884 --> 00:35:06.364] ARMUS: I am a skin of evil left here by a race of Titans who believed if they rid themselves of me, they would free the bonds of destructiveness.
+[00:35:07.084 --> 00:35:08.444] PICARD: Yes. So here you are.
+[00:35:09.964 --> 00:35:14.204] PICARD: Feeding on your own loneliness. Consumed by your own pain. Believing your own lies.
+[00:35:15.084 --> 00:35:15.804] WORF: Set the computer.
+[00:35:16.124 --> 00:35:21.004] WORF: When the energy level reaches two point six point two zero five, automatically beam up Troi and Prieto.
+[00:35:21.484 --> 00:35:22.844] WORF: We'll do a parallel transport on the Captain.
+[00:35:23.324 --> 00:35:23.804] WESLEY: Yes, sir.
+[00:35:25.644 --> 00:35:27.004] PICARD: You say you are true evil?
+[00:35:28.364 --> 00:35:30.364] PICARD: Shall I tell you what true evil is?
+[00:35:30.364 --> 00:35:32.604] PICARD: It is to submit to you.
+[00:35:33.484 --> 00:35:37.084] PICARD: It is when we surrender our freedom, our dignity, instead of defying you.
+[00:35:37.324 --> 00:35:40.981] ARMUS: I will kill you, and those in there.
+[00:35:40.981 --> 00:35:46.924] PICARD: But you will still be here. In this place. For ever. Alone. Immortal.
+[00:35:51.004 --> 00:35:52.524] COMPUTER: Stand by for parallel transport.
+[00:35:52.924 --> 00:35:55.484] WORF: The energy level has dropped to two point six point three.
+[00:35:56.364 --> 00:36:02.524] PICARD: That's your real fear. Never to die. Never again to be united with those who left you here.
+[00:36:05.164 --> 00:36:06.604] WORF: Energy field is two point six.
+[00:36:06.764 --> 00:36:08.044] WORF: Computer beginning transport.
+[00:36:16.124 --> 00:36:17.484] PICARD: I'm not taking you anywhere.
+[00:36:32.366 --> 00:36:35.646] LOG: Captain's log, stardate 41602.1.
+[00:36:36.686 --> 00:36:41.566] LOG: The shuttlecraft has been destroyed to prevent any possibility of Armus leaving the planet.
+[00:36:42.286 --> 00:36:44.046] LOG: Vagra Two will be declared off limits.
+[00:36:45.646 --> 00:36:47.246] LOG: But the damage has been done.
+[00:36:48.686 --> 00:36:52.446] LOG: One of the saddest duties I've ever had to perform is now ahead of
+[00:36:57.806 --> 00:36:59.806] LOG: me.
+[00:37:03.246 --> 00:37:09.886] PICARD: We are here together to honour our friend and comrade, Lieutenant Natasha Yar.
+[00:37:11.326 --> 00:37:19.406] PICARD: Coming to terms with the loss of a colleague is perhaps the most difficult tasks we must face in the work we have chosen to pursue.
+[00:37:20.606 --> 00:37:24.526] PICARD: We will all find time to grieve for her in the days that are ahead,
+[00:37:25.886 --> 00:37:26.526] PICARD: but for now
+[00:37:28.926 --> 00:37:31.966] PICARD: she has asked that we celebrate her life
+[00:37:33.566 --> 00:37:33.966] PICARD: with this.
+[00:37:33.966 --> 00:37:34.366] TASHA: Hello, my
+[00:37:50.366 --> 00:37:50.846] TASHA: friends.
+[00:37:52.734 --> 00:37:55.774] TASHA: You are here now watching this image of me because I have died.
+[00:37:57.374 --> 00:38:02.254] TASHA: It probably happened while I was on duty, and quickly, which is what I expected.
+[00:38:04.014 --> 00:38:06.974] TASHA: Never forget I died doing exactly what I chose to do.
+[00:38:08.334 --> 00:38:13.614] TASHA: What I want you to know is how much I loved my life, and those of you who shared it with me.
+[00:38:15.214 --> 00:38:16.174] TASHA: You are my family.
+[00:38:17.854 --> 00:38:21.374] TASHA: You all know where I came from and what my life was like before.
+[00:38:22.014 --> 00:38:25.454] TASHA: But Starfleet took that frightened, angry young girl and tempered her.
+[00:38:26.734 --> 00:38:30.894] TASHA: I have been blessed with your friendship and your love.
+[00:38:30.974 --> 00:38:33.614] TASHA: Will Riker, you are the best.
+[00:38:35.374 --> 00:38:36.094] TASHA: You trusted me,
+[00:38:37.214 --> 00:38:40.814] TASHA: you encouraged me, and most of all you made me laugh.
+[00:38:43.854 --> 00:38:48.574] TASHA: Deanna, you are capable of so much love.
+[00:38:50.254 --> 00:38:52.014] TASHA: You taught me without ever having to say a word.
+[00:38:54.254 --> 00:38:57.694] TASHA: I realised I could be feminine without losing anything.
+[00:39:03.534 --> 00:39:04.094] TASHA: Ah, Worf.
+[00:39:05.934 --> 00:39:07.534] TASHA: We are so much alike, you and I.
+[00:39:08.334 --> 00:39:12.494] TASHA: Both warriors, orphans who found ourselves this family.
+[00:39:15.054 --> 00:39:17.534] TASHA: I hope I met death with my eyes wide open.
+[00:39:19.987 --> 00:39:24.547] TASHA: Beverly. Your fierce devotion comes from within. It can't be diminished.
+[00:39:25.587 --> 00:39:31.907] TASHA: From you, I have learned to strive for excellence, no matter what the personal cost.
+[00:39:33.987 --> 00:39:34.547] TASHA: Wesley,
+[00:39:36.227 --> 00:39:41.187] TASHA: I'm sorry I won't be able to see you grow into the exceptional man you'll be.
+[00:39:42.307 --> 00:39:45.027] TASHA: But your kindness and innocence are ageless.
+[00:39:47.587 --> 00:39:48.067] TASHA: Geordi, in
+[00:39:52.067 --> 00:39:53.667] TASHA: those moments I felt the most despair,
+[00:39:55.667 --> 00:39:58.307] TASHA: you took my hand and helped me to see things differently.
+[00:39:59.107 --> 00:40:00.867] TASHA: You taught me to look beyond the moment.
+[00:40:02.627 --> 00:40:07.107] TASHA: My friend Data. You see things with the wonder of a child,
+[00:40:09.187 --> 00:40:10.867] TASHA: and that makes you more human than any of us.
+[00:40:16.627 --> 00:40:17.747] TASHA: Captain Jean-Luc Picard.
+[00:40:20.707 --> 00:40:22.947] TASHA: I wish I could say you've been like a father to me,
+[00:40:24.787 --> 00:40:27.187] TASHA: but I've never had one, so I don't know what it feels like.
+[00:40:29.827 --> 00:40:33.267] TASHA: But if there was someone in this universe I could choose to be like,
+[00:40:35.347 --> 00:40:39.907] TASHA: someone who I would want to make proud of me,
+[00:40:41.667 --> 00:40:41.987] TASHA: it's you.
+[00:40:44.467 --> 00:40:49.027] TASHA: You who have the heart of an explorer and the soul of a poet.
+[00:40:51.195 --> 00:40:53.115] TASHA: So, you'll understand when I say,
+[00:40:55.035 --> 00:41:00.315] TASHA: death is that state in which one exists only in the memory of others.
+[00:41:02.075 --> 00:41:03.355] TASHA: Which is why it is not an end.
+[00:41:06.875 --> 00:41:07.515] TASHA: No goodbyes.
+[00:41:09.275 --> 00:41:10.715] TASHA: Just good memories.
+[00:41:13.835 --> 00:41:15.275] TASHA: Hailing frequencies closed, sir.
+[00:41:18.955 --> 00:41:20.955] PICARD: Au revoir, Natasha.
+[00:41:34.875 --> 00:41:37.675] PICARD: The gathering is concluded.
+[00:41:59.435 --> 00:41:59.675] DATA: Sir,
+[00:42:01.435 --> 00:42:02.795] DATA: the purpose of this gathering
+[00:42:04.875 --> 00:42:05.515] DATA: confuses me.
+[00:42:06.875 --> 00:42:07.755] PICARD: Oh? How so?
+[00:42:10.075 --> 00:42:12.315] DATA: My thoughts are not for Tasha,
+[00:42:13.835 --> 00:42:14.635] DATA: but for myself.
+[00:42:16.395 --> 00:42:20.155] DATA: I keep thinking how empty it will feel without her presence.
+[00:42:22.635 --> 00:42:23.515] DATA: Did I miss the point?
+[00:42:25.978 --> 00:42:28.618] PICARD: No, you didn't, Data.
+[00:42:28.858 --> 00:42:29.258] PICARD: You got it.
+[00:42:44.000 --> 00:43:32.000] [music]

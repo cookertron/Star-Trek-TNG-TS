@@ -1,0 +1,670 @@
+[00:00:09.520 --> 00:00:10.373] TROI: Computer, dispatches.
+[00:00:10.373 --> 00:00:17.200] COMPUTER: A research enquiry from the Manitoba Journal of Interplanetary Psychology and three communiqués from your mother.
+[00:00:21.360 --> 00:00:23.520] TROI: Transfer the letters from my mother to the viewscreen.
+[00:00:28.000 --> 00:00:28.960] TROI: And, computer,
+[00:00:30.480 --> 00:00:33.440] TROI: I would like a real chocolate sundae.
+[00:00:33.920 --> 00:00:36.000] COMPUTER: Define real in context, please.
+[00:00:36.960 --> 00:00:44.000] TROI: Real. Not one of your perfectly synthesised, ingeniously enhanced imitations.
+[00:00:46.480 --> 00:00:52.080] TROI: I would like real chocolate ice cream, real whipped cream
+[00:00:52.640 --> 00:00:56.480] COMPUTER: This unit is programmed to provide sources of acceptable nutritional value.
+[00:00:57.040 --> 00:00:59.520] COMPUTER: Your request does not fall within current guidelines.
+[00:00:59.920 --> 00:01:03.360] COMPUTER: Please indicate whether you wish to override the specified programme?
+[00:01:03.760 --> 00:01:04.080] TROI: Listen
+[00:01:04.720 --> 00:01:05.760] PICARD: Picard to Counsellor Troi.
+[00:01:05.910 --> 00:01:06.510] TROI: Now
+[00:01:07.520 --> 00:01:07.840] TROI: what?
+[00:01:09.840 --> 00:01:10.480] TROI: Yes, Captain?
+[00:01:11.120 --> 00:01:12.960] PICARD: The pleasure of your company is requested, Counsellor.
+[00:01:12.960 --> 00:01:16.720] PICARD: We're having a little impromptu reception for the arriving delegates.
+[00:01:17.440 --> 00:01:19.520] TROI: Captain, I'm not really dressed for a reception.
+[00:01:19.760 --> 00:01:21.520] PICARD: Oh, Counsellor Just throw on any old thing.
+[00:01:22.000 --> 00:01:23.600] PICARD: We're about to get our first look at the wormhole.
+[00:01:24.080 --> 00:01:24.800] TROI: Of course, Captain.
+[00:01:25.520 --> 00:01:26.160] TROI: I'm on my way.
+[00:01:29.726 --> 00:01:31.806] TROI: God forbid I should miss my first look at the wormhole.
+[00:01:37.726 --> 00:01:38.766] RIKER: May I escort you, Miss Troi?
+[00:01:39.326 --> 00:01:40.686] TROI: Just tell me there's some chocolate here.
+[00:01:41.006 --> 00:01:43.726] PICARD: Ah, Counsellor Troi. Will you allow me to do the introductions?
+[00:01:45.326 --> 00:01:48.206] PICARD: This is Premier Bhavani of Barzan. Counsellor Deanna Troi.
+[00:01:48.766 --> 00:01:51.646] TROI: Your discovery has produced a great deal of excitement, Premier.
+[00:01:52.286 --> 00:01:55.886] BHAVANI: Hopefully, it will also produce a new era of prosperity for my people.
+[00:01:56.446 --> 00:01:57.086] MENDOZA: We'll see to that.
+[00:01:58.286 --> 00:02:00.446] PICARD: You know Mister Mendoza, the Federation negotiator.
+[00:02:01.006 --> 00:02:02.526] MENDOZA: A pleasure to see you again, Counsellor Troi.
+[00:02:03.646 --> 00:02:08.549] PICARD: This is a worthy Federation competitors in the bidding, Leyor of the Caldonians.
+[00:02:08.549 --> 00:02:08.926] LEYOR: Madame.
+[00:02:10.206 --> 00:02:11.566] RAL: And I'm Devinoni Ral.
+[00:02:15.966 --> 00:02:17.246] TROI: Ship's Counsellor Deanna Troi.
+[00:02:18.686 --> 00:02:21.646] MENDOZA: My good friend, Ral, is the best hired gun in the business.
+[00:02:23.326 --> 00:02:24.046] TROI: Hired gun?
+[00:02:24.846 --> 00:02:29.406] RAL: My good friend Mendoza means that I'm a negotiator who serves a variety of clients.
+[00:02:30.526 --> 00:02:32.606] RAL: On this particular occasion I represent the Chrysalians.
+[00:02:33.486 --> 00:02:35.166] BHAVANI: I believe it's almost time, isn't it Captain?
+[00:02:35.646 --> 00:02:35.966] PICARD: Indeed.
+[00:02:36.526 --> 00:02:37.806] PICARD: It will be visible directly ahead.
+[00:02:44.526 --> 00:02:45.886] MENDOZA: Is it always on time, Bhavani?
+[00:02:46.206 --> 00:02:46.846] BHAVANI: Always.
+[00:02:47.566 --> 00:02:50.526] BHAVANI: We see it every two hundred and thirty three minutes.
+[00:02:51.246 --> 00:02:55.326] BHAVANI: Our scientists say it's due to radiation buildup in the accretion disk.
+[00:02:56.046 --> 00:02:57.086] BHAVANI: The visible burst
+[00:02:57.294 --> 00:02:58.094] BHAVANI: is very brief.
+[00:03:02.974 --> 00:03:04.334] BHAVANI: There it is, ladies and gentlemen,
+[00:03:04.734 --> 00:03:08.494] BHAVANI: the first and only stable wormhole known to exist.
+[00:03:10.014 --> 00:03:12.814] BHAVANI: It's yours, for the right price.
+[00:03:44.654 --> 00:03:47.214] PICARD: Space, the final frontier.
+[00:03:49.054 --> 00:03:51.934] PICARD: These are the voyagers of the Starship Enterprise.
+[00:03:53.054 --> 00:04:01.054] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:02.654 --> 00:04:05.614] PICARD: to boldly go where no one has gone before.
+[00:04:55.000 --> 00:05:04.000] [music]
+[00:05:02.724 --> 00:05:05.844] LOG: Captain's log, Stardate 43385.6.
+[00:05:05.924 --> 00:05:15.684] LOG: We are orbiting Barzan Two, which is entertaining bids for control of what appears to be a stable wormhole, which could provide a permanent shortcut to the distant Gamma Quadrant.
+[00:05:16.644 --> 00:05:23.204] BHAVANI: And as you all know, the environment on my planet is completely inhospitable to most other life forms.
+[00:05:24.404 --> 00:05:30.644] BHAVANI: So I'd like to express my appreciation to you, Captain Picard, for hosting these negotiations.
+[00:05:30.884 --> 00:05:35.044] BHAVANI: The Barzan has been a society dependent on others for generations.
+[00:05:35.604 --> 00:05:36.964] BHAVANI: We want that to end.
+[00:05:36.964 --> 00:05:45.124] BHAVANI: The appearance of this stable wormhole in our space provides us with our first true natural resource.
+[00:05:46.244 --> 00:05:53.044] BHAVANI: We have neither the experience nor the technology to exploit it. But you do.
+[00:05:53.663 --> 00:05:54.143] RIKER: Excuse me.
+[00:05:54.783 --> 00:05:57.423] RIKER: There's a delegation of Ferengi who wishes to be beamed aboard, sir.
+[00:06:00.463 --> 00:06:01.983] PICARD: Were you expecting the Ferengi, Premier?
+[00:06:02.863 --> 00:06:05.583] BHAVANI: No, but I do not wish to create ill will, Captain.
+[00:06:06.623 --> 00:06:08.863] BHAVANI: If they are interested in bidding, I have no objection.
+[00:06:10.943 --> 00:06:13.343] PICARD: Chief O'Brien, this is Captain Picard.
+[00:06:13.343 --> 00:06:15.823] PICARD: Will you beam the Ferengi directly to the Observation lounge?
+[00:06:16.223 --> 00:06:16.543] O'BRIEN: Aye, sir.
+[00:06:23.263 --> 00:06:25.263] GOSS: On behalf of all Ferengi, I protest.
+[00:06:25.663 --> 00:06:27.743] GOSS: Why were we not invited to these negotiations?
+[00:06:27.743 --> 00:06:28.943] BHAVANI: My apologies.
+[00:06:29.023 --> 00:06:30.863] BHAVANI: We did not anticipate your interest.
+[00:06:31.263 --> 00:06:32.623] BHAVANI: You're welcome to join us.
+[00:06:33.103 --> 00:06:37.183] GOSS: My name is DaiMon Goss. These are my consuls, Kol and Doctor Arridor. We'll
+[00:06:37.903 --> 00:06:38.543] GOSS: need chairs.
+[00:06:39.263 --> 00:06:40.863] PICARD: I'm Captain Jean-Luc Picard of the Enterprise.
+[00:06:40.863 --> 00:06:43.263] PICARD: I'm serving as host for these proceedings.
+[00:06:43.263 --> 00:06:43.503] GOSS: Good,
+[00:06:43.663 --> 00:06:44.943] GOSS: then see to it that we get chairs.
+[00:06:45.663 --> 00:06:46.383] PICARD: Let me explain.
+[00:06:46.623 --> 00:06:47.423] GOSS: Fine, fine,
+[00:06:47.423 --> 00:06:49.503] GOSS: just have your Klingon servant get us some chairs.
+[00:06:49.903 --> 00:06:51.183] WORF: I am in charge of Security.
+[00:06:52.303 --> 00:06:53.423] GOSS: Then who gets the chairs?
+[00:06:55.263 --> 00:06:55.743] PICARD: DaiMon,
+[00:06:56.143 --> 00:07:03.183] PICARD: due to the delicate nature of these negotiations, all parties have agreed that one representative would suffice.
+[00:07:03.183 --> 00:07:08.863] PICARD: Now I will be happy to provide your consuls with accommodations and you may have my chair.
+[00:07:10.063 --> 00:07:10.703] GOSS: Very well.
+[00:07:11.983 --> 00:07:12.303] PICARD: Premier.
+[00:07:21.013 --> 00:07:22.373] GOSS: Kol, the bag.
+[00:07:22.373 --> 00:07:23.733] RIKER: Gentlemen, this way.
+[00:07:25.173 --> 00:07:27.013] GOSS: We can handle all the pleasantries later.
+[00:07:27.813 --> 00:07:29.893] GOSS: Now, let's get down to business.
+[00:07:33.253 --> 00:07:37.493] GOSS: I'll match anyone's best offer, and add the gold on top of it.
+[00:07:43.413 --> 00:07:51.413] COMPUTER: Devinoni Ral, human. Age forty one. Born Brussels, European Alliance. Relocated at age nineteen to Hurkos Three.
+[00:07:52.133 --> 00:07:52.533] TROI: Come in.
+[00:07:59.893 --> 00:08:00.933] RAL: Should I call for an appointment ?
+[00:08:01.733 --> 00:08:02.053] TROI: No,
+[00:08:03.733 --> 00:08:05.733] TROI: I was just looking over some personnel files.
+[00:08:06.133 --> 00:08:07.013] RAL: Well, that's too bad.
+[00:08:08.133 --> 00:08:09.573] RAL: I thought you might be thinking about me.
+[00:08:10.693 --> 00:08:13.253] TROI: I thought you'd be deep in negotiations by now.
+[00:08:13.813 --> 00:08:14.533] RAL: In recess.
+[00:08:17.013 --> 00:08:18.373] RAL: I never play the opening rounds, anyway.
+[00:08:19.253 --> 00:08:19.973] RAL: Inconsequential.
+[00:08:21.973 --> 00:08:24.613] RAL: Besides there are much better things to negotiate on this ship.
+[00:08:26.373 --> 00:08:27.173] RAL: Like dinner tonight?
+[00:08:28.613 --> 00:08:30.613] TROI: What about your travelling companion?
+[00:08:32.293 --> 00:08:35.173] RAL: My travelling companion is travelling.
+[00:08:37.333 --> 00:08:37.973] RAL: I sent her home.
+[00:08:39.733 --> 00:08:40.053] TROI: Why?
+[00:08:41.893 --> 00:08:42.373] RAL: You know why.
+[00:08:44.933 --> 00:08:46.213] TROI: Weren't you getting along?
+[00:08:47.991 --> 00:08:48.391] RAL: Don't do that.
+[00:08:49.191 --> 00:08:49.351] TROI: What?
+[00:08:50.151 --> 00:08:51.991] RAL: Don't do Counsellor Troi.
+[00:08:53.911 --> 00:08:54.311] TROI: Was I?
+[00:08:54.711 --> 00:08:55.271] RAL: Yes, you were.
+[00:09:02.631 --> 00:09:03.671] RAL: When you leave this office,
+[00:09:05.191 --> 00:09:05.751] RAL: who are you?
+[00:09:08.471 --> 00:09:10.071] RAL: Oh. So that's how it goes.
+[00:09:11.591 --> 00:09:12.151] RAL: You never do.
+[00:09:14.951 --> 00:09:15.431] RAL: You never do
+[00:09:16.791 --> 00:09:17.111] RAL: leave
+[00:09:19.271 --> 00:09:19.911] RAL: the office.
+[00:09:20.871 --> 00:09:21.031] TROI: What
+[00:09:21.111 --> 00:09:22.151] RAL: Shush. Dinner at eight?
+[00:09:57.031 --> 00:10:00.071] DATA: The data from the Barzan's probe of the wormhole are quite impressive, Captain.
+[00:10:00.711 --> 00:10:05.031] DATA: The wormhole delivered the probe beyond the Denkiri Arm, in the Gamma Quadrant.
+[00:10:08.631 --> 00:10:11.591] PICARD: It would take nearly a century at warp nine to cover that distance.
+[00:10:11.911 --> 00:10:14.791] DATA: The same distance could be achieved in a matter of seconds through the wormhole.
+[00:10:14.951 --> 00:10:18.711] RIKER: Imagine the Ferengi collecting tolls if we lose to them.
+[00:10:19.351 --> 00:10:21.351] MENDOZA: I don't think the Ferengi are the greatest
+[00:10:21.380 --> 00:10:27.380] MENDOZA: threat at the table. With all of DaiMon Goss' bluster, they don't have the resources the Barzans need.
+[00:10:27.780 --> 00:10:31.460] RIKER: I think that Devinoni is the one that we need to watch out for.
+[00:10:33.060 --> 00:10:34.260] MENDOZA: An accurate observation.
+[00:10:34.980 --> 00:10:35.940] MENDOZA: How did you recognise that?
+[00:10:36.500 --> 00:10:37.940] RIKER: He was the most comfortable one in the group.
+[00:10:38.500 --> 00:10:39.940] MENDOZA: You must play poker, Commander.
+[00:10:40.500 --> 00:10:40.900] RIKER: Poker?
+[00:10:40.900 --> 00:10:42.900] RIKER: Is that a game of some sort?
+[00:10:43.940 --> 00:10:46.260] PICARD: Commander Riker conducts masterclasses in poker.
+[00:10:47.860 --> 00:10:49.540] MENDOZA: Our skills are not dissimilar, Commander.
+[00:10:50.340 --> 00:10:56.420] PICARD: Mister Mendoza, if this lives up to its billing, it will be a discovery of extraordinary value.
+[00:10:57.700 --> 00:10:59.060] PICARD: But it is a big if.
+[00:10:59.780 --> 00:11:01.940] RIKER: A wormholes is there one moment, and then gone the next.
+[00:11:01.940 --> 00:11:03.460] RIKER: A stable wormhole is unheard of.
+[00:11:04.100 --> 00:11:05.940] MENDOZA: Are you saying this may not be what it seems?
+[00:11:06.500 --> 00:11:10.340] DATA: The Barzans do not have manned space travel, so they had to resort to an automated probe.
+[00:11:10.820 --> 00:11:11.860] DATA: Its findings are limited.
+[00:11:12.340 --> 00:11:18.020] DATA: It cannot be determined from these charts how stable the wormhole really is, or how long it will remain intact.
+[00:11:18.500 --> 00:11:21.060] PICARD: The Federation could wind up buying a proverbial lemon.
+[00:11:22.340 --> 00:11:23.060] DATA: Aye, sir. Proverbial lemon?
+[00:11:23.860 --> 00:11:24.500] PICARD: Later, Data.
+[00:11:25.140 --> 00:11:30.660] MENDOZA: And of course that means, once the contract is negotiated and closed, we would be obliged to fulfill the terms.
+[00:11:31.540 --> 00:11:32.740] RIKER: We think we should take a look for ourselves.
+[00:11:33.380 --> 00:11:34.900] MENDOZA: I don't think Bhavani could object to that.
+[00:11:35.220 --> 00:11:38.100] RIKER: Geordi has continuous visual contact with the wormhole, Captain.
+[00:11:38.100 --> 00:11:39.140] RIKER: I think he's the logical choice.
+[00:11:39.460 --> 00:11:40.740] DATA: I would also like to volunteer, sir.
+[00:11:41.300 --> 00:11:44.260] PICARD: Nobody's going in there until we have done a full sensor analysis.
+[00:11:45.140 --> 00:11:52.820] PICARD: I want to do everything possible to determine that it's safe, and when I am satisfied, then you, Data, and Commander La Forge will enter the wormhole
+[00:11:53.942 --> 00:11:54.262] PICARD: tomorrow.
+[00:11:55.702 --> 00:11:59.942] ARRIDOR: Just a moment of discomfort for a good cause, DaiMon.
+[00:12:01.062 --> 00:12:04.282] ARRIDOR: You understand this will not be lethal.
+[00:12:04.282 --> 00:12:04.742] GOSS: Doctor,
+[00:12:04.742 --> 00:12:05.622] GOSS: you surprise me.
+[00:12:06.022 --> 00:12:07.302] GOSS: I have no wish to kill anyone.
+[00:12:08.102 --> 00:12:10.102] GOSS: A short term crippling will suffice.
+[00:12:10.422 --> 00:12:11.942] ARRIDOR: Then, this will be just fine.
+[00:12:13.622 --> 00:12:20.982] ARRIDOR: A distillation of your own blood pyrocytes. Harmless to you. Undetectable by the ship's bio-filters,
+[00:12:21.302 --> 00:12:27.222] ARRIDOR: but when absorbed through your victim's skin, it will provoke an extreme allergic reaction.
+[00:12:28.102 --> 00:12:32.342] GOSS: I'd say it is time to extend the hand of the Ferengi to the representative of the Federation.
+[00:12:41.782 --> 00:12:42.262] RAL: Much better.
+[00:12:43.622 --> 00:12:44.022] TROI: Thank you.
+[00:12:46.102 --> 00:12:46.902] TROI: Come in for a drink?
+[00:12:51.302 --> 00:12:53.462] RAL: Ah, Federation decor.
+[00:12:54.262 --> 00:12:54.982] TROI: Not your style?
+[00:12:55.302 --> 00:12:58.662] RAL: Well, conformity is not my style.
+[00:13:00.502 --> 00:13:01.062] TROI: What would you like?
+[00:13:07.782 --> 00:13:10.502] RAL: I'd even like another.
+[00:13:16.502 --> 00:13:19.062] RAL: There she is again, Counsellor Troi.
+[00:13:19.222 --> 00:13:19.862] TROI: I'm not.
+[00:13:22.110 --> 00:13:22.670] TROI: Computer,
+[00:13:24.030 --> 00:13:24.510] TROI: champagne.
+[00:13:24.510 --> 00:13:25.470] RAL: For two.
+[00:13:28.110 --> 00:13:28.110] RAL: Am
+[00:13:36.190 --> 00:13:37.550] RAL: I moving too fast for you?
+[00:13:40.190 --> 00:13:40.350] TROI: No,
+[00:13:42.350 --> 00:13:43.710] TROI: I'm moving too fast for me.
+[00:13:45.230 --> 00:13:45.870] RAL: I like that better.
+[00:13:52.670 --> 00:13:55.390] TROI: I haven't been able to stop thinking about you all day.
+[00:13:55.540 --> 00:13:56.140] RAL: You
+[00:14:13.550 --> 00:14:14.590] RAL: must have had a nice day.
+[00:14:16.190 --> 00:14:17.630] TROI: Anticipation is fun.
+[00:14:26.350 --> 00:14:27.150] TROI: We'll be late for dinner.
+[00:14:33.150 --> 00:14:33.390] RAL: Very late.
+[00:14:34.750 --> 00:14:34.990] CRUSHER: Mister
+[00:14:36.062 --> 00:14:38.062] CRUSHER: Mendoza.
+[00:14:42.206 --> 00:14:44.206] MENDOZA: I
+[00:14:48.350 --> 00:14:51.470] MENDOZA: seem to be a bit warm.
+[00:14:53.641 --> 00:14:54.441] CRUSHER: I need some help here
+[00:14:57.481 --> 00:15:00.336] GOSS: You attempt to gain every unfair advantage, Picard.
+[00:15:00.336 --> 00:15:02.121] PICARD: Premier Bhavani has no objection.
+[00:15:02.361 --> 00:15:03.881] GOSS: Well, I most certainly do.
+[00:15:04.201 --> 00:15:06.841] GOSS: First, you conveniently arrange to play host,
+[00:15:07.241 --> 00:15:10.361] GOSS: then you plan to send your own manned probe into the wormhole.
+[00:15:10.841 --> 00:15:12.921] GOSS: The Federation thinks it can do anything it wants to.
+[00:15:12.921 --> 00:15:14.601] GOSS: Well, I will not tolerate it!
+[00:15:14.761 --> 00:15:18.761] PICARD: I will gladly share the results of our exploration with all the delegates.
+[00:15:20.841 --> 00:15:23.481] GOSS: And you expect us to believe what you report?
+[00:15:24.041 --> 00:15:26.041] RIKER: Then send in your own probe, Goss.
+[00:15:26.281 --> 00:15:27.961] GOSS: That's exactly what I intend to do.
+[00:15:28.281 --> 00:15:31.241] GOSS: And I should strongly suggest you stay out of our way.
+[00:15:38.521 --> 00:15:41.881] PICARD: Tell Data and La Forge to do themselves a favour, and stay out of their way.
+[00:15:46.281 --> 00:15:48.041] CRUSHER: Captain Picard, please come to Sickbay.
+[00:15:48.761 --> 00:15:49.481] PICARD: Acknowledged, Doctor.
+[00:15:53.641 --> 00:15:56.041] CRUSHER: Whatever he's got is obviously not life threatening.
+[00:15:56.841 --> 00:15:59.081] CRUSHER: It's some kind of system-wide histaminic reaction.
+[00:16:00.281 --> 00:16:03.001] CRUSHER: He certainly can't go back to negotiations for several days.
+[00:16:05.001 --> 00:16:05.801] PICARD: Will you keep me informed?
+[00:16:05.951 --> 00:16:06.551] PICARD: The
+[00:16:14.281 --> 00:16:17.881] PICARD: Federation's top negotiator taken out by a mysterious ailment.
+[00:16:18.921 --> 00:16:19.428] PICARD: Suspicions?
+[00:16:19.428 --> 00:16:21.961] RIKER: With the Ferengi around? Always.
+[00:16:22.921 --> 00:16:24.041] PICARD: You'll have to fill in, Number One.
+[00:16:24.521 --> 00:16:24.761] RIKER: Me?
+[00:16:25.481 --> 00:16:27.241] PICARD: Well, I'm the designated host.
+[00:16:27.241 --> 00:16:28.201] PICARD: It would be a most
+[00:16:28.634 --> 00:16:29.834] PICARD: awkward transition.
+[00:16:29.914 --> 00:16:31.194] PICARD: You're the next likely choice.
+[00:16:32.154 --> 00:16:33.674] PICARD: And Mister Mendoza will certainly agree.
+[00:16:34.634 --> 00:16:37.034] PICARD: He's quite impressed by your natural instincts.
+[00:16:37.114 --> 00:16:39.034] RIKER: Excuse me, sir, but those weren't natural instincts.
+[00:16:39.034 --> 00:16:39.994] RIKER: Those were poker instincts.
+[00:16:40.794 --> 00:16:42.794] RIKER: A card game doesn't exactly prepare me for this.
+[00:16:43.034 --> 00:16:44.314] PICARD: Yes, the stakes are higher.
+[00:16:45.034 --> 00:16:47.274] PICARD: But then, isn't that when the game gets interesting, Commander?
+[00:16:54.154 --> 00:16:56.714] WESLEY: The wormhole will reappear in thirty seconds, sir.
+[00:16:56.954 --> 00:16:58.794] WORF: The Ferengi pod is moving into position.
+[00:16:59.274 --> 00:17:00.634] PICARD: Shuttle nine, stand by.
+[00:17:05.994 --> 00:17:06.714] LAFORGE: Ferengi pod,
+[00:17:07.194 --> 00:17:09.674] LAFORGE: this is Lieutenant Commander La Forge in the Enterprise shuttle.
+[00:17:10.394 --> 00:17:11.274] ARRIDOR: This is Doctor Arridor,
+[00:17:11.274 --> 00:17:11.994] ARRIDOR: go ahead.
+[00:17:12.874 --> 00:17:14.474] LAFORGE: Would you care to take the point, Doctor?
+[00:17:15.594 --> 00:17:19.594] ARRIDOR: We will gladly yield that honour to you, Lieutenant Commander.
+[00:17:22.554 --> 00:17:27.114] LAFORGE: You know, if this doesn't work, the thought of spending the rest of my life in here is none too appealing.
+[00:17:28.794 --> 00:17:29.914] DATA: There is a bright side, Geordi.
+[00:17:30.794 --> 00:17:31.834] DATA: You will have me to talk to.
+[00:17:38.154 --> 00:17:39.114] DATA: It is visible, Captain.
+[00:17:40.314 --> 00:17:41.034] PICARD: Proceed when ready.
+[00:17:47.514 --> 00:17:51.194] DATA: and intense energy fields which appear to be stabil
+[00:17:51.674 --> 00:17:51.674] WESLEY: They've
+[00:17:56.554 --> 00:17:58.234] WESLEY: travelled beyond our communication capabilities, sir
+[00:17:59.514 --> 00:18:01.354] RIKER: A complete analysis of our bid is available
+[00:18:01.428 --> 00:18:03.948] RIKER: on the ship's computer for your consideration.
+[00:18:03.948 --> 00:18:04.308] RAL: Commander,
+[00:18:04.308 --> 00:18:07.428] RAL: I realise what a difficult position this must be for you.
+[00:18:08.068 --> 00:18:11.748] RAL: If you don't understand something, I hope you won't be too embarrassed to ask me.
+[00:18:12.948 --> 00:18:14.468] RIKER: I think I have an idea what the rules are.
+[00:18:15.508 --> 00:18:17.428] RAL: Well, that's what makes it so interesting.
+[00:18:18.068 --> 00:18:19.908] RAL: The rules of the game change to fit the moment.
+[00:18:20.548 --> 00:18:22.628] RIKER: Not unlike commanding a starship, Mister Ral.
+[00:18:24.148 --> 00:18:33.108] RAL: Well, Mister Riker's placed a great deal of emphasis on defence, a subject he obviously knows well, having served Starfleet in a number of conflicts.
+[00:18:34.468 --> 00:18:35.348] RAL: Now, the Chrysalians,
+[00:18:37.268 --> 00:18:40.468] RAL: we're enemies to no one, and we choose to remain that way.
+[00:18:41.428 --> 00:18:41.748] RAL: Neutral.
+[00:18:44.708 --> 00:18:51.028] RIKER: Neutral, and uninvolved, sir, in virtually all interstellar matters of consequence.
+[00:18:52.148 --> 00:18:55.828] RAL: No one would claim that the Chrysalians are as powerful as the mighty Federation,
+[00:18:57.188 --> 00:19:01.428] RAL: but we have resources, and technology, and scientists too.
+[00:19:02.788 --> 00:19:05.668] RAL: But we also have had peace for ten generations.
+[00:19:12.468 --> 00:19:13.348] RAL: You know, I was thinking.
+[00:19:13.498 --> 00:19:14.098] TROI: Mmm?
+[00:19:15.988 --> 00:19:18.948] RAL: Maybe I could stretch out these negotiations for a few days.
+[00:19:20.788 --> 00:19:21.428] RAL: Would you like that?
+[00:19:28.308 --> 00:19:29.588] TROI: Mmm-hmmm. Devinoni Ral.
+[00:19:31.348 --> 00:19:32.068] TROI: Who are you?
+[00:19:33.743 --> 00:19:35.983] RAL: Well, what do your Betazoid senses tell you about me?
+[00:19:37.823 --> 00:19:38.463] TROI: Not much.
+[00:19:41.023 --> 00:19:44.463] TROI: My human physical response must be blocking them out.
+[00:19:46.063 --> 00:19:46.303] RAL: Good.
+[00:19:49.103 --> 00:19:50.383] TROI: It never happened to me before.
+[00:19:53.823 --> 00:19:57.183] RAL: I rather like it that I'm more difficult to read than your other men.
+[00:19:58.703 --> 00:19:59.743] TROI: There aren't any others.
+[00:20:01.983 --> 00:20:02.543] TROI: Currently.
+[00:20:03.983 --> 00:20:04.943] RAL: What about Commander Riker?
+[00:20:12.943 --> 00:20:13.903] TROI: Who have you been talking to?
+[00:20:14.223 --> 00:20:14.543] RAL: No one.
+[00:20:15.183 --> 00:20:15.503] RAL: No one.
+[00:20:15.503 --> 00:20:18.463] RAL: I just sensed something when I saw the two of you together.
+[00:20:20.303 --> 00:20:22.463] TROI: Will Riker and I are good friends.
+[00:20:23.743 --> 00:20:24.623] RAL: Ah ha.
+[00:20:33.663 --> 00:20:35.583] TROI: It was once a little more than that.
+[00:20:36.623 --> 00:20:37.263] RAL: Ah.
+[00:20:41.423 --> 00:20:43.663] TROI: How come we're talking about me instead of you?
+[00:20:43.663 --> 00:20:47.263] RAL: Don't you have enough people talk about their lives to you?
+[00:20:49.343 --> 00:20:50.703] RAL: Who counsels the Counsellor?
+[00:20:51.423 --> 00:20:51.583] TROI: Oh no,
+[00:20:53.103 --> 00:20:54.223] TROI: I want to know about you.
+[00:20:55.503 --> 00:20:56.543] RAL: I'm what you see right now.
+[00:20:58.063 --> 00:20:58.463] RAL: Just me,
+[00:21:00.627 --> 00:21:01.507] RAL: wanting to run away with you,
+[00:21:03.107 --> 00:21:04.627] RAL: but knowing you'd never leave this damned ship.
+[00:21:07.027 --> 00:21:08.067] TROI: When I first saw you,
+[00:21:11.267 --> 00:21:12.867] TROI: I felt as if I'd been waiting for you.
+[00:21:15.667 --> 00:21:20.547] TROI: I'm trying to understand why or how that's possible.
+[00:21:21.747 --> 00:21:22.307] RAL: Does it matter?
+[00:21:27.827 --> 00:21:33.027] RAL: Well, it will when I tell you. But you must promise never to tell anyone else.
+[00:21:35.267 --> 00:21:35.507] TROI: What?
+[00:21:39.027 --> 00:21:40.387] RAL: I am part Betazoid too.
+[00:21:42.227 --> 00:21:43.187] RAL: My mother was one half,
+[00:21:43.187 --> 00:21:43.907] RAL: I am one quarter.
+[00:21:45.987 --> 00:21:46.787] TROI: You're empathic?
+[00:21:47.987 --> 00:21:49.347] RAL: The only one of five children.
+[00:21:51.107 --> 00:21:51.987] RAL: I must admit I was
+[00:21:53.587 --> 00:21:56.467] RAL: never as comfortable sensing emotions as you seem to be.
+[00:21:58.067 --> 00:21:59.427] TROI: That's why you left Earth.
+[00:22:00.867 --> 00:22:01.027] RAL: Yes.
+[00:22:03.027 --> 00:22:05.987] RAL: I learned to live with it, use it, as you have.
+[00:22:08.067 --> 00:22:08.627] RAL: But still, it
+[00:22:11.347 --> 00:22:12.547] RAL: isolates us, doesn't it?
+[00:22:12.547 --> 00:22:17.347] RAL: And I thought it would always would, so I tucked my heart away.
+[00:22:17.347 --> 00:22:18.947] RAL: I didn't need it,
+[00:22:18.947 --> 00:22:19.747] RAL: I didn't want it.
+[00:22:22.787 --> 00:22:23.987] RAL: At the negotiating table,
+[00:22:26.307 --> 00:22:27.667] RAL: it can be fatal to have a heart.
+[00:22:31.427 --> 00:22:33.347] RAL: But I never realised how much I needed mine
+[00:22:35.987 --> 00:22:36.787] RAL: until I looked at you.
+[00:22:36.937 --> 00:22:37.537] LAFORGE: I'm
+[00:22:52.707 --> 00:22:55.587] LAFORGE: picking up an increase in accretion matter filtering in from the terminus.
+[00:23:03.907 --> 00:23:05.427] DATA: Monitors are functioning normally again.
+[00:23:06.147 --> 00:23:06.867] LAFORGE: Ferengi pod,
+[00:23:08.147 --> 00:23:09.347] LAFORGE: everybody in one piece over there?
+[00:23:09.987 --> 00:23:13.267] ARRIDOR: Our condition is no concern of yours, Enterprise shuttle.
+[00:23:13.907 --> 00:23:16.467] ARRIDOR: We are competitors in this venture, not partners.
+[00:23:16.867 --> 00:23:18.067] ARRIDOR: Ferengi pod, out.
+[00:23:18.217 --> 00:23:18.817] LAFORGE: Yeah,
+[00:23:19.747 --> 00:23:21.027] LAFORGE: happy landings to you, too.
+[00:23:22.227 --> 00:23:22.787] DATA: Curious.
+[00:23:24.467 --> 00:23:26.947] DATA: We are not where we are supposed to be.
+[00:23:27.747 --> 00:23:29.587] LAFORGE: What do you mean? We're on the other side of the wormhole, aren't we ?
+[00:23:30.547 --> 00:23:40.227] DATA: According to the Barzan probe, we should be in the Gamma Quadrant but these readings clearly indicate we are nearly two hundred light years away in sector three five five six of the Delta Quadrant.
+[00:23:41.427 --> 00:23:42.707] LAFORGE: Maybe the Barzan readings were wrong.
+[00:23:44.547 --> 00:23:45.667] DATA: Perhaps the readings were correct.
+[00:23:46.947 --> 00:23:50.307] DATA: Their probe could have exited the wormhole at a completely different location.
+[00:23:52.147 --> 00:23:55.667] LAFORGE: Data, my Visor's picking up subatomic fluctuations.
+[00:23:56.627 --> 00:23:58.547] LAFORGE: Meson and lepton activity is definitely increasing.
+[00:23:59.427 --> 00:24:01.507] DATA: Gravitational acceleration is also increasing.
+[00:24:04.125 --> 00:24:06.365] LAFORGE: Something very strange is happening to this wormhole.
+[00:24:19.085 --> 00:24:19.885] TROI: Sorry.
+[00:24:26.205 --> 00:24:27.725] CRUSHER: You're unusually limber this morning.
+[00:24:28.365 --> 00:24:29.005] TROI: I'll say.
+[00:24:31.245 --> 00:24:32.285] TROI: Devinoni Ral.
+[00:24:35.245 --> 00:24:37.485] TROI: It's ridiculous, and wonderful.
+[00:24:38.685 --> 00:24:41.165] TROI: I feel completely out of control.
+[00:24:41.725 --> 00:24:47.245] TROI: Happy. Terrified. But there's nothing rational about this.
+[00:24:47.805 --> 00:24:49.645] CRUSHER: Who needs rational when your toes curl up?
+[00:24:54.765 --> 00:24:58.685] TROI: I'm afraid I'm going to lose myself.
+[00:25:00.765 --> 00:25:02.125] TROI: I can't get enough of him.
+[00:25:03.165 --> 00:25:05.405] TROI: Is it possible to fall in love in one day?
+[00:25:05.565 --> 00:25:06.045] CRUSHER: I did.
+[00:25:07.405 --> 00:25:08.685] TROI: It was like this for you and Jack?
+[00:25:08.845 --> 00:25:10.765] CRUSHER: No, it was another fellow.
+[00:25:12.045 --> 00:25:13.405] CRUSHER: I fell in love in a day,
+[00:25:13.725 --> 00:25:16.525] CRUSHER: it lasted a week. But what a week.
+[00:25:20.045 --> 00:25:20.765] CRUSHER: Then I met Jack.
+[00:25:20.915 --> 00:25:21.515] CRUSHER: It
+[00:25:22.365 --> 00:25:23.965] CRUSHER: took months to figure it out with him.
+[00:25:24.205 --> 00:25:27.885] TROI: Well then, maybe I should slow down. Catch my breath.
+[00:25:29.485 --> 00:25:32.125] TROI: Not let this get out of control.
+[00:25:33.737 --> 00:25:34.057] CRUSHER + TROI: No.
+[00:25:37.817 --> 00:25:37.897] RAL: To
+[00:25:49.897 --> 00:25:53.657] RAL: be honest, I was surprised to see the Caldonians here at all, Leyor.
+[00:25:55.097 --> 00:25:57.577] LEYOR: You must think Caldonia very insular, Mister Ral.
+[00:25:58.217 --> 00:25:59.257] RAL: Oh, no, no, not at all.
+[00:25:59.577 --> 00:26:00.137] RAL: Not at all.
+[00:26:00.137 --> 00:26:04.777] RAL: On the contrary, I've respected your world's commitment to pure research.
+[00:26:06.137 --> 00:26:07.657] RAL: It's just that, well.
+[00:26:09.097 --> 00:26:10.457] LEYOR: Go on, please.
+[00:26:11.897 --> 00:26:15.257] RAL: Well, scholars don't always enjoy administrative demands.
+[00:26:16.617 --> 00:26:20.057] RAL: And certainly we've seen here that the administration of the wormhole is
+[00:26:20.057 --> 00:26:25.417] LEYOR: Yes, I must admit, I have begun to feel some trepidation about that.
+[00:26:29.337 --> 00:26:29.337] RAL: Yes.
+[00:26:29.417 --> 00:26:30.857] RAL: Yes, I'm sure you have, Leyor. I'm
+[00:26:32.617 --> 00:26:33.417] RAL: sure we all have.
+[00:26:34.697 --> 00:26:39.141] RAL: Do you realise that in the next century, the number of ships that will pass
+[00:26:39.141 --> 00:26:42.697] BHAVANI: Gentlemen, this open session is called by request of the Caldonian delegation.
+[00:26:45.577 --> 00:26:48.537] LEYOR: Madame Bhavani, Caldonia withdraws from these proceedings.
+[00:26:50.057 --> 00:26:51.337] BHAVANI: For what reasons, Leyor?
+[00:26:52.137 --> 00:26:57.097] LEYOR: It has been made very clear that the maintenance and administrative requirements are beyond our abilities.
+[00:26:57.977 --> 00:27:04.857] RIKER: Leyor, the Federation would like to negotiate a trade agreement in which we could acquire your planet's rich deposits of trillium 323
+[00:27:05.324 --> 00:27:07.484] RIKER: which we would add to our bid, Premier Bhavani.
+[00:27:08.444 --> 00:27:09.244] LEYOR: My apologies.
+[00:27:09.724 --> 00:27:12.284] LEYOR: We have already reached an agreement with the Chrysalians.
+[00:27:18.684 --> 00:27:18.924] RIKER: Mister
+[00:27:18.924 --> 00:27:19.324] RIKER: Ral?
+[00:27:20.444 --> 00:27:24.364] RIKER: You either had very good instincts, or foreknowledge of the Caldonian withdrawal.
+[00:27:25.964 --> 00:27:29.324] RAL: Some people just don't wish to transact business with the Federation, Commander.
+[00:27:30.444 --> 00:27:35.564] RAL: The Chrysalians hereby add the Caldonian trillium 323 to its bid, Premier.
+[00:27:46.124 --> 00:27:47.404] LAFORGE: I'm telling you, it's changing.
+[00:27:48.044 --> 00:27:49.324] LAFORGE: I can see it with my Visor.
+[00:27:49.644 --> 00:27:51.724] ARRIDOR: I have no intention of leaving yet.
+[00:27:51.804 --> 00:27:53.644] ARRIDOR: We have not finished taking our readings.
+[00:27:53.884 --> 00:27:54.604] LAFORGE: Listen, Doctor.
+[00:27:54.764 --> 00:27:57.244] LAFORGE: Your readings must be telling you the same things we're getting.
+[00:27:57.244 --> 00:27:58.684] LAFORGE: This is not the Gamma Quadrant.
+[00:27:59.484 --> 00:28:01.804] ARRIDOR: I will not confirm your speculations.
+[00:28:02.124 --> 00:28:03.804] DATA: This is not a speculation, Doctor.
+[00:28:04.124 --> 00:28:08.844] DATA: We are not where the Barzans said we should be, which would indicate This side of the wormhole is not stable.
+[00:28:09.244 --> 00:28:11.724] LAFORGE: There are meson and lepton fluctuations.
+[00:28:12.044 --> 00:28:14.604] LAFORGE: Local gravitational fields are increasing exponentially.
+[00:28:14.604 --> 00:28:16.444] LAFORGE: Everything says we'd better get the hell out of here.
+[00:28:16.604 --> 00:28:19.244] ARRIDOR: It will be visible again in forty seconds.
+[00:28:19.244 --> 00:28:20.764] ARRIDOR: We will make our own judgments then.
+[00:28:21.084 --> 00:28:25.484] LAFORGE: I can see it now and I'm telling you that you don't have time to wait. Not even forty seconds.
+[00:28:25.644 --> 00:28:26.764] ARRIDOR: Ferengi pod out.
+[00:28:27.004 --> 00:28:28.044] LAFORGE: Damn it, Arridor,
+[00:28:28.604 --> 00:28:31.004] LAFORGE: we're seventy thousand light years away from our ships.
+[00:28:31.004 --> 00:28:32.844] LAFORGE: Come on, now. Follow us in.
+[00:28:32.844 --> 00:28:33.404] LAFORGE: We'll lead you.
+[00:28:37.729 --> 00:28:38.289] LAFORGE: Idiots.
+[00:28:41.729 --> 00:28:42.609] LAFORGE: It's getting worse.
+[00:28:44.129 --> 00:28:46.129] LAFORGE: I'm taking us in, Data. With or without them.
+[00:28:47.329 --> 00:28:49.729] DATA: Thrusters at half power. Three quarters.
+[00:28:50.289 --> 00:28:51.729] LAFORGE: Entering outer event horizon.
+[00:28:58.689 --> 00:29:00.369] ARRIDOR: They panic quickly under pressure.
+[00:29:03.889 --> 00:29:07.729] ARRIDOR: There, precisely as scheduled. Right where I expected it to be.
+[00:29:19.009 --> 00:29:23.249] TROI: Everyone was talking today about the way you absorbed the Caldonian bid.
+[00:29:24.369 --> 00:29:25.489] RAL: Well, the opening was there.
+[00:29:25.809 --> 00:29:26.209] RAL: I took it
+[00:29:27.409 --> 00:29:29.409] TROI: Commander Riker didn't know how you managed it.
+[00:29:31.249 --> 00:29:33.009] RAL: Let me tell you something about Commander Riker.
+[00:29:34.289 --> 00:29:34.689] RAL: He's good.
+[00:29:35.729 --> 00:29:37.409] RAL: He's the most dangerous man in the room to me.
+[00:29:38.129 --> 00:29:40.129] TROI: But he doesn't have an edge.
+[00:29:41.489 --> 00:29:42.209] TROI: Your edge.
+[00:29:42.929 --> 00:29:43.969] RAL: Our edge.
+[00:29:45.889 --> 00:29:46.929] RAL: You make it sound unethical.
+[00:29:48.609 --> 00:29:49.009] TROI: Isn't it?
+[00:29:51.089 --> 00:29:53.569] RAL: Deanna, it's just business.
+[00:29:54.635 --> 00:30:01.329] TROI: Why haven't you told anyone you're an empath?
+[00:30:03.409 --> 00:30:05.089] RAL: Because I find it makes people uncomfortable.
+[00:30:07.729 --> 00:30:07.889] TROI: I
+[00:30:07.979 --> 00:30:10.859] TROI: think you don't tell them so you can gain an advantage.
+[00:30:12.939 --> 00:30:15.019] RAL: Well, I gained an advantage by using it with you.
+[00:30:16.379 --> 00:30:17.419] RAL: You didn't seem to mind that.
+[00:30:23.819 --> 00:30:24.299] RAL: Look, Deanna,
+[00:30:26.859 --> 00:30:29.419] RAL: the point of negotiating is to take advantage.
+[00:30:30.459 --> 00:30:33.579] RAL: I don't know what the other side is offering, and they don't know what I'm offering.
+[00:30:34.539 --> 00:30:37.099] RAL: So we dance around each other until somebody wins.
+[00:30:37.659 --> 00:30:39.259] RAL: I never cry foul when I lose.
+[00:30:40.619 --> 00:30:46.859] TROI: But you're reading their emotional states, their inner selves, and then using that to manipulate them.
+[00:30:47.019 --> 00:30:49.739] RAL: Well, people have been doing that for thousands of years,
+[00:30:49.979 --> 00:30:55.499] RAL: just by listening carefully, by watching body language. I just happen to be better at it.
+[00:30:56.379 --> 00:30:56.859] RAL: You do it.
+[00:30:58.219 --> 00:31:01.339] TROI: I do it to help my crew, not outmanoeuvre them.
+[00:31:03.019 --> 00:31:04.619] TROI: And I don't hide that I'm an empath.
+[00:31:05.339 --> 00:31:12.299] RAL: Oh, so you announce it to every alien culture you encounter? Or do you use it to give your side an advantage.
+[00:31:13.819 --> 00:31:19.659] RAL: Do you tell the Romulan that's about to attack that you sense that he may be bluffing? Or do you just tell it to your Captain?
+[00:31:25.819 --> 00:31:26.619] TROI: That's different.
+[00:31:28.139 --> 00:31:29.579] TROI: That's a matter of protection.
+[00:31:30.059 --> 00:31:31.419] RAL: Yes, protection.
+[00:31:32.139 --> 00:31:33.339] RAL: Your protection,
+[00:31:33.339 --> 00:31:34.139] RAL: your Captain,
+[00:31:34.299 --> 00:31:35.099] RAL: your crew,
+[00:31:35.259 --> 00:31:35.739] RAL: your
+[00:31:36.101 --> 00:31:36.581] RAL: edge.
+[00:31:38.501 --> 00:31:38.981] RAL: Yes.
+[00:31:41.621 --> 00:31:43.861] RAL: Now it's a matter of life and death when you take the advantage.
+[00:31:43.861 --> 00:31:48.021] RAL: Me, I deal in property. Exchanges.
+[00:31:49.221 --> 00:31:50.181] RAL: No body gets hurt.
+[00:31:51.861 --> 00:31:56.741] RAL: So you tell me, which one of us would you say has more of a problem with ethics?
+[00:31:59.861 --> 00:32:00.341] RAL: Excuse me.
+[00:32:28.101 --> 00:32:28.901] RAL: May I join you, Commander?
+[00:32:32.341 --> 00:32:33.621] RIKER: Bought out the Ferengi yet, Ral?
+[00:32:34.501 --> 00:32:35.541] RAL: Think I should give it a try?
+[00:32:35.621 --> 00:32:36.741] RIKER: No, but I think that you will.
+[00:32:36.741 --> 00:32:38.661] RIKER: One way or another, it's going to come down to you and me.
+[00:32:39.941 --> 00:32:41.061] RAL: You know, you're very good at this.
+[00:32:41.381 --> 00:32:41.941] RAL: Very good.
+[00:32:42.421 --> 00:32:43.461] RAL: Much better than you realise.
+[00:32:43.541 --> 00:32:44.901] RIKER: I hope I'm better than you realise.
+[00:32:45.061 --> 00:32:48.501] RAL: The last mile of the marathon is always the toughest.
+[00:32:49.141 --> 00:32:51.701] RAL: That's when the winners are willing to take the big risks.
+[00:32:51.851 --> 00:32:52.451] RAL: Are
+[00:32:53.221 --> 00:32:54.021] RAL: you willing to do that?
+[00:32:54.581 --> 00:32:55.221] RIKER: We'll see, won't we?
+[00:32:55.461 --> 00:32:56.181] RAL: Well, let's see now.
+[00:32:57.061 --> 00:33:01.861] RAL: I'm prepared to reach a firm agreement with Bhavani before we learn the outcome of your probe's expedition.
+[00:33:02.661 --> 00:33:02.901] RAL: Are you?
+[00:33:03.516 --> 00:33:06.076] RAL: Well, well, well.
+[00:33:06.956 --> 00:33:09.836] RAL: That would not be looked upon favourably by the Federation, I'd imagine.
+[00:33:10.876 --> 00:33:16.156] RAL: See, you have to be willing to take that last step alone or it just isn't worth playing.
+[00:33:17.036 --> 00:33:18.156] RIKER: Your point of view, not mine.
+[00:33:18.236 --> 00:33:19.516] RAL: Oh, I see that, Commander,
+[00:33:19.516 --> 00:33:20.876] RAL: I see that.
+[00:33:20.876 --> 00:33:24.636] RAL: Otherwise you wouldn't be second in command of this starship.
+[00:33:26.236 --> 00:33:30.716] RAL: You know, I feel responsible for you in a way. Related.
+[00:33:32.876 --> 00:33:33.276] RAL: Deanna.
+[00:33:35.516 --> 00:33:36.556] RAL: We both love Deanna.
+[00:33:37.996 --> 00:33:39.116] RAL: Oh, in different ways, of course.
+[00:33:40.396 --> 00:33:43.356] RIKER: I will remove the burden of that responsibility right now.
+[00:33:44.076 --> 00:33:47.596] RIKER: My relationship with Deanna stands very well on its own without any help from you.
+[00:33:47.676 --> 00:33:48.476] RAL: Of course it does.
+[00:33:48.476 --> 00:33:49.276] RAL: Of course it does.
+[00:33:49.276 --> 00:33:53.756] RAL: It's just that, well, she's an extraordinary woman.
+[00:33:55.196 --> 00:33:55.676] RAL: Brilliant.
+[00:33:56.956 --> 00:33:57.356] RAL: Lovely.
+[00:33:59.676 --> 00:34:00.476] RAL: Very passionate.
+[00:34:01.916 --> 00:34:05.996] RAL: And she could have been yours, Will, but you just didn't do enough to keep her.
+[00:34:07.596 --> 00:34:08.636] RAL: And now, well,
+[00:34:10.396 --> 00:34:10.956] RAL: I'm here,
+[00:34:13.116 --> 00:34:13.996] RAL: and I'm going to take her too.
+[00:34:19.036 --> 00:34:20.396] RIKER: That's the first bad play I've seen you make.
+[00:34:21.596 --> 00:34:25.836] RIKER: If you can bring happiness into Deanna's life, nothing would please me more.
+[00:34:27.276 --> 00:34:29.116] RIKER: You know, you're really not such a bad sort, Ral,
+[00:34:30.076 --> 00:34:31.356] RIKER: except you don't have any values,
+[00:34:31.708 --> 00:34:34.428] RIKER: beyond the value of today's bid, that is.
+[00:34:35.948 --> 00:34:42.508] RIKER: Deanna is just the woman to bring some meaning to your sorry existence, if you're smart enough to take it.
+[00:34:43.868 --> 00:34:45.068] RIKER: I doubt that you are.
+[00:34:46.428 --> 00:34:48.588] RIKER: To the last mile.
+[00:35:02.108 --> 00:35:02.268] WORF: Sir,
+[00:35:03.388 --> 00:35:05.228] WORF: the Ferengi vessel is moving out of orbit.
+[00:35:05.948 --> 00:35:06.668] WORF: Impulse power
+[00:35:07.628 --> 00:35:09.628] WORF: They are approaching the entry to the wormhole, sir.
+[00:35:11.388 --> 00:35:14.188] PICARD: Computer, is the Ferengi Goss still on board the Enterprise?
+[00:35:14.188 --> 00:35:17.548] COMPUTER: DaiMon Goss departed the Enterprise at fourteen hundred hours.
+[00:35:17.548 --> 00:35:19.148] WORF: They are powering forward missile launchers, sir.
+[00:35:19.308 --> 00:35:19.788] PICARD: Yellow alert.
+[00:35:20.348 --> 00:35:21.068] PICARD: Hail the Ferengi.
+[00:35:23.948 --> 00:35:26.108] PICARD: Request an explanation of your actions, DaiMon Goss.
+[00:35:26.428 --> 00:35:35.388] GOSS: I've learned from informed sources that the Federation has manipulated these negotiations from the very beginning, and has already signed a secret agreement with the Barzans.
+[00:35:35.788 --> 00:35:36.748] PICARD: That is not true.
+[00:35:36.748 --> 00:35:39.468] GOSS: The Ferengi offer was never seriously considered.
+[00:35:40.348 --> 00:35:43.068] PICARD: Premier Bhavani welcomed you to these proceedings,
+[00:35:43.228 --> 00:35:44.540] PICARD: despite my better judgment.
+[00:35:44.540 --> 00:35:46.508] GOSS: We will be ignored no longer.
+[00:35:48.908 --> 00:35:50.668] WORF: They've fired a missile directly at the opening, sir.
+[00:35:51.148 --> 00:35:51.628] PICARD: Destroy it.
+[00:35:52.028 --> 00:35:53.548] WORF: On screen. Firing phasers.
+[00:35:58.988 --> 00:36:01.068] BHAVANI: Your offers both have merit, gentlemen.
+[00:36:02.828 --> 00:36:04.188] BHAVANI: if I could find a deciding factor
+[00:36:06.298 --> 00:36:07.898] RIKER: Riker to Picard. What's happening, Captain?
+[00:36:08.458 --> 00:36:10.538] PICARD: Goss has fired a missile at the wormhole.
+[00:36:10.538 --> 00:36:11.738] PICARD: I need you on the Bridge, Number One.
+[00:36:12.218 --> 00:36:12.618] RIKER: Excuse me.
+[00:36:17.338 --> 00:36:24.698] RAL: Excuse me for saying so under the circumstances, Premier, but this fight is really between the Federation and the Ferengi.
+[00:36:25.978 --> 00:36:31.178] RAL: Now it seems unconscionable that your wormhole is being used as a pawn in their power struggle.
+[00:36:33.338 --> 00:36:35.098] PICARD: You must know we will not allow you to do this.
+[00:36:35.338 --> 00:36:38.298] GOSS: If the Ferengi cannot have the wormhole, no one will.
+[00:36:38.378 --> 00:36:44.458] PICARD: A missile will have no destructive effect on a wormhole, but if it should explode near the shuttlecraft they will be destroyed.
+[00:36:45.018 --> 00:36:46.618] GOSS: Casualties of war, Commander.
+[00:36:47.098 --> 00:36:48.538] GOSS: My men are prepared to die.
+[00:36:49.178 --> 00:36:50.682] GOSS: Are yours?
+[00:36:50.682 --> 00:36:52.938] TROI: Captain, he's lying.
+[00:36:53.418 --> 00:36:54.298] TROI: I'm almost sure of it.
+[00:36:54.298 --> 00:36:55.498] TROI: He doesn't mean what he says.
+[00:36:56.538 --> 00:36:57.018] RIKER: Why?
+[00:36:57.498 --> 00:36:58.458] RIKER: What is he doing it for then?
+[00:37:02.458 --> 00:37:03.898] BHAVANI: Permission to enter the Bridge, Captain.
+[00:37:04.298 --> 00:37:05.481] PICARD: Premier, with all due respect
+[00:37:05.481 --> 00:37:09.738] RAL: Captain, I believe I am in a better position to settle this with DaiMon Goss than you are.
+[00:37:10.218 --> 00:37:10.938] RAL: May I address him?
+[00:37:14.138 --> 00:37:14.378] PICARD: Premier.
+[00:37:15.738 --> 00:37:17.738] RAL: DaiMon
+[00:37:24.058 --> 00:37:26.058] RAL: Goss, this is Devinoni Ral.
+[00:37:26.218 --> 00:37:27.898] GOSS: I have nothing to say to you, Ral.
+[00:37:28.218 --> 00:37:29.018] RAL: Well then, just listen.
+[00:37:29.018 --> 00:37:36.938] RAL: The planet Barzan has reached an agreement with the Chrysalians for long term control of the wormhole.
+[00:37:37.418 --> 00:37:38.778] RAL: Now on behalf of the Chrysalians,
+[00:37:39.064 --> 00:37:43.144] RAL: I am prepared to offer the Ferengi free access to the wormhole in perpetuity.
+[00:37:44.184 --> 00:37:45.464] GOSS: I have your word on this?
+[00:37:45.864 --> 00:37:47.064] RAL: Yes, my word, sir,
+[00:37:48.184 --> 00:37:51.704] RAL: in exchange for Ferengi convoy privileges to be negotiated in good faith.
+[00:37:52.824 --> 00:37:54.344] GOSS: This is an acceptable offer.
+[00:37:56.424 --> 00:37:59.064] WORF: Ferengi vessel has shut down its forward missile launcher.
+[00:37:59.704 --> 00:38:00.584] PICARD: Stand down red alert.
+[00:38:01.944 --> 00:38:02.424] BHAVANI: Commander Riker.
+[00:38:04.504 --> 00:38:06.904] BHAVANI: I'm sorry you had to learn about my decision this way.
+[00:38:08.264 --> 00:38:16.024] BHAVANI: You represented the Federation well, but I have come to believe that the Chrysalians' tradition of peace is more desirable to my planet.
+[00:38:17.864 --> 00:38:18.664] TROI: Excuse me, Premier.
+[00:38:18.664 --> 00:38:19.784] TROI: There's something you should know.
+[00:38:23.704 --> 00:38:24.344] TROI: I'm sorry,
+[00:38:24.344 --> 00:38:25.704] TROI: was there something you wanted to say?
+[00:38:26.264 --> 00:38:27.864] RAL: No, not at all.
+[00:38:28.344 --> 00:38:30.104] TROI: I sensed you suddenly felt uncomfortable.
+[00:38:31.784 --> 00:38:34.424] RAL: Well, after all, it was a very tense situation.
+[00:38:34.984 --> 00:38:36.104] TROI: But that's what's so odd.
+[00:38:36.744 --> 00:38:38.024] TROI: It wasn't tense at all.
+[00:38:38.664 --> 00:38:41.464] TROI: In fact, I sensed no tension from you or Goss.
+[00:38:41.544 --> 00:38:41.704] GOSS: But
+[00:38:42.104 --> 00:38:43.464] GOSS: I was tense!
+[00:38:43.704 --> 00:38:44.824] GOSS: I was ready to blow it up!
+[00:38:45.544 --> 00:38:46.904] GOSS: I strongly protest!
+[00:38:47.064 --> 00:38:47.784] PICARD: Screen off.
+[00:38:48.904 --> 00:38:51.624] TROI: It was as though you were performing a scene for all of us.
+[00:38:53.144 --> 00:38:53.704] RAL: Pardon me, Captain,
+[00:38:53.704 --> 00:38:56.504] RAL: I believe there's a slight conflict of interest here.
+[00:38:56.984 --> 00:38:58.504] TROI: I agree, entirely.
+[00:38:59.384 --> 00:39:07.704] TROI: Mister Ral asked me not to tell anyone he has empathic powers which he uses to manipulate his competitors in a negotiation.
+[00:39:08.344 --> 00:39:13.544] TROI: And yes, it did put me in a conflict of interest, which I hope I have now resolved.
+[00:39:15.466 --> 00:39:23.386] TROI: Premier, I believe Ral has used your fear of continuing aggression between the Federation and its enemies to undermine our position.
+[00:39:24.746 --> 00:39:32.106] TROI: I also believe that this incident was staged by Ral and Goss to provide you a reason to choose in favour of the Chrysalians.
+[00:39:34.266 --> 00:39:35.786] WESLEY: Captain, it's the shuttlecraft.
+[00:39:35.786 --> 00:39:36.426] WESLEY: They're coming back through.
+[00:39:40.186 --> 00:39:41.546] LAFORGE: Shuttle nine to Enterprise.
+[00:39:42.106 --> 00:39:42.586] PICARD: On screen.
+[00:39:45.626 --> 00:39:47.386] LAFORGE: This is shuttle nine reporting in.
+[00:39:48.666 --> 00:39:48.986] LAFORGE: Barely.
+[00:39:49.706 --> 00:39:50.826] PICARD: And the Ferengi pod, Commander?
+[00:39:51.626 --> 00:39:52.186] LAFORGE: Trapped
+[00:39:52.426 --> 00:39:53.386] LAFORGE: on the other side, sir.
+[00:39:53.866 --> 00:39:54.506] LAFORGE: In the Delta Quadrant.
+[00:39:54.586 --> 00:39:55.546] LAFORGE: We tried to warn them.
+[00:39:56.186 --> 00:39:56.986] LAFORGE: They wouldn't follow us.
+[00:39:57.786 --> 00:39:58.346] PICARD: Elaborate.
+[00:39:59.146 --> 00:39:59.466] DATA: Captain,
+[00:40:00.186 --> 00:40:06.026] DATA: this end of the wormhole is currently stable, but the other end apparently shifts positions periodically.
+[00:40:06.506 --> 00:40:08.666] DATA: The Barzan probe had no way to recognise this.
+[00:40:09.066 --> 00:40:12.026] DATA: Eventually, both sides will be unstable.
+[00:40:12.586 --> 00:40:13.466] LAFORGE: It's a dry well, Captain.
+[00:40:14.266 --> 00:40:14.746] LAFORGE: Worthless.
+[00:40:14.986 --> 00:40:15.866] PICARD: Acknowledged, Shuttle.
+[00:40:17.066 --> 00:40:17.866] PICARD: Main shuttlebay,
+[00:40:18.906 --> 00:40:19.866] PICARD: prepare for final approach.
+[00:40:20.186 --> 00:40:20.506] CREWMAN: Aye, sir.
+[00:40:21.306 --> 00:40:21.706] WORF: Captain,
+[00:40:22.586 --> 00:40:25.386] WORF: DaiMon Goss is demanding to know where his men are.
+[00:40:26.586 --> 00:40:29.466] PICARD: Advise him to set his coordinates for the Delta Quadrant.
+[00:40:29.466 --> 00:40:32.666] PICARD: He may run into them in eighty years or so.
+[00:40:35.626 --> 00:40:36.266] RIKER: Mister Ral,
+[00:40:38.186 --> 00:40:40.666] RIKER: congratulations on winning the rights to the Barzan wormhole.
+[00:40:42.026 --> 00:40:46.346] RAL: I take the risks, Mister Riker, and I stand by my agreements.
+[00:40:51.296 --> 00:40:51.616] TROI: Come in.
+[00:41:01.296 --> 00:41:01.936] TROI: When do you leave?
+[00:41:02.416 --> 00:41:02.736] RAL: Soon.
+[00:41:03.776 --> 00:41:05.296] RAL: I've been recalled by the Chrysalians.
+[00:41:06.096 --> 00:41:07.696] RAL: Explanations demanded and so forth.
+[00:41:08.416 --> 00:41:08.976] TROI: I'm sorry.
+[00:41:09.616 --> 00:41:11.536] RAL: I've done well for them over the years.
+[00:41:11.776 --> 00:41:12.816] RAL: They understand the stakes.
+[00:41:13.856 --> 00:41:14.416] RAL: It'll be fine.
+[00:41:15.456 --> 00:41:18.256] RAL: I had to do it, Troi.
+[00:41:19.696 --> 00:41:21.376] RAL: Bhavani was ready to go with the Federation.
+[00:41:22.416 --> 00:41:23.056] RAL: I sensed it.
+[00:41:24.896 --> 00:41:26.256] RAL: I'd used up every card in the deck.
+[00:41:27.136 --> 00:41:28.576] RAL: I needed to change the rules.
+[00:41:28.976 --> 00:41:31.216] TROI: You must have known I couldn't allow you to do that
+[00:41:33.776 --> 00:41:38.416] RAL: My human physical response must have been blocking my Betazoid senses.
+[00:41:39.136 --> 00:41:39.216] RAL: I'm
+[00:41:42.656 --> 00:41:44.256] RAL: very grateful for what you did, in a way.
+[00:41:46.576 --> 00:41:48.096] RAL: It's made me take a hard look at who I am.
+[00:41:49.216 --> 00:41:52.176] RAL: I don't like what I see.
+[00:41:54.016 --> 00:41:55.696] RAL: I once asked you to run away with me.
+[00:41:57.456 --> 00:41:58.336] RAL: Now I'm asking again.
+[00:41:58.336 --> 00:41:58.336] RAL: I
+[00:42:00.976 --> 00:42:01.376] RAL: need you.
+[00:42:04.176 --> 00:42:05.296] RAL: You could help me change.
+[00:42:05.296 --> 00:42:07.136] RAL: You could be my conscience.
+[00:42:07.286 --> 00:42:10.286] TROI: I already have a job as Counsellor.
+[00:42:18.933 --> 00:42:22.213] TROI: If you want to know what happens to Arridor and Kol in the Delta Quadrant, here is the tale.
+[00:42:42.000 --> 00:42:58.000] [music]
+[00:43:23.000 --> 00:43:36.000] [music]

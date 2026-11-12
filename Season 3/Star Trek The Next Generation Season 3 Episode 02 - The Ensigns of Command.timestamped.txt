@@ -1,0 +1,652 @@
+[00:00:35.360 --> 00:00:41.600] DATA: Captain. Doctor. I am honoured by your presence, but may I suggest you attend the second concert.
+[00:00:42.080 --> 00:00:42.560] CRUSHER: Why, Data?
+[00:00:43.040 --> 00:00:45.200] DATA: Ensign Ortiz will perform the violin part.
+[00:00:45.600 --> 00:00:47.600] DATA: My rendition will be less enjoyable.
+[00:00:48.320 --> 00:00:48.794] PICARD: Oh?
+[00:00:48.794 --> 00:00:54.960] DATA: Although I am technically proficient, according to my fellow performers, I lack soul.
+[00:00:55.760 --> 00:01:00.560] CRUSHER: Data, telling us why you're going to fail before you make the attempt is never wise.
+[00:01:01.520 --> 00:01:04.960] DATA: But is not honesty always the preferred choice?
+[00:01:08.560 --> 00:01:12.640] PICARD: Excessive honesty can be disastrous, particularly in a commander.
+[00:01:13.600 --> 00:01:13.966] DATA: Indeed?
+[00:01:13.966 --> 00:01:16.160] PICARD: Knowing your limitations is one thing.
+[00:01:16.400 --> 00:01:20.000] PICARD: Advertising them to a crew can damage your credibility as a leader.
+[00:01:21.840 --> 00:01:23.580] DATA: Because you will lose their confidence?
+[00:01:23.580 --> 00:01:26.480] CRUSHER: And you may begin to believe in those limitations yourself.
+[00:01:36.749 --> 00:01:36.749] RIKER: Captain,
+[00:01:42.029 --> 00:01:43.709] RIKER: we're receiving a message from the Sheliak
+[00:01:47.669 --> 00:01:49.669] RIKER: Corporate.
+[00:01:58.949 --> 00:02:00.949] WORF: Origin
+[00:02:06.589 --> 00:02:07.949] WORF: point of the message confirmed, sir.
+[00:02:08.189 --> 00:02:09.869] WORF: It is from the Shelia star system.
+[00:02:10.909 --> 00:02:14.509] RIKER: The Sheliak have not attempted to communicate with the Federation for a hundred and eleven years.
+[00:02:14.989 --> 00:02:16.029] RIKER: Why are they doing it now?
+[00:02:18.829 --> 00:02:19.389] PICARD: On screen. :
+[00:02:20.749 --> 00:02:25.229] SHELIAK: Federation creatures, there are humans on the fifth planet of Tau Cygna.
+[00:02:25.229 --> 00:02:32.269] SHELIAK: This planet was ceded to the Corporate in section one hundred and thirty-three, paragraph seventy seven of the Treaty of Armens.
+[00:02:32.509 --> 00:02:35.469] SHELIAK: We will begin settlement of this world in four days.
+[00:02:35.469 --> 00:02:37.309] SHELIAK: Remove the humans.
+[00:02:38.269 --> 00:02:39.229] PICARD: What the devil?
+[00:02:39.229 --> 00:02:42.109] SHELIAK: Federation creatures, there are humans on the fifth planet
+[00:02:42.109 --> 00:02:42.669] PICARD: Cancel message.
+[00:02:42.669 --> 00:02:46.509] RIKER: Tau Cygna Five is in the de Laure Belt.
+[00:02:46.829 --> 00:02:46.829] RIKER: Heavy
+[00:02:49.149 --> 00:02:50.989] RIKER: concentrations of hyperonic radiation.
+[00:02:51.629 --> 00:02:53.309] PICARD: Humans can't survive in that environment.
+[00:02:53.713 --> 00:02:55.553] PICARD: Exposure to hyperonic radiation is fatal.
+[00:02:56.193 --> 00:02:58.593] RIKER: Then the Sheliak are asking us to chase ghosts.
+[00:02:59.393 --> 00:02:59.953] PICARD: No, Number One.
+[00:03:01.073 --> 00:03:04.673] PICARD: The Sheliak haven't broken a century of silence to send us after phantoms.
+[00:03:06.593 --> 00:03:07.873] PICARD: An investigation is in order.
+[00:03:09.073 --> 00:03:10.833] PICARD: Set course for Tau Cygna Five.
+[00:03:38.993 --> 00:03:41.553] PICARD: Space, the final frontier.
+[00:03:43.393 --> 00:03:46.273] PICARD: These are the voyages of the starship Enterprise.
+[00:03:47.393 --> 00:03:55.393] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:57.073 --> 00:03:59.953] PICARD: to boldly go where no one has gone before.
+[00:05:03.927 --> 00:05:06.247] WORF: Captain, human life form readings from the planet.
+[00:05:07.047 --> 00:05:08.567] RIKER: So the Sheliak weren't hallucinating.
+[00:05:08.807 --> 00:05:09.287] PICARD: Numbers?
+[00:05:11.287 --> 00:05:12.727] WORF: Impossible to get an accurate reading.
+[00:05:13.047 --> 00:05:15.367] WORF: High levels of radiation are disrupting our sensors.
+[00:05:16.007 --> 00:05:19.767] DATA: Hyperonic radiation also interferes with ship's transporters. They are now inoperable.
+[00:05:20.567 --> 00:05:21.687] WORF: So are the ship's phasers.
+[00:05:22.327 --> 00:05:23.767] RIKER: How can humans survive down there?
+[00:05:24.087 --> 00:05:25.447] CRUSHER: They must have found a way to adapt.
+[00:05:26.007 --> 00:05:29.287] CRUSHER: Milan's work with radiation sensitivity suggests it is possible.
+[00:05:29.607 --> 00:05:31.367] CRUSHER: Perhaps with extensive viral therapy.
+[00:05:31.767 --> 00:05:34.807] PICARD: Well, whoever they are, and however they survived, we've got to get them off the planet.
+[00:05:36.087 --> 00:05:38.327] RIKER: By treaty, that world still belongs to the Sheliak.
+[00:05:39.287 --> 00:05:43.047] PICARD: Who are within their rights to demand the removal of these trespassers.
+[00:05:43.847 --> 00:05:46.807] RIKER: And if we don't remove them, the Sheliak will. Forcefully.
+[00:05:47.607 --> 00:05:48.487] CRUSHER: How forcefully?
+[00:05:48.727 --> 00:05:51.127] RIKER: The Sheliak consider humans a lower life
+[00:05:51.222 --> 00:05:55.142] RIKER: form. They would have no compunctions about exterminating the intruders.
+[00:05:55.782 --> 00:06:03.622] PICARD: Mister Data, as you are unaffected by hyperonic radiation, I'd like you to go to the planet via shuttlecraft and commence evacuation procedures.
+[00:06:03.782 --> 00:06:04.102] DATA: Aye, sir.
+[00:06:05.702 --> 00:06:06.102] PICARD: Number One,
+[00:06:09.462 --> 00:06:12.102] PICARD: any speculation on what we might find down there?
+[00:06:13.142 --> 00:06:17.382] RIKER: My guess would be a lone survey ship. Maybe a dozen or so survivors.
+[00:06:32.262 --> 00:06:35.302] HARITATH: I think it's some sort of shuttlecraft.
+[00:06:35.302 --> 00:06:35.942] KENTOR: Where's it from?
+[00:06:36.182 --> 00:06:37.062] HARITATH: Look at the markings.
+[00:06:37.862 --> 00:06:38.982] HARITATH: It must be from the Federation.
+[00:06:45.222 --> 00:06:45.862] DATA: Greetings, gentlemen.
+[00:06:47.942 --> 00:06:49.222] HARITATH: We saw your ship
+[00:06:50.822 --> 00:06:52.373] HARITATH: You're the first visitor we've had in
+[00:06:52.373 --> 00:06:53.702] KENTOR: The first visitor we've ever had.
+[00:06:55.302 --> 00:06:56.982] HARITATH: You're not human.
+[00:06:58.022 --> 00:06:58.742] DATA: That is correct.
+[00:06:59.302 --> 00:07:00.022] DATA: I am an android.
+[00:07:00.902 --> 00:07:04.102] DATA: I am Lieutenant Commander Data of the Federation Starship Enterprise.
+[00:07:05.462 --> 00:07:07.782] HARITATH: Our great-grandparents were citizens of the Federation.
+[00:07:08.982 --> 00:07:10.662] HARITATH: But you don't want to waste time talking to us.
+[00:07:10.662 --> 00:07:11.862] KENTOR: You want to speak to Gosheven.
+[00:07:12.182 --> 00:07:12.902] KENTOR: We'll take you to him.
+[00:07:13.622 --> 00:07:16.102] HARITATH: I'm sure the Federation will be very proud of us.
+[00:07:16.502 --> 00:07:18.102] HARITATH: Wait until you see all we've accomplished.
+[00:07:18.822 --> 00:07:20.822] DATA: And who, precisely, is us?
+[00:07:22.078 --> 00:07:22.638] HARITATH: Don't you know?
+[00:07:23.678 --> 00:07:25.198] HARITATH: Oh, no, I don't guess you would.
+[00:07:25.678 --> 00:07:28.878] HARITATH: We're descendants of the original settlers, from the colony ship Artemis.
+[00:07:31.358 --> 00:07:31.598] RIKER: Got it.
+[00:07:32.238 --> 00:07:34.638] RIKER: The Artemis. Launched ninety two years ago.
+[00:07:34.638 --> 00:07:35.918] RIKER: Destination Septimus Minor.
+[00:07:36.238 --> 00:07:38.558] RIKER: When they failed to check in, Starfleet began an extensive search.
+[00:07:39.678 --> 00:07:40.798] PICARD: What carried the Artemis
+[00:07:40.798 --> 00:07:41.598] PICARD: So far off course?
+[00:07:42.158 --> 00:07:44.318] DATA: My local informant does not have that information.
+[00:07:44.718 --> 00:07:48.638] DATA: In the early days on Tau Cygna Five, survival was more important than history.
+[00:07:49.278 --> 00:07:49.678] PICARD: Understood.
+[00:07:50.398 --> 00:07:50.878] PICARD: How many are there?
+[00:07:51.918 --> 00:07:53.758] DATA: Fifteen thousand two hundred fifty three, sir.
+[00:07:55.118 --> 00:07:56.078] PICARD: Fifteen thousand!
+[00:07:57.598 --> 00:07:58.078] RIKER: Three days,
+[00:07:58.078 --> 00:07:58.878] RIKER: no transporters.
+[00:07:59.358 --> 00:08:00.318] RIKER: We'll never get them out in time.
+[00:08:01.518 --> 00:08:01.918] PICARD: Shuttles?
+[00:08:02.958 --> 00:08:05.278] WORF: Loading all the Enterprise shuttlecraft to capacity,
+[00:08:05.518 --> 00:08:06.638] WORF: evacuation will take
+[00:08:08.158 --> 00:08:09.598] WORF: four weeks, four days.
+[00:08:10.638 --> 00:08:11.358] PICARD: We need more time.
+[00:08:13.198 --> 00:08:15.518] PICARD: Mister Data, prepare the colonists for an evacuation.
+[00:08:16.078 --> 00:08:16.318] DATA: Aye, sir.
+[00:08:17.758 --> 00:08:18.478] PICARD: Get me the Sheliak.
+[00:08:19.038 --> 00:08:20.638] WORF: Their home world is quite distant, Captain.
+[00:08:20.958 --> 00:08:21.838] WORF: This will take some time.
+[00:08:42.158 --> 00:08:42.558] HARITATH: Gosheven,
+[00:08:43.358 --> 00:08:44.158] HARITATH: look what's come.
+[00:08:45.438 --> 00:08:47.918] DATA: Lieutenant Commander Data of the Starship Enterprise.
+[00:08:48.078 --> 00:08:49.118] KENTOR: He's an android.
+[00:08:50.158 --> 00:08:51.118] GOSHEVEN: So he is.
+[00:08:53.836 --> 00:08:56.236] GOSHEVEN: Well, now that you're here, what do you want?
+[00:08:57.036 --> 00:08:59.676] DATA: My mission is to prepare this colony for evacuation.
+[00:09:01.596 --> 00:09:01.916] GOSHEVEN: Why?
+[00:09:02.956 --> 00:09:05.196] DATA: Because this planet belongs to the Sheliak.
+[00:09:05.756 --> 00:09:07.756] GOSHEVEN: And who is this Sheliak?
+[00:09:08.236 --> 00:09:09.116] DATA: The term is plural.
+[00:09:09.436 --> 00:09:12.156] DATA: The Sheliak are a non-humanoid, intelligent life form,
+[00:09:12.156 --> 00:09:13.436] DATA: classification R3.
+[00:09:13.436 --> 00:09:15.756] GOSHEVEN: Well, this colony's been here over ninety years.
+[00:09:17.676 --> 00:09:19.196] GOSHEVEN: We've never seen a Sheliak.
+[00:09:20.556 --> 00:09:23.596] GOSHEVEN: I'd say that makes Tau Cygna Five our planet.
+[00:09:24.716 --> 00:09:27.516] DATA: The original destination of the Artemis was Septimus Minor.
+[00:09:28.156 --> 00:09:32.156] GOSHEVEN: The guidance system on the Artemis failed. Took them off course. Far off course.
+[00:09:32.476 --> 00:09:35.171] GOSHEVEN: Our ancestors were lucky to find any place to land.
+[00:09:35.171 --> 00:09:37.596] HARITATH: And when they did, the radiation started killing them.
+[00:09:37.836 --> 00:09:41.996] GOSHEVEN: Hyperonic radiation took the lives of a third of the colonists before they learned they could adapt to it.
+[00:09:42.156 --> 00:09:43.836] KENTOR: But our colony survived and prospered.
+[00:09:44.156 --> 00:09:44.716] GOSHEVEN: Look around.
+[00:09:45.436 --> 00:09:48.156] GOSHEVEN: We have brought water to the desert, built a community.
+[00:09:48.956 --> 00:09:50.716] DATA: Your accomplishments are truly remarkable.
+[00:09:51.436 --> 00:09:56.236] DATA: Yet the Sheliak and the Federation have a treaty which clearly makes this planet Sheliak domain.
+[00:09:57.116 --> 00:09:58.556] GOSHEVEN: Then change the treaty.
+[00:09:59.436 --> 00:10:00.396] DATA: That may not be possible.
+[00:10:00.796 --> 00:10:05.196] DATA: The Sheliak wish to colonise this planet, and are unwilling to share it with humans.
+[00:10:05.676 --> 00:10:09.916] DATA: If you are still here when the Sheliak colony ship arrives, they will eradicate you.
+[00:10:10.636 --> 00:10:11.836] HARITATH: They'd kill all of us?
+[00:10:12.156 --> 00:10:13.836] DATA: They have little regard for human life.
+[00:10:14.396 --> 00:10:19.836] DATA: Thus, the most sensible course is to prepare a contingency plan for the evacuation of your people.
+[00:10:20.876 --> 00:10:21.916] GOSHEVEN: We're not evacuating.
+[00:10:23.276 --> 00:10:24.716] DATA: Perhaps I have not made myself clear.
+[00:10:25.036 --> 00:10:25.916] GOSHEVEN: Yes, you have.
+[00:10:27.118 --> 00:10:28.398] GOSHEVEN: Let me be equally clear.
+[00:10:29.678 --> 00:10:31.678] GOSHEVEN: There's going to be no evacuation.
+[00:10:34.798 --> 00:10:35.838] GOSHEVEN: You've delivered your message,
+[00:10:36.238 --> 00:10:37.198] GOSHEVEN: so go back to your ship.
+[00:10:38.558 --> 00:10:39.438] GOSHEVEN: I have work to do.
+[00:10:49.758 --> 00:10:50.638] ARD'RIAN: Nice catch.
+[00:10:53.198 --> 00:10:54.478] ARD'RIAN: Wonderful reflexes.
+[00:10:55.278 --> 00:10:57.518] ARD'RIAN: Sorry to test you like that, but I was curious.
+[00:10:57.998 --> 00:10:59.438] GOSHEVEN: Found a new toy, have we, Ardi?
+[00:10:59.918 --> 00:11:00.318] ARD'RIAN: Toy?
+[00:11:01.518 --> 00:11:03.998] ARD'RIAN: This is the most incredible android I've ever seen.
+[00:11:04.718 --> 00:11:05.438] DATA: Have you seen many?
+[00:11:07.838 --> 00:11:08.398] ARD'RIAN: Actually, no.
+[00:11:09.278 --> 00:11:09.998] ARD'RIAN: You're the first.
+[00:11:10.878 --> 00:11:14.078] GOSHEVEN: Only you would get this excited over a walking calculator.
+[00:11:16.238 --> 00:11:18.078] ARD'RIAN: Cybernetic intelligence fascinates me.
+[00:11:18.158 --> 00:11:19.998] ARD'RIAN: Are your neural pathways duotronic?
+[00:11:20.318 --> 00:11:21.438] DATA: No, positronic.
+[00:11:22.318 --> 00:11:23.358] ARD'RIAN: I didn't know that was possible!
+[00:11:23.758 --> 00:11:24.958] ARD'RIAN: What's your memory capacity?
+[00:11:24.958 --> 00:11:26.398] ARD'RIAN: How many operations per second?
+[00:11:26.958 --> 00:11:28.238] ARD'RIAN: I have a million questions.
+[00:11:28.638 --> 00:11:31.198] DATA: I'm afraid I have no time to answer a million questions.
+[00:11:31.518 --> 00:11:32.718] DATA: I have a mission to accomplish.
+[00:11:33.118 --> 00:11:37.118] DATA: I need to know more about your people, and Gosheven seems unwilling to talk to me further.
+[00:11:39.118 --> 00:11:40.078] ARD'RIAN: I'm Ard'rian McKenzie.
+[00:11:42.318 --> 00:11:43.038] ARD'RIAN: Perhaps I can help you.
+[00:11:49.438 --> 00:11:53.358] RIKER: Gentlemen, we're giving you an assignment.
+[00:11:53.758 --> 00:11:54.958] RIKER: One thing we don't want to hear
+[00:11:55.280 --> 00:11:56.240] RIKER: is that it is impossible.
+[00:11:57.200 --> 00:12:00.560] PICARD: I need the transporters to function despite the hyperonic radiation.
+[00:12:00.640 --> 00:12:01.120] LAFORGE: Yeah, but that's im.
+[00:12:04.320 --> 00:12:04.640] LAFORGE: Yes, sir.
+[00:12:11.520 --> 00:12:14.720] RIKER: Even if we get the Sheliak to talk, they're not likely to be accommodating.
+[00:12:15.200 --> 00:12:21.120] TROI: Captain, when the treaty was first negotiated the Federation sent three hundred and seventy two legal experts.
+[00:12:22.080 --> 00:12:22.720] TROI: What do we have?
+[00:12:24.560 --> 00:12:25.040] PICARD: Thee and me?
+[00:12:39.280 --> 00:12:39.920] WORF: No response.
+[00:12:41.200 --> 00:12:41.680] PICARD: Try them again.
+[00:12:42.560 --> 00:12:43.600] PICARD: Boost the signal strength.
+[00:12:45.760 --> 00:12:47.760] WORF: Sheliak
+[00:12:49.280 --> 00:12:49.680] WORF: Corporate.
+[00:12:50.160 --> 00:12:51.840] WORF: This is the starship Enterprise.
+[00:12:52.080 --> 00:12:53.040] WORF: Respond please.
+[00:12:58.080 --> 00:13:01.760] SHELIAK: Conversation is neither required nor desired.
+[00:13:02.800 --> 00:13:08.320] PICARD: Conversation is necessary if we are to find a solution to our mutual problem.
+[00:13:08.960 --> 00:13:13.040] SHELIAK: Our involvement in Federation illegality is not indicated.
+[00:13:13.360 --> 00:13:15.360] PICARD: Both parties are involved, sir.
+[00:13:16.160 --> 00:13:18.560] SHELIAK: Remove the humans from the Tau Cygna
+[00:13:18.560 --> 00:13:19.280] SHELIAK: system.
+[00:13:19.600 --> 00:13:21.440] SHELIAK: Three Earth days remain.
+[00:13:22.160 --> 00:13:24.320] PICARD: Let us negotiate in good faith.
+[00:13:24.720 --> 00:13:26.720] SHELIAK: Negotiate to what purpose?
+[00:13:26.800 --> 00:13:28.080] SHELIAK: The treaty is signed.
+[00:13:28.751 --> 00:13:30.831] PICARD: There is a thriving colony on that planet.
+[00:13:32.431 --> 00:13:36.751] PICARD: Rather than uproot these people, may I offer a compromise?
+[00:13:37.151 --> 00:13:37.391] SHELIAK: Denied.
+[00:13:38.511 --> 00:13:38.751] PICARD: Why?
+[00:13:39.391 --> 00:13:40.911] SHELIAK: The law is paramount.
+[00:13:41.151 --> 00:13:42.351] SHELIAK: We are entitled.
+[00:13:43.071 --> 00:13:44.271] PICARD: This is not a law.
+[00:13:44.431 --> 00:13:45.071] PICARD: It is a treaty.
+[00:13:46.111 --> 00:13:52.671] PICARD: It is designed to smooth relations between peoples. Not to act as a strait
+[00:13:56.191 --> 00:13:56.671] PICARD: Jacket.
+[00:13:58.671 --> 00:14:00.591] ARD'RIAN: You really think we'll have to leave Tau Cygna Five?
+[00:14:01.551 --> 00:14:02.831] DATA: The possibility does exist,
+[00:14:02.831 --> 00:14:06.111] DATA: yet Gosheven seems unwilling to prepare for it.
+[00:14:07.151 --> 00:14:07.471] DATA: Why?
+[00:14:08.271 --> 00:14:09.631] ARD'RIAN: Maybe because you're an android.
+[00:14:10.431 --> 00:14:13.551] ARD'RIAN: I don't think Gosheven likes the idea of machines ordering him around.
+[00:14:15.471 --> 00:14:16.751] DATA: I am not ordering him to do anything.
+[00:14:17.551 --> 00:14:20.351] DATA: I am merely trying to persuade him that his people should prepare to evacuate.
+[00:14:22.511 --> 00:14:24.831] DATA: Do you believe my suggested course of action should be followed?
+[00:14:25.631 --> 00:14:26.271] ARD'RIAN: Of course.
+[00:14:26.991 --> 00:14:28.511] DATA: In spite of the fact that I am an android?
+[00:14:28.911 --> 00:14:32.671] ARD'RIAN: Because of that fact. I don't have any silly prejudice against computers.
+[00:14:32.751 --> 00:14:33.391] ARD'RIAN: I like them.
+[00:14:33.951 --> 00:14:37.071] ARD'RIAN: Not that any computer we have is half as sophisticated as you are.
+[00:14:39.791 --> 00:14:41.391] DATA: No, I would say not.
+[00:14:43.071 --> 00:14:47.471] ARD'RIAN: People can be selfish, irrational, stubborn, malicious, you name it.
+[00:14:47.471 --> 00:14:49.311] ARD'RIAN: But computers don't have those failings.
+[00:14:50.111 --> 00:14:52.271] DATA: And you conclude because of this that I am impartial.
+[00:14:52.831 --> 00:14:55.231] DATA: Hence, you accept my recommendations?
+[00:14:56.111 --> 00:14:57.151] DATA: Yet Gosheven does not.
+[00:14:58.050 --> 00:14:58.690] PICARD: Picard to Commander Data.
+[00:14:58.690 --> 00:14:58.690] DATA: Data
+[00:15:00.530 --> 00:15:00.770] DATA: here.
+[00:15:01.250 --> 00:15:02.610] PICARD: The Sheliak won't bargain.
+[00:15:03.890 --> 00:15:04.450] DATA: Understood, sir.
+[00:15:05.090 --> 00:15:07.090] PICARD: I'm contacting Starfleet to arrange transport.
+[00:15:07.170 --> 00:15:08.610] PICARD: Get those people prepared to evacuation.
+[00:15:08.610 --> 00:15:09.730] PICARD: We may have to move quickly.
+[00:15:10.210 --> 00:15:10.530] DATA: Aye, sir.
+[00:15:11.810 --> 00:15:13.170] DATA: We must speak to Gosheven immediately.
+[00:15:44.850 --> 00:15:46.210] RIKER: Gentlemen, how's it coming?
+[00:15:49.650 --> 00:15:50.290] RIKER: What the hell is that?
+[00:15:51.170 --> 00:15:52.130] LAFORGE: Our first attempt.
+[00:15:53.810 --> 00:15:54.210] RIKER: Keep at it.
+[00:15:54.450 --> 00:15:55.490] RIKER: We need those transporters.
+[00:16:00.290 --> 00:16:00.290] GOSHEVEN: You
+[00:16:05.170 --> 00:16:05.890] GOSHEVEN: see this?
+[00:16:07.170 --> 00:16:09.730] GOSHEVEN: Do you have any idea what it is, or what it means?
+[00:16:10.530 --> 00:16:14.290] DATA: It is water. A substance composed of two atoms of hydrogen
+[00:16:14.290 --> 00:16:15.170] GOSHEVEN: It's not water.
+[00:16:15.650 --> 00:16:17.090] GOSHEVEN: It's blood and it's sweat.
+[00:16:17.970 --> 00:16:20.050] GOSHEVEN: It's the result of a ninety years of combined effort.
+[00:16:20.370 --> 00:16:21.250] GOSHEVEN: This isn't a town.
+[00:16:21.810 --> 00:16:25.810] GOSHEVEN: It's a monument to every man, woman, and child who's lived and died on Tau Cygna Five.
+[00:16:26.530 --> 00:16:28.130] ARD'RIAN: Gosheven, you're talking nonsense.
+[00:16:28.530 --> 00:16:28.930] GOSHEVEN: Am I?
+[00:16:29.890 --> 00:16:31.730] GOSHEVEN: My grandfather is buried on that mountain.
+[00:16:32.792 --> 00:16:35.512] GOSHEVEN: He died in a rock slide surveying the route for this aqueduct.
+[00:16:36.152 --> 00:16:41.432] GOSHEVEN: This colony exists because of his sacrifice, and the sacrifice of thousands of others.
+[00:16:43.592 --> 00:16:45.592] GOSHEVEN: No, we're not leaving.
+[00:16:46.392 --> 00:16:51.912] DATA: The Sheliak will not accept humans on their planet, And they will not hesitate to use force to remove you.
+[00:16:52.552 --> 00:16:56.552] GOSHEVEN: We will not be bullied off our land. Not by you, and not by the Sheliak.
+[00:17:01.032 --> 00:17:02.632] ARD'RIAN: Stubborn and irrational.
+[00:17:03.512 --> 00:17:04.152] ARD'RIAN: Now what do we do?
+[00:17:05.832 --> 00:17:07.832] DATA: Are his sentiments typical of the colonists?
+[00:17:08.712 --> 00:17:09.352] ARD'RIAN: I hope not.
+[00:17:10.072 --> 00:17:12.712] DATA: If I can convince enough people of the necessity of leaving
+[00:17:12.712 --> 00:17:14.952] ARD'RIAN: Don't you mean, if we can convince?
+[00:17:21.992 --> 00:17:22.232] PICARD: Come.
+[00:17:23.512 --> 00:17:23.832] RIKER: Yes, sir?
+[00:17:25.272 --> 00:17:25.832] PICARD: Three weeks.
+[00:17:26.872 --> 00:17:30.392] PICARD: Starfleet is profuse in their apologies, but it will still be three weeks
+[00:17:31.992 --> 00:17:37.192] PICARD: until the arrival of a colony transport ship equipped with dedicated personnel shuttles.
+[00:17:37.832 --> 00:17:39.112] RIKER: We can't wait three weeks.
+[00:17:39.512 --> 00:17:41.752] PICARD: Then the Sheliak must agree to extend our deadline.
+[00:17:45.752 --> 00:17:49.536] PICARD: They plan to settle Tau Cygna Five two days from now.
+[00:17:49.536 --> 00:17:52.632] RIKER: One of their ships must already be en route.
+[00:17:54.072 --> 00:17:55.352] PICARD: We're going to intercept that ship.
+[00:17:56.232 --> 00:17:58.392] RIKER: The Sheliak may interpret that as a hostile act.
+[00:17:58.712 --> 00:17:59.752] PICARD: A risk we have to take.
+[00:18:04.439 --> 00:18:04.519] RIKER: The
+[00:18:08.359 --> 00:18:11.559] RIKER: Enterprise is going to try to intercept the Sheliak colony ship.
+[00:18:11.799 --> 00:18:15.159] RIKER: Your job well, you know what your job is.
+[00:18:15.559 --> 00:18:19.959] DATA: Commander. In human parlance, I do not believe I can get the job done.
+[00:18:20.759 --> 00:18:23.639] DATA: My training has prepared me for starship command duties.
+[00:18:23.879 --> 00:18:27.079] DATA: As a cultural contact I am proving to be Less than exemplary.
+[00:18:27.479 --> 00:18:28.359] RIKER: What's the situation?
+[00:18:29.079 --> 00:18:30.519] DATA: Their leader refuses my counsel.
+[00:18:30.999 --> 00:18:34.999] DATA: He denies the logic of my arguments and speaks of structures they have built.
+[00:18:35.799 --> 00:18:36.919] RIKER: Then try something else.
+[00:18:37.239 --> 00:18:37.799] DATA: I have, sir.
+[00:18:38.519 --> 00:18:42.039] DATA: In the last three hours and eight minutes, I have spoken to fifty six colonists.
+[00:18:42.519 --> 00:18:44.759] DATA: Ten of those refused to believe a threat exists.
+[00:18:45.159 --> 00:18:47.639] DATA: Twenty two favour staying and fighting the Sheliak.
+[00:18:48.279 --> 00:18:52.759] DATA: Sixteen prefer negotiation or Some form of passive resistance.
+[00:18:53.239 --> 00:18:56.539] DATA: Only eight were willing to consider evacuation. And of those eight
+[00:18:56.539 --> 00:18:58.039] RIKER: Data, I can't help you.
+[00:18:58.599 --> 00:18:59.559] RIKER: I don't know these people.
+[00:18:59.559 --> 00:19:00.359] RIKER: I haven't talked to them.
+[00:19:00.359 --> 00:19:00.839] RIKER: You have.
+[00:19:01.399 --> 00:19:03.719] RIKER: Use that fancy Positronic brain of yours and
+[00:19:04.359 --> 00:19:05.767] RIKER: carry out your mission.
+[00:19:05.767 --> 00:19:06.119] DATA: Sir,
+[00:19:06.919 --> 00:19:11.159] DATA: if I do not succeed, how violent is the Sheliak reaction likely to be?
+[00:19:11.639 --> 00:19:15.799] RIKER: The treaty is the only thing that prevented them from eradicating the colony the moment they discovered it.
+[00:19:17.479 --> 00:19:17.943] DATA: Ah.
+[00:19:17.943 --> 00:19:19.799] RIKER: Ah is right, Data.
+[00:19:20.359 --> 00:19:23.399] RIKER: The lives of fifteen thousand people are riding on you.
+[00:19:24.039 --> 00:19:24.839] RIKER: You'd better get innovative.
+[00:19:25.399 --> 00:19:25.959] RIKER: Riker out.
+[00:19:27.319 --> 00:19:27.559] ARD'RIAN: Data?
+[00:19:29.559 --> 00:19:30.759] ARD'RIAN: We're having an effect.
+[00:19:31.319 --> 00:19:35.159] ARD'RIAN: So many people are asking questions about the Sheliak that Gosheven has called a public meeting.
+[00:19:35.879 --> 00:19:38.359] DATA: Is there any indication that Gosheven has changed his position?
+[00:19:38.610 --> 00:19:42.050] ARD'RIAN: No. But a meeting will give you the chance to present your recommendations.
+[00:19:42.290 --> 00:19:45.810] DATA: So far, my attempts at persuasion have been ineffective.
+[00:19:57.490 --> 00:19:58.050] DATA: Why did you do that?
+[00:19:59.250 --> 00:20:00.050] ARD'RIAN: You appeared to need it.
+[00:20:03.090 --> 00:20:10.290] DATA: Among humans, a kiss usually serves to seal a friendship, or indicate support, attraction, affection.
+[00:20:11.890 --> 00:20:17.010] DATA: In this context, I must assume that your intention was to express support.
+[00:20:18.210 --> 00:20:20.210] ARD'RIAN: You don't really understand human behaviour, do you?
+[00:20:20.770 --> 00:20:21.890] DATA: That is something of an understatement.
+[00:20:23.570 --> 00:20:24.530] ARD'RIAN: Sometimes I don't either.
+[00:20:25.170 --> 00:20:26.850] ARD'RIAN: androids are a lot more rational.
+[00:20:28.290 --> 00:20:31.170] DATA: Thus far, that quality has not helped me to accomplish my mission.
+[00:20:31.890 --> 00:20:33.650] ARD'RIAN: A rational argument isn't always enough.
+[00:20:34.450 --> 00:20:38.770] ARD'RIAN: Maybe to be more persuasive, you need to use a little reverse psychology.
+[00:20:42.370 --> 00:20:45.490] DATA: Elicit a desired behaviour by advocating its opposite.
+[00:20:46.610 --> 00:20:48.210] DATA: That implies deception, does it not?
+[00:20:48.850 --> 00:20:52.610] ARD'RIAN: A little. But if it helps us get our point across.
+[00:20:52.610 --> 00:20:56.370] DATA: Perhaps this is a situation where excessive honesty can be detrimental.
+[00:21:11.410 --> 00:21:11.810] PICARD: Now,
+[00:21:12.037 --> 00:21:12.917] PICARD: are we progressing, Mister
+[00:21:12.917 --> 00:21:13.237] PICARD: La Forge?
+[00:21:13.237 --> 00:21:14.197] LAFORGE: About like you'd expect, sir.
+[00:21:14.357 --> 00:21:14.917] PICARD: Splendid.
+[00:21:15.237 --> 00:21:15.637] PICARD: Splendid.
+[00:21:15.717 --> 00:21:16.197] PICARD: Carry on.
+[00:21:19.717 --> 00:21:20.837] WESLEY: He wants the impossible.
+[00:21:21.157 --> 00:21:22.997] LAFORGE: That's the short definition of Captain.
+[00:21:41.397 --> 00:21:45.477] GOSHEVEN: You've all heard of the android Starfleet sent here, and you've been discussing why he's come.
+[00:21:49.477 --> 00:21:55.237] GOSHEVEN: I've called this meeting to replace misinformation with cold, hard fact.
+[00:21:55.877 --> 00:21:56.597] DATA: I wish to speak.
+[00:21:56.997 --> 00:21:58.837] GOSHEVEN: No. Leave now.
+[00:22:00.517 --> 00:22:04.037] DATA: Do you consider your position so weak that it cannot withstand debate?
+[00:22:04.837 --> 00:22:05.637] HARITATH: Let him talk.
+[00:22:09.797 --> 00:22:09.957] DATA: You
+[00:22:20.597 --> 00:22:22.117] DATA: know of the Sheliak threat.
+[00:22:23.237 --> 00:22:26.357] DATA: Starfleet wishes to evacuate you for your own protection.
+[00:22:27.157 --> 00:22:30.757] DATA: Yet Gosheven has decided otherwise.
+[00:22:32.197 --> 00:22:36.757] DATA: That is his right, And I will not waste time trying to reverse that decision.
+[00:22:37.637 --> 00:22:40.917] DATA: I admire your conviction in the face of certain defeat.
+[00:22:42.357 --> 00:22:46.597] DATA: Though doomed, your effort will be valiant. And when you die,
+[00:22:47.759 --> 00:22:50.879] DATA: you will die for land and honour.
+[00:23:00.399 --> 00:23:04.319] DATA: Your children will understand that they are dying for a worthy cause.
+[00:23:05.279 --> 00:23:11.439] DATA: Long after the battle is over, their courage will be remembered and extolled.
+[00:23:12.479 --> 00:23:13.439] ARD'RIAN: Remembered by who?
+[00:23:15.999 --> 00:23:18.319] DATA: Yes, that is true.
+[00:23:20.079 --> 00:23:22.159] DATA: There will be no one left alive to remember.
+[00:23:27.679 --> 00:23:29.039] GOSHEVEN: A valiant try, android,
+[00:23:30.399 --> 00:23:32.639] GOSHEVEN: but what a low opinion you must have of us.
+[00:23:33.279 --> 00:23:37.759] DATA: I was simply attempting to describe your inevitable destruction in a manner that would have an emotional effect.
+[00:23:38.239 --> 00:23:39.839] HARITATH: And he describes it pretty damned well.
+[00:23:40.559 --> 00:23:42.159] GOSHEVEN: Are you ready to follow this machine?
+[00:23:42.159 --> 00:23:43.279] GOSHEVEN: Give up without a fight?
+[00:23:45.119 --> 00:23:49.039] GOSHEVEN: He says we're going to lose, but I think that's just his cowardice talking!
+[00:23:49.839 --> 00:23:51.359] KENTOR: What if he's right and you're wrong?
+[00:23:51.919 --> 00:23:53.359] KENTOR: Shouldn't we consider that possibility?
+[00:23:53.839 --> 00:23:57.519] GOSHEVEN: This colony exists because generations gave their lives for it.
+[00:23:58.239 --> 00:24:04.399] GOSHEVEN: Many people died before we found a way to adapt to the radiation. And many more died bringing water to the desert.
+[00:24:04.799 --> 00:24:05.325] GOSHEVEN: My grandfather
+[00:24:05.325 --> 00:24:06.639] ARD'RIAN: Is buried on that mountain.
+[00:24:07.679 --> 00:24:09.039] ARD'RIAN: Well, who'll be left to bury you?
+[00:24:16.559 --> 00:24:19.119] GOSHEVEN: Have you considered what this evacuation means?
+[00:24:20.399 --> 00:24:21.439] GOSHEVEN: Everything we have,
+[00:24:22.800 --> 00:24:27.280] GOSHEVEN: we abandon. Everything that we have built turns into dust.
+[00:24:28.160 --> 00:24:30.160] GOSHEVEN: Everything that we have accomplished means nothing.
+[00:24:31.680 --> 00:24:32.560] GOSHEVEN: Well, I say no.
+[00:24:33.760 --> 00:24:34.800] GOSHEVEN: You elected me your leader.
+[00:24:35.600 --> 00:24:36.480] GOSHEVEN: Follow me now.
+[00:24:37.440 --> 00:24:40.240] GOSHEVEN: I don't think our chances are as hopeless as he says.
+[00:24:42.560 --> 00:24:44.080] GOSHEVEN: And I'm willing to stake our lives on
+[00:24:47.360 --> 00:24:47.440] GOSHEVEN: it.
+[00:24:47.440 --> 00:24:48.160] GOSHEVEN: Any objections?
+[00:24:53.200 --> 00:24:53.520] GOSHEVEN: Good,
+[00:24:55.280 --> 00:24:57.360] GOSHEVEN: because here we stand.
+[00:24:58.320 --> 00:24:59.600] ALL: Aye, We stand with you.
+[00:25:09.360 --> 00:25:10.000] DATA: Then here you die.
+[00:25:18.560 --> 00:25:22.880] HARITATH: Mister Data, I just want you to know that Gosheven doesn't speak for all of us.
+[00:25:23.360 --> 00:25:25.040] HARITATH: I see no reason to die needlessly.
+[00:25:26.000 --> 00:25:26.400] DATA: And you?
+[00:25:27.360 --> 00:25:27.920] KENTOR: I'm not sure.
+[00:25:28.560 --> 00:25:32.320] KENTOR: Gosheven's done well for us, but I'd like to hear more of what you have to say.
+[00:25:32.560 --> 00:25:36.560] HARITATH: There are many others that feel the same way but they're very uneasy about confronting Gosheven.
+[00:25:36.960 --> 00:25:38.640] ARD'RIAN: Get them together and we'll meet at my house.
+[00:25:45.120 --> 00:25:50.320] TROI: In our dealings with other non-humanoid races there has been some point of reference.
+[00:25:51.760 --> 00:25:53.120] TROI: Not so with the Sheliak.
+[00:25:53.440 --> 00:25:55.200] PICARD: But we must have something in common.
+[00:25:55.200 --> 00:25:56.080] PICARD: We communicate.
+[00:25:56.534 --> 00:25:57.014] TROI: Barely.
+[00:25:57.974 --> 00:26:03.014] TROI: They have learned several Federation languages, but theirs continues to elude us.
+[00:26:03.814 --> 00:26:04.454] PICARD: Telepaths?
+[00:26:05.414 --> 00:26:06.454] TROI: Attempted and failed.
+[00:26:07.894 --> 00:26:13.254] TROI: Actually, the fact that any alien race communicates with another is quite remarkable.
+[00:26:15.734 --> 00:26:17.814] TROI: We are stranded on a planet.
+[00:26:18.614 --> 00:26:21.174] TROI: We have no language in common, but I want to teach you mine.
+[00:26:23.654 --> 00:26:24.294] TROI: S'smarith.
+[00:26:25.174 --> 00:26:26.054] TROI: What did I just say?
+[00:26:26.374 --> 00:26:26.614] PICARD: Cup?
+[00:26:29.734 --> 00:26:30.134] PICARD: Glass?
+[00:26:30.854 --> 00:26:33.414] TROI: Are you sure? I may have meant liquid,
+[00:26:33.574 --> 00:26:34.054] TROI: clear,
+[00:26:34.694 --> 00:26:35.174] TROI: brown,
+[00:26:35.574 --> 00:26:35.974] TROI: hot.
+[00:26:37.574 --> 00:26:41.014] TROI: We conceptualise the universe in relatively the same way.
+[00:26:42.214 --> 00:26:42.854] PICARD: Point taken.
+[00:26:44.614 --> 00:26:48.934] TROI: In your talks, you must be extremely accurate.
+[00:26:49.894 --> 00:26:53.334] TROI: The treaty is five hundred thousand words.
+[00:26:54.134 --> 00:26:56.054] TROI: The length was to accommodate the Sheliak.
+[00:26:56.694 --> 00:27:03.254] TROI: They consider our language irrational, and demanded this level of complexity to avoid any future misunderstandings.
+[00:27:03.734 --> 00:27:07.254] RIKER: Captain, we have the vessel carrying the Sheliak colonists on visual.
+[00:27:08.374 --> 00:27:08.934] PICARD: On my way.
+[00:27:10.534 --> 00:27:12.374] PICARD: So, it begins.
+[00:27:13.894 --> 00:27:15.334] PICARD: Hailing
+[00:27:17.414 --> 00:27:18.174] PICARD: frequencies.
+[00:27:18.174 --> 00:27:18.934] WORF: Open.
+[00:27:20.054 --> 00:27:22.294] PICARD: This is Captain Jean-Luc Picard of the Starship Enterprise.
+[00:27:24.535 --> 00:27:26.215] SHELIAK: Your purpose, Enterprise?
+[00:27:26.535 --> 00:27:30.855] PICARD: We desire face-to-face negotiation to settle the crisis on Tau Cygna Five.
+[00:27:31.655 --> 00:27:32.615] SHELIAK: Meaningless.
+[00:27:34.135 --> 00:27:39.495] PICARD: We are entitled to consultation under paragraph six hundred and fifty three subparagraph nine.
+[00:27:42.375 --> 00:27:43.015] SHELIAK: Granted.
+[00:27:45.255 --> 00:27:46.135] RIKER: Was that an invitation?
+[00:27:46.695 --> 00:27:48.695] PICARD: I am taking it as such. Counsellor.
+[00:27:49.255 --> 00:27:50.215] PICARD: You have the Bridge, Number One.
+[00:27:51.335 --> 00:27:53.255] RIKER: Helm, maintain relative position.
+[00:27:53.255 --> 00:27:56.215] RIKER: Mister Worf, tell transporter room two to stand by.
+[00:27:57.015 --> 00:27:57.415] WORF: Aye, sir.
+[00:27:58.855 --> 00:28:01.575] KENTOR: And once the Federation resettles us, we'll be left alone?
+[00:28:02.055 --> 00:28:02.935] DATA: If you so desire.
+[00:28:03.335 --> 00:28:03.815] HARITATH: We do.
+[00:28:04.135 --> 00:28:05.415] HARITATH: We like to do things on our own.
+[00:28:05.895 --> 00:28:08.855] DATA: The Federation will offer as little or as much help as you dictate.
+[00:28:09.815 --> 00:28:11.335] ARD'RIAN: Kentor, are you with us?
+[00:28:12.935 --> 00:28:13.175] KENTOR: Yes.
+[00:28:14.055 --> 00:28:15.735] KENTOR: The question is, how do we convince Gosheven?
+[00:28:16.855 --> 00:28:17.655] HARITATH: Why do we need to?
+[00:28:18.215 --> 00:28:19.175] KENTOR: Because he's respected.
+[00:28:19.895 --> 00:28:21.255] KENTOR: Most people will do what he says.
+[00:28:21.575 --> 00:28:22.615] ARD'RIAN: They respect you, too.
+[00:28:22.855 --> 00:28:24.615] ARD'RIAN: If you take a stand, they'll fall in line.
+[00:28:25.975 --> 00:28:26.375] KENTOR: I don't know.
+[00:28:27.175 --> 00:28:28.695] KENTOR: Gosheven's got a lot of supporters.
+[00:28:29.015 --> 00:28:30.455] GOSHEVEN: Don't forget that, Kentor.
+[00:28:33.815 --> 00:28:34.695] GOSHEVEN: I'm disappointed.
+[00:28:35.735 --> 00:28:37.175] GOSHEVEN: I thought we'd settled this.
+[00:28:38.215 --> 00:28:39.655] DATA: Apparently, that is not correct.
+[00:28:41.815 --> 00:28:43.335] GOSHEVEN: Still stirring up trouble?
+[00:28:43.895 --> 00:28:45.335] ARD'RIAN: Since when is talk trouble?
+[00:28:50.775 --> 00:28:51.415] GOSHEVEN: It's over.
+[00:28:52.775 --> 00:28:53.495] GOSHEVEN: Don't you get it?
+[00:28:54.450 --> 00:28:55.330] GOSHEVEN: You had your say.
+[00:28:55.890 --> 00:28:56.530] GOSHEVEN: You lost.
+[00:28:58.050 --> 00:28:59.890] DATA: I appear to be reversing that defeat.
+[00:29:00.290 --> 00:29:01.090] GOSHEVEN: No, you're not.
+[00:29:01.890 --> 00:29:02.690] GOSHEVEN: You're just stubborn.
+[00:29:03.410 --> 00:29:04.690] GOSHEVEN: Well, let me tell you something.
+[00:29:09.650 --> 00:29:10.290] GOSHEVEN: So am I.
+[00:29:11.170 --> 00:29:11.970] ARD'RIAN: Damn you, Gosheven.
+[00:29:13.410 --> 00:29:14.050] HARITATH: You killed him?
+[00:29:14.290 --> 00:29:15.170] GOSHEVEN: I've killed no one.
+[00:29:15.490 --> 00:29:16.930] GOSHEVEN: I merely shut down a machine.
+[00:29:17.890 --> 00:29:18.770] GOSHEVEN: That's it, everyone.
+[00:29:19.330 --> 00:29:19.810] GOSHEVEN: It's time to go
+[00:29:23.010 --> 00:29:25.010] GOSHEVEN: home.
+[00:29:25.090 --> 00:29:26.130] GOSHEVEN: You'll see that I'm right.
+[00:29:59.650 --> 00:30:01.170] SHELIAK: Advance and speak.
+[00:30:11.170 --> 00:30:11.650] PICARD: Director,
+[00:30:13.970 --> 00:30:19.650] PICARD: we will comply with your request to remove the colony from Tau Cygna Five, but we need time.
+[00:30:20.301 --> 00:30:22.221] SHELIAK: The given time has elapsed.
+[00:30:22.621 --> 00:30:26.461] SHELIAK: We carry the membership and we will proceed with their debarkation.
+[00:30:27.021 --> 00:30:30.861] TROI: The temporary presence of these humans should not interfere with your plans.
+[00:30:31.021 --> 00:30:31.901] SHELIAK: Unacceptable.
+[00:30:32.221 --> 00:30:34.221] SHELIAK: You must remove the creatures.
+[00:30:35.021 --> 00:30:38.301] PICARD: I'm trying, but the needed ship will not be available for three weeks.
+[00:30:38.541 --> 00:30:40.301] SHELIAK: Then you are in violation.
+[00:30:41.021 --> 00:30:42.141] PICARD: I have admitted that.
+[00:30:43.421 --> 00:30:45.901] PICARD: I am only asking for a little flexibility.
+[00:30:46.621 --> 00:30:49.501] SHELIAK: Section five hundred and one, paragraph seven hundred and sixteen, subparagraph
+[00:30:51.261 --> 00:30:51.661] SHELIAK: five.
+[00:30:52.061 --> 00:30:59.021] SHELIAK: Unwanted lifeforms inhabiting H class worlds may be removed at the discretion of the Sheliak Corporate.
+[00:30:59.661 --> 00:31:03.821] PICARD: We will remove them, but you must grant us the time we require.
+[00:31:05.021 --> 00:31:07.581] SHELIAK: You need time, Picard of the Enterprise?
+[00:31:07.821 --> 00:31:09.421] SHELIAK: We will save you time.
+[00:31:09.661 --> 00:31:12.061] SHELIAK: We will eradicate the human infestation.
+[00:31:13.181 --> 00:31:14.141] PICARD: They are not vermin.
+[00:31:14.221 --> 00:31:15.581] PICARD: They are citizens of the Federation.
+[00:31:15.661 --> 00:31:16.941] PICARD: I will not permit this outrage!
+[00:31:17.101 --> 00:31:19.581] SHELIAK: Intelligent converse is impossible.
+[00:31:19.901 --> 00:31:21.501] SHELIAK: You do not discuss,
+[00:31:21.741 --> 00:31:22.561] SHELIAK: you gibber.
+[00:31:22.561 --> 00:31:25.021] PICARD: Between intelligent species of good will
+[00:31:27.981 --> 00:31:31.901] RIKER: I take it the Sheliak just hung up on us again.
+[00:31:43.261 --> 00:31:47.821] ARD'RIAN: I was afraid your neural pathways were scrambled beyond repair.
+[00:31:48.541 --> 00:31:52.621] DATA: I am equipped with diagnostic circuits and am able to correct many malfunctions.
+[00:31:53.934 --> 00:31:58.174] ARD'RIAN: I'm not surprised at Gosheven's behaviour. But Kentor and the others, they said they were with us.
+[00:31:58.974 --> 00:32:00.494] ARD'RIAN: I guess words don't mean very much.
+[00:32:02.174 --> 00:32:03.934] DATA: Perhaps that is a part of our difficulty.
+[00:32:04.974 --> 00:32:06.174] DATA: Words are all we have been using.
+[00:32:06.894 --> 00:32:09.374] DATA: Humans seem to take much stronger notice of actions.
+[00:32:11.774 --> 00:32:12.974] DATA: I require a phaser.
+[00:32:14.974 --> 00:32:15.614] ARD'RIAN: What's a phaser?
+[00:32:16.334 --> 00:32:17.214] DATA: A type of weapon.
+[00:32:18.094 --> 00:32:21.534] DATA: Unfortunately it does not function in the presence of hyperonic radiation.
+[00:32:23.054 --> 00:32:24.014] DATA: I will have to be innovative.
+[00:32:27.934 --> 00:32:37.774] DATA: Hyperonic radiation randomises phaser beams. But I believe I can improvise a servocircuit which will compensate by continuously recollimating the output.
+[00:32:38.974 --> 00:32:42.334] ARD'RIAN: You're using your own neural subprocessors to build a smarter phaser.
+[00:32:43.374 --> 00:32:44.254] DATA: Essentially correct.
+[00:32:47.694 --> 00:32:48.574] DATA: Get word to Gosheven.
+[00:32:49.534 --> 00:32:52.174] DATA: Tell him I am coming to the pumping station.
+[00:32:53.214 --> 00:32:55.214] DATA: Tell him I am going to destroy the aqueduct.
+[00:32:58.414 --> 00:32:59.374] ARD'RIAN: He'll try to stop you.
+[00:33:01.054 --> 00:33:02.094] DATA: I sincerely hope so.
+[00:33:02.094 --> 00:33:03.454] PICARD: Go to yellow alert.
+[00:33:20.176 --> 00:33:20.816] PICARD: Shields up.
+[00:33:21.536 --> 00:33:21.856] WORF: Aye, sir.
+[00:33:22.576 --> 00:33:24.736] PICARD: Mister Riker, put us nose to nose with the Sheliak ship.
+[00:33:25.056 --> 00:33:26.336] PICARD: Any move she makes, match it.
+[00:33:26.576 --> 00:33:26.896] RIKER: Aye, sir.
+[00:33:27.296 --> 00:33:29.136] PICARD: Mister Worf, hailing frequency.
+[00:33:30.496 --> 00:33:30.736] WORF: Open.
+[00:33:32.896 --> 00:33:33.696] WORF: They are not responding.
+[00:33:36.496 --> 00:33:37.376] PICARD: They don't have to answer.
+[00:33:38.176 --> 00:33:38.976] PICARD: They just have to listen.
+[00:33:39.456 --> 00:33:44.816] PICARD: Sheliak vessel, you will have to get past me to get at the colony on Tau Cygna Five.
+[00:33:47.296 --> 00:33:47.936] WORF: No response.
+[00:33:49.456 --> 00:33:49.936] PICARD: Close channel.
+[00:33:52.096 --> 00:33:52.816] PICARD: And get me that treaty.
+[00:33:53.536 --> 00:33:55.616] PICARD: They've been beating us over the head with it for three days.
+[00:33:56.656 --> 00:34:00.176] PICARD: Let's see if we can't find something in it that we can turn to our own advantage.
+[00:34:26.096 --> 00:34:26.496] DATA: Stop.
+[00:34:33.136 --> 00:34:34.176] DATA: That was the stun setting.
+[00:34:35.936 --> 00:34:36.416] DATA: This is not.
+[00:34:37.216 --> 00:34:37.376] DATA: I can
+[00:34:47.856 --> 00:34:52.816] DATA: reduce this pumping station to a pile of debris,
+[00:34:54.047 --> 00:34:55.487] DATA: but I trust my point is clear.
+[00:34:56.687 --> 00:34:58.927] DATA: I am one android with a single weapon.
+[00:34:59.887 --> 00:35:04.607] DATA: There are hundreds of Sheliak on the way and their weapons are far more powerful.
+[00:35:05.567 --> 00:35:06.767] DATA: They may not offer you a target.
+[00:35:07.887 --> 00:35:09.807] DATA: They can obliterate you from orbit.
+[00:35:11.327 --> 00:35:11.887] DATA: You will die
+[00:35:13.567 --> 00:35:15.887] DATA: never having seen the faces of your killers.
+[00:35:18.127 --> 00:35:19.247] DATA: The choice is yours.
+[00:35:22.607 --> 00:35:24.847] KENTOR: There are other places, other challenges.
+[00:35:51.487 --> 00:35:52.767] GOSHEVEN: I
+[00:36:05.327 --> 00:36:09.407] GOSHEVEN: really was willing to stay here and die for this.
+[00:36:10.287 --> 00:36:10.767] DATA: I know that.
+[00:36:13.087 --> 00:36:16.767] DATA: This is just a thing, and things can be replaced.
+[00:36:17.967 --> 00:36:18.767] DATA: Lives cannot.
+[00:36:37.670 --> 00:36:38.870] WORF: This is hopeless.
+[00:36:39.670 --> 00:36:41.030] WORF: Fighting would be preferable.
+[00:36:48.150 --> 00:36:48.630] PICARD: That's it.
+[00:36:49.670 --> 00:36:50.630] TROI: I don't follow you, sir.
+[00:36:52.390 --> 00:36:52.550] PICARD: Mister
+[00:36:52.550 --> 00:36:53.510] PICARD: Worf, get me the Sheliak.
+[00:36:54.070 --> 00:36:54.390] WORF: Yes, sir.
+[00:37:04.230 --> 00:37:04.870] WORF: Coming through, sir.
+[00:37:08.390 --> 00:37:15.110] PICARD: Pursuant to paragraph one thousand two hundred and ninety, I hereby formally request third party arbitration of our dispute.
+[00:37:17.670 --> 00:37:18.790] SHELIAK: You have the right.
+[00:37:19.990 --> 00:37:27.350] PICARD: Furthermore, pursuant to subsection D three, I name the Grisellas to arbitrate.
+[00:37:27.750 --> 00:37:28.870] SHELIAK: Grisellas?
+[00:37:29.270 --> 00:37:32.070] PICARD: Unfortunately, they are currently in their hibernation cycle,
+[00:37:32.070 --> 00:37:35.990] PICARD: However, they will awaken in six months, at which time we can get this matter settled.
+[00:37:37.910 --> 00:37:38.230] PICARD: Now,
+[00:37:39.830 --> 00:37:40.550] PICARD: do you want to wait
+[00:37:42.150 --> 00:37:43.350] PICARD: or give me my three weeks?
+[00:37:43.910 --> 00:37:44.630] SHELIAK: Absurd.
+[00:37:44.950 --> 00:37:46.230] SHELIAK: We carry the membership.
+[00:37:46.630 --> 00:37:48.150] SHELIAK: We can brook no delay.
+[00:37:48.587 --> 00:37:51.067] PICARD: Then I declare the treaty in abeyance,
+[00:37:51.708 --> 00:37:54.268] SHELIAK: Wait! Negotiation is permiss
+[00:38:00.507 --> 00:38:01.308] RIKER: You enjoyed that.
+[00:38:01.708 --> 00:38:02.828] PICARD: You're damned right.
+[00:38:09.147 --> 00:38:09.467] WORF: Captain,
+[00:38:10.107 --> 00:38:11.388] WORF: they are hailing us.
+[00:38:39.308 --> 00:38:39.308] WORF: Sir?
+[00:38:39.947 --> 00:38:40.507] PICARD: On screen.
+[00:38:43.627 --> 00:38:47.868] SHELIAK: You may have your three weeks, Picard of the Enterprise.
+[00:38:48.987 --> 00:38:49.388] PICARD: Thank you.
+[00:38:56.987 --> 00:38:57.308] LAFORGE: Captain,
+[00:38:58.828 --> 00:38:59.308] LAFORGE: we can do it.
+[00:38:59.627 --> 00:39:00.908] LAFORGE: We can modify the transporters.
+[00:39:01.388 --> 00:39:01.868] PICARD: Excellent.
+[00:39:02.268 --> 00:39:04.782] LAFORGE: It'll take fifteen years, and a research team of a hundred.
+[00:39:04.782 --> 00:39:05.467] PICARD: Mister La Forge,
+[00:39:07.147 --> 00:39:08.188] PICARD: I believe we will postpone.
+[00:39:09.947 --> 00:39:10.268] LAFORGE: Yes, sir.
+[00:39:17.308 --> 00:39:19.067] DATA: Lieutenant Commander Data to Enterprise.
+[00:39:19.627 --> 00:39:21.388] DATA: I am preparing to leave Tau Cygna Five
+[00:39:21.826 --> 00:39:23.666] DATA: and await rendezvous instructions.
+[00:39:23.986 --> 00:39:24.466] WORF: Acknowledged.
+[00:39:24.786 --> 00:39:25.266] WORF: Stand by.
+[00:39:37.666 --> 00:39:37.906] ARD'RIAN: Hi.
+[00:39:40.306 --> 00:39:41.826] ARD'RIAN: The evacuation plan is going well.
+[00:39:41.826 --> 00:39:43.426] ARD'RIAN: When the ship arrives, we'll be ready to leave.
+[00:39:44.386 --> 00:39:44.946] ARD'RIAN: You succeeded.
+[00:39:45.666 --> 00:39:48.626] DATA: I could not have succeeded without your support and insight.
+[00:39:49.186 --> 00:39:50.626] DATA: I am grateful for your assistance.
+[00:39:51.586 --> 00:39:51.906] ARD'RIAN: Good.
+[00:39:52.946 --> 00:39:53.746] ARD'RIAN: Then you won't forget me.
+[00:39:54.866 --> 00:39:56.146] DATA: I am incapable of forgetting.
+[00:39:56.946 --> 00:39:59.986] DATA: I will remember every detail of my visit here with perfect clarity.
+[00:40:01.266 --> 00:40:02.466] ARD'RIAN: But nothing more?
+[00:40:04.626 --> 00:40:05.506] DATA: I do not understand.
+[00:40:09.586 --> 00:40:11.986] ARD'RIAN: I guess what I really want to know is,
+[00:40:14.706 --> 00:40:16.786] ARD'RIAN: do you have any feelings for me?
+[00:40:19.666 --> 00:40:21.986] DATA: I have no feelings of any kind.
+[00:40:24.466 --> 00:40:25.906] ARD'RIAN: No, of course you don't.
+[00:40:31.186 --> 00:40:33.986] ARD'RIAN: What was
+[00:40:37.506 --> 00:40:39.746] ARD'RIAN: that for?
+[00:40:41.426 --> 00:40:42.866] DATA: You appeared to need it.
+[00:40:45.746 --> 00:40:46.546] ARD'RIAN: So you
+[00:40:47.677 --> 00:40:52.877] ARD'RIAN: saw I was unhappy and did what you concluded would make me feel better.
+[00:40:57.757 --> 00:40:58.877] ARD'RIAN: Rational to the last.
+[00:40:59.027 --> 00:40:59.627] ARD'RIAN: Bye.
+[00:41:18.877 --> 00:41:19.277] PICARD: Come.
+[00:41:25.037 --> 00:41:26.157] PICARD: Welcome home, Mister Data.
+[00:41:26.237 --> 00:41:26.717] PICARD: Well done.
+[00:41:27.117 --> 00:41:27.437] DATA: Thank you, sir.
+[00:41:27.917 --> 00:41:28.397] PICARD: The good
+[00:41:31.597 --> 00:41:34.557] PICARD: doctor was kind enough to provide me with a recording of your concert.
+[00:41:35.597 --> 00:41:36.637] PICARD: Your performance shows
+[00:41:38.317 --> 00:41:38.727] PICARD: feeling.
+[00:41:38.727 --> 00:41:41.597] DATA: As I have recently reminded others, sir,
+[00:41:42.477 --> 00:41:43.597] DATA: I have no feeling.
+[00:41:45.197 --> 00:41:45.997] PICARD: It's hard to believe.
+[00:41:48.957 --> 00:41:50.077] PICARD: Your playing is quite beautiful.
+[00:41:50.717 --> 00:41:52.957] DATA: Strictly speaking, sir, it is not my playing.
+[00:41:53.757 --> 00:41:57.597] DATA: It is a precise imitation of the techniques of Jascha Heifetz and Trenka Bronken.
+[00:42:01.437 --> 00:42:03.117] PICARD: Is there nothing of Data in what I'm hearing?
+[00:42:03.117 --> 00:42:06.077] PICARD: You see, you chose the violinists.
+[00:42:06.957 --> 00:42:15.117] PICARD: Heifetz and Bronken have radically different styles, different techniques, yet you combined them successfully.
+[00:42:17.535 --> 00:42:20.495] DATA: I suppose I have learned to be creative, sir,
+[00:42:22.015 --> 00:42:22.575] DATA: when necessary.
+[00:42:26.575 --> 00:42:28.335] PICARD: Mister Data, I look forward to your next concert.
+[00:42:53.000 --> 00:43:04.000] [music]
+[00:43:06.000 --> 00:43:21.000] [music]
+[00:43:22.000 --> 00:43:32.000] [music]

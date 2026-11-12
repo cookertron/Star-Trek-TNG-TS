@@ -1,0 +1,730 @@
+[00:00:02.160 --> 00:00:05.120] LOG: Captain's log, stardate 41386.4.
+[00:00:05.120 --> 00:00:09.040] LOG: We are in pursuit of a starship of Ferengi design.
+[00:00:09.440 --> 00:00:16.960] LOG: Our mission is to intercept and recover a T9 energy converter which the Ferengi stole from an unmanned monitor post on Gamma Tauri Four.
+[00:00:17.440 --> 00:00:24.640] LOG: A theft which automatic scanners recorded, providing us with the long awaited opportunity to make close contact with a Ferengi vessel.
+[00:00:25.520 --> 00:00:33.520] LOG: If we succeed in this chase, it will be Starfleet's first look at a life form which, discounting rumour, we know almost nothing about.
+[00:00:34.880 --> 00:00:35.360] RIKER: There she is.
+[00:00:39.440 --> 00:00:39.760] PICARD: Enlarge.
+[00:00:45.360 --> 00:00:46.000] PICARD: What is their course?
+[00:00:46.720 --> 00:00:48.880] LAFORGE: They are now angling through that solar system, Captain.
+[00:00:49.520 --> 00:00:50.080] PICARD: Identify.
+[00:00:50.800 --> 00:00:52.480] DATA: Listed as Delphi Ardu, sir.
+[00:00:53.040 --> 00:00:54.480] DATA: Eleven planets, unexplored.
+[00:00:55.440 --> 00:00:56.320] RIKER: Stay with them, La Forge.
+[00:00:56.320 --> 00:00:56.720] LAFORGE: Aye, sir.
+[00:01:01.760 --> 00:01:04.000] TASHA: Sensors read a power surge from their last manoeuvre, Captain.
+[00:01:04.560 --> 00:01:07.120] LAFORGE: They are dropping to subwarp speed.
+[00:01:09.520 --> 00:01:10.640] PICARD: Reduce to impulse power.
+[00:01:13.600 --> 00:01:17.040] TASHA: Sensor record fluctuations in the energy readings from it, Captain.
+[00:01:17.040 --> 00:01:17.760] DATA: Possibility,
+[00:01:18.320 --> 00:01:19.760] DATA: a malfunction in their engines, sir.
+[00:01:20.240 --> 00:01:21.360] LAFORGE: Breaks my heart.
+[00:01:21.680 --> 00:01:23.120] WORF: In visual range, Captain.
+[00:01:23.600 --> 00:01:24.160] PICARD: Fully enlarge.
+[00:01:29.120 --> 00:01:30.800] LAFORGE: Hello, stranger.
+[00:01:31.600 --> 00:01:32.720] PICARD: Very impressive design.
+[00:01:33.907 --> 00:01:35.027] RIKER: Anything on that design, Data?
+[00:01:35.507 --> 00:01:36.467] DATA: Nothing specific, sir.
+[00:01:37.267 --> 00:01:40.547] DATA: As you know, Ferengi technology is estimated to be generally equal to our own.
+[00:01:41.107 --> 00:01:42.787] PICARD: But that does not mean identical, however.
+[00:01:44.707 --> 00:01:45.187] DATA: Correct, sir.
+[00:01:45.667 --> 00:01:48.227] DATA: We are no doubt advanced in some areas, they in others.
+[00:01:48.227 --> 00:01:49.587] LAFORGE: Showing another power surge, sir.
+[00:01:51.587 --> 00:01:52.467] WORF: They are firing on us.
+[00:01:52.947 --> 00:01:55.427] PICARD: Damage report?
+[00:01:55.427 --> 00:01:55.987] TASHA: Shields holding.
+[00:01:56.627 --> 00:01:57.907] DATA: Mostly electromagnetic, sir.
+[00:01:58.707 --> 00:02:00.627] DATA: Fusion generator and batteries down by thirty percent.
+[00:02:00.947 --> 00:02:02.467] LAFORGE: Our impulse engines are surging now.
+[00:02:02.867 --> 00:02:05.747] WORF: They're firing again.
+[00:02:07.907 --> 00:02:10.147] TASHA: Deflector shield power weakening, Captain.
+[00:02:10.547 --> 00:02:11.187] TASHA: Phasers ready.
+[00:02:12.307 --> 00:02:13.267] TASHA: Photon torpedoes ready.
+[00:02:13.267 --> 00:02:13.267] RIKER: Do
+[00:02:17.907 --> 00:02:18.947] RIKER: we return their fire, sir?
+[00:02:19.587 --> 00:02:20.307] PICARD: Negative, Number One.
+[00:02:21.027 --> 00:02:22.627] PICARD: They're just reacting to our close pursuit.
+[00:02:23.587 --> 00:02:26.627] PICARD: Fall back a bit but stay with them.
+[00:02:27.187 --> 00:02:29.987] DATA: They are slowing too, sir.
+[00:02:37.107 --> 00:02:38.067] TASHA: They may be turning to fight.
+[00:02:41.987 --> 00:02:42.787] PICARD: Open hailing freq.
+[00:02:44.067 --> 00:02:44.947] PICARD: Why are we gaining on them?
+[00:02:45.027 --> 00:02:45.747] PICARD: Don't anticipate.
+[00:02:45.827 --> 00:02:46.387] LAFORGE: I'm not, sir.
+[00:02:46.387 --> 00:02:47.267] LAFORGE: Something's wrong.
+[00:02:47.587 --> 00:02:49.107] DATA: Sir, something is dragging us forward.
+[00:02:52.067 --> 00:02:52.787] PICARD: I read that, too.
+[00:02:54.387 --> 00:02:54.707] PICARD: Lieutenant Yar,
+[00:02:54.787 --> 00:02:55.987] PICARD: what do your sensors show?
+[00:02:56.467 --> 00:02:57.667] TASHA: Not certain, sir.
+[00:02:57.747 --> 00:02:59.827] TASHA: I'm getting very confusing readings.
+[00:03:00.194 --> 00:03:01.954] DATA: Captain, this shouldn't be.
+[00:03:01.954 --> 00:03:04.754] DATA: Our ship's power systems are failing.
+[00:03:04.754 --> 00:03:06.914] TASHA: Deflector shield failing.
+[00:03:06.914 --> 00:03:08.594] TASHA: Phasers going inoperative, Captain.
+[00:03:08.594 --> 00:03:10.754] LAFORGE: Captain, something is completely immobilising us.
+[00:03:10.754 --> 00:03:13.954] WORF: Immobilised by the damn Ferengi.
+[00:03:13.954 --> 00:03:15.474] PICARD: We need more information.
+[00:03:16.434 --> 00:03:17.074] PICARD: What the hell are they are
+[00:03:22.274 --> 00:03:24.274] PICARD: using?
+[00:03:28.994 --> 00:03:31.234] RIKER: Obviously we've underestimated their technology, Captain.
+[00:03:32.034 --> 00:03:32.754] PICARD: Considerably.
+[00:03:37.074 --> 00:03:37.714] PICARD: It appears the Ferengi
+[00:03:37.794 --> 00:03:38.914] PICARD: have us right where they want us.
+[00:03:40.194 --> 00:03:41.234] PICARD: In their sights.
+[00:04:02.834 --> 00:04:05.474] PICARD: Space, the final frontier.
+[00:04:07.394 --> 00:04:10.274] PICARD: These are the voyages of the starship Enterprise.
+[00:04:11.394 --> 00:04:15.154] PICARD: Its continuing mission to explore strange new worlds, to
+[00:04:16.994 --> 00:04:19.634] PICARD: seek out new life and new civilizations,
+[00:04:21.314 --> 00:04:24.194] PICARD: to boldly go where no one has gone before.
+[00:04:34.646 --> 00:04:34.646] PICARD: Are
+[00:05:32.086 --> 00:05:33.206] PICARD: you searching all frequencies?
+[00:05:33.286 --> 00:05:34.486] PICARD: Any sign of any kind of messages?
+[00:05:34.646 --> 00:05:35.286] WORF: Negative, sir.
+[00:05:38.166 --> 00:05:39.126] PICARD: Weapons report, Lieutenant.
+[00:05:39.606 --> 00:05:43.446] TASHA: I have phasers and torpedoes armed, but I show insufficient power to fire them.
+[00:05:44.326 --> 00:05:46.966] PICARD: Engineering, give me status on power recovery.
+[00:05:49.846 --> 00:05:50.646] PICARD: Engineering, come in.
+[00:05:54.486 --> 00:05:55.286] PICARD: Why aren't they answering?
+[00:05:57.286 --> 00:05:57.819] PICARD: La Forge.
+[00:05:57.819 --> 00:05:58.086] LAFORGE: Sir.
+[00:05:58.326 --> 00:05:59.606] PICARD: Get me a full report from Engineering.
+[00:05:59.686 --> 00:05:59.926] LAFORGE: Aye, sir.
+[00:05:59.926 --> 00:06:01.926] RIKER: It's impossible
+[00:06:01.926 --> 00:06:03.846] RIKER: they could be draining all power from all systems.
+[00:06:05.778 --> 00:06:06.098] PICARD: Counsellor?
+[00:06:08.018 --> 00:06:09.538] TROI: I'm sensing nothing from them Captain.
+[00:06:10.498 --> 00:06:13.458] TROI: Which could mean they can shield their thoughts and emotions from others.
+[00:06:14.498 --> 00:06:15.458] PICARD: It still makes it our move.
+[00:06:15.858 --> 00:06:18.978] TROI: Sir, they may know as little about us as we do about them.
+[00:06:19.218 --> 00:06:21.538] RIKER: Except that they know they've got us in deep trouble.
+[00:06:22.098 --> 00:06:24.738] PICARD: If so, the question becomes how will they use that knowledge?
+[00:06:25.378 --> 00:06:28.658] PICARD: Data, do you have any information touching this on any file?
+[00:06:29.538 --> 00:06:29.858] DATA: None, sir.
+[00:06:30.418 --> 00:06:33.458] DATA: Only hearsay and third hand reports, most of which conflict.
+[00:06:33.618 --> 00:06:35.378] RIKER: Which reports do not conflict?
+[00:06:36.098 --> 00:06:36.978] DATA: That the Ferengi are,
+[00:06:38.498 --> 00:06:40.338] DATA: well, the best description may be traders.
+[00:06:41.058 --> 00:06:42.098] PICARD: What kind of traders?
+[00:06:42.498 --> 00:06:50.098] DATA: A comparison modern scholars have drawn from Earth history likens the Ferengi to the ocean-going Yankee traders of eighteenth and nineteenth century America, sir.
+[00:06:50.338 --> 00:06:52.956] RIKER: From the history of my forebears. Yankee traders.
+[00:06:52.956 --> 00:06:57.538] DATA: Who in this case sail the galaxy in search of mercantile and territorial opportunity.
+[00:06:57.858 --> 00:07:00.898] RIKER: And are those scholars saying the Ferengi may not unlike us?
+[00:07:01.058 --> 00:07:01.538] DATA: Hardly, sir.
+[00:07:02.338 --> 00:07:05.298] DATA: I believe this analogy refers to the worst quality of capitalists.
+[00:07:05.778 --> 00:07:10.418] DATA: The Ferengi are believed to conduct their affairs of commerce on the ancient principle caveat emptor.
+[00:07:10.418 --> 00:07:13.058] DATA: Let the buyer beware.
+[00:07:13.858 --> 00:07:15.538] RIKER: Yankee traders. I like the sound of that.
+[00:07:15.938 --> 00:07:19.858] DATA: Well, sir, I doubt they wear red, white and blue, or look anything like Uncle Sam.
+[00:07:20.658 --> 00:07:21.218] PICARD: Engineering?
+[00:07:21.858 --> 00:07:23.691] PICARD: Join La Forge down below in Engineering, Number One.
+[00:07:23.691 --> 00:07:24.098] RIKER: Aye, sir.
+[00:07:25.698 --> 00:07:28.418] PICARD: Without warp capacity, we're just a floating target.
+[00:07:30.098 --> 00:07:30.738] WORF: Uncle who?
+[00:07:33.458 --> 00:07:35.538] TASHA: What have bright, primary colours got to do with it?
+[00:07:36.018 --> 00:07:37.218] PICARD: I understand the allusion.
+[00:07:38.359 --> 00:07:42.039] PICARD: Colours representing countries at a time when they competed with each other.
+[00:07:42.679 --> 00:07:51.527] PICARD: Red, white and blue for the United States. Whereas the French more properly used the same colours in the order of blue, white and red.
+[00:07:51.527 --> 00:07:54.359] DATA: And the German nation red, black and gold.
+[00:07:54.519 --> 00:07:55.959] DATA: The Italians green, white and red.
+[00:07:56.199 --> 00:07:56.599] DATA: The British
+[00:07:56.599 --> 00:07:57.399] PICARD: That's enough, Data.
+[00:07:58.039 --> 00:07:58.679] DATA: It was you who
+[00:07:58.679 --> 00:08:00.119] PICARD: We're discussing the Ferengi.
+[00:08:02.519 --> 00:08:05.159] PICARD: I wish I had some clue as to what they will do next.
+[00:08:05.959 --> 00:08:10.679] DATA: Given what is now happening to our ship, sir, their weapons could be vastly superior to ours.
+[00:08:11.799 --> 00:08:12.359] PICARD: Yes, Data,
+[00:08:13.159 --> 00:08:14.359] PICARD: that is a natural assumption.
+[00:08:16.039 --> 00:08:16.599] PICARD: Engineering?
+[00:08:18.199 --> 00:08:19.239] RIKER: Bottom line, La Forge.
+[00:08:19.479 --> 00:08:20.759] LAFORGE: It's not good, sir.
+[00:08:21.239 --> 00:08:25.559] LAFORGE: The Ferengi forcefield that holds this ship compensates almost as fast as we can increase power.
+[00:08:25.639 --> 00:08:26.199] RIKER: Almost?
+[00:08:26.279 --> 00:08:32.119] LAFORGE: Well, there's a point three hundred seventy two millisecond delay between use of our power and the neutralising counter force of the Ferengi.
+[00:08:33.239 --> 00:08:37.479] LAFORGE: See, we push and they push back in equal force, sir.
+[00:08:48.599 --> 00:08:52.439] RIKER: What's our acceleration delay between slow-reverse impulse and top warp speed?
+[00:08:52.759 --> 00:08:54.679] LAFORGE: That's point three-hundred milliseconds.
+[00:08:54.839 --> 00:08:55.319] LAFORGE: There's Ah,
+[00:08:56.999 --> 00:08:59.959] LAFORGE: I see where you're going.
+[00:08:59.959 --> 00:09:02.359] LAFORGE: We shift down and then kick hard into warp nine.
+[00:09:02.359 --> 00:09:03.559] LAFORGE: Yeah! Come back fighting!
+[00:09:03.750 --> 00:09:04.070] LAFORGE: whooey!
+[00:09:04.470 --> 00:09:05.270] RIKER: Can we do it, Geordi?
+[00:09:05.430 --> 00:09:06.790] LAFORGE: Ask me after it's done, sir.
+[00:09:07.910 --> 00:09:11.030] LAFORGE: I want a slow reverse into drop off over five minutes.
+[00:09:12.230 --> 00:09:13.670] LAFORGE: We'll show them what this baby can do, sir.
+[00:09:13.830 --> 00:09:15.350] RIKER: Give me everything you've got.
+[00:09:16.310 --> 00:09:21.190] LAFORGE: Aye, aye, sir.
+[00:09:21.190 --> 00:09:24.150] RIKER: In a sudden, abrupt power surge to high warp speed, Captain,
+[00:09:24.150 --> 00:09:26.390] RIKER: we may be able to break loose from that Ferengi forcefield.
+[00:09:28.230 --> 00:09:30.150] PICARD: I wonder what they're thinking over there.
+[00:09:32.550 --> 00:09:34.070] RIKER: They're wondering what we're going to do next.
+[00:09:36.070 --> 00:09:37.110] WORF: I say fight, sir.
+[00:09:37.590 --> 00:09:40.230] WORF: There's nothing shameful in falling before a superior enemy.
+[00:09:40.950 --> 00:09:43.270] PICARD: And nothing shameful in a strategic retreat, either.
+[00:09:43.910 --> 00:09:44.950] LAFORGE: All systems ready, Captain.
+[00:09:46.390 --> 00:09:48.070] LAFORGE: And communication now restored to Engineering.
+[00:09:48.390 --> 00:09:49.590] PICARD: Excellent, La Forge.
+[00:09:50.230 --> 00:09:51.030] PICARD: Now let's, er, let's throw
+[00:09:52.950 --> 00:09:53.830] PICARD: them off guard.
+[00:09:54.950 --> 00:09:56.870] PICARD: Lieutenant Yar. Open hailing frequencies.
+[00:09:58.950 --> 00:10:00.070] TASHA: Hailing frequencies open, sir.
+[00:10:00.070 --> 00:10:02.310] PICARD: At least we won't begin with weakness.
+[00:10:04.070 --> 00:10:05.510] PICARD: Attention Ferengi starship!
+[00:10:06.070 --> 00:10:09.030] PICARD: This is Captain Jean-Luc Picard of the USS Enterprise.
+[00:10:09.670 --> 00:10:16.550] PICARD: In the name of the United Federation of Planets, I demand you return the T9 energy converter you removed from Gamma Tauri Four.
+[00:10:21.750 --> 00:10:23.030] PICARD: Send that in all language forms.
+[00:10:24.550 --> 00:10:25.350] TASHA: All language forms, sir.
+[00:10:26.310 --> 00:10:29.270] PICARD: Sometimes, Riker, the best way to win a fight is not to be there.
+[00:10:29.510 --> 00:10:29.910] RIKER: Yes, sir.
+[00:10:30.886 --> 00:10:33.846] RIKER: He will triumph who knows when to fight and when not to fight.
+[00:10:34.886 --> 00:10:37.526] PICARD: Glad the Academy's still teaches the strategies of Sun Tzu.
+[00:10:38.326 --> 00:10:40.726] PICARD: This delay had better prove out, LaForge.
+[00:10:41.126 --> 00:10:42.646] LAFORGE: Point three hundred milliseconds, sir.
+[00:10:43.366 --> 00:10:45.606] PICARD: Let's blast full power into warp nine.
+[00:10:46.086 --> 00:10:46.374] PICARD: Ready?
+[00:10:46.374 --> 00:10:47.526] LAFORGE: On your command, Captain.
+[00:10:48.566 --> 00:10:51.046] PICARD: On a count of three. Stand by on phasers.
+[00:10:53.286 --> 00:10:54.486] PICARD: One, set warp to nine.
+[00:10:55.606 --> 00:10:58.246] PICARD: Two, divert shield power to the main engines.
+[00:10:59.846 --> 00:11:00.006] PICARD: Three.
+[00:11:21.046 --> 00:11:21.046] PICARD: Merde.
+[00:11:23.446 --> 00:11:23.926] PICARD: Shields up.
+[00:11:33.686 --> 00:11:36.246] DATA: Captain, I think you had better see this.
+[00:11:37.126 --> 00:11:37.526] PICARD: What's wrong?
+[00:11:39.046 --> 00:11:43.766] DATA: Someone is reading every file, every bit of information stored in the Enterprise memory banks.
+[00:11:44.086 --> 00:11:45.823] LAFORGE: They can do that?
+[00:11:45.823 --> 00:11:47.126] DATA: And more, perhaps.
+[00:11:51.766 --> 00:11:54.486] TROI: Captain, if I may recommend?
+[00:11:56.166 --> 00:11:58.326] TROI: With our attention on the Ferengi vessel,
+[00:11:58.797 --> 00:11:59.997] TROI: we have ignored the planet.
+[00:12:00.797 --> 00:12:04.157] PICARD: Data, consult the charts on this planet.
+[00:12:04.637 --> 00:12:05.437] PICARD: See what we've got on it.
+[00:12:08.957 --> 00:12:09.917] PICARD: Conference evaluation.
+[00:12:16.717 --> 00:12:19.997] PICARD: So, while we still have some power left, it is time for difficult decisions.
+[00:12:19.997 --> 00:12:20.797] PICARD: Opinions please.
+[00:12:21.117 --> 00:12:25.117] TASHA: I say put all available power into a full-out combined phaser and photon torpedo salvo.
+[00:12:25.757 --> 00:12:27.917] TASHA: Destroy their ability to sustain this forcefield, sir.
+[00:12:28.157 --> 00:12:28.637] WORF: Yes!
+[00:12:29.117 --> 00:12:30.557] WORF: Hit them hard and hit them fast.
+[00:12:30.797 --> 00:12:31.437] PICARD: Impractical
+[00:12:33.117 --> 00:12:33.757] PICARD: and provocative.
+[00:12:34.957 --> 00:12:37.597] PICARD: Even assuming that we have the power to sustain such a tactic.
+[00:12:38.077 --> 00:12:40.237] TASHA: But Captain, isn't firing on us an act of war?
+[00:12:40.477 --> 00:12:44.797] TROI: The facts are the Ferengis did fire at us, but we were chasing them.
+[00:12:45.837 --> 00:12:49.757] TROI: Since then, all they've done is searched our computers, trying to learn who and what we are.
+[00:12:50.077 --> 00:12:50.717] PICARD: Your point, Counsellor?
+[00:12:51.197 --> 00:12:52.237] TROI: Let's talk to them.
+[00:12:52.637 --> 00:12:53.277] PICARD: It's been tried.
+[00:12:53.437 --> 00:12:54.077] PICARD: No response.
+[00:12:55.357 --> 00:12:57.357] TROI: But did we tell them anything they wanted to hear?
+[00:13:12.157 --> 00:13:12.157] PICARD: La Forge?
+[00:13:12.157 --> 00:13:12.637] PICARD: Other opinions?
+[00:13:14.077 --> 00:13:14.717] PICARD: Thank you for your advice.
+[00:13:20.477 --> 00:13:20.717] PICARD: Will? I
+[00:13:23.677 --> 00:13:24.557] PICARD: haven't had your assessment.
+[00:13:24.797 --> 00:13:29.837] RIKER: I believe we've covered every available alternatives, Captain.
+[00:13:30.460 --> 00:13:31.900] RIKER: Are there other options that you want to analyse?
+[00:13:31.900 --> 00:13:31.900] PICARD: The
+[00:13:33.660 --> 00:13:37.020] PICARD: only one remaining is the one that needs no conversation.
+[00:13:37.260 --> 00:13:39.180] PICARD: The only one we must avoid.
+[00:13:39.180 --> 00:13:39.500] RIKER: Sir?
+[00:13:41.180 --> 00:13:42.780] PICARD: The one that leads to total annihilation.
+[00:13:59.420 --> 00:14:00.460] PICARD: Open hailing frequencies.
+[00:14:00.700 --> 00:14:01.180] DATA: Open, sir.
+[00:14:04.860 --> 00:14:06.940] PICARD: Attention, Ferengi starship.
+[00:14:07.340 --> 00:14:08.220] PICARD: This is Captain Picard.
+[00:14:09.180 --> 00:14:17.420] PICARD: It is obvious that we are in a situation here which needs resolving, and we are willing to do whatever is
+[00:14:19.420 --> 00:14:21.660] PICARD: required, whatever is necessary.
+[00:14:24.620 --> 00:14:27.100] PICARD: I would like,
+[00:14:29.020 --> 00:14:33.740] PICARD: I would request, that you present your terms to us.
+[00:14:43.900 --> 00:14:49.020] LOG: Captain's log, stardate 41386.5.
+[00:14:49.020 --> 00:14:56.300] LOG: It is with a heavy heart that I have offered to meet whatever reasonable and necessary terms are demanded by the Ferengi.
+[00:14:56.940 --> 00:15:02.220] LOG: I fear for my people and my vessel in the event the unknown Ferengi ask the unreasonable.
+[00:15:03.208 --> 00:15:05.928] LOG: How can I oppose even unreasonable demands?
+[00:15:06.808 --> 00:15:07.288] RIKER: It's moving, sir.
+[00:15:10.568 --> 00:15:12.648] WORF: We ask to surrender and now they fire on us?
+[00:15:13.528 --> 00:15:14.408] TASHA: Ready torpedoes, sir?
+[00:15:14.888 --> 00:15:16.088] TASHA: We have enough power for a few of them.
+[00:15:16.648 --> 00:15:18.488] PICARD: Ready, but hold on ready.
+[00:15:19.528 --> 00:15:20.488] PICARD: Open hailing frequencies.
+[00:15:21.208 --> 00:15:22.488] DATA: Hailing frequencies open, sir.
+[00:15:25.208 --> 00:15:26.008] PICARD: Ferengi vessel,
+[00:15:26.008 --> 00:15:27.128] PICARD: we are awaiting your response.
+[00:15:27.928 --> 00:15:28.888] TASHA: Suggest first strike, sir.
+[00:15:29.688 --> 00:15:32.648] TASHA: Our shields now only have sixty three seconds of power left before lowering.
+[00:15:32.808 --> 00:15:37.128] WORF: If the Ferengi ship's sensors can read us, sir, they will be waiting until we are most vulnerable.
+[00:15:37.448 --> 00:15:38.488] RIKER: I'm afraid I agree, Captain.
+[00:15:38.568 --> 00:15:39.688] RIKER: They have not responded.
+[00:15:39.688 --> 00:15:40.968] PICARD: We'll wait a bit more, Number One.
+[00:15:41.608 --> 00:15:42.328] TASHA: Fifty seconds.
+[00:15:44.328 --> 00:15:44.808] PICARD: Patience.
+[00:15:46.248 --> 00:15:46.568] PICARD: Patience.
+[00:15:49.208 --> 00:15:51.608] TARR: The quicker we can come to terms, the better,
+[00:15:51.688 --> 00:15:54.168] TARR: NCC 1701-D.
+[00:15:55.928 --> 00:15:56.568] PICARD: Who is speaking?
+[00:15:57.288 --> 00:16:00.888] TARR: I am Tarr. DaiMon of the Ferengi.
+[00:16:01.528 --> 00:16:03.688] TARR: You wish to discuss surrender, Captain Picard?
+[00:16:04.968 --> 00:16:08.148] PICARD: What I said, DaiMon Tarr, is
+[00:16:08.148 --> 00:16:09.208] TARR: Unconditional surrender,
+[00:16:09.448 --> 00:16:12.408] TARR: I warn you, is totally unacceptable!
+[00:16:13.688 --> 00:16:16.728] TARR: We will die to the last one of us before such dishonour!
+[00:16:17.128 --> 00:16:19.128] TASHA: Hailing
+[00:16:22.968 --> 00:16:24.088] TASHA: frequencies closed, sir.
+[00:16:24.408 --> 00:16:25.448] PICARD: Something has seized their ship too.
+[00:16:25.448 --> 00:16:26.648] PICARD: They're in the same predicament as us.
+[00:16:29.448 --> 00:16:30.248] PICARD: Launch a sensor probe.
+[00:16:31.448 --> 00:16:35.528] PICARD: Set it to search for the source of whatever this something is that is holding both ships.
+[00:16:35.859 --> 00:16:36.499] PICARD: Go back to hailing frequency,
+[00:16:36.899 --> 00:16:37.139] PICARD: fast.
+[00:16:37.459 --> 00:16:45.459] PICARD: And I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually.
+[00:16:46.739 --> 00:16:49.059] TARR: Your complete message not received, Enterprise,
+[00:16:49.299 --> 00:16:51.704] TARR: but visual communication is against our custom.
+[00:16:51.704 --> 00:16:55.139] PICARD: And it is against Starfleet orders to accept a surrender
+[00:16:55.139 --> 00:16:57.139] PICARD: otherwise. Do you withdraw your surrender?
+[00:17:04.899 --> 00:17:06.979] TARR: You give us no choice, Enterprise.
+[00:17:07.219 --> 00:17:09.699] TARR: May we have a visual on you as well?
+[00:17:12.099 --> 00:17:12.979] PICARD: Agreed, DaiMon Tarr.
+[00:17:14.179 --> 00:17:15.219] PICARD: You should be able to view us now.
+[00:17:15.939 --> 00:17:16.579] PICARD: Are we on your screen?
+[00:17:17.539 --> 00:17:18.179] TARR: Yes.
+[00:17:18.739 --> 00:17:21.539] TARR: The ugliness of the human was not an exaggeration.
+[00:17:22.099 --> 00:17:28.019] TARR: I do not know how your twisted alien culture has paralysed our vessel, but I concede your Enterprise is superior.
+[00:17:28.419 --> 00:17:34.019] TARR: We will return your worthless T9 device and we offer the life of our second officers as required by the Ferengi code.
+[00:17:35.779 --> 00:17:39.539] DATA: Fortunately, Starfleet has no such rules involving our second officers.
+[00:17:41.299 --> 00:17:43.459] TARR: Is this to your satisfaction, Picard Captain?
+[00:17:44.579 --> 00:17:48.259] PICARD: Your offer may be inadequate, but I will discuss it with my staff.
+[00:17:49.059 --> 00:17:50.339] PICARD: Stand by for further communications.
+[00:17:56.099 --> 00:17:56.979] RIKER: Matthew! Pola!
+[00:17:57.139 --> 00:17:58.339] RIKER: You know this area is off limits.
+[00:17:58.339 --> 00:18:00.259] RIKER: Come on, come on.
+[00:18:01.619 --> 00:18:02.739] RIKER: Boys will be boys, Captain.
+[00:18:03.425 --> 00:18:04.545] PICARD: Lieutenant, have you launched the probe?
+[00:18:04.705 --> 00:18:05.025] LAFORGE: Aye, sir.
+[00:18:05.025 --> 00:18:06.305] LAFORGE: We should getting those readings soon.
+[00:18:08.385 --> 00:18:10.705] PICARD: Well, if we're not holding the Ferengi and they're not holding us,
+[00:18:10.705 --> 00:18:11.585] PICARD: who the hell is?
+[00:18:11.985 --> 00:18:13.265] LAFORGE: The probe will give us some of those answers, sir.
+[00:18:15.025 --> 00:18:17.265] PICARD: Data, you were going to show us something.
+[00:18:18.545 --> 00:18:21.585] DATA: As requested, Captain, library computer information on this planet.
+[00:18:23.665 --> 00:18:25.985] DATA: It has been charted only from long range scans.
+[00:18:26.305 --> 00:18:30.625] DATA: It is Class M, but shows no indications of life forms, sentient or otherwise.
+[00:18:31.105 --> 00:18:32.625] DATA: However, you may find this of interest.
+[00:18:34.465 --> 00:18:36.145] DATA: Resolving it into our language. The
+[00:18:38.065 --> 00:18:42.501] DATA: centre of a huge space federation, a population of trillions.
+[00:18:42.501 --> 00:18:42.945] PICARD: Trillions?
+[00:18:44.065 --> 00:18:46.385] PICARD: I've never heard the word Tkon before.
+[00:18:47.185 --> 00:18:47.905] DATA: Understandable.
+[00:18:48.465 --> 00:18:50.705] DATA: It has been extinct six hundred thousand of our
+[00:18:53.505 --> 00:18:54.705] DATA: of our years.
+[00:18:56.945 --> 00:19:02.465] DATA: These planets were once outposts of that empire.
+[00:19:03.425 --> 00:19:04.305] PICARD: Data, what are you doing?
+[00:19:06.225 --> 00:19:06.945] DATA: Apologies, Captain.
+[00:19:07.985 --> 00:19:09.185] DATA: I seem to have reached an odd
+[00:19:10.945 --> 00:19:12.385] DATA: functional impasse.
+[00:19:13.185 --> 00:19:13.505] DATA: I am
+[00:19:15.905 --> 00:19:16.385] DATA: stuck.
+[00:19:17.025 --> 00:19:19.025] PICARD: Then get unstuck and continue with the briefing.
+[00:19:19.825 --> 00:19:20.065] DATA: Yes, sir.
+[00:19:20.545 --> 00:19:21.745] DATA: That is what I am trying to do, sir,
+[00:19:21.745 --> 00:19:25.265] DATA: but the solution eludes me.
+[00:19:26.545 --> 00:19:27.665] LAFORGE: My hero.
+[00:19:33.905 --> 00:19:34.625] PICARD: Continue, Commander.
+[00:19:37.623 --> 00:19:38.263] DATA: Intriguing.
+[00:19:41.783 --> 00:19:48.016] DATA: It describes the Empire as being highly advanced and powerful, and capable of actually moving stars.
+[00:19:48.016 --> 00:19:50.743] RIKER: Stars whose planets are their defence system?
+[00:19:51.143 --> 00:19:51.623] DATA: Correct, sir.
+[00:19:51.943 --> 00:19:52.663] DATA: Outposts.
+[00:19:53.463 --> 00:19:55.143] DATA: The planet below was possibly one of them.
+[00:19:55.863 --> 00:19:57.943] TASHA: Excuse the interruption, Captain, but this may be worth it.
+[00:19:58.743 --> 00:20:00.183] TASHA: We're now receiving a signal from the probe.
+[00:20:01.783 --> 00:20:02.583] PICARD: We'll take it here.
+[00:20:06.663 --> 00:20:07.943] LAFORGE: Incredible!
+[00:20:08.743 --> 00:20:10.903] RIKER: There's our mysterious something, Captain.
+[00:20:11.143 --> 00:20:12.909] RIKER: It is a forcefield of some kind.
+[00:20:12.909 --> 00:20:14.423] PICARD: Reaching up from the planet surface.
+[00:20:15.783 --> 00:20:16.583] PICARD: Amazing power.
+[00:20:17.383 --> 00:20:20.343] PICARD: Data, what does the legend say about the end of the Tkon Empire?
+[00:20:20.903 --> 00:20:22.423] DATA: Their sun went supernova, sir.
+[00:20:22.983 --> 00:20:24.263] PICARD: Could this planet have escaped that?
+[00:20:26.823 --> 00:20:30.823] DATA: This planet may have been the most distant outpost, sir, but it shows no life form readings.
+[00:20:31.783 --> 00:20:34.663] PICARD: We should take a look at it, Number One.
+[00:20:34.663 --> 00:20:35.623] PICARD: Stand by with an away team.
+[00:20:36.423 --> 00:20:40.388] RIKER: And if the Ferengi also realise the forcefield emanates from the planet, sir?
+[00:20:40.388 --> 00:20:41.303] PICARD: That's a complication.
+[00:20:42.343 --> 00:20:43.943] PICARD: Maybe we should ask them to join us in this.
+[00:20:44.343 --> 00:20:45.463] LAFORGE: Team up with the Ferengi, sir?
+[00:20:45.783 --> 00:20:47.383] PICARD: We've been ordered to learn all we can about them.
+[00:20:48.023 --> 00:20:48.663] PICARD: Do you know a better way?
+[00:20:52.423 --> 00:20:52.663] LAFORGE: Data.
+[00:21:01.694 --> 00:21:02.974] LOG: Captain's log, supplemental.
+[00:21:03.694 --> 00:21:09.934] LOG: In orbit of a mysterious planet, whose unexplained forcefield has seized us with a power almost beyond imagination.
+[00:21:10.894 --> 00:21:15.934] LOG: If there is a solution to this, it almost certainly will involve cooperation from the Ferengi.
+[00:21:16.574 --> 00:21:18.254] TASHA: Ship's power drain is critical, Captain.
+[00:21:18.974 --> 00:21:21.534] TASHA: I must now shut down our shields to maintain life support systems.
+[00:21:21.854 --> 00:21:22.334] PICARD: Understood.
+[00:21:24.654 --> 00:21:25.694] PICARD: Open hailing frequencies.
+[00:21:27.934 --> 00:21:29.054] TASHA: Hailing frequencies open, sir.
+[00:21:29.454 --> 00:21:31.054] PICARD: Ferengi vessel from Enterprise, come
+[00:21:32.894 --> 00:21:34.494] PICARD: in.
+[00:21:36.174 --> 00:21:38.574] TARR: Your alien images again shock us.
+[00:21:38.654 --> 00:21:41.454] PICARD: With regard to the surrender, DaiMon Tarr. The facts are somewhat different.
+[00:21:41.534 --> 00:21:44.494] TARR: Our own probe has already shown us your trickery, human.
+[00:21:44.814 --> 00:21:46.414] TARR: We withdraw our surrender.
+[00:21:46.734 --> 00:21:47.134] PICARD: Agreed.
+[00:21:49.134 --> 00:21:52.254] PICARD: Perhaps you would agree to a more productive relationship?
+[00:21:52.734 --> 00:21:55.454] TARR: I prefer a more profitable one, human.
+[00:21:55.774 --> 00:21:56.654] DATA: Yankee trader.
+[00:21:57.534 --> 00:21:59.294] TARR: Explain what means yankee traders?
+[00:21:59.694 --> 00:22:00.494] LAFORGE: He heard that.
+[00:22:00.494 --> 00:22:03.134] PICARD: He recognises your interest in profit.
+[00:22:04.094 --> 00:22:05.534] PICARD: Or is that an incorrect assumption?
+[00:22:05.934 --> 00:22:08.014] TARR: We seek only what is equitable.
+[00:22:08.174 --> 00:22:08.974] TARR: What do you seek?
+[00:22:09.374 --> 00:22:10.974] TARR: Why did you begin by attacking us?
+[00:22:11.134 --> 00:22:12.014] PICARD: We did not attack you.
+[00:22:12.494 --> 00:22:15.939] PICARD: We gave chase in order to recover a Federation-owned energy device which
+[00:22:15.939 --> 00:22:17.374] TARR: Which we know is ours.
+[00:22:17.374 --> 00:22:19.774] TARR: Your barbarous Federation placed it on one of our planets!
+[00:22:20.094 --> 00:22:23.561] PICARD: On the contrary, Gamma Tauri Four is recognised by all civilised members of
+[00:22:23.561 --> 00:22:24.094] TARR: The Ferengi
+[00:22:24.094 --> 00:22:25.534] TARR: are not uncivilised, human!
+[00:22:26.014 --> 00:22:27.694] TARR: Are you suggesting otherwise?
+[00:22:30.881 --> 00:22:35.601] PICARD: All I'm saying is that you removed something which clearly did not belong to you.
+[00:22:35.921 --> 00:22:38.321] TARR: Are you now calling us thieves?!
+[00:22:38.401 --> 00:22:42.401] PICARD: On the contrary, I have no wish to discuss issues of property or of territory,
+[00:22:42.401 --> 00:22:51.121] PICARD: when our mutual problem remains. Like it or not, we are both trapped by this energy draining forcefield from the planet.
+[00:22:54.161 --> 00:22:56.401] TARR: On that matter there can be no argument.
+[00:22:59.361 --> 00:23:00.641] PICARD: I would like to propose a swap.
+[00:23:01.681 --> 00:23:02.961] TARR: And what is a swap?
+[00:23:04.001 --> 00:23:06.241] PICARD: It's a trade, an exchange.
+[00:23:06.961 --> 00:23:08.481] TARR: Yes, trade, human.
+[00:23:08.801 --> 00:23:09.601] TARR: What do you offer?
+[00:23:09.761 --> 00:23:14.721] PICARD: We will tell you what we know about the planet, and in trade, you will give us your information.
+[00:23:14.961 --> 00:23:15.761] TARR: Ridiculous.
+[00:23:16.001 --> 00:23:17.921] TARR: How will we know you will not withhold information?
+[00:23:18.081 --> 00:23:19.601] PICARD: We must trust each other, Tarr.
+[00:23:21.521 --> 00:23:22.481] TARR: Amusing, human.
+[00:23:22.481 --> 00:23:23.521] TARR: Trust each other?
+[00:23:23.521 --> 00:23:32.321] PICARD: I propose that we test this relationship by cooperating in a joint exploration of the planet surface.
+[00:23:32.641 --> 00:23:34.401] TARR: And what profit is in this, Picard Captain?
+[00:23:34.401 --> 00:23:37.601] PICARD: The profit, DaiMon Tarr, of saving all our lives.
+[00:23:39.681 --> 00:23:41.441] TARR: We will agree, no doubt foolishly.
+[00:23:41.441 --> 00:23:45.121] TARR: But you are warned that any further trickery on your part will be met with no mercy.
+[00:23:45.761 --> 00:23:45.761] PICARD: Agreed.
+[00:23:45.761 --> 00:23:48.801] PICARD: If you care to join us, we have a well-proven transporter device
+[00:23:49.121 --> 00:23:51.121] TARR: We have a matter-energy device of our own.
+[00:23:51.201 --> 00:23:54.801] TARR: We will beam a science team of three to whatever co-ordinates you propose.
+[00:23:54.801 --> 00:23:55.281] PICARD: Excellent.
+[00:23:55.281 --> 00:23:56.961] PICARD: We will transmit the information shortly.
+[00:23:57.841 --> 00:23:58.481] PICARD: Enterprise out.
+[00:23:59.599 --> 00:24:00.479] TASHA: Hailing frequencies off.
+[00:24:03.839 --> 00:24:06.159] PICARD: I would log that agreement as promising,
+[00:24:06.319 --> 00:24:06.799] PICARD: at least.
+[00:24:07.679 --> 00:24:08.479] RIKER: I wonder, Captain.
+[00:24:09.519 --> 00:24:12.639] RIKER: I'm not usually one for distrust at first sight, but this may be an exception.
+[00:24:13.039 --> 00:24:16.719] DATA: Especially in view of the fact the image he transmitted, sir, was somehow distorted.
+[00:24:17.199 --> 00:24:18.719] TROI: I sensed the same thing, Captain.
+[00:24:19.519 --> 00:24:20.399] TROI: He's hiding something.
+[00:24:21.039 --> 00:24:22.719] RIKER: With this power drain we can't delay.
+[00:24:22.719 --> 00:24:25.199] RIKER: Now, I'd like some additional help in case we run into trouble.
+[00:24:25.199 --> 00:24:25.839] RIKER: Can you spare Worf?
+[00:24:26.319 --> 00:24:26.639] PICARD: Take him.
+[00:24:27.839 --> 00:24:29.599] PICARD: And be careful, Number
+[00:24:31.199 --> 00:24:33.199] PICARD: One.
+[00:24:42.479 --> 00:24:45.279] DATA: With this power drain, we may have trouble communicating with the Enterprise, sir.
+[00:24:45.279 --> 00:24:45.599] RIKER: Understood.
+[00:24:46.159 --> 00:24:46.559] RIKER: Anything else?
+[00:24:47.359 --> 00:24:50.559] DATA: Due to this forcefield, there is presently no way to beam us back, sir.
+[00:24:50.559 --> 00:24:51.839] LAFORGE: You had to ask.
+[00:24:51.839 --> 00:24:52.479] RIKER: Understood.
+[00:24:53.519 --> 00:24:53.679] RIKER: Energise.
+[00:24:53.829 --> 00:24:54.429] RIKER: Tasha?
+[00:25:04.159 --> 00:25:04.159] RIKER: Data?
+[00:25:26.289 --> 00:25:26.289] RIKER: Geordi?
+[00:25:26.289 --> 00:25:26.289] RIKER: Worf?
+[00:25:26.289 --> 00:25:26.289] RIKER: Anybody?!
+[00:26:04.609 --> 00:26:06.609] RIKER: Data?
+[00:26:07.569 --> 00:26:08.689] RIKER: What are you doing up there?
+[00:26:09.329 --> 00:26:10.369] DATA: Most intriguing, sir.
+[00:26:11.409 --> 00:26:16.209] DATA: I assume a problem of inaccurately transmitted programme coordinates due to the force field around the ship, sir.
+[00:26:21.329 --> 00:26:22.129] DATA: Are we alone, sir?
+[00:26:22.929 --> 00:26:25.009] RIKER: Unfortunately. Let's find the others.
+[00:26:27.409 --> 00:26:29.969] RIKER: What do you
+[00:26:31.489 --> 00:26:31.969] RIKER: make of these?
+[00:26:34.449 --> 00:26:36.689] DATA: Crystalline. Mostly inert.
+[00:26:38.209 --> 00:26:39.089] DATA: Nothing to write home about.
+[00:26:41.009 --> 00:26:41.329] RIKER: Excuse me?
+[00:26:42.609 --> 00:26:43.249] DATA: Slang, sir.
+[00:26:43.249 --> 00:26:43.249] DATA: I
+[00:26:45.889 --> 00:26:47.249] DATA: did use it correctly, did I not?
+[00:26:50.529 --> 00:26:51.329] RIKER: They've got to be around here
+[00:26:51.390 --> 00:26:51.390] RIKER: somewhere.
+[00:26:51.390 --> 00:26:51.390] RIKER: What's
+[00:27:02.750 --> 00:27:02.910] RIKER: that?
+[00:27:03.230 --> 00:27:03.470] DATA: What?
+[00:27:03.470 --> 00:27:03.710] RIKER: That!
+[00:27:04.910 --> 00:27:05.150] RIKER: Geordi!
+[00:27:05.150 --> 00:27:05.310] RIKER: Are
+[00:27:10.270 --> 00:27:10.750] RIKER: you conscious?
+[00:27:12.510 --> 00:27:13.950] LAFORGE: Do I look conscious?
+[00:27:14.510 --> 00:27:15.150] RIKER: What are you doing?
+[00:27:15.470 --> 00:27:16.590] LAFORGE: I'm resting, sir.
+[00:27:17.310 --> 00:27:19.150] LAFORGE: My foot's stuck. Up there.
+[00:27:19.950 --> 00:27:23.150] LAFORGE: I materialized upside down above the planet surface.
+[00:27:23.230 --> 00:27:24.270] DATA: Tricorder's useless, sir.
+[00:27:24.670 --> 00:27:25.790] DATA: Communication's gone too.
+[00:27:26.590 --> 00:27:27.893] DATA: Fortunately you did not break any
+[00:27:27.893 --> 00:27:28.110] LAFORGE: Data,
+[00:27:37.470 --> 00:27:37.870] LAFORGE: who's that?
+[00:27:37.870 --> 00:27:37.950] RIKER: Who are you?
+[00:28:01.390 --> 00:28:02.670] LOG: Captain's log, supplemental.
+[00:28:03.310 --> 00:28:06.830] LOG: It is now six hours since our away team beamed down to the planet surface.
+[00:28:07.550 --> 00:28:10.670] LOG: On the Enterprise, our condition is rapidly worsening.
+[00:28:11.310 --> 00:28:15.630] LOG: Ordinarily, with reserve power alone, we could maintain life support for several months.
+[00:28:16.590 --> 00:28:21.390] LOG: But the force holding has closed down all engines and is draining our reserve
+[00:28:21.544 --> 00:28:22.104] LOG: power too.
+[00:28:22.904 --> 00:28:24.584] TROI: It's getting much, much colder, sir.
+[00:28:25.624 --> 00:28:26.984] TROI: How far down is it likely to go?
+[00:28:27.144 --> 00:28:27.384] PICARD: A lot.
+[00:28:27.624 --> 00:28:30.024] PICARD: Even in orbital space it'll get below minus two hundred degrees.
+[00:28:30.744 --> 00:28:33.544] CRUSHER: We won't have to worry much past minus seventy or so.
+[00:28:33.864 --> 00:28:34.424] PICARD: Feels like that
+[00:28:34.504 --> 00:28:35.624] PICARD: right now. Good.
+[00:28:35.944 --> 00:28:36.264] PICARD: Thank you.
+[00:28:36.264 --> 00:28:36.424] LETEK: If
+[00:29:09.784 --> 00:29:11.384] LETEK: he moves, kill him.
+[00:29:11.384 --> 00:29:11.784] MORDOC: Letek,
+[00:29:12.424 --> 00:29:12.904] MORDOC: has
+[00:29:15.224 --> 00:29:15.864] MORDOC: what we've done
+[00:29:16.744 --> 00:29:18.344] MORDOC: broken our agreement with their captain?
+[00:29:19.144 --> 00:29:23.464] LETEK: We will accuse the humans of preparing to ambush us.
+[00:29:24.744 --> 00:29:27.304] LETEK: It will be our word against theirs
+[00:29:27.304 --> 00:29:27.464] LETEK: and
+[00:29:29.304 --> 00:29:31.144] LETEK: who is more trustworthy, Mordoc?
+[00:29:31.304 --> 00:29:31.384] LETEK: It
+[00:29:33.464 --> 00:29:35.064] LETEK: looks like gold.
+[00:29:37.784 --> 00:29:38.824] LETEK: Tastes like gold.
+[00:29:39.464 --> 00:29:39.864] RIKER: It is gold.
+[00:29:39.912 --> 00:29:41.245] LETEK: Accursed planet!
+[00:29:41.245 --> 00:29:41.912] RIKER: It's
+[00:29:44.008 --> 00:29:46.008] RIKER: nothing
+[00:29:48.104 --> 00:29:53.064] RIKER: compared to what our Captain will do when he finds out you've broken our landing
+[00:29:53.115 --> 00:29:53.275] RIKER: party
+[00:29:54.955 --> 00:29:55.115] RIKER: agreement.
+[00:29:55.115 --> 00:29:55.915] LETEK: What part of the agreement?
+[00:29:56.795 --> 00:29:59.195] LETEK: You appeared and attacked us.
+[00:30:00.235 --> 00:30:01.755] LETEK: Are you one of their assassins?
+[00:30:02.315 --> 00:30:05.515] RIKER: I'm Commander William Riker, First Officer of the USS Enterprise.
+[00:30:07.035 --> 00:30:08.155] RIKER: You have a lot to learn.
+[00:30:09.835 --> 00:30:11.515] RIKER: I've got this one!
+[00:30:13.195 --> 00:30:14.875] DATA: Careful, Commander, they're much
+[00:30:16.555 --> 00:30:18.235] DATA: stronger
+[00:30:19.915 --> 00:30:19.955] DATA: than
+[00:30:19.955 --> 00:30:19.995] WORF: Pygmy
+[00:30:42.635 --> 00:30:42.635] WORF: cretins!
+[00:30:42.635 --> 00:30:43.035] LETEK: Kill them.
+[00:30:43.035 --> 00:30:43.435] MORDOC: Hideous monsters!
+[00:30:43.515 --> 00:30:43.675] TASHA: No! Good,
+[00:30:43.691 --> 00:30:43.803] TASHA: you've heard of phasers.
+[00:30:43.819 --> 00:30:44.155] TASHA: Now, over there.
+[00:30:48.315 --> 00:30:50.715] MORDOC: Is this a female?
+[00:30:51.355 --> 00:30:53.035] KAYRON: A human female,
+[00:30:53.195 --> 00:30:53.328] KAYRON: Letek?
+[00:30:53.328 --> 00:30:53.595] LETEK: Yes, it
+[00:30:54.715 --> 00:30:55.675] LETEK: is true.
+[00:30:57.035 --> 00:30:59.275] LETEK: You work with females,
+[00:30:59.835 --> 00:31:01.195] LETEK: arm them,
+[00:31:02.155 --> 00:31:04.475] LETEK: and force them to wear clothing.
+[00:31:07.435 --> 00:31:08.235] MORDOC: Sickening.
+[00:31:08.235 --> 00:31:09.995] PICARD: I've diverted the reserve
+[00:31:14.475 --> 00:31:16.315] PICARD: power to the family decks.
+[00:31:16.395 --> 00:31:18.075] PICARD: They'll last longest.
+[00:31:18.075 --> 00:31:19.995] PICARD: Is there
+[00:31:23.755 --> 00:31:24.955] PICARD: anything else we can do, Doctor?
+[00:31:30.232 --> 00:31:30.312] PICARD: Where's Wesley?
+[00:31:32.552 --> 00:31:34.072] CRUSHER: He's in our quarters.
+[00:31:36.152 --> 00:31:37.832] CRUSHER: I was tempted to give him a sedative.
+[00:31:38.152 --> 00:31:38.712] PICARD: You shouldn't.
+[00:31:39.912 --> 00:31:41.672] CRUSHER: I know, but he's my son.
+[00:31:41.672 --> 00:31:42.232] CRUSHER: I love him.
+[00:31:42.472 --> 00:31:43.272] PICARD: He has the right to
+[00:31:43.912 --> 00:31:45.032] PICARD: meet death awake.
+[00:31:49.272 --> 00:31:50.792] CRUSHER: Is that a male perspective?
+[00:31:52.072 --> 00:31:52.232] PICARD: Rubbish
+[00:31:53.912 --> 00:31:57.432] TASHA: Hold it right there!
+[00:32:01.352 --> 00:32:01.752] TASHA: Stop.
+[00:32:03.112 --> 00:32:03.512] TASHA: Stop!
+[00:32:03.992 --> 00:32:04.712] RIKER: Phasers on stun.
+[00:32:04.712 --> 00:32:05.192] TASHA: Already set.
+[00:32:07.352 --> 00:32:09.352] TASHA: What's
+[00:32:11.192 --> 00:32:11.592] TASHA: going on?
+[00:32:11.752 --> 00:32:16.632] LETEK: What is this?
+[00:32:17.152 --> 00:32:17.672] DATA: I
+[00:32:24.792 --> 00:32:29.492] DATA: believe we can deduce that these crystalline tree shapes are actually energy collectors.
+[00:32:29.492 --> 00:32:34.192] RIKER: Along the same principle as that which is draining energy from our ships.
+[00:32:34.392 --> 00:32:37.032] LAFORGE: But the Ferengi weapons were working when we first arrived.
+[00:32:37.032 --> 00:32:38.632] TASHA: Which means something new has happened.
+[00:32:39.192 --> 00:32:42.072] LAFORGE: I'm finally beginning to understand what my eyes have been showing me.
+[00:32:42.952 --> 00:32:45.112] LAFORGE: It's patterns of force everywhere.
+[00:32:45.832 --> 00:32:49.272] LAFORGE: This entire planet has been turned into a power accumulator.
+[00:32:49.592 --> 00:32:50.001] RIKER: And these?
+[00:32:50.001 --> 00:32:51.432] LAFORGE: It's the whole point of this place.
+[00:32:51.557 --> 00:32:53.637] LAFORGE: I can see the planet's power emanating from.
+[00:32:55.477 --> 00:32:56.277] LAFORGE: Commander.
+[00:33:16.757 --> 00:33:17.037] PORTAL: Be you barbarians?
+[00:33:17.057 --> 00:33:17.077] PORTAL: Speak!
+[00:33:18.837 --> 00:33:20.837] PORTAL: Who
+[00:33:32.757 --> 00:33:35.557] PORTAL: meets the challenge?
+[00:33:35.757 --> 00:33:37.477] PORTAL: Who will it be?
+[00:33:37.627 --> 00:33:38.227] LETEK: Him.
+[00:33:44.677 --> 00:33:46.917] PORTAL: You have awakened Portal six three.
+[00:33:47.637 --> 00:33:49.557] PORTAL: Do you petition to enter the Empire?
+[00:33:51.397 --> 00:33:52.277] RIKER: Who asks the question?
+[00:33:52.917 --> 00:33:54.757] PORTAL: A guardian of the Tkon Empire.
+[00:34:01.797 --> 00:34:02.037] PORTAL: Biped.
+[00:34:02.837 --> 00:34:03.717] PORTAL: Excellent.
+[00:34:04.517 --> 00:34:09.477] RIKER: Why should we petition to entry to an empire that no longer exists?
+[00:34:10.597 --> 00:34:12.437] PORTAL: Why do you attempt deception?
+[00:34:13.637 --> 00:34:14.917] PORTAL: The Empire is forever.
+[00:34:15.717 --> 00:34:17.957] RIKER: Your empire fell prey to a supernova.
+[00:34:20.517 --> 00:34:21.877] PORTAL: We are forever.
+[00:34:22.677 --> 00:34:22.997] RIKER: Data,
+[00:34:24.224 --> 00:34:25.104] RIKER: Please repeat the file.
+[00:34:25.904 --> 00:34:27.264] DATA: It is a matter of record, Portal.
+[00:34:27.904 --> 00:34:32.224] DATA: In the Age of Makto, the central star of the Tkon Empire destabilised and
+[00:34:32.224 --> 00:34:34.944] PORTAL: There has never been an Age of Makto.
+[00:34:35.424 --> 00:34:39.904] DATA: In fact, there have been many ages which have come and passed since Makto.
+[00:34:39.984 --> 00:34:41.664] PORTAL: This is the Age of Bastu!
+[00:34:42.704 --> 00:34:43.264] DATA: I'm afraid not.
+[00:34:43.824 --> 00:34:51.984] DATA: According to the Tkon use of galactic motionary startime charts, after Bastu came Cimi, Xora, Makto
+[00:34:52.064 --> 00:34:54.944] PORTAL: Enough! Absurdities!
+[00:34:55.104 --> 00:34:59.104] RIKER: You must have been asleep, Portal, for hundreds of thousands of our years.
+[00:35:00.864 --> 00:35:05.904] LETEK: Deception is the way of the human.
+[00:35:05.984 --> 00:35:10.464] LETEK: We Ferengi will gladly make a petition.
+[00:35:11.104 --> 00:35:12.304] RIKER: We invite your petition.
+[00:35:12.944 --> 00:35:13.584] PORTAL: Speak.
+[00:35:14.304 --> 00:35:19.424] LETEK: We wish to offer our services to serve
+[00:35:21.104 --> 00:35:24.784] LETEK: the Tkon Empire at no profit.
+[00:35:25.264 --> 00:35:34.304] LETEK: Return control of our starship to us and we will happily destroy the human criminals
+[00:35:35.024 --> 00:35:38.544] LETEK: and their vessel which attacked us without provocation.
+[00:35:39.424 --> 00:35:46.544] LETEK: They came to loot your empire, but we intercepted them.
+[00:35:47.424 --> 00:35:50.224] PORTAL: You are accused of deceit and treachery.
+[00:35:52.707 --> 00:35:54.947] PORTAL: Do you give yourself up for judgement?
+[00:35:55.667 --> 00:35:56.147] RIKER: Yes.
+[00:35:56.707 --> 00:35:59.587] RIKER: If you believe those accusations, then you certainly should act on them.
+[00:35:59.907 --> 00:36:01.507] LETEK: And there is even more.
+[00:36:02.867 --> 00:36:09.027] LETEK: We can prove that the humans are destroyers of legal commerce,
+[00:36:09.347 --> 00:36:15.587] LETEK: and that they selfishly withhold vital technology from backward worlds.
+[00:36:15.587 --> 00:36:18.707] MORDOC: And necessary defensive weapons, too.
+[00:36:19.107 --> 00:36:24.787] MORDOC: We Ferengi now challenge this human madness.
+[00:36:24.867 --> 00:36:28.387] RIKER: I admit we withheld modern technology from some worlds.
+[00:36:28.627 --> 00:36:30.547] KAYRON: You see? They are demented.
+[00:36:30.547 --> 00:36:31.907] KAYRON: Their values are insane.
+[00:36:31.987 --> 00:36:34.707] KAYRON: You cannot believe the business opportunities they have destroyed.
+[00:36:34.947 --> 00:36:37.107] LETEK: Proof of their barbarism.
+[00:36:38.387 --> 00:36:51.187] LETEK: They adorn themselves with gold, a despicable use of a valuable metal. And they shamelessly clothe their females.
+[00:36:51.747 --> 00:36:56.627] MORDOC: Inviting others to unclothe them. The very depth of perversion.
+[00:36:56.777 --> 00:36:57.777] TASHA: Paws off,
+[00:36:58.627 --> 00:36:59.107] TASHA: Ferengi.
+[00:37:01.667 --> 00:37:05.507] MORDOC: No female, human or Ferengi, can order Mordoc around!
+[00:37:05.507 --> 00:37:06.467] MORDOC: Submit!
+[00:37:07.827 --> 00:37:08.147] TASHA: Just
+[00:37:10.867 --> 00:37:11.767] TASHA: try it, shorty.
+[00:37:11.767 --> 00:37:12.067] RIKER: At
+[00:37:12.227 --> 00:37:13.107] RIKER: ease, Lieutenant!
+[00:37:15.427 --> 00:37:18.787] RIKER: And we still have more faults
+[00:37:20.035 --> 00:37:23.635] DATA: They should add that Starfleet has permitted several civilisations to fall.
+[00:37:24.035 --> 00:37:26.835] DATA: We have at times allowed the strong and violent to overcome the weak.
+[00:37:27.075 --> 00:37:28.755] LETEK: They admit their crimes!
+[00:37:28.755 --> 00:37:29.875] LETEK: Hear them!
+[00:37:30.675 --> 00:37:33.235] LETEK: They admit the evil that they do!
+[00:37:33.875 --> 00:37:34.595] PORTAL: Barbarian!
+[00:37:36.435 --> 00:37:36.675] LETEK: Yes,
+[00:37:38.035 --> 00:37:39.715] LETEK: you show wisdom.
+[00:37:40.355 --> 00:37:41.715] PORTAL: Barbarians all!
+[00:37:42.915 --> 00:37:44.275] PORTAL: But this one first,
+[00:37:46.915 --> 00:37:50.515] PORTAL: in the fashion the Empire has always challenged savages.
+[00:37:50.595 --> 00:37:50.675] WORF: No!
+[00:37:52.115 --> 00:37:53.235] WORF: For battle, come to me!
+[00:37:53.235 --> 00:37:53.395] RIKER: No!
+[00:37:54.435 --> 00:37:54.835] RIKER: That's an order.
+[00:37:55.795 --> 00:37:57.715] PORTAL: You have a single chance for life.
+[00:37:58.515 --> 00:37:59.395] PORTAL: One only.
+[00:38:00.835 --> 00:38:02.595] PORTAL: What is the answer to my challenge?
+[00:38:04.275 --> 00:38:05.315] PORTAL: I offer a thought.
+[00:38:06.675 --> 00:38:07.795] PORTAL: He will triumph
+[00:38:07.955 --> 00:38:11.155] PORTAL: who knows when to fight and when not to fight.
+[00:38:18.195 --> 00:38:19.475] PORTAL: You are being tested, Riker!
+[00:38:21.075 --> 00:38:22.115] PORTAL: What is the answer?
+[00:38:23.235 --> 00:38:23.795] RIKER: How do you know my
+[00:38:25.315 --> 00:38:27.315] RIKER: name?
+[00:38:32.995 --> 00:38:33.715] PORTAL: Ahhh.
+[00:38:34.755 --> 00:38:37.395] PORTAL: You are facing fate with composure.
+[00:38:38.595 --> 00:38:40.675] PORTAL: But what is the answer to my challenge?
+[00:38:42.915 --> 00:38:43.155] RIKER: Fear
+[00:38:44.675 --> 00:38:45.635] RIKER: is the true enemy,
+[00:38:46.275 --> 00:38:47.235] RIKER: the only enemy.
+[00:38:49.955 --> 00:38:52.675] PORTAL: Unlike these little ones who close their minds,
+[00:38:53.856 --> 00:38:56.096] PORTAL: your mind holds interesting thoughts.
+[00:38:57.216 --> 00:39:01.536] PORTAL: Know your enemy and know yourself, and you will always be victorious.
+[00:39:02.496 --> 00:39:03.296] PORTAL: Why that thought?
+[00:39:04.096 --> 00:39:06.896] PORTAL: And who is this Sun Tzu you revere?
+[00:39:09.536 --> 00:39:12.976] RIKER: An old Chinese philosopher from ancient Earth history.
+[00:39:13.856 --> 00:39:15.296] PORTAL: You must tell me more of this wisdom,
+[00:39:15.536 --> 00:39:16.576] PORTAL: so much like our own.
+[00:39:16.816 --> 00:39:18.176] RIKER: Gladly. But first our starship.
+[00:39:19.616 --> 00:39:20.336] RIKER: Can you release it?
+[00:39:22.336 --> 00:39:23.296] PORTAL: It is released.
+[00:39:24.736 --> 00:39:25.776] PORTAL: All power is restored.
+[00:39:25.856 --> 00:39:25.936] CRUSHER: Not
+[00:39:27.856 --> 00:39:27.856] CRUSHER: a
+[00:39:46.976 --> 00:39:48.256] CRUSHER: moment too soon, Jean.
+[00:39:54.976 --> 00:39:55.776] CRUSHER: I mean, Captain.
+[00:40:01.216 --> 00:40:03.216] PORTAL: I
+[00:40:13.856 --> 00:40:19.056] PORTAL: admit I had my doubts as your ships battled each other in overt acts of belligerence.
+[00:40:19.136 --> 00:40:22.976] PORTAL: Normally, I would have destroyed all of you and your ships, but
+[00:40:23.888 --> 00:40:25.328] PORTAL: something confused me.
+[00:40:25.568 --> 00:40:25.968] RIKER: Which was?
+[00:40:27.408 --> 00:40:29.488] PORTAL: First, you wanted to murder each other.
+[00:40:30.448 --> 00:40:32.448] PORTAL: Then you were willing to help each other.
+[00:40:32.528 --> 00:40:33.168] LETEK: What of our vessel? We
+[00:40:34.208 --> 00:40:35.808] LETEK: knew the same answer.
+[00:40:35.888 --> 00:40:39.808] MORDOC: The truth is, I gave those words to this human.
+[00:40:39.808 --> 00:40:42.368] PORTAL: What of them?
+[00:40:43.648 --> 00:40:44.528] PORTAL: Shall I destroy them?
+[00:40:46.208 --> 00:40:47.168] RIKER: Then they would learn nothing.
+[00:40:48.528 --> 00:40:50.608] PORTAL: A most interesting conclusion.
+[00:40:51.408 --> 00:40:51.568] PORTAL: But
+[00:40:53.248 --> 00:40:54.448] PORTAL: what if they will never learn, Riker?
+[00:40:55.088 --> 00:40:55.968] RIKER: Is this a test also?
+[00:40:56.928 --> 00:41:00.368] PORTAL: In life, one is always tested.
+[00:41:01.008 --> 00:41:03.968] RIKER: I find them very much as we were a several hundred years ago,
+[00:41:04.688 --> 00:41:07.488] RIKER: but possessing the technology they have now, they're very dangerous .
+[00:41:08.288 --> 00:41:08.768] KAYRON: Untrue.
+[00:41:09.088 --> 00:41:10.608] KAYRON: We seek friendship with you.
+[00:41:11.328 --> 00:41:12.768] RIKER: But we can hardly hate what we once were.
+[00:41:13.488 --> 00:41:15.488] RIKER: They may grow and learn.
+[00:41:16.288 --> 00:41:17.968] PORTAL: And learn ways to destroy you.
+[00:41:18.368 --> 00:41:21.168] RIKER: Our values require us to face that possibility.
+[00:41:22.848 --> 00:41:23.408] RIKER: What of you,
+[00:41:24.128 --> 00:41:25.088] RIKER: with your empire gone?
+[00:41:27.248 --> 00:41:29.968] PORTAL: The universe exists to me to create life.
+[00:41:32.048 --> 00:41:35.728] PORTAL: I shall sleep, until needed again.
+[00:41:58.364 --> 00:41:59.244] PICARD: Compliments, Lieutenant.
+[00:41:59.484 --> 00:41:59.964] TASHA: Thank you.
+[00:41:59.964 --> 00:42:00.524] PICARD: Lieutenant Worf.
+[00:42:05.964 --> 00:42:06.444] PICARD: You've done well.
+[00:42:06.924 --> 00:42:08.124] DATA: Something to write home about.
+[00:42:10.844 --> 00:42:12.284] LAFORGE: Something to write home about? Data,
+[00:42:12.524 --> 00:42:13.324] LAFORGE: that's very human.
+[00:42:14.204 --> 00:42:16.604] RIKER: The T9 energy converter has been beamed aboard and secured, sir.
+[00:42:17.564 --> 00:42:21.084] RIKER: The Ferengi complained bitterly, but one final roar from Portal convinced them.
+[00:42:21.804 --> 00:42:23.324] PICARD: I commend your performance, Number One.
+[00:42:23.644 --> 00:42:24.764] RIKER: One final request, sir.
+[00:42:26.044 --> 00:42:30.204] RIKER: Permission to beam a box of Data's Chinese finger puzzles over to the Ferengi.
+[00:42:30.844 --> 00:42:32.684] RIKER: A thank you for all they tried to do.
+[00:42:40.044 --> 00:42:40.524] PICARD: Make it
+[00:42:42.524 --> 00:42:43.164] PICARD: so.
+[00:42:49.000 --> 00:43:10.000] [music]
+[00:43:11.000 --> 00:43:37.000] [music]

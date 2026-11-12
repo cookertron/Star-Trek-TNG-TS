@@ -1,0 +1,707 @@
+[00:00:02.160 --> 00:00:04.960] LOG: Captain's log, Stardate 43989.1.
+[00:00:05.760 --> 00:00:12.000] LOG: The Enterprise has arrived at Jouret Four in response to a distress signal from one of the Federation's outermost colonies.
+[00:00:16.000 --> 00:00:16.800] RIKER: Anything from the surface?
+[00:00:17.600 --> 00:00:17.920] WORF: No sir.
+[00:00:18.240 --> 00:00:21.120] WORF: There have been no communications from the colony for over twelve hours.
+[00:00:21.200 --> 00:00:22.480] RIKER: Sensors picking up any signs of life?
+[00:00:22.880 --> 00:00:23.040] WORF: None.
+[00:00:23.840 --> 00:00:25.520] O'BRIEN: The surface environment is safe for transport, Commander.
+[00:00:43.280 --> 00:00:49.200] RIKER: Mister O'Brien Verify these are accurate coordinates for New Providence colony.
+[00:00:50.080 --> 00:00:51.200] O'BRIEN: Coordinates verified, sir.
+[00:00:51.360 --> 00:00:52.400] O'BRIEN: You're at the centre of town.
+[00:01:41.974 --> 00:01:44.694] PICARD: Space, the final frontier.
+[00:01:46.614 --> 00:01:49.494] PICARD: These are the voyages of the starship Enterprise.
+[00:01:50.614 --> 00:01:58.614] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:00.214 --> 00:02:03.174] PICARD: to boldly go where no one has gone before.
+[00:02:32.000 --> 00:02:41.000] [music]
+[00:02:54.000 --> 00:03:02.000] [music]
+[00:03:00.671 --> 00:03:03.631] LOG: Captain's log, Stardate 43992.6.
+[00:03:03.871 --> 00:03:09.871] LOG: Admiral Hanson and Lieutenant Commander Shelby of Starfleet Tactical have arrived to review the disappearance of New Providence colony.
+[00:03:10.431 --> 00:03:13.071] LOG: No sign remains of the nine hundred inhabitants.
+[00:03:13.631 --> 00:03:17.231] HANSON: The truth is, hell, we are not ready.
+[00:03:18.591 --> 00:03:20.191] HANSON: We've known they were coming for over a year.
+[00:03:20.431 --> 00:03:22.831] HANSON: We've thrown every resource we have into this, but still
+[00:03:22.831 --> 00:03:24.511] RIKER: Then you're convinced it is the Borg?
+[00:03:25.071 --> 00:03:26.431] SHELBY: That's what I'm here to find out.
+[00:03:27.391 --> 00:03:31.791] SHELBY: The initial descriptions of these surface conditions are almost identical to your reports from system J two five.
+[00:03:32.111 --> 00:03:33.631] PICARD: Commander Riker wrote those reports.
+[00:03:33.631 --> 00:03:34.351] PICARD: He agrees with you.
+[00:03:35.071 --> 00:03:38.751] HANSON: Commander Shelby took over Borg tactical analysis six months ago.
+[00:03:40.191 --> 00:03:42.751] HANSON: I've learned to give her a wide latitude when I want to get things done.
+[00:03:44.271 --> 00:03:45.631] HANSON: That's how I intend to operate here.
+[00:03:47.311 --> 00:03:51.151] SHELBY: My priority has been to develop some kind, any kind of defence strategy
+[00:03:51.551 --> 00:03:53.311] RIKER: Obviously nothing we have now can stop them.
+[00:03:53.711 --> 00:03:56.911] SHELBY: We've been designing new weapons but they're all still on the drawing board.
+[00:03:57.311 --> 00:03:59.151] HANSON: We expected much more lead time.
+[00:03:59.791 --> 00:04:02.991] HANSON: Your encounter with the Borg was over seven thousand light years away.
+[00:04:03.711 --> 00:04:07.871] PICARD: If this is the Borg, it would indicate they have a source of power far superior to our own.
+[00:04:08.271 --> 00:04:10.591] SHELBY: I'd like to see the colony site as soon as possible, Captain.
+[00:04:10.911 --> 00:04:12.111] RIKER: It'll be dark there in thirty minutes.
+[00:04:12.111 --> 00:04:13.711] RIKER: We've scheduled an away team for dawn.
+[00:04:13.951 --> 00:04:15.711] PICARD: Number One, why don't you show the Commander to her quarters?
+[00:04:19.631 --> 00:04:20.671] RIKER: It's our poker night, Admiral.
+[00:04:21.311 --> 00:04:22.511] RIKER: There's always an open seat for you.
+[00:04:24.031 --> 00:04:25.071] HANSON: Another time, Commander.
+[00:04:25.791 --> 00:04:27.471] HANSON: Your captain and I have a lot to cover.
+[00:04:27.951 --> 00:04:31.631] HANSON: But rumour has it Commander Shelby's played a hand or two.
+[00:04:37.578 --> 00:04:39.018] HANSON: Keep your eye on her, Jean Luc.
+[00:04:40.138 --> 00:04:42.218] HANSON: She's one very impressive young lady.
+[00:04:43.258 --> 00:04:44.698] PICARD: You seem rather taken with her, JP.
+[00:04:45.738 --> 00:04:47.098] HANSON: Just an old man's fantasies.
+[00:04:49.898 --> 00:04:54.458] HANSON: When Shelby came into Tactical, every admiral's uncle had a take on this Borg business.
+[00:04:55.578 --> 00:04:56.458] HANSON: She cut through it.
+[00:04:56.938 --> 00:04:57.898] HANSON: She put us on track.
+[00:05:01.418 --> 00:05:02.111] PICARD: Earl Grey?
+[00:05:02.111 --> 00:05:02.458] HANSON: Please.
+[00:05:04.138 --> 00:05:05.898] HANSON: She'd make you a hell of a first officer.
+[00:05:06.778 --> 00:05:08.218] PICARD: I already have a hell of a first officer.
+[00:05:09.258 --> 00:05:11.578] HANSON: Don't tell me he's going to pass up another commission?
+[00:05:14.218 --> 00:05:14.778] PICARD: One's available?
+[00:05:15.258 --> 00:05:17.578] HANSON: The Melbourne. It's his if he wants it.
+[00:05:17.578 --> 00:05:18.378] HANSON: Hasn't he told you?
+[00:05:20.538 --> 00:05:21.818] PICARD: He'll make a fine captain, JP.
+[00:05:24.618 --> 00:05:25.738] HANSON: You may want to tell him that.
+[00:05:27.018 --> 00:05:28.618] HANSON: We're still waiting on his decision.
+[00:05:29.738 --> 00:05:32.938] HANSON: This is the third time we've pulled out the captain's chair for Riker.
+[00:05:34.538 --> 00:05:35.818] HANSON: He just won't sit down.
+[00:05:37.498 --> 00:05:38.618] HANSON: Let me tell you something, Jean-Luc.
+[00:05:39.818 --> 00:05:42.298] HANSON: There are a lot of young hotshots like Shelby on their way up.
+[00:05:43.578 --> 00:05:46.138] HANSON: Riker could suddenly look like he's standing still next to them.
+[00:05:47.658 --> 00:05:49.338] HANSON: He's hurting his career by staying put.
+[00:05:49.338 --> 00:05:52.938] HANSON: If I were you, I'd kick him in the rear end for his own good.
+[00:06:01.098 --> 00:06:06.698] SHELBY: I don't know exactly what I'm looking for, but we've tested the sections of the Enterprise's hull that were damaged by the Borg.
+[00:06:07.092 --> 00:06:09.092] SHELBY: There were some unusual magnetic resonance traces.
+[00:06:10.212 --> 00:06:10.932] RIKER: A Borg footprint?
+[00:06:11.892 --> 00:06:12.692] SHELBY: That's my theory.
+[00:06:13.092 --> 00:06:14.292] SHELBY: I'll see if it holds up tomorrow.
+[00:06:15.172 --> 00:06:16.212] SHELBY: I've reviewed your personnel.
+[00:06:16.212 --> 00:06:19.412] SHELBY: I'll be assigning Mister La Forge and Mister Data to accompany me on the away team.
+[00:06:20.772 --> 00:06:22.372] RIKER: I've already assigned them to the away team.
+[00:06:23.972 --> 00:06:25.332] RIKER: And I'll be with you as well, Commander.
+[00:06:26.292 --> 00:06:26.852] SHELBY: Of course.
+[00:06:27.572 --> 00:06:29.252] SHELBY: I appreciate any assistance you can offer.
+[00:06:30.932 --> 00:06:35.812] SHELBY: Tell me, Commander. Is serving aboard the Enterprise as extraordinary an experience as I've heard?
+[00:06:36.452 --> 00:06:37.012] RIKER: Every bit.
+[00:06:38.532 --> 00:06:43.012] SHELBY: Good. Because I intend to convince Captain Picard I'm the right choice for the job.
+[00:06:43.972 --> 00:06:44.292] RIKER: Job?
+[00:06:44.532 --> 00:06:45.012] RIKER: Which job?
+[00:06:45.972 --> 00:06:46.692] SHELBY: Yours, of course.
+[00:06:49.892 --> 00:06:50.452] SHELBY: I'm sorry.
+[00:06:52.132 --> 00:06:53.172] SHELBY: I heard that you were leaving.
+[00:06:55.652 --> 00:06:57.412] RIKER: If I were, I'm sure you'll be the first to know.
+[00:07:01.572 --> 00:07:03.572] RIKER: Poker's at seventeen hundred hours in my quarters.
+[00:07:04.932 --> 00:07:05.145] RIKER: Deck eight.
+[00:07:05.145 --> 00:07:05.252] WESLEY: Got
+[00:07:10.372 --> 00:07:11.332] WESLEY: another king in the hole, Data?
+[00:07:11.332 --> 00:07:11.492] DATA: I
+[00:07:12.532 --> 00:07:14.132] DATA: am afraid I cannot answer that Wesley.
+[00:07:14.852 --> 00:07:18.772] DATA: And as you are a newcomer to the game, may I say it is inappropriate for you to ask.
+[00:07:19.332 --> 00:07:21.652] DATA: I will buy another card, Counsellor.
+[00:07:23.812 --> 00:07:24.372] TROI: No help there.
+[00:07:26.052 --> 00:07:27.412] LAFORGE: Fold. Again.
+[00:07:28.452 --> 00:07:31.012] TROI: Three jacks looking back for the handsome young ensign.
+[00:07:32.532 --> 00:07:33.972] TROI: Pair of deuces stands.
+[00:07:34.532 --> 00:07:36.452] TROI: Flush, possible straight flush.
+[00:07:39.745 --> 00:07:40.785] TROI: Your bet, Mister Crusher.
+[00:07:44.225 --> 00:07:44.865] WESLEY: I'm in for ten.
+[00:07:45.585 --> 00:07:45.825] SHELBY: Call.
+[00:07:47.345 --> 00:07:48.625] RIKER: Now it's time for the long pants.
+[00:07:49.025 --> 00:07:49.585] RIKER: There's your ten, and
+[00:07:50.865 --> 00:07:51.185] RIKER: one hundred.
+[00:07:51.665 --> 00:07:53.265] LAFORGE: He's got the straight flush, folks.
+[00:07:53.505 --> 00:07:54.385] DATA: Not necessarily.
+[00:07:55.345 --> 00:07:57.025] DATA: Commander Riker may be bluffing, Wesley.
+[00:08:03.185 --> 00:08:03.825] WESLEY: I don't think so.
+[00:08:04.385 --> 00:08:04.785] WESLEY: Fold.
+[00:08:05.105 --> 00:08:06.705] LAFORGE: With three jacks? What, are you kidding?
+[00:08:07.185 --> 00:08:10.305] LAFORGE: Wesley, you may get straight A's in school, but there's a lot you need to learn about poker.
+[00:08:14.385 --> 00:08:18.145] SHELBY: Well, I've only got two pair, but I've got to see your hole card.
+[00:08:19.505 --> 00:08:19.905] SHELBY: I'll call.
+[00:08:25.345 --> 00:08:25.505] LAFORGE: You
+[00:08:28.865 --> 00:08:29.265] LAFORGE: got him.
+[00:08:45.265 --> 00:08:49.009] RIKER: Mister Data and our guest appear to be tardy.
+[00:08:49.009 --> 00:08:49.425] O'BRIEN: Sir,
+[00:08:49.425 --> 00:08:52.065] O'BRIEN: Commander Shelby and Data beamed down to the planet surface an hour ago.
+[00:08:53.185 --> 00:08:53.985] RIKER: On whose authority?
+[00:08:54.545 --> 00:08:55.185] O'BRIEN: On hers, sir.
+[00:09:15.417 --> 00:09:15.817] SHELBY: Morning.
+[00:09:16.297 --> 00:09:17.337] SHELBY: Early bird gets the worm, eh?
+[00:09:18.297 --> 00:09:19.657] SHELBY: We've had some interesting results.
+[00:09:20.057 --> 00:09:22.537] RIKER: Commander Shelby.
+[00:09:25.737 --> 00:09:26.137] RIKER: Walk with me,
+[00:09:35.897 --> 00:09:35.897] RIKER: Commander.
+[00:09:35.897 --> 00:09:36.537] DATA: Early bird?
+[00:09:37.817 --> 00:09:39.257] DATA: I believe Commander Shelby erred.
+[00:09:39.897 --> 00:09:43.737] DATA: There is no evidence of avifaunal or crawling vermicular lifeforms on Jouret Four.
+[00:09:44.057 --> 00:09:45.657] LAFORGE: That's not what she meant, Data, but
+[00:09:46.377 --> 00:09:46.777] LAFORGE: you're right.
+[00:09:47.737 --> 00:09:48.377] LAFORGE: She erred.
+[00:09:53.417 --> 00:09:56.377] SHELBY: I'm sorry, but I woke up early and I saw that a weather system was moving in it.
+[00:09:56.777 --> 00:09:58.377] SHELBY: It could have affected the soil readings.
+[00:09:58.537 --> 00:10:00.937] RIKER: So without any regard to the risk of coming down alone
+[00:10:01.017 --> 00:10:01.977] SHELBY: Really, Commander,
+[00:10:01.977 --> 00:10:05.817] SHELBY: if we ran into the Borg here, two extra bodies wouldn't've made a hell of a difference, now would they?
+[00:10:06.297 --> 00:10:08.217] SHELBY: We had three hours before the storm front hit,
+[00:10:08.377 --> 00:10:09.577] SHELBY: less than two hours now.
+[00:10:10.057 --> 00:10:10.937] SHELBY: Data was available.
+[00:10:11.017 --> 00:10:11.577] SHELBY: I took him.
+[00:10:11.577 --> 00:10:12.057] SHELBY: We came.
+[00:10:12.537 --> 00:10:13.577] SHELBY: I don't see your problem.
+[00:10:13.977 --> 00:10:17.737] RIKER: My problem, Commander, is I expect to be notified before there's a change in my orders.
+[00:10:18.137 --> 00:10:19.417] SHELBY: Noted for future reference.
+[00:10:20.297 --> 00:10:21.497] SHELBY: Do you wish to hear my report, sir?
+[00:10:23.017 --> 00:10:23.337] RIKER: Go ahead.
+[00:10:24.137 --> 00:10:26.537] SHELBY: The soil contains the same magnetic resonance traces
+[00:10:27.257 --> 00:10:28.057] SHELBY: That's our footprint.
+[00:10:28.697 --> 00:10:29.737] SHELBY: There's no doubt any more.
+[00:10:30.297 --> 00:10:31.097] SHELBY: It is the Borg.
+[00:10:36.305 --> 00:10:39.185] LOG: Captain's log, stardate 43993.5.
+[00:10:39.665 --> 00:10:46.545] LOG: With confirmation of the Borg's presence in Federation space, Admiral Hanson has returned to Starbase three two four to discuss strategy with Starfleet Command.
+[00:10:47.345 --> 00:10:51.265] LOG: Lieutenant Commander Shelby remains on board to continue tactical preparations.
+[00:10:52.465 --> 00:10:53.985] RIKER: I've also ordered a standing Yellow Alert.
+[00:10:54.465 --> 00:10:56.545] RIKER: All Federation and allied outposts have been warned.
+[00:10:56.945 --> 00:10:59.185] RIKER: Ops will continue to monitor long range sensors.
+[00:10:59.585 --> 00:11:02.225] RIKER: I've assigned Data, La Forge and Mister Crusher to work with Commander Shelby.
+[00:11:03.025 --> 00:11:03.185] PICARD: Good.
+[00:11:03.425 --> 00:11:04.225] PICARD: You've covered all the bases.
+[00:11:06.785 --> 00:11:07.825] PICARD: What's your impression of Shelby?
+[00:11:09.745 --> 00:11:10.385] RIKER: She knows her stuff.
+[00:11:10.945 --> 00:11:11.825] PICARD: She has your full confidence?
+[00:11:12.065 --> 00:11:14.305] RIKER: Well, I think she needs supervision.
+[00:11:14.545 --> 00:11:16.385] RIKER: She takes the initiative a little too easily.
+[00:11:16.545 --> 00:11:17.345] RIKER: Sometimes with risks.
+[00:11:17.345 --> 00:11:17.345] PICARD: Sounds a little
+[00:11:19.505 --> 00:11:22.305] PICARD: like a young lieutenant commander I once recruited as a first officer.
+[00:11:22.865 --> 00:11:23.265] RIKER: Perhaps.
+[00:11:26.705 --> 00:11:27.025] PICARD: Will,
+[00:11:30.945 --> 00:11:33.363] PICARD: what the hell are you still doing here?
+[00:11:33.363 --> 00:11:33.665] RIKER: Sir?
+[00:11:34.385 --> 00:11:35.345] PICARD: You've been offered the Melbourne.
+[00:11:37.105 --> 00:11:38.945] RIKER: I've decided not to pursue that commission at this time.
+[00:11:39.745 --> 00:11:40.945] PICARD: She's a fine ship, Will.
+[00:11:41.345 --> 00:11:42.385] RIKER: Yes, but she's not the Enterprise.
+[00:11:45.185 --> 00:11:48.705] RIKER: With all due respect, sir, you need me. Particularly now.
+[00:11:49.265 --> 00:11:53.185] PICARD: Indeed? Starfleet needs good captains, particularly now.
+[00:11:54.225 --> 00:11:55.185] PICARD: Reconsider your decision.
+[00:11:57.265 --> 00:11:58.385] RIKER: Are you telling me to leave, Captain?
+[00:11:59.185 --> 00:12:02.305] PICARD: I'm asking you to look at your career objectively.
+[00:12:04.785 --> 00:12:05.025] PICARD: Will,
+[00:12:07.425 --> 00:12:08.785] PICARD: you're ready to work without a net.
+[00:12:09.503 --> 00:12:10.543] PICARD: You're ready to take command.
+[00:12:12.143 --> 00:12:15.823] PICARD: And, you know, the Enterprise will go along just fine without you.
+[00:12:17.423 --> 00:12:20.143] RIKER: What am I still doing here? Deanna,
+[00:12:20.143 --> 00:12:22.223] RIKER: I pushed myself hard to get this far.
+[00:12:22.223 --> 00:12:24.623] RIKER: I sacrificed a lot.
+[00:12:25.343 --> 00:12:29.023] RIKER: I always said I wanted my own command, and yet something's holding me back.
+[00:12:29.743 --> 00:12:31.023] RIKER: Is it wrong for me to want to stay?
+[00:12:31.583 --> 00:12:32.383] TROI: What do you think?
+[00:12:38.783 --> 00:12:40.303] RIKER: Maybe I'm just afraid of the big chair.
+[00:12:42.143 --> 00:12:42.863] TROI: I don't think so.
+[00:12:45.183 --> 00:12:48.703] RIKER: The Captain says Shelby reminds him of the way I used to be. And he's right.
+[00:12:49.663 --> 00:12:53.423] RIKER: She comes in here full of drive and ambition. Impatient, taking risks.
+[00:12:54.463 --> 00:12:56.383] RIKER: I look at her and I wonder whatever happened to those things in me?
+[00:12:56.383 --> 00:12:57.983] RIKER: I liked those things about me.
+[00:12:59.743 --> 00:13:00.543] RIKER: I've lost something.
+[00:13:01.423 --> 00:13:04.623] TROI: You mean you're older, more experienced.
+[00:13:06.303 --> 00:13:08.143] TROI: A little more seasoned.
+[00:13:09.183 --> 00:13:09.743] RIKER: Seasoned.
+[00:13:11.183 --> 00:13:12.703] RIKER: That's a horrible thing to say to a man.
+[00:13:14.143 --> 00:13:18.943] TROI: I don't think you've lost a thing, and I think you've gained more than you realise.
+[00:13:19.583 --> 00:13:21.823] TROI: You're much more comfortable with yourself than you used to be.
+[00:13:22.863 --> 00:13:23.743] RIKER: Maybe that's the problem.
+[00:13:24.703 --> 00:13:25.663] RIKER: I'm too comfortable here.
+[00:13:27.263 --> 00:13:29.023] TROI: I'm not sure I know what that means.
+[00:13:29.983 --> 00:13:33.343] TROI: You're happy here. Happier than I've ever known you to be.
+[00:13:35.183 --> 00:13:40.623] TROI: So, it comes down to a simple question. What do you want, Will Riker?
+[00:13:45.122 --> 00:13:52.142] SHELBY: A manipulation effect in the Borg ship's subspace field. A definite pattern at four point eight minute intervals during your first confrontation with them.
+[00:13:52.142 --> 00:13:54.482] LAFORGE: Might indicate high output auxiliary generators kicking in.
+[00:13:55.362 --> 00:13:59.682] SHELBY: One theory is that their systems are decentralised with redundant power sources located throughout the ship.
+[00:14:00.322 --> 00:14:01.602] DATA: That is a reasonable conclusion.
+[00:14:02.322 --> 00:14:07.362] DATA: Borg technology has given each member of their society the ability to interface and function collectively.
+[00:14:07.922 --> 00:14:10.562] DATA: It is likely they have constructed their ship with the same philosophy.
+[00:14:11.202 --> 00:14:14.322] WESLEY: You knock out one generator and another takes over without interruption.
+[00:14:14.722 --> 00:14:16.722] RIKER: What kind of damage would we have to do to shut them down?
+[00:14:17.442 --> 00:14:22.962] SHELBY: Projections suggest that a Borg ship like this one could continue to function effectively even if seventy eight percent of it was inoperable.
+[00:14:23.522 --> 00:14:25.602] WESLEY: And our best shot barely scratched the surface.
+[00:14:26.482 --> 00:14:31.762] LAFORGE: Well, from what I've seen, I can't believe any of these new weapons systems can be ready in less than eighteen months, Commander.
+[00:14:32.402 --> 00:14:34.562] SHELBY: We've been projecting twenty four.
+[00:14:34.562 --> 00:14:37.122] RIKER: Is there anything we can do here to adapt to our current defence systems?
+[00:14:38.802 --> 00:14:40.162] LAFORGE: We'll have to go through the specs again, but.
+[00:14:42.002 --> 00:14:43.042] LAFORGE: I don't know.
+[00:14:43.682 --> 00:14:44.802] LAFORGE: My mind's turned to clay.
+[00:14:46.322 --> 00:14:46.802] WESLEY: Mine too.
+[00:14:48.642 --> 00:14:51.062] SHELBY: I think we should look at modifying the plasma phaser design.
+[00:14:51.062 --> 00:14:51.282] RIKER: Commander,
+[00:14:51.282 --> 00:14:52.482] RIKER: I think we should call it a night.
+[00:14:53.202 --> 00:14:53.682] RIKER: That's an order.
+[00:14:53.922 --> 00:14:55.282] RIKER: We'll reconvene at oh five hundred.
+[00:14:55.282 --> 00:14:58.882] SHELBY: Sir, if you'll allow me to continue with Mister Data, who does not require rest.
+[00:14:59.042 --> 00:15:00.242] RIKER: You need rest, Commander.
+[00:15:00.962 --> 00:15:03.993] SHELBY: If we have a confrontation with the Borg without improving our defence systems
+[00:15:03.993 --> 00:15:09.122] RIKER: If we have a confrontation, I don't want a crew fighting the Borg at the same time they're fighting their own fatigue.
+[00:15:09.922 --> 00:15:10.482] RIKER: Dismissed.
+[00:15:25.912 --> 00:15:32.072] HANSON: At nineteen hundred hours yesterday, the USS Lalo departed Zeta Alpha Two on a freight run to Sentinel Minor Four.
+[00:15:33.352 --> 00:15:39.352] HANSON: At twenty two hundred hours and twelve minutes, a distress signal was received at Starbase one five seven.
+[00:15:40.392 --> 00:15:46.472] HANSON: The Lalo reported contact with an alien vessel described as cube shaped.
+[00:15:46.472 --> 00:15:51.592] HANSON: The distress signal ended abruptly, and she's not been heard from since.
+[00:15:52.312 --> 00:15:54.312] PICARD: Mister Data, how long would it take to get there at warp nine?
+[00:15:55.192 --> 00:15:56.312] DATA: One hour, seventeen minutes, sir.
+[00:15:56.392 --> 00:15:56.872] PICARD: Make it so.
+[00:15:57.192 --> 00:16:04.232] HANSON: We're coming with every available starship to assist, Captain, but the closest help is six days away.
+[00:16:04.382 --> 00:16:04.982] PICARD: We'll
+[00:16:05.752 --> 00:16:07.592] PICARD: try and keep them occupied until you arrive.
+[00:16:08.552 --> 00:16:09.112] HANSON: I know you will.
+[00:16:11.032 --> 00:16:11.352] HANSON: Hanson out.
+[00:16:11.352 --> 00:16:14.472] RIKER: All hands will stand to battle stations.
+[00:16:15.032 --> 00:16:15.672] PICARD: Commander Shelby,
+[00:16:15.912 --> 00:16:17.592] PICARD: what is the status of out defence preparations?
+[00:16:17.592 --> 00:16:19.832] SHELBY: Mister La Forge has a plan to modulate shield nutation.
+[00:16:20.072 --> 00:16:21.352] SHELBY: Hopefully, that'll hold them off for awhile.
+[00:16:21.992 --> 00:16:25.272] LAFORGE: At the same time, we'll be retuning phasers to higher EM base emitting frequencies to
+[00:16:25.432 --> 00:16:26.632] LAFORGE: try to disrupt their subspace field.
+[00:16:27.432 --> 00:16:29.192] PICARD: What's your assessment of our potential effectiveness?
+[00:16:31.032 --> 00:16:32.072] LAFORGE: It's a shot in the dark, Captain.
+[00:16:32.872 --> 00:16:33.832] LAFORGE: But for now it's the best we can do.
+[00:16:35.592 --> 00:16:35.992] PICARD: Dismissed.
+[00:17:00.228 --> 00:17:06.548] WORF: Sir, reading unidentified vessel just entering sensor range. Bearing two one zero mark one five one.
+[00:17:07.188 --> 00:17:07.828] PICARD: Hail them, Mister Worf.
+[00:17:09.828 --> 00:17:10.468] WORF: No response, sir.
+[00:17:12.148 --> 00:17:12.788] PICARD: Move to intercept.
+[00:17:13.188 --> 00:17:13.508] WESLEY: Aye, sir.
+[00:17:14.708 --> 00:17:18.228] WORF: Sir, the vessel has already changed course to intercept us.
+[00:17:19.028 --> 00:17:23.028] WORF: Approaching at warp nine point three. Entering visual range.
+[00:17:23.828 --> 00:17:24.308] PICARD: On screen.
+[00:17:31.028 --> 00:17:33.028] PICARD: Magnify.
+[00:17:36.388 --> 00:17:38.308] PICARD: Mister Worf, dispatch a subspace
+[00:17:38.308 --> 00:17:38.548] PICARD: message
+[00:17:38.628 --> 00:17:39.188] PICARD: to Admiral Hanson.
+[00:17:41.108 --> 00:17:42.628] PICARD: We have engaged the Borg.
+[00:17:57.748 --> 00:17:59.588] WORF: Captain, you are being hailed.
+[00:18:00.868 --> 00:18:01.028] PICARD: I am?
+[00:18:01.748 --> 00:18:02.148] WORF: Yes, Captain.
+[00:18:02.788 --> 00:18:03.961] WORF: By name.
+[00:18:03.961 --> 00:18:04.548] RIKER: Data,
+[00:18:05.588 --> 00:18:07.268] RIKER: is it the same ship we faced at J two five?
+[00:18:08.468 --> 00:18:09.188] DATA: Uncertain, Commander,
+[00:18:09.508 --> 00:18:11.188] DATA: but the dimensions are precisely the same.
+[00:18:13.508 --> 00:18:13.908] PICARD: On screen.
+[00:18:17.017 --> 00:18:17.924] PICARD: I am Jean Luc
+[00:18:17.924 --> 00:18:18.377] BORG: Jean Luc
+[00:18:18.617 --> 00:18:24.217] BORG: Picard, captain of the Starship Enterprise, registry NCC 1701D,
+[00:18:24.457 --> 00:18:28.297] BORG: you will lower shields and prepare to transport yourself aboard our vessel.
+[00:18:28.617 --> 00:18:31.257] BORG: If you do not cooperate, we will destroy your ship.
+[00:18:31.497 --> 00:18:34.617] PICARD: You have committed acts of aggression against the United Federation of Planets.
+[00:18:35.097 --> 00:18:36.537] PICARD: If you do not withdraw immediately
+[00:18:36.537 --> 00:18:38.937] BORG: You will surrender yourself or we will destroy your ship.
+[00:18:39.577 --> 00:18:42.057] BORG: Your defensive capabilities are unable to withstand us.
+[00:18:42.297 --> 00:18:43.497] RIKER: What the hell do
+[00:18:43.497 --> 00:18:44.217] RIKER: they want with you?
+[00:18:45.177 --> 00:18:47.177] SHELBY: I thought they weren't interested in human life forms,
+[00:18:47.177 --> 00:18:48.057] SHELBY: only our technology.
+[00:18:49.097 --> 00:18:50.377] PICARD: Their priorities seem to have changed.
+[00:18:50.777 --> 00:18:51.017] PICARD: Open.
+[00:18:51.897 --> 00:18:52.697] WORF: Channel open.
+[00:18:53.657 --> 00:18:58.617] PICARD: We have developed new defence capabilities since our last meeting and we are prepared to use them
+[00:18:58.697 --> 00:19:01.577] PICARD: if you do not withdraw from Federation space.
+[00:19:01.577 --> 00:19:03.737] LAFORGE: Captain. The shields are being probed.
+[00:19:05.097 --> 00:19:06.297] LAFORGE: I'm modulating nutation.
+[00:19:11.097 --> 00:19:13.977] WORF: Captain, the Borg are attempting to lock on to us with their tractor beam.
+[00:19:14.217 --> 00:19:15.737] PICARD: Load torpedo bays. Arm phasers.
+[00:19:16.057 --> 00:19:17.817] PICARD: lock coordinates on the source of the tractor beam.
+[00:19:18.537 --> 00:19:19.097] RIKER: Shield status?
+[00:19:20.057 --> 00:19:20.537] DATA: Holding, sir.
+[00:19:21.657 --> 00:19:23.497] SHELBY: The nutation modulation has them confused.
+[00:19:23.657 --> 00:19:25.657] RIKER: They have the ability to analyse and adapt, Commander.
+[00:19:30.377 --> 00:19:31.657] LAFORGE: Shield modulation has failed.
+[00:19:31.897 --> 00:19:32.617] LAFORGE: They've locked on.
+[00:19:36.377 --> 00:19:37.417] WORF: Shields are being drained.
+[00:19:38.137 --> 00:19:38.697] WORF: Ninety percent.
+[00:19:39.657 --> 00:19:39.897] WORF: Eighty.
+[00:19:40.562 --> 00:19:42.002] LAFORGE: Trying to recalibrate nutation.
+[00:19:43.122 --> 00:19:43.522] LAFORGE: Damn.
+[00:19:43.922 --> 00:19:44.642] WORF: Shields have failed.
+[00:19:45.202 --> 00:19:45.922] PICARD: Fire all weapons.
+[00:19:52.642 --> 00:19:54.242] LAFORGE: Their subspace field is intact.
+[00:19:54.642 --> 00:19:56.482] LAFORGE: New phaser frequencies had no impact.
+[00:19:57.042 --> 00:19:57.762] RIKER: Reverse engines.
+[00:19:58.402 --> 00:19:59.202] LAFORGE: Full reverse.
+[00:20:02.642 --> 00:20:03.362] LAFORGE: We're not moving.
+[00:20:04.162 --> 00:20:04.722] PICARD: Fire at will.
+[00:20:05.282 --> 00:20:06.162] WORF: Launching torpedoes.
+[00:20:06.802 --> 00:20:07.762] WORF: Phaser spread continuing.
+[00:20:09.282 --> 00:20:10.802] DATA: Still no damage to the Borg vessel, sir.
+[00:20:11.362 --> 00:20:11.522] COMPUTER: Warning.
+[00:20:17.202 --> 00:20:18.242] COMPUTER: Outer hull breach.
+[00:20:19.362 --> 00:20:20.242] WORF: They're cutting into the hull.
+[00:20:20.642 --> 00:20:21.442] WORF: Engineering section.
+[00:20:22.002 --> 00:20:23.282] RIKER: Geordi, evacuate Engineering.
+[00:20:23.602 --> 00:20:25.362] LAFORGE: Computer. Evacuation sequence.
+[00:20:26.162 --> 00:20:26.882] COMPUTER: Sealing doors to core chamber.
+[00:20:27.122 --> 00:20:28.642] LAFORGE: Come on, move it, people! Let's go!
+[00:20:28.882 --> 00:20:28.882] LAFORGE: Let's
+[00:20:30.802 --> 00:20:30.935] LAFORGE: go!
+[00:20:31.002 --> 00:20:31.202] COMPUTER: Decompression danger,
+[00:20:31.442 --> 00:20:32.722] COMPUTER: deck thirty six, section four.
+[00:20:33.442 --> 00:20:34.642] COMPUTER: Sealing Main Engineering.
+[00:20:35.042 --> 00:20:35.282] SHELBY: Data,
+[00:20:35.922 --> 00:20:37.682] SHELBY: fluctuate phaser resonance frequencies.
+[00:20:37.842 --> 00:20:38.482] SHELBY: Random settings.
+[00:20:38.482 --> 00:20:39.122] SHELBY: Keep them changing.
+[00:20:39.122 --> 00:20:40.242] SHELBY: Don't give them time to adapt.
+[00:20:41.682 --> 00:20:43.682] WORF: The
+[00:20:48.962 --> 00:20:50.082] WORF: tractor beam has been released.
+[00:20:50.562 --> 00:20:51.042] PICARD: Warp nine.
+[00:20:51.202 --> 00:20:51.682] PICARD: Course,
+[00:20:52.162 --> 00:20:52.882] PICARD: one five one
+[00:20:53.042 --> 00:20:53.442] PICARD: mark
+[00:20:54.082 --> 00:20:54.802] PICARD: three three zero.
+[00:20:55.682 --> 00:20:56.322] PICARD: Engage.
+[00:21:00.962 --> 00:21:02.962] WORF: They
+[00:21:06.242 --> 00:21:07.202] WORF: are in pursuit, Captain.
+[00:21:07.922 --> 00:21:08.562] PICARD: Maintain course.
+[00:21:10.562 --> 00:21:11.282] RIKER: Damage report, Geordi?
+[00:21:13.617 --> 00:21:14.817] LAFORGE: Hull rupture in main Engineering.
+[00:21:14.817 --> 00:21:15.617] LAFORGE: The damage is pretty heavy.
+[00:21:15.857 --> 00:21:17.057] LAFORGE: We lost a lot of good people down there.
+[00:21:17.937 --> 00:21:19.937] DATA: Eleven dead, eight more unaccounted for, Captain.
+[00:21:20.417 --> 00:21:21.457] RIKER: Repair teams to Engineering.
+[00:21:21.457 --> 00:21:22.417] RIKER: Seal hull breach.
+[00:21:22.417 --> 00:21:22.977] LAFORGE: They didn't get to the core
+[00:21:22.977 --> 00:21:24.097] LAFORGE: I can control functions from here.
+[00:21:25.457 --> 00:21:26.977] WESLEY: Now approaching the Paulson Nebula, sir.
+[00:21:28.497 --> 00:21:29.217] PICARD: Drop to impulse.
+[00:21:37.777 --> 00:21:38.497] PICARD: Take us in, Ensign.
+[00:21:40.097 --> 00:21:40.097] WESLEY: The
+[00:21:48.737 --> 00:21:49.857] WESLEY: field is getting too dense, sir.
+[00:21:50.177 --> 00:21:50.657] PICARD: Steady.
+[00:21:55.777 --> 00:21:56.897] PICARD: Analysis of the nebula cloud, Mister
+[00:21:57.137 --> 00:21:57.297] PICARD: Data.
+[00:21:57.857 --> 00:22:04.337] DATA: Eighty two percent dilithium hydroxyls. Magnesium, chromium. It should provide an effective screen against their sensors, Captain.
+[00:22:05.857 --> 00:22:07.377] PICARD: Mister La Forge, prepare to reverse engines.
+[00:22:07.617 --> 00:22:08.017] PICARD: Full stop.
+[00:22:08.167 --> 00:22:08.767] WORF: The
+[00:22:09.537 --> 00:22:11.457] WORF: Borg
+[00:22:22.177 --> 00:22:24.977] WORF: ship is continuing scans, attempting to locate us.
+[00:22:25.537 --> 00:22:25.697] PICARD: Good.
+[00:22:25.697 --> 00:22:29.937] PICARD: As long as they're looking for us, they won't hurt anyone else.
+[00:22:36.097 --> 00:22:37.377] SHELBY: Time index five one four.
+[00:22:37.697 --> 00:22:38.817] SHELBY: Data started to fluctuate
+[00:22:38.817 --> 00:22:40.177] SHELBY: phaser resonance frequencies.
+[00:22:40.577 --> 00:22:41.937] SHELBY: The Borg's beam breaks contact.
+[00:22:42.257 --> 00:22:43.057] SHELBY: Slow playback.
+[00:22:43.606 --> 00:22:44.646] SHELBY: Take a closer look, Commander.
+[00:22:45.206 --> 00:22:45.926] SHELBY: Mister La Forge?
+[00:22:46.566 --> 00:22:49.766] LAFORGE: There's a two percent drop in power for an instant, but it is system wide.
+[00:22:50.246 --> 00:22:52.486] LAFORGE: The phaser frequency spread was in a high narrow band.
+[00:22:53.046 --> 00:22:56.646] DATA: Conceivably, the ship's power distribution nodes are vulnerable to those frequencies.
+[00:22:56.966 --> 00:23:04.166] LAFORGE: If we can generate a concentrated burst of power at that same frequency distribution, I mean a lot more than anything our phasers or photon torpedoes could ever provide.
+[00:23:04.166 --> 00:23:05.126] RIKER: How do we do that?
+[00:23:05.926 --> 00:23:06.726] WESLEY: The main deflector dish.
+[00:23:07.686 --> 00:23:10.806] LAFORGE: It's the only component of the Enterprise designed to channel that much power at controlled frequencies.
+[00:23:11.206 --> 00:23:11.766] SHELBY: End programme.
+[00:23:13.126 --> 00:23:15.286] SHELBY: Unfortunately, there is one slight detail.
+[00:23:15.686 --> 00:23:18.486] SHELBY: In the process, the blast completely destroys the Enterprise as well.
+[00:23:19.686 --> 00:23:22.246] RIKER: But if we could get further away, increase the deflector's range.
+[00:23:23.046 --> 00:23:23.686] SHELBY: It could work.
+[00:23:24.326 --> 00:23:27.926] SHELBY: In the meantime, we should retune all phasers, including the hand units, to the same frequency.
+[00:23:28.806 --> 00:23:29.126] RIKER: Proceed.
+[00:23:29.766 --> 00:23:30.486] RIKER: I'll inform the Captain.
+[00:23:30.646 --> 00:23:32.646] SHELBY: There is one other recommendation I'd like to make, Commander.
+[00:23:33.046 --> 00:23:34.246] SHELBY: Separate the saucer section.
+[00:23:34.806 --> 00:23:36.806] SHELBY: Assign a skeleton crew to create a diversion
+[00:23:36.966 --> 00:23:39.206] RIKER: We may need the power from the saucer impulse engines.
+[00:23:39.286 --> 00:23:41.126] SHELBY: But it would give them more than one target to worry about.
+[00:23:41.526 --> 00:23:42.406] RIKER: It's too great a risk.
+[00:23:43.366 --> 00:23:44.966] SHELBY: I'd like the Captain to make that decision, sir.
+[00:23:46.326 --> 00:23:49.766] RIKER: Commander, I bring all the alternatives to the Captain's attention.
+[00:23:50.646 --> 00:23:51.126] RIKER: That'll be all.
+[00:23:57.606 --> 00:24:01.766] LAFORGE: I'm going to need to install higher capacity power transfers to the deflector dish, Commander.
+[00:24:01.766 --> 00:24:02.166] RIKER: How long?
+[00:24:02.326 --> 00:24:03.206] LAFORGE: Better part of a day.
+[00:24:05.046 --> 00:24:06.326] RIKER: She gets a full head of steam, doesn't she.
+[00:24:07.046 --> 00:24:10.566] LAFORGE: She's a formidable presence, to say the least. But I'm convinced she can help us here, Commander.
+[00:24:10.819 --> 00:24:11.219] RIKER: I am too.
+[00:24:12.019 --> 00:24:12.499] RIKER: Don't worry about it.
+[00:24:12.739 --> 00:24:13.379] RIKER: I can handle Shelby.
+[00:24:17.939 --> 00:24:18.339] PICARD: Come.
+[00:24:18.339 --> 00:24:18.339] PICARD: Come
+[00:24:21.779 --> 00:24:24.179] PICARD: in, Number One.
+[00:24:26.099 --> 00:24:31.139] PICARD: Commander Shelby was just telling me of your concerns about her plan.
+[00:24:32.179 --> 00:24:33.219] RIKER: I'm sorry if she troubled you, sir.
+[00:24:33.219 --> 00:24:34.499] RIKER: I have already informed her
+[00:24:34.579 --> 00:24:35.779] PICARD: Yes, I entirely agree with you,
+[00:24:35.779 --> 00:24:36.899] PICARD: Number One. It's not the time.
+[00:24:38.899 --> 00:24:43.059] PICARD: But the time may come when we will be required to take greater risks.
+[00:24:43.939 --> 00:24:47.699] PICARD: I want you to consider her plan as a fall back position.
+[00:24:47.939 --> 00:24:49.459] PICARD: Make the necessary preparations.
+[00:24:49.699 --> 00:24:50.419] RIKER: Very good, sir.
+[00:25:00.899 --> 00:25:01.859] SHELBY: Deck eight. Battle bridge.
+[00:25:02.659 --> 00:25:03.139] RIKER: Halt.
+[00:25:04.819 --> 00:25:05.139] RIKER: Commander,
+[00:25:05.139 --> 00:25:06.659] RIKER: you and I need to have a conversation.
+[00:25:07.539 --> 00:25:09.859] SHELBY: You never ordered me not to discuss this with the Captain.
+[00:25:10.499 --> 00:25:11.299] RIKER: You disagree with me,
+[00:25:11.299 --> 00:25:11.699] RIKER: fine.
+[00:25:12.899 --> 00:25:14.019] RIKER: You need to take it to the Captain, then
+[00:25:14.019 --> 00:25:14.499] RIKER: fine.
+[00:25:14.659 --> 00:25:17.939] RIKER: Through me. You do an end run around me again,
+[00:25:18.499 --> 00:25:21.139] RIKER: I'll snap you back so hard, you'll think you're a first year cadet again.
+[00:25:22.499 --> 00:25:23.379] SHELBY: May I speak frankly, sir?
+[00:25:24.259 --> 00:25:24.979] RIKER: By all means.
+[00:25:26.019 --> 00:25:26.819] SHELBY: You're in my way.
+[00:25:28.979 --> 00:25:29.379] RIKER: Really?
+[00:25:30.739 --> 00:25:31.779] RIKER: How terrible for you.
+[00:25:32.499 --> 00:25:34.099] SHELBY: All you know how to do is play it safe.
+[00:25:34.899 --> 00:25:40.899] SHELBY: I suppose that's why someone like you sits in the shadow of a great man for as long as you have, passing up one command after another.
+[00:25:41.440 --> 00:25:42.160] SHELBY: Proceed to deck eight.
+[00:25:44.560 --> 00:25:48.000] RIKER: When it comes to this ship and this crew, you're damned right I play it safe.
+[00:25:49.600 --> 00:25:54.560] SHELBY: If you can't make the big decisions, Commander, I suggest you make room for someone who can.
+[00:26:07.120 --> 00:26:10.000] LOG: Captain's log, stardate 43996.2.
+[00:26:10.320 --> 00:26:16.640] LOG: The Enterprise remains concealed in the dust cloud. And to my surprise, the Borg have maintained their position, waiting for us to come out of hiding.
+[00:26:16.640 --> 00:26:20.640] LOG: I have no explanation for their special interest in me or this ship.
+[00:26:21.760 --> 00:26:31.680] LOG: We continue to prepare our defences for the inevitable confrontation, but I must admit, on this night I contemplate the distinct possibility that no defence may be adequate against this enemy.
+[00:26:54.080 --> 00:26:54.880] GUINAN: Trouble sleeping?
+[00:26:57.520 --> 00:26:59.520] PICARD: Something of a tradition, Guinan.
+[00:26:59.670 --> 00:27:00.270] PICARD: The
+[00:27:01.120 --> 00:27:03.040] PICARD: Captain touring the ship before a battle.
+[00:27:05.920 --> 00:27:09.440] GUINAN: Before a hopeless battle, if I remember the tradition correctly.
+[00:27:10.080 --> 00:27:10.880] PICARD: Not necessarily.
+[00:27:11.406 --> 00:27:13.966] PICARD: Nelson toured the HMS Victory before Trafalgar.
+[00:27:15.166 --> 00:27:17.966] GUINAN: Yes, but Nelson never returned from Trafalgar, did he?
+[00:27:18.526 --> 00:27:19.886] PICARD: No, but the battle was won.
+[00:27:22.446 --> 00:27:24.206] GUINAN: Do you expect this battle to be won?
+[00:27:26.366 --> 00:27:27.566] PICARD: We may yet prevail.
+[00:27:29.086 --> 00:27:29.646] PICARD: That's a
+[00:27:31.246 --> 00:27:34.926] PICARD: conceit, but it's a healthy one.
+[00:27:36.686 --> 00:27:44.526] PICARD: I wonder if the Emperor Honorious, watching the Visigoths coming over the seventh hill, truly realised that the Roman Empire was about to fall.
+[00:27:48.286 --> 00:27:51.406] PICARD: This is just another page in history, isn't it?
+[00:27:53.006 --> 00:27:54.606] PICARD: Will this be the end of our civilisation?
+[00:27:56.606 --> 00:27:57.406] PICARD: Turn the page.
+[00:28:01.406 --> 00:28:02.446] GUINAN: This isn't the end.
+[00:28:04.606 --> 00:28:06.606] PICARD: You say that with remarkable assuredness.
+[00:28:07.406 --> 00:28:08.446] GUINAN: With experience.
+[00:28:09.806 --> 00:28:13.806] GUINAN: When the Borg destroyed my world, my people scattered throughout the universe.
+[00:28:15.566 --> 00:28:16.446] GUINAN: We survived.
+[00:28:17.726 --> 00:28:19.486] GUINAN: As will humanity survive.
+[00:28:20.526 --> 00:28:25.406] GUINAN: As long as there's a handful of you to keep the spirit alive, you will prevail.
+[00:28:26.446 --> 00:28:27.886] GUINAN: Even if it takes a millennium.
+[00:28:29.566 --> 00:28:31.086] WORF: Captain
+[00:28:33.486 --> 00:28:34.686] WORF: Picard, report to the Bridge.
+[00:28:36.126 --> 00:28:36.846] PICARD: I'm on my way, Lieutenant.
+[00:28:55.946 --> 00:28:57.946] RIKER: They're some kind of magnetometric guided charges.
+[00:29:03.626 --> 00:29:04.346] PICARD: Status of shields?
+[00:29:04.986 --> 00:29:06.186] WORF: Back to forty eight percent, Captain.
+[00:29:06.666 --> 00:29:06.826] PICARD: Mister
+[00:29:06.826 --> 00:29:08.586] PICARD: La Forge, I may have to take us out of the nebula.
+[00:29:08.986 --> 00:29:10.106] PICARD: I want all the power you can give me.
+[00:29:10.746 --> 00:29:11.626] LAFORGE: Engines are ready, Captain.
+[00:29:11.946 --> 00:29:15.386] LAFORGE: Recommend we adjust shield harmonics to favour the upper EM band when you proceed.
+[00:29:16.026 --> 00:29:16.346] PICARD: Acknowledged.
+[00:29:19.146 --> 00:29:19.466] WORF: Direct hit,
+[00:29:19.786 --> 00:29:20.346] WORF: deck nine.
+[00:29:20.506 --> 00:29:21.146] RIKER: Damage report?
+[00:29:21.706 --> 00:29:23.626] WORF: Structural latching system integrity breached.
+[00:29:23.946 --> 00:29:25.306] PICARD: Prepare to take us out of here, Number One.
+[00:29:25.786 --> 00:29:26.506] RIKER: Fire up the engines.
+[00:29:26.506 --> 00:29:29.386] RIKER: Half impulse until we clear the nebula, then punch it to warp nine.
+[00:29:29.546 --> 00:29:30.186] PICARD: Ready phasers.
+[00:29:30.186 --> 00:29:31.386] PICARD: Load forward torpedo bays.
+[00:29:32.106 --> 00:29:32.586] PICARD: Engage.
+[00:29:41.066 --> 00:29:42.746] WORF: Borg tractor beam is attempting to lock on.
+[00:29:42.986 --> 00:29:43.306] PICARD: Fire at
+[00:29:43.306 --> 00:29:44.506] PICARD: will. Continue rotating
+[00:29:44.506 --> 00:29:45.226] PICARD: shield frequency.
+[00:29:46.026 --> 00:29:46.666] WORF: Shields failing.
+[00:29:50.186 --> 00:29:51.386] WORF: Tractor beam has locked on.
+[00:29:51.536 --> 00:29:52.136] RIKER: It's
+[00:30:08.581 --> 00:30:08.741] RIKER: no
+[00:30:11.621 --> 00:30:11.861] RIKER: use.
+[00:30:12.101 --> 00:30:13.621] RIKER: They've already adapted to the new frequencies.
+[00:30:13.701 --> 00:30:14.421] WORF: The
+[00:30:41.781 --> 00:30:43.141] WORF: Borg ship is disengaging.
+[00:30:43.141 --> 00:30:44.181] WORF: Leaving at warp speed.
+[00:30:44.901 --> 00:30:45.541] RIKER: Maintain pursuit.
+[00:30:49.301 --> 00:30:53.941] WORF: Borg vessel has reached warp nine. Nine point four, nine point six.
+[00:30:53.941 --> 00:30:54.341] RIKER: Stay with them.
+[00:30:55.301 --> 00:30:56.101] RIKER: Riker to O'Brien.
+[00:30:56.101 --> 00:30:57.141] RIKER: Can you get a fix on the Captain?
+[00:30:57.541 --> 00:30:58.101] O'BRIEN: Negative, sir.
+[00:30:58.341 --> 00:30:59.621] O'BRIEN: There's some kind of interference.
+[00:30:59.781 --> 00:31:00.981] O'BRIEN: I can't lock in on his signal.
+[00:31:01.861 --> 00:31:04.055] RIKER: Senior officers, report to the Bridge.
+[00:31:04.055 --> 00:31:04.421] WORF: Sir,
+[00:31:04.581 --> 00:31:05.541] WORF: the coordinates they have set,
+[00:31:05.861 --> 00:31:08.661] WORF: they're on a direct course to sector zero zero one.
+[00:31:09.861 --> 00:31:10.501] WORF: The Terran system.
+[00:31:13.301 --> 00:31:13.461] RIKER: Earth.
+[00:31:42.386 --> 00:31:46.386] BORG: Captain Jean Luc Picard, you lead the strongest ship of the Federation fleet.
+[00:31:46.706 --> 00:31:48.306] BORG: You speak for your people.
+[00:31:49.186 --> 00:31:54.226] PICARD: I have nothing to say to you, and I will resist you with my last ounce of strength.
+[00:31:54.306 --> 00:31:55.506] BORG: Strength is irrelevant.
+[00:31:55.906 --> 00:31:56.866] BORG: Resistance is futile.
+[00:31:57.506 --> 00:31:59.106] BORG: We wish to improve ourselves.
+[00:31:59.426 --> 00:32:03.346] BORG: We will add your biological and technological distinctiveness to our own.
+[00:32:03.746 --> 00:32:06.066] BORG: Your culture will adapt to service ours.
+[00:32:07.026 --> 00:32:07.666] PICARD: Impossible.
+[00:32:08.786 --> 00:32:11.426] PICARD: My culture is based on freedom and self determination.
+[00:32:12.146 --> 00:32:13.266] BORG: Freedom is irrelevant.
+[00:32:13.586 --> 00:32:15.266] BORG: Self determination is irrelevant.
+[00:32:15.586 --> 00:32:16.626] BORG: You must comply.
+[00:32:17.906 --> 00:32:18.866] PICARD: We would rather die.
+[00:32:19.906 --> 00:32:20.946] BORG: Death is irrelevant.
+[00:32:21.506 --> 00:32:23.746] BORG: Your archaic cultures are authority driven.
+[00:32:24.306 --> 00:32:31.026] BORG: To facilitate our introduction into your societies, it has been decided that a human voice will speak for us in all communications.
+[00:32:31.346 --> 00:32:33.346] BORG: You have been chosen to be that voice.
+[00:32:36.866 --> 00:32:38.066] WORF: Commander,
+[00:32:39.986 --> 00:32:44.226] WORF: they are leading us into the heart of our own defences.
+[00:32:44.706 --> 00:32:47.986] LAFORGE: Yeah, well, so far they haven't had any reason to worry about our defences.
+[00:32:48.146 --> 00:32:53.506] WESLEY: Commander, if the Borg stay at warp nine point six, we'll be forced to discontinue pursuit and power down in less than three hours.
+[00:32:53.666 --> 00:32:55.106] DATA: Two hours, forty minutes and three seconds.
+[00:32:55.266 --> 00:32:56.706] RIKER: How soon before the deflector's ready?
+[00:32:56.786 --> 00:32:57.426] LAFORGE: We're close.
+[00:32:57.586 --> 00:32:58.546] LAFORGE: Few hours maybe.
+[00:32:58.786 --> 00:33:04.386] LAFORGE: I know, I'll get it done in two somehow, but Commander, I going to need serious power from the warp engines to make this weapon work.
+[00:33:04.786 --> 00:33:07.312] LAFORGE: So far we're using everything we've got just to keep up with them.
+[00:33:07.312 --> 00:33:07.506] SHELBY: Sir,
+[00:33:07.826 --> 00:33:09.666] SHELBY: we've got to get that ship down to impulse.
+[00:33:11.026 --> 00:33:13.266] RIKER: I'm leading an away team over there to get the Captain back.
+[00:33:13.747 --> 00:33:15.187] RIKER: We'll find a way to bring them out of warp.
+[00:33:15.187 --> 00:33:17.187] RIKER: Ensign Crusher, you continue to assist Mister La Forge.
+[00:33:17.587 --> 00:33:19.827] RIKER: Commander Shelby, you'll take the Bridge and coordinate with Starfleet.
+[00:33:19.907 --> 00:33:21.507] RIKER: Data, Worf, Doctor, you're with me.
+[00:33:22.307 --> 00:33:23.987] SHELBY: Excuse me, sir. With my knowledge of the Borg
+[00:33:23.987 --> 00:33:25.267] RIKER: Those are my orders, Commander.
+[00:33:26.707 --> 00:33:27.347] TROI: Commander Riker.
+[00:33:29.667 --> 00:33:31.827] TROI: It is inappropriate for you to lead the away team.
+[00:33:32.867 --> 00:33:36.307] TROI: Until the return of Captain Picard, you are in command of the Enterprise.
+[00:33:36.947 --> 00:33:39.427] TROI: We're in a state of war, and your place is on the
+[00:33:41.347 --> 00:33:43.347] TROI: Bridge.
+[00:33:45.827 --> 00:33:47.827] RIKER: Commander Shelby, you'll lead the away team.
+[00:33:49.107 --> 00:33:49.587] RIKER: Make it so.
+[00:34:01.427 --> 00:34:02.307] LOG: First officer's log,
+[00:34:02.547 --> 00:34:04.547] LOG: stardate 43998.5.
+[00:34:05.107 --> 00:34:08.867] LOG: Our pursuit of the Borg continues on a course that will take us to the very core of the Federation.
+[00:34:09.427 --> 00:34:11.747] LOG: The devastation they could bring is beyond imagination.
+[00:34:13.667 --> 00:34:15.107] WORF: These phasers have been retuned.
+[00:34:15.427 --> 00:34:17.907] WORF: Each has a different frequency spanning the upper EM band.
+[00:34:18.387 --> 00:34:18.547] SHELBY: All right,
+[00:34:18.627 --> 00:34:23.027] SHELBY: a reminder. We only get to use each of these once, maybe twice, before the Borg learn to adapt.
+[00:34:23.347 --> 00:34:24.787] SHELBY: Don't fire until you have to.
+[00:34:25.507 --> 00:34:27.107] CRUSHER: What kind of resistance should we expect?
+[00:34:27.667 --> 00:34:31.347] DATA: At our first encounter, the Borg virtually ignored us when we beamed aboard their vessel.
+[00:34:31.907 --> 00:34:33.907] DATA: Clearly they did not consider our being there a threat to them.
+[00:34:34.547 --> 00:34:37.507] SHELBY: That may change, however, if we start interfering with their plans.
+[00:34:45.427 --> 00:34:46.227] SHELBY: Shelby to Bridge.
+[00:34:46.490 --> 00:34:47.290] SHELBY: Away team ready.
+[00:34:47.690 --> 00:34:50.730] RIKER: We've got fifty eight minutes before we have to power down and disengage.
+[00:34:50.970 --> 00:34:51.530] SHELBY: Understood.
+[00:34:51.770 --> 00:34:52.650] RIKER: Proceed. Commander
+[00:34:53.290 --> 00:34:54.570] RIKER: No unnecessary risks.
+[00:34:54.970 --> 00:34:55.210] RIKER: Clear?
+[00:34:55.690 --> 00:34:56.330] SHELBY: Very clear, sir.
+[00:34:56.970 --> 00:34:57.610] SHELBY: Shelby out.
+[00:34:58.330 --> 00:35:00.330] O'BRIEN: We've matched warp velocity for transport, Commander.
+[00:35:01.130 --> 00:35:01.690] SHELBY: Energise.
+[00:35:18.170 --> 00:35:19.370] WORF: Tricorder functions minimal.
+[00:35:20.090 --> 00:35:21.050] SHELBY: Any signs of human life?
+[00:35:22.490 --> 00:35:23.050] WORF: Inconclusive.
+[00:35:54.410 --> 00:35:55.050] CRUSHER: Look at this.
+[00:35:55.050 --> 00:35:56.410] CRUSHER: This is extraordinary.
+[00:35:59.690 --> 00:36:07.050] DATA: These appear to be some kind of power wave guide conduits which allow them to work collectively as they perform ship functions.
+[00:36:08.010 --> 00:36:10.090] SHELBY: There's no way to take out enough of these to disable them down.
+[00:36:10.970 --> 00:36:13.290] CRUSHER: What if we look at this from a mosquito's point of view.
+[00:36:14.730 --> 00:36:15.850] DATA: Interesting metaphor, Doctor.
+[00:36:16.410 --> 00:36:17.130] DATA: What is your idea?
+[00:36:18.010 --> 00:36:19.690] CRUSHER: If we sting them in a tender spot,
+[00:36:20.714 --> 00:36:22.394] CRUSHER: they might stop for a minute to scratch.
+[00:36:38.874 --> 00:36:39.834] DATA: Distribution nodes.
+[00:36:40.954 --> 00:36:43.434] SHELBY: If we take out a few of these, it just might make them scratch.
+[00:36:44.314 --> 00:36:45.434] WORF: The Captain's communicator.
+[00:36:45.914 --> 00:36:46.794] WORF: It is still activated.
+[00:36:47.674 --> 00:36:48.394] CRUSHER: Crusher to Picard.
+[00:36:48.394 --> 00:36:48.954] CRUSHER: Can you hear me?
+[00:36:49.994 --> 00:36:50.954] SHELBY: Can you locate it, Worf?
+[00:36:53.594 --> 00:36:53.914] WORF: This way.
+[00:36:58.554 --> 00:37:03.114] RIKER: I strongly recommend redeploying all available defences to protect sector zero zero one, Admiral.
+[00:37:03.754 --> 00:37:06.234] HANSON: We're moving to intercept at Wolf three five nine.
+[00:37:06.954 --> 00:37:07.914] HANSON: We'll make our stand there.
+[00:37:08.714 --> 00:37:10.074] HANSON: How much longer can you maintain pursuit?
+[00:37:10.954 --> 00:37:12.874] RIKER: Twenty two minutes if they stay at current speed.
+[00:37:13.354 --> 00:37:17.594] RIKER: If we can't bring them out of warp, we'll do as much damage as we can before we have to disengage.
+[00:37:19.674 --> 00:37:20.074] HANSON: Picard?
+[00:37:22.474 --> 00:37:23.034] RIKER: Nothing yet, sir.
+[00:37:30.794 --> 00:37:31.194] WORF: In here.
+[00:37:54.697 --> 00:37:55.657] SHELBY: Shelby to Enterprise.
+[00:37:56.217 --> 00:37:56.617] RIKER: Go ahead.
+[00:37:57.257 --> 00:37:59.337] SHELBY: We've found the Captain's uniform and his communicator.
+[00:37:59.977 --> 00:38:01.097] SHELBY: We're resuming our search.
+[00:38:02.537 --> 00:38:03.497] RIKER: Stand by, Commander.
+[00:38:04.457 --> 00:38:05.257] WESLEY: We're in business.
+[00:38:05.657 --> 00:38:08.617] LAFORGE: It'll burn out the main deflector, but it'll be one hell of a bang.
+[00:38:09.017 --> 00:38:09.657] RIKER: Radiation danger?
+[00:38:09.897 --> 00:38:14.217] WESLEY: We're going to have to evacuate the entire forward half of the secondary hull and the lower three decks of the saucer.
+[00:38:14.777 --> 00:38:16.697] TROI: I'll see to that.
+[00:38:17.017 --> 00:38:17.657] RIKER: Commander Shelby
+[00:38:18.377 --> 00:38:20.217] RIKER: We have only seventeen minutes of warp power left.
+[00:38:20.777 --> 00:38:21.977] RIKER: Do whatever you can to get them out of warp.
+[00:38:23.497 --> 00:38:23.977] SHELBY: Acknowledged.
+[00:38:24.537 --> 00:38:25.097] SHELBY: Shelby out.
+[00:38:31.737 --> 00:38:34.457] SHELBY: Let's take out some of these distribution nodes and see what happens.
+[00:39:08.137 --> 00:39:08.777] WESLEY: Sir, they've done it.
+[00:39:08.777 --> 00:39:10.137] WESLEY: The Borg ship is dropping out of warp.
+[00:39:11.657 --> 00:39:12.377] RIKER: Go to impulse.
+[00:39:12.617 --> 00:39:12.937] WESLEY: Aye, sir.
+[00:39:13.497 --> 00:39:15.097] LAFORGE: Diverting warp energy to main deflector.
+[00:39:16.057 --> 00:39:17.897] RIKER: Move us to within forty thousand kilometres.
+[00:39:17.977 --> 00:39:18.697] RIKER: Match velocity.
+[00:39:19.417 --> 00:39:20.137] RIKER: Commence arming sequence.
+[00:39:20.976 --> 00:39:23.136] RIKER: Increase deflector modulation to upper frequency band.
+[00:39:45.776 --> 00:39:46.176] SHELBY: Shelby to Enterprise.
+[00:39:46.816 --> 00:39:47.696] SHELBY: Encountering resistance.
+[00:39:47.696 --> 00:39:49.056] SHELBY: Prepare to beam us back on my signal.
+[00:40:05.296 --> 00:40:08.576] SHELBY: They're adapting to the frequencies.
+[00:40:13.056 --> 00:40:13.456] CRUSHER: Jean-Luc!
+[00:40:33.536 --> 00:40:33.776] WORF: Captain!
+[00:40:33.776 --> 00:40:34.496] SHELBY: Enterprise, get us out of here.
+[00:40:52.789 --> 00:40:53.189] RIKER: The Captain?
+[00:40:54.069 --> 00:40:55.269] DATA: We were unable to retrieve him, sir. Sir,
+[00:40:55.909 --> 00:40:57.429] DATA: The Captain has been altered by the Borg.
+[00:40:58.069 --> 00:40:58.549] RIKER: Altered?
+[00:40:59.509 --> 00:41:00.469] WORF: He is a Borg.
+[00:41:02.789 --> 00:41:03.509] SHELBY: We'll go back.
+[00:41:03.669 --> 00:41:04.469] SHELBY: I need more people.
+[00:41:04.789 --> 00:41:06.229] SHELBY: We need to retune the phasers again.
+[00:41:06.229 --> 00:41:07.029] SHELBY: We'll get him out of there.
+[00:41:07.589 --> 00:41:07.989] LAFORGE: Commander,
+[00:41:08.709 --> 00:41:11.349] LAFORGE: reading subspace field fluctuations from within the Borg ship.
+[00:41:11.829 --> 00:41:14.469] LAFORGE: Looks like they're regenerating, restoring power.
+[00:41:14.949 --> 00:41:16.229] LAFORGE: They could be capable of warp any minute.
+[00:41:17.109 --> 00:41:17.989] RIKER: Is the deflector ready?
+[00:41:19.429 --> 00:41:19.909] LAFORGE: It's ready.
+[00:41:20.629 --> 00:41:20.789] CRUSHER: Will,
+[00:41:21.189 --> 00:41:21.829] CRUSHER: he's alive.
+[00:41:22.309 --> 00:41:24.549] CRUSHER: If we could get him back to the ship, I might be able to restore
+[00:41:24.549 --> 00:41:25.909] RIKER: This is our only chance to destroy them.
+[00:41:25.909 --> 00:41:28.629] RIKER: If they get back into warp, our weapon is useless.
+[00:41:29.109 --> 00:41:30.629] SHELBY: We'll sabotage them again if we have to.
+[00:41:30.709 --> 00:41:32.309] RIKER: We can't maintain power.
+[00:41:32.389 --> 00:41:33.669] RIKER: We don't have the time.
+[00:41:33.669 --> 00:41:34.469] RIKER: Prepare to fire.
+[00:41:34.469 --> 00:41:35.989] SHELBY: At least consult with Starfleet Command.
+[00:41:35.989 --> 00:41:37.429] SHELBY: Get Admiral Hanson on subspace.
+[00:41:37.429 --> 00:41:38.869] RIKER: Belay that order, Lieutenant.
+[00:41:39.189 --> 00:41:39.829] RIKER: There's no time.
+[00:41:41.589 --> 00:41:41.909] WORF: Sir,
+[00:41:42.389 --> 00:41:43.589] WORF: we are being hailed by the Borg.
+[00:41:45.429 --> 00:41:45.909] RIKER: On screen.
+[00:41:46.229 --> 00:41:46.629] PICARD: I
+[00:42:03.589 --> 00:42:06.549] PICARD: am Locutus of Borg.
+[00:42:07.669 --> 00:42:07.669] PICARD: Resistance
+[00:42:09.189 --> 00:42:09.909] PICARD: is futile.
+[00:42:11.429 --> 00:42:12.949] PICARD: Your life as it has been
+[00:42:14.373 --> 00:42:14.853] PICARD: is over.
+[00:42:16.693 --> 00:42:21.973] PICARD: From this time forward, you will service us.
+[00:42:33.253 --> 00:42:33.493] RIKER: Mister
+[00:42:33.493 --> 00:42:33.733] RIKER: Worf.
+[00:42:35.973 --> 00:42:36.133] RIKER: Fire.
+[00:42:45.000 --> 00:42:56.000] [music]

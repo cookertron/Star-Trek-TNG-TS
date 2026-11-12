@@ -1,0 +1,801 @@
+[00:00:03.680 --> 00:00:06.560] LOG: Captain's log, Stardate 43539.1.
+[00:00:06.880 --> 00:00:11.680] LOG: We have moved into orbit around Bre'el Four. With the assistance of the planet's emergency control centre,
+[00:00:12.080 --> 00:00:16.800] LOG: we're investigating a potentially catastrophic threat to the population from a descending asteroidal moon.
+[00:00:16.950 --> 00:00:17.550] DATA: The
+[00:00:19.040 --> 00:00:21.760] DATA: satellite's trajectory is continuing to deteriorate, Captain.
+[00:00:22.400 --> 00:00:25.920] DATA: This orbit will put it within five hundred kilometres of the planet surface.
+[00:00:26.240 --> 00:00:29.680] GARIN: We're predicting the atmospheric drag will bring it down on the next orbit.
+[00:00:30.240 --> 00:00:33.120] SCIENTIST: Have you been able to find any explanation for this?
+[00:00:33.440 --> 00:00:33.920] DATA: No, Doctor.
+[00:00:34.320 --> 00:00:36.000] DATA: It is a most unusual phenomenon.
+[00:00:36.800 --> 00:00:38.400] PICARD: Won't the moon disintegrate prior to impact?
+[00:00:38.720 --> 00:00:44.800] SCIENTIST: No, it has a ferrous crystalline structure and it will be able to withstand tidal forces, Captain
+[00:00:45.280 --> 00:00:46.400] RIKER: Could we blow it into pieces?
+[00:00:47.200 --> 00:00:53.600] DATA: The total mass of the moon would remain the same, Commander, and the impact of thousands of fragments would spread destruction over an even wider area.
+[00:00:53.920 --> 00:00:54.960] PICARD: How long before impact?
+[00:00:55.840 --> 00:00:56.800] DATA: Twenty nine hours, sir.
+[00:00:57.200 --> 00:00:59.120] DATA: Projecting it somewhere on the western continent.
+[00:00:59.680 --> 00:01:02.240] DATA: That would destroy an area eight hundred kilometres in radius.
+[00:01:02.960 --> 00:01:12.080] SCIENTIST: That damage would be insignificant, Captain, compared to the seismic repercussions massive landquakes, and tsunami.
+[00:01:12.960 --> 00:01:17.360] GARIN: The force would raise a cloud of dust around the planet, leading to a significant temperature reduction.
+[00:01:18.160 --> 00:01:20.640] GARIN: We could be looking at our own ice age.
+[00:01:25.520 --> 00:01:27.200] PICARD: Mister La Forge, is there any way that
+[00:01:27.179 --> 00:01:30.539] PICARD: the Enterprise could coax that satellite Back where it belongs?
+[00:01:30.699 --> 00:01:34.139] LAFORGE: We'd need to apply a delta vee of about four kilometres per second.
+[00:01:34.619 --> 00:01:40.299] LAFORGE: Even with warp power to the tractor beam, it would mean exceeding recommended impulse engine output by at least forty-seven percent.
+[00:01:40.299 --> 00:01:42.459] LAFORGE: It'd be like An ant pushing a tricycle.
+[00:01:42.939 --> 00:01:44.059] LAFORGE: A slim chance at best.
+[00:01:44.619 --> 00:01:47.179] RIKER: Given a choice between slim and none, I'll take slim any day.
+[00:01:47.899 --> 00:01:48.715] PICARD: Make it so.
+[00:01:48.715 --> 00:01:49.259] RIKER: Lieutenant Worf,
+[00:01:50.219 --> 00:01:52.939] RIKER: contact all ships in this sector to rendezvous and join us in relief efforts.
+[00:01:53.979 --> 00:01:55.179] PICARD: We'll keep you informed of our progress.
+[00:01:55.179 --> 00:01:55.739] PICARD: Picard out.
+[00:01:58.139 --> 00:02:01.099] RIKER: Can you give us any more, Geordi?
+[00:02:01.499 --> 00:02:03.179] LAFORGE: Not without burning out the tractor beam emitter.
+[00:02:03.179 --> 00:02:05.099] LAFORGE: The circuits are already beyond the thermal limit.
+[00:02:06.379 --> 00:02:08.379] DATA: Delta vee is ninety two metres per second.
+[00:02:09.179 --> 00:02:10.139] DATA: The mass is too great.
+[00:02:10.699 --> 00:02:12.299] DATA: We are having an effect but it is negligible.
+[00:02:14.939 --> 00:02:15.339] RIKER: What is that?
+[00:02:16.219 --> 00:02:17.419] DATA: Unable to identify source.
+[00:02:18.059 --> 00:02:20.139] LAFORGE: Impulse engines passing safety limits.
+[00:02:20.139 --> 00:02:21.819] LAFORGE: We're seconds From automatic shutdown.
+[00:02:22.219 --> 00:02:22.939] PICARD: Reduce engine power.
+[00:02:23.339 --> 00:02:25.339] PICARD: Tractor beam off.
+[00:02:25.339 --> 00:02:25.899] RIKER: Lieutenant Worf,
+[00:02:26.139 --> 00:02:27.339] RIKER: what the hell do the sensors say?
+[00:02:27.659 --> 00:02:29.179] WORF: The sound is not registering, Commander.
+[00:02:33.499 --> 00:02:33.739] PICARD: Q!
+[00:02:38.219 --> 00:02:38.859] Q: Red alert.
+[00:03:09.707 --> 00:03:12.427] PICARD: Space, the final frontier.
+[00:03:14.267 --> 00:03:17.147] PICARD: These are the voyages of the starship Enterprise.
+[00:03:18.267 --> 00:03:26.267] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:27.947 --> 00:03:30.827] PICARD: to boldly go where no one has gone before.
+[00:04:00.000 --> 00:04:11.000] [music]
+[00:04:21.000 --> 00:04:30.000] [music]
+[00:04:28.691 --> 00:04:29.811] LOG: Captain's log, supplemental.
+[00:04:30.291 --> 00:04:38.691] LOG: We are no closer to finding a solution to the deteriorating orbit of the Bre'el Four moon, but with the arrival of Q, we now have a good idea of the cause.
+[00:04:39.651 --> 00:04:40.211] PICARD: Our options?
+[00:04:40.691 --> 00:04:42.691] LAFORGE: We've done everything by the book and a little extra.
+[00:04:43.011 --> 00:04:45.251] LAFORGE: We need more time or more power, and we're short on both.
+[00:04:46.371 --> 00:04:48.371] LAFORGE: I'll take a look and see if there are any rules I haven't broken.
+[00:04:49.491 --> 00:04:50.131] PICARD: Keep me advised.
+[00:04:52.611 --> 00:04:53.971] RIKER: We know you're behind this, Q.
+[00:04:55.091 --> 00:04:57.011] Q: These aren't my colours.
+[00:04:57.811 --> 00:04:59.331] Q: And what are you blathering about, Riker?
+[00:05:00.691 --> 00:05:04.851] PICARD: What kind of twisted pleasure does it give you to bring terror into their lives?
+[00:05:05.251 --> 00:05:05.891] Q: Whose lives?
+[00:05:06.131 --> 00:05:09.811] PICARD: The millions of people down there who are watching as their moon falls out of the sky.
+[00:05:09.971 --> 00:05:13.891] Q: I haven't the vaguest idea what you're talking about and I have a much more serious problem.
+[00:05:14.371 --> 00:05:16.371] Q: I'm no longer a member of the Continuum.
+[00:05:16.691 --> 00:05:18.851] Q: My superiors have decided to punish me.
+[00:05:19.091 --> 00:05:20.291] PICARD: And punish us as well, it would seem.
+[00:05:21.491 --> 00:05:25.891] Q: They said I've spread chaos through the universe, and they've stripped me of all my powers.
+[00:05:28.211 --> 00:05:29.011] Q: You don't believe me, do you?
+[00:05:30.051 --> 00:05:31.811] Q: Do you think I would humiliate myself like this?
+[00:05:32.611 --> 00:05:34.211] RIKER: If it served your purpose, yes.
+[00:05:34.531 --> 00:05:35.491] Q: It's the truth.
+[00:05:37.171 --> 00:05:45.811] Q: I stand before you defrocked. Condemned to be a member of this lowest of species. A normal, imperfect, lumpen human being.
+[00:05:46.291 --> 00:05:49.411] TROI: They made you human as part of your punishment?
+[00:05:50.211 --> 00:05:51.571] Q: No, it was my request.
+[00:05:51.971 --> 00:05:57.651] Q: I could have chosen to exist as a Markoffian sea lizard or a Belzoidian flea. Anything I wished
+[00:05:58.100 --> 00:06:05.460] Q: as long as it was mortal. And since I only had a fraction of a second to mull and I chose this and asked them to bring me here.
+[00:06:06.020 --> 00:06:06.340] TROI: Why?
+[00:06:07.060 --> 00:06:11.140] Q: Because in all the universe you're the closest thing I have to a friend, Jean-Luc.
+[00:06:12.820 --> 00:06:14.900] DATA: Sir, he is reading as fully human.
+[00:06:15.460 --> 00:06:16.420] Q: What, is there an echo in here?
+[00:06:17.060 --> 00:06:19.700] TROI: I am sensing an emotional presence, Captain.
+[00:06:20.500 --> 00:06:23.540] TROI: I would normally describe it as being terrified.
+[00:06:23.780 --> 00:06:24.500] Q: How rude.
+[00:06:25.300 --> 00:06:26.340] PICARD: what is it you want, Q?
+[00:06:27.300 --> 00:06:28.180] Q: Your compassion.
+[00:06:30.740 --> 00:06:31.220] Q: All right,
+[00:06:31.780 --> 00:06:33.060] Q: Sanctuary on this ship,
+[00:06:33.540 --> 00:06:35.380] Q: dreary as it may sound to both of us.
+[00:06:36.020 --> 00:06:37.460] PICARD: Return that moon to its orbit.
+[00:06:37.620 --> 00:06:39.460] Q: I have no powers.
+[00:06:39.940 --> 00:06:41.140] Q: Q the ordinary.
+[00:06:41.220 --> 00:06:42.100] PICARD: Q the liar.
+[00:06:42.100 --> 00:06:43.060] PICARD: Q the misanthrope.
+[00:06:43.060 --> 00:06:43.940] Q: Q the miserable.
+[00:06:43.940 --> 00:06:44.980] Q: Q the desperate.
+[00:06:45.220 --> 00:06:47.060] Q: What must I do to convince you people?
+[00:06:47.460 --> 00:06:47.460] WORF: Die.
+[00:06:50.100 --> 00:06:51.700] Q: Oh, very clever, Worf.
+[00:06:52.580 --> 00:06:53.780] Q: Eat any good books lately?
+[00:06:54.660 --> 00:06:54.900] PICARD: Fine.
+[00:06:55.940 --> 00:06:56.980] PICARD: You want to be treated as a human?
+[00:06:57.380 --> 00:06:58.020] Q: Absolutely.
+[00:06:58.260 --> 00:06:58.580] PICARD: All right.
+[00:06:59.220 --> 00:06:59.700] PICARD: Mister Worf,
+[00:07:00.420 --> 00:07:01.140] PICARD: throw him in the brig.
+[00:07:02.420 --> 00:07:03.300] WORF: Delighted, Captain.
+[00:07:05.060 --> 00:07:06.260] Q: You can't do this to me, Jean-Luc.
+[00:07:07.860 --> 00:07:09.460] WORF: You will walk or I will carry you.
+[00:07:10.100 --> 00:07:11.460] Q: Given the option, I'll walk.
+[00:07:13.220 --> 00:07:14.340] Q: You've disappointed me, Jean-Luc.
+[00:07:14.420 --> 00:07:15.380] Q: I'm very disappointed.
+[00:07:15.940 --> 00:07:16.900] Q: Hey, I'm claustrophobic,
+[00:07:16.900 --> 00:07:17.700] Q: I don't like it in here.
+[00:07:20.180 --> 00:07:20.980] Q: It was a mistake.
+[00:07:21.460 --> 00:07:22.740] Q: I never should have picked human.
+[00:07:23.140 --> 00:07:24.100] Q: I knew it the minute I said it.
+[00:07:24.980 --> 00:07:26.660] Q: To think of the future in this shell.
+[00:07:27.140 --> 00:07:30.660] Q: Forced to cover myself with fabric because of some outdated human morality.
+[00:07:31.286 --> 00:07:46.326] Q: To say nothing of being too hot or too cold, growing feeble with age, losing my hair, catching a disease, being ticklish, sneezing, having an itch, a pimple, bad breath.
+[00:07:48.806 --> 00:07:50.678] Q: Having to bathe.
+[00:07:50.678 --> 00:07:51.926] WORF: Too bad.
+[00:07:54.566 --> 00:07:56.566] Q: Klingon. I should have said Klingon.
+[00:07:57.126 --> 00:07:58.726] Q: In my heart of hearts, I am a Klingon,
+[00:07:58.726 --> 00:08:00.806] Q: Worf. Sorry.
+[00:08:01.926 --> 00:08:04.006] Q: So you understand I could never survive in confinement.
+[00:08:04.406 --> 00:08:06.406] Q: I mean, this is cruel and unusual punishment.
+[00:08:07.046 --> 00:08:08.566] Q: The universe has been my back yard.
+[00:08:09.446 --> 00:08:14.886] Q: As a fellow Klingon, if you would speak to the Captain on my behalf, I would be eternally grateful.
+[00:08:15.686 --> 00:08:17.126] Q: which doesn't mean as much as it used to,
+[00:08:17.126 --> 00:08:17.526] Q: I admit.
+[00:08:17.526 --> 00:08:18.406] WORF: Be quiet!
+[00:08:19.446 --> 00:08:20.006] WORF: Or disappear
+[00:08:20.006 --> 00:08:21.126] WORF: back where you came from.
+[00:08:21.126 --> 00:08:22.406] Q: I can't disappear
+[00:08:22.806 --> 00:08:24.806] Q: any more than you could win a beauty contest.
+[00:08:28.406 --> 00:08:34.006] Q: If I ask a very simple question, do you think you might be able to answer it without it troubling your intellect too much?
+[00:08:34.966 --> 00:08:35.286] Q: Ready?
+[00:08:35.846 --> 00:08:36.246] Q: Here goes.
+[00:08:36.806 --> 00:08:39.926] Q: Would I permit you to lock me away if I still had all my powers?
+[00:08:40.246 --> 00:08:41.766] WORF: You have fooled us too often, Q.
+[00:08:42.406 --> 00:08:45.206] Q: Perspicacity incarnate.
+[00:08:46.006 --> 00:08:49.206] Q: Please don't feel compelled now to tell me the story of the boy who cried Worf.
+[00:08:50.886 --> 00:08:52.646] WORF: Computer, activate force field.
+[00:08:55.126 --> 00:08:56.326] Q: I demand to be let out of here, immediately.
+[00:08:56.326 --> 00:08:56.806] Q: Do you hear me?
+[00:08:57.846 --> 00:09:00.486] Q: You will deactivate this cell immediately!
+[00:09:03.049 --> 00:09:03.929] Q: Romulan!
+[00:09:06.489 --> 00:09:09.209] Q: I should have said Romulan, that Klingon goat!
+[00:09:09.209 --> 00:09:14.489] PICARD: The question is, what sort of jaded game is he up to this time?
+[00:09:15.049 --> 00:09:16.169] RIKER: Maybe he just wants a big laugh.
+[00:09:16.169 --> 00:09:18.969] RIKER: He'll take Bre'el Four to the edge of disaster, and then pull the moon back.
+[00:09:21.769 --> 00:09:23.289] PICARD: Or he may have nothing to do with it at all.
+[00:09:24.809 --> 00:09:26.409] RIKER: You honestly think Q is telling the truth?
+[00:09:26.649 --> 00:09:27.049] PICARD: Oh, I agree
+[00:09:27.049 --> 00:09:31.529] PICARD: this is highly unlikely, but we have to proceed with our current dilemma as though Q is powerless to prevent it,
+[00:09:31.529 --> 00:09:31.769] PICARD: don't we?
+[00:09:32.009 --> 00:09:33.449] RIKER: And there he sits, and he watches us struggle.
+[00:09:33.529 --> 00:09:34.729] PICARD: I don't see that we have any choice.
+[00:09:36.009 --> 00:09:39.209] PICARD: Mister Worf, will you hail the Bre'el Four science station,
+[00:09:39.609 --> 00:09:40.809] WORF: They're standing by, Captain.
+[00:09:43.849 --> 00:09:44.969] GARIN: Yes, Captain Picard.
+[00:09:45.449 --> 00:09:50.809] PICARD: I'm sorry, but I have to report that our first attempt to restore the moon to its proper orbit has failed.
+[00:09:55.529 --> 00:09:58.169] GARIN: We have less than twenty five hours before impact, Captain.
+[00:09:59.129 --> 00:10:01.557] RIKER: Our Chief Engineer is working on ways to reinforce our tractor beam.
+[00:10:01.557 --> 00:10:02.569] PICARD: So there is a hope,
+[00:10:03.689 --> 00:10:05.689] PICARD: but if you have an evacuation plan
+[00:10:05.689 --> 00:10:09.689] GARIN: We have already started moving people from the coastal areas of the western continent.
+[00:10:10.009 --> 00:10:11.449] PICARD: We are going to make another attempt shortly.
+[00:10:11.449 --> 00:10:12.569] PICARD: Picard out.
+[00:10:14.329 --> 00:10:16.249] RIKER: I've got to tell you Geordi is not at all optimistic.
+[00:10:18.249 --> 00:10:18.969] PICARD: What the devil?
+[00:10:20.889 --> 00:10:21.049] RIKER: Data?
+[00:10:21.129 --> 00:10:26.249] DATA: Sensors are showing broadband emissions, including Berthold rays
+[00:10:26.249 --> 00:10:26.889] RIKER: Lethal?
+[00:10:28.065 --> 00:10:28.545] DATA: No, Commander.
+[00:10:29.025 --> 00:10:31.345] DATA: Overall exposure is less than seventy five rems.
+[00:10:31.425 --> 00:10:33.745] DATA: Very low intensity, more like a soft medical scan.
+[00:10:34.545 --> 00:10:35.985] DATA: I would speculate we are being probed.
+[00:10:36.945 --> 00:10:37.345] PICARD: By whom?
+[00:10:38.225 --> 00:10:40.385] DATA: The sensors cannot identify the point of origin.
+[00:10:40.865 --> 00:10:42.305] DATA: It seems to be coming from all around us.
+[00:11:06.945 --> 00:11:08.225] Q: Ah, you've come to apologise.
+[00:11:08.225 --> 00:11:08.705] Q: How nice.
+[00:11:09.745 --> 00:11:10.545] Q: All's forgiven.
+[00:11:10.945 --> 00:11:11.825] Q: No offense taken.
+[00:11:11.825 --> 00:11:12.145] PICARD: Enough.
+[00:11:12.545 --> 00:11:12.785] PICARD: Q,
+[00:11:13.265 --> 00:11:14.465] PICARD: what exactly is going on.
+[00:11:15.025 --> 00:11:16.305] Q: Well, how can I know what's going on?
+[00:11:16.865 --> 00:11:22.465] Q: I've been in this dungeon of yours, alone, helpless, bored to tears.
+[00:11:23.105 --> 00:11:29.105] PICARD: We have a moon inexplicably falling out of orbit, and just now this ship was probed with Berthold radiation.
+[00:11:29.905 --> 00:11:30.785] Q: I wasn't aware of this.
+[00:11:32.945 --> 00:11:38.705] Q: Truthfully, Jean-Luc. I have been entirely preoccupied by a most frightening experience of my own.
+[00:11:40.305 --> 00:11:41.345] Q: A couple of hours ago,
+[00:11:42.865 --> 00:11:45.345] Q: I realising that my body was no longer functioning properly.
+[00:11:45.985 --> 00:11:46.545] Q: I felt weak.
+[00:11:47.425 --> 00:11:48.625] Q: I could no longer stand.
+[00:11:49.425 --> 00:11:50.785] Q: The life was oozing out of me.
+[00:11:50.945 --> 00:11:52.145] Q: I lost consciousness.
+[00:11:52.945 --> 00:11:53.425] PICARD: You fell asleep.
+[00:11:54.080 --> 00:11:56.160] Q: Terrifying.
+[00:11:56.960 --> 00:11:58.560] Q: How can you stand it day after day?
+[00:11:59.680 --> 00:12:00.240] PICARD: You get used to it.
+[00:12:00.400 --> 00:12:01.920] Q: What other dangers await me?
+[00:12:03.200 --> 00:12:04.160] Q: I'm not prepared for this.
+[00:12:04.160 --> 00:12:04.800] Q: I need guidance.
+[00:12:05.600 --> 00:12:06.720] PICARD: Q, I'm not going to play along with this.
+[00:12:08.320 --> 00:12:10.560] PICARD: If you want to continue this charade, you can do it alone.
+[00:12:11.520 --> 00:12:12.320] Q: Jean-Luc, wait!
+[00:12:13.600 --> 00:12:15.440] Q: This is getting on my nerves,
+[00:12:15.440 --> 00:12:20.000] Q: now that I have them. You have a moon in a deteriorating orbit.
+[00:12:20.800 --> 00:12:24.400] Q: I've known moons through the universe. Big ones, small ones.
+[00:12:25.040 --> 00:12:25.600] Q: I'm an expert.
+[00:12:26.080 --> 00:12:28.720] Q: I could help you with this one, if you let me out of here.
+[00:12:30.000 --> 00:12:32.400] PICARD: Q, there are millions of lives at risk.
+[00:12:33.600 --> 00:12:35.695] PICARD: If you have the power to
+[00:12:35.695 --> 00:12:41.280] Q: I don't have any powers. But I have the knowledge, locked up in this puny brain.
+[00:12:43.520 --> 00:12:45.680] Q: You cannot afford to not take that advantage,
+[00:12:47.200 --> 00:12:48.520] Q: can you?
+[00:12:48.520 --> 00:12:49.840] PICARD: Mister Data,
+[00:12:50.400 --> 00:12:51.760] PICARD: report to detention cell three.
+[00:12:52.320 --> 00:12:52.880] DATA: On my way, sir.
+[00:12:57.440 --> 00:12:58.560] PICARD: Computer, remove the forcefield.
+[00:13:00.560 --> 00:13:05.600] PICARD: If you are human, which I seriously doubt, you will have to work hard to earn our trust.
+[00:13:06.560 --> 00:13:07.840] Q: I'm not worried about that, Jean-Luc.
+[00:13:08.400 --> 00:13:09.280] Q: You only dislike me.
+[00:13:10.000 --> 00:13:12.480] Q: There are others in the cosmos who truly despise me.
+[00:13:15.280 --> 00:13:19.760] PICARD: Mister Data, you are hereby assigned to Q for the remainder of his stay.
+[00:13:20.950 --> 00:13:22.950] PICARD: You will escort him to Mister La Forge in Engineering.
+[00:13:23.190 --> 00:13:23.510] DATA: Aye, sir.
+[00:13:23.990 --> 00:13:25.510] Q: Can I have a Starfleet uniform?
+[00:13:28.790 --> 00:13:29.590] Q: What are you looking at?
+[00:13:30.870 --> 00:13:34.790] DATA: I was considering the possibility that you are telling the truth, that you really are human.
+[00:13:35.270 --> 00:13:36.790] Q: It's the ghastly truth, Mister Data.
+[00:13:37.510 --> 00:13:39.190] Q: I can now stub my toe with the best of them.
+[00:13:39.990 --> 00:13:40.470] DATA: An irony.
+[00:13:41.110 --> 00:13:43.910] DATA: It means that you have achieved in disgrace what I have always aspired to
+[00:13:45.590 --> 00:13:47.590] DATA: be.
+[00:13:54.390 --> 00:13:56.630] Q: Humans are such commonplace little creatures.
+[00:13:57.270 --> 00:13:59.510] Q: They roam the galaxy looking for something, they know not what.
+[00:14:00.470 --> 00:14:05.190] DATA: The human race has an enduring desire for knowledge, and for new opportunities to improve itself.
+[00:14:05.350 --> 00:14:11.110] Q: There's certainly room for improvement, but the truth is, Data, they are a minor species in the grand scheme. Not worth your envy.
+[00:14:11.590 --> 00:14:12.630] DATA: Oh, I do not feel envy.
+[00:14:12.630 --> 00:14:13.190] Q: Well, that's good.
+[00:14:14.070 --> 00:14:14.950] DATA: I feel nothing at all.
+[00:14:16.470 --> 00:14:17.430] DATA: That is part of my dilemma.
+[00:14:18.310 --> 00:14:22.470] DATA: I have the curiosity of humans, but there are questions I will never have the answer to.
+[00:14:23.190 --> 00:14:27.830] DATA: What is it like to laugh, or cry, or to experience any human emotions.
+[00:14:29.670 --> 00:14:32.630] Q: Well, if you ask me, these human emotions are not what they're cracked up to be.
+[00:14:35.190 --> 00:14:37.430] LAFORGE: The moon will hit its perigee in ten hours.
+[00:14:37.510 --> 00:14:45.270] LAFORGE: Now, we match its trajectory, increase emitter coolant rate so we can apply continuous warp-equivalent power nine to the tractor beam.
+[00:14:45.270 --> 00:14:49.990] LAFORGE: We can push it for nearly seven hours and I think that just might do it. But,
+[00:14:50.664 --> 00:14:51.224] LAFORGE: there's a problem.
+[00:14:52.024 --> 00:14:54.264] DATA: The Enterprise will be dangerously close to the atmosphere.
+[00:14:54.744 --> 00:14:55.464] LAFORGE: That's the problem.
+[00:14:55.704 --> 00:14:56.424] Q: This is incredible.
+[00:14:56.904 --> 00:14:57.624] LAFORGE: You see something here, Q?
+[00:14:58.344 --> 00:14:59.304] Q: I think I just hurt my back.
+[00:15:00.264 --> 00:15:01.064] Q: I'm feeling pain.
+[00:15:02.104 --> 00:15:02.744] Q: I don't like it.
+[00:15:03.944 --> 00:15:04.824] Q: What's the right thing to say?
+[00:15:05.064 --> 00:15:05.304] Q: Ow?
+[00:15:06.584 --> 00:15:06.584] LAFORGE + DATA: Ow.
+[00:15:06.584 --> 00:15:06.824] Q: Ow!
+[00:15:09.144 --> 00:15:10.424] Q: I can't straighten up.
+[00:15:10.984 --> 00:15:12.520] DATA: Medical assistance to Engineering.
+[00:15:12.520 --> 00:15:12.904] LAFORGE: Q,
+[00:15:13.064 --> 00:15:15.384] LAFORGE: I've got a few people down on Bre'el Four who are going to be hurt
+[00:15:15.464 --> 00:15:16.344] Q: Yes, yes,
+[00:15:16.344 --> 00:15:19.944] Q: your marvellous plan will not only tear the moon to pieces but your precious ship as well.
+[00:15:20.104 --> 00:15:21.064] LAFORGE: You got a better idea?
+[00:15:21.944 --> 00:15:25.384] Q: I would certainly begin by examining the cause and not the symptom.
+[00:15:25.864 --> 00:15:26.904] LAFORGE: We've done that, Q,
+[00:15:26.904 --> 00:15:27.704] LAFORGE: and there's no way to
+[00:15:27.704 --> 00:15:33.624] Q: This is obviously the result of a large celestial object passing through at near right angles to the plane of the star system.
+[00:15:34.184 --> 00:15:35.304] Q: Probably a black hole.
+[00:15:35.544 --> 00:15:37.064] DATA: Can you recommend a way to counter the effect?
+[00:15:38.184 --> 00:15:38.584] Q: Simple.
+[00:15:38.984 --> 00:15:40.824] Q: Change the gravitational constant of the universe.
+[00:15:41.144 --> 00:15:41.384] LAFORGE: What?
+[00:15:42.024 --> 00:15:46.504] Q: Change the gravitational constant of the universe, thereby altering the mass of the asteroid.
+[00:15:46.504 --> 00:15:47.544] LAFORGE: Redefine gravity?
+[00:15:47.704 --> 00:15:49.064] LAFORGE: How am I supposed to do that?
+[00:15:49.064 --> 00:15:50.104] Q: You just do it.
+[00:15:51.064 --> 00:15:52.744] Q: Where's that Doctor, anyway?
+[00:15:53.384 --> 00:15:57.864] DATA: Geordi is trying to say that changing the gravitational constant of the universe is beyond our capabilities.
+[00:15:57.864 --> 00:15:58.184] Q: Oh.
+[00:15:59.944 --> 00:16:02.184] Q: In that case, never mind.
+[00:16:04.104 --> 00:16:04.824] Q: Ah,
+[00:16:05.144 --> 00:16:05.944] Q: Doctor Crusher.
+[00:16:06.904 --> 00:16:09.064] Q: I see Starfleet has shipped you back into exile.
+[00:16:09.544 --> 00:16:10.744] DATA: Q says he has hurt his back.
+[00:16:11.944 --> 00:16:12.424] CRUSHER: Ah ha.
+[00:16:18.344 --> 00:16:20.184] CRUSHER: Well, if I didn't see it with my own eyes, I wouldn't believe it.
+[00:16:21.464 --> 00:16:23.784] CRUSHER: According to this, he has classic back trauma.
+[00:16:24.195 --> 00:16:24.915] CRUSHER: Muscle spasms.
+[00:16:26.355 --> 00:16:27.715] Q: I've been under a lot of pressure lately.
+[00:16:28.355 --> 00:16:28.995] Q: Family problems.
+[00:16:29.555 --> 00:16:31.475] CRUSHER: Well. don't expect too much sympathy from me.
+[00:16:31.475 --> 00:16:33.635] CRUSHER: You've been a pain in our backside often enough.
+[00:16:35.955 --> 00:16:37.875] Q: Your bedside manner is admirable, Doctor.
+[00:16:37.875 --> 00:16:40.035] Q: I'm sure your patients recover quickly
+[00:16:40.355 --> 00:16:41.315] Q: just to get away from you.
+[00:16:44.035 --> 00:16:44.675] LAFORGE: You know, this might work.
+[00:16:45.715 --> 00:16:53.795] LAFORGE: We can't change the gravitational constant of the universe, but if we wrap a low level warp field around that moon, we could reduce its gravitational constant. Make it lighter so we can push it.
+[00:16:55.235 --> 00:16:55.875] Q: Glad I could help.
+[00:16:57.475 --> 00:16:57.875] Q: Ow.
+[00:16:57.875 --> 00:16:59.235] Q: I think.
+[00:17:00.515 --> 00:17:00.915] CRUSHER: Now what?
+[00:17:02.675 --> 00:17:03.875] Q: There's something wrong with my stomach.
+[00:17:04.675 --> 00:17:05.155] CRUSHER: It hurts?
+[00:17:06.115 --> 00:17:07.235] Q: It's making noises.
+[00:17:08.675 --> 00:17:09.795] CRUSHER: Maybe you're hungry.
+[00:17:11.795 --> 00:17:11.875] Q: I've
+[00:17:16.275 --> 00:17:17.075] Q: never eaten before.
+[00:17:17.075 --> 00:17:17.875] Q: What do I ask for?
+[00:17:18.515 --> 00:17:20.995] DATA: The choice of meal is determined by individual taste.
+[00:17:21.235 --> 00:17:21.795] Q: What do you like?
+[00:17:23.235 --> 00:17:30.195] DATA: Although I do not require sustenance, I occasionally ingest semi-organic nutrient suspension in a silicon-based liquid medium.
+[00:17:30.515 --> 00:17:30.995] Q: Is it good?
+[00:17:32.435 --> 00:17:36.995] DATA: It would be more accurate to say it is good for me, as it lubricates my bio-functions.
+[00:17:37.235 --> 00:17:38.275] Q: It doesn't sound very appealing.
+[00:17:38.275 --> 00:17:38.915] Q: What else is there?
+[00:17:39.475 --> 00:17:41.075] DATA: A wide variety of items.
+[00:17:41.475 --> 00:17:43.235] DATA: The replicator can make anything you desire.
+[00:17:44.595 --> 00:17:45.795] Q: How do I know what I desire?
+[00:17:48.195 --> 00:17:49.075] DATA: I have observed
+[00:17:49.558 --> 00:17:54.118] DATA: that the selection of food is often influenced by the mood of the person ordering.
+[00:17:54.598 --> 00:17:55.718] Q: I'm in a dreadful mood.
+[00:17:55.958 --> 00:17:56.918] Q: Get me something appropriate.
+[00:17:58.518 --> 00:18:02.358] DATA: When Counsellor Troi is unhappy, she usually eats something chocolate.
+[00:18:04.758 --> 00:18:05.078] Q: Chocolate?
+[00:18:05.558 --> 00:18:08.038] DATA: A chocolate sundae, for example.
+[00:18:08.758 --> 00:18:13.718] DATA: Although I do not speak from personal experience, I have seen it have a profound psychological impact.
+[00:18:15.958 --> 00:18:17.958] Q: I'll have ten chocolate sundaes.
+[00:18:18.198 --> 00:18:18.518] WAITRESS: Ten?
+[00:18:19.798 --> 00:18:22.598] DATA: I've never seen anyone eat ten chocolate sundaes.
+[00:18:22.998 --> 00:18:28.118] Q: I'm in a really bad mood, and since I've never eaten before, I should be very hungry.
+[00:18:32.598 --> 00:18:34.358] Q: This is not a moment I've been looking forward to.
+[00:18:44.998 --> 00:18:47.318] GUINAN: I hear they drummed you out of the Continuum.
+[00:18:48.278 --> 00:18:50.758] Q: I like to think of it as a significant career change.
+[00:18:51.798 --> 00:18:53.078] GUINAN: Just one of the boys, ay?
+[00:18:53.398 --> 00:18:56.758] Q: One of the boys with an IQ of two thousand and five.
+[00:18:58.198 --> 00:19:01.158] DATA: The Captain and many of the crew are not yet convinced he is truly human.
+[00:19:02.998 --> 00:19:03.558] GUINAN: Really?
+[00:19:03.708 --> 00:19:04.308] Q: Argh!
+[00:19:12.518 --> 00:19:13.718] GUINAN: Seems human enough to me.
+[00:19:16.038 --> 00:19:17.318] Q: This is a dangerous creature.
+[00:19:17.318 --> 00:19:18.358] Q: You have no idea.
+[00:19:18.776 --> 00:19:21.096] Q: Why Picard would make her a member of the crew and not me
+[00:19:21.096 --> 00:19:28.536] GUINAN: It must be terribly frightening for you, to be totally defenceless after all of those centuries being omnipotent.
+[00:19:28.696 --> 00:19:29.416] Q: I'm warning you.
+[00:19:29.416 --> 00:19:31.096] Q: I still have friends in high places.
+[00:19:31.336 --> 00:19:39.496] GUINAN: Frightening one race after the other, teasing them like frightened animals, and you enjoying every moment of your victims fears.
+[00:19:39.576 --> 00:19:41.096] Q: From now on I'll do missionary work,
+[00:19:41.176 --> 00:19:41.656] Q: okay?
+[00:19:43.016 --> 00:19:44.616] DATA: That would be a most noble cause, Q.
+[00:19:45.176 --> 00:19:46.456] GUINAN: You could learn a lot from this one.
+[00:19:46.776 --> 00:19:49.416] Q: Sure, the robot who teaches the course in humanities.
+[00:19:49.976 --> 00:19:51.576] DATA: I am an android, not a robot.
+[00:19:51.896 --> 00:19:52.776] Q: I beg your pardon.
+[00:19:52.856 --> 00:19:55.096] GUINAN: I'd enjoy that, and you'd better get used to it.
+[00:19:55.656 --> 00:19:56.056] Q: What?
+[00:19:56.216 --> 00:19:56.696] GUINAN: Begging.
+[00:19:57.256 --> 00:19:58.936] GUINAN: You're a pitiful excuse for a human.
+[00:19:59.176 --> 00:20:01.736] GUINAN: The only way you're going to survive is by the charity of others.
+[00:20:01.886 --> 00:20:02.486] Q: I'm
+[00:20:12.376 --> 00:20:14.216] Q: not hungry.
+[00:20:16.776 --> 00:20:19.656] WORF: Captain, sensors are picking up a cloud of energetic plasma.
+[00:20:19.736 --> 00:20:21.976] WORF: Bearing, three-four one mark two zero.
+[00:20:22.136 --> 00:20:24.216] WORF: Range, twelve kilometres and closing.
+[00:20:25.336 --> 00:20:25.816] PICARD: On screen.
+[00:20:31.416 --> 00:20:33.576] WORF: Energy patterns are reading as highly organized.
+[00:20:34.536 --> 00:20:35.096] RIKER: A lifeform?
+[00:20:36.936 --> 00:20:38.216] PICARD: Attempt to make contact, Mister Worf.
+[00:20:39.256 --> 00:20:40.136] WORF: Receiving a signal, sir.
+[00:20:40.776 --> 00:20:41.256] WORF: On speaker.
+[00:20:43.736 --> 00:20:44.936] RIKER: Computer, analyse signal
+[00:20:45.176 --> 00:20:47.176] COMPUTER: Signal patterns indicate intelligence.
+[00:20:47.730 --> 00:20:51.650] COMPUTER: Unable to derive necessary referents to establish translation matrix.
+[00:20:59.730 --> 00:21:00.263] VOICES: What's that? I don't know.
+[00:21:00.263 --> 00:21:00.370] GUINAN: Calamarain.
+[00:21:08.050 --> 00:21:13.170] WORF: Captain, we're being hit by a field of energetic tachyons penetrating the hull.
+[00:21:13.650 --> 00:21:14.770] WORF: Location,
+[00:21:14.770 --> 00:21:15.890] WORF: deck ten, forward.
+[00:21:16.050 --> 00:21:16.450] PICARD: Red alert.
+[00:21:17.250 --> 00:21:18.930] RIKER: Geordi, increase power to shields.
+[00:21:19.410 --> 00:21:20.690] LAFORGE: Increasing power by twenty percent
+[00:21:22.450 --> 00:21:22.930] WORF: No effect
+[00:21:23.650 --> 00:21:24.610] LAFORGE: Increasing to forty percent.
+[00:21:26.130 --> 00:21:26.770] WORF: Still no effect
+[00:21:35.810 --> 00:21:39.250] LAFORGE: Adjusting shield harmonics, diverting power to the forward grids.
+[00:21:40.210 --> 00:21:44.210] WORF: The added harmonics are blocking the tachyon field.
+[00:21:44.210 --> 00:21:46.210] Q: Help
+[00:21:48.370 --> 00:21:48.690] Q: me!
+[00:21:49.250 --> 00:21:50.770] Q: Somebody, help me!
+[00:21:52.370 --> 00:21:53.170] GUINAN: How the mighty have fallen.
+[00:21:57.810 --> 00:21:58.930] LOG: Captain's log, supplemental.
+[00:21:59.170 --> 00:22:03.650] LOG: We have sustained light damage from an attack by an alien species known as the Calamarain.
+[00:22:04.370 --> 00:22:06.290] LOG: They apparently have a grievance with Q.
+[00:22:07.250 --> 00:22:09.410] LOG: No doubt one of many lifeforms that do.
+[00:22:09.970 --> 00:22:12.690] Q: The Calamarain are not very hospitable creatures.
+[00:22:13.170 --> 00:22:15.890] Q: They exist as swirls of ionised gas.
+[00:22:16.130 --> 00:22:16.930] PICARD: What did you do to them,
+[00:22:16.991 --> 00:22:17.711] PICARD: Q?
+[00:22:17.711 --> 00:22:19.151] Q: Nothing bizarre,
+[00:22:20.911 --> 00:22:21.791] Q: nothing grotesque.
+[00:22:22.351 --> 00:22:23.391] RIKER: You tormented them.
+[00:22:24.511 --> 00:22:25.951] Q: A subjective term, Riker.
+[00:22:26.591 --> 00:22:28.831] Q: One creature's torment, is another creature's delight.
+[00:22:29.311 --> 00:22:30.591] Q: They simply have no sense of humour,
+[00:22:31.391 --> 00:22:34.591] Q: a character flaw with which you can personally identify.
+[00:22:35.231 --> 00:22:36.271] RIKER: I say we turn him over to them.
+[00:22:36.911 --> 00:22:37.871] Q: Oh, I take it back.
+[00:22:38.031 --> 00:22:38.991] Q: You do have a sense of humour.
+[00:22:38.991 --> 00:22:39.631] Q: A dreadful one at that.
+[00:22:39.631 --> 00:22:41.711] RIKER: I'm serious.
+[00:22:42.511 --> 00:22:43.151] PICARD: Of course.
+[00:22:43.631 --> 00:22:47.151] PICARD: You knew this would happen, didn't you?
+[00:22:47.391 --> 00:22:49.151] Q: One can never anticipate the Calamarain.
+[00:22:49.151 --> 00:22:51.711] Q: They're very intelligent, but very flighty.
+[00:22:51.951 --> 00:22:54.991] PICARD: Yes, but you must have so many enemies.
+[00:22:55.711 --> 00:23:00.351] PICARD: Certainly you knew that once you became mortal some of them might look you up.
+[00:23:02.511 --> 00:23:03.231] Q: It had occurred to me.
+[00:23:03.711 --> 00:23:09.871] PICARD: And for all your protestations of friendship, your real reason for being here is protection.
+[00:23:12.751 --> 00:23:13.871] Q: You're very smart, Jean-Luc,
+[00:23:15.071 --> 00:23:16.911] Q: but I know human beings.
+[00:23:17.311 --> 00:23:20.271] Q: They're all sopping over with compassion and forgiveness.
+[00:23:20.911 --> 00:23:24.511] Q: They can't wait to absolve almost any offence.
+[00:23:25.311 --> 00:23:26.911] Q: It's an inherent weakness in the breed.
+[00:23:27.151 --> 00:23:28.831] PICARD: On the contrary, it is a strength.
+[00:23:29.231 --> 00:23:34.351] Q: You call it what you will, but I think you'll protect me even though I've tortured you now and again.
+[00:23:34.591 --> 00:23:37.711] RIKER: Fighting off all the species you've insulted would be a full time mission.
+[00:23:37.871 --> 00:23:39.151] RIKER: That's not the one I signed up for.
+[00:23:39.631 --> 00:23:40.031] PICARD: Indeed.
+[00:23:41.391 --> 00:23:42.991] PICARD: Human or not, I want no part of you.
+[00:23:43.951 --> 00:23:45.871] PICARD: We will deposit you at the first starbase.
+[00:23:45.871 --> 00:23:46.671] PICARD: Let them deal with you.
+[00:23:47.551 --> 00:23:49.631] Q: But I could be a valuable member of the team.
+[00:23:50.111 --> 00:23:50.671] Q: I'm human,
+[00:23:50.911 --> 00:23:51.551] Q: I can learn.
+[00:23:52.264 --> 00:23:56.664] DATA: He has provided important theoretical guidance for Geordi's analysis of the Bre'el satellite, Captain.
+[00:23:57.064 --> 00:23:58.664] TROI: It seems you have an advocate, Q.
+[00:24:00.344 --> 00:24:01.784] DATA: I am merely stating a fact, Counsellor.
+[00:24:03.703 --> 00:24:03.864] PICARD: Mister La
+[00:24:03.864 --> 00:24:04.904] PICARD: Forge, your
+[00:24:04.904 --> 00:24:05.064] PICARD: status?
+[00:24:05.064 --> 00:24:08.824] LAFORGE: I've been putting together a programme to extend the forward lobe of the warp field.
+[00:24:09.304 --> 00:24:14.264] LAFORGE: The field coils Aren't designed to envelop such a large volume. But I'm attempting to modify their alignment parameters.
+[00:24:14.584 --> 00:24:16.824] DATA: Maintaining field integrity will be difficult, Geordi.
+[00:24:17.223 --> 00:24:19.064] LAFORGE: I'm pretty sure we can do it manually.
+[00:24:19.624 --> 00:24:22.584] LAFORGE: The moon will come to its perigee in fourteen minutes.
+[00:24:23.144 --> 00:24:23.384] PICARD: Mister
+[00:24:23.384 --> 00:24:26.024] PICARD: Data, you will escort Q to Engineering.
+[00:24:26.024 --> 00:24:26.824] PICARD: You will assist Mister
+[00:24:26.824 --> 00:24:27.223] PICARD: La Forge.
+[00:24:27.943 --> 00:24:28.104] PICARD: Mister
+[00:24:28.104 --> 00:24:30.824] PICARD: Worf, hail the Bre'el Four science station.
+[00:24:31.064 --> 00:24:31.223] WORF: Aye,
+[00:24:35.064 --> 00:24:35.064] WORF: sir.
+[00:24:35.544 --> 00:24:37.784] Q: Picard thinks I can't cut it on his starship.
+[00:24:38.183 --> 00:24:40.584] Q: I can do anything his little trained minions can do.
+[00:24:41.384 --> 00:24:43.624] DATA: I do not perceive your skills to be in doubt, Q.
+[00:24:44.104 --> 00:24:48.824] DATA: The Captain is more concerned with your ability to interact successfully with his little trained minions.
+[00:24:49.864 --> 00:24:52.824] DATA: Human interpersonal relationships are more complex.
+[00:24:53.304 --> 00:24:55.943] DATA: Your experiences may not have adequately prepared you.
+[00:24:56.744 --> 00:24:59.144] Q: I'm not interested in human interpersonal relationships.
+[00:24:59.703 --> 00:25:01.784] Q: I just want to prove to Picard that I'm indispensable.
+[00:25:05.223 --> 00:25:05.223] DATA: Engineering.
+[00:25:05.703 --> 00:25:05.703] DATA: To
+[00:25:07.463 --> 00:25:12.664] DATA: function aboard a starship, or in any human activity, you must learn to form relationships.
+[00:25:13.703 --> 00:25:14.503] Q: It's so hard.
+[00:25:15.064 --> 00:25:18.503] DATA: And of more immediate importance is your ability to work within groups.
+[00:25:19.232 --> 00:25:20.192] Q: I'm not good in groups.
+[00:25:21.472 --> 00:25:23.472] Q: It's difficult working in a group when you're omnipotent.
+[00:25:24.672 --> 00:25:28.992] GARIN: The tides reached ten metres on the last orbit.
+[00:25:29.072 --> 00:25:30.592] GARIN: They are already beginning to swell again.
+[00:25:31.712 --> 00:25:34.352] GARIN: We have a lot of frightened people down here, Captain.
+[00:25:34.992 --> 00:25:37.072] PICARD: Your moon has begun moving toward its perigee.
+[00:25:37.152 --> 00:25:38.352] PICARD: We're prepared to make our attempt.
+[00:25:38.832 --> 00:25:48.192] SCIENTIST: Our population has already taken shelter, but I'm afraid no shelter will be adequate if you fail. Especially for the people on the western continent.
+[00:25:49.872 --> 00:25:53.072] GARIN: Whatever the results, we know you've done your best, Picard.
+[00:25:55.392 --> 00:25:56.272] GARIN: It's appreciated.
+[00:25:57.312 --> 00:25:58.352] PICARD: We'll keep you advised, Doctor.
+[00:25:58.752 --> 00:25:59.445] PICARD: Picard out.
+[00:25:59.445 --> 00:25:59.792] WORF: Captain,
+[00:26:00.352 --> 00:26:03.065] WORF: sensors are picking up an increased energy output from the Calamarain.
+[00:26:03.065 --> 00:26:03.312] LAFORGE: La
+[00:26:04.512 --> 00:26:05.392] LAFORGE: Forge to Bridge.
+[00:26:06.352 --> 00:26:08.592] LAFORGE: The moon has reached its minimum orbital distance.
+[00:26:09.072 --> 00:26:09.872] LAFORGE: It's time, Captain.
+[00:26:10.352 --> 00:26:11.312] RIKER: We'll have to lower shields.
+[00:26:11.872 --> 00:26:12.272] PICARD: Proceed.
+[00:26:13.072 --> 00:26:15.792] PICARD: Mister Worf, keep a close eye on Q's friends out there.
+[00:26:16.592 --> 00:26:17.072] WORF: Understood.
+[00:26:20.992 --> 00:26:21.792] Q: All right, everyone,
+[00:26:21.792 --> 00:26:22.992] Q: this is what we're going to be doing.
+[00:26:23.232 --> 00:26:23.552] LAFORGE: Q,
+[00:26:23.712 --> 00:26:25.872] LAFORGE: everybody already knows what they're going to do, except for you,
+[00:26:26.432 --> 00:26:27.072] LAFORGE: Now here's what I need.
+[00:26:27.312 --> 00:26:27.792] Q: La Forge,
+[00:26:27.952 --> 00:26:32.752] Q: obviously my knowledge and experience far exceed yours by about a billion times.
+[00:26:33.072 --> 00:26:35.032] Q: So, if you'll just step aside gracefully.
+[00:26:35.032 --> 00:26:39.792] LAFORGE: Q, your experience will be most valuable to me if you can manually control the field integrity.
+[00:26:40.032 --> 00:26:40.752] Q: Don't be foolish.
+[00:26:40.912 --> 00:26:42.352] Q: That would be a waste of my talents.
+[00:26:42.512 --> 00:26:44.592] LAFORGE: Q, get to the controls or get the hell out of here.
+[00:26:46.501 --> 00:26:49.781] LAFORGE: Data, you're my liaison to the Bridge.
+[00:26:49.781 --> 00:26:50.421] LAFORGE: I'll need you with me.
+[00:26:52.181 --> 00:26:54.101] Q: Who does he think he is, giving me orders.
+[00:26:54.901 --> 00:26:57.941] DATA: Geordi thinks he is in command here, and he is correct.
+[00:27:02.661 --> 00:27:05.701] RIKER: Engineering, holding at station keeping, range six hundred and forty metres.
+[00:27:06.181 --> 00:27:07.861] DATA: Containment fields to flight tolerance.
+[00:27:08.421 --> 00:27:10.021] DATA: Warp core to ninety percent.
+[00:27:10.581 --> 00:27:11.781] LAFORGE: Engage field coils.
+[00:27:11.941 --> 00:27:12.901] LAFORGE: Tractor beam to stand by.
+[00:27:13.781 --> 00:27:14.421] LAFORGE: Field output?
+[00:27:16.181 --> 00:27:16.901] LAFORGE: Field output?
+[00:27:18.261 --> 00:27:19.141] Q: Two seventeen.
+[00:27:19.861 --> 00:27:21.221] LAFORGE: Impulse engines to full.
+[00:27:23.541 --> 00:27:24.821] LAFORGE: Ready to engage tractor beam.
+[00:27:25.381 --> 00:27:26.101] RIKER: Lowering shields.
+[00:27:26.261 --> 00:27:27.221] RIKER: Engage tractor beam.
+[00:27:31.701 --> 00:27:33.061] LAFORGE: Extending warp field forward.
+[00:27:34.021 --> 00:27:35.301] PICARD: Engineering, is that the forward limit?
+[00:27:35.621 --> 00:27:36.181] DATA: Yes, Captain.
+[00:27:36.661 --> 00:27:38.501] DATA: We are unable to encompass the entire moon.
+[00:27:38.981 --> 00:27:39.861] PICARD: Do you recommend that we proceed?
+[00:27:40.501 --> 00:27:42.901] Q: The two parts of the moon will have different inertial densities.
+[00:27:42.901 --> 00:27:44.341] LAFORGE: Stand by, Captain.
+[00:27:45.861 --> 00:27:47.621] LAFORGE: I can adjust the field symmetry to compensate.
+[00:27:47.781 --> 00:27:48.421] Q: I doubt it.
+[00:27:48.661 --> 00:27:50.021] LAFORGE: You don't know what this ship can do, Mister.
+[00:27:51.461 --> 00:27:52.021] LAFORGE: Yes, Captain,
+[00:27:52.501 --> 00:27:53.541] LAFORGE: I still believe it'll work.
+[00:27:53.621 --> 00:27:56.501] LAFORGE: Increasing power and warp field and tractor beam.
+[00:27:56.581 --> 00:27:59.861] Q: And if you're wrong, the moon will crumble due to subspace compression.
+[00:27:59.861 --> 00:28:00.821] Q: Don't say I didn't warn you.
+[00:28:00.821 --> 00:28:01.781] LAFORGE: Shut up, Q.
+[00:28:01.861 --> 00:28:03.941] Q: I will not be spoken to in this manner!
+[00:28:04.501 --> 00:28:05.081] LAFORGE: Data.
+[00:28:05.081 --> 00:28:09.141] DATA: Q, I strongly suggest that you cooperate.
+[00:28:13.301 --> 00:28:17.941] DATA: Inertial mass of the moon is decreasing to approximately two point five million metric tonnes.
+[00:28:18.501 --> 00:28:18.821] LAFORGE: It's working.
+[00:28:19.885 --> 00:28:20.605] LAFORGE: We can move it.
+[00:28:21.325 --> 00:28:22.685] LAFORGE: Firing impulse engines.
+[00:28:25.965 --> 00:28:28.125] DATA: Captain, the moon's trajectory has moved
+[00:28:28.125 --> 00:28:29.005] DATA: point three percent.
+[00:28:29.885 --> 00:28:30.925] DATA: Point-four percent.
+[00:28:31.725 --> 00:28:32.205] WORF: Emergency!
+[00:28:32.285 --> 00:28:32.765] WORF: Shields up.
+[00:28:33.565 --> 00:28:34.605] RIKER: Disengage tractor beam.
+[00:28:35.005 --> 00:28:35.805] WORF: Calamarain attacking.
+[00:28:38.525 --> 00:28:39.085] WORF: Shields holding.
+[00:28:40.205 --> 00:28:41.165] WORF: Tachyon field repelled.
+[00:28:41.485 --> 00:28:44.125] LAFORGE: Captain, the impact of the blast is pushing us into the upper atmosphere.
+[00:28:49.885 --> 00:28:50.765] DATA: Hull temperature rising.
+[00:28:51.165 --> 00:28:51.965] DATA: Two thousand degrees.
+[00:28:52.365 --> 00:28:54.045] DATA: Two thousand five hundred degrees.
+[00:28:54.045 --> 00:28:55.405] LAFORGE: Moving to full impulse power.
+[00:28:55.805 --> 00:28:56.925] WORF: Calamarain resuming attack.
+[00:29:01.325 --> 00:29:02.445] WORF: They've overpowered the shields.
+[00:29:02.765 --> 00:29:04.605] WORF: Hull penetration, deck thirty six, Engineering.
+[00:29:05.245 --> 00:29:07.245] RIKER: Geordi, can you direct any more power to the shields?
+[00:29:07.485 --> 00:29:10.045] LAFORGE: We need all the power we have to get out of the atmosphere, Commander.
+[00:29:19.645 --> 00:29:23.085] LAFORGE: Try activating the structural integrity field.
+[00:29:23.085 --> 00:29:23.245] LAFORGE: It's
+[00:29:29.405 --> 00:29:29.965] LAFORGE: not working.
+[00:29:30.125 --> 00:29:31.645] LAFORGE: Structural field harmonics on manual.
+[00:29:32.445 --> 00:29:34.445] RIKER: La Forge.
+[00:29:34.685 --> 00:29:35.565] RIKER: Hull temperature falling.
+[00:29:35.565 --> 00:29:36.045] RIKER: We're in the clear.
+[00:29:36.845 --> 00:29:38.365] LAFORGE: Diverting power to forward sections
+[00:29:40.205 --> 00:29:40.205] LAFORGE: now.
+[00:29:54.762 --> 00:29:56.762] LAFORGE: That charge nearly knocked out his positronic net.
+[00:29:57.882 --> 00:29:58.682] RIKER: What can you do for him?
+[00:29:59.162 --> 00:30:01.802] LAFORGE: We can try to discharge and reset the motor pathways,
+[00:30:02.282 --> 00:30:03.642] LAFORGE: recouple the autonomic nodes.
+[00:30:04.522 --> 00:30:06.282] CRUSHER: There's overpressure in his fluidic systems.
+[00:30:06.922 --> 00:30:07.642] CRUSHER: Thermal shock.
+[00:30:07.962 --> 00:30:09.082] CRUSHER: If he was mortal, he'd be dead.
+[00:30:09.962 --> 00:30:12.442] Q: Let us not overstate the matter here, Doctor.
+[00:30:12.522 --> 00:30:14.042] Q: I'm mortal and I survived. The
+[00:30:17.162 --> 00:30:18.282] Q: cheers are overwhelming.
+[00:30:18.762 --> 00:30:21.082] PICARD: Q, you exceed your own standards of self-preoccupation.
+[00:30:21.962 --> 00:30:24.362] PICARD: You have no concern for an officer who may have saved your life.
+[00:30:25.082 --> 00:30:25.642] Q: He's strong,
+[00:30:25.642 --> 00:30:26.362] Q: he'll survive.
+[00:30:27.162 --> 00:30:28.682] LAFORGE: Osmotic pressure still rising.
+[00:30:29.082 --> 00:30:30.522] LAFORGE: Maybe we can by-pass the flow regulator.
+[00:30:31.562 --> 00:30:33.802] CRUSHER: It would be helpful if everybody just got out of here now.
+[00:30:38.362 --> 00:30:39.082] PICARD: Stay with Q.
+[00:30:39.232 --> 00:30:43.172] LAFORGE: We'll let you know as soon as there's anything to tell you.
+[00:30:43.322 --> 00:30:45.722] RIKER: Geordi? The moon's trajectory?
+[00:30:47.402 --> 00:30:50.282] LAFORGE: All we did was buy ourselves another orbit, at most.
+[00:30:50.922 --> 00:30:52.842] LAFORGE: We can try again when the moon comes back to its perigee.
+[00:30:53.082 --> 00:30:55.642] RIKER: And when we drop our shields, the Calamarains go after Q again.
+[00:30:55.882 --> 00:30:58.042] LAFORGE: Commander, he's not worth it.
+[00:31:06.202 --> 00:31:06.522] PICARD: Come.
+[00:31:10.522 --> 00:31:11.402] Q: You're right, of course.
+[00:31:12.122 --> 00:31:13.482] Q: I am extraordinarily selfish.
+[00:31:14.232 --> 00:31:16.712] Q: But it has served me so well in the past.
+[00:31:17.272 --> 00:31:18.552] PICARD: It will not serve you here.
+[00:31:20.072 --> 00:31:21.512] Q: Don't be so hard on me, Jean-Luc.
+[00:31:22.072 --> 00:31:23.192] Q: You've been a mortal all your life.
+[00:31:23.192 --> 00:31:24.392] Q: You know all about dying.
+[00:31:25.192 --> 00:31:28.792] Q: I've never given it a second thought. Or a first one, for that matter.
+[00:31:30.552 --> 00:31:31.352] Q: I could have been killed.
+[00:31:32.952 --> 00:31:36.072] Q: If it hadn't been for Data and that one brief delay he created,
+[00:31:36.072 --> 00:31:37.192] Q: I would have been gone.
+[00:31:38.072 --> 00:31:39.512] Q: No more me.
+[00:31:41.032 --> 00:31:42.472] Q: And no one would have missed me, would they?
+[00:31:47.032 --> 00:31:48.872] Q: Data may have sacrificed himself for me.
+[00:31:49.512 --> 00:31:49.992] Q: Why?
+[00:31:51.192 --> 00:31:52.552] PICARD: That is his special nature.
+[00:31:53.752 --> 00:31:55.912] PICARD: He learned the lessons of humanity well.
+[00:31:56.872 --> 00:32:02.472] Q: When I ask myself if I would have done the same for him, And I am forced to answer no,
+[00:32:03.992 --> 00:32:04.632] Q: I feel,
+[00:32:06.232 --> 00:32:07.272] Q: I feel ashamed.
+[00:32:08.232 --> 00:32:08.472] PICARD: Q,
+[00:32:08.712 --> 00:32:10.312] PICARD: I'm not your father confessor.
+[00:32:10.552 --> 00:32:12.872] PICARD: You will receive no absolution from me.
+[00:32:13.592 --> 00:32:22.392] PICARD: You have brought nothing but pain and suffering to this crew. And I'm still not entirely convinced that all this isn't your latest attempt at a puerile joke.
+[00:32:23.192 --> 00:32:25.832] Q: It is a joke. A joke on me. The joke of the universe.
+[00:32:26.712 --> 00:32:27.992] Q: The king who would be man.
+[00:32:29.192 --> 00:32:34.312] Q: As I learn more and more what it is to be human, I am more and more convinced that I would never make a good one.
+[00:32:34.552 --> 00:32:35.912] Q: I don't have what it takes.
+[00:32:37.192 --> 00:32:39.112] Q: Without my powers, I'm frightened of everything.
+[00:32:41.112 --> 00:32:41.752] Q: I'm a coward,
+[00:32:43.112 --> 00:32:43.912] Q: and I'm miserable,
+[00:32:46.594 --> 00:32:47.794] Q: and I can't go on this way.
+[00:32:59.794 --> 00:33:00.754] CRUSHER: He's going to be all right.
+[00:33:02.994 --> 00:33:05.074] LAFORGE: We're recalibrating his language circuits, so he can't talk yet.
+[00:33:09.314 --> 00:33:14.274] Q: There are creatures in the universe who would consider you the ultimate achievement, android.
+[00:33:15.474 --> 00:33:22.994] Q: No feelings, no emotions, no pain. And yet you covet those qualities of humanity.
+[00:33:24.434 --> 00:33:25.634] Q: Believe me, you're missing nothing.
+[00:33:29.234 --> 00:33:32.514] Q: But if it means anything to you, you're a better human than I.
+[00:33:44.754 --> 00:33:45.714] Q: Where's the main shuttlebay?
+[00:33:45.954 --> 00:33:47.954] COMPUTER: Main shuttlebay is located on deck four.
+[00:33:48.194 --> 00:33:48.754] Q: Take me there.
+[00:33:51.074 --> 00:33:51.314] WORF: Captain,
+[00:33:51.794 --> 00:33:53.874] WORF: an unscheduled shuttle has just been launched.
+[00:33:55.554 --> 00:33:56.034] PICARD: On main viewer.
+[00:34:02.274 --> 00:34:02.834] PICARD: Hailing frequency.
+[00:34:03.234 --> 00:34:04.434] WORF: Frequencies open.
+[00:34:06.034 --> 00:34:07.634] PICARD: Shuttle occupant, identify yourself.
+[00:34:08.914 --> 00:34:10.354] Q: Don't try to talk me out of it, Jean-Luc.
+[00:34:10.994 --> 00:34:12.354] PICARD: Q, return to the ship immediately.
+[00:34:12.671 --> 00:34:15.515] Q: I just can't get used to following orders.
+[00:34:15.515 --> 00:34:15.871] WORF: Captain,
+[00:34:17.071 --> 00:34:18.831] WORF: the plasma cloud is moving toward the shuttle.
+[00:34:19.231 --> 00:34:20.831] Q: It's easier this way.
+[00:34:20.831 --> 00:34:23.071] Q: They won't bother you after I'm gone.
+[00:34:23.711 --> 00:34:25.551] RIKER: Engineering, prepare to extend shields.
+[00:34:25.791 --> 00:34:31.311] Q: Please, don't fall back on your tired cliché of charging to the rescue just in the nick of time.
+[00:34:31.871 --> 00:34:33.311] Q: I don't want to be rescued.
+[00:34:34.031 --> 00:34:36.751] Q: My life as a human being has been a dismal failure.
+[00:34:37.151 --> 00:34:39.231] Q: Perhaps my death will have a little dignity.
+[00:34:39.951 --> 00:34:42.111] PICARD: Q, there is no dignity in this suicide.
+[00:34:42.591 --> 00:34:43.551] Q: Yes, I suppose you're right.
+[00:34:43.631 --> 00:34:45.151] Q: Death of a coward, then. So be it.
+[00:34:46.591 --> 00:34:49.231] Q: But as a human, I would have died of boredom.
+[00:35:05.471 --> 00:35:07.151] PICARD: This goes against my better judgment.
+[00:35:08.911 --> 00:35:11.951] PICARD: Transporter room three, lock on to shuttle one. Beam it back into it's bay.
+[00:35:12.271 --> 00:35:12.751] CREWMAN: Aye, Captain.
+[00:35:16.111 --> 00:35:17.231] PICARD: It's a perfectly good shuttlecraft.
+[00:35:18.191 --> 00:35:19.711] CREWMAN: Captain, unable to transport.
+[00:35:20.111 --> 00:35:21.951] CREWMAN: For some reason, I can't lock on to the shuttlecraft.
+[00:35:21.951 --> 00:35:25.311] RIKER: Worf, are you sensing any sort of interference from the Calamarain?
+[00:35:25.631 --> 00:35:25.951] WORF: No, sir,
+[00:35:26.271 --> 00:35:27.791] WORF: but they are still moving toward the shuttle.
+[00:35:28.111 --> 00:35:30.111] RIKER: Geordi, extend shields around shuttle one.
+[00:35:30.671 --> 00:35:31.791] LAFORGE: Extending shields.
+[00:35:33.151 --> 00:35:34.351] LAFORGE: Commander, the shields are frozen.
+[00:35:34.991 --> 00:35:35.471] RIKER: Cause?
+[00:35:37.871 --> 00:35:38.431] LAFORGE: Unknown.
+[00:35:38.991 --> 00:35:40.191] RIKER: Lock on tractor beam.
+[00:35:42.671 --> 00:35:44.271] LAFORGE: Tractor beam is not functioning either.
+[00:35:44.911 --> 00:35:46.351] RIKER: What the hell is going on?
+[00:35:46.941 --> 00:35:47.981] Q2: Not bad, Q.
+[00:35:52.061 --> 00:35:52.701] Q2: Not great.
+[00:35:56.461 --> 00:35:59.581] Q2: But not bad.
+[00:35:59.581 --> 00:36:00.621] Q: Q!
+[00:36:03.261 --> 00:36:04.861] Q2: Sacrificing yourself for these humans?
+[00:36:05.661 --> 00:36:08.381] Q2: Do I detect a little selfless act?
+[00:36:08.941 --> 00:36:09.661] Q: You flatter me.
+[00:36:10.221 --> 00:36:13.581] Q: I was only trying to put a quick end to a miserable existence.
+[00:36:14.541 --> 00:36:16.701] Q2: What a dreadful colour.
+[00:36:16.861 --> 00:36:17.501] Q: Yeah.
+[00:36:18.381 --> 00:36:19.261] Q: What are you doing here?
+[00:36:20.061 --> 00:36:22.541] Q2: I've been keeping track of you.
+[00:36:22.941 --> 00:36:24.461] Q: I always felt you were in my corner.
+[00:36:24.621 --> 00:36:27.661] Q2: Actually, I was the one who got you kicked out.
+[00:36:28.701 --> 00:36:29.981] Q2: You know, you're incorrigible, Q.
+[00:36:29.981 --> 00:36:30.781] Q2: A lost cause.
+[00:36:30.781 --> 00:36:36.861] Q2: I can't go to a single solar system without having to apologise for you, and I'm tired of it.
+[00:36:37.101 --> 00:36:40.701] Q: I wasn't the one who misplaced the entire Deltived asteroid belt.
+[00:36:40.701 --> 00:36:42.301] Q2: Hey, this isn't about me.
+[00:36:42.941 --> 00:36:44.061] Q2: I've got better places to be.
+[00:36:44.861 --> 00:36:53.421] Q2: But somebody had to keep an eye on you to make sure you still didn't find a way to cause trouble. Even as a member of this limited species.
+[00:36:54.781 --> 00:36:57.101] Q: Well, I hope I've been entertaining you.
+[00:36:58.941 --> 00:36:59.421] Q2: Barely.
+[00:37:00.781 --> 00:37:03.901] Q2: But I find these humans rather interesting.
+[00:37:03.901 --> 00:37:06.061] Q2: I'm beginning to understand what you see in them.
+[00:37:06.301 --> 00:37:09.101] Q2: After all the things that you've done, they're still intent on keeping you safe.
+[00:37:10.061 --> 00:37:11.821] Q: A genetic weakness of the race.
+[00:37:12.061 --> 00:37:12.941] Q2: And they're still at it.
+[00:37:13.732 --> 00:37:18.772] Q2: They just tried to beam you up, back, whatever it is they call it.
+[00:37:18.852 --> 00:37:19.172] Q: Really?
+[00:37:20.212 --> 00:37:20.772] Q2: I stopped them.
+[00:37:21.972 --> 00:37:25.252] Q: Well, if the Calamarains hurry up and finish me off, we can get you back on your way.
+[00:37:25.252 --> 00:37:27.092] Q2: Afraid I had to put them on hold too.
+[00:37:27.092 --> 00:37:30.692] Q2: You see, there's still this matter of the selfless act.
+[00:37:33.092 --> 00:37:39.812] Q2: You and I both know that the Calamarain would have eventually destroyed the Enterprise to get to you. And that's really why you left, right?
+[00:37:41.412 --> 00:37:41.652] Q: It was a
+[00:37:41.972 --> 00:37:43.252] Q: teeny bit selfless, wasn't it?
+[00:37:43.252 --> 00:37:44.852] Q2: And there's my problem.
+[00:37:44.852 --> 00:37:48.532] Q2: See, I can't back to the Continuum and tell them you committed a selfless act just before the end.
+[00:37:48.532 --> 00:37:50.452] Q2: If I do there's going to be questions
+[00:37:50.452 --> 00:37:52.692] Q2: and explanations for centuries.
+[00:37:53.092 --> 00:37:54.852] Q: I've learned my lesson, Q.
+[00:37:55.332 --> 00:37:56.532] Q2: Remember who you're talking to.
+[00:37:57.892 --> 00:37:59.812] Q2: All knowing, all seeing.
+[00:38:05.012 --> 00:38:05.652] Q2: Fine,
+[00:38:06.772 --> 00:38:08.212] Q2: you got your powers back.
+[00:38:09.892 --> 00:38:11.252] Q2: Try and stay out of trouble.
+[00:38:18.292 --> 00:38:20.532] Q: So they wanted to destroy me, did they?
+[00:38:24.932 --> 00:38:30.901] Q: If you think I tormented you in the past, my little friends, wait until you see what I do with you now.
+[00:38:30.901 --> 00:38:31.172] Q2: Q?
+[00:38:33.492 --> 00:38:35.732] Q: I was just seeing if you were still watching.
+[00:38:39.986 --> 00:38:43.906] DATA: Captain, the aliens have disappeared, and so has the shuttle.
+[00:38:44.386 --> 00:38:45.106] RIKER: Scan the sector.
+[00:38:45.666 --> 00:38:46.146] DATA: I have, sir.
+[00:38:47.666 --> 00:38:51.746] PICARD: Well, I suppose that is the end of Q.
+[00:38:54.146 --> 00:38:54.146] Q: Au
+[00:38:55.826 --> 00:38:58.306] Q: contraire, mon capitaine!
+[00:38:59.106 --> 00:39:01.106] Q: He's back!
+[00:39:02.386 --> 00:39:03.106] Q: I'm
+[00:39:17.026 --> 00:39:17.346] Q: forgiven.
+[00:39:18.706 --> 00:39:21.346] Q: My brothers and sisters of the Continuum have taken me back.
+[00:39:21.666 --> 00:39:25.026] Q: I'm immortal again. Omnipotent again.
+[00:39:25.346 --> 00:39:25.986] RIKER: Swell.
+[00:39:26.546 --> 00:39:27.986] Q: Don't fret, Riker.
+[00:39:28.146 --> 00:39:30.226] Q: My good fortune is your good fortune.
+[00:39:34.706 --> 00:39:36.066] RIKER: I don't need your fantasy women.
+[00:39:36.706 --> 00:39:37.746] Q: Oh, you're so stolid, Commander.
+[00:39:38.306 --> 00:39:39.586] Q: You weren't like that before the beard.
+[00:39:42.946 --> 00:39:43.506] Q: Very well.
+[00:39:48.866 --> 00:39:49.026] PICARD: Q!
+[00:39:49.986 --> 00:39:51.506] Q: But I feel like celebrating.
+[00:39:51.746 --> 00:39:53.746] PICARD: I don't.
+[00:39:53.986 --> 00:39:54.706] Q: All right.
+[00:39:59.906 --> 00:40:00.386] PICARD: All of it.
+[00:40:06.866 --> 00:40:09.036] PICARD: Now, at the risk of being rude.
+[00:40:09.036 --> 00:40:09.346] Q: Yes,
+[00:40:09.426 --> 00:40:11.026] Q: once again I've overstayed my welcome.
+[00:40:11.266 --> 00:40:16.306] Q: As a human, I was ill-equipped to thank you, but as myself you have my everlasting gratitude.
+[00:40:17.106 --> 00:40:18.146] Q: Until next time.
+[00:40:19.266 --> 00:40:27.346] Q: Ah, but before I go, there's a debt I wish to repay to my professor of the humanities. Data,
+[00:40:27.426 --> 00:40:30.466] Q: I've decided to give you something very, very special.
+[00:40:31.266 --> 00:40:32.946] DATA: If your intention is to make me human, Q.
+[00:40:32.946 --> 00:40:34.066] Q: No, no, no, no, no, no.
+[00:40:34.386 --> 00:40:36.226] Q: I would never curse you by making you human.
+[00:40:37.186 --> 00:40:37.586] Q: Think of it
+[00:40:39.266 --> 00:40:40.866] Q: as a going away present.
+[00:40:57.000 --> 00:40:59.000] [laughter]
+[00:41:09.986 --> 00:41:10.146] LAFORGE: Data?
+[00:41:10.146 --> 00:41:11.026] LAFORGE: Data, why are you laughing?
+[00:41:12.866 --> 00:41:13.026] DATA: I
+[00:41:21.666 --> 00:41:22.306] DATA: do not know.
+[00:41:26.146 --> 00:41:27.026] DATA: But it was a wonderful
+[00:41:28.706 --> 00:41:29.026] DATA: feeling.
+[00:41:30.386 --> 00:41:30.786] WORF: Captain,
+[00:41:32.306 --> 00:41:33.826] WORF: Bre'el Four is hailing us.
+[00:41:34.366 --> 00:41:35.166] PICARD: On screen, Lieutenant.
+[00:41:36.926 --> 00:41:38.766] GARIN: Captain Picard you've done it
+[00:41:38.846 --> 00:41:41.166] PICARD: I'm sorry?
+[00:41:41.806 --> 00:41:44.206] SCIENTIST: The moon. It's back to its normal orbit.
+[00:41:45.006 --> 00:41:46.206] SCIENTIST: How ever you did it,
+[00:41:46.766 --> 00:41:47.086] SCIENTIST: thank you.
+[00:41:51.326 --> 00:41:51.966] RIKER: Let's see it, Worf.
+[00:41:59.006 --> 00:42:00.206] PICARD: Mister Data, your analysis?
+[00:42:00.926 --> 00:42:03.246] DATA: The moon's altitude is fifty five thousand kilometres.
+[00:42:03.486 --> 00:42:04.926] DATA: Projected orbit is circular.
+[00:42:05.566 --> 00:42:07.086] DATA: There is no further danger to the planet.
+[00:42:14.286 --> 00:42:14.606] PICARD: Ensign,
+[00:42:16.206 --> 00:42:17.966] PICARD: set course for Station Nigala Four.
+[00:42:18.606 --> 00:42:18.926] ENSIGN: Aye, sir.
+[00:42:23.966 --> 00:42:30.846] PICARD: Perhaps there's a residue of humanity in Q after all.
+[00:42:34.526 --> 00:42:34.766] PICARD: Ensign,
+[00:42:36.366 --> 00:42:36.446] PICARD: en
+[00:42:37.326 --> 00:42:38.606] Q: Don't bet on it, Picard.
+[00:42:47.000 --> 00:42:57.000] [music]
+[00:43:09.000 --> 00:43:18.000] [music]
