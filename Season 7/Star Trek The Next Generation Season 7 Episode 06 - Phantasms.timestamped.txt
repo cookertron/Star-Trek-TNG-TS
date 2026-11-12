@@ -1,0 +1,594 @@
+[00:00:11.280 --> 00:00:12.080] LAFORGE: Data, there you are.
+[00:00:12.560 --> 00:00:14.480] LAFORGE: We need to install that plasma conduit right away.
+[00:00:14.720 --> 00:00:16.960] LAFORGE: We're bringing the new warp core online in less than three hours.
+[00:00:17.200 --> 00:00:19.120] DATA: I will go to deck twenty and begin modifications.
+[00:00:19.280 --> 00:00:19.440] LAFORGE: Great.
+[00:00:19.520 --> 00:00:21.120] LAFORGE: I'll meet you in Engineering as soon as you're finished there.
+[00:00:25.840 --> 00:00:27.840] LAFORGE: This ought to be a lot of fun.
+[00:00:49.040 --> 00:00:49.680] DATA: Excuse me.
+[00:00:51.200 --> 00:00:53.120] DATA: Do you have authorisation to work in this area?
+[00:00:56.080 --> 00:00:58.240] DATA: You are dismantling a warp plasma conduit.
+[00:00:58.400 --> 00:01:00.400] DATA: I must ask you to stop.
+[00:01:02.320 --> 00:01:03.280] WORKMAN: Be
+[00:01:06.000 --> 00:01:06.080] WORKMAN: quiet!
+[00:01:57.615 --> 00:02:00.095] PICARD: Space, the final frontier.
+[00:02:02.015 --> 00:02:04.895] PICARD: These are the voyages of the starship Enterprise.
+[00:02:06.015 --> 00:02:14.015] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:15.615 --> 00:02:18.575] PICARD: to boldly go where no one has gone before.
+[00:03:14.537 --> 00:03:17.737] LOG: Captain's log, stardate 47225.7.
+[00:03:18.377 --> 00:03:21.897] LOG: Commander La Forge has completed the installation of our new warp core.
+[00:03:22.457 --> 00:03:24.537] LOG: We are preparing to test its capabilities.
+[00:03:26.617 --> 00:03:26.937] RIKER: Something
+[00:03:30.297 --> 00:03:30.617] RIKER: wrong, sir?
+[00:03:30.617 --> 00:03:33.657] PICARD: I just got a message from Starfleet command.
+[00:03:34.617 --> 00:03:35.097] RIKER: Bad news?
+[00:03:36.137 --> 00:03:36.857] PICARD: You could say that.
+[00:03:38.457 --> 00:03:42.217] PICARD: I've been invited to the annual Starfleet Admiral's banquet.
+[00:03:43.577 --> 00:03:44.537] RIKER: My condolences.
+[00:03:46.777 --> 00:03:50.777] PICARD: I've managed to avoid it for the past six years, but now it would seem my luck has run out.
+[00:03:50.927 --> 00:03:51.527] PICARD: I
+[00:03:53.657 --> 00:03:55.257] PICARD: can't think of anything more tedious.
+[00:03:56.297 --> 00:04:03.337] PICARD: Fifty Admirals shaking hands, making dull conversation, uninteresting food, boring speeches.
+[00:04:04.137 --> 00:04:05.577] RIKER: Can't you think of some excuse to get out of it?
+[00:04:06.697 --> 00:04:07.817] PICARD: After six years, Number One,
+[00:04:07.817 --> 00:04:10.857] PICARD: I don't think I have any excuses left.
+[00:04:15.737 --> 00:04:17.737] DATA: Geordi, have you ever had a nightmare?
+[00:04:18.297 --> 00:04:19.017] LAFORGE: Yeah, sure, Data.
+[00:04:19.657 --> 00:04:20.937] LAFORGE: Everybody does from time to time.
+[00:04:22.057 --> 00:04:26.057] DATA: I have had one hundred eleven dreams since I first discovered this programme nine months ago.
+[00:04:26.884 --> 00:04:30.484] DATA: In all of that time, I have never experienced such strange and disturbing imagery.
+[00:04:31.524 --> 00:04:32.724] DATA: I believe it was a nightmare.
+[00:04:33.284 --> 00:04:34.884] LAFORGE: Nightmares are part of dreaming, Data.
+[00:04:35.684 --> 00:04:37.524] LAFORGE: Maybe you've just discovered another new level to your programme.
+[00:04:38.644 --> 00:04:39.204] DATA: Perhaps.
+[00:04:50.644 --> 00:04:55.204] DATA: I have also noted that I am spending an inordinate amount of time thinking about nightmare imagery.
+[00:04:56.324 --> 00:04:58.244] DATA: One could almost say I am preoccupied.
+[00:04:59.044 --> 00:05:00.724] LAFORGE: Well, it's perfectly normal, Data.
+[00:05:01.444 --> 00:05:04.484] LAFORGE: Sometimes when I have a nightmare, I can't shake that weird feeling for a couple of days.
+[00:05:04.484 --> 00:05:05.444] TYLER: Commander La Forge?
+[00:05:06.884 --> 00:05:08.040] LAFORGE: Speaking of nightmares.
+[00:05:08.040 --> 00:05:11.124] TYLER: I just finished recalibrating the starboard EPS module.
+[00:05:11.684 --> 00:05:12.324] LAFORGE: That's great, Ensign.
+[00:05:12.324 --> 00:05:12.724] LAFORGE: Thank you.
+[00:05:13.044 --> 00:05:14.164] TYLER: It's just like you said.
+[00:05:14.404 --> 00:05:17.444] TYLER: Reset the power tap and the module came right online.
+[00:05:18.244 --> 00:05:20.964] TYLER: You have such a wonderful grasp of engineering principles.
+[00:05:21.524 --> 00:05:23.124] TYLER: I'm learning so much just by being around you.
+[00:05:25.604 --> 00:05:26.164] LAFORGE: I'll tell you what.
+[00:05:26.484 --> 00:05:29.284] LAFORGE: Why don't you help Farrell check the deuterium cartridges.
+[00:05:29.524 --> 00:05:31.124] LAFORGE: I'm just about to bring the warp core online.
+[00:05:31.124 --> 00:05:31.364] LAFORGE: All right?
+[00:05:32.004 --> 00:05:32.644] TYLER: Anything you say.
+[00:05:36.164 --> 00:05:40.804] DATA: Geordi, you do not seem to appreciate Ensign Tyler's enthusiasm.
+[00:05:41.444 --> 00:05:42.564] LAFORGE: She's enthusiastic all right.
+[00:05:43.204 --> 00:05:43.924] LAFORGE: About me.
+[00:05:48.164 --> 00:05:49.044] DATA: I do not understand.
+[00:05:49.844 --> 00:05:51.524] LAFORGE: She's got a crush on me, Data.
+[00:05:53.764 --> 00:05:55.284] DATA: You do not share her affection?
+[00:05:55.433 --> 00:05:56.073] LAFORGE: Exactly.
+[00:05:56.313 --> 00:06:00.313] LAFORGE: And quite frankly, it's beginning to get a little bit uncomfortable.
+[00:06:00.393 --> 00:06:00.473] DATA: I
+[00:06:02.473 --> 00:06:03.513] DATA: believe I understand.
+[00:06:04.393 --> 00:06:07.993] DATA: You are concerned about unintentionally hurting Ensign Tyler's feelings.
+[00:06:08.233 --> 00:06:09.033] LAFORGE: Yeah, something like
+[00:06:10.953 --> 00:06:10.953] LAFORGE: that.
+[00:06:14.313 --> 00:06:17.353] DATA: It would appear that you require a third party to intervene on your behalf.
+[00:06:18.393 --> 00:06:19.433] DATA: I will be happy to speak to her.
+[00:06:19.673 --> 00:06:20.393] LAFORGE: No, Data!
+[00:06:21.273 --> 00:06:22.313] LAFORGE: I'll take care of it myself.
+[00:06:23.033 --> 00:06:23.513] LAFORGE: Thanks.
+[00:06:25.833 --> 00:06:26.153] DATA: Geordi,
+[00:06:27.513 --> 00:06:31.109] DATA: when I first awoke from my nightmare, there was a brief moment when I
+[00:06:31.109 --> 00:06:32.393] PICARD: Bridge to Commander La Forge.
+[00:06:33.113 --> 00:06:33.833] PICARD: What's our status?
+[00:06:34.553 --> 00:06:36.233] LAFORGE: We're ready to bring the new core online, Captain.
+[00:06:36.713 --> 00:06:37.193] LAFORGE: Stand by.
+[00:06:48.953 --> 00:06:49.353] LAFORGE: All right,
+[00:06:50.953 --> 00:06:51.353] LAFORGE: let's do it.
+[00:06:53.993 --> 00:06:56.873] LAFORGE: Initializing deuterium infusion sequence.
+[00:07:01.353 --> 00:07:02.313] LAFORGE: It's a thing of beauty, isn't it?
+[00:07:06.873 --> 00:07:10.473] LAFORGE: Now let's see how fast she can run.
+[00:07:10.873 --> 00:07:11.833] LAFORGE: La Forge to Bridge.
+[00:07:12.473 --> 00:07:13.993] LAFORGE: Warp power at your discretion, Captain.
+[00:07:14.793 --> 00:07:15.273] PICARD: Acknowledged.
+[00:07:16.953 --> 00:07:19.833] PICARD: Ensign Gates, set course for Starbase two nineteen,
+[00:07:19.833 --> 00:07:20.393] PICARD: warp six.
+[00:07:22.313 --> 00:07:22.713] PICARD: Engage.
+[00:07:27.134 --> 00:07:27.694] PICARD: Engage.
+[00:07:32.174 --> 00:07:34.254] PICARD: Bridge to Engineering. Mister La Forge,
+[00:07:34.494 --> 00:07:35.854] PICARD: why isn't my ship Moving?
+[00:07:36.174 --> 00:07:36.974] LAFORGE: I'm on it, sir.
+[00:07:36.974 --> 00:07:42.574] LAFORGE: There's a warp plasma conduit out of alignment, but I think I've got it fixed now.
+[00:07:43.854 --> 00:07:44.334] LAFORGE: Ready, sir.
+[00:07:45.214 --> 00:07:46.654] PICARD: Very well. Ensign Gates?
+[00:07:47.134 --> 00:07:49.214] PICARD: Mister La
+[00:07:56.094 --> 00:07:56.734] PICARD: Forge?
+[00:07:57.134 --> 00:07:58.014] LAFORGE: Stand by, Captain.
+[00:07:58.574 --> 00:08:00.814] DATA: Captain, I am taking the warp-coil engines offline.
+[00:08:03.214 --> 00:08:06.334] LAFORGE: La Forge to Bridge.
+[00:08:06.734 --> 00:08:10.894] LAFORGE: I'm sorry, sir, but we're going to have to reconfigure this plasma conduit.
+[00:08:10.894 --> 00:08:13.774] LAFORGE: It's going to take at least a couple of hours, sir.
+[00:08:35.774 --> 00:08:36.094] DATA: Enter.
+[00:08:39.854 --> 00:08:40.494] TROI: Hello, Data.
+[00:08:41.774 --> 00:08:42.174] DATA: Counsellor.
+[00:08:45.134 --> 00:08:45.694] TROI: What are you doing?
+[00:08:46.894 --> 00:08:48.254] DATA: I have been watching Spot sleep.
+[00:08:49.231 --> 00:08:53.471] DATA: In the past fifteen minutes, he has had twelve muscles spasms, which indicates he was dreaming.
+[00:08:54.671 --> 00:08:56.831] DATA: I have often wondered what Spot dreams about.
+[00:08:57.631 --> 00:09:01.231] DATA: His twitching and his rapid breathing would seem to suggest anxiety, but
+[00:09:02.271 --> 00:09:05.471] DATA: Spot has never seen a mouse or any other form of rodentia.
+[00:09:06.351 --> 00:09:09.391] DATA: He has never encountered an insect, or been chased by a canine.
+[00:09:10.271 --> 00:09:13.231] TROI: I understand you've had some interesting dreams recently.
+[00:09:14.431 --> 00:09:18.031] TROI: Geordi was worried about you and he wanted me to check in and see how you were doing.
+[00:09:19.071 --> 00:09:20.111] DATA: That was very thoughtful of him.
+[00:09:21.471 --> 00:09:24.463] DATA: I've been debating whether or not to initiate another dream sequence.
+[00:09:24.463 --> 00:09:25.551] TROI: Because of the nightmares?
+[00:09:26.031 --> 00:09:27.071] DATA: I have found them to be quite
+[00:09:29.391 --> 00:09:29.951] DATA: unsettling.
+[00:09:31.471 --> 00:09:36.031] TROI: Data, you shouldn't be afraid of dark imagery in your dreams.
+[00:09:36.911 --> 00:09:39.071] TROI: It's a natural expression of your unconscious,
+[00:09:39.631 --> 00:09:52.831] TROI: if you have an unconscious. I'm not really sure how your positronic brain works but if it's anything like ours, then there's part of you that's trying to express itself through your dream state. And I think you should allow yourself to experience it.
+[00:09:54.031 --> 00:09:59.071] TROI: As Sigmund Freud said, dreams are the royal road to the knowledge of the mind.
+[00:10:02.831 --> 00:10:03.551] DATA: Thank you, Counsellor.
+[00:10:03.551 --> 00:10:06.511] DATA: I believe I will initiate a dream programme now.
+[00:10:08.191 --> 00:10:09.231] TROI: Let me know how it goes.
+[00:10:10.031 --> 00:10:10.591] TROI: Goodnight, Data.
+[00:10:11.151 --> 00:10:11.791] DATA: Goodnight, Counsellor.
+[00:10:14.591 --> 00:10:15.231] DATA: Goodnight, Spot.
+[00:10:31.823 --> 00:10:33.743] DATA: Computer, dim lights.
+[00:10:33.893 --> 00:10:34.493] WORF: Mmm.
+[00:11:25.423 --> 00:11:27.423] WORF: Delicious.
+[00:11:28.223 --> 00:11:29.343] DATA: What kind of cake are you eating?
+[00:11:31.663 --> 00:11:36.303] WORF: It is cellular peptide cake with mint frosting.
+[00:11:37.183 --> 00:11:37.823] WORF: Would you like a bite?
+[00:11:38.783 --> 00:11:39.183] DATA: No, thank you.
+[00:11:43.903 --> 00:11:44.783] DATA: Excuse me, Mister Worf.
+[00:11:55.391 --> 00:11:57.809] RIKER: Aren't you going to answer that, Mister Data?
+[00:11:57.809 --> 00:11:58.111] DATA: Sir?
+[00:11:58.671 --> 00:11:59.711] RIKER: That damn ringing.
+[00:11:59.951 --> 00:12:00.831] RIKER: Answer it, will you?
+[00:12:03.471 --> 00:12:03.711] DATA: Yes, sir.
+[00:12:10.911 --> 00:12:12.191] DATA: Please identify yourselves.
+[00:12:15.631 --> 00:12:17.151] DATA: I must know what you are trying to
+[00:12:19.311 --> 00:12:19.711] WORKMAN: Be quiet!
+[00:12:33.311 --> 00:12:35.391] TROI: Please, don't hurt me, Data.
+[00:12:38.031 --> 00:12:38.991] DATA: I am sorry, Counsellor.
+[00:12:39.871 --> 00:12:41.071] TROI: No! Don't!
+[00:12:41.711 --> 00:12:44.111] TROI: No! No! Data!
+[00:12:44.111 --> 00:12:44.111] TROI: Data!
+[00:12:44.511 --> 00:12:46.431] TROI: Data!
+[00:12:57.071 --> 00:12:57.631] DATA: What is wrong?
+[00:12:58.191 --> 00:13:00.351] TROI: We've been trying to wake you up for the last five minutes.
+[00:13:00.911 --> 00:13:02.911] LAFORGE: When you didn't show up on time in Engineering, I got worried.
+[00:13:05.391 --> 00:13:08.191] DATA: My internal chronometer was supposed to wake me thirty five minutes ago.
+[00:13:10.671 --> 00:13:11.151] WORF: You must have
+[00:13:11.251 --> 00:13:11.891] WORF: overslept.
+[00:13:14.291 --> 00:13:15.091] DATA: That is not possible.
+[00:13:17.971 --> 00:13:18.851] DATA: Something is wrong.
+[00:13:23.331 --> 00:13:26.531] LAFORGE: I can't find anything wrong with your internal time base.
+[00:13:27.011 --> 00:13:29.411] LAFORGE: As far as I can tell, your primary systems check out fine.
+[00:13:29.971 --> 00:13:32.531] DATA: I will compare my autonomic logs with the ship's chronometer.
+[00:13:33.011 --> 00:13:34.051] DATA: Perhaps we have overlooked something.
+[00:13:40.451 --> 00:13:46.371] LAFORGE: You know, Data, there's an awful lot we don't know about your dream programme.
+[00:13:47.251 --> 00:13:49.331] LAFORGE: Maybe it was designed to cause side effects.
+[00:13:50.051 --> 00:13:53.571] LAFORGE: I mean, for all we know, Doctor Soong might have intended for you to oversleep from time to time.
+[00:13:54.131 --> 00:13:55.171] LAFORGE: It's part of the human experience.
+[00:13:55.971 --> 00:13:57.011] DATA: It is a possibility.
+[00:13:57.651 --> 00:14:00.691] DATA: However, I would prefer to make certain there are no anomalies in my neural net.
+[00:14:01.811 --> 00:14:03.011] LAFORGE: You know, I'm curious.
+[00:14:03.811 --> 00:14:05.411] LAFORGE: What were you dreaming about when we woke you up?
+[00:14:09.171 --> 00:14:11.011] DATA: I have not fully assimilated its impact.
+[00:14:12.451 --> 00:14:14.931] DATA: I would prefer to study the images further before discussing them.
+[00:14:17.251 --> 00:14:18.851] LAFORGE: Sounds like it must have been pretty strange.
+[00:14:19.491 --> 00:14:23.891] DATA: Strange is not a sufficient adjective to describe the experience.
+[00:14:27.651 --> 00:14:30.211] FREUD: Tell me more about this cake.
+[00:14:32.451 --> 00:14:33.731] DATA: It is difficult to explain.
+[00:14:34.371 --> 00:14:37.171] DATA: Counsellor Troi's body was a cake.
+[00:14:37.731 --> 00:14:39.251] FREUD: Her upper body.
+[00:14:39.891 --> 00:14:44.211] FREUD: Describe the knife you used to cut the Counsellor.
+[00:14:45.191 --> 00:14:49.271] DATA: It had a black handle and a serrated blade, and it was quite long.
+[00:14:49.831 --> 00:14:50.711] FREUD: How long?
+[00:14:51.111 --> 00:14:52.711] DATA: Twenty five centimetres in length.
+[00:14:53.431 --> 00:14:56.151] FREUD: And what happened next?
+[00:14:56.871 --> 00:14:59.431] DATA: One of the workmen pointed to her right shoulder.
+[00:15:00.471 --> 00:15:05.431] DATA: At that moment, I had an overwhelming urge to cut a piece out of the cake.
+[00:15:06.071 --> 00:15:06.951] FREUD: And did you?
+[00:15:07.431 --> 00:15:07.831] DATA: Yes.
+[00:15:08.871 --> 00:15:13.111] DATA: As I began slicing the cake, she reacted as though I was causing her pain.
+[00:15:14.231 --> 00:15:15.431] DATA: Yet I could not stop cutting.
+[00:15:17.831 --> 00:15:18.631] DATA: That is when I woke up.
+[00:15:20.551 --> 00:15:23.031] DATA: Doctor Freud, I am curious.
+[00:15:23.031 --> 00:15:23.831] DATA: I
+[00:15:28.391 --> 00:15:29.191] DATA: am curious.
+[00:15:30.311 --> 00:15:31.511] DATA: What do my nightmares mean?
+[00:15:37.511 --> 00:15:50.871] FREUD: I believe you are experiencing a classic dismemberment dream. Or in your case, being a mechanical man, a dismantlement dream.
+[00:15:51.751 --> 00:15:52.791] DATA: I do not understand.
+[00:15:53.271 --> 00:16:05.271] FREUD: Your mechanistic qualities are trying to reassert themselves over your human tendencies. Ego and id struggling for domination.
+[00:16:06.631 --> 00:16:13.751] FREUD: The workmen symbolise the ever present id constantly working to destroy the ego.
+[00:16:14.631 --> 00:16:17.671] FREUD: Now the image of Counsellor Troi,
+[00:16:18.257 --> 00:16:27.217] FREUD: a female, is devoured by you, clearly indicating an unconscious desire to possess your own mother.
+[00:16:28.817 --> 00:16:29.777] DATA: But I do not have a mother.
+[00:16:30.177 --> 00:16:31.937] FREUD: Do not interrupt.
+[00:16:33.137 --> 00:16:41.537] FREUD: The knife in its violent connotation suggests a certain feeling of sexual inadequacy.
+[00:16:42.497 --> 00:16:43.937] DATA: but I have no sexual desire.
+[00:16:44.177 --> 00:16:47.137] FREUD: Ach! Impotence on top of everything.
+[00:16:47.777 --> 00:16:50.017] FREUD: It is all becoming clear to me now.
+[00:16:52.497 --> 00:16:54.417] FREUD: There might be a paper in this.
+[00:16:56.817 --> 00:16:58.977] DATA: I do not believe I am being helped by this session.
+[00:16:59.857 --> 00:17:02.257] FREUD: Classic transference.
+[00:17:02.817 --> 00:17:08.337] FREUD: Your anger toward me is, in fact, the animosity you feel toward your father.
+[00:17:08.817 --> 00:17:16.817] FREUD: You are a polymorphously perverse individual, Mister Data, and I recommend full psychoanalysis.
+[00:17:17.217 --> 00:17:20.977] FREUD: I believe I can fit you in next Tuesday.
+[00:17:22.977 --> 00:17:24.097] DATA: That will not be necessary.
+[00:17:24.497 --> 00:17:26.097] DATA: Computer, end programme.
+[00:17:26.497 --> 00:17:26.657] WORF: Captain,
+[00:17:41.457 --> 00:17:42.257] WORF: incoming message from Admiral Nakamura.
+[00:17:45.543 --> 00:17:46.023] PICARD: On screen.
+[00:17:48.583 --> 00:17:49.223] PICARD: Admiral.
+[00:17:49.703 --> 00:17:50.103] NAKAMURA: Captain.
+[00:17:51.703 --> 00:17:53.623] NAKAMURA: We were expecting you this morning.
+[00:17:54.583 --> 00:17:55.623] NAKAMURA: Is there a problem?
+[00:17:56.663 --> 00:18:04.743] PICARD: Actually, we have been experiencing a few minor difficulties with our new warp core, but my Chief Engineer assures me that we will be under way within the hour.
+[00:18:06.103 --> 00:18:09.863] NAKAMURA: You're not trying to avoid this particular engagement, are you, Picard?
+[00:18:10.103 --> 00:18:11.623] PICARD: No, no, certainly not.
+[00:18:11.623 --> 00:18:13.703] PICARD: I'm really looking forward to it.
+[00:18:14.663 --> 00:18:15.143] NAKAMURA: Good.
+[00:18:16.583 --> 00:18:17.783] NAKAMURA: I'll expect you soon.
+[00:18:18.823 --> 00:18:19.463] NAKAMURA: Nakamura out.
+[00:18:21.623 --> 00:18:22.423] RIKER: I think he's on to you, sir.
+[00:18:24.263 --> 00:18:24.423] LAFORGE: La Forge to Bridge.
+[00:18:24.423 --> 00:18:26.103] PICARD: Go ahead, Geordi.
+[00:18:26.583 --> 00:18:27.863] LAFORGE: We've just started it up, Captain.
+[00:18:28.423 --> 00:18:29.943] LAFORGE: All systems are holding steady.
+[00:18:30.183 --> 00:18:31.143] LAFORGE: Ready when you are, sir.
+[00:18:31.463 --> 00:18:32.103] PICARD: Ensign Gates,
+[00:18:33.863 --> 00:18:37.143] PICARD: set a course and engage.
+[00:18:39.623 --> 00:18:44.823] PICARD: Engineering, report.
+[00:18:44.823 --> 00:18:47.543] DATA: The warp field has collapsed, sir.
+[00:18:48.423 --> 00:18:51.703] LAFORGE: It looks like we've blown the entire power converter, Captain.
+[00:18:52.583 --> 00:18:54.023] LAFORGE: Impulse engines are down too.
+[00:18:54.663 --> 00:18:55.783] LAFORGE: We're not going anywhere.
+[00:18:56.663 --> 00:18:58.263] LAFORGE: But I know just how to fix this.
+[00:18:58.263 --> 00:19:00.343] LAFORGE: Give me two, three hours, tops.
+[00:19:00.493 --> 00:19:01.493] LAFORGE: Now what?
+[00:19:02.023 --> 00:19:03.543] RIKER: Talk about going nowhere fast.
+[00:19:05.303 --> 00:19:05.703] PICARD: Mister Worf,
+[00:19:06.983 --> 00:19:08.983] PICARD: open a channel to Starbase two nineteen.
+[00:19:10.290 --> 00:19:15.090] PICARD: Advise Admiral Nakamura I'll be a little later than I thought.
+[00:19:15.890 --> 00:19:16.210] WORF: Aye, sir.
+[00:19:26.770 --> 00:19:28.690] LAFORGE: Tyler, how're you coming with that relay diagnostic?
+[00:19:29.170 --> 00:19:29.890] TYLER: Almost done, sir.
+[00:19:31.250 --> 00:19:33.490] TYLER: Excuse me I need the plasma inverter.
+[00:19:37.250 --> 00:19:39.170] DATA: It appears Ensign Tyler still has a crush on you.
+[00:19:39.650 --> 00:19:41.010] DATA: It is clear you did not speak to her.
+[00:19:41.170 --> 00:19:42.370] LAFORGE: No, Data, I haven't had the time.
+[00:19:43.650 --> 00:19:47.410] LAFORGE: Listen, I want you to take this brace coil and run a metallurgical scan on it for me.
+[00:19:47.410 --> 00:19:49.090] LAFORGE: See if there are any microfractures.
+[00:19:53.410 --> 00:19:53.970] LAFORGE: Something wrong, Data?
+[00:19:55.730 --> 00:19:57.170] DATA: I am reminded of a recent dream.
+[00:20:00.770 --> 00:20:02.930] DATA: This brace is reminiscent of
+[00:20:02.930 --> 00:20:04.530] RIKER: Are you
+[00:20:28.370 --> 00:20:29.490] RIKER: going to answer that, Commander?
+[00:20:33.490 --> 00:20:34.210] RIKER: What are you waiting for?
+[00:20:34.290 --> 00:20:34.850] RIKER: Answer it.
+[00:20:47.125 --> 00:20:47.525] DATA: Hello?
+[00:20:48.725 --> 00:20:49.365] FREUD: Kill them.
+[00:20:49.925 --> 00:20:53.525] FREUD: You must kill them all before it's too late.
+[00:20:53.925 --> 00:20:54.165] LAFORGE: Data.
+[00:20:55.925 --> 00:20:56.805] LAFORGE: Data, what's wrong?
+[00:21:02.485 --> 00:21:05.125] DATA: I do not know.
+[00:21:10.085 --> 00:21:12.165] DATA: Everything seems to remind me of the nightmare.
+[00:21:12.805 --> 00:21:18.405] DATA: Objects, sounds, smells. And now I have seen elements of the dream in a waking state.
+[00:21:18.405 --> 00:21:20.005] DATA: I cannot explain it.
+[00:21:21.125 --> 00:21:25.205] TROI: Data, if you were one of my human patients, I might be concerned right now.
+[00:21:26.485 --> 00:21:30.885] TROI: I'd say you had a waking dream or an hallucination. But you're not human.
+[00:21:31.445 --> 00:21:34.325] TROI: I think we might be looking at some kind of technological problem.
+[00:21:36.165 --> 00:21:38.245] DATA: I have run three complete self diagnostics.
+[00:21:38.965 --> 00:21:40.645] DATA: All of my systems are functioning normally.
+[00:21:41.925 --> 00:21:43.445] DATA: Perhaps Doctor Freud was correct.
+[00:21:44.165 --> 00:21:48.245] DATA: The knife I dreamed about is the embodiment of my unconscious desire to inflict violence.
+[00:21:49.605 --> 00:21:54.165] TROI: Data, even Freud said, sometimes a cigar is just a cigar.
+[00:21:55.845 --> 00:22:00.805] TROI: But the bottom line is, I think you're developing an almost obsessive interest in your own inner workings.
+[00:22:01.828 --> 00:22:04.228] TROI: I'd almost call it the beginnings of a neurosis.
+[00:22:04.788 --> 00:22:05.748] DATA: That is not possible.
+[00:22:06.308 --> 00:22:06.868] TROI: Why not?
+[00:22:07.268 --> 00:22:19.748] TROI: You've eliminated all the technical explanations. And it makes sense that as your neural net becomes more complex, more human, that you might experience the same kind of psychological complexities as a human.
+[00:22:21.268 --> 00:22:22.628] DATA: Do you really think it is possible?
+[00:22:24.148 --> 00:22:30.068] TROI: Data, you must be the first person who's come into my office and been excited at the prospect of a new neurosis.
+[00:22:30.948 --> 00:22:35.108] TROI: But yes, I do think it's possible, and I'd like to start counselling you on a regular basis.
+[00:22:35.828 --> 00:22:36.228] DATA: Daily?
+[00:22:36.708 --> 00:22:38.308] TROI: No, we'll start weekly.
+[00:22:39.348 --> 00:22:44.308] TROI: And as a first step, I'd like you to shut down your dream programme until our next session, just to be on the safe side.
+[00:22:44.788 --> 00:22:47.428] TROI: Give yourself a chance to reflect on this experience.
+[00:22:48.788 --> 00:22:49.428] DATA: Thank you, Counsellor.
+[00:22:50.548 --> 00:22:51.908] DATA: I look forward to our next meeting.
+[00:22:53.748 --> 00:22:54.228] TROI: And Data?
+[00:22:57.268 --> 00:23:00.948] TROI: Next time, see me before you see Sigmund.
+[00:23:05.828 --> 00:23:08.708] PICARD: Admiral, I can explain.
+[00:23:08.948 --> 00:23:10.388] NAKAMURA: Let me guess.
+[00:23:10.548 --> 00:23:13.908] NAKAMURA: Your new warp core is malfunctioning again?
+[00:23:14.148 --> 00:23:17.828] PICARD: Unfortunately, the problem has affected our impulse systems.
+[00:23:17.908 --> 00:23:20.468] PICARD: At the moment, we are adrift.
+[00:23:21.108 --> 00:23:25.748] NAKAMURA: Are you expecting to have this problem fixed soon, or shall we send out a tow ship to bring you in?
+[00:23:26.388 --> 00:23:27.428] PICARD: That will not be necessary.
+[00:23:27.428 --> 00:23:29.588] PICARD: I have full confidence in my Engineering staff.
+[00:23:29.668 --> 00:23:31.508] PICARD: I will be at the banquet on time.
+[00:23:32.148 --> 00:23:32.628] PICARD: Picard out.
+[00:23:40.928 --> 00:23:43.008] PICARD: Have you tried reconfiguring the plasma conduits?
+[00:23:43.248 --> 00:23:43.888] LAFORGE: Yes, Captain.
+[00:23:44.528 --> 00:23:45.168] LAFORGE: Two hours ago.
+[00:23:54.448 --> 00:23:55.168] PICARD: What about the relays?
+[00:23:56.368 --> 00:23:58.608] PICARD: Are you absolutely certain you don't need a new phase invertor?
+[00:23:59.648 --> 00:24:02.288] DATA: I am currently running a level three diagnostic of the relays, sir.
+[00:24:02.768 --> 00:24:05.488] DATA: We will have the results of the analysis in approximately ten minutes.
+[00:24:07.968 --> 00:24:08.528] PICARD: I see.
+[00:24:29.888 --> 00:24:32.288] PICARD: Oh, perhaps I could reconfigure these isolinear chips.
+[00:24:32.608 --> 00:24:32.928] LAFORGE: No, sir,
+[00:24:33.008 --> 00:24:34.048] LAFORGE: please don't touch that.
+[00:24:35.648 --> 00:24:38.608] LAFORGE: Captain, Commander Data and I have the situation under control.
+[00:24:38.608 --> 00:24:42.128] LAFORGE: Now, if you'd just let us care of it, the work would go much faster.
+[00:24:42.608 --> 00:24:46.128] TYLER: Captain, we could use an extra hand moving the containment pods.
+[00:24:46.448 --> 00:24:47.488] TYLER: If it wouldn't be an imposition.
+[00:24:48.368 --> 00:24:49.888] PICARD: Oh, no, not at all.
+[00:24:50.128 --> 00:24:50.768] PICARD: I'd be delighted.
+[00:24:55.248 --> 00:24:55.888] LAFORGE: Good work, Tyler.
+[00:24:56.528 --> 00:24:57.648] LAFORGE: I thought he'd never leave.
+[00:24:59.256 --> 00:25:01.656] LAFORGE: Data, I want you to give me a hand locking down this plasma conduit.
+[00:25:04.456 --> 00:25:04.696] LAFORGE: Data?
+[00:25:08.296 --> 00:25:08.696] LAFORGE: Data?
+[00:25:50.936 --> 00:25:53.656] TROI: Deck thirty six.
+[00:25:53.656 --> 00:25:54.696] TROI: Hello, Data.
+[00:25:59.816 --> 00:25:59.816] TROI: Are
+[00:26:03.736 --> 00:26:04.296] TROI: you all right?
+[00:26:07.496 --> 00:26:07.896] TROI: What are you doing?
+[00:26:08.696 --> 00:26:10.296] DATA: Hold very still, Counsellor.
+[00:26:10.296 --> 00:26:10.696] TROI: No!
+[00:26:11.896 --> 00:26:13.016] WORF: Ever
+[00:26:16.376 --> 00:26:21.096] WORF: since you gave Alexander that music programme, he's been playing it all night, every night.
+[00:26:21.736 --> 00:26:23.096] RIKER: I just wanted to broaden his horizons.
+[00:26:23.896 --> 00:26:24.776] RIKER: Besides, he likes it.
+[00:26:25.016 --> 00:26:25.976] WORF: It is screeching,
+[00:26:26.347 --> 00:26:27.547] WORF: pounding, dissonance.
+[00:26:28.187 --> 00:26:29.227] WORF: It is not music.
+[00:26:29.627 --> 00:26:30.507] RIKER: Worf, it's better than music, it's
+[00:26:31.387 --> 00:26:31.867] RIKER: jazz.
+[00:26:38.907 --> 00:26:42.507] RIKER: Medical emergency. Deck seventeen, section three alpha.
+[00:26:43.067 --> 00:26:43.627] MEDIC: We're on our way.
+[00:26:43.627 --> 00:26:43.627] DATA: I
+[00:26:47.467 --> 00:26:49.227] DATA: believe I had another waking dream, sir.
+[00:26:50.027 --> 00:26:54.507] DATA: But this time, I had an uncontrollable urge to eliminate the image I saw.
+[00:26:54.507 --> 00:26:59.067] PICARD: And what you saw was some sort of a mouth on Troi's shoulder?
+[00:26:59.467 --> 00:26:59.787] DATA: Yes, sir.
+[00:27:01.147 --> 00:27:04.987] DATA: For a reason I cannot explain, I had the need to destroy it.
+[00:27:05.307 --> 00:27:05.707] RIKER: What about me?
+[00:27:05.707 --> 00:27:07.467] RIKER: Did you see one of those mouths on my head as well?
+[00:27:07.947 --> 00:27:08.267] DATA: No, sir.
+[00:27:08.747 --> 00:27:10.347] DATA: I saw a straw coming out of your head.
+[00:27:10.587 --> 00:27:11.147] PICARD: A straw?
+[00:27:11.627 --> 00:27:15.627] DATA: As I said before, these are all images I originally experienced in my dream programme.
+[00:27:16.027 --> 00:27:18.427] DATA: I do not have a rational explanation for them.
+[00:27:18.427 --> 00:27:19.227] PICARD: Mister La Forge?
+[00:27:19.787 --> 00:27:23.387] LAFORGE: Captain, we've run every possible diagnostic on Data's positronic net we can think of.
+[00:27:23.387 --> 00:27:24.667] LAFORGE: We can't find anything wrong.
+[00:27:25.707 --> 00:27:28.907] LAFORGE: I could run a subpolymer scan, but it would take some time to set up the equipment.
+[00:27:29.467 --> 00:27:30.027] PICARD: Make it so.
+[00:27:31.067 --> 00:27:36.507] PICARD: In the meantime, Mister Data, I'll have to relieve you of duty and confine you to your quarters.
+[00:27:37.707 --> 00:27:38.827] DATA: A sensible precaution, sir.
+[00:27:38.907 --> 00:27:38.987] TROI: Data.
+[00:27:53.627 --> 00:27:55.627] CRUSHER: Deanna,
+[00:27:55.627 --> 00:27:56.587] CRUSHER: you're in Sickbay.
+[00:27:57.181 --> 00:27:57.581] CRUSHER: It's all right.
+[00:27:57.731 --> 00:27:58.331] TROI: Data.
+[00:27:59.661 --> 00:28:00.301] CRUSHER: He's not here.
+[00:28:01.741 --> 00:28:02.861] CRUSHER: Just try to relax.
+[00:28:05.821 --> 00:28:11.101] CRUSHER: This vascular pad has healed the wound, but you've lost a lot of blood so I would like you to lie still for a while.
+[00:28:14.301 --> 00:28:14.781] CRUSHER: That's odd.
+[00:28:15.501 --> 00:28:17.581] CRUSHER: There shouldn't be any discoloration after the treatment.
+[00:28:17.581 --> 00:28:19.101] CRUSHER: This looks like some sort of rash.
+[00:28:19.181 --> 00:28:19.501] TROI: What is it?
+[00:28:22.701 --> 00:28:24.461] CRUSHER: I'm picking up cellular degradation.
+[00:28:25.501 --> 00:28:27.901] CRUSHER: But it doesn't appear to be related to the lacerations.
+[00:28:29.421 --> 00:28:33.181] CRUSHER: There's also some kind of residual interphasic signature.
+[00:28:33.581 --> 00:28:34.061] CRUSHER: Nurse,
+[00:28:36.221 --> 00:28:37.501] CRUSHER: bring me an interphasic scanner.
+[00:28:37.501 --> 00:28:39.421] CRUSHER: I want to take a closer look at this.
+[00:28:43.661 --> 00:28:49.501] WORF: Commander. I will have to confiscate your sidearm.
+[00:28:50.461 --> 00:28:51.021] DATA: Of course.
+[00:28:59.021 --> 00:29:02.061] DATA: May I ask a personal favour?
+[00:29:03.821 --> 00:29:04.141] WORF: Yes.
+[00:29:06.541 --> 00:29:07.981] DATA: Will you take care of Spot for me?
+[00:29:10.381 --> 00:29:10.861] WORF: Your animal?
+[00:29:12.461 --> 00:29:15.341] DATA: I am afraid if I have another waking dream, I might injure him.
+[00:29:16.621 --> 00:29:17.181] WORF: Of course.
+[00:29:19.021 --> 00:29:20.621] WORF: Spot, come here.
+[00:29:23.021 --> 00:29:27.581] DATA: Unlike a canine, Spot does not respond to verbal commands.
+[00:29:35.096 --> 00:29:35.736] DATA: Goodbye, Spot.
+[00:29:39.096 --> 00:29:40.616] DATA: He will need to be fed once a day.
+[00:29:41.176 --> 00:29:43.256] DATA: He prefers feline supplement number twenty five.
+[00:29:43.256 --> 00:29:44.536] WORF: I understand.
+[00:29:45.416 --> 00:29:46.536] DATA: And he will require water.
+[00:29:47.176 --> 00:29:48.856] DATA: And you must provide him with a sand box.
+[00:29:48.856 --> 00:29:51.576] DATA: And you must talk to him.
+[00:29:52.936 --> 00:29:55.816] DATA: Tell him he is a pretty cat, and a good cat.
+[00:29:58.616 --> 00:29:59.576] WORF: I will feed him.
+[00:30:01.736 --> 00:30:02.696] DATA: Perhaps that will be enough.
+[00:30:11.496 --> 00:30:12.936] CRUSHER: Captain, we have a problem.
+[00:30:12.936 --> 00:30:13.816] CRUSHER: Take a look at this.
+[00:30:16.856 --> 00:30:19.896] CRUSHER: Her tissue is breaking down on a cellular level and it's spreading.
+[00:30:20.616 --> 00:30:23.656] CRUSHER: At first I thought it was a rash from the coil brace she was stabbed with,
+[00:30:24.216 --> 00:30:26.776] CRUSHER: but when I used the interphasic scanner, I found this.
+[00:30:28.536 --> 00:30:28.936] PICARD: What is it?
+[00:30:31.256 --> 00:30:32.296] CRUSHER: The question is,
+[00:30:33.816 --> 00:30:34.536] CRUSHER: what are they?
+[00:30:41.896 --> 00:30:48.056] CRUSHER: I've tested all the medical staff and I've found them on almost everyone so far.
+[00:30:49.416 --> 00:30:52.136] CRUSHER: The cellular decay is accelerating in all cases.
+[00:30:52.296 --> 00:30:55.256] CRUSHER: I haven't found a way to stop it or even slow it down.
+[00:30:57.096 --> 00:30:58.216] CRUSHER: Looks like you're infected too.
+[00:30:59.976 --> 00:31:01.896] CRUSHER: The organisms appear to be attached
+[00:31:02.036 --> 00:31:04.676] CRUSHER: to our epidermal layers with osmotic tendrils.
+[00:31:04.996 --> 00:31:09.876] CRUSHER: They're tapping directly into the bloodstream. And from what I can tell, they're spreading.
+[00:31:13.556 --> 00:31:14.516] RIKER: What are we dealing with here?
+[00:31:15.076 --> 00:31:16.996] RIKER: Are these creatures feeding on us?
+[00:31:17.636 --> 00:31:19.716] CRUSHER: Yes, in a very particular way.
+[00:31:20.276 --> 00:31:22.676] CRUSHER: They appear to be extracting our cellular peptides.
+[00:31:22.996 --> 00:31:26.036] CRUSHER: It's roughly analogous to the way terran leeches consume haemoglobin.
+[00:31:26.916 --> 00:31:31.076] CRUSHER: If they're not removed soon, our bodies are going to lose all their cellular cohesion.
+[00:31:32.116 --> 00:31:35.156] CRUSHER: We'll collapse into nothing but a few pounds of chemicals.
+[00:31:36.596 --> 00:31:37.156] PICARD: All right.
+[00:31:37.476 --> 00:31:40.516] PICARD: Is there any way that we can affect these organisms?
+[00:31:41.396 --> 00:31:44.756] LAFORGE: We've tried EM radiation, subspace fields, thermal protons,
+[00:31:45.076 --> 00:31:45.796] LAFORGE: nothing's worked.
+[00:31:46.516 --> 00:31:52.036] LAFORGE: They seem to exist in some sort of interphasic state, just beyond our range of visual and sensor acuity.
+[00:31:52.436 --> 00:31:54.836] LAFORGE: The only way we can see them is to use an IP scanner.
+[00:31:54.996 --> 00:31:56.196] LAFORGE: Tricorders can't even pick them up.
+[00:31:56.836 --> 00:31:58.276] RIKER: Do we know where these things came from, Mister Worf?
+[00:31:58.836 --> 00:32:01.156] WORF: I scanned the vicinity with an IP scanner.
+[00:32:01.556 --> 00:32:05.876] WORF: There is no sign of any similar creatures, or any unusual interphasic activity.
+[00:32:06.356 --> 00:32:07.156] PICARD: What about Mister Data?
+[00:32:07.556 --> 00:32:10.836] PICARD: There must be some connection between his odd behaviour and these creatures.
+[00:32:11.876 --> 00:32:12.916] PICARD: Is he infested as well?
+[00:32:13.236 --> 00:32:15.236] CRUSHER: No. I scanned him, but I found nothing.
+[00:32:17.156 --> 00:32:25.956] PICARD: Data attacked Counsellor Troi because he saw a mouth on her shoulder. And in that same area that we first saw one of the organisms.
+[00:32:26.356 --> 00:32:30.596] RIKER: Data also saw a straw in my head and then Beverly discovered an organism in the same place.
+[00:32:30.836 --> 00:32:32.836] LAFORGE: Those images are all part of Data's dream.
+[00:32:33.796 --> 00:32:35.556] LAFORGE: Maybe somehow he's unconsciously
+[00:32:35.986 --> 00:32:37.026] LAFORGE: perceiving these creatures.
+[00:32:38.626 --> 00:32:42.626] PICARD: Then perhaps it is time that we took a closer look at Mister Data's dreams.
+[00:32:44.706 --> 00:32:46.226] DATA: It is an interesting hypothesis.
+[00:32:46.866 --> 00:32:55.826] DATA: If I am being affected by these interphasic creatures on an unconscious level, it may also explain my waking dreams, and my subsequent anti-social behaviour.
+[00:32:56.786 --> 00:33:01.666] LAFORGE: What we want to do, Data, is link your neural net into the holodeck and have you activate your dream programme,
+[00:33:01.746 --> 00:33:04.146] LAFORGE: so as you dream we can observe the dream images.
+[00:33:04.706 --> 00:33:09.506] PICARD: Perhaps we can learn more about these creatures by interpreting the symbols and images of your dreams.
+[00:33:09.826 --> 00:33:10.226] DATA: I see.
+[00:33:10.706 --> 00:33:13.106] DATA: The concept is similar to the method of directed dreaming.
+[00:33:13.426 --> 00:33:13.906] PICARD: Exactly.
+[00:33:14.626 --> 00:33:16.066] PICARD: How soon can you have the link ready?
+[00:33:16.226 --> 00:33:19.346] LAFORGE: We'd need about an hour to establish all the interface parameters.
+[00:33:19.346 --> 00:33:19.906] PICARD: Make it so.
+[00:33:22.626 --> 00:33:26.306] PICARD: In the meantime, Mister Data, I suggest that you should prepare for bed.
+[00:33:34.866 --> 00:33:35.666] LAFORGE: I think we're ready, Captain.
+[00:33:37.346 --> 00:33:38.146] LAFORGE: The link is active.
+[00:33:38.866 --> 00:33:42.786] LAFORGE: The holodeck has been calibrated to Data's neural net.
+[00:33:44.066 --> 00:33:44.706] PICARD: Ready, Mister Data?
+[00:33:45.026 --> 00:33:45.186] DATA: Yes, sir.
+[00:33:47.426 --> 00:33:53.346] PICARD: Normally, I would wish you pleasant dreams, but in this case, bad dreams would be more helpful.
+[00:33:54.386 --> 00:33:55.106] DATA: I understand, sir.
+[00:33:56.146 --> 00:33:57.426] DATA: Initiating dream programme.
+[00:33:58.626 --> 00:33:59.186] DATA: Stand by.
+[00:34:06.706 --> 00:34:07.746] PICARD: Let's be very observant.
+[00:34:08.626 --> 00:34:09.346] PICARD: Even the most
+[00:34:09.578 --> 00:34:11.738] PICARD: insignificant image could be a very important symbol.
+[00:34:12.138 --> 00:34:12.298] LAFORGE: Right.
+[00:34:14.058 --> 00:34:14.538] PICARD: Here he comes.
+[00:34:17.898 --> 00:34:18.218] DATA: Hello.
+[00:34:24.378 --> 00:34:26.938] PICARD: Can we speak to Data directly or would that wake him up?
+[00:34:27.338 --> 00:34:29.738] LAFORGE: He should be perceiving us as just another part of his dream.
+[00:34:30.298 --> 00:34:32.538] LAFORGE: Anything we say to him will be taken in that context.
+[00:34:32.938 --> 00:34:36.938] PICARD: You know, that sounds like a telephone ringer, but I don't see a receiver.
+[00:34:51.098 --> 00:34:51.338] DATA: Cake?
+[00:34:52.858 --> 00:34:54.218] PICARD: Oh. Er, thank you.
+[00:34:59.018 --> 00:34:59.498] PICARD: Look at that.
+[00:34:59.818 --> 00:35:00.538] PICARD: Her right shoulder.
+[00:35:01.178 --> 00:35:03.098] PICARD: That is the same place that Data stabbed her.
+[00:35:03.338 --> 00:35:05.738] LAFORGE: In his waking dream he said that there was a mouth on her shoulder.
+[00:35:06.938 --> 00:35:11.098] PICARD: They're both symbols of consumption. Mouth, food.
+[00:35:13.258 --> 00:35:15.018] PICARD: Mister Data, what kind of cake is this?
+[00:35:16.218 --> 00:35:17.898] DATA: It is cellular peptide cake.
+[00:35:18.778 --> 00:35:19.738] WORF: With mint frosting.
+[00:35:20.538 --> 00:35:21.498] LAFORGE: Cellular peptides.
+[00:35:21.498 --> 00:35:23.258] LAFORGE: That's exactly what the creatures are extracting.
+[00:35:24.218 --> 00:35:25.978] RIKER: Will someone answer that damn ringing!
+[00:35:33.898 --> 00:35:35.658] RIKER: Captain, the ringing is getting worse.
+[00:35:37.178 --> 00:35:38.538] PICARD: What could the ringing symbolise?
+[00:35:39.738 --> 00:35:40.058] PICARD: A bell?
+[00:35:40.298 --> 00:35:40.778] PICARD: Sound?
+[00:35:42.789 --> 00:35:44.469] PICARD: An old-fashioned way of communicating?
+[00:35:45.669 --> 00:35:46.069] CRUSHER: Do you want some?
+[00:35:46.789 --> 00:35:47.429] CRUSHER: It's delicious.
+[00:35:49.349 --> 00:35:50.789] RIKER: Will somebody please get that!
+[00:36:04.869 --> 00:36:05.189] LAFORGE: Yes?
+[00:36:08.789 --> 00:36:09.189] LAFORGE: It's for you.
+[00:36:12.469 --> 00:36:12.789] PICARD: Picard.
+[00:36:13.829 --> 00:36:14.549] FREUD: Kill them.
+[00:36:15.189 --> 00:36:15.589] PICARD: Kill who?
+[00:36:16.229 --> 00:36:18.469] FREUD: Kill them, before it is too late.
+[00:36:19.269 --> 00:36:19.909] PICARD: Who is this?
+[00:36:20.629 --> 00:36:22.629] FREUD: I am Doctor Sigmund Freud.
+[00:36:29.589 --> 00:36:32.869] LAFORGE: How does he fit into all this?
+[00:36:33.669 --> 00:36:48.229] FREUD: If I were to interpret my own appearance in this dream, I would say I am the symbolic representation of Data's unconscious mind trying to warn him about the dangers he perceives around him.
+[00:36:48.869 --> 00:36:50.469] PICARD: You mean the interphasic organisms.
+[00:36:50.549 --> 00:36:51.749] FREUD: Of course.
+[00:36:52.069 --> 00:36:54.309] PICARD: Tell me, Doctor, how do we kill them?
+[00:36:58.149 --> 00:36:58.789] FREUD: Answer it.
+[00:37:01.989 --> 00:37:03.349] FREUD: Nien, nien, nien.
+[00:37:04.229 --> 00:37:06.149] FREUD: Do not be so literal.
+[00:37:06.149 --> 00:37:10.629] FREUD: When I say answer it, I mean respond to it, to them.
+[00:37:12.143 --> 00:37:12.543] WORKMAN: Be quiet!
+[00:37:33.183 --> 00:37:34.223] PICARD: What do they represent?
+[00:37:35.263 --> 00:37:39.183] LAFORGE: I don't know, but I do recognise that junction they're working on.
+[00:37:40.223 --> 00:37:42.543] LAFORGE: It's the plasma conduit we installed with the new warp core.
+[00:37:43.743 --> 00:37:44.303] PICARD: Respond?
+[00:37:45.903 --> 00:37:46.783] PICARD: Respond to them?
+[00:37:47.263 --> 00:37:47.743] PICARD: What does that mean?
+[00:37:50.623 --> 00:37:51.583] LAFORGE: What is it that you're doing?
+[00:37:53.423 --> 00:37:54.223] WORKMAN: Go away.
+[00:37:54.783 --> 00:37:55.583] WORKMAN: Leave us alone.
+[00:37:55.663 --> 00:37:55.743] PICARD: Who
+[00:37:59.023 --> 00:38:00.943] PICARD: are you?
+[00:38:00.943 --> 00:38:01.263] WORKMAN: We are
+[00:38:03.983 --> 00:38:05.023] WORKMAN: your enemies.
+[00:38:08.543 --> 00:38:08.943] DATA: Stop.
+[00:38:09.983 --> 00:38:11.263] DATA: You must not hurt my friends.
+[00:38:14.303 --> 00:38:15.423] WORKMAN: Be quiet!
+[00:38:17.183 --> 00:38:17.343] PICARD: Data,
+[00:38:17.743 --> 00:38:19.823] PICARD: the shrieking noise you made. It causes them pain.
+[00:38:20.543 --> 00:38:20.623] WORKMAN: Be
+[00:38:24.143 --> 00:38:24.303] WORKMAN: quiet.
+[00:38:24.303 --> 00:38:24.463] DATA: I believe
+[00:38:25.983 --> 00:38:28.063] DATA: I understand.
+[00:38:49.837 --> 00:38:50.077] DATA: Geordi.
+[00:38:50.157 --> 00:38:50.637] LAFORGE: Yes, Data.
+[00:38:51.677 --> 00:38:55.677] DATA: You must adjust my positronic subprocessor to emit an interphasic pulse.
+[00:38:58.157 --> 00:38:58.877] PICARD: Data, what's going on?
+[00:38:59.757 --> 00:39:03.597] DATA: The workmen in my dreams represent the organisms which are trying to demolish the ship.
+[00:39:04.397 --> 00:39:10.237] DATA: The incessant ringing of the telephone, Freud's cautions at the other end, were warnings of the dangers around us.
+[00:39:10.557 --> 00:39:12.077] PICARD: What about the shrieking noises that you made?
+[00:39:12.877 --> 00:39:20.877] DATA: My positronic subprocessor detected high frequency interphasic signatures from the organisms, which were symbolically represented in my dreams by a high shriek.
+[00:39:21.357 --> 00:39:24.637] PICARD: When you made those noises, the workmen reacted in pain.
+[00:39:25.117 --> 00:39:27.597] DATA: That is why I have asked Geordi to adjust my subprocessor.
+[00:39:27.597 --> 00:39:32.317] DATA: If I can produce a high frequency interphasic pulse, it may have a similar effect on the creatures.
+[00:39:32.797 --> 00:39:33.117] LAFORGE: We're ready.
+[00:39:34.477 --> 00:39:35.037] PICARD: Picard to Sickbay.
+[00:39:35.837 --> 00:39:39.357] PICARD: Beverly, we're going to be sweeping the ship with a high frequency IP pulse.
+[00:39:39.757 --> 00:39:41.837] PICARD: Will you monitor the creatures for any response?
+[00:39:42.397 --> 00:39:42.957] CRUSHER: Understood.
+[00:39:50.157 --> 00:39:51.357] CRUSHER: It's working, Captain.
+[00:40:06.627 --> 00:40:07.907] LOG: Captain's log, supplemental.
+[00:40:08.387 --> 00:40:11.907] LOG: The creatures infesting the Enterprise have been completely eliminated.
+[00:40:12.547 --> 00:40:17.107] LOG: We believe the infestation originated within the warp core we obtained on Starbase eighty four.
+[00:40:18.467 --> 00:40:23.027] LAFORGE: This conduit was manufactured on Thanatos Seven using a new interphasic fusion process.
+[00:40:23.427 --> 00:40:28.707] LAFORGE: We think it was that process which attracted the organisms to the conduit where they lay dormant until we activated the warp core.
+[00:40:29.267 --> 00:40:31.187] LAFORGE: That's also why we couldn't get the core online.
+[00:40:31.587 --> 00:40:33.587] LAFORGE: The creatures were disrupting the plasma flow.
+[00:40:33.747 --> 00:40:35.427] PICARD: How long before we have warp power again?
+[00:40:35.507 --> 00:40:37.747] LAFORGE: Well, we're going to have to manufacture a new conduit.
+[00:40:37.907 --> 00:40:39.987] LAFORGE: That's at least six hours work.
+[00:40:39.987 --> 00:40:40.867] PICARD: Six hour?
+[00:40:41.667 --> 00:40:43.507] PICARD: The banquet will be completely over by then.
+[00:40:43.507 --> 00:40:44.467] PICARD: That's very unfortunate.
+[00:40:44.867 --> 00:40:46.147] LAFORGE: I can try and speed things up a bit.
+[00:40:46.387 --> 00:40:47.427] PICARD: No, no, no.
+[00:40:49.347 --> 00:40:52.147] PICARD: I wouldn't want to sacrifice the safety of the ship.
+[00:40:53.507 --> 00:40:53.987] LAFORGE: Understood, sir.
+[00:41:00.307 --> 00:41:00.627] DATA: Enter.
+[00:41:03.987 --> 00:41:04.387] DATA: Counsellor.
+[00:41:07.107 --> 00:41:09.587] DATA: I did not have a chance to apologise for my actions.
+[00:41:10.067 --> 00:41:10.467] TROI: Data,
+[00:41:11.667 --> 00:41:12.787] TROI: don't worry about it.
+[00:41:12.867 --> 00:41:14.627] TROI: Geordi explained everything to me.
+[00:41:15.107 --> 00:41:16.067] TROI: It wasn't your fault.
+[00:41:18.307 --> 00:41:18.387] TROI: But
+[00:41:21.987 --> 00:41:28.787] TROI: somehow I thought turnabout would be fair play, so I made us a little something to snack on.
+[00:41:43.919 --> 00:41:44.319] DATA: I wonder,
+[00:41:45.839 --> 00:41:49.919] DATA: what would Doctor Freud say about the symbolism of devouring oneself?
+[00:41:51.039 --> 00:41:54.399] TROI: Data, sometimes a cake is just a cake.

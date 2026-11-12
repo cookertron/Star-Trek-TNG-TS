@@ -1,0 +1,728 @@
+[00:00:02.160 --> 00:00:04.185] RIKER: Fletcher has more experience with propulsion systems.
+[00:00:04.185 --> 00:00:05.920] TROI: But Carstairs is better with people.
+[00:00:06.560 --> 00:00:09.120] TROI: Considering this is a supervisory position, I'd go with her.
+[00:00:10.240 --> 00:00:10.800] RIKER: I guess you're right.
+[00:00:11.840 --> 00:00:14.416] RIKER: Didn't we just do crew evaluation reports?
+[00:00:14.416 --> 00:00:15.520] TROI: Three months ago.
+[00:00:16.240 --> 00:00:17.200] RIKER: It seems like three weeks.
+[00:00:18.800 --> 00:00:23.120] RIKER: Why don't we just give everybody a promotion and call it a night, Commander?
+[00:00:23.680 --> 00:00:25.120] TROI: Fine with me, Captain.
+[00:00:25.920 --> 00:00:27.040] RIKER: Could we have two coffees, please.
+[00:00:28.560 --> 00:00:31.920] LAVELLE: What could be so funny?
+[00:00:32.720 --> 00:00:34.880] LAVELLE: What's so funny about crew evaluations?
+[00:00:35.280 --> 00:00:36.320] OGAWA: Don't worry about it, Sam.
+[00:00:36.960 --> 00:00:38.400] SITO: Can't we just try and have a good time here?
+[00:00:38.800 --> 00:00:41.840] LAVELLE: How can I have a good time when my career's being decided across the room?
+[00:00:41.990 --> 00:00:42.990] LAVELLE: Come on.
+[00:00:45.280 --> 00:00:49.040] LAVELLE: Think promotion. Promotion. Promotion.
+[00:00:49.440 --> 00:00:53.760] TAURIK: You can't really believe that what you are doing will influence the outcome of your evaluation.
+[00:00:55.520 --> 00:00:56.960] LAVELLE: Promotion. Promotion.
+[00:00:57.440 --> 00:00:57.707] LAVELLE: Promotion.
+[00:00:57.707 --> 00:00:59.040] OGAWA: It's a time-honoured strategy, Taurik.
+[00:00:59.520 --> 00:01:03.840] SITO: The Vedeks of the Janalan order maintain a round the clock chant for the benefit of the Bajoran people.
+[00:01:05.360 --> 00:01:10.640] TAURIK: Considering the history of your planet, that doesn't exactly validate what he's doing.
+[00:01:12.080 --> 00:01:16.880] LAVELLE: Promote me, please, so I can make Lieutenant and have my own room.
+[00:01:18.560 --> 00:01:22.320] TAURIK: If you're unhappy sharing quarters with me, then you should put in for a new room assignment.
+[00:01:24.400 --> 00:01:26.320] TAURIK: Just in case you're not promoted.
+[00:01:30.720 --> 00:01:32.400] RIKER: I've been thinking about who to promote to Ops.
+[00:01:32.880 --> 00:01:34.413] TROI: The new night duty officer?
+[00:01:34.413 --> 00:01:34.720] RIKER: Lavelle
+[00:01:34.909 --> 00:01:37.469] RIKER: is an obvious candidate, but I'm also considering Ensign Sito.
+[00:01:38.189 --> 00:01:38.509] TROI: Thank you.
+[00:01:38.749 --> 00:01:39.149] BEN: You're welcome.
+[00:01:40.189 --> 00:01:41.069] BEN: Are you sure about dessert?
+[00:01:41.709 --> 00:01:42.189] TROI: Yes.
+[00:01:42.269 --> 00:01:43.309] TROI: Don't tempt me.
+[00:01:52.349 --> 00:01:54.109] LAVELLE: So, are they working on crew evaluations?
+[00:01:54.189 --> 00:01:54.749] BEN: Yep.
+[00:01:54.909 --> 00:01:55.629] SITO: Who are they talking about?
+[00:01:55.869 --> 00:01:56.989] BEN: It's not my place to say.
+[00:01:57.069 --> 00:01:58.109] SITO: Come on, Ben.
+[00:01:58.109 --> 00:01:58.829] LAVELLE: Please.
+[00:01:59.229 --> 00:01:59.549] BEN: All right,
+[00:02:00.029 --> 00:02:01.389] BEN: but I'm not sure you two are going to like it.
+[00:02:02.909 --> 00:02:05.789] BEN: Apparently, you two are up for the same job.
+[00:02:38.669 --> 00:02:41.389] PICARD: Space, the final frontier.
+[00:02:43.309 --> 00:02:46.189] PICARD: These are the voyages of the starship Enterprise.
+[00:02:47.229 --> 00:02:55.229] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:56.909 --> 00:02:59.709] PICARD: to boldly go where no one has gone before.
+[00:03:06.629 --> 00:03:06.629] RIKER: Lock
+[00:03:59.989 --> 00:04:00.709] RIKER: phasers on target.
+[00:04:01.109 --> 00:04:01.749] SITO: Phasers locked.
+[00:04:03.349 --> 00:04:04.149] DATA: The enemy is firing.
+[00:04:04.389 --> 00:04:05.269] RIKER: Helm, hard to starboard.
+[00:04:05.349 --> 00:04:05.989] LAVELLE: Hard to starboard.
+[00:04:06.069 --> 00:04:06.709] RIKER: Fire phasers.
+[00:04:10.469 --> 00:04:10.469] SITO: Firing.
+[00:04:10.469 --> 00:04:13.749] DATA: Target is destroyed.
+[00:04:16.149 --> 00:04:17.189] RIKER: End simulation sequence.
+[00:04:17.269 --> 00:04:18.069] RIKER: Secure from drill.
+[00:04:18.869 --> 00:04:19.429] RIKER: Alpha shift,
+[00:04:19.429 --> 00:04:21.909] RIKER: your response time was seven percent slower than the gamma shift.
+[00:04:22.469 --> 00:04:26.149] RIKER: All departments, submit drill evaluation reports By oh nine hundred hours.
+[00:04:26.229 --> 00:04:28.149] LAFORGE: Ensign, you'll write that report.
+[00:04:28.549 --> 00:04:29.029] TAURIK: Yes, sir.
+[00:04:30.549 --> 00:04:31.429] RIKER: What happened back there, Ensign?
+[00:04:31.429 --> 00:04:32.789] SITO: I'm sorry, sir.
+[00:04:32.789 --> 00:04:35.829] SITO: When we changed course I had to re-lock phasers before I could fire.
+[00:04:36.309 --> 00:04:40.229] RIKER: Next time, try letting the locking relay float until the actual order to fire is given.
+[00:04:41.078 --> 00:04:43.238] RIKER: They may not teach that trick at the Academy, but it works.
+[00:04:44.758 --> 00:04:45.238] SITO: Thank you, sir.
+[00:04:46.278 --> 00:04:46.621] RIKER: Lavelle.
+[00:04:46.621 --> 00:04:46.964] LAVELLE: Sir?
+[00:04:46.964 --> 00:04:48.678] RIKER: Resume previous course and speed.
+[00:04:48.918 --> 00:04:49.398] LAVELLE: Aye, aye, sir.
+[00:04:51.398 --> 00:04:53.238] RIKER: One aye is sufficient acknowledgment, Ensign.
+[00:04:55.158 --> 00:04:57.638] PICARD: Helm, change course for the Argaya system, maximum warp.
+[00:04:57.878 --> 00:04:58.198] LAVELLE: Aye, sir.
+[00:04:58.278 --> 00:04:59.558] RIKER: What happened to the rendezvous with the Clement?
+[00:04:59.558 --> 00:05:01.398] PICARD: I've just received new orders from Starfleet.
+[00:05:01.398 --> 00:05:04.198] PICARD: We'll discuss it in the Observation lounge. Mister Data, Mister Worf.
+[00:05:05.398 --> 00:05:07.158] RIKER: Ensign Sito, take over at Ops.
+[00:05:07.798 --> 00:05:08.118] SITO: Yes, sir.
+[00:05:17.158 --> 00:05:21.078] SITO: The Argaya system's close to the Cardassian border.
+[00:05:21.078 --> 00:05:22.038] SITO: I wonder why we're going there.
+[00:05:25.878 --> 00:05:27.478] SITO: How'd you like to be a spider under that table?
+[00:05:28.998 --> 00:05:29.238] LAVELLE: What?
+[00:05:29.958 --> 00:05:31.238] SITO: A spider under the table.
+[00:05:32.598 --> 00:05:33.878] LAVELLE: Is that like a fly on the wall?
+[00:05:35.158 --> 00:05:35.798] SITO: I guess so.
+[00:05:38.438 --> 00:05:41.798] SITO: You did really well during the drill.
+[00:05:42.758 --> 00:05:44.758] LAVELLE: Well apparently Commander Riker didn't think so.
+[00:05:45.878 --> 00:05:47.718] LAVELLE: I swear he's got it in for me.
+[00:05:48.358 --> 00:05:49.478] SITO: You're imagining things.
+[00:05:49.878 --> 00:05:50.198] LAVELLE: Yeah?
+[00:05:50.918 --> 00:05:52.598] LAVELLE: Then how come you're sitting in that chair instead of me?
+[00:05:54.358 --> 00:05:56.278] SITO: I guess he figured I need more practice than you do.
+[00:06:05.958 --> 00:06:06.518] TAURIK: Excuse me, sir.
+[00:06:06.518 --> 00:06:07.958] TAURIK: Do you have a minute?
+[00:06:08.758 --> 00:06:09.238] LAFORGE: Sure, Taurik.
+[00:06:09.238 --> 00:06:09.638] LAFORGE: What is it?
+[00:06:09.958 --> 00:06:11.318] TAURIK: I'd like you to take a look at something.
+[00:06:16.029 --> 00:06:17.629] LAFORGE: Have you been improvising again, Ensign?
+[00:06:18.269 --> 00:06:22.829] TAURIK: In a manner of speaking. I'm running a computer simulation to test a new warp field configuration.
+[00:06:23.469 --> 00:06:25.229] LAFORGE: You've got a problem here.
+[00:06:25.469 --> 00:06:27.469] LAFORGE: Your plasma flow to the nacelles is out of sync.
+[00:06:27.469 --> 00:06:29.469] TAURIK: Actually, sir, that was done deliberately.
+[00:06:30.189 --> 00:06:36.909] TAURIK: As you can see, this configuration has increased overall warp field integrity by seven percent.
+[00:06:37.709 --> 00:06:38.189] LAFORGE: You're right.
+[00:06:38.509 --> 00:06:42.829] TAURIK: Doctor Nils Diaz has been experimenting with this technique at the Tanaline Propulsion Laboratory.
+[00:06:43.149 --> 00:06:46.989] LAFORGE: Yeah, I'm familiar with his work, but I never heard anything about this.
+[00:06:47.149 --> 00:06:48.749] TAURIK: His findings have not been released yet.
+[00:06:49.229 --> 00:06:51.949] TAURIK: I was able to review a preliminary report when I was at the Academy.
+[00:06:54.749 --> 00:06:55.789] LAFORGE: I look forward to reading about it
+[00:06:55.789 --> 00:07:00.749] TAURIK: I predict that when these findings are made public, they will become a new model for warp field operation.
+[00:07:01.629 --> 00:07:02.349] LAFORGE: Sounds interesting.
+[00:07:02.589 --> 00:07:09.069] TAURIK: With your permission, sir, I'd like to begin tests to see if the technique can be adapted to our warp drive.
+[00:07:10.429 --> 00:07:12.829] LAFORGE: There might be variables that you didn't account for.
+[00:07:14.429 --> 00:07:15.629] TAURIK: I was quite thorough.
+[00:07:16.509 --> 00:07:20.749] LAFORGE: I'm sure you were, but I'd still need to see your simulation before I authorise any tests.
+[00:07:21.709 --> 00:07:22.349] TAURIK: As you wish.
+[00:07:23.389 --> 00:07:27.309] LAFORGE: If you have any other ideas for increasing efficiency, don't hesitate to run them by me.
+[00:07:27.389 --> 00:07:29.229] TAURIK: As a matter of fact, sir, I do.
+[00:07:30.509 --> 00:07:32.269] TAURIK: When would be a good time to discuss them?
+[00:07:32.749 --> 00:07:38.429] LAFORGE: I'll get back to you on that.
+[00:07:47.685 --> 00:07:48.725] OGAWA: Excuse me, Doctor.
+[00:07:49.685 --> 00:07:53.445] CRUSHER: If you're wondering about the evaluations, things couldn't be better.
+[00:07:54.805 --> 00:07:58.325] OGAWA: Actually, I just wanted to tell you that Ensign Reilly's condition is showing improvement.
+[00:07:59.285 --> 00:07:59.925] OGAWA: But thank you.
+[00:08:00.965 --> 00:08:02.965] CRUSHER: In fact, I'm recommending you for a promotion.
+[00:08:02.965 --> 00:08:04.805] CRUSHER: How does Lieutenant Alyssa Ogawa sound?
+[00:08:06.325 --> 00:08:07.605] OGAWA: It sounds wonderful.
+[00:08:08.325 --> 00:08:12.085] CRUSHER: I'll talk to Commander Riker and I'm sure it'll be official as soon as the current crew evaluations are over.
+[00:08:14.005 --> 00:08:14.885] CRUSHER: Oh, Alyssa,
+[00:08:16.645 --> 00:08:18.565] CRUSHER: how are things going between you and Lieutenant Powell?
+[00:08:19.925 --> 00:08:20.245] OGAWA: Fine.
+[00:08:21.685 --> 00:08:22.245] OGAWA: I think.
+[00:08:22.885 --> 00:08:23.445] CRUSHER: You think?
+[00:08:24.645 --> 00:08:28.885] OGAWA: I'm sure it's nothing, but he seems preoccupied lately.
+[00:08:29.125 --> 00:08:30.405] OGAWA: Last night he had to cancel our date.
+[00:08:30.725 --> 00:08:31.285] CRUSHER: I see.
+[00:08:31.925 --> 00:08:34.485] OGAWA: He's been putting together a research proposal.
+[00:08:35.285 --> 00:08:36.565] OGAWA: He's been really busy with it.
+[00:08:38.005 --> 00:08:38.885] CRUSHER: I know what that's like.
+[00:08:39.205 --> 00:08:41.605] CRUSHER: Sometimes I get so busy with research I forget to eat.
+[00:08:42.565 --> 00:08:43.285] OGAWA: I just wonder.
+[00:08:47.925 --> 00:08:48.245] CRUSHER: What?
+[00:08:48.645 --> 00:08:49.045] CRUSHER: Sit down.
+[00:08:53.845 --> 00:08:55.285] OGAWA: I've never met anyone like Andrew.
+[00:08:56.245 --> 00:08:58.005] OGAWA: It's as though we've known each other forever.
+[00:08:58.965 --> 00:09:00.485] CRUSHER: You do seem very well suited.
+[00:09:02.725 --> 00:09:08.885] OGAWA: But I know that in the beginning of a romance it's possible to be a little blind.
+[00:09:10.405 --> 00:09:11.445] CRUSHER: I'm not sure I know what you mean.
+[00:09:11.845 --> 00:09:12.085] OGAWA: Well,
+[00:09:13.497 --> 00:09:17.097] OGAWA: cancelling a date like that, the way he's been so distant lately.
+[00:09:18.617 --> 00:09:21.097] OGAWA: Doctor, do you think those could be warning signs
+[00:09:21.977 --> 00:09:23.641] OGAWA: that he's losing interest?
+[00:09:23.641 --> 00:09:24.057] CRUSHER: Alyssa,
+[00:09:25.177 --> 00:09:28.137] CRUSHER: I think you're overreacting.
+[00:09:28.137 --> 00:09:28.377] OGAWA: Maybe so.
+[00:09:29.817 --> 00:09:35.177] CRUSHER: If I cared as much about someone as much as you care about Andrew, he'd have to do a lot more than cancel a date before I'd get suspicious.
+[00:09:36.537 --> 00:09:37.017] OGAWA: You're right.
+[00:09:38.617 --> 00:09:41.577] CRUSHER: I'm sure that when this research is over, things will be back just the way they were.
+[00:09:45.977 --> 00:09:49.337] OGAWA: Except, of course, that he'll have to deal with Lieutenant Ogawa.
+[00:09:58.537 --> 00:10:08.537] SITO: I only filled in at Ops for a half hour, but I had to degauss the main deflector dish, recalibrate the navigation grid, and use internal sensors to find a lost puppy.
+[00:10:09.577 --> 00:10:11.657] WORF: Ops is a very different challenge from Tactical.
+[00:10:12.937 --> 00:10:15.817] SITO: I can't figure out why I'm even being considered for this assignment.
+[00:10:17.257 --> 00:10:18.377] SITO: I'm a security officer.
+[00:10:20.777 --> 00:10:21.657] WORF: I recommended you.
+[00:10:24.537 --> 00:10:25.737] SITO: I'll try not to let you down, sir.
+[00:10:27.177 --> 00:10:28.377] LAVELLE: What could they be talking about?
+[00:10:29.897 --> 00:10:32.137] TAURIK: Have you ever considered learning to lip read?
+[00:10:32.937 --> 00:10:34.057] LAVELLE: You think Worf's chewing her out?
+[00:10:34.537 --> 00:10:35.977] BEN: No, he always looks like that.
+[00:10:36.777 --> 00:10:39.337] LAVELLE: Maybe he's giving her pointers on how to land the Ops position.
+[00:10:39.817 --> 00:10:40.377] BEN: Hi, Will.
+[00:10:41.017 --> 00:10:42.377] RIKER: Ben. How you doing?
+[00:10:42.777 --> 00:10:43.657] LAVELLE: You call him Will?
+[00:10:44.057 --> 00:10:44.377] BEN: Why not?
+[00:10:44.937 --> 00:10:46.137] LAVELLE: He's second in command of this ship,
+[00:10:46.137 --> 00:10:46.857] LAVELLE: that's why not.
+[00:10:47.115 --> 00:10:48.555] BEN: I'm not Starfleet,
+[00:10:48.555 --> 00:10:49.275] BEN: I'm a civilian.
+[00:10:49.595 --> 00:10:51.755] BEN: When he's in here, he wants to be treated like a civilian.
+[00:10:52.475 --> 00:10:54.875] LAVELLE: Riker? I bet he sleeps in his uniform.
+[00:10:55.035 --> 00:10:56.555] BEN: You only think that because he's your CO.
+[00:10:56.955 --> 00:10:58.258] BEN: If you got to know him.
+[00:10:58.258 --> 00:10:58.475] LAVELLE: Right.
+[00:10:59.195 --> 00:11:01.515] TAURIK: He's convinced Commander Riker doesn't like him.
+[00:11:02.635 --> 00:11:02.955] BEN: Why?
+[00:11:02.955 --> 00:11:04.075] BEN: Did you crash the ship into something?
+[00:11:04.475 --> 00:11:05.755] LAVELLE: No. He just doesn't like me.
+[00:11:06.075 --> 00:11:07.195] TAURIK: He doesn't even know you.
+[00:11:07.435 --> 00:11:07.995] BEN: That's right.
+[00:11:08.235 --> 00:11:09.035] BEN: You should go talk to him.
+[00:11:09.675 --> 00:11:10.235] LAVELLE: About what?
+[00:11:10.955 --> 00:11:13.035] TAURIK: Perhaps something you have in common.
+[00:11:13.755 --> 00:11:15.515] BEN: He likes Jazz, poker.
+[00:11:15.515 --> 00:11:16.395] BEN: He's Canadian.
+[00:11:16.555 --> 00:11:16.875] LAVELLE: Yeah?
+[00:11:17.915 --> 00:11:19.115] LAVELLE: My grandfather was from Canada.
+[00:11:19.515 --> 00:11:19.835] BEN: There you go.
+[00:11:20.795 --> 00:11:21.035] SITO: Hi.
+[00:11:22.955 --> 00:11:23.435] LAVELLE: Excuse me,
+[00:11:23.835 --> 00:11:24.875] LAVELLE: I've got to go talk to somebody.
+[00:11:30.555 --> 00:11:32.955] LAVELLE: Good evening, sir.
+[00:11:34.795 --> 00:11:35.195] RIKER: Lavelle.
+[00:11:39.115 --> 00:11:39.835] RIKER: Something I can do for you?
+[00:11:40.315 --> 00:11:40.715] LAVELLE: No, sir.
+[00:11:40.875 --> 00:11:42.235] LAVELLE: I just came to get another drink.
+[00:11:43.995 --> 00:11:44.795] RIKER: Is there something wrong with that one?
+[00:11:45.915 --> 00:11:47.755] LAVELLE: No, actually, I, er.
+[00:11:47.835 --> 00:11:48.475] LAVELLE: What are you having?
+[00:11:48.955 --> 00:11:49.515] RIKER: Trakian Ale.
+[00:11:50.155 --> 00:11:50.795] LAVELLE: Good choice.
+[00:11:51.035 --> 00:11:51.515] LAVELLE: I'll have one, too.
+[00:11:54.715 --> 00:11:56.315] LAVELLE: My grandfather was Canadian, you know.
+[00:11:56.475 --> 00:11:57.035] RIKER: Really?
+[00:11:57.595 --> 00:11:58.075] LAVELLE: Aren't you one, too?
+[00:11:59.115 --> 00:11:59.755] RIKER: A grandfather?
+[00:12:01.035 --> 00:12:02.315] LAVELLE: No, Canadian, sir.
+[00:12:02.395 --> 00:12:03.115] LAVELLE: Canadian.
+[00:12:04.475 --> 00:12:05.355] RIKER: No, I grew up in Alaska.
+[00:12:07.115 --> 00:12:07.355] LAVELLE: Oh.
+[00:12:08.155 --> 00:12:10.795] LAVELLE: Well, they both get a lot of snow.
+[00:12:10.945 --> 00:12:11.545] RIKER: Yeah.
+[00:12:12.475 --> 00:12:12.555] LAVELLE: It
+[00:12:15.195 --> 00:12:16.075] LAVELLE: was good talking to you, sir.
+[00:12:19.515 --> 00:12:20.315] BARTENDER: Your ale, Ensign.
+[00:12:29.281 --> 00:12:30.881] RIKER: We're holding position in the Argaya System.
+[00:12:32.561 --> 00:12:32.881] PICARD: Anything?
+[00:12:33.281 --> 00:12:33.601] WORF: No, sir.
+[00:12:33.761 --> 00:12:35.361] WORF: I detect no vessels in the vicinity.
+[00:12:36.561 --> 00:12:38.161] PICARD: How close to the Cardassian border are we?
+[00:12:39.921 --> 00:12:41.441] DATA: Less than five thousand kilometres, sir.
+[00:12:42.561 --> 00:12:44.801] WORF: Sir, I am detecting an object
+[00:12:45.681 --> 00:12:46.561] WORF: five metres in length.
+[00:12:46.881 --> 00:12:48.161] WORF: It appears to be an escape pod.
+[00:12:48.801 --> 00:12:50.241] RIKER: They must have been forced to abandon the ship.
+[00:12:51.201 --> 00:12:52.801] PICARD: How far inside Cardassian space is it?
+[00:12:53.041 --> 00:12:54.081] WORF: Fifty thousand kilometres.
+[00:12:55.841 --> 00:12:56.961] PICARD: How the hell are we going to get it out of
+[00:12:58.481 --> 00:13:00.481] PICARD: there?
+[00:13:04.161 --> 00:13:06.161] DATA: Sir, the pod's life support system is failing.
+[00:13:06.401 --> 00:13:07.201] RIKER: Notify Doctor Crusher.
+[00:13:07.521 --> 00:13:10.801] PICARD: Can we get within transporter range without crossing into Cardassian territory?
+[00:13:11.521 --> 00:13:14.401] DATA: We would need to boost the gain on the confinement beam by at least seven percent.
+[00:13:14.961 --> 00:13:15.521] PICARD: Mister La Forge?
+[00:13:15.841 --> 00:13:16.721] LAFORGE: I'm on it, Captain.
+[00:13:17.521 --> 00:13:18.081] LAFORGE: There, try that.
+[00:13:18.321 --> 00:13:19.361] TAURIK: The pod is still too far away.
+[00:13:19.841 --> 00:13:21.761] LAFORGE: I'm going to try augmenting the frequency spread.
+[00:13:22.721 --> 00:13:24.881] TAURIK: Bio readings indicate that passenger's humanoid.
+[00:13:25.121 --> 00:13:26.881] TAURIK: Attempting life form identification.
+[00:13:26.961 --> 00:13:28.161] LAFORGE: No one told you to do that, Ensign.
+[00:13:28.961 --> 00:13:30.561] LAFORGE: Let's just get him aboard safely.
+[00:13:32.401 --> 00:13:33.121] LAFORGE: There,
+[00:13:34.401 --> 00:13:34.641] LAFORGE: that should do it.
+[00:13:35.601 --> 00:13:37.761] TAURIK: Confinement beam's at one hundred nine percent of normal.
+[00:13:38.561 --> 00:13:39.361] LAFORGE: Transporter room,
+[00:13:39.521 --> 00:13:40.641] LAFORGE: you should be able to get a lock now.
+[00:13:40.961 --> 00:13:41.281] CREWMAN: Aye, sir.
+[00:13:42.881 --> 00:13:43.841] PICARD: Doctor Crusher, are you ready?
+[00:13:44.721 --> 00:13:45.361] CRUSHER: Stand by.
+[00:13:46.641 --> 00:13:48.961] CRUSHER: Alyssa, I'm afraid I'm going to have to ask you to leave now.
+[00:13:48.961 --> 00:13:49.521] OGAWA: All right, Doctor.
+[00:13:53.996 --> 00:13:55.196] CRUSHER: Transporter room. go ahead.
+[00:13:55.676 --> 00:13:55.996] CREWMAN: Aye, sir.
+[00:14:00.236 --> 00:14:00.876] OGAWA: What are you doing here?
+[00:14:01.596 --> 00:14:03.916] SITO: I'm not supposed to let anyone but the senior officers inside
+[00:14:03.916 --> 00:14:04.183] SITO: Sickbay.
+[00:14:04.183 --> 00:14:06.316] OGAWA: Do you have any idea what's going on?
+[00:14:06.476 --> 00:14:07.036] SITO: No, do you?
+[00:14:08.076 --> 00:14:08.476] OGAWA: I'd better go.
+[00:14:11.116 --> 00:14:11.436] PICARD: Ensign.
+[00:14:11.516 --> 00:14:11.756] SITO: Sir.
+[00:14:18.476 --> 00:14:18.476] RIKER: Twelve
+[00:14:23.196 --> 00:14:23.756] RIKER: hundred hours.
+[00:14:24.236 --> 00:14:25.116] RIKER: Alpha shift is relieved.
+[00:14:28.636 --> 00:14:29.356] LAVELLE: Excuse me, sir.
+[00:14:29.996 --> 00:14:31.756] LAVELLE: If you don't mind, I'd like to stay on for another shift.
+[00:14:32.076 --> 00:14:32.796] LAVELLE: I could use the training.
+[00:14:33.516 --> 00:14:34.396] RIKER: Now's not the best time.
+[00:14:35.756 --> 00:14:36.076] LAVELLE: Yes, sir.
+[00:14:46.796 --> 00:14:47.596] PICARD: Ensign, you're with me.
+[00:15:02.476 --> 00:15:02.796] PICARD: Bridge.
+[00:15:02.796 --> 00:15:02.796] PICARD: You
+[00:15:09.196 --> 00:15:10.636] PICARD: are a certified pilot, Ensign?
+[00:15:12.236 --> 00:15:12.476] SITO: Yes, sir.
+[00:15:24.604 --> 00:15:26.524] PICARD: How long have you served on board the Enterprise, Ensign?
+[00:15:27.164 --> 00:15:27.964] SITO: Seven months, sir.
+[00:15:28.604 --> 00:15:30.764] PICARD: I see I understand that you've been recommended for the Ops position.
+[00:15:30.764 --> 00:15:31.724] PICARD: Do you think you're up to it?
+[00:15:32.284 --> 00:15:32.844] SITO: I do, sir.
+[00:15:34.124 --> 00:15:34.924] PICARD: I'm not so sure.
+[00:15:35.004 --> 00:15:37.071] PICARD: I'm concerned about your record.
+[00:15:37.071 --> 00:15:37.484] SITO: Sir?
+[00:15:38.284 --> 00:15:40.604] PICARD: The incident that you were involved in at the Academy.
+[00:15:41.804 --> 00:15:43.964] SITO: With all due respect that was three years ago.
+[00:15:43.964 --> 00:15:44.826] SITO: My record since then
+[00:15:44.826 --> 00:15:46.764] PICARD: It doesn't matter how long ago it was, Ensign.
+[00:15:47.404 --> 00:15:48.764] PICARD: Would you do something like that again?
+[00:15:49.724 --> 00:15:54.966] SITO: I can assure you, sir, that I would never, never jeopardise lives by participating in
+[00:15:54.966 --> 00:15:56.364] PICARD: A dare devil stunt?
+[00:15:57.244 --> 00:15:58.284] PICARD: I would certainly hope not.
+[00:15:59.164 --> 00:16:06.204] PICARD: What concerns me is that you participated in a cover-up that impeded an official investigation into the death of a cadet.
+[00:16:07.164 --> 00:16:09.404] SITO: Sir, I know I should have told the truth right from the start
+[00:16:09.404 --> 00:16:09.804] PICARD: Yes you should,
+[00:16:10.524 --> 00:16:11.164] PICARD: but you didn't.
+[00:16:12.764 --> 00:16:16.844] PICARD: Instead you joined with the others to pretended that was simply an accident.
+[00:16:18.604 --> 00:16:20.924] PICARD: Now, what do you think that tells me about your character?
+[00:16:24.284 --> 00:16:24.444] SITO: Sir,
+[00:16:24.444 --> 00:16:29.484] SITO: if you had any idea what it was like after that incident. I didn't have any friends.
+[00:16:31.084 --> 00:16:32.604] SITO: I didn't have anyone to talk to.
+[00:16:33.804 --> 00:16:37.324] SITO: I had to take my flight test with the instructor because no one else would be my partner.
+[00:16:37.324 --> 00:16:41.484] SITO: In a lot of ways it would have been easier to just walk away, but I didn't.
+[00:16:42.684 --> 00:16:43.324] SITO: I stuck with it.
+[00:16:44.524 --> 00:16:46.364] SITO: Doesn't that say something about my character, too?
+[00:16:47.164 --> 00:16:50.364] PICARD: Well I'm really very sorry you didn't enjoy your time at the Academy, Ensign.
+[00:16:51.804 --> 00:16:54.444] PICARD: As far as I'm concerned, you should have been expelled for what you did.
+[00:16:55.948 --> 00:16:58.348] PICARD: Quite frankly, I don't know how you made it on board this ship.
+[00:17:01.868 --> 00:17:02.508] PICARD: You're dismissed.
+[00:17:13.948 --> 00:17:15.068] LAFORGE: Another two seconds.
+[00:17:17.548 --> 00:17:18.188] LAFORGE: Okay, that's enough.
+[00:17:20.988 --> 00:17:21.468] TAURIK: Sir,
+[00:17:22.988 --> 00:17:24.028] TAURIK: I'm a little puzzled.
+[00:17:24.028 --> 00:17:28.828] TAURIK: Why are we intentionally damaging the shuttlecraft?
+[00:17:28.828 --> 00:17:30.748] LAFORGE: We're evaluating hull resiliency.
+[00:17:31.548 --> 00:17:33.548] LAFORGE: Starfleet requires periodic testing.
+[00:17:33.948 --> 00:17:34.348] TAURIK: I see.
+[00:17:36.428 --> 00:17:38.428] TAURIK: I don't believe I'm familiar with that requirement.
+[00:17:40.428 --> 00:17:42.428] LAFORGE: Probably because you're not a senior officer.
+[00:17:44.668 --> 00:17:50.348] TAURIK: If you wish, I could reconfigure the phaser to fire a low intensity burst that would not harm the shuttle's hull.
+[00:17:50.988 --> 00:17:52.588] TAURIK: The test procedure would not be affected.
+[00:17:52.828 --> 00:17:54.668] LAFORGE: It's fine the way it is.
+[00:17:55.388 --> 00:17:59.228] LAFORGE: Now, give me another burst, about four seconds, right here.
+[00:17:59.228 --> 00:18:01.148] TAURIK: Do you want me to fire from this position?
+[00:18:02.668 --> 00:18:04.108] LAFORGE: Actually, why don't you do it from over here.
+[00:18:05.068 --> 00:18:06.508] TAURIK: That would be consistent.
+[00:18:08.748 --> 00:18:09.468] LAFORGE: Consistent with what?
+[00:18:13.148 --> 00:18:16.908] TAURIK: With making it appear that this shuttle had fled an attack.
+[00:18:18.828 --> 00:18:22.108] LAFORGE: What makes you think that's what we're doing?
+[00:18:22.124 --> 00:18:30.284] TAURIK: The pattern of fire you have asked for is similar to what might result if the shuttle had fled an attacker while engaging in evasive manoeuvres.
+[00:18:32.044 --> 00:18:33.644] LAFORGE: It's an amazing coincidence.
+[00:18:34.844 --> 00:18:35.244] TAURIK: Yes, sir.
+[00:18:36.204 --> 00:18:36.844] TAURIK: It is indeed.
+[00:18:37.404 --> 00:18:39.084] TAURIK: Shall we proceed with the testing?
+[00:18:39.404 --> 00:18:40.684] LAFORGE: Yes, Ensign.
+[00:18:40.684 --> 00:18:41.164] LAFORGE: Thank you.
+[00:18:48.524 --> 00:18:50.044] CRUSHER: Alyssa, thank you for coming so quickly.
+[00:18:50.124 --> 00:18:51.564] CRUSHER: We have to prepare for surgery.
+[00:18:51.564 --> 00:18:53.964] CRUSHER: We have a comatose patient with a subdural hematoma.
+[00:18:53.964 --> 00:18:54.284] OGAWA: Yes, sir.
+[00:18:54.444 --> 00:18:57.404] CRUSHER: I want to make it clear that you are not to discuss what you see here with anyone.
+[00:18:57.404 --> 00:18:57.884] OGAWA: I understand.
+[00:18:57.884 --> 00:19:00.044] CRUSHER: We'll need to synthesise at least a litre of Cardassian
+[00:19:02.124 --> 00:19:04.124] CRUSHER: blood.
+[00:19:12.284 --> 00:19:13.004] BEN: It's your bet, Taurik.
+[00:19:14.124 --> 00:19:18.204] BEN: What I can't understand is why we're just sitting here so close to the Cardassian border.
+[00:19:19.404 --> 00:19:21.564] LAVELLE: It must have something to do with that escape pod we picked up.
+[00:19:22.444 --> 00:19:23.084] LAVELLE: Don't you think, Sito?
+[00:19:23.724 --> 00:19:24.044] SITO: Maybe.
+[00:19:24.194 --> 00:19:24.794] LAVELLE: I
+[00:19:25.804 --> 00:19:26.604] LAVELLE: wonder who was in it?
+[00:19:27.404 --> 00:19:28.044] BEN: You know what I heard?
+[00:19:30.364 --> 00:19:31.724] BEN: It was Ambassador Spock.
+[00:19:31.964 --> 00:19:33.324] TAURIK: That is most unlikely.
+[00:19:33.644 --> 00:19:34.604] BEN: That's what I was told.
+[00:19:34.844 --> 00:19:35.324] TAURIK: By whom?
+[00:19:35.724 --> 00:19:36.604] BEN: I can't say.
+[00:19:37.244 --> 00:19:38.764] LAVELLE: They beamed whoever was in it right to Sickbay.
+[00:19:39.324 --> 00:19:40.444] LAVELLE: Did you see anything when you went down there?
+[00:19:42.124 --> 00:19:42.364] OGAWA: No.
+[00:19:43.324 --> 00:19:45.804] OGAWA: Doctor Crusher just asked me to help her with the laboratory schedule.
+[00:19:46.844 --> 00:19:48.844] TAURIK: I thought Lieutenant Powell was going to join us tonight?
+[00:19:50.204 --> 00:19:51.404] OGAWA: He had to do a double shift.
+[00:19:52.450 --> 00:19:53.250] LAVELLE: That's too bad.
+[00:19:53.650 --> 00:19:55.890] LAVELLE: He must be the worst poker player I've ever met.
+[00:19:56.770 --> 00:19:57.330] BEN: It's your bet, Sam.
+[00:20:07.410 --> 00:20:07.810] WORF: Twenty.
+[00:20:10.210 --> 00:20:14.610] CRUSHER: The thing is, I saw Powell in Ten Forward with another woman, and the way they were talking it made me wonder.
+[00:20:15.570 --> 00:20:17.490] TROI: Well, if he's seeing someone else he should tell Alyssa.
+[00:20:17.490 --> 00:20:19.890] TROI: I mean, it might hurt her now, but it would be better in the long run.
+[00:20:20.610 --> 00:20:22.450] RIKER: I've been meaning to talk to you about something, Mister Worf.
+[00:20:23.170 --> 00:20:25.330] RIKER: I don't think Ensign Sito's prepared for the Ops position.
+[00:20:26.210 --> 00:20:28.210] WORF: Well, I must say I disagree, sir.
+[00:20:29.970 --> 00:20:30.370] LAFORGE: Counsellor.
+[00:20:30.530 --> 00:20:31.650] LAFORGE: Pair of fours bets.
+[00:20:32.450 --> 00:20:32.850] RIKER: I'm listening.
+[00:20:33.000 --> 00:20:33.600] BEN: The
+[00:20:34.850 --> 00:20:35.570] BEN: bet is fifty.
+[00:20:43.730 --> 00:20:48.130] TAURIK: It would be illogical for the Captain to deny you a promotion for something you did as a cadet.
+[00:20:48.930 --> 00:20:50.690] SITO: He said it shows I don't have character.
+[00:20:51.570 --> 00:20:52.370] OGAWA: What did you say?
+[00:20:53.730 --> 00:20:54.290] SITO: What could I say?
+[00:20:56.690 --> 00:20:57.330] SITO: Maybe he's right.
+[00:20:58.130 --> 00:21:01.810] LAVELLE: Hey, you're a damn fine officer and you deserve that post as much as anyone.
+[00:21:03.730 --> 00:21:05.010] LAVELLE: One thing's for sure, I won't be getting it.
+[00:21:05.330 --> 00:21:06.290] LAVELLE: Not if it's up to Riker.
+[00:21:07.170 --> 00:21:08.210] WORF: It is your decision, sir,
+[00:21:08.770 --> 00:21:12.530] WORF: but I am certain if you give Ensign Sito a chance to prove herself, she will not disappoint you.
+[00:21:13.330 --> 00:21:14.770] RIKER: Very well, I'll take her under consideration.
+[00:21:15.250 --> 00:21:16.850] RIKER: Besides, I'm not convinced about Lavelle.
+[00:21:17.730 --> 00:21:18.530] TROI: Really? Why?
+[00:21:19.010 --> 00:21:20.210] RIKER: He's too eager to please.
+[00:21:20.850 --> 00:21:22.770] RIKER: He's always trying to ingratiate himself to me.
+[00:21:23.650 --> 00:21:23.810] TROI: Why
+[00:21:23.890 --> 00:21:25.330] TROI: assume he's doing it that to get the job?
+[00:21:27.080 --> 00:21:27.320] LAFORGE: Fifty.
+[00:21:27.480 --> 00:21:27.800] RIKER: There's
+[00:21:29.880 --> 00:21:32.520] RIKER: your fifty, and one hundred more.
+[00:21:34.120 --> 00:21:34.760] TROI: I don't know.
+[00:21:35.160 --> 00:21:37.720] TROI: It seems to me that you and Lavelle are a lot alike.
+[00:21:38.040 --> 00:21:38.360] RIKER: What?
+[00:21:39.880 --> 00:21:40.760] RIKER: We're not at all alike.
+[00:21:41.400 --> 00:21:42.040] LAFORGE: You're bluffing.
+[00:21:44.760 --> 00:21:45.320] LAVELLE: You think so?
+[00:21:46.520 --> 00:21:47.080] BEN: Yes,
+[00:21:47.720 --> 00:21:48.680] BEN: and I'm not going to let you get
+[00:21:50.360 --> 00:21:53.320] BEN: away with it.
+[00:21:58.840 --> 00:22:01.720] OGAWA: You know, Sam, maybe you shouldn't try so hard with Riker.
+[00:22:02.680 --> 00:22:05.480] OGAWA: It doesn't matter whether he likes you as long as he respects you.
+[00:22:06.040 --> 00:22:09.160] SITO: He must, otherwise he would not be considering you for the Ops position.
+[00:22:10.360 --> 00:22:11.000] LAVELLE: You're probably right.
+[00:22:12.120 --> 00:22:16.360] LAVELLE: Maybe I'm just telling myself he hates me so that if I don't get promoted, I'll have an excuse.
+[00:22:16.920 --> 00:22:17.960] BEN: You in or not?
+[00:22:19.640 --> 00:22:23.880] TAURIK: At this juncture, the odds of my winning this hand are less than thirty nine to one.
+[00:22:28.440 --> 00:22:29.000] TAURIK: I fold.
+[00:22:29.000 --> 00:22:31.160] LAFORGE: The Commander's flush is still working.
+[00:22:32.360 --> 00:22:33.080] LAFORGE: No help, Worf.
+[00:22:34.200 --> 00:22:39.000] LAFORGE: Tens and deuces for the Doctor. And Jacks and fours for the Counsellor.
+[00:22:39.720 --> 00:22:41.640] LAFORGE: Ah, three sixes.
+[00:22:42.040 --> 00:22:42.440] WORF: Fold.
+[00:22:44.600 --> 00:22:45.560] RIKER: Looks like it's just you and me.
+[00:22:46.520 --> 00:22:47.400] RIKER: You going to go another fifty?
+[00:22:48.040 --> 00:22:48.520] LAFORGE: I'm thinking.
+[00:22:48.520 --> 00:22:49.240] LAFORGE: Give me a second, here.
+[00:22:51.000 --> 00:22:54.840] TROI: Didn't you tell me that you took up poker so you could be the officer's game at the Potemkin?
+[00:22:55.800 --> 00:22:56.920] RIKER: I happen to like poker.
+[00:22:58.040 --> 00:22:58.280] TROI: But
+[00:22:58.494 --> 00:23:01.854] TROI: your senior officers might have thought you were trying to ingratiate yourself.
+[00:23:03.454 --> 00:23:09.374] TROI: I guess it's lucky that they realised you were young and inexperienced, and decided not to hold it against you.
+[00:23:12.814 --> 00:23:14.094] RIKER: Maybe I have been a little hard on Lavelle.
+[00:23:17.774 --> 00:23:19.774] WORF: I do not believe he is bluffing.
+[00:23:20.334 --> 00:23:20.734] LAFORGE: I do.
+[00:23:21.614 --> 00:23:22.094] LAFORGE: There you go.
+[00:23:23.534 --> 00:23:24.014] LAFORGE: What've you got?
+[00:23:25.854 --> 00:23:26.174] WORF: Flush.
+[00:23:26.814 --> 00:23:28.494] LAFORGE: I can't believe this.
+[00:23:29.054 --> 00:23:30.174] RIKER: I am your worst nightmare.
+[00:23:32.734 --> 00:23:33.614] BEN: I knew it.
+[00:23:34.894 --> 00:23:36.254] LAVELLE: How could you tell I was bluffing?
+[00:23:36.334 --> 00:23:38.334] BEN: You don't really expect me to answer that, do you?
+[00:23:38.574 --> 00:23:39.854] SITO: Look, it's getting late.
+[00:23:40.334 --> 00:23:41.614] SITO: Maybe we should all get some sleep.
+[00:23:41.774 --> 00:23:42.254] BEN: One more hand.
+[00:23:42.494 --> 00:23:44.094] RIKER: Come on, Geordi.
+[00:23:44.094 --> 00:23:45.854] RIKER: You don't have to quit just because I'm unbeatable?
+[00:23:45.934 --> 00:23:47.774] LAFORGE: Nah, there's something I need to do down in Engineering.
+[00:23:50.734 --> 00:23:51.774] LAFORGE: I'll get you next time.
+[00:23:52.094 --> 00:23:52.574] RIKER: I'll be there.
+[00:23:53.134 --> 00:23:53.774] LAFORGE: Goodnight, everybody.
+[00:23:53.934 --> 00:23:54.334] TROI + CRUSHER: Goodnight.
+[00:23:59.774 --> 00:23:59.774] SITO: Bye.
+[00:23:59.854 --> 00:24:00.094] LAVELLE: Goodnight.
+[00:24:00.254 --> 00:24:00.734] OGAWA: See you later.
+[00:24:07.454 --> 00:24:14.254] TAURIK: What I find curious is that when Commander La Forge saw that the technique I was using was actually more efficient, he seemed annoyed.
+[00:24:14.254 --> 00:24:15.614] BEN: Of course he was.
+[00:24:16.254 --> 00:24:18.014] LAVELLE: He didn't like the fact that you knew something he didn't.
+[00:24:19.934 --> 00:24:22.814] TAURIK: Do you think I have irreparably damaged my relationship with him?
+[00:24:23.454 --> 00:24:25.054] LAVELLE: It depends on what kind of a guy he is.
+[00:24:26.122 --> 00:24:26.762] BEN: Ante up, gentlemen.
+[00:24:26.912 --> 00:24:27.512] BEN: LAVELLE:
+[00:24:29.082 --> 00:24:30.309] BEN: Come in.
+[00:24:30.309 --> 00:24:30.922] LAVELLE: Commander.
+[00:24:31.322 --> 00:24:31.802] LAFORGE: As you were.
+[00:24:32.282 --> 00:24:33.402] LAFORGE: I just dropped by to see Taurik.
+[00:24:34.122 --> 00:24:34.922] TAURIK: What can I do for you, sir?
+[00:24:35.482 --> 00:24:40.202] LAFORGE: Well, I'm headed for Engineering to run those tests on the nacelles. Since you've already put in some work on the technique, I
+[00:24:40.202 --> 00:24:41.802] LAFORGE: thought you might like to give me a hand.
+[00:24:43.242 --> 00:24:44.762] TAURIK: I'd be pleased to, sir.
+[00:24:45.162 --> 00:24:45.402] LAFORGE: Great.
+[00:24:46.122 --> 00:24:46.522] LAFORGE: Let's go.
+[00:24:53.802 --> 00:24:54.922] BEN: How about some blackjack?
+[00:24:55.242 --> 00:24:57.882] LAVELLE: I've got to get some sleep so I can be sharp tomorrow.
+[00:24:58.202 --> 00:24:58.682] BEN: Why?
+[00:24:58.842 --> 00:25:02.602] BEN: So you can get promoted, have more responsibility, and have to get to sleep even earlier?
+[00:25:06.202 --> 00:25:06.762] LAVELLE: Goodnight.
+[00:25:20.922 --> 00:25:21.162] RIKER: Come in.
+[00:25:23.642 --> 00:25:25.402] CRUSHER: Ben. What are you doing here?
+[00:25:25.562 --> 00:25:28.682] BEN: I just cleaned out some junior officers and I thought I'd do the same here.
+[00:25:30.282 --> 00:25:31.322] RIKER: You're welcome to give it a try.
+[00:25:31.962 --> 00:25:32.602] TROI: Pull up a chair.
+[00:25:32.922 --> 00:25:33.242] BEN: Thanks.
+[00:25:45.002 --> 00:25:45.482] WORF: Dismissed.
+[00:25:47.482 --> 00:25:48.122] WORF: Ensign Sito.
+[00:25:48.922 --> 00:25:49.242] SITO: Yes, sir.
+[00:25:50.042 --> 00:25:51.802] WORF: I also teach an advanced class.
+[00:25:51.962 --> 00:25:53.962] WORF: I believe you may be ready to participate.
+[00:25:53.962 --> 00:25:54.442] WORF: However,
+[00:25:54.899 --> 00:25:57.859] WORF: before you can join the group, you must pass the gik'tal.
+[00:25:58.979 --> 00:25:59.779] SITO: Gik'tal?
+[00:26:00.179 --> 00:26:02.899] WORF: Yes. It is a very ancient Klingon ritual.
+[00:26:03.219 --> 00:26:05.539] WORF: It tests your knowledge of the forms of the mok'bara.
+[00:26:06.579 --> 00:26:07.939] SITO: I should practice first.
+[00:26:08.179 --> 00:26:09.619] WORF: No. No practise.
+[00:26:10.019 --> 00:26:11.219] WORF: That is part of the ritual.
+[00:26:11.699 --> 00:26:13.379] WORF: The test must be unannounced.
+[00:26:20.739 --> 00:26:21.219] WORF: Can you see?
+[00:26:21.619 --> 00:26:22.019] SITO: No.
+[00:26:22.179 --> 00:26:22.419] WORF: Good.
+[00:26:28.499 --> 00:26:29.699] WORF: The gik'tal has begun.
+[00:26:30.259 --> 00:26:30.899] WORF: Defend yourself.
+[00:26:42.019 --> 00:26:44.259] WORF: You must anticipate my attack.
+[00:26:45.299 --> 00:26:45.699] SITO: Yes, sir.
+[00:26:46.179 --> 00:26:46.819] WORF: Defend yourself.
+[00:26:50.499 --> 00:26:50.579] WORF: Are
+[00:27:06.419 --> 00:27:07.379] WORF: you listening, Ensign?
+[00:27:07.939 --> 00:27:08.739] SITO: Yes, but
+[00:27:08.819 --> 00:27:09.539] WORF: Defend yourself.
+[00:27:10.979 --> 00:27:10.979] WORF: You did not anticipate.
+[00:27:32.879 --> 00:27:35.439] SITO: How am I supposed to defend myself when I can't see a thing?
+[00:27:35.439 --> 00:27:36.719] WORF: Stop making excuses.
+[00:27:37.039 --> 00:27:37.919] WORF: Replace the blindfold.
+[00:27:37.919 --> 00:27:40.879] SITO: No. It's not a fair test.
+[00:27:43.279 --> 00:27:44.079] WORF: Very good, Ensign.
+[00:27:44.639 --> 00:27:45.999] WORF: You have passed the challenge.
+[00:27:48.639 --> 00:27:48.879] SITO: What?
+[00:27:48.879 --> 00:27:50.319] SITO: By taking off the blindfold?
+[00:27:51.199 --> 00:27:53.279] WORF: It takes courage to say the test is unfair.
+[00:27:56.879 --> 00:27:58.079] SITO: One thing I don't understand.
+[00:27:59.119 --> 00:28:00.959] SITO: Doesn't gik'tal mean to the death?
+[00:28:02.639 --> 00:28:03.359] WORF: You speak Klingon.
+[00:28:05.439 --> 00:28:05.759] SITO: Sir,
+[00:28:08.079 --> 00:28:10.479] SITO: is there really such a thing as a gik'tal challenge?
+[00:28:11.679 --> 00:28:13.039] WORF: No, there is not.
+[00:28:14.079 --> 00:28:19.119] WORF: But perhaps next time you are judged unfairly, it will not take so many bruises for you protest.
+[00:28:28.559 --> 00:28:31.359] SITO: All I've ever wanted is to make a career for myself in Starfleet.
+[00:28:32.799 --> 00:28:34.559] SITO: I can't change what happened at the Academy.
+[00:28:34.559 --> 00:28:35.359] SITO: No one can.
+[00:28:35.919 --> 00:28:39.359] SITO: All I can do is work hard and try to earn the respect of the people I serve with.
+[00:28:40.079 --> 00:28:44.399] SITO: If you're not going to give me that chance, then I respectfully request that you transfer me to another ship.
+[00:28:45.119 --> 00:28:48.239] PICARD: If you're looking for a more lenient commander, I don't think you'll find one.
+[00:28:51.359 --> 00:28:52.479] SITO: Permission to speak freely, sir?
+[00:28:56.959 --> 00:28:57.519] PICARD: Please do.
+[00:28:59.359 --> 00:29:02.639] SITO: If you didn't want me on your ship you should have said so when I was assigned to it.
+[00:29:05.770 --> 00:29:08.330] SITO: It's not your place to punish me for what I did at the Academy.
+[00:29:08.970 --> 00:29:09.930] SITO: I've worked hard here.
+[00:29:10.810 --> 00:29:11.930] SITO: My record is exemplary.
+[00:29:12.170 --> 00:29:14.650] SITO: If you're going to judge me, judge me for what I am now.
+[00:29:17.050 --> 00:29:17.930] PICARD: Very well, Ensign.
+[00:29:18.250 --> 00:29:18.810] PICARD: I will.
+[00:29:22.490 --> 00:29:25.770] PICARD: It took courage to come here and face me after what I said to you the other day.
+[00:29:27.050 --> 00:29:31.770] PICARD: I didn't ask you here because I was assessing your qualifications for the Ops position.
+[00:29:32.730 --> 00:29:33.770] SITO: I don't understand, sir.
+[00:29:34.090 --> 00:29:38.330] PICARD: I was harsh with you because I wanted to assess you for a very important mission.
+[00:29:39.290 --> 00:29:46.730] PICARD: A mission that could put you in a situation that would be far more unnerving than a dressing-down by your commanding officer.
+[00:29:46.810 --> 00:29:47.930] SITO: Can I ask what that mission is, sir?
+[00:29:48.810 --> 00:29:51.850] PICARD: Join the senior officers in the Observation lounge at oh nine hundred hours.
+[00:29:51.850 --> 00:29:52.650] PICARD: We'll discuss it then.
+[00:29:54.490 --> 00:29:54.810] SITO: Yes, sir.
+[00:29:57.530 --> 00:29:58.250] PICARD: And, Ensign.
+[00:30:01.850 --> 00:30:03.850] PICARD: I do know why you ended up on the Enterprise.
+[00:30:04.730 --> 00:30:05.610] PICARD: I asked for you.
+[00:30:06.810 --> 00:30:09.690] PICARD: I wanted to make sure that you got a fair chance to redeem yourself.
+[00:30:12.650 --> 00:30:13.290] SITO: Thank you, sir.
+[00:30:13.290 --> 00:30:13.290] OGAWA: You
+[00:30:22.330 --> 00:30:23.130] OGAWA: wanted to see me, Doctor?
+[00:30:23.370 --> 00:30:24.810] CRUSHER: Yes. Alyssa,
+[00:30:26.730 --> 00:30:29.290] CRUSHER: I think you know how much I've come to depend upon you here.
+[00:30:30.490 --> 00:30:34.330] CRUSHER: I've recommended your promotion because your performance here has been exemplary.
+[00:30:35.346 --> 00:30:35.986] OGAWA: Thank you, Doctor.
+[00:30:36.386 --> 00:30:37.106] OGAWA: I appreciate that.
+[00:30:38.146 --> 00:30:39.026] CRUSHER: But more than that,
+[00:30:41.266 --> 00:30:44.786] CRUSHER: I've come to think of you as a friend. Someone I really care about.
+[00:30:46.946 --> 00:30:48.146] OGAWA: That's nice of you to say.
+[00:30:49.266 --> 00:30:50.306] OGAWA: I feel the same way.
+[00:30:52.066 --> 00:30:52.466] CRUSHER: So,
+[00:30:54.706 --> 00:30:56.672] CRUSHER: you and Andrew Powell?
+[00:30:56.672 --> 00:30:58.146] OGAWA: Someone told you.
+[00:30:59.506 --> 00:30:59.906] CRUSHER: Told me what?
+[00:31:00.546 --> 00:31:03.026] OGAWA: We were going to keep it a secret until the promotions are announced.
+[00:31:03.026 --> 00:31:03.746] CRUSHER: Secret?
+[00:31:04.466 --> 00:31:06.249] OGAWA: He asked me to marry him.
+[00:31:06.249 --> 00:31:06.546] CRUSHER: Alyssa,
+[00:31:06.866 --> 00:31:07.986] CRUSHER: that's wonderful!
+[00:31:08.466 --> 00:31:09.346] CRUSHER: I'm so relieved.
+[00:31:09.346 --> 00:31:10.066] CRUSHER: I mean happy.
+[00:31:16.866 --> 00:31:18.066] PICARD: Please, take a seat, Ensign.
+[00:31:28.466 --> 00:31:29.426] PICARD: This is Joret Dal.
+[00:31:30.946 --> 00:31:32.706] PICARD: He was in the escape pod that we retrieved.
+[00:31:33.666 --> 00:31:37.906] PICARD: He is a member of the Cardassian military, and a Federation operative.
+[00:31:39.266 --> 00:31:45.266] PICARD: He has risked his life to bring us invaluable information about Cardassian strategic intentions.
+[00:31:46.066 --> 00:31:51.986] PICARD: Information that could very well enhance the security of Bajor, as well as other planets in this sector.
+[00:31:52.546 --> 00:31:57.426] PICARD: Now, it is absolutely imperative that we return him safely back to Cardassian space.
+[00:31:57.826 --> 00:31:58.706] JORET: It will not be easy.
+[00:31:59.826 --> 00:32:01.106] JORET: The border is heavily guarded.
+[00:32:01.596 --> 00:32:03.756] RIKER: As his ship was destroyed, he'll be using one of our shuttles.
+[00:32:04.076 --> 00:32:06.396] JORET: If a patrol stops me, I will claim to have stolen it.
+[00:32:06.876 --> 00:32:10.076] WORF: We have distressed the shuttle so that it appears to have been fired upon.
+[00:32:10.716 --> 00:32:13.196] RIKER: Joret will attempt to talk his way past the patrol.
+[00:32:13.916 --> 00:32:16.636] JORET: If I were alone, the chances of my succeeding would be slim.
+[00:32:17.916 --> 00:32:23.356] JORET: But if I had a prisoner with me, a Bajoran terrorist, I would appear to be a bounty hunter.
+[00:32:24.316 --> 00:32:29.996] JORET: Border crossings of that nature are not uncommon, and for a price the patrol can be convinced to look the other way.
+[00:32:30.796 --> 00:32:36.796] PICARD: Once the shuttle is safely past the patrol, Joret will put you into an escape pod and return you back across the border.
+[00:32:37.436 --> 00:32:39.996] RIKER: Since the pod is so small, it will be difficult to detect.
+[00:32:40.236 --> 00:32:41.356] PICARD: We'll be waiting here to pick you up.
+[00:32:42.316 --> 00:32:43.116] SITO: I understand, sir.
+[00:32:44.556 --> 00:32:46.796] PICARD: Ensign, this is obviously a very dangerous mission.
+[00:32:47.276 --> 00:32:49.196] PICARD: I'm not ordering you to take part in it.
+[00:32:50.476 --> 00:32:51.996] SITO: Then I volunteer, sir.
+[00:32:53.436 --> 00:32:55.276] WORF: Be certain you understand the risk you are taking.
+[00:32:56.396 --> 00:32:57.116] WORF: If you are captured
+[00:32:57.116 --> 00:32:57.836] SITO: I'm Bajoran.
+[00:33:00.476 --> 00:33:03.836] SITO: No one knows better than I do what Cardassians do to their prisoners.
+[00:33:07.036 --> 00:33:07.996] SITO: I've made my decision.
+[00:33:10.556 --> 00:33:11.276] PICARD: Very well, Ensign.
+[00:33:11.516 --> 00:33:12.476] PICARD: Will you report to Sickbay.
+[00:33:12.636 --> 00:33:13.676] PICARD: Doctor Crusher will explain.
+[00:33:15.756 --> 00:33:20.156] PICARD: And Ensign Sito, I must ask you not to discuss this mission with anyone.
+[00:33:21.516 --> 00:33:21.996] SITO: Yes, sir.
+[00:33:34.588 --> 00:33:36.268] JORET: I didn't realise she would be so young.
+[00:33:54.188 --> 00:33:54.988] SITO: The Captain asked Doctor
+[00:33:54.988 --> 00:33:57.148] SITO: Crusher to make it look like Joret had mistreated me.
+[00:34:00.428 --> 00:34:03.180] LAFORGE: We're all set here.
+[00:34:03.180 --> 00:34:03.868] SITO: Sir.
+[00:34:08.348 --> 00:34:08.668] SITO: I
+[00:34:11.788 --> 00:34:15.708] SITO: want you to know that I really appreciate the fact that you've always had confidence in me.
+[00:34:17.388 --> 00:34:17.788] WORF: Good luck.
+[00:34:18.908 --> 00:34:19.628] SITO: I'll see you soon.
+[00:34:53.628 --> 00:34:56.348] JORET: We are approaching the border.
+[00:34:56.348 --> 00:35:00.268] JORET: It won't be long before we're detected by the patrol ships.
+[00:35:04.166 --> 00:35:06.166] SITO: When they stop us, do you want me to say anything?
+[00:35:06.646 --> 00:35:06.966] JORET: No.
+[00:35:07.686 --> 00:35:09.126] JORET: It should seem that I've broken your will.
+[00:35:10.566 --> 00:35:14.006] JORET: If you're asked any questions, look at me as though you're afraid to answer.
+[00:35:14.966 --> 00:35:16.086] SITO: Can I ask you something?
+[00:35:18.966 --> 00:35:20.006] SITO: Why are you doing this,
+[00:35:21.446 --> 00:35:22.886] SITO: risking your life to help Starfleet?
+[00:35:25.126 --> 00:35:27.206] JORET: I don't consider myself a traitor, if that's what you're asking.
+[00:35:28.246 --> 00:35:29.926] JORET: All my life I've served in the military.
+[00:35:31.046 --> 00:35:34.406] JORET: Once it was an institution dedicated to the security of Cardassia,
+[00:35:36.166 --> 00:35:40.566] JORET: now it's little more than a platform for ambitious Guls hoping to make their reputations in battle.
+[00:35:41.286 --> 00:35:46.886] JORET: If the information I provided helps Starfleet deter even one pointless skirmish, I've served my purpose.
+[00:35:49.366 --> 00:35:50.166] JORET: I'm sick of war.
+[00:35:52.966 --> 00:35:54.006] JORET: My people need peace.
+[00:35:55.846 --> 00:35:58.246] SITO: I never thought I'd hear a Cardassian say something like
+[00:36:02.406 --> 00:36:02.486] SITO: that.
+[00:36:02.486 --> 00:36:05.526] JORET: And I never thought a Bajoran would risk her life to help a Cardassian get home.
+[00:36:10.006 --> 00:36:11.446] SITO: Patrol ships moving in on our position.
+[00:36:11.846 --> 00:36:12.646] JORET: We don't have much time.
+[00:36:19.126 --> 00:36:21.126] LAVELLE: She
+[00:36:27.606 --> 00:36:30.326] LAVELLE: must have left on that shuttle.
+[00:36:30.486 --> 00:36:31.446] LAVELLE: There's no other explanation.
+[00:36:32.166 --> 00:36:33.286] BEN: Do you have any idea where it went?
+[00:36:33.515 --> 00:36:35.435] LAVELLE: Toward Cardassian space. That's what I'm worried about.
+[00:36:36.155 --> 00:36:38.315] LAVELLE: Oh, there's one other thing, I noticed the shuttle was damaged.
+[00:36:38.315 --> 00:36:40.715] OGAWA: Sam, can we talk about something else?
+[00:36:41.355 --> 00:36:42.475] LAVELLE: Well don't you care what's happened to her?
+[00:36:42.635 --> 00:36:43.195] OGAWA: Of course.
+[00:36:43.435 --> 00:36:48.235] TAURIK: But we have to accept the fact that we're not always told about everything that happens aboard ship.
+[00:36:49.035 --> 00:36:50.795] LAVELLE: Well, we can at least tell each other what we know.
+[00:36:57.195 --> 00:36:57.995] LAVELLE: Do you two know something?
+[00:36:58.715 --> 00:37:00.155] OGAWA: Sam, please.
+[00:37:00.555 --> 00:37:01.435] LAVELLE: I can't believe this.
+[00:37:01.435 --> 00:37:02.155] LAVELLE: We're friends.
+[00:37:02.315 --> 00:37:04.555] TAURIK: We're also Starfleet Officers.
+[00:37:06.395 --> 00:37:07.515] OGAWA: I'm not allowed to talk about
+[00:37:10.475 --> 00:37:10.475] OGAWA: it.
+[00:37:10.475 --> 00:37:10.555] LAVELLE: Okay.
+[00:37:11.675 --> 00:37:12.235] LAVELLE: I understand.
+[00:37:15.755 --> 00:37:16.395] LAVELLE: I'd better get going.
+[00:37:16.635 --> 00:37:17.675] LAVELLE: I've got duty in half an hour.
+[00:37:22.955 --> 00:37:26.155] LOG: Captain's log, stardate 47566.7.
+[00:37:26.795 --> 00:37:32.955] LOG: We have reached the coordinates in Federation space where Ensign Sito's escape pod was to have rendezvoused with us.
+[00:37:33.835 --> 00:37:38.155] LOG: However, we have been waiting for over thirty hours and as yet there is no sign of her.
+[00:37:41.515 --> 00:37:41.835] RIKER: Report.
+[00:37:42.635 --> 00:37:44.475] LAVELLE: We completed a long range scan of the area, sir.
+[00:37:45.115 --> 00:37:46.475] LAVELLE: The escape pod doesn't seem to be out there.
+[00:37:47.355 --> 00:37:53.035] DATA: It is possible that at this distance we are unable to distinguish the pod from the inorganic matter normally present in space.
+[00:37:53.595 --> 00:37:54.875] RIKER: Try narrowing the scan field.
+[00:37:55.275 --> 00:37:57.124] RIKER: See if you can pick up any biosigns.
+[00:37:57.124 --> 00:37:57.355] LAVELLE: Sir,
+[00:37:58.155 --> 00:37:59.915] LAVELLE: it would help if I knew what kind of life signs to look for.
+[00:38:01.177 --> 00:38:03.097] RIKER: You're scanning for Bajoran lifesigns.
+[00:38:04.217 --> 00:38:04.617] LAVELLE: Yes, sir.
+[00:38:09.097 --> 00:38:09.497] RIKER: Nothing yet.
+[00:38:10.217 --> 00:38:12.107] RIKER: The pod is thirty two hours overdue.
+[00:38:12.107 --> 00:38:12.377] WORF: Sir,
+[00:38:13.177 --> 00:38:17.497] WORF: I recommend we launch a probe to increase the range of our sensor sweeps.
+[00:38:19.497 --> 00:38:21.657] RIKER: Launching a probe into Cardassian space would be a treaty
+[00:38:23.577 --> 00:38:25.577] RIKER: violation.
+[00:38:27.097 --> 00:38:29.519] PICARD: Mister Worf, prepare a probe and launch when ready.
+[00:38:29.519 --> 00:38:30.057] WORF: Aye, sir.
+[00:38:36.217 --> 00:38:37.017] WORF: Probe launched, sir.
+[00:38:43.737 --> 00:38:48.377] DATA: Sir, I am detecting signs of debris two hundred thousand kilometres inside Cardassian space.
+[00:38:49.097 --> 00:38:53.017] DATA: Its mass and composition indicate it could be the remains of a Federation escape pod.
+[00:39:03.097 --> 00:39:04.297] LOG: Captain's log, supplemental.
+[00:39:04.777 --> 00:39:15.417] LOG: We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor and was killed in an evacuation pod as she tried to leave Cardassian space.
+[00:39:15.417 --> 00:39:15.417] PICARD: To all
+[00:39:26.537 --> 00:39:27.577] PICARD: Starfleet personnel, this is the Captain.
+[00:39:30.217 --> 00:39:34.057] PICARD: It is my sad duty to inform you that a member of the crew, Ensign
+[00:39:34.194 --> 00:39:38.194] PICARD: Sito Jaxa Has been lost In the line of duty.
+[00:39:39.234 --> 00:39:47.794] PICARD: She was the finest example of a Starfleet Officer, and a young woman of remarkable courage And strength of character.
+[00:39:50.754 --> 00:39:52.914] PICARD: Her loss will be deeply felt by all who knew her.
+[00:39:54.754 --> 00:39:55.234] PICARD: Picard out.
+[00:40:23.554 --> 00:40:23.874] BEN: You okay?
+[00:40:34.994 --> 00:40:35.794] LAVELLE: I just got promoted.
+[00:40:37.394 --> 00:40:37.394] OGAWA: Congratulations.
+[00:40:37.714 --> 00:40:37.874] LAVELLE: Thanks.
+[00:40:37.874 --> 00:40:39.794] LAVELLE: It just
+[00:40:42.114 --> 00:40:42.914] LAVELLE: don't feel right.
+[00:40:44.034 --> 00:40:47.634] LAVELLE: For all I know, she was going to get the promotion instead of me.
+[00:40:48.354 --> 00:40:49.474] BEN: You shouldn't feel that way, Sam.
+[00:40:50.194 --> 00:40:51.794] OGAWA: She would have been happy for you, Sam.
+[00:40:52.274 --> 00:40:56.514] TAURIK: The best way to remember her would be to excel in your new position.
+[00:41:03.074 --> 00:41:03.954] OGAWA: We're proud of you, Sam.
+[00:41:09.341 --> 00:41:11.421] BEN: Excuse me, sir, but I need to move this table.
+[00:41:14.381 --> 00:41:14.621] WORF: What?
+[00:41:15.741 --> 00:41:17.181] BEN: There's an empty seat over there.
+[00:41:22.781 --> 00:41:25.341] WORF: I appreciate what you are trying to do,
+[00:41:27.021 --> 00:41:28.301] WORF: but it is not appropriate.
+[00:41:29.581 --> 00:41:30.621] WORF: You were her friends.
+[00:41:31.101 --> 00:41:33.021] WORF: I was only her commanding officer.
+[00:41:33.021 --> 00:41:33.341] BEN: Sir,
+[00:41:34.621 --> 00:41:36.621] BEN: I happen to know that she considered you a friend.
+[00:41:38.000 --> 00:41:48.000] [music]
+[00:42:05.000 --> 00:42:22.000] [music]
+[00:42:23.000 --> 00:42:31.000] [music]

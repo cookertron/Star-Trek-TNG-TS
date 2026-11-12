@@ -1,0 +1,659 @@
+[00:00:02.080 --> 00:00:02.960] TROI: That's very good.
+[00:00:08.240 --> 00:00:09.760] TROI: Well, that's very nice.
+[00:00:10.000 --> 00:00:10.640] ERIC: No, it isn't.
+[00:00:11.440 --> 00:00:12.960] ERIC: I just can't get it right.
+[00:00:13.440 --> 00:00:14.880] ERIC: Do you think the wings are too big?
+[00:00:15.200 --> 00:00:16.560] TROI: Not at all.
+[00:00:17.200 --> 00:00:19.440] TROI: Birds have wings of all sizes, Eric.
+[00:00:19.920 --> 00:00:22.240] TROI: And you shouldn't worry about making it look perfect.
+[00:00:22.800 --> 00:00:23.280] ERIC: But Mrs
+[00:00:23.280 --> 00:00:27.520] ERIC: Narsu said we should try to make our sculptures as realistic as possible.
+[00:00:27.840 --> 00:00:28.560] TROI: She's right.
+[00:00:29.120 --> 00:00:32.880] TROI: It is important that you be able to make the clay take the shape you want it to have,
+[00:00:34.160 --> 00:00:36.720] TROI: but you're not supposed to be concentrating on technique today.
+[00:00:36.880 --> 00:00:41.120] TROI: I'm here to help you focus on the feelings you want to convey with your sculpture.
+[00:00:42.800 --> 00:00:45.920] TROI: For instance, what do you think about when you see a bird?
+[00:00:47.520 --> 00:00:48.000] ERIC: Flying?
+[00:00:48.640 --> 00:00:49.040] TROI: Fine.
+[00:00:49.360 --> 00:00:53.200] TROI: So, make your sculpture make me think of flying, too.
+[00:01:01.520 --> 00:01:02.400] TROI: How's it going, Data?
+[00:01:03.440 --> 00:01:04.160] DATA: I have finished.
+[00:01:04.720 --> 00:01:07.200] DATA: The dimensions are accurate to within one point three percent.
+[00:01:07.760 --> 00:01:08.640] TROI: I'm sure they are.
+[00:01:10.800 --> 00:01:16.240] TROI: Data, you obviously don't have a trouble with realism, but you're here to work on your imagination.
+[00:01:17.360 --> 00:01:20.400] TROI: Maybe you should try something a little more abstract.
+[00:01:21.760 --> 00:01:21.920] TROI: Here.
+[00:01:24.160 --> 00:01:26.720] TROI: I want you to start a new piece.
+[00:01:27.760 --> 00:01:29.200] TROI: I'd like you to sculpt
+[00:01:31.266 --> 00:01:31.586] TROI: music.
+[00:01:33.266 --> 00:01:33.746] DATA: Counsellor,
+[00:01:34.306 --> 00:01:36.626] DATA: music is a collection of acoustic vibrations.
+[00:01:37.266 --> 00:01:39.586] DATA: How can I reproduce a sound with clay?
+[00:01:40.386 --> 00:01:48.146] TROI: Well, think of the effects that sounds have on people, the images that music brings to your mind, and then give it a form.
+[00:02:06.946 --> 00:02:07.746] TROI: It's a start.
+[00:02:10.386 --> 00:02:11.026] RIKER: Riker to Data.
+[00:02:11.826 --> 00:02:12.706] RIKER: Please report to the Bridge.
+[00:02:13.346 --> 00:02:13.986] DATA: Acknowledged, sir.
+[00:02:14.546 --> 00:02:15.026] DATA: On my way.
+[00:02:16.146 --> 00:02:19.266] LOG: Captain's log, stardate 47615.2.
+[00:02:19.906 --> 00:02:23.426] LOG: We have encountered a rogue comet in sector one one five six.
+[00:02:23.746 --> 00:02:30.226] LOG: It is not native to this region of space, and there is no previous record of this object on any Federation charts.
+[00:02:30.706 --> 00:02:34.866] DATA: Based on its present trajectory, the comet appears to have originated in the D'Arsay system.
+[00:02:35.906 --> 00:02:37.266] RIKER: That's over two sectors away.
+[00:02:37.346 --> 00:02:38.146] DATA: That is correct, sir.
+[00:02:38.706 --> 00:02:41.586] DATA: This object has been en route for eighty seven million years.
+[00:02:42.226 --> 00:02:43.666] RIKER: That's a long time alone in the dark.
+[00:02:45.906 --> 00:02:52.146] PICARD: Begin a full sensor analysis, Mister Data, and log the findings with the Federation Astrophysical Survey.
+[00:02:52.626 --> 00:02:53.026] DATA: Aye, sir.
+[00:02:53.666 --> 00:02:59.666] DATA: The comet's outer shell is composed primarily of gaseous hydrogen and helium
+[00:02:59.995 --> 00:03:03.835] DATA: surrounding an icy mantle. The inner core consists of heavier elements
+[00:03:08.955 --> 00:03:09.435] PICARD: What was that?
+[00:03:10.635 --> 00:03:12.955] DATA: There is distortion within the comet's inner core.
+[00:03:13.835 --> 00:03:16.475] DATA: I believed we experienced an intense sensor echo.
+[00:03:16.955 --> 00:03:17.675] RIKER: Can you correct for it?
+[00:03:18.155 --> 00:03:19.435] DATA: I am attempting to do so now, sir.
+[00:03:21.435 --> 00:03:23.035] DATA: I have compensated for the effect.
+[00:03:23.515 --> 00:03:25.915] DATA: Sensors are reconfigured for a low intensity sweep.
+[00:03:26.235 --> 00:03:29.355] DATA: We are still picking up some interference, but the distortion is manageable.
+[00:03:31.035 --> 00:03:34.635] DATA: At these settings, the scan will be complete in thirty nine hours.
+[00:03:40.475 --> 00:03:43.675] CRUSHER: Worf says he's going to teach us some mok'bara throwing techniques today.
+[00:03:44.075 --> 00:03:45.755] TROI: More like falling techniques.
+[00:03:46.235 --> 00:03:48.875] TROI: Last time we did that I was sore for a week.
+[00:03:49.115 --> 00:03:49.755] CRUSHER: What's this?
+[00:03:50.475 --> 00:03:51.355] TROI: I have no idea.
+[00:03:52.475 --> 00:03:53.435] TROI: I've never seen it before.
+[00:03:53.595 --> 00:03:55.515] CRUSHER: Maybe Will left it for you. A little present?
+[00:03:57.035 --> 00:03:58.715] TROI: It's not quite his style.
+[00:03:59.035 --> 00:04:00.395] CRUSHER: Then maybe it's a secret admirer.
+[00:04:00.955 --> 00:04:03.755] TROI: That's an interesting thought
+[00:04:04.155 --> 00:04:05.275] CRUSHER: Well, you'll figure it out later.
+[00:04:05.675 --> 00:04:06.555] CRUSHER: Come on, we're going to be late.
+[00:04:42.301 --> 00:04:45.021] PICARD: Space, the final frontier.
+[00:04:46.861 --> 00:04:49.741] PICARD: These are the voyages of the starship Enterprise.
+[00:04:50.861 --> 00:04:58.861] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:00.541 --> 00:05:03.421] PICARD: to boldly go where no one has gone before.
+[00:05:32.000 --> 00:05:43.000] [music]
+[00:05:58.863 --> 00:05:59.023] TROI: That's
+[00:06:04.303 --> 00:06:06.303] TROI: nice.
+[00:06:10.863 --> 00:06:11.263] TROI: Data,
+[00:06:13.103 --> 00:06:13.983] TROI: this is amazing.
+[00:06:13.983 --> 00:06:15.183] TROI: How did you come up with this?
+[00:06:15.743 --> 00:06:17.103] DATA: I followed your advice, Counsellor.
+[00:06:17.503 --> 00:06:18.703] DATA: I used my imagination.
+[00:06:20.143 --> 00:06:21.343] TROI: That's an understatement.
+[00:06:21.903 --> 00:06:28.383] DATA: For some reason, as I was shaping the clay, the image of the mask was exceptionally clear in my mind.
+[00:06:28.783 --> 00:06:30.703] DATA: The design seemed to flow quite naturally.
+[00:06:31.823 --> 00:06:33.503] TROI: Data, have you been in my quarters?
+[00:06:35.263 --> 00:06:35.823] DATA: No, Counsellor.
+[00:06:36.303 --> 00:06:38.303] TROI: Somebody left an object in my room.
+[00:06:39.183 --> 00:06:43.583] TROI: Some kind of artefact, and it has something very similar to this.
+[00:06:43.903 --> 00:06:45.103] TROI: And you don't know anything about it?
+[00:06:45.743 --> 00:06:46.143] DATA: I do not.
+[00:06:47.823 --> 00:06:48.863] ERIC: Excuse me, Counsellor.
+[00:06:52.463 --> 00:06:53.903] ERIC: Can you help me with my terminal?
+[00:06:54.303 --> 00:06:55.343] ERIC: It's not working right.
+[00:06:58.703 --> 00:07:00.383] DATA: Perhaps we should investigate this matter further.
+[00:07:02.783 --> 00:07:05.423] RIKER: These symbols don't match anything in the Federation linguistic banks.
+[00:07:05.743 --> 00:07:09.263] LAFORGE: Some kind of alien information has been downloaded into our computer core.
+[00:07:09.983 --> 00:07:11.023] LAFORGE: I don't know how it's working, but
+[00:07:11.103 --> 00:07:12.703] LAFORGE: it's reconfiguring our systems.
+[00:07:12.943 --> 00:07:13.423] RIKER: How did it get in?
+[00:07:13.423 --> 00:07:16.863] LAFORGE: I was able to trace its path from the replicators to the sensor array.
+[00:07:18.143 --> 00:07:18.783] RIKER: The sensors?
+[00:07:20.383 --> 00:07:22.703] RIKER: They've been scanning that comet for the past eighteen hours.
+[00:07:22.943 --> 00:07:24.543] LAFORGE: Those energy readings from the comet's core,
+[00:07:24.911 --> 00:07:25.631] LAFORGE: that sensor echo.
+[00:07:25.791 --> 00:07:27.071] LAFORGE: We still don't know what's inside that thing.
+[00:07:27.231 --> 00:07:28.431] RIKER: Maybe it's about time we found out.
+[00:07:30.031 --> 00:07:32.751] RIKER: Could we use the phasers to melt down the shell of the comet?
+[00:07:33.391 --> 00:07:38.911] LAFORGE: Yeah, a dispersed wide-field beam might do the trick. It wouldn't take long to come up with the firing parameters.
+[00:07:39.311 --> 00:07:39.711] LAFORGE: What do you think,
+[00:07:42.831 --> 00:07:43.071] LAFORGE: Data?
+[00:07:44.191 --> 00:07:44.511] LAFORGE: Data? What's wrong?
+[00:07:45.711 --> 00:07:47.471] DATA: I believe I recognise these symbols.
+[00:07:48.031 --> 00:07:48.351] RIKER: How?
+[00:07:49.471 --> 00:07:50.271] DATA: I do not know.
+[00:07:50.421 --> 00:07:51.021] LAFORGE: Do
+[00:07:51.871 --> 00:07:53.391] LAFORGE: you think maybe your systems have been affected?
+[00:07:54.431 --> 00:07:55.471] DATA: It is a possibility.
+[00:07:56.431 --> 00:08:01.311] DATA: I do not believe my systems are currently impaired, but I will run a full diagnostic to make certain.
+[00:08:03.231 --> 00:08:03.951] RIKER: What do you think they mean?
+[00:08:06.111 --> 00:08:06.591] DATA: Boundary.
+[00:08:08.191 --> 00:08:08.591] DATA: Border.
+[00:08:10.671 --> 00:08:11.151] DATA: Road.
+[00:08:13.151 --> 00:08:13.791] DATA: Companion.
+[00:08:15.151 --> 00:08:15.711] DATA: Message.
+[00:08:16.831 --> 00:08:17.391] DATA: Messenger.
+[00:08:19.711 --> 00:08:20.591] LAFORGE: What's that one?
+[00:08:22.111 --> 00:08:22.431] DATA: Death.
+[00:08:28.191 --> 00:08:31.951] WORF: Captain, phasers are set for wide dispersal, ten percent maximum power.
+[00:08:32.351 --> 00:08:35.151] WORF: The beam will automatically terminate once the comet's core is reached.
+[00:08:35.311 --> 00:08:35.951] PICARD: Very well, Mister Worf.
+[00:08:37.471 --> 00:08:37.791] PICARD: Fire.
+[00:08:41.631 --> 00:08:43.631] WORF: Phasers
+[00:08:47.471 --> 00:08:49.951] WORF: have terminated.
+[00:09:10.029 --> 00:09:10.189] PICARD: Mister
+[00:09:10.269 --> 00:09:11.389] PICARD: Data, what are we looking at?
+[00:09:12.429 --> 00:09:13.069] PICARD: Is it a ship?
+[00:09:14.429 --> 00:09:15.629] DATA: I do not know, sir.
+[00:09:16.829 --> 00:09:18.269] DATA: The object is nearly solid.
+[00:09:18.909 --> 00:09:22.909] DATA: It is composed primarily of fortanium and several unknown materials.
+[00:09:22.989 --> 00:09:25.709] DATA: It is over eighty seven million years old.
+[00:09:26.429 --> 00:09:27.629] RIKER: That's older than the comet itself.
+[00:09:28.589 --> 00:09:30.269] RIKER: Could someone from the D'Arsay system have built it?
+[00:09:31.229 --> 00:09:34.669] PICARD: There are no technologically advanced cultures in that system now.
+[00:09:36.589 --> 00:09:39.949] PICARD: But perhaps eighty seven million years ago, there were.
+[00:09:40.589 --> 00:09:42.429] RIKER: Why would they want to hide something like that inside a comet?
+[00:09:43.789 --> 00:09:50.349] PICARD: Possibly it accumulated those frozen gasses over time as it travelled through space.
+[00:09:50.429 --> 00:09:54.269] LAFORGE: In any case, it's definitely responsible for the system anomalies we've been experiencing.
+[00:09:55.149 --> 00:09:59.949] LAFORGE: They're using our sensor beam as a carrier wave to transmit information into our computers and replicators.
+[00:10:00.189 --> 00:10:01.789] PICARD: But the question remains, why?
+[00:10:01.869 --> 00:10:03.469] PICARD: What is its purpose?
+[00:10:03.469 --> 00:10:03.869] DATA: Captain,
+[00:10:05.309 --> 00:10:07.869] DATA: I believe this object is an informational archive.
+[00:10:09.149 --> 00:10:10.029] PICARD: Why do you say that, Mister
+[00:10:10.029 --> 00:10:10.269] PICARD: Data?
+[00:10:10.909 --> 00:10:11.789] DATA: I do not know.
+[00:10:12.109 --> 00:10:15.776] DATA: However, I seem to have an intuitive understanding of its function.
+[00:10:15.776 --> 00:10:16.109] LAFORGE: Data,
+[00:10:16.509 --> 00:10:19.069] LAFORGE: the internal structure of that thing is pretty complex,
+[00:10:19.602 --> 00:10:24.802] LAFORGE: and it's got a repetitive node configuration which might suggest a database of some kind, but it could be practically anything.
+[00:10:25.362 --> 00:10:27.122] LAFORGE: I don't see how you could know for sure what it is.
+[00:10:27.762 --> 00:10:30.242] PICARD: Data, do you believe that you're in communication with that object?
+[00:10:31.682 --> 00:10:32.722] DATA: It is a possibility, sir.
+[00:10:34.482 --> 00:10:39.042] DATA: I recommend we run a level one diagnostic of my positronic net immediately to determine if that is the case.
+[00:10:39.522 --> 00:10:41.522] PICARD: Very well. Mister LaForge, give him a hand.
+[00:10:41.522 --> 00:10:42.002] LAFORGE: Aye, sir.
+[00:10:42.152 --> 00:10:42.752] RIKER: Do
+[00:10:44.162 --> 00:10:45.762] RIKER: you think it's just trying to make contact with us?
+[00:10:46.002 --> 00:10:46.962] PICARD: Yes, it's possible.
+[00:10:47.682 --> 00:10:51.682] PICARD: But if that is an archive from some ancient civilisation, we should allow it to do so.
+[00:10:52.642 --> 00:10:54.162] PICARD: But we must be careful. Mister Worf,
+[00:10:54.162 --> 00:10:55.282] PICARD: will you keep an eye on the sensors.
+[00:10:55.282 --> 00:10:58.322] PICARD: If the ship is in any danger, I want you to sever the connection immediately.
+[00:10:58.882 --> 00:10:59.202] WORF: Aye, sir.
+[00:11:06.882 --> 00:11:07.842] PICARD: Come.
+[00:11:07.842 --> 00:11:08.802] RIKER: Captain?
+[00:11:09.522 --> 00:11:10.322] PICARD: Yes, come in, Number One.
+[00:11:12.242 --> 00:11:14.882] RIKER: We've confined the system corruption. It won't be spreading any further.
+[00:11:16.082 --> 00:11:19.282] RIKER: But we still have alien symbols floating around on our computer.
+[00:11:21.842 --> 00:11:23.122] RIKER: This is quite a collection you've assembled.
+[00:11:23.442 --> 00:11:24.642] RIKER: I've seen these things all over the ship.
+[00:11:25.682 --> 00:11:29.575] RIKER: They all look the same. Primitive and non-functional.
+[00:11:29.575 --> 00:11:31.522] PICARD: Ceremonial, and deceptively primitive.
+[00:11:32.882 --> 00:11:36.162] PICARD: Only an advanced technological society could have built that object out there.
+[00:11:37.922 --> 00:11:41.922] PICARD: These artefacts played a ritualistic role in that society,
+[00:11:41.922 --> 00:11:42.242] PICARD: I think.
+[00:11:42.802 --> 00:11:43.682] RIKER: Do you think Data could be right?
+[00:11:45.122 --> 00:11:47.442] RIKER: Could we have stumbled across some sort of alien library?
+[00:11:47.842 --> 00:11:48.642] PICARD: Oh, yes, it's possible.
+[00:11:48.990 --> 00:11:51.470] PICARD: And if so, this is a find of most enormous significance.
+[00:11:52.430 --> 00:11:56.510] PICARD: That library seems designed to do so much more than simply store information.
+[00:11:56.670 --> 00:11:58.430] PICARD: Who knows what we might learn from this?
+[00:11:59.230 --> 00:12:00.510] RIKER: I keep seeing this design.
+[00:12:00.750 --> 00:12:03.310] PICARD: Yes, this symbol seems to be of particular significance.
+[00:12:03.390 --> 00:12:03.950] RIKER: What do you think it means?
+[00:12:04.190 --> 00:12:08.830] PICARD: The concept of the four cardinal compass directions is quite common in many different cultures.
+[00:12:08.830 --> 00:12:15.550] RIKER: The words that Data recognised in the computer, boundary, border, road, they were all arranged in this design.
+[00:12:15.710 --> 00:12:25.150] PICARD: Well, perhaps the artefacts that all have this compass symbol belong to the same theme, movement. Finding a direction, travelling a path, crossing a boundary.
+[00:12:25.950 --> 00:12:26.350] RIKER: And death?
+[00:12:27.230 --> 00:12:29.630] RIKER: One of the symbols was death.
+[00:12:29.630 --> 00:12:30.830] PICARD: The ultimate boundary.
+[00:12:32.990 --> 00:12:38.430] PICARD: I've seen this symbol everywhere too, but much less prominently displayed.
+[00:12:38.430 --> 00:12:41.550] PICARD: It's always in the background, smaller than the others.
+[00:12:41.790 --> 00:12:42.750] RIKER: What do you think it represents?
+[00:12:44.430 --> 00:12:45.150] PICARD: I have no idea.
+[00:12:47.150 --> 00:12:49.070] LAFORGE: Lower synaptic functions are completely normal.
+[00:12:50.270 --> 00:12:51.630] LAFORGE: Autonomous systems all check out.
+[00:12:53.070 --> 00:12:55.470] DATA: I suggest we examine the memory subsystem next.
+[00:12:55.630 --> 00:12:55.870] LAFORGE: All right.
+[00:12:59.550 --> 00:13:00.110] LAFORGE: Data, what's wrong?
+[00:13:01.950 --> 00:13:02.910] DATA: I am not certain.
+[00:13:03.150 --> 00:13:08.430] DATA: I am experiencing a curious sensation.
+[00:13:09.310 --> 00:13:09.950] LAFORGE: Well, what is it?
+[00:13:11.870 --> 00:13:12.590] DATA: An impulse.
+[00:13:13.150 --> 00:13:13.630] LAFORGE: Impulse?
+[00:13:13.630 --> 00:13:14.350] LAFORGE: What kind of impulse?
+[00:13:15.764 --> 00:13:17.764] DATA: I do not know.
+[00:13:19.044 --> 00:13:20.324] LAFORGE: I'm going to check out your higher functions.
+[00:13:22.804 --> 00:13:23.204] DATA: Geordi,
+[00:13:27.124 --> 00:13:31.844] DATA: what does it feel like when a person is losing his mind?
+[00:13:31.994 --> 00:13:32.594] LAFORGE: Data,
+[00:13:34.724 --> 00:13:35.604] LAFORGE: come on, you're scaring me now.
+[00:13:35.604 --> 00:13:36.404] LAFORGE: What's going on?
+[00:13:38.324 --> 00:13:39.044] DATA: I do not know.
+[00:13:42.804 --> 00:13:44.164] DATA: I am different.
+[00:13:44.314 --> 00:13:44.914] LAFORGE: Well,
+[00:13:46.884 --> 00:13:47.844] LAFORGE: you're going to be all right.
+[00:13:49.204 --> 00:13:50.084] LAFORGE: You're with me, okay?
+[00:13:51.524 --> 00:13:51.844] DATA: Okay.
+[00:13:53.364 --> 00:13:55.284] LAFORGE: Listen, I'm going to disconnect you.
+[00:14:01.764 --> 00:14:01.924] LAFORGE: What's
+[00:14:05.364 --> 00:14:06.004] LAFORGE: going on?
+[00:14:07.364 --> 00:14:09.364] LAFORGE: Data.
+[00:14:15.124 --> 00:14:18.164] DATA-IHAT: Masaka is waking.
+[00:14:26.084 --> 00:14:26.484] LAFORGE: Captain
+[00:14:26.484 --> 00:14:26.884] DATA-IHAT: Captain.
+[00:14:28.324 --> 00:14:29.284] DATA-IHAT: I've been waiting for you.
+[00:14:30.324 --> 00:14:31.204] DATA-IHAT: You should feel honoured.
+[00:14:32.484 --> 00:14:33.844] DATA-IHAT: I don't usually wait for anyone.
+[00:14:34.484 --> 00:14:35.204] PICARD: What is it you want?
+[00:14:36.004 --> 00:14:38.004] DATA-IHAT: Masaka is waking.
+[00:14:38.004 --> 00:14:39.684] PICARD: Are you Masaka?
+[00:14:40.324 --> 00:14:41.684] DATA-IHAT: I am not Masaka.
+[00:14:43.135 --> 00:14:43.855] DATA-IHAT: I am Ihat.
+[00:14:46.415 --> 00:14:47.855] PICARD: What have you done to Commander Data?
+[00:14:48.495 --> 00:14:49.375] DATA-IHAT: Commander Data?
+[00:14:50.255 --> 00:14:51.375] DATA-IHAT: You mean the one who was here?
+[00:14:51.615 --> 00:14:52.015] PICARD: Yes.
+[00:14:53.055 --> 00:14:53.615] DATA-IHAT: He's gone.
+[00:14:54.735 --> 00:14:55.375] DATA-IHAT: Who can say where?
+[00:14:59.375 --> 00:15:02.175] PICARD: Picard to Counsellor Troi. Report to main Engineering immediately.
+[00:15:02.815 --> 00:15:05.615] DATA-IHAT: Picard to Counsellor Troi. Report to main Engineering immediately.
+[00:15:06.095 --> 00:15:12.415] PICARD: Ihat, this place you come from, is it a cultural archive of your species?
+[00:15:13.215 --> 00:15:14.575] DATA-IHAT: I come from Masaka's city.
+[00:15:16.175 --> 00:15:17.775] PICARD: Are there others like you there?
+[00:15:28.815 --> 00:15:30.095] DATA-IHAT: There are no others like me.
+[00:15:36.175 --> 00:15:36.975] PICARD: Who is Masaka?
+[00:15:40.015 --> 00:15:40.815] DATA-IHAT: You will find out.
+[00:15:42.175 --> 00:15:43.295] PICARD: I would like to know Masaka,
+[00:15:44.175 --> 00:15:44.735] PICARD: speak with her.
+[00:15:45.455 --> 00:15:48.895] DATA-IHAT: Do you understand pain? Death?
+[00:15:50.255 --> 00:15:51.775] DATA-IHAT: That is all you need to know of Masaka.
+[00:15:52.735 --> 00:15:54.415] DATA-IHAT: It is what she is.
+[00:15:56.415 --> 00:15:56.655] DATA-IHAT: Go.
+[00:15:57.775 --> 00:16:00.015] DATA-IHAT: Leave this place before she finds you.
+[00:16:00.975 --> 00:16:01.855] DATA-IHAT: It can be done.
+[00:16:03.855 --> 00:16:04.255] DATA-IHAT: I did it.
+[00:16:09.810 --> 00:16:10.290] DATA-IHAT: Masaka.
+[00:16:24.690 --> 00:16:25.730] DATA-VICTIM: I am yours.
+[00:16:27.490 --> 00:16:29.410] DATA-VICTIM: Every part of me is yours.
+[00:16:31.970 --> 00:16:33.490] PICARD: We should confine him to quarters.
+[00:16:46.850 --> 00:16:49.650] LAFORGE: This is a micrograph of what's happened to Data's positronic net.
+[00:16:50.130 --> 00:16:53.730] LAFORGE: Now, as near as I can tell, these are behavioural nodes.
+[00:16:54.210 --> 00:16:55.650] LAFORGE: I've counted fourteen so far.
+[00:16:56.370 --> 00:17:03.570] LAFORGE: I think the archive is using Data to create different people within its culture much in the same way it used our replicators to create artefacts.
+[00:17:03.730 --> 00:17:07.010] TROI: As a result, Data's real personality has been completely buried.
+[00:17:07.730 --> 00:17:11.490] TROI: In a sense, Data has the android equivalent of multiple personalities.
+[00:17:12.130 --> 00:17:13.650] LAFORGE: The archive hasn't stopped yet.
+[00:17:15.330 --> 00:17:17.650] LAFORGE: Data's positronic net is still being transformed.
+[00:17:17.650 --> 00:17:20.450] LAFORGE: There's no telling how many more personalities might emerge.
+[00:17:21.730 --> 00:17:26.610] PICARD: Geordi, I want you to continue to scan the archive. See if you can find some way to access it.
+[00:17:27.650 --> 00:17:33.170] PICARD: And in the meantime, I'll see what I can learn from these people inside Data.
+[00:17:41.348 --> 00:17:44.068] PICARD: I'm not going to hurt you.
+[00:17:45.268 --> 00:17:47.108] DATA-VICTIM: Only Masaka can hurt me.
+[00:17:49.428 --> 00:17:50.388] DATA-VICTIM: I am for her
+[00:17:51.988 --> 00:17:52.628] DATA-VICTIM: alone.
+[00:17:54.468 --> 00:17:56.148] PICARD: I need to speak with Ihat.
+[00:17:56.148 --> 00:17:59.428] PICARD: Do you understand? Ihat.
+[00:18:06.548 --> 00:18:07.028] DATA-IHAT: Captain.
+[00:18:09.748 --> 00:18:11.988] DATA-IHAT: That was a cruel joke you played on me.
+[00:18:12.708 --> 00:18:13.268] DATA-IHAT: For a moment, a
+[00:18:14.788 --> 00:18:19.108] DATA-IHAT: brief moment, I actually thought that woman was Masaka.
+[00:18:19.908 --> 00:18:22.068] PICARD: Whoever took your place wasn't afraid of Masaka.
+[00:18:22.788 --> 00:18:24.148] PICARD: He seemed eager for his fate.
+[00:18:24.948 --> 00:18:25.748] DATA-IHAT: Pitiful, isn't it.
+[00:18:26.868 --> 00:18:31.188] DATA-IHAT: You won't catch me humiliating myself for a woman even if she were a queen.
+[00:18:33.908 --> 00:18:35.268] PICARD: Then Masaka is your queen?
+[00:18:36.308 --> 00:18:38.148] DATA-IHAT: She's a lazy creature.
+[00:18:38.788 --> 00:18:40.468] DATA-IHAT: She spends most of her time sleeping.
+[00:18:41.828 --> 00:18:44.708] DATA-IHAT: The problem is, what she does when she's awake.
+[00:18:45.908 --> 00:18:47.188] PICARD: Then should we try to keep her asleep?
+[00:18:47.188 --> 00:18:50.228] DATA-IHAT: Try to
+[00:18:52.548 --> 00:18:54.628] DATA-IHAT: stop the sun from climbing the sky?
+[00:18:56.948 --> 00:18:58.388] DATA-IHAT: Only Korgano can do that,
+[00:18:59.044 --> 00:18:59.764] DATA-IHAT: and he's not here.
+[00:19:00.724 --> 00:19:01.044] PICARD: Where is he?
+[00:19:09.924 --> 00:19:13.764] DATA-BOY: Help me. Please.
+[00:19:18.084 --> 00:19:18.724] PICARD: What's wrong?
+[00:19:19.924 --> 00:19:20.084] DATA-BOY: I'm afraid.
+[00:19:21.044 --> 00:19:21.364] PICARD: Of what?
+[00:19:22.244 --> 00:19:22.244] DATA-BOY: Of her.
+[00:19:23.924 --> 00:19:23.924] PICARD: Masaka?
+[00:19:24.324 --> 00:19:24.604] DATA-BOY: Her!
+[00:19:24.604 --> 00:19:24.884] PICARD: Picard
+[00:19:28.884 --> 00:19:30.164] PICARD: to Bridge. Report.
+[00:19:30.564 --> 00:19:32.804] RIKER: The archive just activated some kind of tractor beam, sir.
+[00:19:32.964 --> 00:19:33.844] RIKER: We're not able to disengage it. ]
+[00:19:34.324 --> 00:19:35.604] PICARD: Has there been any damage to the ship?
+[00:19:36.164 --> 00:19:38.004] RIKER: There was an emergency reported in Ten Forward.
+[00:19:38.004 --> 00:19:38.804] RIKER: Mister Worf's on his way.
+[00:19:38.884 --> 00:19:41.684] LAFORGE: Captain, there's some kind of energy pulse coming through the tractor beam.
+[00:19:42.004 --> 00:19:43.364] LAFORGE: It's overriding our control systems.
+[00:19:43.764 --> 00:19:44.484] PICARD: I'll be right there.
+[00:19:44.964 --> 00:19:45.524] DATA-BOY: Don't leave me.
+[00:19:46.804 --> 00:19:47.284] PICARD: I won't leave you.
+[00:19:48.644 --> 00:19:51.044] PICARD: Please, let go of me.
+[00:19:52.324 --> 00:19:52.884] DATA-BOY: Does it hurt?
+[00:19:53.844 --> 00:19:54.084] PICARD: Yes.
+[00:19:54.964 --> 00:19:55.924] DATA-BOY: She's going to hurt us all.
+[00:19:57.524 --> 00:19:59.524] DATA-IHAT: Now
+[00:20:03.524 --> 00:20:04.564] DATA-IHAT: you've done it, Captain.
+[00:20:06.324 --> 00:20:07.844] DATA-IHAT: Masaka is awake.
+[00:20:32.604 --> 00:20:32.764] TROI: Who's
+[00:20:44.284 --> 00:20:44.844] TROI: this?
+[00:20:52.204 --> 00:20:53.884] PICARD: I'd say that that is Masaka.
+[00:20:54.364 --> 00:21:01.084] PICARD: Ihat referred to her as a queen, and it's not unusual in ceremonial cultures to find royalty symbolised by a sun.
+[00:21:01.804 --> 00:21:06.044] TROI: You said the personalities inside Data were in awe of her, even terrified.
+[00:21:06.204 --> 00:21:09.724] PICARD: According to Data, the sun image is also a symbol for death.
+[00:21:12.284 --> 00:21:15.004] PICARD: There it is again.
+[00:21:15.644 --> 00:21:20.524] PICARD: The same U-shaped symbol, small and insignificant. Almost as if it's an afterthought.
+[00:21:20.844 --> 00:21:22.524] LAFORGE: Captain, this is incredible.
+[00:21:23.484 --> 00:21:25.884] LAFORGE: These artefacts weren't beamed over here from the archive.
+[00:21:25.884 --> 00:21:28.884] LAFORGE: The matter here in Ten Forward has been transformed.
+[00:21:28.884 --> 00:21:29.884] PICARD: Into living plants?
+[00:21:29.884 --> 00:21:30.764] PICARD: How is that possible?
+[00:21:31.164 --> 00:21:34.844] LAFORGE: I'm not sure. But bit by bit, this ship is being transformed.
+[00:21:35.484 --> 00:21:37.964] WORF: We have been receiving reports from the rest of the ship.
+[00:21:38.844 --> 00:21:41.404] WORF: Part of deck twelve is now an aqueduct.
+[00:21:41.964 --> 00:21:43.324] TROI: What are we being transformed into?
+[00:21:44.124 --> 00:21:44.684] LAFORGE: I'm not sure
+[00:21:44.684 --> 00:21:45.564] LAFORGE: I want to find out.
+[00:21:46.604 --> 00:21:47.724] PICARD: I don't think we have a choice.
+[00:21:47.724 --> 00:21:49.564] PICARD: We must destroy that archive. Mister Worf?
+[00:21:50.284 --> 00:21:53.564] WORF: Sir, our weapon control systems are inoperative.
+[00:21:54.204 --> 00:21:57.724] WORF: However, we could reconfigure a photon torpedo for manual launch.
+[00:21:58.284 --> 00:21:58.844] PICARD: Make it so.
+[00:21:58.994 --> 00:21:59.594] PICARD: There's
+[00:22:06.049 --> 00:22:08.209] PICARD: so much here we could have learned.
+[00:22:08.209 --> 00:22:10.609] PICARD: I really regret losing that opportunity.
+[00:22:12.769 --> 00:22:14.369] LAFORGE: Okay, I've locked in the targeting parameters.
+[00:22:14.609 --> 00:22:15.569] LAFORGE: What's the phase alignment now?
+[00:22:16.689 --> 00:22:18.369] WORF: Less than point seven percent.
+[00:22:18.689 --> 00:22:19.489] LAFORGE: Good, that'll do it.
+[00:22:20.289 --> 00:22:21.455] LAFORGE: I'm setting the yield at maximum.
+[00:22:21.455 --> 00:22:21.649] WORF: Sir,
+[00:22:22.849 --> 00:22:24.929] WORF: the onboard power systems are not functioning.
+[00:22:31.649 --> 00:22:32.529] LAFORGE: Let's see what's going on here?
+[00:23:10.289 --> 00:23:11.729] LAFORGE: Something tells me we'd better get out of here.
+[00:23:23.329 --> 00:23:24.209] WORF: Engineering to Bridge.
+[00:23:24.449 --> 00:23:25.489] WORF: Emergency transport.
+[00:23:25.489 --> 00:23:26.049] WORF: Two to beam out.
+[00:23:36.656 --> 00:23:37.696] RIKER: Maybe we'd better talk in here.
+[00:23:37.696 --> 00:23:39.456] RIKER: The Observation Lounge has turned into a swamp.
+[00:23:41.136 --> 00:23:41.536] PICARD: So,
+[00:23:43.856 --> 00:23:44.816] PICARD: what's our status?
+[00:23:45.856 --> 00:23:49.296] LAFORGE: Well, so far the archive has transformed about twenty percent of the ship.
+[00:23:49.536 --> 00:23:52.016] LAFORGE: We've lost main propulsion and weapons systems in the process.
+[00:23:52.016 --> 00:23:54.096] RIKER: What about communications, sensors, life support?
+[00:23:54.496 --> 00:23:56.416] LAFORGE: We have communications, and limited sensor control.
+[00:23:56.416 --> 00:23:57.856] LAFORGE: Life support seems to be unaffected.
+[00:23:58.416 --> 00:24:00.416] CRUSHER: I've analysed the alien plant forms.
+[00:24:00.896 --> 00:24:03.216] CRUSHER: They've developed from biological matter we have on the ship.
+[00:24:03.856 --> 00:24:08.656] LAFORGE: The stone, the artefacts, are made in much the same way, extrapolating from the ship's own alloys.
+[00:24:08.976 --> 00:24:14.256] CRUSHER: Apparently the archive can reorder and transform molecular structure including DNA into anything it wants.
+[00:24:14.576 --> 00:24:20.656] PICARD: So it's using our ship, our alloys, our DNA, to create elements of its own culture.
+[00:24:21.136 --> 00:24:22.096] TROI: But why is this happening?
+[00:24:22.096 --> 00:24:24.016] TROI: What does the archive hope to accomplish?
+[00:24:24.336 --> 00:24:30.976] PICARD: Well, whatever the intent that lies behind its process, I'm not going to permit this ship to be turned into an alien city.
+[00:24:31.856 --> 00:24:33.376] PICARD: Mister La Forge, do you have any ideas?
+[00:24:33.776 --> 00:24:40.016] LAFORGE: We still haven't been able to cut off that beam, but I have managed to access the archive by sending an energy pulse back along their signal path.
+[00:24:40.016 --> 00:24:43.536] LAFORGE: If I can locate the transformation programme, I might be able to control it.
+[00:24:44.336 --> 00:24:47.936] PICARD: That's a good idea, but I feel that the answer lies there,
+[00:24:49.456 --> 00:24:53.136] PICARD: with Masaka. We must find her, access her.
+[00:24:55.331 --> 00:24:55.731] PICARD: Talk to her.
+[00:25:12.131 --> 00:25:14.131] PICARD: Hello.
+[00:25:17.331 --> 00:25:20.291] DATA-ELDER: Difficult to stay warm.
+[00:25:22.371 --> 00:25:25.651] DATA-ELDER: It's not warm enough, not for an old man.
+[00:25:27.571 --> 00:25:28.851] PICARD: Tell me about Masaka.
+[00:25:32.211 --> 00:25:34.371] DATA-ELDER: My daughter.
+[00:25:36.611 --> 00:25:37.971] PICARD: Tell me, how can I talk to her?
+[00:25:40.451 --> 00:25:42.691] DATA-ELDER: Children grow,
+[00:25:44.611 --> 00:25:46.371] DATA-ELDER: forget their parents.
+[00:25:52.291 --> 00:25:55.491] DATA-ELDER: Only Korgano can talk to Masaka.
+[00:25:57.011 --> 00:25:59.251] PICARD: Korgano? Who is that?
+[00:26:01.891 --> 00:26:03.691] DATA-IHAT: Well,
+[00:26:05.491 --> 00:26:07.291] DATA-IHAT: aren't
+[00:26:09.091 --> 00:26:10.131] DATA-IHAT: we the persistent one.
+[00:26:11.171 --> 00:26:11.491] PICARD: Ihat.
+[00:26:12.291 --> 00:26:13.731] DATA-IHAT: Is anyone else so charming?
+[00:26:14.851 --> 00:26:16.291] PICARD: Masaka is taking over my ship.
+[00:26:17.011 --> 00:26:18.611] DATA-IHAT: I told you she would.
+[00:26:19.171 --> 00:26:22.131] PICARD: I want to talk with her but I understand that
+[00:26:22.647 --> 00:26:24.967] PICARD: Korgano is the only one who can do that.
+[00:26:27.127 --> 00:26:27.927] DATA-IHAT: Who told you that?
+[00:26:28.967 --> 00:26:31.528] PICARD: An old man. Masaka's father.
+[00:26:32.407 --> 00:26:34.487] DATA-IHAT: Oh, yes, yes.
+[00:26:35.447 --> 00:26:38.727] DATA-IHAT: Legend has it she chopped him up and used his bones to make the world.
+[00:26:39.927 --> 00:26:41.767] DATA-IHAT: Any wonder he doesn't like to talk about her?
+[00:26:42.407 --> 00:26:43.528] PICARD: How can I find Korgano?
+[00:26:44.007 --> 00:26:44.887] DATA-IHAT: I don't know.
+[00:26:45.847 --> 00:26:47.288] DATA-IHAT: He's not chasing her anymore.
+[00:26:47.927 --> 00:26:48.567] PICARD: Where has he gone?
+[00:26:49.048 --> 00:26:51.367] DATA-IHAT: Stop asking me these questions.
+[00:26:51.927 --> 00:26:53.687] DATA-IHAT: I was fast enough to get away from her once.
+[00:26:53.687 --> 00:26:55.447] DATA-IHAT: I don't want her to find me again.
+[00:26:55.528 --> 00:26:57.447] DATA-IHAT: I'll wind up on her sacrificial slab.
+[00:26:58.808 --> 00:26:59.127] PICARD: Ihat,
+[00:26:59.607 --> 00:27:01.127] PICARD: if she's looking for a sacrifice,
+[00:27:02.727 --> 00:27:03.607] PICARD: she can take me.
+[00:27:04.808 --> 00:27:06.167] PICARD: Perhaps then she'll stop looking for you.
+[00:27:07.927 --> 00:27:08.167] DATA-IHAT: Well,
+[00:27:10.007 --> 00:27:10.808] DATA-IHAT: there's an idea.
+[00:27:11.367 --> 00:27:12.247] DATA-IHAT: Better you than me.
+[00:27:14.167 --> 00:27:14.567] PICARD: Very well.
+[00:27:16.727 --> 00:27:17.127] PICARD: What do we do.
+[00:27:21.447 --> 00:27:23.288] DATA-IHAT: You must build Masaka's temple.
+[00:27:24.647 --> 00:27:25.607] DATA-IHAT: The Queen's temple.
+[00:27:26.727 --> 00:27:28.087] DATA-IHAT: That will get her attention.
+[00:27:29.127 --> 00:27:29.367] PICARD: Very well.
+[00:27:29.367 --> 00:27:30.167] PICARD: How do I do that?
+[00:27:30.887 --> 00:27:32.327] DATA-IHAT: You need the sign.
+[00:27:32.407 --> 00:27:33.288] DATA-IHAT: I could give it to you.
+[00:27:34.087 --> 00:27:35.127] DATA-IHAT: So could the old man.
+[00:27:35.847 --> 00:27:37.367] DATA-IHAT: But just try getting it out of him.
+[00:27:38.887 --> 00:27:39.527] PICARD: Give me the sign.
+[00:27:40.727 --> 00:27:41.687] DATA-IHAT: If she finds out,
+[00:27:44.247 --> 00:27:45.927] DATA-IHAT: you can't imagine her rage.
+[00:27:48.167 --> 00:27:50.487] DATA-IHAT: She lets people die
+[00:27:50.586 --> 00:27:51.386] DATA-IHAT: of thirst.
+[00:27:51.536 --> 00:27:52.136] DATA-IHAT: A
+[00:27:53.466 --> 00:27:54.266] DATA-IHAT: terrible death.
+[00:27:56.506 --> 00:27:59.946] DATA-IHAT: Sometimes she burns them alive.
+[00:28:03.306 --> 00:28:04.426] DATA-IHAT: She is glorious.
+[00:28:05.866 --> 00:28:08.266] PICARD: Ihat, the sign,
+[00:28:08.266 --> 00:28:08.826] PICARD: give it to me.
+[00:28:10.106 --> 00:28:13.146] DATA-IHAT: If she comes, you will take my place?
+[00:28:13.386 --> 00:28:13.706] PICARD: Yes.
+[00:28:14.666 --> 00:28:14.906] DATA-IHAT: All right.
+[00:28:15.706 --> 00:28:19.386] DATA-IHAT: Quickly, give me your hand.
+[00:28:19.386 --> 00:28:21.946] DATA-IHAT: A line, as the unending horizon.
+[00:28:23.226 --> 00:28:25.066] DATA-IHAT: A curve as.
+[00:28:28.586 --> 00:28:30.634] DATA-IHAT: She has found me.
+[00:28:30.634 --> 00:28:31.146] PICARD: Masaka,
+[00:28:32.346 --> 00:28:33.066] PICARD: show yourself.
+[00:28:33.626 --> 00:28:34.426] PICARD: I will go with you.
+[00:28:35.626 --> 00:28:36.346] DATA-IHAT: It seems
+[00:28:37.866 --> 00:28:39.306] DATA-IHAT: I was not fast enough.
+[00:28:45.066 --> 00:28:48.266] DATA-ELDER: So hard to stay warm.
+[00:28:51.146 --> 00:28:53.626] DATA-ELDER: Are you one of my children?
+[00:28:54.746 --> 00:28:56.666] DATA-ELDER: I can't remember anymore.
+[00:28:56.906 --> 00:28:57.706] PICARD: I need your help.
+[00:28:57.706 --> 00:29:00.906] PICARD: I need the sign for the temple. For Masaka's temple.
+[00:29:02.986 --> 00:29:04.026] DATA-ELDER: It won't help you.
+[00:29:05.626 --> 00:29:08.666] DATA-ELDER: Korgano no longer pursues her.
+[00:29:10.186 --> 00:29:12.586] DATA-ELDER: Only he can stop her.
+[00:29:18.266 --> 00:29:22.746] PICARD: A line as the unending horizon.
+[00:29:24.764 --> 00:29:26.764] PICARD: A curve as?
+[00:29:30.284 --> 00:29:30.284] PICARD: A
+[00:29:31.884 --> 00:29:34.204] PICARD: line as the unending horizon.
+[00:29:35.084 --> 00:29:35.404] PICARD: A curve
+[00:29:36.924 --> 00:29:39.724] DATA-ELDER: As the rolling hillside.
+[00:29:41.404 --> 00:29:44.844] DATA-ELDER: A point as a distant bird.
+[00:29:47.004 --> 00:29:49.724] DATA-ELDER: A ray as the rising
+[00:29:51.324 --> 00:29:53.324] DATA-ELDER: sun.
+[00:29:53.324 --> 00:29:53.564] PICARD: Thank you.
+[00:29:56.364 --> 00:29:56.764] DATA-ELDER: Now,
+[00:29:59.004 --> 00:29:59.884] DATA-ELDER: come sit with me.
+[00:30:02.124 --> 00:30:02.924] DATA-ELDER: Tend the fire.
+[00:30:05.004 --> 00:30:05.004] DATA-BOY: I'm
+[00:30:12.764 --> 00:30:14.684] DATA-BOY: alone.
+[00:30:15.164 --> 00:30:16.284] DATA-BOY: No one left to help me.
+[00:30:17.724 --> 00:30:18.284] DATA-BOY: She's coming.
+[00:30:18.284 --> 00:30:18.284] PICARD: Are
+[00:30:20.124 --> 00:30:21.004] PICARD: all the others dead?
+[00:30:21.964 --> 00:30:23.404] PICARD: Did Masaka kill them?
+[00:30:23.884 --> 00:30:24.204] DATA-BOY: No.
+[00:30:25.244 --> 00:30:26.124] DATA-BOY: She sent them away.
+[00:30:27.564 --> 00:30:29.084] DATA-BOY: It will take them days to die.
+[00:31:02.004 --> 00:31:03.124] PICARD: Any progress, Mister La Forge?
+[00:31:04.644 --> 00:31:06.884] LAFORGE: I think I've found the archive's transformation programme.
+[00:31:07.844 --> 00:31:09.444] PICARD: Will it accept the symbol for Masaka's temple?
+[00:31:10.084 --> 00:31:10.644] LAFORGE: I think so.
+[00:31:11.044 --> 00:31:13.124] LAFORGE: I've isolated the program's input pathways.
+[00:31:13.124 --> 00:31:14.404] LAFORGE: They're keyed to accept symbols.
+[00:31:15.284 --> 00:31:18.980] LAFORGE: If I input this one, it should initiate the transformation process.
+[00:31:18.980 --> 00:31:20.324] RIKER: And create the temple?
+[00:31:20.804 --> 00:31:21.524] LAFORGE: I hope so.
+[00:31:22.084 --> 00:31:25.524] LAFORGE: If this is the wrong symbol, it might turn the Enterprise into a big chunk of rock.
+[00:31:26.404 --> 00:31:27.204] LAFORGE: No way to know for sure.
+[00:31:27.764 --> 00:31:33.008] TROI: The question is, can we trust a personality from an alien archive that seems bent on taking us over?
+[00:31:33.008 --> 00:31:33.284] PICARD: Ihat
+[00:31:34.404 --> 00:31:36.324] PICARD: risked his life to show me that symbol,
+[00:31:37.524 --> 00:31:38.964] PICARD: and Masaka killed him for doing it.
+[00:31:40.164 --> 00:31:41.204] PICARD: I think we have to risk it.
+[00:31:48.484 --> 00:31:50.804] WORF: Captain. The entire deck has been cleared of personnel.
+[00:31:50.804 --> 00:31:51.444] WORF: We may proceed.
+[00:31:52.484 --> 00:31:53.444] PICARD: Commander Riker, we're ready.
+[00:31:54.084 --> 00:31:54.484] RIKER: Understood.
+[00:31:56.164 --> 00:31:57.124] RIKER: Initiate transformation.
+[00:31:58.244 --> 00:31:59.444] LAFORGE: Inputting the symbol now.
+[00:31:59.924 --> 00:32:00.324] PICARD: This
+[00:32:05.924 --> 00:32:09.844] PICARD: would seem that this is Masaka's temple.
+[00:32:10.644 --> 00:32:11.604] WORF: There is no one else here.
+[00:32:12.884 --> 00:32:17.124] PICARD: Ihat said that if we created the temple, then it would get her attention.
+[00:32:18.964 --> 00:32:21.124] PICARD: It may be some time before she shows herself.
+[00:32:22.010 --> 00:32:22.890] WORF: How will she do that?
+[00:32:24.090 --> 00:32:24.890] PICARD: I don't know.
+[00:32:29.210 --> 00:32:29.610] TROI: Captain,
+[00:32:31.530 --> 00:32:32.330] TROI: take a look at this.
+[00:32:41.770 --> 00:32:46.410] PICARD: This is the first time I've seen these two symbols paired.
+[00:32:46.970 --> 00:32:47.930] PICARD: That could be significant.
+[00:32:49.930 --> 00:32:50.890] PICARD: Look, there it is again,
+[00:32:53.210 --> 00:32:56.010] PICARD: and again. And there again.
+[00:32:58.090 --> 00:32:59.690] PICARD: This is obviously an important pairing.
+[00:33:05.930 --> 00:33:08.263] PICARD: He isn't chasing her anymore.
+[00:33:08.263 --> 00:33:08.730] TROI: Sir?
+[00:33:09.690 --> 00:33:19.370] PICARD: Ihat said that someone named Korgano isn't chasing Masaka anymore. And the old man said, he pursues her no longer.
+[00:33:20.090 --> 00:33:26.730] PICARD: In a sense, this small symbol might be seen to be chasing Masaka.
+[00:33:27.290 --> 00:33:32.090] WORF: The symbol suggests antlers of some kind. Horns.
+[00:33:32.410 --> 00:33:35.290] WORF: Maybe it is meant to represent an animal.
+[00:33:36.010 --> 00:33:37.850] TROI: Animals are worshipped in many cultures.
+[00:33:38.730 --> 00:33:40.970] PICARD: That smaller symbol could represent Korgano.
+[00:33:42.410 --> 00:33:47.530] PICARD: Both Ihat and the old man said that Korgano was the only one who could control Masaka.
+[00:33:48.490 --> 00:33:54.410] PICARD: Many ritualistic cultures incorporate the idea of balance into their belief systems.
+[00:33:54.890 --> 00:33:55.210] PICARD: Now,
+[00:33:56.057 --> 00:34:02.217] PICARD: Masaka is a queen. A powerful, god-like figure.
+[00:34:04.137 --> 00:34:10.457] PICARD: It's not unrealistic to believe that she might have a counterpart, a consort.
+[00:34:11.497 --> 00:34:14.537] PICARD: Look around. See if you can find that horn-like symbol anywhere else. ]
+[00:35:08.057 --> 00:35:11.257] TROI: This is the most prominent instance of the horn symbol we've seen yet.
+[00:35:11.577 --> 00:35:14.697] WORF: But now it appears as though Masaka's sun is chasing it.
+[00:35:15.017 --> 00:35:16.697] TROI: The sun chasing an animal?
+[00:35:17.337 --> 00:35:18.697] PICARD: Maybe it's simpler than that.
+[00:35:18.777 --> 00:35:22.217] PICARD: Maybe their relationship is more like the sun and the moon.
+[00:35:23.989 --> 00:35:24.389] WORF: I see.
+[00:35:25.749 --> 00:35:28.549] WORF: Masaka and Korgano switching positions.
+[00:35:29.589 --> 00:35:30.709] WORF: The sun setting and the moon rising.
+[00:35:31.029 --> 00:35:35.989] PICARD: Exactly. Like two powerful rulers changing places in a continuous cycle.
+[00:35:36.629 --> 00:35:40.389] TROI: And like the sun and the moon, only one of them can be in ascendance at any given time.
+[00:35:41.749 --> 00:35:49.669] PICARD: If we can find Korgano in the archive and bring him out, then perhaps he could force Masaka to leave.
+[00:35:50.869 --> 00:35:53.109] WORF: But would we be any better off with him?
+[00:35:55.829 --> 00:35:58.549] PICARD: Ihat and the others didn't seem to be frightened of Korgano.
+[00:36:02.549 --> 00:36:02.789] TROI: Sir.
+[00:36:05.989 --> 00:36:06.309] PICARD: Masaka. Masaka,
+[00:36:13.349 --> 00:36:13.829] PICARD: I
+[00:36:15.749 --> 00:36:18.549] PICARD: am Captain Jean-Luc Picard of the Federation Starship
+[00:36:18.549 --> 00:36:19.269] DATA-MASAKA: Go away.
+[00:36:21.269 --> 00:36:22.469] PICARD: Please, hear us.
+[00:36:25.269 --> 00:36:26.869] PICARD: Your archive is destroying
+[00:36:26.869 --> 00:36:28.469] DATA-MASAKA: I do not hear you.
+[00:36:29.749 --> 00:36:31.189] WORF: She will not even listen to us.
+[00:36:32.389 --> 00:36:36.469] PICARD: Then we will have to find someone too whom she will listen.
+[00:36:41.109 --> 00:36:41.909] LAFORGE: I've found it, Captain.
+[00:36:43.029 --> 00:36:48.789] LAFORGE: This is the only place in the archive where Korgano's moon symbol appears by itself, not linked with Masaka's.
+[00:36:49.429 --> 00:36:50.149] PICARD: All right, Mister La Forge,
+[00:36:50.149 --> 00:36:52.149] PICARD: I want you to access the transformation programme.
+[00:36:52.149 --> 00:36:54.389] PICARD: And when you're ready, input the symbol.
+[00:36:54.709 --> 00:36:55.989] RIKER: Isn't that a little risky?
+[00:36:56.422 --> 00:36:58.262] TROI: We have no way idea what the result would be.
+[00:36:58.342 --> 00:37:02.262] TROI: The symbol might generate anything from Korgano's temple to Korgano himself.
+[00:37:02.742 --> 00:37:10.262] PICARD: In one sense, Korgano is Masaka's nemesis. Whatever this symbol represents, it could be for us a means to control her.
+[00:37:11.142 --> 00:37:13.542] PICARD: Now, if anyone has a better idea, I'd be happy to entertain it.
+[00:37:14.902 --> 00:37:16.342] LAFORGE: I've accessed the programme, Captain.
+[00:37:17.142 --> 00:37:18.182] PICARD: Initiate the transformation.
+[00:37:28.422 --> 00:37:29.302] RIKER: Another mask.
+[00:37:34.982 --> 00:37:38.102] PICARD: You know, we could be going about this all the wrong way.
+[00:37:38.262 --> 00:37:43.542] PICARD: This is a very ritualistic culture based on symbol and myth.
+[00:37:44.262 --> 00:37:46.902] PICARD: Perhaps we should try to confront them on those terms.
+[00:37:46.902 --> 00:37:50.662] PICARD: If I could somehow incorporate myself in their ritual,
+[00:37:52.902 --> 00:37:54.342] PICARD: then perhaps Masaka would listen to me.
+[00:37:55.382 --> 00:37:57.542] RIKER: You're going to try to pose as Korgano?
+[00:37:58.182 --> 00:38:01.862] TROI: Captain, we know so little about this culture and even less about Korgano.
+[00:38:03.222 --> 00:38:05.142] TROI: How would you convince Masaka that you're him?
+[00:38:06.102 --> 00:38:11.382] PICARD: I'm really not certain, but there are similarities between this culture and others that I've studied.
+[00:38:11.382 --> 00:38:12.822] PICARD: I would imagine I'm just going to improvise.
+[00:38:13.542 --> 00:38:13.702] PICARD: Mister
+[00:38:13.702 --> 00:38:14.502] PICARD: Worf, what's our status?
+[00:38:14.822 --> 00:38:20.662] WORF: I estimate we have less than two hours before there is nothing left of the ship. At least, nothing we can recognise.
+[00:38:52.536 --> 00:38:52.536] PICARD: Masaka.
+[00:38:54.056 --> 00:38:54.056] DATA-MASAKA: Korgano.
+[00:38:54.056 --> 00:38:55.176] PICARD: Are you surprised to see me?
+[00:38:55.656 --> 00:38:57.096] DATA-MASAKA: I thought I had escaped you.
+[00:38:57.736 --> 00:38:59.336] PICARD: You should know that is impossible.
+[00:39:01.096 --> 00:39:05.256] DATA-MASAKA: You are a fine hunter but I am a powerful prey.
+[00:39:06.216 --> 00:39:07.336] DATA-MASAKA: You will never catch me.
+[00:39:08.136 --> 00:39:10.696] PICARD: Do you want to be the prey forever?
+[00:39:16.136 --> 00:39:17.176] DATA-MASAKA: I thought I was alone.
+[00:39:21.176 --> 00:39:23.656] DATA-MASAKA: I thought I would not have to share the sky with you.
+[00:39:24.616 --> 00:39:27.976] PICARD: But without me you are not complete.
+[00:39:30.296 --> 00:39:31.576] PICARD: I know you so well.
+[00:39:32.296 --> 00:39:34.536] PICARD: You live for the chase, as do I.
+[00:39:35.656 --> 00:39:37.656] PICARD: Will you not miss being the hunter,
+[00:39:39.336 --> 00:39:44.296] PICARD: pursuing me, forcing me from the sky so that you can rise again?
+[00:39:45.656 --> 00:39:47.176] DATA-MASAKA: You know me well, Korgano.
+[00:39:47.896 --> 00:39:48.696] PICARD: I think
+[00:39:50.216 --> 00:39:51.736] PICARD: that you are beginning to tire.
+[00:39:53.416 --> 00:39:56.296] PICARD: It is difficult, brightening the sky forever.
+[00:39:59.425 --> 00:40:00.785] DATA-MASAKA: I am getting sleepy.
+[00:40:04.305 --> 00:40:05.825] DATA-MASAKA: You always do that to me.
+[00:40:07.825 --> 00:40:10.305] PICARD: So that you can wake with the dawn
+[00:40:13.025 --> 00:40:14.625] PICARD: and begin the hunt again.
+[00:40:16.305 --> 00:40:17.425] DATA-MASAKA: Let the hunt begin
+[00:40:18.945 --> 00:40:20.945] DATA-MASAKA: again.
+[00:40:21.825 --> 00:40:22.865] DATA-MASAKA: I am eager for that.
+[00:40:38.145 --> 00:40:38.785] PICARD: As am I.
+[00:40:43.185 --> 00:40:43.905] RIKER: Riker to Picard.
+[00:40:44.145 --> 00:40:44.945] RIKER: I don't know what you did, sir,
+[00:40:45.265 --> 00:40:46.625] RIKER: but it looks like everything's back to normal.
+[00:40:47.105 --> 00:40:47.585] PICARD: Acknowledged, Number One.
+[00:40:51.345 --> 00:40:51.745] PICARD: Mister Data, are
+[00:40:51.825 --> 00:40:52.145] PICARD: you all right?
+[00:40:53.185 --> 00:40:53.905] DATA: I believe so, sir.
+[00:40:55.025 --> 00:40:55.985] DATA: I am not entirely certain
+[00:40:56.145 --> 00:40:56.705] DATA: what has happened.
+[00:40:57.505 --> 00:40:58.385] DATA: Have I been dreaming again?
+[00:40:59.105 --> 00:41:00.945] PICARD: I'm afraid that will take some time to explain.
+[00:41:04.145 --> 00:41:07.185] LOG: Captain's log, stardate 47618.4.
+[00:41:07.585 --> 00:41:11.665] LOG: Commander La Forge has managed to disable the alien transformation programme.
+[00:41:12.065 --> 00:41:16.225] LOG: Starfleet has dispatched an archaeological team to study the archive further.
+[00:41:16.945 --> 00:41:17.905] PICARD: But I don't understand.
+[00:41:17.905 --> 00:41:20.785] PICARD: I thought all the alien artefacts had disappeared from the Enterprise.
+[00:41:21.025 --> 00:41:23.265] DATA: That one was not created by the archive, sir.
+[00:41:24.385 --> 00:41:26.225] DATA: That is the clay mask I originally made.
+[00:41:26.501 --> 00:41:27.815] DATA: I have since painted it.
+[00:41:27.815 --> 00:41:28.341] PICARD: A memento.
+[00:41:28.981 --> 00:41:29.301] DATA: Yes, sir.
+[00:41:30.101 --> 00:41:36.421] DATA: Although I am relieved to be rid of those alien personalities, in a sense, I am now
+[00:41:37.941 --> 00:41:38.261] DATA: empty.
+[00:41:39.861 --> 00:41:40.901] PICARD: I can imagine.
+[00:41:40.901 --> 00:41:45.381] PICARD: Doctor Crusher told me that there were possibly dozens of personalities inside you.
+[00:41:45.781 --> 00:41:47.461] DATA: I suspect the number was much greater.
+[00:41:48.101 --> 00:41:51.701] DATA: My impression is that there were thousands, of all ages and walks of life.
+[00:41:51.701 --> 00:41:51.701] DATA: It
+[00:41:53.621 --> 00:41:55.141] DATA: was a remarkable experience.
+[00:41:56.101 --> 00:42:03.781] PICARD: Well, Data, you never may become fully human, but you've had an experience that transcends the human condition.
+[00:42:03.781 --> 00:42:06.581] PICARD: You have been an entire civilisation.
+[00:42:07.000 --> 00:42:18.000] [music]
+[00:42:19.000 --> 00:42:33.000] [music]
+[00:42:43.000 --> 00:43:03.000] [music]
+[00:43:04.000 --> 00:43:12.000] [music]

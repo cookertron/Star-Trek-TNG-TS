@@ -1,0 +1,640 @@
+[00:00:02.160 --> 00:00:05.120] LOG: Captain's log, stardate 47941.7.
+[00:00:05.680 --> 00:00:11.200] LOG: The Enterprise is en route to a briefing on the situation in the Demilitarised Zone along the Cardassian border.
+[00:00:11.760 --> 00:00:14.960] LOG: Meanwhile, we're celebrating the return of an old friend.
+[00:00:24.640 --> 00:00:24.907] LAFORGE: Ro!
+[00:00:24.907 --> 00:00:25.440] CRUSHER: Welcome home.
+[00:00:26.720 --> 00:00:27.600] RO: Thanks. It's good to be back.
+[00:00:27.920 --> 00:00:29.600] TROI: Congratulations on your promotion, Lieutenant.
+[00:00:30.240 --> 00:00:31.600] RO: Same to you, Commander.
+[00:00:31.920 --> 00:00:32.400] TROI: Thank you.
+[00:00:32.480 --> 00:00:35.360] LAFORGE: Say, I understand that Advanced Tactical Training is a real picnic.
+[00:00:35.920 --> 00:00:36.320] RO: Right.
+[00:00:38.800 --> 00:00:39.600] CRUSHER: Did you see the buffet?
+[00:00:40.080 --> 00:00:42.000] TROI: This is real Bajoran foraiga.
+[00:00:42.320 --> 00:00:43.120] LAFORGE: It wasn't easy to find.
+[00:00:44.000 --> 00:00:45.440] RO: You shouldn't have gone to all this trouble.
+[00:00:45.680 --> 00:00:46.080] RO: Really.
+[00:00:47.280 --> 00:00:49.200] CRUSHER: We wanted you to know how glad we are to have you back.
+[00:00:50.800 --> 00:00:52.960] TROI: So, where are your new quarters?
+[00:00:53.920 --> 00:00:54.960] RO: Deck four, section eight.
+[00:00:55.600 --> 00:00:56.907] CRUSHER: What are do you planning to do
+[00:00:56.907 --> 00:00:57.280] PICARD: Lieutenant Ro.
+[00:00:58.240 --> 00:00:58.720] RO: Go ahead, sir.
+[00:00:59.200 --> 00:01:00.320] PICARD: Please report to the Bridge.
+[00:01:00.960 --> 00:01:01.280] RO: Yes, sir.
+[00:01:02.720 --> 00:01:03.040] RO: Excuse me.
+[00:01:10.320 --> 00:01:10.720] RO: Captain.
+[00:01:13.600 --> 00:01:15.520] PICARD: You seemed a bit overwhelmed by all the attention.
+[00:01:16.320 --> 00:01:19.280] RO: Well, to tell you the truth, I really want to see everyone.
+[00:01:19.280 --> 00:01:20.960] RO: I'd just rather do it one at a time.
+[00:01:26.160 --> 00:01:27.520] PICARD: You look very fit, Lieutenant.
+[00:01:27.595 --> 00:01:29.195] PICARD: Tactical Training seems to agree with you.
+[00:01:30.155 --> 00:01:32.235] RO: You know me, I enjoy a challenge.
+[00:01:32.555 --> 00:01:33.835] PICARD: That school is more than a challenge.
+[00:01:33.835 --> 00:01:35.355] PICARD: Half the class washes out every year.
+[00:01:35.995 --> 00:01:38.475] PICARD: But somehow I didn't think you'd be one of those.
+[00:01:39.275 --> 00:01:39.835] RO: Captain,
+[00:01:41.595 --> 00:01:45.515] RO: I want you to know that I really appreciate your recommending me.
+[00:01:47.435 --> 00:01:49.595] RO: If it weren't for you, my life would be a very different one right now.
+[00:01:52.795 --> 00:01:53.435] RIKER: Bridge to Picard.
+[00:01:54.235 --> 00:01:54.715] PICARD: Go ahead.
+[00:01:55.195 --> 00:01:59.195] RIKER: We're receiving a distress signal from a Cardassian ship near the Demilitarised Zone.
+[00:01:59.515 --> 00:02:00.635] PICARD: Change course to intercept.
+[00:02:00.635 --> 00:02:01.355] PICARD: I'm on my way.
+[00:02:03.995 --> 00:02:05.195] PICARD: I'd like you at the conn, Lieutenant.
+[00:02:07.595 --> 00:02:09.035] PICARD: Ensign
+[00:02:10.635 --> 00:02:10.875] PICARD: Gates.
+[00:02:11.755 --> 00:02:13.595] PICARD: Report.
+[00:02:14.315 --> 00:02:17.915] RIKER: The Cardassian ship relayed a distress signal but it was cut off before we could find out what was wrong.
+[00:02:18.395 --> 00:02:20.395] RO: I have the ship on long range sensors.
+[00:02:20.635 --> 00:02:23.035] RO: It appears to be under attack by several small ships.
+[00:02:23.275 --> 00:02:23.915] PICARD: Can you identify them?
+[00:02:24.795 --> 00:02:25.115] RO: No, sir.
+[00:02:25.115 --> 00:02:26.795] RO: They're not transmitting identification codes.
+[00:02:27.115 --> 00:02:28.475] DATA: I will scan their warp signatures.
+[00:02:29.595 --> 00:02:33.835] DATA: Sir, sensors indicate the attacking vessels are Federation ships.
+[00:03:02.994 --> 00:03:05.714] PICARD: Space, the final frontier.
+[00:03:07.554 --> 00:03:10.514] PICARD: These are the voyages of the starship Enterprise.
+[00:03:11.554 --> 00:03:19.554] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:21.234 --> 00:03:23.714] PICARD: to boldly go where no one has gone
+[00:03:25.474 --> 00:03:27.474] PICARD: before.
+[00:03:53.000 --> 00:04:04.000] [music]
+[00:04:16.000 --> 00:04:24.000] [music]
+[00:04:25.394 --> 00:04:26.834] RO: We're coming into visual range.
+[00:04:27.353 --> 00:04:27.753] PICARD: On screen.
+[00:04:32.073 --> 00:04:33.193] RIKER: Those are Federation ships.
+[00:04:34.473 --> 00:04:35.433] PICARD: Isolate one and magnify.
+[00:04:38.073 --> 00:04:38.473] PICARD: The Maquis.
+[00:04:40.313 --> 00:04:40.873] PICARD: Open a channel.
+[00:04:42.313 --> 00:04:42.553] WORF: Open.
+[00:04:43.433 --> 00:04:48.153] PICARD: To all Maquis ships. Call off your attack or we will be forced to engage you.
+[00:04:50.393 --> 00:04:50.953] WORF: No response.
+[00:04:52.073 --> 00:04:53.513] PICARD: You are Federation citizens.
+[00:04:53.833 --> 00:04:56.953] PICARD: Your actions are in violation of our treaty with the Cardassians.
+[00:04:57.113 --> 00:04:58.233] PICARD: Call off your attack.
+[00:05:00.633 --> 00:05:01.593] DATA: They are not responding, sir.
+[00:05:02.153 --> 00:05:04.233] PICARD: Mister Worf, are we in firing range?
+[00:05:05.353 --> 00:05:05.833] WORF: Not yet, sir.
+[00:05:07.673 --> 00:05:09.673] PICARD: Arm phasers and photon torpedoes and stand by.
+[00:05:09.673 --> 00:05:13.113] RIKER: I never thought we'd be firing on our own people to protect a Cardassian ship.
+[00:05:13.753 --> 00:05:15.273] DATA: The Maquis ships are regrouping, sir.
+[00:05:15.273 --> 00:05:17.593] DATA: They are closing in on the Cardassian vessel.
+[00:05:17.913 --> 00:05:19.833] WORF: The Cardassian's shields are down to thirty percent.
+[00:05:20.393 --> 00:05:21.833] RIKER: They may not be able to withstand another hit.
+[00:05:22.393 --> 00:05:23.913] WORF: Sir, we are within weapons range.
+[00:05:24.313 --> 00:05:28.313] PICARD: Mister Worf, can you detonate a torpedo spread between the Maquis ships and the Cardassians?
+[00:05:28.873 --> 00:05:29.113] WORF: Yes, sir.
+[00:05:29.353 --> 00:05:29.593] PICARD: Do it.
+[00:05:35.993 --> 00:05:37.513] WORF: The Maquis are breaking formation.
+[00:05:38.553 --> 00:05:39.273] WORF: They are withdrawing.
+[00:05:41.113 --> 00:05:44.713] PICARD: Signal the Cardassians that we're standing by to assist them if they have any wounded.
+[00:05:44.713 --> 00:05:45.433] WORF: Aye, sir.
+[00:05:46.153 --> 00:05:46.233] GUL EVEK: Do
+[00:05:53.433 --> 00:05:55.353] GUL EVEK: you people have experience treating Cardassians?
+[00:05:55.947 --> 00:05:56.427] CRUSHER: Yes.
+[00:05:58.667 --> 00:05:58.907] CRUSHER: Do you mind?
+[00:06:02.107 --> 00:06:02.507] PICARD: Gul
+[00:06:04.667 --> 00:06:06.827] PICARD: Evek. I'm sorry that we could not come to your aid sooner.
+[00:06:07.387 --> 00:06:08.907] GUL EVEK: I suppose we're lucky you came at all.
+[00:06:10.267 --> 00:06:12.987] GUL EVEK: Lately Starfleet seems to look the other way when the Maquis attack.
+[00:06:13.227 --> 00:06:14.747] PICARD: I can assure you that is not the case.
+[00:06:14.747 --> 00:06:16.907] PICARD: We're doing everything in our power to control them.
+[00:06:17.867 --> 00:06:20.907] GUL EVEK: The fact that my ship was attacked suggests that your efforts have met with limited success.
+[00:06:20.907 --> 00:06:20.987] GUL EVEK: They
+[00:06:22.907 --> 00:06:26.427] GUL EVEK: came at us with photon torpedoes and type eight phasers.
+[00:06:27.467 --> 00:06:31.707] GUL EVEK: Tell me, Captain, how do you suppose that a group of civilians acquired such weaponry?
+[00:06:32.027 --> 00:06:34.427] PICARD: I can assure you it was not through official channels.
+[00:06:35.067 --> 00:06:38.907] GUL EVEK: So you don't think the fact that some of the Maquis are former Starfleet officers has anything to do with
+[00:06:40.427 --> 00:06:42.427] GUL EVEK: it?
+[00:06:44.907 --> 00:06:53.787] PICARD: Starfleet does not condone the Maquis' actions in the Demilitarised Zone any more than your government would condone the paramilitary actions of Cardassian civilians.
+[00:06:54.587 --> 00:06:57.627] GUL EVEK: We have taken measures to deal with our colonists who have armed themselves.
+[00:06:58.267 --> 00:07:04.784] PICARD: Considering that they destroyed a Juhryan freighter less than a week ago, I would say that your efforts are meeting with limited success.
+[00:07:04.784 --> 00:07:05.067] GUL EVEK: Captain,
+[00:07:05.707 --> 00:07:13.147] GUL EVEK: if the Maquis are not stopped, this situation will continue to escalate to the point where the Cardassian military will have no choice but to take matters into their own hands.
+[00:07:18.267 --> 00:07:19.387] LOG: Captain's log, supplemental.
+[00:07:19.707 --> 00:07:25.307] LOG: Gul Evek and his crew have left the Enterprise, and we have proceeded to our rendezvous with Admiral Nechayev.
+[00:07:33.510 --> 00:07:35.430] NECHAYEV: No Bularian canapés this time, Captain?
+[00:07:36.070 --> 00:07:37.670] PICARD: I thought twice was pushing it a little.
+[00:07:38.550 --> 00:07:39.350] NECHAYEV: It's just as well.
+[00:07:39.830 --> 00:07:40.950] NECHAYEV: They're extremely fattening.
+[00:07:43.830 --> 00:07:45.590] PICARD: You missed Gul Evek by a matter of hours.
+[00:07:45.590 --> 00:07:46.870] PICARD: I asked him to stay.
+[00:07:47.270 --> 00:07:52.390] PICARD: I thought that an Admiral's assurances might convince him that we are trying to deal with this Maquis situation.
+[00:07:53.110 --> 00:07:58.710] NECHAYEV: Evek manages to make the Cardassians sound like helpless sheep being preyed on by Federation wolves.
+[00:07:59.990 --> 00:08:04.950] NECHAYEV: The truth is, we caught the Cardassian government supplying its colonies in the Demilitarised Zone with weapons.
+[00:08:05.590 --> 00:08:08.150] PICARD: Gul Evek assured me that they had stopped that practice.
+[00:08:08.470 --> 00:08:08.630] NECHAYEV: Ha.
+[00:08:09.110 --> 00:08:09.830] NECHAYEV: How comforting.
+[00:08:13.110 --> 00:08:17.190] PICARD: Admiral, this Maquis situation has you worried.
+[00:08:19.110 --> 00:08:19.910] NECHAYEV: Believe me, Captain,
+[00:08:20.150 --> 00:08:23.590] NECHAYEV: if I were living that close to the Cardassians, I'd keep a phaser under my pillow too.
+[00:08:24.470 --> 00:08:28.790] NECHAYEV: But in the last weeks we've seen signs that the Maquis are moving beyond self-defence.
+[00:08:30.230 --> 00:08:31.350] NECHAYEV: Their ranks are growing.
+[00:08:31.830 --> 00:08:33.670] NECHAYEV: They're acquiring ships, weapons.
+[00:08:34.630 --> 00:08:37.270] NECHAYEV: They seem to be preparing for a more aggressive military posture.
+[00:08:39.590 --> 00:08:43.670] NECHAYEV: We've got to put a stop to them before the entire Demilitarised Zone ignites.
+[00:08:44.790 --> 00:08:46.710] NECHAYEV: But before we stop them, we have to find them.
+[00:08:48.470 --> 00:08:55.670] NECHAYEV: They seem to be scattered in small cells around the Zone. And we don't have reliable intelligence about any of them.
+[00:08:57.990 --> 00:08:58.950] PICARD: Perhaps you need
+[00:08:59.996 --> 00:09:01.036] PICARD: an undercover operative.
+[00:09:01.916 --> 00:09:03.276] NECHAYEV: Our thinking exactly.
+[00:09:04.396 --> 00:09:10.076] NECHAYEV: We intend to infiltrate their organisation, and the person we want to do it is aboard your ship right now.
+[00:09:11.836 --> 00:09:14.996] RO: Starfleet wants me to infiltrate the Maquis?
+[00:09:14.996 --> 00:09:24.476] PICARD: Because of your recent training, because you're Bajoran, and because of your past troubles with Starfleet gives you a certain credibility.
+[00:09:25.036 --> 00:09:26.076] RO: Well, that's certainly true.
+[00:09:28.556 --> 00:09:30.156] RO: And just how soon would this mission begin?
+[00:09:30.556 --> 00:09:31.036] PICARD: Immediately.
+[00:09:31.036 --> 00:09:31.116] RO: I
+[00:09:32.956 --> 00:09:33.276] RO: see.
+[00:09:41.036 --> 00:09:46.316] RO: I've spent the better part of my life fighting the Cardassians. I never thought I'd be helping them out.
+[00:09:46.956 --> 00:09:50.556] PICARD: This is a rare case when our interests and theirs coincide.
+[00:09:50.556 --> 00:09:52.716] PICARD: We both want peace in the Demilitarised Zone.
+[00:09:54.796 --> 00:09:56.156] RO: I've heard a lot about the Maquis.
+[00:09:58.236 --> 00:10:04.556] RO: One of my instructors at Tactical Training, a Lieutenant Commander in Starfleet, a man I admired and respected,
+[00:10:05.756 --> 00:10:06.716] RO: he was sympathetic to them.
+[00:10:08.796 --> 00:10:09.996] RO: He resigned and left to join them.
+[00:10:10.476 --> 00:10:12.236] PICARD: We're all sympathetic, Lieutenant.
+[00:10:12.876 --> 00:10:16.556] PICARD: Our civilian population in the Demilitarised Zone is in a very difficult situation,
+[00:10:16.556 --> 00:10:19.116] PICARD: but even sympathy has to end at some point.
+[00:10:19.996 --> 00:10:21.676] PICARD: The peace treaty isn't just a piece of paper.
+[00:10:22.556 --> 00:10:24.556] PICARD: If the Maquis force us into a war with
+[00:10:24.602 --> 00:10:25.242] PICARD: Cardassia,
+[00:10:25.482 --> 00:10:27.402] PICARD: it could mean hundreds of thousands of lives.
+[00:10:28.362 --> 00:10:31.722] PICARD: Two years ago, Starfleet would never have tapped you for this mission.
+[00:10:33.082 --> 00:10:35.002] PICARD: They must have a lot of confidence in you now.
+[00:10:36.602 --> 00:10:42.922] RO: The way I see it, there's one good reason to take this mission, and that's to validate your faith in me.
+[00:11:41.722 --> 00:11:44.762] WORF: We are looking for a Bajoran woman, dark hair.
+[00:11:45.322 --> 00:11:47.722] DATA: She is responsible for the death of a Cardassian soldier.
+[00:11:50.362 --> 00:11:53.962] WORF: If we learn that she has been here, this establishment will be closed down.
+[00:11:54.491 --> 00:11:55.371] SANTOS: You say she had dark hair?
+[00:11:57.291 --> 00:11:57.611] WORF: Yes.
+[00:11:58.811 --> 00:11:59.291] SANTOS: She was here.
+[00:12:00.491 --> 00:12:01.051] SANTOS: You just missed her.
+[00:12:01.531 --> 00:12:02.491] DATA: Do you know where she went?
+[00:12:03.451 --> 00:12:03.691] SANTOS: No.
+[00:12:10.571 --> 00:12:10.651] RO: It
+[00:12:14.251 --> 00:12:16.971] RO: was really nice meeting you.
+[00:12:34.491 --> 00:12:34.811] RO: Thanks.
+[00:12:43.771 --> 00:12:44.011] SANTOS: So,
+[00:12:45.771 --> 00:12:46.811] SANTOS: did you kill that Cardassian?
+[00:12:49.371 --> 00:12:50.571] RO: Starfleet thinks I did.
+[00:12:51.131 --> 00:12:52.331] RO: That's reason enough to hide.
+[00:12:53.931 --> 00:12:55.211] RO: Why did you tell them that I'd left?
+[00:12:56.171 --> 00:12:58.891] SANTOS: There are worse things a person can do than kill a Cardassian soldier.
+[00:13:01.691 --> 00:13:03.851] RO: You don't often meet someone willing to say that out loud.
+[00:13:05.691 --> 00:13:07.851] SANTOS: In the Zone, there are a lot of us who feel that way.
+[00:13:08.491 --> 00:13:10.331] RO: I'd like to meet people like that.
+[00:13:30.060 --> 00:13:30.860] MACIAS: Don't be afraid.
+[00:13:31.740 --> 00:13:32.700] MACIAS: You're not in danger here.
+[00:13:37.900 --> 00:13:38.540] SANTOS: What is your name?
+[00:13:39.100 --> 00:13:40.780] KALITA: Did you kill that Cardassian soldier?
+[00:13:41.260 --> 00:13:41.820] RO: Who are you?
+[00:13:42.620 --> 00:13:44.620] SANTOS: We're the people who saved you from Starfleet.
+[00:13:47.260 --> 00:13:48.700] RO: Thanks, but I'll be going now.
+[00:13:55.660 --> 00:13:56.940] SANTOS: Did you kill that Cardassian?
+[00:13:59.180 --> 00:13:59.660] RO: Yes.
+[00:14:02.140 --> 00:14:04.380] KALITA: That's a risky thing to do in the Demilitarised Zone.
+[00:14:05.020 --> 00:14:07.660] KALITA: You can end up being hunted by Starfleet and the Cardassians.
+[00:14:08.460 --> 00:14:10.300] RO: Then why did he risk bringing me here?
+[00:14:10.860 --> 00:14:12.140] KALITA: We're asking the questions.
+[00:14:13.180 --> 00:14:13.740] KALITA: Who are you?
+[00:14:15.500 --> 00:14:16.940] RO: My name is Ro Laren.
+[00:14:17.740 --> 00:14:19.420] RO: I grew up in the Bajoran camps.
+[00:14:20.060 --> 00:14:22.700] MACIAS: That would explain why you have no love for Cardassians.
+[00:14:23.740 --> 00:14:25.100] RO: I know what they're capable of.
+[00:14:26.380 --> 00:14:29.580] RO: They tortured my father to death and I was forced to watch.
+[00:14:30.860 --> 00:14:31.740] SANTOS: Where are you living now?
+[00:14:32.940 --> 00:14:33.500] RO: Nowhere.
+[00:14:34.460 --> 00:14:40.380] RO: I was a Starfleet officer, but I was court-martialled and sent to the stockade on Jaros Two.
+[00:14:41.260 --> 00:14:43.740] RO: I'm not exactly what you'd call Starfleet material.
+[00:14:44.220 --> 00:14:45.420] SANTOS: When were you on Jaros?
+[00:14:45.980 --> 00:14:47.500] RO: What difference does it make?
+[00:14:47.660 --> 00:14:49.020] KALITA: We want to check your story.
+[00:14:49.580 --> 00:14:50.380] KALITA: When were you there?
+[00:14:51.194 --> 00:14:56.714] RO: Starfleet let me out about three years ago because I agreed to do some work for them, mostly having to do with Bajor.
+[00:14:57.274 --> 00:15:01.434] RO: But I got tired of watching them placate the Cardassians, and so I left.
+[00:15:02.554 --> 00:15:03.794] KALITA: You resigned?
+[00:15:03.794 --> 00:15:05.034] RO: Not officially.
+[00:15:06.634 --> 00:15:08.554] RO: That's part of the reason why they're looking for me.
+[00:15:09.274 --> 00:15:10.554] SANTOS: What were you doing on Omara?
+[00:15:11.834 --> 00:15:13.754] RO: Look, I think I've answered enough of your questions.
+[00:15:13.914 --> 00:15:15.274] RO: I would like to know who you people are.
+[00:15:15.914 --> 00:15:19.834] MACIAS: Let's say that we sympathise with those who oppose Cardassia.
+[00:15:20.794 --> 00:15:21.514] RO: Are you Maquis?
+[00:15:22.474 --> 00:15:23.354] MACIAS: What if we were?
+[00:15:24.394 --> 00:15:29.114] RO: If you were, I would ask if I could join you and help you fight.
+[00:15:31.674 --> 00:15:32.554] MACIAS: We'll check your story.
+[00:15:33.354 --> 00:15:33.754] MACIAS: Go ahead,
+[00:15:33.914 --> 00:15:34.554] MACIAS: I'll keep an eye on
+[00:15:40.554 --> 00:15:42.554] MACIAS: her.
+[00:15:48.714 --> 00:15:48.954] MACIAS: Come,
+[00:15:51.354 --> 00:15:52.234] MACIAS: let's stretch our legs.
+[00:16:00.394 --> 00:16:04.154] RO: Aren't you
+[00:16:11.354 --> 00:16:13.594] RO: taking a chance by letting me see all of this?
+[00:16:14.954 --> 00:16:16.394] RO: What if my story doesn't check out?
+[00:16:16.874 --> 00:16:19.194] RO: What if I'm not who I say I am?
+[00:16:19.194 --> 00:16:19.194] MACIAS: Well,
+[00:16:20.069 --> 00:16:21.749] MACIAS: then we'll have a problem, won't we?
+[00:16:25.749 --> 00:16:26.869] RO: You are Maquis, aren't you?
+[00:16:27.669 --> 00:16:29.269] MACIAS: Many of the people here are.
+[00:16:31.269 --> 00:16:33.029] RO: Starfleet considers you outlaws.
+[00:16:35.349 --> 00:16:36.869] RO: They're afraid you'll destroy the peace treaty.
+[00:16:37.669 --> 00:16:39.749] MACIAS: They don't understand the situation here in the Zone.
+[00:16:41.669 --> 00:16:42.549] MACIAS: I lived on Juhraya.
+[00:16:44.149 --> 00:16:48.629] MACIAS: When the treaty was signed the colony suddenly found itself in Cardassian territory.
+[00:16:49.989 --> 00:16:51.749] MACIAS: Some of us chose to stay,
+[00:16:53.429 --> 00:16:54.309] MACIAS: take our chances.
+[00:16:56.709 --> 00:17:00.069] MACIAS: Then one night I was dragged from my bed and beaten.
+[00:17:02.389 --> 00:17:07.909] MACIAS: The authorities clucked their tongues and agreed it was an unfortunate incident, and did nothing.
+[00:17:09.269 --> 00:17:10.229] RO: I'm not surprised.
+[00:17:11.269 --> 00:17:15.429] RO: The Cardassians intend to make life so unpleasant for Federation citizens that they'll leave.
+[00:17:16.389 --> 00:17:19.749] MACIAS: Exactly. And no one seems to see that,
+[00:17:21.269 --> 00:17:23.029] MACIAS: except the Maquis.
+[00:17:34.149 --> 00:17:35.749] MACIAS: How old were you when your father was killed?
+[00:17:38.309 --> 00:17:39.429] RO: I'd rather not talk about it.
+[00:17:42.789 --> 00:17:43.269] MACIAS: Hungry?
+[00:17:43.269 --> 00:17:45.029] MACIAS: Would you like something?
+[00:17:46.469 --> 00:17:47.269] RO: No, thank you.
+[00:17:56.688 --> 00:17:57.248] MACIAS: Hasperat.
+[00:17:58.528 --> 00:18:00.448] RO: You
+[00:18:02.768 --> 00:18:03.728] RO: like hasperat?
+[00:18:04.528 --> 00:18:07.328] MACIAS: An old Bajoran friend of mine used to make it.
+[00:18:09.088 --> 00:18:10.528] MACIAS: His was stronger.
+[00:18:13.168 --> 00:18:19.568] MACIAS: He was killed many years ago fighting the Cardassian occupation of Bajor.
+[00:18:22.608 --> 00:18:23.248] MACIAS: I miss his company,
+[00:18:24.768 --> 00:18:25.568] MACIAS: and his hasperat.
+[00:18:29.008 --> 00:18:32.208] RO: My father used to make the strongest hasperat you've ever tasted.
+[00:18:32.768 --> 00:18:34.528] RO: Everything else seems mild by comparison.
+[00:18:35.328 --> 00:18:36.368] MACIAS: Did he teach you how to make it?
+[00:18:36.848 --> 00:18:37.168] RO: Yes.
+[00:18:38.528 --> 00:18:40.368] RO: But I haven't tried it in years.
+[00:18:40.768 --> 00:18:51.168] MACIAS: If you would make the brine for a really strong hasperat. I mean eye watering, tongue searing strong, you'd make an old man very happy.
+[00:18:51.568 --> 00:18:54.105] RO: I would enjoy making it again.
+[00:18:54.105 --> 00:18:54.528] SANTOS: Macias.
+[00:18:58.208 --> 00:18:59.968] SANTOS: I've checked with my sources at Starfleet.
+[00:19:00.848 --> 00:19:01.728] SANTOS: Her story's true.
+[00:19:02.208 --> 00:19:04.048] MACIAS: I was sure it was.
+[00:19:04.928 --> 00:19:07.808] MACIAS: Kalita, she'll stay with you until we can find her a room.
+[00:19:20.128 --> 00:19:21.328] MACIAS: Ah there you are.
+[00:19:28.748 --> 00:19:30.108] KALITA: We've just heard a disturbing rumour.
+[00:19:30.988 --> 00:19:31.788] RO: Another rumour?
+[00:19:33.308 --> 00:19:34.988] KALITA: One that I think we should take seriously.
+[00:19:35.948 --> 00:19:42.988] KALITA: A trader coming from Pendi Two said he could verify that the Cardassians are going to start supplying their colonists with biogenic weapons.
+[00:19:43.868 --> 00:19:46.108] RO: I thought every shipment coming into the Zone was searched.
+[00:19:47.468 --> 00:19:50.588] KALITA: The Cardassians always seem to find a way around problems like that.
+[00:19:51.228 --> 00:19:53.148] SANTOS: Then we have to make a preemptive strike.
+[00:19:53.548 --> 00:19:57.708] SANTOS: Send a message to the Cardassians that we won't sit still while they kill us with toxins.
+[00:19:57.788 --> 00:19:58.668] MACIAS: Agreed.
+[00:19:59.068 --> 00:20:04.268] MACIAS: But we can't mount a strike without medical supplies and our stockpile is dangerously low.
+[00:20:05.068 --> 00:20:07.388] KALITA: If we put in a request for more, it'll draw suspicion.
+[00:20:07.708 --> 00:20:08.908] RO: I can get medical supplies.
+[00:20:10.028 --> 00:20:11.228] RO: I served on the Enterprise.
+[00:20:11.228 --> 00:20:13.548] RO: They always have extra medkits on hand for relief missions.
+[00:20:14.108 --> 00:20:15.308] SANTOS: You're wanted by Starfleet.
+[00:20:15.308 --> 00:20:17.788] SANTOS: They're not going to give you medkits just because you ask for them.
+[00:20:18.428 --> 00:20:20.188] RO: I have no intention of asking for them.
+[00:20:20.748 --> 00:20:21.628] RO: I intend to take them.
+[00:20:22.588 --> 00:20:22.988] KALITA: How?
+[00:20:23.788 --> 00:20:25.068] KALITA: The Enterprise is a fortress.
+[00:20:25.948 --> 00:20:27.228] RO: I know its security systems work.
+[00:20:29.068 --> 00:20:29.868] RO: Give me a ship.
+[00:20:30.668 --> 00:20:31.388] RO: I can do it.
+[00:20:32.188 --> 00:20:32.988] SANTOS: It's madness.
+[00:20:33.228 --> 00:20:34.828] KALITA: We can't let her do something like this.
+[00:20:35.308 --> 00:20:36.348] KALITA: We don't know anything about her.
+[00:20:37.388 --> 00:20:38.028] MACIAS: I know
+[00:20:39.308 --> 00:20:40.988] MACIAS: that she can make very strong hasperat.
+[00:20:41.948 --> 00:20:42.268] KALITA: What?
+[00:20:43.868 --> 00:20:45.788] MACIAS: We need medical supplies.
+[00:20:47.948 --> 00:20:50.508] MACIAS: I think we should let her try.
+[00:20:54.572 --> 00:20:58.092] KALITA: All right. But I'm going with her.
+[00:20:58.092 --> 00:20:59.772] RO: I could use an extra hand at the controls.
+[00:21:01.292 --> 00:21:02.092] RO: And a witness.
+[00:21:11.612 --> 00:21:16.572] RO: I set the transporter confinement parameters to maximum.
+[00:21:16.572 --> 00:21:20.172] RO: We should be able to fill our hold with medical supplies with just one single beam out.
+[00:21:20.972 --> 00:21:22.972] KALITA: I had no idea it was going to be so easy.
+[00:21:23.932 --> 00:21:25.372] RO: We're approaching the Federation border.
+[00:21:26.332 --> 00:21:30.172] KALITA: How do you plan to get out of the Demilitarised Zone without being searched at one of the checkpoints?
+[00:21:30.172 --> 00:21:32.012] RO: We're going to cross the border here.
+[00:21:32.012 --> 00:21:35.452] KALITA: There are sensor buoys all along the border.
+[00:21:35.452 --> 00:21:40.092] KALITA: If we cross anywhere other than a checkpoint, Starfleet will send a ship to investigate.
+[00:21:40.092 --> 00:21:44.652] RO: With the right security codes, we can disable the proximity detectors on the buoys.
+[00:21:45.292 --> 00:21:47.292] KALITA: Starfleet changes those codes all the time.
+[00:21:47.612 --> 00:21:49.132] RO: I know the encryption algorithms.
+[00:21:49.612 --> 00:21:54.332] RO: If I can access the buoy's protocol subsystem I should be able to figure out the codes.
+[00:21:54.732 --> 00:21:55.612] KALITA: Should be able to?
+[00:21:55.612 --> 00:21:59.212] RO: Do you want this mission to succeed?
+[00:21:59.212 --> 00:22:01.372] KALITA: Of course I do.
+[00:22:01.372 --> 00:22:02.910] KALITA: We need those medical supplies.
+[00:22:02.910 --> 00:22:05.372] RO: In that case, let me do my job.
+[00:22:05.772 --> 00:22:07.639] RO: I'm in.
+[00:22:07.639 --> 00:22:08.572] KALITA: What's
+[00:22:14.572 --> 00:22:14.572] KALITA: wrong?
+[00:22:15.532 --> 00:22:18.892] RO: If I don't input the right code in the next twenty seconds, we'll trigger the proximity alarm.
+[00:22:19.772 --> 00:22:21.052] KALITA: I'm getting us out of sensor range.
+[00:22:21.052 --> 00:22:21.292] RO: Don't.
+[00:22:21.292 --> 00:22:23.692] RO: If we break the comm. link, we won't be able to try again.
+[00:22:24.558 --> 00:22:25.118] RO: It
+[00:22:29.199 --> 00:22:32.239] RO: worked. Until they change the access codes again,
+[00:22:33.038 --> 00:22:33.918] RO: we can cross the border here.
+[00:22:35.918 --> 00:22:38.878] LOG: Captain's log, stardate 47943.2.
+[00:22:39.759 --> 00:22:42.558] LOG: It has been over a week since Lieutenant Ro left the Enterprise.
+[00:22:43.199 --> 00:22:45.439] LOG: We have yet to receive any communication from her.
+[00:22:47.519 --> 00:22:51.358] RIKER: We picked up a request for emergency assistance from a Federation science ship in the Topin system.
+[00:22:52.318 --> 00:22:53.519] PICARD: Are there any other ships in the vicinity?
+[00:22:53.519 --> 00:22:54.239] RIKER: We're the closest.
+[00:22:54.878 --> 00:22:56.719] PICARD: Helm, set course for the Topin system.
+[00:22:57.519 --> 00:22:59.999] PICARD: Mister Data, will you signal the science ship that we're on our way.
+[00:23:00.398 --> 00:23:02.719] DATA: It is unlikely that they would receive our communication, sir.
+[00:23:03.279 --> 00:23:05.838] DATA: The Topin system contains an unstable protostar.
+[00:23:06.318 --> 00:23:08.798] DATA: It generates significant magnetoscopic interference.
+[00:23:08.959 --> 00:23:10.158] PICARD: Can we use our sensors to find them?
+[00:23:11.358 --> 00:23:12.878] DATA: Most of our sensors would be ineffective,
+[00:23:13.519 --> 00:23:15.918] DATA: although our directional array should cut through the interference.
+[00:23:16.878 --> 00:23:18.558] RIKER: That array has such a narrow scan field.
+[00:23:19.519 --> 00:23:21.999] RIKER: We might as well break out the palm beacons and try to find them that way.
+[00:23:27.199 --> 00:23:27.918] KALITA: This is insane.
+[00:23:29.038 --> 00:23:35.918] KALITA: We're sitting here, no sensors, blind to the outside, waiting for a galaxy class Starship to come swooping down on us.
+[00:23:36.638 --> 00:23:37.199] RO: Don't worry.
+[00:23:38.158 --> 00:23:40.798] RO: It'll be hard for them to locate us with just the directional sensors.
+[00:23:41.598 --> 00:23:44.479] RO: Besides, they're looking for a damaged science ship that wants to be found.
+[00:23:46.798 --> 00:23:47.118] RO: They're here.
+[00:23:48.558 --> 00:23:50.158] RO: Standby to engage thrusters.
+[00:23:51.999 --> 00:23:52.318] RIKER: Anything?
+[00:23:52.719 --> 00:23:53.038] DATA: No, sir.
+[00:23:53.678 --> 00:23:55.838] DATA: It will take approximately six hours to scan this system.
+[00:23:56.893 --> 00:23:59.692] WORF: Captain, the distress call is being repeated.
+[00:24:00.813 --> 00:24:01.933] PICARD: Data, can you locate the signal?
+[00:24:02.333 --> 00:24:03.373] DATA: I am attempting to do so.
+[00:24:03.533 --> 00:24:06.333] KALITA: They're scanning our last position.
+[00:24:06.813 --> 00:24:08.653] RO: All right, I've locked onto their sensor beam.
+[00:24:09.053 --> 00:24:11.133] RO: I'm going to use it to manoeuvre into transporter range.
+[00:24:11.853 --> 00:24:13.533] KALITA: How are we going to beam through their shields?
+[00:24:13.533 --> 00:24:14.093] RO: We can't.
+[00:24:14.813 --> 00:24:16.093] RO: If we're going to get those medical supplies,
+[00:24:16.093 --> 00:24:18.093] RO: we're going to have to take this ship through their shields.
+[00:24:21.613 --> 00:24:21.853] DATA: Sir,
+[00:24:23.452 --> 00:24:26.253] DATA: I am scanning the area from which the distress signal was sent,
+[00:24:26.733 --> 00:24:28.440] DATA: but I am unable to detect a vessel.
+[00:24:28.440 --> 00:24:28.653] WORF: Captain,
+[00:24:29.373 --> 00:24:33.133] WORF: the computer has detected a piggyback communication on the last distress signal.
+[00:24:33.452 --> 00:24:34.253] PICARD: Can you decode it?
+[00:24:35.373 --> 00:24:36.413] WORF: It will take a few moments.
+[00:24:36.493 --> 00:24:36.813] PICARD: Do it.
+[00:24:38.093 --> 00:24:39.773] RO: The Enterprise shields have a weak point.
+[00:24:40.093 --> 00:24:43.373] RO: When the ship is at impulse, the thrust destabilises the shield configuration
+[00:24:43.373 --> 00:24:46.733] RO: right at this point. I'm going to try to punch through there.
+[00:24:46.813 --> 00:24:47.853] KALITA: Won't they detect us?
+[00:24:48.413 --> 00:24:50.093] RO: They'll know something's penetrated the shields.
+[00:24:50.093 --> 00:24:52.893] RO: With all the interference it'll take them a few seconds to find us.
+[00:24:53.373 --> 00:24:55.613] RO: We'll have to beam the medical supplies aboard and get out fast.
+[00:24:55.613 --> 00:24:58.733] WORF: The message is difficult to decode.
+[00:24:59.452 --> 00:25:01.613] WORF: Interference has garbled much of the transmission,
+[00:25:03.533 --> 00:25:05.373] WORF: but it seems to be from Lieutenant Ro.
+[00:25:08.093 --> 00:25:09.760] PICARD: Ro is on that ship?
+[00:25:09.760 --> 00:25:10.093] DATA: Sir,
+[00:25:10.093 --> 00:25:13.773] DATA: a vessel of some kind is attempting to penetrate our aft shields.
+[00:25:15.773 --> 00:25:16.333] PICARD: Let it through.
+[00:25:21.613 --> 00:25:25.773] RO: We're going to make it.
+[00:25:29.613 --> 00:25:30.493] RO: All right, we're in.
+[00:25:31.547 --> 00:25:32.107] KALITA: Energising.
+[00:25:41.547 --> 00:25:42.027] RO: Let's get out of here.
+[00:25:43.947 --> 00:25:44.187] WORF: Captain,
+[00:25:44.827 --> 00:25:47.547] WORF: a quantity of medical supplies was beamed from cargo bay seven.
+[00:25:48.427 --> 00:25:52.747] DATA: The vessel that penetrated our shields is of the same design as the ships used by the Maquis.
+[00:25:53.067 --> 00:25:55.067] DATA: It is moving off.
+[00:25:56.427 --> 00:25:56.907] PICARD: Let it go.
+[00:25:57.787 --> 00:25:58.587] PICARD: There must be someone with her.
+[00:25:59.627 --> 00:26:01.947] PICARD: We should make it look as though we're trying to stop them.
+[00:26:03.627 --> 00:26:04.027] PICARD: Mister Worf,
+[00:26:04.507 --> 00:26:06.347] PICARD: lock phasers on their previous position and fire.
+[00:26:06.667 --> 00:26:06.907] WORF: Aye, sir.
+[00:26:09.307 --> 00:26:11.627] RIKER: Now we know what they mean by Advanced Tactical Training.
+[00:26:17.627 --> 00:26:19.747] SANTOS: You took your ship through their shields?
+[00:26:19.747 --> 00:26:21.867] KALITA: Ro parked us between their warp nacelles.
+[00:26:22.267 --> 00:26:23.787] KALITA: I thought she was crazy, but it worked.
+[00:26:24.107 --> 00:26:25.707] KALITA: She knew exactly what she was doing.
+[00:26:25.867 --> 00:26:26.747] MACIAS: Well done.
+[00:26:27.067 --> 00:26:29.067] SANTOS: I have to inventory supplies and find out what we have.
+[00:26:31.947 --> 00:26:32.507] KALITA: See you later.
+[00:26:36.907 --> 00:26:40.667] MACIAS: Well, it seems that Kalita has decided you're not a Federation spy after all.
+[00:26:42.347 --> 00:26:46.027] MACIAS: She's suspicious of everyone at first. And rightly so.
+[00:26:46.587 --> 00:26:48.667] MACIAS: We've learned to be cautious with strangers.
+[00:26:49.627 --> 00:26:50.235] RO: I understand.
+[00:26:50.235 --> 00:26:52.667] MACIAS: But I've known since I first met you
+[00:26:54.267 --> 00:26:56.667] MACIAS: that in your heart, you're one of us.
+[00:27:03.239 --> 00:27:04.439] LOG: Captain's log, supplemental.
+[00:27:04.999 --> 00:27:12.919] LOG: Having earned the Maquis' trust with her raid on the Enterprise, Lieutenant Ro has been given access to a ship and allowed to leave the settlement by herself.
+[00:27:13.719 --> 00:27:18.439] RO: There are rumours that the Cardassians are supplying their colonists with biogenic weapons.
+[00:27:18.999 --> 00:27:20.359] PICARD: Frankly, I find it hard to believe.
+[00:27:20.599 --> 00:27:23.239] PICARD: Every ship that enters the Demilitarised Zone is being searched.
+[00:27:23.479 --> 00:27:26.839] RO: The Maquis are convinced that the Cardassians are finding a way around these searches.
+[00:27:27.399 --> 00:27:29.106] PICARD: You know, we could make use of that.
+[00:27:29.106 --> 00:27:29.319] RO: Sir?
+[00:27:31.799 --> 00:27:37.799] PICARD: We have come up with a plan that has the potential to seriously curtail the Maquis.
+[00:27:38.199 --> 00:27:46.519] PICARD: We want to give them a target so threatening to them that they'll be willing to commit as many ships and people as possible in order to destroy it.
+[00:27:46.759 --> 00:27:48.119] RO: What do you mean, give them a target?
+[00:27:48.359 --> 00:27:50.039] PICARD: Biogenic weapons, for example.
+[00:27:52.839 --> 00:28:00.119] PICARD: You could provide them with intelligence that would show that the Cardassians are, in fact, supplying their colonists with them.
+[00:28:00.119 --> 00:28:02.839] RO: That would get their attention, all right.
+[00:28:03.159 --> 00:28:16.119] PICARD: You could tell them that in order to get past the check points, they're shipping the components for these weapons through third parties, and then we could put together a convoy and send it toward the Demilitarised Zone.
+[00:28:17.879 --> 00:28:21.479] RO: And when the Maquis attack it, Starfleet will be waiting for them.
+[00:28:21.639 --> 00:28:24.439] PICARD: We could station our ships in the Hugora Nebula to avoid detection.
+[00:28:26.759 --> 00:28:28.519] RO: Basically, I would be leading them into a trap.
+[00:28:29.210 --> 00:28:29.610] PICARD: That's right.
+[00:28:32.890 --> 00:28:39.290] PICARD: If you have a problem with any of this, I need to know it now.
+[00:28:39.290 --> 00:28:43.130] RO: Well, if I do, sir, it will not stop me from carrying out my duty.
+[00:28:45.290 --> 00:28:46.330] PICARD: I knew that I could count on
+[00:28:51.610 --> 00:28:53.610] PICARD: you.
+[00:28:53.610 --> 00:28:56.970] RO: It took me a while, but I managed to patch through into Starfleet's comm. system.
+[00:28:57.530 --> 00:29:00.170] RO: I intercepted a communication from one of the checkpoints on the border.
+[00:29:00.730 --> 00:29:05.210] RO: They're concerned because a Pakled transport came through carrying retro-viral vaccines.
+[00:29:05.850 --> 00:29:06.810] SANTOS: Why is that a concern?
+[00:29:07.690 --> 00:29:11.610] RO: Well, last week a Ferengi transport came through carrying biomimetic gels.
+[00:29:12.250 --> 00:29:14.330] RO: By themselves, neither of these is dangerous,
+[00:29:14.810 --> 00:29:21.770] RO: but Starfleet is concerned because with along with other components the Cardassians could put together a biogenic device.
+[00:29:22.490 --> 00:29:24.090] KALITA: What is Starfleet going to do about it?
+[00:29:24.570 --> 00:29:26.170] RO: They can't do anything about it.
+[00:29:26.170 --> 00:29:27.610] RO: These items are all perfectly legal.
+[00:29:28.330 --> 00:29:31.450] MACIAS: How close are the Cardassians to having the components they need?
+[00:29:31.930 --> 00:29:32.650] RO: Very close.
+[00:29:33.210 --> 00:29:37.450] RO: Two days ago, a Yridian convoy left Deep Space Nine for the Demilitarised Zone.
+[00:29:38.170 --> 00:29:42.970] RO: It's carrying isomiotic hypos, plasma flares and quarantine pods.
+[00:29:43.450 --> 00:29:45.450] KALITA: We can't let that convoy reach its destination.
+[00:29:45.530 --> 00:29:47.290] SANTOS: But it's too big for us to go after alone.
+[00:29:48.730 --> 00:29:51.370] MACIAS: I'll discuss the situation with the other cell leaders.
+[00:29:52.810 --> 00:29:55.450] MACIAS: Considering what's at stake, they'll want to help.
+[00:30:16.806 --> 00:30:18.886] MACIAS: I've sent a communication to the others.
+[00:30:23.046 --> 00:30:24.646] MACIAS: When this is over, we'll celebrate.
+[00:30:26.486 --> 00:30:27.497] RO: When it's over?
+[00:30:27.497 --> 00:30:31.206] MACIAS: When Cardassia realises they can't intimidate us into leaving our colonies.
+[00:30:32.726 --> 00:30:35.126] RO: Something tells me it'll be a long time before we'll be celebrating.
+[00:30:37.286 --> 00:30:39.046] MACIAS: Don't be discouraged, Ro.
+[00:30:40.646 --> 00:30:45.446] MACIAS: It'll take time, but the important thing is that we not give up.
+[00:30:46.326 --> 00:30:48.006] RO: I spent ten years in the camps.
+[00:30:48.006 --> 00:30:48.886] RO: I don't give up.
+[00:30:51.286 --> 00:30:54.966] MACIAS: I've been thinking a long time about what our celebration will be like.
+[00:30:56.406 --> 00:30:57.766] MACIAS: We'll have a huge dinner.
+[00:30:58.726 --> 00:31:01.766] MACIAS: You'll make hasperat and I'll make blueberry pie.
+[00:31:02.646 --> 00:31:05.446] MACIAS: We'll drink wine and we'll dance.
+[00:31:07.046 --> 00:31:08.246] MACIAS: I'll even play the belaklavion.
+[00:31:08.646 --> 00:31:09.606] MACIAS: That'll give everyone a laugh.
+[00:31:11.846 --> 00:31:12.886] RO: You play the klavion?
+[00:31:13.446 --> 00:31:14.646] MACIAS: Yes, badly.
+[00:31:15.366 --> 00:31:15.366] MACIAS: It's
+[00:31:16.886 --> 00:31:20.006] MACIAS: a difficult instrument, but I enjoy the challenge.
+[00:31:20.486 --> 00:31:21.606] RO: My father played the klavion.
+[00:31:24.326 --> 00:31:25.526] RO: When I was very young
+[00:31:26.481 --> 00:31:28.240] RO: and afraid of monsters under my bed,
+[00:31:31.360 --> 00:31:32.161] RO: he'd play for me.
+[00:31:36.161 --> 00:31:39.520] RO: He said that the klavion had special powers.
+[00:31:42.721 --> 00:31:43.921] RO: Monsters were afraid of it
+[00:31:45.681 --> 00:31:47.280] RO: and when they heard it they would disappear.
+[00:31:51.360 --> 00:31:53.201] RO: When I listened to that music he played for
+[00:31:56.560 --> 00:31:58.481] RO: me I was never afraid to go to sleep.
+[00:32:04.320 --> 00:32:05.120] RO: When he died
+[00:32:10.240 --> 00:32:12.800] RO: I realised even he couldn't make all the monsters go away.
+[00:32:19.600 --> 00:32:20.401] MACIAS: Why wait?
+[00:32:22.240 --> 00:32:23.201] MACIAS: Let's go to the market.
+[00:32:23.520 --> 00:32:26.080] MACIAS: Let's get food for a feast, for a celebration.
+[00:32:28.000 --> 00:32:30.698] RO: A celebration of what?
+[00:32:30.698 --> 00:32:32.721] MACIAS: Of absolutely nothing.
+[00:32:34.000 --> 00:32:35.681] MACIAS: Just to celebrate.
+[00:32:37.120 --> 00:32:37.520] RO: I'd like that.
+[00:32:37.520 --> 00:32:37.600] MACIAS: Come, let's
+[00:32:39.120 --> 00:32:42.481] MACIAS: go to the market.
+[00:32:42.481 --> 00:32:48.182] MACIAS: If I'm going to make a pie, we'll have to find a substitute for blueberries. Haven't seen real ones in years.
+[00:32:48.572 --> 00:32:49.748] RO: On Bajor, there's a
+[00:32:50.138 --> 00:32:50.530] RO: berry
+[00:32:50.923 --> 00:32:51.314] MACIAS: Yes, I know it,
+[00:32:51.706 --> 00:32:52.881] MACIAS: very sweet.
+[00:33:59.277 --> 00:33:59.612] SANTOS: Ro!
+[00:33:59.612 --> 00:33:59.947] RO: Macias?
+[00:34:00.617 --> 00:34:07.277] MACIAS: They must have found out that there was a Maquis cell here.
+[00:34:08.317 --> 00:34:09.917] RO: Kalita, get one of the medkits. Hurry.
+[00:34:14.397 --> 00:34:15.597] RO: You have to hang on.
+[00:34:16.877 --> 00:34:22.077] MACIAS: When an old fighter like me dies
+[00:34:24.477 --> 00:34:29.597] MACIAS: someone always steps forward to take his place.
+[00:35:01.076 --> 00:35:01.316] RO: Not tonight.
+[00:35:06.276 --> 00:35:06.676] RO: Hello.
+[00:35:07.876 --> 00:35:08.356] RO: Are you alone?
+[00:35:09.876 --> 00:35:10.436] PICARD: I hope not.
+[00:35:11.956 --> 00:35:12.996] RO: Why don't we get acquainted?
+[00:35:12.996 --> 00:35:14.756] RO: There's a table in the back that's more private.
+[00:35:16.276 --> 00:35:16.836] PICARD: I'd like that.
+[00:35:29.316 --> 00:35:30.516] RO: We have to cancel the mission.
+[00:35:32.116 --> 00:35:32.276] PICARD: Why?
+[00:35:34.116 --> 00:35:35.716] RO: The Maquis didn't go for the bait.
+[00:35:36.516 --> 00:35:39.396] RO: They think the convoy is too big a target.
+[00:35:40.276 --> 00:35:41.316] PICARD: But there are only six ships.
+[00:35:42.276 --> 00:35:43.556] PICARD: We could even cut back that number.
+[00:35:45.716 --> 00:35:50.516] RO: It's the commitment of resources, of grouping so many of the Maquis together at once.
+[00:35:51.556 --> 00:35:52.916] RO: They feel that it makes them too vulnerable.
+[00:35:53.956 --> 00:36:01.796] PICARD: Every intelligence report that I get from Starfleet suggests that the Maquis are eager to expand their strikes,
+[00:36:01.796 --> 00:36:04.756] PICARD: they want to escalate their activities. Now
+[00:36:05.236 --> 00:36:06.596] PICARD: you're telling me this isn't true?
+[00:36:08.193 --> 00:36:09.713] RO: It's probably different in every cell.
+[00:36:11.313 --> 00:36:14.193] RO: The people I've met tend to be more conservative.
+[00:36:15.633 --> 00:36:17.713] RO: I'm sure others have a more militant attitude.
+[00:36:20.753 --> 00:36:21.953] PICARD: Laren, what's going on?
+[00:36:24.753 --> 00:36:25.953] RO: Do you have the money I asked you to bring?
+[00:36:27.313 --> 00:36:27.553] PICARD: Yes.
+[00:36:28.993 --> 00:36:29.873] RO: Put some on the table.
+[00:36:30.353 --> 00:36:30.513] PICARD: What?
+[00:36:32.033 --> 00:36:33.873] RO: By this time, you should be negotiating my price.
+[00:36:43.713 --> 00:36:45.953] RO: When you sent me on this mission,
+[00:36:48.833 --> 00:36:49.873] RO: I thought that I could do it.
+[00:36:51.713 --> 00:36:56.113] RO: Even though it meant helping Cardassians, even though it meant betraying people who are fighting against them.
+[00:36:59.313 --> 00:37:00.673] RO: Now I'm not sure where I stand.
+[00:37:02.513 --> 00:37:04.273] PICARD: Are you saying you want to back out of this mission?
+[00:37:07.873 --> 00:37:08.033] RO: Sir,
+[00:37:08.033 --> 00:37:08.993] RO: I don't want to let you down,
+[00:37:08.993 --> 00:37:09.713] RO: I swear that I don't.
+[00:37:09.873 --> 00:37:11.233] PICARD: This has nothing to do with me.
+[00:37:11.313 --> 00:37:11.953] PICARD: This is about you.
+[00:37:13.633 --> 00:37:16.513] PICARD: If you back out now, you'll throw away everything you've worked
+[00:37:18.593 --> 00:37:18.593] PICARD: for.
+[00:37:23.633 --> 00:37:24.753] PICARD: We're committed to this mission.
+[00:37:26.593 --> 00:37:27.793] PICARD: My only question for you is,
+[00:37:30.033 --> 00:37:31.153] PICARD: can you carry out your orders?
+[00:37:35.873 --> 00:37:39.313] PICARD: I could put you before a board of inquiry for having lied to me about this operation.
+[00:37:41.953 --> 00:37:44.833] PICARD: I would certainly have you court-martialled if you sabotage it.
+[00:37:46.353 --> 00:37:47.313] PICARD: Now, it's your decision.
+[00:37:53.073 --> 00:37:54.033] RO: I'll carry out my orders, sir.
+[00:37:54.033 --> 00:37:54.193] PICARD: I
+[00:37:58.033 --> 00:38:01.713] PICARD: feel it necessary to have Commander Riker go back with you.
+[00:38:02.433 --> 00:38:04.753] PICARD: He can pose as a relative.
+[00:38:06.273 --> 00:38:10.033] PICARD: I just want to make sure that nothing happens to obstruct this mission.
+[00:38:10.183 --> 00:38:10.783] PICARD: I'm
+[00:38:15.233 --> 00:38:16.913] PICARD: sorry. I don't have that kind of money.
+[00:38:24.193 --> 00:38:25.393] LOG: Captain's log, supplemental.
+[00:38:25.873 --> 00:38:31.633] LOG: We have received word from Commander Riker and Lieutenant Ro that the Maquis will be attacking the convoy as planned.
+[00:38:32.273 --> 00:38:35.953] LOG: Our ships have taken up position in the Hugora Nebula to wait for them.
+[00:38:36.193 --> 00:38:40.033] DATA: I have established a relay link with the sensor probe we left on the perimeter of the Nebula.
+[00:38:40.513 --> 00:38:41.473] DATA: This is the convoy.
+[00:38:42.273 --> 00:38:45.873] DATA: We are expecting the Maquis attack force to cross the border from the Demilitarised Zone.
+[00:38:46.113 --> 00:38:48.368] PICARD: As soon as they cross the border, we'll intercept them.
+[00:38:48.368 --> 00:38:48.593] WORF: Captain,
+[00:38:48.993 --> 00:38:56.193] WORF: in order to ensure that the ship Commander Riker and Lieutenant Ro are piloting does not come under fire, I have relayed their warp signature to the rest of the attack force.
+[00:38:56.753 --> 00:38:58.993] DATA: Sir, the Maquis squadron is coming into sensor range.
+[00:38:58.993 --> 00:38:59.073] PICARD: Go
+[00:39:01.393 --> 00:39:01.953] PICARD: to Red alert.
+[00:39:02.913 --> 00:39:03.153] WORF: Aye, sir.
+[00:39:08.753 --> 00:39:10.182] SANTOS: Squad leader to all ships.
+[00:39:10.182 --> 00:39:10.753] RO: Go ahead,
+[00:39:10.753 --> 00:39:11.366] RO: squad leader.
+[00:39:11.366 --> 00:39:14.433] SANTOS: We'll be crossing the border in less than one minute.
+[00:39:15.150 --> 00:39:15.870] SANTOS: Arm your weapons.
+[00:39:16.350 --> 00:39:16.910] RO: Acknowledged.
+[00:39:18.670 --> 00:39:20.750] RIKER: Starfleet can't make its move until we're out of the Demilitarised
+[00:39:20.750 --> 00:39:24.510] RIKER: Zone. We're to break formation and take cover in the Nebula as soon as they appear.
+[00:39:26.750 --> 00:39:28.670] RO: The ships in the convoy are raising their shields.
+[00:39:28.670 --> 00:39:29.470] RO: They've spotted us.
+[00:39:30.670 --> 00:39:32.030] RIKER: We cross the border in thirty seconds.
+[00:39:35.630 --> 00:39:35.870] RIKER: What the?
+[00:39:40.270 --> 00:39:40.750] RO: I'm sorry.
+[00:39:41.870 --> 00:39:42.670] RO: I can't let this happen.
+[00:39:46.030 --> 00:39:46.270] DATA: Sir,
+[00:39:46.270 --> 00:39:50.670] DATA: the vessel being piloted by Lieutenant Ro is firing a low intensity particle beam into the nebula.
+[00:39:51.710 --> 00:39:53.310] PICARD: What the hell is she doing?
+[00:39:53.390 --> 00:39:57.230] DATA: The polarising effect being created by the beam may make it possible for us to be detected.
+[00:39:57.470 --> 00:39:58.350] PICARD: Can you counter the effect?
+[00:39:58.910 --> 00:39:59.790] DATA: I will attempt to do so.
+[00:39:59.790 --> 00:40:02.590] SANTOS: Ro, why are you firing?
+[00:40:02.990 --> 00:40:03.790] RO: Scan the nebula.
+[00:40:04.190 --> 00:40:06.190] RO: There's a Starfleet attack force hiding inside it.
+[00:40:07.310 --> 00:40:08.030] SANTOS: I see it!
+[00:40:09.710 --> 00:40:10.990] SANTOS: Squad leader to all ships.
+[00:40:11.230 --> 00:40:11.950] SANTOS: Abort the mission.
+[00:40:11.950 --> 00:40:12.430] SANTOS: Repeat,
+[00:40:12.590 --> 00:40:14.510] SANTOS: abort the mission.
+[00:40:14.510 --> 00:40:15.150] DATA: Sir,
+[00:40:15.950 --> 00:40:17.390] DATA: the Maquis ships are breaking formation.
+[00:40:18.030 --> 00:40:18.750] PICARD: Have they crossed the border?
+[00:40:19.390 --> 00:40:19.630] DATA: No, sir.
+[00:40:20.110 --> 00:40:20.830] DATA: They are withdrawing.
+[00:40:21.310 --> 00:40:21.630] WORF: Captain,
+[00:40:21.870 --> 00:40:27.390] WORF: Lieutenant Ro's ship is not retreating with the others.
+[00:40:28.510 --> 00:40:29.470] WORF: It is heading toward us.
+[00:40:31.390 --> 00:40:32.110] PICARD: When she comes aboard
+[00:40:34.270 --> 00:40:35.150] PICARD: take her into custody.
+[00:40:37.710 --> 00:40:38.990] RO: Alpha Seven to Alpha Nine.
+[00:40:39.470 --> 00:40:39.870] KALITA: Go ahead.
+[00:40:41.150 --> 00:40:42.350] RO: Stand by to beam me aboard.
+[00:40:42.670 --> 00:40:43.390] KALITA: Standing by.
+[00:40:45.390 --> 00:40:46.830] RO: You can take this ship back to the Enterprise.
+[00:40:47.390 --> 00:40:48.110] RIKER: You're going with them?
+[00:40:50.740 --> 00:40:53.140] RO: It's been a long time since I really felt like I really belonged somewhere.
+[00:41:02.820 --> 00:41:04.340] RO: Could you tell Captain Picard something for me?
+[00:41:05.700 --> 00:41:06.180] RIKER: Of course.
+[00:41:06.180 --> 00:41:06.500] RIKER: What is it?
+[00:41:07.700 --> 00:41:08.340] RO: Tell him I'm sorry.
+[00:41:12.580 --> 00:41:13.140] RIKER: So long, Ro.
+[00:41:14.420 --> 00:41:15.220] RIKER: Take care of yourself.
+[00:41:17.700 --> 00:41:18.180] RO: Goodbye, Will.
+[00:41:22.020 --> 00:41:22.500] RO: Energise.
+[00:41:35.540 --> 00:41:37.940] RIKER: She seemed very sure that she was making the right choice.
+[00:41:41.620 --> 00:41:43.620] RIKER: I think her only real regret was that she let you down.
+[00:41:48.580 --> 00:41:49.300] RIKER: Here's my report.
+[00:42:00.000 --> 00:42:27.000] [music]
+[00:42:38.000 --> 00:42:46.000] [music]

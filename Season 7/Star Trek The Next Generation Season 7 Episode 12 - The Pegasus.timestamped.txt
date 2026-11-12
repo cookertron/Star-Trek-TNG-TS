@@ -1,0 +1,687 @@
+[00:00:02.800 --> 00:00:04.800] PICARD: I don't know why we have to do this every year.
+[00:00:05.760 --> 00:00:08.880] PICARD: I thought that last year the teachers had agreed that they wouldn't do this anymore.
+[00:00:09.840 --> 00:00:13.680] TROI: Captain Picard Day is one of the children's favourite school activities.
+[00:00:13.680 --> 00:00:15.360] TROI: They look forward to it all year.
+[00:00:17.360 --> 00:00:18.320] PICARD: Why does it have to be me?
+[00:00:19.440 --> 00:00:21.520] TROI: Because you're the Captain, and they look up to you.
+[00:00:22.400 --> 00:00:23.680] TROI: You're a role model for them.
+[00:00:23.830 --> 00:00:24.430] PICARD: Well,
+[00:00:25.920 --> 00:00:28.720] PICARD: they seem to have a somewhat exaggerated impression of me.
+[00:00:29.280 --> 00:00:29.760] RIKER: I don't know.
+[00:00:29.760 --> 00:00:31.200] RIKER: I think the resemblance is rather striking.
+[00:00:31.680 --> 00:00:32.320] RIKER: Wouldn't you agree,
+[00:00:32.400 --> 00:00:32.880] RIKER: Number One?
+[00:00:35.440 --> 00:00:36.560] PICARD: Isn't there something else you have to do?
+[00:00:37.200 --> 00:00:37.840] RIKER: I'll be on the Bridge.
+[00:00:41.440 --> 00:00:41.840] TROI: Will.
+[00:00:51.760 --> 00:00:53.520] TROI: The finalists will be here in half an hour.
+[00:00:53.520 --> 00:00:57.520] TROI: You have to pick a first, second and third place, and four honourable mentions.
+[00:00:58.400 --> 00:00:59.120] WORF: Worf to Captain.
+[00:00:59.360 --> 00:01:01.440] WORF: Incoming transmission from Admiral Blackwell.
+[00:01:01.600 --> 00:01:02.960] WORF: It is coded Priority One.
+[00:01:03.760 --> 00:01:04.480] PICARD: Put it through, Mister Worf.
+[00:01:04.720 --> 00:01:05.440] PICARD: Excuse me, Counsellor.
+[00:01:13.040 --> 00:01:13.600] PICARD: Yes, Admiral?
+[00:01:14.240 --> 00:01:16.480] BLACKWELL: Captain, what is your status?
+[00:01:17.200 --> 00:01:20.480] PICARD: We are conducting energy output studies of the Mekoria Quasar.
+[00:01:21.040 --> 00:01:22.000] PICARD: All systems normal.
+[00:01:22.000 --> 00:01:23.120] PICARD: The ship is fully operational.
+[00:01:23.360 --> 00:01:23.760] BLACKWELL: Good.
+[00:01:24.480 --> 00:01:26.800] BLACKWELL: I'm postponing the quasar study for the moment.
+[00:01:27.600 --> 00:01:34.240] BLACKWELL: The Enterprise is to rendezvous with the starship Crazy Horse in sector one six zero seven immediately.
+[00:01:35.184 --> 00:01:39.344] BLACKWELL: You're authorised to exceed warp speed limitations for the duration of this assignment.
+[00:01:40.384 --> 00:01:41.104] PICARD: I understand.
+[00:01:41.584 --> 00:01:42.384] PICARD: What is our assignment?
+[00:01:42.784 --> 00:01:45.504] BLACKWELL: I'd prefer not to discuss it over subspace channels.
+[00:01:46.224 --> 00:01:49.424] BLACKWELL: The Crazy Horse will be carrying someone from Starfleet Intelligence.
+[00:01:49.904 --> 00:01:51.264] BLACKWELL: He'll brief you when he arrives.
+[00:01:52.144 --> 00:01:52.624] PICARD: Very well.
+[00:01:54.384 --> 00:01:55.744] BLACKWELL: Captain Picard Day?
+[00:01:56.864 --> 00:02:00.944] PICARD: Oh, er, yes. It's, er, it's for the children.
+[00:02:01.664 --> 00:02:04.784] PICARD: I'm, er, ha, ha, I'm a role model.
+[00:02:05.424 --> 00:02:06.464] BLACKWELL: I'm sure you are.
+[00:02:07.424 --> 00:02:08.144] BLACKWELL: Starfleet out.
+[00:02:17.744 --> 00:02:18.624] RIKER: So, who won the contest?
+[00:02:19.584 --> 00:02:22.304] PICARD: Paul Menegay, a seven year old.
+[00:02:22.624 --> 00:02:24.784] PICARD: He did a most interesting clay sculpture of my head.
+[00:02:25.024 --> 00:02:27.504] RIKER: Was that the orange one with the lumpy skin?
+[00:02:27.984 --> 00:02:28.464] PICARD: Yes.
+[00:02:29.344 --> 00:02:32.864] PICARD: Oh, you'll be interested to know that I've arranged for a Commander Riker Day next month.
+[00:02:33.184 --> 00:02:35.024] PICARD: I'm even considering making an entry myself.
+[00:02:35.744 --> 00:02:36.144] RIKER: Great.
+[00:02:37.424 --> 00:02:38.064] PICARD: Energise.
+[00:02:38.464 --> 00:02:38.784] CREWMAN: Aye, sir.
+[00:02:40.624 --> 00:02:42.224] PRESSMAN: Will.
+[00:02:46.144 --> 00:02:47.664] PRESSMAN: I'll bet you never thought you'd see me again.
+[00:02:49.664 --> 00:02:50.544] RIKER: It's good to see you, sir.
+[00:02:51.024 --> 00:02:51.744] PRESSMAN: Yeah, sure it is.
+[00:02:51.744 --> 00:02:52.784] PRESSMAN: You look like you're about to faint.
+[00:02:53.984 --> 00:02:56.544] RIKER: No. It's just it's been a long time.
+[00:02:57.264 --> 00:03:00.624] RIKER: Captain Jean-Luc Picard, Admiral Erik Pressman.
+[00:03:01.424 --> 00:03:02.304] PICARD: Pressman? Yes,
+[00:03:02.303 --> 00:03:06.463] PICARD: of course. You were Will's first commanding officer, on the Pegasus.
+[00:03:06.863 --> 00:03:07.263] PRESSMAN: That's right.
+[00:03:08.063 --> 00:03:11.238] PRESSMAN: As a matter of fact, the Pegasus is the reason I'm here.
+[00:03:11.238 --> 00:03:11.503] RIKER: Sir?
+[00:03:12.543 --> 00:03:16.063] PRESSMAN: The Pegasus is still out there, Will. And the Romulans found her.
+[00:03:45.503 --> 00:03:48.303] PICARD: Space, the final frontier.
+[00:03:50.143 --> 00:03:53.023] PICARD: These are the voyages of the starship Enterprise.
+[00:03:54.143 --> 00:04:02.143] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:03.743 --> 00:04:06.703] PICARD: to boldly go where no one has gone before.
+[00:04:24.000 --> 00:04:33.000] [music]
+[00:05:06.640 --> 00:05:13.600] PRESSMAN: As you know, the starship Pegasus was lost in this sector some twelve years ago along with most of its crew.
+[00:05:14.320 --> 00:05:15.840] PRESSMAN: I was the captain and Commander Riker
+[00:05:15.840 --> 00:05:16.640] PRESSMAN: here was my helmsman.
+[00:05:16.960 --> 00:05:18.000] PICARD: I remember hearing about it.
+[00:05:18.240 --> 00:05:20.240] PICARD: The ship was destroyed by a warp core breach as
+[00:05:20.240 --> 00:05:20.720] PICARD: I recall.
+[00:05:21.440 --> 00:05:26.160] RIKER: The Captain and I, along with seven others managed to get to the escape pod before the breach became critical.
+[00:05:26.720 --> 00:05:31.120] PRESSMAN: From space, we saw what appeared to be a matter-antimatter explosion which vaporised the ship.
+[00:05:31.760 --> 00:05:36.080] RIKER: No wreckage was found, so Starfleet officially declared the ship destroyed.
+[00:05:37.040 --> 00:05:39.280] PRESSMAN: However, all that changed three days ago.
+[00:05:40.240 --> 00:05:43.360] PRESSMAN: Starfleet Intelligence has an operative in Romulan High Command.
+[00:05:43.760 --> 00:05:52.400] PRESSMAN: He sent us a message that a Romulan warbird had located a piece of debris in the Devolin system which was positively identified as being from the Pegasus.
+[00:05:52.800 --> 00:05:56.560] PRESSMAN: The warbird was then ordered to locate the rest of the ship, if possible, and retrieve it.
+[00:05:56.720 --> 00:05:59.200] LAFORGE: What would the Romulans want with pieces of a twelve year old starship?
+[00:05:59.600 --> 00:06:00.720] PRESSMAN: The Pegasus was a prototype.
+[00:06:01.248 --> 00:06:03.008] PRESSMAN: Experimental engine, new weapon systems.
+[00:06:03.488 --> 00:06:06.208] PRESSMAN: In fact, some of our designs were used in constructing the Enterprise.
+[00:06:07.088 --> 00:06:09.968] PRESSMAN: There are a lot of things on board the Romulans would love to get their hands on.
+[00:06:10.528 --> 00:06:11.328] PICARD: What are our orders?
+[00:06:11.888 --> 00:06:13.568] PRESSMAN: To find the ship before the Romulans do.
+[00:06:13.808 --> 00:06:15.888] PRESSMAN: Salvage it if possible, destroy it if necessary.
+[00:06:16.608 --> 00:06:19.168] PRESSMAN: You command the Enterprise while I remain in command of the overall mission.
+[00:06:19.568 --> 00:06:23.568] LAFORGE: We'll need metallurgical and chromographic specs on the Pegasus in order to set up the proper search parameters.
+[00:06:24.208 --> 00:06:26.208] PRESSMAN: I'll make the appropriate information available to you.
+[00:06:26.848 --> 00:06:27.328] PICARD: Very well.
+[00:06:28.048 --> 00:06:29.904] PICARD: Lay in a course for the Devolin system.
+[00:06:29.904 --> 00:06:30.368] RIKER: Aye, sir.
+[00:06:39.968 --> 00:06:42.395] DATA: Captain, we are approaching the Devolin system.
+[00:06:42.395 --> 00:06:44.128] PICARD: Any sign of the Romulans?
+[00:06:44.688 --> 00:06:45.088] DATA: No, sir.
+[00:06:45.568 --> 00:06:46.368] PRESSMAN: Oh, they're out there.
+[00:06:46.928 --> 00:06:48.774] PRESSMAN: They're just waiting to see what you're going to do.
+[00:06:48.774 --> 00:06:49.328] PICARD: Mister La Forge?
+[00:06:50.048 --> 00:06:52.848] LAFORGE: There's an awful lot of ionising radiation in this system, Captain.
+[00:06:52.848 --> 00:06:55.008] LAFORGE: That and the sheer amount of rock is going to slow down our search a little.
+[00:06:55.328 --> 00:06:55.648] PICARD: How slow?
+[00:06:56.128 --> 00:06:56.768] LAFORGE: I'd say at least
+[00:06:56.768 --> 00:06:58.928] WORF: Sir, Romulan warbird decloaking directly ahead.
+[00:07:02.768 --> 00:07:03.808] WORF: They are powering weapons.
+[00:07:04.288 --> 00:07:05.328] RIKER: Shields up. Red alert.
+[00:07:06.128 --> 00:07:07.248] RIKER: Prepare phasers.
+[00:07:07.248 --> 00:07:07.808] WORF: Sir,
+[00:07:08.448 --> 00:07:09.168] WORF: they are hailing us.
+[00:07:12.368 --> 00:07:12.848] PICARD: On screen.
+[00:07:14.848 --> 00:07:18.208] SIROL: I am Commander Sirol of the Romulan vessel Terix.
+[00:07:18.208 --> 00:07:20.608] SIROL: To whom do I have the honour of speaking?
+[00:07:21.248 --> 00:07:24.368] PICARD: I am Captain Jean-Luc Picard of the Federation starship Enterprise.
+[00:07:25.248 --> 00:07:28.288] SIROL: Captain Picard. I've heard so much about you.
+[00:07:28.368 --> 00:07:29.808] SIROL: A pleasure to make your acquaintance.
+[00:07:30.448 --> 00:07:32.768] SIROL: I hope our sudden appearance didn't startle you.
+[00:07:33.773 --> 00:07:34.493] PICARD: Not at all.
+[00:07:35.533 --> 00:07:40.573] PICARD: But your unannounced appearance might have unfortunate consequences.
+[00:07:40.573 --> 00:07:45.613] PICARD: It would be an awful shame if your ship were damaged due to some misunderstanding.
+[00:07:46.093 --> 00:07:51.693] SIROL: I am touched by your concern for my ship, but I doubt we were ever in any danger.
+[00:07:52.893 --> 00:07:55.053] SIROL: May I ask what you are doing in this system?
+[00:07:56.013 --> 00:07:57.373] PICARD: I might ask you the same question.
+[00:07:58.413 --> 00:08:00.733] SIROL: We are conducting a survey of gaseous anomalies.
+[00:08:02.173 --> 00:08:03.533] PICARD: How interesting.
+[00:08:03.533 --> 00:08:04.413] PICARD: So are we.
+[00:08:04.893 --> 00:08:08.413] PICARD: Perhaps we could combine our efforts and share our findings.
+[00:08:08.733 --> 00:08:11.133] SIROL: I doubt our objectives are compatible.
+[00:08:12.573 --> 00:08:13.213] PICARD: Perhaps you're right.
+[00:08:14.173 --> 00:08:18.653] SIROL: This has been a most pleasant conversation, but we must return to our research.
+[00:08:19.613 --> 00:08:20.333] PICARD: Then I won't keep you.
+[00:08:24.173 --> 00:08:24.573] WORF: Sir,
+[00:08:24.573 --> 00:08:27.613] WORF: they are moving off, resuming their tachyon scans of the system.
+[00:08:27.933 --> 00:08:28.893] PICARD: Stand down Red alert,
+[00:08:29.853 --> 00:08:31.853] PICARD: but keep tracking their movement, Lieutenant.
+[00:08:32.173 --> 00:08:32.413] WORF: Aye, sir.
+[00:08:34.493 --> 00:08:36.733] PICARD: Commander, how long will it take us to search this system?
+[00:08:36.973 --> 00:08:37.853] LAFORGE: At least seven days, sir.
+[00:08:38.733 --> 00:08:40.653] WORF: And the Romulans have a two day head start.
+[00:08:41.293 --> 00:08:42.573] PICARD: Then let's get to it. Mister Data?
+[00:08:43.613 --> 00:08:46.573] DATA: Initiating sensor sweep of grid zero one.
+[00:08:47.853 --> 00:08:49.133] PRESSMAN: How long have you had that beard?
+[00:08:49.773 --> 00:08:50.573] RIKER: About four years.
+[00:08:51.853 --> 00:08:53.453] RIKER: I got tired of hearing how young I looked.
+[00:08:54.493 --> 00:08:55.213] PRESSMAN: What was it that
+[00:08:56.813 --> 00:08:58.333] PRESSMAN: Lieutenant Boylen used to call you?
+[00:08:59.453 --> 00:09:00.733] RIKER: Ensign Babyface.
+[00:09:01.373 --> 00:09:04.573] PRESSMAN: You never did have much of a sense of humour.
+[00:09:05.990 --> 00:09:08.150] RIKER: I like to think that I've lightened up a little in my old age.
+[00:09:08.470 --> 00:09:08.702] PRESSMAN: Really?
+[00:09:08.702 --> 00:09:10.790] RIKER: I've been known to tell a joke or two.
+[00:09:11.430 --> 00:09:12.390] PRESSMAN: Well, it's about time.
+[00:09:12.710 --> 00:09:14.470] PRESSMAN: You were always so serious on the Pegasus.
+[00:09:18.230 --> 00:09:19.590] RIKER: We went through some serious times.
+[00:09:19.910 --> 00:09:19.990] RIKER: Do
+[00:09:23.350 --> 00:09:24.870] RIKER: you really think we're going to find the Pegasus again?
+[00:09:25.430 --> 00:09:27.270] PRESSMAN: I wouldn't have come all the way out here if I didn't.
+[00:09:29.030 --> 00:09:29.910] RIKER: What about the experiment?
+[00:09:30.870 --> 00:09:31.910] RIKER: Do you think we're going to find that too?
+[00:09:32.630 --> 00:09:33.030] PRESSMAN: Maybe.
+[00:09:38.630 --> 00:09:39.830] RIKER: I think a lot about what happened,
+[00:09:41.510 --> 00:09:42.710] RIKER: especially on that last day.
+[00:09:43.830 --> 00:09:44.470] PRESSMAN: So do I.
+[00:09:45.590 --> 00:09:46.950] PRESSMAN: It's not the kind of thing you just forget.
+[00:09:46.950 --> 00:09:49.270] RIKER: Do you ever wonder if we did the right thing?
+[00:09:50.710 --> 00:09:51.030] PRESSMAN: Never.
+[00:09:52.870 --> 00:09:55.670] PRESSMAN: What happened was a tragedy, yes, but it wasn't your fault and it wasn't mine.
+[00:09:56.070 --> 00:10:00.550] PRESSMAN: What we were doing was for the good of the Federation, and we can't blame ourselves if the others couldn't see that.
+[00:10:01.750 --> 00:10:05.030] RIKER: I know, but, maybe we went about it the wrong way.
+[00:10:07.430 --> 00:10:10.070] PRESSMAN: Well, this time we may have a chance to do it the right way.
+[00:10:11.670 --> 00:10:18.150] PRESSMAN: If this mission is successful, if we find the Pegasus and the experiment, we can finish what we started twelve years ago.
+[00:10:20.950 --> 00:10:21.830] RIKER: You want to try again?
+[00:10:22.550 --> 00:10:23.670] PRESSMAN: It's not just me, Will.
+[00:10:24.150 --> 00:10:29.260] PRESSMAN: The Chief of Starfleet Security has personally given me her assurance of complete support.
+[00:10:29.260 --> 00:10:29.990] RIKER: Admiral Raner?
+[00:10:31.029 --> 00:10:32.309] RIKER: How many other people know about this?
+[00:10:32.789 --> 00:10:35.109] PRESSMAN: Not many, and it's up to us to make sure it stays that way.
+[00:10:35.989 --> 00:10:37.589] PRESSMAN: Raner has given me written orders for you.
+[00:10:37.909 --> 00:10:39.829] PRESSMAN: You'll find them coded in the Enterprise computer.
+[00:10:40.389 --> 00:10:45.749] PRESSMAN: You've been instructed not to reveal the true nature of our mission to anyone else, not even Captain Picard.
+[00:10:48.869 --> 00:10:51.989] PRESSMAN: Will, don't worry. It won't be like it was twelve years ago.
+[00:10:53.749 --> 00:10:55.029] PRESSMAN: And this time, no one's going to stop
+[00:11:00.789 --> 00:11:00.789] PRESSMAN: us.
+[00:11:07.989 --> 00:11:12.629] PICARD: As a matter of fact, I never met Will until he reported on board at Farpoint Station.
+[00:11:15.029 --> 00:11:17.109] PRESSMAN: You chose your first officer without ever meeting him?
+[00:11:18.789 --> 00:11:32.629] PICARD: I was looking through the records of about fifty candidates and Will's was much like all the others, filled with lots of dry statistics and glowing letters of recommendation that tell you nothing.
+[00:11:35.509 --> 00:11:39.109] PICARD: I was about to put it aside and look at another file and then
+[00:11:40.949 --> 00:11:42.149] PICARD: something caught my eye.
+[00:11:45.749 --> 00:11:49.509] PICARD: There was an incident on Altair Three when Will was First Officer of the Hood.
+[00:11:49.829 --> 00:11:53.269] PICARD: He refused to let Captain DeSoto beam down during a crisis.
+[00:11:54.309 --> 00:11:59.829] PICARD: He disobeyed a direct order and he risked a general court martial because he thought he was right.
+[00:12:02.229 --> 00:12:03.269] PICARD: When I read that,
+[00:12:04.702 --> 00:12:06.462] PICARD: I knew that I had found my Number One.
+[00:12:09.422 --> 00:12:11.422] PRESSMAN: You wanted someone with a history of disobedience?
+[00:12:11.982 --> 00:12:20.622] PICARD: I wanted someone who would stand up to me. Someone who was more concerned with the safety of the ship and accomplishing the mission than with how something looked on his record.
+[00:12:21.902 --> 00:12:23.502] PICARD: To me, that's one of the marks of a good officer.
+[00:12:25.902 --> 00:12:29.582] PRESSMAN: Frankly, I've always felt it was more important for an officer to trust his captain's judgment.
+[00:12:30.142 --> 00:12:32.142] PRESSMAN: In a crisis, there's no time for explanations.
+[00:12:32.302 --> 00:12:35.422] PRESSMAN: Orders have to be obeyed without question or lives may be lost.
+[00:12:35.902 --> 00:12:37.102] PICARD: I am aware of that, Admiral.
+[00:12:39.262 --> 00:12:39.742] PRESSMAN: Of course you are.
+[00:12:43.262 --> 00:12:46.142] PRESSMAN: I guess this mission has brought up some old ghosts for me.
+[00:12:48.542 --> 00:12:49.662] PRESSMAN: You know what it's like to lose a ship.
+[00:12:50.862 --> 00:12:54.622] PRESSMAN: You're always wondering if there was something else you should have done, something you missed.
+[00:12:57.102 --> 00:13:00.702] PICARD: Admiral, the record regarding the loss of the Pegasus is
+[00:13:02.302 --> 00:13:03.182] PICARD: a bit vague
+[00:13:03.182 --> 00:13:08.862] PICARD: from the moment just before you abandoned ship. Is there anything that you can add to the official account?
+[00:13:11.822 --> 00:13:12.542] PRESSMAN: I'm afraid not.
+[00:13:16.542 --> 00:13:28.622] PRESSMAN: But I can tell you this. Twelve years ago, I needed an officer that I could count on in a crisis. Someone who would support and obey my decisions without question. Someone who was willing to trust my judgment. And that someone was Will Riker.
+[00:13:29.822 --> 00:13:31.982] PRESSMAN: Without his loyalty, none of us would have survived.
+[00:13:38.225 --> 00:13:38.545] CRUSHER: What's wrong?
+[00:13:39.665 --> 00:13:40.705] RIKER: I think I busted a rib.
+[00:13:41.105 --> 00:13:41.745] CRUSHER: Excuse me.
+[00:13:43.185 --> 00:13:44.065] CRUSHER: What were you doing?
+[00:13:44.705 --> 00:13:46.225] RIKER: I was doing bat'leth moves with Mister Worf.
+[00:13:46.945 --> 00:13:48.145] RIKER: I jabbed when I should've blocked.
+[00:13:49.105 --> 00:13:49.985] RIKER: He caught me right in the side.
+[00:13:50.065 --> 00:13:52.945] RIKER: It's a good thing we were using sticks instead of the real blades.
+[00:13:53.745 --> 00:13:54.545] CRUSHER: It's broken all right.
+[00:13:54.945 --> 00:13:56.705] CRUSHER: Give him ten cc's of terakine for the pain.
+[00:13:57.185 --> 00:13:58.945] RIKER: I can't believe how stupid I was.
+[00:13:59.985 --> 00:14:01.585] CRUSHER: You both must have got a little carried away,
+[00:14:01.585 --> 00:14:01.905] CRUSHER: that's all.
+[00:14:02.225 --> 00:14:03.265] RIKER: No, it was my fault.
+[00:14:03.505 --> 00:14:05.265] RIKER: I got distracted at a crucial moment.
+[00:14:05.505 --> 00:14:07.505] CRUSHER: It can happen to anyone.
+[00:14:07.665 --> 00:14:09.185] RIKER: I knew what I was supposed to do and I didn't do it.
+[00:14:09.745 --> 00:14:10.785] RIKER: If those had real bat'leths
+[00:14:10.785 --> 00:14:11.905] RIKER: I might be dead right now.
+[00:14:13.985 --> 00:14:14.785] CRUSHER: There, all better.
+[00:14:16.545 --> 00:14:17.505] CRUSHER: Will, it's all right.
+[00:14:17.665 --> 00:14:18.545] CRUSHER: You made a mistake.
+[00:14:18.545 --> 00:14:19.265] CRUSHER: No harm done.
+[00:14:20.305 --> 00:14:21.105] CRUSHER: You'll be better next time.
+[00:14:21.585 --> 00:14:22.785] RIKER: Yeah, maybe.
+[00:14:31.825 --> 00:14:33.985] DATA: Scan of grid one five seven is complete.
+[00:14:33.985 --> 00:14:35.665] DATA: I am moving to grid one five eight.
+[00:14:36.145 --> 00:14:38.625] WORF: The Romulan warship is still searching grid two seven zero.
+[00:14:38.865 --> 00:14:40.305] RIKER: They're sure spending a lot of time over there.
+[00:14:41.025 --> 00:14:41.505] RIKER: I wonder if they
+[00:14:41.505 --> 00:14:41.745] LAFORGE: Commander, I
+[00:14:42.625 --> 00:14:43.745] LAFORGE: think we might have just struck paydirt.
+[00:14:50.065 --> 00:14:52.705] LAFORGE: There's a subspace resonance signature coming from that asteroid.
+[00:14:53.745 --> 00:14:57.185] LAFORGE: From the frequency variances, it looks like the pattern from a Federation warp core.
+[00:14:57.825 --> 00:14:58.865] RIKER: Captain Picard to the Bridge.
+[00:14:59.665 --> 00:15:02.305] RIKER: Take us to within ten kilometres of asteroid gamma six zero one.
+[00:15:04.117 --> 00:15:06.597] RIKER: Geordi's found something.
+[00:15:09.156 --> 00:15:12.117] LAFORGE: There's a subspace resonance signature coming from that asteroid, sir.
+[00:15:12.997 --> 00:15:14.436] LAFORGE: It could be the warp core of the Pegasus.
+[00:15:15.237 --> 00:15:15.957] PRESSMAN: I think he's right.
+[00:15:16.036 --> 00:15:17.796] PRESSMAN: I recognise some of the variance patterns.
+[00:15:18.036 --> 00:15:19.556] PICARD: Put the asteroid on the main viewscreen.
+[00:15:21.397 --> 00:15:24.837] DATA: I have confirmed Geordi's readings.
+[00:15:25.156 --> 00:15:28.837] DATA: The resonance signature is originating from somewhere beneath the asteroid's surface.
+[00:15:28.837 --> 00:15:29.637] PRESSMAN: Beneath the surface?
+[00:15:29.637 --> 00:15:30.436] PRESSMAN: How's that possible?
+[00:15:30.757 --> 00:15:34.916] DATA: This asteroid contains several deep chasms large enough for a starship to enter.
+[00:15:35.556 --> 00:15:41.637] DATA: It is possible the Pegasus drifted into the asteroid's gravitational field and was pulled down into one of the fissures.
+[00:15:41.717 --> 00:15:45.156] WORF: Sir, the Romulan warbird has altered course once again.
+[00:15:46.436 --> 00:15:47.397] WORF: They are heading toward our position.
+[00:15:48.196 --> 00:15:50.196] RIKER: They probably want to see what we're so interested in over here.
+[00:15:51.156 --> 00:15:54.676] PICARD: Mister Data, how long will it take to determine the exact location of the Pegasus?
+[00:15:55.156 --> 00:15:56.517] DATA: At least another six hours, sir.
+[00:15:56.916 --> 00:15:57.637] PRESSMAN: That's too long.
+[00:15:58.036 --> 00:16:00.997] PRESSMAN: If the Romulans start searching the asteroid, they could find the ship before we do.
+[00:16:03.077 --> 00:16:04.436] RIKER: I recommend we destroy the asteroid.
+[00:16:05.077 --> 00:16:10.837] RIKER: It would take most of our photon torpedoes, but it would preclude any possibility of the Pegasus falling into Romulan hands.
+[00:16:10.837 --> 00:16:13.237] PRESSMAN: Our top priority is to salvage the ship, Commander.
+[00:16:13.237 --> 00:16:15.317] PRESSMAN: I'll consider destroying it only as a last resort.
+[00:16:15.637 --> 00:16:16.276] RIKER: Yes, sir.
+[00:16:18.357 --> 00:16:21.477] PRESSMAN: Captain, could you give me a third alternative?
+[00:16:22.916 --> 00:16:26.436] PICARD: Mister Data, would it possible to saturate the asteroid with verteron particles
+[00:16:26.436 --> 00:16:28.196] PICARD: that could mask the resonance signature
+[00:16:28.557 --> 00:16:30.077] PICARD: and prevent the Romulans from detecting it?
+[00:16:30.717 --> 00:16:34.317] DATA: In order for the deception to succeed, it would have to appear to be a natural phenomenon.
+[00:16:34.877 --> 00:16:37.357] DATA: Verteron particles are artificial in nature.
+[00:16:37.917 --> 00:16:38.237] LAFORGE: Wait a minute.
+[00:16:39.117 --> 00:16:42.237] LAFORGE: We could blanket the asteroid with high levels of ionising radiation.
+[00:16:42.397 --> 00:16:43.997] LAFORGE: There's so much of it in the system already, the
+[00:16:44.157 --> 00:16:45.277] LAFORGE: Romulans won't know the difference.
+[00:16:45.917 --> 00:16:46.397] PICARD: Mister Data?
+[00:16:47.117 --> 00:16:48.477] DATA: Theoretically, sir, it should work.
+[00:16:49.917 --> 00:16:52.237] RIKER: If we do this, we have to do it fast
+[00:16:52.877 --> 00:16:54.877] RIKER: the Romulans will be within sensor range in less than a minute.
+[00:16:54.877 --> 00:16:56.637] PICARD: Make it so, Mister Data.
+[00:16:57.197 --> 00:17:00.157] DATA: Aye, sir. Initiating ionisation field pulse.
+[00:17:00.397 --> 00:17:04.717] PICARD: When he's finished we'll have to move away and make it look like we've scanned the asteroid but haven't find anything.
+[00:17:05.117 --> 00:17:06.477] RIKER: Lay in a course for the next search grid.
+[00:17:06.877 --> 00:17:07.597] RIKER: Stand by to engage.
+[00:17:07.997 --> 00:17:10.877] PICARD: If it works, the Romulans won't find anything and we can return later.
+[00:17:12.157 --> 00:17:12.797] PICARD: If it doesn't
+[00:17:12.877 --> 00:17:15.197] PRESSMAN: If it doesn't work, we'll have handed them the Pegasus.
+[00:17:16.557 --> 00:17:17.997] DATA: Ionisation pulse complete.
+[00:17:18.717 --> 00:17:20.077] PICARD: Helm, one quarter impulse.
+[00:17:21.597 --> 00:17:22.077] PICARD: Engage.
+[00:17:29.837 --> 00:17:32.717] DATA: The Romulans are initiating a tachyon scan of the asteroid.
+[00:17:33.837 --> 00:17:35.917] DATA: They have switched to their lateral sensor array.
+[00:17:37.037 --> 00:17:37.917] DATA: Beginning another scan.
+[00:17:39.117 --> 00:17:40.317] RIKER: They're certainly being thorough.
+[00:17:40.317 --> 00:17:44.237] DATA: The warbird has completed its sensor sweep.
+[00:17:44.877 --> 00:17:48.477] PRESSMAN: If they found the resonance signature, they should be sending away teams any second.
+[00:17:48.477 --> 00:17:48.477] DATA: They
+[00:17:51.917 --> 00:17:52.397] DATA: are moving out.
+[00:17:57.597 --> 00:18:01.117] PICARD: Mister Data, we must convince the Romulans that we're still looking for the Pegasus.
+[00:18:01.466 --> 00:18:03.546] PICARD: I want you to continue scanning this system.
+[00:18:03.866 --> 00:18:04.186] DATA: Yes, sir.
+[00:18:05.146 --> 00:18:07.706] PICARD: I want to be back at this asteroid at oh eight hundred hours tomorrow.
+[00:18:08.026 --> 00:18:09.466] PICARD: Plan your search pattern accordingly.
+[00:18:10.026 --> 00:18:10.266] RIKER: Aye, sir.
+[00:18:11.066 --> 00:18:12.906] PICARD: Admiral, would you care to join me for some late dinner?
+[00:18:13.626 --> 00:18:15.706] PRESSMAN: Please excuse me, Captain, but I think I'd better turn in early.
+[00:18:16.906 --> 00:18:17.706] PICARD: You have the Bridge, Number One.
+[00:18:20.586 --> 00:18:23.866] PICARD: Oh, and will you bring the scan analysis to my quarters when you're off watch?
+[00:18:24.026 --> 00:18:24.266] RIKER: Aye, sir.
+[00:18:26.186 --> 00:18:27.866] RIKER: Initiate search of grid one six three.
+[00:18:28.426 --> 00:18:29.466] DATA: Beginning sensor sweeps.
+[00:18:30.586 --> 00:18:32.106] PRESSMAN: Commander, I want to see you in the Captain's Ready room.
+[00:18:33.866 --> 00:18:34.826] RIKER: Mister Data, you have the Bridge.
+[00:18:35.066 --> 00:18:35.306] DATA: Aye, sir.
+[00:18:40.986 --> 00:18:42.506] PRESSMAN: What the hell is the matter with you?
+[00:18:43.146 --> 00:18:45.466] PRESSMAN: Destroy the Pegasus before we've even taken a look at it?
+[00:18:45.546 --> 00:18:46.986] RIKER: I thought it was more important that the Romulans
+[00:18:46.986 --> 00:18:47.946] PRESSMAN: Well, you were wrong!
+[00:18:49.706 --> 00:18:54.426] PRESSMAN: We have a chance here to change the balance of power in this quadrant, but we can't very well do that if we destroy the Pegasus,
+[00:18:54.426 --> 00:18:54.906] PRESSMAN: now can we?
+[00:18:56.266 --> 00:18:56.826] RIKER: No, sir.
+[00:19:02.186 --> 00:19:05.786] PRESSMAN: It hasn't been easy for you I'm sure, keeping your Captain and friends in the dark like this.
+[00:19:06.986 --> 00:19:08.106] RIKER: I haven't enjoyed it, if
+[00:19:08.266 --> 00:19:08.746] RIKER: that's what you mean.
+[00:19:10.586 --> 00:19:12.426] PRESSMAN: I hope you understand that it's necessary.
+[00:19:12.746 --> 00:19:15.066] RIKER: I understand that you think it's necessary.
+[00:19:19.226 --> 00:19:20.106] PRESSMAN: You have changed.
+[00:19:22.026 --> 00:19:22.666] RIKER: Changed?
+[00:19:25.546 --> 00:19:27.306] PRESSMAN: Something the Captain and I were talking about.
+[00:19:31.386 --> 00:19:33.386] PRESSMAN: To be honest I'm glad to see this kind of change in you,
+[00:19:33.386 --> 00:19:36.186] PRESSMAN: Will. State your opinion and stand by it.
+[00:19:37.665 --> 00:19:41.825] PRESSMAN: It's a far cry from the young man who used to sit at my helm and worry about pressing the wrong button.
+[00:19:42.785 --> 00:19:45.185] RIKER: A lot of things can change in twelve years, Admiral.
+[00:19:46.625 --> 00:19:47.265] PRESSMAN: Yes, they can.
+[00:19:48.705 --> 00:19:55.345] PRESSMAN: But it's important that a man changes the right things in his life, not his sense of duty, not his sense of loyalty.
+[00:19:56.225 --> 00:19:58.065] RIKER: I'd like to think that I haven't changed those things, sir.
+[00:19:59.025 --> 00:20:05.665] PRESSMAN: I would like to think that too. Because those things say more about a man than the rank on his collar or the uniform he wears.
+[00:20:06.385 --> 00:20:07.105] PRESSMAN: They define him.
+[00:20:13.665 --> 00:20:19.585] PRESSMAN: Twelve years ago, a lot of older and more seasoned officers turned away from their duty, but you stood up for what was right.
+[00:20:21.985 --> 00:20:22.625] PRESSMAN: I'm sorry, Will.
+[00:20:24.625 --> 00:20:25.665] PRESSMAN: I know the kind of man you are.
+[00:20:26.705 --> 00:20:27.745] PRESSMAN: I know that I can count on you
+[00:20:29.665 --> 00:20:31.665] PRESSMAN: again.
+[00:20:39.105 --> 00:20:39.345] PICARD: Come.
+[00:20:41.265 --> 00:20:42.465] RIKER: The scan analysis you asked for.
+[00:20:43.265 --> 00:20:44.465] PICARD: Thank you.
+[00:20:47.745 --> 00:20:48.465] RIKER: Is there something else, sir?
+[00:20:49.265 --> 00:20:49.985] PICARD: Yes, there is.
+[00:20:54.385 --> 00:21:01.905] PICARD: Judge Advocate General's Report. Stardate 36764. Subject, inquiry into mutiny aboard USS Pegasus.
+[00:21:02.480 --> 00:21:17.520] PICARD: Based on testimony from Captain Pressman and other surviving officers, the Judge Advocate believes there is sufficient evidence to conclude that certain members of the crew did mutiny against the captain just prior to the destruction of the Pegasus.
+[00:21:18.080 --> 00:21:22.080] PICARD: Mutiny on a Federation starship? That's shocking.
+[00:21:22.160 --> 00:21:23.200] PICARD: It's unthinkable.
+[00:21:24.320 --> 00:21:25.360] PICARD: And yet you've never mentioned it.
+[00:21:26.480 --> 00:21:26.800] RIKER: No, sir.
+[00:21:28.400 --> 00:21:31.360] PICARD: You know, it wasn't easy to get this record.
+[00:21:32.480 --> 00:21:35.920] PICARD: I had to pull in quite a few favours at Starfleet just to get a look at it.
+[00:21:37.840 --> 00:21:41.600] PICARD: It seems that it was classified by Starfleet Intelligence.
+[00:21:46.080 --> 00:22:00.480] PICARD: So, not only was the Pegasus carrying sensitive equipment which must be allowed to fall into Romulan hands, not only was there a mysterious explosion which seemed to destroy the ship but didn't,
+[00:22:02.800 --> 00:22:04.640] PICARD: but it seems there was a mutiny on board.
+[00:22:05.120 --> 00:22:11.920] PICARD: Now, I've read the official report of the inquiry on that mutiny, but I want to know your version of what happened.
+[00:22:14.080 --> 00:22:14.880] RIKER: I was on the Bridge.
+[00:22:17.040 --> 00:22:18.080] RIKER: The ship was at yellow alert.
+[00:22:21.200 --> 00:22:22.960] RIKER: We were running some tests on the engines.
+[00:22:24.480 --> 00:22:25.280] RIKER: Something went wrong.
+[00:22:25.920 --> 00:22:27.520] RIKER: There was an explosion in Engineering.
+[00:22:28.480 --> 00:22:29.440] RIKER: Heavy casualties.
+[00:22:30.640 --> 00:22:35.120] RIKER: In the midst of this crisis, the First Officer, the Chief of Engineering and most of Bridge crew mutinied
+[00:22:35.369 --> 00:22:37.049] RIKER: against Captain Pressman.
+[00:22:37.049 --> 00:22:37.609] PICARD: Why?
+[00:22:38.089 --> 00:22:39.449] RIKER: They thought he was jeopardising the ship.
+[00:22:40.329 --> 00:22:40.649] PICARD: And you?
+[00:22:42.569 --> 00:22:48.809] RIKER: I was seven months out of the Academy, my head still ringing with words like duty and honour.
+[00:22:51.689 --> 00:22:56.809] RIKER: When they turned on him, I thought they were a bunch of self-serving, disloyal officers,
+[00:22:56.809 --> 00:23:00.649] RIKER: so I grabbed a phaser and defended my captain.
+[00:23:02.889 --> 00:23:08.569] RIKER: Two or three others joined us, but it was clear by then that the mutineers had most of the crew behind them.
+[00:23:10.489 --> 00:23:11.769] RIKER: We felt a need to get off the ship.
+[00:23:14.249 --> 00:23:16.809] RIKER: There was a running firefight all the way to the escape pod.
+[00:23:17.849 --> 00:23:19.289] RIKER: About five minutes after we left the ship
+[00:23:21.449 --> 00:23:22.249] RIKER: there was an explosion.
+[00:23:29.289 --> 00:23:36.729] PICARD: The Judge Advocate also believes that the surviving officers are deliberately withholding vital information from this inquiry.
+[00:23:37.209 --> 00:23:39.049] PICARD: Further investigation is recommended.
+[00:23:39.289 --> 00:23:41.049] PICARD: Will, there was no further investigation.
+[00:23:41.049 --> 00:23:44.889] PICARD: This report was classified and then it was quietly buried.
+[00:23:47.609 --> 00:23:48.449] PICARD: Why?
+[00:23:48.449 --> 00:23:49.289] RIKER: Sir,
+[00:23:49.289 --> 00:23:50.729] RIKER: may I suggest you take this up with Admiral
+[00:23:50.729 --> 00:23:52.089] PICARD: I'm taking this up with you, Will!
+[00:23:52.889 --> 00:23:57.049] PICARD: The Judge Advocate thought you were participating in a conspiracy to cover up the truth.
+[00:23:59.609 --> 00:24:00.969] PICARD: Now, what the hell is going on here, Will?
+[00:24:03.129 --> 00:24:04.169] PICARD: Why did that mutiny happen?
+[00:24:04.809 --> 00:24:08.169] PICARD: Why is Pressman so determined to find your ship twelve years later?
+[00:24:08.555 --> 00:24:09.515] RIKER: I've said all I can.
+[00:24:11.115 --> 00:24:15.435] RIKER: I am under direct orders from Admiral Pressman not to discuss this, sir.
+[00:24:17.755 --> 00:24:17.995] PICARD: Very well.
+[00:24:25.355 --> 00:24:25.915] PICARD: He's an admiral,
+[00:24:25.915 --> 00:24:26.555] PICARD: I'm a captain.
+[00:24:27.035 --> 00:24:28.955] PICARD: I cannot force you to disobey his orders.
+[00:24:28.955 --> 00:24:32.315] PICARD: Therefore I will have to remain in the dark on this mission.
+[00:24:34.315 --> 00:24:38.315] PICARD: And I will just have to trust that you will not let Pressman put this ship at unnecessary risk.
+[00:24:38.715 --> 00:24:43.755] PICARD: And if I find that that trust has been misplaced, then I will have to re-evaluate the command structure of this ship.
+[00:24:45.915 --> 00:24:46.395] PICARD: Dismissed.
+[00:24:58.715 --> 00:25:02.875] BLACKWELL: Captain, Starfleet places the highest priority on the success of this mission.
+[00:25:03.675 --> 00:25:05.275] BLACKWELL: Your request for a delay is denied.
+[00:25:05.755 --> 00:25:08.875] PICARD: Margaret, something's very wrong here.
+[00:25:08.875 --> 00:25:10.555] PICARD: Do you know what's going on?
+[00:25:11.115 --> 00:25:15.035] BLACKWELL: I know that the Chief of Starfleet Intelligence herself is watching this one, Jean-Luc.
+[00:25:15.515 --> 00:25:18.875] BLACKWELL: So you'd be well advised to follow Pressman's orders and leave it at that.
+[00:25:19.595 --> 00:25:20.235] BLACKWELL: Starfleet out.
+[00:25:22.315 --> 00:25:23.435] WORF: Worf to Captain Picard.
+[00:25:23.915 --> 00:25:26.795] WORF: We are approaching asteroid gamma six zero one, sir.
+[00:25:27.355 --> 00:25:27.435] PICARD: On
+[00:25:28.955 --> 00:25:31.275] PICARD: my way.
+[00:25:34.555 --> 00:25:37.035] PICARD: Mister Worf, where are the Romulans?
+[00:25:37.355 --> 00:25:39.435] WORF: They are out of sensor range on the far side of the system.
+[00:25:41.491 --> 00:25:44.403] PICARD: Take us to within fifteen kilometres of the asteroid and hold that position.
+[00:25:44.403 --> 00:25:44.851] WORF: Aye, sir.
+[00:25:46.131 --> 00:25:47.411] PICARD: Mister Data, report.
+[00:25:48.051 --> 00:25:52.931] DATA: For the past several hours, I have been scanning the area where we detected the resonance signature of the Pegasus.
+[00:25:53.171 --> 00:25:57.651] DATA: From the strength and polarity of the signature, it would appear that most of the warp core is still intact.
+[00:25:57.891 --> 00:26:00.451] PRESSMAN: If we're lucky, the entire engineering section could be down there.
+[00:26:00.771 --> 00:26:01.651] RIKER: But how do we get to it?
+[00:26:02.851 --> 00:26:05.091] RIKER: I wouldn't want to try to transport through that much solid rock.
+[00:26:05.411 --> 00:26:05.731] PICARD: Agreed.
+[00:26:05.731 --> 00:26:07.811] PICARD: What about a shuttle?
+[00:26:08.451 --> 00:26:10.051] PICARD: We could send it down through one of these fissures.
+[00:26:10.291 --> 00:26:11.571] DATA: I would recommend against it, sir.
+[00:26:12.051 --> 00:26:18.211] DATA: There may be gravimetric or magnetic fluctuations inside the asteroid which would overpower the engines of a shuttlecraft.
+[00:26:18.211 --> 00:26:23.491] PRESSMAN: Sounds like the best solution is to take the Enterprise in.
+[00:26:23.891 --> 00:26:24.611] RIKER: Into the asteroid?
+[00:26:25.011 --> 00:26:25.411] PRESSMAN: That's right.
+[00:26:26.451 --> 00:26:27.651] PRESSMAN: Put this fissure on the main viewer.
+[00:26:31.731 --> 00:26:33.571] PRESSMAN: This chasm is large enough for us to manoeuvre in.
+[00:26:34.051 --> 00:26:37.091] PRESSMAN: Besides, if we ever hope to salvage the Pegasus, we're going to need a starship to do it.
+[00:26:37.571 --> 00:26:38.297] PICARD: Mister Data?
+[00:26:38.297 --> 00:26:47.011] DATA: It is theoretically possible, sir, but I am unaware of any prior situations where a starship was taken so deeply inside a planetary body.
+[00:26:47.411 --> 00:26:48.931] DATA: There may be unforeseen difficulties.
+[00:26:50.291 --> 00:26:51.491] PICARD: Admiral, I don't think we can risk
+[00:26:51.491 --> 00:26:52.371] PRESSMAN: I've made my decision.
+[00:26:53.091 --> 00:26:54.611] PRESSMAN: Prepare to take the Enterprise in, Captain.
+[00:26:56.531 --> 00:26:57.251] PRESSMAN: That's an order.
+[00:27:01.651 --> 00:27:06.691] PICARD: Mister Data, will you please note in the ship's log that this action is being taken over my explicit objections.
+[00:27:08.051 --> 00:27:09.091] DATA: It is so noted, sir.
+[00:27:12.931 --> 00:27:13.491] PICARD: Yellow Alert.
+[00:27:13.951 --> 00:27:14.431] RIKER: Shields up.
+[00:27:14.671 --> 00:27:15.871] RIKER: Inertial dampers at maximum.
+[00:27:16.831 --> 00:27:18.911] PICARD: Ensign Gates, plot a course into the chasm,
+[00:27:19.551 --> 00:27:20.511] PICARD: manoeuvring thrusters only.
+[00:27:22.271 --> 00:27:23.071] GATES: Course plotted, sir.
+[00:27:24.671 --> 00:27:25.071] PICARD: Take us in.
+[00:27:48.751 --> 00:27:50.671] DATA: We are now two kilometres beneath the surface.
+[00:27:52.671 --> 00:27:53.071] WORF: Captain,
+[00:27:53.631 --> 00:27:56.271] WORF: we are encountering shifts in the magnetic field density.
+[00:27:58.751 --> 00:27:59.071] PICARD: Admiral,
+[00:28:02.511 --> 00:28:06.111] PICARD: if is passage narrows to less than five hundred metres, I will abort the mission.
+[00:28:06.911 --> 00:28:11.311] PICARD: You can charge me with insubordination if you wish, but I'm not going to risk the Enterprise for a salvage operation.
+[00:28:12.031 --> 00:28:15.391] WORF: Captain, I am reading a large resonance signature directly ahead.
+[00:28:28.111 --> 00:28:28.591] PRESSMAN: Pegasus.
+[00:28:30.351 --> 00:28:31.151] RIKER: What the hell happened?
+[00:28:32.991 --> 00:28:34.751] DATA: Sensors show that the ship is still intact.
+[00:28:35.151 --> 00:28:38.031] DATA: However, sixty five percent of it is contained within the asteroid.
+[00:28:38.031 --> 00:28:42.271] RIKER: It looks if half the ship materialised inside solid rock.
+[00:28:42.911 --> 00:28:43.231] DATA: Yes, sir.
+[00:28:43.231 --> 00:28:46.191] DATA: I do not understand how this could have happened.
+[00:28:47.946 --> 00:28:49.466] PRESSMAN: Let's keep the speculation to a minimum.
+[00:28:49.786 --> 00:28:51.226] PRESSMAN: We have to begin the salvage operation.
+[00:28:51.546 --> 00:28:53.466] PRESSMAN: The equipment we need was in main Engineering.
+[00:28:53.466 --> 00:28:55.066] PRESSMAN: Can you scan that section of the Pegasus?
+[00:28:55.066 --> 00:28:59.386] DATA: The starboard bulkhead of main Engineering is contained within the rock face, but
+[00:29:00.426 --> 00:29:02.426] DATA: most of its compartment is still intact.
+[00:29:03.706 --> 00:29:05.466] WORF: There is a hull breach in that section.
+[00:29:05.786 --> 00:29:10.906] PICARD: If we begin a power transfer, can we restore life support systems to that compartment?
+[00:29:11.546 --> 00:29:12.346] DATA: I believe so, sir.
+[00:29:12.906 --> 00:29:15.946] DATA: The breach can be temporarily sealed by extending our shields.
+[00:29:16.346 --> 00:29:16.826] PRESSMAN: See to it.
+[00:29:17.546 --> 00:29:20.826] PRESSMAN: Once you've restored life support, Commander Riker and I will beam directly into Engineering.
+[00:29:21.146 --> 00:29:23.386] PICARD: Admiral, I would like to send down a complete away team
+[00:29:23.386 --> 00:29:25.146] PRESSMAN: There's some very sensitive equipment over there.
+[00:29:25.146 --> 00:29:26.266] PRESSMAN: I don't want anyone else near it.
+[00:29:28.906 --> 00:29:29.386] PICARD: Yes, sir.
+[00:29:51.706 --> 00:29:53.546] PRESSMAN: This room was open to space for twelve years.
+[00:29:56.346 --> 00:29:58.426] RIKER: Vacuum preserved everything.
+[00:30:20.345 --> 00:30:22.345] RIKER: I wonder how many of the crew are buried back there.
+[00:30:23.065 --> 00:30:24.585] PRESSMAN: We're not here for a memorial service.
+[00:30:40.185 --> 00:30:41.065] PRESSMAN: It's still intact.
+[00:30:48.585 --> 00:30:49.305] PRESSMAN: What's the matter, Will?
+[00:30:50.425 --> 00:30:50.985] PRESSMAN: Don't you understand?
+[00:30:50.985 --> 00:30:51.465] PRESSMAN: We've found it.
+[00:30:52.025 --> 00:30:52.425] RIKER: I know.
+[00:30:54.505 --> 00:30:57.305] RIKER: I kept hoping it wouldn't be here. That it had been destroyed or
+[00:30:58.905 --> 00:31:00.585] RIKER: that it was buried in that rock back there.
+[00:31:02.505 --> 00:31:03.785] PRESSMAN: What the hell is that supposed to mean?
+[00:31:05.305 --> 00:31:06.985] RIKER: It means that I can't put this off any longer.
+[00:31:08.105 --> 00:31:12.985] RIKER: Right up until this moment I had the luxury of time, but now I've got to make a choice.
+[00:31:12.985 --> 00:31:17.705] RIKER: And, Admiral, I'm afraid my choice is this.
+[00:31:19.385 --> 00:31:21.225] RIKER: I can't let you start these experiments again.
+[00:31:22.665 --> 00:31:25.305] RIKER: It was wrong twelve years ago, and it is wrong today.
+[00:31:25.705 --> 00:31:27.785] PRESSMAN: You had better reconsider that position, Commander.
+[00:31:27.865 --> 00:31:30.025] PRESSMAN: We have a mission to accomplish and you're going to carry it out.
+[00:31:31.865 --> 00:31:32.825] RIKER: That's all you care about,
+[00:31:33.705 --> 00:31:35.305] RIKER: starting these damn experiments again.
+[00:31:36.025 --> 00:31:36.585] RIKER: Look around.
+[00:31:37.385 --> 00:31:38.745] RIKER: This room is filled with dead bodies.
+[00:31:38.745 --> 00:31:40.745] RIKER: These people died because of this thing.
+[00:31:41.865 --> 00:31:44.425] PRESSMAN: Keep your self-righteous comments to yourself.
+[00:31:44.425 --> 00:31:46.825] PRESSMAN: I knew most of these people a lot longer than you did.
+[00:31:47.065 --> 00:31:48.905] PRESSMAN: Yes, it was tragic, but it was their fault.
+[00:31:49.276 --> 00:31:49.996] RIKER: You don't know that.
+[00:31:50.876 --> 00:31:52.716] RIKER: Neither of us knows what happened after we left.
+[00:31:53.596 --> 00:31:54.796] PRESSMAN: Well, it's not hard to guess.
+[00:31:55.196 --> 00:31:57.516] PRESSMAN: They tried to shut down an experiment they didn't understand.
+[00:31:57.516 --> 00:31:59.036] PRESSMAN: Something went wrong and it killed them.
+[00:31:59.276 --> 00:31:59.596] RIKER: No.
+[00:32:00.956 --> 00:32:01.596] RIKER: We killed them.
+[00:32:03.436 --> 00:32:08.396] PRESSMAN: Now that doesn't sound like the same man who grabbed a phaser and defended his captain twelve years ago.
+[00:32:09.196 --> 00:32:13.436] RIKER: I've had twelve years to think about it, and if I had it to do over again
+[00:32:15.036 --> 00:32:17.676] RIKER: I would have grabbed the phaser and pointed it at you instead of them.
+[00:32:18.956 --> 00:32:22.396] PRESSMAN: So on reflection you'd rather be a traitor than a hero.
+[00:32:23.196 --> 00:32:25.036] RIKER: I wasn't a hero and neither were you.
+[00:32:26.076 --> 00:32:28.476] RIKER: What you did was wrong and I was wrong to support you,
+[00:32:28.476 --> 00:32:31.196] RIKER: but I was just too young and too stupid to realise it.
+[00:32:31.676 --> 00:32:32.476] RIKER: You were the captain.
+[00:32:32.556 --> 00:32:33.356] RIKER: I was the ensign.
+[00:32:33.356 --> 00:32:35.196] RIKER: I was just following orders.
+[00:32:35.676 --> 00:32:38.236] PRESSMAN: And if you hadn't you'd be dead right now along with all the rest of them.
+[00:32:38.796 --> 00:32:44.156] PRESSMAN: Dead because you listened to a bunch of mutinous cowards who were too blinded by fear to see what I was trying to do.
+[00:32:44.396 --> 00:32:50.156] RIKER: They were brave enough to risk their lives to stop you from violating a treaty the Federation signed in good faith.
+[00:32:50.796 --> 00:32:56.236] PRESSMAN: That treaty has bound our hands and given the Romulans a tactical advantage for the last sixty years.
+[00:32:56.396 --> 00:32:58.396] PRESSMAN: I was simply trying to level the playing field.
+[00:32:58.796 --> 00:32:59.836] RIKER: And now you want to try it again?
+[00:33:01.036 --> 00:33:02.076] RIKER: How many people will die this time?
+[00:33:02.076 --> 00:33:02.396] RIKER: Fifty?
+[00:33:02.956 --> 00:33:03.356] RIKER: A hundred?
+[00:33:03.356 --> 00:33:04.636] RIKER: A thousand?
+[00:33:05.676 --> 00:33:06.796] PRESSMAN: All right, you don't want to help me?
+[00:33:06.796 --> 00:33:07.196] PRESSMAN: Fine.
+[00:33:07.916 --> 00:33:12.636] PRESSMAN: But you are still under my direct orders not to talk about what you know and I expect you to follow those orders to the letter.
+[00:33:12.876 --> 00:33:15.276] PRESSMAN: I made you, mister, and I can break you just as easily.
+[00:33:15.647 --> 00:33:16.847] PRESSMAN: Do you understand me, Commander?
+[00:33:16.847 --> 00:33:16.847] PICARD: Picard
+[00:33:20.127 --> 00:33:20.927] PICARD: to away team.
+[00:33:20.927 --> 00:33:22.367] PICARD: Prepare to return to the ship immediately.
+[00:33:23.567 --> 00:33:24.527] PRESSMAN: Stand by, Enterprise.
+[00:33:30.287 --> 00:33:31.327] PRESSMAN: Pressman to Enterprise.
+[00:33:31.567 --> 00:33:33.327] PRESSMAN: Two people and one piece of equipment to beam up.
+[00:33:46.607 --> 00:33:47.007] PRESSMAN: Report.
+[00:33:48.607 --> 00:33:51.887] PICARD: The Romulans have destroyed the entrance to the chasm with their disruptors.
+[00:33:51.887 --> 00:33:54.047] PICARD: They've sealed us in.
+[00:34:03.727 --> 00:34:05.727] WORF: Sir, there is an incoming message.
+[00:34:07.327 --> 00:34:08.367] WORF: It is from the warbird.
+[00:34:10.127 --> 00:34:10.447] PICARD: On screen.
+[00:34:11.087 --> 00:34:11.407] WORF: Aye, sir.
+[00:34:12.447 --> 00:34:16.767] SIROL: Captain, you seem to be in a very unfortunate circumstance.
+[00:34:17.167 --> 00:34:17.967] SIROL: How can we help?
+[00:34:18.287 --> 00:34:19.407] PICARD: Are you responsible for this?
+[00:34:19.807 --> 00:34:20.207] SIROL: I'm not sure.
+[00:34:21.487 --> 00:34:25.567] SIROL: We were conducting some geological experiments on the surface of the asteroid.
+[00:34:26.127 --> 00:34:29.487] SIROL: It is entirely possible that we accidently sealed you in.
+[00:34:30.287 --> 00:34:35.967] SIROL: If only we had known you were beneath the surface, if you had shared your plans with us, this might have been avoided.
+[00:34:36.367 --> 00:34:37.327] PICARD: What do you want, Sirol?
+[00:34:38.207 --> 00:34:39.487] SIROL: I don't want anything, Captain,
+[00:34:40.127 --> 00:34:41.567] SIROL: but I will offer to help you.
+[00:34:42.527 --> 00:34:42.847] PICARD: How?
+[00:34:43.487 --> 00:34:45.407] SIROL: By transporting your crew aboard
+[00:34:45.432 --> 00:34:46.312] SIROL: my ship.
+[00:34:47.032 --> 00:34:48.792] SIROL: We'll take you back to Romulus
+[00:34:48.792 --> 00:34:53.432] SIROL: where, after a short stay as our guests, you will be returned to the Federation.
+[00:34:54.072 --> 00:34:55.592] PICARD: Thank you for your generous offer.
+[00:34:56.792 --> 00:34:58.819] PICARD: I will take it under advisement.
+[00:34:58.819 --> 00:34:59.832] SIROL: As you wish.
+[00:35:00.792 --> 00:35:04.472] SIROL: We will be continuing our research in this system for a while longer.
+[00:35:05.512 --> 00:35:07.832] SIROL: I await your decision.
+[00:35:08.712 --> 00:35:09.432] PRESSMAN: We can't do it.
+[00:35:09.912 --> 00:35:12.792] PRESSMAN: If we abandon the Enterprise they'll come back here and get their hands on both ships.
+[00:35:13.032 --> 00:35:13.432] PICARD: Agreed.
+[00:35:14.152 --> 00:35:14.672] PICARD: Options?
+[00:35:14.672 --> 00:35:15.192] WORF: Captain,
+[00:35:15.592 --> 00:35:17.912] WORF: I believe we could use the phasers to cut our way out.
+[00:35:18.552 --> 00:35:21.032] DATA: The asteroid's internal structure is highly unstable.
+[00:35:21.512 --> 00:35:24.952] DATA: Any attempt to cut through the rock could cause the entire chasm to collapse.
+[00:35:25.752 --> 00:35:26.872] RIKER: Captain, I have a suggestion.
+[00:35:28.792 --> 00:35:33.352] RIKER: There's a piece of equipment in Admiral Pressman's quarters under guard which might get us out of here.
+[00:35:34.872 --> 00:35:37.832] RIKER: It's a prototype for a Federation cloaking device.
+[00:35:40.952 --> 00:35:43.672] PRESSMAN: You just ended your career, Will.
+[00:35:43.672 --> 00:35:44.632] PICARD: That's what it's all about.
+[00:35:47.032 --> 00:35:48.312] PICARD: A cloaking device.
+[00:35:49.992 --> 00:35:55.272] PICARD: In the Treaty of Algeron the Federation specifically agreed not to develop cloaking technology.
+[00:35:55.672 --> 00:35:58.232] PRESSMAN: And that treaty is the biggest mistake we ever made.
+[00:35:58.872 --> 00:36:01.512] PRESSMAN: It's kept us from exploiting a vital area of defence.
+[00:36:01.512 --> 00:36:03.992] PICARD: That treaty has kept us in peace for sixty years, and
+[00:36:04.952 --> 00:36:07.992] PICARD: as a Starfleet officer, you're supposed to uphold it.
+[00:36:07.992 --> 00:36:08.792] PRESSMAN: Now that's enough.
+[00:36:10.792 --> 00:36:12.072] PRESSMAN: I'm taking command of this vessel.
+[00:36:14.070 --> 00:36:14.230] PRESSMAN: Mister
+[00:36:14.230 --> 00:36:15.830] PRESSMAN: Worf, escort the Captain to his quarters.
+[00:36:27.030 --> 00:36:29.110] RIKER: I don't think anyone's going to come to your defence this time.
+[00:36:30.550 --> 00:36:33.030] PICARD: How do we use the cloak to escape from the asteroid?
+[00:36:34.470 --> 00:36:35.350] RIKER: It's more than just a cloak.
+[00:36:36.470 --> 00:36:38.630] RIKER: It changes the structure of matter.
+[00:36:38.790 --> 00:36:42.950] RIKER: In theory, a ship using this device could pass through normal matter.
+[00:36:44.470 --> 00:36:45.990] PICARD: I see why you were so eager to find it.
+[00:36:46.390 --> 00:36:48.150] PRESSMAN: Can't you see the potential here?
+[00:36:48.630 --> 00:36:52.790] PRESSMAN: The phasing cloak could be the greatest breakthrough in weapons research in the last fifty years.
+[00:36:52.950 --> 00:36:53.910] PICARD: Except it's illegal.
+[00:36:54.550 --> 00:36:58.264] PICARD: It's in violation of an agreement that the Federation signed in good faith.
+[00:36:58.264 --> 00:36:58.550] RIKER: Captain,
+[00:37:00.070 --> 00:37:02.070] RIKER: I think we could adapt the cloak for the Enterprise.
+[00:37:04.150 --> 00:37:05.064] PICARD: Mister Data?
+[00:37:05.064 --> 00:37:07.350] DATA: Theoretically it is possible, sir.
+[00:37:08.470 --> 00:37:12.150] DATA: But it would take several hours to study the device and determine how to link it to our systems.
+[00:37:12.390 --> 00:37:12.870] PICARD: Make it so.
+[00:37:15.510 --> 00:37:18.950] LOG: Captain's log, stardate 47457.1.
+[00:37:19.750 --> 00:37:23.030] LOG: We have been trapped inside the asteroid for over eight hours.
+[00:37:23.350 --> 00:37:27.510] LOG: Mister Data and Commander La Forge inform me that they are nearly ready to engage the cloak.
+[00:37:29.590 --> 00:37:36.790] LAFORGE: Commander, we've routed the impulse engines through the plasma conduits, but you'll have to watch the intercooler levels.
+[00:37:37.030 --> 00:37:39.910] LAFORGE: If they get too high, we'll blow the entire relay system.
+[00:37:40.507 --> 00:37:40.827] RIKER: Understood.
+[00:37:40.987 --> 00:37:44.187] RIKER: I think that's what happened twelve years ago.
+[00:37:44.187 --> 00:37:47.467] RIKER: The cloak blew out the plasma relays on the Pegasus
+[00:37:47.547 --> 00:37:53.467] RIKER: after we left the ship. The plasma ignited in space, and it looked as if the ship had been destroyed.
+[00:37:54.987 --> 00:38:01.928] PRESSMAN: So the ship drifted into this system still in a phased state, and when it passed through this asteroid
+[00:38:01.928 --> 00:38:05.947] RIKER: The cloak failed, and half the ship materialised in solid rock.
+[00:38:06.027 --> 00:38:07.787] LAFORGE: La Forge to Bridge.
+[00:38:08.187 --> 00:38:10.907] LAFORGE: The cloak is online and ready to begin phase sequencing.
+[00:38:11.467 --> 00:38:12.107] PICARD: Proceed, Number One.
+[00:38:12.427 --> 00:38:12.667] RIKER: Aye, sir.
+[00:38:13.467 --> 00:38:14.587] RIKER: Activating power systems.
+[00:38:26.907 --> 00:38:27.307] PICARD: Report.
+[00:38:27.787 --> 00:38:29.547] RIKER: The cloak appears to be functioning normally.
+[00:38:30.507 --> 00:38:33.867] RIKER: The ship's matter-energy phasing rate should be sufficient to pass through the asteroid.
+[00:38:34.747 --> 00:38:35.147] PICARD: Take us out.
+[00:38:36.027 --> 00:38:36.747] PICARD: Manoeuvring thrusters only.
+[00:38:36.747 --> 00:38:36.987] WORF: Aye,
+[00:38:37.387 --> 00:38:37.627] WORF: sir.
+[00:38:39.707 --> 00:38:41.707] WORF: We will reach the rock face in five seconds.
+[00:38:41.707 --> 00:38:43.307] WORF: We
+[00:39:02.667 --> 00:39:05.227] WORF: have passed through two kilometres of the asteroid.
+[00:39:05.833 --> 00:39:07.353] WORF: Now within one kilometre of the surface.
+[00:39:11.193 --> 00:39:12.393] RIKER: We're approaching the surface.
+[00:39:18.313 --> 00:39:19.753] WORF: We have cleared the asteroid, Captain.
+[00:39:19.753 --> 00:39:22.713] WORF: The warbird is off the port bow.
+[00:39:23.113 --> 00:39:24.873] RIKER: They're still waiting for us to make up our minds.
+[00:39:26.713 --> 00:39:28.153] PICARD: Disengage the cloaking device, Commander.
+[00:39:28.793 --> 00:39:29.753] PRESSMAN: You cannot do that!
+[00:39:29.753 --> 00:39:31.476] PRESSMAN: If the Romulans see us decloaking, they'll know
+[00:39:31.476 --> 00:39:32.553] PICARD: They'll know the truth, Admiral.
+[00:39:33.673 --> 00:39:35.513] PICARD: Which is what everyone will know very shortly.
+[00:39:36.393 --> 00:39:37.273] PICARD: Carry out my orders.
+[00:39:47.433 --> 00:39:47.593] PICARD: Mister
+[00:39:47.593 --> 00:39:48.953] PICARD: Worf, send a message to the warbird.
+[00:39:49.273 --> 00:39:52.153] PICARD: Inform them that their government will be contacted shortly about this incident.
+[00:39:52.713 --> 00:39:53.033] WORF: Aye, sir.
+[00:39:54.313 --> 00:39:58.873] PICARD: Admiral, I am hereby charging you with violation of the Treaty of Algeron.
+[00:39:59.513 --> 00:40:01.833] PICARD: As Captain of the Enterprise, I'm placing you under arrest. Mister
+[00:40:01.833 --> 00:40:01.993] PICARD: Worf?
+[00:40:03.273 --> 00:40:04.883] WORF: Admiral, if you will come with me.
+[00:40:04.883 --> 00:40:05.113] RIKER: Captain,
+[00:40:07.033 --> 00:40:08.473] RIKER: I'll have to be placed under arrest as well.
+[00:40:12.153 --> 00:40:12.313] RIKER: Admiral.
+[00:40:12.313 --> 00:40:12.473] PRESSMAN: I
+[00:40:14.313 --> 00:40:16.473] PRESSMAN: have a lot of friends at Starfleet Command, Captain.
+[00:40:17.673 --> 00:40:17.753] PICARD: You're
+[00:40:21.113 --> 00:40:21.913] PICARD: going to need them.
+[00:40:45.830 --> 00:40:47.430] PICARD: I've spoken to Fleet Admiral Shanthi.
+[00:40:47.830 --> 00:40:57.190] PICARD: There will be a full inquiry once we reach Starbase two four seven, and that will probably lead to a general court martial of Admiral Pressman and several others at Starfleet Intelligence.
+[00:40:59.190 --> 00:41:02.230] PICARD: Your involvement in this affair is going to be thoroughly investigated,
+[00:41:02.230 --> 00:41:04.390] PICARD: Will. There'll be some hard questions for you to answer.
+[00:41:05.430 --> 00:41:06.070] RIKER: I understand.
+[00:41:14.630 --> 00:41:16.070] PICARD: You made a mistake twelve years ago,
+[00:41:17.670 --> 00:41:20.470] PICARD: but your service since then has earned you a great deal of respect,
+[00:41:20.550 --> 00:41:23.030] PICARD: but this incident may cost you some of that respect.
+[00:41:24.790 --> 00:41:27.510] RIKER: I can't help but feel I should have come forward a long time ago.
+[00:41:27.670 --> 00:41:30.790] PICARD: When the moment came to make a decision, you made the right one.
+[00:41:32.070 --> 00:41:34.390] PICARD: You chose to tell the truth and face the consequences.
+[00:41:34.870 --> 00:41:38.470] PICARD: So long as you can still do that, then you deserve to wear that uniform.
+[00:41:38.470 --> 00:41:38.470] PICARD: And I
+[00:41:40.870 --> 00:41:42.790] PICARD: will still be proud to have you as my First Officer.
+[00:42:38.000 --> 00:42:47.000] [music]
+[00:42:48.000 --> 00:42:58.000] [music]

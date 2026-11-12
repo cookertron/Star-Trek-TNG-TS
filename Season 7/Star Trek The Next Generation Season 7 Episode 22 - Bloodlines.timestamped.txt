@@ -1,0 +1,666 @@
+[00:00:09.120 --> 00:00:09.440] PICARD: Report.
+[00:00:10.720 --> 00:00:12.640] RIKER: There's an object of some kind closing in on our position.
+[00:00:13.920 --> 00:00:14.320] PICARD: On screen.
+[00:00:14.960 --> 00:00:15.040] DATA: It
+[00:00:17.280 --> 00:00:20.960] DATA: appears to be an unmanned probe approximately one half metre in diameter.
+[00:00:21.600 --> 00:00:23.200] DATA: There are no identifiable armaments.
+[00:00:23.840 --> 00:00:24.160] WORF: Captain,
+[00:00:24.720 --> 00:00:25.120] WORF: we are being,
+[00:00:26.560 --> 00:00:28.000] WORF: You are being hailed, by name.
+[00:00:29.760 --> 00:00:30.240] PICARD: Open a channel.
+[00:00:32.080 --> 00:00:33.440] PICARD: This is Captain Jean-Luc Picard
+[00:00:33.440 --> 00:00:33.680] WORF: Captain,
+[00:00:34.000 --> 00:00:35.200] WORF: I am reading a power surge.
+[00:00:35.600 --> 00:00:36.080] RIKER: Shields up.
+[00:00:40.880 --> 00:00:43.520] DATA: The beam appears to contain holographic imaging information.
+[00:00:44.000 --> 00:00:45.040] RIKER: It's trying to project something.
+[00:00:46.160 --> 00:00:46.960] PICARD: Isolate the bandwidth.
+[00:00:47.280 --> 00:00:48.320] PICARD: Let the signal through the shields.
+[00:00:48.400 --> 00:00:48.560] PICARD: Bok!
+[00:00:54.160 --> 00:00:55.920] BOK: I trust you remember me, Picard,
+[00:00:56.640 --> 00:01:00.080] BOK: because I haven't forgotten you or how you murdered my son.
+[00:01:01.120 --> 00:01:03.760] BOK: For fifteen years now I've thought about how to avenge his death
+[00:01:04.640 --> 00:01:07.120] BOK: but nothing I could do to you could equal what you did to me,
+[00:01:07.920 --> 00:01:08.720] BOK: until now.
+[00:01:09.600 --> 00:01:11.440] BOK: You thought you could hide him from me, didn't you?
+[00:01:12.080 --> 00:01:13.360] BOK: But I found out about him.
+[00:01:14.080 --> 00:01:15.840] BOK: Jason Vigo is as good as dead.
+[00:01:16.960 --> 00:01:19.120] BOK: I'm going to kill your son, Picard,
+[00:01:19.680 --> 00:01:21.520] BOK: just like you killed mine.
+[00:01:55.100 --> 00:01:57.900] PICARD: Space, the final frontier.
+[00:01:59.740 --> 00:02:02.620] PICARD: These are the voyages of the starship Enterprise.
+[00:02:03.740 --> 00:02:11.740] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:13.340 --> 00:02:16.220] PICARD: to boldly go where no one has gone before.
+[00:02:45.000 --> 00:02:54.000] [music]
+[00:03:12.414 --> 00:03:12.574] PICARD: Mister
+[00:03:12.574 --> 00:03:14.094] PICARD: Worf, put a tractor beam on that probe.
+[00:03:14.734 --> 00:03:16.254] PICARD: Determine if it's safe to beam it aboard.
+[00:03:16.254 --> 00:03:18.334] PICARD: I want to know where it came from.
+[00:03:19.774 --> 00:03:19.934] PICARD: Mister
+[00:03:19.934 --> 00:03:25.294] PICARD: Data, see if there is any mention of a Jason Vigo in Federation records.
+[00:03:25.294 --> 00:03:28.334] PICARD: You might start with Miranda Vigo.
+[00:03:28.814 --> 00:03:30.894] PICARD: She was born on New Gaul about fifty years ago.
+[00:03:31.614 --> 00:03:31.934] DATA: Aye, sir.
+[00:03:34.334 --> 00:03:35.854] PICARD: Number One, contact the Ferengi Government.
+[00:03:35.854 --> 00:03:37.134] PICARD: Find out all you can about Bok.
+[00:03:37.614 --> 00:03:38.974] PICARD: He was wearing a DaiMon's uniform.
+[00:03:38.974 --> 00:03:41.214] PICARD: If he's regained his rank, I want to know why.
+[00:03:53.134 --> 00:03:53.614] PICARD: Come.
+[00:03:55.294 --> 00:03:58.894] RIKER: The Ferengi Government is debating an amendment to the Rules of Acquisition.
+[00:03:59.214 --> 00:04:00.574] RIKER: It could be a while before we hear from them.
+[00:04:04.094 --> 00:04:05.534] RIKER: Data found out that the woman you mentioned
+[00:04:07.134 --> 00:04:08.574] RIKER: has a son named Jason.
+[00:04:08.654 --> 00:04:10.414] RIKER: This is the most recent picture we could find.
+[00:04:18.494 --> 00:04:19.454] PICARD: How old is the boy now?
+[00:04:19.934 --> 00:04:20.414] RIKER: Twenty three.
+[00:04:20.414 --> 00:04:20.414] RIKER: He
+[00:04:22.094 --> 00:04:23.534] RIKER: and his mother left Earth twelve years ago.
+[00:04:23.848 --> 00:04:25.128] RIKER: They settled on Camor Five.
+[00:04:25.128 --> 00:04:25.608] RIKER: That's all we know.
+[00:04:26.888 --> 00:04:28.888] RIKER: The planet's records are virtually non-existent.
+[00:04:31.208 --> 00:04:31.768] PICARD: Picard to Bridge.
+[00:04:32.648 --> 00:04:34.168] PICARD: Set a course for the Camor system,
+[00:04:34.328 --> 00:04:34.808] PICARD: warp five.
+[00:04:35.288 --> 00:04:35.688] HELM: Aye, sir.
+[00:04:39.848 --> 00:04:40.088] PICARD: Will,
+[00:04:42.568 --> 00:04:44.008] PICARD: I do appreciate your not asking,
+[00:04:45.608 --> 00:04:47.688] PICARD: but I do think that you have a right to know.
+[00:04:48.808 --> 00:04:51.048] PICARD: There is a possibility that the boy is my son.
+[00:04:53.128 --> 00:04:56.968] PICARD: I was involved with his mother for a short time about
+[00:04:59.928 --> 00:05:00.808] PICARD: twenty four years ago.
+[00:05:02.168 --> 00:05:05.768] PICARD: We met through a friend when I was on shore leave on Earth.
+[00:05:05.768 --> 00:05:06.168] PICARD: It was
+[00:05:07.848 --> 00:05:10.248] PICARD: all very romantic, very intense,
+[00:05:11.448 --> 00:05:14.568] PICARD: probably because we both knew I would be leaving in two weeks.
+[00:05:16.168 --> 00:05:17.608] PICARD: And we kept in touch for a while,
+[00:05:19.608 --> 00:05:21.608] PICARD: but we never managed to get together again.
+[00:05:22.808 --> 00:05:24.488] RIKER: She never said anything to you about being pregnant?
+[00:05:26.808 --> 00:05:27.048] PICARD: No,
+[00:05:27.928 --> 00:05:36.328] PICARD: so either Bok is wrong and I'm not the father, or Miranda decided to raise the child alone,
+[00:05:36.328 --> 00:05:37.848] PICARD: which quite frankly wouldn't surprise me.
+[00:05:37.848 --> 00:05:39.928] PICARD: She was very independent,
+[00:05:42.168 --> 00:05:43.128] PICARD: very strong willed.
+[00:05:44.888 --> 00:05:46.488] RIKER: She would have to be to get by on Camor Five.
+[00:05:48.648 --> 00:05:50.728] PICARD: But whether he's my son or not, he's in danger.
+[00:05:50.938 --> 00:05:57.258] PICARD: Bok tried to kill me six years ago, and I don't doubt he will try to make good his threat against the boy.
+[00:06:06.058 --> 00:06:06.378] RIKER: Anything?
+[00:06:06.698 --> 00:06:08.858] WORF: There are no Ferengi vessels within range of our scanners.
+[00:06:09.498 --> 00:06:13.498] DATA: Captain, I am unable to find any information on Jason Vigo's current whereabouts.
+[00:06:14.778 --> 00:06:15.418] PICARD: What about his mother?
+[00:06:16.058 --> 00:06:16.378] DATA: No, sir.
+[00:06:17.018 --> 00:06:18.618] PICARD: Miranda was trained as a botanist.
+[00:06:18.938 --> 00:06:20.938] PICARD: She always used to talk about running a farm
+[00:06:20.938 --> 00:06:23.578] PICARD: one day. Maybe we should concentrate on the agricultural areas.
+[00:06:24.058 --> 00:06:25.738] DATA: That would significantly narrow our search.
+[00:06:26.058 --> 00:06:31.578] DATA: The only cultivated land is on the southern continent, and there are relatively few people engaged in agricultural activities.
+[00:06:31.738 --> 00:06:33.818] PICARD: There cannot be many non-Camorites among them.
+[00:06:34.298 --> 00:06:35.498] PICARD: Scan for human life signs.
+[00:06:37.178 --> 00:06:39.898] DATA: I am detecting eight humans.
+[00:06:40.778 --> 00:06:41.658] DATA: Three are female.
+[00:06:42.218 --> 00:06:44.058] DATA: However, they are all too young to be Miranda Vigo.
+[00:06:44.778 --> 00:06:45.498] PICARD: What about males?
+[00:06:47.658 --> 00:06:48.378] DATA: One is an infant.
+[00:06:49.738 --> 00:06:50.698] DATA: Another is elderly.
+[00:06:51.658 --> 00:06:52.538] DATA: Two are middle aged.
+[00:06:53.498 --> 00:06:53.978] PICARD: That's seven.
+[00:06:53.978 --> 00:06:54.698] PICARD: You said there were eight.
+[00:06:55.338 --> 00:06:57.898] DATA: I am having difficulty getting a clear reading on the eighth.
+[00:06:57.898 --> 00:07:02.458] DATA: The individual appears to be approximately two kilometres beneath the planet's surface.
+[00:07:04.138 --> 00:07:04.778] PICARD: Male or female?
+[00:07:05.258 --> 00:07:05.578] DATA: Male,
+[00:07:06.378 --> 00:07:07.738] DATA: between twenty and thirty years old.
+[00:07:08.618 --> 00:07:11.018] RIKER: No one in their right mind would go that far underground alone.
+[00:07:11.258 --> 00:07:12.138] PICARD: Unless he were forced to.
+[00:07:12.538 --> 00:07:16.138] WORF: Captain, I am reading seismic instability in the area.
+[00:07:16.298 --> 00:07:17.018] WORF: He is in danger.
+[00:07:18.378 --> 00:07:20.298] PICARD: Relay his coordinates to the transporter
+[00:07:19.866 --> 00:07:21.466] PICARD: room. Have them beam him aboard.
+[00:07:21.946 --> 00:07:22.266] DATA: Aye, sir.
+[00:07:22.266 --> 00:07:22.266] JASON: What
+[00:07:32.826 --> 00:07:32.906] JASON: the?
+[00:07:38.586 --> 00:07:39.466] JASON: This is a Federation ship.
+[00:07:39.946 --> 00:07:40.346] PICARD: That's right.
+[00:07:40.906 --> 00:07:43.226] PICARD: I'm Captain Picard. Jean-Luc Picard.
+[00:07:44.026 --> 00:07:48.906] JASON: I realise I wasn't supposed to be spelunking that cave, but don't you have something better to do?
+[00:07:49.466 --> 00:07:50.586] PICARD: We thought you were at risk.
+[00:07:51.066 --> 00:07:52.586] JASON: Oh. Well, I wasn't,
+[00:07:52.586 --> 00:07:54.666] JASON: so maybe you should just beam me back where I was?
+[00:07:55.145 --> 00:07:56.186] PICARD: Are you Jason Vigo?
+[00:07:58.025 --> 00:08:00.266] JASON: I, er, I know him.
+[00:08:01.626 --> 00:08:02.346] JASON: Is he in trouble?
+[00:08:02.826 --> 00:08:03.706] PICARD: In a manner of speaking.
+[00:08:07.066 --> 00:08:08.666] PICARD: Someone has made a threat against his life.
+[00:08:11.866 --> 00:08:14.346] PICARD: Jason, I'm an old friend of your mother's.
+[00:08:15.145 --> 00:08:16.586] PICARD: I'm here because you're in danger.
+[00:08:18.586 --> 00:08:19.866] JASON: Why would anybody want to kill me?
+[00:08:21.866 --> 00:08:25.226] PICARD: The person who has made the threat is under the impression that you
+[00:08:27.626 --> 00:08:28.266] PICARD: are my son.
+[00:08:32.106 --> 00:08:32.346] JASON: Am I?
+[00:08:32.346 --> 00:08:32.346] PICARD: I
+[00:08:34.746 --> 00:08:35.145] PICARD: don't know.
+[00:08:37.466 --> 00:08:39.386] JASON: My mother never told me who my father was.
+[00:08:41.066 --> 00:08:42.266] JASON: Just that he was in Starfleet.
+[00:08:42.986 --> 00:08:43.866] PICARD: Maybe we should contact her.
+[00:08:45.546 --> 00:08:48.106] JASON: She died a few years ago.
+[00:08:50.986 --> 00:08:52.026] PICARD: Oh, I'm sorry.
+[00:08:55.726 --> 00:08:59.486] PICARD: Jason, I think it's important that we find out one way or another.
+[00:09:00.126 --> 00:09:02.366] PICARD: Would you be willing to permit a genetic test?
+[00:09:04.926 --> 00:09:08.206] JASON: If I'm not your son, is this person still going to want to kill me?
+[00:09:08.926 --> 00:09:09.326] PICARD: I doubt it.
+[00:09:10.686 --> 00:09:13.566] JASON: In that case, you won't mind my saying that I hope you're not my father.
+[00:09:33.886 --> 00:09:35.646] PICARD: What were you doing in the caves, Jason?
+[00:09:36.126 --> 00:09:37.086] PICARD: Are you a seismologist?
+[00:09:37.726 --> 00:09:39.006] JASON: No, I just enjoy climbing.
+[00:09:40.846 --> 00:09:42.126] PICARD: Without an antigrav harness?
+[00:09:43.406 --> 00:09:44.446] JASON: No, they get in the way.
+[00:09:47.646 --> 00:09:49.806] PICARD: So, what do you do?
+[00:09:51.246 --> 00:09:55.486] JASON: I'm between jobs right now.
+[00:09:57.566 --> 00:09:57.966] PICARD: I see.
+[00:10:00.846 --> 00:10:01.806] CRUSHER: Excuse me, gentlemen,
+[00:10:01.886 --> 00:10:03.086] CRUSHER: the test results are ready
+[00:10:03.086 --> 00:10:04.846] CRUSHER: if you'd like to hear them.
+[00:10:08.286 --> 00:10:13.086] CRUSHER: Your genetic code is a cross between the DNA of your mother, Miranda Vigo, and your father
+[00:10:15.006 --> 00:10:15.886] CRUSHER: Jean-Luc Picard.
+[00:10:36.630 --> 00:10:37.190] JASON: What's all this?
+[00:10:38.630 --> 00:10:42.790] PICARD: Oh, theses are archaeological fragments that I've collected over the years.
+[00:10:44.150 --> 00:10:45.430] PICARD: This is a Silvan glyph stone.
+[00:10:48.070 --> 00:10:50.150] PICARD: And this, this
+[00:10:52.390 --> 00:10:53.750] PICARD: is a Gorlan prayer stick.
+[00:10:53.830 --> 00:10:55.750] PICARD: It's really quite rare.
+[00:10:57.350 --> 00:10:57.990] JASON: Is it valuable?
+[00:10:58.710 --> 00:10:59.430] PICARD: Not really.
+[00:11:00.150 --> 00:11:02.470] PICARD: Only to students of archaeology such as myself.
+[00:11:03.350 --> 00:11:08.550] PICARD: Though I did have to hand over a bottle of very old Saurian brandy for it.
+[00:11:09.750 --> 00:11:10.630] JASON: I'd say you got taken.
+[00:11:12.950 --> 00:11:16.630] PICARD: Perhaps, but it's of value to me nonetheless.
+[00:11:17.830 --> 00:11:21.590] JASON: On Camor, something has value if you can eat it or sell it.
+[00:11:22.230 --> 00:11:23.750] JASON: Everything else is luxury.
+[00:11:25.910 --> 00:11:26.630] PICARD: Would you like some tea?
+[00:11:27.670 --> 00:11:28.870] JASON: No. Thanks.
+[00:11:31.030 --> 00:11:31.590] PICARD: Something else?
+[00:11:32.550 --> 00:11:32.870] JASON: No.
+[00:11:33.910 --> 00:11:34.070] PICARD: Tea,
+[00:11:34.150 --> 00:11:34.310] PICARD: Earl
+[00:11:34.310 --> 00:11:34.870] PICARD: Grey, hot.
+[00:11:37.830 --> 00:11:41.430] PICARD: I'm sure this whole thing is as much a surprise to you as it is to me.
+[00:11:45.030 --> 00:11:46.630] PICARD: I really want to be honest with you, Jason.
+[00:11:47.830 --> 00:11:50.230] PICARD: I only knew your mother for a very short time.
+[00:11:52.550 --> 00:11:53.430] PICARD: I would have liked
+[00:11:53.651 --> 00:11:54.451] PICARD: to have known her better.
+[00:11:54.601 --> 00:11:55.201] PICARD: It
+[00:11:57.971 --> 00:11:59.091] PICARD: just didn't work out that way.
+[00:12:00.851 --> 00:12:01.971] PICARD: You look a lot like her, you know.
+[00:12:03.091 --> 00:12:04.051] PICARD: It's the eyes, I think.
+[00:12:06.931 --> 00:12:08.691] PICARD: I would like to make one thing clear, Jason.
+[00:12:09.491 --> 00:12:12.371] PICARD: Your mother never told me about you.
+[00:12:13.011 --> 00:12:16.531] PICARD: If she had, I would have been part of your life.
+[00:12:17.651 --> 00:12:18.931] JASON: Maybe that's not what she wanted.
+[00:12:24.531 --> 00:12:26.131] JASON: I think I'd like to go back to the surface now.
+[00:12:29.011 --> 00:12:33.411] PICARD: I think it would be better if you stayed on board the Enterprise until we have resolved this situation with Bok.
+[00:12:33.811 --> 00:12:35.651] JASON: What is the situation with Bok, anyway?
+[00:12:35.651 --> 00:12:37.651] JASON: Why does he want me dead?
+[00:12:39.651 --> 00:12:44.531] PICARD: Years ago, I was forced to destroy a starship commanded by his son.
+[00:12:45.251 --> 00:12:49.171] PICARD: Bok apparently feels that it would be fitting vengeance to kill my son.
+[00:12:51.171 --> 00:12:52.211] JASON: I can't hide forever.
+[00:12:52.851 --> 00:12:53.491] PICARD: Of course not.
+[00:12:54.291 --> 00:12:55.731] PICARD: We are trying to locate Bok now.
+[00:12:56.691 --> 00:12:58.291] PICARD: I want to confront him, settle this matter.
+[00:12:58.931 --> 00:12:59.971] JASON: How long is this going to take?
+[00:13:02.371 --> 00:13:05.331] PICARD: I assure you there is no one more eager to put this behind us than I
+[00:13:07.731 --> 00:13:09.731] PICARD: am.
+[00:13:13.811 --> 00:13:14.451] JASON: Where do I stay?
+[00:13:15.491 --> 00:13:16.371] PICARD: We'll get you some quarters.
+[00:13:20.131 --> 00:13:21.811] JASON: Okay. Let's go.
+[00:13:21.811 --> 00:13:22.371] PICARD: Jason.
+[00:13:24.771 --> 00:13:25.411] PICARD: Your being here?
+[00:13:26.634 --> 00:13:28.634] PICARD: I hope it will give us the chance to get to know each other.
+[00:13:34.394 --> 00:13:37.434] LAFORGE: We managed to shut down the probe's power systems so we could beam it aboard.
+[00:13:37.834 --> 00:13:40.074] LAFORGE: It's not going to be easy to figure out where this thing came from.
+[00:13:40.634 --> 00:13:46.154] DATA: Bok took the precaution of encrypting the probe's navigational systems so that we would be unable to decipher its flight path.
+[00:13:46.554 --> 00:13:48.314] LAFORGE: We ran an analysis of the probe's hull.
+[00:13:48.554 --> 00:13:58.314] LAFORGE: From the energy signatures and particle deposits we found, it looks like it travelled through a dichromic nebula, was exposed to an intensive gravimetric distortion, and passed within one light year of a class four pulsar.
+[00:13:59.034 --> 00:14:00.634] DATA: Those phenomena are relatively common.
+[00:14:01.434 --> 00:14:05.354] DATA: We would need to identify at least one of them specifically in order to postulate a flight path.
+[00:14:05.834 --> 00:14:06.754] PICARD: Understood.
+[00:14:06.754 --> 00:14:07.674] DATA: Captain,
+[00:14:08.314 --> 00:14:10.394] DATA: incoming message from DaiMon Birta.
+[00:14:11.434 --> 00:14:12.074] PICARD: Put it on screen.
+[00:14:15.194 --> 00:14:17.434] PICARD: Thank you for taking the time to talk to us, DaiMon.
+[00:14:17.754 --> 00:14:19.674] BIRTA: I understand you have a problem.
+[00:14:20.234 --> 00:14:22.074] PICARD: Yes, it concerns DaiMon Bok.
+[00:14:22.474 --> 00:14:24.234] BIRTA: Bok is no DaiMon.
+[00:14:24.874 --> 00:14:27.114] BIRTA: He was relieved of command six years ago.
+[00:14:27.194 --> 00:14:29.914] BIRTA: He was unstable, dangerous.
+[00:14:30.154 --> 00:14:32.394] BIRTA: We had to confine him to Rog Prison.
+[00:14:33.274 --> 00:14:34.234] PICARD: But he's no longer there?
+[00:14:34.794 --> 00:14:38.074] BIRTA: He was able to buy himself out about two years ago.
+[00:14:38.074 --> 00:14:39.114] PICARD: I see.
+[00:14:40.874 --> 00:14:41.914] PICARD: Do you know his whereabouts now?
+[00:14:43.194 --> 00:14:48.474] BIRTA: I understand he was seen in the Dorias cluster not too long ago.
+[00:14:49.194 --> 00:14:51.994] PICARD: But that cluster consists of more than twenty star systems.
+[00:14:52.562 --> 00:14:52.642] BIRTA: You
+[00:14:55.682 --> 00:14:57.522] BIRTA: don't have to thank me, Captain.
+[00:14:59.202 --> 00:15:01.682] LAFORGE: Believe it or not, Captain, that might've given us the fix we needed.
+[00:15:02.002 --> 00:15:05.922] LAFORGE: There's a nebula in the Dorias cluster that matches the same particle signature we found on the probe.
+[00:15:06.322 --> 00:15:09.202] DATA: There is a class four pulsar three light years from the nebula.
+[00:15:09.762 --> 00:15:13.682] DATA: My calculations indicate the probe was launched in the Xendi Kabu system.
+[00:15:15.442 --> 00:15:16.882] PICARD: Plot a course. Take us out of orbit.
+[00:15:31.842 --> 00:15:32.882] CRUSHER: Jean-Luc, come in.
+[00:15:33.842 --> 00:15:35.602] PICARD: I think I need to talk to a parent.
+[00:15:44.642 --> 00:15:45.602] CRUSHER: So, what's he like?
+[00:15:46.562 --> 00:15:47.602] PICARD: I'm not sure that I can tell you.
+[00:15:49.522 --> 00:15:51.602] PICARD: He puts up so many barriers
+[00:15:52.242 --> 00:15:53.522] PICARD: I have no idea what's underneath.
+[00:15:54.482 --> 00:15:57.762] CRUSHER: Keep in mind he's had twenty years to be angry that his father wasn't there.
+[00:15:57.762 --> 00:15:59.842] CRUSHER: It's going to take some time to get over those feelings.
+[00:16:00.722 --> 00:16:01.762] CRUSHER: But I do think it's possible.
+[00:16:04.082 --> 00:16:07.522] PICARD: Perhaps. But surely it would be wrong to force the issue.
+[00:16:08.402 --> 00:16:11.282] PICARD: My sense is that he's a very independent young man.
+[00:16:12.482 --> 00:16:14.242] PICARD: Perhaps it would be best if I left him alone.
+[00:16:15.602 --> 00:16:17.282] PICARD: Let him come to me if he wants to.
+[00:16:20.162 --> 00:16:20.722] CRUSHER: Maybe you're right.
+[00:16:22.970 --> 00:16:24.490] CRUSHER: But I think you should consider this.
+[00:16:26.330 --> 00:16:29.290] CRUSHER: Are you doing the best thing for Jason or what's easiest for you?
+[00:16:37.930 --> 00:16:39.530] JASON: Yeah?
+[00:16:44.170 --> 00:16:44.810] TROI: Hello, Jason.
+[00:16:44.890 --> 00:16:46.250] TROI: I'm Deanna Troi, Ship's Counsellor.
+[00:16:47.770 --> 00:16:48.010] JASON: Come in.
+[00:16:49.210 --> 00:16:50.970] JASON: Did Captain Picard ask you to come talk to me?
+[00:16:51.690 --> 00:16:53.690] TROI: No, I just thought I'd come and see how you were doing.
+[00:16:55.050 --> 00:16:56.570] TROI: A lot's happened in the last few hours.
+[00:16:56.570 --> 00:16:58.010] TROI: I thought you might like to talk about it.
+[00:16:58.890 --> 00:16:59.450] JASON: I'll be all right.
+[00:17:00.250 --> 00:17:01.450] JASON: People have wanted to kill me before.
+[00:17:02.490 --> 00:17:03.690] TROI: But you've never met your father before.
+[00:17:05.050 --> 00:17:06.970] JASON: And I have to admit I never thought I would.
+[00:17:08.170 --> 00:17:09.690] TROI: It must be somewhat overwhelming.
+[00:17:11.530 --> 00:17:12.330] JASON: I'm a little shaky.
+[00:17:13.290 --> 00:17:14.170] TROI: Well, that's only natural.
+[00:17:15.690 --> 00:17:16.330] JASON: But you know what?
+[00:17:17.770 --> 00:17:19.370] JASON: I feel better already just talking to you.
+[00:17:21.930 --> 00:17:24.970] TROI: So, how did you feel about the Captain, about your father?
+[00:17:26.410 --> 00:17:26.890] JASON: He's okay.
+[00:17:27.530 --> 00:17:28.090] JASON: A little stiff.
+[00:17:29.370 --> 00:17:30.090] JASON: But where are you from?
+[00:17:31.690 --> 00:17:32.423] TROI: I was born on Betazed.
+[00:17:32.423 --> 00:17:32.570] JASON: Do
+[00:17:34.250 --> 00:17:35.930] JASON: all the women there have eyes like yours?
+[00:17:38.570 --> 00:17:39.130] TROI: Look Jason,
+[00:17:39.850 --> 00:17:42.170] TROI: I came here to talk to you because I'm the Ship's Counsellor.
+[00:17:42.890 --> 00:17:46.010] TROI: If you don't want to talk to me in that way, then I think I should go.
+[00:17:48.090 --> 00:17:48.410] JASON: Fine.
+[00:17:52.240 --> 00:17:54.480] TROI: You're welcome to make an appointment to come by my office.
+[00:17:55.040 --> 00:17:56.000] JASON: Maybe I'll do just that.
+[00:18:12.720 --> 00:18:15.520] BOK: Picard, can you hear me?
+[00:18:21.040 --> 00:18:25.920] BOK: I will kill him, Picard. And there's nothing you can do about it.
+[00:18:26.720 --> 00:18:28.640] PICARD: Security to Captain's quarters immediately.
+[00:18:38.400 --> 00:18:39.280] WORF: Our shields were up.
+[00:18:39.680 --> 00:18:41.040] WORF: How could he have beamed through them?
+[00:18:41.120 --> 00:18:42.080] LAFORGE: I'm not sure he did.
+[00:18:42.240 --> 00:18:44.160] LAFORGE: Sensors don't show any sign of an intruder.
+[00:18:44.400 --> 00:18:45.680] PICARD: Could it have been another hologram?
+[00:18:46.720 --> 00:18:47.840] LAFORGE: I don't think so, Captain.
+[00:18:48.000 --> 00:18:50.000] LAFORGE: Something has to generate a hologram.
+[00:18:50.240 --> 00:18:51.120] LAFORGE: We would have detected it.
+[00:18:51.760 --> 00:18:55.040] PICARD: Bok once used a mind control device to make me hallucinate.
+[00:18:55.360 --> 00:18:57.600] LAFORGE: That device emitted a very specific energy signature.
+[00:18:57.920 --> 00:18:59.200] LAFORGE: I'm not reading anything like that.
+[00:18:59.600 --> 00:19:02.640] WORF: Could he have modified the device so he could use it without being detected?
+[00:19:03.120 --> 00:19:03.760] LAFORGE: It's possible.
+[00:19:04.320 --> 00:19:07.840] LAFORGE: I'll recalibrate the sensors to scan for low intensity transmissions. Just to be sure,
+[00:19:08.320 --> 00:19:09.920] LAFORGE: I'll sweep your quarters with a resonance scanner.
+[00:19:10.320 --> 00:19:10.560] PICARD: Good.
+[00:19:10.720 --> 00:19:11.360] PICARD: Keep me posted.
+[00:19:12.960 --> 00:19:15.680] PICARD: Mister Worf, I want you to assign a security detail to Jason.
+[00:19:16.160 --> 00:19:16.960] WORF: And what about yourself?
+[00:19:18.160 --> 00:19:20.000] PICARD: I am not the target of Bok's threats.
+[00:19:20.240 --> 00:19:20.960] PICARD: Jason is.
+[00:19:23.540 --> 00:19:28.100] DATA: Captain, I have compiled all available records pertaining to Jason Vigo's criminal record, and
+[00:19:28.340 --> 00:19:29.060] PICARD: Criminal record?
+[00:19:29.620 --> 00:19:30.020] DATA: Yes, sir.
+[00:19:30.580 --> 00:19:36.980] DATA: He has been charged three times with petty theft, twice for disorderly conduct, and several dozen times for trespassing.
+[00:19:37.620 --> 00:19:38.100] PICARD: Trespassing?
+[00:19:39.140 --> 00:19:43.700] DATA: I believe the charges relate to his climbing activities in the caves underneath the planet's surface.
+[00:19:45.380 --> 00:19:47.140] DATA: This is the information you requested, is it not?
+[00:19:48.820 --> 00:19:49.220] PICARD: Thank you, Mister
+[00:19:50.900 --> 00:19:52.900] PICARD: Data.
+[00:20:09.220 --> 00:20:09.860] JASON: What was your name again?
+[00:20:10.980 --> 00:20:12.020] RHODES: Lieutenant Rhodes.
+[00:20:12.500 --> 00:20:16.500] JASON: Actually, I meant your first name.
+[00:20:16.500 --> 00:20:16.980] RHODES: Sandra.
+[00:20:18.180 --> 00:20:25.460] JASON: Well, Sandra, do you think you could give me some room?
+[00:20:25.460 --> 00:20:27.060] RHODES: We're supposed to be keeping an eye on you.
+[00:20:27.860 --> 00:20:29.380] JASON: Can't you can keep an eye on me from over there?
+[00:20:29.460 --> 00:20:29.540] PICARD: Good
+[00:20:31.300 --> 00:20:31.300] PICARD: morning.
+[00:20:46.100 --> 00:20:49.940] JASON: I thought you said your ship was the safest place I could be.
+[00:20:50.814 --> 00:20:51.534] JASON: Why the guards?
+[00:20:52.494 --> 00:20:56.814] PICARD: Because Bok appeared in my quarters last night.
+[00:20:57.374 --> 00:21:00.814] PICARD: Now, it might not have been him. It may have been an image. We're investigating.
+[00:21:02.174 --> 00:21:05.294] JASON: Look, why don't you just drop me off somewhere.
+[00:21:05.694 --> 00:21:06.814] JASON: I can watch out for myself.
+[00:21:07.054 --> 00:21:07.774] PICARD: That wouldn't be wise.
+[00:21:07.934 --> 00:21:09.454] JASON: I've been doing it since I was fifteen.
+[00:21:09.454 --> 00:21:12.574] PICARD: I'm sure you have, but Bok is a dangerous creature.
+[00:21:12.654 --> 00:21:15.934] PICARD: He has a starship, he has technology.
+[00:21:15.934 --> 00:21:19.214] JASON: All right, all right. I'll stay here.
+[00:21:27.454 --> 00:21:30.734] PICARD: You seem to like rock climbing.
+[00:21:30.974 --> 00:21:33.854] PICARD: The holodeck can create some very challenging climbs.
+[00:21:35.294 --> 00:21:40.174] PICARD: We could go down together and I could show you how to use the programme.
+[00:21:40.174 --> 00:21:42.654] JASON: Thanks, but I think I can figure it out myself.
+[00:21:42.894 --> 00:21:44.014] PICARD: Perhaps we could climb together.
+[00:21:44.494 --> 00:21:49.374] PICARD: I'm probably not as skilled as you, but I'm not inexperienced.
+[00:21:49.534 --> 00:21:49.694] JASON: Look,
+[00:21:51.694 --> 00:21:52.174] JASON: I'm sorry.
+[00:21:53.214 --> 00:21:55.774] JASON: I appreciate what you're trying to do. But Captain.
+[00:21:59.214 --> 00:22:03.534] JASON: Captain, father, Jean-Luc, I don't know what I'm supposed to call you.
+[00:22:04.574 --> 00:22:07.454] JASON: As soon as this thing with Bok is over, I'm leaving.
+[00:22:09.294 --> 00:22:10.014] JASON: So don't you see?
+[00:22:12.174 --> 00:22:15.934] JASON: There really isn't any point in our getting acquainted.
+[00:22:15.934 --> 00:22:16.014] JASON: Let
+[00:22:19.374 --> 00:22:20.334] JASON: me
+[00:22:22.014 --> 00:22:23.054] JASON: know as soon as you catch him,
+[00:22:23.054 --> 00:22:23.374] JASON: all right?
+[00:22:32.918 --> 00:22:35.798] LOG: Captain's log, stardate 47829.1.
+[00:22:36.518 --> 00:22:41.318] LOG: We've been in the Xendi Kabu system for over three hours, and still no sign of Bok.
+[00:22:42.598 --> 00:22:46.118] WORF: Captain, I am detecting an object five thousand kilometres off our starboard bow.
+[00:22:46.758 --> 00:22:47.718] WORF: It is another probe.
+[00:22:48.518 --> 00:22:49.878] PICARD: Why didn't we detect it before?
+[00:22:50.358 --> 00:22:51.878] WORF: It must have been cloaked, sir.
+[00:22:52.438 --> 00:22:53.078] WORF: It came out of nowhere.
+[00:22:54.358 --> 00:22:54.758] PICARD: On screen.
+[00:23:01.158 --> 00:23:02.598] PICARD: Is it another holographic device?
+[00:23:02.598 --> 00:23:04.998] DATA: I do not believe so, sir.
+[00:23:05.718 --> 00:23:07.398] WORF: Captain, the probe's systems are overloading.
+[00:23:07.718 --> 00:23:08.038] RIKER: Red alert.
+[00:23:08.278 --> 00:23:08.758] RIKER: Shields up!
+[00:23:08.758 --> 00:23:08.918] RIKER: Damage
+[00:23:19.318 --> 00:23:19.558] RIKER: report.
+[00:23:20.758 --> 00:23:21.398] WORF: No damage, sir.
+[00:23:22.278 --> 00:23:25.638] DATA: Captain, I do not believe it was meant as an attack, but rather as a message.
+[00:23:25.878 --> 00:23:26.198] PICARD: A message?
+[00:23:26.678 --> 00:23:26.998] DATA: Yes, sir,
+[00:23:27.238 --> 00:23:32.038] DATA: in B'zal, a Ferengi code which uses an alternating pattern of light and darkness.
+[00:23:32.838 --> 00:23:33.638] PICARD: Can you translate it?
+[00:23:34.278 --> 00:23:35.238] DATA: I am attempting to do so.
+[00:23:36.038 --> 00:23:40.598] DATA: The message reads, my revenge is at hand.
+[00:23:44.358 --> 00:23:46.518] PICARD: He's proved that he can get to us whenever he wants.
+[00:23:48.038 --> 00:23:48.918] PICARD: Why doesn't he do something?
+[00:24:06.873 --> 00:24:07.113] PICARD: Tea, Earl
+[00:24:07.193 --> 00:24:07.353] PICARD: Grey,
+[00:24:07.353 --> 00:24:07.913] PICARD: hot.
+[00:24:15.193 --> 00:24:19.353] BOK: If you want me to stay and talk, you'd better not call for security this time.
+[00:24:21.353 --> 00:24:22.873] BOK: How do you like your boy, Captain?
+[00:24:23.673 --> 00:24:25.593] BOK: Is he everything you'd always hoped for?
+[00:24:26.313 --> 00:24:27.993] PICARD: It's a risky game you're playing, coming here.
+[00:24:28.393 --> 00:24:29.673] PICARD: Next time we'll be ready for you.
+[00:24:30.793 --> 00:24:31.753] PICARD: Why don't we settle this now?
+[00:24:32.233 --> 00:24:35.353] BOK: Oh, and how do you propose to do that, Picard?
+[00:24:36.313 --> 00:24:37.753] BOK: You murdered my son.
+[00:24:38.073 --> 00:24:38.953] PICARD: It was self-defence.
+[00:24:38.953 --> 00:24:40.073] PICARD: He fired on my ship.
+[00:24:40.233 --> 00:24:41.753] BOK: You were in Ferengi space!
+[00:24:42.233 --> 00:24:42.953] PICARD: I didn't know that.
+[00:24:43.353 --> 00:24:44.953] PICARD: If he'd told me I would have withdrawn.
+[00:24:47.113 --> 00:24:49.753] PICARD: I'm sorry, but there's nothing I can do to bring him back.
+[00:24:50.393 --> 00:24:51.033] BOK: How touching.
+[00:24:52.393 --> 00:24:54.153] BOK: Your apology is worthless to me.
+[00:24:54.633 --> 00:24:57.033] BOK: I demand that you repay me for my loss.
+[00:24:57.753 --> 00:24:59.433] PICARD: You cannot put a price on a life.
+[00:24:59.993 --> 00:25:01.593] BOK: Oh, but you can, Picard.
+[00:25:02.553 --> 00:25:04.313] BOK: You can pay me with your son's life.
+[00:25:05.193 --> 00:25:05.513] PICARD: No.
+[00:25:05.753 --> 00:25:07.193] BOK: You don't have any choice.
+[00:25:09.113 --> 00:25:11.113] BOK: I insist on being paid.
+[00:25:17.673 --> 00:25:19.993] CRUSHER: That should do it.
+[00:25:20.393 --> 00:25:22.233] CRUSHER: Let's run a level three bioscan just to be sure.
+[00:25:22.233 --> 00:25:24.073] RHODES: Rhodes to Sickbay,
+[00:25:24.488 --> 00:25:27.048] RHODES: Medical emergency, deck nine, section four.
+[00:25:27.608 --> 00:25:27.928] CRUSHER: Let's go.
+[00:25:49.528 --> 00:25:51.368] CRUSHER: Have you had any other seizures like this before?
+[00:25:52.088 --> 00:25:52.808] JASON: No, not really.
+[00:25:53.448 --> 00:25:56.488] JASON: Sometimes my hand shakes, but never this bad.
+[00:25:57.608 --> 00:25:59.048] CRUSHER: When did it first start to happen?
+[00:25:59.528 --> 00:26:00.648] JASON: About few months ago.
+[00:26:00.648 --> 00:26:00.648] JASON: Do
+[00:26:02.248 --> 00:26:03.928] JASON: you have any idea what's wrong with me?
+[00:26:04.568 --> 00:26:06.888] CRUSHER: You have a condition called the Forrester Trent syndrome.
+[00:26:07.688 --> 00:26:10.488] CRUSHER: It's a degenerative neurological disorder. Very rare.
+[00:26:11.128 --> 00:26:12.248] PICARD: What do you mean degenerative?
+[00:26:12.888 --> 00:26:15.528] CRUSHER: If it goes untreated, it could result in paralysis, even death.
+[00:26:17.048 --> 00:26:19.928] CRUSHER: I'm going to start you on a neuro-stabilisation regimen.
+[00:26:20.248 --> 00:26:24.168] CRUSHER: If we're lucky, it will halt the degeneration, and maybe reverse its effects.
+[00:26:26.728 --> 00:26:28.008] CRUSHER: The disease is hereditary.
+[00:26:28.008 --> 00:26:29.288] CRUSHER: I know your father doesn't have it.
+[00:26:29.288 --> 00:26:31.368] CRUSHER: Was your mother prone to these seizures?
+[00:26:31.608 --> 00:26:32.088] JASON: Not that I know of.
+[00:26:33.128 --> 00:26:38.728] CRUSHER: There have been some cases reported where the disease was instigated by a random mutation.
+[00:26:39.048 --> 00:26:41.608] CRUSHER: I'll run a microcellular scan and see if that's what happened.
+[00:26:42.968 --> 00:26:47.368] CRUSHER: In the meantime, I want you to try to take it easy and get some rest.
+[00:26:56.251 --> 00:26:57.131] PICARD: Is he going to be all right?
+[00:26:58.331 --> 00:27:02.891] CRUSHER: I wish I could say for certain, but I'm not sure how he'll respond to treatments.
+[00:27:04.651 --> 00:27:10.571] PICARD: I've been thinking about what you said the other day, and you know, I think you were right.
+[00:27:10.731 --> 00:27:14.491] PICARD: I had convinced myself that Jason didn't want me to reach out to him.
+[00:27:15.691 --> 00:27:19.291] CRUSHER: You know, I don't think anyone is born knowing how to be a parent.
+[00:27:19.691 --> 00:27:21.131] CRUSHER: You just sort of figure it out as you go.
+[00:27:22.251 --> 00:27:26.651] CRUSHER: But the one quality that tends to be a requirement for parenthood is patience.
+[00:27:28.331 --> 00:27:29.931] PICARD: Well, I'm not sure that that is going to be enough.
+[00:27:31.291 --> 00:27:32.251] PICARD: I've found out that
+[00:27:34.731 --> 00:27:36.251] PICARD: Jason has a criminal record.
+[00:27:36.571 --> 00:27:37.851] PICARD: It's nothing very serious,
+[00:27:37.851 --> 00:27:39.771] PICARD: it's only petty theft and so forth,
+[00:27:41.051 --> 00:27:46.731] PICARD: but I can't help feeling that if I had been part of his life then he wouldn't be so troubled now.
+[00:27:47.531 --> 00:27:51.531] CRUSHER: Maybe, but why waste time blaming yourself for not having been there?
+[00:27:51.691 --> 00:27:53.051] CRUSHER: Just be here for him now.
+[00:27:54.011 --> 00:27:54.651] PICARD: And be patient.
+[00:27:56.331 --> 00:27:57.051] CRUSHER: And be patient.
+[00:28:05.051 --> 00:28:06.411] LAFORGE: We think we've found something, Captain.
+[00:28:07.131 --> 00:28:09.931] DATA: Bok was in direct contact with this chair for an extended period.
+[00:28:10.891 --> 00:28:13.451] DATA: It is showing a distinctive subspace signature as a result.
+[00:28:14.091 --> 00:28:18.731] LAFORGE: We think he's using some sort of subspace transporter to beam aboard the Enterprise.
+[00:28:19.131 --> 00:28:21.691] PICARD: My understanding is that such devices were impractical.
+[00:28:21.758 --> 00:28:28.478] DATA: The Federation abandoned its research in the field because the technology was found to be unreliable, as well as energy intensive.
+[00:28:28.958 --> 00:28:32.958] LAFORGE: In order to transport matter through subspace, you have to put it into a state of quantum flux.
+[00:28:33.198 --> 00:28:33.918] LAFORGE: It's very unstable.
+[00:28:34.238 --> 00:28:36.158] PICARD: What range would that kind of transporter have?
+[00:28:36.958 --> 00:28:39.198] DATA: In theory it could operate over several light years.
+[00:28:39.838 --> 00:28:44.558] LAFORGE: That means that the probe that exploded could have been beamed into position from some point outside sensor range.
+[00:28:45.198 --> 00:28:50.158] DATA: If Bok uses his transporter again, we might be able to trace the subspace signature and locate his ship.
+[00:28:50.878 --> 00:28:54.638] PICARD: Is there any way we can keep Bok from beaming aboard the Enterprise again?
+[00:28:55.918 --> 00:28:56.798] LAFORGE: I don't think there is.
+[00:28:57.598 --> 00:28:59.518] PICARD: If he has the ability to beam aboard,
+[00:29:00.478 --> 00:29:01.998] PICARD: he may be able to beam someone away.
+[00:29:02.958 --> 00:29:03.998] DATA: It is a possibility.
+[00:29:04.478 --> 00:29:06.558] PICARD: I'm concerned that he may try to take Jason.
+[00:29:07.038 --> 00:29:08.318] PICARD: Is there any way we can protect him?
+[00:29:08.958 --> 00:29:11.598] LAFORGE: You know, we might be able to keep a signal lock on him at all times.
+[00:29:11.758 --> 00:29:14.638] LAFORGE: If Bok tries to beam him away, we might be able to hold him here.
+[00:29:15.118 --> 00:29:19.758] DATA: In order to do so, we would need to tie the ship's subspace field coils into the transporter system.
+[00:29:21.278 --> 00:29:21.758] PICARD: Make it so.
+[00:29:24.798 --> 00:29:27.198] PICARD: Computer, where is Jason Vigo?
+[00:29:28.238 --> 00:29:30.318] COMPUTER: Jason Vigo is in holodeck four.
+[00:29:56.734 --> 00:29:57.454] PICARD: Would you wait outside?
+[00:30:46.734 --> 00:30:47.374] JASON: Not bad.
+[00:30:48.894 --> 00:30:49.694] PICARD: I like climbing.
+[00:30:52.574 --> 00:30:56.734] PICARD: There's something about actually having your fate in your own hands.
+[00:30:57.694 --> 00:30:57.854] JASON: Yeah,
+[00:30:59.054 --> 00:30:59.374] JASON: I know.
+[00:31:00.494 --> 00:31:05.374] PICARD: It looks as though we may have found out how to locate Bok's ship.
+[00:31:06.334 --> 00:31:07.214] PICARD: This could all soon be over.
+[00:31:08.814 --> 00:31:10.494] JASON: You came all the way up here just to tell me that?
+[00:31:11.214 --> 00:31:12.174] PICARD: I thought it would make you feel better.
+[00:31:15.054 --> 00:31:15.454] JASON: Thanks.
+[00:31:16.334 --> 00:31:17.054] JASON: That was nice of you.
+[00:31:22.494 --> 00:31:22.894] PICARD: Jason,
+[00:31:23.967 --> 00:31:27.567] PICARD: when your mother and I parted, I lost track of her completely.
+[00:31:29.407 --> 00:31:32.527] PICARD: But I would like to know more about what happened to her, if you wouldn't mind telling me.
+[00:31:33.407 --> 00:31:33.807] JASON: Like what?
+[00:31:34.447 --> 00:31:35.807] PICARD: Well, how did you end up on Camor?
+[00:31:36.287 --> 00:31:38.207] PICARD: It's an unlikely place for a woman and child.
+[00:31:39.567 --> 00:31:40.607] JASON: Well, you know how she was.
+[00:31:41.487 --> 00:31:43.087] JASON: See a stray cat, take it in.
+[00:31:43.567 --> 00:31:47.327] JASON: See somebody cold, give them your coat.
+[00:31:47.327 --> 00:31:48.447] PICARD: Yes, that was Miranda, all right.
+[00:31:49.807 --> 00:31:53.887] JASON: She heard about the all children on Camor who'd been orphaned from the Cardassian war.
+[00:31:54.927 --> 00:31:56.927] PICARD: Oh. I see.
+[00:31:57.487 --> 00:31:58.927] JASON: I was only ten when we went there.
+[00:32:00.687 --> 00:32:05.167] JASON: I remember her telling me all about the boys and girls who didn't have anybody to take care of them.
+[00:32:08.367 --> 00:32:16.607] JASON: So she got this big house, practically falling apart, then she started rounding up children.
+[00:32:16.607 --> 00:32:18.287] JASON: Eventually, there were over forty of us there.
+[00:32:20.607 --> 00:32:21.567] JASON: She called it a school.
+[00:32:24.927 --> 00:32:30.447] JASON: You know, she got up before dawn every day and went to bed well after midnight.
+[00:32:31.887 --> 00:32:34.047] JASON: In between she never stopped working.
+[00:32:38.127 --> 00:32:39.487] JASON: She taught us all how to read.
+[00:32:42.047 --> 00:32:48.527] JASON: And she grew vegetables in hardpan to feed us. And she made sure we knew how to sing.
+[00:32:50.607 --> 00:32:52.287] JASON: It's important in a place like Camor.
+[00:32:55.887 --> 00:32:56.847] JASON: And then one day
+[00:32:58.055 --> 00:33:05.175] JASON: she was attacked by two men in the street in broad daylight for the food she was carrying.
+[00:33:07.095 --> 00:33:09.415] JASON: If she'd just given it to them, they probably wouldn't have hurt her.
+[00:33:11.895 --> 00:33:13.815] JASON: But she knew how important the food was to us.
+[00:33:17.815 --> 00:33:18.375] JASON: So they killed
+[00:33:21.335 --> 00:33:21.335] JASON: her.
+[00:33:21.335 --> 00:33:22.055] PICARD: I'm so sorry.
+[00:33:24.775 --> 00:33:25.655] JASON: Don't be sorry for me.
+[00:33:28.455 --> 00:33:30.775] JASON: My mother made sure that we were all tough enough to make it.
+[00:33:32.855 --> 00:33:35.815] PICARD: Jason, isn't there some way that I can be a father to you?
+[00:33:37.415 --> 00:33:39.095] PICARD: My own father and I were estranged.
+[00:33:39.895 --> 00:33:44.695] PICARD: He wanted me to stay home and tend the vineyards and I wanted to join Starfleet.
+[00:33:44.695 --> 00:33:44.775] PICARD: And
+[00:33:48.135 --> 00:33:54.215] PICARD: he died before we could come to terms with that. And I've regretted that all of my life.
+[00:33:58.215 --> 00:34:00.455] PICARD: I don't want the same thing to happen to you and me.
+[00:34:01.815 --> 00:34:02.455] JASON: You don't understand.
+[00:34:03.175 --> 00:34:04.855] JASON: I'm not anybody you'd want for a son.
+[00:34:05.895 --> 00:34:11.335] JASON: Trust me, if you knew anything about me, you wouldn't be trying so hard.
+[00:34:11.895 --> 00:34:12.615] PICARD: You're so wrong.
+[00:34:12.775 --> 00:34:13.175] JASON: Oh, really?
+[00:34:13.895 --> 00:34:14.935] JASON: Let me spell it out for you.
+[00:34:16.135 --> 00:34:17.975] JASON: I've been in trouble since I was a teenager.
+[00:34:19.335 --> 00:34:19.815] JASON: I lie,
+[00:34:21.015 --> 00:34:21.735] JASON: I steal,
+[00:34:22.615 --> 00:34:23.415] JASON: I use people.
+[00:34:24.215 --> 00:34:25.175] JASON: I'm a criminal.
+[00:34:26.495 --> 00:34:27.855] JASON: That's what your son is.
+[00:34:28.815 --> 00:34:29.135] PICARD: I know.
+[00:34:32.175 --> 00:34:32.415] JASON: You do?
+[00:34:32.815 --> 00:34:33.375] PICARD: Oh, yes,
+[00:34:34.255 --> 00:34:37.055] PICARD: I know all about your troubles with the Camor authorities.
+[00:34:39.455 --> 00:34:39.695] JASON: You do.
+[00:34:40.735 --> 00:34:42.095] PICARD: It doesn't make any difference, Jason.
+[00:34:42.335 --> 00:34:43.295] PICARD: You're still my son.
+[00:34:44.575 --> 00:34:45.615] PICARD: And, like it or not,
+[00:34:47.135 --> 00:34:47.775] PICARD: I'm your father.
+[00:34:50.815 --> 00:34:52.175] PICARD: I don't know what that means, but
+[00:34:53.535 --> 00:34:54.415] PICARD: it means something.
+[00:34:56.415 --> 00:34:57.935] PICARD: There's some connection.
+[00:35:00.655 --> 00:35:00.815] JASON: Yeah.
+[00:35:01.935 --> 00:35:02.735] PICARD: But one thing is clear.
+[00:35:04.655 --> 00:35:06.575] PICARD: You'll never look at your hairline again in the same way.
+[00:35:23.135 --> 00:35:23.935] PICARD: You wanted to see me.
+[00:35:25.615 --> 00:35:26.095] CRUSHER: Yes.
+[00:35:26.495 --> 00:35:27.295] CRUSHER: It's about Jason.
+[00:35:31.055 --> 00:35:31.215] CRUSHER: I've
+[00:35:34.575 --> 00:35:36.655] CRUSHER: finished the microcellular scan I was running.
+[00:35:38.895 --> 00:35:39.775] CRUSHER: There's something you need to know,
+[00:35:41.615 --> 00:35:44.735] DATA: Sir, sensors are detecting a subspace carrier wave headed for the ship.
+[00:35:45.535 --> 00:35:47.775] DATA: Its signature is consistent with Bok's transporter.
+[00:35:48.655 --> 00:35:50.015] RIKER: See if you can trace and locate Bok's ship.
+[00:35:51.375 --> 00:35:52.335] RIKER: Geordi, are you ready down there?
+[00:35:52.735 --> 00:35:54.015] LAFORGE: I've got a signal lock on Jason.
+[00:35:54.895 --> 00:35:55.615] RIKER: Riker to Picard.
+[00:35:56.208 --> 00:35:56.608] PICARD: Picard here.
+[00:35:57.568 --> 00:35:59.328] RIKER: Bok is trying to use his transporter.
+[00:36:05.488 --> 00:36:09.328] DATA: The transporter beam is focusing on deck nine, section four.
+[00:36:11.568 --> 00:36:12.288] RIKER: Jason's quarters.
+[00:36:12.288 --> 00:36:13.088] LAFORGE: I'm on it, Commander.
+[00:36:13.888 --> 00:36:14.928] RHODES: Security to Bridge.
+[00:36:15.248 --> 00:36:16.688] RHODES: Bok is Beaming Jason off the ship.
+[00:36:19.888 --> 00:36:21.008] LAFORGE: Initiating transport now.
+[00:36:27.408 --> 00:36:30.048] LAFORGE: I'm losing his signal.
+[00:36:33.408 --> 00:36:34.768] LAFORGE: Bok is re-establishing his lock on him.
+[00:36:47.968 --> 00:36:49.328] PICARD: Have you been able to locate Bok's ship?
+[00:36:49.648 --> 00:36:50.048] DATA: No, sir.
+[00:36:50.288 --> 00:36:54.048] DATA: The subspace signature left by his transporter is decaying more rapidly than predicted.
+[00:36:54.288 --> 00:36:55.808] DATA: It may not be possible to trace it.
+[00:36:57.008 --> 00:37:01.328] WORF: Captain, another probe has materialised five hundred kilometres to starboard.
+[00:37:01.328 --> 00:37:03.248] WORF: It is sending a transmission.
+[00:37:04.208 --> 00:37:04.848] PICARD: Put it on screen.
+[00:37:06.448 --> 00:37:08.688] BOK: This is a very special day, Picard.
+[00:37:10.048 --> 00:37:12.928] BOK: Fifteen years ago you took my son away from me.
+[00:37:13.488 --> 00:37:16.688] BOK: Today, I will take your son away from you.
+[00:37:17.568 --> 00:37:19.248] BOK: It will be our anniversary.
+[00:37:23.808 --> 00:37:26.128] BOK: I wanted you to see him one last time.
+[00:37:26.126 --> 00:37:26.126] DATA: I
+[00:37:29.646 --> 00:37:32.286] DATA: am tracing the transporter beam Bok used to send the probe.
+[00:37:32.436 --> 00:37:33.036] DATA: The
+[00:37:33.886 --> 00:37:37.406] DATA: ship is holding position approximately three hundred billion kilometres from here.
+[00:37:38.446 --> 00:37:39.806] PICARD: Plot a course. Maximum warp.
+[00:37:41.886 --> 00:37:43.966] RIKER: Even at warp nine we wouldn't get there for another twenty minutes.
+[00:37:45.246 --> 00:37:46.766] PICARD: The modifications you made to the transporter.
+[00:37:47.646 --> 00:37:52.286] PICARD: Is there any way we could use a subspace transport from here to get me onto Bok's ship?
+[00:37:52.846 --> 00:37:54.926] DATA: It may be possible, sir, but it would not be advisable.
+[00:37:55.806 --> 00:37:56.686] PICARD: I'll take that as a yes.
+[00:37:56.766 --> 00:37:57.246] PICARD: You're with me.
+[00:38:07.806 --> 00:38:08.046] LAFORGE: There.
+[00:38:08.926 --> 00:38:10.046] LAFORGE: I've aligned the field coils.
+[00:38:11.806 --> 00:38:12.926] DATA: Phase dampers are in synch.
+[00:38:13.646 --> 00:38:17.006] DATA: Standing by to modulate the transport pattern.
+[00:38:17.166 --> 00:38:20.766] LAFORGE: Captain, we might be able to get you over there, but I don't see how we're going to get you back.
+[00:38:21.166 --> 00:38:22.606] PICARD: We'll deal with that when the time comes.
+[00:38:24.686 --> 00:38:26.366] LAFORGE: Transport's going to take longer than normal.
+[00:38:26.366 --> 00:38:28.606] LAFORGE: We have to shunt your pattern through the subspace field coils.
+[00:38:29.166 --> 00:38:29.566] PICARD: Understood.
+[00:38:29.806 --> 00:38:31.806] DATA: Initiating transport sequence now.
+[00:38:35.246 --> 00:38:36.046] JASON: Maybe we can make a deal.
+[00:38:36.606 --> 00:38:37.566] BOK: What kind of deal?
+[00:38:38.686 --> 00:38:39.966] JASON: Tell my father you killed me.
+[00:38:41.086 --> 00:38:43.006] JASON: Put a phaser burn on my shirt and send it to him.
+[00:38:43.886 --> 00:38:44.446] JASON: He'll think I'm dead.
+[00:38:46.126 --> 00:38:47.166] JASON: That's what this is about, isn't it?
+[00:38:49.166 --> 00:38:52.286] JASON: I got friends on Camor Five that will make it worth your while.
+[00:38:52.526 --> 00:38:57.886] BOK: I understand your desire to live, but I want Picard to see your body so there will be no doubt.
+[00:39:01.258 --> 00:39:01.898] PICARD: Lower your weapons
+[00:39:01.898 --> 00:39:02.698] PICARD: or Bok is dead.
+[00:39:03.738 --> 00:39:07.178] BOK: Lower yours or your son dies.
+[00:39:07.738 --> 00:39:09.098] PICARD: You know as well as I do, Bok,
+[00:39:09.418 --> 00:39:10.458] PICARD: he's not my son.
+[00:39:12.058 --> 00:39:13.098] PICARD: I know what you've done.
+[00:39:13.978 --> 00:39:16.618] PICARD: Miranda Vigo is his mother but I am not his father.
+[00:39:17.578 --> 00:39:22.538] PICARD: You made it appear so because you resequenced his DNA. But your technique was flawed.
+[00:39:23.978 --> 00:39:26.058] PICARD: He developed a neurological disorder.
+[00:39:26.858 --> 00:39:30.858] PICARD: When my ship's Doctor investigated it, she discovered what you had done.
+[00:39:31.978 --> 00:39:33.898] TOL: Now he'll never pay the ransom.
+[00:39:34.218 --> 00:39:35.018] BOK: Shut up.
+[00:39:35.658 --> 00:39:36.618] PICARD: There never was a ransom.
+[00:39:36.858 --> 00:39:38.698] PICARD: All he was ever interested in was vengeance.
+[00:39:40.778 --> 00:39:42.058] TOL: DaiMon, is this true?
+[00:39:42.698 --> 00:39:43.418] PICARD: He's not a DaiMon.
+[00:39:44.458 --> 00:39:45.658] PICARD: He was stripped of command.
+[00:39:46.378 --> 00:39:48.218] BOK: They had no right to do that to me.
+[00:39:48.538 --> 00:39:50.938] PICARD: He lied to you so that you would help him in his plan.
+[00:39:51.978 --> 00:39:53.978] PICARD: The Enterprise is closing in on your position.
+[00:39:55.018 --> 00:39:57.178] PICARD: If you let the two of us go, they won't attack you.
+[00:39:57.818 --> 00:39:59.418] BOK: They won't attack us with you on board.
+[00:40:00.138 --> 00:40:04.218] PICARD: They will cripple your vessel and keep you here until the Ferengi authorities arrive.
+[00:40:05.098 --> 00:40:08.618] PICARD: You've got a lot deal of explaining to do.
+[00:40:09.178 --> 00:40:13.258] PICARD: Your only hope is to turn Bok over to them and tell them that he deceived you.
+[00:40:22.458 --> 00:40:24.138] TOL: There is no profit in this for us.
+[00:40:32.421 --> 00:40:35.061] LOG: Captain's log, stardate 47831.8.
+[00:40:35.541 --> 00:40:39.221] LOG: At Jason's request, the Enterprise has returned to Camor Five.
+[00:40:40.821 --> 00:40:43.541] JASON: Doctor Crusher feels I'm responding well to the treatment.
+[00:40:44.581 --> 00:40:47.141] JASON: She thinks that the damage may be completely reversed.
+[00:40:47.221 --> 00:40:47.941] PICARD: I'm glad to hear it.
+[00:40:48.581 --> 00:40:48.741] JASON: Yeah.
+[00:40:49.381 --> 00:40:52.341] PICARD: Are you sure that you wouldn't like to stay on board the Enterprise for a few more days?
+[00:40:52.501 --> 00:40:53.701] JASON: I can't.
+[00:40:54.021 --> 00:40:55.541] JASON: I have a life back on Camor.
+[00:40:56.501 --> 00:40:59.541] JASON: It's a mess, but I'd like to go back and straighten things out.
+[00:41:00.101 --> 00:41:00.741] PICARD: I understand.
+[00:41:07.061 --> 00:41:11.781] JASON: Well, maybe next time you come back this way, you can look me up.
+[00:41:12.501 --> 00:41:12.821] PICARD: I will.
+[00:41:14.021 --> 00:41:17.221] PICARD: I put a little something into your bag while you were packing.
+[00:41:22.021 --> 00:41:24.021] PICARD: I
+[00:41:27.381 --> 00:41:31.461] PICARD: know you'd probably have preferred a bottle of Saurian brandy, but that's all I could come up with.
+[00:41:33.461 --> 00:41:34.421] JASON: I can't accept this.
+[00:41:35.221 --> 00:41:35.861] PICARD: I want you to have it.
+[00:41:57.815 --> 00:41:58.295] PICARD: Energise.
+[00:42:38.000 --> 00:42:46.000] [music]

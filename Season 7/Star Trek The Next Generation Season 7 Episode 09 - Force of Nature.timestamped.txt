@@ -1,0 +1,789 @@
+[00:00:13.760 --> 00:00:14.080] DATA: Geordi?
+[00:00:14.720 --> 00:00:15.280] LAFORGE: In here, Data.
+[00:00:18.880 --> 00:00:19.360] LAFORGE: Got her now.
+[00:00:19.360 --> 00:00:20.240] LAFORGE: She's trapped.
+[00:00:20.960 --> 00:00:22.160] LAFORGE: Come on out of there, you.
+[00:00:22.880 --> 00:00:23.040] LAFORGE: Hey,
+[00:00:23.280 --> 00:00:24.560] LAFORGE: don't you spit at me.
+[00:00:26.480 --> 00:00:27.760] DATA: Why is Spot under the bed?
+[00:00:29.920 --> 00:00:32.960] LAFORGE: Probably because she knows if I catch her, I'm going to kill her.
+[00:00:33.920 --> 00:00:35.040] DATA: Has Spot been misbehaving?
+[00:00:35.920 --> 00:00:39.600] LAFORGE: So far she's broken a vase, a teapot,
+[00:00:39.680 --> 00:00:44.960] LAFORGE: she's ruined one of my chairs using it as a scratch post, and she's coughing hairballs up all over my carpet.
+[00:00:46.080 --> 00:00:47.840] DATA: These incidents are common to cat owners.
+[00:00:48.640 --> 00:00:54.720] DATA: When you borrowed Spot, you said you wanted to experience the full range of feline behaviour before getting a cat yourself.
+[00:00:54.960 --> 00:00:56.160] LAFORGE: Yeah, well, I'm not ready.
+[00:00:56.320 --> 00:00:58.720] LAFORGE: You can take her back with my blessings.
+[00:00:59.600 --> 00:00:59.920] LAFORGE: Go ahead,
+[00:01:01.120 --> 00:01:01.440] LAFORGE: call her.
+[00:01:01.840 --> 00:01:03.840] DATA: Spot does not respond to verbal commands.
+[00:01:04.000 --> 00:01:05.600] LAFORGE: She won't come when you call her?
+[00:01:07.920 --> 00:01:08.240] LAFORGE: Data,
+[00:01:10.080 --> 00:01:11.360] LAFORGE: have you ever considered training this cat?
+[00:01:12.480 --> 00:01:13.920] DATA: I never found it to be necessary.
+[00:01:14.240 --> 00:01:14.880] LAFORGE: Necessary?
+[00:01:15.280 --> 00:01:16.720] LAFORGE: Data, the cat is out of control.
+[00:01:17.200 --> 00:01:20.480] LAFORGE: Half the time I wasn't sure if she was going to lick me or scratch my face off.
+[00:01:21.840 --> 00:01:24.160] DATA: I have never experienced this kind of behaviour in Spot.
+[00:01:25.360 --> 00:01:29.120] DATA: Although she does have the unfortunate habit of jumping on my computer console when I am working.
+[00:01:30.560 --> 00:01:31.440] LAFORGE: She needs training.
+[00:01:32.075 --> 00:01:32.955] RIKER: Riker to senior staff.
+[00:01:33.355 --> 00:01:34.955] RIKER: Please report to the Observation lounge.
+[00:01:35.355 --> 00:01:36.555] RIKER: Mission briefing in ten minutes.
+[00:01:37.515 --> 00:01:38.635] LAFORGE: Right, we have to get her out of here.
+[00:01:38.955 --> 00:01:39.835] LAFORGE: I'll scare her. You
+[00:01:39.835 --> 00:01:41.115] LAFORGE: grab her when she comes out, okay?
+[00:01:41.995 --> 00:01:43.755] DATA: I do not think it would be wise to startle her.
+[00:01:43.905 --> 00:01:44.505] LAFORGE: Ready?
+[00:02:04.875 --> 00:02:05.475] LAFORGE: Ow!
+[00:02:25.995 --> 00:02:26.075] LAFORGE: Training.
+[00:02:26.155 --> 00:02:26.235] LAFORGE: Definitely.
+[00:02:26.315 --> 00:02:28.475] PICARD: Space, the final frontier.
+[00:02:30.315 --> 00:02:33.195] PICARD: These are the voyages of the starship Enterprise.
+[00:02:34.315 --> 00:02:38.075] PICARD: Its continuing mission to explore strange new worlds, to
+[00:02:39.595 --> 00:02:42.315] PICARD: seek out new life and new civilizations,
+[00:02:43.995 --> 00:02:46.875] PICARD: to boldly go where no one has gone before.
+[00:03:00.000 --> 00:03:14.000] [music]
+[00:03:16.000 --> 00:03:26.000] [music]
+[00:03:43.138 --> 00:03:46.098] LOG: Captain's log, Stardate 47310.2. We're
+[00:03:46.818 --> 00:03:52.498] LOG: investigating the disappearance of the Medical Transport Fleming somewhere in the Hekaras Corridor.
+[00:03:53.298 --> 00:03:58.018] LOG: Our search is complicated by the unique properties of this particular region of space.
+[00:03:58.658 --> 00:04:00.818] RIKER: The Fleming's last contact with Starfleet was four days ago.
+[00:04:01.458 --> 00:04:04.418] RIKER: According to them, there was nothing out of the ordinary when they entered the Corridor.
+[00:04:04.978 --> 00:04:05.369] PICARD: Data.
+[00:04:05.369 --> 00:04:12.018] DATA: The unusually intense tetryon fields in this sector pose a severe navigational hazard to warp driven vessels.
+[00:04:12.258 --> 00:04:16.898] DATA: The Hekaras Corridor is the only route through the area which is free of tetryon fields.
+[00:04:17.218 --> 00:04:21.218] DATA: Ships travelling at warp must use the Corridor to ensure safe passage through the region.
+[00:04:22.098 --> 00:04:24.338] PICARD: How long will it take to complete a level one search?
+[00:04:24.498 --> 00:04:25.378] DATA: At least two days, sir.
+[00:04:26.271 --> 00:04:31.791] DATA: The Corridor is over twelve light years long, and the surrounding tetryon interference will limit our sensor range.
+[00:04:32.271 --> 00:04:34.671] WORF: Could we send out reconnaissance probes to supplement the sensors?
+[00:04:34.671 --> 00:04:36.191] LAFORGE: They won't be very effective.
+[00:04:36.351 --> 00:04:39.071] LAFORGE: The interference will make it difficult to maintain contact with the probes.
+[00:04:39.311 --> 00:04:41.471] LAFORGE: The best we can do is to increase sensor efficiency.
+[00:04:42.191 --> 00:04:44.991] LAFORGE: We've installed multiphase buffers on all the sensor modules, Captain.
+[00:04:45.071 --> 00:04:45.631] LAFORGE: It should help a little.
+[00:04:45.951 --> 00:04:47.791] TROI: Hekaras Two is inhabited, isn't it?
+[00:04:48.271 --> 00:04:49.711] TROI: Maybe they've had contact with the Fleming.
+[00:04:50.111 --> 00:04:50.591] RIKER: They haven't.
+[00:04:50.911 --> 00:04:52.511] RIKER: I've already spoken to the Hekaran government.
+[00:04:53.151 --> 00:04:56.351] RIKER: According to them, only one ship has passed through the system in the last week.
+[00:04:56.591 --> 00:04:57.471] RIKER: It was a Ferengi trader.
+[00:04:57.871 --> 00:05:01.791] CRUSHER: The Fleming was carrying a supply of rare biomimetic gel, which is very valuable.
+[00:05:02.191 --> 00:05:04.431] CRUSHER: Is it possible that the Ferengi might have hijacked it?
+[00:05:05.471 --> 00:05:06.431] RIKER: I wouldn't put it past them.
+[00:05:06.991 --> 00:05:08.511] RIKER: I think we should prepare for that contingency.
+[00:05:08.831 --> 00:05:09.311] PICARD: I agreed.
+[00:05:09.951 --> 00:05:11.231] PICARD: All right then. Mister Worf,
+[00:05:11.231 --> 00:05:12.351] PICARD: initiate your search pattern.
+[00:05:13.151 --> 00:05:13.711] PICARD: Let's head in.
+[00:05:21.071 --> 00:05:25.231] DATA: Geordi, there has been a slight drop in sensor efficiency.
+[00:05:25.631 --> 00:05:27.231] DATA: Perhaps we should examine the phase buffers.
+[00:05:27.311 --> 00:05:27.871] LAFORGE: No problem, Data.
+[00:05:27.871 --> 00:05:28.511] LAFORGE: I'll be right with you.
+[00:05:29.631 --> 00:05:30.111] LAFORGE: Okay, Hansen,
+[00:05:30.111 --> 00:05:33.151] LAFORGE: transfer EPS conduit thirteen to the stabiliser matrix.
+[00:05:33.311 --> 00:05:33.631] HANSEN: Aye, sir.
+[00:05:36.591 --> 00:05:37.871] DATA: Is there a problem with the engines?
+[00:05:38.671 --> 00:05:38.911] LAFORGE: No.
+[00:05:39.951 --> 00:05:41.871] DATA: Then why are you stabilizing the EPS conduit?
+[00:05:42.351 --> 00:05:44.431] LAFORGE: I'm just trying to get a slightly higher power conversion level.
+[00:05:47.071 --> 00:05:48.831] DATA: But that would not affect the engines in any way.
+[00:05:48.831 --> 00:05:50.031] LAFORGE: I know that, Data.
+[00:05:50.031 --> 00:05:51.071] LAFORGE: It's not the point.
+[00:05:52.111 --> 00:05:52.831] DATA: What is the point?
+[00:05:53.391 --> 00:05:56.111] LAFORGE: I'm just trying to get a higher conversion level,
+[00:05:56.111 --> 00:05:56.671] LAFORGE: that's all.
+[00:06:00.031 --> 00:06:00.191] DATA: Why?
+[00:06:04.803 --> 00:06:05.523] LAFORGE: You know the Intrepid?
+[00:06:06.083 --> 00:06:06.483] DATA: Yes.
+[00:06:06.483 --> 00:06:08.563] LAFORGE: Well, their Chief Engineer is Commander Donald Kaplan.
+[00:06:08.563 --> 00:06:10.003] LAFORGE: He and I went through the Academy together.
+[00:06:10.563 --> 00:06:15.203] LAFORGE: I just like to make sure that our power conversion levels are a little higher than theirs.
+[00:06:16.003 --> 00:06:16.723] DATA: I understand.
+[00:06:17.043 --> 00:06:18.483] DATA: You are in competition with Mister Kaplan.
+[00:06:19.683 --> 00:06:20.483] LAFORGE: You might say that.
+[00:06:21.283 --> 00:06:22.083] LAFORGE: This is the flagship.
+[00:06:22.083 --> 00:06:23.443] LAFORGE: We should be better than everybody else.
+[00:06:23.763 --> 00:06:25.523] DATA: Then you are trying to outperform the Intrepid.
+[00:06:27.123 --> 00:06:29.283] LAFORGE: Actually it's more a point of personal pride.
+[00:06:29.283 --> 00:06:30.963] LAFORGE: These are my engines.
+[00:06:31.113 --> 00:06:31.713] LAFORGE: And
+[00:06:32.883 --> 00:06:34.803] LAFORGE: there's nothing wrong with a little friendly rivalry.
+[00:06:36.563 --> 00:06:36.963] LAFORGE: Okay.
+[00:06:37.203 --> 00:06:39.763] LAFORGE: Computer, how much have the conversion levels increased?
+[00:06:40.243 --> 00:06:41.683] COMPUTER: Levels are unchanged.
+[00:06:46.003 --> 00:06:46.563] LAFORGE: All right,
+[00:06:46.563 --> 00:06:47.603] LAFORGE: I'll deal with of this later.
+[00:06:48.403 --> 00:06:50.003] LAFORGE: Let me give you a hand with those sensors.
+[00:06:51.603 --> 00:06:52.243] LAFORGE: How's
+[00:06:59.523 --> 00:06:59.683] LAFORGE: that?
+[00:07:00.643 --> 00:07:01.363] DATA: One moment.
+[00:07:03.123 --> 00:07:05.683] DATA: The phase buffer is functioning within normal parameters.
+[00:07:06.323 --> 00:07:10.643] DATA: Sensor efficiency has increased by six point seven percent.
+[00:07:11.203 --> 00:07:12.243] LAFORGE: Six point seven?
+[00:07:12.883 --> 00:07:14.723] LAFORGE: One of the stages must still be out of alignment.
+[00:07:15.363 --> 00:07:19.683] LAFORGE: Let's try junction A nine.
+[00:07:22.563 --> 00:07:26.243] DATA: Geordi, I have taken your suggestion regarding Spot.
+[00:07:26.803 --> 00:07:28.083] LAFORGE: Coming down.
+[00:07:29.283 --> 00:07:30.403] DATA: I have begun training her.
+[00:07:30.970 --> 00:07:31.370] LAFORGE: Really?
+[00:07:31.690 --> 00:07:34.090] DATA: Yes. I am studying several new techniques.
+[00:07:37.850 --> 00:07:42.410] DATA: I began with simple conditioned response exercises and followed with environmental enhancement.
+[00:07:42.810 --> 00:07:45.530] DATA: Next I plan to explore bioconditioning devices.
+[00:07:46.170 --> 00:07:46.810] LAFORGE: Devices?
+[00:07:47.450 --> 00:07:51.930] DATA: Such as sensor nets for behaviour modification or biofeedback motivators.
+[00:07:52.490 --> 00:07:54.570] DATA: Unfortunately, I have been less than successful.
+[00:07:56.410 --> 00:07:59.290] LAFORGE: I've got an idea.
+[00:08:00.330 --> 00:08:01.290] LAFORGE: How about a phaser?
+[00:08:02.010 --> 00:08:04.410] LAFORGE: A low stun setting at just the right moment might do the trick.
+[00:08:05.290 --> 00:08:08.410] DATA: Geordi. I cannot stun my cat.
+[00:08:11.610 --> 00:08:14.970] LAFORGE: I was kidding, Data.
+[00:08:14.970 --> 00:08:15.770] LAFORGE: Let's see what we've got.
+[00:08:17.210 --> 00:08:19.210] LAFORGE: No,
+[00:08:22.570 --> 00:08:23.290] LAFORGE: this isn't it, either.
+[00:08:24.250 --> 00:08:26.410] DATA: Clearly there is a misalignment somewhere in this system.
+[00:08:26.490 --> 00:08:26.970] LAFORGE: That's for sure.
+[00:08:28.330 --> 00:08:30.890] LAFORGE: Well, we've got one more possibility.
+[00:08:34.410 --> 00:08:35.210] LAFORGE: Junction C twelve.
+[00:08:35.210 --> 00:08:35.930] DATA: I
+[00:08:40.010 --> 00:08:43.450] DATA: am somewhat concerned that my training efforts will ultimately fail.
+[00:08:44.010 --> 00:08:46.010] LAFORGE: Maybe you're just going about it the wrong way, Data.
+[00:08:46.730 --> 00:08:49.530] DATA: I have consulted numerous animal training manuals.
+[00:08:50.090 --> 00:08:53.530] DATA: Some of them claim that cats are inherently untrainable.
+[00:08:53.530 --> 00:08:55.450] LAFORGE: I don't believe that for a second.
+[00:08:55.770 --> 00:08:56.250] LAFORGE: Listen to me.
+[00:08:56.890 --> 00:09:00.410] LAFORGE: My sister didn't know a thing about animals and she was able to train her cat.
+[00:09:00.890 --> 00:09:02.090] LAFORGE: How complicated could it be?
+[00:09:03.866 --> 00:09:05.226] DATA: What did she train her cat to do?
+[00:09:05.466 --> 00:09:07.626] LAFORGE: She had that cat jumping into her arms on command.
+[00:09:08.106 --> 00:09:08.746] DATA: Interesting.
+[00:09:09.706 --> 00:09:13.146] DATA: Perhaps I could modify your sister's techniques to keep Spot from jumping on console.
+[00:09:13.786 --> 00:09:15.306] DATA: Do you know how she was able to train her cat?
+[00:09:15.706 --> 00:09:19.946] LAFORGE: Well, as I recall, she walked around for two months with a piece of tuna in her blouse.
+[00:09:32.506 --> 00:09:33.226] LAFORGE: I was right.
+[00:09:33.546 --> 00:09:34.746] LAFORGE: This buffer is out of alignment.
+[00:09:38.666 --> 00:09:39.066] LAFORGE: Okay,
+[00:09:39.466 --> 00:09:39.946] LAFORGE: try that.
+[00:09:41.786 --> 00:09:43.226] DATA: Phase alignment is stabilised.
+[00:09:44.666 --> 00:09:50.186] DATA: However, sensor efficiency has increased by only an additional one point three percent.
+[00:09:51.146 --> 00:09:52.746] LAFORGE: It's not much, but every little bit going to help.
+[00:09:52.986 --> 00:09:53.626] RIKER: Riker to Data.
+[00:09:54.506 --> 00:09:54.906] DATA: Data here.
+[00:09:55.386 --> 00:09:57.386] RIKER: We're picking up a ship ahead on long range sensors.
+[00:09:57.946 --> 00:09:59.146] RIKER: If you and Geordi are through down there,
+[00:09:59.546 --> 00:10:00.426] RIKER: we'd like to have you on the Bridge.
+[00:10:01.706 --> 00:10:03.306] LAFORGE: We're not going to squeeze anything else out of these systems.
+[00:10:03.626 --> 00:10:04.266] DATA: Acknowledged, sir.
+[00:10:04.506 --> 00:10:05.146] DATA: We are on our way.
+[00:10:07.386 --> 00:10:08.906] WORF: We are within visual range, sir.
+[00:10:09.306 --> 00:10:09.786] PICARD: On screen.
+[00:10:12.026 --> 00:10:14.746] WORF: It is a Ferengi transport ship, D'Kora class.
+[00:10:14.746 --> 00:10:19.546] RIKER: That's the same Ferengi vessel that entered the Corridor a week ago.
+[00:10:20.026 --> 00:10:21.866] LAFORGE: Captain, there are no emissions from their plasma vents.
+[00:10:22.106 --> 00:10:23.706] LAFORGE: Their warp drive must be completely inactive.
+[00:10:23.946 --> 00:10:24.826] DATA: That is correct, sir.
+[00:10:25.146 --> 00:10:26.666] DATA: Their impulse system is down as well,
+[00:10:27.306 --> 00:10:29.706] DATA: Power generation is at extremely low levels.
+[00:10:29.866 --> 00:10:30.746] PICARD: What about life signs?
+[00:10:30.986 --> 00:10:33.386] DATA: Life support systems are also functioning at low levels.
+[00:10:34.106 --> 00:10:36.666] DATA: There are approximately four hundred fifty Ferengi on board.
+[00:10:37.193 --> 00:10:40.848] DATA: That is a standard complement for a ship of that class.
+[00:10:40.848 --> 00:10:41.513] PICARD: Mister Worf,
+[00:10:41.753 --> 00:10:42.873] PICARD: open a hailing frequency.
+[00:10:45.913 --> 00:10:47.513] WORF: There is no response on any channel, sir.
+[00:10:47.513 --> 00:10:50.793] LAFORGE: I'm not picking any subspace emissions from the ship at all, Captain.
+[00:10:51.673 --> 00:10:53.993] LAFORGE: It looks like every one of their field coils has been overloaded.
+[00:10:55.193 --> 00:10:57.273] RIKER: That would explain why they haven't respond to our hails.
+[00:10:57.433 --> 00:10:59.906] DATA: It would also explain the failure of their warp drive.
+[00:10:59.906 --> 00:11:00.153] LAFORGE: Captain,
+[00:11:01.033 --> 00:11:02.713] LAFORGE: Ferengi sensors are still online.
+[00:11:03.033 --> 00:11:06.873] LAFORGE: I could modify one of our deflector emitters to transmit old style delta waves.
+[00:11:07.353 --> 00:11:10.153] LAFORGE: If I modulate that with a comm. signal, the Ferengi should be able to pick that up.
+[00:11:10.553 --> 00:11:11.113] PICARD: Make it so.
+[00:11:11.593 --> 00:11:14.793] RIKER: If they did hijack the Fleming, they sure didn't get very far with the cargo.
+[00:11:15.673 --> 00:11:17.433] PICARD: Mister Worf, have tractor beams standing by.
+[00:11:17.513 --> 00:11:18.793] PICARD: We may have to take them under tow.
+[00:11:19.273 --> 00:11:21.193] PICARD: Helm, take us within tractor range.
+[00:11:21.513 --> 00:11:21.913] HELM: Aye, sir.
+[00:11:22.713 --> 00:11:25.753] WORF: Captain, I am picking up power emissions from the Ferengi ship. They
+[00:11:27.113 --> 00:11:27.913] WORF: are locking weapons.
+[00:11:27.913 --> 00:11:28.793] PICARD: Shields up.
+[00:11:37.433 --> 00:11:40.873] RIKER: Ready phasers. Prepare to return fire.
+[00:11:41.033 --> 00:11:42.233] PICARD: Target their weapons array only.
+[00:11:42.393 --> 00:11:43.033] WORF: Phasers locked.
+[00:11:43.193 --> 00:11:43.273] PICARD: Fire.
+[00:11:47.593 --> 00:11:48.073] DATA: Direct hit.
+[00:11:48.633 --> 00:11:49.753] DATA: Their weapon systems are down.
+[00:11:50.073 --> 00:11:50.633] PICARD: Damage report.
+[00:11:51.433 --> 00:11:54.153] WORF: We sustained minimal damage to decks five and seven, sir.
+[00:11:54.393 --> 00:11:56.793] DATA: Sir, the Ferengi ship's power has stabilised.
+[00:11:57.113 --> 00:11:58.793] DATA: They appear to have impulse capability.
+[00:11:59.353 --> 00:12:03.033] RIKER: They were just playing dead. Conserving power until we got in close enough.
+[00:12:03.033 --> 00:12:04.793] PICARD: But why would they attack us in the first place?
+[00:12:05.113 --> 00:12:07.513] RIKER: Somehow I don't think they'll let us beam over there and ask them.
+[00:12:08.190 --> 00:12:08.350] PICARD: Mister La
+[00:12:08.350 --> 00:12:09.710] PICARD: Forge, how are you coming with that comm. link?
+[00:12:10.030 --> 00:12:10.910] LAFORGE: Almost ready, Captain.
+[00:12:13.230 --> 00:12:14.110] LAFORGE: All right, let's give it a try.
+[00:12:14.990 --> 00:12:15.630] PICARD: Open a channel.
+[00:12:28.510 --> 00:12:31.310] PICARD: This is Captain Jean-Luc Picard of the Enterprise.
+[00:12:32.830 --> 00:12:35.470] PICARD: Will you please explain why you attacked us?
+[00:12:35.790 --> 00:12:36.510] PRAK: Our attack?
+[00:12:37.630 --> 00:12:39.230] PRAK: We were defending ourselves.
+[00:12:40.110 --> 00:12:43.230] PRAK: Do you deny that you are responsible for disabling my vessel?
+[00:12:44.110 --> 00:12:45.550] PICARD: DaiMon, your ship was adrift,
+[00:12:45.790 --> 00:12:47.150] PICARD: your communications inoperative.
+[00:12:47.870 --> 00:12:50.270] PICARD: We were attempting to assess your status.
+[00:12:50.430 --> 00:12:52.510] PRAK: You were attempting to move in for the kill.
+[00:12:53.550 --> 00:12:54.830] PRAK: Do not toy with me, Picard.
+[00:12:55.950 --> 00:12:57.630] PRAK: We are obviously at your mercy,
+[00:12:58.430 --> 00:13:05.230] PRAK: but know this. When the Ferengi Council learns of your actions, they will consider this an act of war.
+[00:13:06.830 --> 00:13:09.150] PICARD: DaiMon, clearly there has been some misunderstanding.
+[00:13:09.790 --> 00:13:14.030] PICARD: I think it would be in all interests if you were to come aboard and we discuss this situation.
+[00:13:14.510 --> 00:13:16.830] PRAK: I see no reason to trust you, human.
+[00:13:19.070 --> 00:13:21.150] PICARD: In that case, we'll be on our way.
+[00:13:23.150 --> 00:13:26.350] PICARD: I'll relay your position to your government if you wish,
+[00:13:27.470 --> 00:13:30.430] PICARD: in case you're unable to complete your repairs and you remain stranded.
+[00:13:33.630 --> 00:13:37.310] PRAK: Perhaps it would be better to discuss the situation.
+[00:13:46.284 --> 00:13:49.564] PRAK: We detected what appeared to be a Federation signal buoy.
+[00:13:50.684 --> 00:13:54.284] PRAK: When we approached it, it emitted a massive verteron pulse.
+[00:13:55.084 --> 00:13:59.324] PRAK: Our warp drive, our sensors, our communications systems were all disabled.
+[00:14:00.364 --> 00:14:05.164] PRAK: We assumed we were the victims of a new Federation weapon.
+[00:14:05.804 --> 00:14:11.324] PICARD: The Federation established this corridor to ensure safe access through this sector.
+[00:14:11.724 --> 00:14:13.404] PICARD: We have nothing to gain from mining it.
+[00:14:13.804 --> 00:14:16.764] RIKER: Whatever happened to your ship may not have been an isolated incident.
+[00:14:17.244 --> 00:14:19.964] RIKER: A Federation Medical transport was recently lost in that corridor.
+[00:14:20.364 --> 00:14:22.604] PRAK: We passed a Federation ship several days ago.
+[00:14:22.604 --> 00:14:24.764] PRAK: It did not appear to be in any distress.
+[00:14:25.644 --> 00:14:26.844] RIKER: Can you give us an idea of its heading?
+[00:14:28.844 --> 00:14:32.604] PRAK: It is possible that information was recorded in our sensor logs, Commander.
+[00:14:33.484 --> 00:14:37.244] PRAK: Unfortunately, my entire crew is occupied with our repairs.
+[00:14:37.484 --> 00:14:39.644] PRAK: I don't think there will be time to search our records.
+[00:14:41.884 --> 00:14:42.364] PICARD: DaiMon,
+[00:14:43.084 --> 00:14:50.604] PICARD: if we assigned an Engineering team to assist you with your repair efforts, would that give you time to retrieve your logs?
+[00:14:51.884 --> 00:14:53.404] PRAK: I believe it would, Captain.
+[00:14:58.204 --> 00:14:58.524] DATA: Spot.
+[00:14:59.804 --> 00:15:00.124] DATA: Spot.
+[00:15:01.164 --> 00:15:01.484] DATA: Spot,
+[00:15:02.284 --> 00:15:02.524] DATA: down.
+[00:15:04.444 --> 00:15:04.924] DATA: Spot,
+[00:15:05.724 --> 00:15:06.524] DATA: down.
+[00:15:08.015 --> 00:15:08.255] DATA: Down.
+[00:15:10.735 --> 00:15:12.735] DATA: Spot.
+[00:15:16.415 --> 00:15:16.815] DATA: Down.
+[00:15:17.695 --> 00:15:18.335] DATA: This is down.
+[00:15:18.975 --> 00:15:19.775] DATA: Down is good.
+[00:15:21.215 --> 00:15:21.855] DATA: This is up.
+[00:15:22.815 --> 00:15:23.535] DATA: Up is no.
+[00:15:26.095 --> 00:15:26.495] DATA: One moment.
+[00:15:27.055 --> 00:15:28.495] DATA: Come in.
+[00:15:28.495 --> 00:15:29.215] LAFORGE: Data.
+[00:15:29.935 --> 00:15:32.415] LAFORGE: I had another idea that might help boost the power conversion levels.
+[00:15:32.415 --> 00:15:33.055] LAFORGE: Could you give me a hand?
+[00:15:33.455 --> 00:15:34.175] DATA: I would be happy to.
+[00:15:34.575 --> 00:15:36.655] LAFORGE: Don't tell me you're trying to teach the cat to use the console.
+[00:15:37.215 --> 00:15:38.735] DATA: It is part of her training programme.
+[00:15:39.375 --> 00:15:42.015] DATA: I am teaching Spot to jump down from the desk on my command.
+[00:15:42.815 --> 00:15:43.375] LAFORGE: How's it going?
+[00:15:45.615 --> 00:15:47.535] DATA: I have not been entirely successful.
+[00:15:55.215 --> 00:15:56.975] DATA: Feline supplement number two twenty one.
+[00:16:10.895 --> 00:16:11.215] LAFORGE: Data,
+[00:16:12.335 --> 00:16:14.495] LAFORGE: that cat definitely has a mind of her own.
+[00:16:15.055 --> 00:16:17.135] LAFORGE: Maybe she's just not trainable.
+[00:16:17.455 --> 00:16:19.295] DATA: I suppose I must accept that possibility.
+[00:16:20.255 --> 00:16:24.895] DATA: It may be that Spot lacks the intelligence necessary to learn the appropriate responses to my commands.
+[00:16:34.095 --> 00:16:40.095] LAFORGE: I don't know about Spot, but it seems to me your training is coming along just fine.
+[00:16:41.099 --> 00:16:41.819] LAFORGE: Come on, let's go.
+[00:16:48.699 --> 00:16:51.819] LAFORGE: Data, keep the EPS flow constant will you, while I re modulate the power taps.
+[00:16:52.859 --> 00:16:56.059] DATA: This procedure will only increase the conversion level by point eight percent.
+[00:16:56.059 --> 00:16:58.219] LAFORGE: I know, but it could be just enough.
+[00:16:59.579 --> 00:16:59.819] DATA: Enough?
+[00:17:01.739 --> 00:17:04.139] LAFORGE: I just received this from Commander Kaplan, subspace.
+[00:17:05.979 --> 00:17:11.659] DATA: La Forge, I got the Intrepid's power conversion levels up to ninety seven point one percent.
+[00:17:12.539 --> 00:17:15.259] DATA: Maybe you should try cleaning your plasma grid once in a while.
+[00:17:15.579 --> 00:17:16.299] LAFORGE: Can you believe the nerve of that guy?
+[00:17:17.419 --> 00:17:19.979] DATA: We perform maintenance on the plasma grid at regular intervals.
+[00:17:20.059 --> 00:17:20.459] LAFORGE: I know.
+[00:17:20.699 --> 00:17:21.899] LAFORGE: He's just trying to get me angry.
+[00:17:23.899 --> 00:17:25.499] LAFORGE: There.
+[00:17:26.859 --> 00:17:27.419] LAFORGE: That should do it.
+[00:17:27.899 --> 00:17:30.619] LAFORGE: Computer, what are the current power conversion levels?
+[00:17:31.579 --> 00:17:34.939] COMPUTER: Power conversion levels are at ninety seven point two percent.
+[00:17:36.619 --> 00:17:38.139] LAFORGE: Too bad, Mister Kaplan.
+[00:17:41.099 --> 00:17:42.299] LOG: Captain's log, supplemental.
+[00:17:42.459 --> 00:17:44.459] LOG: We have traced the Fleming's most likely course.
+[00:17:44.699 --> 00:17:47.819] LOG: It now appears that the vessel may have come to an unfortunate end.
+[00:17:48.939 --> 00:17:50.299] PICARD: What's the origin of this debris field?
+[00:17:50.939 --> 00:17:51.499] DATA: Unknown, sir.
+[00:17:51.979 --> 00:17:54.619] DATA: It does not appear in any Federation charts of the Corridor.
+[00:17:54.859 --> 00:17:56.219] PICARD: Could it be what's left of the Fleming?
+[00:17:56.939 --> 00:17:57.979] DATA: It is a possibility.
+[00:17:58.859 --> 00:18:03.579] DATA: The debris consists primarily of duranium and polycomposite fragments which suggest a ship.
+[00:18:04.539 --> 00:18:07.499] DATA: Furthermore, the field contains sufficient mass to account for the Fleming.
+[00:18:09.099 --> 00:18:10.619] PICARD: All right, let's take a closer look.
+[00:18:10.859 --> 00:18:13.899] PICARD: Perhaps we can find something that will give us a more positive identification.
+[00:18:14.944 --> 00:18:16.304] PICARD: Helm, take us through the debris field,
+[00:18:16.464 --> 00:18:17.024] PICARD: ahead slow.
+[00:18:19.104 --> 00:18:24.224] DATA: Captain, I am picking up a small metallic object, approximately three point five metres in diameter.
+[00:18:25.104 --> 00:18:27.264] RIKER: Could be a ship's log recorder, or a probe casing.
+[00:18:27.744 --> 00:18:28.544] DATA: I do not believe so.
+[00:18:29.104 --> 00:18:30.784] DATA: It is emitting an unusual signal.
+[00:18:31.984 --> 00:18:34.864] DATA: Captain, it is beginning to generate a verteron field.
+[00:18:35.184 --> 00:18:36.864] PICARD: Shields up! Full reverse. Now!
+[00:18:42.144 --> 00:18:42.784] PICARD: Damage report.
+[00:18:43.664 --> 00:18:45.024] WORF: Warp engines are offline.
+[00:18:46.144 --> 00:18:46.864] WORF: Shields are down.
+[00:18:48.464 --> 00:18:50.304] WORF: All subspace systems are inoperative.
+[00:18:51.504 --> 00:18:52.704] RIKER: Just like the Ferengi ship.
+[00:18:53.824 --> 00:18:55.504] DATA: Unidentified ship heading toward us.
+[00:18:55.744 --> 00:18:56.864] DATA: Two life forms are aboard.
+[00:18:57.184 --> 00:18:57.664] PICARD: On screen.
+[00:19:01.184 --> 00:19:03.584] DATA: Captain, they are initiating their transporter system.
+[00:19:03.824 --> 00:19:05.184] PICARD: Can we get more power to the shields?
+[00:19:06.944 --> 00:19:07.264] WORF: No, sir.
+[00:19:07.744 --> 00:19:08.304] RIKER: All decks,
+[00:19:08.304 --> 00:19:09.024] RIKER: security alert.
+[00:19:09.584 --> 00:19:11.024] DATA: Captain, we are being boarded.
+[00:19:11.424 --> 00:19:13.184] LAFORGE: La Forge to Bridge.
+[00:19:13.424 --> 00:19:14.864] LAFORGE: We have intruders in main Engineering.
+[00:19:14.864 --> 00:19:17.424] LAFORGE: I need a security team down here immediately.
+[00:19:17.824 --> 00:19:18.464] WORF: It's on its way.
+[00:19:20.384 --> 00:19:20.864] LAFORGE: What do you want?
+[00:19:21.264 --> 00:19:22.624] RABAL: We're trying to make you listen.
+[00:19:23.744 --> 00:19:24.544] SEROVA: You're killing us.
+[00:19:33.904 --> 00:19:35.504] PICARD: You have made a very serious accusation.
+[00:19:35.504 --> 00:19:36.384] PICARD: I want you to explain it.
+[00:19:37.584 --> 00:19:42.464] RABAL: Captain, according to our research, warp fields cause a dangerous reaction in this region of space.
+[00:19:42.544 --> 00:19:44.304] SEROVA: Our planet is already being affected.
+[00:19:44.780 --> 00:19:47.580] SEROVA: We have measured large gravitational shifts throughout our system.
+[00:19:47.980 --> 00:19:51.500] RABAL: If something isn't done, our planet will become uninhabitable.
+[00:19:51.900 --> 00:19:53.500] LAFORGE: Captain, I've heard this theory before.
+[00:19:54.220 --> 00:19:57.340] LAFORGE: Their research was evaluated by the Federation Science Council a few years ago.
+[00:19:57.900 --> 00:19:59.180] LAFORGE: Quite frankly, it didn't hold up.
+[00:19:59.180 --> 00:20:00.780] SEROVA: That research was only preliminary.
+[00:20:01.100 --> 00:20:03.020] SEROVA: Our original analysis was incomplete.
+[00:20:03.420 --> 00:20:07.660] PICARD: If you wanted us to review your research, you should have made a request through the Science Council.
+[00:20:08.300 --> 00:20:09.660] RABAL: Their resources are limited.
+[00:20:09.980 --> 00:20:14.300] RABAL: It would have taken over a year before they dispatched a science ship to come and evaluate our work.
+[00:20:14.780 --> 00:20:16.460] SEROVA: We were not willing to wait any longer.
+[00:20:17.260 --> 00:20:19.820] SEROVA: We knew that if we disabled enough ships, Starfleet would come.
+[00:20:20.620 --> 00:20:22.780] SEROVA: Then at least we would be able to present our case.
+[00:20:22.780 --> 00:20:24.620] RIKER: That's how you rationalise these attacks?
+[00:20:25.740 --> 00:20:28.220] SEROVA: Neither you nor the Ferengi suffered any casualties, Commander.
+[00:20:28.780 --> 00:20:30.860] SEROVA: The actual damage to your vessels was negligible.
+[00:20:30.940 --> 00:20:35.100] RABAL: We dispersed verteron probes in the Corridor merely to disable warp-driven ships.
+[00:20:35.500 --> 00:20:36.140] RABAL: Nothing more.
+[00:20:36.380 --> 00:20:37.420] RIKER: You can call it whatever you like.
+[00:20:37.420 --> 00:20:40.220] RIKER: The fact remains you deliberately disguised your probes.
+[00:20:40.780 --> 00:20:42.220] RIKER: You made them look like signal markers.
+[00:20:42.220 --> 00:20:43.580] RIKER: You hid them in debris field.
+[00:20:43.900 --> 00:20:45.100] RIKER: You mined the Corridor.
+[00:20:47.420 --> 00:20:50.540] PICARD: Mister La Forge, how long do you estimate it will take to restore the engines?
+[00:20:50.700 --> 00:20:53.100] LAFORGE: Their verteron pulse overloaded our field coils, Captain.
+[00:20:53.660 --> 00:20:55.260] LAFORGE: It'll take at least thirty six hours to get underway.
+[00:20:55.740 --> 00:20:58.220] SEROVA: I know precisely how our pulse affected your field coils.
+[00:20:58.940 --> 00:21:04.940] SEROVA: With my help, your ship could be operational in ten hours. Provided you agree to review our research.
+[00:21:05.980 --> 00:21:09.500] PICARD: Because of the seriousness of your claim, I'm willing to listen to your case.
+[00:21:09.740 --> 00:21:10.940] PICARD: But let there be no mistake.
+[00:21:11.100 --> 00:21:12.140] PICARD: Our priority here is the
+[00:21:12.332 --> 00:21:13.212] PICARD: recovery of the Fleming.
+[00:21:13.692 --> 00:21:18.812] PICARD: Now I expect you to help us restore our engines and deactivate all of the remaining probes in the Corridor.
+[00:21:18.972 --> 00:21:26.012] PICARD: If you do not, you will both be taken to the brig and from there to the nearest Starbase, where you will answer charges for what you have done.
+[00:21:26.652 --> 00:21:29.452] RABAL: My sister and I do not wish to impede your rescue process.
+[00:21:29.452 --> 00:21:30.092] SEROVA: Rabal, don't.
+[00:21:30.492 --> 00:21:31.932] SEROVA: The probes are the only leverage we have.
+[00:21:31.932 --> 00:21:32.305] SEROVA: If we
+[00:21:32.305 --> 00:21:32.492] RABAL: Serova.
+[00:21:35.452 --> 00:21:36.572] RABAL: We will do as you ask, Captain.
+[00:21:37.532 --> 00:21:39.852] RABAL: But please, re-examine our data.
+[00:21:40.092 --> 00:21:40.572] PICARD: We will.
+[00:21:40.652 --> 00:21:44.492] PICARD: It is part of our job to retain an open mind, even under these circumstances.
+[00:21:44.892 --> 00:21:45.132] PICARD: Mister
+[00:21:45.132 --> 00:21:47.612] PICARD: La Forge, take them to Engineering. Get the core back online.
+[00:21:47.692 --> 00:21:48.092] LAFORGE: Yes, sir.
+[00:21:48.732 --> 00:21:48.892] PICARD: Mister
+[00:21:48.892 --> 00:21:50.732] PICARD: Data, I want you to review their research.
+[00:21:50.892 --> 00:21:52.332] PICARD: I'd like your report as soon as possible.
+[00:22:04.572 --> 00:22:06.572] SEROVA: There.
+[00:22:07.292 --> 00:22:08.252] SEROVA: Shields have been restored.
+[00:22:08.972 --> 00:22:12.332] SEROVA: You will be able to reengage your engines in approximately eight hours.
+[00:22:12.652 --> 00:22:17.772] LAFORGE: You know, even when we get the engines online, it's going to take at least a week to recalibrate them properly.
+[00:22:19.052 --> 00:22:23.212] SEROVA: I'm sorry you've been inconvenienced. But that's all it is, an inconvenience.
+[00:22:23.772 --> 00:22:26.572] SEROVA: Our concerns are much more important than the condition of your engines.
+[00:22:27.532 --> 00:22:29.852] LAFORGE: What if the Fleming had been transporting perishable supplies
+[00:22:30.172 --> 00:22:31.372] LAFORGE: or was on an emergency mission?
+[00:22:31.372 --> 00:22:33.052] LAFORGE: Your little plan might have cost a lot of lives.
+[00:22:33.212 --> 00:22:34.252] SEROVA: That didn't happen, Commander.
+[00:22:35.132 --> 00:22:37.372] SEROVA: And saving lives is precisely what we're trying to do.
+[00:22:37.692 --> 00:22:39.692] LAFORGE: Yeah, well, you have a very interesting way of going about it.
+[00:22:40.252 --> 00:22:41.532] SEROVA: There's no point in trying to talk to you.
+[00:22:42.252 --> 00:22:43.692] SEROVA: You've already decided not to listen.
+[00:22:47.718 --> 00:22:50.358] RABAL: Commander, I know my sister can be somewhat, er,
+[00:22:51.878 --> 00:22:52.358] RABAL: aggravating.
+[00:22:52.758 --> 00:22:53.718] LAFORGE: I'd have to agree with that.
+[00:22:53.878 --> 00:22:55.398] RABAL: But please, try to understand.
+[00:22:55.718 --> 00:22:58.038] RABAL: She believes profoundly in this cause.
+[00:22:58.198 --> 00:23:01.718] RABAL: She has sworn to dedicate her life to exposing the dangers of warp drive.
+[00:23:01.878 --> 00:23:04.438] LAFORGE: Warp drive has been around for three centuries.
+[00:23:04.598 --> 00:23:06.358] LAFORGE: It's a proven technology.
+[00:23:06.678 --> 00:23:09.558] RABAL: And you sound just like I did, about four years ago.
+[00:23:09.958 --> 00:23:10.598] LAFORGE: You mean you didn't believe
+[00:23:12.438 --> 00:23:12.598] LAFORGE: her either?
+[00:23:12.598 --> 00:23:12.598] RABAL: No.
+[00:23:12.598 --> 00:23:15.558] RABAL: What I didn't realise was just how brilliant my sister is.
+[00:23:15.958 --> 00:23:20.598] RABAL: It took two years of study for me even to grasp the principles behind her theoretical models.
+[00:23:21.078 --> 00:23:22.358] RABAL: They're that sophisticated.
+[00:23:22.678 --> 00:23:24.358] LAFORGE: Well our Commander Data's no slouch.
+[00:23:25.398 --> 00:23:26.038] LAFORGE: If there's anything there,
+[00:23:27.798 --> 00:23:28.358] LAFORGE: he'll find it.
+[00:23:28.598 --> 00:23:36.438] RABAL: Well I hope so, because once we persuade Starfleet to stop warp travel through the Corridor, we're going to have to convince our own people to give up warp drive completely.
+[00:23:37.238 --> 00:23:39.878] LAFORGE: Hekaras Two is the only inhabited world in this region.
+[00:23:40.518 --> 00:23:43.318] LAFORGE: Without warp drive, you'd be completely isolated from the rest of the Federation.
+[00:23:44.598 --> 00:23:46.838] LAFORGE: Are you really willing to take that step?
+[00:23:47.478 --> 00:23:47.798] RABAL: Yes.
+[00:23:48.758 --> 00:23:52.358] RABAL: And if you were in my position, I hope you'd be willing to do the same thing.
+[00:24:01.718 --> 00:24:06.278] DATA: Serova and Rabal believe there are regions of potential subspace instability within the Corridor.
+[00:24:06.918 --> 00:24:09.638] DATA: They believe that if these regions continue to be exposed to
+[00:24:09.796 --> 00:24:10.756] DATA: warp field energy,
+[00:24:10.756 --> 00:24:11.476] DATA: they will rupture.
+[00:24:11.956 --> 00:24:14.836] DATA: Subspace will extrude into normal space, forming a rift.
+[00:24:15.076 --> 00:24:17.076] PICARD: It's like pacing up and down on the same piece of carpet.
+[00:24:17.076 --> 00:24:18.116] PICARD: Eventually you wear it out.
+[00:24:18.916 --> 00:24:20.356] DATA: That analogy is essentially correct, sir.
+[00:24:20.756 --> 00:24:21.796] PICARD: Can this theory be proven?
+[00:24:22.116 --> 00:24:22.996] DATA: Not at this time, sir.
+[00:24:23.396 --> 00:24:25.076] DATA: There is insufficient evidence to do so.
+[00:24:25.796 --> 00:24:34.916] DATA: In order to determine whether or not a rift will form, region must be exposed to warp field energy approximately one million times greater than that normally generated by a starship.
+[00:24:34.916 --> 00:24:37.556] RABAL: Commander, we believe the warp field effect is cumulative.
+[00:24:37.956 --> 00:24:42.836] RABAL: Each starship that passes through the Corridor at warp brings us one step closer to forming a rift.
+[00:24:43.396 --> 00:24:46.276] DATA: I agree that is a possibility. Captain,
+[00:24:46.916 --> 00:24:50.996] DATA: I suggest we ask the Federation Science Council to send a research vessel to this area.
+[00:24:50.996 --> 00:24:54.276] DATA: A more detailed investigation would resolve many of our questions.
+[00:24:54.436 --> 00:24:55.316] SEROVA: That's your response?
+[00:24:56.036 --> 00:24:58.196] SEROVA: More research? More delays.
+[00:24:59.236 --> 00:25:01.236] SEROVA: I suppose I shouldn't have expected anything different.
+[00:25:01.636 --> 00:25:02.676] RIKER: Bridge to Captain Picard.
+[00:25:03.236 --> 00:25:04.196] PICARD: Go ahead, Number One.
+[00:25:04.196 --> 00:25:09.156] RIKER: We've located the Fleming on long range sensors, approximately zero point three light years away.
+[00:25:09.556 --> 00:25:10.276] PICARD: What's their condition?
+[00:25:11.236 --> 00:25:12.676] RIKER: The vessel appears to be intact.
+[00:25:12.996 --> 00:25:16.276] RIKER: They have shields, but it looks like their subspace systems are out.
+[00:25:16.596 --> 00:25:17.156] PICARD: Very well.
+[00:25:17.156 --> 00:25:19.316] PICARD: We'll be underway as soon as our engines are online.
+[00:25:19.316 --> 00:25:19.556] RIKER: Aye, sir.
+[00:25:20.436 --> 00:25:23.556] PICARD: I would like you all to put together a research proposal for the Science Council.
+[00:25:23.876 --> 00:25:26.116] PICARD: I'll give it my full recommendation.
+[00:25:26.116 --> 00:25:28.196] RABAL: Captain, I appreciate the opportunity you're giving us.
+[00:25:28.516 --> 00:25:29.716] RABAL: It's a beginning that we need
+[00:25:29.716 --> 00:25:30.116] SEROVA: Not we.
+[00:25:31.076 --> 00:25:32.356] SEROVA: You can do whatever you want, Rabal.
+[00:25:33.236 --> 00:25:34.276] SEROVA: I'll have no part of this.
+[00:25:35.316 --> 00:25:36.276] SEROVA: It's just another delay.
+[00:25:42.631 --> 00:25:45.111] LAFORGE: Captain, the engines are back online.
+[00:25:45.111 --> 00:25:45.751] LAFORGE: All systems are ready.
+[00:25:45.991 --> 00:25:46.231] PICARD: Very good.
+[00:25:46.631 --> 00:25:48.071] PICARD: Helm, lay in a course for the Fleming.
+[00:25:48.391 --> 00:25:48.791] HELM: Aye, sir.
+[00:25:49.271 --> 00:25:50.471] RIKER: They appear to be in pretty good condition.
+[00:25:50.471 --> 00:25:52.311] RIKER: According to our sensors their shields back to full strength.
+[00:25:53.031 --> 00:25:55.191] WORF: Captain, the Hekaran ship is moving off.
+[00:25:59.751 --> 00:26:01.031] WORF: There is one person on board.
+[00:26:02.871 --> 00:26:03.431] WORF: It is Serova.
+[00:26:03.831 --> 00:26:06.071] PICARD: Doctor, what is going on?
+[00:26:06.071 --> 00:26:06.551] RABAL: I don't know.
+[00:26:08.471 --> 00:26:09.431] RABAL: Captain, may I speak to her?
+[00:26:10.151 --> 00:26:11.111] PICARD: Mister Worf, open a channel.
+[00:26:12.631 --> 00:26:14.311] RABAL: Serova, what are you trying to do?
+[00:26:15.191 --> 00:26:15.831] SEROVA: They wanted proof.
+[00:26:16.711 --> 00:26:17.591] SEROVA: I'm going to give it to them.
+[00:26:19.751 --> 00:26:20.311] SEROVA: I'm sorry.
+[00:26:24.711 --> 00:26:28.231] DATA: Captain, the Hekaran ship's engines are beginning to overload.
+[00:26:29.191 --> 00:26:31.831] DATA: I believe Serova's attempting to create a warp core breach.
+[00:26:33.751 --> 00:26:34.071] RABAL: No!
+[00:26:35.431 --> 00:26:35.991] RIKER: Prepare for
+[00:26:37.511 --> 00:26:39.511] RIKER: impact.
+[00:26:40.471 --> 00:26:41.271] RIKER: Shields at maximum.
+[00:26:41.271 --> 00:26:41.671] RIKER: Full reverse.
+[00:26:45.031 --> 00:26:45.031] PICARD: Report!
+[00:26:45.591 --> 00:26:46.631] DATA: We have cleared the shock wave.
+[00:26:47.111 --> 00:26:49.831] DATA: However, tetryon flux in the area is increasing rapidly.
+[00:26:49.831 --> 00:26:49.831] RIKER: It's
+[00:27:02.951 --> 00:27:04.951] RIKER: incredible.
+[00:27:04.951 --> 00:27:06.391] PICARD: Mister Data, what's your analysis?
+[00:27:07.031 --> 00:27:11.191] DATA: The event is approximately zero point one light years in diameter, and it is emitting
+[00:27:11.421 --> 00:27:13.661] DATA: extremely high levels of tetryon radiation.
+[00:27:14.701 --> 00:27:18.141] DATA: It appears to be what Rabal and Serova predicted, a subspace rift.
+[00:27:19.581 --> 00:27:20.301] LAFORGE: She was right.
+[00:27:20.861 --> 00:27:21.901] PICARD: Can you get a fix on the Fleming?
+[00:27:22.461 --> 00:27:23.341] PICARD: Is she still in one piece?
+[00:27:23.901 --> 00:27:24.381] DATA: Scanning.
+[00:27:25.261 --> 00:27:27.421] DATA: The Fleming is near its previous coordinates.
+[00:27:27.901 --> 00:27:30.621] DATA: It appears to be intact, but it is now within the rift.
+[00:27:31.421 --> 00:27:36.301] PICARD: Doctor, is it possible for a ship to survive in there?
+[00:27:36.301 --> 00:27:37.661] PICARD: Doctor. I'm sorry about your loss but
+[00:27:37.821 --> 00:27:39.261] PICARD: we need your help now.
+[00:27:41.261 --> 00:27:41.661] RABAL: Of course, Captain.
+[00:27:43.021 --> 00:27:45.101] PICARD: Does the rift pose any danger to the Fleming?
+[00:27:45.901 --> 00:27:46.461] RABAL: I don't know.
+[00:27:51.021 --> 00:27:51.421] RIKER: What was that?
+[00:27:53.101 --> 00:27:54.861] LAFORGE: Some kind of high energy distortion wave.
+[00:27:54.861 --> 00:27:56.701] LAFORGE: Looks like they're being generated from within the rift.
+[00:27:57.101 --> 00:28:00.541] DATA: IF we maintain our current position, our shields should provide sufficient protection.
+[00:28:00.861 --> 00:28:01.501] PICARD: What about the Fleming?
+[00:28:01.501 --> 00:28:02.701] PICARD: How long can they survive in there?
+[00:28:03.261 --> 00:28:05.181] DATA: The waves are even more intense within the rift.
+[00:28:06.141 --> 00:28:08.941] DATA: I estimate her shields will fail in approximately twelve hours.
+[00:28:10.781 --> 00:28:11.901] RIKER: Can we risk going in there to get them out?
+[00:28:12.221 --> 00:28:13.021] LAFORGE: Not at warp, Commander.
+[00:28:13.341 --> 00:28:18.381] LAFORGE: According to these readings, the rift is in a state of accelerating instability which would make it extremely sensitive to warp field energy.
+[00:28:18.701 --> 00:28:20.941] LAFORGE: If we go in at warp, we might make it expand even further.
+[00:28:21.741 --> 00:28:23.501] RIKER: I don't think we have a choice.
+[00:28:23.501 --> 00:28:25.341] RIKER: It would take weeks to reach them at impulse.
+[00:28:25.981 --> 00:28:27.101] PICARD: I want some better options.
+[00:28:27.421 --> 00:28:30.541] PICARD: Data, Geordi, take Doctor Rabal and begin an analysis of the rift.
+[00:28:33.981 --> 00:28:35.741] PICARD: We need to find some way to get the Fleming out of there.
+[00:28:38.035 --> 00:28:42.035] LOG: Second Officer's log, stardate 47312.1.
+[00:28:42.915 --> 00:28:46.035] LOG: Our new sensor readings have greatly improved our understanding of the rift.
+[00:28:46.675 --> 00:28:51.315] LOG: However, we have been unable to find any way to counteract it.
+[00:28:51.315 --> 00:28:53.075] LAFORGE: Everything here supports Serova's theories.
+[00:28:53.235 --> 00:28:56.595] LAFORGE: I can't find any way to close the rift or even reduce its size.
+[00:28:59.155 --> 00:29:05.715] DATA: Doctor, is it possible there are areas inside the rift which are stable, where we can safely use our warp engines?
+[00:29:07.715 --> 00:29:08.515] RABAL: Perhaps.
+[00:29:09.635 --> 00:29:14.515] RABAL: Computer, scan the rift for regions of low instability.
+[00:29:14.675 --> 00:29:17.075] RABAL: There's no area stable enough to withstand a warp pulse.
+[00:29:17.475 --> 00:29:18.115] LAFORGE: Wait a minute.
+[00:29:18.355 --> 00:29:19.235] LAFORGE: This is strange.
+[00:29:20.675 --> 00:29:22.995] LAFORGE: Computer, display grid delta seventeen.
+[00:29:22.995 --> 00:29:25.955] LAFORGE: Enhance and magnify.
+[00:29:28.435 --> 00:29:30.435] LAFORGE: What do you make of that?
+[00:29:31.635 --> 00:29:35.075] RABAL: It's a subspace instability outside the rift.
+[00:29:35.635 --> 00:29:36.755] DATA: That should not be possible.
+[00:29:37.155 --> 00:29:39.475] RABAL: Commander, I'm going to begin a field enhanced scan of this sector.
+[00:29:40.915 --> 00:29:42.515] RABAL: I'd like to take a closer look at this.
+[00:29:43.635 --> 00:29:46.275] LAFORGE: In the meantime, we'd better tell the Captain we don't know how to get to the Fleming.
+[00:29:46.755 --> 00:29:48.035] DATA: I am not certain that is true.
+[00:29:49.635 --> 00:29:50.675] DATA: I believe I have an idea.
+[00:29:54.115 --> 00:29:58.035] DATA: I suggest we coast into the rift.
+[00:29:58.035 --> 00:29:58.995] RIKER: Coast?
+[00:29:59.715 --> 00:30:03.395] DATA: We can initiate a brief, high intensity warp pulse from our current position.
+[00:30:04.142 --> 00:30:11.662] DATA: We should be able to attain sufficient velocity to enter the rift, beam the crew off the Fleming and exit without using our warp engines.
+[00:30:11.982 --> 00:30:14.622] RIKER: All right, let's say we initiate a full power warp pulse.
+[00:30:15.342 --> 00:30:16.862] RIKER: How much time do we need to drop out of warp?
+[00:30:17.902 --> 00:30:22.942] DATA: If we field saturate the nacelles, we should be able to sustain warp speed for approximately two minutes.
+[00:30:23.902 --> 00:30:26.862] RIKER: That doesn't give us much time, and it could get pretty rough in there.
+[00:30:27.982 --> 00:30:28.862] DATA: The timing will be critical.
+[00:30:29.822 --> 00:30:31.262] PICARD: Begin your calculations, Mister Data.
+[00:30:31.342 --> 00:30:32.302] PICARD: We'll go as soon as you're ready.
+[00:30:32.462 --> 00:30:32.702] DATA: Aye,
+[00:30:36.062 --> 00:30:36.142] DATA: sir.
+[00:30:37.742 --> 00:30:43.262] DATA: I believe the maximum saturation level should be eighteen point three percent.
+[00:30:44.062 --> 00:30:44.382] LAFORGE: All right.
+[00:30:45.342 --> 00:30:49.902] LAFORGE: With these parameters, we should be able to maintain warp speed for two minutes eight seconds.
+[00:30:50.542 --> 00:30:52.142] LAFORGE: I don't think we can get any more than that.
+[00:30:52.142 --> 00:30:52.542] DATA: I agree.
+[00:30:53.262 --> 00:30:57.342] DATA: But based on the size of the rift, it should give us sufficient time to complete the rescue.
+[00:30:58.062 --> 00:31:01.742] DATA: Computer, initiate nacelle field saturation.
+[00:31:03.182 --> 00:31:03.822] LAFORGE: How did we miss it, Data?
+[00:31:05.022 --> 00:31:05.662] DATA: I beg your pardon?
+[00:31:07.662 --> 00:31:11.422] LAFORGE: How did we miss the connection between warp drive and the formation of the rift?
+[00:31:12.622 --> 00:31:15.262] LAFORGE: Between the two of us we've logged thousands of hours on these engines.
+[00:31:15.262 --> 00:31:17.422] LAFORGE: We're supposed to be warp field experts.
+[00:31:17.572 --> 00:31:18.172] LAFORGE: We
+[00:31:18.942 --> 00:31:20.462] LAFORGE: certainly were wrong this time.
+[00:31:20.462 --> 00:31:22.702] DATA: Technically, Geordi, we were not wrong.
+[00:31:23.662 --> 00:31:26.942] DATA: Serova's theories rested on assumptions which were unprovable.
+[00:31:27.422 --> 00:31:30.959] LAFORGE: Seems to me she managed to prove them pretty conclusively.
+[00:31:30.959 --> 00:31:34.142] DATA: By using methods any reputable scientist would never employ.
+[00:31:34.382 --> 00:31:34.702] LAFORGE: Yeah,
+[00:31:36.302 --> 00:31:37.742] LAFORGE: she was willing to die to make her
+[00:31:37.820 --> 00:31:38.300] LAFORGE: point.
+[00:31:38.450 --> 00:31:39.050] LAFORGE: We
+[00:31:40.700 --> 00:31:42.380] LAFORGE: should have listened to her more closely, Data.
+[00:31:44.700 --> 00:31:52.540] DATA: We reviewed Serova's research to the best of our abilities, and we were prepared to continue studying the problem. But that was not satisfactory.
+[00:31:52.540 --> 00:31:57.340] LAFORGE: Yeah, I can remember times when I was a little stubborn, trying to get people to believe me when I didn't have enough proof.
+[00:31:57.820 --> 00:32:01.093] DATA: I do not believe that you would have resorted to such extremes.
+[00:32:01.093 --> 00:32:03.820] LAFORGE: But she had to, just to get us to listen.
+[00:32:07.180 --> 00:32:08.780] LAFORGE: Why was I so resistant?
+[00:32:10.060 --> 00:32:13.580] DATA: Perhaps because her aggressive methods created an adversarial situation.
+[00:32:15.180 --> 00:32:15.660] LAFORGE: Yeah.
+[00:32:17.420 --> 00:32:20.780] LAFORGE: Maybe I was taking the whole thing personally.
+[00:32:23.100 --> 00:32:24.060] DATA: I do not understand.
+[00:32:27.340 --> 00:32:27.900] LAFORGE: Maybe
+[00:32:29.420 --> 00:32:30.460] LAFORGE: I was a little threatened.
+[00:32:31.260 --> 00:32:33.900] LAFORGE: The thought that warp engines might be doing some kind of damage.
+[00:32:40.380 --> 00:32:43.100] LAFORGE: It's going to take another half an hour for the nacelles to saturate.
+[00:32:44.380 --> 00:32:47.260] LAFORGE: Will you call me when they're done?
+[00:32:47.260 --> 00:32:47.260] RABAL: Commander.
+[00:33:13.243 --> 00:33:13.803] LAFORGE: May I join you?
+[00:33:23.563 --> 00:33:25.403] LAFORGE: I wanted to say I'm sorry about your sister.
+[00:33:27.883 --> 00:33:28.203] RABAL: Thank you.
+[00:33:31.003 --> 00:33:33.803] RABAL: I'm trying to tell myself that she died for what she believed in,
+[00:33:35.963 --> 00:33:37.643] RABAL: but somehow that isn't much comfort.
+[00:33:38.683 --> 00:33:40.283] LAFORGE: I wish it could have happened differently.
+[00:33:41.643 --> 00:33:43.963] LAFORGE: Maybe I should have looked at the research more closely.
+[00:33:43.963 --> 00:33:46.123] LAFORGE: It's possible there's something that I missed.
+[00:33:46.683 --> 00:33:48.603] RABAL: No. You didn't miss anything.
+[00:33:49.803 --> 00:33:50.923] RABAL: The problem was time.
+[00:33:51.883 --> 00:33:53.963] RABAL: We needed more time to do the proper research.
+[00:33:56.123 --> 00:33:57.403] RABAL: Serova wasn't willing to wait.
+[00:33:58.443 --> 00:33:58.443] LAFORGE: No.
+[00:34:00.443 --> 00:34:02.683] LAFORGE: I guess the question is now, where do we go from here?
+[00:34:05.483 --> 00:34:08.203] RABAL: I don't think we can look at space travel the same way anymore.
+[00:34:09.083 --> 00:34:10.523] RABAL: We're going to have to change.
+[00:34:11.083 --> 00:34:12.843] LAFORGE: I've been in Starfleet for a long time.
+[00:34:13.563 --> 00:34:16.123] LAFORGE: We depend on warp drive.
+[00:34:17.563 --> 00:34:19.483] LAFORGE: I just don't know how easy it's going to be to change.
+[00:34:22.683 --> 00:34:23.883] RABAL: It won't be easy at all.
+[00:34:29.403 --> 00:34:31.643] DATA: Captain, warp pulse calculations are complete.
+[00:34:32.043 --> 00:34:36.443] DATA: We will be firing the engines at maximum intensity for six point three seconds before disengaging.
+[00:34:36.923 --> 00:34:39.403] WORF: Damage control teams are standing by on all decks.
+[00:34:39.643 --> 00:34:40.363] RIKER: The course to the Fleming is
+[00:34:40.501 --> 00:34:41.851] RIKER: plotted and laid in, sir.
+[00:34:41.851 --> 00:34:42.661] PICARD: Mister La Forge,
+[00:34:44.421 --> 00:34:45.061] PICARD: whenever you're ready.
+[00:34:46.101 --> 00:34:46.581] LAFORGE: Aye, sir.
+[00:34:47.381 --> 00:34:50.101] LAFORGE: Initiating warp pulse now.
+[00:34:56.021 --> 00:34:57.221] DATA: Engines disengaged.
+[00:34:58.181 --> 00:34:59.221] DATA: We are now entering the rift.
+[00:35:01.781 --> 00:35:02.821] DATA: Hull stress is increasing.
+[00:35:03.461 --> 00:35:05.861] DATA: Eighty three percent of maximum tolerance and rising.
+[00:35:06.181 --> 00:35:07.461] PICARD: How long until we reach the Fleming?
+[00:35:08.421 --> 00:35:09.621] WORF: One minute twenty two seconds.
+[00:35:09.861 --> 00:35:11.644] RIKER: All transporter rooms are standing by.
+[00:35:11.644 --> 00:35:11.941] WORF: Captain,
+[00:35:12.661 --> 00:35:14.661] WORF: I am picking up power emissions from the Fleming.
+[00:35:15.621 --> 00:35:17.621] WORF: They may be attempting to initiate their warp drive.
+[00:35:18.901 --> 00:35:21.277] RIKER: They might have been able to repair their engines.
+[00:35:21.277 --> 00:35:21.541] DATA: Captain,
+[00:35:21.941 --> 00:35:22.741] DATA: if they activate
+[00:35:22.741 --> 00:35:23.461] PICARD: I know, Mister Data.
+[00:35:23.941 --> 00:35:25.061] PICARD: Can we establish communication?
+[00:35:26.581 --> 00:35:26.821] WORF: No, sir.
+[00:35:27.141 --> 00:35:28.661] WORF: Subspace interference is too high.
+[00:35:29.061 --> 00:35:30.741] PICARD: How long until we reach transporter range?
+[00:35:31.221 --> 00:35:32.021] WORF: Fifty three seconds.
+[00:35:32.661 --> 00:35:34.154] RIKER: I don't think we're going to make it.
+[00:35:34.154 --> 00:35:34.341] WORF: Captain,
+[00:35:34.821 --> 00:35:36.101] WORF: they have initiated their warp drive.
+[00:35:39.541 --> 00:35:40.021] PICARD: Report.
+[00:35:40.021 --> 00:35:42.741] WORF: Damage on decks six and fourteen.
+[00:35:43.861 --> 00:35:45.461] WORF: Our structural integrity field is holding.
+[00:35:45.541 --> 00:35:46.181] RIKER: What about the Fleming?
+[00:35:46.501 --> 00:35:47.701] DATA: They are badly damaged, sir.
+[00:35:48.181 --> 00:35:49.621] DATA: Their life support systems are failing.
+[00:35:50.021 --> 00:35:52.981] RIKER: All transporter rooms, prepare emergency evacuation procedures.
+[00:35:53.941 --> 00:35:59.301] DATA: Captain, when the Fleming activated their warp drive, the rift expanded by two point three percent.
+[00:36:00.261 --> 00:36:02.181] DATA: We no longer have sufficient momentum to escape.
+[00:36:15.943 --> 00:36:18.823] DATA: Distortion wave intensity has increased by a factor of ten.
+[00:36:19.383 --> 00:36:21.383] WORF: We are within transporter range of the Fleming, sir.
+[00:36:21.783 --> 00:36:23.303] WORF: Commencing evacuation procedures.
+[00:36:26.663 --> 00:36:28.983] DATA: Distortion waves occurring every fifty nine seconds.
+[00:36:30.023 --> 00:36:32.343] DATA: Hull stress is nearing maximum tolerance.
+[00:36:32.583 --> 00:36:35.463] RIKER: Data, what if we forced an EPS discharge through the impulse reactor.
+[00:36:35.463 --> 00:36:36.503] RIKER: Would that be enough to get us out of here?
+[00:36:37.063 --> 00:36:38.023] DATA: I do not believe so, sir,
+[00:36:38.743 --> 00:36:42.103] DATA: and the resulting explosion would likely destroy the saucer section in the process.
+[00:36:42.183 --> 00:36:45.463] LAFORGE: Captain We might be able to get out of here without using the warp engines.
+[00:36:45.703 --> 00:36:46.103] RIKER: How, Geordi?
+[00:36:46.903 --> 00:36:48.743] LAFORGE: When was the last time you went surfing, Commander?
+[00:36:50.423 --> 00:36:51.383] PICARD: A distortion wave.
+[00:36:51.943 --> 00:36:52.823] LAFORGE: Exactly, Captain.
+[00:36:53.703 --> 00:36:59.463] LAFORGE: If can phase match our deflector shield To the EM variance of the distortion wave, when the next one hits we'll be pulled along with it.
+[00:37:00.823 --> 00:37:03.143] RIKER: We could ride it through the rift and then break away once we're clear.
+[00:37:03.463 --> 00:37:05.543] RIKER: That is, if we survive the ride.
+[00:37:06.263 --> 00:37:07.223] PICARD: Is everyone off the Fleming?
+[00:37:07.303 --> 00:37:09.623] WORF: The last of the crew has been beamed aboard, sir.
+[00:37:10.983 --> 00:37:11.863] PICARD: All right, Mister La Forge,
+[00:37:12.423 --> 00:37:13.063] PICARD: get us out of here.
+[00:37:14.103 --> 00:37:14.743] LAFORGE: Yes, sir.
+[00:37:15.303 --> 00:37:17.063] LAFORGE: Phase matching the deflectors shield now.
+[00:37:17.863 --> 00:37:20.503] DATA: The next distortion wave will impact in fourteen seconds.
+[00:37:20.743 --> 00:37:22.103] LAFORGE: Matching phases.
+[00:37:23.143 --> 00:37:24.903] LAFORGE: Prepare to engage the deflector shield
+[00:37:25.223 --> 00:37:26.023] LAFORGE: on my mark.
+[00:37:27.223 --> 00:37:27.943] DATA: Ten seconds.
+[00:37:29.783 --> 00:37:30.103] LAFORGE: And
+[00:37:31.623 --> 00:37:31.863] LAFORGE: mark.
+[00:37:32.343 --> 00:37:33.783] PICARD: Engage deflector shield. Full power.
+[00:37:39.943 --> 00:37:40.583] LAFORGE: We lost it.
+[00:37:41.223 --> 00:37:43.623] DATA: We were unable to maintain phase match with the distortion wave, sir.
+[00:37:43.943 --> 00:37:44.903] PICARD: What went wrong, Mister La Forge?
+[00:37:45.422 --> 00:37:47.342] LAFORGE: The speed differential was too high, Captain.
+[00:37:47.902 --> 00:37:49.262] DATA: Another distortion wave approaching.
+[00:37:50.062 --> 00:37:51.662] DATA: Impact in twenty six seconds.
+[00:37:51.982 --> 00:37:53.262] RIKER: Our hull stress is already critical.
+[00:37:53.262 --> 00:37:55.822] RIKER: We can't handle many more jolts like that.
+[00:37:55.822 --> 00:37:56.142] DATA: Captain,
+[00:37:56.942 --> 00:37:58.782] DATA: I suggest we take the ship to full impulse.
+[00:37:59.422 --> 00:38:02.302] DATA: If we can attain sufficient speed, it will lessen the shock when the wave hits.
+[00:38:02.622 --> 00:38:03.502] PICARD: Helm, full impulse.
+[00:38:03.662 --> 00:38:04.462] PICARD: Head us out of the rift.
+[00:38:04.782 --> 00:38:07.502] PICARD: Mister Worf, channel all available power to the structural integrity fields.
+[00:38:07.502 --> 00:38:07.822] WORF: Aye, sir.
+[00:38:08.542 --> 00:38:09.582] PICARD: Stand by deflector shield.
+[00:38:09.982 --> 00:38:10.622] LAFORGE: We're ready, Captain.
+[00:38:11.262 --> 00:38:13.262] DATA: Distortion wave impact in five seconds.
+[00:38:13.742 --> 00:38:14.782] PICARD: Engage deflector shield,
+[00:38:15.662 --> 00:38:15.902] PICARD: now.
+[00:38:18.622 --> 00:38:21.902] DATA: We are now within the distortion wave.
+[00:38:22.542 --> 00:38:24.942] DATA: Hull stresses have exceeded maximum tolerance.
+[00:38:25.902 --> 00:38:28.702] WORF: Structural integrity fields are failing on decks ten through sixteen.
+[00:38:28.702 --> 00:38:30.382] WORF: Switching to backups.
+[00:38:30.542 --> 00:38:32.222] LAFORGE: We're separating from the distortion wave.
+[00:38:33.182 --> 00:38:34.382] LAFORGE: I'm attempting to compensate.
+[00:38:34.942 --> 00:38:36.222] PICARD: How much longer until we clear the rift?
+[00:38:36.782 --> 00:38:38.142] DATA: Approximately twelve seconds, sir.
+[00:38:38.462 --> 00:38:41.102] DATA: Hull stresses one hundred twenty percent above tolerance.
+[00:38:41.102 --> 00:38:42.862] WORF: A structural breach is imminent.
+[00:38:44.782 --> 00:38:44.862] DATA: We
+[00:38:52.062 --> 00:38:52.942] DATA: have cleared the rift, sir.
+[00:38:54.862 --> 00:38:56.222] DATA: Hull stress has returned to normal.
+[00:38:57.102 --> 00:38:57.822] PICARD: Cancel red alert.
+[00:38:59.982 --> 00:39:02.942] LOG: Captain's log, stardate 47314.5.
+[00:39:03.422 --> 00:39:09.662] LOG: We have been continuing our research, while the Federation Council studies our preliminary reports on the subspace rift.
+[00:39:10.302 --> 00:39:15.262] LOG: It now appears certain that what we've seen here will have repercussions for many years to come.
+[00:39:16.942 --> 00:39:19.742] LAFORGE: Our scans have shown a lot of subspace instabilities throughout the sector.
+[00:39:20.374 --> 00:39:23.894] LAFORGE: If they're exposed to enough warp energies, they could eventually create other rifts.
+[00:39:24.854 --> 00:39:25.465] PICARD: Doctor Rabal?
+[00:39:25.465 --> 00:39:33.414] RABAL: Based on current warp drive patterns in the sector, we've projected where subspace rifts will be most likely to be formed over the next forty years.
+[00:39:34.454 --> 00:39:35.734] RABAL: This is the way things are now.
+[00:39:37.494 --> 00:39:39.414] RABAL: This is how they'll look in ten years.
+[00:39:41.654 --> 00:39:42.534] RABAL: Twenty years.
+[00:39:44.854 --> 00:39:45.654] RABAL: Thirty years.
+[00:39:48.854 --> 00:39:49.734] RABAL: Forty years.
+[00:39:50.454 --> 00:39:52.854] PICARD: Thank you, Doctor,
+[00:39:54.054 --> 00:39:54.534] PICARD: Mister La Forge.
+[00:39:58.214 --> 00:39:58.454] PICARD: Ah.
+[00:40:00.214 --> 00:40:03.174] PICARD: We've received new directives from the Federation Council on this matter.
+[00:40:04.214 --> 00:40:10.294] PICARD: Until we can find a way to counteract the warp field effect, the Council feels our best course is to slow the damage as much as possible.
+[00:40:10.694 --> 00:40:18.614] PICARD: Therefore, areas of space found susceptible to warp fields will be restricted to essential travel only, and effective immediately all Federation vessels will be limited to a speed
+[00:40:20.934 --> 00:40:24.854] PICARD: of warp five, except in cases of extreme emergency.
+[00:40:25.494 --> 00:40:28.854] WORF: The Klingons will observe these restrictions, but the Romulans will not.
+[00:40:29.494 --> 00:40:32.534] TROI: And what about the Ferengi? And the Cardassians, for that matter?
+[00:40:32.534 --> 00:40:35.974] PICARD: The Federation's sharing all our data with warp-capable species.
+[00:40:36.534 --> 00:40:40.614] PICARD: We can only hope that they realise it's in their own interests and take similar action.
+[00:40:41.014 --> 00:40:44.694] CRUSHER: Putting limits on warp speed is only going to prevent other rifts from forming.
+[00:40:44.774 --> 00:40:46.134] CRUSHER: What are we going to do about this one?
+[00:40:46.283 --> 00:40:48.123] LAFORGE: Unfortunately, right now there's not much we can do.
+[00:40:48.523 --> 00:40:51.563] RABAL: The gravitational shifts have already begun to affect my planet's orbit.
+[00:40:52.123 --> 00:40:53.243] RABAL: Our climate is changing.
+[00:40:53.643 --> 00:40:56.523] PICARD: The Federation is setting up a weather control matrix on Hekaras Two.
+[00:40:56.523 --> 00:40:59.163] PICARD: It's only a temporary solution, but it should suffice for now.
+[00:40:59.803 --> 00:41:04.523] RIKER: We're lucky the rift took place as far away from the planet as it did. It gives us some time to consider our options.
+[00:41:05.163 --> 00:41:06.683] PICARD: If there are no more questions, you're all dismissed.
+[00:41:21.723 --> 00:41:24.763] LAFORGE: We should have those thermal stabilisers ready for the Hekarans in another day, sir.
+[00:41:25.243 --> 00:41:25.563] PICARD: Very well.
+[00:41:26.443 --> 00:41:30.603] PICARD: You know, Geordi, I spent the better part of my life exploring space.
+[00:41:30.923 --> 00:41:32.363] PICARD: I've charted new worlds,
+[00:41:32.363 --> 00:41:35.883] PICARD: I've met dozens of new species.
+[00:41:37.403 --> 00:41:40.843] PICARD: And I believe that these were all valuable ends in themselves.
+[00:41:41.003 --> 00:41:46.363] PICARD: Now it seems that all this while, I was
+[00:41:47.883 --> 00:41:50.123] PICARD: helping to damage the thing that I hold most dear.
+[00:41:51.003 --> 00:41:52.203] LAFORGE: It's won't turn out that way, Captain.
+[00:41:53.643 --> 00:41:54.763] LAFORGE: We still have time to make it better.
+[00:41:55.000 --> 00:42:05.000] [music]
+[00:42:15.000 --> 00:42:24.000] [music]
+[00:42:26.000 --> 00:42:34.000] [music]
+[00:42:43.000 --> 00:42:52.000] [music]
+[00:42:57.000 --> 00:43:10.992] [music]

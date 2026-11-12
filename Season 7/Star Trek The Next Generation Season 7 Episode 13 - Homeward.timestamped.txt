@@ -1,0 +1,651 @@
+[00:00:02.560 --> 00:00:05.520] LOG: Captain's log, stardate 47423.9.
+[00:00:06.000 --> 00:00:12.080] LOG: We have arrived at Boraal Two in response to an emergency distress call from Lieutenant Worf's foster brother, Nikolai Rozhenko.
+[00:00:12.480 --> 00:00:14.960] LOG: He has been stationed on the planet as a cultural observer.
+[00:00:16.400 --> 00:00:17.360] PICARD: Analysis. Mister Data.
+[00:00:17.360 --> 00:00:20.480] DATA: The planet's atmosphere is dissipating, sir.
+[00:00:20.960 --> 00:00:23.440] DATA: Intense plasmonic reactions are destroying it.
+[00:00:23.760 --> 00:00:25.440] DATA: The stratosphere is already breaking down.
+[00:00:26.320 --> 00:00:29.200] DATA: There are turbulent radiation storms across much of its surface.
+[00:00:30.080 --> 00:00:33.440] DATA: I estimate that the planet will be uninhabitable in less than thirty eight hours.
+[00:00:34.400 --> 00:00:36.160] RIKER: The distress call came in only four days ago.
+[00:00:37.120 --> 00:00:40.240] RIKER: Why would Doctor Rozhenko have waited so long before sending it?
+[00:00:40.480 --> 00:00:43.840] DATA: Atmospheric dissipation is a rare and essentially unpredictable event.
+[00:00:44.000 --> 00:00:45.680] DATA: When it occurs, it proceeds rapidly.
+[00:00:46.080 --> 00:00:48.160] DATA: Doctor Rozhenko may not have had sufficient warning.
+[00:00:50.480 --> 00:00:50.960] PICARD: What was that?
+[00:00:52.000 --> 00:00:54.960] DATA: The dissipation effect is generating plasmonic energy bursts.
+[00:00:54.960 --> 00:00:56.320] RIKER: Is there any danger to the ship?
+[00:00:56.320 --> 00:00:57.760] DATA: I do not believe so.
+[00:00:58.320 --> 00:01:02.640] DATA: However, we may experience intermittent system failures and power surges as a result.
+[00:01:03.520 --> 00:01:05.600] PICARD: Keep an eye on it. Mister Worf,
+[00:01:06.000 --> 00:01:06.480] PICARD: any luck?
+[00:01:07.520 --> 00:01:09.680] WORF: There is still no response to our hails, sir.
+[00:01:10.240 --> 00:01:12.480] WORF: I am attempting to scan the observation post.
+[00:01:12.960 --> 00:01:13.680] RIKER: He could be hurt.
+[00:01:13.840 --> 00:01:14.960] RIKER: Maybe he can't respond.
+[00:01:15.440 --> 00:01:18.800] WORF: Sensor interference is significant, but the post appears to be intact.
+[00:01:19.600 --> 00:01:21.600] WORF: Their power grid is still functioning.
+[00:01:22.320 --> 00:01:25.680] WORF: However, I am reading no life forms within the structure.
+[00:01:27.200 --> 00:01:29.673] RIKER: It's not like him to the post.
+[00:01:29.673 --> 00:01:31.087] PICARD: Especially under these circumstances.
+[00:01:31.087 --> 00:01:31.440] WORF: Captain,
+[00:01:32.160 --> 00:01:35.440] WORF: I am detecting faint power emissions from a system of caverns near the post.
+[00:01:36.240 --> 00:01:37.200] WORF: It could be a deflector shield.
+[00:01:37.200 --> 00:01:38.880] RIKER: That can't be native to the planet.
+[00:01:39.840 --> 00:01:42.240] RIKER: The Boraalans don't have anything close to that level of technology.
+[00:01:42.320 --> 00:01:44.800] WORF: Captain, request permission to lead an away team.
+[00:01:47.760 --> 00:01:48.240] PICARD: Very well.
+[00:01:49.280 --> 00:01:53.280] PICARD: But regardless of this planet's immediate situation, we must observe the Prime Directive.
+[00:01:54.320 --> 00:01:58.320] PICARD: I want to minimise the risk of contact with the inhabitants.
+[00:01:58.320 --> 00:02:03.040] PICARD: You will go alone, Mister Worf, and I want to have you surgically altered so that you could pass as a Boraalan.
+[00:02:03.920 --> 00:02:06.160] WORF: Aye, sir.
+[00:02:12.320 --> 00:02:13.680] CRUSHER: You're worried about Nikolai, aren't you?
+[00:02:16.240 --> 00:02:16.640] WORF: Yes.
+[00:02:18.640 --> 00:02:19.440] CRUSHER: Are the two of you close?
+[00:02:21.760 --> 00:02:22.480] WORF: We are brothers.
+[00:02:23.200 --> 00:02:25.680] CRUSHER: You never talk much about him.
+[00:02:25.680 --> 00:02:26.320] CRUSHER: What's he like?
+[00:02:28.160 --> 00:02:32.080] WORF: Nikolai is older than I. We are not alike.
+[00:02:33.040 --> 00:02:34.960] WORF: We had many disagreements when we were growing up.
+[00:02:36.400 --> 00:02:37.440] CRUSHER: That's not unusual.
+[00:02:39.440 --> 00:02:40.800] WORF: Nikolai has a mind of his own.
+[00:02:42.560 --> 00:02:47.440] WORF: He attended Starfleet Academy, but he was unable to follow the rules.
+[00:02:48.400 --> 00:02:49.520] WORF: He left after one year.
+[00:02:52.560 --> 00:02:54.000] WORF: But he has many fine qualities.
+[00:02:54.000 --> 00:02:57.040] WORF: He is brilliant, persuasive.
+[00:02:57.190 --> 00:02:57.790] WORF: A
+[00:02:58.570 --> 00:02:59.210] WORF: natural leader.
+[00:03:00.090 --> 00:03:00.970] CRUSHER: Sounds intriguing.
+[00:03:01.770 --> 00:03:02.810] CRUSHER: I look forward to meeting him.
+[00:03:25.530 --> 00:03:26.250] VORIN: What are you doing here?
+[00:03:30.330 --> 00:03:31.290] VORIN: You're not from our village.
+[00:03:31.930 --> 00:03:32.330] VORIN: Who are you?
+[00:03:35.210 --> 00:03:35.770] KATERAS: Who is this?
+[00:03:39.290 --> 00:03:39.930] WORF: My name is Worf.
+[00:03:41.130 --> 00:03:41.850] WORF: I am a traveller.
+[00:03:42.730 --> 00:03:44.090] VORIN: How did you survive the storms?
+[00:03:44.490 --> 00:03:45.770] NIKOLAI: I would know that voice anywhere.
+[00:03:46.410 --> 00:03:48.330] NIKOLAI: Worf, is it really you?
+[00:03:52.330 --> 00:03:52.970] NIKOLAI: It's good to see you.
+[00:03:54.730 --> 00:03:56.170] NIKOLAI: You've changed a lot in four years.
+[00:03:58.250 --> 00:03:58.730] WORF: Nikolai?
+[00:03:59.210 --> 00:03:59.690] NIKOLAI: Yes.
+[00:03:59.850 --> 00:04:01.770] NIKOLAI: Oh, Worf.
+[00:04:03.210 --> 00:04:04.090] NIKOLAI: This is my brother, Worf.
+[00:04:04.090 --> 00:04:04.810] NIKOLAI: He's come to help us.
+[00:04:37.553 --> 00:04:40.273] PICARD: Space, the final frontier.
+[00:04:42.113 --> 00:04:44.993] PICARD: These are the voyages of the starship Enterprise.
+[00:04:46.113 --> 00:04:54.113] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:55.793 --> 00:04:58.673] PICARD: to boldly go where no one has gone before.
+[00:05:27.000 --> 00:05:42.000] [music]
+[00:05:55.135 --> 00:05:58.175] VORIN: But if you were able to get here, the storms must have subsided.
+[00:05:58.255 --> 00:05:58.488] WORF: Please.
+[00:05:58.488 --> 00:06:01.055] VORIN: Do you think it's safe enough to return to the surface?
+[00:06:01.055 --> 00:06:02.975] WORF: Please, I must speak to my brother.
+[00:06:08.335 --> 00:06:08.975] WORF: Nikolai,
+[00:06:09.535 --> 00:06:10.415] WORF: what have you done?
+[00:06:11.055 --> 00:06:11.535] NIKOLAI: They were dying.
+[00:06:12.415 --> 00:06:15.695] NIKOLAI: I refused to sit there safe in that observation post and watch it happen.
+[00:06:16.335 --> 00:06:20.095] NIKOLAI: I set up a deflector shield to screen these caves from the radiation and then I brought them here.
+[00:06:21.695 --> 00:06:22.415] WORF: What did you tell them?
+[00:06:22.735 --> 00:06:23.135] NIKOLAI: They think I'm a Boraalan.
+[00:06:23.295 --> 00:06:25.855] NIKOLAI: I told them I was from another village far from here.
+[00:06:25.935 --> 00:06:27.215] WORF: At least you had that much sense.
+[00:06:28.095 --> 00:06:32.495] NIKOLAI: When I sent the distress call I knew the Enterprise was in this sector, but I wasn't sure you'd be the one to come.
+[00:06:32.895 --> 00:06:34.575] NIKOLAI: I'm so glad that you're here, Worf.
+[00:06:34.575 --> 00:06:34.815] WORF: Nikolai,
+[00:06:35.775 --> 00:06:37.935] WORF: there is nothing we can do for these people.
+[00:06:40.575 --> 00:06:42.335] WORF: You have only postponed their deaths.
+[00:06:43.055 --> 00:06:44.655] NIKOLAI: I want to discuss that with your Captain.
+[00:06:45.055 --> 00:06:47.215] WORF: And I am certain he will want to speak with you.
+[00:06:48.735 --> 00:06:51.295] NIKOLAI: Friends, my brother and I must go back to the surface.
+[00:06:51.615 --> 00:06:53.615] NIKOLAI: He has provisions and will need help bringing them here.
+[00:06:54.655 --> 00:06:55.615] NIKOLAI: We'll return shortly.
+[00:06:55.935 --> 00:06:56.975] DOBARA: It's too dangerous.
+[00:06:57.215 --> 00:06:58.735] DOBARA: The storms can occur without warning.
+[00:06:58.735 --> 00:06:59.499] DOBARA: If you're caught in one.
+[00:06:59.499 --> 00:07:00.415] NIKOLAI: Don't worry. Worf is a seer.
+[00:07:00.415 --> 00:07:02.095] NIKOLAI: He understands the nature of the storms.
+[00:07:02.415 --> 00:07:03.615] NIKOLAI: He'll know when it's safe to travel.
+[00:07:05.775 --> 00:07:07.535] WORF: Yes, that is correct.
+[00:07:08.655 --> 00:07:10.735] KATERAS: Our seer died when the storms first came.
+[00:07:11.535 --> 00:07:13.535] KATERAS: We've been without his guidance for many weeks.
+[00:07:14.575 --> 00:07:15.295] VORIN: Let me go with you.
+[00:07:16.735 --> 00:07:18.575] VORIN: I know the terrain better than anyone and I can help.
+[00:07:19.055 --> 00:07:19.455] NIKOLAI: No, Vorin.
+[00:07:20.175 --> 00:07:21.215] NIKOLAI: Worf and I will be safe.
+[00:07:21.535 --> 00:07:22.495] NIKOLAI: We'll return shortly.
+[00:07:30.446 --> 00:07:34.926] PICARD: Doctor, you were fully aware that the atmospheric dissipation could not be stopped.
+[00:07:35.566 --> 00:07:37.886] PICARD: What did you hope to accomplish by assisting these people?
+[00:07:38.526 --> 00:07:39.886] NIKOLAI: I was trying to give them a future.
+[00:07:41.166 --> 00:07:44.286] NIKOLAI: What I propose is we create an atmospheric shield on the planet.
+[00:07:44.606 --> 00:07:47.806] NIKOLAI: We can camouflage the equipment just as was done with my observation post.
+[00:07:47.806 --> 00:07:48.926] NIKOLAI: No one will ever know it's there.
+[00:07:49.086 --> 00:07:50.206] RIKER: You can't be serious.
+[00:07:50.366 --> 00:07:50.926] NIKOLAI: Indeed I am.
+[00:07:51.806 --> 00:07:57.406] NIKOLAI: I realise it will only provide atmosphere for a limited area on the surface, but it will be enough to save one village.
+[00:07:57.806 --> 00:08:04.342] PICARD: I have no intention of compounding what you have done by committing another gross violation of the Prime Directive.
+[00:08:04.342 --> 00:08:04.686] NIKOLAI: Captain,
+[00:08:05.486 --> 00:08:09.486] NIKOLAI: the Boraalans have a rich and beautiful culture, a deep spiritual life.
+[00:08:09.806 --> 00:08:11.406] NIKOLAI: They deserve the chance to survive.
+[00:08:12.206 --> 00:08:17.806] NIKOLAI: And isn't that what the Prime Directive was truly intended to do, to allow cultures to survive and grow naturally?
+[00:08:18.206 --> 00:08:18.926] TROI: Not entirely.
+[00:08:19.406 --> 00:08:22.526] TROI: The Prime Directive was designed to ensure non-interference.
+[00:08:22.926 --> 00:08:25.006] CRUSHER: But aren't we interfering either way?
+[00:08:25.646 --> 00:08:28.926] CRUSHER: If we take no action, it's a conscious decision to let the Boraalans die.
+[00:08:29.166 --> 00:08:29.726] NIKOLAI: Exactly.
+[00:08:30.126 --> 00:08:32.047] NIKOLAI: We have the power to save some of them.
+[00:08:32.846 --> 00:08:34.126] NIKOLAI: All we have to do is exercise it.
+[00:08:34.846 --> 00:08:41.167] PICARD: We are sworn to uphold the principle of the Prime Directive, and until that is changed there is no further course of action that we can take.
+[00:08:41.326 --> 00:08:42.206] PICARD: Is that understood?
+[00:08:45.886 --> 00:08:46.446] NIKOLAI: Some of my
+[00:08:48.046 --> 00:08:49.166] NIKOLAI: log recorders are still
+[00:08:50.245 --> 00:08:52.645] NIKOLAI: in my observation post. They contain most of my research.
+[00:08:53.285 --> 00:08:58.005] NIKOLAI: Since it appears that the only way I'm going to preserve Boraalan culture is in a museum,
+[00:09:01.045 --> 00:09:03.845] NIKOLAI: I request permission to return to the surface and retrieve them.
+[00:09:04.405 --> 00:09:05.605] PICARD: I'm afraid that won't be possible.
+[00:09:07.445 --> 00:09:12.245] PICARD: But you can have full use of the ship's computer to set up a comm. link and upload your data from here.
+[00:09:14.085 --> 00:09:15.445] PICARD: If there's nothing further, you're dismissed.
+[00:09:26.165 --> 00:09:28.885] WORF: I'm sorry, Nikolai.
+[00:09:28.885 --> 00:09:30.005] WORF: I wish there were another way.
+[00:09:37.605 --> 00:09:40.085] WORF: I am quite familiar with your communications systems.
+[00:09:40.565 --> 00:09:42.405] WORF: If you like, I will help you set up your comm. link.
+[00:09:46.885 --> 00:09:47.525] NIKOLAI: I'll do it myself.
+[00:09:52.245 --> 00:09:56.565] DATA: Captain, atmospheric dissipation has accelerated over the past several hours.
+[00:09:57.445 --> 00:10:00.885] DATA: I estimate the planet's atmosphere will be completely gone within three minutes.
+[00:10:02.325 --> 00:10:04.805] NIKOLAI: Captain, I've completed my data uplink.
+[00:10:05.205 --> 00:10:09.205] NIKOLAI: With your permission, I would like to integrate my research logs with the ship's library computer.
+[00:10:10.325 --> 00:10:11.125] PICARD: Of course.
+[00:10:11.125 --> 00:10:12.725] DATA: The mesosphere is gone.
+[00:10:13.685 --> 00:10:15.445] DATA: Plasmonic reactions are now beginning to
+[00:10:15.462 --> 00:10:16.422] DATA: break down the troposphere.
+[00:10:17.702 --> 00:10:18.342] PICARD: Put it on screen.
+[00:10:27.462 --> 00:10:27.942] PICARD: What's going on?
+[00:10:28.582 --> 00:10:32.102] DATA: It appears the plasmonic reactions are continuing to interfere with our sensors.
+[00:10:32.502 --> 00:10:33.542] RIKER: I thought you had compensated for that.
+[00:10:34.022 --> 00:10:34.582] DATA: I had, sir.
+[00:10:35.782 --> 00:10:38.022] DATA: I will attempt to engage additional filtering elements.
+[00:10:41.062 --> 00:10:42.022] DATA: Visual re-established.
+[00:10:47.462 --> 00:10:59.622] PICARD: This is one of those times when we must face the ramifications of the Prime Directive and honour those lives which we cannot save.
+[00:11:00.822 --> 00:11:02.822] NIKOLAI: I find no honour in this whatsoever, Captain.
+[00:11:06.262 --> 00:11:07.462] NIKOLAI: You will forgive me if I don't stay.
+[00:11:29.222 --> 00:11:29.942] PICARD: You have the Bridge, Number One.
+[00:11:31.302 --> 00:11:33.942] RIKER: Helm, take us out of orbit.
+[00:11:34.742 --> 00:11:36.262] RIKER: Set a course for Starbase eighty seven,
+[00:11:36.662 --> 00:11:37.142] RIKER: warp five.
+[00:11:37.622 --> 00:11:38.022] GATES: Aye, sir.
+[00:11:40.422 --> 00:11:42.662] RIKER: What happened?
+[00:11:43.491 --> 00:11:46.691] DATA: There appears to be an unusual power drain in the EPS distribution net.
+[00:11:47.091 --> 00:11:47.651] RIKER: What's the source?
+[00:11:48.611 --> 00:11:49.091] DATA: Unknown, sir.
+[00:11:49.811 --> 00:11:51.011] DATA: It is difficult to localize.
+[00:11:51.411 --> 00:11:53.891] WORF: The power drain has registered on my security grid as well, sir.
+[00:11:54.611 --> 00:11:56.051] WORF: It appears to be coming from deck ten.
+[00:11:56.611 --> 00:11:57.251] RIKER: All right, Mister Worf,
+[00:11:57.971 --> 00:11:58.931] RIKER: get a security team on it.
+[00:12:03.011 --> 00:12:05.251] WORF: Concentrate your scans on the EPS transfer links.
+[00:12:19.011 --> 00:12:19.491] WORF: Computer,
+[00:12:21.331 --> 00:12:22.371] WORF: open holodeck five.
+[00:12:22.851 --> 00:12:23.891] COMPUTER: Unable to comply.
+[00:12:24.211 --> 00:12:25.811] COMPUTER: Holodeck five is in use.
+[00:12:26.211 --> 00:12:27.811] WORF: Override. Authorisation, Worf
+[00:12:27.971 --> 00:12:29.251] WORF: theta six one nine.
+[00:12:29.971 --> 00:12:31.011] COMPUTER: Unable to comply.
+[00:12:31.491 --> 00:12:33.971] COMPUTER: Holodeck control systems have been bypassed.
+[00:12:42.691 --> 00:12:45.651] NIKOLAI: Worf Come in.
+[00:12:55.011 --> 00:12:55.251] WORF: What are you
+[00:12:57.571 --> 00:12:58.131] WORF: doing here?
+[00:12:59.091 --> 00:13:00.211] NIKOLAI: I have to show you something.
+[00:13:01.011 --> 00:13:02.291] NIKOLAI: Whatever you do, stay quiet.
+[00:13:06.371 --> 00:13:06.611] NIKOLAI: Look.
+[00:13:18.247 --> 00:13:19.447] NIKOLAI: I've done what you refused to do.
+[00:13:20.007 --> 00:13:20.487] NIKOLAI: I've saved them.
+[00:13:27.607 --> 00:13:30.887] NIKOLAI: I started thinking about this days ago when it became clear the planet was doomed.
+[00:13:31.607 --> 00:13:35.607] NIKOLAI: I knew if I could get access to your ship's computer, I could generate a replica of the caves.
+[00:13:36.087 --> 00:13:40.247] NIKOLAI: The hard part was transporting the Boraalans into the holodeck without anybody on the Enterprise noticing.
+[00:13:40.887 --> 00:13:46.567] NIKOLAI: But I was able to blank out the sensors and make it look like interference from the plasmonic bursts. And it worked, perfectly.
+[00:13:47.767 --> 00:13:49.527] NIKOLAI: The Boraalans were transported while they were sleeping.
+[00:13:50.007 --> 00:13:51.207] NIKOLAI: They never knew anything had happened.
+[00:13:53.527 --> 00:13:53.927] WORF: Bridge.
+[00:13:55.687 --> 00:13:56.887] NIKOLAI: It's a simple plan, really.
+[00:13:56.887 --> 00:13:57.767] NIKOLAI: That's the beauty of it.
+[00:13:58.007 --> 00:13:58.727] NIKOLAI: Worf, trust me.
+[00:13:59.047 --> 00:13:59.847] NIKOLAI: This is going to work.
+[00:14:01.047 --> 00:14:01.607] WORF: Trust you?
+[00:14:03.287 --> 00:14:05.607] WORF: You never had any intention of obeying the Captain.
+[00:14:06.487 --> 00:14:11.207] NIKOLAI: I wasn't going to let those people die just because your Captain started quoting Federation dogma to me.
+[00:14:11.447 --> 00:14:15.447] WORF: Your duty was to respect the Captain's orders and to uphold the Prime Directive.
+[00:14:16.247 --> 00:14:16.567] NIKOLAI: Duty.
+[00:14:17.607 --> 00:14:18.887] NIKOLAI: That's all that really matters to you, isn't it?
+[00:14:19.687 --> 00:14:21.767] NIKOLAI: Well, I refuse to be bound by an abstraction.
+[00:14:22.087 --> 00:14:25.207] NIKOLAI: The lives of the people of Boraal are far more important to me.
+[00:14:26.327 --> 00:14:27.287] NIKOLAI: You worry too much, Worf.
+[00:14:27.527 --> 00:14:28.247] NIKOLAI: You always did.
+[00:14:28.807 --> 00:14:29.847] NIKOLAI: Everything will work out.
+[00:14:32.087 --> 00:14:35.607] WORF: You have disgraced yourself and you have disgraced me.
+[00:14:36.807 --> 00:14:37.847] WORF: I want nothing more to do with you.
+[00:14:43.047 --> 00:14:44.407] PICARD: You realise your career is finished.
+[00:14:44.887 --> 00:14:45.687] NIKOLAI: I know that, Captain,
+[00:14:45.767 --> 00:14:46.967] NIKOLAI: and I would do it all again.
+[00:14:47.047 --> 00:14:48.967] PICARD: What do you expect us to do now?
+[00:14:49.230 --> 00:14:53.070] PICARD: You have left us with a colony of Boraalans who think they're still on their planet.
+[00:14:53.550 --> 00:14:55.150] NIKOLAI: I didn't beam them up without a plan.
+[00:14:55.150 --> 00:14:56.350] NIKOLAI: I've given this a lot of thought.
+[00:14:56.910 --> 00:15:00.750] NIKOLAI: I think we can find a new planet, an M class world, that can be their new home.
+[00:15:00.750 --> 00:15:02.670] PICARD: A home which would look very different from Boraal.
+[00:15:03.150 --> 00:15:04.750] PICARD: You can't really believe that they'll be fooled.
+[00:15:05.230 --> 00:15:06.430] NIKOLAI: That's where the holodeck comes in.
+[00:15:07.150 --> 00:15:12.110] NIKOLAI: I'll go back and tell the Boraalans we're going on a journey, to a different place where they'll be safe from the storms.
+[00:15:12.590 --> 00:15:20.030] NIKOLAI: The holodeck can gradually change the terrain as we travel, so that at the end, the holodeck simulation will match the conditions on the new planet.
+[00:15:20.350 --> 00:15:21.710] NIKOLAI: Then we'll simply beam them down.
+[00:15:24.990 --> 00:15:25.870] PICARD: What if it doesn't work?
+[00:15:27.790 --> 00:15:31.090] PICARD: What if they become aware that something strange is going on?
+[00:15:31.090 --> 00:15:31.390] NIKOLAI: Captain,
+[00:15:31.710 --> 00:15:36.030] NIKOLAI: I can't prepare for every contingency, but I assure you I'm accustomed to thinking on my feet.
+[00:15:36.350 --> 00:15:38.350] NIKOLAI: I'll deal with the situation as it evolves.
+[00:15:42.510 --> 00:15:44.030] PICARD: I'm not enthusiastic about this plan,
+[00:15:46.030 --> 00:15:47.390] PICARD: but I don't see that we have another option.
+[00:15:49.470 --> 00:15:50.750] PICARD: Very well, let's give it a try.
+[00:15:52.190 --> 00:15:52.750] NIKOLAI: Thank you, Captain.
+[00:15:58.270 --> 00:16:01.790] CRUSHER: There are countless M class planets in Federation space which can support the Boraalans.
+[00:16:01.790 --> 00:16:03.230] CRUSHER: We need to narrow the parameters.
+[00:16:03.710 --> 00:16:07.230] DATA: It will take approximately nine and one half hours to complete the analysis.
+[00:16:07.550 --> 00:16:09.950] PICARD: Even then there's no guarantee that we'll find a suitable planet.
+[00:16:10.350 --> 00:16:11.150] DATA: That is correct, sir.
+[00:16:11.710 --> 00:16:13.950] LAFORGE: Captain, you'd better take a look at this.
+[00:16:14.590 --> 00:16:14.910] PICARD: What is it?
+[00:16:15.470 --> 00:16:16.350] LAFORGE: We've got a problem, sir.
+[00:16:17.230 --> 00:16:20.350] LAFORGE: I don't think it's going to be possible to keep this holodeck simulation stable.
+[00:16:20.769 --> 00:16:21.089] PICARD: Why not?
+[00:16:21.809 --> 00:16:24.929] LAFORGE: The plasmonic energy surges from the planet are affecting the ship's systems.
+[00:16:25.089 --> 00:16:28.529] LAFORGE: We're having problems with the EPS systems and the power distribution matrix.
+[00:16:28.689 --> 00:16:32.929] NIKOLAI: And as a result, the holodeck imaging processor has been severely destabilised.
+[00:16:33.169 --> 00:16:36.049] LAFORGE: It's not a question of whether the simulation will break down,
+[00:16:36.049 --> 00:16:37.089] LAFORGE: it's a question of when.
+[00:16:37.569 --> 00:16:38.289] PICARD: There's no way round it?
+[00:16:38.689 --> 00:16:39.649] LAFORGE: Not while it's running.
+[00:16:39.969 --> 00:16:43.649] LAFORGE: In order to fix it, I'd have to shut down all of the holodecks and re-initialise the entire system.
+[00:16:44.849 --> 00:16:45.809] PICARD: That will take hours.
+[00:16:46.289 --> 00:16:48.529] NIKOLAI: We'll just have to hope the simulation holds long enough.
+[00:16:51.649 --> 00:16:52.449] PICARD: Very well. Let's try it.
+[00:16:53.409 --> 00:16:59.009] PICARD: Mister La Forge, I want you to monitor the situation very carefully, and keep an open comm. link with the Holodeck so as to be apprised of any problems.
+[00:16:59.489 --> 00:16:59.809] LAFORGE: Aye, sir.
+[00:17:00.769 --> 00:17:06.209] NIKOLAI: Captain, I'll return to the holodeck as soon as my surgical alterations are completed and I'll prepare the Boraalans for their journey.
+[00:17:06.689 --> 00:17:10.209] PICARD: Considering the situation you have put us in, I don't think it's wise to leave you alone with those people.
+[00:17:10.529 --> 00:17:11.569] PICARD: Mister Worf will accompany you.
+[00:17:14.129 --> 00:17:17.329] WORF: Sir, perhaps someone else would be a better choice.
+[00:17:17.809 --> 00:17:18.689] WORF: Counsellor Troi is
+[00:17:18.689 --> 00:17:19.133] WORF: familiar with
+[00:17:19.133 --> 00:17:20.689] PICARD: Mister Worf, the Boraalans already know you.
+[00:17:21.009 --> 00:17:22.449] PICARD: There's no need to introduce them to anyone new.
+[00:17:24.689 --> 00:17:25.009] WORF: Aye, sir.
+[00:17:30.849 --> 00:17:32.209] PICARD: Keep a close eye on your brother.
+[00:17:33.089 --> 00:17:35.089] PICARD: I don't want him making this situation worse than it is.
+[00:17:44.449 --> 00:17:46.369] NIKOLAI: My friends, we have returned.
+[00:17:48.049 --> 00:17:48.689] NIKOLAI: We have food.
+[00:17:52.529 --> 00:17:53.649] NIKOLAI: This is difficult to say,
+[00:17:53.926 --> 00:17:54.806] NIKOLAI: but you have a right to hear it.
+[00:17:56.966 --> 00:18:00.486] NIKOLAI: By the time Worf and I had reached the surface, the village was gone.
+[00:18:01.526 --> 00:18:02.885] NIKOLAI: The storms have destroyed everything.
+[00:18:02.966 --> 00:18:04.566] NIKOLAI: There is nothing for us to return to.
+[00:18:05.366 --> 00:18:06.566] DOBARA: We can't survive in here.
+[00:18:06.966 --> 00:18:08.166] DOBARA: Our supplies won't last forever.
+[00:18:08.406 --> 00:18:09.446] NIKOLAI: That's why we must leave.
+[00:18:10.006 --> 00:18:12.566] NIKOLAI: There is a place far from here where there are no storms.
+[00:18:13.125 --> 00:18:16.166] NIKOLAI: It will be a difficult journey, but in the end we will have a new home.
+[00:18:16.486 --> 00:18:18.006] WORF: I know a way through the caves.
+[00:18:18.566 --> 00:18:21.366] WORF: We will travel safely until we return to the surface.
+[00:18:21.846 --> 00:18:23.125] VORIN: Where is this new land?
+[00:18:23.446 --> 00:18:25.766] WORF: As we said, it is far from here.
+[00:18:26.086 --> 00:18:27.606] WORF: It will not be like the home you knew.
+[00:18:28.566 --> 00:18:29.926] WORF: Even the stars may be different.
+[00:18:30.486 --> 00:18:31.686] VORIN: Why would they be different?
+[00:18:32.726 --> 00:18:34.166] VORIN: And how do you know we'll be safe there?
+[00:18:34.726 --> 00:18:35.606] NIKOLAI: My brother is a seer.
+[00:18:36.326 --> 00:18:39.446] NIKOLAI: If he says we'll be safe, you must trust that we will be safe.
+[00:18:40.966 --> 00:18:41.206] KATERAS: What's
+[00:18:44.566 --> 00:18:44.885] KATERAS: wrong?
+[00:18:45.286 --> 00:18:45.366] TARRANA: Look.
+[00:18:45.366 --> 00:18:45.846] WORF: Do
+[00:18:53.046 --> 00:18:53.606] WORF: not worry.
+[00:18:54.566 --> 00:18:55.286] WORF: It is an omen.
+[00:18:55.286 --> 00:18:55.286] DOBARA: What
+[00:18:57.286 --> 00:18:58.006] DOBARA: does it mean?
+[00:19:00.646 --> 00:19:01.606] WORF: This is the sign
+[00:19:03.606 --> 00:19:04.406] WORF: of La Forge.
+[00:19:06.166 --> 00:19:07.846] WORF: It is a message to travellers.
+[00:19:08.166 --> 00:19:15.286] WORF: It is said when these lines appear and disappear In a pool of water, the road ahead will be filled with good fortune.
+[00:19:16.246 --> 00:19:17.046] LAFORGE: Hang in there, Worf.
+[00:19:18.646 --> 00:19:20.406] LAFORGE: Give me just a second.
+[00:19:21.464 --> 00:19:21.464] LAFORGE: There.
+[00:19:26.904 --> 00:19:27.224] LAFORGE: That should do it.
+[00:19:37.224 --> 00:19:39.784] NIKOLAI: You see? Our journey is already blessed.
+[00:19:40.344 --> 00:19:41.304] NIKOLAI: The road ahead is long.
+[00:19:41.784 --> 00:19:44.184] NIKOLAI: Let us have a meal together, then we'll make preparations to leave.
+[00:19:50.504 --> 00:19:52.424] NIKOLAI: Worf, very good work.
+[00:19:53.064 --> 00:19:55.064] NIKOLAI: Apparently we don't make such a bad team after all.
+[00:19:56.184 --> 00:19:57.944] WORF: We are not a team.
+[00:19:58.424 --> 00:20:00.824] WORF: I am here because Captain Picard ordered me here.
+[00:20:01.224 --> 00:20:03.144] NIKOLAI: Worf, don't we both share the same goal?
+[00:20:03.144 --> 00:20:05.144] NIKOLAI: Aren't we both trying to make this plan work?
+[00:20:05.224 --> 00:20:06.984] WORF: Only because you forced us into it.
+[00:20:07.624 --> 00:20:08.664] NIKOLAI: I'm not ashamed of what I did.
+[00:20:08.824 --> 00:20:10.264] NIKOLAI: I'm not sorry I saved their lives.
+[00:20:11.864 --> 00:20:13.304] WORF: You have not changed.
+[00:20:14.264 --> 00:20:17.064] WORF: You still expect people to solve the problems you create.
+[00:20:17.384 --> 00:20:19.704] NIKOLAI: I'm not here to work out the issues of our childhood.
+[00:20:20.264 --> 00:20:24.744] NIKOLAI: I'm here to save a people who I care about. And if that upsets you, then so be it.
+[00:20:31.464 --> 00:20:34.424] DATA: These are the two planets which best match our search criteria.
+[00:20:35.064 --> 00:20:37.864] DATA: Draygo Four features an unusually large temperate zone.
+[00:20:38.424 --> 00:20:41.544] DATA: However, it is within three light years of Cardassian space.
+[00:20:41.784 --> 00:20:43.864] CRUSHER: There are constant border disputes in that sector.
+[00:20:44.744 --> 00:20:46.504] DATA: The alternative is Vacca Six.
+[00:20:46.744 --> 00:20:48.104] DATA: It is located in the Cabral sector.
+[00:20:49.431 --> 00:20:50.711] CRUSHER: That's pretty isolated.
+[00:20:51.591 --> 00:20:54.711] DATA: It offers a less hospitable climate than the Boraalans are accustomed to.
+[00:20:55.191 --> 00:20:57.431] DATA: However, it would still appear to be the better choice.
+[00:20:59.831 --> 00:21:00.471] DATA: Do you disagree, Doctor?
+[00:21:00.871 --> 00:21:01.271] CRUSHER: No, Data,
+[00:21:01.511 --> 00:21:01.911] CRUSHER: you're right.
+[00:21:02.391 --> 00:21:04.871] CRUSHER: It's just that the enormity of what we're doing is overwhelming.
+[00:21:04.871 --> 00:21:07.031] CRUSHER: We are deciding the future of a species.
+[00:21:07.831 --> 00:21:09.351] DATA: It is a formidable responsibility.
+[00:21:09.911 --> 00:21:11.991] CRUSHER: There are so many questions we don't have answers to.
+[00:21:12.871 --> 00:21:16.951] CRUSHER: What if the climate is so different that it affects them in a way that we can't anticipate?
+[00:21:17.271 --> 00:21:18.951] CRUSHER: How do we even know they'll be able to survive?
+[00:21:19.511 --> 00:21:24.711] CRUSHER: And if they do, how will their society evolve and what impact will it have on the Vaccan system?
+[00:21:25.431 --> 00:21:27.991] CRUSHER: We have no idea what this decision will mean to their future.
+[00:21:28.791 --> 00:21:31.831] DATA: Doctor, I do not believe we can offer any guarantees.
+[00:21:32.231 --> 00:21:34.391] DATA: We can simply make the best choice we have at the moment.
+[00:21:37.031 --> 00:21:37.591] CRUSHER: All right, Data.
+[00:21:38.951 --> 00:21:40.151] CRUSHER: Vacca Six it is.
+[00:21:41.431 --> 00:21:42.151] DATA: Data to Bridge.
+[00:21:42.711 --> 00:21:43.218] PICARD: Picard here.
+[00:21:43.218 --> 00:21:45.751] DATA: We have located a new home for the Boraalans, sir.
+[00:21:46.231 --> 00:21:47.911] DATA: It is Vacca Six in the Cabral sector.
+[00:21:51.031 --> 00:21:53.271] RIKER: We can reach that in forty two hours at maximum warp, sir.
+[00:21:53.591 --> 00:21:54.071] PICARD: Very well.
+[00:21:54.631 --> 00:21:56.391] PICARD: Helm, set course for Vacca Six.
+[00:21:56.871 --> 00:21:57.271] GATES: Aye, sir.
+[00:22:28.593 --> 00:22:29.153] WORF: What is this?
+[00:22:30.673 --> 00:22:31.313] VORIN: Our chronicle.
+[00:22:33.393 --> 00:22:34.433] VORIN: The history of our village.
+[00:22:36.433 --> 00:22:37.793] VORIN: Doesn't your village keep a chronicle?
+[00:22:38.833 --> 00:22:39.553] WORF: Not in this manner.
+[00:22:40.033 --> 00:22:41.713] VORIN: Then how do you teach your children their history,
+[00:22:43.233 --> 00:22:44.993] VORIN: who their ancestors were, where they come from?
+[00:22:46.593 --> 00:22:50.513] WORF: We tell each other stories, make up songs.
+[00:22:52.673 --> 00:22:54.673] VORIN: Stories change with each person who tells them.
+[00:22:56.913 --> 00:22:59.233] VORIN: This, this will always be the same.
+[00:23:01.473 --> 00:23:04.193] VORIN: Our chronicle has been maintained for seventeen generations.
+[00:23:06.833 --> 00:23:08.593] VORIN: I was only able to save the last six.
+[00:23:12.433 --> 00:23:14.433] VORIN: This shows the destruction of our village.
+[00:23:17.873 --> 00:23:19.713] VORIN: This is you and Nikolai leading us to safety.
+[00:23:27.073 --> 00:23:27.793] WORF: We must leave.
+[00:23:28.433 --> 00:23:29.473] WORF: Gather your belongings.
+[00:23:29.473 --> 00:23:29.793] VORIN: One of the
+[00:23:40.433 --> 00:23:41.233] VORIN: scrolls is gone.
+[00:23:41.233 --> 00:23:43.953] VORIN: I must have dropped it in the passageway.
+[00:23:44.433 --> 00:23:44.993] VORIN: I'll go find it.
+[00:23:47.553 --> 00:23:48.753] WORF: We must stay together.
+[00:23:48.753 --> 00:23:50.993] WORF: We will have to leave it behind.
+[00:23:51.633 --> 00:23:53.793] VORIN: Worf, the chronicle is the life of our village.
+[00:23:55.025 --> 00:23:58.305] VORIN: Without that past, our future means nothing.
+[00:23:59.345 --> 00:24:00.225] VORIN: I must find it.
+[00:24:02.385 --> 00:24:02.625] WORF: Go,
+[00:24:03.105 --> 00:24:03.905] WORF: and return quickly.
+[00:24:11.025 --> 00:24:11.425] KATERAS: Seer.
+[00:24:13.585 --> 00:24:14.545] KATERAS: I am an old man.
+[00:24:15.265 --> 00:24:16.385] KATERAS: Would you help me with my gear?
+[00:24:17.105 --> 00:24:17.665] WORF: Of course.
+[00:24:23.425 --> 00:24:25.425] KATERAS: That is Tarrana, my daughter.
+[00:24:26.865 --> 00:24:29.585] KATERAS: I am fortunate she was old enough to survive the storms.
+[00:24:31.025 --> 00:24:32.225] WORF: She is a fine girl.
+[00:24:33.345 --> 00:24:34.705] KATERAS: She is a beautiful girl.
+[00:24:35.345 --> 00:24:36.705] KATERAS: She has not been promised to anyone.
+[00:24:37.985 --> 00:24:40.625] KATERAS: If I do not reach our new home,
+[00:24:42.225 --> 00:24:43.665] KATERAS: I would like her to become your wife.
+[00:24:51.665 --> 00:24:52.945] WORF: You will reach your new home.
+[00:24:54.625 --> 00:24:55.345] WORF: I promise.
+[00:26:33.026 --> 00:26:33.106] WOMAN: Can I help you?
+[00:26:33.186 --> 00:26:33.186] MAN: All
+[00:26:35.426 --> 00:26:35.426] MAN: right, all right, it's okay.
+[00:26:35.666 --> 00:26:35.666] MAN: Do you
+[00:26:39.106 --> 00:26:39.586] MAN: need some help?
+[00:26:41.426 --> 00:26:42.306] MAN: It's okay.
+[00:26:42.456 --> 00:26:43.456] RIKER: All right,
+[00:26:44.866 --> 00:26:46.546] RIKER: everybody. Back off,
+[00:26:46.786 --> 00:26:47.186] RIKER: back off.
+[00:26:47.802 --> 00:26:48.762] TROI: I
+[00:26:57.482 --> 00:26:59.642] TROI: know things must look very strange to you,
+[00:27:01.402 --> 00:27:02.842] TROI: but everything's going to be all right.
+[00:27:04.442 --> 00:27:05.562] TROI: No one's going to hurt you.
+[00:27:08.282 --> 00:27:10.202] TROI: We're friends of Nikolai and Worf.
+[00:27:11.962 --> 00:27:12.602] TROI: Don't be afraid.
+[00:27:13.082 --> 00:27:13.562] VORIN: Nikolai?
+[00:27:14.682 --> 00:27:17.082] TROI: Yes. He's my friend.
+[00:27:18.522 --> 00:27:19.722] TROI: That means you are, too.
+[00:27:22.442 --> 00:27:24.442] TROI: I promise I won't hurt you.
+[00:27:26.202 --> 00:27:28.122] VORIN: Please, help me.
+[00:27:28.272 --> 00:27:29.672] VORIN: Where am I?
+[00:27:42.762 --> 00:27:44.042] CRUSHER: I'm sorry, there is nothing I can do.
+[00:27:44.522 --> 00:27:46.682] CRUSHER: His neural physiology is unusual.
+[00:27:47.402 --> 00:27:48.602] CRUSHER: I can't wipe his memory.
+[00:27:48.922 --> 00:27:49.322] PICARD: I see.
+[00:27:49.562 --> 00:27:50.042] PICARD: How is he?
+[00:27:50.362 --> 00:27:51.402] CRUSHER: As well as can be expected.
+[00:27:51.402 --> 00:27:56.522] CRUSHER: I've given him a mild sedative and Troi's been speaking with him. And he seems much calmer.
+[00:27:57.002 --> 00:27:58.202] PICARD: Does he understand the situation?
+[00:27:58.362 --> 00:27:58.842] CRUSHER: I think so.
+[00:27:59.642 --> 00:28:00.202] PICARD: Contact Mister
+[00:28:00.202 --> 00:28:00.442] PICARD: Worf.
+[00:28:00.442 --> 00:28:01.722] PICARD: Make sure he knows what's going on.
+[00:28:05.082 --> 00:28:05.802] TROI: Here he is now.
+[00:28:07.722 --> 00:28:08.762] TROI: This is Captain Picard.
+[00:28:09.962 --> 00:28:10.682] PICARD: Vorin, isn't it?
+[00:28:12.922 --> 00:28:13.882] VORIN: Why did you bring us here?
+[00:28:15.962 --> 00:28:17.002] PICARD: Your planet was dying.
+[00:28:17.428 --> 00:28:19.028] PICARD: It could no longer support life.
+[00:28:20.308 --> 00:28:22.228] PICARD: We took you away from it.
+[00:28:22.228 --> 00:28:22.548] VORIN: But
+[00:28:24.148 --> 00:28:25.268] VORIN: we never left the caves.
+[00:28:27.028 --> 00:28:34.148] PICARD: We have the ability to create the illusion of other places, like the caves on your planet.
+[00:28:35.188 --> 00:28:40.308] PICARD: You have actually spent the last two days here on this starship, not on Boraal.
+[00:28:43.028 --> 00:28:43.668] VORIN: Then our home
+[00:28:45.348 --> 00:28:45.828] VORIN: is gone.
+[00:28:48.628 --> 00:28:48.948] TROI: Yes.
+[00:28:51.828 --> 00:28:53.188] PICARD: Vorin, listen to me.
+[00:28:54.068 --> 00:28:55.668] PICARD: We can visit many other worlds.
+[00:28:55.668 --> 00:29:00.984] PICARD: We can take you to one where you can build a new life.
+[00:29:00.984 --> 00:29:02.210] VORIN: A new life?
+[00:29:02.210 --> 00:29:06.708] PICARD: A chance for your culture, your people, to survive and grow.
+[00:29:08.388 --> 00:29:12.788] VORIN: How can we grow when everything that made us who we are is gone?
+[00:29:38.708 --> 00:29:39.588] NIKOLAI: Dobara, you go on ahead.
+[00:29:48.148 --> 00:29:50.868] WORF: I will carry your pack.
+[00:29:51.348 --> 00:29:52.148] WORF: Go and join the others.
+[00:29:52.252 --> 00:29:54.892] KATERAS: Thank you, seer.
+[00:30:05.452 --> 00:30:06.172] NIKOLAI: It'll be dark soon, in
+[00:30:07.132 --> 00:30:07.692] NIKOLAI: a few hours.
+[00:30:13.212 --> 00:30:17.692] NIKOLAI: Would you ask Mister La Forge to create a suitable campsite for us a few kilometres from here?
+[00:30:17.932 --> 00:30:18.252] NIKOLAI: What's wrong?
+[00:30:19.292 --> 00:30:20.892] WORF: Vorin has left the holodeck.
+[00:30:21.852 --> 00:30:22.732] NIKOLAI: How did he get out?
+[00:30:22.732 --> 00:30:23.532] WORF: I do not know,
+[00:30:24.092 --> 00:30:26.012] WORF: but Doctor Crusher cannot erase his memory.
+[00:30:26.892 --> 00:30:27.772] NIKOLAI: What will they do with him?
+[00:30:28.492 --> 00:30:29.932] WORF: They have explained the situation to him.
+[00:30:29.932 --> 00:30:31.292] WORF: He must make his own decisions.
+[00:30:31.372 --> 00:30:31.692] NIKOLAI: Wait.
+[00:30:33.932 --> 00:30:36.332] NIKOLAI: Are you saying that if Vorin wants to come back in here, they'll let him?
+[00:30:36.892 --> 00:30:37.372] WORF: That is right.
+[00:30:37.852 --> 00:30:39.132] WORF: He is not a prisoner.
+[00:30:40.172 --> 00:30:44.732] NIKOLAI: But if he comes back here and tells the others what he has seen on the Enterprise, everything we have done will be for nothing.
+[00:30:44.812 --> 00:30:47.292] WORF: Then you should have considered that before you beamed them on board.
+[00:30:47.772 --> 00:30:50.572] WORF: But you never think about the consequences of your acts.
+[00:30:50.572 --> 00:30:53.772] NIKOLAI: If you mean by that that I'm willing to do something while others hesitate, that's true.
+[00:30:54.572 --> 00:30:56.812] WORF: Wherever you go, you create chaos.
+[00:30:57.452 --> 00:31:01.132] WORF: How many times did our parents lie awake at night, wondering what kind of trouble you were in?
+[00:31:01.132 --> 00:31:04.652] NIKOLAI: Oh, if only I could have been like you. Worf, the perfect son.
+[00:31:04.732 --> 00:31:07.452] WORF: I was not perfect, but I was not wild and disobedient.
+[00:31:08.972 --> 00:31:09.532] NIKOLAI: Of course not.
+[00:31:09.532 --> 00:31:10.732] NIKOLAI: You were too busy doing your duty.
+[00:31:11.132 --> 00:31:13.852] WORF: I would rather be accused of that than making our mother weep.
+[00:31:14.812 --> 00:31:17.212] WORF: But I see it is clear you have no intention of changing.
+[00:31:17.659 --> 00:31:19.099] WORF: I see no reason to discuss it further.
+[00:31:49.899 --> 00:31:52.859] WORF: Commander, the holodeck malfunctions Are increasing.
+[00:31:53.339 --> 00:31:55.739] LAFORGE: I'm running every stabilisation routine I know.
+[00:31:56.299 --> 00:31:57.979] WORF: How much longer till we reach the new planet?
+[00:31:58.539 --> 00:32:00.139] LAFORGE: We'll be there in less than eight hours.
+[00:32:00.139 --> 00:32:02.939] LAFORGE: You're just going to have to hold things together a little while longer.
+[00:32:03.419 --> 00:32:04.059] WORF: Someone is coming.
+[00:32:10.619 --> 00:32:11.499] DOBARA: May I speak with you?
+[00:32:12.619 --> 00:32:13.499] WORF: Yes, of course.
+[00:32:20.379 --> 00:32:20.379] DOBARA: I
+[00:32:23.819 --> 00:32:28.939] DOBARA: don't know what Nikolai said to you but, please, forgive him.
+[00:32:30.699 --> 00:32:31.979] WORF: It is an old argument.
+[00:32:33.659 --> 00:32:35.019] DOBARA: I've never seen him like this.
+[00:32:35.899 --> 00:32:42.939] DOBARA: He's usually so confident, so sure of himself. But now he seems different.
+[00:32:45.179 --> 00:32:45.819] DOBARA: Do you know why?
+[00:32:48.539 --> 00:32:48.779] WORF: No.
+[00:32:49.468 --> 00:32:50.028] WORF: No, I do not.
+[00:32:52.348 --> 00:32:58.268] DOBARA: Ever since Vorin was lost, people have been afraid. Worried that we won't reach our new home.
+[00:32:59.388 --> 00:33:01.868] DOBARA: We need Nikolai's strength now more than ever.
+[00:33:02.908 --> 00:33:10.188] DOBARA: When the storms first came to our village, many of us were ready to die. But Nikolai refused to let us.
+[00:33:10.988 --> 00:33:13.548] DOBARA: He gathered us together and led us into caves.
+[00:33:14.348 --> 00:33:15.148] DOBARA: He saved us.
+[00:33:16.908 --> 00:33:23.308] DOBARA: He is a brave and compassionate man, and I love him.
+[00:33:23.788 --> 00:33:25.308] DOBARA: Please, go to him.
+[00:33:26.748 --> 00:33:28.348] DOBARA: Make things right between you.
+[00:33:29.868 --> 00:33:31.228] DOBARA: I want us to be a family.
+[00:33:33.468 --> 00:33:33.868] WORF: Us?
+[00:33:34.428 --> 00:33:34.828] DOBARA: Yes.
+[00:33:36.108 --> 00:33:37.948] DOBARA: I want you to consider yourself my brother.
+[00:33:39.308 --> 00:33:39.948] DOBARA: After all,
+[00:33:44.748 --> 00:33:48.428] DOBARA: you're going to be the uncle of my child.
+[00:34:00.988 --> 00:34:00.988] DATA: We are
+[00:34:07.948 --> 00:34:09.948] DATA: in synchronous orbit above the beam down site, sir.
+[00:34:10.508 --> 00:34:10.828] PICARD: Good.
+[00:34:11.308 --> 00:34:12.028] PICARD: Mister La Forge,
+[00:34:12.188 --> 00:34:14.268] PICARD: how much longer before we can transport the Boraalans?
+[00:34:14.268 --> 00:34:15.548] LAFORGE: A few more hours, Captain, but
+[00:34:15.708 --> 00:34:16.988] LAFORGE: we've got some problems here.
+[00:34:17.468 --> 00:34:19.308] LAFORGE: I don't think the holodeck's going to last that long.
+[00:34:19.662 --> 00:34:24.302] LAFORGE: We've had materialisation errors and resolution failures all over the place, and it's getting worse.
+[00:34:24.782 --> 00:34:26.942] LAFORGE: The simulation could fall apart any minute.
+[00:34:27.182 --> 00:34:31.662] PICARD: We'll have the transporter room standing by. But we may have to transport the Boraalans whether you're ready or not.
+[00:34:31.742 --> 00:34:32.942] PICARD: Please keep Mister Worf apprised.
+[00:34:33.262 --> 00:34:33.742] LAFORGE: Aye, sir.
+[00:34:36.062 --> 00:34:37.022] PICARD: You have the Bridge, Number One.
+[00:34:38.382 --> 00:34:40.942] PICARD: We still have one more problem to worry about.
+[00:34:55.502 --> 00:34:55.902] VORIN: Yes.
+[00:34:59.822 --> 00:35:01.662] PICARD: We have arrived at the planet that I told you about.
+[00:35:02.622 --> 00:35:03.822] PICARD: Have you made a decision?
+[00:35:05.662 --> 00:35:07.342] VORIN: I believe I would like to go back to my people.
+[00:35:09.582 --> 00:35:09.982] PICARD: I see.
+[00:35:11.822 --> 00:35:13.022] PICARD: What do you intend to tell them?
+[00:35:16.862 --> 00:35:17.742] VORIN: I don't know.
+[00:35:20.702 --> 00:35:22.702] PICARD: If you tell them the truth, what will happen?
+[00:35:23.742 --> 00:35:24.382] PICARD: Will they believe you?
+[00:35:28.382 --> 00:35:29.102] VORIN: I'm not sure.
+[00:35:30.702 --> 00:35:32.142] VORIN: It is a fantastic story.
+[00:35:34.302 --> 00:35:39.902] PICARD: Perhaps they will think that you have had an hallucination, or that you're insane.
+[00:35:41.342 --> 00:35:47.422] VORIN: I don't think I would like to live my life knowing what I know and being regarded as a madman.
+[00:35:48.656 --> 00:35:51.776] PICARD: On the other hand, they may believe your fantastic story.
+[00:35:52.896 --> 00:35:55.856] PICARD: They would learn about alien worlds, starships.
+[00:35:56.336 --> 00:35:57.456] VORIN: That would be disastrous.
+[00:35:59.296 --> 00:36:01.056] VORIN: It would destroy everything they believed in.
+[00:36:07.136 --> 00:36:08.416] VORIN: I can't tell them the truth,
+[00:36:11.616 --> 00:36:14.416] VORIN: but I don't think I can live with a secret.
+[00:36:17.056 --> 00:36:17.696] PICARD: Then stay here.
+[00:36:19.856 --> 00:36:21.616] PICARD: Make a future for yourself with us.
+[00:36:28.096 --> 00:36:28.976] VORIN: I need some time.
+[00:36:31.456 --> 00:36:31.856] VORIN: Please.
+[00:36:35.136 --> 00:36:36.496] WORF: How
+[00:36:45.616 --> 00:36:47.456] WORF: could you have mated with a Boraalan?
+[00:36:47.856 --> 00:36:48.736] WORF: What were you thinking?
+[00:36:49.056 --> 00:36:50.176] NIKOLAI: I don't owe you an explanation.
+[00:36:50.896 --> 00:36:52.416] NIKOLAI: This is a matter between Dobara and me.
+[00:36:52.736 --> 00:36:55.056] WORF: As usual, you are thinking only of yourself.
+[00:36:55.056 --> 00:36:57.296] NIKOLAI: And as usual, you are here to point out the error of my ways.
+[00:36:57.296 --> 00:36:59.776] WORF: You have treated Dobara with dishonour.
+[00:36:59.776 --> 00:37:00.256] NIKOLAI: I have not!
+[00:37:00.896 --> 00:37:02.496] NIKOLAI: I love her and we're going to raise our child together.
+[00:37:02.496 --> 00:37:03.536] WORF: That is not possible.
+[00:37:03.856 --> 00:37:05.216] WORF: I cannot allow you to stay here.
+[00:37:05.296 --> 00:37:06.336] NIKOLAI: You will have to kill me first.
+[00:37:06.336 --> 00:37:06.976] DOBARA: What does it
+[00:37:08.896 --> 00:37:10.896] DOBARA: mean ?
+[00:37:10.896 --> 00:37:10.896] NIKOLAI: The
+[00:37:14.256 --> 00:37:15.056] NIKOLAI: storms have returned.
+[00:37:15.056 --> 00:37:15.936] KATERAS: We will be killed.
+[00:37:16.096 --> 00:37:16.656] NIKOLAI: No, you won't.
+[00:37:16.896 --> 00:37:19.376] NIKOLAI: Worf has the power to end the storms once and for all.
+[00:37:21.376 --> 00:37:21.696] WORF: Yes.
+[00:37:22.155 --> 00:37:24.155] WORF: But everyone must take shelter in the tents.
+[00:37:24.155 --> 00:37:25.355] KATERAS: The tents won't protect us.
+[00:37:25.355 --> 00:37:26.155] NIKOLAI: Worf will protect you.
+[00:37:26.155 --> 00:37:26.955] NIKOLAI: You must trust him.
+[00:37:27.355 --> 00:37:29.035] NIKOLAI: Hurry, hurry. Get to your tents now.
+[00:37:29.195 --> 00:37:33.195] WORF: Commander, it might be helpful if you could produce A storm. Wind, lightning and thunder.
+[00:37:33.435 --> 00:37:34.475] LAFORGE: I'll see what I can do.
+[00:37:34.625 --> 00:37:35.625] NIKOLAI: Get in!
+[00:37:37.322 --> 00:37:38.322] NIKOLAI: Get in!
+[00:37:40.019 --> 00:37:42.219] NIKOLAI: The storm is getting worse!
+[00:37:46.761 --> 00:37:47.761] NIKOLAI: Stay inside.
+[00:37:49.458 --> 00:37:52.858] NIKOLAI: Worf and I will take care of you.
+[00:38:00.395 --> 00:38:03.515] WORF: Commander, energise.
+[00:38:07.275 --> 00:38:09.275] WORF: The
+[00:38:24.235 --> 00:38:25.915] WORF: storms will not return.
+[00:38:28.315 --> 00:38:29.195] NIKOLAI: As I said he would,
+[00:38:29.995 --> 00:38:31.515] NIKOLAI: my brother Worf has saved us all.
+[00:38:41.115 --> 00:38:43.995] LOG: Captain's log, stardate 47427.2.
+[00:38:44.635 --> 00:38:48.475] LOG: The Boraalans have safely reached the site of what will eventually become their new village.
+[00:38:49.035 --> 00:38:51.355] LOG: None of them suspects they ever left their planet.
+[00:38:51.675 --> 00:38:54.475] LOG: However, our success has come at a high price.
+[00:38:55.513 --> 00:38:57.353] CRUSHER: I think it was some form of ritual suicide.
+[00:38:59.673 --> 00:39:00.793] PICARD: He said that he had nowhere to go.
+[00:39:02.153 --> 00:39:04.233] CRUSHER: He would have died even if we hadn't interfered.
+[00:39:04.313 --> 00:39:05.593] PICARD: But he wouldn't have died alone
+[00:39:06.953 --> 00:39:07.593] PICARD: and afraid.
+[00:39:09.033 --> 00:39:11.273] CRUSHER: Are you saying you're sorry we saved the Boraalans?
+[00:39:11.593 --> 00:39:12.393] PICARD: No, of course not.
+[00:39:12.953 --> 00:39:14.393] PICARD: Our plan for them worked out well.
+[00:39:15.833 --> 00:39:20.793] PICARD: But I wish that Vorin could have bridged the gap between our two cultures.
+[00:39:23.833 --> 00:39:25.433] PICARD: I would have liked the chance to have known him
+[00:39:42.873 --> 00:39:42.873] PICARD: better.
+[00:39:45.513 --> 00:39:46.420] NIKOLAI: Go inside.
+[00:39:46.420 --> 00:39:46.873] DOBARA: Nikolai,
+[00:39:47.113 --> 00:39:47.433] DOBARA: don't.
+[00:39:47.433 --> 00:39:47.753] NIKOLAI: Please.
+[00:39:50.713 --> 00:39:50.873] NIKOLAI: I
+[00:40:04.873 --> 00:40:07.993] NIKOLAI: told you, you would have to kill me to get me away from here.
+[00:40:07.993 --> 00:40:07.993] WORF: I
+[00:40:10.633 --> 00:40:12.153] WORF: do not want to fight you, Nikolai.
+[00:40:18.793 --> 00:40:20.393] NIKOLAI: Things were never easy between us, were they?
+[00:40:23.273 --> 00:40:23.593] WORF: No.
+[00:40:27.993 --> 00:40:28.473] NIKOLAI: It's my fault.
+[00:40:31.511 --> 00:40:35.031] NIKOLAI: If I'd been more like you, we wouldn't have had so many problems.
+[00:40:35.181 --> 00:40:35.781] WORF: No.
+[00:40:38.151 --> 00:40:39.431] WORF: If you had been more like me,
+[00:40:40.951 --> 00:40:42.631] WORF: these people would not be here now.
+[00:40:47.111 --> 00:40:49.191] WORF: You gave them a chance at a new life.
+[00:40:49.191 --> 00:40:51.271] NIKOLAI: And I intend to share that life with them.
+[00:40:53.751 --> 00:40:55.031] NIKOLAI: The village will need a new chronicle.
+[00:40:55.191 --> 00:40:56.151] NIKOLAI: Someone will have to begin it.
+[00:40:57.911 --> 00:40:59.111] NIKOLAI: My child will need a father.
+[00:41:01.111 --> 00:41:01.831] NIKOLAI: My place is here.
+[00:41:04.071 --> 00:41:05.751] NIKOLAI: I'm finally taking responsibility.
+[00:41:11.671 --> 00:41:13.511] WORF: You were never good at drawing.
+[00:41:14.311 --> 00:41:15.671] WORF: How will you keep a chronicle?
+[00:41:16.391 --> 00:41:17.031] NIKOLAI: I learn quickly.
+[00:41:19.351 --> 00:41:20.391] WORF: Then perhaps there is hope.
+[00:41:43.431 --> 00:41:45.111] WORF: Could I take this with me?
+[00:41:45.911 --> 00:41:46.151] NIKOLAI: It's yours.
+[00:41:46.151 --> 00:41:46.231] WORF: I
+[00:41:48.351 --> 00:41:50.351] WORF: will
+[00:41:52.471 --> 00:41:56.311] WORF: have to explain all of this to mother and father.
+[00:41:56.951 --> 00:41:57.831] NIKOLAI: They won't understand.
+[00:41:58.974 --> 00:41:59.374] WORF: They may.
+[00:42:00.734 --> 00:42:03.694] WORF: I will tell them that you are happy.
+[00:42:12.000 --> 00:42:26.000] [music]
+[00:42:42.000 --> 00:43:07.000] [music]

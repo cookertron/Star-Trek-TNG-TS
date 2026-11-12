@@ -1,0 +1,654 @@
+[00:00:02.000 --> 00:00:05.680] DATA: Graves at my command have wak'd their sleepers,
+[00:00:06.240 --> 00:00:07.760] DATA: op'd, and let 'em forth
+[00:00:08.240 --> 00:00:13.680] DATA: by my so potent art. But this rough magic I here abjure,
+[00:00:14.880 --> 00:00:28.320] DATA: and when I have required some heavenly music, which even now I do, to work mine end upon their senses, that this airy charm is for, I'll break my staff,
+[00:00:29.120 --> 00:00:36.960] DATA: bury it certain fathoms in the earth, and deeper than did ever plummet sound,
+[00:00:37.520 --> 00:00:37.520] DATA: I'll
+[00:00:39.360 --> 00:00:42.720] DATA: Captain? Sir, your attention is wandering.
+[00:00:43.120 --> 00:00:44.320] PICARD: Data, I can barely see.
+[00:00:45.200 --> 00:00:50.320] DATA: But sir, I am supposed to be attempting a Neo-Platonic magical rite.
+[00:00:51.040 --> 00:00:52.960] DATA: The darkness is appropriate for such a ritual.
+[00:00:53.520 --> 00:00:55.120] PICARD: Yes, but Data, this is a play.
+[00:00:55.280 --> 00:00:56.640] PICARD: The audience has to see you.
+[00:00:58.320 --> 00:01:00.960] DATA: Perhaps I have been too literal with respect to my set design.
+[00:01:01.840 --> 00:01:05.200] DATA: Computer, modify holodeck programme Data seven three.
+[00:01:05.440 --> 00:01:07.520] DATA: Shakespeare's The Tempest, Act Five, scene one.
+[00:01:08.400 --> 00:01:10.960] DATA: Increase torchlight by twenty percent.
+[00:01:12.720 --> 00:01:13.840] PICARD: There, that's much better.
+[00:01:14.640 --> 00:01:15.520] PICARD: Now, do you want to try it again?
+[00:01:15.760 --> 00:01:16.000] DATA: Yes, sir.
+[00:01:19.360 --> 00:01:24.080] DATA: Captain, I am not certain I fully understand this Prospero character.
+[00:01:24.800 --> 00:01:28.960] DATA: I would appreciate any insight you might have that would improve my performance.
+[00:01:30.560 --> 00:01:34.880] PICARD: Well, Data, Shakespeare was witnessing the end of the Renaissance
+[00:01:34.927 --> 00:01:42.527] PICARD: and the birth of the modern era, and Prospero finds himself in a world where his powers are no longer needed.
+[00:01:43.247 --> 00:01:50.527] PICARD: So, we see him here about to perform one final creative act before giving up his art forever.
+[00:01:52.527 --> 00:01:54.607] DATA: There is certainly a tragic aspect to the character.
+[00:01:55.007 --> 00:02:00.367] PICARD: Yes, but there's a certain expectancy too. A hopefulness about the future.
+[00:02:00.687 --> 00:02:06.607] PICARD: You see, Shakespeare enjoyed mixing opposites. The past and the future.
+[00:02:08.207 --> 00:02:09.167] PICARD: Hope and despair.
+[00:02:09.887 --> 00:02:10.447] PICARD: Data, what is this?
+[00:02:11.567 --> 00:02:12.527] PICARD: Is this part of your programme?
+[00:02:13.247 --> 00:02:13.487] DATA: No, sir.
+[00:02:14.447 --> 00:02:15.327] PICARD: What is going on?
+[00:02:16.127 --> 00:02:18.180] DATA: It appears to be a steam locomotive.
+[00:02:18.180 --> 00:02:18.767] PICARD: A train?
+[00:02:19.407 --> 00:02:20.447] DATA: If I am not mistaken.
+[00:02:21.007 --> 00:02:22.047] PICARD: Computer, end programme.
+[00:02:23.967 --> 00:02:25.007] PICARD: Computer, end programme.
+[00:03:14.206 --> 00:03:17.006] PICARD: Space, the final frontier.
+[00:03:18.846 --> 00:03:21.726] PICARD: These are the voyages of the starship Enterprise.
+[00:03:22.846 --> 00:03:30.846] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:32.446 --> 00:03:35.326] PICARD: to boldly go where no one has gone before.
+[00:04:04.000 --> 00:04:13.000] [music]
+[00:04:31.976 --> 00:04:32.136] DATA: Captain,
+[00:04:34.696 --> 00:04:35.256] DATA: you are injured.
+[00:04:36.136 --> 00:04:36.936] PICARD: Oh yes, I know.
+[00:04:37.016 --> 00:04:37.336] PICARD: I'll
+[00:04:37.336 --> 00:04:38.296] PICARD: get it seen to, Data.
+[00:04:43.496 --> 00:04:47.816] DATA: The train we encountered was from one of Doctor Crusher's holodeck programs.
+[00:04:48.056 --> 00:04:54.856] DATA: It was a re-creation of the Orient Express, a train which travelled from Paris to Istanbul from the late nineteenth century until.
+[00:04:54.856 --> 00:04:55.576] PICARD: Yes, yes, Data,
+[00:04:55.576 --> 00:04:58.936] PICARD: I know about the Orient Express. But what is it doing on Prospero's Island?
+[00:05:01.656 --> 00:05:05.176] DATA: There appears to have been a malfunction in the holodeck's database retrieval programme.
+[00:05:05.896 --> 00:05:08.376] DATA: The two programs somehow temporarily linked together.
+[00:05:08.856 --> 00:05:11.576] PICARD: Is it possible that this malfunction will affect the other holodecks as well?
+[00:05:12.056 --> 00:05:12.936] DATA: It is a possibility.
+[00:05:13.416 --> 00:05:15.256] DATA: I will need to run a diagnostic to be certain.
+[00:05:15.656 --> 00:05:16.376] PICARD: Very good, Data.
+[00:05:16.376 --> 00:05:18.856] PICARD: But shut down the other holodecks until you're finished,
+[00:05:18.936 --> 00:05:19.816] PICARD: just to be on the safe side.
+[00:05:20.296 --> 00:05:20.616] DATA: Aye, sir.
+[00:05:24.296 --> 00:05:28.376] PICARD: I never realised that you were interested in trains.
+[00:05:29.736 --> 00:05:33.976] PICARD: Are you aware that at its peak, the Orient Express carried more than ten thousand people a year?
+[00:05:34.936 --> 00:05:37.016] CRUSHER: It isn't really the train itself that I'm interested in.
+[00:05:37.336 --> 00:05:37.736] PICARD: What then?
+[00:05:37.976 --> 00:05:39.016] CRUSHER: It's the experience.
+[00:05:40.696 --> 00:05:43.656] CRUSHER: The Orient Express is romantic, mysterious,
+[00:05:44.696 --> 00:05:48.056] CRUSHER: an elegant way to see exotic places and meet fascinating people.
+[00:05:48.856 --> 00:05:54.296] CRUSHER: Do you know that one time, on one trip, both Sigmund Freud and Gertrude Stein just happened to be in the same car?
+[00:05:54.936 --> 00:05:57.096] CRUSHER: They ended up having dinner together every night.
+[00:05:57.656 --> 00:05:58.696] PICARD: I wonder what they talked about?
+[00:05:59.656 --> 00:06:01.656] CRUSHER: Why don't you take a trip yourself and find out?
+[00:06:01.736 --> 00:06:02.648] RIKER: Riker to Picard.
+[00:06:02.648 --> 00:06:03.256] PICARD: Picard here.
+[00:06:03.751 --> 00:06:05.431] RIKER: All sections ready to begin the survey, sir.
+[00:06:06.391 --> 00:06:06.791] PICARD: Very good.
+[00:06:06.791 --> 00:06:07.431] PICARD: I'm on my way.
+[00:06:07.751 --> 00:06:08.071] PICARD: Thank you.
+[00:06:09.751 --> 00:06:11.031] CRUSHER: Don't forget the trip, Jean-Luc.
+[00:06:11.031 --> 00:06:11.671] CRUSHER: Think about it.
+[00:06:11.911 --> 00:06:13.991] CRUSHER: You never know who you'll meet on the Orient Express.
+[00:06:17.431 --> 00:06:20.631] LOG: Captain's log, stardate 47869.2.
+[00:06:21.191 --> 00:06:28.711] LOG: After weathering an unexpected magnascopic storm in the Mekorda Sector, we are continuing our search for new Federation colony sites.
+[00:06:31.431 --> 00:06:33.831] RIKER: I don't think there's any possibility of developing sites in this region.
+[00:06:33.911 --> 00:06:36.791] RIKER: Most of the stars are main sequence binaries. There are no M-class planets.
+[00:06:38.071 --> 00:06:39.511] PICARD: Well, let's move on to another survey region.
+[00:06:40.071 --> 00:06:41.431] PICARD: Have stellar cartography begin a
+[00:06:43.831 --> 00:06:44.631] PICARD: Mister Data, report.
+[00:06:45.111 --> 00:06:46.391] DATA: The ship has moved into warp, sir.
+[00:06:47.031 --> 00:06:47.671] RIKER: Who gave that command?
+[00:06:48.951 --> 00:06:49.991] DATA: Apparently no one.
+[00:06:50.631 --> 00:06:52.871] DATA: Helm and navigation controls are not functioning.
+[00:06:53.431 --> 00:06:55.591] DATA: Our speed is now warp seven point three and holding.
+[00:06:57.031 --> 00:06:57.831] PICARD: Picard to Engineering.
+[00:06:58.311 --> 00:06:59.351] PICARD: Mister La Forge, what's going on?
+[00:06:59.351 --> 00:07:00.871] PICARD: We've lost primary helm control on the Bridge.
+[00:07:01.191 --> 00:07:02.071] LAFORGE: I don't understand it.
+[00:07:02.311 --> 00:07:05.191] LAFORGE: The impulse systems suddenly cut out and the warp drive just kicked in.
+[00:07:05.591 --> 00:07:06.951] RIKER: Geordi, can you take the engines offline?
+[00:07:07.271 --> 00:07:07.911] LAFORGE: I'm working on it.
+[00:07:09.191 --> 00:07:10.391] PICARD: Mister Data, what's our heading?
+[00:07:11.271 --> 00:07:12.711] DATA: Bearing one eight seven mark four. I
+[00:07:13.511 --> 00:07:15.191] DATA: am unable to determine our destination,
+[00:07:15.191 --> 00:07:17.591] DATA: however we are heading away from the Mekorda sector.
+[00:07:18.071 --> 00:07:20.871] LAFORGE: Captain, the computer's locked out all the propulsion Controls.
+[00:07:20.871 --> 00:07:22.471] LAFORGE: I can't access any of the overrides.
+[00:07:22.791 --> 00:07:23.591] LAFORGE: If you want us to stop,
+[00:07:24.071 --> 00:07:25.751] LAFORGE: I'll have to do an emergency core shutdown.
+[00:07:26.391 --> 00:07:28.391] RIKER: That would leave us without warp power for more than a week.
+[00:07:29.351 --> 00:07:30.551] PICARD: Begin the procedure, Mister La Forge.
+[00:07:33.671 --> 00:07:34.791] DATA: We are no longer at warp, sir.
+[00:07:35.770 --> 00:07:37.050] DATA: Impulse power has resumed.
+[00:07:37.290 --> 00:07:38.330] DATA: All systems show normal.
+[00:07:38.730 --> 00:07:40.250] RIKER: Where are we?
+[00:07:40.250 --> 00:07:43.210] DATA: We are approximately thirty billion kilometres from our original position.
+[00:07:43.690 --> 00:07:44.570] PICARD: Well done, Mister La Forge.
+[00:07:46.410 --> 00:07:47.210] LAFORGE: It wasn't me.
+[00:07:48.650 --> 00:07:51.050] LAFORGE: I didn't have time to complete the shut-down procedure.
+[00:07:51.050 --> 00:07:53.610] PICARD: Well, I want an explanation Mister La Forge.
+[00:07:53.850 --> 00:07:54.330] PICARD: Picard out.
+[00:08:04.170 --> 00:08:05.050] PICARD: Have you found anything yet?
+[00:08:06.570 --> 00:08:09.050] LAFORGE: Only that we seem to have more than one mystery here.
+[00:08:09.610 --> 00:08:13.450] LAFORGE: We still don't know why the ship jumped into warp, but it looks like we're lucky it did.
+[00:08:14.170 --> 00:08:17.130] LAFORGE: There was a theta flux distortion building up around the ship.
+[00:08:18.090 --> 00:08:19.370] PICARD: Why didn't our sensors alert us?
+[00:08:19.850 --> 00:08:25.850] LAFORGE: Our sensors were never designed to detect theta flux distortions. And yet there is a record of the distortion in the sensor log.
+[00:08:26.490 --> 00:08:27.290] LAFORGE: That's the other mystery.
+[00:08:27.770 --> 00:08:29.210] DATA: One fact is clear, however.
+[00:08:29.610 --> 00:08:31.370] DATA: The distortion was growing in strength.
+[00:08:31.850 --> 00:08:37.130] DATA: If we had remained at our original position one point seven seconds longer, the distortion would have ruptured our warp core.
+[00:08:37.690 --> 00:08:41.850] LAFORGE: If the Enterprise hadn't jumped into warp when it did, we would've been blown to pieces.
+[00:09:01.130 --> 00:09:03.930] LAFORGE: I just don't get it, Data.
+[00:09:04.650 --> 00:09:07.290] LAFORGE: What would cause the engines to suddenly jump into warp?
+[00:09:08.090 --> 00:09:10.250] DATA: Perhaps the engines were activated by a random power
+[00:09:10.271 --> 00:09:10.607] DATA: fluctuation.
+[00:09:10.607 --> 00:09:13.631] LAFORGE: Which occurred just in time to save the ship?
+[00:09:14.431 --> 00:09:16.351] DATA: It is improbable, but it is possible.
+[00:09:17.151 --> 00:09:17.631] LAFORGE: I don't know.
+[00:09:17.631 --> 00:09:19.631] LAFORGE: I don't think I'm ready to start believing in luck.
+[00:09:28.751 --> 00:09:31.951] DATA: There is another possibility.
+[00:09:32.111 --> 00:09:32.591] LAFORGE: Yeah, what's that.
+[00:09:32.751 --> 00:09:38.831] DATA: The sensors apparently detected a dangerous anomaly that threatened the Enterprise.
+[00:09:39.551 --> 00:09:44.111] DATA: It is possible that they triggered a safety device which caused the ship to avoid destruction.
+[00:09:45.631 --> 00:09:48.751] LAFORGE: Yeah, but there's no direct link between the warp engines and the sensors.
+[00:09:53.071 --> 00:09:54.671] LAFORGE: Whoa. What is that?
+[00:09:57.071 --> 00:10:03.071] LAFORGE: It's some kind of new circuit node and it's connected to at least half a dozen points in the sensor array.
+[00:10:04.431 --> 00:10:08.991] DATA: It appears to be connected to several other systems as well, including the warp control circuits.
+[00:10:08.991 --> 00:10:12.911] LAFORGE: I guess there's a connection between the warp engines and the sensors after all.
+[00:10:13.551 --> 00:10:13.551] LAFORGE: A
+[00:10:16.591 --> 00:10:16.991] LAFORGE: force field.
+[00:10:17.871 --> 00:10:18.671] LAFORGE: Where did that come from?
+[00:10:19.231 --> 00:10:20.031] DATA: I am not certain.
+[00:10:21.311 --> 00:10:22.591] DATA: Perhaps it came from the node itself.
+[00:10:25.551 --> 00:10:28.911] LAFORGE: Well, wherever it came from, it sure doesn't want us messing with this node.
+[00:10:30.191 --> 00:10:32.111] DATA: It appears to be protecting itself.
+[00:10:34.991 --> 00:10:39.471] LAFORGE: We found these nodes in several systems around the ship. At some level or another,
+[00:10:40.038 --> 00:10:40.838] LAFORGE: they're all connected.
+[00:10:41.398 --> 00:10:45.318] DATA: These nodes were linking the sensors to our warp control and defensive systems.
+[00:10:45.798 --> 00:10:47.478] DATA: We believe this is why the ship jumped to warp.
+[00:10:47.478 --> 00:10:53.158] LAFORGE: When the sensors detected danger, the defensive systems reacted to the threat and activated the warp engines to protect us.
+[00:10:53.318 --> 00:10:54.278] RIKER: Where did these nodes come from?
+[00:10:55.078 --> 00:11:00.838] DATA: It is possible that the magnascopic storm we recently experienced had an unexpected effect on the ship's systems.
+[00:11:00.838 --> 00:11:03.718] LAFORGE: Wherever they come from, they seem to be multiplying.
+[00:11:03.878 --> 00:11:07.558] DATA: As they increase, it will become progressively more difficult to control the ship.
+[00:11:08.038 --> 00:11:08.758] RIKER: What do you propose we do?
+[00:11:09.718 --> 00:11:11.558] LAFORGE: Well, getting rid of them isn't going to be so easy.
+[00:11:11.958 --> 00:11:16.038] LAFORGE: When we attempted to examine the circuitry of one of the nodes, it generated a force field to keep us out.
+[00:11:16.838 --> 00:11:21.878] RIKER: Whatever's going on. our first priority is getting back control of the ship.
+[00:11:22.278 --> 00:11:22.758] DATA: Agreed.
+[00:11:23.718 --> 00:11:27.238] DATA: All of the nodal connections intersect in holodeck three.
+[00:11:27.878 --> 00:11:30.198] DATA: It appears to be a focal point of some kind.
+[00:11:30.598 --> 00:11:34.598] LAFORGE: We might be able to find a way to use the holodeck circuitry to disable the nodes permanently.
+[00:11:36.038 --> 00:11:36.598] RIKER: All right. Let's do
+[00:11:40.918 --> 00:11:41.078] RIKER: it.
+[00:11:43.238 --> 00:11:45.718] DATA: Commander, the holodeck appears to be in operation.
+[00:11:46.678 --> 00:11:48.118] RIKER: I thought you shut down the entire system.
+[00:11:48.678 --> 00:11:52.598] DATA: I did, but it has reactivated itself and it will not disengage.
+[00:11:53.158 --> 00:11:54.038] WORF: Which programme is running?
+[00:11:54.758 --> 00:11:57.158] DATA: Several different programs are running simultaneously.
+[00:11:57.638 --> 00:11:58.758] RIKER: This should be interesting.
+[00:12:57.363 --> 00:13:00.243] RIKER: You weren't kidding, Mister Data.
+[00:13:01.203 --> 00:13:01.523] DATA: No, sir.
+[00:13:02.803 --> 00:13:08.883] DATA: I estimate that this scene consists of portions of seven distinct holodeck programs.
+[00:13:09.923 --> 00:13:12.163] RIKER: See if you can access the circuits that have been affected by the nodes.
+[00:13:13.363 --> 00:13:13.363] CONDUCTOR: Tickets!
+[00:13:16.883 --> 00:13:18.883] CONDUCTOR: Tickets
+[00:13:33.843 --> 00:13:35.843] CONDUCTOR: please.
+[00:13:35.907 --> 00:13:36.883] CONDUCTOR: Please have your tickets ready.
+[00:13:36.883 --> 00:13:38.163] CONDUCTOR: Thank you, sir.
+[00:13:38.163 --> 00:13:40.163] CONDUCTOR: Thank you, madam.
+[00:13:41.283 --> 00:13:41.923] CONDUCTOR: Thank you.
+[00:13:41.923 --> 00:13:44.163] CONDUCTOR: Thank you, sir.
+[00:13:45.203 --> 00:13:45.523] CONDUCTOR: Tickets
+[00:13:45.535 --> 00:13:45.935] CONDUCTOR: please.
+[00:13:46.175 --> 00:13:47.775] RUSTIC: You know, I've never even been away from home.
+[00:13:48.255 --> 00:13:49.935] RUSTIC: Now I'm going all the way to Vertiform City!
+[00:13:50.655 --> 00:13:51.215] CONDUCTOR: Very nice, sir.
+[00:13:51.935 --> 00:13:52.575] CONDUCTOR: Enjoy your trip.
+[00:13:53.215 --> 00:13:53.855] CONDUCTOR: Tickets please.
+[00:13:54.095 --> 00:13:54.415] CONDUCTOR: Tickets.
+[00:13:55.215 --> 00:13:55.935] CONDUCTOR: Thank you sir.
+[00:13:57.375 --> 00:13:57.935] CONDUCTOR: Tickets please.
+[00:14:00.495 --> 00:14:01.215] CONDUCTOR: Tickets please.
+[00:14:04.975 --> 00:14:05.295] DATA: Commander.
+[00:14:05.935 --> 00:14:06.335] DATA: I
+[00:14:10.015 --> 00:14:12.815] DATA: have located a large concentration of nodes behind this wall.
+[00:14:13.535 --> 00:14:16.335] DATA: They appear to be connected directly to the holodeck's main power coupling.
+[00:14:17.215 --> 00:14:19.295] RIKER: All right, go ahead and depolarise the entire power grid.
+[00:14:19.855 --> 00:14:21.455] DATA: The power grid is located beneath this deck, sir.
+[00:14:22.415 --> 00:14:23.215] CONDUCTOR: Get away from there.
+[00:14:24.655 --> 00:14:26.495] CONDUCTOR: Would you gentlemen care to show me your tickets?
+[00:14:30.255 --> 00:14:32.175] RIKER: I believe we left our tickets in our compartments.
+[00:14:33.695 --> 00:14:34.015] RIKER: Mister Worf,
+[00:14:34.015 --> 00:14:35.295] RIKER: I told you to bring the tickets.
+[00:14:36.735 --> 00:14:37.695] WORF: I forgot.
+[00:14:39.455 --> 00:14:41.215] CONDUCTOR: I don't think you folks belong on this train.
+[00:14:43.215 --> 00:14:43.615] ENGINEER: Hold it!
+[00:14:46.735 --> 00:14:48.095] ENGINEER: You leave these people alone.
+[00:14:48.095 --> 00:14:49.055] ENGINEER: They're only trying to help.
+[00:14:49.205 --> 00:14:49.805] CONDUCTOR: You
+[00:14:51.455 --> 00:14:52.335] CONDUCTOR: go back to the engine.
+[00:14:53.775 --> 00:14:54.735] CONDUCTOR: This doesn't concern you.
+[00:14:55.775 --> 00:14:57.855] ENGINEER: They're all trying to hijack the train.
+[00:14:58.255 --> 00:14:59.855] RUSTIC: Hey, if you're the Engineer,
+[00:15:00.175 --> 00:15:01.055] RUSTIC: who's doing the drivin'?
+[00:15:09.135 --> 00:15:11.455] GANGSTER: I am.
+[00:15:11.605 --> 00:15:12.205] CREWMAN: Easy,
+[00:15:20.366 --> 00:15:20.766] CREWMAN: sir, easy.
+[00:15:20.926 --> 00:15:21.806] CREWMAN: I've got you.
+[00:15:21.806 --> 00:15:22.686] LAFORGE: I'm all right,
+[00:15:23.406 --> 00:15:23.726] LAFORGE: thanks.
+[00:15:25.406 --> 00:15:28.926] LAFORGE: It looks like the navigational relay's overloaded.
+[00:15:29.726 --> 00:15:29.726] PICARD: Geordi,
+[00:15:43.486 --> 00:15:44.206] PICARD: what's going on?
+[00:15:44.206 --> 00:15:45.006] PICARD: We just went into warp.
+[00:15:45.806 --> 00:15:47.806] LAFORGE: We've lost engine and helm control again, Captain,
+[00:15:48.366 --> 00:15:51.406] LAFORGE: but this time, they're completely burned out.
+[00:15:52.286 --> 00:15:53.486] LAFORGE: I don't know if we can stop the ship.
+[00:15:55.806 --> 00:15:57.006] DATA: I believe we have changed direction.
+[00:15:58.046 --> 00:15:59.326] CONDUCTOR: Now we're on the right track.
+[00:16:01.086 --> 00:16:03.086] CONDUCTOR: Ladies and gentlemen, we are on our way!
+[00:16:11.806 --> 00:16:14.286] GANGSTER: I was right.
+[00:16:14.926 --> 00:16:16.150] GANGSTER: He was trying to make off with my brick.
+[00:16:16.150 --> 00:16:16.286] CONDUCTOR: You
+[00:16:17.726 --> 00:16:18.606] CONDUCTOR: take good care of that.
+[00:16:18.606 --> 00:16:20.926] CONDUCTOR: We can't afford to lose it.
+[00:16:22.606 --> 00:16:28.154] CONDUCTOR: Now, are you people going to leave or are we going to have to throw you off the train?
+[00:16:28.154 --> 00:16:28.446] DATA: Commander.
+[00:16:31.966 --> 00:16:36.846] DATA: According to my tricorder, the holodeck safeties have been disengaged.
+[00:16:37.475 --> 00:16:38.435] DATA: His weapon could be lethal.
+[00:16:38.435 --> 00:16:38.515] RIKER: All
+[00:16:40.915 --> 00:16:41.395] RIKER: right, let's get out
+[00:16:51.955 --> 00:16:52.035] RIKER: of
+[00:16:53.575 --> 00:16:55.115] RIKER: here.
+[00:16:56.655 --> 00:17:01.715] DATA: The number of systems now being affected by the nodes has increased considerably.
+[00:17:02.355 --> 00:17:11.795] DATA: Sensors, engines, replicators, propulsion, they are all working together now, almost independently of the main computer. And the nodes link them all through the holodeck.
+[00:17:11.795 --> 00:17:13.075] RIKER: But why the holodeck?
+[00:17:13.075 --> 00:17:14.195] RIKER: It doesn't make any sense.
+[00:17:14.435 --> 00:17:18.195] DATA: Commander, I believe what happens on the holodeck has a direct effect on the ship.
+[00:17:18.995 --> 00:17:24.224] DATA: When we attempted to destroy the nodes, the characters on the train responded almost immediately to stop us.
+[00:17:24.224 --> 00:17:24.515] RIKER: And
+[00:17:27.955 --> 00:17:32.515] RIKER: when the engineer tried to protect us, one of the characters shot him.
+[00:17:32.515 --> 00:17:36.909] DATA: Then the conductor then signalled for the train to change directions, and at approximately the same time
+[00:17:36.909 --> 00:17:39.235] LAFORGE: The Enterprise also took off in a new direction.
+[00:17:39.635 --> 00:17:41.555] RIKER: Are you saying the ship is under the control of the holodeck?
+[00:17:41.875 --> 00:17:42.675] DATA: Not precisely.
+[00:17:43.555 --> 00:17:47.235] DATA: Geordi, does the configuration of connection nodes look familiar to you?
+[00:17:49.555 --> 00:17:49.795] LAFORGE: Yeah.
+[00:17:51.475 --> 00:17:54.595] LAFORGE: Yeah, it looks a little like the structure of your positronic brain.
+[00:17:54.675 --> 00:17:55.395] DATA: That is correct.
+[00:17:56.035 --> 00:17:59.795] DATA: It would appear that the nodes are in the process of creating a rudimentary neural net.
+[00:17:59.795 --> 00:18:01.075] RIKER: Data, what
+[00:18:02.595 --> 00:18:03.315] RIKER: are you suggesting?
+[00:18:03.955 --> 00:18:05.315] DATA: Unlikely as it may sound,
+[00:18:06.233 --> 00:18:08.953] DATA: I believe that the Enterprise may be forming an intelligence.
+[00:18:20.553 --> 00:18:23.353] DATA: This is a synaptic map of the human neo-cortex.
+[00:18:24.313 --> 00:18:30.873] DATA: This is a cross section of my positronic net. And this is a schematic of the connection nodes linking the ship's systems.
+[00:18:31.993 --> 00:18:35.113] DATA: I believe some sort of neural matrix is forming on the ship.
+[00:18:35.753 --> 00:18:38.873] DATA: It is still relatively primitive, but it is an intelligence nonetheless.
+[00:18:39.033 --> 00:18:40.313] TROI: How could that happen?
+[00:18:40.313 --> 00:18:41.993] DATA: I believe it is an emergent property.
+[00:18:42.713 --> 00:18:43.353] PICARD: Explain.
+[00:18:43.833 --> 00:18:47.433] DATA: Complex systems can sometimes behave in ways that are entirely unpredictable.
+[00:18:48.153 --> 00:18:55.033] DATA: The human brain, for example, might be described in terms of cellular functions and neurochemical interactions.
+[00:18:55.993 --> 00:19:02.873] DATA: But that description does not explain human consciousness, a capacity that far exceeds simple neural functions.
+[00:19:03.593 --> 00:19:06.313] DATA: Consciousness is an emergent property.
+[00:19:06.713 --> 00:19:09.273] LAFORGE: In other words, something that's more than just the sum of its parts.
+[00:19:09.593 --> 00:19:10.153] DATA: Exactly.
+[00:19:10.633 --> 00:19:13.273] CRUSHER: How does that explain what's happening to the Enterprise?
+[00:19:13.273 --> 00:19:18.633] DATA: The Enterprise contains a vast database of information which is managed by a sophisticated computer.
+[00:19:19.273 --> 00:19:24.233] DATA: This complex system gives the ship many of the characteristics of a biological organism.
+[00:19:24.553 --> 00:19:25.033] RIKER: That's true.
+[00:19:25.673 --> 00:19:28.793] RIKER: It sees with its sensors, it talks with its communications systems.
+[00:19:29.353 --> 00:19:32.713] CRUSHER: In a sense, it almost reproduces with the replicators.
+[00:19:33.193 --> 00:19:35.753] PICARD: And you think that the ship has somehow gone beyond those functions
+[00:19:35.753 --> 00:19:37.273] PICARD: and is developing a new capacity?
+[00:19:37.911 --> 00:19:38.231] DATA: Yes, sir.
+[00:19:38.951 --> 00:19:41.431] DATA: I believe a self-determining intelligence is emerging.
+[00:19:42.711 --> 00:19:44.951] WORF: If that is so, what does the ship want?
+[00:19:45.511 --> 00:19:46.311] WORF: Where is it taking us?
+[00:19:46.711 --> 00:19:50.071] DATA: I believe the key to understanding the ship's behaviour lies in the holodeck.
+[00:19:51.031 --> 00:19:53.671] DATA: All of the connection nodes intersect at that location.
+[00:19:54.231 --> 00:19:56.151] DATA: It is clearly some kind of processing centre.
+[00:19:57.271 --> 00:19:58.071] PICARD: Processing centre?
+[00:19:58.551 --> 00:19:58.951] DATA: Yes, sir.
+[00:19:59.431 --> 00:20:05.431] DATA: A focal point where all the ideas and instincts of this emerging intelligence are first expressed in some form.
+[00:20:05.911 --> 00:20:07.591] TROI: Almost like an imagination.
+[00:20:09.511 --> 00:20:11.191] TROI: Captain, I'd like to go to the holodeck.
+[00:20:11.511 --> 00:20:16.471] TROI: I could interact with the characters and maybe find some clues to help us understand what's happening.
+[00:20:17.111 --> 00:20:19.191] PICARD: Very well. Mister Data, Mister Worf,
+[00:20:19.191 --> 00:20:19.991] PICARD: I want you to go along.
+[00:20:20.071 --> 00:20:23.991] PICARD: See if you can to re-establish control of the ship without damaging the nodes.
+[00:20:24.631 --> 00:20:32.471] PICARD: If the ship is truly an emerging intelligence, then we have a responsibility to treat it with the same respect as any other being.
+[00:20:32.621 --> 00:20:33.221] PICARD: WORF:
+[00:20:48.631 --> 00:20:49.671] PICARD: Welcome aboard, Counsellor.
+[00:20:52.151 --> 00:20:55.111] DATA: If you will distract these people, I will attempt to depolarise the power grid.
+[00:21:07.831 --> 00:21:08.391] WORF: Excuse me.
+[00:21:09.031 --> 00:21:10.151] WORF: Have you finished the puzzle yet?
+[00:21:10.838 --> 00:21:12.358] RUSTIC: Not yet, but we're gettin' close.
+[00:21:14.758 --> 00:21:15.478] WORF: Do you recognise it?
+[00:21:18.278 --> 00:21:18.438] TROI: No.
+[00:21:31.318 --> 00:21:32.278] WORF: I would like to help.
+[00:21:33.238 --> 00:21:34.998] WORF: Tell me. What exactly are you making?
+[00:21:35.878 --> 00:21:36.838] RUSTIC: What do you think we're making?
+[00:21:37.318 --> 00:21:37.878] RUSTIC: A puzzle!
+[00:21:38.198 --> 00:21:39.638] WORF: No, I meant the picture.
+[00:21:40.518 --> 00:21:40.838] WORF: What is it?
+[00:21:42.998 --> 00:21:44.278] RUSTIC: Well, I don't know.
+[00:21:46.838 --> 00:21:47.638] TROI: Can you deal me in?
+[00:21:48.518 --> 00:21:50.358] GANGSTER: Sorry. It's a two man game.
+[00:21:56.278 --> 00:21:58.598] GANGSTER: Hey! Get your hand off of that.
+[00:22:00.838 --> 00:22:02.198] TROI: Is that why you killed the Engineer?
+[00:22:02.678 --> 00:22:03.398] TROI: To get this brick?
+[00:22:03.878 --> 00:22:04.998] GANGSTER: I had to get it back.
+[00:22:05.398 --> 00:22:06.518] GANGSTER: You know how much it's worth, lady?
+[00:22:07.478 --> 00:22:07.718] GANGSTER: Plenty.
+[00:22:09.238 --> 00:22:10.998] GANGSTER: And I got to get it to Keystone City.
+[00:22:11.478 --> 00:22:11.638] TROI: Why?
+[00:22:11.718 --> 00:22:12.518] TROI: What's at Keystone City?
+[00:22:13.478 --> 00:22:15.078] GANGSTER: That's where everything begins.
+[00:22:17.398 --> 00:22:17.638] GANGSTER: Gin.
+[00:22:23.878 --> 00:22:26.758] WORF: Are you succeeding, Commander?
+[00:22:27.238 --> 00:22:28.918] DATA: I am ready to access the main power grid.
+[00:22:30.118 --> 00:22:31.558] CONDUCTOR: Keystone City, next stop.
+[00:22:32.038 --> 00:22:33.078] CONDUCTOR: Keystone City.
+[00:22:34.678 --> 00:22:37.078] CONDUCTOR: Well, look who's back.
+[00:22:38.118 --> 00:22:39.158] WORF: We do not want any trouble.
+[00:22:39.638 --> 00:22:40.278] WORF: We are simply
+[00:22:41.320 --> 00:22:41.960] WORF: passengers.
+[00:22:42.840 --> 00:22:45.400] CONDUCTOR: Well then I'm sure you wouldn't mind showing me your tickets?
+[00:22:47.640 --> 00:22:47.800] CONDUCTOR: Right.
+[00:22:49.240 --> 00:22:50.040] CONDUCTOR: Sorry, boys.
+[00:22:51.000 --> 00:22:51.960] CONDUCTOR: You're getting off right here.
+[00:22:56.680 --> 00:22:57.400] GANGSTER: This is my stop.
+[00:22:57.640 --> 00:22:57.800] TROI: Wait.
+[00:22:58.360 --> 00:22:59.560] TROI: What happens at Keystone City?
+[00:22:59.880 --> 00:23:00.920] TROI: Why are you taking the brick there?
+[00:23:00.920 --> 00:23:01.640] GANGSTER: Excuse me.
+[00:23:05.480 --> 00:23:06.840] TROI: I think we should follow that man.
+[00:23:06.920 --> 00:23:08.200] TROI: That brick may be an important
+[00:23:09.800 --> 00:23:11.800] TROI: clue.
+[00:23:38.840 --> 00:23:38.840] TROI: Where
+[00:23:42.360 --> 00:23:42.920] TROI: did he go?
+[00:23:55.480 --> 00:23:56.920] DATA: I can access the power grid here.
+[00:23:56.920 --> 00:23:56.920] DATA: I
+[00:24:03.880 --> 00:24:08.280] DATA: will attempt to depolarise the grid by using a low frequency inversion field.
+[00:24:08.840 --> 00:24:11.080] DATA: It may disengage the nodes without destroying them.
+[00:24:14.143 --> 00:24:14.623] TROI: There he is.
+[00:24:15.583 --> 00:24:16.303] TROI: I'm going after him.
+[00:25:15.263 --> 00:25:15.743] TROI: What are you doing here?
+[00:25:18.703 --> 00:25:19.903] GANGSTER: Laying the foundation.
+[00:25:30.783 --> 00:25:33.663] GANGSTER: Now, if you'll excuse me, I've got a train to catch.
+[00:25:45.084 --> 00:25:46.524] LAFORGE: I don't understand it, Captain.
+[00:25:46.524 --> 00:25:49.084] LAFORGE: All of a sudden, cargo bay five started to depressurise.
+[00:25:49.324 --> 00:25:50.364] PICARD: Did everyone get out in time?
+[00:25:50.364 --> 00:25:50.764] LAFORGE: Yes, sir,
+[00:25:50.764 --> 00:25:56.684] LAFORGE: and I've re-established the containment field, but I'm reading massive power surges in the cargo bay and all sorts of transporter activity.
+[00:25:56.844 --> 00:25:58.764] LAFORGE: Something weird is happening there, Captain.
+[00:25:59.164 --> 00:26:00.764] PICARD: I want you to send a team down there immediately.
+[00:26:01.084 --> 00:26:01.884] PICARD: Find out what's going on.
+[00:26:01.884 --> 00:26:02.204] LAFORGE: Aye, sir.
+[00:26:28.364 --> 00:26:29.244] LAFORGE: La Forge to Bridge.
+[00:26:30.124 --> 00:26:31.164] PICARD: Picard here. What's going on?
+[00:26:31.314 --> 00:26:31.914] LAFORGE: I
+[00:26:33.484 --> 00:26:34.364] LAFORGE: wish I could tell you.
+[00:26:47.644 --> 00:26:50.444] TROI: That man said he was laying a foundation.
+[00:26:51.404 --> 00:26:52.364] WORF: Foundation for what?
+[00:26:54.444 --> 00:26:55.084] TROI: Troi to Data
+[00:26:55.084 --> 00:26:56.204] DATA: Data here.
+[00:26:56.444 --> 00:26:57.004] TROI: How are you doing?
+[00:26:57.164 --> 00:27:01.244] DATA: I encountered a minor difficulty, Counsellor, but it has been dealt with.
+[00:27:02.124 --> 00:27:04.764] DATA: I am
+[00:27:07.564 --> 00:27:08.524] DATA: ready to depolarise the
+[00:27:11.324 --> 00:27:11.804] DATA: power grid.
+[00:27:12.827 --> 00:27:12.827] LAFORGE: It looks
+[00:27:18.827 --> 00:27:23.387] LAFORGE: like the ship's replicator and transporter systems have been merged somehow.
+[00:27:24.987 --> 00:27:25.787] LAFORGE: to create this.
+[00:27:26.507 --> 00:27:28.507] LAFORGE: The question is, what is it?
+[00:27:30.187 --> 00:27:30.507] LAFORGE: Ensign,
+[00:27:30.907 --> 00:27:33.067] LAFORGE: I want to run a full spectral analysis on this.
+[00:27:37.467 --> 00:27:39.467] LAFORGE: I'm picking up a massive power fluctuations.
+[00:27:40.667 --> 00:27:42.427] LAFORGE: The ship is losing its structural integrity.
+[00:27:43.387 --> 00:27:43.867] TROI: What's happening?
+[00:27:45.387 --> 00:27:47.467] WORF: It's an earthquake.
+[00:27:54.587 --> 00:27:55.547] LAFORGE: La Forge to Data
+[00:27:55.627 --> 00:27:56.427] LAFORGE: Stop what you're doing.
+[00:27:56.427 --> 00:27:56.507] DATA: Acknowledged.
+[00:27:56.507 --> 00:27:56.587] WORF: Are
+[00:27:56.667 --> 00:27:56.667] WORF: you all
+[00:28:00.027 --> 00:28:00.027] WORF: right?
+[00:28:01.867 --> 00:28:01.867] TROI: I'm
+[00:28:05.307 --> 00:28:05.627] TROI: fine.
+[00:28:05.627 --> 00:28:08.267] LAFORGE: Data, I
+[00:28:09.787 --> 00:28:11.867] LAFORGE: think we ought to get together and compare notes.
+[00:28:12.267 --> 00:28:12.667] DATA: Agreed.
+[00:28:19.147 --> 00:28:22.827] TROI: The ship was protecting itself again. Stopping us from interfering.
+[00:28:23.467 --> 00:28:25.307] TROI: Whatever it's doing it intends to continue.
+[00:28:25.707 --> 00:28:29.307] LAFORGE: I'm betting it all has something to do with that object that's forming in the cargo bay.
+[00:28:29.787 --> 00:28:30.827] TROI: I think he's right, Captain.
+[00:28:31.547 --> 00:28:38.987] TROI: Look at the common themes playing out on the holodeck. A puzzle being put together, a foundation being laid, a paper doll being fashioned.
+[00:28:39.627 --> 00:28:41.994] TROI: They're all images of something being constructed.
+[00:28:41.994 --> 00:28:47.067] LAFORGE: And some kind of object in the cargo bay that's being constructed atom by atom.
+[00:28:47.433 --> 00:28:48.313] PICARD: What is that object?
+[00:28:48.633 --> 00:28:54.633] LAFORGE: I have no idea. It's composed of silica polymers, duranium, and a couple of other compounds we haven't been able to identify yet.
+[00:28:55.433 --> 00:28:57.593] LAFORGE: But creating it has had quite an effect on our systems.
+[00:28:57.913 --> 00:28:59.913] LAFORGE: Warp power has dropped forty seven percent.
+[00:29:00.873 --> 00:29:03.913] PICARD: Counsellor, did you draw any other conclusions from your experiences on the holodeck?
+[00:29:05.433 --> 00:29:07.673] PICARD: Anything that would help us to understand this situation?
+[00:29:08.873 --> 00:29:14.313] TROI: The holodeck was full of metaphoric imagery like it was having some kind of daydream.
+[00:29:15.273 --> 00:29:20.313] TROI: It may not make literal sense, but symbolically it probably does have some kind of logic to it.
+[00:29:20.313 --> 00:29:24.393] CRUSHER: The characters you spoke to, do they have any significance?
+[00:29:25.513 --> 00:29:27.833] TROI: I think they represent different aspects of the ship.
+[00:29:28.553 --> 00:29:32.153] TROI: The Engineer, for instance, may represent the navigational system,
+[00:29:32.793 --> 00:29:34.953] TROI: the gunslinger could be the weapon system.
+[00:29:36.473 --> 00:29:39.513] PICARD: Is there any way that we can persuade them to give back control of the ship?
+[00:29:40.793 --> 00:29:42.633] TROI: I don't think it's possible to reason with them.
+[00:29:42.953 --> 00:29:45.433] TROI: Many of them are genuinely unaware of what's going on.
+[00:29:47.273 --> 00:29:55.273] TROI: It's as though this emergent intelligence is like an infant acting on impulse, trying to figure itself out as it goes.
+[00:29:55.593 --> 00:30:00.313] TROI: The only source of experience it can draw on is ours through our holodeck programs.
+[00:30:00.793 --> 00:30:05.993] PICARD: Is there a way that we can relate to them on their own level, find some way to influence their behaviour?
+[00:30:08.953 --> 00:30:09.913] TROI: Maybe there is.
+[00:30:12.473 --> 00:30:13.193] TROI: I'd like to go back
+[00:30:13.207 --> 00:30:14.487] TROI: and try.
+[00:30:14.487 --> 00:30:15.127] LAFORGE: Counsellor,
+[00:30:15.927 --> 00:30:17.847] LAFORGE: we haven't been able to re-establish the safeties.
+[00:30:18.327 --> 00:30:22.967] CRUSHER: The injuries you suffered on the holodeck weren't severe, but next time they might kill you.
+[00:30:25.047 --> 00:30:25.687] TROI: I'm aware of that.
+[00:30:29.607 --> 00:30:30.327] PICARD: Very well, Counsellor,
+[00:30:30.327 --> 00:30:36.087] PICARD: go ahead. But bear in mind that whenever we have tried to hinder their efforts, we've failed.
+[00:30:37.767 --> 00:30:40.727] PICARD: Perhaps it's time to cooperate with them.
+[00:30:41.287 --> 00:30:43.287] CONDUCTOR: You
+[00:30:49.527 --> 00:30:50.807] CONDUCTOR: don't belong on this train.
+[00:30:52.887 --> 00:30:54.407] WORF: Three tickets for Vertiform City.
+[00:30:58.487 --> 00:30:59.687] CONDUCTOR: Guess I was wrong about you folks.
+[00:31:01.047 --> 00:31:01.687] CONDUCTOR: Welcome aboard.
+[00:31:05.287 --> 00:31:06.807] WORF: What was that?
+[00:31:07.287 --> 00:31:08.327] CONDUCTOR: We've been having some problems.
+[00:31:08.967 --> 00:31:10.167] CONDUCTOR: The engine is running out of steam.
+[00:31:11.847 --> 00:31:14.487] CONDUCTOR: I hope we make it to Vertiform City on time.
+[00:31:15.047 --> 00:31:16.167] TROI: Is there anything we can do to help?
+[00:31:16.887 --> 00:31:19.447] CONDUCTOR: Well, I could use a pair of strong arms in the engine room.
+[00:31:21.127 --> 00:31:22.327] CONDUCTOR: Might help us get back on schedule.
+[00:31:23.047 --> 00:31:24.647] TROI: Why don't you go with him, Worf?
+[00:31:24.647 --> 00:31:25.527] TROI: We'll see what we can do here.
+[00:31:32.567 --> 00:31:33.047] RUSTIC: Excuse me.
+[00:31:33.847 --> 00:31:34.727] RUSTIC: Are we going to get there okay?
+[00:31:35.367 --> 00:31:35.847] TROI: Of course.
+[00:31:36.487 --> 00:31:37.447] TROI: You needn't worry about a thing.
+[00:31:38.487 --> 00:31:41.127] TROI: So, tell me everything you know about Vertiform City.
+[00:31:42.007 --> 00:31:46.167] RUSTIC: Well, they got this restaurant there where you can eat all you want, any time.
+[00:31:47.127 --> 00:31:47.847] RUSTIC: It's the best food around.
+[00:31:48.030 --> 00:31:48.030] CONDUCTOR: There's the coal
+[00:31:49.790 --> 00:31:49.790] CONDUCTOR: and
+[00:31:53.790 --> 00:31:54.590] CONDUCTOR: there's the boiler.
+[00:31:55.870 --> 00:31:57.150] CONDUCTOR: I'm much obliged for your help.
+[00:31:58.510 --> 00:32:00.030] CONDUCTOR: Well done, sir.
+[00:32:03.566 --> 00:32:05.566] CONDUCTOR: I
+[00:32:09.102 --> 00:32:11.102] CONDUCTOR: think
+[00:32:13.870 --> 00:32:17.390] CONDUCTOR: this'll make a difference, all right.
+[00:32:19.390 --> 00:32:21.390] RIKER: I
+[00:32:24.830 --> 00:32:28.350] RIKER: don't know how or why, sir, but warp power appears to be back to normal levels.
+[00:32:29.150 --> 00:32:29.630] PICARD: What's our heading?
+[00:32:30.910 --> 00:32:34.270] RIKER: We appear to be on a course for Tambor Beta six.
+[00:32:34.670 --> 00:32:35.550] RIKER: It's a white dwarf star.
+[00:32:38.510 --> 00:32:39.310] CONDUCTOR: Keep it steady.
+[00:32:40.270 --> 00:32:41.070] CONDUCTOR: Put your back into it.
+[00:32:42.510 --> 00:32:42.990] CONDUCTOR: That's the ticket.
+[00:32:43.070 --> 00:32:43.230] RIKER: The
+[00:32:54.430 --> 00:32:57.710] RIKER: ship is using a modified tractor beam to collect vertion particles from the star.
+[00:32:58.910 --> 00:32:59.870] PICARD: Vertion particles.
+[00:33:02.270 --> 00:33:02.990] PICARD: Vertiform City.
+[00:33:03.310 --> 00:33:04.350] PICARD: That's what the ship was looking for.
+[00:33:04.350 --> 00:33:12.510] RIKER: The particles are being routed through the transporter system into cargo bay five.
+[00:33:13.790 --> 00:33:14.750] PICARD: Geordi, what's going on?
+[00:33:15.233 --> 00:33:17.473] LAFORGE: The object is absorbing Vertion particles.
+[00:33:18.433 --> 00:33:20.993] LAFORGE: It's growing even faster than before. Commander, I'm
+[00:33:22.673 --> 00:33:24.913] LAFORGE: picking up internal energy this thing.
+[00:33:25.713 --> 00:33:26.113] RIKER: What do you mean?
+[00:33:26.273 --> 00:33:28.193] LAFORGE: I mean it's generating its own energy.
+[00:33:29.153 --> 00:33:32.673] LAFORGE: I'm picking up coherent emissions Matter conversion.
+[00:33:32.673 --> 00:33:33.313] LAFORGE: It's incredible.
+[00:33:34.513 --> 00:33:34.913] LAFORGE: Wait a minute.
+[00:33:35.793 --> 00:33:37.713] LAFORGE: Wait a minute, something's wrong.
+[00:33:38.753 --> 00:33:40.593] LAFORGE: We've got power fluctuations.
+[00:33:41.473 --> 00:33:43.713] LAFORGE: Vertion absorption rate is dropping.
+[00:33:44.113 --> 00:33:45.233] LAFORGE: What's happening to the particle beam?
+[00:33:46.593 --> 00:33:48.833] RIKER: The beam's exhausted the supply of particles in the star.
+[00:33:48.833 --> 00:33:49.873] RIKER: There's nothing left to take out.
+[00:33:50.753 --> 00:33:54.033] LAFORGE: Captain The energy output of the object is decreasing.
+[00:33:55.233 --> 00:33:55.873] CONDUCTOR: Something's wrong.
+[00:33:57.553 --> 00:33:57.873] WORF: What is it?
+[00:33:59.953 --> 00:34:01.793] CONDUCTOR: This was supposed to be Vertiform City.
+[00:34:13.953 --> 00:34:17.313] CONDUCTOR: We've been on the wrong track all along.
+[00:34:17.313 --> 00:34:17.393] WORF: Are you all
+[00:34:32.513 --> 00:34:34.513] WORF: right?
+[00:34:34.513 --> 00:34:34.913] TROI: Yes.
+[00:34:34.993 --> 00:34:35.393] TROI: What happened?
+[00:34:35.873 --> 00:34:38.593] WORF: The Conductor accidently derailed the train.
+[00:34:38.593 --> 00:34:39.633] DATA: Data to Captain Picard.
+[00:34:39.933 --> 00:34:40.833] PICARD: Picard here.
+[00:34:41.013 --> 00:34:43.193] DATA: There has been an accident on the holodeck, sir.
+[00:34:43.393 --> 00:34:44.833] DATA: Has anything happened to the Enterprise?
+[00:34:45.313 --> 00:34:46.913] PICARD: Yes, we've had a ship-wide shutdown.
+[00:34:46.913 --> 00:34:49.393] PICARD: We've lost attitude control and most systems are offline.
+[00:34:50.268 --> 00:34:52.988] LAFORGE: Captain, you'd better take a look at this.
+[00:34:54.508 --> 00:34:58.908] LAFORGE: When the particle beam cut off, the object was beginning to form a coherent energy matrix.
+[00:34:59.148 --> 00:35:00.348] LAFORGE: Now, if these readings are accurate,
+[00:35:00.988 --> 00:35:03.228] LAFORGE: I'd say that the emission patterns were almost organic.
+[00:35:03.708 --> 00:35:06.668] PICARD: Are you suggesting that the Enterprise is trying to create a lifeform?
+[00:35:06.668 --> 00:35:07.148] LAFORGE: I think so.
+[00:35:07.948 --> 00:35:08.588] PICARD: Will it survive?
+[00:35:09.308 --> 00:35:14.908] LAFORGE: Well, its energy levels are dropping rapidly. Unless it gets an infusion of vertion particles, and I mean soon,
+[00:35:15.068 --> 00:35:15.548] LAFORGE: I don't think so.
+[00:35:25.228 --> 00:35:26.668] LAFORGE: Captain, all of our systems are back online and
+[00:35:26.668 --> 00:35:28.428] LAFORGE: we're moving again, at warp nine.
+[00:35:30.588 --> 00:35:31.388] PICARD: Let's get back to the Bridge.
+[00:35:37.628 --> 00:35:39.228] RUSTIC: Whoo wee, that was a close one, wasn't it?
+[00:35:39.708 --> 00:35:40.428] TROI: Where are we going now?
+[00:35:40.748 --> 00:35:42.508] RUSTIC: Well, New Vertiform City, of course.
+[00:35:43.388 --> 00:35:43.948] DATA: Data to Captain.
+[00:35:44.428 --> 00:35:44.828] PICARD: Picard here.
+[00:35:45.388 --> 00:35:46.588] DATA: The train has returned to normal, sir.
+[00:35:46.988 --> 00:35:48.988] DATA: Our destination is New Vertiform City.
+[00:35:50.428 --> 00:35:50.988] PICARD: What's our course?
+[00:35:51.148 --> 00:35:53.068] RIKER: We're heading for the Cordannas system.
+[00:35:53.068 --> 00:35:54.348] PICARD: Another white dwarf star.
+[00:35:55.228 --> 00:35:56.508] RIKER: It's the nearest one to our last position.
+[00:35:57.228 --> 00:35:59.468] LAFORGE: Captain, we have a problem.
+[00:36:01.708 --> 00:36:04.588] LAFORGE: Even at warp nine, the Cordannas system is over twelve hours from here.
+[00:36:06.108 --> 00:36:07.868] PICARD: Will the object in the cargo bay survive that long?
+[00:36:08.188 --> 00:36:09.388] LAFORGE: Yes, sir, but that's not the problem.
+[00:36:10.028 --> 00:36:13.708] LAFORGE: The ship has diverted all of our systems to maximum propulsion, including life support.
+[00:36:14.188 --> 00:36:15.948] LAFORGE: We have less than two hours of reserve oxygen.
+[00:36:17.148 --> 00:36:19.548] PICARD: Mister Data, we have to stop the Enterprise.
+[00:36:19.548 --> 00:36:20.988] PICARD: That means you have to get control of the
+[00:36:21.178 --> 00:36:21.418] PICARD: train.
+[00:36:21.898 --> 00:36:22.538] DATA: Understood, sir.
+[00:36:23.498 --> 00:36:27.978] PICARD: The ship is looking for vertion particles and it believes that the Cordannas system is the closest source.
+[00:36:28.138 --> 00:36:29.578] PICARD: Is there any possibility of anything closer?
+[00:36:30.458 --> 00:36:33.098] LAFORGE: White dwarf stars are the only natural sources of vertions, sir.
+[00:36:33.578 --> 00:36:34.618] PICARD: Then what about artificial ones?
+[00:36:35.338 --> 00:36:36.378] PICARD: Can you create the particles?
+[00:36:38.858 --> 00:36:40.138] DATA: How did the Conductor stop the train?
+[00:36:40.538 --> 00:36:42.618] WORF: There is a braking lever in the engine room.
+[00:36:42.618 --> 00:36:42.698] TROI: Let's go.
+[00:36:43.418 --> 00:36:45.738] RUSTIC: Sorry, folks, but you ain't going nowhere.
+[00:36:51.898 --> 00:36:57.418] LAFORGE: I've narrowed the search to the MacPherson Nebula, which is a supernova remnant, and Dikon Alpha, which is a class nine pulsar.
+[00:36:57.978 --> 00:37:03.978] LAFORGE: They're both fairly close to our current flight path and either one could produce vertion particles if we detonated a modified photon torpedo inside it.
+[00:37:04.618 --> 00:37:06.858] RIKER: Vertions usually occur in miniscule amounts.
+[00:37:07.018 --> 00:37:09.578] RIKER: Do you think either of these phenomena could produce enough of them?
+[00:37:09.578 --> 00:37:10.458] LAFORGE: It's really hard to say.
+[00:37:10.698 --> 00:37:12.458] LAFORGE: I can't even guarantee that we can create them at all.
+[00:37:12.938 --> 00:37:13.898] PICARD: Well, we've got to give it a try.
+[00:37:14.858 --> 00:37:17.098] PICARD: The nebula or the pulsar? It's your choice, Mister La Forge.
+[00:37:17.338 --> 00:37:19.738] LAFORGE: I say go with the nebula.
+[00:37:20.458 --> 00:37:20.778] PICARD: Very well.
+[00:37:21.338 --> 00:37:22.618] PICARD: Begin the torpedo modifications.
+[00:37:23.738 --> 00:37:25.418] RIKER: Now let's see if we can get this ship to go where we want.
+[00:37:29.258 --> 00:37:30.218] TROI: Please listen to me.
+[00:37:30.778 --> 00:37:32.218] TROI: We understand what's happening.
+[00:37:32.538 --> 00:37:36.938] TROI: We know you have get to New Vertiform City, and we want to help you get there.
+[00:37:36.938 --> 00:37:37.658] RUSTIC: Well, I don't know.
+[00:37:38.618 --> 00:37:40.698] TROI: Please, we're your friends.
+[00:37:41.338 --> 00:37:43.338] RUSTIC: You're really going to help get us to New Vertiform City?
+[00:37:43.978 --> 00:37:44.618] TROI: I promise.
+[00:37:45.818 --> 00:37:46.218] RUSTIC: Okay.
+[00:37:46.712 --> 00:37:47.272] RUSTIC: But just one of you.
+[00:37:48.312 --> 00:37:49.592] RUSTIC: The rest stay here.
+[00:37:59.432 --> 00:38:00.152] CONDUCTOR: That's far enough.
+[00:38:00.712 --> 00:38:02.312] GANGSTER: Sorry to spoil your party, pal. It's
+[00:38:02.312 --> 00:38:03.032] GANGSTER: nothing personal.
+[00:38:03.672 --> 00:38:04.872] DATA: I can get us there more quickly.
+[00:38:05.192 --> 00:38:06.152] DATA: I know a shorter route.
+[00:38:06.312 --> 00:38:07.192] GANGSTER: Don't listen to him.
+[00:38:07.192 --> 00:38:07.912] GANGSTER: He's up to somethin'.
+[00:38:08.792 --> 00:38:09.512] CONDUCTOR: A shorter route?
+[00:38:10.072 --> 00:38:10.392] DATA: Yes,
+[00:38:10.632 --> 00:38:12.152] DATA: if you will let me handle the controls.
+[00:38:12.312 --> 00:38:12.872] GANGSTER: Don't do it.
+[00:38:14.472 --> 00:38:17.352] CONDUCTOR: Well we're already behind schedule.
+[00:38:18.632 --> 00:38:19.832] CONDUCTOR: If you can get us there on time.
+[00:38:21.352 --> 00:38:21.992] CONDUCTOR: All right, go on,
+[00:38:22.312 --> 00:38:23.112] CONDUCTOR: but no funny stuff.
+[00:38:24.632 --> 00:38:25.672] DATA: Data to Captain Picard.
+[00:38:26.312 --> 00:38:27.832] DATA: I have taken control of the engine room.
+[00:38:28.312 --> 00:38:28.792] PICARD: Stand by.
+[00:38:30.072 --> 00:38:31.512] PICARD: Are we within sensor range of the nebula?
+[00:38:31.752 --> 00:38:32.392] LAFORGE: Yes, Captain, we are.
+[00:38:33.992 --> 00:38:36.792] PICARD: Mister Data, I need you to slow us to impulse speed.
+[00:38:37.512 --> 00:38:38.472] DATA: I will attempt to do so.
+[00:38:40.232 --> 00:38:41.192] CONDUCTOR: I hope you know what you're doing.
+[00:38:49.272 --> 00:38:51.272] PICARD: Are
+[00:39:01.032 --> 00:39:02.632] PICARD: the modifications to the torpedoes complete?
+[00:39:03.512 --> 00:39:03.752] LAFORGE: Aye, sir.
+[00:39:05.432 --> 00:39:06.072] PICARD: Launch torpedo.
+[00:39:07.512 --> 00:39:14.712] LAFORGE: It's working, Captain.
+[00:39:16.152 --> 00:39:21.032] LAFORGE: The reaction is producing vertion particles.
+[00:39:21.182 --> 00:39:21.782] CONDUCTOR: Well,
+[00:39:24.950 --> 00:39:25.590] CONDUCTOR: what do you know?
+[00:39:26.390 --> 00:39:26.950] CONDUCTOR: We're here.
+[00:39:27.510 --> 00:39:28.790] GANGSTER: New Vertiform City.
+[00:39:29.670 --> 00:39:29.670] RIKER: The
+[00:39:34.630 --> 00:39:37.830] RIKER: nodes are deactivating all over the ship.
+[00:39:38.310 --> 00:39:40.150] RIKER: Our systems are beginning to function normally again.
+[00:39:40.950 --> 00:39:44.870] PICARD: Then the purpose of the ship's intelligence was simply to bring this life form into being.
+[00:39:45.750 --> 00:39:48.390] CRUSHER: There are some species whose sole purpose is to reproduce.
+[00:39:49.110 --> 00:39:50.710] CRUSHER: Once they finally procreate, they die.
+[00:39:51.750 --> 00:39:52.070] LAFORGE: Captain.
+[00:40:19.670 --> 00:40:19.670] LOG: Captain's
+[00:40:25.270 --> 00:40:26.070] LOG: log, supplemental.
+[00:40:26.470 --> 00:40:28.230] LOG: The Enterprise is back under our control.
+[00:40:28.710 --> 00:40:34.710] LOG: All traces of the emergent intelligence are gone and the object it created has disappeared into space.
+[00:40:40.710 --> 00:40:41.030] PICARD: Come.
+[00:40:44.230 --> 00:40:44.630] DATA: Captain,
+[00:40:45.430 --> 00:40:48.470] DATA: I am staging a scene from The Tempest this evening for a small audience.
+[00:40:48.710 --> 00:40:49.830] DATA: I would like for you to attend.
+[00:40:50.710 --> 00:40:51.350] PICARD: I would be honoured.
+[00:40:52.016 --> 00:40:52.496] PICARD: What scene?
+[00:40:52.976 --> 00:40:55.136] DATA: Miranda's first encounter with other human beings.
+[00:40:58.416 --> 00:41:01.456] PICARD: O brave new world, that has such people in it.
+[00:41:02.976 --> 00:41:03.776] DATA: It seemed appropriate.
+[00:41:08.256 --> 00:41:14.416] DATA: Captain, you took a substantial risk in allowing the Enterprise to complete its task.
+[00:41:15.536 --> 00:41:16.016] PICARD: Why do you say that?
+[00:41:16.736 --> 00:41:18.176] DATA: Because the end result was unknown.
+[00:41:19.216 --> 00:41:20.976] DATA: The object could have been dangerous.
+[00:41:21.376 --> 00:41:22.976] DATA: It may in fact, be dangerous.
+[00:41:23.376 --> 00:41:25.856] PICARD: And I have allowed it to go off on its merry way.
+[00:41:26.496 --> 00:41:26.816] DATA: Yes, sir.
+[00:41:26.816 --> 00:41:32.336] PICARD: The intelligence that was formed on the Enterprise didn't just come out of the ship's systems.
+[00:41:33.616 --> 00:41:39.616] PICARD: It came from us. From our mission records, personal logs, holodeck programs, our fantasies.
+[00:41:40.576 --> 00:41:43.856] PICARD: Now, if our experiences with the Enterprise have been honourable,
+[00:41:45.456 --> 00:41:49.216] PICARD: can't we trust that the sum of those experiences will be the same?
+[00:41:56.000 --> 00:42:11.000] [music]
+[00:42:41.000 --> 00:42:49.000] [music]
+[00:42:52.000 --> 00:43:02.000] [music]

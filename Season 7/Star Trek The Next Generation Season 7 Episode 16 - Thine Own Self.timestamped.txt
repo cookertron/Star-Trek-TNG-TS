@@ -1,0 +1,648 @@
+[00:00:02.160 --> 00:00:07.360] LOG: Bridge Officer's log, stardate 47611.2.
+[00:00:08.000 --> 00:00:09.280] LOG: Doctor Beverly Crusher reporting.
+[00:00:10.480 --> 00:00:12.880] LOG: We have rendezvoused with Counsellor Troi's shuttlecraft.
+[00:00:13.280 --> 00:00:19.040] LOG: She has just returned from a three day class reunion on Starbase two three one.
+[00:00:19.040 --> 00:00:21.840] CRUSHER: Send a message to Commander Data and inform him of our delay.
+[00:00:22.240 --> 00:00:22.480] RAINER: Aye, sir.
+[00:00:24.800 --> 00:00:25.840] CRUSHER: Deanna, welcome back.
+[00:00:25.840 --> 00:00:26.320] TROI: Thank you.
+[00:00:27.360 --> 00:00:28.480] TROI: I was just reporting in.
+[00:00:28.480 --> 00:00:30.480] TROI: I didn't expect to find anyone up except Data.
+[00:00:31.040 --> 00:00:32.080] CRUSHER: Data's away on assignment.
+[00:00:33.280 --> 00:00:36.800] CRUSHER: A Federation deep space probe went off course and crashed on Barkon Four.
+[00:00:37.360 --> 00:00:42.080] CRUSHER: Some of the material in the casing was radioactive, so Data was sent to recover it before it could contaminate the biosphere.
+[00:00:42.880 --> 00:00:44.320] TROI: Isn't Barkon Four inhabited?
+[00:00:44.800 --> 00:00:52.240] CRUSHER: Yes, it's a pre-industrial society, but the probe crashed over a hundred kilometres from the nearest settlement so Data shouldn't have any contact with the Barkonians.
+[00:00:53.360 --> 00:00:55.280] CRUSHER: So, how was the reunion?
+[00:00:55.920 --> 00:00:56.320] TROI: Fine.
+[00:00:57.440 --> 00:01:00.160] TROI: It was good to see some old friends. I'd lost touch with most of them.
+[00:01:01.600 --> 00:01:04.960] TROI: It's interesting to see the different paths some of their lives have taken.
+[00:01:06.880 --> 00:01:09.920] TROI: Beverly, you don't usually stand a watch on the Bridge even when Data's not here.
+[00:01:10.720 --> 00:01:12.080] CRUSHER: I volunteered tonight.
+[00:01:13.200 --> 00:01:16.080] CRUSHER: I like to put in a little Bridge time now and then,
+[00:01:16.080 --> 00:01:18.800] CRUSHER: stay on top of operations, tactical procedures.
+[00:01:20.800 --> 00:01:22.800] CRUSHER: The truth is, I like it.
+[00:01:23.840 --> 00:01:28.160] CRUSHER: It's not every doctor who gets to command a starship, even if it is the night shift.
+[00:01:30.960 --> 00:01:32.720] TROI: May I ask you a personal question?
+[00:01:33.946 --> 00:01:35.626] TROI: Why did you decide to become a Commander?
+[00:01:35.946 --> 00:01:42.346] TROI: I mean, you didn't need the rank in order to be Chief Medical Officer, so why put yourself through all the extra work?
+[00:01:42.906 --> 00:01:43.626] CRUSHER: Oh, I don't know.
+[00:01:44.106 --> 00:01:46.026] CRUSHER: I never even thought about my rank for a long time.
+[00:01:46.026 --> 00:01:48.026] CRUSHER: It seemed pretty trivial compared to being a doctor.
+[00:01:48.826 --> 00:01:55.306] CRUSHER: But then, about eight years ago, I started to feel like I wanted to stretch myself a little.
+[00:01:57.066 --> 00:02:00.026] RAINER: Commander, there's no response from Commander Data to our signal.
+[00:02:01.146 --> 00:02:03.066] CRUSHER: Continue sending him updates on our schedule.
+[00:02:03.786 --> 00:02:04.026] RAINER: Aye, sir.
+[00:02:04.906 --> 00:02:05.706] TROI: Is something wrong?
+[00:02:06.186 --> 00:02:10.106] CRUSHER: No. I wanted to let Data know there'd be a delay in picking him up for a few of days.
+[00:02:10.666 --> 00:02:14.876] CRUSHER: We have orders to rendezvous with the Lexington and take some medical supplies to the Taranko Colony.
+[00:02:14.876 --> 00:02:15.866] TROI: But he's not responding.
+[00:02:16.426 --> 00:02:19.946] CRUSHER: Geordi said that the radiation from the probe might interfere with communications.
+[00:02:20.266 --> 00:02:22.666] CRUSHER: I just thought I'd try anyway.
+[00:02:25.146 --> 00:02:28.186] GARVIN: So when you return from school tonight, I'll be meeting with the village elders.
+[00:02:28.666 --> 00:02:29.226] GIA: Again?
+[00:02:29.706 --> 00:02:30.186] GARVIN: Gia.
+[00:02:30.906 --> 00:02:34.426] GIA: I know, I know. You're the town magistrate and you have a lot of work to do,
+[00:02:34.746 --> 00:02:37.066] GIA: but it always seems like you're always in some meeting or
+[00:03:17.318 --> 00:03:20.118] PICARD: Space, the final frontier.
+[00:03:21.958 --> 00:03:24.838] PICARD: These are the voyagers of the starship Enterprise.
+[00:03:25.958 --> 00:03:33.958] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:35.558 --> 00:03:39.078] PICARD: to boldly go where no one has gone before.
+[00:04:07.000 --> 00:04:16.000] [music]
+[00:04:37.475 --> 00:04:39.475] GARVIN: Gia, go home. Now.
+[00:04:42.675 --> 00:04:43.075] GARVIN: Who are you?
+[00:04:44.115 --> 00:04:44.755] GARVIN: What do you want?
+[00:04:44.905 --> 00:04:46.305] DATA: Who are you?
+[00:04:46.595 --> 00:04:46.915] DATA: What do
+[00:04:48.595 --> 00:04:50.835] DATA: you want?
+[00:04:57.715 --> 00:04:58.275] GARVIN: What's wrong with you?
+[00:05:01.395 --> 00:05:01.875] DATA: What's
+[00:05:03.795 --> 00:05:05.475] DATA: wrong with you?
+[00:05:05.475 --> 00:05:07.795] GARVIN: There's nothing wrong with me.
+[00:05:10.275 --> 00:05:10.835] GARVIN: Who are you?
+[00:05:12.035 --> 00:05:12.835] GARVIN: What is your name?
+[00:05:15.475 --> 00:05:16.435] GARVIN: Can you understand me?
+[00:05:20.115 --> 00:05:22.195] GARVIN: My name is Garvin.
+[00:05:25.235 --> 00:05:26.275] DATA: My name
+[00:05:28.915 --> 00:05:30.115] DATA: is Garvin?
+[00:05:33.075 --> 00:05:34.275] GARVIN: I thought I told you to go home.
+[00:05:36.915 --> 00:05:37.315] GIA: I know.
+[00:05:39.715 --> 00:05:39.955] DATA: I
+[00:05:43.075 --> 00:05:44.755] DATA: do not know my name.
+[00:05:46.515 --> 00:05:46.595] GARVIN: What?
+[00:05:47.555 --> 00:05:48.355] DATA: You asked
+[00:05:50.355 --> 00:05:51.555] DATA: if I knew my name.
+[00:05:53.235 --> 00:05:53.955] DATA: I do not.
+[00:05:55.235 --> 00:05:56.995] GARVIN: Well at least you seem to be understanding a little more.
+[00:05:58.355 --> 00:05:58.755] DATA: Yes.
+[00:06:01.155 --> 00:06:01.635] DATA: It is
+[00:06:03.555 --> 00:06:04.835] DATA: becoming easier.
+[00:06:05.635 --> 00:06:06.995] GIA: Ask him where he's from, father.
+[00:06:07.840 --> 00:06:09.520] GARVIN: Gia, go on to school.
+[00:06:09.600 --> 00:06:10.800] GARVIN: I'll deal with the stranger.
+[00:06:11.040 --> 00:06:11.760] GIA: Yes, Father.
+[00:06:17.440 --> 00:06:18.000] GIA: Goodbye.
+[00:06:24.800 --> 00:06:24.800] DATA: Goodbye.
+[00:06:24.800 --> 00:06:26.800] GARVIN: Your eyes and skin look so strange.
+[00:06:28.720 --> 00:06:29.280] GARVIN: Your clothes,
+[00:06:31.120 --> 00:06:32.560] GARVIN: you look like you've been in some kind of accident.
+[00:06:37.760 --> 00:06:38.800] DATA: I do not remember
+[00:06:40.480 --> 00:06:41.440] DATA: being in an accident.
+[00:06:43.120 --> 00:06:43.920] GARVIN: What do you remember?
+[00:06:47.200 --> 00:06:47.920] DATA: I walked here
+[00:06:49.440 --> 00:06:50.400] DATA: from the mountains.
+[00:06:51.040 --> 00:06:51.840] GARVIN: The mountains?
+[00:06:53.280 --> 00:06:55.520] GARVIN: The mountains are over two hundred seltons from here.
+[00:06:56.880 --> 00:06:59.440] DATA: I have a clear memory of my journey.
+[00:07:01.520 --> 00:07:02.800] GARVIN: What do you remember before that?
+[00:07:06.960 --> 00:07:08.480] DATA: I have no prior memory.
+[00:07:12.240 --> 00:07:13.040] GARVIN: Do you know what that is?
+[00:07:18.800 --> 00:07:19.200] DATA: No.
+[00:07:20.960 --> 00:07:21.200] GARVIN: May I?
+[00:07:21.200 --> 00:07:21.200] GARVIN: May I
+[00:07:23.040 --> 00:07:23.200] GARVIN: have it?
+[00:07:23.760 --> 00:07:24.160] DATA: Yes.
+[00:07:26.720 --> 00:07:26.880] GARVIN: There
+[00:07:29.200 --> 00:07:30.960] GARVIN: might be something in here that can tell us who you are.
+[00:07:32.480 --> 00:07:32.560] GARVIN: I
+[00:07:34.080 --> 00:07:35.280] GARVIN: wonder what these markings mean.
+[00:07:36.240 --> 00:07:37.040] DATA: Radioactive.
+[00:07:37.617 --> 00:07:37.777] GARVIN: What?
+[00:07:38.657 --> 00:07:40.257] DATA: That is what is written on the container.
+[00:07:40.897 --> 00:07:42.177] GARVIN: You can read this language?
+[00:07:44.017 --> 00:07:44.657] DATA: Evidently.
+[00:07:46.417 --> 00:07:47.137] GARVIN: Radioactive.
+[00:07:47.937 --> 00:07:48.417] GARVIN: What does that mean?
+[00:07:50.657 --> 00:07:51.457] DATA: I do not know.
+[00:07:53.617 --> 00:07:54.817] DATA: Perhaps it is my name.
+[00:07:55.297 --> 00:07:57.057] GARVIN: I've never heard a name like that.
+[00:07:58.337 --> 00:08:00.097] GARVIN: You must come from a very distant place.
+[00:08:02.000 --> 00:08:17.000] [music]
+[00:08:40.737 --> 00:08:41.857] TROI: Is that supposed to be a question?
+[00:08:43.297 --> 00:08:46.257] TROI: Because if you're asking me if I liked what you were playing, then the answer is yes.
+[00:08:46.897 --> 00:08:51.297] TROI: You know, this is a much better way of communicating for you.
+[00:08:51.537 --> 00:08:54.017] TROI: It's far less confusing than the way you normally speak.
+[00:08:56.257 --> 00:08:59.937] RIKER: I knew I could count on my Imzadi, the ship's Counsellor to boost my self-image.
+[00:09:00.257 --> 00:09:01.777] TROI: I'm glad to be of service.
+[00:09:01.857 --> 00:09:04.897] RIKER: Did you come here for something in particular, or just general Riker bashing?
+[00:09:05.617 --> 00:09:07.937] TROI: Actually I wanted to ask your opinion about something.
+[00:09:09.409 --> 00:09:12.769] TROI: I've been thinking about taking the Bridge Officer's test and becoming a full Commander.
+[00:09:13.649 --> 00:09:15.101] RIKER: What brought this up?
+[00:09:15.101 --> 00:09:23.089] TROI: A lot of things. Working on the personnel review last month, talking with Beverly about her experiences, going to my class reunion.
+[00:09:23.329 --> 00:09:25.249] RIKER: Ah, the class reunion.
+[00:09:26.289 --> 00:09:28.929] RIKER: You saw a few old friends who had already taken the test?
+[00:09:29.649 --> 00:09:36.289] TROI: All right, I admit it was a catalyst. But I can honestly say that I've been thinking about this off and on over the past two years.
+[00:09:36.929 --> 00:09:37.969] RIKER: Why the past two years?
+[00:09:38.689 --> 00:09:42.609] TROI: Do you remember when the Enterprise hit that quantum filament and I was in command on the Bridge?
+[00:09:42.769 --> 00:09:43.089] RIKER: I do.
+[00:09:43.729 --> 00:09:46.129] TROI: Well, when that happened, I was overwhelmed.
+[00:09:46.449 --> 00:09:55.329] TROI: But when it was over I realised that a part of me missed it. Not the actual disaster, but the experience of being in command.
+[00:09:56.449 --> 00:09:59.569] TROI: I felt like I was exploring a whole new side of myself.
+[00:10:00.449 --> 00:10:05.249] TROI: Not that I want to give up counselling by any means, but I really would like to stretch myself a little.
+[00:10:06.129 --> 00:10:06.529] RIKER: Deanna,
+[00:10:09.409 --> 00:10:12.849] RIKER: if you take the Bridge Officer's test, you'll have my complete support.
+[00:10:15.089 --> 00:10:19.649] RIKER: But as First Officer, I'll be the one judging your performance, and you should know I am a pretty tough judge.
+[00:10:20.289 --> 00:10:21.889] TROI: And I'm a pretty good student.
+[00:10:23.569 --> 00:10:24.369] RIKER: We'll start tomorrow morning,
+[00:10:25.009 --> 00:10:25.889] RIKER: oh eight hundred hours.
+[00:10:29.569 --> 00:10:30.769] TALUR: Remarkable set of teeth.
+[00:10:31.489 --> 00:10:32.369] TALUR: Breath smells like,
+[00:10:33.569 --> 00:10:35.249] TALUR: well, it doesn't have any smell actually.
+[00:10:36.049 --> 00:10:36.929] TALUR: You can close your mouth.
+[00:10:38.609 --> 00:10:39.169] TALUR: Let's see.
+[00:10:40.289 --> 00:10:42.689] TALUR: Heartbeat sounds a little odd, but seems very regular.
+[00:10:45.590 --> 00:10:49.510] TALUR: Skin feels clammy, but you say you feel fine?
+[00:10:50.310 --> 00:10:51.110] DATA: That is correct.
+[00:10:51.510 --> 00:10:54.150] TALUR: No headaches, palpitations, sluggishness, indigestion?
+[00:10:54.710 --> 00:10:58.150] DATA: No. But I cannot have indigestion since I have not eaten.
+[00:10:58.630 --> 00:11:00.390] TALUR: Ah. Malnutrition.
+[00:11:00.790 --> 00:11:04.390] TALUR: You should try to eat something that will build strength and return your vitality.
+[00:11:04.790 --> 00:11:06.470] TALUR: Lots of meat, butter, cheese,
+[00:11:06.630 --> 00:11:07.430] TALUR: that should be a start.
+[00:11:07.910 --> 00:11:09.190] GARVIN: What about his eyes and his skin?
+[00:11:09.590 --> 00:11:10.230] GARVIN: They're so odd.
+[00:11:10.710 --> 00:11:11.270] TALUR: Quite so,
+[00:11:11.590 --> 00:11:11.990] TALUR: quite so.
+[00:11:11.990 --> 00:11:16.470] TALUR: I'm sure my grandmother would have called our friend here a demon or spirit or some kind of monster.
+[00:11:17.030 --> 00:11:24.630] TALUR: But current scientific methodology allows us to dismiss such ridiculous superstitions and concentrate on scientific reality.
+[00:11:25.270 --> 00:11:26.550] DATA: Then what do you believe I am?
+[00:11:27.110 --> 00:11:28.710] TALUR: You are an ice man.
+[00:11:29.990 --> 00:11:31.030] DATA: Ice man?
+[00:11:31.270 --> 00:11:36.310] TALUR: Yes. You probably come from a race of people who lived in the snow and ice of the Vellorian mountains.
+[00:11:37.110 --> 00:11:42.230] TALUR: Your skin and eye colouration are a result of prolonged exposure to harsh winter conditions.
+[00:11:43.430 --> 00:11:44.310] DATA: Then I am not ill?
+[00:11:44.950 --> 00:11:49.990] TALUR: Aside from your memory loss, you do not seem to have any symptoms of any illness that I am familiar with.
+[00:11:50.630 --> 00:11:52.630] TALUR: No. You are an ice man.
+[00:11:53.590 --> 00:12:00.630] TALUR: Now, get something to eat and a good night's rest, and I will come back tomorrow to see if your memory has begun to return.
+[00:12:01.590 --> 00:12:01.910] DATA: Thank you.
+[00:12:06.310 --> 00:12:06.950] TALUR: Hello, Gia.
+[00:12:07.110 --> 00:12:07.350] GIA: Hello.
+[00:12:11.030 --> 00:12:12.150] GIA: What did Talur say about him?
+[00:12:12.870 --> 00:12:13.430] GIA: Is he sick?
+[00:12:15.114 --> 00:12:15.594] GARVIN: Not exactly.
+[00:12:16.554 --> 00:12:19.034] GARVIN: She said he's lost his memory, but seems to be fine otherwise.
+[00:12:19.674 --> 00:12:22.074] GARVIN: Talur thinks he's from a race that lives in the mountains.
+[00:12:22.714 --> 00:12:24.394] DATA: I am an ice man.
+[00:12:25.274 --> 00:12:28.154] GARVIN: We'll have to call you something besides Ice man until your memory returns.
+[00:12:29.994 --> 00:12:31.274] GARVIN: What was the word on the container?
+[00:12:32.554 --> 00:12:33.274] DATA: Radioactive.
+[00:12:34.954 --> 00:12:35.994] GARVIN: Mister Radioactive?
+[00:12:37.514 --> 00:12:38.314] GIA: I don't like that name.
+[00:12:39.674 --> 00:12:42.154] GIA: Let's call him Jayden.
+[00:12:43.194 --> 00:12:43.914] GARVIN: What do you think of that?
+[00:12:45.834 --> 00:12:46.314] DATA: Jayden.
+[00:12:47.834 --> 00:12:48.634] DATA: That is acceptable.
+[00:12:49.434 --> 00:12:51.914] GARVIN: Right now, we need to clean him up and get him something decent to wear.
+[00:12:52.634 --> 00:12:54.634] GARVIN: Run upstairs and get some of my old clothes for him.
+[00:12:55.434 --> 00:12:55.994] GIA: Yes, Father.
+[00:12:58.634 --> 00:13:01.834] GARVIN: I wonder if Skoran can tell us something about this metal of yours.
+[00:13:06.794 --> 00:13:09.354] SKORAN: You, Ice man, where'd you find this?
+[00:13:09.354 --> 00:13:10.234] DATA: I do not know.
+[00:13:11.194 --> 00:13:11.594] GARVIN: I told you, he's
+[00:13:13.354 --> 00:13:17.914] GARVIN: lost his memory and we're calling him Jayden for now.
+[00:13:18.314 --> 00:13:19.274] SKORAN: Jayden, huh? The
+[00:13:20.474 --> 00:13:21.354] SKORAN: metal is slightly warm.
+[00:13:22.474 --> 00:13:23.674] GARVIN: All the fragments are like that.
+[00:13:26.874 --> 00:13:27.114] SKORAN: It's
+[00:13:30.554 --> 00:13:31.914] SKORAN: obviously been tempered and milled.
+[00:13:32.714 --> 00:13:34.394] SKORAN: The lustrous quality of the metal is so pure.
+[00:13:34.554 --> 00:13:36.714] SKORAN: This wasn't made in any forge I've ever seen.
+[00:13:38.234 --> 00:13:38.794] SKORAN: Will you sell them?
+[00:13:39.274 --> 00:13:39.754] GARVIN: You want them?
+[00:13:40.474 --> 00:13:42.314] SKORAN: The metal's malleable enough to make some jewellry.
+[00:13:43.034 --> 00:13:43.914] GARVIN: They belong to Jayden.
+[00:13:43.914 --> 00:13:45.354] GARVIN: Do you want to sell them?
+[00:13:46.234 --> 00:13:46.954] GARVIN: You're going to need money.
+[00:13:48.074 --> 00:13:48.714] DATA: You may be right.
+[00:13:49.896 --> 00:13:51.656] DATA: But I do not wish to sell all the fragments.
+[00:13:52.296 --> 00:13:53.896] DATA: They may provide a clue to my identity.
+[00:13:55.176 --> 00:13:56.616] SKORAN: I'll give you twenty doraks for half the lot.
+[00:13:58.296 --> 00:13:58.696] GARVIN: Agreed.
+[00:13:59.256 --> 00:14:01.256] APPRENTICE: My leg! My leg! Get
+[00:14:07.096 --> 00:14:09.896] APPRENTICE: it off!
+[00:14:09.896 --> 00:14:12.136] APPRENTICE: Get it off!
+[00:14:12.216 --> 00:14:12.456] SKORAN: We need a
+[00:14:14.456 --> 00:14:14.456] SKORAN: lever.
+[00:14:14.456 --> 00:14:15.016] GARVIN: It'll be all right.
+[00:14:15.576 --> 00:14:16.216] GARVIN: Don't struggle.
+[00:14:16.536 --> 00:14:16.856] GARVIN: It will only
+[00:14:18.576 --> 00:14:20.576] GARVIN: Jayden,
+[00:14:24.896 --> 00:14:26.896] GARVIN: put
+[00:14:30.056 --> 00:14:30.376] GARVIN: it down.
+[00:14:46.776 --> 00:14:53.336] DATA: I believe the support structure on the anvil collapsed because some of the wood had rotted.
+[00:14:53.416 --> 00:14:53.576] DATA: Did
+[00:15:04.616 --> 00:15:07.736] DATA: I do something wrong, Garvin?
+[00:15:09.096 --> 00:15:09.256] GARVIN: No,
+[00:15:10.936 --> 00:15:11.736] GARVIN: just unexpected.
+[00:15:12.322 --> 00:15:15.256] TALUR: It's perfectly understandable.
+[00:15:15.842 --> 00:15:18.536] TALUR: Your people probably all have great strength.
+[00:15:19.551 --> 00:15:24.111] TALUR: It will allow them to fight off the ferocious creatures that live in the Vellorian Mountains.
+[00:15:25.151 --> 00:15:28.671] DATA: You have told me no one from the village has ever been to the Vellorian Mountains.
+[00:15:29.471 --> 00:15:31.951] DATA: How can you be certain there are ferocious creatures there?
+[00:15:32.671 --> 00:15:33.631] TALUR: It's a well known fact.
+[00:15:34.751 --> 00:15:36.191] DATA: But no one has actually seen one?
+[00:15:37.071 --> 00:15:38.351] TALUR: Well, not to my knowledge,
+[00:15:38.351 --> 00:15:38.591] TALUR: but
+[00:15:40.911 --> 00:15:41.871] GIA: Father, are you all right?
+[00:15:44.351 --> 00:15:45.791] GARVIN: I've been tired since this afternoon.
+[00:15:47.071 --> 00:15:48.111] GARVIN: I'm sure it's nothing.
+[00:15:49.071 --> 00:15:50.191] TALUR: You feel slightly warm.
+[00:15:50.751 --> 00:15:52.751] TALUR: Some fresh air and a brisk walk will do you good.
+[00:15:53.551 --> 00:15:54.671] GARVIN: That sounds like a good idea.
+[00:15:57.791 --> 00:15:58.431] GARVIN: I'll be back soon.
+[00:16:15.551 --> 00:16:18.031] GIA: You didn't like it?
+[00:16:21.391 --> 00:16:22.911] DATA: I neither liked it nor disliked it.
+[00:16:23.551 --> 00:16:24.911] DATA: I simply had no appetite.
+[00:16:26.351 --> 00:16:28.351] GIA: Father's cooking isn't as good as mother's.
+[00:16:29.551 --> 00:16:30.351] GIA: He tries, though.
+[00:16:31.711 --> 00:16:32.431] DATA: Where is your mother?
+[00:16:34.911 --> 00:16:36.191] GIA: She died about a year ago.
+[00:16:38.111 --> 00:16:38.911] GIA: Father says
+[00:16:40.591 --> 00:16:42.271] GIA: she went to a beautiful place
+[00:16:44.111 --> 00:16:45.391] GIA: where everything is peaceful
+[00:16:46.911 --> 00:16:47.951] GIA: and everyone loves each other,
+[00:16:49.791 --> 00:16:50.991] GIA: and no one ever gets sick.
+[00:16:53.249 --> 00:16:54.769] GIA: Do you think there's really a place like that?
+[00:17:02.449 --> 00:17:02.849] DATA: Yes.
+[00:17:05.089 --> 00:17:05.409] DATA: I do.
+[00:17:15.409 --> 00:17:20.689] LAFORGE: We just lost contact with everything above deck twenty one, including the Bridge.
+[00:17:21.169 --> 00:17:23.889] WORF: There is something wrong with one of the antimatter containment units.
+[00:17:23.889 --> 00:17:25.969] WORF: The magnetic field is starting to fluctuate.
+[00:17:26.369 --> 00:17:27.489] TROI: Switch to auxiliary control.
+[00:17:29.249 --> 00:17:30.849] WORF: Auxiliary control is not online.
+[00:17:31.249 --> 00:17:33.969] WORF: We are starting to lose containment on antimatter storage unit three.
+[00:17:34.769 --> 00:17:35.089] TROI: All right.
+[00:17:37.809 --> 00:17:40.129] TROI: Switch the EM power inverter to the lateral.
+[00:17:41.249 --> 00:17:41.889] TROI: No, wait.
+[00:17:44.449 --> 00:17:45.409] TROI: Use the neodyne relay.
+[00:17:45.729 --> 00:17:46.129] LAFORGE: Commander,
+[00:17:46.209 --> 00:17:47.569] LAFORGE: the neodyne relay isn't holding.
+[00:17:47.969 --> 00:17:48.769] LAFORGE: Containment failure
+[00:17:49.089 --> 00:17:49.889] LAFORGE: in ten seconds.
+[00:17:50.369 --> 00:17:51.569] TROI: Computer, emergency procedure.
+[00:17:52.049 --> 00:17:53.729] TROI: Eject antimatter storage unit three.
+[00:17:53.809 --> 00:17:55.809] TROI: Authorisation, Troi omega omega three one.
+[00:17:55.969 --> 00:17:56.849] COMPUTER: Unable to comply.
+[00:17:57.009 --> 00:18:00.529] COMPUTER: All power to ejection systems has been terminated and cannot be restored.
+[00:18:00.929 --> 00:18:02.289] LAFORGE: Commander, the unit's beginning to o
+[00:18:05.649 --> 00:18:05.649] RIKER: Congratulations.
+[00:18:05.649 --> 00:18:05.809] RIKER: You
+[00:18:07.409 --> 00:18:08.929] RIKER: just destroyed the Enterprise.
+[00:18:09.329 --> 00:18:10.689] TROI: Thank you for the encouragement.
+[00:18:10.769 --> 00:18:11.409] RIKER: Don't feel bad.
+[00:18:12.209 --> 00:18:13.089] RIKER: You passed everything else.
+[00:18:13.649 --> 00:18:16.929] RIKER: Diplomatic law, first contact procedures, Bridge operations.
+[00:18:17.322 --> 00:18:19.642] RIKER: The Engineering qualification's one of the toughest parts of the test.
+[00:18:20.042 --> 00:18:21.002] TROI: So what did I do wrong?
+[00:18:22.602 --> 00:18:23.562] RIKER: I'm afraid I can't tell you that.
+[00:18:24.122 --> 00:18:24.522] TROI: Why not?
+[00:18:24.522 --> 00:18:25.882] TROI: What kind of a test is this?
+[00:18:26.122 --> 00:18:29.322] RIKER: It's the kind of a test that you'll have to take again if you want to be a Bridge Officer.
+[00:18:30.202 --> 00:18:32.682] RIKER: Only next time, the problem won't be so easy,
+[00:18:33.882 --> 00:18:36.682] RIKER: so I suggest you study up on your emergency procedures.
+[00:18:36.922 --> 00:18:39.562] TROI: Well how do I know what to study if you won't tell me what I did wrong?
+[00:18:40.282 --> 00:18:41.642] RIKER: I don't know.
+[00:18:41.642 --> 00:18:42.522] RIKER: I'm afraid I can't tell you that either.
+[00:18:49.082 --> 00:18:53.162] TALUR: Rock, fire, sky, and water are the basic elements of the universe.
+[00:18:53.642 --> 00:18:57.242] TALUR: They can be found in every object, every person, every animal, everything.
+[00:18:58.602 --> 00:19:01.562] TALUR: The rock in this wood can be felt by its weight and by its hardness.
+[00:19:01.962 --> 00:19:07.562] TALUR: If we expose the wood to flame, we can encourage the fire within the wood to show itself.
+[00:19:08.362 --> 00:19:10.682] TALUR: We can also see smoke,
+[00:19:12.602 --> 00:19:13.962] TALUR: which is a part of the sky.
+[00:19:15.562 --> 00:19:17.722] TALUR: The water in wood is difficult to see.
+[00:19:18.362 --> 00:19:24.842] TALUR: Sometimes the elements are buried deep within the objects, but the four elements are always there.
+[00:19:29.162 --> 00:19:29.802] TALUR: Yes, Jayden?
+[00:19:30.842 --> 00:19:32.282] DATA: I do not believe that is correct.
+[00:19:33.162 --> 00:19:33.642] TALUR: Oh?
+[00:19:34.762 --> 00:19:43.002] DATA: I believe you are reasoning by analogy, classifying objects and phenomena according to superficial observation rather than empirical evidence.
+[00:19:43.802 --> 00:19:44.682] DATA: Wood, for example,
+[00:19:45.152 --> 00:19:50.352] DATA: does not contain fire simply because it is combustible, nor does it contain rock simply because it is heavy.
+[00:19:51.072 --> 00:19:58.752] DATA: Wood, like any complex organic form, is composed of thousands of different chemical compounds, none of which is fire.
+[00:19:59.152 --> 00:20:00.512] TALUR: That will be enough for now, Jayden.
+[00:20:01.072 --> 00:20:08.032] TALUR: As I told you earlier, our friend Jayden here has lost much of his memory, so I wouldn't put too much faith in any of his ideas.
+[00:20:08.752 --> 00:20:09.952] TALUR: Now that will be all for today.
+[00:20:09.952 --> 00:20:11.072] TALUR: I will see you tomorrow.
+[00:20:11.392 --> 00:20:14.032] TALUR: Be sure to practice your spelling and arithmetic tonight.
+[00:20:26.592 --> 00:20:27.232] GIA: Are you all right?
+[00:20:28.432 --> 00:20:31.312] DATA: Yes. But I do not agree with Talur's assessment.
+[00:20:32.192 --> 00:20:34.272] DATA: Although I do have gaps in my memory,
+[00:20:36.512 --> 00:20:38.352] DATA: I know that fire is not an element.
+[00:20:39.072 --> 00:20:40.672] GARVIN: That is not what you promised me!
+[00:20:42.432 --> 00:20:43.312] SKORAN: You're getting old, Garvin.
+[00:20:43.872 --> 00:20:46.272] SKORAN: I offered you fifteen for the metal and I've given it to you.
+[00:20:46.672 --> 00:20:47.072] SKORAN: No more.
+[00:20:47.072 --> 00:20:48.112] GARVIN: We agreed on twenty.
+[00:20:48.752 --> 00:20:49.632] DATA: Garvin is correct.
+[00:20:50.432 --> 00:20:51.312] DATA: You agreed on twenty.
+[00:20:51.472 --> 00:20:52.592] SKORAN: Stay out of this, Ice man.
+[00:20:52.912 --> 00:20:54.272] SKORAN: Your memory is not very reliable.
+[00:20:55.312 --> 00:20:56.672] GIA: Father! Father, what's wrong?
+[00:20:57.872 --> 00:20:59.952] GARVIN: I don't know I feel very weak suddenly.
+[00:21:01.872 --> 00:21:02.512] GIA: You have got a fever.
+[00:21:03.312 --> 00:21:03.952] GIA: We should get him home.
+[00:21:06.752 --> 00:21:06.832] GIA: What's
+[00:21:11.552 --> 00:21:11.792] GIA: wrong with him?
+[00:21:13.232 --> 00:21:14.272] TALUR: I suspect he
+[00:21:16.989 --> 00:21:19.709] TALUR: I don't know.
+[00:21:21.069 --> 00:21:23.789] TALUR: I've never encountered anything like this before.
+[00:21:30.509 --> 00:21:32.829] TALUR: These lesions look like burn marks.
+[00:21:34.509 --> 00:21:36.429] TALUR: The fluids of his body have overheated.
+[00:21:37.149 --> 00:21:39.389] TALUR: That would explain the fever and the burning skin.
+[00:21:40.349 --> 00:21:41.149] TALUR: Keep him cool,
+[00:21:41.549 --> 00:21:45.469] TALUR: let plenty of fresh air into the house, and I want you to give him these herbs.
+[00:21:46.349 --> 00:21:50.429] TALUR: That will bring his fluidic temperature down and allow this to pass.
+[00:21:51.709 --> 00:21:52.589] GIA: I understand.
+[00:21:54.189 --> 00:22:00.829] DATA: With an increased focal length and an achromatic objective lens, this instrument will have a higher effective magnification.
+[00:22:04.109 --> 00:22:06.109] TALUR: I will come back tomorrow and check on you.
+[00:22:06.829 --> 00:22:07.389] GARVIN: Thank you.
+[00:22:11.149 --> 00:22:11.469] DATA: Garvin,
+[00:22:12.749 --> 00:22:16.989] DATA: with your permission, I would like to begin my own investigation regarding the cause of your illness.
+[00:22:18.269 --> 00:22:18.989] GARVIN: Go ahead.
+[00:22:20.589 --> 00:22:20.909] DATA: Gia,
+[00:22:21.469 --> 00:22:23.069] DATA: I would like you to accompany me to the village.
+[00:22:23.549 --> 00:22:24.589] DATA: I will need some supplies.
+[00:22:24.589 --> 00:22:25.949] GIA: What
+[00:22:33.469 --> 00:22:36.029] GIA: are you going to do with all this?
+[00:22:36.829 --> 00:22:41.229] DATA: I will use these materials to make the laboratory equipment I need to research your father's illness.
+[00:22:41.469 --> 00:22:42.509] GIA: Do you think you can help him?
+[00:22:43.389 --> 00:22:44.189] DATA: I do not know.
+[00:22:45.069 --> 00:22:47.229] DATA: First I must isolate the cause of the illness.
+[00:22:47.229 --> 00:22:47.869] SKORAN: There he is!
+[00:22:48.732 --> 00:22:49.372] SKORAN: It's his fault!
+[00:22:49.852 --> 00:22:51.532] SKORAN: None of us were sick before he came to the village!
+[00:22:51.532 --> 00:22:51.612] CROWD: True.
+[00:22:51.612 --> 00:22:52.332] DATA: Am I to
+[00:22:56.652 --> 00:22:58.412] DATA: understand that Garvin's illness has spread?
+[00:22:58.812 --> 00:23:00.412] SKORAN: That's right. And you're the cause.
+[00:23:00.652 --> 00:23:02.892] GIA: That's not true!
+[00:23:02.892 --> 00:23:05.292] DATA: Gia, I think we should leave.
+[00:23:05.772 --> 00:23:06.012] SKORAN: That's it.
+[00:23:06.652 --> 00:23:06.972] SKORAN: Leave.
+[00:23:07.692 --> 00:23:08.172] SKORAN: Get out of here.
+[00:23:08.172 --> 00:23:09.772] SKORAN: Go back where you came from!
+[00:23:24.172 --> 00:23:25.132] TALUR: Jayden what are you doing?
+[00:23:26.572 --> 00:23:31.692] DATA: I am studying skin samples from Gia and Garvin in an attempt to isolate the cause of the illness.
+[00:23:32.892 --> 00:23:33.452] TALUR: Gia?
+[00:23:34.492 --> 00:23:34.892] DATA: Yes.
+[00:23:35.692 --> 00:23:37.692] DATA: She is also beginning to show signs of the illness.
+[00:23:40.412 --> 00:23:41.132] TALUR: What is that?
+[00:23:42.012 --> 00:23:45.212] DATA: It is a magnifying device based on your hand-held instrument.
+[00:23:46.252 --> 00:23:48.892] DATA: I have refined the design to increase the magnification level.
+[00:23:49.852 --> 00:23:50.332] TALUR: May I?
+[00:23:51.212 --> 00:23:51.692] DATA: Of course.
+[00:23:57.372 --> 00:23:59.212] TALUR: How strong is the magnification?
+[00:23:59.852 --> 00:24:03.052] DATA: Objects appear approximately five hundred times their normal size.
+[00:24:04.572 --> 00:24:07.052] DATA: As you can see, the cellular damage is quite extensive.
+[00:24:07.932 --> 00:24:15.852] DATA: However, based on interstitial transparency and membrane integrity, I do not believe it is an infection or any other form of communicable disease.
+[00:24:17.052 --> 00:24:17.532] TALUR: I see.
+[00:24:18.698 --> 00:24:30.218] DATA: At the moment, I am looking for a common event or experience that Gia, Garvin and Skoran might have shared that could have a causal relationship to their illness.
+[00:24:30.618 --> 00:24:32.698] TALUR: Well they've all lived here in the village for many years.
+[00:24:32.698 --> 00:24:34.698] TALUR: I'm sure they have many common experiences.
+[00:24:34.858 --> 00:24:43.418] DATA: Yes, but since the illness struck all three in a relatively short period of time, it is reasonable to assume the experience is recent and unusual.
+[00:24:43.978 --> 00:24:48.858] TALUR: Actually, Jayden, encountering you has been the most unusual experience that they've all shared recently.
+[00:24:49.418 --> 00:24:50.698] DATA: I am aware of that.
+[00:24:50.938 --> 00:24:51.498] DATA: Excuse me.
+[00:24:52.778 --> 00:24:57.018] DATA: I am also open to the possibility that I may in some way be the causal factor.
+[00:24:57.898 --> 00:25:04.138] DATA: However, since you have had a great deal of contact with me and you show no signs of the sickness, I tend to discount myself as a likely candidate.
+[00:25:04.458 --> 00:25:10.378] TALUR: Still, it has to be more than just a coincidence that shortly after you arrived, people started to become ill.
+[00:25:11.498 --> 00:25:11.978] DATA: I agree.
+[00:25:16.058 --> 00:25:16.538] GIA: Jayden
+[00:25:17.898 --> 00:25:21.178] GIA: I tried to give father his broth, but he won't eat.
+[00:25:22.058 --> 00:25:23.098] TALUR: You have a fever.
+[00:25:23.098 --> 00:25:24.218] TALUR: You should be in bed.
+[00:25:24.858 --> 00:25:25.898] GIA: No, I'm all right.
+[00:25:26.858 --> 00:25:27.898] GIA: Father needs me.
+[00:25:28.538 --> 00:25:29.498] DATA: Talur is correct.
+[00:25:29.898 --> 00:25:30.698] DATA: You should rest.
+[00:25:30.858 --> 00:25:31.898] DATA: I will attend to your father.
+[00:25:34.138 --> 00:25:37.018] DATA: Gia, when did you begin wearing that pendant?
+[00:25:39.338 --> 00:25:40.058] GIA: Two days ago.
+[00:25:40.618 --> 00:25:41.898] GIA: Father bought it from Skoran.
+[00:25:42.138 --> 00:25:42.538] GIA: Why?
+[00:25:43.098 --> 00:25:43.738] DATA: May I see it?
+[00:25:52.194 --> 00:25:54.514] DATA: This is one of the metal fragments I sold to Skoran.
+[00:26:09.154 --> 00:26:12.034] TROI: The secondary plasma vent
+[00:26:14.034 --> 00:26:17.874] TROI: has a triple redundant bypass.
+[00:26:19.794 --> 00:26:26.114] TROI: Which means that the primary access junction is routed through
+[00:26:28.034 --> 00:26:28.594] TROI: Come in.
+[00:26:29.954 --> 00:26:34.914] TROI: Would be routed through the port transducer matrix.
+[00:26:36.754 --> 00:26:38.754] TROI: Come to give me more encouragement?
+[00:26:38.834 --> 00:26:39.074] RIKER: No.
+[00:26:41.154 --> 00:26:43.874] RIKER: I'm actually here to tell you that I've decided to cancel the rest of your test.
+[00:26:44.114 --> 00:26:44.594] TROI: What?
+[00:26:45.154 --> 00:26:46.194] RIKER: I'm cancelling the test.
+[00:26:46.754 --> 00:26:47.954] TROI: May I ask why?
+[00:26:48.274 --> 00:26:50.514] RIKER: You've taken the Engineering qualification three times.
+[00:26:50.994 --> 00:26:52.114] RIKER: You're no closer to passing.
+[00:26:52.434 --> 00:26:57.794] TROI: Well, then I'll take it four times, or fourteen times, or however many times are necessary for me to get it right.
+[00:26:59.954 --> 00:27:00.274] RIKER: Deanna,
+[00:27:02.034 --> 00:27:02.994] RIKER: this is nothing personal.
+[00:27:03.794 --> 00:27:05.714] RIKER: Not everyone is cut out to be a Bridge Officer.
+[00:27:06.594 --> 00:27:07.714] RIKER: I don't think this is for you.
+[00:27:07.954 --> 00:27:08.354] TROI: Why?
+[00:27:09.394 --> 00:27:11.874] TROI: Because I'm not the most technically-minded person on the ship?
+[00:27:13.006 --> 00:27:21.246] TROI: I may have trouble telling the difference between a plasma conduit and a phase inducer, but there's more to being a bridge officer than memorising technical manuals.
+[00:27:21.246 --> 00:27:21.886] RIKER: That's right, there is.
+[00:27:21.886 --> 00:27:25.806] RIKER: You could spend the next month memorising all the technical manuals in the computer,
+[00:27:26.286 --> 00:27:27.966] RIKER: I still don't think you'd pass the test.
+[00:27:28.206 --> 00:27:29.006] TROI: Tell me one thing.
+[00:27:29.806 --> 00:27:34.926] TROI: Is there a solution? Or is this simply a test of my ability to handle a no-win situation?
+[00:27:36.606 --> 00:27:37.326] RIKER: There is a solution.
+[00:27:37.646 --> 00:27:39.326] TROI: Then give me time to find it.
+[00:27:40.206 --> 00:27:40.766] RIKER: I can't.
+[00:27:42.206 --> 00:27:46.046] RIKER: As much as I care about you, my first duty is to the ship.
+[00:27:47.886 --> 00:27:50.366] RIKER: I cannot let any Bridge Officer serve who's not qualified.
+[00:27:50.686 --> 00:27:51.166] RIKER: I'm sorry.
+[00:28:16.926 --> 00:28:20.606] TROI: My first duty is to the ship.
+[00:28:20.756 --> 00:28:21.756] TROI: The ship!
+[00:28:25.726 --> 00:28:28.926] TROI: Computer, load Bridge Officer's test,
+[00:28:29.086 --> 00:28:30.766] TROI: Engineering qualification section one.
+[00:28:31.006 --> 00:28:33.326] COMPUTER: Computer ready.
+[00:28:33.726 --> 00:28:34.526] TROI: Run programme.
+[00:28:34.686 --> 00:28:37.646] WORF: The control system for the primary containment field is not functioning.
+[00:28:37.966 --> 00:28:41.166] LAFORGE: Something's severed the ODN conduit between here and the antimatter storage deck.
+[00:28:41.566 --> 00:28:42.206] TROI: Geordi,
+[00:28:44.046 --> 00:28:45.406] TROI: could you repair the ODN conduit
+[00:28:45.646 --> 00:28:46.846] TROI: if you went into the crawlspace?
+[00:28:49.406 --> 00:28:52.446] WORF: Sir, that crawlway is in a warp-plasma shaft.
+[00:28:53.006 --> 00:28:54.446] WORF: He would never survive the radiation.
+[00:28:54.686 --> 00:28:55.166] TROI: I know that.
+[00:28:57.166 --> 00:28:58.606] TROI: Geordi, could you repair the conduit?
+[00:29:01.886 --> 00:29:02.926] LAFORGE: Yeah, I think I could.
+[00:29:05.086 --> 00:29:05.567] TROI: Then do it.
+[00:29:06.686 --> 00:29:07.166] TROI: That's an order.
+[00:29:14.047 --> 00:29:14.047] RIKER: End
+[00:29:22.446 --> 00:29:23.166] RIKER: simulation.
+[00:29:28.126 --> 00:29:29.406] RIKER: Something told me you wouldn't let this go.
+[00:29:31.886 --> 00:29:33.807] RIKER: Congratulations. You passed.
+[00:29:34.846 --> 00:29:36.206] TROI: That's what this was all about, wasn't it?
+[00:29:36.527 --> 00:29:38.126] TROI: To see if I'd order someone to their death.
+[00:29:38.846 --> 00:29:39.166] RIKER: That's right.
+[00:29:40.766 --> 00:29:43.567] TROI: I knew that was part of being in command and I thought I'd prepared for it,
+[00:29:44.047 --> 00:29:45.567] TROI: but when the moment came I hesitated.
+[00:29:47.486 --> 00:29:48.047] TROI: Maybe you were right.
+[00:29:48.126 --> 00:29:49.327] TROI: Maybe I'm not cut out for this.
+[00:29:51.246 --> 00:29:52.526] RIKER: You did exactly what you had to do.
+[00:29:52.526 --> 00:29:54.606] RIKER: You considered all your options,
+[00:29:55.406 --> 00:29:57.966] RIKER: you tried every alternative, and then you made the hard choice.
+[00:29:59.486 --> 00:29:59.807] RIKER: Come on,
+[00:30:01.886 --> 00:30:02.767] RIKER: let's get out of here, Commander.
+[00:30:07.246 --> 00:30:10.926] DATA: I have coated this piece of cloth with the liquid which is used in lamps.
+[00:30:16.692 --> 00:30:20.692] DATA: As you can see, the cloth becomes luminescent when it is exposed to an energy source.
+[00:30:25.972 --> 00:30:28.372] DATA: This pendant also appears to be an energy source.
+[00:30:29.012 --> 00:30:32.612] TALUR: But where is this pattern of light coming from?
+[00:30:33.252 --> 00:30:38.212] DATA: I believe a stream of particles is emanating from the metallic pendant and hitting the cloth.
+[00:30:38.932 --> 00:30:41.332] TALUR: I don't see any particles coming from the pendant.
+[00:30:43.732 --> 00:30:44.372] DATA: You will see there are.
+[00:30:44.772 --> 00:30:45.492] DATA: I can even block them.
+[00:30:47.412 --> 00:30:54.772] DATA: It would appear that this container was constructed of a material which absorbs or blocks the particles coming from the metal.
+[00:30:55.412 --> 00:30:56.132] TALUR: It's a trick.
+[00:30:56.692 --> 00:30:58.852] DATA: No. It is empirical data.
+[00:31:00.532 --> 00:31:05.732] DATA: I believe the fragments were originally placed in this container to protect people from accidental exposure.
+[00:31:06.692 --> 00:31:10.692] DATA: The word radioactive may be a warning about the dangerous nature of the metal.
+[00:31:12.132 --> 00:31:12.612] TALUR: All right.
+[00:31:13.252 --> 00:31:17.652] TALUR: Let's say for the moment that you're right, that there are invisible particles coming from the metal.
+[00:31:18.292 --> 00:31:19.332] TALUR: What should we do?
+[00:31:20.292 --> 00:31:21.572] DATA: I will continue my experiment.
+[00:31:22.932 --> 00:31:28.772] DATA: I would like you to gather all the pieces of metal in the village and place them in this container.
+[00:31:28.932 --> 00:31:29.332] TALUR: All right.
+[00:31:30.212 --> 00:31:35.972] TALUR: But when I return, I want a more thorough explanation of all this. And I want to examine your data, in detail.
+[00:31:36.292 --> 00:31:36.772] DATA: Of course.
+[00:32:04.471 --> 00:32:04.951] SKORAN: There you are.
+[00:32:05.351 --> 00:32:06.471] SKORAN: You're the cause of this, Ice man.
+[00:32:07.111 --> 00:32:09.751] DATA: If you are referring to the illness, you are partially correct.
+[00:32:10.071 --> 00:32:11.591] DATA: However, it is more complex than that.
+[00:32:12.311 --> 00:32:13.351] DATA: The metal fragment which
+[00:32:19.031 --> 00:32:19.191] SKORAN: What,
+[00:32:19.911 --> 00:32:20.471] SKORAN: what are you?
+[00:32:31.191 --> 00:32:33.351] DATA: I do
+[00:32:35.671 --> 00:32:38.231] DATA: not know.
+[00:32:38.551 --> 00:32:38.551] SKORAN: I
+[00:32:42.791 --> 00:32:43.751] SKORAN: saw it with my own eyes.
+[00:32:44.071 --> 00:32:44.791] SKORAN: He's not a person.
+[00:32:45.351 --> 00:32:46.231] SKORAN: He's some kind of creature.
+[00:32:46.951 --> 00:32:48.151] GIA: It's not true, Father.
+[00:32:48.951 --> 00:32:52.231] SKORAN: We must find him and stop him before he kills us all.
+[00:32:52.551 --> 00:32:53.191] GARVIN: I don't.
+[00:32:54.471 --> 00:32:55.191] GARVIN: Not Jayden.
+[00:32:55.991 --> 00:32:57.351] GARVIN: He wouldn't try to hurt us.
+[00:33:00.071 --> 00:33:00.471] SKORAN: Come on.
+[00:33:00.791 --> 00:33:00.951] TALUR: Let him
+[00:33:08.231 --> 00:33:08.871] TALUR: rest for now.
+[00:33:09.431 --> 00:33:10.551] TALUR: You should rest as well.
+[00:33:11.129 --> 00:33:13.129] TALUR: Exerting yourself will only make you sicker.
+[00:33:15.529 --> 00:33:15.929] TALUR: I'll be back.
+[00:33:41.929 --> 00:33:42.249] DATA: Gia.
+[00:33:44.009 --> 00:33:44.569] GIA: Jayden?
+[00:33:45.689 --> 00:33:46.889] GIA: Everyone's looking for you.
+[00:33:48.169 --> 00:33:51.049] GIA: Skoran said you're some kind of creature.
+[00:33:52.729 --> 00:33:55.529] DATA: I do not know what I am.
+[00:33:57.209 --> 00:33:58.169] DATA: But I am not like you.
+[00:33:59.289 --> 00:33:59.769] GIA: I know.
+[00:34:00.409 --> 00:34:01.529] GIA: You're an Ice man.
+[00:34:02.409 --> 00:34:03.369] GIA: We talked about that.
+[00:34:04.409 --> 00:34:04.569] DATA: No.
+[00:34:06.409 --> 00:34:06.489] DATA: I
+[00:34:09.049 --> 00:34:09.529] DATA: am not.
+[00:34:11.049 --> 00:34:11.449] GIA: Jayden,
+[00:34:13.209 --> 00:34:14.249] GIA: why are you wearing that hood?
+[00:34:15.689 --> 00:34:16.889] DATA: I do not wish to frighten you.
+[00:34:18.009 --> 00:34:19.049] GIA: I won't be afraid.
+[00:34:19.529 --> 00:34:21.289] GIA: Take it off. Please,
+[00:34:21.289 --> 00:34:22.009] GIA: I have to see.
+[00:34:22.969 --> 00:34:22.969] DATA: I
+[00:34:34.009 --> 00:34:36.649] DATA: understand your reaction.
+[00:34:38.649 --> 00:34:39.929] DATA: But I do not wish to harm you.
+[00:34:41.849 --> 00:34:43.609] DATA: You or Garvin or anyone else.
+[00:34:44.356 --> 00:34:47.876] DATA: I only wish to help, to find a cure for the illness.
+[00:34:48.356 --> 00:34:49.476] DATA: I was very close.
+[00:34:50.756 --> 00:34:53.396] DATA: I must to continue my work, but it will take time.
+[00:34:55.556 --> 00:34:58.356] DATA: How long until Skoran and the others return?
+[00:34:59.396 --> 00:34:59.956] GIA: I don't know.
+[00:35:01.236 --> 00:35:02.436] GIA: They're looking for you now.
+[00:35:03.156 --> 00:35:04.036] DATA: Then I must hurry.
+[00:35:22.516 --> 00:35:22.836] DATA: Gia,
+[00:35:27.316 --> 00:35:28.516] DATA: I believe I have found the answer.
+[00:35:28.666 --> 00:35:29.666] GIA: You think
+[00:35:30.356 --> 00:35:31.716] GIA: you found a cure?
+[00:35:31.716 --> 00:35:33.316] DATA: I believe so.
+[00:35:34.996 --> 00:35:37.716] DATA: I tested this medicine on skin samples from your father.
+[00:35:38.356 --> 00:35:41.556] DATA: They showed improvement, so I administered this to him.
+[00:35:42.196 --> 00:35:43.076] DATA: He is now recovering.
+[00:35:45.156 --> 00:35:45.396] GIA: What
+[00:35:47.076 --> 00:35:48.196] GIA: kind of medicine is it?
+[00:35:49.556 --> 00:35:52.836] DATA: A compound I made which will neutralise the particles that are making you ill.
+[00:35:55.556 --> 00:35:56.356] DATA: Swallow this.
+[00:36:00.436 --> 00:36:05.956] DATA: I must administer this to everyone in the village, but I do not think they will trust me after what happened to Skoran.
+[00:36:06.756 --> 00:36:08.676] GIA: I could tell them.
+[00:36:09.156 --> 00:36:10.836] DATA: I am afraid they will not believe you either.
+[00:36:14.344 --> 00:36:19.224] DATA: Gia, is the well in the town square the only source of water for this village?
+[00:36:20.264 --> 00:36:20.792] GIA: Well?
+[00:36:20.792 --> 00:36:22.904] DATA: This is very important.
+[00:36:23.704 --> 00:36:26.984] DATA: Are there any other sources of fresh water near the village?
+[00:36:29.464 --> 00:36:32.184] GIA: No. The nearest river is
+[00:36:33.704 --> 00:36:34.584] GIA: two days away.
+[00:36:36.344 --> 00:36:38.504] DATA: Then I will put this compound into the well water.
+[00:36:39.624 --> 00:36:43.064] DATA: It may be diluted, but it should still have enough potency to work.
+[00:36:43.214 --> 00:36:43.814] GIA: Compound
+[00:36:44.584 --> 00:36:44.584] SKORAN: There
+[00:37:35.384 --> 00:37:38.904] SKORAN: he is!
+[00:37:38.904 --> 00:37:41.224] SKORAN: You see? It's just as I said.
+[00:37:41.944 --> 00:37:42.824] DATA: I only wish to help.
+[00:37:43.964 --> 00:37:48.684] SKORAN: This is how you've helped us, by bringing this plague? Tried to kill us all?
+[00:37:49.964 --> 00:37:50.844] SKORAN: Well, you won't succeed.
+[00:37:51.404 --> 00:37:52.044] SKORAN: I won't let you!
+[00:38:53.644 --> 00:38:54.364] CRUSHER: Excuse me.
+[00:38:55.164 --> 00:38:56.764] CRUSHER: We're looking for a friend of ours.
+[00:38:57.244 --> 00:38:59.324] CRUSHER: He might have wandered into your village a few days ago.
+[00:39:00.284 --> 00:39:00.844] RIKER: You'd remember him.
+[00:39:01.484 --> 00:39:04.764] RIKER: He would have appeared very strange. Pale skin, gold eyes.
+[00:39:05.404 --> 00:39:06.204] GIA: He was your friend?
+[00:39:06.444 --> 00:39:06.844] CRUSHER: Yes.
+[00:39:06.844 --> 00:39:07.484] CRUSHER: Do you know him?
+[00:39:10.844 --> 00:39:11.164] RIKER: Where is he?
+[00:39:19.405 --> 00:39:20.365] CRUSHER: I don't understand.
+[00:39:21.405 --> 00:39:24.605] GIA: We didn't know his real name, so we called him Jayden.
+[00:39:24.605 --> 00:39:26.045] RIKER: You're saying he's dead?
+[00:39:28.685 --> 00:39:30.525] GIA: They killed him because they were afraid of him,
+[00:39:31.565 --> 00:39:33.325] GIA: but he saved all of us from the sickness.
+[00:39:33.885 --> 00:39:34.685] CRUSHER: The sickness?
+[00:39:36.525 --> 00:39:38.525] GIA: There were these pieces of metal.
+[00:39:39.405 --> 00:39:40.445] GIA: They made everyone sick.
+[00:39:41.805 --> 00:39:45.165] GIA: But Jayden put something in the water and now everyone's better.
+[00:39:45.565 --> 00:39:46.925] RIKER: What happened to these pieces of metal?
+[00:39:47.485 --> 00:39:49.005] GIA: We buried them in the forest.
+[00:39:53.005 --> 00:39:53.965] GIA: What was his real name?
+[00:39:55.085 --> 00:39:55.405] RIKER: Data.
+[00:39:55.405 --> 00:39:55.405] GIA: Data.
+[00:39:57.485 --> 00:39:57.965] GIA: He
+[00:40:00.925 --> 00:40:01.885] GIA: was my friend, too.
+[00:40:23.965 --> 00:40:24.685] CRUSHER: It's Data all right.
+[00:40:25.085 --> 00:40:26.605] CRUSHER: He's buried about two metres down.
+[00:40:27.565 --> 00:40:30.045] CRUSHER: He's been deactivated so I can't tell how bad the damage is.
+[00:40:31.405 --> 00:40:34.765] RIKER: We could beam him and the probe fragments right onto the ship. No one would know.
+[00:40:41.325 --> 00:40:42.605] CRUSHER: Positronic net online.
+[00:40:43.005 --> 00:40:44.765] CRUSHER: Subprocessor relays in place
+[00:40:44.943 --> 00:40:46.623] CRUSHER: and neuroelectrical systems enabled.
+[00:40:53.343 --> 00:40:54.703] CRUSHER: Data, are you all right?
+[00:40:56.623 --> 00:40:57.343] DATA: I do not know.
+[00:40:59.183 --> 00:41:00.863] DATA: I am surprised to find myself here.
+[00:41:01.503 --> 00:41:02.943] DATA: I thought I was on Barkon Four.
+[00:41:04.223 --> 00:41:05.423] PICARD: What's the last thing you remember?
+[00:41:07.183 --> 00:41:11.663] DATA: I had located the crashed Federation probe and collected the radioactive fragments.
+[00:41:13.743 --> 00:41:17.983] DATA: I was attempting to download the sensor logs from the probe's onboard computer.
+[00:41:18.863 --> 00:41:19.983] DATA: There was a power surge.
+[00:41:21.743 --> 00:41:24.303] DATA: I believe the surge overloaded my positronic matrix.
+[00:41:25.823 --> 00:41:26.303] DATA: After that,
+[00:41:28.223 --> 00:41:29.823] DATA: I have no memory until this moment.
+[00:41:34.063 --> 00:41:36.463] DATA: It appears I had an interesting time.
+[00:41:37.503 --> 00:41:38.703] RIKER: We don't know much about what happened either.
+[00:41:39.503 --> 00:41:42.783] RIKER: Apparently you saved an entire village from radiation poisoning.
+[00:41:43.343 --> 00:41:45.263] CRUSHER: And you were a very special friend to a little girl.
+[00:41:50.543 --> 00:41:50.783] TROI: Well,
+[00:41:52.783 --> 00:41:56.623] TROI: if you'll excuse me, I have the Bridge this watch.
+[00:41:57.583 --> 00:42:01.103] DATA: Counsellor, have you been promoted in my absence?
+[00:42:01.823 --> 00:42:02.223] TROI: That's right.
+[00:42:03.023 --> 00:42:04.703] TROI: Which means from now on you can call me sir.
+[00:42:07.263 --> 00:42:07.663] DATA: Yes, sir.
+[00:42:12.000 --> 00:42:25.000] [music]

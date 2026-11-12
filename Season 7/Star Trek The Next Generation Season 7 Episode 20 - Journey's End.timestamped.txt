@@ -1,0 +1,626 @@
+[00:00:02.560 --> 00:00:05.760] LOG: Captain's log, stardate 47751.2.
+[00:00:06.400 --> 00:00:11.040] LOG: The Enterprise has arrived at Starbase three one zero for a meeting with Fleet Admiral Necheyev.
+[00:00:11.680 --> 00:00:15.840] LOG: This visit will also give us the opportunity to pick up a member of the family.
+[00:00:18.320 --> 00:00:20.160] CRUSHER: Here you are, your very own quarters.
+[00:00:22.000 --> 00:00:25.040] CRUSHER: They're as far away from mine as possible, so you don't even have to see me if you don't want to.
+[00:00:26.000 --> 00:00:28.640] WESLEY: Mom, you know that's not why I asked for my own quarters this time.
+[00:00:29.200 --> 00:00:30.080] CRUSHER: You don't have to explain.
+[00:00:30.720 --> 00:00:33.840] CRUSHER: There comes a time in a young man's life when he doesn't want to stay with his poor senile mother.
+[00:00:33.920 --> 00:00:34.480] CRUSHER: I understand.
+[00:00:35.520 --> 00:00:38.000] WESLEY: I'll come visit you in the old Doctor's Home every Sunday.
+[00:00:38.320 --> 00:00:40.960] WESLEY: Come in.
+[00:00:42.400 --> 00:00:44.480] LAFORGE: So, is there a runaway cadet in here?
+[00:00:45.040 --> 00:00:47.120] DATA: If so, we may have to call Security.
+[00:00:48.400 --> 00:00:49.440] LAFORGE: Welcome back, Wes.
+[00:00:49.520 --> 00:00:49.920] WESLEY: Thanks.
+[00:00:50.000 --> 00:00:51.440] LAFORGE: So, how's life at the Academy?
+[00:00:52.560 --> 00:00:53.040] WESLEY: It's great.
+[00:00:55.520 --> 00:00:57.360] WESLEY: It's great but it's good to have a break.
+[00:00:58.480 --> 00:01:01.040] DATA: I was of course not serious about calling Security.
+[00:01:01.600 --> 00:01:02.320] DATA: It was a joke.
+[00:01:02.800 --> 00:01:03.440] WESLEY: I got it, Data.
+[00:01:03.920 --> 00:01:06.480] LAFORGE: So, are you just going to lounge while we all have work to do around here?
+[00:01:06.800 --> 00:01:08.160] WESLEY: I'm sure I can find some time to help you, sir.
+[00:01:08.800 --> 00:01:09.440] LAFORGE: Wes,
+[00:01:09.680 --> 00:01:10.880] LAFORGE: enjoy your vacation.
+[00:01:11.360 --> 00:01:12.000] LAFORGE: I'm sure you've earned it.
+[00:01:13.040 --> 00:01:13.440] WESLEY: Thanks.
+[00:01:14.320 --> 00:01:15.840] CRUSHER: Well, I think we'd better let you settle in.
+[00:01:16.160 --> 00:01:16.960] LAFORGE: Yeah, that's a good idea.
+[00:01:17.120 --> 00:01:20.000] LAFORGE: Say, Wes, don't sleep your whole vacation away,
+[00:01:20.160 --> 00:01:20.480] LAFORGE: all right?
+[00:01:20.880 --> 00:01:21.440] DATA: Goodbye, Wes.
+[00:01:23.920 --> 00:01:26.480] CRUSHER: It's good to have you home, son.
+[00:01:27.440 --> 00:01:28.000] WESLEY: Thanks, Mom.
+[00:01:28.240 --> 00:01:28.480] CRUSHER: Really.
+[00:02:10.962 --> 00:02:13.682] PICARD: Space, the final frontier.
+[00:02:15.522 --> 00:02:18.482] PICARD: These are the voyages of the starship Enterprise.
+[00:02:19.522 --> 00:02:27.522] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:29.202 --> 00:02:32.082] PICARD: to boldly go where no one has gone before.
+[00:02:53.927 --> 00:02:53.927] RIKER: Admiral
+[00:03:29.927 --> 00:03:31.127] RIKER: Necheyev has just beamed aboard.
+[00:03:31.127 --> 00:03:32.167] RIKER: She's being escorted right here.
+[00:03:32.807 --> 00:03:33.047] PICARD: Good.
+[00:03:33.927 --> 00:03:35.047] RIKER: Earl Grey tea,
+[00:03:35.367 --> 00:03:36.327] RIKER: watercress sandwiches
+[00:03:37.687 --> 00:03:39.207] RIKER: and Bularian canapés.
+[00:03:40.007 --> 00:03:40.887] RIKER: Are you up for a promotion?
+[00:03:41.687 --> 00:03:44.727] PICARD: I am trying to establish a new relationship with the Admiral.
+[00:03:44.887 --> 00:03:48.247] PICARD: There has been a certain amount of tension between us in the past.
+[00:03:48.327 --> 00:03:50.007] RIKER: Tension is hardly the word I'd use.
+[00:03:50.327 --> 00:03:52.967] PICARD: Well, I am trying to get things off on a better note this time.
+[00:03:52.967 --> 00:03:54.167] PICARD: I want to make her feel at ease.
+[00:03:54.727 --> 00:03:56.807] PICARD: I want her to feel that she's welcome aboard the Enterprise.
+[00:03:57.527 --> 00:03:59.447] RIKER: Is there any reason she shouldn't feel welcome here?
+[00:04:00.887 --> 00:04:03.847] PICARD: We don't have to like her, Will, but we have to follow her orders,
+[00:04:04.007 --> 00:04:06.887] PICARD: and maintaining this atmosphere of confrontation serves no purpose.
+[00:04:09.207 --> 00:04:11.287] PICARD: Admiral Necheyev, welcome aboard the Enterprise.
+[00:04:11.527 --> 00:04:12.167] NECHEYEV: Thank you.
+[00:04:12.887 --> 00:04:13.927] NECHEYEV: You may leave, Commander Riker.
+[00:04:14.087 --> 00:04:14.727] RIKER: Thank you, Admiral.
+[00:04:15.127 --> 00:04:15.447] RIKER: Captain.
+[00:04:19.207 --> 00:04:20.167] PICARD: May I offer you some refreshment?
+[00:04:20.167 --> 00:04:21.767] NECHEYEV: I'll come right to the point, Captain.
+[00:04:22.647 --> 00:04:25.767] NECHEYEV: There is a situation that's developed on the Cardassian border that.
+[00:04:29.815 --> 00:04:31.255] NECHEYEV: Are those Bularian canapés?
+[00:04:32.215 --> 00:04:33.495] PICARD: As a matter of fact, they are.
+[00:04:33.495 --> 00:04:39.495] PICARD: I spoke with your aide, Commander Wrightwell, and he said that you were particularly fond of them.
+[00:04:40.055 --> 00:04:41.255] NECHEYEV: That was very thoughtful, Captain.
+[00:04:41.575 --> 00:04:41.895] NECHEYEV: Thank you.
+[00:04:43.335 --> 00:04:43.655] PICARD: Please.
+[00:04:49.575 --> 00:04:51.655] PICARD: You were saying about the Cardassians?
+[00:04:52.615 --> 00:04:53.015] NECHEYEV: Yes.
+[00:04:53.895 --> 00:05:01.655] NECHEYEV: The Federation has just completed a very long and drawn-out series of negotiations regarding the final status of our border with the Cardassians.
+[00:05:03.175 --> 00:05:04.695] NECHEYEV: These will be the official boundaries.
+[00:05:05.175 --> 00:05:05.655] PICARD: I see.
+[00:05:06.615 --> 00:05:09.735] NECHEYEV: You'll notice a demilitarised zone has also been created along the border.
+[00:05:10.935 --> 00:05:18.775] NECHEYEV: Neither side will be permitted to place military outposts, conduct fleet exercises, or station warships anywhere in the demilitarised area.
+[00:05:19.495 --> 00:05:27.015] PICARD: This border places several Federation colonies in Cardassian territory and some Cardassian colonies in ours.
+[00:05:27.975 --> 00:05:29.655] NECHEYEV: This agreement is far from perfect.
+[00:05:30.375 --> 00:05:33.415] NECHEYEV: Neither side got everything they wanted, but every side got something.
+[00:05:33.815 --> 00:05:37.015] NECHEYEV: And as someone once said, diplomacy is the art of the possible.
+[00:05:38.215 --> 00:05:41.655] NECHEYEV: Those colonies finding themselves on the wrong side of the border will have to be moved.
+[00:05:44.455 --> 00:05:46.855] PICARD: Well, the colonists are not going to be happy about that.
+[00:05:47.815 --> 00:05:49.415] PICARD: Some of them have been there for decades.
+[00:05:49.735 --> 00:05:53.015] NECHEYEV: It won't be easy, but it's a reasonable price to pay for peace.
+[00:05:54.849 --> 00:05:57.569] NECHEYEV: Your mission will be to evacuate the colony on Dorvan Five.
+[00:05:58.449 --> 00:05:59.249] PICARD: Dorvan Five?
+[00:06:01.809 --> 00:06:04.929] PICARD: Isn't that where the group of North American Indians settled?
+[00:06:05.249 --> 00:06:07.489] NECHEYEV: Yes. They've been there for about twenty years.
+[00:06:08.609 --> 00:06:12.129] NECHEYEV: They've established a village in a small valley on the southern continent.
+[00:06:12.279 --> 00:06:12.879] NECHEYEV: Is
+[00:06:15.089 --> 00:06:16.369] NECHEYEV: something wrong?
+[00:06:16.369 --> 00:06:17.009] PICARD: Admiral,
+[00:06:17.809 --> 00:06:24.289] PICARD: centuries ago these North American Indians were forcibly displaced from their ancestral lands.
+[00:06:24.769 --> 00:06:31.489] PICARD: These settlers on Dorvan Five originally left Earth more than two hundred years ago in order to preserve their cultural identities.
+[00:06:31.969 --> 00:06:33.329] NECHEYEV: I am aware of that, Captain.
+[00:06:33.649 --> 00:06:37.409] PICARD: You see, Admiral, there are some very disturbing historical parallels here.
+[00:06:38.449 --> 00:06:45.649] PICARD: Once more, they're being asked to leave their homes because of a political decision that has been taken by a distant government.
+[00:06:46.129 --> 00:06:49.729] NECHEYEV: An Indian representative was included in the deliberations of the Federation Council.
+[00:06:50.369 --> 00:06:53.969] NECHEYEV: His objections were noted, discussed, but ultimately rejected.
+[00:06:55.489 --> 00:06:55.889] NECHEYEV: Captain,
+[00:06:57.649 --> 00:07:07.329] NECHEYEV: the Indians on Dorvan are a nomadic group that have settled there only twenty years ago, and at that time they were warned that the planet was hotly disputed by the Cardassians.
+[00:07:07.649 --> 00:07:09.969] NECHEYEV: The bottom line is they never should have gone there in the first place.
+[00:07:10.689 --> 00:07:16.049] PICARD: Granted, but to go to them now after twenty years later and ask them to leave what is now their home.
+[00:07:18.449 --> 00:07:20.609] NECHEYEV: I made that same argument with the Federation Council.
+[00:07:20.886 --> 00:07:23.525] NECHEYEV: But it took three years to negotiate this treaty.
+[00:07:24.085 --> 00:07:26.326] NECHEYEV: Some concessions had to be made, and this is one of them.
+[00:07:27.126 --> 00:07:29.206] PICARD: What if these Indians refuse to be evacuated?
+[00:07:29.686 --> 00:07:32.886] NECHEYEV: Then your orders will be to remove them by whatever means are necessary.
+[00:07:35.126 --> 00:07:37.926] NECHEYEV: I understand your moral objections, Captain.
+[00:07:39.446 --> 00:07:42.806] NECHEYEV: If you wish, I can find someone else to command the Enterprise for this mission.
+[00:07:44.085 --> 00:07:45.285] PICARD: That will not be necessary,
+[00:07:50.405 --> 00:07:52.405] PICARD: Admiral.
+[00:07:53.285 --> 00:07:57.126] NECHEYEV: I don't envy you this task, but I do believe it is for the greater good.
+[00:07:57.766 --> 00:07:58.326] PICARD: I understand.
+[00:08:04.405 --> 00:08:05.045] NECHEYEV: And Captain,
+[00:08:07.606 --> 00:08:08.326] NECHEYEV: thank you for
+[00:08:10.645 --> 00:08:11.766] NECHEYEV: making me feel welcome.
+[00:08:12.566 --> 00:08:14.405] PICARD: You will always be welcome aboard this ship, Admiral.
+[00:08:25.686 --> 00:08:25.926] LAFORGE: Thanks, Ensign.
+[00:08:27.045 --> 00:08:28.486] LAFORGE: Hey, Wes! There you are.
+[00:08:28.965 --> 00:08:29.606] LAFORGE: Come here for a second.
+[00:08:29.766 --> 00:08:30.806] LAFORGE: I've got something I want to show you.
+[00:08:32.805 --> 00:08:34.165] LAFORGE: Come on, come on.
+[00:08:34.726 --> 00:08:35.685] LAFORGE: You've got to take a look at this.
+[00:08:36.645 --> 00:08:41.766] LAFORGE: Now, remember how we always used to talk about improving quantum efficiency by creating a new plasmadyne relay?
+[00:08:42.726 --> 00:08:46.726] LAFORGE: Well, take a look at this.
+[00:08:48.805 --> 00:08:49.685] WESLEY: You've only got one microfusion
+[00:08:49.762 --> 00:08:50.802] WESLEY: interrelay in there?
+[00:08:51.602 --> 00:08:53.042] WESLEY: Your converter interface'll never hold up.
+[00:08:53.202 --> 00:08:56.002] LAFORGE: Hey, I ran these diagnostics myself.
+[00:08:57.042 --> 00:09:01.682] LAFORGE: This little baby will withstand over five hundred Cochranes of warp field stress.
+[00:09:02.562 --> 00:09:03.362] WESLEY: I don't think so.
+[00:09:04.482 --> 00:09:06.002] WESLEY: You better put a secondary phase inverter in there.
+[00:09:06.882 --> 00:09:08.802] WESLEY: Look at your subprocessor matrix. It needs an overhaul.
+[00:09:10.082 --> 00:09:13.442] LAFORGE: Well, that may be your opinion, Cadet, but I stand by my work.
+[00:09:14.722 --> 00:09:16.802] WESLEY: Read the latest paper from Doctor Vassbinder.
+[00:09:17.282 --> 00:09:20.242] WESLEY: He has brilliant new theories on warp propulsion inter-relays.
+[00:09:21.522 --> 00:09:22.802] WESLEY: He's say all this stuff is obsolete.
+[00:09:24.322 --> 00:09:26.322] LAFORGE: I
+[00:09:28.322 --> 00:09:29.522] LAFORGE: don't know what's gotten into you, Wes.
+[00:09:30.402 --> 00:09:31.602] WESLEY: Look, do you want my help or not?
+[00:09:31.602 --> 00:09:34.322] LAFORGE: With this kind of an attitude, absolutely not.
+[00:09:35.042 --> 00:09:35.762] LAFORGE: You're dismissed.
+[00:09:45.842 --> 00:09:47.042] LOG: Captain's log, supplemental.
+[00:09:47.442 --> 00:09:51.762] LOG: The Enterprise has arrived at Dorvan Five and I have spoken to the Leader of the Tribal Council.
+[00:09:52.402 --> 00:09:56.242] LOG: He has agreed to meet with us this afternoon to discuss the situation.
+[00:09:56.962 --> 00:09:59.202] PICARD: Anthwara, there's very little I can do.
+[00:10:00.162 --> 00:10:03.522] PICARD: The decision about this planet was made at the very highest level of Starfleet.
+[00:10:03.762 --> 00:10:06.082] WAKASA: Do you know how long we have searched for a home?
+[00:10:07.202 --> 00:10:09.202] WAKASA: Almost two hundred years.
+[00:10:10.482 --> 00:10:12.002] WAKASA: Then we found this world.
+[00:10:12.402 --> 00:10:14.322] WAKASA: Can you blame us for not wanting to give it up?
+[00:10:15.282 --> 00:10:20.802] PICARD: I understand and I respect your people's long journey, but I believe that I can help you to find a new home.
+[00:10:21.597 --> 00:10:28.077] TROI: As you can see, there are three other planets in this sector that have environmental conditions similar to those here on Dorvan Five.
+[00:10:28.797 --> 00:10:31.597] TROI: They're all uninhabited and could be colonised immediately.
+[00:10:32.237 --> 00:10:35.437] PICARD: And if none of these worlds meet with your approval, then we'll find you other choices.
+[00:10:36.077 --> 00:10:37.917] ANTHWARA: You do not understand, Captain.
+[00:10:38.477 --> 00:10:43.677] ANTHWARA: The choice of this world was not only because of environmental conditions.
+[00:10:44.957 --> 00:10:45.997] ANTHWARA: There were other more
+[00:10:48.237 --> 00:10:50.157] ANTHWARA: intangible concerns as well.
+[00:10:56.157 --> 00:10:58.237] ANTHWARA: When I came here twenty years ago,
+[00:11:00.317 --> 00:11:05.597] ANTHWARA: I was welcomed by the mountains, the rivers, the sky.
+[00:11:07.357 --> 00:11:07.917] WAKASA: Anthwara,
+[00:11:08.477 --> 00:11:09.437] WAKASA: he's laughing at you.
+[00:11:10.077 --> 00:11:12.877] WAKASA: He thinks you're talking about old superstition and nonsense.
+[00:11:13.277 --> 00:11:13.917] PICARD: This is not true.
+[00:11:15.277 --> 00:11:19.757] PICARD: I have the deepest deal of respect for your beliefs and the meaning that they hold for your people.
+[00:11:20.237 --> 00:11:28.957] ANTHWARA: Then you can respect the fact that this planet holds a deep spiritual significance for us.
+[00:11:31.437 --> 00:11:34.477] ANTHWARA: It has taken us two centuries to find this place.
+[00:11:36.717 --> 00:11:42.957] ANTHWARA: We do not want to spend another two hundred years searching for what we already have.
+[00:11:44.877 --> 00:11:47.117] TROI: Captain, I suggest we adjourn.
+[00:11:47.357 --> 00:11:49.837] TROI: Allow us all time to think about what's been said.
+[00:11:50.477 --> 00:11:50.957] ANTHWARA: Agreed.
+[00:11:52.650 --> 00:11:53.770] ANTHWARA: We will reconvene tomorrow.
+[00:11:55.610 --> 00:11:59.930] PICARD: And in the meantime, I would like to invite you all to join us this evening on the Enterprise.
+[00:12:00.170 --> 00:12:00.570] ANTHWARA: Thank you.
+[00:12:01.290 --> 00:12:02.090] ANTHWARA: We look forward to it.
+[00:12:13.370 --> 00:12:18.570] CRUSHER: Ever since you've come on board you've been moody, sullen and rude.
+[00:12:18.810 --> 00:12:19.450] CRUSHER: What's going on?
+[00:12:19.610 --> 00:12:20.090] WESLEY: Nothing.
+[00:12:21.450 --> 00:12:22.810] WESLEY: I just want to be left alone.
+[00:12:23.210 --> 00:12:25.530] CRUSHER: That incident in Engineering was inexcusable.
+[00:12:26.250 --> 00:12:27.370] WESLEY: That is my business.
+[00:12:27.770 --> 00:12:29.770] WESLEY: I don't need you telling me how to behave.
+[00:12:29.930 --> 00:12:30.730] CRUSHER: I shouldn't have to.
+[00:12:31.130 --> 00:12:32.650] CRUSHER: You're a fourth year Starfleet cadet.
+[00:12:32.810 --> 00:12:34.490] CRUSHER: You should have a certain level of maturity.
+[00:12:34.570 --> 00:12:37.290] WESLEY: Maybe I am sick of following rules and regulations.
+[00:12:37.610 --> 00:12:40.010] WESLEY: Maybe I am sick of living up to everyone else's expectations.
+[00:12:40.730 --> 00:12:41.770] WESLEY: Did you ever think of that?
+[00:12:44.970 --> 00:12:44.970] PICARD: I
+[00:12:48.170 --> 00:13:03.290] PICARD: have been fascinated looking into the history and traditions of your people, and I was very interested to learn that your grandfather, Katowa, was the man who first led the group of Indians from Earth initially more than two hundred years ago.
+[00:13:04.170 --> 00:13:05.770] ANTHWARA: There was great deal of opposition.
+[00:13:06.490 --> 00:13:08.090] ANTHWARA: Even my own father was against it.
+[00:13:09.290 --> 00:13:12.810] ANTHWARA: But when Katowa made his decision, it was final.
+[00:13:13.450 --> 00:13:14.810] ANTHWARA: My father never said another word.
+[00:13:15.290 --> 00:13:16.570] PICARD: It's never easy to leave one's home,
+[00:13:18.170 --> 00:13:19.530] PICARD: the safe and the familiar.
+[00:13:22.250 --> 00:13:23.610] PICARD: But there are times when
+[00:13:24.979 --> 00:13:30.899] PICARD: the greater good demands that certain sacrifices are made.
+[00:13:30.899 --> 00:13:33.379] PICARD: I'm sure that was something that your grandfather understood.
+[00:13:33.859 --> 00:13:35.619] ANTHWARA: So does his grandson.
+[00:13:37.699 --> 00:13:42.979] ANTHWARA: There are also times when a people sacrificed too much.
+[00:13:45.299 --> 00:13:51.459] ANTHWARA: When a people must hold on to what we have, even against overwhelming opposition.
+[00:13:52.659 --> 00:13:54.419] ANTHWARA: What do you know about your family, Captain?
+[00:13:55.939 --> 00:13:58.499] PICARD: Well, a great deal actually.
+[00:13:58.739 --> 00:14:04.339] PICARD: My father was a strong believer in passing on the traditions and history of the family.
+[00:14:05.619 --> 00:14:07.539] ANTHWARA: I would like to know more about your family.
+[00:14:08.499 --> 00:14:11.379] ANTHWARA: We have very strong ties to our ancestors.
+[00:14:11.459 --> 00:14:14.179] ANTHWARA: We believe their actions guide us even now.
+[00:14:15.219 --> 00:14:18.819] ANTHWARA: Knowing more about your family might help me to better understand you.
+[00:14:19.939 --> 00:14:28.499] ANTHWARA: Besides, it is always good to understand one's adversary in any negotiation.
+[00:14:28.819 --> 00:14:33.059] PICARD: I hope that by the end of this matter, you will no longer look at me as an adversary.
+[00:14:35.299 --> 00:14:40.099] PICARD: My family. Well, our roots in Western Europe go back to
+[00:14:40.179 --> 00:14:40.979] PICARD: the time of Charlemagne.
+[00:14:41.129 --> 00:14:42.929] WESLEY: I'm sorry I'm late.
+[00:14:43.219 --> 00:14:45.379] CRUSHER: We'll talk about it
+[00:14:47.059 --> 00:14:49.059] CRUSHER: later.
+[00:15:07.838 --> 00:15:08.558] LAKANTA: Wesley Crusher?
+[00:15:13.198 --> 00:15:13.518] WESLEY: Yes?
+[00:15:15.118 --> 00:15:15.758] LAKANTA: I am Lakanta.
+[00:15:17.358 --> 00:15:17.998] WESLEY: It's nice to meet you.
+[00:15:21.198 --> 00:15:22.958] WESLEY: Can I get you a drink or something.
+[00:15:24.238 --> 00:15:25.038] LAKANTA: I have known
+[00:15:26.878 --> 00:15:30.078] LAKANTA: that you were coming to us for the past two years.
+[00:15:31.838 --> 00:15:33.838] LAKANTA: Two
+[00:15:37.838 --> 00:15:44.158] LAKANTA: years ago, I went into the Habak and began a vision quest.
+[00:15:44.638 --> 00:15:50.398] LAKANTA: While I was there I saw many things, talked to many animals, many spirits.
+[00:15:53.918 --> 00:15:54.638] LAKANTA: And I saw you.
+[00:15:56.878 --> 00:15:58.238] WESLEY: I don't think I understand.
+[00:15:58.798 --> 00:16:06.478] LAKANTA: I know why you came to us, Wesley. To find the answers that you seek.
+[00:16:19.247 --> 00:16:20.607] CRUSHER: I just don't know what to do, Jean-Luc.
+[00:16:20.927 --> 00:16:24.127] CRUSHER: It's as if somebody took my son away and left this stranger in his place.
+[00:16:24.367 --> 00:16:26.287] PICARD: But in a sense, that's exactly what happened.
+[00:16:26.847 --> 00:16:35.567] PICARD: Wesley left the Enterprise three years ago he was a boy, and now he's returned a young man. And that can't be easy for a mother or a son.
+[00:16:36.047 --> 00:16:37.807] CRUSHER: It's gone beyond just the two of us.
+[00:16:38.767 --> 00:16:40.927] PICARD: Yes, I heard about the incident with Geordi.
+[00:16:41.327 --> 00:16:42.927] CRUSHER: Have you heard what happened at the Academy?
+[00:16:43.647 --> 00:16:45.167] CRUSHER: I called Admiral Brand today.
+[00:16:45.647 --> 00:16:49.007] CRUSHER: She said his grades are dropping, that he's becoming remote and defensive.
+[00:16:49.247 --> 00:16:51.247] CRUSHER: If he's not careful, he's going to wash out next term.
+[00:16:52.207 --> 00:16:55.407] CRUSHER: Maybe you should talk to him, Jean-Luc.
+[00:16:55.887 --> 00:16:59.487] CRUSHER: Maybe it's the kind of thing a boy, a man needs to discuss with another man.
+[00:16:59.487 --> 00:17:02.447] PICARD: I don't think he wants either of us to talk to him right now.
+[00:17:02.607 --> 00:17:03.727] CRUSHER: But he needs out help.
+[00:17:03.727 --> 00:17:06.047] PICARD: Beverly, he's got to want that help.
+[00:17:06.207 --> 00:17:10.607] PICARD: If he doesn't, then any efforts on our part can only push him further away.
+[00:17:11.647 --> 00:17:15.567] PICARD: He's got to work this out for himself.
+[00:17:18.047 --> 00:17:18.047] WESLEY: How
+[00:17:26.207 --> 00:17:27.247] WESLEY: long have you been watching me?
+[00:17:30.207 --> 00:17:31.247] LAKANTA: Since you beamed down.
+[00:17:33.487 --> 00:17:34.287] WESLEY: Well, I'm here.
+[00:17:35.327 --> 00:17:35.807] WESLEY: What should I do?
+[00:17:38.287 --> 00:17:38.607] LAKANTA: I don't know.
+[00:17:38.757 --> 00:17:39.357] WESLEY: I
+[00:17:40.207 --> 00:17:42.367] WESLEY: thought you were going to help me find some answers.
+[00:17:42.847 --> 00:17:44.287] LAKANTA: Answers to your questions.
+[00:17:46.927 --> 00:17:48.367] WESLEY: Tell me about this Habak.
+[00:17:49.007 --> 00:17:50.607] WESLEY: You said you had some kind of a vision there?
+[00:17:54.223 --> 00:17:56.783] LAKANTA: The Habak is holy to us.
+[00:17:57.983 --> 00:17:59.823] LAKANTA: We hold our rituals and our ceremonies there.
+[00:18:02.223 --> 00:18:02.863] LAKANTA: It's sacred to us.
+[00:18:04.863 --> 00:18:05.663] LAKANTA: What's sacred to you, Wesley?
+[00:18:08.543 --> 00:18:08.943] WESLEY: I don't know.
+[00:18:11.103 --> 00:18:12.783] WESLEY: I mean, I think a lot of things are important,
+[00:18:13.023 --> 00:18:14.543] WESLEY: I have a lot of respect for things.
+[00:18:15.903 --> 00:18:18.383] WESLEY: But I don't really consider anything sacred.
+[00:18:18.863 --> 00:18:19.743] LAKANTA: Look around us.
+[00:18:21.983 --> 00:18:23.663] LAKANTA: What do you think is sacred to us here?
+[00:18:25.663 --> 00:18:26.943] WESLEY: Maybe the necklace you're wearing?
+[00:18:30.463 --> 00:18:31.743] WESLEY: The designs on the walls?
+[00:18:33.983 --> 00:18:35.343] LAKANTA: Everything is sacred to us.
+[00:18:36.783 --> 00:18:41.503] LAKANTA: The buildings, the food, the sky, the dirt beneath your feet.
+[00:18:43.183 --> 00:18:43.423] LAKANTA: And you.
+[00:18:44.623 --> 00:18:45.503] LAKANTA: Whether you believe
+[00:18:47.023 --> 00:18:50.143] LAKANTA: in your spirit or not, we believe in it.
+[00:18:51.583 --> 00:18:54.623] LAKANTA: You are a sacred person here, Wesley.
+[00:18:56.703 --> 00:19:00.063] WESLEY: I think that's the first time anyone's used that particular word to describe me.
+[00:19:01.503 --> 00:19:07.743] LAKANTA: So, if you are sacred, then you must treat yourself with respect.
+[00:19:07.983 --> 00:19:10.383] LAKANTA: To do otherwise is to desecrate something that is holy.
+[00:19:11.423 --> 00:19:13.183] WESLEY: Is that what you think I've been doing?
+[00:19:15.023 --> 00:19:15.983] LAKANTA: Only you can decide that.
+[00:19:19.423 --> 00:19:21.903] WESLEY: I guess I haven't had a lot of respect for myself lately.
+[00:19:25.703 --> 00:19:29.623] LAKANTA: Then perhaps it's time for your own vision quest to begin.
+[00:19:38.823 --> 00:19:42.583] PICARD: Anthwara, I deeply regret that we have not been able to reach an agreement.
+[00:19:43.863 --> 00:19:48.263] PICARD: But, and I must be blunt, I cannot take no for an answer.
+[00:19:49.623 --> 00:19:55.623] PICARD: This planet will be handed over to the Cardassian government in accordance with the terms of the border agreement.
+[00:19:56.423 --> 00:19:58.983] PICARD: I am very sorry, but you will have to leave.
+[00:20:00.663 --> 00:20:02.143] WAKASA: And if we do not?
+[00:20:02.143 --> 00:20:03.623] PICARD: Then I will be forced
+[00:20:05.303 --> 00:20:07.943] PICARD: to remove you by whatever means are necessary.
+[00:20:08.903 --> 00:20:11.223] ANTHWARA: We know you will not take us from this land, Captain.
+[00:20:12.023 --> 00:20:14.983] PICARD: I may regret doing it, but I am not able
+[00:20:14.983 --> 00:20:23.703] ANTHWARA: When you first came to us, we did not know why you were sent by the Federation but we knew there must be a good reason.
+[00:20:24.823 --> 00:20:28.663] ANTHWARA: To us, nothing that happens is truly random.
+[00:20:31.383 --> 00:20:38.103] ANTHWARA: So we searched for the true reason you were sent. We did not find it until last night.
+[00:20:38.743 --> 00:20:42.103] ANTHWARA: Are you familiar with the Pueblo Revolt of sixteen eighty?
+[00:20:43.223 --> 00:20:43.623] TROI: I am.
+[00:20:45.063 --> 00:20:50.823] TROI: Several Indian tribes rose up to overthrow their Spanish overlords and drove them out of what is now called New Mexico.
+[00:20:51.463 --> 00:20:52.503] ANTHWARA: Ten years later,
+[00:20:52.801 --> 00:20:55.841] ANTHWARA: the Spanish returned to reconquer the area.
+[00:20:57.681 --> 00:20:58.321] ANTHWARA: They were brutal.
+[00:20:59.361 --> 00:21:02.321] ANTHWARA: I would use the word savage.
+[00:21:03.361 --> 00:21:05.441] ANTHWARA: They killed hundreds of our people.
+[00:21:05.921 --> 00:21:07.601] ANTHWARA: Thousands more were maimed.
+[00:21:09.681 --> 00:21:11.121] ANTHWARA: The name of one of the soldiers
+[00:21:13.441 --> 00:21:14.081] ANTHWARA: was Javier
+[00:21:16.081 --> 00:21:20.481] ANTHWARA: Maribona-Picard. Your ancestor.
+[00:21:22.881 --> 00:21:26.561] PICARD: I'm not aware of this incident or of the man you named,
+[00:21:27.761 --> 00:21:31.521] PICARD: and this happened seven hundred years ago.
+[00:21:31.521 --> 00:21:33.921] PICARD: I do not see what bearing it can have
+[00:21:33.921 --> 00:21:39.681] ANTHWARA: That is why you have come to us, to erase a stain of blood
+[00:21:41.841 --> 00:21:46.081] ANTHWARA: worn by your family for twenty three generations.
+[00:22:03.441 --> 00:22:03.681] PICARD: Mister
+[00:22:03.681 --> 00:22:04.721] PICARD: Worf, what is going on?
+[00:22:05.521 --> 00:22:07.201] WORF: We have unwelcome visitors, sir.
+[00:22:08.461 --> 00:22:10.461] PICARD: I'm
+[00:22:20.241 --> 00:22:22.081] PICARD: Captain Jean-Luc Picard of the Enterprise.
+[00:22:22.801 --> 00:22:23.601] GUL EVEK: I am Gul Evek.
+[00:22:23.601 --> 00:22:26.561] GUL EVEK: What are all these people still doing here?
+[00:22:27.604 --> 00:22:29.364] GUL EVEK: The evacuation should be well underway by now.
+[00:22:30.164 --> 00:22:30.884] PICARD: May I have a word with you,
+[00:22:31.764 --> 00:22:32.004] PICARD: alone?
+[00:22:34.084 --> 00:22:34.724] GUL EVEK: As you wish.
+[00:22:36.324 --> 00:22:36.644] GUL EVEK: Wait here.
+[00:22:36.644 --> 00:22:36.644] PICARD: It
+[00:22:46.084 --> 00:22:49.924] PICARD: was my understanding that there would be no Cardassian presence here for another six weeks.
+[00:22:50.244 --> 00:22:53.204] PICARD: Your arrival here may have upset some very delicate negotiations.
+[00:22:53.764 --> 00:22:54.644] GUL EVEK: Negotiations?
+[00:22:55.444 --> 00:22:56.964] GUL EVEK: The status of this planet has been settled.
+[00:22:57.044 --> 00:22:57.844] GUL EVEK: What are you negotiating?
+[00:22:58.244 --> 00:23:00.164] PICARD: I would be very happy to explain that to you,
+[00:23:00.324 --> 00:23:03.604] PICARD: but for now I must ask you and your men to leave immediately.
+[00:23:04.084 --> 00:23:08.724] GUL EVEK: Captain, we have been sent here to perform a preliminary survey of all the buildings and equipment being left behind.
+[00:23:09.924 --> 00:23:12.244] GUL EVEK: I have no intention of leaving until our mission is complete.
+[00:23:13.924 --> 00:23:14.324] PICARD: Very well.
+[00:23:15.124 --> 00:23:16.084] PICARD: Complete your mission.
+[00:23:17.764 --> 00:23:20.484] PICARD: But remember, this is Federation territory, Gul Evek,
+[00:23:22.004 --> 00:23:27.204] PICARD: and until that changes, these people are under my jurisdiction and I will protect them.
+[00:23:28.964 --> 00:23:29.604] GUL EVEK: Is that a threat?
+[00:23:30.004 --> 00:23:30.724] PICARD: It's a fact.
+[00:23:31.124 --> 00:23:33.124] PICARD: Bear that in mind while you conduct your survey.
+[00:23:35.835 --> 00:23:37.835] LAKANTA: This
+[00:23:40.546 --> 00:23:42.546] LAKANTA: is
+[00:23:45.257 --> 00:23:47.257] LAKANTA: the
+[00:23:49.968 --> 00:23:51.968] LAKANTA: Habak, the
+[00:23:54.324 --> 00:23:55.524] LAKANTA: focal point of our lives.
+[00:23:58.084 --> 00:23:59.444] LAKANTA: Strangers are not welcome here.
+[00:24:00.731 --> 00:24:02.491] WESLEY: When I asked to come here, you said it would be
+[00:24:02.491 --> 00:24:03.131] LAKANTA: You're not a stranger.
+[00:24:04.891 --> 00:24:06.731] LAKANTA: I told you, I've seen you here before.
+[00:24:10.571 --> 00:24:11.451] WESLEY: What are those figures?
+[00:24:12.091 --> 00:24:12.811] LAKANTA: They are Mansara.
+[00:24:14.491 --> 00:24:17.771] LAKANTA: Dolls that represent the different spirits that come to this place.
+[00:24:19.131 --> 00:24:20.011] WESLEY: This one looks like a Klingon.
+[00:24:22.251 --> 00:24:28.971] LAKANTA: Yes. Our culture is rooted in the past, but it's not limited to the past.
+[00:24:29.121 --> 00:24:29.721] LAKANTA: The
+[00:24:30.811 --> 00:24:38.731] LAKANTA: spirits of the Klingon, the Vulcan, the Ferengi come to us just as the bear and the coyote and the parrot.
+[00:24:43.051 --> 00:24:43.771] LAKANTA: There's no difference.
+[00:24:45.931 --> 00:24:46.571] WESLEY: What should I do?
+[00:24:49.051 --> 00:24:51.691] LAKANTA: Start the fire. Then sit and wait.
+[00:24:52.891 --> 00:24:53.691] WESLEY: What am I waiting for?
+[00:24:54.331 --> 00:24:55.291] LAKANTA: This is your journey, Wesley.
+[00:24:57.451 --> 00:25:00.091] LAKANTA: I can open the door, but only you can go through it.
+[00:25:07.611 --> 00:25:09.211] PICARD: Admiral, the Indian Councils is adamant.
+[00:25:09.531 --> 00:25:11.051] PICARD: They refuse to leave Dorvan Five.
+[00:25:11.451 --> 00:25:15.051] NECHEYEV: Is there any indication that the Tribal Council will change their position in the near future?
+[00:25:15.451 --> 00:25:15.771] PICARD: No, sir.
+[00:25:16.491 --> 00:25:18.205] NECHEYEV: Then I see no other choice.
+[00:25:18.205 --> 00:25:18.491] PICARD: Admiral,
+[00:25:18.651 --> 00:25:22.571] PICARD: I have every reason to believe that they will resist any attempt to remove them.
+[00:25:22.651 --> 00:25:26.651] PICARD: I strongly urge you to request an emergency session of the Federation Council.
+[00:25:27.291 --> 00:25:29.931] PICARD: The issue of Dorvan Five must be reopened.
+[00:25:30.501 --> 00:25:32.261] NECHEYEV: Captain, I made that request two days ago.
+[00:25:32.261 --> 00:25:33.141] NECHEYEV: The answer was no.
+[00:25:34.341 --> 00:25:35.781] NECHEYEV: I'm sorry but you have your orders.
+[00:25:36.021 --> 00:25:36.901] NECHEYEV: Starfleet out.
+[00:25:38.501 --> 00:25:40.261] RIKER: So much for your reprieve from Starfleet.
+[00:25:47.781 --> 00:25:55.301] PICARD: Anthwara believes that I am responsible for the crimes of one of my ancestors against his people.
+[00:25:56.261 --> 00:25:56.901] RIKER: Do you believe that?
+[00:25:58.341 --> 00:25:59.061] PICARD: No, of course not.
+[00:26:00.261 --> 00:26:01.381] PICARD: I respect his belief,
+[00:26:02.981 --> 00:26:05.541] PICARD: but I do not see how it can have any bearing on this mission.
+[00:26:07.781 --> 00:26:09.541] PICARD: But even so, I can't help wondering
+[00:26:11.381 --> 00:26:11.621] PICARD: if a
+[00:26:13.461 --> 00:26:16.901] PICARD: dark chapter in my family's history is about to be repeated.
+[00:26:19.141 --> 00:26:23.861] PICARD: If those people take up arms against us, then I cannot foresee the consequences.
+[00:26:27.941 --> 00:26:29.381] PICARD: Mister Worf, will you come in here for a moment?
+[00:26:30.101 --> 00:26:30.421] WORF: Aye, sir.
+[00:26:38.501 --> 00:26:38.901] PICARD: Mister Worf,
+[00:26:41.061 --> 00:26:44.181] PICARD: will you begin preparations to remove the inhabitants from Dorvan Five.
+[00:26:44.901 --> 00:26:45.141] WORF: Aye, sir.
+[00:27:23.997 --> 00:27:24.317] JACK: Wesley.
+[00:27:27.997 --> 00:27:28.477] WESLEY: Dad?
+[00:27:28.477 --> 00:27:30.797] JACK: You've reached the end, Wesley.
+[00:27:31.997 --> 00:27:32.717] WESLEY: The end of what?
+[00:27:33.917 --> 00:27:36.557] JACK: This journey. The one you started a long time ago,
+[00:27:38.317 --> 00:27:39.277] JACK: when I left you and your mother.
+[00:27:40.557 --> 00:27:41.597] WESLEY: You mean when you died.
+[00:27:42.557 --> 00:27:44.477] JACK: You set out on a journey that wasn't your own.
+[00:27:45.917 --> 00:27:48.397] JACK: Now it's time to find a path that is truly yours.
+[00:27:49.357 --> 00:27:50.557] JACK: Don't follow me any further.
+[00:27:51.997 --> 00:27:53.037] WESLEY: I don't understand.
+[00:27:53.837 --> 00:27:54.237] JACK: Yes, you do.
+[00:27:55.037 --> 00:27:56.397] JACK: It's just hard for you to accept.
+[00:27:58.077 --> 00:27:59.997] JACK: Goodbye, Wesley, and good luck.
+[00:28:04.077 --> 00:28:04.637] WESLEY: Dad, wait!
+[00:28:25.357 --> 00:28:27.357] WORF: Mister
+[00:28:27.357 --> 00:28:30.717] WORF: Crusher. Are you all right?
+[00:28:31.781 --> 00:28:32.581] WESLEY: Yeah, Worf, I'm fine.
+[00:28:34.981 --> 00:28:38.181] WORF: Lay out a confinement beam trace along the southeastern side of the village.
+[00:28:38.581 --> 00:28:39.141] WORF: Be discreet.
+[00:28:39.141 --> 00:28:40.741] WORF: We do not wish to alarm these people.
+[00:28:41.141 --> 00:28:41.381] SECURITY: Yes, sir.
+[00:28:45.861 --> 00:28:46.261] WESLEY: Worf,
+[00:28:48.021 --> 00:28:48.581] WESLEY: what are you doing?
+[00:28:52.661 --> 00:28:55.701] WORF: We are laying out transporter coordinates for a security perimeter.
+[00:28:56.341 --> 00:28:58.741] WORF: It may be necessary to remove these people by force.
+[00:29:00.661 --> 00:29:02.741] WESLEY: Worf, we
+[00:29:06.501 --> 00:29:07.221] WESLEY: can't do this.
+[00:29:08.661 --> 00:29:12.261] WESLEY: These people deserve better than to be removed from their homes.
+[00:29:12.341 --> 00:29:14.181] WORF: I understand, but now is not the time or the place to
+[00:29:14.181 --> 00:29:16.101] WESLEY: Do you know what they're trying to do?
+[00:29:16.101 --> 00:29:17.861] WESLEY: They're preparing to beam you away and take you to their ship.
+[00:29:18.661 --> 00:29:20.181] WESLEY: You're not going to let them do that, are you?
+[00:29:20.341 --> 00:29:22.981] WAKASA: No, we won't.
+[00:29:24.341 --> 00:29:25.541] WAKASA: Leave now.
+[00:29:33.221 --> 00:29:33.861] PICARD: Inexcusable.
+[00:29:33.941 --> 00:29:37.381] PICARD: You defied the orders of the ranking officer on the scene.
+[00:29:37.621 --> 00:29:42.981] PICARD: You put the lives of the entire away team in jeopardy, and you made an already tense situation worse.
+[00:29:46.501 --> 00:29:50.181] PICARD: Your actions reflect very badly on this ship and on that uniform.
+[00:29:52.261 --> 00:29:55.621] PICARD: Now, I want an explanation, Mister Crusher, and I want it now.
+[00:30:01.071 --> 00:30:02.351] WESLEY: What you're doing down there is wrong.
+[00:30:03.871 --> 00:30:06.111] WESLEY: These people are not some random group of colonists.
+[00:30:06.351 --> 00:30:09.551] WESLEY: They're a unique culture with a history that predates the Federation and Starfleet.
+[00:30:09.791 --> 00:30:11.711] PICARD: That does not alter the fact that my orders are to
+[00:30:11.711 --> 00:30:15.951] WESLEY: I know Admiral Necheyev gave you an order, and she was given an order from the Federation Council.
+[00:30:16.991 --> 00:30:17.871] WESLEY: But it's still wrong.
+[00:30:18.271 --> 00:30:20.671] PICARD: That decision is not yours to make, Cadet.
+[00:30:23.551 --> 00:30:27.871] PICARD: I don't know what has got into you lately, and frankly right now I don't care.
+[00:30:28.271 --> 00:30:37.951] PICARD: But I will tell you this. While you wear that uniform, you will obey every order you're given and you will conform to Starfleet regulations and rules of conduct.
+[00:30:38.031 --> 00:30:38.751] PICARD: Is that clear?
+[00:30:39.471 --> 00:30:40.191] WESLEY: Yes, sir, it is.
+[00:30:42.031 --> 00:30:43.711] WESLEY: But I won't be wearing this uniform any longer.
+[00:30:45.471 --> 00:30:46.671] WESLEY: I'm resigning from the Academy.
+[00:30:50.031 --> 00:30:51.071] RIKER: Riker to
+[00:30:57.631 --> 00:30:57.935] RIKER: Captain.
+[00:30:57.935 --> 00:30:59.151] PICARD: Go ahead, Number One.
+[00:31:00.031 --> 00:31:03.071] RIKER: Gul Evek wants to meet with you to discuss the situation on the surface.
+[00:31:05.631 --> 00:31:06.431] PICARD: Let him come aboard.
+[00:31:07.071 --> 00:31:07.791] PICARD: I'll see him in here.
+[00:31:08.271 --> 00:31:08.591] RIKER: Aye, sir.
+[00:31:17.551 --> 00:31:18.911] CRUSHER: Why are you doing this?
+[00:31:19.551 --> 00:31:20.351] WESLEY: I told you,
+[00:31:23.071 --> 00:31:24.591] WESLEY: Starfleet isn't for me.
+[00:31:27.679 --> 00:31:33.999] CRUSHER: Look, I may not be able to stop you from throwing away your entire life, but you are going to stand here and explain it to me first.
+[00:31:35.199 --> 00:31:36.479] CRUSHER: You owe me that much.
+[00:31:39.679 --> 00:31:42.559] WESLEY: I saw Dad today.
+[00:31:43.199 --> 00:31:44.479] WESLEY: He told me not to follow him.
+[00:31:46.959 --> 00:31:47.359] CRUSHER: You what?
+[00:31:49.279 --> 00:31:53.439] WESLEY: I was participating in an Indian ritual and I had a vision.
+[00:31:54.959 --> 00:31:57.759] WESLEY: Dad came to me and told me not to follow him.
+[00:31:58.159 --> 00:31:59.599] WESLEY: He said I had to find my own path.
+[00:32:01.439 --> 00:32:02.799] CRUSHER: Is that what this is all about?
+[00:32:03.599 --> 00:32:07.039] CRUSHER: A vision told you to leave the Academy and now you're packing your bags?
+[00:32:07.039 --> 00:32:09.599] WESLEY: No. No, it's more than that.
+[00:32:10.159 --> 00:32:12.879] WESLEY: I've known I've needed to do this for a long time.
+[00:32:13.519 --> 00:32:15.439] WESLEY: I just haven't been able to admit it to myself.
+[00:32:15.999 --> 00:32:19.039] CRUSHER: But you always said that being at the Academy was the best thing that ever happened to you.
+[00:32:19.199 --> 00:32:19.759] WESLEY: I know.
+[00:32:20.239 --> 00:32:27.199] WESLEY: For a while it was. But as time went on and graduation got closer, I started feeling really depressed.
+[00:32:27.839 --> 00:32:33.119] WESLEY: I thought maybe it was the workload or the stress of being away from home, but it didn't go away.
+[00:32:33.119 --> 00:32:34.239] WESLEY: It just got worse.
+[00:32:37.679 --> 00:32:41.359] CRUSHER: Why didn't you ever say anything?
+[00:32:41.919 --> 00:32:45.439] WESLEY: I didn't want to disappoint you or Captain Picard or my friends.
+[00:32:46.079 --> 00:32:47.679] WESLEY: You guys were all so proud of me.
+[00:32:48.639 --> 00:32:51.599] CRUSHER: I'd be proud of you no matter what you were doing, Wesley.
+[00:32:52.399 --> 00:32:53.759] CRUSHER: I love you.
+[00:32:55.085 --> 00:32:55.725] WESLEY: I know, Mom.
+[00:32:58.445 --> 00:33:01.245] WESLEY: I guess the truth is that I was afraid of disappointing myself.
+[00:33:03.965 --> 00:33:11.485] WESLEY: I never questioned the fact that I'd be in Starfleet. But when Dad said not to follow him, it just made so much sense.
+[00:33:12.925 --> 00:33:13.965] WESLEY: Everything is so clear
+[00:33:15.485 --> 00:33:17.485] WESLEY: now.
+[00:33:19.965 --> 00:33:22.285] CRUSHER: Maybe it is partly my fault.
+[00:33:25.005 --> 00:33:31.325] CRUSHER: We didn't realised the kind of pressure we were putting on you to be exactly what we expected you to be
+[00:33:33.885 --> 00:33:35.485] WESLEY: I don't blame you at all.
+[00:33:35.965 --> 00:33:37.005] WESLEY: It is my decision.
+[00:33:38.045 --> 00:33:38.765] WESLEY: It always has been.
+[00:33:41.485 --> 00:33:48.643] CRUSHER: You know that alien from Tau Ceti, the one who could control warp fields with his mind?
+[00:33:48.643 --> 00:33:49.485] WESLEY: The Traveller.
+[00:33:49.965 --> 00:33:54.445] CRUSHER: He told Captain Picard a long time ago that you were very special, like Mozart,
+[00:33:57.245 --> 00:34:00.605] CRUSHER: and that you were destined for something quite different from the rest of us.
+[00:34:01.725 --> 00:34:03.005] CRUSHER: Maybe this is the first step.
+[00:34:06.525 --> 00:34:07.245] CRUSHER: I love you.
+[00:34:09.325 --> 00:34:09.405] WESLEY: I
+[00:34:11.245 --> 00:34:12.045] WESLEY: love you too, Mom.
+[00:34:13.725 --> 00:34:15.165] WAKASA: You shouldn't be here, Wesley.
+[00:34:16.525 --> 00:34:16.845] WESLEY: Why?
+[00:34:16.995 --> 00:34:17.995] INDIAN: Get down.
+[00:34:19.005 --> 00:34:19.805] WAKASA: Bring
+[00:34:23.165 --> 00:34:23.885] WAKASA: them over here.
+[00:34:26.045 --> 00:34:27.325] WORF: Why have you taken these men prisoner?
+[00:34:27.870 --> 00:34:28.830] WAKASA: This is not their world.
+[00:34:29.710 --> 00:34:30.750] WAKASA: They have no right to be here.
+[00:34:30.990 --> 00:34:34.110] WORF: The terms of the treaty gives them the right to survey this planet.
+[00:34:34.350 --> 00:34:36.110] WAKASA: We don't recognise that treaty.
+[00:34:46.430 --> 00:34:47.070] WORF: Worf to Picard.
+[00:34:48.110 --> 00:34:50.670] WORF: An armed group of Indians has taken two Cardassian prisoners.
+[00:34:51.150 --> 00:34:53.070] WORF: The situation is extremely volatile.
+[00:34:53.470 --> 00:34:54.270] WORF: Request instructions.
+[00:34:54.510 --> 00:34:55.390] PICARD: Stand by, Mister Worf.
+[00:34:57.950 --> 00:35:01.070] PICARD: Have your ship lock on to your people and beam them out of there before something happens.
+[00:35:01.230 --> 00:35:01.710] GUL EVEK: My people?
+[00:35:02.430 --> 00:35:04.030] GUL EVEK: What about these Indians of yours?
+[00:35:04.430 --> 00:35:05.470] GUL EVEK: They've taken hostages.
+[00:35:06.110 --> 00:35:07.230] GUL EVEK: This is our planet, Captain.
+[00:35:07.230 --> 00:35:09.310] GUL EVEK: We will not be chased away by some unruly crowd.
+[00:35:10.590 --> 00:35:11.470] GUL EVEK: Gul Evek to the Vetar.
+[00:35:12.190 --> 00:35:13.710] TELAK: This is Glin Telak aboard the Vetar.
+[00:35:13.870 --> 00:35:14.190] TELAK: Go ahead.
+[00:35:14.590 --> 00:35:16.430] GUL EVEK: Two of our men on the surface have been taken prisoner.
+[00:35:17.230 --> 00:35:21.070] GUL EVEK: Prepare to send an armed squad of troopers to rescue them and to occupy the village.
+[00:35:21.070 --> 00:35:21.310] PICARD: Gul Evek,
+[00:35:21.790 --> 00:35:25.630] PICARD: those people are Federation citizens and I am sworn to protect them.
+[00:35:25.790 --> 00:35:29.950] PICARD: If your troops attack that village, my security forces will respond.
+[00:35:30.190 --> 00:35:34.590] GUL EVEK: I hope you realise the consequences of Federation officers firing on Cardassian troops.
+[00:35:34.750 --> 00:35:35.710] PICARD: Oh, yes, I do.
+[00:35:36.510 --> 00:35:39.470] PICARD: That is why we must to stop this now, before it's too late.
+[00:35:44.030 --> 00:35:46.830] WORF: I cannot allow you to hold these men as prisoners.
+[00:35:46.990 --> 00:35:48.910] WAKASA: You have no authority here.
+[00:35:49.060 --> 00:35:49.660] WESLEY: No!
+[00:36:00.892 --> 00:36:03.372] WESLEY: What happened?
+[00:36:08.972 --> 00:36:09.612] WESLEY: Did you do this?
+[00:36:11.532 --> 00:36:12.732] LAKANTA: I didn't do anything. You did.
+[00:36:12.972 --> 00:36:15.212] WESLEY: I did?
+[00:36:16.172 --> 00:36:17.851] LAKANTA: You pulled yourself out of their time.
+[00:36:19.532 --> 00:36:20.652] LAKANTA: You took the first step, Wesley.
+[00:36:21.292 --> 00:36:22.332] WESLEY: My first step to where?
+[00:36:23.212 --> 00:36:26.652] LAKANTA: To another plane of existence, another way of thinking.
+[00:36:27.452 --> 00:36:28.172] WESLEY: I don't understand.
+[00:36:28.492 --> 00:36:30.492] LAKANTA: You've found a new beginning for yourself.
+[00:36:31.372 --> 00:36:34.732] LAKANTA: The first step on a journey that few humans will ever take.
+[00:36:36.572 --> 00:36:37.132] WESLEY: Who are you?
+[00:36:42.492 --> 00:36:43.132] WESLEY: The Traveller.
+[00:36:44.172 --> 00:36:46.892] TRAVELLER: I've been waiting a long time for this moment, Wesley.
+[00:36:47.042 --> 00:36:47.642] WESLEY: So
+[00:36:48.652 --> 00:36:50.732] WESLEY: all those things I saw in the Habak,
+[00:36:52.892 --> 00:36:57.052] WESLEY: my father, and the things he said to me, that was your doing?
+[00:36:58.092 --> 00:36:59.532] TRAVELLER: I merely opened the door for you.
+[00:37:00.492 --> 00:37:05.452] TRAVELLER: What you experienced came from your own mind, your own spirit if you wish.
+[00:37:06.332 --> 00:37:09.532] TRAVELLER: I hoped that you would open your mind to new possibilities, and you did.
+[00:37:10.092 --> 00:37:11.692] TRAVELLER: You pulled yourself out of time,
+[00:37:11.692 --> 00:37:12.492] TRAVELLER: don't you see?
+[00:37:12.732 --> 00:37:14.332] TRAVELLER: You've evolved to a new level
+[00:37:14.332 --> 00:37:22.252] TRAVELLER: you're ready to explore places where thought and energy combine in ways you can't even imagine. And I will be your guide,
+[00:37:24.332 --> 00:37:25.132] TRAVELLER: if you would like.
+[00:37:28.332 --> 00:37:30.812] WESLEY: What about them?
+[00:37:31.833 --> 00:37:33.273] WESLEY: I can't just leave them like this.
+[00:37:34.073 --> 00:37:35.513] TRAVELLER: They must find their own destinies,
+[00:37:35.593 --> 00:37:38.793] TRAVELLER: Wesley. It's not our place to interfere.
+[00:37:39.193 --> 00:37:39.480] WESLEY: But
+[00:37:39.480 --> 00:37:42.633] TRAVELLER: Have faith in their abilities to solve their problems on their
+[00:37:45.433 --> 00:37:47.433] TRAVELLER: own.
+[00:37:50.873 --> 00:37:53.353] RIKER: The Cardassian ship is powering its weapons and it's transporters.
+[00:37:53.673 --> 00:37:54.873] TELAK: This is the Vetar to Gul Evek.
+[00:37:55.113 --> 00:37:56.153] TELAK: Our troops are under attack.
+[00:37:56.473 --> 00:37:57.913] TELAK: They're requesting immediate assistance.
+[00:37:58.073 --> 00:37:58.713] TELAK: What are your orders?
+[00:37:59.993 --> 00:38:00.393] PICARD: Evek,
+[00:38:01.033 --> 00:38:04.393] PICARD: the last war caused massive destruction and cost millions of lives.
+[00:38:04.553 --> 00:38:06.873] PICARD: Don't send our two peoples back down that same path again.
+[00:38:07.033 --> 00:38:07.753] PICARD: Not like this.
+[00:38:08.153 --> 00:38:09.753] PICARD: Now the future lies in your hands
+[00:38:09.753 --> 00:38:12.633] PICARD: right now. Give us one last chance for peace.
+[00:38:13.273 --> 00:38:14.473] TELAK: Gul Evek! What are your orders?
+[00:38:14.633 --> 00:38:15.593] TELAK: Can we open fire?
+[00:38:18.153 --> 00:38:18.873] GUL EVEK: Evek to the Vetar.
+[00:38:20.633 --> 00:38:22.153] GUL EVEK: Lock on to our troops on the surface
+[00:38:23.993 --> 00:38:24.793] GUL EVEK: and beam them aboard.
+[00:38:25.673 --> 00:38:26.953] TELAK: But, sir, they've been fired upon.
+[00:38:26.953 --> 00:38:27.673] GUL EVEK: Those are my orders!
+[00:38:27.673 --> 00:38:28.233] GUL EVEK: Carry them out.
+[00:38:28.873 --> 00:38:29.113] TELAK: Yes, sir.
+[00:38:29.433 --> 00:38:30.553] PICARD: Beam up the away team immediately.
+[00:38:30.873 --> 00:38:31.113] CREWMAN: Aye, sir.
+[00:38:33.273 --> 00:38:37.193] GUL EVEK: I lost two of three sons in the war, Captain.
+[00:38:37.833 --> 00:38:40.953] GUL EVEK: I don't want to lose the last one.
+[00:38:42.073 --> 00:38:44.073] PICARD: Anthwara,
+[00:38:55.113 --> 00:39:03.593] PICARD: I want to make absolutely sure that you understand the implications of this agreement. By giving up your status as Federation citizens,
+[00:39:03.708 --> 00:39:09.868] PICARD: any future request you or your people make to Starfleet will go unanswered.
+[00:39:10.828 --> 00:39:11.788] PICARD: You will be on your own
+[00:39:13.948 --> 00:39:15.868] PICARD: and under Cardassian jurisdiction.
+[00:39:16.748 --> 00:39:17.868] ANTHWARA: I understand, Captain.
+[00:39:18.908 --> 00:39:21.948] ANTHWARA: And we are prepared to take that risk.
+[00:39:24.428 --> 00:39:28.668] ANTHWARA: Will the Cardassian government honour your agreement here?
+[00:39:29.228 --> 00:39:33.548] GUL EVEK: I believe I can convince them that this is an equitable solution.
+[00:39:33.548 --> 00:39:39.468] GUL EVEK: I cannot speak for every Cardassian you may encounter, but if you leave us alone I suspect that we will do the same.
+[00:39:42.908 --> 00:39:44.748] GUL EVEK: Will this be acceptable to the Starfleet Command?
+[00:39:44.748 --> 00:39:51.148] PICARD: It will not be easy, but with Admiral Necheyev's support, I think they will go along with it in the end.
+[00:39:52.588 --> 00:39:54.348] GUL EVEK: Then if there's nothing else, I will return to my ship.
+[00:39:54.748 --> 00:39:58.988] GUL EVEK: I have a rather long report to write. Captain. Anthwara.
+[00:40:02.748 --> 00:40:03.788] ANTHWARA: I was right, Captain.
+[00:40:05.788 --> 00:40:07.708] ANTHWARA: You did not take us from our land
+[00:40:09.468 --> 00:40:13.548] ANTHWARA: and you have wiped clean a very old stain of blood.
+[00:40:26.588 --> 00:40:30.268] LOG: Captain's log, stardate 47755.3.
+[00:40:30.828 --> 00:40:36.828] LOG: The Enterprise is preparing to leave Dorvan Five, but former cadet Wesley Crusher will be staying behind.
+[00:40:38.459 --> 00:40:39.099] PICARD: Where will you go?
+[00:40:43.099 --> 00:40:45.339] WESLEY: The Traveller said that my studies would begin with these people.
+[00:40:45.489 --> 00:40:46.089] WESLEY: He
+[00:40:47.179 --> 00:40:49.179] WESLEY: said that they're aware of many things.
+[00:40:50.219 --> 00:40:53.659] WESLEY: I can learn a lot from them.
+[00:40:53.659 --> 00:40:55.019] WESLEY: That's just what I need. More studying.
+[00:40:55.979 --> 00:40:57.339] CRUSHER: Somehow I think you'll manage.
+[00:40:57.339 --> 00:40:58.459] WESLEY: Me, too.
+[00:40:59.579 --> 00:40:59.819] PICARD: Well
+[00:41:01.339 --> 00:41:02.059] PICARD: good luck, Mister.
+[00:41:03.339 --> 00:41:05.899] PICARD: Good luck, Wesley.
+[00:41:06.459 --> 00:41:08.859] WESLEY: Thank you. For a lot of things.
+[00:41:22.139 --> 00:41:25.179] CRUSHER: Now you be sure and dress warmly on those other planes of existence.
+[00:41:26.859 --> 00:41:27.019] WESLEY: I will.
+[00:41:35.259 --> 00:41:35.899] WESLEY: Bye, Mom.
+[00:41:35.899 --> 00:41:36.139] CRUSHER: Goodbye.
+[00:41:42.699 --> 00:41:43.259] PICARD: Energise.
+[00:42:00.000 --> 00:42:12.000] [music]
+[00:42:44.000 --> 00:42:52.000] [music]

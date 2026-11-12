@@ -1,0 +1,603 @@
+[00:00:02.560 --> 00:00:05.280] LOG: Captain's log, stardate 47410.2.
+[00:00:05.840 --> 00:00:09.840] LOG: The Atrean government has requested assistance in averting a natural disaster.
+[00:00:10.240 --> 00:00:15.120] LOG: Two of their geologists have come aboard, one of whom is a human who has been living on Atrea Four.
+[00:00:15.920 --> 00:00:19.680] JULIANA: Captain, our situation has worsened since my husband and I first contacted you.
+[00:00:20.320 --> 00:00:24.800] JULIANA: The molten core of our planet is not just cooling, it's begun to solidify.
+[00:00:25.680 --> 00:00:27.440] PRAN: Our gravitational field has been affected.
+[00:00:27.760 --> 00:00:30.480] PRAN: Seismic activity has increased by a factor of three.
+[00:00:31.040 --> 00:00:37.440] JULIANA: If the cooling continues at this rate Atrea will become uninhabitable in thirteen months.
+[00:00:37.600 --> 00:00:45.280] LAFORGE: We could minimise seismic activity by creating isobaric fissures and relieving some of the tectonic stress, but that would just be a temporary fix.
+[00:00:45.840 --> 00:00:48.480] DATA: The only permanent solution would be to re-liquefy the core.
+[00:00:49.280 --> 00:00:53.600] LAFORGE: These pockets in the magma layer, how close are they to the molten region of the core?
+[00:00:54.160 --> 00:00:54.960] JULIANA: A few kilometres,
+[00:00:54.960 --> 00:00:55.200] JULIANA: why?
+[00:00:55.200 --> 00:00:58.640] LAFORGE: Data, do you think that's close enough for ferro-plasmic infusion?
+[00:00:58.790 --> 00:00:59.390] DATA: The
+[00:01:00.480 --> 00:01:09.280] DATA: procedure will involve using the ship's phasers to drill down through the planet's surface into the pockets, where we would set up a series of plasma infusion units.
+[00:01:09.520 --> 00:01:13.360] LAFORGE: We'll trigger the units by firing modulated energy bursts down through the shafts.
+[00:01:13.760 --> 00:01:14.800] JULIANA: I see.
+[00:01:15.280 --> 00:01:22.400] JULIANA: Injecting sufficient plasma directly into the core should trigger a chain reaction, and that will reliquify the magma.
+[00:01:23.120 --> 00:01:26.880] DATA: It should be possible to stabilise the core temperature at ninety three percent of normal.
+[00:01:27.440 --> 00:01:30.400] PRAN: If it works, the core would remain molten for centuries.
+[00:01:31.200 --> 00:01:32.160] PICARD: If you give your permission,
+[00:01:32.693 --> 00:01:33.573] PICARD: we could begin immediately.
+[00:01:35.093 --> 00:01:35.573] PRAN: Very well.
+[00:01:36.213 --> 00:01:39.813] PRAN: But before we proceed, I'd like to update our geological surveys.
+[00:01:39.813 --> 00:01:41.893] LAFORGE: Fine. I'd be very happy to help you with that, Doctor.
+[00:01:42.453 --> 00:01:44.453] PICARD: I've assigned you quarters during out time here.
+[00:01:44.453 --> 00:01:45.733] PICARD: Please, make yourselves comfortable.
+[00:01:46.373 --> 00:01:47.013] PRAN: Thank you, Captain.
+[00:01:50.373 --> 00:01:50.853] JULIANA: Data?
+[00:01:51.653 --> 00:01:52.133] DATA: Yes, Doctor?
+[00:01:54.613 --> 00:01:56.533] JULIANA: Do you have any idea who I am?
+[00:01:57.413 --> 00:01:58.613] DATA: You are Doctor Juliana Tainer.
+[00:02:00.053 --> 00:02:03.013] JULIANA: You lost all your early memories.
+[00:02:03.573 --> 00:02:05.333] JULIANA: We thought you would, but we couldn't be certain.
+[00:02:06.533 --> 00:02:07.413] DATA: Have we met before?
+[00:02:07.413 --> 00:02:12.533] JULIANA: Oh, Data, I was there, right at the beginning on Omicron Theta.
+[00:02:13.253 --> 00:02:14.613] JULIANA: I helped create you.
+[00:02:15.333 --> 00:02:18.213] JULIANA: Now look at you.
+[00:02:19.253 --> 00:02:20.583] DATA: You were a colleague of Doctor Soong?
+[00:02:20.583 --> 00:02:20.773] JULIANA: Yes,
+[00:02:21.253 --> 00:02:26.453] JULIANA: I certainly was. And I was also his wife.
+[00:02:27.573 --> 00:02:31.733] JULIANA: In a way, I suppose you could say I am your mother.
+[00:03:00.693 --> 00:03:04.853] PICARD: Space, the final frontier.
+[00:03:06.731 --> 00:03:09.611] PICARD: These are the voyages of the starship Enterprise.
+[00:03:10.651 --> 00:03:23.211] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:52.000 --> 00:04:01.000] [music]
+[00:04:15.451 --> 00:04:18.011] JULIANA: I still
+[00:04:20.171 --> 00:04:23.771] JULIANA: can't believe I'm seeing you like this again,
+[00:04:24.251 --> 00:04:25.502] JULIANA: after all these years.
+[00:04:25.502 --> 00:04:27.691] DATA: Doctor, I have no memory of you.
+[00:04:28.011 --> 00:04:29.051] JULIANA: Oh, there's a reason for that.
+[00:04:29.931 --> 00:04:33.771] JULIANA: We wiped your processors after we finished refining your programming.
+[00:04:34.731 --> 00:04:36.491] JULIANA: Why don't you tell me what you do remember,
+[00:04:36.840 --> 00:04:38.200] JULIANA: and then I'll fill in the gaps.
+[00:04:39.000 --> 00:04:44.200] DATA: My memory record begins when I was activated by the Starfleet officers on the Omicron Theta outpost.
+[00:04:44.360 --> 00:04:46.920] JULIANA: After the attack of the Crystalline Entity.
+[00:04:47.320 --> 00:04:49.880] DATA: Yes. All of the inhabitants of the colony were killed.
+[00:04:50.840 --> 00:04:54.920] DATA: However, I discovered that my memory banks contained the contents of their journals and logs.
+[00:04:55.560 --> 00:04:57.880] JULIANA: We hoped their experiences would be useful.
+[00:04:58.600 --> 00:05:01.560] JULIANA: After your childhood, we figured you could use all the help you could get.
+[00:05:03.080 --> 00:05:03.720] DATA: My childhood?
+[00:05:04.280 --> 00:05:05.880] JULIANA: That's what I called it.
+[00:05:06.680 --> 00:05:11.880] JULIANA: You were like a baby, at first. A hundred kilogram baby, but still.
+[00:05:13.640 --> 00:05:15.000] JULIANA: You had trouble
+[00:05:16.600 --> 00:05:24.600] JULIANA: learning your motor skills, learning how to process sensory information. And of course Noonian was never satisfied.
+[00:05:24.600 --> 00:05:29.480] JULIANA: He kept tinkering, trying to make you as human as possible.
+[00:05:31.000 --> 00:05:33.000] DATA: So you wiped my memory processors
+[00:05:33.560 --> 00:05:35.017] DATA: after this childhood.
+[00:05:35.017 --> 00:05:40.360] JULIANA: Then we deactivated you and programmed you with the colonists' logs.
+[00:05:42.120 --> 00:05:45.720] JULIANA: We had planned to reactivate you, but we never got the chance.
+[00:05:45.720 --> 00:05:47.560] JULIANA: That's when the Crystalline Entity attacked.
+[00:05:48.200 --> 00:05:49.240] JULIANA: We had to leave quickly.
+[00:05:51.160 --> 00:05:55.480] JULIANA: We wanted to take you with us, but there was only room for two in the escape pod.
+[00:05:57.240 --> 00:05:57.560] DATA: Doctor,
+[00:05:59.080 --> 00:06:01.080] DATA: I have scanned the journals of the colonists.
+[00:06:01.720 --> 00:06:04.200] DATA: There is only one Juliana mentioned in them.
+[00:06:05.080 --> 00:06:06.440] DATA: Her last name was O'Donnell.
+[00:06:07.615 --> 00:06:08.095] JULIANA: That's me.
+[00:06:09.935 --> 00:06:12.015] DATA: But there was no mention that my father was married to you.
+[00:06:13.055 --> 00:06:14.015] JULIANA: Because of my mother.
+[00:06:15.855 --> 00:06:20.015] JULIANA: She thought that Noonian was an eccentric scientist who was too old for me.
+[00:06:21.055 --> 00:06:24.575] JULIANA: We decided to marry secretly to give her a chance to get used to our being together.
+[00:06:25.295 --> 00:06:27.775] JULIANA: We slipped away to Mavala Four and got married there.
+[00:06:29.535 --> 00:06:33.375] JULIANA: A Klingon and a Corvallan trader were our witnesses.
+[00:06:33.375 --> 00:06:42.735] JULIANA: It wasn't exactly the wedding I'd hoped for. Somehow Noonian had a way of making even the oddest things seem romantic.
+[00:06:44.655 --> 00:06:47.055] DATA: My father did have an unusual way of looking at things.
+[00:06:47.855 --> 00:06:48.815] JULIANA: How would you know that?
+[00:06:49.295 --> 00:06:51.615] DATA: I encountered him once in the Terlina system.
+[00:06:52.255 --> 00:06:54.815] JULIANA: That's where we went to after we left the outpost.
+[00:06:55.215 --> 00:06:57.055] JULIANA: I had no idea that you'd even met him.
+[00:06:58.095 --> 00:06:59.375] DATA: It was shortly before his death.
+[00:07:03.615 --> 00:07:04.175] JULIANA: He's dead?
+[00:07:06.335 --> 00:07:06.735] DATA: Yes.
+[00:07:06.735 --> 00:07:07.535] JULIANA: I
+[00:07:09.775 --> 00:07:11.615] JULIANA: had no idea
+[00:07:11.935 --> 00:07:13.615] JULIANA: it would hit me this hard.
+[00:07:13.615 --> 00:07:17.215] JULIANA: We didn't exactly part on the best of terms.
+[00:07:18.335 --> 00:07:18.895] DATA: What do you mean?
+[00:07:22.975 --> 00:07:26.415] JULIANA: I realised he loved his work as much as he loved me.
+[00:07:28.495 --> 00:07:28.895] JULIANA: Maybe more.
+[00:07:29.055 --> 00:07:35.375] JULIANA: There we were, stuck on this planet in the middle of the jungle with no one else to talk to.
+[00:07:37.215 --> 00:07:37.455] JULIANA: No
+[00:07:39.535 --> 00:07:40.255] JULIANA: life.
+[00:07:45.064 --> 00:07:46.024] JULIANA: It just wasn't enough.
+[00:07:48.504 --> 00:07:49.224] JULIANA: That's why I left.
+[00:07:51.944 --> 00:07:53.944] JULIANA: That was all a very, very long time ago.
+[00:07:55.784 --> 00:08:01.704] JULIANA: The important thing is that we're here now together. And I do want to get to know you.
+[00:08:04.184 --> 00:08:09.224] DATA: This has been an interesting encounter, and an altogether unexpected one.
+[00:08:10.344 --> 00:08:12.984] DATA: I would like to corroborate your story before we proceed further.
+[00:08:14.024 --> 00:08:14.824] DATA: Excuse me, Doctor.
+[00:08:25.784 --> 00:08:28.184] LAFORGE: Data, I'm almost finished reconfiguring the phaser banks.
+[00:08:28.184 --> 00:08:29.864] LAFORGE: We should be able to start drilling in about an hour.
+[00:08:30.424 --> 00:08:31.464] DATA: Inform me when you are ready.
+[00:08:33.544 --> 00:08:34.504] LAFORGE: What is it you're doing over there?
+[00:08:35.304 --> 00:08:38.264] DATA: I am attempting to ascertain whether Doctor Tainer's story is true.
+[00:08:38.584 --> 00:08:40.264] LAFORGE: Don't you believe her?
+[00:08:41.304 --> 00:08:42.424] DATA: I neither believe nor doubt.
+[00:08:42.984 --> 00:08:44.824] DATA: I am simply attempting to verify her assertions.
+[00:08:44.974 --> 00:08:45.574] LAFORGE: Well,
+[00:08:47.544 --> 00:08:48.504] LAFORGE: what have you turned up so far?
+[00:08:49.304 --> 00:08:53.144] DATA: The Registrar's Office on Mavala Four cannot confirm whether Doctor Soong was married there.
+[00:08:53.864 --> 00:08:56.584] DATA: Apparently many of the documents were lost when the government was overthrown.
+[00:08:57.384 --> 00:08:59.064] LAFORGE: What's that you're looking at?
+[00:08:59.064 --> 00:09:03.544] DATA: I am checking passenger manifests to see if they went to Mavala during the period in question.
+[00:09:05.864 --> 00:09:07.784] DATA: O'Donnell, Juliana.
+[00:09:09.464 --> 00:09:09.944] DATA: Soong,
+[00:09:10.670 --> 00:09:11.150] DATA: Noonian.
+[00:09:12.430 --> 00:09:18.030] DATA: They were both passengers on a transport which travelled from Omicron Theta to Mavala and returned four days later.
+[00:09:18.830 --> 00:09:20.030] LAFORGE: That sure fits with her story.
+[00:09:22.190 --> 00:09:26.190] DATA: Still, the fact that they went to Mavala does not prove they were married there.
+[00:09:29.470 --> 00:09:32.830] LAFORGE: You know, Data, it almost seems to me like you're trying to prove that Doctor
+[00:09:32.830 --> 00:09:33.870] LAFORGE: Tainer wasn't telling the truth.
+[00:09:35.070 --> 00:09:35.630] DATA: Not at all.
+[00:09:36.590 --> 00:09:40.990] DATA: I am merely unable to reconcile her story with the fact that my father never mentioned her to me.
+[00:09:41.390 --> 00:09:41.790] LAFORGE: Well, she did leave him.
+[00:09:41.790 --> 00:09:42.030] LAFORGE: Maybe
+[00:09:44.190 --> 00:09:44.990] LAFORGE: she broke his heart.
+[00:09:45.790 --> 00:09:47.070] LAFORGE: Maybe he just didn't want to talk about her.
+[00:09:48.270 --> 00:09:57.870] LAFORGE: Let me ask you this. Doctor Soong created an emotion chip. Didn't Lore tell you that chip also contained memories, memories Soong wanted you to have?
+[00:09:58.830 --> 00:09:59.230] DATA: Yes.
+[00:10:00.590 --> 00:10:04.510] DATA: It is possible that those are memories of my childhood. And of Mrs
+[00:10:04.510 --> 00:10:04.830] DATA: Soong.
+[00:10:05.230 --> 00:10:07.710] LAFORGE: When you think about it, why would she want to lie?
+[00:10:08.430 --> 00:10:10.510] LAFORGE: Why would anybody want to pretend to be your mother?
+[00:10:12.270 --> 00:10:14.190] DATA: I can think of no motive for such a pretense.
+[00:10:15.470 --> 00:10:19.070] LAFORGE: And I can understand that this might all be a little disconcerting for you, Data.
+[00:10:19.790 --> 00:10:24.430] LAFORGE: It came out of the blue, and it doesn't fit into your logical processors.
+[00:10:24.830 --> 00:10:25.310] DATA: That is true.
+[00:10:25.710 --> 00:10:27.150] LAFORGE: But that's life, Data.
+[00:10:27.550 --> 00:10:35.150] LAFORGE: Part of being human is learning how to deal with the unexpected. To risk new experiences even when they don't fit into your preconceptions.
+[00:10:35.840 --> 00:10:42.640] DATA: I admit I am finding it difficult to accept the possibility of a past about which I know nothing.
+[00:10:44.560 --> 00:10:48.560] DATA: But it is also true that I am curious to learn more about it.
+[00:10:57.760 --> 00:10:57.760] JULIANA: Data?
+[00:11:06.800 --> 00:11:08.000] DATA: I would like to get to know you better,
+[00:11:11.040 --> 00:11:11.040] DATA: Mother.
+[00:11:18.960 --> 00:11:23.280] JULIANA: I wanted to make you female, but your father insisted on a son.
+[00:11:23.680 --> 00:11:28.080] JULIANA: We argued about it endlessly, right up until we were ready to assemble you.
+[00:11:28.480 --> 00:11:29.280] DATA: How did you decide?
+[00:11:30.320 --> 00:11:34.960] JULIANA: Noonian walked in with your head in his hand and, innocent as you please, said it was up to me.
+[00:11:36.000 --> 00:11:37.840] JULIANA: He knew perfectly well what he was doing.
+[00:11:38.000 --> 00:11:40.800] JULIANA: Once again he had made it in his own image.
+[00:11:41.120 --> 00:11:42.080] JULIANA: What could I possibly say?
+[00:11:44.720 --> 00:11:47.040] JULIANA: Deanna Troi, is that who you're going to visit?
+[00:11:47.440 --> 00:11:47.840] DATA: Yes.
+[00:11:48.880 --> 00:11:51.623] JULIANA: Your father would be so pleased.
+[00:11:51.623 --> 00:11:52.080] DATA: Pleased?
+[00:11:52.960 --> 00:11:56.080] JULIANA: He was worried that the sexuality programme he designed for you wouldn't work.
+[00:11:59.040 --> 00:12:02.080] DATA: You misunderstand. Counsellor Troi is a therapist.
+[00:12:02.230 --> 00:12:02.830] JULIANA: Goodnight.
+[00:12:11.994 --> 00:12:17.354] DATA: We will be in position over the drilling site in three minutes twenty nine seconds.
+[00:12:19.834 --> 00:12:24.954] DATA: These scans indicate that the magma pockets where we plan to set up the infusion units are somewhat unstable.
+[00:12:25.034 --> 00:12:29.274] JULIANA: I'm going to monitor the density of the rock layers and adjust the strength of the particle beam as we go.
+[00:12:29.754 --> 00:12:33.114] JULIANA: That should minimise the seismic stress that we generate while we're drilling.
+[00:12:33.674 --> 00:12:37.674] LAFORGE: Data, I reconfigured the phasers to create the most highly focused particle beam possible.
+[00:12:37.914 --> 00:12:38.554] DATA: Thank you, Geordi.
+[00:12:41.754 --> 00:12:43.514] JULIANA: I'm just so pleased you've got good manners.
+[00:12:43.834 --> 00:12:46.314] JULIANA: It wasn't easy to strike the right balance with your programming.
+[00:12:47.194 --> 00:12:51.594] JULIANA: At first you couldn't have cared less about the social niceties like please and thank you.
+[00:12:52.714 --> 00:12:53.674] JULIANA: You were downright rude,
+[00:12:53.674 --> 00:12:54.840] JULIANA: in fact.
+[00:12:54.840 --> 00:12:57.754] LAFORGE: Data? That's hard to picture.
+[00:12:58.474 --> 00:13:01.674] JULIANA: That was nothing to the problems we encountered.
+[00:13:04.074 --> 00:13:04.714] JULIANA: Never mind.
+[00:13:05.434 --> 00:13:06.554] JULIANA: I don't want to embarrass you.
+[00:13:07.274 --> 00:13:08.714] DATA: I am incapable of embarrassment.
+[00:13:08.954 --> 00:13:09.514] DATA: Please continue.
+[00:13:12.394 --> 00:13:19.034] JULIANA: Well, the one thing we couldn't anticipate was that you didn't seem to mind about being naked.
+[00:13:20.874 --> 00:13:25.514] JULIANA: Some of the colonists objected to having an anatomically correct android running around without any clothes on.
+[00:13:27.754 --> 00:13:33.354] JULIANA: We asked you to dress, but you didn't feel it was necessary because you didn't suffer from the elements.
+[00:13:35.070 --> 00:13:39.630] JULIANA: We actually had to write a modesty sub-routine to get you to keep your clothes on.
+[00:13:40.510 --> 00:13:41.310] RIKER: Bridge to Engineering.
+[00:13:42.030 --> 00:13:42.910] LAFORGE: La Forge here.
+[00:13:42.990 --> 00:13:43.630] LAFORGE: Go ahead, Commander.
+[00:13:44.110 --> 00:13:46.190] RIKER: We've established a synchronous orbit over the drilling site.
+[00:13:48.110 --> 00:13:49.630] LAFORGE: Phaser modifications are online, sir.
+[00:13:50.190 --> 00:13:54.670] DATA: My calculations indicate The first phaser blast will be approximately nineteen seconds in duration.
+[00:13:55.070 --> 00:13:55.550] RIKER: Acknowledged.
+[00:13:57.150 --> 00:13:59.230] PRAN: Someone's checked his calculations, of course.
+[00:14:00.750 --> 00:14:01.550] RIKER: No, but I'm sure Mister
+[00:14:01.550 --> 00:14:02.510] RIKER: Data knows what he's doing.
+[00:14:02.910 --> 00:14:04.910] PRAN: Even so, he is a machine.
+[00:14:05.790 --> 00:14:07.150] PRAN: Someone should check up on him.
+[00:14:07.710 --> 00:14:09.070] RIKER: I have complete confidence in Mister
+[00:14:09.070 --> 00:14:10.670] RIKER: Data's ability to check up on himself.
+[00:14:12.190 --> 00:14:12.910] RIKER: Mister Worf?
+[00:14:12.910 --> 00:14:14.350] WORF: Phasers locked on target.
+[00:14:14.670 --> 00:14:15.230] RIKER: Fire when ready.
+[00:14:22.030 --> 00:14:24.110] DATA: We are within two kilometres of the magma pocket.
+[00:14:25.230 --> 00:14:26.510] JULIANA: Another five seconds should do
+[00:14:28.510 --> 00:14:28.670] JULIANA: it.
+[00:14:29.950 --> 00:14:30.830] JULIANA: We've broken through.
+[00:14:31.790 --> 00:14:32.510] WORF: Terminating the beam.
+[00:14:33.150 --> 00:14:36.350] JULIANA: The pocket seems stable.
+[00:14:37.070 --> 00:14:40.110] DATA: I detect no increase in the stress levels of the surrounding magma.
+[00:14:40.350 --> 00:14:40.910] RIKER: Good work, Data.
+[00:14:40.910 --> 00:14:43.070] RIKER: I don't think we could have gotten it any cleaner.
+[00:14:43.470 --> 00:14:44.750] JULIANA: We have Data to thank for that.
+[00:14:44.750 --> 00:14:46.030] JULIANA: I couldn't have done it without him.
+[00:14:46.430 --> 00:14:47.470] JULIANA: His figures were perfect.
+[00:14:47.470 --> 00:14:47.470] DATA: The
+[00:14:48.990 --> 00:14:53.790] DATA: drilling process has raised the temperature in the magma pockets by almost three hundred degrees Celsius.
+[00:14:54.350 --> 00:14:56.670] DATA: It will be several hours before it cools enough for us to enter.
+[00:15:02.590 --> 00:15:04.030] JULIANA: Data, do you have any plans right now?
+[00:15:05.070 --> 00:15:05.550] DATA: I do not.
+[00:15:06.350 --> 00:15:06.990] JULIANA: Maybe we should
+[00:15:07.024 --> 00:15:08.224] JULIANA: spend a little time together?
+[00:15:09.264 --> 00:15:10.864] JULIANA: I'd love to see your quarters.
+[00:15:50.704 --> 00:15:51.024] DATA: Thank you.
+[00:15:51.584 --> 00:15:53.984] DATA: I will be playing this piece at a recital tomorrow evening.
+[00:15:54.544 --> 00:15:55.584] JULIANA: That was beautiful.
+[00:15:58.144 --> 00:16:02.464] DATA: I have been told that my playing is technically flawless, but no one has described it as beautiful.
+[00:16:02.944 --> 00:16:04.784] JULIANA: It was, really.
+[00:16:04.784 --> 00:16:04.784] DATA: Are
+[00:16:06.464 --> 00:16:08.864] DATA: you certain you are not saying this because you are my mother?
+[00:16:11.984 --> 00:16:16.304] DATA: I have noticed that parents tend to exaggerate when it comes to their children's accomplishments.
+[00:16:18.544 --> 00:16:21.504] JULIANA: I suppose there's a certain amount of vanity involved,
+[00:16:22.144 --> 00:16:25.584] JULIANA: considering that giving you a creative aspect was my idea.
+[00:16:26.544 --> 00:16:28.624] JULIANA: Your father didn't really see the point.
+[00:16:29.424 --> 00:16:34.544] JULIANA: He thought that since you didn't have emotions, there would be no real need for you to express yourself.
+[00:16:35.744 --> 00:16:39.344] JULIANA: Somehow I had the feeling the opposite would be true.
+[00:16:41.784 --> 00:16:51.944] DATA: I do not know for certain, but I believe it is during my creative endeavours that I come closest to experiencing what it must be like to be human.
+[00:16:53.224 --> 00:16:53.464] JULIANA: Well,
+[00:16:55.144 --> 00:16:56.424] JULIANA: I'm glad I insisted.
+[00:16:57.464 --> 00:16:57.784] DATA: As am
+[00:16:59.464 --> 00:17:01.464] DATA: I.
+[00:17:02.344 --> 00:17:02.744] JULIANA: Data,
+[00:17:04.504 --> 00:17:06.584] JULIANA: I'm very familiar with that Handel piece.
+[00:17:06.584 --> 00:17:09.704] JULIANA: How would you feel about my playing the viola part tomorrow?
+[00:17:10.744 --> 00:17:11.864] DATA: I would like that very much.
+[00:17:13.224 --> 00:17:14.264] JULIANA: I'll have to practice.
+[00:17:14.664 --> 00:17:15.864] JULIANA: You don't have a viola?
+[00:17:16.664 --> 00:17:18.024] DATA: I could replicate one for you.
+[00:17:21.464 --> 00:17:23.864] DATA: Computer, please replicate one viola.
+[00:17:27.864 --> 00:17:28.904] JULIANA: Did you paint these?
+[00:17:29.704 --> 00:17:33.544] DATA: Yes. I am attempting to master all known styles of painting.
+[00:17:36.584 --> 00:17:39.784] DATA: This one is in the style of the early French impressionists.
+[00:17:39.864 --> 00:17:40.984] JULIANA: It's very good.
+[00:17:42.904 --> 00:17:43.624] JULIANA: Who's this?
+[00:17:45.704 --> 00:17:47.624] DATA: That is Lal, my daughter.
+[00:17:48.904 --> 00:17:49.704] JULIANA: Your daughter?
+[00:17:50.584 --> 00:17:53.144] DATA: I created her, using myself as a model.
+[00:17:55.384 --> 00:17:56.264] JULIANA: Where is she now?
+[00:17:58.824 --> 00:18:01.864] DATA: The positronic matrix I designed for her was unstable.
+[00:18:02.664 --> 00:18:04.104] DATA: She only lived a short time.
+[00:18:06.184 --> 00:18:06.744] JULIANA: I see.
+[00:18:08.824 --> 00:18:09.464] DATA: In a sense,
+[00:18:10.301 --> 00:18:11.261] DATA: you were her grandmother.
+[00:18:16.861 --> 00:18:17.901] DATA: Would you like to practice now?
+[00:18:19.661 --> 00:18:20.701] JULIANA: Yes. Yes, of course.
+[00:18:48.621 --> 00:18:50.221] DATA: The acoustics in Ten Forward are most favourable.
+[00:18:50.941 --> 00:18:52.621] JULIANA: Yes, yes, very nice.
+[00:18:54.701 --> 00:18:56.461] JULIANA: Data, may I ask you something?
+[00:18:57.101 --> 00:18:57.661] DATA: Of course.
+[00:18:59.101 --> 00:19:01.341] JULIANA: Do you think you'll ever try to create an android again?
+[00:19:03.181 --> 00:19:03.821] DATA: Perhaps.
+[00:19:05.101 --> 00:19:07.341] DATA: I created Lal because I wished to procreate.
+[00:19:08.221 --> 00:19:11.341] DATA: Despite what happened to her, I still have that wish.
+[00:19:12.941 --> 00:19:15.261] JULIANA: How do you know the same thing won't happen?
+[00:19:16.301 --> 00:19:19.261] JULIANA: Creating a stable positronic matrix is very tricky.
+[00:19:19.981 --> 00:19:22.381] JULIANA: Your father lost several prototypes before Lore.
+[00:19:24.141 --> 00:19:26.781] DATA: I was not aware he created other androids before my brother.
+[00:19:30.541 --> 00:19:31.421] JULIANA: There were three of them.
+[00:19:33.021 --> 00:19:34.541] JULIANA: They were like children to us.
+[00:19:35.901 --> 00:19:37.101] JULIANA: Losing them was very painful.
+[00:19:39.563 --> 00:19:42.363] JULIANA: When Noonian decided to try again, I was very much against it.
+[00:19:42.523 --> 00:19:47.403] JULIANA: I didn't think we had the right to bring a life into the world with so little chance of surviving.
+[00:19:49.963 --> 00:19:53.883] JULIANA: But your Father was sure that he'd figured out what went wrong,
+[00:19:55.083 --> 00:19:57.643] JULIANA: insisted he could make a stable matrix, and he did.
+[00:20:01.163 --> 00:20:03.083] JULIANA: But Lore was cruel.
+[00:20:05.723 --> 00:20:06.283] JULIANA: Evil.
+[00:20:08.043 --> 00:20:10.443] JULIANA: Eventually we had no choice, we had to dismantle him.
+[00:20:12.683 --> 00:20:16.923] JULIANA: Your father decided to build yet another android, one who didn't have emotions.
+[00:20:17.003 --> 00:20:20.923] JULIANA: I couldn't believe he would want to try again.
+[00:20:22.763 --> 00:20:23.803] DATA: I am that android.
+[00:20:26.843 --> 00:20:28.763] DATA: Are you saying you were against my creation?
+[00:20:30.843 --> 00:20:33.563] JULIANA: Initially I was. But I was wrong,
+[00:20:33.563 --> 00:20:34.523] JULIANA: I know that now.
+[00:20:37.403 --> 00:20:39.643] JULIANA: I've followed your progress for years.
+[00:20:41.643 --> 00:20:43.883] JULIANA: I'm very proud of what you've accomplished.
+[00:20:45.163 --> 00:20:47.643] DATA: Then why did you never attempt to contact me?
+[00:20:50.043 --> 00:20:52.203] JULIANA: Because I felt guilty about something I'd done.
+[00:20:55.243 --> 00:20:59.083] DATA: Perhaps if you told me what has made you feel this way, it may alleviated the guilt.
+[00:21:01.963 --> 00:21:02.763] JULIANA: I lied.
+[00:21:04.641 --> 00:21:08.881] JULIANA: When I said there was no room for you in the escape pod that we took from Omicron.
+[00:21:10.561 --> 00:21:11.521] JULIANA: There was.
+[00:21:13.041 --> 00:21:16.321] JULIANA: I didn't want to bring you with us.
+[00:21:17.841 --> 00:21:17.841] JULIANA: I
+[00:21:20.321 --> 00:21:23.921] JULIANA: was afraid if we reactivated you, you'd turn out like Lore.
+[00:21:30.161 --> 00:21:32.961] JULIANA: I made Noonian leave you behind.
+[00:21:50.561 --> 00:21:54.481] DATA: We are within four kilometres of the magma pocket.
+[00:21:56.401 --> 00:21:58.641] LAFORGE: We're picking up feedback pulses along the particle beam.
+[00:21:58.961 --> 00:22:00.721] JULIANA: We must have hit a pocket of magnesite ore.
+[00:22:00.721 --> 00:22:03.121] JULIANA: I'll try to adjust the phaser harmonics to compensate.
+[00:22:03.841 --> 00:22:06.321] RIKER: Data, we're going to have to terminate the beam if this keeps up.
+[00:22:06.561 --> 00:22:09.361] DATA: If we do, we will have to begin a new shaft at a suitable location.
+[00:22:09.601 --> 00:22:11.041] JULIANA: There is no other suitable location.
+[00:22:11.361 --> 00:22:12.561] JULIANA: Just give me a few more seconds.
+[00:22:14.881 --> 00:22:15.281] LAFORGE: Doctor,
+[00:22:15.841 --> 00:22:17.441] LAFORGE: it's going to take longer than that to match the
+[00:22:20.241 --> 00:22:20.401] LAFORGE: You did
+[00:22:21.441 --> 00:22:21.617] LAFORGE: it.
+[00:22:21.617 --> 00:22:23.201] JULIANA: It was just luck I hit the right frequency.
+[00:22:24.001 --> 00:22:27.361] JULIANA: All right, we're less than two kilometres away from the target site.
+[00:22:27.521 --> 00:22:29.361] JULIANA: Stand by to terminate the beam.
+[00:22:30.961 --> 00:22:31.601] LAFORGE: We've broken through.
+[00:22:32.081 --> 00:22:32.561] JULIANA: Now.
+[00:22:34.004 --> 00:22:37.504] DATA: I am detecting no signs of Instability.
+[00:22:37.504 --> 00:22:38.004] PRAN: Commander,
+[00:22:38.004 --> 00:22:43.044] PRAN: may I suggest we set up the infusion unit in the first magma pocket and give this one a chance to cool.
+[00:22:44.404 --> 00:22:47.204] RIKER: Data Doctor Tainer, we'll meet you in transporter room two.
+[00:22:47.684 --> 00:22:48.244] DATA: Acknowledged.
+[00:22:56.644 --> 00:22:58.644] DATA: I
+[00:23:01.364 --> 00:23:03.364] DATA: have initialised the plasma induction coils.
+[00:23:04.324 --> 00:23:05.924] JULIANA: I'll need another minute to align the diverter.
+[00:23:15.924 --> 00:23:22.004] PRAN: There are signs of stress in the surrounding magma, but the site should remain stable until we finish the plasma infusion.
+[00:23:22.724 --> 00:23:23.764] JULIANA: Good, we're almost done here.
+[00:23:25.444 --> 00:23:25.764] PRAN: Data,
+[00:23:28.084 --> 00:23:30.484] PRAN: Juliana told me what she said to you last night.
+[00:23:31.604 --> 00:23:32.564] PRAN: She's been very upset.
+[00:23:33.924 --> 00:23:35.775] PRAN: I don't blame you for being angry with her
+[00:23:35.775 --> 00:23:36.804] DATA: I am incapable of anger.
+[00:23:37.444 --> 00:23:38.404] JULIANA: It's all right, Pran.
+[00:23:41.124 --> 00:23:47.924] JULIANA: I know what I said to you must have been hard to hear, but I hope you understand my reasons.
+[00:23:50.324 --> 00:23:51.284] DATA: I am not certain I do.
+[00:23:52.324 --> 00:23:53.684] DATA: Perhaps you could clarify them for me?
+[00:23:55.924 --> 00:23:56.564] JULIANA: Well, I'll try.
+[00:23:56.564 --> 00:23:57.284] JULIANA: What do you want to know?
+[00:23:58.484 --> 00:24:02.804] DATA: If I had been your biological offspring, would you have left me on Omicron Theta?
+[00:24:02.804 --> 00:24:02.884] JULIANA: Oh,
+[00:24:05.684 --> 00:24:06.244] JULIANA: Data,
+[00:24:07.364 --> 00:24:08.404] JULIANA: how can I answer that?
+[00:24:10.083 --> 00:24:14.003] DATA: Doctor Tainer, I get the impression you are trying to spare my feelings.
+[00:24:14.803 --> 00:24:16.323] DATA: I assure you that is not necessary.
+[00:24:16.803 --> 00:24:19.603] JULIANA: I just don't want you to misunderstand my answer.
+[00:24:24.243 --> 00:24:26.963] JULIANA: No, I wouldn't have left you behind if you'd been my biological child.
+[00:24:30.083 --> 00:24:33.683] DATA: Is that because you place more value on biological life than on artificial life?
+[00:24:34.243 --> 00:24:35.763] JULIANA: Absolutely not.
+[00:24:36.723 --> 00:24:41.923] JULIANA: I cherished every android your father and I created as if it were my child. Even Lore.
+[00:24:42.723 --> 00:24:48.483] JULIANA: Despite the fact that he turned on us, despite the dreadful things he did, dismantling him was the most difficult thing I ever had to do.
+[00:24:48.643 --> 00:24:51.683] JULIANA: I was afraid that if you turned out like him I would have to dismantle you, too.
+[00:24:56.963 --> 00:24:58.403] JULIANA: And I couldn't bear to do that.
+[00:25:01.923 --> 00:25:04.243] JULIANA: I'm not trying to justify leaving you behind.
+[00:25:06.323 --> 00:25:07.443] JULIANA: I'm just sorry I did.
+[00:25:07.923 --> 00:25:12.403] JULIANA: I hope you believe me.
+[00:25:12.403 --> 00:25:12.563] DATA: I do.
+[00:25:13.843 --> 00:25:14.883] DATA: Thank you for making it clear to
+[00:25:19.123 --> 00:25:19.363] DATA: me.
+[00:25:19.513 --> 00:25:20.513] AUDIENCE: Bravo, bravo.
+[00:26:07.000 --> 00:26:17.000] [applause]
+[00:26:17.596 --> 00:26:19.836] CRUSHER: Data, why do you want to look at Doctor Tainer's medical records?
+[00:26:19.836 --> 00:26:20.876] CRUSHER: Is something wrong with her?
+[00:26:21.436 --> 00:26:24.716] DATA: I was hoping you would be able to determine that from her transporter trace pattern.
+[00:26:24.876 --> 00:26:29.996] CRUSHER: Well, probably I could, but ordinarily I don't check somebody's medical status without a good reason.
+[00:26:30.156 --> 00:26:34.156] DATA: Doctor, I would ask that you not require me to be more specific.
+[00:26:34.876 --> 00:26:36.956] DATA: I assure you, I have a good reason for asking.
+[00:26:38.396 --> 00:26:39.036] CRUSHER: All right, Data.
+[00:26:41.916 --> 00:26:43.916] CRUSHER: At
+[00:26:49.276 --> 00:26:55.516] CRUSHER: first glance I see nothing wrong with her. Except for a mild case of hypertension, which is normal for a woman her age.
+[00:26:56.316 --> 00:26:56.716] DATA: I see.
+[00:26:59.036 --> 00:27:00.636] CRUSHER: Maybe you should tell me what her symptoms are.
+[00:27:01.836 --> 00:27:03.596] DATA: She has not complained of any discomfort.
+[00:27:04.076 --> 00:27:05.996] CRUSHER: Then why do you want to see her medical records?
+[00:27:05.996 --> 00:27:08.556] DATA: Because I have reason to believe
+[00:27:09.037 --> 00:27:10.557] DATA: she is not who she claims to be.
+[00:27:11.117 --> 00:27:11.757] RIKER: Bridge to Data.
+[00:27:12.557 --> 00:27:13.117] DATA: Go ahead, sir.
+[00:27:13.677 --> 00:27:15.677] RIKER: There's been a cave-in in one of the magma pockets.
+[00:27:15.837 --> 00:27:16.957] RIKER: You're needed in transporter room two.
+[00:27:17.677 --> 00:27:18.237] DATA: On my way.
+[00:27:18.637 --> 00:27:19.357] DATA: Excuse me, Doctor.
+[00:27:26.717 --> 00:27:27.277] JULIANA: What happened?
+[00:27:28.157 --> 00:27:31.837] PRAN: We were running a final check on the infusion units when a part of the wall gave way.
+[00:27:32.557 --> 00:27:35.677] LAFORGE: It looks like the area has stabilised, but seismic stress is building up.
+[00:27:36.157 --> 00:27:37.517] LAFORGE: Eventually, the pocket will collapse.
+[00:27:38.077 --> 00:27:38.637] RIKER: How long, Geordi?
+[00:27:39.277 --> 00:27:40.397] LAFORGE: It's tough to tell, Commander.
+[00:27:41.517 --> 00:27:42.557] LAFORGE: Twelve hours at most.
+[00:27:43.597 --> 00:27:46.877] JULIANA: Then we must finish configuring the unit and inject the plasma immediately.
+[00:27:47.677 --> 00:27:49.197] RIKER: I'd rather not send anyone back down there.
+[00:27:49.357 --> 00:27:53.197] JULIANA: If you don't do it Now, Commander, it may take months to find another suitable site.
+[00:27:53.757 --> 00:27:55.197] JULIANA: The core may solidify by then.
+[00:27:55.197 --> 00:27:55.597] PRAN: She's right,
+[00:27:55.677 --> 00:27:56.557] PRAN: we have to act now.
+[00:27:57.117 --> 00:27:57.357] RIKER: All right,
+[00:27:57.677 --> 00:27:59.437] RIKER: but I want you in and out of there as quickly as possible.
+[00:27:59.917 --> 00:28:00.477] DATA: Acknowledged.
+[00:28:00.797 --> 00:28:01.277] JULIANA: You're hurt.
+[00:28:01.277 --> 00:28:01.517] JULIANA: I'll
+[00:28:03.437 --> 00:28:05.437] JULIANA: go.
+[00:28:47.624 --> 00:28:48.984] DATA: There will be more seismic activity.
+[00:28:49.464 --> 00:28:50.024] DATA: We must hurry.
+[00:28:50.024 --> 00:28:50.104] DATA: The
+[00:29:19.864 --> 00:29:22.184] DATA: shaft has not been obstructed by the seismic activity.
+[00:29:22.904 --> 00:29:24.984] DATA: It should be possible to trigger the unit from orbit.
+[00:29:25.624 --> 00:29:26.744] JULIANA: The infuser's been damaged.
+[00:29:27.064 --> 00:29:29.064] JULIANA: We're going to have to start the programming sequence all over again.
+[00:29:32.024 --> 00:29:33.784] DATA: Priming the energy-transfer matrix.
+[00:29:33.784 --> 00:29:36.664] JULIANA: Re-initialising the particle stream buffer.
+[00:29:36.984 --> 00:29:37.544] RIKER: Riker to Data.
+[00:29:37.544 --> 00:29:38.104] RIKER: Are you there?
+[00:29:38.744 --> 00:29:39.304] DATA: Go ahead, sir.
+[00:29:40.024 --> 00:29:42.024] RIKER: We're reading an increase in seismic stress levels.
+[00:29:43.064 --> 00:29:43.624] DATA: Understood, sir.
+[00:29:43.624 --> 00:29:45.064] DATA: We will attempt to expedite our work.
+[00:29:47.384 --> 00:29:47.704] JULIANA: There.
+[00:29:48.424 --> 00:29:50.664] JULIANA: Now we just have to re-align the diverter.
+[00:29:50.824 --> 00:29:51.064] RIKER: Data, are
+[00:29:55.384 --> 00:29:55.784] RIKER: you all right?
+[00:29:59.304 --> 00:29:59.624] DATA: Yes, sir.
+[00:30:00.424 --> 00:30:02.264] DATA: We'll be returning to the beam-out point shortly.
+[00:30:05.025 --> 00:30:05.425] JULIANA: That's it.
+[00:30:05.586 --> 00:30:05.905] JULIANA: Let's go.
+[00:30:20.705 --> 00:30:24.546] JULIANA: Can we transport without the pattern enhancers?
+[00:30:25.665 --> 00:30:25.905] DATA: No,
+[00:30:26.385 --> 00:30:27.665] DATA: we are too far below the surface.
+[00:30:28.705 --> 00:30:29.745] JULIANA: How are we going to get down there?
+[00:30:32.465 --> 00:30:34.225] DATA: There are no handholds in the rock face.
+[00:30:36.225 --> 00:30:37.265] DATA: We are going to have to jump.
+[00:30:38.225 --> 00:30:38.225] JULIANA: No,
+[00:30:39.826 --> 00:30:39.826] JULIANA: it's too far!
+[00:30:41.185 --> 00:30:43.586] JULIANA: I won't
+[00:30:47.025 --> 00:30:47.106] JULIANA: make it!
+[00:30:47.665 --> 00:30:47.665] DATA: You will.
+[00:31:04.066 --> 00:31:10.225] LAFORGE: Basically she's a Soong-type android, except everything about her is designed to fool you into thinking she's human.
+[00:31:13.745 --> 00:31:20.945] CRUSHER: She's got tear ducts, sweat glands, even veins and capillaries underneath her skin.
+[00:31:21.905 --> 00:31:23.106] RIKER: Why does the scanner read her as a human?
+[00:31:24.066 --> 00:31:27.905] CRUSHER: Because she has a feedback processor designed to send out a false bio-signal.
+[00:31:28.465 --> 00:31:29.905] LAFORGE: It's part of her aging programme.
+[00:31:30.410 --> 00:31:34.890] LAFORGE: Not only does she age in appearance like Data, her vital signs change too.
+[00:31:36.570 --> 00:31:38.970] CRUSHER: What I can't figure out is why she lost consciousness.
+[00:31:39.770 --> 00:31:41.690] CRUSHER: As far as I can see, everything is fine.
+[00:31:41.690 --> 00:31:42.490] CRUSHER: She should be awake.
+[00:31:43.370 --> 00:31:44.890] DATA: Check her positronic matrix.
+[00:31:45.290 --> 00:31:46.650] DATA: There may be a cascade anomaly.
+[00:31:49.050 --> 00:31:50.330] RIKER: You said you knew she was an android.
+[00:31:50.570 --> 00:31:50.810] RIKER: How?
+[00:31:52.410 --> 00:31:54.490] DATA: The first indication occurred when we were digging.
+[00:31:55.130 --> 00:31:58.650] DATA: I saw her perform complex calculations without the assistance of the computer.
+[00:31:59.130 --> 00:32:00.410] RIKER: That could have just meant she was good at math.
+[00:32:01.370 --> 00:32:03.690] DATA: That is true, but it was enough to get my attention.
+[00:32:04.730 --> 00:32:07.850] DATA: Later, I noticed something odd about the way she blinked her eyes.
+[00:32:08.330 --> 00:32:16.570] DATA: The intervals between blinks were governed by the Fourier system, the same mathematical formula my father used to give my blinking pattern the appearance of randomness.
+[00:32:17.130 --> 00:32:18.810] RIKER: Only you could have noticed something like that.
+[00:32:19.930 --> 00:32:21.450] DATA: Then there was the concert in Ten Forward.
+[00:32:22.090 --> 00:32:22.490] RIKER: What about it?
+[00:32:23.530 --> 00:32:27.610] DATA: We had practised the piece, and I noticed that she played it the same way during the performance.
+[00:32:28.170 --> 00:32:31.130] DATA: Every pitch, every intonation, was exactly the same.
+[00:32:32.090 --> 00:32:34.010] DATA: Only an artificial life form could have done that.
+[00:32:36.010 --> 00:32:37.450] RIKER: Does her husband know anything about this?
+[00:32:37.450 --> 00:32:39.210] DATA: I do not believe so.
+[00:32:39.770 --> 00:32:42.090] DATA: He is on the surface monitoring the plasma infusion.
+[00:32:42.890 --> 00:32:43.850] RIKER: Probably just as well.
+[00:32:44.570 --> 00:32:46.730] LAFORGE: Data, come take a look at this.
+[00:32:51.690 --> 00:32:53.370] DATA: It appears to be an information module.
+[00:32:56.890 --> 00:32:58.410] DATA: With a holographic interface.
+[00:33:18.258 --> 00:33:21.538] SOONG: Whoever you are, you must have found out about Juliana.
+[00:33:22.418 --> 00:33:23.138] DATA: That is correct.
+[00:33:24.018 --> 00:33:27.618] SOONG: I programmed this hologram to answer any questions you might have.
+[00:33:28.978 --> 00:33:30.258] SOONG: I am Noonian Soong.
+[00:33:31.938 --> 00:33:32.738] SOONG: I created her.
+[00:33:33.858 --> 00:33:34.498] DATA: I am Data.
+[00:33:35.938 --> 00:33:36.418] SOONG: Data?
+[00:33:38.738 --> 00:33:41.298] SOONG: I hoped somehow it might be you.
+[00:33:45.058 --> 00:33:52.018] SOONG: I even created a response programme to answer your questions.
+[00:33:52.018 --> 00:33:52.418] SOONG: How are you, boy?
+[00:33:54.258 --> 00:33:54.258] DATA: I
+[00:33:55.778 --> 00:33:55.778] DATA: am
+[00:34:01.938 --> 00:34:01.938] DATA: fine.
+[00:34:04.178 --> 00:34:06.018] SOONG: I'm glad you got the chance to meet your mother.
+[00:34:07.618 --> 00:34:08.418] DATA: You refer to Doctor
+[00:34:08.418 --> 00:34:14.258] DATA: Tainer as my mother, yet the complexity of her design indicates she was created after I was.
+[00:34:15.058 --> 00:34:15.458] SOONG: You're right.
+[00:34:17.058 --> 00:34:17.218] SOONG: But
+[00:34:19.538 --> 00:34:21.858] SOONG: there was a real Juliana
+[00:34:23.858 --> 00:34:25.858] SOONG: O'Donnell.
+[00:34:25.858 --> 00:34:26.818] SOONG: She was my wife.
+[00:34:29.218 --> 00:34:30.418] SOONG: She helped me create you.
+[00:34:30.638 --> 00:34:33.038] DATA: What happened to her?
+[00:34:37.198 --> 00:34:37.598] SOONG: She was
+[00:34:39.438 --> 00:34:39.998] SOONG: injured
+[00:34:41.598 --> 00:34:43.358] SOONG: when the Crystalline Entity attacked.
+[00:34:43.358 --> 00:34:47.118] SOONG: We made it as far as Terlina Three but,
+[00:34:50.318 --> 00:34:51.998] SOONG: she slipped into a coma.
+[00:34:53.998 --> 00:34:58.478] SOONG: When I realised nothing could be done for her, I built an android.
+[00:35:00.878 --> 00:35:01.358] SOONG: I tried to
+[00:35:02.958 --> 00:35:10.398] SOONG: perfect my synaptic scanning technique so that I could transfer Juliana's memories into a positronic matrix.
+[00:35:11.118 --> 00:35:13.758] SOONG: I didn't know if it would work, but I had to try.
+[00:35:13.908 --> 00:35:14.508] SOONG: I
+[00:35:15.358 --> 00:35:19.998] SOONG: couldn't stand the thought of losing the only woman I ever loved.
+[00:35:22.318 --> 00:35:26.878] SOONG: A few days after Juliana died, I activated the android.
+[00:35:30.958 --> 00:35:31.998] SOONG: She looked up at me
+[00:35:34.238 --> 00:35:35.198] SOONG: and smiled.
+[00:35:36.878 --> 00:35:38.078] SOONG: She recognised me.
+[00:35:39.198 --> 00:35:40.078] SOONG: It had worked!
+[00:35:41.358 --> 00:35:46.718] SOONG: Here was a life not two minutes old, and as far as she knew I was her husband.
+[00:35:47.758 --> 00:35:50.318] SOONG: She'd just recovered from a terrible injury.
+[00:35:50.318 --> 00:35:51.838] SOONG: It was incredible.
+[00:35:53.838 --> 00:35:55.198] DATA: Then you never told her the truth?
+[00:35:55.198 --> 00:35:56.398] SOONG: Why?
+[00:35:57.551 --> 00:35:58.911] SOONG: There was no reason for her to know.
+[00:36:00.911 --> 00:36:02.111] SOONG: I wanted her to be happy.
+[00:36:02.261 --> 00:36:02.861] SOONG: I
+[00:36:05.071 --> 00:36:06.111] SOONG: wanted us to be happy.
+[00:36:08.671 --> 00:36:09.231] SOONG: We were.
+[00:36:14.191 --> 00:36:14.911] SOONG: For a while.
+[00:36:15.631 --> 00:36:16.191] DATA: What happened?
+[00:36:20.111 --> 00:36:23.551] SOONG: I made a terrible mistake.
+[00:36:26.671 --> 00:36:27.551] SOONG: I never really
+[00:36:29.791 --> 00:36:32.031] SOONG: let her know how much I loved her.
+[00:36:34.831 --> 00:36:38.751] SOONG: So she left me.
+[00:36:38.751 --> 00:36:40.511] SOONG: The real Juliana probably would have left too, if
+[00:36:41.231 --> 00:36:41.951] SOONG: she'd lived.
+[00:36:42.671 --> 00:36:45.498] DATA: If she recovers and learns that she is an android
+[00:36:45.498 --> 00:36:46.911] SOONG: She doesn't have to know.
+[00:36:48.271 --> 00:36:52.831] SOONG: I designed her to shut down in the event the truth was discovered.
+[00:36:54.031 --> 00:36:59.071] SOONG: When you put that chip back in, she will wake up and remember nothing.
+[00:36:59.231 --> 00:37:02.911] SOONG: All you have to do is make up some excuse about what happened to her.
+[00:37:05.311 --> 00:37:07.551] DATA: Then you do not believe she should know the truth?
+[00:37:08.191 --> 00:37:08.831] SOONG: Truth?
+[00:37:08.981 --> 00:37:09.581] SOONG: The
+[00:37:11.471 --> 00:37:14.911] SOONG: truth is, in every way that matters,
+[00:37:16.831 --> 00:37:18.591] SOONG: she is Juliana
+[00:37:18.591 --> 00:37:18.831] SOONG: Soong.
+[00:37:20.591 --> 00:37:24.271] SOONG: I programmed her to terminate
+[00:37:24.373 --> 00:37:28.373] SOONG: after a long life. Let her live out her days,
+[00:37:30.133 --> 00:37:32.453] SOONG: and die believing she was human.
+[00:37:34.693 --> 00:37:36.133] SOONG: Don't rob her of that, son.
+[00:37:38.693 --> 00:37:39.253] SOONG: Please.
+[00:37:41.253 --> 00:37:48.773] DATA: It seems that I must make a decision. Whether to tell Doctor Tainer that she is an android or to withhold that information from her.
+[00:37:52.133 --> 00:37:53.013] DATA: I do not know what to do.
+[00:37:53.973 --> 00:37:56.293] CRUSHER: Why was Doctor Soong so adamant that she not be told?
+[00:37:56.933 --> 00:38:00.453] DATA: He seemed certain that if she knew, it would preclude the possibility of her being happy.
+[00:38:00.933 --> 00:38:01.813] PICARD: Data, what do you think?
+[00:38:02.613 --> 00:38:03.253] DATA: I am not certain.
+[00:38:04.133 --> 00:38:10.053] DATA: I understand why my father felt as he did, but his wishes are not necessarily paramount.
+[00:38:10.613 --> 00:38:13.173] DATA: I am more concerned with what would be best for her.
+[00:38:13.573 --> 00:38:18.373] CRUSHER: Wouldn't she be better off knowing the truth? Dealing with the reality of her existence?
+[00:38:18.533 --> 00:38:19.413] TROI: I don't think so.
+[00:38:20.613 --> 00:38:22.613] TROI: She's believed she's human all her life.
+[00:38:23.173 --> 00:38:25.013] TROI: The truth might be devastating to her.
+[00:38:25.493 --> 00:38:29.813] PICARD: Data, there might come some time in the future when she would find out anyway.
+[00:38:29.973 --> 00:38:31.173] PICARD: Another accident, perhaps.
+[00:38:32.293 --> 00:38:34.933] PICARD: Maybe it would be easier for her if she learned the truth from you.
+[00:38:36.373 --> 00:38:44.053] CRUSHER: I can tell you that if I were in her place, I would rather be told by my son than by some stranger.
+[00:38:47.733 --> 00:38:52.293] DATA: I find I am having difficulty separating what would be best for her
+[00:38:54.613 --> 00:38:55.893] DATA: from what would be best for me.
+[00:38:56.773 --> 00:38:57.253] TROI: What do you mean?
+[00:38:58.077 --> 00:39:01.997] DATA: If she knew she were an android, we would have something to share.
+[00:39:04.157 --> 00:39:05.917] DATA: I would no longer be alone in the universe.
+[00:39:10.877 --> 00:39:12.877] TROI: I know how much that means to you, Data,
+[00:39:14.717 --> 00:39:17.357] TROI: but at the same time, by telling her
+[00:39:19.037 --> 00:39:23.437] TROI: you're robbing her of the one thing you've wanted all your life. To be human.
+[00:39:28.397 --> 00:39:29.277] PICARD: It's a difficult choice.
+[00:39:30.237 --> 00:39:31.597] PICARD: You must do what you think best, Data.
+[00:39:31.837 --> 00:39:34.877] PICARD: But whatever decision you make, we will support it.
+[00:40:00.717 --> 00:40:01.197] JULIANA: Data?
+[00:40:03.517 --> 00:40:04.237] JULIANA: What happened?
+[00:40:04.237 --> 00:40:09.197] JULIANA: The last thing I remember is jumping off a cliff.
+[00:40:11.197 --> 00:40:12.957] DATA: You were knocked unconscious by the fall.
+[00:40:14.877 --> 00:40:18.077] DATA: You broke a bone in your arm, but Doctor Crusher repaired it.
+[00:40:23.997 --> 00:40:24.877] DATA: Everything is fine.
+[00:40:30.363 --> 00:40:31.563] LOG: Captain's log, supplemental.
+[00:40:32.123 --> 00:40:36.043] LOG: The infusion of plasma into the core of Atrea Four has been accomplished.
+[00:40:36.363 --> 00:40:38.923] LOG: The core should remain molten for several hundred years.
+[00:40:38.923 --> 00:40:40.683] JULIANA: When will I see you again?
+[00:40:42.123 --> 00:40:43.963] DATA: Perhaps I can visit Atrea on my next leave.
+[00:40:45.563 --> 00:40:47.163] JULIANA: I would like that very much.
+[00:40:50.763 --> 00:40:55.003] JULIANA: Well, I'd better be going.
+[00:40:55.003 --> 00:40:56.523] DATA: There is something I thought you should know.
+[00:40:57.643 --> 00:40:58.683] DATA: My father told me
+[00:41:02.203 --> 00:41:08.763] DATA: that he had only one great love in his life and that he regretted never telling her how much he cared for her.
+[00:41:10.923 --> 00:41:13.803] DATA: I am certain he was referring to you.
+[00:41:19.883 --> 00:41:23.643] JULIANA: That's nice to know.
+[00:41:24.843 --> 00:41:26.763] JULIANA: On Atrea there is a saying,
+[00:41:28.283 --> 00:41:33.963] JULIANA: that a child born from parents who love each other will have nothing but goodness in his heart.
+[00:41:36.763 --> 00:41:38.363] JULIANA: I guess that explains you.
+[00:42:00.383 --> 00:42:01.583] JULIANA: Take care of yourself, son.
+[00:42:02.783 --> 00:42:04.463] DATA: Goodbye, Mother.
+[00:42:07.023 --> 00:42:07.663] DATA: Energise.
+[00:42:11.000 --> 00:42:30.000] [music]
+[00:42:42.000 --> 00:42:52.000] [music]
+[00:42:54.000 --> 00:43:08.000] [music]

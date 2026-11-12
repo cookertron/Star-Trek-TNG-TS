@@ -1,0 +1,646 @@
+[00:00:08.080 --> 00:00:11.600] WORF: Personal log, stardate 47391.2.
+[00:00:12.080 --> 00:00:15.200] WORF: I am returning from the Bat'leth competition on Forcas Three.
+[00:00:16.000 --> 00:00:17.440] WORF: The conditions were difficult.
+[00:00:17.920 --> 00:00:22.000] WORF: Several contenders were maimed. But I was triumphant.
+[00:00:23.840 --> 00:00:26.240] WORF: I won Champion Standing.
+[00:00:28.560 --> 00:00:31.440] WORF: I am looking forward to resuming my duties aboard the Enterprise.
+[00:00:31.440 --> 00:00:35.200] WORF: However, I am anticipating a troubling situation.
+[00:00:39.760 --> 00:00:41.680] RIKER: It looks like we're going to have to head into to the Argus Array.
+[00:00:42.640 --> 00:00:44.800] RIKER: This is the third time this year it's stopped relaying data.
+[00:00:45.840 --> 00:00:48.720] RIKER: Starfleet's beginning to think it's more than a simple malfunction.
+[00:00:50.160 --> 00:00:52.080] RIKER: I want you to start a long range scan once we get.
+[00:00:54.160 --> 00:00:54.480] RIKER: Lieutenant?
+[00:00:55.600 --> 00:00:56.240] RIKER: Are you listening to me?
+[00:00:56.960 --> 00:00:57.200] WORF: Hmm?
+[00:00:58.000 --> 00:00:58.560] WORF: Yes, sir.
+[00:01:01.360 --> 00:01:03.520] RIKER: You seem awfully tense for a man who just came back from vacation.
+[00:01:05.440 --> 00:01:06.400] WORF: Today is my
+[00:01:08.000 --> 00:01:08.400] WORF: birthday.
+[00:01:12.992 --> 00:01:14.992] RIKER: What's
+[00:01:19.584 --> 00:01:21.584] RIKER: the
+[00:01:24.880 --> 00:01:25.440] RIKER: matter with you?
+[00:01:27.840 --> 00:01:28.240] WORF: Because it
+[00:01:28.630 --> 00:01:29.430] WORF: is my birthday
+[00:01:29.670 --> 00:01:35.654] WORF: I assumed that you or one of the others would try to mount an unexpected social gathering.
+[00:01:35.654 --> 00:01:36.710] RIKER: A surprise party?
+[00:01:37.910 --> 00:01:39.670] RIKER: Mister Worf, I hate surprise parties.
+[00:01:39.670 --> 00:01:40.790] RIKER: I would never do that to you.
+[00:01:42.470 --> 00:01:43.350] WORF: I am sorry, Commander.
+[00:01:43.830 --> 00:01:44.230] RIKER: Settle in.
+[00:01:44.390 --> 00:01:45.030] RIKER: I'll meet you on the Bridge.
+[00:01:45.110 --> 00:01:45.430] WORF: Aye sir.
+[00:01:53.798 --> 00:01:55.798] ALL: Surprise!!
+[00:02:04.166 --> 00:02:06.166] RIKER: I
+[00:02:11.350 --> 00:02:12.310] RIKER: love surprise parties.
+[00:02:15.000 --> 00:02:25.000] [music]
+[00:02:31.000 --> 00:02:44.000] [music]
+[00:02:42.550 --> 00:02:45.350] PICARD: Space, the final frontier.
+[00:02:47.190 --> 00:02:50.070] PICARD: These are the voyages of the Starship Enterprise.
+[00:02:51.190 --> 00:02:54.950] PICARD: Its continuing mission to explore strange new worlds.
+[00:02:55.204 --> 00:02:59.204] PICARD: To seek out new life and new civilizations.
+[00:03:00.804 --> 00:03:03.684] PICARD: To boldly go where no one has gone before.
+[00:03:20.000 --> 00:03:30.000] [music]
+[00:03:32.000 --> 00:03:42.000] [music]
+[00:03:57.684 --> 00:03:59.684] ALL: Cha Worf Toh'gah nah
+[00:04:03.284 --> 00:04:08.564] ALL: lo Pre'tOk. Cha Worf Toh'gah nah lo
+[00:04:08.584 --> 00:04:09.044] ALL: Pre'tOk.
+[00:04:09.194 --> 00:04:11.021] ALL: Cha Worf Toh'gah nah lo Pre'tOk.
+[00:04:11.021 --> 00:04:11.934] ALL: Tu Mak Dagh
+[00:04:12.084 --> 00:04:12.084] ALL: Cha doh Borak!
+[00:04:14.484 --> 00:04:14.484] WORF: That
+[00:04:16.324 --> 00:04:17.444] WORF: was not a Klingon song.
+[00:04:18.004 --> 00:04:19.524] TROI: It wasn't easy to translate.
+[00:04:20.244 --> 00:04:22.404] TROI: There doesn't seem to be a Klingon word for jolly.
+[00:04:23.124 --> 00:04:25.604] CRUSHER: It's traditional for the birthday boy to cut the cake.
+[00:04:28.324 --> 00:04:29.604] RIKER: Captain Picard sends his birthday
+[00:04:29.623 --> 00:04:30.263] RIKER: wishes.
+[00:04:30.343 --> 00:04:31.223] RIKER: He was needed on the Bridge.
+[00:04:42.343 --> 00:04:43.303] DATA: Happy birthday, Worf.
+[00:04:43.303 --> 00:04:44.823] WORF: Thank you.
+[00:04:52.183 --> 00:04:52.503] WORF: Ah.
+[00:04:54.823 --> 00:04:55.303] WORF: A painting.
+[00:04:55.943 --> 00:04:58.183] DATA: Yes. I have entered my Expressionistic phase.
+[00:04:58.823 --> 00:05:01.143] DATA: This is my interpretation of the Battle of HarOS.
+[00:05:02.503 --> 00:05:03.783] WORF: The Battle of HarOS?
+[00:05:04.823 --> 00:05:06.103] TROI: I think it's wonderful.
+[00:05:07.383 --> 00:05:08.743] TROI: And I know just where to put it.
+[00:05:09.383 --> 00:05:09.943] WORF: What are you doing?
+[00:05:11.543 --> 00:05:13.943] TROI: I always thought this room could use a little more colour.
+[00:05:17.303 --> 00:05:17.863] LAFORGE: Nice.
+[00:05:18.263 --> 00:05:19.783] LAFORGE: The Battle of HarOS, right?
+[00:05:22.903 --> 00:05:23.623] LAFORGE: Worf, are you all right?
+[00:05:25.863 --> 00:05:29.463] WORF: Yes, Yes, I think Data's painting is making me dizzy.
+[00:05:29.703 --> 00:05:30.183] CRUSHER: Some cake?
+[00:05:30.903 --> 00:05:32.903] LAFORGE: Thank you, Doctor.
+[00:05:32.903 --> 00:05:35.463] WORF: I thought the cake was chocolate.
+[00:05:35.863 --> 00:05:36.583] TROI: Don't I wish.
+[00:05:37.703 --> 00:05:38.663] TROI: This is from Alexander.
+[00:05:38.663 --> 00:05:40.903] TROI: He gave it me just before he left to visit your parents.
+[00:05:41.943 --> 00:05:42.263] TROI: Thank you.
+[00:05:47.063 --> 00:05:47.543] LAFORGE: What is it, Worf?
+[00:05:49.223 --> 00:05:52.903] WORF: It is a cast of Alexander's forehead. The ridges of a warrior.
+[00:05:53.383 --> 00:05:54.903] TROI: He wished he could have been here when you got back
+[00:05:54.908 --> 00:05:55.548] TROI: from shore leave.
+[00:05:56.508 --> 00:05:57.628] TROI: You should have seen him, Worf.
+[00:05:57.628 --> 00:06:00.828] TROI: He stayed up all night talking about how proud he was of his father.
+[00:06:02.188 --> 00:06:03.788] WORF: Thank you for watching him while I was away.
+[00:06:04.268 --> 00:06:05.148] TROI: Oh, it was my pleasure.
+[00:06:06.668 --> 00:06:08.348] PICARD: So, how old are you, Mister Worf?
+[00:06:09.388 --> 00:06:11.628] WORF: Captain, I was told you could not attend.
+[00:06:12.188 --> 00:06:13.468] PICARD: I wouldn't miss this for the world.
+[00:06:15.148 --> 00:06:15.708] PICARD: How old are you?
+[00:06:16.588 --> 00:06:16.748] WORF: I
+[00:06:18.748 --> 00:06:21.308] WORF: am old enough.
+[00:06:21.628 --> 00:06:22.668] PICARD: Report.
+[00:06:22.748 --> 00:06:22.828] DATA: The
+[00:06:32.348 --> 00:06:34.188] DATA: Array appears to be functioning normally, sir.
+[00:06:34.908 --> 00:06:35.468] RIKER: That can't be right.
+[00:06:36.428 --> 00:06:38.748] RIKER: We were told the Array stopped relaying data six days ago.
+[00:06:38.828 --> 00:06:43.788] DATA: The Array is still transmitting data, sir, but it is no longer sending that information to the Federation.
+[00:06:44.428 --> 00:06:46.908] DATA: It appears someone has redirected its imaging systems.
+[00:06:46.908 --> 00:06:50.108] PICARD: Where is the information being sent now?
+[00:06:50.588 --> 00:06:52.268] DATA: Sector one nine six five eight, sir.
+[00:06:52.988 --> 00:06:57.948] DATA: I am unable to access it's main computer, so it is impossible to determine the exact location.
+[00:06:59.228 --> 00:06:59.788] RIKER: What's in that sector?
+[00:07:00.268 --> 00:07:05.068] WORF: It is uninhabited. But there could be a ship or a subspace relay station receiving the data.
+[00:07:05.788 --> 00:07:09.308] RIKER: Captain. I suggest we beam a repair crew aboard the Array.
+[00:07:09.788 --> 00:07:14.028] RIKER: We can begin downloading their imaging logs, find out what the Array's been observing for the past six days.
+[00:07:14.268 --> 00:07:15.372] PICARD: Make it so.
+[00:07:15.372 --> 00:07:16.108] RIKER: Mister Data?
+[00:07:30.860 --> 00:07:31.740] WORF: Excuse me, Counsellor.
+[00:07:32.220 --> 00:07:32.860] WORF: Do you have a moment?
+[00:07:33.340 --> 00:07:33.900] TROI: Of course.
+[00:07:34.700 --> 00:07:35.820] WORF: I have
+[00:07:39.180 --> 00:07:41.340] WORF: been meaning to speak with you about Alexander.
+[00:07:41.820 --> 00:07:41.980] TROI: Oh?
+[00:07:42.460 --> 00:07:46.460] WORF: It has never been easy for me having Alexander on board.
+[00:07:46.460 --> 00:07:51.740] WORF: I have always tried to be a good father, to give him guidance, but he seems to have his own mind about some things.
+[00:07:52.620 --> 00:07:53.660] TROI: Most children do.
+[00:07:55.260 --> 00:07:57.420] WORF: I could not have come this far without your help.
+[00:07:58.140 --> 00:07:59.340] WORF: Alexander looks up to you.
+[00:08:00.620 --> 00:08:03.340] WORF: At times, I have felt that you are like a mother to him.
+[00:08:03.820 --> 00:08:06.700] TROI: Worf, that's one of the nicest things anyone's ever said to me.
+[00:08:08.460 --> 00:08:13.260] WORF: One time when I thought I was going to die, I asked you to watch over Alexander.
+[00:08:14.540 --> 00:08:19.100] WORF: I was wondering if you might consider formalising that arrangement.
+[00:08:20.060 --> 00:08:23.260] WORF: I want you to be Alexander's Soh-chIm.
+[00:08:24.460 --> 00:08:26.860] TROI: His Soh-chIm?
+[00:08:27.820 --> 00:08:29.580] WORF: You would become his surrogate mother.
+[00:08:29.900 --> 00:08:33.500] WORF: In case anything ever happened to me, you would be responsible for him.
+[00:08:35.260 --> 00:08:36.140] TROI: I don't know what to say.
+[00:08:38.300 --> 00:08:39.420] TROI: It's a great honour.
+[00:08:42.060 --> 00:08:45.020] TROI: So, that would make me your?
+[00:08:46.060 --> 00:08:49.420] WORF: The closest analogy is step-sister.
+[00:08:52.860 --> 00:08:55.180] TROI: That would make my mother your step-mother.
+[00:08:58.991 --> 00:09:00.031] WORF: I had not considered that.
+[00:09:04.671 --> 00:09:06.191] WORF: It is a risk I am willing to take.
+[00:09:08.191 --> 00:09:08.991] TROI: I accept.
+[00:09:09.791 --> 00:09:12.191] DATA: Lieutenant Worf, please report to Engineering.
+[00:09:13.071 --> 00:09:13.791] WORF: I am on my way.
+[00:09:20.831 --> 00:09:22.431] DATA: We have analysed the imaging logs.
+[00:09:23.151 --> 00:09:27.311] DATA: It appears the Array was reprogrammed to observe several Federation sites.
+[00:09:28.031 --> 00:09:34.911] LAFORGE: This is Deep Space Five. Starbase Forty seven. The Iadara Colony and the Utopia Planitia Shipyards.
+[00:09:36.671 --> 00:09:38.591] PICARD: They're responsible for new starship development.
+[00:09:38.831 --> 00:09:42.431] WORF: Someone is using the Array for covert surveillance of the Federation.
+[00:09:42.751 --> 00:09:43.631] DATA: That is our theory.
+[00:09:44.351 --> 00:09:46.991] DATA: We believe unauthorised access was made six days ago.
+[00:09:47.551 --> 00:09:50.431] DATA: The imaging logs from that day show a ship approaching the Array.
+[00:09:51.071 --> 00:09:53.551] WORF: That's a Cardassian ship. Galor Class.
+[00:09:53.791 --> 00:09:56.111] LAFORGE: We're only three light years from Cardassian space.
+[00:09:56.111 --> 00:09:57.551] LAFORGE: They would have easy access to the Array.
+[00:09:57.871 --> 00:10:00.191] PICARD: Mister Worf, start a long range scan of the region.
+[00:10:00.191 --> 00:10:02.351] PICARD: See if there are any Cardassian ships nearby.
+[00:10:02.591 --> 00:10:02.911] WORF: Aye sir.
+[00:10:04.031 --> 00:10:06.991] LAFORGE: Worf, here's a propulsion analysis of the Cardassian ship.
+[00:10:07.151 --> 00:10:09.231] LAFORGE: You might try scanning for its energy configuration.
+[00:10:09.551 --> 00:10:11.151] DATA: Lieutenant, are you all right?
+[00:10:14.751 --> 00:10:15.471] WORF: I feel dizzy.
+[00:10:23.231 --> 00:10:24.191] LAFORGE: Worf, you don't look so good.
+[00:10:24.991 --> 00:10:26.031] LAFORGE: Maybe you ought to go to Sickbay.
+[00:10:27.664 --> 00:10:29.504] WORF: Yes. Yes, perhaps I will.
+[00:10:41.104 --> 00:10:42.944] CRUSHER: Any nausea or blurred vision?
+[00:10:44.864 --> 00:10:45.184] WORF: No.
+[00:10:46.064 --> 00:10:51.264] WORF: However, I did experience some dizziness earlier today at my birthday celebration.
+[00:10:51.984 --> 00:10:54.384] CRUSHER: Sounds like you're having some of the side effects from the concussion.
+[00:10:55.504 --> 00:10:58.704] CRUSHER: I can give you some vertazine for the dizziness but I'd like you to rest.
+[00:10:59.744 --> 00:11:02.384] WORF: Doctor, perhaps you are thinking of another patient.
+[00:11:02.704 --> 00:11:03.744] WORF: I have no concussion.
+[00:11:04.464 --> 00:11:08.784] CRUSHER: Worf, you came in here this morning complaining of ringing in your ears.
+[00:11:09.024 --> 00:11:09.904] CRUSHER: I scanned you.
+[00:11:10.144 --> 00:11:11.184] CRUSHER: You had a concussion.
+[00:11:12.784 --> 00:11:14.064] CRUSHER: You don't remember any of this?
+[00:11:14.864 --> 00:11:15.104] WORF: No.
+[00:11:16.704 --> 00:11:19.264] CRUSHER: Temporary memory loss is common for this kind of injury.
+[00:11:20.544 --> 00:11:23.024] CRUSHER: Do you remember telling me about the Bat'leth tournament?
+[00:11:24.384 --> 00:11:26.864] CRUSHER: You said that one of the competitors hit you over the head.
+[00:11:27.024 --> 00:11:28.384] CRUSHER: That's why you lost the match.
+[00:11:30.064 --> 00:11:31.024] WORF: I won that tournament.
+[00:11:31.984 --> 00:11:33.184] WORF: And I can prove it to you.
+[00:11:34.624 --> 00:11:36.624] CRUSHER: What's
+[00:11:41.664 --> 00:11:43.664] CRUSHER: wrong?
+[00:11:49.344 --> 00:11:50.464] WORF: It says ninth place.
+[00:11:55.798 --> 00:11:57.478] WORF: This is not the same trophy.
+[00:11:58.758 --> 00:12:00.278] WORF: Someone is playing a trick on me.
+[00:12:00.758 --> 00:12:01.958] CRUSHER: Worf, try to stay calm.
+[00:12:02.358 --> 00:12:04.278] CRUSHER: Memory loss can be very disorienting.
+[00:12:05.238 --> 00:12:05.638] WORF: The log.
+[00:12:06.678 --> 00:12:09.638] WORF: I recorded a personal log on my way back to the Enterprise.
+[00:12:12.598 --> 00:12:15.878] WORF: Computer, access personal logs on Shuttlecraft Curie.
+[00:12:16.438 --> 00:12:19.478] WORF: Show my log entry for Stardate 47391.2.
+[00:12:20.678 --> 00:12:23.718] WORF: Personal log, stardate 47391.2.
+[00:12:24.518 --> 00:12:27.478] WORF: I am returning from the Bat'leth competition on Forcas Three.
+[00:12:28.358 --> 00:12:29.878] WORF: The conditions were difficult.
+[00:12:30.278 --> 00:12:31.798] WORF: Several contenders were maimed.
+[00:12:32.598 --> 00:12:36.598] WORF: One of the contenders used an illegal T'gha manoeuvre against me.
+[00:12:37.558 --> 00:12:41.478] WORF: The judges chose to ignore it and I was robbed of my rightful standing.
+[00:12:42.278 --> 00:12:44.678] WORF: I was awarded ninth place.
+[00:12:45.798 --> 00:12:47.958] WORF: I am looking forward to resuming my duties aboard the En
+[00:12:53.398 --> 00:12:54.598] WORF: I do not understand.
+[00:12:56.758 --> 00:13:01.238] CRUSHER: Worf, I'm sure this is very disturbing for you, but don't worry,
+[00:13:01.398 --> 00:13:02.838] CRUSHER: your memories will return.
+[00:13:03.798 --> 00:13:08.278] CRUSHER: The best thing you could do right now is to settle back into your normal routine, but slowly.
+[00:13:12.198 --> 00:13:12.838] WORF: Thank you, Doctor.
+[00:13:14.518 --> 00:13:16.838] CRUSHER: Let me know if you have any more problems with dizziness.
+[00:13:17.318 --> 00:13:18.358] CRUSHER: I'll give you a hypospray.
+[00:13:35.211 --> 00:13:40.011] DATA: Lieutenant, have you completed the metallurgical scan of the Array?
+[00:13:40.011 --> 00:13:40.491] WORF: Sir?
+[00:13:41.131 --> 00:13:42.251] DATA: The metallurgical scan.
+[00:13:42.491 --> 00:13:43.211] DATA: Have you completed it?
+[00:13:44.011 --> 00:13:45.371] WORF: I do not remember you asking me to.
+[00:13:47.611 --> 00:13:47.931] WORF: Captain,
+[00:13:48.811 --> 00:13:51.131] WORF: there is a Cardassian ship approaching. Galor Class.
+[00:13:51.851 --> 00:13:52.651] PICARD: Open a channel.
+[00:13:53.211 --> 00:13:53.611] WORF: On screen.
+[00:13:55.051 --> 00:13:58.091] PICARD: This is Captain Jean-Luc Picard of the Starship Enterprise.
+[00:13:59.051 --> 00:14:00.731] PICARD: You are in Federation territory.
+[00:14:00.971 --> 00:14:02.251] PICARD: Please explain your presence here.
+[00:14:02.651 --> 00:14:05.211] NADOR: We were wondering the same thing about you, Captain.
+[00:14:06.651 --> 00:14:11.451] NADOR: Why would Starfleet's flagship want to venture so close to the Cardassian border?
+[00:14:12.891 --> 00:14:15.531] PICARD: We are repairing one of our subspace telescopes.
+[00:14:16.251 --> 00:14:16.891] NADOR: I see.
+[00:14:18.891 --> 00:14:20.571] NADOR: May we offer our assistance?
+[00:14:20.971 --> 00:14:21.531] PICARD: No, thank you.
+[00:14:21.851 --> 00:14:22.891] PICARD: Everything is under control.
+[00:14:23.371 --> 00:14:29.771] NADOR: If you don't mind my asking, what exactly is this telescope of yours designed to do?
+[00:14:30.411 --> 00:14:32.571] PICARD: It's a long range subspace Array.
+[00:14:33.291 --> 00:14:36.091] PICARD: We use it for gathering data on astronomical phenomena.
+[00:14:36.571 --> 00:14:41.371] NADOR: I'm certain it would never be used to observe a neighbouring species.
+[00:14:41.851 --> 00:14:42.571] PICARD: Certainly not.
+[00:14:43.211 --> 00:14:46.171] NADOR: Well then, best of luck with your repairs.
+[00:14:47.851 --> 00:14:52.571] NADOR: Just try to make certain that your studies are limited to astronomical
+[00:14:52.688 --> 00:14:53.328] NADOR: phenomena.
+[00:14:55.968 --> 00:14:56.981] RIKER: Charming fellow.
+[00:14:56.981 --> 00:14:57.488] WORF: Captain,
+[00:14:58.368 --> 00:15:01.088] WORF: that ship was responsible for reprogramming the Array.
+[00:15:02.288 --> 00:15:02.848] PICARD: What are you saying?
+[00:15:03.648 --> 00:15:07.968] WORF: It is the same class and energy configuration as the ship we saw in the imaging logs.
+[00:15:08.608 --> 00:15:09.568] PICARD: The imaging logs?
+[00:15:11.728 --> 00:15:15.648] PICARD: Are you suggesting that you have evidence the Cardassians have tampered with the Array?
+[00:15:15.968 --> 00:15:18.528] WORF: They are using the Array as a surveillance device.
+[00:15:18.528 --> 00:15:19.808] WORF: You saw the logs yourself.
+[00:15:22.368 --> 00:15:23.648] PICARD: I haven't heard anything about this.
+[00:15:23.648 --> 00:15:24.208] RIKER: Neither have I.
+[00:15:26.688 --> 00:15:29.568] WORF: Commander Data, show them the logs you downloaded from the Array.
+[00:15:31.168 --> 00:15:32.448] DATA: I know of no such logs.
+[00:15:34.528 --> 00:15:35.568] PICARD: Mister Worf, are you feeling all right?
+[00:15:36.288 --> 00:15:36.768] WORF: Yes.
+[00:15:38.768 --> 00:15:44.928] PICARD: Mister Data, perhaps you had better re-examine the Array. See if you can find any evidence to support Mister Worf's claims.
+[00:15:48.768 --> 00:15:53.488] WORF: Doctor Crusher says I am experiencing further memory loss, but my instincts tell me it is more than that.
+[00:15:53.568 --> 00:15:55.088] WORF: I remember those imaging logs.
+[00:15:55.088 --> 00:15:57.088] WORF: I could tell you every detail, every word.
+[00:15:57.248 --> 00:16:01.648] TROI: Worf, let's assume for a second you're right, that things did happen as you remember them.
+[00:16:02.688 --> 00:16:06.768] TROI: Are you saying that everyone's memory on this ship has been altered but yours?
+[00:16:09.808 --> 00:16:10.128] WORF: Enter.
+[00:16:13.488 --> 00:16:13.808] LAFORGE: Counsellor.
+[00:16:15.328 --> 00:16:18.048] LAFORGE: Worf, I wanted you to know that we re-examined the imaging logs.
+[00:16:18.848 --> 00:16:20.128] LAFORGE: They don't show a Cardassian ship
+[00:16:20.704 --> 00:16:22.704] LAFORGE: or any evidence that the Array was reprogrammed.
+[00:16:23.984 --> 00:16:27.584] LAFORGE: From what we can tell, the Array suffered a simple mechanical failure.
+[00:16:28.224 --> 00:16:29.264] WORF: That is not right.
+[00:16:29.744 --> 00:16:30.624] WORF: I was certain that
+[00:16:31.584 --> 00:16:32.064] TROI: What's wrong?
+[00:16:46.544 --> 00:16:49.424] WORF: Counsellor, the painting that Commander Data gave me.
+[00:16:51.744 --> 00:16:52.544] WORF: It has moved.
+[00:16:53.104 --> 00:16:56.464] TROI: Worf, I hung that painting there. At your birthday party,
+[00:16:56.464 --> 00:16:56.944] TROI: remember?
+[00:16:56.944 --> 00:16:58.384] WORF: No.
+[00:16:58.384 --> 00:16:58.384] WORF: The
+[00:17:01.344 --> 00:17:02.304] WORF: painting has changed.
+[00:17:03.664 --> 00:17:04.224] WORF: Don't you see it?
+[00:17:06.544 --> 00:17:09.744] WORF: Your hair and your clothing, they have changed as well.
+[00:17:11.424 --> 00:17:13.424] LAFORGE: Worf, maybe you should come with me to Sickbay and
+[00:17:14.304 --> 00:17:14.784] PICARD: Now, Mister Worf!
+[00:17:19.264 --> 00:17:19.584] PICARD: Now!
+[00:17:30.704 --> 00:17:31.184] RIKER: What are you waiting for?
+[00:17:31.264 --> 00:17:31.984] RIKER: Raise the shields.
+[00:17:33.184 --> 00:17:34.784] WORF: This panel configuration has been altered.
+[00:17:35.904 --> 00:17:36.624] WORF: I do not know how
+[00:17:38.704 --> 00:17:39.184] DATA: Direct hit.
+[00:17:39.744 --> 00:17:41.664] DATA: Engineering Section and deck forty two.
+[00:17:41.984 --> 00:17:43.344] DATA: Shield generators are overloading.
+[00:17:46.064 --> 00:17:46.384] PICARD: Number One.
+[00:17:50.864 --> 00:17:51.424] RIKER: Firing photon torpedoes.
+[00:17:52.762 --> 00:17:53.162] RIKER: Full spread.
+[00:17:58.762 --> 00:17:59.882] RIKER: Direct hit on their main reactor.
+[00:18:00.682 --> 00:18:01.642] RIKER: They're returning fire.
+[00:18:03.562 --> 00:18:06.602] DATA: Captain, we have sustained heavy damage to the deflector systems.
+[00:18:06.842 --> 00:18:09.082] DATA: Hull breaches on decks seventeen and thirty six.
+[00:18:09.322 --> 00:18:10.202] PICARD: Ensign, take us out of here,
+[00:18:10.202 --> 00:18:10.922] PICARD: maximum warp.
+[00:18:11.242 --> 00:18:11.562] GATES: Aye, sir.
+[00:18:13.322 --> 00:18:14.042] PICARD: Are they pursuing
+[00:18:15.242 --> 00:18:15.775] PICARD: us?
+[00:18:15.775 --> 00:18:16.842] RIKER: No, sir.
+[00:18:16.842 --> 00:18:18.122] RIKER: They are firing on the Argus Array.
+[00:18:21.082 --> 00:18:21.802] RIKER: They destroyed it, sir.
+[00:18:23.802 --> 00:18:24.682] PICARD: Bridge to Engineering.
+[00:18:24.842 --> 00:18:26.042] PICARD: Mister La Forge, what's your status?
+[00:18:27.002 --> 00:18:28.042] HAYES: This is Ensign Hayes, sir.
+[00:18:28.602 --> 00:18:31.242] HAYES: Commander La Forge has been taken to Sickbay with plasma burns.
+[00:18:31.962 --> 00:18:36.442] HAYES: There's serious damage to the secondary plasma conduit but I think we've got it under control.
+[00:18:36.842 --> 00:18:37.402] PICARD: Acknowledged.
+[00:18:37.802 --> 00:18:39.802] PICARD: Ensign, lay in a course to Starbase one two nine.
+[00:18:40.122 --> 00:18:40.442] GATES: Aye, sir.
+[00:18:43.482 --> 00:18:44.202] PICARD: What happened back there,
+[00:18:46.442 --> 00:18:46.602] PICARD: Lieutenant?
+[00:18:46.602 --> 00:18:49.322] WORF: I believe I experienced another memory loss.
+[00:18:49.882 --> 00:18:50.522] RIKER: Memory loss?
+[00:18:50.522 --> 00:18:51.242] RIKER: What are you talking about?
+[00:18:54.522 --> 00:18:55.242] WORF: I do not feel well.
+[00:18:57.322 --> 00:18:59.882] WORF: Request to be temporarily relieved of duty, sir.
+[00:19:01.002 --> 00:19:01.402] PICARD: Granted.
+[00:19:34.814 --> 00:19:37.614] WORF: Computer, access personal logs on Shuttlecraft Curie.
+[00:19:38.254 --> 00:19:40.894] WORF: Play log entry for stardate 47391.2.
+[00:19:41.694 --> 00:19:45.054] COMPUTER: There is no log entry from the Shuttlecraft Curie for that stardate.
+[00:19:47.294 --> 00:19:52.654] WORF: Computer, display any log entries regarding the Bat'leth tournament on Forcas Three.
+[00:19:54.494 --> 00:19:57.214] WORF: Personal log, stardate 47391.2.
+[00:19:58.094 --> 00:20:00.574] WORF: There has been a malfunction in the ship's main deflector.
+[00:20:00.974 --> 00:20:03.374] WORF: It will require two more days of repairs.
+[00:20:03.774 --> 00:20:08.574] WORF: As a result, I will not be able to compete in the Bat'leth tournament on Forcas Three.
+[00:20:09.614 --> 00:20:12.174] WORF: I have asked my brother to take my place.
+[00:20:13.054 --> 00:20:14.894] WORF: He does not have my prowess with the blade, but
+[00:20:29.054 --> 00:20:29.854] TROI: Why'd you lock the door?
+[00:20:29.934 --> 00:20:30.574] WORF: Why shouldn't I?
+[00:20:32.814 --> 00:20:34.174] TROI: I heard what happened on the Bridge.
+[00:20:34.654 --> 00:20:35.214] TROI: Are you all right?
+[00:20:38.254 --> 00:20:39.214] WORF: I am not sure.
+[00:20:39.774 --> 00:20:40.814] TROI: Do you want to talk about it?
+[00:20:41.134 --> 00:20:42.174] WORF: I would rather not, Counsellor.
+[00:20:44.014 --> 00:20:45.694] TROI: Very well, Lieutenant.
+[00:20:48.414 --> 00:20:48.974] TROI: Hot chocolate.
+[00:20:51.534 --> 00:20:52.574] WORF: Is there something I can do for you?
+[00:20:54.711 --> 00:20:55.991] TROI: Actually, there is.
+[00:21:17.191 --> 00:21:18.311] TROI: Come and sit down.
+[00:21:26.151 --> 00:21:29.191] TROI: I just want you to relax for a minute.
+[00:21:34.951 --> 00:21:35.111] TROI: There.
+[00:21:45.671 --> 00:21:47.911] TROI: You are so tense.
+[00:21:50.951 --> 00:21:57.591] TROI: Now, I know you don't want to talk about what happened on the Bridge, but there are times when it's just best to let things out.
+[00:22:00.871 --> 00:22:01.831] TROI: Come on.
+[00:22:02.711 --> 00:22:05.031] TROI: If you can't talk to me, who can you talk to?
+[00:22:08.951 --> 00:22:10.951] WORF: I do not believe this is appropriate behaviour!
+[00:22:11.671 --> 00:22:12.551] TROI: Even for your wife?
+[00:22:13.271 --> 00:22:13.751] WORF: Wife?
+[00:22:21.271 --> 00:22:21.991] TROI: Worf, what's wrong?
+[00:22:24.071 --> 00:22:24.631] WORF: I do not know.
+[00:22:26.391 --> 00:22:27.191] WORF: Things are changing.
+[00:22:29.322 --> 00:22:30.282] TROI: What's changed?
+[00:22:32.682 --> 00:22:36.522] WORF: I do not remember us, you and I, being mates.
+[00:22:37.322 --> 00:22:42.522] WORF: It is as if events, circumstances, continue to change from moment to moment,
+[00:22:42.522 --> 00:22:45.482] WORF: but I am the only one who seems to be aware of it.
+[00:22:46.522 --> 00:22:50.442] TROI: Are you saying you don't remember the last three years?
+[00:22:52.362 --> 00:22:55.082] TROI: You don't remember us falling in love and getting married?
+[00:22:56.522 --> 00:23:00.282] WORF: I do remember the last three years, but they were different.
+[00:23:01.322 --> 00:23:03.722] WORF: We did not have this relationship.
+[00:23:04.842 --> 00:23:05.642] WORF: We were friends.
+[00:23:07.562 --> 00:23:10.522] WORF: And the Enterprise did not have a battle with the Cardassians.
+[00:23:11.162 --> 00:23:11.242] WORF: And
+[00:23:14.602 --> 00:23:15.562] WORF: no one believes me.
+[00:23:20.122 --> 00:23:28.362] TROI: Whatever's wrong, whatever happened, I want you to know that I believe you. And that I love you.
+[00:23:30.202 --> 00:23:31.882] TROI: And together we'll find out what's happening.
+[00:23:35.402 --> 00:23:39.802] DATA: I am initiating a subspace scan to search for temporal anomalies on or off the ship.
+[00:23:40.362 --> 00:23:42.282] OGAWA: Counsellor Troi, please report to Sickbay.
+[00:23:43.482 --> 00:23:44.042] TROI: I'm on my way.
+[00:23:45.322 --> 00:23:49.322] TROI: Let me know if you find anything.
+[00:23:52.922 --> 00:23:53.322] WORF: Commander,
+[00:23:55.821 --> 00:23:57.821] WORF: how long have I been married to Counsellor Troi?
+[00:23:59.261 --> 00:24:00.701] DATA: Two years, one month and twelve days.
+[00:24:01.501 --> 00:24:03.421] WORF: And when did this relationship begin?
+[00:24:04.861 --> 00:24:11.261] DATA: It is my understanding your romantic affiliation began shortly after you recovered from your spinal injury on stardate 45587.
+[00:24:11.741 --> 00:24:16.301] DATA: It was six months later that you asked Commander Riker for his formal permission to court Counsellor Troi.
+[00:24:16.861 --> 00:24:18.861] DATA: You felt to do otherwise would be dishonourable.
+[00:24:20.061 --> 00:24:20.701] WORF: And then we mated?
+[00:24:21.661 --> 00:24:26.861] DATA: I am not privy to the exact details of when, where or how your first coupling took place.
+[00:24:27.341 --> 00:24:28.221] DATA: I could investigate it
+[00:24:28.861 --> 00:24:30.221] WORF: No, that is all right.
+[00:24:32.861 --> 00:24:35.021] DATA: I am detecting no temporal anomalies in this system.
+[00:24:36.861 --> 00:24:42.301] DATA: Perhaps we should try to pinpoint the exact moment when events became discontinuous.
+[00:24:42.301 --> 00:24:43.901] DATA: Do you remember the first change?
+[00:24:44.621 --> 00:24:45.421] WORF: I was in Sickbay.
+[00:24:46.221 --> 00:24:49.661] WORF: Doctor Crusher told me I had a concussion but I do not remember that happening.
+[00:24:50.301 --> 00:24:50.861] DATA: Think back.
+[00:24:51.661 --> 00:24:53.581] DATA: Are you sure that was the very first change?
+[00:24:55.341 --> 00:24:55.661] WORF: Before.
+[00:24:57.181 --> 00:24:59.181] WORF: Yes.
+[00:25:00.381 --> 00:25:01.421] WORF: Yes, I was in Engineering.
+[00:25:02.061 --> 00:25:07.581] WORF: I felt a wave of dizziness and when I looked up, you and Commander La Forge were on the opposite side of the room.
+[00:25:08.621 --> 00:25:09.741] WORF: Captain Picard was gone.
+[00:25:10.221 --> 00:25:13.501] WORF: I thought I had blacked out for a moment and had not observed your movements.
+[00:25:15.821 --> 00:25:20.621] WORF: And at my birthday party, the cake was chocolate and then it was yellow.
+[00:25:21.581 --> 00:25:26.141] WORF: And Commander Riker told me Captain Picard was not going to attend, and then suddenly he was there.
+[00:25:28.718 --> 00:25:31.198] DATA: We should try to find the commonalties in these events.
+[00:25:31.678 --> 00:25:32.718] DATA: Where were the people you were with?
+[00:25:34.318 --> 00:25:35.838] WORF: Everyone was at my birthday party.
+[00:25:37.198 --> 00:25:38.398] WORF: Then I was with Counsellor Troi,
+[00:25:39.518 --> 00:25:40.958] WORF: then Commander La Forge came in.
+[00:25:43.358 --> 00:25:50.638] WORF: Geordi. Geordi was present at all three locations. And he was near me in each case just before I noticed the differences.
+[00:25:52.238 --> 00:25:53.438] WORF: There has to be a connection.
+[00:25:54.078 --> 00:25:54.958] DATA: It is possible.
+[00:25:55.838 --> 00:25:57.198] DATA: We should speak to Commander La Forge.
+[00:25:59.918 --> 00:26:03.758] DATA: Doctor, is Geordi well enough to answer some questions?
+[00:26:06.878 --> 00:26:07.518] OGAWA: Geordi's dead.
+[00:26:17.438 --> 00:26:19.518] DATA: There do not appear to be any unusual readings.
+[00:26:20.638 --> 00:26:22.558] DATA: Energy residuals from the plasma burns, the
+[00:26:23.758 --> 00:26:25.438] DATA: beginnings of cellular decomposition.
+[00:26:27.358 --> 00:26:32.078] DATA: I see nothing that connects these bio-readings to your recent sense of discontinuity.
+[00:26:33.438 --> 00:26:34.318] OGAWA: What about his visor?
+[00:26:36.238 --> 00:26:38.238] DATA: I
+[00:26:41.198 --> 00:26:42.398] DATA: still see nothing unusual.
+[00:26:43.278 --> 00:26:44.238] DATA: Perhaps we should activate it.
+[00:26:45.438 --> 00:26:47.598] OGAWA: Hook it up to the diagnostic array and I'll check it out.
+[00:26:57.965 --> 00:26:58.845] DATA: The visor is active.
+[00:27:00.605 --> 00:27:01.645] CRUSHER: Worf, are you alright?
+[00:27:04.845 --> 00:27:06.285] DATA: Have you noticed another discontinuity?
+[00:27:09.965 --> 00:27:11.485] WORF: Doctor Crusher was not here.
+[00:27:12.045 --> 00:27:13.165] WORF: Doctor Ogawa was.
+[00:27:14.205 --> 00:27:15.005] CRUSHER: Doctor Ogawa?
+[00:27:17.165 --> 00:27:18.285] WORF: My uniform has changed.
+[00:27:19.485 --> 00:27:20.525] WORF: What is my rank and position?
+[00:27:21.085 --> 00:27:23.165] TROI: You're a Commander and First Officer.
+[00:27:25.005 --> 00:27:26.285] WORF: Are we still married?
+[00:27:27.725 --> 00:27:28.205] TROI: Yes.
+[00:27:29.645 --> 00:27:32.285] DATA: I am detecting a quantum flux in your cellular RNA.
+[00:27:33.245 --> 00:27:33.805] WORF: What does that mean?
+[00:27:34.605 --> 00:27:35.245] DATA: I do not know.
+[00:27:35.245 --> 00:27:37.645] DATA: I will have to analyse these readings.
+[00:27:40.925 --> 00:27:41.645] DATA: I
+[00:27:44.365 --> 00:27:49.725] DATA: have found the quantum flux in Worf's cellular RNA extends to the subatomic level.
+[00:27:50.205 --> 00:27:52.285] DATA: It is asynchronous with normal matter.
+[00:27:53.085 --> 00:27:56.685] DATA: In essence, Captain, Mister Worf does not belong in our universe.
+[00:27:57.165 --> 00:27:57.405] RIKER: What?
+[00:27:57.885 --> 00:28:02.365] DATA: All matter in the universe resonates on a quantum level with a unique signature.
+[00:28:03.005 --> 00:28:04.445] DATA: That signature is constant.
+[00:28:04.765 --> 00:28:07.165] DATA: It cannot be changed through any known process.
+[00:28:07.645 --> 00:28:09.725] DATA: It is the basic foundation of existence.
+[00:28:09.965 --> 00:28:13.565] RIKER: Are you saying that Worf's quantum signature is different from ours?
+[00:28:14.045 --> 00:28:14.445] DATA: Yes, sir.
+[00:28:14.925 --> 00:28:15.885] DATA: I cannot explain it.
+[00:28:16.525 --> 00:28:20.113] DATA: It is as if he originates from a different quantum universe.
+[00:28:20.113 --> 00:28:20.765] RIKER: Mister Worf,
+[00:28:21.165 --> 00:28:25.725] RIKER: you say the discontinuities started to occur after you returned from a Bat'leth tournament on Forcas Three.
+[00:28:25.965 --> 00:28:26.285] WORF: Yes, sir.
+[00:28:26.907 --> 00:28:31.627] RIKER: Now, I know for a fact that you never attended that tournament and that no shuttlecraft has left the Enterprise for over a month.
+[00:28:31.787 --> 00:28:38.187] WORF: I understand that, but I also clearly remember attending the tournament and returning to the ship in a shuttlecraft.
+[00:28:38.187 --> 00:28:39.787] RIKER: Do you remember the route you took to return?
+[00:28:40.187 --> 00:28:40.507] WORF: Yes.
+[00:28:41.147 --> 00:28:44.267] RIKER: Let's backtrack that course. See if there are any unusual readings or anomalies.
+[00:28:44.347 --> 00:28:44.667] DATA: Aye, sir.
+[00:28:50.907 --> 00:28:54.347] WORF: If I may inquire, sir, how long have you been Captain of the Enterprise?
+[00:28:55.147 --> 00:28:55.787] RIKER: Four years.
+[00:28:57.387 --> 00:29:00.507] RIKER: Ever since Captain Picard was killed in the incident with the Borg.
+[00:29:03.547 --> 00:29:04.507] RIKER: You don't remember any of this, do
+[00:29:06.107 --> 00:29:08.107] RIKER: you?
+[00:29:08.187 --> 00:29:08.907] WORF: I do remember.
+[00:29:09.467 --> 00:29:10.747] WORF: I just remember differently.
+[00:29:20.587 --> 00:29:23.547] WESLEY: Captain, I'm picking up a minor subspace disturbance off the port bow.
+[00:29:24.107 --> 00:29:24.587] RIKER: Full stop.
+[00:29:24.747 --> 00:29:25.147] HELM: Aye, sir.
+[00:29:25.307 --> 00:29:25.727] RIKER: Analysis, Mister Data.
+[00:29:25.727 --> 00:29:25.867] DATA: It
+[00:29:26.987 --> 00:29:29.547] DATA: appears to be a quantum fissure in the space-time continuum.
+[00:29:30.827 --> 00:29:31.307] RIKER: On screen.
+[00:29:32.987 --> 00:29:37.947] DATA: The anomaly cannot be seen, but I believe I can enhance it with a warp field to make it visible.
+[00:29:40.907 --> 00:29:41.387] RIKER: Is it dangerous?
+[00:29:41.867 --> 00:29:42.747] DATA: Not from this distance, sir.
+[00:29:43.467 --> 00:29:46.347] DATA: I am also detecting an ion trail intersecting the phenomenon.
+[00:29:47.547 --> 00:29:51.707] DATA: I believe it was left by a Starfleet type six shuttlecraft.
+[00:29:51.707 --> 00:29:52.507] WORF: So I was here.
+[00:29:55.067 --> 00:29:56.267] DATA: I have an explanation, sir.
+[00:29:57.707 --> 00:29:59.867] DATA: I believe the quantum fissure we discovered
+[00:30:00.181 --> 00:30:06.901] DATA: is a fixed point across the space time continuum. A keyhole which intersects many other quantum realities.
+[00:30:07.381 --> 00:30:08.901] TROI: What do you mean, quantum realities?
+[00:30:09.061 --> 00:30:12.421] DATA: For any event, there is an infinite number of possible outcomes.
+[00:30:12.981 --> 00:30:15.221] DATA: Our choices determine which outcomes will follow.
+[00:30:15.701 --> 00:30:23.541] DATA: But there is a theory in quantum physics that all possibilities that can happen, do happen in alternate quantum realities.
+[00:30:24.261 --> 00:30:28.261] WORF: And somehow I have been shifting from one reality to another.
+[00:30:28.661 --> 00:30:29.381] DATA: That is correct.
+[00:30:30.021 --> 00:30:30.821] TROI: How did this happen?
+[00:30:33.621 --> 00:30:41.541] DATA: When Worf's shuttlecraft came into contact with the quantum fissure, I believe its warp engines caused a small break in the barriers between quantum realties.
+[00:30:42.021 --> 00:30:44.341] DATA: Worf was thrown into a state of quantum flux.
+[00:30:44.821 --> 00:30:47.141] DATA: He immediately shifted into other realities.
+[00:30:47.861 --> 00:30:50.501] CRUSHER: And Geordi's visor somehow triggered that effect?
+[00:30:50.901 --> 00:30:51.461] DATA: Exactly.
+[00:30:52.101 --> 00:30:54.261] DATA: The visor uses a subspace field pulse.
+[00:30:54.741 --> 00:31:01.621] DATA: I believe that whenever Geordi came near Worf, the field pulse intensified the quantum flux and pushed Worf into another reality.
+[00:31:02.661 --> 00:31:05.701] WORF: How can we find my original quantum state and return me to it?
+[00:31:05.941 --> 00:31:09.461] WESLEY: We could scan the quantum fissure using a subspace differential pulse.
+[00:31:11.061 --> 00:31:14.581] WESLEY: Maybe we could locate the quantum state that shares Worf's signature and find a way to get him back.
+[00:31:15.941 --> 00:31:17.221] DATA: An excellent idea, Lieutenant.
+[00:31:34.341 --> 00:31:34.821] TROI: Worf.
+[00:31:37.286 --> 00:31:42.966] TROI: From what I understand, there's a good chance my Worf won't return.
+[00:31:44.886 --> 00:31:46.806] TROI: I guess it's just hard for me to accept that
+[00:31:48.246 --> 00:31:49.926] TROI: there's a reality out there where
+[00:31:51.526 --> 00:31:52.166] TROI: you never loved
+[00:31:53.766 --> 00:31:55.006] TROI: me.
+[00:31:55.006 --> 00:31:56.246] WORF: Deanna,
+[00:31:56.246 --> 00:31:59.846] WORF: I have always considered you a close friend.
+[00:32:01.526 --> 00:32:11.046] WORF: And although I have never seriously considered a romantic relationship, I would not be opposed to the possibility.
+[00:32:12.566 --> 00:32:13.526] TROI: What about our children?
+[00:32:16.086 --> 00:32:16.566] WORF: Children?
+[00:32:17.286 --> 00:32:17.926] TROI: You didn't know?
+[00:32:20.646 --> 00:32:25.046] WORF: When the last shift occurred in Sickbay, we did not have any children.
+[00:32:31.126 --> 00:32:33.286] TROI: We have a little girl, Shannara,
+[00:32:33.286 --> 00:32:37.686] TROI: she's two years old, and a three year old boy, Eric Christopher.
+[00:32:43.846 --> 00:32:44.966] WORF: What about Alexander?
+[00:32:46.566 --> 00:32:47.286] TROI: Alexander?
+[00:32:52.006 --> 00:32:54.006] WORF: He was my son in another reality.
+[00:33:11.269 --> 00:33:17.029] WESLEY: I've used a differential pulse to analyze over ten million quantum states within the fissure, but I still haven't found one with your signature.
+[00:33:18.069 --> 00:33:19.109] WESLEY: This may take some time, sir.
+[00:33:21.029 --> 00:33:22.869] DATA: Captain, a Bajoran ship is approaching.
+[00:33:23.029 --> 00:33:23.429] RIKER: Red Alert.
+[00:33:23.579 --> 00:33:24.179] WORF: Sir,
+[00:33:25.189 --> 00:33:25.909] WORF: the Bajorans?
+[00:33:26.149 --> 00:33:29.909] TROI: Ever since the Bajorans overpowered the Cardassian Empire, they've become more and more aggressive.
+[00:33:30.229 --> 00:33:34.949] RIKER: Yesterday they destroyed one of our subspace telescopes because they thought we were using it to spy on them.
+[00:33:35.349 --> 00:33:36.389] WESLEY: They're charging their weapons, sir.
+[00:33:36.789 --> 00:33:37.269] WORF: Shields!
+[00:33:37.669 --> 00:33:39.989] RIKER: Return fire.
+[00:33:41.429 --> 00:33:42.789] WESLEY: They've damaged our power systems, sir.
+[00:33:43.029 --> 00:33:45.189] WESLEY: It's caused an energy surge within the subspace pulse.
+[00:33:45.509 --> 00:33:47.429] WESLEY: The quantum fissure is beginning to destabilise.
+[00:33:47.429 --> 00:33:49.509] RIKER: Can we disengage the pulse?
+[00:33:49.909 --> 00:33:49.989] WESLEY: Too
+[00:33:52.389 --> 00:33:52.869] WESLEY: late, sir.
+[00:33:52.869 --> 00:33:52.869] RIKER: What
+[00:33:57.829 --> 00:34:00.229] RIKER: the hell is happening?
+[00:34:00.869 --> 00:34:03.189] DATA: The barriers between quantum realties are breaking down.
+[00:34:03.909 --> 00:34:05.509] DATA: Other realties are emerging into our own.
+[00:34:18.949 --> 00:34:22.229] WESLEY: The Bajoran ship is disengaging, sir.
+[00:34:22.949 --> 00:34:25.749] DATA: The rate of quantum incursions is increasing exponentially.
+[00:34:26.389 --> 00:34:30.069] DATA: At this rate, the sector will be completely filled with Enterprises within three days.
+[00:34:30.629 --> 00:34:33.829] WESLEY: Captain, we're receiving two hundred eighty five thousand hails.
+[00:34:33.921 --> 00:34:35.841] RIKER: I wish I knew what to tell them.
+[00:34:37.201 --> 00:34:39.521] RIKER: Mister Data, can we stop these incursions?
+[00:34:40.641 --> 00:34:44.801] DATA: Perhaps, if we can find the ship which that Commander Worf's quantum signature.
+[00:34:44.801 --> 00:34:46.081] RIKER: How would that help?
+[00:34:47.041 --> 00:34:52.561] DATA: It was Worf's shuttlecraft which traversed the fissure and weakened the barriers between quantum realities.
+[00:34:52.881 --> 00:35:01.921] DATA: If he re-enters the fissure in his original shuttle, and emits a broad spectrum warp field, it may be enough to seal the fissure and stop additional realities from emerging into our own.
+[00:35:01.921 --> 00:35:03.601] RIKER: What then?
+[00:35:03.601 --> 00:35:06.081] RIKER: How do we get the Enterprises that are already here back to where they belong?
+[00:35:06.641 --> 00:35:11.841] DATA: In theory, the act of sealing the fissure should restore the barriers between quantum states.
+[00:35:12.161 --> 00:35:13.841] DATA: The ships would return to their own realities.
+[00:35:14.961 --> 00:35:20.721] RIKER: Lieutenant Crusher, send a general hail, all ships.
+[00:35:21.361 --> 00:35:21.761] WESLEY: Aye, sir.
+[00:35:24.801 --> 00:35:26.641] RIKER: This is Captain Riker of the Enterprise.
+[00:35:28.321 --> 00:35:29.121] RIKER: That is, the Enterprise
+[00:35:29.121 --> 00:35:30.961] RIKER: which is indigenous to this universe.
+[00:35:32.081 --> 00:35:34.561] RIKER: We've all encountered a quantum anomaly.
+[00:35:34.801 --> 00:35:42.561] RIKER: We think we have found a way to return all of us to our proper realities, but we need to find that ship which exhibits a certain quantum signature.
+[00:35:43.121 --> 00:35:45.921] RIKER: Our Mister Data will transmit that signature to you now.
+[00:35:51.121 --> 00:35:53.121] RIKER: Anything?
+[00:35:55.041 --> 00:35:56.401] WESLEY: There's too much comm. traffic, sir.
+[00:35:56.481 --> 00:35:58.881] WESLEY: It's tough to isolate who's talking to who.
+[00:35:59.761 --> 00:36:00.081] WESLEY: Wait a minute.
+[00:36:00.961 --> 00:36:01.361] WESLEY: Here it is.
+[00:36:02.481 --> 00:36:03.681] WESLEY: Someone's responding.
+[00:36:03.681 --> 00:36:04.881] RIKER: On screen.
+[00:36:07.121 --> 00:36:08.561] PICARD: Captain, it would that we have found the
+[00:36:08.656 --> 00:36:10.016] PICARD: quantum signature you are looking for.
+[00:36:10.656 --> 00:36:16.576] RIKER: Data believes that by sending Worf back through the fissure again, it would return us all to our proper realities.
+[00:36:16.896 --> 00:36:18.256] PICARD: Our Data has said the same thing.
+[00:36:19.056 --> 00:36:21.696] RIKER: We need you to send us your shuttlecraft Curie.
+[00:36:21.696 --> 00:36:23.296] PICARD: We're launching it now.
+[00:36:24.016 --> 00:36:24.336] RIKER: Thank you.
+[00:36:25.776 --> 00:36:26.816] RIKER: It's good to see you again, Captain.
+[00:36:27.936 --> 00:36:28.656] RIKER: It's been a long time.
+[00:36:36.656 --> 00:36:37.296] RIKER: Did they send the right shuttle?
+[00:36:38.096 --> 00:36:38.496] DATA: Yes, sir.
+[00:36:39.216 --> 00:36:41.776] DATA: It matches Commander Worf's quantum signature precisely.
+[00:36:42.896 --> 00:36:46.176] DATA: I have remodulated the shuttle's engines to emit an inverse warp field.
+[00:36:46.896 --> 00:36:49.776] DATA: You will need to activate the field at the precise moment you enter the fissure.
+[00:36:50.016 --> 00:36:52.736] WORF: Assuming it works, will I find myself near my own ship?
+[00:36:53.376 --> 00:36:54.576] DATA: That is one possibility.
+[00:36:55.376 --> 00:36:59.536] DATA: However, the uncertainty principle dictates that time is a variable in this equation.
+[00:37:00.336 --> 00:37:03.856] DATA: You may end up several days before the event or several days after.
+[00:37:04.176 --> 00:37:05.056] DATA: There is no way to tell.
+[00:37:05.536 --> 00:37:06.016] WORF: I understand.
+[00:37:07.056 --> 00:37:07.376] RIKER: Good luck.
+[00:37:54.620 --> 00:37:55.820] WORF: Setting course for the fissure.
+[00:37:56.060 --> 00:37:56.460] RIKER: Acknowledged.
+[00:37:58.700 --> 00:37:58.940] WESLEY: Captain,
+[00:37:58.940 --> 00:38:00.060] WESLEY: the shuttlecraft is under attack.
+[00:38:01.420 --> 00:38:02.540] RIKER: The Bajorans again.
+[00:38:02.540 --> 00:38:02.940] WESLEY: No, sir.
+[00:38:02.940 --> 00:38:03.980] WESLEY: It's one of the Enterprises.
+[00:38:04.380 --> 00:38:05.100] WESLEY: They're hailing us.
+[00:38:06.460 --> 00:38:08.220] RIKER: On screen.
+[00:38:08.860 --> 00:38:11.500] RIKER: We won't go back.
+[00:38:12.460 --> 00:38:13.980] RIKER: You don't know what it's like in our universe.
+[00:38:14.300 --> 00:38:15.500] RIKER: The Federation's gone,
+[00:38:15.500 --> 00:38:16.380] RIKER: the Borg is everywhere!
+[00:38:18.700 --> 00:38:20.140] RIKER: We're one of the last ships left. Please,
+[00:38:20.700 --> 00:38:21.740] RIKER: you've got to help us!
+[00:38:22.380 --> 00:38:22.860] RIKER: I'm sorry,
+[00:38:22.860 --> 00:38:23.580] RIKER: there's no choice.
+[00:38:24.300 --> 00:38:26.380] RIKER: If this works, everything will return to
+[00:38:26.460 --> 00:38:27.660] RIKER: No, we won't go back!
+[00:38:28.780 --> 00:38:30.220] WESLEY: Sir, they're firing on the shuttlecraft.
+[00:38:30.780 --> 00:38:31.340] RIKER: Open fire.
+[00:38:31.420 --> 00:38:31.980] RIKER: Try to disable them.
+[00:38:35.580 --> 00:38:36.140] WESLEY: Direct hit.
+[00:38:37.180 --> 00:38:38.220] WESLEY: Their shields have collapsed.
+[00:38:38.700 --> 00:38:39.820] WESLEY: Their engine core is overloading.
+[00:38:44.220 --> 00:38:44.700] RIKER: What happened?
+[00:38:45.500 --> 00:38:47.340] WESLEY: It looks like the ship had already taken heavy damage.
+[00:38:48.460 --> 00:38:50.060] WESLEY: Their warp containment field must have been weak.
+[00:38:50.540 --> 00:38:51.740] RIKER: Probably from fighting with the Borg.
+[00:38:51.980 --> 00:38:53.900] DATA: Captain, Worf is entering the fissure.
+[00:38:57.580 --> 00:38:58.860] WORF: Charging primary systems.
+[00:39:00.940 --> 00:39:03.020] WORF: Initiating inverse warp field.
+[00:39:37.740 --> 00:39:38.620] WORF: Worf to Enterprise.
+[00:39:38.620 --> 00:39:39.740] PICARD: Enterprise here.
+[00:39:41.340 --> 00:39:43.180] WORF: Captain, is everything all right?
+[00:39:43.820 --> 00:39:44.380] PICARD: Yes, Lieutenant.
+[00:39:44.780 --> 00:39:45.340] PICARD: Is there a problem?
+[00:39:47.580 --> 00:39:48.780] WORF: No, I do not believe so,
+[00:39:49.420 --> 00:39:50.860] WORF: but I will explain when I arrive.
+[00:39:51.980 --> 00:39:53.260] PICARD: How was the Bat'leth tournament?
+[00:39:56.780 --> 00:39:57.580] WORF: It was fine, sir.
+[00:40:01.100 --> 00:40:02.380] WORF: I won Champion Standing.
+[00:40:03.660 --> 00:40:05.660] RIKER: So
+[00:40:09.900 --> 00:40:12.220] RIKER: you think this quantum fissure is nothing that we need to worry about?
+[00:40:12.700 --> 00:40:15.580] WORF: No. No, I believe the inverse warp field resealed it.
+[00:40:15.900 --> 00:40:17.260] RIKER: I'm looking forward to reading your report.
+[00:40:26.700 --> 00:40:27.180] RIKER: Something wrong?
+[00:40:28.220 --> 00:40:29.980] WORF: I know what you are planning, sir.
+[00:40:30.540 --> 00:40:31.660] WORF: I will not be surprised.
+[00:40:32.700 --> 00:40:32.780] RIKER: Surprised?
+[00:40:33.180 --> 00:40:33.980] RIKER: I don't know what you're talking about.
+[00:40:34.540 --> 00:40:35.100] WORF: Of course you don't.
+[00:40:54.425 --> 00:40:55.545] TROI: Welcome home, Worf.
+[00:40:56.505 --> 00:40:58.105] TROI: I hope you don't mind, I let myself in.
+[00:40:59.465 --> 00:41:03.225] TROI: I promised Alexander I'd feed his Dalvin hissing beetle while you were both away.
+[00:41:05.785 --> 00:41:07.225] WORF: So you do not live here?
+[00:41:08.825 --> 00:41:09.945] TROI: What's that supposed to mean?
+[00:41:12.105 --> 00:41:13.145] WORF: It is a long story.
+[00:41:18.185 --> 00:41:19.465] TROI: Happy birthday, Worf.
+[00:41:21.065 --> 00:41:25.305] TROI: Will wanted to give you a surprise party, but I knew you'd hate it so I talked him out of it.
+[00:41:27.385 --> 00:41:27.785] WORF: Thank you.
+[00:41:28.265 --> 00:41:31.145] TROI: I know Klingons like to be alone on their birthdays.
+[00:41:32.025 --> 00:41:35.385] TROI: I'm sure you have to meditate, or hit yourself with a pain stick or something.
+[00:41:36.985 --> 00:41:37.305] WORF: Deanna.
+[00:41:40.185 --> 00:41:41.145] WORF: You do not have to leave.
+[00:41:42.425 --> 00:41:42.665] TROI: Oh?
+[00:41:44.185 --> 00:41:45.705] WORF: I have not had dinner.
+[00:41:46.505 --> 00:41:48.265] WORF: Would you care to join me?
+[00:41:50.425 --> 00:41:50.905] TROI: I'd love to.
+[00:41:50.905 --> 00:41:50.905] WORF: Champagne.
+[00:42:59.000 --> 00:43:08.000] [music]
