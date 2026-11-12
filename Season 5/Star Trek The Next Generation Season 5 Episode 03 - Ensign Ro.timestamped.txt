@@ -1,0 +1,738 @@
+[00:00:01.440 --> 00:00:04.640] MOT: there's a time when you want to call a Romulan's bluff and there's a time when you don't.
+[00:00:04.880 --> 00:00:05.440] MOT: Wouldn't you say?
+[00:00:06.480 --> 00:00:08.720] PICARD: Well, one does not always have the luxury
+[00:00:08.720 --> 00:00:11.520] MOT: You've got to choose your time and place with them.
+[00:00:11.840 --> 00:00:12.880] MOT: True or false?
+[00:00:13.600 --> 00:00:14.640] PICARD: Yes, wherever possible.
+[00:00:16.480 --> 00:00:18.800] MOT: So, this time you were lucky.
+[00:00:20.800 --> 00:00:24.320] MOT: I suppose all's well that ends well
+[00:00:24.320 --> 00:00:25.938] MOT: but if I'd been in your shoes
+[00:00:25.938 --> 00:00:28.480] PICARD: Well, you know, that really does look very nice, Mister Mot.
+[00:00:28.480 --> 00:00:29.520] PICARD: I think that will be sufficient.
+[00:00:30.880 --> 00:00:31.200] MOT: Hold on
+[00:00:36.880 --> 00:00:37.120] MOT: There.
+[00:00:37.120 --> 00:00:39.040] MOT: I must tell you, Captain,
+[00:00:39.280 --> 00:00:42.880] MOT: Will Riker was in for a trim yesterday and he agrees with me a hundred per cent.
+[00:00:43.680 --> 00:00:44.720] RIKER: Bridge to Captain Picard.
+[00:00:45.840 --> 00:00:46.240] PICARD: Yes?
+[00:00:46.880 --> 00:00:47.680] RIKER: Sorry to interrupt.
+[00:00:48.000 --> 00:00:50.800] RIKER: We're receiving an emergency distress signal from the Solarion Four colony.
+[00:00:51.280 --> 00:00:53.600] MOT: Uh oh. That's right along the Cardassian border.
+[00:00:54.560 --> 00:00:55.280] PICARD: Lay in a new course.
+[00:00:55.840 --> 00:00:56.400] PICARD: I'm on my way.
+[00:00:56.550 --> 00:00:57.150] MOT: I
+[00:00:59.600 --> 00:01:02.080] MOT: told him we shouldn't colonise so close to the Cardassians.
+[00:01:07.200 --> 00:01:07.520] PICARD: Report.
+[00:01:08.080 --> 00:01:10.080] RIKER: The signal ended abruptly at oh four five five.
+[00:01:10.160 --> 00:01:11.600] RIKER: Unable to raise them on subspace.
+[00:01:11.600 --> 00:01:14.000] PICARD: Hail them on upper and lower band frequencies, Mister Worf.
+[00:01:14.160 --> 00:01:14.640] WORF: I've tried.
+[00:01:15.040 --> 00:01:15.600] WORF: No response.
+[00:01:16.560 --> 00:01:17.760] PICARD: Time to the Solarion system?
+[00:01:18.080 --> 00:01:18.880] DATA: Twenty six minutes, Captain.
+[00:01:19.120 --> 00:01:19.120] PICARD: I
+[00:01:22.480 --> 00:01:26.474] PICARD: understand you've been discussing alternative adversarial engagement strategy with Mister Mot.
+[00:01:26.474 --> 00:01:27.200] RIKER: It would
+[00:01:27.840 --> 00:01:30.000] RIKER: be more accurate to say he was discussing them with me.
+[00:01:30.511 --> 00:01:31.711] RIKER: He's the best barber in Starfleet.
+[00:01:32.031 --> 00:01:33.055] RIKER: What can you do?
+[00:01:33.055 --> 00:01:33.311] WORF: Sir,
+[00:01:33.951 --> 00:01:37.631] WORF: receiving another signal of a vessel leaving orbit of Solarion Four.
+[00:01:38.431 --> 00:01:40.911] WORF: New frequency, low band, audio only.
+[00:01:42.751 --> 00:01:43.231] PICARD: Open a channel.
+[00:01:45.711 --> 00:01:46.271] MAN: This is the Bajora.
+[00:01:47.391 --> 00:01:53.071] MAN: We claim responsibility for the destruction of the Federation colony on Solarion Four.
+[00:01:53.071 --> 00:01:57.151] MAN: As long as we are without our homeland, no one will be safe in this sector.
+[00:01:57.631 --> 00:01:57.951] PICARD: Space,
+[00:02:28.831 --> 00:02:30.031] PICARD: the final frontier.
+[00:02:31.951 --> 00:02:34.831] PICARD: These are the voyages of the starship Enterprise.
+[00:02:35.951 --> 00:02:43.871] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:45.551 --> 00:02:48.431] PICARD: to boldly go where no one has gone before.
+[00:02:52.000 --> 00:03:00.000] [music]
+[00:03:17.000 --> 00:03:26.000] [music]
+[00:03:40.000 --> 00:03:48.000] [music]
+[00:03:44.777 --> 00:03:47.577] LOG: Captain's log, stardate 45076.3.
+[00:03:48.137 --> 00:03:51.817] LOG: We have arrived at Lya Station Alpha with survivors from Solarion Four.
+[00:03:52.457 --> 00:03:56.297] LOG: Admiral Kennelly has rendezvoused to discuss the Bajoran terrorist attack.
+[00:04:02.537 --> 00:04:02.937] KENNELLY: Sorry.
+[00:04:04.057 --> 00:04:06.137] PICARD: Ginger tea with honey, eighty degrees Celsius.
+[00:04:07.017 --> 00:04:07.577] KENNELLY: Ginger tea?
+[00:04:12.057 --> 00:04:14.937] PICARD: My Aunt Adele's cure for the common cold.
+[00:04:15.897 --> 00:04:16.697] KENNELLY: Common, hell.
+[00:04:17.897 --> 00:04:20.217] KENNELLY: I picked this up from the Cardassian liaison last weekend.
+[00:04:21.657 --> 00:04:23.657] KENNELLY: It's some damn virus they've sicked on me.
+[00:04:23.977 --> 00:04:25.817] PICARD: Did he have anything to say about this attack?
+[00:04:27.977 --> 00:04:29.097] KENNELLY: It's the same old story for the
+[00:04:29.099 --> 00:04:29.659] KENNELLY: Cardassians.
+[00:04:30.779 --> 00:04:35.499] KENNELLY: They've had terrorist problems ever since they annexed the Bajoran home world forty years ago.
+[00:04:36.139 --> 00:04:39.739] PICARD: But in forty years, they've never attacked a Federation target.
+[00:04:41.099 --> 00:04:45.339] KENNELLY: A new militant splinter group has broken away from the Bajoran settlement camps.
+[00:04:46.219 --> 00:04:47.179] KENNELLY: The leader's name is Orta.
+[00:04:47.819 --> 00:04:50.379] KENNELLY: Apparently he's willing to do whatever he has to to get attention.
+[00:04:51.499 --> 00:04:52.139] PICARD: And our response?
+[00:04:53.099 --> 00:04:54.299] KENNELLY: Listen, Jean-Luc,
+[00:04:56.699 --> 00:04:59.259] KENNELLY: I'm the first to say that the Bajora deserve attention.
+[00:05:00.059 --> 00:05:05.819] KENNELLY: Chased off their own planet by the Cardassians, forced to wander the galaxy, settling wherever they can find room.
+[00:05:06.139 --> 00:05:06.699] KENNELLY: It's tragic.
+[00:05:07.099 --> 00:05:10.539] PICARD: On many worlds we've been to, they are isolated, treated as pariahs.
+[00:05:10.939 --> 00:05:12.939] KENNELLY: The Federation is sympathetic to their cause,
+[00:05:13.899 --> 00:05:16.059] KENNELLY: but they're not helping themselves with an attack like this.
+[00:05:16.779 --> 00:05:18.459] KENNELLY: That's what I want you to communicate to them.
+[00:05:20.139 --> 00:05:22.379] PICARD: But this could be done through diplomatic channels, Admiral.
+[00:05:23.899 --> 00:05:25.099] PICARD: What do you really want of us?
+[00:05:26.379 --> 00:05:27.899] KENNELLY: Find this terrorist leader, Orta, and
+[00:05:28.699 --> 00:05:30.699] KENNELLY: get him back where he belongs any way you can.
+[00:05:32.859 --> 00:05:33.899] PICARD: Any way I can?
+[00:05:35.179 --> 00:05:37.419] KENNELLY: The Federation has dozens of settlements in that sector.
+[00:05:38.139 --> 00:05:39.819] KENNELLY: We can not allow the violence to continue.
+[00:05:40.539 --> 00:05:43.339] PICARD: And what do I have to offer Orta that might persuade him to cooperate?
+[00:05:44.379 --> 00:05:44.939] KENNELLY: Amnesty.
+[00:05:46.859 --> 00:05:47.419] PICARD: Admiral.
+[00:05:50.619 --> 00:05:54.779] KENNELLY: And a promise that we will immediately begin to address this issue with the Cardassians.
+[00:05:55.419 --> 00:05:59.739] KENNELLY: Quietly, behind the scenes, using every legitimate means possible.
+[00:05:59.889 --> 00:06:00.489] KENNELLY: But
+[00:06:01.499 --> 00:06:03.739] KENNELLY: the Bajora must be patient.
+[00:06:04.539 --> 00:06:08.299] PICARD: Admiral, they've endured generations of sympathy and promises.
+[00:06:09.419 --> 00:06:12.779] PICARD: How can I believe this Orta will be satisfied with more of the same?
+[00:06:13.499 --> 00:06:15.819] KENNELLY: It's your job to see to it that he does, Jean-Luc.
+[00:06:17.419 --> 00:06:18.459] RIKER: Riker to Captain Picard.
+[00:06:19.419 --> 00:06:19.899] PICARD: Go ahead.
+[00:06:20.619 --> 00:06:22.859] RIKER: Have you approved The transfer of a new officer to the Enterprise?
+[00:06:23.179 --> 00:06:23.579] PICARD: Negative
+[00:06:24.779 --> 00:06:28.139] RIKER: Well, we've got one, waiting to beam aboard complete with orders.
+[00:06:28.779 --> 00:06:30.059] RIKER: Ensign Ro Laren.
+[00:06:31.019 --> 00:06:31.659] PICARD: Ro Laren?
+[00:06:33.019 --> 00:06:33.659] PICARD: From the Wellington? :
+[00:06:34.139 --> 00:06:34.939] RIKER: The same one, sir.
+[00:06:35.899 --> 00:06:37.099] RIKER: Shall I tell her there's been some mistake?
+[00:06:38.859 --> 00:06:39.739] PICARD: Stand by, Commander.
+[00:06:41.099 --> 00:06:41.899] KENNELLY: I wrote the orders.
+[00:06:42.779 --> 00:06:44.219] KENNELLY: I thought she might be valuable to you.
+[00:06:45.899 --> 00:06:52.779] PICARD: Admiral, respectfully. I would appreciate consulting rights on the assignment of a new officer, especially one with the record of Ro Laren.
+[00:06:53.179 --> 00:06:54.059] KENNELLY: She's Bajoran.
+[00:06:54.699 --> 00:06:56.059] PICARD: There are other Bajorans in Starfleet.
+[00:06:56.059 --> 00:06:56.939] PICARD: Assign one of them.
+[00:06:57.019 --> 00:07:01.979] KENNELLY: I've discussed this situation with her, and I am convinced that she is the right one for this job.
+[00:07:03.579 --> 00:07:08.779] PICARD: After what happened on Garon Two, she has no business serving on any starship, let alone the flagship, my ship.
+[00:07:09.019 --> 00:07:10.379] KENNELLY: You're taking her, Captain.
+[00:07:11.339 --> 00:07:12.379] KENNELLY: It's been arranged.
+[00:07:16.459 --> 00:07:19.019] KENNELLY: I can't tell you how difficult it was to get her out of prison.
+[00:07:21.499 --> 00:07:22.459] PICARD: It's that important to you?
+[00:07:22.939 --> 00:07:25.019] KENNELLY: It's that important to the mission.
+[00:07:25.019 --> 00:07:25.979] PICARD: Picard to
+[00:07:27.499 --> 00:07:29.499] PICARD: Riker.
+[00:07:29.499 --> 00:07:30.459] RIKER: Go ahead.
+[00:07:31.179 --> 00:07:32.459] PICARD: Proceed with the transport.
+[00:07:32.459 --> 00:07:32.779] RIKER: Sir?
+[00:07:33.019 --> 00:07:33.339] PICARD: I'll
+[00:07:33.639 --> 00:07:34.359] PICARD: fill you in later.
+[00:07:34.920 --> 00:07:35.160] RIKER: Yes, sir.
+[00:07:36.600 --> 00:07:38.359] PICARD: I hope you and I don't regret this, Admiral.
+[00:07:39.480 --> 00:07:40.439] KENNELLY: You can handle her, Captain,
+[00:07:41.399 --> 00:07:42.040] KENNELLY: if anyone can.
+[00:07:58.600 --> 00:08:00.920] RO: Ensign Ro Laren reporting as ordered, Commander.
+[00:08:04.519 --> 00:08:07.959] RIKER: You will follow Starfleet uniform code aboard this ship, Ensign.
+[00:08:28.519 --> 00:08:33.559] RIKER: There will be members of this crew who will not want to serve with Ensign Laren, sir.
+[00:08:33.959 --> 00:08:34.999] PICARD: They'll have to learn to live with it.
+[00:08:36.839 --> 00:08:39.559] RIKER: I intend to demand the highest level of performance from her.
+[00:08:40.520 --> 00:08:41.799] PICARD: I would expect nothing less.
+[00:08:42.999 --> 00:08:43.719] PICARD: It won't be for long, Will.
+[00:08:44.920 --> 00:08:44.920] PICARD: Come.
+[00:08:49.880 --> 00:08:50.680] PICARD: Yes, Ensign Laren,
+[00:08:50.680 --> 00:08:51.239] PICARD: please have a seat.
+[00:08:51.320 --> 00:08:52.200] RO: Ensign Ro, sir.
+[00:08:52.760 --> 00:08:53.560] PICARD: I beg your pardon?
+[00:08:54.040 --> 00:08:57.479] RO: The Bajoran custom has the family name first, the individual's second.
+[00:08:57.479 --> 00:08:59.400] RO: I am properly addressed as Ensign Ro.
+[00:09:00.521 --> 00:09:01.481] PICARD: I'm sorry, I didn't know.
+[00:09:01.881 --> 00:09:03.001] RO: No, there's no reason you should.
+[00:09:03.801 --> 00:09:04.681] RO: It's an old custom.
+[00:09:05.241 --> 00:09:08.841] RO: Most Bajora these days accept the distortion of their names in order to assimilate.
+[00:09:10.761 --> 00:09:11.401] RO: I do not.
+[00:09:15.881 --> 00:09:17.401] PICARD: I wish to be candid with you, Ensign.
+[00:09:18.521 --> 00:09:19.081] RO: Please.
+[00:09:20.121 --> 00:09:27.641] PICARD: I'm fully aware of your Starfleet record, your problems on other ships, and the incident on Garon Two that led to your court martial.
+[00:09:28.521 --> 00:09:31.161] PICARD: And I'm concerned about your presence on this delicate mission.
+[00:09:31.881 --> 00:09:35.401] RO: I don't want to be here any more than you want me to be here, sir.
+[00:09:35.881 --> 00:09:37.481] RIKER: Then why did you accept this assignment?
+[00:09:38.441 --> 00:09:39.801] RO: If I may be equally candid?
+[00:09:42.681 --> 00:09:43.721] RO: It's better than prison.
+[00:09:45.001 --> 00:09:45.801] RIKER: Better than prison?
+[00:09:46.521 --> 00:09:48.841] RIKER: There are officers who wait years to serve on this ship.
+[00:09:48.841 --> 00:09:51.801] RO: Being called back into Starfleet was not my idea.
+[00:09:51.881 --> 00:09:52.681] RIKER: Nor ours.
+[00:09:53.801 --> 00:09:55.481] PICARD: Nevertheless, we will all be serving together.
+[00:09:56.121 --> 00:09:58.041] PICARD: Commander Riker and I have expectations of you.
+[00:09:58.041 --> 00:10:00.761] RO: Captain, I know the routine.
+[00:10:01.801 --> 00:10:03.161] RO: You don't have to worry about me.
+[00:10:03.721 --> 00:10:09.561] RO: We're stuck with each other. So let's just get this over with as quickly as possible and we can go our own separate ways, okay?
+[00:10:18.121 --> 00:10:18.601] PICARD: Dismissed.
+[00:10:21.401 --> 00:10:22.441] LOG: Captain's log, supplemental.
+[00:10:22.921 --> 00:10:26.281] LOG: We are approaching the Valo system on the outskirts of Cardassian territory,
+[00:10:26.441 --> 00:10:28.041] LOG: where many Bajorans have resettled.
+[00:10:29.481 --> 00:10:31.801] DATA: There are dozens of Bajoran camps on the three class-M
+[00:10:32.035 --> 00:10:32.355] DATA: planets.
+[00:10:33.075 --> 00:10:38.675] DATA: I suggest we may want to begin on Valo Three, where an adhoc leader named Jas Holza lives.
+[00:10:39.075 --> 00:10:40.675] DATA: The Federation has had several dealings with him.
+[00:10:41.155 --> 00:10:43.395] CRUSHER: I met Holza at a symposium a few years ago.
+[00:10:43.715 --> 00:10:44.915] PICARD: What can you tell us about him, Doctor?
+[00:10:45.715 --> 00:10:51.715] CRUSHER: I found him to be a very concerned leader and a good spokesman for his people. And a terrific dancer.
+[00:10:52.995 --> 00:10:54.275] CRUSHER: No, really, I'm serious.
+[00:10:54.755 --> 00:10:56.435] CRUSHER: At a reception afterwards.
+[00:10:56.995 --> 00:10:59.635] TROI: At least this man has genuine experience in diplomacy.
+[00:11:00.035 --> 00:11:01.715] PICARD: And that's a big advantage on this mission.
+[00:11:02.275 --> 00:11:04.768] PICARD: Very well. Mister Data, will you contact Holza, arrange a meeting?
+[00:11:04.768 --> 00:11:04.995] DATA: Sir.
+[00:11:07.235 --> 00:11:09.795] RIKER: Ensign Ro, you're familiar with this star system.
+[00:11:09.795 --> 00:11:10.435] RIKER: You'll take the conn.
+[00:11:13.155 --> 00:11:14.115] RIKER: Is there a problem, Ensign?
+[00:11:15.635 --> 00:11:16.755] RO: You're wasting your time.
+[00:11:17.715 --> 00:11:18.915] RO: Holza is nobody.
+[00:11:19.875 --> 00:11:25.075] RO: He's the token Bajoran that respectable people invite to symposiums and diplomatic soirees.
+[00:11:26.035 --> 00:11:27.955] RO: But he has no real influence among my people.
+[00:11:28.995 --> 00:11:30.675] DATA: Ensign, whom do you suggest we speak to?
+[00:11:32.435 --> 00:11:33.635] RO: Don't you understand?
+[00:11:33.635 --> 00:11:36.755] RO: These are desperate people ready to martyr themselves.
+[00:11:37.315 --> 00:11:38.435] RO: They don't want to talk.
+[00:11:38.915 --> 00:11:41.235] WORF: This ship is prepared to defend itself if necessary.
+[00:11:41.795 --> 00:11:42.435] RO: Oh, it will be.
+[00:11:42.755 --> 00:11:43.635] RO: Don't fool yourself.
+[00:11:45.075 --> 00:11:46.435] RO: This mission will end in bloodshed.
+[00:11:48.435 --> 00:11:49.875] PICARD: Well, let's hope that you're mistaken, Ensign.
+[00:11:51.075 --> 00:11:53.635] PICARD: But can you point us at the right individual, as Mister Data suggested?
+[00:11:55.715 --> 00:11:58.755] RO: I would go to the camp on the southern continent of Valo Two.
+[00:11:59.880 --> 00:12:01.880] RO: Find a man named Keeve Falor.
+[00:12:02.760 --> 00:12:07.080] RO: He has no diplomatic experience. And he won't ask you to dance.
+[00:12:14.760 --> 00:12:15.960] LOG: Captain's log, supplemental.
+[00:12:15.960 --> 00:12:21.240] LOG: I read about the achievements of the ancient Bajoran civilisation in my fifth grade reader.
+[00:12:21.880 --> 00:12:28.200] LOG: They were architects and artists, builders and philosophers when humans were not yet standing erect.
+[00:12:29.320 --> 00:12:31.720] LOG: Now I see how history has rewarded them.
+[00:12:43.880 --> 00:12:44.840] RO: This used to be me.
+[00:12:48.200 --> 00:12:48.600] KEEVE: Baleekam.
+[00:12:48.920 --> 00:12:49.160] KEEVE: Balleek,
+[00:12:49.240 --> 00:12:49.560] KEEVE: balleek.
+[00:12:49.560 --> 00:12:51.080] KEEVE: Baleekam!
+[00:12:51.400 --> 00:12:51.640] KEEVE: Baleek.
+[00:12:51.640 --> 00:12:51.800] KEEVE: Ro
+[00:12:57.080 --> 00:12:57.480] KEEVE: Laren.
+[00:12:58.840 --> 00:12:59.720] KEEVE: It's been a long time.
+[00:13:01.160 --> 00:13:04.760] RO: Keeve Falor, Captain Jean-Luc Picard, Commander Data and Lieutenant Worf.
+[00:13:05.880 --> 00:13:07.880] PICARD: I'm pleased you agreed to meet with us, Mister Keeve.
+[00:13:08.920 --> 00:13:11.000] KEEVE: You honour me by the proper use of my name, Captain.
+[00:13:12.200 --> 00:13:13.480] PICARD: Ensign Ro has educated me.
+[00:13:13.960 --> 00:13:14.360] KEEVE: Has she?
+[00:13:15.400 --> 00:13:16.600] KEEVE: I'm pleased you still remember.
+[00:13:18.040 --> 00:13:18.920] KEEVE: Let me show you our camp.
+[00:13:23.880 --> 00:13:25.240] KEEVE: We are not a violent race, Captain.
+[00:13:26.005 --> 00:13:30.805] KEEVE: Just passionate about our cause. And that passion has led some to take up arms.
+[00:13:31.045 --> 00:13:32.405] PICARD: Do you know where we can find Orta?
+[00:13:33.045 --> 00:13:33.765] KEEVE: I'm afraid not.
+[00:13:35.445 --> 00:13:36.565] PICARD: Can you help us locate him?
+[00:13:37.525 --> 00:13:38.885] KEEVE: I'm sorry, I don't wish to help you.
+[00:13:40.005 --> 00:13:40.805] KEEVE: Don't misunderstand.
+[00:13:41.525 --> 00:13:44.805] KEEVE: I for one believe the raid on the Federation outpost was poor judgment.
+[00:13:45.525 --> 00:13:50.245] KEEVE: You are innocent bystanders, and I cannot condone violence against those who are not our enemies.
+[00:13:51.045 --> 00:13:52.965] PICARD: Then I don't understand why you are unwilling?
+[00:13:53.125 --> 00:13:55.445] KEEVE: Because you are innocent bystanders.
+[00:13:55.845 --> 00:14:04.565] KEEVE: You were innocent bystanders for decades as the Cardassians took our homes, as they violated and tortured our people in the most hideous ways imaginable, as we were forced to flee.
+[00:14:05.205 --> 00:14:10.864] PICARD: We were saddened by those events but they occurred within the designated borders of the Cardassian Empire.
+[00:14:10.864 --> 00:14:15.525] KEEVE: And the Federation is pledged not to interfere in the internal affairs of others.
+[00:14:16.645 --> 00:14:22.405] KEEVE: How convenient that must be for you, to turn a deaf ear to those who suffer behind a line on a map.
+[00:14:22.645 --> 00:14:28.521] PICARD: Well, I'm not here to debate Federation policy with you, but I can offer you assistance.
+[00:14:28.521 --> 00:14:30.725] KEEVE: Simply because of one terrorist attack?
+[00:14:31.605 --> 00:14:33.845] KEEVE: Perhaps I should have known that.
+[00:14:35.125 --> 00:14:36.885] KEEVE: We should have attacked the Federation long ago.
+[00:14:39.045 --> 00:14:40.005] KEEVE: What do you think of that, Ro?
+[00:14:41.205 --> 00:14:45.765] RO: I think you're a small man who feels a rush of power in his belly and enjoys it far too much, Keeve.
+[00:14:45.765 --> 00:14:46.485] RO: Stop talking and listen.
+[00:14:46.965 --> 00:14:52.725] PICARD: We've had our problems with the Cardassians too, but now that we have a treaty, we're in a position to help.
+[00:14:54.085 --> 00:14:56.085] PICARD: Your people have been forced to resettle
+[00:14:56.605 --> 00:15:01.725] PICARD: all over the quadrant. But now we can make a legitimate case with the Cardassians that
+[00:15:01.725 --> 00:15:03.405] PICARD: this is not an isolated problem.
+[00:15:03.405 --> 00:15:08.925] PICARD: We can work diplomatically on your behalf. But first, these terrorist attacks must end.
+[00:15:10.525 --> 00:15:12.285] KEEVE: We live in different universes, you and I.
+[00:15:13.325 --> 00:15:15.965] KEEVE: Yours is about diplomacy, politics, strategy.
+[00:15:16.765 --> 00:15:18.285] KEEVE: Mine is about blankets.
+[00:15:19.565 --> 00:15:23.565] KEEVE: If we were to exchange places for one night, you might better understand.
+[00:15:26.205 --> 00:15:31.165] PICARD: Mister Data, see to it that the replicators provide a blanket for every man, woman and child before nightfall.
+[00:15:31.645 --> 00:15:32.045] DATA: Aye, sir.
+[00:15:32.285 --> 00:15:37.085] PICARD: Mister Worf, determine what these people may have in the way of emergency needs and provide for them.
+[00:15:37.405 --> 00:15:37.805] WORF: Yes, sir.
+[00:15:39.565 --> 00:15:39.885] KEEVE: Thank you.
+[00:15:41.565 --> 00:15:42.285] KEEVE: Return to your ship.
+[00:15:43.485 --> 00:15:48.445] KEEVE: I will contact you when I have any information that might be of assistance to you. Ensign.
+[00:15:56.765 --> 00:15:57.245] PICARD: You were helpful.
+[00:15:58.525 --> 00:15:59.725] RO: The blankets were helpful.
+[00:16:00.685 --> 00:16:01.645] RO: Nothing I said mattered.
+[00:16:04.045 --> 00:16:07.405] PICARD: In an age when their technology should be able to clothe and feed all of them, that
+[00:16:09.245 --> 00:16:10.205] PICARD: they should have to live like this.
+[00:16:11.725 --> 00:16:13.485] RO: I couldn't, and I wouldn't.
+[00:16:14.685 --> 00:16:15.725] RO: That's one reason I ran away.
+[00:16:17.725 --> 00:16:19.485] RO: They're lost, defeated.
+[00:16:22.091 --> 00:16:22.571] RO: I will never
+[00:16:36.811 --> 00:16:37.278] RO: be.
+[00:16:37.278 --> 00:16:39.611] LOG: Captain's log, stardate 45077.8. Keeve
+[00:16:40.171 --> 00:16:47.611] LOG: Falor has kept his promise and directed us toward the third moon of Valo One, where we will meet tomorrow with the terrorist leader, Orta.
+[00:16:47.611 --> 00:16:47.691] TROI: Do
+[00:16:57.771 --> 00:16:58.571] TROI: you mind if we join you?
+[00:17:00.571 --> 00:17:00.971] RO: Yes.
+[00:17:01.121 --> 00:17:01.721] LAFORGE: I'll
+[00:17:09.211 --> 00:17:09.771] LAFORGE: tell you one thing.
+[00:17:10.251 --> 00:17:13.691] LAFORGE: If I find myself on an away team with Ensign Ro, I won't turn my back on her.
+[00:17:14.571 --> 00:17:16.731] GUINAN: Perhaps the Captain thought she'd be valuable on the mission?
+[00:17:16.731 --> 00:17:17.931] LAFORGE: That was orders.
+[00:17:17.931 --> 00:17:18.571] LAFORGE: Had to be.
+[00:17:19.611 --> 00:17:20.651] LAFORGE: She doesn't belong here.
+[00:17:20.731 --> 00:17:23.051] LAFORGE: She doesn't even belong in the uniform, as far as I'm concerned.
+[00:17:23.931 --> 00:17:24.331] GUINAN: Really?
+[00:17:24.731 --> 00:17:25.211] LAFORGE: Really.
+[00:17:26.091 --> 00:17:27.531] GUINAN: Sounds like someone I'd like to know.
+[00:17:27.931 --> 00:17:28.491] GUINAN: Excuse me.
+[00:17:31.771 --> 00:17:35.691] GUINAN: Am I disturbing you?
+[00:17:36.171 --> 00:17:36.491] RO: Yes.
+[00:17:37.451 --> 00:17:37.771] GUINAN: Good.
+[00:17:38.891 --> 00:17:40.811] GUINAN: You look like someone who wants to be disturbed.
+[00:17:41.131 --> 00:17:41.531] RO: I'd rather be alone.
+[00:17:41.611 --> 00:17:42.891] GUINAN: Oh, no you wouldn't.
+[00:17:43.041 --> 00:17:43.641] RO: I
+[00:17:44.411 --> 00:17:44.891] RO: beg your pardon?
+[00:17:45.771 --> 00:17:48.091] GUINAN: If you wanted to be alone, you would've stayed in your quarters.
+[00:17:48.331 --> 00:17:50.491] GUINAN: The only reason to come here is to be amongst people.
+[00:17:51.851 --> 00:17:52.651] RO: Who are you?
+[00:17:53.211 --> 00:17:54.011] GUINAN: My name is Guinan.
+[00:17:54.569 --> 00:17:56.809] GUINAN: I tend bar, and I listen.
+[00:17:59.129 --> 00:18:00.089] RO: Heard anything interesting?
+[00:18:00.729 --> 00:18:01.929] GUINAN: Everyone's talking about you.
+[00:18:03.609 --> 00:18:04.649] RO: Heard anything interesting?
+[00:18:05.449 --> 00:18:06.249] GUINAN: Mmm hmm.
+[00:18:07.769 --> 00:18:08.009] RO: Well,
+[00:18:09.529 --> 00:18:10.409] RO: it's all true.
+[00:18:11.689 --> 00:18:13.609] GUINAN: I believe truth is in the eye of the beholder.
+[00:18:16.009 --> 00:18:18.057] RO: Isn't that supposed to be beauty?
+[00:18:18.057 --> 00:18:21.129] GUINAN: Truth, beauty. It works for a lot of things.
+[00:18:24.009 --> 00:18:26.569] GUINAN: They say you never told the true story about Galon Two.
+[00:18:27.689 --> 00:18:30.329] GUINAN: They also say you didn't defend yourself at your court martial.
+[00:18:31.609 --> 00:18:32.649] RO: What was to defend?
+[00:18:33.449 --> 00:18:34.649] RO: I didn't follow orders.
+[00:18:35.049 --> 00:18:36.489] RO: Eight members of the away team died.
+[00:18:37.769 --> 00:18:38.329] GUINAN: Your fault?
+[00:18:39.369 --> 00:18:40.409] RO: Yeah, my fault.
+[00:18:41.369 --> 00:18:44.569] GUINAN: So you sit alone in crowded rooms staring at your drink.
+[00:18:49.369 --> 00:18:50.489] GUINAN: I think you enjoy
+[00:18:53.049 --> 00:18:53.049] GUINAN: it.
+[00:18:53.209 --> 00:18:54.009] RO: I enjoy it?
+[00:18:54.729 --> 00:18:59.289] GUINAN: You work so hard at torturing yourself, I can only think you must enjoy it.
+[00:18:59.609 --> 00:19:00.169] RO: Who are you?
+[00:19:00.969 --> 00:19:02.889] GUINAN: I told you. I'm Guinan.
+[00:19:03.609 --> 00:19:05.449] GUINAN: I tend bar, and I listen.
+[00:19:06.329 --> 00:19:07.929] RO: You're not like any bartender I ever met before.
+[00:19:09.529 --> 00:19:12.409] GUINAN: And you're not like any Starfleet officer I've ever met before,
+[00:19:13.129 --> 00:19:17.209] GUINAN: but that sounds like the beginning of a very interesting friendship.
+[00:19:17.209 --> 00:19:17.289] RO: I
+[00:19:19.129 --> 00:19:20.649] RO: don't stay anywhere long enough to make friends.
+[00:19:22.729 --> 00:19:23.209] GUINAN: Too late.
+[00:19:24.729 --> 00:19:25.289] GUINAN: You just did.
+[00:19:27.020 --> 00:19:27.580] GUINAN: Excuse me.
+[00:19:32.860 --> 00:19:33.900] CREWWOMAN: Bridge to Ensign Ro.
+[00:19:35.180 --> 00:19:35.580] RO: Go ahead.
+[00:19:36.140 --> 00:19:38.300] CREWWOMAN: Subspace communication coming in for you, Ensign.
+[00:19:40.220 --> 00:19:40.620] RO: Thank you.
+[00:19:49.820 --> 00:19:52.940] RO: Computer, direct subspace transmission to monitor.
+[00:19:55.500 --> 00:19:56.380] KENNELLY: Your report, Ensign.
+[00:19:57.740 --> 00:19:59.740] RO: Everything is going exactly as you predicted, Admiral.
+[00:20:06.860 --> 00:20:10.620] PICARD: Any indications of weapons or vessels beneath the surface?
+[00:20:10.780 --> 00:20:12.913] RIKER: The composition of the moon's crust is blocking the sensors.
+[00:20:12.913 --> 00:20:15.900] PICARD: Which is very likely why they chose this moon for their base of operations.
+[00:20:18.380 --> 00:20:19.500] RIKER: We're on a timetable here.
+[00:20:19.500 --> 00:20:19.820] RIKER: Where's Ro?
+[00:20:19.820 --> 00:20:19.980] PICARD: Captain
+[00:20:20.860 --> 00:20:21.740] PICARD: Picard to Ensign Ro.
+[00:20:23.740 --> 00:20:24.780] DATA: Computer, locate Ensign Ro.
+[00:20:25.020 --> 00:20:27.500] COMPUTER: Ensign Ro is not on board the Enterprise.
+[00:20:28.300 --> 00:20:29.340] WORF: Check the transport log.
+[00:20:31.740 --> 00:20:33.500] COLLINS: She beamed down almost six hours ago, sir.
+[00:20:34.860 --> 00:20:36.220] PICARD: Any activity at the meeting site?
+[00:20:37.980 --> 00:20:38.300] CHIEF: No, sir.
+[00:20:38.300 --> 00:20:39.020] CHIEF: They didn't show up.
+[00:20:39.420 --> 00:20:40.540] RIKER: What the hell is going on?
+[00:20:40.940 --> 00:20:42.940] PICARD: Prepare to transport us to the same location Ensign Ro
+[00:20:43.100 --> 00:20:43.500] PICARD: beamed to.
+[00:20:43.500 --> 00:20:45.100] PICARD: Mister Worf,
+[00:20:45.660 --> 00:20:46.060] PICARD: phasers.
+[00:20:59.127 --> 00:21:01.367] DATA: I am picking up molecular displacement traces.
+[00:21:01.927 --> 00:21:04.567] DATA: That suggests movement through this area during the last ten hours.
+[00:21:04.887 --> 00:21:06.247] PICARD: See if we can determine their direction.
+[00:21:06.327 --> 00:21:07.287] PICARD: Standard search pattern.
+[00:21:08.807 --> 00:21:10.087] WORF: Maintain tricorder security link.
+[00:21:10.887 --> 00:21:11.287] PICARD: Mister Worf,
+[00:21:11.687 --> 00:21:12.247] PICARD: you come with me.
+[00:21:33.367 --> 00:21:36.247] TROI: Data, I'm picking up energy fluctuations over here.
+[00:21:37.687 --> 00:21:38.407] TROI: Troi to Picard.
+[00:21:40.807 --> 00:21:41.767] TROI: Captain, acknowledge.
+[00:21:42.967 --> 00:21:43.607] DATA: Data to Picard.
+[00:21:44.967 --> 00:21:45.607] DATA: Data to Worf.
+[00:21:45.607 --> 00:21:45.607] BAJORAN: Hold it.
+[00:21:48.007 --> 00:21:48.407] ORTA: Captain Picard,
+[00:21:48.567 --> 00:21:48.567] ORTA: I
+[00:21:52.327 --> 00:21:52.567] ORTA: am Orta. Please
+[00:21:52.967 --> 00:21:53.127] ORTA: forgive my
+[00:21:56.487 --> 00:21:56.487] ORTA: appearance.
+[00:22:24.852 --> 00:22:28.292] ORTA: Unfortunately, some years ago, as a guest of the Cardassians,
+[00:22:28.692 --> 00:22:29.892] ORTA: my face was mutilated.
+[00:22:30.132 --> 00:22:33.572] ORTA: My vocal cords were cut.
+[00:22:34.532 --> 00:22:36.052] PICARD: It was not necessary to abduct us.
+[00:22:36.532 --> 00:22:41.172] ORTA: I am sorry, but after speaking with Ro Laren, I decided that it was.
+[00:22:42.292 --> 00:22:43.732] PICARD: Then she has done us both a disservice.
+[00:22:44.852 --> 00:22:45.972] PICARD: I am committed to peace.
+[00:22:46.932 --> 00:22:48.772] ORTA: I am not at all interested in peace.
+[00:22:49.492 --> 00:22:51.412] ORTA: And I am not convinced you are,
+[00:22:53.012 --> 00:22:53.012] ORTA: either.
+[00:22:53.012 --> 00:22:55.732] RO: Captain, I did not come here to undermine this mission.
+[00:22:56.212 --> 00:22:59.412] PICARD: Whatever your motives, you've already done enough to damage these negotiations.
+[00:22:59.652 --> 00:23:01.652] RO: I came here to convince these people to listen to you.
+[00:23:01.652 --> 00:23:03.492] RO: I didn't want this to end in bloodshed.
+[00:23:04.372 --> 00:23:05.412] PICARD: There will be no bloodshed.
+[00:23:05.892 --> 00:23:07.172] RO: You don't know all the facts, sir.
+[00:23:08.772 --> 00:23:10.452] PICARD: Then perhaps you would share them with me, Ensign.
+[00:23:10.772 --> 00:23:12.612] ORTA: All is not what it seems to be, Captain.
+[00:23:13.652 --> 00:23:15.812] ORTA: Perhaps someone is using you to get to me.
+[00:23:16.452 --> 00:23:18.372] ORTA: Perhaps you are a victim of this deception
+[00:23:18.372 --> 00:23:19.972] ORTA: as well. I do not know.
+[00:23:20.292 --> 00:23:20.852] PICARD: Deception?
+[00:23:21.652 --> 00:23:24.292] ORTA: Your mission was to seek out the Bajoran terrorists
+[00:23:24.292 --> 00:23:27.172] ORTA: who destroyed the Federation settlement on Solarion Four.
+[00:23:27.812 --> 00:23:28.132] PICARD: Yes.
+[00:23:28.532 --> 00:23:32.692] ORTA: As I have informed Ro Laren, it was not the Bajora.
+[00:23:34.452 --> 00:23:37.812] WORF: He admits responsibility for
+[00:23:46.532 --> 00:23:48.932] WORF: dozens of attacks on Cardassian targets.
+[00:23:49.172 --> 00:23:51.092] WORF: Why should we believe him about Solarion Four?
+[00:23:51.271 --> 00:23:52.471] RO: He has no reason to lie.
+[00:23:52.791 --> 00:23:54.071] WORF: He fears our reprisal.
+[00:23:54.631 --> 00:23:56.711] TROI: I perceived no fear or deception from him.
+[00:23:57.351 --> 00:23:59.831] WORF: If they did not attack Solarion Four, then who did?
+[00:24:00.471 --> 00:24:03.111] WORF: And why would anyone want to falsely implicate the Bajora?
+[00:24:03.831 --> 00:24:06.071] DATA: Perhaps someone wanted to draw us into the conflict.
+[00:24:06.791 --> 00:24:09.271] RO: What would anyone gain by doing that?
+[00:24:09.271 --> 00:24:11.431] PICARD: Ensign Ro, may I see you in my Ready room?
+[00:24:12.631 --> 00:24:12.951] RO: Yes, sir.
+[00:24:19.831 --> 00:24:23.671] PICARD: You do not leave this ship without authorisation.
+[00:24:24.071 --> 00:24:25.111] RO: Captain, I'm sorry, but I
+[00:24:25.111 --> 00:24:26.151] PICARD: This is not a discussion.
+[00:24:26.871 --> 00:24:29.031] PICARD: You're restricted to your quarters for the remainder of this mission.
+[00:24:29.431 --> 00:24:29.911] PICARD: Dismissed.
+[00:24:54.871 --> 00:24:55.271] RO: What?
+[00:24:57.031 --> 00:24:57.511] GUINAN: Hello,
+[00:24:58.711 --> 00:24:59.511] GUINAN: it's me, Guinan.
+[00:25:00.951 --> 00:25:01.991] GUINAN: I heard you got grounded.
+[00:25:02.471 --> 00:25:04.151] RO: I really don't feel like talking right now.
+[00:25:05.751 --> 00:25:06.551] GUINAN: Come on, sure you do.
+[00:25:08.071 --> 00:25:11.271] RO: Why is it, every time I tell you something, you tell me I mean the exact opposite?
+[00:25:12.071 --> 00:25:15.031] GUINAN: Because you're one of those people who's got their poles reversed.
+[00:25:17.991 --> 00:25:18.871] GUINAN: Do you want to talk about it?
+[00:25:20.112 --> 00:25:21.712] RO: It's nothing you can help me with.
+[00:25:22.512 --> 00:25:23.872] GUINAN: How do you know until you try?
+[00:25:24.912 --> 00:25:26.272] RO: Look, I got myself into this.
+[00:25:26.272 --> 00:25:27.632] RO: I'm just trying to figure a way out.
+[00:25:27.712 --> 00:25:28.192] RO: That's all.
+[00:25:29.952 --> 00:25:31.552] RO: Without anyone getting killed this time.
+[00:25:36.432 --> 00:25:38.912] RO: Seems like everybody's just pulling my strings,
+[00:25:38.912 --> 00:25:40.272] RO: you know? Like I've got no control.
+[00:25:49.552 --> 00:25:55.792] GUINAN: For people like you and me, who've lost their homes, sometimes that's the way life feels.
+[00:26:01.792 --> 00:26:02.512] RO: I'm in trouble.
+[00:26:06.032 --> 00:26:08.912] RO: There's more going on here than anybody on this ship realises.
+[00:26:10.992 --> 00:26:12.112] RO: It's more than I know how to deal with.
+[00:26:14.192 --> 00:26:16.032] RO: And I really don't know who to trust anymore.
+[00:26:17.632 --> 00:26:18.512] GUINAN: Including yourself?
+[00:26:18.832 --> 00:26:20.832] RO: Especially myself.
+[00:26:25.232 --> 00:26:27.152] GUINAN: You know, a very long time ago,
+[00:26:28.832 --> 00:26:32.752] GUINAN: I got into some serious trouble too. And I mean serious.
+[00:26:34.032 --> 00:26:35.392] GUINAN: And I'd probably still be there
+[00:26:37.072 --> 00:26:38.672] GUINAN: if I hadn't trusted one man.
+[00:26:41.232 --> 00:26:41.632] PICARD: Come.
+[00:26:47.792 --> 00:26:50.032] GUINAN: Ensign Ro has some things she'd like to talk to you about.
+[00:26:52.038 --> 00:26:55.158] PICARD: Ensign Ro has been confined to her quarters.
+[00:26:57.158 --> 00:26:59.398] GUINAN: Well, she can go back to her quarters when she's done.
+[00:27:00.838 --> 00:27:03.792] PICARD: Guinan, I don't know why you are involved in this, but
+[00:27:03.792 --> 00:27:04.598] GUINAN: She's my friend.
+[00:27:15.798 --> 00:27:16.358] PICARD: Please sit down.
+[00:27:22.678 --> 00:27:25.318] PICARD: Guinan is very selective about whom she calls a friend.
+[00:27:28.998 --> 00:27:35.958] RO: Sir, when I'm finished telling you what I have to tell you, I'm probably going to end up back in the stockade one way or the other. And if that's how this has to be, then
+[00:27:38.438 --> 00:27:39.478] RO: I just can't do this anymore.
+[00:27:41.158 --> 00:27:42.438] PICARD: What can you not do anymore, Ensign?
+[00:27:44.758 --> 00:27:49.238] RO: Admiral Kennelly came to me in prison and told me he'd arrange to get me out if I'd go on a mission.
+[00:27:49.878 --> 00:27:50.518] PICARD: I know that part.
+[00:27:51.638 --> 00:27:53.398] RO: No, sir. Not this mission.
+[00:27:54.278 --> 00:27:56.118] RO: One for him and only him.
+[00:27:57.158 --> 00:27:59.558] RO: You were being sent to talk, to negotiate.
+[00:28:00.358 --> 00:28:01.798] RO: The Admiral knew that was hopeless.
+[00:28:02.838 --> 00:28:05.398] RO: My job was to give Orta an incentive.
+[00:28:06.918 --> 00:28:07.638] PICARD: What kind of incentive?
+[00:28:08.438 --> 00:28:09.398] RO: One that you couldn't offer.
+[00:28:10.358 --> 00:28:11.718] RO: One that Starfleet couldn't offer.
+[00:28:12.678 --> 00:28:16.838] RO: Orta was to end the terrorism against the Federation and return with his people to the camps.
+[00:28:17.398 --> 00:28:21.398] RO: In exchange he would get weapons, ships,
+[00:28:21.412 --> 00:28:25.012] RO: things that would really make a difference against the Cardassians in the future.
+[00:28:25.732 --> 00:28:27.412] PICARD: I find that almost impossible to believe.
+[00:28:29.252 --> 00:28:32.612] PICARD: That Admiral Kennelly would consider supplying weapons to the terrorists?
+[00:28:33.252 --> 00:28:34.692] RO: If you ask him, he'll deny it.
+[00:28:35.572 --> 00:28:36.212] RO: But it's true.
+[00:28:36.852 --> 00:28:38.932] RO: I didn't leave the ship without authorisation, Captain.
+[00:28:39.012 --> 00:28:40.612] RO: I received it from the Admiral last night.
+[00:28:43.252 --> 00:28:45.812] PICARD: You have been in contact with Admiral Kennelly during this mission?
+[00:28:46.532 --> 00:28:46.852] RO: Yes, sir.
+[00:28:47.332 --> 00:28:50.292] RO: The subspace log can confirm that part of it at least.
+[00:29:03.812 --> 00:29:07.412] PICARD: Arming these people is a violation of everything that the Federation stands for.
+[00:29:08.772 --> 00:29:10.292] PICARD: Even you cannot be blind to that.
+[00:29:11.652 --> 00:29:12.292] RO: No, sir, I'm not.
+[00:29:13.732 --> 00:29:15.012] RO: But this was something I had to do.
+[00:29:16.212 --> 00:29:17.092] RO: You see, Captain,
+[00:29:18.612 --> 00:29:19.732] RO: when I was seven years old
+[00:29:21.252 --> 00:29:22.852] RO: I was given a piece of sugar candy
+[00:29:25.252 --> 00:29:28.372] RO: and I was led by a Cardassian into a room where my father was sitting.
+[00:29:31.332 --> 00:29:33.252] RO: And he looked at me with eyes I'd never seen.
+[00:29:36.692 --> 00:29:39.012] RO: The Cardassian began to ask him questions,
+[00:29:41.412 --> 00:29:42.852] RO: and during the next two hours,
+[00:29:44.452 --> 00:29:45.732] RO: as I was forced to watch,
+[00:29:50.345 --> 00:29:52.185] RO: my father was tortured until he died.
+[00:29:54.905 --> 00:29:56.025] RO: And I remember feeling
+[00:29:58.345 --> 00:30:00.905] RO: so ashamed of him as he begged for mercy.
+[00:30:03.145 --> 00:30:04.985] RO: I was ashamed of him for being weak.
+[00:30:08.105 --> 00:30:09.785] RO: I was ashamed of being Bajoran.
+[00:30:12.505 --> 00:30:15.545] RO: Later I began to understand how misguided those feelings were. And
+[00:30:17.785 --> 00:30:19.705] RO: yet somehow, they have remained a part of me.
+[00:30:23.225 --> 00:30:25.705] RO: I don't want to be ashamed of my heritage any longer, Captain.
+[00:30:28.665 --> 00:30:29.785] RO: I serve the Federation.
+[00:30:31.625 --> 00:30:32.505] RO: But I am Bajoran.
+[00:30:32.505 --> 00:30:32.505] RO: A
+[00:30:34.345 --> 00:30:39.225] RO: Starfleet Admiral presented me with an opportunity to help my people in their fight against the Cardassians.
+[00:30:41.065 --> 00:30:41.865] RO: I had to accept it.
+[00:30:47.625 --> 00:30:48.745] PICARD: Have you made this offer to Orta?
+[00:30:49.465 --> 00:30:49.785] RO: No.
+[00:30:51.865 --> 00:30:56.425] RO: After he told me the Bajora hadn't attacked Solarion Four, nothing made sense anymore.
+[00:30:56.425 --> 00:30:58.745] RO: I decided to wait until I could figure out what was going on.
+[00:30:58.985 --> 00:31:00.025] PICARD: That was a wise choice, Ensign.
+[00:31:00.105 --> 00:31:01.865] PICARD: It probably saved you from another court martial.
+[00:31:05.305 --> 00:31:07.865] PICARD: Have you briefed Admiral Kennelly since we returned from the surface?
+[00:31:08.345 --> 00:31:09.065] RO: No, sir.
+[00:31:11.065 --> 00:31:12.905] RO: Captain, I don't know who to trust anymore.
+[00:31:14.665 --> 00:31:17.225] RO: But that strange bartender of yours has a way of getting to you, and
+[00:31:18.066 --> 00:31:19.106] RO: she said that you were her friend.
+[00:31:20.866 --> 00:31:22.226] PICARD: Then we have one thing in common.
+[00:31:25.986 --> 00:31:30.306] PICARD: Do you think that Orta would cooperate with us to determine the truth here?
+[00:31:32.546 --> 00:31:33.746] RO: I think I could persuade him to.
+[00:31:34.386 --> 00:31:34.706] PICARD: Good.
+[00:31:36.146 --> 00:31:39.346] PICARD: Our orders were to find him, to bring him back to the camps any way we could.
+[00:31:40.706 --> 00:31:42.226] PICARD: Perhaps that is exactly what we should do.
+[00:31:43.746 --> 00:31:44.226] RO: And then what?
+[00:31:46.306 --> 00:31:46.706] PICARD: And then watch
+[00:31:46.786 --> 00:31:47.426] PICARD: what happens.
+[00:31:58.466 --> 00:31:59.506] LOG: Captain's log, supplemental.
+[00:32:00.146 --> 00:32:03.346] LOG: I have become convinced that we are somehow involved in a conspiracy.
+[00:32:03.826 --> 00:32:07.266] LOG: I am hopeful the purpose behind it will be revealed in the next few hours.
+[00:32:08.466 --> 00:32:09.266] KENNELLY: Well done, Captain.
+[00:32:10.066 --> 00:32:11.266] PICARD: It was a team effort, Admiral.
+[00:32:11.746 --> 00:32:13.026] PICARD: Ensign Ro was invaluable.
+[00:32:13.506 --> 00:32:13.826] KENNELLY: Good.
+[00:32:14.466 --> 00:32:15.186] KENNELLY: What's the next step?
+[00:32:15.586 --> 00:32:20.546] PICARD: The Enterprise will escort a Bajoran Antares class carrier to the Valo Three camp at oh five hundred hours.
+[00:32:20.626 --> 00:32:22.226] PICARD: Orta and his people will be aboard.
+[00:32:22.546 --> 00:32:22.706] KENNELLY: Good.
+[00:32:23.186 --> 00:32:24.546] KENNELLY: Keep us advised of your progress.
+[00:32:25.106 --> 00:32:25.666] PICARD: Acknowledged.
+[00:32:26.066 --> 00:32:28.226] PICARD: How's that Cardassian virus, Admiral?
+[00:32:29.666 --> 00:32:30.706] KENNELLY: A lot better, thank you.
+[00:32:31.426 --> 00:32:31.986] PICARD: I'm pleased.
+[00:32:33.186 --> 00:32:34.866] PICARD: We will report as soon as our mission is accomplished.
+[00:32:35.106 --> 00:32:35.506] PICARD: Picard out.
+[00:32:36.626 --> 00:32:38.866] RIKER: Ensign Ro, take us to the designated coordinates.
+[00:32:39.106 --> 00:32:39.586] RO: Aye, sir.
+[00:32:39.826 --> 00:32:42.066] PICARD: Mister Data, keep an eye on the Cardassian border.
+[00:32:42.226 --> 00:32:42.626] DATA: Aye, sir.
+[00:32:53.036 --> 00:32:55.196] WORF: The Bajoran vessel is moving up from the surface, Captain.
+[00:32:56.076 --> 00:32:56.396] PICARD: On screen.
+[00:33:02.396 --> 00:33:03.116] PICARD: Hail them, Mister Worf.
+[00:33:04.556 --> 00:33:05.436] WORF: Audio channel open.
+[00:33:05.756 --> 00:33:07.516] WORF: The ship does not have visual capabilities.
+[00:33:08.396 --> 00:33:09.676] PICARD: This is Captain Picard.
+[00:33:09.836 --> 00:33:11.436] PICARD: We're prepared to escort you to Valo Three.
+[00:33:12.236 --> 00:33:13.436] WOMAN: Acknowledged, Captain.
+[00:33:13.676 --> 00:33:16.396] WOMAN: Be advised that our ship is limited to half impulse.
+[00:33:17.116 --> 00:33:19.516] PICARD: Ensign Ro, set a course for Valo Three, half impulse.
+[00:33:19.996 --> 00:33:20.316] RO: Aye, sir.
+[00:33:24.396 --> 00:33:26.396] DATA: I
+[00:33:29.756 --> 00:33:33.676] DATA: am monitoring increased activity inside Cardassian space.
+[00:33:34.316 --> 00:33:38.236] DATA: Two ships are moving along the border heading one four two mark zero five one.
+[00:33:38.476 --> 00:33:40.316] PICARD: Can you identify the class of these ships, Mister Worf?
+[00:33:41.516 --> 00:33:44.060] WORF: Cardassian warships, Galor class, type three.
+[00:33:44.060 --> 00:33:45.756] RIKER: Top of the line.
+[00:33:46.876 --> 00:33:49.036] DATA: They are moving into a course parallel to our own, Captain.
+[00:33:49.916 --> 00:33:50.396] PICARD: Yellow alert.
+[00:33:51.196 --> 00:33:52.583] PICARD: Continue to monitor them.
+[00:33:52.583 --> 00:33:53.276] RIKER: Ensign Ro,
+[00:33:53.596 --> 00:33:56.716] RIKER: what's the closest we come to the Cardassian border on our current heading to Valo Three?
+[00:33:57.436 --> 00:33:59.196] RO: Thirteen thousand, four hundred kilometres, sir.
+[00:33:59.516 --> 00:34:00.183] RIKER: ETA?
+[00:34:00.183 --> 00:34:01.516] RO: Eight minutes.
+[00:34:03.116 --> 00:34:03.756] PICARD: That's where it will be.
+[00:34:10.396 --> 00:34:12.236] DATA: The Cardassian ships are changing course, sir.
+[00:34:12.759 --> 00:34:13.719] DATA: They are crossing the border.
+[00:34:14.439 --> 00:34:16.359] WORF: They're increasing power to their forward weapon grid.
+[00:34:16.839 --> 00:34:17.319] RIKER: Red alert.
+[00:34:18.519 --> 00:34:20.679] PICARD: Ensign Ro, set a course to intercept the Cardassians.
+[00:34:20.759 --> 00:34:22.999] PICARD: Mister Worf, open a channel to the Bajoran vessel.
+[00:34:23.959 --> 00:34:24.279] WORF: Open.
+[00:34:25.399 --> 00:34:26.199] PICARD: This is the Enterprise.
+[00:34:26.599 --> 00:34:28.919] PICARD: We are moving to intercept two Cardassian warships.
+[00:34:28.919 --> 00:34:30.279] PICARD: Maintain your present course and speed.
+[00:34:30.759 --> 00:34:32.039] WOMAN: Acknowledged, Enterprise.
+[00:34:32.199 --> 00:34:34.679] WORF: The Cardassians are within visual range.
+[00:34:34.999 --> 00:34:35.399] PICARD: On screen.
+[00:34:38.999 --> 00:34:40.039] WORF: They are hailing us, sir.
+[00:34:40.599 --> 00:34:41.319] PICARD: Open a channel, Mister Worf.
+[00:34:44.359 --> 00:34:47.639] PICARD: This is Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:34:48.199 --> 00:34:49.685] PICARD: How can we help you?
+[00:34:49.685 --> 00:34:50.279] DOLAK: Gul Dolak,
+[00:34:50.279 --> 00:34:51.639] DOLAK: Cardassian Militia Four One.
+[00:34:52.359 --> 00:34:53.959] DOLAK: We have no argument with you, Captain.
+[00:34:55.159 --> 00:34:56.439] PICARD: I'm pleased to hear that, Gul Dolak, for
+[00:34:57.319 --> 00:35:01.079] PICARD: all of us in the Federation value the peaceful relations with our Cardassian neighbours.
+[00:35:01.399 --> 00:35:04.919] DOLAK: No more than we value the relations with our Federation neighbours.
+[00:35:05.069 --> 00:35:05.669] PICARD: Well,
+[00:35:06.519 --> 00:35:10.279] PICARD: now that we've established our mutual good will, what's on your mind?
+[00:35:10.999 --> 00:35:14.759] DOLAK: We have identified the Bajoran ship you are escorting as a terrorist carrier.
+[00:35:14.759 --> 00:35:16.359] PICARD: Terrorist carrier?
+[00:35:17.319 --> 00:35:17.639] PICARD: Are you certain?
+[00:35:18.359 --> 00:35:19.239] DOLAK: Most certain, Captain.
+[00:35:19.799 --> 00:35:21.479] DOLAK: It has committed many crimes against us.
+[00:35:21.559 --> 00:35:22.759] DOLAK: We know its markings well.
+[00:35:23.559 --> 00:35:24.759] PICARD: Rest assured, Gul Dolak,
+[00:35:25.479 --> 00:35:27.399] PICARD: there will be no terrorist attacks today.
+[00:35:27.799 --> 00:35:31.399] PICARD: We are escorting the Bajoran settlers to their camp on Valo Three.
+[00:35:31.399 --> 00:35:33.479] PICARD: You can monitor their course if you wish.
+[00:35:34.279 --> 00:35:37.719] DOLAK: We would request that you withdraw and leave the matter to us.
+[00:35:39.201 --> 00:35:41.121] PICARD: This is neutral space, Gul Dolak.
+[00:35:42.001 --> 00:35:43.701] PICARD: You have no jurisdiction here.
+[00:35:43.701 --> 00:35:44.721] DOLAK: Nor do you.
+[00:35:46.721 --> 00:35:50.001] PICARD: If we withdraw, what do you intend to do with the Bajoran vessel?
+[00:35:50.801 --> 00:35:52.161] DOLAK: We intend to destroy it.
+[00:35:52.161 --> 00:35:52.161] PICARD: I
+[00:35:53.921 --> 00:35:54.401] PICARD: see.
+[00:35:55.601 --> 00:35:57.121] PICARD: That puts me in a difficult position.
+[00:35:57.121 --> 00:35:59.281] PICARD: I promised to escort these people to their camps.
+[00:35:59.681 --> 00:36:02.081] DOLAK: You are protecting the enemies of the Cardassian people.
+[00:36:02.321 --> 00:36:04.801] DOLAK: If you do not withdraw, we will take great offence.
+[00:36:05.761 --> 00:36:09.441] PICARD: I'm sorry to offend you, Gul Dolak, but we cannot withdraw.
+[00:36:10.321 --> 00:36:12.561] DOLAK: We are prepared to take any steps necessary.
+[00:36:14.481 --> 00:36:15.761] PICARD: Is that intended as a threat?
+[00:36:17.601 --> 00:36:21.121] DOLAK: It is a complaint from your Cardassian neighbours.
+[00:36:22.401 --> 00:36:24.081] DOLAK: You have one hour to withdraw.
+[00:36:28.241 --> 00:36:30.001] PICARD: Advise Starfleet of our status, Mister Data.
+[00:36:30.561 --> 00:36:32.721] PICARD: When Admiral Kennelly calls, I'll speak to him in my Ready room.
+[00:36:40.161 --> 00:36:44.641] PICARD: It seemed, Admiral, that they knew our course, our destination, our plan.
+[00:36:45.121 --> 00:36:48.481] KENNELLY: I'm sure they monitor the border at all times for terrorist activity.
+[00:36:49.201 --> 00:36:50.961] KENNELLY: Their sensors must picked up Orta's ship,
+[00:36:50.961 --> 00:36:51.441] KENNELLY: that's all.
+[00:36:52.161 --> 00:36:53.201] PICARD: I'm not convinced of that.
+[00:36:53.921 --> 00:36:55.761] KENNELLY: The important thing is, what do we do now?
+[00:36:56.641 --> 00:36:57.841] PICARD: Do you have any suggestions, Admiral?
+[00:36:59.201 --> 00:37:02.561] KENNELLY: Your top priority is to protect the Cardassian treaty.
+[00:37:03.201 --> 00:37:05.361] PICARD: Sir, I see no way to protect the Cardassian
+[00:37:05.453 --> 00:37:07.693] PICARD: peace without sacrificing the Bajorans.
+[00:37:08.253 --> 00:37:10.013] KENNELLY: If that's your call, I'll support it.
+[00:37:11.533 --> 00:37:13.933] PICARD: No. I'm not willing to give them up.
+[00:37:14.973 --> 00:37:17.453] KENNELLY: I don't think you're looking at the big picture, Jean-Luc.
+[00:37:18.413 --> 00:37:21.053] KENNELLY: We can't afford to lose the Cardassian treaty.
+[00:37:21.853 --> 00:37:23.693] PICARD: Well, I just see a different big picture, Admiral.
+[00:37:24.813 --> 00:37:25.853] PICARD: It looks something like this.
+[00:37:26.653 --> 00:37:34.093] PICARD: I see the Cardassian liaison, with his Cardassian virus, coming to meet with you after the attack on Solarion Four.
+[00:37:34.893 --> 00:37:36.973] PICARD: Now we have a common enemy, he says.
+[00:37:37.133 --> 00:37:38.413] PICARD: The Bajoran terrorists.
+[00:37:38.573 --> 00:37:40.173] PICARD: The Cardassians can't find them,
+[00:37:41.373 --> 00:37:43.053] PICARD: but maybe the Federation can.
+[00:37:45.053 --> 00:37:54.893] PICARD: I'm beginning to see that our mission has, in fact, been to expose Orta so that the Cardassians can move in and destroy him.
+[00:37:56.733 --> 00:37:58.653] KENNELLY: I think you've lost your perspective, Captain.
+[00:37:59.693 --> 00:38:01.693] KENNELLY: We'll discuss this further when you return.
+[00:38:02.973 --> 00:38:05.293] KENNELLY: For now, I'm giving you a direct order to withdraw.
+[00:38:06.253 --> 00:38:06.973] KENNELLY: Kennelly out.
+[00:38:18.813 --> 00:38:23.533] PICARD: Ensign Ro, set a course, bearing one eight seven mark one zero two, one quarter impulse.
+[00:38:24.173 --> 00:38:24.493] RO: Aye, sir.
+[00:38:26.813 --> 00:38:27.853] RIKER: He's ordered us to withdraw?
+[00:38:40.198 --> 00:38:42.678] WORF: The Cardassians are moving toward the Bajoran vessel, Captain.
+[00:38:43.238 --> 00:38:44.038] PICARD: Hold present course.
+[00:38:52.998 --> 00:38:56.838] WORF: The Bajoran ship has been destroyed.
+[00:38:59.318 --> 00:39:01.398] DATA: Subspace signal coming from Starfleet, Captain.
+[00:39:01.718 --> 00:39:02.438] DATA: Admiral Kennelly.
+[00:39:03.478 --> 00:39:03.878] PICARD: On screen.
+[00:39:04.198 --> 00:39:06.198] DATA: It is on a secure channel, sir.
+[00:39:06.998 --> 00:39:07.558] DATA: In your ready room?
+[00:39:08.518 --> 00:39:08.758] PICARD: No.
+[00:39:09.958 --> 00:39:10.198] PICARD: Here.
+[00:39:10.678 --> 00:39:11.078] PICARD: On screen.
+[00:39:14.038 --> 00:39:14.438] KENNELLY: Report.
+[00:39:15.398 --> 00:39:17.958] PICARD: The Cardassians have destroyed the Bajoran ship, Admiral.
+[00:39:20.118 --> 00:39:20.998] KENNELLY: All hands lost?
+[00:39:21.398 --> 00:39:21.798] PICARD: No, sir.
+[00:39:23.078 --> 00:39:23.718] KENNELLY: Survivors?
+[00:39:24.358 --> 00:39:24.838] PICARD: No, sir.
+[00:39:24.998 --> 00:39:25.878] PICARD: No one was on board.
+[00:39:26.518 --> 00:39:27.398] KENNELLY: What are you talking about?
+[00:39:28.038 --> 00:39:29.478] PICARD: The ship was controlled from the ground.
+[00:39:30.118 --> 00:39:33.158] PICARD: Communication was handled through a subspace relay on board the vessel.
+[00:39:34.118 --> 00:39:35.478] KENNELLY: This was your idea, Picard?
+[00:39:35.958 --> 00:39:36.678] PICARD: Actually, no.
+[00:39:37.478 --> 00:39:39.638] PICARD: It was Ensign Ro's idea but I fully endorsed it.
+[00:39:39.638 --> 00:39:42.038] PICARD: I suspected that something like this might occur.
+[00:39:42.918 --> 00:39:43.478] KENNELLY: They're terrorists,
+[00:39:43.558 --> 00:39:43.878] KENNELLY: damn it.
+[00:39:44.598 --> 00:39:46.038] KENNELLY: Why in the hell would you want to protect them?
+[00:39:46.918 --> 00:39:51.398] PICARD: Admiral, I am more concerned with protecting the honour and integrity of Starfleet.
+[00:39:51.398 --> 00:39:54.438] KENNELLY: Do you know how many of our people they killed on Solarion Four?
+[00:39:54.998 --> 00:39:57.398] PICARD: The Bajorans did not attack Solarion Four.
+[00:39:57.958 --> 00:39:58.438] KENNELLY: Who told you that?
+[00:39:58.918 --> 00:39:59.318] KENNELLY: Orta?
+[00:40:00.038 --> 00:40:00.358] PICARD: Yes.
+[00:40:00.998 --> 00:40:01.878] KENNELLY: And you believed him?
+[00:40:02.438 --> 00:40:06.118] PICARD: Admiral, Orta's ships are old and obsolete.
+[00:40:06.678 --> 00:40:08.358] PICARD: They don't even have warp capabilities.
+[00:40:08.358 --> 00:40:10.438] PICARD: They couldn't have reached another star system,
+[00:40:10.886 --> 00:40:11.926] PICARD: let alone attacked one.
+[00:40:12.966 --> 00:40:14.006] KENNELLY: But then who's responsible?
+[00:40:14.966 --> 00:40:18.006] PICARD: I would suggest you ask your friend the Cardassian liaison, Admiral.
+[00:40:19.286 --> 00:40:24.406] PICARD: The only explanation I can think of is that the Cardassians staged it.
+[00:40:25.366 --> 00:40:26.326] KENNELLY: The Cardassians?
+[00:40:26.886 --> 00:40:27.286] KENNELLY: Why?
+[00:40:28.246 --> 00:40:32.406] PICARD: Perhaps they were hoping to find someone in Starfleet like you, Admiral,
+[00:40:33.606 --> 00:40:36.406] PICARD: naive enough to solve their Bajoran problem for them.
+[00:40:47.846 --> 00:40:48.726] RO: What will happen to him?
+[00:40:49.446 --> 00:40:50.166] PICARD: I'm not sure.
+[00:40:50.326 --> 00:40:51.126] PICARD: A hearing, certainly.
+[00:40:51.686 --> 00:40:52.646] PICARD: Probably a court martial.
+[00:40:54.086 --> 00:40:59.126] RO: Well, if he's sent to the stockade on Jaros Two, tell him to request a room in the east wing.
+[00:40:59.126 --> 00:41:01.286] RO: The west wing gets awfully hot in the afternoons.
+[00:41:02.966 --> 00:41:05.206] RO: How soon do you intend to return to Lya Station Alpha, sir?
+[00:41:06.486 --> 00:41:07.206] PICARD: In a few weeks.
+[00:41:07.286 --> 00:41:09.766] PICARD: We have some surveying to do in sector two one three oh five.
+[00:41:10.486 --> 00:41:12.566] RO: Perhaps I should arrange for some other transportation back.
+[00:41:14.246 --> 00:41:14.726] PICARD: Ensign,
+[00:41:16.006 --> 00:41:21.446] PICARD: you were recruited for one mission and if you wish to be relieved of further duty, I can certainly arrange it.
+[00:41:21.526 --> 00:41:23.686] PICARD: But I'd like you to consider remaining in Starfleet.
+[00:41:25.606 --> 00:41:26.406] RO: You're not serious.
+[00:41:27.366 --> 00:41:30.726] PICARD: I think it would be a shame for Starfleet to lose someone of your potential.
+[00:41:32.646 --> 00:41:34.246] RO: Well, thank you, Captain,
+[00:41:35.686 --> 00:41:36.566] RO: but this uniform
+[00:41:37.551 --> 00:41:38.831] RO: just doesn't fit, and you know it.
+[00:41:39.391 --> 00:41:40.111] PICARD: That can change.
+[00:41:41.711 --> 00:41:42.351] RO: I don't think so.
+[00:41:45.311 --> 00:41:49.311] PICARD: I've noticed qualities in you that could be harnessed, moulded.
+[00:41:50.671 --> 00:41:51.551] RO: Don't count on it.
+[00:41:52.831 --> 00:41:54.911] PICARD: I think you've got a great deal to learn from Starfleet.
+[00:41:55.551 --> 00:41:57.791] RO: I always thought Starfleet had a lot to learn from me, Captain.
+[00:41:59.391 --> 00:42:04.191] PICARD: That is an attitude I've found common among the best officers I've ever served with.
+[00:42:05.871 --> 00:42:08.511] PICARD: You're not one of them yet, but you could be, if you work at it.
+[00:42:10.431 --> 00:42:15.071] RO: That's an interesting challenge. And I rarely refuse an interesting challenge.
+[00:42:16.351 --> 00:42:17.631] RO: There would have to be one condition.
+[00:42:19.791 --> 00:42:20.111] PICARD: Condition?
+[00:42:29.311 --> 00:42:32.031] PICARD: Picard to Enterprise.
+[00:42:33.151 --> 00:42:33.791] PICARD: Two to beam up.
+[00:42:39.000 --> 00:43:08.000] [music]
+[00:43:10.000 --> 00:43:35.000] [music]

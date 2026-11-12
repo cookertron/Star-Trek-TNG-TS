@@ -1,0 +1,674 @@
+[00:00:02.400 --> 00:00:02.880] LOG: Captain's log,
+[00:00:03.040 --> 00:00:05.520] LOG: stardate 45944.1.
+[00:00:06.080 --> 00:00:12.400] LOG: Following a magnetic wave survey of the Parvenium Sector, we've detected an object which we cannot immediately identify.
+[00:00:15.680 --> 00:00:15.840] PICARD: Magnify.
+[00:00:19.600 --> 00:00:20.000] PICARD: Mister Data?
+[00:00:20.960 --> 00:00:25.200] DATA: It appears to be a probe of some kind, but there is no Starfleet record of this shape or design.
+[00:00:25.600 --> 00:00:26.320] RIKER: Is it scanning us?
+[00:00:26.560 --> 00:00:26.880] WORF: No sir,
+[00:00:27.040 --> 00:00:29.840] WORF: but it has assumed a relative position and it is holding course with us.
+[00:00:30.080 --> 00:00:33.840] DATA: The probe is composed of paricium and talgonite, a ceramic alloy.
+[00:00:34.240 --> 00:00:36.320] LAFORGE: Not a very sophisticated technology.
+[00:00:36.320 --> 00:00:40.080] WORF: Sir, I am detecting a low-level nucleonic beam coming from the probe.
+[00:00:41.440 --> 00:00:41.920] RIKER: Shields up.
+[00:00:42.080 --> 00:00:42.880] RIKER: Stand by phasers.
+[00:00:43.040 --> 00:00:44.640] DATA: The beam is scanning the shield's perimeter.
+[00:00:44.790 --> 00:00:45.390] DATA: The
+[00:00:46.960 --> 00:00:48.880] DATA: probe is emitting an unusual particle stream.
+[00:00:49.200 --> 00:00:50.800] WORF: Sir, the beam is penetrating our shields.
+[00:00:51.120 --> 00:00:52.000] PICARD: Increase power to
+[00:00:52.720 --> 00:00:52.960] RIKER: Captain?
+[00:00:59.040 --> 00:00:59.760] RIKER: Captain, I've got you.
+[00:00:59.910 --> 00:01:00.910] RIKER: It's all
+[00:01:04.640 --> 00:01:04.800] ELINE: Well. finally.
+[00:01:10.960 --> 00:01:11.600] ELINE: How are you feeling?
+[00:01:13.840 --> 00:01:14.240] ELINE: Kamin,
+[00:01:16.320 --> 00:01:16.960] ELINE: can you answer me?
+[00:01:18.640 --> 00:01:19.440] PICARD: What is this place?
+[00:01:20.720 --> 00:01:21.840] ELINE: You're still feverish.
+[00:01:23.040 --> 00:01:24.080] PICARD: Computer, freeze programme.
+[00:01:27.520 --> 00:01:28.560] PICARD: Computer, end programme.
+[00:01:30.240 --> 00:01:30.640] ELINE: Kamin.
+[00:01:34.752 --> 00:01:35.792] PICARD: Picard to Enterprise.
+[00:01:36.112 --> 00:01:37.392] ELINE: Kamin, please don't get up yet.
+[00:01:37.392 --> 00:01:38.032] ELINE: You're still not well.
+[00:01:41.232 --> 00:01:44.032] PICARD: I asked you, what is this place?
+[00:01:46.432 --> 00:01:48.832] ELINE: This is your home, of course.
+[00:02:19.552 --> 00:02:22.352] PICARD: Space, the final frontier.
+[00:02:24.192 --> 00:02:27.072] PICARD: These are the voyages of the starship Enterprise.
+[00:02:28.192 --> 00:02:36.192] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:37.792 --> 00:02:40.672] PICARD: to boldly go where no one has gone before.
+[00:02:44.000 --> 00:02:56.000] [music]
+[00:03:01.000 --> 00:03:26.000] [music]
+[00:03:48.575 --> 00:03:49.375] PICARD: Am I a prisoner here?
+[00:03:51.135 --> 00:03:53.215] ELINE: Please, dear, you've had a high fever for three days.
+[00:03:53.215 --> 00:03:55.135] ELINE: You mustn't push yourself too quickly.
+[00:04:06.415 --> 00:04:06.975] ELINE: Kamin?
+[00:04:13.775 --> 00:04:15.215] ELINE: You really shouldn't go outside.
+[00:04:29.375 --> 00:04:29.375] ELINE: Kamin,
+[00:04:31.455 --> 00:04:32.255] ELINE: please come back inside.
+[00:04:32.405 --> 00:04:33.405] BATAI: Thank you.
+[00:05:15.800 --> 00:05:25.480] BATAI: This sapling is planted as an affirmation of life in defiance of the drought and with expectations of long life.
+[00:05:26.360 --> 00:05:32.520] BATAI: Whatever comes, we will keep it alive as a symbol of our survival.
+[00:05:34.920 --> 00:05:39.480] BATAI: Kamin! You're back on your feet!
+[00:05:39.480 --> 00:05:40.440] BATAI: How do you feel, my friend?
+[00:05:40.760 --> 00:05:41.560] PICARD: Are you in charge here?
+[00:05:43.320 --> 00:05:43.800] BATAI: In charge?
+[00:05:43.960 --> 00:05:45.720] PICARD: I want to be returned to my ship immediately.
+[00:05:47.320 --> 00:05:48.520] BATAI: What ship is that?
+[00:05:49.960 --> 00:05:50.520] PICARD: Please,
+[00:05:54.360 --> 00:05:55.800] PICARD: just tell me, what is this place?
+[00:05:56.440 --> 00:05:56.840] PICARD: Where am I?
+[00:05:56.990 --> 00:05:57.590] BATAI: The
+[00:05:59.880 --> 00:06:00.200] BATAI: fever.
+[00:06:00.200 --> 00:06:02.520] BATAI: It's taken your memory.
+[00:06:03.160 --> 00:06:05.720] PICARD: That must be it.
+[00:06:08.526 --> 00:06:09.246] PICARD: Perhaps you can help me.
+[00:06:10.286 --> 00:06:11.006] BATAI: Anything, my friend.
+[00:06:12.686 --> 00:06:13.486] PICARD: My name is Kamin?
+[00:06:13.886 --> 00:06:14.206] BATAI: Yes.
+[00:06:14.206 --> 00:06:15.166] PICARD: And you are?
+[00:06:17.166 --> 00:06:17.566] BATAI: Batai.
+[00:06:19.886 --> 00:06:21.086] BATAI: Council leader Batai.
+[00:06:21.566 --> 00:06:21.886] PICARD: Ah.
+[00:06:23.486 --> 00:06:23.806] PICARD: Batai. And
+[00:06:25.806 --> 00:06:26.886] PICARD: you say I've been ill?
+[00:06:26.886 --> 00:06:27.966] BATAI: For more than a week.
+[00:06:29.406 --> 00:06:33.166] BATAI: Eline should've put you in the hospital, but she insisted on caring for you herself.
+[00:06:33.246 --> 00:06:33.566] PICARD: Eline?
+[00:06:35.246 --> 00:06:35.806] BATAI: Your wife.
+[00:06:38.286 --> 00:06:40.766] BATAI: If you don't remember that, maybe it's safer not to go home.
+[00:06:44.686 --> 00:06:45.006] PICARD: And
+[00:06:47.326 --> 00:06:48.126] PICARD: what is this place?
+[00:06:50.926 --> 00:06:51.966] BATAI: Perhaps you should see the doctor.
+[00:06:52.126 --> 00:06:52.766] PICARD: No, please,
+[00:06:53.726 --> 00:06:54.686] PICARD: I'm sure it will all come back to me.
+[00:06:56.606 --> 00:06:56.766] BATAI: This
+[00:06:58.526 --> 00:07:01.886] BATAI: is the community of Ressik. Northern province.
+[00:07:02.206 --> 00:07:02.766] PICARD: What planet?
+[00:07:05.006 --> 00:07:05.806] BATAI: Let me take you back home.
+[00:07:05.886 --> 00:07:07.166] PICARD: No, really, I'm quite all right.
+[00:07:07.566 --> 00:07:08.206] PICARD: Just answer me.
+[00:07:08.366 --> 00:07:08.846] PICARD: What planet?
+[00:07:11.486 --> 00:07:13.646] BATAI: This is the planet Kataan.
+[00:07:14.606 --> 00:07:15.006] PICARD: Kataan.
+[00:07:16.926 --> 00:07:18.126] PICARD: Not a Federation planet.
+[00:07:18.126 --> 00:07:18.366] PICARD: I
+[00:07:20.286 --> 00:07:22.606] PICARD: think I'll
+[00:07:24.366 --> 00:07:25.166] PICARD: just take a walk.
+[00:07:26.126 --> 00:07:27.246] BATAI: But you've been ill for a week.
+[00:07:27.396 --> 00:07:27.996] PICARD: The
+[00:07:29.726 --> 00:07:31.086] PICARD: exercise will do me good.
+[00:07:32.186 --> 00:07:32.426] PICARD: I'll
+[00:07:34.746 --> 00:07:36.826] PICARD: try to re-acquaint myself with the surroundings.
+[00:08:18.826 --> 00:08:19.546] ELINE: Thank goodness.
+[00:08:29.146 --> 00:08:31.386] ELINE: I've had people out trying to find you everywhere.
+[00:08:31.386 --> 00:08:32.986] ELINE: Why did you worry us like that?
+[00:08:35.466 --> 00:08:36.026] ELINE: Are you hungry?
+[00:08:38.586 --> 00:08:38.986] PICARD: Hungry,
+[00:08:38.986 --> 00:08:39.626] PICARD: thirsty,
+[00:08:40.346 --> 00:08:40.986] PICARD: exhausted.
+[00:08:40.986 --> 00:08:41.786] PICARD: I
+[00:08:48.506 --> 00:08:51.786] PICARD: suppose that proves this is not a dream, doesn't it?
+[00:08:53.546 --> 00:08:54.266] ELINE: You think this,
+[00:08:55.786 --> 00:08:56.426] ELINE: your life,
+[00:08:56.958 --> 00:08:57.438] ELINE: is a dream?
+[00:08:57.918 --> 00:08:59.038] PICARD: This is not my life.
+[00:09:01.918 --> 00:09:02.398] PICARD: I know that much.
+[00:09:02.548 --> 00:09:03.148] ELINE: I've
+[00:09:06.558 --> 00:09:09.598] ELINE: kept something hot for you.
+[00:09:13.038 --> 00:09:13.598] ELINE: Where did you go?
+[00:09:16.078 --> 00:09:16.558] PICARD: I walked.
+[00:09:17.598 --> 00:09:17.998] PICARD: For hours.
+[00:09:20.158 --> 00:09:21.198] ELINE: And you're just out of bed.
+[00:09:41.758 --> 00:09:42.398] PICARD: It's delicious.
+[00:09:45.358 --> 00:09:46.158] ELINE: You always say that.
+[00:09:48.638 --> 00:09:51.518] PICARD: Would you try to answer some questions for me, no matter how strange they may seem to you?
+[00:09:52.558 --> 00:09:52.958] ELINE: Of course.
+[00:09:55.998 --> 00:09:57.598] PICARD: Are there other planets in this star system?
+[00:09:58.078 --> 00:09:59.038] PICARD: Do you visit other systems?
+[00:10:03.278 --> 00:10:03.598] PICARD: All right.
+[00:10:06.238 --> 00:10:07.598] PICARD: Do you have a communication system here?
+[00:10:07.758 --> 00:10:08.318] PICARD: How do you
+[00:10:09.278 --> 00:10:10.558] PICARD: send messages to
+[00:10:10.558 --> 00:10:12.958] PICARD: other communities, to other places?
+[00:10:13.598 --> 00:10:15.518] ELINE: The usual way, by voice-transit conductor.
+[00:10:15.518 --> 00:10:17.998] ELINE: Do you want to send a message?
+[00:10:19.198 --> 00:10:19.438] PICARD: Yes.
+[00:10:22.238 --> 00:10:22.958] PICARD: When can that be arranged?
+[00:10:23.963 --> 00:10:24.443] ELINE: Tomorrow.
+[00:10:29.883 --> 00:10:31.323] ELINE: Don't you want to ask about us?
+[00:10:32.203 --> 00:10:32.603] PICARD: Of course.
+[00:10:34.603 --> 00:10:37.403] PICARD: Anything you can tell me will be helpful.
+[00:10:40.843 --> 00:10:44.123] PICARD: We're, er, um, married?
+[00:10:47.003 --> 00:10:47.803] ELINE: Three years ago.
+[00:10:50.043 --> 00:10:52.763] ELINE: The happiest day of my life was the day we got married.
+[00:10:58.363 --> 00:11:01.083] PICARD: And what do I do here in Ressik?
+[00:11:01.723 --> 00:11:03.323] ELINE: You're the best iron weaver in the community.
+[00:11:03.323 --> 00:11:04.043] ELINE: At least I think so.
+[00:11:05.643 --> 00:11:08.523] ELINE: You prefer playing the flute, of course.
+[00:11:08.843 --> 00:11:09.243] PICARD: The flute?
+[00:11:10.523 --> 00:11:10.763] ELINE: Yes.
+[00:11:10.913 --> 00:11:11.513] PICARD: And
+[00:11:15.803 --> 00:11:17.803] PICARD: when
+[00:11:26.523 --> 00:11:27.483] PICARD: did I learn to play it?
+[00:11:29.243 --> 00:11:30.203] ELINE: I'm afraid you never did, dear, but
+[00:11:30.923 --> 00:11:31.723] ELINE: you keep trying.
+[00:11:31.873 --> 00:11:32.473] PICARD: I
+[00:11:37.803 --> 00:11:38.283] PICARD: see what you mean.
+[00:11:41.403 --> 00:11:42.843] PICARD: Well, thank you for the soup.
+[00:11:45.083 --> 00:11:45.723] PICARD: Thank you for your help.
+[00:11:47.403 --> 00:11:48.843] PICARD: Tomorrow, will you help me send a message?
+[00:11:49.723 --> 00:11:50.283] ELINE: Of course.
+[00:11:52.363 --> 00:11:53.083] ELINE: Will you come to bed?
+[00:11:55.723 --> 00:11:56.523] PICARD: Oh, I'll sleep here.
+[00:11:57.396 --> 00:11:58.596] ELINE: Kamin, please come with me.
+[00:12:00.676 --> 00:12:01.316] PICARD: I've been sick.
+[00:12:01.876 --> 00:12:02.836] PICARD: I'll be tossing and turning.
+[00:12:02.836 --> 00:12:03.556] PICARD: It wouldn't be fair to you.
+[00:12:06.196 --> 00:12:07.396] ELINE: Let me be the judge of that.
+[00:12:07.546 --> 00:12:08.146] ELINE: PICARD:
+[00:12:12.516 --> 00:12:12.516] ELINE: Where
+[00:12:16.916 --> 00:12:17.636] ELINE: did you get this?
+[00:12:20.036 --> 00:12:22.116] ELINE: Kamin, this is the first gift you ever gave me.
+[00:12:26.436 --> 00:12:27.316] RIKER: Riker to Sickbay.
+[00:12:27.556 --> 00:12:28.276] RIKER: The Captain's hurt.
+[00:12:28.276 --> 00:12:28.356] CRUSHER: Pulse
+[00:12:35.716 --> 00:12:37.716] CRUSHER: and
+[00:12:41.476 --> 00:12:42.356] CRUSHER: blood pressure are normal
+[00:12:43.396 --> 00:12:45.636] CRUSHER: I'm getting hyperactive fibrogenic activity.
+[00:12:45.636 --> 00:12:46.276] CRUSHER: This is odd.
+[00:12:46.276 --> 00:12:46.996] RIKER: What is it?
+[00:12:47.396 --> 00:12:49.636] CRUSHER: There's no evidence of any injury or trauma.
+[00:12:50.196 --> 00:12:51.476] CRUSHER: Vital signs are normal,
+[00:12:53.156 --> 00:12:55.316] CRUSHER: but neurotransmitter production is off the scale.
+[00:12:55.396 --> 00:12:55.956] CRUSHER: What's going on?
+[00:12:56.916 --> 00:12:58.276] RIKER: That probe is doing something to him.
+[00:12:59.236 --> 00:13:00.116] RIKER: Anything yet, Data?
+[00:13:00.116 --> 00:13:00.436] DATA: No, sir.
+[00:13:01.236 --> 00:13:02.836] DATA: The particle emission is most unusual.
+[00:13:03.316 --> 00:13:04.436] DATA: I am unable to block it.
+[00:13:04.996 --> 00:13:06.116] WORF: We should destroy the probe.
+[00:13:06.756 --> 00:13:07.876] WORF: Phasers are armed and ready.
+[00:13:07.876 --> 00:13:09.076] CRUSHER: I don't think that's wise.
+[00:13:09.236 --> 00:13:10.996] CRUSHER: Not until we know exactly what it's doing to him.
+[00:13:11.396 --> 00:13:11.716] RIKER: Agreed.
+[00:13:12.436 --> 00:13:13.396] RIKER: Stand down phasers, Mister Worf.
+[00:13:13.636 --> 00:13:17.556] RIKER: In the meantime, take us out of range. Ensign.
+[00:13:17.716 --> 00:13:18.996] RIKER: Thrusters only, one hundred kph nice and
+[00:13:18.996 --> 00:13:19.116] RIKER: easy
+[00:13:19.116 --> 00:13:19.236] ENSIGN: Aye,
+[00:13:19.556 --> 00:13:20.916] ENSIGN: sir.
+[00:13:20.916 --> 00:13:22.276] RIKER: Data?
+[00:13:22.276 --> 00:13:24.036] DATA: The probe is moving with us, sir,
+[00:13:24.676 --> 00:13:25.876] DATA: holding relative position.
+[00:13:26.596 --> 00:13:28.756] CRUSHER: It's connected itself to him,
+[00:13:29.460 --> 00:13:30.020] CRUSHER: like a tether.
+[00:13:30.020 --> 00:13:30.100] ELINE: You've
+[00:13:34.580 --> 00:13:38.980] ELINE: been dreaming of that starship of yours again, haven't you?
+[00:13:40.900 --> 00:13:43.380] PICARD: I'm just charting progress of the course of the sun.
+[00:13:45.540 --> 00:13:47.460] PICARD: It might give a clue to the cause of this drought.
+[00:13:51.300 --> 00:13:54.580] ELINE: I think you're still trying to figure out where you are.
+[00:13:56.580 --> 00:13:58.020] ELINE: Where that ship of yours is.
+[00:13:59.620 --> 00:14:00.900] ELINE: How to get back to that life.
+[00:14:05.860 --> 00:14:08.740] PICARD: The memory is five years old now, but
+[00:14:11.140 --> 00:14:12.100] PICARD: it's still inside me.
+[00:14:15.540 --> 00:14:17.300] ELINE: Was your life there so much better than this?
+[00:14:18.500 --> 00:14:25.184] ELINE: So much more gratifying, so much more fulfilling, that you cling to it with such stubbornness?
+[00:14:25.184 --> 00:14:25.602] PICARD: Eline.
+[00:14:25.602 --> 00:14:26.020] ELINE: It
+[00:14:26.500 --> 00:14:27.780] ELINE: must have been extraordinary.
+[00:14:30.020 --> 00:14:36.180] ELINE: But never in all of the stories you've told me have you mentioned anyone who loved you as I
+[00:14:40.820 --> 00:14:40.900] ELINE: do.
+[00:14:40.900 --> 00:14:40.900] PICARD: It
+[00:14:42.820 --> 00:14:43.140] PICARD: was real.
+[00:14:43.140 --> 00:14:45.700] PICARD: It was as real as this is.
+[00:14:49.620 --> 00:14:54.100] PICARD: And you can't expect me to forget a lifetime spent there.
+[00:14:55.780 --> 00:14:56.420] ELINE: Yes, I can.
+[00:14:58.697 --> 00:14:59.737] ELINE: I've been patient, Kamin.
+[00:15:00.937 --> 00:15:03.177] ELINE: For five years I've shared you with that other life.
+[00:15:05.337 --> 00:15:05.977] ELINE: I've listened,
+[00:15:06.457 --> 00:15:07.897] ELINE: I've tried to understand,
+[00:15:09.417 --> 00:15:10.297] ELINE: and I have waited.
+[00:15:12.697 --> 00:15:13.817] ELINE: When do I get you back?
+[00:15:14.377 --> 00:15:14.537] PICARD: I know.
+[00:15:15.977 --> 00:15:16.297] PICARD: I know.
+[00:15:18.617 --> 00:15:19.577] PICARD: It has been hard on you.
+[00:15:20.457 --> 00:15:21.177] ELINE: When will you let go?
+[00:15:23.417 --> 00:15:24.697] ELINE: When will you start living this life?
+[00:15:27.097 --> 00:15:28.137] ELINE: When will we start a family?
+[00:15:30.377 --> 00:15:30.857] BATAI: Kamin,
+[00:15:31.817 --> 00:15:32.297] BATAI: Eline,
+[00:15:32.937 --> 00:15:33.417] BATAI: good morning.
+[00:15:33.657 --> 00:15:34.457] PICARD: Good morning, Batai.
+[00:15:35.417 --> 00:15:35.977] BATAI: Are you ready?
+[00:15:36.057 --> 00:15:37.497] BATAI: The Administrator's already arrived.
+[00:15:37.577 --> 00:15:37.897] PICARD: Yes.
+[00:15:39.257 --> 00:15:39.657] PICARD: Will you come along?
+[00:15:41.017 --> 00:15:41.657] ELINE: No, thank you.
+[00:15:42.857 --> 00:15:43.737] ELINE: You do very well on your
+[00:15:47.097 --> 00:15:47.337] ELINE: own.
+[00:15:49.577 --> 00:15:50.777] BATAI: She always was strong-minded,
+[00:15:51.657 --> 00:15:52.377] BATAI: even when she was a child.
+[00:15:53.417 --> 00:15:54.377] PICARD: It's not her fault.
+[00:15:55.417 --> 00:15:57.177] PICARD: These past few years have been very difficult for her.
+[00:15:59.017 --> 00:16:00.057] BATAI: And for you, I think.
+[00:16:01.117 --> 00:16:04.297] ADMINISTRATOR: There you
+[00:16:09.337 --> 00:16:09.337] ADMINISTRATOR: are,
+[00:16:12.857 --> 00:16:13.337] ADMINISTRATOR: Batai.
+[00:16:13.897 --> 00:16:18.537] ADMINISTRATOR: Perhaps you can explain to me, when crops are dying all over, how this tree is flourishing?
+[00:16:19.577 --> 00:16:20.857] BATAI: This tree is our symbol,
+[00:16:21.737 --> 00:16:23.097] BATAI: our affirmation of life.
+[00:16:24.137 --> 00:16:27.497] BATAI: Everyone in this town gives part of their water rations to keep it alive.
+[00:16:28.354 --> 00:16:34.514] BATAI: We've learned, Administrator, that hope is a powerful weapon against anything. Even drought.
+[00:16:35.634 --> 00:16:36.114] ADMINISTRATOR: A good point.
+[00:16:36.674 --> 00:16:39.394] ADMINISTRATOR: Perhaps I shall recommend a symbolic tree in each of my communities.
+[00:16:40.674 --> 00:16:42.274] ADMINISTRATOR: Now. What business do we have today?
+[00:16:42.674 --> 00:16:45.234] BATAI: We need help if we're to increase the water supply.
+[00:16:46.194 --> 00:16:49.234] BATAI: We think there are ways to reclaim some of our water.
+[00:16:49.554 --> 00:16:51.954] ADMINISTRATOR: Batai, you're being a bit of an alarmist.
+[00:16:52.434 --> 00:16:56.274] ADMINISTRATOR: True, we are in a drought, but water rationing has produced a sizeable savings.
+[00:16:56.754 --> 00:16:59.154] PICARD: If the weather pattern doesn't change, rationing will not be enough.
+[00:16:59.474 --> 00:17:00.354] PICARD: We'll run out of water.
+[00:17:01.394 --> 00:17:02.402] ADMINISTRATOR: Who is this?
+[00:17:02.402 --> 00:17:03.074] BATAI: Kamin, sir.
+[00:17:04.834 --> 00:17:05.154] ADMINISTRATOR: Kamin.
+[00:17:08.994 --> 00:17:09.394] ADMINISTRATOR: Do I know you?
+[00:17:10.194 --> 00:17:12.354] PICARD: No. I haven't spoken to you before.
+[00:17:13.474 --> 00:17:16.194] ADMINISTRATOR: Well, Kamin, I'm open to all the people of this town.
+[00:17:16.754 --> 00:17:18.194] ADMINISTRATOR: I'm delighted to hear what you have to say.
+[00:17:21.794 --> 00:17:26.594] PICARD: I suggest that we build atmospheric condensers which could extract water from the air.
+[00:17:28.114 --> 00:17:35.154] ADMINISTRATOR: I don't mean to quash your very creative ideas but building atmospheric condensers would be a monumental undertaking.
+[00:17:35.394 --> 00:17:37.234] ADMINISTRATOR: We could not hope to sustain such a project.
+[00:17:37.714 --> 00:17:40.274] PICARD: Each community would be responsible for its own. Condensers
+[00:17:40.274 --> 00:17:43.314] PICARD: could make the difference between watering our crops or watching them die.
+[00:17:44.754 --> 00:17:46.674] ADMINISTRATOR: Well, I'll be glad to pass along your idea.
+[00:17:47.634 --> 00:17:50.274] ADMINISTRATOR: You'll see that this kind of participatory government works for everyone.
+[00:17:52.274 --> 00:17:52.834] ADMINISTRATOR: Be well, Batai.
+[00:17:53.074 --> 00:17:53.954] ADMINISTRATOR: I shall see you next month.
+[00:17:56.194 --> 00:17:56.754] ADMINISTRATOR: Good to meet you,
+[00:17:57.148 --> 00:17:57.468] ADMINISTRATOR: Kanin.
+[00:17:59.628 --> 00:18:00.828] BATAI: Go carefully, Administrator.
+[00:18:04.268 --> 00:18:05.148] BATAI: That went very well.
+[00:18:05.948 --> 00:18:07.148] BATAI: I think he was impressed with you.
+[00:18:07.298 --> 00:18:07.898] PICARD: But
+[00:18:10.028 --> 00:18:11.708] PICARD: there'll be no atmospheric condensers.
+[00:18:12.588 --> 00:18:15.708] BATAI: These things take time, but it will happen. I'm sure of it.
+[00:18:18.268 --> 00:18:19.708] PICARD: Come and have supper tonight, my friend.
+[00:18:20.028 --> 00:18:22.428] PICARD: I'll make some vegetable stew.
+[00:18:24.108 --> 00:18:25.948] PICARD: Let's talk about building our own condenser.
+[00:18:27.388 --> 00:18:27.788] BATAI: Kamin.
+[00:18:29.628 --> 00:18:38.988] BATAI: Hearing you talk to the Administrator, I realised that for the first time in years, you were speaking as though you were truly a member of the community.
+[00:18:40.588 --> 00:18:41.788] BATAI: It was good to hear that again.
+[00:19:05.388 --> 00:19:07.308] BATAI: You've been brooding behind that flute all evening.
+[00:19:07.458 --> 00:19:08.058] PICARD: I'm
+[00:19:09.468 --> 00:19:10.108] PICARD: not brooding.
+[00:19:12.028 --> 00:19:13.228] PICARD: I'm immersed in my music.
+[00:19:14.588 --> 00:19:14.908] BATAI: Music.
+[00:19:16.588 --> 00:19:19.068] PICARD: I find that it helps me think,
+[00:19:20.908 --> 00:19:24.028] PICARD: but the real surprise is I enjoy it so much.
+[00:19:24.748 --> 00:19:27.228] BATAI: No, the real surprise is that you may actually be improving.
+[00:19:29.426 --> 00:19:31.426] ELINE: Batai?
+[00:19:32.226 --> 00:19:32.546] BATAI: Yes, ma'am.
+[00:19:34.146 --> 00:19:34.546] ELINE: Go home.
+[00:19:35.666 --> 00:19:36.066] BATAI: Yes, ma'am.
+[00:19:41.586 --> 00:19:42.226] BATAI: Goodnight, Kamin.
+[00:19:42.866 --> 00:19:43.586] PICARD: Goodnight, my friend.
+[00:19:46.706 --> 00:19:47.666] ELINE: Go carefully, Batai.
+[00:19:52.386 --> 00:19:54.706] ELINE: Don't forget these.
+[00:19:55.826 --> 00:19:57.026] ELINE: I won't put them away for you again.
+[00:19:58.546 --> 00:19:59.106] PICARD: Yes, ma'am.
+[00:20:04.866 --> 00:20:06.386] ELINE: I've done nothing but nag all day.
+[00:20:07.826 --> 00:20:08.226] ELINE: I'm sorry.
+[00:20:10.466 --> 00:20:11.506] PICARD: No, I'm the one who's sorry.
+[00:20:15.186 --> 00:20:17.666] PICARD: Everything you said this morning was absolutely correct.
+[00:20:19.906 --> 00:20:23.906] PICARD: I feel that I have given you so little and you have given me so much.
+[00:20:25.266 --> 00:20:31.586] ELINE: No. You're a good man. A wonderful husband.
+[00:20:31.906 --> 00:20:32.626] ELINE: I didn't mean
+[00:20:32.626 --> 00:20:34.066] PICARD: No, not such a wonderful husband.
+[00:20:35.106 --> 00:20:40.466] PICARD: I spend my spare time charting the stars. I disappear for days at a time exploring the countryside.
+[00:20:42.866 --> 00:20:44.306] PICARD: My life is very much as it was.
+[00:20:46.306 --> 00:20:46.946] PICARD: Old habits.
+[00:20:48.866 --> 00:20:50.386] ELINE: You're gentle and kind.
+[00:20:51.586 --> 00:20:53.426] ELINE: You never once raised your voice to me.
+[00:20:55.517 --> 00:20:57.677] PICARD: I'd like to ask your permission to build something.
+[00:20:59.037 --> 00:21:01.997] ELINE: Kamin, you've built your telescope, your laboratory.
+[00:21:01.997 --> 00:21:04.157] ELINE: You don't need my permission for something new.
+[00:21:04.157 --> 00:21:05.437] PICARD: In this case, I think I do.
+[00:21:07.677 --> 00:21:08.077] ELINE: What is it?
+[00:21:11.037 --> 00:21:11.517] PICARD: A nursery.
+[00:21:22.957 --> 00:21:23.197] ELINE: Really?
+[00:21:23.197 --> 00:21:23.197] ELINE: Really?
+[00:21:24.717 --> 00:21:31.677] PICARD: Unless, of course, if you would prefer a porch. It would certainly be easier to build. I could make a start on it right away.
+[00:21:31.827 --> 00:21:32.427] ELINE: No.
+[00:21:50.477 --> 00:21:52.077] RIKER: Geordi, any progress identifying the probe?
+[00:21:52.317 --> 00:21:52.557] LAFORGE: Maybe.
+[00:21:53.277 --> 00:21:55.197] LAFORGE: I've picked up some residue on the probe's shell.
+[00:21:55.677 --> 00:21:57.437] LAFORGE: I think it came from the propulsion system.
+[00:21:58.077 --> 00:21:59.917] LAFORGE: Looks like it used a solid propellant as fuel.
+[00:22:00.717 --> 00:22:01.597] RIKER: Solid propellant?
+[00:22:01.917 --> 00:22:05.197] LAFORGE: Sensors read this stuff as crystalline emiristol. It produces a radioactive trail
+[00:22:05.277 --> 00:22:05.917] LAFORGE: that ought to be traceable.
+[00:22:06.397 --> 00:22:09.597] RIKER: Then we should be able to send out a probe of our own, trace it back to the origin.
+[00:22:09.917 --> 00:22:11.450] LAFORGE: I'll get right on it.
+[00:22:11.450 --> 00:22:11.757] DATA: Commander,
+[00:22:11.837 --> 00:22:13.437] DATA: I have been analysing the nucleonic beam.
+[00:22:13.437 --> 00:22:18.797] DATA: I believe it would be possible to reflect the particles back toward the probe in a way that would disrupt the signal.
+[00:22:19.757 --> 00:22:20.077] RIKER: Doctor?
+[00:22:20.637 --> 00:22:22.797] CRUSHER: I simply don't know the risk of shutting down the beam.
+[00:22:23.117 --> 00:22:25.197] RIKER: I'm not willing to let this thing keep drilling into him.
+[00:22:25.500 --> 00:22:29.180] CRUSHER: If somebody gets stabbed, you don't necessarily pull the knife out right away.
+[00:22:29.900 --> 00:22:31.660] CRUSHER: It might do more harm than leaving it there.
+[00:22:31.980 --> 00:22:33.020] WORF: The Captain is under attack.
+[00:22:33.740 --> 00:22:34.460] WORF: We must act.
+[00:22:34.780 --> 00:22:36.380] RIKER: I'm inclined to agree. Doctor,
+[00:22:37.340 --> 00:22:39.100] RIKER: monitor him closely. Mister Data,
+[00:22:39.900 --> 00:22:40.860] RIKER: prepare to disrupt the beam.
+[00:22:41.740 --> 00:22:42.860] RIKER: We're going to try to cut this cord.
+[00:23:23.500 --> 00:23:23.500] ELINE: Meribor.
+[00:23:23.500 --> 00:23:23.500] ELINE: Meribor,
+[00:23:26.300 --> 00:23:27.260] ELINE: this is your brother's ceremony.
+[00:23:27.660 --> 00:23:28.380] ELINE: Don't fidget now.
+[00:23:43.100 --> 00:23:46.540] PICARD: We name this child for a dear friend who died a year ago.
+[00:23:47.740 --> 00:23:50.220] PICARD: But now his memory will live on
+[00:23:50.656 --> 00:23:51.376] PICARD: in his namesake.
+[00:23:52.656 --> 00:23:56.496] ELINE: We name you Batai, in his honour.
+[00:23:57.936 --> 00:23:59.936] PICARD: And he's starting out in the warmth of friends.
+[00:23:59.936 --> 00:24:00.336] PICARD: Thank you.
+[00:24:01.776 --> 00:24:03.056] PICARD: Please, help yourselves to something to eat.
+[00:24:09.536 --> 00:24:12.016] MAN: Congratulations, Kamin.
+[00:24:12.016 --> 00:24:12.336] PICARD: Thank you.
+[00:24:16.576 --> 00:24:20.736] ELINE: It seems like only yesterday we had Meribor's naming ceremony.
+[00:24:22.336 --> 00:24:22.496] ELINE: Go
+[00:24:24.976 --> 00:24:24.976] ELINE: on.
+[00:24:24.976 --> 00:24:25.376] PICARD: I remember.
+[00:24:25.376 --> 00:24:25.376] PICARD: I
+[00:24:26.896 --> 00:24:28.656] PICARD: was so nervous I was afraid that I would drop her.
+[00:24:32.496 --> 00:24:33.616] PICARD: Now look at the little lady.
+[00:24:34.016 --> 00:24:35.376] ELINE: She's no lady.
+[00:24:36.256 --> 00:24:42.176] ELINE: Tromping through the hills with you all day, digging up those soil samples you insist upon collecting.
+[00:24:43.056 --> 00:24:44.496] ELINE: No, she's her father's daughter.
+[00:24:45.536 --> 00:24:48.656] PICARD: I would have believed I didn't need children to complete my life.
+[00:24:50.096 --> 00:24:51.776] PICARD: Now I couldn't imagine life without them.
+[00:24:53.648 --> 00:24:55.520] ELINE: Kamin,
+[00:24:57.392 --> 00:24:59.264] ELINE: what
+[00:25:01.136 --> 00:25:01.296] ELINE: is it?
+[00:25:04.496 --> 00:25:05.056] ELINE: Get the doctor.
+[00:25:05.456 --> 00:25:05.696] ELINE: Hurry!
+[00:25:07.136 --> 00:25:08.896] OGAWA: His respiratory system's in spasm.
+[00:25:09.296 --> 00:25:11.216] OGAWA: Pulse is irregular and weakening.
+[00:25:12.336 --> 00:25:12.736] CRUSHER: I'm losing him!
+[00:25:13.296 --> 00:25:14.656] OGAWA: I'm getting massive somatophysical failure.
+[00:25:14.976 --> 00:25:15.696] CRUSHER: Two cc's delactovine.
+[00:25:15.696 --> 00:25:15.936] RIKER: Data,
+[00:25:20.736 --> 00:25:21.776] RIKER: get that beam back.
+[00:25:22.392 --> 00:25:24.152] OGAWA: There are severe fluctuations in the isocortex.
+[00:25:24.552 --> 00:25:25.752] OGAWA: Synaptic responses are failing.
+[00:25:26.232 --> 00:25:27.432] CRUSHER: Begin full cardiac induction.
+[00:25:28.392 --> 00:25:30.472] OGAWA: Blood pressure is dropping rapidly.
+[00:25:30.952 --> 00:25:31.592] OGAWA: Seventy over twenty.
+[00:25:31.912 --> 00:25:33.432] CRUSHER: Data, you've got to re-establish that beam.
+[00:25:33.912 --> 00:25:35.272] DATA: I am attempting to do so, Doctor.
+[00:25:35.592 --> 00:25:36.906] OGAWA: Losing response in the isocortex.
+[00:25:36.906 --> 00:25:37.432] CRUSHER: Cortical stimulators.
+[00:25:41.272 --> 00:25:42.232] CRUSHER: Start at ten percent.
+[00:25:42.792 --> 00:25:44.072] DATA: The beam is fully restored, Doctor.
+[00:25:47.272 --> 00:25:48.792] OGAWA: Blood pressure up to ninety over forty
+[00:25:50.792 --> 00:25:51.272] OGAWA: and rising.
+[00:25:51.832 --> 00:25:53.512] CRUSHER: Isocortical functions are stabilising.
+[00:25:53.672 --> 00:25:56.072] CRUSHER: Vital signs are approaching normal.
+[00:26:05.512 --> 00:26:05.992] PICARD: Meribor?
+[00:26:06.472 --> 00:26:07.192] MERIBOR: Happy day, father.
+[00:26:09.192 --> 00:26:09.432] PICARD: Hey,
+[00:26:10.232 --> 00:26:10.952] PICARD: that's my hobby.
+[00:26:10.952 --> 00:26:11.512] PICARD: Find your own.
+[00:26:11.752 --> 00:26:12.872] MERIBOR: You're the one who taught me.
+[00:26:13.112 --> 00:26:14.952] MERIBOR: Don't complain if you've turned me into a scientist.
+[00:26:15.102 --> 00:26:15.702] PICARD: And
+[00:26:16.712 --> 00:26:19.272] PICARD: what has the scientist been up to today?
+[00:26:19.592 --> 00:26:21.032] MERIBOR: Analysing soil samples.
+[00:26:21.672 --> 00:26:24.792] MERIBOR: There isn't any anaerobic bacteria.
+[00:26:25.192 --> 00:26:25.992] MERIBOR: The soil is dead.
+[00:26:29.112 --> 00:26:30.952] MERIBOR: This isn't just a very long drought, is it, Father?
+[00:26:31.672 --> 00:26:33.832] MERIBOR: I have entries in my log that go back ten years.
+[00:26:34.232 --> 00:26:36.552] MERIBOR: You have data preceding that for fifteen years.
+[00:26:36.952 --> 00:26:38.152] MERIBOR: You've reached the same conclusion,
+[00:26:38.152 --> 00:26:38.792] MERIBOR: I know you have.
+[00:26:38.872 --> 00:26:40.552] PICARD: I haven't reached any conclusion.
+[00:26:41.112 --> 00:26:43.672] PICARD: A good scientist doesn't function by conjecture.
+[00:26:44.232 --> 00:26:48.792] MERIBOR: A good scientist functions by hypothesising and then proving or disproving that hypothesis.
+[00:26:49.457 --> 00:26:50.017] MERIBOR: That's what I did.
+[00:26:50.817 --> 00:26:53.377] PICARD: Hey, why don't you spend more time with that young fellow Dannick?
+[00:26:53.617 --> 00:26:55.057] MERIBOR: You are changing the subject.
+[00:26:55.377 --> 00:26:55.857] PICARD: No, I'm not.
+[00:26:56.257 --> 00:26:59.457] PICARD: I'm just hypothesising that he's in love with you.
+[00:27:01.617 --> 00:27:04.897] MERIBOR: You've taught me to pursue the truth, no matter how painful it is.
+[00:27:06.657 --> 00:27:07.857] MERIBOR: It's too late to back off now.
+[00:27:08.897 --> 00:27:09.937] MERIBOR: This planet is dying.
+[00:27:12.977 --> 00:27:19.137] PICARD: Perhaps I should have filled your head with trivial concerns. Games and toys and clothes.
+[00:27:20.657 --> 00:27:21.697] MERIBOR: I don't think you mean that.
+[00:27:22.817 --> 00:27:23.457] PICARD: No, I don't.
+[00:27:25.777 --> 00:27:26.737] PICARD: It just
+[00:27:28.417 --> 00:27:30.977] PICARD: saddens me to see you
+[00:27:32.737 --> 00:27:35.697] PICARD: burdened with the knowledge things you can't change.
+[00:27:38.657 --> 00:27:42.817] MERIBOR: Father, I think I should marry Dannick sooner rather than later,
+[00:27:43.537 --> 00:27:43.857] MERIBOR: don't you?
+[00:27:45.377 --> 00:27:46.737] PICARD: Seize the time, Meribor.
+[00:27:48.177 --> 00:27:48.897] PICARD: Live now.
+[00:27:49.617 --> 00:27:50.657] PICARD: Make now
+[00:27:51.457 --> 00:27:52.977] PICARD: always the most precious time.
+[00:27:55.297 --> 00:27:56.497] PICARD: Now will never come again.
+[00:27:59.777 --> 00:28:00.737] MERIBOR: I love you, Father.
+[00:28:01.377 --> 00:28:01.377] CRUSHER: His
+[00:28:04.977 --> 00:28:04.977] CRUSHER: vital
+[00:28:10.577 --> 00:28:11.377] CRUSHER: signs are holding.
+[00:28:11.777 --> 00:28:13.617] CRUSHER: They've been stable ever since the beam was restored.
+[00:28:15.057 --> 00:28:18.577] LAFORGE: Commander Riker, we've started to receive telemetry from the probe we launched.
+[00:28:18.897 --> 00:28:19.217] RIKER: Go ahead.
+[00:28:19.697 --> 00:28:23.057] LAFORGE: We've charted the alien probe's radiation trail for over one light year.
+[00:28:23.498 --> 00:28:25.002] RIKER: Any way to extrapolate am origin?
+[00:28:25.002 --> 00:28:27.258] LAFORGE: Looks like a star system in the Silarian sector.
+[00:28:27.738 --> 00:28:28.218] LAFORGE: Kataan.
+[00:28:28.858 --> 00:28:29.338] RIKER: Never heard of it.
+[00:28:29.978 --> 00:28:30.250] RIKER: Data?
+[00:28:30.250 --> 00:28:32.698] DATA: It is an unmapped system of six planets, sir.
+[00:28:33.578 --> 00:28:34.218] RIKER: Any of them inhabited?
+[00:28:34.618 --> 00:28:35.418] DATA: Not any longer, sir.
+[00:28:35.978 --> 00:28:36.858] DATA: The star went nova.
+[00:28:37.338 --> 00:28:40.538] DATA: All life in the system was destroyed approximately one thousand years ago.
+[00:28:52.938 --> 00:28:53.018] ELINE: I
+[00:29:00.698 --> 00:29:01.898] ELINE: put away your shoes for you again.
+[00:29:03.498 --> 00:29:04.218] PICARD: Yes, thank you, dear.
+[00:29:09.898 --> 00:29:16.858] ELINE: You know, I've been looking through this thing off and on for over thirty years, and I still don't see what you and Meribor find so fascinating.
+[00:29:17.738 --> 00:29:18.298] PICARD: Fine.
+[00:29:19.658 --> 00:29:22.378] PICARD: Then maybe you'll sit down and have a rest like you're supposed to.
+[00:29:22.858 --> 00:29:24.858] ELINE: You treat me like some frail flower.
+[00:29:26.058 --> 00:29:27.258] ELINE: People have surgery all the time.
+[00:29:32.858 --> 00:29:33.578] ELINE: He loves playing.
+[00:29:36.058 --> 00:29:37.338] ELINE: He's quite good at it, don't you think?
+[00:29:37.738 --> 00:29:39.258] PICARD: He loves doing a lot of things too many.
+[00:29:40.618 --> 00:29:42.778] PICARD: Last week, all he wanted to do was be a botanist.
+[00:29:43.178 --> 00:29:44.618] PICARD: The week before that, a sculptor.
+[00:29:44.618 --> 00:29:44.618] PICARD: I wish
+[00:29:46.778 --> 00:29:48.378] PICARD: he could find some focus in his life.
+[00:29:51.018 --> 00:29:52.058] ELINE: I think he has.
+[00:29:57.384 --> 00:29:58.344] ELINE: Maybe you should talk
+[00:30:01.544 --> 00:30:01.624] ELINE: to him.
+[00:30:02.344 --> 00:30:02.904] PICARD: Batai?
+[00:30:10.824 --> 00:30:11.064] BATAI JR: Father?
+[00:30:12.104 --> 00:30:14.344] PICARD: I get the feeling from your mother that you have something to tell me.
+[00:30:20.824 --> 00:30:21.304] BATAI JR: Yes.
+[00:30:27.384 --> 00:30:30.664] BATAI JR: I was waiting for the right moment, but that will never come.
+[00:30:32.744 --> 00:30:33.624] BATAI JR: I'm leaving school.
+[00:30:34.584 --> 00:30:35.144] PICARD: Leaving school?
+[00:30:35.223 --> 00:30:35.864] PICARD: No, you're not.
+[00:30:36.183 --> 00:30:37.864] BATAI JR: I want to concentrate on my music.
+[00:30:38.664 --> 00:30:39.784] BATAI JR: That's what I care about.
+[00:30:40.344 --> 00:30:42.423] PICARD: Last year, all you cared about was mathematics.
+[00:30:42.504 --> 00:30:43.703] PICARD: The year before that, botany.
+[00:30:43.784 --> 00:30:44.154] PICARD: Now
+[00:30:44.154 --> 00:30:46.744] BATAI JR: Through it all, there was my music.
+[00:30:50.423 --> 00:30:51.544] BATAI JR: I think you know that, Father.
+[00:30:54.744 --> 00:30:56.344] BATAI JR: This is the life I want.
+[00:31:00.584 --> 00:31:01.224] PICARD: Well, we'll
+[00:31:03.384 --> 00:31:04.024] PICARD: discuss it.
+[00:31:05.624 --> 00:31:06.183] BATAI JR: Thank you, father.
+[00:31:13.703 --> 00:31:19.064] ELINE: Even after all these years you still have the ability to surprise me.
+[00:31:19.214 --> 00:31:19.814] PICARD: If
+[00:31:20.782 --> 00:31:21.742] PICARD: music is what he wants,
+[00:31:21.742 --> 00:31:23.022] PICARD: why should I stand in his way?
+[00:31:30.062 --> 00:31:35.262] PICARD: Anyway, who knows how much time he'll have to follow any dream.
+[00:31:38.542 --> 00:31:41.502] ELINE: Are you still planning to talk to the Administrator tomorrow?
+[00:31:41.742 --> 00:31:41.822] PICARD: There's a
+[00:31:43.502 --> 00:31:45.422] PICARD: possibility he'll dismiss me from the Council.
+[00:31:46.462 --> 00:31:47.822] ELINE: Unless, of course, you keep quiet.
+[00:31:47.972 --> 00:31:48.572] PICARD: No.
+[00:31:49.342 --> 00:31:50.542] PICARD: The evidence is too pronounced.
+[00:31:51.582 --> 00:31:52.302] PICARD: I can't stay silent.
+[00:31:54.782 --> 00:31:55.502] ELINE: What a surprise.
+[00:32:01.022 --> 00:32:01.502] ADMINISTRATOR: Kamin,
+[00:32:02.382 --> 00:32:04.062] ADMINISTRATOR: what do you hope to accomplish?
+[00:32:04.302 --> 00:32:06.782] ADMINISTRATOR: Spreading rumours that the planet is doomed.
+[00:32:06.782 --> 00:32:07.822] ADMINISTRATOR: There could be chaos.
+[00:32:07.822 --> 00:32:08.622] PICARD: The facts are here.
+[00:32:09.022 --> 00:32:11.262] PICARD: At least show them to someone who will recognise what they mean.
+[00:32:11.262 --> 00:32:13.422] ADMINISTRATOR: I won't be a party to your making trouble.
+[00:32:14.622 --> 00:32:16.622] PICARD: If you won't take them, I most certainly will.
+[00:32:24.862 --> 00:32:27.182] ADMINISTRATOR: Your observations, your findings,
+[00:32:28.462 --> 00:32:31.182] ADMINISTRATOR: our scientists reached those same conclusions two years ago.
+[00:32:33.502 --> 00:32:35.262] ADMINISTRATOR: Well, what did you expect us to do?
+[00:32:35.502 --> 00:32:36.302] ADMINISTRATOR: Make it public?
+[00:32:36.622 --> 00:32:37.902] ADMINISTRATOR: Can you imagine the effect?
+[00:32:38.302 --> 00:32:41.982] PICARD: But surely the technology must exist to save something of this world?
+[00:32:42.782 --> 00:32:43.342] PICARD: Perhaps
+[00:32:45.182 --> 00:32:47.022] PICARD: some people could be evacuated.
+[00:32:47.182 --> 00:32:48.302] ADMINISTRATOR: Evacuated where?
+[00:32:48.782 --> 00:32:50.142] ADMINISTRATOR: Our technology is limited.
+[00:32:50.702 --> 00:32:52.782] ADMINISTRATOR: We're just beginning to launch small missiles.
+[00:32:52.956 --> 00:32:54.396] PICARD: A collection of genetic samples,
+[00:32:54.396 --> 00:32:56.316] PICARD: then. Something, anything.
+[00:32:56.316 --> 00:32:58.796] PICARD: You simply cannot let this civilisation die.
+[00:32:58.876 --> 00:32:59.196] ADMINISTRATOR: Enough!
+[00:33:03.436 --> 00:33:04.956] ADMINISTRATOR: There is a plan in work.
+[00:33:05.916 --> 00:33:07.996] ADMINISTRATOR: I cannot tell you more than that.
+[00:33:08.316 --> 00:33:08.636] BATAI JR: Father!
+[00:33:10.716 --> 00:33:11.116] PICARD: What is it?
+[00:33:11.596 --> 00:33:12.076] BATAI JR: It's Mother.
+[00:33:12.396 --> 00:33:12.636] BATAI JR: Hurry.
+[00:33:16.876 --> 00:33:16.876] PICARD: Doctor?
+[00:33:23.276 --> 00:33:23.996] DOCTOR: Kamin. I'm sorry.
+[00:33:23.996 --> 00:33:24.236] ELINE: You
+[00:33:27.116 --> 00:33:27.356] ELINE: see?
+[00:33:29.676 --> 00:33:32.476] ELINE: I go to any lengths to get your attention.
+[00:33:33.996 --> 00:33:35.756] PICARD: You always did have a flair for the dramatic.
+[00:33:35.756 --> 00:33:35.756] ELINE: Doctor,
+[00:33:37.436 --> 00:33:37.836] ELINE: thank you.
+[00:33:42.876 --> 00:33:43.436] ELINE: Batai,
+[00:33:46.156 --> 00:33:47.356] ELINE: leave us alone for a moment.
+[00:33:50.236 --> 00:33:51.596] ELINE: I need to talk to my husband.
+[00:34:00.076 --> 00:34:03.196] ELINE: Did you show the Administrator your evidence?
+[00:34:03.596 --> 00:34:04.316] PICARD: I didn't have to.
+[00:34:05.436 --> 00:34:06.236] PICARD: They already knew.
+[00:34:07.596 --> 00:34:11.356] ELINE: So, he won't throw you off the Council?
+[00:34:12.476 --> 00:34:12.636] PICARD: No.
+[00:34:15.356 --> 00:34:15.356] ELINE: Good.
+[00:34:15.356 --> 00:34:15.836] ELINE: Remember,
+[00:34:15.836 --> 00:34:18.876] ELINE: put your
+[00:34:22.636 --> 00:34:24.636] ELINE: shoes
+[00:34:27.516 --> 00:34:27.676] ELINE: away.
+[00:34:57.307 --> 00:34:57.387] PICARD: I promise.
+[00:34:58.827 --> 00:35:00.827] PICARD: Gotcha!
+[00:35:00.827 --> 00:35:01.467] PICARD: Now I
+[00:35:02.027 --> 00:35:02.027] PICARD: gotcha.
+[00:35:04.267 --> 00:35:04.267] MERIBOR: Some
+[00:35:07.867 --> 00:35:10.587] MERIBOR: children are certainly making a lot of noise in here.
+[00:35:11.307 --> 00:35:13.067] PICARD: You shouldn't be outside so long.
+[00:35:13.147 --> 00:35:14.267] PICARD: It's damaging, you know that.
+[00:35:14.347 --> 00:35:16.027] MERIBOR: I'm wearing plenty of your skin protector.
+[00:35:16.267 --> 00:35:17.707] PICARD: How about you, young man?
+[00:35:18.027 --> 00:35:21.387] PICARD: Do you wear your skin protector outdoors?
+[00:35:21.387 --> 00:35:23.353] PICARD: You do? Good boy.
+[00:35:23.353 --> 00:35:24.827] BATAI JR: Happy day, everybody.
+[00:35:25.307 --> 00:35:26.507] BATAI JR: It's time to go see the launching.
+[00:35:27.387 --> 00:35:28.987] PICARD: What launching? What's he talking about?
+[00:35:29.227 --> 00:35:30.427] MERIBOR: They're sending up a missile, Father.
+[00:35:30.987 --> 00:35:31.947] MERIBOR: We're going to watch it.
+[00:35:32.507 --> 00:35:34.107] PICARD: I'm not going anywhere to watch anything.
+[00:35:34.827 --> 00:35:35.467] BATAI JR: Come on, Kamie.
+[00:35:36.107 --> 00:35:36.667] BATAI JR: Hurry up now.
+[00:35:38.187 --> 00:35:39.147] BATAI JR: Let's go see the launching.
+[00:35:39.297 --> 00:35:39.897] PICARD: It
+[00:35:42.827 --> 00:35:46.667] PICARD: breaks my heart to look at him.
+[00:35:46.667 --> 00:35:46.667] MERIBOR: Who?
+[00:35:47.947 --> 00:35:48.667] PICARD: My grandson.
+[00:35:48.817 --> 00:35:49.417] PICARD: It
+[00:35:50.187 --> 00:35:52.747] PICARD: breaks my heart.
+[00:35:55.722 --> 00:35:58.202] PICARD: He deserves a rich, full life, and he's not going to get one.
+[00:36:03.722 --> 00:36:04.522] MERIBOR: Please come, Father.
+[00:36:11.482 --> 00:36:14.362] PICARD: Why didn't I hear anything about a launching?
+[00:36:20.202 --> 00:36:23.802] PICARD: Did everyone know about this except me?
+[00:36:25.322 --> 00:36:27.002] PICARD: I'll be all right
+[00:36:28.042 --> 00:36:28.522] PICARD: sitting here.
+[00:36:30.842 --> 00:36:31.882] PICARD: You go off with the others.
+[00:36:32.842 --> 00:36:33.882] PICARD: Hold onto my grandson,
+[00:36:34.042 --> 00:36:35.082] PICARD: and watch the damned thing
+[00:36:35.082 --> 00:36:35.482] PICARD: go up
+[00:36:35.482 --> 00:36:36.362] PICARD: for all the good it'll do.
+[00:36:37.402 --> 00:36:38.282] PICARD: What is it they're launching?
+[00:36:42.762 --> 00:36:43.802] MERIBOR: You know about it, Father.
+[00:36:45.402 --> 00:36:46.282] MERIBOR: You've already seen it.
+[00:36:47.322 --> 00:36:47.882] PICARD: Seen it?
+[00:36:48.522 --> 00:36:49.482] PICARD: What are you talking about?
+[00:36:50.522 --> 00:36:51.562] PICARD: I haven't seen any missile.
+[00:36:51.882 --> 00:36:53.002] BATAI: Yes, you have, old friend.
+[00:36:53.882 --> 00:36:54.602] BATAI: Don't you remember?
+[00:37:07.882 --> 00:37:07.962] PICARD: Batai?
+[00:37:07.962 --> 00:37:09.802] BATAI: You saw it just before you came here.
+[00:37:11.962 --> 00:37:20.522] BATAI: We hoped our probe would encounter someone in the future. Someone who could be a teacher. Someone who could tell the others about us.
+[00:37:20.672 --> 00:37:21.272] PICARD: Oh,
+[00:37:22.682 --> 00:37:25.002] PICARD: it's me,
+[00:37:27.562 --> 00:37:28.122] PICARD: isn't it?
+[00:37:30.424 --> 00:37:31.064] PICARD: I'm the someone.
+[00:37:33.224 --> 00:37:36.024] PICARD: I'm the one it finds.
+[00:37:39.384 --> 00:37:40.904] PICARD: That's what this launching is. A
+[00:37:42.984 --> 00:37:46.024] PICARD: probe that finds me in the future.
+[00:37:46.904 --> 00:37:47.544] ELINE: Yes, my love.
+[00:37:57.384 --> 00:37:57.384] PICARD: Eline.
+[00:37:57.384 --> 00:37:59.304] ELINE: The rest of us have been gone for a thousand years.
+[00:38:00.824 --> 00:38:06.104] ELINE: If you remember what we were, and how we lived, then we'll have found life again.
+[00:38:14.264 --> 00:38:14.744] PICARD: Eline.
+[00:38:31.704 --> 00:38:32.664] ELINE: Now we live in you.
+[00:38:34.424 --> 00:38:35.464] ELINE: Tell them of us,
+[00:38:37.304 --> 00:38:37.784] ELINE: my darling.
+[00:38:44.424 --> 00:38:45.064] CRUSHER: Something's happening.
+[00:38:47.384 --> 00:38:48.904] DATA: The nucleonic beam has ceased, Commander.
+[00:38:49.224 --> 00:38:50.184] DATA: The probe has shut down.
+[00:38:50.584 --> 00:38:52.264] CRUSHER: His cerebral functions are stabilising.
+[00:38:52.664 --> 00:38:54.504] RIKER: Mister Worf, put a tractor beam on that probe.
+[00:38:54.504 --> 00:38:55.944] RIKER: I want it in shuttlebay two for examination.
+[00:38:56.225 --> 00:38:56.785] WORF: Yes, Commander.
+[00:39:00.145 --> 00:39:00.305] PICARD: What?
+[00:39:03.905 --> 00:39:05.425] CRUSHER: Please, Captain, don't get up too quickly.
+[00:39:10.225 --> 00:39:10.545] PICARD: Captain? This
+[00:39:14.145 --> 00:39:16.145] PICARD: is the
+[00:39:19.825 --> 00:39:19.825] PICARD: Enterprise.
+[00:39:20.945 --> 00:39:21.825] PICARD: I'm Jean-Luc Picard. How
+[00:39:28.065 --> 00:39:30.065] PICARD: long?
+[00:39:31.985 --> 00:39:33.185] RIKER: Twenty, twenty five minutes.
+[00:39:36.785 --> 00:39:37.585] PICARD: Twenty five minutes?
+[00:39:45.265 --> 00:39:46.465] CRUSHER: Captain, I want you in Sickbay.
+[00:39:46.545 --> 00:39:48.145] CRUSHER: I'd like to run a full diagnostic on you.
+[00:39:51.185 --> 00:39:51.905] PICARD: Doctor Crusher.
+[00:40:42.417 --> 00:40:42.817] PICARD: Come.
+[00:40:46.737 --> 00:40:47.137] RIKER: Hello, sir.
+[00:40:48.257 --> 00:40:48.577] RIKER: Feeling better?
+[00:40:49.137 --> 00:40:49.457] PICARD: Yes.
+[00:40:50.897 --> 00:40:51.377] PICARD: Yes, thank you.
+[00:40:53.137 --> 00:40:54.097] PICARD: But I find
+[00:40:56.177 --> 00:40:58.977] PICARD: I'm having to rediscover that this is really my home.
+[00:41:01.617 --> 00:41:03.457] RIKER: We were able to open the probe and examine it.
+[00:41:04.497 --> 00:41:08.097] RIKER: Apparently, whatever had locked onto you must have been self terminating.
+[00:41:08.097 --> 00:41:09.057] RIKER: It's not functioning any longer.
+[00:41:12.097 --> 00:41:12.897] RIKER: We found this inside.
+[00:42:52.000 --> 00:43:11.000] [music]
+[00:43:12.000 --> 00:43:40.000] [music]

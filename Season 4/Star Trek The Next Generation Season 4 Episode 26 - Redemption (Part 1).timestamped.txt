@@ -1,0 +1,567 @@
+[00:00:02.640 --> 00:00:05.680] LOG: Captain's log, stardate 44995.3.
+[00:00:06.080 --> 00:00:13.200] LOG: We're en route to the Klingon home world, where I will participate in the installation ceremony of Gowron, the next designated Leader of the High Council.
+[00:00:13.920 --> 00:00:18.640] LOG: This visit should also provide an opportunity for one of my officers to correct a grave injustice.
+[00:00:24.640 --> 00:00:24.960] WORF: Enter.
+[00:00:27.920 --> 00:00:28.560] PICARD: Am I intruding?
+[00:00:29.040 --> 00:00:29.440] WORF: No, sir.
+[00:00:30.240 --> 00:00:31.040] WORF: My apologies, Captain.
+[00:00:31.040 --> 00:00:32.000] WORF: I can be back in uniform
+[00:00:32.000 --> 00:00:32.320] PICARD: No, that
+[00:00:32.320 --> 00:00:33.520] PICARD: won't be necessary, Mister Worf.
+[00:00:34.240 --> 00:00:35.280] PICARD: I'm not here as your captain.
+[00:00:36.560 --> 00:00:42.720] PICARD: I'm here as the man who stood with you before the High Council. Your cha'DIch.
+[00:00:44.240 --> 00:00:46.480] PICARD: We will arrive at your home world in less than a day.
+[00:00:50.080 --> 00:00:51.680] WORF: It is not time yet.
+[00:00:52.880 --> 00:00:59.920] PICARD: That doesn't sound like the man who came to me a year ago fiercely determined to return home and to clear his father's name or die trying.
+[00:01:01.440 --> 00:01:05.280] PICARD: Isn't it time to confront the Council? To regain your family name?
+[00:01:06.240 --> 00:01:07.200] PICARD: Let the truth be known?
+[00:01:09.280 --> 00:01:10.640] WORF: I have been told
+[00:01:12.480 --> 00:01:17.040] WORF: that patience is sometimes a more effective weapon than the sword.
+[00:01:19.520 --> 00:01:24.400] PICARD: Patience is a human virtue, one which I am glad to see you've taken to heart.
+[00:01:25.520 --> 00:01:29.440] PICARD: But doesn't this situation require a more Klingon response?
+[00:01:30.800 --> 00:01:34.320] PICARD: Your discommendation is a facade
+[00:01:34.946 --> 00:01:38.466] PICARD: to protect less honourable men. It is a lie.
+[00:01:38.866 --> 00:01:40.306] PICARD: Lies must be challenged.
+[00:01:43.426 --> 00:01:46.546] WORF: I have grown weary of bearing this dishonour.
+[00:01:47.826 --> 00:01:48.626] RIKER: Riker to Picard.
+[00:01:49.426 --> 00:01:50.066] PICARD: Go ahead, Number One.
+[00:01:50.866 --> 00:01:53.266] RIKER: We've been intercepted by the Klingon vessel Bortas.
+[00:01:53.746 --> 00:01:54.626] RIKER: They claim to be our escort.
+[00:01:56.466 --> 00:01:57.506] WORF: No escort was scheduled.
+[00:02:03.106 --> 00:02:06.706] RIKER: The Bortas is standing by, Captain.
+[00:02:07.186 --> 00:02:07.746] PICARD: On screen.
+[00:02:09.426 --> 00:02:09.906] PICARD: Gowron.
+[00:02:10.546 --> 00:02:11.826] PICARD: This is an unexpected pleasure.
+[00:02:12.066 --> 00:02:13.346] GOWRON: I must speak with you, Picard.
+[00:02:14.146 --> 00:02:16.466] GOWRON: We will have to move quickly if we are to be successful.
+[00:02:17.186 --> 00:02:17.826] PICARD: Successful?
+[00:02:18.386 --> 00:02:18.866] GOWRON: Yes.
+[00:02:21.106 --> 00:02:23.346] GOWRON: In preventing a Klingon civil war.
+[00:02:56.306 --> 00:02:58.946] PICARD: Space, the final frontier.
+[00:03:00.850 --> 00:03:03.730] PICARD: These are the voyages of the starship Enterprise.
+[00:03:04.850 --> 00:03:12.850] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:14.450 --> 00:03:17.330] PICARD: to boldly go where no one has gone before.
+[00:03:23.890 --> 00:03:23.970] GOWRON: The
+[00:04:13.650 --> 00:04:16.050] GOWRON: family of Duras is massing support.
+[00:04:17.570 --> 00:04:19.250] GOWRON: They have many allies on the Council.
+[00:04:19.730 --> 00:04:21.090] PICARD: Duras died in disgrace.
+[00:04:21.330 --> 00:04:23.890] PICARD: By Klingon tradition, his family should share that disgrace.
+[00:04:24.210 --> 00:04:26.290] GOWRON: Their corruption has poisoned the Empire.
+[00:04:27.250 --> 00:04:30.130] GOWRON: Honour will soon have no meaning.
+[00:04:31.330 --> 00:04:32.770] PICARD: And who speaks for his family now?
+[00:04:33.170 --> 00:04:34.050] GOWRON: Lursa and B'Etor,
+[00:04:35.195 --> 00:04:36.573] GOWRON: the sisters of Duras.
+[00:04:36.573 --> 00:04:39.675] PICARD: And they would claim the leadership of the Council?
+[00:04:40.075 --> 00:04:41.515] GOWRON: Women may not serve on the Council.
+[00:04:43.595 --> 00:04:44.155] PICARD: Then how
+[00:04:44.235 --> 00:04:46.795] GOWRON: I don't know. But they are plotting something.
+[00:04:48.795 --> 00:04:52.635] GOWRON: They have secured the loyalty of at least three fleet commanders.
+[00:04:53.915 --> 00:04:57.835] GOWRON: Lursa and B'Etor are feared, and fear is power.
+[00:04:59.995 --> 00:05:01.675] PICARD: I do not see what I can do to assist.
+[00:05:02.155 --> 00:05:04.475] GOWRON: You were first chosen as Arbiter of Succession
+[00:05:05.995 --> 00:05:08.795] GOWRON: because no Klingon could be trusted.
+[00:05:12.715 --> 00:05:17.915] GOWRON: You accepted this duty and you must see it through to the end.
+[00:05:19.115 --> 00:05:21.115] GOWRON: You must ensure my installation.
+[00:05:21.755 --> 00:05:22.955] PICARD: That is beyond my purview.
+[00:05:26.315 --> 00:05:27.515] GOWRON: You will not support me?
+[00:05:29.435 --> 00:05:33.115] PICARD: I will not step outside the traditional role of the Arbiter.
+[00:05:33.675 --> 00:05:35.755] GOWRON: And if they attempt to block my installation?
+[00:05:37.755 --> 00:05:39.275] PICARD: Then I can only assure you
+[00:05:40.875 --> 00:05:44.235] PICARD: that I will deal with any challenge according to Klingon law.
+[00:05:45.835 --> 00:05:46.475] GOWRON: I fear
+[00:05:48.315 --> 00:05:49.595] GOWRON: that will not be enough.
+[00:05:53.435 --> 00:05:53.675] PICARD: Mister Worf,
+[00:05:53.915 --> 00:05:55.675] PICARD: would you escort our guest to the transporter room?
+[00:06:07.208 --> 00:06:11.848] PICARD: Begin monitoring Romulan activity along the Neutral Zone, Mister Data.
+[00:06:12.328 --> 00:06:15.128] PICARD: Have the outpost stations send us their tactical reports.
+[00:06:15.448 --> 00:06:15.688] DATA: Aye, sir.
+[00:06:17.448 --> 00:06:20.448] PICARD: The Duras family are preparing to move against Gowron.
+[00:06:20.448 --> 00:06:21.448] RIKER: Backed by Romulans?
+[00:06:21.768 --> 00:06:22.248] PICARD: I don't know.
+[00:06:23.448 --> 00:06:27.448] PICARD: But there is too much history between the Duras and the Romulans to discount the possibility.
+[00:06:38.408 --> 00:06:38.888] WORF: Dismissed.
+[00:06:42.328 --> 00:06:42.568] WORF: I
+[00:06:46.488 --> 00:06:47.288] WORF: would speak with you.
+[00:06:48.008 --> 00:06:49.848] GOWRON: I do not hear the words of traitors.
+[00:06:54.088 --> 00:06:57.848] WORF: I am not a traitor.
+[00:06:58.728 --> 00:07:00.888] GOWRON: You admitted your guilt before the Council.
+[00:07:01.128 --> 00:07:04.248] WORF: I accepted discommendation to protect the Empire.
+[00:07:05.288 --> 00:07:06.008] GOWRON: Protect it?
+[00:07:07.368 --> 00:07:07.688] GOWRON: How?
+[00:07:08.008 --> 00:07:14.728] WORF: It was Duras' father who betrayed our people to the Romulans at Khitomer,
+[00:07:14.728 --> 00:07:15.688] WORF: not mine.
+[00:07:17.528 --> 00:07:17.768] GOWRON: Duras?
+[00:07:20.968 --> 00:07:21.208] GOWRON: There
+[00:07:24.648 --> 00:07:26.088] GOWRON: is proof of this?
+[00:07:27.528 --> 00:07:28.248] WORF: There is.
+[00:07:29.448 --> 00:07:32.088] GOWRON: Why would you accept dishonour to protect Duras?
+[00:07:32.088 --> 00:07:34.008] WORF: His family
+[00:07:34.798 --> 00:07:35.838] WORF: was too powerful.
+[00:07:35.838 --> 00:07:35.998] WORF: To
+[00:07:37.758 --> 00:07:39.918] WORF: expose him would have split the Empire.
+[00:07:40.638 --> 00:07:43.438] WORF: Instead, the Council chose to blame my father.
+[00:07:44.318 --> 00:07:45.118] GOWRON: The Council knew?
+[00:07:57.038 --> 00:07:59.758] WORF: I believe you to be a man of honour, Gowron.
+[00:08:04.638 --> 00:08:07.438] WORF: I ask you, restore my family name.
+[00:08:10.798 --> 00:08:11.118] GOWRON: Worf,
+[00:08:14.878 --> 00:08:16.158] GOWRON: you killed Duras.
+[00:08:17.838 --> 00:08:19.598] GOWRON: I consider that no small favour.
+[00:08:21.118 --> 00:08:23.438] GOWRON: But what you ask is impossible.
+[00:08:23.998 --> 00:08:25.358] WORF: But after your installation
+[00:08:25.518 --> 00:08:27.918] GOWRON: The grasp of Duras reaches out from the grave.
+[00:08:30.398 --> 00:08:34.318] GOWRON: Much of the Council is still loyal to his family.
+[00:08:36.718 --> 00:08:41.438] GOWRON: I must have the Council's support to survive.
+[00:08:42.718 --> 00:08:44.878] GOWRON: I cannot expose their treachery.
+[00:08:47.598 --> 00:08:52.638] GOWRON: You chose to accept this disgrace for the good of the Empire.
+[00:08:53.998 --> 00:08:58.318] GOWRON: Now you must live with your decision, like a Klingon.
+[00:09:16.964 --> 00:09:18.964] WORF: Guinan?
+[00:09:20.564 --> 00:09:24.404] GUINAN: It's a little quiet down in Ten Forward, so I thought I'd get off a little target practice.
+[00:09:24.884 --> 00:09:26.724] GUINAN: Do you mind if I join you?
+[00:09:26.724 --> 00:09:26.724] WORF: You?
+[00:09:27.444 --> 00:09:27.924] WORF: Practise?
+[00:09:28.484 --> 00:09:29.524] GUINAN: I like to keep my eye sharp.
+[00:09:31.444 --> 00:09:32.804] WORF: I practice at level fourteen.
+[00:09:34.724 --> 00:09:36.644] GUINAN: Guess I could come down to that level for a while.
+[00:09:38.884 --> 00:09:39.684] GUINAN: Begin programme.
+[00:09:43.364 --> 00:09:48.644] GUINAN: You know, I had a bet with the Captain that I could make you laugh before you became Lieutenant Commander.
+[00:09:51.844 --> 00:09:52.964] WORF: Not a good bet today.
+[00:09:53.284 --> 00:09:57.204] GUINAN: I've seen you laugh. I like it.
+[00:10:00.004 --> 00:10:01.284] WORF: Klingons do not laugh.
+[00:10:04.004 --> 00:10:05.524] GUINAN: Oh yes they do.
+[00:10:05.924 --> 00:10:06.804] GUINAN: Absolutely they do.
+[00:10:06.804 --> 00:10:07.924] GUINAN: You don't.
+[00:10:08.404 --> 00:10:10.644] GUINAN: But I've heard some Klingon belly laughs that would curl your hair.
+[00:10:15.844 --> 00:10:17.444] GUINAN: Your son laughs.
+[00:10:18.004 --> 00:10:18.564] GUINAN: He's a Klingon.
+[00:10:18.644 --> 00:10:20.324] WORF: He is a child and part human.
+[00:10:20.884 --> 00:10:21.364] GUINAN: That's right.
+[00:10:22.404 --> 00:10:23.044] GUINAN: And you're not,
+[00:10:23.204 --> 00:10:25.924] GUINAN: you're full Klingon except you don't laugh.
+[00:10:26.404 --> 00:10:29.204] WORF: I do not laugh because I do not feel like laughing.
+[00:10:29.204 --> 00:10:32.404] GUINAN: Other Klingons feel like laughing.
+[00:10:32.404 --> 00:10:33.524] GUINAN: What does that say about you?
+[00:10:33.684 --> 00:10:36.324] WORF: Perhaps it says that I do not feel like other Klingons.
+[00:10:40.052 --> 00:10:40.932] COMPUTER: Programme complete.
+[00:10:42.132 --> 00:10:42.772] GUINAN: Good game.
+[00:10:43.572 --> 00:10:44.372] GUINAN: Don't feel bad.
+[00:10:44.372 --> 00:10:46.292] GUINAN: I was doing this long before you were born.
+[00:10:47.732 --> 00:10:48.452] GUINAN: So how is he?
+[00:10:50.052 --> 00:10:50.452] GUINAN: Your son.
+[00:10:52.532 --> 00:10:55.732] WORF: He is having difficulty adjusting to life on Earth.
+[00:10:56.212 --> 00:11:02.772] GUINAN: I can see where it might be hard for the little guy. Living with humans, being Klingon. Could be very confusing.
+[00:11:03.652 --> 00:11:05.092] WORF: It will not be easy for him.
+[00:11:05.732 --> 00:11:06.452] GUINAN: No, it won't.
+[00:11:06.772 --> 00:11:09.972] GUINAN: But at some point he's going to want to know what it's like to really be a Klingon.
+[00:11:11.572 --> 00:11:12.452] GUINAN: Just as you're learning.
+[00:11:14.132 --> 00:11:16.132] PICARD: Come.
+[00:11:34.452 --> 00:11:36.852] WORF: Captain, I request a leave of absence.
+[00:11:40.772 --> 00:11:41.092] PICARD: Mister Worf,
+[00:11:41.412 --> 00:11:42.212] PICARD: request granted.
+[00:11:43.972 --> 00:11:44.372] WORF: Thank you, sir.
+[00:11:47.492 --> 00:11:47.492] PICARD: Lieutenant.
+[00:11:47.572 --> 00:11:47.892] PICARD: Qapla! And good luck.
+[00:12:05.757 --> 00:12:10.317] LOG: Lieutenant Worf, personal log, stardate 44996.1.
+[00:12:10.877 --> 00:12:16.317] LOG: I have located the Klingon ship on which my brother Kurn serves as captain, and have arranged to join him.
+[00:12:30.637 --> 00:12:32.477] KURN: It has been too long, my brother.
+[00:12:34.237 --> 00:12:34.797] WORF: Too long.
+[00:12:35.757 --> 00:12:37.037] WORF: We have much to discuss.
+[00:12:37.757 --> 00:12:40.237] WORF: I have asked Gowron to restore our family honour.
+[00:12:40.317 --> 00:12:41.677] WORF: He has refused.
+[00:12:41.917 --> 00:12:44.637] KURN: Gowron will not live to see the day he leads the Council.
+[00:12:46.157 --> 00:12:47.037] WORF: What do you mean?
+[00:12:47.357 --> 00:12:50.557] KURN: He stands alone, surrounded by his enemies.
+[00:12:50.957 --> 00:12:55.357] KURN: Lursa and B'Etor will have him killed. And if they don't, I will.
+[00:12:56.477 --> 00:12:56.957] WORF: You will?
+[00:12:57.357 --> 00:12:58.237] KURN: Gowron is weak.
+[00:12:59.437 --> 00:13:02.557] KURN: The family of Duras must never be allowed to lead the Council.
+[00:13:03.837 --> 00:13:04.957] KURN: Our leaders have failed us.
+[00:13:05.677 --> 00:13:07.357] KURN: They no longer deserve our loyalty.
+[00:13:12.717 --> 00:13:15.357] KURN: It is time to sweep away the old Council
+[00:13:17.037 --> 00:13:19.037] KURN: and put a new one in its place.
+[00:13:22.477 --> 00:13:23.517] WORF: How can this be done?
+[00:13:26.077 --> 00:13:30.237] KURN: I already have the support of four squadron commanders in key strategic sectors.
+[00:13:30.637 --> 00:13:32.557] KURN: When the time comes, they will follow me.
+[00:13:33.534 --> 00:13:38.334] KURN: Join us, Worf, and we will usher in a new era and regain our family name.
+[00:13:51.614 --> 00:13:52.734] WORF: No.
+[00:13:52.734 --> 00:13:53.854] KURN: What?
+[00:13:56.894 --> 00:13:59.134] WORF: Gowron has completed the Rite of Succession.
+[00:13:59.214 --> 00:14:01.454] WORF: It is our duty to support him.
+[00:14:05.694 --> 00:14:11.454] KURN: Gowron spits in your face when you ask him to give back what is rightfully ours and you would support him?
+[00:14:11.774 --> 00:14:14.734] WORF: We cannot regain honour by acting dishonourably.
+[00:14:15.054 --> 00:14:17.054] KURN: I will not support Gowron.
+[00:14:19.854 --> 00:14:22.334] WORF: I am the elder brother, Kurn.
+[00:14:24.174 --> 00:14:25.774] WORF: I speak for our family.
+[00:14:26.254 --> 00:14:28.174] WORF: We will back Gowron.
+[00:14:31.454 --> 00:14:31.614] WORF: But
+[00:14:33.374 --> 00:14:34.574] WORF: not now. Not yet.
+[00:14:37.294 --> 00:14:42.334] WORF: We will wait until he feels the grasp of his enemies around his throat.
+[00:14:43.214 --> 00:14:51.454] WORF: Then we will offer him our support. And the price will be the restoration of our family
+[00:14:53.934 --> 00:14:55.934] WORF: name.
+[00:15:04.654 --> 00:15:05.774] KURN: It will be difficult to
+[00:15:06.186 --> 00:15:08.746] KURN: convince my allies to back Gowron.
+[00:15:11.546 --> 00:15:12.506] KURN: But I will try.
+[00:15:13.786 --> 00:15:18.506] KURN: I must go to the Mempa sector to meet with the other squadron commanders.
+[00:15:18.906 --> 00:15:21.306] WORF: Contact me when you have gained their support.
+[00:15:22.506 --> 00:15:24.506] WORF: Then I will be ready for Gowron.
+[00:15:30.666 --> 00:15:33.386] LOG: Captain's log, stardate 44996.8.
+[00:15:34.106 --> 00:15:39.146] LOG: My role as Arbiter of Succession has again brought me to the Great Hall of the Klingon High Council.
+[00:15:43.466 --> 00:15:45.946] K'TAL: naDev ghoS!
+[00:15:53.226 --> 00:15:55.408] K'TAL: Have you reached a decision regarding the succession of power?
+[00:15:55.408 --> 00:15:55.626] PICARD: Qaja
+[00:15:56.586 --> 00:16:00.106] PICARD: plu d'itch jung. La woq you ghir klas qimha.
+[00:16:02.106 --> 00:16:05.173] PICARD: Gowron. Doj hon. Doj hon.
+[00:16:05.173 --> 00:16:05.786] K'TAL: Gowron,
+[00:16:12.266 --> 00:16:14.026] K'TAL: son of M'Rel, hakt'em.
+[00:16:17.546 --> 00:16:20.666] K'TAL: The Arbiter confirms that you have completed the Rite of Succession.
+[00:16:22.266 --> 00:16:23.466] K'TAL: Your enemies have been destroyed.
+[00:16:24.266 --> 00:16:24.986] K'TAL: You stand alone.
+[00:16:26.906 --> 00:16:28.506] K'TAL: Do you wish to claim leadership of the Council?
+[00:16:29.706 --> 00:16:30.506] GOWRON: I wish it.
+[00:16:33.066 --> 00:16:34.586] K'TAL: Are there no other challengers?
+[00:16:49.998 --> 00:16:50.478] TORAL: There is one.
+[00:16:52.318 --> 00:16:53.278] TORAL: I will challenge him.
+[00:16:55.518 --> 00:16:56.878] GOWRON: An arrogant child!
+[00:16:57.918 --> 00:16:58.318] K'TAL: Who are you?
+[00:16:58.878 --> 00:17:01.518] TORAL: I am Toral, son of Duras.
+[00:17:02.158 --> 00:17:03.758] GOWRON: Duras had no son.
+[00:17:03.998 --> 00:17:05.598] B'ETOR: But he did, Gowron.
+[00:17:08.798 --> 00:17:11.758] GOWRON: So, this is your doing, Lursa.
+[00:17:12.478 --> 00:17:14.318] LURSA: We wish to address the Council.
+[00:17:17.198 --> 00:17:17.518] K'TAL: Lursa,
+[00:17:21.198 --> 00:17:22.158] K'TAL: B'Etor, come forward.
+[00:17:26.478 --> 00:17:33.518] LURSA: Members of the High Council, it is a day of great rejoicing for the family of Duras and the Klingon Empire.
+[00:17:33.998 --> 00:17:38.238] LURSA: We have discovered that our brother did indeed have a son and heir.
+[00:17:39.598 --> 00:17:40.558] GOWRON: This is outrageous.
+[00:17:41.198 --> 00:17:42.478] GOWRON: Duras had no mate.
+[00:17:43.758 --> 00:17:45.278] GOWRON: Where did you find him, Lursa?
+[00:17:46.318 --> 00:17:47.998] GOWRON: In a harlot's bedchamber?
+[00:17:48.478 --> 00:17:50.478] TORAL: I will personally cut your tongue out,
+[00:17:51.118 --> 00:17:52.051] TORAL: Yintagh!
+[00:17:52.051 --> 00:17:53.918] GOWRON: Impudent wretch.
+[00:17:54.318 --> 00:17:57.598] B'ETOR: A simple genetic scan will prove his bloodline is valid.
+[00:17:58.238 --> 00:18:01.118] GOWRON: The illegitimate son of Duras cannot rule the High Council.
+[00:18:01.290 --> 00:18:03.050] K'TAL: The Arbiter will consider his validity.
+[00:18:05.610 --> 00:18:06.010] K'TAL: Len'mat.
+[00:18:31.210 --> 00:18:34.090] LURSA: Our allies on the Council backed Toral's claim.
+[00:18:35.210 --> 00:18:37.130] LURSA: It's in Picard's hands, now.
+[00:18:37.450 --> 00:18:38.170] MOVAR: Excellent.
+[00:18:38.570 --> 00:18:40.650] MOVAR: Everything is proceeding as scheduled.
+[00:18:41.050 --> 00:18:42.570] TORAL: Why not just kill Picard?
+[00:18:42.890 --> 00:18:43.370] B'ETOR: Fool!
+[00:18:44.250 --> 00:18:45.690] B'ETOR: Do we want the Federation as our enemy?
+[00:18:46.570 --> 00:18:46.810] TORAL: No.
+[00:18:47.450 --> 00:18:48.410] WOMAN: At least, not yet.
+[00:18:50.330 --> 00:18:56.570] WOMAN: But when the time is right we will deal with the Federation and Captain Picard.
+[00:18:58.330 --> 00:19:00.330] KURN: I
+[00:19:05.050 --> 00:19:08.970] KURN: have met with the other squadron commanders here.
+[00:19:09.450 --> 00:19:10.650] KURN: Three will join us,
+[00:19:11.050 --> 00:19:11.930] KURN: one will not.
+[00:19:12.730 --> 00:19:15.850] KURN: That gives us enough strength to control seven key sectors.
+[00:19:17.930 --> 00:19:19.370] WORF: Do you know the strength of our enemies?
+[00:19:19.770 --> 00:19:21.450] KURN: They have at least seven squadrons,
+[00:19:21.770 --> 00:19:24.570] KURN: but most of the fleet has not decided which banner to follow.
+[00:19:26.330 --> 00:19:28.410] WORF: Gowron is nearly out of options.
+[00:19:29.530 --> 00:19:30.970] WORF: Soon he will have no choice
+[00:19:31.530 --> 00:19:33.370] KURN: I will return soon to the home world.
+[00:19:34.220 --> 00:19:35.020] KURN: We shall meet then.
+[00:19:35.020 --> 00:19:35.020] DATA: Do
+[00:19:39.340 --> 00:19:42.300] DATA: you also require the original logs recorded during the attack, Lieutenant?
+[00:19:42.700 --> 00:19:44.380] WORF: Everything we have on the Khitomer massacre.
+[00:19:45.260 --> 00:19:49.820] DATA: We can provide you with our analysis of the communications between the Khitomer outpost and the Romulan ships.
+[00:19:50.220 --> 00:19:53.145] DATA: However, for a complete record you will have to contact Starbase twenty four
+[00:19:53.145 --> 00:19:53.820] PICARD: Mister Worf. Have
+[00:19:56.140 --> 00:19:57.100] PICARD: you cancelled your leave?
+[00:19:57.740 --> 00:19:58.060] WORF: No, sir.
+[00:20:00.300 --> 00:20:01.420] PICARD: Lieutenant, would you join me in
+[00:20:02.940 --> 00:20:05.340] PICARD: my Ready room?
+[00:20:13.180 --> 00:20:13.740] PICARD: Mister Worf, you're
+[00:20:15.340 --> 00:20:20.380] PICARD: using our files on the Khitomer massacre as evidence against Duras' father?
+[00:20:21.420 --> 00:20:21.660] WORF: Yes, sir.
+[00:20:22.620 --> 00:20:25.965] PICARD: Do you not see an inherent conflict of interest here?
+[00:20:25.965 --> 00:20:26.300] WORF: Sir,
+[00:20:26.780 --> 00:20:31.100] WORF: those Federation records will help me prove that my father was falsely accused of treason.
+[00:20:31.180 --> 00:20:35.500] PICARD: You are using your position as a Starfleet officer to affect political change on your planet.
+[00:20:36.700 --> 00:20:39.820] PICARD: There could not be a worse compromise of our fundamental principles.
+[00:20:39.820 --> 00:20:41.260] WORF: Do not tie my hands now.
+[00:20:41.900 --> 00:20:44.380] WORF: I must be able to prove my father's innocence.
+[00:20:44.860 --> 00:20:46.780] WORF: Those Federation records can do that.
+[00:20:49.900 --> 00:20:50.380] PICARD: Mister Worf.
+[00:20:54.860 --> 00:20:59.820] PICARD: Here I am lecturing you on a conflict of interest while I'm desperately trying to avoid one of my own.
+[00:21:02.345 --> 00:21:06.265] PICARD: Do you think I wish to allow the Duras family to solidify their hold on the Council?
+[00:21:07.385 --> 00:21:10.345] PICARD: Do you think I cannot see for myself the implications for the Federation?
+[00:21:10.905 --> 00:21:12.585] PICARD: Good Lord, Duras tried to have me killed!
+[00:21:15.465 --> 00:21:24.985] PICARD: All of my instincts, my training, my very being as a Starfleet officer are at odds with my responsibilities as Arbiter of the Klingon High Council.
+[00:21:26.265 --> 00:21:29.145] PICARD: We walk the same tightrope between two worlds, you and I.
+[00:21:29.145 --> 00:21:33.145] PICARD: We must try our very best to keep those two worlds separate, or
+[00:21:35.705 --> 00:21:36.745] PICARD: we shall certainly fall.
+[00:21:40.825 --> 00:21:41.065] WORF: Yes, sir.
+[00:21:44.985 --> 00:21:53.465] PICARD: I will make the Khitomer massacre files available to anyone who wants them. To the High Council, to the Duras family, to you. Anyone.
+[00:21:55.785 --> 00:21:56.185] WORF: Thank you, sir.
+[00:21:57.625 --> 00:21:58.105] PICARD: Mister Worf,
+[00:22:00.105 --> 00:22:01.305] PICARD: this is as far as I can
+[00:22:04.345 --> 00:22:04.345] PICARD: go.
+[00:22:08.425 --> 00:22:09.145] RIKER: Riker to Picard.
+[00:22:10.185 --> 00:22:10.745] PICARD: Yes, Number One.
+[00:22:11.145 --> 00:22:12.985] RIKER: There's a message coming in for you from the surface.
+[00:22:13.865 --> 00:22:14.505] RIKER: It's coded personal.
+[00:22:15.385 --> 00:22:15.945] PICARD: Send it through.
+[00:22:25.385 --> 00:22:25.705] B'ETOR: Captain,
+[00:22:26.985 --> 00:22:27.305] B'ETOR: welcome.
+[00:22:28.425 --> 00:22:28.985] B'ETOR: Please,
+[00:22:29.378 --> 00:22:29.698] B'ETOR: come in.
+[00:22:34.498 --> 00:22:35.058] B'ETOR: Be seated.
+[00:22:42.098 --> 00:22:43.458] LURSA: Something to drink, Captain?
+[00:22:44.418 --> 00:22:46.978] LURSA: Tea. Earl Grey, perhaps?
+[00:22:48.178 --> 00:22:48.418] PICARD: Thank you.
+[00:22:50.258 --> 00:22:53.378] B'ETOR: You come alone, and unarmed
+[00:22:54.098 --> 00:22:57.058] PICARD: Nothing would be served by killing the Arbiter before his decision.
+[00:22:57.538 --> 00:22:58.338] B'ETOR: Nevertheless,
+[00:22:59.858 --> 00:23:02.338] B'ETOR: a brave act, Captain.
+[00:23:03.138 --> 00:23:03.618] LURSA: B'Etor.
+[00:23:15.778 --> 00:23:19.458] PICARD: Your invitation was unexpected.
+[00:23:20.098 --> 00:23:21.778] B'ETOR: We should have extended it much sooner.
+[00:23:22.258 --> 00:23:25.218] LURSA: We don't want you to judge us by your experience with our brother.
+[00:23:25.698 --> 00:23:26.818] B'ETOR: Duras was a fool.
+[00:23:27.138 --> 00:23:28.258] LURSA: He deserved to die.
+[00:23:28.498 --> 00:23:28.978] B'ETOR: Forget him.
+[00:23:30.018 --> 00:23:30.338] B'ETOR: We have.
+[00:23:31.698 --> 00:23:33.618] LURSA: We do not wish to be your enemy.
+[00:23:34.818 --> 00:23:36.498] B'ETOR: Quite the opposite.
+[00:23:37.458 --> 00:23:38.178] PICARD: That pleases me.
+[00:23:39.858 --> 00:23:44.098] LURSA: Have you made your decision regarding Toral's challenge?
+[00:23:45.138 --> 00:23:46.738] PICARD: I am pursuing it with due vigilance.
+[00:23:49.218 --> 00:23:50.818] B'ETOR: Allow me to heat your tea.
+[00:23:52.658 --> 00:23:55.858] LURSA: Toral has the bloodline to lead the Empire into the next century.
+[00:23:57.298 --> 00:23:58.818] LURSA: He has the support of the people.
+[00:23:59.458 --> 00:24:01.938] PICARD: Then it remains to see if he has the support of the law.
+[00:24:02.098 --> 00:24:02.738] B'ETOR: But he must.
+[00:24:03.535 --> 00:24:04.335] B'ETOR: Surely, you can see that.
+[00:24:07.535 --> 00:24:08.575] PICARD: I'll tell you what I see.
+[00:24:09.695 --> 00:24:18.815] PICARD: If I find Toral's challenge valid, the two of you will very quickly gain control of the Council and Gowron will be found dead shortly thereafter.
+[00:24:20.335 --> 00:24:30.335] PICARD: If I reject Toral's claim, you will accuse me of serving Federation interests. It will serve as a rallying cry to declare war and overthrow Gowron.
+[00:24:31.215 --> 00:24:32.895] LURSA: You see very clearly, Captain.
+[00:24:34.895 --> 00:24:36.575] LURSA: But one thing is missing.
+[00:24:38.495 --> 00:24:42.708] LURSA: If you rule against us and we are victorious in a war against Gowron.
+[00:24:42.708 --> 00:24:43.912] B'ETOR: Which we would be>
+[00:24:43.912 --> 00:24:47.223] LURSA: It will mean the end of the alliance with the Federation.
+[00:24:47.223 --> 00:24:51.135] B'ETOR: And we would hate to see that happen as much as you would.
+[00:24:52.735 --> 00:24:54.255] LURSA: This is not a threat, Captain.
+[00:24:55.375 --> 00:24:56.575] LURSA: Just an unfortunate truth.
+[00:24:57.775 --> 00:25:00.655] B'ETOR: So why be our enemy, when you can be our friend?
+[00:25:06.975 --> 00:25:11.295] PICARD: You have manipulated the circumstances with the skill of a Romulan.
+[00:25:12.015 --> 00:25:14.175] PICARD: My decision will be announced at high sun tomorrow.
+[00:25:14.575 --> 00:25:15.455] PICARD: Excellent tea.
+[00:25:15.455 --> 00:25:17.375] PICARD: Good day, ladies.
+[00:25:39.081 --> 00:25:40.873] K'TAL: What is your decision?
+[00:25:40.873 --> 00:25:41.321] PICARD: K'Tal,
+[00:25:41.881 --> 00:25:44.041] PICARD: this Council knows the law of heredity well.
+[00:25:44.841 --> 00:25:51.961] PICARD: G'now juk Hol pajhard. A son shall share in the honours or crimes of his father.
+[00:25:54.041 --> 00:25:55.561] PICARD: Toral is Duras' son.
+[00:25:55.801 --> 00:25:57.561] PICARD: That has been established by the genetic scan.
+[00:25:58.201 --> 00:26:13.081] PICARD: But with due respect to the traditions and laws of this High Council, there is no basis for accepting a petition for leadership from a boy who has fought no battles, shed no blood for his people, or earned no honour for himself.
+[00:26:14.761 --> 00:26:16.441] PICARD: One day, perhaps he shall.
+[00:26:17.961 --> 00:26:18.761] PICARD: But not now.
+[00:26:22.601 --> 00:26:23.321] PICARD: Duras is dead.
+[00:26:23.561 --> 00:26:25.241] PICARD: His claim to the leadership died with him.
+[00:26:26.121 --> 00:26:27.481] PICARD: Gowron shall lead the Council.
+[00:26:29.481 --> 00:26:30.761] GOWRON: The Arbiter has ruled.
+[00:26:32.121 --> 00:26:33.321] GOWRON: There are no more challengers.
+[00:26:35.881 --> 00:26:44.281] TORAL: Does the Federation dictate Klingon destiny or do we? Follow me and I will show you honour.
+[00:26:46.521 --> 00:26:47.241] GOWRON: Follow him
+[00:26:49.641 --> 00:26:52.441] GOWRON: and you reject all Klingon law.
+[00:26:54.121 --> 00:26:54.681] GOWRON: Can you
+[00:27:04.921 --> 00:27:06.041] GOWRON: not see what you are doing?
+[00:27:08.281 --> 00:27:10.121] GOWRON: Are you blind to what they represent?
+[00:27:12.428 --> 00:27:13.228] GOWRON: Then go.
+[00:27:14.428 --> 00:27:16.748] GOWRON: Your blood will paint the way to the future.
+[00:27:51.068 --> 00:27:52.668] GOWRON: Your message said it was urgent.
+[00:27:53.308 --> 00:27:54.028] GOWRON: What do you want?
+[00:27:54.668 --> 00:27:56.988] WORF: Your forces are weak, Gowron.
+[00:27:57.308 --> 00:27:59.708] WORF: You need help to fight the family of Duras.
+[00:28:00.268 --> 00:28:01.788] GOWRON: From one dishonoured Klingon.
+[00:28:02.748 --> 00:28:05.308] WORF: I offer you four Klingon squadrons.
+[00:28:07.708 --> 00:28:10.028] GOWRON: Why would they follow you, a Starfleet officer?
+[00:28:10.428 --> 00:28:13.548] WORF: They are pledged to support my brother, Kurn.
+[00:28:16.028 --> 00:28:16.748] GOWRON: Kurn is your brother?
+[00:28:17.148 --> 00:28:20.748] WORF: Yes. His true bloodlines were hidden to protect him.
+[00:28:21.868 --> 00:28:22.828] GOWRON: Kurn will follow me?
+[00:28:24.108 --> 00:28:25.708] GOWRON: He has opposed me in the past.
+[00:28:26.028 --> 00:28:28.108] WORF: I am the elder brother.
+[00:28:28.428 --> 00:28:30.028] WORF: He will do as I say.
+[00:28:31.148 --> 00:28:32.748] GOWRON: What is it you want in return?
+[00:28:33.788 --> 00:28:34.588] WORF: You know my price.
+[00:28:34.588 --> 00:28:36.268] GOWRON: The return of your honour.
+[00:28:37.708 --> 00:28:39.308] GOWRON: For the support of four squadrons?
+[00:28:39.868 --> 00:28:41.948] GOWRON: No, that will not be enough.
+[00:28:42.908 --> 00:28:45.468] GOWRON: The Duras family controls most of the fleet.
+[00:28:47.494 --> 00:28:49.174] GOWRON: We must have Federation help.
+[00:28:50.694 --> 00:28:51.974] WORF: They will not intervene.
+[00:28:52.134 --> 00:28:52.774] GOWRON: Perhaps not yet,
+[00:28:54.454 --> 00:29:00.375] GOWRON: but Starfleet Command will listen to Picard and Picard listens to you.
+[00:29:01.254 --> 00:29:03.654] WORF: I can ask nothing more of him in this matter.
+[00:29:06.054 --> 00:29:06.375] GOWRON: What?
+[00:29:07.494 --> 00:29:09.334] WORF: My duty as a Starfleet officer
+[00:29:09.334 --> 00:29:13.014] GOWRON: You come to me and demand the restoration of your family honour and now
+[00:29:15.414 --> 00:29:17.974] GOWRON: you hide behind human excuses?
+[00:29:21.814 --> 00:29:22.534] GOWRON: What are you, Worf?
+[00:29:24.294 --> 00:29:32.214] GOWRON: Do you tremble and quake with fear at the approach of combat, hoping to talk your way out of a fight like a human?
+[00:29:33.654 --> 00:29:35.654] GOWRON: Or do you hear the cry of the warrior
+[00:29:37.254 --> 00:29:40.694] GOWRON: calling you to battle, calling you to glory like a Klingon?
+[00:29:47.014 --> 00:29:49.014] GOWRON: Status!
+[00:29:49.334 --> 00:29:49.894] KLINGON: Aft
+[00:29:49.894 --> 00:29:50.934] KLINGON: shields down.
+[00:29:50.934 --> 00:29:53.014] HELMSMAN: Warp coils damaged.
+[00:29:53.014 --> 00:29:54.374] PICARD: Red alert.
+[00:29:55.494 --> 00:29:57.574] DATA: A second ship has joined the attack on the Bortas.
+[00:29:57.814 --> 00:29:57.894] PICARD: It's
+[00:30:04.694 --> 00:30:04.694] PICARD: begun.
+[00:30:04.694 --> 00:30:04.694] GOWRON: Send an emergency signal to any loyal ships!
+[00:30:17.825 --> 00:30:19.425] HELMSMAN: Impulse engines not responding!
+[00:30:29.025 --> 00:30:30.225] GOWRON: Engage emergency override!
+[00:30:32.065 --> 00:30:33.025] WORF: Override engaged.
+[00:30:33.185 --> 00:30:34.625] WORF: Disruptors still not responding.
+[00:30:35.265 --> 00:30:35.345] DATA: The
+[00:30:37.025 --> 00:30:38.625] DATA: Bortas has lost her port shields, sir.
+[00:30:39.345 --> 00:30:41.585] DATA: It is unlikely they will withstand another hit at that quarter.
+[00:30:42.385 --> 00:30:45.105] DATA: Their primary life support has failed, sir.
+[00:30:46.305 --> 00:30:47.825] RIKER: The Bortas has put out a general distress call.
+[00:30:58.145 --> 00:30:58.625] PICARD: Ensign Riol,
+[00:31:00.465 --> 00:31:03.505] PICARD: plot a course to take us safely away from the combat area. Half
+[00:31:03.505 --> 00:31:03.745] PICARD: impulse.
+[00:31:05.025 --> 00:31:06.625] RIKER: Captain, the Bortas is Gowron's ship.
+[00:31:07.665 --> 00:31:09.025] RIKER: If he's the legitimate leader of the Empire,
+[00:31:09.025 --> 00:31:09.585] RIKER: shouldn't we help him?
+[00:31:09.985 --> 00:31:13.985] PICARD: If we go to the aid of the Bortas, we'll be dragging the Federation into a Klingon civil war.
+[00:31:15.345 --> 00:31:15.905] RIKER: What about Worf?
+[00:31:19.425 --> 00:31:19.665] PICARD: Ensign,
+[00:31:20.945 --> 00:31:21.425] PICARD: engage.
+[00:31:21.425 --> 00:31:21.905] KLINGON: Port shields
+[00:31:31.025 --> 00:31:31.665] KLINGON: are still down.
+[00:31:32.305 --> 00:31:33.425] WORF: Disruptors online.
+[00:31:33.825 --> 00:31:34.545] GOWRON: Lock on target.
+[00:31:34.945 --> 00:31:35.185] WORF: No.
+[00:31:36.865 --> 00:31:37.505] WORF: Don't you see?
+[00:31:37.905 --> 00:31:39.505] WORF: Their sensors will detect the weapons lock.
+[00:31:39.745 --> 00:31:42.065] WORF: If they think we're helpless, they will try to board the ship.
+[00:31:42.385 --> 00:31:45.185] WORF: I can aim and fire disruptors manually when they drop their shields.
+[00:31:46.474 --> 00:31:46.754] GOWRON: GhoS.
+[00:31:46.754 --> 00:31:47.034] WORF: Thirty
+[00:31:54.074 --> 00:31:55.514] WORF: five thousand kellicams.
+[00:31:57.194 --> 00:31:58.394] WORF: Twenty thousand kellicams.
+[00:32:00.394 --> 00:32:01.754] WORF: Now within transporter range.
+[00:32:03.274 --> 00:32:03.594] GOWRON: SuH.
+[00:32:05.834 --> 00:32:06.794] WORF: They're dropping their shields.
+[00:32:07.194 --> 00:32:07.754] GOWRON: BaH!
+[00:32:16.794 --> 00:32:17.834] WORF: Firing on second target.
+[00:32:21.674 --> 00:32:23.354] KLINGON: They were able to raise the shields in time.
+[00:32:23.354 --> 00:32:24.314] KLINGON: Minor damage only.
+[00:32:29.434 --> 00:32:31.034] WORF: Disruptors offline.
+[00:32:31.034 --> 00:32:32.234] GOWRON: All power to shields.
+[00:32:32.234 --> 00:32:32.314] KLINGON: Shields
+[00:32:34.554 --> 00:32:34.554] KLINGON: failing!
+[00:32:48.554 --> 00:32:48.954] WORF: Incoming message.
+[00:32:49.274 --> 00:32:49.690] GOWRON: On viewer.
+[00:32:50.106 --> 00:32:52.314] KURN: This is Captain Kurn of the Hegh'ta.
+[00:32:52.314 --> 00:32:54.447] KURN: We come to defend the Empire
+[00:32:54.874 --> 00:32:55.674] KURN: and to follow the banner of Gowron.
+[00:32:55.674 --> 00:32:57.274] WORF: The enemy has sustained major damage to its life support systems They have disengaged.
+[00:32:57.994 --> 00:32:59.754] GOWRON: You have done well, Commander Kurn.
+[00:33:00.234 --> 00:33:03.354] GOWRON: Lursa and B'Etor have moved more quickly than I anticipated.
+[00:33:03.834 --> 00:33:05.514] GOWRON: We shall not underestimate them again.
+[00:33:06.954 --> 00:33:08.154] GOWRON: Meet us at the Great Hall.
+[00:33:11.994 --> 00:33:17.594] GOWRON: Advise the Enterprise that their delegation is welcome to attend
+[00:33:19.828 --> 00:33:21.668] GOWRON: my installation as leader.
+[00:33:24.868 --> 00:33:33.268] LOG: Captain's log, stardate 44998.3. With new-found support, Gowron has chosen to proceed with the installation ceremony.
+[00:33:34.068 --> 00:33:39.188] LOG: The Enterprise has returned so that I may perform my final duty as Arbiter of Succession.
+[00:33:56.868 --> 00:34:00.708] K'TAL: Receive now the loyalty of the Council and of the Empire.
+[00:34:01.268 --> 00:34:01.388] ALL: Qapla!
+[00:34:01.388 --> 00:34:01.508] GOWRON: naDev
+[00:34:11.188 --> 00:34:12.308] GOWRON: ghoS.
+[00:34:19.428 --> 00:34:21.428] GOWRON: You
+[00:34:25.268 --> 00:34:27.188] GOWRON: both fought as warriors.
+[00:34:27.748 --> 00:34:29.508] GOWRON: You have proved your hearts are Klingon.
+[00:34:29.668 --> 00:34:29.828] GOWRON: I
+[00:34:38.628 --> 00:34:40.388] GOWRON: return your family honour.
+[00:34:42.148 --> 00:34:45.748] GOWRON: I give you back that which was wrongfully taken from you.
+[00:34:47.268 --> 00:34:49.748] GOWRON: Let your name be spoken once again.
+[00:34:51.108 --> 00:34:52.148] GOWRON: You are Worf,
+[00:34:53.921 --> 00:34:54.401] GOWRON: son of Mogh.
+[00:35:13.361 --> 00:35:17.041] GOWRON: The Duras family is gathering a large force near Beta Thoridar.
+[00:35:18.321 --> 00:35:26.561] GOWRON: As per the terms of the Treaty of Alliance, I now formally request your assistance in fighting these enemies of the Empire.
+[00:35:27.281 --> 00:35:28.481] RIKER: These enemies are Klingons.
+[00:35:28.721 --> 00:35:31.921] GOWRON: By right and tradition, I am the sole leader.
+[00:35:33.761 --> 00:35:37.121] GOWRON: All who oppose me are traitors.
+[00:35:37.681 --> 00:35:45.041] PICARD: I understand your position, but I', sure you're aware that the Federation cannot interfere in what is, by definition, an internal Klingon affair.
+[00:35:46.481 --> 00:35:48.321] GOWRON: You arbitrated the Rite of Succession.
+[00:35:49.441 --> 00:35:51.201] GOWRON: You are already involved.
+[00:35:51.681 --> 00:35:53.781] PICARD: My duties in that regard are finished.
+[00:35:53.781 --> 00:35:54.081] WORF: Captain,
+[00:35:55.121 --> 00:35:56.241] WORF: we must intervene.
+[00:35:58.241 --> 00:36:03.121] WORF: The Duras family is corrupt and hungry for power with no sense of honour or loyalty.
+[00:36:03.521 --> 00:36:06.481] WORF: They represent a grave threat to the security of the Federation.
+[00:36:08.401 --> 00:36:08.721] WORF: Captain,
+[00:36:12.881 --> 00:36:17.041] WORF: you and I know that they have conspired with Romulans in the past.
+[00:36:17.681 --> 00:36:23.041] WORF: If they should be victors in this war, they will surely form a new Klingon-Romulan alliance.
+[00:36:23.761 --> 00:36:25.601] WORF: That would represent a fundamental shift of
+[00:36:25.681 --> 00:36:26.801] WORF: power in this quadrant.
+[00:36:27.681 --> 00:36:29.442] WORF: Starfleet must support Gowron.
+[00:36:30.401 --> 00:36:34.002] WORF: It is in the interests of both the Federation and the Empire.
+[00:36:35.681 --> 00:36:38.962] WORF: I beg you, support us in our cause.
+[00:36:40.801 --> 00:36:41.121] PICARD: Mister Worf,
+[00:36:41.121 --> 00:36:43.681] PICARD: I don't have to lecture you on the principle of non interference.
+[00:36:44.401 --> 00:36:49.841] PICARD: As Starfleet officers, we have all sworn an oath to uphold that principle whatever our personal feelings.
+[00:36:49.841 --> 00:36:52.801] PICARD: I'm sorry. I must refuse your request.
+[00:37:04.161 --> 00:37:04.482] PICARD: Mister Worf.
+[00:37:08.562 --> 00:37:09.921] PICARD: I'm afraid I must recall you to duty.
+[00:37:10.082 --> 00:37:12.161] PICARD: The Enterprise will be leaving this sector immediately.
+[00:37:15.761 --> 00:37:16.161] WORF: Captain,
+[00:37:17.121 --> 00:37:21.741] WORF: I respectfully request that I be allowed to take an extended leave of absence.
+[00:37:21.741 --> 00:37:22.401] PICARD: Mister Worf,
+[00:37:22.401 --> 00:37:28.241] PICARD: your responsibilities as a Starfleet officer are incompatible with remaining on board a Klingon ship during a time of war.
+[00:37:30.082 --> 00:37:30.482] WORF: Captain.
+[00:37:30.721 --> 00:37:33.042] PICARD: I order you to return to duty at once.
+[00:37:40.801 --> 00:37:44.562] WORF: Then I resign my commission as a Starfleet officer.
+[00:37:45.841 --> 00:37:45.841] GOWRON: I
+[00:37:52.321 --> 00:37:54.241] GOWRON: will await you aboard the Bortas.
+[00:38:30.603 --> 00:38:30.923] WORF: Enter.
+[00:38:33.403 --> 00:38:34.043] PICARD: Am I intruding?
+[00:38:35.643 --> 00:38:35.963] WORF: No, sir.
+[00:38:38.523 --> 00:38:41.477] PICARD: I understand that you'll be serving on board the Bortas.
+[00:38:41.477 --> 00:38:42.363] WORF: As weapons officer.
+[00:38:44.203 --> 00:38:46.923] PICARD: Your tactical knowledge and experience will serve them well.
+[00:38:48.683 --> 00:38:49.083] WORF: Thank you, sir.
+[00:38:52.843 --> 00:38:53.323] PICARD: Mister Worf, are
+[00:38:54.843 --> 00:38:56.683] PICARD: you certain that this is the right decision?
+[00:39:02.123 --> 00:39:03.403] WORF: I was rescued from Khitomer
+[00:39:05.003 --> 00:39:05.883] WORF: by humans.
+[00:39:07.483 --> 00:39:10.043] WORF: Raised and loved by human parents.
+[00:39:11.163 --> 00:39:15.883] WORF: I've spent most of my life around humans, fought beside them.
+[00:39:18.283 --> 00:39:20.203] WORF: But I was born a Klingon.
+[00:39:21.643 --> 00:39:23.323] WORF: My heart is of that world.
+[00:39:24.443 --> 00:39:28.523] WORF: I do hear the cry of the warrior.
+[00:39:32.264 --> 00:39:33.064] WORF: I belong with my people.
+[00:39:35.864 --> 00:39:40.264] PICARD: Being the only Klingon ever to serve in Starfleet gave you a singular distinction,
+[00:39:41.624 --> 00:39:42.024] PICARD: but
+[00:39:44.584 --> 00:39:48.664] PICARD: I felt that what was unique about you was your humanity,
+[00:39:50.984 --> 00:39:53.624] PICARD: compassion, generosity, fairness.
+[00:39:54.584 --> 00:39:58.184] PICARD: You took the best qualities of humanity and made them part of you.
+[00:39:59.064 --> 00:40:03.304] PICARD: The result was a man who I was proud to call one of my officers.
+[00:40:09.144 --> 00:40:10.984] PICARD: I'll have your belongings transported to the Bortas.
+[00:40:14.024 --> 00:40:14.424] WORF: Thank you, sir.
+[00:40:32.184 --> 00:40:32.904] PICARD: Attention on deck.
+[00:42:15.341 --> 00:42:16.605] WORF: Permission to leave the ship, sir?
+[00:42:16.621 --> 00:42:16.669] PICARD: Permission granted.
+[00:42:16.685 --> 00:42:16.701] PICARD: Qapla'
+[00:42:16.717 --> 00:42:16.733] WORF: Goodbye.
+[00:42:16.749 --> 00:42:16.765] RIKER: Dismissed.
+[00:42:16.781 --> 00:42:18.221] MOVAR: Picard has rejected Gowron's plea for help.
+[00:42:19.981 --> 00:42:21.981] MOVAR: The Enterprise has left orbit.
+[00:42:22.301 --> 00:42:22.781] TORAL: Coward!
+[00:42:23.581 --> 00:42:25.341] TORAL: He didn't have the courage to face us.
+[00:42:25.821 --> 00:42:26.461] TORAL: The Federation is
+[00:42:26.621 --> 00:42:27.581] WOMAN: Celebrate later, Toral.
+[00:42:31.303 --> 00:42:33.063] WOMAN: We should not discount Jean Luc Picard yet.
+[00:42:34.743 --> 00:42:35.303] WOMAN: He is human,
+[00:42:37.303 --> 00:42:39.943] WOMAN: and humans have a way of showing up when you least expect them.
+[00:42:50.000 --> 00:43:02.000] [music]
+[00:43:11.000 --> 00:43:29.000] [music]

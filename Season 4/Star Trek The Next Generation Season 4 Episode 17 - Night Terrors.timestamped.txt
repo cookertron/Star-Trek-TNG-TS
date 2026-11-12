@@ -1,0 +1,609 @@
+[00:00:02.480 --> 00:00:05.440] LOG: Captain's log, Stardate 44631.2.
+[00:00:06.160 --> 00:00:13.840] LOG: We are proceeding through the rim of an uncharted binary star system, where we may have located the USS Brittain. The missing science vessel
+[00:00:13.920 --> 00:00:19.440] LOG: failed to arrive at its destination and has not been heard from since a distress call twenty nine days ago.
+[00:00:19.920 --> 00:00:20.400] PICARD: On screen.
+[00:00:21.920 --> 00:00:22.400] PICARD: Magnify.
+[00:00:23.760 --> 00:00:24.640] RIKER: That's the Brittain, all right.
+[00:00:25.360 --> 00:00:28.320] DATA: The ship is intact, sir, with no indication of structural damage.
+[00:00:28.640 --> 00:00:28.983] RIKER: Engines?
+[00:00:28.983 --> 00:00:31.040] DATA: All propulsion systems are shut down.
+[00:00:31.840 --> 00:00:32.800] DATA: The ship is drifting, sir.
+[00:00:33.440 --> 00:00:34.880] PICARD: Life form readings?
+[00:00:34.880 --> 00:00:35.360] DATA: Inconclusive.
+[00:00:36.560 --> 00:00:36.960] PICARD: Counsellor?
+[00:00:38.480 --> 00:00:40.000] TROI: There is life on board, but
+[00:00:42.720 --> 00:00:42.960] PICARD: What is it?
+[00:00:44.560 --> 00:00:45.120] TROI: I don't know.
+[00:00:47.040 --> 00:00:47.600] TROI: Something
+[00:00:51.680 --> 00:00:52.800] PICARD: Number One, assemble your team.
+[00:00:53.200 --> 00:00:55.040] RIKER: Doctor Crusher, report to Transporter room three.
+[00:00:55.120 --> 00:00:56.640] RIKER: Worf. Data.
+[00:00:56.640 --> 00:01:01.200] TROI: Commander, I need to come too.
+[00:01:25.360 --> 00:01:26.320] DATA: There is no malfunction
+[00:01:27.048 --> 00:01:28.488] DATA: in any of the main systems, sir.
+[00:01:42.728 --> 00:01:43.128] WORF: Commander.
+[00:01:45.288 --> 00:01:45.848] WORF: Here's another one.
+[00:01:47.208 --> 00:01:50.168] WORF: This was done by a phaser on a setting of six or seven.
+[00:01:50.318 --> 00:01:50.918] RIKER: And
+[00:01:54.408 --> 00:01:54.888] RIKER: more over
+[00:01:56.488 --> 00:01:58.488] RIKER: here.
+[00:01:58.808 --> 00:01:59.848] CRUSHER: The entire Bridge crew.
+[00:02:02.248 --> 00:02:03.608] RIKER: Whoever did this could still be on the ship.
+[00:02:04.088 --> 00:02:07.848] TROI: There is someone alive, but he didn't kill these people.
+[00:02:09.048 --> 00:02:09.288] TROI: Here.
+[00:02:15.128 --> 00:02:18.088] TROI: I think he's Betazoid.
+[00:02:18.968 --> 00:02:19.528] TROI: It's all right.
+[00:02:19.528 --> 00:02:21.528] TROI: We're going to help you.
+[00:02:21.528 --> 00:02:21.528] TROI: Who
+[00:02:25.128 --> 00:02:25.848] TROI: did this?
+[00:02:26.568 --> 00:02:27.288] TROI: Who did this to
+[00:02:29.368 --> 00:02:31.368] TROI: you?
+[00:02:57.448 --> 00:03:00.168] PICARD: Space, the final frontier.
+[00:03:02.074 --> 00:03:04.954] PICARD: These are the voyages of the Starship Enterprise.
+[00:03:05.994 --> 00:03:18.554] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:47.000 --> 00:03:58.000] [music]
+[00:04:21.114 --> 00:04:23.114] CRUSHER: We're almost finished with the autopsies, Captain.
+[00:04:23.434 --> 00:04:24.874] PICARD: How long will it take to compile the data?
+[00:04:25.274 --> 00:04:26.074] CRUSHER: It's complicated.
+[00:04:26.554 --> 00:04:27.994] CRUSHER: The dead were found all over the ship.
+[00:04:28.646 --> 00:04:33.606] CRUSHER: Some were found locked in their rooms, barricaded, with weapons piled all around them.
+[00:04:34.326 --> 00:04:37.606] CRUSHER: Others were found in the corridors where they'd obviously had hand to hand combat.
+[00:04:38.566 --> 00:04:41.446] CRUSHER: It's going to take some time to analyse and sort through the details.
+[00:04:42.966 --> 00:04:47.366] CRUSHER: We've identified him as Andrus Hagan, from Betazed, scientific advisor.
+[00:04:48.406 --> 00:04:50.326] CRUSHER: He's in a profound catatonic state.
+[00:04:51.526 --> 00:04:52.806] TROI: I'm not getting much, Captain.
+[00:04:53.686 --> 00:04:56.406] TROI: A few words, disconnected phrases.
+[00:04:57.766 --> 00:05:00.886] TROI: I can feel his terror but I can't seem to get through to him.
+[00:05:02.646 --> 00:05:03.446] PICARD: Stay with him, Counsellor.
+[00:05:04.406 --> 00:05:06.086] PICARD: We're examining the Brittain for clues, but
+[00:05:07.766 --> 00:05:09.926] PICARD: this man is the only one left who knows what happened there.
+[00:05:12.966 --> 00:05:13.446] TROI: I'm here.
+[00:05:14.886 --> 00:05:15.686] TROI: I'm right here.
+[00:05:17.446 --> 00:05:18.166] HAGAN: Are there
+[00:05:19.926 --> 00:05:20.726] HAGAN: voices?
+[00:05:22.326 --> 00:05:22.726] TROI: Voices?
+[00:05:24.006 --> 00:05:24.806] TROI: What do they say?
+[00:05:26.086 --> 00:05:26.886] HAGAN: Both things.
+[00:05:27.926 --> 00:05:28.166] HAGAN: No.
+[00:05:29.606 --> 00:05:30.086] HAGAN: No.
+[00:05:32.486 --> 00:05:33.766] TROI: Keep talking to me.
+[00:05:34.566 --> 00:05:36.086] TROI: I'll try to understand.
+[00:05:37.526 --> 00:05:39.526] LAFORGE: All
+[00:05:41.046 --> 00:05:43.046] LAFORGE: the
+[00:05:46.406 --> 00:05:47.846] LAFORGE: engines check out perfectly, Commander.
+[00:05:48.406 --> 00:05:51.366] LAFORGE: Once we get them started, the Brittain can get back to Starbase under her own power.
+[00:05:52.006 --> 00:05:52.566] RIKER: Let's give it a try.
+[00:05:55.206 --> 00:05:56.406] LAFORGE: Pre-heating injectors.
+[00:05:57.206 --> 00:05:58.086] LAFORGE: Data, fuel flow?
+[00:05:58.646 --> 00:06:00.806] DATA: Matter valves are open and operating.
+[00:06:02.021 --> 00:06:04.981] DATA: Magnetic containment of antimatter pods is constant.
+[00:06:05.541 --> 00:06:06.661] LAFORGE: Okay, open injectors.
+[00:06:07.541 --> 00:06:08.261] DATA: Injectors open.
+[00:06:15.621 --> 00:06:16.981] DATA: There is no engine activity at all, sir.
+[00:06:17.861 --> 00:06:18.261] RIKER: What's wrong?
+[00:06:19.301 --> 00:06:19.941] LAFORGE: Nothing's wrong.
+[00:06:19.941 --> 00:06:21.221] LAFORGE: I don't
+[00:06:22.981 --> 00:06:24.981] LAFORGE: understand it.
+[00:06:25.621 --> 00:06:25.941] PICARD: Come.
+[00:06:30.341 --> 00:06:32.661] CRUSHER: I've been studying the autopsy reports.
+[00:06:32.981 --> 00:06:34.341] CRUSHER: The conclusion is appalling.
+[00:06:35.301 --> 00:06:38.261] CRUSHER: There was no outside source, no alien presence.
+[00:06:38.661 --> 00:06:41.301] CRUSHER: All thirty four of them appear to have killed each other.
+[00:06:43.061 --> 00:06:44.101] PICARD: What could have caused such an event?
+[00:06:44.981 --> 00:06:45.301] PICARD: Drugs?
+[00:06:46.501 --> 00:06:47.381] PICARD: A virus? Poison?
+[00:06:47.701 --> 00:06:53.621] CRUSHER: Toxicological tests showed no unusual substances in their systems, and they all appear to be in good health.
+[00:06:53.621 --> 00:07:00.261] CRUSHER: But for whatever reason, they seemed to turn against each other, using phasers and knives and bare hands.
+[00:07:01.461 --> 00:07:02.901] CRUSHER: I'd like you to see this, Captain.
+[00:07:03.941 --> 00:07:05.381] CRUSHER: It's from the logs of the Brittain.
+[00:07:07.221 --> 00:07:11.621] CRUSHER: Captain Zaheva's mental condition deteriorated steadily once they'd became stranded.
+[00:07:12.421 --> 00:07:14.661] CRUSHER: She began talking of plots and mutinies.
+[00:07:15.701 --> 00:07:20.421] CRUSHER: This was the last entry log, made after they had been adrift for over three weeks.
+[00:07:21.461 --> 00:07:23.781] ZAHEVA: First Officer Brink and his men were behind it.
+[00:07:25.941 --> 00:07:27.141] ZAHEVA: They got to the engines.
+[00:07:28.821 --> 00:07:29.941] ZAHEVA: They don't work anymore.
+[00:07:31.541 --> 00:07:32.821] ZAHEVA: Had to eliminate Brink.
+[00:07:34.341 --> 00:07:35.381] ZAHEVA: the ship is out of,
+[00:07:36.891 --> 00:07:39.131] ZAHEVA: out of, we're running out.
+[00:07:40.331 --> 00:07:41.211] ZAHEVA: Too dangerous!
+[00:07:42.731 --> 00:07:45.451] ZAHEVA: Out of Brink! And his men!
+[00:07:46.651 --> 00:07:46.651] VOICE: Eyes in
+[00:08:03.211 --> 00:08:06.553] VOICE: the dark.
+[00:08:07.668 --> 00:08:11.011] VOICE: One moon.
+[00:08:12.125 --> 00:08:17.696] TROI: Where are you?
+[00:08:18.811 --> 00:08:19.531] TROI: I'm coming.
+[00:08:19.611 --> 00:08:20.171] TROI: Where are you?
+[00:08:39.131 --> 00:08:42.171] VOICE: Eyes in
+[00:08:44.331 --> 00:08:44.571] VOICE: the dark.
+[00:08:45.371 --> 00:08:45.371] VOICE: One
+[00:08:47.131 --> 00:08:47.131] VOICE: moon.
+[00:08:47.131 --> 00:08:47.131] VOICE: Eyes in the dark.
+[00:08:47.131 --> 00:08:47.131] VOICE: One moon circles.
+[00:08:47.131 --> 00:08:47.131] VOICE: See the eyes in the dark.
+[00:08:47.131 --> 00:08:47.131] VOICE: One moon.
+[00:08:47.131 --> 00:08:47.131] TROI: Where are
+[00:08:52.000 --> 00:08:58.000] [gasp]
+[00:08:53.611 --> 00:08:53.851] TROI: you?
+[00:08:59.000 --> 00:09:01.000] [gasp]
+[00:09:05.320 --> 00:09:08.360] LOG: Captain's log, stardate 44635.8.
+[00:09:09.000 --> 00:09:13.240] LOG: Four days have passed, but we have made little progress in solving the mystery of the Brittain.
+[00:09:13.880 --> 00:09:19.400] LOG: I have decided we should return to Starbase two twenty, and to that end, Commander La Forge is rigging the Brittain for towing.
+[00:09:20.840 --> 00:09:25.560] LAFORGE: I'm going to try re-calibrating the field generators.
+[00:09:27.160 --> 00:09:30.920] LAFORGE: I still don't see why we can't get the engines started.
+[00:09:30.920 --> 00:09:33.320] LAFORGE: It just doesn't make any sense.
+[00:09:41.960 --> 00:09:42.840] PEEPLES: Someone's still here.
+[00:09:43.000 --> 00:09:44.840] LAFORGE: What did you say, Ensign?
+[00:09:44.840 --> 00:09:45.560] PEEPLES: Can't you hear it?
+[00:09:47.320 --> 00:09:48.520] PEEPLES: There's someone still alive on the ship!
+[00:09:54.520 --> 00:09:57.400] PEEPLES: I heard,
+[00:09:57.960 --> 00:10:01.800] PEEPLES: I mean, I thought I heard something.
+[00:10:03.400 --> 00:10:05.000] LAFORGE: The ship was searched thoroughly.
+[00:10:05.000 --> 00:10:08.120] LAFORGE: There's nobody left on board.
+[00:10:08.120 --> 00:10:08.680] PEEPLES: Sorry, sir.
+[00:10:08.680 --> 00:10:09.320] PEEPLES: My mistake.
+[00:10:09.320 --> 00:10:09.400] LAFORGE: Don't
+[00:10:11.720 --> 00:10:12.280] LAFORGE: worry about it.
+[00:10:12.280 --> 00:10:14.760] LAFORGE: There were thirty four people were found dead on this ship.
+[00:10:15.800 --> 00:10:17.160] LAFORGE: That's enough to make anybody uneasy.
+[00:10:18.840 --> 00:10:19.240] PEEPLES: Thank you, sir.
+[00:10:24.120 --> 00:10:26.440] TROI: I'm here.
+[00:10:28.920 --> 00:10:29.720] TROI: Can you hear me?
+[00:10:33.480 --> 00:10:35.240] TROI: Tell me about the voices you hear.
+[00:10:38.061 --> 00:10:38.301] HAGAN: Bright. Bright
+[00:10:41.261 --> 00:10:41.821] HAGAN: out there.
+[00:10:45.501 --> 00:10:46.541] TROI: I don't understand.
+[00:10:47.501 --> 00:10:48.381] TROI: Bright what?
+[00:10:49.261 --> 00:10:50.061] TROI: Tell me more.
+[00:11:03.021 --> 00:11:04.461] KEIKO: Boy, what a day this was.
+[00:11:05.021 --> 00:11:10.941] KEIKO: I'm doing an isozyme study on some populations of Cardilia but they're turning out to have these really weird polymorphisms.
+[00:11:11.741 --> 00:11:13.021] KEIKO: What a headache!
+[00:11:13.741 --> 00:11:14.541] O'BRIEN: Is that why you're late?
+[00:11:15.661 --> 00:11:17.821] KEIKO: Oh, no, I had a conference with Doctor Balthus.
+[00:11:18.141 --> 00:11:24.701] KEIKO: She wants to do a study on the laticifer ontogeny of the Kaladian Thorn Flower, but I don't have time to oversee another project.
+[00:11:25.581 --> 00:11:26.461] O'BRIEN: Was Tom Corbin there?
+[00:11:27.181 --> 00:11:27.341] KEIKO: What?
+[00:11:28.221 --> 00:11:29.981] O'BRIEN: Tom Corbin from the science lab.
+[00:11:31.021 --> 00:11:31.581] O'BRIEN: Remember him?
+[00:11:32.061 --> 00:11:33.181] KEIKO: Of course I remember him,
+[00:11:33.181 --> 00:11:33.368] KEIKO: but
+[00:11:33.368 --> 00:11:35.421] O'BRIEN: You use any excuse you can to pay him a visit.
+[00:11:35.741 --> 00:11:37.181] KEIKO: Miles, what are you saying?
+[00:11:37.901 --> 00:11:39.261] O'BRIEN: I think you know exactly what I'm saying.
+[00:11:42.381 --> 00:11:45.101] KEIKO: If I didn't know better, I'd say you were jealous.
+[00:11:45.251 --> 00:11:45.851] O'BRIEN: Do
+[00:11:47.501 --> 00:11:48.461] O'BRIEN: you take me for a fool?
+[00:11:58.941 --> 00:11:59.421] GILLESPIE: Hello, Chief.
+[00:12:01.181 --> 00:12:01.821] GILLESPIE: Having coffee?
+[00:12:03.021 --> 00:12:04.221] O'BRIEN: No, I'm drinking too much coffee.
+[00:12:05.393 --> 00:12:06.993] GILLESPIE: I'm surprised to see you here at this hour.
+[00:12:07.153 --> 00:12:07.713] O'BRIEN: Why's that?
+[00:12:08.753 --> 00:12:09.793] GILLESPIE: You're not out of the honeymoon yet.
+[00:12:10.353 --> 00:12:12.273] GILLESPIE: Usually newlyweds can't keep their hands off each other.
+[00:12:12.673 --> 00:12:13.953] O'BRIEN: She has work to do.
+[00:12:14.593 --> 00:12:16.353] O'BRIEN: She heads up the plant biology lab, you know.
+[00:12:17.713 --> 00:12:19.233] GILLESPIE: Any strange things going on down there?
+[00:12:20.753 --> 00:12:21.233] O'BRIEN: Like what?
+[00:12:23.793 --> 00:12:24.753] GILLESPIE: I've been hearing things.
+[00:12:25.313 --> 00:12:31.953] GILLESPIE: Kenicki in Engineering told me he saw a man in an old Starfleet uniform riding the lift near the engine core.
+[00:12:32.913 --> 00:12:35.313] GILLESPIE: When the lift got to the top, there was no one on it.
+[00:12:35.953 --> 00:12:36.833] O'BRIEN: Ghost stories.
+[00:12:36.993 --> 00:12:37.473] GILLESPIE: There's more,
+[00:12:37.633 --> 00:12:38.433] GILLESPIE: there's lots more.
+[00:12:38.913 --> 00:12:41.633] GILLESPIE: There are strange things happening on this ship, O'Brien.
+[00:12:41.633 --> 00:12:44.513] O'BRIEN: I'm surprised at you, Gillespie. A Starfleet officer.
+[00:12:45.553 --> 00:12:48.513] O'BRIEN: I have more things to worry about than shades and spirits.
+[00:13:01.713 --> 00:13:03.713] PICARD: Come.
+[00:13:03.713 --> 00:13:03.873] PICARD: Come.
+[00:13:13.233 --> 00:13:13.633] PICARD: Yes, yes.
+[00:13:43.550 --> 00:13:43.870] PICARD: Come.
+[00:13:46.430 --> 00:13:46.590] PICARD: What?
+[00:13:49.390 --> 00:13:49.870] CRUSHER: Captain,
+[00:13:50.030 --> 00:13:50.750] CRUSHER: do you have a moment?
+[00:13:51.950 --> 00:13:52.670] TROI: We're concerned.
+[00:13:53.150 --> 00:13:56.030] TROI: We're afraid whatever happened on the Brittain may be starting here.
+[00:13:56.670 --> 00:13:57.150] PICARD: Explain.
+[00:13:57.790 --> 00:14:02.030] TROI: Well, Beverly and I have been getting unusual reports.
+[00:14:02.510 --> 00:14:04.030] TROI: People behaving strangely,
+[00:14:04.110 --> 00:14:05.950] TROI: others hearing sounds that aren't there.
+[00:14:06.670 --> 00:14:08.270] PICARD: Are we talking about hallucinations?
+[00:14:08.590 --> 00:14:10.830] CRUSHER: In some cases. In others just erratic behaviour.
+[00:14:11.230 --> 00:14:14.430] TROI: We can't track down any element that might be responsible.
+[00:14:14.910 --> 00:14:16.750] PICARD: But everything started when we found the Brittain?
+[00:14:17.230 --> 00:14:18.750] CRUSHER: Yes. Captain,
+[00:14:19.230 --> 00:14:23.390] CRUSHER: we have to get the Enterprise away from here before it gets any worse.
+[00:14:25.230 --> 00:14:26.910] PICARD: We're preparing to take the Brittain in tow.
+[00:14:27.070 --> 00:14:31.230] PICARD: We'll be on our way within the hour.
+[00:14:34.990 --> 00:14:36.910] PICARD: Ensign, manoeuvre us into tractor beam range.
+[00:14:36.910 --> 00:14:36.990] RAGER: Aye,
+[00:14:38.670 --> 00:14:38.910] RAGER: sir.
+[00:14:43.870 --> 00:14:46.670] DATA: Is there a problem, Ensign?
+[00:14:48.110 --> 00:14:51.310] RAGER: I can't seem to remember how to enter the coordinates, sir.
+[00:14:51.790 --> 00:14:52.526] RIKER: Ensign Lin.
+[00:14:52.526 --> 00:14:53.630] DATA: Ready now, Captain.
+[00:14:53.630 --> 00:14:55.550] PICARD: Report to Sickbay, Ensign Rager.
+[00:14:58.030 --> 00:14:59.230] PICARD: Ready tractor beam, Mister Worf.
+[00:15:01.230 --> 00:15:03.550] DATA: Captain, thrusters are losing power.
+[00:15:04.670 --> 00:15:06.750] PICARD: Impulse engines. Ahead, minimum power.
+[00:15:08.419 --> 00:15:10.019] LIN: Impulse engines are not responding, sir.
+[00:15:10.739 --> 00:15:11.779] RIKER: Geordi, what's going on down there?
+[00:15:11.779 --> 00:15:12.979] LAFORGE: I don't know, sir.
+[00:15:13.379 --> 00:15:14.339] LAFORGE: Nothing's responding.
+[00:15:14.819 --> 00:15:15.539] PICARD: Go to warp engines,
+[00:15:15.779 --> 00:15:16.339] PICARD: factor one.
+[00:15:16.899 --> 00:15:17.379] PICARD: Engage.
+[00:15:18.259 --> 00:15:20.499] LAFORGE: Captain We don't have warp drive either.
+[00:15:23.379 --> 00:15:24.899] PICARD: We have no functional propulsion systems?
+[00:15:25.219 --> 00:15:25.539] DATA: No, sir.
+[00:15:26.179 --> 00:15:26.979] DATA: Apparently we do not.
+[00:15:27.859 --> 00:15:28.499] LIN: We're adrift.
+[00:15:28.739 --> 00:15:29.379] RIKER: Just like the
+[00:15:36.259 --> 00:15:38.259] RIKER: Brittain.
+[00:15:38.419 --> 00:15:41.379] LOG: Captain's log, stardate 44639.9.
+[00:15:42.019 --> 00:15:44.979] LOG: The Enterprise has now been adrift for a total of ten days.
+[00:15:45.219 --> 00:15:51.859] LOG: We have sent subspace distress calls, but because of our distant location, we cannot expect a response for at least another two weeks.
+[00:15:52.899 --> 00:16:04.739] DATA: After analysing the sensor logs of the Brittain and the Enterprise, as well as the data from the last series of probes, I conclude that we have become trapped in a massive rupture in space, into which energy is absorbed.
+[00:16:05.859 --> 00:16:07.299] PICARD: You mean a Tyken's rift.
+[00:16:08.019 --> 00:16:08.419] CRUSHER: A what?
+[00:16:09.299 --> 00:16:13.699] DATA: A rare anomaly named after Bela Tyken, the Melthusian captain who first encountered it.
+[00:16:14.339 --> 00:16:15.219] LAFORGE: Tyken's rift.
+[00:16:15.859 --> 00:16:17.459] LAFORGE: That would explain why we don't have engine power.
+[00:16:18.419 --> 00:16:21.219] DATA: The ship's energy is being drained into the fissure before we can utilise it.
+[00:16:27.459 --> 00:16:28.099] WORF: I was detained.
+[00:16:29.059 --> 00:16:36.099] DATA: When Tyken was trapped in the rift, his analysis determined that a massive energy release might overload
+[00:16:36.329 --> 00:16:37.769] DATA: and dislocate the anomaly.
+[00:16:38.249 --> 00:16:43.529] DATA: Fortunately, his cargo included anicium and yurium, which he used to detonate the explosion.
+[00:16:44.089 --> 00:16:46.329] DATA: He then escaped through the ruptured centre of the rift.
+[00:16:46.729 --> 00:16:49.449] LAFORGE: But we aren't carrying anything that could produce that kind of explosion.
+[00:16:49.529 --> 00:16:51.289] LAFORGE: Not even our photon torpedoes would be enough.
+[00:16:51.769 --> 00:16:53.609] RIKER: Couldn't we replicate the elements that Tyken used?
+[00:16:54.009 --> 00:16:54.249] DATA: No, sir.
+[00:16:54.729 --> 00:16:57.849] DATA: We no longer have the power to reproduce complex elements in the replicator.
+[00:16:58.409 --> 00:17:03.529] DATA: We must find a way to generate a violent energy release without using conventional means.
+[00:17:04.249 --> 00:17:09.129] CRUSHER: Data, in Tyken's experience did the crew exhibit behavioural changes?
+[00:17:09.449 --> 00:17:12.489] DATA: No. There were no reports of unusual conduct among the crew.
+[00:17:12.809 --> 00:17:13.849] TROI: What about nightmares?
+[00:17:14.249 --> 00:17:17.049] DATA: There were no records of sleep disturbances of any kind, Counsellor.
+[00:17:18.329 --> 00:17:20.089] CRUSHER: Then, what is it?
+[00:17:20.809 --> 00:17:22.169] CRUSHER: What's happening to us?
+[00:17:26.329 --> 00:17:28.409] RIKER: The only one who doesn't seem affected by all this is Data.
+[00:17:33.369 --> 00:17:33.769] RIKER: Bridge.
+[00:17:36.089 --> 00:17:36.489] PICARD: Number One,
+[00:17:37.449 --> 00:17:37.769] PICARD: how?
+[00:17:39.529 --> 00:17:39.769] RIKER: Sir?
+[00:17:41.929 --> 00:17:44.569] PICARD: Any hallucinations, nightmares?
+[00:17:45.609 --> 00:17:45.929] RIKER: No.
+[00:17:47.049 --> 00:17:49.129] RIKER: I'd be a liar if I said I felt like myself.
+[00:17:50.489 --> 00:17:52.729] RIKER: I've had to bite my tongue to keep from snapping at people.
+[00:17:52.889 --> 00:17:52.889] RIKER: A
+[00:17:54.889 --> 00:17:55.529] RIKER: couple of times, I've
+[00:17:57.209 --> 00:18:01.369] RIKER: gone to my quarters and felt as if there was someone in there, waiting for me.
+[00:18:03.209 --> 00:18:04.089] PICARD: I've had similar feelings.
+[00:18:06.809 --> 00:18:07.929] PICARD: With everyone succumbing
+[00:18:09.474 --> 00:18:13.714] PICARD: it's even more important that one of us attempt to keep control of his faculties.
+[00:18:14.674 --> 00:18:16.114] PICARD: I want you to turn in, take a nap.
+[00:18:17.234 --> 00:18:17.874] PICARD: I'll be on the Bridge.
+[00:18:17.874 --> 00:18:19.074] PICARD: You can relieve me in four hours.
+[00:18:20.594 --> 00:18:20.834] RIKER: Yes, sir.
+[00:18:22.434 --> 00:18:22.914] RIKER: Deck eight.
+[00:18:23.064 --> 00:18:23.664] PICARD: No!
+[00:19:31.074 --> 00:19:31.394] WORF: Sir?
+[00:19:34.386 --> 00:19:34.386] PICARD: As
+[00:19:49.826 --> 00:19:50.066] PICARD: you were.
+[00:19:50.216 --> 00:19:50.816] PICARD: Mister
+[00:19:58.946 --> 00:20:00.146] PICARD: Data, will you join me in my Ready room.
+[00:20:48.066 --> 00:20:51.026] DATA: Commander La Forge and I have come up with a potential solution to our predicament.
+[00:20:51.826 --> 00:20:56.226] DATA: Perhaps the modifications used to increase firepower against the Borg could be effective here.
+[00:20:58.866 --> 00:21:00.146] PICARD: Channelling power to the main,
+[00:21:01.096 --> 00:21:03.336] PICARD: er, deflector dish.
+[00:21:03.736 --> 00:21:04.056] DATA: Yes, sir.
+[00:21:05.176 --> 00:21:10.856] DATA: I believe that within six hours we could generate a concentrated burst of energy which might disrupt the Tyken's rift.
+[00:21:13.256 --> 00:21:14.216] PICARD: Very well. Proceed.
+[00:21:15.656 --> 00:21:15.816] PICARD: Mister
+[00:21:15.816 --> 00:21:16.136] PICARD: Data?
+[00:21:17.496 --> 00:21:17.736] DATA: Yes, sir?
+[00:21:19.736 --> 00:21:25.576] PICARD: It appears that I am not immune to the strange forces that are at work on this ship.
+[00:21:26.616 --> 00:21:26.856] DATA: Yes, sir.
+[00:21:29.576 --> 00:21:31.816] PICARD: It's a terrifying prospect to lose control of one's mind.
+[00:21:34.536 --> 00:21:36.696] PICARD: When I was young,
+[00:21:38.376 --> 00:21:45.816] PICARD: I remember watching my grandfather deteriorate from a powerful, intelligent figure to a
+[00:21:47.496 --> 00:21:51.256] PICARD: frail wisp of a man, who could barely make his own way home.
+[00:21:55.176 --> 00:21:55.336] PICARD: Mister
+[00:21:55.336 --> 00:22:00.696] PICARD: Data, it is my responsibility somehow to see that this ship is guided to safety.
+[00:22:03.656 --> 00:22:05.176] PICARD: I will need to rely on you from now on.
+[00:22:09.336 --> 00:22:11.096] PICARD: We may need to count on you for our very survival.
+[00:22:12.776 --> 00:22:13.656] DATA: I will do my best, sir.
+[00:22:15.176 --> 00:22:15.336] CRUSHER: I'd
+[00:22:18.696 --> 00:22:21.896] CRUSHER: like to do more cross-sections on the brain tissue of some of these bodies.
+[00:22:22.456 --> 00:22:26.536] CRUSHER: Set up the positron emission sensor in Sickbay, and I'll decide which ones I want to study.
+[00:22:27.058 --> 00:22:27.458] MEDIC: Yes, Doctor.
+[00:22:27.458 --> 00:22:27.538] CRUSHER: Go away.
+[00:23:37.458 --> 00:23:37.858] CRUSHER: Captain,
+[00:23:38.098 --> 00:23:44.258] CRUSHER: let me ask you this. Since we located the Brittain, can you remember any of your dreams?
+[00:23:47.538 --> 00:23:48.978] PICARD: I hardly ever recall dreams.
+[00:23:49.058 --> 00:23:50.578] CRUSHER: Most people don't, but think.
+[00:23:51.698 --> 00:23:53.298] CRUSHER: Have you even had a dream
+[00:23:53.654 --> 00:23:54.774] CRUSHER: in the last ten days?
+[00:23:57.414 --> 00:23:58.054] PICARD: I don't recall.
+[00:23:58.774 --> 00:23:59.974] CRUSHER: I'm willing to bet you haven't.
+[00:24:00.774 --> 00:24:05.334] CRUSHER: What's more, neither has anyone else on board this ship, except for Troi.
+[00:24:07.094 --> 00:24:10.294] CRUSHER: I began to realise that when she talked about having nightmares.
+[00:24:14.214 --> 00:24:22.294] CRUSHER: I've done some additional brain tissue tests on, er, bodies, some of the bodies from the, er,
+[00:24:24.294 --> 00:24:24.414] CRUSHER: the.
+[00:24:24.414 --> 00:24:24.534] DATA: The
+[00:24:24.934 --> 00:24:25.654] DATA: Brittain, Doctor.
+[00:24:25.814 --> 00:24:30.454] CRUSHER: Right. And I've also done some scans on a random cross-section from our crew.
+[00:24:31.094 --> 00:24:35.734] CRUSHER: They both have the same results, a unique chemical imbalance.
+[00:24:37.014 --> 00:24:37.494] PICARD: Caused by?
+[00:24:38.054 --> 00:24:39.414] CRUSHER: Dream deprivation.
+[00:24:42.054 --> 00:24:44.534] CRUSHER: Every night when we
+[00:24:46.134 --> 00:24:50.454] CRUSHER: enter into sleep.
+[00:24:53.334 --> 00:25:01.894] DATA: I believe the Doctor means is that humans enter what is known as REM sleep. Rapid eye movement.
+[00:25:02.614 --> 00:25:05.334] DATA: It is the level of brain wave activity at which one dreams.
+[00:25:05.574 --> 00:25:07.574] CRUSHER: We have to dream in order to survive.
+[00:25:09.254 --> 00:25:11.894] CRUSHER: If we don't reach REM sleep, we don't dream,
+[00:25:12.054 --> 00:25:15.334] CRUSHER: we begin to lose our cognitive abilities,
+[00:25:15.414 --> 00:25:17.414] CRUSHER: we find it hard to concentrate.
+[00:25:17.494 --> 00:25:21.494] CRUSHER: We forget how to do the most ordinary task.
+[00:25:22.091 --> 00:25:24.331] CRUSHER: Then we become irritable, paranoid.
+[00:25:24.891 --> 00:25:27.691] CRUSHER: Some people experience hallucinations.
+[00:25:28.171 --> 00:25:30.011] PICARD: You're describing the situation on this ship.
+[00:25:31.851 --> 00:25:34.251] PICARD: But Counsellor Troi reported nightmares.
+[00:25:35.851 --> 00:25:37.451] CRUSHER: Maybe it's because she's Betazoid.
+[00:25:37.451 --> 00:25:38.491] CRUSHER: I don't know why.
+[00:25:39.771 --> 00:25:47.771] CRUSHER: All I know is there's more going on here than being caught in a Tyken's rift, and I don't know how or why it's happening.
+[00:25:48.171 --> 00:25:49.371] CRUSHER: But I do know this.
+[00:25:50.891 --> 00:25:53.211] CRUSHER: There is an inevitable conclusion to this pattern,
+[00:25:54.491 --> 00:25:56.251] CRUSHER: and if I can't find a way to stop it,
+[00:25:57.771 --> 00:25:59.211] CRUSHER: we will all go insane.
+[00:25:59.361 --> 00:26:01.161] VOICE: Eyes in the dark.
+[00:26:14.184 --> 00:26:15.584] VOICE: One moon circles.
+[00:26:25.451 --> 00:26:26.891] TROI: Where are you?
+[00:26:27.041 --> 00:26:28.841] VOICE: Eyes in the dark.
+[00:26:34.778 --> 00:26:36.178] VOICE: One moon circles.
+[00:26:40.731 --> 00:26:41.451] TROI: I'm still here.
+[00:26:41.451 --> 00:26:43.611] TROI: I haven't gone anywhere.
+[00:26:45.371 --> 00:26:48.731] TROI: Do you remember anything more?
+[00:26:51.730 --> 00:26:52.050] HAGAN: Double.
+[00:26:54.130 --> 00:26:54.450] HAGAN: Double.
+[00:26:56.850 --> 00:26:58.050] TROI: What does that mean?
+[00:26:59.970 --> 00:27:01.250] TROI: Is something doubled?
+[00:27:18.770 --> 00:27:20.450] CRUSHER: Deanna, nothing's working.
+[00:27:21.890 --> 00:27:22.930] CRUSHER: I've tried somatic drugs,
+[00:27:22.930 --> 00:27:25.730] CRUSHER: I've tried inducing theta waves into the entorhinal cortex.
+[00:27:26.690 --> 00:27:30.290] CRUSHER: No matter what I do, no one can reach REM sleep.
+[00:27:30.290 --> 00:27:31.570] CRUSHER: No one can dream,
+[00:27:32.930 --> 00:27:33.730] CRUSHER: except for you.
+[00:27:38.930 --> 00:27:39.730] TROI: Except me.
+[00:27:41.810 --> 00:27:44.290] TROI: And all I have is nightmares.
+[00:27:45.810 --> 00:27:47.330] TROI: I can hardly sleep at all anymore.
+[00:27:50.610 --> 00:27:52.690] TROI: In the end, I'll be like him.
+[00:27:54.610 --> 00:27:55.890] TROI: Just like him.
+[00:27:58.930 --> 00:28:01.250] GILLESPIE: Well, I think it's some kind of experiment.
+[00:28:01.250 --> 00:28:07.410] GILLESPIE: You see, Captain Picard is trying to see how long we'll take it, stuck here like rats.
+[00:28:07.730 --> 00:28:09.010] GUINAN: You couldn't be more wrong.
+[00:28:10.290 --> 00:28:11.890] GILLESPIE: It's like we're laboratory animals.
+[00:28:12.050 --> 00:28:15.570] GILLESPIE: I don't want to sit and wait for death to sneak up behind me.
+[00:28:16.893 --> 00:28:18.173] GUINAN: What's that supposed to mean?
+[00:28:18.653 --> 00:28:20.173] GILLESPIE: You heard about them on the Brittain.
+[00:28:20.173 --> 00:28:21.773] GILLESPIE: Shut in their rooms, dying alone.
+[00:28:21.773 --> 00:28:22.653] GILLESPIE: That's not for me.
+[00:28:23.613 --> 00:28:25.053] GILLESPIE: I'd rather go out fighting.
+[00:28:30.493 --> 00:28:33.693] LAFORGE: Okay, all the power has been channelled to the, er,
+[00:28:35.293 --> 00:28:35.677] LAFORGE: the
+[00:28:35.677 --> 00:28:37.213] DATA: The main deflector dish.
+[00:28:37.213 --> 00:28:39.533] LAFORGE: Yes. Right. The deflector dish.
+[00:28:42.013 --> 00:28:42.493] LAFORGE: So,
+[00:28:46.093 --> 00:28:46.813] LAFORGE: what do we do now?
+[00:28:47.693 --> 00:28:50.973] DATA: Data to Bridge. Mister Worf, activate the deflector.
+[00:28:51.293 --> 00:28:51.773] WORF: Aye, sir.
+[00:28:54.653 --> 00:28:56.333] WORF: Deflector power banks approaching maximum.
+[00:28:57.693 --> 00:28:59.133] WORF: Discharge in fifteen seconds.
+[00:28:59.773 --> 00:29:01.853] LAFORGE: Data, this detonation better work.
+[00:29:02.813 --> 00:29:03.693] LAFORGE: We're not going to last much longer.
+[00:29:06.253 --> 00:29:07.293] WORF: Discharge in three seconds,
+[00:29:08.173 --> 00:29:10.093] WORF: two, one.
+[00:29:14.813 --> 00:29:15.213] RIKER: Nothing.
+[00:29:15.613 --> 00:29:16.333] RIKER: It just fizzled out.
+[00:29:16.813 --> 00:29:20.013] DATA: Captain, it appears the energy output Has been absorbed into the rift.
+[00:29:20.013 --> 00:29:22.013] PICARD: Data, can we try again?
+[00:29:22.893 --> 00:29:23.213] DATA: No, sir.
+[00:29:23.773 --> 00:29:26.333] DATA: If we draw More power, we risk losing life support systems.
+[00:29:26.653 --> 00:29:27.213] PICARD: Understood.
+[00:29:27.613 --> 00:29:28.733] PICARD: Keep me appraised, Commander.
+[00:29:46.836 --> 00:29:46.836] WORF: lujpu' jiH'e, Alexandrijn.
+[00:29:46.836 --> 00:29:46.836] TROI: Worf, no!
+[00:29:46.836 --> 00:29:46.836] WORF: You will not stop me.
+[00:30:10.516 --> 00:30:12.516] TROI: Security
+[00:30:16.916 --> 00:30:16.916] TROI: to Lieutenant
+[00:30:20.596 --> 00:30:21.476] TROI: Worf's quarters, immediately.
+[00:30:21.796 --> 00:30:22.756] WORF: No one can stop me.
+[00:30:22.996 --> 00:30:23.316] TROI: Why?
+[00:30:24.356 --> 00:30:24.916] TROI: What is it?
+[00:30:28.356 --> 00:30:28.436] WORF: I
+[00:30:32.356 --> 00:30:33.556] WORF: am no longer a warrior.
+[00:30:35.796 --> 00:30:36.276] WORF: I am no longer
+[00:30:39.956 --> 00:30:39.956] WORF: strong.
+[00:30:40.276 --> 00:30:40.356] WORF: I
+[00:30:41.876 --> 00:30:42.276] WORF: feel.
+[00:30:44.356 --> 00:30:44.356] TROI: What?
+[00:30:47.316 --> 00:30:47.876] TROI: What do you feel?
+[00:30:51.636 --> 00:30:52.676] WORF: I feel fear.
+[00:30:54.516 --> 00:31:00.196] TROI: To admit that you're afraid gives you strength.
+[00:31:01.236 --> 00:31:02.596] WORF: Something is waiting for us.
+[00:31:04.196 --> 00:31:06.036] WORF: I am not strong enough to fight it.
+[00:31:06.436 --> 00:31:07.156] TROI: No, Worf.
+[00:31:08.196 --> 00:31:09.716] TROI: It's just an illusion.
+[00:31:10.756 --> 00:31:11.796] TROI: It's not real.
+[00:31:15.461 --> 00:31:18.261] TROI: Please, put down the knife.
+[00:31:31.781 --> 00:31:32.181] SECURITY: Counsellor?
+[00:31:32.581 --> 00:31:33.861] TROI: It's all right.
+[00:31:35.621 --> 00:31:36.101] TROI: Everything's fine,
+[00:31:36.901 --> 00:31:37.141] TROI: thank
+[00:31:38.661 --> 00:31:40.661] TROI: you.
+[00:31:44.181 --> 00:31:45.141] TROI: Let me take you to Sickbay.
+[00:32:13.061 --> 00:32:16.661] LOG: Acting Captain's log, stardate 44642.1.
+[00:32:17.301 --> 00:32:20.581] LOG: I have assumed command of the Enterprise at the request of Captain Picard.
+[00:32:21.221 --> 00:32:22.741] LOG: Our situation is deteriorating.
+[00:32:23.301 --> 00:32:27.301] LOG: Many of the crew are unable to function and our life support systems are beginning to falter.
+[00:32:29.861 --> 00:32:32.021] TROI: Once before you said double.
+[00:32:33.541 --> 00:32:34.581] TROI: What did you mean?
+[00:32:34.981 --> 00:32:36.021] TROI: What is double?
+[00:32:36.661 --> 00:32:38.901] HAGAN: Mates, too bright.
+[00:32:40.421 --> 00:32:43.301] HAGAN: Twin. Cannot leave the twin.
+[00:32:44.341 --> 00:32:45.941] HAGAN: One moon circling.
+[00:32:47.306 --> 00:32:48.266] TROI: What do you mean?
+[00:32:49.546 --> 00:32:50.506] TROI: you can't leave?
+[00:32:51.546 --> 00:32:55.066] HAGAN: No, no, please. Can't.
+[00:32:56.266 --> 00:32:57.386] TROI: You want to leave.
+[00:32:57.866 --> 00:32:58.666] TROI: Why can't you?
+[00:32:59.626 --> 00:33:00.346] HAGAN: Can't go.
+[00:33:01.626 --> 00:33:01.946] HAGAN: Help.
+[00:33:02.986 --> 00:33:04.586] HAGAN: One moon circling.
+[00:33:06.346 --> 00:33:06.986] HAGAN: Eyes,
+[00:33:08.186 --> 00:33:08.586] HAGAN: that's it.
+[00:33:10.186 --> 00:33:12.506] HAGAN: Eyes in the dark.
+[00:33:12.506 --> 00:33:12.666] TROI: Eyes in
+[00:33:19.066 --> 00:33:19.306] TROI: the dark.
+[00:33:23.146 --> 00:33:24.746] TROI: That's what the voice said in my dream.
+[00:33:25.866 --> 00:33:26.986] TROI: Is that where you heard it?
+[00:33:28.186 --> 00:33:30.266] TROI: In a dream? Over and over?
+[00:33:38.106 --> 00:33:40.106] TROI: Beverly, I know what it is.
+[00:33:40.666 --> 00:33:41.786] TROI: I know what's happening.
+[00:33:41.786 --> 00:33:41.786] CRUSHER: What?
+[00:33:42.986 --> 00:33:43.706] TROI: My nightmare.
+[00:33:43.946 --> 00:33:44.826] TROI: It's not a dream.
+[00:33:45.066 --> 00:33:46.426] TROI: It's not a dream at all.
+[00:33:46.426 --> 00:33:47.386] TROI: It's a message.
+[00:33:49.066 --> 00:33:53.706] TROI: REM sleep occurs at a different frequency for Betazoids than other humanoids.
+[00:33:54.666 --> 00:34:01.226] TROI: I believe the beings are using that frequency to communicate telepathically.
+[00:34:01.866 --> 00:34:07.306] DATA: It is possible that this telepathic communication is creating interference in the REM sleep of other species.
+[00:34:08.026 --> 00:34:10.106] DATA: That would explain why the rest of our crew is not dreaming.
+[00:34:11.466 --> 00:34:13.946] PICARD: Counsellor, what are these beings trying to tell us?
+[00:34:14.586 --> 00:34:15.626] TROI: They're calling for help.
+[00:34:16.906 --> 00:34:18.026] TROI: I think they're trapped
+[00:34:18.117 --> 00:34:24.037] TROI: just like we are. Eyes in the dark could mean this twin star system.
+[00:34:24.757 --> 00:34:26.517] DATA: Your hypothesis is certainly plausible.
+[00:34:30.117 --> 00:34:34.197] DATA: There may be another ship on the other side of the fissure, where we cannot detect it.
+[00:34:34.837 --> 00:34:37.797] CRUSHER: Is there a way we could block their signals?
+[00:34:39.077 --> 00:34:41.877] DATA: There is no technology to block telepathic transmissions, Doctor.
+[00:34:43.237 --> 00:34:46.677] TROI: Maybe communication through dreams can work both ways.
+[00:34:48.277 --> 00:34:49.557] TROI: I could try to get them to stop.
+[00:34:50.757 --> 00:34:52.677] DATA: Perhaps we can accomplish more than that.
+[00:34:54.037 --> 00:34:59.717] DATA: If there is another ship, and we can reach them, we might be able to coordinate our efforts to free ourselves.
+[00:35:00.837 --> 00:35:02.037] TROI: It is conceivable.
+[00:35:03.077 --> 00:35:10.437] TROI: When working with patients with debilitating nightmares, I've often used a therapeutic treatment called directed dreaming.
+[00:35:11.237 --> 00:35:18.437] TROI: Dreamers can learn to control of their dreams, retain a conscious memory even while in REM sleep.
+[00:35:20.117 --> 00:35:23.477] TROI: I could remember a short message and deliver it to them.
+[00:35:24.917 --> 00:35:27.157] PICARD: If it were possible, what would you say?
+[00:35:31.397 --> 00:35:38.757] DATA: Working together with the aliens, we must discover a means by which we an produce an explosion more intense than either one of us could achieve alone.
+[00:35:40.597 --> 00:35:41.797] TROI: What is it you're looking for?
+[00:35:42.437 --> 00:35:43.957] DATA: These are the elements we have available.
+[00:35:44.452 --> 00:35:47.412] DATA: Some of them could be used in the creation of an explosive reaction.
+[00:35:47.972 --> 00:35:51.412] DATA: If we could communicate this inventory to the other ship, perhaps they would be able to
+[00:35:51.412 --> 00:35:52.132] TROI: No, Data,
+[00:35:52.372 --> 00:35:52.612] TROI: no.
+[00:35:53.572 --> 00:35:54.692] TROI: This is too complex.
+[00:35:55.092 --> 00:35:57.972] TROI: This has to be a simple, clear message.
+[00:35:59.172 --> 00:36:01.412] DATA: I am uncertain if a simple transmission will be adequate.
+[00:36:03.892 --> 00:36:04.212] TROI: Stop.
+[00:36:05.732 --> 00:36:06.052] TROI: Go back.
+[00:36:08.212 --> 00:36:08.692] TROI: Further back.
+[00:36:09.332 --> 00:36:09.572] TROI: There.
+[00:36:09.652 --> 00:36:09.972] TROI: Stop.
+[00:36:11.412 --> 00:36:13.252] TROI: One moon circles.
+[00:36:13.972 --> 00:36:14.612] DATA: Yes, Counsellor.
+[00:36:15.252 --> 00:36:17.012] DATA: One electron circles one proton.
+[00:36:17.972 --> 00:36:19.092] DATA: This is a hydrogen atom.
+[00:36:21.172 --> 00:36:22.372] TROI: One moon circles.
+[00:36:22.372 --> 00:36:24.452] TROI: That's what they've been telling me over and over.
+[00:36:24.852 --> 00:36:28.772] DATA: Perhaps the aliens are thinking as we are, to collaborate in producing an explosion.
+[00:36:29.972 --> 00:36:34.932] DATA: If hydrogen is combined with another element, calendenium for example, it is extremely volatile.
+[00:36:35.972 --> 00:36:37.892] DATA: But would the message mean
+[00:36:38.772 --> 00:36:41.332] DATA: they have hydrogen or they want hydrogen?
+[00:36:42.292 --> 00:36:47.332] TROI: Well, if it's a distress call, I think they'd be asking for what they need, not what they already have.
+[00:36:48.212 --> 00:36:53.732] DATA: Then the proper course of action would be to release hydrogen into the rift, and hope that they have a substance that will detonate it.
+[00:36:57.012 --> 00:36:58.212] TROI: How do I tell them what to do?
+[00:36:59.252 --> 00:37:04.452] DATA: If you are correct, Counsellor, I believe they have already told us what to do and are waiting for us to do it.
+[00:37:05.492 --> 00:37:10.532] DATA: When we are ready, the only message you should attempt to convey is, now.
+[00:37:13.092 --> 00:37:14.852] CRUSHER: I can help keep you in REM sleep
+[00:37:14.963 --> 00:37:17.763] CRUSHER: for a while with this cortical scanner.
+[00:37:19.603 --> 00:37:24.083] CRUSHER: It will maintain electrical activity in your brain at the proper frequency.
+[00:37:32.243 --> 00:37:37.523] DATA: Counsellor You will have to communicate with the other ship within two minutes of entering REM sleep.
+[00:37:37.923 --> 00:37:38.883] TROI: Two minutes.
+[00:37:39.843 --> 00:37:40.643] TROI: Is that all, Data?
+[00:37:41.203 --> 00:37:42.163] DATA: Unfortunately, yes.
+[00:37:42.483 --> 00:37:45.843] DATA: We have only enough power to emit a hydrogen stream for that amount of time.
+[00:37:46.403 --> 00:37:49.123] DATA: They must understand that they will have to detonate it immediately.
+[00:37:50.323 --> 00:37:52.403] DATA: Captain, we are ready to implement the plan.
+[00:37:53.203 --> 00:37:53.603] PICARD: Proceed.
+[00:37:55.443 --> 00:38:00.323] DATA: We will have to draw power from the life-support systems in order to discharge the collectors.
+[00:38:06.083 --> 00:38:07.203] DATA: This is Acting Captain Data.
+[00:38:07.923 --> 00:38:11.923] DATA: All personnel will report to designated shelter areas Immediately.
+[00:38:12.723 --> 00:38:16.403] DATA: Life support systems will continue only in emergency shelter areas.
+[00:38:17.683 --> 00:38:18.483] GILLESPIE: Hear that?
+[00:38:19.843 --> 00:38:21.603] GILLESPIE: Get us jammed into shelter areas.
+[00:38:23.043 --> 00:38:24.883] GILLESPIE: We sit and wait to die.
+[00:38:25.603 --> 00:38:26.723] GILLESPIE: Nobody'll ever find us.
+[00:38:27.123 --> 00:38:28.083] GUINAN: Relax, Gillespie.
+[00:38:28.243 --> 00:38:29.443] GUINAN: Everybody relax.
+[00:38:30.003 --> 00:38:32.163] GUINAN: Ten Forward is a designated shelter area.
+[00:38:32.163 --> 00:38:32.963] GUINAN: Relax.
+[00:38:33.113 --> 00:38:33.713] GILLESPIE: Do
+[00:38:35.843 --> 00:38:38.323] GILLESPIE: we want to die here like helpless children?
+[00:38:38.403 --> 00:38:40.243] GUINAN: Security to Ten Forward immediately.
+[00:38:40.243 --> 00:38:41.763] GILLESPIE: We don't even know what we're dying for.
+[00:38:41.763 --> 00:38:42.723] O'BRIEN: Sit down, Gillespie.
+[00:38:42.645 --> 00:38:43.845] O'BRIEN: You're not helping matters any.
+[00:38:44.245 --> 00:38:46.245] GILLESPIE: What's wrong with standing up for ourselves?
+[00:38:48.805 --> 00:38:50.325] GILLESPIE: Picard owes us some answers.
+[00:38:50.405 --> 00:38:50.645] GILLESPIE: What is
+[00:39:04.165 --> 00:39:06.165] GILLESPIE: that?
+[00:39:07.285 --> 00:39:09.525] GUINAN: It's a little souvenir I picked up on Magus Three.
+[00:39:10.245 --> 00:39:11.445] GUINAN: That was setting number one.
+[00:39:11.845 --> 00:39:13.445] GUINAN: Anyone want to see setting number two?
+[00:39:17.925 --> 00:39:19.685] CRUSHER: PGO signals steady.
+[00:39:20.725 --> 00:39:22.485] CRUSHER: Visual cortex showing increased activity.
+[00:39:23.765 --> 00:39:25.125] CRUSHER: Rapid eye movements commencing.
+[00:39:34.005 --> 00:39:34.805] CRUSHER: Crusher to Bridge.
+[00:39:35.205 --> 00:39:36.165] CRUSHER: She's in REM sleep.
+[00:39:36.885 --> 00:39:37.445] DATA: Thank you, Doctor.
+[00:39:38.805 --> 00:39:40.245] DATA: Activating Bussard collectors.
+[00:39:40.245 --> 00:39:40.325] TROI: Where
+[00:39:42.245 --> 00:39:43.125] TROI: are you?
+[00:40:00.725 --> 00:40:01.765] DATA: Ninety seconds remaining.
+[00:40:02.885 --> 00:40:04.205] VOICE: One moon circles.
+[00:40:04.205 --> 00:40:05.525] TROI: Where are you?
+[00:40:07.843 --> 00:40:07.843] TROI: I
+[00:40:09.923 --> 00:40:10.963] TROI: have to find you.
+[00:40:11.043 --> 00:40:15.043] TROI: I have to tell you.
+[00:40:20.003 --> 00:40:21.203] DATA: Forty five seconds remaining.
+[00:40:21.353 --> 00:40:22.353] VOICE: One moon.
+[00:40:26.483 --> 00:40:28.483] TROI: Please,
+[00:40:28.703 --> 00:40:30.883] TROI: I must find you
+[00:40:31.043 --> 00:40:34.909] TROI: to tell you.
+[00:40:35.683 --> 00:40:36.803] DATA: Thirty seconds remaining.
+[00:40:36.803 --> 00:40:37.443] VOICE: Eyes in the
+[00:40:41.923 --> 00:40:41.923] VOICE: dark.
+[00:40:42.073 --> 00:40:43.073] VOICE: One moon
+[00:40:51.603 --> 00:40:52.323] DATA: Ten seconds
+[00:40:54.083 --> 00:40:56.083] DATA: remaining.
+[00:40:59.843 --> 00:41:00.163] PICARD: Nothing.
+[00:41:01.763 --> 00:41:02.403] PICARD: No explosion.
+[00:41:03.443 --> 00:41:04.643] DATA: The Counsellor was unsuccessful.
+[00:41:11.923 --> 00:41:13.043] PICARD: Activate impulse engines.
+[00:41:14.083 --> 00:41:15.043] DATA: Engines activated, sir.
+[00:41:45.681 --> 00:41:46.641] DATA: We have cleared the rift, sir.
+[00:41:47.121 --> 00:41:48.801] DATA: Warp engines are coming back online.
+[00:41:51.281 --> 00:41:52.161] PICARD: Set a course to.
+[00:41:54.321 --> 00:41:56.241] DATA: Setting a course for Starbase two twenty.
+[00:42:05.121 --> 00:42:05.361] DATA: Sir,
+[00:42:07.281 --> 00:42:10.641] DATA: as my final duty as Acting Captain, I order you to bed.
+[00:42:11.521 --> 00:42:13.041] DATA: I shall do the same for all personnel.
+[00:42:15.041 --> 00:42:15.921] PICARD: Very well, Mister Data.
+[00:42:16.071 --> 00:42:16.671] PICARD: And
+[00:42:21.281 --> 00:42:21.841] PICARD: Mister Data,
+[00:42:24.321 --> 00:42:24.721] PICARD: thank you.
+[00:42:25.761 --> 00:42:26.401] DATA: Pleasant dreams, sir.
+[00:42:50.000 --> 00:43:02.000] [music]
+[00:43:11.000 --> 00:43:23.000] [music]
+[00:43:24.000 --> 00:43:32.000] [music]

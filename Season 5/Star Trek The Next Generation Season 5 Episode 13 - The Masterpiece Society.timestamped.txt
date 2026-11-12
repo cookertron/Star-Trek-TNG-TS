@@ -1,0 +1,724 @@
+[00:00:02.160 --> 00:00:05.040] LOG: Captain's log, stardate 45470.1.
+[00:00:05.600 --> 00:00:11.760] LOG: The Enterprise has been diverted to the Moab sector to track a stellar core fragment of a disintegrated neutron star.
+[00:00:12.320 --> 00:00:15.920] LOG: Our science teams have been asked to monitor the planetary disruptions it may cause.
+[00:00:15.920 --> 00:00:18.480] RIKER: We've got a problem.
+[00:00:18.480 --> 00:00:21.280] RIKER: Our core fragment is going to pass by Moab Four in six days.
+[00:00:22.000 --> 00:00:23.440] PICARD: Isn't that exactly what we anticipated?
+[00:00:23.760 --> 00:00:25.680] RIKER: We didn't anticipate that somebody would be living there.
+[00:00:26.240 --> 00:00:29.120] DATA: An artificial environment has been constructed on the southern continent, sir.
+[00:00:29.120 --> 00:00:32.000] PICARD: Have you definitely established that there's someone's inside it?
+[00:00:32.480 --> 00:00:33.040] DATA: Yes, Captain.
+[00:00:33.360 --> 00:00:35.040] DATA: Sensors are reading human life forms.
+[00:00:35.280 --> 00:00:36.320] PICARD: Human?
+[00:00:36.320 --> 00:00:37.600] RIKER: Are they responding to our hails, Mister Worf?
+[00:00:38.160 --> 00:00:38.640] WORF: Negative, sir.
+[00:00:39.840 --> 00:00:41.920] PICARD: Any starships ever reported missing in this sector, Mister Data?
+[00:00:43.360 --> 00:00:43.840] DATA: No, sir.
+[00:00:43.840 --> 00:00:46.480] RIKER: How the hell did they find themselves on a deserted planet?
+[00:00:46.800 --> 00:00:48.424] LAFORGE: I'm pretty sure they know we're here.
+[00:00:48.424 --> 00:00:49.120] PICARD: Mister La Forge?
+[00:00:50.560 --> 00:00:52.560] LAFORGE: Our sensors are picking up deep EM readings.
+[00:00:52.880 --> 00:00:55.109] LAFORGE: Looks like wave patterns from an obsolete subspace relay.
+[00:00:55.109 --> 00:00:58.080] RIKER: Which would suggest they also have the ability to communicate with us.
+[00:00:58.960 --> 00:01:02.240] PICARD: Mister Worf, open the lower band frequencies most commonly used in the last century.
+[00:01:04.960 --> 00:01:05.440] WORF: Channel open.
+[00:01:07.520 --> 00:01:12.480] PICARD: This is Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:01:13.680 --> 00:01:15.440] PICARD: It is urgent that you respond.
+[00:01:17.360 --> 00:01:17.600] WORF: Sir,
+[00:01:18.160 --> 00:01:20.800] WORF: defensive shield around the structure is increasing in strength.
+[00:01:21.200 --> 00:01:22.480] RIKER: Not exactly a welcome mat.
+[00:01:23.360 --> 00:01:24.720] PICARD: We mean you no harm.
+[00:01:26.160 --> 00:01:26.880] PICARD: We must warn you
+[00:01:27.501 --> 00:01:34.141] PICARD: that your planet is about to experience massive seismic disruptions due to an approaching stellar core fragment.
+[00:01:35.101 --> 00:01:37.181] PICARD: No structure will be able to withstand them.
+[00:01:41.421 --> 00:01:42.141] WORF: They are responding.
+[00:01:43.101 --> 00:01:44.594] PICARD: On screen.
+[00:01:44.594 --> 00:01:45.341] CONOR: Enterprise,
+[00:01:45.821 --> 00:01:47.021] CONOR: I am Aaron Conor.
+[00:01:47.741 --> 00:01:51.981] PICARD: Mister Conor, we were unaware that there were human colonies in this system.
+[00:01:52.861 --> 00:01:54.141] CONOR: I don't want to be rude, Captain, but
+[00:01:54.701 --> 00:01:56.701] CONOR: we don't wish to interact with outsiders.
+[00:01:57.261 --> 00:01:59.181] CONOR: I'm only responding because of your warning.
+[00:02:00.381 --> 00:02:04.301] PICARD: The fragment will have serious effects on your planet within six days.
+[00:02:04.461 --> 00:02:05.181] CONOR: Yes, I know.
+[00:02:05.341 --> 00:02:11.101] CONOR: We have been tracking it. But our biosphere has been constructed to withstand quakes of eight point seven on the Richter Scale.
+[00:02:11.741 --> 00:02:12.498] RIKER: Mister Data?
+[00:02:12.498 --> 00:02:17.421] DATA: The fragment has a density of one hundred billion kilograms per cubic centimetre.
+[00:02:17.981 --> 00:02:24.541] DATA: As a result, when it passes Moab Four, it will cause tectonic shifts well beyond eight point seven on the Richter Scale.
+[00:02:24.941 --> 00:02:26.701] PICARD: I'm afraid we're going to have to evacuate your people.
+[00:02:26.781 --> 00:02:28.221] CONOR: Evacuate?
+[00:02:28.861 --> 00:02:29.661] CONOR: That is not possible.
+[00:02:30.301 --> 00:02:31.261] CONOR: There must be an alternative.
+[00:02:31.901 --> 00:02:34.781] PICARD: Well, we will gladly explore the possibility of it with you, Mister Conor.
+[00:02:35.421 --> 00:02:37.021] PICARD: Would you like to come aboard to discuss it?
+[00:02:37.341 --> 00:02:38.541] CONOR: Our environment is sealed.
+[00:02:39.261 --> 00:02:40.621] CONOR: No one can get in or out.
+[00:02:41.821 --> 00:02:44.461] PICARD: We are capable of matter-energy transport.
+[00:02:45.181 --> 00:02:45.981] CONOR: Matter-energy?
+[00:02:46.781 --> 00:02:48.621] PICARD: We can take you directly through the structure.
+[00:02:49.821 --> 00:02:50.141] CONOR: Really?
+[00:02:51.741 --> 00:02:52.701] CONOR: That's quite remarkable.
+[00:02:53.421 --> 00:02:54.621] PICARD: May we arrange for your transport?
+[00:02:56.301 --> 00:02:57.501] CONOR: No, I must stay
+[00:02:57.508 --> 00:03:09.028] CONOR: here. But under the circumstances, I will permit a small delegation from your ship inside the biosphere. If only to see this matter-energy transportation you speak of.
+[00:03:09.508 --> 00:03:09.908] PICARD: Very good.
+[00:03:10.308 --> 00:03:12.468] PICARD: Commander Riker and an away team will join you shortly.
+[00:03:13.348 --> 00:03:13.908] PICARD: Picard out.
+[00:03:19.028 --> 00:03:20.308] MARTIN: This is a mistake, Aaron.
+[00:03:20.788 --> 00:03:21.508] CONOR: Good Lord, Martin.
+[00:03:21.828 --> 00:03:22.708] CONOR: What would you have me do?
+[00:03:22.948 --> 00:03:24.708] MARTIN: Anything that would keep them out of here.
+[00:03:24.948 --> 00:03:25.988] CONOR: We have nothing to hide.
+[00:03:26.388 --> 00:03:28.068] MARTIN: We have a great deal to lose.
+[00:03:30.068 --> 00:03:30.788] MARTIN: What is that?
+[00:03:30.788 --> 00:03:31.268] CONOR: It's them.
+[00:03:32.068 --> 00:03:32.628] CONOR: Look at this, Martin.
+[00:04:09.908 --> 00:04:12.708] PICARD: Space, the final frontier.
+[00:04:14.548 --> 00:04:17.428] PICARD: These are the voyages of the starship Enterprise.
+[00:04:18.548 --> 00:04:22.308] PICARD: Its continuing mission to explore strange new worlds.
+[00:04:23.778 --> 00:04:26.578] PICARD: To seek out new life and new civilizations, to
+[00:04:28.338 --> 00:04:31.058] PICARD: boldly go where no one has gone before.
+[00:04:32.000 --> 00:04:46.000] [music]
+[00:04:51.000 --> 00:05:13.000] [music]
+[00:05:26.898 --> 00:05:27.537] TROI: It's lovely
+[00:05:28.898 --> 00:05:31.298] TROI: I can understand why you are reluctant to leave, Mister Conor.
+[00:05:31.938 --> 00:05:33.218] CONOR: Not just reluctant, Miss Troi.
+[00:05:33.698 --> 00:05:35.138] CONOR: It is imperative that we remain.
+[00:05:35.618 --> 00:05:37.298] MARTIN: It would be suicide to evacuate.
+[00:05:37.857 --> 00:05:41.138] MARTIN: It would destroy everything we've worked for two centuries to accomplish.
+[00:05:41.218 --> 00:05:44.354] CONOR: You see, this is an engineered society.
+[00:05:44.354 --> 00:05:44.802] RIKER: Engineered?
+[00:05:44.802 --> 00:05:45.698] CONOR: Genetically engineered.
+[00:05:46.178 --> 00:05:48.818] CONOR: Our ancestors came from Earth to develop a perfect society.
+[00:05:48.818 --> 00:05:52.097] CONOR: They believed that through controlled procreation,
+[00:05:52.369 --> 00:05:57.009] CONOR: they could create people without flaws and those people would build a paradise.
+[00:05:57.649 --> 00:06:01.809] TROI: All of you have been selectively bred? Your DNA patterns chosen?
+[00:06:02.129 --> 00:06:04.255] CONOR: Eight generations of us.
+[00:06:04.255 --> 00:06:09.569] MARTIN: We have immeasurably extended the potential of humanity, physically, psychologically.
+[00:06:10.609 --> 00:06:14.038] MARTIN: We have evolved beyond, beyond
+[00:06:14.038 --> 00:06:15.409] LAFORGE: Beyond us.
+[00:06:16.449 --> 00:06:18.129] MARTIN: Frankly, yes.
+[00:06:18.929 --> 00:06:22.049] MARTIN: No one in this society would be blind, for example.
+[00:06:22.529 --> 00:06:23.489] MARTIN: No offence intended.
+[00:06:24.129 --> 00:06:25.569] LAFORGE: I can see you just fine, sir.
+[00:06:27.729 --> 00:06:29.222] MARTIN: Yes. Well, my point was just.
+[00:06:29.222 --> 00:06:29.969] CONOR: Thank you, Martin.
+[00:06:30.929 --> 00:06:34.369] CONOR: Perhaps you've also made it clear there are still a few imperfections we're working on.
+[00:06:36.689 --> 00:06:42.449] CONOR: For the most part, we've achieved a fully integrated existence. Not just among ourselves but with our environment.
+[00:06:43.089 --> 00:06:45.649] CONOR: We don't just live here, we're a part of our environment.
+[00:06:46.129 --> 00:06:46.929] CONOR: it is part of us.
+[00:06:47.489 --> 00:06:52.689] CONOR: Every plant life, every microscopic lifeform is part of a master design.
+[00:06:53.729 --> 00:06:57.969] CONOR: We cannot separate ourselves from it without irreparably altering who and what we are.
+[00:06:58.449 --> 00:07:03.089] MARTIN: Your presence here has already begun to affect the entire balance of our society.
+[00:07:03.729 --> 00:07:09.409] CONOR: If we do not survive, the balance of our society won't mean a great deal, will it?
+[00:07:15.249 --> 00:07:19.489] CONOR: I apologise. But he is performing his function as he is designed to do.
+[00:07:20.025 --> 00:07:21.385] LAFORGE: What function might that be?
+[00:07:21.705 --> 00:07:25.625] CONOR: He is the interpreter of our founders' intentions for this society.
+[00:07:26.105 --> 00:07:26.585] RIKER: A judge?
+[00:07:26.905 --> 00:07:27.705] CONOR: Yes, more or less.
+[00:07:28.265 --> 00:07:30.585] CONOR: Obviously, he has no diplomatic talents.
+[00:07:31.145 --> 00:07:32.265] TROI: And obviously you do.
+[00:07:36.265 --> 00:07:38.345] CONOR: I have been bred to fill this specific role.
+[00:07:39.065 --> 00:07:44.105] CONOR: We grow up knowing exactly what our society needs from us. What we are expected to do.
+[00:07:44.905 --> 00:07:46.265] RIKER: That must take some of fun out it?
+[00:07:46.665 --> 00:07:47.145] CONOR: Not at all.
+[00:07:47.785 --> 00:07:50.585] CONOR: My entire psychological makeup tells me that I was born to lead.
+[00:07:51.385 --> 00:07:52.985] CONOR: I am exactly what I would choose to be.
+[00:07:53.945 --> 00:07:54.665] CONOR: Think of it another way.
+[00:07:55.625 --> 00:08:00.905] CONOR: Are there still people in your society who have not discovered who they really are, or what they were meant to do with their lives?
+[00:08:01.625 --> 00:08:02.745] CONOR: They may be in the wrong job,
+[00:08:03.465 --> 00:08:04.905] CONOR: they may be writing bad poetry.
+[00:08:05.625 --> 00:08:10.425] CONOR: Or worse yet, they may be great poets working as labourers, never to be discovered.
+[00:08:11.545 --> 00:08:12.745] CONOR: That does not happen here.
+[00:08:13.785 --> 00:08:18.345] CONOR: It is, for us, an ideal existence. We will not give it up easily.
+[00:08:20.425 --> 00:08:22.585] TROI: We will do whatever we can to help you preserve it.
+[00:08:36.745 --> 00:08:39.945] CONOR: Hannah, I'd like you to meet our guests.
+[00:08:40.505 --> 00:08:41.545] HANNAH: Oh yes, of course,
+[00:08:41.545 --> 00:08:42.265] HANNAH: from the starship.
+[00:08:43.225 --> 00:08:44.665] HANNAH: I've been looking forward to speaking with you.
+[00:08:45.225 --> 00:08:46.585] CONOR: Hannah Bates is one of our scientists.
+[00:08:46.745 --> 00:08:49.145] CONOR: If there's any way to shore up our defences, Hannah will find it.
+[00:08:49.705 --> 00:08:51.385] CONOR: She has a remarkable talent with theoretical
+[00:08:51.429 --> 00:08:51.909] CONOR: physics.
+[00:08:52.949 --> 00:08:58.789] HANNAH: I've worked up a few schematics based on gravimetric potentials and deflector energy allocation.
+[00:08:58.949 --> 00:09:02.549] RIKER: Geordi, Troi and I will return to the Enterprise. When you've reached a conclusion,
+[00:09:02.549 --> 00:09:03.701] RIKER: you can contact us.
+[00:09:03.701 --> 00:09:03.989] TROI: Commander,
+[00:09:04.069 --> 00:09:07.349] TROI: if Mister Conor doesn't mind, I'd like to stay and see more of his colony.
+[00:09:07.349 --> 00:09:10.549] CONOR: No, no, that would be fine.
+[00:09:10.629 --> 00:09:12.309] CONOR: I'd like you to see it.
+[00:09:12.309 --> 00:09:13.269] RIKER: Riker to Enterprise.
+[00:09:13.669 --> 00:09:14.469] RIKER: One to beam up.
+[00:09:15.349 --> 00:09:17.349] CREWMAN: Acknowledged, Commander.
+[00:09:17.349 --> 00:09:17.989] RIKER: Energise.
+[00:09:20.389 --> 00:09:22.389] TROI: You're
+[00:09:25.749 --> 00:09:29.349] TROI: sure my being here is not going to be disruptive?
+[00:09:29.829 --> 00:09:30.309] CONOR: Disruptive?
+[00:09:32.069 --> 00:09:33.109] CONOR: You mean, what Martin was saying.
+[00:09:33.989 --> 00:09:37.269] TROI: Well, I certainly wouldn't wish to throw off your entire balance.
+[00:09:37.669 --> 00:09:38.149] CONOR: Too late.
+[00:09:38.709 --> 00:09:39.429] CONOR: The damage is done.
+[00:09:40.229 --> 00:09:40.611] TROI: Seriously.
+[00:09:40.611 --> 00:09:45.189] CONOR: I sometimes think that strict interpreters like Martin have forgotten we're still
+[00:09:45.189 --> 00:09:48.069] CONOR: human. We'll adjust, accommodate.
+[00:09:49.109 --> 00:09:55.189] TROI: There must be other unexpected events you have to deal with. An untimely death, an accident.
+[00:09:56.389 --> 00:10:00.709] CONOR: Our geneticists are able to screen out any congenital health risks before conception.
+[00:10:01.989 --> 00:10:06.869] CONOR: Our population is diverse enough to maintain a genetic balance in the event of accidental death.
+[00:10:08.149 --> 00:10:10.629] CONOR: But very little that is unexpected occurs here.
+[00:10:11.989 --> 00:10:13.589] CONOR: Am I making this sound incredibly dull?
+[00:10:14.389 --> 00:10:15.109] TROI: Not at all.
+[00:10:15.669 --> 00:10:18.469] CONOR: I'll tell you the truth, but I'll deny it if you tell Martin.
+[00:10:19.189 --> 00:10:20.469] CONOR: I've found today exhilarating.
+[00:10:21.909 --> 00:10:22.309] CONOR: Meeting you,
+[00:10:23.989 --> 00:10:24.789] CONOR: meeting new people, with
+[00:10:25.506 --> 00:10:26.066] CONOR: new ideas.
+[00:10:27.826 --> 00:10:29.426] TROI: I feel the same about being here.
+[00:10:31.186 --> 00:10:35.266] TROI: I'm something of a student of human nature, and I find this all fascinating.
+[00:10:35.986 --> 00:10:37.186] CONOR: A student of human nature?
+[00:10:37.986 --> 00:10:39.026] TROI: I'm the ship's Counsellor.
+[00:10:39.266 --> 00:10:39.426] CONOR: Ah,
+[00:10:39.506 --> 00:10:42.146] CONOR: I'm afraid you wouldn't find much work here, Counsellor.
+[00:10:43.106 --> 00:10:46.386] TROI: I'd book my next vacation at your hotel, if you had one.
+[00:10:47.826 --> 00:10:50.306] CONOR: Well in that case, I shall have to have them build
+[00:10:51.826 --> 00:10:53.826] CONOR: one.
+[00:10:53.826 --> 00:10:57.026] HANNAH: The biosphere's superstructure will never withstand the tectonic shocks.
+[00:10:57.586 --> 00:10:59.106] HANNAH: The environment would be compromised.
+[00:10:59.426 --> 00:11:00.466] LAFORGE: That's how I see it.
+[00:11:04.946 --> 00:11:05.426] HANNAH: Your ship.
+[00:11:08.386 --> 00:11:11.346] HANNAH: What kind of energy output is it capable of generating?
+[00:11:11.346 --> 00:11:14.626] LAFORGE: We have a matter-antimatter warp reaction system, the most powerful in the Starfleet.
+[00:11:15.346 --> 00:11:17.266] LAFORGE: Normally, it kicks plasma up into the terawatt range.
+[00:11:17.266 --> 00:11:17.986] LAFORGE: Why?
+[00:11:17.986 --> 00:11:20.066] HANNAH: Well, either we're going to have to move
+[00:11:21.266 --> 00:11:22.226] HANNAH: or that fragment is.
+[00:11:22.546 --> 00:11:27.346] LAFORGE: We can move a small moon or an asteroid, but a stellar core fragment?
+[00:11:28.066 --> 00:11:29.666] LAFORGE: That's much too massive for our tractor beam.
+[00:11:40.466 --> 00:11:40.866] LAFORGE: What's that?
+[00:11:41.826 --> 00:11:43.746] HANNAH: A wild idea, purely theoretical.
+[00:11:45.106 --> 00:11:45.186] LAFORGE: A
+[00:11:47.666 --> 00:11:50.626] LAFORGE: multiphase tractor beam?
+[00:11:50.946 --> 00:11:53.666] HANNAH: When we first spotted the fragment approaching, I came up with the idea, but
+[00:11:54.697 --> 00:11:56.857] HANNAH: we can't generate the kind of energy we would need.
+[00:12:01.577 --> 00:12:01.737] HANNAH: You
+[00:12:04.617 --> 00:12:06.617] HANNAH: can.
+[00:12:06.777 --> 00:12:07.897] LAFORGE: We'd need Hannah on the ship.
+[00:12:08.297 --> 00:12:08.617] MARTIN: No.
+[00:12:09.177 --> 00:12:12.617] HANNAH: With my theories and their equipment, we might be able to alter the fragment's path.
+[00:12:13.337 --> 00:12:15.497] HANNAH: It's our only chance to avoid evacuation.
+[00:12:16.217 --> 00:12:19.897] CONOR: No one had ever come here and no one had ever left, until today.
+[00:12:21.257 --> 00:12:23.577] CONOR: This is a date to note in our history books.
+[00:12:23.977 --> 00:12:27.257] MARTIN: This is in direct violation of the intentions of our founders, Aaron.
+[00:12:27.257 --> 00:12:29.177] CONOR: I don't think they intended us to die, Martin.
+[00:12:30.297 --> 00:12:32.697] MARTIN: Her absence will create an additional imbalance.
+[00:12:32.697 --> 00:12:36.057] CONOR: Temporarily. The circumstances require us to be flexible.
+[00:12:36.457 --> 00:12:40.057] MARTIN: We have no idea how molecular transport will affect her DNA.
+[00:12:40.617 --> 00:12:42.857] LAFORGE: It won't affect her DNA at all.
+[00:12:42.937 --> 00:12:44.697] LAFORGE: There's been over a century of evidence to prove that.
+[00:12:48.857 --> 00:12:49.657] CONOR: You can go, Hannah.
+[00:12:56.137 --> 00:12:57.337] TROI: May I return later?
+[00:12:58.297 --> 00:12:58.937] CONOR: I look forward to
+[00:13:02.297 --> 00:13:02.377] CONOR: it.
+[00:13:03.017 --> 00:13:03.657] LAFORGE: Enterprise,
+[00:13:04.297 --> 00:13:04.857] LAFORGE: three to beam up.
+[00:13:07.417 --> 00:13:08.137] LAFORGE: Energise.
+[00:13:12.297 --> 00:13:14.297] LOG: Captain's
+[00:13:18.457 --> 00:13:20.457] LOG: log, supplemental.
+[00:13:21.417 --> 00:13:24.937] LOG: Commander La Forge and Hannah Bates have spent three days trying to find a way to
+[00:13:25.035 --> 00:13:26.635] LOG: adjust the path of the core fragment.
+[00:13:27.115 --> 00:13:31.035] LOG: If they do not succeed in the next forty eight hours, we will need to begin evacuation.
+[00:13:31.515 --> 00:13:35.275] TROI: I believe some will choose to risk death rather than leave, Captain.
+[00:13:35.995 --> 00:13:37.515] PICARD: You've spent a good deal of time on the surface.
+[00:13:37.915 --> 00:13:39.515] PICARD: How do you suggest we change their minds?
+[00:13:40.795 --> 00:13:41.755] TROI: I'm not sure we can.
+[00:13:42.715 --> 00:13:45.515] TROI: It would mean abandoning their fundamental way of life.
+[00:13:47.115 --> 00:13:51.115] PICARD: They've managed to turn a dubious scientific endeavour into dogma.
+[00:13:51.835 --> 00:13:53.755] TROI: You don't approve of genetic engineering.
+[00:13:53.995 --> 00:13:56.395] PICARD: It was a bad idea whose time is long past.
+[00:13:57.355 --> 00:13:58.875] TROI: They seem to have made it succeed.
+[00:14:02.875 --> 00:14:06.715] PICARD: They've given away their humanity with this genetic manipulation.
+[00:14:07.915 --> 00:14:10.795] PICARD: Many of the qualities that they breed out, the
+[00:14:12.635 --> 00:14:13.435] PICARD: uncertainty, the
+[00:14:15.035 --> 00:14:19.755] PICARD: self-discovery, the unknown, those are many of the qualities that make life worth living.
+[00:14:21.515 --> 00:14:22.315] PICARD: Well, at least to me.
+[00:14:22.475 --> 00:14:29.995] PICARD: I wouldn't want to live knowing that my future was written, that my boundaries had been already set,
+[00:14:30.395 --> 00:14:30.635] PICARD: would you?
+[00:14:32.475 --> 00:14:35.595] TROI: I've asked myself that question a lot during the past few days.
+[00:14:38.795 --> 00:14:39.435] TROI: I don't know.
+[00:14:41.355 --> 00:14:41.915] TROI: I doubt it.
+[00:14:43.515 --> 00:14:48.395] TROI: Nevertheless, it's what they believe in, and it won't be an easy matter to talk them into leaving.
+[00:14:49.755 --> 00:14:54.155] PICARD: This leader of theirs, Conor, he seems to be a reasonable man.
+[00:14:54.155 --> 00:14:55.275] TROI: I find him very reasonable.
+[00:14:56.555 --> 00:14:57.835] TROI: Open to suggestions,
+[00:14:58.528 --> 00:15:00.768] TROI: thoughtful, quite disarming.
+[00:15:02.528 --> 00:15:03.648] TROI: The perfect administrator.
+[00:15:05.728 --> 00:15:06.208] PICARD: I'm sure.
+[00:15:07.728 --> 00:15:09.328] PICARD: Will he leave when he sees there's no other choice?
+[00:15:10.768 --> 00:15:11.408] TROI: I don't know.
+[00:15:11.648 --> 00:15:12.288] TROI: I hope so.
+[00:15:14.128 --> 00:15:15.568] PICARD: You admire him.
+[00:15:15.568 --> 00:15:15.968] TROI: Yes.
+[00:15:20.768 --> 00:15:28.288] PICARD: Then help him to see the reality of what may happen to his colony. If he makes the right decision, if
+[00:15:29.648 --> 00:15:33.408] PICARD: he's as good a leader as he's designed to be, then perhaps the others will follow.
+[00:15:36.368 --> 00:15:38.740] HANNAH: If we increase warp power transfer by eighty percent.
+[00:15:38.740 --> 00:15:40.848] LAFORGE: It's just going to blow the emitters again.
+[00:15:41.808 --> 00:15:44.528] HANNAH: We won't be able to reinforce the conduit to hold that power level.
+[00:15:45.248 --> 00:15:46.048] HANNAH: It just doesn't work.
+[00:15:46.528 --> 00:15:46.768] LAFORGE: Yeah.
+[00:15:50.208 --> 00:15:51.328] LAFORGE: I haven't had any sleep in so long,
+[00:15:51.328 --> 00:15:55.910] LAFORGE: my eyelids feel like they have lead weights attached.
+[00:15:55.910 --> 00:15:56.419] HANNAH: Geordi.
+[00:15:56.419 --> 00:15:56.928] LAFORGE: Hmm?
+[00:16:10.128 --> 00:16:10.128] HANNAH: Were
+[00:16:12.528 --> 00:16:13.568] HANNAH: you always blind?
+[00:16:14.048 --> 00:16:16.528] LAFORGE: I'm sorry. I probably shocked the hell out of you, didn't I?
+[00:16:16.768 --> 00:16:17.088] HANNAH: No.
+[00:16:18.208 --> 00:16:19.088] LAFORGE: I'll put it back on.
+[00:16:19.168 --> 00:16:19.488] HANNAH: Don't.
+[00:16:19.968 --> 00:16:20.368] HANNAH: I'm sorry.
+[00:16:20.368 --> 00:16:21.408] HANNAH: I didn't mean to embarrass you.
+[00:16:21.558 --> 00:16:22.158] LAFORGE: I've
+[00:16:23.968 --> 00:16:25.328] LAFORGE: never been embarrassed by this, Hannah.
+[00:16:25.328 --> 00:16:25.808] LAFORGE: Never.
+[00:16:27.408 --> 00:16:28.688] LAFORGE: I was born blind.
+[00:16:28.740 --> 00:16:31.060] LAFORGE: I've always been this way.
+[00:16:32.580 --> 00:16:33.700] HANNAH: May I see it? Your visor?
+[00:16:34.900 --> 00:16:35.380] LAFORGE: Sure.
+[00:16:41.380 --> 00:16:45.940] LAFORGE: So, I guess if I had been conceived on your world, I wouldn't even be here now, would I?
+[00:16:47.300 --> 00:16:47.540] HANNAH: No.
+[00:16:47.940 --> 00:16:51.380] LAFORGE: No, I'd've been terminated as a fertilised cell.
+[00:16:52.260 --> 00:16:55.620] HANNAH: It was the wish of our founders that no one had to suffer a life with disabilities.
+[00:16:57.540 --> 00:17:02.820] LAFORGE: Who gave them the right to decide whether or not I should be here? Whether or not I might have something to contribute.
+[00:17:05.380 --> 00:17:06.740] HANNAH: I don't know what to say.
+[00:17:10.260 --> 00:17:10.660] HANNAH: Here you go.
+[00:17:15.700 --> 00:17:16.020] HANNAH: How does it work?
+[00:17:16.180 --> 00:17:16.260] LAFORGE: Well,
+[00:17:19.700 --> 00:17:28.900] LAFORGE: the visor scans the electromagnetic spectrum between one hertz and one hundred thousand terahertz, converts it all to usable frequencies and then transmits that information directly to my brain.
+[00:17:29.380 --> 00:17:30.980] HANNAH: What about the data conversion rates?
+[00:17:31.940 --> 00:17:33.620] HANNAH: How do you avoid a sensory overload?
+[00:17:34.020 --> 00:17:37.460] LAFORGE: A bank of pre-processors compresses the data stream into pulses,
+[00:17:37.460 --> 00:17:39.300] LAFORGE: you see. That way, my visual cortex never.
+[00:17:40.740 --> 00:17:41.300] LAFORGE: Wait a minute.
+[00:17:43.540 --> 00:17:45.860] LAFORGE: Wait just a minute.
+[00:17:46.980 --> 00:17:50.580] LAFORGE: We should be able to send a high-energy pulse through the tractor system.
+[00:17:50.900 --> 00:17:53.220] LAFORGE: If it's short enough, it shouldn't overload the emitters.
+[00:17:53.620 --> 00:17:55.700] LAFORGE: The technology is right here.
+[00:17:57.220 --> 00:18:02.660] LAFORGE: If we could adapt those pulse compression routines and then apply them to the warp power conduits.
+[00:18:02.840 --> 00:18:05.960] HANNAH: We'd have to avoid tractor force rebounding, but that shouldn't be hard.
+[00:18:06.360 --> 00:18:07.640] LAFORGE: Sure. With a few modifications.
+[00:18:10.120 --> 00:18:12.360] LAFORGE: Oh, that's perfect.
+[00:18:13.160 --> 00:18:13.320] HANNAH: What?
+[00:18:14.600 --> 00:18:20.520] LAFORGE: If the answer to all of this is in a visor created for a blind man who never would have existed in your society.
+[00:18:22.040 --> 00:18:22.440] LAFORGE: No offence
+[00:18:27.640 --> 00:18:29.640] LAFORGE: intended.
+[00:19:15.160 --> 00:19:16.200] CONOR: Please, Matthew, continue.
+[00:19:48.570 --> 00:19:49.370] TROI: It's hard to believe.
+[00:19:50.970 --> 00:19:55.370] TROI: So much loveliness here, just a few metres away from such desolation.
+[00:19:56.650 --> 00:19:58.170] CONOR: It's hard to believe we're about to lose it.
+[00:20:00.090 --> 00:20:06.730] TROI: This must sound incredibly simplistic but, can't you re-engineer all this on another planet?
+[00:20:08.730 --> 00:20:13.050] CONOR: A nursery rhyme my mother used to read to me has been running round and round my mind since this all began.
+[00:20:14.810 --> 00:20:15.450] TROI: A nursery rhyme?
+[00:20:17.210 --> 00:20:18.570] CONOR: Humpty Dumpty sat on a wall.
+[00:20:19.290 --> 00:20:20.810] CONOR: Humpty Dumpty had a great fall.
+[00:20:21.530 --> 00:20:26.250] CONOR + TROI: All the King's horses and all the King's Men, couldn't put Humpty together again.
+[00:20:27.850 --> 00:20:30.090] CONOR: Why do we tell our children such ghastly stories?
+[00:20:30.650 --> 00:20:32.810] TROI: Perhaps to prepare them for times like these.
+[00:20:35.130 --> 00:20:39.850] CONOR: We are every bit as fragile as an egg and as impossible to reconstruct.
+[00:20:41.130 --> 00:20:46.890] CONOR: We are integrated and refined to such a degree that any fundamental change would lead to chaos.
+[00:20:47.850 --> 00:20:49.450] TROI: I'm so sorry, Aaron.
+[00:20:50.570 --> 00:20:52.330] TROI: I wish I could do something to help.
+[00:20:54.010 --> 00:20:56.090] CONOR: You have helped.
+[00:20:56.090 --> 00:20:57.770] CONOR: You've been wonderful these past few days.
+[00:20:58.730 --> 00:20:59.690] CONOR: You've been my Counsellor.
+[00:21:01.039 --> 00:21:01.679] TROI: No,
+[00:21:03.039 --> 00:21:06.479] TROI: a Counsellor has to maintain a discreet distance.
+[00:21:07.599 --> 00:21:09.119] TROI: I'd rather think of us as friends.
+[00:21:10.159 --> 00:21:10.399] CONOR: Friends?
+[00:21:12.719 --> 00:21:13.439] CONOR: That just won't do either.
+[00:21:16.079 --> 00:21:17.199] CONOR: Will
+[00:21:19.439 --> 00:21:19.439] CONOR: it?
+[00:21:19.439 --> 00:21:19.839] TROI: Aaron.
+[00:21:21.759 --> 00:21:26.479] CONOR: I must confess, a part of me knows that if I transport through these walls,
+[00:21:28.079 --> 00:21:28.799] CONOR: you'll be on the other
+[00:21:30.399 --> 00:21:32.399] CONOR: side.
+[00:21:35.679 --> 00:21:36.399] TROI: This is wrong.
+[00:21:38.079 --> 00:21:38.639] CONOR: Terribly
+[00:21:40.159 --> 00:21:42.159] CONOR: wrong.
+[00:21:46.959 --> 00:21:53.999] LAFORGE: In order to move the core fragment to a safe trajectory, we needed our tractor beam to be able to handle high power pulses.
+[00:21:54.159 --> 00:21:56.399] HANNAH: And we needed a much more efficient emitter to do that.
+[00:21:56.399 --> 00:21:58.079] LAFORGE: About four times more efficient.
+[00:21:58.319 --> 00:22:01.119] HANNAH: And we couldn't get anywhere near that without overloading the emitter arrays.
+[00:22:01.439 --> 00:22:08.639] LAFORGE: So, we added a little visor technology to the process and we were able to boost the effective force and, at the same time, lower the power conduit stress levels.
+[00:22:13.679 --> 00:22:14.719] PICARD: What's the increase in efficiency?
+[00:22:15.679 --> 00:22:17.119] LAFORGE: Up to almost three hundred percent.
+[00:22:17.679 --> 00:22:18.159] RIKER: That's not enough.
+[00:22:18.559 --> 00:22:19.119] HANNAH: That's true.
+[00:22:19.119 --> 00:22:21.519] HANNAH: We won't be able to move the fragment as far as we'd like to,
+[00:22:21.999 --> 00:22:22.276] HANNAH: but
+[00:22:22.276 --> 00:22:25.876] LAFORGE: But if we also fortify the biosphere's structural integrity at the same time
+[00:22:25.876 --> 00:22:29.199] HANNAH: With some of the shield improvements I've discovered here, it could work.
+[00:22:29.908 --> 00:22:31.988] LAFORGE: Of course, we'll have to lend them some of our engineering support crews.
+[00:22:34.708 --> 00:22:35.428] PICARD: Advise Mister Conor,
+[00:22:35.748 --> 00:22:37.188] PICARD: Number One, and brief the appropriate officers.
+[00:22:37.828 --> 00:22:39.908] PICARD: Prepare them for transport as soon as Mister Conor approves.
+[00:22:39.988 --> 00:22:40.308] RIKER: Yes, sir.
+[00:22:49.508 --> 00:22:50.068] CONOR: You're up early.
+[00:22:51.668 --> 00:22:52.868] TROI: I'm still on Enterprise time.
+[00:22:57.508 --> 00:22:57.828] TROI: Aaron,
+[00:22:59.428 --> 00:23:00.468] TROI: I'm going back to the ship.
+[00:23:03.028 --> 00:23:05.748] TROI: I'm not going to see you again.
+[00:23:05.748 --> 00:23:05.748] CONOR: Why?
+[00:23:07.908 --> 00:23:09.348] TROI: Because it's the right thing to do.
+[00:23:11.028 --> 00:23:12.068] CONOR: I'm not convinced of that.
+[00:23:14.148 --> 00:23:15.348] TROI: You know it as well as I do.
+[00:23:17.588 --> 00:23:18.228] CONOR: You're angry.
+[00:23:19.348 --> 00:23:20.388] TROI: Yes, I'm angry.
+[00:23:22.548 --> 00:23:24.628] TROI: I'm angry with myself for allowing this to happen.
+[00:23:25.748 --> 00:23:26.388] CONOR: Deanna.
+[00:23:29.588 --> 00:23:31.508] TROI: I could fall in love with you so easily,
+[00:23:33.508 --> 00:23:36.628] TROI: but we both know the end of that story, don't we?
+[00:23:37.988 --> 00:23:42.948] TROI: How would Martin feel about introducing half-Betazoid DNA into the genetic balance?
+[00:23:45.748 --> 00:23:47.508] CONOR: If we have to evacuate, anything's possible.
+[00:23:50.148 --> 00:23:51.268] TROI: Listen to yourself.
+[00:23:52.228 --> 00:23:54.628] TROI: A few days ago you wouldn't even talk to us.
+[00:24:01.011 --> 00:24:01.811] TROI: This is my fault.
+[00:24:03.731 --> 00:24:04.611] TROI: I'm so sorry.
+[00:24:06.291 --> 00:24:07.091] CONOR: I need you here.
+[00:24:09.651 --> 00:24:10.851] CONOR: This doesn't have to happen again.
+[00:24:12.931 --> 00:24:13.731] TROI: I have to go.
+[00:24:19.171 --> 00:24:19.891] HANNAH: Good news, Aaron.
+[00:24:20.931 --> 00:24:27.331] HANNAH: We should be able to change the course of the core fragment, but we'll also need to fortify the structure. And we're going to need help to do it.
+[00:24:28.051 --> 00:24:31.891] LAFORGE: We'll need to bring down engineering crews from the Enterprise to work with your people for the next forty eight hours.
+[00:24:33.011 --> 00:24:34.051] CONOR: Engineering crews?
+[00:24:34.451 --> 00:24:37.331] LAFORGE: They have to install five new shield generators and power supplies.
+[00:24:37.971 --> 00:24:40.771] HANNAH: Fifty officers are waiting for your approval to transport down.
+[00:24:48.291 --> 00:24:49.651] HANNAH: We don't have much time, Aaron.
+[00:24:50.771 --> 00:24:51.891] CONOR: Is there any other choice?
+[00:24:52.851 --> 00:24:53.171] HANNAH: None.
+[00:24:58.131 --> 00:25:00.131] LAFORGE: Enterprise, you may begin transport when ready.
+[00:25:29.467 --> 00:25:30.587] LOG: Captain's log, supplemental.
+[00:25:31.227 --> 00:25:34.507] LOG: The Enterprise has moved to a parallel course with the core fragment.
+[00:25:35.067 --> 00:25:40.267] LOG: We must adjust its trajectory by a minimum of one point two degrees to ensure the colony's safety.
+[00:25:41.067 --> 00:25:42.427] PICARD: Bring us within range of the fragment, Ensign.
+[00:25:42.747 --> 00:25:43.147] FELTON: Aye, sir.
+[00:25:43.147 --> 00:25:44.587] PICARD: You may
+[00:25:47.067 --> 00:25:48.027] PICARD: proceed Mister La Forge.
+[00:25:48.507 --> 00:25:48.907] LAFORGE: Yes, sir.
+[00:25:49.947 --> 00:25:50.267] LAFORGE: Good luck.
+[00:25:53.787 --> 00:25:55.787] HANNAH: You, too.
+[00:25:55.787 --> 00:25:56.587] LAFORGE: Engage tractor beam.
+[00:25:58.267 --> 00:26:00.267] LAFORGE: Okay,
+[00:26:03.787 --> 00:26:05.067] LAFORGE: let's give it a try.
+[00:26:06.347 --> 00:26:08.187] LAFORGE: Shutting down non-critical systems.
+[00:26:08.667 --> 00:26:11.147] HANNAH: Emitter circuits one hundred seventy percent over standard.
+[00:26:14.107 --> 00:26:16.187] DATA: Increasing impulse power to tractor emitters.
+[00:26:16.747 --> 00:26:18.267] DATA: EPS power levels rising.
+[00:26:18.667 --> 00:26:21.067] LAFORGE: Transferring warp power to tractor beam generator.
+[00:26:22.507 --> 00:26:24.747] HANNAH: Graviton generators operating normally.
+[00:26:25.307 --> 00:26:27.147] HANNAH: Surge pulse now synchronised.
+[00:26:28.427 --> 00:26:31.147] HANNAH: Emitters radiating at three hundred twenty percent over standard.
+[00:26:31.947 --> 00:26:32.987] LAFORGE: Bridge, we need more power.
+[00:26:34.187 --> 00:26:39.787] RIKER: Reduce life support to minimum requirements, Mister Data.
+[00:26:40.187 --> 00:26:42.267] DATA: Aye, sir.
+[00:26:42.667 --> 00:26:44.347] HANNAH: Three hundred ninety percent over standard.
+[00:26:45.067 --> 00:26:47.227] LAFORGE: Come on, come on.
+[00:26:47.387 --> 00:26:48.987] HANNAH: No change in the fragment's course.
+[00:26:49.067 --> 00:26:50.427] LAFORGE: We've got to increase the pulse frequency.
+[00:26:50.907 --> 00:26:52.587] HANNAH: The emitter circuits won't hold for long.
+[00:26:52.587 --> 00:26:53.227] LAFORGE: We won't need them
+[00:26:54.827 --> 00:26:58.507] LAFORGE: for long.
+[00:26:59.067 --> 00:27:00.507] HANNAH: Four hundred percent over standard.
+[00:27:01.584 --> 00:27:02.517] LAFORGE: Okay. Now we're getting there.
+[00:27:02.517 --> 00:27:02.704] HANNAH: The
+[00:27:03.584 --> 00:27:06.064] HANNAH: fragment's moved point four degrees off its previous heading.
+[00:27:07.024 --> 00:27:07.024] HANNAH: Point six five.
+[00:27:07.984 --> 00:27:08.544] HANNAH: It's working.
+[00:27:11.824 --> 00:27:13.424] DATA: We have lost one of the emitter circuits.
+[00:27:13.904 --> 00:27:14.784] WORF: Life support failure.
+[00:27:15.264 --> 00:27:16.544] WORF: Decks nine, twelve, and thirteen.
+[00:27:16.544 --> 00:27:19.264] RIKER: Engage evacuation procedures for those decks. Geordi,
+[00:27:19.264 --> 00:27:20.784] RIKER: we're going to need power back soon.
+[00:27:20.784 --> 00:27:21.424] LAFORGE: Acknowledged.
+[00:27:22.784 --> 00:27:25.104] HANNAH: Fragment's new heading adjustment is at one point zero one degrees.
+[00:27:26.464 --> 00:27:26.944] HANNAH: Is it enough?
+[00:27:27.344 --> 00:27:27.824] LAFORGE: Not yet.
+[00:27:27.904 --> 00:27:28.784] LAFORGE: Hold on.
+[00:27:28.784 --> 00:27:30.544] DATA: We've lost The second lateral emitter circuit.
+[00:27:31.104 --> 00:27:33.904] WORF: Losing life support systems on decks five through nine.
+[00:27:34.464 --> 00:27:35.704] WORF: Evacuation procedures initiated.
+[00:27:35.704 --> 00:27:36.944] PICARD: Mister La Forge.
+[00:27:37.344 --> 00:27:38.304] LAFORGE: Hold on, Captain.
+[00:27:39.584 --> 00:27:42.224] DATA: Shipwide life support failure in fifteen seconds, sir.
+[00:27:42.784 --> 00:27:43.664] HANNAH: Almost there, Geordi.
+[00:27:43.824 --> 00:27:45.824] HANNAH: Course shift is at one point one six degrees.
+[00:27:46.544 --> 00:27:49.184] DATA: Termination of all life support in five seconds.
+[00:27:49.744 --> 00:27:50.224] HANNAH: One point one eight.
+[00:27:51.184 --> 00:27:52.544] PICARD: Now, Mister La Forge.
+[00:27:52.544 --> 00:27:53.184] LAFORGE: Yes, sir.
+[00:27:53.184 --> 00:27:55.104] LAFORGE: Shutting down all tractor emissions.
+[00:27:55.424 --> 00:27:57.184] LAFORGE: Transferring power back to life support.
+[00:28:01.904 --> 00:28:03.824] HANNAH: One point two.
+[00:28:03.984 --> 00:28:04.704] HANNAH: We've got it.
+[00:28:04.784 --> 00:28:05.504] WORF: Life
+[00:28:08.864 --> 00:28:10.578] WORF: support normal on all decks.
+[00:28:10.578 --> 00:28:11.264] PICARD: Mister Data?
+[00:28:11.264 --> 00:28:14.944] DATA: The fragment's course has been altered by one point two one degrees, sir.
+[00:28:16.384 --> 00:28:16.864] PICARD: Hail the colony.
+[00:28:20.144 --> 00:28:20.544] CONOR: Yes, Captain.
+[00:28:21.104 --> 00:28:22.304] PICARD: Success, Mister Conor.
+[00:28:22.944 --> 00:28:26.464] PICARD: With the upgrades to your biosphere, the core fragment should no longer be a danger.
+[00:28:27.491 --> 00:28:30.051] CONOR: I cannot adequately express my appreciation to your crew.
+[00:28:31.011 --> 00:28:32.051] CONOR: Is Hannah able to hear me?
+[00:28:33.491 --> 00:28:33.971] HANNAH: Yes, yes.
+[00:28:33.971 --> 00:28:34.611] HANNAH: Go ahead, Aaron.
+[00:28:35.251 --> 00:28:37.011] CONOR: This is an historic achievement, Hannah.
+[00:28:37.651 --> 00:28:39.011] CONOR: You've done a wonderful thing for our people.
+[00:28:40.291 --> 00:28:40.691] HANNAH: Thank you.
+[00:28:41.651 --> 00:28:45.411] CONOR: We look forward to honouring you appropriately when you return.
+[00:28:45.411 --> 00:28:46.211] CONOR: Thank you again, Captain.
+[00:28:46.771 --> 00:28:47.171] CONOR: Conor out.
+[00:29:01.411 --> 00:29:02.531] LOG: Captain's log, supplemental.
+[00:29:03.011 --> 00:29:05.811] LOG: The stellar core fragment has passed safely out of the Moab system.
+[00:29:06.371 --> 00:29:12.291] LOG: The colony was shaken by powerful temblors, but fortunately there were no injuries and only minor damage was reported.
+[00:29:16.451 --> 00:29:17.091] RIKER: Energise.
+[00:29:23.971 --> 00:29:24.531] RIKER: That should do it.
+[00:29:24.851 --> 00:29:26.931] RIKER: All members of the Enterprise crew are accounted for, Mister Conor.
+[00:29:27.571 --> 00:29:28.771] CONOR: They've been invaluable, Commander.
+[00:29:28.851 --> 00:29:29.411] CONOR: Thank you again.
+[00:29:30.211 --> 00:29:30.771] RIKER: If there's nothing else,
+[00:29:30.771 --> 00:29:31.571] RIKER: we'll be on our way.
+[00:29:33.171 --> 00:29:38.691] CONOR: Would you tell Deanna Troi for me that I'm sorry I didn't have the opportunity to say goodbye personally?
+[00:29:40.531 --> 00:29:41.571] RIKER: I'm sure she'll feel the same way.
+[00:29:41.811 --> 00:29:43.571] CONOR: A breach in the biosphere.
+[00:29:44.531 --> 00:29:45.091] CONOR: Get Hannah Bates.
+[00:29:46.611 --> 00:29:48.451] HANNAH: Apparently,
+[00:29:53.731 --> 00:29:55.491] HANNAH: the refortification wasn't adequate.
+[00:29:55.971 --> 00:29:57.571] HANNAH: There's definite structural damage.
+[00:29:58.265 --> 00:30:00.665] HANNAH: It appears that the tectonic shifts created a breach.
+[00:30:01.065 --> 00:30:01.705] MARTIN: Can it be repaired?
+[00:30:02.345 --> 00:30:02.825] HANNAH: I don't know.
+[00:30:03.545 --> 00:30:05.305] HANNAH: I'll have to run a diagnostic in the lab.
+[00:30:05.865 --> 00:30:08.265] HANNAH: Unless we seal it and fast we may have to evacuate.
+[00:30:08.505 --> 00:30:09.065] CONOR: How long do we have,
+[00:30:09.305 --> 00:30:09.512] CONOR: Hannah?
+[00:30:09.512 --> 00:30:12.825] HANNAH: Based on the level of toxicity I'm reading, it may be only a matter of hours.
+[00:30:13.225 --> 00:30:14.265] LAFORGE: Mind if I give her a hand, Commander?
+[00:30:14.345 --> 00:30:14.745] RIKER: By all means.
+[00:30:23.465 --> 00:30:25.465] HANNAH: Isn't it amazing
+[00:30:25.465 --> 00:30:26.505] HANNAH: after all we went through?
+[00:30:27.465 --> 00:30:27.785] LAFORGE: Yeah.
+[00:30:29.385 --> 00:30:29.625] LAFORGE: Amazing.
+[00:30:31.545 --> 00:30:32.105] HANNAH: Looks bad.
+[00:30:32.105 --> 00:30:33.705] HANNAH: It's cracked well beneath the surface.
+[00:30:35.465 --> 00:30:36.585] LAFORGE: Why are you doing this?
+[00:30:37.545 --> 00:30:37.865] HANNAH: What do you mean?
+[00:30:38.425 --> 00:30:39.465] LAFORGE: There's no breach.
+[00:30:40.265 --> 00:30:41.225] HANNAH: What are you talking about.
+[00:30:42.425 --> 00:30:42.825] HANNAH: Look at it,
+[00:30:42.825 --> 00:30:43.465] HANNAH: it's right here.
+[00:30:45.065 --> 00:30:46.185] HANNAH: I measured the toxic leak.
+[00:30:46.185 --> 00:30:46.845] HANNAH: You saw me.
+[00:30:46.845 --> 00:30:47.065] LAFORGE: Hannah,
+[00:30:48.665 --> 00:30:51.225] LAFORGE: my visor's positronic scan would have detected the leak.
+[00:30:52.345 --> 00:30:56.585] LAFORGE: Its molecular pattern enhancer would have picked up even the smallest crack.
+[00:30:58.025 --> 00:31:00.025] HANNAH: The
+[00:31:01.705 --> 00:31:03.465] HANNAH: damn thing doesn't miss much, does it.
+[00:31:05.065 --> 00:31:05.305] HANNAH: Fine.
+[00:31:06.185 --> 00:31:07.065] HANNAH: I'll tell them the truth.
+[00:31:08.105 --> 00:31:08.825] HANNAH: Will that make you happy?
+[00:31:11.225 --> 00:31:13.305] LAFORGE: Why are you doing this?
+[00:31:17.865 --> 00:31:21.305] HANNAH: I was born to be one of the best scientific minds of my generation,
+[00:31:22.665 --> 00:31:26.985] HANNAH: and in the past five days I have encountered technology that I have barely imagined.
+[00:31:28.425 --> 00:31:31.545] HANNAH: And I've got to ask myself, If we're so brilliant
+[00:31:31.717 --> 00:31:33.797] HANNAH: how come we didn't invent any of these things?
+[00:31:35.637 --> 00:31:38.997] LAFORGE: Well, maybe necessity really is the mother of invention.
+[00:31:40.757 --> 00:31:42.677] LAFORGE: You never really look for something until you need it.
+[00:31:42.677 --> 00:31:48.597] HANNAH: But all my needs have been anticipated and planned for before I'm even born.
+[00:31:48.677 --> 00:31:52.197] HANNAH: All of us in this colony have been living in the dark ages.
+[00:31:52.677 --> 00:31:54.757] HANNAH: It's like we're victims of a two hundred year old joke.
+[00:31:56.437 --> 00:31:59.237] HANNAH: Until you came, we could only see to the wall of our biosphere.
+[00:32:00.597 --> 00:32:03.797] HANNAH: Suddenly our eyes have been opened to the infinite possibilities.
+[00:32:05.077 --> 00:32:05.477] PICARD: Asylum?
+[00:32:05.877 --> 00:32:07.317] LAFORGE: She wants to leave the colony.
+[00:32:08.357 --> 00:32:09.477] RIKER: She may not be the only one.
+[00:32:10.517 --> 00:32:16.677] RIKER: The science teams that went down to the surface fielded a lot of questions from colonists who were more than curious about what's outside their world.
+[00:32:17.077 --> 00:32:18.677] WORF: Why shouldn't we grant them asylum?
+[00:32:18.917 --> 00:32:19.797] TROI: We can't do that.
+[00:32:20.277 --> 00:32:21.237] LAFORGE: We have to do that.
+[00:32:21.477 --> 00:32:23.477] TROI: Do you understand what it would do to the colony?
+[00:32:24.117 --> 00:32:26.837] LAFORGE: I understand these are human beings, Counsellor, with free will.
+[00:32:27.397 --> 00:32:29.077] LAFORGE: If she wants to leave, she has every right to.
+[00:32:29.557 --> 00:32:31.237] RIKER: And what happens to the colony if she does?
+[00:32:31.397 --> 00:32:32.117] RIKER: If others join her?
+[00:32:32.917 --> 00:32:34.837] CRUSHER: The society is genetically integrated.
+[00:32:34.837 --> 00:32:37.477] CRUSHER: Suddenly there would be gaps, missing pieces.
+[00:32:38.037 --> 00:32:38.997] TROI: It would destroy them.
+[00:32:40.517 --> 00:32:42.117] CRUSHER: There must be something we can do to help.
+[00:32:42.917 --> 00:32:45.477] PICARD: We may have done too much to help them already, Doctor.
+[00:32:45.957 --> 00:32:47.477] WORF: We saved them from destruction.
+[00:32:47.717 --> 00:32:48.117] PICARD: Did we?
+[00:32:51.157 --> 00:32:51.717] PICARD: Counsellor,
+[00:32:51.717 --> 00:32:54.197] PICARD: I think it's time you took me to meet Mister Conor.
+[00:32:59.717 --> 00:33:00.677] PICARD: Transporter room three.
+[00:33:03.959 --> 00:33:04.839] TROI: Computer, halt.
+[00:33:09.079 --> 00:33:10.599] TROI: Captain, I have to tell you something,
+[00:33:12.199 --> 00:33:16.279] TROI: and it isn't easy for me because I've used very poor judgement.
+[00:33:17.479 --> 00:33:19.239] TROI: Actually, I've acted quite unprofessionally.
+[00:33:19.559 --> 00:33:19.879] PICARD: Counsellor,
+[00:33:21.799 --> 00:33:22.599] PICARD: what is it you say?
+[00:33:22.919 --> 00:33:23.799] PICARD: Take a deep breath.
+[00:33:27.399 --> 00:33:29.239] TROI: Conor and I have had a relationship.
+[00:33:30.919 --> 00:33:33.399] PICARD: I see.
+[00:33:33.399 --> 00:33:33.399] TROI: It
+[00:33:35.079 --> 00:33:35.959] TROI: should never have happened.
+[00:33:37.319 --> 00:33:40.599] TROI: I knew there was concern about outside influences and
+[00:33:42.759 --> 00:33:43.799] TROI: I should have been more careful.
+[00:33:49.239 --> 00:33:50.519] PICARD: What is your status with him now?
+[00:33:51.559 --> 00:33:53.159] TROI: I did not intend to see him again.
+[00:33:55.239 --> 00:33:56.759] PICARD: Would you prefer not to return to the surface?
+[00:33:57.399 --> 00:33:58.999] TROI: No, I think I should come with you,
+[00:33:58.999 --> 00:34:01.879] TROI: but I wanted you to know before we went down.
+[00:34:04.999 --> 00:34:05.639] PICARD: I appreciate that.
+[00:34:07.239 --> 00:34:08.199] PICARD: Computer, resume.
+[00:34:08.199 --> 00:34:08.199] TROI: I
+[00:34:14.119 --> 00:34:18.199] TROI: wanted so much to help him, to be there for him, but
+[00:34:19.879 --> 00:34:20.775] TROI: the more I was.
+[00:34:20.775 --> 00:34:20.999] PICARD: Deanna,
+[00:34:23.639 --> 00:34:25.719] PICARD: we all went into this with the best intentions.
+[00:34:26.119 --> 00:34:29.319] TROI: I should have walked away as soon as I saw what was happening.
+[00:34:29.319 --> 00:34:30.519] PICARD: But you didn't.
+[00:34:30.669 --> 00:34:31.269] PICARD: And
+[00:34:32.702 --> 00:34:33.262] PICARD: that's human.
+[00:34:33.262 --> 00:34:35.422] PICARD: We make mistakes.
+[00:34:38.622 --> 00:34:41.822] PICARD: Genetic manipulation or not, nobody's perfect.
+[00:34:50.142 --> 00:34:54.302] MARTIN: You would ignore the welfare of the colony for your own selfish interests.
+[00:34:54.302 --> 00:34:58.702] HANNAH: The welfare of this colony would be best served by rejoining the human race.
+[00:34:58.702 --> 00:35:01.182] MARTIN: She has been contaminated by the people on that ship.
+[00:35:02.622 --> 00:35:02.942] TROI: Aaron.
+[00:35:06.142 --> 00:35:08.622] PICARD: Mister Conor, I believe that you and I should talk.
+[00:35:09.102 --> 00:35:09.982] MARTIN: This is your doing.
+[00:35:10.542 --> 00:35:12.062] MARTIN: We should never have answered your hails.
+[00:35:12.302 --> 00:35:14.942] HANNAH: If we'd followed that advice, Martin, we'd all be dead by now.
+[00:35:15.182 --> 00:35:16.782] HANNAH: So much for the welfare of this colony.
+[00:35:16.782 --> 00:35:18.142] MARTIN: You are not taking her with you.
+[00:35:18.542 --> 00:35:23.022] HANNAH: I'm leaving. And I'll tell you something else. There are at least a dozen others who are ready to go with me.
+[00:35:23.342 --> 00:35:26.862] TROI: Hannah, let's allow Aaron and Captain Picard to discuss this.
+[00:35:27.662 --> 00:35:28.862] TROI: Why don't we go for a walk?
+[00:35:30.382 --> 00:35:33.662] HANNAH: There's nothing else for them to talk about.
+[00:35:37.662 --> 00:35:38.160] CONOR: Martin.
+[00:35:38.160 --> 00:35:42.142] MARTIN: I think it would be helpful if I.
+[00:35:42.142 --> 00:35:43.822] CONOR: I want to talk with Captain Picard alone.
+[00:35:44.702 --> 00:35:44.822] MARTIN: But
+[00:35:44.822 --> 00:35:45.182] CONOR: Thank you, Martin.
+[00:35:53.502 --> 00:35:55.582] CONOR: The irony is, he's the one who saw this coming
+[00:35:56.062 --> 00:36:01.022] CONOR: from the moment you arrived. Because I didn't want to hear it, I chose not to listen.
+[00:36:02.062 --> 00:36:04.782] PICARD: You made decisions you felt would save your colony.
+[00:36:04.867 --> 00:36:06.227] CONOR: No. No,
+[00:36:08.227 --> 00:36:09.187] CONOR: I wish it were that simple,
+[00:36:09.187 --> 00:36:09.187] CONOR: but
+[00:36:10.947 --> 00:36:12.627] CONOR: I can't forgive myself so easily.
+[00:36:14.547 --> 00:36:17.187] CONOR: You see, Captain,
+[00:36:17.187 --> 00:36:20.227] CONOR: I know what Hannah Bates is feeling.
+[00:36:20.227 --> 00:36:21.107] CONOR: I've been feeling it as well.
+[00:36:21.107 --> 00:36:27.107] CONOR: I've found your people intriguing and stimulating as she has.
+[00:36:28.467 --> 00:36:32.387] CONOR: I've been every bit as curious about you as the next man.
+[00:36:32.387 --> 00:36:34.227] CONOR: But I am not the next man.
+[00:36:34.467 --> 00:36:38.787] CONOR: I am the leader of these people. And every genetic fibre in my being demands that I protect them.
+[00:36:39.907 --> 00:36:41.427] CONOR: Instead, I have betrayed them.
+[00:36:42.627 --> 00:36:45.027] CONOR: I have allowed this to happen.
+[00:36:45.027 --> 00:36:46.787] PICARD: We have both allowed this to happen.
+[00:36:47.267 --> 00:36:49.827] CONOR: Then let us both find a way to stop it from going any further.
+[00:36:52.227 --> 00:36:53.587] PICARD: I wish I could see a way.
+[00:36:55.987 --> 00:37:00.467] CONOR: Picard, I was born to govern this colony, not to dismantle it.
+[00:37:00.467 --> 00:37:03.907] PICARD: If you force them to stay, you will be suppressing their human rights.
+[00:37:04.627 --> 00:37:08.307] CONOR: If even a handful leave, the damage to this society will be devastating.
+[00:37:09.187 --> 00:37:10.867] CONOR: What about the rights of those who would stay behind?
+[00:37:11.587 --> 00:37:15.107] CONOR: They are the ones who will inherit the social chaos that will follow for generations.
+[00:37:17.187 --> 00:37:20.147] CONOR: Your arrival created this problem.
+[00:37:20.147 --> 00:37:21.187] CONOR: Your departure solves it.
+[00:37:22.227 --> 00:37:23.027] PICARD: That is simplistic.
+[00:37:23.427 --> 00:37:24.947] CONOR: Refuse them passage.
+[00:37:25.827 --> 00:37:32.627] PICARD: I cannot ignore the requests of people, humans, who ask for transport away from here.
+[00:37:32.627 --> 00:37:37.347] CONOR: Nor can you ignore the fact that thousands will suffer if you agree to take them.
+[00:37:37.752 --> 00:37:39.992] CONOR: And as suffering grows, more will demand to leave.
+[00:37:41.432 --> 00:37:43.512] CONOR: We are witnessing the end of this existence.
+[00:37:44.632 --> 00:37:49.352] CONOR: I implore you, Captain, do not let this happen.
+[00:37:49.352 --> 00:37:51.992] PICARD: You would have me make the decision for you, nut I can't do that.
+[00:37:53.672 --> 00:37:59.032] PICARD: I am willing to talk to these people with you, and I will urge them not to make an impulsive choice,
+[00:37:59.032 --> 00:38:02.392] PICARD: but if finally they choose to leave,
+[00:38:04.232 --> 00:38:08.792] PICARD: the Enterprise will not turn them
+[00:38:15.032 --> 00:38:17.032] PICARD: away.
+[00:38:20.872 --> 00:38:25.192] CONOR: Captain Picard has decided to grant transport to any individuals who wish to leave Genome Colony.
+[00:38:26.632 --> 00:38:27.992] CONOR: I'm asking you to stay.
+[00:38:29.752 --> 00:38:30.072] HANNAH: Aaron,
+[00:38:31.912 --> 00:38:32.472] HANNAH: don't you see
+[00:38:32.472 --> 00:38:34.152] HANNAH: we can't be happy here any longer?
+[00:38:35.912 --> 00:38:36.792] HANNAH: We were innocent.
+[00:38:36.872 --> 00:38:38.232] HANNAH: it will never be that way again.
+[00:38:39.592 --> 00:38:42.872] CONOR: The experiences of the past week will become part of our heritage.
+[00:38:44.392 --> 00:38:45.192] CONOR: We will adjust.
+[00:38:46.792 --> 00:38:48.328] CONOR: In a few generations, we will be able to
+[00:38:48.328 --> 00:38:49.352] HANNAH: We're not willing to stay here
+[00:38:49.352 --> 00:38:50.392] HANNAH: a few generations.
+[00:38:54.312 --> 00:38:55.272] CONOR: Give me six months.
+[00:38:58.392 --> 00:39:00.072] CONOR: Just wait six months before you leave.
+[00:39:00.632 --> 00:39:01.752] HANNAH: What will that accomplish?
+[00:39:02.232 --> 00:39:10.472] PICARD: It's true that our presence here has had an unintended influence on your society. But it's done and there is no way to undo it.
+[00:39:10.632 --> 00:39:12.072] PICARD: But feelings are running very high.
+[00:39:13.437 --> 00:39:20.638] PICARD: Perhaps it's not such a bad idea that you should take adequate time to weigh carefully the consequences of what you're about to do.
+[00:39:21.998 --> 00:39:24.237] PICARD: We are prepared to return in six months.
+[00:39:24.717 --> 00:39:30.237] HANNAH: In other words, we are being asked to stay here for six months while they pressure us to change our minds.
+[00:39:31.118 --> 00:39:36.317] PICARD: In five days, you have seen only the most superficial evidence of what life is like outside this biosphere.
+[00:39:37.277 --> 00:39:40.237] HANNAH: Would you ever choose to live aboard a ship in a bottle, Captain?
+[00:39:40.877 --> 00:39:42.477] HANNAH: You are in command of a starship.
+[00:39:42.957 --> 00:39:44.717] HANNAH: You live to explore the unknown.
+[00:39:44.717 --> 00:39:46.317] HANNAH: We ask for that same privilege.
+[00:39:46.957 --> 00:39:47.277] CONOR: Hannah,
+[00:39:49.197 --> 00:39:50.078] CONOR: this is your home.
+[00:39:51.277 --> 00:39:53.038] CONOR: We are all, in a sense, your family.
+[00:39:54.638 --> 00:39:58.237] CONOR: Don't we deserve an opportunity to open a dialogue on this issue at the very least?
+[00:39:59.277 --> 00:40:01.118] CONOR: I am only asking for six months.
+[00:40:01.197 --> 00:40:02.477] HANNAH: It won't make any difference.
+[00:40:03.277 --> 00:40:06.957] HANNAH: You'll only be putting the people of this colony through unnecessary pain and anguish.
+[00:40:07.277 --> 00:40:10.158] MARTIN: You are the ones who are causing pain and anguish in this colony.
+[00:40:10.317 --> 00:40:10.877] MARTIN: You.
+[00:40:10.957 --> 00:40:11.998] HANNAH: Don't you see, Aaron?
+[00:40:11.998 --> 00:40:12.717] HANNAH: It's over.
+[00:40:13.437 --> 00:40:15.837] HANNAH: It's time for you to lead our people into a new era.
+[00:40:16.397 --> 00:40:17.598] HANNAH: You could come with us.
+[00:40:21.277 --> 00:40:22.158] CONOR: When you're ready to come home,
+[00:40:23.917 --> 00:40:24.717] CONOR: you will be welcome.
+[00:40:34.717 --> 00:40:35.678] TROI: What will you do now?
+[00:40:36.877 --> 00:40:38.317] CONOR: Attempt to assess the damage.
+[00:40:39.903 --> 00:40:45.263] CONOR: Spend the rest of my life on the near impossible task of rebuilding this society without the proper pieces.
+[00:40:46.063 --> 00:40:48.783] TROI: Aaron, you acted in the best interests of your people.
+[00:40:49.583 --> 00:40:51.103] TROI: There was no way to avoid what happened.
+[00:40:52.063 --> 00:40:57.023] CONOR: I replay each step of this in my mind, looking for the wrong turn, the mistake in judgement.
+[00:40:58.863 --> 00:40:59.823] CONOR: I can find only one.
+[00:41:01.103 --> 00:41:04.703] CONOR: And as hard as I try, I cannot regret even that one.
+[00:41:06.463 --> 00:41:12.623] CONOR: In fact, I'm quite certain that, given the opportunity, I would choose to make the same mistake again.
+[00:41:14.303 --> 00:41:19.503] CONOR: I can only wonder why, with all the hundreds of genetically compatible women, I would fall in love with you.
+[00:41:20.463 --> 00:41:21.263] TROI: Don't say that.
+[00:41:22.623 --> 00:41:25.423] CONOR: Perhaps it's your imperfections which make you so unique.
+[00:41:27.743 --> 00:41:29.823] CONOR: But I am in love with you, Deanna Troi, and
+[00:41:29.823 --> 00:41:29.823] CONOR: I
+[00:41:32.383 --> 00:41:33.423] CONOR: will always be.
+[00:41:56.863 --> 00:41:57.183] PICARD: Come.
+[00:41:58.943 --> 00:42:01.423] RIKER: The colonists are all on board, sir.
+[00:42:01.503 --> 00:42:02.223] PICARD: How many
+[00:42:02.223 --> 00:42:02.943] PICARD: finally?
+[00:42:02.943 --> 00:42:04.383] RIKER: Twenty three.
+[00:42:04.383 --> 00:42:08.063] PICARD: If we ever needed reminding of the importance of the Prime Directive, it is now.
+[00:42:08.383 --> 00:42:09.663] RIKER: The Prime Directive doesn't apply.
+[00:42:10.463 --> 00:42:10.943] RIKER: They're human.
+[00:42:11.183 --> 00:42:11.423] PICARD: Doesn't it?
+[00:42:12.535 --> 00:42:17.575] PICARD: Our very presence may have damaged, even destroyed, their way of life.
+[00:42:18.215 --> 00:42:22.215] PICARD: Whether or not we agree with that way of life or whether they're human or not is irrelevant, Number One.
+[00:42:24.295 --> 00:42:25.095] PICARD: We are responsible.
+[00:42:26.215 --> 00:42:29.175] RIKER: We had to respond to the threat from the core fragment didn't we?
+[00:42:29.175 --> 00:42:30.535] PICARD: Of course we did.
+[00:42:32.695 --> 00:42:33.335] PICARD: But in the end
+[00:42:34.855 --> 00:42:39.575] PICARD: we may have proved just as dangerous to that colony as any core fragment could ever have been.
+[00:42:40.000 --> 00:42:50.000] [music]
+[00:42:51.000 --> 00:43:07.000] [music]
+[00:43:10.000 --> 00:43:20.000] [music]
+[00:43:21.000 --> 00:43:38.000] [music]

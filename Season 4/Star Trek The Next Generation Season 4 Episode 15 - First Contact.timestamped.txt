@@ -1,0 +1,633 @@
+[00:00:01.120 --> 00:00:02.080] NURSE: Watch
+[00:00:02.800 --> 00:00:04.960] NURSE: the
+[00:00:07.360 --> 00:00:07.840] NURSE: door.
+[00:00:09.440 --> 00:00:10.016] NURSE: Careful,
+[00:00:10.192 --> 00:00:10.720] NURSE: he may have suffered cranial damage.
+[00:00:12.160 --> 00:00:14.560] TAVA: Move him onto the diagnostic pad.
+[00:00:14.560 --> 00:00:14.560] NURSE: Right.
+[00:00:14.560 --> 00:00:14.560] TAVA: Slowly.
+[00:00:14.560 --> 00:00:16.480] NURSE: Right, here we go.
+[00:00:16.480 --> 00:00:16.480] TAVA: Slowly.
+[00:00:17.120 --> 00:00:17.440] TAVA: That's good.
+[00:00:17.520 --> 00:00:19.040] NURSE: All
+[00:00:20.640 --> 00:00:21.440] NURSE: right. Careful.
+[00:00:21.760 --> 00:00:22.000] NILREM: Readings?
+[00:00:22.240 --> 00:00:23.920] NURSE: They're fluctuating, sir.
+[00:00:24.960 --> 00:00:28.080] NILREM: He took a severe blow.
+[00:00:28.720 --> 00:00:29.600] NILREM: Possible trauma to the telencephalon.
+[00:00:29.840 --> 00:00:32.000] TAVA: Start fifteen octares of quadroline.
+[00:00:32.080 --> 00:00:33.040] TAVA: We'll need a complete del-scan series.
+[00:00:33.190 --> 00:00:33.790] NILREM: I
+[00:00:34.960 --> 00:00:35.600] NILREM: can't find his cardial organ.
+[00:00:36.080 --> 00:00:36.480] TAVA: What do you mean?
+[00:00:36.480 --> 00:00:37.600] TAVA: I'm reading a steady circulation.
+[00:00:38.160 --> 00:00:38.560] NILREM: There it is.
+[00:00:39.120 --> 00:00:39.360] NILREM: Up here.
+[00:00:40.160 --> 00:00:41.200] TAVA: In his digestive tract?
+[00:00:41.340 --> 00:00:42.800] NILREM: Ever seen anything like this?
+[00:00:46.560 --> 00:00:48.720] TAVA: He's missing three costal struts on one side
+[00:00:50.800 --> 00:00:51.840] TAVA: and four on the other.
+[00:00:51.840 --> 00:00:52.640] NILREM: You think that's something? Look at
+[00:00:54.320 --> 00:00:54.720] NILREM: this
+[00:00:54.720 --> 00:00:54.800] NILREM: He has
+[00:00:56.720 --> 00:00:57.920] NILREM: digits on his terminus.
+[00:01:06.480 --> 00:01:09.040] TAVA: What are you?
+[00:01:43.647 --> 00:01:46.367] PICARD: Space, the final frontier.
+[00:01:48.287 --> 00:01:51.167] PICARD: These are the voyages of the starship Enterprise.
+[00:01:52.287 --> 00:02:00.207] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:01.887 --> 00:02:04.767] PICARD: to boldly go where no one has gone before.
+[00:02:34.000 --> 00:02:45.000] [music]
+[00:03:17.019 --> 00:03:17.579] RIKER: What happened?
+[00:03:19.419 --> 00:03:21.739] BEREL: You're in the crisis room at the Sikla Medical Facility.
+[00:03:22.859 --> 00:03:24.619] BEREL: You've had a severe injury, but you're going to be all right.
+[00:03:24.699 --> 00:03:27.979] RIKER: I was caught in the riots when the police moved in.
+[00:03:29.739 --> 00:03:30.779] RIKER: It's the last thing I remember.
+[00:03:32.139 --> 00:03:33.019] BEREL: Can you tell us your name?
+[00:03:35.019 --> 00:03:37.659] RIKER: Rivas. Rivas Jakara.
+[00:03:38.379 --> 00:03:39.339] BEREL: Rivas Jakara?
+[00:03:40.939 --> 00:03:41.339] BEREL: Where do you live?
+[00:03:42.619 --> 00:03:45.499] RIKER: In the Marta community on the southern continent.
+[00:03:46.219 --> 00:03:47.339] TAVA: You're a long way from home.
+[00:03:47.659 --> 00:03:49.579] TAVA: Do you have any members of your family we should notify?
+[00:03:50.859 --> 00:03:52.139] RIKER: No, I have no family.
+[00:03:54.379 --> 00:03:55.179] RIKER: I can't stay here.
+[00:03:55.339 --> 00:03:55.625] RIKER: I have to get back.
+[00:03:55.625 --> 00:03:55.739] BEREL: You're in
+[00:03:55.899 --> 00:03:56.859] BEREL: no condition to leave
+[00:03:57.659 --> 00:03:57.819] BEREL: yet.
+[00:03:59.899 --> 00:04:03.899] BEREL: There are several unusual things about your case, Mister Jakara.
+[00:04:04.299 --> 00:04:08.859] BEREL: Your cranial lobes, for instance, they seem to be surgical implants.
+[00:04:09.979 --> 00:04:13.899] RIKER: I had cosmetic surgery to correct a genetic birth defect.
+[00:04:14.459 --> 00:04:15.099] BEREL: And these?
+[00:04:16.299 --> 00:04:17.259] BEREL: Another birth defect?
+[00:04:17.819 --> 00:04:18.219] RIKER: Yes,
+[00:04:18.459 --> 00:04:19.099] RIKER: isn't that something?
+[00:04:20.459 --> 00:04:22.059] RIKER: My father's were the same way.
+[00:04:22.379 --> 00:04:26.139] NILREM: You want us to believe that all your abnormalities are inherited genetic traits?
+[00:04:26.539 --> 00:04:28.059] RIKER: I understand your confusion.
+[00:04:29.259 --> 00:04:29.419] RIKER: My
+[00:04:29.507 --> 00:04:34.547] RIKER: personal physician is much more familiar with these genetic irregularities.
+[00:04:36.067 --> 00:04:36.707] RIKER: To be honest, I
+[00:04:38.227 --> 00:04:40.307] RIKER: would much feel better back home under her care.
+[00:04:40.707 --> 00:04:41.827] BEREL: Why don't I talk to her about that.
+[00:04:42.147 --> 00:04:42.547] BEREL: What's her name?
+[00:04:44.067 --> 00:04:44.467] RIKER: Crusher.
+[00:04:44.947 --> 00:04:45.427] RIKER: Actually,
+[00:04:47.187 --> 00:04:49.187] RIKER: I'm not sure you'll be able to reach her.
+[00:04:50.067 --> 00:04:50.467] BEREL: Why not?
+[00:04:52.547 --> 00:04:53.907] RIKER: She's taking a sabbatical.
+[00:04:55.427 --> 00:04:57.907] BEREL: Well, we'll do the best we can for
+[00:05:01.347 --> 00:05:01.347] BEREL: you.
+[00:05:01.827 --> 00:05:03.187] BEREL: Oh, there was one other thing.
+[00:05:03.507 --> 00:05:06.947] BEREL: We found this curious-looking device in your clothes.
+[00:05:07.187 --> 00:05:07.587] BEREL: What is it?
+[00:05:09.347 --> 00:05:09.987] RIKER: It's just a toy.
+[00:05:10.387 --> 00:05:11.827] RIKER: I was taking home as a present.
+[00:05:12.947 --> 00:05:13.987] BEREL: I thought you didn't have any family.
+[00:05:15.267 --> 00:05:16.547] RIKER: It's for a neighbour's child.
+[00:05:18.227 --> 00:05:19.187] RIKER: Was there anything else found?
+[00:05:19.187 --> 00:05:22.387] RIKER: I had one piece of jewelry, a metal pin.
+[00:05:22.867 --> 00:05:23.027] BEREL: No,
+[00:05:23.507 --> 00:05:23.987] BEREL: I'm sorry,
+[00:05:24.147 --> 00:05:24.947] BEREL: this was all we found.
+[00:05:29.667 --> 00:05:29.987] NILREM: Genetic
+[00:05:38.387 --> 00:05:38.787] NILREM: irregularities?
+[00:05:38.947 --> 00:05:41.667] NILREM: That thing isn't even the same species as we are.
+[00:05:41.747 --> 00:05:42.627] BEREL: Keep your voice down.
+[00:05:42.787 --> 00:05:44.787] BEREL: The last thing we need is a panic in here
+[00:05:44.787 --> 00:05:45.267] BEREL: over some
+[00:05:45.587 --> 00:05:46.627] NILREM: It's all the space flights.
+[00:05:47.747 --> 00:05:49.507] NILREM: They have attracted creatures from outer space.
+[00:05:49.507 --> 00:05:51.267] BEREL: That's exactly the kind of thing I don't want to hear.
+[00:05:51.667 --> 00:05:52.467] TAVA: What are you going to do?
+[00:05:52.547 --> 00:05:52.627] BEREL: Of
+[00:05:54.547 --> 00:05:56.227] BEREL: all the medical facilities available,
+[00:05:59.027 --> 00:06:00.547] BEREL: why did he have to end up here?
+[00:06:00.778 --> 00:06:02.058] NILREM: I think we ought to call Central Security.
+[00:06:02.058 --> 00:06:03.338] BEREL: Well, I'm not calling anybody yet.
+[00:06:03.338 --> 00:06:05.898] BEREL: Not till we've done a lot more. A lot more.
+[00:06:06.538 --> 00:06:07.898] BEREL: I want his story checked out.
+[00:06:08.618 --> 00:06:10.378] BEREL: Run a complete search through the medical library.
+[00:06:10.378 --> 00:06:12.618] BEREL: Be absolutely certain there's never been anything like him.
+[00:06:13.658 --> 00:06:14.378] NILREM: What if there're more of them?
+[00:06:14.858 --> 00:06:15.978] NILREM: They could be everywhere.
+[00:06:16.298 --> 00:06:17.018] BEREL: Cordon off the wing.
+[00:06:17.258 --> 00:06:20.778] BEREL: I want security on his door twenty nine hours a day, and I want this kept quiet.
+[00:06:21.658 --> 00:06:22.218] VOICE: Code three drill in B wing.
+[00:06:22.538 --> 00:06:24.298] VOICE: All instructors report
+[00:06:24.378 --> 00:06:24.698] VOICE: immediately.
+[00:06:33.178 --> 00:06:39.978] MIRASTA: At twelve point four after launch, the warp field generator will be activated.
+[00:06:40.458 --> 00:06:42.298] DURKEN: That's when it would break the light barrier?
+[00:06:42.458 --> 00:06:43.178] MIRASTA: Yes, Chancellor.
+[00:06:44.058 --> 00:06:49.898] MIRASTA: If we're successful, the craft will leave our star system, and in a matter of minutes will be on its way to the Garth system.
+[00:06:50.698 --> 00:06:51.258] KROLA: And then what?
+[00:06:52.218 --> 00:06:54.378] MIRASTA: And then, Krola, we'll see what's there.
+[00:06:55.338 --> 00:06:56.298] DURKEN: How long, Mirasta?
+[00:06:57.178 --> 00:06:59.258] MIRASTA: We have the prototype design for the warp engine.
+[00:06:59.578 --> 00:07:02.138] MIRASTA: It would simply be a matter of building the actual production units.
+[00:07:03.018 --> 00:07:07.178] MIRASTA: If I get your approval today, ten months, maybe less.
+[00:07:07.818 --> 00:07:15.338] KROLA: Chancellor, I'll admit Mirasta's enthusiasm for her work is seductive, but perhaps we're moving too fast.
+[00:07:15.898 --> 00:07:20.858] KROLA: Your opponents will see this as another example of your determination to pull us further from our traditional ways.
+[00:07:21.018 --> 00:07:22.778] DURKEN: My opponents look back as I look forward.
+[00:07:24.458 --> 00:07:27.978] DURKEN: I cannot believe that my people would choose to retreat after all we've done.
+[00:07:28.618 --> 00:07:29.098] MIRASTA: I agree.
+[00:07:30.769 --> 00:07:34.769] KROLA: The people were willing to accept your social reforms because they believe in you, Chancellor.
+[00:07:35.329 --> 00:07:37.569] KROLA: But there are many who say we have gone far enough.
+[00:07:38.609 --> 00:07:45.729] KROLA: All these new ideas, new technology, and now space travel? It confuses them, frightens
+[00:07:50.529 --> 00:07:52.529] KROLA: them.
+[00:07:53.089 --> 00:07:55.889] DURKEN: I will not allow them to remain in the dark ages.
+[00:07:59.329 --> 00:08:02.129] DURKEN: The warp programme will proceed as you have outlined, Mirasta. And
+[00:08:06.129 --> 00:08:11.729] DURKEN: then we will slow down, Krola, to let everyone catch their breath. Including you.
+[00:08:41.729 --> 00:08:42.209] PICARD: Mirasta Yale?
+[00:08:42.209 --> 00:08:42.449] MIRASTA: Yes.
+[00:08:44.849 --> 00:08:45.009] TROI: Please,
+[00:08:47.249 --> 00:08:49.089] TROI: don't be alarmed at our appearance.
+[00:08:49.489 --> 00:08:51.169] PICARD: My name is Jean-Luc Picard.
+[00:08:51.649 --> 00:08:53.809] PICARD: This is my associate Deanna Troi.
+[00:08:55.729 --> 00:08:55.889] MIRASTA: What
+[00:08:55.947 --> 00:08:56.347] MIRASTA: are you?
+[00:08:57.787 --> 00:09:00.027] TROI: We've come with some important information.
+[00:09:01.307 --> 00:09:01.707] MIRASTA: About what?
+[00:09:02.667 --> 00:09:05.787] PICARD: About space. About the universe you are preparing to enter.
+[00:09:08.027 --> 00:09:10.347] TROI: We come from a federation of planets.
+[00:09:10.907 --> 00:09:15.147] TROI: Captain Picard is from a planet called Earth, which is over two thousand light years from here.
+[00:09:16.107 --> 00:09:17.947] TROI: I'm from another planet called Betazed.
+[00:09:21.787 --> 00:09:24.827] PICARD: We've been monitoring your progress toward warp-drive capability.
+[00:09:26.267 --> 00:09:33.867] PICARD: When a society reaches your level of technology and is clearly about to initiate warp travel, we feel the time is right for first contact.
+[00:09:34.667 --> 00:09:39.227] PICARD: We prefer meeting like this, rather than a random confrontation in deep space.
+[00:09:39.707 --> 00:09:43.467] TROI: We've come to you first because you're a leader in the scientific community.
+[00:09:44.347 --> 00:09:47.787] TROI: Scientists generally accept our arrival more easily than others.
+[00:09:48.187 --> 00:09:51.307] PICARD: We almost always encounter shock and fear on this sort of mission.
+[00:09:51.787 --> 00:09:54.987] PICARD: We hope that you will help us facilitate our introduction.
+[00:09:56.507 --> 00:09:57.387] MIRASTA: Is this a joke?
+[00:09:58.667 --> 00:10:00.907] MIRASTA: Did Lupo and the others from the lab put you up to this?
+[00:10:01.227 --> 00:10:02.107] PICARD: It's certainly no joke.
+[00:10:02.587 --> 00:10:07.707] PICARD: As you can see, we are physically quite different from Malcorians. And, with your permission,
+[00:10:09.227 --> 00:10:10.347] PICARD: I'm prepared to prove it to you.
+[00:10:16.747 --> 00:10:18.747] MIRASTA: I
+[00:10:24.027 --> 00:10:24.747] MIRASTA: would like that.
+[00:10:28.756 --> 00:10:30.116] PICARD: Picard to Enterprise.
+[00:10:31.076 --> 00:10:31.716] PICARD: Three to beam up.
+[00:11:11.876 --> 00:11:14.916] MIRASTA: It's everything I've ever dreamed of.
+[00:11:29.236 --> 00:11:30.036] MIRASTA: When I was a child,
+[00:11:31.556 --> 00:11:35.156] MIRASTA: my parents would take me to the planetarium and we would sit in the dark
+[00:11:36.836 --> 00:11:43.556] MIRASTA: and it was as if I was on a spaceship, on my way to another world to meet people on other planets.
+[00:11:45.636 --> 00:11:49.396] MIRASTA: Part of me keeps waiting for the lights to come up and the programme to end.
+[00:11:51.076 --> 00:11:52.196] MIRASTA: How did you know about me?
+[00:11:56.356 --> 00:11:57.876] PICARD: We learn as much as possible
+[00:11:58.043 --> 00:12:00.763] PICARD: about a planet before we make first contact.
+[00:12:01.563 --> 00:12:07.563] TROI: One of the things we monitor are your broadcast signals, your journalism, your music, your humour.
+[00:12:08.203 --> 00:12:09.963] TROI: Try to better understand you as a people.
+[00:12:12.203 --> 00:12:16.763] MIRASTA: I hate to think how you would judge us based on our popular music and entertainment.
+[00:12:17.723 --> 00:12:27.003] PICARD: Indeed, we do get an incomplete picture, which is why we also do surface reconnaissance.
+[00:12:29.803 --> 00:12:32.470] MIRASTA: You've had people on our planet?
+[00:12:32.470 --> 00:12:33.803] TROI: For several years.
+[00:12:34.363 --> 00:12:42.763] PICARD: These are specialists, highly trained observation teams, superficially identical to yourselves and therefore able to blend naturally into your society.
+[00:12:43.083 --> 00:12:49.483] PICARD: You see, we have discovered that the most hazardous aspect of these missions is a lack of sufficient information
+[00:12:50.443 --> 00:12:51.883] MIRASTA: You don't have to explain.
+[00:12:52.923 --> 00:12:53.883] MIRASTA: I understand,
+[00:12:55.643 --> 00:13:01.323] MIRASTA: although not everybody on my planet would. They would think you were trying to infiltrate our society.
+[00:13:02.203 --> 00:13:08.443] PICARD: There is a difficulty here, one that has forced us to accelerate this entire process.
+[00:13:08.443 --> 00:13:10.443] PICARD: One of our people is missing.
+[00:13:11.803 --> 00:13:19.483] PICARD: My First Officer, Commander William Riker. He was down on the planet surface, coordinating with the observation team the final details of contact.
+[00:13:21.083 --> 00:13:21.883] PICARD: He disappeared.
+[00:13:22.363 --> 00:13:25.003] PICARD: My people have made enquiries but they've not been able to locate him.
+[00:13:26.363 --> 00:13:28.727] PICARD: If there is anything you can help
+[00:13:28.727 --> 00:13:29.403] MIRASTA: Of course.
+[00:13:30.443 --> 00:13:31.963] MIRASTA: Where was Riker's last known location?
+[00:13:32.422 --> 00:13:33.302] TROI: The capital city.
+[00:13:34.102 --> 00:13:38.182] TROI: He was under the name of Rivas Jakara, a tourist from the Marta community.
+[00:13:38.662 --> 00:13:41.942] MIRASTA: We must find him before someone realises what he really is.
+[00:13:42.662 --> 00:13:46.502] MIRASTA: If this gets out prematurely, it could seriously complicate matters.
+[00:13:47.062 --> 00:13:56.022] MIRASTA: Our ideology is based on the assumption that the Malcorian is a supreme lifeform, and our world is the centre of the universe.
+[00:13:57.702 --> 00:14:01.782] MIRASTA: Your arrival will change our entire understanding of life,
+[00:14:03.462 --> 00:14:05.062] MIRASTA: and some will not want it to change.
+[00:14:07.302 --> 00:14:08.022] PICARD: What about Durken?
+[00:14:09.542 --> 00:14:09.942] MIRASTA: Durken.
+[00:14:11.062 --> 00:14:13.702] MIRASTA: He will be open-minded, but cautious.
+[00:14:14.902 --> 00:14:18.262] MIRASTA: I strongly suggest that you do not discuss your surveillance teams with him.
+[00:14:18.342 --> 00:14:19.462] MIRASTA: At least not right away.
+[00:14:20.662 --> 00:14:24.182] PICARD: But with the disappearance of Commander Riker, wouldn't it be prudent
+[00:14:24.182 --> 00:14:24.822] MIRASTA: Captain Picard,
+[00:14:25.622 --> 00:14:27.542] MIRASTA: I must ask you to trust me on this.
+[00:14:28.582 --> 00:14:33.462] MIRASTA: If you tell the Chancellor about Commander Riker, you will undermine everything that you hope to accomplish here.
+[00:14:34.022 --> 00:14:38.102] MIRASTA: Durken will assign Krola, our Minister of Security, to find him.
+[00:14:39.302 --> 00:14:41.222] MIRASTA: Krola has his own political agenda.
+[00:14:42.262 --> 00:14:50.742] MIRASTA: He will perceive you as the greatest threat that our people have ever known. And he will not hesitate to use Riker to prove that he is correct.
+[00:14:50.742 --> 00:14:51.302] NURSE: From
+[00:14:59.622 --> 00:15:01.198] NURSE: another planet, hundreds of them.
+[00:15:01.198 --> 00:15:02.774] NILREM: It doesn't make sense that
+[00:15:02.822 --> 00:15:05.222] NILREM: he's the only one. Think about it.
+[00:15:06.014 --> 00:15:07.134] BEREL: I
+[00:15:11.614 --> 00:15:13.374] BEREL: thought I said this was to be kept a secret.
+[00:15:13.534 --> 00:15:14.174] TAVA: You know Nilrem.
+[00:15:14.254 --> 00:15:15.614] BEREL: Well, it's getting out of control.
+[00:15:16.574 --> 00:15:23.854] BEREL: I don't know what else he is, but he is still a patient in this medical facility and we have a responsibility for his care and recovery.
+[00:15:24.174 --> 00:15:25.294] BEREL: Remind them of that, will you?
+[00:15:26.094 --> 00:15:28.174] TAVA: You're not going to be able to contain this much longer.
+[00:15:29.214 --> 00:15:29.454] BEREL: I know.
+[00:15:29.934 --> 00:15:31.374] TAVA: If people get scared enough, anything could happen
+[00:15:46.414 --> 00:15:46.414] BEREL: Mister
+[00:15:46.494 --> 00:15:50.174] BEREL: Jakara, we have been unable to confirm anything you told us.
+[00:15:51.854 --> 00:15:53.534] BEREL: No physician named Crusher is on file.
+[00:15:54.974 --> 00:15:55.694] BEREL: Not on this planet.
+[00:15:57.454 --> 00:16:00.654] BEREL: Your address in Marta's an eating establishment. The cook has never heard of
+[00:16:00.654 --> 00:16:01.534] BEREL: Rivas Jakara.
+[00:16:01.934 --> 00:16:03.694] RIKER: Obviously there's been some misunderstanding.
+[00:16:03.774 --> 00:16:08.014] BEREL: There's a growing number of people on the other side of that door who believe you are not one of us, Mister
+[00:16:08.014 --> 00:16:08.414] BEREL: Jakara.
+[00:16:09.614 --> 00:16:10.414] RIKER: Not one of you?
+[00:16:11.774 --> 00:16:12.814] BEREL: That you are from another planet.
+[00:16:13.934 --> 00:16:14.814] BEREL: Are you, Mister
+[00:16:14.814 --> 00:16:15.214] BEREL: Jakara?
+[00:16:17.054 --> 00:16:18.334] RIKER: Do you realise what you're saying?
+[00:16:19.214 --> 00:16:20.094] BEREL: I know how it sounds.
+[00:16:21.934 --> 00:16:23.454] BEREL: I'm not anxious to make a fool of myself.
+[00:16:26.494 --> 00:16:28.094] BEREL: This new era of space flight,
+[00:16:30.494 --> 00:16:31.774] BEREL: it fires the imagination.
+[00:16:33.123 --> 00:16:36.483] BEREL: People see unidentified vessels in the sky that turn out to be weather balloons.
+[00:16:38.083 --> 00:16:41.363] RIKER: Well, it's far more likely that I am a weather balloon than an alien.
+[00:16:44.243 --> 00:16:48.163] BEREL: Our medical journals have documented several cases of genetic mutation in recent history.
+[00:16:48.483 --> 00:16:51.123] BEREL: Some unusual physical disfigurations have occurred.
+[00:16:52.163 --> 00:16:54.403] RIKER: I'm another case for the medical journals, then.
+[00:16:56.163 --> 00:16:59.683] BEREL: Perhaps. But you, Mister Jakara, are hiding something,
+[00:17:01.443 --> 00:17:10.803] BEREL: and unless you tell me the truth about yourself, this rumour will persist and grow and could even become dangerous. Most especially to you.
+[00:17:31.123 --> 00:17:34.403] MALE: Chancellor, Minister Yale of the Space Bureau would like to introduce you to someone.
+[00:17:35.683 --> 00:17:36.243] DURKEN: Call her back.
+[00:17:36.483 --> 00:17:37.683] DURKEN: See if the Vice-Chancellor will do.
+[00:17:38.963 --> 00:17:41.763] MALE: They're out here waiting to see you, sir.
+[00:17:42.403 --> 00:17:43.683] DURKEN: All right. Send them in.
+[00:17:49.523 --> 00:17:51.603] DURKEN: Always time to meet your friends, Mirasta.
+[00:17:53.923 --> 00:17:57.923] MIRASTA: Chancellor, I think you might want to clear your afternoon schedule for this.
+[00:18:16.203 --> 00:18:19.136] PICARD: And this is the Bridge.
+[00:18:19.136 --> 00:18:19.723] MIRASTA: Chancellor.
+[00:18:24.523 --> 00:18:30.523] PICARD: Here we have Environmental and Engineering stations, mission operations, and the two principal science stations. Data,
+[00:18:31.563 --> 00:18:36.043] PICARD: allow me to introduce Chancellor Avel Durken and Space Administrator Mirasta Yale.
+[00:18:36.603 --> 00:18:37.383] DATA: Chancellor. Minister.
+[00:18:37.383 --> 00:18:39.723] PICARD: Commander Data is my Second Officer.
+[00:18:40.443 --> 00:18:44.043] MIRASTA: He's an android, Chancellor. A constructed being.
+[00:18:44.763 --> 00:18:45.403] DURKEN: A machine?
+[00:18:45.403 --> 00:18:47.003] DATA: In a manner of speaking.
+[00:18:47.643 --> 00:18:50.043] DATA: The term artificial lifeform would be more accurate.
+[00:18:54.843 --> 00:18:59.403] DURKEN: Captain Picard, is there someplace we might speak together without distraction?
+[00:19:00.203 --> 00:19:00.523] PICARD: Certainly.
+[00:19:01.083 --> 00:19:05.643] MIRASTA: Chancellor, with your permission, I would like to beam to the surface.
+[00:19:06.283 --> 00:19:07.723] MIRASTA: I have several matters to attend to.
+[00:19:08.203 --> 00:19:10.523] DURKEN: Not a word to anyone about this, Mirasta.
+[00:19:10.763 --> 00:19:11.323] MIRASTA: Of course.
+[00:19:11.883 --> 00:19:15.403] PICARD: Mister Data, will you escort the Minister to the transporter room? Chancellor.
+[00:19:17.003 --> 00:19:19.403] MIRASTA: Has there still been no communication from Commander Riker, Data?
+[00:19:20.123 --> 00:19:20.603] DATA: No, Minister.
+[00:19:20.843 --> 00:19:23.323] DATA: He has not returned to our designated transport coordinates.
+[00:19:23.563 --> 00:19:26.123] DATA: We have continued to scan the capital city without success.
+[00:19:32.861 --> 00:19:34.621] PICARD: I've been saving this for a special occasion.
+[00:19:35.261 --> 00:19:41.021] PICARD: My brother on Earth produces fruit known as grapes, which he turns into wine.
+[00:19:41.101 --> 00:19:42.381] PICARD: He's really quite good at it.
+[00:19:44.221 --> 00:19:48.221] PICARD: Chancellor, we have a tradition called a toast.
+[00:19:49.181 --> 00:19:59.821] PICARD: It is a drink to salute one's friends and good fortune, and I would like to propose a toast to a new friendship.
+[00:20:08.861 --> 00:20:10.861] DURKEN: We have something very much like this here on Malcor Three.
+[00:20:12.221 --> 00:20:14.480] PICARD: I think we shall find we have much in common.
+[00:20:14.480 --> 00:20:16.061] DURKEN: And much that is not in common.
+[00:20:16.781 --> 00:20:18.621] PICARD: An opportunity to learn from one another.
+[00:20:19.421 --> 00:20:21.341] DURKEN: You speak the language of diplomacy very well, Captain.
+[00:20:21.981 --> 00:20:27.741] DURKEN: It is a language I appreciate and understand, but I have learned to not always trust it.
+[00:20:28.461 --> 00:20:31.741] PICARD: Trust requires time and experience.
+[00:20:32.861 --> 00:20:38.861] DURKEN: My world's history has recorded that conquerors often arrived with the words, we are your friends.
+[00:20:41.101 --> 00:20:42.941] PICARD: We are not here as conquerors, Chancellor.
+[00:20:43.501 --> 00:20:44.301] DURKEN: What do you want?
+[00:20:45.021 --> 00:20:45.501] PICARD: A beginning.
+[00:20:46.781 --> 00:20:49.021] PICARD: But how we proceed is entirely up to you.
+[00:20:49.661 --> 00:20:51.954] DURKEN: And if my wishes should conflict with yours?
+[00:20:51.954 --> 00:20:53.101] PICARD: There'll be no conflict.
+[00:20:53.821 --> 00:20:57.445] DURKEN: And if I should tell you to leave and never return to my world?
+[00:20:57.445 --> 00:20:58.221] PICARD: We will leave
+[00:20:58.309 --> 00:20:59.029] PICARD: and never return.
+[00:21:02.869 --> 00:21:03.269] PICARD: Chancellor,
+[00:21:03.829 --> 00:21:09.829] PICARD: we are here only to help guide you into a new era.
+[00:21:10.629 --> 00:21:15.509] PICARD: I can assure you we will not interfere in the natural development of your planet.
+[00:21:16.549 --> 00:21:18.229] PICARD: That is, in fact, our Prime Directive.
+[00:21:20.149 --> 00:21:27.349] DURKEN: I can infer from that directive that you do not intend to share all this exceptional technology with us.
+[00:21:27.829 --> 00:21:29.909] PICARD: That is not the whole meaning, but it is part of it.
+[00:21:30.869 --> 00:21:33.739] DURKEN: Is this your way of maintaining superiority?
+[00:21:33.739 --> 00:21:34.149] PICARD: Chancellor,
+[00:21:34.229 --> 00:21:39.909] PICARD: to instantly transform a society with technology would be harmful and it would be destructive,
+[00:21:45.189 --> 00:21:46.069] DURKEN: You're right, of course.
+[00:21:49.109 --> 00:21:52.389] DURKEN: I'm overwhelmed, Captain Picard.
+[00:21:52.469 --> 00:21:55.669] DURKEN: I'm quite overwhelmed.
+[00:21:55.669 --> 00:21:55.669] DURKEN: I
+[00:21:58.949 --> 00:22:05.109] DURKEN: go home each night to a loving wife, two beautiful daughters. We eat the evening meal together as a family,
+[00:22:05.909 --> 00:22:06.789] DURKEN: I think that's important.
+[00:22:08.389 --> 00:22:10.229] DURKEN: And they always ask me if I've had a good day.
+[00:22:12.149 --> 00:22:15.029] PICARD: And how shall you answer them tonight, Chancellor?
+[00:22:16.869 --> 00:22:22.629] DURKEN: I will have to say this morning, I was the leader of the universe as I knew it.
+[00:22:22.629 --> 00:22:26.229] DURKEN: This afternoon, I am only a voice in a chorus.
+[00:22:31.509 --> 00:22:32.709] DURKEN: But I think it was a good day.
+[00:22:54.629 --> 00:22:55.509] LANEL: There are guards out there.
+[00:22:55.509 --> 00:22:56.629] LANEL: You'll never escape that way.
+[00:23:01.029 --> 00:23:03.749] LANEL: I'm not afraid of you.
+[00:23:04.469 --> 00:23:04.789] RIKER: Good.
+[00:23:06.149 --> 00:23:07.349] RIKER: Because there's nothing to be afraid of.
+[00:23:07.829 --> 00:23:09.189] LANEL: We shouldn't fear the unknown.
+[00:23:10.149 --> 00:23:11.109] LANEL: We should embrace it.
+[00:23:13.669 --> 00:23:14.629] RIKER: Can you help me get out of here?
+[00:23:15.989 --> 00:23:17.189] LANEL: Are you really an alien?
+[00:23:18.389 --> 00:23:19.269] LANEL: It's all right to tell me.
+[00:23:21.109 --> 00:23:22.709] RIKER: No, I'm not an alien.
+[00:23:24.389 --> 00:23:25.189] LANEL: I don't believe you.
+[00:23:25.189 --> 00:23:26.229] LANEL: You are an alien.
+[00:23:26.629 --> 00:23:27.509] RIKER: I really have to leave.
+[00:23:28.789 --> 00:23:30.309] LANEL: I could divert the guard's attention.
+[00:23:30.949 --> 00:23:34.229] LANEL: You might stand a chance if you took the service exit down the hallway to the right.
+[00:23:35.189 --> 00:23:35.509] RIKER: To the right?
+[00:23:36.149 --> 00:23:36.389] RIKER: Fine,
+[00:23:36.389 --> 00:23:38.069] RIKER: let's do it.
+[00:23:39.029 --> 00:23:39.509] LANEL: Why should I?
+[00:23:40.869 --> 00:23:41.029] RIKER: Well,
+[00:23:43.589 --> 00:23:44.229] RIKER: you know why.
+[00:23:45.269 --> 00:23:46.069] RIKER: I don't belong here.
+[00:23:46.949 --> 00:23:48.229] RIKER: I have to get back on my ship,
+[00:23:49.589 --> 00:23:50.229] RIKER: in space.
+[00:23:52.309 --> 00:23:53.189] LANEL: I believe you.
+[00:23:54.629 --> 00:23:56.389] RIKER: Now, will you help me?
+[00:23:57.029 --> 00:23:58.229] LANEL: If you make love to me.
+[00:24:00.297 --> 00:24:00.457] RIKER: What?
+[00:24:01.177 --> 00:24:03.097] LANEL: I've always wanted to make love with an alien.
+[00:24:04.617 --> 00:24:06.270] RIKER: Listen, Miss
+[00:24:06.270 --> 00:24:07.097] LANEL: Lanel.
+[00:24:07.737 --> 00:24:08.217] RIKER: Lanel,
+[00:24:09.737 --> 00:24:10.777] RIKER: I really have to get going.
+[00:24:10.777 --> 00:24:13.177] RIKER: All the other aliens are waiting for me.
+[00:24:13.497 --> 00:24:16.457] LANEL: Oh, it's not so much to ask, and then I'll help you escape.
+[00:24:16.937 --> 00:24:18.937] RIKER: It's not that easy.
+[00:24:18.937 --> 00:24:22.297] RIKER: There are differences in the way that my people make love.
+[00:24:23.897 --> 00:24:25.017] LANEL: I can't wait to learn.
+[00:24:25.897 --> 00:24:26.555] RIKER: But it's
+[00:24:26.555 --> 00:24:28.857] LANEL: It's your only way out of here,
+[00:24:32.617 --> 00:24:33.737] LANEL: my alien.
+[00:24:50.297 --> 00:24:51.257] LANEL: Something's happened to him.
+[00:24:51.257 --> 00:24:52.057] LANEL: I think he's dead.
+[00:24:52.537 --> 00:24:53.337] LANEL: Go on, get some help.
+[00:24:56.457 --> 00:24:58.457] LANEL: Okay.
+[00:25:05.337 --> 00:25:05.497] LANEL: No, that
+[00:25:07.897 --> 00:25:07.897] LANEL: way.
+[00:25:08.137 --> 00:25:08.537] RIKER: Thanks.
+[00:25:08.777 --> 00:25:11.737] LANEL: Will I ever see you again?
+[00:25:15.257 --> 00:25:17.257] RIKER: I'll call you the next time I pass through your star system.
+[00:25:26.897 --> 00:25:27.537] NILREM: Stop
+[00:25:32.657 --> 00:25:32.737] NILREM: him!
+[00:25:33.457 --> 00:25:34.177] NILREM: Somebody stop him!
+[00:25:34.417 --> 00:25:35.483] NURSE: Hold it.
+[00:25:35.697 --> 00:25:36.417] VOICE: He's escaping!
+[00:25:37.537 --> 00:25:39.777] VOICE: The alien's escaping!
+[00:25:51.377 --> 00:25:51.777] BEREL: Stop it!
+[00:25:51.937 --> 00:25:52.337] BEREL: All of you!
+[00:25:52.457 --> 00:25:53.057] BEREL: Stop it now!
+[00:25:54.817 --> 00:25:55.297] BEREL: Have you all
+[00:25:55.297 --> 00:25:55.297] BEREL: lost your minds?
+[00:26:00.977 --> 00:26:02.977] TAVA: They've aggravated the injury to his renal organ.
+[00:26:03.937 --> 00:26:05.057] TAVA: He's bleeding internally.
+[00:26:05.057 --> 00:26:06.257] BEREL: Get him into a surgical cubicle.
+[00:26:07.057 --> 00:26:08.177] BEREL: And call Central Security.
+[00:26:08.657 --> 00:26:09.697] BEREL: This has gone too far.
+[00:26:25.297 --> 00:26:29.857] DURKEN: Their leader, Picard, has made it clear that how we proceed is entirely our own decision.
+[00:26:29.857 --> 00:26:33.297] KROLA: You cannot possibly be suggesting surrender, Chancellor.
+[00:26:33.697 --> 00:26:34.977] MIRASTA: They are not hostile.
+[00:26:35.537 --> 00:26:36.017] KROLA: Mirasta,
+[00:26:36.497 --> 00:26:38.017] KROLA: you are incredibly naive.
+[00:26:38.897 --> 00:26:43.217] KROLA: Can you be so enraptured with the notion of space travellers that you are blind to the threat they represent?
+[00:26:43.217 --> 00:26:44.737] DURKEN: I have seen their vessel, Krola.
+[00:26:45.057 --> 00:26:48.257] DURKEN: If they chose to be hostile, I do not think we would be standing here now.
+[00:26:48.977 --> 00:26:52.337] KROLA: Why should they use force when we are ready to lay down in fear.
+[00:26:53.012 --> 00:26:54.612] DURKEN: I do not lay down in fear,
+[00:26:55.252 --> 00:26:57.652] DURKEN: to them or to you, Krola.
+[00:26:57.652 --> 00:26:58.052] KROLA: Chancellor,
+[00:26:58.052 --> 00:27:05.412] KROLA: I mean no disrespect, but I have repeatedly warned you about your policies, taking us so quickly where we had no business going in the first place.
+[00:27:06.212 --> 00:27:08.532] KROLA: New philosophies, new economics, new technologies.
+[00:27:09.492 --> 00:27:14.292] KROLA: There are many people who still value our traditional way of life and I for one am willing to die to defend it.
+[00:27:15.252 --> 00:27:16.612] MIRASTA: Open your eyes, Krola.
+[00:27:17.172 --> 00:27:18.692] MIRASTA: We are part of a greater community.
+[00:27:18.692 --> 00:27:19.892] MIRASTA: We cannot ignore it.
+[00:27:20.212 --> 00:27:21.252] KROLA: You would ignore them as
+[00:27:22.372 --> 00:27:24.372] KROLA: they infiltrate and spy on us.
+[00:27:24.932 --> 00:27:26.292] DURKEN: What are you saying, Krola?
+[00:27:27.412 --> 00:27:29.492] KROLA: We have captured one of their spies.
+[00:27:35.172 --> 00:27:35.572] MIRASTA: Chancellor,
+[00:27:37.572 --> 00:27:41.092] MIRASTA: he is Captain Picard's first officer, Commander Riker.
+[00:27:43.972 --> 00:27:47.652] DURKEN: You knew about this, Mirasta?
+[00:27:49.172 --> 00:27:50.532] MIRASTA: He has been missing for two days.
+[00:27:51.572 --> 00:27:56.292] MIRASTA: I told Captain Picard not to discuss this because I was afraid this is exactly what would happen.
+[00:27:56.692 --> 00:27:58.052] DURKEN: What else do you know, Mirasta?
+[00:27:59.172 --> 00:27:59.572] DURKEN: Everything!
+[00:28:02.532 --> 00:28:07.172] MIRASTA: They have been on our planet, observing, for several years.
+[00:28:07.812 --> 00:28:08.052] KROLA: Years!
+[00:28:09.172 --> 00:28:10.452] KROLA: Imagine what they have done.
+[00:28:11.732 --> 00:28:14.292] KROLA: Influenced our young, stirred up dissent.
+[00:28:14.452 --> 00:28:16.212] MIRASTA: They were collecting information.
+[00:28:19.492 --> 00:28:22.132] DURKEN: Where is this Commander Riker now?
+[00:28:23.649 --> 00:28:25.249] KROLA: He's in the Sikla Medical facility.
+[00:28:26.289 --> 00:28:27.409] KROLA: He's recovering from surgery.
+[00:28:28.449 --> 00:28:30.369] KROLA: He suffered head injuries in an escape attempt.
+[00:28:31.809 --> 00:28:33.729] KROLA: He will recover consciousness in a few hours.
+[00:28:52.529 --> 00:28:53.089] KROLA: Will he survive?
+[00:28:53.889 --> 00:28:55.729] BEREL: I didn't think he would have survived the injuries.
+[00:28:56.689 --> 00:28:58.369] KROLA: I have to interrogate him before he dies.
+[00:29:00.609 --> 00:29:02.849] BEREL: At least give him time to regain some strength.
+[00:29:02.849 --> 00:29:03.649] BEREL: Come back tomorrow.
+[00:29:04.609 --> 00:29:05.889] KROLA: It cannot wait until tomorrow.
+[00:29:20.369 --> 00:29:22.369] MIRASTA: Krola, we can get help from his ship.
+[00:29:23.649 --> 00:29:25.649] MIRASTA: With their medical technology, he might recover.
+[00:29:25.969 --> 00:29:27.249] KROLA: We're not giving him back.
+[00:29:27.969 --> 00:29:29.329] KROLA: He's the one advantage we have now.
+[00:29:31.009 --> 00:29:32.209] KROLA: Use your drugs to revive him.
+[00:29:33.489 --> 00:29:36.049] BEREL: Those drugs increase cardial rate and vascular pressure.
+[00:29:36.209 --> 00:29:37.889] BEREL: That's the last thing we need to do to him right now.
+[00:29:42.449 --> 00:29:43.809] MIRASTA: It will probably be enough to kill him.
+[00:29:44.449 --> 00:29:45.729] MIRASTA: You can't do it!
+[00:29:47.409 --> 00:29:47.969] KROLA: Revive him.
+[00:29:49.969 --> 00:29:51.249] BEREL: I'm just a physician, Minister.
+[00:29:51.249 --> 00:29:53.329] BEREL: I don't know much about affairs of state,
+[00:29:53.544 --> 00:29:56.264] BEREL: but he is a living, intelligent being.
+[00:29:56.824 --> 00:29:59.384] BEREL: I don't care if the Chancellor himself calls down here.
+[00:30:00.344 --> 00:30:02.824] BEREL: I have sworn an oath to do no harm, and I will not.
+[00:30:05.224 --> 00:30:06.584] KROLA: Then I'll find someone to replace you.
+[00:30:27.144 --> 00:30:27.544] PICARD: Chancellor.
+[00:30:28.824 --> 00:30:29.864] DURKEN: You are punctual, Captain.
+[00:30:30.424 --> 00:30:31.304] PICARD: I know how busy you are.
+[00:30:31.944 --> 00:30:32.264] DURKEN: Do you?
+[00:30:32.264 --> 00:30:35.384] DURKEN: I think you know a great deal more about me than I know about you.
+[00:30:36.024 --> 00:30:36.744] PICARD: In what respect?
+[00:30:37.784 --> 00:30:45.944] DURKEN: You speak of trust and peace and working together to enter a new era, and at the same time you conduct secret surveillance posing as Malcorians.
+[00:30:47.144 --> 00:30:47.704] PICARD: Commander Riker?
+[00:30:48.424 --> 00:30:48.984] DURKEN: Commander Riker.
+[00:30:52.344 --> 00:30:54.904] PICARD: Mirasta said it would be a mistake to discuss this with you.
+[00:30:55.704 --> 00:30:57.944] DURKEN: Yes, she's tried to accept the responsibility.
+[00:31:00.024 --> 00:31:01.384] PICARD: It was my error, not hers.
+[00:31:06.824 --> 00:31:11.304] PICARD: Chancellor, there is no starship mission more dangerous than that of first contact.
+[00:31:12.184 --> 00:31:15.944] PICARD: We never know what we will face when we open the door on a new world,
+[00:31:17.064 --> 00:31:18.264] PICARD: how we will be greeted,
+[00:31:19.784 --> 00:31:21.464] PICARD: what exactly the dangers will be.
+[00:31:22.184 --> 00:31:22.984] PICARD: Centuries ago, a
+[00:31:23.298 --> 00:31:31.458] PICARD: disastrous contact with the Klingon Empire led to decades of war. It was decided then we would do surveillance before making contact.
+[00:31:31.618 --> 00:31:31.938] PICARD: It
+[00:31:33.538 --> 00:31:34.818] PICARD: was a controversial decision.
+[00:31:36.018 --> 00:31:38.498] PICARD: I believe it prevented more problems than it created.
+[00:31:40.418 --> 00:31:43.298] DURKEN: I can appreciate the logic of your position, Captain.
+[00:31:45.298 --> 00:31:49.298] DURKEN: But it would seem a full disclosure after contact would have been in order.
+[00:31:49.938 --> 00:31:51.378] PICARD: In time there would have been full disclosure.
+[00:31:52.498 --> 00:31:53.858] PICARD: I can only ask you to believe that.
+[00:31:54.498 --> 00:31:55.858] PICARD: On other worlds it would not be an issue.
+[00:31:57.218 --> 00:32:06.258] PICARD: But here, everything our observers reported indicated that the people of this world would almost certainly react negatively to our arrival.
+[00:32:06.818 --> 00:32:11.698] PICARD: We could see that even surveillance might even be interpreted as an act of aggression.
+[00:32:12.738 --> 00:32:20.498] PICARD: I hoped that we would have found Commander Riker before you did so the matter would not complicate our introduction.
+[00:32:23.058 --> 00:32:23.778] PICARD: It was a mistake.
+[00:32:26.818 --> 00:32:27.378] DURKEN: Yes.
+[00:32:27.528 --> 00:32:28.128] DURKEN: A
+[00:32:29.298 --> 00:32:31.058] DURKEN: mistake I might have made in your place.
+[00:32:32.978 --> 00:32:33.938] DURKEN: I rather like it actually.
+[00:32:34.818 --> 00:32:35.529] PICARD: Like it?
+[00:32:35.529 --> 00:32:38.018] DURKEN: That you make mistakes like any man.
+[00:32:39.298 --> 00:32:41.458] PICARD: Chancellor, I have made some fine ones in my time.
+[00:32:42.658 --> 00:32:46.178] PICARD: Now, I must ask you, will you release my officer?
+[00:32:47.698 --> 00:32:49.298] DURKEN: We'll talk again later, Captain.
+[00:32:52.258 --> 00:32:53.778] PICARD: Enterprise, one to beam up.
+[00:33:01.634 --> 00:33:02.834] BEREL: Yes I understand.
+[00:33:06.754 --> 00:33:09.554] BEREL: I have been relieved of my duties, as I'm sure you already know.
+[00:33:10.914 --> 00:33:12.834] BEREL: You are Acting Director of the facility, Nilrem.
+[00:33:16.754 --> 00:33:17.154] KROLA: Revive
+[00:33:18.754 --> 00:33:20.754] KROLA: him.
+[00:33:46.594 --> 00:33:46.994] KROLA: Leave us.
+[00:33:46.994 --> 00:33:46.994] KROLA: I
+[00:34:03.554 --> 00:34:05.554] KROLA: am Minister Krola of Internal Security.
+[00:34:07.154 --> 00:34:08.994] KROLA: You are Riker, an alien.
+[00:34:12.194 --> 00:34:12.674] KROLA: Yes, we know.
+[00:34:15.234 --> 00:34:16.594] RIKER: Please bring my people here.
+[00:34:18.434 --> 00:34:20.194] KROLA: In time. In time.
+[00:34:20.344 --> 00:34:20.944] KROLA: But
+[00:34:22.834 --> 00:34:24.674] KROLA: first I need to ask you some questions.
+[00:34:30.722 --> 00:34:31.602] MIRASTA: Thank you for seeing me.
+[00:34:33.202 --> 00:34:38.962] DURKEN: If I did not depend so much on your expertise in space matters, I would have asked for your resignation.
+[00:34:39.522 --> 00:34:42.242] MIRASTA: I felt I was acting in the best interests of our people, Chancellor.
+[00:34:42.642 --> 00:34:48.722] DURKEN: When you are selected to occupy this office, then you will have the privilege of deciding the best interests of our people.
+[00:34:52.082 --> 00:34:56.322] DURKEN: Picard I can excuse, but you, Mirasta, you should have trusted me.
+[00:34:57.522 --> 00:34:59.442] MIRASTA: Chancellor, we must release Riker to Picard
+[00:35:00.162 --> 00:35:02.642] MIRASTA: Any hope for a relationship with these people depends on it.
+[00:35:02.962 --> 00:35:05.762] DURKEN: I can't afford to be the idealist you are, Mirasta.
+[00:35:06.322 --> 00:35:06.635] MIRASTA: Riker
+[00:35:06.635 --> 00:35:10.082] DURKEN: I am prepared to release Riker after we have interrogated him.
+[00:35:11.842 --> 00:35:13.682] MIRASTA: Are you prepared for him to die, Chancellor?
+[00:35:14.962 --> 00:35:16.802] MIRASTA: His injuries are extremely serious.
+[00:35:17.442 --> 00:35:19.762] MIRASTA: A mob at the medical facility almost killed him.
+[00:35:20.802 --> 00:35:23.682] MIRASTA: Krola has ordered drugs to be used to revive him for questioning,
+[00:35:23.682 --> 00:35:25.922] MIRASTA: drugs that in his condition would be dangerous for him.
+[00:35:26.482 --> 00:35:30.402] MIRASTA: Without medical aid from his ship, I believe that Riker will not survive the day.
+[00:35:31.442 --> 00:35:33.362] MIRASTA: You must tell Picard where he is.
+[00:35:36.322 --> 00:35:40.002] KROLA: You have lied since the moment of your capture and I believe you are lying now, Commander.
+[00:35:41.282 --> 00:35:44.307] RIKER: No. We're here on a mission of peace.
+[00:35:44.307 --> 00:35:45.442] KROLA: Such noble creatures.
+[00:35:46.722 --> 00:35:51.602] KROLA: Why do peaceful people develop such lethal weapons?
+[00:35:53.202 --> 00:35:56.322] KROLA: Or do you still insist it's just a toy?
+[00:36:01.015 --> 00:36:02.215] KROLA: An interesting toy, to be sure.
+[00:36:03.175 --> 00:36:05.175] RIKER: It's only used for defence.
+[00:36:05.735 --> 00:36:08.695] KROLA: Perhaps, like many conquerors, you believe your goals to be benevolent.
+[00:36:10.055 --> 00:36:10.535] KROLA: I cannot.
+[00:36:12.055 --> 00:36:17.095] KROLA: For however you would describe your intentions, you still represent the end to my way of life.
+[00:36:18.135 --> 00:36:19.575] KROLA: I cannot permit that to occur.
+[00:36:22.295 --> 00:36:24.855] KROLA: Eventually, Durken would choose to welcome your people
+[00:36:26.535 --> 00:36:28.535] KROLA: with arms open and eyes closed.
+[00:36:31.175 --> 00:36:33.655] KROLA: I must force him down another path.
+[00:36:39.095 --> 00:36:42.455] KROLA: When they find us, I will be dead, killed by your weapon.
+[00:36:43.575 --> 00:36:44.695] KROLA: The lines will be drawn.
+[00:36:45.895 --> 00:36:47.975] KROLA: A peaceful accord will no longer be an option.
+[00:36:48.125 --> 00:36:48.725] RIKER: No.
+[00:36:50.375 --> 00:36:50.975] KROLA: For
+[00:36:52.775 --> 00:36:53.415] KROLA: my people.
+[00:37:04.215 --> 00:37:04.775] TAVA: What happened?
+[00:37:07.575 --> 00:37:08.135] NILREM: He shot him.
+[00:37:09.095 --> 00:37:10.295] NILREM: The alien shot Krola.
+[00:37:17.175 --> 00:37:20.135] TAVA: Get me three octares of adrulmine, high frequency EM charge unit now!
+[00:37:20.775 --> 00:37:21.815] NILREM: I have a circulation pattern.
+[00:37:22.375 --> 00:37:23.255] NILREM: It's very weak.
+[00:37:24.695 --> 00:37:26.215] NILREM: We have to get him on vital buffers right now
+[00:37:30.717 --> 00:37:31.357] CRUSHER: I'm a physician,
+[00:37:31.357 --> 00:37:32.157] CRUSHER: don't be frightened.
+[00:37:34.157 --> 00:37:35.357] CRUSHER: I need to know what happened.
+[00:37:35.517 --> 00:37:36.397] CRUSHER: Are you doctors?
+[00:37:36.637 --> 00:37:37.117] TAVA: Yes.
+[00:37:37.997 --> 00:37:38.477] TAVA: He shot him.
+[00:37:39.197 --> 00:37:39.917] NILREM: With that thing.
+[00:37:42.237 --> 00:37:43.037] CRUSHER: Crusher to Picard.
+[00:37:43.037 --> 00:37:43.997] PICARD: Go ahead, Doctor.
+[00:37:44.957 --> 00:37:48.077] CRUSHER: Commander Riker is near death. But there's still some brain activity.
+[00:37:48.077 --> 00:37:49.117] CRUSHER: I need to get him back to the ship.
+[00:37:49.997 --> 00:37:50.397] PICARD: Acknowledged.
+[00:37:50.797 --> 00:37:53.437] CRUSHER: And there's a Malconian male with a phaser wound in his upper chest.
+[00:37:53.757 --> 00:37:54.957] CRUSHER: I need to get him back as well.
+[00:37:57.677 --> 00:37:58.557] PICARD: We'll meet you on the Enterprise.
+[00:37:58.877 --> 00:37:59.277] PICARD: Picard out.
+[00:38:22.717 --> 00:38:23.757] CRUSHER: They're both going to be okay.
+[00:38:24.477 --> 00:38:25.837] CRUSHER: We were able to stabilise Will.
+[00:38:26.317 --> 00:38:27.437] CRUSHER: If we had been any later
+[00:38:28.637 --> 00:38:28.877] DURKEN: Krola?
+[00:38:29.357 --> 00:38:30.957] CRUSHER: He was never in any real danger.
+[00:38:31.677 --> 00:38:32.877] CRUSHER: The phaser was on stun.
+[00:38:33.357 --> 00:38:33.917] MIRASTA: Stun?
+[00:38:34.397 --> 00:38:35.597] PICARD: It's a defensive weapon.
+[00:38:36.157 --> 00:38:37.597] PICARD: Have you been able to ascertain what happened?
+[00:38:38.077 --> 00:38:43.197] CRUSHER: Based on the angle of impact, it suggests that Krola's left hand was on the phaser when it went off,
+[00:38:43.917 --> 00:38:45.037] DURKEN: They were struggling for the weapon?
+[00:38:45.677 --> 00:38:49.197] CRUSHER: Commander Riker was in no position to offer any kind of struggle, Chancellor.
+[00:38:49.917 --> 00:38:51.917] MIRASTA: Krola was trying to be a martyr?
+[00:39:08.591 --> 00:39:09.231] KROLA: Where is this?
+[00:39:10.511 --> 00:39:13.551] DURKEN: You're aboard the starship, my foolish old friend.
+[00:39:14.831 --> 00:39:17.471] KROLA: No. Chancellor, you must not.
+[00:39:19.071 --> 00:39:20.991] KROLA: You must not pursue relations with them.
+[00:39:21.871 --> 00:39:22.351] KROLA: You must not.
+[00:39:23.791 --> 00:39:24.111] DURKEN: I know.
+[00:39:26.271 --> 00:39:26.751] DURKEN: I know.
+[00:39:32.271 --> 00:39:33.100] MIRASTA: But Chancellor
+[00:39:33.100 --> 00:39:36.831] DURKEN: Mirasta, it goes against every instinct in my being.
+[00:39:39.471 --> 00:39:41.631] DURKEN: My people are not ready to accept what you represent.
+[00:39:42.511 --> 00:39:44.671] DURKEN: Everything that happened in the hospital proves it.
+[00:39:45.711 --> 00:39:48.591] DURKEN: And Krola is the best evidence of all.
+[00:39:49.151 --> 00:39:50.191] DURKEN: We must slow down and
+[00:39:51.711 --> 00:39:56.271] DURKEN: allow all those like him to join us in the present before we can move into the future.
+[00:39:56.431 --> 00:39:59.151] MIRASTA: But when we encounter other beings in space, our people must be ready.
+[00:39:59.151 --> 00:40:01.791] DURKEN: The warp programme will have to be delayed.
+[00:40:02.671 --> 00:40:07.711] DURKEN: We will divert more resources to education and social development to prepare for the day when we are ready.
+[00:40:08.191 --> 00:40:09.791] MIRASTA: Chancellor, I strongly disagree.
+[00:40:11.071 --> 00:40:11.391] DURKEN: I know.
+[00:40:14.191 --> 00:40:14.591] DURKEN: Captain,
+[00:40:16.991 --> 00:40:20.351] DURKEN: you once said if I ask you to leave, you would without hesitation.
+[00:40:21.905 --> 00:40:23.425] DURKEN: I'm afraid I must ask you to do just that.
+[00:40:26.625 --> 00:40:26.865] PICARD: Well,
+[00:40:29.185 --> 00:40:30.305] PICARD: it's your decision, Chancellor.
+[00:40:32.065 --> 00:40:32.865] PICARD: But I must say, I
+[00:40:34.785 --> 00:40:37.985] PICARD: regret that I won't have the opportunity of knowing your people better.
+[00:40:39.585 --> 00:40:40.465] DURKEN: We're a good people, Captain.
+[00:40:40.945 --> 00:40:42.145] DURKEN: A society with much potential.
+[00:40:43.265 --> 00:40:49.825] DURKEN: Once we cross the threshold of space, we will have to give up this self-importance, this conceit that we are the centre of the universe.
+[00:40:50.625 --> 00:40:51.665] DURKEN: But this is not the time for that.
+[00:40:53.025 --> 00:40:56.705] DURKEN: For now, we will have to enjoy that sweet innocence.
+[00:40:57.745 --> 00:41:02.785] PICARD: How will you keep us a secret when so many have seen and heard so much?
+[00:41:04.465 --> 00:41:05.905] DURKEN: The stories will be told for many years,
+[00:41:05.905 --> 00:41:06.545] DURKEN: I have no doubt.
+[00:41:07.425 --> 00:41:11.665] DURKEN: Of the ship that made contact, of an alien who was held prisoner in the medical facility.
+[00:41:13.185 --> 00:41:15.105] DURKEN: There'll be charges of a government conspiracy.
+[00:41:15.585 --> 00:41:18.625] DURKEN: Some of the witnesses will tell their tales and most people will laugh at them, and
+[00:41:19.985 --> 00:41:24.305] DURKEN: go back and watch more interesting fiction of the daily broadcasts.
+[00:41:25.825 --> 00:41:27.825] DURKEN: It will pass.
+[00:41:29.345 --> 00:41:32.865] MIRASTA: I'm sorry to say he's probably right. Captain Picard,
+[00:41:33.985 --> 00:41:36.225] MIRASTA: I have one last request.
+[00:41:38.385 --> 00:41:39.025] MIRASTA: Take me with you.
+[00:41:43.265 --> 00:41:46.465] DURKEN: She will be unhappy with the restrictions I must place on her at home, Captain.
+[00:41:49.505 --> 00:41:50.625] PICARD: We may not be back here
+[00:41:51.822 --> 00:41:59.982] PICARD: in your lifetime. And I have to believe that you cannot be fully prepared for the realities of space travel.
+[00:42:00.622 --> 00:42:05.822] MIRASTA: I have been prepared for the realities of space since I was nine years old, and sitting in a planetarium.
+[00:42:08.862 --> 00:42:09.662] PICARD: Mister Worf to my Ready
+[00:42:11.262 --> 00:42:13.262] PICARD: room.
+[00:42:14.462 --> 00:42:17.902] PICARD: Escort Chancellor Durken to the transporter room, Lieutenant. And
+[00:42:19.582 --> 00:42:20.942] PICARD: assign quarters to Minister Yale.
+[00:42:21.182 --> 00:42:22.462] PICARD: She will be remaining on board.
+[00:42:24.622 --> 00:42:24.942] WORF: Aye, sir.
+[00:42:27.662 --> 00:42:28.462] PICARD: Until we return, then.
+[00:42:31.022 --> 00:42:35.182] DURKEN: With luck, we'll both be around to renew our friendship, Captain.

@@ -1,0 +1,626 @@
+[00:00:02.560 --> 00:00:05.520] LOG: Captain's log, stardate 45761.3.
+[00:00:06.080 --> 00:00:15.680] LOG: In an effort to bring an end to their centuries-long war, Krios and Valt Minor have agreed to a Ceremony of Reconciliation, to be held aboard the Enterprise at a point midway between their two systems.
+[00:00:16.720 --> 00:00:19.040] PICARD: I apologise for the delay in our arrival, Ambassador Briam.
+[00:00:19.120 --> 00:00:22.240] PICARD: We had to stop at Harod Four to pick up a group of stranded miners.
+[00:00:22.640 --> 00:00:23.200] BRIAM: Please, Captain,
+[00:00:23.280 --> 00:00:27.040] BRIAM: we are grateful that the Federation has taken as much interest as it has in this matter.
+[00:00:27.200 --> 00:00:31.360] PICARD: Was Commander La Forge able to provide you with the special cargo handling provisions you requested?
+[00:00:31.600 --> 00:00:32.480] BRIAM: Indeed he was.
+[00:00:32.640 --> 00:00:41.600] BRIAM: However, until we reach the rendezvous with the Valtese, may I ask that the cargo bay be declared off-limits to all but the most essential personnel?
+[00:00:42.640 --> 00:00:44.800] PICARD: I trust, Ambassador, that this cargo is in no way dangerous?
+[00:00:45.360 --> 00:00:46.240] BRIAM: Oh, no, nothing of the sort.
+[00:00:46.480 --> 00:00:50.640] BRIAM: I'm cautious because it's quite fragile, and quite irreplaceable.
+[00:00:51.200 --> 00:00:52.160] RIKER: Bridge to Captain Picard.
+[00:00:52.800 --> 00:00:53.200] PICARD: Go ahead.
+[00:00:53.920 --> 00:00:56.480] RIKER: Captain, we've just picked up a distress call from a Ferengi shuttle.
+[00:00:57.360 --> 00:00:58.480] PICARD: Set a course to intercept.
+[00:00:59.040 --> 00:00:59.280] RIKER: Aye, sir.
+[00:01:00.000 --> 00:01:03.360] BRIAM: Captain, the timing of our ceremony with Alrik is critical.
+[00:01:03.600 --> 00:01:04.720] BRIAM: It cannot be delayed.
+[00:01:05.040 --> 00:01:06.240] PICARD: We'll be at the rendezvous on schedule,
+[00:01:06.320 --> 00:01:06.800] PICARD: don't worry.
+[00:01:07.280 --> 00:01:07.760] PICARD: Excuse me.
+[00:01:12.240 --> 00:01:14.480] DATA: The Ferengi report their containment field is collapsing.
+[00:01:14.720 --> 00:01:16.213] WORF: Within visual range, Captain.
+[00:01:16.213 --> 00:01:16.960] PICARD: On screen.
+[00:01:22.560 --> 00:01:24.160] DATA: Their reactor core is unstable, Captain.
+[00:01:25.040 --> 00:01:25.680] PICARD: How many on board?
+[00:01:26.220 --> 00:01:26.620] DATA: Two, sir.
+[00:01:27.500 --> 00:01:28.700] RIKER: Bridge to transporter room three.
+[00:01:29.420 --> 00:01:30.060] RIKER: Boost your output and
+[00:01:30.060 --> 00:01:31.740] RIKER: lock on to the two Ferengi on board the shuttle.
+[00:01:32.060 --> 00:01:34.220] RIKER: We may need to attempt a long range transport.
+[00:01:34.300 --> 00:01:35.020] CREWWOMAN: Standing by.
+[00:01:38.300 --> 00:01:38.860] PICARD: Energise.
+[00:01:42.540 --> 00:01:43.260] OFFICER: Got them, sir.
+[00:01:49.580 --> 00:01:52.780] RIKER: Mister Worf, escort our Ferengi guests to quarters.
+[00:01:53.420 --> 00:01:54.380] RIKER: Not too close to mine.
+[00:01:55.900 --> 00:01:56.380] WORF: Understood.
+[00:01:56.780 --> 00:01:58.780] WORF: Unless
+[00:02:02.140 --> 00:02:08.860] WORF: you can arrange your own transport, you will have to remain on the Enterprise until we complete our mission.
+[00:02:08.940 --> 00:02:10.300] QOL: That will not be a problem.
+[00:02:10.300 --> 00:02:11.340] LENOR: We are in no hurry.
+[00:02:11.340 --> 00:02:14.780] QOL: We look forward to enjoying the comforts of your fine ship.
+[00:02:22.300 --> 00:02:23.900] QOL: Quite acceptable.
+[00:02:24.060 --> 00:02:27.900] QOL: Not what we're used to, you understand, but it will do.
+[00:02:28.220 --> 00:02:32.780] LENOR: Perhaps your captain would care to invite us to join him for dinner this evening?
+[00:02:34.220 --> 00:02:35.420] WORF: The captain dines alone.
+[00:02:37.180 --> 00:02:37.820] QOL: A pity.
+[00:02:41.420 --> 00:02:42.700] QOL: That was too easy.
+[00:03:15.558 --> 00:03:18.038] PICARD: Space, the final frontier.
+[00:03:19.958 --> 00:03:22.838] PICARD: These are the voyages of the starship Enterprise.
+[00:03:23.958 --> 00:03:31.958] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:33.558 --> 00:03:36.438] PICARD: to boldly go where no one has gone before.
+[00:03:38.000 --> 00:03:52.000] [music]
+[00:03:57.000 --> 00:04:18.000] [music]
+[00:04:26.000 --> 00:04:37.000] [music]
+[00:04:38.038 --> 00:04:39.878] LAFORGE: We've been working from your drawings, Ambassador.
+[00:04:39.878 --> 00:04:40.998] LAFORGE: I hope we're in the ballpark.
+[00:04:41.958 --> 00:04:42.598] BRIAM: Ball park?
+[00:04:43.558 --> 00:04:44.838] PICARD: That's an old human expression.
+[00:04:45.238 --> 00:04:45.398] PICARD: Mister
+[00:04:45.398 --> 00:04:47.638] PICARD: LaForge hopes that we've got close to achieving what you wanted.
+[00:04:52.678 --> 00:04:55.798] LAFORGE: Computer, run holodeck programme Krios One.
+[00:04:56.918 --> 00:04:57.798] COMPUTER: Enter when ready.
+[00:05:04.118 --> 00:05:04.918] BRIAM: Astonishing.
+[00:05:04.918 --> 00:05:04.918] BRIAM: It
+[00:05:07.318 --> 00:05:09.158] BRIAM: is the ancient Temple of Akadar.
+[00:05:12.838 --> 00:05:16.598] BRIAM: It is this temple that bonds Krios and Valt, gentlemen.
+[00:05:18.438 --> 00:05:25.318] BRIAM: Two brothers ruled a vast empire from this site until they were torn apart by their love for an extraordinary woman.
+[00:05:26.598 --> 00:05:28.038] BRIAM: This is where the wars began. And
+[00:05:30.598 --> 00:05:32.198] BRIAM: this is where they shall end.
+[00:05:55.859 --> 00:05:58.099] BRIAM: There are some details to be added, of course.
+[00:05:58.179 --> 00:06:00.499] PICARD: Commander La Forge will be entirely at your disposal, Ambassador.
+[00:06:00.819 --> 00:06:01.779] LAFORGE: Just let me know what you need.
+[00:06:01.779 --> 00:06:02.659] BRIAM: Yes, of course.
+[00:06:02.979 --> 00:06:05.779] BRIAM: I must consult several of the historical volumes I brought with me,
+[00:06:05.779 --> 00:06:07.059] BRIAM: so perhaps we can reconvene later.
+[00:06:07.539 --> 00:06:08.419] LENOR: Excuse me!
+[00:06:08.979 --> 00:06:10.499] LENOR: Excuse me!
+[00:06:10.579 --> 00:06:11.219] LENOR: Is it true?
+[00:06:11.539 --> 00:06:14.019] LENOR: Is a Kriosian ambassador aboard this vessel?
+[00:06:14.259 --> 00:06:14.739] BRIAM: Yes.
+[00:06:14.979 --> 00:06:15.539] BRIAM: Can I help you?
+[00:06:15.539 --> 00:06:16.739] PICARD: The Ambassador's very busy.
+[00:06:16.979 --> 00:06:19.859] LENOR: Ah, do you schedule his appointments?
+[00:06:20.499 --> 00:06:21.299] PICARD: I'm the Captain of the ship.
+[00:06:21.539 --> 00:06:22.179] PICARD: What is it you want?
+[00:06:22.579 --> 00:06:27.139] LENOR: Allow me to present myself. Par Lenor of the Ferengi Trade Mission.
+[00:06:27.939 --> 00:06:33.219] LENOR: We are pleased to hear, Ambassador, that you have at last negotiated peace with the Valtese, Ambassador.
+[00:06:33.459 --> 00:06:37.299] LENOR: Peace is good for trade, unless you happen to be an arms merchant.
+[00:06:37.539 --> 00:06:38.606] PICARD: Excuse us.
+[00:06:38.606 --> 00:06:39.139] LENOR: Arms
+[00:06:41.219 --> 00:06:41.219] LENOR: merchant!
+[00:07:04.499 --> 00:07:09.506] LENOR: in return for the exclusive rights to transport all Kriosian products to the Valt system.
+[00:07:09.506 --> 00:07:14.179] PICARD: May I suggest that you arrange to meet at another time, after the ceremony?
+[00:07:14.179 --> 00:07:15.459] BRIAM: Perhaps that would be best.
+[00:07:15.619 --> 00:07:16.099] LENOR: But,
+[00:07:16.419 --> 00:07:16.652] LENOR: but
+[00:07:16.652 --> 00:07:19.219] LAFORGE: Listen, have you had a chance to see the dolphins yet?
+[00:07:19.219 --> 00:07:19.859] PICARD: Deck seven.
+[00:07:20.099 --> 00:07:20.659] PICARD: Picard to
+[00:07:21.017 --> 00:07:21.337] PICARD: Worf.
+[00:07:23.177 --> 00:07:24.537] WORF: Worf here, Captain.
+[00:07:24.697 --> 00:07:27.497] PICARD: Lieutenant, one of the Ferengi just waylaid Ambassador Briam.
+[00:07:27.497 --> 00:07:28.937] PICARD: I need you to keep them on a tight leash.
+[00:07:29.497 --> 00:07:29.817] PICARD: I don't want them
+[00:07:29.817 --> 00:07:31.097] PICARD: disrupting this conference.
+[00:07:31.577 --> 00:07:31.897] WORF: Aye, sir.
+[00:07:34.777 --> 00:07:35.897] WORF: Security to cargo bay one.
+[00:07:36.857 --> 00:07:37.257] RIKER: Lieutenant?
+[00:07:38.537 --> 00:07:39.337] WORF: One of the Ferengi.
+[00:07:41.977 --> 00:07:43.017] RIKER: Riker to Captain Picard.
+[00:07:45.017 --> 00:07:47.017] WORF: What
+[00:07:55.657 --> 00:07:57.737] WORF: are you
+[00:07:59.417 --> 00:08:01.417] WORF: doing?
+[00:08:25.097 --> 00:08:26.137] QOL: This is a misunderstanding.
+[00:08:26.217 --> 00:08:27.657] QOL: I was looking for a barbershop.
+[00:08:27.817 --> 00:08:29.337] QOL: Apparently I made an incorrect turn
+[00:08:29.337 --> 00:08:29.550] QOL: and
+[00:08:29.550 --> 00:08:29.977] PICARD: Mister Worf?
+[00:08:33.737 --> 00:08:35.737] RIKER: Get
+[00:08:37.257 --> 00:08:40.137] RIKER: him out of here.
+[00:08:40.137 --> 00:08:41.337] RIKER: Confine them both to their quarters.
+[00:08:41.337 --> 00:08:42.297] RIKER: Put a guard on their door.
+[00:08:44.937 --> 00:08:45.497] PICARD: What is happening?
+[00:08:45.497 --> 00:08:45.497] BRIAM: Emergence.
+[00:09:10.721 --> 00:09:12.721] KAMALA: I
+[00:09:16.081 --> 00:09:18.241] KAMALA: am for you, Alrik of Valt.
+[00:09:26.481 --> 00:09:27.201] BRIAM: No, Kamala.
+[00:09:28.321 --> 00:09:28.961] BRIAM: This is not Alrik.
+[00:09:29.761 --> 00:09:33.521] BRIAM: This is Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:09:34.641 --> 00:09:36.721] KAMALA: That explains why you don't look at all like your holographs.
+[00:09:37.841 --> 00:09:38.961] KAMALA: I apologise, Captain.
+[00:09:39.921 --> 00:09:41.921] KAMALA: As an empath, I could sense your authority.
+[00:09:42.321 --> 00:09:43.841] KAMALA: I assumed you were Chancellor Alrik.
+[00:09:44.561 --> 00:09:46.561] PICARD: I'm afraid I require an explanation, Ambassador.
+[00:09:46.641 --> 00:09:47.601] KAMALA: As do I, Ambassador.
+[00:09:48.081 --> 00:09:50.161] KAMALA: Why have I been brought out of stasis prematurely?
+[00:09:50.161 --> 00:09:50.881] BRIAM: It was an accident.
+[00:09:51.201 --> 00:09:52.401] BRIAM: This is quite complicated.
+[00:09:52.881 --> 00:09:53.761] BRIAM: Perhaps you and I
+[00:09:53.921 --> 00:09:55.521] KAMALA: It is not complicated at all, Briam,
+[00:09:56.241 --> 00:09:58.641] KAMALA: and the Captain has no tolerance for prevarication.
+[00:10:00.641 --> 00:10:03.121] KAMALA: I'm a gift, to Alrik of Valt.
+[00:10:05.121 --> 00:10:08.401] RIKER: You mean you're using this ship to transport a sentient being as property?
+[00:10:09.041 --> 00:10:11.521] BRIAM: Not as property, as a gift,
+[00:10:12.161 --> 00:10:14.801] BRIAM: and I was concerned that you might not entirely understand.
+[00:10:15.681 --> 00:10:17.761] PICARD: Your concern was justified, Ambassador.
+[00:10:19.121 --> 00:10:19.761] KAMALA: You're angry.
+[00:10:20.161 --> 00:10:20.481] KAMALA: Why?
+[00:10:21.441 --> 00:10:22.161] PICARD: There is a provision
+[00:10:22.257 --> 00:10:26.497] PICARD: in the Federation Constitution that protects an individual's fundamental rights.
+[00:10:26.897 --> 00:10:28.571] PICARD: Now once you were brought aboard this ship
+[00:10:28.571 --> 00:10:29.617] KAMALA: You're coming to my rescue.
+[00:10:30.337 --> 00:10:31.937] KAMALA: What a kind and generous purpose.
+[00:10:31.937 --> 00:10:34.657] KAMALA: But Captain, I do not need to be rescued.
+[00:10:35.857 --> 00:10:38.897] BRIAM: Kamala is the key to peace between our two worlds.
+[00:10:39.457 --> 00:10:39.777] RIKER: Why?
+[00:10:40.497 --> 00:10:47.137] KAMALA: In our history there's a woman known as Garuth, who was loved by the brothers Krios and Valt with such passion that an empire fell.
+[00:10:47.297 --> 00:10:50.657] BRIAM: And the wars began when Krios kidnapped Garuth and took her to our planet.
+[00:10:51.137 --> 00:10:56.657] KAMALA: Like her, I'm an empathic metamorph. The first female metamorph born in my world for over a hundred years.
+[00:10:56.657 --> 00:10:57.777] PICARD: A metamorph?
+[00:10:58.817 --> 00:11:02.257] KAMALA: A mutant. A biological curiosity, if you will.
+[00:11:04.097 --> 00:11:12.977] KAMALA: With the ability to sense what a potential mate wants, what he needs, what gives him the greatest pleasure and then to become that for him.
+[00:11:13.617 --> 00:11:15.537] RIKER: You mean you change according to whatever man you're with?
+[00:11:16.177 --> 00:11:23.777] KAMALA: Until I reach the stage of bonding, when I must imprint upon myself the requirements of one man, to serve as his perfect partner in life.
+[00:11:25.697 --> 00:11:31.617] BRIAM: You see, male metamorphs are somewhat common, but females are born only once in seven generations.
+[00:11:32.177 --> 00:11:34.657] BRIAM: So obviously they are greatly sought after as mates.
+[00:11:35.217 --> 00:11:36.817] RIKER: Which explains the Ferengi's interest.
+[00:11:37.377 --> 00:11:44.417] BRIAM: This mating to Alrik was arranged sine her birth by the leaders of both worlds, in the hopes of restoring peace.
+[00:11:44.657 --> 00:11:48.097] PICARD: You do this of your own accord?
+[00:11:48.097 --> 00:11:51.937] KAMALA: It is my sole purpose in life.
+[00:11:51.937 --> 00:11:53.217] PICARD: Commander Riker, escort her to quarters.
+[00:11:53.217 --> 00:11:55.857] PICARD: There's no need for you to travel in the cargo bay.
+[00:12:00.081 --> 00:12:02.401] BRIAM: Kamala, remain in your room.
+[00:12:02.481 --> 00:12:03.441] BRIAM: I will speak to you shortly.
+[00:12:11.201 --> 00:12:12.081] RIKER: Why were you in stasis?
+[00:12:13.041 --> 00:12:15.921] KAMALA: Metamorphs have a long and complex sexual maturing process.
+[00:12:16.561 --> 00:12:19.201] KAMALA: I am in the Finiis'ral, the third and final stage.
+[00:12:19.921 --> 00:12:24.321] KAMALA: It can be an uncomfortable transition Not only for me, but for the men around me.
+[00:12:25.201 --> 00:12:25.681] RIKER: In what way?
+[00:12:26.321 --> 00:12:30.241] KAMALA: My body is producing an unusually elevated level of what you would call pheromones.
+[00:12:31.201 --> 00:12:34.321] KAMALA: The effect can be quite provocative. Perhaps you sense it?
+[00:12:35.681 --> 00:12:38.641] RIKER: Ah, unfortunately, I'm not an empath.
+[00:12:39.441 --> 00:12:41.201] KAMALA: Oh, I think you are more empathic than you admit.
+[00:12:42.641 --> 00:12:43.761] KAMALA: At least when it comes to women.
+[00:12:43.761 --> 00:12:43.761] RIKER: I
+[00:12:46.001 --> 00:12:47.361] RIKER: think you have me at a disadvantage.
+[00:12:57.201 --> 00:13:01.041] RIKER: This is the comm. panel, the replicator.
+[00:13:01.761 --> 00:13:03.121] RIKER: You can lower the lights on a verbal command.
+[00:13:03.121 --> 00:13:05.041] RIKER: If you have any questions you can just ask the computer,
+[00:13:15.121 --> 00:13:20.161] RIKER: I'm beginning to sense the elevated pheromones you were referring to.
+[00:13:20.161 --> 00:13:22.241] KAMALA: You were curious, weren't you?
+[00:13:23.281 --> 00:13:26.641] RIKER: Curious isn't exactly how I'd describe it.
+[00:13:27.841 --> 00:13:29.921] KAMALA: Do you know what's remarkable about empathic metamorphs?
+[00:13:32.044 --> 00:13:34.044] RIKER: You mean there's something even more remarkable about you?
+[00:13:35.564 --> 00:13:37.484] KAMALA: We learn so quickly what stimulates a man, that
+[00:13:38.764 --> 00:13:40.604] KAMALA: the second time's even better than the first.
+[00:13:57.404 --> 00:13:57.644] RIKER: Listen.
+[00:14:03.004 --> 00:14:07.644] RIKER: This has been educational but I make it a policy never to open another man's gift.
+[00:14:08.284 --> 00:14:09.724] KAMALA: I know my role in history, Commander.
+[00:14:09.874 --> 00:14:10.474] KAMALA: But
+[00:14:11.324 --> 00:14:12.764] KAMALA: it's going to be a long voyage.
+[00:14:12.764 --> 00:14:12.764] RIKER: It
+[00:14:14.604 --> 00:14:15.244] RIKER: certainly is.
+[00:14:17.324 --> 00:14:18.764] RIKER: We'll try to make you as comfortable as possible.
+[00:14:27.564 --> 00:14:30.044] RIKER: Riker to bridge.
+[00:14:30.764 --> 00:14:31.164] RIKER: If you need me,
+[00:14:31.164 --> 00:14:32.204] RIKER: I'll be in holodeck four.
+[00:14:39.804 --> 00:14:44.124] CRUSHER: How can you simply deliver her like a courier into a life of virtual prostitution.
+[00:14:44.284 --> 00:14:44.844] PICARD: Beverly!
+[00:14:45.084 --> 00:14:48.924] PICARD: Arranged marriages have been the basis of political alliances in many cultures, including our own.
+[00:14:49.084 --> 00:14:50.044] CRUSHER: I'm surprised at you.
+[00:14:50.524 --> 00:14:51.884] PICARD: She knows exactly what she's doing.
+[00:14:51.964 --> 00:14:56.844] CRUSHER: She has been conditioned since the day she was born to believe it's perfectly acceptable to exist only to please men.
+[00:14:56.844 --> 00:14:58.364] PICARD: She was born to do this.
+[00:14:58.444 --> 00:15:02.204] CRUSHER: And bred by those people to seal a treaty with a seductive coup de grace.
+[00:15:02.524 --> 00:15:02.844] PICARD: All right,
+[00:15:02.844 --> 00:15:03.164] PICARD: fine,
+[00:15:03.292 --> 00:15:03.532] PICARD: good,
+[00:15:03.692 --> 00:15:05.532] PICARD: let's throw the Prime Directive to the winds.
+[00:15:06.012 --> 00:15:07.372] PICARD: Let's detain her against her will.
+[00:15:07.372 --> 00:15:10.492] PICARD: Let's destroy any chance of peace between these worlds.
+[00:15:11.292 --> 00:15:14.092] PICARD: Let's interfere in their society, their customs.
+[00:15:14.172 --> 00:15:18.652] CRUSHER: That slave trader who calls himself an ambassador, he has confined her to her quarters.
+[00:15:18.652 --> 00:15:20.252] CRUSHER: She is a virtual prisoner in there.
+[00:15:22.812 --> 00:15:23.292] PICARD: I didn't know that.
+[00:15:24.972 --> 00:15:25.852] CRUSHER: Well, it is your ship.
+[00:15:25.932 --> 00:15:27.852] CRUSHER: Maybe there are a few things you should find out about.
+[00:15:30.172 --> 00:15:30.972] PICARD: I'll talk to her about it.
+[00:15:32.012 --> 00:15:32.412] CRUSHER: Good.
+[00:15:34.732 --> 00:15:35.532] CRUSHER: Lovely breakfast.
+[00:15:36.732 --> 00:15:37.052] PICARD: Indeed.
+[00:15:41.772 --> 00:15:42.092] KAMALA: Come in.
+[00:15:45.212 --> 00:15:46.012] KAMALA: Captain Picard,
+[00:15:46.012 --> 00:15:47.292] KAMALA: what a delightful surprise.
+[00:15:48.012 --> 00:15:48.252] KAMALA: Come in.
+[00:15:48.972 --> 00:15:49.372] PICARD: Thank you.
+[00:15:53.612 --> 00:15:54.172] PICARD: Are you comfortable?
+[00:15:55.212 --> 00:15:57.132] KAMALA: Reasonably, under the circumstances.
+[00:15:57.452 --> 00:16:01.612] PICARD: It has been brought to my attention that you have been told to remain in here.
+[00:16:03.052 --> 00:16:04.012] KAMALA: That's true, I'm afraid.
+[00:16:04.252 --> 00:16:05.052] PICARD: Against your wishes.
+[00:16:05.772 --> 00:16:10.012] KAMALA: At the request of the Ambassador, who believes I might be disruptive to your crew.
+[00:16:11.132 --> 00:16:13.292] PICARD: The performance of my crew is none of the Ambassador's business.
+[00:16:15.212 --> 00:16:16.652] KAMALA: You care about my well being.
+[00:16:17.852 --> 00:16:18.652] KAMALA: Thank you, Captain.
+[00:16:23.852 --> 00:16:24.572] PICARD: I care about,
+[00:16:26.892 --> 00:16:29.372] PICARD: I care about what happens on board my ship.
+[00:16:30.092 --> 00:16:30.732] KAMALA: Yes, I know.
+[00:16:31.772 --> 00:16:33.292] KAMALA: This ship's very important to you, isn't it?
+[00:16:33.852 --> 00:16:34.252] PICARD: Oh, yes.
+[00:16:35.692 --> 00:16:36.412] PICARD: Oh, yes, it is.
+[00:16:37.559 --> 00:16:41.719] KAMALA: Are all captains' lives so solitary? Or just yours?
+[00:16:45.399 --> 00:16:45.639] PICARD: Don't.
+[00:16:47.879 --> 00:16:48.119] KAMALA: What?
+[00:16:48.839 --> 00:16:51.719] PICARD: Don't do this, this, this you do with men.
+[00:16:53.639 --> 00:17:00.439] KAMALA: I'm afraid my premature emergence from stasis has left me a little vulnerable to the desires I sense from men.
+[00:17:01.559 --> 00:17:04.519] KAMALA: Nevertheless, this is who I am, Captain.
+[00:17:05.959 --> 00:17:10.679] KAMALA: You might as well ask a Vulcan to forgo logic, or a Klingon to be nonviolent.
+[00:17:12.359 --> 00:17:18.279] KAMALA: I cannot change, and I don't want to until the time has come for me to bond with my permanent mate.
+[00:17:20.999 --> 00:17:21.879] KAMALA: Why does it bother you?
+[00:17:22.999 --> 00:17:30.759] PICARD: Frankly, it's difficult for me, for many of us, to easily accept that a sentient being can live only to be what someone else wants them to be.
+[00:17:32.519 --> 00:17:34.119] KAMALA: But that's what gives a metamorph pleasure.
+[00:17:35.239 --> 00:17:37.959] PICARD: But what about your wishes, your needs?
+[00:17:39.559 --> 00:17:41.479] KAMALA: They are fulfilled by what I give to others.
+[00:17:42.119 --> 00:17:46.919] PICARD: And what about when there are no others, when you are alone?
+[00:17:48.999 --> 00:17:50.279] KAMALA: I'm incomplete.
+[00:17:52.439 --> 00:17:54.039] KAMALA: What curious questions, Captain.
+[00:17:56.759 --> 00:18:03.079] PICARD: Under the circumstances, I thought that it would help if I learned more about you.
+[00:18:04.759 --> 00:18:06.439] KAMALA: But you know me better than you realise.
+[00:18:08.199 --> 00:18:10.919] KAMALA: I am independent, forceful,
+[00:18:12.157 --> 00:18:12.557] KAMALA: brilliant, and
+[00:18:13.837 --> 00:18:14.637] KAMALA: adventurous.
+[00:18:15.837 --> 00:18:17.517] KAMALA: Exactly as you would have me be, Captain.
+[00:18:20.717 --> 00:18:24.477] PICARD: I will speak to the Ambassador about easing your restrictions.
+[00:18:26.237 --> 00:18:26.957] KAMALA: Thank you, Captain.
+[00:18:44.717 --> 00:18:47.677] LOG: Captain's log, stardate 45766.1.
+[00:18:48.157 --> 00:18:52.557] LOG: We have reached the designated coordinates for the conference and await the arrival of Chancellor Alrik.
+[00:19:00.077 --> 00:19:01.117] BRIAM: I forbid it.
+[00:19:01.197 --> 00:19:01.597] PICARD: Forbid it?
+[00:19:01.597 --> 00:19:03.197] BRIAM: It's too dangerous, Captain.
+[00:19:03.197 --> 00:19:04.877] BRIAM: She must remain in her quarters.
+[00:19:04.957 --> 00:19:07.837] PICARD: You cannot confine her against her will. Not on board this ship, Ambassador.
+[00:19:08.157 --> 00:19:11.117] PICARD: She is requesting some freedom of movement and I intend to give it to her.
+[00:19:11.197 --> 00:19:12.797] BRIAM: She is still in the Finiis'ral,
+[00:19:13.517 --> 00:19:15.677] BRIAM: the height of her sexual allure, Captain.
+[00:19:16.237 --> 00:19:17.837] BRIAM: Every man on the ship will be fighting over her.
+[00:19:20.477 --> 00:19:21.037] PICARD: Not every man.
+[00:19:23.597 --> 00:19:24.397] KAMALA: A chaperone?
+[00:19:25.437 --> 00:19:27.117] DATA: I would be pleased to escort you around the ship.
+[00:19:27.997 --> 00:19:30.317] KAMALA: But I was hoping we might spend more time together, Captain.
+[00:19:31.117 --> 00:19:33.117] PICARD: I shall busy making arrangements for the conference.
+[00:19:34.237 --> 00:19:35.597] KAMALA: I'm very knowledgeable about Valt.
+[00:19:35.597 --> 00:19:36.397] KAMALA: I could be helpful.
+[00:19:37.197 --> 00:19:39.357] PICARD: I think that you should enjoy the hospitality of the ship.
+[00:19:40.077 --> 00:19:41.677] PICARD: Mister Data here will see to your every comfort.
+[00:19:41.677 --> 00:19:42.557] PICARD: If you will excuse me.
+[00:19:44.517 --> 00:19:48.837] DATA: Your empathic powers do not perceive anything because as an android, I have no emotions.
+[00:19:49.877 --> 00:19:52.437] KAMALA: I can understand why Captain Picard chose you to be my chaperone.
+[00:20:12.757 --> 00:20:12.757] RIKER: I'll
+[00:20:16.277 --> 00:20:16.997] RIKER: check in with you later.
+[00:20:20.757 --> 00:20:26.597] MINER 1: Excuse me, but I'm absolutely certain that we met once at Paloris Colony.
+[00:20:26.997 --> 00:20:28.597] KAMALA: I've never been to Paloris Colony.
+[00:20:28.917 --> 00:20:31.477] MINER 1: Neither have I.
+[00:20:31.477 --> 00:20:33.157] MINER 1: Why don't we find out what else we have in common.
+[00:20:34.997 --> 00:20:36.517] DATA: Extremely rude behaviour.
+[00:20:39.157 --> 00:20:42.117] KAMALA: He's just being playful.
+[00:20:42.117 --> 00:20:45.077] DATA: Perhaps you would care for something to drink?
+[00:20:45.717 --> 00:20:46.757] KAMALA: What are you all having, boys?
+[00:20:46.997 --> 00:20:49.077] MINER 2: Aldorian Ale's our drink.
+[00:20:49.157 --> 00:20:49.397] KAMALA: Then, it's mine too.
+[00:20:50.917 --> 00:20:51.477] DATA: Bartender!
+[00:20:51.797 --> 00:20:52.757] DATA: There do not seem to be enough waiters on duty.
+[00:20:52.757 --> 00:20:53.717] MINER 3: I believe they're having a minor problem with the replicator.
+[00:20:54.037 --> 00:20:55.397] MINER 2: They could use a hand, Commander.
+[00:20:55.957 --> 00:20:56.437] DATA: Excuse me.
+[00:20:57.077 --> 00:21:00.437] DATA: I believe I will stay.
+[00:21:01.637 --> 00:21:03.317] KAMALA: Mister Data's protecting me tonight.
+[00:21:03.317 --> 00:21:04.997] MINER 2: Protecting you? From what?
+[00:21:05.317 --> 00:21:06.197] KAMALA: From you, I guess.
+[00:21:06.357 --> 00:21:06.517] KAMALA: I
+[00:21:08.437 --> 00:21:09.797] KAMALA: told the Captain not to worry,
+[00:21:10.215 --> 00:21:12.375] KAMALA: I just want to have a good time like anybody else.
+[00:21:12.375 --> 00:21:14.695] MINER 1: Come on down to deck seven,
+[00:21:14.695 --> 00:21:16.055] MINER 1: we'll show you a good time
+[00:21:16.215 --> 00:21:18.615] MINER 2: Get rid of the android. We'll have some fun.
+[00:21:19.575 --> 00:21:20.615] WORF: Is there a problem here?
+[00:21:22.055 --> 00:21:22.375] MINER 1: No, sir.
+[00:21:22.775 --> 00:21:24.535] MINER 2: No problem.
+[00:21:24.535 --> 00:21:24.535] MINER 3: Tell him, lady.
+[00:21:25.095 --> 00:21:25.735] DATA: Thank you, Lieutenant.
+[00:21:26.135 --> 00:21:28.135] DATA: The crowd seemed a bit too ebullient for comfort.
+[00:21:29.175 --> 00:21:31.575] DATA: Perhaps you would enjoy a quiet visit to the arboretum.
+[00:21:53.815 --> 00:21:55.175] KAMALA: Perhaps the ambassador is right.
+[00:21:56.055 --> 00:21:57.735] KAMALA: Perhaps I should remain in my quarters.
+[00:21:58.615 --> 00:22:03.575] PICARD: I have confidence in the self-control of my crew, Kamala, but there are guests and civilians on board.
+[00:22:04.375 --> 00:22:05.015] KAMALA: I understand.
+[00:22:06.615 --> 00:22:09.175] KAMALA: I will volunteer to stay in my quarters under one condition.
+[00:22:10.935 --> 00:22:11.815] KAMALA: That you will visit me.
+[00:22:15.175 --> 00:22:15.895] KAMALA: There it is again.
+[00:22:17.255 --> 00:22:17.495] PICARD: What?
+[00:22:18.455 --> 00:22:19.655] KAMALA: The wall you put between us.
+[00:22:22.615 --> 00:22:25.255] PICARD: Kamala, you are one day away from an arranged mating.
+[00:22:25.975 --> 00:22:27.815] PICARD: Why would you want me to visit you in your quarters?
+[00:22:32.455 --> 00:22:35.095] KAMALA: I said a visit.
+[00:22:36.295 --> 00:22:37.575] KAMALA: I didn't ask you to make love to me.
+[00:22:50.409 --> 00:22:51.449] KAMALA: Ventanan thimble.
+[00:22:52.969 --> 00:22:54.489] KAMALA: Early Lapeongical period, isn't it?
+[00:22:55.689 --> 00:22:56.169] PICARD: Yes, it is.
+[00:22:56.969 --> 00:23:00.089] KAMALA: Have you seen the Ventanan woven art recovered from the fourth colony dig?
+[00:23:01.369 --> 00:23:03.529] PICARD: Woven art? Recovered intact?
+[00:23:04.569 --> 00:23:06.889] KAMALA: They say the colours are remarkably vibrant for their age.
+[00:23:07.609 --> 00:23:11.849] PICARD: I've read about them for years, but they were so delicate no one expected to find any preserved.
+[00:23:11.849 --> 00:23:12.729] PICARD: How do you know about them?
+[00:23:21.369 --> 00:23:23.689] KAMALA: I stay informed on a wide variety of subjects.
+[00:23:25.129 --> 00:23:28.969] KAMALA: After all, one never knows when the conversation might turn to Ventanan archeology
+[00:23:30.729 --> 00:23:35.289] KAMALA: or to the dark woman of raven brows and mournful eyes in Shakespeare's sonnets.
+[00:23:36.809 --> 00:23:39.849] KAMALA: Or to the gardens of Les Eyries near the village where you grew up.
+[00:23:41.369 --> 00:23:43.609] PICARD: Your empathic powers told you all this about me?
+[00:23:44.569 --> 00:23:45.609] KAMALA: Not quite that much.
+[00:23:46.489 --> 00:23:47.449] KAMALA: Mister Data helped a little.
+[00:23:48.409 --> 00:23:48.889] PICARD: I see.
+[00:23:50.009 --> 00:23:54.329] KAMALA: My empathic powers can only sense a man of deep passion, and conviction.
+[00:23:56.089 --> 00:23:58.329] KAMALA: So controlled. So disciplined.
+[00:23:59.769 --> 00:24:01.849] KAMALA: I am simply curious to know what lies beneath.
+[00:24:02.649 --> 00:24:03.049] PICARD: Nothing.
+[00:24:04.089 --> 00:24:05.049] PICARD: Nothing lies beneath.
+[00:24:12.329 --> 00:24:13.689] PICARD: I'm really quite dull.
+[00:24:15.369 --> 00:24:17.769] PICARD: I fall asleep each night with an old book in my hands.
+[00:24:27.209 --> 00:24:30.249] KAMALA: When a metamorph finds you interesting, do not take it lightly.
+[00:24:30.809 --> 00:24:32.089] PICARD: Oh, I'm not taking it lightly.
+[00:24:33.049 --> 00:24:34.009] PICARD: I'm just trying
+[00:24:35.609 --> 00:24:36.729] PICARD: to be as dull as possible.
+[00:24:38.969 --> 00:24:39.689] KAMALA: Will you visit me?
+[00:24:42.889 --> 00:24:43.049] PICARD: It
+[00:24:47.609 --> 00:24:48.409] PICARD: would be inappropriate.
+[00:24:49.689 --> 00:24:50.649] KAMALA: Is that a yes or a no?
+[00:24:51.049 --> 00:24:53.289] PICARD: I'm sorry.
+[00:25:02.489 --> 00:25:04.169] KAMALA: Even the walls of Jericho fell, Captain.
+[00:25:05.849 --> 00:25:06.969] PICARD: Why are you doing this, Kamala?
+[00:25:06.969 --> 00:25:08.969] KAMALA: There can be only one reason.
+[00:25:10.329 --> 00:25:11.529] KAMALA: Because some part of you wants me
+[00:25:14.969 --> 00:25:14.969] KAMALA: to.
+[00:25:26.649 --> 00:25:27.609] LENOR: Ambassador.
+[00:25:29.449 --> 00:25:30.569] BRIAM: What is the meaning of this?
+[00:25:30.649 --> 00:25:33.049] LENOR: Ah, I see you got our message.
+[00:25:33.049 --> 00:25:34.729] BRIAM: Is this some sort of bribe?
+[00:25:34.729 --> 00:25:36.329] BRIAM: I am not amused.
+[00:25:36.649 --> 00:25:37.449] QOL: No, Ambassador.
+[00:25:37.849 --> 00:25:39.849] QOL: Your attitude is quite understandable.
+[00:25:39.849 --> 00:25:41.609] LENOR: This is just a sample.
+[00:25:41.689 --> 00:25:43.929] QOL: The bribe is ten thousand more.
+[00:25:44.609 --> 00:25:47.969] LENOR: Ludugial gold. The purest in the galaxy.
+[00:25:48.289 --> 00:25:54.369] QOL: We know the lifestyle of a Kriosian Ambassador is far from comfortable.
+[00:25:55.009 --> 00:25:57.752] LENOR: You deserve to live a life of luxury.
+[00:25:57.752 --> 00:25:59.123] BRIAM: How dare you suggest
+[00:25:59.123 --> 00:25:59.809] QOL: Our money!
+[00:25:59.889 --> 00:26:00.049] QOL: What?
+[00:26:01.969 --> 00:26:03.729] QOL: You drive a hard bargain.
+[00:26:04.209 --> 00:26:06.689] LENOR: Twenty thousand, but not an ingot more.
+[00:26:07.889 --> 00:26:09.409] QOL: We must have the metamorph.
+[00:26:09.809 --> 00:26:12.449] LENOR: She is the answer to a Ferengi prayer.
+[00:26:12.529 --> 00:26:15.409] QOL: We have a ship waiting to rendezvous with us in three hours.
+[00:26:15.729 --> 00:26:17.409] QOL: We can all transport off together.
+[00:26:17.969 --> 00:26:20.049] BRIAM: Thank you for sharing that information.
+[00:26:20.929 --> 00:26:22.529] BRIAM: I shall pass on along to Captain Picard.
+[00:26:23.009 --> 00:26:24.089] LENOR: You can't do that.
+[00:26:24.089 --> 00:26:25.169] BRIAM: Let go of me.
+[00:26:41.729 --> 00:26:42.849] LOG: Captain's log, supplemental.
+[00:26:43.409 --> 00:26:46.849] LOG: The Ferengi have been dispatched via shuttle to Starbase one one seven.
+[00:26:47.569 --> 00:26:51.889] LOG: What charges will be brought against them depends on whether or not Ambassador Briam recovers.
+[00:26:57.089 --> 00:26:58.609] CRUSHER: We've been able to stabilise his condition.
+[00:26:59.169 --> 00:27:01.409] CRUSHER: If we're lucky he'll regain consciousness in a few days.
+[00:27:02.529 --> 00:27:04.609] CRUSHER: Set up level one cranio-sacral display.
+[00:27:04.929 --> 00:27:05.249] MEDIC: Yes, Doctor.
+[00:27:05.809 --> 00:27:09.489] PICARD: I'll advise the Valtese delegation that the conference will have to be postponed.
+[00:27:10.609 --> 00:27:11.489] KAMALA: That won't be possible.
+[00:27:12.849 --> 00:27:14.369] KAMALA: My ability to imprint on a mate
+[00:27:14.423 --> 00:27:17.623] KAMALA: will only last a matter of hours after the completion of the Finiis'ral.
+[00:27:18.423 --> 00:27:21.943] KAMALA: If I hadn't been removed from stasis prematurely, a delay might have been possible.
+[00:27:22.983 --> 00:27:25.623] KAMALA: But now, I will have to bond with Alrik within two days.
+[00:27:25.943 --> 00:27:29.143] PICARD: But there are points in the negotiations that Briam still has to address.
+[00:27:30.023 --> 00:27:31.623] KAMALA: You are familiar with the issues.
+[00:27:32.503 --> 00:27:33.943] PICARD: Familiar, yes, but
+[00:27:35.703 --> 00:27:37.863] PICARD: I can't represent your peoples' interests.
+[00:27:38.583 --> 00:27:40.343] KAMALA: You can represent the interests of peace.
+[00:27:40.983 --> 00:27:41.783] KAMALA: My people will agree,
+[00:27:41.783 --> 00:27:42.583] KAMALA: I'm certain of it.
+[00:27:43.703 --> 00:27:46.663] PICARD: But there are customs and rituals of which I have no experience at all.
+[00:27:48.423 --> 00:27:50.503] KAMALA: I told you, I'm extremely knowledgeable about Valt.
+[00:27:51.383 --> 00:27:52.263] KAMALA: I will help you prepare.
+[00:28:04.103 --> 00:28:04.343] KAMALA: Torze
+[00:28:05.383 --> 00:28:05.783] KAMALA: qua.
+[00:28:10.183 --> 00:28:11.783] KAMALA: That's
+[00:28:13.303 --> 00:28:15.303] KAMALA: right.
+[00:28:15.943 --> 00:28:19.703] PICARD: I'm reminded of piano lessons when I was a child.
+[00:28:21.543 --> 00:28:24.103] PICARD: Preparing for some dreaded recital.
+[00:28:24.903 --> 00:28:26.263] KAMALA: You still play?
+[00:28:26.823 --> 00:28:27.223] PICARD: No.
+[00:28:27.223 --> 00:28:27.223] PICARD: I
+[00:28:28.983 --> 00:28:29.863] PICARD: regret that I gave it up.
+[00:28:30.183 --> 00:28:31.063] PICARD: It used to please my mother.
+[00:28:33.143 --> 00:28:37.703] PICARD: But I didn't like performing in front of an audience.
+[00:28:39.303 --> 00:28:39.623] KAMALA: Shy?
+[00:28:41.063 --> 00:28:41.463] PICARD: No.
+[00:28:42.503 --> 00:28:43.223] PICARD: Just not very good.
+[00:28:45.393 --> 00:28:45.873] KAMALA: Thank you.
+[00:28:48.113 --> 00:28:50.913] KAMALA: For letting down your guard, if only for a moment.
+[00:28:53.233 --> 00:28:56.753] PICARD: You will have to help me in the pronunciation of this scroll.
+[00:29:05.313 --> 00:29:06.353] KAMALA: What is it about me you fear?
+[00:29:08.513 --> 00:29:08.993] PICARD: Kamala.
+[00:29:09.073 --> 00:29:10.033] KAMALA: Do you find me unattractive?
+[00:29:11.553 --> 00:29:12.753] PICARD: I find you unavailable.
+[00:29:15.073 --> 00:29:16.353] KAMALA: I'm being terribly selfish.
+[00:29:17.153 --> 00:29:18.033] KAMALA: I apologise.
+[00:29:20.273 --> 00:29:21.633] KAMALA: We have something in common, Captain.
+[00:29:22.513 --> 00:29:24.273] KAMALA: When I was a child, I took music lessons, too.
+[00:29:25.073 --> 00:29:25.393] PICARD: Really?
+[00:29:26.353 --> 00:29:26.913] PICARD: What instrument?
+[00:29:27.873 --> 00:29:28.353] KAMALA: All of them.
+[00:29:29.553 --> 00:29:30.673] PICARD: The entire orchestra?
+[00:29:31.393 --> 00:29:34.833] KAMALA: Plus a few Valtese horns that sound like braying Targhee Moonbeasts.
+[00:29:35.473 --> 00:29:37.393] KAMALA: They are said to soothe the nerves of Valtese men.
+[00:29:39.153 --> 00:29:40.513] KAMALA: My mother never even heard me play.
+[00:29:41.953 --> 00:29:47.633] KAMALA: I was taken from her when I was four and sequestered in a royal village where I was prepared to fulfill my destiny.
+[00:29:48.993 --> 00:29:50.993] PICARD: It sounds as if it were a very lonely time for you.
+[00:29:51.713 --> 00:29:56.113] KAMALA: On the contrary, I had servants and tutors at my side constantly.
+[00:30:01.393 --> 00:30:03.313] KAMALA: You once asked me what I'm like when I'm alone.
+[00:30:04.673 --> 00:30:05.393] KAMALA: I've never been.
+[00:30:06.353 --> 00:30:10.913] KAMALA: There was always somebody there to educate me in literature, history, art,
+[00:30:11.209 --> 00:30:11.689] KAMALA: sex.
+[00:30:13.769 --> 00:30:19.529] KAMALA: But I have been alone on this journey, and I've found myself thinking about all the curious questions you asked.
+[00:30:20.889 --> 00:30:22.089] KAMALA: You wanted to know who I am.
+[00:30:24.169 --> 00:30:32.089] KAMALA: And as I continue to ask myself, the only answer that comes to me is, I am for you, Alrik of Valt. Because that's the truth.
+[00:30:47.929 --> 00:30:55.289] KAMALA: In a day, I will bond with a man I've never met. and I will turn myself into what he wants me to be, for the rest of my life.
+[00:31:00.089 --> 00:31:04.409] PICARD: I also once asked you if you were doing this of your own accord.
+[00:31:05.929 --> 00:31:09.129] KAMALA: I'm honoured to be chosen to serve my people as an emissary of peace.
+[00:31:11.289 --> 00:31:19.209] KAMALA: But I find it ironic on the eve of this ceremony, which I have spent my entire life preparing for, that I should meet a man like you.
+[00:31:22.649 --> 00:31:23.369] RIKER: Riker to Picard.
+[00:31:25.769 --> 00:31:26.409] PICARD: Go ahead, Number One.
+[00:31:27.289 --> 00:31:28.569] RIKER: The Valtese ship has arrived.
+[00:31:29.209 --> 00:31:30.889] RIKER: Chancellor Alrik is ready to beam aboard.
+[00:31:43.369 --> 00:31:44.329] ALRIK: Captain Picard.
+[00:31:46.383 --> 00:31:49.743] PICARD: Chancellor Alrik. Welcome aboard the Enterprise.
+[00:31:50.383 --> 00:31:54.623] ALRIK: Your First Officer has described the details of the incident with the Ferengis.
+[00:31:54.623 --> 00:31:55.663] ALRIK: How is the Ambassador?
+[00:31:56.623 --> 00:31:58.143] PICARD: He has not regained consciousness.
+[00:31:58.223 --> 00:31:59.023] ALRIK: A tragedy.
+[00:31:59.423 --> 00:32:02.863] ALRIK: Your willingness to assist is appreciated by both our peoples.
+[00:32:03.183 --> 00:32:04.303] PICARD: I', doing my best,
+[00:32:04.543 --> 00:32:07.743] PICARD: although I'm finding some of the rituals quite demanding.
+[00:32:07.983 --> 00:32:08.943] ALRIK: Rituals.
+[00:32:09.263 --> 00:32:12.303] ALRIK: I am more concerned about the remaining provisions of the treaty.
+[00:32:12.623 --> 00:32:15.183] ALRIK: The proposed trade agreements are not acceptable.
+[00:32:15.983 --> 00:32:21.423] ALRIK: We still must review the uncommitted territories as well as discuss the schedule for exchange of technology.
+[00:32:21.743 --> 00:32:25.823] PICARD: The Kriosians have authorised me to make several compromises favourable to your position.
+[00:32:26.063 --> 00:32:26.383] ALRIK: Good.
+[00:32:26.383 --> 00:32:27.903] ALRIK: Tomorrow, then.
+[00:32:28.783 --> 00:32:32.863] PICARD: Briam has supervised a reproduction of the ancient Temple of Akadar on our holodeck.
+[00:32:33.583 --> 00:32:37.023] ALRIK: Such a sentimental people, these Kriosians.
+[00:32:37.743 --> 00:32:40.223] ALRIK: It's hard to believe we have a common ancestry.
+[00:32:41.583 --> 00:32:41.823] PICARD: Please.
+[00:32:43.583 --> 00:32:45.183] ALRIK: I suppose they've sent the metamorph.
+[00:32:45.503 --> 00:32:46.543] PICARD: Kamala? Yes.
+[00:32:46.943 --> 00:32:48.143] PICARD: She's looking forward to meeting you.
+[00:32:48.783 --> 00:32:50.303] ALRIK: I'm sure she'll be satisfactory.
+[00:32:50.943 --> 00:32:55.743] ALRIK: Between you and me, Captain, I am far more interested in the trade agreements.
+[00:33:04.223 --> 00:33:06.063] KAMALA: So tell me quickly. What is he like?
+[00:33:07.103 --> 00:33:07.663] PICARD: First impressions?
+[00:33:08.623 --> 00:33:10.623] PICARD: He's a thoughtful man. Informed.
+[00:33:11.983 --> 00:33:12.943] KAMALA: Did he ask about me?
+[00:33:13.263 --> 00:33:13.583] PICARD: Yes.
+[00:33:14.703 --> 00:33:15.343] KAMALA: What did you tell him?
+[00:33:15.899 --> 00:33:17.659] PICARD: That you were looking forward to meeting him.
+[00:33:19.819 --> 00:33:20.939] KAMALA: When am I to be presented?
+[00:33:21.899 --> 00:33:24.539] PICARD: It'll be the first order of business tomorrow. At ten.
+[00:33:26.699 --> 00:33:27.419] KAMALA: Would you like some tea?
+[00:33:29.019 --> 00:33:31.419] PICARD: Thank you, but I should prepare for the ceremony.
+[00:33:32.459 --> 00:33:34.059] KAMALA: Let me help you with pronunciations.
+[00:33:34.859 --> 00:33:36.459] PICARD: I think I can muddle my way through.
+[00:33:37.499 --> 00:33:38.059] KAMALA: Please don't leave.
+[00:33:40.379 --> 00:33:41.019] KAMALA: Talk to me.
+[00:33:43.499 --> 00:33:44.779] KAMALA: I love the sound of your voice.
+[00:33:45.579 --> 00:33:47.019] KAMALA: I'll turn out the lights and just listen.
+[00:33:51.099 --> 00:33:52.059] KAMALA: I don't want to be alone.
+[00:34:03.339 --> 00:34:03.819] PICARD: The lights stay
+[00:34:05.499 --> 00:34:07.499] PICARD: on.
+[00:34:08.859 --> 00:34:09.899] KAMALA: Earl Grey Tea. Hot.
+[00:34:12.219 --> 00:34:13.819] PICARD: Did you learn that from Commander Data as well?
+[00:34:18.459 --> 00:34:21.579] PICARD: I shall have to have a talk with him.
+[00:34:24.219 --> 00:34:24.219] PICARD: Now
+[00:34:36.859 --> 00:34:41.019] PICARD: that I know that you're listening to my voice, I find that I can't think of anything to say.
+[00:34:43.928 --> 00:34:46.568] KAMALA: A starship captain must encounter all sorts of lifeforms.
+[00:34:48.648 --> 00:34:50.488] KAMALA: Am I one of the most unique you've ever met?
+[00:34:51.768 --> 00:34:52.408] KAMALA: Please say yes.
+[00:34:53.528 --> 00:34:53.848] PICARD: Yes.
+[00:34:55.688 --> 00:34:56.568] KAMALA: What a nice thing to say.
+[00:35:12.888 --> 00:35:15.608] PICARD: Kamala, have I not done everything possible to discourage this?
+[00:35:17.528 --> 00:35:19.528] KAMALA: Maybe that's the perfect way to attract a metamorph.
+[00:35:21.608 --> 00:35:23.368] PICARD: I don't want to use you as other men do.
+[00:35:24.408 --> 00:35:25.608] KAMALA: But you're not other men.
+[00:35:26.488 --> 00:35:27.608] KAMALA: You could never use me.
+[00:35:29.288 --> 00:35:31.128] KAMALA: That's the very reason why I'm with you tonight.
+[00:35:35.368 --> 00:35:35.768] PICARD: I should go.
+[00:35:37.128 --> 00:35:39.528] PICARD: And you have an appointment tomorrow morning
+[00:35:41.848 --> 00:35:41.848] PICARD: early.
+[00:35:42.328 --> 00:35:43.208] KAMALA: Light years away.
+[00:35:45.048 --> 00:35:45.048] CRUSHER: Quiet
+[00:36:01.288 --> 00:36:01.768] CRUSHER: this morning.
+[00:36:04.408 --> 00:36:04.888] PICARD: I'm sorry.
+[00:36:12.248 --> 00:36:12.568] CRUSHER: Penny?
+[00:36:13.368 --> 00:36:13.528] PICARD: What?
+[00:36:13.528 --> 00:36:15.368] CRUSHER: For your thoughts. Penny
+[00:36:15.368 --> 00:36:16.248] CRUSHER: for your thoughts.
+[00:36:16.607 --> 00:36:18.527] PICARD: Do you have one?
+[00:36:19.487 --> 00:36:21.247] CRUSHER: I'm sure the replicator will have one on file.
+[00:36:25.887 --> 00:36:27.567] PICARD: Beverly, may I take off the uniform for a moment?
+[00:36:28.927 --> 00:36:29.327] CRUSHER: Captain.
+[00:36:31.967 --> 00:36:33.167] PICARD: I need to talk to a friend.
+[00:36:34.687 --> 00:36:35.247] CRUSHER: Of course.
+[00:36:36.767 --> 00:36:38.367] PICARD: Actually, it's all your fault.
+[00:36:39.007 --> 00:36:39.407] CRUSHER: Mine?
+[00:36:39.887 --> 00:36:41.887] PICARD: You insisted I look into her situation.
+[00:36:43.967 --> 00:36:44.447] CRUSHER: The metamorph?
+[00:36:48.127 --> 00:36:48.687] PICARD: The metamorph.
+[00:36:50.367 --> 00:36:50.847] PICARD: Kamala.
+[00:36:52.767 --> 00:36:57.887] PICARD: I've spent quite a lot of time with her the past few days, and you're right about several things, but, Beverly,
+[00:36:57.887 --> 00:37:03.567] PICARD: her entire existence has been orchestrated for this moment and she intends to go through with it
+[00:37:05.247 --> 00:37:07.167] PICARD: to help her people end the war.
+[00:37:08.447 --> 00:37:10.047] CRUSHER: And you're saying there's nothing you can do about it?
+[00:37:12.127 --> 00:37:12.847] PICARD: It isn't that simple.
+[00:37:18.447 --> 00:37:21.727] PICARD: I barely know who she is, and
+[00:37:23.967 --> 00:37:27.167] PICARD: who she is changes the moment the next man comes into the room.
+[00:37:30.607 --> 00:37:33.647] PICARD: And I find myself hoping that the next man won't come in.
+[00:37:37.327 --> 00:37:38.607] PICARD: But, of course, he does, and
+[00:37:40.767 --> 00:37:42.927] PICARD: in a few hours, the ceremony will begin and
+[00:37:44.607 --> 00:37:45.487] PICARD: she will mate
+[00:37:46.358 --> 00:37:49.478] PICARD: with a man who cares more about trade agreements than he cares about her.
+[00:37:50.998 --> 00:37:56.838] PICARD: And I can't help thinking how she will be with him.
+[00:37:58.998 --> 00:38:01.158] PICARD: How she will change to accommodate him.
+[00:38:04.998 --> 00:38:05.878] CRUSHER: I wish I knew how I could help.
+[00:38:14.358 --> 00:38:15.558] PICARD: Perhaps I just needed a shoulder.
+[00:38:16.918 --> 00:38:17.958] CRUSHER: Oh, it's there for you, Jean-Luc.
+[00:38:18.918 --> 00:38:19.798] CRUSHER: It always has been.
+[00:38:30.278 --> 00:38:31.398] KAMALA: Come in.
+[00:38:40.838 --> 00:38:41.318] KAMALA: Is it time?
+[00:38:43.638 --> 00:38:43.958] PICARD: Soon.
+[00:38:43.958 --> 00:38:43.958] KAMALA: Do
+[00:38:46.438 --> 00:38:48.038] KAMALA: you have any questions about the ceremony?
+[00:38:50.838 --> 00:38:51.078] PICARD: Many.
+[00:38:57.878 --> 00:38:58.998] KAMALA: I will never truly love him.
+[00:38:59.148 --> 00:38:59.748] PICARD: You've
+[00:39:00.678 --> 00:39:01.558] PICARD: not even met him.
+[00:39:02.358 --> 00:39:03.158] KAMALA: It no longer matters.
+[00:39:05.398 --> 00:39:19.878] KAMALA: I wish I could convey to you what it's like to be a metamorph. To feel the inner strength of someone. To realise that being with him is opening your mind and heart to endless new possibilities. To hear yourself say, I like myself when I'm with him.
+[00:39:27.224 --> 00:39:27.562] PICARD: Kamala.
+[00:39:27.562 --> 00:39:37.704] KAMALA: For a metamorph there's no greater pleasure and no greater wish than to bond with that kind of mate at the end of the Finiis'ral, as I've bonded with you.
+[00:39:40.344 --> 00:39:40.984] PICARD: With me?
+[00:39:40.984 --> 00:39:43.544] KAMALA: Who I am today, I will be forever.
+[00:39:44.344 --> 00:39:45.556] DATA: Data to Captain Picard.
+[00:39:45.556 --> 00:39:46.466] PICARD: Not now, Data.
+[00:39:46.466 --> 00:39:50.103] DATA: But sir, Chancellor Alrik is waiting to receive you in holodeck seven.
+[00:39:54.824 --> 00:39:55.304] PICARD: Acknowledged.
+[00:39:58.744 --> 00:39:59.944] PICARD: You can't go through with the ceremony.
+[00:40:01.304 --> 00:40:04.424] KAMALA: Would you ask me to stay and ask two armies to keep fighting?
+[00:40:05.384 --> 00:40:08.264] KAMALA: Having bonded with you, I've learned the meaning of duty.
+[00:40:09.944 --> 00:40:10.583] KAMALA: He'll never know.
+[00:40:11.464 --> 00:40:12.344] KAMALA: I'm still empathic.
+[00:40:13.304 --> 00:40:14.424] KAMALA: I will be able to please him.
+[00:40:22.744 --> 00:40:24.024] KAMALA: I only hope he likes Shakespeare.
+[00:41:04.327 --> 00:41:04.967] KAMALA: I am for you,
+[00:41:32.967 --> 00:41:34.967] KAMALA: Alrik of Valt.
+[00:41:34.967 --> 00:41:37.607] BRIAM: Your service to both our peoples is greatly appreciated, Captain.
+[00:41:38.887 --> 00:41:44.967] PICARD: Your preparations made the negotiations simple, Ambassador, and Kamala was able to guide me through the rituals.
+[00:41:46.007 --> 00:41:48.567] BRIAM: I have to admit, I'm curious.
+[00:41:49.607 --> 00:41:50.007] PICARD: Curious?
+[00:41:51.047 --> 00:41:53.847] BRIAM: I was chosen for this mission for a very simple reason.
+[00:41:53.927 --> 00:41:55.047] BRIAM: I'm two hundred years old.
+[00:41:55.047 --> 00:42:04.967] BRIAM: The temptations of a beautiful metamorph do not easily reach me. And yet I would be lying if I were to claim, that even at my age, they do not reach me at all.
+[00:42:06.407 --> 00:42:11.047] BRIAM: But you, you worked with her, side by side for days.
+[00:42:13.207 --> 00:42:14.167] BRIAM: How could you resist her?
+[00:42:17.367 --> 00:42:17.687] PICARD: Ambassador,
+[00:42:17.687 --> 00:42:18.727] PICARD: have a safe trip home.
+[00:42:30.798 --> 00:42:31.438] BRIAM: Energise.
+[00:42:45.000 --> 00:43:41.000] [music]

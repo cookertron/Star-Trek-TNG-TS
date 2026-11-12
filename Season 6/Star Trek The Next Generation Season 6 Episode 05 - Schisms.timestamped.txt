@@ -1,0 +1,587 @@
+[00:00:02.560 --> 00:00:05.520] LOG: Captain's log, stardate 46154.2.
+[00:00:06.160 --> 00:00:11.040] LOG: The Enterprise has entered the Amargosa Diaspora, an unusually dense globular cluster.
+[00:00:11.520 --> 00:00:14.720] LOG: We are faced with the daunting task of charting this vast region.
+[00:00:48.480 --> 00:00:49.040] LAFORGE: Lieutenant
+[00:00:52.160 --> 00:00:54.880] LAFORGE: Shipley, let's get a triangulation on these sector points.
+[00:00:55.040 --> 00:00:55.440] SHIPLEY: Aye, sir.
+[00:00:55.840 --> 00:00:58.000] RIKER: Sorry I'm
+[00:01:05.200 --> 00:01:05.200] RIKER: late.
+[00:01:06.160 --> 00:01:06.960] RIKER: I overslept again.
+[00:01:07.040 --> 00:01:07.440] RIKER: What have we got?
+[00:01:08.000 --> 00:01:10.640] LAFORGE: Well, the cluster's a lot more dense than we thought.
+[00:01:10.800 --> 00:01:13.280] LAFORGE: It's going to take three days just to map out one tenth of it.
+[00:01:13.680 --> 00:01:14.400] RIKER: Three days?
+[00:01:14.880 --> 00:01:16.320] LAFORGE: I think we've found a way to speed that up a bit.
+[00:01:16.960 --> 00:01:20.240] LAFORGE: We've been testing a way of channelling warp energy directly to the main deflector grid.
+[00:01:20.640 --> 00:01:22.480] LAFORGE: It should enhance the long range sensors.
+[00:01:22.800 --> 00:01:28.160] DATA: The modification would increase our sensor efficiency and imaging resolution by twenty five percent or more.
+[00:01:30.261 --> 00:01:32.181] RIKER: That sounds like that'll use up a lot of warp energy.
+[00:01:32.581 --> 00:01:35.701] LAFORGE: We'd channel it through the EPS mains on deck four, near Cargo bay four.
+[00:01:36.661 --> 00:01:37.861] RIKER: Okay, let's give it a try.
+[00:01:38.101 --> 00:01:39.541] LAFORGE: Data, let's get those field taps online.
+[00:01:43.301 --> 00:01:46.901] DATA: Commander, I would like to remind you about my poetry reading this afternoon.
+[00:01:48.501 --> 00:01:49.781] RIKER: I wouldn't miss it for the world.
+[00:01:57.141 --> 00:01:58.661] LAFORGE: I can't wait to see what he's come up with.
+[00:02:00.421 --> 00:02:08.021] DATA: Then we sat on the sand for some time and observed How the oceans that cover the world were perturbed By the tides from the orbiting moon overhead
+[00:02:08.981 --> 00:02:11.301] DATA: 'How relaxing the sound of the waves is,' you said.
+[00:02:12.261 --> 00:02:17.061] DATA: I began to expound upon tidal effects When you asked me to stop, looking somewhat perplexed.
+[00:02:18.261 --> 00:02:24.021] DATA: So I did not explain why the sunset turns red And we watched the occurrence, in silence,
+[00:02:24.661 --> 00:02:25.141] DATA: instead.
+[00:02:28.000 --> 00:02:31.000] [applause]
+[00:02:28.181 --> 00:02:28.181] DATA: That
+[00:02:32.181 --> 00:02:34.661] DATA: poem was written in anapaestic tetrameter.
+[00:02:35.541 --> 00:02:36.547] DATA: For my ninth poem,
+[00:02:36.547 --> 00:02:39.061] RIKER: I don't understand. I can barely keep my eyes open.
+[00:02:39.861 --> 00:02:46.981] DATA: Throughout the ages, from Keats to Jorkemo, poets have composed odes to individuals who have had a profound effect on their lives.
+[00:02:48.501 --> 00:02:53.301] DATA: In keeping with that tradition, I have written my next poem in honour of my cat.
+[00:02:54.421 --> 00:02:54.901] DATA: I call it
+[00:02:56.277 --> 00:03:06.357] DATA: Ode to Spot. Felis catus is your taxonomic nomenclature. An endothermic quadruped, carnivorous by nature.
+[00:03:07.557 --> 00:03:13.957] DATA: Your visual, olfactory, and auditory senses Contribute to your hunting skill and natural defences.
+[00:03:15.317 --> 00:03:27.957] DATA: I find myself intrigued by your subvocal oscillations. A singular development of cat communications That obviates your basic hedonistic predilection, For a rhythmic stroking of your fur to demonstrate affection.
+[00:03:28.677 --> 00:03:31.637] DATA: A tail is quite essential for your acrobatic talents.
+[00:03:32.277 --> 00:03:42.517] DATA: You would not be so agile if you lacked its counterbalance. And when not being utilised to aid in locomotion It often serves to illustrate the state of your emotions.
+[00:03:45.477 --> 00:03:48.117] DATA: Commander, you have anticipated my denouement.
+[00:03:49.317 --> 00:03:51.317] DATA: However, the sentiment is appreciated.
+[00:03:52.117 --> 00:03:52.677] DATA: I will continue.
+[00:03:55.237 --> 00:04:06.757] DATA: Oh, Spot, the complex levels of behaviour you display Connote a fairly well developed cognitive array. And though you are not sentient, Spot, and do not comprehend
+[00:04:07.637 --> 00:04:11.957] DATA: I nonetheless consider you a true and valued friend.
+[00:04:40.252 --> 00:04:43.052] PICARD: Space, the final frontier.
+[00:04:44.892 --> 00:04:47.772] PICARD: These are the voyages of the starship Enterprise.
+[00:04:48.892 --> 00:04:56.892] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:58.492 --> 00:05:01.372] PICARD: to boldly go where no one has gone before.
+[00:05:57.931 --> 00:06:00.651] RIKER: I have no problem getting to sleep. Then I think I'm sleeping all night.
+[00:06:02.331 --> 00:06:03.931] RIKER: When I wake up, I feel exhausted.
+[00:06:04.891 --> 00:06:06.011] CRUSHER: How long has this been going on?
+[00:06:06.171 --> 00:06:07.291] RIKER: Two, three days.
+[00:06:08.091 --> 00:06:09.531] RIKER: Do you have to hold that thing that close?
+[00:06:09.681 --> 00:06:10.281] RIKER: I'm
+[00:06:11.531 --> 00:06:12.011] RIKER: sorry.
+[00:06:14.091 --> 00:06:15.131] RIKER: I've been on edge all day.
+[00:06:17.211 --> 00:06:17.531] CRUSHER: Well.
+[00:06:19.371 --> 00:06:23.771] CRUSHER: other than some muscle tension in your neck, I don't see anything physically wrong with you.
+[00:06:24.491 --> 00:06:25.691] CRUSHER: Have you been having bad dreams?
+[00:06:26.011 --> 00:06:26.891] RIKER: Not that I can remember.
+[00:06:28.411 --> 00:06:30.171] CRUSHER: This could be the result of lack of REM sleep.
+[00:06:31.771 --> 00:06:32.411] RIKER: What do you recommend?
+[00:06:35.291 --> 00:06:36.891] CRUSHER: Drink this before going to bed.
+[00:06:37.051 --> 00:06:37.371] RIKER: What is it?
+[00:06:38.331 --> 00:06:39.851] CRUSHER: A recipe for a warm milk toddy.
+[00:06:41.771 --> 00:06:42.891] RIKER: A hot milk toddy?
+[00:06:43.371 --> 00:06:43.771] RIKER: You're kidding.
+[00:06:44.171 --> 00:06:47.931] CRUSHER: The heat activates amino acids in the lactose, making it a natural sedative.
+[00:06:48.731 --> 00:06:51.051] CRUSHER: Besides, this is a recipe of the Captain's Aunt Adelle.
+[00:06:51.051 --> 00:06:52.091] CRUSHER: It's delicious.
+[00:06:53.131 --> 00:06:54.331] RIKER: Well. at this point, I'll try anything.
+[00:06:54.491 --> 00:06:57.611] CRUSHER: And listen, if it still bothers you tomorrow, come and see me and I'll run further tests.
+[00:06:57.851 --> 00:06:58.251] RIKER: Thanks.
+[00:07:05.051 --> 00:07:05.931] LAFORGE: Everything's in place.
+[00:07:06.011 --> 00:07:08.651] LAFORGE: Warp grid couplers, subspace field taps.
+[00:07:09.291 --> 00:07:10.331] LAFORGE: All right, let's do it.
+[00:07:10.331 --> 00:07:13.931] LAFORGE: Lieutenant Shipley, initiate warp power transfer.
+[00:07:14.251 --> 00:07:14.651] SHIPLEY: Aye sir.
+[00:07:15.451 --> 00:07:16.891] SHIPLEY: Verifying sensor calibration.
+[00:07:17.531 --> 00:07:19.211] SHIPLEY: EPS mains holding stable.
+[00:07:19.691 --> 00:07:21.131] SHIPLEY: Sensor array online.
+[00:07:25.825 --> 00:07:26.859] LAFORGE: Come on, work.
+[00:07:26.859 --> 00:07:30.305] DATA: Geordi, active scanner output has increased by twenty six percent.
+[00:07:31.185 --> 00:07:37.025] LAFORGE: Inform Astrophysics that the new La Forge sensor array is online and awaiting major scientific discoveries.
+[00:07:37.265 --> 00:07:37.905] SHIPLEY: Yes, sir.
+[00:07:39.745 --> 00:07:42.945] DATA: Geordi, may I make a personal inquiry?
+[00:07:44.305 --> 00:07:45.665] DATA: It concerns my poetry reading.
+[00:07:46.385 --> 00:07:46.865] LAFORGE: Sure, Data.
+[00:07:46.865 --> 00:07:47.265] LAFORGE: What is it?
+[00:07:48.865 --> 00:07:52.065] DATA: I noticed that many spectators seemed distracted during my presentation.
+[00:07:53.185 --> 00:07:54.465] DATA: Was my poetry uninteresting?
+[00:07:57.105 --> 00:08:02.865] LAFORGE: Well, it was very well constructed, a virtual tribute to form.
+[00:08:03.745 --> 00:08:04.065] DATA: Thank you.
+[00:08:07.665 --> 00:08:07.785] DATA: And?
+[00:08:07.785 --> 00:08:07.905] LAFORGE: And
+[00:08:10.305 --> 00:08:10.465] LAFORGE: what?
+[00:08:11.505 --> 00:08:13.505] DATA: Did it evoke an emotional response?
+[00:08:13.655 --> 00:08:14.255] LAFORGE: Well.
+[00:08:15.585 --> 00:08:19.985] DATA: Your hesitation suggests you are trying to protect my feelings.
+[00:08:20.465 --> 00:08:23.425] DATA: However, since I have none, I would prefer you to be honest.
+[00:08:24.225 --> 00:08:26.865] DATA: An artist's growth depends upon accurate feedback.
+[00:08:29.985 --> 00:08:40.705] LAFORGE: Well, your poems were clever, Data, and your Haiku was clever, and your sonnet was clever.
+[00:08:42.065 --> 00:08:44.545] LAFORGE: But did it evoke an emotional response?
+[00:08:44.545 --> 00:08:47.585] LAFORGE: To be honest, no,
+[00:08:48.225 --> 00:08:48.785] LAFORGE: I don't think so.
+[00:08:51.185 --> 00:08:52.785] DATA: Then I did not succeed in my efforts.
+[00:08:53.025 --> 00:08:54.465] LAFORGE: No, it's not that you didn't succeed.
+[00:08:54.465 --> 00:08:55.665] LAFORGE: You accomplished a lot, but,
+[00:08:57.669 --> 00:09:01.989] LAFORGE: if you want to touch people, don't concentrate so much on rhyme and metre.
+[00:09:02.069 --> 00:09:08.549] LAFORGE: Think more about what you want to say instead of how you're saying it.
+[00:09:08.549 --> 00:09:08.549] LAFORGE: That's
+[00:09:10.549 --> 00:09:11.429] LAFORGE: the power grid warning.
+[00:09:12.149 --> 00:09:13.989] DATA: I am reading a massive EPS explosion.
+[00:09:14.069 --> 00:09:14.309] LAFORGE: Where?
+[00:09:14.869 --> 00:09:15.989] DATA: I am attempting to localise it.
+[00:09:17.509 --> 00:09:18.469] DATA: It is Cargo bay four.
+[00:09:19.109 --> 00:09:20.069] LAFORGE: I've got three people in there.
+[00:09:21.109 --> 00:09:23.349] LAFORGE: Damage control, medical team to Cargo bay four.
+[00:09:23.429 --> 00:09:23.829] LAFORGE: Let's go.
+[00:09:23.829 --> 00:09:23.829] DATA: The
+[00:09:36.949 --> 00:09:38.389] DATA: field imbalance has subsided.
+[00:09:39.109 --> 00:09:41.509] WORF: There may still be a residual discharge.
+[00:09:42.069 --> 00:09:42.709] WORF: Stand clear.
+[00:10:00.069 --> 00:10:00.789] ENGINEER: Is there something wrong, sir?
+[00:10:00.789 --> 00:10:00.869] LAFORGE: And
+[00:10:04.229 --> 00:10:06.069] LAFORGE: there's no evidence of an EPS explosion.
+[00:10:06.629 --> 00:10:07.989] RIKER: Sensors seemed to think there was.
+[00:10:08.229 --> 00:10:11.989] LAFORGE: I think my modification to the sensor array may have caused a pattern recognition failure.
+[00:10:12.789 --> 00:10:13.589] RIKER: Just a sensor glitch?
+[00:10:13.669 --> 00:10:14.549] LAFORGE: That's my guess.
+[00:10:16.629 --> 00:10:22.549] RIKER: Let's perform a level three diagnostic on the internal sensor network and make sure that we haven't overlooked anything.
+[00:10:22.549 --> 00:10:22.869] LAFORGE: Aye, sir.
+[00:10:23.392 --> 00:10:25.152] RIKER: Could we pick this up in the morning, Geordi?
+[00:10:26.192 --> 00:10:26.832] RIKER: Get a fresh start?
+[00:10:28.832 --> 00:10:29.632] RIKER: Would you do me a favour?
+[00:10:29.632 --> 00:10:30.752] RIKER: Stop by my quarters,
+[00:10:31.232 --> 00:10:32.352] RIKER: oh seven hundred hours.
+[00:10:32.352 --> 00:10:33.712] RIKER: I'm having trouble waking up.
+[00:10:34.032 --> 00:10:34.512] LAFORGE: Sure, Commander.
+[00:10:35.072 --> 00:10:35.392] LAFORGE: Goodnight.
+[00:10:35.792 --> 00:10:36.032] RIKER: Goodnight.
+[00:10:38.352 --> 00:10:40.352] CREWMAN: Commander.
+[00:11:10.272 --> 00:11:10.272] LAFORGE: Gordon.
+[00:11:28.032 --> 00:11:28.592] RIKER: Who is it?
+[00:11:29.552 --> 00:11:30.192] LAFORGE: It's La Forge.
+[00:11:31.632 --> 00:11:32.032] RIKER: Come in.
+[00:11:35.632 --> 00:11:36.192] LAFORGE: Good morning.
+[00:11:37.392 --> 00:11:37.792] RIKER: Morning?
+[00:11:37.792 --> 00:11:38.752] RIKER: I just went to bed.
+[00:11:40.032 --> 00:11:41.472] LAFORGE: Commander, it's oh seven hundred hours.
+[00:12:04.621 --> 00:12:07.181] MOT: She said, if they're not squirming, we won't eat 'em!
+[00:12:08.301 --> 00:12:13.821] MOT: Ah, Mister Worf, my good Klingon. Sir, welcome.
+[00:12:14.621 --> 00:12:17.261] MOT: What a pleasure it is to have you with us again
+[00:12:17.661 --> 00:12:23.101] MOT: so soon. So, Lieutenant, haircut today?
+[00:12:23.581 --> 00:12:24.461] MOT: Trim your beard?
+[00:12:24.461 --> 00:12:25.821] WORF: I would like my hair trimmed.
+[00:12:26.381 --> 00:12:27.741] MOT: Ah. A trim, of course.
+[00:12:27.741 --> 00:12:28.701] WORF: Not like last time.
+[00:12:28.701 --> 00:12:30.781] MOT: Oh no, just a little off the top.
+[00:12:31.021 --> 00:12:33.901] MOT: I took way too much off last time.
+[00:12:39.181 --> 00:12:45.421] MOT: I was just telling my colleague, Mister Setti, how thick and luxuriant Klingon hair is.
+[00:12:45.821 --> 00:12:47.101] MOT: It's such a pleasure to cut.
+[00:12:47.101 --> 00:12:48.941] MOT: Sometimes I get carried away.
+[00:12:49.021 --> 00:12:54.461] MOT: All those away missions, the wind and dry air,
+[00:12:54.781 --> 00:12:57.661] MOT: the elements really are harsh on the hair.
+[00:12:58.141 --> 00:13:01.741] MOT: I'd like to suggest that you start using a conditioning agent.
+[00:13:01.901 --> 00:13:02.061] MOT: I
+[00:13:12.461 --> 00:13:14.461] MOT: promise, not too much off the top.
+[00:13:30.866 --> 00:13:34.226] LAFORGE: Just before the grid alarm sounded, we were running warp power through this junction.
+[00:13:34.786 --> 00:13:37.101] LAFORGE: Somehow, it must've tripped the internal scanners.
+[00:13:37.101 --> 00:13:39.746] RIKER: And it showed up as an EPS explosion?
+[00:13:39.826 --> 00:13:41.746] LAFORGE: Yes, but the question is, why?
+[00:13:42.866 --> 00:13:46.306] LAFORGE: I've made modifications to the sensors before but nothing like this has ever happened.
+[00:13:47.266 --> 00:13:49.666] RIKER: We can't waste time chasing down sensor ghosts.
+[00:13:50.066 --> 00:13:52.786] RIKER: We should probably keep the whole array offline until we can get take a closer look.
+[00:13:54.146 --> 00:13:55.026] LAFORGE: Excuse me.
+[00:13:55.186 --> 00:13:55.986] RIKER: I know the feeling.
+[00:13:57.426 --> 00:14:00.626] RIKER: The past few nights, it seems like as soon as my head hits the pillow, it's time to get up in the morning.
+[00:14:01.026 --> 00:14:03.666] LAFORGE: I'm sure we could all use a little shore leave after this survey's completed.
+[00:14:03.906 --> 00:14:04.466] RIKER: Definitely.
+[00:14:04.626 --> 00:14:05.186] RIKER: Keep me posted?
+[00:14:05.266 --> 00:14:05.426] LAFORGE: Yeah.
+[00:14:06.626 --> 00:14:09.186] LAFORGE: Data, I'm wondering if you could give me a hand.
+[00:14:09.186 --> 00:14:11.106] LAFORGE: I need to run a structural integrity scan.
+[00:14:11.106 --> 00:14:12.706] LAFORGE: I want to make sure that none of the conduit was
+[00:14:15.826 --> 00:14:16.146] DATA: What is it?
+[00:14:20.386 --> 00:14:23.746] LAFORGE: This is the second time today that my visor's just cut out like that.
+[00:14:26.546 --> 00:14:27.346] DATA: Are you all right, Geordi?
+[00:14:28.146 --> 00:14:30.386] LAFORGE: I don't know.
+[00:14:31.746 --> 00:14:33.266] LAFORGE: I just had a very weird feeling.
+[00:14:35.506 --> 00:14:36.306] LAFORGE: Maybe I should go to Sickbay.
+[00:14:36.946 --> 00:14:38.066] DATA: I will run the integrity scan.
+[00:14:38.386 --> 00:14:38.786] LAFORGE: Thanks, Data.
+[00:14:46.706 --> 00:14:47.586] CRUSHER: This is curious.
+[00:14:48.786 --> 00:14:51.666] CRUSHER: There's a slight bacterial infection around your neural inputs.
+[00:14:52.626 --> 00:14:54.786] CRUSHER: It was probably interrupting the data stream.
+[00:14:54.866 --> 00:14:55.506] LAFORGE: An infection?
+[00:14:55.506 --> 00:14:55.906] LAFORGE: From what?
+[00:14:57.266 --> 00:14:59.426] CRUSHER: It doesn't match any bacterial strains on record.
+[00:15:01.540 --> 00:15:03.220] CRUSHER: I'm going to have to sterilise the area.
+[00:15:05.140 --> 00:15:09.940] CRUSHER: But I need to run a resonance tissue scan to search for any signs of additional infection.
+[00:15:10.660 --> 00:15:11.060] CRUSHER: Come over here.
+[00:15:19.380 --> 00:15:20.020] CRUSHER: Sit down.
+[00:15:24.420 --> 00:15:25.220] CRUSHER: Now, come forward.
+[00:15:31.860 --> 00:15:33.700] CRUSHER: Now, you're going to need to hold very still.
+[00:15:41.700 --> 00:15:42.420] LAFORGE: How's the scan going, Data?
+[00:15:42.820 --> 00:15:43.940] DATA: I have just started the scan.
+[00:15:44.420 --> 00:15:45.380] DATA: Did you not go to Sickbay?
+[00:15:46.980 --> 00:15:48.820] LAFORGE: Data, I've been there for over an hour and a half.
+[00:15:49.540 --> 00:15:50.340] DATA: That is not possible.
+[00:15:51.060 --> 00:15:54.900] DATA: My internal chronometer indicates you have been gone for exactly one minute, fifteen seconds.
+[00:15:55.380 --> 00:15:57.140] LAFORGE: I'm telling you, Data, I've been gone for over an hour.
+[00:15:58.420 --> 00:15:59.940] DATA: Computer, what is the time, please?
+[00:15:59.940 --> 00:16:02.900] COMPUTER: The time is fourteen twenty seven hours.
+[00:16:04.180 --> 00:16:04.900] DATA: You are correct.
+[00:16:04.900 --> 00:16:08.100] DATA: Ninety two minutes, seventeen seconds have passed since you left the room.
+[00:16:08.820 --> 00:16:10.020] LAFORGE: What have you been doing all this time?
+[00:16:11.460 --> 00:16:13.300] DATA: I have no memory of events during that period.
+[00:16:13.300 --> 00:16:16.500] DATA: When we are finished here, I will perform a self-diagnostic.
+[00:16:16.740 --> 00:16:23.460] LAFORGE: You know, first we picked up a false EPS explosion, then my visor cuts out twice, and now you lose an hour, all in the Cargo Bay.
+[00:16:25.060 --> 00:16:25.700] LAFORGE: La Forge to Engineering
+[00:16:25.700 --> 00:16:28.340] LAFORGE: I want a diagnostic team to Cargo bay four immediately.
+[00:16:28.740 --> 00:16:29.140] SHIPLEY: On our way,
+[00:16:29.176 --> 00:16:29.588] SHIPLEY: sir.
+[00:16:29.588 --> 00:16:34.536] RIKER: Ensign Rager, cartography needs a better position to study cluster FGC thirteen.
+[00:16:34.536 --> 00:16:37.416] RIKER: Bring us about, heading one twenty three mark four.
+[00:16:37.976 --> 00:16:38.456] RAGER: Aye sir.
+[00:16:39.976 --> 00:16:41.656] RAGER: Helm won't lock to those coordinates, sir.
+[00:16:44.296 --> 00:16:46.376] RIKER: First time navigating through a globular cluster, Ensign?
+[00:16:49.176 --> 00:16:52.456] RIKER: You have got to compensate for gravimetric interference before
+[00:16:59.736 --> 00:17:00.936] RAGER: Is there something wrong, sir?
+[00:17:05.176 --> 00:17:05.496] RIKER: No.
+[00:17:07.576 --> 00:17:07.576] RIKER: I
+[00:17:09.176 --> 00:17:09.576] RIKER: don't know.
+[00:17:10.456 --> 00:17:12.056] RIKER: Put us back on our original heading, Ensign.
+[00:17:16.616 --> 00:17:18.936] LAFORGE: Don't tell
+[00:17:20.616 --> 00:17:22.776] LAFORGE: me. This can't be right.
+[00:17:25.176 --> 00:17:27.816] LAFORGE: Data, come here and take a look at this, would you?
+[00:17:29.976 --> 00:17:31.736] LAFORGE: I think we have another sensor glitch.
+[00:17:33.656 --> 00:17:35.096] DATA: Sensors are functioning normally.
+[00:17:35.976 --> 00:17:39.496] DATA: They are detecting a subspace particle emission originating from within this room.
+[00:17:39.816 --> 00:17:40.616] LAFORGE: From within this room?
+[00:17:40.616 --> 00:17:41.336] LAFORGE: That's impossible.
+[00:17:44.456 --> 00:17:45.176] DATA: The
+[00:17:48.696 --> 00:17:50.376] DATA: emission is emanating from this direction.
+[00:17:53.336 --> 00:17:55.336] DATA: Geordi.
+[00:18:15.696 --> 00:18:18.576] DATA: The structure of the bulkhead has been altered on a subatomic level.
+[00:18:19.056 --> 00:18:21.936] DATA: The metal itself is in a state of quasi-molecular flux.
+[00:18:22.096 --> 00:18:22.736] PICARD: What's causing it?
+[00:18:23.056 --> 00:18:24.736] LAFORGE: This is where it gets a little wild, Captain.
+[00:18:25.376 --> 00:18:29.536] LAFORGE: Behind that panel is a junction we were using to transfer warp power to the sensor array.
+[00:18:30.336 --> 00:18:33.456] LAFORGE: We're reading a subspace particle stream emanating from that junction.
+[00:18:33.776 --> 00:18:37.216] DATA: It appears to be composed of spatially inverted tetryon particles.
+[00:18:37.936 --> 00:18:40.816] DATA: We believe they are emanating from a tertiary subspace manifold.
+[00:18:41.296 --> 00:18:43.856] PICARD: But I thought that tetryons were unstable in normal space.
+[00:18:44.176 --> 00:18:45.296] LAFORGE: We don't understand it either, sir.
+[00:18:46.736 --> 00:18:50.496] LAFORGE: Something from that deep in subspace shouldn't be able to exist in our universe.
+[00:18:50.736 --> 00:18:51.456] LAFORGE: But there it is.
+[00:18:52.096 --> 00:18:53.456] PICARD: Does it pose a danger to the ship?
+[00:18:54.016 --> 00:18:54.896] LAFORGE: Not unless it spreads.
+[00:18:54.976 --> 00:18:57.776] LAFORGE: If it does, we can beam the bulkhead into space and erect a forcefield in its
+[00:18:58.176 --> 00:18:58.496] LAFORGE: place.
+[00:18:58.496 --> 00:19:01.056] PICARD: Well, keep that option ready.
+[00:19:01.056 --> 00:19:04.096] PICARD: In the meantime, proceed with the analysis.
+[00:19:04.096 --> 00:19:04.700] LAFORGE: Aye, sir.
+[00:19:04.700 --> 00:19:09.536] RIKER: When I sat down at the console, it triggered a response like I had been trapped.
+[00:19:10.416 --> 00:19:11.136] RIKER: I had to get out of there.
+[00:19:11.776 --> 00:19:13.616] TROI: Was it something about the console itself?
+[00:19:14.656 --> 00:19:14.736] RIKER: No.
+[00:19:14.736 --> 00:19:14.736] RIKER: I
+[00:19:16.656 --> 00:19:19.536] RIKER: felt like I was disconnected. Like it was something I had dreamed.
+[00:19:21.856 --> 00:19:25.376] TROI: You're the third person today who's come to me with something like this.
+[00:19:26.096 --> 00:19:29.216] TROI: An intense emotional response provoked by an object.
+[00:19:29.740 --> 00:19:31.420] RIKER: Did any of them know why they'd the response?
+[00:19:32.060 --> 00:19:33.740] TROI: No, they couldn't explain it any more than you could.
+[00:19:34.700 --> 00:19:37.180] TROI: You know, at this point I'm not willing to say it's coincidence.
+[00:19:39.260 --> 00:19:40.380] RIKER: Maybe we should all get together.
+[00:19:41.420 --> 00:19:44.140] TROI: Talking about it would help you understand your response.
+[00:19:45.260 --> 00:19:49.820] TROI: I'm going to find out if anyone else on the ship has had these kind of experiences.
+[00:20:00.380 --> 00:20:04.140] TROI: Will, you told me you had an unusual experience when you sat down at the console.
+[00:20:04.300 --> 00:20:05.420] TROI: Why don't you describe it?
+[00:20:07.340 --> 00:20:08.140] RIKER: It was vague,
+[00:20:08.140 --> 00:20:09.660] RIKER: the way you recall a dream.
+[00:20:10.860 --> 00:20:16.300] RIKER: I remember the sensation of feeling trapped and something about a smooth surface.
+[00:20:17.660 --> 00:20:19.100] WORF: I had a similar response, but
+[00:20:20.780 --> 00:20:21.820] WORF: to a pair of scissors.
+[00:20:22.700 --> 00:20:24.380] TROI: Have you dreamt about scissors recently?
+[00:20:24.700 --> 00:20:25.420] WORF: I may have.
+[00:20:25.420 --> 00:20:27.100] WORF: I do not have a distinct memory of it.
+[00:20:27.900 --> 00:20:31.500] LAFORGE: When my visor cut out in the cargo bay, I had a weird feeling too.
+[00:20:31.500 --> 00:20:32.940] LAFORGE: It was something about a smooth surface.
+[00:20:34.540 --> 00:20:35.420] LAFORGE: It was smooth and
+[00:20:37.260 --> 00:20:37.820] LAFORGE: cold,
+[00:20:39.020 --> 00:20:39.820] LAFORGE: Yeah, it was cold.
+[00:20:40.700 --> 00:20:42.860] KAMINER: Yes, cold.
+[00:20:42.860 --> 00:20:45.820] WORF: It was elevated?
+[00:20:47.820 --> 00:20:48.460] WORF: A platform.
+[00:20:49.260 --> 00:20:49.580] LAFORGE: Right.
+[00:20:50.620 --> 00:20:51.420] LAFORGE: Like a bench,
+[00:20:54.540 --> 00:20:55.180] LAFORGE: or a table
+[00:20:57.100 --> 00:20:59.820] TROI: It seems you've all had a similar experience.
+[00:21:01.930 --> 00:21:04.410] TROI: Is there anything else you remember besides a table?
+[00:21:12.730 --> 00:21:15.130] RIKER: Maybe there's a way we can all help ourselves to remember more.
+[00:21:23.130 --> 00:21:25.930] TROI: Well, you all remember a table, so let's start with that.
+[00:21:26.730 --> 00:21:27.850] TROI: Computer show me a table.
+[00:21:28.650 --> 00:21:32.410] COMPUTER: There are five thousand forty seven classifications of tables on file.
+[00:21:32.890 --> 00:21:34.810] COMPUTER: Specify design parameters.
+[00:21:35.290 --> 00:21:36.890] TROI: Can you be more specific about the table?
+[00:21:37.610 --> 00:21:39.530] TROI: You mentioned it was smooth and cold.
+[00:21:40.250 --> 00:21:41.770] TROI: Can you remember what shape it was?
+[00:21:42.810 --> 00:21:43.130] KAMINER: Long.
+[00:21:44.090 --> 00:21:44.730] KAMINER: It was long.
+[00:21:45.210 --> 00:21:48.570] LAFORGE: Yeah, and it had a rectangular shape.
+[00:21:49.770 --> 00:21:52.650] TROI: Computer, show me a rectangular conference table.
+[00:22:11.050 --> 00:22:11.690] LAFORGE: It's too high.
+[00:22:13.930 --> 00:22:17.850] LAFORGE: Computer, reduce the height of the table by twenty five percent.
+[00:22:20.490 --> 00:22:23.690] WORF: No, the table was smaller. And it was inclined.
+[00:22:25.050 --> 00:22:30.970] WORF: Computer, decrease the table's surface area by twenty percent and incline the top fifteen degrees.
+[00:22:32.066 --> 00:22:34.866] RIKER: No, it wasn't made of wood.
+[00:22:34.866 --> 00:22:38.626] RIKER: It was smoother, more metallic.
+[00:22:39.266 --> 00:22:40.786] TROI: Computer, make this a metal table.
+[00:22:43.506 --> 00:22:43.826] LAFORGE: Yeah,
+[00:22:46.066 --> 00:22:47.186] LAFORGE: that's starting to look right.
+[00:22:48.226 --> 00:22:49.586] TROI: Was there anything else in the room?
+[00:22:49.906 --> 00:22:52.706] TROI: Furniture? Chairs? A door?
+[00:22:54.546 --> 00:22:55.106] TROI: Other people?
+[00:22:55.826 --> 00:22:57.746] KAMINER: No, it was dark.
+[00:22:58.866 --> 00:22:59.826] RIKER: Yes, it was dark.
+[00:23:01.506 --> 00:23:02.626] RIKER: I couldn't see beyond the table.
+[00:23:03.906 --> 00:23:06.226] TROI: Computer, lower the surrounding light level.
+[00:23:11.266 --> 00:23:14.466] LAFORGE: There was a light right in my face. A bright light.
+[00:23:16.146 --> 00:23:19.586] LAFORGE: Computer, give me a bright light right above the table.
+[00:23:20.626 --> 00:23:21.906] COMPUTER: Specify light source.
+[00:23:22.866 --> 00:23:23.586] LAFORGE: I couldn't tell. It
+[00:23:24.786 --> 00:23:25.426] LAFORGE: was above me.
+[00:23:27.186 --> 00:23:27.906] LAFORGE: An overhead lamp.
+[00:23:29.106 --> 00:23:30.866] COMPUTER: Estimated distance of light source.
+[00:23:30.946 --> 00:23:31.986] LAFORGE: I don't know.
+[00:23:32.946 --> 00:23:35.586] LAFORGE: It was at least two or three metres above.
+[00:23:40.866 --> 00:23:41.186] LAFORGE: Brighter.
+[00:23:43.986 --> 00:23:44.466] LAFORGE: Brighter.
+[00:23:50.866 --> 00:23:55.746] TROI: You said you were uneasy when you sat down at the conn. position.
+[00:23:56.386 --> 00:23:59.826] RIKER: Yes. I felt trapped by the console.
+[00:24:01.906 --> 00:24:02.946] RIKER: But it wasn't like this.
+[00:24:02.946 --> 00:24:04.306] RIKER: There was something else here.
+[00:24:07.763 --> 00:24:08.963] TROI: A restraint of some kind?
+[00:24:11.443 --> 00:24:12.803] RIKER: Yes, there was a restraint.
+[00:24:13.283 --> 00:24:15.283] RIKER: It was flat and metal.
+[00:24:15.843 --> 00:24:16.643] RIKER: It was made of metal.
+[00:24:16.793 --> 00:24:17.393] RIKER: it
+[00:24:18.803 --> 00:24:21.603] RIKER: came down over my legs.
+[00:24:23.203 --> 00:24:26.883] RIKER: No, no, it was across my chest, right here.
+[00:24:27.603 --> 00:24:28.643] TROI: It was holding you down?
+[00:24:29.043 --> 00:24:30.163] RIKER: Yes, it was part of the table.
+[00:24:30.163 --> 00:24:30.723] RIKER: It was here.
+[00:24:31.043 --> 00:24:31.763] RIKER: It was right here.
+[00:24:34.083 --> 00:24:41.923] TROI: Computer, create a restraining arm attached to the right side of the table, at the mid-point.
+[00:24:46.323 --> 00:24:46.883] TROI: Was it like that?
+[00:24:49.203 --> 00:24:52.323] RIKER: Computer, put controls on the restraining arm.
+[00:24:52.803 --> 00:24:54.163] RIKER: A control panel. Lights.
+[00:24:57.843 --> 00:24:59.363] KAMINER: There was something else there.
+[00:25:00.803 --> 00:25:05.683] KAMINER: Over the head of the table. A metal swing arm.
+[00:25:07.123 --> 00:25:15.203] KAMINER: Computer, create a metal swing arm, double jointed, total length one metre. Connect it to the head of the table.
+[00:25:18.803 --> 00:25:23.203] WORF: There was something attached to it. A tool of some sort. Scissor-like.
+[00:25:23.203 --> 00:25:24.643] WORF: Computer,
+[00:25:27.683 --> 00:25:29.923] WORF: produce a pair of scissors attached to the armature.
+[00:25:34.026 --> 00:25:35.066] WORF: The handle is wrong.
+[00:25:35.626 --> 00:25:36.746] WORF: It was not scissors.
+[00:25:37.786 --> 00:25:43.066] WORF: Computer, make the handle a single grip ten centimetres long, solid metal.
+[00:25:45.306 --> 00:25:48.426] WORF: Now make one blade longer, curved inward.
+[00:25:49.946 --> 00:25:53.466] WORF: And give the other blade a jagged edge.
+[00:25:58.666 --> 00:25:58.986] TROI: All right,
+[00:26:00.506 --> 00:26:01.866] TROI: you were lying on the table.
+[00:26:03.226 --> 00:26:05.466] TROI: You had a bright light shining in your eyes.
+[00:26:07.866 --> 00:26:10.266] TROI: Were there any smells in the room?
+[00:26:11.706 --> 00:26:12.586] TROI: Were there any sounds?
+[00:26:13.626 --> 00:26:13.946] RIKER: Yes.
+[00:26:16.346 --> 00:26:17.226] RIKER: Yes, there was a sound.
+[00:26:20.266 --> 00:26:23.786] RIKER: Computer, there were noises coming from the darkness.
+[00:26:24.426 --> 00:26:25.146] RIKER: Strange,
+[00:26:26.986 --> 00:26:27.786] RIKER: like whispering.
+[00:26:30.666 --> 00:26:31.706] KAMINER: More like clicks.
+[00:26:33.226 --> 00:26:34.106] KAMINER: Clicking sounds.
+[00:26:38.026 --> 00:26:38.346] RIKER: Louder.
+[00:26:40.906 --> 00:26:41.866] RIKER: Faster.
+[00:26:43.226 --> 00:26:43.626] RIKER: More of them.
+[00:26:47.226 --> 00:26:48.426] LAFORGE: I've been in this room before.
+[00:26:50.586 --> 00:26:51.386] RIKER: We've all been here before.
+[00:27:00.246 --> 00:27:00.966] CRUSHER: Here it is again.
+[00:27:03.526 --> 00:27:08.006] CRUSHER: Something has caused high levels of serotonin to be produced in Geordi's visual cortex.
+[00:27:08.886 --> 00:27:14.646] CRUSHER: When I examined him earlier today, I thought it was the result of a bacterial infection, but now I'm finding the same thing in all three.
+[00:27:14.966 --> 00:27:17.366] CRUSHER: They all have elevated levels of serotonin.
+[00:27:18.086 --> 00:27:22.806] CRUSHER: It's concentrated in the hippocampus, which suggests that they've been exposed to a neuro-sedative.
+[00:27:23.526 --> 00:27:24.246] CRUSHER: And that's not all.
+[00:27:24.566 --> 00:27:29.126] CRUSHER: I have detected minute tetryon particle traces in their subdermal tissues.
+[00:27:29.366 --> 00:27:30.166] PICARD: Tetryons? Like
+[00:27:31.206 --> 00:27:32.566] PICARD: the emissions in the cargo bay.
+[00:27:35.686 --> 00:27:42.886] DATA: I have completed my self diagnostic, and have confirmed that I was not aboard the Enterprise for ninety minutes seventeen seconds yesterday afternoon.
+[00:27:43.046 --> 00:27:43.446] LAFORGE: Are you sure?
+[00:27:44.726 --> 00:27:50.246] DATA: Whenever I am on the ship, the warp field leaves an electromagnetic signal on my internal servo-fluid system.
+[00:27:50.886 --> 00:27:55.926] DATA: Between the period of twelve fifty four and fourteen twenty six hours that signature is missing.
+[00:27:58.966 --> 00:27:59.366] PICARD: Computer,
+[00:28:00.406 --> 00:28:02.246] PICARD: are there any members of the crew of the Enterprise missing?
+[00:28:03.046 --> 00:28:05.286] COMPUTER: There are two crewmembers unaccounted for.
+[00:28:06.326 --> 00:28:06.966] PICARD: Identify them.
+[00:28:07.846 --> 00:28:10.646] COMPUTER: Lieutenant Edward Hagler and Ensign Sariel Rager.
+[00:28:11.766 --> 00:28:12.326] PICARD: When did they leave?
+[00:28:13.046 --> 00:28:16.086] COMPUTER: They have not been present since twenty three thirty two hours.
+[00:28:18.086 --> 00:28:18.726] PICARD: How did they leave?
+[00:28:19.286 --> 00:28:20.806] COMPUTER: Method of departure unknown.
+[00:28:21.206 --> 00:28:21.846] PICARD: Picard to Bridge.
+[00:28:22.246 --> 00:28:22.886] CREWMAN: Bridge here, Captain.
+[00:28:24.006 --> 00:28:24.726] PICARD: Raise shields.
+[00:28:25.126 --> 00:28:26.806] PICARD: And I want a level four security alert.
+[00:28:27.381 --> 00:28:29.701] PICARD: I need to know if anyone comes on or off this ship.
+[00:28:30.261 --> 00:28:30.501] CREWMAN: Aye, sir.
+[00:28:31.381 --> 00:28:31.541] PICARD: Mister
+[00:28:31.621 --> 00:28:32.181] PICARD: La Forge, Mister
+[00:28:32.181 --> 00:28:32.421] PICARD: Data.
+[00:28:33.221 --> 00:28:38.021] PICARD: I believe that if we find the source of those tetryon emissions, we'll find the missing crewmembers.
+[00:28:38.501 --> 00:28:38.981] LAFORGE: We're on it, sir.
+[00:28:40.981 --> 00:28:41.621] MEDIC: Doctor Crusher?
+[00:28:41.771 --> 00:28:44.771] MEDIC: You'd better take a look at this.
+[00:28:48.101 --> 00:28:49.381] CRUSHER: My God.
+[00:28:49.381 --> 00:28:50.501] RIKER: What is it?
+[00:28:50.501 --> 00:28:54.181] CRUSHER: It looks as though your arm has been severed and then reattached.
+[00:28:54.661 --> 00:28:54.821] RIKER: What?
+[00:28:56.661 --> 00:29:03.621] CRUSHER: The skeletal structure in your radius and ulna is offset by point zero two microns.
+[00:29:04.901 --> 00:29:08.181] CRUSHER: Your arm has been amputated then surgically reattached.
+[00:29:15.701 --> 00:29:17.221] LAFORGE: Any progress with the analysis, Lieutenant?
+[00:29:17.701 --> 00:29:18.341] SHIPLEY: Take a look at this.
+[00:29:18.581 --> 00:29:19.301] LAFORGE: Data, the
+[00:29:36.741 --> 00:29:38.821] LAFORGE: tetryon emissions have intensified.
+[00:29:38.821 --> 00:29:42.341] LAFORGE: They seem to be focusing in this direction,
+[00:29:43.941 --> 00:29:45.061] LAFORGE: coalescing here.
+[00:29:47.141 --> 00:29:48.741] LAFORGE: They're reading as a point of subspace energy.
+[00:29:50.101 --> 00:29:52.181] DATA: It appears to be the beginnings of a spatial rupture.
+[00:29:53.861 --> 00:29:54.821] LAFORGE: The tetryon emissions
+[00:29:55.683 --> 00:29:57.923] LAFORGE: are modulating in a way that
+[00:29:59.443 --> 00:30:01.763] LAFORGE: looks like somebody's controlling the energy.
+[00:30:04.083 --> 00:30:04.323] LAFORGE: You know,
+[00:30:06.803 --> 00:30:09.363] LAFORGE: the signals from the modifications I made to the sensor array,
+[00:30:09.603 --> 00:30:11.363] LAFORGE: some of them dig pretty deep into subspace.
+[00:30:13.363 --> 00:30:14.803] LAFORGE: Maybe they caught somebody's attention.
+[00:30:15.523 --> 00:30:17.043] DATA: At the rate the rupture is expanding,
+[00:30:17.043 --> 00:30:18.883] DATA: we will soon be in danger of hull breach.
+[00:30:19.203 --> 00:30:21.443] LAFORGE: Maybe we should try surrounding it with a subspace containment field.
+[00:30:23.043 --> 00:30:28.563] RIKER: Other than the tetryon emissions in cargo bay four, our internal sensors haven't recorded anything unusual in the past three days.
+[00:30:29.363 --> 00:30:31.523] PICARD: Initiate a metallurgical analysis of the ship's hull.
+[00:30:31.763 --> 00:30:33.923] PICARD: Subspace field incursions may have left a trace.
+[00:30:34.563 --> 00:30:39.043] WORF: Captain, sensors indicate that Lieutenant Hagler has returned to the Enterprise.
+[00:30:39.523 --> 00:30:43.283] WORF: He is in his quarters, deck seven, section nineteen.
+[00:30:53.203 --> 00:30:54.323] CRUSHER: Computer, emergency entry,
+[00:30:54.323 --> 00:30:55.763] CRUSHER: Chief Medical Officer Beverly Crusher.
+[00:31:07.283 --> 00:31:08.003] CRUSHER: Crusher to Sickbay.
+[00:31:08.883 --> 00:31:11.843] CRUSHER: Get a plasma infusion unit to deck seven, section nineteen.
+[00:31:14.163 --> 00:31:16.163] CRUSHER: His blood is turning into a liquid polymer.
+[00:31:26.963 --> 00:31:29.443] LAFORGE: We've set up a containment field in cargo bay four, but
+[00:31:30.097 --> 00:31:31.377] LAFORGE: the rupture just keeps expanding.
+[00:31:31.777 --> 00:31:34.577] LAFORGE: I'd say we've got another five or six hours before it breaches the hull.
+[00:31:35.217 --> 00:31:37.457] PICARD: Can we still beam the affected sections out into space?
+[00:31:37.857 --> 00:31:38.177] DATA: No, sir.
+[00:31:38.497 --> 00:31:41.937] DATA: The spatial rupture is creating severe nucleonic interference.
+[00:31:42.737 --> 00:31:45.617] DATA: It is impossible to obtain a positive lock on the bulkheads.
+[00:31:49.057 --> 00:31:53.772] PICARD: Has your analysis suggested any way in which we might seal this rupture?
+[00:31:53.772 --> 00:31:59.937] LAFORGE: We think we can close the rupture by neutralising the tetryon emissions with a coherent graviton pulse.
+[00:32:00.337 --> 00:32:01.937] LAFORGE: But we'd have to do that at the source.
+[00:32:02.337 --> 00:32:03.377] RIKER: How do we find the source?
+[00:32:03.697 --> 00:32:04.337] LAFORGE: Good question.
+[00:32:04.817 --> 00:32:10.337] LAFORGE: The emissions are coming from a tertiary subspace domain, but subspace has an infinite number of domains.
+[00:32:10.897 --> 00:32:13.697] LAFORGE: It's like a huge honeycomb with an endless number of cells.
+[00:32:13.697 --> 00:32:16.977] LAFORGE: We need to isolate the exact cell that these emissions are coming from.
+[00:32:17.857 --> 00:32:23.937] PICARD: If someone homed onto the subspace signals created by our modified signal array,
+[00:32:25.457 --> 00:32:26.497] PICARD: could we do the same to them?
+[00:32:27.617 --> 00:32:29.777] PICARD: Track the tetryon emissions to their universe?
+[00:32:30.577 --> 00:32:32.817] DATA: Tetryon particles have a random momentum.
+[00:32:33.777 --> 00:32:34.977] DATA: Our sensors cannot track them, sir.
+[00:32:35.697 --> 00:32:39.217] WORF: Perhaps we could construct a homing device.
+[00:32:40.177 --> 00:32:41.617] WORF: Something that our sensors could track.
+[00:32:42.017 --> 00:32:44.417] LAFORGE: That's a good idea, but there's no way to get that device to the source.
+[00:32:45.057 --> 00:32:45.697] RIKER: Yes, there is.
+[00:32:46.897 --> 00:32:47.537] RIKER: Give it to me.
+[00:32:48.417 --> 00:32:52.017] RIKER: They've taken me for the last few nights. If I'm right, the same thing'll happen tonight.
+[00:32:52.577 --> 00:33:01.057] LAFORGE: If you had a homing device, we could track it to your location in subspace. And as soon as they send you back to the ship, we could transmit the graviton pulse and neutralise the tetryon emissions.
+[00:33:01.621 --> 00:33:05.141] TROI: If they send him back. Ensign Rager still hasn't been returned.
+[00:33:05.541 --> 00:33:09.541] RIKER: They're going to take me whether I want to go or not.
+[00:33:09.541 --> 00:33:12.501] PICARD: Well, we could wait as long as possible for you to be returned, Number One,
+[00:33:12.501 --> 00:33:18.021] PICARD: but when the spatial ruptures begin to threaten the ship, then we would have to transmit that graviton pulse.
+[00:33:18.901 --> 00:33:19.221] RIKER: Understood.
+[00:33:20.341 --> 00:33:28.661] PICARD: Perhaps there's a way that we could give you an advantage. A way of keeping you conscious after they have taken you.
+[00:33:29.621 --> 00:33:34.501] PICARD: Doctor, can you develop some counter-agent to the neuro-sedative that they have been giving the crew?
+[00:33:38.101 --> 00:33:43.141] CRUSHER: I could give you a neuro-stimulant, but the dosage would have to be rather high to counteract the effects.
+[00:33:44.181 --> 00:33:44.981] CRUSHER: It could be risky.
+[00:33:45.621 --> 00:33:46.661] RIKER: I'm willing to take that risk.
+[00:33:47.061 --> 00:33:50.741] PICARD: Make it so. Mister La Forge,
+[00:33:51.941 --> 00:33:53.221] PICARD: begin work on that homing device.
+[00:33:57.621 --> 00:34:00.181] CRUSHER: This should be enough to ward off their neuro-sedative for about twelve hours.
+[00:34:01.541 --> 00:34:02.341] RIKER: I hope it's enough.
+[00:34:03.541 --> 00:34:04.261] CRUSHER: It's going to have to be.
+[00:34:04.261 --> 00:34:06.021] CRUSHER: I can't risk giving you a higher dosage.
+[00:34:08.581 --> 00:34:11.221] LAFORGE: I've locked this tricorder into a continuous cycle.
+[00:34:11.941 --> 00:34:14.181] LAFORGE: That way, it'll keep recording whether you open it or not.
+[00:34:14.581 --> 00:34:17.061] LAFORGE: Hopefully you can bring back some information about their domain.
+[00:34:17.781 --> 00:34:21.141] LAFORGE: We've modified a sensor relay emitter to transmit a subspace beacon.
+[00:34:21.141 --> 00:34:24.181] LAFORGE: When this indicator lights up, it means that we've locked onto your location.
+[00:34:25.221 --> 00:34:25.781] RIKER: Understood.
+[00:35:17.611 --> 00:35:20.571] WORF: Captain. Commander Riker has been taken from the Enterprise.
+[00:36:40.804 --> 00:36:40.964] PICARD: Mister La
+[00:36:40.964 --> 00:36:41.284] PICARD: Forge,
+[00:36:41.684 --> 00:36:42.084] PICARD: report.
+[00:36:43.204 --> 00:36:44.884] LAFORGE: I still can't locate the homing signal.
+[00:36:44.884 --> 00:36:47.124] LAFORGE: We've covered the entire upper subspace energy band.
+[00:36:47.364 --> 00:36:49.204] LAFORGE: We're extending the scan to adjacent levels.
+[00:36:50.964 --> 00:36:52.164] PICARD: Mister Data, your status?
+[00:36:52.644 --> 00:36:55.204] DATA: The rupture has expanded another four point two percent.
+[00:36:55.764 --> 00:37:00.084] DATA: Without further reinforcement, containment field integrity will fail in approximately fourteen minutes.
+[00:37:00.964 --> 00:37:02.564] PICARD: Can you divert more power to the containment field?
+[00:37:03.124 --> 00:37:06.244] LAFORGE: I can try to augment the field with auxiliary power, but it won't be much.
+[00:37:07.524 --> 00:37:07.924] PICARD: Make it so.
+[00:37:08.084 --> 00:37:08.404] LAFORGE: Aye, sir.
+[00:37:50.254 --> 00:37:52.014] LAFORGE: Captain, I've located the homing signal.
+[00:37:53.294 --> 00:37:54.174] LAFORGE: Locking onto it now.
+[00:37:55.614 --> 00:37:58.574] LAFORGE: It's coming from a subspace energy level of sixteen point two keV.
+[00:37:59.614 --> 00:38:01.134] PICARD: Stand by to initiate the graviton pulse.
+[00:38:01.694 --> 00:38:03.294] SHIPLEY: Graviton emitters at full power, sir.
+[00:38:03.294 --> 00:38:03.854] SHIPLEY: Standing by.
+[00:38:04.254 --> 00:38:05.294] PICARD: Mister Data, how much time?
+[00:38:05.774 --> 00:38:09.374] DATA: At the present rate, containment failure will occur in approximately nine minutes.
+[00:38:26.094 --> 00:38:28.654] DATA: Captain, the containment field is beginning to fluctuate.
+[00:38:29.214 --> 00:38:32.094] DATA: Failure anticipated in Three minutes, eleven seconds.
+[00:38:32.574 --> 00:38:33.614] PICARD: We can't afford to wait any longer.
+[00:38:34.014 --> 00:38:34.974] PICARD: Begin the graviton pulse.
+[00:38:37.374 --> 00:38:38.574] LAFORGE: Initiating pulse now.
+[00:38:48.654 --> 00:38:49.854] DATA: Data to Engineering.
+[00:38:49.854 --> 00:38:51.774] DATA: The graviton pulse is having an effect.
+[00:38:53.294 --> 00:38:55.774] DATA: Tetryon emissions have decreased by nineteen percent.
+[00:38:58.814 --> 00:39:01.454] DATA: Captain, additional subharmonics have appeared.
+[00:39:01.634 --> 00:39:03.874] DATA: They are reinforcing the tetryon emissions.
+[00:39:04.514 --> 00:39:06.914] DATA: They appear to be counter-acting the graviton pulse.
+[00:39:07.234 --> 00:39:08.914] DATA: The rupture is beginning to expand again, sir.
+[00:39:10.194 --> 00:39:11.874] LAFORGE: Looks like somebody is fighting back.
+[00:39:13.074 --> 00:39:14.434] PICARD: Can you strengthen the graviton pulse?
+[00:39:15.154 --> 00:39:17.154] LAFORGE: I can try to set up a random frequency shift.
+[00:39:17.234 --> 00:39:19.074] LAFORGE: If we can keep them from guessing our pulse modulation,
+[00:39:19.474 --> 00:39:20.674] LAFORGE: they might not be able to compensate.
+[00:39:31.154 --> 00:39:33.954] DATA: Tetryon emissions continue to increase.
+[00:39:33.954 --> 00:39:36.754] DATA: The rupture is still expanding.
+[00:39:37.234 --> 00:39:38.274] DATA: Hull breach is imminent.
+[00:39:38.514 --> 00:39:40.514] LAFORGE: They're reacting faster than we can shift frequencies.
+[00:39:42.354 --> 00:39:42.674] LAFORGE: Shipley,
+[00:39:43.234 --> 00:39:45.554] LAFORGE: programme the emitters for full spectrum pulse compression.
+[00:39:46.114 --> 00:39:48.674] LAFORGE: I want to channel all of the graviton energy into a single burst.
+[00:39:49.154 --> 00:39:50.114] LAFORGE: Let's see if they can handle that.
+[00:39:50.434 --> 00:39:51.074] SHIPLEY: Ready, Commander.
+[00:40:05.794 --> 00:40:07.634] DATA: The rupture is beginning to close, sir.
+[00:40:08.194 --> 00:40:08.994] LAFORGE: Recharge the emitters.
+[00:40:08.994 --> 00:40:09.474] LAFORGE: Let's hit them again.
+[00:40:11.074 --> 00:40:11.394] LAFORGE: Come on.
+[00:40:11.794 --> 00:40:12.034] SHIPLEY: Ready.
+[00:40:13.074 --> 00:40:15.474] DATA: The rupture is eighty six percent closed.
+[00:40:31.042 --> 00:40:31.682] LAFORGE: We're almost there.
+[00:40:31.682 --> 00:40:32.642] LAFORGE: One more burst should do it.
+[00:40:32.962 --> 00:40:33.762] SHIPLEY: Emitters recharging.
+[00:41:02.642 --> 00:41:05.682] LOG: Captain's log, stardate 46191.2.
+[00:41:06.242 --> 00:41:12.002] LOG: The tetryon emissions in cargo bay four have ceased, and there have been no further indications of alien intrusions.
+[00:41:12.482 --> 00:41:14.962] LOG: All Enterprise crewmembers are safe and accounted for.
+[00:41:15.762 --> 00:41:18.802] LOG: But we are still left with some unanswered questions.
+[00:41:19.122 --> 00:41:26.562] DATA: Based on the information gathered by Commander Riker's tricorder, we have determined that the molecular structure of the alien life forms is solanogen-based.
+[00:41:26.802 --> 00:41:30.882] LAFORGE: We think that's why they couldn't come through into our space, as easily as they could take us into theirs.
+[00:41:31.282 --> 00:41:35.362] LAFORGE: They needed to learn how to remodulate their cellular energy states in order to survive in our universe.
+[00:41:35.682 --> 00:41:41.898] DATA: The tricorder readings indicate they created a small pocket of our universe in their laboratory to keep those they abducted alive.
+[00:41:41.898 --> 00:41:44.562] RIKER: Like putting a fish in a bucket of water.
+[00:41:45.442 --> 00:41:49.522] LAFORGE: That's probably what they were trying to do in cargo bay four. Create a pocket of their universe in ours.
+[00:41:49.842 --> 00:41:51.922] PICARD: What can we do to prevent this from happening again?
+[00:41:52.882 --> 00:41:56.242] LAFORGE: It looks like they found us initially by discovering my modified sensor signal.
+[00:41:56.722 --> 00:41:59.442] LAFORGE: We should warn all Starfleet ships not to make that same mistake.
+[00:42:00.002 --> 00:42:03.602] PICARD: Have we any idea what came through the rupture before we were able to shut it down?
+[00:42:04.487 --> 00:42:04.807] DATA: No sir.
+[00:42:05.287 --> 00:42:07.207] DATA: We were unable to track it once it left the cargo bay.
+[00:42:07.767 --> 00:42:09.287] LAFORGE: Maybe it was a probe of some kind.
+[00:42:10.327 --> 00:42:13.447] DATA: Possibly they were simply curious. Explorers like ourselves.
+[00:42:15.767 --> 00:42:17.527] RIKER: Ensign Rager and I were lucky to have escaped.
+[00:42:18.647 --> 00:42:19.607] RIKER: Lieutenant Hagler's dead.
+[00:42:21.047 --> 00:42:24.647] RIKER: Whoever it was sent that thing was more than simply curious.

@@ -1,0 +1,714 @@
+[00:00:01.840 --> 00:00:05.280] LOG: Captain's log, stardate 44429.6.
+[00:00:05.680 --> 00:00:08.320] LOG: We are on a mapping survey near the Cardassian sector.
+[00:00:08.960 --> 00:00:14.320] LOG: It has been nearly a year since a peace treaty ended the long conflict between the Federation and Cardassia.
+[00:00:14.880 --> 00:00:18.480] DATA: Captain, we are nearing the periphery of Sector twenty one five oh three.
+[00:00:21.360 --> 00:00:23.360] PICARD: Be on the lookout for a Cardassian patrol ship, Mister Worf.
+[00:00:23.360 --> 00:00:24.240] PICARD: They should be hailing us soon.
+[00:00:24.800 --> 00:00:27.360] RIKER: Even with a treaty, they're still skittish about protecting their border.
+[00:00:29.200 --> 00:00:34.960] PICARD: Last time I was in this sector, I was on the Stargazer, running at warp speed ahead of a Cardassian warship.
+[00:00:35.520 --> 00:00:36.240] TROI: Running, Captain?
+[00:00:36.800 --> 00:00:37.200] TROI: You?
+[00:00:37.360 --> 00:00:38.240] TROI: That's hard to believe.
+[00:00:38.880 --> 00:00:39.360] PICARD: Believe it.
+[00:00:41.040 --> 00:00:43.200] PICARD: I'd been sent to make preliminary overtures to a truce.
+[00:00:43.520 --> 00:00:46.080] PICARD: I'd lowered my shields as a gesture of good will. But
+[00:00:47.680 --> 00:00:49.280] PICARD: the Cardassians were not impressed.
+[00:00:49.920 --> 00:00:54.400] PICARD: They had taken out most of my weapons and damaged the impulse engines before I could regroup and run.
+[00:00:54.960 --> 00:00:56.720] WORF: The Cardassians have no honour.
+[00:00:58.000 --> 00:00:59.040] WORF: I do not trust them.
+[00:00:59.760 --> 00:01:01.360] TROI: They're our allies now, Mister Worf.
+[00:01:01.440 --> 00:01:02.400] TROI: We have to trust them.
+[00:01:02.960 --> 00:01:05.600] WORF: Trust is earned, not given away.
+[00:01:07.520 --> 00:01:11.200] PICARD: I hope their scout ship makes contact soon.
+[00:01:11.200 --> 00:01:15.680] PICARD: It's not a good idea to stay too long on a Cardassian border without making your intentions known.
+[00:01:23.600 --> 00:01:23.760] O'BRIEN: What
+[00:01:24.640 --> 00:01:25.120] O'BRIEN: is it?
+[00:01:26.400 --> 00:01:26.880] KEIKO: Kelp
+[00:01:26.943 --> 00:01:29.023] KEIKO: buds, plankton loaf and sea berries.
+[00:01:35.263 --> 00:01:35.663] O'BRIEN: Sweetheart,
+[00:01:37.343 --> 00:01:38.063] O'BRIEN: I'm not a fish.
+[00:01:38.943 --> 00:01:39.903] KEIKO: It's very healthy.
+[00:01:39.903 --> 00:01:41.823] KEIKO: I had this every morning when I was growing up.
+[00:01:41.973 --> 00:01:42.573] O'BRIEN: What?
+[00:01:43.423 --> 00:01:47.088] O'BRIEN: No muffins or oatmeal, or corned beef and eggs?
+[00:01:47.088 --> 00:01:47.903] KEIKO: For breakfast?
+[00:01:49.343 --> 00:01:49.663] O'BRIEN: Keiko,
+[00:01:50.703 --> 00:01:51.343] O'BRIEN: I've been thinking
+[00:01:52.623 --> 00:01:55.583] O'BRIEN: You've been introducing me to all this wonderful food that you're accustomed to.
+[00:01:56.703 --> 00:01:57.503] O'BRIEN: I'd like to do the same.
+[00:01:58.463 --> 00:01:59.423] O'BRIEN: Isn't that what marriage is about?
+[00:01:59.983 --> 00:02:00.463] O'BRIEN: Sharing?
+[00:02:01.103 --> 00:02:02.303] KEIKO: What kind of foods?
+[00:02:03.583 --> 00:02:06.783] O'BRIEN: Scalloped potatoes, mutton shanks, oxtails and cabbage.
+[00:02:07.823 --> 00:02:08.543] KEIKO: Kind of heavy.
+[00:02:09.183 --> 00:02:09.903] O'BRIEN: Oh, you'll love it,
+[00:02:09.903 --> 00:02:10.623] O'BRIEN: I promise.
+[00:02:12.543 --> 00:02:15.103] O'BRIEN: I can still remember the aromas when my mother was cooking.
+[00:02:16.383 --> 00:02:17.103] KEIKO: She cooked?
+[00:02:17.903 --> 00:02:19.263] O'BRIEN: She didn't believe in a replicator.
+[00:02:19.983 --> 00:02:21.983] O'BRIEN: She thought real food was more nutritious.
+[00:02:22.463 --> 00:02:24.383] KEIKO: She handled real meat?
+[00:02:24.543 --> 00:02:25.983] KEIKO: She touched it and cut it?
+[00:02:26.623 --> 00:02:28.863] O'BRIEN: Yeah, like a master chef. She was fantastic.
+[00:02:29.503 --> 00:02:31.663] O'BRIEN: Of course, I'll have to use the replicator, but
+[00:02:32.783 --> 00:02:34.223] O'BRIEN: I'll make something special for you tonight.
+[00:02:35.103 --> 00:02:35.983] O'BRIEN: You'll love it, I promise.
+[00:02:37.263 --> 00:02:37.663] KEIKO: Okay.
+[00:02:38.783 --> 00:02:40.783] KEIKO: Maybe I'll have something special for you, tonight, too.
+[00:02:42.783 --> 00:02:42.863] O'BRIEN: Something's
+[00:02:46.463 --> 00:02:46.703] O'BRIEN: wrong.
+[00:02:47.183 --> 00:02:47.843] COMPUTER: Red alert.
+[00:02:48.063 --> 00:02:49.823] COMPUTER: Take emergency stations.
+[00:02:52.063 --> 00:02:54.063] WORF: Cardassian ship preparing to fire again, sir.
+[00:02:54.623 --> 00:02:55.983] PICARD: Increase power to forward shields.
+[00:02:59.131 --> 00:02:59.931] PICARD: Hail them again, Mister Worf.
+[00:03:00.251 --> 00:03:01.131] RIKER: What the hell is he doing?
+[00:03:01.131 --> 00:03:01.851] RIKER: Damage report.
+[00:03:02.651 --> 00:03:03.851] WORF: Minor damage to secondary hull
+[00:03:03.851 --> 00:03:05.451] WORF: before we put our shields up, sir.
+[00:03:06.011 --> 00:03:06.651] WORF: No casualties.
+[00:03:06.971 --> 00:03:08.171] WORF: Structural integrity intact.
+[00:03:08.491 --> 00:03:09.531] LAFORGE: Engineering to Bridge.
+[00:03:10.011 --> 00:03:11.531] LAFORGE: Starboard power coupling is down.
+[00:03:17.531 --> 00:03:18.891] PICARD: Evasive action, delta sequence.
+[00:03:18.891 --> 00:03:19.931] PICARD: Ready phasers, Mister Worf.
+[00:03:20.571 --> 00:03:22.011] DATA: Delta evasion plan initiated.
+[00:03:22.571 --> 00:03:24.171] PICARD: Limit targets to engines and shields.
+[00:03:24.491 --> 00:03:24.811] WORF: Aye, sir.
+[00:03:26.251 --> 00:03:26.491] WORF: Ready.
+[00:03:27.771 --> 00:03:27.931] PICARD: Fire.
+[00:03:32.251 --> 00:03:32.971] DATA: Direct hit, sir.
+[00:03:33.291 --> 00:03:35.371] DATA: Moderate damage to their aft shield generators.
+[00:03:35.771 --> 00:03:36.731] PICARD: Continue phaser fire.
+[00:03:39.451 --> 00:03:40.171] DATA: Multiple hits, sir.
+[00:03:40.731 --> 00:03:42.731] DATA: Power failure in forward shields.
+[00:03:42.731 --> 00:03:45.371] WORF: The Cardassian ship is standing down, sir.
+[00:03:48.171 --> 00:03:50.811] PICARD: Let's see if they'll answer our hail now, Mister Worf.
+[00:03:51.211 --> 00:03:51.931] WORF: Frequency open.
+[00:03:52.811 --> 00:03:55.691] PICARD: This is Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:03:57.691 --> 00:04:01.851] MACET: I am Gul Macet of the Cardassian ship Trager.
+[00:04:02.891 --> 00:04:03.931] PICARD: Why have you fired on us?
+[00:04:04.811 --> 00:04:07.611] MACET: A curious question, Captain.
+[00:04:07.611 --> 00:04:09.771] MACET: In war, one attacks one's enemies.
+[00:04:10.971 --> 00:04:12.491] PICARD: There is a treaty between our peoples.
+[00:04:13.291 --> 00:04:21.531] MACET: Perhaps that fact was unknown to the Federation starship which destroyed our space station in the Cuellar System two days ago.
+[00:04:22.251 --> 00:04:23.291] PICARD: A Federation starship?
+[00:04:24.171 --> 00:04:24.571] MACET: Attacked
+[00:04:25.417 --> 00:04:27.577] MACET: an unarmed science station.
+[00:04:28.377 --> 00:04:33.497] MACET: They had barely enough time to send an emergency signal before they were incinerated.
+[00:04:34.617 --> 00:04:35.097] PICARD: Gul Macet
+[00:04:36.217 --> 00:04:42.937] PICARD: the Federation and the Cardassians have struggled too hard for peace to abandon it so easily.
+[00:04:43.497 --> 00:04:47.177] MACET: We are not the ones who abandoned it, Captain.
+[00:04:48.297 --> 00:04:49.497] PICARD: Let me talk to my superiors,
+[00:04:49.497 --> 00:04:50.617] PICARD: find out what's behind this.
+[00:04:52.617 --> 00:04:53.337] PICARD: Give me one hour.
+[00:04:55.017 --> 00:05:01.097] PICARD: The alternative is for us to continue firing at one other, and in such a contest, you would be at a disadvantage.
+[00:05:04.377 --> 00:05:04.777] MACET: Very well.
+[00:05:07.257 --> 00:05:08.857] MACET: One hour.
+[00:05:40.217 --> 00:05:42.937] PICARD: Space, the final frontier.
+[00:05:44.857 --> 00:05:47.737] PICARD: These are the voyagers of the Starship Enterprise.
+[00:05:48.777 --> 00:05:52.537] PICARD: Its continuing mission to explore strange new worlds.
+[00:05:54.020 --> 00:05:56.820] PICARD: To seek out new life and new civilizations, to
+[00:05:58.660 --> 00:06:01.300] PICARD: boldly go where no one has gone before.
+[00:06:31.000 --> 00:06:41.000] [music]
+[00:07:00.580 --> 00:07:02.740] HADEN: Captain, we've confirmed your report.
+[00:07:03.780 --> 00:07:07.140] HADEN: It was the starship Phoenix, under the command of Benjamin Maxwell.
+[00:07:08.500 --> 00:07:12.340] PICARD: Ben Maxwell? But he's one of Starfleet's finest captains.
+[00:07:13.700 --> 00:07:14.900] PICARD: He must have had provocation.
+[00:07:15.460 --> 00:07:16.180] HADEN: I wish we knew.
+[00:07:17.060 --> 00:07:18.260] HADEN: He's gone on silent running.
+[00:07:18.500 --> 00:07:19.860] HADEN: Doesn't answer our communiqués.
+[00:07:20.340 --> 00:07:21.860] PICARD: Then he's still in Cardassian space?
+[00:07:22.340 --> 00:07:25.460] HADEN: The station he destroyed was in sector twenty one five oh five.
+[00:07:26.589 --> 00:07:27.629] HADEN: You're the nearest starship.
+[00:07:28.109 --> 00:07:29.629] HADEN: We want you to go in and find him.
+[00:07:31.629 --> 00:07:33.229] PICARD: Will the Cardassians cooperate?
+[00:07:33.709 --> 00:07:35.149] HADEN: They've granted you safe passage.
+[00:07:36.109 --> 00:07:39.549] HADEN: We've agreed that you'll take along a delegation of observers as a show of good faith.
+[00:07:42.749 --> 00:07:43.309] HADEN: Jean-Luc,
+[00:07:44.829 --> 00:07:50.829] HADEN: I don't have to tell you the Federation is not prepared for a new sustained conflict.
+[00:07:51.789 --> 00:07:55.949] HADEN: You must preserve the peace, no matter what the cost.
+[00:07:59.229 --> 00:07:59.789] HADEN: Haden out.
+[00:08:07.229 --> 00:08:10.109] PICARD: There will be three Cardassians transporting aboard.
+[00:08:10.509 --> 00:08:12.589] PICARD: Their Captain, Gul Macet and two of his aides.
+[00:08:12.589 --> 00:08:14.669] PICARD: My intention is to be as open as possible with them,
+[00:08:15.149 --> 00:08:17.913] PICARD: allow them to share in our search for the Phoenix.
+[00:08:17.913 --> 00:08:18.189] WORF: Sir,
+[00:08:18.669 --> 00:08:21.069] WORF: it is necessary to assign them a security detail.
+[00:08:21.949 --> 00:08:22.909] PICARD: They're our guests, Mister Worf.
+[00:08:23.149 --> 00:08:24.349] PICARD: I don't want them to feel like prisoners.
+[00:08:24.749 --> 00:08:26.349] RIKER: I tend to agree with Mister Worf, Captain.
+[00:08:26.349 --> 00:08:28.109] RIKER: I think we should limit their access while they're on board.
+[00:08:28.109 --> 00:08:29.309] RIKER: They don't need to have the run of the ship.
+[00:08:29.789 --> 00:08:33.389] WORF: At least allow me to post guards in some of the sensitive areas of the ship.
+[00:08:34.669 --> 00:08:36.109] PICARD: Very well, let's limit their access.
+[00:08:36.189 --> 00:08:40.429] PICARD: But you instruct your people they are guests.
+[00:08:41.149 --> 00:08:41.389] WORF: Aye, sir.
+[00:08:41.869 --> 00:08:43.869] PICARD: Counsellor, I want you to stay as close to the crew as possible.
+[00:08:43.949 --> 00:08:48.029] PICARD: Some of them may feel uncomfortable with Cardassians on board.
+[00:08:48.029 --> 00:08:49.229] PICARD: I don't want any incidents.
+[00:08:49.629 --> 00:08:50.109] TROI: Yes, Captain.
+[00:08:51.149 --> 00:08:55.149] PICARD: Mister Data, is there anyone else on board who served previously with Captain Benjamin Maxwell?
+[00:08:55.789 --> 00:08:56.189] DATA: Accessing.
+[00:08:58.942 --> 00:09:01.502] DATA: Chief O'Brien served under his command aboard the Rutledge, sir.
+[00:09:02.702 --> 00:09:03.182] PICARD: Indeed.
+[00:09:05.502 --> 00:09:11.422] PICARD: Number One, will you and the Counsellor meet our guests in Transporter room three? And inform Chief O'Brien I will be calling on him.
+[00:09:11.902 --> 00:09:12.142] RIKER: Yes, sir.
+[00:09:20.062 --> 00:09:21.182] RIKER: Welcome to the Enterprise.
+[00:09:21.502 --> 00:09:22.782] RIKER: I'm First Officer William Riker,
+[00:09:23.022 --> 00:09:24.542] RIKER: Counsellor Deanna Troi.
+[00:09:25.662 --> 00:09:26.622] MACET: I am Gul Macet.
+[00:09:27.742 --> 00:09:31.102] MACET: My aides, Glinn Daro, Glinn Telle.
+[00:09:32.942 --> 00:09:34.702] RIKER: This is our Transporter Chief, Mister O'Brien.
+[00:09:38.302 --> 00:09:38.622] RIKER: Shall
+[00:09:54.942 --> 00:09:55.342] RIKER: we?
+[00:09:55.342 --> 00:09:56.382] LOG: Captain's Log, supplemental.
+[00:09:56.862 --> 00:09:58.382] LOG: We have entered Cardassian territory,
+[00:09:58.542 --> 00:10:01.022] LOG: and are proceeding on our quest to locate the Phoenix.
+[00:10:02.142 --> 00:10:05.182] LAFORGE: And with long range sensors, we've been scanning a radius of ten light years.
+[00:10:06.462 --> 00:10:08.702] LAFORGE: We can effectively scan one sector in a day.
+[00:10:09.102 --> 00:10:12.302] RIKER: We're scanning Sector twenty one five oh five now. There's still no sign of the Phoenix.
+[00:10:12.942 --> 00:10:17.262] MACET: In fact, you have no assurance that the ship is still in Sector twenty one five oh five.
+[00:10:17.582 --> 00:10:20.782] RIKER: In fact, we have no idea where it is.
+[00:10:21.342 --> 00:10:24.542] RIKER: We thought the last known coordinates were a reasonably good place to start.
+[00:10:26.416 --> 00:10:27.376] MACET: Captain Picard,
+[00:10:28.976 --> 00:10:31.696] MACET: you can understand that we are sceptical.
+[00:10:32.896 --> 00:10:38.176] MACET: Do you expect us to believe that you are using every means at your disposal to track down one of your own?
+[00:10:39.296 --> 00:10:41.696] PICARD: Of course you are concerned, Gul Macet.
+[00:10:42.576 --> 00:10:46.736] PICARD: It is precisely because of that fact that I have included you in every aspect of our effort.
+[00:10:47.536 --> 00:10:53.776] PICARD: You're present with my staff. You're hearing reports as I hear them, nothing edited, nothing withheld.
+[00:10:55.536 --> 00:10:56.480] MACET: Very well.
+[00:10:56.480 --> 00:11:00.256] PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell.
+[00:11:00.336 --> 00:11:03.456] PICARD: I thought that he might be able to provide some insights.
+[00:11:04.336 --> 00:11:10.096] PICARD: Mister O'Brien, I understand that Captain Maxwell lost his family during a raid on an outpost.
+[00:11:10.896 --> 00:11:11.856] O'BRIEN: More like sabotage, sir.
+[00:11:12.976 --> 00:11:14.336] O'BRIEN: It was on Setlik Three.
+[00:11:15.296 --> 00:11:18.416] O'BRIEN: A squad of Cardassian militia made a sneak raid on an outpost,
+[00:11:19.216 --> 00:11:20.816] O'BRIEN: wiped out close to a hundred civilians.
+[00:11:21.456 --> 00:11:23.136] MACET: Then it's revenge he's after.
+[00:11:23.776 --> 00:11:24.576] O'BRIEN: That's not what I meant.
+[00:11:25.056 --> 00:11:28.176] MACET: Maxwell is taking retribution for his own loss.
+[00:11:28.416 --> 00:11:30.096] O'BRIEN: Captain Maxwell would never
+[00:11:30.096 --> 00:11:32.976] PICARD: Gentlemen, please, let's not indulge in speculation.
+[00:11:33.536 --> 00:11:36.256] PICARD: Can we confine our discussion to facts?
+[00:11:36.896 --> 00:11:37.696] PICARD: Now, Mister O'Brien
+[00:11:37.936 --> 00:11:39.056] WORF: Worf to Captain Picard.
+[00:11:40.816 --> 00:11:41.456] PICARD: Go ahead, Mister Worf.
+[00:11:41.936 --> 00:11:44.016] WORF: Long range sensors have located the Phoenix.
+[00:11:45.376 --> 00:11:47.296] PICARD: Gul Macet, will you join me on the Bridge?
+[00:12:03.907 --> 00:12:04.467] O'BRIEN: Deck six.
+[00:12:06.467 --> 00:12:07.107] DARO: Deck ten.
+[00:12:16.467 --> 00:12:18.467] DARO: Your Captain is most impressive.
+[00:12:20.787 --> 00:12:21.427] O'BRIEN: Yes, he is.
+[00:12:23.107 --> 00:12:29.027] DARO: Chief O'Brien, our Transporting system is still operating with active feed pattern buffers.
+[00:12:30.067 --> 00:12:32.707] DARO: I would like to talk with you about your technology.
+[00:12:33.747 --> 00:12:35.747] O'BRIEN: I'll have to get Commander La Forge's approval on that.
+[00:12:36.867 --> 00:12:37.267] DARO: I understand.
+[00:12:39.827 --> 00:12:42.947] DARO: In the meantime, we're going to your Ten Forward.
+[00:12:43.667 --> 00:12:44.387] DARO: Will you join us?
+[00:12:47.187 --> 00:12:51.827] O'BRIEN: If my Commander tells me to discuss the Transporter with you, I will.
+[00:12:53.107 --> 00:12:57.187] O'BRIEN: If Captain Picard orders me to tell you everything I know about Ben Maxwell, I will.
+[00:12:59.267 --> 00:13:03.427] O'BRIEN: But who I choose to spend my free time with, that's my business.
+[00:13:16.307 --> 00:13:19.747] DATA: Captain, the Phoenix in Sector twenty one five oh five.
+[00:13:20.178 --> 00:13:22.257] PICARD: Ensign, set a course, warp six.
+[00:13:22.578 --> 00:13:24.257] PICARD: Mister Worf, send a message by subspace.
+[00:13:24.498 --> 00:13:25.698] PICARD: Tell them to prepare for a rendezvous.
+[00:13:26.017 --> 00:13:26.578] WORF: Yes, Captain.
+[00:13:27.298 --> 00:13:28.897] MACET: Captain, a suggestion.
+[00:13:29.458 --> 00:13:29.777] PICARD: Yes?
+[00:13:30.818 --> 00:13:34.017] MACET: We have a number of ships in sector twenty one five oh five.
+[00:13:35.137 --> 00:13:44.257] MACET: If you will give us more precise coordinates and the ship's coded transponder frequency, we would be able to intercept Maxwell far more quickly than you.
+[00:13:45.298 --> 00:13:46.098] PICARD: I'm sure that's true.
+[00:13:47.137 --> 00:13:51.698] PICARD: However, given the circumstances, I would prefer to make the initial contact myself.
+[00:13:52.338 --> 00:13:54.897] PICARD: I'm sure you would, if the situation were reversed.
+[00:13:54.897 --> 00:13:57.377] MACET: Captain, time is crucial.
+[00:13:58.418 --> 00:14:02.178] MACET: You have a dangerous man out there with a huge arsenal at his command.
+[00:14:03.137 --> 00:14:08.818] MACET: If he is intent on revenge against my people he must be stopped before he can do more damage.
+[00:14:08.978 --> 00:14:11.298] PICARD: Captain, so far we have an isolated incident.
+[00:14:11.298 --> 00:14:14.738] PICARD: If I can reach him first, then perhaps diplomacy can prevail.
+[00:14:14.738 --> 00:14:20.738] PICARD: But if one of your ships decides to retaliate, there is a danger we could lose control of the situation.
+[00:14:21.058 --> 00:14:24.338] MACET: Then you will not give us the means to find his precise location?
+[00:14:25.537 --> 00:14:31.777] PICARD: No. I won't.
+[00:14:33.458 --> 00:14:33.858] O'BRIEN: There you are.
+[00:14:34.098 --> 00:14:38.017] O'BRIEN: Potato casserole. A dish fit for kings.
+[00:14:38.167 --> 00:14:40.028] O'BRIEN: The minstrel boy to the war has gone
+[00:14:40.178 --> 00:14:41.218] KEIKO: What's
+[00:14:47.218 --> 00:14:47.938] KEIKO: that you're singing?
+[00:14:48.498 --> 00:14:48.498] O'BRIEN: What?
+[00:14:49.777 --> 00:14:50.738] O'BRIEN: Oh, it's just an old song.
+[00:14:52.917 --> 00:14:54.917] O'BRIEN: A bunch of us used to sing it together on the Rutledge.
+[00:14:56.117 --> 00:14:57.637] O'BRIEN: I hadn't thought about it in years
+[00:14:58.277 --> 00:14:58.997] KEIKO: What's it about?
+[00:14:59.797 --> 00:15:03.077] O'BRIEN: Oh, it's about war and glory.
+[00:15:05.637 --> 00:15:08.917] O'BRIEN: The minstrel boy to the war has gone.
+[00:15:09.877 --> 00:15:13.237] O'BRIEN: In the ranks of death you will find him.
+[00:15:14.597 --> 00:15:22.037] O'BRIEN: His father's sword he hath girded on. And his wild harp slung behind him.
+[00:15:24.117 --> 00:15:25.397] O'BRIEN: Captain Maxwell always liked that song.
+[00:15:27.157 --> 00:15:30.037] O'BRIEN: I guess it's all this business with him and the Cardassians brought it back to me.
+[00:15:32.437 --> 00:15:39.637] O'BRIEN: You know, sitting with the staff this morning, I could tell there were people in that room who still don't like the Cardassians.
+[00:15:40.757 --> 00:15:42.437] KEIKO: I imagine that's to be expected.
+[00:15:43.077 --> 00:15:43.397] O'BRIEN: You do?
+[00:15:44.037 --> 00:15:45.797] KEIKO: Sure. The war lasted a long time.
+[00:15:45.797 --> 00:15:47.157] KEIKO: That takes its toll on people.
+[00:15:47.157 --> 00:15:48.917] KEIKO: What are these little dark things?
+[00:15:49.397 --> 00:15:49.877] O'BRIEN: Capers.
+[00:15:51.637 --> 00:15:52.757] O'BRIEN: But the fighting is over now.
+[00:15:53.717 --> 00:15:56.837] O'BRIEN: Why should anyone still feel however they feel?
+[00:15:57.397 --> 00:15:59.077] KEIKO: You fought the Cardassians, didn't you?
+[00:15:59.957 --> 00:16:03.157] O'BRIEN: Well, there were some skirmishes, when I was with Captain Maxwell.
+[00:16:04.197 --> 00:16:05.797] KEIKO: Well, how do you feel about them?
+[00:16:06.517 --> 00:16:06.677] O'BRIEN: Me?
+[00:16:09.077 --> 00:16:09.637] O'BRIEN: I feel fine.
+[00:16:10.677 --> 00:16:11.797] O'BRIEN: I mean, the war's over now.
+[00:16:11.947 --> 00:16:12.547] PICARD: The
+[00:16:18.517 --> 00:16:19.557] PICARD: pursuing ship is the Phoenix.
+[00:16:20.277 --> 00:16:20.677] MACET: And the other?
+[00:16:22.510 --> 00:16:24.430] DATA: It appears it be a Cardassian supply ship.
+[00:16:25.470 --> 00:16:26.270] MACET: How would you know that?
+[00:16:27.870 --> 00:16:29.390] PICARD: We are able to make that determination.
+[00:16:30.270 --> 00:16:32.510] MACET: You can read our transponder codes.
+[00:16:33.390 --> 00:16:35.870] PICARD: The important thing at the moment is that one of your ships may be in jeopardy.
+[00:16:36.590 --> 00:16:38.990] PICARD: Mister Worf, has there been any answer to our communication?
+[00:16:39.630 --> 00:16:40.110] WORF: No, Captain.
+[00:16:40.910 --> 00:16:43.070] PICARD: Put out a repeating message on all subspace channels,
+[00:16:43.150 --> 00:16:44.270] PICARD: priority one communiqué.
+[00:16:44.430 --> 00:16:45.870] PICARD: Break off your pursuit immediately.
+[00:16:46.270 --> 00:16:46.670] WORF: Aye, sir.
+[00:16:47.710 --> 00:16:50.190] PICARD: Gul Macet, you see we are doing everything in our power to reach the Phoenix.
+[00:16:50.990 --> 00:16:52.590] MACET: Yes, and accomplishing nothing,
+[00:16:52.590 --> 00:16:53.550] MACET: I'm sorry to say.
+[00:16:54.750 --> 00:16:57.350] MACET: Can you show me the location of our other ships?
+[00:16:57.350 --> 00:16:57.870] PICARD: Mister Data.
+[00:17:01.150 --> 00:17:05.070] MACET: There, you see? We have a warship which could intercept the Phoenix before it's too late.
+[00:17:05.710 --> 00:17:13.550] MACET: If you will give us the transponder frequency. Or are you going to stand there while our ship is destroyed, Captain?
+[00:17:20.510 --> 00:17:23.710] PICARD: Mister Worf, has there been any response to our hails?
+[00:17:25.870 --> 00:17:26.350] WORF: No, Captain.
+[00:17:31.790 --> 00:17:32.190] PICARD: Very well.
+[00:17:35.070 --> 00:17:35.550] PICARD: Mister Worf,
+[00:17:36.830 --> 00:17:38.830] PICARD: relay
+[00:17:42.510 --> 00:17:45.783] PICARD: the prefix codes of the Phoenix to the Cardassian warship.
+[00:17:45.783 --> 00:17:46.110] WORF: Sir,
+[00:17:46.670 --> 00:17:48.750] WORF: they will be able to dismantle its shields.
+[00:17:49.790 --> 00:17:51.310] WORF: The Phoenix will not have a chance.
+[00:17:52.068 --> 00:17:54.548] PICARD: I cannot allow Maxwell to ambush that supply ship.
+[00:17:57.588 --> 00:17:57.988] PICARD: Mister Worf,
+[00:17:58.148 --> 00:17:58.468] PICARD: now.
+[00:18:00.868 --> 00:18:01.348] WORF: Yes, Captain.
+[00:18:15.348 --> 00:18:18.228] DATA: Sir, the Cardassian warship is moving on the Phoenix.
+[00:18:18.308 --> 00:18:18.788] PICARD: Mister Data,
+[00:18:19.668 --> 00:18:21.188] PICARD: overlay weapon ranges of the two ships.
+[00:18:21.188 --> 00:18:21.268] DATA: The
+[00:18:23.508 --> 00:18:25.988] DATA: warship is three hundred thousand kilometres from the Phoenix.
+[00:18:26.628 --> 00:18:27.508] DATA: It is opening fire.
+[00:18:27.668 --> 00:18:30.068] DATA: The Phoenix has taken a direct hit.
+[00:18:31.748 --> 00:18:33.748] DATA: The Phoenix is beginning evasive manoeuvres.
+[00:18:34.868 --> 00:18:37.828] DATA: It has positioned itself outside the weapons range of the opposing ship.
+[00:18:40.308 --> 00:18:43.268] DATA: The Phoenix has powered up both phasers and photon torpedoes.
+[00:18:43.418 --> 00:18:44.018] DATA: The
+[00:18:46.628 --> 00:18:48.468] DATA: Phoenix is firing photon torpedoes.
+[00:18:52.228 --> 00:18:55.668] MACET: He has destroyed our warship.
+[00:18:58.308 --> 00:18:59.748] PICARD: Does the supply ship have any weapons?
+[00:19:02.468 --> 00:19:03.108] MACET: Very limited.
+[00:19:04.388 --> 00:19:07.188] MACET: Certainly not enough to defeat a Nebula class starship.
+[00:19:07.588 --> 00:19:09.198] DATA: Sir, the Phoenix is firing on the
+[00:19:09.198 --> 00:19:09.428] MACET: The
+[00:19:13.268 --> 00:19:13.748] MACET: warship
+[00:19:13.828 --> 00:19:15.348] MACET: carried a crew of six hundred, the
+[00:19:16.788 --> 00:19:18.548] MACET: supply ship, fifty.
+[00:19:20.816 --> 00:19:20.976] PICARD: Mister
+[00:19:20.976 --> 00:19:22.976] PICARD: Data estimated time to intercept with the Phoenix.
+[00:19:23.856 --> 00:19:27.296] DATA: At our present speed of warp four, sixteen hours, forty four minutes.
+[00:19:27.856 --> 00:19:28.896] PICARD: Ensign, increase to warp nine.
+[00:19:45.296 --> 00:19:45.716] O'BRIEN: Captain.
+[00:19:45.716 --> 00:19:48.656] PICARD: Chief. I wanted to talk to you.
+[00:19:49.376 --> 00:19:50.416] O'BRIEN: Anything I can do, sir,
+[00:19:50.416 --> 00:19:50.896] O'BRIEN: you know that.
+[00:19:51.216 --> 00:19:52.016] PICARD: Ben Maxwell.
+[00:19:53.216 --> 00:19:54.096] PICARD: He must be quite a man.
+[00:19:54.736 --> 00:19:55.616] O'BRIEN: He's a rare one, all right.
+[00:19:57.056 --> 00:19:58.096] O'BRIEN: I count myself lucky, sir.
+[00:19:58.896 --> 00:20:00.976] O'BRIEN: I've served with the two finest Captains in Starfleet.
+[00:20:00.976 --> 00:20:00.976] PICARD: From your
+[00:20:03.776 --> 00:20:04.576] PICARD: knowledge of the man,
+[00:20:06.096 --> 00:20:06.816] PICARD: what has gone wrong?
+[00:20:08.176 --> 00:20:09.376] O'BRIEN: There's a reason for what he's doing.
+[00:20:10.336 --> 00:20:11.856] O'BRIEN: Those Cardassians were up to something,
+[00:20:11.856 --> 00:20:12.336] O'BRIEN: I'm sure of it.
+[00:20:13.856 --> 00:20:17.456] PICARD: When his family was killed, how did he take it?
+[00:20:18.416 --> 00:20:19.536] O'BRIEN: I'd say he took it well.
+[00:20:20.416 --> 00:20:22.176] O'BRIEN: Oh, I know he was broken up inside,
+[00:20:22.496 --> 00:20:23.056] O'BRIEN: who wouldn't be?
+[00:20:23.936 --> 00:20:25.136] O'BRIEN: But you'd never know it to see him.
+[00:20:26.656 --> 00:20:27.776] O'BRIEN: He never missed a minute's duty,
+[00:20:28.256 --> 00:20:30.256] O'BRIEN: always had a smile, a joke.
+[00:20:31.536 --> 00:20:32.336] PICARD: I see.
+[00:20:32.896 --> 00:20:36.176] O'BRIEN: He would never retaliate out of vengeance, no matter what that Cardassian says.
+[00:20:37.296 --> 00:20:38.096] O'BRIEN: They're up to something, sir.
+[00:20:39.376 --> 00:20:41.616] O'BRIEN: They're the ones you should be investigating, not Captain Maxwell.
+[00:20:42.336 --> 00:20:43.536] PICARD: You don't care for the Cardassians?
+[00:20:45.296 --> 00:20:46.016] O'BRIEN: I like them fine.
+[00:20:47.616 --> 00:20:48.016] O'BRIEN: It's just,
+[00:20:49.160 --> 00:20:49.720] O'BRIEN: well, I know them.
+[00:20:50.760 --> 00:20:53.240] O'BRIEN: You learn to watch your back when you're around those people.
+[00:20:54.360 --> 00:20:57.640] PICARD: Ben Maxwell has just sent more than six hundred of them to their deaths.
+[00:20:57.960 --> 00:21:00.760] O'BRIEN: I don't know what to say, sir,
+[00:21:02.840 --> 00:21:04.040] O'BRIEN: but he must have had his reasons.
+[00:21:07.240 --> 00:21:07.640] PICARD: I think
+[00:21:09.240 --> 00:21:14.360] PICARD: when one has been angry for a very long time, one gets used to it. And it becomes comfortable, like
+[00:21:15.880 --> 00:21:16.600] PICARD: old leather.
+[00:21:18.680 --> 00:21:19.480] PICARD: And, finally, it
+[00:21:21.960 --> 00:21:25.240] PICARD: becomes so familiar that one can't ever remember feeling any other way.
+[00:21:26.600 --> 00:21:28.920] PICARD: Thank you, Chief.
+[00:21:49.080 --> 00:21:50.080] DARO: Kanar.
+[00:21:50.080 --> 00:21:51.080] O'BRIEN: Mind
+[00:21:56.200 --> 00:21:58.760] O'BRIEN: if I join you?
+[00:21:58.910 --> 00:21:59.510] DARO: Do
+[00:22:02.440 --> 00:22:03.080] DARO: you want another?
+[00:22:05.800 --> 00:22:06.440] DARO: And an ale.
+[00:22:10.280 --> 00:22:10.760] O'BRIEN: Kanar. I
+[00:22:12.200 --> 00:22:13.320] O'BRIEN: never could develop a taste for it.
+[00:22:13.320 --> 00:22:13.480] DARO: It
+[00:22:15.960 --> 00:22:17.320] DARO: takes a bit of getting used to.
+[00:22:20.840 --> 00:22:21.880] O'BRIEN: I wanted to say
+[00:22:23.736 --> 00:22:24.616] O'BRIEN: I owe you an apology.
+[00:22:24.616 --> 00:22:27.976] O'BRIEN: I shouldn't have popped off like that in the turbolift.
+[00:22:28.936 --> 00:22:29.302] DARO: I think
+[00:22:29.302 --> 00:22:30.216] WAITER: Here's your ale, Mister O'Brien.
+[00:22:32.776 --> 00:22:34.616] DARO: This has been hard on all of us.
+[00:22:36.216 --> 00:22:38.296] DARO: I know I'll be happy when I'm back on my own ship.
+[00:22:40.136 --> 00:22:40.616] O'BRIEN: I guess that's true.
+[00:22:41.736 --> 00:22:42.376] O'BRIEN: I hadn't thought of it like that.
+[00:22:46.216 --> 00:22:50.456] O'BRIEN: I was on Setlik three with Captain Maxwell the morning after the massacre.
+[00:22:50.606 --> 00:22:51.206] O'BRIEN: We
+[00:22:53.816 --> 00:22:54.616] O'BRIEN: were too late, of course.
+[00:22:58.216 --> 00:22:59.176] O'BRIEN: Almost everyone was dead.
+[00:23:00.456 --> 00:23:01.816] DARO: That was a terrible mistake.
+[00:23:03.656 --> 00:23:08.296] DARO: We were told the outpost was a launching place for a massive attack against us.
+[00:23:11.496 --> 00:23:12.776] O'BRIEN: The only people left alive
+[00:23:14.376 --> 00:23:16.136] O'BRIEN: were in an outlying district of the settlement.
+[00:23:17.016 --> 00:23:18.856] O'BRIEN: I was sent there with a squad to reinforce them.
+[00:23:21.256 --> 00:23:22.776] O'BRIEN: Cardassians were advancing on us,
+[00:23:24.456 --> 00:23:26.936] O'BRIEN: moving through the streets, destroying, killing.
+[00:23:29.256 --> 00:23:33.176] O'BRIEN: I was with a group of women and children when two Cardassian soldiers burst in.
+[00:23:35.016 --> 00:23:35.896] O'BRIEN: I stunned one of them.
+[00:23:37.496 --> 00:23:38.216] O'BRIEN: The other jumped me.
+[00:23:39.576 --> 00:23:40.136] O'BRIEN: We struggled.
+[00:23:41.816 --> 00:23:44.456] O'BRIEN: One of the women threw me a phaser, and I fired.
+[00:23:55.816 --> 00:23:56.776] O'BRIEN: The phaser was set
+[00:23:56.866 --> 00:23:57.426] O'BRIEN: at maximum.
+[00:23:59.506 --> 00:23:59.986] O'BRIEN: The man just
+[00:24:01.986 --> 00:24:04.866] O'BRIEN: incinerated, there before my eyes.
+[00:24:07.986 --> 00:24:09.426] O'BRIEN: I'd never killed anything before.
+[00:24:11.026 --> 00:24:14.946] O'BRIEN: When I was a kid, I'd worry about swatting a mosquito.
+[00:24:22.066 --> 00:24:23.666] O'BRIEN: It's not you I hate, Cardassian.
+[00:24:25.426 --> 00:24:28.386] O'BRIEN: I hate what I became because of you.
+[00:24:39.746 --> 00:24:41.266] TELLE: I will protest this, Klingon!
+[00:24:42.626 --> 00:24:42.958] PICARD: Lieutenant?
+[00:24:42.958 --> 00:24:49.266] WORF: He was found at a computer station on deck thirty five, attempting to access information on our weapon systems.
+[00:24:49.826 --> 00:24:50.866] TELLE: A lie, Gul Macet.
+[00:24:51.506 --> 00:24:53.506] TELLE: I was studying the terminal interface systems.
+[00:24:53.986 --> 00:24:55.266] TELLE: They're more efficient than ours.
+[00:24:55.506 --> 00:24:57.506] TELLE: I have no idea what was in the files.
+[00:25:01.346 --> 00:25:04.546] MACET: What business did you have going near one of their computers?
+[00:25:04.696 --> 00:25:05.296] TELLE: But,
+[00:25:07.826 --> 00:25:08.306] TELLE: Gul Macet,
+[00:25:08.306 --> 00:25:10.066] TELLE: I meant nothing.
+[00:25:10.306 --> 00:25:11.346] TELLE: There was no harm done.
+[00:25:11.746 --> 00:25:12.706] MACET: Go to your quarters.
+[00:25:14.386 --> 00:25:17.186] MACET: You are confined there for the duration of this expedition.
+[00:25:18.466 --> 00:25:20.546] TELLE: As you wish, sir.
+[00:25:23.167 --> 00:25:23.407] PICARD: Mister
+[00:25:23.407 --> 00:25:24.287] PICARD: Worf, please accompany him.
+[00:25:25.327 --> 00:25:26.047] WORF: Gladly, Captain.
+[00:25:35.567 --> 00:25:36.047] MACET: Captain,
+[00:25:38.287 --> 00:25:39.327] MACET: may we speak in private?
+[00:25:41.087 --> 00:25:41.967] PICARD: You have the Bridge, Number One.
+[00:25:52.367 --> 00:25:56.287] MACET: I deeply regret what my aide has done, Captain.
+[00:25:57.407 --> 00:26:00.687] MACET: You have my word he will be disciplined upon my return.
+[00:26:00.927 --> 00:26:03.647] PICARD: You may take whatever action against him you feel is appropriate.
+[00:26:03.647 --> 00:26:04.927] PICARD: I consider the matter closed.
+[00:26:05.567 --> 00:26:09.247] MACET: I'm not sure I would be so generous in your place, Captain.
+[00:26:09.647 --> 00:26:10.047] MACET: Thank you.
+[00:26:11.327 --> 00:26:17.407] PICARD: If there is to be a lasting peace, Gul Macet, neither you nor I must allow any one man to undermine our efforts.
+[00:26:27.327 --> 00:26:28.767] MACET: There are those who
+[00:26:30.287 --> 00:26:33.647] MACET: crave war, who need it.
+[00:26:35.247 --> 00:26:36.687] MACET: I am not one of them, Captain,
+[00:26:38.047 --> 00:26:39.247] MACET: and I'm beginning to see
+[00:26:41.327 --> 00:26:42.127] MACET: that neither are you.
+[00:26:43.247 --> 00:26:45.087] MACET: We have had our full measure.
+[00:26:46.127 --> 00:26:48.207] MACET: The lasting peace begins here,
+[00:26:49.807 --> 00:26:51.007] MACET: with the two of us.
+[00:26:52.207 --> 00:26:52.847] DATA: Bridge to Captain.
+[00:26:54.047 --> 00:26:54.527] PICARD: Picard here.
+[00:26:55.543 --> 00:26:56.583] DATA: We have located the Phoenix, sir.
+[00:26:57.063 --> 00:26:58.823] DATA: We will intercept it in twenty two minutes.
+[00:27:09.383 --> 00:27:12.423] LOG: Captain's log, stardate 44431.7.
+[00:27:12.663 --> 00:27:16.503] LOG: We have established communication with Captain Maxwell, and he has agreed to come on board.
+[00:27:22.743 --> 00:27:23.543] RIKER: Welcome aboard, sir.
+[00:27:24.023 --> 00:27:25.303] RIKER: I'm Commander Riker, First Officer.
+[00:27:26.023 --> 00:27:27.383] MAXWELL: I know all about you, Commander.
+[00:27:28.103 --> 00:27:29.463] MAXWELL: Fine work you did with the Borg.
+[00:27:29.463 --> 00:27:31.463] MAXWELL: We all owe you on that one.
+[00:27:31.543 --> 00:27:31.943] RIKER: Thank you, sir.
+[00:27:33.223 --> 00:27:35.863] MAXWELL: O'Brien? Miles O'Brien?
+[00:27:36.823 --> 00:27:37.383] O'BRIEN: Hello, Captain.
+[00:27:38.103 --> 00:27:38.823] O'BRIEN: Good to see you again.
+[00:27:38.823 --> 00:27:39.783] MAXWELL: How are you?
+[00:27:40.343 --> 00:27:42.503] MAXWELL: I had no idea you were on the Enterprise.
+[00:27:42.823 --> 00:27:44.983] MAXWELL: This was my Tactical Officer on the Rutledge.
+[00:27:45.143 --> 00:27:46.103] MAXWELL: Best I ever had.
+[00:27:46.343 --> 00:27:46.743] O'BRIEN: Thank you, sir.
+[00:27:47.303 --> 00:27:54.023] MAXWELL: O'Brien has the ability to size up a situation instantly, then come up with options to fit all contingencies.
+[00:27:54.343 --> 00:27:54.983] MAXWELL: Remarkable.
+[00:27:54.983 --> 00:27:56.503] O'BRIEN: Well, if that's true, I learned it from you, sir.
+[00:27:58.103 --> 00:28:00.263] MAXWELL: But you got that silver tongue by kissing the stone, right?
+[00:28:00.263 --> 00:28:00.823] MAXWELL: Well,
+[00:28:03.783 --> 00:28:05.783] MAXWELL: Commander, best I see your Captain straight away.
+[00:28:07.863 --> 00:28:08.903] MAXWELL: We've got a lot to talk about.
+[00:28:09.703 --> 00:28:10.103] RIKER: Yes, sir.
+[00:28:25.783 --> 00:28:26.903] RIKER: Captain Jean-Luc Picard.
+[00:28:27.783 --> 00:28:28.903] RIKER: Captain Benjamin Maxwell.
+[00:28:30.265 --> 00:28:30.905] PICARD: That'll be all, Commander.
+[00:28:34.185 --> 00:28:34.505] PICARD: Captain.
+[00:28:34.905 --> 00:28:35.785] MAXWELL: A pleasure, Captain.
+[00:28:36.425 --> 00:28:36.985] PICARD: Please, sit down.
+[00:28:41.145 --> 00:28:42.665] MAXWELL: You must think I've gone mad.
+[00:28:46.265 --> 00:28:46.985] PICARD: The thought had occurred.
+[00:28:48.905 --> 00:28:54.345] MAXWELL: Picard, I have to tell you I was grateful when I realised it was you Starfleet sent after me.
+[00:28:54.665 --> 00:28:56.665] MAXWELL: Somebody who knows what it's really like out here.
+[00:28:56.985 --> 00:29:00.105] PICARD: I know of nothing out here that could possibly justify what you have done.
+[00:29:01.465 --> 00:29:02.345] MAXWELL: Then listen to this.
+[00:29:04.505 --> 00:29:06.025] MAXWELL: The Cardassians are arming again.
+[00:29:06.825 --> 00:29:10.985] MAXWELL: That so-called science station? Military supply port.
+[00:29:12.105 --> 00:29:12.745] PICARD: How do you know this?
+[00:29:13.865 --> 00:29:15.065] MAXWELL: Information comes my way.
+[00:29:15.625 --> 00:29:15.945] PICARD: From whom?
+[00:29:17.145 --> 00:29:18.185] PICARD: Where is your documentation?
+[00:29:18.505 --> 00:29:19.945] MAXWELL: I know what they're doing.
+[00:29:21.385 --> 00:29:22.185] MAXWELL: I can smell it.
+[00:29:25.065 --> 00:29:28.025] MAXWELL: There's no good reason for a science station in the Cuellar System,
+[00:29:29.145 --> 00:29:35.545] MAXWELL: but it's a hell of a strategic site for a military transport station. A jumping-off point into three Federation sectors.
+[00:29:36.505 --> 00:29:41.145] MAXWELL: They're running supply ships back and forth and nobody's going to tell me it's for scientific research.
+[00:29:41.785 --> 00:29:45.465] PICARD: But whatever circumstances you encountered, why didn't you notify Starfleet?
+[00:29:45.615 --> 00:29:46.215] MAXWELL: And
+[00:29:47.385 --> 00:29:52.185] MAXWELL: wait six months while the bureaucrats sit around reading reports, trying to figure out what to do?
+[00:29:54.185 --> 00:29:56.025] MAXWELL: They don't know what's going on out here.
+[00:29:59.145 --> 00:30:00.265] MAXWELL: But you should, Picard.
+[00:30:01.705 --> 00:30:03.385] MAXWELL: You know what it's like to be under fire.
+[00:30:04.321 --> 00:30:05.121] PICARD: You weren't under fire.
+[00:30:05.521 --> 00:30:07.041] MAXWELL: Lives were at stake.
+[00:30:07.361 --> 00:30:07.921] PICARD: Whose lives?
+[00:30:08.161 --> 00:30:09.521] MAXWELL: We had to act now.
+[00:30:10.241 --> 00:30:10.481] PICARD: Why?
+[00:30:10.631 --> 00:30:11.231] MAXWELL: It
+[00:30:15.361 --> 00:30:16.241] MAXWELL: smells musty in here.
+[00:30:19.041 --> 00:30:20.561] MAXWELL: Like a bureaucrat's office.
+[00:30:21.361 --> 00:30:26.801] PICARD: You have killed nearly seven hundred people and you have taken us to the brink of war.
+[00:30:26.881 --> 00:30:31.201] MAXWELL: I have prevented war, or at the very least delayed it a good long time.
+[00:30:32.801 --> 00:30:36.881] MAXWELL: The peace treaty was a ruse, to give them breathing room, time to regroup.
+[00:30:36.961 --> 00:30:39.441] PICARD: And so all alone you decided to dispose of the treaty.
+[00:30:39.921 --> 00:30:40.961] MAXWELL: I took the initiative.
+[00:30:41.921 --> 00:30:43.281] MAXWELL: I did what had to be done.
+[00:30:43.761 --> 00:30:46.081] PICARD: What had to be done?
+[00:30:46.641 --> 00:30:46.961] PICARD: For whom?
+[00:30:48.721 --> 00:30:58.001] PICARD: Why does a man with a long and brilliant service abandon the fundamental principles that he has believed in, even fought for, all his life?
+[00:31:00.401 --> 00:31:04.561] PICARD: I believe it is because of what they did to your wife and your children.
+[00:31:05.041 --> 00:31:05.361] MAXWELL: Not true.
+[00:31:05.681 --> 00:31:06.401] MAXWELL: Not true.
+[00:31:06.481 --> 00:31:07.521] PICARD: To avenge their deaths.
+[00:31:14.161 --> 00:31:15.201] MAXWELL: You're a fool, Picard.
+[00:31:17.681 --> 00:31:20.801] MAXWELL: History will look at you and say this man was a fool.
+[00:31:22.641 --> 00:31:24.625] PICARD: I'll accept the judgement of history.
+[00:31:24.625 --> 00:31:27.601] MAXWELL: When it becomes clear what the Cardassians have done,
+[00:31:28.881 --> 00:31:30.001] MAXWELL: I will be vindicated.
+[00:31:31.513 --> 00:31:34.233] PICARD: What the Cardassians have or have not done is irrelevant.
+[00:31:34.313 --> 00:31:35.113] MAXWELL: Irrelevant?
+[00:31:37.513 --> 00:31:41.833] MAXWELL: Come with me. Find one of their supply ships and we'll see how irrelevant it is.
+[00:31:43.993 --> 00:31:45.913] PICARD: We're not going after any more Cardassian ships.
+[00:31:47.753 --> 00:31:48.873] PICARD: You're going to return to your bridge
+[00:31:51.273 --> 00:31:53.353] PICARD: and set a course for Starbase two one one.
+[00:31:55.673 --> 00:31:58.473] PICARD: The Phoenix and the Enterprise will return to Federation space together.
+[00:31:59.193 --> 00:32:00.313] PICARD: Those are Starfleet's orders.
+[00:32:02.793 --> 00:32:08.473] PICARD: I will permit you the dignity of retaining your command during the voyage.
+[00:32:10.153 --> 00:32:15.433] PICARD: The only alternative is to put you in the brig and to tow your ship back to starbase in disgrace.
+[00:32:22.153 --> 00:32:23.273] MAXWELL: I will return to my ship.
+[00:32:24.313 --> 00:32:25.193] PICARD: You understand your orders?
+[00:32:27.753 --> 00:32:28.473] MAXWELL: Yes, Captain.
+[00:32:30.713 --> 00:32:30.953] PICARD: Mister
+[00:32:30.953 --> 00:32:31.913] PICARD: Worf, report to my Ready room.
+[00:32:33.033 --> 00:32:34.233] PICARD: My guest is departing.
+[00:32:34.793 --> 00:32:35.193] WORF: Aye, sir.
+[00:32:46.393 --> 00:32:47.593] LOG: Captain's log, supplemental.
+[00:32:47.913 --> 00:32:51.833] LOG: With the Phoenix in close formation, we are proceeding directly to Starbase two one one.
+[00:32:53.353 --> 00:32:55.433] PICARD: Mister Data, how long until we clear Cardassian space?
+[00:32:56.153 --> 00:32:56.633] DATA: At our present
+[00:32:56.435 --> 00:32:58.195] DATA: speed, three hours, twenty minutes, sir.
+[00:32:58.915 --> 00:33:00.995] PICARD: Mister Worf, send a message to Admiral Haden at Starfleet.
+[00:33:01.475 --> 00:33:03.395] PICARD: Inform him of our projected time of arrival.
+[00:33:03.875 --> 00:33:04.275] WORF: Aye, sir.
+[00:33:06.035 --> 00:33:08.195] DATA: Captain, the Phoenix has changed course.
+[00:33:14.115 --> 00:33:15.235] MACET: What is he doing?
+[00:33:16.115 --> 00:33:17.395] PICARD: Ensign, change course to pursue.
+[00:33:19.635 --> 00:33:21.715] PICARD: Mister Worf, will you hail Captain Maxwell?
+[00:33:22.115 --> 00:33:24.755] WORF: No response, sir.
+[00:33:25.475 --> 00:33:26.755] RIKER: Data, project his new course.
+[00:33:27.875 --> 00:33:32.275] DATA: Sir, the Phoenix is heading directly for a Cardassian vessel point one two light years from our location.
+[00:33:32.595 --> 00:33:35.075] MACET: He'll attack that ship just as he did the others.
+[00:33:35.395 --> 00:33:36.435] PICARD: Continue the hail, Mister Worf.
+[00:33:36.835 --> 00:33:37.875] PICARD: Priority one message.
+[00:33:40.275 --> 00:33:41.155] PICARD: Do you know what that ship might be?
+[00:33:42.995 --> 00:33:44.355] MACET: I imagine it's a supply ship,
+[00:33:45.075 --> 00:33:47.395] MACET: headed for the research station in the Kelrabi system.
+[00:33:48.275 --> 00:33:50.195] WORF: The Phoenix still does not respond, sir.
+[00:33:50.995 --> 00:33:52.195] PICARD: Ensign, warp eight. Overtake him.
+[00:33:53.235 --> 00:33:55.875] DATA: Captain, the Phoenix has accelerated to warp nine.
+[00:33:56.435 --> 00:33:59.155] DATA: We will not be able to reach him before he intercepts the Cardassian ship.
+[00:33:59.635 --> 00:34:00.275] PICARD: Ensign, warp nine.
+[00:34:00.915 --> 00:34:01.155] ENSIGN: Aye, sir.
+[00:34:02.275 --> 00:34:03.235] PICARD: Mister Worf, arm phasers.
+[00:34:03.235 --> 00:34:04.035] PICARD: Continue the hail.
+[00:34:04.355 --> 00:34:04.675] WORF: Aye, sir.
+[00:34:06.275 --> 00:34:08.515] RIKER: Captain, Chief O'Brien was Maxwell's Tactical officer.
+[00:34:09.315 --> 00:34:09.795] PICARD: Get him up here.
+[00:34:15.875 --> 00:34:16.035] DATA: Sir,
+[00:34:16.035 --> 00:34:17.235] DATA: the Phoenix has dropped out of warp.
+[00:34:17.795 --> 00:34:19.555] DATA: They have reached the Cardassian vessel.
+[00:34:19.875 --> 00:34:20.595] RIKER: Slow to impulse.
+[00:34:21.315 --> 00:34:22.755] WORF: Vessels are within visual range.
+[00:34:23.324 --> 00:34:23.804] PICARD: On screen.
+[00:34:24.764 --> 00:34:24.844] RIKER: Has the
+[00:34:27.244 --> 00:34:28.364] RIKER: Phoenix activated its weapon systems?
+[00:34:29.164 --> 00:34:29.644] DATA: Negative, sir.
+[00:34:29.884 --> 00:34:31.724] DATA: Their phaser banks are not armed.
+[00:34:31.724 --> 00:34:32.748] RIKER: What about the Cardassians?
+[00:34:32.748 --> 00:34:33.004] DATA: Our
+[00:34:33.564 --> 00:34:37.244] DATA: sensors are unable to determine status of the Cardassian defensive systems.
+[00:34:37.884 --> 00:34:40.284] DATA: Their ship is running with a high powered subspace field.
+[00:34:42.924 --> 00:34:44.924] PICARD: Mister
+[00:34:44.924 --> 00:34:45.164] PICARD: O'Brien,
+[00:34:46.844 --> 00:34:51.084] PICARD: your former Commander, a Federation Captain, is about to place me in the position of firing on his ship.
+[00:34:51.484 --> 00:34:56.044] PICARD: I need your knowledge of the man. How he thinks, what he's capable of doing.
+[00:34:56.684 --> 00:34:57.364] O'BRIEN: Aye, sir.
+[00:34:57.364 --> 00:34:59.404] WORF: Sir, Captain Maxwell is hailing us.
+[00:35:00.284 --> 00:35:01.164] PICARD: On screen.
+[00:35:03.724 --> 00:35:04.444] MAXWELL: All right, Picard.
+[00:35:05.404 --> 00:35:05.964] MAXWELL: You need proof?
+[00:35:06.844 --> 00:35:08.391] MAXWELL: You've got it now.
+[00:35:08.391 --> 00:35:09.164] PICARD: Captain Maxwell,
+[00:35:09.484 --> 00:35:11.004] PICARD: you have disobeyed a direct order.
+[00:35:11.244 --> 00:35:12.044] MAXWELL: Board the ship,
+[00:35:12.924 --> 00:35:14.764] MAXWELL: you'll see that everything I've been saying is true.
+[00:35:15.724 --> 00:35:17.804] PICARD: The Cardassian vessel will not be boarded.
+[00:35:19.004 --> 00:35:21.244] PICARD: You will transport yourself aboard the Enterprise
+[00:35:21.724 --> 00:35:26.604] MAXWELL: Picard, if you don't board that ship, I'll destroy it.
+[00:35:28.204 --> 00:35:32.604] PICARD: And I will use whatever force is necessary to prevent you from taking that action, Captain.
+[00:35:37.324 --> 00:35:39.644] O'BRIEN: Sir, Captain Maxwell,
+[00:35:39.724 --> 00:35:42.364] O'BRIEN: if he feels his back is to the wall, he'll strike.
+[00:35:43.084 --> 00:35:46.044] DATA: Captain, the Phoenix is transferring power to its shields.
+[00:35:46.524 --> 00:35:48.764] WORF: They're arming phasers and loading forward torpedo bays.
+[00:35:49.404 --> 00:35:50.764] PICARD: Red alert. It seems
+[00:35:50.764 --> 00:35:51.404] PICARD: you were right, Mister
+[00:35:51.404 --> 00:35:51.724] PICARD: O'Brien.
+[00:35:52.204 --> 00:35:53.324] PICARD: Ready phasers, load torpedoes.
+[00:35:53.804 --> 00:35:54.364] WORF: Phasers armed.
+[00:35:54.921 --> 00:35:56.772] WORF: Loading forward and aft torpedo bays.
+[00:35:56.772 --> 00:35:57.081] O'BRIEN: Sir,
+[00:35:57.721 --> 00:35:58.361] O'BRIEN: let me beam over.
+[00:35:59.001 --> 00:35:59.641] O'BRIEN: Try to talk to him.
+[00:36:00.761 --> 00:36:02.041] O'BRIEN: We served together a long time.
+[00:36:02.921 --> 00:36:05.641] O'BRIEN: When you've been through what we have, you tend to get inside someone.
+[00:36:06.361 --> 00:36:06.921] O'BRIEN: He might listen.
+[00:36:07.641 --> 00:36:09.801] RIKER: He'd never drop his shields and allow you to transport on board.
+[00:36:10.441 --> 00:36:12.681] O'BRIEN: The Phoenix is using a high energy sensor system.
+[00:36:13.241 --> 00:36:15.321] O'BRIEN: It cycles every five point five minutes.
+[00:36:15.321 --> 00:36:17.801] O'BRIEN: Between cycles there's a window of a fiftieth of a second.
+[00:36:18.601 --> 00:36:19.641] O'BRIEN: Trust me, I can get through.
+[00:36:21.241 --> 00:36:21.721] PICARD: Make it so.
+[00:36:31.481 --> 00:36:32.121] MAXWELL: Not now!
+[00:36:39.161 --> 00:36:41.161] O'BRIEN: I'm not armed.
+[00:36:41.161 --> 00:36:42.361] MAXWELL: How the devil did you get over here?
+[00:36:43.881 --> 00:36:47.801] O'BRIEN: I had the thought that if we could talk we could figure a way out of this mess.
+[00:36:48.121 --> 00:36:49.641] MAXWELL: The way out of this is clear.
+[00:36:50.281 --> 00:36:51.161] MAXWELL: Talk to Picard.
+[00:36:51.961 --> 00:36:53.801] MAXWELL: Get him to board the damned ship.
+[00:36:53.881 --> 00:36:54.841] O'BRIEN: He won't do that, sir.
+[00:36:55.481 --> 00:36:58.761] MAXWELL: But he'd turn his weapons on a Federation Starship to protect the enemy?
+[00:36:59.641 --> 00:37:00.361] MAXWELL: I don't believe it.
+[00:37:00.761 --> 00:37:01.241] O'BRIEN: He will.
+[00:37:02.041 --> 00:37:03.001] O'BRIEN: Count on it.
+[00:37:04.761 --> 00:37:07.392] MAXWELL: What the hell has happened to this war?
+[00:37:07.392 --> 00:37:07.721] O'BRIEN: Sir,
+[00:37:09.961 --> 00:37:11.961] O'BRIEN: there is no war.
+[00:37:13.721 --> 00:37:14.521] O'BRIEN: The war is over.
+[00:37:18.521 --> 00:37:19.081] MAXWELL: You're wrong.
+[00:37:20.441 --> 00:37:21.641] MAXWELL: The Cardassians live
+[00:37:21.726 --> 00:37:22.446] MAXWELL: to make war.
+[00:37:23.566 --> 00:37:25.246] O'BRIEN: That's what everybody thinks about the enemy.
+[00:37:26.446 --> 00:37:28.206] O'BRIEN: That's probably what they think about us.
+[00:37:28.686 --> 00:37:29.646] MAXWELL: We're not the same at all.
+[00:37:30.286 --> 00:37:31.646] MAXWELL: We do not start wars.
+[00:37:34.526 --> 00:37:37.086] MAXWELL: We do not make surprise attacks on manned outposts.
+[00:37:38.766 --> 00:37:41.246] MAXWELL: We do not butcher women and children in their homes.
+[00:37:43.246 --> 00:37:43.726] MAXWELL: Children
+[00:37:47.886 --> 00:37:49.486] MAXWELL: who never got the chance to grow up.
+[00:37:57.246 --> 00:37:58.366] MAXWELL: You were with me on Setlick.
+[00:37:59.646 --> 00:38:00.766] MAXWELL: You saw what they did.
+[00:38:02.046 --> 00:38:02.366] O'BRIEN: Yes, sir.
+[00:38:03.086 --> 00:38:05.086] MAXWELL: What
+[00:38:09.326 --> 00:38:11.966] MAXWELL: was the name of the fellow who always hung around you like a puppy?
+[00:38:13.726 --> 00:38:14.286] O'BRIEN: Will Kayden.
+[00:38:17.806 --> 00:38:18.446] O'BRIEN: Stompie.
+[00:38:19.166 --> 00:38:19.966] MAXWELL: Stompie.
+[00:38:21.326 --> 00:38:21.566] MAXWELL: As
+[00:38:22.846 --> 00:38:26.526] MAXWELL: cool under fire as a mountain lake.
+[00:38:27.006 --> 00:38:27.566] O'BRIEN: Yes, sir.
+[00:38:34.926 --> 00:38:36.126] MAXWELL: He died at Setlick, didn't he?
+[00:38:38.286 --> 00:38:38.606] O'BRIEN: Yes, sir.
+[00:38:44.366 --> 00:38:45.646] MAXWELL: What was that song of his?
+[00:38:46.526 --> 00:38:47.886] MAXWELL: The one he always sang, the one I liked?
+[00:38:49.326 --> 00:38:51.886] O'BRIEN: The minstrel
+[00:38:52.304 --> 00:39:00.144] O'BRIEN: boy to the war has gone. In the ranks of death you will find
+[00:39:02.784 --> 00:39:02.784] O'BRIEN: him.
+[00:39:02.784 --> 00:39:13.824] BOTH: His father's sword he hath girded on and his wild harp slung behind him.
+[00:39:14.624 --> 00:39:26.064] BOTH: Land of song, said the warrior bard, tho' all the world betrays thee.
+[00:39:26.864 --> 00:39:33.264] BOTH: One sword at least thy rights shall guard.
+[00:39:33.264 --> 00:39:38.064] O'BRIEN: One faithful harp shall praise thee.
+[00:39:50.544 --> 00:39:53.904] MAXWELL: I'm not going to win this one, am I. Chief?
+[00:39:57.424 --> 00:39:57.744] O'BRIEN: No, sir.
+[00:40:05.984 --> 00:40:07.184] LOG: Captain's log, supplemental.
+[00:40:07.504 --> 00:40:10.144] LOG: Captain Maxwell has turned his ship over to his First Officer and
+[00:40:10.464 --> 00:40:14.864] LOG: transported aboard the Enterprise. I have confined him to quarters for the return voyage.
+[00:40:16.544 --> 00:40:16.864] PICARD: Thank you, Chief.
+[00:40:20.464 --> 00:40:23.104] O'BRIEN: I'd just like to say, sir, he was a good man.
+[00:40:24.144 --> 00:40:25.184] O'BRIEN: What he did was terribly wrong,
+[00:40:25.184 --> 00:40:25.824] O'BRIEN: I know that now,
+[00:40:26.835 --> 00:40:28.115] O'BRIEN: but I'm still proud to have served with him.
+[00:40:30.755 --> 00:40:31.395] PICARD: Thank you, Chief,
+[00:40:32.675 --> 00:40:33.315] PICARD: and well done.
+[00:40:33.955 --> 00:40:34.355] PICARD: That'll be all.
+[00:40:39.235 --> 00:40:44.435] MACET: His loyalty is admirable, even if it is misplaced.
+[00:40:48.275 --> 00:40:52.355] PICARD: The loyalty you would so quickly dismiss does not come easily to my people, Gul Macet.
+[00:40:54.115 --> 00:40:55.555] PICARD: You have much to learn about us.
+[00:40:56.755 --> 00:40:59.715] PICARD: Benjamin Maxwell earned the loyalty of those who served with him.
+[00:41:02.275 --> 00:41:03.235] PICARD: You know, in war,
+[00:41:04.755 --> 00:41:09.715] PICARD: he was twice honoured with the Federation's highest citation for courage and valour.
+[00:41:11.795 --> 00:41:16.595] PICARD: And if he could not find a role for himself in peace, we can pity him,
+[00:41:18.355 --> 00:41:19.875] PICARD: but we shall not dismiss him.
+[00:41:20.915 --> 00:41:23.235] MACET: You are welcome to your opinion, Captain.
+[00:41:24.035 --> 00:41:27.795] MACET: I, for one, am grateful he is under lock and key.
+[00:41:29.395 --> 00:41:30.595] PICARD: One more thing, Macet.
+[00:41:33.875 --> 00:41:34.915] PICARD: Maxwell was right.
+[00:41:36.035 --> 00:41:39.075] PICARD: Those ships were not carrying scientific equipment, were they?
+[00:41:40.515 --> 00:41:45.155] PICARD: A research station within arm's reach of three Federation sectors?
+[00:41:46.515 --> 00:41:50.995] PICARD: Cargo ships running with high energy subspace fields that jam sensors?
+[00:41:52.812 --> 00:41:56.092] MACET: If you believed the transport ship was carrying weapons, Captain,
+[00:41:57.772 --> 00:41:59.852] MACET: why didn't you board it as Maxwell requested?
+[00:42:02.732 --> 00:42:04.012] PICARD: I was here to protect the peace.
+[00:42:05.532 --> 00:42:09.772] PICARD: A peace that I firmly believe is in the interests of both our peoples.
+[00:42:09.772 --> 00:42:16.172] PICARD: If I had attempted to board that ship I am quite certain that you and I would not be having this pleasant conversation,
+[00:42:17.692 --> 00:42:20.732] PICARD: and that ships on both sides would now be arming for war.
+[00:42:21.612 --> 00:42:23.372] MACET: Captain, I assure you.
+[00:42:23.532 --> 00:42:26.172] PICARD: Take this message to your leaders, Gul Macet.
+[00:42:27.692 --> 00:42:28.652] PICARD: We'll be watching.
+[00:42:49.000 --> 00:43:00.000] [music]
+[00:43:20.000 --> 00:43:38.000] [music]

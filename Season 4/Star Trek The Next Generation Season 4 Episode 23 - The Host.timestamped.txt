@@ -1,0 +1,693 @@
+[00:00:01.120 --> 00:00:05.840] LOG: Doctor Beverly Crusher, personal log, stardate 44821.3.
+[00:00:06.640 --> 00:00:11.440] LOG: Began an analysis today of the respiratory problems being experienced on the beta moon of Peliar Zel.
+[00:00:12.320 --> 00:00:14.400] LOG: Finally got an actual letter from Wesley.
+[00:00:14.880 --> 00:00:18.800] LOG: Topped the class in exo-biology, but he's still struggling in Ancient Philosophies.
+[00:00:19.040 --> 00:00:20.880] LOG: And there's someone new in
+[00:00:31.040 --> 00:00:31.280] LOG: my life.
+[00:00:31.280 --> 00:00:33.120] DATA: Ambassador Odan, Doctor Crusher.
+[00:00:34.320 --> 00:00:35.600] DATA: I was just on my way to speak to you.
+[00:00:36.320 --> 00:00:36.720] CRUSHER: Hello, Data.
+[00:00:37.280 --> 00:00:42.080] DATA: I have completed my study on the atmospheric variations which have occurred on the moon since the new technology was implemented.
+[00:00:42.480 --> 00:00:43.360] ODAN: Thank you, Commander.
+[00:00:43.360 --> 00:00:45.680] ODAN: That will be most helpful in my efforts to mediate the quarrel.
+[00:00:46.240 --> 00:00:47.360] DATA: I could go over it with you now.
+[00:00:47.600 --> 00:00:49.120] DATA: It would not require more than two hours.
+[00:00:49.760 --> 00:00:59.680] CRUSHER: We do appreciate that, Data, but the Ambassador and I have set aside this time to analyse the incidence of the lung disease on the moon's inhabitants.
+[00:01:00.720 --> 00:01:02.080] DATA: Then it is perfect timing, Doctor.
+[00:01:02.400 --> 00:01:05.280] DATA: What better occasion to integrate my results into your study?
+[00:01:09.040 --> 00:01:11.600] ODAN: Now that I think about it, you're absolutely right, Commander.
+[00:01:11.840 --> 00:01:14.640] ODAN: Unfortunately, I'm not feeling very well.
+[00:01:15.520 --> 00:01:19.120] ODAN: Perhaps Doctor Crusher could get you started inputting your information.
+[00:01:19.600 --> 00:01:21.360] ODAN: I myself must return to my quarters.
+[00:01:21.680 --> 00:01:23.840] CRUSHER: Ambassador, are you still having those awful headaches?
+[00:01:24.240 --> 00:01:25.840] CRUSHER: I'd better bring you a hypospray to take
+[00:01:25.864 --> 00:01:26.614] CRUSHER: care of it.
+[00:01:26.614 --> 00:01:27.864] ODAN: I would be most grateful.
+[00:01:28.014 --> 00:01:28.614] CRUSHER: Okay.
+[00:01:32.264 --> 00:01:34.184] CRUSHER: Put a cold cloth on your forehead, Ambassador.
+[00:01:34.584 --> 00:01:36.104] CRUSHER: I'll do my best to be with you shortly.
+[00:01:37.864 --> 00:01:39.624] CRUSHER: I'll set you up at the medical monitor, Data.
+[00:01:39.624 --> 00:01:41.704] CRUSHER: It'll take you a while to input the figures, won't it?
+[00:01:42.024 --> 00:01:42.824] DATA: At least an hour,
+[00:01:42.984 --> 00:01:46.664] DATA: but I do not believe much time can be saved by exhibiting such haste now.
+[00:01:46.744 --> 00:01:49.784] CRUSHER: Data, there are times when every second does count.
+[00:02:51.864 --> 00:02:55.944] PICARD: Space, the final frontier.
+[00:02:57.883 --> 00:03:00.763] PICARD: These are the voyages of the starship Enterprise.
+[00:03:01.803 --> 00:03:05.563] PICARD: Its continuing mission to explore strange new worlds,
+[00:03:07.083 --> 00:03:14.363] PICARD: to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:21.000 --> 00:03:29.000] [music]
+[00:03:43.000 --> 00:03:54.000] [music]
+[00:04:27.323 --> 00:04:29.643] ODAN: Somehow, I had an unnatural fear
+[00:04:29.969 --> 00:04:36.769] ODAN: that Data was going to barge in and ask to discuss the peripheral effects of magnetospheric energy taps.
+[00:04:37.409 --> 00:04:41.409] CRUSHER: Well if I don't get back soon and take a look at his projections, he just might come looking for me.
+[00:04:41.559 --> 00:04:42.159] ODAN: Do
+[00:04:42.929 --> 00:04:45.969] ODAN: you know, when I first met the formidable Doctor
+[00:04:45.969 --> 00:04:54.289] ODAN: Beverly, what, ten days ago? I thought to myself, this woman is ice
+[00:04:55.569 --> 00:04:57.329] ODAN: through to her bones.
+[00:04:57.329 --> 00:04:57.329] ODAN: Who
+[00:04:59.009 --> 00:05:00.049] ODAN: would have ever guessed that
+[00:05:00.289 --> 00:05:01.249] ODAN: instead of ice,
+[00:05:03.089 --> 00:05:04.609] ODAN: there is fire.
+[00:05:09.329 --> 00:05:10.262] CRUSHER: Odan.
+[00:05:10.262 --> 00:05:12.129] ODAN: Stay here,
+[00:05:13.249 --> 00:05:15.116] ODAN: don't go.
+[00:05:15.116 --> 00:05:16.049] CRUSHER: Odan,
+[00:05:16.849 --> 00:05:17.329] CRUSHER: are we?
+[00:05:18.369 --> 00:05:22.609] CRUSHER: Is this interfering with your work on the Peliar Zel problems?
+[00:05:23.969 --> 00:05:26.929] ODAN: Fortunately, I've done about as much as I can until we get there.
+[00:05:27.889 --> 00:05:30.449] ODAN: Because I just can't seem to keep my mind on my work right
+[00:05:32.129 --> 00:05:32.129] ODAN: now.
+[00:05:32.129 --> 00:05:34.209] CRUSHER: Odan,
+[00:05:35.809 --> 00:05:37.969] CRUSHER: I have to go.
+[00:05:38.369 --> 00:05:39.889] ODAN: Promise me we'll be together tonight.
+[00:05:40.209 --> 00:05:41.089] CRUSHER: I promise.
+[00:05:43.089 --> 00:05:47.249] ODAN: Then you may go, Doctor
+[00:05:47.329 --> 00:05:47.489] ODAN: Beverly.
+[00:05:48.129 --> 00:05:49.249] CRUSHER: It's just Beverly.
+[00:05:50.449 --> 00:06:00.689] ODAN: Not just Beverly. It's Beverly's smile, it's her kindness, her beauty within and without. So much more than just Beverly.
+[00:06:00.689 --> 00:06:02.129] PICARD: Picard to Ambassador Odan.
+[00:06:02.628 --> 00:06:03.188] ODAN: Yes, Captain?
+[00:06:03.188 --> 00:06:03.608] ODAN: This is Odan.
+[00:06:03.608 --> 00:06:03.748] PICARD: The
+[00:06:04.228 --> 00:06:06.788] PICARD: Federation representative from Peliar Zel has come on board.
+[00:06:06.948 --> 00:06:08.548] PICARD: Would you care to meet us in the Observation Lounge?
+[00:06:08.868 --> 00:06:09.828] ODAN: I'll be right there, Captain.
+[00:06:17.428 --> 00:06:19.908] PICARD: If the news were encouraging, I assume you would not be here.
+[00:06:20.308 --> 00:06:21.828] LEKA: I'm afraid you're correct, Captain.
+[00:06:21.828 --> 00:06:23.908] LEKA: The situation's growing progressively worse.
+[00:06:25.668 --> 00:06:26.388] TROI: Where've you been?
+[00:06:26.948 --> 00:06:28.788] CRUSHER: With a patient. Minor emergency.
+[00:06:32.468 --> 00:06:33.188] PICARD: Ambassador Odan,
+[00:06:36.788 --> 00:06:38.948] PICARD: this is Governor Leka Trion of Peliar Zel.
+[00:06:39.748 --> 00:06:41.748] LEKA: Ambassador. thank you for coming.
+[00:06:42.148 --> 00:06:42.948] LEKA: I knew your father.
+[00:06:43.508 --> 00:06:46.708] LEKA: His efforts helped keep our people at peace for several generations.
+[00:06:47.108 --> 00:06:48.788] ODAN: I would hope to serve you as well as he.
+[00:06:49.988 --> 00:06:50.948] PICARD: Governor. Ambassador.
+[00:06:56.548 --> 00:06:57.108] DATA: I hope Doctor
+[00:06:57.108 --> 00:06:58.628] DATA: Crusher was able to help you with your headache.
+[00:06:59.508 --> 00:06:59.828] ODAN: Thank you.
+[00:06:59.828 --> 00:07:00.628] ODAN: Actually, she was.
+[00:07:00.788 --> 00:07:05.348] PICARD: Governor Leka has intercepted us before we reach her planet in order to update us on the situation.
+[00:07:05.828 --> 00:07:11.028] LEKA: The people on our moons have been in discord ever since they migrated from our planet five centuries ago.
+[00:07:11.428 --> 00:07:13.908] LEKA: To us on the planet They're like two squabbling children.
+[00:07:14.468 --> 00:07:19.748] LEKA: We try to help settle their arguments by not taking sides, but this time we are at a loss.
+[00:07:20.388 --> 00:07:22.148] ODAN: I've been studying the information you sent.
+[00:07:22.628 --> 00:07:28.228] ODAN: If I understand correctly, the people of Alpha moon have found a way to tap directly into the magnetic field of your planet,
+[00:07:28.722 --> 00:07:30.882] ODAN: and now rely exclusively on that energy source.
+[00:07:31.202 --> 00:07:35.842] LEKA: Yes, but the Beta moon is now suffering some environmental damage as a result.
+[00:07:36.482 --> 00:07:46.322] DATA: My design models suggest that Beta will eventually experience rising temperatures, erratic tide surges and in general the beginnings of global warming.
+[00:07:46.802 --> 00:07:49.362] CRUSHER: The impact on the health of the Betan people is clear.
+[00:07:49.442 --> 00:07:51.922] CRUSHER: There will be profound medical repercussions.
+[00:07:52.402 --> 00:07:55.682] LEKA: Alpha is unwilling to give up its new-found energy source.
+[00:07:56.322 --> 00:07:59.122] LEKA: Beta accuses them of intentionally courting genocide.
+[00:07:59.842 --> 00:08:07.842] LEKA: Our efforts to reach a compromise have failed. And now, we have received intelligence that both sides are arming for war.
+[00:08:08.722 --> 00:08:13.922] LEKA: If that happens the people of my planet will begin to take sides, and the outcome can only be disastrous.
+[00:08:14.242 --> 00:08:16.402] PICARD: We will be in orbit around Peliar Zel within six hours.
+[00:08:16.402 --> 00:08:22.962] PICARD: If you could arrange for the representatives of Alpha and Beta to be there, then Ambassador Odan could beam directly down to the planet.
+[00:08:23.282 --> 00:08:24.322] ODAN: Excuse me, Captain.
+[00:08:24.322 --> 00:08:26.082] ODAN: I prefer to shuttle to the surface.
+[00:08:26.482 --> 00:08:27.362] LEKA: I would not recommend it.
+[00:08:28.402 --> 00:08:30.802] LEKA: There are many radical factions involved in this dispute.
+[00:08:31.442 --> 00:08:33.602] LEKA: It would be difficult to guarantee your safety.
+[00:08:33.842 --> 00:08:37.522] ODAN: I'm sure I'm not the first who has expressed discomfort at the idea of molecular transport.
+[00:08:38.082 --> 00:08:40.162] ODAN: Thank you, but I prefer to remain intact.
+[00:08:40.802 --> 00:08:41.282] ODAN: I'll shuttle down.
+[00:08:42.002 --> 00:08:42.482] PICARD: As you wish.
+[00:08:51.922 --> 00:08:54.802] PICARD: Counsellor, what is it?
+[00:08:54.962 --> 00:08:56.162] TROI: It's Ambassador Odan.
+[00:08:56.802 --> 00:08:58.002] TROI: I continually feel
+[00:08:58.666 --> 00:09:00.666] TROI: fluctuations of emotion from him.
+[00:09:01.386 --> 00:09:02.986] PICARD: Perhaps it's perfectly normal among the Trill.
+[00:09:04.346 --> 00:09:04.826] TROI: It could be.
+[00:09:04.826 --> 00:09:06.506] TROI: We know so very little about them.
+[00:09:06.986 --> 00:09:07.306] PICARD: Yes.
+[00:09:08.346 --> 00:09:08.666] PICARD: Quite.
+[00:09:16.506 --> 00:09:18.506] WOMAN: Hi, Deanna.
+[00:09:18.506 --> 00:09:18.506] TROI: Hi.
+[00:09:30.506 --> 00:09:34.106] TROI: Is that the colgonite astringent you have on your eyes?
+[00:09:37.466 --> 00:09:37.866] CRUSHER: Yes.
+[00:09:37.866 --> 00:09:39.066] CRUSHER: I guess so.
+[00:09:40.186 --> 00:09:41.066] TROI: I've never tried it.
+[00:09:42.906 --> 00:09:43.386] CRUSHER: Someone
+[00:09:44.586 --> 00:09:45.546] CRUSHER: just put it on
+[00:09:46.106 --> 00:09:46.266] CRUSHER: me.
+[00:09:48.506 --> 00:09:50.266] TROI: I didn't know you even came in here.
+[00:09:50.666 --> 00:09:51.066] CRUSHER: I don't.
+[00:09:52.186 --> 00:09:54.506] CRUSHER: At least, not very often.
+[00:09:56.666 --> 00:09:58.986] TROI: But it feels good to indulge yourself sometimes.
+[00:09:59.626 --> 00:10:00.186] CRUSHER: I guess so.
+[00:10:00.586 --> 00:10:02.266] TROI: Especially when you haven't done so in a while.
+[00:10:03.786 --> 00:10:05.226] CRUSHER: What is that supposed to mean?
+[00:10:07.626 --> 00:10:08.186] TROI: Beverly,
+[00:10:09.466 --> 00:10:10.186] TROI: you're in love.
+[00:10:14.106 --> 00:10:16.986] CRUSHER: Sometimes I wish you weren't so empathic
+[00:10:18.906 --> 00:10:20.746] TROI: I don't really think it's really a secret.
+[00:10:22.826 --> 00:10:23.306] CRUSHER: It isn't?
+[00:10:25.226 --> 00:10:26.506] TROI: You've been glowing.
+[00:10:26.656 --> 00:10:27.256] CRUSHER: Oh.
+[00:10:28.186 --> 00:10:29.306] CRUSHER: Must be
+[00:10:31.866 --> 00:10:32.506] CRUSHER: the astringent.
+[00:10:37.520 --> 00:10:37.760] CRUSHER: What?
+[00:10:39.440 --> 00:10:39.760] TROI: Nothing.
+[00:10:41.200 --> 00:10:42.160] CRUSHER: Oh, yes, there is.
+[00:10:42.400 --> 00:10:42.800] CRUSHER: What is it?
+[00:10:46.079 --> 00:10:47.920] TROI: It's just something I sense in Odan.
+[00:10:48.719 --> 00:10:49.040] CRUSHER: What?
+[00:10:49.280 --> 00:10:50.079] CRUSHER: What do you sense?
+[00:10:50.640 --> 00:10:51.280] TROI: It's just,
+[00:10:54.240 --> 00:10:55.440] TROI: how well do you really know him?
+[00:10:56.320 --> 00:10:59.520] CRUSHER: I feel I know him better than I've known anyone in my life.
+[00:11:02.320 --> 00:11:03.280] CRUSHER: Am I being foolish?
+[00:11:03.920 --> 00:11:04.560] CRUSHER: I don't think so.
+[00:11:05.520 --> 00:11:07.920] CRUSHER: And yet, I've only known him for a couple of weeks.
+[00:11:09.600 --> 00:11:11.680] CRUSHER: Of course, that could be infatuation,
+[00:11:12.079 --> 00:11:15.200] CRUSHER: but I am a grown up and I know the difference between love and infatuation.
+[00:11:18.959 --> 00:11:20.479] CRUSHER: All I know is,
+[00:11:22.160 --> 00:11:24.079] CRUSHER: I haven't felt this way for a long time.
+[00:11:24.880 --> 00:11:26.479] TROI: And you like it.
+[00:11:28.000 --> 00:11:28.880] CRUSHER: I like
+[00:11:30.400 --> 00:11:32.400] CRUSHER: it.
+[00:11:39.600 --> 00:11:40.000] PICARD: Come.
+[00:11:41.200 --> 00:11:42.160] ODAN: You wanted to see me, Captain?
+[00:11:42.640 --> 00:11:43.360] PICARD: Yes, Ambassador.
+[00:11:43.440 --> 00:11:44.000] PICARD: Please, sit down.
+[00:11:45.520 --> 00:11:46.640] PICARD: We have entered orbit.
+[00:11:47.120 --> 00:11:49.680] PICARD: We shall be transporting you to the planet in a few minutes.
+[00:11:50.000 --> 00:11:52.120] ODAN: I am ready, Captain.
+[00:11:52.560 --> 00:11:54.800] PICARD: How will you proceed when you're there?
+[00:11:55.200 --> 00:11:56.479] ODAN: Oh, I cannot answer that.
+[00:11:56.560 --> 00:12:00.240] ODAN: I never know until I am into the situation, meet the people involved.
+[00:12:00.880 --> 00:12:03.360] ODAN: I work very much by instinct, not by pre-arranged plan.
+[00:12:03.510 --> 00:12:04.110] PICARD: It
+[00:12:05.940 --> 00:12:07.060] PICARD: seems to work well for you.
+[00:12:07.940 --> 00:12:16.180] ODAN: Well, I do like to go into a situation as well-informed as possible, and I must say that your staff has been quite helpful in briefing me on the problems down here.
+[00:12:18.500 --> 00:12:19.460] ODAN: Particularly Doctor
+[00:12:19.460 --> 00:12:19.780] ODAN: Crusher.
+[00:12:20.900 --> 00:12:22.020] PICARD: My staff is quite capable.
+[00:12:22.100 --> 00:12:22.980] PICARD: I'm glad they've been useful.
+[00:12:23.700 --> 00:12:24.900] ODAN: Your Doctor
+[00:12:24.900 --> 00:12:25.860] ODAN: Beverly is
+[00:12:27.540 --> 00:12:31.220] ODAN: an extraordinary person, both as a scientist and
+[00:12:33.780 --> 00:12:34.260] ODAN: as a woman.
+[00:12:37.060 --> 00:12:38.020] PICARD: Yes, I'm sure that's true.
+[00:12:38.660 --> 00:12:41.180] PICARD: Well, shall we make our way to the shuttlebay?
+[00:12:41.180 --> 00:12:41.460] ODAN: Captain,
+[00:12:41.620 --> 00:12:44.020] ODAN: you know her better than I.
+[00:12:45.220 --> 00:12:49.300] ODAN: Do you have any idea how committed she is to remaining with Starfleet?
+[00:12:51.220 --> 00:12:53.780] PICARD: I wouldn't presume to speak for her.
+[00:12:53.780 --> 00:12:54.500] ODAN: Oh no, of course not.
+[00:12:54.500 --> 00:12:55.380] ODAN: I just thought,
+[00:12:56.340 --> 00:12:59.140] ODAN: well, you've known her so much long than I.
+[00:12:59.140 --> 00:13:00.260] TAGGART: Ensign Taggart to Captain Picard.
+[00:13:00.660 --> 00:13:01.220] PICARD: Yes, Ensign.
+[00:13:01.940 --> 00:13:03.780] TAGGART: The shuttle is ready to transport the Ambassador.
+[00:13:05.060 --> 00:13:05.460] PICARD: Very well.
+[00:13:07.620 --> 00:13:08.340] ODAN: I'll find my own way, Captain.
+[00:13:10.660 --> 00:13:11.860] ODAN: I hope to return with good news.
+[00:13:13.940 --> 00:13:15.060] LAFORGE: Commander
+[00:13:20.580 --> 00:13:22.580] LAFORGE: Riker has asked to pilot you himself, Ambassador.
+[00:13:23.060 --> 00:13:23.460] ODAN: I am honoured.
+[00:13:25.300 --> 00:13:26.260] ODAN: I don't know when I'll be back.
+[00:13:26.740 --> 00:13:27.060] CRUSHER: I know.
+[00:13:27.460 --> 00:13:28.260] CRUSHER: Have a safe trip.
+[00:13:28.580 --> 00:13:29.860] ODAN: I will stay safe, Doctor
+[00:13:29.860 --> 00:13:30.180] ODAN: Beverly.
+[00:13:30.180 --> 00:13:31.540] ODAN: I have good reason to return.
+[00:13:32.660 --> 00:13:34.100] ODAN: I've researched Earth customs.
+[00:13:35.239 --> 00:13:36.999] ODAN: This flower is given to express love.
+[00:13:37.239 --> 00:13:38.199] CRUSHER: Yes, it is.
+[00:13:50.999 --> 00:13:53.079] DATA: Initiate shuttle preflight sequence.
+[00:13:53.639 --> 00:13:54.359] RIKER: Preflight underway.
+[00:13:54.519 --> 00:13:55.159] RIKER: Counting to clearance.
+[00:13:57.559 --> 00:13:58.839] DATA: Shuttle has cleared the bay door.
+[00:13:59.639 --> 00:14:02.599] WORF: Commander Riker, you will be out of shield range in five seconds.
+[00:14:02.759 --> 00:14:04.359] RIKER: Acknowledged Lieutenant.
+[00:14:04.359 --> 00:14:06.839] RIKER: We'll be entering the upper ionosphere in two minutes and twenty seconds.
+[00:14:07.879 --> 00:14:12.039] WORF: Sir, an unidentified ship is emerging from the limb of the moon.
+[00:14:13.159 --> 00:14:13.719] PICARD: Hail the vessel.
+[00:14:14.119 --> 00:14:15.319] RIKER: I have visual contact.
+[00:14:16.039 --> 00:14:16.759] RIKER: I don't recognise it.
+[00:14:17.479 --> 00:14:19.719] WORF: It claims to be an escort vessel from the Beta moon.
+[00:14:20.999 --> 00:14:22.039] PICARD: There was no mention of an escort.
+[00:14:23.159 --> 00:14:24.519] PICARD: Request a security clearance code.
+[00:14:26.679 --> 00:14:27.559] WORF: They do not answer, sir.
+[00:14:30.679 --> 00:14:32.439] PICARD: Commander Riker, prepare to return to the shuttlebay.
+[00:14:32.759 --> 00:14:33.319] RIKER: Acknowledged.
+[00:14:33.799 --> 00:14:35.959] WORF: Captain, they are loading its phaser banks.
+[00:14:36.599 --> 00:14:37.879] RIKER: Increasing power to the shields.
+[00:14:37.959 --> 00:14:39.959] RIKER: Coming
+[00:14:44.999 --> 00:14:46.999] RIKER: about.
+[00:14:46.999 --> 00:14:47.879] PICARD: Engage tractor beam.
+[00:14:48.199 --> 00:14:48.919] PICARD: Report, Number One.
+[00:14:49.319 --> 00:14:51.399] RIKER: We've lost port thrusters And both backup stabilisers.
+[00:14:51.639 --> 00:14:53.079] RIKER: I'm losing control.
+[00:14:53.399 --> 00:14:54.119] PICARD: We're bringing you in.
+[00:14:55.959 --> 00:14:57.959] RIKER: Captain, the
+[00:15:00.039 --> 00:15:01.079] RIKER: shuttle hull has been weakened.
+[00:15:01.079 --> 00:15:01.639] RIKER: We're breaking up.
+[00:15:01.799 --> 00:15:02.519] RIKER: You can't tow us.
+[00:15:02.519 --> 00:15:04.359] RIKER: You'd better beam us directly on board.
+[00:15:04.519 --> 00:15:04.759] ODAN: No,
+[00:15:05.239 --> 00:15:05.719] ODAN: don't do it.
+[00:15:05.953 --> 00:15:07.073] RIKER: I can't stabilise the shuttle.
+[00:15:07.553 --> 00:15:09.313] ODAN: If you transport me, it will kill me.
+[00:15:10.033 --> 00:15:10.433] ODAN: Please.
+[00:15:10.433 --> 00:15:13.633] PICARD: Number One we're ready to beam you aboard.
+[00:15:14.033 --> 00:15:15.073] RIKER: Belay that order, Captain.
+[00:15:15.073 --> 00:15:15.953] RIKER: I'll bring her in manually.
+[00:15:16.513 --> 00:15:17.473] RIKER: Advise Doctor Crusher
+[00:15:17.473 --> 00:15:18.593] RIKER: we have a medical emergency.
+[00:15:24.673 --> 00:15:25.393] CRUSHER: He's in shock,
+[00:15:25.393 --> 00:15:28.433] CRUSHER: he's lost a lot of blood, but that still doesn't explain these readings.
+[00:15:28.433 --> 00:15:32.593] CRUSHER: Eosinophilia in the cerebrospinal fluid at forty six percent.
+[00:15:37.473 --> 00:15:39.073] OGAWA: Sedimentation rate is twenty nine,
+[00:15:39.793 --> 00:15:41.473] OGAWA: but his lymphocytes are still intact.
+[00:15:41.793 --> 00:15:43.153] CRUSHER: It's as though there's a parasite at work.
+[00:15:44.033 --> 00:15:44.513] CRUSHER: Odan,
+[00:15:46.433 --> 00:15:46.753] CRUSHER: Odan.
+[00:15:49.633 --> 00:15:51.313] CRUSHER: I need to do exploratory surgery.
+[00:15:51.553 --> 00:15:53.313] CRUSHER: You may have a parasitic infection.
+[00:15:55.473 --> 00:15:56.353] ODAN: You must not.
+[00:15:57.393 --> 00:15:58.353] CRUSHER: But you won't survive.
+[00:15:58.433 --> 00:15:58.433] CRUSHER: What
+[00:16:04.993 --> 00:16:05.233] CRUSHER: is that?
+[00:16:07.473 --> 00:16:11.313] ODAN: Beverly, that is me.
+[00:16:11.793 --> 00:16:12.033] CRUSHER: What?
+[00:16:13.953 --> 00:16:15.633] ODAN: This body is just a host.
+[00:16:18.113 --> 00:16:19.553] ODAN: I am that parasite.
+[00:16:21.233 --> 00:16:22.913] ODAN: That is what must survive.
+[00:16:32.233 --> 00:16:33.593] ODAN: It has always been this way.
+[00:16:36.873 --> 00:16:43.113] ODAN: The Trill are a joined species. A host and a symbiont,
+[00:16:45.833 --> 00:16:48.633] ODAN: and in this fashion we have survived for millennia.
+[00:16:50.153 --> 00:16:50.793] CRUSHER: You're dying.
+[00:16:51.833 --> 00:16:52.473] CRUSHER: What can I do?
+[00:16:54.953 --> 00:16:57.433] ODAN: The host body is dying.
+[00:16:59.433 --> 00:17:01.273] ODAN: You must contact the Trill quickly.
+[00:17:01.993 --> 00:17:03.753] ODAN: Tell them I need another host.
+[00:17:03.833 --> 00:17:05.113] ODAN: They will send a replacement.
+[00:17:08.633 --> 00:17:10.953] ODAN: I know this is difficult to accept,
+[00:17:12.793 --> 00:17:15.033] ODAN: but I beg you, Doctor Beverly,
+[00:17:16.713 --> 00:17:17.273] ODAN: help me.
+[00:17:19.753 --> 00:17:21.433] ODAN: This mission must be completed.
+[00:17:24.393 --> 00:17:31.433] CRUSHER: Odan's host body died of the injuries just over an hour ago. But the symbiont being, Odan, is still alive.
+[00:17:32.953 --> 00:17:39.193] CRUSHER: Odan is the one who negotiated the last treaty, but the man everyone thought was his father was just another host body.
+[00:17:39.833 --> 00:17:41.944] RIKER: And the reason Odan refused the transporter?
+[00:17:41.944 --> 00:17:43.753] CRUSHER: It would have damaged the symbiont.
+[00:17:44.393 --> 00:17:45.353] PICARD: We've contacted the Trill.
+[00:17:45.433 --> 00:17:47.033] PICARD: Another host will be here in forty hours.
+[00:17:47.433 --> 00:17:48.953] CRUSHER: I've placed Odan in stasis.
+[00:17:49.113 --> 00:17:52.793] CRUSHER: He can survive another hour, maybe two, but not beyond that.
+[00:17:53.673 --> 00:17:56.553] DATA: Would it be possible for me to serve as a temporary carrier?
+[00:17:57.033 --> 00:17:57.593] CRUSHER: No, Data.
+[00:17:57.833 --> 00:18:00.713] CRUSHER: The relationship requires a biological being.
+[00:18:01.395 --> 00:18:03.475] PICARD: We are at a desperate impasse in the Peliar system.
+[00:18:03.635 --> 00:18:06.035] PICARD: The attack on the shuttlecraft has inflamed the dispute.
+[00:18:06.435 --> 00:18:07.315] TROI: Who was responsible?
+[00:18:07.475 --> 00:18:08.595] PICARD: No one will admit anything.
+[00:18:08.595 --> 00:18:10.835] PICARD: Each side accuses the other and the threats are mounting.
+[00:18:11.795 --> 00:18:12.835] PICARD: We need Odan.
+[00:18:14.195 --> 00:18:15.635] RIKER: Doctor, could a human host carry him?
+[00:18:16.115 --> 00:18:16.995] CRUSHER: I believe so.
+[00:18:17.715 --> 00:18:21.224] CRUSHER: From Odan's description of the process it should be possible. But I don't have
+[00:18:21.224 --> 00:18:21.475] RIKER: Then
+[00:18:21.475 --> 00:18:22.115] RIKER: I volunteer.
+[00:18:22.915 --> 00:18:25.155] CRUSHER: There's been no precedent for a human host.
+[00:18:25.475 --> 00:18:27.155] CRUSHER: I couldn't guarantee what might happen.
+[00:18:28.675 --> 00:18:29.795] PICARD: The risk is too great, Commander.
+[00:18:30.115 --> 00:18:31.635] RIKER: Weigh it against the prospect of war.
+[00:18:34.275 --> 00:18:35.075] PICARD: It's your choice, Will.
+[00:18:37.075 --> 00:18:40.915] RIKER: Let's get to it.
+[00:18:47.635 --> 00:18:49.075] CRUSHER: I've given you a local anaesthetic.
+[00:18:49.635 --> 00:18:51.475] CRUSHER: You must be conscious during the implantation.
+[00:18:51.955 --> 00:18:53.022] CRUSHER: Drugs might damage the symbiont.
+[00:18:53.022 --> 00:18:53.235] RIKER: I
+[00:18:54.275 --> 00:18:54.835] RIKER: understand.
+[00:18:55.555 --> 00:18:56.195] CRUSHER: Laser scalpel.
+[00:19:41.809 --> 00:19:42.369] CRUSHER: How do you feel?
+[00:19:42.769 --> 00:19:43.489] CRUSHER: Is there pain?
+[00:19:44.209 --> 00:19:46.529] RIKER: No, just some strange sensations.
+[00:19:46.609 --> 00:19:47.542] CRUSHER: Vital signs?
+[00:19:47.542 --> 00:19:52.209] OGAWA: Heart rate one hundred ten. Blood pressure ninety over forty.
+[00:19:52.289 --> 00:19:54.209] CRUSHER: I can't close yet, The assimilation's not complete.
+[00:19:54.769 --> 00:19:56.369] OGAWA: Pulse one thirty and climbing.
+[00:19:56.929 --> 00:19:57.729] OGAWA: EEG is erratic.
+[00:19:57.969 --> 00:19:59.009] CRUSHER: He's going to start fibrillating.
+[00:19:59.009 --> 00:20:00.289] CRUSHER: Two hundred milligrams of metrazene.
+[00:20:00.369 --> 00:20:00.769] NURSE: Yes, Doctor.
+[00:20:03.249 --> 00:20:03.809] CRUSHER: Hang on, Will.
+[00:20:05.169 --> 00:20:06.369] NURSE: We've got incorporation, Doctor.
+[00:20:06.689 --> 00:20:07.169] CRUSHER: I'm closing.
+[00:20:12.609 --> 00:20:13.809] NURSE: Brain waves are still irregular.
+[00:20:15.569 --> 00:20:16.609] CRUSHER: The metrazene should have stabilised him.
+[00:20:17.649 --> 00:20:19.329] CRUSHER: I'll give it ten seconds more before we go in again.
+[00:20:21.649 --> 00:20:22.129] NURSE: Here we go.
+[00:20:22.369 --> 00:20:23.569] NURSE: EEG approaching regular.
+[00:20:24.849 --> 00:20:25.729] OGAWA: Blood pressure levelling off.
+[00:20:26.369 --> 00:20:26.689] CRUSHER: That's better.
+[00:20:26.929 --> 00:20:27.969] CRUSHER: Signs are returning to
+[00:20:31.729 --> 00:20:31.729] CRUSHER: normal.
+[00:20:32.049 --> 00:20:32.049] CRUSHER: Will,
+[00:20:35.009 --> 00:20:35.409] CRUSHER: it's Beverly.
+[00:20:36.209 --> 00:20:36.769] CRUSHER: Can you hear me?
+[00:20:39.249 --> 00:20:39.569] RIKER: Hello.
+[00:20:41.409 --> 00:20:42.369] CRUSHER: You're going to be all right.
+[00:20:43.329 --> 00:20:43.809] CRUSHER: How do you feel?
+[00:20:43.959 --> 00:20:44.559] RIKER: I'm
+[00:20:45.969 --> 00:20:45.969] RIKER: fine.
+[00:20:48.929 --> 00:20:50.209] RIKER: You look a little tired, Doctor Beverly.
+[00:21:00.129 --> 00:21:03.729] RIKER: I know this must be disturbing, Governor,
+[00:21:05.338 --> 00:21:08.538] RIKER: but you must convince the inhabitants of the moons that I am Odan.
+[00:21:08.858 --> 00:21:12.778] RIKER: I have his skills, his thoughts, his memories.
+[00:21:13.258 --> 00:21:18.778] LEKA: They will perceive you as a Starfleet officer, perhaps with your own agenda.
+[00:21:19.418 --> 00:21:23.578] RIKER: The man they knew as my father, the man who stands before them,
+[00:21:25.498 --> 00:21:26.538] RIKER: both are merely hosts.
+[00:21:28.858 --> 00:21:30.858] RIKER: It is your task to help them understand.
+[00:21:31.578 --> 00:21:32.218] LEKA: I will try.
+[00:21:33.338 --> 00:21:34.618] LEKA: I cannot promise they will listen.
+[00:21:35.818 --> 00:21:37.578] LEKA: They are more factionalised than ever.
+[00:21:38.458 --> 00:21:42.618] LEKA: Listening is a skill which seems to have evaporated with the heat of argument.
+[00:21:43.418 --> 00:21:44.458] RIKER: Speak softly, Governor.
+[00:21:46.058 --> 00:21:50.138] RIKER: Those who cannot hear an angry shout may strain to hear a whisper.
+[00:21:52.058 --> 00:21:52.698] LEKA: I will do what I can.
+[00:21:56.698 --> 00:21:57.018] PICARD: Well done.
+[00:22:00.698 --> 00:22:01.018] PICARD: Mister Worf,
+[00:22:01.258 --> 00:22:02.858] PICARD: will you escort the Ambassador to his quarters.
+[00:22:02.938 --> 00:22:03.658] RIKER: I'm just a little dizzy.
+[00:22:04.218 --> 00:22:04.698] RIKER: I'll be fine.
+[00:22:05.498 --> 00:22:06.458] RIKER: I just need to lie down.
+[00:22:07.018 --> 00:22:07.978] PICARD: Picard to Doctor Crusher.
+[00:22:08.458 --> 00:22:09.018] CRUSHER: Yes, Captain?
+[00:22:09.258 --> 00:22:10.778] PICARD: Doctor, the Ambassador is not well.
+[00:22:10.938 --> 00:22:12.298] PICARD: Will you please attend to him in his quarters.
+[00:22:12.778 --> 00:22:13.338] CRUSHER: Right away, sir.
+[00:22:15.338 --> 00:22:18.538] CRUSHER: White cell count is elevated, six tenths of a degree of temperature.
+[00:22:20.298 --> 00:22:21.338] CRUSHER: But no sign of rejection.
+[00:22:22.618 --> 00:22:23.098] RIKER: That's good.
+[00:22:24.698 --> 00:22:25.578] CRUSHER: You look awfully pale.
+[00:22:26.218 --> 00:22:28.618] RIKER: Just a little weak and light-headed.
+[00:22:29.738 --> 00:22:31.338] CRUSHER: Cerebral blood flow looks normal.
+[00:22:35.018 --> 00:22:36.218] CRUSHER: I'll leave you a metabolic booster.
+[00:22:36.741 --> 00:22:38.421] CRUSHER: Use it if the symptoms get worse.
+[00:22:38.421 --> 00:22:38.661] RIKER: Beverly.
+[00:22:38.741 --> 00:22:40.021] CRUSHER: Beyond that, I don't know what to do.
+[00:22:40.981 --> 00:22:41.941] CRUSHER: This is all new to me.
+[00:22:41.941 --> 00:22:43.541] RIKER: It is new to me as well.
+[00:22:43.861 --> 00:22:45.141] RIKER: Please, don't go.
+[00:22:45.141 --> 00:22:46.581] RIKER: We've got to talk about this.
+[00:22:46.581 --> 00:22:47.621] CRUSHER: I don't know what to say.
+[00:22:47.621 --> 00:22:50.981] RIKER: Nor do I, but I know that this silence will injure us.
+[00:22:51.621 --> 00:22:53.381] CRUSHER: Well maybe you should have thought about that sooner.
+[00:22:54.261 --> 00:22:55.861] CRUSHER: Maybe you should have told me what you were.
+[00:22:56.181 --> 00:22:58.501] CRUSHER: It didn't seem to bother you to remain silent yesterday.
+[00:22:59.701 --> 00:23:00.821] RIKER: It never occurred to me.
+[00:23:00.821 --> 00:23:02.101] RIKER: This is what I am.
+[00:23:03.381 --> 00:23:05.141] RIKER: Did you ever tell me that you are only a single being?
+[00:23:05.781 --> 00:23:06.341] RIKER: Of course not.
+[00:23:06.821 --> 00:23:07.941] RIKER: That was normal to you.
+[00:23:08.821 --> 00:23:10.581] CRUSHER: I don't know who you are.
+[00:23:10.741 --> 00:23:11.941] RIKER: You must understand,
+[00:23:12.661 --> 00:23:15.141] RIKER: whoever I seem to be, I am
+[00:23:15.221 --> 00:23:19.301] RIKER: Odan, who loved you. That has not changed.
+[00:23:20.021 --> 00:23:20.821] RIKER: I still love you.
+[00:23:21.701 --> 00:23:22.741] RIKER: I can't help that.
+[00:23:22.901 --> 00:23:26.101] RIKER: If this causes you pain, I will suppress it,
+[00:23:26.341 --> 00:23:28.981] RIKER: I will keep my distance. Doctor Beverly,
+[00:23:30.981 --> 00:23:31.781] RIKER: I would never hurt
+[00:23:36.101 --> 00:23:38.101] RIKER: you.
+[00:23:50.181 --> 00:23:50.741] TROI: May I join you?
+[00:23:57.301 --> 00:24:04.741] CRUSHER: You know, Deanna, the first man I ever loved unconditionally was named Stefan.
+[00:24:05.366 --> 00:24:13.606] CRUSHER: He was a soccer player, and I would watch him as he would race down the field and I thought my heart would stop because he was so beautiful.
+[00:24:14.886 --> 00:24:22.566] CRUSHER: We married and had three children. Twin boys, Andrew and Alexander, and then later a little girl, Jennifer.
+[00:24:24.326 --> 00:24:26.886] CRUSHER: Stefan became an artist, very famous.
+[00:24:27.606 --> 00:24:31.206] CRUSHER: He created huge, breathtaking, metal sculptures.
+[00:24:32.166 --> 00:24:34.806] CRUSHER: He came to adore me as much as I worshipped him.
+[00:24:36.326 --> 00:24:39.446] CRUSHER: In my daydreams at least. Stefan was eleven and I was eight.
+[00:24:39.686 --> 00:24:41.286] CRUSHER: He never even knew I existed.
+[00:24:42.326 --> 00:24:42.886] CRUSHER: Oh, Deanna,
+[00:24:44.406 --> 00:24:45.286] CRUSHER: I loved Odan.
+[00:24:46.006 --> 00:24:46.726] CRUSHER: I'm sure of it.
+[00:24:47.126 --> 00:24:48.886] CRUSHER: I had no doubts, no fears,
+[00:24:50.486 --> 00:24:51.846] CRUSHER: but what it was I loved?
+[00:24:53.126 --> 00:24:57.526] CRUSHER: His eyes? His hands? His mouth? They're gone.
+[00:24:57.766 --> 00:25:03.046] CRUSHER: If that was all it was, I should mourn him and go on.
+[00:25:03.046 --> 00:25:03.686] CRUSHER: But it was more than
+[00:25:05.766 --> 00:25:05.766] CRUSHER: that.
+[00:25:05.766 --> 00:25:12.726] CRUSHER: I felt completely free with him. Unguarded. At ease with myself.
+[00:25:14.326 --> 00:25:16.486] CRUSHER: There were so many things that made him special to me.
+[00:25:17.446 --> 00:25:18.326] CRUSHER: Where are they?
+[00:25:19.206 --> 00:25:22.326] CRUSHER: Are they still here, alive in Will Riker?
+[00:25:24.646 --> 00:25:33.286] CRUSHER: I look at Will and I see someone I've known for years. A kind of brother.
+[00:25:34.326 --> 00:25:37.046] CRUSHER: But inside,
+[00:25:38.370 --> 00:25:40.050] CRUSHER: is he really Odan?
+[00:25:42.530 --> 00:25:45.730] CRUSHER: Help me, please.
+[00:25:55.170 --> 00:25:57.490] TROI: What do your feelings tell you?
+[00:25:58.450 --> 00:25:59.250] CRUSHER: I feel his pull.
+[00:25:59.250 --> 00:26:00.450] CRUSHER: It's very powerful.
+[00:26:01.730 --> 00:26:03.010] CRUSHER: I wish he'd never come on this ship.
+[00:26:04.210 --> 00:26:05.090] TROI: Don't wish that, Beverly.
+[00:26:06.770 --> 00:26:09.970] TROI: You can't be open to love if you don't risk pain.
+[00:26:10.690 --> 00:26:11.330] CRUSHER: I don't care.
+[00:26:11.730 --> 00:26:13.170] CRUSHER: I'd give anything not to feel the way I do
+[00:26:15.010 --> 00:26:17.010] CRUSHER: now.
+[00:26:23.330 --> 00:26:24.210] CRUSHER: He's here, isn't he?
+[00:26:26.050 --> 00:26:26.530] TROI: Look at him.
+[00:26:27.330 --> 00:26:28.370] CRUSHER: I don't want to look at him.
+[00:26:28.370 --> 00:26:28.930] CRUSHER: Talk to me.
+[00:26:29.410 --> 00:26:30.050] CRUSHER: Just keep talking to me.
+[00:26:30.050 --> 00:26:30.210] TROI: The
+[00:26:33.570 --> 00:26:36.290] TROI: first man I ever loved was my father.
+[00:26:37.890 --> 00:26:38.850] TROI: He was strong and tall.
+[00:26:40.930 --> 00:26:42.690] TROI: He carried me when the ground was muddy.
+[00:26:43.650 --> 00:26:46.530] TROI: He chased away the monsters that hid under my bed at night.
+[00:26:48.050 --> 00:26:50.770] TROI: And he sang to me, and kept me safe.
+[00:26:53.810 --> 00:26:54.450] TROI: And he went away.
+[00:26:58.450 --> 00:27:03.970] TROI: What I wouldn't give to hear those songs again. To feel his arms protect me.
+[00:27:05.410 --> 00:27:05.970] TROI: I never will,
+[00:27:08.050 --> 00:27:08.850] TROI: but I can still feel
+[00:27:08.989 --> 00:27:12.429] TROI: his warmth and his love as though he were here with me.
+[00:27:14.109 --> 00:27:21.949] TROI: If you can feel those things from the man we know as Will Riker, accept them.
+[00:27:24.269 --> 00:27:24.749] TROI: Accept the
+[00:27:45.389 --> 00:27:47.389] TROI: love.
+[00:27:47.389 --> 00:27:50.189] LOG: Captain's log, stardate 44823.8.
+[00:27:50.749 --> 00:27:57.309] LOG: Representatives of the two moons of Peliar Zel have agreed to come on board to meet the new Ambassador Odan.
+[00:27:59.069 --> 00:28:00.349] CRUSHER: White count is elevated.
+[00:28:01.389 --> 00:28:03.229] CRUSHER: It's getting higher and higher every time I read it.
+[00:28:04.509 --> 00:28:05.149] CRUSHER: Are you in pain?
+[00:28:06.349 --> 00:28:06.909] RIKER: Not much.
+[00:28:08.029 --> 00:28:09.949] PICARD: Ambassador, we can stall the representatives.
+[00:28:10.269 --> 00:28:11.629] RIKER: They would see that as deception.
+[00:28:11.629 --> 00:28:12.809] RIKER: I must meet with them.
+[00:28:12.809 --> 00:28:16.349] PICARD: But surely, to present yourself in this condition is not going to help our cause.
+[00:28:16.349 --> 00:28:18.669] RIKER: I promise you, Captain, they will never know that I am ill.
+[00:28:21.309 --> 00:28:22.749] WORF: Captain, the emissaries.
+[00:28:24.669 --> 00:28:28.749] LEKA: May I present Kalin Trose of Alpha Moon, and Lathal Bine of Beta Moon.
+[00:28:29.229 --> 00:28:30.909] KALIN: Thank you for receiving us, Captain.
+[00:28:35.229 --> 00:28:35.709] LATHAL: Is
+[00:28:36.083 --> 00:28:37.859] LATHAL: this Ambassador Odan?
+[00:28:37.859 --> 00:28:39.043] RIKER: Lathal Bine.
+[00:28:39.683 --> 00:28:42.003] RIKER: It was your aunt who represented Beta thirty years ago.
+[00:28:42.643 --> 00:28:43.363] LATHAL: That is correct.
+[00:28:43.523 --> 00:28:44.963] RIKER: She was a formidable woman.
+[00:28:45.603 --> 00:28:48.483] RIKER: I had the utmost respect for her.
+[00:28:48.483 --> 00:28:52.083] KALIN: And who was it who spoke for Alpha so long ago?
+[00:28:52.563 --> 00:28:55.443] RIKER: That was you, of course, Kalin Trose.
+[00:28:56.003 --> 00:29:04.323] RIKER: Then you were a young man, bristling with passion and zeal, yet wise enough to understand that your people needed peace to ensure their future.
+[00:29:10.403 --> 00:29:17.043] KALIN: And how did you manage to achieve a compromise between that young man and the iron willed woman of Beta Moon?
+[00:29:17.363 --> 00:29:23.443] RIKER: They agreed to trade places for a week, to understand each other's situation with more informed eyes.
+[00:29:24.403 --> 00:29:25.923] RIKER: After that an agreement came swiftly.
+[00:29:26.563 --> 00:29:32.003] KALIN: Nothing that you have said is beyond what a school child could learn in a history book.
+[00:29:33.843 --> 00:29:45.683] RIKER: What is not commonly known that during those negotiations, you, Kalin Trose, quelled a plot by a radical from your moon who was attempting to assassinate the Beta delegate.
+[00:29:49.603 --> 00:29:50.323] KALIN: It is true.
+[00:29:50.963 --> 00:29:55.443] LATHAL: Perhaps he was wiser in his youth than he is now. Odan,
+[00:29:55.443 --> 00:29:56.883] LATHAL: you must convince him to stop.
+[00:29:57.043 --> 00:29:57.923] RIKER: Will you accept me?
+[00:29:58.723 --> 00:29:59.923] RIKER: Will you allow me to work with you?
+[00:30:01.763 --> 00:30:02.243] LATHAL: Yes.
+[00:30:06.483 --> 00:30:07.203] RIKER: And Alpha moon?
+[00:30:08.723 --> 00:30:09.603] KALIN: I will consider it,
+[00:30:09.843 --> 00:30:10.083] KALIN: but
+[00:30:11.339 --> 00:30:12.539] KALIN: I must consult others.
+[00:30:12.699 --> 00:30:14.219] LATHAL: This is a typical tactic.
+[00:30:14.219 --> 00:30:16.059] LATHAL: He is an obstructionist.
+[00:30:16.139 --> 00:30:17.739] LATHAL: You can see that.
+[00:30:17.739 --> 00:30:18.539] RIKER: Kalin Trose,
+[00:30:20.379 --> 00:30:23.819] RIKER: you may confer with your people, but we must have your answer within eight hours.
+[00:30:25.579 --> 00:30:26.379] KALIN: You shall have it.
+[00:30:44.539 --> 00:30:47.819] CRUSHER: His vital functions are overworked.
+[00:30:47.819 --> 00:30:49.259] CRUSHER: His immune system is under attack.
+[00:30:49.259 --> 00:30:52.219] CRUSHER: I can only guess that he's suffering from classic rejection syndrome.
+[00:30:53.499 --> 00:30:54.699] PICARD: Is there any treatment you can give him?
+[00:30:55.019 --> 00:30:56.699] CRUSHER: I can administer an immunosuppressant.
+[00:30:57.339 --> 00:31:00.459] CRUSHER: That could help relieve the symptoms but it Can't correct the underlying cause.
+[00:31:00.459 --> 00:31:02.379] CRUSHER: There is a foreign organism in his body.
+[00:31:03.899 --> 00:31:06.779] CRUSHER: Medical school didn't exactly prepare me for situations like this.
+[00:31:08.219 --> 00:31:08.939] PICARD: You're doing all you can.
+[00:31:11.819 --> 00:31:12.939] CRUSHER: Don't worry about me, Captain.
+[00:31:12.939 --> 00:31:13.579] CRUSHER: I'm fine.
+[00:31:18.939 --> 00:31:21.499] PICARD: Ambassador, when you feel up to it, would you join me in my Ready room?
+[00:31:21.979 --> 00:31:22.619] RIKER: Of course.
+[00:31:29.339 --> 00:31:33.019] CRUSHER: I'm giving you something that should help with the pain.
+[00:31:34.779 --> 00:31:35.739] CRUSHER: At least for a little while.
+[00:31:36.477 --> 00:31:36.477] RIKER: The
+[00:31:39.997 --> 00:31:40.637] RIKER: pain's gone.
+[00:31:41.837 --> 00:31:42.317] RIKER: Thank you.
+[00:31:46.237 --> 00:31:46.797] CRUSHER: Please don't.
+[00:31:48.317 --> 00:31:50.557] RIKER: Please let me touch you, just for a moment.
+[00:31:54.957 --> 00:31:55.997] CRUSHER: No. Please.
+[00:32:02.317 --> 00:32:06.637] PICARD: It was a fast decision, which we must take as positive.
+[00:32:07.197 --> 00:32:13.117] PICARD: The Alphan representative has agreed, however reluctantly. to let you mediate the dispute.
+[00:32:13.597 --> 00:32:14.157] RIKER: I knew they would.
+[00:32:15.117 --> 00:32:16.157] RIKER: They are reasonable people,
+[00:32:16.877 --> 00:32:18.077] RIKER: they're just trapped in their own anger.
+[00:32:18.557 --> 00:32:23.357] PICARD: I have no doubt, however, that they will bolt if something goes wrong in the discussion.
+[00:32:25.757 --> 00:32:27.197] RIKER: Then it's my job to see nothing goes wrong.
+[00:32:30.477 --> 00:32:31.917] RIKER: Did I said something wrong, Captain Picard?
+[00:32:32.957 --> 00:32:37.357] PICARD: No, it's just that for a moment you sounded more like Will Riker.
+[00:32:44.077 --> 00:32:47.197] PICARD: We have received information that the new host will arrive in eighteen hours.
+[00:32:47.197 --> 00:32:48.237] PICARD: Will you be all right until then?
+[00:32:49.197 --> 00:32:51.357] RIKER: The medication Doctor Beverly gave me has helped.
+[00:32:52.557 --> 00:32:53.757] RIKER: I will find a way to keep going.
+[00:33:04.477 --> 00:33:06.877] CRUSHER: Lemon tea.
+[00:33:16.159 --> 00:33:18.319] RIKER: Computer, location of Doctor Beverly Crusher.
+[00:33:19.279 --> 00:33:20.959] COMPUTER: Doctor Crusher is in her quarters.
+[00:33:40.719 --> 00:33:43.199] RIKER: Can you make balso tonic?
+[00:33:44.159 --> 00:33:45.679] COMPUTER: There is no formula on record.
+[00:33:46.239 --> 00:33:48.079] COMPUTER: Please supply a molecular structure.
+[00:33:49.599 --> 00:33:49.999] RIKER: Never mind.
+[00:34:03.119 --> 00:34:03.519] RIKER: Come in.
+[00:34:08.719 --> 00:34:12.479] CRUSHER: I thought I should see how you were doing.
+[00:34:13.919 --> 00:34:15.439] CRUSHER: If you needed another hypospray?
+[00:34:17.119 --> 00:34:17.679] RIKER: I don't think so.
+[00:34:19.599 --> 00:34:22.959] RIKER: The symptoms haven't returned.
+[00:34:22.959 --> 00:34:24.559] CRUSHER: Oh. Well, that's good.
+[00:34:25.519 --> 00:34:25.839] RIKER: Yes.
+[00:34:29.359 --> 00:34:30.559] CRUSHER: Tomorrow's an important day.
+[00:34:30.799 --> 00:34:31.599] CRUSHER: Do you feel ready for it?
+[00:34:33.426 --> 00:34:33.906] RIKER: I'll be fine.
+[00:34:34.386 --> 00:34:35.506] RIKER: I've been preparing.
+[00:34:35.906 --> 00:34:36.386] CRUSHER: That's good.
+[00:34:37.906 --> 00:34:38.226] RIKER: Yes.
+[00:34:41.426 --> 00:34:45.426] CRUSHER: I'll check your vital signs in the morning before the representatives get here.
+[00:34:46.706 --> 00:34:48.946] RIKER: I don't want them knowing I'm taking any medication.
+[00:34:50.866 --> 00:34:52.706] CRUSHER: Maybe you could schedule a series of breaks.
+[00:34:54.546 --> 00:34:54.946] RIKER: That's good.
+[00:34:55.906 --> 00:34:56.186] CRUSHER: Yes.
+[00:34:56.186 --> 00:34:56.466] RIKER: Beverly,
+[00:34:57.186 --> 00:34:58.626] RIKER: I want you.
+[00:34:59.266 --> 00:35:00.706] RIKER: If you're going to leave, you'd better go right now.
+[00:35:01.186 --> 00:35:02.546] CRUSHER: I'm not leaving.
+[00:35:08.386 --> 00:35:11.426] LOG: Captain's log, stardate 44824.4.
+[00:35:11.906 --> 00:35:15.906] LOG: Governor Leka and the representatives of the two moons are ready to transport on board.
+[00:35:16.466 --> 00:35:22.546] LOG: We have learned that they each have troops massed and are ready for combat if this final effort at peace is not successful.
+[00:35:23.666 --> 00:35:24.626] CRUSHER: White count is back up,
+[00:35:24.946 --> 00:35:26.226] CRUSHER: temperature is elevated.
+[00:35:26.226 --> 00:35:29.666] CRUSHER: The effects of the medication are wearing off faster every time.
+[00:35:31.506 --> 00:35:34.306] CRUSHER: I'll administer one now and hope that it will hold for an hour or two.
+[00:35:35.346 --> 00:35:36.386] RIKER: No, no more.
+[00:35:40.706 --> 00:35:42.866] PICARD: Ambassador, it's clear you're in pain.
+[00:35:43.346 --> 00:35:45.026] PICARD: You can't get through the next hours without help.
+[00:35:46.706 --> 00:35:47.026] RIKER: I must.
+[00:35:48.066 --> 00:35:51.266] CRUSHER: Are the injections damaging to the host's body, Riker's body?
+[00:35:51.266 --> 00:35:51.746] RIKER: Yes.
+[00:35:52.866 --> 00:35:54.626] RIKER: We can't put him through any further risk.
+[00:35:54.776 --> 00:35:55.376] CRUSHER: But
+[00:35:56.466 --> 00:35:58.466] CRUSHER: how can you function, conduct the meeting?
+[00:36:00.331 --> 00:36:00.971] RIKER: I'll manage.
+[00:36:05.531 --> 00:36:06.651] PICARD: We'll respect your wishes.
+[00:36:07.451 --> 00:36:08.091] RIKER: One more thing.
+[00:36:08.651 --> 00:36:10.411] RIKER: I will conduct the mediations today,
+[00:36:12.651 --> 00:36:17.211] RIKER: but at the end of today, regardless of the outcome, I must be removed from Riker's body.
+[00:36:18.571 --> 00:36:20.331] RIKER: Even if the new host has not arrived.
+[00:36:20.731 --> 00:36:21.531] CRUSHER: But you wouldn't survive.
+[00:36:22.811 --> 00:36:25.131] RIKER: Riker will not survive if I am removed.
+[00:36:26.891 --> 00:36:27.531] RIKER: He has done enough.
+[00:36:30.411 --> 00:36:30.891] RIKER: Your word.
+[00:36:33.611 --> 00:36:33.611] CRUSHER: Very well.
+[00:36:34.891 --> 00:36:37.611] WORF: Worf to Captain Picard.
+[00:36:39.691 --> 00:36:40.251] PICARD: Yes, Mister Worf?
+[00:36:40.731 --> 00:36:42.811] WORF: The Governor and the two representatives have returned.
+[00:36:43.131 --> 00:36:45.051] WORF: I will escort them to the Observation Lounge.
+[00:36:46.251 --> 00:36:46.731] PICARD: Thank you.
+[00:37:00.891 --> 00:37:00.891] CRUSHER: I'll
+[00:37:02.971 --> 00:37:07.367] CRUSHER: stand by with the medication, just in case. The pain may become so intense that I'll have to
+[00:37:07.367 --> 00:37:07.611] PICARD: Beverly.
+[00:37:11.211 --> 00:37:16.411] PICARD: Whatever else I may be to you, I am your friend.
+[00:37:17.771 --> 00:37:19.051] PICARD: I can only imagine what you're going through,
+[00:37:20.891 --> 00:37:23.211] PICARD: and I want you to know I'm here.
+[00:37:38.967 --> 00:37:38.967] CRUSHER: Jean-Luc.
+[00:37:38.967 --> 00:37:38.967] PICARD: Computer,
+[00:37:45.047 --> 00:37:45.687] PICARD: what is the time?
+[00:37:46.167 --> 00:37:47.607] COMPUTER: Fifteen thirty five hours.
+[00:37:48.327 --> 00:37:50.327] CRUSHER: They've been in there for almost six hours.
+[00:37:51.047 --> 00:37:54.967] WORF: Captain, I am receiving a message from the ship carrying the Trill host.
+[00:37:55.367 --> 00:37:56.087] CRUSHER: Are they here, Worf?
+[00:37:56.887 --> 00:37:58.647] WORF: No, they are experiencing difficulty.
+[00:37:59.127 --> 00:38:01.687] WORF: They do not anticipate their arrival for another nine hours.
+[00:38:02.007 --> 00:38:02.807] CRUSHER: Nine hours.
+[00:38:02.957 --> 00:38:03.557] RIKER: It
+[00:38:08.967 --> 00:38:09.447] RIKER: was worth it.
+[00:38:11.767 --> 00:38:12.247] PICARD: Ambassador!
+[00:38:15.287 --> 00:38:15.367] RIKER: They
+[00:38:18.167 --> 00:38:19.447] RIKER: will not go to war.
+[00:38:22.487 --> 00:38:22.887] PICARD: Mister Worf,
+[00:38:22.887 --> 00:38:25.047] PICARD: see that the representatives are safely transported off the ship.
+[00:38:25.367 --> 00:38:27.367] PICARD: Ensign, set a course to intercept with the Trill ship.
+[00:38:27.367 --> 00:38:28.533] PICARD: Prepare to go to warp nine.
+[00:38:28.533 --> 00:38:28.727] DATA: Sir,
+[00:38:28.967 --> 00:38:30.887] DATA: it could take more than two hours to reach the vessel.
+[00:38:31.447 --> 00:38:32.247] CRUSHER: I must remove him.
+[00:38:32.567 --> 00:38:33.367] CRUSHER: I gave my word.
+[00:38:49.607 --> 00:38:50.487] CRUSHER: Will is going to be all right.
+[00:38:50.967 --> 00:38:53.367] CRUSHER: His vital signs have stabilised and he's sleeping now.
+[00:39:00.234 --> 00:39:00.794] PICARD: How is Odan?
+[00:39:02.154 --> 00:39:03.354] CRUSHER: I've placed him in stasis.
+[00:39:03.434 --> 00:39:04.474] CRUSHER: He's fine for the moment.
+[00:39:09.754 --> 00:39:11.114] PICARD: You need some rest, Doctor.
+[00:39:11.834 --> 00:39:12.234] CRUSHER: No.
+[00:39:13.354 --> 00:39:16.874] CRUSHER: If Odan is to survive, he needs to be implanted in the new host as soon as he arrives.
+[00:39:16.874 --> 00:39:17.354] CRUSHER: I'll wait here.
+[00:39:17.994 --> 00:39:18.634] PICARD: It'll be some time.
+[00:39:20.074 --> 00:39:20.314] CRUSHER: I know.
+[00:39:40.714 --> 00:39:41.034] WORF: Doctor.
+[00:39:43.434 --> 00:39:44.714] CRUSHER: Is the Trill host here?
+[00:39:45.354 --> 00:39:45.674] WORF: Yes.
+[00:39:46.474 --> 00:39:46.714] CRUSHER: Good.
+[00:39:46.714 --> 00:39:47.434] CRUSHER: Bring him in.
+[00:39:55.914 --> 00:39:56.234] WORF: Doctor?
+[00:39:59.754 --> 00:40:00.554] KAREEL: I am Kareel.
+[00:40:01.034 --> 00:40:02.634] KAREEL: I am to become host to Odan.
+[00:40:04.154 --> 00:40:06.154] CRUSHER: The
+[00:40:10.954 --> 00:40:17.594] CRUSHER: operation to implant Odan into the new host was completed at nineteen hundred hours and appears to have been successful.
+[00:40:18.554 --> 00:40:20.394] CRUSHER: There were no difficulties in assimilation.
+[00:40:21.274 --> 00:40:23.834] KAREEL: Doctor Beverly, could we talk for a moment?
+[00:40:29.906 --> 00:40:30.946] CRUSHER: You should be sleeping.
+[00:40:30.946 --> 00:40:31.986] CRUSHER: You need to rest.
+[00:40:32.706 --> 00:40:36.146] KAREEL: I've never felt better, except once or twice.
+[00:40:40.386 --> 00:40:44.466] KAREEL: My poor Beverly. This has been so hard for you.
+[00:40:46.786 --> 00:40:51.986] KAREEL: I want to thank you for your caring, for your standing by me.
+[00:40:52.946 --> 00:40:53.826] CRUSHER: I congratulate you.
+[00:40:54.706 --> 00:40:57.186] CRUSHER: You averted a war that would have cost many lives.
+[00:40:58.306 --> 00:40:58.786] KAREEL: Yes.
+[00:41:00.946 --> 00:41:05.026] KAREEL: It seems as though everything has turned out for the best.
+[00:41:09.826 --> 00:41:13.826] KAREEL: And yes, I am still Odan, and I still love you.
+[00:41:15.106 --> 00:41:17.106] KAREEL: I cannot imagine that ever changing.
+[00:41:19.026 --> 00:41:20.226] CRUSHER: I am glad that you're all right.
+[00:41:24.546 --> 00:41:25.746] KAREEL: Is there to be nothing more?
+[00:41:30.226 --> 00:41:37.426] CRUSHER: Perhaps it is a human failing, but we are not accustomed to these kinds of changes.
+[00:41:38.306 --> 00:41:39.266] CRUSHER: I can't keep up.
+[00:41:40.626 --> 00:41:42.226] CRUSHER: How long will you have this host?
+[00:41:42.626 --> 00:41:43.906] CRUSHER: What would the next one be?
+[00:41:45.666 --> 00:41:47.826] CRUSHER: I can't live with that kind of uncertainty.
+[00:41:53.426 --> 00:41:55.666] CRUSHER: Perhaps, someday,
+[00:41:57.434 --> 00:41:58.794] CRUSHER: our ability to love
+[00:42:00.634 --> 00:42:01.834] CRUSHER: won't be so limited.
+[00:42:06.634 --> 00:42:07.434] KAREEL: I understand.
+[00:42:12.714 --> 00:42:13.114] CRUSHER: Odan, I
+[00:42:15.674 --> 00:42:15.994] CRUSHER: do love
+[00:42:17.834 --> 00:42:17.834] CRUSHER: you.
+[00:42:17.834 --> 00:42:18.714] CRUSHER: Please remember that.
+[00:42:23.114 --> 00:42:29.354] KAREEL: I will never forget you.
+[00:42:41.000 --> 00:42:56.000] [music]
+[00:42:57.000 --> 00:43:06.000] [music]
+[00:43:08.000 --> 00:43:16.000] [music]

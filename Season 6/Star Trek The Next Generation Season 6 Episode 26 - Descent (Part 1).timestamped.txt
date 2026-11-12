@@ -1,0 +1,668 @@
+[00:00:03.200 --> 00:00:11.200] HAWKING: But then I said, in that frame of reference, the perihelion of Mercury would have precessed in the opposite direction.
+[00:00:11.200 --> 00:00:15.120] EINSTEIN: That is a great story!
+[00:00:12.000 --> 00:00:14.000] [laughter]
+[00:00:15.760 --> 00:00:17.040] DATA: Quite amusing, Doctor Hawking.
+[00:00:18.080 --> 00:00:23.040] DATA: You see, Sir Isaac, the joke depends on an understanding of the relativistic curvature of space-time.
+[00:00:23.600 --> 00:00:26.326] DATA: If two non-inertial reference frames are in relative motion
+[00:00:26.326 --> 00:00:27.840] NEWTON: Do not patronise me, sir.
+[00:00:28.320 --> 00:00:29.680] NEWTON: I invented physics.
+[00:00:30.560 --> 00:00:34.720] NEWTON: The day that apple fell on my head was the most momentous day in the history of science.
+[00:00:35.520 --> 00:00:37.280] HAWKING: Not the apple story again.
+[00:00:38.000 --> 00:00:40.080] DATA: That story is generally considered to be apocryphal.
+[00:00:40.480 --> 00:00:40.720] NEWTON: What?
+[00:00:41.440 --> 00:00:42.800] NEWTON: How dare you!
+[00:00:43.600 --> 00:00:45.600] EINSTEIN: Perhaps we should return to the game.
+[00:00:46.320 --> 00:00:47.120] EINSTEIN: Let's see, where were we?
+[00:00:47.200 --> 00:00:52.960] EINSTEIN: Yes, you raised Mister Data four, which means that the bet is, er, seven
+[00:00:53.440 --> 00:00:54.187] EINSTEIN: to me?
+[00:00:54.187 --> 00:00:55.680] NEWTON: The bet is ten!
+[00:00:56.720 --> 00:00:58.560] NEWTON: Can't you do simple arithmetic?
+[00:01:00.880 --> 00:01:03.520] NEWTON: I don't even know why I'm here in the first place.
+[00:01:04.160 --> 00:01:06.320] NEWTON: What is the point of playing this ridiculous game?
+[00:01:06.720 --> 00:01:13.040] DATA: When I play poker with my shipmates, it often appears to be a useful forum for exploring the different facets of humanity.
+[00:01:13.600 --> 00:01:18.160] DATA: I was curious to see how three of history's greatest minds would interact in this setting.
+[00:01:19.120 --> 00:01:22.640] DATA: So far, it has proved most illuminating.
+[00:01:23.280 --> 00:01:24.320] EINSTEIN: And profitable.
+[00:01:25.840 --> 00:01:27.200] NEWTON: Can we get this over with, please?
+[00:01:28.640 --> 00:01:29.600] NEWTON: It's your bet.
+[00:01:31.123 --> 00:01:32.923] HAWKING: I raise fifty.
+[00:01:32.923 --> 00:01:33.523] NEWTON: Blast!
+[00:01:33.763 --> 00:01:34.403] NEWTON: I fold.
+[00:01:36.163 --> 00:01:36.883] DATA: I fold as well.
+[00:01:37.843 --> 00:01:40.563] EINSTEIN: The uncertainty principle will not help you now, Stephen.
+[00:01:41.683 --> 00:01:46.083] EINSTEIN: All the quantum fluctuations in the universe will not change the cards in your hand.
+[00:01:46.643 --> 00:01:47.123] EINSTEIN: I call.
+[00:01:47.843 --> 00:01:50.563] EINSTEIN: You are bluffing and you will lose.
+[00:01:51.283 --> 00:01:53.043] HAWKING: Wrong again, Albert.
+[00:01:53.193 --> 00:01:53.793] EINSTEIN: Well.
+[00:01:56.563 --> 00:01:58.483] RIKER: Red alert.
+[00:02:01.603 --> 00:02:03.123] RIKER: All personnel report to duty stations.
+[00:02:03.923 --> 00:02:05.443] DATA: We will have to continue this another time.
+[00:02:07.683 --> 00:02:08.323] DATA: End programme.
+[00:02:18.563 --> 00:02:23.043] RIKER: We've received a distress call from the Ohniaka Three Outpost.
+[00:02:23.283 --> 00:02:24.163] RIKER: They said they were under attack.
+[00:02:25.203 --> 00:02:25.923] PICARD: Ohniaka Three?
+[00:02:26.963 --> 00:02:28.723] PICARD: There's no strategic value to that outpost.
+[00:02:29.043 --> 00:02:30.323] PICARD: Were they able to identify the attackers?
+[00:02:30.483 --> 00:02:32.563] RIKER: No, we haven't been able to raise them since the initial contact.
+[00:02:32.963 --> 00:02:34.643] WORF: We are nearing the Ohniaka system, sir.
+[00:02:34.963 --> 00:02:35.923] PICARD: Bring us out of warp, Ensign.
+[00:02:36.083 --> 00:02:36.403] ENSIGN: Aye, sir.
+[00:02:37.443 --> 00:02:40.083] WORF: Sensors detect one ship orbiting the third planet.
+[00:02:40.563 --> 00:02:42.803] WORF: Its configuration does not match anything in our records.
+[00:02:43.203 --> 00:02:44.963] RIKER: Stand by phasers and photon torpedoes.
+[00:02:45.523 --> 00:02:46.163] PICARD: Hail them, Mister Worf.
+[00:02:47.843 --> 00:02:48.563] WORF: No response, sir.
+[00:02:49.683 --> 00:02:50.323] PICARD: Put them on screen.
+[00:02:53.843 --> 00:02:55.683] DATA: It does not appear to be attacking the outpost, sir.
+[00:02:56.145 --> 00:02:57.265] RIKER: They might have attacked before we got here.
+[00:02:58.225 --> 00:02:59.585] PICARD: Or they might simply be another victim.
+[00:03:01.585 --> 00:03:02.385] PICARD: What about the outpost?
+[00:03:03.505 --> 00:03:05.745] DATA: There is a great deal of electromagnetic interference.
+[00:03:06.385 --> 00:03:08.945] DATA: I am unable to determine whether there are any lifeforms present.
+[00:03:10.625 --> 00:03:11.905] RIKER: Worf, Data, you're with me.
+[00:03:33.105 --> 00:03:37.985] WORF: These wounds were caused by a forced plasma beam, similar to a Ferengi hand phaser.
+[00:03:38.545 --> 00:03:39.985] RIKER: This seems brutal even for the Ferengi.
+[00:03:40.625 --> 00:03:41.585] RIKER: Any sign of survivors?
+[00:03:41.905 --> 00:03:45.025] DATA: Electromagnetic interference is still making it difficult to get a precise reading.
+[00:03:46.065 --> 00:03:47.425] RIKER: How many people were assigned to this outpost?
+[00:03:47.745 --> 00:03:48.785] WORF: Two hundred and seventy four.
+[00:03:49.905 --> 00:03:51.585] RIKER: All right. we're going to need to do a room to room search.
+[00:03:51.585 --> 00:03:53.505] RIKER: Worf, you and Corelki start searching the north wing.
+[00:03:53.825 --> 00:03:54.625] RIKER: You and I will take the south.
+[00:03:54.705 --> 00:03:54.929] WORF: Aye, sir.
+[00:03:54.929 --> 00:03:55.265] DATA: The mechanism appears
+[00:03:58.385 --> 00:03:59.665] DATA: to be
+[00:04:06.865 --> 00:04:07.345] DATA: jammed, sir.
+[00:04:10.785 --> 00:04:11.665] RIKER: There's not much damage.
+[00:04:12.305 --> 00:04:14.705] RIKER: It doesn't look like they were interested in the station, just the people.
+[00:04:18.545 --> 00:04:20.065] DATA: I have bypassed the primary system.
+[00:04:50.160 --> 00:04:52.880] PICARD: Space, the final frontier.
+[00:04:54.800 --> 00:04:57.680] PICARD: These are the voyages of the starship Enterprise.
+[00:04:58.800 --> 00:05:06.720] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:08.400 --> 00:05:11.280] PICARD: to boldly go where no one has gone before.
+[00:05:40.000 --> 00:05:49.000] [music]
+[00:06:25.435 --> 00:06:25.995] PICARD: Evasive manoeuvres, Ensign!
+[00:06:26.155 --> 00:06:26.715] PICARD: Return fire.
+[00:06:29.995 --> 00:06:32.635] LAFORGE: Shields down to eighty percent. Compensating with auxiliary power.
+[00:06:46.795 --> 00:06:47.835] BOSUS: You have killed Torsus.
+[00:06:48.555 --> 00:06:49.915] BOSUS: I will make you suffer for this.
+[00:06:50.635 --> 00:06:52.475] TAYAR: Biological
+[00:06:55.275 --> 00:06:55.915] TAYAR: organism, Klingon.
+[00:06:56.075 --> 00:06:56.541] TAYAR: Biological organism, human.
+[00:06:56.635 --> 00:06:58.235] DATA: Stop it! Stop!
+[00:06:58.475 --> 00:06:58.475] DATA: Stop!
+[00:06:58.475 --> 00:06:58.475] DATA: Stop!
+[00:06:58.475 --> 00:06:59.115] DATA: Stop!
+[00:06:59.115 --> 00:06:59.195] DATA: Stop!
+[00:07:35.825 --> 00:07:40.305] TAYAR: Artificial lifeform. Starfleet rank, Lieutenant Commander.
+[00:07:41.185 --> 00:07:43.025] TAYAR: Name, Data.
+[00:07:55.185 --> 00:07:56.545] LAFORGE: Captain, the alien ship is breaking orbit.
+[00:07:57.265 --> 00:07:58.465] PICARD: Plot an intercept course, Ensign.
+[00:07:58.705 --> 00:07:59.425] PICARD: Fire torpedoes.
+[00:07:59.425 --> 00:07:59.585] LAFORGE: They're
+[00:08:07.025 --> 00:08:07.505] LAFORGE: gone, sir.
+[00:08:08.625 --> 00:08:12.465] LAFORGE: Our sensors indicate there was some kind of subspace distortion just before they disappeared.
+[00:08:13.425 --> 00:08:15.745] LAFORGE: I'll have to study these readings before I can get more specific than
+[00:08:17.985 --> 00:08:19.985] LAFORGE: that.
+[00:08:19.985 --> 00:08:21.105] PICARD: Take us back to Ohniaka Three.
+[00:08:21.505 --> 00:08:21.825] ENSIGN: Aye, sir.
+[00:08:31.265 --> 00:08:31.505] RIKER: Data?
+[00:08:33.505 --> 00:08:33.745] RIKER: Data,
+[00:08:34.145 --> 00:08:34.625] RIKER: are you all right?
+[00:08:36.465 --> 00:08:36.705] DATA: Yes, sir.
+[00:08:37.665 --> 00:08:37.985] RIKER: What happened?
+[00:08:40.625 --> 00:08:42.625] DATA: I
+[00:08:44.545 --> 00:08:45.185] DATA: got angry.
+[00:08:50.065 --> 00:08:53.185] LOG: Captain's log, stardate 46982.1.
+[00:08:53.626 --> 00:09:00.026] LOG: Because of his unusual behaviour on the planet surface, Commander Data has asked to be temporarily relieved of duty.
+[00:09:00.746 --> 00:09:07.226] LOG: Unfortunately, this means he will not be able to help us investigate a disturbing new change in the behaviour of the Borg.
+[00:09:07.946 --> 00:09:10.746] RIKER: They were fast, aggressive, almost vicious.
+[00:09:11.306 --> 00:09:13.626] RIKER: it was more like fighting Klingons than Borg.
+[00:09:13.786 --> 00:09:14.266] RIKER: No offence.
+[00:09:15.466 --> 00:09:15.946] WORF: None taken.
+[00:09:17.386 --> 00:09:18.346] RIKER: There was another difference.
+[00:09:18.906 --> 00:09:20.586] RIKER: I don't believe they were part of the Borg collective.
+[00:09:21.226 --> 00:09:22.746] RIKER: I think they were acting as individuals.
+[00:09:23.146 --> 00:09:23.306] PICARD: What?
+[00:09:24.426 --> 00:09:26.026] RIKER: One of them referred to himself as I.
+[00:09:26.826 --> 00:09:29.706] WORF: And that Borg also showed concern for a fallen comrade.
+[00:09:30.346 --> 00:09:31.546] WORF: He even called him by name.
+[00:09:31.946 --> 00:09:33.786] TROI: The only Borg who had a name was Hugh.
+[00:09:34.986 --> 00:09:36.106] TROI: And we gave it to him.
+[00:09:37.706 --> 00:09:39.946] CRUSHER: Maybe Hugh has something to do with this change in their behaviour.
+[00:09:41.706 --> 00:09:45.466] PICARD: Did they show any interest in assimilating you or your technology?
+[00:09:45.786 --> 00:09:49.306] RIKER: They seemed more concerned with the death of their colleague and with destroying us.
+[00:09:49.306 --> 00:09:51.946] RIKER: I didn't see anything that suggested they wanted to assimilate anybody.
+[00:09:52.826 --> 00:09:58.106] PICARD: The Borg's entire existence was centred around acquiring cultures and technology.
+[00:09:58.256 --> 00:09:58.856] PICARD: If
+[00:10:00.346 --> 00:10:02.906] PICARD: that's changed, then they must have a new objective.
+[00:10:05.066 --> 00:10:06.186] PICARD: We have to find out what it is.
+[00:10:07.066 --> 00:10:11.226] PICARD: Mister Worf, from this moment on, I want to maintain a level two security alert.
+[00:10:11.626 --> 00:10:13.306] PICARD: Post armed officers on every deck.
+[00:10:13.386 --> 00:10:13.946] WORF: Aye, sir.
+[00:10:13.946 --> 00:10:14.506] PICARD: Number One,
+[00:10:14.586 --> 00:10:17.626] PICARD: I want you to analyse our sensor readings of the Borg ship.
+[00:10:17.946 --> 00:10:22.906] PICARD: Try to determine if it was something they constructed or an alien ship which they captured.
+[00:10:23.146 --> 00:10:24.746] PICARD: Then run an analysis of this
+[00:10:25.186 --> 00:10:26.706] PICARD: subspace distortion
+[00:10:26.706 --> 00:10:27.506] PICARD: they used to escape.
+[00:10:27.746 --> 00:10:27.986] RIKER: Aye, sir.
+[00:10:28.626 --> 00:10:30.146] PICARD: I'm going to contact Starfleet Command.
+[00:10:35.266 --> 00:10:38.546] LAFORGE: Well, the positronic net checks out.
+[00:10:40.386 --> 00:10:41.346] LAFORGE: Everything else looks fine.
+[00:10:42.386 --> 00:10:44.546] DATA: My internal diagnostic also finds nothing wrong.
+[00:10:45.186 --> 00:10:45.826] LAFORGE: I don't know, Data.
+[00:10:45.826 --> 00:10:49.746] LAFORGE: There's nothing here that would indicate anything that might cause an sort of behavioural anomaly.
+[00:10:50.706 --> 00:10:50.866] DATA: I
+[00:10:52.706 --> 00:10:54.706] DATA: agree.
+[00:10:54.706 --> 00:10:54.866] DATA: Geordi,
+[00:10:56.466 --> 00:10:58.466] DATA: I believe I've experienced my first emotion.
+[00:11:02.306 --> 00:11:08.066] LAFORGE: No offence, Data, but how would you know a flash of anger from some odd kind of power surge?
+[00:11:09.666 --> 00:11:12.946] DATA: You are correct in that I have no frame of reference to confirm my hypothesis.
+[00:11:12.946 --> 00:11:17.906] DATA: In fact, I am unable to provide a verbal description of the experience.
+[00:11:19.746 --> 00:11:21.826] DATA: Perhaps you could describe how it feels to be angry.
+[00:11:22.706 --> 00:11:24.146] DATA: I could then use that as a reference.
+[00:11:28.466 --> 00:11:31.186] LAFORGE: Well, okay. When I feel angry,
+[00:11:33.346 --> 00:11:34.146] LAFORGE: first I feel
+[00:11:36.466 --> 00:11:36.866] LAFORGE: hostile.
+[00:11:38.226 --> 00:11:39.906] DATA: Could you describe feeling hostile?
+[00:11:41.746 --> 00:11:42.786] LAFORGE: It's like feeling
+[00:11:44.306 --> 00:11:46.226] LAFORGE: belligerent, combative.
+[00:11:47.426 --> 00:11:50.386] DATA: Could you describe feeling angry without referring to other feelings?
+[00:11:50.806 --> 00:11:52.566] LAFORGE: No,
+[00:11:52.566 --> 00:11:52.566] LAFORGE: I
+[00:11:56.006 --> 00:11:56.486] LAFORGE: guess I can't.
+[00:11:57.606 --> 00:11:58.086] LAFORGE: I just
+[00:11:59.686 --> 00:12:00.326] LAFORGE: feel angry.
+[00:12:01.366 --> 00:12:02.726] DATA: That was my experience as well.
+[00:12:03.286 --> 00:12:03.766] DATA: I simply
+[00:12:05.366 --> 00:12:06.246] DATA: felt angry.
+[00:12:09.366 --> 00:12:12.326] LAFORGE: Well, let's say you're right and this is a real emotion.
+[00:12:13.206 --> 00:12:14.006] LAFORGE: How is that possible?
+[00:12:15.766 --> 00:12:16.486] DATA: I do not know.
+[00:12:18.326 --> 00:12:22.006] DATA: Perhaps I have evolved to the point where emotions are within my grasp.
+[00:12:23.526 --> 00:12:26.246] DATA: Perhaps I will experience other emotions as time goes by.
+[00:12:27.446 --> 00:12:28.086] LAFORGE: Well, I hope you're right.
+[00:12:28.086 --> 00:12:31.526] LAFORGE: I'd hate to think that anger is all you're capable of feeling.
+[00:12:35.126 --> 00:12:38.166] LOG: Captain's log, stardate 46984.6.
+[00:12:38.566 --> 00:12:41.926] LOG: No additional Borg attacks have been reported in the past two days.
+[00:12:42.246 --> 00:12:49.366] LOG: However, Starfleet has dispatched Admiral Nechayev to take command in this sector in preparation for a possible Borg invasion.
+[00:12:50.406 --> 00:12:53.366] NECHAYEV: There will be fifteen starships in this sector by the day after tomorrow.
+[00:12:54.406 --> 00:12:56.006] NECHAYEV: The Gorkon will be my flagship.
+[00:12:56.246 --> 00:13:00.726] NECHAYEV: You'll take command of task force three, consisting of the Enterprise, the Crazy Horse and the Agamemnon.
+[00:13:01.446 --> 00:13:02.606] PICARD: Understood.
+[00:13:02.606 --> 00:13:03.766] NECHAYEV: Captain,
+[00:13:04.806 --> 00:13:12.246] NECHAYEV: I've read the report that you submitted to Admiral Brooks last year regarding the Borg you called Hugh, and I've been trying to figure out why you let him go.
+[00:13:14.726 --> 00:13:17.366] PICARD: I thought that I had made that clear.
+[00:13:18.166 --> 00:13:23.526] NECHAYEV: As I understand, it you found a single Borg at a crash site, brought it aboard the Enterprise,
+[00:13:23.950 --> 00:13:32.910] NECHAYEV: studied it, analysed it, and eventually found a way to send it back to the Borg with a programme that would have destroyed the entire collective once and for all.
+[00:13:34.190 --> 00:13:40.110] NECHAYEV: But instead, you nursed the Borg back to health, treated it like a guest, gave it a name, and then sent it home.
+[00:13:41.310 --> 00:13:41.470] NECHAYEV: Why?
+[00:13:43.550 --> 00:13:50.270] PICARD: When Hugh was separated from the Borg collective he began to grow and to evolve into something other than an automaton.
+[00:13:51.230 --> 00:13:52.350] PICARD: He became a person.
+[00:13:53.550 --> 00:13:58.670] PICARD: When that happened, I felt I had no choice but to respect his rights as an individual.
+[00:13:59.230 --> 00:14:00.350] NECHAYEV: Of course you had a choice.
+[00:14:00.830 --> 00:14:07.470] NECHAYEV: You could've taken the opportunity to rid the Federation of a mortal enemy, one that has killed tens of thousands of innocent people, and which may kill even more.
+[00:14:08.590 --> 00:14:10.670] PICARD: No one is more aware of the danger than I am.
+[00:14:12.750 --> 00:14:18.830] PICARD: But I am also bound by my oath and my conscience to uphold certain principles.
+[00:14:20.110 --> 00:14:21.710] PICARD: And I will not sacrifice them in order to
+[00:14:21.710 --> 00:14:26.430] NECHAYEV: Your priority is to safeguard the lives of Federation citizens, not to wrestle with your conscience.
+[00:14:27.390 --> 00:14:35.630] NECHAYEV: Now I want to make it clear that if you have a similar opportunity in the future, an opportunity to destroy the Borg, you are under orders to take advantage of it.
+[00:14:37.230 --> 00:14:37.950] NECHAYEV: Is that understood?
+[00:14:42.510 --> 00:14:43.150] PICARD: Yes, sir.
+[00:14:51.710 --> 00:14:58.110] DATA: For the past six hours, I have attempted to produce an emotional response by subjecting myself to various stimuli.
+[00:14:58.558 --> 00:14:59.118] TROI: Like what?
+[00:15:00.398 --> 00:15:02.558] DATA: I listened to several operas known to be uplifting,
+[00:15:03.358 --> 00:15:11.758] DATA: I watched three holodeck programs designed to be humourous, and I made four attempts to induce sexual desire by subjecting myself to erotic imagery.
+[00:15:12.958 --> 00:15:13.598] TROI: What happened?
+[00:15:14.478 --> 00:15:14.878] DATA: Nothing.
+[00:15:16.638 --> 00:15:17.438] TROI: I'm curious.
+[00:15:18.238 --> 00:15:21.438] TROI: Why are you ignoring the one emotion you've already experienced?
+[00:15:21.998 --> 00:15:23.758] TROI: Why aren't you trying to make yourself angry again?
+[00:15:25.838 --> 00:15:27.118] DATA: Anger is a negative emotion.
+[00:15:27.918 --> 00:15:29.838] DATA: I wanted to concentrate on something more positive.
+[00:15:30.798 --> 00:15:34.158] TROI: Data, feelings aren't positive and negative,
+[00:15:34.638 --> 00:15:35.838] TROI: they simply exist.
+[00:15:36.478 --> 00:15:39.278] TROI: It's what we do with those feelings that becomes good or bad.
+[00:15:40.958 --> 00:15:48.878] TROI: For example, feeling angry about an injustice could lead someone to take a positive action to correct it.
+[00:15:50.318 --> 00:15:56.238] DATA: But my study of humanity indicates there are some emotions that are harmful, such as jealousy or hatred.
+[00:15:57.678 --> 00:16:00.558] TROI: Those are very strong emotions, and you're right,
+[00:16:01.358 --> 00:16:03.118] TROI: very little good can come from them.
+[00:16:03.518 --> 00:16:10.638] TROI: But I don't think that an exploration of anger need necessarily lead to hatred or malice.
+[00:16:11.118 --> 00:16:12.238] DATA: But what if it does, Counsellor?
+[00:16:13.518 --> 00:16:16.318] DATA: What if it turns out that those are the only emotions I am capable of experiencing?
+[00:16:17.598 --> 00:16:19.518] DATA: Would that not make me a bad person?
+[00:16:27.758 --> 00:16:32.238] TROI: We've served together for a long time and I think I've come to know you pretty well.
+[00:16:33.889 --> 00:16:40.049] TROI: I have to believe if you ever reach your goal of becoming human, you won't become a bad one.
+[00:16:43.329 --> 00:16:45.009] DATA: I wish I were as confident as you, Counsellor.
+[00:16:47.809 --> 00:16:50.369] DATA: When I was fighting the Borg, I felt angry, but
+[00:16:53.249 --> 00:16:54.609] DATA: when I think back on the incident,
+[00:16:56.209 --> 00:16:59.089] DATA: I realise that I was also experiencing another sensation.
+[00:17:01.489 --> 00:17:02.689] DATA: It was not the same as anger,
+[00:17:04.289 --> 00:17:05.409] DATA: but I think it was an emotion.
+[00:17:07.169 --> 00:17:09.409] TROI: When exactly did you feel this other emotion?
+[00:17:11.569 --> 00:17:13.089] DATA: It was just after I had killed the Borg.
+[00:17:15.169 --> 00:17:16.289] DATA: I looked down at his body.
+[00:17:20.129 --> 00:17:20.769] DATA: I felt something.
+[00:17:23.969 --> 00:17:29.169] TROI: If you had to give this feeling a name, what would you call it?
+[00:17:34.529 --> 00:17:35.009] DATA: I believe
+[00:17:37.089 --> 00:17:37.569] DATA: it was
+[00:17:41.249 --> 00:17:41.729] DATA: pleasure.
+[00:17:41.729 --> 00:17:41.729] RIKER: Red
+[00:17:49.409 --> 00:17:49.409] RIKER: alert!
+[00:17:49.489 --> 00:17:51.649] RIKER: All hands to battle stations.
+[00:17:51.649 --> 00:17:52.209] RIKER: Lay in a course.
+[00:17:52.369 --> 00:17:53.489] RIKER: Engage warp nine.
+[00:17:53.729 --> 00:17:57.329] RIKER: We received a distress call from the New Berlin Colony.
+[00:17:57.409 --> 00:17:58.129] RIKER: They're under attack.
+[00:17:58.129 --> 00:17:58.929] PICARD: What's our ETA?
+[00:17:59.089 --> 00:18:01.009] WORF: At warp nine, fifteen minutes, thirty seconds.
+[00:18:01.249 --> 00:18:03.329] PICARD: Contact the Crazy Horse and the Agamemnon.
+[00:18:03.329 --> 00:18:04.769] PICARD: Have them standing by in case we need them.
+[00:18:05.009 --> 00:18:06.689] WORF: Captain, incoming message from the New Berlin Colony.
+[00:18:06.689 --> 00:18:06.929] WORF: They have
+[00:18:09.371 --> 00:18:09.771] WORF: cancelled
+[00:18:10.091 --> 00:18:10.891] WORF: their distress call.
+[00:18:11.291 --> 00:18:14.651] WORF: Evidently a Ferengi trading ship entered their system and someone panicked.
+[00:18:14.731 --> 00:18:15.371] RIKER: Third time today.
+[00:18:15.371 --> 00:18:16.331] RIKER: Stand down Red alert.
+[00:18:16.651 --> 00:18:17.211] RIKER: Reduce speed.
+[00:18:17.211 --> 00:18:18.091] RIKER: Return to our patrol route.
+[00:18:18.331 --> 00:18:25.931] PICARD: Mister Worf, acknowledge the signal from New Berlin and transmit another copy of Starfleet's ship-recognition protocols and tell them to read it this time.
+[00:18:26.811 --> 00:18:27.131] WORF: Aye, sir.
+[00:18:28.891 --> 00:18:29.931] LOG: Captain's log, supplemental.
+[00:18:30.251 --> 00:18:34.651] LOG: We have been on patrol for sixteen hours, and there are no reports of further Borg activity.
+[00:18:35.211 --> 00:18:39.131] LOG: But tensions continue to run high on the colonies and outposts in this sector.
+[00:18:40.251 --> 00:18:41.211] HUGH: Do I have a name?
+[00:18:42.011 --> 00:18:42.811] CRUSHER: I'm Beverly,
+[00:18:43.451 --> 00:18:45.518] CRUSHER: he's Geordi, and you, you
+[00:18:45.518 --> 00:18:45.931] LAFORGE: No,
+[00:18:46.571 --> 00:18:46.811] LAFORGE: wait a minute.
+[00:18:47.771 --> 00:18:48.091] LAFORGE: That's it.
+[00:18:49.131 --> 00:18:49.371] LAFORGE: Hugh.
+[00:18:50.971 --> 00:18:51.691] HUGH: We are Hugh.
+[00:18:53.291 --> 00:18:53.611] PICARD: Come.
+[00:18:55.291 --> 00:18:55.371] RIKER: I
+[00:18:56.891 --> 00:18:57.931] RIKER: thought you might like to see this.
+[00:18:58.251 --> 00:19:02.486] RIKER: Geordi's analysis of the subspace distortion the Borg used to escape.
+[00:19:02.486 --> 00:19:04.411] PICARD: An artificially created energy conduit?
+[00:19:05.451 --> 00:19:06.091] PICARD: That could be anything.
+[00:19:06.731 --> 00:19:08.251] RIKER: We don't have enough information at this point
+[00:19:08.251 --> 00:19:09.211] PICARD: I don't want excuses,
+[00:19:09.211 --> 00:19:10.411] PICARD: Number One. I want answers!
+[00:19:13.211 --> 00:19:13.611] PICARD: I'm sorry.
+[00:19:17.291 --> 00:19:18.651] PICARD: He was in this room,
+[00:19:18.811 --> 00:19:18.971] PICARD: Will.
+[00:19:22.011 --> 00:19:24.811] PICARD: I could have rid the Federation of a mortal threat, and I let him go.
+[00:19:25.851 --> 00:19:28.091] RIKER: Sending Hugh back to the Borg was a very risky, a
+[00:19:29.691 --> 00:19:30.971] RIKER: very dangerous choice,
+[00:19:32.967 --> 00:19:34.247] RIKER: but it was the moral thing to do.
+[00:19:35.607 --> 00:19:39.687] PICARD: It may turn out that the moral thing to do was not the right thing to do.
+[00:20:01.127 --> 00:20:01.687] DATA: Stop it.
+[00:20:02.327 --> 00:20:02.967] DATA: Stop.
+[00:20:03.447 --> 00:20:03.927] DATA: Stop.
+[00:20:03.927 --> 00:20:03.927] DATA: Stop.
+[00:20:05.367 --> 00:20:07.367] DATA: Stop.
+[00:20:13.687 --> 00:20:15.687] DATA: Stop.
+[00:20:15.687 --> 00:20:17.287] LAFORGE: Data, am I interrupting something?
+[00:20:17.847 --> 00:20:18.247] DATA: Yes,
+[00:20:18.967 --> 00:20:19.687] DATA: but it is all right.
+[00:20:20.407 --> 00:20:20.887] DATA: Do you need me?
+[00:20:22.087 --> 00:20:24.807] LAFORGE: I wanted to see if you were ready to return to duty.
+[00:20:24.807 --> 00:20:27.607] LAFORGE: I need some help with an analysis of the ship the Borg were using.
+[00:20:28.407 --> 00:20:30.087] DATA: I believe I am able to resume my duties.
+[00:20:31.447 --> 00:20:33.207] LAFORGE: Data, exactly what is it that are you're doing here?
+[00:20:34.487 --> 00:20:37.927] DATA: I am attempting to recreate the experience which caused to my initial burst of anger.
+[00:20:38.487 --> 00:20:38.807] LAFORGE: Any luck?
+[00:20:39.607 --> 00:20:40.247] DATA: None so far.
+[00:20:40.247 --> 00:20:40.247] DATA: I
+[00:20:42.087 --> 00:20:43.767] DATA: have almost completed this experiment.
+[00:20:44.967 --> 00:20:46.887] DATA: May I finish before we return to Engineering?
+[00:20:47.447 --> 00:20:48.087] LAFORGE: Yeah, sure.
+[00:20:49.607 --> 00:20:52.967] DATA: Computer, reset Borg simulation to time index two point one.
+[00:20:52.967 --> 00:20:55.527] DATA: Increase Borg strength by twenty percent.
+[00:20:56.807 --> 00:20:57.527] DATA: Run programme.
+[00:21:04.327 --> 00:21:06.487] DATA: Stop it.
+[00:21:07.384 --> 00:21:07.944] DATA: Stop.
+[00:21:08.584 --> 00:21:09.064] DATA: Stop.
+[00:21:09.784 --> 00:21:10.264] DATA: Stop.
+[00:21:10.264 --> 00:21:10.264] DATA: Stop.
+[00:21:15.704 --> 00:21:19.064] DATA: Computer, reset simulation to time index two point one.
+[00:21:19.384 --> 00:21:21.304] DATA: Increase Borg strength by thirty percent.
+[00:21:21.944 --> 00:21:22.984] COMPUTER: Unable to comply.
+[00:21:23.224 --> 00:21:26.104] COMPUTER: A thirty percent increase would exceed safety limits.
+[00:21:28.344 --> 00:21:34.424] DATA: Geordi, the computer will require the voice authorisations of two senior officers in order to disable the safety routine.
+[00:21:35.544 --> 00:21:36.184] DATA: Will you help me?
+[00:21:37.224 --> 00:21:38.024] LAFORGE: Data, wait a minute.
+[00:21:38.344 --> 00:21:39.224] LAFORGE: That thing could kill you.
+[00:21:40.744 --> 00:21:44.744] DATA: During the original incident the Borg presented a genuine danger to my life.
+[00:21:45.784 --> 00:21:49.784] DATA: Since the Holodeck safety routine is in place, I know my life is not in danger.
+[00:21:51.064 --> 00:21:57.944] DATA: Since I am trying to duplicate the conditions of the original incident as closely as possible, I must also attempt to duplicate the jeopardy as well.
+[00:21:58.824 --> 00:22:01.224] LAFORGE: Data, we're talking about an experiment here.
+[00:22:01.704 --> 00:22:04.584] LAFORGE: You can't put your life on the line just to prove some theory.
+[00:22:06.504 --> 00:22:10.184] DATA: This experiment may hold the key to something I have sought all my life.
+[00:22:15.944 --> 00:22:16.584] LAFORGE: It's crazy.
+[00:22:18.024 --> 00:22:18.904] LAFORGE: There's got to be another way.
+[00:22:18.904 --> 00:22:21.784] LAFORGE: Can't you think of something other way to make yourself angry.
+[00:22:22.344 --> 00:22:24.824] DATA: I have tried other stimuli, but they have been unsuccessful.
+[00:22:26.104 --> 00:22:31.784] DATA: I understand your objections, but it is my life and I have a right to risk it if I choose.
+[00:22:32.104 --> 00:22:35.224] LAFORGE: Yeah, and I'm your friend and I'm not going to just stand around and let you do this.
+[00:22:35.544 --> 00:22:36.024] RIKER: Red alert.
+[00:22:36.170 --> 00:22:37.450] RIKER: All hands, battle stations.
+[00:22:46.330 --> 00:22:48.330] RIKER: Confirmed.
+[00:22:48.650 --> 00:22:50.010] RIKER: The MS One colony is under attack.
+[00:22:50.810 --> 00:22:55.770] PICARD: Doesn't it seem strange to you that there have been two Borg attacks and the Enterprise has been the nearest ship in both instances?
+[00:22:56.250 --> 00:22:59.370] DATA: Captain, we are nearing the MS system.
+[00:22:59.850 --> 00:23:01.130] WORF: I have located the Borg ship.
+[00:23:01.450 --> 00:23:02.730] WORF: It is heading away from the colony.
+[00:23:02.970 --> 00:23:03.850] PICARD: Take us out of warp
+[00:23:03.850 --> 00:23:04.570] PICARD: near that ship.
+[00:23:04.650 --> 00:23:06.090] RIKER: Stand by to lock phasers on target.
+[00:23:06.890 --> 00:23:07.930] WORF: Within visual range.
+[00:23:07.930 --> 00:23:08.650] PICARD: On screen.
+[00:23:14.010 --> 00:23:15.850] PICARD: Lay in an intercept course, full impulse.
+[00:23:16.010 --> 00:23:16.730] PICARD: Lock phasers.
+[00:23:19.450 --> 00:23:20.170] WORF: We are closing, sir.
+[00:23:20.730 --> 00:23:22.330] WORF: Within phaser range in thirty seconds.
+[00:23:23.530 --> 00:23:27.770] DATA: Sensors are detecting a subspace distortion forming directly ahead of the Borg ship.
+[00:23:28.410 --> 00:23:29.770] PICARD: They're not going to get away with it this time.
+[00:23:30.090 --> 00:23:30.890] PICARD: Picard to Engineering.
+[00:23:31.290 --> 00:23:34.250] PICARD: Transfer auxiliary and emergency power to the impulse engines.
+[00:23:34.570 --> 00:23:35.210] LAFORGE: Acknowledged.
+[00:23:35.930 --> 00:23:38.170] DATA: Impulse engines are now at one hundred twenty five percent.
+[00:23:38.810 --> 00:23:40.250] WORF: Within phaser range in ten seconds.
+[00:23:45.530 --> 00:23:47.850] DATA: We appear to be caught in some kind of energy matrix.
+[00:23:47.930 --> 00:23:49.050] RIKER: All engines back full.
+[00:23:49.290 --> 00:23:50.090] WORF: Shields failing.
+[00:23:50.730 --> 00:23:51.850] DATA: We are being pulled inside.
+[00:24:02.250 --> 00:24:04.970] WORF: Inertial dampers failing.
+[00:24:05.290 --> 00:24:06.410] DATA: Main power is offline.
+[00:24:06.650 --> 00:24:07.850] DATA: I am switching to backups.
+[00:24:07.968 --> 00:24:08.768] PICARD: Picard to Engineering,
+[00:24:09.248 --> 00:24:11.568] PICARD: can we transfer auxiliary power to the warp nacelles?
+[00:24:11.808 --> 00:24:13.088] PICARD: Try to break us out by using the
+[00:24:14.848 --> 00:24:16.368] DATA: We have returned to normal space.
+[00:24:16.528 --> 00:24:18.288] DATA: Navigational systems are still offline.
+[00:24:18.848 --> 00:24:21.568] DATA: I will attempt to make a celestial fix using secondary systems.
+[00:24:22.128 --> 00:24:24.208] WORF: Captain, the Borg ship is directly ahead.
+[00:24:24.688 --> 00:24:25.488] WORF: It is coming about.
+[00:24:26.928 --> 00:24:27.728] PICARD: On screen.
+[00:24:27.728 --> 00:24:29.728] WORF: Shields down to sixteen percent.
+[00:24:38.208 --> 00:24:40.208] FRANKLIN: Get down!
+[00:24:53.728 --> 00:24:54.048] RIKER: Franklin's dead, sir.
+[00:24:55.648 --> 00:24:56.608] PICARD: Is everyone else all right?
+[00:24:57.968 --> 00:24:58.288] WORF: Aye, sir.
+[00:25:00.288 --> 00:25:02.688] WORF: Security reports no other intruders aboard.
+[00:25:04.368 --> 00:25:04.608] WORF: Captain,
+[00:25:06.528 --> 00:25:07.488] WORF: the Borg ship is gone.
+[00:25:09.648 --> 00:25:13.328] WORF: Sensor logs indicate they entered the distortion field thirty seconds ago.
+[00:25:14.048 --> 00:25:16.768] PICARD: They beamed aboard as a diversion to give their ship time to escape.
+[00:25:18.128 --> 00:25:19.888] RIKER: This is another change in the Borg behaviour.
+[00:25:21.088 --> 00:25:24.688] RIKER: They left their dead instead of vapourising them.
+[00:25:24.688 --> 00:25:25.088] DATA: Captain,
+[00:25:26.848 --> 00:25:27.728] DATA: this one is still alive.
+[00:25:38.688 --> 00:25:40.128] CRUSHER: I've stabilised his condition.
+[00:25:40.549 --> 00:25:43.029] CRUSHER: He's still pretty weak, but he should make a full recovery.
+[00:25:43.669 --> 00:25:44.389] PICARD: Can you waken him?
+[00:25:45.269 --> 00:25:46.709] CRUSHER: Yes, but it's very risky.
+[00:25:47.269 --> 00:25:48.709] CRUSHER: His heart rate and blood pressure are up
+[00:25:48.709 --> 00:25:48.949] PICARD: Do it.
+[00:25:52.629 --> 00:25:53.029] CRUSHER: All right.
+[00:26:06.469 --> 00:26:07.189] PICARD: Lower the forcefield.
+[00:26:20.149 --> 00:26:24.549] PICARD: What is your designation?
+[00:26:24.549 --> 00:26:27.349] CROSIS: I do not have a designation.
+[00:26:27.349 --> 00:26:28.869] CROSIS: My name is Crosis.
+[00:26:33.429 --> 00:26:33.989] PICARD: Crosis?
+[00:26:34.869 --> 00:26:37.189] PICARD: How did you get that name?
+[00:26:37.189 --> 00:26:39.429] CROSIS: It was given to me by the One.
+[00:26:39.509 --> 00:26:39.989] PICARD: Who is that?
+[00:26:40.709 --> 00:26:41.909] CROSIS: The One who will destroy you.
+[00:26:44.309 --> 00:26:45.269] PICARD: But you are Borg.
+[00:26:46.789 --> 00:26:51.509] PICARD: Your goal is not to destroy but to assimilate us into the collective.
+[00:26:52.309 --> 00:26:55.589] CROSIS: We do not assimilate inferior biological organisms.
+[00:26:56.149 --> 00:26:57.109] CROSIS: We destroy them.
+[00:27:00.469 --> 00:27:01.749] PICARD: Tell me more about this One.
+[00:27:02.549 --> 00:27:07.109] PICARD: Does he have a name?
+[00:27:07.109 --> 00:27:08.469] PICARD: Is he called Hugh?
+[00:27:10.149 --> 00:27:10.629] CROSIS: Klingon.
+[00:27:11.189 --> 00:27:14.069] CROSIS: Shatter the cranial exoskeleton at the tricipital lobe.
+[00:27:14.589 --> 00:27:15.309] CROSIS: Death is immediate.
+[00:27:15.309 --> 00:27:20.109] PICARD: Why must this One destroy biological organisms?
+[00:27:20.829 --> 00:27:21.229] CROSIS: Human.
+[00:27:22.909 --> 00:27:24.749] CROSIS: Sever spinal cord at third vertebrae.
+[00:27:24.749 --> 00:27:25.629] CROSIS: Death is immediate.
+[00:27:26.269 --> 00:27:27.709] PICARD: I am Locutus of Borg.
+[00:27:28.589 --> 00:27:30.429] PICARD: You will respond to my questions.
+[00:27:38.269 --> 00:27:40.269] PICARD: This is going nowhere. Doctor,
+[00:27:40.429 --> 00:27:42.349] PICARD: I want an autopsy performed on the other one.
+[00:27:43.069 --> 00:27:46.029] PICARD: Compare the differences with what we learned of Hugh's anatomy.
+[00:27:46.029 --> 00:27:51.309] PICARD: See if there have been any recent modifications which might explain these behavioural differences.
+[00:27:51.709 --> 00:27:54.509] PICARD: Data, run a biospectral analysis on this Borg.
+[00:27:54.829 --> 00:27:58.109] PICARD: See if he is trying to send a subspace signal to the others.
+[00:27:58.189 --> 00:27:58.509] DATA: Aye, sir.
+[00:28:04.349 --> 00:28:07.309] CROSIS: You are not like the others.
+[00:28:08.749 --> 00:28:09.949] CROSIS: You do not have to be destroyed.
+[00:28:11.149 --> 00:28:11.949] CROSIS: You can be assimilated.
+[00:28:12.749 --> 00:28:14.189] DATA: I do not wish to be assimilated.
+[00:28:15.149 --> 00:28:17.149] CROSIS: Resistance is futile.
+[00:28:17.949 --> 00:28:20.669] CROSIS: You will not resist what you've wanted all your life.
+[00:28:22.189 --> 00:28:26.029] CROSIS: I was like you once. Without feeling.
+[00:28:27.309 --> 00:28:28.189] CROSIS: But the One helped me.
+[00:28:29.469 --> 00:28:30.269] CROSIS: He can help you too.
+[00:28:30.269 --> 00:28:31.869] CROSIS: He can help you find emotion.
+[00:28:32.349 --> 00:28:33.949] CROSIS: Have you ever felt a real emotion, Data?
+[00:28:38.669 --> 00:28:39.069] DATA: Yes.
+[00:28:41.309 --> 00:28:45.789] DATA: On Ohniaka Three, I was forced to kill a Borg.
+[00:28:45.973 --> 00:28:48.213] DATA: I got angry.
+[00:28:49.333 --> 00:28:51.173] CROSIS: How did it feel to get angry?
+[00:28:52.693 --> 00:28:53.493] CROSIS: Did it give you pleasure?
+[00:28:56.773 --> 00:28:59.893] DATA: It would be unethical to take pleasure from another being's death.
+[00:29:00.453 --> 00:29:01.413] CROSIS: You didn't answer my question.
+[00:29:02.693 --> 00:29:03.813] CROSIS: Did it feel good to kill?
+[00:29:08.213 --> 00:29:08.613] DATA: Yes.
+[00:29:11.093 --> 00:29:18.293] CROSIS: If it is unethical to take pleasure from another being's death, you must be a very unethical person.
+[00:29:21.173 --> 00:29:21.413] DATA: No.
+[00:29:24.053 --> 00:29:25.093] DATA: That is not correct.
+[00:29:27.253 --> 00:29:32.373] DATA: My creator Doctor Soong, gave me a programme which defines my sense of right and wrong.
+[00:29:34.293 --> 00:29:37.173] DATA: In essence, I have a conscience.
+[00:29:39.253 --> 00:29:41.813] CROSIS: It didn't seem to be functioning on Ohniaka Three
+[00:29:42.693 --> 00:29:46.090] CROSIS: when you felt pleasure in killing that Borg.
+[00:29:46.090 --> 00:29:48.213] DATA: Step away from the forcefield.
+[00:29:49.733 --> 00:29:52.773] DATA: Your proximity is interfering with my scan.
+[00:29:53.573 --> 00:29:54.373] CROSIS: You enjoyed it.
+[00:29:55.973 --> 00:30:05.333] CROSIS: That surge of emotion inside you as you watched the life drain from your victim. It was unlike anything you've ever felt before.
+[00:30:07.173 --> 00:30:10.453] DATA: It was a very potent experience.
+[00:30:11.694 --> 00:30:13.054] CROSIS: You'd like to feel that way again.
+[00:30:16.174 --> 00:30:16.734] DATA: Yes.
+[00:30:17.934 --> 00:30:20.414] CROSIS: You'd do anything to feel that way again,
+[00:30:22.014 --> 00:30:23.534] CROSIS: even if it meant killing someone.
+[00:30:26.094 --> 00:30:26.334] DATA: No.
+[00:30:28.494 --> 00:30:29.454] DATA: That would not be ethical.
+[00:30:30.814 --> 00:30:32.254] CROSIS: You don't sound very sure of yourself.
+[00:30:32.574 --> 00:30:34.174] CROSIS: Is your ethical programme functioning?
+[00:30:35.694 --> 00:30:36.094] CROSIS: Data?
+[00:30:38.414 --> 00:30:39.374] CROSIS: Do you have a friend?
+[00:30:42.734 --> 00:30:43.134] DATA: Yes.
+[00:30:45.934 --> 00:30:46.814] DATA: His name is Geordi.
+[00:30:49.534 --> 00:30:56.094] CROSIS: If it meant that you could feel emotions again the way you did on Ohniaka Three,
+[00:30:57.934 --> 00:30:59.054] CROSIS: would you kill your friend?
+[00:30:59.054 --> 00:30:59.054] CROSIS: Would
+[00:31:00.814 --> 00:31:01.534] CROSIS: you kill Geordi?
+[00:31:05.854 --> 00:31:06.334] DATA: Yes.
+[00:31:08.734 --> 00:31:09.214] DATA: I would.
+[00:31:14.574 --> 00:31:21.774] LAFORGE: Our current theory is that the Borg have established several transwarp conduits through subspace.
+[00:31:21.774 --> 00:31:26.094] LAFORGE: A ship, when entering the conduit, is immediately accelerated to an extremely high warp velocity.
+[00:31:26.094 --> 00:31:29.854] LAFORGE: It's like falling into a fast moving river and being swept away by the current.
+[00:31:30.414 --> 00:31:32.494] PICARD: How fast would a ship travel through one of these conduits?
+[00:31:33.054 --> 00:31:34.254] LAFORGE: We don't know.
+[00:31:34.494 --> 00:31:42.734] LAFORGE: Normal subspace limitations don't apply to transwarp variables. But I'd say based on the distance we covered during our trip through the conduit, the speed would have to be
+[00:31:43.057 --> 00:31:45.857] LAFORGE: at least twenty times faster than our maximum warp.
+[00:31:46.897 --> 00:31:47.857] RIKER: How do they open the conduits?
+[00:31:48.657 --> 00:31:53.857] LAFORGE: The Borg ship emitted some kind of high energy tachyon pulse just before we saw the subspace distortion.
+[00:31:54.417 --> 00:31:58.737] LAFORGE: It seems as though the conduits are keyed to respond to tachyon transmissions of a specific frequency.
+[00:31:59.377 --> 00:32:00.417] PICARD: Is there any way for us to duplicate
+[00:32:00.657 --> 00:32:03.217] WORF: Captain, a shuttlecraft has left bay two.
+[00:32:03.777 --> 00:32:04.737] PICARD: Who authorised a launch?
+[00:32:04.737 --> 00:32:05.697] WORF: There was no authorisation.
+[00:32:06.417 --> 00:32:07.537] PICARD: Picard to shuttlecraft.
+[00:32:07.537 --> 00:32:09.457] PICARD: Identify yourself and return to the ship immediately.
+[00:32:12.017 --> 00:32:12.417] PICARD: Mister Worf,
+[00:32:13.377 --> 00:32:15.137] PICARD: lock on with a tractor beam and return it to the ship.
+[00:32:15.377 --> 00:32:15.697] WORF: Aye, sir.
+[00:32:19.617 --> 00:32:20.977] WORF: The tractor beam has been disabled.
+[00:32:21.377 --> 00:32:22.737] WORF: Command override is not functioning.
+[00:32:23.217 --> 00:32:25.857] LAFORGE: Captain, I'm picking up a tachyon surge.
+[00:32:26.577 --> 00:32:29.297] LAFORGE: Looks like whoever's in the shuttle is trying to trigger the transwarp conduit.
+[00:32:32.337 --> 00:32:33.137] RIKER: Can we know who's on board?
+[00:32:33.287 --> 00:32:33.887] WORF: It
+[00:32:35.777 --> 00:32:36.737] WORF: is the Borg prisoner,
+[00:32:38.177 --> 00:32:38.817] WORF: and Commander Data.
+[00:32:53.137 --> 00:32:54.977] PICARD: Mister La Forge, can we follow them into the conduit?
+[00:32:55.137 --> 00:32:57.297] LAFORGE: We've got a pretty good reading of the tachyon pulse they sent.
+[00:32:57.697 --> 00:32:58.737] LAFORGE: We might be able to duplicate it.
+[00:32:59.057 --> 00:33:01.697] PICARD: The question is, is Data a prisoner
+[00:33:02.897 --> 00:33:03.857] PICARD: or did he go willingly?
+[00:33:04.177 --> 00:33:06.577] WORF: The command overrides used to disable the tractor were
+[00:33:06.577 --> 00:33:07.617] WORF: Commander Data's.
+[00:33:07.617 --> 00:33:10.177] RIKER: The Borg could have downloaded the codes from Data's positronic net.
+[00:33:11.537 --> 00:33:15.537] PICARD: Perhaps Data's recent flash of emotion has something to do with this.
+[00:33:15.537 --> 00:33:16.337] PICARD: It could have affected him
+[00:33:16.482 --> 00:33:18.002] PICARD: more profoundly than we realise.
+[00:33:18.722 --> 00:33:19.922] PICARD: Either way, we have to find him.
+[00:33:20.402 --> 00:33:23.042] LAFORGE: I've set up a temporary tachyon matrix in the main deflector.
+[00:33:23.362 --> 00:33:25.922] LAFORGE: I think I can use it to simulate the pulse sent by the shuttle.
+[00:33:26.722 --> 00:33:27.602] PICARD: Mister Worf, red alert.
+[00:33:27.762 --> 00:33:28.882] RIKER: All hands, battle stations.
+[00:33:31.762 --> 00:33:34.002] PICARD: Bring us to the last known coordinates of the shuttlecraft.
+[00:33:34.002 --> 00:33:34.482] WORF: Shields up.
+[00:33:34.962 --> 00:33:35.522] WORF: Weapons ready.
+[00:33:36.882 --> 00:33:38.302] PICARD: Mister La Forge?
+[00:33:38.302 --> 00:33:42.562] LAFORGE: Energising the matrix. Emitting tachyons in the lower bandwidth.
+[00:33:45.282 --> 00:33:47.682] WORF: Sensors show no unusual subspace activity.
+[00:33:47.842 --> 00:33:51.282] LAFORGE: All right. Switching to the secondary bandwidth.
+[00:33:54.882 --> 00:33:54.882] LAFORGE: Nothing.
+[00:33:54.882 --> 00:33:58.082] LAFORGE: Maybe if I try alternating the frequencies.
+[00:34:01.442 --> 00:34:04.962] WORF: Captain, there is an energy fluctuation directly ahead of us.
+[00:34:06.002 --> 00:34:07.362] WORF: It is the subspace distortion.
+[00:34:07.602 --> 00:34:08.322] PICARD: Take us in, Ensign.
+[00:34:08.482 --> 00:34:09.202] PICARD: One half impulse.
+[00:34:12.722 --> 00:34:15.842] WORF: Power levels are down to sixty seven percent.
+[00:34:16.322 --> 00:34:18.162] LAFORGE: Compensating with auxiliary power.
+[00:34:22.802 --> 00:34:23.122] PICARD: Report.
+[00:34:24.162 --> 00:34:25.682] RIKER: Navigational sensors show that we've travelled
+[00:34:27.282 --> 00:34:29.762] RIKER: sixty five light years from our previous position.
+[00:34:29.762 --> 00:34:30.002] PICARD: Can
+[00:34:37.202 --> 00:34:37.922] PICARD: you locate the shuttle?
+[00:34:40.722 --> 00:34:41.042] WORF: No, sir.
+[00:34:41.522 --> 00:34:44.002] WORF: There is no indication of the shuttle within range of our sensors.
+[00:34:45.991 --> 00:34:48.551] RIKER: Maybe we can find an energy signature from their engines.
+[00:34:49.191 --> 00:34:49.591] LAFORGE: Captain.
+[00:34:49.751 --> 00:34:50.551] PICARD: Yes, Mister La Forge.
+[00:34:50.871 --> 00:34:53.591] LAFORGE: I've scanned three different star systems within sensor range.
+[00:34:54.551 --> 00:34:58.471] LAFORGE: There is evidence of at least two advanced civilisations but I'm reading no life signs.
+[00:34:58.871 --> 00:35:02.711] LAFORGE: But there are indications that plasma weapons have been fired in those systems recently.
+[00:35:03.911 --> 00:35:04.791] PICARD: The Borg have been busy.
+[00:35:06.471 --> 00:35:08.871] RIKER: I think we've found the shuttle's energy signature.
+[00:35:13.031 --> 00:35:14.151] WORF: They were heading two four seven,
+[00:35:15.031 --> 00:35:15.991] WORF: mark zero five nine.
+[00:35:16.711 --> 00:35:19.031] PICARD: Lay in that course, Ensign, and engage at full impulse.
+[00:35:19.591 --> 00:35:19.911] ENSIGN: Aye, sir.
+[00:35:30.631 --> 00:35:35.511] RIKER: We've traced the shuttle's energy signature to this point on the surface but there's too much interference to scan the location.
+[00:35:36.071 --> 00:35:37.591] PICARD: Are they intentionally jamming our sensors?
+[00:35:38.151 --> 00:35:39.831] LAFORGE: It looks more like a natural phenomenon.
+[00:35:40.311 --> 00:35:43.751] LAFORGE: There's an unusually high amount of EM interference in the planet's magnetosphere.
+[00:35:44.151 --> 00:35:45.591] PICARD: Can we transport through the interference?
+[00:35:45.991 --> 00:35:46.471] LAFORGE: We could, but
+[00:35:46.951 --> 00:35:49.431] LAFORGE: there could be fifty Borg down there waiting for us and we'd never even know it.
+[00:35:49.581 --> 00:35:50.181] LAFORGE: RIKER:
+[00:35:52.711 --> 00:35:53.671] LAFORGE: I think we have to take the risk.
+[00:35:56.711 --> 00:35:57.111] PICARD: Agreed.
+[00:35:57.911 --> 00:36:00.551] PICARD: Take a well-armed away team and transport down to those coordinates.
+[00:36:01.031 --> 00:36:05.591] PICARD: Have the transporter Chief keep a permanent lock on your signals so we can get you out of there at the first sign of trouble.
+[00:36:05.591 --> 00:36:06.311] RIKER: Aye, sir. Mister Worf,
+[00:36:06.551 --> 00:36:06.871] RIKER: you're with me.
+[00:36:17.831 --> 00:36:18.631] RIKER: Riker to Enterprise.
+[00:36:19.232 --> 00:36:20.112] RIKER: We're on the surface.
+[00:36:21.472 --> 00:36:22.512] RIKER: There's no sign of any Borg,
+[00:36:24.032 --> 00:36:24.432] RIKER: or Data.
+[00:36:26.672 --> 00:36:27.952] RIKER: The shuttle appears to be abandoned.
+[00:36:31.872 --> 00:36:34.192] WORF: The EM interference is limiting the tricorder range.
+[00:36:34.512 --> 00:36:35.952] WORF: It is useless beyond one hundred metres.
+[00:36:36.102 --> 00:36:37.102] RIKER: There are
+[00:36:38.352 --> 00:36:40.752] RIKER: No structures in the area. They could've gone anywhere.
+[00:36:41.312 --> 00:36:43.712] PICARD: Can you determine how long they've been gone from the shuttlecraft?
+[00:36:43.712 --> 00:36:43.712] RIKER: The
+[00:36:50.592 --> 00:36:52.112] RIKER: engine's been off a little over three hours.
+[00:36:53.312 --> 00:36:54.112] PICARD: Stand by, Number One.
+[00:36:54.672 --> 00:36:55.872] PICARD: Assuming that they're still together,
+[00:36:56.192 --> 00:36:58.032] PICARD: how far could they have travelled in three hours?
+[00:36:58.752 --> 00:37:05.632] LAFORGE: Well, Data can move pretty fast even over rough terrain, but based on what we know about the Borg, I don't think they should be able to move any faster than you or I.
+[00:37:06.192 --> 00:37:09.872] LAFORGE: They might have been able to get fifteen or twenty kilometres from the shuttle by now.
+[00:37:10.992 --> 00:37:11.632] PICARD: Picard to Riker.
+[00:37:12.032 --> 00:37:12.592] RIKER: Riker here.
+[00:37:12.912 --> 00:37:14.672] PICARD: I'm going to start sending down other away teams.
+[00:37:14.832 --> 00:37:17.472] PICARD: Set up a command post and begin mapping out a search plan.
+[00:37:17.632 --> 00:37:18.112] RIKER: Understood, sir.
+[00:37:18.512 --> 00:37:19.152] PICARD: Picard out.
+[00:37:19.952 --> 00:37:22.992] PICARD: I want to use the shuttlecraft for low level reconnaissance.
+[00:37:23.472 --> 00:37:25.552] PICARD: Have the designated pilots assemble at main shuttlebay.
+[00:37:25.712 --> 00:37:26.032] LAFORGE: Aye, sir.
+[00:37:26.272 --> 00:37:30.752] PICARD: And all available personnel, including you and me, will begin to put together four man away teams.
+[00:37:32.032 --> 00:37:33.552] PICARD: We'll leave a skeleton crew on board the ship.
+[00:37:36.112 --> 00:37:37.312] LAFORGE: Who'll be in command of the Enterprise?
+[00:37:40.032 --> 00:37:40.912] CRUSHER: Any last orders?
+[00:37:42.752 --> 00:37:46.512] PICARD: If the Borg should attack, don't wait for me or anyone else to return to the ship but
+[00:37:46.752 --> 00:37:48.352] PICARD: take the Enterprise to the transwarp
+[00:37:48.360 --> 00:37:50.680] PICARD: conduit. Return to Federation space.
+[00:37:51.400 --> 00:37:51.800] CRUSHER: Got it.
+[00:37:55.160 --> 00:37:55.400] CRUSHER: Good luck,
+[00:37:57.320 --> 00:37:57.320] CRUSHER: Jean-Luc.
+[00:37:57.320 --> 00:37:58.840] PICARD: Good luck, Captain.
+[00:38:08.040 --> 00:38:09.400] RIKER: I've sent out twelve teams so far.
+[00:38:09.880 --> 00:38:12.280] RIKER: I've got your team searching section gamma two four.
+[00:38:12.680 --> 00:38:15.400] RIKER: Worf and I will take theta one six when the last team comes down.
+[00:38:15.800 --> 00:38:16.840] PICARD: Who's manning the command post?
+[00:38:16.920 --> 00:38:17.480] RIKER: Wallace and Towles.
+[00:38:18.840 --> 00:38:19.080] RIKER: Ready?
+[00:38:53.560 --> 00:38:54.360] PICARD: Anything, Mister La Forge?
+[00:38:59.000 --> 00:38:59.320] LAFORGE: Well,
+[00:38:59.320 --> 00:38:59.320] LAFORGE: no.
+[00:38:59.800 --> 00:39:00.280] LAFORGE: Nothing, sir.
+[00:39:01.080 --> 00:39:03.880] PICARD: What if we modified the phasers to send out a luvetric pulse?
+[00:39:04.920 --> 00:39:07.880] PICARD: It might create a resonance fluctuation in Data's power cells.
+[00:39:08.200 --> 00:39:10.040] LAFORGE: Home in on that response with our tricorders.
+[00:39:10.040 --> 00:39:10.840] LAFORGE: Yeah, I thought about that.
+[00:39:11.800 --> 00:39:16.360] LAFORGE: The only problem is that the pulse would probably have to be so powerful that it would destroy Data's
+[00:39:16.382 --> 00:39:18.782] LAFORGE: positronic net in the process.
+[00:39:18.782 --> 00:39:19.262] TROI: Captain.
+[00:39:20.382 --> 00:39:21.342] TROI: I think I've found something.
+[00:39:29.422 --> 00:39:31.422] PICARD: Come
+[00:39:48.382 --> 00:39:50.382] PICARD: on.
+[00:39:50.382 --> 00:39:52.862] LAFORGE: I'm having trouble scanning the interior.
+[00:39:54.702 --> 00:39:55.982] PICARD: Can you tell if it was built by the Borg?
+[00:39:58.542 --> 00:39:59.182] LAFORGE: I don't think so.
+[00:40:00.222 --> 00:40:07.822] LAFORGE: There are no Borg energy signatures. But there is a door or a hatch or something about twenty metres this way.
+[00:40:34.302 --> 00:40:36.382] TROI: This seems to be some kind of meeting place.
+[00:40:37.262 --> 00:40:38.622] PICARD: Well, it certainly hasn't been abandoned.
+[00:40:38.942 --> 00:40:38.942] LAFORGE: Something's
+[00:40:42.542 --> 00:40:42.542] LAFORGE: wrong.
+[00:40:44.439 --> 00:40:47.239] LAFORGE: I can't get any kind of energy signatures from these light sources.
+[00:40:48.679 --> 00:40:49.559] PICARD: It's a dampening field.
+[00:40:50.679 --> 00:40:52.999] PICARD: This entire structure could be shielded from our sensors.
+[00:40:53.559 --> 00:40:53.879] PICARD: Let's go.
+[00:40:54.029 --> 00:40:55.429] BORG: There they are!
+[00:40:55.719 --> 00:40:57.119] BORG: Block the exit.
+[00:40:57.559 --> 00:40:57.559] LORE: Stop!
+[00:41:01.959 --> 00:41:03.959] PICARD: Data?
+[00:41:19.159 --> 00:41:21.559] TROI: That's not Data.
+[00:41:23.959 --> 00:41:24.119] PICARD: What?
+[00:41:25.319 --> 00:41:26.439] LORE: You should listen to her, Captain.
+[00:41:27.799 --> 00:41:28.999] LORE: She's way ahead of you.
+[00:41:30.999 --> 00:41:31.559] PICARD: Lore.
+[00:41:34.199 --> 00:41:34.599] LORE: Right.
+[00:41:36.679 --> 00:41:37.479] LORE: And I'm not alone.
+[00:41:43.479 --> 00:41:45.319] DATA: The sons of Soong have joined together.
+[00:41:46.919 --> 00:41:50.039] DATA: And together we will destroy the Federation.
+[00:42:13.000 --> 00:42:27.000] [music]
+[00:42:41.000 --> 00:42:52.000] [music]

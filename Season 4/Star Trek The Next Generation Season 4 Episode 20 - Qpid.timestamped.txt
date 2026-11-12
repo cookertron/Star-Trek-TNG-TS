@@ -1,0 +1,663 @@
+[00:00:02.880 --> 00:00:06.240] LOG: Captain's log, stardate 44741.9.
+[00:00:06.880 --> 00:00:13.760] LOG: We have arrived at Tagus Three where the Enterprise is to serve for host of the Federation Archaeology Council's annual symposium.
+[00:00:14.720 --> 00:00:18.320] LOG: I look forward to giving tomorrow's keynote address with great anticipation.
+[00:00:21.840 --> 00:00:22.160] PICARD: Come.
+[00:00:25.920 --> 00:00:30.400] TROI: I thought you'd like to know the Council members have beamed aboard and been assigned their quarters.
+[00:00:31.360 --> 00:00:32.520] PICARD: Excellent.
+[00:00:32.520 --> 00:00:33.680] TROI: Captain,
+[00:00:34.480 --> 00:00:35.840] TROI: it really is quite late.
+[00:00:36.480 --> 00:00:40.240] PICARD: Tell me, Counsellor, with regard to my lecture, what do you think would provide greater clarity?
+[00:00:41.120 --> 00:00:49.760] PICARD: A chronological structure, or the division of each excavation's findings into various religious, sociological and environmental sub-groupings?
+[00:00:50.400 --> 00:00:52.960] TROI: I thought you'd already decided on a chronological structure.
+[00:00:54.880 --> 00:00:56.880] PICARD: There is something to be said for a more scientific approach.
+[00:00:58.960 --> 00:01:00.160] TROI: May I make a suggestion?
+[00:01:00.480 --> 00:01:01.040] PICARD: By all means.
+[00:01:02.240 --> 00:01:02.880] TROI: Relax.
+[00:01:03.600 --> 00:01:05.440] TROI: You've written a brilliant speech.
+[00:01:08.080 --> 00:01:09.760] PICARD: It will need to be. Tomorrow
+[00:01:09.760 --> 00:01:18.720] PICARD: I'll be addressing some of the greatest scientific minds in the Federation. Switzer, Klarc-Tarn-Droth, McFarland. Giants in the field of archaeology.
+[00:01:18.880 --> 00:01:21.920] PICARD: Compared to them I'm just an enthusiastic amateur.
+[00:01:22.480 --> 00:01:23.920] TROI: I doubt they see of you as an amateur.
+[00:01:24.560 --> 00:01:26.080] TROI: Not when it comes to Tagus Three.
+[00:01:26.560 --> 00:01:27.120] PICARD: Well, it's true,
+[00:01:28.400 --> 00:01:29.280] PICARD: I have done my homework
+[00:01:30.000 --> 00:01:33.920] PICARD: I have examined the findings of every archaeological expedition conducted
+[00:01:33.928 --> 00:01:34.968] PICARD: on the planet surface.
+[00:01:35.368 --> 00:01:39.288] TROI: It is unfortunate that the Taguans no longer allow outsiders to visit the ruins.
+[00:01:39.688 --> 00:01:42.888] PICARD: Indeed. Especially since we know so little about their origins.
+[00:01:43.128 --> 00:01:48.168] PICARD: But I think that I have constructed some plausible theories of my own.
+[00:01:48.728 --> 00:01:50.728] TROI: And I'm sure the council members will agree with you.
+[00:01:51.768 --> 00:01:53.048] PICARD: Your support is appreciated, Counsellor.
+[00:01:53.848 --> 00:01:55.048] TROI: Now goodnight, Captain.
+[00:02:34.648 --> 00:02:37.688] VASH: Bring back any memories?
+[00:02:39.048 --> 00:02:39.688] PICARD: Vash.
+[00:02:41.208 --> 00:02:42.168] PICARD: How did you get in here?
+[00:02:44.328 --> 00:02:45.608] VASH: I came in through the window.
+[00:03:34.371 --> 00:03:37.171] PICARD: Space, the final frontier.
+[00:03:39.011 --> 00:03:41.891] PICARD: These are the voyages of the starship Enterprise.
+[00:03:43.011 --> 00:03:51.011] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:52.611 --> 00:03:55.491] PICARD: to boldly go where no one has gone before.
+[00:03:55.641 --> 00:03:56.241] PICARD: I
+[00:04:24.000 --> 00:04:33.000] [music]
+[00:04:57.925 --> 00:05:00.485] PICARD: had no idea you were a member of the Archaeology Council.
+[00:05:04.725 --> 00:05:06.885] PICARD: You are a member, aren't you?
+[00:05:07.605 --> 00:05:08.165] VASH: More or less.
+[00:05:11.125 --> 00:05:12.325] PICARD: Why did you come to Tagus Three?
+[00:05:13.525 --> 00:05:14.645] VASH: To see you, of course.
+[00:05:15.365 --> 00:05:16.085] PICARD: Is that the only reason?
+[00:05:16.965 --> 00:05:17.685] VASH: Isn't it enough?
+[00:05:19.525 --> 00:05:20.405] PICARD: I wish I could believe you.
+[00:05:22.325 --> 00:05:25.445] VASH: I really have missed you, Jean-Luc.
+[00:05:36.485 --> 00:05:36.965] PICARD: Excuse me.
+[00:05:40.165 --> 00:05:41.045] CRUSHER: I'm sorry I'm late.
+[00:05:43.125 --> 00:05:43.285] CRUSHER: Oh.
+[00:05:45.365 --> 00:05:46.245] CRUSHER: Excuse me.
+[00:05:47.365 --> 00:05:49.125] CRUSHER: I didn't realise you had company.
+[00:05:49.845 --> 00:05:50.325] PICARD: That's all right.
+[00:05:50.405 --> 00:05:51.711] PICARD: Er, allow me to introduce you.
+[00:05:51.765 --> 00:05:54.965] PICARD: This is Beverly, Doctor Beverly, Doctor Beverly Crusher.
+[00:05:54.965 --> 00:05:56.725] PICARD: This is Vash.
+[00:05:57.365 --> 00:05:59.125] PICARD: She's a friend of mine from the Archaeology Council.
+[00:05:59.845 --> 00:06:00.965] CRUSHER: I didn't mean to interrupt.
+[00:06:01.525 --> 00:06:03.765] CRUSHER: The Captain and I often share morning tea together.
+[00:06:04.526 --> 00:06:05.166] VASH: Yes, I know.
+[00:06:05.966 --> 00:06:07.326] VASH: Jean-Luc has told me all about you.
+[00:06:08.366 --> 00:06:09.086] CRUSHER: Really?
+[00:06:11.246 --> 00:06:11.726] CRUSHER: When was that?
+[00:06:12.766 --> 00:06:14.046] VASH: On Risa, where we met.
+[00:06:14.766 --> 00:06:15.726] CRUSHER: I see.
+[00:06:17.646 --> 00:06:20.046] CRUSHER: That must have been during your vacation last year.
+[00:06:20.366 --> 00:06:20.526] PICARD: No.
+[00:06:21.006 --> 00:06:21.246] PICARD: Yes.
+[00:06:22.606 --> 00:06:22.926] PICARD: Yes.
+[00:06:24.206 --> 00:06:26.926] CRUSHER: Well, I'm surprised he never mentioned you.
+[00:06:29.006 --> 00:06:29.486] VASH: So am I.
+[00:06:34.526 --> 00:06:35.406] VASH: Doctor, are you busy?
+[00:06:36.366 --> 00:06:37.246] CRUSHER: Not at the moment.
+[00:06:37.806 --> 00:06:38.606] VASH: I was wondering,
+[00:06:38.606 --> 00:06:41.006] VASH: I would love to see some more of this marvellous ship.
+[00:06:41.646 --> 00:06:43.806] CRUSHER: I would be delighted to show it to you.
+[00:06:44.046 --> 00:06:44.846] PICARD: I, er
+[00:06:45.806 --> 00:06:48.686] CRUSHER: That is, if it's all right with you, Jean-Luc.
+[00:06:48.686 --> 00:06:49.006] PICARD: Of
+[00:06:50.526 --> 00:06:50.766] PICARD: course.
+[00:07:02.846 --> 00:07:03.326] VASH: Don't worry,
+[00:07:03.566 --> 00:07:05.006] VASH: I promise to behave myself.
+[00:07:15.486 --> 00:07:19.166] CRUSHER: And this is Ten Forward, where the Council's welcoming reception will be held today.
+[00:07:20.446 --> 00:07:21.966] VASH: Well, I can't think of a better location.
+[00:07:24.126 --> 00:07:25.486] VASH: Tell me, does Jean-Luc come here often?
+[00:07:26.046 --> 00:07:26.526] CRUSHER: Not often.
+[00:07:26.926 --> 00:07:28.686] CRUSHER: The Captain is a very private man.
+[00:07:29.486 --> 00:07:30.995] CRUSHER: Would you like something to drink?
+[00:07:30.995 --> 00:07:31.246] VASH: Please.
+[00:07:39.948 --> 00:07:41.148] RIKER: Eternity never looked so lovely.
+[00:07:42.188 --> 00:07:42.828] VASH: Excuse me?
+[00:07:43.148 --> 00:07:44.908] RIKER: I was referring to the view.
+[00:07:44.908 --> 00:07:47.068] RIKER: Eternity never looked so lovely.
+[00:07:49.148 --> 00:07:50.668] VASH: You must be Commander Riker.
+[00:07:50.988 --> 00:07:54.348] RIKER: I'm afraid you have me at a disadvantage.
+[00:07:54.748 --> 00:07:55.788] VASH: I didn't mean to interrupt.
+[00:07:56.268 --> 00:08:02.108] VASH: I believe you were about to tell me that my eyes are as mysterious as the stars.
+[00:08:03.708 --> 00:08:04.188] RIKER: You're Betazoid.
+[00:08:04.988 --> 00:08:05.628] VASH: Not at all.
+[00:08:06.268 --> 00:08:08.988] VASH: It's just that Jean-Luc does a very good imitation of you.
+[00:08:09.708 --> 00:08:10.188] RIKER: He does?
+[00:08:11.468 --> 00:08:12.428] CRUSHER: I see you two have met.
+[00:08:14.588 --> 00:08:15.308] RIKER: Not exactly.
+[00:08:16.508 --> 00:08:20.588] CRUSHER: This is Vash, a member of the Archaeology Council. And a friend of the Captain's.
+[00:08:21.468 --> 00:08:22.028] RIKER: So I've gathered.
+[00:08:22.428 --> 00:08:24.428] CRUSHER: They met during his visit to Risa.
+[00:08:24.988 --> 00:08:25.548] RIKER: On Risa?
+[00:08:26.588 --> 00:08:28.268] RIKER: That vacation must have been better than he let on.
+[00:08:28.988 --> 00:08:30.908] VASH: You mean he never mentioned me to you, either?
+[00:08:32.028 --> 00:08:33.788] CREWMAN: Doctor Crusher, please report to Sickbay.
+[00:08:34.348 --> 00:08:36.028] CRUSHER: I'm afraid I won't be able to finish our tour.
+[00:08:38.188 --> 00:08:40.348] CRUSHER: But perhaps Commander Riker could take over for me.
+[00:08:41.228 --> 00:08:42.028] RIKER: It would be my pleasure.
+[00:08:43.788 --> 00:08:49.388] RIKER: This is the main Bridge, the command centre of the Enterprise and our last stop.
+[00:08:50.028 --> 00:08:51.388] RIKER: Vash, Commander La Forge.
+[00:08:51.388 --> 00:08:51.788] LAFORGE: Vash.
+[00:08:52.028 --> 00:08:52.108] VASH: Hello.
+[00:08:52.108 --> 00:08:53.228] RIKER: Commander Data.
+[00:08:53.708 --> 00:08:53.788] VASH: Hello.
+[00:08:53.788 --> 00:08:54.588] DATA: How do you do.
+[00:08:54.908 --> 00:08:55.708] RIKER: And this is Lieutenant Worf.
+[00:08:57.148 --> 00:08:57.228] VASH: Hello.
+[00:08:57.708 --> 00:08:58.588] RIKER: Something wrong, Lieutenant?
+[00:08:59.672 --> 00:09:03.032] WORF: I had not been informed that Council Members had been granted bridge clearance.
+[00:09:03.032 --> 00:09:04.792] RIKER: Well, I think we can make an exception in this case.
+[00:09:05.272 --> 00:09:06.632] RIKER: Vash is a guest of the Captain.
+[00:09:08.792 --> 00:09:09.352] WORF: Welcome aboard.
+[00:09:09.992 --> 00:09:10.392] VASH: Thank you.
+[00:09:15.752 --> 00:09:17.592] VASH: Is this where Jean-Luc sits?
+[00:09:17.672 --> 00:09:18.472] RIKER: That's the big chair.
+[00:09:30.712 --> 00:09:33.832] VASH: Well, I can see where being a starship Captain has its rewards.
+[00:09:37.272 --> 00:09:38.152] PICARD: I'm that glad you approve.
+[00:09:38.302 --> 00:09:38.902] VASH: I
+[00:09:43.592 --> 00:09:46.072] VASH: suppose I'll go back to my room now and get ready for the reception.
+[00:09:46.552 --> 00:09:47.032] PICARD: By all means.
+[00:09:49.992 --> 00:09:52.232] PICARD: Well, I suppose I'll see you then,
+[00:09:52.632 --> 00:09:52.872] PICARD: then.
+[00:09:54.552 --> 00:09:55.192] VASH: I look forward to it.
+[00:10:07.352 --> 00:10:08.072] RIKER: Fascinating woman.
+[00:10:09.432 --> 00:10:11.432] VASH: I
+[00:10:17.272 --> 00:10:17.912] VASH: don't understand,
+[00:10:17.912 --> 00:10:21.832] VASH: I thought being the ship's Counsellor meant the Captain confided in you.
+[00:10:22.152 --> 00:10:24.896] TROI: He does, when he thinks it's necessary.
+[00:10:24.896 --> 00:10:26.072] VASH: And he never
+[00:10:26.213 --> 00:10:26.933] VASH: spoke to you about me?
+[00:10:28.533 --> 00:10:29.493] TROI: Not that I recall.
+[00:10:29.813 --> 00:10:31.813] VASH: Not even a hint?
+[00:10:32.773 --> 00:10:35.717] TROI: You must understand, the Captain is a very
+[00:10:35.717 --> 00:10:36.453] TROI + VASH: Private man.
+[00:10:37.733 --> 00:10:38.213] VASH: I know.
+[00:10:40.293 --> 00:10:40.933] VASH: Excuse me?
+[00:10:41.573 --> 00:10:41.893] TROI: Of course.
+[00:10:46.453 --> 00:10:48.453] WORF: Nice legs.
+[00:10:50.933 --> 00:10:51.493] WORF: For a human.
+[00:10:53.013 --> 00:10:54.373] VASH: Jean-Luc, we need to talk.
+[00:10:56.773 --> 00:10:57.253] PICARD: Excuse me.
+[00:11:01.253 --> 00:11:02.693] PICARD: The reception seems to be going well.
+[00:11:03.173 --> 00:11:03.973] VASH: Forget the reception for a moment.
+[00:11:05.013 --> 00:11:06.373] VASH: Why have you never mentioned me to your friends?
+[00:11:08.293 --> 00:11:09.333] PICARD: What would you have me tell them?
+[00:11:09.893 --> 00:11:13.173] VASH: Maybe that we met, for one thing. That we had an adventure together, some fun.
+[00:11:13.413 --> 00:11:13.973] PICARD: It wouldn't be possible.
+[00:11:14.133 --> 00:11:14.453] VASH: Why not?
+[00:11:16.293 --> 00:11:17.093] PICARD: It would be
+[00:11:19.973 --> 00:11:20.613] PICARD: inappropriate.
+[00:11:20.613 --> 00:11:23.653] VASH: I wasn't expecting you to go into intimate details.
+[00:11:24.453 --> 00:11:28.373] PICARD: A Captain does not reveal his personal feelings with his crew.
+[00:11:29.253 --> 00:11:30.693] VASH: Is that a Starfleet regulation,
+[00:11:31.333 --> 00:11:32.773] VASH: or did you just make that up yourself?
+[00:11:34.373 --> 00:11:35.333] PICARD: I'm sorry if you're upset.
+[00:11:36.293 --> 00:11:38.213] VASH: And I'm sorry if my being here embarrasses you.
+[00:11:42.213 --> 00:11:42.533] RIKER: How
+[00:11:45.733 --> 00:11:46.453] RIKER: was the reception?
+[00:11:46.693 --> 00:11:47.173] PICARD: Splendid.
+[00:11:52.933 --> 00:11:54.773] Q: Jean-Luc, it's wonderful to see you again.
+[00:11:55.333 --> 00:11:55.973] Q: How about a
+[00:11:56.533 --> 00:11:56.773] Q: big hug?
+[00:11:57.141 --> 00:11:57.381] Q: Well
+[00:12:05.381 --> 00:12:06.661] Q: don't just stand there,
+[00:12:06.661 --> 00:12:07.461] Q: say something.
+[00:12:07.861 --> 00:12:08.741] PICARD: Get out of my chair.
+[00:12:10.101 --> 00:12:13.141] Q: Oh, and I was hoping for something more along the lines of, welcome back, Q,
+[00:12:13.221 --> 00:12:14.981] Q: it's a pleasure to see you again my old friend."
+[00:12:15.301 --> 00:12:16.261] PICARD: We're not friends.
+[00:12:16.501 --> 00:12:18.101] Q: You wound me, mon capitaine.
+[00:12:20.581 --> 00:12:20.981] Q: There,
+[00:12:22.101 --> 00:12:24.261] Q: perhaps now your manners will show some improvement.
+[00:12:24.581 --> 00:12:25.381] PICARD: What brings you here, Q?
+[00:12:26.581 --> 00:12:28.261] PICARD: Have you been banished by the Continuum once again?
+[00:12:28.661 --> 00:12:29.621] Q: Oh, hardly.
+[00:12:30.261 --> 00:12:32.261] Q: They're still apologising to me for the last time.
+[00:12:32.661 --> 00:12:33.381] PICARD: Then what is it you want?
+[00:12:33.941 --> 00:12:35.941] Q: Do I always have to have a reason to stop by?
+[00:12:36.581 --> 00:12:37.781] Q: I was merely in the sector,
+[00:12:37.781 --> 00:12:38.261] Q: I.
+[00:12:39.221 --> 00:12:41.941] Q: You force a confession from me.
+[00:12:42.501 --> 00:12:45.353] Q: The truth is, I have a debt to repay.
+[00:12:45.353 --> 00:12:45.987] PICARD: A debt?
+[00:12:45.987 --> 00:12:50.741] Q: To you. And it gnaws at me, and it interferes with each of my days.
+[00:12:51.141 --> 00:12:52.501] PICARD: I have no idea what you're talking about.
+[00:12:53.621 --> 00:12:56.421] Q: Without your assistance at our last encounter, I never would have survived.
+[00:12:57.061 --> 00:12:58.741] Q: I would have taken my own life but for you.
+[00:12:59.301 --> 00:13:00.261] PICARD: We all make mistakes.
+[00:13:02.021 --> 00:13:07.541] Q: Your good deed made possible my reinstatement in the Continuum, and I resent owing you anything.
+[00:13:08.181 --> 00:13:10.341] Q: So, I'm here to pay up.
+[00:13:11.061 --> 00:13:12.261] Q: Tell me, what is it you wish
+[00:13:12.661 --> 00:13:13.381] Q: and I'll be gone.
+[00:13:13.941 --> 00:13:14.901] PICARD: Just be gone.
+[00:13:15.061 --> 00:13:15.861] PICARD: That'll do nicely.
+[00:13:16.341 --> 00:13:16.981] Q: No, no, no, no, no.
+[00:13:16.981 --> 00:13:19.701] Q: It has to be something more, more constructive.
+[00:13:19.701 --> 00:13:21.221] Q: That's my new word for the day.
+[00:13:21.301 --> 00:13:22.341] PICARD: Some other time, Q.
+[00:13:22.741 --> 00:13:24.501] PICARD: Right now I have other matters to attend to.
+[00:13:25.141 --> 00:13:26.101] Q: Yes, your speech.
+[00:13:26.101 --> 00:13:26.581] Q: I read it.
+[00:13:26.741 --> 00:13:29.141] Q: It's dull, plodding, pedantic, much like yourself.
+[00:13:30.961 --> 00:13:32.481] Q: I could help you with it.
+[00:13:33.761 --> 00:13:34.161] PICARD: No thank you.
+[00:13:36.001 --> 00:13:39.361] Q: You've never actually been to the ruins at Tagus Three, have you?
+[00:13:42.241 --> 00:13:44.961] PICARD: No. They were sealed off more than a century ago.
+[00:13:45.601 --> 00:13:47.601] Q: Well, that explains it, then.
+[00:13:49.041 --> 00:13:51.361] Q: How can you write about something that you've never seen.
+[00:13:52.321 --> 00:13:52.881] Q: I know,
+[00:13:53.281 --> 00:13:54.321] Q: why don't I take you there?
+[00:13:58.801 --> 00:13:59.441] PICARD: Out of the question.
+[00:13:59.841 --> 00:14:01.441] PICARD: That would mean breaking Taguan law.
+[00:14:01.841 --> 00:14:03.521] Q: Must you always be so ethical?
+[00:14:05.201 --> 00:14:06.641] Q: I suppose we could travel back in time.
+[00:14:07.441 --> 00:14:10.001] Q: You could see what Tagus was like two billion years ago.
+[00:14:10.801 --> 00:14:13.841] Q: They really knew how to party back in those days.
+[00:14:14.401 --> 00:14:15.681] PICARD: My answer is still no.
+[00:14:15.681 --> 00:14:17.281] PICARD: My lecture will have to stand on its own.
+[00:14:18.401 --> 00:14:20.561] PICARD: Now, will you please leave my ship.
+[00:14:21.281 --> 00:14:24.001] Q: You are simply the most impossible person to buy a gift for.
+[00:14:29.361 --> 00:14:30.801] PICARD: Commander Riker, will you report to my Ready room?
+[00:14:39.681 --> 00:14:40.081] RIKER: Yes, Captain?
+[00:14:40.961 --> 00:14:42.561] PICARD: I've just been paid a visit from Q.
+[00:14:43.681 --> 00:14:44.001] RIKER: Q?
+[00:14:45.041 --> 00:14:45.841] RIKER: Any idea what he's up to?
+[00:14:46.401 --> 00:14:48.641] PICARD: He wants to do something nice for me.
+[00:14:50.161 --> 00:14:50.881] RIKER: I'll alert the crew.
+[00:14:52.001 --> 00:14:52.241] CREWMAN: Captain.
+[00:15:10.016 --> 00:15:11.376] VASH: Who's there?
+[00:15:11.376 --> 00:15:12.736] PICARD: It's me.
+[00:15:14.016 --> 00:15:14.336] VASH: Who?
+[00:15:16.256 --> 00:15:16.816] PICARD: Jean-Luc.
+[00:15:19.136 --> 00:15:19.616] VASH: Yes?
+[00:15:20.496 --> 00:15:20.816] PICARD: May I come in?
+[00:15:28.256 --> 00:15:29.216] PICARD: Let me try to explain.
+[00:15:31.936 --> 00:15:35.376] PICARD: I am by no means embarrassed by your presence here.
+[00:15:37.536 --> 00:15:38.176] PICARD: On the contrary.
+[00:15:42.976 --> 00:15:43.616] PICARD: What's this?
+[00:15:44.816 --> 00:15:45.696] PICARD: A map of the ruins?
+[00:15:45.846 --> 00:15:46.446] PICARD: I
+[00:15:49.056 --> 00:15:49.216] PICARD: thought
+[00:15:50.816 --> 00:15:52.416] PICARD: that I was the only reason you came to Tagus.
+[00:15:54.656 --> 00:15:56.416] VASH: I never fooled you for a second.
+[00:15:59.616 --> 00:16:01.856] VASH: Still, you are the most important reason.
+[00:16:02.576 --> 00:16:02.816] PICARD: Am I?
+[00:16:05.616 --> 00:16:07.696] VASH: That's the trouble with being such a well-known liar.
+[00:16:08.976 --> 00:16:10.736] VASH: Even when I'm telling the truth, no one believes me.
+[00:16:25.456 --> 00:16:28.816] PICARD: This equipment will have to be confiscated.
+[00:16:29.391 --> 00:16:30.751] VASH: Is that necessary?
+[00:16:30.901 --> 00:16:31.501] PICARD: If
+[00:16:35.471 --> 00:16:37.071] PICARD: the Taguans were to catch you down there.
+[00:16:37.391 --> 00:16:38.111] VASH: Oh, come on.
+[00:16:39.071 --> 00:16:41.231] VASH: You gave me the same warning about Sarathong Five.
+[00:16:41.551 --> 00:16:42.031] PICARD: I remember.
+[00:16:42.191 --> 00:16:43.711] VASH: Well, it didn't stop me from going there.
+[00:16:43.951 --> 00:16:46.031] VASH: I brought back some very impressive artefacts, too.
+[00:16:46.351 --> 00:16:48.511] PICARD: Which no doubt you sold for a very impressive profit.
+[00:16:48.991 --> 00:16:49.951] VASH: That's what I do!
+[00:16:51.151 --> 00:16:52.031] PICARD: Not on board my ship.
+[00:16:52.351 --> 00:16:53.151] PICARD: I will not allow it.
+[00:16:53.391 --> 00:16:54.911] VASH: Let's get one thing straight, though, Picard.
+[00:16:55.151 --> 00:16:57.791] VASH: I cannot change who I am for you or anyone else.
+[00:16:58.431 --> 00:16:59.551] PICARD: Nor can I change who I am.
+[00:17:02.351 --> 00:17:03.951] VASH: Then we have nothing more to say to one another.
+[00:17:07.551 --> 00:17:10.031] PICARD: So it would seem.
+[00:17:32.271 --> 00:17:32.911] Q: Sleeping alone?
+[00:17:35.871 --> 00:17:37.711] PICARD: I'm in no mood for your foolishness, Q.
+[00:17:38.591 --> 00:17:39.951] Q: I knew there was something different about you.
+[00:17:40.511 --> 00:17:43.311] Q: You seem tense, preoccupied, somewhat smaller.
+[00:17:44.271 --> 00:17:47.231] Q: At first I thought it was that horrible lecture of yours, but I was mistaken.
+[00:17:47.551 --> 00:17:50.511] PICARD: Whatever game you want to play will have to wait until tomorrow.
+[00:17:51.791 --> 00:17:54.031] Q: I had such high hopes for you, Picard.
+[00:17:55.151 --> 00:18:01.391] Q: I thought you were a bit more evolved than the rest of your species. But now I realise you're just as weak as all the others.
+[00:18:01.817 --> 00:18:06.457] Q: Still, it pains me to see the great Jean-Luc Picard brought down by a woman.
+[00:18:08.457 --> 00:18:08.937] PICARD: What woman?
+[00:18:10.617 --> 00:18:12.377] Q: Don't play coy with me, Captain.
+[00:18:13.337 --> 00:18:15.097] Q: I witnessed your little spat with Vash.
+[00:18:17.017 --> 00:18:20.457] Q: Nor will I soon forget the look of anguish on your face. The pain, the misery.
+[00:18:21.417 --> 00:18:25.737] Q: If I didn't know better, I would have thought you were already married.
+[00:18:26.857 --> 00:18:30.057] PICARD: You must be very bored, Q.
+[00:18:30.057 --> 00:18:31.577] PICARD: Your imagination is running away with you.
+[00:18:32.057 --> 00:18:35.177] Q: This human emotion, love, is a dangerous thing, Picard,
+[00:18:35.817 --> 00:18:37.497] Q: and obviously you are ill-equipped to handle it.
+[00:18:38.137 --> 00:18:42.937] Q: She's found a vulnerability in you. A vulnerability I've been looking for for years.
+[00:18:44.377 --> 00:18:46.937] Q: If I had known sooner, I would have appeared as a female.
+[00:18:51.497 --> 00:18:52.937] Q: Mark my words, Picard,
+[00:18:53.577 --> 00:18:55.097] Q: this is your Achilles heel.
+[00:18:55.497 --> 00:18:56.457] PICARD: Believe what you wish.
+[00:18:56.777 --> 00:18:59.177] Q: Do you deny that you care for this woman?
+[00:19:02.057 --> 00:19:05.817] Q: Believe me, I'd be doing you a big favour if I turned her into a Klabnian eel.
+[00:19:06.057 --> 00:19:07.097] PICARD: Stay away from her, Q.
+[00:19:07.817 --> 00:19:09.257] Q: I was just trying to help.
+[00:19:10.217 --> 00:19:11.268] Q: My debt to you
+[00:19:11.268 --> 00:19:12.057] PICARD: Is hereby nullified.
+[00:19:13.417 --> 00:19:17.577] PICARD: I don't want your help, your advice, your favours or for that matter, you.
+[00:19:17.897 --> 00:19:19.337] PICARD: Do you understand? Once and for all!
+[00:19:21.097 --> 00:19:24.297] Q: You would have me stand idly by as she lead you to your destruction?
+[00:19:24.537 --> 00:19:24.937] PICARD: Yes!
+[00:19:27.497 --> 00:19:27.897] Q: As you wish.
+[00:19:46.617 --> 00:19:50.297] PICARD: Ladies and gentlemen, members of the Archaeology Council. Welcome.
+[00:19:51.977 --> 00:19:52.457] PICARD: Mystery.
+[00:19:53.817 --> 00:19:59.017] PICARD: It is the mystery of Tagus Three that brings us together today.
+[00:19:59.737 --> 00:20:08.057] PICARD: It is a mystery that has invited more argument, more deduction, more speculation than the best works of fiction.
+[00:20:08.857 --> 00:20:14.697] PICARD: And if you'll excuse the conceit, I want to tell you about my detective story.
+[00:20:16.057 --> 00:20:20.377] PICARD: For several years now, I have been trying to unravel the secrets of Tagus Three.
+[00:20:20.377 --> 00:20:21.977] PICARD: Needless to say, I've not succeeded.
+[00:20:22.297 --> 00:20:29.257] PICARD: However, I have, I believe, turned up some new information, that, if nothing else, raises a whole new set of mysteries
+[00:20:29.257 --> 00:20:31.257] PICARD: and I hope that we can discuss them here together.
+[00:20:32.137 --> 00:20:38.457] PICARD: There have been nine hundred and forty seven known archaeological excavations conducted on the planet's surface.
+[00:20:38.857 --> 00:20:44.537] PICARD: Of those, some seventy four are generally believed to have revealed findings of major importance.
+[00:20:45.097 --> 00:20:48.057] PICARD: The earliest was some twenty two thousand years ago.
+[00:20:48.057 --> 00:20:48.057] PICARD: What the hell? Q!
+[00:21:15.821 --> 00:21:16.781] TROI: Is this Tagus Three?
+[00:21:17.741 --> 00:21:19.981] PICARD: I doubt there are many oak trees on Tagus.
+[00:21:20.061 --> 00:21:32.221] PICARD: No, I think this is supposed to be Earth, somewhere round about the twelfth century. And this is England, or to be more precise, Sherwood Forest. Or at least Q's recreation of it.
+[00:21:32.941 --> 00:21:34.381] RIKER: That would explain these costumes.
+[00:21:34.621 --> 00:21:35.421] PICARD: Quite right, Number One.
+[00:21:36.221 --> 00:21:38.221] PICARD: Or should I say, John Little.
+[00:21:38.701 --> 00:21:40.781] CRUSHER: Well, if he's Little John, that makes you
+[00:21:40.781 --> 00:21:41.261] PICARD: I know.
+[00:21:42.221 --> 00:21:43.021] PICARD: Robin Hood.
+[00:21:43.021 --> 00:21:43.421] WORF: Sir,
+[00:21:43.981 --> 00:21:44.781] WORF: I protest.
+[00:21:44.781 --> 00:21:46.381] WORF: I am not a merry man.
+[00:21:47.181 --> 00:21:55.021] DATA: On the contrary, Lieutenant Worf. Your clothing identifies you with the character of Will Scarlett, just as Geordi's mandolin identifies him as Alan A-Dale
+[00:21:55.501 --> 00:21:58.941] RIKER: And you, Mister Data, bear a striking resemblance to Friar Tuck.
+[00:21:59.821 --> 00:22:02.301] SIR GUY: I have you
+[00:22:12.861 --> 00:22:15.021] SIR GUY: at last, Robin Hood.
+[00:22:15.021 --> 00:22:15.501] PICARD: Quick,
+[00:22:21.341 --> 00:22:22.781] PICARD: into the forest.
+[00:22:35.949 --> 00:22:36.509] PICARD: Mister
+[00:22:36.589 --> 00:22:37.709] PICARD: Worf. That's an order.
+[00:22:48.749 --> 00:22:49.949] SIR GUY: Enough, you fools.
+[00:22:50.589 --> 00:22:51.949] SIR GUY: We'll never find them in the greenwood.
+[00:23:04.269 --> 00:23:05.629] CRUSHER: I've managed to stop the bleeding.
+[00:23:21.949 --> 00:23:24.509] PICARD: Q. It's about time you showed up.
+[00:23:25.149 --> 00:23:28.909] Q: I would prefer if you addressed me as His Honour the High Sheriff of Nottingham.
+[00:23:29.309 --> 00:23:32.109] PICARD: We will no longer share in this pointless fantasy of yours.
+[00:23:32.509 --> 00:23:32.989] Q: Fine.
+[00:23:32.989 --> 00:23:33.949] Q: stay here and do nothing.
+[00:23:34.749 --> 00:23:37.709] Q: By midday tomorrow, your crew will be safely aboard their ship.
+[00:23:38.589 --> 00:23:41.949] Q: Of course, you will have to accept the consequences of your inaction.
+[00:23:43.069 --> 00:23:43.789] PICARD: Consequences?
+[00:23:44.509 --> 00:23:47.389] Q: What is the one thing that Robin Hood is most famous for?
+[00:23:47.869 --> 00:23:49.629] LAFORGE: He robs from the rich and gives to the poor.
+[00:23:50.509 --> 00:23:51.229] Q: Besides that.
+[00:23:52.909 --> 00:23:56.429] DATA: Perhaps you are referring to the rescue of Maid Marian from Nottingham Castle?
+[00:23:56.749 --> 00:23:57.789] Q: Yes, Data.
+[00:23:58.349 --> 00:24:04.829] Q: And it just so happens that Sir Guy of Gisbourne has decreed that Marian's head shall come off tomorrow at noon.
+[00:24:07.549 --> 00:24:08.109] PICARD: Vash.
+[00:24:09.033 --> 00:24:10.313] Q: It's your choice, Robin.
+[00:24:11.033 --> 00:24:16.713] Q: You can either take your ease in this sylvan glade or risk your life to save the woman you care nothing about.
+[00:24:17.593 --> 00:24:19.273] PICARD: My feelings toward Vash are irrelevant.
+[00:24:19.993 --> 00:24:22.313] PICARD: I would attempt to save any innocent life, as you well know.
+[00:24:23.433 --> 00:24:24.873] Q: Yes, but what about your merry men?
+[00:24:25.193 --> 00:24:27.273] Q: Are you willing to jeopardise their lives as well?
+[00:24:27.833 --> 00:24:32.633] Q: Is Vash's life worth more than Data's or Troi's or Worf's?
+[00:24:33.113 --> 00:24:36.313] Q: You know, Worf, you'd make a perfect throw rug in Nottingham Castle.
+[00:24:37.273 --> 00:24:39.593] PICARD: Q, I ask you to put and end to this before someone gets hurt.
+[00:24:40.073 --> 00:24:40.873] Q: Oh, that's impossible.
+[00:24:41.513 --> 00:24:44.473] Q: You see, I've given this fantasy as you call it, a life of its own.
+[00:24:45.113 --> 00:24:47.433] Q: I have no more idea what's going to happen than you do.
+[00:24:48.233 --> 00:24:50.633] Q: But of one thing I am absolutely sure.
+[00:24:52.393 --> 00:24:56.393] Q: If you dare come to Nottingham Castle, blood will be spilt.
+[00:24:56.633 --> 00:24:56.633] NURSE: Oh,
+[00:25:09.833 --> 00:25:13.113] NURSE: you'll wear yourself out with all that pacing, Milady.
+[00:25:13.113 --> 00:25:14.953] VASH: I told you to stop calling me that.
+[00:25:14.953 --> 00:25:15.753] VASH: The name's Vash.
+[00:25:15.833 --> 00:25:20.553] NURSE: My poor lamb. You've got a brain sickness for sure.
+[00:25:21.033 --> 00:25:23.993] NURSE: Can't I get you something to ease your suffering?
+[00:25:24.153 --> 00:25:24.953] VASH: I could use a drink.
+[00:25:25.513 --> 00:25:31.033] NURSE: Well, I wasn't thinking of spirits, Milady, but I have some nice fresh leeches. To
+[00:25:33.913 --> 00:25:35.533] NURSE: drain the fever.
+[00:25:35.533 --> 00:25:36.073] VASH: Out.
+[00:25:36.704 --> 00:25:37.344] VASH: Get out.
+[00:25:37.824 --> 00:25:38.144] NURSE: Oh, her
+[00:25:40.064 --> 00:25:42.304] NURSE: mind's in an awful turmoil, Sir Guy.
+[00:25:42.784 --> 00:25:44.784] VASH: Who the hell are you?
+[00:25:44.784 --> 00:25:45.184] NURSE: Milady,
+[00:25:45.504 --> 00:25:48.864] NURSE: everyone in Nottingham knows, Sir Guy of Gisbourne.
+[00:25:49.104 --> 00:25:50.144] VASH: Sir Guy of what?
+[00:25:50.784 --> 00:25:51.264] SIR GUY: Leave us.
+[00:25:54.384 --> 00:25:57.984] SIR GUY: Do not mock me, Lady Marian.
+[00:25:59.744 --> 00:26:02.304] SIR GUY: I'm prepared to offer you one last chance to change your mind.
+[00:26:04.544 --> 00:26:05.344] SIR GUY: Will you marry me?
+[00:26:11.264 --> 00:26:11.744] SIR GUY: I see.
+[00:26:13.664 --> 00:26:15.984] SIR GUY: Then the execution will proceed as scheduled.
+[00:26:17.024 --> 00:26:17.984] VASH: What execution?
+[00:26:20.304 --> 00:26:21.104] SIR GUY: I warn you, Marian,
+[00:26:22.144 --> 00:26:26.064] SIR GUY: this pathetic attempt at feigning madness will not save your life.
+[00:26:27.024 --> 00:26:28.544] VASH: You mean I'm the one being executed?
+[00:26:29.984 --> 00:26:31.104] VASH: Sir Guy, wait a minute.
+[00:26:31.824 --> 00:26:32.944] VASH: Couldn't we talk this over?
+[00:26:34.224 --> 00:26:36.544] VASH: I admit, I haven't been myself lately.
+[00:26:37.344 --> 00:26:39.024] VASH: Maybe we've both been a bit hasty?
+[00:26:41.344 --> 00:26:41.744] VASH: Please?
+[00:27:17.322 --> 00:27:17.642] WORF: Sorry.
+[00:27:31.082 --> 00:27:33.082] TROI: Data,
+[00:27:33.082 --> 00:27:33.802] TROI: are you alright?
+[00:27:39.162 --> 00:27:44.362] DATA: The arrow impacted just above my sixth intercostal support, penetrating my secondary subprocessor.
+[00:27:45.002 --> 00:27:47.722] DATA: Fortunately, none of my biofunctions seem affected.
+[00:27:49.002 --> 00:27:50.202] DATA: Do not be concerned, Counsellor.
+[00:27:51.002 --> 00:27:52.202] DATA: I believe your aim is improving.
+[00:27:57.002 --> 00:27:58.282] RIKER: We've got to get out of here, Captain.
+[00:27:59.562 --> 00:28:00.522] PICARD: Not we, Number One.
+[00:28:01.482 --> 00:28:03.402] PICARD: I want you and the others to stay here until I return.
+[00:28:04.042 --> 00:28:05.722] RIKER: You're not going to try to save her yourself, sir?
+[00:28:05.962 --> 00:28:06.682] PICARD: This is not a mission.
+[00:28:07.402 --> 00:28:08.042] PICARD: It's personal.
+[00:28:09.242 --> 00:28:10.602] PICARD: It's between Q and myself.
+[00:28:10.602 --> 00:28:12.166] PICARD: I don't want the rest of you involved.
+[00:28:12.166 --> 00:28:12.362] RIKER: Captain!
+[00:28:12.522 --> 00:28:13.882] PICARD: You have your orders, Commander.
+[00:28:15.962 --> 00:28:17.162] PICARD: And I expect you to follow them.
+[00:28:17.312 --> 00:28:17.912] Q: A
+[00:28:22.282 --> 00:28:24.442] Q: touch sharper, shall we?
+[00:28:43.932 --> 00:28:48.012] Q: Such benevolence, Sir Guy. Allowing the condemned prisoner fresh air?
+[00:28:48.812 --> 00:28:49.772] SIR GUY: You're mistaken, Sheriff.
+[00:28:51.292 --> 00:28:53.372] SIR GUY: Maid Marian has promised to be my wife.
+[00:28:53.932 --> 00:28:54.172] Q: What?
+[00:28:55.132 --> 00:28:55.772] Q: But that's impossible?
+[00:28:56.332 --> 00:28:56.812] VASH: Not at all.
+[00:28:57.292 --> 00:29:02.572] VASH: Though I admit a maiden seldom has the opportunity to win herself such a noble husband.
+[00:29:10.012 --> 00:29:10.972] SIR GUY: A toast.
+[00:29:12.892 --> 00:29:15.772] SIR GUY: To the most beautiful bride-to-be in the whole of England.
+[00:29:16.732 --> 00:29:17.292] Q: Don't drink that!
+[00:29:17.442 --> 00:29:18.042] Q: It
+[00:29:19.212 --> 00:29:19.772] Q: could be poison.
+[00:29:20.492 --> 00:29:22.012] SIR GUY: Have you taken leave of your senses?
+[00:29:22.332 --> 00:29:23.852] Q: A foul scheme of Robin Hood's.
+[00:29:24.492 --> 00:29:25.612] Q: She's in league with him still, I'll warrant.
+[00:29:26.172 --> 00:29:26.812] VASH: Robin Hood?
+[00:29:28.812 --> 00:29:30.252] VASH: Oh, Robin Hood.
+[00:29:31.212 --> 00:29:32.732] VASH: Oh, well, that was over long ago.
+[00:29:34.092 --> 00:29:35.932] Q: All of Nottingham knows you're still in love with him.
+[00:29:36.252 --> 00:29:37.132] VASH: That's a lie.
+[00:29:37.372 --> 00:29:38.732] VASH: He bewitched me.
+[00:29:38.972 --> 00:29:40.412] VASH: He put me under some evil spell.
+[00:29:40.412 --> 00:29:42.492] SIR GUY: I suspected as much.
+[00:29:43.532 --> 00:29:46.618] SIR GUY: You can add sorcery to the list of charges against that rogue.
+[00:29:46.618 --> 00:29:47.132] Q: Sir Guy,
+[00:29:47.132 --> 00:29:49.052] Q: if anyone's been bewitched here, it's you.
+[00:29:49.212 --> 00:29:50.092] SIR GUY: Silence.
+[00:29:50.652 --> 00:29:52.492] SIR GUY: Any more impudence and it'll be your head on the block.
+[00:29:54.892 --> 00:29:55.212] SIR GUY: Guard,
+[00:29:57.612 --> 00:29:59.532] SIR GUY: escort the Lady Marian to her chamber.
+[00:30:00.732 --> 00:30:02.252] VASH: But I'd much rather stay with you.
+[00:30:02.892 --> 00:30:04.172] SIR GUY: Of course you would, my child.
+[00:30:04.732 --> 00:30:06.972] SIR GUY: But I have important business to attend to.
+[00:30:17.882 --> 00:30:18.282] SIR GUY: Lovely creature.
+[00:30:19.802 --> 00:30:20.442] Q: Intriguing.
+[00:30:21.882 --> 00:30:21.962] VASH: One
+[00:30:54.762 --> 00:30:55.962] VASH: step closer and I'll scream!
+[00:30:56.442 --> 00:30:56.522] PICARD: Vash,
+[00:30:56.522 --> 00:31:00.170] PICARD: damn it, it's me!
+[00:31:00.170 --> 00:31:01.082] VASH: Jean-Luc!
+[00:31:02.042 --> 00:31:03.002] VASH: Oh, am I glad to see you.
+[00:31:03.002 --> 00:31:04.922] VASH: You wouldn't believe what I've been going through.
+[00:31:05.002 --> 00:31:07.802] VASH: One minute I'm on the Enterprise, the next thing I know I'm here in Nottingham.
+[00:31:07.962 --> 00:31:14.042] VASH: First, they're going to chop my head off, now I'm supposed to marry someone named Sir Guy, and everyone insists on calling me Marian.
+[00:31:15.482 --> 00:31:15.962] PICARD: Yes, I know.
+[00:31:16.842 --> 00:31:18.122] VASH: You do? But how?
+[00:31:21.322 --> 00:31:22.522] VASH: You're Robin Hood!
+[00:31:23.082 --> 00:31:25.962] PICARD: My staff and I were brought here by an old adversary of mine named Q,
+[00:31:25.962 --> 00:31:27.722] PICARD: and I'll tell you the rest of that once we're safe.
+[00:31:27.722 --> 00:31:28.762] PICARD: Come, we don't have much time.
+[00:31:29.642 --> 00:31:30.362] VASH: And the others are outside?
+[00:31:30.682 --> 00:31:31.162] PICARD: They're waiting for us
+[00:31:31.162 --> 00:31:32.122] PICARD: back at Sherwood Forest.
+[00:31:32.442 --> 00:31:33.642] VASH: You mean you came here alone?
+[00:31:33.722 --> 00:31:34.042] PICARD: That's right, now
+[00:31:34.042 --> 00:31:34.442] PICARD: come on.
+[00:31:34.442 --> 00:31:35.482] VASH: What kind of plan is that?
+[00:31:35.482 --> 00:31:36.202] PICARD: It's an excellent one if you'll
+[00:31:36.202 --> 00:31:37.002] PICARD: just hurry up.
+[00:31:37.002 --> 00:31:39.082] VASH: You do realise our lives are at stake here.
+[00:31:39.082 --> 00:31:39.802] PICARD: Only too well.
+[00:31:40.254 --> 00:31:43.694] VASH: And this is the best strategy you could come up with? One man against an entire castle.
+[00:31:43.774 --> 00:31:44.414] PICARD: You have a better one?
+[00:31:44.974 --> 00:31:45.774] VASH: How about this?
+[00:31:45.934 --> 00:31:47.294] VASH: You go, I'll stay here.
+[00:31:48.094 --> 00:31:48.814] PICARD: And do what?
+[00:31:50.174 --> 00:31:51.454] VASH: Marry Sir Guy if I have to.
+[00:31:52.174 --> 00:31:53.134] PICARD: Well that's brilliant.
+[00:31:53.534 --> 00:31:55.534] VASH: If there's a way to escape, I'll find it,
+[00:31:55.934 --> 00:31:58.654] VASH: eventually. With my head still attached.
+[00:31:58.974 --> 00:32:00.654] PICARD: You really believe I would leave you here?
+[00:32:01.054 --> 00:32:02.254] VASH: I can take care of myself.
+[00:32:02.574 --> 00:32:04.254] PICARD: You are the most stubborn woman I ever knew.
+[00:32:05.454 --> 00:32:05.854] VASH: Hey!
+[00:32:06.894 --> 00:32:09.134] SIR GUY: There'll be no escape for you this time, Robin Hood.
+[00:32:12.734 --> 00:32:13.534] PICARD: You stay behind me.
+[00:32:16.414 --> 00:32:17.854] VASH: You should have left while you had the chance.
+[00:32:18.894 --> 00:32:20.014] SIR GUY: Well done, my dear.
+[00:32:21.854 --> 00:32:23.774] VASH: Consider it my wedding gift to you, darling.
+[00:32:53.694 --> 00:32:55.134] Q: Congratulations, Sir Guy.
+[00:32:55.134 --> 00:32:56.574] Q: I see you've snared the jackal.
+[00:32:57.454 --> 00:32:59.054] SIR GUY: It's Marian who deserves the credit.
+[00:33:00.974 --> 00:33:02.174] SIR GUY: Took him with his own sword.
+[00:33:12.974 --> 00:33:14.414] NURSE: You sent for me, Milady?
+[00:33:14.760 --> 00:33:16.680] VASH: I want you to take this letter to Robin's men.
+[00:33:17.960 --> 00:33:21.320] NURSE: You want me to go to Sherwood Forest at this time of night?
+[00:33:21.640 --> 00:33:22.760] VASH: You'll leave immediately.
+[00:33:23.080 --> 00:33:24.120] NURSE: But it's dark.
+[00:33:24.440 --> 00:33:25.400] NURSE: I'll get lost.
+[00:33:25.560 --> 00:33:26.760] NURSE: Besides, it's not safe.
+[00:33:26.920 --> 00:33:29.560] NURSE: What with all them hedge robbers and worse lurking about.
+[00:33:30.760 --> 00:33:31.800] VASH: Please, this is urgent.
+[00:33:32.440 --> 00:33:35.320] NURSE: If you ask me, you'd be better off with Sir Guy.
+[00:33:35.480 --> 00:33:36.600] NURSE: He's got a future.
+[00:33:37.160 --> 00:33:39.160] NURSE: Why, you'll be living in London afore you know it.
+[00:33:39.160 --> 00:33:40.040] VASH: But you must go,
+[00:33:40.040 --> 00:33:43.320] VASH: otherwise they'll kill him.
+[00:33:43.880 --> 00:33:44.120] Q: Out.
+[00:33:44.120 --> 00:33:47.240] VASH: How dare you barge in here like this
+[00:33:47.560 --> 00:33:49.480] Q: I've come to apologise for my harsh words.
+[00:33:49.720 --> 00:33:51.880] Q: I had no idea that you were so ruthless.
+[00:33:52.360 --> 00:33:53.720] VASH: That's most gracious of you.
+[00:33:54.280 --> 00:33:57.080] Q: I admit I was surprised, but no more surprised than Jean-Luc.
+[00:33:58.920 --> 00:34:00.280] VASH: You're Q.
+[00:34:00.760 --> 00:34:01.240] Q: Yes.
+[00:34:02.280 --> 00:34:04.440] Q: And you are a very interesting woman.
+[00:34:06.680 --> 00:34:07.160] Q: What is this?
+[00:34:07.800 --> 00:34:08.440] VASH: Give me that.
+[00:34:09.880 --> 00:34:11.160] Q: A letter to Riker.
+[00:34:11.800 --> 00:34:12.280] Q: Quick,
+[00:34:13.320 --> 00:34:14.600] Q: Come to Castle.
+[00:34:14.680 --> 00:34:16.120] Q: Save the Captain.
+[00:34:16.120 --> 00:34:17.640] Q: Why, this is wonderful.
+[00:34:18.200 --> 00:34:19.720] Q: What marvellous duplicity.
+[00:34:20.280 --> 00:34:22.520] Q: You certainly fooled Sir Guy, and me as well.
+[00:34:23.160 --> 00:34:24.600] Q: I think you're worth further study.
+[00:34:25.480 --> 00:34:25.960] VASH: Am I?
+[00:34:26.600 --> 00:34:29.560] Q: Yes, but unfortunately we just don't have the time.
+[00:34:30.200 --> 00:34:30.840] Q: Guards!
+[00:34:33.720 --> 00:34:34.760] Q: Take this traitor away.
+[00:34:37.560 --> 00:34:40.280] Q: It appears there's going to be a double execution.
+[00:35:08.589 --> 00:35:10.109] VASH: This whole thing is your fault.
+[00:35:10.589 --> 00:35:10.989] PICARD: My fault?
+[00:35:11.549 --> 00:35:12.429] VASH: Yes, your fault.
+[00:35:13.069 --> 00:35:15.389] PICARD: If you hadn't grabbed my sword we'd be back in Sherwood by now.
+[00:35:16.749 --> 00:35:19.389] VASH: I grabbed your sword to prevent you from being killed.
+[00:35:19.629 --> 00:35:20.269] PICARD: Oh, really?
+[00:35:21.149 --> 00:35:22.669] PICARD: Not as a wedding present for Sir Guy?
+[00:35:23.149 --> 00:35:25.149] VASH: You know I had no intention of going through with that.
+[00:35:25.309 --> 00:35:25.629] PICARD: Do I?
+[00:35:26.749 --> 00:35:27.869] PICARD: You should never have interfered.
+[00:35:28.429 --> 00:35:29.549] VASH: You're the one interfering.
+[00:35:29.709 --> 00:35:30.749] PICARD: I was just trying to rescue you.
+[00:35:31.229 --> 00:35:32.429] VASH: Well next time don't bother.
+[00:35:32.669 --> 00:35:33.869] PICARD: Don't you worry. I won't.
+[00:35:34.269 --> 00:35:35.869] Q: Don't the two of you ever stop arguing?
+[00:35:36.189 --> 00:35:42.589] Q: Now, tell me, Robin, as you stand here facing the termination of your insect existence, do you see what brought you to this end?
+[00:35:43.149 --> 00:35:43.789] Q: Was she worth it?
+[00:35:44.269 --> 00:35:45.549] PICARD: Can we just get this over with.
+[00:35:46.189 --> 00:35:47.789] VASH: Are you implying that I'm not worth it?
+[00:35:49.469 --> 00:35:52.589] PICARD: Q, your game was for my benefit.
+[00:35:53.309 --> 00:35:54.669] PICARD: She is innocent in all of this.
+[00:35:55.149 --> 00:35:57.469] Q: She is many things, none of them innocent.
+[00:35:57.709 --> 00:35:58.349] PICARD: Let her go.
+[00:35:58.749 --> 00:36:00.029] VASH: Jean-Luc, you do care.
+[00:36:00.349 --> 00:36:03.069] Q: A gallant gesture, Robin, but a futile one.
+[00:36:03.069 --> 00:36:03.549] Q: Farewell.
+[00:36:03.949 --> 00:36:05.309] Q: I hope the two of you are happy together.
+[00:36:07.309 --> 00:36:09.789] SIR GUY: You have been found guilty of outlawry and high treason.
+[00:36:10.909 --> 00:36:12.989] SIR GUY: Do you have anything to say before sentence is carried out?
+[00:36:14.629 --> 00:36:14.949] VASH: I.
+[00:36:17.029 --> 00:36:17.909] SIR GUY: Prepare them for the block.
+[00:36:18.059 --> 00:36:19.859] RABBLE: Off with their heads.
+[00:36:22.869 --> 00:36:23.669] LAFORGE: There are too many of them.
+[00:36:25.749 --> 00:36:28.309] RIKER: Data, we need a diversion, now.
+[00:36:42.429 --> 00:36:44.429] SIR GUY: Guards!
+[00:36:58.549 --> 00:37:01.109] SIR GUY: Take Marian to the tower.
+[00:37:15.669 --> 00:37:20.709] SIR GUY: I'll have you know I'm the greatest swordsman in all of Nottingham.
+[00:37:46.771 --> 00:37:46.771] PICARD: Very impressive.
+[00:37:46.771 --> 00:37:46.771] PICARD: There's something you should know.
+[00:37:46.771 --> 00:37:46.771] SIR GUY: And what would that
+[00:38:10.371 --> 00:38:12.371] SIR GUY: be?
+[00:38:12.371 --> 00:38:16.747] PICARD: I'm not from Nottingham.
+[00:38:20.939 --> 00:38:22.939] VASH: Jean-Luc.
+[00:38:27.131 --> 00:38:29.131] PICARD: It's
+[00:38:33.323 --> 00:38:35.323] PICARD: over,
+[00:38:39.515 --> 00:38:41.515] PICARD: Q!
+[00:38:44.611 --> 00:38:45.331] PICARD: Get us out of here.
+[00:38:49.971 --> 00:38:51.491] Q: My compliments, Picard.
+[00:38:52.051 --> 00:38:54.291] Q: I doubt Robin Hood himself could have done much better.
+[00:38:55.091 --> 00:38:57.503] PICARD: If you have hurt any of my people
+[00:38:57.503 --> 00:38:59.011] Q: Sadly enough, they're all fine,
+[00:38:59.571 --> 00:39:01.891] Q: but my point is they could have been killed, and so might have you.
+[00:39:02.691 --> 00:39:03.891] Q: All for the love of a maid.
+[00:39:05.411 --> 00:39:07.491] Q: My debt to you, Picard, is paid.
+[00:39:08.131 --> 00:39:14.051] Q: If you've learned how weak and vulnerable you really are, if you finally see how love has brought out the worst in you
+[00:39:14.051 --> 00:39:14.611] VASH: Nonsense.
+[00:39:14.611 --> 00:39:15.731] VASH: You're absolutely wrong.
+[00:39:15.731 --> 00:39:17.091] VASH: It's brought out the best in him.
+[00:39:18.131 --> 00:39:19.731] VASH: His nobility, courage,
+[00:39:20.375 --> 00:39:23.415] VASH: self-sacrifice, tenderness.
+[00:39:24.535 --> 00:39:25.175] Q: Oh, you're good.
+[00:39:26.135 --> 00:39:27.495] Q: You're really good.
+[00:39:28.135 --> 00:39:28.855] PICARD: Enough of this.
+[00:39:31.655 --> 00:39:33.415] Q: Indeed.
+[00:39:33.815 --> 00:39:35.415] RIKER: Everybody
+[00:39:38.215 --> 00:39:38.775] RIKER: here?
+[00:39:39.015 --> 00:39:39.575] TROI: Where's Vash?
+[00:39:41.015 --> 00:39:42.855] PICARD: Computer, locate Council Member Vash.
+[00:39:43.495 --> 00:39:45.815] COMPUTER: Council Member Vash is not aboard the Enterprise.
+[00:40:05.975 --> 00:40:06.695] VASH: Hello, Jean-Luc.
+[00:40:09.255 --> 00:40:10.135] PICARD: Well, this is a relief.
+[00:40:10.935 --> 00:40:12.375] PICARD: I thought that perhaps Q had found
+[00:40:12.375 --> 00:40:14.775] VASH: Well he had some things to discuss with me.
+[00:40:15.735 --> 00:40:16.055] PICARD: Indeed?
+[00:40:18.775 --> 00:40:19.415] PICARD: Surprised he's not
+[00:40:20.055 --> 00:40:21.495] PICARD: busy gloating over his victory.
+[00:40:22.055 --> 00:40:23.495] VASH: He was right about one thing, you know.
+[00:40:23.895 --> 00:40:27.815] VASH: As ridiculous as it was, his game did prove that you still care.
+[00:40:33.655 --> 00:40:37.335] PICARD: I may not show my feelings to my crew, but I do have them.
+[00:40:41.415 --> 00:40:42.375] VASH: I'm going to miss you, Jean-Luc.
+[00:40:44.215 --> 00:40:45.575] PICARD: So, where are you off to now?
+[00:40:47.255 --> 00:40:48.775] VASH: I haven't made up my mind.
+[00:40:52.105 --> 00:40:54.265] Q: After all, she has the entire universe to choose from.
+[00:40:54.585 --> 00:40:55.545] VASH: Meet my new partner.
+[00:40:56.505 --> 00:40:56.745] PICARD: Him?
+[00:40:56.985 --> 00:40:57.545] VASH: Why not?
+[00:40:58.345 --> 00:40:59.225] PICARD: I'll tell you why not.
+[00:41:00.505 --> 00:41:02.105] Q: Now, Jean-Luc, let's not be unkind.
+[00:41:02.665 --> 00:41:07.065] PICARD: He's devious, and amoral, and unreliable, and irresponsible, and, and
+[00:41:09.785 --> 00:41:11.225] PICARD: definitely not to be trusted.
+[00:41:12.185 --> 00:41:13.385] VASH: Remind you of someone you know?
+[00:41:14.905 --> 00:41:16.025] PICARD: As a matter of fact, it does.
+[00:41:19.705 --> 00:41:20.505] Q: We're going to have fun.
+[00:41:21.305 --> 00:41:23.865] Q: I'm going to take her places no human has ever seen.
+[00:41:24.985 --> 00:41:26.505] VASH: Who can resist an offer like that?
+[00:41:29.865 --> 00:41:34.585] PICARD: As payment in full for your debt to me, you will guarantee her safety.
+[00:41:34.745 --> 00:41:36.105] Q: She will not be harmed, Jean-Luc.
+[00:41:36.345 --> 00:41:37.305] Q: I promise you that.
+[00:41:38.665 --> 00:41:39.945] Q: Well, are you going to kiss her goodbye?
+[00:41:46.985 --> 00:41:47.225] Q: All right.
+[00:41:56.425 --> 00:41:57.705] VASH: Well? Aren't you?
+[00:42:02.905 --> 00:42:03.305] Q: Oh, I'm
+[00:42:03.385 --> 00:42:04.185] Q: sorry,
+[00:42:04.185 --> 00:42:04.345] Q: I
+[00:42:06.025 --> 00:42:06.665] Q: forgot my hat.
+[00:42:29.594 --> 00:42:32.234] VASH: Goodbye, Jean-Luc.
+[00:42:48.000 --> 00:42:59.000] [music]
+[00:43:13.000 --> 00:43:28.000] [music]

@@ -1,0 +1,685 @@
+[00:00:01.920 --> 00:00:06.640] LOG: Second Officer's personal Log, Stardate 44390.1.
+[00:00:07.440 --> 00:00:12.640] LOG: Record entry for transmission to Commander Bruce Maddox, Cybernetics Division, Daystrom Institute.
+[00:00:13.280 --> 00:00:14.317] LOG: Dear Commander Maddox,
+[00:00:14.317 --> 00:00:21.920] DATA: In reference to your most recent letter, I agree that your study lacks sufficient primary source information on my programming and operation.
+[00:00:22.640 --> 00:00:31.440] DATA: Therefore, in response to your request, this correspondence will include a complete record of my activities during a normal day, with particular emphasis on my perceptions of friendship.
+[00:00:35.040 --> 00:00:37.440] DATA: Commander Riker, you are fifteen minutes early.
+[00:00:37.440 --> 00:00:38.800] RIKER: Well, it's a very special day.
+[00:00:39.200 --> 00:00:42.080] RIKER: I thought the father of the bride would enjoy being relieved early on the wedding day.
+[00:00:42.480 --> 00:00:42.880] DATA: Thank you, sir.
+[00:00:43.280 --> 00:00:43.680] RIKER: Nervous?
+[00:00:44.240 --> 00:00:45.360] DATA: I cannot become nervous, sir.
+[00:00:46.080 --> 00:00:50.080] DATA: However, I do sense a certain anticipation regarding my role in the wedding.
+[00:00:51.280 --> 00:00:52.000] RIKER: Anything to report?
+[00:00:52.640 --> 00:00:53.600] DATA: All systems normal, sir.
+[00:00:53.920 --> 00:00:57.840] DATA: Sickbay reports that Lieutenant Juarez went into labour at zero four hundred hours.
+[00:00:58.400 --> 00:01:03.520] DATA: We remain at station awaiting the arrival of Starship Zhukov and guest quarters have been prepared for Ambassador T'Pel.
+[00:01:03.680 --> 00:01:04.000] RIKER: Very well.
+[00:01:04.320 --> 00:01:04.960] RIKER: I have the Bridge.
+[00:01:04.960 --> 00:01:05.280] DATA: Aye, sir.
+[00:01:06.800 --> 00:01:07.840] RIKER: Begin day watch.
+[00:01:08.800 --> 00:01:14.800] DATA: Initially, Commander Maddox, I found it difficult to maintain friendships, since human emotions are often puzzling to me.
+[00:01:19.680 --> 00:01:25.440] DATA: Eventually, I developed a programme enabling me to predict human emotional responses to specific actions.
+[00:01:29.760 --> 00:01:30.320] KEIKO: Come in.
+[00:01:34.368 --> 00:01:35.728] DATA: It is time for the wedding rehearsal.
+[00:01:36.368 --> 00:01:38.448] KEIKO: I know. Data,
+[00:01:38.528 --> 00:01:40.368] KEIKO: I've decided not to go through with it.
+[00:01:41.408 --> 00:01:42.608] DATA: You do not wish to rehearse?
+[00:01:43.488 --> 00:01:45.088] KEIKO: No, I'm calling off the wedding.
+[00:01:46.208 --> 00:01:47.008] DATA: May I ask why?
+[00:01:48.208 --> 00:01:49.808] KEIKO: It's just the right thing to do.
+[00:01:51.408 --> 00:01:53.408] DATA: Have your feelings for Chief O'Brien changed?
+[00:01:58.528 --> 00:02:00.448] KEIKO: I'm supposed to be getting married, Data.
+[00:02:00.848 --> 00:02:02.288] KEIKO: I should be happy, but I'm not.
+[00:02:02.288 --> 00:02:04.848] KEIKO: I just feel this weight pressing down on me.
+[00:02:06.048 --> 00:02:07.648] DATA: Will cancelling the wedding make you happy?
+[00:02:09.488 --> 00:02:10.048] KEIKO: Yes.
+[00:02:11.488 --> 00:02:13.648] KEIKO: He'll probably be just as relieved as I am.
+[00:02:15.248 --> 00:02:18.448] KEIKO: Data, you introduced us to each other.
+[00:02:18.448 --> 00:02:21.088] KEIKO: You mean a lot to both of us.
+[00:02:22.288 --> 00:02:25.168] KEIKO: I would really appreciate it if you would tell Miles for me.
+[00:02:26.368 --> 00:02:26.848] DATA: If you wish.
+[00:02:36.848 --> 00:02:41.088] DATA: My friend Chief O'Brien often says that above all else, he wants to make Keiko happy.
+[00:02:41.408 --> 00:02:45.728] DATA: Since cancelling the wedding will make her happy, I must conclude the Chief will be pleased at her decision.
+[00:02:46.688 --> 00:02:47.728] DATA: I have good news.
+[00:02:48.288 --> 00:02:48.368] O'BRIEN: Oh?
+[00:02:49.408 --> 00:02:52.048] DATA: Keiko has made a decision designed to increase her happiness.
+[00:02:53.088 --> 00:02:54.208] DATA: She has cancelled the wedding.
+[00:02:55.008 --> 00:02:55.408] O'BRIEN: She what?
+[00:02:57.408 --> 00:02:58.288] O'BRIEN: Cancelled the wedding?
+[00:02:59.456 --> 00:03:05.856] O'BRIEN: Today? Without even a word? Of all the childish, selfish, irresponsible things to do!
+[00:03:07.296 --> 00:03:09.936] LAFORGE: Next time, maybe I should break the good news.
+[00:03:13.136 --> 00:03:19.856] DATA: Commander Maddox, it would appear that my programme designed to predict the emotional responses needs adjustment.
+[00:03:47.216 --> 00:03:49.696] PICARD: Space, the final frontier.
+[00:03:51.616 --> 00:03:54.496] PICARD: These are the voyages of the Starship Enterprise.
+[00:03:55.616 --> 00:04:08.176] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:05:05.135 --> 00:05:07.135] LOG: Second Officers personal log, supplemental.
+[00:05:07.855 --> 00:05:11.295] LOG: This is the one thousand five hundred fiftieth day since the Enterprise was commissioned.
+[00:05:12.095 --> 00:05:24.175] LOG: Besides the arrival of Ambassador T'Pel, other events occurring today include four birthdays, two personnel transfers, a celebration of the Hindu Festival of Lights, two chess tournaments, one secondary school play, and four promotions.
+[00:05:24.575 --> 00:05:26.015] LOG: Overall, an ordinary day.
+[00:05:26.895 --> 00:05:28.575] TECHNICIAN: The Zhukov is ready for transport, sir.
+[00:05:29.455 --> 00:05:30.015] DATA: Energise.
+[00:05:32.255 --> 00:05:34.255] DATA: Welcome
+[00:05:37.615 --> 00:05:38.815] DATA: aboard the Enterprise, Ambassador.
+[00:05:40.015 --> 00:05:41.375] T'PEL: I would meet with your Captain.
+[00:05:45.055 --> 00:05:51.375] DATA: Sine I am not affected by emotional considerations, I am closer to being Vulcan than human.
+[00:05:51.935 --> 00:05:57.055] DATA: However, while their devotion to logic does have a certain appeal, I find their stark philosophy to be somewhat
+[00:05:58.082 --> 00:05:58.482] DATA: limited.
+[00:06:00.082 --> 00:06:00.402] PICARD: Come.
+[00:06:02.642 --> 00:06:03.682] PICARD: Ambassador T'Pel.
+[00:06:04.082 --> 00:06:04.882] T'PEL: I come to serve.
+[00:06:05.602 --> 00:06:06.642] PICARD: Your service honours us.
+[00:06:06.962 --> 00:06:08.882] PICARD: This is my first officer, Commander William Riker.
+[00:06:09.442 --> 00:06:10.242] T'PEL: Leave us, please.
+[00:06:19.042 --> 00:06:20.402] RIKER: Charming woman.
+[00:06:21.762 --> 00:06:27.202] DATA: The tone of Commander Riker's voice makes me suspect that he is not serious about finding Ambassador T'Pel charming.
+[00:06:27.762 --> 00:06:32.402] DATA: My experience suggests that in fact he may mean the exact opposite of what he says.
+[00:06:32.882 --> 00:06:35.842] DATA: irony is a form of expression I have not yet been able to master.
+[00:06:36.642 --> 00:06:37.762] V'SAL: You don't need a haircut.
+[00:06:38.162 --> 00:06:39.522] V'SAL: You were just in here last week.
+[00:06:39.602 --> 00:06:43.122] LAFORGE: Hey, if you'd done it right the first time I wouldn't be back here so soon.
+[00:06:43.122 --> 00:06:47.682] V'SAL: I know you want to look beautiful, but I'm just a barber, not a miracle worker.
+[00:06:48.082 --> 00:06:50.082] LAFORGE: Just try to keep my ears on straight today, all right?
+[00:06:51.442 --> 00:06:55.762] DATA: Friendly insults and jibes, another form of human speech that I am attempting to master,
+[00:06:56.322 --> 00:06:58.882] DATA: in this case with the help of Commander Geordi La Forge.
+[00:06:59.282 --> 00:06:59.762] LAFORGE: Hi Data.
+[00:06:59.762 --> 00:07:03.202] DATA: I consider Geordi to be my best friend.
+[00:07:04.722 --> 00:07:05.282] LAFORGE: Here for a trim?
+[00:07:06.642 --> 00:07:08.482] DATA: My hair does not require trimming, you lunkhead.
+[00:07:09.362 --> 00:07:09.602] LAFORGE: What?
+[00:07:10.802 --> 00:07:12.311] DATA: My hair does not require trimming
+[00:07:12.311 --> 00:07:12.562] LAFORGE: Lunkhead?
+[00:07:12.562 --> 00:07:15.922] DATA: I am experimenting with friendly jibes and insults.
+[00:07:16.162 --> 00:07:18.002] DATA: It was not meant as a serious disparagement.
+[00:07:18.482 --> 00:07:18.562] LAFORGE: Well,
+[00:07:20.642 --> 00:07:21.922] LAFORGE: just don't try it on the Captain.
+[00:07:23.122 --> 00:07:23.362] DATA: No.
+[00:07:24.899 --> 00:07:29.779] DATA: Geordi, I am still confused by Chief O'Brien's reaction this morning.
+[00:07:30.099 --> 00:07:32.899] LAFORGE: Yeah. He was just surprised, Data.
+[00:07:33.299 --> 00:07:34.819] LAFORGE: He didn't mean to blow up like that.
+[00:07:35.379 --> 00:07:37.939] LAFORGE: He knows that Keiko probably doesn't want to call off the marriage.
+[00:07:39.059 --> 00:07:40.099] LAFORGE: She's just getting cold feet.
+[00:07:41.699 --> 00:07:47.939] DATA: Cold feet? Jitters. A nervous reaction to an impending event of great importance.
+[00:07:48.339 --> 00:07:48.499] LAFORGE: Right.
+[00:07:49.299 --> 00:07:51.219] LAFORGE: Don't worry, everything's going to be fine.
+[00:07:51.939 --> 00:07:52.899] LAFORGE: She'll change her mind again.
+[00:07:54.019 --> 00:07:54.499] DATA: She will?
+[00:07:54.979 --> 00:07:55.779] LAFORGE: Absolutely.
+[00:07:56.579 --> 00:07:58.819] DATA: So you believe the wedding will still proceed?
+[00:07:59.379 --> 00:08:01.379] LAFORGE: Trust me, they're going to get married.
+[00:08:02.019 --> 00:08:03.139] LAFORGE: So you'd better find a
+[00:08:06.259 --> 00:08:06.259] LAFORGE: gift.
+[00:08:06.499 --> 00:08:09.379] DATA: I find Lieutenant Worf to be what is called a kindred spirit.
+[00:08:10.099 --> 00:08:12.579] DATA: We were both orphans rescued by Starfleet officers.
+[00:08:13.059 --> 00:08:16.739] DATA: In many ways, we are both still outsiders in human society.
+[00:08:18.339 --> 00:08:19.619] DATA: Are you here to find a wedding gift?
+[00:08:20.659 --> 00:08:21.059] WORF: Yes.
+[00:08:21.539 --> 00:08:23.859] DATA: I would appreciate your help in selecting an appropriate item.
+[00:08:25.139 --> 00:08:25.699] WORF: Of course.
+[00:08:26.819 --> 00:08:28.579] WORF: I have attended human weddings before.
+[00:08:33.139 --> 00:08:33.539] WORF: Hold.
+[00:08:33.859 --> 00:08:35.139] DATA: This is a traditional gift?
+[00:08:36.099 --> 00:08:41.779] WORF: Yes, my adoptive parents often give these things at family weddings.
+[00:08:43.139 --> 00:08:44.019] WORF: A human custom.
+[00:08:44.739 --> 00:08:46.019] WORF: Hold.
+[00:08:46.019 --> 00:08:46.259] DATA: It
+[00:08:49.859 --> 00:08:54.979] DATA: is my understanding that the item selected should reflect the personality of whoever is giving it.
+[00:08:55.379 --> 00:08:56.739] DATA: This does not remind me of you.
+[00:09:00.111 --> 00:09:02.671] DATA: Have you ever been an actual participant in a human wedding?
+[00:09:03.631 --> 00:09:04.111] WORF: No.
+[00:09:05.151 --> 00:09:06.511] DATA: You would not consider it to be an honour?
+[00:09:06.661 --> 00:09:07.261] WORF: An
+[00:09:08.111 --> 00:09:09.231] WORF: honour, perhaps.
+[00:09:10.191 --> 00:09:18.351] WORF: But human bonding rituals often involve a great deal of talking and dancing and crying.
+[00:09:19.711 --> 00:09:20.191] DATA: Dancing.
+[00:09:25.151 --> 00:09:31.391] DATA: I am rarely in need of Doctor Beverly Crusher's professional services as my bio-mechanical maintenance programme is self sufficient.
+[00:09:31.951 --> 00:09:37.951] DATA: But I often observe as she practices medicine on others and have learned a great deal about human interaction from her.
+[00:09:39.871 --> 00:09:41.871] DATA: Doctor, may I ask a favour of you?
+[00:09:42.031 --> 00:09:42.671] CRUSHER: Of course, Data.
+[00:09:43.471 --> 00:09:44.671] DATA: Would you teach me how to dance?
+[00:09:48.351 --> 00:09:48.591] CRUSHER: What?
+[00:09:49.231 --> 00:09:50.671] DATA: I would like to learn how to dance.
+[00:09:50.911 --> 00:09:51.551] CRUSHER: Why me?
+[00:09:52.031 --> 00:09:55.871] DATA: It was in your service record. Awarded first prize tap and jazz competition, Saint Louis Academy.
+[00:09:56.111 --> 00:09:57.071] CRUSHER: Okay, okay.
+[00:09:58.671 --> 00:10:00.031] DATA: Have I said something to upset you?
+[00:10:01.231 --> 00:10:07.951] CRUSHER: It's just that, that was a long time ago, and I don't want to be known as the dancing doctor. Again.
+[00:10:09.391 --> 00:10:10.271] DATA: Then your answer is no.
+[00:10:12.591 --> 00:10:13.631] CRUSHER: All right. But
+[00:10:15.151 --> 00:10:16.751] CRUSHER: let's keep this between you and me.
+[00:10:19.311 --> 00:10:20.031] DATA: Of course, Doctor.
+[00:10:20.511 --> 00:10:22.431] PICARD: Commander Data, please report to the Bridge.
+[00:10:23.311 --> 00:10:23.871] DATA: Acknowledged.
+[00:10:29.670 --> 00:10:33.830] PICARD: Data, I want a tactical projection of possible future Romulan deployments along the Neutral Zone.
+[00:10:33.990 --> 00:10:37.190] PICARD: Access all Federation records on the subject and report to my Ready Room.
+[00:10:37.670 --> 00:10:40.710] DATA: Captain, is there a specific area you wish me to study?
+[00:10:42.150 --> 00:10:44.150] PICARD: No.
+[00:10:45.590 --> 00:10:45.990] PICARD: Ambassador.
+[00:10:47.110 --> 00:10:50.950] PICARD: Number One, set a course one three zero mark two four six, warp seven.
+[00:10:51.430 --> 00:10:53.270] RIKER: That will take us very close to the Neutral Zone, Captain.
+[00:10:53.430 --> 00:10:53.990] PICARD: I'm aware of that,
+[00:10:53.990 --> 00:10:54.710] PICARD: Number One. Proceed.
+[00:10:56.630 --> 00:10:57.270] RIKER: Lay in the course.
+[00:11:02.710 --> 00:11:07.270] DATA: It is fortunate that I am able to perform my duties without emotional distractions.
+[00:11:08.790 --> 00:11:13.510] DATA: If that were not the case, a sudden course correction toward the Neutral Zone would make me very
+[00:11:15.030 --> 00:11:15.590] DATA: nervous.
+[00:11:15.740 --> 00:11:17.140] DATA: Personal Log, supplemental.
+[00:11:17.450 --> 00:11:23.650] DATA: Commander Maddox, there are still many dynamics of social interaction which I do not understand.
+[00:11:26.150 --> 00:11:32.070] PICARD: Mister Data, based on your analysis, what is the current Romulan strategy behind the deployment of their ships in this sector?
+[00:11:32.870 --> 00:11:38.790] DATA: Their ships are deployed to support a policy of confrontation designed to test Federation defenses along the Neutral Zone.
+[00:11:39.030 --> 00:11:40.630] PICARD: Do you predict any change in the near future?
+[00:11:41.350 --> 00:11:44.710] DATA: I project a ninety percent probability that they will continue to support that policy.
+[00:11:44.950 --> 00:11:49.350] PICARD: Is there any indication of a more conciliatory attitude on their part?
+[00:11:49.990 --> 00:11:50.230] DATA: No, sir.
+[00:11:50.873 --> 00:11:52.953] T'PEL: Caution is clearly called for, Captain.
+[00:11:53.593 --> 00:11:55.913] T'PEL: However, the mission must proceed as planned.
+[00:11:57.593 --> 00:11:58.873] PICARD: Starfleet Command agrees with you,
+[00:12:00.953 --> 00:12:03.673] PICARD: but I would feel better if you would consent to an escort or
+[00:12:08.313 --> 00:12:09.113] PICARD: Thank you, Mister Data.
+[00:12:20.713 --> 00:12:23.433] DATA: Feline supplement
+[00:12:25.353 --> 00:12:25.993] DATA: seventy four.
+[00:12:58.313 --> 00:13:01.833] DATA: Computer, run fluidic sensor diagnostic.
+[00:13:02.953 --> 00:13:04.153] COMPUTER: Diagnostic complete.
+[00:13:04.393 --> 00:13:06.793] COMPUTER: All systems functioning within normal parameters.
+[00:13:09.353 --> 00:13:09.753] DATA: Come in.
+[00:13:09.753 --> 00:13:13.113] O'BRIEN: Am I
+[00:13:16.393 --> 00:13:17.033] O'BRIEN: intruding, Commander?
+[00:13:17.833 --> 00:13:18.073] DATA: No.
+[00:13:18.713 --> 00:13:19.513] DATA: Would you care to sit down?
+[00:13:20.953 --> 00:13:22.633] DATA: When one of my friends is distraught,
+[00:13:23.053 --> 00:13:26.733] DATA: I have learnt that the thoughtful thing to do is to attempt to make him feel more comfortable.
+[00:13:29.613 --> 00:13:31.213] DATA: May I offer you some refreshment, Chief?
+[00:13:32.333 --> 00:13:32.973] O'BRIEN: No, thank you, sir.
+[00:13:35.453 --> 00:13:38.653] O'BRIEN: First of all I'd like to apologise for this morning in Ten Forward
+[00:13:39.533 --> 00:13:40.973] DATA: There is no need to apologise.
+[00:13:41.373 --> 00:13:42.173] DATA: I was not offended.
+[00:13:42.813 --> 00:13:45.933] DATA: Would you like a pillow or a more comfortable chair to sit upon?
+[00:13:46.093 --> 00:13:46.493] O'BRIEN: No, sir.
+[00:13:47.693 --> 00:13:48.093] O'BRIEN: Thank you, sir.
+[00:13:50.813 --> 00:13:53.853] DATA: Perhaps you would like some music? Brahms? Aurelia?
+[00:13:53.933 --> 00:13:54.653] O'BRIEN: No, really, sir
+[00:13:54.973 --> 00:13:55.373] O'BRIEN: I'm fine.
+[00:13:58.093 --> 00:14:00.253] O'BRIEN: I came to ask for your help.
+[00:14:01.133 --> 00:14:01.773] O'BRIEN: It's about Keiko.
+[00:14:03.213 --> 00:14:06.173] O'BRIEN: I'd like you to talk to her. Convince her to go through with the wedding.
+[00:14:07.373 --> 00:14:10.413] DATA: Would Counsellor Troi not be a more appropriate choice to speak with Keiko?
+[00:14:10.733 --> 00:14:11.613] O'BRIEN: She already has.
+[00:14:12.733 --> 00:14:13.213] O'BRIEN: It didn't help.
+[00:14:14.733 --> 00:14:16.173] O'BRIEN: You've known her longer than I have.
+[00:14:16.493 --> 00:14:17.773] O'BRIEN: I just thought she might listen to you.
+[00:14:18.733 --> 00:14:19.693] O'BRIEN: She won't even talk to me
+[00:14:21.773 --> 00:14:23.053] DATA: I do not know what to say to her.
+[00:14:23.693 --> 00:14:24.493] O'BRIEN: Just talk with her.
+[00:14:25.293 --> 00:14:26.093] O'BRIEN: Make her see reason.
+[00:14:26.493 --> 00:14:28.813] O'BRIEN: She's going off half-cocked, not thinking this through.
+[00:14:30.093 --> 00:14:31.533] O'BRIEN: You've worked with her for a long time.
+[00:14:32.493 --> 00:14:33.613] O'BRIEN: She respects your opinion.
+[00:14:45.533 --> 00:14:45.933] DATA: Perhaps
+[00:14:49.453 --> 00:14:51.533] DATA: she has not fully analysed her decision.
+[00:14:52.733 --> 00:14:53.293] DATA: I will try.
+[00:14:54.940 --> 00:14:55.420] O'BRIEN: Thank you, sir.
+[00:14:56.940 --> 00:14:57.660] O'BRIEN: I won't forget this.
+[00:15:01.340 --> 00:15:02.140] DATA: Commander Maddox,
+[00:15:02.780 --> 00:15:06.940] DATA: I noted that Keiko was quite calm and rational when she informed me of her decision this morning.
+[00:15:07.580 --> 00:15:13.660] DATA: Therefore, I can predict that she will respond to an objective analysis of the situation based on the available facts.
+[00:15:14.220 --> 00:15:17.580] DATA: It is fortunate that she has not let emotional considerations cloud her judgement.
+[00:15:18.060 --> 00:15:19.660] DATA: It should make my task much simpler.
+[00:15:20.460 --> 00:15:20.700] KEIKO: What?
+[00:15:21.340 --> 00:15:24.060] DATA: I believe you made an incorrect analysis of the facts at hand.
+[00:15:24.620 --> 00:15:25.340] KEIKO: What do you mean?
+[00:15:26.220 --> 00:15:27.340] DATA: You do not seem happy.
+[00:15:28.700 --> 00:15:29.020] KEIKO: Well
+[00:15:32.380 --> 00:15:36.220] DATA: Your decision was based on the assumption that cancelling the wedding would bring you happiness.
+[00:15:36.700 --> 00:15:38.060] DATA: This has proved to be incorrect.
+[00:15:38.060 --> 00:15:39.580] KEIKO: Data, it's not that simple.
+[00:15:40.460 --> 00:15:48.540] DATA: Since your action did not produce the desired results, the only advisable solution should be to re-examine your decision making process, and look for errors.
+[00:15:48.620 --> 00:15:49.820] KEIKO: I knew what I was doing.
+[00:15:49.820 --> 00:15:50.940] KEIKO: It's my decision.
+[00:15:51.420 --> 00:15:52.780] DATA: That fact is not in dispute.
+[00:15:53.340 --> 00:15:58.300] DATA: However, you may have acted with undue haste and in doing so, unintentionally hurt Chief O'Brien's feelings.
+[00:15:58.380 --> 00:15:59.660] KEIKO: I did what I had to!
+[00:15:59.660 --> 00:16:00.700] KEIKO: Why are you doing this?
+[00:16:02.860 --> 00:16:04.060] KEIKO: I thought you were my friend.
+[00:16:04.540 --> 00:16:05.260] DATA: I am your friend.
+[00:16:05.660 --> 00:16:06.940] KEIKO: Then leave me alone.
+[00:16:07.900 --> 00:16:08.780] DATA: If I have offended.
+[00:16:08.780 --> 00:16:09.660] KEIKO: Just leave me alone.
+[00:16:13.020 --> 00:16:15.740] DATA: It is clear that I need guidance to resolve this situation.
+[00:16:16.220 --> 00:16:17.980] DATA: Counsellor Troi's advice should be useful.
+[00:16:20.177 --> 00:16:23.137] DATA: In many ways, Deanna Troi is the friend that I understand the least.
+[00:16:23.697 --> 00:16:27.617] DATA: Her life and her duties are predicated on her understanding and perception of emotions.
+[00:16:28.017 --> 00:16:31.777] DATA: Since I have none, no doubt she finds me as much of a mystery as I find her.
+[00:16:33.377 --> 00:16:34.817] DATA: Chief O'Brien talks to me.
+[00:16:35.377 --> 00:16:36.417] DATA: Keiko talks to you.
+[00:16:37.857 --> 00:16:39.057] DATA: Why do they not talk to each other?
+[00:16:40.577 --> 00:16:41.857] TROI: That's a good question, Data.
+[00:16:42.897 --> 00:16:44.337] TROI: I wish I had a good answer for you.
+[00:16:45.057 --> 00:16:46.417] TROI: Perhaps when they're ready, they will.
+[00:16:48.737 --> 00:16:51.217] DATA: Many aspects of this situation are puzzling to me.
+[00:16:52.017 --> 00:16:56.497] DATA: I have been studying various texts on the subject of marriage, but I have not found a suitable guide.
+[00:16:57.217 --> 00:16:58.337] TROI: A suitable guide for what?
+[00:16:59.457 --> 00:17:04.977] DATA: In an effort to be helpful, I am attempting to calculate the variables involved in a successful marriage.
+[00:17:06.097 --> 00:17:07.537] TROI: Good luck.
+[00:17:08.257 --> 00:17:09.297] DATA: There are many opinions.
+[00:17:10.017 --> 00:17:19.217] DATA: On Galvin Five, a marriage is considered successful only if children are produced within a year of the wedding. Andorian marriages require groups of four people unless
+[00:17:19.457 --> 00:17:22.177] TROI: Data, would you like my advice on how to help them?
+[00:17:24.017 --> 00:17:24.177] TROI: Don't.
+[00:17:25.777 --> 00:17:27.857] TROI: This is something they have to work out for themselves.
+[00:17:28.737 --> 00:17:30.577] DATA: But I am their friend.
+[00:17:31.297 --> 00:17:33.457] DATA: Should I not stand with them in a time of difficulty?
+[00:17:34.897 --> 00:17:38.737] TROI: There are many ways to help a friend, and sometimes the best way is to leave them alone.
+[00:17:42.097 --> 00:17:44.737] DATA: Do you believe it to be the right decision for them to marry?
+[00:17:45.457 --> 00:17:46.017] TROI: I don't know.
+[00:17:46.791 --> 00:17:49.591] TROI: They're very much in love, but sometimes that isn't enough.
+[00:17:50.711 --> 00:17:56.871] TROI: Marriage is an agreement to share who you are with someone else. To spend your lives together. To grow old together.
+[00:17:57.991 --> 00:17:58.871] DATA: To grow old together?
+[00:17:59.991 --> 00:18:01.831] DATA: That is an integral component of marriage?
+[00:18:02.311 --> 00:18:03.911] TROI: Usually. Why do you ask?
+[00:18:05.111 --> 00:18:10.551] DATA: Although I am an android, I have not excluded the possibility that I, too, may someday marry.
+[00:18:12.631 --> 00:18:15.671] TROI: Data, I had no idea you'd thought about getting married.
+[00:18:16.711 --> 00:18:18.951] DATA: I believe I have much to offer a potential mate.
+[00:18:19.431 --> 00:18:23.271] DATA: However, we cannot grow old together because I will not grow old.
+[00:18:25.751 --> 00:18:26.071] TROI: Data,
+[00:18:29.351 --> 00:18:31.031] TROI: you do have a lot to offer.
+[00:18:31.911 --> 00:18:34.391] T'PEL: Commander Data, this is Ambassador T'Pel.
+[00:18:34.711 --> 00:18:35.991] T'PEL: Please report to my quarters.
+[00:18:36.951 --> 00:18:37.511] DATA: Acknowledged.
+[00:18:47.271 --> 00:18:47.671] T'PEL: Enter.
+[00:18:52.151 --> 00:18:54.711] T'PEL: You have priority three clearance aboard the Enterprise?
+[00:18:55.431 --> 00:18:56.551] DATA: That is correct, Ambassador.
+[00:18:57.271 --> 00:19:01.351] T'PEL: I require information on this ship's defence and navigational systems.
+[00:19:01.671 --> 00:19:05.511] T'PEL: Access code kappa alpha four six zero one seven zero four.
+[00:19:06.071 --> 00:19:06.951] DATA: The code is valid.
+[00:19:08.151 --> 00:19:12.471] T'PEL: What is the field strength of the ship's deflector shields at maximum output?
+[00:19:14.071 --> 00:19:15.831] DATA: May I ask the purpose of your request?
+[00:19:17.039 --> 00:19:18.319] T'PEL: I require the information.
+[00:19:19.759 --> 00:19:21.839] DATA: I have the same safeguards as the ship's computer.
+[00:19:22.479 --> 00:19:26.159] DATA: Therefore, I must report any inquiry regarding restricted information to the Captain.
+[00:19:29.039 --> 00:19:32.559] DATA: Your reaction suggests you do not wish the Captain to be informed of your inquiry.
+[00:19:33.519 --> 00:19:35.199] T'PEL: I was not interested in the information.
+[00:19:35.999 --> 00:19:38.479] T'PEL: I was curious as to your security safeguards.
+[00:19:38.559 --> 00:19:39.599] T'PEL: They appear to be adequate.
+[00:19:40.319 --> 00:19:41.359] T'PEL: Cancel the request.
+[00:19:41.599 --> 00:19:42.079] T'PEL: You may leave.
+[00:19:47.199 --> 00:19:52.239] DATA: Commander Maddox, I have often wished for the sense that humans call intuition or instinct.
+[00:19:52.719 --> 00:19:57.359] DATA: Since Vulcans are incapable of lying, I must accept the Ambassador's explanation as the truth,
+[00:19:58.079 --> 00:20:01.679] DATA: but I would still prefer a gut feeling to back up this conclusion.
+[00:20:17.359 --> 00:20:19.279] COMPUTER: Programme Crusher four in progress.
+[00:20:25.359 --> 00:20:25.999] CRUSHER: Hi, Data.
+[00:20:27.679 --> 00:20:28.559] CRUSHER: Well what do you think?
+[00:20:28.959 --> 00:20:31.839] CRUSHER: It is a recreation of the studio I had my first dance lesson in.
+[00:20:31.839 --> 00:20:33.839] DATA: It appears to be quite suitable, Doctor.
+[00:20:34.959 --> 00:20:35.999] CRUSHER: Let's start with something simple.
+[00:20:37.679 --> 00:20:38.399] CRUSHER: Stomp.
+[00:20:38.399 --> 00:20:39.039] CRUSHER: Hop.
+[00:20:39.279 --> 00:20:42.079] CRUSHER: Try it. Again.
+[00:20:44.719 --> 00:20:44.719] CRUSHER: Good!
+[00:20:44.719 --> 00:20:45.359] CRUSHER: Good.
+[00:20:46.959 --> 00:20:47.599] DATA: Am I dancing, Doctor?
+[00:20:48.079 --> 00:20:48.719] CRUSHER: Not quite.
+[00:20:49.599 --> 00:20:50.079] CRUSHER: Stop, Data.
+[00:20:51.567 --> 00:20:52.467] CRUSHER: Now try this.
+[00:20:52.467 --> 00:20:52.767] DATA: Doctor,
+[00:20:53.647 --> 00:20:56.207] DATA: perhaps it would be beneficial to show me the final lesson.
+[00:20:59.327 --> 00:20:59.647] CRUSHER: Okay.
+[00:21:00.607 --> 00:21:02.607] CRUSHER: That's great.
+[00:21:11.487 --> 00:21:11.807] CRUSHER: Watch.
+[00:21:13.087 --> 00:21:15.087] CRUSHER: Good.
+[00:21:15.087 --> 00:21:15.087] CRUSHER: Triples.
+[00:21:16.927 --> 00:21:16.927] CRUSHER: Watch.
+[00:21:29.407 --> 00:21:29.407] CRUSHER: Stop, Data.
+[00:21:31.087 --> 00:21:32.847] CRUSHER: And you say you've never done this before?
+[00:21:35.247 --> 00:21:36.367] CRUSHER: Try this.
+[00:21:38.047 --> 00:21:40.047] CRUSHER: Stop,
+[00:22:11.087 --> 00:22:13.087] CRUSHER: Data.
+[00:22:15.967 --> 00:22:16.447] CRUSHER: Not bad.
+[00:22:18.207 --> 00:22:19.407] CRUSHER: Yeah, not bad.
+[00:22:20.047 --> 00:22:21.647] DATA: Then I have successfully learned to dance?
+[00:22:22.533 --> 00:22:24.133] CRUSHER: I'd say you've picked up the basics.
+[00:22:24.693 --> 00:22:25.253] DATA: Thank you, Doctor.
+[00:22:25.893 --> 00:22:27.493] DATA: I am now prepared to dance at the wedding.
+[00:22:27.973 --> 00:22:28.453] CRUSHER: Wedding?
+[00:22:30.293 --> 00:22:30.853] DATA: Keiko's wedding.
+[00:22:31.493 --> 00:22:33.333] CRUSHER: Data, you never told me this was for the wedding.
+[00:22:34.933 --> 00:22:35.733] DATA: Is that important?
+[00:22:35.893 --> 00:22:36.853] CRUSHER: Well yes.
+[00:22:37.493 --> 00:22:39.253] CRUSHER: They don't do a lot of tap dancing at weddings.
+[00:22:40.853 --> 00:22:41.013] DATA: Why?
+[00:22:41.413 --> 00:22:43.493] CRUSHER: Well, Data, because,
+[00:22:45.013 --> 00:22:45.973] CRUSHER: I don't really know why,
+[00:22:46.053 --> 00:22:50.213] CRUSHER: Look, why don't I just teach you a style of dancing that they will do at the wedding?
+[00:22:51.813 --> 00:22:53.493] CRUSHER: Computer, run
+[00:22:55.013 --> 00:22:56.293] CRUSHER: 'Isn't It Romantic'.
+[00:22:59.573 --> 00:23:02.213] CRUSHER: Compared to what we've just doing, this will be simple.
+[00:23:03.333 --> 00:23:05.413] CRUSHER: Just look up and follow me.
+[00:23:06.373 --> 00:23:08.613] CRUSHER: One, two, ready, and
+[00:23:10.693 --> 00:23:11.493] CRUSHER: No, Data, wait a minute.
+[00:23:11.573 --> 00:23:11.813] CRUSHER: Ow!
+[00:23:11.973 --> 00:23:13.093] CRUSHER: No, no, you're just. Ow!
+[00:23:13.333 --> 00:23:13.813] CRUSHER: Move slowly.
+[00:23:14.453 --> 00:23:14.693] CRUSHER: Ow!
+[00:23:14.693 --> 00:23:14.693] CRUSHER: Ow!
+[00:23:15.253 --> 00:23:15.813] CRUSHER: Stop music.
+[00:23:16.453 --> 00:23:17.013] DATA: Sorry, Doctor.
+[00:23:17.893 --> 00:23:19.013] CRUSHER: I don't understand, Data.
+[00:23:19.653 --> 00:23:21.493] CRUSHER: You picked up the tap dancing so quickly.
+[00:23:22.133 --> 00:23:24.773] DATA: I cannot reproduce your performance if I cannot see your feet.
+[00:23:27.733 --> 00:23:28.293] CRUSHER: All right,
+[00:23:29.253 --> 00:23:30.133] CRUSHER: let's try it again.
+[00:23:32.053 --> 00:23:33.893] CRUSHER: And this time, watch my feet.
+[00:23:35.013 --> 00:23:36.453] CRUSHER: Computer, start music.
+[00:23:37.653 --> 00:23:37.893] CRUSHER: And.
+[00:23:43.493 --> 00:23:45.253] CRUSHER: Now, don't just imitate me.
+[00:23:46.133 --> 00:23:46.933] CRUSHER: You've got to lead.
+[00:23:48.133 --> 00:23:48.933] DATA: Lead where, Doctor?
+[00:23:49.413 --> 00:23:51.333] CRUSHER: Indicate to your partner where you want her to step.
+[00:23:52.373 --> 00:23:53.493] DATA: And how is that accomplished?
+[00:23:57.078 --> 00:23:57.558] CRUSHER: I'll show you.
+[00:23:58.118 --> 00:23:58.518] CRUSHER: I'll lead.
+[00:24:04.118 --> 00:24:07.318] CRUSHER: Now, you'll notice that I don't just repeat the same pattern over and over.
+[00:24:07.638 --> 00:24:08.598] CRUSHER: I improvise.
+[00:24:11.078 --> 00:24:11.558] CRUSHER: Now you lead.
+[00:24:16.358 --> 00:24:16.758] CRUSHER: That's good.
+[00:24:17.958 --> 00:24:18.678] CRUSHER: Now, look up, Data.
+[00:24:20.518 --> 00:24:21.718] CRUSHER: Look into my eyes.
+[00:24:23.318 --> 00:24:24.278] CRUSHER: You're holding me too tight.
+[00:24:25.078 --> 00:24:27.958] DATA: This is a very complex set of variables to coordinate, Doctor.
+[00:24:28.118 --> 00:24:29.398] CRUSHER: You are doing fine.
+[00:24:30.118 --> 00:24:31.318] CRUSHER: Now, smile.
+[00:24:32.118 --> 00:24:33.478] CRUSHER: Act like you're enjoying yourself
+[00:24:36.678 --> 00:24:38.838] NURSE: Doctor Crusher, please report to Sickbay.
+[00:24:38.918 --> 00:24:40.038] CRUSHER: Is it Lieutenant Juarez?
+[00:24:40.358 --> 00:24:40.838] NURSE: Yes, Doctor.
+[00:24:40.838 --> 00:24:42.838] NURSE: Her contractions are now one minute apart.
+[00:24:43.078 --> 00:24:43.718] CRUSHER: I'm on my way.
+[00:24:44.118 --> 00:24:47.478] CRUSHER: Why don't you programme up an artificial dance partner.
+[00:24:48.038 --> 00:24:49.798] CRUSHER: And don't be afraid to experiment.
+[00:24:50.758 --> 00:24:51.158] DATA: I will.
+[00:24:51.638 --> 00:24:52.278] DATA: Thank you, Doctor.
+[00:24:53.238 --> 00:24:56.358] DATA: Computer, create dance partner. Female.
+[00:25:02.998 --> 00:25:03.718] DATA: Begin music.
+[00:25:03.868 --> 00:25:12.868] RIKER: And just as the headsman swings his axe and the blade is about to fall, the Count says, wait, wait, I'll talk!
+[00:25:24.483 --> 00:25:26.683] RIKER: But it was too late.
+[00:25:29.318 --> 00:25:35.718] RIKER: And the moral of the story is? Never hatchet your Counts before they chicken. DATA : Commander Riker's easy going manner and sense of humour is fascinating to me.
+[00:25:36.198 --> 00:25:38.998] RIKER: I believe it to be one reason he is so popular among the crew.
+[00:25:39.638 --> 00:25:43.078] RIKER: It may also be partly responsible for his success in matters of love.
+[00:25:43.638 --> 00:25:46.358] RIKER: There may be a correlation between humour and sex.
+[00:25:46.918 --> 00:25:48.678] RIKER: The need for more research is clearly indicated.
+[00:25:54.758 --> 00:25:55.078] DATA: Commander.
+[00:25:58.918 --> 00:25:59.718] RIKER: Picard to the Bridge.
+[00:26:00.598 --> 00:26:01.158] RIKER: All stop.
+[00:26:01.798 --> 00:26:02.038] HELM: Aye, sir.
+[00:26:04.838 --> 00:26:06.758] DATA: Sir, we have reached the designated coordinates.
+[00:26:07.878 --> 00:26:08.598] PICARD: Hold this position.
+[00:26:09.398 --> 00:26:10.278] PICARD: Long range scan.
+[00:26:11.398 --> 00:26:14.038] DATA: Captain, I am detecting a ship in the Neutral Zone.
+[00:26:14.678 --> 00:26:15.398] DATA: Configuration,
+[00:26:16.438 --> 00:26:17.238] DATA: Romulan warbird.
+[00:26:19.478 --> 00:26:19.958] PICARD: Yellow alert.
+[00:26:23.158 --> 00:26:24.278] PICARD: Hail the Warbird, Mister Worf.
+[00:26:25.158 --> 00:26:25.398] WORF: Aye, sir.
+[00:26:26.758 --> 00:26:27.478] WORF: They are responding.
+[00:26:28.438 --> 00:26:29.078] WORF: Text only.
+[00:26:31.318 --> 00:26:33.878] WORF: We are to proceed to the agreed coordinates.
+[00:26:34.678 --> 00:26:35.238] PICARD: Set course
+[00:26:36.118 --> 00:26:38.838] PICARD: zero three seven mark zero zero five, warp four.
+[00:26:41.238 --> 00:26:42.358] PICARD: Take us into the Neutral Zone, Ensign.
+[00:26:48.998 --> 00:26:52.278] WORF: Captain, the warbird is holding position.
+[00:26:53.019 --> 00:26:55.099] WORF: In three minutes we will be within phaser range.
+[00:26:55.499 --> 00:26:55.979] PICARD: Red alert.
+[00:26:57.499 --> 00:27:00.459] PICARD: I trust my crew, Ambassador.
+[00:27:01.739 --> 00:27:03.499] PICARD: They will take no provocative action unless I
+[00:27:05.179 --> 00:27:07.259] PICARD: order them.
+[00:27:07.259 --> 00:27:09.099] T'PEL: Hold position on these coordinates.
+[00:27:09.819 --> 00:27:10.939] RIKER: Slow to half impulse.
+[00:27:11.659 --> 00:27:12.459] T'PEL: Open a channel.
+[00:27:15.019 --> 00:27:15.259] WORF: Open.
+[00:27:17.179 --> 00:27:18.699] T'PEL: I am Ambassador T'Pel.
+[00:27:20.139 --> 00:27:21.259] MENDAK: I am Admiral Mendak.
+[00:27:22.459 --> 00:27:25.179] T'PEL: There is no established protocol for a meeting of this nature.
+[00:27:25.739 --> 00:27:29.659] T'PEL: The logical course is that I transport aboard your ship and begin the negotiations.
+[00:27:30.299 --> 00:27:30.699] MENDAK: Yes.
+[00:27:32.299 --> 00:27:32.619] MENDAK: Captain,
+[00:27:33.739 --> 00:27:36.059] MENDAK: I note your defensive systems have been activated.
+[00:27:36.859 --> 00:27:37.579] PICARD: As have yours.
+[00:27:37.979 --> 00:27:39.499] MENDAK: It was not meant as an accusation
+[00:27:40.459 --> 00:27:42.219] MENDAK: Indeed, I salute your show of strength.
+[00:27:43.739 --> 00:27:44.379] MENDAK: Ambassador,
+[00:27:44.379 --> 00:27:46.139] MENDAK: we are honoured by your presence.
+[00:27:46.779 --> 00:27:48.539] MENDAK: You may transport aboard at your convenience.
+[00:27:49.499 --> 00:27:50.539] T'PEL: The honour is mine.
+[00:27:53.099 --> 00:27:54.859] T'PEL: Have your Transporter room stand by.
+[00:27:55.739 --> 00:27:58.648] T'PEL: I will beam to their ship with no further delay.
+[00:27:58.648 --> 00:27:58.939] PICARD: Ambassador,
+[00:28:00.139 --> 00:28:01.819] PICARD: I urge you once more to reconsider.
+[00:28:02.699 --> 00:28:06.379] PICARD: The Enterprise can accommodate a Romulan delegation without sacrificing our security or
+[00:28:06.459 --> 00:28:09.419] T'PEL: Captain Picard, I find your argument illogical.
+[00:28:09.819 --> 00:28:11.419] T'PEL: Please carry out my instructions.
+[00:28:15.979 --> 00:28:16.619] PICARD: Picard to Chief O'Brien.
+[00:28:16.619 --> 00:28:16.779] O'BRIEN: O'Brien
+[00:28:17.739 --> 00:28:18.139] O'BRIEN: here.
+[00:28:19.499 --> 00:28:21.819] PICARD: Prepare to transport Ambassador T'Pel to the Romulan ship.
+[00:28:22.379 --> 00:28:22.699] O'BRIEN: Aye, sir.
+[00:28:23.099 --> 00:28:25.419] PICARD: Mister Worf, maintain a lock on her signal once she's aboard.
+[00:28:25.754 --> 00:28:26.554] PICARD: At the first sign of trouble
+[00:28:26.554 --> 00:28:27.434] PICARD: I want to be able to bring her back.
+[00:28:28.074 --> 00:28:28.474] WORF: Understood.
+[00:28:31.754 --> 00:28:32.714] WORF: Transporter activated.
+[00:28:35.034 --> 00:28:35.274] WORF: Captain!
+[00:28:35.354 --> 00:28:36.394] O'BRIEN: Transporter emergency!
+[00:28:36.634 --> 00:28:37.594] O'BRIEN: I'm losing her signal!
+[00:28:38.714 --> 00:28:40.074] WORF: Boosting power to autosequencers.
+[00:28:40.554 --> 00:28:41.914] DATA: Engaging computer override.
+[00:28:42.234 --> 00:28:42.634] RIKER: O'Brien,
+[00:28:42.634 --> 00:28:43.354] RIKER: what happened down there?
+[00:28:43.354 --> 00:28:44.954] O'BRIEN: I'm losing the pattern.
+[00:28:45.674 --> 00:28:46.714] O'BRIEN: Trying to re establish. I'm
+[00:28:49.514 --> 00:28:50.154] O'BRIEN: sorry, sir.
+[00:28:50.954 --> 00:28:52.474] O'BRIEN: I wasn't able to retrieve the signal.
+[00:28:53.914 --> 00:28:54.794] O'BRIEN: The Ambassador's dead.
+[00:29:01.754 --> 00:29:03.194] LOG: Second officer's personal log,
+[00:29:03.434 --> 00:29:03.834] LOG: supplemental.
+[00:29:04.714 --> 00:29:07.434] LOG: The risks aboard a starship are accepted by all who serve,
+[00:29:07.994 --> 00:29:11.514] LOG: but I have never failed to observe a deep emotional response to the loss of a comrade.
+[00:29:12.234 --> 00:29:16.394] LOG: It is at times like this that I greatly miss the ability to share human feelings.
+[00:29:16.954 --> 00:29:18.474] O'BRIEN: The signal lock wasn't broken, sir.
+[00:29:19.114 --> 00:29:22.394] O'BRIEN: I had just entered the transfer sequence when the Ambassador's pattern began to break up.
+[00:29:23.034 --> 00:29:27.914] O'BRIEN: I tried to switch to emergency manual control, but the pattern deteriorated too quickly
+[00:29:27.914 --> 00:29:28.229] O'BRIEN: and
+[00:29:28.229 --> 00:29:32.954] DATA: Captain, there is no prior record of this type of accident occurring aboard a starship.
+[00:29:33.594 --> 00:29:36.714] DATA: Backup systems and safeguards are designed to prevent just such an occurrence.
+[00:29:37.834 --> 00:29:39.914] LAFORGE: I can't find any system flaws in the unit, Captain.
+[00:29:40.394 --> 00:29:42.074] LAFORGE: The Engineering status reports were all normal.
+[00:29:42.474 --> 00:29:45.594] LAFORGE: None of the backups were activated and the autosequencers were all functioning normally.
+[00:29:45.914 --> 00:29:47.994] PICARD: Any prior malfunctions on this transporter unit?
+[00:29:48.154 --> 00:29:48.474] O'BRIEN: No, sir.
+[00:29:48.874 --> 00:29:51.114] O'BRIEN: In fact, we replaced the transition coils only last week.
+[00:29:51.354 --> 00:29:53.434] RIKER: Could there have been some kind of interference from the Romulans?
+[00:29:53.594 --> 00:29:54.474] O'BRIEN: Nothing that I could see.
+[00:29:54.935 --> 00:29:55.815] O'BRIEN: Their shields were down.
+[00:29:56.055 --> 00:29:58.295] O'BRIEN: There was no power interruption, no subspace bias.
+[00:29:58.455 --> 00:30:03.495] PICARD: I want this unit pulled and its systems checked again. I want a level one diagnostic on all transporters.
+[00:30:03.895 --> 00:30:04.295] LAFORGE: Yes, sir.
+[00:30:05.895 --> 00:30:09.095] CRUSHER: Her molecular structure dissipated instantly once the pattern was lost.
+[00:30:09.735 --> 00:30:13.735] CRUSHER: There were some organic compounds left on the pad, but there wasn't enough material to do an autopsy.
+[00:30:17.335 --> 00:30:17.655] PICARD: To die on
+[00:30:21.095 --> 00:30:21.895] PICARD: a transporter.
+[00:30:23.255 --> 00:30:26.695] PICARD: Hardly a fitting end for one of the Federation's most honoured diplomats.
+[00:30:27.495 --> 00:30:28.455] WORF: Bridge to Captain Picard.
+[00:30:28.775 --> 00:30:29.975] WORF: Admiral Mendak is
+[00:30:30.055 --> 00:30:31.015] WORF: hailing. He wishes to speak with
+[00:30:32.535 --> 00:30:34.535] WORF: you.
+[00:30:37.175 --> 00:30:38.215] MENDAK: We're still waiting, Captain.
+[00:30:39.175 --> 00:30:39.895] MENDAK: Is there a problem?
+[00:30:40.615 --> 00:30:41.335] PICARD: There's been an accident.
+[00:30:42.215 --> 00:30:45.415] PICARD: Ambassador T'Pel has been killed in a transporter malfunction.
+[00:30:46.695 --> 00:30:47.815] MENDAK: What kind of malfunction?
+[00:30:48.615 --> 00:30:50.135] PICARD: We are still investigating that.
+[00:30:50.935 --> 00:30:51.604] PICARD: As soon as
+[00:30:51.604 --> 00:30:54.055] MENDAK: I should have known the Federation wasn't serious about this conference.
+[00:30:54.855 --> 00:30:59.975] PICARD: Admiral, I assure you. The Federation places the highest priority on this mission and its goal.
+[00:31:00.535 --> 00:31:01.415] MENDAK: Well played, Captain
+[00:31:02.055 --> 00:31:02.535] MENDAK: well played.
+[00:31:03.815 --> 00:31:11.015] MENDAK: Starfleet opposes normalisation of relations with the Romulan Empire, and so you are ordered to create an accident.
+[00:31:11.015 --> 00:31:12.375] PICARD: You're mistaken.
+[00:31:13.175 --> 00:31:20.295] PICARD: I am ready and willing to discuss the establishment of full diplomatic relations under the same terms as Ambassador T'Pel.
+[00:31:21.015 --> 00:31:21.815] MENDAK: A generous offer,
+[00:31:22.727 --> 00:31:27.607] MENDAK: since you know we were willing only to negotiate with T'Pel. I salute you again, Captain.
+[00:31:28.327 --> 00:31:30.007] MENDAK: It was a manoeuvre worthy of a Romulan.
+[00:31:31.607 --> 00:31:34.567] MENDAK: I suggest we both leave the Neutral Zone before there is another
+[00:31:36.087 --> 00:31:36.487] MENDAK: accident.
+[00:31:40.087 --> 00:31:42.967] PICARD: Set course for Federation territory,
+[00:31:44.967 --> 00:31:45.367] PICARD: warp two.
+[00:31:45.367 --> 00:31:46.087] PICARD: Engage. Mister Data,
+[00:31:46.727 --> 00:31:48.487] PICARD: I want you to take charge of this investigation.
+[00:31:48.647 --> 00:31:52.167] PICARD: Study computer logs, sensor information everything.
+[00:31:52.167 --> 00:31:54.807] PICARD: I refuse to believe that this was a simple malfunction.
+[00:31:54.967 --> 00:31:55.447] DATA: Aye, sir.
+[00:31:58.727 --> 00:32:02.807] DATA: Captain Picard was the person who first interested me in the works of Sir Arthur Conan Doyle.
+[00:32:03.607 --> 00:32:12.167] DATA: I have subsequently become a great admirer of the fictional detective Sherlock Holmes and his ability to solve mysteries by careful examination of the available evidence.
+[00:32:17.127 --> 00:32:19.127] DATA: I
+[00:32:22.487 --> 00:32:26.087] DATA: have found Holmes' methodology of deductive reasoning to be quite useful.
+[00:32:26.807 --> 00:32:34.247] DATA: One of his adages is that once you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+[00:32:37.207 --> 00:32:40.327] CRUSHER: I'm sorry, I don't have time to give you another lesson right now, Data.
+[00:32:40.967 --> 00:32:41.847] DATA: That is not my purpose.
+[00:32:42.567 --> 00:32:46.167] DATA: I would like to examine the remains of Ambassador T'Pel left on the transporter pad.
+[00:32:46.567 --> 00:32:47.767] CRUSHER: I'm working on the report right now.
+[00:32:50.280 --> 00:32:55.720] DATA: Have you compared the genetic code with the Ambassador's last recorded transporter ID traces?
+[00:32:56.280 --> 00:32:58.040] CRUSHER: No, that's not standard procedure.
+[00:32:58.040 --> 00:32:58.440] CRUSHER: Why?
+[00:32:58.920 --> 00:33:01.880] DATA: I could be chasing an untamed ornithoid without a cause.
+[00:33:04.440 --> 00:33:05.560] CRUSHER: A wild-goose chase?
+[00:33:08.760 --> 00:33:09.160] CRUSHER: All right.
+[00:33:10.200 --> 00:33:15.240] CRUSHER: Computer, access the transporter ID trace for Ambassador T'Pel.
+[00:33:17.640 --> 00:33:17.880] CRUSHER: All right,
+[00:33:19.000 --> 00:33:22.200] CRUSHER: there's the genetic record of the Ambassador when she beamed aboard the Enterprise.
+[00:33:22.600 --> 00:33:26.360] CRUSHER: Now, the breakdown of the organic material found on the transporter pad should be identical.
+[00:33:29.800 --> 00:33:32.520] CRUSHER: Mitochondrial structure fits the general parameters,
+[00:33:32.520 --> 00:33:35.080] CRUSHER: no change in the nucleotide bases.
+[00:33:37.400 --> 00:33:40.040] CRUSHER: There's a slight discrepancy in the base pair sequence.
+[00:33:42.600 --> 00:33:44.040] CRUSHER: Chemically, these are identical.
+[00:33:44.040 --> 00:33:51.240] CRUSHER: However, the organic sample from the transporter is showing numerous single-bit errors, like replicated material.
+[00:33:51.960 --> 00:33:54.120] DATA: Can you postulate an explanation for the discrepancy?
+[00:33:55.960 --> 00:34:00.216] CRUSHER: I'd say the DNA was either mutated by the transporter during the rematerialisation process
+[00:34:00.216 --> 00:34:00.520] DATA: A
+[00:34:00.760 --> 00:34:03.320] DATA: supposition not supported by the transporter records.
+[00:34:04.120 --> 00:34:06.280] CRUSHER: Or these aren't the remains of the Ambassador.
+[00:34:14.872 --> 00:34:20.312] DATA: The only abnormality found during my investigation was a temporary increase in the matter to energy signal ratio.
+[00:34:20.792 --> 00:34:26.392] DATA: Due to the circumstances, I decided to investigate the possibility that a second transporter signal had caused the fluctuation.
+[00:34:27.032 --> 00:34:29.832] DATA: Although this was highly improbable, it was the only remaining theory.
+[00:34:30.392 --> 00:34:31.992] RIKER: A second transporter signal? From where?
+[00:34:32.632 --> 00:34:33.432] DATA: From the Devoras.
+[00:34:33.912 --> 00:34:37.112] LAFORGE: Romulan transporters operate on a similar subspace frequency to our own.
+[00:34:37.592 --> 00:34:41.512] LAFORGE: With only minor adjustments, they can be made to simulate our own transporter carrier wave.
+[00:34:43.592 --> 00:34:47.192] PICARD: Are you saying they beamed the Ambassador off our own pad?
+[00:34:47.592 --> 00:34:52.521] DATA: While simultaneously, a small amount of genetically similar material was left in the Ambassador's place.
+[00:34:52.521 --> 00:34:56.792] RIKER: To make us believe she had died as a result of the malfunction'
+[00:34:57.192 --> 00:34:57.432] DATA: Yes, sir.
+[00:34:59.832 --> 00:35:01.592] PICARD: Mister Worf, where is the Devoras now?
+[00:35:02.472 --> 00:35:04.072] WORF: The ship is still in the Neutral Zone
+[00:35:04.472 --> 00:35:07.112] WORF: on course zero seven nine mark one two five.
+[00:35:07.752 --> 00:35:08.152] WORF: Speed,
+[00:35:08.632 --> 00:35:09.032] WORF: warp two.
+[00:35:09.912 --> 00:35:10.552] RIKER: Heading for home.
+[00:35:11.912 --> 00:35:17.592] DATA: The safest and most logical decision in this situation is to contact Starfleet and await further instructions.
+[00:35:18.072 --> 00:35:24.072] DATA: However, based on past experience, I project only a seventeen percent chance Captain Picard will choose that alternative.
+[00:35:25.992 --> 00:35:26.472] PICARD: Red Alert.
+[00:35:26.952 --> 00:35:28.472] PICARD: All hands stand to battle stations.
+[00:35:32.152 --> 00:35:35.512] PICARD: Lay in an intercept course for the Romulan ship.
+[00:35:35.672 --> 00:35:36.232] RIKER: Shields up.
+[00:35:36.232 --> 00:35:37.272] RIKER: Load all torpedo bays.
+[00:35:37.272 --> 00:35:37.992] RIKER: Stand by phasers.
+[00:35:38.152 --> 00:35:38.872] PICARD: Warp factor eight.
+[00:35:39.032 --> 00:35:39.512] PICARD: Engage.
+[00:35:42.552 --> 00:35:43.992] PICARD: Open a channel to the Devoras.
+[00:35:44.712 --> 00:35:45.032] WORF: Aye, sir.
+[00:35:47.336 --> 00:35:47.976] WORF: No response.
+[00:35:48.376 --> 00:35:49.816] DATA: The Devoras is dropping out of warp, sir.
+[00:35:50.296 --> 00:35:51.736] DATA: Their weapon systems are powering up.
+[00:35:51.976 --> 00:35:52.856] PICARD: Go to impulse power.
+[00:35:53.176 --> 00:35:53.496] DATA: Aye, sir.
+[00:36:00.616 --> 00:36:02.136] WORF: Message coming in, sir.
+[00:36:03.016 --> 00:36:03.496] PICARD: On screen.
+[00:36:05.816 --> 00:36:09.416] MENDAK: Captain, you agreed to leave the Neutral Zone without
+[00:36:09.416 --> 00:36:10.216] PICARD: Admiral Mendak,
+[00:36:10.776 --> 00:36:12.696] PICARD: you have taken our Ambassador captive.
+[00:36:13.576 --> 00:36:18.216] MENDAK: I can assure you there is no one being held captive aboard this ship.
+[00:36:19.496 --> 00:36:25.462] PICARD: We know about the transporter malfunction and that you are holding Ambassador T'Pel.
+[00:36:25.462 --> 00:36:28.216] WORF: Captain, Romulan warbird decloaking to starboard.
+[00:36:29.736 --> 00:36:31.736] MENDAK: I
+[00:36:35.576 --> 00:36:36.376] MENDAK: suggest you leave.
+[00:36:37.976 --> 00:36:38.296] MENDAK: Now.
+[00:36:41.016 --> 00:36:44.376] PICARD: It is my responsibility to protect the lives of Federation citizens.
+[00:36:44.376 --> 00:36:47.292] PICARD: I will not permit this abduction to succeed.
+[00:36:47.292 --> 00:36:47.656] MENDAK: Captain,
+[00:36:47.656 --> 00:36:49.489] MENDAK: you're not going to start an incident which might
+[00:36:49.489 --> 00:36:49.896] PICARD: Admiral Mendak,
+[00:36:49.976 --> 00:36:53.736] PICARD: I will take whatever action is necessary to obtain the return of the Ambassador.
+[00:36:56.296 --> 00:37:02.696] DATA: In the game of poker, there is a moment when a player must decide if an opponent is being deceptive or actually holds a winning hand.
+[00:37:03.176 --> 00:37:07.096] DATA: This decision is based not only on the odds, but also on an appraisal of the man.
+[00:37:07.736 --> 00:37:10.136] DATA: Is he bluffing or does he have the cards?
+[00:37:10.616 --> 00:37:14.136] MENDAK: Fortunately, Captain, I am not ready to start a war
+[00:37:15.131 --> 00:37:15.611] MENDAK: today.
+[00:37:23.131 --> 00:37:23.451] RIKER: T'Pel.
+[00:37:24.171 --> 00:37:26.411] T'PEL: Sub-Commander Selok, actually.
+[00:37:27.771 --> 00:37:28.411] PICARD: A spy.
+[00:37:29.211 --> 00:37:30.171] MENDAK: A patriot, Captain.
+[00:37:31.291 --> 00:37:33.851] MENDAK: She has performed her service to the Empire with distinction.
+[00:37:36.091 --> 00:37:38.571] T'PEL: Thank you for your help, Captain.
+[00:37:39.291 --> 00:37:46.731] MENDAK: You see now that we are not holding one of your citizens, and we thank you for returning our sister to us.
+[00:37:46.731 --> 00:37:49.291] MENDAK: But my patience has limits.
+[00:37:51.211 --> 00:37:51.771] MENDAK: The game is over.
+[00:37:52.811 --> 00:37:54.491] MENDAK: I expect you to leave peacefully.
+[00:37:55.771 --> 00:37:56.011] MENDAK: Now.
+[00:37:58.651 --> 00:37:58.971] WORF: Captain,
+[00:37:59.851 --> 00:38:03.931] WORF: long range sensors detect three Romulan warbirds entering this sector.
+[00:38:04.891 --> 00:38:07.371] RIKER: Some days you get the bear, and some days the bear gets you.
+[00:38:09.451 --> 00:38:09.931] PICARD: Reverse course.
+[00:38:12.651 --> 00:38:13.931] PICARD: Take us back to Federation territory,
+[00:38:14.171 --> 00:38:14.731] PICARD: warp six.
+[00:38:15.291 --> 00:38:15.531] PICARD: Engage.
+[00:38:15.531 --> 00:38:15.611] DATA: Keiko,
+[00:38:24.171 --> 00:38:26.171] DATA: I
+[00:38:28.251 --> 00:38:30.571] DATA: need your help.
+[00:38:31.931 --> 00:38:34.891] DATA: I have offended you and need to find a way to rectify my mistake.
+[00:38:35.371 --> 00:38:36.331] DATA: I am not sure what to do.
+[00:38:36.731 --> 00:38:38.331] KEIKO: You haven't offended me.
+[00:38:38.811 --> 00:38:40.011] DATA: I should not have interfered.
+[00:38:40.731 --> 00:38:42.331] DATA: It would be best if I apologised.
+[00:38:42.331 --> 00:38:45.371] KEIKO: It would be best if you got dressed. For the wedding?
+[00:38:48.372 --> 00:38:48.532] DATA: But
+[00:38:51.092 --> 00:38:51.492] KEIKO: Come here.
+[00:38:52.692 --> 00:38:55.892] KEIKO: I have the most beautiful carnation for the father of the bride.
+[00:38:57.412 --> 00:38:58.852] KEIKO: Now, don't be nervous.
+[00:38:59.252 --> 00:39:00.052] DATA: I am not nervous.
+[00:39:01.492 --> 00:39:02.452] DATA: I am confused.
+[00:39:53.972 --> 00:40:07.252] PICARD: Since the days of the first wooden sailing ships, all captains have enjoyed the happy privilege of joining together two people in the bonds of matrimony.
+[00:40:07.892 --> 00:40:12.692] PICARD: And so it is my honour to unite you, Keiko Ishikawa,
+[00:40:13.678 --> 00:40:17.518] PICARD: and you, Miles Edward O'Brien, together in matrimony
+[00:40:18.398 --> 00:40:24.158] DATA: There are still many human emotions I do not fully comprehend. Anger, hatred, revenge.
+[00:40:24.878 --> 00:40:27.358] DATA: But I am not mystified by the desire to be loved
+[00:40:28.958 --> 00:40:30.078] DATA: or the need for friendship.
+[00:40:30.878 --> 00:40:32.158] DATA: These are things I do
+[00:40:34.078 --> 00:40:36.078] DATA: understand.
+[00:40:36.958 --> 00:40:37.091] PICARD: Congratulations.
+[00:40:37.091 --> 00:40:37.358] DATA: I was
+[00:41:08.238 --> 00:41:09.198] DATA: looking for Doctor Crusher.
+[00:41:09.348 --> 00:41:09.948] PICARD: Shh.
+[00:41:13.998 --> 00:41:14.718] DATA: The Juarez child?
+[00:41:16.558 --> 00:41:16.958] PICARD: A boy.
+[00:41:16.958 --> 00:41:20.478] PICARD: At the same time we were facing destruction,
+[00:41:21.518 --> 00:41:23.358] PICARD: this small miracle was taking place.
+[00:41:29.038 --> 00:41:29.438] PICARD: Welcome aboard.
+[00:41:29.438 --> 00:41:29.678] WORF: All
+[00:41:35.838 --> 00:41:36.798] WORF: systems normal, sir.
+[00:41:37.198 --> 00:41:39.358] WORF: We are on course for Adelphous Four.
+[00:41:40.078 --> 00:41:42.238] WORF: Engineering is realigning the main deflector dish.
+[00:41:42.638 --> 00:41:46.878] WORF: Sickbay reports Lieutenant Umbato broke two ribs during a holodeck exercise,
+[00:41:47.477 --> 00:41:51.077] WORF: and sensors continue to gather long-range information on the Murasaki quasar.
+[00:41:51.797 --> 00:41:52.117] DATA: Very well.
+[00:41:52.357 --> 00:41:53.077] DATA: I have the Bridge.
+[00:41:53.157 --> 00:41:53.477] WORF: Aye, sir.
+[00:41:56.037 --> 00:42:06.917] DATA: If being human is not simply a matter of being born flesh and blood, if it is instead a way of thinking, acting and feeling, then I am hopeful that one day I will discover my own humanity.
+[00:42:07.477 --> 00:42:08.357] DATA: Begin night watch.
+[00:42:09.717 --> 00:42:18.677] DATA: Until then Commander Maddox, I will continue learning, changing, growing, and trying to become more than what I
+[00:42:29.637 --> 00:42:31.637] DATA: am.

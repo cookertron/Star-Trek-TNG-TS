@@ -1,0 +1,700 @@
+[00:00:01.920 --> 00:00:05.120] LOG: Captain's log, stardate 45349.1.
+[00:00:05.680 --> 00:00:11.520] LOG: The Enterprise is on its way to Penthara Four, where a type C asteroid has struck an unpopulated continent.
+[00:00:11.520 --> 00:00:17.520] LOG: The resulting dust cloud could very well create a phenomenon not unlike the nuclear winters of twenty first century Earth.
+[00:00:18.000 --> 00:00:21.680] LOG: Commander La Forge has begun work on a plan that would counteract the devastation.
+[00:00:24.640 --> 00:00:27.600] LAFORGE: I'm afraid the numbers coming in are already indicating climatic changes, Commander.
+[00:00:27.840 --> 00:00:28.960] RIKER: What kind of drop can we expect?
+[00:00:29.280 --> 00:00:33.760] DATA: If the Pentharan spheral forecasts are correct, ten to twelve degrees Celsius within the first ten days.
+[00:00:33.840 --> 00:00:36.400] LAFORGE: If it continues like that, their entire ecosystem will be shot to hell.
+[00:00:36.800 --> 00:00:39.280] RIKER: And I doubt they're prepared to cope with the kind of cold that's coming.
+[00:00:39.920 --> 00:00:40.480] PICARD: Commander Riker.
+[00:00:40.960 --> 00:00:41.200] RIKER: Yes, sir.
+[00:00:41.200 --> 00:00:42.880] PICARD: Would you join me on the bridge, please.
+[00:00:43.360 --> 00:00:43.840] RIKER: Right away, sir.
+[00:00:44.320 --> 00:00:45.280] PICARD: Are you certain, Mister Worf?
+[00:00:45.520 --> 00:00:48.160] WORF: There was a space-time distortion, sir, and there is something back there.
+[00:00:48.160 --> 00:00:49.920] WORF: We passed within three hundred kilometres of it.
+[00:00:50.640 --> 00:00:53.120] PICARD: It's too close to be a coincidence. Mister La Forge?
+[00:00:53.520 --> 00:00:54.000] LAFORGE: Yes, Captain?
+[00:00:54.240 --> 00:00:56.080] PICARD: Would a delay of one hour affect your plans?
+[00:00:56.800 --> 00:00:59.600] LAFORGE: Not unless another asteroid decides to pay a call on Penthara, sir.
+[00:01:00.080 --> 00:01:03.280] DATA: The odds of that occurring, Captain, are extremely unlikely, given the time frame.
+[00:01:03.440 --> 00:01:04.240] PICARD: Thank you, Mister Data.
+[00:01:04.800 --> 00:01:05.840] PICARD: Ensign, bring the ship about.
+[00:01:06.000 --> 00:01:07.680] PICARD: Let's take a look at Mister Worf's distortion.
+[00:01:07.840 --> 00:01:08.240] ENSIGN: Aye, sir.
+[00:01:08.960 --> 00:01:09.600] RIKER: Mister Worf's what?
+[00:01:10.160 --> 00:01:14.560] PICARD: The Lieutenant's sensors detected a temporal distortion almost in our current course.
+[00:01:14.800 --> 00:01:15.840] PICARD: There's a small object back there
+[00:01:15.840 --> 00:01:16.880] PICARD: that wasn't there a few moments ago.
+[00:01:17.360 --> 00:01:19.120] WORF: The object is fifty kilometres ahead, sir.
+[00:01:20.000 --> 00:01:20.560] PICARD: Full stop, Ensign.
+[00:01:20.880 --> 00:01:21.200] ENSIGN: Aye, sir.
+[00:01:21.680 --> 00:01:22.160] PICARD: On screen.
+[00:01:25.600 --> 00:01:26.160] RIKER: Dimensions, Worf?
+[00:01:26.880 --> 00:01:28.480] WORF: Approximately five metres in length, sir.
+[00:01:29.249 --> 00:01:29.809] PICARD: Lifesigns?
+[00:01:32.049 --> 00:01:32.929] WORF: No signs of any kind.
+[00:01:33.809 --> 00:01:35.409] WORF: Our sensors do not penetrate the hull.
+[00:01:36.049 --> 00:01:36.769] PICARD: Try hailing it.
+[00:01:38.929 --> 00:01:39.409] WORF: That's odd.
+[00:01:39.649 --> 00:01:39.889] RIKER: What's odd?
+[00:01:41.729 --> 00:01:43.649] WORF: We've received a response, sir, but
+[00:01:46.609 --> 00:01:47.169] PICARD: Yes, Mister Worf?
+[00:01:48.369 --> 00:01:49.809] WORF: They want you to move over, sir.
+[00:01:53.249 --> 00:01:55.649] PICARD: Reply that the Enterprise isn't going anywhere, Lieutenant.
+[00:01:56.369 --> 00:01:57.569] WORF: Not the Enterprise, Captain.
+[00:01:57.969 --> 00:01:58.209] WORF: You.
+[00:02:00.369 --> 00:02:01.489] PICARD: What are you trying to tell me?
+[00:02:03.169 --> 00:02:03.249] RASMUSSEN: Oops.
+[00:02:04.049 --> 00:02:06.849] RASMUSSEN: Excuse me, Captain, but you were standing right where I needed to be.
+[00:02:07.729 --> 00:02:08.129] PICARD: Who are you?
+[00:02:08.689 --> 00:02:09.969] RASMUSSEN: Rasmussen's the name, sir.
+[00:02:10.929 --> 00:02:12.849] RASMUSSEN: Professor Berlinghoff Rasmussen.
+[00:02:13.729 --> 00:02:16.209] RASMUSSEN: Ah, this is wonderful.
+[00:02:17.569 --> 00:02:19.169] RASMUSSEN: Actually, quite a bit larger than I thought.
+[00:02:19.889 --> 00:02:20.129] PICARD: Really?
+[00:02:21.009 --> 00:02:24.929] RASMUSSEN: Where I come from, every historian knows the bridge of old 1701D.
+[00:02:27.569 --> 00:02:29.409] PICARD: Where exactly do you come from?
+[00:02:29.489 --> 00:02:33.009] RASMUSSEN: Why, Earth. Late twenty sixth century Earth, to be exact.
+[00:02:33.729 --> 00:02:36.689] RASMUSSEN: I've travelled back nearly three hundred years just to find you.
+[00:03:07.580 --> 00:03:10.380] PICARD: Space, the final frontier.
+[00:03:12.220 --> 00:03:15.100] PICARD: These are the voyages of the starship Enterprise.
+[00:03:16.220 --> 00:03:24.220] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:25.820 --> 00:03:29.340] PICARD: to boldly go where no one has gone before.
+[00:03:57.000 --> 00:04:09.000] [music]
+[00:04:25.831 --> 00:04:27.831] PICARD: Exactly
+[00:04:27.831 --> 00:04:29.431] PICARD: what kind of historian are you?
+[00:04:32.871 --> 00:04:37.671] RASMUSSEN: My focus is on the twenty second through the twenty fourth centuries. Early interstellar history.
+[00:04:39.031 --> 00:04:42.311] RASMUSSEN: You know, it was always believed this was on your desk, not here.
+[00:04:43.511 --> 00:04:44.151] RASMUSSEN: Fascinating.
+[00:04:45.271 --> 00:04:46.231] RASMUSSEN: Don't move it on my account.
+[00:04:46.231 --> 00:04:52.871] PICARD: You can't expect me to believe that the layout of my ready room can possibly be of interest to future historians.
+[00:04:53.351 --> 00:04:56.311] RASMUSSEN: No less so than your legendary modesty, Captain.
+[00:04:57.191 --> 00:05:00.311] RASMUSSEN: If I could describe to you what a thrill it is to be here.
+[00:05:01.991 --> 00:05:02.951] RASMUSSEN: This is the original.
+[00:05:04.071 --> 00:05:05.271] PICARD: You flatter me Professor,
+[00:05:05.751 --> 00:05:18.951] PICARD: but I can't help but wonder what could possibly have caused you to select me as the subject of your study. Even in this decade, there are far wiser and more experienced humans in and out of Starfleet.
+[00:05:19.111 --> 00:05:31.111] RASMUSSEN: I'd love to tell you, Picard. I really would, but try and imagine what a young Caesar might have done differently had someone had given him a hint of what lay ahead, or if Lincoln had been coerced into changing his theatre plans.
+[00:05:32.711 --> 00:05:42.791] RASMUSSEN: I truly wish I could be more specific on why you were selected, but I'm afraid the exchange of information will have to flow in one direction only.
+[00:05:43.511 --> 00:05:46.551] RASMUSSEN: Five, six, seven metres.
+[00:05:47.031 --> 00:05:49.351] RASMUSSEN: Ha! I was right.
+[00:05:50.864 --> 00:05:51.424] WORF: Why now?
+[00:05:51.744 --> 00:05:52.064] LAFORGE: Right.
+[00:05:52.544 --> 00:05:54.384] LAFORGE: If you've came back to study us, to study the captain,
+[00:05:54.384 --> 00:05:55.184] LAFORGE: why would you pick today?
+[00:05:55.184 --> 00:05:57.584] LAFORGE: Why not a year ago or a year from now?
+[00:05:58.064 --> 00:05:59.024] RASMUSSEN: Oh, I picked the right day
+[00:05:59.024 --> 00:05:59.344] RASMUSSEN: all right.
+[00:05:59.584 --> 00:05:59.904] RASMUSSEN: Just wait,
+[00:06:00.304 --> 00:06:00.704] RASMUSSEN: you'll see.
+[00:06:01.664 --> 00:06:05.024] RASMUSSEN: Do you always sit there, on that side of the table?
+[00:06:06.784 --> 00:06:07.184] WORF: Usually.
+[00:06:08.144 --> 00:06:08.544] WORF: Why?
+[00:06:08.944 --> 00:06:11.284] RASMUSSEN: It's not important.
+[00:06:11.284 --> 00:06:12.064] RIKER: Professor,
+[00:06:12.624 --> 00:06:15.904] RIKER: at what point does time travel become a tool for historians?
+[00:06:16.304 --> 00:06:19.104] RASMUSSEN: Now, now, Commander, you know better than that.
+[00:06:19.984 --> 00:06:30.464] RASMUSSEN: I've studied a great deal about your century, including the fact that you're all quite aware of the dangers of anyone altering the past, and that's exactly what I'd be doing if I were to divulge information like that.
+[00:06:30.944 --> 00:06:31.904] CRUSHER: Telurian plague.
+[00:06:33.024 --> 00:06:33.424] RASMUSSEN: I beg your pardon?
+[00:06:35.024 --> 00:06:36.784] CRUSHER: The telurian plague. Was it cured?
+[00:06:37.584 --> 00:06:39.664] CRUSHER: I mean, did they find the cure by your century?
+[00:06:40.144 --> 00:06:41.504] CRUSHER: Oh, it can't do any harm to ask that.
+[00:06:42.224 --> 00:06:46.384] PICARD: I realise that it's difficult, but we must keep to ourselves questions regarding the future.
+[00:06:47.184 --> 00:06:47.824] PICARD: Go on, Professor.
+[00:06:48.384 --> 00:06:50.304] RASMUSSEN: I'll be preparing questionnaires for each of you.
+[00:06:50.704 --> 00:06:52.224] RASMUSSEN: Please complete them at your convenience.
+[00:06:52.704 --> 00:06:58.224] RASMUSSEN: If you're concerned about a possible breach of security, I'm sure your Captain can make a determination.
+[00:06:58.944 --> 00:07:03.104] RASMUSSEN: And thank you in advance for curbing your curiosity.
+[00:07:03.824 --> 00:07:07.264] LAFORGE: If I hand my assignment in on time, can I get a glimpse into next week's poker game?
+[00:07:11.264 --> 00:07:13.184] PICARD: Mister Data, would you escort the Professor to his quarters.
+[00:07:13.984 --> 00:07:14.384] DATA: This way, sir.
+[00:07:22.068 --> 00:07:23.268] RIKER: What did he mean, he picked the right day?
+[00:07:24.228 --> 00:07:25.599] PICARD: You know everything I do, Will.
+[00:07:25.599 --> 00:07:25.828] RIKER: Deanna?
+[00:07:28.148 --> 00:07:30.388] TROI: It's hard to tell, but he is holding something back.
+[00:07:30.788 --> 00:07:31.748] CRUSHER: Of course he is.
+[00:07:32.148 --> 00:07:34.788] CRUSHER: All the things he could tell us. All the things he would like to tell us.
+[00:07:35.988 --> 00:07:36.708] TROI: It might be that,
+[00:07:37.428 --> 00:07:37.908] TROI: I don't know.
+[00:07:39.748 --> 00:07:40.788] RIKER: What if he's an imposter?
+[00:07:41.748 --> 00:07:43.188] RIKER: God knows we've seen enough of them.
+[00:07:44.068 --> 00:07:44.788] PICARD: He is human.
+[00:07:45.108 --> 00:07:46.788] PICARD: The medical scans have proved that, right, Doctor?
+[00:07:47.028 --> 00:07:47.748] CRUSHER: He's human, all right.
+[00:07:48.148 --> 00:07:50.788] PICARD: And there was a temporal distortion back there, correct Mister Worf?
+[00:07:51.348 --> 00:07:51.748] WORF: Yes, sir.
+[00:07:52.068 --> 00:07:55.588] PICARD: And no one can deny that ship of his is unlike anything we've ever seen before.
+[00:07:56.068 --> 00:07:59.508] LAFORGE: The hull is made of some kind of plasticised tritanium mesh.
+[00:07:59.668 --> 00:08:01.268] LAFORGE: We've nothing like it on record, at least not till now.
+[00:08:03.588 --> 00:08:06.148] PICARD: Mister Worf, I do appreciate your caution.
+[00:08:07.268 --> 00:08:07.908] PICARD: I share it.
+[00:08:10.628 --> 00:08:12.308] PICARD: Bring his vessel into the shuttlebay.
+[00:08:12.628 --> 00:08:13.588] PICARD: Place it under guard.
+[00:08:14.068 --> 00:08:14.388] WORF: Yes, sir.
+[00:08:16.068 --> 00:08:28.346] PICARD: I realise that this visit is going to be difficult for some of us, but I've examined his credentials, and everything seems to be in order, so I think we should extend to him every courtesy.
+[00:08:28.346 --> 00:08:29.028] WORF: Including questionnaires?
+[00:08:30.068 --> 00:08:31.348] PICARD: Including questionnaires, Mister Worf.
+[00:08:37.668 --> 00:08:39.428] RASMUSSEN: This is really a thrill, Data,
+[00:08:39.908 --> 00:08:41.988] RASMUSSEN: like running across a Redstone missile or a
+[00:08:42.246 --> 00:08:43.286] RASMUSSEN: Gutenberg bible.
+[00:08:43.286 --> 00:08:45.366] RASMUSSEN: To think, the Model T of androids.
+[00:08:48.006 --> 00:08:54.486] DATA: If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy,
+[00:08:54.966 --> 00:08:57.759] DATA: since I am Doctor Noonian Soong's revised prototype.
+[00:08:57.759 --> 00:08:58.806] RASMUSSEN: I stand corrected.
+[00:09:18.886 --> 00:09:19.926] DATA: Is there a problem, Professor?
+[00:09:20.246 --> 00:09:23.126] RASMUSSEN: I suppose it will have to do, for now.
+[00:09:23.846 --> 00:09:25.446] RASMUSSEN: I'll get you a list of the things I'll be needing,
+[00:09:25.606 --> 00:09:25.766] RASMUSSEN: okay?
+[00:09:36.806 --> 00:09:45.126] DATA: Would I be correct, Professor, in assuming that you know whether or not I am still alive in the twenty sixth century?
+[00:10:01.366 --> 00:10:04.806] DATA: Since you seemed to know so much about Captain Picard and the ship, I assumed that you would.
+[00:10:04.806 --> 00:10:07.606] RASMUSSEN: It'd be best if you kept your assumptions to yourself, wouldn't it?
+[00:10:10.326 --> 00:10:10.646] DATA: Yes, sir.
+[00:10:12.086 --> 00:10:12.566] DATA: Sorry, sir.
+[00:10:28.126 --> 00:10:31.246] LOG: Captain's log, stardate 45350.3.
+[00:10:31.806 --> 00:10:38.606] LOG: We have arrived at Penthara Four and can see for ourselves the atmospheric devastation caused by the asteroid impact.
+[00:10:48.686 --> 00:10:53.566] PICARD: We've located three underground pockets of carbon dioxide, here, here and here.
+[00:10:54.126 --> 00:11:01.566] PICARD: Our drilling phasers can release enough of the gas to form an envelope which would temporarily hold in the heat of the sun.
+[00:11:02.606 --> 00:11:11.406] MOSELEY: We've spend years, decades, trying to avoid anything that would lead to a greenhouse effect and now here we are about to create one on purpose.
+[00:11:11.726 --> 00:11:14.846] LAFORGE: Less than twenty percent of your normal sunlight is getting through that dust, Doctor.
+[00:11:15.246 --> 00:11:19.646] LAFORGE: If we can hold enough heat in with the CO2, that should give the planet time to mend itself.
+[00:11:19.646 --> 00:11:21.166] WOMAN: Excuse me, Doctor Moseley.
+[00:11:21.806 --> 00:11:22.206] MOSELEY: What now?
+[00:11:22.686 --> 00:11:25.806] WOMAN: New Seattle's reporting a cloud depth of twelve kilometres.
+[00:11:25.966 --> 00:11:28.526] WOMAN: Two rivers, tropical rivers, are beginning to freeze.
+[00:11:29.646 --> 00:11:32.126] MOSELEY: We'd better get started before there's nothing left to mend.
+[00:11:38.686 --> 00:11:41.006] RIKER: Look who's here.
+[00:11:43.406 --> 00:11:44.686] WORF: I hate questionnaires.
+[00:11:45.486 --> 00:11:47.166] CRUSHER: Professor, come and join us.
+[00:11:47.316 --> 00:11:47.916] RASMUSSEN: I
+[00:11:58.737 --> 00:11:59.777] RASMUSSEN: hope I'm not intruding.
+[00:11:59.937 --> 00:12:00.497] CRUSHER: Not at all.
+[00:12:00.497 --> 00:12:03.297] CRUSHER: I'm sure you're the topic of conversation at every table in this room.
+[00:12:05.057 --> 00:12:06.897] RASMUSSEN: As I promised, here are your assignments.
+[00:12:07.137 --> 00:12:08.497] RASMUSSEN: I'm sure they'll be painless.
+[00:12:09.137 --> 00:12:12.177] RASMUSSEN: Please try and complete them by tomorrow.
+[00:12:12.737 --> 00:12:13.217] WORF: Tomorrow?
+[00:12:14.737 --> 00:12:15.697] RIKER: No problem, Professor.
+[00:12:17.297 --> 00:12:19.217] RASMUSSEN: You're all very calm.
+[00:12:19.777 --> 00:12:20.977] RIKER: Is there some reason we shouldn't be?
+[00:12:21.937 --> 00:12:32.337] RASMUSSEN: History always records where people were, what they were doing, when important events took place. But it rarely remembers their activities say, a week before, or a day or even an hour.
+[00:12:32.977 --> 00:12:35.697] WORF: Are you suggesting that an important event is imminent?
+[00:12:35.777 --> 00:12:36.497] RASMUSSEN: I didn't say that,
+[00:12:36.497 --> 00:12:36.977] RASMUSSEN: did I?
+[00:12:36.977 --> 00:12:41.057] RASMUSSEN: Please, just go on doing what you were doing and pretend I'm not here.
+[00:12:43.377 --> 00:12:48.257] RIKER: Why is there no record of other future historians travelling back to witness important events?
+[00:12:48.497 --> 00:12:49.857] RASMUSSEN: We're obviously very careful.
+[00:12:50.417 --> 00:12:54.897] RASMUSSEN: As a matter of fact, a colleague and I recently paid a call on a twenty second century vessel.
+[00:12:55.857 --> 00:12:57.697] CRUSHER: They hadn't perfected quarantine fields.
+[00:12:58.097 --> 00:13:00.257] CRUSHER: You probably saw some surgical masks and gloves.
+[00:13:01.217 --> 00:13:05.457] RASMUSSEN: Isn't it fascinating how everyone has different interests when it comes to history.
+[00:13:05.617 --> 00:13:08.017] RASMUSSEN: Different perspectives on progress.
+[00:13:08.017 --> 00:13:11.217] RIKER: Would you mind telling me what that is?
+[00:13:11.857 --> 00:13:12.977] RASMUSSEN: Just checking the time.
+[00:13:13.057 --> 00:13:13.377] RASMUSSEN: No problem.
+[00:13:15.568 --> 00:13:17.328] RIKER: Is something important supposed to be happening here?
+[00:13:17.488 --> 00:13:18.368] RASMUSSEN: No, it's nothing, nothing.
+[00:13:19.248 --> 00:13:20.448] RASMUSSEN: What about you, Commander?
+[00:13:20.448 --> 00:13:25.088] RASMUSSEN: What do you see as the most important example of progress in the last two hundred years?
+[00:13:28.288 --> 00:13:29.488] RIKER: I suppose the warp coil.
+[00:13:29.808 --> 00:13:33.968] RIKER: Before there was warp drive, humans were confined to a single sector of the galaxy.
+[00:13:34.528 --> 00:13:36.768] RASMUSSEN: Spoken like the consummate explorer.
+[00:13:39.968 --> 00:13:40.928] RIKER: What is going on?
+[00:13:41.248 --> 00:13:42.208] RIKER: Are you expecting someone?
+[00:13:42.848 --> 00:13:43.328] WORF: Phasers.
+[00:13:44.528 --> 00:13:45.008] RASMUSSEN: I beg your pardon?
+[00:13:45.488 --> 00:13:47.408] WORF: There were no phasers in the 22nd century.
+[00:13:48.048 --> 00:13:49.248] RASMUSSEN: Ah, you see, Doctor?
+[00:13:49.808 --> 00:13:52.928] RASMUSSEN: Our Klingon friend is a perfect example of what I was trying to tell you.
+[00:13:53.248 --> 00:13:56.448] RASMUSSEN: He views history through the eyes of a hunter, a warrior.
+[00:13:56.688 --> 00:14:00.688] RASMUSSEN: His passion lies in the perfection of the tools of violence.
+[00:14:01.168 --> 00:14:02.848] RASMUSSEN: How delightfully primitive.
+[00:14:04.608 --> 00:14:05.408] LAFORGE: As
+[00:14:08.128 --> 00:14:11.968] LAFORGE: soon as we input this atmospheric data from Moseley, the computer should tell us how many holes we'll have to punch.
+[00:14:12.848 --> 00:14:15.328] DATA: What have you learned about the tectonic stability around the drilling sites?
+[00:14:15.408 --> 00:14:16.048] LAFORGE: Couldn't be better.
+[00:14:16.368 --> 00:14:20.128] LAFORGE: Our scans were all clear and Moseley says there hasn't been so much as a quiver down there in well over a century.
+[00:14:20.368 --> 00:14:21.008] RASMUSSEN: Ah ha,
+[00:14:21.088 --> 00:14:22.128] RASMUSSEN: just the two I'm looking for.
+[00:14:22.208 --> 00:14:26.368] RASMUSSEN: I've brought you the forms I need you to complete. Shouldn't take any more than a couple of hours.
+[00:14:26.848 --> 00:14:27.808] LAFORGE: We're kind of busy here, Professor.
+[00:14:27.808 --> 00:14:29.168] LAFORGE: Tomorrow would probably be better.
+[00:14:29.328 --> 00:14:31.808] LAFORGE: Data, we've got about twenty three thousand thermal simulations.
+[00:14:31.808 --> 00:14:33.248] LAFORGE: You think you could check them through for anomalies?
+[00:14:33.648 --> 00:14:34.048] DATA: Certainly.
+[00:14:49.059 --> 00:14:52.899] RASMUSSEN: Is that as fast as he can go?
+[00:14:55.059 --> 00:14:56.419] LAFORGE: Not fast enough for you, Professor?
+[00:14:56.899 --> 00:14:59.539] RASMUSSEN: There's little known about Data's efficiency.
+[00:15:00.099 --> 00:15:01.939] RASMUSSEN: Almost nothing about his part in this mission.
+[00:15:02.419 --> 00:15:05.299] RASMUSSEN: It's a topic of great conjecture.
+[00:15:06.659 --> 00:15:09.139] DATA: Two hundred nine anomalies all within acceptable parameters.
+[00:15:09.539 --> 00:15:10.019] LAFORGE: Thanks, Data.
+[00:15:10.739 --> 00:15:12.579] LAFORGE: You're
+[00:15:14.179 --> 00:15:15.459] LAFORGE: here to witness this mission.
+[00:15:15.779 --> 00:15:16.419] LAFORGE: That's it, isn't it?
+[00:15:16.659 --> 00:15:21.379] RASMUSSEN: It'd be best if you just thought of me as a fly on the wall,
+[00:15:21.699 --> 00:15:22.659] RASMUSSEN: and went about your business.
+[00:15:23.619 --> 00:15:25.939] DATA: I will have your answered questions as soon as possible, Professor.
+[00:15:26.339 --> 00:15:28.099] RASMUSSEN: Data at Penthara Four!
+[00:15:30.419 --> 00:15:32.126] LAFORGE: If you'll excuse me.
+[00:15:32.126 --> 00:15:32.979] RASMUSSEN: Your prosthesis.
+[00:15:32.979 --> 00:15:33.939] RASMUSSEN: What do you call it again?
+[00:15:34.419 --> 00:15:35.219] LAFORGE: A visor.
+[00:15:35.219 --> 00:15:36.179] RASMUSSEN: Visor. Right.
+[00:15:36.819 --> 00:15:37.059] RASMUSSEN: A visor.
+[00:15:37.379 --> 00:15:39.539] RASMUSSEN: You know, I have a picture of you wearing that in my office.
+[00:15:40.339 --> 00:15:40.899] RASMUSSEN: How do you like it?
+[00:15:41.379 --> 00:15:42.339] LAFORGE: It allows me to see.
+[00:15:42.339 --> 00:15:43.539] LAFORGE: I like it just fine.
+[00:15:43.699 --> 00:15:44.899] RASMUSSEN: You know, Homer was blind and
+[00:15:45.859 --> 00:15:50.339] RASMUSSEN: Milton. Bach, Monet, Wonder.
+[00:15:52.179 --> 00:15:53.219] LAFORGE: A fly on the wall, huh?
+[00:15:54.099 --> 00:15:54.819] RASMUSSEN: A fly on the wall.
+[00:15:55.379 --> 00:15:58.339] DATA: The computer has configured the drilling pattern and specified depths.
+[00:15:58.979 --> 00:16:00.099] LAFORGE: Captain, we've got everything we need.
+[00:16:00.099 --> 00:16:01.859] LAFORGE: I'm ready to transport down to the surface.
+[00:16:02.259 --> 00:16:03.379] PICARD: I'll notify Doctor Moseley.
+[00:16:04.019 --> 00:16:04.659] PICARD: Good luck, Geordi.
+[00:16:05.939 --> 00:16:05.939] LAFORGE: Gentlemen.
+[00:16:14.018 --> 00:16:17.218] RASMUSSEN: Who said these moments were any less exciting when you know the outcome?
+[00:16:20.258 --> 00:16:21.778] DATA: I know of no one who said that, Professor.
+[00:16:23.218 --> 00:16:25.218] LAFORGE: The
+[00:16:30.498 --> 00:16:34.258] LAFORGE: Enterprise will monitor the CO2 concentrations at six different altitudes.
+[00:16:34.258 --> 00:16:37.218] LAFORGE: If all goes well, it shouldn't take more than twenty bore sites.
+[00:16:37.778 --> 00:16:39.298] MOSELEY: Let's hope all goes well.
+[00:16:40.658 --> 00:16:42.258] LAFORGE: La Forge to Commander Riker. How are you doing?
+[00:16:42.818 --> 00:16:45.298] RIKER: We've gotten word from the monitoring stations. They're all online.
+[00:16:46.018 --> 00:16:46.818] RIKER: We're ready when you are, Geordi.
+[00:16:47.458 --> 00:16:48.178] LAFORGE: That's excellent.
+[00:16:48.498 --> 00:16:50.578] LAFORGE: All we need now is an open channel to Data.
+[00:16:52.018 --> 00:16:54.738] RIKER: Open a channel, Mister Worf, and prepare to fire at target one.
+[00:16:54.738 --> 00:16:56.818] WORF: The computer has locked in phaser depth calculations.
+[00:16:58.818 --> 00:16:59.458] RIKER: Mister Data?
+[00:16:59.458 --> 00:17:00.098] DATA: Ready, sir.
+[00:17:00.818 --> 00:17:01.218] RIKER: Fire.
+[00:17:04.818 --> 00:17:04.818] DATA: Target
+[00:17:15.778 --> 00:17:18.018] DATA: one is emitting two thousand cubic metres per second.
+[00:17:18.258 --> 00:17:19.938] DATA: Target two, one thousand six hundred.
+[00:17:20.738 --> 00:17:23.138] MOSELEY: Surface wind patterns over the target are stable.
+[00:17:23.938 --> 00:17:25.458] LAFORGE: You picking up anything at altitude, Data?
+[00:17:26.178 --> 00:17:29.218] DATA: CO2 concentrations remain unchanged at upper elevations.
+[00:17:42.873 --> 00:17:43.273] RASMUSSEN: Have I missed much?
+[00:17:45.033 --> 00:17:46.473] WORF: Target fourteen complete, sir.
+[00:17:49.513 --> 00:17:50.793] RIKER: Data? What have you got?
+[00:17:51.673 --> 00:17:52.313] DATA: No change, sir.
+[00:17:55.753 --> 00:17:56.873] RIKER: How are the surface winds, Geordi?
+[00:17:58.313 --> 00:17:59.193] LAFORGE: Holding steady, sir.
+[00:17:59.193 --> 00:18:01.753] WORF: The computer has stopped drilling.
+[00:18:02.873 --> 00:18:03.673] RIKER: You should be getting something Now,
+[00:18:05.193 --> 00:18:07.193] RIKER: Data.
+[00:18:07.273 --> 00:18:09.513] DATA: Elevated CO2 levels at twenty kilometres, sir.
+[00:18:09.913 --> 00:18:10.953] LAFORGE: Now you're Talking.
+[00:18:11.113 --> 00:18:12.553] LAFORGE: We've got some new temperatures coming in.
+[00:18:12.793 --> 00:18:16.233] MOSELEY: All thermal monitoring stations are reporting no further temperature drops.
+[00:18:16.233 --> 00:18:17.033] LAFORGE: Correction, Doctor.
+[00:18:17.113 --> 00:18:19.753] LAFORGE: Two equatorial stations are showing slight increases.
+[00:18:20.473 --> 00:18:20.713] MOSELEY: Thank you.
+[00:18:21.513 --> 00:18:22.073] MOSELEY: Thank you all.
+[00:18:22.153 --> 00:18:23.193] MOSELEY: You've given us what we need.
+[00:18:23.753 --> 00:18:24.073] MOSELEY: Time.
+[00:18:25.433 --> 00:18:26.553] PICARD: We're glad to be of help, Doctor.
+[00:18:27.113 --> 00:18:29.753] PICARD: The Enterprise will remain in orbit and continue to monitor your progress.
+[00:18:30.553 --> 00:18:31.033] PICARD: Picard out.
+[00:18:31.433 --> 00:18:34.073] RASMUSSEN: You've given us what we need.
+[00:18:34.073 --> 00:18:34.633] RASMUSSEN: Time.
+[00:18:38.073 --> 00:18:39.273] PICARD: Ensign, return to synchronous orbit.
+[00:18:39.593 --> 00:18:39.993] ENSIGN: Aye, sir.
+[00:18:41.513 --> 00:18:42.233] RASMUSSEN: Very clever, Picard.
+[00:18:43.033 --> 00:18:43.913] RASMUSSEN: And well done.
+[00:18:43.993 --> 00:18:49.433] RASMUSSEN: We've always known how you did it, but to experience the moment, to witness the nuances,
+[00:18:50.873 --> 00:18:52.873] RASMUSSEN: it's indescribable.
+[00:19:02.233 --> 00:19:03.833] TROI: He's after more than a history lesson.
+[00:19:03.833 --> 00:19:04.793] TROI: I can tell you that.
+[00:19:04.953 --> 00:19:05.433] CRUSHER: What is it?
+[00:19:05.433 --> 00:19:06.393] CRUSHER: What are you getting from him?
+[00:19:06.874 --> 00:19:07.354] TROI: I don't know.
+[00:19:08.314 --> 00:19:10.954] TROI: It's like he's trying to confuse us, misdirect us
+[00:19:10.954 --> 00:19:11.294] TROI: somehow.
+[00:19:11.294 --> 00:19:12.314] RASMUSSEN: There you are.
+[00:19:13.514 --> 00:19:15.994] RASMUSSEN: Well, that certainly was exciting, wasn't it?
+[00:19:16.634 --> 00:19:17.594] CRUSHER: Professor, is everything alright?
+[00:19:18.074 --> 00:19:18.554] CRUSHER: Are you well?
+[00:19:18.954 --> 00:19:19.914] RASMUSSEN: Yes, couldn't be better,
+[00:19:19.914 --> 00:19:20.234] RASMUSSEN: thank you.
+[00:19:20.554 --> 00:19:22.874] RASMUSSEN: I just thought we might chat about your questionnaire.
+[00:19:24.154 --> 00:19:24.954] RASMUSSEN: Buck up, crewman.
+[00:19:25.194 --> 00:19:26.874] RASMUSSEN: You're a credit to that uniform.
+[00:19:27.514 --> 00:19:28.874] TROI: I've got some things to take care of.
+[00:19:28.874 --> 00:19:29.754] RASMUSSEN: No, please, Counsellor.
+[00:19:29.754 --> 00:19:31.274] RASMUSSEN: I would very much appreciate your remaining.
+[00:19:32.474 --> 00:19:36.794] RASMUSSEN: Doctor, in response to my sixth question, you spoke of a neural stimulator.
+[00:19:37.114 --> 00:19:38.074] RASMUSSEN: May I see one?
+[00:19:38.394 --> 00:19:39.274] CRUSHER: I don't see why not.
+[00:19:39.834 --> 00:19:40.314] CRUSHER: Give me a minute.
+[00:19:47.114 --> 00:19:48.474] RASMUSSEN: You don't like me very much, do you?
+[00:19:48.874 --> 00:19:50.474] TROI: I don't dislike you, Professor.
+[00:19:52.394 --> 00:19:53.674] RASMUSSEN: Keep your eyes wide, soldier.
+[00:19:54.234 --> 00:19:57.194] RASMUSSEN: You'll be telling your grandchildren how you were there at Penthara Four.
+[00:20:02.474 --> 00:20:05.674] RASMUSSEN: But you don't trust me.
+[00:20:06.314 --> 00:20:06.954] RASMUSSEN: You should, you know.
+[00:20:07.274 --> 00:20:07.674] TROI: Should I?
+[00:20:08.234 --> 00:20:10.154] RASMUSSEN: Picard's empath won't trust you.
+[00:20:10.154 --> 00:20:10.874] RASMUSSEN: That's what they all said.
+[00:20:11.114 --> 00:20:12.234] TROI: Picard's empath?
+[00:20:12.874 --> 00:20:15.034] RASMUSSEN: We're not that unalike, you and I.
+[00:20:16.394 --> 00:20:18.554] RASMUSSEN: You possess a sense that is foreign to the others.
+[00:20:18.554 --> 00:20:20.234] RASMUSSEN: My knowledge of the future is similar.
+[00:20:21.034 --> 00:20:22.874] RASMUSSEN: You know, some of my best friends are empaths.
+[00:20:23.514 --> 00:20:24.314] RASMUSSEN: They trust me.
+[00:20:25.034 --> 00:20:27.114] TROI: Why should you care whether I trust you or not?
+[00:20:27.354 --> 00:20:28.474] RASMUSSEN: We're birds of a feather.
+[00:20:28.874 --> 00:20:30.074] RASMUSSEN: We're colleagues.
+[00:20:31.514 --> 00:20:32.714] RASMUSSEN: We could learn a lot from each other.
+[00:20:34.474 --> 00:20:34.874] TROI: You're right.
+[00:20:36.074 --> 00:20:36.794] TROI: I don't trust you.
+[00:20:38.474 --> 00:20:39.194] RASMUSSEN: I knew you'd say that.
+[00:20:40.154 --> 00:20:40.874] TROI: I'm sure you did.
+[00:20:42.234 --> 00:20:44.954] CRUSHER: Well, it's nice to see you two are finally getting along.
+[00:20:45.674 --> 00:20:46.714] TROI: I really have to be going.
+[00:20:50.474 --> 00:20:50.634] RASMUSSEN: Thank
+[00:20:53.114 --> 00:20:53.114] RASMUSSEN: you.
+[00:20:54.314 --> 00:20:55.674] CRUSHER: Why don't you try a berylite scan?
+[00:20:55.994 --> 00:20:57.914] CRUSHER: I'd be interested to see where his micro-levels
+[00:21:01.194 --> 00:21:01.514] CRUSHER: are.
+[00:21:02.074 --> 00:21:04.954] CRUSHER: So, what else can I show you?
+[00:21:06.314 --> 00:21:07.914] RASMUSSEN: You're a very curious woman.
+[00:21:09.594 --> 00:21:11.754] RASMUSSEN: No, no, I don't mean curious like that.
+[00:21:11.754 --> 00:21:19.594] RASMUSSEN: I mean you're curious about things. About berylite levels, about the future.
+[00:21:20.794 --> 00:21:23.594] CRUSHER: Well, curiosity is why all of us are out here, isn't it?
+[00:21:24.634 --> 00:21:26.554] RASMUSSEN: I understand. But you're different,
+[00:21:26.554 --> 00:21:28.714] RASMUSSEN: you're more vibrant.
+[00:21:29.434 --> 00:21:30.234] RASMUSSEN: More
+[00:21:30.234 --> 00:21:31.834] CRUSHER: More vibrant.
+[00:21:33.274 --> 00:21:33.834] CRUSHER: That's nice,
+[00:21:34.154 --> 00:21:34.714] CRUSHER: I like that.
+[00:21:35.274 --> 00:21:39.674] RASMUSSEN: You know, whenever I travel back, I meet very interesting people, men and women.
+[00:21:39.674 --> 00:21:46.314] RASMUSSEN: But I've never anyone who gave me thoughts about not going home.
+[00:21:49.754 --> 00:21:52.554] CRUSHER: You're not supposed to be influencing the past,
+[00:21:52.954 --> 00:21:53.194] CRUSHER: remember?
+[00:21:54.074 --> 00:22:01.434] CRUSHER: And I am beginning to feel a little influenced.
+[00:22:02.794 --> 00:22:05.674] CRUSHER: Anyway, I could be your great, great,
+[00:22:06.131 --> 00:22:08.691] CRUSHER: great, great, grandmother.
+[00:22:25.251 --> 00:22:27.251] PICARD: What kind of questions did he have for you, Number One?
+[00:22:27.331 --> 00:22:29.571] RIKER: All he wanted to know about was previous starships.
+[00:22:29.651 --> 00:22:32.291] RIKER: What I thought was innovative about the last Enterprise, the one before that.
+[00:22:32.771 --> 00:22:35.571] RIKER: He said he wanted to see if we had a grasp of the fundamentals.
+[00:22:36.051 --> 00:22:38.611] DATA: His queries to me primarily focused on Doctor Soong's
+[00:22:40.771 --> 00:22:43.331] WORF: Captain, I am detecting a massive earthquake on the surface.
+[00:22:44.611 --> 00:22:45.331] WORF: Two earthquakes.
+[00:22:45.731 --> 00:22:46.211] PICARD: Location?
+[00:22:46.851 --> 00:22:49.491] DATA: Both epicentres are beneath the two southernmost drill sites, Captain.
+[00:22:50.051 --> 00:22:51.011] PICARD: Is La Forge still down there?
+[00:22:51.091 --> 00:22:51.331] WORF: Yes, sir.
+[00:22:51.811 --> 00:22:52.131] PICARD: Find him.
+[00:22:52.931 --> 00:22:52.931] RIKER: We've
+[00:22:54.851 --> 00:22:56.851] RIKER: also got some volcanic activity. Pretty severe.
+[00:22:57.411 --> 00:22:57.891] PICARD: Magnify.
+[00:22:57.971 --> 00:22:58.131] LAFORGE: La
+[00:23:02.211 --> 00:23:02.851] LAFORGE: Forge here, Captain.
+[00:23:03.331 --> 00:23:05.171] LAFORGE: Moseley and I are on our way back to his lab.
+[00:23:05.891 --> 00:23:06.371] PICARD: Are you all right?
+[00:23:06.851 --> 00:23:09.091] LAFORGE: We're okay, but those were pretty big, sir.
+[00:23:09.651 --> 00:23:12.371] LAFORGE: If this was Earth, I'd say around an eight or an eight five on the Richter Scale.
+[00:23:13.331 --> 00:23:15.251] LAFORGE: We're starting to see some volcanic plumes, Captain.
+[00:23:15.731 --> 00:23:15.891] WORF: Two
+[00:23:19.331 --> 00:23:20.131] WORF: more eruptions, sir.
+[00:23:20.851 --> 00:23:24.691] DATA: It is likely that we overestimated the geologic stability around the CO2 pockets, Captain.
+[00:23:25.251 --> 00:23:26.051] LAFORGE: We're in the lab, sir.
+[00:23:27.011 --> 00:23:27.411] PICARD: On screen.
+[00:23:28.851 --> 00:23:31.171] MOSELEY: We're fairly well quake-proof down here, Picard.
+[00:23:31.411 --> 00:23:33.411] MOSELEY: It's the volcanic dust I'm worried about.
+[00:23:35.932 --> 00:23:36.652] PICARD: What about the dust?
+[00:23:38.172 --> 00:23:42.252] LAFORGE: The ash the volcanoes are throwing into the atmosphere is going to compound the existing problem.
+[00:23:42.652 --> 00:23:45.292] LAFORGE: In a matter of days, there'll be no sunlight getting through those clouds.
+[00:23:45.372 --> 00:23:48.288] MOSELEY: No amount of CO2 will help us then.
+[00:23:48.288 --> 00:23:48.652] RIKER: Captain,
+[00:23:49.132 --> 00:23:49.772] RIKER: take a look at this.
+[00:23:56.732 --> 00:24:02.652] RIKER: These are the coordinates of the eruptions, and these are the coordinates of the phaser drilling sites.
+[00:24:04.812 --> 00:24:06.892] PICARD: The mantle is collapsing where the pressure was released.
+[00:24:09.052 --> 00:24:12.812] LAFORGE: Captain, Doctor Moseley and I have a couple of ideas, but it's going to take some time to sort out.
+[00:24:13.452 --> 00:24:14.332] PICARD: Sort them out, Commander.
+[00:24:14.972 --> 00:24:15.292] LAFORGE: Aye, sir.
+[00:24:16.572 --> 00:24:16.652] RIKER: We
+[00:24:20.012 --> 00:24:21.212] RIKER: came here to help these people.
+[00:24:23.132 --> 00:24:24.092] PICARD: And look what we've done.
+[00:24:41.292 --> 00:24:44.732] RASMUSSEN: What in God's name is that?
+[00:24:45.132 --> 00:24:45.852] DATA: Music, Professor.
+[00:24:46.252 --> 00:24:46.652] RASMUSSEN: Music?
+[00:24:46.652 --> 00:24:47.452] DATA: Yes, sir.
+[00:24:48.012 --> 00:24:59.372] DATA: Mozart's Jupiter symphony in C major, Bach's Brandenburg Concerto number three, Beethoven's Ninth Symphony, second movement, molto vivace and La Donna e Mobile from Verdi's Rigoletto.
+[00:25:00.117 --> 00:25:01.237] RASMUSSEN: Do you think you could thin it out a bit?
+[00:25:02.917 --> 00:25:05.077] DATA: Computer, eliminate programme one.
+[00:25:09.157 --> 00:25:11.477] DATA: Computer, eliminate programme two.
+[00:25:12.517 --> 00:25:12.837] DATA: Computer,
+[00:25:15.397 --> 00:25:18.197] DATA: eliminate programme three.
+[00:25:20.997 --> 00:25:22.837] DATA: Computer, half volume.
+[00:25:26.357 --> 00:25:28.997] RASMUSSEN: How the hell can you listen to four pieces of music at the same time?
+[00:25:29.797 --> 00:25:37.557] DATA: Actually, I am capable of distinguishing over one hundred and fifty simultaneous compositions, but in order to analyse the aesthetics, I try to keep it to ten or less.
+[00:25:39.317 --> 00:25:40.197] RASMUSSEN: Only four today?
+[00:25:41.157 --> 00:25:44.517] DATA: I am assisting Commander La Forge with a very complex calculation.
+[00:25:45.077 --> 00:25:46.677] DATA: It demands a great deal of my concentration.
+[00:25:47.877 --> 00:25:50.997] RASMUSSEN: Well, I came to thank you for answering my questions, though
+[00:25:50.997 --> 00:25:53.877] RASMUSSEN: I probably should have asked you to limit yourself to fifty thousand words.
+[00:25:55.397 --> 00:25:56.997] DATA: You did ask me to be thorough.
+[00:25:58.357 --> 00:26:12.117] RASMUSSEN: I realise it's hard to believe, Data, but very few records of Doctor Soong's work survived to the twenty sixth century, so it would be invaluable to myself and other historians, if you could provide us with some schematics.
+[00:26:13.077 --> 00:26:15.327] DATA: Certainly, as soon as my work here is completed.
+[00:26:15.327 --> 00:26:19.077] RASMUSSEN: As long as it's before oh nine hundred tomorrow. That's when I'll be heading back.
+[00:26:19.637 --> 00:26:20.517] WORF: Bridge to Commander Data.
+[00:26:20.837 --> 00:26:21.397] DATA: Yes, Worf.
+[00:26:21.957 --> 00:26:23.957] WORF: Commander La Forge is hailing you from the surface, sir.
+[00:26:24.917 --> 00:26:25.717] DATA: Patch him through, please.
+[00:26:27.557 --> 00:26:28.277] LAFORGE: Have you rerun the
+[00:26:28.296 --> 00:26:29.496] LAFORGE: phase reversal figures, Data?
+[00:26:30.376 --> 00:26:31.416] DATA: There were no errors, Geordi.
+[00:26:31.416 --> 00:26:34.936] DATA: The variance must be no more than point zero six terawatts.
+[00:26:35.576 --> 00:26:37.256] LAFORGE: Well, I don't see any other choice.
+[00:26:37.736 --> 00:26:40.936] LAFORGE: We'll continue to run the numbers down here but I doubt we'll come up with anything different.
+[00:26:41.816 --> 00:26:45.336] LAFORGE: You better inform the captain of the good news and the bad news. La Forge
+[00:26:45.336 --> 00:26:45.576] LAFORGE: out.
+[00:26:47.096 --> 00:26:48.536] RASMUSSEN: Which do you suppose he's going to want to hear first?
+[00:26:51.976 --> 00:26:52.776] PICARD: The good news.
+[00:26:53.816 --> 00:26:58.456] DATA: The motion of the dust has created a great deal of electrostatic energy in the upper atmosphere.
+[00:26:59.176 --> 00:27:04.456] DATA: With a modified phaser blast, we could create a shock front that would encircle the planet and ionise the particles.
+[00:27:05.096 --> 00:27:07.736] PICARD: That would be like striking a spark in a gas-filled room.
+[00:27:08.296 --> 00:27:09.256] DATA: With one exception, sir.
+[00:27:09.816 --> 00:27:15.896] DATA: The particles would be converted into a high energy plasma which our shields could absorb and then re-direct harmlessly into space.
+[00:27:16.856 --> 00:27:18.456] PICARD: Turn the Enterprise into a lightning rod?
+[00:27:18.776 --> 00:27:19.416] DATA: Precisely, sir.
+[00:27:19.416 --> 00:27:20.776] PICARD: And the bad news?
+[00:27:21.576 --> 00:27:28.800] DATA: If our phaser discharge is off by as little as point zero six terawatts, it would cause a cascading exothermal inversion.
+[00:27:28.800 --> 00:27:29.144] PICARD: Meaning?
+[00:27:29.144 --> 00:27:31.896] DATA: We would completely burn off the planet's atmosphere.
+[00:27:40.616 --> 00:27:41.816] LOG: Captain's log, supplemental.
+[00:27:42.296 --> 00:27:50.056] LOG: While Doctor Moseley takes La Forge's plan to the leaders of the colony, I find myself weighing the potential consequences of a more philosophical issue.
+[00:27:51.736 --> 00:27:52.056] PICARD: Come.
+[00:27:57.976 --> 00:27:59.576] PICARD: I imagine you know why I've asked you here.
+[00:28:00.296 --> 00:28:02.216] RASMUSSEN: Yeah, I have a fairly good idea.
+[00:28:03.074 --> 00:28:03.874] PICARD: I'm faced with a dilemma.
+[00:28:04.434 --> 00:28:14.994] PICARD: There is a planet beneath us which is slowly turning to ice, and unless we do something about it, I'm told that in a matter of weeks thousands, maybe tens of thousands, will die.
+[00:28:16.434 --> 00:28:16.994] RASMUSSEN: That'd be a shame.
+[00:28:17.794 --> 00:28:18.354] PICARD: Yes, it would.
+[00:28:19.314 --> 00:28:20.434] PICARD: It would be quite a shame.
+[00:28:21.554 --> 00:28:24.514] RASMUSSEN: So, what's your dilemma?
+[00:28:25.314 --> 00:28:27.394] PICARD: Commander La Forge has a possible solution.
+[00:28:27.634 --> 00:28:33.714] PICARD: The margins of error are extremely critical, but if successful, there'll be no more threat.
+[00:28:34.594 --> 00:28:35.948] RASMUSSEN: And if it's not successful?
+[00:28:35.948 --> 00:28:38.114] PICARD: Every living thing on the planet will perish.
+[00:28:39.314 --> 00:28:42.034] RASMUSSEN: So do nothing and thousands will die.
+[00:28:42.674 --> 00:28:44.594] RASMUSSEN: Do something and millions could die.
+[00:28:44.594 --> 00:28:46.034] RASMUSSEN: That's a tough choice.
+[00:28:47.794 --> 00:28:48.674] PICARD: Not if you were to help me.
+[00:28:50.354 --> 00:28:52.914] RASMUSSEN: You're not suggesting I tell you the outcome of your efforts?
+[00:28:52.914 --> 00:28:54.834] PICARD: Oh no, I'm not.
+[00:28:56.274 --> 00:29:00.914] PICARD: Everything that Starfleet stands for, everything that I have ever believed in, tells me I cannot ask you that.
+[00:29:01.074 --> 00:29:05.954] PICARD: But at the same time, there are twenty million lives down there,
+[00:29:08.194 --> 00:29:09.714] PICARD: and you know what happened to them.
+[00:29:10.514 --> 00:29:11.874] PICARD: What will happen to them.
+[00:29:12.434 --> 00:29:16.914] RASMUSSEN: So, it seems you have another dilemma. One that questions your convictions.
+[00:29:17.554 --> 00:29:24.434] PICARD: Well, I've never been afraid of reevaluating my convictions, Professor, and now, I have twenty million reasons to do so.
+[00:29:25.874 --> 00:29:27.394] RASMUSSEN: And why did you ask to see me?
+[00:29:28.354 --> 00:29:34.354] PICARD: Because your presence gives me potential access to a kind of information that I've never had available to me before,
+[00:29:35.544 --> 00:29:42.344] PICARD: and if I am to re-examine my beliefs, then I must take advantage of every possible asset.
+[00:29:43.064 --> 00:29:45.384] PICARD: It would be irresponsible of me not to ask you here.
+[00:29:45.784 --> 00:29:47.784] RASMUSSEN: However you come to terms with your beliefs, Captain,
+[00:29:47.784 --> 00:29:50.104] RASMUSSEN: I must tell you that I'm quite comfortable with mine.
+[00:29:51.464 --> 00:29:52.024] PICARD: How can you be?
+[00:29:52.424 --> 00:29:55.624] PICARD: How can you be comfortable watching people die?
+[00:29:57.384 --> 00:30:06.904] RASMUSSEN: Let me put it to you this way. If I were to tell you that none of those people died, you'd easily conclude that you tried your solution and it succeeded.
+[00:30:07.144 --> 00:30:08.824] RASMUSSEN: So, you'd confidently try again.
+[00:30:09.624 --> 00:30:10.184] RASMUSSEN: No harm in that.
+[00:30:10.904 --> 00:30:13.784] RASMUSSEN: But what if I were to tell you they all died?
+[00:30:14.104 --> 00:30:14.424] RASMUSSEN: What then?
+[00:30:14.824 --> 00:30:17.224] RASMUSSEN: Obviously, you'd decide not to make the same mistake twice.
+[00:30:17.464 --> 00:30:19.362] RASMUSSEN: Now, what if one of those people grew up
+[00:30:19.362 --> 00:30:19.784] PICARD: Yes, Professor,
+[00:30:19.784 --> 00:30:20.104] PICARD: I know.
+[00:30:20.184 --> 00:30:26.584] PICARD: What if one of those lives I save down there is a child who grows up to be the next Adolf Hitler or Khan Singh?
+[00:30:27.784 --> 00:30:32.104] PICARD: Every first year philosophy student have been asked that question ever since the earliest wormholes were discovered.
+[00:30:32.104 --> 00:30:34.024] PICARD: But this is not a class in temporal logic.
+[00:30:34.824 --> 00:30:35.544] PICARD: It's not theoretical,
+[00:30:35.704 --> 00:30:36.824] PICARD: it's not hypothetical,
+[00:30:36.824 --> 00:30:37.384] PICARD: it's real.
+[00:30:37.784 --> 00:30:38.584] PICARD: Surely you see that?
+[00:30:38.744 --> 00:30:39.944] RASMUSSEN: I see it all too well.
+[00:30:40.504 --> 00:30:46.904] RASMUSSEN: But you must see that if I were to influence you, everything in this sector, in this quadrant of the galaxy could change.
+[00:30:47.544 --> 00:30:52.264] RASMUSSEN: History, my history, would unfold in a way other than it already has.
+[00:30:52.984 --> 00:30:57.864] RASMUSSEN: Now what possible incentive could anyone offer me to allow that to happen?
+[00:30:58.664 --> 00:30:59.544] PICARD: I have two choices.
+[00:31:00.664 --> 00:31:04.264] PICARD: Either way, one version of history or another will wend its way forward.
+[00:31:05.144 --> 00:31:06.504] PICARD: The history you know or another one.
+[00:31:06.504 --> 00:31:08.264] PICARD: Now who is to say which is better?
+[00:31:08.965 --> 00:31:14.005] PICARD: What I do know is here, today, one way, millions of lives could be saved.
+[00:31:14.725 --> 00:31:16.165] PICARD: Now isn't that incentive enough?
+[00:31:17.045 --> 00:31:18.805] RASMUSSEN: Everyone dies, Captain.
+[00:31:19.285 --> 00:31:20.485] RASMUSSEN: It's just a question of when.
+[00:31:21.045 --> 00:31:23.685] RASMUSSEN: All of those people down there died years before I was born.
+[00:31:24.245 --> 00:31:25.685] RASMUSSEN: All of you up here, as well.
+[00:31:26.245 --> 00:31:33.125] RASMUSSEN: So you see, I can't get quite as worked up as you over the fate of some colonists who, for me, have been dead a very, very long time.
+[00:31:34.005 --> 00:31:41.445] PICARD: Of course, you know of the Prime Directive, which tells us that we have no right to interfere with the natural evolution of alien worlds.
+[00:31:41.925 --> 00:31:49.685] PICARD: Now I have sworn to uphold it, but nevertheless I have disregarded that directive
+[00:31:51.205 --> 00:31:52.245] PICARD: on more than one occasion
+[00:31:54.085 --> 00:31:56.165] PICARD: because I thought it was the right thing to do.
+[00:31:57.605 --> 00:32:03.045] PICARD: Now, if you are holding on to some temporal equivalent of that directive,
+[00:32:04.165 --> 00:32:14.245] PICARD: then isn't it possible that you have an occasion here to make an exception, to help me to choose, because it's the right thing to do?
+[00:32:15.845 --> 00:32:17.125] RASMUSSEN: We're not just talking about a choice.
+[00:32:17.125 --> 00:32:19.045] RASMUSSEN: It sounds to me like you're trying to manipulate the future.
+[00:32:19.605 --> 00:32:22.565] PICARD: Every choice we make allows us to manipulate the future.
+[00:32:23.045 --> 00:32:27.125] PICARD: Do I ask Adrienne or Suzanne to the spring dance?
+[00:32:27.125 --> 00:32:29.125] PICARD: Do I take my holiday on Corsica or on Risa?
+[00:32:30.325 --> 00:32:34.485] PICARD: A person's life, their future, hinges on
+[00:32:34.876 --> 00:32:38.316] PICARD: each of a thousand choices. Living is making choices.
+[00:32:38.556 --> 00:32:47.596] PICARD: Now you ask me to believe that if I make a choice other than the one found in your history books, then your past will be irrevocably altered.
+[00:32:47.596 --> 00:32:56.236] PICARD: Well, you know, Professor, perhaps I don't give a damn about your past, because your past is my future and as far as I'm concerned, it hasn't been written yet.
+[00:32:58.316 --> 00:33:01.356] RIKER: Captain, the electrostatic conditions are about as good as they're going to get.
+[00:33:02.076 --> 00:33:03.836] RIKER: If we're going to try this, now's the time.
+[00:33:06.236 --> 00:33:07.836] RASMUSSEN: Please don't ask me, Captain.
+[00:33:07.916 --> 00:33:08.076] RASMUSSEN: I
+[00:33:10.316 --> 00:33:10.876] RASMUSSEN: can't help you.
+[00:33:11.026 --> 00:33:11.626] RASMUSSEN: I'm
+[00:33:13.676 --> 00:33:13.996] RASMUSSEN: sorry.
+[00:33:22.476 --> 00:33:24.076] PICARD: How long will it take to programme the phasers,
+[00:33:24.076 --> 00:33:24.476] PICARD: Number One?
+[00:33:24.716 --> 00:33:26.796] RIKER: We've just got to tie in Geordi's atmospheric sensors.
+[00:33:27.276 --> 00:33:29.916] RASMUSSEN: So you've made your choice after all, and without my help.
+[00:33:30.716 --> 00:33:33.116] PICARD: Oh, on the contrary, Professor, you were quite helpful.
+[00:33:33.676 --> 00:33:34.076] RASMUSSEN: How's that?
+[00:33:34.716 --> 00:33:41.596] PICARD: By refusing to assist me, you left me with the same choice I had to began with. To try or not to try, to take a risk or to play it safe.
+[00:33:43.276 --> 00:33:47.276] PICARD: Your arguments have reminded me how precious the right to choose is.
+[00:33:47.426 --> 00:33:48.026] PICARD: And
+[00:33:49.596 --> 00:33:51.196] PICARD: because I've never been one to play it safe,
+[00:33:54.316 --> 00:33:56.236] PICARD: I choose to try. Mister Data,
+[00:33:56.476 --> 00:33:57.676] PICARD: programme the firing sequence.
+[00:33:57.916 --> 00:33:58.236] DATA: Aye, sir.
+[00:34:06.702 --> 00:34:09.662] LOG: Captain's log, stardate 45351.9.
+[00:34:09.982 --> 00:34:14.382] LOG: Doctor Moseley has met with the colony leaders, who all agree they are willing to take the risk.
+[00:34:15.662 --> 00:34:18.302] WORF: Warp power has being rerouted to the main deflector dish, Commander.
+[00:34:18.862 --> 00:34:21.022] LAFORGE: Keep those phasers on active surge control, Worf.
+[00:34:21.342 --> 00:34:22.702] LAFORGE: We're only going to get one shot at this.
+[00:34:23.502 --> 00:34:24.622] RASMUSSEN: Well, this is it!
+[00:34:25.982 --> 00:34:26.942] RIKER: You have the sequence locked in, Data?
+[00:34:27.182 --> 00:34:27.582] DATA: Yes, sir.
+[00:34:27.982 --> 00:34:32.462] DATA: After an eight point three second burst from the dish, we'll discharge all EPS taps through the phasers.
+[00:34:33.022 --> 00:34:34.542] PICARD: It's time for you return to the ship, Mister La Forge.
+[00:34:35.102 --> 00:34:36.622] PICARD: Mister O'Brien, stand by to transport.
+[00:34:36.622 --> 00:34:38.942] LAFORGE: Excuse me, Captain, but I can be of a lot more help down here.
+[00:34:39.102 --> 00:34:42.142] LAFORGE: We've going to have to compensate for density variations right up to the last second.
+[00:34:42.782 --> 00:34:49.022] DATA: Doctor Moseley's computers can accomplish the same task, sir. but Geordi would be better able to anticipate unexpected variances.
+[00:34:49.582 --> 00:34:52.462] PICARD: Mister La Forge, you know better than anyone there's no guarantee this will work.
+[00:34:52.862 --> 00:34:53.691] PICARD: If it fails
+[00:34:53.691 --> 00:34:55.902] LAFORGE: There's no guarantee it's going to fail, Captain.
+[00:34:57.502 --> 00:34:59.262] LAFORGE: I'd like your permission to remain here on the surface.
+[00:35:01.502 --> 00:35:03.502] PICARD: Permission granted.
+[00:35:04.062 --> 00:35:05.822] RASMUSSEN: La Forge remained below.
+[00:35:08.942 --> 00:35:09.502] PICARD: Good luck, Commander.
+[00:35:10.142 --> 00:35:10.702] LAFORGE: Thank you, Captain.
+[00:35:13.022 --> 00:35:16.782] DATA: The deflector dish has been reconfigured, Captain.
+[00:35:17.502 --> 00:35:18.222] RIKER: Proceed, Mister Data.
+[00:35:19.022 --> 00:35:21.342] DATA: Stand by for auto-phaser interlock.
+[00:35:21.822 --> 00:35:23.022] DATA: Activating deflector beam.
+[00:35:33.022 --> 00:35:34.302] WORF: EPS taps online.
+[00:35:34.555 --> 00:35:35.275] WORF: Phasers firing.
+[00:36:07.355 --> 00:36:09.675] DATA: Activating shield
+[00:36:22.315 --> 00:36:24.315] DATA: invertors,
+[00:36:24.315 --> 00:36:25.275] DATA: now.
+[00:36:30.395 --> 00:36:32.635] PICARD: Mister La Forge?
+[00:36:32.785 --> 00:36:33.385] LAFORGE: La
+[00:36:36.315 --> 00:36:36.875] LAFORGE: Forge here.
+[00:36:37.515 --> 00:36:38.795] LAFORGE: Still breathing, Captain.
+[00:36:39.355 --> 00:36:45.195] MOSELEY: We've got particulate levels right where they're supposed to be and the sun is shining!
+[00:36:45.195 --> 00:36:45.835] LAFORGE: You see, Captain, I
+[00:36:46.635 --> 00:36:48.075] LAFORGE: told you there was nothing to worry about.
+[00:36:49.275 --> 00:36:50.795] PICARD: Report back to the ship when you're ready, Commander.
+[00:36:51.675 --> 00:36:55.435] PICARD: Doctor, we'll stay in orbit and analyse the remaining volcanic disturbances,
+[00:36:56.315 --> 00:37:00.715] PICARD: but the best advice would be to let them cool down on their own.
+[00:37:01.675 --> 00:37:02.555] MOSELEY: I'm getting in the habit of
+[00:37:02.603 --> 00:37:03.723] MOSELEY: thanking you, Picard.
+[00:37:03.723 --> 00:37:03.883] RASMUSSEN: Well,
+[00:37:09.403 --> 00:37:11.803] RASMUSSEN: I'd love to see more, but it's nearly time for me to go.
+[00:37:12.363 --> 00:37:18.683] RASMUSSEN: I am tickled pink to have had the opportunity of witnessing this, Picard. And you did it all without any help.
+[00:37:19.723 --> 00:37:23.083] RASMUSSEN: well, must run. Got some packing to do.
+[00:37:25.323 --> 00:37:26.923] RASMUSSEN: You know, you're taller in person, Commander.
+[00:37:28.523 --> 00:37:33.883] RASMUSSEN: Well, would
+[00:37:35.583 --> 00:37:37.583] RASMUSSEN: you
+[00:37:42.503 --> 00:37:44.503] RASMUSSEN: look
+[00:37:47.963 --> 00:37:50.443] RASMUSSEN: at this. Who would have expected a teary farewell?
+[00:37:51.083 --> 00:37:52.843] PICARD: I'm afraid we're going to have to take a look in your vessel.
+[00:37:53.483 --> 00:37:55.083] RASMUSSEN: Curious till the end, eh, Captain?
+[00:37:55.723 --> 00:37:59.883] RASMUSSEN: You can't be serious, Picard.
+[00:37:59.883 --> 00:38:01.083] RASMUSSEN: We've been through this more than once.
+[00:38:01.083 --> 00:38:07.643] PICARD: A number of objects have been discovered missing in the last two days, and if they're in your possession, then we would like them returned.
+[00:38:07.723 --> 00:38:09.323] RASMUSSEN: I'm not here in search of relics.
+[00:38:10.763 --> 00:38:11.563] RASMUSSEN: I'm sure they'll turn up.
+[00:38:13.323 --> 00:38:18.283] WORF: If you will not open the vessel, I will. With explosives, if necessary.
+[00:38:19.483 --> 00:38:20.523] RASMUSSEN: I doubt you have the means.
+[00:38:20.923 --> 00:38:23.003] RIKER: If we don't get in that thing, I guarantee you don't either.
+[00:38:25.723 --> 00:38:34.203] RASMUSSEN: Considering the sensitive nature of my equipment, I think you'll understand if I request that only Mister Data be allowed to see it.
+[00:38:34.864 --> 00:38:35.504] RIKER: Why Data?
+[00:38:36.304 --> 00:38:39.424] PICARD: Because if I order Data never to divulge what he sees in there, he won't,
+[00:38:39.584 --> 00:38:42.144] PICARD: with the exception of anything that might belong to us.
+[00:38:43.104 --> 00:38:43.664] DATA: Understood, sir.
+[00:38:49.264 --> 00:38:49.744] RASMUSSEN: Back in a minute.
+[00:39:09.904 --> 00:39:14.144] DATA: I do not believe any of these items belong to you, Professor.
+[00:39:15.344 --> 00:39:15.904] RASMUSSEN: Nor does this.
+[00:39:16.624 --> 00:39:19.024] RASMUSSEN: This phaser is set at the highest stun setting.
+[00:39:19.344 --> 00:39:22.144] RASMUSSEN: If I'm correct, that is sufficient to immobilise even you.
+[00:39:23.664 --> 00:39:26.704] DATA: Why have you stolen these objects? To put in a museum?
+[00:39:26.704 --> 00:39:28.624] RASMUSSEN: Far too valuable for that.
+[00:39:29.184 --> 00:39:32.704] RASMUSSEN: You see, in the century I come from, they haven't even been invented yet.
+[00:39:32.864 --> 00:39:37.344] DATA: But this vessel? And the temporal distortion that coincided with your arrival?
+[00:39:37.664 --> 00:39:41.024] RASMUSSEN: Oh, this is a time pod, and it is from the twenty sixth century.
+[00:39:41.824 --> 00:39:43.744] RASMUSSEN: At least that's what the poor fellow said.
+[00:39:44.944 --> 00:39:47.664] RASMUSSEN: You see, he decided to travel back to the twenty second century,
+[00:39:47.744 --> 00:39:50.624] RASMUSSEN: that's my time, and he had the misfortune of meeting me.
+[00:39:50.624 --> 00:39:52.864] RASMUSSEN: His clothes fit quite well, don't you think?
+[00:39:54.304 --> 00:39:56.704] RASMUSSEN: Took me weeks to figure out how to work this thing.
+[00:39:57.504 --> 00:39:58.624] DATA: Then you are not an historian.
+[00:39:58.944 --> 00:40:00.224] RASMUSSEN: More of an inventor.
+[00:40:00.864 --> 00:40:03.504] RASMUSSEN: Up till a few weeks ago, a dismally unsuccessful one.
+[00:40:03.784 --> 00:40:06.104] DATA: What are your intentions, Professor?
+[00:40:06.104 --> 00:40:09.864] RASMUSSEN: Well, thanks to your captain, it seems my intentions have changed slightly.
+[00:40:10.824 --> 00:40:21.144] RASMUSSEN: I was quite content with the notion of returning with those trinkets. I'd invent about one a year. But now, look what fortune has graced me with.
+[00:40:22.184 --> 00:40:26.504] RASMUSSEN: You will take a little longer to figure out than a tricorder, but it should be well worth the effort.
+[00:40:28.104 --> 00:40:35.864] RASMUSSEN: If the auto timer is programmed the way I think it is, in about two minutes we should be on our way back to a place called New Jersey.
+[00:40:37.384 --> 00:40:39.784] RASMUSSEN: I'm afraid you won't be awake for the ride.
+[00:40:45.224 --> 00:40:48.664] DATA: I assume your hand print will open the door whether you are conscious or not.
+[00:40:53.864 --> 00:40:55.144] RASMUSSEN: That weapon was working yesterday.
+[00:40:57.384 --> 00:40:58.584] DATA: You were correct to suspect him, sir.
+[00:40:59.384 --> 00:41:00.424] DATA: But he is not from the future,
+[00:41:00.984 --> 00:41:01.864] DATA: he is from the past.
+[00:41:06.344 --> 00:41:10.984] PICARD: Trying to make my history unfold in a way other than it already has, eh, Professor?
+[00:41:12.104 --> 00:41:15.624] RASMUSSEN: This was all a misunderstanding, Picard.
+[00:41:16.264 --> 00:41:17.384] RASMUSSEN: Just let me back in there and
+[00:41:17.704 --> 00:41:18.424] RASMUSSEN: we'll forget the whole thing.
+[00:41:18.584 --> 00:41:21.384] PICARD: Now what possible incentive could anyone offer me to allow that?
+[00:41:24.184 --> 00:41:28.141] DATA: I believe you will find all of the missing items in the vessel, sir.
+[00:41:28.141 --> 00:41:28.424] RASMUSSEN: Doctor.
+[00:41:29.064 --> 00:41:30.264] CRUSHER: A very nice performance.
+[00:41:31.501 --> 00:41:32.061] RASMUSSEN: Not all of it.
+[00:41:32.061 --> 00:41:32.861] RASMUSSEN: Some of it was real.
+[00:41:33.011 --> 00:41:33.611] RASMUSSEN: Captain.
+[00:41:37.261 --> 00:41:39.421] DATA: He claims to be a twenty second century inventor, Captain.
+[00:41:39.901 --> 00:41:43.021] PICARD: A pity you weren't a bit more inventive.
+[00:41:43.581 --> 00:41:44.781] PICARD: If fewer things had disappeared,
+[00:41:44.781 --> 00:41:46.061] PICARD: we might never have suspected you.
+[00:41:46.461 --> 00:41:48.381] PICARD: As it was, the only stumbling block was your ship.
+[00:41:48.541 --> 00:41:49.901] PICARD: Our sensors couldn't penetrate it.
+[00:41:49.901 --> 00:41:57.261] PICARD: But once the door was opened, the computer was able to detect and deactivate everything you'd stolen, including this.
+[00:41:58.781 --> 00:42:02.381] RASMUSSEN: I'd love to hear more, Picard, but I really must get back in that pod.
+[00:42:02.461 --> 00:42:03.421] RIKER: Take him to a detention cell,
+[00:42:03.501 --> 00:42:07.581] RIKER: Mister Worf, and notify Starfleet that we'll be dropping him off at Starbase two one four.
+[00:42:08.141 --> 00:42:08.461] WORF: Aye, sir.
+[00:42:08.781 --> 00:42:10.061] RASMUSSEN: You can't do this.
+[00:42:11.021 --> 00:42:11.741] RASMUSSEN: I've got to get back.
+[00:42:11.741 --> 00:42:12.621] RASMUSSEN: I don't belong here.
+[00:42:13.101 --> 00:42:15.101] RASMUSSEN: No!
+[00:42:19.981 --> 00:42:26.301] PICARD: I'm sure there are more than a few legitimate historians at Starfleet who will be quite eager to meet a human from your era.
+[00:42:29.341 --> 00:42:29.821] PICARD: Oh, Professor.
+[00:42:32.781 --> 00:42:34.221] PICARD: Welcome to the twenty fourth century.
+[00:42:44.000 --> 00:43:10.000] [music]
+[00:43:12.000 --> 00:43:41.000] [music]

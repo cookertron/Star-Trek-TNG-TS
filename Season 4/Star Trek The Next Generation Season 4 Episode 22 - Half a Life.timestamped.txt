@@ -1,0 +1,713 @@
+[00:00:03.440 --> 00:00:08.240] LOG: Counsellor Deanna Troi, personal log, stardate 44805.3.
+[00:00:09.040 --> 00:00:10.320] LOG: My mother is on board.
+[00:00:18.880 --> 00:00:21.760] LWAXANA: Jean-Luc! You delicious man.
+[00:00:21.760 --> 00:00:24.000] LWAXANA: You were just thinking of me, weren't you?
+[00:00:24.080 --> 00:00:24.800] PICARD: As a matter of fact
+[00:00:24.800 --> 00:00:26.560] LWAXANA: Well think no further, dear heart.
+[00:00:26.720 --> 00:00:27.840] LWAXANA: She's here!
+[00:00:28.720 --> 00:00:29.280] PICARD: Yes, indeed.
+[00:00:29.760 --> 00:00:30.960] LWAXANA: Oh, serious.
+[00:00:30.960 --> 00:00:32.960] LWAXANA: You're always so serious.
+[00:00:33.680 --> 00:00:34.240] PICARD: Lwaxana,
+[00:00:35.280 --> 00:00:37.680] PICARD: as a matter of fact, I am rather busy at the moment.
+[00:00:37.680 --> 00:00:39.840] LWAXANA: And you're always busy with something or other.
+[00:00:40.720 --> 00:00:41.840] LWAXANA: Never the right thing, though.
+[00:00:43.200 --> 00:00:46.400] LWAXANA: My daughter tells me that we're picking up someone interesting here.
+[00:00:47.120 --> 00:00:50.560] PICARD: Yes, the leading scientist of Kaelon Two and
+[00:00:50.640 --> 00:00:52.400] LWAXANA: Oh, Kaelon Two?
+[00:00:52.640 --> 00:00:53.360] LWAXANA: I've never heard of that.
+[00:00:54.400 --> 00:01:00.320] PICARD: Well, Lwaxana, it is something of a rather delicate situation>
+[00:01:01.040 --> 00:01:05.440] PICARD: It's the first real contact with a rather reclusive race,
+[00:01:06.240 --> 00:01:06.560] PICARD: and
+[00:01:08.400 --> 00:01:10.480] PICARD: this is in the nature of an official greeting,
+[00:01:10.480 --> 00:01:11.240] PICARD: so
+[00:01:11.240 --> 00:01:12.000] LWAXANA: Diplomacy.
+[00:01:12.240 --> 00:01:14.560] LWAXANA: I adore diplomacy.
+[00:01:14.960 --> 00:01:16.720] LWAXANA: Everyone dresses so well.
+[00:01:23.120 --> 00:01:23.280] PICARD: Mister
+[00:01:23.280 --> 00:01:24.640] PICARD: O'Brien, energise.
+[00:01:31.200 --> 00:01:31.440] PICARD: Doctor
+[00:01:31.440 --> 00:01:31.840] PICARD: Timicin.
+[00:01:32.361 --> 00:01:34.521] PICARD: I'm Jean-Luc Picard, Captain of The Enterprise.
+[00:01:34.921 --> 00:01:36.361] PICARD: This is Lieutenant Commander La Forge.
+[00:01:37.801 --> 00:01:38.601] TIMICIN: I beg your pardon, Captain.
+[00:01:38.681 --> 00:01:40.521] TIMICIN: This is my first time aboard a Federation starship.
+[00:01:44.361 --> 00:01:45.241] TIMICIN: Oh yes, they told me.
+[00:01:45.561 --> 00:01:47.161] TIMICIN: Shaking hands, a form of greeting.
+[00:01:47.881 --> 00:01:50.681] PICARD: I beg your pardon.
+[00:01:51.481 --> 00:01:54.601] PICARD: Doctor Timicin, allow me to present Lwaxana Troi of Betazed.
+[00:01:54.841 --> 00:01:56.041] PICARD: She's also a guest on board, and
+[00:01:56.041 --> 00:02:00.361] LWAXANA: And Daughter of The Fifth House, Holder of the Sacred Chalice of Rixx, Heir of the Holy Rings of Betazed,
+[00:02:00.361 --> 00:02:01.801] LWAXANA: and what are you doing for dinner?
+[00:02:01.801 --> 00:02:05.161] TIMICIN: Well, I don't know, really.
+[00:02:05.401 --> 00:02:08.521] PICARD: Lwaxana, we have quite a bit of work planned.
+[00:02:09.161 --> 00:02:11.721] LWAXANA: The man's never been on board a starship before, Jean-Luc.
+[00:02:12.361 --> 00:02:15.641] LWAXANA: Certainly somebody ought to make him comfortable before you get started.
+[00:02:15.641 --> 00:02:18.121] PICARD: It seems that Mrs
+[00:02:18.121 --> 00:02:21.641] PICARD: Troi is our acting ambassador of goodwill for today.
+[00:02:21.641 --> 00:02:23.881] LWAXANA: You just think of me as your Entertainment Director.
+[00:02:27.641 --> 00:02:28.681] LAFORGE: That man is in a lot of trouble.
+[00:02:55.401 --> 00:02:59.481] PICARD: Space, the final frontier.
+[00:03:01.347 --> 00:03:04.227] PICARD: These are the voyagers of the starship Enterprise.
+[00:03:05.347 --> 00:03:13.347] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:14.947 --> 00:03:17.427] PICARD: to boldly go where no one has gone
+[00:03:22.467 --> 00:03:24.467] PICARD: before.
+[00:03:47.000 --> 00:03:58.000] [music]
+[00:04:13.747 --> 00:04:16.707] LOG: Captain's Log. Stardate 44805.7.
+[00:04:17.187 --> 00:04:21.587] LOG: For generations, the people of Kaelon Two have been working to revitalise their dying sun.
+[00:04:22.227 --> 00:04:25.827] LOG: The Federation has offered to assist in testing what may be a solution to this problem.
+[00:04:26.467 --> 00:04:28.787] TIMICIN: Of course, the basic theories of helium fusion enhancement
+[00:04:28.962 --> 00:04:33.762] TIMICIN: have been discussed for over a century, but there's been no practical method of application until now.
+[00:04:34.242 --> 00:04:38.242] DATA: The modifications that you have made to the torpedo's guidance systems are remarkable, Doctor.
+[00:04:38.722 --> 00:04:40.722] TIMICIN: Well, we'll see.
+[00:04:41.442 --> 00:04:42.562] TIMICIN: They still have to be proved.
+[00:04:44.802 --> 00:04:45.922] TIMICIN: But now at least it's possible.
+[00:04:46.642 --> 00:04:49.202] TIMICIN: I'd never dared hope for such a perfect match with our own sun.
+[00:04:49.762 --> 00:04:54.882] PICARD: My only regret is that it took us three years to find a suitable sun after you had first contacted us.
+[00:04:56.562 --> 00:04:58.562] TIMICIN: We're not used to dealing with other worlds.
+[00:05:00.082 --> 00:05:02.402] TIMICIN: We're not used to asking for anything from others.
+[00:05:02.402 --> 00:05:05.922] TIMICIN: Your offer of help has given us a possible means of survival.
+[00:05:06.802 --> 00:05:11.282] TIMICIN: It has taken forty years of my life to develop the programming that will control your photon torpedoes.
+[00:05:13.362 --> 00:05:14.162] TIMICIN: It has been my life.
+[00:05:16.962 --> 00:05:18.082] TIMICIN: Thank you for this opportunity.
+[00:05:18.722 --> 00:05:22.482] TIMICIN: My only wish has been to find a way to revive our sun
+[00:05:24.242 --> 00:05:24.562] TIMICIN: before I
+[00:05:26.082 --> 00:05:28.082] TIMICIN: die.
+[00:05:31.442 --> 00:05:31.682] WORF: Mrs
+[00:05:31.762 --> 00:05:36.162] WORF: Troi, I must protest your unauthorised presence on the Bridge.
+[00:05:36.242 --> 00:05:37.922] LWAXANA: What does that little one do, Mister
+[00:05:37.922 --> 00:05:38.162] LWAXANA: Woof?
+[00:05:38.562 --> 00:05:39.121] WORF: Please, Madame!
+[00:05:39.522 --> 00:05:41.602] WORF: That is a torpedo launch initiator, and, it
+[00:05:41.682 --> 00:05:44.749] WORF: is Worf, Madame, not Woof.
+[00:05:44.749 --> 00:05:45.362] LWAXANA: Oh.
+[00:05:46.322 --> 00:05:48.082] LWAXANA: Ah, there you are, dear.
+[00:05:48.642 --> 00:05:49.362] LWAXANA: Where've you been?
+[00:05:49.362 --> 00:05:50.402] LWAXANA: I've been waiting for you.
+[00:05:52.162 --> 00:05:54.509] LWAXANA: So nice to see you again so soon.
+[00:05:54.509 --> 00:05:54.802] TIMICIN: Mrs
+[00:05:54.802 --> 00:05:55.121] TIMICIN: Troi.
+[00:05:55.842 --> 00:05:57.042] TROI: Mother, what did you want?
+[00:05:57.602 --> 00:05:57.935] LWAXANA: What?
+[00:05:57.935 --> 00:05:59.602] TROI: You were waiting for me.
+[00:05:59.842 --> 00:06:01.042] LWAXANA: Oh yes, dear, of course I was.
+[00:06:01.522 --> 00:06:02.962] LWAXANA: You really must let me do something
+[00:06:03.025 --> 00:06:05.905] LWAXANA: to relieve the tedium of all this work, work, work.
+[00:06:06.385 --> 00:06:08.065] TIMICIN: I'm afraid I'm expected in Engineering.
+[00:06:08.065 --> 00:06:09.793] TIMICIN: I'm really terribly sorry.
+[00:06:09.793 --> 00:06:10.225] RIKER: Mrs
+[00:06:10.225 --> 00:06:10.465] RIKER: Troi,
+[00:06:11.745 --> 00:06:13.265] RIKER: I have to ask you to clear the Bridge, please.
+[00:06:14.305 --> 00:06:15.265] LWAXANA: I don't see why.
+[00:06:15.265 --> 00:06:16.705] LWAXANA: There are lots of other people here.
+[00:06:17.345 --> 00:06:18.705] TROI: Mother. Please.
+[00:06:21.585 --> 00:06:22.785] LWAXANA: Well, don't you worry.
+[00:06:23.745 --> 00:06:25.425] LWAXANA: We'll just have our little chat later.
+[00:06:34.305 --> 00:06:35.905] TIMICIN: I'd never have thought her old enough to be your mother.
+[00:06:36.625 --> 00:06:37.185] TIMICIN: She is so
+[00:06:39.345 --> 00:06:39.825] TIMICIN: vibrant.
+[00:06:48.785 --> 00:06:55.665] TIMICIN: If you look at the next simulation you'll see that we need the temperature to stabilise at two hundred twenty million before there's a secondary or tertiary reaction.
+[00:06:55.665 --> 00:06:56.465] LWAXANA: Enough is enough.
+[00:06:56.465 --> 00:06:57.905] LWAXANA: Rescue is at hand.
+[00:06:58.625 --> 00:06:59.985] LWAXANA: Doctor Timicin,
+[00:06:59.985 --> 00:07:02.785] LWAXANA: would you clear all this mess from the table, please?
+[00:07:03.265 --> 00:07:04.705] LAFORGE: This mess, Mrs
+[00:07:04.785 --> 00:07:05.185] LAFORGE: Troi
+[00:07:05.185 --> 00:07:05.985] LWAXANA: Now, now, now,
+[00:07:06.465 --> 00:07:08.785] LWAXANA: you boys have been shut up in here for hours.
+[00:07:09.105 --> 00:07:11.585] LWAXANA: Now, if you don't eat something, you're going to get sick,
+[00:07:11.585 --> 00:07:13.425] LWAXANA: and who's that going to help?
+[00:07:14.865 --> 00:07:18.785] LWAXANA: I've made some perfectly marvellous Mantickian pate. Mister
+[00:07:18.865 --> 00:07:19.345] LWAXANA: Homn will
+[00:07:19.585 --> 00:07:20.625] LWAXANA: lay it out for us.
+[00:07:22.305 --> 00:07:23.505] LWAXANA: Mister
+[00:07:23.505 --> 00:07:24.625] LWAXANA: Homn is my valet.
+[00:07:24.625 --> 00:07:25.825] LWAXANA: He doesn't say much.
+[00:07:26.385 --> 00:07:27.185] LAFORGE: How can he?
+[00:07:27.825 --> 00:07:34.545] DATA: It is true that the intellectual efficiency of high order beings does diminish proportionately with the deprivation of nutritious fuel or
+[00:07:34.545 --> 00:07:35.025] LAFORGE: All right, all right.
+[00:07:35.025 --> 00:07:36.165] LAFORGE: Don't you start.
+[00:07:36.165 --> 00:07:36.545] TIMICIN: Mrs
+[00:07:36.545 --> 00:07:36.945] TIMICIN: Troi,
+[00:07:37.795 --> 00:07:38.515] TIMICIN: you're a wise woman.
+[00:07:39.795 --> 00:07:41.075] TIMICIN: I'm sure we could use a respite.
+[00:07:42.835 --> 00:07:44.435] LWAXANA: These two call me Mrs
+[00:07:44.435 --> 00:07:44.915] LWAXANA: Troi.
+[00:07:46.995 --> 00:07:48.355] LWAXANA: You call me Lwaxana.
+[00:07:50.515 --> 00:07:50.675] LWAXANA: Mister
+[00:07:50.675 --> 00:07:51.075] LWAXANA: Homn?
+[00:07:52.595 --> 00:07:53.155] LWAXANA: Spread it.
+[00:08:00.355 --> 00:08:09.395] LWAXANA: So, knowing that my daughter's starship would be passing fairly close to Betazed again, I manoeuvred a ride and here I am.
+[00:08:11.795 --> 00:08:12.595] LWAXANA: Deck eight.
+[00:08:13.155 --> 00:08:14.195] TIMICIN: I also have a grown daughter.
+[00:08:14.835 --> 00:08:15.875] TIMICIN: She has a small son of her own.
+[00:08:16.115 --> 00:08:18.995] LWAXANA: Then you're married.
+[00:08:19.875 --> 00:08:21.555] TIMICIN: My wife died quite some years ago.
+[00:08:35.635 --> 00:08:37.315] LWAXANA: You know, one thing I don't understand.
+[00:08:38.035 --> 00:08:43.155] LWAXANA: If your people have known for generations that their sun is dying, why not simply evacuate the planet?
+[00:08:44.435 --> 00:08:45.155] TIMICIN: It is our home.
+[00:08:46.675 --> 00:08:48.115] TIMICIN: It defines who we are as a people.
+[00:08:48.115 --> 00:08:50.835] TIMICIN: If Kaelon Two ceases to exist, so do we.
+[00:08:52.275 --> 00:08:53.555] LWAXANA: Then you definitely should fix it.
+[00:08:54.915 --> 00:08:56.915] TIMICIN: With the Federation's help, I hope we will.
+[00:08:57.075 --> 00:09:00.195] LWAXANA: And the Federation will be pleased to offer whatever help it can.
+[00:09:00.915 --> 00:09:00.995] LWAXANA: Would
+[00:09:02.995 --> 00:09:04.115] LWAXANA: you come in for a nightcap?
+[00:09:06.241 --> 00:09:08.929] TIMICIN: That's extremely kind of you, but
+[00:09:08.929 --> 00:09:10.721] LWAXANA: My valet sleeps elsewhere.
+[00:09:12.401 --> 00:09:12.401] TIMICIN: You are
+[00:09:14.721 --> 00:09:15.281] TIMICIN: delightful.
+[00:09:17.201 --> 00:09:17.921] TIMICIN: You make me laugh.
+[00:09:18.321 --> 00:09:22.081] TIMICIN: I mean, I don't mean your invitation makes me laugh.
+[00:09:22.081 --> 00:09:23.281] TIMICIN: I mean I took it quite seriously.
+[00:09:23.281 --> 00:09:24.049] TIMICIN: I mean
+[00:09:24.049 --> 00:09:25.201] LWAXANA: Just say yes.
+[00:09:25.921 --> 00:09:26.961] LWAXANA: I'll make you laugh some more.
+[00:09:28.881 --> 00:09:29.441] TIMICIN: I wish I could.
+[00:09:32.241 --> 00:09:33.041] TIMICIN: But I must say no.
+[00:09:33.191 --> 00:09:34.191] TIMICIN: Goodnight, Lwaxana.
+[00:09:51.441 --> 00:09:54.321] LOG: Captain's log, stardate 44807.5.
+[00:09:54.801 --> 00:09:58.561] LOG: The Enterprise has arrived at the Praxillus system, where we will conduct Doctor
+[00:09:58.561 --> 00:10:00.401] LOG: Timicin's helium ignition test.
+[00:10:03.281 --> 00:10:03.857] TROI: Mother, how much
+[00:10:03.857 --> 00:10:04.241] LWAXANA: Little one,
+[00:10:04.241 --> 00:10:07.521] LWAXANA: why do you refuse to use telepathy even when we are alone?
+[00:10:08.641 --> 00:10:09.601] TROI: We're not alone, Mother.
+[00:10:11.041 --> 00:10:12.801] TROI: Now how much longer is this going to take?
+[00:10:12.801 --> 00:10:15.121] TROI: You've been selecting for twenty minutes.
+[00:10:15.601 --> 00:10:17.761] LWAXANA: I am a woman dressing for a man.
+[00:10:18.481 --> 00:10:20.241] LWAXANA: Something you might try now and then, dear.
+[00:10:20.801 --> 00:10:22.961] LWAXANA: I wonder if Timicin likes green.
+[00:10:23.681 --> 00:10:25.441] TROI: That's not very telepathic of you.
+[00:10:26.001 --> 00:10:27.441] LWAXANA: Oh, I tried telepathy on him.
+[00:10:27.601 --> 00:10:28.721] LWAXANA: He's the wrong species.
+[00:10:29.761 --> 00:10:31.361] LWAXANA: Right species for everything else, though.
+[00:10:32.721 --> 00:10:34.161] LWAXANA: You might try that once in a while,
+[00:10:34.238 --> 00:10:34.478] LWAXANA: too.
+[00:10:36.558 --> 00:10:39.198] TROI: You know, you're not just incorrigible,
+[00:10:39.998 --> 00:10:40.958] TROI: you're insatiable.
+[00:10:42.398 --> 00:10:42.558] WORF: I have
+[00:10:47.838 --> 00:10:49.438] WORF: completed long range scans.
+[00:10:49.678 --> 00:10:51.998] WORF: There are no other life forms are present in this system.
+[00:10:52.638 --> 00:10:53.118] RIKER: Spacecraft?
+[00:10:55.438 --> 00:10:56.478] WORF: None within sensor range.
+[00:10:56.958 --> 00:10:58.638] PICARD: Picard to Engineering.
+[00:10:58.638 --> 00:10:59.998] PICARD: Mister La Forge, the system is clear.
+[00:11:01.118 --> 00:11:03.198] LAFORGE: Final pre-launch diagnostic, level five.
+[00:11:04.158 --> 00:11:05.038] TIMICIN: All systems verified.
+[00:11:05.998 --> 00:11:07.358] LAFORGE: We're ready here when you are, Captain.
+[00:11:10.398 --> 00:11:11.918] PICARD: Very well. Mister Worf?
+[00:11:13.758 --> 00:11:14.798] WORF: Photon torpedoes armed
+[00:11:16.318 --> 00:11:16.878] WORF: and targeted.
+[00:11:18.078 --> 00:11:18.878] PICARD: Fire in sequence.
+[00:11:23.918 --> 00:11:26.718] WORF: First volley released.
+[00:11:27.438 --> 00:11:28.238] DATA: Tracking torpedoes.
+[00:11:28.958 --> 00:11:30.158] DATA: Entry programme confirmed.
+[00:11:31.198 --> 00:11:32.078] WORF: Second volley released.
+[00:11:42.238 --> 00:11:43.998] LAFORGE: Torpedoes now entering the stellar core.
+[00:11:44.158 --> 00:11:44.878] TIMICIN: Their shields are holding.
+[00:11:45.038 --> 00:11:45.918] TIMICIN: Guidance systems normal.
+[00:11:46.558 --> 00:11:47.758] LAFORGE: Ignition sequence,
+[00:11:47.918 --> 00:11:48.878] LAFORGE: six seconds
+[00:11:49.598 --> 00:11:50.398] LAFORGE: Five seconds.
+[00:11:51.358 --> 00:11:51.678] LAFORGE: Four.
+[00:11:52.718 --> 00:11:53.678] LAFORGE: Three seconds.
+[00:11:54.798 --> 00:11:55.198] LAFORGE: Now.
+[00:12:01.598 --> 00:12:04.078] LAFORGE: Shock wave patterns within predicted range.
+[00:12:04.318 --> 00:12:07.038] LAFORGE: Seventeen hundred percent rise in gamma radiation levels.
+[00:12:07.624 --> 00:12:10.024] LAFORGE: Helium fusion rate increasing.
+[00:12:10.424 --> 00:12:11.704] TIMICIN: What about heat and pressure levels?
+[00:12:12.424 --> 00:12:13.384] LAFORGE: Steady so far.
+[00:12:13.544 --> 00:12:15.944] LAFORGE: Density at eleven hundred grams per cubic centimetre.
+[00:12:16.584 --> 00:12:19.304] LAFORGE: Temperature approaching sixty million degrees Kelvin.
+[00:12:19.384 --> 00:12:21.064] TIMICIN: We want it to stabilise at two hundred and twenty million.
+[00:12:21.784 --> 00:12:23.384] DATA: Pressure wave harmonics dispersing.
+[00:12:24.024 --> 00:12:27.624] DATA: Temperature in target zone increasing to eighty one million degrees, sir.
+[00:12:29.224 --> 00:12:29.864] LAFORGE: Still rising.
+[00:12:30.904 --> 00:12:35.624] LAFORGE: Temperature at ninety million degrees Kelvin. And now one hundred ten million.
+[00:12:37.224 --> 00:12:37.624] LAFORGE: Looking good.
+[00:12:39.944 --> 00:12:41.864] LAFORGE: One hundred thirty seven.
+[00:12:41.864 --> 00:12:44.184] DATA: Radiation and pressure levels still stable.
+[00:12:44.664 --> 00:12:47.304] LAFORGE: Temperature is one hundred and seventy million degrees Kelvin.
+[00:12:48.504 --> 00:12:51.784] LAFORGE: One ninety. And now two hundred million.
+[00:12:52.424 --> 00:12:52.984] TIMICIN: It's happening.
+[00:13:00.424 --> 00:13:02.744] LAFORGE: Two oh seven and rising.
+[00:13:04.184 --> 00:13:04.904] LAFORGE: Two nineteen. And twenty. Two
+[00:13:05.864 --> 00:13:08.264] LAFORGE: twenty. And holding.
+[00:13:09.784 --> 00:13:11.784] LAFORGE: Looks
+[00:13:14.744 --> 00:13:16.584] LAFORGE: like congratulations may be in order.
+[00:13:22.104 --> 00:13:22.504] PICARD: Mister Data?
+[00:13:23.144 --> 00:13:25.224] DATA: Turbulence patterns are within predicted parameters.
+[00:13:25.224 --> 00:13:25.704] LAFORGE: Two
+[00:13:36.862 --> 00:13:37.022] LAFORGE: twenty two.
+[00:13:40.382 --> 00:13:42.222] DATA: Temperature is rising in the core again, Captain.
+[00:13:43.022 --> 00:13:44.942] DATA: Two hundred and thirty million degrees Kelvin.
+[00:13:46.062 --> 00:13:47.182] LAFORGE: Still rising, Captain.
+[00:13:47.902 --> 00:13:48.862] LAFORGE: Two fifty one.
+[00:13:48.862 --> 00:13:49.022] DATA: Rate
+[00:13:51.262 --> 00:13:52.382] DATA: exceeding critical level.
+[00:13:52.782 --> 00:13:54.382] DATA: Core density is becoming unstable.
+[00:13:54.622 --> 00:13:55.662] RIKER: Let's get the hell out of here.
+[00:13:55.822 --> 00:13:57.022] PICARD: Ensign, warp two now!
+[00:14:06.222 --> 00:14:06.622] LAFORGE: Sorry.
+[00:14:13.982 --> 00:14:14.622] TIMICIN: Captain Picard?
+[00:14:15.822 --> 00:14:16.169] PICARD: Doctor?
+[00:14:16.169 --> 00:14:19.982] TIMICIN: Permit me to express my appreciation to you and your crew.
+[00:14:21.102 --> 00:14:21.982] TIMICIN: I am most grateful.
+[00:14:24.462 --> 00:14:25.262] TIMICIN: Most grateful.
+[00:14:30.382 --> 00:14:32.142] PICARD: Ensign, lay in a course for Kaelon Two.
+[00:14:33.422 --> 00:14:34.302] PICARD: Warp factor five.
+[00:14:35.022 --> 00:14:35.262] ENSIGN: Aye, sir.
+[00:14:54.782 --> 00:14:55.902] LWAXANA: I'm so sorry, Timicin.
+[00:15:04.062 --> 00:15:07.582] LWAXANA: I had one of those named after me once.
+[00:15:08.062 --> 00:15:10.142] LWAXANA: Brilliant young astronomer from Rigel Four.
+[00:15:11.881 --> 00:15:13.401] LWAXANA: Of course,
+[00:15:13.801 --> 00:15:16.601] LWAXANA: I sparkled a bit myself in those days.
+[00:15:17.961 --> 00:15:19.801] LWAXANA: You see, that's called fishing for a compliment.
+[00:15:19.801 --> 00:15:21.321] LWAXANA: You're supposed to tell me I still sparkle.
+[00:15:26.201 --> 00:15:27.321] LWAXANA: I'm sorry, I'm not helping, am I?
+[00:15:27.881 --> 00:15:28.521] TIMICIN: You're very kind.
+[00:15:29.641 --> 00:15:31.481] TIMICIN: I'm just not adequate company right now.
+[00:15:32.441 --> 00:15:33.081] LWAXANA: Oh, that's all right,
+[00:15:33.161 --> 00:15:34.921] LWAXANA: I can make enough conversation for both of us.
+[00:15:35.001 --> 00:15:35.081] LWAXANA: I'll
+[00:15:40.521 --> 00:15:41.001] LWAXANA: leave you alone.
+[00:15:41.161 --> 00:15:41.241] TIMICIN: No.
+[00:15:42.921 --> 00:15:43.241] TIMICIN: Please stay.
+[00:15:47.161 --> 00:15:49.481] TIMICIN: I wanted to tell you how much I wish we had met
+[00:15:51.081 --> 00:15:51.561] TIMICIN: years ago.
+[00:15:53.721 --> 00:15:55.241] LWAXANA: What difference do a few years make?
+[00:15:58.201 --> 00:15:59.401] TIMICIN: Unfortunately, a great deal.
+[00:16:01.321 --> 00:16:07.321] TIMICIN: You see, Lwaxana, I'm on my way home now to die.
+[00:16:19.161 --> 00:16:21.961] LOG: Captain's log, stardate 44812.6.
+[00:16:22.521 --> 00:16:26.841] LOG: We have returned to Kaelon Two, and established contact with Science Minister B'tardat.
+[00:16:28.041 --> 00:16:31.241] PICARD: The experiment achieved a stable core temperature for a short time, Minister.
+[00:16:31.401 --> 00:16:32.761] PICARD: That's a significant step forward.
+[00:16:33.161 --> 00:16:37.401] RIKER: We've been studying the sensor logs and the torpedo telemetry to determine if there was any malfunction.
+[00:16:37.401 --> 00:16:38.121] RIKER: If there was,
+[00:16:38.367 --> 00:16:40.047] RIKER: and we are able to isolate the problem,
+[00:16:40.047 --> 00:16:41.407] RIKER: another test might be successful.
+[00:16:41.887 --> 00:16:45.087] RIKER: In the meantime, all of our facilities would be made available to Doctor
+[00:16:45.087 --> 00:16:45.567] RIKER: Timicin.
+[00:16:45.967 --> 00:16:52.927] B'TARDAT: A most thoughtful and generous offer, but Timicin has obligations at home. And it would take us some time to select a replacement.
+[00:16:55.727 --> 00:16:57.887] PICARD: We would be more than willing to extend our visit, sir.
+[00:16:57.887 --> 00:16:59.887] B'TARDAT: That will not be necessary.
+[00:17:00.607 --> 00:17:01.887] B'TARDAT: We'll contact you as soon as we're ready.
+[00:17:02.847 --> 00:17:05.327] B'TARDAT: We expect Timicin to return home as soon as possible.
+[00:17:06.367 --> 00:17:08.287] B'TARDAT: And again, gentlemen, many thanks.
+[00:17:13.487 --> 00:17:13.807] PICARD: Come.
+[00:17:18.287 --> 00:17:21.407] LWAXANA: Are you aware these people you are so graciously helping are murderers?
+[00:17:22.687 --> 00:17:23.327] PICARD: I beg your pardon?
+[00:17:23.887 --> 00:17:33.327] LWAXANA: Well the next thing to it. When a person on this benighted little planet reaches the age of sixty, which Timicin is about to do, they're expected to simply kill themselves.
+[00:17:33.407 --> 00:17:33.967] LWAXANA: Did you know that?
+[00:17:35.967 --> 00:17:36.367] PICARD: Mister Data?
+[00:17:37.247 --> 00:17:41.327] DATA: The people of Kaelon Two are isolationists, almost to the point of being xenophobes.
+[00:17:41.807 --> 00:17:43.967] DATA: Regrettably, we know very little about their customs.
+[00:17:44.367 --> 00:17:53.247] LWAXANA: Well, I know. Timicin himself just told me. He is supposed to go down there, to his loving friends, be wined, dined, honoured for his achievements and then kill himself.
+[00:17:53.967 --> 00:17:55.327] LWAXANA: It's a barbaric ritual.
+[00:17:55.807 --> 00:17:57.967] LWAXANA: The Resolution, it's called.
+[00:17:58.527 --> 00:18:00.287] LWAXANA: Obviously, you can't let him go, Jean-Luc.
+[00:18:00.287 --> 00:18:02.607] PICARD: I'm afraid I have no choice.
+[00:18:03.807 --> 00:18:05.327] LWAXANA: I don't think you've been listening to me.
+[00:18:07.167 --> 00:18:08.927] LWAXANA: The man is supposed to kill himself.
+[00:18:10.607 --> 00:18:11.967] LWAXANA: You don't just let that happen.
+[00:18:12.685 --> 00:18:13.645] LWAXANA: You don't just turn your back.
+[00:18:13.725 --> 00:18:14.992] LWAXANA: What's the matter with you!
+[00:18:14.992 --> 00:18:15.245] PICARD: Lwaxana,
+[00:18:15.245 --> 00:18:19.245] PICARD: I'm sorry, but whatever my personal feelings, I have no jurisdiction here.
+[00:18:19.245 --> 00:18:20.525] PICARD: I simply cannot interfere.
+[00:18:21.645 --> 00:18:22.525] LWAXANA: But you have to.
+[00:18:23.725 --> 00:18:27.165] LWAXANA: In a situation like this, you absolutely have to interfere.
+[00:18:27.645 --> 00:18:31.165] LWAXANA: You've got to go down there and talk to those people, Jean Luc.
+[00:18:31.565 --> 00:18:33.165] LWAXANA: Open their eyes, educate them.
+[00:18:33.805 --> 00:18:38.125] PICARD: The Prime Directive forbids us to interfere with the social order of any planet.
+[00:18:40.285 --> 00:18:42.925] LWAXANA: Well, that's your Prime Directive, not mine!
+[00:18:48.845 --> 00:18:50.445] PICARD: Computer, locate Counsellor Troi.
+[00:18:52.045 --> 00:18:54.045] LWAXANA: What
+[00:18:55.565 --> 00:18:59.085] LWAXANA: do you mean, I can't go down there?
+[00:18:59.245 --> 00:19:01.738] LWAXANA: Are you telling me that I'm a prisoner on this ship?
+[00:19:01.738 --> 00:19:01.965] TROI: Mother?
+[00:19:01.965 --> 00:19:02.685] TROI: What's going on?
+[00:19:03.485 --> 00:19:04.285] TROI: What are you doing?
+[00:19:04.525 --> 00:19:05.485] O'BRIEN: I'm sorry, Counsellor,
+[00:19:05.485 --> 00:19:06.605] O'BRIEN: I'm not sure what to do here.
+[00:19:07.085 --> 00:19:08.045] LWAXANA: Well, I am sure!
+[00:19:08.365 --> 00:19:09.965] LWAXANA: I am a Betazoid ambassador.
+[00:19:10.045 --> 00:19:13.485] LWAXANA: I'm a Daughter of the Fifth House, and those people are going to answer to me!
+[00:19:13.565 --> 00:19:16.765] LWAXANA: So you just energise this damned thing and get me down there!
+[00:19:17.405 --> 00:19:18.285] TROI: He can't, Mother.
+[00:19:18.525 --> 00:19:19.645] TROI: He has his orders.
+[00:19:20.045 --> 00:19:21.485] LWAXANA: His orders don't apply to me.
+[00:19:22.045 --> 00:19:23.645] TROI: No, they apply to him.
+[00:19:24.125 --> 00:19:28.125] LWAXANA: Don't you try your professional patronising on me, young lady.
+[00:19:29.325 --> 00:19:31.085] LWAXANA: They expect Timicin to die,
+[00:19:31.085 --> 00:19:32.285] LWAXANA: don't you realise that?
+[00:19:32.685 --> 00:19:36.125] LWAXANA: Just because he's sixty! What's sixty?
+[00:19:37.005 --> 00:19:39.165] LWAXANA: It's nothing.
+[00:19:41.485 --> 00:19:43.645] O'BRIEN: I'll go check the pattern buffers.
+[00:19:49.265 --> 00:19:49.905] TROI: Come on, Mother,
+[00:19:50.625 --> 00:19:51.345] TROI: let's sit down.
+[00:19:53.905 --> 00:19:54.785] LWAXANA: I'm sorry,
+[00:19:54.785 --> 00:19:55.265] LWAXANA: little
+[00:19:56.225 --> 00:19:58.145] LWAXANA: one. I don't know what's wrong with me.
+[00:19:59.425 --> 00:20:00.385] LWAXANA: I'm sorry.
+[00:20:01.105 --> 00:20:01.985] TROI: There's no need to be.
+[00:20:02.945 --> 00:20:03.825] LWAXANA: But I'm crying.
+[00:20:05.105 --> 00:20:05.985] LWAXANA: I don't cry.
+[00:20:06.465 --> 00:20:08.545] TROI: You cried when father died.
+[00:20:12.385 --> 00:20:13.185] LWAXANA: You remember that?
+[00:20:14.225 --> 00:20:15.025] TROI: Of course I remember.
+[00:20:16.545 --> 00:20:17.345] TROI: We both cried.
+[00:20:19.185 --> 00:20:20.785] LWAXANA: But this isn't the same.
+[00:20:23.585 --> 00:20:23.985] LWAXANA: Is it?
+[00:20:25.185 --> 00:20:25.745] TROI: What do you think?
+[00:20:26.545 --> 00:20:28.465] LWAXANA: I
+[00:20:30.305 --> 00:20:32.385] LWAXANA: don't know.
+[00:20:32.385 --> 00:20:39.905] LWAXANA: I just can't accept that fate will allow me to meet him like this and then take him away.
+[00:20:41.985 --> 00:20:43.185] LWAXANA: I mean, he's not ill.
+[00:20:43.665 --> 00:20:45.665] LWAXANA: He hasn't had a tragic accident.
+[00:20:46.785 --> 00:20:52.065] LWAXANA: He's just going to die, and for no good reason.
+[00:20:55.025 --> 00:21:01.665] LWAXANA: Because his society has decided that he's too old, so they just dispose of him
+[00:21:04.865 --> 00:21:10.705] LWAXANA: as though his life no longer had value or meaning.
+[00:21:13.025 --> 00:21:15.745] LWAXANA: You can't possibly understand at your age, but at
+[00:21:18.135 --> 00:21:18.135] LWAXANA: mine,
+[00:21:21.815 --> 00:21:27.415] LWAXANA: sometimes you feel tired and afraid.
+[00:21:29.575 --> 00:21:30.855] TROI: You're feeling very vulnerable.
+[00:21:32.615 --> 00:21:34.615] TROI: Very mortal, if I may say so.
+[00:21:35.575 --> 00:21:38.215] TROI: I know you, Mother,
+[00:21:40.215 --> 00:21:46.215] TROI: and believe me, you will never be one of those who dies before they die.
+[00:21:57.495 --> 00:21:57.735] TIMICIN: Come in.
+[00:22:06.695 --> 00:22:08.935] TIMICIN: I've been studying the preliminary reports of the test.
+[00:22:10.535 --> 00:22:12.375] TIMICIN: I don't understand where I went wrong.
+[00:22:12.375 --> 00:22:12.455] TIMICIN: I
+[00:22:13.975 --> 00:22:18.215] TIMICIN: thought I'd taken into account all of the variables. Deep convection patterns,
+[00:22:19.735 --> 00:22:21.895] TIMICIN: proton reactions, neutrino count.
+[00:22:24.695 --> 00:22:26.695] TIMICIN: I
+[00:22:30.055 --> 00:22:30.775] TIMICIN: will say it again.
+[00:22:30.935 --> 00:22:31.735] TIMICIN: You are a kind woman.
+[00:22:34.295 --> 00:22:35.575] LWAXANA: No, no, I'm a hateful woman.
+[00:22:38.215 --> 00:22:39.335] LWAXANA: I hate what you're going to do, and
+[00:22:41.095 --> 00:22:42.215] LWAXANA: I hate you for doing it.
+[00:22:45.095 --> 00:22:46.295] TIMICIN: It is the way of my world.
+[00:22:48.401 --> 00:22:48.950] TIMICIN: I wish you could accept that.
+[00:22:48.950 --> 00:22:49.041] LWAXANA: I
+[00:22:51.921 --> 00:22:52.481] LWAXANA: never will.
+[00:22:54.321 --> 00:22:54.641] LWAXANA: Never.
+[00:23:20.321 --> 00:23:21.361] TIMICIN: How long have you been sitting there?
+[00:23:23.201 --> 00:23:25.601] LWAXANA: I don't know. A minute. An hour.
+[00:23:28.001 --> 00:23:28.561] TIMICIN: Lwaxana
+[00:23:28.561 --> 00:23:29.201] LWAXANA: Do you want anything?
+[00:23:29.921 --> 00:23:30.401] LWAXANA: Some tea?
+[00:23:31.521 --> 00:23:32.481] TIMICIN: I want to explain.
+[00:23:34.481 --> 00:23:34.961] TIMICIN: I want
+[00:23:36.961 --> 00:23:39.841] TIMICIN: very much for you to understand.
+[00:23:42.161 --> 00:23:45.121] TIMICIN: Fifteen or twenty centuries ago, we had no Resolution.
+[00:23:46.801 --> 00:23:50.481] TIMICIN: We had no such concern for our elders. As people aged,
+[00:23:50.561 --> 00:23:52.641] TIMICIN: their health failed,
+[00:23:53.121 --> 00:24:04.641] TIMICIN: they became invalids. Those whose families could no longer care for them were put away in deathwatch facilities, where they waited in loneliness for the end to come,
+[00:24:04.721 --> 00:24:05.281] TIMICIN: sometimes
+[00:24:06.881 --> 00:24:07.681] TIMICIN: for years.
+[00:24:09.681 --> 00:24:16.081] TIMICIN: They had meant something, and they were forced to live beyond that,
+[00:24:16.936 --> 00:24:27.816] TIMICIN: into a time of meaning nothing, of knowing they could now only be the beneficiaries of younger people's patience.
+[00:24:29.736 --> 00:24:32.776] TIMICIN: We are no longer that cruel, Lwaxana.
+[00:24:34.216 --> 00:24:35.416] LWAXANA: No, no, you're not cruel to them.
+[00:24:35.416 --> 00:24:36.296] LWAXANA: You just kill them.
+[00:24:37.976 --> 00:24:39.896] TIMICIN: The Resolution is a celebration of life.
+[00:24:39.896 --> 00:24:41.816] TIMICIN: It allows us to end our lives with dignity.
+[00:24:42.376 --> 00:24:45.976] LWAXANA: A celebration of life. It sounds very noble, very caring.
+[00:24:47.016 --> 00:24:50.216] LWAXANA: What you're really saying is you got rid of the problem by getting rid of the people.
+[00:24:51.736 --> 00:24:55.896] TIMICIN: It may sound that way, but it is a time of transition.
+[00:24:56.776 --> 00:25:00.456] TIMICIN: One generation passing on the responsibilities of life to the next.
+[00:25:01.896 --> 00:25:04.456] LWAXANA: What about the responsibility of caring of the elderly?
+[00:25:07.736 --> 00:25:09.896] TIMICIN: That would place a dreadful burden on the children.
+[00:25:11.976 --> 00:25:12.776] LWAXANA: We raise them,
+[00:25:12.776 --> 00:25:13.736] LWAXANA: we care for them,
+[00:25:13.976 --> 00:25:14.936] LWAXANA: we suffer for them.
+[00:25:14.936 --> 00:25:16.776] LWAXANA: We keep them from harm their whole lives.
+[00:25:17.256 --> 00:25:19.976] LWAXANA: Eventually, it's their turn to take care of us.
+[00:25:20.296 --> 00:25:23.496] TIMICIN: No parent should expect to be paid back for the love they've given their children.
+[00:25:23.976 --> 00:25:25.496] LWAXANA: Well why the hell not?
+[00:25:27.016 --> 00:25:27.656] LWAXANA: Oskoids.
+[00:25:32.776 --> 00:25:35.016] TIMICIN: What's that?
+[00:25:36.216 --> 00:25:37.896] LWAXANA: Oskoids. A Betazed delicacy.
+[00:25:38.856 --> 00:25:39.576] TIMICIN: Looks very interesting.
+[00:25:40.616 --> 00:25:42.136] LWAXANA: You should have tried it while you were still alive.
+[00:25:42.136 --> 00:25:43.256] LWAXANA: No reason to bother now.
+[00:25:45.736 --> 00:25:46.696] LWAXANA: Why sixty?
+[00:25:46.696 --> 00:25:47.976] LWAXANA: Why not sixty two,
+[00:25:48.056 --> 00:25:48.616] LWAXANA: or fifty
+[00:25:49.016 --> 00:25:49.166] LWAXANA: eight?
+[00:25:49.166 --> 00:25:50.216] TIMICIN: A reasonable age had to be set.
+[00:25:50.315 --> 00:25:51.275] LWAXANA: But it's not reasonable.
+[00:25:51.515 --> 00:25:53.115] LWAXANA: Certainly not in your case.
+[00:25:54.075 --> 00:25:56.635] LWAXANA: You're as vital and healthy a man as I've ever known.
+[00:25:56.635 --> 00:26:06.075] TIMICIN: That is why I wish to say goodbye to my family and colleagues while I am this way, in complete command of my faculties, knowing they will always remember me as a strong and vigorous man.
+[00:26:06.555 --> 00:26:08.555] LWAXANA: But it makes no sense.
+[00:26:09.115 --> 00:26:14.555] LWAXANA: Some of your people could still be active at seventy or eighty, and others might be seriously ill at fifty.
+[00:26:15.035 --> 00:26:17.675] LWAXANA: How cruel of you to make them wait so long to commit suicide.
+[00:26:17.835 --> 00:26:25.835] TIMICIN: Setting a standard age for the Resolution makes it uniform for everybody. To ask individual families to decide when their elders are to die,
+[00:26:25.835 --> 00:26:27.355] TIMICIN: that would be heartless.
+[00:26:27.675 --> 00:26:28.395] LWAXANA: I agree.
+[00:26:29.035 --> 00:26:31.035] LWAXANA: Why not let everybody die when they die.
+[00:26:31.915 --> 00:26:32.315] TIMICIN: Lwaxana.
+[00:26:32.315 --> 00:26:33.915] LWAXANA: You have a grandson,
+[00:26:33.915 --> 00:26:34.315] LWAXANA: you said.
+[00:26:35.595 --> 00:26:36.235] TIMICIN: Yes,
+[00:26:36.955 --> 00:26:37.915] TIMICIN: almost seven.
+[00:26:38.635 --> 00:26:41.115] LWAXANA: Well, wouldn't it be better for him to know his grandfather?
+[00:26:41.915 --> 00:26:48.955] LWAXANA: Not some vague memory of someone who once loved him, but a real living person who does love him.
+[00:26:50.155 --> 00:26:51.675] LWAXANA: Don't you really think that would be better?
+[00:26:54.875 --> 00:26:58.235] TIMICIN: I attended the Resolution of my parents when it was their time.
+[00:27:01.115 --> 00:27:01.995] TIMICIN: It was beautiful.
+[00:27:03.755 --> 00:27:08.475] TIMICIN: Lwaxana, this is a custom I've known and accepted all my life.
+[00:27:10.475 --> 00:27:15.595] LWAXANA: The women of Betazed used to wear these enormous wigs with large holes in the cenre for tiny caged animals.
+[00:27:16.155 --> 00:27:16.475] TIMICIN: Yes.
+[00:27:17.598 --> 00:27:19.038] LWAXANA: First, it was a fashion.
+[00:27:19.918 --> 00:27:22.878] LWAXANA: Then it went on long enough to become a custom, a tradition.
+[00:27:24.078 --> 00:27:27.038] LWAXANA: But it was uncomfortable for the woman and cruel to the animal.
+[00:27:28.318 --> 00:27:34.718] LWAXANA: So then one day, one very formidable woman finally said so, refused ever to wear another of those wigs.
+[00:27:36.718 --> 00:27:38.478] LWAXANA: fairly soon the custom stopped.
+[00:27:39.998 --> 00:27:43.598] LWAXANA: She had the courage to stand up and fight for change.
+[00:27:46.078 --> 00:27:48.567] TIMICIN: She must have been a lot like you.
+[00:27:48.567 --> 00:27:48.878] LWAXANA: Timicin,
+[00:27:49.358 --> 00:27:53.918] LWAXANA: there is no one more qualified, more experienced, or more likely to save their planet than you.
+[00:27:54.798 --> 00:27:56.158] LWAXANA: And they would have you kill yourself.
+[00:27:56.318 --> 00:27:58.558] TIMICIN: Younger scientists will take my place.
+[00:27:59.198 --> 00:27:59.518] TIMICIN: My work,
+[00:28:01.598 --> 00:28:02.958] TIMICIN: the work will continue.
+[00:28:03.838 --> 00:28:06.238] LWAXANA: Your planet has what, thirty, forty years left?
+[00:28:06.718 --> 00:28:09.598] LWAXANA: What if your scientists can't find the answer without you?
+[00:28:09.918 --> 00:28:10.478] LWAXANA: What then?
+[00:28:10.638 --> 00:28:14.158] LWAXANA: What chance do you think your grandson has of reaching the age of sixty?
+[00:28:14.158 --> 00:28:15.358] TIMICIN: Enough, please.
+[00:28:16.638 --> 00:28:19.198] TIMICIN: It is my time, Lwaxana, and
+[00:28:21.358 --> 00:28:22.798] TIMICIN: that is the way
+[00:28:23.518 --> 00:28:24.318] TIMICIN: it is.
+[00:28:30.478 --> 00:28:31.518] LWAXANA: If that's the way it is,
+[00:28:31.518 --> 00:28:34.078] LWAXANA: I don't know why anyone's bothering to try to save your world at all.
+[00:28:35.678 --> 00:28:36.958] LWAXANA: If its time has come, let it die.
+[00:28:41.438 --> 00:28:42.638] LWAXANA: Where's the difference, Timicin?
+[00:28:43.758 --> 00:28:44.078] LWAXANA: Where?
+[00:28:54.329 --> 00:28:56.329] TIMICIN: Convection boundary uncoupling.
+[00:28:57.689 --> 00:29:01.769] TIMICIN: The reaction caused gas turbulence of a totally unexpected magnitude.
+[00:29:02.329 --> 00:29:02.489] TIMICIN: Why?
+[00:29:04.089 --> 00:29:06.089] DATA: There was a evidence of a delayed surface shock.
+[00:29:06.089 --> 00:29:07.049] TIMICIN: No, I'd anticipated
+[00:29:09.289 --> 00:29:09.369] TIMICIN: that.
+[00:29:09.369 --> 00:29:11.449] TIMICIN: I thought I'd anticipated all possible variables,
+[00:29:11.449 --> 00:29:18.169] TIMICIN: but stars, they're like living entities in a way. Quite unpredictable.
+[00:29:20.169 --> 00:29:23.129] TIMICIN: You know,
+[00:29:24.729 --> 00:29:27.689] TIMICIN: I wouldn't be at all surprised if this were the result of.
+[00:29:29.369 --> 00:29:31.609] TIMICIN: Look here.
+[00:29:32.489 --> 00:29:39.529] TIMICIN: Forty two seconds into the test, there is a sudden rise in the level of hydrogen alpha emissions. And here, here's another.
+[00:29:39.769 --> 00:29:40.249] TIMICIN: I'm right, aren't I?
+[00:29:42.009 --> 00:29:46.329] TIMICIN: There had to be neutron migration within the star's inner core as the reaction grew.
+[00:29:47.049 --> 00:29:51.369] DATA: Perhaps, Doctor, but there is no known method for controlling a neutron migration.
+[00:29:51.369 --> 00:29:53.369] TIMICIN: Yes, yes, but theoretically it is possible.
+[00:29:54.169 --> 00:30:02.249] TIMICIN: Using these test results, we could construct a new computer model of the energy dynamics of a star that can test a new detonation programme.
+[00:30:02.399 --> 00:30:02.999] TIMICIN: I'm
+[00:30:03.929 --> 00:30:05.209] TIMICIN: certain it can be accomplished.
+[00:30:05.929 --> 00:30:06.329] TIMICIN: Certain.
+[00:30:07.289 --> 00:30:08.169] TIMICIN: It's just a matter of time.
+[00:30:08.319 --> 00:30:08.919] TIMICIN: A
+[00:30:11.689 --> 00:30:12.089] TIMICIN: matter
+[00:30:14.969 --> 00:30:15.129] TIMICIN: of
+[00:30:16.729 --> 00:30:18.729] TIMICIN: time.
+[00:30:18.729 --> 00:30:18.969] PICARD: Come.
+[00:30:21.201 --> 00:30:21.601] PICARD: Timicin.
+[00:30:23.681 --> 00:30:25.991] PICARD: Time for you to leave us, then?
+[00:30:25.991 --> 00:30:26.321] TIMICIN: Captain,
+[00:30:26.321 --> 00:30:26.401] TIMICIN: I
+[00:30:28.401 --> 00:30:30.241] TIMICIN: have come to officially request
+[00:30:32.801 --> 00:30:34.561] TIMICIN: asylum aboard The Enterprise.
+[00:30:46.641 --> 00:30:48.241] B'TARDAT: Timicin, I cannot believe this.
+[00:30:49.041 --> 00:30:49.681] B'TARDAT: Why asylum?
+[00:30:50.161 --> 00:30:50.961] B'TARDAT: Asylum from what?
+[00:30:51.761 --> 00:30:53.281] TIMICIN: I turn sixty in four days, Minister.
+[00:30:53.761 --> 00:30:57.201] B'TARDAT: Yes, and your family and colleagues are already gathering for your Resolution.
+[00:30:58.481 --> 00:31:05.041] TIMICIN: I believe that it is time for us to re-examine, as a people, the wisdom of The Resolution.
+[00:31:07.761 --> 00:31:08.881] B'TARDAT: Are they forcing you into this?
+[00:31:09.441 --> 00:31:10.321] B'TARDAT: Are you being coerced?
+[00:31:11.201 --> 00:31:13.441] TIMICIN: Influenced, perhaps. Coerced,
+[00:31:13.601 --> 00:31:13.761] TIMICIN: no.
+[00:31:14.961 --> 00:31:17.681] PICARD: Our only influence, Minister, is by example.
+[00:31:18.641 --> 00:31:20.721] PICARD: Timicin's decision is his own free will,
+[00:31:20.721 --> 00:31:21.201] PICARD: I assure you.
+[00:31:22.081 --> 00:31:26.881] B'TARDAT: I cannot believe that a man of Timicin's stature would freely choose to reject his own culture.
+[00:31:27.361 --> 00:31:29.761] TIMICIN: No one on Kaelon Two understands this project as I do.
+[00:31:30.561 --> 00:31:33.761] TIMICIN: There are new theories that would take others a decade to test and confirm.
+[00:31:33.761 --> 00:31:35.441] TIMICIN: With my guidance, it can be done in half that time.
+[00:31:35.441 --> 00:31:36.641] TIMICIN: I must finish my work.
+[00:31:37.281 --> 00:31:38.241] B'TARDAT: Others started your work,
+[00:31:38.321 --> 00:31:39.121] B'TARDAT: others will finish it.
+[00:31:39.601 --> 00:31:40.801] B'TARDAT: It's always been this way.
+[00:31:40.961 --> 00:31:41.601] B'TARDAT: It always will.
+[00:31:42.801 --> 00:31:44.401] RIKER: Captain, scanners indicate
+[00:31:44.405 --> 00:31:46.965] RIKER: two Kaelon warships rising on an intercept course.
+[00:31:48.245 --> 00:31:48.965] PICARD: Acknowledged, Commander.
+[00:31:50.245 --> 00:31:53.525] PICARD: Minister, we're here in friendship, hoping to provide assistance.
+[00:31:53.925 --> 00:31:55.365] B'TARDAT: You have helped quite enough, Captain.
+[00:31:56.005 --> 00:31:58.085] B'TARDAT: I suggest you return Timicin and depart.
+[00:31:58.805 --> 00:32:02.965] B'TARDAT: If you attempt to leave orbit with Timicin on board, our ships have been ordered to open fire.
+[00:32:03.605 --> 00:32:05.925] TIMICIN: B'tardat, there's no purpose at all in letting this become It
+[00:32:14.005 --> 00:32:14.645] TIMICIN: shouldn't have happened.
+[00:32:16.085 --> 00:32:16.965] TIMICIN: I've handled this poorly.
+[00:32:18.325 --> 00:32:20.085] PICARD: You acted in good conscience, Doctor.
+[00:32:20.085 --> 00:32:21.525] PICARD: I don't see what else you could have done.
+[00:32:23.205 --> 00:32:24.005] TIMICIN: I could have let well enough alone.
+[00:32:24.725 --> 00:32:26.405] TIMICIN: I could have returned home.
+[00:32:30.085 --> 00:32:31.765] TIMICIN: What do you think, Captain?
+[00:32:31.765 --> 00:32:34.485] TIMICIN: Have I done the right thing?
+[00:32:37.685 --> 00:32:39.445] PICARD: I'm afraid you're the only one who can answer that.
+[00:32:44.085 --> 00:32:44.885] TIMICIN: Lwaxana
+[00:32:47.445 --> 00:32:48.645] TIMICIN: would have me lead a revolt.
+[00:32:50.885 --> 00:32:52.405] TIMICIN: I'm only a scientist.
+[00:32:52.405 --> 00:32:52.725] TIMICIN: I
+[00:32:54.485 --> 00:32:55.445] TIMICIN: wish I had her strength.
+[00:32:56.885 --> 00:32:59.445] TIMICIN: She is a woman of extraordinary conviction, isn't she?
+[00:32:59.445 --> 00:33:01.605] PICARD: Isn't she.
+[00:33:07.045 --> 00:33:10.085] PICARD: Any communication, Number One?
+[00:33:10.245 --> 00:33:11.285] RIKER: No, sir. We have an open channel.
+[00:33:12.085 --> 00:33:14.485] WORF: The warships are taking a standard attack posture.
+[00:33:14.725 --> 00:33:16.965] WORF: Staggered approach vectors, within weapons range.
+[00:33:17.365 --> 00:33:18.325] PICARD: Shields up. Red alert.
+[00:33:18.325 --> 00:33:18.565] TIMICIN: Captain.
+[00:33:19.134 --> 00:33:20.814] PICARD: Doctor, I suggest that you return to your quarters.
+[00:33:20.894 --> 00:33:23.214] TIMICIN: I don't want there to be any bloodshed because of my decision.
+[00:33:23.454 --> 00:33:25.134] CRUSHER: They will be doing everything they can to avoid it.
+[00:33:25.134 --> 00:33:26.654] CRUSHER: I think we should get out of their way now.
+[00:33:26.894 --> 00:33:27.794] TIMICIN: Yes. Yes, of course. I understand.
+[00:33:27.794 --> 00:33:28.094] PICARD: Mister Worf,
+[00:33:29.774 --> 00:33:32.094] PICARD: ascertain their offensive potential.
+[00:33:32.414 --> 00:33:32.814] WORF: Aye, sir.
+[00:33:39.854 --> 00:33:42.654] TIMICIN: We must transmit the new analysis of the neutron migration immediately.
+[00:33:42.654 --> 00:33:44.869] TIMICIN: If I can make them see the direction I've taken
+[00:33:44.869 --> 00:33:45.534] LAFORGE: We've already tried.
+[00:33:45.694 --> 00:33:47.774] DATA: They refuse to accept further reports from you, Doctor.
+[00:33:47.934 --> 00:33:48.734] TIMICIN: They have to accept them.
+[00:33:48.734 --> 00:33:52.041] TIMICIN: If I can re-establish computer interface with the science ministry.
+[00:33:52.041 --> 00:33:53.694] LAFORGE: They've disengaged the link-up, Doctor.
+[00:33:56.494 --> 00:33:57.374] TIMICIN: Why don't they answer?
+[00:34:00.894 --> 00:34:03.214] TIMICIN: Even if I find the solution, you will not accept it!
+[00:34:06.654 --> 00:34:09.294] TIMICIN: Because I do not terminate my life, they terminate my work.
+[00:34:11.374 --> 00:34:14.654] TIMICIN: Alive, I am a greater threat to my world than a dying sun.
+[00:34:23.694 --> 00:34:25.534] LWAXANA: But Jean-Luc will find a way to settle this.
+[00:34:25.534 --> 00:34:26.734] LWAXANA: He always does.
+[00:34:26.734 --> 00:34:29.054] TIMICIN: No, my decision will only lead to more distrust of other worlds.
+[00:34:29.054 --> 00:34:29.694] TIMICIN: Nothing will change.
+[00:34:29.934 --> 00:34:30.894] LWAXANA: Now don't be foolish.
+[00:34:30.894 --> 00:34:32.014] TIMICIN: I am not being foolish!
+[00:34:34.014 --> 00:34:35.614] TIMICIN: Lwaxana,
+[00:34:35.774 --> 00:34:41.854] TIMICIN: I want to live because I see in you how much I have to live for.
+[00:34:43.214 --> 00:34:44.254] TIMICIN: You make me realise
+[00:34:45.116 --> 00:34:46.236] TIMICIN: that my life still has value.
+[00:34:47.196 --> 00:34:48.476] TIMICIN: I can be an example to my people.
+[00:34:49.436 --> 00:34:50.636] TIMICIN: I can finish my work.
+[00:34:52.956 --> 00:35:01.101] TIMICIN: But discovering these new desires and not being able to do anything about them, not being able to finish my work, not being able to reach my people.
+[00:35:01.101 --> 00:35:05.756] LWAXANA: You have made a statement about the sanctity of life, and it will be heard, Timicin.
+[00:35:05.916 --> 00:35:07.516] TIMICIN: Who will hear it from light years away?
+[00:35:09.196 --> 00:35:10.236] TIMICIN: Where will I go now, Lwaxana?
+[00:35:11.756 --> 00:35:12.876] TIMICIN: I'm a man without a world.
+[00:35:13.436 --> 00:35:15.356] TIMICIN: I can't go home.
+[00:35:17.676 --> 00:35:18.076] LWAXANA: Timicin.
+[00:35:19.756 --> 00:35:20.716] RIKER: Bridge to Doctor Timicin.
+[00:35:21.596 --> 00:35:22.636] RIKER: You have a visitor coming aboard.
+[00:35:24.236 --> 00:35:24.716] TIMICIN: B'Tardat?
+[00:35:25.596 --> 00:35:25.916] RIKER: No, sir.
+[00:35:25.916 --> 00:35:26.476] RIKER: It's your daughter.
+[00:35:28.076 --> 00:35:30.076] TIMICIN: Dara.
+[00:35:37.116 --> 00:35:37.436] DARA: Father.
+[00:35:38.636 --> 00:35:39.996] TIMICIN: This is Lwaxana Troi.
+[00:35:40.236 --> 00:35:41.916] TIMICIN: She has been a host and a friend.
+[00:35:42.796 --> 00:35:44.156] LWAXANA: I've been looking forward to meeting you, Dara.
+[00:35:48.236 --> 00:35:50.236] TIMICIN: Whatever you have to say to me, can be said in front of her.
+[00:35:52.476 --> 00:35:52.876] DARA: I see.
+[00:35:55.676 --> 00:35:57.356] DARA: Father, come home.
+[00:35:57.996 --> 00:35:58.716] DARA: This is wrong.
+[00:36:00.556 --> 00:36:04.876] TIMICIN: Dara, if I could show you the work I have begun. There's still so much for me to do.
+[00:36:04.876 --> 00:36:06.716] DARA: There's nothing for me to look at.
+[00:36:07.516 --> 00:36:08.476] DARA: It is irrelevant.
+[00:36:09.196 --> 00:36:11.116] LWAXANA: Your father's work may save your world, my dear.
+[00:36:11.836 --> 00:36:13.196] LWAXANA: I would hardly consider that irrelevant.
+[00:36:14.396 --> 00:36:17.116] DARA: All I'm concerned with now is you, not your work.
+[00:36:17.676 --> 00:36:18.076] DARA: Your work
+[00:36:18.151 --> 00:36:18.711] DARA: is over.
+[00:36:19.511 --> 00:36:20.951] DARA: It is your time to rest.
+[00:36:22.311 --> 00:36:26.871] LWAXANA: Perhaps you will feel differently as you get a little older, say approaching sixty.
+[00:36:27.591 --> 00:36:30.151] DARA: My father taught me to cherish The Resolution.
+[00:36:30.711 --> 00:36:33.031] DARA: I don't know how you have poisoned him to reject it.
+[00:36:33.431 --> 00:36:35.031] LWAXANA: It's an obscene ritual.
+[00:36:35.191 --> 00:36:35.911] DARA: How dare you.
+[00:36:36.711 --> 00:36:39.271] DARA: How dare you criticize my way of life, my beliefs.
+[00:36:39.351 --> 00:36:41.111] TIMICIN: Please. Please, Dara.
+[00:36:48.151 --> 00:36:48.231] TIMICIN: Please.
+[00:36:48.231 --> 00:36:48.791] DARA: Where will you go?
+[00:36:53.031 --> 00:36:53.511] TIMICIN: I don't know.
+[00:36:57.191 --> 00:36:58.151] DARA: And where will you die?
+[00:37:01.111 --> 00:37:04.151] DARA: I cannot bear the thought of you being laid to rest on some other world.
+[00:37:07.511 --> 00:37:08.951] DARA: That you will not lie beside my mother.
+[00:37:11.751 --> 00:37:14.791] DARA: That I will not be able to lie beside you when my Resolution comes.
+[00:37:17.911 --> 00:37:19.431] DARA: I'm sorry.
+[00:37:21.271 --> 00:37:28.551] DARA: I don't know how you can go on with your life knowing that each day you live is an insult to everything we believe in.
+[00:37:28.701 --> 00:37:29.301] DARA: Father,
+[00:37:34.551 --> 00:37:35.191] DARA: I love you.
+[00:37:39.591 --> 00:37:40.631] DARA: But I am ashamed.
+[00:38:05.896 --> 00:38:07.656] TIMICIN: I would like to be alone now, please.
+[00:38:32.216 --> 00:38:33.816] LWAXANA: I am suddenly suddenly not sure of myself.
+[00:38:35.416 --> 00:38:37.256] LWAXANA: It's a feeling I'm not at all used to.
+[00:38:37.256 --> 00:38:37.336] LWAXANA: I
+[00:38:38.936 --> 00:38:40.536] LWAXANA: don't think I like it very much, little one.
+[00:38:41.736 --> 00:38:42.856] TROI: Not sure of yourself?
+[00:38:45.416 --> 00:38:47.176] LWAXANA: My life has been full.
+[00:38:48.936 --> 00:38:51.816] LWAXANA: Now and then, perhaps it's overflowed a little, but
+[00:38:53.576 --> 00:38:55.336] LWAXANA: I enjoy living.
+[00:38:56.296 --> 00:39:02.456] LWAXANA: And now I am asking myself is it possible I was wrong to encourage Timicin to choose life?
+[00:39:03.336 --> 00:39:04.776] TROI: You were honest with him, Mother.
+[00:39:05.736 --> 00:39:06.376] TROI: You had to be.
+[00:39:08.376 --> 00:39:11.256] LWAXANA: Maybe I want him to live just to keep me company.
+[00:39:12.696 --> 00:39:13.736] TROI: Of course you do.
+[00:39:14.964 --> 00:39:16.644] TROI: But you didn't do this for yourself,
+[00:39:16.644 --> 00:39:17.524] TROI: you did it for him.
+[00:39:18.964 --> 00:39:19.204] LWAXANA: Did I?
+[00:39:21.844 --> 00:39:22.804] LWAXANA: Then look what I've done to him.
+[00:39:25.284 --> 00:39:28.644] LWAXANA: He's like a man who's lost his faith.
+[00:39:30.004 --> 00:39:34.964] LWAXANA: I never considered how deeply ingrained this Resolution liturgy is.
+[00:39:36.084 --> 00:39:38.644] TROI: Ritual provides a structure in society,
+[00:39:39.604 --> 00:39:41.524] TROI: good rituals and bad rituals alike.
+[00:39:42.004 --> 00:39:43.124] LWAXANA: Well, this is a bad one.
+[00:39:44.164 --> 00:39:44.884] TROI: Your point of view.
+[00:39:46.404 --> 00:39:50.244] LWAXANA: It should be the point of view of any reasonably intelligent middle-aged person.
+[00:39:52.244 --> 00:39:54.884] LWAXANA: Unfortunately, it is not.
+[00:40:06.964 --> 00:40:08.804] TROI: I'll see you later, Mother.
+[00:40:08.804 --> 00:40:10.324] TROI: Excuse me.
+[00:40:11.204 --> 00:40:11.444] TIMICIN: Thank you.
+[00:40:16.804 --> 00:40:17.524] LWAXANA: You're going back.
+[00:40:21.604 --> 00:40:22.244] TIMICIN: Do you believe I love you?
+[00:40:30.884 --> 00:40:31.524] TIMICIN: I do, you know.
+[00:40:34.484 --> 00:40:40.015] TIMICIN: But finally, if that is my only reason to stay alive.
+[00:40:40.015 --> 00:40:41.524] LWAXANA: It's not enough.
+[00:40:42.489 --> 00:40:43.049] TIMICIN: Almost.
+[00:40:45.049 --> 00:40:45.049] TIMICIN: Almost but not
+[00:40:47.449 --> 00:40:47.689] TIMICIN: quite.
+[00:40:47.769 --> 00:40:49.849] TIMICIN: I can't be that selfish, Lwaxana.
+[00:40:56.889 --> 00:40:58.569] TIMICIN: I am not the person to lead the revolt.
+[00:41:09.529 --> 00:41:12.089] TIMICIN: I do apologise for all the turmoil I've created.
+[00:41:13.529 --> 00:41:18.969] PICARD: Doctor, I would deeply regret it if you were returning only to ease diplomatic tensions.
+[00:41:20.409 --> 00:41:23.129] TIMICIN: It is more. Much more.
+[00:41:24.969 --> 00:41:27.609] PICARD: Then I wish you and your people well.
+[00:41:28.809 --> 00:41:31.929] TIMICIN: When it is time for another test, I will encourage my people to seek your assistance again.
+[00:41:37.369 --> 00:41:39.769] PICARD: If for any reason you would like to wait a few minutes.
+[00:41:41.369 --> 00:41:41.529] TIMICIN: No.
+[00:41:43.449 --> 00:41:44.729] TIMICIN: We have already said our goodbyes.
+[00:41:54.329 --> 00:41:54.729] TIMICIN: Lwaxana?
+[00:41:55.209 --> 00:41:59.689] LWAXANA: It is the custom for your loved ones to join you at this Resolution, is it not?
+[00:42:02.649 --> 00:42:03.849] TIMICIN: You do not have to do this.
+[00:42:05.609 --> 00:42:06.169] LWAXANA: Yes, I do.
+[00:42:10.729 --> 00:42:11.609] LWAXANA: Permission to disembark,
+[00:42:11.645 --> 00:42:11.965] LWAXANA: Captain.
+[00:42:13.725 --> 00:42:15.965] LWAXANA: I promise I won't cause any problems down there.
+[00:42:23.965 --> 00:42:24.605] PICARD: Permission granted.
+[00:42:33.885 --> 00:42:35.005] LWAXANA: We're ready, Mister O'Brien.
+[00:42:39.000 --> 00:42:51.000] [music]
+[00:42:56.000 --> 00:43:05.000] [music]
+[00:43:07.000 --> 00:43:36.000] [music]

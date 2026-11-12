@@ -1,0 +1,687 @@
+[00:00:06.880 --> 00:00:07.600] PICARD: Time, Mister Data?
+[00:00:07.680 --> 00:00:12.640] DATA: We will arrive within transporter range in three minutes twenty one seconds.
+[00:00:13.280 --> 00:00:15.280] MCDOWELL: I've finally established audio contact with the Romulan ship.
+[00:00:16.160 --> 00:00:18.160] ROMULAN: Main power failing.
+[00:00:18.310 --> 00:00:19.525] ROMULAN: No way to stop the overload.
+[00:00:19.525 --> 00:00:19.930] PICARD: Enterprise to
+[00:00:20.080 --> 00:00:20.880] PICARD: Romulan vessel.
+[00:00:21.520 --> 00:00:22.560] PICARD: We are en route to your position.
+[00:00:23.200 --> 00:00:26.320] ROMULAN: Enterprise, what is your time of arrival? We are facing an imminent core breach.
+[00:00:27.440 --> 00:00:28.560] PICARD: Repeat your last transmission.
+[00:00:28.710 --> 00:00:29.310] MCDOWELL: I'm
+[00:00:31.120 --> 00:00:32.640] MCDOWELL: sorry, Captain. They've stopped transmitting.
+[00:00:33.040 --> 00:00:33.400] PICARD: Picard to Riker.
+[00:00:33.400 --> 00:00:33.520] RIKER: Riker
+[00:00:34.560 --> 00:00:35.120] RIKER: here.
+[00:00:35.520 --> 00:00:37.680] PICARD: Transport to the Romulan ship as soon as we're within range.
+[00:00:38.000 --> 00:00:38.320] RIKER: Aye, sir.
+[00:00:38.480 --> 00:00:39.120] RIKER: No weapons.
+[00:00:39.520 --> 00:00:40.880] RIKER: We don't want them to think they're under attack.
+[00:00:43.440 --> 00:00:45.040] RO: This is not a bright idea.
+[00:00:45.440 --> 00:00:46.240] RIKER: I beg your pardon, Ensign.
+[00:00:46.960 --> 00:00:47.840] RIKER: I didn't quite catch that.
+[00:00:49.360 --> 00:00:50.080] RO: Nothing, sir.
+[00:00:51.040 --> 00:00:54.240] VOICES: All main thrusters
+[00:00:54.240 --> 00:00:54.240] VOICES: are shut down. Your
+[00:00:54.240 --> 00:00:55.120] VOICES: information is unreliable. The AH is inoperative.
+[00:00:55.270 --> 00:00:57.470] VOICES: Give me a hand here.
+[00:01:24.980 --> 00:01:25.580] RIKER: We're
+[00:01:31.072 --> 00:01:33.152] RIKER: from the Federation
+[00:01:39.872 --> 00:01:42.192] RIKER: Starship Enterprise. We received your distress call.
+[00:01:43.152 --> 00:01:43.792] MIROK: The Enterprise?
+[00:01:44.112 --> 00:01:44.432] RIKER: That's right.
+[00:01:44.432 --> 00:01:46.592] RIKER: Your message said you'd suffered a failure in your engine core.
+[00:01:47.232 --> 00:01:47.632] MIROK: Yes.
+[00:01:47.872 --> 00:01:50.352] MIROK: We had a forced chamber explosion in the resonator coil.
+[00:01:52.432 --> 00:01:56.672] LAFORGE: It's a pretty strange set up, but it looks like the graviton field generator has been completely depolarised.
+[00:01:56.992 --> 00:01:57.712] LAFORGE: There's no way to fix it.
+[00:01:58.272 --> 00:01:59.152] LAFORGE: It'll have to be replaced.
+[00:02:02.192 --> 00:02:03.072] RIKER: Where are your replicators?
+[00:02:03.392 --> 00:02:04.192] VAREL: They are offline.
+[00:02:05.152 --> 00:02:06.032] RIKER: Who's in charge here?
+[00:02:06.352 --> 00:02:07.232] MIROK: The Captain is dead.
+[00:02:07.392 --> 00:02:09.152] MIROK: I'm the science officer. Mirok.
+[00:02:09.392 --> 00:02:11.552] RIKER: We'd like to move the generator back to the Enterprise for replication.
+[00:02:12.912 --> 00:02:13.232] MIROK: All right.
+[00:02:13.712 --> 00:02:14.832] RIKER: Geordi, you and Ro.
+[00:02:18.832 --> 00:02:19.632] LAFORGE: La Forge to Brossmer.
+[00:02:19.872 --> 00:02:21.792] LAFORGE: Two people and one piece of equipment to beam aboard.
+[00:02:22.192 --> 00:02:22.592] BROSSMER: Aye, sir.
+[00:02:22.742 --> 00:02:24.142] BROSSMER: What the hell?
+[00:02:27.232 --> 00:02:27.232] BROSSMER: Engineering,
+[00:02:33.792 --> 00:02:35.792] BROSSMER: I need more power to the primary energising coil.
+[00:02:40.912 --> 00:02:42.032] BROSSMER: Brossmer to Commander Riker.
+[00:02:42.032 --> 00:02:42.752] BROSSMER: I'm losing them
+[00:02:42.752 --> 00:02:43.632] BROSSMER: I have to abort.
+[00:02:44.192 --> 00:02:46.192] BROSSMER: They should be returning to your coordinates, sir.
+[00:02:50.672 --> 00:02:52.352] RIKER: Chief, do you have them?
+[00:02:52.352 --> 00:02:52.832] RIKER: They're not here.
+[00:02:54.032 --> 00:02:54.432] BROSSMER: No, sir.
+[00:02:55.712 --> 00:02:56.272] RIKER: Where are they?
+[00:02:57.632 --> 00:02:58.832] BROSSMER: I can't locate their patterns.
+[00:02:58.832 --> 00:02:58.912] BROSSMER: We've
+[00:03:01.232 --> 00:03:01.712] BROSSMER: lost them, sir.
+[00:03:31.307 --> 00:03:34.107] PICARD: Space, the final frontier.
+[00:03:35.947 --> 00:03:38.827] PICARD: These are the voyages of the starship Enterprise.
+[00:03:39.947 --> 00:03:47.947] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:49.547 --> 00:03:53.067] PICARD: to boldly go where no one has gone before.
+[00:03:56.000 --> 00:04:08.000] [music]
+[00:04:16.000 --> 00:04:38.000] [music]
+[00:04:48.531 --> 00:04:49.491] BROSSMER: I've done all I can, sir.
+[00:04:50.451 --> 00:04:51.251] BROSSMER: I'm afraid they're gone.
+[00:04:52.131 --> 00:04:53.891] PICARD: Mister Data, begin a level one diagnostic.
+[00:04:54.451 --> 00:04:56.531] PICARD: All transporter systems offline until further notice.
+[00:04:58.291 --> 00:04:59.571] PICARD: Could they have materialised somewhere else?
+[00:05:00.771 --> 00:05:01.331] DATA: Negative, Captain.
+[00:05:01.891 --> 00:05:04.691] DATA: Sensors are unable to locate them anywhere within transporter range.
+[00:05:05.171 --> 00:05:05.571] PICARD: Counsellor?
+[00:05:06.931 --> 00:05:08.931] RIKER: Riker
+[00:05:10.771 --> 00:05:11.491] RIKER: to Enterprise.
+[00:05:12.291 --> 00:05:13.011] PICARD: Go ahead, Number One.
+[00:05:13.811 --> 00:05:15.411] RIKER: Captain, we're still looking at a core breach
+[00:05:15.651 --> 00:05:16.211] RIKER: unless we can fashion
+[00:05:16.211 --> 00:05:17.331] RIKER: a new graviton generator.
+[00:05:17.331 --> 00:05:19.411] RIKER: I need replacement personnel, sir.
+[00:05:20.851 --> 00:05:23.891] PICARD: Mister Data, you may continue the diagnostic of the transporter systems at another time.
+[00:05:24.451 --> 00:05:26.931] PICARD: Take a shuttlecraft and two more engineers down to the Romulan ship.
+[00:05:27.011 --> 00:05:27.331] DATA: Aye, sir.
+[00:05:27.491 --> 00:05:28.051] PICARD: Mister McDowell,
+[00:05:29.011 --> 00:05:33.011] PICARD: alert the main shuttlebay to have all available ships and pilots standing by in case we need them.
+[00:05:33.251 --> 00:05:33.571] MCDOWELL: Aye, sir.
+[00:05:33.651 --> 00:05:34.051] PICARD: Ensign,
+[00:05:35.811 --> 00:05:37.571] PICARD: lay in a course away from the Romulan vessel.
+[00:05:37.571 --> 00:05:38.851] PICARD: Engage at warp one
+[00:05:38.851 --> 00:05:40.851] PICARD: if you detect any sign it's going to explode.
+[00:05:40.851 --> 00:05:42.771] MIROK: Pressure in
+[00:05:51.891 --> 00:05:57.251] MIROK: the containment chamber has increased fifteen melakols in the last two minutes.
+[00:05:57.331 --> 00:05:58.291] RIKER: What can we do to stop the overload?
+[00:05:58.664 --> 00:06:00.664] MIROK: Most of the conduits were damaged during the explosion.
+[00:06:00.904 --> 00:06:02.664] MIROK: I can't even access the central computer.
+[00:06:03.064 --> 00:06:03.464] WORF: Commander.
+[00:06:07.464 --> 00:06:10.184] WORF: Emergency bulkheads have sealed this section off from the rest of the ship.
+[00:06:10.584 --> 00:06:14.541] WORF: There is no way to gain access to the main Bridge or control centres.
+[00:06:14.541 --> 00:06:14.824] RIKER: Survivors?
+[00:06:15.864 --> 00:06:18.824] WORF: Readings indicate at least seventy three Romulans are still alive.
+[00:06:19.624 --> 00:06:21.224] VAREL: Seventy three.
+[00:06:24.504 --> 00:06:28.024] MIROK: The pressure has jumped two hundred melakols!
+[00:06:28.024 --> 00:06:29.384] VAREL: I've lost control of the containment chamber.
+[00:06:29.464 --> 00:06:30.312] MIROK: It's going to implode.
+[00:06:30.456 --> 00:06:31.944] RIKER: We'll need to dump the entire engine core.
+[00:06:32.024 --> 00:06:32.904] RIKER: Do you have an auto-eject system?
+[00:06:32.984 --> 00:06:34.184] MIROK: Yes, but it's not functioning.
+[00:06:34.184 --> 00:06:35.064] MIROK: I'll have to do it manually.
+[00:06:35.144 --> 00:06:35.864] RIKER: Mister Worf, you two
+[00:06:35.944 --> 00:06:36.504] RIKER: seal the chamber.
+[00:06:42.584 --> 00:06:46.344] VAREL: Implosion will occur in one minute five seconds.
+[00:06:46.344 --> 00:06:46.984] RIKER: Enterprise,
+[00:06:47.304 --> 00:06:48.904] RIKER: we need to jettison the entire engine core.
+[00:06:48.984 --> 00:06:51.144] RIKER: You'll need to extend the shields once it clears the hull.
+[00:06:51.544 --> 00:06:52.264] PICARD: Understood, Number One.
+[00:06:52.664 --> 00:06:53.544] PICARD: We'll stand by for your signal.
+[00:06:54.904 --> 00:06:56.904] WORF: We must get the
+[00:07:16.424 --> 00:07:17.064] WORF: doors closed.
+[00:07:17.064 --> 00:07:17.064] WORF: Commander!
+[00:07:24.592 --> 00:07:25.072] RIKER: Time?
+[00:07:25.392 --> 00:07:26.192] VAREL: Thirty seconds.
+[00:07:28.032 --> 00:07:29.872] MIROK: I'm
+[00:07:31.712 --> 00:07:33.552] MIROK: ready,
+[00:07:35.392 --> 00:07:37.232] MIROK: Commander.
+[00:07:39.072 --> 00:07:41.072] RIKER: Stay there!
+[00:07:41.632 --> 00:07:42.832] RIKER: Eject the chamber on my order!
+[00:07:44.112 --> 00:07:44.752] DATA: Excuse me, sir.
+[00:07:58.672 --> 00:07:58.912] RIKER: Now.
+[00:08:03.472 --> 00:08:06.272] RIKER: Enterprise, extend shields!
+[00:08:08.192 --> 00:08:08.912] RIKER: Well, we're
+[00:08:17.312 --> 00:08:17.712] RIKER: still here.
+[00:08:19.232 --> 00:08:19.712] MIROK: Yes.
+[00:08:21.232 --> 00:08:22.032] RIKER: We'll
+[00:08:25.392 --> 00:08:27.312] RIKER: have a complete power survey done within the hour.
+[00:08:27.872 --> 00:08:30.112] RIKER: We'll probably have to supply them with energy for life support, and
+[00:08:30.512 --> 00:08:31.872] RIKER: they'll need a new engine core to get home.
+[00:08:32.752 --> 00:08:33.552] PICARD: Understood, Commander.
+[00:08:33.792 --> 00:08:34.992] PICARD: Keep us informed of your efforts.
+[00:08:35.152 --> 00:08:35.712] PICARD: Picard out.
+[00:08:36.272 --> 00:08:37.072] PICARD: I'll be in Sickbay.
+[00:08:37.232 --> 00:08:37.552] MCDOWELL: Aye, sir.
+[00:09:06.001 --> 00:09:06.881] RO: Ensign Ro to the Bridge.
+[00:09:09.761 --> 00:09:11.041] RO: This is Ensign Ro reporting in.
+[00:09:11.121 --> 00:09:14.561] RO: I'm at section twenty three baker, near Sickbay.
+[00:09:20.801 --> 00:09:21.361] RO: Sickbay.
+[00:09:50.161 --> 00:09:50.801] RO: Excuse me,
+[00:09:51.041 --> 00:09:52.161] RO: I need some help.
+[00:09:53.761 --> 00:09:54.001] RO: Excuse me?
+[00:10:00.401 --> 00:10:00.801] RO: Excuse me,
+[00:10:00.801 --> 00:10:01.441] RO: I need some help.
+[00:10:05.041 --> 00:10:05.841] RO: Excuse me!
+[00:10:05.921 --> 00:10:06.961] RO: I need some help!
+[00:10:07.201 --> 00:10:08.641] CRUSHER: We
+[00:10:15.921 --> 00:10:19.601] CRUSHER: shouldn't make any hasty decisions, Jean-Luc.
+[00:10:19.921 --> 00:10:22.771] CRUSHER: The transporter could've beamed them somewhere else.
+[00:10:23.001 --> 00:10:23.921] CRUSHER: The Romulan ship,
+[00:10:24.643 --> 00:10:25.923] CRUSHER: another deck of the Enterprise.
+[00:10:25.923 --> 00:10:27.123] PICARD: We've already checked those possibilities.
+[00:10:28.483 --> 00:10:35.523] PICARD: The initial findings would seen to indicate that there was a radiation surge from the Romulan engine core which disrupted the signal. They never rematerialised.
+[00:10:35.843 --> 00:10:36.483] CRUSHER: We should check again.
+[00:10:36.723 --> 00:10:37.434] CRUSHER: There might be something that we've overlooked and
+[00:10:37.434 --> 00:10:37.523] PICARD: Beverly,
+[00:10:37.523 --> 00:10:39.203] PICARD: we've done everything that we can.
+[00:10:43.523 --> 00:10:43.843] CRUSHER: You're right.
+[00:10:45.203 --> 00:10:47.523] CRUSHER: I just hate making out death certificates.
+[00:10:50.403 --> 00:10:51.683] CRUSHER: Does Ensign Ro have any family?
+[00:10:54.483 --> 00:10:55.523] RO: Captain, I'm right here.
+[00:10:55.651 --> 00:10:56.563] PICARD: None that I know of,
+[00:10:57.443 --> 00:10:59.123] PICARD: but I'll check with the Bajoran liaison Office.
+[00:10:59.683 --> 00:11:00.643] RO: I'm not dead!
+[00:11:00.643 --> 00:11:02.883] CRUSHER: I'll have the official reports ready within the hour.
+[00:11:06.083 --> 00:11:07.683] RO: Captain, I don't know what's going on
+[00:11:25.363 --> 00:11:25.683] RO: Doctor.
+[00:11:27.523 --> 00:11:28.163] RO: Doctor Crusher.
+[00:11:30.163 --> 00:11:31.523] RO: Doctor Crusher, I'm right here.
+[00:11:34.643 --> 00:11:34.963] RO: Damn it.
+[00:12:12.907 --> 00:12:13.707] MIROK: We're ready, Commander.
+[00:12:14.267 --> 00:12:15.147] RIKER: Riker to Enterprise.
+[00:12:15.387 --> 00:12:16.347] RIKER: Begin power transfer.
+[00:12:18.907 --> 00:12:25.867] MIROK: The power flow is consistent at four hundred kolems.
+[00:12:26.027 --> 00:12:27.547] MIROK: No fluctuations in frequency.
+[00:12:28.187 --> 00:12:29.547] MIROK: The main power grid is online.
+[00:12:30.267 --> 00:12:30.747] PICARD: Picard to Riker.
+[00:12:30.747 --> 00:12:32.107] RIKER: Riker here.
+[00:12:33.147 --> 00:12:35.147] RIKER: Power transfer appears stable at this end, Captain.
+[00:12:35.547 --> 00:12:35.787] PICARD: Good.
+[00:12:36.267 --> 00:12:37.787] PICARD: What is the status of the engine replacement?
+[00:12:38.427 --> 00:12:42.107] RIKER: Engineering is modifying one of our subspace resonators to act as a new engine core.
+[00:12:42.107 --> 00:12:45.947] RIKER: It won't do more than warp two, but it'll get them home.
+[00:12:46.667 --> 00:12:47.467] PICARD: Very well.
+[00:12:47.467 --> 00:12:47.867] DATA: Captain.
+[00:12:48.507 --> 00:12:52.107] DATA: The diagnostic of the transporter system shows an anomalous energy fluctuation.
+[00:12:52.667 --> 00:12:55.307] DATA: I will need to inspect the imaging scanner in transporter room three.
+[00:12:55.867 --> 00:12:57.007] PICARD: By all means.
+[00:12:57.007 --> 00:12:57.387] DATA: Captain?
+[00:12:59.307 --> 00:13:00.667] DATA: I have a personal favour to ask.
+[00:13:01.547 --> 00:13:04.667] DATA: I considered Commander La Forge to be my best friend.
+[00:13:05.227 --> 00:13:08.427] DATA: I believe it is my responsibility to plan and conduct the memorial service.
+[00:13:08.987 --> 00:13:10.187] DATA: May I have your permission to do so?
+[00:13:12.027 --> 00:13:12.747] PICARD: Permission granted.
+[00:13:14.507 --> 00:13:16.027] PICARD: Make whatever arrangements you think are appropriate.
+[00:13:16.427 --> 00:13:16.827] DATA: Thank you, sir.
+[00:13:36.144 --> 00:13:36.624] WORF: Commander, the
+[00:13:38.544 --> 00:13:40.464] WORF: the Romulans want a computer.
+[00:13:41.424 --> 00:13:43.904] WORF: We cannot give them access to Federation technology.
+[00:13:43.904 --> 00:13:46.064] WORF: That is an unacceptable security risk.
+[00:13:46.064 --> 00:13:46.224] RIKER: What
+[00:13:48.944 --> 00:13:53.104] RIKER: about a computer core from thirty or forty years ago? One the Romulans are already familiar with.
+[00:13:53.104 --> 00:13:55.984] WORF: That would be satisfactory.
+[00:13:56.624 --> 00:13:58.784] RIKER: Check with the Enterprise, see what's available.
+[00:13:58.784 --> 00:14:02.544] RIKER: Be sure your concern are addressed before we install it.
+[00:14:03.184 --> 00:14:03.504] WORF: Aye, sir.
+[00:14:04.544 --> 00:14:06.704] WORF: Thank you.
+[00:14:06.704 --> 00:14:06.704] RO: La
+[00:14:25.104 --> 00:14:25.584] RO: Forge?
+[00:14:26.944 --> 00:14:26.944] LAFORGE: Ro.
+[00:14:28.704 --> 00:14:30.224] LAFORGE: Boy, am I glad to see you.
+[00:14:30.784 --> 00:14:32.544] LAFORGE: And I'm really glad that you can see me.
+[00:14:32.544 --> 00:14:32.864] LAFORGE: It's like
+[00:14:34.384 --> 00:14:36.224] LAFORGE: I'm here, but I'm not here.
+[00:14:36.224 --> 00:14:38.064] RO: No one can see me either.
+[00:14:38.864 --> 00:14:38.864] LAFORGE: I
+[00:14:41.424 --> 00:14:43.824] LAFORGE: can't figure it out.
+[00:14:45.344 --> 00:14:51.424] LAFORGE: One minute we were transporting from the Romulan vessel, and the next I wake up in the arboretum with a splitting headache.
+[00:14:53.876 --> 00:14:57.672] LAFORGE: Can you pass through things like bulkheads?
+[00:14:57.672 --> 00:14:58.756] RO: Tables, people,
+[00:15:02.596 --> 00:15:04.596] RO: yeah.
+[00:15:04.596 --> 00:15:04.596] LAFORGE: Well,
+[00:15:13.396 --> 00:15:15.476] LAFORGE: we're solid enough to each other.
+[00:15:18.596 --> 00:15:19.956] RO: It's not what you expected, is it.
+[00:15:21.716 --> 00:15:22.116] LAFORGE: What do you mean?
+[00:15:23.396 --> 00:15:25.316] RO: This. Death.
+[00:15:26.756 --> 00:15:26.996] LAFORGE: What?
+[00:15:27.956 --> 00:15:28.756] RO: We're dead, Geordi.
+[00:15:29.956 --> 00:15:31.236] LAFORGE: Is that some kind of a joke?
+[00:15:32.116 --> 00:15:34.836] RO: Our patterns were lost in a transporter malfunction.
+[00:15:35.876 --> 00:15:38.356] RO: We never rematerialised after leaving the Romulan ship.
+[00:15:40.916 --> 00:15:41.476] LAFORGE: Wait a minute.
+[00:15:43.156 --> 00:15:43.876] LAFORGE: What are you saying, that
+[00:15:43.876 --> 00:15:46.036] LAFORGE: we're some sort of spirits?
+[00:15:46.436 --> 00:15:48.596] RO: Spirits, souls.
+[00:15:49.876 --> 00:15:51.636] RO: My people used to call them borhyas.
+[00:15:51.636 --> 00:15:53.236] RO: Whatever term you want to use, we're it.
+[00:15:54.116 --> 00:15:57.476] LAFORGE: But my uniform, my visor.
+[00:15:58.116 --> 00:16:00.596] LAFORGE: Are you saying I'm some blind ghost with clothes?
+[00:16:01.156 --> 00:16:02.756] RO: I don't have all the answers.
+[00:16:02.756 --> 00:16:03.956] RO: I've never been dead before.
+[00:16:04.036 --> 00:16:05.636] LAFORGE: We are not dead.
+[00:16:06.356 --> 00:16:11.396] RO: According to Doctor Crusher, we died in a transporter malfunction at fourteen thirty hours.
+[00:16:12.996 --> 00:16:15.236] RO: Geordi, I saw her make out the death certificates.
+[00:16:20.676 --> 00:16:21.636] RO: We need to
+[00:16:22.415 --> 00:16:24.175] RO: make peace with our former lives.
+[00:16:24.975 --> 00:16:26.095] RO: That's what I was taught.
+[00:16:26.815 --> 00:16:29.295] RO: We have to say goodbye to the people who were in our lives.
+[00:16:30.495 --> 00:16:33.535] LAFORGE: No. You may be ready for the afterlife, but I'm not.
+[00:16:34.175 --> 00:16:36.335] RO: I don't see that we have much of a choice.
+[00:16:38.255 --> 00:16:42.735] RO: When I was growing up, I never gave much thought to all the talk about borhyas.
+[00:16:42.735 --> 00:16:45.455] RO: I figured that it was just superstition passed on to children.
+[00:16:45.455 --> 00:16:47.935] LAFORGE: Fine. You go make peace with yourself,
+[00:16:47.935 --> 00:16:49.775] LAFORGE: all right? I'm going to transporter room three.
+[00:16:49.775 --> 00:16:51.455] LAFORGE: I'm going to figure a way out of this situation.
+[00:17:05.135 --> 00:17:07.455] BROSSMER: I didn't have any warning that something would go wrong, sir.
+[00:17:08.815 --> 00:17:11.375] BROSSMER: Suddenly their patterns just weren't there.
+[00:17:11.375 --> 00:17:15.935] DATA: I believe the cause of the accident may be related to the explosion on the Romulan ship.
+[00:17:16.175 --> 00:17:16.495] LAFORGE: Really?
+[00:17:17.215 --> 00:17:19.695] BROSSMER: But that happened before we even arrived.
+[00:17:20.975 --> 00:17:29.055] DATA: In all likelihood, the explosion damaged the Romulan cloaking device, causing it to discharge chroniton particles. I am detecting a chroniton field in here.
+[00:17:29.375 --> 00:17:29.855] LAFORGE: A chroniton field?
+[00:17:31.135 --> 00:17:35.215] BROSSMER: If the particles were produced on the Romulan ship, why are you detecting them here?
+[00:17:35.375 --> 00:17:36.495] LAFORGE: The transporter beam.
+[00:17:36.735 --> 00:17:38.495] DATA: I suspect they travelled through the transporter beam.
+[00:17:39.135 --> 00:17:40.895] DATA: That may have been the cause of Geordi and Ro's death.
+[00:17:41.935 --> 00:17:43.055] DATA: I will go to the Romulan ship.
+[00:17:43.455 --> 00:17:45.135] DATA: Perhaps I can discover the source of the emissions.
+[00:17:45.695 --> 00:17:48.095] BROSSMER: Commander, are these chronitons dangerous?
+[00:17:48.735 --> 00:17:50.095] DATA: They pose no danger to humans.
+[00:17:50.606 --> 00:17:54.286] DATA: However, some of the ship's systems may be affected by prolonged exposure.
+[00:17:54.766 --> 00:17:56.846] DATA: When I return I will devise a method to eradicate them.
+[00:17:58.366 --> 00:17:59.166] LAFORGE: La Forge to Ensign Ro.
+[00:18:07.966 --> 00:18:08.686] RO: Thanks for the ride.
+[00:18:20.606 --> 00:18:21.726] RO: I'm here to say goodbye.
+[00:18:22.926 --> 00:18:23.006] RIKER: There
+[00:18:47.646 --> 00:18:51.406] RIKER: are a lot of what appear to be experimental engine components lying around over there.
+[00:18:52.526 --> 00:18:55.726] RIKER: I'd say they were testing a new warp drive design and it blew up in their faces.
+[00:18:56.286 --> 00:18:58.366] PICARD: That would explain why they're so far away from Romulan space.
+[00:18:59.406 --> 00:19:02.126] PICARD: To avoid being picked up on Federation long range scans.
+[00:19:02.766 --> 00:19:05.326] RIKER: We should have an engine core ready for them by nineteen hundred hours.
+[00:19:05.886 --> 00:19:08.526] PICARD: Commander, there'll be a memorial service at twenty three hundred hours this evening.
+[00:19:09.326 --> 00:19:10.846] PICARD: Mister Data is making arrangements.
+[00:19:11.486 --> 00:19:11.806] RIKER: I'll be there.
+[00:19:12.606 --> 00:19:13.086] RO: Me, too.
+[00:19:13.086 --> 00:19:15.406] RIKER: In fact I might like to say a few words.
+[00:19:15.646 --> 00:19:17.726] PICARD: You did know La Forge longer than any of us.
+[00:19:18.467 --> 00:19:19.827] RIKER: Actually, I was thinking more about Ensign Ro.
+[00:19:21.027 --> 00:19:21.347] RO: Me?
+[00:19:21.747 --> 00:19:23.347] PICARD: When you're ready, coordinate with Mister Data.
+[00:19:24.467 --> 00:19:24.947] RO: Wait a minute.
+[00:19:24.947 --> 00:19:25.987] RO: What are you going to say about me?
+[00:19:37.027 --> 00:19:37.587] RO: Captain.
+[00:19:44.787 --> 00:19:45.827] RO: I don't believe this.
+[00:19:47.587 --> 00:19:48.307] RO: I'm dead.
+[00:19:49.027 --> 00:19:51.667] RO: you can't even hear me and I'm still intimidated by
+[00:19:53.187 --> 00:19:54.387] RO: you.
+[00:19:57.987 --> 00:19:58.547] RO: I just
+[00:20:00.387 --> 00:20:01.587] RO: wanted to say thank you.
+[00:20:04.547 --> 00:20:06.387] RO: For trusting in me when no one else would.
+[00:20:09.587 --> 00:20:11.507] LAFORGE: Hey, there you are.
+[00:20:12.227 --> 00:20:12.867] LAFORGE: Excuse me, Captain.
+[00:20:13.427 --> 00:20:16.947] LAFORGE: Listen, Data's taking the next shuttle over to the Romulan vessel and we need to be on it.
+[00:20:17.587 --> 00:20:18.227] RO: Why?
+[00:20:18.227 --> 00:20:21.347] LAFORGE: because I think what happened to us, the answers are over there.
+[00:20:22.467 --> 00:20:23.987] RO: Why can't you just accept the fact
+[00:20:23.987 --> 00:20:27.427] LAFORGE: Look, if you're right then we're dead and this doesn't make any difference.
+[00:20:27.427 --> 00:20:31.587] LAFORGE: But if I'm right, then we're still alive and I'm going to need your help.
+[00:20:36.347 --> 00:20:38.347] DATA: Lieutenant,
+[00:20:44.427 --> 00:20:46.427] DATA: I am
+[00:20:50.467 --> 00:20:51.587] DATA: planning a memorial service for
+[00:20:51.668 --> 00:20:55.028] DATA: Commander La Forge and Ensign Ro. I would like you to participate.
+[00:20:55.748 --> 00:20:56.628] WORF: What kind of service?
+[00:20:57.268 --> 00:21:00.468] DATA: Captain Picard asked me to arrange a ceremony that was appropriate.
+[00:21:01.188 --> 00:21:04.068] DATA: I have given a great deal of thought as to what is appropriate in this instance.
+[00:21:04.948 --> 00:21:07.988] WORF: Sir, shuttlecraft four has not yet cleared the Romulan ship.
+[00:21:08.468 --> 00:21:09.268] DATA: Hold position here.
+[00:21:10.148 --> 00:21:10.948] LAFORGE: This is weird,
+[00:21:10.948 --> 00:21:12.148] LAFORGE: listening to them plan our funeral.
+[00:21:12.868 --> 00:21:16.228] DATA: I find I am having difficulty deciding what kind of service to have.
+[00:21:16.708 --> 00:21:17.748] DATA: Do you have any suggestions?
+[00:21:21.268 --> 00:21:27.588] WORF: Human custom is to conduct a solemn, dignified service in which the dead are praised by their friends and loved ones.
+[00:21:28.548 --> 00:21:29.828] DATA: Ensign Ro was Bajoran.
+[00:21:30.308 --> 00:21:31.908] DATA: Her beliefs should be reflected as well.
+[00:21:32.148 --> 00:21:34.388] DATA: However their death rituals are quite complicated.
+[00:21:35.028 --> 00:21:36.388] RO: Please, not the Death Chant.
+[00:21:36.388 --> 00:21:39.188] WORF: The Bajoran Death Chant is over two hours long.
+[00:21:40.308 --> 00:21:47.828] DATA: I am not certain that either human or Bajoran rites are fitting, and I have researched the funerary customs of over five thousand cultures to no avail.
+[00:21:49.268 --> 00:21:50.708] WORF: Shuttlecraft four has just cleared.
+[00:21:51.508 --> 00:21:52.228] DATA: Resume course.
+[00:21:54.788 --> 00:22:00.628] DATA: In almost all societies, it is traditional to say a ritual farewell to those you call friends.
+[00:22:02.468 --> 00:22:04.468] DATA: I never knew what a friend was until I met Geordi.
+[00:22:05.428 --> 00:22:07.588] DATA: He spoke to me as though I were human.
+[00:22:07.588 --> 00:22:09.508] DATA: He treated me no differently from anyone else.
+[00:22:10.228 --> 00:22:15.988] DATA: He accepted me for what I am. And that, I have learned, is friendship.
+[00:22:17.828 --> 00:22:21.668] DATA: But I do not know how to say goodbye.
+[00:22:22.494 --> 00:22:24.345] RO: He seems almost human, doesn't he.
+[00:22:24.345 --> 00:22:24.654] WORF: Commander,
+[00:22:25.534 --> 00:22:27.854] WORF: I am not the proper person to advise you.
+[00:22:29.294 --> 00:22:29.454] DATA: Why?
+[00:22:30.334 --> 00:22:34.414] WORF: I am very happy for Commander La Forge.
+[00:22:35.374 --> 00:22:38.654] WORF: He has crossed over to that which is beyond.
+[00:22:40.254 --> 00:22:42.254] WORF: For a Klingon, this is a joyful time.
+[00:22:45.774 --> 00:22:51.134] WORF: A friend has died in the line of duty and he has earned a place among the honoured dead.
+[00:22:53.294 --> 00:22:54.334] WORF: It is not a time to
+[00:22:56.014 --> 00:22:58.014] WORF: mourn.
+[00:23:01.454 --> 00:23:02.414] DATA: Begin docking procedure.
+[00:23:04.254 --> 00:23:08.414] LAFORGE: Data, that's a nice sentiment, but a little premature.
+[00:23:09.534 --> 00:23:11.694] LAFORGE: I don't plan on being commemorated before my time.
+[00:23:26.414 --> 00:23:31.454] MIROK: I'm afraid I fail to see the point of this investigation, Commander.
+[00:23:32.014 --> 00:23:36.174] DATA: Chroniton emissions may have been responsible for the accident which claimed the lives of our officers.
+[00:23:36.814 --> 00:23:38.654] VAREL: A most regrettable event, of course.
+[00:23:38.974 --> 00:23:41.134] DATA: Was your cloaking device damaged in the explosion?
+[00:23:42.494 --> 00:23:45.454] MIROK: All of our systems were damaged, including the cloaking device.
+[00:23:46.094 --> 00:23:48.574] DATA: That explains the chroniton fields I am detecting in here now.
+[00:23:49.454 --> 00:23:52.414] DATA: For your own safety, it is important to eliminate those emissions.
+[00:23:52.803 --> 00:23:53.603] VAREL: Our safety?
+[00:23:54.083 --> 00:23:57.683] DATA: There is no way to predict what will happen when the chronitons interact with the new engine core.
+[00:24:02.803 --> 00:24:04.243] LAFORGE: I've never seen anything like this.
+[00:24:04.803 --> 00:24:07.843] LAFORGE: There's something in here that looks like a molecular phase inverter.
+[00:24:08.403 --> 00:24:08.803] RO: What's that?
+[00:24:09.523 --> 00:24:13.763] LAFORGE: It's supposed to change the structure of matter so it can pass through normal matter and energy.
+[00:24:13.763 --> 00:24:16.563] LAFORGE: Hang on a second.
+[00:24:16.803 --> 00:24:22.723] LAFORGE: A few years back, we got intelligence reports that the Klingons were working on trying to combine a phase inverter and a cloaking device.
+[00:24:23.203 --> 00:24:29.203] LAFORGE: In theory, they believed that a phased ship could hide anywhere, even inside a planet, and that conventional weapons would be useless against it.
+[00:24:29.603 --> 00:24:31.043] RO: How far did they get in their research?
+[00:24:31.123 --> 00:24:32.643] LAFORGE: It never got out of the preliminary stages.
+[00:24:32.643 --> 00:24:33.843] LAFORGE: There were several accidents.
+[00:24:33.843 --> 00:24:41.123] LAFORGE: The Romulans might be pursuing the same technology, trying to combine an inverter and a cloaking device. And if this is the prototype
+[00:24:41.123 --> 00:24:43.763] RO: Then that would explain the explosion and the chroniton fields.
+[00:24:43.843 --> 00:24:44.963] LAFORGE: And us.
+[00:24:45.683 --> 00:24:46.643] RO: You mean we're cloaked?
+[00:24:47.043 --> 00:24:48.003] LAFORGE: Not just cloaked,
+[00:24:48.483 --> 00:24:49.123] LAFORGE: phased.
+[00:24:49.363 --> 00:24:53.443] LAFORGE: Our entire molecular structure altered so that we don't have any substance.
+[00:24:54.243 --> 00:24:56.163] RO: Then that would mean we're not dead.
+[00:24:56.403 --> 00:25:00.243] LAFORGE: Yes. It would also mean that there's probably a way to de-phase us.
+[00:25:00.243 --> 00:25:00.563] DATA: The field
+[00:25:02.723 --> 00:25:09.683] DATA: emissions are particularly strong in this area.
+[00:25:10.163 --> 00:25:14.323] MIROK: You can be assured that the emissions will be eliminated before the engine core is replaced.
+[00:25:14.323 --> 00:25:15.683] WORF: Commander, may I speak with you?
+[00:25:18.243 --> 00:25:20.323] VAREL: If they come back they're going to discover the interphase generator.
+[00:25:20.723 --> 00:25:23.043] MIROK: Is their power transfer beam still at full intensity?
+[00:25:23.411 --> 00:25:25.731] VAREL: Yes. It will be until we're ready to switch to internal power.
+[00:25:26.291 --> 00:25:29.971] MIROK: We will set up a muon feedback wave inside the transfer beam.
+[00:25:30.451 --> 00:25:32.611] MIROK: The particles will accumulate in their dilithium chamber.
+[00:25:32.611 --> 00:25:35.971] MIROK: When they go to warp speed, their engines will explode.
+[00:25:37.491 --> 00:25:37.651] LAFORGE: We've
+[00:25:40.131 --> 00:25:41.571] LAFORGE: got to get to the Enterprise and warn them.
+[00:25:42.051 --> 00:25:42.291] RO: How?
+[00:25:42.451 --> 00:25:44.371] LAFORGE: I don't know, but we have to find a way.
+[00:25:45.011 --> 00:25:45.331] LAFORGE: Come on.
+[00:26:14.691 --> 00:26:14.691] RO: The
+[00:26:21.891 --> 00:26:24.611] RO: muon feedback wave's not showing up on any of the engine displays.
+[00:26:25.251 --> 00:26:27.571] LAFORGE: The Romulans must be hiding it in a sensor return signal.
+[00:26:28.051 --> 00:26:30.611] LAFORGE: Unless someone runs a level three diagnostic, they'd never detect it.
+[00:26:30.611 --> 00:26:33.971] LAFORGE: There must be a way to warn them before the ship goes to warp.
+[00:26:35.331 --> 00:26:35.971] DATA: This is puzzling.
+[00:26:36.931 --> 00:26:39.891] DATA: Three more chroniton fields have formed aboard the Enterprise in the last hour.
+[00:26:40.291 --> 00:26:43.971] LAFORGE: There's no reason why the interphase device would be producing new fields aboard this ship.
+[00:26:44.051 --> 00:26:46.131] DATA: We should begin decontamination immediately.
+[00:26:46.451 --> 00:26:49.491] DATA: Run an internal sensor sweep for locations of all chroniton fields
+[00:26:49.265 --> 00:26:50.145] DATA: on the Enterprise.
+[00:26:50.225 --> 00:26:50.545] BROSSMER: Aye, sir.
+[00:26:54.465 --> 00:26:56.225] BROSSMER: The following areas are showing contamination.
+[00:26:57.585 --> 00:27:05.825] BROSSMER: Sickbay, Transporter room three, main Bridge, Captain's Ready room, shuttlebay two, and main Engineering.
+[00:27:05.985 --> 00:27:06.865] LAFORGE: Ro, look at this.
+[00:27:06.865 --> 00:27:09.265] DATA: I do not understand how these new fields have formed.
+[00:27:09.905 --> 00:27:14.385] DATA: No transporter beam has been active in any of those areas. I cannot see that they have anything in common.
+[00:27:15.025 --> 00:27:15.985] LAFORGE: Oh, yes they do.
+[00:27:15.985 --> 00:27:16.465] DATA: In fact,
+[00:27:16.465 --> 00:27:18.145] DATA: they seem to be appearing at random.
+[00:27:18.305 --> 00:27:19.105] LAFORGE: No, they're not.
+[00:27:19.105 --> 00:27:20.865] LAFORGE: We were in every one of those locations.
+[00:27:20.865 --> 00:27:23.025] LAFORGE: Somehow we're leaving chroniton footprints behind us.
+[00:27:23.105 --> 00:27:25.585] DATA: Can you narrow the focus of the scan to pinpoint the locations?
+[00:27:26.065 --> 00:27:27.505] BROSSMER: Not with the internal sensors, Commander.
+[00:27:28.225 --> 00:27:30.065] DATA: Go to science station two on the main Bridge.
+[00:27:30.625 --> 00:27:33.105] DATA: Use a lateral sensor array to get a more precise reading.
+[00:27:33.665 --> 00:27:37.025] DATA: I will modify an anyon emitter to eliminate the fields once they've been isolated.
+[00:27:37.825 --> 00:27:39.665] LAFORGE: Why don't you go with her and see what the lateral sensors turn up.
+[00:27:39.665 --> 00:27:40.385] LAFORGE: I'll stay here with Data.
+[00:27:40.625 --> 00:27:40.865] RO: Right.
+[00:27:55.665 --> 00:27:59.265] LAFORGE: Well that's interesting.
+[00:27:59.265 --> 00:28:01.105] LAFORGE: You're reading chroniton readings in here, but not from me?
+[00:28:05.425 --> 00:28:06.465] LAFORGE: There's a field in this wall? Why?
+[00:28:08.785 --> 00:28:10.865] LAFORGE: Data, I came through this wall.
+[00:28:11.505 --> 00:28:13.105] LAFORGE: I walked right through it when I came in here.
+[00:28:14.545 --> 00:28:20.465] LAFORGE: When the phased matter in my body passed through the wall, it must've disrupted the wall's molecular structure producing a chroniton
+[00:28:20.613 --> 00:28:21.093] LAFORGE: field.
+[00:28:30.133 --> 00:28:31.653] LAFORGE: Data, I'm right here
+[00:28:32.293 --> 00:28:33.493] LAFORGE: that's me you're reading.
+[00:28:34.213 --> 00:28:34.693] LAFORGE: Watch.
+[00:28:37.493 --> 00:28:38.053] LAFORGE: Come on,
+[00:28:39.253 --> 00:28:39.973] LAFORGE: it's me.
+[00:28:42.693 --> 00:28:43.253] LAFORGE: You see?
+[00:28:43.893 --> 00:28:45.173] PAREM: Do
+[00:28:51.013 --> 00:28:51.973] PAREM: not move.
+[00:28:53.733 --> 00:28:54.053] PAREM: Yes,
+[00:28:55.653 --> 00:28:56.453] PAREM: I can see you.
+[00:28:58.453 --> 00:28:59.013] RO: Who are you?
+[00:28:59.893 --> 00:29:01.173] PAREM: Where is the scientific officer?
+[00:29:03.013 --> 00:29:03.813] PAREM: The one like us.
+[00:29:05.573 --> 00:29:07.013] PAREM: The one who came with you to our ship.
+[00:29:07.733 --> 00:29:09.653] PAREM: He spoke of a plan to return to normal.
+[00:29:11.813 --> 00:29:12.133] PAREM: Yes,
+[00:29:13.253 --> 00:29:14.453] PAREM: this disruptor works.
+[00:29:15.813 --> 00:29:17.493] PAREM: I was wearing it when I was changed.
+[00:29:18.613 --> 00:29:19.333] PAREM: Now, where is
+[00:29:20.853 --> 00:29:22.853] PAREM: he?
+[00:29:31.333 --> 00:29:32.853] LAFORGE: Data, stop being so rational.
+[00:29:33.893 --> 00:29:36.533] LAFORGE: Try using your imagination once in a while.
+[00:29:36.533 --> 00:29:39.493] LAFORGE: These aren't just random patterns,
+[00:29:40.053 --> 00:29:40.613] LAFORGE: it's me!
+[00:29:41.333 --> 00:29:41.653] LAFORGE: Hey, watch
+[00:29:42.693 --> 00:29:43.653] LAFORGE: where you point that thing.
+[00:29:46.453 --> 00:29:46.933] LAFORGE: Wait a minute, Data,
+[00:29:46.933 --> 00:29:48.053] LAFORGE: I think you did something here .
+[00:29:51.506 --> 00:29:52.866] LAFORGE: It's not so easy to push through any more.
+[00:29:55.106 --> 00:29:59.586] LAFORGE: The molecules in my hand must have been partially de-phased by the anyon beam. Data,
+[00:30:00.226 --> 00:30:06.386] LAFORGE: if a low level beam can bring my hand part of the way back, maybe a high level beam can bring me all of the way back.
+[00:30:06.786 --> 00:30:08.706] LAFORGE: I'll just have to get you to turn up the beam intensity so that.
+[00:30:09.506 --> 00:30:10.786] LAFORGE: Hey, wait a minute,
+[00:30:11.266 --> 00:30:12.146] LAFORGE: don't stop now.
+[00:30:13.186 --> 00:30:14.306] LAFORGE: No, no, no. Data,
+[00:30:14.626 --> 00:30:15.746] LAFORGE: don't give up on it.
+[00:30:15.746 --> 00:30:16.386] LAFORGE: It works,
+[00:30:16.546 --> 00:30:18.066] LAFORGE: I was just creating more fields.
+[00:30:18.466 --> 00:30:19.746] LAFORGE: Your method is fine.
+[00:30:19.986 --> 00:30:21.826] LAFORGE: You just need to turn up the intensity, Data.
+[00:30:37.746 --> 00:30:38.306] RO: He's in here.
+[00:30:50.626 --> 00:30:53.506] BROSSMER: Brossmer to Commander Data.
+[00:30:53.906 --> 00:30:54.306] DATA: Data here.
+[00:30:54.786 --> 00:30:57.666] BROSSMER: I've just detected a large chroniton field on deck seventeen.
+[00:30:58.146 --> 00:31:01.266] BROSSMER: The field strength is three hundred percent above the others we've found, sir.
+[00:31:01.506 --> 00:31:02.066] LAFORGE: Is that Ro?
+[00:31:02.466 --> 00:31:03.026] DATA: Acknowledged.
+[00:31:59.965 --> 00:32:01.965] PAREM: Get up.
+[00:32:05.165 --> 00:32:06.285] PAREM: Where is the science officer?
+[00:32:06.435 --> 00:32:07.435] MAN: I'll go.
+[00:32:09.062 --> 00:32:09.662] MAN: Commander?
+[00:32:10.525 --> 00:32:10.765] DATA: Excuse me for interrupting,
+[00:32:13.805 --> 00:32:14.365] DATA: Lieutenant.
+[00:32:14.925 --> 00:32:15.325] LAFORGE: Ro!
+[00:32:15.725 --> 00:32:16.685] DATA: I'm detecting a
+[00:32:19.085 --> 00:32:19.165] DATA: chroniton field in your room.
+[00:32:19.485 --> 00:32:19.565] DATA: May I scan the area?
+[00:32:19.715 --> 00:32:20.315] MAN: Certainly.
+[00:32:26.045 --> 00:32:26.645] RO: Thanks.
+[00:32:32.525 --> 00:32:34.765] LAFORGE: Any time.
+[00:32:38.365 --> 00:32:40.365] LAFORGE: There's
+[00:32:44.045 --> 00:32:48.125] LAFORGE: still no indication that the Romulans set up a muon wave in our dilithium chamber.
+[00:32:48.824 --> 00:32:50.824] RO: It's there, and when they go to warp
+[00:32:51.064 --> 00:32:52.904] MCDOWELL: Incoming message from the Romulan ship, Captain.
+[00:32:53.464 --> 00:32:53.944] PICARD: On screen.
+[00:32:55.224 --> 00:32:55.784] LAFORGE: Now what?
+[00:32:57.224 --> 00:32:59.464] MIROK: Installation of the new engine core has been completed.
+[00:33:00.024 --> 00:33:01.864] MIROK: We are ready to switch to internal power,
+[00:33:01.864 --> 00:33:02.424] MIROK: Enterprise.
+[00:33:03.144 --> 00:33:03.544] PICARD: Understood.
+[00:33:04.104 --> 00:33:05.384] PICARD: Disconnect the power-transfer beam.
+[00:33:06.744 --> 00:33:08.184] MIROK: We are now on internal power.
+[00:33:09.944 --> 00:33:15.384] MIROK: Captain Picard, please accept my sincere thanks on behalf the Romulan Empire.
+[00:33:15.464 --> 00:33:16.744] RO: Don't listen to him, Captain.
+[00:33:16.744 --> 00:33:17.784] PICARD: It was our pleasure, Mirok.
+[00:33:19.064 --> 00:33:26.024] PICARD: And I hope that this example of cooperation between our two peoples will not be an isolated incident.
+[00:33:26.904 --> 00:33:27.864] MIROK: As do I, Captain.
+[00:33:30.904 --> 00:33:32.264] PICARD: Set a course for the Garadius system.
+[00:33:32.744 --> 00:33:33.144] PICARD: Warp six.
+[00:33:33.144 --> 00:33:33.350] LAFORGE: No, Captain wait.
+[00:33:33.350 --> 00:33:33.624] RO: Don't do it, sir.
+[00:33:34.104 --> 00:33:37.304] BROSSMER: Captain. I'm still running the decontamination programme.
+[00:33:38.024 --> 00:33:42.344] BROSSMER: Mister Data believes we shouldn't engage the warp drive until I've cleared all the chroniton fields from the ship.
+[00:33:42.744 --> 00:33:43.144] PICARD: Very well.
+[00:33:43.464 --> 00:33:44.504] PICARD: Let me know when you finished your sweep.
+[00:33:44.984 --> 00:33:45.304] BROSSMER: Yes, sir.
+[00:33:45.944 --> 00:33:51.944] RO: If we can get to the locations that she's decontaminating, maybe the anyon emissions would re-phase us enough for someone to see us.
+[00:33:51.944 --> 00:33:56.344] LAFORGE: Yeah, well the beam strength would have to be pretty strong in order for us to be visible for more than a millisecond.
+[00:33:56.984 --> 00:33:58.824] LAFORGE: Somebody's going to have to be looking directly at us.
+[00:33:59.624 --> 00:34:01.784] RO: Then we're going to have to go somewhere with an awful lot of people.
+[00:34:05.944 --> 00:34:06.504] RIKER: It's time, sir.
+[00:34:07.784 --> 00:34:08.264] RIKER: We should go.
+[00:34:11.304 --> 00:34:12.344] PICARD: You have the Bridge, Mister McDowell.
+[00:34:13.304 --> 00:34:14.744] PICARD: I'll be at the service in Ten Forward.
+[00:34:15.544 --> 00:34:16.024] LAFORGE: Ten Forward?
+[00:34:16.744 --> 00:34:17.544] LAFORGE: Well, that's perfect.
+[00:34:17.704 --> 00:34:20.104] LAFORGE: We'll create as many chroniton fields in there as we can.
+[00:34:20.104 --> 00:34:20.504] LAFORGE: Get them to
+[00:34:20.541 --> 00:34:21.901] LAFORGE: flood that room with a stronger beam.
+[00:34:28.701 --> 00:34:29.101] PICARD: Deck ten.
+[00:34:33.101 --> 00:34:35.421] PICARD: I've been thinking about the first time I met Geordi La Forge.
+[00:34:36.381 --> 00:34:43.501] PICARD: He was a young officer assigned to pilot me on an inspection tour, and I made some off hand remark about the
+[00:34:45.341 --> 00:34:48.061] PICARD: shuttle's engine efficiency not being what it should.
+[00:34:48.301 --> 00:34:54.061] PICARD: And the next morning I found that he'd stayed up all night refitting the fusion initiators.
+[00:34:56.141 --> 00:35:00.941] PICARD: Well, I knew then that I wanted him with me on my next command.
+[00:35:01.091 --> 00:35:01.691] PICARD: Have
+[00:35:05.181 --> 00:35:06.621] PICARD: you decided what you're going to say about Ensign Ro?
+[00:35:07.421 --> 00:35:07.901] RIKER: Yes, I have.
+[00:35:09.901 --> 00:35:10.381] RIKER: It wasn't easy.
+[00:35:11.501 --> 00:35:14.781] PICARD: Situations like these are never easy, Number One.
+[00:35:14.781 --> 00:35:14.781] PICARD: RO: Why? What wasn't easy? What?
+[00:35:14.781 --> 00:35:14.861] RO: What is
+[00:35:17.741 --> 00:35:20.221] RO: going on here?
+[00:35:49.199 --> 00:35:50.719] LAFORGE: It's our memorial service.
+[00:35:51.440 --> 00:35:52.026] RO: This?
+[00:35:52.026 --> 00:35:53.199] LAFORGE: Why not?
+[00:35:53.199 --> 00:35:55.279] RO: I don't believe this.
+[00:35:55.920 --> 00:35:57.839] RO: They think we're dead and they're having a party.
+[00:35:58.080 --> 00:36:00.000] LAFORGE: Yeah. It's perfect.
+[00:36:00.319 --> 00:36:02.239] LAFORGE: Come on, let's get started.
+[00:36:02.640 --> 00:36:04.400] PICARD: Well, this
+[00:36:12.719 --> 00:36:14.319] PICARD: is unusual.
+[00:36:14.640 --> 00:36:14.640] RIKER: Yeah,
+[00:36:14.799 --> 00:36:15.040] RIKER: I think
+[00:36:16.674 --> 00:36:18.310] RIKER: I
+[00:36:19.946 --> 00:36:21.582] RIKER: like
+[00:36:23.216 --> 00:36:24.852] RIKER: it.
+[00:36:25.002 --> 00:36:25.602] RO: Now
+[00:36:26.487 --> 00:36:28.123] RO: I
+[00:36:29.759 --> 00:36:31.520] RO: suppose I'll never know what you were going to say
+[00:36:33.199 --> 00:36:35.199] RO: about me.
+[00:36:35.199 --> 00:36:35.359] DATA: Do
+[00:36:38.159 --> 00:36:40.879] DATA: you think the others will think this service appropriate?
+[00:36:42.560 --> 00:36:43.359] CRUSHER: Look around you, Data. Everybody
+[00:36:44.400 --> 00:36:45.920] CRUSHER: is sharing their memories of
+[00:36:46.080 --> 00:36:47.759] CRUSHER: Geordi and Ro, laughing and talking.
+[00:36:48.400 --> 00:36:49.440] CRUSHER: What could be more appropriate than that?
+[00:36:50.400 --> 00:36:51.359] DATA: I am glad you approve,
+[00:36:51.759 --> 00:36:51.983] DATA: Doctor.
+[00:36:51.983 --> 00:36:52.879] BROSSMER: Brossmer to Commander Data.
+[00:36:53.440 --> 00:36:53.920] DATA: Go ahead, Chief.
+[00:36:54.640 --> 00:36:55.600] BROSSMER: I'm sorry to disturb you, sir.
+[00:36:56.159 --> 00:37:02.080] BROSSMER: We've cleared the critical areas of chronitons but we've detected a new field forming in Ten Forward that's stronger than any we've seen before.
+[00:37:03.040 --> 00:37:06.239] BROSSMER: Should I wait until after the service is over before beginning decontamination?
+[00:37:06.319 --> 00:37:08.080] DATA: No. No. Anyon emissions are harmless.
+[00:37:08.080 --> 00:37:09.040] DATA: Please begin immediately.
+[00:37:09.359 --> 00:37:09.520] BROSSMER: Aye, sir.
+[00:37:09.600 --> 00:37:09.600] LAFORGE: Here
+[00:37:11.359 --> 00:37:11.679] LAFORGE: we go.
+[00:37:13.359 --> 00:37:15.359] LAFORGE: Worf!
+[00:37:15.359 --> 00:37:15.520] LAFORGE: Worf,
+[00:37:15.759 --> 00:37:20.368] LAFORGE: can you see us?
+[00:37:20.368 --> 00:37:21.520] RO: Lieutenant!
+[00:37:21.520 --> 00:37:22.400] LAFORGE: We're right here, Worf.
+[00:37:22.613 --> 00:37:23.733] LAFORGE: Damn.
+[00:37:24.373 --> 00:37:26.933] RO: We have to find a way to increase the emission strength.
+[00:37:26.933 --> 00:37:27.413] LAFORGE: Yeah, I know.
+[00:37:27.733 --> 00:37:30.533] PICARD: if she hadn't lost her rank as a result of that incident at Garon Four,
+[00:37:31.573 --> 00:37:33.413] PICARD: I think she would've made Lieutenant Commander by now.
+[00:37:33.813 --> 00:37:34.133] MCDOWELL: Bridge to Captain
+[00:37:34.133 --> 00:37:34.773] MCDOWELL: Picard.
+[00:37:35.013 --> 00:37:35.413] PICARD: Go ahead.
+[00:37:35.893 --> 00:37:37.653] MCDOWELL: Incoming message from Garadius Four, sir.
+[00:37:37.893 --> 00:37:39.653] MCDOWELL: The diplomatic situation is deteriorating.
+[00:37:39.893 --> 00:37:41.173] MCDOWELL: They want an update on our ETA.
+[00:37:41.413 --> 00:37:41.893] PICARD: Stand by, Ensign.
+[00:37:44.053 --> 00:37:47.253] LAFORGE: We've got to do something now, before they go into warp.
+[00:37:47.253 --> 00:37:47.813] RO: The disruptor.
+[00:37:48.693 --> 00:37:49.573] RO: I can put it on overload.
+[00:37:49.973 --> 00:37:50.213] LAFORGE: Do it.
+[00:38:05.413 --> 00:38:05.813] RO: Let's go!
+[00:38:10.133 --> 00:38:11.733] PICARD: I would like to get under way as soon as possible.
+[00:38:12.133 --> 00:38:14.773] PICARD: The situation on Garadius Four is becoming serious.
+[00:38:15.253 --> 00:38:16.853] DATA: I see no reason to delay our departure.
+[00:38:17.573 --> 00:38:18.533] DATA: The chroniton fields have been cleared from all critical areas.
+[00:38:19.973 --> 00:38:20.373] PICARD: Excellent.
+[00:38:20.773 --> 00:38:23.493] PICARD: Mister McDowell, will you set course for Garadius Four and engage at
+[00:38:23.493 --> 00:38:24.613] BROSSMER: Commander Data,
+[00:38:24.933 --> 00:38:28.693] BROSSMER: chroniton field strength in Ten Forward has just increased by three thousand percent.
+[00:38:29.333 --> 00:38:29.893] DATA: Curious.
+[00:38:30.853 --> 00:38:31.093] DATA: Captain,
+[00:38:31.653 --> 00:38:34.133] DATA: I believe we should decontaminate this room before getting underway.
+[00:38:34.613 --> 00:38:34.853] PICARD: Very well.
+[00:38:35.573 --> 00:38:35.813] DATA: Chief.
+[00:38:36.053 --> 00:38:36.533] BROSSMER: Yes, Commander.
+[00:38:37.093 --> 00:38:41.893] DATA: Increase anyon emissions to six thousand particles per second and decontaminate this area.
+[00:38:42.853 --> 00:38:43.173] LAFORGE: Okay,
+[00:38:43.653 --> 00:38:43.973] LAFORGE: hang on.
+[00:38:44.123 --> 00:38:45.143] LAFORGE: Data, can you see us?
+[00:38:45.143 --> 00:38:45.959] RO: Captain, we're right here.
+[00:38:45.959 --> 00:38:46.571] LAFORGE: We're right here!
+[00:38:46.571 --> 00:38:47.183] LAFORGE: We're right here!
+[00:38:47.333 --> 00:38:47.333] PICARD: Did
+[00:38:49.733 --> 00:38:49.733] PICARD: you
+[00:38:54.613 --> 00:38:55.573] PICARD: see that, Mister Data?
+[00:38:57.069 --> 00:38:57.389] DATA: Yes, sir.
+[00:38:58.669 --> 00:38:59.149] LAFORGE: Come on, Data.
+[00:38:59.229 --> 00:39:00.109] LAFORGE: Put it all together now.
+[00:39:01.629 --> 00:39:02.749] PICARD: These were not ghosts.
+[00:39:02.829 --> 00:39:03.629] PICARD: what did we see?
+[00:39:05.309 --> 00:39:06.909] DATA: I believe I may know what has happened, sir.
+[00:39:07.229 --> 00:39:08.109] LAFORGE: Data, please be right.
+[00:39:09.149 --> 00:39:10.717] DATA: It would explain the mysterious chroniton fields
+[00:39:10.717 --> 00:39:11.389] RO: Yes, yes, yes.
+[00:39:11.709 --> 00:39:11.789] DATA: If
+[00:39:13.789 --> 00:39:15.598] DATA: they were cloaked in some way.
+[00:39:15.598 --> 00:39:17.709] PICARD: Are you saying that they're still alive?
+[00:39:18.829 --> 00:39:19.389] DATA: If I am right, sir,
+[00:39:19.389 --> 00:39:19.789] DATA: they are,
+[00:39:20.269 --> 00:39:24.509] DATA: and in this room. Their brief appearance coincided with the anyon sweep.
+[00:39:25.709 --> 00:39:28.909] DATA: Perhaps the anyons neutralise the cloaking effect.
+[00:39:30.109 --> 00:39:30.749] DATA: Chief Brossmer.
+[00:39:31.149 --> 00:39:31.629] BROSSMER: Yes, Commander?
+[00:39:32.029 --> 00:39:35.469] DATA: Set the anoynic beam to its highest level and flood Ten Forward.
+[00:39:35.789 --> 00:39:36.269] BROSSMER: Aye, sir.
+[00:39:36.269 --> 00:39:37.469] LAFORGE: Data, do you
+[00:39:51.309 --> 00:39:52.269] LAFORGE: see us?
+[00:39:53.309 --> 00:39:53.869] DATA: Of course.
+[00:40:00.029 --> 00:40:00.989] LAFORGE: La Forge to Engineering.
+[00:40:00.989 --> 00:40:03.469] LAFORGE: Take the warp engines off line until further notice.
+[00:40:03.949 --> 00:40:06.349] LAFORGE: There's a muon wave build up in the dilithium chamber.
+[00:40:06.589 --> 00:40:08.189] ENSIGN: Captain, who gave that order?
+[00:40:08.749 --> 00:40:10.589] PICARD: That was Commander Geordi La Forge, Ensign.
+[00:40:10.909 --> 00:40:12.189] PICARD: Please follow his instructions.
+[00:40:12.669 --> 00:40:13.069] ENSIGN: Aye, sir.
+[00:40:14.989 --> 00:40:16.109] LAFORGE: It looks like a great party.
+[00:40:16.109 --> 00:40:16.829] LAFORGE: Do you mind if we join you?
+[00:40:33.344 --> 00:40:36.464] DATA: Geordi, it is good to see you.
+[00:40:37.104 --> 00:40:37.584] LAFORGE: Thanks, Data. I've
+[00:40:39.424 --> 00:40:40.784] LAFORGE: never been to a better funeral.
+[00:40:56.464 --> 00:40:59.104] LAFORGE: Could you pass the rolls?
+[00:41:02.784 --> 00:41:04.064] RO: You've been eating for over an hour.
+[00:41:04.624 --> 00:41:07.424] LAFORGE: Come on. We didn't eat for almost two days.
+[00:41:08.384 --> 00:41:08.864] LAFORGE: I'm hungry.
+[00:41:14.624 --> 00:41:15.024] LAFORGE: What's wrong?
+[00:41:16.544 --> 00:41:16.704] RO: Nothing.
+[00:41:17.664 --> 00:41:18.384] LAFORGE: Come on.
+[00:41:22.224 --> 00:41:22.224] RO: I
+[00:41:24.784 --> 00:41:26.704] RO: was raised with Bajoran beliefs.
+[00:41:28.944 --> 00:41:31.024] RO: I even followed some of the practices,
+[00:41:33.584 --> 00:41:36.144] RO: but I never really believed in a life after death.
+[00:41:38.864 --> 00:41:43.184] RO: Then suddenly I was dead and there was another life,
+[00:41:45.664 --> 00:41:50.064] RO: and it made me feel like I'd been pretty arrogant to discount everything I'd been taught, you know?
+[00:41:56.224 --> 00:41:57.024] RO: Now I don't know what to believe.
+[00:42:01.505 --> 00:42:03.665] LAFORGE: Maybe we should develop our own interphase device.
+[00:42:06.065 --> 00:42:07.825] LAFORGE: If it can teach Ro Laren humility,
+[00:42:09.345 --> 00:42:10.145] LAFORGE: it can do anything.

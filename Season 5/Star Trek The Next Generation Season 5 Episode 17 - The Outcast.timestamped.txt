@@ -1,0 +1,744 @@
+[00:00:03.520 --> 00:00:06.400] LOG: Captain's log, stardate 45614.6.
+[00:00:06.880 --> 00:00:13.920] LOG: We have been contacted by an androgynous race called the J'naii to investigate the mysterious disappearance of one of their shuttlecraft.
+[00:00:15.360 --> 00:00:17.840] DATA: Captain, we are approaching the designated coordinates.
+[00:00:18.560 --> 00:00:19.040] PICARD: On screen.
+[00:00:21.760 --> 00:00:23.120] PICARD: Long range scan, Mister Data.
+[00:00:24.800 --> 00:00:27.760] DATA: Sensors find no evidence of the shuttle anywhere within the star system.
+[00:00:28.400 --> 00:00:30.160] SOREN: It couldn't have travelled outside the system.
+[00:00:30.720 --> 00:00:33.760] RIKER: Mister Data, reconfigure high resolution sweep, radius one million kilometres.
+[00:00:34.000 --> 00:00:34.720] RIKER: Check for any debris.
+[00:00:36.000 --> 00:00:37.760] DATA: Scan shows no debris within that radius.
+[00:00:38.240 --> 00:00:39.280] KRITE: I don't understand it.
+[00:00:39.680 --> 00:00:41.200] KRITE: A shuttle doesn't simply vanish.
+[00:00:42.240 --> 00:00:43.520] SOREN: There has to be an explanation.
+[00:00:44.000 --> 00:00:46.800] DATA: Captain, I am detecting an unusual reading.
+[00:00:47.680 --> 00:00:50.640] DATA: It appears to be a neutrino emission with no visible source.
+[00:00:51.280 --> 00:00:51.840] PICARD: Explanation?
+[00:00:52.320 --> 00:00:53.120] DATA: I have none, sir.
+[00:00:53.760 --> 00:00:55.520] DATA: I recommend we launch a probe.
+[00:00:57.040 --> 00:00:57.600] PICARD: Make it so.
+[00:00:59.920 --> 00:01:00.640] WORF: Probe is launched.
+[00:01:05.120 --> 00:01:07.760] DATA: Sensors show no evidence of any unusual phenomenon.
+[00:01:07.910 --> 00:01:08.510] DATA: The
+[00:01:12.720 --> 00:01:13.920] DATA: probe is no longer transmitting.
+[00:01:18.480 --> 00:01:19.040] SOREN: What happened?
+[00:01:20.800 --> 00:01:21.440] SOREN: Where did it go?
+[00:01:58.889 --> 00:02:01.609] PICARD: Space, the final frontier.
+[00:02:03.529 --> 00:02:06.409] PICARD: These are the voyages of the starship Enterprise.
+[00:02:07.449 --> 00:02:15.449] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:17.129 --> 00:02:20.009] PICARD: to boldly go where no one has gone before.
+[00:02:49.000 --> 00:03:00.000] [music]
+[00:03:16.109 --> 00:03:17.229] LOG: Captain's log, supplemental.
+[00:03:17.869 --> 00:03:27.389] LOG: The sudden disappearance of our probe suggests that we may have found the first instance of what is called null space, an anomaly which until now had been only theoretical.
+[00:03:28.269 --> 00:03:33.709] LOG: Commander Riker has been working around the clock with a team of J'naii specialists to formalise this hypothesis.
+[00:03:34.429 --> 00:03:43.069] SOREN: During the creation of a star system, when clouds of interstellar dust and gas coalesce, turbulent regions of magnetic and gravitational fields may develop.
+[00:03:43.629 --> 00:03:48.189] SOREN: If certain conditions occur, these fields can condense into abnormal pockets of space.
+[00:03:49.069 --> 00:03:51.469] RIKER: We think your system contains one of these null pockets.
+[00:03:52.269 --> 00:03:57.187] RIKER: If we're right, the pocket would absorb electromagnetic energy from anything that entered it.
+[00:03:57.187 --> 00:03:58.241] SOREN: Like a shuttlecraft.
+[00:03:58.241 --> 00:04:00.349] RIKER: Or a probe. Making them powerless.
+[00:04:01.069 --> 00:04:06.429] SOREN: But outside the pocket, all the energy is bent around it, making it naturally cloaked.
+[00:04:06.989 --> 00:04:10.189] SOREN: That's why we cannot see it, and our sensors cannot read it.
+[00:04:10.829 --> 00:04:11.949] NOOR: Is the shuttle still there?
+[00:04:12.589 --> 00:04:13.149] RIKER: We think so.
+[00:04:13.309 --> 00:04:16.829] RIKER: The shuttle probably wasn't able to sustain its energy, but other than that it wouldn't be damaged.
+[00:04:17.069 --> 00:04:24.509] SOREN: Since our shuttles carry plestorene based backup systems, we think life support would sustain for as long as ten days.
+[00:04:24.749 --> 00:04:26.429] NOOR: Then perhaps our crew has survived.
+[00:04:26.589 --> 00:04:29.869] RIKER: We can send one of our own shuttles, but its energy would also be absorbed.
+[00:04:30.509 --> 00:04:32.669] RIKER: Our Chief Engineer is working on a way to maintain the
+[00:04:32.679 --> 00:04:35.452] RIKER: power reserves long enough to rescue your crew.
+[00:04:35.452 --> 00:04:35.799] NOOR: Commander,
+[00:04:37.879 --> 00:04:38.759] NOOR: we're grateful for your help.
+[00:04:39.559 --> 00:04:41.479] NOOR: Whatever resources we can provide are yours.
+[00:04:54.279 --> 00:04:58.199] SOREN: I've been thinking. When the time comes, I would like to pilot the shuttle.
+[00:04:58.919 --> 00:04:59.959] RIKER: It's a Starfleet craft.
+[00:05:00.439 --> 00:05:03.479] SOREN: I cannot ask you to put yourself in danger to rescue our crew.
+[00:05:04.279 --> 00:05:05.879] RIKER: You can't pilot a shuttle you're not familiar with.
+[00:05:06.999 --> 00:05:08.119] SOREN: I happen to be a good pilot
+[00:05:08.999 --> 00:05:12.359] RIKER: I happen to be a good pilot, too. And I know my way around the Starfleet shuttle.
+[00:05:13.879 --> 00:05:14.519] RIKER: So what if we team up?
+[00:05:16.039 --> 00:05:18.119] SOREN: When can we go over the shuttle flight operations?
+[00:05:18.119 --> 00:05:18.439] RIKER: Right now.
+[00:05:26.359 --> 00:05:28.119] SOREN: Is this the one?
+[00:05:28.119 --> 00:05:28.599] RIKER: This is it.
+[00:05:28.999 --> 00:05:30.039] RIKER: Short-range craft,
+[00:05:30.439 --> 00:05:32.599] RIKER: two twelve hundred fifty millicochrane warp engines.
+[00:05:33.159 --> 00:05:34.519] SOREN: Looks like microfusion thrusters.
+[00:05:34.519 --> 00:05:34.759] RIKER: Right.
+[00:05:34.999 --> 00:05:35.479] SOREN: Armament?
+[00:05:35.799 --> 00:05:36.679] RIKER: None, usually.
+[00:05:36.839 --> 00:05:39.239] RIKER: This one's been fitted with two type-four phaser emitters.
+[00:05:40.039 --> 00:05:41.959] RIKER: We'll use those to chart the null space.
+[00:05:42.519 --> 00:05:42.919] SOREN: Chart it?
+[00:05:43.399 --> 00:05:45.959] RIKER: Mister La Forge wants to get an idea of the size of the pocket.
+[00:05:46.119 --> 00:05:48.439] RIKER: He thinks the rate of energy absorption is linked to its size.
+[00:05:48.919 --> 00:05:51.399] SOREN: I'm not sure how we go about mapping something we can't see.
+[00:05:51.399 --> 00:05:53.079] RIKER: Well, that's where the emitters come in.
+[00:05:53.079 --> 00:05:57.319] RIKER: We shoot out a series of photon pulses into the pocket and chart where each one disappears.
+[00:05:57.319 --> 00:05:59.319] RIKER: From that we should get a fairly complete outline.
+[00:06:00.359 --> 00:06:01.479] SOREN: Let's take a look at the controls.
+[00:06:07.228 --> 00:06:11.068] RIKER: Later we'll try a flight simulation.
+[00:06:11.068 --> 00:06:12.508] RIKER: Right now let's do a systems review.
+[00:06:13.228 --> 00:06:13.948] RIKER: I'll talk you through it.
+[00:06:14.108 --> 00:06:14.908] SOREN: Let me try it.
+[00:06:14.988 --> 00:06:16.748] SOREN: Propulsion system, transfer conduits.
+[00:06:17.148 --> 00:06:19.308] SOREN: Where's the schematic reactor assembly?
+[00:06:20.348 --> 00:06:21.308] SOREN: Oh, there it is.
+[00:06:22.508 --> 00:06:23.308] SOREN: Engine nacelles.
+[00:06:23.628 --> 00:06:25.468] SOREN: There's nothing here that's unfamiliar.
+[00:06:25.948 --> 00:06:29.148] SOREN: Navigational deflector, redundant graviton polarity source generators.
+[00:06:30.028 --> 00:06:31.788] RIKER: You handle these controls like you grew up in a shuttle.
+[00:06:32.348 --> 00:06:32.748] SOREN: I did.
+[00:06:33.628 --> 00:06:34.588] SOREN: My parents were pilots.
+[00:06:35.068 --> 00:06:37.228] SOREN: I was flying with them before I could walk.
+[00:06:37.228 --> 00:06:38.828] SOREN: And as soon as I was old enough, I entered flight school.
+[00:06:39.628 --> 00:06:40.588] SOREN: Krite was my instructor.
+[00:06:41.148 --> 00:06:41.948] RIKER: He had a good student.
+[00:06:42.508 --> 00:06:42.668] SOREN: He?
+[00:06:43.708 --> 00:06:46.668] SOREN: Commander, there are no he's or she's in a species without gender.
+[00:06:47.228 --> 00:06:47.548] RIKER: Okay.
+[00:06:48.348 --> 00:06:51.548] RIKER: For two days I've been trying to construct sentences without personal pronouns.
+[00:06:52.028 --> 00:06:52.588] RIKER: Now I give up.
+[00:06:52.668 --> 00:06:53.148] RIKER: What should I use?
+[00:06:53.228 --> 00:06:53.468] RIKER: It?
+[00:06:54.268 --> 00:06:54.988] RIKER: To us, that's rude.
+[00:06:55.868 --> 00:06:57.388] SOREN: We use a pronoun which is neutral.
+[00:06:58.668 --> 00:07:00.588] SOREN: I do not think there is really a translation.
+[00:07:01.068 --> 00:07:02.828] RIKER: Then I'll just have to muddle through.
+[00:07:02.828 --> 00:07:05.308] RIKER: So forgive me if a stray he or she slips by, okay?
+[00:07:07.068 --> 00:07:10.748] SOREN: Well, if that's the systems review, I don't see any problem.
+[00:07:10.748 --> 00:07:11.228] SOREN: What's next?
+[00:07:12.188 --> 00:07:12.588] RIKER: Lunch.
+[00:07:13.148 --> 00:07:13.148] SOREN: What is it?
+[00:07:13.548 --> 00:07:14.588] RIKER: Split pea soup.
+[00:07:14.908 --> 00:07:16.988] RIKER: It's my
+[00:07:18.908 --> 00:07:19.708] RIKER: father's recipe.
+[00:07:19.708 --> 00:07:21.308] RIKER: I had it programmed into the replicators.
+[00:07:23.388 --> 00:07:25.388] RIKER: Well?
+[00:07:27.708 --> 00:07:28.108] SOREN: Unusual,
+[00:07:29.308 --> 00:07:30.108] SOREN: but I think I like it.
+[00:07:30.508 --> 00:07:31.308] RIKER: It's very healthy.
+[00:07:32.268 --> 00:07:34.188] RIKER: Helps to keep you warm on cold Alaskan nights.
+[00:07:35.148 --> 00:07:36.988] SOREN: We prefer to stay warm by sleeping with a friend.
+[00:07:37.308 --> 00:07:39.628] RIKER: I see.
+[00:07:42.188 --> 00:07:42.668] SOREN: Not to mate.
+[00:07:45.228 --> 00:07:46.908] SOREN: Just to sleep together for warmth.
+[00:07:48.028 --> 00:07:49.308] RIKER: Still sounds better than pea soup.
+[00:07:50.748 --> 00:07:51.948] SOREN: We are puzzling to you, aren't we?
+[00:07:52.988 --> 00:07:53.308] RIKER: A little.
+[00:07:56.028 --> 00:07:58.188] RIKER: It's hard to grasp the idea of no gender.
+[00:07:59.628 --> 00:08:07.708] SOREN: It's just as hard for us to understand the strange division in your species. Males and females.
+[00:08:08.588 --> 00:08:09.228] SOREN: You are male.
+[00:08:11.628 --> 00:08:12.908] SOREN: Tell me about males.
+[00:08:13.148 --> 00:08:15.308] SOREN: What is it that makes you different from females?
+[00:08:20.028 --> 00:08:24.588] RIKER: Snips and snails and puppy dog tails?
+[00:08:25.868 --> 00:08:26.908] SOREN: You have a dog's tail?
+[00:08:27.628 --> 00:08:28.828] RIKER: It's an old nursery rhyme.
+[00:08:29.308 --> 00:08:34.028] RIKER: Girls are made from sugar and spice, and boys are made from snips and snails.
+[00:08:34.668 --> 00:08:36.348] SOREN: That makes it sound better to be female.
+[00:08:37.228 --> 00:08:39.148] RIKER: It's an old-fashioned way of looking at the sexes.
+[00:08:40.348 --> 00:08:42.828] RIKER: Not to say that there's no real difference between them.
+[00:08:44.268 --> 00:08:47.308] RIKER: Physically, men are bigger, stronger in the upper body.
+[00:08:47.308 --> 00:08:48.988] RIKER: We have different sexual organs.
+[00:08:49.468 --> 00:08:50.588] RIKER: Men can't bear young.
+[00:08:51.948 --> 00:08:54.988] SOREN: And what about feelings, or emotional attitudes?
+[00:08:55.068 --> 00:08:55.708] SOREN: Are they different?
+[00:08:57.228 --> 00:08:58.028] RIKER: Most people think so.
+[00:08:59.468 --> 00:09:01.468] RIKER: But that's the kind of question that would take a lifetime to answer.
+[00:09:04.049 --> 00:09:08.289] RIKER: Let me ask you, what's it like on a planet where the people have no gender?
+[00:09:09.569 --> 00:09:11.089] SOREN: I'm afraid I don't understand.
+[00:09:13.249 --> 00:09:13.409] RIKER: Well,
+[00:09:16.049 --> 00:09:20.529] RIKER: who leads when you dance? If you dance.
+[00:09:21.009 --> 00:09:24.129] SOREN: We do, and whoever's taller leads.
+[00:09:26.209 --> 00:09:29.889] RIKER: Without the battle of the sexes you probably don't have as many arguments.
+[00:09:30.449 --> 00:09:33.329] SOREN: Just because we don't have gender doesn't mean we don't have conflicts.
+[00:09:34.209 --> 00:09:35.169] SOREN: We're very strong-minded.
+[00:09:35.969 --> 00:09:37.009] SOREN: We love a good fight.
+[00:09:37.649 --> 00:09:39.969] RIKER: From the sound of it there's not that much difference between our species.
+[00:09:40.369 --> 00:09:40.769] SOREN: Maybe
+[00:09:42.849 --> 00:09:44.849] SOREN: not.
+[00:09:47.489 --> 00:09:51.009] SOREN: What kind of woman do you find attractive?
+[00:09:54.129 --> 00:09:55.729] RIKER: I like one who's intelligent and sure of herself,
+[00:09:57.249 --> 00:09:58.689] RIKER: who I can talk with and get something back.
+[00:09:59.569 --> 00:10:00.529] RIKER: But the most important thing of all?
+[00:10:02.769 --> 00:10:03.889] RIKER: She has to laugh at my jokes.
+[00:10:07.889 --> 00:10:11.889] SOREN: Tell me, is that the kind of woman that all human males prefer?
+[00:10:12.769 --> 00:10:13.249] RIKER: Not at all.
+[00:10:14.289 --> 00:10:16.449] RIKER: Some like quiet, demure women.
+[00:10:16.929 --> 00:10:18.209] RIKER: Others prefer a lot of energy.
+[00:10:19.409 --> 00:10:22.689] RIKER: Some only respond to physical attractiveness.
+[00:10:23.249 --> 00:10:24.209] RIKER: Others couldn't care less.
+[00:10:25.329 --> 00:10:26.129] RIKER: There are no rules.
+[00:10:27.133 --> 00:10:28.733] SOREN: You make it sound very complex.
+[00:10:29.613 --> 00:10:30.493] RIKER: Believe me, it is.
+[00:10:31.373 --> 00:10:33.373] SOREN: Well, perhaps it is that complexity
+[00:10:35.133 --> 00:10:38.413] SOREN: which makes differences in the sexes so interesting.
+[00:10:40.653 --> 00:10:41.533] KRITE: Good evening, Commander.
+[00:10:43.693 --> 00:10:44.013] RIKER: Good evening.
+[00:10:45.053 --> 00:10:46.173] SOREN: Please take my place, Krite.
+[00:10:46.813 --> 00:10:47.533] SOREN: I have to be going.
+[00:10:48.733 --> 00:10:50.573] SOREN: Thank you for going over the flight protocols, Commander.
+[00:10:50.973 --> 00:10:51.773] SOREN: It was very helpful.
+[00:11:02.173 --> 00:11:03.373] LOG: Captain's log, supplemental.
+[00:11:03.773 --> 00:11:07.773] LOG: Commander Riker and the J'naii pilot have set out to chart the null space pocket.
+[00:11:08.173 --> 00:11:10.733] LOG: If they are successful, we can then proceed with a rescue attempt.
+[00:11:12.253 --> 00:11:13.693] SOREN: I've illuminated the delta four grid map.
+[00:11:14.413 --> 00:11:15.533] SOREN: We'll start there and expand.
+[00:11:16.093 --> 00:11:17.853] RIKER: Stand by, forward phaser array.
+[00:11:22.413 --> 00:11:26.893] SOREN: Pulse vanished at delta four point two by point three.
+[00:11:27.453 --> 00:11:28.253] RIKER: Firing second burst.
+[00:11:28.253 --> 00:11:32.573] SOREN: Delta four point four by point five.
+[00:11:32.573 --> 00:11:33.773] RIKER: This is working.
+[00:11:34.573 --> 00:11:36.333] RIKER: Initiating computer task hand-off.
+[00:11:41.293 --> 00:11:45.853] SOREN: Commander, tell me about your sexual organs.
+[00:11:49.053 --> 00:11:49.693] RIKER: Er.
+[00:11:51.213 --> 00:11:53.133] SOREN: Is that an uncomfortable subject for humans?
+[00:11:53.213 --> 00:11:53.613] RIKER: No,
+[00:11:53.873 --> 00:11:56.913] RIKER: but it doesn't tend to be a topic of casual conversation.
+[00:11:58.193 --> 00:12:00.033] SOREN: I'm interested in your mating practices.
+[00:12:02.113 --> 00:12:04.833] SOREN: What is involved with two sexes?
+[00:12:05.713 --> 00:12:08.833] RIKER: Correcting course. Zero two one mark zero.
+[00:12:12.113 --> 00:12:12.433] SOREN: Mating?
+[00:12:15.553 --> 00:12:15.793] RIKER: Right.
+[00:12:17.153 --> 00:12:17.793] RIKER: Well, it's pretty simple.
+[00:12:18.433 --> 00:12:20.273] RIKER: Men inseminate the women. Women carry the baby.
+[00:12:21.873 --> 00:12:25.873] SOREN: Our foetuses are incubated in fibrous husks, which the parents inseminate.
+[00:12:25.873 --> 00:12:32.273] SOREN: From what we know of other species, our method is less risky and less painful.
+[00:12:33.553 --> 00:12:34.273] RIKER: And less enjoyable.
+[00:12:35.793 --> 00:12:36.593] SOREN: Less enjoyable?
+[00:12:38.273 --> 00:12:42.593] RIKER: For humans, the sexual act brings a closeness and intimacy.
+[00:12:44.433 --> 00:12:46.113] RIKER: It can be a very pleasurable experience.
+[00:12:48.513 --> 00:12:49.633] RIKER: Inseminating a husk.
+[00:12:50.753 --> 00:12:51.793] SOREN: That's just the last step.
+[00:12:53.873 --> 00:12:55.793] SOREN: Mating is a long ritual for us,
+[00:12:57.473 --> 00:12:59.393] SOREN: full of variety and invention. I assure you,
+[00:13:00.593 --> 00:13:02.033] SOREN: it is extremely pleasurable.
+[00:13:02.193 --> 00:13:06.673] RIKER: I'm picking up a neutrino emission from within the null space.
+[00:13:07.553 --> 00:13:08.753] SOREN: That may be coming from our shuttle.
+[00:13:08.753 --> 00:13:09.873] SOREN: I'll note these coordinates.
+[00:13:09.873 --> 00:13:12.833] SOREN: I wonder.
+[00:13:13.233 --> 00:13:15.233] RIKER: What?
+[00:13:15.233 --> 00:13:15.233] SOREN: If a
+[00:13:17.313 --> 00:13:20.433] SOREN: human and a J'naii would be sexually compatible.
+[00:13:22.353 --> 00:13:22.753] RIKER: I don't know.
+[00:13:23.873 --> 00:13:24.993] SOREN: Of course it would never be permitted.
+[00:13:25.953 --> 00:13:26.273] RIKER: Why not?
+[00:13:26.273 --> 00:13:28.033] SOREN: The idea of gender.
+[00:13:29.361 --> 00:13:30.721] SOREN: It is offensive to my people.
+[00:13:32.321 --> 00:13:35.201] SOREN: You see, long ago we had two sexes, as you do.
+[00:13:36.961 --> 00:13:38.801] SOREN: But we evolved into a higher form.
+[00:13:40.801 --> 00:13:48.801] SOREN: I don't mean to sound insulting, but on my planet we have been taught that gender is primitive.
+[00:13:50.881 --> 00:13:51.201] RIKER: Primitive?
+[00:13:52.481 --> 00:13:53.121] SOREN: Less evolved.
+[00:13:56.161 --> 00:14:01.041] RIKER: Maybe so, but sometimes there's a lot to be said for an experience that's primitive.
+[00:14:04.001 --> 00:14:05.921] SOREN: Delta five grid map is fully plotted.
+[00:14:06.241 --> 00:14:07.041] RIKER: Adjusting course.
+[00:14:07.681 --> 00:14:08.561] RIKER: Zero two nine
+[00:14:08.961 --> 00:14:09.441] RIKER: mark zero.
+[00:14:09.591 --> 00:14:10.191] RIKER: The
+[00:14:12.481 --> 00:14:12.721] RIKER: port
+[00:14:19.441 --> 00:14:20.161] RIKER: engine's down.
+[00:14:20.561 --> 00:14:21.121] SOREN: Reducing power
+[00:14:21.201 --> 00:14:22.081] SOREN: in the starboard nacelle.
+[00:14:22.081 --> 00:14:22.561] RIKER: That's not enough.
+[00:14:22.881 --> 00:14:24.401] RIKER: I have to activate the manoeuvring thrusters.
+[00:14:24.401 --> 00:14:25.921] SOREN: Thrusters aren't responding.
+[00:14:27.281 --> 00:14:28.721] SOREN: I'll try to reroute the firing sequence.
+[00:14:28.721 --> 00:14:31.601] RIKER: Inertial dampers are failing.
+[00:14:31.681 --> 00:14:32.081] RIKER: Hang on!
+[00:14:32.081 --> 00:14:32.721] LAFORGE: Enterprise to
+[00:14:34.801 --> 00:14:34.961] LAFORGE: shuttle,
+[00:14:35.521 --> 00:14:36.001] LAFORGE: do you read me?
+[00:14:36.481 --> 00:14:36.961] RIKER: Affirmative.
+[00:14:37.441 --> 00:14:38.241] RIKER: We've lost an engine.
+[00:14:38.641 --> 00:14:39.921] LAFORGE: We'll try to get a tractor beam on you.
+[00:14:40.561 --> 00:14:41.121] RIKER: The sooner the better.
+[00:14:41.601 --> 00:14:42.721] RIKER: Enterprise, we have an injury.
+[00:14:42.721 --> 00:14:43.761] RIKER: Transport Soren
+[00:14:44.001 --> 00:14:44.881] RIKER: directly to Sickbay.
+[00:14:44.881 --> 00:14:46.241] LAFORGE: Right away, Commander.
+[00:14:46.241 --> 00:14:46.241] CRUSHER: It's
+[00:14:56.881 --> 00:14:57.841] CRUSHER: just a mild concussion.
+[00:14:57.921 --> 00:14:58.721] CRUSHER: You're going to be fine.
+[00:15:00.561 --> 00:15:01.841] CRUSHER: This will reduce the inflammation.
+[00:15:05.565 --> 00:15:05.965] SOREN: Doctor,
+[00:15:07.725 --> 00:15:08.605] SOREN: you are female.
+[00:15:09.405 --> 00:15:09.805] CRUSHER: Yes.
+[00:15:10.765 --> 00:15:14.605] SOREN: Forgive me, I do not mean to be rude, but I'm curious.
+[00:15:15.805 --> 00:15:16.605] SOREN: What is it like?
+[00:15:18.205 --> 00:15:21.325] CRUSHER: Well, it's just the way I am.
+[00:15:21.485 --> 00:15:23.005] CRUSHER: I've never really thought about what it's like.
+[00:15:24.365 --> 00:15:32.765] SOREN: I've noticed you tend to have longer hair, and you arrange it more elaborately. And you apply colour to your bodies.
+[00:15:33.005 --> 00:15:33.325] CRUSHER: Colour?
+[00:15:34.605 --> 00:15:41.325] SOREN: You put colour on your mouths, and your eyes, your cheeks, your fingernails.
+[00:15:42.205 --> 00:15:42.765] SOREN: The men don't.
+[00:15:43.485 --> 00:15:44.045] CRUSHER: That's true.
+[00:15:46.045 --> 00:15:49.005] SOREN: Then it is up to women to attract the men.
+[00:15:49.325 --> 00:15:51.805] CRUSHER: Oh, no. Men want to be attractive too,
+[00:15:51.805 --> 00:15:54.765] CRUSHER: believe me. They just go about it differently.
+[00:15:56.605 --> 00:15:57.165] SOREN: No colour.
+[00:15:57.965 --> 00:15:58.365] CRUSHER: No colour.
+[00:16:00.605 --> 00:16:07.005] CRUSHER: They like to pretend they're not doing anything to attract a woman, even when it's the most important thing on their minds.
+[00:16:09.565 --> 00:16:10.845] SOREN: This is very confusing.
+[00:16:12.605 --> 00:16:15.885] SOREN: Then, are women considered more superior,
+[00:16:17.405 --> 00:16:18.445] SOREN: or are men?
+[00:16:18.445 --> 00:16:18.845] CRUSHER: Neither.
+[00:16:21.165 --> 00:16:27.885] CRUSHER: In the past, women were often considered weak and inferior.
+[00:16:28.035 --> 00:16:28.635] CRUSHER: But
+[00:16:30.803 --> 00:16:32.963] CRUSHER: that hasn't been true for a long time.
+[00:16:34.883 --> 00:16:37.763] CRUSHER: Will, your co-pilot is going to be fine.
+[00:16:37.763 --> 00:16:38.643] CRUSHER: The injury was minor.
+[00:16:39.843 --> 00:16:40.403] RIKER: I'm glad to hear it.
+[00:16:41.203 --> 00:16:42.963] SOREN: I'm afraid you're not rid of me yet, Commander.
+[00:16:43.603 --> 00:16:45.043] SOREN: I will be able to complete the mission.
+[00:16:45.603 --> 00:16:46.323] RIKER: Glad you feel better.
+[00:16:46.883 --> 00:16:47.443] SOREN: What happened?
+[00:16:47.523 --> 00:16:49.123] SOREN: What made the shuttle go into a spin?
+[00:16:49.203 --> 00:16:54.003] RIKER: The port nacelle must have nipped one of the protrusions from the null pocket and shut it down.
+[00:16:54.003 --> 00:16:55.043] SOREN: Are we still on schedule, then?
+[00:16:55.603 --> 00:16:56.483] RIKER: That depends on how you're doing.
+[00:16:58.803 --> 00:16:59.363] SOREN: I'm fine.
+[00:16:59.603 --> 00:17:00.803] SOREN: We should go check the port engine.
+[00:17:00.883 --> 00:17:01.363] RIKER: Whoa.
+[00:17:02.643 --> 00:17:04.083] RIKER: Maybe we should get the doctor's opinion first.
+[00:17:05.923 --> 00:17:06.283] SOREN: Doctor?
+[00:17:06.283 --> 00:17:08.083] CRUSHER: I don't see any problem.
+[00:17:08.403 --> 00:17:11.203] CRUSHER: But if you feel any symptoms, headache, dizziness, come back.
+[00:17:11.763 --> 00:17:12.403] SOREN: You have my word.
+[00:17:21.363 --> 00:17:21.923] TROI: All right.
+[00:17:23.363 --> 00:17:26.483] TROI: This hand, the game is Federation Day.
+[00:17:28.883 --> 00:17:29.443] WORF: What is that?
+[00:17:30.323 --> 00:17:36.883] TROI: Well, the Federation was founded in Twenty One Sixty One, so, twos, sixes, and aces are wild.
+[00:17:37.843 --> 00:17:38.963] WORF: That is a woman's game.
+[00:17:40.643 --> 00:17:40.883] TROI: Oh?
+[00:17:41.123 --> 00:17:41.843] TROI: Why is that?
+[00:17:42.243 --> 00:17:43.283] WORF: All those wild cards.
+[00:17:43.523 --> 00:17:44.883] WORF: They support a weak hand.
+[00:17:45.763 --> 00:17:47.603] WORF: A man's game has no wild cards.
+[00:17:48.723 --> 00:17:49.363] CRUSHER: Let me get this straight.
+[00:17:49.363 --> 00:17:52.643] CRUSHER: Are you saying it's a woman's game because women are weak and need more help?
+[00:17:54.323 --> 00:17:54.643] WORF: Yes.
+[00:17:55.655 --> 00:18:00.215] CRUSHER: And just this afternoon I was insisting to one of the J'naii that those attitudes were but a distant memory.
+[00:18:01.895 --> 00:18:02.135] WORF: The J'naii.
+[00:18:04.535 --> 00:18:05.255] WORF: They bother me.
+[00:18:05.975 --> 00:18:06.455] TROI: Why, Worf?
+[00:18:06.935 --> 00:18:07.655] WORF: They just do.
+[00:18:08.455 --> 00:18:09.095] WORF: They're all alike.
+[00:18:09.735 --> 00:18:11.175] WORF: No males, no females.
+[00:18:11.575 --> 00:18:13.255] TROI: Well I'm sure we're just as strange to them.
+[00:18:13.975 --> 00:18:17.895] CRUSHER: Well one of them seems to be overcoming the differences, at least in regards to one of us.
+[00:18:19.495 --> 00:18:20.375] WORF: What are you saying, Doctor?
+[00:18:21.015 --> 00:18:25.335] CRUSHER: I could be wrong, but I get the definite impression that Soren is attracted to Commander Riker.
+[00:18:25.485 --> 00:18:26.085] WORF: A
+[00:18:26.855 --> 00:18:27.735] WORF: human and a J'naii?
+[00:18:29.975 --> 00:18:30.535] WORF: Impossible.
+[00:18:32.615 --> 00:18:32.855] DATA: Why?
+[00:18:33.735 --> 00:18:35.495] TROI: Good question. Worf?
+[00:18:35.645 --> 00:18:36.645] WORF: With all
+[00:18:41.415 --> 00:18:42.375] WORF: these wild cards,
+[00:18:43.095 --> 00:18:45.415] WORF: it is difficult to know exactly what is in my hand.
+[00:18:45.975 --> 00:18:47.655] WORF: However, I will open with fifty.
+[00:18:49.495 --> 00:18:49.655] RIKER: The
+[00:18:52.455 --> 00:18:54.055] RIKER: portable transporter array is in.
+[00:18:54.375 --> 00:18:59.175] RIKER: When we get into null space, we'll need to initialise it before we can transport the J'naii crew to this shuttle.
+[00:19:00.055 --> 00:19:02.215] RIKER: But there should still be enough power left to beam all of us back to the Enterprise.
+[00:19:03.095 --> 00:19:05.175] SOREN: Is the buffer field generator installed?
+[00:19:05.415 --> 00:19:05.815] RIKER: Not yet.
+[00:19:05.815 --> 00:19:07.975] RIKER: Geordi thinks that'll be ready by oh eight hundred hours tomorrow.
+[00:19:08.695 --> 00:19:12.215] RIKER: But before that, we should see if we can balance this engine.
+[00:19:13.335 --> 00:19:16.055] RIKER: Can you access the starboard manifold thrust?
+[00:19:16.055 --> 00:19:16.135] SOREN: There.
+[00:19:25.255 --> 00:19:27.175] RIKER: Set the arc at six point three.
+[00:19:27.593 --> 00:19:28.873] RIKER: I'll optimise the plasma flow.
+[00:19:31.833 --> 00:19:33.833] SOREN: Commander,
+[00:19:34.153 --> 00:19:39.673] SOREN: I'd like to tell you something.
+[00:19:39.753 --> 00:19:41.113] SOREN: Something that's not easy to say.
+[00:19:42.473 --> 00:19:42.793] RIKER: What's that?
+[00:19:42.793 --> 00:19:42.793] SOREN: I
+[00:19:47.273 --> 00:19:49.993] SOREN: find you attractive.
+[00:19:51.673 --> 00:19:51.833] SOREN: I'm
+[00:19:53.593 --> 00:19:56.953] SOREN: taking a terrible risk telling you that.
+[00:19:57.993 --> 00:19:59.593] SOREN: It means revealing something to you,
+[00:20:00.873 --> 00:20:04.553] SOREN: something that, if it were known on my planet, would be very dangerous for me.
+[00:20:11.353 --> 00:20:14.313] SOREN: Occasionally, among my people,
+[00:20:16.633 --> 00:20:20.953] SOREN: there are a few who are born different,
+[00:20:23.913 --> 00:20:26.553] SOREN: who are throwbacks from the era when we all had gender.
+[00:20:27.753 --> 00:20:34.473] SOREN: Some have strong inclinations to maleness, and some have urges to be female.
+[00:20:36.713 --> 00:20:37.593] SOREN: I am one of the latter.
+[00:20:40.233 --> 00:20:42.873] RIKER: I have to admit I had a feeling you were different.
+[00:20:43.433 --> 00:20:46.313] SOREN: I was hoping you would.
+[00:20:48.473 --> 00:20:52.393] SOREN: But in front of Krite and the others, I must be careful not to reveal myself.
+[00:20:53.513 --> 00:20:53.753] RIKER: Why?
+[00:20:54.473 --> 00:20:56.713] SOREN: On our world these feelings are forbidden.
+[00:20:58.510 --> 00:21:05.710] SOREN: Those who are discovered are shamed and ridiculed, and only by undergoing psychotectic therapy and
+[00:21:07.470 --> 00:21:14.990] SOREN: having all elements of gender eliminated can they become accepted into society again.
+[00:21:14.990 --> 00:21:18.670] SOREN: Those of us who have these urges live secret and guarded lives.
+[00:21:19.390 --> 00:21:20.590] SOREN: We seek each other out,
+[00:21:22.350 --> 00:21:26.830] SOREN: always hiding, always terrified of being discovered.
+[00:21:28.590 --> 00:21:31.070] RIKER: How long have you known that you were like this?
+[00:21:33.310 --> 00:21:35.150] SOREN: I've known I was different all my life.
+[00:21:36.910 --> 00:21:41.070] SOREN: But I didn't understand how or why until I was older.
+[00:21:41.790 --> 00:21:42.510] RIKER: And when you realised,
+[00:21:44.350 --> 00:21:47.310] RIKER: what then?
+[00:21:47.390 --> 00:21:49.070] SOREN: I remember when I was very young,
+[00:21:50.830 --> 00:21:54.510] SOREN: before I knew what I was, there was a rumour in my school
+[00:21:56.190 --> 00:22:00.910] SOREN: that one of the students preferred a gender, in that case, male.
+[00:22:03.790 --> 00:22:05.870] SOREN: The children started making fun of him,
+[00:22:07.950 --> 00:22:09.550] SOREN: and every day they were more cruel
+[00:22:10.750 --> 00:22:15.790] SOREN: They could tell he was afraid and somehow that seemed to encourage them.
+[00:22:18.830 --> 00:22:22.510] SOREN: One morning in class, he appeared, bleeding
+[00:22:23.604 --> 00:22:24.724] SOREN: and in ripped clothes.
+[00:22:26.564 --> 00:22:27.844] SOREN: He said he had fallen down.
+[00:22:31.284 --> 00:22:39.284] SOREN: And of course the school authorities found out and took him away, and gave him psychotectic treatments.
+[00:22:40.404 --> 00:22:43.204] SOREN: When he came back,
+[00:22:45.684 --> 00:22:47.204] SOREN: he stood in front of the whole school
+[00:22:50.004 --> 00:22:54.324] SOREN: and told us how happy he was now that he had been cured.
+[00:22:57.204 --> 00:23:00.964] SOREN: After that, I realised how dangerous it was to be different.
+[00:23:03.444 --> 00:23:06.644] SOREN: And once I got older, and knew what I was,
+[00:23:08.164 --> 00:23:08.964] SOREN: I was terrified.
+[00:23:11.684 --> 00:23:13.924] SOREN: I have had to live with that fear ever since.
+[00:23:14.804 --> 00:23:15.204] RIKER: Do you have
+[00:23:17.044 --> 00:23:18.724] RIKER: relationships with others?
+[00:23:19.844 --> 00:23:23.524] SOREN: Yes, with those who have discovered they are male.
+[00:23:25.684 --> 00:23:29.364] SOREN: I have had to live a life of pretence and lies,
+[00:23:31.364 --> 00:23:32.804] SOREN: but with you I can be honest.
+[00:23:33.604 --> 00:23:35.444] SOREN: Please, don't say anything.
+[00:23:37.764 --> 00:23:38.484] SOREN: Just think about it.
+[00:23:51.395 --> 00:23:52.195] LAFORGE: That's it, Commander,
+[00:23:52.835 --> 00:23:53.955] LAFORGE: everything checks out.
+[00:23:54.275 --> 00:23:56.195] LAFORGE: The energy buffer is installed and functioning.
+[00:23:56.835 --> 00:23:59.635] LAFORGE: I estimate it should reduce the power drain to your systems by about forty percent.
+[00:23:59.955 --> 00:24:00.835] RIKER: Any guess how long we'll have?
+[00:24:01.075 --> 00:24:03.235] LAFORGE: Lets just say you don't want to waste any time once you get in there.
+[00:24:03.875 --> 00:24:06.435] LAFORGE: You'll have to give him continuous readouts on energy consumption.
+[00:24:06.675 --> 00:24:08.755] LAFORGE: I can't even predict if the drain will be at a constant rate.
+[00:24:09.075 --> 00:24:09.715] SOREN: I understand.
+[00:24:10.035 --> 00:24:11.555] LAFORGE: Then that's it. Commander,
+[00:24:11.555 --> 00:24:15.075] LAFORGE: I'll monitor you as far as I can, but once you get inside that pocket you're on your own.
+[00:24:15.395 --> 00:24:19.235] RIKER: We don't have any idea what condition the shuttle crew is in, so we'll all beam directly to Sickbay.
+[00:24:19.395 --> 00:24:20.995] LAFORGE: I'll notify Doctor Crusher to be standing by.
+[00:24:26.515 --> 00:24:27.395] LAFORGE: La Forge to Bridge.
+[00:24:27.395 --> 00:24:28.435] PICARD: Picard here.
+[00:24:28.435 --> 00:24:30.915] LAFORGE: We're ready to initiate shuttle pre-launch sequence.
+[00:24:31.395 --> 00:24:32.115] PICARD: Proceed, Mister Data.
+[00:24:33.155 --> 00:24:34.355] DATA: Initiating pre-launch sequence.
+[00:24:35.075 --> 00:24:36.115] RIKER: Request flight clearance.
+[00:24:37.955 --> 00:24:38.755] DATA: Clearance is granted.
+[00:24:40.115 --> 00:24:40.995] DATA: The shuttle is under way, sir.
+[00:24:41.955 --> 00:24:42.835] PICARD: Good hunting, Commander.
+[00:24:43.395 --> 00:24:43.875] RIKER: Thank you, sir.
+[00:24:44.515 --> 00:24:45.075] RIKER: See you for dinner.
+[00:24:46.195 --> 00:24:46.915] SOREN: Heading confirmed.
+[00:24:47.955 --> 00:24:51.315] SOREN: Energy readings are normal, with power reserves stabilised at one hundred percent.
+[00:24:51.555 --> 00:24:51.955] RIKER: Acknowledged.
+[00:24:53.555 --> 00:24:56.355] SOREN: It's dead ahead, approximately fifty kilometres.
+[00:24:56.755 --> 00:24:57.635] RIKER: Riker to Enterprise,
+[00:24:57.795 --> 00:24:58.355] RIKER: we're taking her in.
+[00:25:04.515 --> 00:25:04.675] RIKER: Riker to Enterprise?
+[00:25:04.995 --> 00:25:05.235] RIKER: Riker to
+[00:25:06.915 --> 00:25:06.915] RIKER: Enterprise.
+[00:25:06.915 --> 00:25:07.475] SOREN: Power reserves are
+[00:25:11.715 --> 00:25:12.995] SOREN: down to eighty four percent.
+[00:25:13.555 --> 00:25:13.715] RIKER: Look.
+[00:25:14.835 --> 00:25:15.395] RIKER: Try hailing them.
+[00:25:17.762 --> 00:25:18.802] SOREN: Calling the Taris Murn.
+[00:25:19.362 --> 00:25:20.002] SOREN: Do you read me?
+[00:25:23.122 --> 00:25:23.922] RIKER: Getting sensor readings.
+[00:25:24.082 --> 00:25:25.362] RIKER: They're unconscious but they're alive.
+[00:25:25.682 --> 00:25:26.242] RIKER: Stand by.
+[00:25:26.962 --> 00:25:28.082] RIKER: I'm going to transport them over here.
+[00:25:29.122 --> 00:25:31.282] SOREN: Power reserves at sixty eight percent and dropping.
+[00:25:38.642 --> 00:25:41.042] RIKER: The null space must be affecting the annular confinement beam.
+[00:25:41.602 --> 00:25:43.042] SOREN: We used ten megajoules with that attempt.
+[00:25:43.282 --> 00:25:44.722] SOREN: We're down to thirty four percent of reserves.
+[00:25:45.282 --> 00:25:46.322] RIKER: We can give it one more try.
+[00:25:47.042 --> 00:25:49.202] RIKER: More than that, we won't have enough power to get ourselves out of here.
+[00:25:58.242 --> 00:25:59.442] SOREN: They need medical attention quickly.
+[00:25:59.602 --> 00:25:59.842] RIKER: Okay.
+[00:25:59.922 --> 00:26:01.202] RIKER: Stand by to transport to the Enterprise.
+[00:26:01.202 --> 00:26:01.522] RIKER: Here we go.
+[00:26:05.522 --> 00:26:06.242] RIKER: Energy consumption?
+[00:26:07.762 --> 00:26:10.562] SOREN: We're down to nine percent.
+[00:26:10.962 --> 00:26:12.002] SOREN: We don't have enough to get back.
+[00:26:12.402 --> 00:26:12.882] RIKER: If we just sit here,
+[00:26:12.882 --> 00:26:16.242] RIKER: we'll lose all of our systems within an hour, including life support.
+[00:26:16.962 --> 00:26:17.202] RIKER: Okay,
+[00:26:17.762 --> 00:26:19.602] RIKER: I'm rerouting the propulsion system to the transporter.
+[00:26:20.562 --> 00:26:21.922] RIKER: Re-channel the navigation systems.
+[00:26:22.162 --> 00:26:23.922] RIKER: Let's transfer every microjoule of energy we've got.
+[00:26:24.002 --> 00:26:24.562] RIKER: Sensors,
+[00:26:25.282 --> 00:26:25.922] RIKER: life support.
+[00:26:26.242 --> 00:26:27.442] RIKER: This might give us one last shot.
+[00:26:28.082 --> 00:26:31.682] SOREN: But if we use an energy shift of that size, it'll overload the phase compensators.
+[00:26:32.002 --> 00:26:32.402] SOREN: The shuttle
+[00:26:32.402 --> 00:26:32.802] RIKER: Will explode.
+[00:26:33.442 --> 00:26:34.882] RIKER: But if we stay here, we're dead anyway.
+[00:26:36.322 --> 00:26:37.362] RIKER: Maximum energy levels,
+[00:26:37.602 --> 00:26:38.162] RIKER: five seconds.
+[00:26:41.522 --> 00:26:43.922] RIKER: See you in a minute.
+[00:27:00.350 --> 00:27:01.550] CRUSHER: They've been oxygen deprived.
+[00:27:02.510 --> 00:27:04.350] CRUSHER: There doesn't seem to be any significant damage.
+[00:27:04.350 --> 00:27:05.070] CRUSHER: Prepare some dexalin.
+[00:27:05.070 --> 00:27:05.550] MEDIC: Yes, Doctor.
+[00:27:06.990 --> 00:27:09.950] KRITE: Commander, thank you.
+[00:27:11.070 --> 00:27:12.510] RIKER: Your colleague Soren was very helpful.
+[00:27:13.710 --> 00:27:15.310] KRITE: Captain, would you all join us this evening?
+[00:27:15.950 --> 00:27:17.310] KRITE: We would like to express our gratitude.
+[00:27:18.750 --> 00:27:19.230] PICARD: We'd be happy to.
+[00:27:20.990 --> 00:27:22.750] KRITE: Noor will be eager to get a first hand report.
+[00:27:23.390 --> 00:27:24.590] KRITE: We should return to the surface.
+[00:27:24.990 --> 00:27:26.350] SOREN: I will see you later tonight, Commander.
+[00:27:29.710 --> 00:27:29.710] SOREN: There
+[00:27:48.510 --> 00:27:50.510] SOREN: you
+[00:27:52.510 --> 00:27:53.230] SOREN: are, Commander.
+[00:27:54.590 --> 00:27:56.270] SOREN: I wondered what had happened to our guest of honour.
+[00:27:56.990 --> 00:27:57.710] RIKER: I just needed some air.
+[00:27:57.710 --> 00:28:01.790] RIKER: I can only take so much of these social functions, and then I need to breathe a little.
+[00:28:02.830 --> 00:28:08.110] SOREN: I would think you had attended so many affairs like this that it would become second nature to you.
+[00:28:08.990 --> 00:28:09.950] RIKER: I was raised outdoors.
+[00:28:09.950 --> 00:28:10.750] RIKER: I'm never been very
+[00:28:11.544 --> 00:28:12.904] RIKER: comfortable in crowded rooms.
+[00:28:25.144 --> 00:28:26.264] SOREN: What do you think of our planet?
+[00:28:27.224 --> 00:28:28.104] SOREN: Isn't it beautiful?
+[00:28:29.144 --> 00:28:29.864] RIKER: Yes, it is.
+[00:28:30.904 --> 00:28:31.544] RIKER: It's beautiful.
+[00:28:35.224 --> 00:28:37.144] SOREN: We have many varieties of plant life.
+[00:28:39.464 --> 00:28:41.704] SOREN: Perhaps you would like to inspect some of them?
+[00:28:43.304 --> 00:28:43.864] RIKER: Yes, I would.
+[00:28:44.904 --> 00:28:47.144] RIKER: I've always been interested in exobotany.
+[00:28:48.024 --> 00:28:50.184] SOREN: Please, let me take you on a tour.
+[00:28:50.744 --> 00:28:50.984] RIKER: Thank you.
+[00:28:52.024 --> 00:28:52.584] RIKER: It's kind of you.
+[00:29:04.344 --> 00:29:08.584] SOREN: One of my favourites is this menellen tree.
+[00:29:10.184 --> 00:29:14.744] SOREN: The leaves first turn pure white, and then blue, when the weather gets cold.
+[00:29:16.824 --> 00:29:17.624] SOREN: This is called a falla bush.
+[00:29:19.144 --> 00:29:22.264] SOREN: It produces a fragrant flower on only one day of the year.
+[00:29:51.296 --> 00:29:54.176] LOG: Captain's log, stardate 45620.4.
+[00:29:54.816 --> 00:30:01.056] LOG: In the hope that a detailed map of null space will prevent the loss of other ships, we remain in orbit of J'naii, charting the anomaly.
+[00:30:10.896 --> 00:30:11.376] TROI: Come in.
+[00:30:16.336 --> 00:30:16.976] TROI: Hello, Will.
+[00:30:17.856 --> 00:30:18.416] RIKER: What's all this?
+[00:30:19.296 --> 00:30:20.416] TROI: Wonderful things.
+[00:30:21.216 --> 00:30:25.296] TROI: My mother sent me a box that belonged to one of my father's ancestors.
+[00:30:26.656 --> 00:30:29.536] TROI: It was stored on Earth and just recently turned up.
+[00:30:29.686 --> 00:30:30.286] RIKER: Do
+[00:30:31.056 --> 00:30:32.096] RIKER: you know who any of these people are?
+[00:30:32.736 --> 00:30:33.056] TROI: No.
+[00:30:34.096 --> 00:30:36.416] TROI: Some of the pictures have names on, but most of them don't.
+[00:30:39.136 --> 00:30:43.696] TROI: I look at these faces and I wonder who they are and if they could be related to me.
+[00:30:43.776 --> 00:30:44.656] RIKER: This one looks like you.
+[00:30:48.976 --> 00:30:49.376] RIKER: Deanna,
+[00:30:50.016 --> 00:30:50.096] RIKER: I
+[00:30:51.856 --> 00:30:52.816] RIKER: have something on my mind.
+[00:30:53.456 --> 00:30:54.176] RIKER: I had to see you.
+[00:30:55.776 --> 00:30:56.656] TROI: Has something happened?
+[00:30:58.336 --> 00:30:59.136] RIKER: I've met someone.
+[00:31:00.896 --> 00:31:02.416] RIKER: Someone who's becoming important to me.
+[00:31:04.256 --> 00:31:04.576] TROI: Soren.
+[00:31:06.096 --> 00:31:06.416] RIKER: Yes.
+[00:31:08.256 --> 00:31:09.616] RIKER: You're my friend. I thought,
+[00:31:11.616 --> 00:31:11.936] RIKER: I don't know,
+[00:31:11.936 --> 00:31:13.056] RIKER: I thought I should tell you.
+[00:31:14.183 --> 00:31:14.903] TROI: I'm glad you did.
+[00:31:16.103 --> 00:31:17.863] RIKER: Nothing will change between us, will it?
+[00:31:18.503 --> 00:31:19.223] TROI: Of course it will.
+[00:31:20.343 --> 00:31:22.583] TROI: All relationships are constantly changing.
+[00:31:24.903 --> 00:31:27.863] TROI: But we'll still be friends, maybe better friends.
+[00:31:30.263 --> 00:31:33.143] TROI: You're a part of my life, and I'm a part of yours.
+[00:31:34.343 --> 00:31:35.623] TROI: That much will always be true.
+[00:31:59.463 --> 00:31:59.783] RIKER: Hello.
+[00:32:00.103 --> 00:32:00.823] RIKER: I'm here to see Soren.
+[00:32:01.783 --> 00:32:02.263] KRITE: I know.
+[00:32:04.263 --> 00:32:05.063] RIKER: We had an appointment.
+[00:32:05.063 --> 00:32:05.463] RIKER: We were going to discuss
+[00:32:05.543 --> 00:32:06.823] KRITE: I don't think so, Commander.
+[00:32:07.463 --> 00:32:07.863] RIKER: Excuse me?
+[00:32:08.103 --> 00:32:09.143] KRITE: We know about the two of you.
+[00:32:09.463 --> 00:32:10.263] KRITE: We know what you're doing.
+[00:32:10.423 --> 00:32:10.903] RIKER: Where is Soren?
+[00:32:10.903 --> 00:32:12.263] KRITE: We're going to make sure it doesn't happen again.
+[00:32:12.263 --> 00:32:12.743] RIKER: Answer me.
+[00:32:12.743 --> 00:32:13.543] RIKER: Where is Soren?
+[00:32:14.023 --> 00:32:14.663] KRITE: In custody,
+[00:32:15.623 --> 00:32:16.823] KRITE: and there's nothing you can do about it.
+[00:32:16.983 --> 00:32:17.703] RIKER: The hell there isn't.
+[00:32:22.103 --> 00:32:23.703] NOOR: You are aware of the charges against you?
+[00:32:25.223 --> 00:32:25.543] SOREN: Yes.
+[00:32:25.543 --> 00:32:27.543] NOOR: Do you intend to dispute them?
+[00:32:32.503 --> 00:32:34.423] NOOR: Well? What is your response?
+[00:32:38.903 --> 00:32:41.623] NOOR: Commander Riker, these proceedings are closed to everyone.
+[00:32:41.623 --> 00:32:42.583] RIKER: I think I just opened them.
+[00:32:42.583 --> 00:32:42.743] NOOR: Sir,
+[00:32:42.823 --> 00:32:43.863] NOOR: this is a private matter.
+[00:32:44.506 --> 00:32:48.586] NOOR: We are grateful for your recent help, but that gives you no right to interfere with our personal concerns.
+[00:32:48.746 --> 00:32:50.666] RIKER: I want you to know what really happened.
+[00:32:50.666 --> 00:32:51.546] RIKER: It's all my fault.
+[00:32:53.226 --> 00:32:54.426] RIKER: I was attracted to Soren.
+[00:32:55.306 --> 00:32:55.946] RIKER: I pursued.
+[00:32:56.906 --> 00:32:57.706] RIKER: I insisted.
+[00:32:58.906 --> 00:33:02.346] RIKER: I didn't understand your ways until she explained them to me and rejected me.
+[00:33:02.906 --> 00:33:04.266] RIKER: Nothing happened between us.
+[00:33:04.906 --> 00:33:06.026] RIKER: I ask your forgiveness.
+[00:33:07.306 --> 00:33:07.866] RIKER: I behaved
+[00:33:09.386 --> 00:33:09.946] RIKER: inappropriately.
+[00:33:14.906 --> 00:33:15.626] NOOR: Is this true?
+[00:33:17.706 --> 00:33:18.106] SOREN: No.
+[00:33:18.986 --> 00:33:19.306] RIKER: Soren.
+[00:33:22.986 --> 00:33:24.346] SOREN: I am tired of lies.
+[00:33:29.146 --> 00:33:30.346] SOREN: I am female.
+[00:33:31.866 --> 00:33:32.906] SOREN: I was born that way.
+[00:33:34.586 --> 00:33:41.146] SOREN: I have had those feelings, those longings, all of my life.
+[00:33:42.346 --> 00:33:44.506] SOREN: It is not unnatural.
+[00:33:45.786 --> 00:33:48.426] SOREN: I am not sick because I feel this way.
+[00:33:50.346 --> 00:33:51.946] SOREN: I do not need to be helped.
+[00:33:54.186 --> 00:33:56.426] SOREN: I do not need to be cured.
+[00:34:00.746 --> 00:34:01.786] SOREN: What I need,
+[00:34:03.866 --> 00:34:06.826] SOREN: and what all of those who are like me need,
+[00:34:08.746 --> 00:34:10.186] SOREN: is your understanding
+[00:34:12.186 --> 00:34:13.626] SOREN: and your compassion.
+[00:34:17.040 --> 00:34:19.120] SOREN: We have not injured you in any way.
+[00:34:21.440 --> 00:34:26.400] SOREN: And yet, we are scorned and attacked. And all because we are different.
+[00:34:27.920 --> 00:34:32.560] SOREN: What we do is no different from what you do.
+[00:34:35.280 --> 00:34:38.320] SOREN: We talk and laugh.
+[00:34:41.440 --> 00:34:42.720] SOREN: We complain about work
+[00:34:45.200 --> 00:34:47.120] SOREN: and we wonder about growing old.
+[00:34:48.080 --> 00:34:51.920] SOREN: We talk about our families, and we worry about the future.
+[00:34:55.360 --> 00:34:58.320] SOREN: And we cry with each other when things seem hopeless.
+[00:35:00.800 --> 00:35:03.840] SOREN: All of the loving things that you do with each other, that
+[00:35:06.000 --> 00:35:07.600] SOREN: is what we do.
+[00:35:10.080 --> 00:35:15.680] SOREN: And for that we are called misfits and deviants and criminals.
+[00:35:16.960 --> 00:35:20.480] SOREN: What right do you have to punish us?
+[00:35:22.640 --> 00:35:25.120] SOREN: What right do you have to change us?
+[00:35:28.240 --> 00:35:32.720] SOREN: What makes you think you can dictate how people love each other?
+[00:35:44.467 --> 00:35:45.747] NOOR: I congratulate you, Soren.
+[00:35:46.227 --> 00:35:50.067] NOOR: Your decision to admit your perversion makes it much more likely that we can help you.
+[00:35:54.947 --> 00:35:55.587] RIKER: Wait, wait, wait.
+[00:35:56.067 --> 00:35:57.027] RIKER: You don't have to do this.
+[00:35:57.027 --> 00:35:57.187] NOOR: Commander?
+[00:35:57.427 --> 00:35:58.307] RIKER: Let me take her with me.
+[00:35:58.467 --> 00:35:59.747] RIKER: She can go back to the Enterprise.
+[00:35:59.747 --> 00:36:00.787] RIKER: We would give her asylum.
+[00:36:01.267 --> 00:36:02.467] RIKER: You would never have to see her again.
+[00:36:02.467 --> 00:36:03.827] RIKER: That would solve the problem, wouldn't it?
+[00:36:04.467 --> 00:36:05.187] RIKER: You'd be rid of her.
+[00:36:05.667 --> 00:36:07.755] RIKER: She would never be able to influence anyone again.
+[00:36:07.755 --> 00:36:07.987] NOOR: Commander,
+[00:36:09.107 --> 00:36:13.027] NOOR: after Soren's diatribe, you must think that we are a cruel, repressive people.
+[00:36:13.347 --> 00:36:15.107] NOOR: Nothing could be further from the truth.
+[00:36:15.267 --> 00:36:17.907] RIKER: I'm just trying to find a solution that would satisfy everyone.
+[00:36:17.907 --> 00:36:19.507] NOOR: We are concerned about our citizens.
+[00:36:19.507 --> 00:36:21.347] NOOR: We take our obligations to them seriously.
+[00:36:21.747 --> 00:36:24.787] NOOR: Soren is sick, and sick people want to get well.
+[00:36:25.107 --> 00:36:27.587] RIKER: Did it occur to you that she might like to stay the way she is?
+[00:36:27.747 --> 00:36:28.627] NOOR: You don't understand.
+[00:36:29.987 --> 00:36:40.867] NOOR: We have a very high success rate in treating deviants like this. And without exception, they become happier people after their treatment, and grateful that we care enough to cure them.
+[00:36:42.067 --> 00:36:46.627] NOOR: You see, Commander, on this world, everyone wants to be normal.
+[00:36:47.987 --> 00:36:49.187] RIKER: She is.
+[00:36:50.867 --> 00:36:51.827] NOOR: Take Soren to quarters.
+[00:36:51.827 --> 00:36:52.867] NOOR: Treatment will begin tomorrow.
+[00:36:54.227 --> 00:36:55.507] RIKER: Don't do this. Soren!
+[00:37:00.787 --> 00:37:01.907] NOOR: No more, Commander.
+[00:37:04.947 --> 00:37:05.987] RIKER: Riker to Enterprise.
+[00:37:06.387 --> 00:37:07.267] RIKER: One to transport.
+[00:37:15.209 --> 00:37:16.249] RIKER: I can't just leave her there.
+[00:37:16.249 --> 00:37:18.409] RIKER: They'll give her these psychotectic treatments.
+[00:37:18.729 --> 00:37:19.609] RIKER: I don't know what to do.
+[00:37:25.769 --> 00:37:28.169] PICARD: Well, I could talk to Noor.
+[00:37:29.929 --> 00:37:31.369] PICARD: Perhaps there's a way to work something out.
+[00:37:32.569 --> 00:37:33.609] RIKER: Sir, their minds are set.
+[00:37:34.249 --> 00:37:35.369] RIKER: They don't want to hear another alternative.
+[00:37:36.329 --> 00:37:38.249] PICARD: Then I'm not sure that there's much that we can do.
+[00:37:40.009 --> 00:37:40.569] RIKER: There has to be.
+[00:37:41.289 --> 00:37:43.209] RIKER: My relationship with Soren is not trivial.
+[00:37:44.089 --> 00:37:45.289] RIKER: She's very important to me.
+[00:37:45.929 --> 00:37:47.209] RIKER: It's my fault that this happened.
+[00:37:47.209 --> 00:37:48.169] RIKER: I have to help her.
+[00:37:49.049 --> 00:37:52.889] PICARD: Will, if you've come here for sanction to take matters into your own hands, I can't give it to you.
+[00:37:53.369 --> 00:37:53.609] RIKER: I know that,
+[00:37:54.889 --> 00:37:55.929] RIKER: but I have to do something.
+[00:37:56.569 --> 00:38:00.249] PICARD: Interfering in the internal matters of the J'naii is prohibited by the Prime Directive.
+[00:38:00.649 --> 00:38:01.529] RIKER: I'm aware of that.
+[00:38:01.609 --> 00:38:02.489] PICARD: If you violate it,
+[00:38:02.489 --> 00:38:03.689] PICARD: you may jeopardising your career.
+[00:38:05.449 --> 00:38:09.289] PICARD: Starfleet doesn't take these matters lightly, Will. I can't defend you if you go too far.
+[00:38:09.609 --> 00:38:10.329] PICARD: Do you understand that?
+[00:38:11.529 --> 00:38:12.729] RIKER: You've made yourself very clear, sir.
+[00:38:14.729 --> 00:38:16.489] PICARD: Don't risk everything you've worked for.
+[00:38:17.769 --> 00:38:18.089] RIKER: Thank you.
+[00:38:20.009 --> 00:38:20.729] RIKER: May I be excused now?
+[00:38:22.329 --> 00:38:27.009] RIKER: Who is
+[00:38:30.369 --> 00:38:32.369] RIKER: it?
+[00:38:35.049 --> 00:38:35.049] WORF: Lieutenant
+[00:38:36.889 --> 00:38:37.129] WORF: Worf.
+[00:38:39.929 --> 00:38:40.249] RIKER: Come in.
+[00:38:46.809 --> 00:38:46.809] WORF: Commander,
+[00:38:47.527 --> 00:38:51.207] WORF: I have the plan for deploying warning buoys around the null space.
+[00:38:51.607 --> 00:38:52.007] RIKER: Fine. Leave it,
+[00:38:52.007 --> 00:38:52.807] RIKER: I'll take a look at it later.
+[00:38:53.287 --> 00:38:53.527] WORF: Yes, sir.
+[00:38:58.087 --> 00:38:58.327] RIKER: Thank you.
+[00:39:00.247 --> 00:39:00.807] RIKER: You're dismissed.
+[00:39:02.407 --> 00:39:05.607] WORF: Commander, I am aware of what transpired on the planet surface.
+[00:39:07.367 --> 00:39:11.767] WORF: Are you by any chance considering an unannounced visit?
+[00:39:15.527 --> 00:39:17.527] WORF: I will go with you.
+[00:39:17.527 --> 00:39:17.927] RIKER: Lieutenant.
+[00:39:17.927 --> 00:39:19.447] WORF: Sir, you are my commanding officer.
+[00:39:19.447 --> 00:39:21.607] WORF: If you order me to stay on board, I will obey.
+[00:39:22.567 --> 00:39:24.327] WORF: But I ask you not to give that order.
+[00:39:24.327 --> 00:39:24.327] WORF: A
+[00:39:26.487 --> 00:39:30.487] WORF: warrior does not let a friend face danger alone.
+[00:39:36.487 --> 00:39:37.207] RIKER: Something's happening.
+[00:39:37.357 --> 00:39:37.957] RIKER: They're
+[00:39:40.567 --> 00:39:42.567] RIKER: leaving.
+[00:39:46.967 --> 00:39:46.967] RIKER: Okay.
+[00:39:46.967 --> 00:39:46.967] RIKER: Excuse
+[00:40:08.727 --> 00:40:08.967] RIKER: me.
+[00:40:09.207 --> 00:40:10.407] RIKER: I need to speak to her alone for a moment.
+[00:40:10.407 --> 00:40:10.407] SOREN: Wait.
+[00:40:21.067 --> 00:40:22.267] RIKER: Don't worry. We'll be out of here in a minute.
+[00:40:24.747 --> 00:40:25.467] SOREN: Please. don't.
+[00:40:26.027 --> 00:40:26.827] RIKER: All right, 1e're almost
+[00:40:30.267 --> 00:40:30.347] RIKER: there.
+[00:40:30.347 --> 00:40:32.107] SOREN: You cannot do this.
+[00:40:32.107 --> 00:40:33.467] RIKER: I won't let them hurt you.
+[00:40:33.787 --> 00:40:34.987] RIKER: You'll be safe on the Enterprise.
+[00:40:36.107 --> 00:40:37.067] SOREN: I am so sorry.
+[00:40:38.747 --> 00:40:41.307] SOREN: It was my fault that you got involved in all this.
+[00:40:41.867 --> 00:40:42.987] RIKER: Everything's going to be all right.
+[00:40:43.147 --> 00:40:44.347] RIKER: Everything's going to be fine.
+[00:40:45.787 --> 00:40:49.387] SOREN: No, it is not.
+[00:40:49.387 --> 00:40:50.187] RIKER: What are you talking about?
+[00:40:51.467 --> 00:40:52.747] SOREN: It was all a mistake,
+[00:40:54.747 --> 00:40:56.667] SOREN: and I should have realised it from the beginning.
+[00:40:57.627 --> 00:40:57.867] RIKER: What?
+[00:40:58.587 --> 00:40:59.387] SOREN: That I was sick.
+[00:41:00.587 --> 00:41:04.427] SOREN: I had these terrible urges, and that is why I reached out to you.
+[00:41:06.107 --> 00:41:09.147] SOREN: But it was wrong, and I see that now.
+[00:41:10.027 --> 00:41:13.707] SOREN: I do not understand how I could have done what I did.
+[00:41:15.627 --> 00:41:18.747] RIKER: Maybe Doctor Crusher can treat you and bring you back to the way you were.
+[00:41:20.907 --> 00:41:21.867] SOREN: Why would I want that?
+[00:41:27.387 --> 00:41:27.947] RIKER: Soren.
+[00:41:29.307 --> 00:41:31.787] RIKER: I love you.
+[00:41:34.027 --> 00:41:34.747] SOREN: I'm sorry.
+[00:41:34.827 --> 00:41:36.338] PICARD: How
+[00:41:37.849 --> 00:41:39.360] PICARD: long
+[00:41:40.871 --> 00:41:42.382] PICARD: to
+[00:41:43.893 --> 00:41:45.404] PICARD: the
+[00:41:46.915 --> 00:41:48.987] PICARD: Phelan system, Mister Data?
+[00:41:50.556 --> 00:41:52.876] DATA: At warp six, fifty three hours, sir.
+[00:41:54.716 --> 00:41:55.276] PICARD: Commander?
+[00:41:55.276 --> 00:41:55.836] RIKER: Captain.
+[00:41:57.756 --> 00:42:02.476] PICARD: Starfleet has sent a message asking us to proceed to the Phelan system to negotiate a trade agreement.
+[00:42:02.476 --> 00:42:02.716] RIKER: Yes, sir.
+[00:42:04.636 --> 00:42:07.676] PICARD: I didn't know when to tell them we will be there.
+[00:42:08.956 --> 00:42:10.316] PICARD: Is our business with the J'naii finished?
+[00:42:12.316 --> 00:42:12.796] RIKER: Finished, sir.
+[00:42:16.156 --> 00:42:16.236] PICARD: Very well.
+[00:42:18.236 --> 00:42:19.196] PICARD: Ensign, take us out of orbit.
+[00:42:19.436 --> 00:42:21.116] PICARD: Set a course for the Phelan system, warp six.
+[00:42:21.196 --> 00:42:22.156] ENSIGN: Aye, sir.
+[00:42:23.916 --> 00:42:24.396] PICARD: Engage.
+[00:42:29.000 --> 00:42:43.000] [music]
+[00:42:49.000 --> 00:43:06.000] [music]
+[00:43:15.000 --> 00:43:24.000] [music]
+[00:43:26.000 --> 00:43:43.000] [music]

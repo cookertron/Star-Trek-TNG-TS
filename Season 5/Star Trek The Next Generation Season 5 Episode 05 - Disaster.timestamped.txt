@@ -1,0 +1,685 @@
+[00:00:02.320 --> 00:00:05.520] LOG: Captain's log, stardate 45156.1.
+[00:00:05.920 --> 00:00:13.600] LOG: Our mission to Mudor Five has been completed and since our next assignment will not begin for several days, we are enjoying a welcome respite from our duties.
+[00:00:14.640 --> 00:00:16.640] O'BRIEN: If it's a boy, Michael, after my father.
+[00:00:16.640 --> 00:00:19.520] KEIKO: Wait a minute. We decided on Hiro, after my father.
+[00:00:19.520 --> 00:00:21.040] O'BRIEN: We talked about this last night.
+[00:00:21.040 --> 00:00:22.880] KEIKO: That's right, and we decided on Hiro.
+[00:00:22.880 --> 00:00:23.360] RIKER: Wait. I've got it.
+[00:00:23.920 --> 00:00:24.320] RIKER: William.
+[00:00:25.120 --> 00:00:26.880] RIKER: It's a great name. William O'Brien.
+[00:00:26.960 --> 00:00:28.080] RIKER: It's got a nice ring to it.
+[00:00:28.960 --> 00:00:31.200] KEIKO: It's all right.
+[00:00:31.200 --> 00:00:32.480] KEIKO: He's just doing somersaults.
+[00:00:33.120 --> 00:00:33.760] KEIKO: Here, feel.
+[00:00:34.480 --> 00:00:36.080] KEIKO: Right there.
+[00:00:36.560 --> 00:00:38.800] RIKER: He's going to be a hell of a gymnast.
+[00:00:39.680 --> 00:00:40.000] DATA: May I?
+[00:00:40.320 --> 00:00:40.560] KEIKO: Sure.
+[00:00:42.080 --> 00:00:42.800] KEIKO: There, feel it?
+[00:00:43.200 --> 00:00:45.280] KEIKO: When he's not turning, he's kicking and punching.
+[00:00:45.440 --> 00:00:47.120] KEIKO: When I want to sleep, he wants to wake up.
+[00:00:47.680 --> 00:00:49.280] KEIKO: At this point, I just wish it were over.
+[00:00:49.920 --> 00:00:50.400] O'BRIEN: I have to go.
+[00:00:50.720 --> 00:00:52.400] O'BRIEN: I've got a transporter simulation on the bridge.
+[00:00:53.920 --> 00:00:54.640] O'BRIEN: Bye-bye, Michael.
+[00:00:57.280 --> 00:00:57.680] LAFORGE: No.
+[00:00:58.800 --> 00:00:59.920] CRUSHER: Come on, Geordi.
+[00:01:00.480 --> 00:01:01.120] LAFORGE: No.
+[00:01:01.920 --> 00:01:03.200] CRUSHER: Just try it once.
+[00:01:03.280 --> 00:01:04.720] CRUSHER: It is not as hard as you think.
+[00:01:05.920 --> 00:01:08.400] CRUSHER: I'm telling you, you will be terrific.
+[00:01:08.640 --> 00:01:08.800] LAFORGE: All right. I
+[00:01:12.400 --> 00:01:12.400] LAFORGE: am
+[00:01:23.200 --> 00:01:25.280] LAFORGE: the very model of a modern major general,
+[00:01:25.280 --> 00:01:27.840] LAFORGE: I've information vegetable, animal and mineral.
+[00:01:27.840 --> 00:01:28.880] LAFORGE: I can't do this.
+[00:01:29.040 --> 00:01:29.680] CRUSHER: Yes you can!
+[00:01:29.680 --> 00:01:31.440] LAFORGE: I cannot sing in front of people.
+[00:01:31.440 --> 00:01:32.080] CRUSHER: You were terrific!
+[00:01:33.734 --> 00:01:35.654] CRUSHER: You were a little off pitch, but I think I can take care of that.
+[00:01:36.294 --> 00:01:38.534] CRUSHER: Okay, La Forge as a modern
+[00:01:40.054 --> 00:01:40.614] CRUSHER: major general.
+[00:01:40.614 --> 00:01:44.374] TROI: Captain, I'd like to introduce you to the winners of the primary school science fair.
+[00:01:45.254 --> 00:01:47.734] TROI: This is Marissa, Jay Gordon, and Patterson.
+[00:01:48.614 --> 00:01:49.494] TROI: They're here for their tour.
+[00:01:50.934 --> 00:01:51.174] PICARD: Hello.
+[00:01:51.814 --> 00:01:53.654] PATTERSON: Can we see the battle bridge and torpedo bay?
+[00:01:54.214 --> 00:01:55.014] PICARD: No, I'm afraid not.
+[00:01:56.134 --> 00:02:00.454] PICARD: But we will be visiting the hydroponics and astrophysics laboratories.
+[00:02:01.014 --> 00:02:02.694] TROI: I'm sure you'll have a wonderful time.
+[00:02:04.134 --> 00:02:06.214] PICARD: Well. If you'll come with me.
+[00:02:06.364 --> 00:02:06.964] O'BRIEN: I'm
+[00:02:16.374 --> 00:02:17.654] O'BRIEN: not sure who to feel sorry for,
+[00:02:17.974 --> 00:02:19.014] O'BRIEN: the Captain or the kids.
+[00:02:21.814 --> 00:02:24.934] PICARD: I want you to know we're very proud of the science fair winners.
+[00:02:28.694 --> 00:02:33.974] PICARD: Perhaps some of you will choose to pursue a career in Starfleet.
+[00:02:38.134 --> 00:02:39.414] PICARD: Well, then.
+[00:02:41.494 --> 00:02:43.174] PICARD: What did you do for your science projects?
+[00:02:43.814 --> 00:02:47.734] PATTERSON: I planted radishes in this special dirt and they came up all weird!
+[00:02:48.534 --> 00:02:52.054] PICARD: I see. That's very, very commendable.
+[00:02:52.694 --> 00:02:53.014] PICARD: And you?
+[00:02:53.974 --> 00:02:57.574] JAY GORDON: An analysis of the life span of the swarming moths of Gonal Four.
+[00:02:58.134 --> 00:03:00.774] JAY GORDON: They only live for twenty hours, then they all die.
+[00:03:01.785 --> 00:03:02.425] PICARD: How interesting.
+[00:03:03.545 --> 00:03:03.865] PICARD: And you
+[00:03:10.265 --> 00:03:12.665] PICARD: We're falling!
+[00:03:41.065 --> 00:03:42.585] MONROE: What happened?
+[00:03:42.585 --> 00:03:46.185] MANDEL: Sensors are picking up subspace distortions and high energy particles directly to starboard.
+[00:03:46.905 --> 00:03:48.425] MONROE: Looks like we ran into a quantum filament.
+[00:03:49.385 --> 00:03:50.025] MONROE: Damage report?
+[00:03:50.985 --> 00:03:52.345] O'BRIEN: We've lost primary life support.
+[00:03:52.665 --> 00:03:54.025] O'BRIEN: Switching to secondary systems.
+[00:03:54.745 --> 00:03:56.345] O'BRIEN: Impulse and warp engines are offline.
+[00:03:57.145 --> 00:03:58.585] MANDEL: There's another filament moving toward us, sir.
+[00:03:59.065 --> 00:04:00.985] MONROE: All decks brace for impact!
+[00:04:06.425 --> 00:04:08.425] PICARD: Space.
+[00:04:35.843 --> 00:04:37.123] PICARD: The final frontier.
+[00:04:38.963 --> 00:04:41.843] PICARD: These are the voyages of the starship Enterprise.
+[00:04:42.963 --> 00:04:50.963] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:52.563 --> 00:04:55.363] PICARD: to boldly go where no one has gone before.
+[00:05:02.000 --> 00:05:11.000] [music]
+[00:05:24.000 --> 00:05:32.000] [music]
+[00:05:56.003 --> 00:05:56.403] O'BRIEN: Counsellor?
+[00:05:56.803 --> 00:05:57.363] TROI: I'm all right.
+[00:05:58.803 --> 00:05:59.843] TROI: Medical team to the Bridge.
+[00:06:04.323 --> 00:06:05.123] TROI: Troi to Sickbay. Counsellor
+[00:06:06.887 --> 00:06:08.407] TROI: Troi to Captain Picard.
+[00:06:08.967 --> 00:06:11.687] TROI: Troi to Engineering.
+[00:06:14.247 --> 00:06:16.727] TROI: Counsellor Troi to any crew member, please acknowledge.
+[00:06:21.367 --> 00:06:22.567] TROI: Medical team to the Bridge.
+[00:06:23.447 --> 00:06:24.087] O'BRIEN: The computer's down.
+[00:06:24.967 --> 00:06:27.127] O'BRIEN: It looks like we still have impulse power but not much else.
+[00:06:28.567 --> 00:06:29.287] TROI: Lieutenant Monroe!
+[00:06:38.807 --> 00:06:39.383] MANDEL: Chief O'Brien.
+[00:06:39.719 --> 00:06:41.327] MANDEL: The turbolifts aren't working.
+[00:06:41.527 --> 00:06:44.567] MANDEL: We're trapped up here.
+[00:06:46.887 --> 00:06:48.887] PICARD: Are
+[00:06:51.047 --> 00:06:52.887] PICARD: you,
+[00:06:52.887 --> 00:06:53.527] PICARD: are you children all right?
+[00:06:54.180 --> 00:06:56.180] PICARD: Bridge,
+[00:06:59.487 --> 00:07:01.487] PICARD: this
+[00:07:04.793 --> 00:07:06.793] PICARD: is
+[00:07:09.447 --> 00:07:09.847] PICARD: Picard.
+[00:07:13.927 --> 00:07:14.727] PICARD: This is the Captain.
+[00:07:14.727 --> 00:07:16.167] PICARD: Can anyone hear me?
+[00:07:16.167 --> 00:07:17.447] PATTERSON: Why don't they answer?
+[00:07:17.607 --> 00:07:19.687] PICARD: I don't know.
+[00:07:21.447 --> 00:07:22.327] JAY GORDON: They're all dead.
+[00:07:22.647 --> 00:07:23.527] PICARD: They're not dead.
+[00:07:24.807 --> 00:07:25.847] PICARD: Communication is down,
+[00:07:25.847 --> 00:07:26.167] PICARD: that's all.
+[00:07:27.767 --> 00:07:28.967] JAY GORDON: We're going to die, too.
+[00:07:28.967 --> 00:07:31.927] PICARD: We most certainly are not.
+[00:07:35.047 --> 00:07:35.767] PICARD: Now listen to me.
+[00:07:36.043 --> 00:07:38.043] PICARD: No one here is going to die.
+[00:07:39.483 --> 00:07:42.443] PICARD: The bridge will be sending a rescue party as soon as possible.
+[00:07:43.083 --> 00:07:46.443] PICARD: So I want you all to stop crying.
+[00:07:46.923 --> 00:07:48.363] PICARD: Everything is going to be all right.
+[00:07:52.000 --> 00:07:59.000] [crying]
+[00:07:59.723 --> 00:08:03.483] O'BRIEN: This is the Federation Starship Enterprise calling any vessel within range.
+[00:08:04.123 --> 00:08:05.963] O'BRIEN: We are in distress and need assistance.
+[00:08:06.443 --> 00:08:07.403] O'BRIEN: Please respond.
+[00:08:13.723 --> 00:08:15.243] O'BRIEN: I'm still not sure we're even transmitting.
+[00:08:16.043 --> 00:08:18.443] O'BRIEN: I'll set the message on auto repeat and see if we get a response.
+[00:08:18.593 --> 00:08:19.193] O'BRIEN: Are
+[00:08:25.803 --> 00:08:26.283] O'BRIEN: you all right?
+[00:08:27.643 --> 00:08:28.203] RO: I'm alive.
+[00:08:28.203 --> 00:08:29.003] RO: What the hell happened?
+[00:08:29.483 --> 00:08:31.003] O'BRIEN: We were hit by a quantum filament.
+[00:08:31.803 --> 00:08:32.843] O'BRIEN: Most of our systems are down and
+[00:08:33.003 --> 00:08:34.923] O'BRIEN: we haven't been able to contact anyone off the bridge.
+[00:08:35.563 --> 00:08:36.923] RO: Well, don't count on leaving through there.
+[00:08:36.923 --> 00:08:39.163] RO: An emergency bulkhead closed just beneath that lift.
+[00:08:39.963 --> 00:08:40.763] O'BRIEN: Confinement mode.
+[00:08:40.923 --> 00:08:42.123] RO: Right. Isolation protocol.
+[00:08:42.843 --> 00:08:45.483] TROI: I'm not really familiar with that protocol.
+[00:08:46.923 --> 00:08:51.883] O'BRIEN: If the computer senses a hull breach, it automatically closes emergency bulkheads to isolate the breach.
+[00:08:52.283 --> 00:08:55.243] O'BRIEN: Until we can clear those bulkheads, we'll be cut off from the rest of the ship.
+[00:08:56.203 --> 00:08:57.803] MANDEL: I have partial sensors back online.
+[00:09:04.203 --> 00:09:06.763] MANDEL: I'm picking up sporadic life signs throughout the saucer section.
+[00:09:07.723 --> 00:09:08.603] MANDEL: There are definitely survivors.
+[00:09:08.672 --> 00:09:09.872] O'BRIEN: What about Ten Forward?
+[00:09:10.112 --> 00:09:10.752] RO: Ten Forward?
+[00:09:11.392 --> 00:09:11.872] O'BRIEN: My wife's there.
+[00:09:15.552 --> 00:09:16.192] MANDEL: I'm sorry, Chief.
+[00:09:17.072 --> 00:09:18.112] MANDEL: The readings are not that specific.
+[00:09:18.832 --> 00:09:19.952] RO: Can you scan the drive section?
+[00:09:21.472 --> 00:09:23.152] MANDEL: I'm not reading any life signs in the drive section.
+[00:09:23.792 --> 00:09:25.152] RO: Could the sensors be malfunctioning?
+[00:09:25.632 --> 00:09:26.352] MANDEL: There's no way to know.
+[00:09:26.832 --> 00:09:28.752] MANDEL: Without the main computer, I can't run a full diagnostic.
+[00:09:33.632 --> 00:09:34.672] O'BRIEN: Can you sense anything, Counsellor?
+[00:09:36.192 --> 00:09:37.712] TROI: There are a lot of people still alive.
+[00:09:38.592 --> 00:09:40.992] TROI: Many of them are hurt but I can't tell where they are.
+[00:09:41.952 --> 00:09:43.552] RO: We need to start emergency procedures.
+[00:09:43.552 --> 00:09:44.352] RO: Who's the duty officer?
+[00:09:44.832 --> 00:09:47.072] O'BRIEN: Lieutenant Monroe was in command, but she's dead.
+[00:09:48.832 --> 00:09:51.072] O'BRIEN: I believe Counsellor Troi is the senior officer on the deck.
+[00:09:52.112 --> 00:09:52.832] RO: Counsellor Troi?
+[00:09:53.872 --> 00:09:55.792] O'BRIEN: She carries the rank of Lieutenant Commander.
+[00:10:02.832 --> 00:10:04.112] TROI: I'd appreciate some suggestions.
+[00:10:05.152 --> 00:10:07.952] O'BRIEN: I recommend we initiate emergency procedure alpha two.
+[00:10:08.592 --> 00:10:11.952] O'BRIEN: Bypass computer control and place all systems on manual override.
+[00:10:13.152 --> 00:10:13.552] TROI: Very well.
+[00:10:13.552 --> 00:10:14.752] O'BRIEN: Aye, aye, sir.
+[00:10:14.752 --> 00:10:21.952] RO: May I suggest that our next priority be to stabilise life support and try to re-establish intership communications?
+[00:10:22.592 --> 00:10:24.912] TROI: Yes. Mister Mandel, I'd like you to assist Ensign Ro.
+[00:10:25.632 --> 00:10:25.952] MANDEL: Yes, sir.
+[00:10:53.337 --> 00:10:53.817] RIKER: How do you feel?
+[00:10:54.617 --> 00:10:56.057] KEIKO: Okay. A little foggy.
+[00:10:56.537 --> 00:10:57.417] RIKER: Just lie still for a while.
+[00:10:57.657 --> 00:10:59.097] RIKER: We'll get you to Sickbay as soon as we can.
+[00:10:59.497 --> 00:10:59.737] KEIKO: Okay.
+[00:11:06.457 --> 00:11:06.777] RIKER: Report.
+[00:11:07.897 --> 00:11:10.537] DATA: I have surveyed all the turbolifts and service crawlways on this deck.
+[00:11:11.017 --> 00:11:14.057] DATA: Access to the Bridge has been completely severed by emergency bulkheads.
+[00:11:14.217 --> 00:11:14.697] WORF: Sickbay?
+[00:11:15.257 --> 00:11:18.457] DATA: Heavy damage to section twenty three A has cut off access to Sickbay.
+[00:11:18.857 --> 00:11:21.897] DATA: I have ordered a security team to bring casualties here until further notice.
+[00:11:22.137 --> 00:11:23.337] RIKER: I think we should assume the worst,
+[00:11:23.657 --> 00:11:24.777] RIKER: that everyone on the Bridge is dead.
+[00:11:25.497 --> 00:11:26.617] RIKER: There's no one is in control of the ship.
+[00:11:27.097 --> 00:11:30.537] DATA: In that circumstance, re-establishing control should be our top priority.
+[00:11:30.857 --> 00:11:31.257] RIKER: Agreed.
+[00:11:31.657 --> 00:11:32.377] RIKER: Can we get to Engineering?
+[00:11:32.857 --> 00:11:33.097] DATA: Yes, sir.
+[00:11:33.337 --> 00:11:36.857] DATA: The most direct route is blocked, but I believe we can use a starboard service crawlway.
+[00:11:37.177 --> 00:11:37.337] RIKER: Okay,
+[00:11:37.817 --> 00:11:39.177] RIKER: you and I will try to get there. Mister Worf,
+[00:11:39.337 --> 00:11:41.337] RIKER: this room is going to fill with wounded in a few minutes and
+[00:11:41.337 --> 00:11:42.137] RIKER: they're going to need help.
+[00:11:42.137 --> 00:11:43.497] RIKER: I want you to stay in charge here.
+[00:11:43.897 --> 00:11:44.217] WORF: Yes, sir.
+[00:11:44.697 --> 00:11:45.017] RIKER: Let's go.
+[00:11:48.617 --> 00:11:49.097] WORF: Over here.
+[00:11:49.257 --> 00:11:49.497] CREWMAN: Yes, sir.
+[00:11:52.377 --> 00:11:52.857] LAFORGE: Okay.
+[00:11:52.857 --> 00:11:53.097] LAFORGE: Clear
+[00:11:54.697 --> 00:11:55.417] LAFORGE: the power shunt.
+[00:11:56.057 --> 00:11:56.937] CRUSHER: The shunt is cleared.
+[00:11:57.337 --> 00:11:57.657] LAFORGE: Right.
+[00:11:57.977 --> 00:12:00.537] LAFORGE: And bypass the flow current,
+[00:12:01.017 --> 00:12:01.337] LAFORGE: and .
+[00:12:03.177 --> 00:12:04.697] LAFORGE: The computer still won't release the doors.
+[00:12:05.417 --> 00:12:06.377] CRUSHER: Can we force them open?
+[00:12:07.017 --> 00:12:07.897] LAFORGE: Yes, we can try.
+[00:12:07.977 --> 00:12:09.337] LAFORGE: There's an emergency hand actuator.
+[00:12:13.017 --> 00:12:13.417] CRUSHER: Geordi?
+[00:12:15.337 --> 00:12:17.337] LAFORGE: Yes?
+[00:12:18.662 --> 00:12:20.022] CRUSHER: This wall is hot.
+[00:12:22.582 --> 00:12:22.822] LAFORGE: Where?
+[00:12:27.382 --> 00:12:32.662] LAFORGE: I'm all right, but I think we've got a new problem.
+[00:12:33.942 --> 00:12:37.782] LAFORGE: One of the energy conduits must've ruptured and ignited the polyduranide inside the bulkhead.
+[00:12:38.182 --> 00:12:39.302] LAFORGE: That's a plasma fire.
+[00:12:39.542 --> 00:12:41.382] CRUSHER: It's putting out a lot of radiation.
+[00:12:42.662 --> 00:12:43.862] CRUSHER: We can't stay in here very
+[00:12:44.502 --> 00:12:44.702] CRUSHER: long.
+[00:12:44.702 --> 00:12:46.102] LAFORGE: We've got a bigger problem than that.
+[00:12:47.062 --> 00:12:50.342] LAFORGE: The quaratum in these containers is used in emergency thruster packs.
+[00:12:50.342 --> 00:12:55.462] LAFORGE: It's normally pretty stable stuff but when you expose quaratum to radiation, it has a way of exploding.
+[00:12:59.942 --> 00:13:01.542] PICARD: The
+[00:13:06.982 --> 00:13:07.702] PICARD: external power is cut off.
+[00:13:09.862 --> 00:13:11.142] JAY GORDON: We're going to die.
+[00:13:22.662 --> 00:13:23.302] PATTERSON: What was that?
+[00:13:23.702 --> 00:13:24.182] PICARD: I don't know.
+[00:13:47.950 --> 00:13:49.150] PICARD: Your
+[00:13:53.710 --> 00:13:55.390] PICARD: name is Marissa. Is that right?
+[00:13:55.390 --> 00:13:59.710] PICARD: Well, Marissa, I'm going to need a first officer to help me.
+[00:14:00.750 --> 00:14:04.750] PICARD: You're the oldest and so that makes you my Number One.
+[00:14:05.310 --> 00:14:05.950] MARISSA: Number One?
+[00:14:07.470 --> 00:14:09.310] PICARD: That's what I always called my first officer.
+[00:14:10.270 --> 00:14:10.670] PICARD: So,
+[00:14:12.270 --> 00:14:12.590] PICARD: here.
+[00:14:12.740 --> 00:14:13.340] PICARD: There.
+[00:14:19.630 --> 00:14:23.550] PICARD: Now, Number One, we need a crew to help us get that hatch off.
+[00:14:23.550 --> 00:14:23.710] PICARD: Don't
+[00:14:25.950 --> 00:14:29.230] PICARD: you think that Jay here would make an excellent science officer?
+[00:14:30.750 --> 00:14:31.470] PICARD: What do you say, Jay?
+[00:14:31.470 --> 00:14:32.430] PICARD: Will you join our crew?
+[00:14:32.750 --> 00:14:34.030] JAY GORDON: It's Jay Gordon.
+[00:14:34.430 --> 00:14:34.910] PICARD: Of course.
+[00:14:35.630 --> 00:14:36.750] PICARD: Forgive me, Jay Gordon.
+[00:14:37.950 --> 00:14:38.750] JAY GORDON: I accept.
+[00:14:38.900 --> 00:14:39.500] PICARD: There.
+[00:14:45.950 --> 00:14:47.550] PATTERSON: Can I be an officer, too?
+[00:14:48.670 --> 00:14:49.390] PICARD: Well, let me see.
+[00:14:49.390 --> 00:14:54.430] PICARD: Your science project involved radishes, did it not?
+[00:14:55.150 --> 00:14:55.630] PATTERSON: Yes, sir.
+[00:14:55.630 --> 00:15:00.910] PICARD: Then I shall appoint you my executive officer in charge of radishes.
+[00:15:00.910 --> 00:15:01.070] PICARD: There.
+[00:15:02.670 --> 00:15:04.670] PICARD: Right,
+[00:15:05.150 --> 00:15:05.150] PICARD: then
+[00:15:09.150 --> 00:15:09.710] PICARD: let's get to work.
+[00:15:16.110 --> 00:15:17.310] RIKER: Thirteen sixty five baker.
+[00:15:17.310 --> 00:15:18.270] RIKER: That should put us right behind
+[00:15:18.350 --> 00:15:18.990] RIKER: shuttlebay two.
+[00:15:19.139 --> 00:15:19.859] DATA: That is correct, sir.
+[00:15:20.339 --> 00:15:24.819] DATA: We have approximately fifty two metres remaining in this crawlway before we can safely exit into a main corridor.
+[00:15:27.779 --> 00:15:28.339] RIKER: Coolant leak!
+[00:15:49.939 --> 00:15:54.179] CRUSHER: We can withstand this level of radiation for another three or four hours without any permanent damage.
+[00:15:54.659 --> 00:15:56.499] CRUSHER: We'll need a few days of hyronalin treatments.
+[00:15:56.499 --> 00:15:58.019] LAFORGE: What are the radiation levels in the quaratum?
+[00:15:58.659 --> 00:16:01.939] CRUSHER: They're at eighty three rads and rising at a rate of about four rads per minute.
+[00:16:02.179 --> 00:16:04.819] LAFORGE: That stuff gets unstable at around three hundred and fifty rads.
+[00:16:05.459 --> 00:16:07.939] LAFORGE: I still haven't been able to get any power to this transporter.
+[00:16:11.299 --> 00:16:11.379] CRUSHER: The
+[00:16:15.219 --> 00:16:18.179] CRUSHER: radiation levels is about twenty percent lower at this end of the bay.
+[00:16:18.979 --> 00:16:20.339] CRUSHER: Let's move the containers over to here.
+[00:16:20.659 --> 00:16:21.379] LAFORGE: That's a good idea.
+[00:16:21.619 --> 00:16:22.419] LAFORGE: It should buy us some time.
+[00:16:24.419 --> 00:16:26.099] LAFORGE: You know we're going to have to do this by hand.
+[00:16:26.579 --> 00:16:29.619] LAFORGE: With all the radiation floating around in here we can't trust the antigrav units.
+[00:16:33.939 --> 00:16:34.259] O'BRIEN: There.
+[00:16:35.059 --> 00:16:36.579] O'BRIEN: Just before the second time we were hit.
+[00:16:37.139 --> 00:16:38.419] O'BRIEN: See the subspace distortion?
+[00:16:38.899 --> 00:16:39.379] TROI: Yes.
+[00:16:41.859 --> 00:16:43.539] TROI: How big is a quantum filament?
+[00:16:43.539 --> 00:16:48.899] O'BRIEN: It can be hundreds of metres long, but it has almost no mass, which makes it very difficult to detect.
+[00:16:49.739 --> 00:16:52.139] TROI: So, it's like a cosmic string?
+[00:16:53.419 --> 00:16:55.739] O'BRIEN: No. that's a completely different phenomenon.
+[00:17:02.299 --> 00:17:03.099] O'BRIEN: How did you do that?
+[00:17:03.259 --> 00:17:07.979] RO: I diverted power from the phaser array and I dumped it into the engineering control system.
+[00:17:08.699 --> 00:17:09.179] O'BRIEN: You what?
+[00:17:10.139 --> 00:17:11.659] RO: Engineering station's online, Counsellor.
+[00:17:12.379 --> 00:17:14.699] O'BRIEN: But that's a completely improper procedure.
+[00:17:14.699 --> 00:17:18.379] O'BRIEN: You can't just dump that much raw energy into a bridge terminal without
+[00:17:18.379 --> 00:17:18.521] O'BRIEN: blowing
+[00:17:18.521 --> 00:17:20.219] RO: We're not going to get out of this by playing it safe.
+[00:17:27.499 --> 00:17:29.179] TROI: What is our engine status, Ensign?
+[00:17:29.819 --> 00:17:34.379] RO: We've got half impulse power available, but I'm getting some odd readings from the warp drive.
+[00:17:35.579 --> 00:17:37.179] RO: I'm reading a spike in the warp field array.
+[00:17:37.579 --> 00:17:40.859] RO: It looks like a containment deviation.
+[00:17:40.859 --> 00:17:42.219] O'BRIEN: Switch to primary bypass.
+[00:17:45.579 --> 00:17:47.099] RO: Nothing.
+[00:17:47.099 --> 00:17:48.699] RO: Field strength's at forty percent and falling.
+[00:17:50.619 --> 00:17:51.339] RO: We've got a problem.
+[00:17:51.979 --> 00:17:55.899] RO: The quantum resonance of the filament caused a polarity shift in the antimatter containment field.
+[00:17:56.699 --> 00:18:02.539] O'BRIEN: When the filament hit us, the ship was momentarily charged, as if it had come into contact with a live electrical wire.
+[00:18:02.939 --> 00:18:06.139] RO: That weakened the containment field surrounding the antimatter pods.
+[00:18:06.859 --> 00:18:09.419] RO: The field strength is at forty percent and it is still falling.
+[00:18:10.139 --> 00:18:12.939] O'BRIEN: If it falls to fifteen percent the field will collapse and
+[00:18:13.659 --> 00:18:14.939] O'BRIEN: we'll have a containment breach.
+[00:18:15.739 --> 00:18:16.379] TROI: Which means?
+[00:18:17.071 --> 00:18:18.591] RO: Which means the ship will explode.
+[00:18:27.791 --> 00:18:31.391] DATA: Commander, the current cannot be off down from this relay box.
+[00:18:33.711 --> 00:18:34.511] RIKER: We can't just sit here.
+[00:18:36.511 --> 00:18:42.431] DATA: If the energy flowing through that arc were interrupted by a nonconductive material, it is likely the circuit would be broken.
+[00:18:43.151 --> 00:18:45.311] RIKER: I don't see any material in here that could handle that much current.
+[00:18:46.831 --> 00:18:53.071] DATA: Commander, much of my bodyframe is made up of tripolymers, a non conductive material.
+[00:18:55.071 --> 00:18:56.511] RIKER: Are you suggesting we use your own body?
+[00:18:57.071 --> 00:18:57.391] DATA: Yes, sir.
+[00:19:00.831 --> 00:19:02.991] RIKER: Data, there's half a million amps flowing through that arc.
+[00:19:03.311 --> 00:19:04.591] RIKER: Could your body handle that much current?
+[00:19:06.191 --> 00:19:11.711] DATA: The power surge would cause a system failure in my internal processors and melt my primary power couplings.
+[00:19:11.711 --> 00:19:15.231] DATA: However, there is a chance that the damage would not be irreparable.
+[00:19:15.951 --> 00:19:16.671] RIKER: No.
+[00:19:16.671 --> 00:19:17.391] DATA: Commander,
+[00:19:18.351 --> 00:19:19.551] DATA: our options are very limited.
+[00:19:20.351 --> 00:19:23.231] RIKER: First of all, android or not, I wouldn't ask anyone to take that kind of risk.
+[00:19:24.031 --> 00:19:27.951] RIKER: Second, if the computer is not working in Engineering, I'm going to need your help to get control of the ship.
+[00:19:28.991 --> 00:19:32.991] DATA: My positronic brain has several layers of shielding to protect me from power surges.
+[00:19:33.711 --> 00:19:37.551] DATA: It would be possible for you to remove my cranial unit and take it with you.
+[00:19:39.311 --> 00:19:39.951] RIKER: Let me get this straight.
+[00:19:41.711 --> 00:19:43.151] RIKER: You want me to take off your head?
+[00:19:44.022 --> 00:19:44.262] DATA: Yes, sir.
+[00:19:47.702 --> 00:19:48.422] DATA: Is something wrong, sir?
+[00:19:48.822 --> 00:19:50.262] RIKER: Well, Data,
+[00:19:53.382 --> 00:19:54.022] RIKER: would you be all right?
+[00:19:54.742 --> 00:19:56.662] DATA: My memory core and neural nets are self-contained.
+[00:19:56.662 --> 00:19:57.462] DATA: I would be fine, sir.
+[00:19:57.612 --> 00:19:58.212] RIKER: Well,
+[00:20:01.702 --> 00:20:04.342] RIKER: like you said, our choices are very limited.
+[00:20:20.982 --> 00:20:22.982] RIKER: Data?
+[00:20:33.062 --> 00:20:33.062] RIKER: Data!
+[00:20:33.382 --> 00:20:35.382] RIKER: Data.
+[00:20:37.542 --> 00:20:39.062] DATA: A remarkable experience, Commander.
+[00:20:39.062 --> 00:20:40.422] RIKER: Are you all right?
+[00:20:41.542 --> 00:20:42.182] RIKER: Did the shielding work?
+[00:20:43.142 --> 00:20:44.102] DATA: Apparently so, sir.
+[00:20:44.902 --> 00:20:46.662] DATA: My neural nets are still fully operational.
+[00:20:48.342 --> 00:20:52.982] DATA: You may begin by opening the ventral access panel located two centimetres beneath my right ear.
+[00:20:55.142 --> 00:20:55.942] PICARD: Can you
+[00:21:08.502 --> 00:21:08.902] PICARD: climb up?
+[00:21:08.902 --> 00:21:10.902] JAY GORDON: Yes, I think so.
+[00:21:17.741 --> 00:21:18.061] PICARD: Good.
+[00:21:18.781 --> 00:21:20.221] PICARD: Now look down the sides of the lift.
+[00:21:21.021 --> 00:21:22.621] PICARD: Can you see two big clamps?
+[00:21:25.101 --> 00:21:26.301] JAY GORDON: Yes, I see them.
+[00:21:26.861 --> 00:21:33.341] PICARD: Can you see if those clamps are attached to long beams inside big grooves?
+[00:21:35.341 --> 00:21:35.821] JAY GORDON: Yes.
+[00:21:35.821 --> 00:21:37.181] JAY GORDON: But
+[00:21:39.101 --> 00:21:40.381] JAY GORDON: one of them looks broken.
+[00:21:41.501 --> 00:21:42.621] JAY GORDON: It's half out of the groove.
+[00:21:46.461 --> 00:21:46.781] PICARD: All right.
+[00:21:46.781 --> 00:21:48.221] PICARD: Come down.
+[00:21:52.541 --> 00:21:52.861] PICARD: All right.
+[00:21:53.821 --> 00:21:54.061] PICARD: Number One,
+[00:22:11.261 --> 00:22:15.101] PICARD: those big clamps are part of the emergency system.
+[00:22:16.461 --> 00:22:20.221] PICARD: If something goes wrong, they're designed to hold the turbolift in place.
+[00:22:21.421 --> 00:22:23.341] PICARD: But it would seem that they're damaged.
+[00:22:24.541 --> 00:22:25.981] MARISSA: Is that why we keep shaking?
+[00:22:26.381 --> 00:22:26.861] PICARD: That's right.
+[00:22:28.141 --> 00:22:28.381] PICARD: Now,
+[00:22:30.301 --> 00:22:32.221] PICARD: when they give way, we shall fall.
+[00:22:32.781 --> 00:22:36.941] PICARD: So you've got to get your crew out of here before that happens.
+[00:22:36.941 --> 00:22:39.021] PICARD: Now, there is a ladder
+[00:22:39.216 --> 00:22:43.696] PICARD: along the wall of the shaft. You can climb up that until you come to an open doorway.
+[00:22:52.576 --> 00:22:53.536] MARISSA: What about you?
+[00:22:54.896 --> 00:22:56.096] PICARD: My ankle is broken.
+[00:22:56.576 --> 00:22:57.936] PICARD: I will just slow you down when
+[00:22:58.016 --> 00:22:58.976] PICARD: you need to move quickly.
+[00:23:00.816 --> 00:23:04.016] PICARD: Now, you are the leader. And that's an order.
+[00:23:12.576 --> 00:23:14.096] MARISSA: We have to climb up the shaft.
+[00:23:14.896 --> 00:23:16.896] PATTERSON: I want to stay here with you, Captain.
+[00:23:17.536 --> 00:23:19.536] PICARD: Patterson, you're an officer.
+[00:23:19.696 --> 00:23:20.736] PICARD: You have to obey orders.
+[00:23:21.376 --> 00:23:23.216] PATTERSON: I don't want to be an officer any more.
+[00:23:23.536 --> 00:23:24.816] PATTERSON: I want to stay here with you.
+[00:23:25.536 --> 00:23:27.776] JAY GORDON: If the captain stays here, we won't make it.
+[00:23:27.776 --> 00:23:28.896] JAY GORDON: We'll all die.
+[00:23:29.376 --> 00:23:30.656] PICARD: We don't have time to argue.
+[00:23:30.656 --> 00:23:31.696] PICARD: You must go now.
+[00:23:40.656 --> 00:23:42.416] MARISSA: The crew has decided to stick together.
+[00:23:43.456 --> 00:23:46.096] MARISSA: We all go or we all stay.
+[00:23:52.976 --> 00:23:53.376] PICARD: All right.
+[00:23:54.576 --> 00:23:55.136] PICARD: I'll try.
+[00:23:55.216 --> 00:23:55.216] PICARD: But
+[00:23:56.896 --> 00:23:58.816] PICARD: I want you to know this is mutiny.
+[00:24:00.816 --> 00:24:01.456] PICARD: Now, Number One,
+[00:24:02.976 --> 00:24:04.016] PICARD: look at that control panel.
+[00:24:05.456 --> 00:24:06.256] PICARD: Now, the yellow
+[00:24:07.257 --> 00:24:08.057] PICARD: control pad,
+[00:24:08.297 --> 00:24:09.097] PICARD: hit that once.
+[00:24:09.097 --> 00:24:11.497] PICARD: Now the one below it,
+[00:24:11.657 --> 00:24:12.377] PICARD: hit twice.
+[00:24:13.817 --> 00:24:15.737] PICARD: Now that should release the panel underneath.
+[00:24:16.457 --> 00:24:17.497] MARISSA: Yes, it did.
+[00:24:18.297 --> 00:24:19.977] PICARD: Now, you can pull it away.
+[00:24:21.337 --> 00:24:21.657] MARISSA: Okay.
+[00:24:22.137 --> 00:24:22.377] PICARD: Good.
+[00:24:24.057 --> 00:24:26.457] PICARD: Now, that bundle of wires, that's optical cabling.
+[00:24:26.457 --> 00:24:27.897] PICARD: See how much of that you can pull out.
+[00:24:39.417 --> 00:24:42.697] CRUSHER: The levels are still rising.
+[00:24:44.617 --> 00:24:46.377] CRUSHER: There must be some way to put that fire out.
+[00:24:46.537 --> 00:24:50.297] LAFORGE: The energy's being fed by the ship's internal power grid and we can't even get near that.
+[00:24:51.097 --> 00:24:53.737] LAFORGE: The only way to stop it would be to eliminate its supply of oxygen.
+[00:24:55.737 --> 00:24:56.057] LAFORGE: Wait a minute.
+[00:24:58.457 --> 00:24:58.857] LAFORGE: Doctor,
+[00:25:00.057 --> 00:25:00.857] LAFORGE: I've got an idea.
+[00:25:01.577 --> 00:25:04.617] LAFORGE: It's kind or wild, but we just might be able to kill two birds with one stone.
+[00:25:04.697 --> 00:25:05.177] CRUSHER: Let's hear it.
+[00:25:05.577 --> 00:25:05.897] LAFORGE: Okay.
+[00:25:06.537 --> 00:25:07.657] LAFORGE: We open the external door.
+[00:25:08.057 --> 00:25:12.537] LAFORGE: That would depressurise the cargo bay and suck all of those containers out into space. At the same time,
+[00:25:12.537 --> 00:25:15.177] LAFORGE: the lack of oxygen should put out the plasma fire.
+[00:25:16.217 --> 00:25:16.777] CRUSHER: What about us?
+[00:25:16.857 --> 00:25:20.137] LAFORGE: We just need to find something in here to hold onto while the air is evacuating.
+[00:25:20.217 --> 00:25:22.617] LAFORGE: Then, we close the door, repressurise the bay.
+[00:25:26.697 --> 00:25:27.417] CRUSHER: What about this?
+[00:25:31.417 --> 00:25:32.057] LAFORGE: Yeah, that ought to do it.
+[00:25:34.857 --> 00:25:35.897] KEIKO: There that should do it.
+[00:25:37.097 --> 00:25:37.097] WORF: There
+[00:25:40.537 --> 00:25:41.017] WORF: will be a sharp
+[00:25:41.021 --> 00:25:42.141] WORF: pain as I set the bone.
+[00:25:42.541 --> 00:25:43.261] WORF: Prepare yourself.
+[00:25:47.421 --> 00:25:47.661] WORF: Good.
+[00:25:47.661 --> 00:25:49.021] WORF: Good, you bore that well.
+[00:25:54.000 --> 00:25:58.000] [gasp]
+[00:25:55.501 --> 00:25:55.741] WORF: Keiko?
+[00:25:56.541 --> 00:25:57.021] KEIKO: I'm all right.
+[00:25:58.381 --> 00:25:58.861] KEIKO: I think.
+[00:25:59.501 --> 00:26:00.541] WORF: Perhaps you should lie down.
+[00:26:02.861 --> 00:26:03.501] KEIKO: Oh,
+[00:26:07.181 --> 00:26:07.261] KEIKO: oh,
+[00:26:07.261 --> 00:26:07.261] KEIKO: oh.
+[00:26:09.821 --> 00:26:10.941] KEIKO: I'm having contractions.
+[00:26:12.061 --> 00:26:14.541] WORF: I believe that is not uncommon in the late months of pregnancy.
+[00:26:15.101 --> 00:26:16.861] KEIKO: No, I mean contractions.
+[00:26:17.421 --> 00:26:18.381] KEIKO: I'm going into labour.
+[00:26:18.381 --> 00:26:19.741] WORF: You cannot.
+[00:26:20.381 --> 00:26:21.581] WORF: This this is not a good time, Keiko.
+[00:26:22.381 --> 00:26:23.821] KEIKO: It's not open for debate.
+[00:26:24.301 --> 00:26:25.901] KEIKO: Like it or not, this baby is coming.
+[00:26:33.501 --> 00:26:39.821] O'BRIEN: If the containment field strength continues to drop at its present rate, we still have at least two hours before it becomes critical.
+[00:26:39.981 --> 00:26:43.261] RO: But you're ignoring the fact that the power coupling is also damaged.
+[00:26:44.221 --> 00:26:47.341] RO: If that coupling overheats, the field strength could drop a lot faster.
+[00:26:47.821 --> 00:26:49.581] RO: We could have a containment breach in a matter of minutes.
+[00:26:50.221 --> 00:26:51.101] TROI: What do you suggest?
+[00:26:52.381 --> 00:26:56.861] RO: We should separate the saucer now, and put as much distance as possible between us and the drive section.
+[00:26:57.821 --> 00:27:00.541] O'BRIEN: Excuse me, sir, but that's damn cold blooded.
+[00:27:00.781 --> 00:27:01.901] O'BRIEN: What about the people down there?
+[00:27:02.381 --> 00:27:04.861] RO: There's no evidence that anyone is still alive in the drive section.
+[00:27:05.101 --> 00:27:06.941] O'BRIEN: No evidence they're dead, either.
+[00:27:07.821 --> 00:27:10.781] O'BRIEN: If you were trapped down there, would you like us to just cut you loose and leave?
+[00:27:11.821 --> 00:27:12.221] RO: No,
+[00:27:12.349 --> 00:27:13.149] RO: of course not.
+[00:27:14.109 --> 00:27:19.229] RO: But I also wouldn't expect the bridge crew to risk the safety of the ship and hundreds of lives in a futile effort to rescue me.
+[00:27:34.029 --> 00:27:37.469] TROI: You said there was no way to stabilise the containment field from the Bridge.
+[00:27:38.189 --> 00:27:39.309] TROI: Could it be done from Engineering?
+[00:27:39.949 --> 00:27:43.149] O'BRIEN: Yes, but my readings indicate there's no power down there.
+[00:27:43.549 --> 00:27:45.549] O'BRIEN: They don't even have monitors to tell them there's a problem.
+[00:27:46.349 --> 00:27:48.749] TROI: Could we divert energy from the Bridge to those monitors?
+[00:27:49.549 --> 00:27:49.869] O'BRIEN: Yes, sir.
+[00:27:50.589 --> 00:27:51.869] RO: I'll say it again.
+[00:27:51.869 --> 00:27:55.789] RO: There is no reason to believe that anyone is alive in Engineering.
+[00:27:56.269 --> 00:27:58.029] RO: We're wasting time even talking about this.
+[00:27:58.029 --> 00:27:59.789] RO: We have to separate the ship now.
+[00:28:01.629 --> 00:28:06.749] TROI: I believe there are still people alive down there and I'm going to give them every chance.
+[00:28:08.029 --> 00:28:11.069] TROI: Assuming they're alive, they'll be hoping there's someone up here who can help them.
+[00:28:12.189 --> 00:28:13.149] TROI: So we'll help them.
+[00:28:14.989 --> 00:28:16.909] TROI: Chief, divert the necessary power to Engineering.
+[00:28:17.309 --> 00:28:17.629] O'BRIEN: Aye, sir.
+[00:28:24.429 --> 00:28:28.829] RO: I remind you, Counsellor, that power coupling could overheat at any moment.
+[00:28:29.549 --> 00:28:32.909] RO: By not separating the ship now, you may be responsible for all our deaths.
+[00:28:34.429 --> 00:28:35.149] TROI: Thank you, Ensign.
+[00:28:36.589 --> 00:28:36.989] TROI: Proceed.
+[00:29:03.367 --> 00:29:05.367] PICARD: I
+[00:29:22.727 --> 00:29:23.767] PICARD: can't open this door.
+[00:29:28.487 --> 00:29:30.007] PICARD: We're going to have to climb up to the next deck.
+[00:29:31.847 --> 00:29:33.607] PATTERSON: What if that one doesn't open either?
+[00:29:34.247 --> 00:29:35.527] JAY GORDON: Then we'll never get out.
+[00:29:35.847 --> 00:29:37.687] MARISSA: Quiet, both of you.
+[00:29:38.247 --> 00:29:38.967] MARISSA: That's an order.
+[00:29:40.407 --> 00:29:41.127] PICARD: We're going up.
+[00:29:41.367 --> 00:29:41.767] PICARD: Ready?
+[00:29:42.327 --> 00:29:42.807] MARISSA: Ready, sir.
+[00:29:43.447 --> 00:29:45.127] PICARD: The lift's falling!
+[00:29:45.287 --> 00:29:45.687] PICARD: Hang on!
+[00:29:45.837 --> 00:29:46.437] PICARD: We're
+[00:29:54.087 --> 00:29:54.487] PICARD: all right.
+[00:29:55.687 --> 00:29:56.727] PICARD: We're going to keep on climbing.
+[00:29:57.607 --> 00:29:58.407] PICARD: Just don't look down.
+[00:30:02.247 --> 00:30:04.087] JAY GORDON: What's wrong?
+[00:30:05.447 --> 00:30:06.167] MARISSA: He's scared.
+[00:30:06.167 --> 00:30:06.487] PICARD: We're
+[00:30:08.807 --> 00:30:09.847] PICARD: right with you, Patterson.
+[00:30:10.567 --> 00:30:11.687] PICARD: You're not going to fall.
+[00:30:11.847 --> 00:30:14.167] PICARD: Everything will be all right if you just keep climbing.
+[00:30:16.780 --> 00:30:19.100] PICARD: What we need is a climbing song.
+[00:30:20.700 --> 00:30:20.940] PICARD: Marissa,
+[00:30:21.260 --> 00:30:22.460] PICARD: is there a song you sing at school?
+[00:30:24.460 --> 00:30:26.080] MARISSA: The Laughing Vulcan and His Dog?
+[00:30:26.080 --> 00:30:26.620] PICARD: I'm afraid
+[00:30:28.220 --> 00:30:29.100] PICARD: I don't know that one.
+[00:30:30.380 --> 00:30:30.700] PICARD: I know.
+[00:30:31.740 --> 00:30:32.140] PICARD: Frere Jacques.
+[00:30:33.340 --> 00:30:36.300] PICARD: That's a song I used to sing when I was at school. Patterson, do
+[00:30:36.940 --> 00:30:37.580] PICARD: you know that one?
+[00:30:38.380 --> 00:30:38.780] PICARD: Good.
+[00:30:39.500 --> 00:30:39.980] PICARD: It goes like this.
+[00:30:40.940 --> 00:30:42.380] PICARD: Frere Jacques, Frere Jacques,
+[00:30:44.220 --> 00:30:46.580] PICARD: dormez vous? Dormez vous?
+[00:30:46.580 --> 00:30:53.660] ALL: Sonnez les matines, sonnez les matines, ding ding dong, ding ding dong.
+[00:30:53.980 --> 00:30:54.540] PICARD: Very good.
+[00:30:54.700 --> 00:30:55.480] PICARD: Now, keep singing.
+[00:30:55.480 --> 00:30:55.740] ALL: Frere
+[00:30:55.900 --> 00:31:11.148] ALL: Jacques, frere Jacques, dormez vous? Dormez vous? Sonnez les matines, sonnez les matines. Ding ding dong, ding ding dong.
+[00:31:11.660 --> 00:31:12.620] ALL: Frere Jacques, frere Jacques,
+[00:31:14.460 --> 00:31:16.060] ALL: dormez vous? Dormez vous? Sonnez les matines, sonnez les
+[00:31:26.860 --> 00:31:30.246] ALL: matines. Ding ding dong, ding ding dong.
+[00:31:30.362 --> 00:31:30.708] ALL: Frere Jacques, frere Jacques
+[00:31:30.824 --> 00:31:33.100] WORF: Your contractions are now only thirty seconds apart.
+[00:31:33.980 --> 00:31:34.220] WORF: Dilation
+[00:31:35.100 --> 00:31:37.900] WORF: has gone to seven centimetres since the onset of labour.
+[00:31:38.460 --> 00:31:40.300] WORF: That did not take long.
+[00:31:40.700 --> 00:31:42.140] KEIKO: That's easy for you to say.
+[00:31:44.155 --> 00:31:44.155] WORF: You
+[00:31:48.475 --> 00:31:49.595] WORF: are doing very well.
+[00:31:51.835 --> 00:31:53.195] WORF: I am sure the child will arrive soon.
+[00:31:56.635 --> 00:31:57.995] KEIKO: Worf, has the baby turned?
+[00:32:01.915 --> 00:32:02.315] WORF: Turned?
+[00:32:03.355 --> 00:32:04.475] KEIKO: So the head is down.
+[00:32:05.035 --> 00:32:07.515] KEIKO: Doctor Crusher told me a few days ago that it hadn't.
+[00:32:07.995 --> 00:32:10.235] KEIKO: She wasn't worried because I still had a month to go.
+[00:32:11.115 --> 00:32:11.835] WORF: I am not certain.
+[00:32:12.715 --> 00:32:13.355] WORF: Can't you tell?
+[00:32:13.995 --> 00:32:18.075] KEIKO: Worf, have you ever done this before?, delivered a baby?
+[00:32:18.875 --> 00:32:19.195] WORF: Yes.
+[00:32:20.635 --> 00:32:20.795] WORF: No.
+[00:32:21.755 --> 00:32:23.755] WORF: I have taken the Starfleet Emergency Medical Course.
+[00:32:24.235 --> 00:32:27.595] WORF: In a computerised simulation, I assisted in the delivery of a human baby.
+[00:32:28.875 --> 00:32:31.195] KEIKO: Sometimes it doesn't go by the book, Worf.
+[00:32:32.155 --> 00:32:32.155] WORF: I
+[00:32:34.635 --> 00:32:36.155] WORF: am sure everything will be fine.
+[00:32:40.315 --> 00:32:44.235] CRUSHER: Once the air is vented, the first thing you'll feel is extreme pressure in your lungs.
+[00:32:44.555 --> 00:32:46.315] CRUSHER: You have to resist the temptation to exhale.
+[00:32:46.955 --> 00:32:53.595] CRUSHER: Next, our hands and feet will get cold, then numb, and some of the capillaries on exposed sections of the skin may burst.
+[00:32:53.675 --> 00:32:54.475] LAFORGE: Sounds like fun.
+[00:32:54.955 --> 00:33:01.675] CRUSHER: We will have about fifteen seconds of useful consciousness, then about ten seconds of extreme disorientation, then we pass out.
+[00:33:02.395 --> 00:33:02.715] LAFORGE: Okay.
+[00:33:03.355 --> 00:33:08.235] LAFORGE: Once the air is evacuated, one of us is going to need to get to that panel to repressurise the bay.
+[00:33:10.331 --> 00:33:10.731] LAFORGE: We're ready.
+[00:34:07.451 --> 00:34:08.411] LAFORGE: Are you okay?
+[00:34:35.134 --> 00:34:35.854] RO: The
+[00:34:39.054 --> 00:34:41.134] RO: field strength is down to twenty percent.
+[00:34:41.614 --> 00:34:43.454] RO: We cannot run the risk of staying here any longer.
+[00:34:43.854 --> 00:34:46.174] O'BRIEN: We're in no danger until it drops below fifteen percent.
+[00:34:46.734 --> 00:34:49.694] O'BRIEN: We can afford to wait and see if anyone in Engineering notices those monitors.
+[00:34:50.494 --> 00:34:52.814] TROI: Have you made preparations to separate the Saucer section?
+[00:34:53.374 --> 00:34:53.694] RO: Yes, sir.
+[00:34:54.254 --> 00:34:56.014] RO: We're in stand by mode for docking latches.
+[00:34:56.174 --> 00:34:58.094] O'BRIEN: Ensign there's a thermal inversion in
+[00:34:58.094 --> 00:34:58.894] O'BRIEN: the power coupling!
+[00:34:58.894 --> 00:35:00.494] RO: Quick, cross-connect to the transfer coil.
+[00:35:04.814 --> 00:35:05.534] RO: That was close.
+[00:35:06.254 --> 00:35:06.814] TROI: What happened?
+[00:35:07.214 --> 00:35:08.654] RO: Exactly what I said might happen.
+[00:35:08.654 --> 00:35:11.854] RO: The power coupling overheated and the entire containment field almost collapsed.
+[00:35:12.334 --> 00:35:15.694] RO: O'Brien's fixed it temporarily, but this could happen again at any moment,
+[00:35:16.174 --> 00:35:17.774] RO: and next time we might not be able to stop it.
+[00:35:18.974 --> 00:35:21.534] RO: You can't let wishful thinking guide your decision, Counsellor.
+[00:35:22.814 --> 00:35:23.694] RO: It's time to leave.
+[00:35:25.934 --> 00:35:30.014] TROI: We will separate the ship when I decide that it's time, and not before.
+[00:35:30.094 --> 00:35:31.214] TROI: Is that clear, Ensign?
+[00:35:32.974 --> 00:35:33.294] RO: Yes.
+[00:35:34.014 --> 00:35:34.494] RO: Perfectly.
+[00:35:50.414 --> 00:35:50.974] RIKER: Okay, try it.
+[00:35:53.774 --> 00:35:54.494] DATA: Very good, Commander.
+[00:35:55.134 --> 00:35:56.254] DATA: You have established a connection.
+[00:35:57.294 --> 00:35:58.414] DATA: I can now raise the door.
+[00:36:02.014 --> 00:36:04.894] RIKER: There's no power on this entire deck, yet somehow these monitors are working.
+[00:36:06.574 --> 00:36:09.134] DATA: The power reaching those monitors has been diverted from the Bridge, sir.
+[00:36:10.159 --> 00:36:10.799] RIKER: But why?
+[00:36:11.839 --> 00:36:13.039] RIKER: Unless there's something they want us
+[00:36:14.559 --> 00:36:15.919] RIKER: something they need us to see.
+[00:36:18.879 --> 00:36:19.359] RIKER: Wait a minute.
+[00:36:19.759 --> 00:36:21.759] RIKER: Data, the containment field strength is down to eighteen percent.
+[00:36:21.759 --> 00:36:22.559] RIKER: Can you stabilise it?
+[00:36:22.959 --> 00:36:23.279] DATA: No, sir.
+[00:36:23.599 --> 00:36:25.279] DATA: I do not have access to the containment field.
+[00:36:25.919 --> 00:36:27.359] DATA: You will have to establish a new link.
+[00:36:33.039 --> 00:36:34.639] DATA: Locate the ODN conduit, sir.
+[00:36:36.799 --> 00:36:37.119] RIKER: Got it.
+[00:36:37.439 --> 00:36:37.679] DATA: Yes, sir.
+[00:36:38.399 --> 00:36:43.279] DATA: You must now change the input matrix in my secondary optical port and then connect the ODN conduit.
+[00:36:46.799 --> 00:36:47.919] DATA: That is not the correct port, sir.
+[00:36:48.879 --> 00:36:49.279] RIKER: Sorry.
+[00:36:51.759 --> 00:36:54.639] DATA: You must hurry, Commander.
+[00:36:55.279 --> 00:36:57.039] DATA: The containment field has dropped to sixteen percent.
+[00:36:57.599 --> 00:36:58.079] RIKER: I'm trying. You
+[00:36:58.319 --> 00:36:59.199] RIKER: need a bigger head.
+[00:37:01.759 --> 00:37:03.039] DATA: The field continues to drop, sir.
+[00:37:03.439 --> 00:37:04.159] DATA: Collapse is imminent.
+[00:37:04.159 --> 00:37:05.279] RIKER: Try it
+[00:37:08.399 --> 00:37:08.399] RIKER: now.
+[00:37:08.399 --> 00:37:11.279] DATA: I have a connection, sir.
+[00:37:12.239 --> 00:37:14.319] DATA: I am now stabilising the containment field.
+[00:37:16.399 --> 00:37:18.639] O'BRIEN: Sir, the field strength is stabilising.
+[00:37:20.959 --> 00:37:21.679] O'BRIEN: Eighteen percent,
+[00:37:22.879 --> 00:37:23.279] O'BRIEN: twenty,
+[00:37:25.039 --> 00:37:25.599] O'BRIEN: twenty five.
+[00:37:25.599 --> 00:37:27.439] RO: I guess they got our message.
+[00:37:28.559 --> 00:37:32.879] RO: I was wrong, Counsellor.
+[00:37:35.119 --> 00:37:36.159] TROI: You could have easily been right.
+[00:38:43.509 --> 00:38:46.469] WORF: Congratulations. You are fully dilated to ten centimetres.
+[00:38:46.869 --> 00:38:47.749] WORF: You may now give birth.
+[00:38:48.069 --> 00:38:50.309] KEIKO: That's what I've been doing.
+[00:38:52.629 --> 00:38:54.309] WORF: Bearing down is the next stage.
+[00:38:54.949 --> 00:38:56.309] WORF: It should start at full dilation.
+[00:38:59.669 --> 00:39:00.469] WORF: Why has it not begun?
+[00:39:01.349 --> 00:39:02.709] KEIKO: I don't know.
+[00:39:02.709 --> 00:39:04.949] KEIKO: I don't think it's up to me.
+[00:39:04.949 --> 00:39:06.149] KEIKO: It happens when it happens.
+[00:39:07.589 --> 00:39:09.429] WORF: The computer simulation was not like this.
+[00:39:09.989 --> 00:39:11.589] WORF: That delivery was very orderly.
+[00:39:12.229 --> 00:39:13.349] KEIKO: Well, I'm sorry!
+[00:39:18.599 --> 00:39:20.279] WORF: Did you feel an uncontrollable urge to push?
+[00:39:20.279 --> 00:39:20.359] WORF: Good.
+[00:39:20.839 --> 00:39:26.519] WORF: You are bearing down.
+[00:39:26.519 --> 00:39:31.319] WORF: Now you must push with each contraction and I must urge you gently but firmly to push harder.
+[00:39:33.319 --> 00:39:33.799] WORF: Push, Keiko.
+[00:39:35.079 --> 00:39:35.559] WORF: Push hard.
+[00:39:37.079 --> 00:39:37.559] WORF: Push, Keiko.
+[00:39:39.159 --> 00:39:39.479] WORF: Push.
+[00:39:39.959 --> 00:39:40.599] WORF: Push.
+[00:39:40.599 --> 00:39:41.639] KEIKO: I am pushing!
+[00:39:41.789 --> 00:39:42.389] WORF: The
+[00:39:43.159 --> 00:39:44.359] WORF: baby is emerging head first.
+[00:39:45.719 --> 00:39:46.679] WORF: One more contraction.
+[00:39:47.159 --> 00:39:48.279] KEIKO: Okay.
+[00:39:49.479 --> 00:39:49.719] WORF: That's good. Push.
+[00:39:52.359 --> 00:39:52.759] WORF: Push.
+[00:39:53.959 --> 00:39:54.359] WORF: Hard.
+[00:39:54.679 --> 00:39:54.679] WORF: I
+[00:39:56.919 --> 00:39:57.559] WORF: have the baby.
+[00:39:58.039 --> 00:39:59.639] WORF: I
+[00:40:02.199 --> 00:40:04.119] WORF: will smack the child to induce breathing.
+[00:40:04.269 --> 00:40:04.869] WORF: Now
+[00:40:13.799 --> 00:40:16.999] WORF: I will cut the umbilical cord.
+[00:40:22.599 --> 00:40:24.679] WORF: Blanket.
+[00:40:24.679 --> 00:40:25.319] WORF: I
+[00:40:27.719 --> 00:40:29.719] WORF: believe
+[00:40:32.119 --> 00:40:34.119] WORF: she
+[00:40:36.519 --> 00:40:38.519] WORF: looks
+[00:40:40.919 --> 00:40:43.559] WORF: like Chief O'Brien.
+[00:40:43.709 --> 00:40:44.309] KEIKO: Hello.
+[00:40:59.465 --> 00:41:00.665] KEIKO: You were wonderful, Worf.
+[00:41:01.305 --> 00:41:04.185] KEIKO: I couldn't have done it without
+[00:41:05.865 --> 00:41:05.865] KEIKO: you.
+[00:41:09.065 --> 00:41:09.345] KEIKO: Hello.
+[00:41:09.345 --> 00:41:10.185] LOG: Captain's log, supplemental.
+[00:41:10.665 --> 00:41:13.545] LOG: We are en route to Starbase sixty seven, to undergo repairs.
+[00:41:14.025 --> 00:41:16.425] LOG: Life aboard the Enterprise is slowly returning to normal.
+[00:41:21.065 --> 00:41:21.865] TROI: Now just wait here.
+[00:41:26.265 --> 00:41:27.945] RIKER: You just can't stay away from the big chair, can you?
+[00:41:29.145 --> 00:41:30.745] TROI: I don't think I'm cut out to be Captain.
+[00:41:31.945 --> 00:41:33.545] TROI: First officer, maybe.
+[00:41:34.025 --> 00:41:35.945] TROI: I understand there aren't many qualifications.
+[00:41:40.025 --> 00:41:41.945] RIKER: Captain Picard to the Bridge, please.
+[00:41:46.905 --> 00:41:47.305] PICARD: Hello.
+[00:41:48.585 --> 00:41:49.545] PICARD: It's good to see you again.
+[00:41:49.625 --> 00:41:50.585] PICARD: What brings you to the Bridge?
+[00:41:51.545 --> 00:41:59.465] MARISSA: In appreciation for the way you helped us get out of the turboshaft, and the way you helped us not be scared, we want to present to you this commemorative plaque.
+[00:42:02.505 --> 00:42:03.065] MARISSA: Give it to him.
+[00:42:07.945 --> 00:42:09.945] PICARD: Thank you.
+[00:42:09.945 --> 00:42:10.105] PICARD: Thank you
+[00:42:12.505 --> 00:42:13.065] PICARD: very much.
+[00:42:13.786 --> 00:42:14.986] PATTERSON: I made the back piece.
+[00:42:17.226 --> 00:42:18.986] PICARD: And a wonderful job you did of it, too.
+[00:42:20.746 --> 00:42:25.386] PICARD: Well, later this afternoon, we're going to finish the tour I promised you, starting with the battle bridge.
+[00:42:26.026 --> 00:42:27.306] PICARD: I'll see you at fourteen hundred hours.
+[00:42:28.186 --> 00:42:29.146] PICARD: You have the Bridge, Number One.
+[00:42:29.786 --> 00:42:29.946] RIKER + MARISSA: Aye,
+[00:42:34.906 --> 00:42:36.906] RIKER + MARISSA: sir.
+[00:42:40.000 --> 00:42:58.000] [music]
+[00:43:13.000 --> 00:43:23.000] [music]

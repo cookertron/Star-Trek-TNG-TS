@@ -1,0 +1,709 @@
+[00:00:02.080 --> 00:00:05.280] LOG: Captain's Log: Stardate 44012.3
+[00:00:06.160 --> 00:00:12.080] LOG: The Enterprise remains docked at McKinley Station, undergoing a major overhaul and refit following the Borg incident.
+[00:00:12.880 --> 00:00:17.040] LOG: I am confident that the ship and her crew will soon be ready to return to service.
+[00:00:17.840 --> 00:00:18.080] RIKER: Thank you.
+[00:00:18.560 --> 00:00:19.520] RIKER: Please take that to Engineering.
+[00:00:23.840 --> 00:00:25.440] WORF: Phaser upgrades are complete, Commander.
+[00:00:26.320 --> 00:00:26.720] RIKER: Already?
+[00:00:27.440 --> 00:00:29.360] WORF: And we have begun power supply calibration.
+[00:00:30.560 --> 00:00:32.080] RIKER: You're just too damned efficient, Lieutenant.
+[00:00:32.960 --> 00:00:33.360] WORF: Thank you, sir.
+[00:00:35.520 --> 00:00:36.960] RIKER: Continue with the testing, Mister Worf.
+[00:00:37.760 --> 00:00:40.480] RIKER: Here's the final schedule for the shore leave and for the personnel transfers.
+[00:00:41.280 --> 00:00:43.280] RIKER: By the way, I'm looking forward to meeting your parents.
+[00:00:44.800 --> 00:00:45.160] WORF: Sir?
+[00:00:45.160 --> 00:00:46.960] RIKER: They're on the visitors' list.
+[00:00:48.000 --> 00:00:48.560] RIKER: You didn't know?
+[00:00:49.840 --> 00:00:50.080] WORF: No, sir.
+[00:00:52.720 --> 00:00:56.160] WORF: It is inappropriate for a Klingon to receive family while on duty.
+[00:00:58.960 --> 00:01:01.440] WORF: As humans, my parents do not understand.
+[00:01:02.320 --> 00:01:03.600] RIKER: Well, I'm not sure that I would either, Worf,
+[00:01:04.400 --> 00:01:09.200] RIKER: since this isn't a Klingon ship. If you don't want to see your parents, that's your business,
+[00:01:10.080 --> 00:01:11.520] RIKER: but we don't get to Earth all that often.
+[00:01:12.720 --> 00:01:15.120] RIKER: I'm sure we can arrange for you to have more off duty time while they're here.
+[00:01:15.440 --> 00:01:17.120] WORF: No, sir.
+[00:01:17.600 --> 00:01:18.720] WORF: That will not be necessary.
+[00:01:20.880 --> 00:01:21.280] RIKER: Dismissed.
+[00:01:21.280 --> 00:01:21.280] RIKER: Mister
+[00:01:23.680 --> 00:01:23.920] RIKER: Worf,
+[00:01:25.840 --> 00:01:28.480] RIKER: if you're worried that they might learn about what happened on the Klingon planet
+[00:01:28.640 --> 00:01:29.120] WORF: Not at all.
+[00:01:29.680 --> 00:01:33.360] WORF: I have already informed them by correspondence of my discommendation.
+[00:01:35.635 --> 00:01:39.235] WORF: I do not believe any human can truly understand my dishonour.
+[00:01:45.155 --> 00:01:47.235] TROI: So, where have you decided to go?
+[00:01:49.315 --> 00:01:49.555] PICARD: Hmm?
+[00:01:49.715 --> 00:01:50.035] PICARD: What?
+[00:01:50.675 --> 00:01:56.275] PICARD: Oh, er, France. Labarre. My home village.
+[00:01:57.395 --> 00:01:57.795] TROI: Really?
+[00:01:59.155 --> 00:01:59.475] PICARD: Yes.
+[00:02:00.195 --> 00:02:01.875] PICARD: It's the first time in almost twenty years.
+[00:02:03.475 --> 00:02:04.115] TROI: Interesting.
+[00:02:06.355 --> 00:02:06.755] PICARD: Counsellor.
+[00:02:08.675 --> 00:02:17.315] TROI: I just find it interesting. Captain Jean-Luc Picard, the man who couldn't be pried out of his seat for a vacation for three years
+[00:02:17.555 --> 00:02:18.035] PICARD: It's Earth.
+[00:02:18.755 --> 00:02:19.315] PICARD: It's home.
+[00:02:19.475 --> 00:02:20.435] PICARD: Do I need another reason?
+[00:02:21.315 --> 00:02:21.795] TROI: I don't know.
+[00:02:21.875 --> 00:02:22.515] TROI: What do you think?
+[00:02:24.675 --> 00:02:31.635] PICARD: Your help has been invaluable during my recovery, but, look, I'm better.
+[00:02:33.155 --> 00:02:34.115] PICARD: The injuries are healing.
+[00:02:35.395 --> 00:02:36.595] TROI: Those you can see in the mirror.
+[00:02:37.795 --> 00:02:38.755] PICARD: The nightmares have ended.
+[00:02:39.955 --> 00:02:41.715] PICARD: All I need now is a little time to myself.
+[00:02:42.515 --> 00:02:43.235] TROI: I agree.
+[00:02:43.875 --> 00:02:45.875] TROI: In fact, I'm delighted you're going.
+[00:02:47.075 --> 00:02:52.835] TROI: It's just that the choice of where you're going could stand some scrutiny.
+[00:02:53.475 --> 00:02:58.835] PICARD: If you wish to believe that my going home is a direct result of being held captive by the Borg, be my guest.
+[00:02:59.486 --> 00:03:00.846] TROI: Is that what you believe?
+[00:03:03.086 --> 00:03:04.126] PICARD: I hate it when you do that.
+[00:03:05.806 --> 00:03:06.366] TROI: Captain,
+[00:03:07.886 --> 00:03:09.166] TROI: you do need time.
+[00:03:10.046 --> 00:03:21.486] TROI: You cannot achieve complete recovery so quickly. And it's perfectly normal, after what you've been through, to spend a great deal of time trying to find yourself again.
+[00:03:21.966 --> 00:03:25.326] PICARD: And what better place to find oneself than on the streets of one's home village.
+[00:03:29.246 --> 00:03:31.246] TROI: Interesting.
+[00:03:35.806 --> 00:03:37.006] TROI: Have a good trip, Captain.
+[00:04:25.166 --> 00:04:29.246] PICARD: Space, the final frontier.
+[00:04:31.169 --> 00:04:33.969] PICARD: These are the voyages of the starship Enterprise.
+[00:04:35.089 --> 00:04:43.089] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:44.769 --> 00:04:47.649] PICARD: to boldly go where no one has gone before.
+[00:05:17.000 --> 00:05:27.000] [music]
+[00:05:38.000 --> 00:05:48.000] [music]
+[00:05:54.289 --> 00:05:57.489] WORF: They still have not signalled?
+[00:05:57.569 --> 00:05:57.889] O'BRIEN: No sir.
+[00:05:59.291 --> 00:06:01.291] WORF: My mother is never on time.
+[00:06:01.441 --> 00:06:02.441] WORF: It is
+[00:06:02.891 --> 00:06:05.131] WORF: so human of her.
+[00:06:05.611 --> 00:06:06.411] O'BRIEN: Well, you know women.
+[00:06:06.561 --> 00:06:07.561] WORF: I am
+[00:06:09.371 --> 00:06:10.731] WORF: not looking forward to this.
+[00:06:13.051 --> 00:06:15.371] WORF: I wish they would come so it would begin and end sooner.
+[00:06:15.611 --> 00:06:16.491] O'BRIEN: I know what you mean, Lieutenant.
+[00:06:17.371 --> 00:06:17.851] WORF: Unlikely.
+[00:06:18.891 --> 00:06:23.831] O'BRIEN: Last time my old man was on board I found him chasing Nurse Stanton around a biobed in Sickbay.
+[00:06:23.831 --> 00:06:24.091] WORF: I
+[00:06:24.811 --> 00:06:28.171] WORF: am not concerned about my father chasing nurses.
+[00:06:28.651 --> 00:06:31.691] O'BRIEN: Yeah, but it's always something with parents, isn't it.
+[00:06:31.691 --> 00:06:33.851] FEMALE: Enterprise, this is Earth Station Bobruisk.
+[00:06:34.091 --> 00:06:35.211] FEMALE: Two to transport aboard.
+[00:06:36.491 --> 00:06:36.971] O'BRIEN: Energising.
+[00:06:40.651 --> 00:06:42.651] WORF: Mother. Father.
+[00:06:44.491 --> 00:06:45.131] HELENA: Worf!
+[00:06:46.491 --> 00:06:47.451] SERGEY: You look good, son.
+[00:06:50.251 --> 00:06:51.211] SERGEY: Put on a little weight, huh?
+[00:06:52.091 --> 00:06:52.331] WORF: No.
+[00:06:52.571 --> 00:06:53.291] SERGEY: Sure you have.
+[00:06:53.451 --> 00:06:54.171] SERGEY: Looks good on you.
+[00:06:54.491 --> 00:06:57.051] SERGEY: Still working out with those Holodeck monsters, I bet.
+[00:06:57.531 --> 00:06:58.171] WORF: Let me take you to
+[00:06:58.251 --> 00:07:05.051] SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid.
+[00:07:05.211 --> 00:07:06.571] O'BRIEN: Miles Edward O'Brien, sir.
+[00:07:06.651 --> 00:07:07.211] O'BRIEN: Good to meet you.
+[00:07:07.611 --> 00:07:08.491] SERGEY: Don't call me sir.
+[00:07:08.491 --> 00:07:09.771] SERGEY: I used to work for a living.
+[00:07:11.371 --> 00:07:12.491] HELENA: He's joking.
+[00:07:12.651 --> 00:07:16.251] HELENA: The proudest day of his life was when Worf earned his commission.
+[00:07:16.971 --> 00:07:21.051] SERGEY: Can you imagine an old enlisted man like me raising a boy to be an officer?
+[00:07:21.931 --> 00:07:22.971] HELENA: Come on, Sergey.
+[00:07:22.971 --> 00:07:25.371] HELENA: There's plenty of time to chat with the boys.
+[00:07:26.331 --> 00:07:29.211] HELENA: Your father has been so looking forward to this.
+[00:07:29.851 --> 00:07:31.931] SERGEY: Yes, I want to see everything.
+[00:07:32.118 --> 00:07:32.838] SERGEY: The whole ship.
+[00:07:33.478 --> 00:07:37.558] SERGEY: At home I have all the specs and diagrams of the Galaxy-class starships.
+[00:07:38.598 --> 00:07:40.038] WORF: We are in the midst of a repair.
+[00:07:40.598 --> 00:07:42.118] WORF: I cannot give you a complete tour.
+[00:07:43.078 --> 00:07:45.078] SERGEY: I'm sure if you asked the Captain
+[00:07:45.318 --> 00:07:47.398] HELENA: You agreed not to embarrass him.
+[00:07:47.878 --> 00:07:51.078] HELENA: Besides, we have come to see Worf, not the ship.
+[00:07:52.518 --> 00:07:53.878] SERGEY: Fine. Fine. Okay.
+[00:07:55.318 --> 00:07:57.558] HELENA: Your hair's a little longer, isn't it, Worf?
+[00:08:19.478 --> 00:08:21.158] PICARD: All right, whoever you are, I can hear you.
+[00:08:24.118 --> 00:08:25.158] PICARD: Oh, good lord,
+[00:08:25.398 --> 00:08:25.958] PICARD: a highwayman.
+[00:08:26.998 --> 00:08:27.398] RENE: A what?
+[00:08:28.358 --> 00:08:28.918] PICARD: A highwayman.
+[00:08:29.238 --> 00:08:34.438] PICARD: It's a robber who attacks travellers, but none have been reported in this vicinity for centuries.
+[00:08:34.838 --> 00:08:35.718] RENE: But I'm not a robber.
+[00:08:36.358 --> 00:08:36.598] PICARD: I am
+[00:08:37.638 --> 00:08:38.438] PICARD: much relieved, sir.
+[00:08:40.838 --> 00:08:41.958] RENE: I know who you are.
+[00:08:42.358 --> 00:08:43.398] PICARD: Then, you have the advantage.
+[00:08:44.038 --> 00:08:47.478] RENE: You're my nephew, Jean-Luc. From the starship Enterprise.
+[00:08:47.718 --> 00:08:49.158] PICARD: Then you must be my uncle Rene.
+[00:08:49.158 --> 00:08:50.438] RENE: I'm not your uncle.
+[00:08:50.998 --> 00:08:52.038] RENE: It's the other way around.
+[00:08:52.998 --> 00:08:53.398] PICARD: Too bad.
+[00:08:53.398 --> 00:08:54.358] PICARD: I rather enjoyed the idea.
+[00:08:55.318 --> 00:08:56.758] RENE: Why have you been away so long?
+[00:08:57.558 --> 00:08:59.718] PICARD: Well, Starfleet keeps me very busy.
+[00:09:00.668 --> 00:09:02.028] RENE: Father says you don't like it here.
+[00:09:02.028 --> 00:09:03.868] PICARD: I'm sure you misunderstood.
+[00:09:04.508 --> 00:09:04.988] RENE: No, I didn't.
+[00:09:06.188 --> 00:09:06.668] RENE: He said so.
+[00:09:07.788 --> 00:09:10.188] PICARD: Well, Robert and I, we.
+[00:09:13.148 --> 00:09:14.428] PICARD: Perhaps it's time to change all that.
+[00:09:15.708 --> 00:09:19.548] RENE: You know, you don't seem so arrow. Arrow.
+[00:09:19.868 --> 00:09:20.988] RENE: You know.
+[00:09:20.988 --> 00:09:21.548] PICARD: Arrogant?
+[00:09:22.028 --> 00:09:23.468] RENE: Yes, arrogant.
+[00:09:24.108 --> 00:09:25.468] RENE: You don't seem that way to me.
+[00:09:26.828 --> 00:09:29.548] RENE: What does it mean anyway, arrogant son of a
+[00:09:29.788 --> 00:09:31.388] PICARD: Let's talk about that later, shall we?
+[00:09:33.068 --> 00:09:34.268] RENE: Mummy! He's
+[00:09:35.948 --> 00:09:36.108] RENE: here!
+[00:09:39.388 --> 00:09:40.108] RENE: Mummy, he's
+[00:09:41.628 --> 00:09:42.028] RENE: here!
+[00:09:44.988 --> 00:09:45.908] MARIE: Jean-Luc!
+[00:09:45.908 --> 00:09:46.828] PICARD: Marie.
+[00:09:50.668 --> 00:09:52.828] MARIE: It is so good to finally meet you.
+[00:09:54.268 --> 00:09:54.748] PICARD: For me, too.
+[00:09:56.508 --> 00:09:57.228] MARIE: How are you feeling?
+[00:09:58.668 --> 00:09:59.468] PICARD: Oh, I'm fine.
+[00:10:00.908 --> 00:10:03.868] MARIE: Well, Robert and I are delighted that you've come to stay with us.
+[00:10:04.668 --> 00:10:08.908] PICARD: I was, I was thinking I, I might be imposing.
+[00:10:08.988 --> 00:10:10.428] PICARD: I could very easily stay in the village.
+[00:10:10.748 --> 00:10:11.548] MARIE: I wouldn't hear of it.
+[00:10:12.268 --> 00:10:13.948] MARIE: It's your home and it will always be your home.
+[00:10:20.428 --> 00:10:21.708] MARIE: Do things look that different?
+[00:10:22.748 --> 00:10:23.388] PICARD: No.
+[00:10:24.188 --> 00:10:26.348] PICARD: In fact, it's amazing how little it has changed.
+[00:10:27.388 --> 00:10:29.548] PICARD: Everything is exactly as I remember it.
+[00:10:30.668 --> 00:10:31.468] PICARD: The house, the
+[00:10:31.871 --> 00:10:32.271] PICARD: hills,
+[00:10:34.591 --> 00:10:35.791] PICARD: every tree, every bush
+[00:10:37.871 --> 00:10:39.711] PICARD: seems untouched by the passage of time.
+[00:10:41.311 --> 00:10:43.631] MARIE: Robert's worked hard to keep it that way.
+[00:10:43.631 --> 00:10:46.191] MARIE: It's very important to him.
+[00:10:48.271 --> 00:10:49.311] PICARD: As it was to our father.
+[00:10:51.951 --> 00:10:54.111] RENE: Someday I'm going to be a starship captain.
+[00:10:56.111 --> 00:10:58.751] PICARD: You look exactly like Robert when he was your age.
+[00:11:00.431 --> 00:11:01.791] PICARD: I half expect to see myself
+[00:11:03.311 --> 00:11:05.071] PICARD: as a boy come running out that door to play.
+[00:11:07.071 --> 00:11:08.191] MARIE: Robert can't wait to see you.
+[00:11:09.471 --> 00:11:10.831] PICARD: Rene already told me.
+[00:11:13.151 --> 00:11:13.551] PICARD: Where is he?
+[00:11:14.831 --> 00:11:16.991] MARIE: As usual, with his vines.
+[00:11:30.751 --> 00:11:33.551] ROBERT: So, you arrived all right.
+[00:11:36.271 --> 00:11:37.231] ROBERT: Welcome home, Captain.
+[00:11:38.191 --> 00:11:38.751] PICARD: Hello, Robert.
+[00:11:41.151 --> 00:11:41.391] ROBERT: You've
+[00:11:44.111 --> 00:11:45.151] ROBERT: shuttled in from the village?
+[00:11:46.751 --> 00:11:48.751] PICARD: No I decided to walk.
+[00:11:48.751 --> 00:11:48.751] PICARD: I
+[00:11:51.711 --> 00:11:52.511] PICARD: met Marie and Rene.
+[00:11:53.471 --> 00:11:53.711] ROBERT: Good.
+[00:11:55.151 --> 00:11:55.391] ROBERT: Good.
+[00:11:57.671 --> 00:11:58.151] PICARD: It's
+[00:12:01.991 --> 00:12:02.471] PICARD: good to see you.
+[00:12:02.471 --> 00:12:02.471] ROBERT: Are you
+[00:12:08.791 --> 00:12:09.191] ROBERT: tired?
+[00:12:10.071 --> 00:12:10.311] PICARD: No.
+[00:12:11.911 --> 00:12:12.551] ROBERT: Make yourself at home.
+[00:12:13.671 --> 00:12:14.391] ROBERT: You know where everything is.
+[00:12:15.671 --> 00:12:16.711] ROBERT: We generally eat about eight.
+[00:12:17.911 --> 00:12:20.951] ROBERT: I must try and cure this poor, sick vine.
+[00:12:22.631 --> 00:12:23.511] ROBERT: I'll see you shortly.
+[00:12:46.151 --> 00:12:48.815] CRUSHER: So, you'll have a chance to visit the surface?
+[00:12:48.815 --> 00:12:49.111] TROI: Maybe.
+[00:12:50.711 --> 00:12:53.591] TROI: Will and I have been talking about going back to Angel Falls.
+[00:12:54.391 --> 00:12:55.431] CRUSHER: Oh, Venezuela's beautiful.
+[00:12:56.551 --> 00:12:56.951] CRUSHER: Come in.
+[00:13:00.151 --> 00:13:01.511] CRUSHER: Great. Thank you.
+[00:13:17.911 --> 00:13:18.871] TROI: Something from home?
+[00:13:19.751 --> 00:13:22.311] CRUSHER: I left it here in storage a long time ago after Jack died.
+[00:13:23.031 --> 00:13:25.831] CRUSHER: Odds and ends, mostly.
+[00:13:29.400 --> 00:13:31.480] TROI: How to Advance Your Career through Marriage?
+[00:13:32.360 --> 00:13:33.240] CRUSHER: It was a joke.
+[00:13:34.200 --> 00:13:36.200] CRUSHER: Jack sent it to me while I was still in medical school.
+[00:13:36.200 --> 00:13:38.120] CRUSHER: It was his way of proposing to me.
+[00:13:42.760 --> 00:13:43.240] TROI: What's that?
+[00:13:45.000 --> 00:13:46.200] CRUSHER: It's for Wesley, from Jack.
+[00:13:47.640 --> 00:13:48.280] CRUSHER: I'd forgotten it.
+[00:13:49.160 --> 00:13:50.520] CRUSHER: Maybe I was just trying to forget it.
+[00:13:52.200 --> 00:13:52.440] TROI: Why?
+[00:13:55.400 --> 00:13:58.520] CRUSHER: Jack recorded a holographic message to Wesley just after he was born.
+[00:13:59.240 --> 00:14:00.600] CRUSHER: It was a gift for when he grew up.
+[00:14:02.120 --> 00:14:03.400] CRUSHER: Jack was going to make many more of them.
+[00:14:05.400 --> 00:14:06.440] CRUSHER: He never had the chance.
+[00:14:09.320 --> 00:14:10.680] TROI: Are you afraid of what it might say?
+[00:14:11.720 --> 00:14:11.960] CRUSHER: No,
+[00:14:12.760 --> 00:14:14.520] CRUSHER: I just don't know if it'll do more harm than good.
+[00:14:14.760 --> 00:14:17.000] CRUSHER: Wesley's finally come to terms with his father's death.
+[00:14:18.600 --> 00:14:20.520] TROI: Wesley has a lot of questions about his father.
+[00:14:21.800 --> 00:14:23.240] TROI: Things that you can't answer for him.
+[00:14:24.280 --> 00:14:26.280] TROI: Perhaps seeing this will help him understand.
+[00:14:29.480 --> 00:14:31.160] CREWWOMAN: Check completed,
+[00:14:32.040 --> 00:14:32.040] CREWWOMAN: sir.
+[00:14:39.160 --> 00:14:42.200] SERGEY: So we walked into the school and we don't know what to expect.
+[00:14:43.320 --> 00:14:45.480] SERGEY: Is Worf hurt? Is he in some kind of trouble?
+[00:14:46.360 --> 00:14:53.640] SERGEY: The door opens and there is our little seven year old sitting on a chair and glaring across the room at five
+[00:14:53.704 --> 00:14:56.104] SERGEY: teenage boys, all of them with bloody noses.
+[00:14:56.184 --> 00:15:02.344] HELENA: And then the principal looked up and said, please tell me he's an only child.
+[00:15:02.664 --> 00:15:06.024] WORF: We have taken enough of the Commander's time.
+[00:15:06.344 --> 00:15:06.904] LAFORGE: No, no, no,
+[00:15:06.984 --> 00:15:08.264] LAFORGE: we're way ahead of schedule here.
+[00:15:09.464 --> 00:15:11.755] SERGEY: I just wanted to tell him the story about
+[00:15:11.755 --> 00:15:12.264] HELENA: Enough stories,
+[00:15:12.424 --> 00:15:12.744] HELENA: Sergey.
+[00:15:13.864 --> 00:15:14.664] SERGEY: Okay. Okay.
+[00:15:15.384 --> 00:15:15.944] SERGEY: Enough stories.
+[00:15:16.424 --> 00:15:19.464] SERGEY: Well, how about giving us a look at the new engine core.
+[00:15:20.184 --> 00:15:23.784] SERGEY: I used to be a warp field specialist on the old Excelsior class.
+[00:15:23.864 --> 00:15:25.464] LAFORGE: I'd be delighted. Mrs.
+[00:15:25.464 --> 00:15:25.864] LAFORGE: Rozhenko?
+[00:15:26.264 --> 00:15:26.904] HELENA: No, no, no, no, no.
+[00:15:26.984 --> 00:15:27.704] HELENA: You two go ahead.
+[00:15:28.424 --> 00:15:30.104] HELENA: Your father will be hours.
+[00:15:31.304 --> 00:15:31.624] HELENA: Worf,
+[00:15:32.344 --> 00:15:33.864] HELENA: why don't you show me the arboretum?
+[00:15:35.544 --> 00:15:36.264] WORF: Commander La Forge,
+[00:15:36.664 --> 00:15:37.384] WORF: call me when you,
+[00:15:39.464 --> 00:15:40.744] WORF: when my father wishes to leave.
+[00:15:41.624 --> 00:15:42.824] SERGEY: I can find my own way.
+[00:15:43.384 --> 00:15:46.744] SERGEY: Turbolift four is just over there, right?
+[00:15:47.864 --> 00:15:50.024] SERGEY: I have all the specs and designs at home.
+[00:15:51.224 --> 00:15:57.224] LAFORGE: The theta-matrix compositer makes the recrystallisation process ten times more efficient than the old Excelsior class ships.
+[00:15:57.464 --> 00:15:58.104] SERGEY: Amazing.
+[00:16:00.744 --> 00:16:04.824] SERGEY: Commander, if you have a couple of minutes, there is something else I want to ask you.
+[00:16:05.544 --> 00:16:06.024] LAFORGE: Sure, Chief.
+[00:16:08.024 --> 00:16:08.824] SERGEY: It's about my son.
+[00:16:16.104 --> 00:16:21.144] MARIE: Your friend Louis wants you to contact him as soon as you're settled.
+[00:16:23.464 --> 00:16:25.224] PICARD: Is he still trying to raise the ocean floor?
+[00:16:25.384 --> 00:16:27.544] MARIE: Oh yes, he's very excited about it.
+[00:16:28.172 --> 00:16:33.132] MARIE: He's been made a supervisor now, as his wife is constantly reminding anyone who'll listen.
+[00:16:33.692 --> 00:16:38.092] ROBERT: I see no good reason why the Earth should have another subcontinent.
+[00:16:38.572 --> 00:16:39.932] PICARD: It's really quite exciting, actually,
+[00:16:40.332 --> 00:16:44.999] PICARD: if you understand the potential of exploring a new world on our own planet.
+[00:16:44.999 --> 00:16:48.332] ROBERT: Well, I'm afraid that I do not understand this potential.
+[00:16:48.892 --> 00:16:48.972] MARIE: The
+[00:16:51.852 --> 00:16:54.492] MARIE: Mayor wants to give you a parade.
+[00:16:55.692 --> 00:16:55.932] PICARD: A
+[00:16:56.572 --> 00:16:56.972] PICARD: parade?
+[00:16:57.772 --> 00:16:58.972] MARIE: Give you the keys to the city.
+[00:17:00.412 --> 00:17:02.012] PICARD: No. No, no, no, no.
+[00:17:03.372 --> 00:17:05.532] ROBERT: He just needs a little arm twisting, dear,
+[00:17:05.532 --> 00:17:06.732] ROBERT: coaxing.
+[00:17:07.612 --> 00:17:08.332] PICARD: No. he does not.
+[00:17:09.052 --> 00:17:10.972] PICARD: I'm here to rest and spend some time with my family.
+[00:17:11.532 --> 00:17:14.492] MARIE: Well, I've already warned the Mayor not to make any plans without talking to us.
+[00:17:14.972 --> 00:17:15.372] ALL: Salut.
+[00:17:16.812 --> 00:17:17.212] PICARD: Is
+[00:17:23.692 --> 00:17:23.692] PICARD: this
+[00:17:27.052 --> 00:17:27.692] PICARD: the forty six?
+[00:17:30.732 --> 00:17:31.132] ROBERT: Forty seven.
+[00:17:32.332 --> 00:17:34.252] ROBERT: You've been drinking too much of that artificial stuff.
+[00:17:34.252 --> 00:17:34.812] ROBERT: What do you call it?
+[00:17:35.532 --> 00:17:36.412] ROBERT: Synthehol? It's
+[00:17:37.532 --> 00:17:38.172] ROBERT: spoiled you.
+[00:17:38.732 --> 00:17:39.452] ROBERT: Ruined your palate.
+[00:17:40.332 --> 00:17:40.972] PICARD: On the contrary.
+[00:17:41.532 --> 00:17:45.052] PICARD: I think that synthehol heightens one's appreciation for the genuine article.
+[00:17:49.692 --> 00:17:50.572] ROBERT: Delicious, Marie.
+[00:17:51.852 --> 00:17:52.172] MARIE: Thank you.
+[00:17:53.212 --> 00:17:55.532] PICARD: Leave it to Robert to find the best cook in France,
+[00:17:56.791 --> 00:17:57.431] PICARD: then marry her.
+[00:17:58.231 --> 00:17:58.551] ROBERT: Yes, but
+[00:17:59.431 --> 00:18:01.831] ROBERT: sadly cooking is becoming a lost art.
+[00:18:01.911 --> 00:18:03.671] ROBERT: That's your wretched technology again.
+[00:18:04.951 --> 00:18:09.191] MARIE: Robert and I have had more than a few discussions about getting a replicator in the house.
+[00:18:10.231 --> 00:18:12.871] PICARD: I remember the same discussions between mother and father.
+[00:18:14.951 --> 00:18:22.791] ROBERT: Father understood better than anybody else the danger of losing those values which we hold most precious.
+[00:18:24.471 --> 00:18:28.151] PICARD: I don't see that you have to lose anything just by adding a convenience.
+[00:18:28.551 --> 00:18:33.991] ROBERT: You wouldn't, but in my view, life is already too convenient.
+[00:18:37.671 --> 00:18:40.071] MARIE: This is a very old argument.
+[00:18:47.111 --> 00:18:49.415] RENE: I wrote a report on starships for school.
+[00:18:49.415 --> 00:18:51.431] MARIE: And he won a ribbon for it.
+[00:18:52.311 --> 00:18:54.631] RENE: The teacher said it was one of the best he'd ever heard.
+[00:18:55.431 --> 00:18:56.151] PICARD: Good for you, Uncle.
+[00:18:57.511 --> 00:18:57.911] PICARD: You know what?
+[00:18:58.631 --> 00:19:01.031] PICARD: I once wrote a report about starships when I was about your age.
+[00:19:01.991 --> 00:19:02.951] RENE: Did you win a ribbon
+[00:19:04.631 --> 00:19:04.631] RENE: too?
+[00:19:05.031 --> 00:19:05.511] PICARD: I don't recall.
+[00:19:06.871 --> 00:19:09.271] ROBERT: And I don't find your modesty very unconvincing, brother.
+[00:19:09.271 --> 00:19:11.591] ROBERT: Of course you won the ribbon.
+[00:19:12.071 --> 00:19:12.871] ROBERT: You always did.
+[00:19:16.551 --> 00:19:17.831] RENE: Do you still have it?
+[00:19:20.311 --> 00:19:20.871] RENE: Your report.
+[00:19:21.831 --> 00:19:22.471] PICARD: No, I don't think so.
+[00:19:23.671 --> 00:19:24.711] RENE: Well, I still have mine.
+[00:19:26.854 --> 00:19:29.574] MARIE: Why don't you go and get it, and then you can read it to your uncle.
+[00:19:36.614 --> 00:19:37.894] ROBERT: It's hard enough to protect him,
+[00:19:40.534 --> 00:19:45.894] ROBERT: protect him from all that's out there without you encouraging him.
+[00:19:47.334 --> 00:19:49.814] PICARD: I am not encouraging him.
+[00:19:53.334 --> 00:19:57.014] PICARD: If you weren't so narrow minded, if you allowed him to see the world as it really is
+[00:19:57.334 --> 00:20:02.214] ROBERT: You raise your own sons as you would wish, and allow me to do the same with mine.
+[00:20:11.654 --> 00:20:15.014] LOUIS: One man's idea of paradise.
+[00:20:15.494 --> 00:20:16.614] PICARD: No, my dear Louis, two men.
+[00:20:17.494 --> 00:20:18.534] PICARD: Robert's and my father's.
+[00:20:20.134 --> 00:20:23.414] LOUIS: Never did I know anyone less interested in grapes than you,
+[00:20:24.214 --> 00:20:24.554] LOUIS: Jean-Luc.
+[00:20:24.554 --> 00:20:25.574] PICARD: No, not true.
+[00:20:25.814 --> 00:20:34.294] PICARD: I was interested. And I was proud that my family were helping to preserve the traditions.
+[00:20:34.294 --> 00:20:37.254] PICARD: I just didn't feel bound by those traditions.
+[00:20:38.214 --> 00:20:41.974] LOUIS: You always reached for the future and your brother for the past.
+[00:20:43.814 --> 00:20:45.494] PICARD: There should be room for both in this life.
+[00:20:45.644 --> 00:20:46.244] PICARD: And
+[00:20:48.454 --> 00:20:49.734] PICARD: what about you, you old rascal.
+[00:20:50.214 --> 00:20:52.294] PICARD: You've taken quite a shift into the future yourself.
+[00:20:53.014 --> 00:20:55.654] LOUIS: Well, hydroponics turned out to be so dull.
+[00:20:55.974 --> 00:20:57.494] PICARD: You should have listened to me at the beginning.
+[00:20:57.966 --> 00:21:02.613] LOUIS: If I had listened to you, I never would have taken that cycling trip with the Bloom sisters.
+[00:21:02.613 --> 00:21:03.646] PICARD: And broken your leg.
+[00:21:04.206 --> 00:21:05.566] LOUIS: And got married twice.
+[00:21:06.846 --> 00:21:09.566] PICARD: I hear you've been promoted to supervisor of the Atlantis project.
+[00:21:09.726 --> 00:21:14.446] LOUIS: I'm one of two hundred supervisors, although my wife would have you believe I run the entire project.
+[00:21:15.406 --> 00:21:17.646] PICARD: Well. it's certainly very exciting work.
+[00:21:17.886 --> 00:21:19.886] PICARD: I've kept up on it in the journals.
+[00:21:20.526 --> 00:21:20.846] LOUIS: Really?
+[00:21:21.726 --> 00:21:22.206] PICARD: It's only.
+[00:21:23.726 --> 00:21:25.406] PICARD: There's just one thing I don't understand.
+[00:21:26.366 --> 00:21:27.886] PICARD: You were such a rotten swimmer, Louis.
+[00:21:30.606 --> 00:21:32.366] PICARD: Thinking of you working on the ocean floor.
+[00:21:33.086 --> 00:21:36.526] LOUIS: I suppose we all find ways to confront our greatest fears.
+[00:21:38.046 --> 00:21:43.966] PICARD: Seriously, how do you plan to accelerate the buildup on the underside of the mantle without increasing the stress on the tectonic plates?
+[00:21:44.526 --> 00:21:46.126] LOUIS: You really have kept up, haven't you?
+[00:21:46.276 --> 00:21:46.876] LOUIS: The
+[00:21:47.806 --> 00:21:50.046] LOUIS: truth is we don't know, yet.
+[00:21:51.086 --> 00:21:56.686] PICARD: On the Enterprise, we used harmonic resonators to relieve the tectonic pressures on Drema Four.
+[00:21:57.086 --> 00:21:58.286] PICARD: Obviously, it's not the same problem but
+[00:21:58.286 --> 00:21:59.326] LOUIS: You know, it's such a shame.
+[00:22:00.126 --> 00:22:07.086] LOUIS: The government is looking for someone to take over the project. A real leader who'll go in there and get things moving. And they are looking for you, Jean-Luc.
+[00:22:08.206 --> 00:22:10.446] LOUIS: I know, I know, you'd never leave Starfleet.
+[00:22:12.206 --> 00:22:13.406] PICARD: No, I'd never leave Starfleet.
+[00:22:15.886 --> 00:22:17.006] LOUIS: That's what I thought,
+[00:22:17.646 --> 00:22:21.966] LOUIS: but if nothing else, why don't I send over some of the internal studies of the tectonic problem,
+[00:22:21.966 --> 00:22:24.926] LOUIS: since you're interested? We could use any thoughts you might have.
+[00:22:26.126 --> 00:22:26.366] PICARD: All right.
+[00:22:32.326 --> 00:22:33.366] SERGEY: It's a great crew, son,
+[00:22:34.326 --> 00:22:35.366] SERGEY: and they think the world of you.
+[00:22:36.726 --> 00:22:37.606] HELENA: They really do.
+[00:22:39.366 --> 00:22:40.406] WORF: Mother, Father, I
+[00:22:45.366 --> 00:22:47.686] WORF: wish you would be a little more
+[00:22:49.846 --> 00:22:52.406] WORF: reserved while you are on board.
+[00:22:53.446 --> 00:22:53.926] HELENA: I know.
+[00:22:55.126 --> 00:22:56.566] HELENA: We go too far, sometimes.
+[00:22:56.806 --> 00:22:58.326] SERGEY: We're just excited to be here.
+[00:22:59.606 --> 00:23:00.966] RIKER: Riker to Lieutenant Worf.
+[00:23:02.646 --> 00:23:03.126] WORF: Worf here.
+[00:23:03.526 --> 00:23:05.446] RIKER: I need to talk to you about the phaser test results.
+[00:23:06.646 --> 00:23:07.366] WORF: On my way, Commander.
+[00:23:10.886 --> 00:23:13.286] WORF: Have Guinan call me if you need anything.
+[00:23:26.006 --> 00:23:28.166] SERGEY: Maybe we should just leave it alone.
+[00:23:28.406 --> 00:23:30.086] HELENA: I can't just leave it alone.
+[00:23:31.126 --> 00:23:31.846] HELENA: I'm his mother.
+[00:23:36.566 --> 00:23:39.766] GUINAN: You know, sooner or later, everyone comes in here.
+[00:23:40.166 --> 00:23:43.686] GUINAN: They stand by those windows and they look out and the stare.
+[00:23:44.566 --> 00:23:47.206] GUINAN: They're looking for that little star they call home.
+[00:23:47.356 --> 00:23:47.956] GUINAN: It
+[00:23:48.966 --> 00:23:50.886] GUINAN: doesn't matter how far away it is,
+[00:23:52.406 --> 00:23:54.486] GUINAN: everybody looks anyway.
+[00:23:56.276 --> 00:23:56.916] GUINAN: I'm Guinan.
+[00:23:57.876 --> 00:23:58.676] GUINAN: Pleased to meet you.
+[00:23:59.796 --> 00:24:00.927] GUINAN: You're Worf's parents?
+[00:24:00.927 --> 00:24:02.436] SERGEY: Sergey and Helena Rozhenko
+[00:24:03.076 --> 00:24:03.396] GUINAN: Welcome.
+[00:24:03.636 --> 00:24:04.356] GUINAN: Sit, please.
+[00:24:05.716 --> 00:24:07.716] GUINAN: There's
+[00:24:09.636 --> 00:24:11.396] GUINAN: something I would like to ask you.
+[00:24:12.436 --> 00:24:12.676] HELENA: Please.
+[00:24:13.876 --> 00:24:17.636] GUINAN: How come you never gave him prune juice?
+[00:24:18.596 --> 00:24:19.636] HELENA: I beg your pardon?
+[00:24:20.596 --> 00:24:22.436] GUINAN: He said he'd never had it till he came here.
+[00:24:22.676 --> 00:24:23.796] GUINAN: Mow he can't get enough of it.
+[00:24:24.276 --> 00:24:24.596] HELENA: Worf?
+[00:24:25.636 --> 00:24:28.596] SERGEY: He never wanted any human food while he was growing up.
+[00:24:28.996 --> 00:24:30.676] SERGEY: Everything had to be Klingon.
+[00:24:31.556 --> 00:24:34.356] HELENA: I learned to cook rokeg blood pie.
+[00:24:35.236 --> 00:24:37.556] SERGEY: However, we never quite learned how to eat it.
+[00:24:41.556 --> 00:24:42.836] HELENA: It was a difficult adolescence.
+[00:24:44.116 --> 00:24:44.836] GUINAN: But you got through it.
+[00:24:46.916 --> 00:24:48.196] SERGEY: We didn't do anything special.
+[00:24:48.516 --> 00:24:48.916] GUINAN: Didn't you?
+[00:24:49.956 --> 00:24:50.756] GUINAN: Just look at him.
+[00:24:52.196 --> 00:24:53.316] GUINAN: I think he's pretty special.
+[00:24:55.316 --> 00:25:00.516] HELENA: We knew it wouldn't be easy for him, growing up without other Klingons to go to for guidance.
+[00:25:01.316 --> 00:25:05.076] SERGEY: We had to let him discover and explore his heritage by himself,
+[00:25:06.036 --> 00:25:07.716] SERGEY: let him find his own path.
+[00:25:10.116 --> 00:25:12.916] GUINAN: So many parents could learn so much from the two of you.
+[00:25:14.916 --> 00:25:15.156] HELENA: Well,
+[00:25:16.596 --> 00:25:20.996] HELENA: I'm afraid that Worf feels that we do not understand him.
+[00:25:22.066 --> 00:25:23.746] GUINAN: Well, part of him may feel that way, but
+[00:25:25.186 --> 00:25:26.786] GUINAN: there's another part that I've seen.
+[00:25:26.936 --> 00:25:27.536] GUINAN: A
+[00:25:28.626 --> 00:25:32.066] GUINAN: part that comes in and drinks prune juice.
+[00:25:32.216 --> 00:25:32.816] GUINAN: A
+[00:25:34.386 --> 00:25:36.386] GUINAN: part that looks out the window towards home.
+[00:25:38.226 --> 00:25:40.306] GUINAN: He's not looking toward the Klingon Empire.
+[00:25:42.386 --> 00:25:43.346] GUINAN: He's looking toward
+[00:25:48.626 --> 00:25:50.626] GUINAN: you.
+[00:25:53.426 --> 00:25:53.826] MARIE: Jean Luc? Are
+[00:25:57.026 --> 00:25:57.506] MARIE: you all right?
+[00:25:57.506 --> 00:25:57.506] PICARD: I
+[00:25:59.506 --> 00:26:01.426] PICARD: seem to have made a rather disturbing discovery.
+[00:26:03.266 --> 00:26:06.866] PICARD: Louis mentioned the Atlantis project needed a director, and
+[00:26:10.386 --> 00:26:12.866] PICARD: I found myself actually thinking about it.
+[00:26:14.786 --> 00:26:15.346] MARIE: Why shouldn't you?
+[00:26:17.906 --> 00:26:20.626] PICARD: Leaving my career, the Enterprise?
+[00:26:21.426 --> 00:26:22.946] MARIE: Considering what you've just been through
+[00:26:23.186 --> 00:26:24.066] PICARD: No, it's not that.
+[00:26:28.306 --> 00:26:28.786] PICARD: Or is it?
+[00:26:30.466 --> 00:26:32.466] MARIE: Besides, it would be wonderful to have you back home.
+[00:26:33.746 --> 00:26:39.106] MARIE: Given a little time, maybe you and your brother might even get to like one another.
+[00:26:40.626 --> 00:26:43.826] PICARD: Well, I already like his choice in wives.
+[00:26:44.626 --> 00:26:46.386] PICARD: I never thanked you for your correspondence.
+[00:26:46.386 --> 00:26:47.506] PICARD: It made me feel
+[00:26:47.823 --> 00:26:49.023] PICARD: like part of the family.
+[00:26:49.663 --> 00:26:51.263] MARIE: You're not like part of the family.
+[00:26:51.263 --> 00:26:53.503] MARIE: You are part of the family, Jean Luc Picard.
+[00:26:54.223 --> 00:26:54.783] ROBERT: Don't worry, my
+[00:26:54.783 --> 00:26:55.023] ROBERT: dear, I've
+[00:26:56.863 --> 00:26:57.183] ROBERT: got it.
+[00:26:57.343 --> 00:26:57.803] LOUIS: Robert.
+[00:26:57.803 --> 00:26:59.183] MARIE: Louis, come in.
+[00:26:59.903 --> 00:27:00.863] MARIE: Let me get you some wine.
+[00:27:02.303 --> 00:27:03.583] MARIE: You can talk business.
+[00:27:04.303 --> 00:27:04.623] ROBERT: Business?
+[00:27:04.943 --> 00:27:06.303] PICARD: Well, there's nothing much to talk about.
+[00:27:06.463 --> 00:27:08.623] LOUIS: I'm interested to know what you thought about our plans.
+[00:27:09.663 --> 00:27:11.663] PICARD: I've only had a chance to glance at them.
+[00:27:11.903 --> 00:27:13.503] PICARD: I've a few ideas.
+[00:27:13.503 --> 00:27:14.303] LOUIS: Wonderful.
+[00:27:14.463 --> 00:27:15.983] LOUIS: We should discuss them with the board of governors.
+[00:27:16.303 --> 00:27:17.423] LOUIS: I've set up a meeting.
+[00:27:17.503 --> 00:27:17.903] PICARD: Meeting?
+[00:27:18.463 --> 00:27:21.423] LOUIS: Just a preliminary conversation. Tomorrow morning?
+[00:27:21.743 --> 00:27:22.623] PICARD: Preliminary to what?
+[00:27:23.983 --> 00:27:24.463] LOUIS: They want you.
+[00:27:25.423 --> 00:27:26.943] LOUIS: I mentioned your interest in the project,
+[00:27:26.943 --> 00:27:27.343] LOUIS: that's all.
+[00:27:27.343 --> 00:27:28.223] LOUIS: That's all I had to say.
+[00:27:28.223 --> 00:27:29.503] LOUIS: They jumped at the prospect.
+[00:27:29.663 --> 00:27:31.583] PICARD: I never said there was a prospect.
+[00:27:31.663 --> 00:27:33.503] LOUIS: At least listen to them, Jean-Luc.
+[00:27:42.303 --> 00:27:42.543] PICARD: All right.
+[00:27:44.703 --> 00:27:45.023] PICARD: Very good.
+[00:27:45.023 --> 00:27:45.263] PICARD: Fine.
+[00:27:45.343 --> 00:27:45.743] PICARD: I'll listen.
+[00:27:45.983 --> 00:27:47.103] LOUIS: You won't regret it, Jean-Luc.
+[00:27:47.103 --> 00:27:47.583] LOUIS: I promise you.
+[00:27:47.983 --> 00:27:50.543] LOUIS: I'll see you in the morning.
+[00:28:01.583 --> 00:28:02.543] WESLEY: I don't understand, Mom.
+[00:28:03.183 --> 00:28:03.983] WESLEY: What kind of message?
+[00:28:05.423 --> 00:28:06.303] CRUSHER: I don't know exactly.
+[00:28:08.863 --> 00:28:10.863] CRUSHER: Your father made it a few weeks after you were born.
+[00:28:12.063 --> 00:28:12.383] WESLEY: Why?
+[00:28:14.690 --> 00:28:17.410] CRUSHER: He felt it was important to say certain things.
+[00:28:20.290 --> 00:28:22.610] CRUSHER: And to make sure that he didn't forget to tell you later.
+[00:28:22.760 --> 00:28:23.360] WESLEY: Do
+[00:28:24.290 --> 00:28:24.850] WESLEY: you know what it says?
+[00:28:25.170 --> 00:28:25.330] CRUSHER: No.
+[00:28:26.770 --> 00:28:30.530] CRUSHER: But he wanted you to have this when you turned eighteen. And I want you to have it,
+[00:28:35.410 --> 00:28:37.410] CRUSHER: too.
+[00:28:39.090 --> 00:28:41.090] WORF: Enter.
+[00:28:45.650 --> 00:28:46.690] SERGEY: Are we disturbing you?
+[00:28:47.570 --> 00:28:47.890] WORF: No.
+[00:28:48.610 --> 00:28:48.770] WORF: No.
+[00:28:53.090 --> 00:28:55.090] WORF: I thought you were going to your quarters to sleep.
+[00:28:55.570 --> 00:28:56.850] HELENA: We just came by to tuck you in.
+[00:28:57.890 --> 00:28:58.290] WORF: Please.
+[00:29:01.250 --> 00:29:04.210] WORF: When I heard you were on the visitors' list,
+[00:29:06.610 --> 00:29:08.690] WORF: I was not sure I wanted you to come.
+[00:29:18.930 --> 00:29:20.690] WORF: I am glad you are here.
+[00:29:22.050 --> 00:29:22.930] HELENA: We had to come.
+[00:29:24.050 --> 00:29:25.810] SERGEY: Our boy was in trouble.
+[00:29:26.850 --> 00:29:30.784] SERGEY: After we read your letter about the discommendation from the Klingons.
+[00:29:30.784 --> 00:29:32.930] HELENA: We don't exactly understand it all.
+[00:29:33.170 --> 00:29:34.050] SERGEY: We don't have to.
+[00:29:35.410 --> 00:29:36.690] SERGEY: We know what kind of man you are.
+[00:29:37.970 --> 00:29:40.850] HELENA: Whatever you did, we know it was for a good reason.
+[00:29:42.050 --> 00:29:45.170] WORF: I must bear my dishonour alone.
+[00:29:45.730 --> 00:29:47.090] SERGEY: That is not true.
+[00:29:47.897 --> 00:29:55.562] HELENA: I'm sorry if this is too human of us but, whenever you are suffering, you must remember we are with you.
+[00:29:55.562 --> 00:29:59.577] SERGEY: And that we're proud of you, and that we love you.
+[00:30:01.097 --> 00:30:02.217] HELENA: You're our son.
+[00:30:22.857 --> 00:30:23.497] ROBERT: Careful.
+[00:30:24.777 --> 00:30:27.017] ROBERT: You're not used to drinking the real thing.
+[00:30:29.177 --> 00:30:29.737] ROBERT: This synthehol
+[00:30:33.257 --> 00:30:35.417] ROBERT: never leaves you out of control,
+[00:30:35.417 --> 00:30:35.977] ROBERT: is that so?
+[00:30:35.977 --> 00:30:37.097] PICARD: That's so.
+[00:30:39.657 --> 00:30:40.697] ROBERT: This will.
+[00:30:45.817 --> 00:30:48.697] ROBERT: Now there is something I'd like to see.
+[00:30:51.337 --> 00:30:51.657] PICARD: What's that?
+[00:30:51.657 --> 00:30:51.657] ROBERT: The
+[00:30:53.257 --> 00:30:55.257] ROBERT: gallant Captain out of control.
+[00:30:59.977 --> 00:31:01.097] ROBERT: Mind if I ask you a question?
+[00:31:05.177 --> 00:31:06.857] ROBERT: What the devil happened to you up there?
+[00:31:06.857 --> 00:31:06.857] PICARD: Is
+[00:31:09.177 --> 00:31:10.537] PICARD: this brotherly concern?
+[00:31:11.177 --> 00:31:11.417] ROBERT: No.
+[00:31:12.537 --> 00:31:13.177] ROBERT: Curiosity.
+[00:31:15.659 --> 00:31:16.379] ROBERT: What did they do to you?
+[00:31:19.259 --> 00:31:20.059] PICARD: You know what happened.
+[00:31:21.259 --> 00:31:22.139] ROBERT: Not precisely.
+[00:31:23.659 --> 00:31:26.779] ROBERT: I gather you were hurt. Humiliated.
+[00:31:28.379 --> 00:31:32.619] ROBERT: I always thought you needed a little humiliation. Or was it humility?
+[00:31:33.819 --> 00:31:34.779] ROBERT: Either would do.
+[00:31:42.859 --> 00:31:43.899] ROBERT: Why do you walk away?
+[00:31:46.619 --> 00:31:47.899] ROBERT: That isn't your style.
+[00:31:48.459 --> 00:31:50.059] PICARD: I'm tired of fighting with you, Robert.
+[00:31:50.379 --> 00:31:50.859] ROBERT: Tired?
+[00:31:51.179 --> 00:31:51.579] PICARD: That's right.
+[00:31:51.979 --> 00:31:52.699] ROBERT: Yes.
+[00:31:52.859 --> 00:31:54.619] ROBERT: Tired of the Enterprise too?
+[00:31:55.179 --> 00:32:02.619] ROBERT: The great Captain Picard of Starfleet falls to Earth, ready to plunge into the water with Louis.
+[00:32:03.739 --> 00:32:05.179] ROBERT: That isn't the brother that I remember.
+[00:32:06.619 --> 00:32:09.899] ROBERT: Still, I suppose it must have seemed like the ideal situation, hmm?
+[00:32:10.939 --> 00:32:16.459] ROBERT: Local boy makes good. Returns home after twenty years to a hero's welcome.
+[00:32:16.699 --> 00:32:17.259] PICARD: I'm not a hero.
+[00:32:17.739 --> 00:32:18.379] ROBERT: Of course you are.
+[00:32:18.619 --> 00:32:19.019] ROBERT: Admit it.
+[00:32:19.739 --> 00:32:22.139] ROBERT: You'd never settle for less than that and you never will.
+[00:32:22.139 --> 00:32:22.779] PICARD: That's not true.
+[00:32:23.659 --> 00:32:26.779] ROBERT: Cancel the parade? In your favour?
+[00:32:26.859 --> 00:32:27.099] PICARD: No!
+[00:32:27.979 --> 00:32:28.219] PICARD: I never
+[00:32:29.259 --> 00:32:30.459] PICARD: sought that rubbish.
+[00:32:31.339 --> 00:32:31.819] ROBERT: Never sought?
+[00:32:32.939 --> 00:32:40.439] ROBERT: Never sought president of the school, valedictorian, athletic hero with your arms raised in victory?
+[00:32:40.439 --> 00:32:40.939] PICARD: Valedictorian?
+[00:32:41.899 --> 00:32:43.579] PICARD: Arms raised in victory?
+[00:32:44.779 --> 00:32:45.659] PICARD: Were you so jealous?
+[00:32:46.059 --> 00:32:46.299] ROBERT: Yes,
+[00:32:46.699 --> 00:32:47.019] ROBERT: damn it.
+[00:32:47.902 --> 00:32:51.641] ROBERT: I was always so jealous, I had a right to be.
+[00:32:51.641 --> 00:32:51.981] PICARD: Right?
+[00:32:52.702 --> 00:32:54.541] ROBERT: I was always your brother,
+[00:32:55.182 --> 00:33:01.741] ROBERT: watching you receive the cheers, watching you break every rule our father made and get away with it.
+[00:33:01.821 --> 00:33:02.942] PICARD: Why didn't you break a few rules?
+[00:33:03.021 --> 00:33:06.382] ROBERT: Because I was the elder brother, the responsible one.
+[00:33:06.702 --> 00:33:08.702] ROBERT: It was my job to look after you.
+[00:33:08.702 --> 00:33:09.422] PICARD: Look after me?
+[00:33:09.902 --> 00:33:11.501] PICARD: You? You were a bully.
+[00:33:11.501 --> 00:33:19.101] ROBERT: Sometimes. Maybe. Sometimes I even enjoyed bullying you.
+[00:33:20.142 --> 00:33:20.301] PICARD: All right.
+[00:33:21.581 --> 00:33:22.221] PICARD: Try it now.
+[00:33:23.902 --> 00:33:25.182] ROBERT: Did you come back, Jean-Luc?
+[00:33:26.382 --> 00:33:29.581] ROBERT: Did you come back because you wanted me to look after you again?
+[00:33:31.101 --> 00:33:31.501] PICARD: Damn you!
+[00:33:31.501 --> 00:33:31.581] PICARD: You were asking for it, you
+[00:33:52.781 --> 00:33:52.781] PICARD: know.
+[00:33:55.741 --> 00:33:55.741] ROBERT: Yes,
+[00:34:05.341 --> 00:34:07.341] ROBERT: but
+[00:34:16.942 --> 00:34:19.422] ROBERT: you needed it.
+[00:34:20.251 --> 00:34:24.251] ROBERT: You have been terribly hard on yourself.
+[00:34:24.651 --> 00:34:28.491] PICARD: You don't know, Robert. You don't know.
+[00:34:28.491 --> 00:34:31.611] PICARD: They took everything I
+[00:34:34.411 --> 00:34:34.491] PICARD: was.
+[00:34:34.491 --> 00:34:34.571] PICARD: They used me to kill and to destroy, and I couldn't stop them.
+[00:34:34.891 --> 00:34:34.891] PICARD: I
+[00:34:40.731 --> 00:34:41.131] PICARD: should have been
+[00:34:44.891 --> 00:34:48.571] PICARD: able to stop them!
+[00:34:48.571 --> 00:34:50.875] PICARD: I tried.
+[00:34:52.027 --> 00:35:00.091] PICARD: I tried so hard, but
+[00:35:00.091 --> 00:35:00.984] PICARD: I wasn't strong enough.
+[00:35:00.997 --> 00:35:01.131] PICARD: I wasn't good enough.
+[00:35:01.131 --> 00:35:02.811] PICARD: I should have been able to stop them.
+[00:35:03.371 --> 00:35:04.091] PICARD: I should!
+[00:35:04.331 --> 00:35:04.811] PICARD: I should!
+[00:35:06.651 --> 00:35:07.051] ROBERT: So,
+[00:35:09.851 --> 00:35:13.451] ROBERT: my brother is a human being after all.
+[00:35:15.611 --> 00:35:18.011] ROBERT: This is going to be with you a long time, Jean-Luc.
+[00:35:18.731 --> 00:35:19.291] ROBERT: A long time.
+[00:35:21.931 --> 00:35:23.291] ROBERT: You have to learn to live with it.
+[00:35:25.211 --> 00:35:29.131] ROBERT: You have a simple choice now. Live with it below the sea with Louis,
+[00:35:31.131 --> 00:35:32.651] ROBERT: or above the clouds with the Enterprise.
+[00:35:32.801 --> 00:35:33.801] PICARD: You know,
+[00:35:42.091 --> 00:35:46.811] PICARD: I think you were right
+[00:35:47.291 --> 00:35:51.291] PICARD: after all. I think I did come back so that you could help me.
+[00:35:51.441 --> 00:35:52.841] ROBERT: You know what?
+[00:35:55.244 --> 00:35:55.844] ROBERT: I
+[00:35:56.661 --> 00:35:57.781] ROBERT: still don't like you,
+[00:36:06.885 --> 00:36:07.552] ROBERT: Jean-Luc.
+[00:36:07.552 --> 00:36:08.885] MARIE: What in
+[00:36:17.989 --> 00:36:19.989] MARIE: the world?
+[00:36:25.541 --> 00:36:26.821] MARIE: What happened here?
+[00:36:30.261 --> 00:36:30.834] ROBERT: Ah
+[00:36:30.834 --> 00:36:33.701] PICARD: It's entirely my fault, Marie.
+[00:36:34.101 --> 00:36:37.313] ROBERT: Yes, I fell down, then he fell and then
+[00:36:37.313 --> 00:36:38.741] PICARD: We both fell down.
+[00:36:38.741 --> 00:36:39.637] ROBERT: We both fell down.
+[00:36:39.637 --> 00:36:39.861] PICARD: Together.
+[00:36:39.861 --> 00:36:41.541] ROBERT: We both fell down together.
+[00:36:41.541 --> 00:36:41.621] MARIE: Have you
+[00:36:44.341 --> 00:36:44.341] MARIE: two
+[00:36:46.981 --> 00:36:47.941] MARIE: been fighting?
+[00:36:49.621 --> 00:36:49.941] ROBERT: Fighting?
+[00:36:50.901 --> 00:36:51.941] ROBERT: No, certainly not.
+[00:36:52.501 --> 00:36:53.461] MARIE: Shame on you both.
+[00:36:54.341 --> 00:36:57.381] MARIE: What would your father say if he saw you like this?
+[00:36:58.581 --> 00:37:00.501] PICARD: He'd probably send us both to bed without our supper.
+[00:37:00.501 --> 00:37:04.261] MARIE: Well, perhaps it's just as well you got it out of your systems.
+[00:37:04.341 --> 00:37:06.261] PICARD: Perhaps it was, Marie.
+[00:37:06.261 --> 00:37:08.421] PICARD: Perhaps it was.
+[00:37:09.381 --> 00:37:14.421] PICARD: I'll contact Louis and cancel the meeting with the Board of Governors.
+[00:37:14.421 --> 00:37:16.101] PICARD: It's time that I was going.
+[00:37:16.741 --> 00:37:17.461] MARIE: Already, Jean-Luc?
+[00:37:17.461 --> 00:37:22.581] PICARD: The ship will be ready to leave orbit soon, and I belong on board.
+[00:37:23.934 --> 00:37:24.014] PICARD: If
+[00:37:26.254 --> 00:37:29.614] PICARD: I should ever doubt that again, I know where to come.
+[00:37:38.334 --> 00:37:41.454] WESLEY: Computer, load programme, Crusher One.
+[00:37:42.574 --> 00:37:43.534] COMPUTER: Programme complete.
+[00:37:43.694 --> 00:37:44.494] COMPUTER: Enter when ready.
+[00:37:57.054 --> 00:37:57.614] WESLEY: Run programme.
+[00:38:01.294 --> 00:38:01.934] JACK: Hello, Wesley.
+[00:38:03.374 --> 00:38:06.094] JACK: As I make this recording, you are about ten weeks old.
+[00:38:08.414 --> 00:38:10.574] JACK: I wanted you to know who I am today.
+[00:38:11.774 --> 00:38:14.494] JACK: You see, this Jack Crusher won't exist by the time you're grown up.
+[00:38:15.534 --> 00:38:20.334] JACK: I'll be older, more experienced, and hopefully a little wiser.
+[00:38:20.974 --> 00:38:26.254] JACK: But this person will be gone and I want you to know who your father was when you came into the world.
+[00:38:28.334 --> 00:38:30.254] JACK: When I see you lying there in your crib,
+[00:38:31.934 --> 00:38:34.654] JACK: I realise I don't know the first thing about being a father.
+[00:38:35.854 --> 00:38:39.854] JACK: So let me just apologise for all the mistakes I'm about to make as you grow up.
+[00:38:41.054 --> 00:38:44.654] JACK: I hope you don't grow up resenting the fact that I was gone so much.
+[00:38:46.414 --> 00:38:48.014] JACK: That comes with this uniform.
+[00:38:49.534 --> 00:38:53.694] JACK: I don't know if I can explain why Starfleet means so much to me.
+[00:38:54.906 --> 00:38:57.145] JACK: Maybe you'll understand when you get this recording.
+[00:38:58.585 --> 00:39:00.906] JACK: Maybe you'll even want to try one of these on.
+[00:39:02.986 --> 00:39:05.305] JACK: But you'll probably be a doctor like your mother.
+[00:39:06.265 --> 00:39:08.906] JACK: You're only a baby, but it's remarkable.
+[00:39:09.705 --> 00:39:18.346] JACK: I can see in your face all the people I've loved in my lifetime. Your mother, my father and mother. Our family.
+[00:39:19.625 --> 00:39:20.906] JACK: I can see me in you, too.
+[00:39:24.265 --> 00:39:25.866] JACK: And I can feel that you're my son.
+[00:39:27.785 --> 00:39:34.505] JACK: I don't know how to describe it, but there's this connection, this bond.
+[00:39:37.225 --> 00:39:38.585] JACK: I'll always be a part of you, Wesley.
+[00:39:41.866 --> 00:39:44.906] JACK: Well, I hope this made some sense to you.
+[00:39:46.265 --> 00:39:49.785] JACK: I'm not sure that it does to me, but maybe I'll do better next time.
+[00:39:52.745 --> 00:39:53.545] JACK: I love you, Wesley.
+[00:39:59.065 --> 00:40:01.065] WESLEY: Goodbye, Dad.
+[00:40:12.745 --> 00:40:15.946] MARIE: Come back and see us again.
+[00:40:18.346 --> 00:40:22.025] MARIE: Goodbye, Jean-Luc. And be careful.
+[00:40:27.139 --> 00:40:28.739] PICARD: Take care, Uncle.
+[00:40:29.219 --> 00:40:29.619] RENE: You too.
+[00:40:32.179 --> 00:40:34.739] RENE: Someday, I'll be leaving for my starship, too.
+[00:40:36.659 --> 00:40:37.939] PICARD: Well, there's plenty of time for that.
+[00:40:39.059 --> 00:40:40.819] PICARD: You may decide to do something else as you get older.
+[00:40:45.059 --> 00:40:48.099] ROBERT: Jean-Luc, here is a little of the forty seven.
+[00:40:49.139 --> 00:40:53.299] ROBERT: Do not drink it all at once, and if possible, try not to drink it alone.
+[00:41:24.739 --> 00:41:26.819] HELENA: Is there anything you want us to send you from home?
+[00:41:28.419 --> 00:41:28.659] WORF: No.
+[00:41:32.899 --> 00:41:35.219] WORF: Perhaps some of your rokeg blood pie.
+[00:41:35.539 --> 00:41:39.779] HELENA: It's been a while, but I think I still remember how.
+[00:41:42.259 --> 00:41:44.899] WORF: Captain. Welcome back.
+[00:41:45.699 --> 00:41:46.339] PICARD: Thank you, Lieutenant.
+[00:41:46.899 --> 00:41:49.299] WORF: These are my parents, Helena and Sergey Rozhenko.
+[00:41:49.539 --> 00:41:51.379] PICARD: Delighted. Sir.
+[00:41:52.819 --> 00:41:54.179] SERGEY: Quite a ship you have here, Captain.
+[00:41:54.979 --> 00:41:56.259] PICARD: You had the full tour, I trust?
+[00:41:56.499 --> 00:42:00.044] SERGEY: Well, actually, there are still a few areas because of the repairs
+[00:42:00.044 --> 00:42:00.339] HELENA: Sergey.
+[00:42:00.506 --> 00:42:01.306] HELENA: It's time to go.
+[00:42:01.626 --> 00:42:01.946] SERGEY: Yes.
+[00:42:02.106 --> 00:42:02.346] SERGEY: Yes.
+[00:42:03.786 --> 00:42:03.786] SERGEY: Okay.
+[00:42:04.506 --> 00:42:06.506] SERGEY: I have all the specs and diagrams at home.
+[00:42:13.146 --> 00:42:15.786] MARIE: He's still out there.
+[00:42:18.986 --> 00:42:21.946] MARIE: Dreaming about starships and adventures.
+[00:42:25.946 --> 00:42:26.586] MARIE: It's getting late.
+[00:42:27.146 --> 00:42:27.306] ROBERT: Yes.
+[00:42:29.386 --> 00:42:30.746] ROBERT: But let him dream.

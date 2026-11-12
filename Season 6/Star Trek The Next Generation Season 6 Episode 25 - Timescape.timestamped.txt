@@ -1,0 +1,647 @@
+[00:00:03.760 --> 00:00:05.600] CRUSHER: Oh, you really did it this time, Will.
+[00:00:05.600 --> 00:00:07.840] CRUSHER: This is not just a scrape,
+[00:00:07.920 --> 00:00:09.600] CRUSHER: this is a very deep cut.
+[00:00:10.560 --> 00:00:10.560] CRUSHER: Well,
+[00:00:12.320 --> 00:00:14.320] CRUSHER: I can heal it, of course,
+[00:00:15.360 --> 00:00:18.560] CRUSHER: but you've got to stop playing Parrises Squares as if you're twenty one years old.
+[00:00:19.360 --> 00:00:22.400] CRUSHER: One of these days you're going to fall and break your neck, and I'm not going to be able to heal that as easily.
+[00:00:24.400 --> 00:00:25.760] RIKER: I wasn't playing Parrises Squares.
+[00:00:26.880 --> 00:00:28.240] CRUSHER: Worf's callisthenic programme?
+[00:00:28.240 --> 00:00:28.560] RIKER: No.
+[00:00:29.280 --> 00:00:29.680] CRUSHER: I give up.
+[00:00:29.680 --> 00:00:30.080] CRUSHER: What was it?
+[00:00:31.360 --> 00:00:32.640] RIKER: I was trying to feed Spot.
+[00:00:33.840 --> 00:00:34.880] CRUSHER: Data's cat?
+[00:00:35.120 --> 00:00:36.720] RIKER: I told him I'd feed him while he was gone.
+[00:00:37.920 --> 00:00:38.880] RIKER: I was just putting down the bowl of food.
+[00:00:38.880 --> 00:00:41.680] RIKER: The next thing I know there's a hissing ball of fur coming at my face.
+[00:00:41.920 --> 00:00:42.720] RIKER: I hate cats.
+[00:00:42.720 --> 00:00:43.520] CRUSHER: I love cats.
+[00:00:44.240 --> 00:00:45.760] CRUSHER: You know, you've just got to know how to handle them.
+[00:00:46.560 --> 00:00:47.280] RIKER: Maybe you'd like to do it.
+[00:00:48.160 --> 00:00:50.160] CRUSHER: I would be honoured, if I could
+[00:00:50.160 --> 00:00:51.280] WORF: Commander Riker to the Bridge.
+[00:00:51.760 --> 00:00:52.160] RIKER: On my way.
+[00:00:54.400 --> 00:00:55.120] RIKER: Oh, by the way,
+[00:00:56.720 --> 00:00:57.280] RIKER: you'll need this.
+[00:01:01.040 --> 00:01:03.040] RIKER: Report.
+[00:01:04.000 --> 00:01:06.640] WORF: We are picking up a distress call on long range sensors.
+[00:01:08.080 --> 00:01:10.320] WORF: It is Romulan, sir.
+[00:01:10.720 --> 00:01:11.200] RIKER: Romulan?
+[00:01:12.080 --> 00:01:14.480] WORF: They claim they have suffered a complete engine failure.
+[00:01:15.520 --> 00:01:16.400] WORF: Power levels are dropping.
+[00:01:17.600 --> 00:01:18.480] WORF: Life support is failing.
+[00:01:18.630 --> 00:01:19.230] WORF: It
+[00:01:21.120 --> 00:01:21.760] WORF: could be a trick.
+[00:01:25.600 --> 00:01:27.200] RIKER: How long before we rendezvous with Captain Picard?
+[00:01:27.600 --> 00:01:28.880] WORF: Approximately thirteen hours.
+[00:01:28.912 --> 00:01:29.232] RIKER: Lay in
+[00:01:31.392 --> 00:01:32.752] RIKER: a course for the Romulan ship.
+[00:01:33.312 --> 00:01:34.592] RIKER: Let's put up shields and go to Red Alert.
+[00:01:34.832 --> 00:01:35.552] RIKER: I want to be ready for anything.
+[00:01:35.952 --> 00:01:36.272] WORF: Aye, sir.
+[00:01:41.152 --> 00:01:44.432] LOG: Captain's log, stardate 46944.2.
+[00:01:44.992 --> 00:01:55.152] LOG: Commander Data, Mister La Forge, Counsellor Troi and I are en route to the Enterprise, after attending a three day conference on the psychological effects of long-term deep-space assignments.
+[00:01:56.032 --> 00:01:58.592] DATA: Computer activate automatic helm control.
+[00:01:58.592 --> 00:02:00.912] COMPUTER: Helm control activated.
+[00:02:02.192 --> 00:02:11.712] TROI: I was just leaving the reception when this Ktarian walks up to me and says, hello, Diane.
+[00:02:12.352 --> 00:02:14.432] TROI: I understand you're an empath.
+[00:02:14.672 --> 00:02:19.472] TROI: I'm a very sensitive man myself.
+[00:02:20.592 --> 00:02:24.592] TROI: I'm doing a thesis on interspecies mating rituals.
+[00:02:25.392 --> 00:02:30.032] TROI: Would you care to join me in some empirical research?
+[00:02:30.032 --> 00:02:31.152] LAFORGE: That's a
+[00:02:32.832 --> 00:02:34.512] LAFORGE: very good impression of Doctor Mizan.
+[00:02:34.512 --> 00:02:35.632] TROI: How did you know?
+[00:02:36.112 --> 00:02:39.312] LAFORGE: He's notorious, but he really is an expert on interspecies mating practices.
+[00:02:40.512 --> 00:02:42.032] DATA: Did you help him with his research, Counsellor?
+[00:02:42.512 --> 00:02:43.552] TROI: Absolutely not.
+[00:02:44.672 --> 00:02:46.352] DATA: I thought it was a topic you were interested in.
+[00:02:49.952 --> 00:02:51.552] LAFORGE: How did you enjoy the rest of the conference, Counsellor?
+[00:02:51.552 --> 00:02:54.112] TROI: To be honest, I was bored.
+[00:02:54.906 --> 00:02:58.346] TROI: I spent most of my time at Professor Wagner's phylobiology seminar.
+[00:02:58.906 --> 00:03:04.826] TROI: I thought the idea of the seminar was that we would all participate, bring different points of views to the discussion.
+[00:03:05.706 --> 00:03:11.466] TROI: He gathered two hundred scientists from all over the Federation, and all he did was put us to sleep.
+[00:03:12.266 --> 00:03:14.506] DATA: I have a memory record of the entire lecture, Counsellor.
+[00:03:14.746 --> 00:03:16.346] DATA: I can repeat the portions you missed, if you
+[00:03:16.346 --> 00:03:16.906] TROI: No, thank you, Data.
+[00:03:18.426 --> 00:03:21.146] PICARD: Well, it was little better at the physiognomy workshop.
+[00:03:22.266 --> 00:03:35.866] PICARD: Doctor Vassbinder gave an hour long dissertation on the ionisation effect of warp nacelles before he realised that the topic was supposed to be psychology.
+[00:03:37.946 --> 00:03:39.066] LAFORGE: Why didn't anybody tell him?
+[00:03:39.386 --> 00:03:40.346] PICARD: There was no opportunity.
+[00:03:40.746 --> 00:03:42.666] PICARD: There was no pause.
+[00:03:43.226 --> 00:03:53.866] PICARD: He just kept talking in one long, incredibly unbroken sentence, moving from topic to topic so that no one had a chance to interrupt.
+[00:03:53.866 --> 00:03:56.026] PICARD: It was really quite hypnotic.
+[00:03:57.306 --> 00:03:59.306] LAFORGE: Well, I had a great time.
+[00:03:59.706 --> 00:04:01.946] LAFORGE: The warp-energy symposium was fascinating.
+[00:04:02.426 --> 00:04:04.906] LAFORGE: I actually had an opportunity to touch a plasma field.
+[00:04:05.466 --> 00:04:06.106] TROI: Really?
+[00:04:06.586 --> 00:04:07.306] TROI: What was it like?
+[00:04:07.306 --> 00:04:08.506] LAFORGE: It was incredible.
+[00:04:08.906 --> 00:04:11.866] LAFORGE: I could feel the plasma moving up my arm.
+[00:04:12.746 --> 00:04:17.146] LAFORGE: It was warm and, oh, there was this amazing tingling sensation that
+[00:04:27.712 --> 00:04:28.112] TROI: Captain?
+[00:04:33.392 --> 00:04:35.392] TROI: Data?
+[00:04:35.392 --> 00:04:36.752] LAFORGE: Moved through my chest.
+[00:04:36.752 --> 00:04:38.032] LAFORGE: It was incredible.
+[00:04:38.032 --> 00:04:40.432] LAFORGE: It was like taking a bath in pure energy.
+[00:04:41.152 --> 00:04:41.952] DATA: It was not painful?
+[00:04:42.112 --> 00:04:42.832] LAFORGE: Oh, no.
+[00:04:45.152 --> 00:04:47.312] LAFORGE: Counsellor? Is there something wrong?
+[00:04:50.912 --> 00:04:51.552] TROI: I'm not sure.
+[00:05:19.552 --> 00:05:22.272] PICARD: Space, the final frontier.
+[00:05:24.192 --> 00:05:27.072] PICARD: These are the voyages of the starship Enterprise.
+[00:05:28.192 --> 00:05:36.032] PICARD: It's continuing mission to explore strange new worlds, to seek out new life and new civilizations, to
+[00:05:37.952 --> 00:05:40.432] PICARD: boldly go where no one has gone before.
+[00:05:57.000 --> 00:06:07.000] [music]
+[00:06:09.000 --> 00:06:18.000] [music]
+[00:06:31.000 --> 00:06:41.000] [music]
+[00:06:51.200 --> 00:06:54.480] LAFORGE: Well, our bioscans check out.
+[00:06:54.480 --> 00:06:56.160] LAFORGE: There are no physiological anomalies.
+[00:06:56.800 --> 00:06:59.280] LAFORGE: If something did happen, it didn't leave any biological traces.
+[00:06:59.680 --> 00:07:01.920] PICARD: How long did it appear to you that we were frozen?
+[00:07:02.480 --> 00:07:02.880] TROI: I don't know.
+[00:07:02.880 --> 00:07:04.640] TROI: Four, maybe five seconds.
+[00:07:06.000 --> 00:07:08.720] TROI: You just stopped and then started again.
+[00:07:08.880 --> 00:07:09.840] TROI: I can't explain it.
+[00:07:12.320 --> 00:07:16.080] DATA: My memory record does not indicate a pause or disruption during that time period.
+[00:07:17.051 --> 00:07:20.491] DATA: My internal chronometer and the ship's computer are both perfectly synchronised.
+[00:07:20.731 --> 00:07:23.611] DATA: There does not appear to be a temporal discrepancy.
+[00:07:24.411 --> 00:07:27.131] LAFORGE: Data, let's run a ship-wide diagnostic.
+[00:07:27.371 --> 00:07:28.251] LAFORGE: Maybe we missed something.
+[00:07:33.851 --> 00:07:35.131] PICARD: Let's go through all this again.
+[00:07:35.131 --> 00:07:35.771] PICARD: You were sitting there.
+[00:07:36.091 --> 00:07:37.371] PICARD: The rest of us were here.
+[00:07:38.971 --> 00:07:42.491] PICARD: Describe the exact moment when we appeared to freeze.
+[00:07:43.611 --> 00:07:52.491] TROI: Well, Geordi was talking about what it felt like to touch the plasma field and you were taking a sip of tea.
+[00:07:53.131 --> 00:07:55.131] PICARD: Did you sense something from any of us at that time?
+[00:07:55.131 --> 00:07:56.651] PICARD: Any unusual emotion?
+[00:07:57.131 --> 00:07:57.851] TROI: Not a thing.
+[00:07:58.651 --> 00:08:03.691] TROI: I was empathically aware of you right up to the moment you froze, and then it all stopped.
+[00:08:03.691 --> 00:08:05.611] TROI: The
+[00:08:10.171 --> 00:08:12.091] TROI: past few days have been exhausting.
+[00:08:13.051 --> 00:08:14.491] TROI: Maybe it was my imagination.
+[00:08:17.531 --> 00:08:22.011] TROI: There were moments in that lecture hall when I thought time was standing still there, too.
+[00:08:24.251 --> 00:08:25.691] PICARD: Or there is another possibility, Counsellor.
+[00:08:26.811 --> 00:08:28.411] PICARD: This could be nothing more than simple
+[00:08:30.171 --> 00:08:30.251] PICARD: Are
+[00:08:32.251 --> 00:08:32.971] PICARD: you all right, Counsellor?
+[00:08:33.691 --> 00:08:34.171] TROI: What happened?
+[00:08:34.971 --> 00:08:37.211] DATA: You were motionless for three minutes eleven seconds.
+[00:08:37.771 --> 00:08:39.931] PICARD: It appears to be the same effect that you described in us.
+[00:08:39.931 --> 00:08:41.371] PICARD: Do you remember anything?
+[00:08:42.091 --> 00:08:42.491] TROI: No.
+[00:08:42.651 --> 00:08:46.171] TROI: One second I was talking to you, and the next you were all standing around me.
+[00:08:46.411 --> 00:08:47.771] LAFORGE: Wait a second.
+[00:08:47.771 --> 00:08:48.491] LAFORGE: This is weird.
+[00:08:49.131 --> 00:08:49.451] TROI: What is it?
+[00:08:52.647 --> 00:08:57.047] LAFORGE: I had the tricorder run a comparison between the bioscan I took of you earlier and the one I took just now.
+[00:08:57.927 --> 00:09:04.407] LAFORGE: In the time between the two scans, you should have aged twenty three minutes, but according to your cellular decay levels you've only aged twenty minutes.
+[00:09:04.407 --> 00:09:05.767] PICARD: How do you account for this discrepancy?
+[00:09:06.087 --> 00:09:06.567] LAFORGE: I don't know, sir.
+[00:09:07.367 --> 00:09:11.207] LAFORGE: It's as if for Counsellor Troi, for three minutes time just stopped.
+[00:09:13.287 --> 00:09:14.647] PICARD: Mister Data, contact the Enterprise.
+[00:09:15.447 --> 00:09:17.927] PICARD: Tell Commander Riker to meet us at the rendezvous point as soon as possible.
+[00:09:18.247 --> 00:09:20.487] PICARD: Have him scan the region for temporal anomalies.
+[00:09:20.887 --> 00:09:21.127] DATA: Aye, sir.
+[00:09:22.327 --> 00:09:24.007] LAFORGE: I'll check the sensor logs, see if I can find anything.
+[00:09:31.607 --> 00:09:35.927] DATA: Captain, may I see you?
+[00:09:42.727 --> 00:09:42.807] DATA: The
+[00:09:46.247 --> 00:09:48.327] DATA: Enterprise is not responding to our hails.
+[00:09:48.327 --> 00:09:49.287] PICARD: Are we within sensor range?
+[00:09:49.847 --> 00:09:50.167] DATA: No, sir.
+[00:09:51.927 --> 00:09:54.167] PICARD: Increase speed to the rendezvous coordinates.
+[00:09:54.167 --> 00:09:54.487] DATA: Aye, sir.
+[00:09:58.727 --> 00:09:58.887] DATA: We have
+[00:10:07.607 --> 00:10:10.567] DATA: an engine failure warning in
+[00:10:12.087 --> 00:10:14.327] DATA: the
+[00:10:14.327 --> 00:10:14.407] PICARD: Report!
+[00:10:14.807 --> 00:10:16.407] LAFORGE: The starboard nacelle just cut out.
+[00:10:22.407 --> 00:10:23.847] DATA: Attitude control has been restored.
+[00:10:24.289 --> 00:10:24.689] PICARD: Full stop.
+[00:10:24.929 --> 00:10:25.329] PICARD: What happened?
+[00:10:25.729 --> 00:10:28.129] LAFORGE: The starboard antimatter pod is completely drained.
+[00:10:28.609 --> 00:10:30.609] LAFORGE: The fuel reserves are empty.
+[00:10:31.489 --> 00:10:32.609] PICARD: Is there a fuel containment leak?
+[00:10:32.929 --> 00:10:33.409] LAFORGE: No, sir.
+[00:10:33.569 --> 00:10:34.769] LAFORGE: The containment field is intact.
+[00:10:34.769 --> 00:10:36.129] LAFORGE: all engine systems are operational.
+[00:10:36.129 --> 00:10:38.049] LAFORGE: The fuel is just gone.
+[00:10:38.769 --> 00:10:40.449] DATA: Geordi, I believe I have an explanation.
+[00:10:41.329 --> 00:10:46.609] DATA: According to the plasma conversion sensor, the starboard engine has been in continuous operation for forty seven days.
+[00:10:47.089 --> 00:10:48.449] LAFORGE: Forty seven days?
+[00:10:49.729 --> 00:10:50.929] LAFORGE: Nah. Let's check that sensor.
+[00:10:50.929 --> 00:10:52.129] LAFORGE: It must be malfunctioning.
+[00:10:53.009 --> 00:10:54.369] PICARD: I'll check the fuel consumption logs.
+[00:11:33.889 --> 00:11:34.449] TROI: What happened?
+[00:11:34.449 --> 00:11:35.356] PICARD: My hand.
+[00:11:35.356 --> 00:11:35.809] TROI: The
+[00:11:39.329 --> 00:11:43.649] TROI: cells are metabolising at an incredible speed. Almost fifty times normal.
+[00:11:45.249 --> 00:11:46.049] PICARD: The pain is going away.
+[00:11:47.409 --> 00:11:48.609] TROI: Your metabolism's stabilising.
+[00:11:50.391 --> 00:11:51.991] PICARD: It happened when I reached for the bowl of fruit.
+[00:11:59.351 --> 00:11:59.671] DATA: Captain,
+[00:11:59.671 --> 00:12:03.111] DATA: I am detecting a temporal disturbance intersecting the table.
+[00:12:04.071 --> 00:12:10.711] DATA: It appears that within the disturbance, time is moving at an accelerated rate, approximately fifty times faster than normal.
+[00:12:12.471 --> 00:12:13.991] DATA: The disturbance is spherical in shape.
+[00:12:15.111 --> 00:12:18.951] DATA: It is extending outward from the hull approximately seventeen metres from the ship.
+[00:12:19.991 --> 00:12:21.511] LAFORGE: That would cover the starboard nacelle.
+[00:12:22.471 --> 00:12:23.831] LAFORGE: No wonder it used up all its fuel.
+[00:12:24.951 --> 00:12:25.831] PICARD: Check the hull integrity.
+[00:12:32.391 --> 00:12:33.671] DATA: It does not appear to be affected.
+[00:12:36.151 --> 00:12:38.711] PICARD: Mister La Forge, see if you can move us away from the disturbance.
+[00:12:38.951 --> 00:12:39.111] LAFORGE: Aye, sir.
+[00:12:54.631 --> 00:12:57.751] LAFORGE: Lateral thrusters online.
+[00:12:59.191 --> 00:13:02.151] LAFORGE: Data, plot a course away from the disturbance.
+[00:13:02.391 --> 00:13:04.391] LAFORGE: Make sure it doesn't come in contact with our other engine.
+[00:13:05.191 --> 00:13:05.751] DATA: Course plotted.
+[00:13:06.311 --> 00:13:08.871] DATA: Adjust pitch to twenty seven point three degrees.
+[00:13:09.511 --> 00:13:11.351] DATA: Set heading one eight zero Mark zero.
+[00:13:12.231 --> 00:13:12.551] LAFORGE: Got it.
+[00:13:13.191 --> 00:13:15.111] LAFORGE: Reversing at fifteen metres per second.
+[00:13:15.111 --> 00:13:18.151] DATA: We are clearing the phenomenon.
+[00:13:20.711 --> 00:13:21.111] DATA: All stop.
+[00:13:22.631 --> 00:13:23.031] LAFORGE: What was that?
+[00:13:23.675 --> 00:13:25.995] DATA: There is another temporal disturbance directly behind us.
+[00:13:28.395 --> 00:13:28.875] LAFORGE: Captain?
+[00:13:29.915 --> 00:13:31.355] LAFORGE: I think you'd better come take a look at this.
+[00:13:44.235 --> 00:13:45.035] PICARD: Yes, Mister La Forge?
+[00:13:46.235 --> 00:13:48.955] LAFORGE: The sensors are picking up temporal disturbances throughout the region.
+[00:13:50.555 --> 00:13:52.955] LAFORGE: Different configurations, different sizes.
+[00:13:53.675 --> 00:13:54.315] LAFORGE: They're everywhere.
+[00:13:56.715 --> 00:13:59.595] DATA: Within each disturbance it appears that time is moving at a different rate.
+[00:13:59.675 --> 00:14:03.035] LAFORGE: It's almost as if something has shattered the space-time continuum.
+[00:14:03.675 --> 00:14:07.915] DATA: The fragmentation effect continues along a heading of two seven zero mark one five.
+[00:14:08.715 --> 00:14:10.075] LAFORGE: That's the direction of the Enterprise.
+[00:14:11.595 --> 00:14:13.035] PICARD: Can we navigate around these fragments?
+[00:14:13.755 --> 00:14:18.075] LAFORGE: We'll have to limit our manoeuvring speed to one half impulse, but I think we can do it.
+[00:14:18.075 --> 00:14:18.875] PICARD: Get us to the Enterprise.
+[00:14:36.315 --> 00:14:38.235] LAFORGE: These are the coordinates.
+[00:14:39.675 --> 00:14:40.955] PICARD: Perhaps the Enterprise has been delayed.
+[00:14:43.035 --> 00:14:46.155] LAFORGE: I've got the long range sensors on maximum, sir. There's no sign of the Enterprise.
+[00:14:46.395 --> 00:14:46.395] LAFORGE: But
+[00:14:48.395 --> 00:14:49.755] LAFORGE: I am picking up a faint reading.
+[00:14:50.715 --> 00:14:51.435] LAFORGE: Possibly metallic.
+[00:14:51.435 --> 00:14:52.235] LAFORGE: It's difficult to tell.
+[00:14:52.235 --> 00:14:53.995] LAFORGE: The energy levels are practically non-existent.
+[00:14:54.555 --> 00:14:55.195] PICARD: Take us to it.
+[00:14:55.555 --> 00:14:56.035] LAFORGE: Aye, sir.
+[00:14:57.475 --> 00:14:59.355] DATA: The fragmentation effect is increasing.
+[00:14:59.355 --> 00:15:01.235] LAFORGE: Slowing to one eighth impulse.
+[00:15:05.555 --> 00:15:07.795] PICARD: There she is.
+[00:15:11.555 --> 00:15:13.875] TROI: My God.
+[00:15:28.355 --> 00:15:30.195] PICARD: Mister Data?
+[00:15:30.195 --> 00:15:35.235] DATA: The Enterprise and the warbird both appear to be trapped within one of the temporal fragments.
+[00:15:35.315 --> 00:15:38.915] LAFORGE: The fragments seem to be converging at about this point.
+[00:15:39.955 --> 00:15:42.435] LAFORGE: I'd say we're looking at the centre of the temporal disturbances.
+[00:15:42.915 --> 00:15:43.795] PICARD: Scan for life signs.
+[00:15:45.315 --> 00:15:47.555] DATA: Sensors cannot penetrate the subspace field.
+[00:15:48.675 --> 00:15:50.275] DATA: I am unable to scan within the vessels.
+[00:15:50.755 --> 00:15:54.435] TROI: It looks like the Enterprise has been damaged. There, on the port nacelle.
+[00:15:54.435 --> 00:15:58.195] LAFORGE: The warbird doesn't look to have sustained any damage at all.
+[00:15:58.995 --> 00:16:00.835] LAFORGE: I wonder if the Enterprise even had time to get off a shot.
+[00:16:01.475 --> 00:16:04.435] TROI: The Romulans could've decloaked before the Enterprise had a chance to respond.
+[00:16:04.915 --> 00:16:06.435] PICARD: There's a second energy beam.
+[00:16:06.435 --> 00:16:08.275] PICARD: It's coming from the Enterprise deflector array.
+[00:16:08.355 --> 00:16:09.555] PICARD: Do you have any idea what that could be?
+[00:16:09.555 --> 00:16:12.435] DATA: It is impossible to tell from a visual inspection.
+[00:16:13.715 --> 00:16:15.955] DATA: However, it appears to be focused on the warbird's Engineering section.
+[00:16:16.355 --> 00:16:16.435] PICARD: We're
+[00:16:19.075 --> 00:16:20.755] PICARD: not going to be able to determine anything from here.
+[00:16:20.835 --> 00:16:22.035] PICARD: We need to get on board the Enterprise.
+[00:16:22.915 --> 00:16:24.035] DATA: That would be inadvisable, sir.
+[00:16:24.759 --> 00:16:28.039] DATA: In each of the three instances we came into contact with one of the temporal fragments,
+[00:16:28.199 --> 00:16:29.799] DATA: we were integrated into its time frame.
+[00:16:30.199 --> 00:16:33.399] LAFORGE: If we beamed aboard the Enterprise, we'd be frozen in time just like they are.
+[00:16:33.959 --> 00:16:35.799] PICARD: Well, we have to find some way of staying unfrozen.
+[00:16:37.159 --> 00:16:42.439] PICARD: Mister La Forge, what about a subspace forcefield like the one we used on Devidia Two?
+[00:16:42.759 --> 00:16:46.279] PICARD: Could something like that protect us from the effects of the temporal fragment?
+[00:16:47.239 --> 00:16:51.879] LAFORGE: Possibly. We'd need an awfully sensitive phase discriminator in order to moderate that kind of field.
+[00:16:53.159 --> 00:16:56.759] DATA: The emergency transporter armbands contain a type seven phase discriminator.
+[00:16:57.479 --> 00:17:00.039] DATA: It should be possible to reconfigure their subspace emitters.
+[00:17:00.199 --> 00:17:04.359] LAFORGE: Yeah. Yeah, that would certainly isolate us from the effects of the other time frame.
+[00:17:05.079 --> 00:17:07.959] LAFORGE: But if we wanted to interact with that environment, we'd have to restrict the field.
+[00:17:12.279 --> 00:17:14.199] LAFORGE: It would have to be practically skintight.
+[00:17:15.479 --> 00:17:16.071] PICARD: Mister Data?
+[00:17:16.071 --> 00:17:18.439] DATA: I will attempt to narrow the field, sir.
+[00:17:20.119 --> 00:17:24.679] LAFORGE: Captain, I think this is going to work, but it's going to take some time.
+[00:17:24.829 --> 00:17:25.429] PICARD: Well,
+[00:17:26.839 --> 00:17:27.399] PICARD: Mister La Forge, it
+[00:17:28.999 --> 00:17:31.239] PICARD: would seem that time is something we have plenty of.
+[00:17:32.439 --> 00:17:34.439] LAFORGE: We've channelled
+[00:17:43.239 --> 00:17:47.559] LAFORGE: all communications through the subspace relays in the armbands.
+[00:17:48.039 --> 00:17:50.039] LAFORGE: That way we'll be able to be in continual communication.
+[00:17:50.439 --> 00:17:51.799] TROI: How long will the fields last?
+[00:17:52.199 --> 00:17:53.639] LAFORGE: About an hour, maybe less.
+[00:17:54.119 --> 00:17:54.519] LAFORGE: Don't worry.
+[00:17:55.159 --> 00:17:56.279] LAFORGE: I'll monitor you very carefully.
+[00:18:03.118 --> 00:18:04.398] DATA: Counsellor?
+[00:18:06.158 --> 00:18:07.838] TROI: I got a little dizzy for a second.
+[00:18:11.758 --> 00:18:16.638] LAFORGE: We've created an artificial pocket of time around you, so it's probably playing tricks with your equilibrium.
+[00:18:17.198 --> 00:18:18.478] LAFORGE: It might take a little while to get used to it.
+[00:18:19.038 --> 00:18:20.158] LAFORGE: Let me know if it gets any worse.
+[00:18:20.798 --> 00:18:22.158] PICARD: Beam us directly to the Enterprise Bridge.
+[00:18:22.398 --> 00:18:22.478] LAFORGE: Aye,
+[00:18:23.998 --> 00:18:25.998] LAFORGE: sir.
+[00:18:26.558 --> 00:18:27.278] LAFORGE: Energising.
+[00:18:28.618 --> 00:18:32.638] PICARD: There are
+[00:18:46.638 --> 00:18:47.518] PICARD: three Romulans,
+[00:18:48.478 --> 00:18:49.598] PICARD: all of them with disruptors.
+[00:18:50.958 --> 00:18:51.518] PICARD: One at conn.
+[00:18:52.798 --> 00:18:54.718] PICARD: There are none of our security officers on the Bridge.
+[00:18:54.718 --> 00:18:56.158] PICARD: They must have taken us by surprise.
+[00:18:56.308 --> 00:18:56.908] PICARD: It
+[00:19:04.718 --> 00:19:06.798] PICARD: appears that we can move objects in this time frame.
+[00:19:12.158 --> 00:19:13.678] TROI: Maybe we could do something to help Will.
+[00:19:15.278 --> 00:19:19.962] PICARD: I'm wary about making changes in this time continuum until we understand more about what's going on.
+[00:19:19.962 --> 00:19:20.238] DATA: Captain,
+[00:19:20.798 --> 00:19:22.238] DATA: the equipment is no longer functioning.
+[00:19:22.798 --> 00:19:27.198] DATA: However, the information currently displayed indicates that there was a massive power surge in Engineering.
+[00:19:33.503 --> 00:19:37.823] PICARD: Security teams had just been sent to transporter room three. And to Sickbay. Counsellor,
+[00:19:39.103 --> 00:19:41.103] PICARD: will you go to Sickbay and investigate?
+[00:19:41.743 --> 00:19:45.183] PICARD: Mister Data, go to main Engineering. See if you can determine the cause of that power surge.
+[00:19:45.183 --> 00:19:46.463] PICARD: I'll be in transporter room three.
+[00:19:46.543 --> 00:19:47.183] PICARD: Mister La Forge?
+[00:19:47.183 --> 00:19:48.223] LAFORGE: La Forge here, sir.
+[00:19:48.863 --> 00:19:49.903] PICARD: Will you lock onto our signals.
+[00:19:50.063 --> 00:19:51.743] PICARD: I want you to beam Counsellor Troi to
+[00:19:51.743 --> 00:19:52.623] LAFORGE: I'd rather not, Captain.
+[00:19:53.263 --> 00:19:56.303] LAFORGE: We've got limited power and your isolation fields consume a lot of energy.
+[00:19:57.983 --> 00:19:58.463] PICARD: Understood.
+[00:19:58.863 --> 00:19:58.943] PICARD: We'll
+[00:20:00.863 --> 00:20:01.663] PICARD: use the Jefferies tube.
+[00:20:01.903 --> 00:20:02.223] PICARD: Let's go.
+[00:20:34.543 --> 00:20:35.583] TROI: Maybe we can go around them.
+[00:20:37.983 --> 00:20:39.903] PICARD: No, we'll find an alternative route.
+[00:20:41.663 --> 00:20:42.303] PICARD: Let's go back up.
+[00:22:04.881 --> 00:22:05.601] PICARD: Excuse me, Mister
+[00:22:05.601 --> 00:22:05.841] PICARD: Worf.
+[00:22:07.441 --> 00:22:07.841] TROI: Captain.
+[00:22:08.401 --> 00:22:09.681] PICARD: Counsellor, take a look at this.
+[00:22:09.921 --> 00:22:10.881] PICARD: It appears that Mister
+[00:22:10.881 --> 00:22:18.401] PICARD: Worf had just beamed these three on board, and according to this, three other Romulans had been beamed directly to Sickbay just seconds earlier.
+[00:22:18.401 --> 00:22:18.721] TROI: I know.
+[00:22:18.721 --> 00:22:19.361] TROI: I just saw them.
+[00:22:19.601 --> 00:22:23.121] PICARD: What are we doing transporting Romulans on board the ship in the middle of a battle?
+[00:22:25.841 --> 00:22:29.201] PICARD: They don't have any weapons and that one looks injured.
+[00:22:29.681 --> 00:22:32.001] PICARD: If they were part of an invasion, then why are they unarmed?
+[00:22:32.001 --> 00:22:33.121] PICARD: It doesn't make any sense.
+[00:22:33.320 --> 00:22:34.760] TROI: Captain, there's something I have to tell you.
+[00:22:36.280 --> 00:22:39.800] TROI: Doctor Crusher has been hit by a disruptor blast at point blank range.
+[00:22:40.280 --> 00:22:42.920] TROI: If time returns to normal I don't see how she can survive.
+[00:22:43.400 --> 00:22:44.520] DATA: Data to Captain Picard.
+[00:22:45.640 --> 00:22:46.440] PICARD: Go ahead, Mister Data.
+[00:22:47.080 --> 00:22:48.520] DATA: Please come to Engineering immediately.
+[00:22:48.680 --> 00:22:49.320] DATA: It is urgent.
+[00:23:08.440 --> 00:23:09.773] PICARD: What's the problem, Mister Data?
+[00:23:09.773 --> 00:23:10.040] DATA: Captain,
+[00:23:10.760 --> 00:23:12.680] DATA: I believe I have found the cause of the power surge.
+[00:23:13.800 --> 00:23:15.480] DATA: There is a warp core breach in progress.
+[00:23:25.320 --> 00:23:29.160] DATA: It is the flashpoint of a warp core explosion. And it is expanding.
+[00:23:29.880 --> 00:23:30.520] PICARD: Expanding?
+[00:23:31.720 --> 00:23:33.320] PICARD: I thought that time was suspended on this ship.
+[00:23:33.800 --> 00:23:34.680] DATA: We were incorrect, sir.
+[00:23:35.560 --> 00:23:39.080] DATA: I have determined that time is moving forward at an infinitesimal rate.
+[00:23:39.560 --> 00:23:40.760] TROI: Why didn't we notice it before?
+[00:23:41.720 --> 00:23:44.440] DATA: Our initial conclusion was based on our observations of the crew.
+[00:23:44.680 --> 00:23:46.920] DATA: A warp core breach moves at a much faster rate.
+[00:23:50.360 --> 00:23:53.640] DATA: The motion of the cloud is within my visual detection threshold.
+[00:23:54.520 --> 00:23:59.800] DATA: At its current expansion rate, it will consume the Enterprise in approximately nine hours, seventeen minutes.
+[00:24:01.240 --> 00:24:02.360] PICARD: Is there anything we can do to stop it?
+[00:24:03.720 --> 00:24:05.640] DATA: It is no longer a question of stopping it, sir.
+[00:24:06.906 --> 00:24:08.346] DATA: The explosion has already occurred.
+[00:24:09.306 --> 00:24:11.386] DATA: The fact that it is moving slowly changes nothing.
+[00:24:16.986 --> 00:24:19.066] PICARD: Astonishing to see it frozen like this.
+[00:24:20.266 --> 00:24:21.786] TROI: Do we know what caused the breach?
+[00:24:22.266 --> 00:24:22.586] DATA: No.
+[00:24:23.626 --> 00:24:30.746] DATA: However, the console displays indicate a power transfer in progress between the Enterprise and the Romulan ship at the moment time decelerated.
+[00:24:31.706 --> 00:24:33.946] DATA: That is why there is a second beam between the two ships.
+[00:24:34.026 --> 00:24:35.146] TROI: Why would we be sending them power?
+[00:24:36.986 --> 00:24:38.586] DATA: Perhaps we should go aboard the Romulan ship.
+[00:24:39.226 --> 00:24:40.426] DATA: The answer to that question may
+[00:24:44.000 --> 00:24:49.000] [laughter]
+[00:25:04.586 --> 00:25:06.586] DATA: Captain?
+[00:25:06.606 --> 00:25:07.026] TROI: Captain, are you all right?
+[00:25:07.146 --> 00:25:07.306] PICARD: My head.
+[00:25:09.946 --> 00:25:10.346] PICARD: Oh.
+[00:25:12.586 --> 00:25:12.986] PICARD: Dizzy.
+[00:25:14.586 --> 00:25:14.986] PICARD: I can't.
+[00:25:16.000 --> 00:25:18.000] [laughter]
+[00:25:16.426 --> 00:25:18.266] PICARD: No!
+[00:25:18.346 --> 00:25:18.346] PICARD: No!
+[00:25:18.346 --> 00:25:18.346] TROI: Troi to La Forge.
+[00:25:18.346 --> 00:25:18.346] TROI: Get us out of
+[00:25:23.866 --> 00:25:25.146] TROI: here now!
+[00:25:26.916 --> 00:25:28.526] LAFORGE: It
+[00:25:30.136 --> 00:25:31.746] LAFORGE: looks
+[00:25:33.356 --> 00:25:34.966] LAFORGE: like
+[00:25:36.576 --> 00:25:39.466] LAFORGE: you weren't completely protected from the
+[00:25:39.562 --> 00:25:41.082] LAFORGE: effects of the other time continuum.
+[00:25:41.882 --> 00:25:44.122] LAFORGE: The neurophysical stress must've been overwhelming.
+[00:25:45.482 --> 00:25:51.722] DATA: In much the same way deep sea divers experience nitrogen narcosis, you experienced a form of temporal narcosis.
+[00:25:51.962 --> 00:25:55.242] PICARD: Can we modify the subspace isolators to give us better protection?
+[00:25:55.562 --> 00:25:56.122] LAFORGE: I don't think so.
+[00:25:56.842 --> 00:26:01.642] LAFORGE: I'd say the best thing we can do right now is to be careful, limit our exposure to their time frame.
+[00:26:02.042 --> 00:26:06.682] LAFORGE: I'd say no longer than ten minutes per trip. And we should stick probably stick together while we're there, just in case.
+[00:26:06.922 --> 00:26:07.802] PICARD: Very well.
+[00:26:07.802 --> 00:26:12.122] PICARD: Well, the first step is to find out why the Enterprise was transferring power to the Romulan ship.
+[00:26:12.122 --> 00:26:12.122] PICARD: I
+[00:26:13.722 --> 00:26:18.202] PICARD: think we should begin our search in the Romulan engine room. Counsellor,
+[00:26:18.362 --> 00:26:20.282] PICARD: you spent several days on a Romulan vessel.
+[00:26:20.762 --> 00:26:23.242] PICARD: You probably know more about the layouts than anyone here.
+[00:26:23.722 --> 00:26:24.122] PICARD: Perhaps
+[00:26:27.482 --> 00:26:32.522] TROI: Captain, it might be better if you stayed here this time and gave yourself a chance to recover.
+[00:26:35.802 --> 00:26:36.362] PICARD: Yes, very well.
+[00:26:36.362 --> 00:26:41.402] PICARD: I will monitor your progress from here. But just remember, ten minutes, no more.
+[00:26:41.962 --> 00:26:42.442] TROI: Yes, Captain.
+[00:26:57.722 --> 00:27:00.602] TROI: Geordi, there should be a power utilisation monitor over there.
+[00:27:01.082 --> 00:27:01.402] TROI: Data.
+[00:27:09.562 --> 00:27:12.522] DATA: This is highly unusual.
+[00:27:13.353 --> 00:27:14.953] DATA: The crew is not at battle stations.
+[00:27:15.593 --> 00:27:17.033] DATA: The ship is on evacuation alert.
+[00:27:17.753 --> 00:27:20.233] TROI: Is that why Romulans were being transported to the Enterprise?
+[00:27:20.633 --> 00:27:21.353] LAFORGE: Take a look at this.
+[00:27:26.393 --> 00:27:29.033] LAFORGE: There's an energy feedback returning through the transfer beam.
+[00:27:29.273 --> 00:27:32.233] LAFORGE: It's probably what overloaded the Enterprise's engines and caused the core breach.
+[00:27:33.033 --> 00:27:35.113] DATA: Perhaps the warbird was trying to destroy the Enterprise.
+[00:27:35.193 --> 00:27:35.913] LAFORGE: I don't think so.
+[00:27:36.473 --> 00:27:39.833] LAFORGE: According to this, the Romulans were actually trying to shut down the power transfer.
+[00:27:40.953 --> 00:27:44.713] TROI: Whatever happened, this is beginning to look less and less like a Romulan attack.
+[00:27:45.433 --> 00:27:47.273] LAFORGE: Data, why don't we take a look at their engine readouts?
+[00:27:54.633 --> 00:27:57.513] DATA: Geordi, the engine core is completely inactive.
+[00:27:57.673 --> 00:27:58.633] TROI: That's impossible.
+[00:27:59.913 --> 00:28:03.673] TROI: The Romulans use an artificial quantum singularity as their power source.
+[00:28:04.313 --> 00:28:06.393] TROI: Once it's activated, it can't be shut down.
+[00:28:06.793 --> 00:28:07.833] LAFORGE: Let's take a closer look.
+[00:28:23.673 --> 00:28:24.873] LAFORGE: I think we've found the problem.
+[00:28:24.873 --> 00:28:24.873] DATA: It
+[00:28:30.873 --> 00:28:34.313] DATA: appears to be a highly focused aperture in the space-time continuum.
+[00:28:35.433 --> 00:28:38.953] DATA: Its energy signature matches that of the temporal fragments we observed earlier.
+[00:28:39.606 --> 00:28:42.966] DATA: However, it is approximately one point two million times as intense.
+[00:28:44.246 --> 00:28:46.646] DATA: I believe this may be the origin of the temporal fragmentation.
+[00:28:47.206 --> 00:28:48.486] TROI: What are these dark spots?
+[00:28:50.086 --> 00:28:50.726] DATA: I am not certain.
+[00:28:51.926 --> 00:28:56.086] DATA: They exhibit a complex bioelectric patterns. Very possibly organic.
+[00:28:56.246 --> 00:28:56.726] LAFORGE: Organic?
+[00:28:57.526 --> 00:29:00.246] DATA: From the molecular configuration, it appears The
+[00:29:02.806 --> 00:29:04.086] DATA: aperture is beginning to fluctuate.
+[00:29:06.486 --> 00:29:07.155] DATA: I believe
+[00:29:07.155 --> 00:29:10.166] ROMULAN: There's an energy build-up in the phase compensation unit.
+[00:29:10.806 --> 00:29:12.086] ROMULAN 2: Check the main distribution matrix.
+[00:29:12.086 --> 00:29:12.886] ROMULAN: That's not it.
+[00:29:12.886 --> 00:29:13.686] ROMULAN: The matrix is clear.
+[00:29:13.686 --> 00:29:15.862] ROMULAN: It's the power transfer from the Enterprise.
+[00:29:16.070 --> 00:29:17.926] ROMULAN: I'm reading a massive feed-back.
+[00:29:17.926 --> 00:29:18.646] ROMULAN 2: Systems are beginning to overload.
+[00:29:20.086 --> 00:29:20.966] ROMULAN: Notify the Enterprise to
+[00:29:21.006 --> 00:29:22.422] ROMULAN: shut down the power transfer immediately.
+[00:29:22.630 --> 00:29:25.366] ROMULAN 2: Unable to comply.
+[00:29:25.366 --> 00:29:25.766] ROMULAN 2: Their power interlocks won't disengage.
+[00:29:25.766 --> 00:29:26.326] ROMULAN 2: We'll have to disconnect it
+[00:29:28.086 --> 00:29:28.166] ROMULAN 2: ourselves.
+[00:29:28.166 --> 00:29:28.166] ROMULAN: Disconnect the transfer beam.
+[00:29:28.166 --> 00:29:28.166] ROMULAN 3: There
+[00:29:28.166 --> 00:29:28.406] ROMULAN 3: is no pressure.
+[00:29:28.406 --> 00:29:28.566] ROMULAN: Impending warp
+[00:29:30.486 --> 00:29:31.606] ROMULAN: core breach.
+[00:29:31.606 --> 00:29:31.606] ROMULAN: Shut down all systems.
+[00:29:31.606 --> 00:29:31.606] UNKNOWN: The readings deteriorate.
+[00:29:31.606 --> 00:29:31.846] UNKNOWN: The phase compensation matrix is deteriorating.
+[00:29:32.086 --> 00:29:33.686] UNKNOWN: The main distribution matrix is failing.
+[00:29:33.686 --> 00:29:33.766] UNKNOWN: The power interlocks
+[00:29:40.566 --> 00:29:42.566] UNKNOWN: are disengaged.
+[00:29:42.566 --> 00:29:42.566] DATA: I
+[00:29:49.942 --> 00:29:51.942] DATA: believe
+[00:29:59.318 --> 00:30:01.318] DATA: my
+[00:30:06.006 --> 00:30:08.646] DATA: tricorder emissions caused the temporal aperture to activate.
+[00:30:09.325 --> 00:30:12.205] DATA: I suggest we avoid exposing it to any Further energy emissions.
+[00:30:13.005 --> 00:30:18.525] PICARD: When time resumed, did you observe any activity in the engine room that might Suggest what the Romulans were doing?
+[00:30:18.845 --> 00:30:21.085] DATA: They may have been attempting to eject their engine core.
+[00:30:21.565 --> 00:30:27.165] TROI: I thought I heard one of the Engineers say something about a power transfer. Something about an energy feedback.
+[00:30:27.245 --> 00:30:27.805] LAFORGE: Yes, Captain.
+[00:30:27.805 --> 00:30:30.525] LAFORGE: It looks to me like they were trying to stop whatever was happening here.
+[00:30:31.005 --> 00:30:31.245] PICARD: Mister La
+[00:30:31.245 --> 00:30:34.205] PICARD: Forge From where you are, can you determine what's happening on the Romulan Bridge?
+[00:30:34.605 --> 00:30:35.485] LAFORGE: I think so, Captain.
+[00:30:40.685 --> 00:30:42.285] LAFORGE: Wait.
+[00:30:44.285 --> 00:30:45.405] LAFORGE: Something's not right here.
+[00:30:48.525 --> 00:30:50.525] LAFORGE: Data, was this man always standing right here.
+[00:30:57.405 --> 00:30:58.365] TROI: He's in neural shock,
+[00:30:59.085 --> 00:31:00.125] DATA: We must get him to the runabout.
+[00:31:00.205 --> 00:31:00.925] TROI: There isn't time.
+[00:31:01.805 --> 00:31:02.365] TROI: He's dying.
+[00:31:03.725 --> 00:31:07.645] TROI: At least this way, he'll be alive in the other time frame.
+[00:31:07.645 --> 00:31:09.245] TROI: We might have a chance to save him later.
+[00:31:14.285 --> 00:31:15.325] TROI: Is the Romulan still alive?
+[00:31:16.125 --> 00:31:16.525] DATA: Yes, but
+[00:31:18.045 --> 00:31:19.965] DATA: I am getting unusual readings from his bioscan.
+[00:31:19.965 --> 00:31:22.925] DATA: I am not sure he is a Romulan.
+[00:31:39.245 --> 00:31:42.205] DATA: His cellular structure does not conform to any known species.
+[00:31:43.536 --> 00:31:46.496] DATA: His bioelectric patterns are in a state of temporal flux.
+[00:31:47.216 --> 00:31:49.856] DATA: I do not believe that this being is native to our time continuum.
+[00:31:50.336 --> 00:31:53.536] PICARD: Mister Data, you said that you found organic matter in the temporal aperture.
+[00:31:54.016 --> 00:31:54.416] DATA: Correct, sir.
+[00:31:56.016 --> 00:31:57.536] PICARD: I'd like to take a closer look at those readings.
+[00:32:05.296 --> 00:32:07.856] DATA: This is a biospectral analysis of the temporal aperture.
+[00:32:08.816 --> 00:32:11.456] DATA: The organic readings originated from these dark spots.
+[00:32:12.016 --> 00:32:14.656] PICARD: They appear to contain some sort of energy patterns.
+[00:32:15.296 --> 00:32:18.816] PICARD: Can you isolate one of them and magnify?
+[00:32:19.616 --> 00:32:22.416] PICARD: They look like cellular clusters.
+[00:32:23.056 --> 00:32:26.256] DATA: Its bioelectric patterns are similar to those of the alien's.
+[00:32:26.256 --> 00:32:28.736] DATA: However, they are significantly less complex.
+[00:32:30.016 --> 00:32:32.736] DATA: Its cellular structure appears to be in a state of mitosis.
+[00:32:33.136 --> 00:32:36.256] PICARD: Data, this could be some sort of embryo.
+[00:32:37.056 --> 00:32:37.856] DATA: It is possible.
+[00:32:38.816 --> 00:32:41.536] DATA: If I could further scan the aperture, it might be possible to
+[00:32:42.976 --> 00:32:43.376] TROI: Captain?
+[00:32:48.736 --> 00:32:50.736] ALIEN: Must save.
+[00:32:51.696 --> 00:32:52.176] ALIEN: No.
+[00:32:52.816 --> 00:32:53.216] PICARD: Who are you?
+[00:32:55.056 --> 00:32:56.336] ALIEN: This body is not mine.
+[00:32:57.616 --> 00:33:01.296] ALIEN: It was necessary to assume it to exist in your time.
+[00:33:01.936 --> 00:33:02.736] TROI: Why are you here?
+[00:33:04.176 --> 00:33:06.416] ALIEN: We had to come to save them.
+[00:33:06.416 --> 00:33:07.696] ALIEN: They were in danger.
+[00:33:08.416 --> 00:33:09.792] PICARD: Who were in danger?
+[00:33:10.160 --> 00:33:11.136] ALIEN: Our young.
+[00:33:12.634 --> 00:33:14.314] ALIEN: They will die in the gravity well.
+[00:33:14.954 --> 00:33:15.834] ALIEN: It is artificial.
+[00:33:16.314 --> 00:33:17.754] TROI: Artificial gravity well?
+[00:33:18.874 --> 00:33:20.474] TROI: Do you mean the Romulan engine core?
+[00:33:21.114 --> 00:33:21.514] ALIEN: Yes.
+[00:33:22.714 --> 00:33:23.594] ALIEN: Our young are trapped.
+[00:33:24.794 --> 00:33:25.674] ALIEN: We must get them out,
+[00:33:26.234 --> 00:33:27.434] ALIEN: return them to our time.
+[00:33:32.154 --> 00:33:34.154] DATA: His molecular structure is destabilising.
+[00:33:35.114 --> 00:33:36.954] PICARD: How were your young trapped in the core?
+[00:33:37.914 --> 00:33:42.314] ALIEN: We must use a natural gravity well to incubate our young.
+[00:33:43.834 --> 00:33:45.834] ALIEN: We thought the Romulan core would suffice.
+[00:33:46.874 --> 00:33:47.434] ALIEN: It did not.
+[00:33:48.394 --> 00:33:55.674] DATA: Captain, I believe the aliens mistook the artificial singularity, which the Romulans use in their engine, for a natural one. A black hole.
+[00:33:56.314 --> 00:33:57.754] DATA: They tried to use it as a nest.
+[00:33:58.234 --> 00:34:00.634] TROI: That's what deactivated the Warbird's engine core.
+[00:34:01.114 --> 00:34:03.034] TROI: So the Romulans sent out a distress call.
+[00:34:04.074 --> 00:34:09.354] PICARD: The Enterprise responded, and found the warbird suffering from an apparent engine failure,
+[00:34:09.914 --> 00:34:11.514] PICARD: and they attempted a power transfer.
+[00:34:11.754 --> 00:34:12.474] ALIEN: Power transfer.
+[00:34:13.194 --> 00:34:18.314] ALIEN: Must stop the power transfer. Ruptured time, destroy our young
+[00:34:18.954 --> 00:34:24.794] DATA: When the power transfer came into contact with the alien nest, I believe it disrupted the space-time continuum.
+[00:34:26.394 --> 00:34:27.354] PICARD: Did you who attacked the Enterprise?
+[00:34:28.234 --> 00:34:28.634] ALIEN: Yes.
+[00:34:30.314 --> 00:34:31.914] ALIEN: Had to stop power transfer.
+[00:34:35.754 --> 00:34:36.954] PICARD: Are there any others like you here?
+[00:34:38.761 --> 00:34:39.001] ALIEN: One other.
+[00:34:40.281 --> 00:34:41.001] PICARD: Do you know where he is?
+[00:34:41.641 --> 00:34:43.321] PICARD: Could he help us restore normal time?
+[00:35:12.361 --> 00:35:17.001] DATA: I estimate the core breach will consume the Enterprise in approximately seven hours, two minutes.
+[00:35:19.641 --> 00:35:22.521] PICARD: Is it possible to lock onto the core itself, beam it into space?
+[00:35:24.121 --> 00:35:24.441] DATA: No, sir.
+[00:35:25.081 --> 00:35:27.961] DATA: We would have to surround the core with a subspace isolation field.
+[00:35:28.601 --> 00:35:31.721] DATA: It is not possible to generate a field of that magnitude from the runabout.
+[00:35:34.681 --> 00:35:36.681] PICARD: Mister
+[00:35:38.441 --> 00:35:43.561] PICARD: Data, when you scanned the temporal aperture with your tricorder,
+[00:35:43.881 --> 00:35:47.001] PICARD: it caused time to move forwards and then back again.
+[00:35:47.401 --> 00:35:47.801] DATA: Correct, sir.
+[00:35:48.681 --> 00:35:54.841] PICARD: What if we could reverse that process? Cause time move backwards and then forwards.
+[00:35:55.401 --> 00:36:03.801] TROI: We might be able to run time back to a point before the warp core breach occurred and then find a way to prevent the power transfer.
+[00:36:04.601 --> 00:36:06.041] TROI: And then when time goes forward
+[00:36:06.041 --> 00:36:07.001] PICARD: The breach never happens.
+[00:36:07.801 --> 00:36:10.841] DATA: I could attempt to remodulate the tricorder's delta-band emissions.
+[00:36:11.230 --> 00:36:13.630] DATA: It should be possible to better control the temporal aperture.
+[00:36:13.950 --> 00:36:14.350] PICARD: Make it so.
+[00:36:20.990 --> 00:36:25.470] PICARD: If this works, we may not have much time to prevent the power transfer.
+[00:36:25.470 --> 00:36:31.870] PICARD: We'll have to decide precisely where to be and what to do the very instant that time begins to move backwards.
+[00:36:34.590 --> 00:36:35.710] LOG: Captain's log, supplemental.
+[00:36:36.110 --> 00:36:41.230] LOG: After placing the modified tricorder on the Romulan ship, we have returned to the Enterprise.
+[00:36:41.630 --> 00:36:42.910] DATA: I have reached Engineering, Captain.
+[00:36:43.550 --> 00:36:44.110] DATA: Standing by.
+[00:36:44.670 --> 00:36:45.150] PICARD: Acknowledged.
+[00:36:46.110 --> 00:36:47.070] PICARD: Counsellor, are you in position?
+[00:36:48.270 --> 00:36:48.910] TROI: Ready, Captain.
+[00:36:50.350 --> 00:36:51.150] PICARD: All right, Mister Data.
+[00:36:52.270 --> 00:36:53.790] DATA: Initiating tricorder emissions.
+[00:37:14.030 --> 00:37:14.350] DATA: Captain.
+[00:37:14.430 --> 00:37:16.670] PICARD: Go ahead, Mister Data.
+[00:37:19.310 --> 00:37:20.750] DATA: The warp core breach has been reversed, sir.
+[00:37:21.310 --> 00:37:23.470] PICARD: Be ready to stop the power transfer, Mister Data.
+[00:37:24.110 --> 00:37:24.350] DATA: Aye, sir.
+[00:37:24.750 --> 00:37:27.790] ALIEN 2: You must stop!
+[00:37:42.366 --> 00:37:45.166] COMPUTER: Specified energy systems have been initialised.
+[00:37:45.486 --> 00:37:47.646] COMPUTER: The power transfer can now be engaged.
+[00:37:47.646 --> 00:37:50.446] DATA: Do not initiate that power transfer.
+[00:37:51.726 --> 00:37:52.526] ENSIGN: I'm sorry, sir.
+[00:37:52.526 --> 00:37:53.166] ENSIGN: I already have.
+[00:37:54.206 --> 00:37:55.086] DATA: We must shut it down.
+[00:37:56.686 --> 00:37:58.286] ENSIGN: The transfer beam is at saturation, sir.
+[00:37:59.406 --> 00:38:00.366] ENSIGN: It can't be disengaged.
+[00:38:01.006 --> 00:38:03.966] DATA: Computer, place a level three containment field around the warp core.
+[00:38:04.766 --> 00:38:06.286] COMPUTER: Containment field activated.
+[00:38:07.006 --> 00:38:10.446] RIKER: Damage report.
+[00:38:10.766 --> 00:38:12.286] CREWMAN: Shields down to twenty seven percent.
+[00:38:13.726 --> 00:38:15.726] RIKER: Captain?
+[00:38:15.726 --> 00:38:20.126] PICARD: No time to explain,
+[00:38:20.446 --> 00:38:23.166] PICARD: Number One. Continue the evacuation of the Romulan ship.
+[00:38:23.406 --> 00:38:25.326] PICARD: You'll find LaForge in the Romulan engine room.
+[00:38:25.486 --> 00:38:26.526] PICARD: Beam him directly to Sickbay.
+[00:38:28.766 --> 00:38:29.806] TROI: Step back, now.
+[00:38:31.006 --> 00:38:31.806] CRUSHER: It's all right, Deanna.
+[00:38:32.126 --> 00:38:33.326] CRUSHER: He wasn't firing at me.
+[00:38:34.206 --> 00:38:36.286] ROMULAN: There was an alien here who'd taken Romulan form.
+[00:38:36.286 --> 00:38:37.086] ROMULAN: I was firing at her.
+[00:38:38.286 --> 00:38:39.406] ROMULAN: The Doctor got in the way.
+[00:38:40.766 --> 00:38:41.406] CRUSHER: Where did she go?
+[00:38:44.766 --> 00:38:47.406] PICARD: Status, Mister Data?
+[00:38:48.126 --> 00:38:49.566] DATA: I was attacked by another alien, sir.
+[00:38:49.966 --> 00:38:51.646] DATA: I was unable to prevent the power transfer.
+[00:38:53.406 --> 00:38:54.766] DATA: It cannot be disengaged, sir.
+[00:38:55.086 --> 00:38:56.286] DATA: A core breach is again imminent.
+[00:38:56.766 --> 00:38:57.406] PICARD: Can we move the ship?
+[00:38:57.556 --> 00:38:58.156] RIKER: The
+[00:39:02.206 --> 00:39:04.126] RIKER: feedback from the transfer beam would tear us apart.
+[00:39:06.087 --> 00:39:08.007] PICARD: Patch me into the navigational control of the runabout.
+[00:39:11.367 --> 00:39:11.607] RIKER: Got it.
+[00:39:14.967 --> 00:39:15.927] PICARD: I'm bringing the runabout in.
+[00:39:28.247 --> 00:39:28.807] PICARD: Mister Data?
+[00:39:31.287 --> 00:39:32.647] DATA: The core breach has been prevented, sir.
+[00:39:35.207 --> 00:39:42.967] PICARD: Data, it appears that severing the power transfer has not only prevented the core breach, but has also restored Space-time to normal.
+[00:39:43.527 --> 00:39:45.207] DATA: The alien who attacked me has vanished, sir.
+[00:39:46.247 --> 00:39:47.447] PICARD: The warbird has vanished as well.
+[00:39:48.807 --> 00:39:54.087] DATA: Judging from the residual temporal fluctuations, I believe they have returned to their own time continuum.
+[00:39:55.127 --> 00:39:55.367] RIKER: Captain?
+[00:40:00.487 --> 00:40:03.447] PICARD: It's going to take a little time to explain,
+[00:40:03.607 --> 00:40:03.847] PICARD: Number One.
+[00:40:06.167 --> 00:40:09.367] LOG: Captain's log, stardate 46945.3.
+[00:40:09.927 --> 00:40:12.647] LOG: We successfully evacuated the crew of the Romulan ship, and
+[00:40:13.287 --> 00:40:16.247] LOG: we're on course to the Neutral Zone to bring them home.
+[00:40:19.687 --> 00:40:20.087] DATA: Come in.
+[00:40:28.967 --> 00:40:30.256] RIKER: Where's that cat of yours?
+[00:40:30.256 --> 00:40:31.287] DATA: Spot is sleeping, sir.
+[00:40:31.287 --> 00:40:32.807] DATA: Why do you ask?
+[00:40:34.567 --> 00:40:35.047] RIKER: No reason.
+[00:40:38.486 --> 00:40:39.766] RIKER: I've worked out the new rotation schedules.
+[00:40:39.766 --> 00:40:41.446] RIKER: I'd like you to cross-check the personnel assignments.
+[00:40:42.566 --> 00:40:43.606] RIKER: Notify the department heads.
+[00:40:43.926 --> 00:40:45.606] RIKER: Your Bridge shift begins at twenty three hundred hours.
+[00:40:46.006 --> 00:40:46.646] DATA: Understood, sir.
+[00:40:46.796 --> 00:40:47.396] RIKER: Data,
+[00:40:50.406 --> 00:40:50.966] RIKER: what are you doing?
+[00:40:52.646 --> 00:40:56.246] DATA: Recent events have compelled me to study how humans perceive the passage of time.
+[00:40:56.886 --> 00:41:03.766] DATA: For example, I have often heard people comment that time seems to pass more slowly in one instance, or more quickly in another.
+[00:41:04.486 --> 00:41:07.366] DATA: In reality, the actual passage of time remains fixed.
+[00:41:11.206 --> 00:41:13.846] RIKER: I suppose it depends on how people perceive time.
+[00:41:15.206 --> 00:41:16.246] RIKER: Every situation is different.
+[00:41:16.806 --> 00:41:18.486] RIKER: It depends on how you feel.
+[00:41:19.046 --> 00:41:22.646] DATA: I have been testing the aphorism, 'a watched pot never boils'.
+[00:41:24.246 --> 00:41:27.366] DATA: I have boiled the same amount of water in this kettle sixty two times.
+[00:41:28.006 --> 00:41:29.686] DATA: In some cases, I have ignored the kettle.
+[00:41:30.406 --> 00:41:32.006] DATA: In others, I have watched it intently.
+[00:41:33.046 --> 00:41:37.766] DATA: In every instance, the water reaches its boiling point in precisely fifty one point seven seconds.
+[00:41:39.446 --> 00:41:43.686] DATA: It would appear that I am not capable of perceiving time any differently than my internal chronometer.
+[00:41:45.046 --> 00:41:45.846] RIKER: Well why don't you turn it off?
+[00:41:47.606 --> 00:41:47.766] DATA: Sir?
+[00:41:48.326 --> 00:41:50.566] RIKER: Data, people do not have internal chronometers.
+[00:41:50.886 --> 00:41:52.406] RIKER: Why don't you see what happens if you turn yours off.
+[00:41:54.726 --> 00:41:55.126] DATA: Thank you, sir.
+[00:41:55.766 --> 00:41:56.326] DATA: I will try that.
+[00:42:01.686 --> 00:42:02.886] RIKER: Just don't be late for your shift.
+[00:42:21.000 --> 00:42:29.000] [music]
+[00:42:39.000 --> 00:42:48.000] [music]

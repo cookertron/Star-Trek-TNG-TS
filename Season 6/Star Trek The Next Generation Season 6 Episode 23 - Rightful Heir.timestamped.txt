@@ -1,0 +1,558 @@
+[00:00:09.680 --> 00:00:10.580] DATA: Good morning, Commander.
+[00:00:10.580 --> 00:00:10.880] RIKER: Data.
+[00:00:13.120 --> 00:00:13.760] RIKER: Interesting night?
+[00:00:14.720 --> 00:00:16.000] DATA: I found it extremely interesting.
+[00:00:16.640 --> 00:00:22.320] DATA: The lateral sensor arrays ran three separate spectral analyses of the Alawanir Nebula on three distinct frequencies.
+[00:00:22.480 --> 00:00:23.360] RIKER: Sorry I missed it.
+[00:00:24.080 --> 00:00:25.440] DATA: I will have the report sent to you, sir.
+[00:00:26.400 --> 00:00:28.320] DATA: We are still on course for the Gariman sector.
+[00:00:28.960 --> 00:00:30.080] DATA: Our speed is warp six,
+[00:00:30.160 --> 00:00:31.600] DATA: ETA thirteen hundred hours.
+[00:00:32.160 --> 00:00:36.640] DATA: Sickbay reported one minor injury in the exobiology department at zero four twenty hours.
+[00:00:36.720 --> 00:00:37.040] RIKER: Very well.
+[00:00:38.080 --> 00:00:40.080] RIKER: Isn't Lieutenant Worf scheduled to replace Ensign Torigan?
+[00:00:40.720 --> 00:00:40.960] DATA: Yes, sir.
+[00:00:41.760 --> 00:00:43.760] DATA: I was not informed of any change in the duty roster.
+[00:00:44.720 --> 00:00:45.280] RIKER: He's never late.
+[00:00:46.160 --> 00:00:47.040] RIKER: Riker to Lieutenant Worf.
+[00:00:50.960 --> 00:00:52.160] RIKER: Computer, locate Lieutenant Worf.
+[00:00:52.960 --> 00:00:54.720] COMPUTER: Lieutenant Worf is in his quarters.
+[00:00:56.240 --> 00:00:57.680] RIKER: Something's wrong. Mister Data,
+[00:00:57.680 --> 00:00:58.320] RIKER: you have the Bridge.
+[00:00:58.960 --> 00:01:01.680] RIKER: Security team, meet me on deck seven, section twenty five baker.
+[00:01:02.240 --> 00:01:02.560] SECURITY: Aye, sir.
+[00:01:14.560 --> 00:01:16.640] RIKER: Computer, override security lock on this door.
+[00:01:17.200 --> 00:01:18.800] RIKER: Authorisation, Riker alpha six zero.
+[00:01:18.950 --> 00:01:20.750] WORF: Torva luk do shel!
+[00:01:25.558 --> 00:01:26.158] WORF: Torva
+[00:01:27.360 --> 00:01:27.600] RIKER: Worf,
+[00:01:38.409 --> 00:01:39.129] RIKER: what the hell are you doing?
+[00:02:10.969 --> 00:02:13.689] PICARD: Space, the final frontier.
+[00:02:15.609 --> 00:02:18.489] PICARD: These are the voyages of the starship Enterprise.
+[00:02:19.529 --> 00:02:27.529] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:29.209 --> 00:02:31.929] PICARD: to boldly go where no one has gone before.
+[00:02:49.000 --> 00:02:58.000] [music]
+[00:03:30.480 --> 00:03:30.480] WORF: Enter.
+[00:03:44.080 --> 00:03:44.400] WORF: Captain.
+[00:03:48.000 --> 00:03:49.040] PICARD: On your feet, Lieutenant.
+[00:03:53.120 --> 00:03:53.360] WORF: Sir.
+[00:03:54.480 --> 00:03:56.960] PICARD: Mister Worf, your personal affairs are strictly your own concern
+[00:03:57.120 --> 00:04:00.880] PICARD: until they interfere with the operation of this ship. You have now crossed that line.
+[00:04:01.920 --> 00:04:02.560] PICARD: As your Captain,
+[00:04:02.560 --> 00:04:04.320] PICARD: I want to know exactly what is going on.
+[00:04:04.960 --> 00:04:06.240] WORF: It is difficult to explain.
+[00:04:07.360 --> 00:04:07.600] PICARD: Try.
+[00:04:09.680 --> 00:04:13.360] WORF: Ever since I returned from the Carraya system I have felt empty.
+[00:04:13.520 --> 00:04:13.600] PICARD: Does
+[00:04:15.520 --> 00:04:18.560] PICARD: this have something to do with the Klingons you rescued from Carraya Four?
+[00:04:20.720 --> 00:04:21.280] WORF: They were young.
+[00:04:22.160 --> 00:04:23.760] WORF: They knew nothing of their heritage.
+[00:04:24.400 --> 00:04:29.840] WORF: So while I was there, I tried to teach them. Teach them about their people, their culture.
+[00:04:31.535 --> 00:04:44.335] WORF: I told them our ancient stories, instructed them in our customs, explained our beliefs. And then I told them about Kahless. How he united our people long ago. How he gave us strength and honour,
+[00:04:44.975 --> 00:04:47.935] WORF: and how he promised to return one day and lead us again.
+[00:04:55.615 --> 00:04:58.975] PICARD: Is that what you're doing here? Trying to recapture those feelings?
+[00:05:00.175 --> 00:05:02.815] WORF: Yes. I was trying to summon a vision of Kahless.
+[00:05:04.255 --> 00:05:07.055] PICARD: It's a pity you didn't try using the holodeck instead of setting fire to your quarters.
+[00:05:07.455 --> 00:05:09.775] WORF: Using the holodeck would not have been appropriate.
+[00:05:10.415 --> 00:05:12.975] WORF: Everything had to be real if Kahless were to appear.
+[00:05:15.455 --> 00:05:18.175] WORF: But all this was is nothing.
+[00:05:20.015 --> 00:05:21.375] WORF: He did not come to me.
+[00:05:24.975 --> 00:05:26.255] WORF: I gave Toq and the others
+[00:05:26.255 --> 00:05:31.055] WORF: a belief in Sto-Vo-Kor, the life which lies beyond this life where Kahless awaits us.
+[00:05:32.495 --> 00:05:38.975] WORF: When I saw the power of their beliefs I began to question the strength of my own. And I found it
+[00:05:40.895 --> 00:05:41.375] WORF: wanting.
+[00:05:43.375 --> 00:05:44.735] PICARD: Have you lost your faith in Sto-Vo-Kor?
+[00:05:44.735 --> 00:05:44.975] WORF: To
+[00:05:46.975 --> 00:05:48.975] WORF: lose something, one must first possess it.
+[00:05:50.015 --> 00:05:52.335] WORF: I am not sure I ever had a true belief.
+[00:05:59.375 --> 00:06:01.695] WORF: But I should not have allowed it to interfere with my duties.
+[00:06:01.775 --> 00:06:03.055] WORF: My behaviour has been
+[00:06:03.055 --> 00:06:03.375] PICARD: Inexcusable.
+[00:06:05.332 --> 00:06:06.052] PICARD: And understandable.
+[00:06:07.572 --> 00:06:10.932] PICARD: It may be that what you are looking for cannot be found here on the Enterprise.
+[00:06:12.772 --> 00:06:20.612] PICARD: Perhaps you need to immerse yourself in Klingon beliefs in order to discover whether they can hold any truths for you.
+[00:06:22.692 --> 00:06:25.012] PICARD: Is there something you can do,
+[00:06:25.172 --> 00:06:28.932] PICARD: is there somewhere you could go to explore your faith more fully?
+[00:06:32.372 --> 00:06:36.132] WORF: Boreth. The Followers of Kahless await his return there.
+[00:06:36.372 --> 00:06:38.612] WORF: To Klingons, there is no more sacred place.
+[00:06:39.892 --> 00:06:43.412] PICARD: Boreth is only twelve days from here by shuttle.
+[00:06:46.292 --> 00:06:48.212] PICARD: As of this moment, Mister Worf, you are on leave.
+[00:06:49.492 --> 00:06:50.052] WORF: Thank you, sir.
+[00:06:50.932 --> 00:06:53.332] PICARD: But when you set foot on this ship again,
+[00:06:55.012 --> 00:06:57.732] PICARD: I expect you to perform your duties like a Starfleet officer.
+[00:06:58.772 --> 00:06:59.092] WORF: Yes, sir.
+[00:07:03.412 --> 00:07:05.892] PICARD: And, Mister Worf?
+[00:07:08.292 --> 00:07:09.732] PICARD: I hope you find what you're looking for.
+[00:07:11.172 --> 00:07:11.652] WORF: Thank you, sir.
+[00:07:11.652 --> 00:07:11.652] DIVOK: Kahless!
+[00:07:53.811 --> 00:07:54.771] DIVOK: I see Kahless!
+[00:07:55.331 --> 00:07:57.971] DIVOK: He is standing before me with a sword.
+[00:07:59.171 --> 00:08:00.051] DIVOK: He wants something.
+[00:08:01.571 --> 00:08:02.131] DIVOK: Me.
+[00:08:04.051 --> 00:08:05.091] DIVOK: He wants me!
+[00:08:05.731 --> 00:08:07.091] DIVOK: He wants me to go with him!
+[00:08:10.291 --> 00:08:12.291] KOROTH: It is a powerful vision you have had, Divok.
+[00:08:13.571 --> 00:08:16.131] KOROTH: Kahless wants you to join him in Sto-Vo-Kor.
+[00:08:16.691 --> 00:08:21.251] KOROTH: You are only nineteen and yet your place among the honoured dead is already secure.
+[00:08:21.891 --> 00:08:22.851] KOROTH: Take him back to his chamber.
+[00:08:22.851 --> 00:08:23.491] KOROTH: Let him sleep.
+[00:08:26.211 --> 00:08:26.611] KOROTH: You're
+[00:08:38.771 --> 00:08:39.571] KOROTH: leaving us?
+[00:08:42.211 --> 00:08:43.651] WORF: It has been ten days, Koroth.
+[00:08:44.451 --> 00:08:45.411] WORF: I have had no visions.
+[00:08:45.811 --> 00:08:47.411] WORF: I have received no insight.
+[00:08:47.491 --> 00:08:49.011] WORF: There is nothing here for me.
+[00:08:52.291 --> 00:08:54.851] KOROTH: What is the Story of the Promise, Worf?
+[00:08:57.091 --> 00:09:02.531] WORF: When Kahless had united our people and gave them the laws of honour,
+[00:09:03.030 --> 00:09:08.870] WORF: he saw that his work was done. So one night he gathered his belongings and departed for the edge of the city to say goodbye.
+[00:09:08.870 --> 00:09:11.750] KOROTH: The people wept. They did not want him to go.
+[00:09:15.830 --> 00:09:20.790] WORF: Then Kahless said, 'You are Klingons. You need no one but yourselves.
+[00:09:21.830 --> 00:09:26.390] WORF: I will go now to Sto-Vo-Kor. But I promise one day I will return.'
+[00:09:27.990 --> 00:09:35.670] WORF: Then Kahless pointed to a star in the sky and said, 'Look for me there, on that point of light.'
+[00:09:37.190 --> 00:09:43.510] KOROTH: So here we are, on a world circling that distant point of light.
+[00:09:46.390 --> 00:09:50.630] KOROTH: It has been fifteen centuries since he made that promise, and still we wait.
+[00:09:53.030 --> 00:09:57.030] KOROTH: What are ten days in the life of one Klingon compared to that?
+[00:09:57.670 --> 00:10:00.950] KOROTH: Is the son of Mogh really so easily discouraged?
+[00:10:02.950 --> 00:10:08.070] KOROTH: You came to us seeking answers but this is a place of questions.
+[00:10:09.670 --> 00:10:11.990] KOROTH: Open your heart to Kahless.
+[00:10:13.030 --> 00:10:14.870] KOROTH: Ask him your questions.
+[00:10:15.990 --> 00:10:20.070] KOROTH: Let him speak to you with your mind unclouded by doubt or hesitation.
+[00:10:20.230 --> 00:10:23.030] KOROTH: Only then can you find what you are looking for.
+[00:10:24.150 --> 00:10:24.950] KOROTH: If you cannot do that,
+[00:10:26.870 --> 00:10:27.910] KOROTH: then perhaps
+[00:10:28.544 --> 00:10:30.464] KOROTH: you should return to your starship.
+[00:10:37.264 --> 00:10:39.264] WORF: Torva
+[00:10:46.064 --> 00:10:48.064] WORF: luk
+[00:10:52.464 --> 00:10:56.864] WORF: do shel. Torva luk
+[00:10:58.944 --> 00:11:00.944] WORF: I
+[00:11:02.944 --> 00:11:06.384] WORF: see Kahless.
+[00:11:29.664 --> 00:11:32.384] WORF: You are real.
+[00:11:37.424 --> 00:11:38.944] KAHLESS: I am Kahless,
+[00:11:40.464 --> 00:11:42.144] KAHLESS: and I have returned.
+[00:11:42.144 --> 00:11:42.144] KOROTH: What are you doing?
+[00:12:07.479 --> 00:12:07.959] KOROTH: Who are you?
+[00:12:09.079 --> 00:12:09.959] DIVOK: It is Kahless.
+[00:12:15.319 --> 00:12:16.439] KAHLESS: I have returned.
+[00:12:18.999 --> 00:12:19.879] KAHLESS: You doubt me.
+[00:12:22.439 --> 00:12:25.879] KAHLESS: Who here knows the story of how this sword was forged?
+[00:12:26.919 --> 00:12:27.719] TORIN: No one knows.
+[00:12:28.119 --> 00:12:29.959] TORIN: It is not written in the sacred texts.
+[00:12:33.079 --> 00:12:38.759] KAHLESS: I went into the mountains, all the way to the volcano at Kri'stak.
+[00:12:39.799 --> 00:12:46.519] KAHLESS: There I cut off a lock of my hair and thrust it into the river of molten rock which poured from the summit.
+[00:12:47.799 --> 00:12:49.399] KAHLESS: The hair began to burn.
+[00:12:50.599 --> 00:12:56.839] KAHLESS: Then I plunged it into the lake of Lusor and twisted it into this sword.
+[00:12:58.919 --> 00:13:03.799] KAHLESS: And after I used it to kill the tyrant Molor I gave it a name.
+[00:13:05.719 --> 00:13:09.079] KAHLESS: Bat'leth. The sword of honour.
+[00:13:10.519 --> 00:13:11.479] KOROTH: You know.
+[00:13:11.629 --> 00:13:12.229] KOROTH: The
+[00:13:13.319 --> 00:13:16.119] KOROTH: story of the sword is known only to the High Clerics.
+[00:13:16.999 --> 00:13:22.999] KOROTH: It was never written down, so that if he returned, we could be sure it was Kahless.
+[00:13:23.719 --> 00:13:27.159] KAHLESS: I have returned because there is a great need in my people.
+[00:13:28.199 --> 00:13:34.279] KAHLESS: They fight among themselves in petty wars and corrupt the glory of the Klingon spirit.
+[00:13:35.029 --> 00:13:38.949] KAHLESS: They have lost their way. But it is not too late.
+[00:13:40.309 --> 00:13:45.349] KAHLESS: I have returned and I will lead my people again.
+[00:13:47.269 --> 00:13:51.669] KOROTH: Vorcha doh baghk, Kahless!
+[00:13:53.189 --> 00:13:56.389] ALL: Vorcha doh baghk, Kahless!
+[00:13:57.349 --> 00:13:59.989] ALL: Vorcha doh baghk, Kahless!
+[00:13:59.989 --> 00:14:00.549] KAHLESS: What is it you are
+[00:14:07.669 --> 00:14:09.669] KAHLESS: doing?
+[00:14:13.829 --> 00:14:15.029] WORF: I was getting my tricorder.
+[00:14:16.389 --> 00:14:17.109] KAHLESS: Tricorder?
+[00:14:18.069 --> 00:14:18.789] KAHLESS: Is it a weapon?
+[00:14:19.109 --> 00:14:19.909] WORF: No, no.
+[00:14:20.789 --> 00:14:21.829] WORF: It is a tool.
+[00:14:22.949 --> 00:14:24.500] WORF: I intended to use it to see
+[00:14:24.500 --> 00:14:25.829] KAHLESS: To see if I was real.
+[00:14:28.549 --> 00:14:29.189] KAHLESS: Proceed.
+[00:14:30.149 --> 00:14:31.589] KAHLESS: Use your tricorder.
+[00:14:42.229 --> 00:14:44.229] KAHLESS: Well?
+[00:14:46.869 --> 00:14:47.669] WORF: You are Klingon.
+[00:14:47.669 --> 00:14:50.629] KAHLESS: What else could I be?
+[00:14:51.429 --> 00:14:55.749] WORF: There are many possibilities. A shape shifter, a holographic projection.
+[00:14:55.989 --> 00:14:58.309] KAHLESS: So, you are a sceptic, Worf.
+[00:14:58.309 --> 00:14:59.029] KAHLESS: I like that.
+[00:15:01.189 --> 00:15:02.229] WORF: How do you know my name?
+[00:15:04.309 --> 00:15:05.429] KAHLESS: We have met before.
+[00:15:06.309 --> 00:15:09.109] KAHLESS: I appeared to you in a vision in the caves of No'Mat.
+[00:15:10.160 --> 00:15:11.520] KAHLESS: You were just a child then.
+[00:15:12.880 --> 00:15:18.480] KAHLESS: I told you that you would do something that no Klingon had ever done before.
+[00:15:21.200 --> 00:15:24.320] KAHLESS: You still do not believe it is me, do you Worf?
+[00:15:26.880 --> 00:15:28.240] WORF: I want to believe.
+[00:15:32.480 --> 00:15:33.520] KAHLESS: That is a beginning.
+[00:15:49.520 --> 00:15:51.360] TORIN: Gowron is the Leader of the Council.
+[00:15:52.080 --> 00:15:54.800] TORIN: He commands the entire Defence Force. If he chooses to oppose you
+[00:15:54.800 --> 00:15:55.760] KAHLESS: Do not worry.
+[00:15:56.480 --> 00:15:59.120] KAHLESS: We are on the threshold of a new era for our people.
+[00:15:59.760 --> 00:16:02.880] KAHLESS: Klingons from all over the Empire will flock to my banner.
+[00:16:05.120 --> 00:16:05.600] KAHLESS: Yet
+[00:16:07.280 --> 00:16:11.440] KAHLESS: something still weighs heavy on the brow of the son of Mogh.
+[00:16:12.560 --> 00:16:15.440] KAHLESS: Are you contemplating yet another question for me?
+[00:16:16.800 --> 00:16:21.360] KAHLESS: After three days, I am beginning to wonder if you know how to do anything else.
+[00:16:22.000 --> 00:16:23.680] WORF: Questions are the beginning of wisdom,
+[00:16:24.320 --> 00:16:25.600] WORF: the mark of a true warrior.
+[00:16:26.080 --> 00:16:30.640] KAHLESS: Do not forget that a leader need not answer questions of those he leads.
+[00:16:31.280 --> 00:16:33.840] KAHLESS: It is enough that he says to do a thing and they will do it.
+[00:16:34.560 --> 00:16:35.920] KAHLESS: If he says to run, they run.
+[00:16:36.480 --> 00:16:38.320] KAHLESS: If he says to fight, they fight.
+[00:16:38.960 --> 00:16:40.080] KAHLESS: If he says to die,
+[00:16:42.029 --> 00:16:42.269] KAHLESS: they die.
+[00:16:47.949 --> 00:16:50.029] WORF: If the commander is worthy of their trust.
+[00:16:50.349 --> 00:16:51.309] KAHLESS: NuQ cha'tak.
+[00:16:52.189 --> 00:16:52.189] KAHLESS: NuQ!
+[00:17:34.000 --> 00:17:38.000] [laughter]
+[00:17:43.869 --> 00:17:44.669] KAHLESS: What is wrong?
+[00:17:47.069 --> 00:17:51.309] KAHLESS: Is there only anger and bloodlust in your souls?
+[00:17:51.949 --> 00:17:55.069] KAHLESS: Is that all that is left in the Klingon heart?
+[00:17:56.349 --> 00:18:01.629] KAHLESS: We do not fight merely to spill blood, but to enrich the spirit.
+[00:18:02.829 --> 00:18:05.469] KAHLESS: Look at us. Two warriors
+[00:18:06.170 --> 00:18:09.130] KAHLESS: locked in battle, fighting for honour.
+[00:18:10.650 --> 00:18:12.250] KAHLESS: How can you not sing
+[00:18:12.730 --> 00:18:16.730] KAHLESS: for all to hear? We are Klingons!
+[00:18:19.050 --> 00:18:23.450] KAHLESS: Yes! Let it out!
+[00:18:23.450 --> 00:18:25.290] KAHLESS: Let the joy in your heart be heard.
+[00:18:26.250 --> 00:18:27.770] KAHLESS: We are Klingons!
+[00:18:29.610 --> 00:18:30.250] KLINGON: We are Klingons.
+[00:18:32.330 --> 00:18:33.290] KAHLESS: We are Klingons.
+[00:18:33.290 --> 00:18:35.290] ALL: We are Klingons.
+[00:18:36.170 --> 00:18:36.350] ALL: We are Klingons.
+[00:18:36.410 --> 00:18:38.650] ALL: We are Klingons.
+[00:18:39.770 --> 00:18:41.370] ALL: We
+[00:18:43.370 --> 00:18:45.370] ALL: are Klingons.
+[00:18:45.520 --> 00:18:46.920] ALL: We are Klingons.
+[00:18:47.450 --> 00:18:48.850] ALL: We are Klingons.
+[00:18:49.530 --> 00:18:52.330] LOG: Captain's log, stardate 46852.2.
+[00:18:53.050 --> 00:18:57.930] LOG: The Enterprise is to proceed directly to the planet Boreth to take aboard a very unusual guest.
+[00:18:59.370 --> 00:19:01.290] CRUSHER: Did you take any other tricorder readings?
+[00:19:02.410 --> 00:19:05.370] CRUSHER: An anatomical profile or a neurophysiology scan?
+[00:19:06.090 --> 00:19:06.410] WORF: No.
+[00:19:07.210 --> 00:19:10.410] CRUSHER: It's going to be very difficult to eliminate any possibilities at this point.
+[00:19:11.050 --> 00:19:19.050] CRUSHER: He may be a coalescent being taking Klingon form, or a bioreplicant or even a Klingon who has been surgically altered to look like Kahless.
+[00:19:19.210 --> 00:19:20.490] WORF: There is another possibility.
+[00:19:23.530 --> 00:19:25.050] WORF: He could be the real Kahless.
+[00:19:25.050 --> 00:19:27.210] WORF: He may have actually returned as he promised.
+[00:19:27.690 --> 00:19:32.330] DATA: The appearance of Kahless in the lava caves is consistent with the stories found in the Klingon sacred texts.
+[00:19:32.650 --> 00:19:39.050] RIKER: Worf, no offence, but I have trouble believing that the man I that escorted to deck eight is supernatural.
+[00:19:39.700 --> 00:19:41.460] WORF: I did not say that he is.
+[00:19:42.020 --> 00:19:45.380] WORF: I merely think we should not completely reject the possibility.
+[00:19:45.860 --> 00:19:48.420] PICARD: Look, we have no reason to rule out anything.
+[00:19:49.060 --> 00:19:54.900] PICARD: We are not ordered to investigate the origins of our guest, nor tell anyone what they should believe.
+[00:19:55.220 --> 00:19:57.540] PICARD: We are simply to transport Kahless to the Home World.
+[00:19:58.900 --> 00:20:03.140] PICARD: And while he's here with us, he will be treated as an honoured guest.
+[00:20:07.220 --> 00:20:07.700] DATA: Lieutenant?
+[00:20:11.940 --> 00:20:12.900] DATA: May I ask a question?
+[00:20:14.180 --> 00:20:18.900] DATA: In the absence of empirical data, how will you determine whether or not this is the real Kahless?
+[00:20:18.900 --> 00:20:20.740] WORF: It is not an empirical matter.
+[00:20:20.900 --> 00:20:22.980] WORF: It is a matter of faith.
+[00:20:24.580 --> 00:20:24.980] DATA: Faith?
+[00:20:26.180 --> 00:20:29.300] DATA: Then you do believe Kahless may have supernatural attributes?
+[00:20:30.900 --> 00:20:35.540] DATA: As an android, I am unable to accept that which cannot be proven through rational means.
+[00:20:36.260 --> 00:20:38.100] DATA: I would appreciate hearing your insights on this matter.
+[00:20:38.420 --> 00:20:40.260] WORF: Perhaps some other time, Commander.
+[00:20:41.620 --> 00:20:47.300] WORF: I do not believe I can provide much insight at this minute.
+[00:20:50.740 --> 00:20:50.740] PICARD: Welcome
+[00:21:05.060 --> 00:21:05.780] PICARD: aboard, Gowron.
+[00:21:06.420 --> 00:21:07.460] GOWRON: Where is he, Picard?
+[00:21:07.460 --> 00:21:11.060] PICARD: I assume that you're referring to Kahless.
+[00:21:11.220 --> 00:21:11.540] GOWRON: I am
+[00:21:11.763 --> 00:21:14.643] GOWRON: referring to the filthy pahtk who is using his name.
+[00:21:15.363 --> 00:21:19.683] PICARD: Well, the person in question is in his quarters at the moment.
+[00:21:20.883 --> 00:21:22.403] GOWRON: What have you learned about him so far?
+[00:21:22.563 --> 00:21:24.643] GOWRON: What kind of medical analysis have you made?
+[00:21:24.643 --> 00:21:26.643] GOWRON: Do you have any theories about his true origin?
+[00:21:26.643 --> 00:21:27.923] PICARD: We haven't done any analysis.
+[00:21:28.323 --> 00:21:30.563] GOWRON: What kind of fools do you have working for you, Picard?
+[00:21:30.963 --> 00:21:32.803] GOWRON: The imposter's been aboard for nearly a day.
+[00:21:33.043 --> 00:21:36.948] PICARD: If you wanted to run tests on Kahless, you should have sent a Klingon ship for him.
+[00:21:36.948 --> 00:21:40.163] GOWRON: And have him begin spreading his poisonous lies through a ship of loyal Klingons?
+[00:21:40.403 --> 00:21:40.723] GOWRON: Never.
+[00:21:41.123 --> 00:21:43.443] PICARD: If he really is an imposter then you have nothing to worry about.
+[00:21:43.523 --> 00:21:48.083] GOWRON: Kahless has been dead for a thousand years, but the idea of Kahless is still alive.
+[00:21:48.083 --> 00:21:49.683] GOWRON: Have you ever fought an idea, Picard?
+[00:21:50.243 --> 00:21:52.643] GOWRON: It has no weapon to destroy, no body to kill.
+[00:21:53.123 --> 00:22:02.643] GOWRON: The idea of Kahless' return must be stopped here, now, or it will travel through the Empire like a wave and leave nothing but destruction behind.
+[00:22:11.043 --> 00:22:14.323] PICARD: So Gowron has come on board in order to test your claim.
+[00:22:14.563 --> 00:22:16.883] KOROTH: Gowron knows that his days are nearly over.
+[00:22:17.043 --> 00:22:19.443] KOROTH: Now he comes crawling aboard with some kind of test.
+[00:22:19.443 --> 00:22:21.123] TORIN: We do not have to prove anything to Gowron.
+[00:22:21.283 --> 00:22:22.963] KAHLESS: What is this test?
+[00:22:23.283 --> 00:22:28.163] PICARD: He has brought a knife with him, a knife is was supposed to be stained with the blood of Kahless.
+[00:22:28.243 --> 00:22:29.683] TORIN: Gowron has brought the Knife of Kirom?
+[00:22:30.403 --> 00:22:32.483] TORIN: No one is permitted to remove it from the sacred vault.
+[00:22:32.643 --> 00:22:35.363] KOROTH: Gowron does not care about what is sacred.
+[00:22:35.523 --> 00:22:39.603] PICARD: He wants to run a genetic analysis on a sample of the blood and on you.
+[00:22:40.260 --> 00:22:42.500] PICARD: That should tell us if there is a biological match.
+[00:22:42.980 --> 00:22:49.140] PICARD: Now if you agree to the test, I will make the Enterprise facilities available to ensure that it is conducted impartially.
+[00:22:50.500 --> 00:22:55.780] KAHLESS: Perhaps it is time to settle the doubts of those who still do not believe.
+[00:22:57.860 --> 00:22:59.220] KAHLESS: I will allow this test.
+[00:23:02.900 --> 00:23:02.900] CRUSHER: There,
+[00:23:05.540 --> 00:23:06.180] CRUSHER: that should do it.
+[00:23:08.740 --> 00:23:14.500] CRUSHER: Computer, run a genetic comparison on this blood sample and the tissue belonging to Kahless.
+[00:23:17.140 --> 00:23:18.980] COMPUTER: The genetic patterns are identical.
+[00:23:20.820 --> 00:23:21.300] GOWRON: But how?
+[00:23:23.140 --> 00:23:23.860] GOWRON: How can this be?
+[00:23:27.300 --> 00:23:28.020] WORF: It is true.
+[00:23:31.380 --> 00:23:32.820] WORF: Kahless has returned.
+[00:23:38.740 --> 00:23:38.740] WORF: I
+[00:23:42.100 --> 00:23:44.580] WORF: am sorry.
+[00:23:44.980 --> 00:23:47.140] WORF: Our replicators do not do justice to Klingon Warnog.
+[00:23:47.140 --> 00:23:47.380] KAHLESS: It
+[00:23:53.140 --> 00:23:58.020] KAHLESS: has been so long since I have tasted any food or drink.
+[00:24:00.260 --> 00:24:02.100] KAHLESS: There are many things I have forgotten.
+[00:24:06.100 --> 00:24:06.580] WORF: Kahless,
+[00:24:09.860 --> 00:24:12.900] WORF: may I ask you about death
+[00:24:14.373 --> 00:24:15.573] WORF: and Sto-Vo-Kor?
+[00:24:17.093 --> 00:24:19.973] WORF: Tell me, what awaits us beyond this life.
+[00:24:22.613 --> 00:24:24.373] KAHLESS: I do not have those answers.
+[00:24:25.493 --> 00:24:30.853] KAHLESS: I am merely a traveller, someone who has journeyed back and forth between this world and the next.
+[00:24:31.253 --> 00:24:35.413] KAHLESS: While I am in this form, I know only about this world.
+[00:24:38.293 --> 00:24:44.133] KAHLESS: And there is much work for me to do in this world, and you will be part of it, Worf.
+[00:24:45.573 --> 00:24:45.813] WORF: Me?
+[00:24:46.293 --> 00:24:55.093] KAHLESS: It was your purity of heart that summoned me back from Sto-Vo-Kor, and Koroth has told me about the respect you have earned in the Federation and the Empire.
+[00:24:55.973 --> 00:25:01.253] KAHLESS: I want you to have a place at my side as we restore honour to our people.
+[00:25:03.893 --> 00:25:08.213] KAHLESS: Let me tell you about this new Empire we will forge.
+[00:25:11.973 --> 00:25:13.733] WORF: It will be glorious!
+[00:25:14.373 --> 00:25:15.253] GOWRON: It will be war.
+[00:25:18.693 --> 00:25:19.733] GOWRON: You are not a fool, Worf.
+[00:25:20.453 --> 00:25:28.213] GOWRON: Do you really think that every Klingon in the Empire will bend his knee and grovel before this man just because Koroth says he is Kahless?
+[00:25:28.773 --> 00:25:30.293] WORF: He is Kahless.
+[00:25:32.373 --> 00:25:33.813] WORF: Your own test proved it.
+[00:25:34.133 --> 00:25:38.373] GOWRON: I will not hand over the Empire to Koroth because of one test.
+[00:25:38.613 --> 00:25:39.813] WORF: It is not Koroth,
+[00:25:39.813 --> 00:25:40.053] WORF: it is
+[00:25:40.053 --> 00:25:41.733] GOWRON: Of course it is Koroth!
+[00:25:41.893 --> 00:25:42.933] GOWRON: Open your eyes.
+[00:25:43.736 --> 00:25:47.096] GOWRON: Koroth and the other Guardians have always opposed me.
+[00:25:47.816 --> 00:25:50.936] GOWRON: This is nothing more than a ploy for them to finally seize power.
+[00:25:51.896 --> 00:25:56.536] GOWRON: Even now, there are warriors on my own ship who want to see Kahless.
+[00:25:57.416 --> 00:25:59.816] GOWRON: There are others who believe he is an imposter.
+[00:26:00.376 --> 00:26:02.616] GOWRON: The divisions are already forming.
+[00:26:02.616 --> 00:26:05.336] WORF: But it does not have to be this way.
+[00:26:05.896 --> 00:26:10.216] WORF: We could all join together and welcome Kahless as a united people.
+[00:26:10.456 --> 00:26:11.176] GOWRON: Don't you see?
+[00:26:11.976 --> 00:26:15.176] GOWRON: This is exactly why they want you to join them.
+[00:26:15.496 --> 00:26:21.096] GOWRON: Because your brother sits on the Council and your voice carries weight in the Empire.
+[00:26:22.616 --> 00:26:25.576] GOWRON: They want you to influence others to follow them.
+[00:26:25.736 --> 00:26:33.336] GOWRON: Worf, we fought together once side by side to keep the Empire from being torn apart.
+[00:26:33.656 --> 00:26:40.296] GOWRON: Will you stand by and let these impostors destroy all that we fought so hard to protect?
+[00:26:44.616 --> 00:26:45.656] GOWRON: Renounce him, Worf.
+[00:26:46.696 --> 00:26:50.376] GOWRON: Stand with me and we can hold the Empire
+[00:26:52.296 --> 00:26:52.696] GOWRON: together.
+[00:26:56.456 --> 00:26:57.576] WORF: You do not understand.
+[00:26:57.816 --> 00:26:59.256] WORF: Kahless is our future.
+[00:26:59.816 --> 00:27:03.736] WORF: Only with his help can we revive the pure warriors within ourselves.
+[00:27:05.496 --> 00:27:06.536] WORF: Listen to him, Gowron.
+[00:27:07.176 --> 00:27:07.816] WORF: Open your heart.
+[00:27:07.816 --> 00:27:08.936] WORF: Hear his words.
+[00:27:09.656 --> 00:27:12.776] WORF: He will restore your faith as he has restored mine.
+[00:27:14.216 --> 00:27:17.736] WORF: Give him a chance to lift your spirit
+[00:27:18.239 --> 00:27:20.799] WORF: and cleanse your heart before you take up arms.
+[00:27:35.359 --> 00:27:35.359] GOWRON: Koroth.
+[00:27:37.279 --> 00:27:39.599] GOWRON: I see that not all fools die young.
+[00:27:41.279 --> 00:27:41.599] KLINGON: Kahless!
+[00:27:41.599 --> 00:27:41.599] KOROTH: Kahless,
+[00:27:48.399 --> 00:27:50.959] KOROTH: may I present Gowron, Leader of the High Council.
+[00:27:52.559 --> 00:27:53.199] KLINGON: Kahless.
+[00:27:59.599 --> 00:28:04.239] KAHLESS: Long ago, a storm was heading toward the city of Quin'lat.
+[00:28:05.359 --> 00:28:10.319] KAHLESS: The people sought protection within the walls. All except one man who remained outside.
+[00:28:10.959 --> 00:28:13.119] KAHLESS: I went to him and asked what he was doing.
+[00:28:14.639 --> 00:28:16.479] KAHLESS: I am not afraid, he said.
+[00:28:17.279 --> 00:28:20.639] KAHLESS: I will not hide my face behind stone and mortar.
+[00:28:21.359 --> 00:28:25.759] KAHLESS: I will stand before the wind and make it respect me.
+[00:28:26.959 --> 00:28:29.039] KAHLESS: I honoured his choice and went inside.
+[00:28:30.079 --> 00:28:34.639] KAHLESS: The next day, the storm came and the man was killed.
+[00:28:35.919 --> 00:28:38.799] KAHLESS: The wind does not respect a fool.
+[00:28:41.199 --> 00:28:44.399] KAHLESS: Do not stand before the wind, Gowron.
+[00:28:46.319 --> 00:28:47.519] GOWRON: What was his name?
+[00:28:51.039 --> 00:28:51.359] KAHLESS: What?
+[00:28:52.101 --> 00:28:58.421] GOWRON: If you were really there, you should be able to tell us the name of the man outside the walls.
+[00:28:58.901 --> 00:29:00.501] GOWRON: Describe him to us.
+[00:29:01.621 --> 00:29:02.981] GOWRON: What was he wearing?
+[00:29:03.861 --> 00:29:05.541] GOWRON: How tall was he?
+[00:29:06.341 --> 00:29:06.981] GOWRON: What colour
+[00:29:07.141 --> 00:29:08.261] GOWRON: were his eyes?
+[00:29:08.901 --> 00:29:09.941] KAHLESS: I do not remember.
+[00:29:11.541 --> 00:29:13.941] KAHLESS: It was long ago, and in another lifetime.
+[00:29:14.981 --> 00:29:27.701] KAHLESS: What matters is, I have returned to restore faith and hope to my people. To lead them back to the way of honour and the glory that was once theirs and can be again.
+[00:29:28.341 --> 00:29:30.501] KAHLESS: Is that what you oppose, Gowron?
+[00:29:30.901 --> 00:29:32.341] GOWRON: I oppose you.
+[00:29:33.461 --> 00:29:38.901] GOWRON: I say you are not Kahless, and I will not bend my knee to you
+[00:29:40.501 --> 00:29:42.181] GOWRON: as long as I can draw a breath
+[00:29:43.781 --> 00:29:44.981] GOWRON: or pick up a blade.
+[00:29:54.981 --> 00:29:54.981] KOROTH: No!
+[00:29:54.981 --> 00:29:54.981] WORF: Koroth!
+[00:29:54.981 --> 00:29:54.981] KAHLESS: A good
+[00:30:09.781 --> 00:30:12.101] KAHLESS: try, Gowron, but not enough.
+[00:30:19.575 --> 00:30:20.935] KAHLESS: You have
+[00:30:25.735 --> 00:30:26.935] KAHLESS: no joy, Gowron.
+[00:30:27.895 --> 00:30:33.015] KAHLESS: Is your heart so filled of distrust and suspicion that you've forgotten what it is to be truly Klingon?
+[00:30:41.735 --> 00:30:46.615] GOWRON: Kahless. The greatest warrior of them all.
+[00:30:59.975 --> 00:31:01.735] KOROTH: Everything will be all right.
+[00:31:01.815 --> 00:31:06.215] KOROTH: We will say that Gowron used a dishonourable tactic in his fight with Kahless.
+[00:31:06.215 --> 00:31:06.775] TORIN: That he cheated.
+[00:31:06.935 --> 00:31:07.575] WORF: That is a lie.
+[00:31:07.575 --> 00:31:08.055] WORF: He did not
+[00:31:08.055 --> 00:31:10.455] KOROTH: We do not need to hear any more from the son of Mogh.
+[00:31:10.455 --> 00:31:12.295] KOROTH: None of this would have happened if you hadn't brought them together.
+[00:31:12.295 --> 00:31:13.415] KAHLESS: I am Kahless,
+[00:31:13.495 --> 00:31:15.575] KAHLESS: I am the strongest, the bravest warrior.
+[00:31:15.655 --> 00:31:17.335] TORIN: Do not think about what happened.
+[00:31:17.495 --> 00:31:19.735] TORIN: You must think of the future, of the Empire.
+[00:31:19.975 --> 00:31:21.495] WORF: There is no future here.
+[00:31:21.895 --> 00:31:23.975] WORF: No glorious new era for our people.
+[00:31:25.335 --> 00:31:26.375] WORF: Gowron was right.
+[00:31:26.695 --> 00:31:29.335] WORF: You did not know the name of the man who faced the storm.
+[00:31:29.895 --> 00:31:34.775] WORF: You do not even know what real warnog tastes like. And you certainly are not the greatest warrior of all.
+[00:31:35.175 --> 00:31:37.415] WORF: Whoever you are, you are not Kahless.
+[00:31:37.495 --> 00:31:38.695] KOROTH: You have said enough.
+[00:31:38.695 --> 00:31:39.335] KOROTH: Now get out!
+[00:31:39.575 --> 00:31:43.415] WORF: You are using the name of Kahless for some twisted game.
+[00:31:44.375 --> 00:31:46.535] WORF: For that alone, you should die.
+[00:31:46.935 --> 00:31:49.735] WORF: And if you do not tell me what you have done, I will kill you right here.
+[00:31:49.885 --> 00:31:50.485] KOROTH: The
+[00:31:53.837 --> 00:31:58.317] KOROTH: problems with your memory are the result of the way you returned.
+[00:32:00.317 --> 00:32:01.197] KAHLESS: What do you mean?
+[00:32:01.517 --> 00:32:09.837] KOROTH: We, the Guardians, have been awaiting your return for centuries, but we did not have the technology to bring you back. Until now.
+[00:32:10.637 --> 00:32:15.597] KOROTH: We were able to use an organic sample of the first Kahless to give you life.
+[00:32:15.997 --> 00:32:17.773] KAHLESS: The first Kahless?
+[00:32:17.773 --> 00:32:18.957] WORF: A clone.
+[00:32:24.557 --> 00:32:26.157] WORF: He is a clone.
+[00:32:27.197 --> 00:32:29.597] KAHLESS: What is a clone?
+[00:32:29.997 --> 00:32:33.997] WORF: A being created in a laboratory by genetic material taken from another being.
+[00:32:34.877 --> 00:32:37.117] WORF: You are a copy. A fraud.
+[00:32:37.517 --> 00:32:39.357] KOROTH: You are not just a copy.
+[00:32:39.997 --> 00:32:42.317] KOROTH: We gave you more than the body of Kahless.
+[00:32:42.557 --> 00:32:46.797] TORIN: We found a way to imprint specific information in your neurosynaptic patterns.
+[00:32:47.197 --> 00:32:48.877] TORIN: We gave you memories, and not just any memories.
+[00:32:49.117 --> 00:32:52.557] TORIN: We gave you the experiences of Kahless as written in the sacred texts.
+[00:32:53.997 --> 00:32:54.557] KAHLESS: So,
+[00:32:56.237 --> 00:32:59.357] KAHLESS: I did not do any of the things that I remember.
+[00:33:00.717 --> 00:33:02.877] KAHLESS: I was never at the city of Quin'lat.
+[00:33:03.437 --> 00:33:05.437] KAHLESS: I never went to the Kri'stat volcano.
+[00:33:06.317 --> 00:33:10.637] KOROTH: You were not awakened until we transported you into the cave and you appeared to Worf.
+[00:33:10.637 --> 00:33:15.277] KOROTH: Before that time you were unconscious in a laboratory where we accelerated your growth, corrected any
+[00:33:15.572 --> 00:33:19.492] KOROTH: genetic anomalies that occurred, gave you the wisdom and memories that
+[00:33:23.732 --> 00:33:30.372] WORF: They grew you in a test tube like some kind of fungus and programmed you like a machine.
+[00:33:30.852 --> 00:33:32.132] KOROTH: You are twisting the truth.
+[00:33:32.452 --> 00:33:38.132] WORF: You talk to me of truth? You, who have brought to life this lie and called it Kahless?
+[00:33:38.372 --> 00:33:39.252] KOROTH: It is not a lie.
+[00:33:39.812 --> 00:33:44.052] KOROTH: Genetically, he is Kahless, and he is needed by our people.
+[00:33:44.612 --> 00:33:47.972] KOROTH: You know better than anyone the corruption and dishonour that has destroyed the Empire.
+[00:33:48.212 --> 00:33:49.412] KOROTH: They need him.
+[00:33:49.572 --> 00:33:51.332] WORF: They do not need a false god.
+[00:33:51.412 --> 00:33:53.972] KOROTH: How do you know that this is not the way the prophesy was to be fulfilled?
+[00:33:54.532 --> 00:33:57.092] KOROTH: Who is to say that what we did was wrong?
+[00:33:57.652 --> 00:33:58.132] WORF: I am.
+[00:33:58.932 --> 00:34:00.772] WORF: I will not let this fraud continue.
+[00:34:02.452 --> 00:34:02.852] KOROTH: Worf!
+[00:34:06.452 --> 00:34:07.732] KOROTH: You cannot tell Gowron of this.
+[00:34:08.772 --> 00:34:10.692] WORF: Do not give me orders, Koroth.
+[00:34:11.652 --> 00:34:24.052] KOROTH: All right, but consider this. If you tell Gowron what we have told you, it will destroy him. And with him, the last chance to restore hope to our people.
+[00:34:25.812 --> 00:34:27.092] KOROTH: It's your choice.
+[00:34:31.377 --> 00:34:33.377] DATA: They
+[00:34:37.663 --> 00:34:39.663] DATA: have
+[00:34:43.949 --> 00:34:45.949] DATA: been
+[00:34:49.092 --> 00:34:49.572] DATA: sitting here for
+[00:34:49.642 --> 00:34:51.082] DATA: three hours seventeen minutes.
+[00:34:51.082 --> 00:34:51.082] DATA: They
+[00:34:53.002 --> 00:34:56.122] DATA: refuse to transport back to the ship with the rest of Gowron's men.
+[00:34:56.682 --> 00:35:00.202] DATA: They insisted on waiting here until they see Kahless again.
+[00:35:00.362 --> 00:35:05.082] DATA: Their faith appears to be unaffected by his inability to defeat Gowron.
+[00:35:06.042 --> 00:35:06.842] DATA: They still believe.
+[00:35:08.362 --> 00:35:11.242] WORF: Then they are fools.
+[00:35:11.642 --> 00:35:14.042] DATA: Does that mean you no longer believe this is the real Kahless?
+[00:35:14.522 --> 00:35:14.922] WORF: Yes.
+[00:35:16.762 --> 00:35:17.482] DATA: I am curious.
+[00:35:18.522 --> 00:35:25.562] DATA: Do you still think the real Kahless will return someday? Or has this experience only deepened the spiritual crisis which originally sent you to Boreth?
+[00:35:32.042 --> 00:35:32.762] WORF: I do not know.
+[00:35:33.402 --> 00:35:34.442] DATA: I understand your dilemma.
+[00:35:35.402 --> 00:35:38.602] DATA: I once had what could be considered a crisis of the spirit.
+[00:35:38.842 --> 00:35:40.842] WORF: You?
+[00:35:40.842 --> 00:35:41.242] DATA: Yes.
+[00:35:42.362 --> 00:35:50.922] DATA: The Starfleet officers who first activated me on Omicron Theta told me I was an android, nothing more than a sophisticated machine with human form.
+[00:35:51.162 --> 00:35:55.482] DATA: However I realised that if I were simply a machine, I could never be anything else.
+[00:35:56.362 --> 00:35:58.042] DATA: I could never grow beyond my programming.
+[00:35:59.322 --> 00:36:00.762] DATA: I found that difficult to accept,
+[00:36:02.362 --> 00:36:10.202] DATA: so I chose to believe that I was a person, that I had the potential to be more than a collection of circuits and subprocessors.
+[00:36:11.402 --> 00:36:13.162] DATA: It is a belief which I still hold.
+[00:36:17.322 --> 00:36:21.002] WORF: How did you come to your decision?
+[00:36:21.002 --> 00:36:21.402] DATA: I made
+[00:36:23.009 --> 00:36:23.809] DATA: a leap of faith.
+[00:36:31.729 --> 00:36:31.729] WORF: The
+[00:36:40.769 --> 00:36:45.009] WORF: man who appeared to me on Boreth is not Kahless.
+[00:36:45.889 --> 00:36:46.849] WORF: He is a clone.
+[00:36:48.129 --> 00:36:48.929] GOWRON: A clone!
+[00:36:49.249 --> 00:36:49.729] WORF: Yes.
+[00:36:50.529 --> 00:36:53.969] GOWRON: Did you really think you would get away with this kind of fraud, Koroth?
+[00:36:54.369 --> 00:36:56.929] GOWRON: I will have you and this abomination put to death.
+[00:36:57.089 --> 00:36:58.609] WORF: It does not matter, Gowron.
+[00:36:59.169 --> 00:37:01.649] WORF: You will still not be able to stand against him.
+[00:37:01.889 --> 00:37:02.369] GOWRON: What?
+[00:37:03.329 --> 00:37:04.129] GOWRON: He's not real.
+[00:37:04.129 --> 00:37:05.249] GOWRON: You just said so.
+[00:37:05.249 --> 00:37:11.969] WORF: I said he was not the Kahless, but in the minds of our people he can be just as powerful as Kahless.
+[00:37:12.289 --> 00:37:17.809] WORF: Even now, two members of your own crew are sitting on our Holodeck waiting for him to return.
+[00:37:18.209 --> 00:37:20.216] GOWRON: I do not care what they think.
+[00:37:20.216 --> 00:37:21.649] WORF: But hey are not alone.
+[00:37:22.289 --> 00:37:26.369] WORF: Like many of our people, they need something to believe in, just like I did.
+[00:37:26.689 --> 00:37:28.929] WORF: Something larger than themselves,
+[00:37:28.929 --> 00:37:30.529] WORF: something that will give their lives meaning.
+[00:37:30.929 --> 00:37:32.609] WORF: They need Kahless.
+[00:37:32.689 --> 00:37:34.602] GOWRON: But when they find out the truth?
+[00:37:34.602 --> 00:37:35.969] WORF: It will not matter, Gowron.
+[00:37:36.769 --> 00:37:39.729] WORF: Despite the facts, they will still believe.
+[00:37:40.529 --> 00:37:45.249] WORF: They will make a leap of faith and there will be others just like them.
+[00:37:45.969 --> 00:37:46.529] WORF: Not everyone,
+[00:37:47.300 --> 00:37:49.700] WORF: but enough to plunge the Empire into civil war
+[00:37:49.700 --> 00:37:50.860] WORF: if you oppose them.
+[00:37:50.860 --> 00:37:52.020] GOWRON: What are you saying?
+[00:37:52.660 --> 00:37:54.740] GOWRON: That I should just hand over the Empire?
+[00:37:55.380 --> 00:37:57.700] WORF: No, that would be unwise as well.
+[00:37:58.580 --> 00:38:00.740] KOROTH: Then what are you proposing, Worf?
+[00:38:03.940 --> 00:38:05.700] WORF: You were right about one thing, Koroth.
+[00:38:06.820 --> 00:38:09.620] WORF: Our people are becoming decadent and corrupt.
+[00:38:11.140 --> 00:38:12.980] WORF: They need moral leadership.
+[00:38:14.340 --> 00:38:16.020] WORF: Kahless can be that leader,
+[00:38:17.940 --> 00:38:18.820] WORF: as Emperor.
+[00:38:18.820 --> 00:38:22.340] GOWRON: There hasn't been an Emperor in three centuries!
+[00:38:22.660 --> 00:38:25.540] WORF: The political power will remain with the High Council.
+[00:38:25.940 --> 00:38:35.060] WORF: Kahless would be a figurehead, but he will have the ability to rally the people, to lead by example, to guide them in spiritual matters.
+[00:38:35.540 --> 00:38:38.740] KOROTH: The title is meaningless without the power to back it up.
+[00:38:40.580 --> 00:38:43.060] WORF: Real power comes from within the heart.
+[00:38:44.180 --> 00:38:46.740] WORF: You would have the power to mold the Klingon heart.
+[00:38:47.300 --> 00:38:52.580] WORF: You could return them to honourable ways according to the original teachings of Kahless which are within you.
+[00:38:53.460 --> 00:38:58.420] WORF: It would be a great challenge, if you have the courage to accept it.
+[00:38:58.900 --> 00:39:01.460] GOWRON: And what will we tell the people about their new Emperor?
+[00:39:02.260 --> 00:39:05.700] GOWRON: That he appeared in a cave or a laboratory?
+[00:39:06.420 --> 00:39:07.780] WORF: We will tell them the truth.
+[00:39:12.100 --> 00:39:13.460] WORF: All of the truth.
+[00:39:14.100 --> 00:39:19.620] WORF: But we will tell them that even if he is not the real Kahless, he is the rightful heir to Kahless.
+[00:39:20.149 --> 00:39:22.834] GOWRON: And if I refuse to go along with this?
+[00:39:22.834 --> 00:39:31.189] WORF: Then my brother and those who support him on the Council will fight you, and I will fight you. And the Empire will fall back into civil war.
+[00:39:35.749 --> 00:39:37.109] GOWRON: What do you say about this, Koroth?
+[00:39:38.389 --> 00:39:39.989] KOROTH: What I say is unimportant.
+[00:39:45.829 --> 00:39:47.109] KAHLESS: It is acceptable.
+[00:40:01.029 --> 00:40:04.149] KAHLESS: Join with me, Gowron.
+[00:40:05.509 --> 00:40:08.069] KAHLESS: Let us usher in this new era together.
+[00:40:12.709 --> 00:40:13.349] GOWRON: Vorcha
+[00:40:15.109 --> 00:40:15.829] GOWRON: doh
+[00:40:17.749 --> 00:40:17.749] GOWRON: bagh
+[00:40:24.309 --> 00:40:25.429] GOWRON: Kahless.
+[00:40:35.669 --> 00:40:36.469] KAHLESS: Farewell, Worf.
+[00:40:37.909 --> 00:40:38.309] WORF: Goodbye.
+[00:40:40.229 --> 00:40:41.109] KAHLESS: What's wrong?
+[00:40:42.309 --> 00:40:44.469] KAHLESS: You should be proud of what you've accomplished.
+[00:40:50.206 --> 00:40:53.646] WORF: I went to Boreth to find my faith.
+[00:40:55.406 --> 00:40:56.606] WORF: For a time I thought I had.
+[00:40:58.606 --> 00:41:00.206] WORF: But my heart is empty again.
+[00:41:00.206 --> 00:41:00.446] WORF: I
+[00:41:03.166 --> 00:41:04.526] WORF: do not know what to believe.
+[00:41:05.566 --> 00:41:08.366] KAHLESS: You doubt the real Kahless will return one day.
+[00:41:09.326 --> 00:41:12.126] KAHLESS: You doubt that he is still waiting for you in Sto-Vo-Kor.
+[00:41:17.726 --> 00:41:27.726] KAHLESS: Kahless left us. all of us, a powerful legacy. A way of thinking and acting that makes us Klingon.
+[00:41:29.086 --> 00:41:35.806] KAHLESS: If his words hold wisdom and his philosophy is honourable, what does it really matter if he returns?
+[00:41:37.326 --> 00:41:40.766] KAHLESS: What is important is that we follow his teachings.
+[00:41:42.366 --> 00:41:46.366] KAHLESS: Perhaps the words are more important than the man.
+[00:41:51.486 --> 00:41:53.646] KAHLESS: Q'apla, son of Mogh.
+[00:41:57.406 --> 00:42:00.366] WORF: Q'apla Kahless.
+[00:42:16.000 --> 00:42:31.000] [music]
+[00:42:52.000 --> 00:43:01.000] [music]

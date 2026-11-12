@@ -1,0 +1,617 @@
+[00:00:02.960 --> 00:00:05.760] LOG: Captain's Log: Stardate 44246.3 We're
+[00:00:06.320 --> 00:00:11.680] LOG: investigating radiation anomalies reported in the Gamma Arigulon system by the starship LaSalle.
+[00:00:12.080 --> 00:00:14.000] LOG: Preliminary readings are inconclusive.
+[00:00:15.120 --> 00:00:15.520] RIKER: Mister Data?
+[00:00:16.560 --> 00:00:17.440] DATA: No changes, Commander.
+[00:00:17.920 --> 00:00:20.480] DATA: I can detect no abnormalities in the star's radiant energy.
+[00:00:21.520 --> 00:00:22.560] PICARD: Prepare two class one probes.
+[00:00:24.400 --> 00:00:25.280] DATA: Probes ready, Captain.
+[00:00:25.840 --> 00:00:26.800] PICARD: Initiate launch sequence.
+[00:00:28.960 --> 00:00:29.280] WORF: Captain,
+[00:00:30.000 --> 00:00:31.520] WORF: Klingon attack cruiser de-cloaking,
+[00:00:31.920 --> 00:00:32.960] WORF: bearing zero one zero
+[00:00:33.440 --> 00:00:34.320] WORF: mark two three seven.
+[00:00:34.640 --> 00:00:35.600] PICARD: Belay that order, Mister Data.
+[00:00:36.000 --> 00:00:38.080] RIKER: Did Starfleet mention any Klingon ships in this sector?
+[00:00:39.840 --> 00:00:40.320] PICARD: On screen.
+[00:00:44.000 --> 00:00:44.800] WORF: We are being hailed.
+[00:00:45.280 --> 00:00:46.320] RIKER: All stop, Mister Crusher.
+[00:00:46.880 --> 00:00:47.280] WESLEY: Aye, sir.
+[00:00:47.360 --> 00:00:47.920] WESLEY: All stop.
+[00:00:48.640 --> 00:00:49.200] PICARD: Open a channel.
+[00:00:52.240 --> 00:00:53.360] K'EHLEYR: Hello, Captain Picard.
+[00:00:54.400 --> 00:00:55.200] PICARD: Ambassador K'Ehleyr.
+[00:00:56.800 --> 00:00:58.080] PICARD: This is an unexpected pleasure.
+[00:00:58.800 --> 00:01:00.160] K'EHLEYR: It's good to see you again, Captain.
+[00:01:01.680 --> 00:01:02.400] K'EHLEYR: Lieutenant Worf.
+[00:01:04.080 --> 00:01:05.440] PICARD: How may we be of assistance, Ambassador?
+[00:01:06.000 --> 00:01:08.320] K'EHLEYR: There is an urgent matter we must discuss, Captain.
+[00:01:08.320 --> 00:01:09.280] K'EHLEYR: Permission to come aboard?
+[00:01:09.760 --> 00:01:10.240] PICARD: Granted.
+[00:01:12.560 --> 00:01:13.920] PICARD: Lieutenant, please receive our guest.
+[00:01:16.720 --> 00:01:17.040] WORF: Captain,
+[00:01:19.120 --> 00:01:21.680] WORF: I must request permission to send another officer.
+[00:01:23.040 --> 00:01:23.760] PICARD: May I know your reason?
+[00:01:26.400 --> 00:01:27.040] WORF: My dishonour
+[00:01:27.280 --> 00:01:29.680] WORF: among Klingons may offend Ambassador K'Ehleyr.
+[00:01:32.520 --> 00:01:38.040] PICARD: Lieutenant, you are a member of this crew, and you will not go into hiding whenever a Klingon ship uncloaks.
+[00:01:39.880 --> 00:01:41.160] WORF: I withdraw my request, sir.
+[00:01:47.480 --> 00:01:48.760] CHIEF: I just received coordinates, sir.
+[00:01:48.920 --> 00:01:50.840] CHIEF: Ready to transport two from the Klingon vessel.
+[00:01:52.760 --> 00:01:53.000] WORF: Two?
+[00:01:53.640 --> 00:01:53.960] CHIEF: Yes, sir.
+[00:01:55.800 --> 00:01:56.360] WORF: Energise.
+[00:02:40.360 --> 00:02:42.920] PICARD: Space, the final frontier.
+[00:02:44.840 --> 00:02:47.720] PICARD: These are the voyages of the starship Enterprise.
+[00:02:48.840 --> 00:02:52.200] PICARD: Its continuing mission to explore strange new worlds,
+[00:02:54.040 --> 00:02:55.480] PICARD: to seek out new life and
+[00:02:55.598 --> 00:02:56.798] PICARD: New civilizations.
+[00:02:56.798 --> 00:02:56.878] PICARD: To
+[00:02:58.638 --> 00:03:01.358] PICARD: boldly go where no one has gone before.
+[00:03:52.000 --> 00:04:00.000] [music]
+[00:04:10.718 --> 00:04:13.678] K'EHLEYR: I hope he'll be all right.
+[00:04:14.238 --> 00:04:16.398] K'EHLEYR: Alexander hasn't had much contact with other children.
+[00:04:30.102 --> 00:04:34.262] K'EHLEYR: Not even a bite on the cheek for old time's sake?
+[00:04:37.702 --> 00:04:39.622] WORF: Perhaps you're not aware of my dishonour.
+[00:04:40.502 --> 00:04:41.302] WORF: I have accepted
+[00:04:42.822 --> 00:04:43.542] WORF: discommendation.
+[00:04:43.862 --> 00:04:44.422] K'EHLEYR: I've heard.
+[00:04:45.142 --> 00:04:45.782] K'EHLEYR: So now what?
+[00:04:45.782 --> 00:04:48.422] K'EHLEYR: I have to perform some ridiculous ritual to talk to you?
+[00:04:51.222 --> 00:04:52.982] WORF: You may not respect our traditions,
+[00:04:54.822 --> 00:04:55.462] WORF: but I do.
+[00:04:56.502 --> 00:04:59.542] K'EHLEYR: Sorry. I just thought you might want to talk.
+[00:05:01.302 --> 00:05:03.942] K'EHLEYR: A few minutes ago, you looked like someone with a question to ask.
+[00:05:07.222 --> 00:05:08.742] WORF: Must I ask the question?
+[00:05:12.342 --> 00:05:14.342] K'EHLEYR: Yes, you must.
+[00:05:20.822 --> 00:05:23.222] K'EHLEYR: What should I tell Alexander? That he has no father?
+[00:05:31.622 --> 00:05:33.702] K'EHLEYR: The Klingon Empire is at a critical juncture.
+[00:05:34.022 --> 00:05:35.542] K'EHLEYR: We may be facing civil war.
+[00:05:36.182 --> 00:05:36.902] RIKER: War over what?
+[00:05:37.302 --> 00:05:41.942] K'EHLEYR: The usual excuses. Tradition, duty, honour.
+[00:05:43.142 --> 00:05:46.422] DATA: The word excuses implies ulterior motives for a conflict.
+[00:05:46.902 --> 00:05:49.782] K'EHLEYR: I won't bore you with the intricacies of Klingon politics.
+[00:05:50.262 --> 00:05:52.742] K'EHLEYR: Basically, two factions are trying to seize
+[00:05:52.745 --> 00:05:53.225] K'EHLEYR: power.
+[00:05:53.785 --> 00:05:56.025] PICARD: Do you believe there is a threat to the Federation in this struggle?
+[00:05:57.065 --> 00:05:59.385] K'EHLEYR: Klingon wars seldom remain confined to the Empire.
+[00:05:59.545 --> 00:06:04.025] K'EHLEYR: Sooner or later they'll drag in the neighbouring star systems, then the Tholians, the Ferengi.
+[00:06:04.585 --> 00:06:06.585] K'EHLEYR: The Federation won't be able to stay out of it for long.
+[00:06:07.545 --> 00:06:09.145] K'EHLEYR: This has been coming for some time.
+[00:06:09.465 --> 00:06:12.505] K'EHLEYR: Only K'mpec, the head of the Council, has been able to maintain the peace.
+[00:06:13.465 --> 00:06:14.825] TROI: Now something has changed that.
+[00:06:15.465 --> 00:06:16.025] K'EHLEYR: Correct.
+[00:06:16.985 --> 00:06:18.185] K'EHLEYR: K'mpec is dying.
+[00:06:19.385 --> 00:06:20.505] K'EHLEYR: He is aboard the cruiser.
+[00:06:21.385 --> 00:06:23.625] K'EHLEYR: He has come specifically to meet with you, Captain.
+[00:06:24.345 --> 00:06:24.905] K'EHLEYR: Alone.
+[00:06:38.265 --> 00:06:42.265] K'MPEC: It's about time you arrived, Picard.
+[00:06:44.665 --> 00:06:45.065] K'MPEC: Sit.
+[00:07:04.985 --> 00:07:04.985] K'MPEC: I
+[00:07:10.665 --> 00:07:11.305] K'MPEC: need your help.
+[00:07:12.585 --> 00:07:15.065] PICARD: If the Enterprise medical facility can do anything to help.
+[00:07:15.225 --> 00:07:15.865] K'MPEC: Too late.
+[00:07:17.385 --> 00:07:22.345] K'MPEC: For some months I have been poisoned with small doses
+[00:07:23.276 --> 00:07:26.316] K'MPEC: of Veridium six. The wine.
+[00:07:30.556 --> 00:07:31.356] K'MPEC: There is no cure.
+[00:07:35.756 --> 00:07:36.476] PICARD: What do you want of me?
+[00:07:38.076 --> 00:07:44.156] K'MPEC: After I die, you will act in my name to arbitrate the struggle for power.
+[00:07:46.476 --> 00:07:46.796] PICARD: I will?
+[00:07:47.756 --> 00:07:50.556] K'MPEC: No one on the Council can be trusted, and
+[00:07:52.716 --> 00:07:55.516] K'MPEC: I have my reasons for wanting
+[00:07:56.796 --> 00:07:57.676] K'MPEC: an outsider.
+[00:07:57.676 --> 00:08:00.316] PICARD: K'mpec, you cannot possibly be serious.
+[00:08:00.466 --> 00:08:01.066] PICARD: A
+[00:08:02.236 --> 00:08:05.047] PICARD: Federation officer has no business in
+[00:08:05.047 --> 00:08:05.516] K'MPEC: Nonsense.
+[00:08:07.676 --> 00:08:10.076] K'MPEC: You are an accomplished mediator.
+[00:08:11.276 --> 00:08:16.636] K'MPEC: This is no different than any other dispute requiring your services.
+[00:08:17.356 --> 00:08:19.356] PICARD: On the contrary, I think this is very different.
+[00:08:20.956 --> 00:08:23.516] PICARD: And I must respectfully decline.
+[00:08:24.236 --> 00:08:35.756] K'MPEC: If you refuse the dying request of the Klingon Supreme Commander it will be a insult by the Federation to all Klingons.
+[00:08:36.716 --> 00:08:40.236] K'MPEC: Besides, I've already sent the order to
+[00:08:41.116 --> 00:08:43.996] K'MPEC: the leaders of the two opposing factions. They're on their way.
+[00:08:44.476 --> 00:08:47.116] PICARD: You had no right to involve me without my permission.
+[00:08:47.756 --> 00:08:48.796] K'MPEC: If I'd asked,
+[00:08:50.316 --> 00:08:51.436] K'MPEC: you would have said no.
+[00:08:56.677 --> 00:09:00.357] PICARD: This is not a case of simple mediation.
+[00:09:02.357 --> 00:09:07.077] PICARD: You are asking me to choose the next leader of the Klingon Empire.
+[00:09:07.477 --> 00:09:08.757] K'MPEC: No.
+[00:09:10.277 --> 00:09:10.757] K'MPEC: By tradition,
+[00:09:12.277 --> 00:09:17.477] K'MPEC: the two strongest challengers fight for the right of succession.
+[00:09:19.077 --> 00:09:24.277] K'MPEC: As mediator, only you can designate those challengers.
+[00:09:25.397 --> 00:09:28.677] PICARD: But you have just said there are only two challengers arriving.
+[00:09:29.077 --> 00:09:29.717] PICARD: What is the point?
+[00:09:31.077 --> 00:09:36.517] K'MPEC: I want you to discover which one of them has killed me.
+[00:09:38.037 --> 00:09:38.517] K'MPEC: Gowron
+[00:09:40.037 --> 00:09:41.077] K'MPEC: or Duras. Yes,
+[00:09:42.517 --> 00:09:42.997] K'MPEC: Duras. I
+[00:09:42.997 --> 00:09:44.197] K'MPEC: thought
+[00:09:46.517 --> 00:09:48.757] K'MPEC: you would find that interesting.
+[00:09:51.477 --> 00:09:52.197] PICARD: Interesting?
+[00:09:57.157 --> 00:10:05.797] PICARD: You could say that, since he tried to have me killed, and conspired to strip Worf of his good name.
+[00:10:06.517 --> 00:10:10.197] K'MPEC: And I approved. All
+[00:10:12.997 --> 00:10:16.357] K'MPEC: for the glory of the Empire.
+[00:10:18.037 --> 00:10:21.237] K'MPEC: That should be my epitaph.
+[00:10:24.791 --> 00:10:25.351] K'MPEC: Find
+[00:10:26.151 --> 00:10:26.951] K'MPEC: the assassin. The
+[00:10:28.791 --> 00:10:33.111] K'MPEC: Klingon who kills without showing his face has no honour.
+[00:10:33.911 --> 00:10:37.751] K'MPEC: He must not lead the Empire. Such a man
+[00:10:38.551 --> 00:10:41.031] K'MPEC: would be capable of anything.
+[00:10:42.791 --> 00:10:45.671] K'MPEC: Even war with the Federation.
+[00:10:50.711 --> 00:10:52.871] PICARD: Very well.
+[00:10:53.351 --> 00:10:53.751] PICARD: I accept.
+[00:11:09.191 --> 00:11:10.391] LOG: Captain's log, supplemental.
+[00:11:10.951 --> 00:11:14.791] LOG: K'mpec, who ruled the Klingon Empire longer than anyone in history, is dead.
+[00:11:15.511 --> 00:11:19.351] LOG: We await the arrival of Duras and Gowron, rivals for the leadership of the High Council.
+[00:11:33.911 --> 00:11:35.831] WORF: There is no honour in attacking the weak.
+[00:11:36.631 --> 00:11:37.431] ALEXANDER: I would have won.
+[00:11:38.631 --> 00:11:40.951] WORF: No. You must earn victory.
+[00:11:46.871 --> 00:11:48.391] ALEXANDER: Where are the other Klingons?
+[00:11:48.631 --> 00:11:50.151] WORF: There are no others on board.
+[00:11:50.551 --> 00:11:51.031] ALEXANDER: Why?
+[00:11:51.751 --> 00:11:54.551] WORF: The Federation and the Klingon Empire were enemies for many years.
+[00:11:54.951 --> 00:11:57.511] WORF: No other Klingons have asked to serve in Starfleet.
+[00:11:57.831 --> 00:11:58.311] ALEXANDER: Why?
+[00:11:59.128 --> 00:12:01.448] WORF: A warrior does not ask so many questions.
+[00:12:01.928 --> 00:12:03.608] ALEXANDER: I don't want to be a warrior.
+[00:12:10.968 --> 00:12:11.928] K'EHLEYR: Hello!
+[00:12:13.368 --> 00:12:14.568] K'EHLEYR: Well, you're back early.
+[00:12:15.688 --> 00:12:16.728] ALEXANDER: He made me leave.
+[00:12:17.848 --> 00:12:18.248] K'EHLEYR: Maybe
+[00:12:18.888 --> 00:12:20.568] K'EHLEYR: you should go to your room and play.
+[00:12:25.048 --> 00:12:26.168] K'EHLEYR: Is he under arrest?
+[00:12:28.568 --> 00:12:30.488] WORF: He knows nothing of our ways!
+[00:12:30.728 --> 00:12:31.768] K'EHLEYR: Our ways?
+[00:12:32.488 --> 00:12:33.768] K'EHLEYR: You mean Klingon ways, don't you?
+[00:12:34.008 --> 00:12:35.128] WORF: He is Klingon!
+[00:12:35.128 --> 00:12:38.248] K'EHLEYR: He is also my son and I am half-human.
+[00:12:38.408 --> 00:12:40.248] K'EHLEYR: He will find his own ways.
+[00:12:41.128 --> 00:12:42.248] K'EHLEYR: Why the sudden concern?
+[00:12:42.568 --> 00:12:44.248] K'EHLEYR: You won't even acknowledge that he's yours.
+[00:12:45.448 --> 00:12:46.488] WORF: Why did you not tell me?
+[00:12:46.568 --> 00:12:47.848] K'EHLEYR: What would you have done?
+[00:12:50.488 --> 00:12:50.968] K'EHLEYR: That's right.
+[00:12:51.688 --> 00:12:56.168] K'EHLEYR: You would have insisted that we take the oath, just as tradition would demand.
+[00:12:57.688 --> 00:12:59.688] WORF: You should not have kept this from me.
+[00:13:01.608 --> 00:13:01.848] K'EHLEYR: Well,
+[00:13:04.328 --> 00:13:04.888] K'EHLEYR: now you know.
+[00:13:11.288 --> 00:13:14.008] WORF: I cannot acknowledge my relationship to the boy.
+[00:13:15.368 --> 00:13:16.488] WORF: It would only harm him.
+[00:13:16.968 --> 00:13:18.088] K'EHLEYR: Because you were dishonoured?
+[00:13:18.648 --> 00:13:21.528] WORF: As my son, he would also bear my disgrace,
+[00:13:21.928 --> 00:13:23.368] WORF: as would his children.
+[00:13:23.928 --> 00:13:27.288] K'EHLEYR: Why did you accept discommendation from the High Council?
+[00:13:28.491 --> 00:13:32.091] WORF: My father was accused of collaborating with the Romulans at Khitomer.
+[00:13:32.251 --> 00:13:35.531] K'EHLEYR: I know. And I also know that you challenged it.
+[00:13:35.931 --> 00:13:37.131] WORF: Yes at first.
+[00:13:37.611 --> 00:13:39.211] WORF: Ultimately I withdrew my challenge.
+[00:13:39.371 --> 00:13:40.091] K'EHLEYR: But why, Worf?
+[00:13:40.091 --> 00:13:42.011] K'EHLEYR: I can't believe you'd just give up.
+[00:13:42.251 --> 00:13:43.691] K'EHLEYR: What really happened?
+[00:13:43.851 --> 00:13:46.811] RIKER: Lieutenant Worf, Ambassador K'Ehleyr, report to the Bridge.
+[00:13:47.611 --> 00:13:48.411] WORF: On our way, Commander.
+[00:14:02.731 --> 00:14:06.411] WESLEY: Klingon vessels Vorn and Buruk holding stations at thirteen kilometres.
+[00:14:06.971 --> 00:14:08.011] PICARD: Open a channel, Mister Data.
+[00:14:08.011 --> 00:14:09.771] DATA: Channel is open, sir.
+[00:14:10.251 --> 00:14:11.371] DATA: Vorn responding to hail.
+[00:14:12.571 --> 00:14:12.971] PICARD: On screen.
+[00:14:15.371 --> 00:14:16.651] DURAS: Let's get this over with, Picard.
+[00:14:16.801 --> 00:14:17.401] PICARD: In
+[00:14:19.371 --> 00:14:20.411] PICARD: good time, Duras.
+[00:14:21.371 --> 00:14:24.171] DURAS: Even in death, K'mpec makes foolish decisions.
+[00:14:24.891 --> 00:14:26.571] DURAS: You should not be involved in this, human.
+[00:14:27.291 --> 00:14:31.211] PICARD: The Sonchi ceremony will take place in one hour aboard K'mpec's ship.
+[00:14:31.611 --> 00:14:32.091] DURAS: One hour?
+[00:14:32.411 --> 00:14:33.371] DURAS: What is the delay?
+[00:14:34.011 --> 00:14:34.731] PICARD: There is no delay.
+[00:14:35.531 --> 00:14:36.811] PICARD: It is the time I have chosen.
+[00:14:38.731 --> 00:14:40.491] DURAS: Exactly one hour, Picard.
+[00:14:41.051 --> 00:14:41.771] DURAS: Do not be late.
+[00:14:43.851 --> 00:14:46.171] DURAS: Keep that pahtk away from the ceremony, Picard.
+[00:14:46.971 --> 00:14:48.971] DURAS: He has no place on a Klingon ship.
+[00:14:49.531 --> 00:14:49.931] PICARD: Picard out.
+[00:14:52.971 --> 00:14:54.011] PICARD: Contact Gowron's ship.
+[00:14:54.411 --> 00:14:55.931] PICARD: Tell him to meet us aboard K'mpec's vessel.
+[00:14:57.131 --> 00:15:00.171] PICARD: Ambassador, meet me in Transporter room six in an hour.
+[00:15:01.040 --> 00:15:03.520] PICARD: We will begin the ceremony a little late. Mister Worf.
+[00:15:12.080 --> 00:15:14.800] PICARD: Worf, the next few days will be difficult for you
+[00:15:15.840 --> 00:15:18.400] WORF: You have made it clear that I am to perform my regular duties, sir.
+[00:15:18.400 --> 00:15:22.480] PICARD: I want you to know that I am aware of your discomfort.
+[00:15:24.800 --> 00:15:25.280] WORF: Thank you, sir.
+[00:15:27.680 --> 00:15:31.920] PICARD: Ambassador K'Ehleyr will be preparing me for my role in the rite of succession.
+[00:15:32.080 --> 00:15:33.440] WORF: Permission to speak freely, sir?
+[00:15:35.280 --> 00:15:35.680] PICARD: Granted.
+[00:15:37.040 --> 00:15:40.000] WORF: Duras must not be allowed to lead the council.
+[00:15:41.360 --> 00:15:42.800] PICARD: He has a legal claim, Mister Worf.
+[00:15:44.080 --> 00:15:45.520] PICARD: Your personal feelings toward him
+[00:15:45.520 --> 00:15:46.960] WORF: It is not personal, sir.
+[00:15:47.760 --> 00:15:50.000] WORF: His father betrayed my people to the Romulans.
+[00:15:50.160 --> 00:15:51.440] WORF: Duras is a traitor.
+[00:15:54.000 --> 00:15:57.600] PICARD: Klingon tradition may hold the son responsible for his father's sin.
+[00:15:57.840 --> 00:15:58.480] PICARD: I cannot, Worf.
+[00:15:59.200 --> 00:16:00.800] PICARD: Treason was his father's crime.
+[00:16:01.680 --> 00:16:02.720] PICARD: Duras' crime
+[00:16:03.120 --> 00:16:05.200] PICARD: was to lay that blame on your father.
+[00:16:06.400 --> 00:16:07.280] PICARD: I will not forget that.
+[00:16:08.160 --> 00:16:14.160] PICARD: But you should not forget that you chose to accept the consequences of that lie.
+[00:16:14.160 --> 00:16:15.760] WORF: To preserve the Empire.
+[00:16:19.360 --> 00:16:24.596] PICARD: The issue now is whether or not he killed K'mpec.
+[00:16:24.596 --> 00:16:25.120] WORF: Sir?
+[00:16:26.560 --> 00:16:27.040] PICARD: He was murdered.
+[00:16:28.543 --> 00:16:29.023] PICARD: Poisoned.
+[00:16:39.423 --> 00:16:41.503] WORF: A Klingon would not use poison.
+[00:16:44.943 --> 00:16:46.303] WORF: His murder would have no honour.
+[00:16:47.023 --> 00:16:50.063] PICARD: K'mpec believed that it was either Duras or Gowron.
+[00:16:53.263 --> 00:16:54.623] WORF: Well, I know little of Gowron.
+[00:16:55.103 --> 00:16:57.983] WORF: Only that he is an outsider who has often challenged the Council.
+[00:16:58.303 --> 00:16:59.023] WORF: But Duras?
+[00:17:01.183 --> 00:17:02.303] WORF: I know him.
+[00:17:07.503 --> 00:17:09.503] WORF: His heart is not Klingon.
+[00:17:23.343 --> 00:17:24.063] K'EHLEYR: That's Gowron.
+[00:17:28.063 --> 00:17:29.103] PICARD: I hope this will be brief.
+[00:17:30.143 --> 00:17:32.783] K'EHLEYR: It will be just long enough to prove that K'mpec is dead.
+[00:17:50.143 --> 00:17:50.943] PICARD: Qab jIH nagil
+[00:18:00.585 --> 00:18:02.025] GOWRON: Qab jIH nagil!
+[00:18:04.265 --> 00:18:05.545] DURAS: Qab jiH nagil!
+[00:18:29.545 --> 00:18:30.105] K'EHLEYR: Sonchi.
+[00:18:34.585 --> 00:18:38.665] DURAS: Now, complete the Rite of Succession.
+[00:18:39.625 --> 00:18:41.145] DURAS: It's obvious who the two challengers are.
+[00:18:41.945 --> 00:18:46.425] PICARD: We will proceed according to the traditions and the precedents set down in Klingon law.
+[00:18:46.985 --> 00:18:48.585] GOWRON: What do you know of Klingon law,
+[00:18:51.945 --> 00:18:52.345] GOWRON: human?
+[00:18:53.545 --> 00:18:54.825] PICARD: We will reconvene on the Enterprise,
+[00:18:54.985 --> 00:18:55.305] PICARD: wherein
+[00:18:55.305 --> 00:18:55.625] DURAS: No!
+[00:18:55.785 --> 00:18:57.385] DURAS: Finish it here, now!
+[00:18:58.185 --> 00:18:58.185] WORF: I
+[00:19:05.625 --> 00:19:05.785] WORF: have
+[00:19:16.425 --> 00:19:18.665] WORF: not received your report on the explosion.
+[00:19:19.785 --> 00:19:20.905] K'EHLEYR: Two Klingons killed.
+[00:19:21.465 --> 00:19:23.225] K'EHLEYR: A few minor injuries.
+[00:19:24.491 --> 00:19:25.611] K'EHLEYR: Were you concerned about me?
+[00:19:26.731 --> 00:19:30.331] WORF: As Head of Security, it is my duty to be concerned.
+[00:19:30.811 --> 00:19:31.451] K'EHLEYR: Is that it?
+[00:19:31.691 --> 00:19:34.091] K'EHLEYR: Just official concern for my well being?
+[00:19:35.851 --> 00:19:36.811] WORF: You know my feelings.
+[00:19:39.451 --> 00:19:40.491] K'EHLEYR: Maybe I've forgotten.
+[00:19:44.251 --> 00:19:44.731] WORF: You were right.
+[00:19:46.251 --> 00:19:52.251] WORF: I would have insisted we take the oath. But not just because of tradition.
+[00:19:54.011 --> 00:19:57.371] K'EHLEYR: I thought about telling you. Wanted to tell you.
+[00:19:58.891 --> 00:19:59.771] K'EHLEYR: But I wasn't ready.
+[00:20:02.091 --> 00:20:06.091] K'EHLEYR: When I left, you said you'd never be complete without me.
+[00:20:07.451 --> 00:20:10.891] K'EHLEYR: It took some time but, I came to realise
+[00:20:12.491 --> 00:20:13.611] K'EHLEYR: I need you too.
+[00:20:17.771 --> 00:20:18.891] K'EHLEYR: You're part of me, Worf.
+[00:20:33.291 --> 00:20:34.331] WORF: jIH dok.
+[00:20:37.531 --> 00:20:38.091] K'EHLEYR: maj dok.
+[00:20:38.171 --> 00:20:38.171] WORF: No,
+[00:20:41.419 --> 00:20:43.419] WORF: I
+[00:20:46.667 --> 00:20:48.667] WORF: cannot
+[00:20:51.291 --> 00:20:53.131] WORF: allow you to suffer my humiliation.
+[00:20:53.451 --> 00:20:54.731] K'EHLEYR: There would be no suffering
+[00:20:54.811 --> 00:20:56.891] K'EHLEYR: I don't care what other Klingons think of you.
+[00:20:56.971 --> 00:20:57.691] WORF: But what of the boy?
+[00:20:58.951 --> 00:21:00.951] WORF: He may want to live in the Empire someday.
+[00:21:00.951 --> 00:21:00.951] WORF: He would be an
+[00:21:03.191 --> 00:21:06.631] WORF: outcast. Another traitor from a family of traitors.
+[00:21:06.871 --> 00:21:07.591] K'EHLEYR: Family of traitors.
+[00:21:07.591 --> 00:21:09.271] K'EHLEYR: I don't believe that for a minute.
+[00:21:14.871 --> 00:21:16.711] WORF: Respect my wishes in this matter.
+[00:21:18.311 --> 00:21:20.471] WORF: I cannot take the oath with you.
+[00:21:24.071 --> 00:21:24.871] WORF: Nor can I claim
+[00:21:28.391 --> 00:21:28.631] WORF: your son.
+[00:21:31.591 --> 00:21:32.951] K'EHLEYR: If you cannot be his father,
+[00:21:35.671 --> 00:21:36.391] K'EHLEYR: at least be his friend.
+[00:21:46.551 --> 00:21:51.751] PICARD: We haven't completed our analysis of the bomb debris. Doctor Crusher is still studying the remains of the two men killed in the explosion.
+[00:21:51.751 --> 00:21:52.471] PICARD: We need more time.
+[00:21:53.191 --> 00:21:55.031] K'EHLEYR: Duras and Gowron will be here in a few minutes.
+[00:21:55.111 --> 00:21:56.871] K'EHLEYR: I don't think you can delay this meeting again.
+[00:21:57.431 --> 00:22:00.871] PICARD: Is there some way of stretching out the formalities once they arrive?
+[00:22:01.751 --> 00:22:06.471] K'EHLEYR: In the modern Rite of Succession, only a brief proclamation that two challengers have been chosen is necessary.
+[00:22:07.431 --> 00:22:08.551] PICARD: You said modern rite.
+[00:22:09.111 --> 00:22:10.551] PICARD: How was the ritual performed in the past?
+[00:22:11.511 --> 00:22:14.391] K'EHLEYR: The old forms dictated that the challengers perform the ja'chuq.
+[00:22:14.871 --> 00:22:20.391] K'EHLEYR: It's a long, involved ceremony where the challengers list the battles they've won, the prizes they've taken,
+[00:22:20.391 --> 00:22:22.711] K'EHLEYR: the idea being to prove their worthiness to lead the Council.
+[00:22:24.360 --> 00:22:25.720] PICARD: Can the old form still be used?
+[00:22:27.240 --> 00:22:27.800] K'EHLEYR: It's up to you.
+[00:22:28.360 --> 00:22:29.800] K'EHLEYR: You can use whatever form you want.
+[00:22:31.640 --> 00:22:32.040] PICARD: Thank you.
+[00:22:37.240 --> 00:22:37.640] K'EHLEYR: Captain,
+[00:22:38.920 --> 00:22:40.760] K'EHLEYR: what do you know about Worf's discommendation?
+[00:22:41.720 --> 00:22:42.760] K'EHLEYR: My interest is personal.
+[00:22:43.000 --> 00:22:44.680] K'EHLEYR: I understand that you were there.
+[00:22:45.000 --> 00:22:46.680] K'EHLEYR: You stood by him before the Council.
+[00:22:47.720 --> 00:22:48.680] K'EHLEYR: I'd like to know what happened.
+[00:22:49.720 --> 00:22:50.840] PICARD: I'm sorry, I can't discuss
+[00:22:52.360 --> 00:22:54.360] PICARD: it.
+[00:22:54.510 --> 00:22:55.110] DURAS: The
+[00:23:04.120 --> 00:23:05.800] DURAS: Council must have a leader now!
+[00:23:06.760 --> 00:23:09.160] DURAS: Complete the rite so I can kill this ha'DIbah.
+[00:23:09.880 --> 00:23:14.440] GOWRON: You will die slowly, Duras.
+[00:23:15.000 --> 00:23:17.720] DURAS: You have already proved you don't have the courage to face me.
+[00:23:18.760 --> 00:23:20.280] DURAS: Perhaps you should plant another bomb!
+[00:23:20.680 --> 00:23:21.480] PICARD: mev
+[00:23:21.880 --> 00:23:22.920] PICARD: yap!
+[00:23:25.480 --> 00:23:25.800] PICARD: Sit down.
+[00:23:41.800 --> 00:23:43.480] PICARD: We will begin the ja'chuq.
+[00:23:44.360 --> 00:23:44.600] GOWRON: What?
+[00:23:45.240 --> 00:23:47.480] DURAS: This woman has been giving you bad advice, Picard.
+[00:23:48.120 --> 00:23:49.640] DURAS: The ja'chuq is obsolete.
+[00:23:50.188 --> 00:23:52.508] PICARD: It is my choice to respect the ancient rituals.
+[00:23:53.548 --> 00:23:56.508] PICARD: Each of you will have to prove your worthiness to lead the High Council.
+[00:23:56.908 --> 00:23:58.764] GOWRON: That will take hours.
+[00:23:58.764 --> 00:24:01.548] K'EHLEYR: Or days, depending on your cooperation.
+[00:24:14.668 --> 00:24:15.388] ALEXANDER: What is this?
+[00:24:16.268 --> 00:24:16.748] WORF: A bat'leth.
+[00:24:17.948 --> 00:24:19.068] WORF: It belonged to my father.
+[00:24:20.188 --> 00:24:22.348] WORF: It has been in our family for ten generations.
+[00:24:23.468 --> 00:24:24.348] ALEXANDER: Let me hold it.
+[00:24:36.588 --> 00:24:37.308] WORF: No, no, no.
+[00:24:38.908 --> 00:24:40.828] WORF: Do not think of it as a weapon.
+[00:24:42.428 --> 00:24:44.668] WORF: Make it part of your hand.
+[00:24:46.668 --> 00:24:47.308] WORF: Part of your arm.
+[00:24:49.468 --> 00:24:50.188] WORF: Make it part of you.
+[00:24:57.548 --> 00:25:01.948] K'EHLEYR: The next meeting is in three hours.
+[00:25:02.508 --> 00:25:04.428] GOWRON: I would speak with you alone, Ambassador.
+[00:25:05.548 --> 00:25:06.268] K'EHLEYR: I'm honoured.
+[00:25:07.628 --> 00:25:09.148] GOWRON: Picard is prolonging the ja'chuq.
+[00:25:10.348 --> 00:25:10.668] GOWRON: Why?
+[00:25:11.068 --> 00:25:13.548] K'EHLEYR: He has sufficient reason to proceed carefully.
+[00:25:14.028 --> 00:25:17.068] GOWRON: He relies on you for his knowledge of Klingon law.
+[00:25:17.868 --> 00:25:18.108] K'EHLEYR: Yes.
+[00:25:19.868 --> 00:25:21.948] GOWRON: Then he values your advice.
+[00:25:23.228 --> 00:25:24.348] GOWRON: You could quicken the pace.
+[00:25:25.177 --> 00:25:25.977] K'EHLEYR: Possibly.
+[00:25:26.537 --> 00:25:27.337] K'EHLEYR: Why should I?
+[00:25:27.897 --> 00:25:29.897] GOWRON: Your position is unique.
+[00:25:31.657 --> 00:25:34.537] GOWRON: Have you never wondered about serving the Klingon Empire?
+[00:25:35.097 --> 00:25:36.777] K'EHLEYR: I serve in my own way.
+[00:25:37.417 --> 00:25:42.937] GOWRON: As a Federation Ambassador. A few rewards, but little glory.
+[00:25:44.857 --> 00:25:45.977] K'EHLEYR: What do you want?
+[00:25:48.937 --> 00:25:49.977] GOWRON: What do you want?
+[00:25:50.777 --> 00:25:53.817] GOWRON: Command of a ship? A seat on the Council?
+[00:25:54.617 --> 00:25:57.577] GOWRON: There are many opportunities for you in the Empire.
+[00:25:58.297 --> 00:26:02.937] K'EHLEYR: Opportunities that will present themselves only if you come to power.
+[00:26:03.577 --> 00:26:05.417] K'EHLEYR: You talk like a Ferengi.
+[00:26:07.817 --> 00:26:09.497] GOWRON: K'mpec was also stubborn.
+[00:26:09.577 --> 00:26:11.017] GOWRON: He too refused to listen.
+[00:26:11.017 --> 00:26:11.577] GOWRON: Now,
+[00:26:13.497 --> 00:26:14.057] GOWRON: he's gone.
+[00:26:16.857 --> 00:26:20.137] GOWRON: You need not make the same mistake.
+[00:26:20.377 --> 00:26:23.337] K'EHLEYR: K'mpec was old and weak.
+[00:26:24.297 --> 00:26:25.577] K'EHLEYR: I am not.
+[00:26:37.337 --> 00:26:39.017] LAFORGE: We've completed our analysis of the bomb debris, Commander.
+[00:26:39.497 --> 00:26:41.177] DATA: The explosive was a triceron derivative.
+[00:26:41.177 --> 00:26:45.097] LAFORGE: And the entire device couldn't have been more than three cubic millimetres in size.
+[00:26:46.057 --> 00:26:47.497] RIKER: It could have been hidden anywhere in that room.
+[00:26:48.857 --> 00:26:49.497] LAFORGE: There's one more thing.
+[00:26:50.296 --> 00:26:52.136] LAFORGE: The bomb had a molecular-decay detonator.
+[00:26:52.936 --> 00:26:54.456] DATA: Only one race uses that device, sir.
+[00:26:57.096 --> 00:26:57.896] RIKER: The Romulans.
+[00:27:02.776 --> 00:27:06.296] PICARD: How could the Romulans plant a bomb on board a Klingon attack cruiser?
+[00:27:07.576 --> 00:27:08.616] WORF: It would be impossible.
+[00:27:08.936 --> 00:27:12.136] K'EHLEYR: Not if the Romulans had help from one of the Klingons.
+[00:27:12.456 --> 00:27:14.136] LAFORGE: Klingons and Romulans working together?
+[00:27:14.856 --> 00:27:16.776] LAFORGE: They've been blood enemies for seventy five years.
+[00:27:16.856 --> 00:27:19.416] PICARD: Perhaps Duras or Gowron wishes to improve that relationship.
+[00:27:20.376 --> 00:27:22.216] RIKER: A new Klingon alliance with the Romulans?
+[00:27:22.776 --> 00:27:26.776] DATA: If true, it would represent a fundamental shift of power in the quadrant.
+[00:27:27.176 --> 00:27:30.056] PICARD: Indeed. It would put the Federation in a very difficult position.
+[00:27:31.816 --> 00:27:33.416] RIKER: Duras or Gowron?
+[00:27:34.056 --> 00:27:35.416] K'EHLEYR: Gowron came to me alone.
+[00:27:35.896 --> 00:27:37.336] K'EHLEYR: He wanted me to speed up the ja'chuq.
+[00:27:37.896 --> 00:27:39.976] K'EHLEYR: Offered me a seat on the Council if I'd help him.
+[00:27:40.696 --> 00:27:42.136] PICARD: That doesn't suggest a Romulan connection?
+[00:27:42.936 --> 00:27:45.976] K'EHLEYR: He also implied I'd end up like K'mpec if I didn't cooperate.
+[00:27:46.936 --> 00:27:48.296] WORF: Captain, I disagree.
+[00:27:48.936 --> 00:27:50.136] WORF: It must be Duras.
+[00:27:51.176 --> 00:27:51.656] K'EHLEYR: Why?
+[00:27:53.256 --> 00:27:56.776] PICARD: We have had prior dealings with Duras that show him to be untrustworthy.
+[00:27:58.136 --> 00:27:59.256] K'EHLEYR: Can you be more specific?
+[00:28:00.296 --> 00:28:00.456] PICARD: No.
+[00:28:02.056 --> 00:28:02.616] PICARD: Mister Worf,
+[00:28:03.496 --> 00:28:07.976] PICARD: we have a conspiracy on our hands that could be a direct threat to the security of the Federation.
+[00:28:08.696 --> 00:28:08.936] WORF: Yes, sir.
+[00:28:09.976 --> 00:28:12.936] PICARD: As Chief Security Officer, you will accompany me to the next transition proceeding.
+[00:28:15.176 --> 00:28:17.576] WORF: Captain, they will be incensed.
+[00:28:18.376 --> 00:28:19.896] WORF: My presence will be disruptive.
+[00:28:21.096 --> 00:28:21.496] PICARD: Yes,
+[00:28:22.739 --> 00:28:23.219] PICARD: it will.
+[00:28:29.299 --> 00:28:33.059] K'EHLEYR: Computer, list stardates of the last Enterprise mission to the Klingon home planet.
+[00:28:33.779 --> 00:28:37.539] COMPUTER: Stardates 43685 through 43689.
+[00:28:38.339 --> 00:28:39.859] K'EHLEYR: How many ship's logs during that period?
+[00:28:40.659 --> 00:28:43.699] COMPUTER: Forty three officer's logs. Ten personal logs.
+[00:28:44.819 --> 00:28:46.899] K'EHLEYR: Is there a personal log for Lieutenant Worf?
+[00:28:47.459 --> 00:28:48.019] COMPUTER: Affirmative.
+[00:28:48.259 --> 00:28:49.539] COMPUTER: Access is restricted.
+[00:28:51.539 --> 00:28:52.819] K'EHLEYR: Eliminate all personal logs.
+[00:28:53.219 --> 00:28:55.539] K'EHLEYR: List the remaining forty three in chronological order.
+[00:28:56.339 --> 00:28:58.259] K'EHLEYR: We'll just take them one at a time.
+[00:29:03.939 --> 00:29:05.139] GOWRON: jIH
+[00:29:05.859 --> 00:29:07.059] GOWRON: DoQ
+[00:29:09.939 --> 00:29:10.419] GOWRON: batlh!
+[00:29:18.419 --> 00:29:20.499] PICARD: Both your claims have been properly made and recorded.
+[00:29:22.259 --> 00:29:23.619] PICARD: We are ready for the final phase of the ja'chuq.
+[00:29:24.099 --> 00:29:24.259] PICARD: There
+[00:29:26.019 --> 00:29:28.179] PICARD: will be a recess while I review your petitions.
+[00:29:33.539 --> 00:29:36.819] PICARD: I'm sure you're as concerned as I am about the explosion aboard K'mpec's vessel.
+[00:29:38.099 --> 00:29:40.499] PICARD: I assume that you are both continuing your investigations?
+[00:29:40.499 --> 00:29:43.299] GOWRON: The investigations are complete.
+[00:29:43.299 --> 00:29:45.139] GOWRON: They revealed nothing of any importance.
+[00:29:47.059 --> 00:29:48.099] PICARD: Now that's very surprising.
+[00:29:49.859 --> 00:29:51.539] PICARD: Our analysis turned up some
+[00:29:53.269 --> 00:29:54.309] PICARD: startling results.
+[00:29:59.269 --> 00:30:00.229] PICARD: Will you join us, Lieutenant?
+[00:30:02.709 --> 00:30:03.509] DURAS: What is this?
+[00:30:03.509 --> 00:30:05.029] GOWRON: He has no place here, Picard!
+[00:30:05.029 --> 00:30:06.789] DURAS: I will not sit at the same table with that!
+[00:30:07.429 --> 00:30:11.989] PICARD: It is my prerogative to investigate anything that may be relevant to the Rite of Succession.
+[00:30:12.789 --> 00:30:14.549] PICARD: Lieutenant Worf is my Chief Security Officer.
+[00:30:14.549 --> 00:30:15.749] PICARD: His presence is required.
+[00:30:16.069 --> 00:30:17.029] DURAS: We will not proceed.
+[00:30:18.629 --> 00:30:23.829] PICARD: If you wish to withdraw from the ja'chuq, that is your option.
+[00:30:27.429 --> 00:30:28.309] PICARD: Proceed, Mister Worf.
+[00:30:31.509 --> 00:30:33.909] WORF: What did your investigations reveal about the explosion?
+[00:30:36.869 --> 00:30:37.589] DURAS: It was a bomb.
+[00:30:40.709 --> 00:30:43.189] WORF: And was your analysis just as insightful?
+[00:30:43.749 --> 00:30:45.589] GOWRON: It was a common explosive.
+[00:30:46.709 --> 00:30:47.109] WORF: What type?
+[00:30:48.229 --> 00:30:49.029] GOWRON: Triceron.
+[00:30:49.589 --> 00:30:50.549] WORF: What about the detonator?
+[00:30:50.629 --> 00:30:51.509] DURAS: This is pointless!
+[00:30:51.829 --> 00:30:53.029] DURAS: The findings were inconclusive.
+[00:30:55.909 --> 00:30:59.669] WORF: Fortunately, our investigation was more thorough.
+[00:31:00.309 --> 00:31:03.269] WORF: The bomb used a molecular-decay detonator.
+[00:31:03.669 --> 00:31:03.989] GOWRON: What?
+[00:31:05.109 --> 00:31:06.229] PICARD: A Romulan device.
+[00:31:09.269 --> 00:31:13.829] DURAS: I will return to my ship to confirm these conclusions myself.
+[00:31:15.509 --> 00:31:16.229] GOWRON: As will I.
+[00:31:18.229 --> 00:31:18.789] PICARD: Mister Worf,
+[00:31:18.900 --> 00:31:24.500] PICARD: please be sure to send a complete record of our findings to both vessels and to the High Council.
+[00:31:25.860 --> 00:31:26.260] WORF: Aye, sir.
+[00:31:27.460 --> 00:31:28.020] PICARD: That will be all.
+[00:31:29.700 --> 00:31:33.380] K'EHLEYR: Computer, interlock with the Klingon Imperial Information Net.
+[00:31:33.860 --> 00:31:34.980] COMPUTER: Interlock established.
+[00:31:35.460 --> 00:31:39.860] K'EHLEYR: Federation Ambassador K'Ehleyr requesting diplomatic access to High Council record.
+[00:31:39.860 --> 00:31:41.380] K'EHLEYR: Security code pah doQ cha!
+[00:31:42.020 --> 00:31:42.500] COMPUTER: Proceed.
+[00:31:42.980 --> 00:31:48.100] K'EHLEYR: Computer, display summary of the most recent High Council inquiry regarding Khitomer massacre.
+[00:31:48.820 --> 00:31:49.780] COMPUTER: Access denied.
+[00:31:49.940 --> 00:31:51.060] COMPUTER: Restricted materials,
+[00:31:51.220 --> 00:31:52.820] COMPUTER: du ko cha clearance only.
+[00:31:53.780 --> 00:31:54.740] K'EHLEYR: By whose order?
+[00:31:55.540 --> 00:31:56.900] COMPUTER: Council member Duras.
+[00:31:58.100 --> 00:31:59.860] K'EHLEYR: Access biographical files.
+[00:32:00.100 --> 00:32:00.980] K'EHLEYR: Subject name,
+[00:32:01.380 --> 00:32:02.660] K'EHLEYR: Councillor Duras.
+[00:32:05.540 --> 00:32:06.180] DURAS: Advise
+[00:32:09.620 --> 00:32:11.540] DURAS: my counsellors on the Vorn to convene.
+[00:32:12.980 --> 00:32:14.180] DURAS: There is much to discuss.
+[00:32:14.660 --> 00:32:15.013] KLINGON: Look.
+[00:32:15.013 --> 00:32:16.073] DURAS: What is this?
+[00:32:16.073 --> 00:32:18.900] KLINGON: Priority message to you from the home planet.
+[00:32:19.380 --> 00:32:22.660] KLINGON: It seems Ambassador K'Ehleyr is looking into things she should not be.
+[00:32:26.340 --> 00:32:27.300] DURAS: Distract the guard for me.
+[00:32:27.860 --> 00:32:28.260] KLINGON: Yes, sir.
+[00:32:31.460 --> 00:32:31.860] GUARD: Sir.
+[00:32:32.420 --> 00:32:33.060] GUARD: Excuse me, sir.
+[00:32:33.060 --> 00:32:34.580] GUARD: You cannot leave your quarters without an escort.
+[00:32:37.780 --> 00:32:38.180] K'EHLEYR: Come.
+[00:32:41.220 --> 00:32:44.820] DURAS: I have been informed of your attempt to access restricted Council records.
+[00:32:44.900 --> 00:32:46.900] K'EHLEYR: I've been investigating what happened at Khitomer.
+[00:32:47.380 --> 00:32:48.100] K'EHLEYR: Not at all an
+[00:32:48.159 --> 00:32:51.279] K'EHLEYR: easy task, considering that most of the records are sealed.
+[00:32:51.999 --> 00:32:53.199] DURAS: Worf's father was a traitor.
+[00:32:53.519 --> 00:32:56.879] K'EHLEYR: No, the evidence was altered to make it appear that way.
+[00:32:57.519 --> 00:33:04.239] K'EHLEYR: I found it interesting to read that your father was also at Khitomer and you are the one who sealed the records.
+[00:33:04.399 --> 00:33:06.239] DURAS: You would dare to insult my father's name?
+[00:33:06.399 --> 00:33:09.119] K'EHLEYR: Don't play the wounded Klingon for me, Duras.
+[00:33:09.119 --> 00:33:10.639] K'EHLEYR: You don't do it very well.
+[00:33:12.079 --> 00:33:13.759] K'EHLEYR: What happened in that Council Chamber?
+[00:33:14.559 --> 00:33:17.199] K'EHLEYR: How did you get Worf to take the blame for you?
+[00:33:17.999 --> 00:33:19.599] DURAS: Do not pursue this matter further.
+[00:33:19.679 --> 00:33:24.799] K'EHLEYR: The son betrays his people to the Romulans just as his father did,
+[00:33:31.039 --> 00:33:33.039] K'EHLEYR: Duras?
+[00:33:33.039 --> 00:33:36.799] CRUSHER: One of the Klingons who died in the explosion was with Duras,
+[00:33:36.799 --> 00:33:37.919] CRUSHER: the other was with Gowron.
+[00:33:38.559 --> 00:33:42.079] CRUSHER: I've been examining the bodies, trying to get a clue to where the bomb was hidden.
+[00:33:42.879 --> 00:33:46.319] CRUSHER: There's always a pattern in the lacerations and tissue damage.
+[00:33:46.559 --> 00:33:50.319] CRUSHER: It would normally give a clear indication as to the direction, distance, force of impact.
+[00:33:50.319 --> 00:33:50.799] RIKER: Normally?
+[00:33:52.879 --> 00:33:56.239] CRUSHER: In this case, the pattern was virtually impossible to detect.
+[00:33:56.719 --> 00:33:58.959] CRUSHER: I couldn't understand it until I looked at the dynoscans.
+[00:33:59.439 --> 00:34:01.919] CRUSHER: This wound is different from all of the others.
+[00:34:02.399 --> 00:34:04.479] CRUSHER: It was made from the inside out.
+[00:34:05.519 --> 00:34:08.159] CRUSHER: The bomb was implanted in one of their forearms.
+[00:34:09.279 --> 00:34:11.439] RIKER: It's considered an honourable way for a Klingon to die,
+[00:34:12.639 --> 00:34:15.919] RIKER: a suicide that takes an enemy with it.
+[00:34:16.079 --> 00:34:16.799] RIKER: Which one of them was it?
+[00:34:18.046 --> 00:34:18.846] CRUSHER: Duras' man.
+[00:34:22.366 --> 00:34:25.726] WORF: When we have more time I will take you to the holodeck and demonstrate in more detail
+[00:34:29.646 --> 00:34:30.526] WORF: Medical emergency,
+[00:34:30.766 --> 00:34:32.446] WORF: deck eight, room one four two!
+[00:34:42.046 --> 00:34:42.206] WORF: Gowron?
+[00:34:42.206 --> 00:34:42.366] K'EHLEYR: No.
+[00:34:47.966 --> 00:34:48.206] WORF: Duras!
+[00:35:15.566 --> 00:35:15.566] K'EHLEYR: Alexander.
+[00:35:15.566 --> 00:35:16.686] WORF: K'Ehleyr.
+[00:35:16.686 --> 00:35:16.846] WORF: K'Ehleyr!
+[00:35:47.444 --> 00:35:51.364] WORF: You have never seen death.
+[00:35:56.084 --> 00:35:56.404] WORF: Then look.
+[00:36:00.164 --> 00:36:01.444] WORF: And always remember.
+[00:36:10.804 --> 00:36:11.844] WORF: Stay with the doctor.
+[00:36:13.524 --> 00:36:14.244] CRUSHER: Worf, when did you
+[00:36:44.164 --> 00:36:46.004] CRUSHER: Multiple stab wounds to the chest and abdomen.
+[00:36:46.004 --> 00:36:47.524] CRUSHER: Too much trauma to the internal organs.
+[00:36:47.524 --> 00:36:49.444] CRUSHER: There wasn't time enough to take her into stasis.
+[00:36:50.404 --> 00:36:50.884] PICARD: Where's Worf?
+[00:36:51.684 --> 00:36:52.084] CRUSHER: I don't know.
+[00:36:52.404 --> 00:36:54.004] CRUSHER: He disappeared just after I arrived.
+[00:36:54.644 --> 00:36:55.684] RIKER: Riker to Lieutenant Worf.
+[00:36:58.804 --> 00:37:00.324] RIKER: Computer, locate Lieutenant Worf.
+[00:37:00.324 --> 00:37:03.364] COMPUTER: Lieutenant Worf is not aboard the Enterprise.
+[00:37:04.724 --> 00:37:05.204] PICARD: Where is he?
+[00:37:05.844 --> 00:37:09.844] COMPUTER: Lieutenant Worf transported to the Klingon ship Vorn at seventeen thirty hours.
+[00:37:11.444 --> 00:37:11.844] RIKER: On my way.
+[00:37:20.564 --> 00:37:21.204] WORF: Duras.
+[00:37:27.642 --> 00:37:29.322] DURAS: What is that doing here?
+[00:37:29.962 --> 00:37:32.842] KLINGON: He has claimed the right of vengeance.
+[00:37:33.642 --> 00:37:35.482] DURAS: You have no rights here, traitor!
+[00:37:46.122 --> 00:37:46.682] WORF: K'Ehleyr
+[00:37:49.322 --> 00:37:49.962] WORF: was my mate.
+[00:38:03.162 --> 00:38:04.391] DATA: If Lieutenant Worf resists, sir?
+[00:38:04.391 --> 00:38:06.602] RIKER: He's coming back with us one way or another.
+[00:38:06.842 --> 00:38:08.202] RIKER: Set phasers on maximum stun.
+[00:38:22.842 --> 00:38:25.722] DURAS: I'm the only one, Worf,
+[00:38:26.922 --> 00:38:28.602] DURAS: the only one who can prove your innocence.
+[00:38:29.082 --> 00:38:30.602] DURAS: Kill me and you're a traitor for ever.
+[00:38:30.602 --> 00:38:32.442] WORF: Then that is how it shall be.
+[00:38:33.162 --> 00:38:33.162] RIKER: Worf!
+[00:39:08.280 --> 00:39:08.600] PICARD: Mister
+[00:39:08.600 --> 00:39:08.760] PICARD: Worf,
+[00:39:10.840 --> 00:39:13.400] PICARD: your service aboard the Enterprise has been exemplary.
+[00:39:16.440 --> 00:39:16.920] PICARD: Until now.
+[00:39:18.840 --> 00:39:19.240] WORF: Sir,
+[00:39:19.800 --> 00:39:22.760] WORF: I have acted within the boundaries of Klingon law and tradition.
+[00:39:24.040 --> 00:39:26.760] PICARD: The High Council would seem to agree. They consider the matter closed.
+[00:39:28.520 --> 00:39:28.920] PICARD: I don't.
+[00:39:31.080 --> 00:39:31.320] PICARD: Mister
+[00:39:31.320 --> 00:39:31.480] PICARD: Worf,
+[00:39:31.480 --> 00:39:36.680] PICARD: the Enterprise crew currently includes representatives from thirteen planets.
+[00:39:37.560 --> 00:39:40.840] PICARD: They each have their individual beliefs and values and I respect them all.
+[00:39:42.840 --> 00:39:47.080] PICARD: But they have all chosen to serve Starfleet.
+[00:39:48.840 --> 00:39:55.640] PICARD: If anyone cannot perform his or her duty because of the demands of their society, they should resign.
+[00:39:55.790 --> 00:39:56.390] PICARD: Do
+[00:40:04.920 --> 00:40:05.720] PICARD: you wish to resign?
+[00:40:11.400 --> 00:40:11.800] WORF: No, sir.
+[00:40:16.674 --> 00:40:19.074] PICARD: I had hoped you would not throw away a promising career.
+[00:40:23.874 --> 00:40:24.834] PICARD: I understand your loss,
+[00:40:27.554 --> 00:40:28.594] PICARD: We all admired K'Ehleyr.
+[00:40:28.594 --> 00:40:28.594] PICARD: A
+[00:40:33.074 --> 00:40:34.354] PICARD: reprimand will appear on your record.
+[00:40:35.714 --> 00:40:36.114] PICARD: Dismissed.
+[00:40:38.994 --> 00:40:39.394] PICARD: Mister Worf,
+[00:40:44.594 --> 00:40:47.394] PICARD: isn't it time for the truth about your father's innocence to be told?
+[00:40:48.434 --> 00:40:53.154] PICARD: After all, you only accepted this dishonour to protect the name of Duras and hold the Empire together.
+[00:40:54.514 --> 00:40:58.834] PICARD: Now that he has died in disgrace, what is gained by further silence?
+[00:41:00.434 --> 00:41:03.874] WORF: Each member of the Klingon High Council has shared in that lie.
+[00:41:04.434 --> 00:41:07.714] WORF: They will not be so willing to admit their own dishonour.
+[00:41:09.554 --> 00:41:12.834] WORF: But the day will come when my brother and I will
+[00:41:14.994 --> 00:41:16.594] WORF: convince them to speak the truth.
+[00:41:16.594 --> 00:41:16.594] WORF: My
+[00:41:35.954 --> 00:41:42.194] WORF: parents, my human parents, will meet us at Starbase seventy three.
+[00:41:42.514 --> 00:41:43.874] WORF: They will care for you.
+[00:41:45.634 --> 00:41:47.154] ALEXANDER: Why can't I stay with you?
+[00:41:47.292 --> 00:41:48.492] WORF: You
+[00:41:50.252 --> 00:41:53.372] WORF: deserve a home, a family.
+[00:41:55.292 --> 00:41:56.492] WORF: They can provide that
+[00:41:58.172 --> 00:41:58.732] WORF: I cannot.
+[00:41:58.732 --> 00:41:58.812] WORF: I
+[00:42:10.012 --> 00:42:10.492] WORF: miss her too.
+[00:42:14.092 --> 00:42:15.052] ALEXANDER: Are you my father?
+[00:42:20.412 --> 00:42:20.812] WORF: Yes.
+[00:42:24.172 --> 00:42:24.732] WORF: I am your father.
+[00:42:35.000 --> 00:42:59.000] [music]
+[00:43:09.000 --> 00:43:31.000] [music]

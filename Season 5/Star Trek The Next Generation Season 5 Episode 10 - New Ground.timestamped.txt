@@ -1,0 +1,665 @@
+[00:00:03.280 --> 00:00:06.480] LOG: Captain's log, stardate 45376.3. We are
+[00:00:07.120 --> 00:00:13.360] LOG: approaching the planet Bilana Three, where a new method of propulsion known as the Soliton Wave is being developed.
+[00:00:13.920 --> 00:00:18.080] LOG: The Enterprise has been asked to participate in one of the first tests of this new technology.
+[00:00:20.160 --> 00:00:23.360] LAFORGE: Data! Data, isn't this exciting?
+[00:00:23.360 --> 00:00:25.680] LAFORGE: We are going to witness a moment in history.
+[00:00:26.880 --> 00:00:29.760] DATA: Every nanosecond in this continuum is a moment in history,
+[00:00:29.840 --> 00:00:30.880] DATA: once it has elapsed.
+[00:00:30.880 --> 00:00:35.280] LAFORGE: No, no, no, no. I mean, we're going to see something that people will talk about for years.
+[00:00:35.760 --> 00:00:36.560] LAFORGE: I mean, think about it.
+[00:00:36.720 --> 00:00:39.200] LAFORGE: No more bulky warp engines or nacelles.
+[00:00:39.280 --> 00:00:43.680] LAFORGE: A ship just generates a Soliton wave and then rides it through space like a surfboard.
+[00:00:44.640 --> 00:00:50.880] LAFORGE: This is going to be like being there to watch Chuck Yeager break the sound barrier, or Zephram Cochrane engage the first warp drive.
+[00:00:52.000 --> 00:00:52.800] DATA: It should be interesting.
+[00:00:54.320 --> 00:00:55.040] WORF: Very exciting.
+[00:00:56.240 --> 00:00:57.360] LAFORGE: I'm talking to the wrong crowd.
+[00:00:58.240 --> 00:01:00.080] LAFORGE: Donaldson! Donaldson, you're an engineer.
+[00:01:01.120 --> 00:01:05.040] CREWWOMAN: Lieutenant Worf, you have a subspace communication from the transport ship Milan.
+[00:01:06.400 --> 00:01:07.920] WORF: Transfer the signal to this station.
+[00:01:10.800 --> 00:01:11.360] HELENA: Hello, Worf.
+[00:01:13.360 --> 00:01:13.680] WORF: Mother.
+[00:01:15.440 --> 00:01:23.040] HELENA: I hope you don't mind us dropping in on you like this, but when I heard the Enterprise was to be in this sector, we took the first transport and here we are.
+[00:01:24.240 --> 00:01:25.040] WORF: Is father with you?
+[00:01:25.520 --> 00:01:28.320] HELENA: No, but I brought Alexander with me.
+[00:01:28.320 --> 00:01:31.600] HELENA: I thought the two of you would like a chance to visit.
+[00:01:32.480 --> 00:01:32.960] WORF: Very well.
+[00:01:33.336 --> 00:01:34.936] WORF: I will make arrangements for you to come aboard.
+[00:01:36.056 --> 00:01:36.216] HELENA: Good.
+[00:01:44.136 --> 00:01:46.136] HELENA: Worf.
+[00:01:46.136 --> 00:01:46.136] HELENA: Worf.
+[00:01:48.216 --> 00:01:50.056] HELENA: It's so good to see you.
+[00:01:50.696 --> 00:01:51.576] HELENA: You look wonderful.
+[00:01:53.176 --> 00:01:54.776] HELENA: Is that a touch of grey in your beard?
+[00:01:56.216 --> 00:01:56.856] HELENA: Don't worry,
+[00:01:57.256 --> 00:01:59.896] HELENA: the Rozhenko men have always had beards of iron grey.
+[00:02:05.496 --> 00:02:07.896] WORF: Hello, Alexander.
+[00:02:11.016 --> 00:02:11.336] ALEXANDER: Hello.
+[00:02:15.496 --> 00:02:16.376] WORF: It is good to see you both.
+[00:02:17.736 --> 00:02:18.376] WORF: How long can you stay?
+[00:02:19.816 --> 00:02:20.856] ALEXANDER: I'm not going back.
+[00:02:55.656 --> 00:02:56.296] PICARD: Space.
+[00:02:57.176 --> 00:02:58.376] PICARD: The final frontier.
+[00:03:00.309 --> 00:03:03.109] PICARD: These are the voyages of the starship Enterprise.
+[00:03:04.229 --> 00:03:07.749] PICARD: Its continuing mission to explore strange new worlds,
+[00:03:09.509 --> 00:03:16.789] PICARD: to seek out new life and new civilizations, to boldly go where no one has gone before.
+[00:03:37.000 --> 00:03:45.000] [music]
+[00:03:41.573 --> 00:03:43.573] HELENA: Did
+[00:04:08.357 --> 00:04:10.357] HELENA: you
+[00:04:23.749 --> 00:04:26.309] HELENA: see the look on Alexander's face when he saw the play area?
+[00:04:26.789 --> 00:04:27.749] HELENA: He's going to love it here.
+[00:04:29.029 --> 00:04:32.309] WORF: Mother, why does Alexander believe he is remaining?
+[00:04:33.755 --> 00:04:35.995] HELENA: Lapsang suchong tea, please. Have
+[00:04:37.515 --> 00:04:38.715] HELENA: you been eating? You look thin.
+[00:04:39.115 --> 00:04:39.515] WORF: Mother.
+[00:04:39.915 --> 00:04:43.755] HELENA: When your father was in Starfleet, I always had to make sure that
+[00:04:43.755 --> 00:04:44.155] WORF: Mother.
+[00:04:44.955 --> 00:04:46.235] WORF: We need to talk about Alexander.
+[00:04:55.035 --> 00:04:57.595] HELENA: Alexander is a fine boy, Worf.
+[00:04:58.635 --> 00:05:03.035] HELENA: He's smart and he's high-spirited. Like you were at that age.
+[00:05:03.515 --> 00:05:08.875] HELENA: Sometimes, when he comes running through the house and knocks over that big green lamp, just like you used to do.
+[00:05:10.395 --> 00:05:13.115] WORF: I don't remember you smiling when I knocked over that lamp.
+[00:05:13.675 --> 00:05:16.555] HELENA: Well maybe once, when you weren't looking.
+[00:05:19.595 --> 00:05:22.875] HELENA: When we learned Alexander was to come to live with us, we were so happy.
+[00:05:24.795 --> 00:05:26.715] HELENA: The house had been so empty since you left, and
+[00:05:27.115 --> 00:05:31.035] HELENA: we thought here is our chance to fill it with the sound of children again.
+[00:05:32.955 --> 00:05:34.315] HELENA: But the truth is, Worf,
+[00:05:35.675 --> 00:05:38.315] HELENA: your father and I, we're getting old.
+[00:05:39.515 --> 00:05:39.915] WORF: Mother,
+[00:05:40.635 --> 00:05:42.315] WORF: you both have many years
+[00:05:42.635 --> 00:05:45.915] HELENA: I don't mean we're ready for the grave. Not yet, anyway.
+[00:05:45.915 --> 00:05:51.835] HELENA: But we're a little less active. It's harder for us to keep up with Alexander.
+[00:05:53.595 --> 00:05:56.875] HELENA: We're ready to be just grandparents.
+[00:05:56.875 --> 00:05:57.035] HELENA: Alexander
+[00:06:01.595 --> 00:06:03.435] HELENA: needs to be with his father.
+[00:06:04.155 --> 00:06:04.395] WORF: Mother,
+[00:06:05.035 --> 00:06:06.235] WORF: that is not possible.
+[00:06:11.411 --> 00:06:13.171] WORF: We must find another option.
+[00:06:13.491 --> 00:06:15.651] HELENA: He needs his father, Worf.
+[00:06:17.331 --> 00:06:18.371] HELENA: Alexander's, he's
+[00:06:20.771 --> 00:06:21.891] HELENA: having difficulties.
+[00:06:22.451 --> 00:06:23.091] WORF: Difficulties?
+[00:06:25.411 --> 00:06:27.091] HELENA: He's disobedient.
+[00:06:27.241 --> 00:06:27.841] WORF: Mother,
+[00:06:30.611 --> 00:06:33.251] WORF: Klingon children are often difficult to control.
+[00:06:33.971 --> 00:06:36.691] HELENA: I do know something about how Klingon children behave.
+[00:06:37.731 --> 00:06:40.211] HELENA: It's not just his willful attitude.
+[00:06:43.011 --> 00:06:45.171] HELENA: He doesn't always tell the truth.
+[00:06:47.891 --> 00:06:49.251] WORF: My son is a liar?
+[00:06:49.811 --> 00:06:54.691] HELENA: He is a boy, Worf, and boys sometimes take the wrong path.
+[00:06:54.771 --> 00:06:55.971] HELENA: They need guidance.
+[00:06:55.971 --> 00:06:57.251] HELENA: He needs a father,
+[00:06:57.811 --> 00:07:00.051] HELENA: his father, to give him that guidance.
+[00:07:02.771 --> 00:07:04.051] HELENA: I have to leave soon.
+[00:07:05.011 --> 00:07:06.691] HELENA: The transport will be leaving for Earth.
+[00:07:09.411 --> 00:07:11.891] HELENA: You must do what you think is best for him.
+[00:07:13.251 --> 00:07:15.811] HELENA: That's all a parent can hope to do.
+[00:07:15.891 --> 00:07:16.211] WORF: Did you
+[00:07:26.771 --> 00:07:27.971] WORF: enjoy going to school on Earth?
+[00:07:29.331 --> 00:07:29.811] ALEXANDER: Yes.
+[00:07:34.611 --> 00:07:37.331] WORF: Did you like your teachers?
+[00:07:38.691 --> 00:07:39.011] ALEXANDER: Yes.
+[00:07:40.971 --> 00:07:41.211] WORF: Good.
+[00:07:44.491 --> 00:07:46.491] WORF: I understand you lived in my old room.
+[00:07:48.411 --> 00:07:48.731] ALEXANDER: Ah ha.
+[00:07:50.571 --> 00:07:50.731] WORF: Good.
+[00:07:53.211 --> 00:07:53.211] KYLE: Come
+[00:07:57.931 --> 00:07:58.171] KYLE: in.
+[00:08:00.491 --> 00:08:01.131] KYLE: Lieutenant Worf.
+[00:08:02.811 --> 00:08:03.851] KYLE: Very nice to see you again.
+[00:08:05.131 --> 00:08:06.251] KYLE: And you must be Alexander.
+[00:08:07.211 --> 00:08:08.971] KYLE: I hear you'll be coming to school with us for a while?
+[00:08:13.931 --> 00:08:16.491] KYLE: Well, we're very excited to have you with us.
+[00:08:17.211 --> 00:08:20.411] KYLE: I know the other boys and girls will be happy to have a new classmate.
+[00:08:24.731 --> 00:08:27.691] KYLE: First I need to get a little information from you.
+[00:08:34.731 --> 00:08:40.731] KYLE: Let's start with your name. Alexander Rozhenko.
+[00:08:41.211 --> 00:08:41.851] KYLE: That's a tough one.
+[00:08:42.251 --> 00:08:43.371] KYLE: Maybe you can help me with that.
+[00:08:43.931 --> 00:08:45.291] KYLE: Could you spell your last name for me?
+[00:08:48.891 --> 00:08:49.371] WORF: Alexander.
+[00:08:51.371 --> 00:08:52.651] WORF: The teacher asked you a question.
+[00:08:53.611 --> 00:08:54.171] KYLE: It doesn't matter.
+[00:08:54.571 --> 00:08:55.611] KYLE: I think I can figure it out.
+[00:08:56.651 --> 00:08:57.691] KYLE: Date of birth?
+[00:09:01.611 --> 00:09:01.611] ALEXANDER: The
+[00:09:10.571 --> 00:09:12.411] ALEXANDER: forty third day of Maktag,
+[00:09:12.675 --> 00:09:15.395] ALEXANDER: stardate 43205.
+[00:09:15.875 --> 00:09:16.195] WORF: Yes.
+[00:09:16.515 --> 00:09:17.315] WORF: Yes, of course.
+[00:09:18.915 --> 00:09:25.635] KYLE: I'll get the rest of his personal records from the school on Earth, and, oh, one last question. How long will he be staying aboard ship?
+[00:09:26.755 --> 00:09:28.355] WORF: It has not been decided.
+[00:09:40.115 --> 00:09:40.355] PICARD: Come.
+[00:09:43.715 --> 00:09:46.275] PICARD: Mister Worf, I thought our meeting was scheduled for eleven hundred hours.
+[00:09:46.355 --> 00:09:48.195] WORF: I apologise for being late, Captain.
+[00:09:48.195 --> 00:09:49.555] WORF: I was detained in school.
+[00:09:52.115 --> 00:09:54.115] WORF: I was enrolling my son in class.
+[00:09:55.475 --> 00:09:55.715] PICARD: I see.
+[00:09:56.835 --> 00:10:02.115] PICARD: Well, Mister Worf, as you're aware, several new security officers will be transferring to the Enterprise next week and I would like to discuss.
+[00:10:02.115 --> 00:10:03.235] KYLE: Kyle to Lieutenant Worf.
+[00:10:05.315 --> 00:10:05.795] WORF: Worf here.
+[00:10:06.195 --> 00:10:12.195] KYLE: I'm sorry to bother you again, Lieutenant, but I forgot to mention that we need to arrange for a series of placement examinations for Alexander.
+[00:10:12.995 --> 00:10:13.475] KYLE: If you could tell me when
+[00:10:13.475 --> 00:10:14.515] WORF: This is not a good time.
+[00:10:14.675 --> 00:10:16.435] WORF: I will contact you shortly, Miss Kyle.
+[00:10:18.515 --> 00:10:19.235] WORF: Sorry, Captain.
+[00:10:19.715 --> 00:10:23.151] PICARD: I would like to discuss with you the specific areas of ship's security that I would like
+[00:10:23.151 --> 00:10:23.555] CRUSHER: Sickbay to
+[00:10:23.555 --> 00:10:24.195] CRUSHER: Worf.
+[00:10:25.395 --> 00:10:26.115] WORF: Yes, Doctor?
+[00:10:26.435 --> 00:10:29.315] CRUSHER: I need to schedule a physical examination for Alexander.
+[00:10:29.715 --> 00:10:33.235] CRUSHER: I also need his complete medical records from Earth and the medical records of his
+[00:10:33.235 --> 00:10:35.235] WORF: I would rather discuss this at a later time.
+[00:10:35.955 --> 00:10:36.675] CRUSHER: There's no rush.
+[00:10:37.075 --> 00:10:37.595] CRUSHER: Crusher out.
+[00:10:37.595 --> 00:10:38.115] PICARD: Mister Worf.
+[00:10:40.675 --> 00:10:42.115] PICARD: You are not the first
+[00:10:42.287 --> 00:10:44.607] PICARD: officer on this ship to have a new family member.
+[00:10:45.887 --> 00:10:46.607] PICARD: Take care of your son.
+[00:10:47.727 --> 00:10:49.087] PICARD: The security matters can wait.
+[00:10:52.127 --> 00:10:53.007] WORF: Thank you, Captain.
+[00:11:05.247 --> 00:11:12.207] JA'DAR: Twenty three field coils, working in concert, will generate the soliton wave from this point on the planet surface.
+[00:11:12.527 --> 00:11:18.687] JA'DAR: We will have our test ship towed to a position approximately two million kilometres from Bilana Three.
+[00:11:19.407 --> 00:11:25.007] JA'DAR: If our theories are correct, the wave will envelop the ship and push it into warp.
+[00:11:27.167 --> 00:11:28.847] PICARD: Warp without warp drive.
+[00:11:30.127 --> 00:11:31.407] RIKER: They're going to put you out of a job, Geordi.
+[00:11:31.567 --> 00:11:32.527] LAFORGE: I hope so, Commander.
+[00:11:32.767 --> 00:11:36.367] DATA: Doctor Ja'Dar, how closely will the Enterprise need to follow the test vehicle?
+[00:11:36.687 --> 00:11:40.607] JA'DAR: The soliton emits a great deal of subspace radio interference.
+[00:11:40.927 --> 00:11:45.247] JA'DAR: You'll need to remain within twenty kilometres in order to receive telemetry.
+[00:11:46.127 --> 00:11:47.647] PICARD: Doctor, how will you end the experiment?
+[00:11:47.967 --> 00:11:53.087] JA'DAR: The wave will be directed toward Lemma Two, about three light years distance.
+[00:11:53.487 --> 00:12:00.287] JA'DAR: Our sister facility there which will generate a scattering field which will dissipate the wave and bring the ship out of warp.
+[00:12:01.007 --> 00:12:04.207] JA'DAR: I'll be sending you more detailed operational plans within the hour.
+[00:12:05.647 --> 00:12:06.367] PICARD: Very well, Doctor.
+[00:12:06.767 --> 00:12:09.407] PICARD: We'll contact you again once we've finished studying the mission specs.
+[00:12:23.041 --> 00:12:23.362] TROI: Worf.
+[00:12:25.842 --> 00:12:26.882] TROI: I was just talking with Mrs.
+[00:12:26.882 --> 00:12:28.242] TROI: Kyle the primary school teacher.
+[00:12:28.242 --> 00:12:30.562] TROI: She told me you enrolled Alexander in her class this morning.
+[00:12:32.322 --> 00:12:32.802] WORF: Yes.
+[00:12:33.281 --> 00:12:34.562] TROI: I'm sure he'll do very well.
+[00:12:34.562 --> 00:12:35.682] TROI: She's a wonderful teacher.
+[00:12:36.402 --> 00:12:36.722] WORF: Good.
+[00:12:36.722 --> 00:12:39.922] TROI: Did she tell you about the father-son field trip this afternoon?
+[00:12:39.922 --> 00:12:41.122] WORF: Yes. We cannot attend.
+[00:12:41.602 --> 00:12:42.082] TROI: Why not?
+[00:12:42.082 --> 00:12:46.242] WORF: I have a personnel review scheduled at thirteen hundred hours.
+[00:12:49.762 --> 00:12:53.522] TROI: This would be a good opportunity for you to meet some of the other students and parents.
+[00:12:56.882 --> 00:13:00.082] WORF: I might be able to reschedule the review.
+[00:13:01.202 --> 00:13:01.442] TROI: Good.
+[00:13:02.082 --> 00:13:02.962] TROI: I'll let them know you're coming.
+[00:13:09.281 --> 00:13:18.642] KYLE: As the value of their horns increased, the number of white rhinos in the wild kept falling, until they finally became extinct about two centuries ago.
+[00:13:20.002 --> 00:13:24.082] KYLE: Now, I'd like to show you a pair of animals we're trying to save from extinction.
+[00:13:24.562 --> 00:13:25.202] KYLE: Would you follow me?
+[00:13:43.614 --> 00:13:51.774] KYLE: They're from Corvan Two, where their homes in the rainforests are being threatened by industrial pollutants.
+[00:13:52.734 --> 00:13:54.734] KYLE: They're called Corvan gilvos.
+[00:13:58.174 --> 00:13:58.814] KYLE: They're a little shy.
+[00:14:03.694 --> 00:14:11.774] KYLE: The eating habits of gilvos are very similar to those of Earth's Draco lizards, which died out over three hundred years ago.
+[00:14:13.214 --> 00:14:16.254] KYLE: There are only fourteen gilvos left on Corvan Two.
+[00:14:16.894 --> 00:14:21.214] KYLE: We're transplanting these two to the protected planet Brentalia, where they should thrive.
+[00:14:22.334 --> 00:14:28.894] KYLE: Well, why don't you all have a look around on your own for a while. If you have any questions, please feel free to ask.
+[00:14:35.534 --> 00:14:42.414] KYLE: Alexander, I'm sorry. I forgot to tell everyone that the models on the tables were for everyone to play with.
+[00:14:43.454 --> 00:14:46.574] KYLE: So I guess you didn't know you weren't supposed to take them.
+[00:14:50.334 --> 00:14:52.894] KYLE: I saw you playing with the lizard model a little while ago.
+[00:14:53.854 --> 00:14:54.574] KYLE: Do you still have it?
+[00:14:55.534 --> 00:14:57.054] WORF: Are you accusing him of stealing?
+[00:14:58.174 --> 00:15:00.014] KYLE: Lieutenant Worf, I can only tell you that
+[00:15:00.014 --> 00:15:00.574] WORF: Alexander,
+[00:15:03.454 --> 00:15:05.454] WORF: did you take the model of the lizard from the table?
+[00:15:06.489 --> 00:15:06.889] ALEXANDER: No, sir.
+[00:15:10.569 --> 00:15:14.569] KYLE: Lieutenant, I saw Alexander put the model inside of his jacket.
+[00:15:34.489 --> 00:15:38.409] LOG: Lieutenant Worf, personal log, stardate 45376.8.
+[00:15:38.889 --> 00:15:42.649] LOG: Alexander has acted shamefully, and as his father I must now deal with him.
+[00:15:43.289 --> 00:15:47.529] LOG: But I find that I would gladly fight ten armed Baldur warriors rather than face one small child.
+[00:15:48.649 --> 00:15:52.729] WORF: A Klingon's honour is more important to him than his life.
+[00:15:55.449 --> 00:16:02.169] WORF: A Klingon would gladly face the most horrible punishment rather than bring shame or disgrace to his family name.
+[00:16:03.609 --> 00:16:05.209] WORF: His word is his bond.
+[00:16:05.929 --> 00:16:07.129] WORF: Without it, he is nothing.
+[00:16:10.009 --> 00:16:10.889] WORF: Do you understand?
+[00:16:17.369 --> 00:16:18.169] WORF: Why did you lie to me?
+[00:16:20.249 --> 00:16:21.049] ALEXANDER: I don't know.
+[00:16:22.889 --> 00:16:24.809] WORF: Did you fear the punishment you would receive?
+[00:16:26.969 --> 00:16:27.529] ALEXANDER: I don't know.
+[00:16:27.929 --> 00:16:30.089] WORF: You don't know why you lied, and yet you did.
+[00:16:30.729 --> 00:16:32.649] WORF: You don't know why you stole, and yet you did!
+[00:16:44.973 --> 00:16:46.013] WORF: Alexander, come here.
+[00:17:02.493 --> 00:17:10.573] WORF: When I was a child, younger than you, I lost my parents, my family, my people.
+[00:17:11.533 --> 00:17:16.333] WORF: Everything I had was taken from me except my sense of honour.
+[00:17:17.053 --> 00:17:19.933] WORF: It was the one thing I had which was truly Klingon and
+[00:17:21.453 --> 00:17:22.653] WORF: which no one could take away.
+[00:17:24.813 --> 00:17:25.693] WORF: Do you know who they are?
+[00:17:28.733 --> 00:17:29.373] ALEXANDER: Kahless?
+[00:17:30.573 --> 00:17:31.533] WORF: And his brother, Morath.
+[00:17:33.373 --> 00:17:40.893] WORF: They fought for twelve days and twelve nights because Morath had broken his word and brought shame to his family.
+[00:17:44.973 --> 00:17:51.053] WORF: When you lie or steal, you not only dishonour yourself, but your family.
+[00:17:53.933 --> 00:17:54.733] WORF: You dishonour me.
+[00:17:57.293 --> 00:17:58.413] ALEXANDER: I'm sorry, Father.
+[00:17:59.773 --> 00:18:00.733] ALEXANDER: I won't do it ever again.
+[00:18:01.613 --> 00:18:02.573] ALEXANDER: I promise.
+[00:18:05.481 --> 00:18:06.601] WORF: I accept your word.
+[00:18:07.321 --> 00:18:10.521] WORF: We will not speak of this matter again.
+[00:18:19.081 --> 00:18:19.401] TROI: Worf.
+[00:18:20.761 --> 00:18:21.241] WORF: Counsellor?
+[00:18:21.801 --> 00:18:23.881] TROI: I just wanted to know how the field trip went yesterday.
+[00:18:24.761 --> 00:18:25.641] WORF: You have not heard?
+[00:18:25.881 --> 00:18:26.041] TROI: No.
+[00:18:26.521 --> 00:18:26.761] TROI: Why?
+[00:18:30.121 --> 00:18:30.521] WORF: Bridge.
+[00:18:32.201 --> 00:18:33.881] WORF: There was an incident.
+[00:18:34.601 --> 00:18:37.481] WORF: Alexander stole a small model and then told a falsehood.
+[00:18:38.041 --> 00:18:39.241] WORF: But I have remedied the situation.
+[00:18:41.001 --> 00:18:41.961] TROI: May I ask how?
+[00:18:44.361 --> 00:18:50.041] WORF: I pointed out his error, told him about Kahless and Morath, and explained the value of honour.
+[00:18:50.441 --> 00:18:51.241] WORF: The boy understood.
+[00:18:51.241 --> 00:18:52.921] TROI: I see.
+[00:18:56.041 --> 00:18:59.881] TROI: Sometimes these things aren't over as quickly as they seem to be.
+[00:19:01.481 --> 00:19:03.641] TROI: I'd be happy to help if you have any further problems.
+[00:19:03.801 --> 00:19:04.361] WORF: Thank you,
+[00:19:04.761 --> 00:19:06.041] WORF: that will not be necessary.
+[00:19:06.441 --> 00:19:08.441] WORF: Alexander will not repeat this mistake.
+[00:19:08.441 --> 00:19:08.441] DATA: The
+[00:19:14.361 --> 00:19:16.121] DATA: prototype has been towed into position, Captain.
+[00:19:16.521 --> 00:19:17.721] RIKER: Initiate a radio link to the ship.
+[00:19:18.601 --> 00:19:19.241] LAFORGE: Link established.
+[00:19:19.241 --> 00:19:20.521] LAFORGE: Receiving prelaunch telemetry
+[00:19:20.681 --> 00:19:21.081] LAFORGE: now.
+[00:19:22.441 --> 00:19:23.881] WORF: Incoming message from Doctor Ja'Dar.
+[00:19:24.521 --> 00:19:24.921] PICARD: On screen.
+[00:19:26.841 --> 00:19:27.161] JA'DAR: Captain,
+[00:19:27.561 --> 00:19:28.921] JA'DAR: we're ready to begin the launch sequence.
+[00:19:30.121 --> 00:19:30.601] PICARD: Mister Riker?
+[00:19:31.161 --> 00:19:32.361] RIKER: All science labs standing by.
+[00:19:32.601 --> 00:19:33.641] FELTON: Course laid in, sir.
+[00:19:34.601 --> 00:19:35.721] PICARD: The Enterprise is ready, Doctor.
+[00:19:36.041 --> 00:19:37.161] JA'DAR: This is Doctor Ja'Dar
+[00:19:37.196 --> 00:19:39.596] JA'DAR: to all stations. You may begin the launch sequence.
+[00:19:40.716 --> 00:19:41.116] PICARD: And Doctor?
+[00:19:43.116 --> 00:19:43.436] PICARD: Good luck.
+[00:19:44.636 --> 00:19:45.276] JA'DAR: Thank you, Captain.
+[00:19:46.956 --> 00:19:50.956] DATA: Sensors indicate the field generators on the planet surface are charging, Captain.
+[00:19:51.596 --> 00:19:53.356] LAFORGE: The soliton wave has been initiated.
+[00:19:54.316 --> 00:19:55.276] LAFORGE: It's heading for the test ship.
+[00:19:58.076 --> 00:20:01.836] DATA: The test ship has successfully entered warp, sir.
+[00:20:03.756 --> 00:20:05.196] PICARD: Ensign, engage.
+[00:20:12.556 --> 00:20:14.636] PICARD: Ensign, bring us to within twenty kilometres of the test ship.
+[00:20:15.196 --> 00:20:15.596] FELTON: Aye, sir.
+[00:20:15.916 --> 00:20:16.876] LAFORGE: Telemetry looks good.
+[00:20:17.836 --> 00:20:19.276] LAFORGE: Soliton wave is steady.
+[00:20:19.436 --> 00:20:22.476] DATA: The test ship is maintaining at warp two point three five, sir.
+[00:20:22.956 --> 00:20:26.556] LAFORGE: That's a little faster than they anticipated, but still well within mission parameters.
+[00:20:27.036 --> 00:20:28.316] FELTON: We're at twenty kilometres, Captain.
+[00:20:29.196 --> 00:20:31.836] PICARD: Mister Data, is the wave affecting our warp drive?
+[00:20:33.116 --> 00:20:33.356] DATA: No, sir.
+[00:20:33.916 --> 00:20:36.796] DATA: The effect has been localised to within two kilometres of the wavefront.
+[00:20:44.476 --> 00:20:46.236] RIKER: Mister La Forge, what is the power efficiency of the wave?
+[00:20:46.396 --> 00:20:49.596] LAFORGE: Energy transfer is ninety eight percent!
+[00:20:50.236 --> 00:20:50.796] RIKER: Ninety eight?
+[00:20:50.796 --> 00:20:51.356] LAFORGE: Yes, sir.
+[00:20:51.356 --> 00:20:54.956] LAFORGE: There's less than a two percent energy loss between the wave and the ship.
+[00:20:55.756 --> 00:20:58.636] DATA: That is four hundred and fifty percent more efficient than our own warp drive.
+[00:20:59.916 --> 00:21:00.396] PICARD: Astonishing.
+[00:21:01.596 --> 00:21:04.956] PICARD: Commander Riker, have science lab three begin a series of gamma emission tests.
+[00:21:05.356 --> 00:21:08.236] DATA: Sir, the wave's power signature is fluctuating.
+[00:21:08.644 --> 00:21:11.604] LAFORGE: Wave efficiency has dropped to seventy three percent.
+[00:21:11.764 --> 00:21:13.444] RIKER: The test ship's warp field is becoming unstable.
+[00:21:13.684 --> 00:21:15.124] RIKER: Sensors show multiple disruptions.
+[00:21:15.364 --> 00:21:18.084] FELTON: I'm reading a severe subspace distortion, sir.
+[00:21:18.084 --> 00:21:18.084] DATA: It
+[00:21:20.084 --> 00:21:21.204] DATA: is expanding toward us, sir.
+[00:21:21.764 --> 00:21:23.524] DATA: It appears to be interfering with our engines, Captain.
+[00:21:23.924 --> 00:21:25.364] LAFORGE: I can't compensate for it.
+[00:21:26.404 --> 00:21:27.364] PICARD: Bring us out of warp, Ensign.
+[00:21:27.604 --> 00:21:28.004] PICARD: All stop.
+[00:21:28.564 --> 00:21:29.044] FELTON: Aye, sir.
+[00:21:29.044 --> 00:21:29.604] FELTON: All stop.
+[00:21:37.964 --> 00:21:39.964] RIKER: Damage
+[00:21:45.404 --> 00:21:47.404] RIKER: report.
+[00:21:47.554 --> 00:21:48.554] PICARD: Hold on!
+[00:21:49.264 --> 00:21:50.264] RIKER: Damage report.
+[00:21:51.124 --> 00:21:52.804] LAFORGE: Sensors and warp drive are offline.
+[00:21:53.444 --> 00:21:55.684] LAFORGE: Deflectors down to fifteen percent.
+[00:21:55.764 --> 00:21:57.684] WORF: Several injuries reported on deck twenty seven.
+[00:21:57.684 --> 00:21:58.484] WORF: No fatalities.
+[00:21:58.484 --> 00:21:59.284] PICARD: What happened to the test ship?
+[00:21:59.844 --> 00:22:03.444] DATA: Our last readings indicate the craft exploded due to extreme shearing stress.
+[00:22:04.564 --> 00:22:06.724] WORF: Incoming message from Bilana Three, Captain.
+[00:22:07.044 --> 00:22:07.444] PICARD: On screen.
+[00:22:08.804 --> 00:22:10.164] JA'DAR: Captain, are you all right?
+[00:22:10.564 --> 00:22:11.284] JA'DAR: Was anyone hurt?
+[00:22:11.604 --> 00:22:12.964] PICARD: We sustained some minor damage.
+[00:22:12.964 --> 00:22:13.764] PICARD: Do you know what happened?
+[00:22:14.564 --> 00:22:18.964] JA'DAR: The preliminary data we received indicate a transient power imbalance.
+[00:22:19.284 --> 00:22:21.604] LAFORGE: That would be consistent with our telemetry readings from the ship.
+[00:22:21.844 --> 00:22:25.444] LAFORGE: We detected a sudden drop in transfer efficiency just before the explosion.
+[00:22:25.764 --> 00:22:27.044] JA'DAR: Are you still tracking the wave?
+[00:22:27.444 --> 00:22:31.204] LAFORGE: No, the explosion damaged our main sensor array, but I think we'll have it repaired in a couple of hours.
+[00:22:31.444 --> 00:22:35.444] PICARD: We'll contact you as soon as the sensors are back online.
+[00:22:35.444 --> 00:22:35.764] LAFORGE: Doctor.
+[00:22:38.808 --> 00:22:39.288] LAFORGE: You did it.
+[00:22:40.168 --> 00:22:41.768] LAFORGE: Warp without warp drive. For a while
+[00:22:41.768 --> 00:22:43.048] LAFORGE: there it was really something to see.
+[00:22:43.688 --> 00:22:47.448] JA'DAR: Well, I hope you're here to see it next time we try, Mister La Forge.
+[00:22:48.088 --> 00:22:48.808] LAFORGE: So do I, Doctor.
+[00:22:59.208 --> 00:23:00.088] WORF: I apologise.
+[00:23:00.328 --> 00:23:01.128] WORF: I was detained.
+[00:23:01.688 --> 00:23:02.408] KYLE: It's quite all right.
+[00:23:02.808 --> 00:23:03.848] KYLE: Please sit down.
+[00:23:04.488 --> 00:23:04.808] WORF: Thank you.
+[00:23:10.648 --> 00:23:11.288] KYLE: Lieutenant,
+[00:23:12.088 --> 00:23:16.488] KYLE: your son is a very bright, very spirited young man.
+[00:23:17.448 --> 00:23:20.888] KYLE: From his test scores, I'm sure he'll turn out to be one of my best students.
+[00:23:22.728 --> 00:23:28.968] KYLE: However, from his behaviour in class so far, I do have some concerns.
+[00:23:29.528 --> 00:23:30.968] WORF: What sort of concerns?
+[00:23:32.408 --> 00:23:34.488] KYLE: Frankly, he's defiant,
+[00:23:35.448 --> 00:23:40.968] KYLE: he's overly aggressive toward the other students, and he has a great deal of difficulty paying attention.
+[00:23:41.848 --> 00:23:45.288] WORF: Perhaps you do not have experience dealing with Klingon children.
+[00:23:45.848 --> 00:23:47.368] WORF: They require a firm hand.
+[00:23:48.648 --> 00:23:51.528] KYLE: And he seems to still have difficulty telling the truth.
+[00:23:53.208 --> 00:23:56.728] KYLE: He takes toys from other the other students and then denies taking them.
+[00:23:57.928 --> 00:24:01.928] KYLE: He acts like a bully and then says someone else started the fight.
+[00:24:03.928 --> 00:24:06.728] KYLE: And he's bluntly told me you said
+[00:24:07.289 --> 00:24:09.209] KYLE: Klingons do not listen to teachers.
+[00:24:11.849 --> 00:24:13.049] WORF: I did not tell him that.
+[00:24:13.529 --> 00:24:14.969] KYLE: No, of course not.
+[00:24:16.809 --> 00:24:22.489] KYLE: He's acting on his internal feelings and then making up stories to explain them.
+[00:24:25.529 --> 00:24:29.689] KYLE: It might be a good idea for the two of you to sit down with Counsellor Troi and
+[00:24:29.689 --> 00:24:32.009] WORF: Computer, where is Alexander Rozhenko?
+[00:24:32.329 --> 00:24:34.569] COMPUTER: Alexander Rozhenko is on holodeck four.
+[00:24:36.249 --> 00:24:38.569] KYLE: Lieutenant, I think we should
+[00:24:38.569 --> 00:24:39.849] WORF: I will handle this.
+[00:24:43.609 --> 00:24:49.369] WORF: Computer, what programme is being run?
+[00:24:49.609 --> 00:24:51.529] COMPUTER: Calisthenics programme of Lieutenant Worf.
+[00:24:52.089 --> 00:24:53.529] COMPUTER: Difficulty level, Novice.
+[00:25:18.089 --> 00:25:18.089] WORF: Computer,
+[00:25:20.089 --> 00:25:20.089] WORF: freeze
+[00:25:32.089 --> 00:25:32.569] WORF: programme.
+[00:25:33.289 --> 00:25:35.369] ALEXANDER: Did you
+[00:25:37.049 --> 00:25:38.249] ALEXANDER: see it, Father?
+[00:25:38.249 --> 00:25:38.409] ALEXANDER: I won.
+[00:25:39.131 --> 00:25:40.091] WORF: Yes, I saw.
+[00:25:40.971 --> 00:25:41.771] WORF: Why are you here?
+[00:25:42.651 --> 00:25:43.291] ALEXANDER: I'm training.
+[00:25:43.691 --> 00:25:48.251] WORF: But you did not ask permission to take my bat'leth, or permission to use the holodeck.
+[00:25:48.731 --> 00:25:50.651] ALEXANDER: You said you wanted me to be a warrior.
+[00:25:51.051 --> 00:25:55.131] WORF: I also said I wanted you to obey your teachers and keep your promise to me.
+[00:25:56.731 --> 00:26:00.731] WORF: Ms. Kyle has told me about your behaviour. About your lies.
+[00:26:01.131 --> 00:26:02.331] ALEXANDER: I have not lied!
+[00:26:02.651 --> 00:26:03.771] WORF: Alexander, do not continue to
+[00:26:03.771 --> 00:26:04.491] ALEXANDER: She's lying!
+[00:26:04.491 --> 00:26:05.211] ALEXANDER: She hates me,
+[00:26:05.211 --> 00:26:07.291] ALEXANDER: that's why she makes up stories about me!
+[00:26:07.531 --> 00:26:09.691] WORF: I will not listen to more lies.
+[00:26:14.491 --> 00:26:15.691] WORF: Return to our quarters.
+[00:26:16.571 --> 00:26:18.571] ALEXANDER: You said we could go see the gilvos again.
+[00:26:19.291 --> 00:26:19.851] WORF: Not now.
+[00:26:20.331 --> 00:26:21.771] WORF: Not after you have broken your word.
+[00:26:22.251 --> 00:26:23.211] ALEXANDER: You promised.
+[00:26:23.371 --> 00:26:24.491] ALEXANDER: You said that we could.
+[00:26:24.491 --> 00:26:24.891] WORF: Enough!
+[00:26:26.811 --> 00:26:30.251] WORF: It is now clear to me that I have failed in my duties as your father.
+[00:26:31.771 --> 00:26:34.971] WORF: You have no understanding about what it means to be Klingon.
+[00:26:39.291 --> 00:26:42.811] WORF: I will arrange for you to attend a Klingon school.
+[00:26:42.971 --> 00:26:45.451] WORF: There you will learn the lessons I have failed to teach you.
+[00:26:45.611 --> 00:26:46.251] ALEXANDER: No! I won't
+[00:26:49.131 --> 00:26:49.691] ALEXANDER: go!
+[00:26:49.931 --> 00:26:53.851] WORF: Would you further dishonour our family with your disobedience?
+[00:26:57.451 --> 00:26:57.931] ALEXANDER: No, sir.
+[00:26:59.211 --> 00:27:02.651] WORF: You will go to our quarters and remain there until I return.
+[00:27:13.687 --> 00:27:14.407] RIKER: Riker to Engineering.
+[00:27:14.967 --> 00:27:16.167] RIKER: What's your estimate on the engines, Geordi?
+[00:27:16.567 --> 00:27:17.847] LAFORGE: I need another hour, Commander.
+[00:27:18.007 --> 00:27:20.007] LAFORGE: I still have to replace three power couplings.
+[00:27:20.807 --> 00:27:21.407] RIKER: Understood.
+[00:27:21.407 --> 00:27:22.007] DATA: Sir,
+[00:27:22.407 --> 00:27:23.687] DATA: sensors are coming back online.
+[00:27:23.927 --> 00:27:24.167] RIKER: Good.
+[00:27:24.967 --> 00:27:26.727] RIKER: Begin a sensor sweep for the soliton wave.
+[00:27:27.287 --> 00:27:27.607] DATA: Aye, sir.
+[00:27:28.887 --> 00:27:31.607] DATA: The wave is continuing on course for the Lemma Two colony.
+[00:27:32.407 --> 00:27:35.287] DATA: It is bearing zero two zero, mark three two nine.
+[00:27:36.087 --> 00:27:38.567] RIKER: Open a channel back here to Doctor Ja'Dar.
+[00:27:38.567 --> 00:27:43.287] DATA: Sir, the wave has increased in velocity to warp four point one.
+[00:27:46.407 --> 00:27:47.767] RIKER: Doctor, we've located the soliton wave.
+[00:27:47.767 --> 00:27:49.047] RIKER: It's still on a course for Lemma Two.
+[00:27:49.287 --> 00:27:51.607] RIKER: However its velocity has increased to warp four point one.
+[00:27:52.647 --> 00:27:55.023] JA'DAR: Have you checked the frequency resonance of the subspace
+[00:27:55.023 --> 00:27:55.287] DATA: Sir,
+[00:27:56.167 --> 00:27:58.887] DATA: the energy level of the wave has increased by a factor of twelve.
+[00:27:59.687 --> 00:28:03.287] DATA: At this rate, it will have increased by a factor of two hundred by the time it reaches Lemma Two.
+[00:28:03.767 --> 00:28:05.783] RIKER: Will they still be able to dissipate the wave?
+[00:28:05.783 --> 00:28:06.007] JA'DAR: Commander,
+[00:28:06.087 --> 00:28:10.887] JA'DAR: at that energy level, the wave will not only destroy the colony, it'll take most of the planet with it.
+[00:28:17.927 --> 00:28:19.287] TROI: Are you sure this is what you want?
+[00:28:19.447 --> 00:28:19.447] WORF: It
+[00:28:22.487 --> 00:28:24.727] WORF: is not a question of what I want.
+[00:28:25.287 --> 00:28:27.127] WORF: It is a question of what is best for the boy.
+[00:28:28.167 --> 00:28:29.847] WORF: He will be better off at a Klingon school.
+[00:28:30.658 --> 00:28:32.018] TROI: Have you discussed this with Alexander?
+[00:28:32.818 --> 00:28:33.618] WORF: He is a child.
+[00:28:34.338 --> 00:28:35.938] WORF: I informed him of my decision.
+[00:28:36.498 --> 00:28:36.818] TROI: I see.
+[00:28:39.698 --> 00:28:40.658] WORF: You disapprove?
+[00:28:42.578 --> 00:28:45.538] TROI: I'm not here to approve or disapprove of the way you raise your son.
+[00:28:47.218 --> 00:28:50.018] TROI: My concern right now is how this decision is going to affect you.
+[00:28:51.138 --> 00:28:52.658] TROI: How will you feel when Alexander's gone?
+[00:29:00.178 --> 00:29:03.538] WORF: I will be pleased that he is receiving the guidance he requires.
+[00:29:05.298 --> 00:29:07.698] TROI: Is that how you felt when he left to live with your parents?
+[00:29:12.498 --> 00:29:13.218] WORF: That was different.
+[00:29:15.218 --> 00:29:21.538] WORF: At the time, I felt he needed a home, a family. Things I could not provide for him.
+[00:29:22.738 --> 00:29:23.378] TROI: I understand.
+[00:29:25.378 --> 00:29:31.538] TROI: The idea of raising a child can seem a tremendous burden, particularly to a solitary parent.
+[00:29:32.578 --> 00:29:33.698] WORF: He was no burden.
+[00:29:35.698 --> 00:29:42.738] WORF: I simply knew that a Klingon child required more attention than I could provide.
+[00:29:43.618 --> 00:29:44.018] TROI: I see.
+[00:29:49.698 --> 00:29:52.978] TROI: Have you ever wondered how Alexander felt about being sent away?
+[00:29:56.818 --> 00:29:58.738] WORF: He was very young.
+[00:30:01.218 --> 00:30:02.738] WORF: I'm sure he was confused.
+[00:30:03.479 --> 00:30:04.759] TROI: Do you think he felt abandoned?
+[00:30:07.639 --> 00:30:11.239] TROI: After all, he left very soon after K'Ehleyr's death.
+[00:30:12.279 --> 00:30:16.359] TROI: In a way, he not only lost his mother, he lost his father as well.
+[00:30:23.319 --> 00:30:28.519] WORF: Are you saying that his misconduct is a result of feeling abandoned?
+[00:30:30.039 --> 00:30:30.679] TROI: It's possible.
+[00:30:33.239 --> 00:30:36.999] TROI: Children don't have the experience to handle emotional crises.
+[00:30:38.199 --> 00:30:41.399] TROI: Instead of dealing with their feelings, they act on them.
+[00:30:53.079 --> 00:30:56.999] TROI: Tell me about the last time you spoke with K'Ehleyr, the night she died.
+[00:31:00.119 --> 00:31:00.679] WORF: We argued.
+[00:31:01.719 --> 00:31:02.199] TROI: What about?
+[00:31:02.919 --> 00:31:03.559] WORF: Alexander.
+[00:31:04.839 --> 00:31:07.239] WORF: About how she did not tell me about him when he was born.
+[00:31:08.199 --> 00:31:09.399] TROI: So you were angry with her?
+[00:31:11.079 --> 00:31:11.399] WORF: Yes.
+[00:31:12.919 --> 00:31:13.959] TROI: Are you still angry with her?
+[00:31:16.599 --> 00:31:17.239] WORF: Of course not.
+[00:31:19.879 --> 00:31:21.959] TROI: It would be very normal to be angry with her.
+[00:31:23.399 --> 00:31:26.919] TROI: Angry because she died and left you alone with a son you never knew you had.
+[00:31:31.639 --> 00:31:34.279] TROI: Being angry doesn't mean you loved her any less, Worf,
+[00:31:36.444 --> 00:31:42.124] TROI: but you can't hide from your feelings, just as Alexander cannot hide from his.
+[00:31:43.804 --> 00:31:45.724] TROI: You both have a lot of healing to do.
+[00:31:47.724 --> 00:31:49.564] TROI: Perhaps you should think about doing it together.
+[00:32:07.564 --> 00:32:08.204] WORF: Alexander.
+[00:32:08.924 --> 00:32:09.724] ALEXANDER: I'm almost done.
+[00:32:10.524 --> 00:32:11.244] WORF: Stop for a moment.
+[00:32:11.724 --> 00:32:12.124] WORF: Let us talk.
+[00:32:12.764 --> 00:32:13.084] ALEXANDER: Why?
+[00:32:14.764 --> 00:32:17.964] WORF: I want you to understand why you are going away.
+[00:32:18.524 --> 00:32:19.484] ALEXANDER: I understand.
+[00:32:19.644 --> 00:32:20.844] ALEXANDER: You're ashamed of me.
+[00:32:21.244 --> 00:32:22.684] WORF: You do not understand.
+[00:32:24.364 --> 00:32:26.284] WORF: I'm concerned about your future.
+[00:32:26.924 --> 00:32:29.244] WORF: A Klingon school will be a better environment for you.
+[00:32:29.804 --> 00:32:31.244] ALEXANDER: You don't care about me.
+[00:32:31.404 --> 00:32:32.284] WORF: That is not true.
+[00:32:32.524 --> 00:32:34.364] ALEXANDER: All you care about is your honour!
+[00:32:34.684 --> 00:32:35.004] WORF: Alexander.
+[00:32:38.924 --> 00:32:43.324] WORF: If your mother were here I do not think she would want us to fight like this.
+[00:32:43.964 --> 00:32:45.484] ALEXANDER: My mother wouldn't send me away.
+[00:32:46.444 --> 00:32:49.004] RIKER: Lieutenant Worf, please report to the Observation lounge.
+[00:32:50.844 --> 00:32:51.484] WORF: Acknowledged.
+[00:32:52.284 --> 00:32:52.924] WORF: Remain here.
+[00:32:53.564 --> 00:32:54.524] WORF: I will return shortly.
+[00:33:09.570 --> 00:33:09.970] PICARD: Report.
+[00:33:11.570 --> 00:33:13.410] LAFORGE: The soliton wave has continued to increase
+[00:33:13.410 --> 00:33:13.490] LAFORGE: in
+[00:33:16.450 --> 00:33:17.061] WORF: Excuse me.
+[00:33:17.061 --> 00:33:19.810] LAFORGE: The soliton wave has continued to increase in power.
+[00:33:20.050 --> 00:33:24.210] LAFORGE: Its energy level has risen by a factor of ninety six. At its current rate of acceleration,
+[00:33:24.530 --> 00:33:26.290] LAFORGE: the wave should hit the planet in a couple of hours.
+[00:33:26.690 --> 00:33:27.250] PICARD: How do we stop it?
+[00:33:27.970 --> 00:33:29.490] LAFORGE: Well, there are two possibilities.
+[00:33:29.730 --> 00:33:33.890] LAFORGE: We could attempt to use our own warp engines to generate an inverse-resonance wave.
+[00:33:33.890 --> 00:33:39.490] LAFORGE: If we could match the exact frequency and amplitude of the soliton, we should be able to neutralise it.
+[00:33:39.890 --> 00:33:40.930] RIKER: You don't sound very confident.
+[00:33:41.410 --> 00:33:48.610] DATA: Because the soliton is constantly changing in both frequency and amplitude, it will be extremely difficult to achieve an exact match.
+[00:33:49.810 --> 00:33:50.690] PICARD: Let's hear the second option.
+[00:33:51.170 --> 00:33:54.130] LAFORGE: It's a little more dangerous, but I think there's a better chance for success.
+[00:33:54.610 --> 00:33:59.890] LAFORGE: We could create a backfire, an explosive force set off just in front of the soliton wave.
+[00:34:00.690 --> 00:34:06.290] LAFORGE: A large enough explosion, say five photon torpedoes, should be enough to disrupt the wave and allow it to dissipate.
+[00:34:07.490 --> 00:34:08.770] PICARD: How fast is the wave travelling now?
+[00:34:09.410 --> 00:34:10.850] DATA: Warp six point three seven.
+[00:34:11.170 --> 00:34:16.829] LAFORGE: The good news is we can catch it. The bad news is that in order to set up this backfire we have to be in front of it.
+[00:34:16.829 --> 00:34:18.850] DATA: Which would require the Enterprise to go through the wave.
+[00:34:19.330 --> 00:34:20.130] RIKER: Why can't we go around it?
+[00:34:20.930 --> 00:34:23.410] DATA: The wave has been growing in size as well as power.
+[00:34:23.810 --> 00:34:27.570] DATA: There is insufficient time remaining for us to circumvent it before it reaches Lemma Two.
+[00:34:28.770 --> 00:34:32.210] PICARD: How much protection will the shields provide if we attempt to penetrate the wave?
+[00:34:32.610 --> 00:34:34.370] WORF: The shields have not been fully restored.
+[00:34:34.937 --> 00:34:36.937] WORF: Shield strength is down to thirty three percent.
+[00:34:38.137 --> 00:34:39.017] RIKER: It's going to be quite a ride.
+[00:34:41.737 --> 00:34:42.377] PICARD: It's a better choice.
+[00:34:44.777 --> 00:34:46.137] PICARD: Lay in a course for the soliton wave.
+[00:34:49.897 --> 00:34:51.897] PICARD: Ensign,
+[00:34:51.897 --> 00:34:55.817] PICARD: after we've passed through the wave, I want you to take us at a relative position twenty three kilometres in front of it.
+[00:34:56.057 --> 00:34:56.457] FELTON: Aye, sir.
+[00:34:56.857 --> 00:34:58.777] RIKER: Alert sickbay to prepare for possible casualties.
+[00:34:58.937 --> 00:34:59.257] WORF: Aye, sir.
+[00:34:59.737 --> 00:35:02.057] DATA: The wave has increased speed to warp seven point two,
+[00:35:02.137 --> 00:35:02.425] DATA: Captain.
+[00:35:02.425 --> 00:35:05.017] PICARD: Ensign, take us to warp seven point two one.
+[00:35:10.537 --> 00:35:11.897] FELTON: We are approaching the wave, Captain.
+[00:35:11.897 --> 00:35:13.817] FELTON: Distance two hundred kilometres.
+[00:35:13.977 --> 00:35:14.377] RIKER: Let's see
+[00:35:15.977 --> 00:35:17.977] RIKER: it.
+[00:35:17.977 --> 00:35:20.377] PICARD: Stand by to increase speed to warp seven point three.
+[00:35:20.537 --> 00:35:21.257] PICARD: On my mark.
+[00:35:21.497 --> 00:35:22.057] RIKER: Red Alert.
+[00:35:22.377 --> 00:35:23.337] RIKER: Load torpedo bays. Set
+[00:35:23.417 --> 00:35:24.857] RIKER: warhead yields to level sixteen.
+[00:35:25.497 --> 00:35:25.817] WORF: Aye, sir.
+[00:35:26.777 --> 00:35:27.257] RIKER: All deck,
+[00:35:27.257 --> 00:35:27.977] RIKER: this is the Bridge.
+[00:35:28.377 --> 00:35:29.257] RIKER: Brace for impact.
+[00:35:30.297 --> 00:35:31.097] WORF: Torpedoes loaded.
+[00:35:31.737 --> 00:35:33.737] PICARD: Engage.
+[00:35:33.737 --> 00:35:33.737] PICARD: Report.
+[00:36:09.140 --> 00:36:11.380] DATA: We have passed through the wave, Captain.
+[00:36:11.860 --> 00:36:13.780] FELTON: We have dropped to warp seven point two.
+[00:36:14.100 --> 00:36:16.980] FELTON: The wave is directly astern at a distance of twenty three kilometres.
+[00:36:17.460 --> 00:36:19.620] WORF: Deflector strength is down to twelve percent.
+[00:36:20.420 --> 00:36:23.380] WORF: There are fluctuations in several warp transfer conduits.
+[00:36:23.860 --> 00:36:25.620] WORF: Tractor beams and transporters offline.
+[00:36:26.340 --> 00:36:27.940] RIKER: We have some gaps in the aft shields, Captain.
+[00:36:29.060 --> 00:36:30.100] RIKER: When the torpedoes explode,
+[00:36:30.340 --> 00:36:32.580] RIKER: these areas will be contaminated with ion radiation.
+[00:36:32.980 --> 00:36:37.389] RIKER: We need to evacuate sections twenty four to forty seven, decks thirty five through thirty eight.
+[00:36:37.389 --> 00:36:37.940] PICARD: Make it
+[00:36:38.180 --> 00:36:38.820] PICARD: so.
+[00:36:40.660 --> 00:36:43.060] WORF: Sir, there is a fire in biolab four,
+[00:36:43.060 --> 00:36:44.980] WORF: The fire suppression apparatus is not functioning.
+[00:36:45.300 --> 00:36:46.260] PICARD: Seal off the compartment.
+[00:36:46.900 --> 00:36:47.723] PICARD: Prepare to vent the air from
+[00:36:47.723 --> 00:36:47.860] DATA: Sir,
+[00:36:47.860 --> 00:36:49.460] DATA: there are life forms present in that biolab.
+[00:36:49.780 --> 00:36:52.100] RIKER: We're transporting endangered animals from Corvan Two.
+[00:36:52.500 --> 00:36:54.820] DATA: Readings also indicate the presence of a humanoid, Captain.
+[00:36:55.300 --> 00:36:57.940] PICARD: Computer, identify humanoid life form in biolab four.
+[00:36:58.580 --> 00:37:01.460] COMPUTER: Life form is identified as Alexander Rozhenko.
+[00:37:09.780 --> 00:37:11.460] PICARD: Bridge to biolab four. Alexander,
+[00:37:11.460 --> 00:37:12.260] PICARD: can you hear us?
+[00:37:13.140 --> 00:37:14.260] WORF: Sensors show he is alive.
+[00:37:14.500 --> 00:37:15.140] WORF: He may be injured.
+[00:37:15.460 --> 00:37:16.340] RIKER: Can we transport him out of there?
+[00:37:16.900 --> 00:37:18.100] WORF: Transporters are still offline.
+[00:37:18.580 --> 00:37:20.260] FELTON: Captain, warp power is dropping.
+[00:37:20.260 --> 00:37:21.220] FELTON: We're losing speed.
+[00:37:21.300 --> 00:37:22.420] RIKER: Riker to Engineering. Geordi,
+[00:37:22.420 --> 00:37:23.060] RIKER: what is going on?
+[00:37:23.300 --> 00:37:25.780] LAFORGE: We lost four warp transfer conduits, Commander.
+[00:37:26.020 --> 00:37:27.060] RIKER: The wave is gaining on us.
+[00:37:27.060 --> 00:37:27.940] RIKER: We need more speed.
+[00:37:28.100 --> 00:37:30.660] LAFORGE: I doubt that I can keep this speed up Much longer, Commander.
+[00:37:30.980 --> 00:37:33.460] LAFORGE: You'd better fire those torpedoes while we're still in front of the wave.
+[00:37:33.780 --> 00:37:35.460] PICARD: Mister Data, how long before the wave overtakes us?
+[00:37:35.770 --> 00:37:37.930] DATA: At our current speed, four minutes thirty seconds, sir.
+[00:37:38.170 --> 00:37:39.690] WORF: Captain, permission to leave the bridge.
+[00:37:40.010 --> 00:37:40.330] PICARD: Granted.
+[00:37:40.410 --> 00:37:42.250] PICARD: Commander, will you accompany Mister Worf to biolab four.
+[00:37:42.410 --> 00:37:46.330] DATA: Captain, biolab four is one of the areas that will be flooded with ion radiation.
+[00:37:46.490 --> 00:37:49.370] PICARD: Commander. I can't let the soliton wave hit the colony.
+[00:37:49.610 --> 00:37:51.290] PICARD: You have three minutes, not one second more.
+[00:38:03.850 --> 00:38:05.210] RIKER: Primary control's shorted out.
+[00:38:19.050 --> 00:38:19.370] WORF: Stand
+[00:38:22.730 --> 00:38:22.730] WORF: clear.
+[00:38:32.010 --> 00:38:32.010] WORF: Alexander!
+[00:38:32.074 --> 00:38:32.138] RIKER: Alexander,
+[00:38:32.202 --> 00:38:33.610] RIKER: can you hear me?
+[00:38:37.610 --> 00:38:37.610] RIKER: Alexander?
+[00:38:38.970 --> 00:38:41.370] DATA: The soliton wave has closed to ten kilometres, Captain.
+[00:38:42.250 --> 00:38:43.690] PICARD: Stand by to fire torpedoes on my command.
+[00:38:47.050 --> 00:38:47.210] RIKER: Alexander!
+[00:38:48.410 --> 00:38:50.410] WORF: Commander,
+[00:38:50.410 --> 00:38:51.850] WORF: I've found him!
+[00:38:53.370 --> 00:38:53.610] RIKER: Worf!
+[00:38:55.290 --> 00:38:58.714] RIKER: Where are you Worf?
+[00:38:59.258 --> 00:39:00.890] WORF: Over here.
+[00:39:00.890 --> 00:39:00.890] WORF: Help me.
+[00:39:01.040 --> 00:39:01.640] RIKER: It's
+[00:39:15.458 --> 00:39:15.778] RIKER: too heavy.
+[00:39:15.778 --> 00:39:16.898] RIKER: I've got to find something to help us.
+[00:39:18.578 --> 00:39:20.578] ALEXANDER: Father?
+[00:39:20.728 --> 00:39:21.328] WORF: Lie
+[00:39:22.498 --> 00:39:23.538] WORF: still, I am here.
+[00:39:24.098 --> 00:39:25.058] ALEXANDER: My leg hurts.
+[00:39:25.058 --> 00:39:27.778] ALEXANDER: I'm scared.
+[00:39:29.418 --> 00:39:31.058] ALEXANDER: The
+[00:39:34.338 --> 00:39:34.338] ALEXANDER: gilvos!
+[00:39:59.698 --> 00:40:01.458] RIKER: There's no time.
+[00:40:01.618 --> 00:40:02.738] ALEXANDER: Please, they'll die!
+[00:40:05.698 --> 00:40:07.858] DATA: The wave has closed to one kilometre, Captain.
+[00:40:08.338 --> 00:40:09.218] PICARD: Picard to Commander Riker.
+[00:40:11.298 --> 00:40:12.178] PICARD: Bridge to Lieutenant Worf,
+[00:40:12.178 --> 00:40:12.658] PICARD: acknowledge.
+[00:40:13.698 --> 00:40:14.978] DATA: The wave is about to overtake us, sir.
+[00:40:15.458 --> 00:40:16.498] PICARD: Commander Riker, acknowledge!
+[00:40:19.778 --> 00:40:20.498] PICARD: Fire torpedoes.
+[00:40:20.498 --> 00:40:21.458] DATA: The wave has been disrupted, sir.
+[00:40:40.466 --> 00:40:41.186] PICARD: Picard to Riker.
+[00:40:41.186 --> 00:40:41.506] RIKER: Riker here,
+[00:40:44.226 --> 00:40:44.226] RIKER: Captain.
+[00:40:46.226 --> 00:40:46.866] RIKER: We made it Sir.
+[00:40:47.986 --> 00:40:48.866] RIKER: The boy's going to be all right.
+[00:40:49.426 --> 00:40:49.426] CRUSHER: You're
+[00:41:02.706 --> 00:41:03.906] CRUSHER: a very lucky little boy.
+[00:41:04.386 --> 00:41:07.106] CRUSHER: Just some minor smoke inhalation and a hairline fracture of the tibia.
+[00:41:08.946 --> 00:41:10.066] CRUSHER: That's a bone in your leg.
+[00:41:11.506 --> 00:41:13.746] CRUSHER: I'd like to keep him overnight, but he should be fine by tomorrow.
+[00:41:14.706 --> 00:41:15.346] WORF: Thank you, Doctor.
+[00:41:22.386 --> 00:41:22.466] ALEXANDER: Are
+[00:41:25.266 --> 00:41:27.186] ALEXANDER: you going to get in trouble because of me?
+[00:41:28.946 --> 00:41:30.386] WORF: Do not concern yourself with that.
+[00:41:31.186 --> 00:41:32.226] ALEXANDER: Am I in trouble?
+[00:41:34.306 --> 00:41:34.786] WORF: Yes,
+[00:41:36.626 --> 00:41:38.706] WORF: but we will discuss that at a later time.
+[00:41:39.906 --> 00:41:40.786] ALEXANDER: I'm sorry.
+[00:41:42.466 --> 00:41:44.626] ALEXANDER: I promise I'll be good at the Klingon school.
+[00:41:45.186 --> 00:41:46.466] ALEXANDER: I'll make you proud of me.
+[00:41:49.346 --> 00:41:51.586] WORF: Klingon schools are designed to be difficult.
+[00:41:52.866 --> 00:41:58.706] WORF: The physical and mental hardships faced by the students are meant to build character and strength.
+[00:42:02.786 --> 00:42:03.186] WORF: However,
+[00:42:06.866 --> 00:42:09.506] WORF: if you wish to face a greater challenge,
+[00:42:11.026 --> 00:42:12.226] WORF: you may stay here with me.
+[00:42:14.036 --> 00:42:14.916] WORF: It will not be easy, for
+[00:42:16.996 --> 00:42:17.556] WORF: either one of us,
+[00:42:19.956 --> 00:42:22.276] WORF: but perhaps we can face the challenge together.
+[00:42:24.676 --> 00:42:26.436] ALEXANDER: I accept your challenge, Father.
+[00:42:26.836 --> 00:42:27.556] ALEXANDER: I will stay.
+[00:42:30.596 --> 00:42:32.436] WORF: I believe your mother would be pleased.
+[00:43:07.000 --> 00:43:36.000] [music]

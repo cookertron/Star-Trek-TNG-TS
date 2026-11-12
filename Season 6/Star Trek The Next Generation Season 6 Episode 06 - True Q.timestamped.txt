@@ -1,0 +1,736 @@
+[00:00:02.720 --> 00:00:05.760] LOG: Captain's log, stardate 46192.3.
+[00:00:06.240 --> 00:00:14.400] LOG: We have arrived at Starbase one one two and are loading relief supplies destined for Tagra Four, an ecologically devastated planet in the Argolis Cluster.
+[00:00:15.120 --> 00:00:17.600] LOG: We have also taken on a rather unusual passenger.
+[00:00:18.560 --> 00:00:19.920] PICARD: Welcome to the Enterprise, Miss Rogers.
+[00:00:20.000 --> 00:00:21.440] PICARD: I'm delighted to have you aboard.
+[00:00:21.600 --> 00:00:22.160] AMANDA: Thank you, sir.
+[00:00:22.240 --> 00:00:23.520] PICARD: And congratulations.
+[00:00:23.680 --> 00:00:27.440] PICARD: I understand that you were selected for this internship out of hundreds of applicants.
+[00:00:27.600 --> 00:00:28.000] AMANDA: Yes, sir.
+[00:00:28.000 --> 00:00:30.080] AMANDA: I still can't believe they chose me.
+[00:00:30.480 --> 00:00:32.320] AMANDA: There were lots of other people with better records.
+[00:00:32.560 --> 00:00:34.080] CRUSHER: Your transcript is very impressive.
+[00:00:34.480 --> 00:00:38.080] CRUSHER: She's done honours work in neurobiology, plasma dynamics, and eco-regeneration.
+[00:00:38.080 --> 00:00:40.320] CRUSHER: I'd say that's pretty well rounded.
+[00:00:40.720 --> 00:00:44.160] AMANDA: That's a nice way of saying that I haven't decided what I'm going to do with my life.
+[00:00:44.880 --> 00:00:53.328] CRUSHER: I've arranged to have you work in all the major departments while you're here, and I'm willing to bet that by the time it's over you'll have a pretty good idea what field you're interested in.
+[00:00:53.328 --> 00:00:55.440] PICARD: Or at least what fields you're not interested in.
+[00:00:56.800 --> 00:00:57.120] PICARD: Come.
+[00:00:59.360 --> 00:01:00.880] RIKER: We're bringing up the rest of the cargo now.
+[00:01:00.880 --> 00:01:02.160] RIKER: We should be ready to leave within the hour.
+[00:01:02.640 --> 00:01:04.480] PICARD: Commander, will you escort Miss Rogers to her quarters?
+[00:01:04.640 --> 00:01:06.800] PICARD: I need to discuss the Tagran's medical needs with Doctor Crusher.
+[00:01:07.520 --> 00:01:08.160] PICARD: And Miss Rogers?
+[00:01:08.320 --> 00:01:08.720] AMANDA: Yes?
+[00:01:09.520 --> 00:01:11.120] PICARD: You've won yourself a rare opportunity.
+[00:01:12.160 --> 00:01:13.120] PICARD: Avail yourself of it.
+[00:01:13.840 --> 00:01:14.400] AMANDA: I will, sir.
+[00:01:15.440 --> 00:01:16.080] AMANDA: And thank you.
+[00:01:23.040 --> 00:01:25.600] RIKER: It'll take a few days before you know where everything is.
+[00:01:26.080 --> 00:01:28.880] RIKER: If you need any help, you just use one of these comm. panels.
+[00:01:30.215 --> 00:01:32.215] AMANDA: We're on deck seven, section four.
+[00:01:33.255 --> 00:01:33.655] RIKER: You're right.
+[00:01:34.535 --> 00:01:36.695] AMANDA: I practically memorised the specs on the way over here.
+[00:01:37.015 --> 00:01:37.975] RIKER: You're a quick study.
+[00:01:38.855 --> 00:01:39.415] RIKER: This is it.
+[00:01:42.135 --> 00:01:43.895] AMANDA: Is this for me?
+[00:01:44.135 --> 00:01:44.855] RIKER: It's all yours.
+[00:01:45.005 --> 00:01:45.605] AMANDA: It's
+[00:01:46.615 --> 00:01:47.895] AMANDA: so big.
+[00:01:48.295 --> 00:01:50.135] RIKER: For honour students, only the best.
+[00:01:53.735 --> 00:01:56.135] AMANDA: Well, I could've brought my zoo.
+[00:01:57.335 --> 00:01:57.735] RIKER: Your zoo?
+[00:01:58.135 --> 00:01:59.575] AMANDA: That's just what my parents call it.
+[00:01:59.975 --> 00:02:01.175] AMANDA: Three dogs isn't that many, is it?
+[00:02:01.655 --> 00:02:02.855] RIKER: It depends how they get along.
+[00:02:03.895 --> 00:02:04.855] AMANDA: I could have a dozen.
+[00:02:05.335 --> 00:02:06.615] AMANDA: Mother said enough is enough.
+[00:02:06.765 --> 00:02:07.365] AMANDA: I'm
+[00:02:08.455 --> 00:02:09.255] AMANDA: sure going to miss 'em.
+[00:02:09.895 --> 00:02:11.575] RIKER: We'll keep you so busy you won't have a chance to.
+[00:02:12.455 --> 00:02:13.095] RIKER: I've got to get going.
+[00:02:13.095 --> 00:02:14.135] RIKER: I have to get back to cargo bay two.
+[00:02:14.535 --> 00:02:15.575] AMANDA: Well,
+[00:02:15.575 --> 00:02:17.095] AMANDA: thanks for walking me down.
+[00:02:18.135 --> 00:02:18.375] RIKER: Sure.
+[00:02:21.735 --> 00:02:21.735] AMANDA: Oh,
+[00:02:23.895 --> 00:02:24.695] AMANDA: no.
+[00:02:24.695 --> 00:02:24.695] AMANDA: Oh, no,
+[00:02:26.935 --> 00:02:27.175] AMANDA: no, no, no.
+[00:02:27.415 --> 00:02:28.535] AMANDA: I didn't mean it.
+[00:02:31.815 --> 00:02:33.175] AMANDA: You guys can't stay here.
+[00:02:37.255 --> 00:02:38.375] AMANDA: Come on, all of you.
+[00:02:42.215 --> 00:02:42.695] AMANDA: Hello. Come here, little one.
+[00:02:42.895 --> 00:02:43.095] AMANDA: You too.
+[00:02:43.095 --> 00:02:43.095] AMANDA: Come on,
+[00:02:55.701 --> 00:02:55.941] AMANDA: come on.
+[00:03:32.341 --> 00:03:35.061] PICARD: Space, the final frontier.
+[00:03:36.981 --> 00:03:39.781] PICARD: These are the voyages of the starship Enterprise.
+[00:03:40.901 --> 00:03:48.901] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:50.581 --> 00:03:53.461] PICARD: to boldly go where no one has gone before.
+[00:03:57.000 --> 00:04:07.000] [music]
+[00:04:22.000 --> 00:04:33.000] [music]
+[00:04:52.146 --> 00:04:53.106] CRUSHER: See all these readouts?
+[00:04:53.746 --> 00:04:56.706] CRUSHER: That's your heart rate, your blood pressure all your vital signs.
+[00:04:57.826 --> 00:04:58.466] CRUSHER: You're in good shape.
+[00:04:59.106 --> 00:05:00.226] CRUSHER: You might just live to be my age.
+[00:05:01.906 --> 00:05:06.306] CRUSHER: Now, all these tricorders need to be tested before they get put in the supply containers that we're taking to Tagra.
+[00:05:06.706 --> 00:05:09.906] AMANDA: So I should scan myself with each one to make sure all the readouts are working?
+[00:05:10.226 --> 00:05:12.946] CRUSHER: Any unit that doesn't, put it aside and we'll do a diagnostic on it later.
+[00:05:13.186 --> 00:05:13.506] AMANDA: Okay.
+[00:05:22.306 --> 00:05:23.986] CRUSHER: I hear you've been accepted to the Academy.
+[00:05:24.546 --> 00:05:25.266] CRUSHER: I have a son there.
+[00:05:25.746 --> 00:05:29.906] AMANDA: Oh. Being posted on the Enterprise, I guess you don't get to see him very often?
+[00:05:30.866 --> 00:05:32.066] CRUSHER: No, not as often as I'd like.
+[00:05:32.066 --> 00:05:34.546] AMANDA: Do you have any other children?
+[00:05:36.706 --> 00:05:38.306] CRUSHER: My husband died a number of years ago.
+[00:05:38.306 --> 00:05:39.346] CRUSHER: Wes was our only child.
+[00:05:41.906 --> 00:05:43.186] AMANDA: Was he old enough to know his father?
+[00:05:45.346 --> 00:05:46.626] CRUSHER: Jack died when he was five.
+[00:05:47.346 --> 00:05:49.106] AMANDA: My parents died when I was a baby too.
+[00:05:50.226 --> 00:05:51.666] AMANDA: I don't remember anything about them.
+[00:05:53.266 --> 00:05:54.786] AMANDA: Sometimes I wonder what they were like.
+[00:05:56.674 --> 00:05:58.834] CRUSHER: Your adoptive parents are in Starfleet, aren't they?
+[00:05:59.234 --> 00:06:00.914] AMANDA: Yeah, they're marine biologists.
+[00:06:01.554 --> 00:06:03.554] AMANDA: They've just been posted to the Bilaren system.
+[00:06:04.914 --> 00:06:05.954] MEDIC: Sickbay to Doctor Crusher.
+[00:06:06.274 --> 00:06:07.794] MEDIC: You wanted to be told when the cultures were ready.
+[00:06:08.754 --> 00:06:09.234] CRUSHER: On my way.
+[00:06:11.954 --> 00:06:15.954] CRUSHER: When you've finished with the tricorders, Nurse Ogawa can help you take them down to shuttlebay for loading.
+[00:06:16.354 --> 00:06:16.674] AMANDA: Okay.
+[00:06:28.434 --> 00:06:30.754] LAFORGE: Oh, thank you very much for your help.
+[00:06:31.474 --> 00:06:33.554] LAFORGE: We can use every available hand we can get.
+[00:06:33.954 --> 00:06:35.874] LAFORGE: This is one of the largest relief efforts we've ever mounted.
+[00:06:36.594 --> 00:06:39.154] AMANDA: Now why are you bringing everything down in shuttlecraft?
+[00:06:39.154 --> 00:06:43.154] LAFORGE: Well, because we can't use the transporters for all of the ionisation in the Tagran atmosphere.
+[00:06:43.394 --> 00:06:44.994] AMANDA: From the barystatic filters?
+[00:06:46.034 --> 00:06:46.594] LAFORGE: How did you know that?
+[00:06:47.154 --> 00:06:49.154] AMANDA: I did a paper on eco-regeneration.
+[00:06:50.114 --> 00:06:53.474] LAFORGE: Well then, you know that a thousand barystatic filters puts out quite a bit of ionisation.
+[00:06:53.714 --> 00:06:54.194] AMANDA: A thousand?
+[00:06:54.434 --> 00:06:56.914] LAFORGE: Yeah, they've managed to pollute their atmosphere pretty badly.
+[00:06:57.234 --> 00:07:03.714] AMANDA: It's amazing to think that they go to such lengths to clean the air instead of regulating the emissions that cause the problem.
+[00:07:03.954 --> 00:07:04.594] LAFORGE: You're right.
+[00:07:05.394 --> 00:07:09.394] LAFORGE: Actually, the only thing the filters can do is keep things from getting worse.
+[00:07:10.034 --> 00:07:14.114] LAFORGE: They shoot the air full of
+[00:07:14.114 --> 00:07:14.914] LAFORGE: Commander, are you all right?
+[00:07:17.154 --> 00:07:17.474] LAFORGE: You okay?
+[00:07:17.474 --> 00:07:20.594] RIKER: I didn't even see it coming.
+[00:07:31.241 --> 00:07:32.761] LAFORGE: this is the main control area.
+[00:07:32.921 --> 00:07:35.641] LAFORGE: We can access any of the primary circuits from all of these panels.
+[00:07:36.121 --> 00:07:37.698] LAFORGE: Over here is a Jeffries tube.
+[00:07:37.698 --> 00:07:39.801] AMANDA: Where most of the major conduits are routed.
+[00:07:40.361 --> 00:07:41.241] LAFORGE: You've been doing your homework.
+[00:07:42.121 --> 00:07:44.281] AMANDA: It's hard to imagine how much energy is being harnessed in there.
+[00:07:44.761 --> 00:07:46.281] DATA: Imagination is not necessary.
+[00:07:46.601 --> 00:07:48.121] DATA: The scale is readily quantifiable.
+[00:07:48.841 --> 00:07:52.121] DATA: We are presently generating twelve point seven five billion gigawatts per
+[00:07:54.761 --> 00:07:57.801] DATA: Temperature in the reaction chamber has increased by forty seven percent.
+[00:07:58.201 --> 00:07:59.321] LAFORGE: Injector couplings are frozen.
+[00:07:59.321 --> 00:08:00.521] LAFORGE: I can't slow down the reaction.
+[00:08:00.841 --> 00:08:03.401] DATA: Temperature increase is at one hundred six percent and rising.
+[00:08:04.921 --> 00:08:05.641] LAFORGE: La Forge to Bridge!
+[00:08:05.641 --> 00:08:07.001] LAFORGE: We're looking at a core breach!
+[00:08:07.321 --> 00:08:08.681] LAFORGE: We're going to have to try and vent the plasma!
+[00:08:09.001 --> 00:08:10.681] DATA: Plasma inductors are not responding.
+[00:08:10.761 --> 00:08:11.801] LAFORGE: We're going to lose containment.
+[00:08:12.121 --> 00:08:13.801] LAFORGE: All right, everybody out of here now.
+[00:08:13.801 --> 00:08:14.041] LAFORGE: Let's go!
+[00:08:14.201 --> 00:08:14.761] LAFORGE: Let's move it!
+[00:08:15.081 --> 00:08:16.281] LAFORGE: Data, bring down the isolation door.
+[00:08:16.281 --> 00:08:17.481] LAFORGE: We're going to have to eject the warp core.
+[00:08:30.281 --> 00:08:36.361] DATA: Temperature in the reaction chamber has returned to normal.
+[00:08:45.641 --> 00:08:48.521] CRUSHER: She's a little shaken up,
+[00:08:49.357 --> 00:08:50.237] CRUSHER: but she's going to be.
+[00:08:51.037 --> 00:08:51.917] RIKER: You said she was adopted.
+[00:08:52.317 --> 00:08:53.117] RIKER: Could she be an alien?
+[00:08:53.837 --> 00:08:54.397] CRUSHER: She's human.
+[00:08:55.277 --> 00:08:58.477] CRUSHER: There's nothing more unusual about her, not that my instruments can detect.
+[00:08:59.037 --> 00:09:01.597] PICARD: Commander, have you been able to determine the cause of the warp breach?
+[00:09:01.677 --> 00:09:02.157] LAFORGE: No, sir.
+[00:09:02.397 --> 00:09:05.837] LAFORGE: Everything was normal and then suddenly it's like the laws of physics went right out the window.
+[00:09:06.957 --> 00:09:07.677] Q: And why shouldn't they?
+[00:09:07.677 --> 00:09:09.197] Q: They're so inconvenient.
+[00:09:12.237 --> 00:09:12.477] PICARD: Q!
+[00:09:14.477 --> 00:09:15.213] Q: Mon Capitane.
+[00:09:15.213 --> 00:09:18.157] PICARD: Are you responsible for the incident in Engineering?
+[00:09:18.317 --> 00:09:18.957] Q: Of course.
+[00:09:19.357 --> 00:09:23.248] Q: I needed to find out if what I suspected about the girl were true.
+[00:09:23.248 --> 00:09:23.803] PICARD: That being?
+[00:09:23.803 --> 00:09:24.637] Q: That she's Q.
+[00:09:25.277 --> 00:09:26.317] TROI: Amanda's a Q?
+[00:09:26.797 --> 00:09:27.837] CRUSHER: How is that possible?
+[00:09:27.837 --> 00:09:30.557] CRUSHER: Her parents, her biological parents, were human.
+[00:09:30.797 --> 00:09:31.757] Q: Well, not exactly.
+[00:09:32.557 --> 00:09:37.437] Q: They had assumed human form in order to visit Earth, I suppose for amusement.
+[00:09:38.477 --> 00:09:41.837] Q: But in vulgar human fashion they proceeded to conceive a child.
+[00:09:43.357 --> 00:09:45.437] Q: And then like mawkish humans, they became attached to it.
+[00:09:46.957 --> 00:09:50.477] Q: What is it about those squirming little infants that you find so appealing?
+[00:09:50.877 --> 00:09:52.637] CRUSHER: I'm sure that's beyond your comprehension, Q.
+[00:09:53.277 --> 00:09:54.317] Q: I desperately hope so.
+[00:09:54.717 --> 00:09:56.397] TROI: What happened to Amanda's parents?
+[00:09:56.797 --> 00:09:57.837] Q: They died in an accident.
+[00:09:58.477 --> 00:10:08.237] Q: None of us knew whether she had inherited the capacities of the Q, but recently they've began to emerge, and as an expert in humanity, I was sent to investigate.
+[00:10:08.557 --> 00:10:10.210] RIKER: You, an expert in humanity?
+[00:10:10.210 --> 00:10:13.517] Q: Not a very challenging field of study, I grant you.
+[00:10:14.157 --> 00:10:17.517] LAFORGE: Are you saying that you created a core breach just to test this girl?
+[00:10:18.317 --> 00:10:19.997] TROI: What would have happened if she couldn't stop it?
+[00:10:20.397 --> 00:10:21.677] Q: Then I would've known she wasn't a
+[00:10:21.704 --> 00:10:22.011] Q: Q.
+[00:10:22.011 --> 00:10:25.384] CRUSHER: And now that you know, what do you intend to do?
+[00:10:25.864 --> 00:10:26.584] Q: Instruct here.
+[00:10:27.784 --> 00:10:35.624] Q: If that child does not learn how to control her power, she may accidently destroy herself. Or all of you. Or perhaps your entire galaxy.
+[00:10:35.944 --> 00:10:38.344] PICARD: I find it hard to believe that you're here to do us a favour.
+[00:10:38.904 --> 00:10:39.624] Q: You're quite right
+[00:10:39.704 --> 00:10:40.344] Q: I wouldn't.
+[00:10:41.304 --> 00:10:42.904] Q: But there are those in the Continuum
+[00:10:44.424 --> 00:10:47.224] Q: who have an over-exaggerated sense of responsibility.
+[00:10:48.344 --> 00:10:51.784] Q: They think that we need to take precautions to keep the little dear from running amuck.
+[00:10:52.024 --> 00:10:54.793] CRUSHER: And once you've taught her, then you'll go away?
+[00:10:54.793 --> 00:10:56.024] Q: And leave her here?
+[00:10:56.344 --> 00:10:56.984] Q: Of course not.
+[00:10:57.544 --> 00:10:59.624] Q: She'll come back to the Continuum, where she belongs.
+[00:11:00.024 --> 00:11:00.504] CRUSHER: Wait a minute.
+[00:11:01.144 --> 00:11:04.104] CRUSHER: You can't just come in here and take her away from everything she's ever known.
+[00:11:05.144 --> 00:11:06.504] Q: I assure you I can.
+[00:11:06.744 --> 00:11:07.944] CRUSHER: She has plans for herself.
+[00:11:07.944 --> 00:11:09.704] CRUSHER: She wants to have a career and a family.
+[00:11:09.864 --> 00:11:12.424] Q: I'm rescuing her from that miserable existence.
+[00:11:13.064 --> 00:11:16.104] CRUSHER: That miserable existence is all she's known for the last eighteen years.
+[00:11:16.264 --> 00:11:18.082] CRUSHER: You have no right to take it away from her.
+[00:11:18.082 --> 00:11:18.264] Q: Mon
+[00:11:18.984 --> 00:11:21.784] Q: Capitane, I really think that we need to speak privately.
+[00:11:26.024 --> 00:11:27.224] Q: Well, there, that's better.
+[00:11:28.584 --> 00:11:30.664] Q: Crusher gets more shrill with each passing year.
+[00:11:31.064 --> 00:11:32.824] PICARD: Q, what is it you really want?
+[00:11:33.704 --> 00:11:37.544] Q: Well, since you know so much about the Q, I thought you'd the perfect person to introduce me to the child.
+[00:11:38.104 --> 00:11:39.784] Q: Let her know she can trust me.
+[00:11:40.344 --> 00:11:41.704] PICARD: I don't trust you, Q.
+[00:11:41.704 --> 00:11:42.824] PICARD: Why should I expect Amanda to?
+[00:11:43.304 --> 00:11:44.984] Q: Well she'd better, because I'm all she's got.
+[00:11:45.944 --> 00:11:48.664] Q: She needs me to help her prepare for her future with the Q.
+[00:11:49.205 --> 00:11:51.045] PICARD: But what if she doesn't want that future?
+[00:11:51.125 --> 00:11:52.165] PICARD: It must be her decision.
+[00:11:52.485 --> 00:11:54.245] Q: Oh, yes, yes, yes.
+[00:11:55.525 --> 00:11:58.005] Q: Do you think she'll want to remain an enfeebled mortal?
+[00:11:58.165 --> 00:12:01.045] PICARD: But if she really is Q, she must understand what that means.
+[00:12:04.245 --> 00:12:04.645] PICARD: Very well,
+[00:12:05.445 --> 00:12:06.165] PICARD: I will introduce you.
+[00:12:06.325 --> 00:12:06.565] PICARD: But
+[00:12:08.805 --> 00:12:10.805] PICARD: we cannot argue like this in front of her.
+[00:12:10.805 --> 00:12:13.675] PICARD: We must at least appear to be
+[00:12:13.675 --> 00:12:14.085] Q: Pals?
+[00:12:15.925 --> 00:12:16.325] PICARD: Civil.
+[00:12:17.365 --> 00:12:18.565] Q: I knew I could count on you,
+[00:12:20.085 --> 00:12:22.085] Q: Jean-Luc.
+[00:12:25.685 --> 00:12:30.405] PICARD: Mister Data, I want you to access any available records on Amanda Rogers.
+[00:12:30.725 --> 00:12:31.125] DATA: Yes, Captain.
+[00:12:31.125 --> 00:12:33.925] PICARD: I want to know about her biological parents, about their death.
+[00:12:35.125 --> 00:12:38.725] PICARD: I find it odd that any Q could die in an accident.
+[00:12:39.125 --> 00:12:41.205] DATA: It is not consistent with what we know of them, sir.
+[00:12:42.245 --> 00:12:44.565] PICARD: I'm convinced that Q isn't telling us everything.
+[00:12:44.885 --> 00:12:45.765] PICARD: See what you can find out.
+[00:12:45.845 --> 00:12:46.245] DATA: Aye, sir.
+[00:12:46.325 --> 00:12:50.085] AMANDA: It started happening about six months ago.
+[00:12:50.965 --> 00:12:54.245] AMANDA: Things that I would wish for would just suddenly appear.
+[00:12:54.805 --> 00:12:56.485] AMANDA: I thought I was going crazy.
+[00:12:57.845 --> 00:13:00.245] AMANDA: In a funny way, finding this out is kind of a relief.
+[00:13:00.645 --> 00:13:01.685] CRUSHER: I can understand that.
+[00:13:02.965 --> 00:13:10.005] CRUSHER: This person I mentioned, from the Q Continuum, would like to meet you. If it's all right with you.
+[00:13:13.205 --> 00:13:13.765] AMANDA: I'm ready.
+[00:13:16.245 --> 00:13:18.245] CRUSHER: Good.
+[00:13:19.525 --> 00:13:20.485] Q: There's my girl!
+[00:13:22.298 --> 00:13:25.578] PICARD: Amanda, allow me to introduce, er, Q.
+[00:13:25.578 --> 00:13:28.538] PICARD: He's er, he's an acquaintance of ours.
+[00:13:28.538 --> 00:13:31.418] PICARD: We've er, we've known him for years.
+[00:13:31.818 --> 00:13:34.298] Q: Very impressive the way you contained that explosion.
+[00:13:34.298 --> 00:13:35.018] Q: What else have you done?
+[00:13:36.218 --> 00:13:37.338] AMANDA: I don't understand.
+[00:13:37.578 --> 00:13:42.698] Q: Telekinesis? Teleportation? Spontaneous combustion of someone you didn't like?
+[00:13:44.058 --> 00:13:44.698] Q: That sort of thing.
+[00:13:45.178 --> 00:13:50.298] PICARD: Amanda, what Q is asking is have you ever deliberately used your abilities?
+[00:13:50.858 --> 00:13:52.138] AMANDA: Not until I came here.
+[00:13:53.178 --> 00:13:57.042] AMANDA: The first time it happened was when the container almost fell on Commander Riker.
+[00:13:57.042 --> 00:13:58.698] Q: And you handled that very well.
+[00:13:58.698 --> 00:14:02.298] Q: That's why I gave you a greater challenge. The warp core breach.
+[00:14:07.338 --> 00:14:08.858] Q: She has potential, this one.
+[00:14:10.778 --> 00:14:13.658] Q: I see no reason why she can't come back to the Continuum right now.
+[00:14:13.738 --> 00:14:13.978] AMANDA: What?
+[00:14:14.058 --> 00:14:14.321] PICARD: Q
+[00:14:14.321 --> 00:14:15.898] AMANDA: I don't want to go anywhere.
+[00:14:17.178 --> 00:14:17.658] Q: Don't worry.
+[00:14:18.138 --> 00:14:21.018] Q: With time you'll overcome the disadvantages you suffered as a child.
+[00:14:21.258 --> 00:14:23.498] Q: No one will hold it against you for having been human.
+[00:14:24.378 --> 00:14:24.698] Q: Let's go.
+[00:14:26.858 --> 00:14:29.498] AMANDA: Leave me alone!
+[00:14:30.218 --> 00:14:31.658] AMANDA: I'm not going anywhere with you!
+[00:14:32.778 --> 00:14:36.618] PICARD: You agreed that she has a right to choose her own future. The first chance you get you try to abduct her.
+[00:14:37.578 --> 00:14:39.098] Q: You're overreacting as usual, Picard.
+[00:14:39.098 --> 00:14:40.538] Q: I was merely testing her power.
+[00:14:41.738 --> 00:14:43.338] Q: She's quite a little spitfire, now isn't she?
+[00:14:43.978 --> 00:14:44.858] PICARD: What's going on, Q?
+[00:14:45.418 --> 00:14:46.618] PICARD: What's your real purpose here?
+[00:14:47.226 --> 00:14:48.506] Q: I think I've been perfectly clear.
+[00:14:48.506 --> 00:14:50.906] Q: The Continuum has a vested interest in this young woman.
+[00:14:51.466 --> 00:14:53.146] PICARD: If you wish to protect that investment,
+[00:14:53.146 --> 00:14:54.906] PICARD: I suggest that you approach her differently.
+[00:14:55.786 --> 00:14:56.826] Q: She was being impetuous.
+[00:14:57.706 --> 00:14:59.626] Q: She'll just have to start behaving like a Q.
+[00:15:00.746 --> 00:15:01.626] PICARD: If I'm not mistaken,
+[00:15:01.706 --> 00:15:02.426] PICARD: she just did.
+[00:15:05.226 --> 00:15:06.346] AMANDA: You understand, don't you?
+[00:15:08.026 --> 00:15:10.346] AMANDA: It's just that I have these things that I want to do.
+[00:15:11.946 --> 00:15:13.066] AMANDA: I'm going to the Academy.
+[00:15:14.186 --> 00:15:16.986] AMANDA: I want a career, and I want to join Starfleet.
+[00:15:18.186 --> 00:15:20.226] CRUSHER: You can still do those things.
+[00:15:20.226 --> 00:15:22.266] AMANDA: It just seems so complicated now.
+[00:15:24.106 --> 00:15:27.066] AMANDA: These powers that I have are just going to stand in the way.
+[00:15:28.666 --> 00:15:29.786] AMANDA: I don't want to have to deal with it.
+[00:15:30.266 --> 00:15:31.466] CRUSHER: Well, you're going to have to.
+[00:15:32.746 --> 00:15:34.826] CRUSHER: Listen, I can only imagine how you feel.
+[00:15:35.226 --> 00:15:39.626] CRUSHER: And it would be easier if this had never happened or if it would just go away.
+[00:15:41.946 --> 00:15:46.026] CRUSHER: But it's not going to go away. And you need someone to help you.
+[00:15:47.786 --> 00:15:50.986] CRUSHER: And the person who can help you is Q.
+[00:15:53.466 --> 00:15:54.506] AMANDA: He's so horrible.
+[00:15:54.906 --> 00:15:58.506] CRUSHER: He is the only one who can help you to understand who you are.
+[00:16:00.106 --> 00:16:00.586] CRUSHER: Amanda,
+[00:16:03.066 --> 00:16:08.746] CRUSHER: you are going to have to make some hard choices about your future, and you can't make them if you're going to ignore the truth.
+[00:16:09.866 --> 00:16:10.106] AMANDA: Yeah.
+[00:16:12.746 --> 00:16:13.146] AMANDA: I know.
+[00:16:18.211 --> 00:16:20.691] AMANDA: But I don't want any of this to disrupt my time here.
+[00:16:22.931 --> 00:16:25.171] AMANDA: I want to do everything that I'm expected to do,
+[00:16:27.731 --> 00:16:29.971] AMANDA: and I don't want you to treat me any differently.
+[00:16:33.331 --> 00:16:33.811] AMANDA: Please?
+[00:16:35.251 --> 00:16:36.131] CRUSHER: You've got a deal.
+[00:16:40.051 --> 00:16:44.131] CRUSHER: The first free hour you have, I want to see you in the medical lab.
+[00:16:44.611 --> 00:16:45.971] CRUSHER: I have an experiment I need help with.
+[00:16:47.171 --> 00:16:47.651] AMANDA: Yes, ma'am.
+[00:16:53.171 --> 00:16:54.371] Q: Your progress, Q?
+[00:16:54.931 --> 00:16:56.771] Q: As anticipated, there are some problems.
+[00:16:57.011 --> 00:16:57.491] Q: I need time.
+[00:16:58.851 --> 00:17:01.491] Q: However, there is a possibility we won't have to terminate her.
+[00:17:19.731 --> 00:17:20.051] AMANDA: Come in.
+[00:17:20.051 --> 00:17:20.051] Q: Hello,
+[00:17:22.051 --> 00:17:22.611] Q: my dear.
+[00:17:23.971 --> 00:17:25.331] Q: I've been told I behaved badly.
+[00:17:25.651 --> 00:17:26.531] Q: I apologise.
+[00:17:27.651 --> 00:17:30.371] Q: Apparently you had every reason to chastise me.
+[00:17:31.171 --> 00:17:32.531] Q: But, then again, what's done is done. Right?
+[00:17:34.531 --> 00:17:35.891] AMANDA: I'd like to ask you some questions.
+[00:17:36.851 --> 00:17:37.251] Q: Anything.
+[00:17:39.891 --> 00:17:41.011] AMANDA: What exactly are the Q?
+[00:17:42.356 --> 00:17:44.516] Q: It would be so much easier to show you than to tell you.
+[00:17:45.876 --> 00:17:48.916] Q: If you would agree to take a short visit to the Continuum
+[00:17:48.916 --> 00:17:49.316] AMANDA: No,
+[00:17:50.516 --> 00:17:51.076] AMANDA: just tell me.
+[00:17:53.076 --> 00:17:56.116] Q: Well. to put it simply, we're omnipotent.
+[00:17:56.916 --> 00:17:58.996] Q: There's nothing, nothing we can't do.
+[00:18:00.036 --> 00:18:01.556] AMANDA: And what do you do with this power?
+[00:18:02.676 --> 00:18:04.756] Q: Anything we want.
+[00:18:05.956 --> 00:18:07.076] AMANDA: Do you use it to help others?
+[00:18:08.756 --> 00:18:10.036] Q: I think you've missed the point, my dear.
+[00:18:10.756 --> 00:18:12.996] Q: Clearly, you've spent far too much time with humans.
+[00:18:13.956 --> 00:18:18.036] Q: As a Q, you can have your heart's desire, instantly, whatever that may be.
+[00:18:18.916 --> 00:18:21.476] Q: Would you like precious jewels? Works of art?
+[00:18:22.276 --> 00:18:25.236] Q: Would you like to walk along the rings of Tautine?
+[00:18:25.636 --> 00:18:27.476] AMANDA: I'm not interested in any of those things.
+[00:18:27.636 --> 00:18:28.196] Q: Of course not.
+[00:18:28.676 --> 00:18:32.356] Q: You're a Q. But surely there must be something that you want?
+[00:18:34.596 --> 00:18:37.316] Q: Something that you never dreamed was possible.
+[00:18:38.596 --> 00:18:39.396] Q: Tell me, Amanda.
+[00:18:40.836 --> 00:18:41.236] Q: What is it?
+[00:18:44.036 --> 00:18:48.596] AMANDA: I'd like to know what my parents looked like.
+[00:18:52.356 --> 00:18:53.076] AMANDA: My real parents.
+[00:18:54.676 --> 00:18:55.156] Q: How quaint.
+[00:18:56.996 --> 00:18:57.636] Q: So do it.
+[00:18:59.396 --> 00:18:59.876] AMANDA: What do you mean?
+[00:18:59.956 --> 00:19:00.836] Q: Summon the image.
+[00:19:00.996 --> 00:19:02.116] AMANDA: I don't know how.
+[00:19:02.116 --> 00:19:02.356] Q: Think about them.
+[00:19:03.316 --> 00:19:05.556] Q: Evoke the memory.
+[00:19:07.236 --> 00:19:08.516] Q: You can do it, Amanda.
+[00:19:10.916 --> 00:19:11.556] Q: Trust me.
+[00:19:12.980 --> 00:19:13.700] Q: Close your eyes.
+[00:19:14.660 --> 00:19:15.460] Q: Close your eyes.
+[00:19:19.540 --> 00:19:23.860] Q: In your mind, return to the time when you were an infant.
+[00:19:24.820 --> 00:19:25.940] Q: Think about your parents.
+[00:19:27.060 --> 00:19:27.700] Q: Remember them.
+[00:19:31.380 --> 00:19:31.620] Q: Good.
+[00:19:33.860 --> 00:19:34.020] Q: Good.
+[00:19:35.780 --> 00:19:38.100] Q: Now, open your eyes.
+[00:19:59.300 --> 00:20:00.100] AMANDA: They loved me.
+[00:20:12.740 --> 00:20:16.260] AMANDA: Wait for it to be metabolised. Add another twenty?
+[00:20:17.380 --> 00:20:24.020] AMANDA: Wait for it to be metabolised over and over, and then wait till the bacilli can't be absorbed any more.
+[00:20:25.460 --> 00:20:25.700] CRUSHER: That's right.
+[00:20:27.220 --> 00:20:30.900] CRUSHER: Just be sure and record the rate of mitosis from each of the dishes.
+[00:20:33.300 --> 00:20:34.180] AMANDA: Mitosis, right.
+[00:20:37.700 --> 00:20:38.740] CRUSHER: You seem distracted.
+[00:20:40.420 --> 00:20:42.020] AMANDA: Well, I just saw my parents.
+[00:20:44.180 --> 00:20:44.980] AMANDA: My real parents.
+[00:20:46.860 --> 00:20:47.660] AMANDA: Q showed me how.
+[00:20:50.220 --> 00:20:51.660] AMANDA: Can you imagine how that felt?
+[00:20:55.500 --> 00:20:58.060] CRUSHER: No, I don't think I can.
+[00:20:59.980 --> 00:21:00.780] AMANDA: You know, you were right.
+[00:21:02.700 --> 00:21:04.380] AMANDA: I can't ignore what's happened to me.
+[00:21:07.500 --> 00:21:09.500] AMANDA: I just don't know if I can cope with it.
+[00:21:11.820 --> 00:21:11.980] CRUSHER: Amanda,
+[00:21:13.900 --> 00:21:15.500] CRUSHER: you are stronger than you think.
+[00:21:18.700 --> 00:21:19.100] AMANDA: You know,
+[00:21:21.100 --> 00:21:29.500] AMANDA: when I saw them there, right in front of me, I realised that I caused this to happen.
+[00:21:30.300 --> 00:21:32.380] AMANDA: I wanted to see them and I did.
+[00:21:33.260 --> 00:21:33.980] AMANDA: If it were you,
+[00:21:36.540 --> 00:21:39.820] AMANDA: if suddenly you could have anything you wanted,
+[00:21:42.140 --> 00:21:42.780] AMANDA: what would it be?
+[00:21:50.220 --> 00:21:51.020] CRUSHER: I have no idea.
+[00:21:52.060 --> 00:21:52.940] AMANDA: No, think about it.
+[00:21:53.820 --> 00:21:54.700] AMANDA: Really think.
+[00:21:55.420 --> 00:21:57.900] AMANDA: If suddenly you could make anything happen,
+[00:22:00.060 --> 00:22:00.780] AMANDA: what would it be?
+[00:22:03.820 --> 00:22:10.060] CRUSHER: Well, I would probably want to heal people. People who are hopelessly ill.
+[00:22:14.140 --> 00:22:18.380] AMANDA: Would you bring your husband back?
+[00:22:28.197 --> 00:22:29.077] CRUSHER: Amanda, I don't know.
+[00:22:29.227 --> 00:22:29.827] CRUSHER: And
+[00:22:32.677 --> 00:22:39.557] CRUSHER: I don't think I could make a decision like that until I was actually faced with it.
+[00:22:43.077 --> 00:22:44.277] AMANDA: I am faced with it.
+[00:22:50.037 --> 00:22:51.157] CRUSHER: Try to do the work.
+[00:22:54.757 --> 00:22:55.717] CRUSHER: I'll come back and check on you
+[00:22:57.557 --> 00:22:59.557] CRUSHER: later.
+[00:22:59.707 --> 00:23:00.307] Q: I
+[00:23:10.677 --> 00:23:11.717] Q: thought she'd never leave.
+[00:23:12.997 --> 00:23:15.397] AMANDA: I don't know if I'll ever get used to that.
+[00:23:16.597 --> 00:23:18.037] Q: It's time for another lesson.
+[00:23:18.197 --> 00:23:20.597] AMANDA: Well, I have to finish this experiment first.
+[00:23:20.677 --> 00:23:22.117] Q: What are you doing?
+[00:23:22.917 --> 00:23:25.637] AMANDA: We're delivering live vaccine bacilli to Tagra.
+[00:23:25.637 --> 00:23:30.917] AMANDA: I'm supposed to find the best nutrient solution so we can keep them living while they're in stasis.
+[00:23:31.397 --> 00:23:31.877] Q: Fascinating.
+[00:23:32.517 --> 00:23:33.957] Q: I've just had a splendid idea.
+[00:23:35.477 --> 00:23:42.197] Q: Why don't we combine what you're doing with our lesson, and we'll show you how to finish in no time.
+[00:23:42.277 --> 00:23:44.357] AMANDA: Well, I think that I should finish it the way Doctor
+[00:23:44.357 --> 00:23:45.157] AMANDA: Crusher showed me.
+[00:23:45.157 --> 00:23:47.957] Q: Why? I'm sure she'll be delighted if we sped things along.
+[00:23:47.957 --> 00:23:48.837] Q: Think what it would mean.
+[00:23:49.400 --> 00:23:51.080] Q: You could double, even triple the work load.
+[00:23:53.720 --> 00:23:54.640] AMANDA: Well.
+[00:23:54.640 --> 00:23:55.560] Q: Good.
+[00:23:55.880 --> 00:23:56.600] AMANDA: I guess so.
+[00:23:57.400 --> 00:23:57.640] Q: Now,
+[00:24:00.520 --> 00:24:02.440] Q: as you take a look at the tissue samples,
+[00:24:04.440 --> 00:24:06.520] Q: form an image in your mind.
+[00:24:10.440 --> 00:24:14.520] PICARD: Number One Doctor Crusher has some live vaccine bacilli to be delivered to Tagra.
+[00:24:14.760 --> 00:24:16.440] PICARD: It'll have to be shipped in a stasis field.
+[00:24:16.440 --> 00:24:17.240] PICARD: Will you make the arrangements?
+[00:24:17.240 --> 00:24:18.507] RIKER: I'll get right on it.
+[00:24:18.507 --> 00:24:18.760] DATA: Captain,
+[00:24:19.400 --> 00:24:20.920] DATA: message coming in from Tagra Four.
+[00:24:21.800 --> 00:24:23.720] PICARD: On screen.
+[00:24:23.720 --> 00:24:24.680] LOTE: Enterprise,
+[00:24:24.680 --> 00:24:27.080] LOTE: I am Orn Lote, engineer.
+[00:24:27.240 --> 00:24:32.680] LOTE: We are having difficulties with the reactor that powers the barystatic filters on our southern continent.
+[00:24:33.160 --> 00:24:34.920] LOTE: We may have to shut it down for repairs.
+[00:24:36.200 --> 00:24:38.280] PICARD: Perhaps my Chief Engineer could be of assistance?
+[00:24:38.440 --> 00:24:38.920] LOTE: I hope so.
+[00:24:39.880 --> 00:24:46.760] LOTE: If we are forced to disable the reactor, it would take months to re-establish the ionic currents the filters have formed in the atmosphere.
+[00:24:47.560 --> 00:24:49.320] PICARD: Send us your design specifications
+[00:24:49.320 --> 00:24:50.280] PICARD: I'm sure we'll be able to help.
+[00:24:50.920 --> 00:24:51.480] LOTE: Thank you, Captain.
+[00:24:52.920 --> 00:24:53.333] DATA: Captain?
+[00:24:53.333 --> 00:24:55.400] PICARD: What is it, Mister Data?
+[00:24:56.760 --> 00:24:59.480] DATA: I have some information regarding Amanda Rogers' parents.
+[00:25:01.320 --> 00:25:03.880] DATA: Records indicate that they died in Topeka, Kansas.
+[00:25:03.960 --> 00:25:05.720] DATA: Their home was destroyed during a tornado.
+[00:25:06.280 --> 00:25:06.840] PICARD: A tornado?
+[00:25:08.040 --> 00:25:10.120] PICARD: Why wasn't it dissipated by the weather modification net?
+[00:25:10.600 --> 00:25:11.080] DATA: Unknown, sir.
+[00:25:11.560 --> 00:25:14.040] DATA: The bodies were found in the rubble after the storm had passed.
+[00:25:14.680 --> 00:25:16.520] PICARD: See if you can find out any more details, Mister Data.
+[00:25:16.680 --> 00:25:18.120] PICARD: I'd like to know more about that storm.
+[00:25:18.440 --> 00:25:18.680] DATA: Aye, sir.
+[00:25:23.687 --> 00:25:25.767] Q: Well, if it isn't Number Two.
+[00:25:26.807 --> 00:25:28.087] RIKER: I was looking for Doctor Crusher.
+[00:25:28.087 --> 00:25:30.087] RIKER: I didn't know what nutrients she wanted to send with the bacilli.
+[00:25:30.647 --> 00:25:32.007] AMANDA: I'm not sure.
+[00:25:33.047 --> 00:25:34.327] AMANDA: I'll tell her to contact you.
+[00:25:34.887 --> 00:25:35.207] RIKER: Thanks.
+[00:25:35.847 --> 00:25:38.727] AMANDA: You could stay here and wait for her,
+[00:25:39.287 --> 00:25:41.287] AMANDA: if you, you know, wanted to.
+[00:25:43.527 --> 00:25:44.647] RIKER: Just tell her I'll be in shuttlebay two.
+[00:25:46.647 --> 00:25:47.687] Q: You're attracted to him.
+[00:25:48.727 --> 00:25:49.367] AMANDA: I am not.
+[00:25:50.647 --> 00:25:51.527] Q: I think you are.
+[00:25:53.207 --> 00:25:54.167] Q: How repulsive.
+[00:25:56.487 --> 00:25:58.327] Q: How do you stand that hair all over his face?
+[00:26:00.567 --> 00:26:02.647] AMANDA: Doctor, Commander Riker was just here looking for you.
+[00:26:02.647 --> 00:26:04.167] AMANDA: He said he'd be in Shuttlebay Two.
+[00:26:04.247 --> 00:26:04.647] CRUSHER: Thank you.
+[00:26:06.327 --> 00:26:07.367] CRUSHER: Have you finished already?
+[00:26:07.447 --> 00:26:07.687] AMANDA: Yes.
+[00:26:08.887 --> 00:26:10.007] CRUSHER: How did you do it so quickly?
+[00:26:10.007 --> 00:26:10.727] AMANDA: Q helped me.
+[00:26:10.727 --> 00:26:13.287] AMANDA: It took us about half the time that it would have normally taken us.
+[00:26:16.327 --> 00:26:17.287] CRUSHER: That explains this data.
+[00:26:19.047 --> 00:26:22.807] CRUSHER: I needed to know the rates of mitosis. By artificially inflating them
+[00:26:22.807 --> 00:26:24.247] CRUSHER: you made the experiment useless.
+[00:26:24.807 --> 00:26:26.087] CRUSHER: Now I have to do it all over again.
+[00:26:26.967 --> 00:26:28.167] AMANDA: I'm sorry, Doctor.
+[00:26:29.047 --> 00:26:29.607] Q: Don't be sorry.
+[00:26:30.727 --> 00:26:34.167] Q: If she wants to make things difficult on herself, that's her business.
+[00:26:34.247 --> 00:26:35.767] CRUSHER: Why did you interfere with what she was doing?
+[00:26:35.847 --> 00:26:36.487] Q: She's a Q.
+[00:26:36.807 --> 00:26:39.607] Q: Making her plod through human chores is beneath her.
+[00:26:39.767 --> 00:26:41.527] CRUSHER: She has asked not to be treated differently.
+[00:26:41.527 --> 00:26:43.287] Q: That doesn't mean she should be bored to death.
+[00:26:43.367 --> 00:26:44.727] CRUSHER: I don't interfere with what you're teaching her.
+[00:26:44.727 --> 00:26:45.847] Q: You wouldn't be capable of interfering.
+[00:26:45.847 --> 00:26:46.727] CRUSHER: I don't think it's too much to ask for
+[00:26:46.727 --> 00:26:47.527] CRUSHER: you to do the same.
+[00:26:49.434 --> 00:26:49.514] CRUSHER: And
+[00:26:51.754 --> 00:26:53.274] CRUSHER: you stay out of mine.
+[00:26:53.594 --> 00:26:54.874] Q: Well, when you put it like that,
+[00:26:56.954 --> 00:26:57.914] Q: I think you're absolutely right.
+[00:27:06.234 --> 00:27:06.554] DATA: Captain.
+[00:27:07.274 --> 00:27:08.074] PICARD: Yes, Mister Data?
+[00:27:08.634 --> 00:27:12.154] DATA: I have further information regarding the tornado that killed Amanda Rogers' parents.
+[00:27:12.474 --> 00:27:12.794] PICARD: What is it?
+[00:27:13.674 --> 00:27:16.234] DATA: It was unusually compact, yet extremely powerful.
+[00:27:16.714 --> 00:27:20.554] DATA: Its recorded wind velocity was characteristic of a funnel three times its size.
+[00:27:21.754 --> 00:27:23.194] PICARD: Download the files to my Ready room.
+[00:27:23.674 --> 00:27:24.314] PICARD: I'll study them there.
+[00:27:24.714 --> 00:27:24.954] DATA: Aye, sir.
+[00:27:28.794 --> 00:27:30.554] Q: Have you been practicing your teleportation?
+[00:27:31.194 --> 00:27:32.794] AMANDA: Yes. But it's kind of hard.
+[00:27:33.594 --> 00:27:35.594] AMANDA: I keep ending up somewhere I don't want to be.
+[00:27:35.994 --> 00:27:36.874] Q: Well, it won't do to be sloppy.
+[00:27:36.954 --> 00:27:38.714] Q: You should hone your abilities.
+[00:27:38.954 --> 00:27:40.074] Q: I have a wonderful idea.
+[00:27:45.514 --> 00:27:46.794] Q: Why don't we play a little game?
+[00:27:47.834 --> 00:27:49.674] Q: I'll hide somewhere on the ship and you find me.
+[00:27:51.434 --> 00:27:52.154] AMANDA: But how do I know how?
+[00:27:54.314 --> 00:27:55.274] Q: Don't worry, Amanda.
+[00:27:56.074 --> 00:27:56.634] Q: You can do
+[00:27:59.754 --> 00:27:59.834] Q: it.
+[00:28:00.074 --> 00:28:02.074] Q: Not
+[00:28:07.994 --> 00:28:09.194] Q: bad. Not bad at all.
+[00:28:13.354 --> 00:28:19.914] DATA: If we can use phase buffers we may be able to devise a mechanism that can be integrated into the present system while it is in operation.
+[00:28:25.278 --> 00:28:28.078] Q: You're still thinking like a human.
+[00:28:50.078 --> 00:28:50.798] Q: Now do you understand?
+[00:28:52.318 --> 00:28:55.278] Q: What do humans have to offer you that even begins to compare with that?
+[00:28:57.278 --> 00:29:01.118] Q: Your future contains wonders you can't even imagine.
+[00:29:02.958 --> 00:29:05.278] Q: The universe could be your
+[00:29:07.198 --> 00:29:09.198] Q: playground.
+[00:29:10.478 --> 00:29:10.718] AMANDA: Doctor
+[00:29:10.718 --> 00:29:11.918] AMANDA: Crusher and Counsellor Troi.
+[00:29:13.278 --> 00:29:14.078] AMANDA: They're taking me to dinner.
+[00:29:15.758 --> 00:29:16.718] Q: You don't have to eat, you know.
+[00:29:17.598 --> 00:29:19.118] Q: It's a nasty human habit
+[00:29:19.118 --> 00:29:20.318] Q: you could easily do without.
+[00:29:26.878 --> 00:29:27.518] CRUSHER: Hello, Amanda.
+[00:29:27.838 --> 00:29:28.238] CRUSHER: Are you ready?
+[00:29:29.198 --> 00:29:29.598] AMANDA: Yes.
+[00:29:36.478 --> 00:29:40.958] TROI: Well, Amanda, how are you feeling about all this now?
+[00:29:41.518 --> 00:29:42.478] TROI: It must be overwhelming.
+[00:29:44.078 --> 00:29:46.718] AMANDA: It was at first, but actually now I'm enjoying myself.
+[00:29:47.758 --> 00:29:48.558] RIKER: Hello, ladies.
+[00:29:48.878 --> 00:29:49.278] TROI: Hello, Will.
+[00:29:49.795 --> 00:29:53.955] AMANDA: Commander Riker. Er, won't you join us?
+[00:29:54.515 --> 00:29:55.875] RIKER: I'd love, to but I have other plans.
+[00:29:55.875 --> 00:29:55.875] RIKER: Hi.
+[00:29:55.875 --> 00:29:55.875] WOMAN: Hi.
+[00:29:55.875 --> 00:29:55.875] CRUSHER: So,
+[00:30:06.195 --> 00:30:09.075] CRUSHER: how are your lessons going?
+[00:30:09.715 --> 00:30:11.075] CRUSHER: Is Q being patient with you?
+[00:30:15.795 --> 00:30:16.195] CRUSHER: Amanda?
+[00:30:25.795 --> 00:30:26.595] RIKER: What is this all about?
+[00:30:30.195 --> 00:30:32.675] AMANDA: I thought it might be nice to spend some time alone together.
+[00:30:33.555 --> 00:30:35.955] RIKER: I think it would be nice if you took us back to Ten Forward.
+[00:30:36.035 --> 00:30:37.555] AMANDA: Are you sure
+[00:30:38.435 --> 00:30:40.115] AMANDA: you wouldn't want to stay here with me for a while?
+[00:30:42.835 --> 00:30:44.275] AMANDA: The moonlight is so beautiful.
+[00:30:46.195 --> 00:30:48.435] AMANDA: Isn't it nicer here than at Ten Forward?
+[00:30:49.155 --> 00:30:51.875] RIKER: Yes, it's very pleasant, but that's not the point.
+[00:30:53.715 --> 00:30:53.795] AMANDA: Oh?
+[00:30:56.915 --> 00:30:59.475] AMANDA: I think it is.
+[00:31:01.715 --> 00:31:01.795] RIKER: No.
+[00:31:06.115 --> 00:31:10.515] RIKER: You can't just snatch people and put them in your fantasies and expect them to respond.
+[00:31:13.795 --> 00:31:14.675] AMANDA: Don't you like me?
+[00:31:16.404 --> 00:31:17.364] AMANDA: Even just a little bit?
+[00:31:20.324 --> 00:31:21.764] RIKER: You're a very lovely young lady.
+[00:31:23.924 --> 00:31:27.204] RIKER: But none of this is real.
+[00:31:31.844 --> 00:31:33.044] AMANDA: My feelings are real.
+[00:31:33.044 --> 00:31:33.684] RIKER: I know.
+[00:31:35.604 --> 00:31:37.044] RIKER: But you can't make someone love you.
+[00:31:39.604 --> 00:31:40.084] AMANDA: Can't I?
+[00:31:43.444 --> 00:31:46.004] RIKER: Oh, Amanda.
+[00:31:48.164 --> 00:31:48.964] RIKER: You are so beautiful.
+[00:31:49.924 --> 00:31:55.204] AMANDA: Do you love me?
+[00:31:56.724 --> 00:31:57.524] RIKER: More than anything.
+[00:32:08.164 --> 00:32:08.564] AMANDA: You're right.
+[00:32:11.124 --> 00:32:11.924] AMANDA: None of this is real.
+[00:32:15.044 --> 00:32:16.324] AMANDA: I thought it would be romantic,
+[00:32:19.204 --> 00:32:19.844] AMANDA: but it's empty.
+[00:32:22.324 --> 00:32:22.678] RIKER: Amanda.
+[00:32:22.678 --> 00:32:24.804] AMANDA: Just go back to Ten Forward.
+[00:32:47.836 --> 00:32:48.716] Q: Bon jour, mon Capitane.
+[00:32:49.116 --> 00:32:50.156] Q: You wanted to talk with me?
+[00:32:51.276 --> 00:32:53.916] PICARD: I wanted to ask you about Amanda's biological parents.
+[00:32:55.116 --> 00:33:00.236] PICARD: When they decided to remain on Earth, what was the reaction in the Q Continuum?
+[00:33:00.876 --> 00:33:02.396] Q: We found it incomprehensible.
+[00:33:02.956 --> 00:33:04.716] PICARD: Were they pressured to return?
+[00:33:05.676 --> 00:33:07.756] PICARD: Were they threatened with any punishment if they didn't?
+[00:33:08.316 --> 00:33:09.436] Q: What are you driving at, Picard?
+[00:33:10.156 --> 00:33:12.396] PICARD: Well, the circumstance of their death's quite odd.
+[00:33:13.196 --> 00:33:18.876] PICARD: A tornado somehow escaped the weather modification net and touched down in only one spot.
+[00:33:20.396 --> 00:33:21.276] PICARD: Amanda's home.
+[00:33:21.596 --> 00:33:23.916] Q: Well, you never can predict the weather.
+[00:33:24.716 --> 00:33:26.956] PICARD: But tornadoes develop from existing storm fronts.
+[00:33:27.756 --> 00:33:30.716] PICARD: But you see, there were no storm fronts in Kansas that day.
+[00:33:31.116 --> 00:33:40.236] PICARD: Witnesses reported that the funnel materialised spontaneously directly over Amanda's home, destroyed it, and disappeared.
+[00:33:42.556 --> 00:33:43.676] Q: If you say so. I wasn't there.
+[00:33:43.826 --> 00:33:44.426] PICARD: Were
+[00:33:46.236 --> 00:33:49.356] PICARD: Amanda's parents executed by the Q Continuum?
+[00:33:53.276 --> 00:33:54.076] Q: And what if they were?
+[00:33:55.276 --> 00:33:59.356] PICARD: Then I think she has a right to know that before she makes a choice about her future.
+[00:34:00.156 --> 00:34:01.116] Q: Don't be foolish, Picard.
+[00:34:01.116 --> 00:34:02.076] Q: She has no choice.
+[00:34:02.476 --> 00:34:03.196] Q: She never did.
+[00:34:04.396 --> 00:34:09.276] Q: If she's truly Q, then she must return to the Continuum where she belongs.
+[00:34:09.802 --> 00:34:12.682] Q: But if she were some kind of hybrid, neither human nor Q, then
+[00:34:18.442 --> 00:34:19.722] PICARD: You would be so despicable?
+[00:34:20.442 --> 00:34:21.162] Q: Don't be naive.
+[00:34:22.362 --> 00:34:24.042] Q: You have no idea what it means to be Q.
+[00:34:24.922 --> 00:34:26.762] Q: With unlimited power comes responsibility.
+[00:34:26.762 --> 00:34:31.562] Q: Do you think it is reasonable for us to allow omnipotent beings to roam free through the universe?
+[00:34:32.602 --> 00:34:33.562] PICARD: So what have you concluded?
+[00:34:33.562 --> 00:34:36.202] PICARD: Does she live or does she die?
+[00:34:44.522 --> 00:34:45.242] Q: I haven't decided yet.
+[00:34:50.522 --> 00:34:52.522] LOG: Captain's
+[00:34:52.522 --> 00:34:56.442] LOG: log, stardate 46193.8.
+[00:34:56.922 --> 00:35:00.202] LOG: We have arrived at Tagra Four and have begun delivering supplies.
+[00:35:00.922 --> 00:35:04.282] LOG: In the meantime, I am faced with a crisis of a different nature.
+[00:35:04.842 --> 00:35:07.482] PICARD: Look, I have no reason to believe that Q is lying.
+[00:35:07.882 --> 00:35:09.482] PICARD: He claims he has orders from the Continuum.
+[00:35:11.962 --> 00:35:14.602] PICARD: If Amanda cannot prove that she is fully Q, then he must kill her.
+[00:35:14.842 --> 00:35:15.962] TROI: We have to tell her.
+[00:35:16.522 --> 00:35:17.722] CRUSHER: I don't know if we should.
+[00:35:17.722 --> 00:35:19.562] CRUSHER: It almost seems cruel.
+[00:35:20.042 --> 00:35:21.562] TROI: Maybe she can protect herself.
+[00:35:22.042 --> 00:35:24.042] TROI: After all, she has a great deal of power.
+[00:35:24.442 --> 00:35:25.242] CRUSHER: So did her parents.
+[00:35:25.242 --> 00:35:26.202] CRUSHER: It didn't save them.
+[00:35:29.802 --> 00:35:30.682] PICARD: I agree with the Counsellor.
+[00:35:31.882 --> 00:35:33.962] PICARD: Amanda deserves to know the truth of her situation.
+[00:35:33.962 --> 00:35:36.362] PICARD: We have no right to withhold such crucial information from
+[00:35:38.282 --> 00:35:38.282] PICARD: her.
+[00:35:38.282 --> 00:35:40.682] PICARD: But it isn't going to be easy telling her.
+[00:35:43.948 --> 00:35:45.868] RIKER: What's your impression of the field modulator, Mister Lote?
+[00:35:46.268 --> 00:35:47.948] LOTE: Quite ingenious. Quite ingenious, indeed.
+[00:35:48.000 --> 00:35:51.000] [throat clearing]
+[00:35:48.028 --> 00:35:48.268] LOTE: I'm
+[00:35:51.388 --> 00:35:55.548] LOTE: amazed at the way it can be incorporated with the existing system.
+[00:35:56.268 --> 00:35:57.868] LAFORGE: Commander, we're all loaded here.
+[00:35:57.868 --> 00:35:59.308] LAFORGE: We can head for the surface whenever you're ready.
+[00:36:00.108 --> 00:36:03.148] LOTE: I'm eager to see the field modulator in place, Commander.
+[00:36:03.788 --> 00:36:05.788] RIKER: We'd
+[00:36:04.000 --> 00:36:07.000] [throat clearing]
+[00:36:09.628 --> 00:36:11.948] RIKER: better get going.
+[00:36:12.268 --> 00:36:12.508] LOTE: Yes.
+[00:36:19.948 --> 00:36:20.508] AMANDA: Kill me?
+[00:36:26.348 --> 00:36:26.988] AMANDA: But why?
+[00:36:27.788 --> 00:36:31.228] PICARD: They're not convinced that you are fully Q. And
+[00:36:32.828 --> 00:36:35.148] PICARD: they are also responsible for your parent's death.
+[00:36:37.788 --> 00:36:38.588] AMANDA: My parents?
+[00:36:41.228 --> 00:36:42.828] AMANDA: But what right do they have?
+[00:36:45.948 --> 00:36:48.188] AMANDA: Q? Answer me.
+[00:36:49.308 --> 00:36:52.508] AMANDA: Are you afraid to face me?
+[00:36:55.388 --> 00:36:57.868] Q: She's such a plucky little thing, now, isn't she.
+[00:36:59.388 --> 00:37:00.908] Q: I really do enjoy you, you know.
+[00:37:01.708 --> 00:37:03.468] PICARD: Amanda's question deserves an answer, Q.
+[00:37:03.468 --> 00:37:08.268] PICARD: You've made yourself judge, jury, and if necessary executioner.
+[00:37:08.908 --> 00:37:11.708] PICARD: By what right have you appointed yourself to this position?
+[00:37:13.732 --> 00:37:15.812] Q: Superior morality.
+[00:37:17.172 --> 00:37:17.332] PICARD: Yes.
+[00:37:18.932 --> 00:37:22.852] PICARD: I recall how you used your superior morality when we first encountered you.
+[00:37:23.012 --> 00:37:25.252] PICARD: You put us on trial for the crimes of humanity.
+[00:37:25.892 --> 00:37:27.652] Q: The jury is still out on that, Picard,
+[00:37:28.292 --> 00:37:29.540] Q: make no mistake.
+[00:37:29.540 --> 00:37:36.612] PICARD: Your arrogant pretence at being the moral guardians of the universe strikes me as being hollow, Q.
+[00:37:37.492 --> 00:37:43.332] PICARD: I see no evidence that you are guided by a superior moral code, or any code whatsoever.
+[00:37:43.812 --> 00:37:48.932] PICARD: You may be nearly omnipotent, and I don't deny that your parlour tricks are very impressive,
+[00:37:50.212 --> 00:37:51.972] PICARD: but morality? I don't see it.
+[00:37:53.252 --> 00:37:54.452] PICARD: I don't acknowledge it, Q.
+[00:37:54.772 --> 00:37:57.492] PICARD: I would put human morality against the Q's any day.
+[00:37:59.652 --> 00:38:04.132] PICARD: And perhaps that's the reason that we fascinate you so.
+[00:38:05.012 --> 00:38:15.812] PICARD: Because our puny behaviour shows you a glimmer of the one thing that evades your omnipotence, a moral centre.
+[00:38:16.692 --> 00:38:26.292] PICARD: And if so, I can think of no crueller irony than that you should destroy this young woman, whose only crime is that she's too human.
+[00:38:28.932 --> 00:38:29.492] Q: Jean-Luc,
+[00:38:31.572 --> 00:38:36.612] Q: sometimes I think the only reason I come here is to listen to these wonderful speeches of yours.
+[00:38:37.892 --> 00:38:40.772] Q: But this time, your concern is unwarranted.
+[00:38:41.947 --> 00:38:47.707] Q: We've decided not to harm her. And we're prepared to offer her a choice.
+[00:38:49.067 --> 00:38:50.107] AMANDA: What kind of choice?
+[00:38:50.907 --> 00:38:54.687] Q: You can either come to the Continuum with me
+[00:38:54.687 --> 00:38:55.107] AMANDA: Or?
+[00:38:55.107 --> 00:38:57.627] Q: Now this choice is more difficult.
+[00:38:59.227 --> 00:39:03.627] Q: You have it within yourself the ability to refrain from using the power of Q.
+[00:39:04.747 --> 00:39:06.427] Q: If you can do that, you can stay here.
+[00:39:06.987 --> 00:39:08.027] AMANDA: Then I'm staying here.
+[00:39:08.747 --> 00:39:09.467] Q: Think about this.
+[00:39:09.707 --> 00:39:10.747] Q: This is not so easy.
+[00:39:11.387 --> 00:39:17.307] Q: Your parents were given this choice and they were unable to resist the temptation of using their power.
+[00:39:18.027 --> 00:39:23.307] AMANDA: All I've wanted since this whole thing began is to become a normal human being again.
+[00:39:25.147 --> 00:39:26.587] AMANDA: I know I can resist.
+[00:39:27.067 --> 00:39:27.867] WORF: Worf to Picard.
+[00:39:28.587 --> 00:39:30.827] WORF: There is an emergency message from Commander Riker.
+[00:39:31.707 --> 00:39:32.267] PICARD: I'm on my way.
+[00:39:39.627 --> 00:39:42.987] RIKER: Captain, the damage to the reactor is greater than the Tagrans led us to believe.
+[00:39:42.987 --> 00:39:46.747] RIKER: The field modulator is installed and operational, but it's not going to be enough.
+[00:39:47.387 --> 00:39:48.747] RIKER: The reactor has already gone into overload.
+[00:39:49.147 --> 00:39:50.107] PICARD: Can you correct the problem?
+[00:39:50.507 --> 00:39:52.107] RIKER: Geordi is trying to stabilise the unit now.
+[00:39:52.107 --> 00:39:53.387] RIKER: We will stay as long as possible.
+[00:39:53.947 --> 00:39:55.387] RIKER: There are thousands of people in the area.
+[00:39:55.387 --> 00:39:56.667] RIKER: If that reactor goes.
+[00:39:56.667 --> 00:39:57.947] LOTE: Commander. Over here, quickly.
+[00:40:03.067 --> 00:40:03.787] PICARD: Is this your doing, Q?
+[00:40:05.307 --> 00:40:06.267] Q: Not this time, Picard.
+[00:40:08.667 --> 00:40:08.827] PICARD: Mister
+[00:40:08.827 --> 00:40:12.107] PICARD: Worf, see if there's any way we can do to cut through the interference and beam them out of there.
+[00:40:12.507 --> 00:40:12.827] WORF: Aye, sir.
+[00:40:13.924 --> 00:40:16.164] RIKER: Captain, Geordi is trying a neutrino infusion.
+[00:40:16.324 --> 00:40:17.364] RIKER: It may smother the reaction.
+[00:40:17.684 --> 00:40:20.164] WORF: Captain, there is too much ionisation in the atmosphere.
+[00:40:20.484 --> 00:40:21.444] WORF: Transporters are useless.
+[00:40:21.924 --> 00:40:22.644] LAFORGE: It's no use.
+[00:40:22.964 --> 00:40:24.564] LAFORGE: The heat has fused the injectors shut.
+[00:40:24.644 --> 00:40:25.604] LAFORGE: We're losing containment.
+[00:40:26.084 --> 00:40:26.964] RIKER: How long till meltdown?
+[00:40:27.124 --> 00:40:28.084] LAFORGE: A few minutes at most.
+[00:40:28.644 --> 00:40:29.284] LAFORGE: Going to have to
+[00:40:29.284 --> 00:40:29.444] LOTE: Commander!
+[00:40:30.004 --> 00:40:30.564] LOTE: Look at this.
+[00:40:31.284 --> 00:40:32.004] LAFORGE: This is impossible.
+[00:40:32.804 --> 00:40:36.404] LAFORGE: Captain, I don't know what's happening, but the reaction is stabilising on its own.
+[00:40:40.644 --> 00:40:44.244] DATA: Captain, I am reading a massive energy fluctuation in the planet's atmosphere.
+[00:40:45.124 --> 00:40:45.524] PICARD: On screen.
+[00:40:54.564 --> 00:40:57.604] DATA: Atmospheric contaminants have dropped to less than one part per trillion.
+[00:40:58.324 --> 00:41:00.804] DATA: The ecosystem has been restored to its natural state.
+[00:41:04.804 --> 00:41:05.284] PICARD: Amanda?
+[00:41:11.364 --> 00:41:13.844] Q: I told you it would be harder to resist than you thought.
+[00:41:15.604 --> 00:41:17.204] AMANDA: I couldn't let all those people die
+[00:41:21.044 --> 00:41:23.204] AMANDA: Ever since I got here, I've been fighting this.
+[00:41:25.044 --> 00:41:26.244] AMANDA: I've been denying the truth.
+[00:41:28.404 --> 00:41:28.964] AMANDA: Denying what I
+[00:41:30.804 --> 00:41:32.804] AMANDA: am.
+[00:41:32.804 --> 00:41:33.524] AMANDA: I am Q.
+[00:41:37.444 --> 00:41:37.604] AMANDA: Doctor
+[00:41:37.684 --> 00:41:38.084] AMANDA: Crusher,
+[00:41:40.244 --> 00:41:41.124] AMANDA: I've decided that
+[00:41:41.689 --> 00:41:42.569] AMANDA: I can't stay.
+[00:41:43.529 --> 00:41:44.569] AMANDA: I can't stay here.
+[00:41:45.289 --> 00:41:50.809] Q: Well, now that you've come to your senses, let's go.
+[00:41:51.129 --> 00:41:53.689] AMANDA: No. I want to go and see my parents first.
+[00:41:54.409 --> 00:41:57.529] AMANDA: It's going to take some time to explain all this, so you'll have to be patient.
+[00:42:14.969 --> 00:42:16.969] AMANDA: I hope I can come back and see you.
+[00:42:18.009 --> 00:42:18.729] CRUSHER: You're a Q.
+[00:42:19.529 --> 00:42:20.889] CRUSHER: You can do anything you want.
+[00:42:40.000 --> 00:42:55.000] [music]
+[00:43:26.000 --> 00:43:41.000] [music]

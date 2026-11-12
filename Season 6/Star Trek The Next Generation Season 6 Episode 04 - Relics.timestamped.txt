@@ -1,0 +1,668 @@
+[00:00:06.000 --> 00:00:08.160] DATA: Captain, I have identified the signal.
+[00:00:08.800 --> 00:00:14.160] DATA: It is from the USS Jenolen, a Federation transport ship reported missing in this sector seventy five years ago.
+[00:00:14.640 --> 00:00:16.480] RIKER: Code one alpha zero. Ship in distress.
+[00:00:16.960 --> 00:00:17.840] PICARD: Take us out of warp, Ensign.
+[00:00:17.920 --> 00:00:18.320] PICARD: All stop.
+[00:00:19.120 --> 00:00:19.600] RAGER: Aye, sir.
+[00:00:22.560 --> 00:00:22.880] PICARD: Report.
+[00:00:24.080 --> 00:00:26.400] WORF: We have entered a massive gravitational field, Captain.
+[00:00:28.480 --> 00:00:32.080] DATA: There are no stars or other stellar bodies listed on our navigational charts.
+[00:00:32.320 --> 00:00:36.960] DATA: However, sensors indicate the presence of an extremely strong gravitational source in this vicinity.
+[00:00:37.520 --> 00:00:39.520] PICARD: Can you localise the source of the gravitational field?
+[00:00:42.960 --> 00:00:43.360] RIKER: Sensors?
+[00:00:43.360 --> 00:00:46.240] DATA: I am having difficulty scanning the object.
+[00:00:46.880 --> 00:00:49.920] DATA: It appears to be approximately two hundred million kilometres in diameter.
+[00:00:50.800 --> 00:00:52.960] RIKER: That's nearly as large as the Earth's orbit around the sun.
+[00:00:54.480 --> 00:00:56.080] PICARD: Why didn't we detect this before now?
+[00:00:56.880 --> 00:01:04.160] DATA: The object's enormous mass is causing a great deal of gravimetric interference. That might have prevented our sensors from detecting it before we dropped out of warp.
+[00:01:05.440 --> 00:01:05.920] PICARD: Mister Data,
+[00:01:09.200 --> 00:01:10.480] PICARD: could this be a Dyson Sphere?
+[00:01:11.520 --> 00:01:14.320] DATA: The object does fit the general parameters of Dyson's theory.
+[00:01:14.960 --> 00:01:15.840] RIKER: A Dyson Sphere?
+[00:01:16.000 --> 00:01:18.000] PICARD: It's a very old theory, Number One.
+[00:01:18.000 --> 00:01:19.440] PICARD: I'm not surprised that you haven't heard of it.
+[00:01:20.880 --> 00:01:28.800] PICARD: In the twentieth century, a physicist called Freeman Dyson, postulated the theory that an enormous hollow sphere could be constructed around a star.
+[00:01:29.686 --> 00:01:33.366] PICARD: This would have the advantage of harnessing all the radiant energy of that star.
+[00:01:33.366 --> 00:01:40.086] PICARD: A population living on the interior surface would have virtually inexhaustible sources of power.
+[00:01:40.726 --> 00:01:42.326] RIKER: Are you saying you think there are people living in there?
+[00:01:42.886 --> 00:01:44.646] DATA: Possibly a great number of people, Commander.
+[00:01:45.286 --> 00:01:51.649] DATA: The interior surface area of a sphere this size is the equivalent of more than two hundred and fifty million class M planets.
+[00:01:51.649 --> 00:01:51.926] WORF: Sir,
+[00:01:52.086 --> 00:01:53.686] WORF: I have located the distress signal.
+[00:01:53.766 --> 00:01:55.686] WORF: It is coming from a point in the northern hemisphere.
+[00:01:56.486 --> 00:01:59.206] PICARD: Ensign Rager, put us into synchronous orbit above that position.
+[00:01:59.446 --> 00:01:59.766] RAGER: Aye, sir.
+[00:02:15.766 --> 00:02:17.766] DATA: I
+[00:02:21.126 --> 00:02:22.406] DATA: have located the Jenolen, sir.
+[00:02:23.126 --> 00:02:25.046] DATA: It is impacted on the surface of the sphere.
+[00:02:25.766 --> 00:02:26.166] PICARD: Magnify.
+[00:02:27.366 --> 00:02:28.406] DATA: There are no life signs.
+[00:02:28.886 --> 00:02:33.846] DATA: However, there are several small power emanations, and life support is still functioning on minimal levels.
+[00:02:35.206 --> 00:02:38.166] RIKER: Riker to Engineering. Geordi, join us in Transporter room three. Mister Worf.
+[00:02:39.526 --> 00:02:39.686] RIKER: This
+[00:02:51.686 --> 00:02:54.406] RIKER: air's pretty stale.
+[00:02:55.126 --> 00:02:57.046] LAFORGE: Life support is barely operating.
+[00:02:57.449 --> 00:02:58.889] RIKER: See if you can increase the oxygen level.
+[00:02:58.969 --> 00:02:59.289] WORF: Aye, sir.
+[00:03:05.129 --> 00:03:05.529] LAFORGE: Commander.
+[00:03:07.209 --> 00:03:08.809] LAFORGE: The transporter is still online.
+[00:03:09.529 --> 00:03:11.529] LAFORGE: It's being fed power from the auxiliary systems.
+[00:03:13.209 --> 00:03:15.849] RIKER: The rematerialisation subroutine has been disabled.
+[00:03:16.409 --> 00:03:17.289] LAFORGE: That's not all.
+[00:03:18.089 --> 00:03:20.729] LAFORGE: The phase inducers are connected to the emitter array.
+[00:03:21.529 --> 00:03:26.249] LAFORGE: The override is completely gone and the pattern buffer's been locked into a continuous diagnostic cycle.
+[00:03:26.649 --> 00:03:27.689] RIKER: This doesn't make any sense.
+[00:03:29.129 --> 00:03:34.009] RIKER: Locking the unit in a diagnostic mode just sends the matter array through the pattern buffer.
+[00:03:34.249 --> 00:03:35.049] RIKER: Why would anyone want to
+[00:03:35.049 --> 00:03:36.169] LAFORGE: There's a pattern in the buffer still.
+[00:03:36.319 --> 00:03:36.919] RIKER: It's
+[00:03:39.129 --> 00:03:40.169] RIKER: completely intact.
+[00:03:40.649 --> 00:03:41.849] RIKER: There's less than point zero zero three percent signal
+[00:03:43.529 --> 00:03:44.329] RIKER: degradation.
+[00:03:44.569 --> 00:03:45.369] RIKER: How is that possible?
+[00:03:45.449 --> 00:03:45.849] LAFORGE: I don't know.
+[00:03:45.849 --> 00:03:48.489] LAFORGE: I've never seen a transporter jury-rigged like this.
+[00:03:48.729 --> 00:03:53.929] RIKER: Could someone survive inside a transporter buffer for seventy five years?
+[00:03:56.329 --> 00:03:57.449] LAFORGE: I know a way to find out.
+[00:04:39.333 --> 00:04:42.133] PICARD: Space, the final frontier.
+[00:04:43.973 --> 00:04:46.853] PICARD: These are the voyages of the starship Enterprise.
+[00:04:47.973 --> 00:04:55.973] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:57.573 --> 00:05:00.453] PICARD: to boldly go where no one has gone before.
+[00:05:30.000 --> 00:05:38.000] [music]
+[00:05:57.940 --> 00:05:58.500] SCOTT: Thank you, lad.
+[00:06:00.660 --> 00:06:02.900] SCOTT: We've got to get Franklin out of there.
+[00:06:03.460 --> 00:06:05.140] LAFORGE: Someone else's pattern is still in the buffer?
+[00:06:05.300 --> 00:06:06.260] SCOTT: Aye, lad. Franklin.
+[00:06:06.660 --> 00:06:07.460] SCOTT: We went in together.
+[00:06:10.020 --> 00:06:10.660] SCOTT: Something's wrong.
+[00:06:12.100 --> 00:06:13.380] SCOTT: One of the inducers has failed.
+[00:06:14.660 --> 00:06:16.020] SCOTT: Boost the gain on the matter stream.
+[00:06:17.940 --> 00:06:18.740] SCOTT: Come on, Franklin.
+[00:06:19.460 --> 00:06:20.580] SCOTT: I know you're still in
+[00:06:22.180 --> 00:06:24.180] SCOTT: there.
+[00:06:24.330 --> 00:06:24.930] SCOTT: It's
+[00:06:26.820 --> 00:06:27.380] SCOTT: no use.
+[00:06:28.180 --> 00:06:30.340] SCOTT: His pattern's degraded fifty three percent.
+[00:06:32.340 --> 00:06:32.820] SCOTT: He's gone.
+[00:06:34.420 --> 00:06:34.740] RIKER: I'm sorry.
+[00:06:35.540 --> 00:06:36.180] SCOTT: So am I.
+[00:06:38.020 --> 00:06:38.740] SCOTT: He was a good lad.
+[00:06:41.380 --> 00:06:46.660] RIKER: I'm Commander William Riker, starship Enterprise. Lieutenant Commander Geordi La Forge.
+[00:06:46.660 --> 00:06:47.380] SCOTT: The Enterprise?
+[00:06:48.500 --> 00:06:49.300] SCOTT: I should have known.
+[00:06:50.420 --> 00:06:54.340] SCOTT: I bet Jim Kirk himself hauled the old girl out of mothballs to come looking for me.
+[00:06:55.540 --> 00:06:56.580] SCOTT: Captain Montgomery Scott.
+[00:06:57.380 --> 00:06:59.300] SCOTT: Tell me, how long have I been missing?
+[00:07:00.340 --> 00:07:00.700] RIKER: Well
+[00:07:00.700 --> 00:07:01.060] WORF: Sir.
+[00:07:02.900 --> 00:07:04.660] WORF: I have restored life support.
+[00:07:05.140 --> 00:07:07.140] WORF: The oxygen levels will return to normal shortly.
+[00:07:09.300 --> 00:07:10.500] RIKER: Captain Scott, Lieutenant Worf.
+[00:07:11.220 --> 00:07:11.780] SCOTT: Lieutenant?
+[00:07:13.460 --> 00:07:13.860] WORF: Yes.
+[00:07:15.060 --> 00:07:16.980] RIKER: Captain, perhaps there are a few things we should talk about.
+[00:07:31.369 --> 00:07:33.609] RIKER: We should probably get you to Sickbay. Doctor Crusher
+[00:07:33.609 --> 00:07:34.449] RIKER: will want to
+[00:07:34.449 --> 00:07:35.849] SCOTT: You've changed the resonator array.
+[00:07:37.049 --> 00:07:39.849] RIKER: Geordi, I think our guest is going to have a lot of engineering questions.
+[00:07:39.849 --> 00:07:40.649] LAFORGE: Not to worry, Commander.
+[00:07:40.649 --> 00:07:41.129] LAFORGE: I'll take care
+[00:07:45.129 --> 00:07:45.129] LAFORGE: of him, sir.
+[00:07:48.009 --> 00:07:49.849] SCOTT: What have you done with the duotronic enhancers?
+[00:07:49.849 --> 00:07:53.769] LAFORGE: Those were replaced with isolinear chips about forty years ago.
+[00:07:54.089 --> 00:07:55.049] LAFORGE: It's a lot more efficient now.
+[00:07:55.289 --> 00:07:56.622] LAFORGE: That's an EPS power tap.
+[00:07:56.622 --> 00:07:56.889] SCOTT: Ah.
+[00:08:00.249 --> 00:08:06.089] LAFORGE: So, you were saying earlier that you were on your way to the Norpin Colony when you had a warp engine failure?
+[00:08:06.249 --> 00:08:06.969] SCOTT: Aye, that's right.
+[00:08:07.289 --> 00:08:12.649] SCOTT: We had an overload in one of the plasma transfer conduits. The Captain brought us out of warp
+[00:08:12.729 --> 00:08:16.809] SCOTT: and we hit some gravimetric interference and then there it was, as big as life.
+[00:08:17.849 --> 00:08:19.609] SCOTT: Is that a conduit interface?
+[00:08:20.169 --> 00:08:20.809] LAFORGE: Yeah, it is.
+[00:08:22.009 --> 00:08:24.569] LAFORGE: You were saying its big as life.
+[00:08:24.809 --> 00:08:25.769] LAFORGE: You mean the Dyson Sphere?
+[00:08:25.769 --> 00:08:28.569] SCOTT: Aye, an actual Dyson Sphere.
+[00:08:28.809 --> 00:08:33.609] SCOTT: Can you imagine the engineering skills needed to even design such a structure?
+[00:08:33.609 --> 00:08:34.729] LAFORGE: Yeah, it's pretty amazing.
+[00:08:35.369 --> 00:08:36.889] LAFORGE: So, what happened when you first approached it?
+[00:08:37.129 --> 00:08:46.729] SCOTT: Well, we began a standard survey of the surface, and we were just completing the initial orbital scan when our aft power coils suddenly exploded.
+[00:08:47.209 --> 00:08:50.969] SCOTT: The ship got caught in the sphere's gravity well and down we went.
+[00:08:52.089 --> 00:08:54.809] SCOTT: Franklin and I were the only ones to survive the crash.
+[00:08:56.249 --> 00:08:57.129] LAFORGE: Can I ask you a question?
+[00:08:57.678 --> 00:09:01.998] LAFORGE: What in the world made you think of using the transporter pattern buffer to survive?
+[00:09:02.958 --> 00:09:08.958] SCOTT: Well, we didn't have enough supplies to wait for a rescue, so we had to think of something.
+[00:09:08.958 --> 00:09:19.438] LAFORGE: Yeah, but locking it into a diagnostic cycle so that the pattern wouldn't degrade, and then cross-connecting it phase inducers to provide a regenerative power source, that's absolutely brilliant.
+[00:09:20.398 --> 00:09:23.038] SCOTT: I think it was only fifty percent brilliant.
+[00:09:24.078 --> 00:09:25.998] SCOTT: Franklin deserved better.
+[00:09:28.318 --> 00:09:30.638] LAFORGE: I think you're going to enjoy the twenty fourth century, Mister Scott.
+[00:09:30.798 --> 00:09:33.598] LAFORGE: We've made some pretty incredible advances these last eighty years.
+[00:09:34.238 --> 00:09:39.598] SCOTT: From what I've seen, you've got a fine ship, Mister La Forge. A real beauty here.
+[00:09:40.558 --> 00:09:42.638] SCOTT: I must admit to being a bit overwhelmed.
+[00:09:42.798 --> 00:09:44.318] LAFORGE: Wait until you see the holodeck.
+[00:09:47.518 --> 00:09:49.598] CRUSHER: You have a hairline fracture of the humorous.
+[00:09:50.558 --> 00:09:53.038] CRUSHER: It will ache for a few days, but it should be fine.
+[00:09:53.758 --> 00:09:54.158] SCOTT: Thank you.
+[00:09:55.198 --> 00:09:59.518] SCOTT: Well, I'll say this about your Enterprise. The doctors are a fair sight prettier.
+[00:10:02.078 --> 00:10:02.878] PICARD: I'm Jean-Luc Picard.
+[00:10:04.318 --> 00:10:05.838] PICARD: Welcome aboard the Enterprise, Captain Scott.
+[00:10:06.158 --> 00:10:06.958] SCOTT: Thank you, sir, and
+[00:10:07.118 --> 00:10:07.998] SCOTT: call me Scotty.
+[00:10:08.718 --> 00:10:09.358] PICARD: How are you feeling?
+[00:10:09.838 --> 00:10:10.398] SCOTT: I don't know.
+[00:10:11.838 --> 00:10:12.878] SCOTT: How am I feeling?
+[00:10:13.438 --> 00:10:16.958] CRUSHER: Other than a couple of bumps and bruises, I'd say you feel fine for a man of a hundred and forty
+[00:10:17.358 --> 00:10:17.598] CRUSHER: seven.
+[00:10:17.598 --> 00:10:19.998] SCOTT: I don't feel a day over a hundred and twenty.
+[00:10:21.598 --> 00:10:25.678] PICARD: I must say, I was little surprised when Commander Riker told me that you were aboard the Jenolen.
+[00:10:26.078 --> 00:10:28.238] PICARD: Our records didn't show you listed as a member of the crew.
+[00:10:28.398 --> 00:10:31.038] SCOTT: Well, I was never actually a member of the crew.
+[00:10:31.038 --> 00:10:31.438] SCOTT: I was
+[00:10:32.224 --> 00:10:33.184] SCOTT: just a passenger.
+[00:10:33.184 --> 00:10:38.464] SCOTT: I was heading for Norpin Five to settle down and enjoy my retirement.
+[00:10:38.864 --> 00:10:39.424] PICARD: I see.
+[00:10:40.064 --> 00:10:43.264] PICARD: Well, I would very much enjoy the opportunity to hear you talk about your career.
+[00:10:43.344 --> 00:10:46.704] PICARD: I'm sure you would have some fascinating insights into the events of your time.
+[00:10:47.344 --> 00:10:48.064] SCOTT: I'd be happy to.
+[00:10:48.704 --> 00:10:48.864] PICARD: Good.
+[00:10:48.864 --> 00:10:49.664] PICARD: Well, I look forward to it.
+[00:10:49.664 --> 00:10:50.544] PICARD: Excuse me. Commander,
+[00:10:50.784 --> 00:10:53.984] PICARD: we need to begin a full spectrographic analysis of the Dyson Sphere.
+[00:10:54.064 --> 00:10:54.624] LAFORGE: I'll get right on it, sir.
+[00:10:55.104 --> 00:10:55.344] PICARD: Good.
+[00:10:55.824 --> 00:10:57.104] PICARD: Once again, welcome on board, Captain.
+[00:10:57.184 --> 00:10:57.411] SCOTT: Sir.
+[00:10:57.411 --> 00:10:59.904] LAFORGE: I need to get down to Engineering and begin that analysis.
+[00:10:59.984 --> 00:11:00.544] SCOTT: Engineering?
+[00:11:00.864 --> 00:11:02.224] SCOTT: I thought you'd never ask.
+[00:11:04.224 --> 00:11:06.864] CRUSHER: Captain, the first thing you need to get is some rest.
+[00:11:07.264 --> 00:11:10.064] CRUSHER: Now this has been a shock to your system, and I want you to not push yourself.
+[00:11:10.864 --> 00:11:13.104] LAFORGE: We're pretty busy down there, anyway, Captain Scott.
+[00:11:13.104 --> 00:11:16.224] LAFORGE: I promise I'd be happy to give you a tour just as soon as the doctor says it's okay.
+[00:11:16.704 --> 00:11:18.704] CRUSHER: I'll have someone show you your quarters.
+[00:11:22.384 --> 00:11:22.624] SCOTT: Aye.
+[00:11:30.784 --> 00:11:32.944] KANE: This is the food replicator, and your computer terminal.
+[00:11:34.544 --> 00:11:37.024] SCOTT: Good Lord, man, where have you put me?
+[00:11:37.744 --> 00:11:39.744] KANE: These are standard guest quarters, sir.
+[00:11:39.744 --> 00:11:41.424] KANE: I can try and find something bigger if you want.
+[00:11:42.064 --> 00:11:42.384] SCOTT: Bigger?
+[00:11:43.424 --> 00:11:48.064] SCOTT: In my day, even an Admiral wouldn't have had such quarters on a starship.
+[00:11:48.864 --> 00:11:53.104] SCOTT: You know, I remember a time we had to transport the Dohlman of Elaas.
+[00:11:54.144 --> 00:11:57.744] SCOTT: You never heard anyone whine and complain so much about quarters as she did.
+[00:11:57.984 --> 00:11:59.104] KANE: The holodecks,
+[00:11:59.204 --> 00:12:01.284] KANE: Ten Forward, and the gymnasium are all at your disposal.
+[00:12:01.284 --> 00:12:02.644] KANE: The computer can tell you how to find them.
+[00:12:02.884 --> 00:12:06.244] KANE: Until we issue you a combadge, just use one of these panels if you need anything.
+[00:12:06.644 --> 00:12:10.484] SCOTT: You know, these quarters remind me of a hotel room on Argelius.
+[00:12:10.884 --> 00:12:12.564] SCOTT: Oh, now there is a planet.
+[00:12:13.364 --> 00:12:15.924] SCOTT: Everything a man wants right at his fingertips.
+[00:12:15.924 --> 00:12:19.044] SCOTT: Of course, on the first visit, I got into a wee bit of trouble.
+[00:12:19.044 --> 00:12:20.804] KANE: Excuse me, sir but I have to return to duty.
+[00:12:21.764 --> 00:12:22.324] SCOTT: Oh.
+[00:12:24.164 --> 00:12:24.564] SCOTT: Well then.
+[00:12:26.884 --> 00:12:27.204] SCOTT: Thank you.
+[00:12:28.564 --> 00:12:30.564] LAFORGE: I
+[00:12:56.484 --> 00:13:00.644] LAFORGE: want you to shut down the warp engines and recalibrate the aft sensors while I work on the lateral array.
+[00:13:00.964 --> 00:13:01.364] BARTEL: Aye, sir.
+[00:13:04.724 --> 00:13:05.764] BARTEL: Can I help you, sir?
+[00:13:06.484 --> 00:13:09.604] SCOTT: Oh, I don't think so, lassie, but I'll let you know if you can.
+[00:13:09.924 --> 00:13:12.164] BARTEL: Sir, this area is restricted to authorised personnel
+[00:13:12.164 --> 00:13:12.884] LAFORGE: Bartel, it's okay.
+[00:13:13.124 --> 00:13:13.604] LAFORGE: I'll handle it.
+[00:13:13.684 --> 00:13:15.124] LAFORGE: Captain Scott, this really isn't
+[00:13:15.124 --> 00:13:16.564] SCOTT: We're in Engineering.
+[00:13:16.564 --> 00:13:17.604] SCOTT: Call me Scotty.
+[00:13:18.244 --> 00:13:20.564] LAFORGE: Scotty, this really isn't a good time for a tour.
+[00:13:20.564 --> 00:13:22.884] LAFORGE: We're running a phase seven survey of the Dyson Sphere.
+[00:13:23.524 --> 00:13:25.604] SCOTT: I'm not here for a tour, laddie.
+[00:13:26.605 --> 00:13:27.565] SCOTT: I'm here to help.
+[00:13:29.485 --> 00:13:32.445] LAFORGE: That's very kind, but I'm sure we can handle it.
+[00:13:33.245 --> 00:13:38.445] SCOTT: I was a Starfleet engineer for fifty two years, Mister La Forge.
+[00:13:39.405 --> 00:13:40.765] SCOTT: I think I'm still useful.
+[00:13:43.565 --> 00:13:43.965] LAFORGE: You're right.
+[00:13:44.525 --> 00:13:46.925] LAFORGE: We'd be grateful for any help you can give us.
+[00:13:46.925 --> 00:13:47.165] SCOTT: Good.
+[00:13:47.805 --> 00:13:48.525] SCOTT: Let's get to work.
+[00:13:51.165 --> 00:13:54.525] DATA: Sensor readings indicate the presence of a G-type star at the centre of the sphere.
+[00:13:55.325 --> 00:13:59.005] DATA: There also appears to be a class-M atmosphere clinging to the interior surface.
+[00:13:59.165 --> 00:14:01.085] PICARD: Is there any indication that the sphere is inhabited?
+[00:14:01.405 --> 00:14:02.045] DATA: Not as yet, sir.
+[00:14:02.605 --> 00:14:06.365] DATA: Our preliminary data suggests it is still capable of supporting life.
+[00:14:07.165 --> 00:14:10.045] DATA: We have been unable to find definite signs of current habitation.
+[00:14:10.365 --> 00:14:14.445] PICARD: Mister Data, send out a series of class-four probes to survey the far side of the sphere.
+[00:14:15.485 --> 00:14:16.685] PICARD: Perhaps we'll have more luck with them.
+[00:14:17.085 --> 00:14:17.405] DATA: Aye, sir.
+[00:14:18.765 --> 00:14:21.325] LAFORGE: Adjust the frequency stabilisation on the main deflector dish.
+[00:14:21.325 --> 00:14:21.885] LAFORGE: It's out of synch with the aft sensors.
+[00:14:21.885 --> 00:14:25.965] SCOTT: Laddie, you need to phase-lock the warp fields within three percent or they'll become unstable.
+[00:14:26.525 --> 00:14:26.845] LAFORGE: What?
+[00:14:27.325 --> 00:14:28.365] SCOTT: Well look here. The warp field is
+[00:14:32.445 --> 00:14:35.325] LAFORGE: We use a multiphase auto-containment field now.
+[00:14:35.485 --> 00:14:37.005] LAFORGE: It's meant to operate above three percent.
+[00:14:38.045 --> 00:14:40.925] SCOTT: Oh. Well, that would make the difference.
+[00:14:41.405 --> 00:14:43.325] BARTEL: We can re start the engines in ten minutes, Commander.
+[00:14:43.565 --> 00:14:44.285] LAFORGE: Thank you, Lieutenant.
+[00:14:44.845 --> 00:14:51.405] SCOTT: I remember a time when the old Enterprise was spiralling in toward Psi two thousand.
+[00:14:52.285 --> 00:14:52.605] LAFORGE: Thank you.
+[00:14:52.845 --> 00:14:53.485] SCOTT: The Captain
+[00:14:53.984 --> 00:14:56.864] SCOTT: wanted to try a cold start of the warp engines.
+[00:14:57.744 --> 00:15:02.384] SCOTT: I told him that without a proper phase lock it would take at least thirty minutes
+[00:15:03.104 --> 00:15:04.945] SCOTT: You canna change the laws of physics,
+[00:15:04.945 --> 00:15:07.024] SCOTT: I told him, but he wouldn't believe me,
+[00:15:07.264 --> 00:15:11.104] SCOTT: so I had to come up with a new engine start-up routine.
+[00:15:12.064 --> 00:15:14.624] SCOTT: Do you know that your dilithium crystals are going to fracture?
+[00:15:23.424 --> 00:15:27.984] LAFORGE: We recomposite the crystals while they're still inside the articulation frame.
+[00:15:28.064 --> 00:15:28.464] LAFORGE: Look, Mister
+[00:15:28.464 --> 00:15:34.624] LAFORGE: Scott, I'd love to explain everything to you, but the Captain wants this spectrographic analysis done by thirteen hundred hours.
+[00:15:35.344 --> 00:15:37.344] SCOTT: Do you mind
+[00:15:43.984 --> 00:15:45.984] SCOTT: a
+[00:15:53.344 --> 00:15:53.984] SCOTT: little advice?
+[00:15:56.384 --> 00:15:59.185] SCOTT: Starfleet captains are like children.
+[00:15:59.664 --> 00:16:02.384] SCOTT: They want everything right now and they want it their way,
+[00:16:02.704 --> 00:16:06.384] SCOTT: but the secret is to give them only what they need, not what they want.
+[00:16:06.544 --> 00:16:09.104] LAFORGE: Yeah, well I told the Captain I'd have this analysis done in an hour.
+[00:16:09.984 --> 00:16:11.104] SCOTT: How long will it really take?
+[00:16:12.945 --> 00:16:13.424] LAFORGE: An hour.
+[00:16:13.984 --> 00:16:16.784] SCOTT: You didn't tell him how long it would really take, did you?
+[00:16:16.784 --> 00:16:17.744] LAFORGE: Of course I did.
+[00:16:18.544 --> 00:16:19.424] SCOTT: Oh, laddie,
+[00:16:19.787 --> 00:16:21.227] SCOTT: you've got a lot to learn if you
+[00:16:21.227 --> 00:16:23.627] SCOTT: want people to think of you as a miracle worker.
+[00:16:23.867 --> 00:16:24.507] SCOTT: Now listen
+[00:16:24.507 --> 00:16:25.147] LAFORGE: Captain Scott.
+[00:16:26.107 --> 00:16:27.387] LAFORGE: I've tried to be patient,
+[00:16:27.547 --> 00:16:32.507] LAFORGE: I've tried to be polite. But I've got a job to do here, and quite frankly, you're in the way.
+[00:16:34.107 --> 00:16:41.227] SCOTT: I was driving starships while your great-grandfather was still in diapers.
+[00:16:41.787 --> 00:16:44.267] SCOTT: I'd think you'd be a little grateful for a some help.
+[00:16:45.947 --> 00:16:48.187] SCOTT: I'll leave ye to work, Mister La Forge.
+[00:17:16.667 --> 00:17:18.587] WAITER: May I help you, sir?
+[00:17:19.067 --> 00:17:21.307] SCOTT: Aye, lad. Scotch, neat.
+[00:17:24.267 --> 00:17:25.147] WAITER: There you
+[00:17:27.627 --> 00:17:28.027] WAITER: go, sir.
+[00:17:30.027 --> 00:17:30.347] SCOTT: Thank you.
+[00:17:33.707 --> 00:17:35.227] SCOTT: What in blazes is this?
+[00:17:36.027 --> 00:17:37.371] WAITER: Didn't you order Scotch?
+[00:17:37.371 --> 00:17:37.707] SCOTT: Laddie,
+[00:17:38.747 --> 00:17:47.947] SCOTT: I was drinking Scotch a hundred years before you were born and I can tell you that whatever this is, it is definitely not Scotch.
+[00:17:48.267 --> 00:17:49.787] DATA: I believe I may be of some assistance.
+[00:17:50.507 --> 00:17:51.307] DATA: Captain Scott is
+[00:17:51.318 --> 00:17:54.267] DATA: unaware of the existence of synthehol.
+[00:17:54.267 --> 00:17:54.758] SCOTT: Synthehol?
+[00:17:55.238 --> 00:17:55.478] DATA: Yes, sir.
+[00:17:56.278 --> 00:17:59.398] DATA: It is an alcohol substitute now being served aboard starships.
+[00:17:59.958 --> 00:18:05.798] DATA: It simulates the appearance, taste and smell of alcohol, but the intoxicating affects can be easily dismissed.
+[00:18:06.198 --> 00:18:09.078] SCOTT: You're not quite human, are you?
+[00:18:09.798 --> 00:18:10.118] DATA: No, sir.
+[00:18:10.918 --> 00:18:13.238] DATA: I am an android. Lieutenant Commander Data.
+[00:18:15.958 --> 00:18:17.158] SCOTT: Synthetic Scotch,
+[00:18:17.558 --> 00:18:18.838] SCOTT: synthetic commanders.
+[00:18:20.918 --> 00:18:24.518] DATA: I believe Guinan does keep a limited supply of non-syntheholic products.
+[00:18:24.758 --> 00:18:26.278] DATA: Perhaps one of them would be to your liking.
+[00:18:36.438 --> 00:18:38.678] SCOTT: What is it?
+[00:18:39.798 --> 00:18:40.038] DATA: It is
+[00:18:42.518 --> 00:18:43.478] DATA: It
+[00:18:45.718 --> 00:18:45.718] DATA: is
+[00:18:45.718 --> 00:18:45.958] DATA: It is
+[00:18:50.358 --> 00:18:50.678] DATA: green.
+[00:19:03.398 --> 00:19:04.278] SCOTT: Ah!
+[00:19:20.438 --> 00:19:20.918] COMPUTER: Please enter
+[00:19:21.020 --> 00:19:21.500] COMPUTER: programme.
+[00:19:22.540 --> 00:19:25.340] SCOTT: The android at the bar said you could show me my old ship.
+[00:19:25.980 --> 00:19:26.380] SCOTT: Let me see it.
+[00:19:27.580 --> 00:19:28.540] COMPUTER: Insufficient data.
+[00:19:28.940 --> 00:19:30.620] COMPUTER: Please specify parameters.
+[00:19:32.060 --> 00:19:33.180] SCOTT: The Enterprise.
+[00:19:33.260 --> 00:19:35.980] SCOTT: Show me the Bridge of the Enterprise, you chattering piece
+[00:19:35.980 --> 00:19:36.220] SCOTT: of
+[00:19:36.300 --> 00:19:36.460] COMPUTER: There have
+[00:19:38.060 --> 00:19:40.380] COMPUTER: been five Federation ships with that name.
+[00:19:40.940 --> 00:19:42.940] COMPUTER: Please specify by registry number.
+[00:19:45.180 --> 00:19:50.620] SCOTT: NCC One Seven Oh One.
+[00:19:51.260 --> 00:19:56.860] SCOTT: No bloody A, B, C, or D.
+[00:19:58.140 --> 00:19:58.940] COMPUTER: Programme complete.
+[00:19:59.260 --> 00:20:00.060] COMPUTER: Enter when ready.
+[00:20:54.860 --> 00:20:55.820] SCOTT: Here's to you, lads.
+[00:21:13.283 --> 00:21:14.323] PICARD: I hope I'm not interrupting.
+[00:21:16.643 --> 00:21:19.843] PICARD: I was just coming off duty and I wanted to see how you were doing.
+[00:21:21.203 --> 00:21:23.523] SCOTT: Not at all, not at all.
+[00:21:24.403 --> 00:21:25.843] SCOTT: Have a drink with me, Captain.
+[00:21:26.403 --> 00:21:26.803] PICARD: Thank you.
+[00:21:30.483 --> 00:21:35.523] SCOTT: I don't know what it is, exactly, but I would be real careful.
+[00:21:35.523 --> 00:21:36.003] SCOTT: It's real
+[00:21:39.203 --> 00:21:39.923] PICARD: Aldebaran whiskey.
+[00:21:42.083 --> 00:21:43.283] PICARD: Who do you think gave it to Guinan?
+[00:21:43.843 --> 00:21:44.083] SCOTT: Ah.
+[00:21:51.683 --> 00:21:52.643] PICARD: Constitution class.
+[00:21:53.363 --> 00:21:53.683] SCOTT: Aye.
+[00:21:55.603 --> 00:21:56.643] SCOTT: You're familiar with them?
+[00:21:57.523 --> 00:21:59.043] PICARD: There's one in the Fleet museum,
+[00:22:00.883 --> 00:22:04.163] PICARD: but then of course, this is your Enterprise?
+[00:22:04.803 --> 00:22:05.923] SCOTT: I actually served on two.
+[00:22:07.203 --> 00:22:08.243] SCOTT: This was the first.
+[00:22:09.123 --> 00:22:13.923] SCOTT: She was also the first ship I ever served on as Chief Engineer.
+[00:22:15.363 --> 00:22:27.043] SCOTT: You know, I served aboard eleven ships. Freighters, cruisers, starships, but this is the only one I think of. The only one I miss.
+[00:22:27.989 --> 00:22:33.269] PICARD: The first ship I ever served aboard as Captain was called the Stargazer.
+[00:22:33.669 --> 00:22:39.669] PICARD: It was an overworked, underpowered vessel, always on the verge of flying apart at the seams.
+[00:22:40.469 --> 00:22:44.469] PICARD: In every measurable sense, my Enterprise is far superior.
+[00:22:45.429 --> 00:22:51.509] PICARD: But there are times when I would give almost anything to command the Stargazer again.
+[00:22:53.109 --> 00:22:54.949] SCOTT: It's like the first time you fall in love.
+[00:22:55.989 --> 00:22:59.589] SCOTT: You don't ever love a woman quite like that again.
+[00:23:02.309 --> 00:23:09.429] SCOTT: Well, to the Enterprise and the Stargazer. Old girlfriends we'll never meet again.
+[00:23:17.589 --> 00:23:19.029] PICARD: What do you think of the Enterprise D?
+[00:23:19.989 --> 00:23:22.149] SCOTT: She's a beauty, with a good crew.
+[00:23:22.869 --> 00:23:23.589] PICARD: But?
+[00:23:23.589 --> 00:23:24.309] SCOTT: But.
+[00:23:26.389 --> 00:23:33.669] SCOTT: When I was here, I could tell you the speed that we were traveling by the feel of the deckplates.
+[00:23:34.469 --> 00:23:38.149] SCOTT: But on your ship, I feel like I'm just in the way.
+[00:23:38.709 --> 00:23:40.229] PICARD: Seventy five years is a long time.
+[00:23:42.789 --> 00:23:45.837] PICARD: If you would care to study some technical schematics or
+[00:23:45.837 --> 00:23:49.189] SCOTT: I'm not eighteen. I can't start out like a raw cadet.
+[00:23:50.869 --> 00:23:56.149] SCOTT: No, there comes a time when a man finds that he can't fall in love again.
+[00:23:57.829 --> 00:23:59.269] SCOTT: He knows that it's time to stop.
+[00:24:01.146 --> 00:24:02.426] SCOTT: I don't belong on your ship.
+[00:24:04.026 --> 00:24:04.906] SCOTT: I belong on this one.
+[00:24:06.186 --> 00:24:06.986] SCOTT: This was my home.
+[00:24:08.346 --> 00:24:10.026] SCOTT: This is where I had a purpose.
+[00:24:13.706 --> 00:24:14.826] SCOTT: But it's not real.
+[00:24:15.546 --> 00:24:22.666] SCOTT: It's just a computer generated fantasy. And I'm just an old man who's trying to hide in it.
+[00:24:23.946 --> 00:24:27.546] SCOTT: Computer, shut this bloody thing off.
+[00:24:29.466 --> 00:24:31.706] SCOTT: It's time I acted my age.
+[00:24:44.106 --> 00:24:44.426] PICARD: Come.
+[00:24:48.746 --> 00:24:49.706] PICARD: Mister La Forge,
+[00:24:49.866 --> 00:24:55.946] PICARD: I understand that before the Jenolen crashed, it had conducted an extensive survey of the Dyson sphere.
+[00:24:56.746 --> 00:24:58.906] PICARD: Have we been able to access any of those records?
+[00:24:59.066 --> 00:25:02.426] LAFORGE: We did try to download their memory core, but it was pretty heavily damaged in the crash.
+[00:25:02.746 --> 00:25:04.426] LAFORGE: We actually haven't been able to get much out of it.
+[00:25:05.626 --> 00:25:10.586] PICARD: Perhaps Captain Scott could be of use in accessing that material.
+[00:25:12.106 --> 00:25:12.746] LAFORGE: It's possible.
+[00:25:12.746 --> 00:25:14.826] LAFORGE: He does know those systems better than any of us.
+[00:25:16.346 --> 00:25:17.546] LAFORGE: I'll have Lieutenant Bartel beam down with him.
+[00:25:18.186 --> 00:25:18.826] PICARD: Mister La Forge,
+[00:25:21.786 --> 00:25:26.026] PICARD: I would like you to accompany Captain Scott.
+[00:25:27.373 --> 00:25:27.533] LAFORGE: Me, sir?
+[00:25:27.533 --> 00:25:27.613] PICARD: Yes.
+[00:25:28.253 --> 00:25:28.253] PICARD: Look,
+[00:25:29.853 --> 00:25:30.733] PICARD: this is not an order,
+[00:25:31.853 --> 00:25:36.093] PICARD: it's a request and it's one which you must feel perfectly free to decline.
+[00:25:38.493 --> 00:25:42.013] PICARD: You see, one of the most important things in a person's life is to feel useful.
+[00:25:43.053 --> 00:25:48.973] PICARD: Now, Mister Scott is a Starfleet officer and I would like him to feel useful again.
+[00:25:50.973 --> 00:25:52.253] LAFORGE: I'll go with him, sir.
+[00:25:54.653 --> 00:25:54.973] PICARD: Thank you.
+[00:25:59.373 --> 00:25:59.773] DATA: Commander,
+[00:26:00.813 --> 00:26:04.093] DATA: I believe I have found something on the sphere which could be a communications device.
+[00:26:05.453 --> 00:26:10.093] DATA: There's an antenna array approximately four hundred thousand kilometres south of our present position.
+[00:26:10.733 --> 00:26:13.613] DATA: It is emitting low intensity subspace signals.
+[00:26:13.773 --> 00:26:14.413] RIKER: Can you open a channel?
+[00:26:15.533 --> 00:26:15.773] DATA: No, sir,
+[00:26:15.773 --> 00:26:16.893] DATA: not from our present orbit.
+[00:26:17.693 --> 00:26:19.613] DATA: The array is currently directed away from us.
+[00:26:20.253 --> 00:26:22.973] RIKER: Ensign, prepare to put us in orbit above those coordinates.
+[00:26:22.973 --> 00:26:24.413] RIKER: Captain Picard to the Bridge, please.
+[00:26:30.893 --> 00:26:31.773] LAFORGE: Are you feeling all right?
+[00:26:32.093 --> 00:26:34.733] SCOTT: Never get drunk unless you're willing to pay for it
+[00:26:34.733 --> 00:26:37.693] SCOTT: the next day. I'll manage.
+[00:26:39.133 --> 00:26:39.373] LAFORGE: Okay.
+[00:26:46.573 --> 00:26:47.213] LAFORGE: Energise.
+[00:27:04.046 --> 00:27:09.486] DATA: Sensors indicate that the large circle is a portal or airlock, possibly leading to the interior of the sphere.
+[00:27:09.886 --> 00:27:10.926] RIKER: This looks like the front door.
+[00:27:11.886 --> 00:27:12.526] RIKER: Should we ring the bell?
+[00:27:13.406 --> 00:27:13.886] PICARD: Mister Worf,
+[00:27:14.846 --> 00:27:16.526] PICARD: open a channel to that communications array.
+[00:27:17.006 --> 00:27:17.406] WORF: Aye, sir.
+[00:27:21.246 --> 00:27:23.006] DATA: Some type of tractor beam has locked onto us.
+[00:27:23.486 --> 00:27:24.366] RIKER: Helm, get us out of here!
+[00:27:25.166 --> 00:27:26.526] RAGER: We've lost main power.
+[00:27:27.246 --> 00:27:29.566] RAGER: Auxiliary power down to twenty percent.
+[00:27:34.846 --> 00:27:35.966] WORF: We're being pulled inside.
+[00:27:35.966 --> 00:27:37.086] RAGER: Auxiliary power
+[00:27:54.606 --> 00:27:55.006] RAGER: failing.
+[00:27:55.566 --> 00:27:59.166] DATA: The resonance frequency of the tractor beams is incompatible with our power systems.
+[00:27:59.806 --> 00:28:03.726] DATA: Warp and impulse engine relays have been overloaded. I am attempting to compensate.
+[00:28:03.726 --> 00:28:04.686] RAGER: The tractor
+[00:28:15.326 --> 00:28:16.606] RAGER: beams have released us, sir.
+[00:28:16.606 --> 00:28:19.806] RIKER: Hold position here until we can get our bearings.
+[00:28:20.366 --> 00:28:21.406] PICARD: Full sensor sweep, Mister Data.
+[00:28:22.216 --> 00:28:23.336] PICARD: Where are we?
+[00:28:23.336 --> 00:28:26.136] DATA: Approximately ninety million kilometres from the star's photosphere.
+[00:28:27.096 --> 00:28:29.256] DATA: I am reading a great deal of surface instability.
+[00:28:29.816 --> 00:28:30.296] DATA: It may be
+[00:28:30.296 --> 00:28:30.456] RAGER: Sir!
+[00:28:31.176 --> 00:28:34.296] RAGER: The inertial motion from the tractor beams is still carrying us forward.
+[00:28:35.336 --> 00:28:38.616] RAGER: Impulse engines are offline and I can't stop our momentum.
+[00:28:39.656 --> 00:28:41.176] RAGER: We're falling directly into the star.
+[00:28:52.456 --> 00:28:55.336] SCOTT: The primary computer database should be online now.
+[00:28:55.656 --> 00:28:56.296] SCOTT: Give it a try.
+[00:28:56.616 --> 00:28:57.096] LAFORGE: Okay.
+[00:29:00.216 --> 00:29:02.296] LAFORGE: I've got three access lines to the central core.
+[00:29:03.976 --> 00:29:04.616] LAFORGE: Still nothing.
+[00:29:05.976 --> 00:29:08.296] SCOTT: Bunch of old, useless, garbage.
+[00:29:08.936 --> 00:29:09.176] LAFORGE: Huh?
+[00:29:09.176 --> 00:29:11.096] SCOTT: I say it's old, Mister La Forge.
+[00:29:11.336 --> 00:29:13.816] SCOTT: It can't handle the interface of your power converter.
+[00:29:14.776 --> 00:29:17.816] SCOTT: This equipment was designed for a different era.
+[00:29:19.736 --> 00:29:21.256] SCOTT: Now it's just a piece of junk.
+[00:29:22.136 --> 00:29:22.776] LAFORGE: I don't know.
+[00:29:22.776 --> 00:29:24.776] LAFORGE: It seems like some of it's held together pretty well.
+[00:29:25.016 --> 00:29:26.056] SCOTT: A century out of date.
+[00:29:26.616 --> 00:29:29.016] SCOTT: It's just obsolete.
+[00:29:30.536 --> 00:29:37.896] LAFORGE: Well you know, that's interesting because I was just thinking that a lot of these systems haven't changed much in the last seventy five years.
+[00:29:38.936 --> 00:29:42.936] LAFORGE: This transporter is basically the same system we use on the Enterprise.
+[00:29:43.576 --> 00:29:47.656] LAFORGE: Subspace radio and sensors still operate under the same basic principle.
+[00:29:47.896 --> 00:29:50.296] LAFORGE: Impulse engine design hasn't changed much in the last two hundred years.
+[00:29:50.769 --> 00:29:54.289] LAFORGE: If it wasn't for all the structural damage, this ship might still be in service today.
+[00:29:54.609 --> 00:29:55.729] SCOTT: Maybe so,
+[00:29:58.209 --> 00:30:03.889] SCOTT: but when they can build ships like your Enterprise, who'd want to pilot an old bucket like this?
+[00:30:05.169 --> 00:30:05.649] LAFORGE: I don't know.
+[00:30:06.129 --> 00:30:09.729] LAFORGE: If this ship were operational I bet she'd run circles around the Enterprise at impulse speeds.
+[00:30:10.369 --> 00:30:12.369] LAFORGE: Just because something's old doesn't mean you throw it away.
+[00:30:15.969 --> 00:30:18.769] SCOTT: We used to have something called a dynamic mode converter.
+[00:30:19.409 --> 00:30:21.489] SCOTT: You wouldn't have something like that on your Enterprise would you?
+[00:30:22.369 --> 00:30:24.609] LAFORGE: I haven't seen anything like that in a long time,
+[00:30:26.289 --> 00:30:28.449] LAFORGE: but I bet I might be able to come up with something similar.
+[00:30:29.249 --> 00:30:30.289] LAFORGE: La Forge to Enterprise.
+[00:30:32.209 --> 00:30:33.969] LAFORGE: La Forge to Enterprise, come in, please.
+[00:30:38.929 --> 00:30:39.649] SCOTT: Interference?
+[00:30:40.689 --> 00:30:41.409] LAFORGE: No, they're gone.
+[00:30:44.849 --> 00:30:47.009] DATA: We will enter the sun's photosphere in three minutes.
+[00:30:47.009 --> 00:30:48.609] PICARD: Manoeuvring thrusters?
+[00:30:49.809 --> 00:30:51.009] RIKER: I've got thirty percent power.
+[00:30:51.009 --> 00:30:51.889] RIKER: It won't be enough to stop us.
+[00:30:52.369 --> 00:30:55.649] PICARD: No, but it may be enough to turn us into orbit, hold our distance from the photosphere.
+[00:30:57.329 --> 00:31:00.049] PICARD: Ensign, port thrusters ahead full, starboard thrusters back full.
+[00:31:01.889 --> 00:31:02.929] DATA: Our flight path is changing.
+[00:31:03.729 --> 00:31:05.249] DATA: Right ten point seven degrees, sir.
+[00:31:05.809 --> 00:31:07.089] DATA: Insufficient to clear the photosphere.
+[00:31:07.889 --> 00:31:12.289] RIKER: Lieutenant Bartel, divert all power from auxiliary relay systems to the manoeuvring thrusters.
+[00:31:13.009 --> 00:31:13.329] BARTEL: Aye, sir.
+[00:31:19.009 --> 00:31:19.889] RAGER: We're in orbit, Captain.
+[00:31:20.289 --> 00:31:21.889] RAGER: Our altitude is one hundred fifty
+[00:31:21.908 --> 00:31:23.268] RAGER: thousand kilometres.
+[00:31:25.348 --> 00:31:27.028] RIKER: I'll see about getting main power back online.
+[00:31:28.068 --> 00:31:28.548] PICARD: Very well.
+[00:31:29.908 --> 00:31:33.108] PICARD: Mister Data, begin a scan of the interior surface for life forms.
+[00:31:34.388 --> 00:31:37.508] PICARD: I want to know who brought us in here and why.
+[00:31:37.908 --> 00:31:38.228] DATA: Aye, sir.
+[00:31:38.378 --> 00:31:38.978] LAFORGE: I
+[00:31:40.868 --> 00:31:42.068] LAFORGE: can't find them anywhere in orbit.
+[00:31:42.388 --> 00:31:44.628] SCOTT: They could've crashed into the sphere like the Jenolen.
+[00:31:45.108 --> 00:31:48.068] LAFORGE: No, we'd be picking up background radiation if they'd gone down.
+[00:31:48.628 --> 00:31:49.988] SCOTT: There's another possibility.
+[00:31:50.708 --> 00:31:52.548] SCOTT: They could be inside the sphere.
+[00:31:53.828 --> 00:31:54.148] LAFORGE: Maybe.
+[00:31:54.948 --> 00:31:57.108] LAFORGE: Whatever happened, we've got to find them.
+[00:31:57.268 --> 00:32:01.268] LAFORGE: If we can get these engines back online, we could track them with their impulse ion trail.
+[00:32:01.908 --> 00:32:02.868] SCOTT: Are ye daft?
+[00:32:03.348 --> 00:32:05.108] SCOTT: The main drive assembly's shot,
+[00:32:05.428 --> 00:32:07.108] SCOTT: the inducers are melted, and
+[00:32:07.268 --> 00:32:08.708] SCOTT: the power couplings are wrecked.
+[00:32:09.188 --> 00:32:12.468] SCOTT: We'd need a week just to get started. But we don't have a week,
+[00:32:12.948 --> 00:32:17.828] SCOTT: so there's no sense in crying about it. Come on, We'll see what we can do with your power converter.
+[00:32:20.148 --> 00:32:21.748] DATA: The sphere appears to be abandoned.
+[00:32:22.788 --> 00:32:25.188] DATA: Sensors show that the star is extremely unstable.
+[00:32:25.668 --> 00:32:29.108] DATA: It is experiencing severe bursts of radiation and matter expulsions.
+[00:32:29.748 --> 00:32:31.188] PICARD: Then that would explain why they abandoned it.
+[00:32:32.068 --> 00:32:33.668] PICARD: But if there's no one still living there,
+[00:32:34.548 --> 00:32:35.588] PICARD: how were we brought inside?
+[00:32:36.308 --> 00:32:41.108] DATA: I believe we triggered a series of automatic piloting beams designed to guide ships into the sphere.
+[00:32:41.428 --> 00:32:41.748] WORF: Sir,
+[00:32:42.308 --> 00:32:45.188] WORF: Sensors show a large magnetic disturbance on the star's surface.
+[00:32:45.828 --> 00:32:47.188] DATA: It is a solar flare, Captain.
+[00:32:47.508 --> 00:32:48.948] DATA: Magnitude twelve, class B.
+[00:32:53.868 --> 00:32:54.172] PICARD: Shields?
+[00:32:54.172 --> 00:32:56.908] WORF: Shields are up, but only at twenty three percent.
+[00:32:57.868 --> 00:32:59.948] DATA: The star has entered a period of increased activity.
+[00:33:00.748 --> 00:33:03.148] DATA: Sensors indicate that the solar flares will continue to grow.
+[00:33:03.948 --> 00:33:07.068] DATA: In three hours, our shields will no longer be sufficient to protect us,
+[00:33:07.068 --> 00:33:07.108] DATA: sir.
+[00:33:07.108 --> 00:33:07.148] SCOTT: Shunt
+[00:33:20.268 --> 00:33:23.548] SCOTT: the deuterium from the main cryo-pump to the auxiliary tank.
+[00:33:24.268 --> 00:33:26.268] LAFORGE: The tank can't withstand that kind of pressure.
+[00:33:28.508 --> 00:33:30.348] SCOTT: Where'd you get that idea?
+[00:33:31.308 --> 00:33:31.868] LAFORGE: What do you mean,
+[00:33:31.868 --> 00:33:32.988] LAFORGE: where did I get that idea?
+[00:33:34.668 --> 00:33:36.668] LAFORGE: It's in the impulse engine specifications.
+[00:33:37.388 --> 00:33:42.348] SCOTT: Regulation forty two slash fifteen, pressure variances on IRC tank storage?
+[00:33:42.348 --> 00:33:42.668] LAFORGE: Yeah.
+[00:33:43.868 --> 00:33:44.348] SCOTT: Forget it.
+[00:33:44.588 --> 00:33:45.228] SCOTT: I wrote it.
+[00:33:45.228 --> 00:33:50.108] SCOTT: A good engineer is always a wee bit conservative, at least on paper.
+[00:33:50.588 --> 00:33:53.788] SCOTT: Just bypass the secondary cut-off valve and boost the flow.
+[00:33:54.108 --> 00:33:54.588] SCOTT: It'll work.
+[00:33:55.788 --> 00:33:56.108] LAFORGE: Okay.
+[00:33:59.148 --> 00:34:06.508] SCOTT: If we've done our jobs properly, the engines should be coming back online about now.
+[00:34:11.388 --> 00:34:12.268] LAFORGE: Hey, you were right.
+[00:34:13.228 --> 00:34:16.108] LAFORGE: The auxiliary tank is holding.
+[00:34:16.428 --> 00:34:17.468] SCOTT: Take the Bridge, Commander.
+[00:34:18.784 --> 00:34:19.104] LAFORGE: Oh, no,
+[00:34:19.904 --> 00:34:20.944] LAFORGE: you're the senior officer here.
+[00:34:21.744 --> 00:34:28.304] SCOTT: I may be captain by rank, but I never wanted to be anything else but an engineer.
+[00:34:34.624 --> 00:34:34.784] LAFORGE: All right.
+[00:34:42.304 --> 00:34:43.264] WORF: Shields still holding, sir,
+[00:34:43.904 --> 00:34:45.584] WORF: but they are down another fifteen percent.
+[00:34:45.904 --> 00:34:48.144] PICARD: Mister Worf, can we use the phasers to open a hole in the sphere?
+[00:34:48.544 --> 00:34:48.784] WORF: No, sir.
+[00:34:49.104 --> 00:34:51.424] WORF: The exterior shell is composed of carbon neutronium.
+[00:34:51.904 --> 00:34:53.264] WORF: Our weapons would be ineffective.
+[00:34:53.824 --> 00:34:55.824] PICARD: Mister Data, we have to find some way out of here.
+[00:34:57.104 --> 00:35:00.464] PICARD: Begin scanning for another hatch or portal that might still be open.
+[00:35:01.264 --> 00:35:04.704] DATA: The interior surface area is over ten to the sixteenth square kilometres.
+[00:35:04.704 --> 00:35:07.344] DATA: It will take seven hours to completely scan the surface.
+[00:35:08.784 --> 00:35:13.264] DATA: I will endeavour to speed up the process, sir.
+[00:35:20.464 --> 00:35:23.504] SCOTT: The Enterprise ion trail leads right to this point.
+[00:35:23.744 --> 00:35:25.344] LAFORGE: It looks like some kind of doorway.
+[00:35:25.824 --> 00:35:34.944] SCOTT: I'll bet you two bottles of Scotch that they're inside the sphere and that they went in right through that hatch.
+[00:35:35.504 --> 00:35:36.144] LAFORGE: No bet here.
+[00:35:36.944 --> 00:35:38.944] LAFORGE: The question is how?
+[00:35:40.544 --> 00:35:43.264] SCOTT: Look at the momentum distribution of the ions.
+[00:35:43.664 --> 00:35:45.344] SCOTT: It would take an impulse engine at
+[00:35:45.697 --> 00:35:47.137] SCOTT: full reverse
+[00:35:47.857 --> 00:35:49.235] SCOTT: to put out a signature like that.
+[00:35:49.235 --> 00:35:50.417] LAFORGE: So they didn't go in willingly.
+[00:35:53.937 --> 00:35:56.817] LAFORGE: This looks like some kind of communications array.
+[00:35:57.057 --> 00:36:01.057] SCOTT: Aye. We found hundreds of them when we did our initial survey seventy five years ago.
+[00:36:01.057 --> 00:36:01.777] LAFORGE: Did you try hailing them?
+[00:36:01.857 --> 00:36:06.337] SCOTT: Aye. That was standard procedure at the time. We did it right before we crashed.
+[00:36:08.177 --> 00:36:09.937] LAFORGE: Hailing is standard procedure today, too.
+[00:36:12.337 --> 00:36:12.737] LAFORGE: Scotty,
+[00:36:15.377 --> 00:36:18.977] LAFORGE: what if those aren't communications arrays?
+[00:36:20.177 --> 00:36:26.337] LAFORGE: What if they're access terminals which are triggered by subspace signals on certain frequencies.
+[00:36:26.337 --> 00:36:28.977] SCOTT: Frequencies like our standard ship's hail.
+[00:36:29.137 --> 00:36:29.857] LAFORGE: Exactly.
+[00:36:30.497 --> 00:36:35.617] LAFORGE: The Enterprise, when they saw that terminal, they probably did the same thing you did seventy five years ago. Opened a channel.
+[00:36:36.257 --> 00:36:41.057] LAFORGE: Only this time they triggered something that activated that hatch and pulled the ship inside the sphere.
+[00:36:41.217 --> 00:36:44.897] SCOTT: Very nice piece of reasoning, laddie. Nice indeed.
+[00:36:45.057 --> 00:36:48.577] LAFORGE: Yeah. We could probably trigger the hatch ourselves, only we'd get pulled in like they were.
+[00:36:49.137 --> 00:36:52.737] SCOTT: Maybe all we need to do is to get our foot in the door.
+[00:36:56.017 --> 00:36:59.137] SCOTT: We might not be pulled inside when the hatch opens
+[00:37:00.737 --> 00:37:03.697] SCOTT: if we keep our distance from the sphere.
+[00:37:04.737 --> 00:37:07.697] SCOTT: Say, half million kilometres.
+[00:37:08.817 --> 00:37:11.777] SCOTT: Then when the hatch starts to close, we move in
+[00:37:12.204 --> 00:37:17.244] SCOTT: and we use the Jenolen to jam the hatch open, hoping that the Enterprise will escape.
+[00:37:17.724 --> 00:37:18.764] LAFORGE: You can't be serious.
+[00:37:19.724 --> 00:37:21.484] LAFORGE: That hatch is huge.
+[00:37:21.804 --> 00:37:23.484] LAFORGE: It'll crush this ship like an egg.
+[00:37:23.484 --> 00:37:23.724] SCOTT: Geordi,
+[00:37:23.724 --> 00:37:25.164] SCOTT: the shields will hold.
+[00:37:25.164 --> 00:37:26.204] SCOTT: Don't worry about that.
+[00:37:26.604 --> 00:37:29.831] SCOTT: I can get a few extra gigawatts out of these babies.
+[00:37:29.831 --> 00:37:30.124] LAFORGE: Scotty,
+[00:37:30.284 --> 00:37:31.084] LAFORGE: it's crazy.
+[00:37:31.084 --> 00:37:31.484] SCOTT: Geordi.
+[00:37:32.204 --> 00:37:37.964] SCOTT: I have spent my whole life trying to figure out crazy ways of doing things.
+[00:37:39.084 --> 00:37:44.204] SCOTT: I'm telling you, as one engineer to another, I can do this.
+[00:37:48.444 --> 00:37:49.964] LAFORGE: All right. Let's do it.
+[00:37:56.124 --> 00:37:57.964] LAFORGE: We're at five hundred thousand kilometres.
+[00:37:58.524 --> 00:37:59.324] SCOTT: Engines are ready.
+[00:38:00.604 --> 00:38:02.364] LAFORGE: Okay. Here we go.
+[00:38:03.484 --> 00:38:04.924] LAFORGE: Come on. There's
+[00:38:12.124 --> 00:38:12.924] LAFORGE: nothing out here.
+[00:38:13.964 --> 00:38:14.444] LAFORGE: Give it up.
+[00:38:20.844 --> 00:38:21.244] LAFORGE: That's it.
+[00:38:21.804 --> 00:38:22.924] LAFORGE: Let's go! Full impulse.
+[00:38:34.844 --> 00:38:37.404] WORF: Sir, there is an audio message from Commander La Forge.
+[00:38:38.490 --> 00:38:39.690] LAFORGE: La Forge to Enterprise,
+[00:38:39.770 --> 00:38:40.330] LAFORGE: do you read me?
+[00:38:40.570 --> 00:38:41.210] PICARD: Go ahead, Commander.
+[00:38:41.210 --> 00:38:41.770] PICARD: We read you.
+[00:38:42.410 --> 00:38:47.210] LAFORGE: We're using the Jenolen to hold open the hatch that you came through, but our shields aren't going to hold out much longer.
+[00:38:47.690 --> 00:38:48.090] PICARD: Understood.
+[00:38:48.570 --> 00:38:49.370] PICARD: Ensign, set a course.
+[00:39:01.130 --> 00:39:02.730] SCOTT: The plasma intercooler's gone.
+[00:39:03.130 --> 00:39:04.330] SCOTT: The engines are overheating.
+[00:39:06.810 --> 00:39:09.610] LAFORGE: I've lost helm control.
+[00:39:10.330 --> 00:39:11.370] LAFORGE: La Forge to Enterprise.
+[00:39:12.170 --> 00:39:15.210] LAFORGE: Captain, we're not going to be able to move this ship out of the way when you get here.
+[00:39:15.690 --> 00:39:17.770] LAFORGE: You're going to have to destroy it in order to escape.
+[00:39:18.330 --> 00:39:19.530] PICARD: How much longer before we reach them?
+[00:39:20.410 --> 00:39:25.130] DATA: With impulse engines operating at sixty percent power, it will take one minute and forty seconds.
+[00:39:26.010 --> 00:39:27.450] PICARD: Bridge to Transporter room three.
+[00:39:27.850 --> 00:39:30.730] PICARD: Prepare to beam two from the Jenolen as soon as we're within range.
+[00:39:38.170 --> 00:39:39.290] SCOTT: It's coming apart, Lad.
+[00:39:39.530 --> 00:39:41.610] SCOTT: I can't do anything else.
+[00:39:44.890 --> 00:39:46.410] WORF: Photon torpedoes armed and ready, sir.
+[00:39:49.130 --> 00:39:50.410] DATA: We are within transporter range.
+[00:39:51.290 --> 00:39:52.250] PICARD: Bridge to Transporter room.
+[00:39:52.410 --> 00:39:52.810] PICARD: Energise.
+[00:39:53.370 --> 00:39:53.770] CHIEF: Aye, sir.
+[00:39:55.850 --> 00:39:56.490] PICARD: Fire torpedoes.
+[00:40:19.674 --> 00:40:21.674] SCOTT: There now, that wasn't so bad, was it?
+[00:40:24.794 --> 00:40:28.074] LOG: Captain's log, stardate 46125.3.
+[00:40:28.874 --> 00:40:35.194] LOG: Starfleet has dispatched two science vessels to study the Dyson Sphere while we proceed to Starbase fifty five.
+[00:40:35.833 --> 00:40:41.674] LAFORGE: So, this alien space baby, which was about the size of a four story building, really thought the Enterprise was its mother.
+[00:40:41.833 --> 00:40:43.674] SCOTT: You're pulling an old man's leg.
+[00:40:43.674 --> 00:40:47.994] LAFORGE: No, really. It was suckling power directly from the ship's fusion reactors,
+[00:40:48.313 --> 00:40:54.474] LAFORGE: so Doctor Brahms and I changed the power frequency from twenty one centimetres to point oh two centimetres.
+[00:40:55.194 --> 00:40:56.554] SCOTT: You soured the milk.
+[00:40:56.554 --> 00:40:56.874] LAFORGE: That's right.
+[00:40:57.594 --> 00:41:01.514] SCOTT: Enjoy these times, Geordi.
+[00:41:02.394 --> 00:41:08.474] SCOTT: You're the chief engineer of a starship, and it's a time of your life that'll never come again.
+[00:41:09.353 --> 00:41:11.594] SCOTT: When it's gone, it's gone.
+[00:41:12.874 --> 00:41:15.754] SCOTT: Now, lad, I thought you were going to buy me a drink in Ten Forward.
+[00:41:16.154 --> 00:41:17.034] LAFORGE: Actually, I had a better
+[00:41:18.714 --> 00:41:18.714] LAFORGE: idea.
+[00:41:27.353 --> 00:41:30.874] SCOTT: You're giving me one of your shuttles?
+[00:41:31.333 --> 00:41:33.093] PICARD: Well, call it an extended loan.
+[00:41:33.733 --> 00:41:36.613] PICARD: Since you lost your ship saving ours, it seemed only fair.
+[00:41:37.333 --> 00:41:38.979] RIKER: She's not much to look at.
+[00:41:38.979 --> 00:41:39.253] SCOTT: Laddie,
+[00:41:40.133 --> 00:41:42.213] SCOTT: every woman has her own charm.
+[00:41:42.213 --> 00:41:43.973] SCOTT: You just have to know where to look for it.
+[00:41:44.453 --> 00:41:48.613] LAFORGE: She's a little slow, but she'll certainly get you to the Norpin colony. If that's really where you want to go.
+[00:41:49.573 --> 00:41:52.853] SCOTT: The Norpin Colony is for old men to retire.
+[00:41:54.053 --> 00:41:57.653] SCOTT: Maybe someday I'll end up there, but not yet.
+[00:41:59.973 --> 00:42:01.173] PICARD: Well, bon voyage, Mister Scott.
+[00:42:01.253 --> 00:42:03.253] SCOTT: Thank you, sir, for everything.
+[00:42:03.253 --> 00:42:04.053] DATA: Mister Scott.
+[00:42:05.493 --> 00:42:05.760] TROI: Goodbye.
+[00:42:05.760 --> 00:42:06.293] SCOTT: Bye, bye.
+[00:42:07.493 --> 00:42:07.840] RIKER: Scotty.
+[00:42:07.840 --> 00:42:08.533] SCOTT: Thank you.
+[00:42:09.093 --> 00:42:09.413] CRUSHER: Bye.
+[00:42:09.733 --> 00:42:09.733] CRUSHER: Be well.
+[00:42:14.373 --> 00:42:15.333] SCOTT: A good crew.
+[00:42:15.333 --> 00:42:16.293] LAFORGE: Yeah, they are.
+[00:42:16.773 --> 00:42:18.933] SCOTT: A fine ship. A credit to her name.
+[00:42:20.373 --> 00:42:30.373] SCOTT: But I've always found that a ship is only as good as the engineer who takes care of her, and from what I can see the Enterprise is in good hands.
+[00:42:38.373 --> 00:42:39.653] LAFORGE: You take care of yourself out there.
+[00:42:41.653 --> 00:42:41.973] SCOTT: Aye.
+[00:43:14.000 --> 00:43:24.000] [music]
+[00:43:30.000 --> 00:43:39.000] [music]

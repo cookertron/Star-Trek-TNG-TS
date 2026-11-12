@@ -1,0 +1,655 @@
+[00:00:02.400 --> 00:00:05.440] LOG: Captain's log, stardate 45703.9.
+[00:00:06.000 --> 00:00:11.360] LOG: We are en route to Earth, where it will be my pleasant duty to deliver this year's commencement address at Starfleet Academy.
+[00:00:12.000 --> 00:00:14.160] LOG: I'm also looking forward to seeing Wesley Crusher again.
+[00:00:14.560 --> 00:00:19.680] LOG: His flight team will perform a demonstration near Saturn that will be transmitted to the graduation ceremonies.
+[00:00:21.280 --> 00:00:25.200] WORF: Captain, Starfleet Academy is requesting an update on our estimated arrival.
+[00:00:25.680 --> 00:00:26.080] PICARD: Mister Data?
+[00:00:26.800 --> 00:00:29.440] DATA: We should be arriving at Earth in ten hours sixteen minutes, sir.
+[00:00:30.080 --> 00:00:31.360] PICARD: Please inform the Academy, Mister Worf,
+[00:00:31.680 --> 00:00:34.400] PICARD: and send my regards to Superintendant Brand.
+[00:00:34.960 --> 00:00:35.280] WORF: Aye, sir.
+[00:00:35.600 --> 00:00:36.640] TROI: Do you know Admiral Brand?
+[00:00:37.120 --> 00:00:38.240] PICARD: We've met a few times.
+[00:00:39.120 --> 00:00:40.240] PICARD: She's a formidable woman.
+[00:00:40.880 --> 00:00:42.000] RIKER: Sounds like my superintendent.
+[00:00:42.560 --> 00:00:48.480] RIKER: When I was at the Academy, we had a Vulcan Superintendent who had memorised the personnel files of every single cadet. He knew everything about them.
+[00:00:48.800 --> 00:00:50.320] RIKER: It was like having your parents around all the time.
+[00:00:52.640 --> 00:00:54.960] PICARD: My superintendent was a Betazoid, a full telepath.
+[00:00:55.600 --> 00:00:58.800] PICARD: When he sent for you to his office, he didn't have to ask what you'd done.
+[00:00:59.200 --> 00:01:01.200] RIKER: You got called into the superintendent's office?
+[00:01:01.600 --> 00:01:02.560] RIKER: That's a story I'd like to hear.
+[00:01:04.080 --> 00:01:06.720] WORF: Sir, we are being hailed again by the Academy.
+[00:01:07.280 --> 00:01:08.320] WORF: It is Admiral Brand.
+[00:01:08.720 --> 00:01:09.200] PICARD: On screen.
+[00:01:09.920 --> 00:01:10.400] WORF: Sir,
+[00:01:10.720 --> 00:01:12.640] WORF: she is requesting a private channel.
+[00:01:13.920 --> 00:01:14.640] PICARD: In my Ready room.
+[00:01:25.200 --> 00:01:26.640] PICARD: Admiral Brand. What can I do for you?
+[00:01:27.178 --> 00:01:27.818] BRAND: Hello, Captain.
+[00:01:29.498 --> 00:01:31.818] BRAND: I know you're a close friend of the Crusher family.
+[00:01:34.298 --> 00:01:34.538] PICARD: Yes.
+[00:01:35.338 --> 00:01:36.938] BRAND: I wanted to inform you personally.
+[00:01:38.138 --> 00:01:39.258] BRAND: There's been an accident.
+[00:02:08.698 --> 00:02:11.498] PICARD: Space, the final frontier.
+[00:02:13.338 --> 00:02:16.218] PICARD: These are the voyages of the Starship Enterprise.
+[00:02:17.338 --> 00:02:25.258] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:27.018 --> 00:02:29.738] PICARD: to boldly go where no one has gone before.
+[00:02:31.000 --> 00:03:10.000] [music]
+[00:03:19.000 --> 00:03:31.000] [music]
+[00:03:30.466 --> 00:03:35.426] PICARD: He had second degree burns on his chest and multiple fractures of his right arm, but he's going to be fine.
+[00:03:35.986 --> 00:03:37.826] CRUSHER: Have they completed the regeneration series?
+[00:03:38.146 --> 00:03:38.626] PICARD: I'm not certain.
+[00:03:39.586 --> 00:03:41.746] CRUSHER: Wesley's allergic to metorapan treatments.
+[00:03:42.786 --> 00:03:45.426] CRUSHER: I think they'll have to use a bicaridine substitute.
+[00:03:45.986 --> 00:03:49.026] CRUSHER: I should send his complete records to the Academy infirmary.
+[00:03:49.666 --> 00:03:52.386] CRUSHER: Of course, they probably have them already, but you can't be too sure.
+[00:03:52.626 --> 00:03:54.546] PICARD: Beverly. He's fine.
+[00:03:56.226 --> 00:03:57.026] CRUSHER: I know he's fine.
+[00:03:57.346 --> 00:03:59.746] CRUSHER: I know he's fine.
+[00:03:59.986 --> 00:04:00.546] CRUSHER: How did it happen?
+[00:04:02.626 --> 00:04:07.426] PICARD: Apparently, his squadron was practicing on the Academy flight range near Saturn.
+[00:04:08.866 --> 00:04:11.026] PICARD: they were flying a close formation.
+[00:04:12.146 --> 00:04:12.706] PICARD: There was a collision.
+[00:04:14.066 --> 00:04:15.426] PICARD: All five ships were destroyed.
+[00:04:15.826 --> 00:04:17.826] PICARD: Four of the cadets managed to transport out.
+[00:04:18.466 --> 00:04:19.186] PICARD: One didn't make it.
+[00:04:20.226 --> 00:04:20.946] CRUSHER: Do you know who it was?
+[00:04:21.346 --> 00:04:23.586] PICARD: Yes. His name was Joshua
+[00:04:23.816 --> 00:04:24.296] PICARD: Albert.
+[00:04:26.056 --> 00:04:26.936] CRUSHER: Wesley spoke of him.
+[00:04:26.936 --> 00:04:27.736] CRUSHER: They were friends.
+[00:04:29.976 --> 00:04:31.896] CRUSHER: Wesley was so excited to make the flight team.
+[00:04:33.256 --> 00:04:35.736] CRUSHER: Of course, I was a little nervous, but I was proud of him.
+[00:04:37.176 --> 00:04:39.576] CRUSHER: I always knew there was a chance that something like this might
+[00:04:41.736 --> 00:04:44.616] PICARD: Beverly, Wesley's alive and he's well.
+[00:04:58.856 --> 00:05:01.016] BRAND: There was very little left to salvage from the wreckage.
+[00:05:01.736 --> 00:05:05.496] BRAND: We did recover one of the ships' data recorders, but it was badly damaged.
+[00:05:06.456 --> 00:05:11.496] BRAND: We're attempting to restore the information, but that will take some time.
+[00:05:12.456 --> 00:05:17.256] BRAND: Standard procedure calls for an immediate investigation by two command level officers.
+[00:05:18.216 --> 00:05:23.896] BRAND: Captain Satelk and I will be taking depositions from Nova Squadron at fifteen hundred hours today.
+[00:05:27.656 --> 00:05:28.536] BRAND: Commander Albert.
+[00:05:30.776 --> 00:05:37.736] BRAND: I'm sure that everyone in this room joins me in expressing my deepest sympathies to you on the tragic loss of your son.
+[00:05:40.456 --> 00:05:45.736] BRAND: There will be a memorial service for Cadet Albert this evening in the west garden.
+[00:05:47.496 --> 00:05:52.216] BRAND: It has been suggested that we should cancel the graduation ceremonies in the light of what's happened.
+[00:05:53.256 --> 00:05:58.136] BRAND: Commander Albert and I have discussed this and we've agreed that commencement should go forward as planned.
+[00:05:58.936 --> 00:06:04.376] BRAND: The cadets should know that even after a tragedy like this, there are still duties to perform
+[00:06:06.856 --> 00:06:07.976] BRAND: and life continues.
+[00:06:08.696 --> 00:06:09.896] BRAND: Thank you all for coming.
+[00:06:21.176 --> 00:06:22.536] BRAND: It's good to see you again, Captain.
+[00:06:23.896 --> 00:06:25.656] BRAND: I wish it were under better circumstances.
+[00:06:26.696 --> 00:06:28.536] PICARD: This is an unhappy way to begin commencement.
+[00:06:30.136 --> 00:06:34.536] PICARD: If you require any assistance, then the Enterprise is at your disposal.
+[00:06:35.496 --> 00:06:40.216] BRAND: I'm sure we'll be able to conduct the investigation, but thank you for your offer.
+[00:06:58.216 --> 00:06:58.616] CRUSHER: Wes.
+[00:07:01.096 --> 00:07:03.736] CRUSHER: I was so worried about you.
+[00:07:04.136 --> 00:07:04.856] PICARD: How are you feeling, Wesley?
+[00:07:06.376 --> 00:07:06.856] WESLEY: Not bad.
+[00:07:07.496 --> 00:07:08.376] WESLEY: The arm's a little sore.
+[00:07:14.696 --> 00:07:15.976] CRUSHER: We were very sorry to hear about Joshua.
+[00:07:16.376 --> 00:07:16.376] PICARD: Would
+[00:07:18.536 --> 00:07:19.576] PICARD: you like to talk about it?
+[00:07:21.016 --> 00:07:21.256] WESLEY: No.
+[00:07:21.896 --> 00:07:22.536] WESLEY: I don't think so.
+[00:07:23.256 --> 00:07:23.736] WESLEY: No, thank you.
+[00:07:27.575 --> 00:07:33.015] WESLEY: I know you're trying to be helpful, sir, but it seems like that's all I've talked about for the last two days. I don't want to go through it again.
+[00:07:33.415 --> 00:07:34.055] PICARD: I understand.
+[00:07:34.055 --> 00:07:36.695] PICARD: But I just want you to know I'm available if you should change your mind.
+[00:07:37.095 --> 00:07:37.415] WESLEY: Thank you sir.
+[00:07:42.295 --> 00:07:43.655] WESLEY: Hi.
+[00:07:43.655 --> 00:07:45.015] LOCARNO: Hi.
+[00:07:46.855 --> 00:07:47.335] LOCARNO: Captain, sir.
+[00:07:48.535 --> 00:07:49.175] PICARD: At ease, Cadet.
+[00:07:49.895 --> 00:07:51.655] WESLEY: This is my squadron leader, Nicholas Locarno.
+[00:07:51.975 --> 00:07:53.975] WESLEY: This is Captain Jean-Luc Picard of the Enterprise.
+[00:07:54.215 --> 00:07:55.335] WESLEY: My mother, Doctor Beverly Crusher.
+[00:07:55.575 --> 00:07:56.215] LOCARNO: Hello, Doctor.
+[00:07:56.375 --> 00:07:56.962] CRUSHER: Hello.
+[00:07:56.962 --> 00:07:58.135] LOCARNO: Captain Picard.
+[00:07:58.295 --> 00:07:58.535] PICARD: Mister
+[00:07:58.535 --> 00:07:58.757] PICARD: Locarno.
+[00:07:58.757 --> 00:08:01.415] LOCARNO: I came by to see if Wes had healed up all right.
+[00:08:02.695 --> 00:08:03.975] CRUSHER: And how are you feeling, Nicholas?
+[00:08:05.655 --> 00:08:06.615] LOCARNO: I'm okay.
+[00:08:08.295 --> 00:08:10.295] LOCARNO: I just never lost anyone under my command before.
+[00:08:12.695 --> 00:08:14.295] PICARD: I'm afraid that never gets easier.
+[00:08:16.615 --> 00:08:17.015] WESLEY: Captain,
+[00:08:17.415 --> 00:08:17.655] WESLEY: Mom, will
+[00:08:20.055 --> 00:08:21.095] WESLEY: you excuse us please?
+[00:08:21.975 --> 00:08:23.415] WESLEY: Nick and I have some things we need to talk about.
+[00:08:26.295 --> 00:08:26.855] CRUSHER: Of course.
+[00:08:29.655 --> 00:08:29.735] CRUSHER: Let
+[00:08:35.735 --> 00:08:36.695] CRUSHER: me know if you need anything.
+[00:08:36.695 --> 00:08:37.895] WESLEY: I will.
+[00:08:38.775 --> 00:08:39.415] PICARD: I'll see you at the inquiry.
+[00:08:40.775 --> 00:08:41.415] PICARD: Good to meet you, Mister
+[00:08:41.415 --> 00:08:41.655] PICARD: Locarno.
+[00:08:42.375 --> 00:08:42.855] LOCARNO: You too, sir.
+[00:08:44.295 --> 00:08:46.295] LOCARNO: The
+[00:08:49.175 --> 00:08:51.095] LOCARNO: inquiry is scheduled for fifteen hundred hours.
+[00:08:52.236 --> 00:08:52.556] LOCARNO: Are you ready?
+[00:08:53.676 --> 00:08:54.156] WESLEY: I think so.
+[00:08:56.476 --> 00:08:57.436] LOCARNO: Don't worry about it, Wes.
+[00:08:58.716 --> 00:09:01.516] LOCARNO: Everything's going to be all right so long as we stick together.
+[00:09:14.476 --> 00:09:16.716] BOOTHBY: Hey! Can't you see that's a flower bed?
+[00:09:16.876 --> 00:09:18.156] CADET: Sorry. I'm really sorry.
+[00:09:32.636 --> 00:09:33.036] PICARD: Boothby?
+[00:09:38.316 --> 00:09:40.636] PICARD: Jean-Luc Picard, class of twenty seven.
+[00:09:41.276 --> 00:09:41.996] BOOTHBY: I know that.
+[00:09:42.876 --> 00:09:43.996] BOOTHBY: What happened to your hair?
+[00:09:47.756 --> 00:09:48.156] PICARD: How are you?
+[00:09:48.796 --> 00:09:50.556] BOOTHBY: I'm pretty damned cranky, thank you.
+[00:09:50.876 --> 00:09:53.516] BOOTHBY: I've already replanted this bed four times this week.
+[00:09:55.596 --> 00:09:56.476] PICARD: Let me give you a hand.
+[00:09:58.476 --> 00:09:58.796] BOOTHBY: You?
+[00:10:00.076 --> 00:10:01.676] PICARD: I've acquired an interest over the years.
+[00:10:02.316 --> 00:10:05.036] BOOTHBY: Well, don't plant 'em too deep.
+[00:10:05.276 --> 00:10:05.956] BOOTHBY: The stems
+[00:10:05.956 --> 00:10:06.636] PICARD: Will rot.
+[00:10:10.236 --> 00:10:17.116] BOOTHBY: Captain Picard. Of the Enterprise, no less. And giving the commencement address.
+[00:10:17.356 --> 00:10:18.156] PICARD: You sound surprised.
+[00:10:18.636 --> 00:10:19.516] BOOTHBY: Surprised?
+[00:10:20.156 --> 00:10:20.396] BOOTHBY: Uh, uh.
+[00:10:21.036 --> 00:10:22.876] BOOTHBY: Nothing you ever did surprised me, son.
+[00:10:24.156 --> 00:10:26.076] BOOTHBY: Except that time you caught that Ligonian
+[00:10:26.513 --> 00:10:31.073] BOOTHBY: with a reverse body lift and pinned him in the first fourteen seconds of the match.
+[00:10:32.033 --> 00:10:33.153] BOOTHBY: Didn't think you had it in you.
+[00:10:33.633 --> 00:10:36.113] PICARD: Well, it was all in the legs, all that running I did.
+[00:10:40.993 --> 00:10:41.393] PICARD: Boothby.
+[00:10:41.543 --> 00:10:42.143] BOOTHBY: Hmmm?
+[00:10:44.593 --> 00:10:45.793] PICARD: I don't think I ever.
+[00:10:47.713 --> 00:10:48.833] PICARD: I don't think I ever told you
+[00:10:52.273 --> 00:10:53.393] PICARD: how much I appreciate.
+[00:10:54.033 --> 00:10:54.833] BOOTHBY: There's nothing to tell.
+[00:10:57.633 --> 00:10:58.193] PICARD: Yes, there is.
+[00:10:59.793 --> 00:11:03.473] PICARD: I just wanted to, while I was here.
+[00:11:05.313 --> 00:11:06.673] PICARD: Look, you know as well as I do
+[00:11:06.673 --> 00:11:08.353] PICARD: I would never have graduated if you
+[00:11:08.353 --> 00:11:09.313] BOOTHBY: You made a mistake.
+[00:11:10.433 --> 00:11:12.913] BOOTHBY: There isn't a man among us who hasn't been young enough to make one.
+[00:11:13.953 --> 00:11:14.243] PICARD: Nevertheless.
+[00:11:14.243 --> 00:11:16.273] BOOTHBY: You did what you had to do.
+[00:11:16.273 --> 00:11:17.633] BOOTHBY: You did what you thought was best.
+[00:11:18.353 --> 00:11:20.433] BOOTHBY: I just made sure that you listened to yourself.
+[00:11:23.873 --> 00:11:27.393] PICARD: At the time I thought you were a mean-spirited, vicious old man.
+[00:11:28.273 --> 00:11:32.993] BOOTHBY: I was. And by the way, I was about the same age you are now.
+[00:11:35.313 --> 00:11:36.513] PICARD: I didn't speak to you for months.
+[00:11:36.993 --> 00:11:38.513] BOOTHBY: You needed to get your bearings.
+[00:11:39.233 --> 00:11:39.713] BOOTHBY: I knew that.
+[00:11:42.113 --> 00:11:45.633] BOOTHBY: The important thing is, what you did with your life afterwards.
+[00:11:46.593 --> 00:11:47.473] BOOTHBY: Seems you did okay.
+[00:11:48.433 --> 00:11:49.553] BOOTHBY: That's thanks enough for me.
+[00:11:51.633 --> 00:11:54.273] PICARD: Did you know the boy from Nova Squadron who was killed?
+[00:11:55.793 --> 00:11:56.433] BOOTHBY: Josh Albert?
+[00:11:57.233 --> 00:11:57.473] BOOTHBY: Yeah.
+[00:11:58.913 --> 00:11:59.313] BOOTHBY: Crusher,
+[00:12:00.033 --> 00:12:00.593] BOOTHBY: Hajar,
+[00:12:01.431 --> 00:12:03.511] BOOTHBY: Sito, Locarno.
+[00:12:05.031 --> 00:12:05.671] BOOTHBY: I know them all.
+[00:12:09.511 --> 00:12:09.511] LOCARNO: You
+[00:12:20.391 --> 00:12:20.871] LOCARNO: nervous?
+[00:12:21.831 --> 00:12:21.991] SITO: No.
+[00:12:24.151 --> 00:12:24.551] SITO: Yes.
+[00:12:26.311 --> 00:12:26.791] LOCARNO: That's okay.
+[00:12:26.791 --> 00:12:27.351] LOCARNO: So am I.
+[00:12:29.191 --> 00:12:29.991] LOCARNO: But we're going to be all right.
+[00:12:31.111 --> 00:12:33.511] LOCARNO: We've got some tough times ahead but we've always come through for each other.
+[00:12:34.791 --> 00:12:39.591] LOCARNO: Whatever happens, I want you all to know that leading this team has been the high point of my years at the Academy.
+[00:12:40.951 --> 00:12:42.471] LOCARNO: No one could have asked for a better team,
+[00:12:44.071 --> 00:12:44.791] LOCARNO: or better friends.
+[00:12:47.191 --> 00:12:47.511] LOCARNO: Let's go.
+[00:12:54.311 --> 00:12:58.391] LOCARNO: At this point, we accelerated and executed a starboard turn of twenty seven degrees.
+[00:12:59.271 --> 00:13:01.671] LOCARNO: We came out of the turn on course for Titan.
+[00:13:01.671 --> 00:13:03.591] BRAND: And you were still in the lead position?
+[00:13:03.671 --> 00:13:04.071] LOCARNO: Yes, sir.
+[00:13:05.191 --> 00:13:05.591] BRAND: Continue.
+[00:13:06.471 --> 00:13:11.111] LOCARNO: As we entered Titan's gravitational sphere, I gave the signal to tighten up and move into a diamond slot formation.
+[00:13:11.591 --> 00:13:20.071] LOCARNO: Remaining in the diamond formation, we executed a low apogee turn around Titan then began a z-plus twenty five degree climb in preparation for a Yeager loop.
+[00:13:21.111 --> 00:13:26.311] LOCARNO: Approximately nine seconds later, Cadet Albert's ship collided with Cadet Hajar's.
+[00:13:27.257 --> 00:13:31.817] LOCARNO: We had less than two seconds to activate our emergency transporters and beam to the evac stations at Mimas.
+[00:13:32.857 --> 00:13:34.377] LOCARNO: Everyone made it except Josh.
+[00:13:37.017 --> 00:13:38.217] BRAND: Thank you, Mister Locarno.
+[00:13:47.737 --> 00:13:48.297] BRAND: Cadet Hajar.
+[00:13:51.257 --> 00:13:57.817] BRAND: As team navigator, you filed a flight plan with the Academy Range Officer before the exercise. Correct?
+[00:13:58.457 --> 00:13:58.857] HAJAR: Yes, sir.
+[00:13:59.497 --> 00:14:05.417] BRAND: Did Nova Squadron deviate from that flight plan after you entered the Saturn range?
+[00:14:06.937 --> 00:14:07.257] HAJAR: No, sir.
+[00:14:07.257 --> 00:14:17.497] BRAND: Then how do you explain the fact that the low apogee turn around Titan was at least two thousand kilometres closer to the moon than indicated in your plan?
+[00:14:17.977 --> 00:14:20.297] HAJAR: We were still within flight safety parameters, sir.
+[00:14:22.377 --> 00:14:24.137] BRAND: That was not my question, Cadet.
+[00:14:25.897 --> 00:14:30.377] HAJAR: We had discussed changing our approach after I filed the flight plan.
+[00:14:31.257 --> 00:14:33.257] HAJAR: The final decision was made en route to Saturn.
+[00:14:34.057 --> 00:14:36.217] HAJAR: I didn't consider it significant enough to mention here.
+[00:14:37.577 --> 00:14:39.337] HAJAR: I apologise for the confusion, sir.
+[00:14:40.057 --> 00:14:41.337] HAJAR: I should have been more precise.
+[00:14:44.937 --> 00:14:49.017] SATELK: Did you see Mister Albert's ship break formation before it collided with your ship?
+[00:14:49.977 --> 00:14:50.537] HAJAR: No, sir.
+[00:14:51.257 --> 00:14:54.697] HAJAR: My first indications of trouble was when my proximity alarm went off.
+[00:14:55.577 --> 00:14:56.457] SATELK: You may be seated.
+[00:14:57.817 --> 00:14:59.817] SATELK: Did any of you see the collision take place?
+[00:15:01.502 --> 00:15:01.902] LOCARNO: No, sir.
+[00:15:05.022 --> 00:15:05.582] SATELK: Cadet Sito,
+[00:15:07.422 --> 00:15:08.702] SATELK: you were in the tail position,
+[00:15:08.702 --> 00:15:11.502] SATELK: therefore you should have seen any sign of trouble from Cadet Albert.
+[00:15:12.462 --> 00:15:13.262] SATELK: Yet you saw nothing?
+[00:15:14.062 --> 00:15:15.022] SITO: That is correct, sir.
+[00:15:16.782 --> 00:15:18.142] SATELK: Did your attention falter?
+[00:15:18.702 --> 00:15:19.262] SITO: No, sir.
+[00:15:20.782 --> 00:15:22.942] SITO: I was flying solely on sensor readings at the time.
+[00:15:23.342 --> 00:15:27.262] SITO: I did not have any visual contact with Cadet Albert's ship when he broke formation.
+[00:15:28.302 --> 00:15:28.782] SATELK: Sensor readings?
+[00:15:29.262 --> 00:15:29.422] CRUSHER: What's
+[00:15:32.142 --> 00:15:32.462] CRUSHER: wrong?
+[00:15:32.462 --> 00:15:32.462] PICARD: Well,
+[00:15:33.982 --> 00:15:34.062] PICARD: it's
+[00:15:35.662 --> 00:15:38.862] PICARD: unusual to fly on sensors alone in this type of manoeuvre.
+[00:15:39.502 --> 00:15:43.262] PICARD: The pilot relies on visual clues from the other ships to maintain formation.
+[00:15:47.502 --> 00:15:54.942] BRAND: If you were flying on sensors alone, perhaps you could tell us the orientation of his ship before the collision.
+[00:15:56.062 --> 00:15:56.942] SITO: I don't know, sir.
+[00:15:57.422 --> 00:16:08.462] BRAND: You were flying a ship, travelling eighty thousand kph, with Cadet Albert's ship less than ten metres away and you don't know what his orientation was?
+[00:16:09.662 --> 00:16:10.942] SITO: I don't remember, sir.
+[00:16:11.822 --> 00:16:12.862] LOCARNO: Sir, may I?
+[00:16:13.502 --> 00:16:14.062] BRAND: Go ahead.
+[00:16:17.102 --> 00:16:17.582] LOCARNO: Admiral,
+[00:16:21.022 --> 00:16:25.662] LOCARNO: Josh was a good pilot but lately he'd been having difficulties.
+[00:16:26.222 --> 00:16:30.542] LOCARNO: He'd get nervous during close fly-bys and pull away in the final seconds.
+[00:16:30.542 --> 00:16:32.782] LOCARNO: His formation flying was a little erratic.
+[00:16:33.314 --> 00:16:35.234] BRAND: And you didn't report this to anyone?
+[00:16:36.434 --> 00:16:37.474] LOCARNO: No, sir, I didn't.
+[00:16:38.834 --> 00:16:40.114] LOCARNO: We'd flown together a long time.
+[00:16:40.114 --> 00:16:42.514] LOCARNO: I thought he could handle it if I gave him a chance.
+[00:16:44.594 --> 00:16:45.154] LOCARNO: I was wrong.
+[00:16:46.514 --> 00:16:49.874] BRAND: Then you are saying that the accident was Cadet Albert's fault?
+[00:16:55.154 --> 00:17:02.594] LOCARNO: I think Josh got frightened and tried to pull out of the turn prematurely, and then crashed into Cadet Hajar.
+[00:17:04.434 --> 00:17:05.234] LOCARNO: Josh was our friend.
+[00:17:06.594 --> 00:17:08.674] LOCARNO: We didn't want him to be remembered as someone who panicked.
+[00:17:12.274 --> 00:17:13.074] BRAND: Please be seated.
+[00:17:15.634 --> 00:17:16.994] BRAND: I'm
+[00:17:19.154 --> 00:17:21.714] BRAND: very disturbed by what I've heard here today.
+[00:17:22.594 --> 00:17:31.714] BRAND: By your own admission, you allowed your teammate to fly when you knew he was having difficulties maintaining formation.
+[00:17:32.514 --> 00:17:35.314] BRAND: That demonstrates a serious lack of judgment.
+[00:17:35.874 --> 00:17:40.834] BRAND: I am also disturbed by the fact that you did not come forward with this information immediately.
+[00:17:41.794 --> 00:17:45.234] BRAND: We should have the first data from Mister Crusher's flight recorder tonight.
+[00:17:45.874 --> 00:17:48.674] BRAND: We will reconvene at thirteen hundred hours tomorrow.
+[00:17:59.954 --> 00:18:00.514] LOCARNO: Everything's fine.
+[00:18:01.154 --> 00:18:03.474] LOCARNO: Trust me.
+[00:18:13.574 --> 00:18:14.214] LAFORGE: I don't know, Captain.
+[00:18:14.294 --> 00:18:17.814] LAFORGE: The Academy has one of the best reconstructive analysis labs in Starfleet.
+[00:18:17.814 --> 00:18:20.054] LAFORGE: I'm not sure there's much we could contribute to the investigation.
+[00:18:20.214 --> 00:18:21.254] PICARD: Yes, that may well be.
+[00:18:21.334 --> 00:18:24.374] PICARD: But Wesley's one of our own.
+[00:18:26.854 --> 00:18:27.414] LAFORGE: Understood, sir.
+[00:18:27.974 --> 00:18:28.934] LAFORGE: We'll get right on it.
+[00:18:28.934 --> 00:18:29.174] PICARD: Good.
+[00:18:29.734 --> 00:18:34.374] PICARD: I've spoken with Admiral Brand and she's agreed to allow us access to all of the physical evidence and testimony.
+[00:18:35.574 --> 00:18:36.214] PICARD: Thank you, gentlemen.
+[00:18:39.654 --> 00:18:40.854] SITO: You shouldn't have said it, Nick.
+[00:18:41.414 --> 00:18:43.174] SITO: Josh wasn't responsible for what happened.
+[00:18:43.174 --> 00:18:44.214] LOCARNO: I had to do something.
+[00:18:44.694 --> 00:18:46.454] WESLEY: You said we wouldn't have to lie to them.
+[00:18:47.174 --> 00:18:48.934] WESLEY: We all agreed not to lie to them.
+[00:18:49.654 --> 00:18:50.454] LOCARNO: I didn't lie.
+[00:18:51.574 --> 00:18:52.774] LOCARNO: Everything I said was the truth.
+[00:18:53.094 --> 00:18:54.774] WESLEY: The accident was not Josh's fault.
+[00:18:55.334 --> 00:18:57.654] LOCARNO: Look, he was my friend too, Wes.
+[00:18:58.534 --> 00:19:01.414] LOCARNO: I worked to get him on this team. But the truth is, he panicked.
+[00:19:01.734 --> 00:19:02.614] WESLEY: We don't know that.
+[00:19:02.694 --> 00:19:03.654] LOCARNO: Of course we do.
+[00:19:05.254 --> 00:19:07.734] LOCARNO: None of us has wanted to say it out loud, but we've all had the same thought.
+[00:19:09.894 --> 00:19:10.294] LOCARNO: Haven't we?
+[00:19:15.814 --> 00:19:17.334] HAJAR: He must have pulled away too soon.
+[00:19:18.054 --> 00:19:19.174] HAJAR: I think he got scared.
+[00:19:21.894 --> 00:19:22.214] LOCARNO: Sito?
+[00:19:27.334 --> 00:19:31.334] LOCARNO: Wes, I know you want to protect his memory,
+[00:19:31.334 --> 00:19:34.214] LOCARNO: We all do. But we have to look out for ourselves now.
+[00:19:35.692 --> 00:19:36.412] LOCARNO: What do you want us to do,
+[00:19:36.412 --> 00:19:38.332] LOCARNO: walk in and tell them everything that happened?
+[00:19:38.572 --> 00:19:41.452] SITO: We might as well turn in our uniforms and start packing our bags.
+[00:19:41.772 --> 00:19:42.572] LOCARNO: Are we ready for that?
+[00:19:48.172 --> 00:19:49.372] LOCARNO: We'll take this one step at a time.
+[00:19:51.052 --> 00:19:53.212] LOCARNO: This is the preliminary report from your flight recorder.
+[00:19:53.692 --> 00:20:01.932] LOCARNO: It was so badly damaged in the crash, that the lab could only retrieve a third of the total telemetry on the recorder. And all of it is before the collision.
+[00:20:03.292 --> 00:20:04.252] LOCARNO: There's no problem here.
+[00:20:08.412 --> 00:20:09.932] WESLEY: I don't know if I can do this, Nick.
+[00:20:12.012 --> 00:20:13.052] SITO: You don't have to lie.
+[00:20:13.452 --> 00:20:15.612] SITO: Just don't volunteer any new information.
+[00:20:22.252 --> 00:20:25.932] LOCARNO: The first night I met you, Wes, I knew I wanted you on this squad.
+[00:20:26.972 --> 00:20:33.932] LOCARNO: You, more than any of the rest, would understand what it means to be able to count on someone, because you've been out there, putting yourself on the line.
+[00:20:35.612 --> 00:20:40.492] LOCARNO: You know you've got to be able to count on the people on your team, because your life is in their hands,
+[00:20:42.252 --> 00:20:43.372] LOCARNO: and their lives are in yours.
+[00:20:44.492 --> 00:20:48.332] LOCARNO: We made a promise to each other right in the beginning, that we'd stick together.
+[00:20:49.852 --> 00:20:51.052] LOCARNO: We were Nova Squadron.
+[00:20:51.772 --> 00:20:53.052] LOCARNO: Nobody else could say that.
+[00:20:53.692 --> 00:20:56.812] LOCARNO: And even after we graduated, we'd try to get posted to the same duty.
+[00:20:57.532 --> 00:20:58.412] LOCARNO: We were going to be a team
+[00:20:59.932 --> 00:21:00.892] LOCARNO: for a long time.
+[00:21:04.928 --> 00:21:06.608] LOCARNO: Josh can't be a part of those plans anymore,
+[00:21:08.928 --> 00:21:10.768] LOCARNO: but I think he would still want us to be a team.
+[00:21:13.168 --> 00:21:13.648] LOCARNO: What do you think?
+[00:21:30.608 --> 00:21:31.088] ALBERT: Mister Crusher?
+[00:21:33.088 --> 00:21:33.488] WESLEY: Sir.
+[00:21:33.488 --> 00:21:34.288] ALBERT: At ease.
+[00:21:35.728 --> 00:21:37.728] ALBERT: Am
+[00:21:39.248 --> 00:21:39.808] ALBERT: I interrupting?
+[00:21:40.528 --> 00:21:43.728] WESLEY: No. I was just going over my deposition for tomorrow.
+[00:21:44.768 --> 00:21:45.568] ALBERT: They told me you'd be here.
+[00:21:47.328 --> 00:21:48.608] ALBERT: I found this in Josh's room.
+[00:21:49.728 --> 00:21:50.448] ALBERT: I think it belongs to you.
+[00:21:51.888 --> 00:21:52.448] WESLEY: Our ski trip.
+[00:21:52.448 --> 00:21:52.448] WESLEY: Josh
+[00:21:56.608 --> 00:21:57.888] WESLEY: and I went to Calgary last month.
+[00:21:58.368 --> 00:22:03.248] WESLEY: He forgot his sweater so he borrowed one of mine.
+[00:22:03.248 --> 00:22:05.408] ALBERT: He told me you helped him with his classes.
+[00:22:07.008 --> 00:22:07.408] WESLEY: A little.
+[00:22:07.968 --> 00:22:09.808] WESLEY: He only needed help in statistical mechanics.
+[00:22:09.958 --> 00:22:10.558] ALBERT: If
+[00:22:11.408 --> 00:22:13.008] ALBERT: Josh had a weakness, it was mathematics.
+[00:22:13.568 --> 00:22:14.608] WESLEY: No, he could do it.
+[00:22:15.168 --> 00:22:17.248] WESLEY: He just didn't like to.
+[00:22:18.368 --> 00:22:20.528] ALBERT: His mother and I thought he'd never get out of calculus.
+[00:22:22.768 --> 00:22:25.568] ALBERT: Then he found out what the Academy entrance requirements were like.
+[00:22:27.488 --> 00:22:28.288] ALBERT: That turned him around.
+[00:22:28.438 --> 00:22:29.038] ALBERT: He
+[00:22:30.368 --> 00:22:31.568] ALBERT: stayed after class,
+[00:22:33.141 --> 00:22:33.701] ALBERT: got a tutor.
+[00:22:33.851 --> 00:22:34.451] ALBERT: He
+[00:22:36.021 --> 00:22:36.821] ALBERT: really worked hard.
+[00:22:40.581 --> 00:22:41.701] ALBERT: Never gave up on anything.
+[00:22:44.981 --> 00:22:48.261] ALBERT: And he had a lot of respect for you, and everybody on the team.
+[00:22:51.301 --> 00:22:52.341] ALBERT: I realise it was his fault.
+[00:22:55.301 --> 00:22:56.581] ALBERT: That everybody could have been killed.
+[00:23:00.021 --> 00:23:02.101] ALBERT: And I want to say that, I
+[00:23:05.701 --> 00:23:06.581] ALBERT: want to say I'm sorry.
+[00:23:09.141 --> 00:23:10.661] ALBERT: I'm sorry that he let you down.
+[00:23:30.901 --> 00:23:32.101] BRAND: Are you ready, Mister Crusher?
+[00:23:34.341 --> 00:23:34.741] WESLEY: Yes, sir.
+[00:23:40.661 --> 00:23:42.501] WESLEY: This is the beginning of our run toward Titan.
+[00:23:42.821 --> 00:23:43.541] WESLEY: I'm on the right wing.
+[00:23:44.261 --> 00:23:46.101] BRAND: Where is Mister Albert at this point?
+[00:23:46.261 --> 00:23:49.621] WESLEY: He was on my port quarter, approximately fifty metres away.
+[00:23:50.421 --> 00:23:53.061] WESLEY: We've just received the signal to begin the diamond slot formation.
+[00:23:54.341 --> 00:23:56.021] WESLEY: That's Cadet Locarno coming into view.
+[00:23:58.021 --> 00:23:59.861] WESLEY: We're in a twenty degree turn around Titan.
+[00:24:03.061 --> 00:24:05.381] WESLEY: We should be coming out of Titan's gravity well about now.
+[00:24:10.581 --> 00:24:14.101] BRAND: That is the extent of the data we were able to recover from the flight recorder.
+[00:24:15.941 --> 00:24:16.181] BRAND: Mister
+[00:24:16.181 --> 00:24:16.661] BRAND: Crusher,
+[00:24:17.061 --> 00:24:20.501] BRAND: would you describe what happened after you left orbit of Titan?
+[00:24:22.821 --> 00:24:23.861] WESLEY: Once we cleared the moon,
+[00:24:25.861 --> 00:24:26.101] WESLEY: Mister
+[00:24:26.101 --> 00:24:27.621] WESLEY: Locarno led us into a Yeager loop.
+[00:24:28.421 --> 00:24:31.301] WESLEY: Approximately nine seconds later, my proximity alarm went off.
+[00:24:32.341 --> 00:24:34.821] WESLEY: I tried to veer away, but it was too late and I was hit.
+[00:24:35.461 --> 00:24:36.821] WESLEY: I lost control of my ship.
+[00:24:37.861 --> 00:24:39.861] WESLEY: A power coupling exploded in my cockpit.
+[00:24:40.421 --> 00:24:44.741] WESLEY: I don't know how, but I managed to activate my escape transporter,
+[00:24:46.261 --> 00:24:53.541] WESLEY: and the next thing I remember is finding myself on the emergency evac station on Mimas with the rest of the squadron, except Josh.
+[00:24:53.941 --> 00:24:54.021] BRAND: Do
+[00:24:57.461 --> 00:24:59.621] BRAND: you have anything to add to your testimony?
+[00:25:00.661 --> 00:25:00.981] WESLEY: No, sir.
+[00:25:04.421 --> 00:25:04.821] SATELK: Mister
+[00:25:04.821 --> 00:25:08.181] SATELK: Crusher, will you describe a Yeager loop?
+[00:25:10.501 --> 00:25:12.261] WESLEY: The ships begin in a diamond slot formation,
+[00:25:14.021 --> 00:25:21.141] WESLEY: and climb and loop backwards at a steep angle, and at the peak of the loop, turn over and accelerate in a new direction.
+[00:25:22.101 --> 00:25:22.341] SATELK: Mister
+[00:25:22.341 --> 00:25:26.021] SATELK: Crusher, did your team remain in formation throughout the loop?
+[00:25:27.861 --> 00:25:28.341] WESLEY: Yes, sir.
+[00:25:29.381 --> 00:25:32.421] BRAND: I want you to be absolutely clear on this point, Mister
+[00:25:32.421 --> 00:25:32.901] BRAND: Crusher.
+[00:25:33.468 --> 00:25:38.508] BRAND: Before the collision, was Nova Squadron in a diamond slot formation?
+[00:25:39.948 --> 00:25:40.348] WESLEY: Yes, sir.
+[00:25:42.268 --> 00:25:48.188] SATELK: Computer, display Saturn NavCon file six dash three seven nine.
+[00:25:49.388 --> 00:25:55.788] SATELK: These images were obtained by a navigational control satellite in orbit around Saturn during a standard sensor sweep.
+[00:25:56.188 --> 00:26:01.308] SATELK: Computer, freeze image. Magnify sector gamma three and enhance.
+[00:26:07.948 --> 00:26:15.388] SATELK: This image was recorded when your ships moved briefly into the satellite's sensor range. According to the time index,
+[00:26:15.628 --> 00:26:21.788] SATELK: what you see on the monitor took place seven seconds after Nova Squadron completed the Yeager loop.
+[00:26:25.868 --> 00:26:26.108] BRAND: Mister
+[00:26:26.108 --> 00:26:30.588] BRAND: Crusher, are these ships in a diamond slot formation?
+[00:26:30.668 --> 00:26:32.828] WESLEY: No, sir.
+[00:26:32.908 --> 00:26:36.828] BRAND: What is your explanation, Mister
+[00:26:36.828 --> 00:26:37.308] BRAND: Crusher?
+[00:26:37.308 --> 00:26:37.388] WESLEY: I
+[00:26:43.708 --> 00:26:44.348] WESLEY: have none, sir.
+[00:26:52.028 --> 00:26:53.628] CRUSHER: Everything's going to be okay, Wesley.
+[00:26:53.708 --> 00:26:53.708] CRUSHER: There
+[00:26:55.228 --> 00:26:57.068] CRUSHER: must be an explanation for all this.
+[00:26:57.788 --> 00:27:01.628] CRUSHER: Data and Geordi are already analysing the flight recorder and the satellite transmission.
+[00:27:01.868 --> 00:27:02.188] WESLEY: Why?
+[00:27:03.363 --> 00:27:05.283] CRUSHER: There must be something wrong with the satellite data.
+[00:27:05.763 --> 00:27:06.883] CRUSHER: It might have been tampered with.
+[00:27:07.363 --> 00:27:07.843] WESLEY: Mom.
+[00:27:08.403 --> 00:27:10.403] CRUSHER: Well, there must be some explanation for this.
+[00:27:11.523 --> 00:27:14.883] CRUSHER: I know you're telling the truth but the satellite data made it look as if you were lying.
+[00:27:16.242 --> 00:27:17.763] CRUSHER: I've spoken with the other parents.
+[00:27:20.643 --> 00:27:24.002] CRUSHER: I am going to talk to Admiral Brand and ask her to delay the inquiry
+[00:27:24.002 --> 00:27:24.163] WESLEY: Mom.
+[00:27:25.603 --> 00:27:25.843] WESLEY: Don't.
+[00:27:27.603 --> 00:27:28.482] WESLEY: You can't do that.
+[00:27:28.803 --> 00:27:31.202] CRUSHER: I'm not going to let them ruin your career, Wesley.
+[00:27:31.363 --> 00:27:32.722] CRUSHER: You haven't done anything wrong.
+[00:27:34.643 --> 00:27:35.043] WESLEY: Mom,
+[00:27:36.803 --> 00:27:37.923] WESLEY: don't try to protect me.
+[00:27:41.843 --> 00:27:42.883] WESLEY: Please stay out of this.
+[00:27:54.803 --> 00:27:58.242] BOOTHBY: These weeds keep popping up in the pittosporum.
+[00:27:59.763 --> 00:28:01.683] BOOTHBY: Poor plants don't have a chance to grow.
+[00:28:02.482 --> 00:28:05.603] PICARD: You could use a good herbicide instead of pulling the weeds with your bare hands.
+[00:28:07.283 --> 00:28:10.563] BOOTHBY: And you could explore space on a holodeck instead of a starship.
+[00:28:13.442 --> 00:28:13.763] PICARD: Boothby,
+[00:28:15.363 --> 00:28:16.883] PICARD: tell me some more about Nova Squadron.
+[00:28:18.883 --> 00:28:19.843] BOOTHBY: Not going well, is it.
+[00:28:20.722 --> 00:28:21.283] PICARD: No, it isn't.
+[00:28:21.433 --> 00:28:22.033] BOOTHBY: Do
+[00:28:23.442 --> 00:28:26.323] BOOTHBY: you remember the parrises squares tournament of 'twenty four?
+[00:28:26.643 --> 00:28:30.083] PICARD: The final game against Minsk.
+[00:28:31.261 --> 00:28:34.141] BOOTHBY: It took me three weeks to repair the grounds after the celebration.
+[00:28:35.181 --> 00:28:36.301] PICARD: We had a lot to celebrate.
+[00:28:37.261 --> 00:28:38.621] PICARD: Our team wasn't supposed to win.
+[00:28:38.861 --> 00:28:39.901] PICARD: We were very proud of them.
+[00:28:41.261 --> 00:28:44.541] BOOTHBY: Well the cadets today are just as proud of the Nova Squadron.
+[00:28:45.581 --> 00:28:49.581] BOOTHBY: The celebration they held after Nova won the Rigel Cup made 'twenty four look like a dinner party.
+[00:28:50.621 --> 00:28:55.101] BOOTHBY: To the other cadets, the members of that team are gods, and that's a hard image to live up to.
+[00:28:56.141 --> 00:28:58.141] BOOTHBY: But Nick Locarno, he watches out for them.
+[00:28:58.541 --> 00:28:59.421] BOOTHBY: He keeps them together.
+[00:29:01.101 --> 00:29:02.781] BOOTHBY: Nick is what makes that team special.
+[00:29:03.421 --> 00:29:06.541] BOOTHBY: He's their coach, surrogate father and best friend all in one.
+[00:29:07.341 --> 00:29:08.141] BOOTHBY: A natural leader.
+[00:29:09.581 --> 00:29:11.021] BOOTHBY: The members of that team love him.
+[00:29:11.901 --> 00:29:13.501] BOOTHBY: If he asks them to do something, they do it,
+[00:29:14.781 --> 00:29:16.701] BOOTHBY: even if it means going right over a cliff.
+[00:29:35.421 --> 00:29:35.741] PICARD: Report.
+[00:29:37.421 --> 00:29:38.221] LAFORGE: Nothing conclusive.
+[00:29:38.781 --> 00:29:42.701] LAFORGE: We do know that the collision occurred about four seconds after the satellite images were recorded,
+[00:29:42.941 --> 00:29:46.621] LAFORGE: but we still don't know how the ships got into the new formation or why the crash occurred.
+[00:29:46.781 --> 00:29:53.981] DATA: We unsuccessfully tried fifty three different computational models in an effort to simulate the movements of the Nova Squadron just prior to the crash.
+[00:29:54.221 --> 00:29:58.221] LAFORGE: There're just too many variables to take into consideration. Speed, attitude, course.
+[00:29:58.941 --> 00:30:03.821] PICARD: Did Wesley's flight recorder indicate that there was anything unusual about the ship or the way it was operating?
+[00:30:03.860 --> 00:30:06.340] LAFORGE: The starboard power flow was fluctuating.
+[00:30:07.060 --> 00:30:09.300] DATA: However it was well within operational limits.
+[00:30:10.340 --> 00:30:14.260] LAFORGE: Fluidic pressure in the landing struts was low, but I don't know what difference that would make.
+[00:30:15.220 --> 00:30:19.540] DATA: We did find that Wesley opened his coolant interlock just before beginning the manoeuvre around Titan.
+[00:30:19.940 --> 00:30:21.220] LAFORGE: That is a bit unusual.
+[00:30:21.460 --> 00:30:25.220] LAFORGE: Normally the interlock is closed unless you're performing a check on the engine coolant levels.
+[00:30:25.700 --> 00:30:28.180] LAFORGE: But there's no evidence Wesley was performing that sort of check.
+[00:30:29.300 --> 00:30:33.860] PICARD: Filling the primary coolant tanks requires an open interlock but that can only be performed in a maintenance bay.
+[00:30:34.100 --> 00:30:35.620] PICARD: Is there any other reason for opening the valve?
+[00:30:36.820 --> 00:30:39.220] LAFORGE: It's the first step in purging the plasma exhaust.
+[00:30:39.860 --> 00:30:42.740] DATA: That procedure would be extremely hazardous while the ship was in flight.
+[00:30:42.980 --> 00:30:45.300] LAFORGE: Yeah, the engine would probably ignite the plasma.
+[00:30:46.740 --> 00:30:47.700] PICARD: Ignite the plasma.
+[00:30:49.700 --> 00:30:51.060] PICARD: That's exactly what they were trying to do.
+[00:31:03.940 --> 00:31:04.340] PICARD: Come.
+[00:31:09.300 --> 00:31:09.540] WESLEY: Captain.
+[00:31:11.220 --> 00:31:13.220] PICARD: Can you tell me what manoeuvre this is?
+[00:31:14.660 --> 00:31:18.580] WESLEY: It's a
+[00:31:23.940 --> 00:31:24.820] WESLEY: Kolvoord Starburst, sir.
+[00:31:24.820 --> 00:31:24.980] PICARD: Five
+[00:31:27.940 --> 00:31:32.420] PICARD: ships crossing within ten metres of each other and igniting their plasma trails.
+[00:31:33.860 --> 00:31:35.860] PICARD: One of the most spectacular and
+[00:31:36.639 --> 00:31:43.279] PICARD: difficult demonstrations of precision flying. It hasn't been performed at the Academy team in over a hundred years.
+[00:31:43.759 --> 00:31:44.079] PICARD: Do you know why?
+[00:31:47.119 --> 00:31:49.519] WESLEY: It was banned by the Academy following a training accident, sir.
+[00:31:49.519 --> 00:31:53.839] PICARD: An accident in which all five cadets lost their lives.
+[00:32:04.479 --> 00:32:16.559] PICARD: I think that Nicholas Locarno wanted to end his Academy career in a blaze of glory. That he convinced the four of you to learn the Kolvoord Starburst for the commencement demonstration.
+[00:32:16.959 --> 00:32:19.279] PICARD: If it worked, you would thrill the assembled guests and
+[00:32:21.039 --> 00:32:23.679] PICARD: Locarno would graduate as a living legend.
+[00:32:23.679 --> 00:32:23.759] PICARD: Only
+[00:32:25.519 --> 00:32:26.159] PICARD: it didn't work, and
+[00:32:29.839 --> 00:32:31.359] PICARD: Joshua Albert paid the price.
+[00:32:32.479 --> 00:32:33.039] PICARD: Am I correct?
+[00:32:37.439 --> 00:32:37.679] PICARD: Cadet,
+[00:32:37.679 --> 00:32:38.559] PICARD: I asked you a question.
+[00:32:38.559 --> 00:32:39.279] PICARD: Am I correct?
+[00:32:42.159 --> 00:32:43.199] WESLEY: I choose not to answer, sir.
+[00:32:45.279 --> 00:32:46.879] PICARD: You choose not to answer?
+[00:32:46.879 --> 00:32:46.959] PICARD: But
+[00:32:54.159 --> 00:32:55.999] PICARD: you've already given an answer to the inquiry, and
+[00:32:57.839 --> 00:32:58.799] PICARD: that answer was a lie.
+[00:32:59.359 --> 00:33:01.199] WESLEY: I said the accident occurred after the loop.
+[00:33:01.359 --> 00:33:01.839] WESLEY: It did.
+[00:33:02.719 --> 00:33:07.519] PICARD: What you neglected to mention was that following the loop your team attempted a manoeuvre
+[00:33:08.031 --> 00:33:09.951] PICARD: that was the direct cause of the crash.
+[00:33:11.631 --> 00:33:13.231] PICARD: You told the truth up to a point.
+[00:33:15.391 --> 00:33:17.231] PICARD: But a lie of omission is still a lie.
+[00:33:22.751 --> 00:33:26.831] PICARD: Do you remember the day you first came aboard this ship?
+[00:33:26.831 --> 00:33:26.831] PICARD: Your
+[00:33:29.551 --> 00:33:30.751] PICARD: mother brought you on the Bridge.
+[00:33:31.631 --> 00:33:31.951] WESLEY: Yes.
+[00:33:32.671 --> 00:33:33.871] PICARD: You even sat in my chair.
+[00:33:35.151 --> 00:33:38.671] PICARD: I was annoyed. Presumptuous child playing on my ship.
+[00:33:40.431 --> 00:33:43.871] PICARD: But I never forgot how you already knew every control, every display.
+[00:33:45.231 --> 00:33:46.751] PICARD: You behaved as though you belonged on the Bridge.
+[00:33:48.031 --> 00:33:50.351] PICARD: And then later when I decided to make you an acting ensign,
+[00:33:52.191 --> 00:33:56.191] PICARD: I was convinced you could be an outstanding officer. I've never questioned that conviction,
+[00:33:59.391 --> 00:33:59.871] PICARD: until now.
+[00:34:03.471 --> 00:34:10.511] PICARD: The first duty of every Starfleet officer is to the truth. Whether it's scientific truth, or historical truth, or personal truth.
+[00:34:11.071 --> 00:34:13.311] PICARD: It is the guiding principle upon which Starfleet is based.
+[00:34:13.471 --> 00:34:18.591] PICARD: If you can't find it within yourself to stand up and tell the truth about what happened you don't deserve to wear that uniform.
+[00:34:19.231 --> 00:34:20.751] PICARD: I'm going to make this simple for you, Mister Crusher.
+[00:34:21.871 --> 00:34:25.391] PICARD: Either you come forward and tell Admiral Brand what really took place, or I will.
+[00:34:27.791 --> 00:34:28.671] WESLEY: Captain
+[00:34:28.671 --> 00:34:28.671] PICARD: Dismissed.
+[00:34:47.524 --> 00:34:48.404] LOCARNO: Your message said it was urgent.
+[00:34:49.364 --> 00:34:49.844] WESLEY: They know, Nick.
+[00:34:50.164 --> 00:34:50.804] WESLEY: They know what we did.
+[00:34:51.124 --> 00:34:51.844] LOCARNO: Calm down.
+[00:34:52.884 --> 00:34:53.444] LOCARNO: Calm down.
+[00:34:54.484 --> 00:34:55.604] LOCARNO: Now tell me exactly what happened.
+[00:34:56.884 --> 00:34:58.964] WESLEY: Captain Picard called me to the Enterprise.
+[00:34:59.844 --> 00:35:04.404] WESLEY: when I got there he told me that he knows. The Kolvoord manoeuvre, the cover up, everything.
+[00:35:04.724 --> 00:35:07.284] WESLEY: He said that if I didn't come forward and tell the truth now, he would.
+[00:35:10.404 --> 00:35:11.364] LOCARNO: You said he'd figured it out.
+[00:35:11.364 --> 00:35:12.244] LOCARNO: Does he have any evidence?
+[00:35:12.404 --> 00:35:14.084] WESLEY: No, but he knew exactly how it happened.
+[00:35:16.004 --> 00:35:17.444] LOCARNO: Captain Picard doesn't know anything.
+[00:35:18.404 --> 00:35:19.044] LOCARNO: He has a theory.
+[00:35:20.484 --> 00:35:22.084] LOCARNO: So let him tell the inquiry what he thinks happened.
+[00:35:22.084 --> 00:35:23.364] LOCARNO: They'll ask us, is it true?
+[00:35:23.364 --> 00:35:24.164] LOCARNO: We'll say, no, sir.
+[00:35:25.124 --> 00:35:26.724] LOCARNO: There's no evidence, so there's no case.
+[00:35:26.724 --> 00:35:27.924] LOCARNO: We'll get off with a reprimand.
+[00:35:29.364 --> 00:35:30.884] WESLEY: I can't call Captain Picard a liar.
+[00:35:32.324 --> 00:35:32.804] LOCARNO: Wesley,
+[00:35:35.044 --> 00:35:36.724] LOCARNO: we have to hang on just a little longer,
+[00:35:38.244 --> 00:35:38.964] LOCARNO: then this will all be over.
+[00:35:41.924 --> 00:35:42.804] WESLEY: It's wrong, Nick.
+[00:35:43.924 --> 00:35:44.364] LOCARNO: Wesley.
+[00:35:44.364 --> 00:35:44.804] WESLEY: No.
+[00:35:50.724 --> 00:35:51.604] WESLEY: I'm going to tell them what happened.
+[00:35:56.644 --> 00:35:57.764] LOCARNO: You're going to tell them what happened?
+[00:35:59.524 --> 00:36:01.204] LOCARNO: You? Alone?
+[00:36:02.324 --> 00:36:05.604] LOCARNO: Are going to decide what happens to me, to Sito, to Jean?
+[00:36:06.084 --> 00:36:07.124] LOCARNO: You're going to decide that?
+[00:36:07.844 --> 00:36:09.844] WESLEY: I'm not going to lie to them again, Nick.
+[00:36:11.284 --> 00:36:12.244] WESLEY: I can't live with it.
+[00:36:13.546 --> 00:36:14.186] LOCARNO: You can't lie to them.
+[00:36:15.946 --> 00:36:16.826] LOCARNO: You can't live with this.
+[00:36:17.146 --> 00:36:18.506] LOCARNO: You have to tell them what happened.
+[00:36:18.506 --> 00:36:19.639] LOCARNO: Who the hell are you?
+[00:36:19.639 --> 00:36:19.866] WESLEY: Nick!
+[00:36:20.346 --> 00:36:21.466] LOCARNO: You're going to turn us in?
+[00:36:21.546 --> 00:36:22.266] WESLEY: Now wait a minute.
+[00:36:22.346 --> 00:36:23.226] LOCARNO: No, you wait a minute.
+[00:36:31.626 --> 00:36:32.346] LOCARNO: He got to you, didn't
+[00:36:34.266 --> 00:36:34.266] LOCARNO: he?
+[00:36:34.266 --> 00:36:37.146] LOCARNO: Picard told you some big story about duty and honour.
+[00:36:42.346 --> 00:36:44.666] LOCARNO: It must've been a pretty good speech to make you turn your back on your friends.
+[00:36:47.786 --> 00:36:49.146] WESLEY: We're Starfleet cadets.
+[00:36:49.946 --> 00:36:51.146] WESLEY: We have a duty to the truth.
+[00:36:51.146 --> 00:36:52.586] LOCARNO: What about your duty to your friends?
+[00:36:54.426 --> 00:36:55.546] LOCARNO: I got you on this team.
+[00:36:57.146 --> 00:36:59.466] LOCARNO: I gave you a chance when there were upperclassmen waiting in line.
+[00:37:00.666 --> 00:37:02.106] LOCARNO: I said, He won't let us down.
+[00:37:03.146 --> 00:37:04.186] LOCARNO: He was on the Enterprise.
+[00:37:05.306 --> 00:37:07.306] LOCARNO: He knows what it's like to trust somebody with his life.
+[00:37:09.706 --> 00:37:10.426] LOCARNO: I guess I was wrong.
+[00:37:11.226 --> 00:37:13.976] WESLEY: If we all come forward together and tell Admiral Brand
+[00:37:13.976 --> 00:37:15.626] LOCARNO: We don't want to come forward.
+[00:37:16.746 --> 00:37:18.826] LOCARNO: Sito, Jean and me, we don't have a problem with this.
+[00:37:20.746 --> 00:37:24.906] LOCARNO: But if you do, then resign your appointment to the Academy and walk away.
+[00:37:26.026 --> 00:37:27.706] LOCARNO: Don't make us pay for your guilty conscience.
+[00:37:28.666 --> 00:37:29.706] WESLEY: You'd let me do that?
+[00:37:31.626 --> 00:37:35.066] WESLEY: You'd let me throw my career away just to save your neck?
+[00:37:35.146 --> 00:37:36.346] LOCARNO: To save the team.
+[00:37:37.386 --> 00:37:38.426] LOCARNO: That's more important than you,
+[00:37:39.501 --> 00:37:40.461] LOCARNO: and it's more important than me.
+[00:37:41.421 --> 00:37:43.581] LOCARNO: And if I was in your place I'd do it without hesitation.
+[00:37:45.741 --> 00:37:46.221] LOCARNO: But that's me.
+[00:38:01.261 --> 00:38:05.901] BRAND: Captain Satelk and I have gone over your testimony and the physical evidence from the crash.
+[00:38:06.461 --> 00:38:11.741] BRAND: Your statements cannot be reconciled with the data collected from the NavCon satellite.
+[00:38:13.741 --> 00:38:20.621] BRAND: Your unwillingness to offer any explanation for this contradiction is disappointing, and raises suspicion.
+[00:38:22.941 --> 00:38:24.781] BRAND: We cannot escape the conclusion
+[00:38:26.541 --> 00:38:29.101] BRAND: that either the data is faulty in some way,
+[00:38:31.981 --> 00:38:33.501] BRAND: or you have lied to us.
+[00:38:34.861 --> 00:38:41.821] BRAND: However suspicion is not proof and I have no proof that you have lied to this inquiry.
+[00:38:43.101 --> 00:38:50.861] BRAND: Therefore, if no further evidence is presented, I have no choice but to close this investigation.
+[00:39:02.221 --> 00:39:05.741] BRAND: For filing an inaccurate flight plan,
+[00:39:06.845 --> 00:39:16.445] BRAND: and for allowing Cadet Albert to fly when you knew he was having difficulties, I am ordering a formal reprimand placed on each of your permanent records.
+[00:39:18.045 --> 00:39:21.245] BRAND: I am also revoking your flight privileges.
+[00:39:22.765 --> 00:39:24.285] BRAND: This inquiry is closed.
+[00:39:25.805 --> 00:39:26.045] WESLEY: Sir.
+[00:39:28.605 --> 00:39:30.445] WESLEY: I would like to add something to my testimony.
+[00:39:33.085 --> 00:39:34.205] BRAND: Proceed, Mister Crusher.
+[00:39:36.605 --> 00:39:39.645] WESLEY: Yesterday I testified that the crash occurred following a Yeager loop.
+[00:39:40.685 --> 00:39:41.805] WESLEY: That is not entirely true.
+[00:39:43.645 --> 00:39:44.525] WESLEY: We performed a loop,
+[00:39:46.285 --> 00:39:49.965] WESLEY: and afterwards broke formation and attempted a Kolvoord Starburst.
+[00:39:49.965 --> 00:39:49.965] WESLEY: We
+[00:39:53.245 --> 00:39:54.205] WESLEY: knew it was prohibited.
+[00:39:55.645 --> 00:40:00.925] WESLEY: We knew it was dangerous, but we wanted to do something spectacular for the commencement demonstration.
+[00:40:03.165 --> 00:40:05.245] WESLEY: We pushed Josh into it and he wasn't ready.
+[00:40:07.245 --> 00:40:08.125] WESLEY: We thought we could do it.
+[00:40:09.805 --> 00:40:11.085] WESLEY: We thought we could do anything.
+[00:40:12.445 --> 00:40:13.165] WESLEY: We were wrong,
+[00:40:15.405 --> 00:40:16.205] WESLEY: and Josh died.
+[00:40:20.845 --> 00:40:22.125] WESLEY: Josh didn't let us down, sir.
+[00:40:23.245 --> 00:40:24.125] WESLEY: It wasn't his fault.
+[00:40:26.845 --> 00:40:27.645] BRAND: Mister Locarno,
+[00:40:29.725 --> 00:40:31.565] BRAND: you are the leader of Nova Squadron.
+[00:40:33.060 --> 00:40:34.260] BRAND: Do you have anything to say?
+[00:40:40.180 --> 00:40:40.740] BRAND: Mister
+[00:40:45.380 --> 00:40:47.380] BRAND: Locarno?
+[00:40:51.780 --> 00:40:52.180] LOCARNO: No, sir.
+[00:41:09.140 --> 00:41:10.740] PICARD: Mister Locarno has been expelled.
+[00:41:14.180 --> 00:41:15.620] WESLEY: They should've expelled all of us.
+[00:41:15.700 --> 00:41:16.580] PICARD: They very nearly did.
+[00:41:17.860 --> 00:41:20.260] PICARD: Mister Locarno made an impassioned plea for the rest of you.
+[00:41:21.460 --> 00:41:28.180] PICARD: He said that he'd used his influence as squadron leader to convince you to attempt the Kolvoord manoeuvre and then to cover up the truth.
+[00:41:30.180 --> 00:41:31.700] PICARD: He asked to take full responsibility.
+[00:41:34.420 --> 00:41:35.860] WESLEY: He did exactly what he said he would.
+[00:41:37.380 --> 00:41:38.420] WESLEY: He protected the team.
+[00:41:40.660 --> 00:41:41.460] WESLEY: I feel awful.
+[00:41:43.220 --> 00:41:44.420] WESLEY: I've let down everyone.
+[00:41:45.380 --> 00:41:47.060] WESLEY: My mother, my friends, you.
+[00:41:47.380 --> 00:41:48.180] PICARD: You should feel bad,
+[00:41:50.820 --> 00:41:52.740] PICARD: and you will pay for what you've done.
+[00:41:54.820 --> 00:42:02.340] PICARD: Admiral Brand has decided that in addition to a formal reprimand, your academic credits for the past year will be cancelled and you will not advance with your class.
+[00:42:04.180 --> 00:42:04.820] WESLEY: I understand.
+[00:42:07.231 --> 00:42:08.111] PICARD: It's not going to be easy,
+[00:42:09.791 --> 00:42:10.991] PICARD: staying here on campus,
+[00:42:12.511 --> 00:42:13.631] PICARD: everyone knowing what you did.
+[00:42:16.191 --> 00:42:17.471] PICARD: You have difficult times ahead.
+[00:42:20.191 --> 00:42:20.431] WESLEY: Yes, sir.
+[00:42:22.591 --> 00:42:23.151] WESLEY: Thank you, Captain.
+[00:42:25.951 --> 00:42:26.991] PICARD: You knew what you had to do.
+[00:42:28.511 --> 00:42:30.911] PICARD: I just made sure you listened to yourself.
+[00:42:35.631 --> 00:42:36.271] PICARD: Goodbye, Cadet.
+[00:42:37.311 --> 00:42:37.791] WESLEY: Goodbye, Captain.

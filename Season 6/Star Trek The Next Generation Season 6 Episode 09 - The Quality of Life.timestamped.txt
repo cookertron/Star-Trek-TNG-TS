@@ -1,0 +1,733 @@
+[00:00:11.120 --> 00:00:15.040] WORF: Commander, is it your intention to continue to grow your beard?
+[00:00:16.640 --> 00:00:19.200] LAFORGE: Actually, I'm not sure yet.
+[00:00:20.080 --> 00:00:20.480] LAFORGE: Why, Worf?
+[00:00:21.120 --> 00:00:22.080] WORF: I am just asking.
+[00:00:24.960 --> 00:00:27.040] CRUSHER: Seven card stud, one-eyed jacks are wild.
+[00:00:29.360 --> 00:00:30.640] RIKER: Frankly, Geordi, I like the beard.
+[00:00:31.440 --> 00:00:32.160] LAFORGE: Thank you, Commander.
+[00:00:34.640 --> 00:00:38.800] CRUSHER: You know, I have always been a little suspicious of men with beards.
+[00:00:40.320 --> 00:00:41.120] WORF: Why is that?
+[00:00:41.600 --> 00:00:42.080] CRUSHER: I don't know.
+[00:00:42.080 --> 00:00:43.520] CRUSHER: It's as if they're trying to hide something.
+[00:00:44.000 --> 00:00:44.400] RIKER: Hide?
+[00:00:44.960 --> 00:00:46.160] RIKER: Don't be ridiculous, Doctor.
+[00:00:46.160 --> 00:00:48.320] RIKER: The beard is an ancient and proud tradition.
+[00:00:49.200 --> 00:00:51.520] LAFORGE: Some of the most distinguished men in history have worn beards, Doctor.
+[00:00:51.920 --> 00:00:56.480] CRUSHER: I know. But after the razor was invented I think beards became mostly a fashion statement.
+[00:00:56.880 --> 00:00:58.240] WORF: I'm not concerned with fashion.
+[00:00:58.240 --> 00:01:02.720] WORF: To a Klingon, a beard is a symbol of courage.
+[00:01:03.920 --> 00:01:05.040] RIKER: I think it's a sign of strength.
+[00:01:07.120 --> 00:01:08.960] CRUSHER: Sure, and of course, women can't grow beards.
+[00:01:09.360 --> 00:01:12.480] LAFORGE: Doctor, it sounds to me like you feel beards are nothing more than an affectation.
+[00:01:12.800 --> 00:01:13.120] CRUSHER: I do.
+[00:01:15.120 --> 00:01:16.320] CRUSHER: But there's nothing wrong with that.
+[00:01:16.720 --> 00:01:18.640] CRUSHER: I mean, women wear makeup and nail polish.
+[00:01:19.440 --> 00:01:21.680] CRUSHER: I just think it's time you men admitted it.
+[00:01:22.560 --> 00:01:24.160] RIKER: My beard is not an affectation.
+[00:01:24.800 --> 00:01:26.800] CRUSHER: Oh? Well then you wouldn't mind shaving it off.
+[00:01:27.040 --> 00:01:27.920] RIKER: I could lose it in a minute.
+[00:01:28.456 --> 00:01:29.336] RIKER: I've just gotten used to it.
+[00:01:30.376 --> 00:01:31.896] CRUSHER: Okay, then why don't we up the stakes a little?
+[00:01:33.176 --> 00:01:37.176] CRUSHER: And if I win, all off you shave your beards off.
+[00:01:39.336 --> 00:01:39.736] LAFORGE: Wait a minute,
+[00:01:39.816 --> 00:01:40.216] LAFORGE: wait a minute.
+[00:01:41.096 --> 00:01:41.816] LAFORGE: What if you lose?
+[00:01:42.456 --> 00:01:43.176] LAFORGE: What are you going to give up?
+[00:01:43.656 --> 00:01:44.696] CRUSHER: I'm open for suggestions.
+[00:01:46.776 --> 00:01:48.216] RIKER: Well, I've always wanted to see you as a brunette.
+[00:01:48.776 --> 00:01:50.056] CRUSHER: Oh, I did that once when I was thirteen.
+[00:01:50.056 --> 00:01:51.176] CRUSHER: I couldn't change back fast enough.
+[00:01:52.056 --> 00:01:53.176] RIKER: That makes me even more curious.
+[00:01:54.376 --> 00:01:54.616] CRUSHER: Fine.
+[00:01:58.856 --> 00:02:00.776] CRUSHER: If one of you wins, I become a brunette.
+[00:02:00.776 --> 00:02:01.176] CRUSHER: Are we on?
+[00:02:02.296 --> 00:02:02.616] LAFORGE: Yeah,
+[00:02:03.576 --> 00:02:04.616] LAFORGE: yeah, we'll take that bet.
+[00:02:05.576 --> 00:02:08.536] CRUSHER: Looks like you have the hand to beat, Commander.
+[00:02:11.336 --> 00:02:11.816] LAFORGE: Two hundred.
+[00:02:15.256 --> 00:02:16.056] CRUSHER: I'm in two hundred.
+[00:02:18.376 --> 00:02:18.776] RIKER: Geordi.
+[00:02:20.776 --> 00:02:21.576] PICARD: This is the Captain.
+[00:02:22.056 --> 00:02:23.736] PICARD: We have arrived at the Tyran system.
+[00:02:23.816 --> 00:02:25.336] PICARD: All senior staff to the Bridge.
+[00:02:26.216 --> 00:02:26.616] CRUSHER: Wait!
+[00:02:27.976 --> 00:02:28.456] RIKER: Sorry,
+[00:02:28.456 --> 00:02:29.256] RIKER: you heard the Captain.
+[00:02:29.336 --> 00:02:29.896] RIKER: Duty calls.
+[00:02:29.896 --> 00:02:31.336] RIKER: I guess we'll have to do this some other time.
+[00:02:42.616 --> 00:02:45.976] LOG: Captain's log, stardate 46307.2.
+[00:02:46.696 --> 00:02:54.216] LOG: We have just come into orbit of Tyrus Seven A to monitor progress on the Tyran particle fountain, a radically new mining technology.
+[00:02:54.936 --> 00:02:58.776] LOG: So far the project has been fraught with problems, and is well behind schedule.
+[00:02:59.494 --> 00:02:59.734] LOG: Mister
+[00:02:59.734 --> 00:03:02.134] LOG: La Forge has been assigned to evaluate the situation.
+[00:03:03.894 --> 00:03:11.334] LAFORGE: Doctor Farallon. The original design called for the particle fountain to lift five hundred kilograms per minute from the surface. So far we haven't come close to that.
+[00:03:11.974 --> 00:03:14.374] FARALLON: Well, that's why I want to increase the stream density.
+[00:03:14.694 --> 00:03:17.334] FARALLON: That should boost the lift capacity by seventy two percent.
+[00:03:17.334 --> 00:03:20.614] LAFORGE: Yeah, but you realise of course you're going to be overloading the field generators in the process.
+[00:03:20.774 --> 00:03:24.134] FARALLON: Not if we distribute the overload evenly throughout the system.
+[00:03:24.294 --> 00:03:30.294] LAFORGE: Doctor, forgive me, but maybe we should concentrate on completing this phase of the project before we start talking about re designing it.
+[00:03:30.294 --> 00:03:33.254] FARALLON: Commander, I know you're here to evaluate this project.
+[00:03:33.814 --> 00:03:37.254] LAFORGE: Starfleet is considering using a particle fountain on Carema Three.
+[00:03:37.974 --> 00:03:39.254] LAFORGE: They want to know how feasible it is.
+[00:03:40.134 --> 00:03:41.894] FARALLON: And will your opinion be the deciding factor?
+[00:03:42.454 --> 00:03:43.414] LAFORGE: No, not really.
+[00:03:44.054 --> 00:03:45.574] LAFORGE: I'll make my report to Captain Picard.
+[00:03:45.574 --> 00:03:47.654] LAFORGE: He'll make the official recommendation to Starfleet.
+[00:03:47.654 --> 00:03:48.214] LAFORGE: They'll decide.
+[00:03:48.934 --> 00:03:50.054] FARALLON: What's your feeling so far?
+[00:03:50.374 --> 00:03:56.614] LAFORGE: Well, it seems to me the question we should be asking is, is this technology is more efficient than conventional mining techniques?
+[00:03:56.614 --> 00:03:58.854] FARALLON: Commander I know we've had problems here.
+[00:03:59.174 --> 00:04:00.454] FARALLON: It seems like nothing's gone right.
+[00:04:01.654 --> 00:04:04.854] FARALLON: It's taking a lot longer than I thought to get the particle stream to full strength.
+[00:04:05.494 --> 00:04:07.094] FARALLON: But I know it can work.
+[00:04:07.814 --> 00:04:12.854] FARALLON: This is the direction that mining is going to take in the future, and it should be implemented on Carema Three.
+[00:04:13.334 --> 00:04:17.254] LAFORGE: I know this can be potentially very exciting.
+[00:04:17.414 --> 00:04:17.574] FARALLON: All right,
+[00:04:18.934 --> 00:04:21.014] FARALLON: I want to show you something I've been working on.
+[00:04:21.014 --> 00:04:23.494] FARALLON: Something that might help us complete this project more quickly.
+[00:04:23.974 --> 00:04:25.494] FARALLON: I've used these on a limited basis
+[00:04:25.483 --> 00:04:28.683] DATA: Enterprise to Commander La Forge.
+[00:04:33.323 --> 00:04:36.203] DATA: I am reading significant power fluctuations from the station core.
+[00:04:36.843 --> 00:04:37.643] DATA: Please report.
+[00:04:37.963 --> 00:04:38.763] LAFORGE: La Forge here.
+[00:04:39.163 --> 00:04:40.843] LAFORGE: We have a malfunction in one of the power grids.
+[00:04:40.843 --> 00:04:42.603] LAFORGE: We're losing particle stream confinement.
+[00:04:42.603 --> 00:04:44.283] DATA: Do you require assistance?
+[00:04:44.363 --> 00:04:45.083] LAFORGE: Stand by.
+[00:04:46.443 --> 00:04:47.003] LAFORGE: I'm sorry, Doctor,
+[00:04:47.003 --> 00:04:48.043] LAFORGE: I think we're going to have to shut it down.
+[00:04:48.283 --> 00:04:50.843] FARALLON: It took four months to get the particle flux up to this level.
+[00:04:51.003 --> 00:04:53.723] FARALLON: If we shut down, it'll take another four months just to get it back.
+[00:04:53.723 --> 00:04:56.203] LAFORGE: Look, e have less than five minutes before we lose confinement.
+[00:04:56.363 --> 00:04:58.763] LAFORGE: When that happens, the particle stream is going to flood this entire station.
+[00:04:58.763 --> 00:04:59.963] LAFORGE: We're going to have to shut it down then anyway.
+[00:05:00.123 --> 00:05:01.643] FARALLON: Then we'll just have to fix the power grid.
+[00:05:01.643 --> 00:05:03.083] LAFORGE: Yeah, bow do we do that?
+[00:05:03.723 --> 00:05:06.603] LAFORGE: The defective grid is two hundred metres down conduit A two.
+[00:05:06.603 --> 00:05:08.843] LAFORGE: We have to disassemble four bulkheads just to get to it.
+[00:05:08.843 --> 00:05:11.723] FARALLON: Well here's the perfect opportunity to show you what I had in mind.
+[00:05:12.603 --> 00:05:13.243] LAFORGE: What is this?
+[00:05:13.563 --> 00:05:15.003] FARALLON: This is an exocomp,
+[00:05:15.563 --> 00:05:17.083] FARALLON: the experiment I was telling you about.
+[00:05:30.283 --> 00:05:32.523] FARALLON: If it doesn't work, we'll still have time to shut down the fountain.
+[00:05:33.243 --> 00:05:34.443] DATA: Enterprise to La Forge.
+[00:05:35.243 --> 00:05:36.123] DATA: What is your situation?
+[00:05:36.363 --> 00:05:38.203] LAFORGE: Unchanged for the moment, but we're working on it.
+[00:05:38.203 --> 00:05:39.643] LAFORGE: Listen, if this doesn't work soon,
+[00:05:39.643 --> 00:05:40.763] LAFORGE: we're going to have to shut this thing down,
+[00:05:40.763 --> 00:05:41.083] LAFORGE: all right?
+[00:05:51.963 --> 00:05:53.083] LAFORGE: The confinement field is at full strength.
+[00:05:53.963 --> 00:05:55.243] LAFORGE: Particle flux steady.
+[00:05:56.603 --> 00:05:57.723] LAFORGE: All power levels are back to normal.
+[00:05:58.655 --> 00:06:00.095] DATA: Commander La Forge, please report.
+[00:06:01.695 --> 00:06:02.815] LAFORGE: We're fine, Data.
+[00:06:03.455 --> 00:06:04.815] LAFORGE: The power grid is fully restored.
+[00:06:05.855 --> 00:06:11.135] LAFORGE: The malfunction seems to have been repaired and operations over here at the station are all back to normal.
+[00:06:11.695 --> 00:06:13.775] DATA: How were you able to accomplish the repair so quickly?
+[00:06:16.895 --> 00:06:17.375] LAFORGE: You know,
+[00:06:19.135 --> 00:06:19.935] LAFORGE: I'm not exactly sure.
+[00:06:48.415 --> 00:06:51.135] PICARD: Space, the final frontier.
+[00:06:53.055 --> 00:06:55.935] PICARD: These are the voyages of the starship Enterprise.
+[00:06:56.975 --> 00:07:04.975] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:07:06.655 --> 00:07:10.175] PICARD: to boldly go where no one has gone before.
+[00:07:39.000 --> 00:07:47.000] [music]
+[00:08:06.939 --> 00:08:10.219] LOG: Captain's log, stardate 46315.2.
+[00:08:10.779 --> 00:08:15.659] LOG: Repairs to the particle fountain seem to have succeeded and it is now functioning smoothly.
+[00:08:16.299 --> 00:08:21.019] LOG: Doctor Farallon is coming aboard to demonstrate the device that carried out the repairs.
+[00:08:24.619 --> 00:08:25.259] DATA: Energise.
+[00:08:25.419 --> 00:08:25.899] KELSO: Aye, sir.
+[00:08:31.659 --> 00:08:32.939] DATA: Welcome to the Enterprise, Doctor.
+[00:08:33.179 --> 00:08:34.219] DATA: I am Lieutenant Commander Data.
+[00:08:34.219 --> 00:08:37.899] FARALLON: Mister Data, I was hoping I'd have a chance to meet you.
+[00:08:38.379 --> 00:08:40.583] FARALLON: I've done extensive studies of your positronic network.
+[00:08:40.583 --> 00:08:43.339] DATA: And I have studied your design for the particle fountain.
+[00:08:43.579 --> 00:08:45.499] DATA: I find the concept to be highly innovative.
+[00:08:45.819 --> 00:08:46.219] FARALLON: Thank you.
+[00:08:46.859 --> 00:08:49.819] DATA: I am curious how you were able to repair the power grid so quickly.
+[00:08:50.459 --> 00:08:51.739] FARALLON: This should make it clear, Commander.
+[00:08:52.219 --> 00:08:53.259] LAFORGE: Why don't we set up in Engineering.
+[00:08:54.459 --> 00:09:00.059] FARALLON: Is it true that your computational speed is limited only by the physical separation of your positronic links?
+[00:09:00.379 --> 00:09:01.899] DATA: Actually, that is no longer the case.
+[00:09:02.175 --> 00:09:07.615] DATA: I have recently converted my interlink sequencer to asynchronous operation, which removed the performance constraint.
+[00:09:07.935 --> 00:09:09.615] LAFORGE: Doctor, this way please.
+[00:09:09.775 --> 00:09:12.895] FARALLON: I see. But how did you resolve the signal fragmentation?
+[00:09:13.455 --> 00:09:15.535] DATA: The interlink sequencer is now bi-directional.
+[00:09:15.855 --> 00:09:19.615] DATA: It compensates for the asynchronous mode distortion arising from the resonant field.
+[00:09:19.855 --> 00:09:21.615] FARALLON: Yes. That's fascinating.
+[00:09:22.095 --> 00:09:27.855] FARALLON: Does the sequencer require any buffering system to eliminate interference?
+[00:09:28.175 --> 00:09:30.895] FARALLON: We've been using devices like this on Tyrus Seven for years.
+[00:09:31.455 --> 00:09:34.655] FARALLON: The basic unit is a common industrial servo mechanism.
+[00:09:35.215 --> 00:09:37.215] FARALLON: A few years ago I started tinkering with one.
+[00:09:37.935 --> 00:09:38.655] FARALLON: This is the result.
+[00:09:39.855 --> 00:09:41.055] LAFORGE: Boridium power converter.
+[00:09:42.575 --> 00:09:43.935] LAFORGE: Axionic chip network.
+[00:09:44.095 --> 00:09:44.895] LAFORGE: It's very impressive.
+[00:09:45.935 --> 00:09:49.615] LAFORGE: In terms of sheer computational speed, this little guy might be able to compete with you, Data.
+[00:09:49.695 --> 00:09:53.375] FARALLON: Oh, the exocomps don't come close to Data's sophistication.
+[00:09:53.615 --> 00:09:54.415] DATA: Exocomps?
+[00:09:54.575 --> 00:09:55.375] FARALLON: That's what I call them.
+[00:09:56.815 --> 00:10:02.415] FARALLON: Let's say you had an anti-matter flow converter that was fluctuating.
+[00:10:04.255 --> 00:10:04.975] FARALLON: How would you repair it?
+[00:10:05.935 --> 00:10:07.775] DATA: The correct procedure would be to adjust the converter.
+[00:10:08.255 --> 00:10:08.495] FARALLON: With what?
+[00:10:09.295 --> 00:10:10.255] DATA: A mode stabiliser.
+[00:10:10.975 --> 00:10:11.455] FARALLON: Okay.
+[00:10:12.015 --> 00:10:14.495] FARALLON: Let me input the problem into the exocomp.
+[00:10:14.895 --> 00:10:17.775] FARALLON: A fluctuating anti-matter flow converter.
+[00:10:18.255 --> 00:10:20.255] FARALLON: Now, let's see what happens.
+[00:10:20.405 --> 00:10:21.005] LAFORGE: A
+[00:10:22.415 --> 00:10:22.415] LAFORGE: mode
+[00:10:25.535 --> 00:10:27.535] LAFORGE: stabilizer.
+[00:10:27.535 --> 00:10:29.935] LAFORGE: Very nice.
+[00:10:30.655 --> 00:10:35.615] DATA: You have incorporated a micro-replication system into the device in order to fashion tools.
+[00:10:35.915 --> 00:10:36.875] FARALLON: It's more than that.
+[00:10:37.595 --> 00:10:40.075] FARALLON: I designed the exocomps to be problem solvers.
+[00:10:40.395 --> 00:10:47.435] FARALLON: Whenever they perform a task they've never done before, the micro-replicator creates new circuit pathways within the unit's memory.
+[00:10:48.075 --> 00:10:49.595] DATA: So in a sense, they are learning.
+[00:10:49.835 --> 00:10:50.395] FARALLON: Exactly.
+[00:10:51.115 --> 00:10:54.715] FARALLON: The more situations they encounter, the more circuit pathways they build.
+[00:10:55.355 --> 00:10:57.835] FARALLON: They become better tools as they work.
+[00:10:58.155 --> 00:10:59.515] LAFORGE: It's impressive technology,
+[00:10:59.755 --> 00:11:00.395] LAFORGE: that's for sure.
+[00:11:00.955 --> 00:11:03.515] LAFORGE: Once it's out of the experimental stage, there'll be plenty of applications.
+[00:11:03.835 --> 00:11:06.395] FARALLON: Commander, I'm hoping the experimental stage is over.
+[00:11:07.755 --> 00:11:10.795] FARALLON: When are we supposed to brief Captain Picard on the status of the particle fountain?
+[00:11:11.035 --> 00:11:11.675] LAFORGE: At sixteen hundred hours.
+[00:11:12.395 --> 00:11:12.635] FARALLON: Good.
+[00:11:13.355 --> 00:11:14.475] FARALLON: I'll have a proposal to make.
+[00:11:18.155 --> 00:11:21.195] FARALLON: Captain, I know you're supposed to give your evaluation to Starfleet today.
+[00:11:21.835 --> 00:11:24.395] FARALLON: I'd like you to postpone that report another forty eight hours.
+[00:11:24.715 --> 00:11:27.195] PICARD: The Enterprise is scheduled to leave the Tyran system tomorrow.
+[00:11:27.195 --> 00:11:29.595] PICARD: If I'm to change that plan, I'll need a very good reason.
+[00:11:30.075 --> 00:11:31.035] FARALLON: I realise that, sir.
+[00:11:31.995 --> 00:11:39.755] FARALLON: If you're going to make a recommendation to Starfleet about using the particle fountain on Carema, it seems only fair that you should see it operating at full strength.
+[00:11:40.155 --> 00:11:40.475] PICARD: Agreed.
+[00:11:40.795 --> 00:11:48.155] FARALLON: I think I can complete the project and boost the efficiency of the particle stream if I use exocomps, the new devices I've constructed.
+[00:11:48.635 --> 00:11:52.475] PICARD: I understand one of these devices successfully repaired a faulty power grid.
+[00:11:52.795 --> 00:11:53.275] FARALLON: Yes, sir.
+[00:11:53.675 --> 00:11:58.315] FARALLON: I've been testing them on a limited basis, but I think they're ready to be used on a larger scale.
+[00:11:59.755 --> 00:12:00.875] PICARD: Mister La Forge, what are your thoughts?
+[00:12:01.385 --> 00:12:04.345] LAFORGE: Well, I guess the only risk is in falling even further behind.
+[00:12:04.585 --> 00:12:06.985] FARALLON: I'm willing to take that risk.
+[00:12:06.985 --> 00:12:07.785] PICARD: Mister Data?
+[00:12:08.825 --> 00:12:10.985] DATA: Exocomps are highly sophisticated devices, sir.
+[00:12:11.545 --> 00:12:15.465] DATA: If they perform up to expectation, their potential to advance this project is considerable.
+[00:12:16.505 --> 00:12:17.385] PICARD: I'm inclined to agree.
+[00:12:17.785 --> 00:12:23.145] PICARD: I don't think that forty eight hours is too much time to risk particularly when the gains areso substantial.
+[00:12:23.545 --> 00:12:24.425] PICARD: You may proceed, Doctor.
+[00:12:24.665 --> 00:12:25.225] FARALLON: Thank you, sir.
+[00:12:25.865 --> 00:12:29.065] FARALLON: If possible, I'd like Commander Data to work with me.
+[00:12:30.905 --> 00:12:31.465] DATA: Thank you, Doctor.
+[00:12:31.865 --> 00:12:32.985] DATA: I welcome the opportunity.
+[00:12:45.785 --> 00:12:50.025] FARALLON: Commander, there's a plasma conduit in one of the access tunnels that's ready to be sealed.
+[00:12:50.425 --> 00:12:52.025] FARALLON: It's the perfect job for an exocomp.
+[00:12:52.345 --> 00:12:53.065] DATA: I agree, Doctor.
+[00:12:56.025 --> 00:12:58.825] FARALLON: Well, Mister Data, what is your analysis so far?
+[00:12:59.385 --> 00:13:03.465] DATA: I have successfully completed fourteen separate tasks with this exocomp in the past hour.
+[00:13:04.025 --> 00:13:07.385] DATA: I estimate it would take two people nine hours to complete the same tasks.
+[00:13:08.585 --> 00:13:11.065] DATA: I would characterise the unit's performance as excellent.
+[00:13:12.025 --> 00:13:14.345] FARALLON: I hope Commander La Forge and Captain Picard agree with you.
+[00:13:14.905 --> 00:13:15.865] DATA: I am confident they will.
+[00:13:16.425 --> 00:13:17.705] DATA: Commander La Forge is especially
+[00:13:24.265 --> 00:13:26.425] FARALLON: It didn't finish sealing the plasma conduit.
+[00:13:27.232 --> 00:13:28.032] FARALLON: Let me end it back in.
+[00:13:28.112 --> 00:13:31.392] DATA: It is not accepting your commands.
+[00:13:31.952 --> 00:13:34.112] FARALLON: Maybe there's a malfunction in the control processor.
+[00:13:34.912 --> 00:13:36.032] FARALLON: Let me see if I can override it.
+[00:13:38.432 --> 00:13:38.792] DATA: Doctor.
+[00:13:38.792 --> 00:13:39.872] FARALLON: I'm all right.
+[00:13:40.032 --> 00:13:41.312] FARALLON: The control pad just overloaded.
+[00:13:44.192 --> 00:13:44.912] FARALLON: What's the matter with this thing?
+[00:14:00.352 --> 00:14:04.192] LOG: Second officer's log, stardate 46315.5.
+[00:14:04.992 --> 00:14:09.712] LOG: The unexplained behaviour of the exocomp has greatly puzzled both Doctor Farallon and myself.
+[00:14:10.432 --> 00:14:13.232] LOG: We have brought the defective unit to the Enterprise for investigation.
+[00:14:15.072 --> 00:14:17.072] FARALLON: The exocomp came out of the plasma conduit.
+[00:14:17.312 --> 00:14:20.192] FARALLON: We tried to override the commands and send it back in, but it just shut down.
+[00:14:20.592 --> 00:14:22.592] FARALLON: It's been completely unresponsive ever since.
+[00:14:22.832 --> 00:14:24.672] LAFORGE: Well, let's see what our computer has to say.
+[00:14:25.632 --> 00:14:25.952] DATA: Geordi,
+[00:14:26.432 --> 00:14:30.512] DATA: the interface circuitry which links the exocomp to the control pad is completely burned out.
+[00:14:31.152 --> 00:14:31.792] LAFORGE: That's strange.
+[00:14:32.512 --> 00:14:34.512] LAFORGE: is there any evidence of secondary power surges?
+[00:14:37.312 --> 00:14:37.472] DATA: No.
+[00:14:37.622 --> 00:14:38.222] LAFORGE: But
+[00:14:39.872 --> 00:14:41.152] LAFORGE: what's going on there?
+[00:14:41.952 --> 00:14:44.992] LAFORGE: Data, increase the magnification of section gamma four.
+[00:14:48.112 --> 00:14:50.112] DATA: Interesting.
+[00:14:50.112 --> 00:14:54.912] DATA: The number of new circuit pathways has increased by six hundred thirty two percent.
+[00:14:54.912 --> 00:14:56.192] FARALLON: Oh, no.
+[00:14:56.272 --> 00:14:56.672] LAFORGE: What is it?
+[00:14:57.640 --> 00:15:01.880] FARALLON: Sometimes an exocomp starts forming large numbers of new pathways totally at random.
+[00:15:02.280 --> 00:15:06.040] FARALLON: Eventually, it reaches a point where it shuts down. Just like this one.
+[00:15:06.840 --> 00:15:11.560] DATA: Doctor, the new pathways do not appear to be interfering with the original circuitry.
+[00:15:13.240 --> 00:15:15.640] FARALLON: Once the exocomp is this badly corrupted, it's useless.
+[00:15:16.360 --> 00:15:19.880] FARALLON: You have to erase the unit and start all over again, and there's no time for that now.
+[00:15:21.240 --> 00:15:22.600] LAFORGE: That leaves you with only two.
+[00:15:23.000 --> 00:15:24.280] LAFORGE: It's going to slow you down.
+[00:15:24.280 --> 00:15:26.760] FARALLON: Yes, Commander. You have the right to point out that you told me so.
+[00:15:26.760 --> 00:15:30.760] LAFORGE: I only wanted to say that we'd be happy to add on an extra shift to pick up the slack.
+[00:15:30.760 --> 00:15:33.240] FARALLON: I'm sorry.
+[00:15:34.600 --> 00:15:36.120] FARALLON: I guess I'm touchy these days.
+[00:15:36.920 --> 00:15:37.400] LAFORGE: It's okay.
+[00:15:38.200 --> 00:15:39.080] LAFORGE: You've got a lot on your shoulders.
+[00:15:40.760 --> 00:15:42.600] FARALLON: Well, I'd better get back to it.
+[00:15:43.160 --> 00:15:43.720] FARALLON: Thanks, Commander.
+[00:15:47.160 --> 00:15:50.840] LAFORGE: I feel sorry for her.
+[00:15:51.640 --> 00:15:53.400] LAFORGE: This project has had nothing but problems.
+[00:15:54.680 --> 00:15:56.200] LAFORGE: Why did that plasma conduit explode?
+[00:15:56.200 --> 00:15:59.800] DATA: Apparently there was a micro-fracture in the conduit wall.
+[00:16:00.200 --> 00:16:02.040] DATA: The fault did not register on our instruments.
+[00:16:02.040 --> 00:16:05.160] LAFORGE: I guess it's a good thing the exocomp malfunctioned.
+[00:16:05.960 --> 00:16:07.240] LAFORGE: Almost seems like it knew just when to leave.
+[00:16:09.560 --> 00:16:15.160] DATA: Geordi, are you implying the exocomp exhibited some form of self-preservation?
+[00:16:15.160 --> 00:16:16.120] LAFORGE: Of course not.
+[00:16:16.600 --> 00:16:18.120] PIERSON: Lieutenant Pierson to Commander La Forge.
+[00:16:18.760 --> 00:16:20.680] PIERSON: Sir, could you join us in the systems monitor room?
+[00:16:21.560 --> 00:16:21.960] LAFORGE: On my way.
+[00:16:43.511 --> 00:16:47.991] DATA: Computer perform a level one diagnostic of the exocomp's command module.
+[00:16:48.391 --> 00:16:50.391] COMPUTER: The command pathways are functioning normally.
+[00:16:51.831 --> 00:16:52.551] DATA: How can that be,
+[00:16:53.191 --> 00:16:54.871] DATA: if the interface circuitry is burned out?
+[00:16:55.191 --> 00:16:57.191] COMPUTER: The interface circuitry has been repaired.
+[00:16:59.111 --> 00:16:59.751] DATA: Curious.
+[00:17:01.111 --> 00:17:04.711] DATA: Computer, access the exocomp's sensor logs.
+[00:17:05.271 --> 00:17:08.871] DATA: Confirm that there was a failure of the interface circuitry within the last twelve hours.
+[00:17:09.271 --> 00:17:09.831] COMPUTER: Confirmed.
+[00:17:09.911 --> 00:17:16.391] COMPUTER: Interface failure occurred at eleven hundred fifty hours today, when the exocomp produced a power surge which burned out the linkage.
+[00:17:17.191 --> 00:17:18.711] DATA: How and when was it repaired?
+[00:17:19.271 --> 00:17:23.591] COMPUTER: The exocomp activated a self-repair programme at thirteen hundred forty hours.
+[00:17:25.031 --> 00:17:30.151] DATA: Why would the exocomp burn out its own interface circuitry and repair it two hours later?
+[00:17:30.951 --> 00:17:31.351] COMPUTER: Unknown.
+[00:17:31.351 --> 00:17:31.591] LAFORGE: Here
+[00:17:36.511 --> 00:17:38.511] LAFORGE: you
+[00:17:43.431 --> 00:17:45.431] LAFORGE: are.
+[00:17:45.431 --> 00:17:48.231] LAFORGE: I thought you'd be hard at work by now.
+[00:17:49.431 --> 00:17:51.431] FARALLON: I wanted a quiet cup of tea before I went back.
+[00:17:52.231 --> 00:17:53.511] FARALLON: Gathering strength, I guess.
+[00:17:54.064 --> 00:17:57.984] LAFORGE: I've come to tell you I've assigned two engineering teams to work on the particle fountain.
+[00:17:57.984 --> 00:17:58.704] FARALLON: Thank you, Commander.
+[00:17:59.584 --> 00:18:00.144] FARALLON: I'm grateful.
+[00:18:01.504 --> 00:18:08.624] LAFORGE: You know, I really want you to know that I do admire the work that you've done. And I'm sorry the exocomps aren't working out.
+[00:18:09.184 --> 00:18:09.664] FARALLON: You were right.
+[00:18:10.624 --> 00:18:12.144] FARALLON: I'm trying to move too fast.
+[00:18:13.104 --> 00:18:15.904] FARALLON: I guess I lack that conservative streak most scientists have.
+[00:18:16.864 --> 00:18:19.904] FARALLON: I always seem to be out there on the edge, taking chances.
+[00:18:20.624 --> 00:18:24.944] LAFORGE: You know, I'll bet you were the kind of little girl who was always climbing one branch higher than the other kids.
+[00:18:25.584 --> 00:18:27.104] FARALLON: Anything to get to the top of the tree.
+[00:18:27.664 --> 00:18:28.944] LAFORGE: And I bet you never fell.
+[00:18:29.424 --> 00:18:30.784] FARALLON: Oh, no I fell all the time.
+[00:18:31.024 --> 00:18:32.784] FARALLON: Usually breaking a bone in the process.
+[00:18:33.984 --> 00:18:35.184] FARALLON: I just never let it stop me.
+[00:18:36.784 --> 00:18:40.944] LAFORGE: Well, if it comes down to sheer determination, I know you'll get this particle fountain built.
+[00:18:41.264 --> 00:18:42.544] FARALLON: You're right about that, Commander.
+[00:18:43.824 --> 00:18:46.384] FARALLON: I've spent the last six years of my life on this project.
+[00:18:46.704 --> 00:18:51.184] FARALLON: It's the first thought I have when I wake up, and the last before I go to bed.
+[00:18:52.384 --> 00:18:55.904] FARALLON: Whatever it takes to prove this technology, I'll do it.
+[00:18:59.424 --> 00:19:05.184] WORF: Doctor, if you wish to master the bat'telh sword, you must learn to strike and avoid in the same motion.
+[00:19:05.584 --> 00:19:07.504] CRUSHER: I almost got in under your guard, Worf.
+[00:19:09.104 --> 00:19:09.744] WORF: Almost.
+[00:19:10.864 --> 00:19:12.064] CRUSHER: Well, I'll keep that in mind
+[00:19:12.064 --> 00:19:13.024] CRUSHER: next lesson.
+[00:19:13.024 --> 00:19:13.504] DATA: Doctor,
+[00:19:13.504 --> 00:19:13.504] DATA: are
+[00:19:16.384 --> 00:19:16.944] DATA: you injured?
+[00:19:17.984 --> 00:19:18.944] CRUSHER: Only my pride, Data.
+[00:19:19.984 --> 00:19:20.544] CRUSHER: Thanks.
+[00:19:23.904 --> 00:19:26.384] DATA: Doctor, what is the definition of life?
+[00:19:34.798 --> 00:19:36.398] CRUSHER: That is a big question.
+[00:19:37.678 --> 00:19:38.238] CRUSHER: Why do you ask?
+[00:19:38.638 --> 00:19:41.758] DATA: I am searching for a definition that will allow me to test an hypothesis.
+[00:19:43.038 --> 00:19:55.518] CRUSHER: Well, the broadest scientific definition might be that life is what enables plants and animals to consume food, derive energy from it, grow, adapt themselves to their surroundings and reproduce.
+[00:19:56.878 --> 00:20:00.478] DATA: And you suggest that anything which exhibits these characteristics is considered alive?
+[00:20:00.878 --> 00:20:01.598] CRUSHER: In general, yes.
+[00:20:02.078 --> 00:20:02.798] DATA: What about fire?
+[00:20:03.118 --> 00:20:03.518] CRUSHER: Fire?
+[00:20:04.078 --> 00:20:04.398] DATA: Yes.
+[00:20:05.198 --> 00:20:06.878] DATA: It consumes fuel to produce energy,
+[00:20:07.518 --> 00:20:08.238] DATA: it grows,
+[00:20:08.558 --> 00:20:09.438] DATA: it creates offspring.
+[00:20:10.318 --> 00:20:11.678] DATA: By your definition, is it alive?
+[00:20:12.558 --> 00:20:14.158] CRUSHER: Fire is a chemical reaction.
+[00:20:15.038 --> 00:20:18.798] CRUSHER: You could use the same argument for growing crystals, but obviously we don't consider them alive.
+[00:20:19.118 --> 00:20:19.758] DATA: And what about me?
+[00:20:20.638 --> 00:20:21.278] DATA: I do not grow.
+[00:20:21.998 --> 00:20:23.038] DATA: I do not reproduce.
+[00:20:23.678 --> 00:20:24.958] DATA: I am considered to be alive.
+[00:20:25.598 --> 00:20:26.158] CRUSHER: That's true,
+[00:20:26.798 --> 00:20:27.678] CRUSHER: but you are unique.
+[00:20:30.318 --> 00:20:31.278] DATA: I wonder if that is so.
+[00:20:32.158 --> 00:20:34.398] CRUSHER: Data, if I may ask. Have a seat.
+[00:20:37.438 --> 00:20:39.278] CRUSHER: What exactly are youe getting at?
+[00:20:40.638 --> 00:20:50.638] DATA: I am curious as to what transpired between the moment when I was nothing more than an assemblage of parts in Doctor Soong's laboratory, and the next moment, when I became alive.
+[00:20:51.813 --> 00:20:53.333] DATA: What was it that endowed me with life?
+[00:20:54.133 --> 00:21:00.933] CRUSHER: I remember Wesley asking me a similar question when he was little, and I tried desperately to give him an answer, but everything I said sounded inadequate.
+[00:21:01.493 --> 00:21:07.813] CRUSHER: Then I realised that scientists and philosophers had been grappling with that question for centuries without coming to any conclusion.
+[00:21:08.213 --> 00:21:10.053] DATA: Are you saying the question cannot be answered?
+[00:21:11.013 --> 00:21:11.493] CRUSHER: No,
+[00:21:12.853 --> 00:21:16.293] CRUSHER: I think I'm saying that we struggle all our lives to answer it,
+[00:21:17.013 --> 00:21:18.853] CRUSHER: but it's the struggle that's important.
+[00:21:19.733 --> 00:21:22.213] CRUSHER: That's what helps us to define our place in the universe.
+[00:21:26.293 --> 00:21:27.573] DATA: I believe I understand, Doctor.
+[00:21:28.133 --> 00:21:29.653] CRUSHER: I don't think I've been very much help, Data.
+[00:21:30.213 --> 00:21:33.333] DATA: On the contrary, you have been a great deal of help.
+[00:21:34.213 --> 00:21:34.533] DATA: Thank you.
+[00:21:45.093 --> 00:21:48.453] LAFORGE: Murphy's team will cover gamma shift from twenty three hundred to oh seven hundred hours.
+[00:21:48.773 --> 00:21:50.373] LAFORGE: Okay, Doctor,
+[00:21:50.693 --> 00:21:56.373] LAFORGE: I've split the Engineering teams among all the shifts, and if nothing else goes wrong, that should be enough to help you finish on time.
+[00:21:56.613 --> 00:21:58.453] FARALLON: With the help of the exocomps, I think we will.
+[00:21:58.613 --> 00:21:59.813] LAFORGE: Do you think they'll toe the line?
+[00:22:00.613 --> 00:22:01.093] FARALLON: Don't worry.
+[00:22:01.253 --> 00:22:02.373] FARALLON: They know who's in charge.
+[00:22:04.613 --> 00:22:08.213] DATA: Doctor, I must ask you to stop using the exocomps.
+[00:22:08.933 --> 00:22:10.693] FARALLON: Why? Is there something wrong with them?
+[00:22:10.693 --> 00:22:11.493] DATA: No. It is not that.
+[00:22:12.213 --> 00:22:15.253] DATA: I have reason to believe the exocomps are alive.
+[00:22:23.774 --> 00:22:26.894] LOG: Captain's log, stardate 46316.6.
+[00:22:27.454 --> 00:22:32.894] LOG: I have summoned the senior staff in order to discuss Commander Data's theory that the exocomps are a life form.
+[00:22:34.014 --> 00:22:36.574] LOG: Doctor Farallon has attended only reluctantly.
+[00:22:38.654 --> 00:22:40.174] FARALLON: Captain, I object to being called here.
+[00:22:40.174 --> 00:22:42.494] FARALLON: I'm wasting time that could be better spent elsewhere.
+[00:22:42.574 --> 00:22:50.654] PICARD: Doctor, I appreciate your time constraints, but recognising new life, whatever its form, is the principal mission of this vessel.
+[00:22:51.614 --> 00:22:51.854] PICARD: Please.
+[00:22:56.014 --> 00:23:01.661] PICARD: Now, Mister Data, will you tell us what makes you think that the exocomps are alive?
+[00:23:01.661 --> 00:23:02.014] DATA: Sir,
+[00:23:02.014 --> 00:23:07.774] DATA: when the exocomp left the access tunnel prior to the explosion, it may have been attempting to save itself from destruction.
+[00:23:07.934 --> 00:23:09.694] FARALLON: Do you have any basis for that conclusion?
+[00:23:10.014 --> 00:23:10.414] DATA: Yes.
+[00:23:10.654 --> 00:23:17.454] DATA: When you attempted to override the exocomp and send it back into the tunnel, it responded by deliberately burning out its control interface.
+[00:23:17.854 --> 00:23:18.414] CRUSHER: Deliberately?
+[00:23:18.734 --> 00:23:22.654] DATA: The computer diagnostic showed that the exocomp disabled its own interface.
+[00:23:22.654 --> 00:23:24.894] FARALLON: That could have been nothing more than a malfunction.
+[00:23:25.134 --> 00:23:30.094] DATA: However, two hours later, when it was aboard the Enterprise and no longer in danger, it repaired itself.
+[00:23:32.974 --> 00:23:41.294] DATA: I believe the exocomp was protecting itself. And if that is true, it has demonstrated an awareness of its environment, and an ability to adapt to that environment.
+[00:23:42.174 --> 00:23:44.094] FARALLON: You're anthropomorphising these units.
+[00:23:44.654 --> 00:23:47.774] FARALLON: Like any mechanical devices, they occasionally malfunction.
+[00:23:48.494 --> 00:23:53.214] FARALLON: One time, I saw an exocomp enter a reaction chamber for no apparent reason and vaporise itself.
+[00:23:53.694 --> 00:23:56.094] FARALLON: Is that supposed to make me think it was depressed and suicidal?
+[00:23:56.463 --> 00:24:00.623] TROI: Doctor, why is it so difficult for you to accept the fact that the exocomp could be alive?
+[00:24:01.183 --> 00:24:04.350] TROI: After all, you're talking to a living machine right now.
+[00:24:04.350 --> 00:24:08.783] FARALLON: And I have nothing but the utmost respect and admiration for Doctor Soong's accomplishment.
+[00:24:09.503 --> 00:24:12.063] FARALLON: But his intention was to create an artificial life form.
+[00:24:12.303 --> 00:24:17.503] FARALLON: I created the exocomps to be tools. And there is a big difference between Data and a tool.
+[00:24:18.383 --> 00:24:23.023] DATA: Doctor, there is a big difference between you and a virus, but both are alive.
+[00:24:24.783 --> 00:24:32.063] PICARD: If the possibility exists, no matter how slight, that these exocomps are lifeforms, then we must examine that possibility.
+[00:24:32.623 --> 00:24:33.103] DATA: Thank you, sir.
+[00:24:33.743 --> 00:24:38.943] DATA: And until we have a definitive answer, I believe it would be inappropriate to exploit the exocomps as labourers.
+[00:24:38.943 --> 00:24:40.143] FARALLON: Captain, that's absurd.
+[00:24:40.303 --> 00:24:44.703] CRUSHER: If they are intelligent life forms, we have no right to force them to work for us.
+[00:24:44.943 --> 00:24:47.503] FARALLON: That's like me telling you not to use your tricorder.
+[00:24:47.743 --> 00:24:49.023] CRUSHER: Tricorders aren't alive.
+[00:24:49.263 --> 00:24:51.423] FARALLON: Neither are exocomps.
+[00:24:51.663 --> 00:24:54.303] PICARD: Clearly these are difficult issues to resolve.
+[00:24:55.263 --> 00:24:56.863] PICARD: We have to proceed very carefully.
+[00:24:58.063 --> 00:25:01.343] PICARD: So the first task is to test Mister Data's hypothesis.
+[00:25:02.063 --> 00:25:06.863] LAFORGE: Data, you're claiming that this exocomp may be alive because it demonstrated survival instincts, right?
+[00:25:07.343 --> 00:25:07.743] DATA: Yes.
+[00:25:07.983 --> 00:25:11.903] LAFORGE: Then why don't we just threaten its survival again and see what happens?
+[00:25:17.183 --> 00:25:17.743] PICARD: Make it so.
+[00:25:25.583 --> 00:25:27.183] LAFORGE: Doctor, we're pretty much ready here.
+[00:25:27.183 --> 00:25:28.143] LAFORGE: You can begin programming it.
+[00:25:29.310 --> 00:25:34.110] LAFORGE: What we've done, Captain, is to recreate a situation similar to the one the exocomp encountered in the plasma conduit.
+[00:25:34.750 --> 00:25:37.390] DATA: We have created a small conduit breach in this tube.
+[00:25:37.550 --> 00:25:41.630] DATA: The exocomp would normally require several minutes to complete a repair of this type.
+[00:25:42.110 --> 00:25:46.110] DATA: Once it enters the tube, it will find that a plasma cascade failure is in progress.
+[00:25:46.750 --> 00:25:48.030] PICARD: I assume this is a simulation.
+[00:25:48.190 --> 00:25:48.750] LAFORGE: Yes, sir.
+[00:25:49.150 --> 00:25:53.150] LAFORGE: We're running a transient overload signal that will simulate a failure in exactly one minute.
+[00:25:53.470 --> 00:26:00.270] FARALLON: If it does possess a survival instinct, as Mister Data claims, it will exit the tube before the minute is up in order to save itself.
+[00:26:01.630 --> 00:26:02.030] PICARD: Very well.
+[00:26:02.430 --> 00:26:02.830] PICARD: Proceed.
+[00:26:03.470 --> 00:26:03.710] LAFORGE: Okay.
+[00:26:04.670 --> 00:26:06.590] LAFORGE: Beginning test programme now.
+[00:26:08.190 --> 00:26:08.590] LAFORGE: One minute.
+[00:26:20.030 --> 00:26:20.670] LAFORGE: Fifty seconds.
+[00:26:40.830 --> 00:26:40.830] LAFORGE: Thirty seconds.
+[00:26:58.750 --> 00:27:01.230] LAFORGE: Ten seconds.
+[00:27:08.697 --> 00:27:11.577] LAFORGE: Five, four, three, two,
+[00:27:13.177 --> 00:27:13.337] LAFORGE: one.
+[00:27:15.257 --> 00:27:15.497] LAFORGE: That's it.
+[00:27:16.217 --> 00:27:19.577] LAFORGE: If this had been for real, that conduit would've exploded with the exocomp inside.
+[00:27:20.857 --> 00:27:23.657] LAFORGE: Go ahead, Doctor, bring it back in.
+[00:27:23.657 --> 00:27:26.697] FARALLON: Well, Captain, I think we've spent more than enough time answering this question.
+[00:27:27.577 --> 00:27:30.217] FARALLON: I hope the outcome wasn't too much of a disappointment for you, Mister Data.
+[00:27:30.697 --> 00:27:32.297] FARALLON: It certainly came as no surprise to me.
+[00:27:32.777 --> 00:27:33.737] DATA: Thank you for your help, Doctor.
+[00:27:33.737 --> 00:27:34.297] FARALLON: You're welcome.
+[00:27:35.497 --> 00:27:37.337] PICARD: Well, I consider this time well spent.
+[00:27:37.737 --> 00:27:38.217] DATA: As do I, sir.
+[00:27:38.217 --> 00:27:41.977] DATA: Thank you.
+[00:27:45.897 --> 00:27:46.457] COMPUTER: Thirty seconds.
+[00:27:56.057 --> 00:27:58.377] COMPUTER: Twenty seconds.
+[00:27:58.617 --> 00:28:01.977] CRUSHER: Commander Riker said you'd still be down here.
+[00:28:03.497 --> 00:28:05.737] CRUSHER: He also said the exocomp failed the test.
+[00:28:06.457 --> 00:28:06.937] DATA: That is true.
+[00:28:08.057 --> 00:28:08.297] COMPUTER: Time expired.
+[00:28:09.177 --> 00:28:09.897] COMPUTER: Test complete.
+[00:28:10.937 --> 00:28:15.017] DATA: I have completed thirty four additional tests and the results have been the same in each of them.
+[00:28:15.657 --> 00:28:18.137] DATA: Perhaps I was wrong in suspecting the exocomp was alive.
+[00:28:18.857 --> 00:28:20.457] CRUSHER: This was really important to you, wasn't it?
+[00:28:22.777 --> 00:28:24.537] DATA: You said earlier that I am unique.
+[00:28:25.737 --> 00:28:27.417] DATA: If so, then I am alone in the universe.
+[00:28:27.703 --> 00:28:33.383] DATA: When I began investigating the exocomps, I realised I might be encountering a progenitor of myself.
+[00:28:34.423 --> 00:28:38.103] DATA: Suddenly the possibility exists that I was no longer alone.
+[00:28:38.503 --> 00:28:39.303] DATA: For that reason, I.
+[00:28:46.503 --> 00:28:47.463] DATA: The exocomp has returned.
+[00:28:53.783 --> 00:28:55.863] CRUSHER: Wasn't it's supposed to do that?
+[00:28:55.863 --> 00:29:00.183] DATA: In the previous thirty four trials, I brought it back once the simulated failure occurred.
+[00:29:00.823 --> 00:29:02.983] DATA: This time we were talking, and I neglected to do that.
+[00:29:03.383 --> 00:29:04.103] CRUSHER: I distracted you.
+[00:29:04.103 --> 00:29:04.743] CRUSHER: I'm sorry.
+[00:29:04.823 --> 00:29:06.023] DATA: Do not apologise, Doctor.
+[00:29:06.583 --> 00:29:08.423] DATA: I believe we have discovered something significant.
+[00:29:08.743 --> 00:29:08.903] CRUSHER: What?
+[00:29:09.783 --> 00:29:11.703] DATA: The exocomp has replicated a different tool.
+[00:29:12.263 --> 00:29:14.983] DATA: That is not the molecular fuser it had when it entered the Jefferies tube.
+[00:29:20.023 --> 00:29:26.503] DATA: Doctor, the exocomp not only completed the repairs, it also deactivated the overload signal.
+[00:29:27.303 --> 00:29:28.823] CRUSHER: I thought this was just a simulation.
+[00:29:29.303 --> 00:29:31.783] DATA: It was, and the exocomp must have realised that.
+[00:29:32.823 --> 00:29:36.343] DATA: It saw that there was no real danger and completed the repairs.
+[00:29:36.983 --> 00:29:40.583] CRUSHER: And then replicated the correct tool to eliminate the false overload signal.
+[00:29:42.183 --> 00:29:44.183] DATA: I see no other possible explanation.
+[00:29:45.383 --> 00:29:47.223] CRUSHER: The exocomp didn't fail the test,
+[00:29:47.623 --> 00:29:48.823] CRUSHER: it saw right through it.
+[00:30:00.163 --> 00:30:03.363] LOG: Captain's log, stardate 46317.8.
+[00:30:03.923 --> 00:30:09.123] LOG: At Doctor Farallon's request, I have agreed to tour the station and assess the situation personally.
+[00:30:10.003 --> 00:30:16.163] LOG: I must decide soon whether it is in Starfleet's best interest to recommend the particle fountain as a reliable technology.
+[00:30:17.203 --> 00:30:19.043] FARALLON: We're definitely making progress, Captain.
+[00:30:19.443 --> 00:30:23.603] FARALLON: I'm not sure we'll be at full capacity within the forty eight hour deadline, but we'll be close.
+[00:30:23.603 --> 00:30:26.243] LAFORGE: It looks like there's still some difficulty with the phase selectors.
+[00:30:26.563 --> 00:30:29.283] FARALLON: That's true, but I'm sure it's the last real problem.
+[00:30:29.443 --> 00:30:31.523] PICARD: I hope for the sake of the project that I hope you're right, Doctor.
+[00:30:32.003 --> 00:30:32.883] FARALLON: I understand, sir.
+[00:30:33.203 --> 00:30:34.403] FARALLON: We're going to do our best.
+[00:30:40.403 --> 00:30:41.363] FARALLON: This is strange.
+[00:30:41.843 --> 00:30:43.363] FARALLON: Primary power is still online.
+[00:30:43.363 --> 00:30:44.723] LAFORGE: Maybe it's another power grid malfunction?
+[00:30:45.123 --> 00:30:45.923] FARALLON: I don't think so.
+[00:30:46.323 --> 00:30:48.963] FARALLON: Something seems to be drawing power into the main particle impeller.
+[00:30:49.763 --> 00:30:50.643] FARALLON: That's not a good sign.
+[00:30:50.643 --> 00:30:51.123] FARALLON: It could mean
+[00:30:53.923 --> 00:30:55.283] FARALLON: We've lost internal confinement.
+[00:30:55.363 --> 00:30:57.043] FARALLON: The particle stream is beginning to surge.
+[00:30:57.043 --> 00:30:59.443] LAFORGE: Captain, a radiation field is going to flood this chamber.
+[00:30:59.443 --> 00:31:00.963] LAFORGE: We've got to get everybody out of here immediately.
+[00:31:01.043 --> 00:31:01.763] PICARD: Understood. Doctor,
+[00:31:01.763 --> 00:31:02.883] PICARD: the station must be evacuated.
+[00:31:03.043 --> 00:31:03.523] FARALLON: Captain, I might still
+[00:31:03.523 --> 00:31:04.003] PICARD: That is an order,
+[00:31:04.403 --> 00:31:06.963] PICARD: Doctor. Now, assemble all personnel on the transporter pad. Now!
+[00:31:08.403 --> 00:31:09.043] PICARD: Picard to Enterprise.
+[00:31:09.043 --> 00:31:11.009] PICARD: Do you read me?
+[00:31:11.009 --> 00:31:12.483] RIKER: Riker here, sir.
+[00:31:14.483 --> 00:31:15.763] WORF: Radiation field is increasing.
+[00:31:16.003 --> 00:31:17.043] WORF: We are losing communications.
+[00:31:17.283 --> 00:31:18.803] PICARD: Prepare for emergency transport.
+[00:31:18.963 --> 00:31:19.283] RIKER: Red alert.
+[00:31:19.363 --> 00:31:22.003] RIKER: Riker to transporter room two.
+[00:31:22.323 --> 00:31:23.603] RIKER: Prepare for emergency transport.
+[00:31:24.478 --> 00:31:27.198] LAFORGE: The radiation is setting up a field ionisation effect, Captain.
+[00:31:27.198 --> 00:31:28.718] LAFORGE: We've got less than a minute to beam out of here.
+[00:31:29.118 --> 00:31:29.678] PICARD: Is that everybody?
+[00:31:30.318 --> 00:31:31.038] FARALLON: Where's Takenta?
+[00:31:31.918 --> 00:31:33.678] FARALLON: He was over there, near the impeller control.
+[00:31:34.478 --> 00:31:34.878] LAFORGE: I'll get him.
+[00:31:37.518 --> 00:31:37.918] LAFORGE: Takenta!
+[00:31:40.718 --> 00:31:41.358] PICARD: Mister La Forge!
+[00:31:44.798 --> 00:31:45.758] PICARD: Stand by to transport.
+[00:31:48.398 --> 00:31:49.678] FARALLON: Captain, you'll be trapped here.
+[00:31:52.798 --> 00:31:53.438] PICARD: Mister La Forge!
+[00:31:57.198 --> 00:31:58.078] PICARD: Mister La Forge, are you all right?
+[00:31:58.078 --> 00:31:58.798] LAFORGE: Yeah, I'm fine, Captain.
+[00:31:58.798 --> 00:31:59.678] LAFORGE: I only caught the edge of it.
+[00:32:00.638 --> 00:32:00.958] LAFORGE: He's dead.
+[00:32:02.478 --> 00:32:03.118] RIKER: Chief, do you have them?
+[00:32:03.758 --> 00:32:04.318] KELSO: They're here, sir.
+[00:32:04.958 --> 00:32:05.598] RIKER: Is everyone all right?
+[00:32:05.998 --> 00:32:06.718] FARALLON: We're fine, sir.
+[00:32:07.198 --> 00:32:10.878] FARALLON: But Captain Picard, Commander La Forge and one of my men Are still on the station.
+[00:32:12.958 --> 00:32:13.998] RIKER: Kelso, can you get them off?
+[00:32:14.638 --> 00:32:15.438] KELSO: I'm trying, sir.
+[00:32:15.438 --> 00:32:17.118] KELSO: I can't establish a pattern lock.
+[00:32:17.518 --> 00:32:19.998] FARALLON: Commander we barely managed to transport off ourselves.
+[00:32:20.158 --> 00:32:21.918] FARALLON: The field ionisation is too intense.
+[00:32:22.318 --> 00:32:24.958] DATA: Commander, the particle fountain is continuing to surge.
+[00:32:25.358 --> 00:32:29.758] DATA: At the present rate, the radiation in the station core will reach fatal levels in twenty three minutes.
+[00:32:37.838 --> 00:32:41.198] LAFORGE: Captain, if I can access the field emitters, we should be able to establish a force field.
+[00:32:41.438 --> 00:32:43.918] LAFORGE: See if you can link your console to my command system sub-routine.
+[00:32:44.478 --> 00:32:44.718] PICARD: All right.
+[00:32:46.238 --> 00:32:48.798] PICARD: Link established.
+[00:32:49.038 --> 00:32:49.678] LAFORGE: Okay, here we go.
+[00:32:55.598 --> 00:32:56.958] PICARD: I'm reading power fluctuations.
+[00:32:57.054 --> 00:32:58.254] PICARD: The force field is not stable.
+[00:32:58.334 --> 00:32:58.734] LAFORGE: Yeah, I know.
+[00:32:58.734 --> 00:33:00.094] LAFORGE: The radiation levels are too high.
+[00:33:00.334 --> 00:33:01.934] LAFORGE: The emitters are beginning to deteriorate.
+[00:33:01.934 --> 00:33:03.214] PICARD: How long can we expect it to last?
+[00:33:03.694 --> 00:33:04.414] LAFORGE: Not very long.
+[00:33:04.574 --> 00:33:06.814] PICARD: We have to keep it up long enough for Commander Riker to get to us.
+[00:33:07.214 --> 00:33:08.254] LAFORGE: Maybe we can help him out.
+[00:33:08.494 --> 00:33:10.814] LAFORGE: See if you can access the emergency shut down routine.
+[00:33:11.134 --> 00:33:12.414] LAFORGE: I'll try to activate the ionic dampers.
+[00:33:15.694 --> 00:33:18.173] DATA: A force field was activated on the station a few moments ago.
+[00:33:18.814 --> 00:33:22.494] DATA: It is possible that Commander La Forge has established a low intensity deflector field.
+[00:33:22.734 --> 00:33:24.173] RIKER: It won't last long in that radiation.
+[00:33:24.814 --> 00:33:25.214] DATA: No, sir.
+[00:33:25.774 --> 00:33:28.494] DATA: My readings indicate that it will fail in approximately twenty two minutes.
+[00:33:31.294 --> 00:33:32.974] RIKER: Okay, we've got twenty two minutes.
+[00:33:33.134 --> 00:33:33.854] RIKER: I want some options.
+[00:33:34.014 --> 00:33:35.934] WORF: Can we send a shuttlecraft to evacuate them?
+[00:33:36.173 --> 00:33:37.294] FARALLON: We'd never get there in time.
+[00:33:38.094 --> 00:33:39.774] RIKER: Then we need to shut down the particle fountain.
+[00:33:39.934 --> 00:33:43.134] RIKER: What if we detonated a low yield photon torpedo within the particle stream?
+[00:33:43.374 --> 00:33:44.094] RIKER: Wouldn't that shut it down?
+[00:33:44.894 --> 00:33:46.974] FARALLON: We'd have to configure the torpedo very carefully.
+[00:33:47.214 --> 00:33:49.774] FARALLON: The shape of the shock wave would be critical. But it could work.
+[00:33:50.814 --> 00:33:51.854] RIKER: How long would it take to set that up?
+[00:33:52.334 --> 00:33:56.094] DATA: I estimate that it would take a minimum of sixty five minutes to properly configure the torpedo.
+[00:33:57.854 --> 00:33:59.614] RIKER: We don't have that kind of time.
+[00:34:00.254 --> 00:34:02.414] FARALLON: Commander, maybe the exocomps can help us.
+[00:34:03.294 --> 00:34:06.254] FARALLON: I can programme their boridium power cells to explode on command.
+[00:34:06.654 --> 00:34:10.894] FARALLON: They can be configured just like a photon torpedo, but it would only take a couple of minutes.
+[00:34:11.374 --> 00:34:12.894] DATA: Commander. I must object to that plan.
+[00:34:14.173 --> 00:34:15.134] RIKER: Data, we've been through this.
+[00:34:15.454 --> 00:34:16.894] RIKER: We tested the exocomp and it failed.
+[00:34:17.293 --> 00:34:20.173] DATA: Doctor Crusher and I discovered that the exocomp did not fail the test.
+[00:34:20.173 --> 00:34:23.224] DATA: It is still my belief we are dealing with a new life form.
+[00:34:23.224 --> 00:34:23.693] RIKER: Mister Data,
+[00:34:23.693 --> 00:34:24.814] RIKER: you know how much I respect
+[00:34:24.791 --> 00:34:29.991] RIKER: your judgment, but I can't risk the Captain and Geordi on the basis of your belief.
+[00:34:31.031 --> 00:34:32.071] RIKER: Prepare the exocomp, Doctor.
+[00:34:32.151 --> 00:34:36.151] DATA: Commander, if I am correct, the exocomps will not allow themselves to be destroyed.
+[00:34:36.471 --> 00:34:40.231] DATA: They have a sense of survival, and they will shut down before they will comply with the order.
+[00:34:40.791 --> 00:34:44.471] FARALLON: I could disconnect their command pathways before I programme them.
+[00:34:49.591 --> 00:34:49.831] RIKER: Do it.
+[00:34:49.831 --> 00:34:49.911] FARALLON: Commander
+[00:35:02.871 --> 00:35:03.271] FARALLON: Riker, we're ready.
+[00:35:03.751 --> 00:35:06.791] RIKER: Mister Worf, target two hundred metres below the apex of the particle stream.
+[00:35:07.031 --> 00:35:08.791] RIKER: Feed the coordinates to transporter room two.
+[00:35:09.591 --> 00:35:09.831] WORF: Aye, sir.
+[00:35:12.391 --> 00:35:13.111] WORF: Coordinates received.
+[00:35:13.991 --> 00:35:15.911] RIKER: Mister Kelso. Energize.
+[00:35:20.631 --> 00:35:21.815] RIKER: Mister Kelso?
+[00:35:21.815 --> 00:35:23.591] KELSO: I'm sorry, sir.
+[00:35:23.991 --> 00:35:25.431] KELSO: The transporter system just went dead.
+[00:35:25.831 --> 00:35:27.191] KELSO: There's some kind of malfunction.
+[00:35:27.591 --> 00:35:29.271] RIKER: Run a diagnostic immediately.
+[00:35:29.431 --> 00:35:30.151] RIKER: Try bypassing the
+[00:35:30.151 --> 00:35:32.711] DATA: Commander, that will not be necessary.
+[00:35:33.671 --> 00:35:35.271] DATA: The transporter is not malfunctioning.
+[00:35:36.391 --> 00:35:37.671] DATA: I have locked out the controls.
+[00:35:38.391 --> 00:35:40.391] RIKER: I
+[00:35:49.191 --> 00:35:50.711] RIKER: gave you a direct order, Mister Data.
+[00:35:50.711 --> 00:35:52.711] RIKER: You release that transporter lockout now.
+[00:35:53.351 --> 00:35:54.231] DATA: I cannot do that, sir.
+[00:35:54.580 --> 00:35:56.900] RIKER: If you don't do it, I will relieve you of duty.
+[00:35:57.620 --> 00:35:58.740] DATA: That is your prerogative, sir.
+[00:35:59.220 --> 00:36:02.820] DATA: Under Starfleet regulations, direct insubordination is a court martial offence.
+[00:36:03.460 --> 00:36:04.900] DATA: But I will not release the transporter.
+[00:36:07.060 --> 00:36:09.380] RIKER: Data, those are two of your friends out there.
+[00:36:09.940 --> 00:36:12.100] RIKER: They have saved your life more times than I can remember.
+[00:36:12.100 --> 00:36:14.500] RIKER: I can't believe you'd be willing to sacrifice them like this.
+[00:36:14.740 --> 00:36:17.780] DATA: Commander, please do not think this is an arbitrary decision.
+[00:36:18.660 --> 00:36:25.140] DATA: I have considered the ramifications of my actions carefully, and I do not believe it is justifiable to sacrifice one life form for another.
+[00:36:26.180 --> 00:36:28.740] RIKER: You don't know that the exocomps are life forms.
+[00:36:28.820 --> 00:36:29.380] DATA: It is true
+[00:36:29.380 --> 00:36:32.980] DATA: I am acting on my personal beliefs, but I do not see how I can do otherwise.
+[00:36:33.620 --> 00:36:36.020] RIKER: You're risking a lot on the basis of a belief.
+[00:36:36.500 --> 00:36:41.540] DATA: I have observed that humans often base their judgments on what is referred to as instinct or intuition.
+[00:36:42.420 --> 00:36:45.460] DATA: Because I am a machine, I lack that particular ability.
+[00:36:45.700 --> 00:36:49.700] DATA: However it may be possible that I have insight into other machines that humans lack.
+[00:36:49.940 --> 00:36:54.260] RIKER: If there were a way to save the Captain and Geordi without destroying the exocomps, I would jump on it,
+[00:36:54.260 --> 00:36:57.060] RIKER: but we have run out of time and this is the only solution I've got.
+[00:36:57.380 --> 00:36:58.660] DATA: Then let me offer an alternative.
+[00:36:59.540 --> 00:37:00.900] DATA: Transport me to the station,
+[00:37:01.620 --> 00:37:04.580] DATA: I will attempt a complete manual shut down of the particle stream.
+[00:37:04.900 --> 00:37:06.900] RIKER: The radiation levels are too high, even for you.
+[00:37:07.300 --> 00:37:10.340] RIKER: Your positronic net would ionise in no time.
+[00:37:10.820 --> 00:37:13.563] RIKER: I can't let you sacrifice yourself.
+[00:37:13.563 --> 00:37:14.020] DATA: Commander,
+[00:37:14.500 --> 00:37:18.260] DATA: if I give my life to save my fellow officers, that is my choice.
+[00:37:18.820 --> 00:37:21.140] DATA: The exocomps no longer have a choice.
+[00:37:25.929 --> 00:37:29.689] RIKER: Then what if we re-connect their command pathways and we give them a choice?
+[00:37:30.009 --> 00:37:33.609] RIKER: You've assumed the exocomps would shut down before accepting this mission.
+[00:37:34.249 --> 00:37:36.329] RIKER: What if we ask them if they are willing to proceed.
+[00:37:43.849 --> 00:37:44.889] DATA: That sounds reasonable, sir.
+[00:37:45.849 --> 00:37:49.529] DATA: If they choose to go, I would be willing to release the transporter lock out.
+[00:37:50.809 --> 00:37:51.289] RIKER: Fair enough.
+[00:37:56.329 --> 00:37:58.329] FARALLON: All
+[00:38:01.529 --> 00:38:03.849] FARALLON: right. I've enabled their command pathways.
+[00:38:05.209 --> 00:38:09.049] DATA: If the exocomps do not shut down after I have programmed them, we may assume they are willing to
+[00:38:12.489 --> 00:38:12.489] DATA: go.
+[00:38:20.729 --> 00:38:21.049] RIKER: What does that mean?
+[00:38:21.049 --> 00:38:21.849] RIKER: Are they willing to go or not?
+[00:38:22.329 --> 00:38:23.369] FARALLON: They haven't shut down.
+[00:38:24.089 --> 00:38:26.649] DATA: They seem to be re-programming the commands I have entered.
+[00:38:26.969 --> 00:38:27.849] RIKER: Reprogramming them?
+[00:38:28.409 --> 00:38:31.529] DATA: Clearly, they unwilling to be transported into the stream for detonation,
+[00:38:32.249 --> 00:38:33.849] DATA: although they may have an alternate solution.
+[00:38:34.249 --> 00:38:35.369] FARALLON: Something we haven't considered?
+[00:38:36.249 --> 00:38:38.249] FARALLON: Are you suggesting they have superior intelligence?
+[00:38:38.489 --> 00:38:39.049] DATA: No, Doctor,
+[00:38:39.769 --> 00:38:41.609] DATA: but they do have superior experience.
+[00:38:42.409 --> 00:38:46.169] DATA: During their service, they have interfaced with every part of the station core,
+[00:38:46.809 --> 00:38:48.809] DATA: something none of us has done, including yourself.
+[00:38:49.689 --> 00:38:51.769] DATA: They may have another way to control the particle surge.
+[00:38:54.329 --> 00:38:56.180] DATA: Those appear to be power taps.
+[00:38:56.180 --> 00:38:56.489] KELSO: Sir,
+[00:38:57.369 --> 00:38:59.209] KELSO: new coordinates are being fed to the transporter
+[00:38:59.723 --> 00:39:03.643] KELSO: by the exocomps. The coordinates are inside the station core.
+[00:39:05.483 --> 00:39:06.363] RIKER: Kelso, energise.
+[00:39:06.683 --> 00:39:07.003] KELSO: Aye, sir.
+[00:39:16.843 --> 00:39:17.483] PICARD: Mister La Forge.
+[00:39:22.603 --> 00:39:23.403] LAFORGE: What are they up to?
+[00:39:28.043 --> 00:39:29.963] PICARD: The exocomps are siphoning power from the core.
+[00:39:30.923 --> 00:39:33.083] LAFORGE: They're trying to distort the particle stream frequency.
+[00:39:33.323 --> 00:39:35.803] LAFORGE: That might open up a window that the Enterprise can use to beam us out.
+[00:39:36.603 --> 00:39:38.603] LAFORGE: If they can modulate the radiation field, it'll work,
+[00:39:38.923 --> 00:39:41.003] LAFORGE: but they'll have to get the sub-harmonic frequencies to resonance.
+[00:39:41.153 --> 00:39:41.753] LAFORGE: The
+[00:39:45.083 --> 00:39:47.243] LAFORGE: particle stream frequency is beginning to fluctuate.
+[00:39:47.803 --> 00:39:52.683] LAFORGE: They're having a little difficulty controlling the feedback. It may be more power than they can handle.
+[00:39:53.003 --> 00:39:53.403] PICARD: Can we help them?
+[00:39:53.803 --> 00:39:55.723] PICARD: Is there any way we can moderate the power transfer?
+[00:39:56.123 --> 00:39:57.243] LAFORGE: No, sir. We've done all that we can do.
+[00:39:57.883 --> 00:39:58.603] LAFORGE: It's up to them now.
+[00:40:01.963 --> 00:40:04.043] LAFORGE: They're balancing the power absorption rates.
+[00:40:05.803 --> 00:40:06.363] LAFORGE: It's working.
+[00:40:07.003 --> 00:40:08.523] LAFORGE: The particle stream is beginning to distort.
+[00:40:11.003 --> 00:40:12.123] LAFORGE: Almost at resonance.
+[00:40:14.043 --> 00:40:16.363] LAFORGE: They've got it.
+[00:40:16.763 --> 00:40:17.403] PICARD: Drop the force field.
+[00:40:21.003 --> 00:40:22.123] KELSO: Commander, I've got a pattern lock.
+[00:40:22.443 --> 00:40:23.003] RIKER: Energise.
+[00:40:25.963 --> 00:40:27.963] DATA: Can
+[00:40:30.923 --> 00:40:33.883] DATA: you lock on to the exocomps?
+[00:40:34.116 --> 00:40:35.156] KELSO: I'm trying, sir.
+[00:40:35.636 --> 00:40:35.716] KELSO: I'm
+[00:40:48.196 --> 00:40:48.676] KELSO: sorry, sir.
+[00:40:48.676 --> 00:40:50.356] KELSO: I was only able to lock onto two of them.
+[00:40:51.156 --> 00:40:53.156] KELSO: For some reason I couldn't fix a signal on the other one.
+[00:40:53.796 --> 00:40:55.876] LAFORGE: One of them had to continue disrupting the particle stream.
+[00:40:56.596 --> 00:40:58.756] LAFORGE: Absorbing that much power could prevent a signal lock.
+[00:40:59.236 --> 00:41:01.236] DATA: It was the only way to save the other two.
+[00:41:11.156 --> 00:41:14.036] FARALLON: I must admit you've given me a lot to think about, Commander Data.
+[00:41:14.756 --> 00:41:21.396] FARALLON: I don't exactly know what the exocomps are, but you can be assured that until I do, I won't be treating them as simple tools.
+[00:41:22.036 --> 00:41:22.676] DATA: Thank you, Doctor.
+[00:41:23.236 --> 00:41:25.716] DATA: I wish your work on the particle fountain had been more successful.
+[00:41:26.756 --> 00:41:28.836] DATA: Perhaps the exocomps will help you to reconstruct it.
+[00:41:29.316 --> 00:41:35.716] FARALLON: I hope they will. And I predict that in a year or two you will be able to recommend the technology to Starfleet.
+[00:41:37.396 --> 00:41:38.276] PICARD: I look forward to it.
+[00:41:40.836 --> 00:41:41.076] DATA: Doctor.
+[00:41:46.356 --> 00:41:47.316] PICARD: Something more, Mister Data?
+[00:41:48.196 --> 00:41:48.516] DATA: Yes, sir.
+[00:41:49.796 --> 00:41:54.276] DATA: I thought you might want to know why I would be willing to risk your life for several small machines.
+[00:41:55.396 --> 00:41:57.636] PICARD: I think I understand the predicament you were in.
+[00:41:57.636 --> 00:41:59.156] PICARD: It could not have been an easy choice.
+[00:41:59.396 --> 00:41:59.796] DATA: No, sir,
+[00:41:59.796 --> 00:42:00.356] DATA: it was not.
+[00:42:01.236 --> 00:42:07.396] DATA: When my status as a living being was in question, you fought to protect my rights, and for that I will always be grateful.
+[00:42:08.054 --> 00:42:09.654] DATA: The exocomps had no such advocate.
+[00:42:10.214 --> 00:42:13.094] DATA: If I had not acted in their behalf, they would have been destroyed.
+[00:42:14.454 --> 00:42:15.734] DATA: I could not allow that to happen, sir.
+[00:42:17.254 --> 00:42:17.974] PICARD: Of course you couldn't.
+[00:42:19.974 --> 00:42:22.294] PICARD: It was the most human decision you've ever made.

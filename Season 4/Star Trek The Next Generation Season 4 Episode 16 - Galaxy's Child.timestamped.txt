@@ -1,0 +1,727 @@
+[00:00:02.960 --> 00:00:06.080] LOG: Captain's Log, Stardate 44614.6.
+[00:00:06.480 --> 00:00:14.080] LOG: We are approaching Starbase three one three, where we will pick up a shipment of scientific equipment for transport to a Federation outpost in the Guernica System.
+[00:00:14.720 --> 00:00:17.360] LOG: During the journey we will be hosting a special guest.
+[00:00:17.840 --> 00:00:18.160] PICARD: Come.
+[00:00:21.520 --> 00:00:22.560] LAFORGE: You wanted to see me, Captain?
+[00:00:23.200 --> 00:00:24.160] PICARD: Yes, Mister La Forge.
+[00:00:25.200 --> 00:00:29.680] PICARD: It seems that the exemplary nature of your work has caught the attention of Starfleet Command.
+[00:00:29.840 --> 00:00:35.760] PICARD: In fact, someone is coming on board just to see the engine modifications you've made.
+[00:00:36.720 --> 00:00:37.200] LAFORGE: Who, Captain?
+[00:00:37.840 --> 00:00:41.120] PICARD: The Senior Design Engineer of the Theoretical Propulsion Group. Doctor
+[00:00:41.120 --> 00:00:41.920] PICARD: Leah Brahms.
+[00:00:43.360 --> 00:00:45.840] LAFORGE: Leah is coming here?
+[00:00:49.280 --> 00:00:50.560] LAFORGE: This is terrific.
+[00:00:51.440 --> 00:00:51.840] PICARD: It is?
+[00:00:53.280 --> 00:00:58.640] LAFORGE: Well, I mean, I've studied her schematics for years.
+[00:00:59.360 --> 00:01:02.080] LAFORGE: She was responsible for a lot of the engine design on the Enterprise.
+[00:01:02.880 --> 00:01:04.800] PICARD: Well, it should be a very enjoyable visit, then.
+[00:01:05.200 --> 00:01:07.760] PICARD: She'll be transporting on board as soon as we reach the Starbase.
+[00:01:08.240 --> 00:01:09.680] PICARD: Would you like to greet her on our behalf?
+[00:01:10.960 --> 00:01:12.160] LAFORGE: I would love to, Captain.
+[00:01:13.120 --> 00:01:13.360] LAFORGE: Thank
+[00:01:18.160 --> 00:01:18.160] LAFORGE: you.
+[00:01:18.880 --> 00:01:18.960] GUINAN: If you
+[00:01:29.600 --> 00:01:31.440] GUINAN: keep picking at that uniform you'll wear it out.
+[00:01:32.530 --> 00:01:35.650] LAFORGE: I guess I am a little nervous.
+[00:01:35.650 --> 00:01:39.170] LAFORGE: It's not every day a man comes face to face with his dream.
+[00:01:42.130 --> 00:01:42.370] GUINAN: What?
+[00:01:42.370 --> 00:01:46.450] LAFORGE: You remember about a year ago when we were caught in that booby trap the Menthars set?
+[00:01:47.410 --> 00:01:53.970] LAFORGE: Okay. While we were trying to get out of it, I went down to the holodeck to study an engine prototype that was made when the Enterprise was first designed.
+[00:01:54.929 --> 00:02:03.010] LAFORGE: And the computer, well, it gave me an image of the engine but it also created this hologram of the designer. Doctor Leah Brahms.
+[00:02:03.410 --> 00:02:06.929] GUINAN: So you met a computer-simulated female.
+[00:02:07.090 --> 00:02:12.290] LAFORGE: Yeah, but not an ordinary computer-simulated female.
+[00:02:12.450 --> 00:02:15.170] LAFORGE: I mean, she was brilliant, of course, but
+[00:02:16.770 --> 00:02:18.850] LAFORGE: warm, you know? Friendly.
+[00:02:19.250 --> 00:02:21.810] LAFORGE: It' was like we worked as one.
+[00:02:21.810 --> 00:02:24.210] LAFORGE: I would start a sentences, she'd finish it.
+[00:02:24.370 --> 00:02:26.050] LAFORGE: What I didn't think of, she did.
+[00:02:26.050 --> 00:02:29.250] LAFORGE: It was just so comfortable.
+[00:02:31.010 --> 00:02:38.450] LAFORGE: Okay, I know it was just a holographic image but the computer was able to incorporate personality traits from her Starfleet record.
+[00:02:40.050 --> 00:02:43.890] GUINAN: You know, Geordi, everybody falls in love with a fantasy every now and then.
+[00:02:43.890 --> 00:02:46.050] LAFORGE: No, no, Guinan, see, you've got it all wrong.
+[00:02:46.450 --> 00:02:49.090] LAFORGE: I'm not necessarily expecting anything romantic here.
+[00:02:49.409 --> 00:02:54.770] LAFORGE: It's just I know whatever, Leah Brahms and I are going to be good friends.
+[00:02:54.770 --> 00:02:56.690] CREWWOMAN: Doctor
+[00:02:59.250 --> 00:03:00.370] CREWWOMAN: Brahms
+[00:03:02.130 --> 00:03:03.090] CREWWOMAN: is ready to transport, sir.
+[00:03:04.450 --> 00:03:05.890] LAFORGE: Okay, bring her over.
+[00:03:16.341 --> 00:03:16.741] LAFORGE: Hi.
+[00:03:17.861 --> 00:03:21.381] LAFORGE: I mean, welcome aboard, Doctor Brahms.
+[00:03:21.381 --> 00:03:25.061] LAFORGE: I'm Lieutenant Commander Geordi La Forge, Chief Engineer.
+[00:03:25.211 --> 00:03:25.811] LEAH: La
+[00:03:26.581 --> 00:03:27.301] LEAH: Forge.
+[00:03:28.661 --> 00:03:30.821] LEAH: So you're the one who's fouled up my engine designs.
+[00:04:01.861 --> 00:04:04.421] PICARD: Space, the final frontier.
+[00:04:06.261 --> 00:04:09.141] PICARD: These are the voyages of the Starship Enterprise.
+[00:04:10.261 --> 00:04:18.261] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:19.941 --> 00:04:22.581] PICARD: to boldly go where no one has gone before.
+[00:04:27.000 --> 00:04:38.000] [music]
+[00:04:34.788 --> 00:04:34.948] LEAH: The
+[00:05:23.828 --> 00:05:25.748] LEAH: matter-antimatter ratio has been changed.
+[00:05:26.148 --> 00:05:28.228] LEAH: The mixture isn't as rich as regulations dictate.
+[00:05:28.388 --> 00:05:31.188] LAFORGE: Experience has shown me that too high a ratio diminishes efficiency.
+[00:05:31.748 --> 00:05:33.508] LAFORGE: I worked with the mixture until I got the right balance.
+[00:05:34.868 --> 00:05:39.348] LEAH: The magnetic plasma transfer to the warp field generators doesn't correspond to the recommended specs.
+[00:05:39.668 --> 00:05:39.908] LAFORGE: Right.
+[00:05:40.068 --> 00:05:41.668] LAFORGE: Again, I adjusted the flow.
+[00:05:42.148 --> 00:05:45.428] LAFORGE: Sometimes things happen a little differently here is space than they do on the drawing board.
+[00:05:45.908 --> 00:05:47.188] LEAH: Is that a criticism, Commander?
+[00:05:47.348 --> 00:05:48.548] LAFORGE: No, of course not.
+[00:05:48.548 --> 00:05:50.388] LAFORGE: It's just a well known fact.
+[00:05:50.548 --> 00:05:52.228] LAFORGE: There's theory and there's application.
+[00:05:52.388 --> 00:05:53.508] LAFORGE: They don't always jibe.
+[00:05:54.228 --> 00:05:57.508] LEAH: You've charted a completely new swap-out schedule for main components replacement.
+[00:05:57.668 --> 00:05:58.228] LAFORGE: You bet.
+[00:05:58.628 --> 00:06:01.828] LAFORGE: I found the Starfleet estimates for the MTBF units to be unrealistic.
+[00:06:02.148 --> 00:06:05.268] LAFORGE: I simply determined my own schedule based on observation
+[00:06:05.546 --> 00:06:06.041] LAFORGE: and experience.
+[00:06:06.041 --> 00:06:08.266] LEAH: Is that going to be your only defence, Commander,
+[00:06:08.746 --> 00:06:10.026] LEAH: that same tired rhetoric?
+[00:06:10.586 --> 00:06:14.106] LEAH: Out here in the field we learn things you designers couldn't possibly understand.
+[00:06:14.186 --> 00:06:16.746] LAFORGE: In the first place, Doctor, I'm not aware of needing any defence.
+[00:06:16.746 --> 00:06:19.062] LAFORGE: And in the second place, if you're determined to be.
+[00:06:19.062 --> 00:06:21.146] CREWWOMAN: Doctor Brahms, you have an incoming message on subspace.
+[00:06:21.866 --> 00:06:23.466] LEAH: I'd like to hear this message privately.
+[00:06:23.706 --> 00:06:25.146] LAFORGE: In my office. Be my guest.
+[00:06:25.386 --> 00:06:25.626] LEAH: Thank
+[00:06:27.146 --> 00:06:29.146] LEAH: you.
+[00:06:30.906 --> 00:06:35.066] DATA: Commander, I am picking up some unusual readings from the Alpha Omicron system.
+[00:06:37.306 --> 00:06:42.186] DATA: At this range, all I am able to discern is that it is an asymmetrical field of intense energy.
+[00:06:42.906 --> 00:06:44.186] RIKER: What type of radiation signature?
+[00:06:45.706 --> 00:06:46.266] DATA: Unknown, sir.
+[00:06:47.706 --> 00:06:49.626] DATA: The Alpha Omicron system is yet to be charted.
+[00:06:50.506 --> 00:06:52.746] DATA: I recommend we take this opportunity for further research.
+[00:06:53.546 --> 00:06:55.626] RIKER: Well, we're way ahead of schedule.
+[00:06:57.626 --> 00:06:58.506] RIKER: Alter course for Alpha
+[00:07:00.666 --> 00:07:02.666] RIKER: Omicron.
+[00:07:10.026 --> 00:07:12.266] LAFORGE: Doctor Brahms, there's no reason for us to argue.
+[00:07:12.266 --> 00:07:13.386] LAFORGE: We're on the same side here.
+[00:07:13.866 --> 00:07:14.826] LEAH: I'm aware of that.
+[00:07:15.306 --> 00:07:18.346] LAFORGE: So, why don't I take you on a little tour,
+[00:07:18.346 --> 00:07:19.626] LAFORGE: show you the adjustments I've made,
+[00:07:19.626 --> 00:07:23.066] LAFORGE: why I think they work and we can begin pulling together on this?
+[00:07:23.146 --> 00:07:25.146] LAFORGE: Okay.
+[00:07:26.586 --> 00:07:29.226] LAFORGE: Then why not start with the dilithium chamber.
+[00:07:32.906 --> 00:07:33.066] LAFORGE: Okay?
+[00:07:34.346 --> 00:07:34.506] LEAH: Okay.
+[00:07:36.586 --> 00:07:37.946] DATA: The anomaly is orbiting the seventh
+[00:07:38.071 --> 00:07:38.551] DATA: planet, sir.
+[00:07:39.591 --> 00:07:47.111] DATA: It is a mass of plasma energy contained within discrete boundaries by an outer covering of silicates, actinides, and carbonaceous chondrites.
+[00:07:48.551 --> 00:07:49.031] PICARD: On screen.
+[00:07:51.431 --> 00:07:51.911] PICARD: Magnify.
+[00:07:54.151 --> 00:07:55.191] PICARD: Is it a ship?
+[00:07:56.231 --> 00:07:58.071] WORF: It does not conform to any known design.
+[00:07:58.791 --> 00:08:00.711] RIKER: Any records of similar phenomena in Starfleet listings?
+[00:08:01.431 --> 00:08:01.751] DATA: None, sir.
+[00:08:02.231 --> 00:08:03.431] DATA: This has never been seen before.
+[00:08:07.751 --> 00:08:09.911] PICARD: Ensign Rager, ahead one quarter impulse.
+[00:08:10.471 --> 00:08:10.871] RAGER: Aye, sir.
+[00:08:11.431 --> 00:08:12.551] PICARD: Put us in orbit of the seventh planet.
+[00:08:13.511 --> 00:08:15.511] PICARD: Keep us at a relative distance of ten kilometres from the object.
+[00:08:16.711 --> 00:08:18.151] RIKER: Alert science stations to standby.
+[00:08:18.711 --> 00:08:19.991] RIKER: Tell them to coordinate all efforts with Commander Data.
+[00:08:20.311 --> 00:08:20.631] WORF: Aye, sir.
+[00:08:22.471 --> 00:08:22.631] LEAH: What
+[00:08:25.991 --> 00:08:26.471] LEAH: happened here?
+[00:08:27.991 --> 00:08:28.471] LEAH: Who did this?
+[00:08:29.111 --> 00:08:32.551] LAFORGE: You remember, the crystal's been reoriented to adjust the direction of the lattice structure.
+[00:08:32.871 --> 00:08:33.351] LEAH: Remember?
+[00:08:33.351 --> 00:08:34.151] LEAH: Why would I remember?
+[00:08:35.191 --> 00:08:35.351] LAFORGE: Right,
+[00:08:35.911 --> 00:08:36.311] LAFORGE: why would you?
+[00:08:38.311 --> 00:08:43.431] LAFORGE: Well, the ship was experiencing some difficulty, and we made this adjustment hoping that it would work,
+[00:08:43.591 --> 00:08:44.791] LAFORGE: and it did.
+[00:08:45.591 --> 00:08:46.471] LEAH: So it was your idea?
+[00:08:47.191 --> 00:08:49.431] LAFORGE: Not exclusively, no.
+[00:08:51.511 --> 00:08:52.311] LEAH: It's curious.
+[00:08:53.191 --> 00:08:55.244] LEAH: this modification was due to be introduced.
+[00:08:55.244 --> 00:08:56.711] LAFORGE: In the next class starship.
+[00:08:58.071 --> 00:08:58.471] LEAH: Yes.
+[00:09:02.631 --> 00:09:03.351] LEAH: How did you know?
+[00:09:03.991 --> 00:09:05.271] LAFORGE: I didn't.
+[00:09:07.031 --> 00:09:10.311] LAFORGE: I mean, well, it's the next logical step, right?
+[00:09:12.284 --> 00:09:13.084] LAFORGE: Listen, Doctor,
+[00:09:13.084 --> 00:09:18.604] LAFORGE: sometimes we have to fly by the seat of our pants out here so it stands to reason that once in a while we're going to come up with the same solutions you do.
+[00:09:25.164 --> 00:09:29.564] LAFORGE: Listen. I've got a personnel review scheduled to start in about five minutes, and I know it's been a long day for you.
+[00:09:30.284 --> 00:09:35.164] LAFORGE: So, why don't we get together later? Sort of plan our agenda for the next day or two?
+[00:09:36.124 --> 00:09:36.604] LEAH: Agenda?
+[00:09:37.884 --> 00:09:39.324] LAFORGE: What it is we want to accomplish here,
+[00:09:39.644 --> 00:09:41.244] LAFORGE: how we might best go about that,
+[00:09:41.324 --> 00:09:43.164] LAFORGE: maybe even get to know each other a little bit.
+[00:09:43.164 --> 00:09:44.764] LAFORGE: It might make this easier.
+[00:09:46.684 --> 00:09:47.244] LEAH: Maybe you're right.
+[00:09:48.604 --> 00:09:49.564] LAFORGE: Okay, great.
+[00:09:50.524 --> 00:09:53.004] LAFORGE: How about my quarters.
+[00:09:53.964 --> 00:09:54.684] LAFORGE: Nineteen hundred hours?
+[00:09:55.404 --> 00:09:56.284] LAFORGE: Maybe even have a bite to eat?
+[00:09:57.644 --> 00:09:58.844] LAFORGE: I make a great fungilli.
+[00:09:58.924 --> 00:09:58.924] LEAH: I
+[00:10:01.004 --> 00:10:01.884] LEAH: love fungilli.
+[00:10:02.924 --> 00:10:03.564] LAFORGE: Is that right?
+[00:10:20.204 --> 00:10:22.524] DATA: Sensors are having difficulty penetrating the interior.
+[00:10:23.244 --> 00:10:28.604] DATA: However, the radiated output suggests a coherent system of energy storage and utilisation.
+[00:10:29.564 --> 00:10:31.004] RIKER: Then it was constructed by someone?
+[00:10:31.564 --> 00:10:32.524] DATA: It is a possibility.
+[00:10:33.084 --> 00:10:38.044] DATA: However, the sensor data gathered thus far suggests a naturally occurring phenomenon with biological properties.
+[00:10:38.204 --> 00:10:38.844] PICARD: A life form.
+[00:10:39.084 --> 00:10:39.564] DATA: Yes, Captain.
+[00:10:43.004 --> 00:10:43.644] RIKER: Mister Worf,
+[00:10:44.244 --> 00:10:46.964] RIKER: begin compiling readings for transmission to Starfleet Headquarters.
+[00:10:47.524 --> 00:10:50.484] RIKER: Mister Data, prepare to launch three level-five probes.
+[00:10:50.564 --> 00:10:53.604] RIKER: Ensign, aft thrusters. Standard observation posture.
+[00:10:55.364 --> 00:10:57.604] DATA: Level-five probe sequence ready for launch, Commander.
+[00:10:57.844 --> 00:10:58.484] DATA: On your mark.
+[00:10:59.124 --> 00:11:00.004] RIKER: Stand by, Mister Data.
+[00:11:00.404 --> 00:11:00.804] DATA: Aye, sir.
+[00:11:00.954 --> 00:11:01.554] DATA: PICARD:
+[00:11:04.644 --> 00:11:05.684] DATA: What would it be like, Counsellor?
+[00:11:06.804 --> 00:11:14.164] DATA: No ship, no bulky spacesuit. Just to live between the stars, have the entire galaxy as a home.
+[00:11:19.364 --> 00:11:21.444] WORF: Captain, we are being probed.
+[00:11:22.004 --> 00:11:23.284] WORF: Recommend we raise shields.
+[00:11:23.924 --> 00:11:24.644] PICARD: Negative, Mister Worf.
+[00:11:26.004 --> 00:11:27.044] PICARD: If we are curious about it,
+[00:11:28.564 --> 00:11:30.484] PICARD: it has a perfect right to be curious about us.
+[00:11:33.604 --> 00:11:34.404] DATA: Change in readings, sir.
+[00:11:35.044 --> 00:11:37.444] DATA: The life form has increased its energy output by fifty percent.
+[00:11:37.924 --> 00:11:38.964] WORF: It is moving toward us.
+[00:11:40.004 --> 00:11:40.804] PICARD: Reverse course, Ensign,
+[00:11:41.364 --> 00:11:42.324] PICARD: three hundred kph.
+[00:11:42.884 --> 00:11:43.284] RAGER: Aye, sir.
+[00:11:43.764 --> 00:11:46.964] PICARD: Easy, we don't want to alarm or provoke it.
+[00:12:00.164 --> 00:12:02.084] DATA: We are caught in an energy damping field, sir.
+[00:12:03.124 --> 00:12:03.764] PICARD: Raise shields.
+[00:12:05.764 --> 00:12:06.644] WORF: No effect, Captain.
+[00:12:08.564 --> 00:12:09.764] PICARD: Reverse power, full impulse.
+[00:12:10.164 --> 00:12:11.524] RAGER: Impulse engines at full power.
+[00:12:13.427 --> 00:12:14.467] DATA: No change in position.
+[00:12:14.947 --> 00:12:15.347] RIKER: Red alert!
+[00:12:18.467 --> 00:12:20.627] PICARD: Mister La Forge, prepare to initiate warp drive.
+[00:12:22.227 --> 00:12:22.947] LAFORGE: Sorry, Captain.
+[00:12:22.947 --> 00:12:24.867] LAFORGE: There's too much interference to form a warp field.
+[00:12:24.867 --> 00:12:25.747] COMPUTER: Warning.
+[00:12:26.227 --> 00:12:29.747] COMPUTER: Radiation levels at sixty five millirads per minute and rising.
+[00:12:30.787 --> 00:12:31.747] RIKER: Riker to Doctor Crusher.
+[00:12:32.067 --> 00:12:32.867] CRUSHER: Go ahead, Commander.
+[00:12:33.267 --> 00:12:35.187] RIKER: All decks prepare for radiation protocol.
+[00:12:35.427 --> 00:12:36.787] CRUSHER: Acknowledged. Crusher out.
+[00:12:37.427 --> 00:12:37.667] COMPUTER: Warning.
+[00:12:38.067 --> 00:12:40.947] COMPUTER: Radiation levels at three hundred millirads per minute and rising.
+[00:12:41.187 --> 00:12:42.627] COMPUTER: Lethal exposure in one minute.
+[00:12:43.267 --> 00:12:43.987] PICARD: Mister Worf, ready phasers.
+[00:12:44.707 --> 00:12:45.427] PICARD: Minimum power.
+[00:12:47.267 --> 00:12:47.507] WORF: Ready.
+[00:12:56.787 --> 00:12:58.787] PICARD: Fire.
+[00:12:58.787 --> 00:13:00.547] DATA: Radiation levels dropping back to normal, Captain.
+[00:13:01.667 --> 00:13:03.347] DATA: Energy patterns are breaking down, sir.
+[00:13:04.067 --> 00:13:08.147] DATA: The radiation signature is no longer stable.
+[00:13:11.827 --> 00:13:13.107] DATA: Energy output is negligible, sir.
+[00:13:15.347 --> 00:13:18.627] DATA: Radiation patterns no longer coherent.
+[00:13:22.387 --> 00:13:23.267] DATA: I believe it is dead, sir.
+[00:13:23.267 --> 00:13:23.427] PICARD: We're out
+[00:13:30.307 --> 00:13:32.307] PICARD: here
+[00:13:39.187 --> 00:13:41.587] PICARD: to explore,
+[00:13:43.253 --> 00:13:48.213] PICARD: to make contact with other life forms, to establish peaceful relations but not to interfere.
+[00:13:48.363 --> 00:13:48.963] PICARD: And
+[00:13:51.093 --> 00:13:53.013] PICARD: absolutely not to destroy.
+[00:13:53.163 --> 00:13:53.763] PICARD: And
+[00:13:57.493 --> 00:13:59.013] PICARD: yet look what we have just done.
+[00:14:00.533 --> 00:14:01.013] TROI: Captain,
+[00:14:01.413 --> 00:14:06.053] TROI: everything you did was consistent with established Starfleet procedures.
+[00:14:09.573 --> 00:14:10.693] PICARD: Number One, you have the Bridge.
+[00:14:14.053 --> 00:14:14.373] DATA: Captain,
+[00:14:15.653 --> 00:14:18.213] DATA: sensors are picking up a new energy reading from the life form.
+[00:14:21.093 --> 00:14:21.733] PICARD: Elaborate, Data.
+[00:14:22.693 --> 00:14:26.693] DATA: There is a new concentration of ionising radiation growing in the centre of its body.
+[00:14:29.413 --> 00:14:29.653] PICARD: Then,
+[00:14:33.653 --> 00:14:36.373] PICARD: perhaps it's still alive.
+[00:14:36.523 --> 00:14:37.123] LAFORGE: Okay.
+[00:14:42.613 --> 00:14:44.853] LAFORGE: Computer, subdued lighting.
+[00:14:47.253 --> 00:14:48.853] LAFORGE: No, that's too much.
+[00:14:48.853 --> 00:14:50.133] LAFORGE: I don't want it dark,
+[00:14:50.133 --> 00:14:51.493] LAFORGE: I want it cozy.
+[00:14:52.213 --> 00:14:54.933] COMPUTER: Please state your request in precise candlepower.
+[00:14:56.453 --> 00:14:58.293] LAFORGE: See, it's not a matter of precision, computer,
+[00:14:58.293 --> 00:14:59.573] LAFORGE: it's a matter of mood.
+[00:15:01.093 --> 00:15:01.973] LAFORGE: Brighter than this.
+[00:15:03.573 --> 00:15:05.573] LAFORGE: More.
+[00:15:07.493 --> 00:15:08.293] LAFORGE: More.
+[00:15:10.453 --> 00:15:11.893] LAFORGE: A little more.
+[00:15:12.853 --> 00:15:13.093] LAFORGE: Hold.
+[00:15:13.709 --> 00:15:14.189] LAFORGE: Right there.
+[00:15:14.669 --> 00:15:14.909] LAFORGE: Perfect.
+[00:15:15.629 --> 00:15:17.869] LAFORGE: Now, some music.
+[00:15:21.149 --> 00:15:23.149] LAFORGE: Maybe a little soft jazz.
+[00:15:24.429 --> 00:15:27.629] LAFORGE: No, that's not right.
+[00:15:27.629 --> 00:15:28.589] LAFORGE: Let me think here.
+[00:15:29.069 --> 00:15:30.189] LAFORGE: Oh, I got it!
+[00:15:31.149 --> 00:15:32.749] LAFORGE: Some Brahms!
+[00:15:32.749 --> 00:15:34.349] LAFORGE: A piano etude.
+[00:15:36.029 --> 00:15:41.549] LAFORGE: Nah, that's too corny.
+[00:15:42.829 --> 00:15:45.069] LAFORGE: Probably everybody thinks of that.
+[00:15:45.469 --> 00:15:48.509] LAFORGE: Computer, just give me some guitar. Classical guitar.
+[00:15:49.229 --> 00:15:50.509] LAFORGE: Doesn't matter who.
+[00:15:52.429 --> 00:15:52.989] LAFORGE: Yes,
+[00:15:53.629 --> 00:15:54.029] LAFORGE: thank you.
+[00:16:00.429 --> 00:16:02.829] LAFORGE: Come on in.
+[00:16:05.629 --> 00:16:07.869] LEAH: Oh, you've changed.
+[00:16:08.589 --> 00:16:13.309] LAFORGE: Yeah. The uniforms are so formal.
+[00:16:14.669 --> 00:16:18.989] LEAH: You're less formal than any Starfleet officer I've ever met, Commander.
+[00:16:19.629 --> 00:16:20.029] LAFORGE: Am I?
+[00:16:20.669 --> 00:16:23.869] LAFORGE: I really just wanted to make you feel more comfortable.
+[00:16:24.509 --> 00:16:25.549] LEAH: I'm fine. Thank you.
+[00:16:28.509 --> 00:16:29.069] LAFORGE: I'm sorry.
+[00:16:29.069 --> 00:16:32.029] LAFORGE: Come in and have a seat.
+[00:16:35.469 --> 00:16:36.109] LAFORGE: Can I get you a drink?
+[00:16:36.349 --> 00:16:37.149] LEAH: No, thank you.
+[00:16:37.469 --> 00:16:37.709] LAFORGE: You sure?
+[00:16:39.629 --> 00:16:39.949] LAFORGE: You know,
+[00:16:41.549 --> 00:16:42.269] LAFORGE: your hair,
+[00:16:45.229 --> 00:16:45.949] LAFORGE: it's different.
+[00:16:48.308 --> 00:16:49.748] LEAH: Different than a few hours ago?
+[00:16:50.548 --> 00:16:53.108] LAFORGE: No, I mean it's different than I expected.
+[00:16:54.068 --> 00:16:55.588] LAFORGE: Different from your Starfleet records.
+[00:16:56.468 --> 00:16:58.548] LEAH: Oh. Yes, I used to wear it up.
+[00:16:59.028 --> 00:16:59.188] LAFORGE: Yeah.
+[00:17:00.708 --> 00:17:02.468] LEAH: Why would you need to see my personnel file?
+[00:17:04.948 --> 00:17:07.588] LAFORGE: Standard procedure when guests come on board.
+[00:17:07.828 --> 00:17:08.308] LAFORGE: Protocol.
+[00:17:09.108 --> 00:17:11.108] LAFORGE: I mean, it was nothing specific, actually.
+[00:17:11.268 --> 00:17:11.988] LAFORGE: Just, you know.
+[00:17:13.028 --> 00:17:13.908] LEAH: Commander La Forge,
+[00:17:16.068 --> 00:17:24.468] LEAH: if I seem to be somewhat unyielding in my views, it's because I care so very much about my work.
+[00:17:24.788 --> 00:17:25.028] LAFORGE: Oh,
+[00:17:26.148 --> 00:17:26.868] LAFORGE: I know.
+[00:17:28.148 --> 00:17:36.068] LEAH: To be honest, people find me cold, cerebral, lacking in humour.
+[00:17:36.148 --> 00:17:37.908] LAFORGE: But they're wrong,
+[00:17:38.628 --> 00:17:39.268] LAFORGE: I assure you.
+[00:17:41.428 --> 00:17:52.139] LEAH: Well, I try not to be that way, but when it comes to my designs, my engines, especially the ones on the Enterprise.
+[00:17:52.139 --> 00:17:54.468] LAFORGE: It's like they're your children.
+[00:17:56.228 --> 00:17:56.548] LEAH: Yes.
+[00:17:57.988 --> 00:17:58.468] LEAH: Exactly.
+[00:17:58.708 --> 00:18:02.068] LAFORGE: So naturally you're a little possessive about them.
+[00:18:04.308 --> 00:18:05.188] LEAH: You understand that?
+[00:18:05.748 --> 00:18:06.868] LAFORGE: Yes, I do.
+[00:18:06.868 --> 00:18:07.348] LAFORGE: You see,
+[00:18:09.748 --> 00:18:10.548] LAFORGE: I feel the same way.
+[00:18:12.868 --> 00:18:13.588] LEAH: That's amazing.
+[00:18:13.748 --> 00:18:15.268] LEAH: I don't think anyone has ever.
+[00:18:19.108 --> 00:18:20.868] LEAH: Sometimes I feel more comfortable
+[00:18:21.843 --> 00:18:23.523] LEAH: with engine schematics than people.
+[00:18:24.963 --> 00:18:26.323] LAFORGE: Well, maybe you just haven't met the right
+[00:18:27.923 --> 00:18:28.243] LAFORGE: people.
+[00:18:33.683 --> 00:18:34.163] LAFORGE: You hungry?
+[00:18:34.723 --> 00:18:35.363] LAFORGE: I'm hungry.
+[00:18:36.083 --> 00:18:38.163] LAFORGE: Why don't I just start dinner, okay?
+[00:18:39.043 --> 00:18:39.667] LEAH: Commander.
+[00:18:39.667 --> 00:18:42.163] LAFORGE: Please, call me Geordi.
+[00:18:42.723 --> 00:18:43.843] LEAH: I'm sorry,
+[00:18:43.843 --> 00:18:47.603] LEAH: I hope that I didn't put you to a lot of trouble but I can't stay.
+[00:18:48.563 --> 00:18:48.963] LAFORGE: You can't?
+[00:18:49.843 --> 00:18:51.603] LEAH: I just don't think that it's appropriate.
+[00:18:53.843 --> 00:18:54.083] LAFORGE: Oh.
+[00:18:56.243 --> 00:18:58.323] LEAH: I'll meet with you at oh eight hundred tomorrow.
+[00:18:58.883 --> 00:19:02.723] LEAH: I'm preparing a list of discrepancies that I've identified in your modifications.
+[00:19:03.523 --> 00:19:11.283] LEAH: I hope, now that we've reached an understanding that you'll be prepared to discuss them with me in a more objective fashion.
+[00:19:13.363 --> 00:19:13.683] LAFORGE: Sure.
+[00:19:14.323 --> 00:19:14.643] LAFORGE: Fine.
+[00:19:15.523 --> 00:19:15.843] LEAH: Thank you.
+[00:19:16.803 --> 00:19:16.883] LEAH: Goodnight,
+[00:19:18.563 --> 00:19:20.723] LEAH: Commander.
+[00:19:23.443 --> 00:19:23.923] LAFORGE: Goodnight.
+[00:19:27.123 --> 00:19:32.003] DATA: This new concentration of energy was detected only after the surrounding material became inert.
+[00:19:32.643 --> 00:19:34.643] RIKER: Could this be some sort of tissue regeneration?
+[00:19:35.363 --> 00:19:39.123] DATA: The radiation signature is similar to the original pattern, but with significant differences.
+[00:19:39.763 --> 00:19:42.083] PICARD: Some kind of reaction to our phaser fire, perhaps.
+[00:19:42.403 --> 00:19:45.923] DATA: I believe it is separate and self-contained within the body of the dead life form.
+[00:19:47.241 --> 00:19:47.881] RIKER: Another entity.
+[00:19:48.761 --> 00:19:49.001] DATA: Yes, sir.
+[00:19:50.121 --> 00:19:53.721] DATA: It appears to be a smaller, less developed version of the original creature.
+[00:19:54.681 --> 00:19:57.081] PICARD: No wonder it attacked us.
+[00:19:57.081 --> 00:19:57.161] PICARD: It
+[00:19:58.841 --> 00:19:59.641] PICARD: was about to give birth.
+[00:20:13.321 --> 00:20:13.666] PICARD: Doctor.
+[00:20:13.666 --> 00:20:24.361] CRUSHER: It's dangerous to generalise about new life forms, but based on my experience with other beings who bear their young in this manner, I'd say that the offspring is still premature.
+[00:20:25.401 --> 00:20:28.601] CRUSHER: Otherwise, it would be able to break through the outer body shell of the parent.
+[00:20:29.081 --> 00:20:32.681] PICARD: Will this creature be able to survive on its own without the parent?
+[00:20:33.561 --> 00:20:34.521] CRUSHER: There's no way to tell.
+[00:20:35.481 --> 00:20:39.561] CRUSHER: We don't have enough information about the bio-functions of the adult, much less the child.
+[00:20:40.121 --> 00:20:41.481] TROI: Is there something we can do to help?
+[00:20:43.161 --> 00:20:45.721] CRUSHER: If we were in Sickbay, I'd try a Caesarean section.
+[00:20:46.521 --> 00:20:49.561] CRUSHER: The first priority is to free it from the body of the parent.
+[00:20:50.041 --> 00:20:51.561] RIKER: We could use our phasers as a scalpel.
+[00:20:52.361 --> 00:20:54.281] CRUSHER: Yes, that might work.
+[00:20:55.001 --> 00:20:56.441] WORF: I advise against this, Captain.
+[00:20:56.921 --> 00:20:58.601] WORF: The parent proved to be a threat to the ship.
+[00:20:58.681 --> 00:21:00.521] WORF: We do not know how the offspring will react.
+[00:21:01.641 --> 00:21:03.081] PICARD: Your objection is noted, Mister Worf,
+[00:21:03.321 --> 00:21:08.281] PICARD: but we are directly responsible for the death of the parent.
+[00:21:08.281 --> 00:21:11.641] PICARD: We cannot simply wash our hands of it now. Doctor,
+[00:21:11.948 --> 00:21:13.308] PICARD: we will proceed at your discretion.
+[00:21:20.268 --> 00:21:20.668] LEAH: Good morning.
+[00:21:21.468 --> 00:21:22.028] LAFORGE: Good morning.
+[00:21:22.428 --> 00:21:25.308] LEAH: The first thing I'd like to do is inspect the power transfer conduits.
+[00:21:26.028 --> 00:21:28.028] LAFORGE: You realise the only way to inspect them is to crawl inside.
+[00:21:29.388 --> 00:21:30.588] LEAH: I designed them, Commander.
+[00:21:31.228 --> 00:21:32.348] LEAH: I know what's involved.
+[00:21:32.498 --> 00:21:33.098] LAFORGE: Here
+[00:21:40.028 --> 00:21:40.348] LAFORGE: we go.
+[00:21:42.188 --> 00:21:42.748] LAFORGE: Power taps.
+[00:21:42.828 --> 00:21:43.548] LAFORGE: Watch yourself.
+[00:21:43.548 --> 00:21:43.548] LEAH: The
+[00:21:48.108 --> 00:21:49.708] LEAH: acoustic signature doesn't sound right.
+[00:21:50.748 --> 00:21:53.228] LAFORGE: You're probably the only other person in the galaxy who could pick that up.
+[00:21:54.348 --> 00:21:55.068] LEAH: What's causing it?
+[00:21:55.628 --> 00:21:56.268] LAFORGE: It's right up here.
+[00:21:56.828 --> 00:22:00.268] LEAH: I've never seen anything like this before.
+[00:22:00.268 --> 00:22:01.868] LEAH: What is it?
+[00:22:02.748 --> 00:22:05.148] LAFORGE: It's a mid-range phase adjuster.
+[00:22:06.588 --> 00:22:08.668] LAFORGE: Puts the plasma back into phase after inertial distortion.
+[00:22:09.468 --> 00:22:10.588] LEAH: This has never been done before.
+[00:22:10.588 --> 00:22:10.668] LEAH: I
+[00:22:12.348 --> 00:22:14.428] LEAH: don't even think this has ever been conceived of before.
+[00:22:14.428 --> 00:22:16.588] LEAH: You should write a scientific paper.
+[00:22:18.188 --> 00:22:22.428] LAFORGE: Uh-uh, Doctor, no. Writing is not one of my strong suits.
+[00:22:24.108 --> 00:22:28.588] LEAH: But this kind of refinement should be shared, and you deserve the credit for it.
+[00:22:29.788 --> 00:22:32.828] LAFORGE: Well, maybe we could collaborate.
+[00:22:33.868 --> 00:22:35.148] LAFORGE: Writing is one of your strong points.
+[00:22:37.708 --> 00:22:39.708] LEAH: Commander
+[00:22:42.108 --> 00:22:42.988] LEAH: La Forge,
+[00:22:44.017 --> 00:22:51.217] LEAH: ever since I came on board, there seems to be something a little peculiar about your attitude.
+[00:22:53.057 --> 00:22:56.977] LEAH: You seem to know things about me, even though we've never met.
+[00:23:01.217 --> 00:23:01.617] LAFORGE: Well, to
+[00:23:04.577 --> 00:23:06.257] LAFORGE: tell you the truth,
+[00:23:08.497 --> 00:23:09.137] LAFORGE: I've studied you.
+[00:23:10.257 --> 00:23:12.897] LAFORGE: Your writings, your Starfleet file.
+[00:23:14.337 --> 00:23:14.977] LAFORGE: I've admired you.
+[00:23:16.097 --> 00:23:17.297] LAFORGE: You know, your work.
+[00:23:17.447 --> 00:23:18.047] LEAH: Well,
+[00:23:19.297 --> 00:23:20.797] LEAH: I'm flattered, but.
+[00:23:20.797 --> 00:23:21.297] LAFORGE: And,
+[00:23:26.017 --> 00:23:39.537] LAFORGE: well, I really, I really wanted to meet you for a long time, And I'd like to think that we could become friends. Maybe good friends.
+[00:23:41.937 --> 00:23:42.897] LEAH: I thought you knew.
+[00:23:46.977 --> 00:23:57.777] LEAH: I mean, you know everything else about me, but Commander, if I'm hearing what I think I'm hearing, then you should know
+[00:23:59.857 --> 00:24:01.857] LEAH: that I'm married.
+[00:24:11.857 --> 00:24:14.017] CRUSHER: Set phaser power to three percent, narrow beam.
+[00:24:14.017 --> 00:24:15.537] WORF: Three percent.
+[00:24:17.241 --> 00:24:17.721] CRUSHER: All right,
+[00:24:19.401 --> 00:24:19.881] CRUSHER: here we go.
+[00:24:26.761 --> 00:24:28.041] DATA: The first incision is complete.
+[00:24:28.681 --> 00:24:32.201] CRUSHER: Ideally the offspring should now be able to push through the outer shell of the parent by itself.
+[00:24:36.441 --> 00:24:37.481] RIKER: I think it needs a little more help.
+[00:24:38.921 --> 00:24:39.801] CRUSHER: We've done all we can.
+[00:24:41.081 --> 00:24:43.641] CRUSHER: I don't want to risk hitting the offspring by accident.
+[00:24:45.081 --> 00:24:50.361] TROI: Come on. You can do
+[00:24:57.641 --> 00:24:57.721] TROI: it.
+[00:25:00.441 --> 00:25:05.641] CRUSHER: Captain, I'd like to announce the birth of a large baby something.
+[00:25:06.361 --> 00:25:08.841] PICARD: Well done, Doctor.
+[00:25:09.961 --> 00:25:12.281] PICARD: Well done.
+[00:25:13.801 --> 00:25:17.401] LAFORGE: How could it have been so far off?
+[00:25:18.041 --> 00:25:21.481] LAFORGE: It was based on every piece of information on record about Leah Brahms.
+[00:25:21.961 --> 00:25:28.201] LAFORGE: Okay, with an admitted margin for error. but this is an error that's a light year wide.
+[00:25:29.161 --> 00:25:30.121] GUINAN: Not what you hoped for,
+[00:25:30.601 --> 00:25:31.108] GUINAN: huh?
+[00:25:31.108 --> 00:25:32.121] LAFORGE: Hoped? Guinan,
+[00:25:32.681 --> 00:25:36.521] LAFORGE: the woman is about as friendly as a Circassian plague cat,
+[00:25:36.921 --> 00:25:38.201] LAFORGE: only cares about her work,
+[00:25:38.281 --> 00:25:41.641] LAFORGE: hates what I've done to her engines,
+[00:25:42.201 --> 00:25:44.761] LAFORGE: and to top it off
+[00:25:45.628 --> 00:25:46.188] LAFORGE: she's married.
+[00:25:46.988 --> 00:25:49.308] LAFORGE: Computer never even told me she was married.
+[00:25:50.028 --> 00:25:50.860] GUINAN: Computer glitch?
+[00:25:50.860 --> 00:25:52.108] LAFORGE: Must have been.
+[00:25:54.428 --> 00:25:56.188] GUINAN: Maybe it was your old visor.
+[00:25:57.148 --> 00:25:58.108] LAFORGE: What are you talking about?
+[00:25:59.388 --> 00:26:01.388] GUINAN: The one you wore when you were on the holodeck with her.
+[00:26:03.308 --> 00:26:06.348] LAFORGE: Guinan, it's the same visor.
+[00:26:07.628 --> 00:26:07.948] GUINAN: Really?
+[00:26:08.098 --> 00:26:08.698] GUINAN: Oh,
+[00:26:09.628 --> 00:26:12.668] GUINAN: I figured it was probably the one that lets you see what you want to see.
+[00:26:14.508 --> 00:26:15.948] LAFORGE: What's that supposed to mean?
+[00:26:17.068 --> 00:26:19.548] GUINAN: You saw exactly what you wanted to see in the holodeck.
+[00:26:20.268 --> 00:26:24.028] GUINAN: Sure, the computer made it look like her, gave it personality,
+[00:26:24.908 --> 00:26:36.348] GUINAN: but when it came to the relationship. La Forge, you filled in the blanks. And you had a perfectly wonderful, marvellous little fantasy. until the real Leah showed up and ruined it.
+[00:26:37.708 --> 00:26:41.708] GUINAN: She's probably done the most horrific thing one person can do to another,
+[00:26:43.148 --> 00:26:45.068] GUINAN: not live up to your expectations.
+[00:26:46.668 --> 00:26:50.348] GUINAN: So I'd take a good, hard, long look at her, La Forge.
+[00:26:51.308 --> 00:26:56.908] GUINAN: See her for who she is, not for what you want her to be.
+[00:27:00.348 --> 00:27:03.948] DATA: The life form's patterns are stable, Captain.
+[00:27:04.348 --> 00:27:06.268] DATA: It seems able to withstand the solar radiation.
+[00:27:06.668 --> 00:27:06.908] PICARD: Good.
+[00:27:07.148 --> 00:27:08.908] PICARD: Ensign, set course for the Guernica system.
+[00:27:09.148 --> 00:27:09.628] RAGER: Aye, sir.
+[00:27:09.788 --> 00:27:10.348] RIKER: We're not staying?
+[00:27:10.988 --> 00:27:11.548] PICARD: No, Number One.
+[00:27:11.548 --> 00:27:12.668] PICARD: We've done all we can to help.
+[00:27:13.228 --> 00:27:14.188] PICARD: Now it's time to move on.
+[00:27:14.611 --> 00:27:19.171] PICARD: This creature can continue its existence without any further interference from us.
+[00:27:19.411 --> 00:27:22.611] RIKER: It might be wise to put some distance between us before we initiate warp drive.
+[00:27:23.731 --> 00:27:25.651] PICARD: Very well. Five hundred kph. Ensign.
+[00:27:26.931 --> 00:27:27.411] PICARD: Engage.
+[00:27:36.611 --> 00:27:36.931] WORF: Captain,
+[00:27:37.651 --> 00:27:42.451] WORF: it is following us. Maintaining a distance of four kilometres, directly astern.
+[00:27:42.451 --> 00:27:44.451] PICARD: Seventeen degrees to port, Ensign.
+[00:27:45.491 --> 00:27:45.971] RAGER: Aye, sir.
+[00:27:45.971 --> 00:27:47.891] WORF: It is turning with us, sir.
+[00:27:49.091 --> 00:27:50.051] RIKER: Increase to half impulse.
+[00:27:53.011 --> 00:27:54.051] WORF: It is matching our velocity.
+[00:27:55.811 --> 00:27:57.171] TROI: It's imprinted on us.
+[00:27:58.051 --> 00:27:59.971] TROI: It thinks the Enterprise is its mother.
+[00:28:00.121 --> 00:28:00.721] DATA: A
+[00:28:02.531 --> 00:28:03.731] DATA: change in energy readings, sir.
+[00:28:04.531 --> 00:28:06.611] DATA: I am reading an internal buildup of gamma particles in
+[00:28:06.611 --> 00:28:07.811] WORF: Its velocity is increasing.
+[00:28:08.691 --> 00:28:09.891] WORF: It is moving directly toward the ship.
+[00:28:10.051 --> 00:28:11.171] PICARD: Evasive manoeuvres, full.
+[00:28:13.731 --> 00:28:14.051] RIKER: Report.
+[00:28:15.571 --> 00:28:16.131] WORF: Minor damage.
+[00:28:16.131 --> 00:28:19.571] DATA: The creature is now in direct contact with the hull, sir.
+[00:28:19.971 --> 00:28:20.451] PICARD: On screen.
+[00:28:22.051 --> 00:28:22.051] PICARD: Mister
+[00:28:29.011 --> 00:28:29.171] PICARD: Data?
+[00:28:30.611 --> 00:28:33.891] DATA: Sir, the life form is draining energy directly from the fusion reactors.
+[00:28:34.291 --> 00:28:37.571] TROI: It's feeding off the energy of the Enterprise as it would from its mother.
+[00:28:39.811 --> 00:28:40.851] WORF: What action should we take, sir?
+[00:28:43.519 --> 00:28:44.079] PICARD: None, Lieutenant.
+[00:28:50.319 --> 00:28:50.719] PICARD: None at all.
+[00:28:59.199 --> 00:29:00.399] LOG: Captain's log, supplemental.
+[00:29:00.879 --> 00:29:06.479] LOG: Since the newborn has attached itself to the hull, it has been making greater and greater demands on the ship's energy,
+[00:29:06.959 --> 00:29:09.839] LOG: but we have been able to stabilise our power systems temporarily.
+[00:29:10.479 --> 00:29:13.039] PICARD: How long before the power drain becomes critical, Mister La Forge?
+[00:29:13.119 --> 00:29:14.639] LAFORGE: If it continues to increase at the current rate,
+[00:29:14.639 --> 00:29:15.839] LAFORGE: six, maybe seven hours.
+[00:29:16.239 --> 00:29:18.879] LEAH: We may be able to modify the engine to extend that a little longer, Captain.
+[00:29:19.119 --> 00:29:20.559] PICARD: Your help would be appreciated, Doctor.
+[00:29:20.719 --> 00:29:21.919] LAFORGE: By then, Junior may not need us any more.
+[00:29:22.719 --> 00:29:28.159] PICARD: Mister Data, is there any way to determine what the destination of the parent might have been?
+[00:29:29.039 --> 00:29:32.239] DATA: I can attempt to extrapolate from the heading it was on when we encountered it, sir.
+[00:29:32.959 --> 00:29:36.479] CRUSHER: Perhaps it was its way to a safe and supportive environment for its newborn.
+[00:29:37.359 --> 00:29:39.599] PICARD: We might be able to deliver it to the same destination.
+[00:29:39.999 --> 00:29:42.959] RIKER: Which brings up the question of how do we get Junior off the hull once we get there.
+[00:29:43.679 --> 00:29:46.399] LEAH: It's almost completely covering the door of shuttlebay two.
+[00:29:47.039 --> 00:29:49.642] LEAH: If we open the door and deactivate the atmospheric force field.
+[00:29:49.642 --> 00:29:52.719] LAFORGE: the pressure from inside the ship might push it away from the hull.
+[00:29:54.479 --> 00:29:55.379] PICARD: Make it so.
+[00:29:55.379 --> 00:29:55.679] DATA: Sir,
+[00:29:57.039 --> 00:30:01.359] DATA: is the appellation Junior to be the life form's official name?
+[00:30:01.999 --> 00:30:02.719] PICARD: No, it is not.
+[00:30:06.959 --> 00:30:09.919] LEAH: We can save a lot of energy just by improving engine efficiency.
+[00:30:10.159 --> 00:30:11.599] LAFORGE: We've run into similar problems
+[00:30:11.465 --> 00:30:13.752] LAFORGE: before. That's actually why I reoriented the dilithium crystal.
+[00:30:13.752 --> 00:30:15.785] LEAH: And why you added the mid-range phase adjusters?
+[00:30:15.785 --> 00:30:16.825] LAFORGE: Right.
+[00:30:16.825 --> 00:30:17.865] LEAH: Commander
+[00:30:18.425 --> 00:30:21.225] LEAH: it seems that you've made a lot more modifications than I'm aware of.
+[00:30:21.785 --> 00:30:23.705] LEAH: Do you have a file on all the work you've done?
+[00:30:23.705 --> 00:30:24.345] LAFORGE: It's in the computer.
+[00:30:24.745 --> 00:30:25.625] PICARD: Picard to La Forge.
+[00:30:26.345 --> 00:30:26.985] LAFORGE: La Forge here.
+[00:30:27.145 --> 00:30:28.665] PICARD: Commander, I need to see you on the Bridge.
+[00:30:29.225 --> 00:30:30.105] LAFORGE: On my way, Captain.
+[00:30:30.905 --> 00:30:31.785] LAFORGE: You go on ahead, Doctor.
+[00:30:31.785 --> 00:30:33.785] LAFORGE: Ensign Palvik can show you the file on the engine modifications.
+[00:30:40.425 --> 00:30:43.785] LEAH: Phase coils upgraded to fifty five field densities.
+[00:30:44.345 --> 00:30:46.585] LEAH: Plasma inducers interlinked with generator.
+[00:30:48.425 --> 00:30:53.225] LEAH: Ensign, would there be any other files with data on the original engine specifications?
+[00:30:53.305 --> 00:30:54.345] PAVLIK: I believe so, Doctor.
+[00:31:00.825 --> 00:31:02.985] LEAH: This file utilises the prototype engine schematic.
+[00:31:03.785 --> 00:31:07.305] PAVLIK: It's a holographic programme, set in the drafting room at Utopia Planitia.
+[00:31:08.745 --> 00:31:09.705] LEAH: I'll run it on holodeck three.
+[00:31:18.185 --> 00:31:24.025] LEAH: Computer replay programme nine one four zero. Engine schematic at Utopia Planitia.
+[00:31:25.225 --> 00:31:26.585] COMPUTER: Programme loaded and ready.
+[00:31:31.865 --> 00:31:33.145] LAFORGE: She went where?
+[00:31:33.705 --> 00:31:34.665] PAVLIK: Holodeck three, sir.
+[00:31:35.305 --> 00:31:37.225] PAVLIK: I didn't think there was anything wrong with her seeing the file.
+[00:31:37.385 --> 00:31:38.345] LAFORGE: Of course not.
+[00:31:38.745 --> 00:31:39.545] LAFORGE: Nothing at all.
+[00:31:41.065 --> 00:31:42.345] HOLO LEAH: I'm with you every day, Geordi.
+[00:31:43.739 --> 00:31:45.979] HOLO LEAH: Every time you look at this engine, you're looking at me.
+[00:31:47.179 --> 00:31:49.339] HOLO LEAH: Every time you touch it, it's me.
+[00:31:53.819 --> 00:31:54.699] LAFORGE: Computer, freeze programme.
+[00:31:57.099 --> 00:31:57.579] LEAH: Now
+[00:31:59.179 --> 00:32:00.139] LEAH: I understand.
+[00:32:00.459 --> 00:32:01.339] LAFORGE: No, you don't.
+[00:32:01.419 --> 00:32:03.019] LAFORGE: It's not the way this may look.
+[00:32:03.739 --> 00:32:05.659] LEAH: I called up a replay of the programme file.
+[00:32:06.779 --> 00:32:16.459] LEAH: I was all ready to compliment you again, Commander, for constructing a programme which contained the prototype engine so that you would always have a baseline reference for your modifications.
+[00:32:17.419 --> 00:32:23.099] LEAH: And now I find that it's all about a fantasy plaything.
+[00:32:23.179 --> 00:32:23.819] LAFORGE: It's not like that,
+[00:32:24.299 --> 00:32:24.859] LAFORGE: I swear.
+[00:32:24.859 --> 00:32:26.539] LEAH: I'm outraged by this.
+[00:32:27.499 --> 00:32:29.659] LEAH: I have been invaded. Violated.
+[00:32:29.979 --> 00:32:31.579] LEAH: How dare you use me like this?
+[00:32:32.139 --> 00:32:33.179] LEAH: How far did it go, anyway?
+[00:32:34.219 --> 00:32:34.939] LEAH: Was it good for you?
+[00:32:35.419 --> 00:32:36.539] LAFORGE: Nothing like that happened.
+[00:32:36.539 --> 00:32:38.459] LAFORGE: It was a professional collaboration.
+[00:32:38.459 --> 00:32:39.579] LEAH: Oh, I can tell.
+[00:32:40.219 --> 00:32:42.219] LEAH: Every time you're touching the engine you're touching me.
+[00:32:42.219 --> 00:32:43.179] LEAH: Real professional.
+[00:32:43.339 --> 00:32:45.739] LAFORGE: Look, if you watched the whole programme, you saw what it was.
+[00:32:45.739 --> 00:32:49.819] LAFORGE: We were working together to solve a problem in a crisis situation.
+[00:32:50.059 --> 00:32:51.339] LEAH: How do I know how far it went?
+[00:32:52.299 --> 00:32:54.379] LEAH: How many other programs did you create?
+[00:32:55.099 --> 00:32:58.379] LEAH: Perhaps dozens of them, one for every day of the week, one for every mood.
+[00:32:58.379 --> 00:32:59.019] LAFORGE: All right, look.
+[00:33:00.779 --> 00:33:03.579] LAFORGE: Ever since you came on board, you've been badgering me and I've taken it.
+[00:33:04.379 --> 00:33:08.379] LAFORGE: I've shown you courtesy, and respect, and a hell of a lot of patience.
+[00:33:08.779 --> 00:33:09.259] LAFORGE: Oh, no, no, no,
+[00:33:09.259 --> 00:33:09.739] LAFORGE: wait a minute.
+[00:33:11.819 --> 00:33:13.099] LAFORGE: I've tried to understand you.
+[00:33:13.537 --> 00:33:20.097] LAFORGE: I've tried to get along with you. And in return, you've accused, tried and convicted me without bothering to hear my side of it.
+[00:33:20.737 --> 00:33:22.817] LAFORGE: So, I'm guilty, okay?
+[00:33:23.137 --> 00:33:24.257] LAFORGE: But not of what you think.
+[00:33:25.457 --> 00:33:26.737] LAFORGE: Of something much worse.
+[00:33:28.017 --> 00:33:31.297] LAFORGE: I'm guilty of reaching out to you,
+[00:33:32.897 --> 00:33:35.217] LAFORGE: of hoping we could connect.
+[00:33:37.697 --> 00:33:40.737] LAFORGE: I'm guilty of a terrible crime, Doctor.
+[00:33:43.057 --> 00:33:43.953] LAFORGE: I offered you friendship.
+[00:33:43.953 --> 00:33:44.177] WORF: Captain,
+[00:33:58.897 --> 00:34:02.017] WORF: its total volume has increased by eight point five percent in the last three hours.
+[00:34:02.257 --> 00:34:04.177] WORF: I now read it at forty six million cubic metres.
+[00:34:04.577 --> 00:34:08.177] DATA: Captain, I have completed the analysis of the parent's course through this system.
+[00:34:08.817 --> 00:34:10.017] RIKER: It was headed for an asteroid belt.
+[00:34:12.017 --> 00:34:15.297] PICARD: Ensign Rager, set course two five nine mark three one eight,
+[00:34:15.617 --> 00:34:15.990] PICARD: half impulse.
+[00:34:15.990 --> 00:34:16.177] RAGER: Aye,
+[00:34:16.417 --> 00:34:16.817] RAGER: sir.
+[00:34:17.457 --> 00:34:20.337] PICARD: Hold a position five hundred kilometres from the periphery of the asteroid field.
+[00:34:20.817 --> 00:34:21.217] RAGER: Aye, sir.
+[00:34:29.857 --> 00:34:33.057] WORF: Difficulty getting a clear sensor reading beyond four thousand kilometres.
+[00:34:33.457 --> 00:34:38.657] DATA: The asteroids contain large quantities of meklonite, which is interfering with our scanners.
+[00:34:39.137 --> 00:34:44.977] DATA: I am also detecting traces of kephneum, a compound found in the outer shell of the parent being.
+[00:34:45.937 --> 00:34:48.257] DATA: It is likely the asteroids provide sustenance
+[00:34:48.271 --> 00:34:49.329] DATA: for this lifeform, sir.
+[00:34:49.329 --> 00:34:51.711] RIKER: We could leave the child here. If Data's right,
+[00:34:51.711 --> 00:34:53.071] RIKER: it would have an ample supply of food.
+[00:34:53.711 --> 00:34:55.551] PICARD: Agreed. Mister La Forge,
+[00:34:55.631 --> 00:34:57.711] PICARD: are you ready to separate our guest from the hull?
+[00:34:57.871 --> 00:34:58.591] LAFORGE: Ready, Captain.
+[00:34:59.231 --> 00:34:59.711] PICARD: Proceed.
+[00:35:00.351 --> 00:35:00.431] LAFORGE: I
+[00:35:10.671 --> 00:35:13.951] LAFORGE: am deactivating the atmospheric force field now.
+[00:35:24.671 --> 00:35:25.551] PICARD: Engineering, report.
+[00:35:26.271 --> 00:35:28.271] PAVLIK: Power drain just jumped to ninety three percent, sir.
+[00:35:28.751 --> 00:35:32.031] DATA: Captain, the offspring is emitting high frequency radio transmissions.
+[00:35:32.111 --> 00:35:32.991] RIKER: Is it trying to communicate?
+[00:35:33.871 --> 00:35:34.911] PAVLIK: The power drain is increasing,
+[00:35:35.471 --> 00:35:36.671] PAVLIK: Approaching auto-shutdown.
+[00:35:37.391 --> 00:35:38.351] RIKER: Take the engines offline.
+[00:35:38.751 --> 00:35:40.431] RIKER: Supplement with auxiliary power only.
+[00:35:40.511 --> 00:35:42.271] RIKER: All decks go to emergency level seven.
+[00:35:42.431 --> 00:35:44.591] RIKER: Life support and critical operations only.
+[00:35:44.911 --> 00:35:46.111] PICARD: Mister La Forge, what is your status?
+[00:35:46.671 --> 00:35:47.311] LAFORGE: Sorry, Captain.
+[00:35:47.311 --> 00:35:51.471] LAFORGE: The bay's been completely depressurised, but it's still hanging on.
+[00:35:52.591 --> 00:35:54.591] DATA: I am detecting other radio transmissions, Captain.
+[00:35:55.311 --> 00:35:57.711] WORF: Sensors detect movement within the asteroid field.
+[00:35:58.271 --> 00:36:00.511] WORF: Bearing two five seven mark one six one.
+[00:36:01.951 --> 00:36:02.431] PICARD: On screen.
+[00:36:04.431 --> 00:36:04.911] PICARD: Magnify.
+[00:36:08.671 --> 00:36:14.671] DATA: At their current speed, sir, the entities will intercept us in ten minutes, thirty one seconds.
+[00:36:14.991 --> 00:36:15.711] RIKER: Weapons status?
+[00:36:16.591 --> 00:36:17.551] WORF: Auxiliary power only.
+[00:36:17.711 --> 00:36:19.151] WORF: Two seconds phaser fire available.
+[00:36:42.129 --> 00:36:43.489] LAFORGE: Ensign, power readings.
+[00:36:43.889 --> 00:36:45.089] PAVLIK: We're on auxiliary generators.
+[00:36:45.329 --> 00:36:46.769] PAVLIK: life support is functioning,
+[00:36:47.729 --> 00:36:48.529] PAVLIK: that's about all.
+[00:36:48.849 --> 00:36:50.289] LAFORGE: Keep your eye on that generator console.
+[00:36:50.289 --> 00:36:53.329] LAFORGE: We've got less than six minutes to get that baby off our back before his relatives get here.
+[00:36:54.289 --> 00:36:57.009] LAFORGE: Whatever we try, Junior responds by sucking up more energy.
+[00:36:58.929 --> 00:36:59.249] LEAH: Commander,
+[00:36:59.889 --> 00:37:00.369] LEAH: I have a thought.
+[00:37:01.809 --> 00:37:02.529] LEAH: If you're interested.
+[00:37:03.249 --> 00:37:04.769] LAFORGE: Of course.
+[00:37:05.009 --> 00:37:05.329] LAFORGE: What is it?
+[00:37:06.609 --> 00:37:11.409] LEAH: If the baby is nursing, perhaps what we need is to find a way to sour the milk.
+[00:37:12.849 --> 00:37:16.336] LEAH: If we could contaminate the energy he's feeding on, we could try to
+[00:37:16.336 --> 00:37:17.409] LAFORGE: make it unpalatable somehow.
+[00:37:20.209 --> 00:37:22.529] LAFORGE: But the emergency generators are all we've got.
+[00:37:23.089 --> 00:37:25.169] LEAH: And how do we modify them without losing life support?
+[00:37:25.489 --> 00:37:26.049] LAFORGE: Exactly.
+[00:37:27.649 --> 00:37:28.049] LAFORGE: Unless.
+[00:37:28.049 --> 00:37:28.849] LEAH: What?
+[00:37:28.849 --> 00:37:30.689] LAFORGE: Well. this is a
+[00:37:37.489 --> 00:37:38.689] LAFORGE: space baby, right?
+[00:37:39.729 --> 00:37:43.409] LAFORGE: I mean, these creatures are born, live, and die in interstellar space.
+[00:37:44.129 --> 00:37:44.609] LEAH: Apparently.
+[00:37:45.169 --> 00:37:45.569] LAFORGE: Okay.
+[00:37:46.449 --> 00:37:50.129] LAFORGE: All matter in space vibrates in a specific radiation band.
+[00:37:51.009 --> 00:37:51.969] LEAH: Twenty one centimetres.
+[00:37:54.883 --> 00:37:58.243] LEAH: That's good, Commander,
+[00:37:58.243 --> 00:37:59.203] LEAH: that's very good.
+[00:38:00.243 --> 00:38:04.698] LEAH: If we could alter the power frequency so that it's completely foreign to the life form's natural vibrations
+[00:38:04.698 --> 00:38:08.163] LAFORGE: It might just give us enough to pour a little vinegar in baby's milk.
+[00:38:08.643 --> 00:38:10.083] LEAH: We have to be careful, though.
+[00:38:10.803 --> 00:38:13.283] LEAH: If we upset it this time, we might lose auxiliary power too.
+[00:38:13.923 --> 00:38:16.003] LAFORGE: If we're gradual enough it won't be such a shock.
+[00:38:16.003 --> 00:38:17.923] LAFORGE: Hopefully it'll just lose interest.
+[00:38:21.203 --> 00:38:22.083] LAFORGE: La Forge to Bridge.
+[00:38:22.323 --> 00:38:23.176] PICARD: Go ahead.
+[00:38:23.176 --> 00:38:23.603] LAFORGE: Captain,
+[00:38:24.003 --> 00:38:26.163] LAFORGE: Doctor Brahms and I have a plan.
+[00:38:40.003 --> 00:38:41.523] WORF: Two minutes until the creatures intercept, Captain.
+[00:38:51.283 --> 00:38:52.803] LAFORGE: Captain, we're ready down here.
+[00:38:54.243 --> 00:38:54.563] PICARD: Proceed.
+[00:38:56.483 --> 00:38:58.323] LAFORGE: Lowering wavelength in the energy system
+[00:38:59.123 --> 00:39:00.334] LAFORGE: now.
+[00:39:00.334 --> 00:39:07.603] LEAH: Reading eighteen, fifteen thirteen, eleven, eight,
+[00:39:09.123 --> 00:39:11.123] LEAH: five, three.
+[00:39:12.243 --> 00:39:13.283] LEAH: Now at the two centimetre level.
+[00:39:15.123 --> 00:39:16.163] LAFORGE: Any reaction, Bridge?
+[00:39:17.043 --> 00:39:17.363] DATA: Negative.
+[00:39:18.163 --> 00:39:20.803] DATA: I detect no reduction in the life form's rate of energy consumption.
+[00:39:21.443 --> 00:39:22.883] WORF: One minute thirty seconds to intercept.
+[00:39:24.282 --> 00:39:26.762] LAFORGE: Okay not sour enough. Leah,
+[00:39:28.762 --> 00:39:29.402] LAFORGE: take it down further.
+[00:39:30.762 --> 00:39:37.242] LEAH: Reading one, point eight, point four Point two.
+[00:39:42.522 --> 00:39:43.402] LAFORGE: I guess it noticed what we're doing.
+[00:39:45.322 --> 00:39:47.562] DATA: The lifeform is emitting its high frequency transmission.
+[00:39:48.362 --> 00:39:50.029] DATA: Energy consumption is rising, sir.
+[00:39:50.029 --> 00:39:50.362] WORF: Captain,
+[00:39:51.002 --> 00:39:52.602] WORF: the creatures are accelerating their approach.
+[00:39:52.602 --> 00:39:54.293] WORF: They are changing colour.
+[00:39:54.293 --> 00:39:55.562] PICARD: Mister La Forge.
+[00:39:56.042 --> 00:39:57.642] LAFORGE: Captain. Just a little more time.
+[00:39:58.522 --> 00:40:00.842] LAFORGE: Leah, nudge it down even further, toward point oh two.
+[00:40:03.482 --> 00:40:04.522] WORF: Thirty seconds to intercept.
+[00:40:05.642 --> 00:40:09.802] LEAH: Point oh eight. Oh five, oh three.
+[00:40:10.762 --> 00:40:12.122] LEAH: Now at point oh two centimetres.
+[00:40:12.122 --> 00:40:15.082] DATA: Auxiliary generators losing power, Captain.
+[00:40:16.922 --> 00:40:18.922] DATA: The
+[00:40:28.602 --> 00:40:29.882] DATA: entity has disengaged, sir.
+[00:40:30.922 --> 00:40:33.082] DATA: Power levels are returning to normal, Captain.
+[00:40:37.402 --> 00:40:41.082] RIKER: Bring the engines online and take us out of here.
+[00:40:41.642 --> 00:40:42.042] RAGER: Aye, sir.
+[00:40:43.322 --> 00:40:43.802] PICARD: Mister La Forge,
+[00:40:45.482 --> 00:40:47.082] PICARD: Doctor Brahms, congratulations.
+[00:40:49.962 --> 00:40:50.922] PICARD: You've weaned the baby.
+[00:40:54.717 --> 00:40:55.197] LAFORGE: Good work.
+[00:40:55.997 --> 00:40:56.477] LEAH: You, too.
+[00:41:05.037 --> 00:41:05.357] LAFORGE: Yeah,
+[00:41:05.597 --> 00:41:06.717] LAFORGE: I admit it.
+[00:41:06.717 --> 00:41:09.357] LAFORGE: I did get a little attached to that lady in the holodeck.
+[00:41:09.437 --> 00:41:12.637] LEAH: The computer never told you that I was married?
+[00:41:12.797 --> 00:41:13.837] LAFORGE: I never asked.
+[00:41:13.917 --> 00:41:17.597] LAFORGE: And the computer is notorious for not volunteering information.
+[00:41:21.197 --> 00:41:21.597] LEAH: You know,
+[00:41:23.437 --> 00:41:24.797] LEAH: I really owe you an apology.
+[00:41:24.797 --> 00:41:26.077] LAFORGE: No, you don't.
+[00:41:26.637 --> 00:41:27.757] LAFORGE: I should have told you straight out.
+[00:41:28.237 --> 00:41:35.037] LEAH: Well if you had, then I never would've got a chance to see the look on your face when you walked in on me and me in the holodeck.
+[00:41:35.197 --> 00:41:37.037] LAFORGE: The look on my face?
+[00:41:37.037 --> 00:41:38.557] LAFORGE: How about the look on your face?
+[00:41:39.197 --> 00:41:42.237] LAFORGE: I will remember that for a long, long time.
+[00:41:46.637 --> 00:41:47.677] LEAH: I wouldn't change a thing.
+[00:41:49.277 --> 00:41:50.237] LEAH: Except for the way I behaved.
+[00:41:52.637 --> 00:41:55.677] LEAH: I guess I came here with my own set of preconceptions about you.
+[00:41:57.917 --> 00:42:02.637] LAFORGE: Well, I guess I'm just glad that I got the opportunity to get to know you.
+[00:42:04.157 --> 00:42:04.477] LAFORGE: The real you.
+[00:42:06.957 --> 00:42:09.197] LEAH: Me, too.
+[00:42:10.557 --> 00:42:11.357] WORF: Worf to La Forge.
+[00:42:11.757 --> 00:42:14.557] WORF: There is an incoming message on subspace for Doctor Brahms.
+[00:42:18.237 --> 00:42:19.117] LAFORGE: Acknowledged, Worf.
+[00:42:20.076 --> 00:42:20.396] LAFORGE: La Forge out.
+[00:42:23.596 --> 00:42:24.076] LEAH: My husband.
+[00:42:47.000 --> 00:43:08.000] [music]
+[00:43:11.000 --> 00:43:21.000] [music]

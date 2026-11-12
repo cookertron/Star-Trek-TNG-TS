@@ -1,0 +1,735 @@
+[00:00:02.560 --> 00:00:05.440] LOG: Captain's log, stardate 45494.2.
+[00:00:05.440 --> 00:00:12.640] LOG: We're investigating a series of subspace signals that may indicate intelligent life in the Epsilon Silar System.
+[00:00:13.280 --> 00:00:14.480] LOG: We are within sensor range.
+[00:00:20.400 --> 00:00:28.000] DATA: The characteristic response to the Kriskov Gambit is to counter with the el-Mitra Exchange, particularly since I have already taken both your rooks.
+[00:00:28.800 --> 00:00:32.720] DATA: By missing that opportunity, you have left your king vulnerable.
+[00:00:33.040 --> 00:00:33.600] TROI: We'll see.
+[00:00:35.120 --> 00:00:36.000] DATA: As you wish, Counsellor.
+[00:00:37.440 --> 00:00:37.600] DATA: Check.
+[00:00:47.120 --> 00:00:47.680] DATA: Intriguing.
+[00:00:48.960 --> 00:00:52.480] DATA: You have devised a completely unanticipated response to a classic attack.
+[00:00:53.760 --> 00:00:55.440] DATA: You will checkmate my king in seven moves.
+[00:00:56.560 --> 00:01:00.880] TROI: Data, chess isn't just a game of ploys and gambits.
+[00:01:01.520 --> 00:01:02.800] TROI: It's a game of intuition.
+[00:01:05.280 --> 00:01:06.960] DATA: You are a challenging opponent, Counsellor.
+[00:01:08.000 --> 00:01:12.640] TROI: Thanks, but don't think a compliment's going to get you out of our bet.
+[00:01:13.360 --> 00:01:18.480] TROI: You owe me one Samarian Sunset made in the traditional style,
+[00:01:20.080 --> 00:01:21.360] TROI: as only you can make it, Data.
+[00:01:22.800 --> 00:01:23.840] DATA: I will honour our agreement.
+[00:01:29.471 --> 00:01:30.511] CRUSHER: Raise your arm to the side.
+[00:01:34.351 --> 00:01:34.751] CRUSHER: Is that it?
+[00:01:35.231 --> 00:01:35.791] KRISTIN: I'm afraid so.
+[00:01:38.351 --> 00:01:38.911] KRISTIN: What do you think?
+[00:01:39.311 --> 00:01:41.551] CRUSHER: Well, it looks like you tucked when you should have flattened out.
+[00:01:42.431 --> 00:01:43.151] KRISTIN: Something like that.
+[00:01:43.871 --> 00:01:44.671] CRUSHER: Turn your head to the left.
+[00:01:48.831 --> 00:01:50.191] CRUSHER: Some tearing of the ligaments.
+[00:01:51.311 --> 00:01:52.191] CRUSHER: Nothing we can't take care of.
+[00:01:52.751 --> 00:01:52.751] KRISTIN: Good.
+[00:01:55.871 --> 00:02:05.311] CRUSHER: If I remember correctly, the last time you graced my Sickbay, you were diving off the Cliffs of Heaven on Sumiko Four. Holodeck programme 47C.
+[00:02:05.631 --> 00:02:06.671] KRISTIN: Same thing.
+[00:02:06.751 --> 00:02:09.551] KRISTIN: Only that time, I flattened out when I should have tucked.
+[00:02:09.951 --> 00:02:14.431] CRUSHER: Well, as your Doctor, I would like to recommend the Emerald Wading Pool on Cirrus Four.
+[00:02:14.431 --> 00:02:16.111] CRUSHER: It's a lot safer.
+[00:02:17.071 --> 00:02:20.991] RIKER: Navigators on this ship have been doing flight handling assessments the same way for years, Ensign.
+[00:02:21.631 --> 00:02:22.751] RO: And I've found a better way.
+[00:02:24.911 --> 00:02:25.311] RIKER: Bridge.
+[00:02:27.151 --> 00:02:29.711] RIKER: Do you mind if we discuss changes in procedure before you make them?
+[00:02:29.951 --> 00:02:32.511] RO: If I had come to you in advance and asked you to do it my way
+[00:02:32.511 --> 00:02:33.151] RIKER: I might have said
+[00:02:33.151 --> 00:02:33.311] RO: No.
+[00:02:33.311 --> 00:02:33.951] RIKER: Yes, maybe.
+[00:02:33.951 --> 00:02:34.591] RIKER: The
+[00:02:36.511 --> 00:02:37.711] RIKER: point is, I didn't get the chance.
+[00:02:39.071 --> 00:02:45.071] RO: The point is, with all due respect Commander, you're trying to turn me into your idea of the model officer.
+[00:02:45.391 --> 00:02:49.071] RIKER: The rules on this ship do not change just because Ro Laren decides they do.
+[00:02:57.311 --> 00:02:59.231] WORF: We are picking up a subspace signal, Captain.
+[00:03:00.111 --> 00:03:02.111] WORF: Sensors indicate a small spacecraft ahead.
+[00:03:02.751 --> 00:03:04.031] LAFORGE: The configuration is unfamiliar.
+[00:03:04.252 --> 00:03:05.532] LAFORGE: Nothing in our database comes close.
+[00:03:06.092 --> 00:03:06.972] WORF: Within visual range.
+[00:03:07.532 --> 00:03:07.932] PICARD: On screen.
+[00:03:10.492 --> 00:03:11.292] PICARD: Analysis, Mister Worf.
+[00:03:12.332 --> 00:03:13.532] WORF: No discernable armament.
+[00:03:14.252 --> 00:03:15.372] WORF: Reading one lifeform aboard.
+[00:03:17.212 --> 00:03:17.692] PICARD: Hail the vessel.
+[00:03:19.612 --> 00:03:20.172] WORF: No response, Captain.
+[00:03:20.892 --> 00:03:21.772] LAFORGE: We're being scanned.
+[00:03:23.372 --> 00:03:25.052] LAFORGE: It's not like any sensor system I've ever seen.
+[00:03:25.932 --> 00:03:26.652] LAFORGE: Shall we raise shields?
+[00:03:28.652 --> 00:03:29.132] PICARD: No,
+[00:03:31.292 --> 00:03:34.244] PICARD: let's begin this with a show of good faith.
+[00:03:34.244 --> 00:03:34.572] WORF: Sir,
+[00:03:35.612 --> 00:03:38.732] WORF: the scans are now matching the frequency of our optical data network.
+[00:03:39.372 --> 00:03:41.372] WORF: It could be an attempt to access our computer system.
+[00:03:41.852 --> 00:03:44.652] LAFORGE: Scanning intensity has increased by fifteen hundred percent.
+[00:03:47.052 --> 00:03:47.532] PICARD: Shields up.
+[00:03:50.012 --> 00:03:53.692] DATA: One Samarian Sunset, made in the traditional style.
+[00:03:58.252 --> 00:03:59.052] TROI: It's beautiful.
+[00:03:59.132 --> 00:04:01.852] DATA: I hope you enjoy it.
+[00:04:05.692 --> 00:04:06.412] DATA: I hope you enjoy it.
+[00:04:06.562 --> 00:04:07.162] WORF: The
+[00:04:11.052 --> 00:04:12.812] WORF: scanning signal has penetrated our shields.
+[00:04:13.292 --> 00:04:14.252] LAFORGE: Computers are going down.
+[00:04:14.652 --> 00:04:15.372] PICARD: Take evasive action.
+[00:04:16.652 --> 00:04:17.772] RO: The helm's not responding.
+[00:04:18.012 --> 00:04:18.092] PICARD: What
+[00:04:27.612 --> 00:04:27.932] PICARD: happened?
+[00:04:50.417 --> 00:04:52.417] LAFORGE: What the hell?
+[00:04:52.417 --> 00:04:53.457] RIKER: I don't know who any of you are.
+[00:04:55.377 --> 00:04:55.777] PICARD: Nor do I.
+[00:05:02.657 --> 00:05:02.897] PICARD: I don't
+[00:05:05.697 --> 00:05:06.977] PICARD: even remember who I am.
+[00:05:43.217 --> 00:05:45.937] PICARD: Space, the final frontier.
+[00:05:47.857 --> 00:05:50.737] PICARD: These are the voyages of the starship Enterprise.
+[00:05:51.857 --> 00:05:59.857] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:06:01.457 --> 00:06:04.977] PICARD: to boldly go where no one has gone before.
+[00:06:06.000 --> 00:06:20.000] [music]
+[00:06:33.000 --> 00:06:41.000] [music]
+[00:06:42.000 --> 00:06:50.000] [music]
+[00:06:53.000 --> 00:07:01.000] [music]
+[00:07:02.101 --> 00:07:03.221] LAFORGE: Looks like we're all in the same boat.
+[00:07:04.101 --> 00:07:05.381] RIKER: Make that on the same starship.
+[00:07:08.021 --> 00:07:08.581] MACDUFF: But who are we?
+[00:07:09.781 --> 00:07:10.581] MACDUFF: What are we doing here?
+[00:07:10.581 --> 00:07:13.381] RO: It looks like I'm the pilot.
+[00:07:16.741 --> 00:07:19.701] RO: We're not going anywhere now.
+[00:07:19.701 --> 00:07:20.341] RO: The helm's dead.
+[00:07:20.501 --> 00:07:23.381] PICARD: But you still know how to work it.
+[00:07:25.461 --> 00:07:25.861] RO: Yes.
+[00:07:26.101 --> 00:07:28.101] RIKER: This
+[00:07:33.541 --> 00:07:35.141] RIKER: console has tactical configuration?
+[00:07:37.061 --> 00:07:37.381] WORF: Yes.
+[00:07:38.381 --> 00:07:39.421] WORF: Phaser power status,
+[00:07:40.221 --> 00:07:40.781] WORF: intruder scan,
+[00:07:40.781 --> 00:07:41.581] WORF: torpedo guidance.
+[00:07:41.731 --> 00:07:42.331] WORF: But
+[00:07:43.101 --> 00:07:45.101] WORF: they do not appear to be operable.
+[00:07:45.901 --> 00:07:49.421] PICARD: Clearly, we still possess certain skills. It would seem we know how to operate this ship.
+[00:07:50.781 --> 00:07:55.901] PICARD: But our identities have somehow been erased or suppressed.
+[00:07:59.181 --> 00:07:59.501] RIKER: We are on the
+[00:08:01.181 --> 00:08:03.181] RIKER: Bridge.
+[00:08:03.261 --> 00:08:04.621] RIKER: There's a good chance this is our ship.
+[00:08:06.461 --> 00:08:07.261] RIKER: Looks like you're the leader.
+[00:08:08.221 --> 00:08:10.061] WORF: Perhaps we should not jump to conclusions.
+[00:08:11.421 --> 00:08:12.781] WORF: I am decorated as well.
+[00:08:13.821 --> 00:08:17.261] PICARD: It seems to me that determining leadership is not crucial right now.
+[00:08:17.261 --> 00:08:23.341] PICARD: We need to find out who we are and well, what we're doing out here.
+[00:08:24.701 --> 00:08:25.501] MACDUFF: But how did this happen?
+[00:08:26.301 --> 00:08:27.181] MACDUFF: What did this to us?
+[00:08:27.741 --> 00:08:28.461] LAFORGE: Better still,
+[00:08:29.501 --> 00:08:30.541] LAFORGE: who did this to us?
+[00:08:31.181 --> 00:08:33.341] LAFORGE: I've got some intermittent sensor readings here.
+[00:08:33.821 --> 00:08:39.661] LAFORGE: The scan keeps repeating itself like it's stuck, but it looks like there's metallic debris right in front of us.
+[00:08:40.621 --> 00:08:42.461] LAFORGE: Distance, seventeen kilometres.
+[00:08:43.341 --> 00:08:44.221] RIKER: The remains of another ship?
+[00:08:44.781 --> 00:08:45.581] LAFORGE: That's a good possibility.
+[00:08:45.981 --> 00:08:48.701] WORF: Perhaps we were engaged in battle.
+[00:08:48.851 --> 00:08:49.451] MACDUFF: If
+[00:08:50.461 --> 00:08:53.581] MACDUFF: they stunned us with some type of bioelectric field that could have wiped out our memories.
+[00:08:54.141 --> 00:08:55.901] RO: Then we fired back, destroyed them.
+[00:08:56.941 --> 00:08:59.741] PICARD: But if that presumption is correct, then we could have sustained other damage.
+[00:09:00.941 --> 00:09:01.341] PICARD: Um,
+[00:09:02.701 --> 00:09:03.741] PICARD: Computer, status report.
+[00:09:09.101 --> 00:09:09.981] RIKER: No voice interface.
+[00:09:10.861 --> 00:09:11.501] LAFORGE: No interface,
+[00:09:11.501 --> 00:09:11.981] LAFORGE: period.
+[00:09:13.404 --> 00:09:15.484] LAFORGE: Hey. Got something.
+[00:09:20.604 --> 00:09:22.364] LAFORGE: I've accessed the basic system directories.
+[00:09:23.564 --> 00:09:25.004] PICARD: Can we get a general status report?
+[00:09:25.884 --> 00:09:29.084] LAFORGE: Life support systems throughout the ship are fully operational.
+[00:09:29.964 --> 00:09:32.604] LAFORGE: Navigation, propulsion offline.
+[00:09:33.004 --> 00:09:34.044] RO: What about communications?
+[00:09:35.244 --> 00:09:35.964] LAFORGE: Completely disrupted.
+[00:09:37.564 --> 00:09:38.764] RO: That rules out a distress signal.
+[00:09:39.164 --> 00:09:41.484] RIKER: If we even knew where to send it.
+[00:09:41.484 --> 00:09:43.324] PICARD: Do we have an onboard communications system?
+[00:09:46.764 --> 00:09:46.764] LAFORGE: We do
+[00:09:50.124 --> 00:09:50.364] LAFORGE: now.
+[00:09:52.124 --> 00:09:52.604] PICARD: Lets use it.
+[00:09:53.564 --> 00:09:54.604] PICARD: This ship must have a crew.
+[00:09:56.284 --> 00:09:57.564] PICARD: They may still have their memories.
+[00:09:58.604 --> 00:10:00.204] RO: We should be careful what we say.
+[00:10:00.204 --> 00:10:02.284] RO: There could be a boarding party somewhere on the ship.
+[00:10:03.324 --> 00:10:04.364] WORF: Bridge to all personnel.
+[00:10:04.764 --> 00:10:09.404] WORF: Select a representative from your group to contact the Bridge and report on your status.
+[00:10:09.404 --> 00:10:11.084] WORF: Remain where you are and
+[00:10:11.564 --> 00:10:12.204] WORF: stay calm.
+[00:10:13.084 --> 00:10:13.564] WORF: Bridge out.
+[00:10:14.764 --> 00:10:15.804] KRISTIN: Well, that helps a lot.
+[00:10:17.164 --> 00:10:18.524] CRUSHER: Report on our status?
+[00:10:20.364 --> 00:10:22.284] CRUSHER: I wonder if every one else is in the same condition as we are.
+[00:10:24.044 --> 00:10:24.924] KRISTIN: This hurts.
+[00:10:35.804 --> 00:10:37.964] CRUSHER: How's that?
+[00:10:39.404 --> 00:10:39.724] KRISTIN: Thanks.
+[00:10:41.644 --> 00:10:42.524] CRUSHER: I didn't even think.
+[00:10:43.164 --> 00:10:44.764] CRUSHER: I just picked it up and knew how to use it.
+[00:10:47.170 --> 00:10:48.530] CRUSHER: At least I have an idea of what I'm doing here.
+[00:10:50.770 --> 00:10:52.050] KRISTIN: But what about me?
+[00:10:53.890 --> 00:10:55.730] KRISTIN: I mean, I'm a patient in a bathing suit.
+[00:10:57.330 --> 00:10:58.130] KRISTIN: That doesn't say much.
+[00:10:59.010 --> 00:10:59.570] CRUSHER: No, it doesn't.
+[00:10:59.570 --> 00:10:59.570] KRISTIN: Do
+[00:11:03.090 --> 00:11:06.930] KRISTIN: you have any clothes around here I could borrow?
+[00:11:06.930 --> 00:11:10.450] KRISTIN: At least until I figure out where the swimming pool is?
+[00:11:13.810 --> 00:11:14.130] MACDUFF: We've heard
+[00:11:24.850 --> 00:11:25.570] MACDUFF: from all decks.
+[00:11:25.570 --> 00:11:27.970] MACDUFF: There are over a thousand people on board.
+[00:11:29.010 --> 00:11:31.090] MACDUFF: Everyone's had their memories affected in the same way we have.
+[00:11:31.730 --> 00:11:34.290] WORF: I have completed a survey of our tactical systems.
+[00:11:34.770 --> 00:11:40.930] WORF: We are equipped with ten phaser banks, two hundred and fifty photon torpedoes, and a high capacity shield grid.
+[00:11:41.490 --> 00:11:42.210] MACDUFF: We're a battleship.
+[00:11:42.770 --> 00:11:43.410] WORF: It appears so.
+[00:11:44.050 --> 00:11:46.290] RO: This turbolift system gives us access to the rest of the ship.
+[00:11:46.610 --> 00:11:48.050] RIKER: That sounds like the next logical step.
+[00:11:48.210 --> 00:11:50.130] RIKER: Start with the most crucial areas.
+[00:11:50.770 --> 00:11:52.930] RO: Main Engineering, deck thirty six.
+[00:11:53.090 --> 00:11:53.490] RO: I'm on my way.
+[00:11:53.490 --> 00:11:54.130] RIKER: Whoa, wait a minute.
+[00:11:54.850 --> 00:11:56.610] RIKER: We've got to coordinate our efforts here first.
+[00:11:57.650 --> 00:11:58.770] RO: I just need to do something.
+[00:11:59.010 --> 00:12:00.610] RIKER: Look, I feel the same way. We all do.
+[00:12:00.930 --> 00:12:02.130] RIKER: But if anything's going to get done.
+[00:12:02.690 --> 00:12:03.090] RO: I know,
+[00:12:03.090 --> 00:12:03.490] RO: I just.
+[00:12:05.170 --> 00:12:06.530] RO: It's really an ugly feeling
+[00:12:06.530 --> 00:12:07.890] RO: I don't like being so out of control.
+[00:12:08.530 --> 00:12:11.090] RIKER: Well, we're going to have to depend on each other if we're going to get through this,
+[00:12:11.570 --> 00:12:13.570] RIKER: okay?
+[00:12:13.650 --> 00:12:13.890] RO: Okay.
+[00:12:15.810 --> 00:12:16.850] RIKER: We're going to search the ship.
+[00:12:17.490 --> 00:12:18.050] WORF: Very well.
+[00:12:18.130 --> 00:12:18.690] WORF: Proceed.
+[00:12:21.182 --> 00:12:21.662] LAFORGE: I'll go with you.
+[00:12:21.982 --> 00:12:25.582] LAFORGE: I want to get my hands on the computer core. See if we can re-establish control from there.
+[00:12:34.382 --> 00:12:36.782] LAFORGE: I've accessed the optical data network for the engineering core.
+[00:12:36.942 --> 00:12:39.022] LAFORGE: I can monitor every system that's routed through here.
+[00:12:39.742 --> 00:12:42.622] RO: Warp and impulse drive are reading within tolerance levels.
+[00:12:42.942 --> 00:12:45.560] RO: So are the tactical arrays, defensive and offensive.
+[00:12:45.560 --> 00:12:46.542] LAFORGE: Everything looks functional.
+[00:12:46.542 --> 00:12:49.262] LAFORGE: Now, if we could just access the control systems, we could get them up and running.
+[00:12:49.342 --> 00:12:52.702] RIKER: According to the schematics, the engineering computer core access is down that corridor.
+[00:12:53.422 --> 00:12:55.742] RO: Weapons, propulsion and shields are the priorities.
+[00:12:55.822 --> 00:12:57.182] RO: We could be in danger of another attack.
+[00:12:57.742 --> 00:12:58.382] LAFORGE: That's where I'll start.
+[00:12:58.862 --> 00:13:00.782] RIKER: We'll begin our crew survey on decks five through ten.
+[00:13:00.782 --> 00:13:03.822] RIKER: When you get those systems going, try to pull up the personnel files.
+[00:13:04.142 --> 00:13:05.422] RIKER: It'd be nice if we all had names.
+[00:13:05.582 --> 00:13:06.222] RIKER: Right. Good luck.
+[00:13:06.382 --> 00:13:07.182] LAFORGE: Yeah. You too.
+[00:13:13.102 --> 00:13:16.382] PICARD: So far our survey team has found no deaths or injuries among the crew.
+[00:13:16.862 --> 00:13:18.942] PICARD: Shuttlecraft are all operational, as are the transporters.
+[00:13:19.422 --> 00:13:21.902] MACDUFF: But no one they've talked to knows any more about their identities than we do.
+[00:13:22.622 --> 00:13:25.342] WORF: Engineering is working on accessing the control systems.
+[00:13:25.982 --> 00:13:29.022] WORF: As soon as the ship is operational, we must make it combat ready.
+[00:13:30.222 --> 00:13:39.022] PICARD: Well, I would recommend that before we prepare for combat, we try to access the ship's logs, find out who we are, what our purpose here might be.
+[00:13:39.502 --> 00:13:40.302] WORF: I disagree.
+[00:13:41.342 --> 00:13:43.342] WORF: We must first make ourselves ready for battle.
+[00:13:43.342 --> 00:13:44.782] WORF: That is the highest priority.
+[00:13:45.342 --> 00:13:46.382] LAFORGE: Engineering to Bridge.
+[00:13:46.774 --> 00:13:47.254] WORF: Go ahead.
+[00:13:47.814 --> 00:13:51.254] LAFORGE: I've regained control of navigation, propulsion, weapons and communications.
+[00:13:51.334 --> 00:13:53.574] LAFORGE: We should be able to tie them into the Bridge in just a few minutes.
+[00:13:54.454 --> 00:13:55.094] WORF: Well done.
+[00:13:56.294 --> 00:13:57.094] WORF: Now we are ready.
+[00:13:57.244 --> 00:13:57.844] PICARD: The
+[00:13:59.494 --> 00:14:01.734] PICARD: question is, for what?
+[00:14:10.854 --> 00:14:13.894] MACDUFF: The phasers are operational.
+[00:14:15.414 --> 00:14:17.254] WORF: We now have full tactical control.
+[00:14:18.774 --> 00:14:21.094] PICARD: We should run a complete diagnostic of all command systems.
+[00:14:21.574 --> 00:14:24.854] WORF: A full diagnostic would require us to take our systems offline.
+[00:14:25.494 --> 00:14:26.374] WORF: We would be defenceless.
+[00:14:26.374 --> 00:14:31.254] PICARD: If we're going to trust our lives to these systems, we should be certain they're not going to fail.
+[00:14:31.574 --> 00:14:32.774] MACDUFF: The computer was damaged.
+[00:14:32.774 --> 00:14:34.134] MACDUFF: Some processors might still be down.
+[00:14:38.294 --> 00:14:39.414] WORF: Proceed with the diagnostic.
+[00:14:39.414 --> 00:14:39.494] WORF: What
+[00:14:43.254 --> 00:14:44.534] WORF: have you
+[00:14:46.454 --> 00:14:47.014] WORF: found, Doctor?
+[00:14:47.734 --> 00:14:48.454] CRUSHER: Not much.
+[00:14:49.174 --> 00:14:53.014] CRUSHER: The brain scans I've run are unusual, but there's no damage to the hippocampus.
+[00:14:53.414 --> 00:14:57.574] CRUSHER: That suggests that we still have our long-term memories but somehow they're being blocked.
+[00:14:57.814 --> 00:15:01.334] PICARD: Is it possible to bypass the normal pathways? To get at those memories some other way?
+[00:15:01.814 --> 00:15:02.614] CRUSHER: That's what I'm hoping.
+[00:15:03.574 --> 00:15:06.694] CRUSHER: What I need now is to see some normal brain scans for comparison.
+[00:15:06.854 --> 00:15:08.854] CRUSHER: Is there any chance I can get the crew's medical files?
+[00:15:09.654 --> 00:15:11.814] WORF: We are currently running a full diagnostic.
+[00:15:13.334 --> 00:15:14.694] WORF: Computer resources are limited.
+[00:15:14.694 --> 00:15:16.374] PICARD: The medical records are our next
+[00:15:16.373 --> 00:15:16.373] PICARD: priority.
+[00:15:17.573 --> 00:15:17.893] CRUSHER: Thank you.
+[00:15:24.933 --> 00:15:27.493] CREWMAN: I guess these are my quarters, but I don't remember anything.
+[00:15:27.973 --> 00:15:30.133] RIKER: If it's any comfort, we're all in the same situation,
+[00:15:30.453 --> 00:15:31.333] RIKER: so stay put for now.
+[00:15:31.493 --> 00:15:31.973] RIKER: We'll be back in touch.
+[00:15:32.773 --> 00:15:33.093] CREWMAN: Okay, sir.
+[00:15:33.493 --> 00:15:33.767] CREWMAN: Thanks.
+[00:15:33.767 --> 00:15:35.413] RO: That's all I need for now.
+[00:15:38.853 --> 00:15:41.733] RO: Well, that's it for the living quarters on this deck.
+[00:15:42.133 --> 00:15:42.773] RO: What's next?
+[00:15:43.013 --> 00:15:45.973] RIKER: There's a large room up ahead called Ten Forward.
+[00:15:46.293 --> 00:15:46.613] RO: Let's go.
+[00:15:49.733 --> 00:15:53.733] RO: So if everything were back to the way it was supposed to be, what do you think you'd be doing right now?
+[00:15:53.813 --> 00:15:55.573] RIKER: I'd be having more fun than searching the ship,
+[00:15:55.573 --> 00:15:56.053] RIKER: I'd imagine.
+[00:15:56.693 --> 00:15:57.093] RO: Fun?
+[00:15:57.653 --> 00:16:02.133] RIKER: Well, with that holodeck we just saw. I think I could conjure up an interesting programme or two.
+[00:16:03.253 --> 00:16:04.533] RO: Now that's disappointing.
+[00:16:04.533 --> 00:16:04.773] RIKER: Why?
+[00:16:05.573 --> 00:16:08.533] RO: You don't strike me as a man who needs a holodeck to have a good time.
+[00:16:11.653 --> 00:16:11.813] RIKER: Who
+[00:16:14.213 --> 00:16:15.573] RIKER: reported to the Bridge from this group?
+[00:16:15.813 --> 00:16:16.133] TROI: I did.
+[00:16:17.013 --> 00:16:19.093] RIKER: Have you found anything that might give us some insight into what happened?
+[00:16:19.333 --> 00:16:22.373] TROI: Not specifically, but there are two things that seem unusual.
+[00:16:23.733 --> 00:16:26.293] TROI: The bartender is an artificial lifeform.
+[00:16:26.373 --> 00:16:29.013] DATA: Can I get you something?
+[00:16:30.373 --> 00:16:30.933] DATA: A beverage?
+[00:16:33.253 --> 00:16:33.813] RIKER: No, thank you.
+[00:16:34.453 --> 00:16:34.933] RO: I'm fine.
+[00:16:36.293 --> 00:16:37.333] RIKER: Your memories are gone as well?
+[00:16:38.213 --> 00:16:41.973] DATA: The databanks that identify who I am are not functioning.
+[00:16:44.133 --> 00:16:45.333] RIKER: You were going to mention something else?
+[00:16:45.333 --> 00:16:49.573] TROI: I don't know if this means anything, but I seem to have an ability that the others don't.
+[00:16:50.701 --> 00:16:53.981] TROI: I have a very strong sense of what other people are feeling
+[00:16:54.621 --> 00:16:56.621] TROI: at times it's almost
+[00:16:58.781 --> 00:16:59.421] RIKER: Is something wrong?
+[00:17:00.381 --> 00:17:00.781] TROI: No.
+[00:17:02.781 --> 00:17:05.021] TROI: Just for a moment, you seemed familiar.
+[00:17:05.901 --> 00:17:06.701] RIKER: You remember me?
+[00:17:07.661 --> 00:17:08.381] TROI: Not exactly.
+[00:17:08.381 --> 00:17:09.981] TROI: I mean, I don't know who you are, but
+[00:17:11.501 --> 00:17:12.621] TROI: there's something about you.
+[00:17:13.181 --> 00:17:14.141] WORF: Bridge to survey team.
+[00:17:14.781 --> 00:17:15.501] RIKER: Survey team here.
+[00:17:15.501 --> 00:17:15.901] RIKER: Go ahead.
+[00:17:16.381 --> 00:17:18.221] WORF: We have accessed the personnel files.
+[00:17:18.381 --> 00:17:19.981] WORF: Report to the Bridge immediately.
+[00:17:20.941 --> 00:17:21.421] RO: We're on our way.
+[00:17:32.381 --> 00:17:37.261] LAFORGE: Computer give me a biographical listing of all personnel responsible for primary operation of the ship.
+[00:17:37.821 --> 00:17:40.221] COMPUTER: A full biographical listing is not available.
+[00:17:42.461 --> 00:17:44.461] LAFORGE: Is there any list of the ship's senior officers?
+[00:17:44.461 --> 00:17:47.101] COMPUTER: The crew manifest is available.
+[00:17:48.061 --> 00:17:48.621] LAFORGE: That's better than nothing.
+[00:17:48.621 --> 00:17:49.581] LAFORGE: Give me the crew manifest.
+[00:17:50.701 --> 00:17:53.021] COMPUTER: Commanding Officer, Captain Jean-Luc Picard.
+[00:17:55.021 --> 00:17:57.501] COMPUTER: Executive Officer, Commander Keiran MacDuff.
+[00:17:59.661 --> 00:18:01.901] COMPUTER: Second Officer, Commander William Riker.
+[00:18:03.341 --> 00:18:05.981] COMPUTER: Operations Officer, Lieutenant Commander Data.
+[00:18:07.421 --> 00:18:09.981] COMPUTER: Chief Medical Officer, Doctor Beverly Crusher.
+[00:18:11.261 --> 00:18:13.981] COMPUTER: Ship's Counsellor, Lieutenant Commander Deanna Troi.
+[00:18:16.095 --> 00:18:18.895] COMPUTER: Chief Engineer, Lieutenant Commander Geordi La Forge.
+[00:18:20.575 --> 00:18:22.255] COMPUTER: Security Chief, Lieutenant Worf.
+[00:18:24.815 --> 00:18:26.655] COMPUTER: Helm Officer, Ensign Ro Laren.
+[00:18:31.615 --> 00:18:33.055] PICARD: Commander MacDuff,
+[00:18:33.935 --> 00:18:35.215] PICARD: have the other officers listed here
+[00:18:35.215 --> 00:18:35.855] PICARD: report to the Bridge.
+[00:18:36.255 --> 00:18:36.495] MACDUFF: Aye, sir.
+[00:18:38.415 --> 00:18:42.255] PICARD: Your next priority will be to retrieve any information you can about this ship's mission.
+[00:18:44.015 --> 00:18:45.695] PICARD: Contact the Operations Officer to assist you.
+[00:18:45.935 --> 00:18:46.175] LAFORGE: Aye, sir.
+[00:18:46.575 --> 00:18:49.215] RO: He's in Ten Forward, waiting tables.
+[00:18:51.855 --> 00:18:52.175] WORF: Captain.
+[00:18:55.855 --> 00:18:57.535] WORF: I regret my recent behaviour.
+[00:18:58.175 --> 00:19:03.135] WORF: I assumed an attitude of authority that was unwarranted.
+[00:19:03.775 --> 00:19:06.415] PICARD: Mister Worf, we're all doing the best we can in a difficult situation.
+[00:19:06.655 --> 00:19:07.535] PICARD: Think nothing more of it.
+[00:19:08.575 --> 00:19:09.215] WORF: Thank you, Captain.
+[00:19:17.055 --> 00:19:20.415] LAFORGE: We haven't finished a full search of the computer records, but we have found out quite a bit.
+[00:19:21.375 --> 00:19:23.215] DATA: This vessel is called the Enterprise.
+[00:19:23.775 --> 00:19:27.375] DATA: We are part of an organization called the United Federation of Planets.
+[00:19:28.095 --> 00:19:30.015] DATA: The Federation is currently in a state of war.
+[00:19:30.495 --> 00:19:30.975] TROI: With whom?
+[00:19:31.535 --> 00:19:32.975] LAFORGE: The Lysian Alliance.
+[00:19:33.455 --> 00:19:35.455] LAFORGE: They're a genocidal race determined to destroy us.
+[00:19:35.695 --> 00:19:37.135] LAFORGE: The war has been going on for years.
+[00:19:37.695 --> 00:19:43.535] DATA: Starfleet Command believes the Lysians are using a new weapon which has shifted the balance of power to their favour.
+[00:19:44.040 --> 00:19:47.880] LAFORGE: Over the last two months, fourteen Federation ships have been captured, apparently very easily,
+[00:19:48.520 --> 00:19:50.120] LAFORGE: their crews held captive on Lysia.
+[00:19:50.840 --> 00:19:51.960] PICARD: What do we know about this weapon?
+[00:19:52.680 --> 00:19:59.880] DATA: Our scientists theorise the Lysians are using an energy wave, either plasma-based or a subspace interference pattern.
+[00:20:00.520 --> 00:20:06.040] DATA: The weapon severely disrupts a starship's computer system as well as the mental functions of its crew.
+[00:20:06.440 --> 00:20:07.320] MACDUFF: That's what happened to us.
+[00:20:08.680 --> 00:20:11.320] PICARD: Mister La Forge, do we have any record of our current mission?
+[00:20:11.960 --> 00:20:12.200] LAFORGE: Yes, sir.
+[00:20:17.960 --> 00:20:20.680] LAFORGE: We're approximately here.
+[00:20:21.240 --> 00:20:24.600] LAFORGE: We've been ordered to cross into Lysian territory and destroy their Central Command.
+[00:20:28.280 --> 00:20:28.760] LAFORGE: This is it.
+[00:20:29.720 --> 00:20:32.200] LAFORGE: The nerve centre for the entire Lysian military operation.
+[00:20:32.680 --> 00:20:36.520] TROI: Captain, there's been a great deal of damage to our computer system.
+[00:20:36.760 --> 00:20:38.840] TROI: Maybe we're not getting the correct information.
+[00:20:39.480 --> 00:20:40.040] PICARD: What are you saying?
+[00:20:41.240 --> 00:20:44.520] TROI: That we get confirmation of this mission from our headquarters.
+[00:20:44.840 --> 00:20:47.320] WORF: If we use subspace radio we will be detected.
+[00:20:47.880 --> 00:20:50.200] TROI: There could be thousands of lives at stake.
+[00:20:51.240 --> 00:20:54.440] LAFORGE: Our orders specifically require us to maintain radio silence.
+[00:20:55.000 --> 00:20:58.120] DATA: Our mission is part of a highly coordinated effort to put an end to the war.
+[00:20:58.600 --> 00:21:02.280] DATA: There are other vessels on other fronts, all working according to an intricate plan.
+[00:21:03.320 --> 00:21:05.320] LAFORGE: We're the lynchpin to the operation.
+[00:21:05.560 --> 00:21:08.200] LAFORGE: If we don't destroy the Central Command, the entire effort will fail.
+[00:21:08.600 --> 00:21:09.480] WORF: He's right, Captain.
+[00:21:09.800 --> 00:21:10.920] WORF: Our choice is clear.
+[00:21:12.360 --> 00:21:15.800] PICARD: Commander MacDuff, set a course for the Lysian Central Command.
+[00:21:31.264 --> 00:21:32.144] RIKER: These are your quarters.
+[00:21:33.824 --> 00:21:34.544] TROI: Thanks for your help.
+[00:21:35.904 --> 00:21:36.624] TROI: Come in for a minute?
+[00:21:50.944 --> 00:21:51.664] RIKER: Recognise anything?
+[00:21:56.624 --> 00:21:58.064] TROI: It's like it belongs to someone else.
+[00:22:02.064 --> 00:22:03.344] TROI: Nothing feels right.
+[00:22:05.104 --> 00:22:06.704] TROI: This room, this ship,
+[00:22:08.784 --> 00:22:10.624] TROI: most of all this war we're fighting.
+[00:22:11.424 --> 00:22:13.184] RIKER: I don't imagine war ever feels right.
+[00:22:15.104 --> 00:22:15.984] TROI: I suppose that's true.
+[00:22:21.744 --> 00:22:23.024] RIKER: What is it?
+[00:22:24.224 --> 00:22:25.024] TROI: That same feeling.
+[00:22:26.544 --> 00:22:27.584] TROI: You seem familiar.
+[00:22:27.584 --> 00:22:28.944] TROI: You're the only thing that does.
+[00:22:29.904 --> 00:22:31.904] RIKER: Can you remember anything specific about us?
+[00:22:33.664 --> 00:22:34.384] TROI: I don't know.
+[00:22:45.664 --> 00:22:48.544] TROI: It's more like remembering an emotion.
+[00:22:49.578 --> 00:22:51.818] TROI: Feelings that you're somehow associated with.
+[00:22:53.418 --> 00:22:54.618] RIKER: I hope they're good feelings.
+[00:22:55.418 --> 00:22:56.058] TROI: Yes, they are.
+[00:23:00.138 --> 00:23:02.938] TROI: This entire situation is a little unnerving.
+[00:23:03.898 --> 00:23:04.778] RIKER: It's been a long day.
+[00:23:04.778 --> 00:23:05.738] RIKER: We've all been through a lot.
+[00:23:06.218 --> 00:23:07.018] TROI: We certainly have.
+[00:23:13.258 --> 00:23:13.898] RIKER: I'll see you tomorrow.
+[00:23:14.778 --> 00:23:15.098] RIKER: Goodnight.
+[00:23:43.738 --> 00:23:43.898] RO: Hi.
+[00:23:45.738 --> 00:23:47.978] RIKER: I know I didn't get the wrong room.
+[00:23:48.618 --> 00:23:50.698] RO: I just didn't like the way my quarters were decorated.
+[00:23:51.658 --> 00:23:55.578] RO: Besides, I have this funny feeling that maybe I spend most of my off hours here.
+[00:23:58.778 --> 00:23:59.018] RIKER: Really?
+[00:24:04.618 --> 00:24:07.738] RO: For all we know, you and I could be married.
+[00:24:09.658 --> 00:24:11.258] RIKER: For all we know, you and I could hate each other.
+[00:24:13.098 --> 00:24:14.138] RO: Sort of exciting, isn't it?
+[00:24:14.788 --> 00:24:15.588] RO: We just don't know.
+[00:24:16.628 --> 00:24:17.508] RIKER: We might regret this.
+[00:24:18.068 --> 00:24:18.708] RO: Regret what?
+[00:24:19.269 --> 00:24:20.548] RO: Aren't you being a little presumptuous?
+[00:24:22.788 --> 00:24:26.788] RO: Like I said, I just didn't like the way my quarters were decorated.
+[00:24:27.348 --> 00:24:28.708] RIKER: Maybe we should switch quarters.
+[00:24:28.948 --> 00:24:30.468] RO: Maybe we should stay right here and see
+[00:24:33.668 --> 00:24:35.828] RO: what happens.
+[00:24:35.988 --> 00:24:36.548] RIKER: What if I snore in my sleep?
+[00:24:38.308 --> 00:24:40.148] RO: What makes you think you're going to get any sleep?
+[00:24:48.468 --> 00:24:50.148] WORF: Captain, we have crossed the Lysian border.
+[00:24:50.788 --> 00:24:51.748] PICARD: Take us out of warp, Ensign.
+[00:24:52.148 --> 00:24:53.108] PICARD: Go to three quarters impulse.
+[00:24:53.188 --> 00:24:53.588] RO: Yes, sir.
+[00:24:53.748 --> 00:24:55.508] PICARD: Mister Worf, maintain a continuous sensor sweep.
+[00:24:55.828 --> 00:24:56.228] WORF: Aye, sir.
+[00:24:57.588 --> 00:24:59.029] MACDUFF: How long till we reach their central command?
+[00:24:59.668 --> 00:25:02.148] DATA: At our current speed, approximately thirty seven hours.
+[00:25:02.628 --> 00:25:04.708] WORF: Captain, I am picking up a vessel directly ahead.
+[00:25:06.548 --> 00:25:07.748] PICARD: Can you identify it, Mister Data?
+[00:25:08.708 --> 00:25:16.628] DATA: The ship matches the Starfleet description of a Lysian destroyer. A short range attack vessel with disruptor style weapons, and a standard crew of fifty three.
+[00:25:17.108 --> 00:25:18.068] WORF: Within visual range.
+[00:25:19.188 --> 00:25:19.668] PICARD: On screen.
+[00:25:24.708 --> 00:25:27.828] WORF: The destroyer is increasing its speed.
+[00:25:28.068 --> 00:25:29.029] WORF: They are moving to intercept.
+[00:25:29.428 --> 00:25:30.708] PICARD: Evasive manoeuvre sequence delta.
+[00:25:31.029 --> 00:25:31.508] RO: Yes, sir.
+[00:25:32.228 --> 00:25:33.348] WORF: They are matching our manoeuvres.
+[00:25:35.188 --> 00:25:36.308] MACDUFF: Activating phaser arrays.
+[00:25:37.748 --> 00:25:38.388] MACDUFF: Ready to fire, sir.
+[00:25:38.868 --> 00:25:39.348] PICARD: Stand by.
+[00:25:40.228 --> 00:25:42.868] MACDUFF: Captain, our orders were to destroy all Lysian warships.
+[00:25:44.421 --> 00:25:45.381] PICARD: I'm aware of that, Commander.
+[00:25:46.581 --> 00:25:47.861] PICARD: Tactical analysis, Mister Data.
+[00:25:49.221 --> 00:25:50.981] DATA: The destroyer has minimal shields.
+[00:25:51.541 --> 00:25:54.661] DATA: Their disruptor capacity appears to be only two point one megajoules.
+[00:25:54.981 --> 00:25:56.832] RIKER: They're no match for the Enterprise.
+[00:25:56.832 --> 00:25:57.141] DATA: Captain,
+[00:25:57.781 --> 00:25:58.821] DATA: the destroyer is hailing us.
+[00:25:59.061 --> 00:26:00.261] PICARD: Open a channel.
+[00:26:00.661 --> 00:26:00.981] MACDUFF: No!
+[00:26:02.261 --> 00:26:02.821] MACDUFF: Their new weapon.
+[00:26:03.541 --> 00:26:06.661] MACDUFF: Whatever it was that erased out our computers and our memories, maybe this is how they do it,
+[00:26:07.301 --> 00:26:08.581] MACDUFF: over communication channels.
+[00:26:09.141 --> 00:26:10.101] DATA: It is conceivable, sir.
+[00:26:11.301 --> 00:26:13.861] TROI: It's also possible that they just want to talk to us.
+[00:26:14.661 --> 00:26:15.621] TROI: I think we should respond.
+[00:26:16.101 --> 00:26:17.701] WORF: Captain, the ship is hailing us again.
+[00:26:18.181 --> 00:26:19.701] MACDUFF: If you're wrong, it could mean our destruction.
+[00:26:19.701 --> 00:26:20.821] MACDUFF: We can't take the risk, Captain.
+[00:26:21.621 --> 00:26:23.221] DATA: The Lysians have stopped transmitting, Captain.
+[00:26:23.941 --> 00:26:25.381] DATA: They are powering up their disruptors.
+[00:26:26.421 --> 00:26:27.221] DATA: They have locked onto us, sir.
+[00:26:27.621 --> 00:26:28.181] RIKER: Full shields.
+[00:26:28.341 --> 00:26:28.661] WORF: Shields up.
+[00:26:31.781 --> 00:26:32.101] MACDUFF: Captain?
+[00:26:35.701 --> 00:26:36.021] PICARD: Return fire.
+[00:26:39.141 --> 00:26:41.061] WORF: The
+[00:26:43.061 --> 00:26:44.021] WORF: ship has been destroyed.
+[00:26:45.781 --> 00:26:46.821] PICARD: Maintain this course, Ensign.
+[00:26:47.621 --> 00:26:48.421] PICARD: Three quarters impulse.
+[00:26:49.141 --> 00:26:49.621] RO: Yes, sir.
+[00:26:50.021 --> 00:26:50.581] MACDUFF: Well done, Captain.
+[00:26:53.221 --> 00:26:53.301] WORF: The
+[00:27:03.861 --> 00:27:07.541] WORF: Lysian Central Command would have received any transmission from the destroyer by now.
+[00:27:08.581 --> 00:27:09.621] MACDUFF: They're going to be on alert.
+[00:27:10.261 --> 00:27:12.741] RO: I recommend a randomly vectored approach to our target.
+[00:27:13.221 --> 00:27:15.141] RO: It would be our best chance of avoiding sort of any pursuit.
+[00:27:16.169 --> 00:27:17.049] PICARD: Agreed. Doctor,
+[00:27:17.049 --> 00:27:20.809] PICARD: the success of this mission would be far more likely if we could get our memories back.
+[00:27:20.809 --> 00:27:21.849] PICARD: Is there anything you can do?
+[00:27:22.569 --> 00:27:25.849] CRUSHER: I found several cases resembling our condition in the medical index.
+[00:27:26.569 --> 00:27:30.009] CRUSHER: The causes are different, but the cure is similar in each case.
+[00:27:30.569 --> 00:27:31.929] RIKER: Could the same treatment work for us?
+[00:27:32.409 --> 00:27:33.209] CRUSHER: That's my hope.
+[00:27:33.929 --> 00:27:40.969] CRUSHER: It involves increasing the activity of the medial temporal region of the brain, using short-term memory synapses to retrieve long-term memory.
+[00:27:41.529 --> 00:27:42.169] PICARD: When can you start?
+[00:27:42.729 --> 00:27:44.489] CRUSHER: As soon as our medical files become available.
+[00:27:45.289 --> 00:27:47.209] CRUSHER: It would be dangerous to attempt treatment without them.
+[00:27:48.009 --> 00:27:48.669] PICARD: Mister La Forge?
+[00:27:48.669 --> 00:27:55.049] LAFORGE: Data and I ran into some trouble accessing the medical file areas in the computer, but with a little time I'm pretty sure we'll be able to get there.
+[00:27:55.529 --> 00:27:56.489] LAFORGE: Three hours, maximum.
+[00:27:57.129 --> 00:27:57.449] PICARD: Proceed.
+[00:28:04.249 --> 00:28:06.489] LAFORGE: I don't get it.
+[00:28:06.809 --> 00:28:08.089] LAFORGE: I'm still hitting a file wall.
+[00:28:09.129 --> 00:28:11.369] DATA: There appears to be a command path discontinuity.
+[00:28:12.329 --> 00:28:13.849] DATA: I shall attempt to rewrite the locator
+[00:28:15.689 --> 00:28:17.689] DATA: subroutine.
+[00:28:17.769 --> 00:28:19.769] LAFORGE: You
+[00:28:22.729 --> 00:28:24.489] LAFORGE: must have been one hell of a bartender.
+[00:28:24.489 --> 00:28:26.809] LAFORGE: It's too bad there aren't any more of you around.
+[00:28:26.809 --> 00:28:27.769] LAFORGE: We could certainly use the help.
+[00:28:28.569 --> 00:28:28.889] DATA: Yes.
+[00:28:28.889 --> 00:28:31.929] LAFORGE: I wonder why you're the only one on board?
+[00:28:34.409 --> 00:28:38.089] DATA: I have expended considerable thought with respect to my apparent uniqueness among the crew.
+[00:28:38.889 --> 00:28:39.609] LAFORGE: Any conclusions?
+[00:28:40.409 --> 00:28:42.329] DATA: Several possibilities suggest themselves.
+[00:28:43.929 --> 00:28:44.729] DATA: I may represent an
+[00:28:44.749 --> 00:28:47.469] DATA: entire race of artificial lifeforms.
+[00:28:47.949 --> 00:28:53.709] DATA: If so, there may be a home planet for others of my kind. A shared history and a culture of which I am not presently aware.
+[00:28:53.709 --> 00:28:56.749] LAFORGE: Then again, you could've been built just for this ship.
+[00:28:57.469 --> 00:28:59.069] DATA: I have considered that possibility as well.
+[00:28:59.709 --> 00:29:04.829] DATA: It may also be the case that every starship in the Federation is equipped with an artificial lifeform such as myself.
+[00:29:05.709 --> 00:29:07.789] LAFORGE: If that's true, maybe you all look alike.
+[00:29:08.509 --> 00:29:11.309] LAFORGE: A standard issue android. Hard to construct so only one allowed per vessel.
+[00:29:13.389 --> 00:29:14.589] DATA: There is another possibility.
+[00:29:16.029 --> 00:29:17.469] DATA: Perhaps my origin is unique.
+[00:29:18.189 --> 00:29:19.309] DATA: In that case, I am alone.
+[00:29:22.749 --> 00:29:24.829] DATA: We have accessed the information storage area.
+[00:29:26.109 --> 00:29:28.589] DATA: Considerable damage has been done to the files themselves.
+[00:29:28.669 --> 00:29:29.896] LAFORGE: The mission reports are gone.
+[00:29:29.896 --> 00:29:32.349] DATA: As well as the crew records, and the personal logs.
+[00:29:34.189 --> 00:29:35.629] LAFORGE: So are the medical records.
+[00:29:35.629 --> 00:29:36.909] RIKER: Come
+[00:29:45.229 --> 00:29:45.229] RIKER: in.
+[00:29:45.229 --> 00:29:45.229] TROI: I'm
+[00:29:50.829 --> 00:29:51.469] TROI: restless.
+[00:29:52.109 --> 00:29:53.309] TROI: Mind if I visit for a while?
+[00:29:54.509 --> 00:29:54.989] RIKER: Please.
+[00:29:58.669 --> 00:29:59.229] RIKER: What's wrong?
+[00:30:00.109 --> 00:30:00.669] TROI: Everything.
+[00:30:02.029 --> 00:30:08.909] TROI: Every time I think about this war, our mission, I feel a sense of panic like a hand's closing around my throat.
+[00:30:09.309 --> 00:30:11.309] RIKER: You're never going to feel good about this war. None of us will.
+[00:30:12.829 --> 00:30:14.189] RIKER: But we've got to complete our mission.
+[00:30:17.069 --> 00:30:18.269] RIKER: I've been doing a little research,
+[00:30:19.308 --> 00:30:20.988] RIKER: trying to find out about William T
+[00:30:20.988 --> 00:30:21.388] RIKER: Riker.
+[00:30:21.948 --> 00:30:22.748] TROI: What have you discovered?
+[00:30:22.988 --> 00:30:24.348] RIKER: He's a musician, for one thing.
+[00:30:29.388 --> 00:30:30.348] TROI: Very impressive.
+[00:30:30.588 --> 00:30:31.948] RIKER: No one was more surprised than I.
+[00:30:33.228 --> 00:30:36.108] TROI: So what else has your research uncovered about William Riker?
+[00:30:36.108 --> 00:30:37.388] RIKER: He's athletically inclined,
+[00:30:37.948 --> 00:30:39.308] RIKER: loves to climb mountain.
+[00:30:39.868 --> 00:30:41.308] RIKER: He's from somewhere called Alaska.
+[00:30:41.458 --> 00:30:42.058] RIKER: He
+[00:30:42.828 --> 00:30:44.028] RIKER: enjoys exotic food,
+[00:30:45.228 --> 00:30:48.108] RIKER: and takes his vacations on a planet called Risa.
+[00:30:50.028 --> 00:30:50.188] TROI: Ode
+[00:30:51.948 --> 00:30:53.948] TROI: to Psyche. John Keats.
+[00:30:54.268 --> 00:30:54.668] RIKER: Open
+[00:30:57.308 --> 00:30:57.468] RIKER: it.
+[00:30:59.388 --> 00:31:01.468] TROI: To Will, all my love, Deanna.
+[00:31:03.388 --> 00:31:05.788] RIKER: That may explain some of the familiar feelings we have.
+[00:31:13.948 --> 00:31:14.428] TROI: I don't know what
+[00:31:18.028 --> 00:31:18.028] TROI: to think.
+[00:31:23.708 --> 00:31:23.948] RIKER: Come in.
+[00:31:29.068 --> 00:31:29.468] RO: Hello, Counsellor.
+[00:31:30.108 --> 00:31:30.188] TROI: Ensign.
+[00:31:32.348 --> 00:31:33.228] RO: Am I interrupting anything?
+[00:31:34.748 --> 00:31:35.148] RIKER + TROI: No.
+[00:31:37.708 --> 00:31:38.668] TROI: I was just visiting.
+[00:31:38.748 --> 00:31:41.148] TROI: We'll talk again soon, Commander.
+[00:31:41.228 --> 00:31:41.628] RIKER: Of course.
+[00:31:41.868 --> 00:31:42.428] RIKER: Thank you, Counsellor.
+[00:31:44.325 --> 00:31:44.645] RO: Bye.
+[00:31:48.245 --> 00:31:49.525] RO: And what was all of that about?
+[00:31:50.165 --> 00:31:54.005] RIKER: Oh, we were just discussing the situation we're all in.
+[00:31:55.045 --> 00:31:58.325] RO: Good. Because I have a feeling that I used to be the jealous type.
+[00:32:09.685 --> 00:32:12.485] LAFORGE: What bothers me, Captain, is how specific this damage is.
+[00:32:12.645 --> 00:32:17.685] LAFORGE: Any records of a personal nature, any files that could tell us about who we are, those are the ones that are gone.
+[00:32:18.085 --> 00:32:19.845] RIKER: It's a little too selective to be coincidence.
+[00:32:19.925 --> 00:32:22.005] CRUSHER: As selective as what was done to our own memories.
+[00:32:22.725 --> 00:32:25.685] CRUSHER: Skills still in place but personal knowledge is unavailable.
+[00:32:26.245 --> 00:32:28.565] MACDUFF: It is consistent with what we know about the new Lysian weapon.
+[00:32:29.205 --> 00:32:32.325] PICARD: Doctor, is it absolutely necessary to see the medical files to attempt treatment?
+[00:32:33.765 --> 00:32:35.605] CRUSHER: It would be dangerous to do it without them.
+[00:32:36.245 --> 00:32:37.685] RIKER: It's a risk I think we have to take.
+[00:32:37.925 --> 00:32:38.645] MACDUFF: He's right, Captain.
+[00:32:39.365 --> 00:32:40.325] MACDUFF: I volunteer for the procedure.
+[00:32:46.005 --> 00:32:48.405] CRUSHER: That's strange.
+[00:32:48.965 --> 00:32:51.285] CRUSHER: The diencephalic activity is exactly the same.
+[00:32:52.005 --> 00:32:53.045] CRUSHER: There should be some increase.
+[00:32:54.725 --> 00:32:56.165] CRUSHER: Let's try broadening the bandwidth.
+[00:32:57.285 --> 00:32:58.645] CRUSHER: Go to thirty point one.
+[00:32:59.765 --> 00:33:00.885] CRUSHER: Raise the frequency as well.
+[00:33:01.525 --> 00:33:02.885] CRUSHER: Increase by thirty three percent.
+[00:33:03.925 --> 00:33:05.365] CRUSHER: Something's wrong with the sequencing programme.
+[00:33:10.885 --> 00:33:12.325] CRUSHER: Kieran.
+[00:33:12.325 --> 00:33:12.325] CRUSHER: Kieran.
+[00:33:15.018 --> 00:33:15.338] MACDUFF: I'm all right.
+[00:33:15.488 --> 00:33:16.888] MACDUFF: I'm all right.
+[00:33:20.218 --> 00:33:20.698] MACDUFF: What happened?
+[00:33:21.818 --> 00:33:22.138] CRUSHER: I don't know.
+[00:33:22.778 --> 00:33:24.458] CRUSHER: Something went wrong with the sequence initiator.
+[00:33:27.738 --> 00:33:28.938] CRUSHER: We're lucky we didn't lose you.
+[00:33:31.738 --> 00:33:32.538] CRUSHER: Did any of this work?
+[00:33:32.538 --> 00:33:35.178] CRUSHER: Do you remember anything more about yourself?
+[00:33:35.178 --> 00:33:37.098] MACDUFF: No. I'm sorry, Doctor.
+[00:33:38.938 --> 00:33:39.658] CRUSHER: Back to square one.
+[00:33:47.498 --> 00:33:47.738] PICARD: Come.
+[00:33:49.258 --> 00:33:50.058] MACDUFF: You wanted to see me, Captain?
+[00:33:50.298 --> 00:33:51.018] PICARD: Yes, Commander.
+[00:33:51.018 --> 00:33:51.658] PICARD: Please, come in.
+[00:33:51.658 --> 00:33:52.298] PICARD: Sit down.
+[00:33:55.898 --> 00:33:56.938] PICARD: I find myself having
+[00:33:58.458 --> 00:33:59.978] PICARD: grave concerns about our mission.
+[00:34:00.938 --> 00:34:03.098] MACDUFF: Concerns as to its success?
+[00:34:03.178 --> 00:34:03.978] PICARD: No, no, no. More
+[00:34:04.778 --> 00:34:07.818] PICARD: fundamental doubts. Whether or not it can be justified.
+[00:34:08.698 --> 00:34:10.378] MACDUFF: I've been asking myself the same thing.
+[00:34:11.258 --> 00:34:13.418] MACDUFF: I'm sure our superiors feel their orders are justified.
+[00:34:14.858 --> 00:34:16.378] PICARD: Orders which we can't even verify.
+[00:34:16.858 --> 00:34:17.978] MACDUFF: Orders we can't ignore.
+[00:34:19.978 --> 00:34:34.218] PICARD: But I also can't ignore that we have greatly outclassed the only enemy vessel we've encountered. And that every single possible shred of information which might shed some light on this situation has been conveniently eliminated.
+[00:34:34.698 --> 00:34:40.698] PICARD: I feel as though I've been handed a weapon, sent into a room and told to shoot a stranger.
+[00:34:42.138 --> 00:34:45.098] PICARD: Well, I need some moral context to justify that action, and
+[00:34:47.811 --> 00:34:48.291] PICARD: I don't have it.
+[00:34:48.931 --> 00:34:52.291] PICARD: I'm not content simply to obey orders.
+[00:34:52.851 --> 00:34:54.771] PICARD: I need to know that what I am doing is right.
+[00:34:55.171 --> 00:34:55.651] MACDUFF: So do I.
+[00:34:57.011 --> 00:34:59.251] MACDUFF: I'd feel a lot better about this if all the questions were answered.
+[00:35:00.691 --> 00:35:03.571] MACDUFF: And if you want to abandon our mission until our memories return, that's your choice,
+[00:35:03.571 --> 00:35:06.051] MACDUFF: but I must ask you.
+[00:35:08.291 --> 00:35:16.611] MACDUFF: Is it right to risk prolonging this war, to allow the needless deaths of thousands on both sides, solely on the basis of our moral discomfort?
+[00:35:33.971 --> 00:35:34.291] MACDUFF: Come.
+[00:35:38.691 --> 00:35:39.171] MACDUFF: Lieutenant.
+[00:35:39.971 --> 00:35:40.931] WORF: You wished to see me, sir?
+[00:35:41.011 --> 00:35:41.491] MACDUFF: I did.
+[00:35:42.531 --> 00:35:42.851] MACDUFF: Please.
+[00:35:46.051 --> 00:35:50.211] MACDUFF: Memory or no, it seems clear that both you and I were born for battle.
+[00:35:51.891 --> 00:35:53.171] MACDUFF: More so than the others.
+[00:35:54.131 --> 00:35:54.931] WORF: I thought this as well.
+[00:35:55.891 --> 00:35:59.331] MACDUFF: It's conceivable that is the very reason that we've been assigned to this vessel.
+[00:36:01.491 --> 00:36:05.491] MACDUFF: The Enterprise has science officers, medical specialists, engineers.
+[00:36:07.331 --> 00:36:09.971] MACDUFF: Our Captain is undoubtedly an accomplished diplomat.
+[00:36:11.811 --> 00:36:12.211] MACDUFF: But we,
+[00:36:13.904 --> 00:36:14.864] MACDUFF: we are the warriors.
+[00:36:17.424 --> 00:36:18.864] MACDUFF: There are times for diplomacy.
+[00:36:18.864 --> 00:36:19.904] MACDUFF: This is not one of them.
+[00:36:21.984 --> 00:36:23.504] WORF: You're concerned about the Captain?
+[00:36:23.984 --> 00:36:28.944] MACDUFF: I am concerned about completing our mission, ending this war. In victory.
+[00:36:32.224 --> 00:36:34.144] MACDUFF: We may soon face a critical moment.
+[00:36:35.584 --> 00:36:38.944] MACDUFF: The success of our mission may hang on a split-second decision.
+[00:36:39.094 --> 00:36:39.694] MACDUFF: A
+[00:36:40.544 --> 00:36:45.264] MACDUFF: hesitation would kill us all, and those that are counting on us will surely die as well.
+[00:36:47.744 --> 00:36:48.944] MACDUFF: We cannot let this happen.
+[00:36:53.584 --> 00:36:53.984] MACDUFF: That'll be all.
+[00:37:11.584 --> 00:37:13.344] DATA: We are entering the Lysian system, sir.
+[00:37:13.984 --> 00:37:15.264] PICARD: Slow to one quarter impulse.
+[00:37:15.584 --> 00:37:15.984] RO: Yes, sir.
+[00:37:16.464 --> 00:37:19.184] MACDUFF: The Central Command is directly ahead. Still beyond weapon range.
+[00:37:19.584 --> 00:37:20.064] PICARD: Red Alert.
+[00:37:20.304 --> 00:37:21.024] PICARD: Battle stations.
+[00:37:21.024 --> 00:37:23.664] PICARD: Bring us to an attack posture, Mister Worf.
+[00:37:24.064 --> 00:37:24.384] WORF: Aye, sir.
+[00:37:24.864 --> 00:37:26.784] DATA: Sensors show several objects in our path, sir.
+[00:37:27.024 --> 00:37:29.184] DATA: They are twenty nine metres in length and are unmanned.
+[00:37:29.744 --> 00:37:33.344] MACDUFF: According to Starfleet records, they're sentry pods programmed to defend their Central Command.
+[00:37:33.984 --> 00:37:35.504] RIKER: I'm reading forty seven of them around the perimeter.
+[00:37:36.304 --> 00:37:37.504] PICARD: Tactical analysis, Mister Data.
+[00:37:37.504 --> 00:37:41.824] DATA: The pods are equipped with fusion-generated pulse lasers and minimal shielding.
+[00:37:42.478 --> 00:37:43.198] RIKER: Not much power there.
+[00:37:45.278 --> 00:37:46.238] PICARD: Forward shields to maximum.
+[00:37:46.798 --> 00:37:48.078] PICARD: Lock phasers on the sentry pods.
+[00:37:48.398 --> 00:37:49.278] PICARD: Prepare to return fire.
+[00:37:49.918 --> 00:37:50.318] WORF: Shields up.
+[00:37:51.118 --> 00:37:52.158] WORF: Phasers locked on targets.
+[00:37:53.758 --> 00:37:54.238] PICARD: Full impulse.
+[00:37:56.238 --> 00:37:56.798] PICARD: Take us straight through them.
+[00:38:05.038 --> 00:38:06.078] DATA: We are through the perimeter, sir.
+[00:38:08.238 --> 00:38:08.878] RIKER: That was too easy.
+[00:38:10.478 --> 00:38:12.478] WORF: We have yet to encounter any battleships.
+[00:38:13.358 --> 00:38:14.158] WORF: They may lie ahead.
+[00:38:15.118 --> 00:38:15.678] PICARD: Load all torpedo bays.
+[00:38:15.758 --> 00:38:16.718] PICARD: Ready phasers.
+[00:38:17.198 --> 00:38:17.518] WORF: Aye, sir.
+[00:38:29.198 --> 00:38:30.318] MACDUFF: Approaching Central Command.
+[00:38:31.598 --> 00:38:33.038] PICARD: Mister Data, scan for defences.
+[00:38:34.398 --> 00:38:37.518] DATA: I am picking up no vessels, no additional sentry pods.
+[00:38:39.918 --> 00:38:43.998] RIKER: Optimal firing range in fifty five seconds.
+[00:38:44.478 --> 00:38:45.278] MACDUFF: Phaser banks ready.
+[00:38:45.678 --> 00:38:46.398] MACDUFF: Loading torpedoes.
+[00:38:46.958 --> 00:38:48.718] PICARD: What are the defensive capabilities of the Central Command?
+[00:38:50.078 --> 00:38:54.798] DATA: Armaments consist of four laser cannons and thirty nine cobalt fusion warheads with
+[00:38:54.958 --> 00:38:55.838] DATA: magnetic propulsion.
+[00:38:56.478 --> 00:38:58.878] DATA: Defensive shield output is four point three kilojoules.
+[00:39:00.318 --> 00:39:01.758] RIKER: One photon torpedo ought to do it.
+[00:39:02.878 --> 00:39:04.638] TROI: Data, how many people on that station?
+[00:39:05.278 --> 00:39:06.238] DATA: Fifteen thousand, three hundred eleven.
+[00:39:06.238 --> 00:39:06.398] MACDUFF: We're
+[00:39:08.958 --> 00:39:09.838] MACDUFF: within range, Captain.
+[00:39:10.158 --> 00:39:10.638] PICARD: Stand by.
+[00:39:12.078 --> 00:39:13.038] MACDUFF: Waiting for your order, sir.
+[00:39:14.238 --> 00:39:15.518] TROI: Captain, this isn't right.
+[00:39:16.318 --> 00:39:16.798] MACDUFF: The rest of our
+[00:39:16.920 --> 00:39:18.520] MACDUFF: forces are depending on us.
+[00:39:19.000 --> 00:39:22.360] RIKER: How can our mortal enemy be over a hundred years behind us in weapons technology?
+[00:39:22.840 --> 00:39:24.600] MACDUFF: Their battleships may be on the way right now.
+[00:39:25.320 --> 00:39:26.200] MACDUFF: We must attack!
+[00:39:30.760 --> 00:39:32.360] PICARD: I do not fire on defenceless people.
+[00:39:33.960 --> 00:39:34.120] PICARD: Mister
+[00:39:34.120 --> 00:39:35.560] PICARD: Worf open a channel to the Lysians.
+[00:39:35.560 --> 00:39:36.280] MACDUFF: Belay that order!
+[00:39:37.640 --> 00:39:39.080] MACDUFF: There's something wrong with the Captain.
+[00:39:39.080 --> 00:39:40.280] MACDUFF: I'm taking command of this vessel.
+[00:39:40.440 --> 00:39:41.560] MACDUFF: Fire all weapons!
+[00:39:44.840 --> 00:39:45.080] MACDUFF: Mister
+[00:39:45.080 --> 00:39:45.400] MACDUFF: Worf.
+[00:40:12.760 --> 00:40:13.800] LOG: Captain's log, supplemental.
+[00:40:14.280 --> 00:40:16.360] LOG: We are on a course to Starbase three zero one.
+[00:40:16.840 --> 00:40:21.160] LOG: Doctor Crusher has been working steadily, and has restored the memories of most of the crew.
+[00:40:22.440 --> 00:40:27.400] PICARD: The Lysians have identified Commander MacDuff as a Satarran,
+[00:40:27.400 --> 00:40:30.680] PICARD: an alien race that's been at war with the Lysians for decades.
+[00:40:31.720 --> 00:40:32.040] PICARD: I
+[00:40:34.440 --> 00:40:38.840] PICARD: have conveyed our deepest regrets to the Lysians over the tragedy of their lost ship and crew.
+[00:40:39.880 --> 00:40:48.200] RIKER: With all the power that MacDuff had to alter our brain chemistry and manipulate the computers, it's hard to believe he needed the Enterprise.
+[00:40:48.200 --> 00:40:48.280] PICARD: The
+[00:40:49.800 --> 00:40:51.320] PICARD: Satarrans' weapons technology
+[00:40:50.802 --> 00:40:52.642] PICARD: is no more advanced than the Lysians'.
+[00:40:54.082 --> 00:40:56.082] PICARD: One photon torpedo would have ended their war.
+[00:40:57.522 --> 00:40:58.162] RIKER: It almost did.
+[00:41:18.402 --> 00:41:23.682] RIKER: I hope I'm not interrupting.
+[00:41:23.682 --> 00:41:24.082] RO + TROI: No.
+[00:41:25.602 --> 00:41:26.722] RO: I was hoping to run into you.
+[00:41:28.082 --> 00:41:29.122] TROI: Please, sit down.
+[00:41:35.442 --> 00:41:38.882] RIKER: Well. I'm glad I ran into the two of you.
+[00:41:40.802 --> 00:41:44.962] RIKER: When you have no memory of who you are, or who anybody else is, you find yourself
+[00:41:44.962 --> 00:41:52.402] RO: The Counsellor tells me that at times like that, we might do the things that we've always wanted to do.
+[00:41:53.522 --> 00:41:54.082] RIKER: She said that?
+[00:41:55.682 --> 00:41:57.122] TROI: It's psychologically valid.
+[00:42:00.402 --> 00:42:00.882] RO: Commander,
+[00:42:01.522 --> 00:42:02.402] RO: don't worry about it.
+[00:42:03.362 --> 00:42:07.762] RO: As far as I'm concerned, you and I have shared something that we will treasure forever.
+[00:42:07.762 --> 00:42:09.922] RIKER: Well, I'm
+[00:42:23.922 --> 00:42:24.722] RIKER: a little confused.
+[00:42:25.122 --> 00:42:25.442] TROI: Well,
+[00:42:25.930 --> 00:42:29.690] TROI: if you're still confused tomorrow, you know where my office is.
+[00:42:40.000 --> 00:43:39.000] [music]

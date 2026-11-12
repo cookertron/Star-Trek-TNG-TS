@@ -1,0 +1,654 @@
+[00:00:03.360 --> 00:00:06.320] LOG: Captain's log, stardate 44932.3
+[00:00:06.960 --> 00:00:11.920] LOG: The Enterprise is preparing to enter the Mar Oscura, an unexplored dark matter nebula.
+[00:00:12.800 --> 00:00:19.680] LOG: Commander Data is modifying several new photon torpedoes for an experiment designed to elicit more information about this unusual
+[00:00:28.400 --> 00:00:30.400] LOG: phenomenon.
+[00:00:30.880 --> 00:00:34.320] DATA: The initial dispersal pattern should not be more than seven kilometres in diameter.
+[00:00:37.280 --> 00:00:37.520] DATA: Jenna?
+[00:00:39.120 --> 00:00:41.440] JENNA: Oh, er, six point eight kilometres.
+[00:00:42.720 --> 00:00:43.600] DATA: That should suffice.
+[00:00:44.720 --> 00:00:46.320] DATA: Is there something occupying your thoughts, Jenna?
+[00:00:46.960 --> 00:00:48.160] DATA: You seem somewhat subdued today.
+[00:00:49.200 --> 00:00:52.400] JENNA: I bumped into Jeff again in the turbolift this morning.
+[00:00:52.800 --> 00:00:53.920] JENNA: He asked me to dinner.
+[00:00:54.400 --> 00:00:55.280] DATA: What was your response?
+[00:00:56.800 --> 00:00:58.080] JENNA: I told him I'd think about it.
+[00:01:00.720 --> 00:01:04.960] DATA: As you requested, I will now remind you of the reasons you decided to end your relationship with Jeff.
+[00:01:06.000 --> 00:01:07.120] JENNA: I guess I asked for this.
+[00:01:07.200 --> 00:01:07.520] JENNA: Go ahead.
+[00:01:08.800 --> 00:01:12.320] DATA: You objected to the fact that he seemed unwilling to set aside sufficient time for you.
+[00:01:12.640 --> 00:01:13.920] DATA: You said he was unresponsive,
+[00:01:14.080 --> 00:01:15.760] DATA: that he never did the little things.
+[00:01:16.080 --> 00:01:17.600] DATA: You disliked the sound he made when he ate his soup.
+[00:01:17.680 --> 00:01:19.520] JENNA: Okay, okay. I remember.
+[00:01:27.600 --> 00:01:30.160] DATA: This is the third
+[00:01:30.268 --> 00:01:31.628] DATA: time I have refreshed your memory.
+[00:01:32.348 --> 00:01:33.708] DATA: Do you wish to rescind our agreement?
+[00:01:34.108 --> 00:01:36.428] JENNA: No. No, it's for my own good.
+[00:01:36.428 --> 00:01:37.628] JENNA: It's just so easy to forget.
+[00:01:37.788 --> 00:01:39.708] JENNA: Hand me the sequencer.
+[00:01:42.268 --> 00:01:45.068] DATA: Throughout history, many lovers have suffered the same difficulty.
+[00:01:46.028 --> 00:01:50.428] DATA: Anne Boleyn was quite distressed that Henry the Eighth preferred the company of his huntsmen over that of his wife.
+[00:01:51.308 --> 00:01:55.068] JENNA: Since when did you develop an interest in romantic historical figures?
+[00:01:55.788 --> 00:02:01.708] DATA: Six weeks ago, when you and Jeff dissolved your relationship, I saw an excellent opportunity to study that aspect of human intimacy.
+[00:02:02.188 --> 00:02:05.788] DATA: As your friend, it is my responsibility to be supportive in times of need.
+[00:02:09.548 --> 00:02:09.868] JENNA: That's
+[00:02:11.788 --> 00:02:12.668] JENNA: very sweet,
+[00:02:14.588 --> 00:02:16.588] JENNA: Data.
+[00:02:16.588 --> 00:02:17.148] DATA: Data to Bridge.
+[00:02:17.548 --> 00:02:19.788] DATA: We are ready To begin the first illumination test.
+[00:02:19.868 --> 00:02:20.428] RIKER: Acknowledged.
+[00:02:20.828 --> 00:02:22.188] RIKER: All science stations, stand by.
+[00:02:22.828 --> 00:02:24.428] RIKER: We're about to light up the nebula.
+[00:02:24.428 --> 00:02:24.988] RIKER: Mister Worf?
+[00:02:24.988 --> 00:02:26.668] WORF: Launch bay one shows ready, Commander.
+[00:02:27.308 --> 00:02:27.788] RIKER: Fire torpedo.
+[00:02:38.748 --> 00:02:39.628] JENNA: It's beautiful.
+[00:02:41.548 --> 00:02:45.468] JENNA: Like watching fireworks when I was a little girl.
+[00:03:03.000 --> 00:03:17.000] [music]
+[00:03:14.292 --> 00:03:17.012] PICARD: Space, the final frontier.
+[00:03:18.852 --> 00:03:21.812] PICARD: These are the voyages of the starship Enterprise.
+[00:03:22.852 --> 00:03:30.852] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:32.532 --> 00:03:35.972] PICARD: to boldly go where no one has gone before.
+[00:04:04.000 --> 00:04:15.000] [music]
+[00:05:13.975 --> 00:05:15.975] O'BRIEN: That
+[00:05:18.775 --> 00:05:19.015] O'BRIEN: was
+[00:05:22.455 --> 00:05:22.455] O'BRIEN: wonderful.
+[00:05:22.605 --> 00:05:23.205] KEIKO: Thank
+[00:05:24.135 --> 00:05:24.668] KEIKO: you.
+[00:05:24.668 --> 00:05:25.735] MILES: Really wonderful.
+[00:05:32.615 --> 00:05:33.255] DATA: Is anything wrong?
+[00:05:34.535 --> 00:05:35.735] JENNA: My tempo was way off.
+[00:05:36.615 --> 00:05:38.775] JENNA: I felt like I was rushing through the whole piece.
+[00:05:38.775 --> 00:05:40.615] DATA: I do not believe that is so.
+[00:05:41.255 --> 00:05:43.015] DATA: Your rhythmic control has improved markedly.
+[00:05:43.495 --> 00:05:45.495] DATA: I heard no fluctuations during the performance.
+[00:05:46.615 --> 00:05:49.015] JENNA: Well, maybe, but I ruined the coda.
+[00:05:49.015 --> 00:05:50.775] JENNA: I got confused with the phrasing again.
+[00:05:51.335 --> 00:05:53.415] JENNA: I kept breathing at the wrong times.
+[00:05:53.735 --> 00:05:56.775] DATA: The contrapuntal nature of the composition is most demanding.
+[00:05:57.415 --> 00:06:00.215] DATA: We will give more attention to the rhythmic patterns at our next rehearsal.
+[00:06:00.695 --> 00:06:04.695] DATA: However, I am quite certain the audience was oblivious to such nuances.
+[00:06:05.068 --> 00:06:06.908] DATA: They seemed to enjoy the performance thoroughly.
+[00:06:09.548 --> 00:06:10.268] JENNA: Thank you, Data.
+[00:06:10.268 --> 00:06:10.988] JENNA: You're very generous.
+[00:06:13.948 --> 00:06:17.068] KEIKO: Every night, Miles leaves his socks on the floor.
+[00:06:17.548 --> 00:06:21.468] KEIKO: When we got married, I made the mistake of picking them up a few times.
+[00:06:22.188 --> 00:06:26.828] KEIKO: Then I realised, if I kept it up I'd be doing it the rest of my life.
+[00:06:27.308 --> 00:06:28.108] KEIKO: So I stopped,
+[00:06:28.428 --> 00:06:30.508] KEIKO: figuring he'd get the point and do it himself.
+[00:06:31.788 --> 00:06:38.108] KEIKO: One night goes by, two, a week, ten days.
+[00:06:38.348 --> 00:06:40.908] KEIKO: By now there's a pile of socks half a metre high.
+[00:06:40.908 --> 00:06:42.508] O'BRIEN: Come on, it wasn't half a metre.
+[00:06:42.508 --> 00:06:44.428] KEIKO: After two weeks I couldn't stand it any more.
+[00:06:44.428 --> 00:06:48.668] KEIKO: I bundled them up and put them in the cleaning processor. And I'm still doing it.
+[00:06:49.228 --> 00:06:50.908] O'BRIEN: And a very good job she does of it, too.
+[00:06:51.308 --> 00:06:53.868] JENNA: Keiko, you sound just like Data.
+[00:06:54.028 --> 00:06:58.508] JENNA: He came over to my quarters the other day to give me a music lesson, and he said the funniest thing.
+[00:06:58.908 --> 00:06:59.708] JENNA: How did you put it,
+[00:07:00.028 --> 00:07:01.948] JENNA: about the mess?
+[00:07:03.308 --> 00:07:06.428] DATA: I believe I observed that you seem to have an aversion to orderliness.
+[00:07:07.388 --> 00:07:07.548] DATA: But
+[00:07:09.468 --> 00:07:11.228] DATA: it was not intended as a humourous remark.
+[00:07:12.588 --> 00:07:16.428] JENNA: So, before we started, he gallantly offered to help me straighten up.
+[00:07:18.188 --> 00:07:19.868] DATA: And a very good job of it I did of it, too.
+[00:07:20.828 --> 00:07:20.988] PICARD: Report,
+[00:07:31.628 --> 00:07:32.108] PICARD: Mister Data.
+[00:07:32.828 --> 00:07:36.428] DATA: I am nearly finished compiling readings from our most recent illuminatory burst.
+[00:07:37.214 --> 00:07:41.854] DATA: Dark matter density is nearly one order of magnitude higher than in similar nebulae.
+[00:07:42.734 --> 00:07:45.614] DATA: Life forms here may have developed in ways never before observed.
+[00:07:46.254 --> 00:07:47.374] RIKER: Interesting hypothesis.
+[00:07:48.014 --> 00:07:49.614] RIKER: Are there any M-class planets we could check out?
+[00:07:49.934 --> 00:07:50.494] DATA: Several, sir.
+[00:07:51.054 --> 00:07:53.854] DATA: The nearest is approximately three light hours from our present position.
+[00:07:54.574 --> 00:07:55.134] PICARD: It's worth a look.
+[00:07:56.174 --> 00:07:57.614] PICARD: We'll continue our survey along the way.
+[00:08:07.054 --> 00:08:09.054] CRUSHER: Let's increase the flow rate and see if that helps.
+[00:08:28.014 --> 00:08:33.134] JENNA: Sometimes in the summer we'd go on cookouts. Just my little brother and me, and mother.
+[00:08:33.614 --> 00:08:35.614] JENNA: She was hopeless without a replicator.
+[00:08:37.054 --> 00:08:37.934] JENNA: We didn't care.
+[00:08:38.974 --> 00:08:42.414] DATA: Children often do not develop discerning palettes until well beyond adolescence.
+[00:08:42.414 --> 00:08:43.694] JENNA: It's wasn't that.
+[00:08:43.854 --> 00:08:46.974] JENNA: It's just that we felt so good being together, you know, as a family.
+[00:08:48.094 --> 00:08:49.774] JENNA: We didn't have much of that after my father died.
+[00:08:51.134 --> 00:08:52.894] JENNA: so those times were really special.
+[00:08:56.014 --> 00:08:57.854] JENNA: I wish we were back there now, you and I.
+[00:08:58.894 --> 00:09:02.654] DATA: The unidirectional nature of the time continuum makes that an unlikely possibility.
+[00:09:03.614 --> 00:09:06.254] JENNA: That what I love
+[00:09:06.227 --> 00:09:07.027] JENNA: about you, Data.
+[00:09:07.027 --> 00:09:07.827] JENNA: You make me laugh.
+[00:09:09.267 --> 00:09:11.107] JENNA: I don't know why I keep falling for the wrong man.
+[00:09:11.107 --> 00:09:12.867] JENNA: Why can't I fall for somebody like you.
+[00:09:13.427 --> 00:09:14.227] JENNA: You're perfect.
+[00:09:14.627 --> 00:09:15.347] DATA: That is not true.
+[00:09:15.907 --> 00:09:17.187] DATA: I have no human feelings.
+[00:09:18.627 --> 00:09:20.627] JENNA: But you give me so much.
+[00:09:22.387 --> 00:09:24.227] JENNA: You spend time with me when I was lonely,
+[00:09:25.027 --> 00:09:27.747] JENNA: you encouraged me when I'm down.
+[00:09:27.747 --> 00:09:29.587] JENNA: No man has ever been kinder to me.
+[00:09:31.427 --> 00:09:32.307] JENNA: Those are the things that
+[00:09:34.147 --> 00:09:36.147] JENNA: matter.
+[00:09:39.347 --> 00:09:42.307] JENNA: I'd better be going.
+[00:09:43.107 --> 00:09:44.147] JENNA: With your permission, Commander.
+[00:09:45.987 --> 00:09:46.707] DATA: Permission granted.
+[00:09:46.707 --> 00:09:48.467] JENNA: I
+[00:09:57.347 --> 00:09:59.827] JENNA: don't know if you're aware of this, but you're very handsome.
+[00:10:18.307 --> 00:10:19.027] JENNA: I'll see you tomorrow.
+[00:10:36.787 --> 00:10:37.347] GUINAN: Hello, Data.
+[00:10:39.317 --> 00:10:41.157] GUINAN: Would you like to try something new?
+[00:10:42.117 --> 00:10:44.917] GUINAN: It's a concoction I heard about on Prakal Two.
+[00:10:45.397 --> 00:10:47.477] GUINAN: I think it's wonderful but I need a second opinion.
+[00:10:54.837 --> 00:11:00.277] DATA: Eighty seven percent Saurian Brandy. Targ milk and Danisian mead comprise the rest.
+[00:11:00.997 --> 00:11:04.597] DATA: There is an unusually high concentration of fructose compounds and monosaccharides.
+[00:11:04.917 --> 00:11:05.477] GUINAN: Too sweet?
+[00:11:10.757 --> 00:11:17.957] GUINAN: Data, if I didn't know you better, I would say you were a little preoccupied.
+[00:11:19.637 --> 00:11:25.157] DATA: Lieutenant D'Sora just gave me what could be considered a very passionate kiss in the torpedo bay.
+[00:11:26.117 --> 00:11:26.597] GUINAN: Really?
+[00:11:36.357 --> 00:11:36.757] GUINAN: And?
+[00:11:38.677 --> 00:11:39.477] DATA: I was intrigued.
+[00:11:41.157 --> 00:11:43.717] DATA: Jenna seemed to be displaying genuine affection for me.
+[00:11:45.077 --> 00:11:45.317] GUINAN: Well,
+[00:11:46.997 --> 00:11:48.037] GUINAN: what do you think of her, Data?
+[00:11:49.477 --> 00:11:52.437] DATA: I find her to be a competent officer. Highly motivated,
+[00:11:54.357 --> 00:11:59.077] DATA: though somewhat lacking in her understanding of the theory underlying the dilithium matrix application.
+[00:11:59.557 --> 00:12:00.597] GUINAN: I meant personally?
+[00:12:03.717 --> 00:12:05.397] DATA: I look forward to the time we spend together.
+[00:12:06.763 --> 00:12:08.923] GUINAN: Well, then it seems the next move is yours.
+[00:12:10.363 --> 00:12:10.843] GUINAN: What are you going to do?
+[00:12:10.843 --> 00:12:12.523] DATA: I do not know.
+[00:12:13.643 --> 00:12:15.403] DATA: I have no experience in such matters.
+[00:12:17.163 --> 00:12:18.283] DATA: I require advice.
+[00:12:19.803 --> 00:12:20.523] GUINAN: Don't look at me.
+[00:12:21.563 --> 00:12:22.283] GUINAN: No, no, Data,
+[00:12:23.003 --> 00:12:26.683] GUINAN: I simply mean that I can't give you any advice here.
+[00:12:27.723 --> 00:12:30.603] GUINAN: It's not good to advise people about their first love affairs.
+[00:12:31.723 --> 00:12:34.443] GUINAN: That's kind of something they have to figure out for themselves.
+[00:12:35.243 --> 00:12:36.603] DATA: But I am not capable of love.
+[00:12:37.643 --> 00:12:39.883] GUINAN: Then it's going to be a very unique experience.
+[00:12:51.003 --> 00:12:53.883] LAFORGE: Data. Missing someone?
+[00:12:55.323 --> 00:12:57.643] LAFORGE: I found Spot wandering through the corridor two sections away.
+[00:12:58.443 --> 00:12:58.763] DATA: Thank you.
+[00:12:59.643 --> 00:13:00.603] LAFORGE: Forget to secure the door when you left?
+[00:13:01.563 --> 00:13:05.243] DATA: The door sensor is programmed to recognise only humanoid forms for entry and egress.
+[00:13:05.243 --> 00:13:07.723] DATA: Spot could not have triggered the mechanism.
+[00:13:09.003 --> 00:13:10.603] LAFORGE: Maybe someone came in while you were away,
+[00:13:11.323 --> 00:13:12.203] LAFORGE: let him out by accident.
+[00:13:13.963 --> 00:13:14.843] LAFORGE: Has anything been disturbed?
+[00:13:16.123 --> 00:13:17.163] DATA: It does not appear so.
+[00:13:20.363 --> 00:13:25.563] DATA: Computer, has anyone been in my quarters in the last twelve hours other than Commander La Forge and myself?
+[00:13:26.043 --> 00:13:26.363] COMPUTER: Negative.
+[00:13:27.963 --> 00:13:28.683] LAFORGE: That's really strange.
+[00:13:28.683 --> 00:13:33.163] LAFORGE: You know, to be on the safe side maybe I should report a possible unauthorised entry to Security.
+[00:13:34.843 --> 00:13:35.163] DATA: Geordi,
+[00:13:36.683 --> 00:13:37.883] DATA: may I ask your advice
+[00:13:39.381 --> 00:13:40.341] DATA: in a personal matter?
+[00:13:41.461 --> 00:13:41.861] LAFORGE: Sure, Data.
+[00:13:42.661 --> 00:13:44.981] DATA: Should I pursue a relationship with Lieutenant D'Sora?
+[00:13:46.261 --> 00:13:48.741] LAFORGE: I thought she and Jeff Arton
+[00:13:49.461 --> 00:13:51.141] DATA: They have discontinued their association.
+[00:13:51.701 --> 00:13:54.981] DATA: She has made the first move in initiating a relationship with me.
+[00:13:55.541 --> 00:13:56.101] DATA: What should I do?
+[00:14:00.821 --> 00:14:03.221] LAFORGE: She's just coming out of a bad situation.
+[00:14:05.461 --> 00:14:12.181] LAFORGE: You know, sometimes it takes people a while, Data, but then, if they jump right into another relationship,
+[00:14:12.501 --> 00:14:15.461] LAFORGE: you see, that can be trouble, unless, of course, she's really ready,
+[00:14:15.461 --> 00:14:18.741] LAFORGE: and then I guess it depends on whether or not you're really serious.
+[00:14:20.101 --> 00:14:23.941] LAFORGE: This can be a little complicated.
+[00:14:23.941 --> 00:14:28.661] LAFORGE: Listen, my advice is ask somebody else for advice.
+[00:14:28.661 --> 00:14:33.141] LAFORGE: At least someone who's got more experience at giving advice.
+[00:14:34.821 --> 00:14:34.901] TROI: I
+[00:14:38.261 --> 00:14:39.381] TROI: think you should be careful.
+[00:14:40.501 --> 00:14:42.821] TROI: This isn't just some experiment you're running, Data.
+[00:14:44.021 --> 00:14:48.341] TROI: Jenna is a living, breathing person with needs and feelings that have to be considered.
+[00:14:49.301 --> 00:14:51.221] DATA: Then you do not believe I should pursue this any further.
+[00:14:52.261 --> 00:14:52.981] TROI: I didn't say that.
+[00:14:53.141 --> 00:14:59.861] TROI: I just want you to be aware that this is unlike any other more casual relationship that you've attempted.
+[00:15:00.661 --> 00:15:04.421] DATA: I have studied much human literature on the subject of love and romantic liaisons.
+[00:15:05.164 --> 00:15:06.764] DATA: There are many role models for me to emulate.
+[00:15:08.044 --> 00:15:12.924] TROI: Ultimately, Jenna will care for you for what you are, not what you imitate out of a book.
+[00:15:14.844 --> 00:15:16.684] DATA: My programming may be inadequate to the task.
+[00:15:18.364 --> 00:15:20.524] TROI: We're all more than the sum of our parts, Data.
+[00:15:21.484 --> 00:15:23.564] TROI: You'll have to be more than the sum of your programming.
+[00:15:27.884 --> 00:15:30.524] WORF: Klingons do not pursue relationships.
+[00:15:31.164 --> 00:15:33.564] WORF: They conquer that which they desire.
+[00:15:35.964 --> 00:15:36.364] WORF: However,
+[00:15:38.764 --> 00:15:41.484] WORF: Lieutenant D'Sora serves under my command.
+[00:15:42.364 --> 00:15:47.084] WORF: If she were mistreated, I would be very displeased, sir.
+[00:15:50.445 --> 00:15:52.445] DATA: I
+[00:15:55.724 --> 00:15:56.604] DATA: understand.
+[00:15:57.724 --> 00:16:00.604] RIKER: I think you should pursue it.
+[00:16:00.604 --> 00:16:02.445] RIKER: First of all, she's a beautiful woman.
+[00:16:02.764 --> 00:16:04.204] RIKER: She seems to be crazy about you.
+[00:16:05.324 --> 00:16:07.564] DATA: Jenna has clearly demonstrated how she feels about me,
+[00:16:07.964 --> 00:16:10.556] DATA: but I am not capable of returning those feelings.
+[00:16:10.556 --> 00:16:10.844] RIKER: Data,
+[00:16:13.564 --> 00:16:15.084] RIKER: when you get involved with another person,
+[00:16:16.685 --> 00:16:19.724] RIKER: there are always risks of disappointment, of getting hurt.
+[00:16:20.445 --> 00:16:22.284] DATA: I cannot be hurt. But she can.
+[00:16:23.084 --> 00:16:26.924] RIKER: Jenna knows that and she has obviously decided to take the chance. Data,
+[00:16:27.884 --> 00:16:30.284] RIKER: when it really works between two people, it's not like
+[00:16:30.396 --> 00:16:35.116] RIKER: anything you've ever experienced. The rewards are far beyond simple friendship.
+[00:16:36.476 --> 00:16:37.036] DATA: How far, sir?
+[00:16:38.156 --> 00:16:39.596] RIKER: That's what I'm hoping you're going to find out.
+[00:16:39.746 --> 00:16:41.146] DATA: Thank you, Commander.
+[00:16:47.356 --> 00:16:47.756] DATA: Captain,
+[00:16:50.236 --> 00:16:51.996] DATA: I am seeking advice in how
+[00:16:51.996 --> 00:16:52.876] PICARD: Yes, I've heard, Data, and
+[00:16:52.876 --> 00:16:57.356] PICARD: I would be delighted to offer any advice I can on understanding women.
+[00:16:58.396 --> 00:16:59.436] PICARD: When as I have some, I'll let you
+[00:17:01.036 --> 00:17:03.036] PICARD: know.
+[00:17:06.076 --> 00:17:10.556] LOG: Second Officer's personal log, stardate 44935.6.
+[00:17:11.196 --> 00:17:18.556] LOG: After conferring with my colleagues regarding the nature of romantic love in general, and my own situation in particular, I have reached a decision.
+[00:17:19.276 --> 00:17:19.356] JENNA: They're
+[00:17:21.916 --> 00:17:22.876] JENNA: lovely.
+[00:17:25.036 --> 00:17:25.436] JENNA: Come in.
+[00:17:28.236 --> 00:17:28.956] JENNA: What are they?
+[00:17:29.356 --> 00:17:30.716] DATA: A variety of crystilia.
+[00:17:31.276 --> 00:17:35.996] DATA: Their fragrance is an evolutionary response to the acrid nature of the atmosphere on Telemarius Four.
+[00:17:37.116 --> 00:17:38.716] JENNA: You silver-tongued devil.
+[00:17:39.756 --> 00:17:41.836] JENNA: Why don't I find a place to put these.
+[00:17:43.356 --> 00:17:45.356] JENNA: Which won't be that easy.
+[00:17:46.156 --> 00:17:46.316] JENNA: Ah.
+[00:17:48.716 --> 00:17:51.356] DATA: It seems your quarters have reverted to their earlier state of disorder.
+[00:17:52.476 --> 00:17:53.036] JENNA: I know.
+[00:17:53.036 --> 00:17:53.996] JENNA: I'm hopeless.
+[00:17:54.636 --> 00:17:54.956] JENNA: There.
+[00:17:56.156 --> 00:17:57.436] JENNA: They're beautiful, Data.
+[00:17:57.651 --> 00:17:58.691] JENNA: It's really sweet of you.
+[00:17:59.571 --> 00:18:01.571] DATA: Commander Riker suggested this particular flower.
+[00:18:02.051 --> 00:18:03.891] DATA: He said it had worked for him in the past.
+[00:18:06.531 --> 00:18:09.011] JENNA: You didn't talk to the entire ship about us.
+[00:18:09.651 --> 00:18:09.971] DATA: No.
+[00:18:10.531 --> 00:18:13.731] DATA: In actuality, less than one percent of the Enterprise crew was involved.
+[00:18:16.531 --> 00:18:20.931] DATA: It was necessary to balance theory with experiential referents.
+[00:18:21.651 --> 00:18:23.811] DATA: Both are required for a programme of this nature.
+[00:18:27.491 --> 00:18:31.811] DATA: Computer, decrease illumination level by one third standard lux.
+[00:18:37.251 --> 00:18:39.171] JENNA: This is all part of a programme?
+[00:18:39.731 --> 00:18:43.011] DATA: Yes. One which I have just created for romantic relationships.
+[00:18:44.531 --> 00:18:51.251] JENNA: So I'm just a small variable in one of your new computational environments?
+[00:18:51.891 --> 00:18:53.011] DATA: You are much more than that, Jenna.
+[00:18:53.891 --> 00:18:57.971] DATA: I have written a subroutine specifically for you. A programme within the programme.
+[00:18:58.611 --> 00:19:01.891] DATA: I have devoted a considerable share of my internal resources to its development.
+[00:19:03.891 --> 00:19:03.891] JENNA: Data,
+[00:19:05.971 --> 00:19:08.291] JENNA: that's the nicest thing anybody's ever said to me.
+[00:19:12.511 --> 00:19:14.511] PICARD: Estimated
+[00:19:19.831 --> 00:19:21.831] PICARD: time
+[00:19:25.491 --> 00:19:26.451] PICARD: of arrival, Mister Data?
+[00:19:26.451 --> 00:19:29.731] DATA: We will reach the class M planet in approximately eleven hours, sir.
+[00:19:30.451 --> 00:19:31.411] PICARD: You have the Bridge, Number One.
+[00:19:52.779 --> 00:19:55.659] PICARD: Picard to Lieutenant Worf.
+[00:19:56.859 --> 00:19:57.419] WORF: Yes, Captain.
+[00:19:57.819 --> 00:20:01.579] PICARD: Would you step into my Ready room, please. And bring a tricorder with you.
+[00:20:02.459 --> 00:20:02.939] WORF: Aye, Captain.
+[00:20:08.059 --> 00:20:08.459] WORF: Captain?
+[00:20:08.459 --> 00:20:10.859] PICARD: What do you make of this?
+[00:20:13.499 --> 00:20:13.899] WORF: I
+[00:20:17.179 --> 00:20:17.979] WORF: am puzzled, sir.
+[00:20:18.299 --> 00:20:18.899] PICARD: So am I, Mister Worf.
+[00:20:18.899 --> 00:20:19.019] WORF: Captain,
+[00:20:19.739 --> 00:20:22.219] WORF: the only detectable bioelectric residuals are your own.
+[00:20:23.899 --> 00:20:24.379] WORF: You did not
+[00:20:24.459 --> 00:20:25.339] PICARD: No. I did not.
+[00:20:27.659 --> 00:20:29.859] PICARD: Perhaps we have a poltergeist.
+[00:20:29.859 --> 00:20:30.299] WORF: Sir?
+[00:20:32.619 --> 00:20:34.899] PICARD: A mischievous spirit.
+[00:20:34.899 --> 00:20:35.659] WORF: Sir.
+[00:20:37.259 --> 00:20:37.739] PICARD: Perhaps not.
+[00:20:39.899 --> 00:20:47.019] WORF: I cannot explain how an intruder entered this room, but I recommend we go to Red Alert.
+[00:20:47.339 --> 00:20:47.899] PICARD: Not yet.
+[00:20:48.459 --> 00:20:50.619] WORF: Then I will order one of my officers to stand watch.
+[00:20:50.939 --> 00:20:51.419] WORF: Worf to Ensign
+[00:20:51.419 --> 00:20:52.459] PICARD: That's alright, Mister Worf.
+[00:20:53.019 --> 00:20:55.339] PICARD: I think, for now, circumstances warrant caution,
+[00:20:55.899 --> 00:20:56.459] PICARD: nothing more.
+[00:20:57.899 --> 00:20:58.699] WORF: As you wish, Captain.
+[00:21:17.752 --> 00:21:18.072] DATA: Enter.
+[00:21:21.592 --> 00:21:23.272] JENNA: I know it's a little unexpected.
+[00:21:23.352 --> 00:21:24.712] DATA: You are correct.
+[00:21:25.592 --> 00:21:28.312] DATA: I did not anticipate your arrival until nineteen hundred hours.
+[00:21:29.032 --> 00:21:29.992] JENNA: I couldn't wait.
+[00:21:31.032 --> 00:21:33.432] JENNA: I wanted you to have
+[00:21:35.112 --> 00:21:37.112] JENNA: this.
+[00:21:37.912 --> 00:21:41.192] DATA: You have often expressed dissatisfaction with the spartan nature of my quarters.
+[00:21:42.072 --> 00:21:44.232] DATA: Is this an attempt at embellishment?
+[00:21:44.792 --> 00:21:45.752] JENNA: The cat's out of the bag.
+[00:21:47.112 --> 00:21:47.512] DATA: Spot?
+[00:21:47.672 --> 00:21:50.392] JENNA: No, I mean you've caught me in the act.
+[00:21:51.432 --> 00:21:53.592] JENNA: I'm just trying to brighten things up around here.
+[00:21:55.352 --> 00:21:56.072] JENNA: It's Tyrinean.
+[00:21:56.392 --> 00:21:56.952] JENNA: What do you think?
+[00:21:58.872 --> 00:22:03.352] DATA: Its line is both fluid and formal, yet retains an unpremeditated quality.
+[00:22:04.632 --> 00:22:09.752] DATA: The tactility of its surface embellishment is evocative of the neo-primitive period in Tyrinean blade carving.
+[00:22:09.992 --> 00:22:12.872] JENNA: I hadn't thought of it that way.
+[00:22:16.872 --> 00:22:17.592] JENNA: I'm sorry.
+[00:22:17.592 --> 00:22:18.632] JENNA: Don't let me interrupt.
+[00:22:19.432 --> 00:22:19.832] DATA: As you wish.
+[00:22:28.312 --> 00:22:29.192] JENNA: Data?
+[00:22:30.577 --> 00:22:30.897] DATA: Yes?
+[00:22:32.097 --> 00:22:36.577] JENNA: The Book of Love, chapter four, paragraph seventeen:
+[00:22:36.577 --> 00:22:44.177] JENNA: When your girlfriend arrives with a gift, stop whatever it is you're doing, and give her your undivided attention.
+[00:22:46.657 --> 00:22:48.257] DATA: I should not have resumed my painting?
+[00:22:49.377 --> 00:22:49.857] JENNA: No.
+[00:22:51.457 --> 00:22:53.137] DATA: Despite your suggestion that I continue?
+[00:22:54.257 --> 00:22:55.057] JENNA: Exactly.
+[00:22:57.617 --> 00:22:59.697] DATA: I have much to learn.
+[00:23:02.897 --> 00:23:04.257] JENNA: Why don't we start with this.
+[00:23:06.577 --> 00:23:10.737] JENNA: A critical analysis isn't necessarily the best response to a gift.
+[00:23:11.537 --> 00:23:14.657] DATA: Perhaps if I looked for a suitable place to display it?
+[00:23:15.537 --> 00:23:15.937] JENNA: Much better.
+[00:23:27.137 --> 00:23:30.657] DATA: The ambient light in this location accentuates its contours.
+[00:23:33.777 --> 00:23:34.257] DATA: However,
+[00:23:36.017 --> 00:23:39.377] DATA: a gift should not necessarily be placed according to aesthetic criteria.
+[00:23:41.137 --> 00:23:44.417] DATA: A more central location will carry added meaning.
+[00:23:46.337 --> 00:23:48.657] JENNA: Data, what's important is that you're trying.
+[00:23:49.617 --> 00:23:51.457] JENNA: You don't know how much that means to me.
+[00:23:54.497 --> 00:23:55.217] JENNA: Why don't you go back to your
+[00:23:56.897 --> 00:23:58.897] JENNA: painting?
+[00:23:58.897 --> 00:24:00.417] JENNA: Oh, I really mean it this time.
+[00:24:03.771 --> 00:24:04.571] JENNA: I'll see you tonight.
+[00:24:23.211 --> 00:24:26.011] RIKER: Riker to Captain Picard.
+[00:24:26.651 --> 00:24:28.011] RIKER: I think you'd better come out here, sir.
+[00:24:28.251 --> 00:24:28.651] PICARD: Acknowledged.
+[00:24:39.771 --> 00:24:43.371] RIKER: We've reached the designated coordinates, but the M-class planet, it's
+[00:24:45.051 --> 00:24:45.371] RIKER: gone.
+[00:24:45.521 --> 00:24:46.121] PICARD: Are
+[00:24:59.211 --> 00:25:00.891] PICARD: you sure there was no malfunction in the sensors?
+[00:25:01.531 --> 00:25:06.891] DATA: The lateral EM scanners register radiation levels indicative of a class-M planet. Sir.
+[00:25:16.011 --> 00:25:17.691] PICARD: Mister Data, run a full systems diagnostic.
+[00:25:17.691 --> 00:25:20.891] COMPUTER: Warning. Atmospheric decompression in Bridge Observation Lounge.
+[00:25:20.971 --> 00:25:23.771] COMPUTER: Environmental compensation sequence has been initiated.
+[00:25:23.771 --> 00:25:26.491] WORF: I am not registering a hull breach.
+[00:25:26.811 --> 00:25:27.611] PICARD: Scan for lifeforms.
+[00:25:28.582 --> 00:25:28.902] WORF: None, sir.
+[00:25:29.622 --> 00:25:32.982] DATA: Captain. Standard air pressure has been reestablished in the Observation lounge.
+[00:25:35.142 --> 00:25:36.102] PICARD: Let's have a look. Mister Data?
+[00:25:38.982 --> 00:25:38.982] WORF: Captain.
+[00:25:43.862 --> 00:25:44.102] WORF: I
+[00:25:50.342 --> 00:25:51.462] WORF: do not understand.
+[00:25:51.612 --> 00:25:52.612] RIKER: Are you
+[00:25:54.582 --> 00:25:55.382] RIKER: picking anything up, Data?
+[00:25:56.022 --> 00:25:58.662] DATA: I detect no unusual readings along standard parameters.
+[00:25:59.222 --> 00:25:59.782] DATA: Curious.
+[00:26:01.222 --> 00:26:06.262] DATA: The transparent aluminum alloy of this window is exhibiting a pattern of transient electrical currents.
+[00:26:07.222 --> 00:26:07.702] PICARD: Explanation?
+[00:26:08.582 --> 00:26:09.062] DATA: I have none.
+[00:26:10.022 --> 00:26:14.422] DATA: The rate is characteristic of a subspace distortion, but I am picking up no evidence of a subspace field.
+[00:26:15.462 --> 00:26:17.862] PICARD: We'll hold position while we seek an explanation for these anomalies.
+[00:26:18.902 --> 00:26:20.902] PICARD: Let's divert all our resources to that end.
+[00:26:29.462 --> 00:26:34.022] DATA: Honey? I'm home.
+[00:26:39.942 --> 00:26:40.502] JENNA: Hi.
+[00:26:40.502 --> 00:26:41.062] DATA: Hi.
+[00:26:43.862 --> 00:26:45.222] JENNA: Any luck with your diagnostic?
+[00:26:45.542 --> 00:26:45.542] DATA: Negative.
+[00:26:46.342 --> 00:26:47.622] DATA: We found no malfunctions.
+[00:26:48.422 --> 00:26:50.022] JENNA: We did a full security sweep.
+[00:26:50.262 --> 00:26:50.742] JENNA: Nothing.
+[00:26:56.902 --> 00:26:57.462] DATA: May I
+[00:26:59.756 --> 00:27:00.556] DATA: get you a drink, dear?
+[00:27:02.396 --> 00:27:05.276] JENNA: Well, yes. I'll have a Calaman Sherry.
+[00:27:06.876 --> 00:27:07.836] DATA: Excellent choice.
+[00:27:08.876 --> 00:27:09.276] DATA: I'll join you.
+[00:27:13.436 --> 00:27:15.036] DATA: Computer, two
+[00:27:17.036 --> 00:27:18.396] DATA: Calaman sherries.
+[00:27:23.116 --> 00:27:25.116] DATA: Would
+[00:27:28.476 --> 00:27:29.676] DATA: you care for some dinner as well?
+[00:27:30.476 --> 00:27:32.876] JENNA: I'm too tired to think about what I want.
+[00:27:33.036 --> 00:27:33.596] JENNA: Maybe later.
+[00:27:34.716 --> 00:27:35.596] DATA: Whatever you wish, dear.
+[00:27:39.676 --> 00:27:42.156] DATA: There we are.
+[00:27:45.196 --> 00:27:45.516] DATA: Darling,
+[00:27:47.036 --> 00:27:51.356] DATA: you remain as aesthetically pleasing as the first day we met.
+[00:27:52.636 --> 00:27:57.756] DATA: I believe I am the most fortunate sentient in this sector of the galaxy.
+[00:27:57.906 --> 00:27:58.506] DATA: Now,
+[00:28:05.116 --> 00:28:07.116] DATA: you
+[00:28:08.956 --> 00:28:09.676] DATA: relax.
+[00:28:11.116 --> 00:28:13.116] DATA: Put your feet up
+[00:28:14.636 --> 00:28:18.876] DATA: and I will take care of everything.
+[00:28:48.230 --> 00:28:49.670] DATA: I could organise your closets for you.
+[00:28:50.390 --> 00:28:58.150] DATA: I have found that by grouping apparel first by function, and then by colour from light to dark, one can more easily find one's desired choice.
+[00:28:59.110 --> 00:28:59.510] JENNA: Data,
+[00:29:01.270 --> 00:29:01.830] JENNA: that's all right.
+[00:29:01.830 --> 00:29:02.630] JENNA: You don't have to do that.
+[00:29:03.750 --> 00:29:04.710] DATA: But I am happy to do it.
+[00:29:05.750 --> 00:29:07.190] JENNA: Please, just put them down.
+[00:29:10.790 --> 00:29:12.230] DATA: What do you wish me to do, dear?
+[00:29:13.030 --> 00:29:14.470] DATA: Am I not paying enough attention to you?
+[00:29:14.870 --> 00:29:16.230] JENNA: Oh, no, that's not it.
+[00:29:17.110 --> 00:29:19.110] DATA: Perhaps I am not giving you enough compliments?
+[00:29:21.190 --> 00:29:26.950] DATA: Your hair is looking particularly silky tonight.
+[00:29:28.950 --> 00:29:32.710] JENNA: Data, there's just something strange about the way you're acting.
+[00:29:33.590 --> 00:29:35.350] DATA: Am I not behaving as a solicitous mate?
+[00:29:36.630 --> 00:29:37.530] JENNA: Well, yes, but.
+[00:29:37.530 --> 00:29:39.030] DATA: Tending to your every need?
+[00:29:41.030 --> 00:29:42.550] JENNA: What's wrong with you tonight?
+[00:29:43.910 --> 00:29:46.710] DATA: My most recent self-diagnostic revealed no malfunctions.
+[00:29:52.710 --> 00:29:54.470] DATA: Perhaps there is something wrong with you.
+[00:29:55.324 --> 00:29:57.724] JENNA: I've never seen you behave so foolishly.
+[00:29:58.444 --> 00:29:59.644] JENNA: Why are you doing this?
+[00:29:59.804 --> 00:30:01.004] DATA: You don't tell me how to behave.
+[00:30:01.004 --> 00:30:01.884] DATA: You're not my mother.
+[00:30:02.604 --> 00:30:02.764] JENNA: What?
+[00:30:04.524 --> 00:30:05.244] DATA: You are not my mother.
+[00:30:06.364 --> 00:30:09.404] DATA: That is the appropriate response for your statement that I am behaving foolishly.
+[00:30:09.964 --> 00:30:11.564] JENNA: Data, I think you should just leave.
+[00:30:13.404 --> 00:30:16.684] DATA: You do not wish to continue our lovers quarrel?
+[00:30:18.044 --> 00:30:19.164] JENNA: Is that what this is?
+[00:30:19.964 --> 00:30:29.004] DATA: In my study of interpersonal dynamics, I have found that conflict followed by emotional release often strengthens the connection between two people.
+[00:30:30.364 --> 00:30:36.204] JENNA: But there's something so forced and artificial about the way you're doing it, Data.
+[00:30:37.244 --> 00:30:38.684] JENNA: It's just not the real you.
+[00:30:40.124 --> 00:30:45.084] DATA: With regard to romantic relationships, there is no real me.
+[00:30:46.124 --> 00:30:50.364] DATA: I am drawing upon various cultural and literary sources to help define my role.
+[00:30:53.004 --> 00:30:53.404] JENNA: Kiss me.
+[00:30:53.554 --> 00:30:54.154] JENNA: What
+[00:31:04.284 --> 00:31:05.324] JENNA: were you just thinking?
+[00:31:06.444 --> 00:31:19.724] DATA: In that particular moment, I was reconfiguring the warp field parameters, analysing the collected works of Charles Dickens, calculating the maximum pressure I could safely apply to your lips, considering a new food supplement for Spot.
+[00:31:23.100 --> 00:31:24.701] JENNA: I'm glad I was in there somewhere.
+[00:31:35.340 --> 00:31:38.861] RIKER: A complete sensor scan of the planet and three survey probes turned up no surprises.
+[00:31:39.421 --> 00:31:40.141] RIKER: No signs of life,
+[00:31:40.381 --> 00:31:41.020] RIKER: nothing out of the ordinary.
+[00:31:41.421 --> 00:31:43.820] WORF: Seven more unusual incidents have been reported.
+[00:31:44.381 --> 00:31:45.661] WORF: No casualties or damage.
+[00:31:46.221 --> 00:31:49.820] DATA: We can only state that a subspace effect seems to exist within this nebula.
+[00:31:50.221 --> 00:31:55.661] DATA: After I have made further analysis, I may be able to adjust the ship's sensors to locate and identify the anomaly.
+[00:31:55.740 --> 00:31:57.340] RIKER: The ship is at risk as long as we're sitting here.
+[00:31:57.740 --> 00:31:59.981] RIKER: We could continue the investigation outside the nebula.
+[00:32:01.421 --> 00:32:01.901] PICARD: Agreed.
+[00:32:02.141 --> 00:32:04.701] PICARD: Ensign McKnight, plot the most direct course, ahead warp one.
+[00:32:05.100 --> 00:32:05.500] MCKNIGHT: Aye, air.
+[00:32:05.661 --> 00:32:06.221] PICARD: Engage.
+[00:32:06.461 --> 00:32:06.780] DATA: Captain.
+[00:32:16.701 --> 00:32:16.941] WORF: Captain!
+[00:32:17.421 --> 00:32:19.181] WORF: Explosive decompression on deck thirty seven.
+[00:32:19.181 --> 00:32:20.941] RIKER: Bridge to La Forge.
+[00:32:20.941 --> 00:32:21.740] RIKER: Damage report.
+[00:32:22.221 --> 00:32:23.740] LAFORGE: We're showing damage between decks.
+[00:32:24.060 --> 00:32:25.020] LAFORGE: We haven't localised it yet.
+[00:32:31.580 --> 00:32:32.621] LAFORGE: Thorne, are you all right?
+[00:32:33.020 --> 00:32:33.580] THORNE: Yes,
+[00:32:33.580 --> 00:32:33.580] THORNE: sir.
+[00:32:33.580 --> 00:32:34.461] LAFORGE: La Forge to Bridge.
+[00:32:34.461 --> 00:32:37.181] LAFORGE: A cryogenic control conduit just blew out on us.
+[00:32:37.181 --> 00:32:38.621] LAFORGE: I almost lost a man.
+[00:32:39.740 --> 00:32:40.060] PICARD: Ensign,
+[00:32:40.540 --> 00:32:40.861] PICARD: full stop.
+[00:32:41.181 --> 00:32:41.580] MCKNIGHT: Aye, sir.
+[00:32:42.381 --> 00:32:43.020] LAFORGE: La Forge to Bridge
+[00:32:43.421 --> 00:32:44.060] PICARD: Go ahead, Commander.
+[00:32:44.621 --> 00:32:48.461] LAFORGE: I think we have some structural damage between decks thirty six and thirty seven.
+[00:32:48.461 --> 00:32:49.421] LAFORGE: I'd better go check it out.
+[00:32:54.465 --> 00:32:57.745] LAFORGE: Van Mayter, you take access tube twenty three M and look at the bridge connectors.
+[00:32:58.145 --> 00:32:59.905] LAFORGE: Thorne, I'll cover the aft section.
+[00:33:00.305 --> 00:33:00.865] LAFORGE: You go down
+[00:33:22.625 --> 00:33:23.905] LOG: Captain's log, supplemental.
+[00:33:24.145 --> 00:33:30.785] LOG: This series of unexplained events has now resulted in the death of a crewmember, but it appears that Mister Data may have an explanation.
+[00:33:32.145 --> 00:33:35.265] DATA: During the last occurrence, I was able to confirm one of my hypotheses.
+[00:33:36.065 --> 00:33:43.585] DATA: The unusual preponderance of dark matter in this nebula is causing small gaps in the fabric of normal space.
+[00:33:44.385 --> 00:33:48.545] DATA: As the Enterprise moves through this nebula, it is colliding with these deformations.
+[00:33:49.265 --> 00:33:53.905] LAFORGE: So every time we hit one, part of the ship momentarily phases out of normal space.
+[00:33:54.145 --> 00:33:58.865] DATA: Or when one of them hits us. My readings suggest that the deformations themselves are in motion.
+[00:33:59.505 --> 00:34:04.305] RIKER: It's a good thing one of these pockets didn't pass through a photon torpedo casing or the matter-antimatter containment pods.
+[00:34:04.705 --> 00:34:05.985] PICARD: The question is, how do we get out?
+[00:34:06.545 --> 00:34:10.145] PICARD: Mister Data, could you reconfigure the sensors to detect these anomalies?
+[00:34:10.465 --> 00:34:10.785] DATA: Yes, sir,
+[00:34:11.265 --> 00:34:12.945] DATA: but only at extremely close range.
+[00:34:13.345 --> 00:34:17.745] DATA: Even at minimal speed, it would be almost impossible to manoeuvre the Enterprise quickly enough to avoid them.
+[00:34:18.225 --> 00:34:19.905] WORF: A shuttlecraft is more manoeuvrable.
+[00:34:20.865 --> 00:34:21.265] RIKER: He's right.
+[00:34:23.338 --> 00:34:29.578] RIKER: If we could position the shuttlecraft far enough in front of the Enterprise, it could detect the pockets and allow us enough time to manoeuvre out of the way.
+[00:34:30.058 --> 00:34:32.298] LAFORGE: We could give the shuttle control of our navigational systems.
+[00:34:32.698 --> 00:34:35.658] LAFORGE: That way, the corresponding manoeuvres would be virtually instantaneous.
+[00:34:37.258 --> 00:34:37.738] PICARD: Make it so.
+[00:34:41.898 --> 00:34:43.338] RIKER: I'll do my pre-flight once I'm on board.
+[00:34:43.498 --> 00:34:44.298] PICARD: Not this time, Will.
+[00:34:44.458 --> 00:34:45.258] PICARD: I want you on the Bridge.
+[00:34:47.018 --> 00:34:47.258] RIKER: Sir?
+[00:34:49.978 --> 00:34:50.858] PICARD: I'm going to pilot the shuttle.
+[00:34:51.978 --> 00:34:56.138] RIKER: Captain, it's my duty as First Officer to safeguard the lives on this ship, including yours.
+[00:34:56.698 --> 00:34:59.338] RIKER: The Enterprise can't afford to lose you, sir. Certainly not in this situation.
+[00:34:59.818 --> 00:35:03.258] PICARD: I believe our best chance of escaping this situation is for me to pilot the shuttle.
+[00:35:03.738 --> 00:35:04.378] PICARD: It's my ship, Will.
+[00:35:05.178 --> 00:35:05.898] PICARD: I've got to do this.
+[00:35:07.898 --> 00:35:08.058] RIKER: Sir.
+[00:35:22.378 --> 00:35:23.258] PICARD: Shuttle three to Enterprise.
+[00:35:23.498 --> 00:35:24.538] PICARD: Telemetry link enabled.
+[00:35:25.338 --> 00:35:28.138] DATA: Ship's computer is accepting navigational inputs from the shuttle.
+[00:35:29.498 --> 00:35:30.698] PICARD: Forward sensors are online.
+[00:35:31.578 --> 00:35:34.378] PICARD: Ensign McKnight, plot a course for the shortest distance out of the nebula.
+[00:35:35.258 --> 00:35:36.058] MCKNIGHT: Plot laid in, sir.
+[00:35:36.698 --> 00:35:39.178] MCKNIGHT: Outer perimeter at thirty two million kilometres.
+[00:35:39.658 --> 00:35:40.938] PICARD: Point one impulse, Number One.
+[00:35:41.418 --> 00:35:42.298] RIKER: Acknowledged, Captain.
+[00:35:42.298 --> 00:35:43.018] RIKER: We're right behind you.
+[00:35:43.978 --> 00:35:44.858] RIKER: Riker to O'Brien,
+[00:35:45.258 --> 00:35:46.458] RIKER: lock on to the Captain's communicator.
+[00:35:46.458 --> 00:35:47.898] RIKER: I want to be able to pull him out of there in case we have to.
+[00:35:48.618 --> 00:35:48.938] O'BRIEN: Aye, sir.
+[00:35:59.168 --> 00:36:02.368] PICARD: Changing course new heading two nine nine mark zero two nine.
+[00:36:05.728 --> 00:36:07.968] DATA: Main coupling is matching navigational inputs, Captain.
+[00:36:08.368 --> 00:36:09.488] MCKNIGHT: New heading confirmed.
+[00:36:09.968 --> 00:36:12.288] PICARD: I missed it by less than a thousand metres, Enterprise.
+[00:36:12.928 --> 00:36:13.728] PICARD: Advise your status.
+[00:36:14.528 --> 00:36:18.368] WORF: Sensors indicate deformation passing five hundred metres off the starboard bow.
+[00:36:19.168 --> 00:36:19.968] RIKER: One down, Captain
+[00:36:21.008 --> 00:36:22.288] PICARD: Resuming previous course.
+[00:36:23.088 --> 00:36:23.728] MCKNIGHT: Confirmed.
+[00:36:24.208 --> 00:36:26.928] MCKNIGHT: Outer perimeter now at thirty point one million kilometres.
+[00:36:27.328 --> 00:36:31.008] PICARD: Changing course. Heading zero seven three, mark two eight eight.
+[00:36:31.088 --> 00:36:31.968] PICARD: New
+[00:36:35.728 --> 00:36:37.408] PICARD: heading. two eight four mark zero one three.
+[00:36:40.288 --> 00:36:42.288] PICARD: Enterprise,
+[00:36:44.048 --> 00:36:45.088] PICARD: I'm losing manoeuvrability.
+[00:36:45.888 --> 00:36:49.008] LAFORGE: Sensors indicate Damage to the shuttle's starboard impulse nacelle, Captain.
+[00:36:49.008 --> 00:36:51.968] PICARD: I'm re-routing the secondary deuterium supply.
+[00:36:53.248 --> 00:36:54.448] PICARD: Switching to manual control.
+[00:36:55.488 --> 00:36:57.568] DATA: Transceiver signal is down forty two percent.
+[00:36:57.888 --> 00:36:59.568] DATA: Navigational inputs are not registering.
+[00:36:59.968 --> 00:37:01.088] RIKER: We've lost our link, Captain.
+[00:37:01.968 --> 00:37:05.328] PICARD: You'll have to make course changes manually until we re-establish the connection.
+[00:37:05.648 --> 00:37:06.128] RIKER: Understood.
+[00:37:06.848 --> 00:37:08.048] RIKER: Mister Data, get us back online.
+[00:37:08.528 --> 00:37:11.648] RIKER: Geordi, try boosting the power to the LU bands. McKnight,
+[00:37:11.648 --> 00:37:13.648] RIKER: increase the distance between the Enterprise and the shuttle.
+[00:37:14.048 --> 00:37:15.968] RIKER: We're going to need some more room to make manual adjustments.
+[00:37:18.448 --> 00:37:20.448] PICARD: New heading
+[00:37:22.688 --> 00:37:24.048] PICARD: two nine nine mark one eight.
+[00:37:24.616 --> 00:37:25.656] MCKNIGHT: Yes, sir, I've got it.
+[00:37:25.656 --> 00:37:26.296] MCKNIGHT: Course corrected.
+[00:37:26.296 --> 00:37:28.696] PICARD: Enterprise, hard starboard!
+[00:37:29.256 --> 00:37:29.496] MCKNIGHT: Aye, sir.
+[00:37:33.576 --> 00:37:36.216] WORF: Deformation impact on deck fifteen, science section.
+[00:37:37.016 --> 00:37:37.256] RIKER: Damage?
+[00:37:38.216 --> 00:37:38.936] WORF: Reports coming in.
+[00:37:39.816 --> 00:37:40.456] WORF: Minimal damage.
+[00:37:41.816 --> 00:37:45.736] PICARD: Mister La Forge, I am still having difficulty controlling the shuttlecraft.
+[00:37:45.736 --> 00:37:46.136] LAFORGE: Aye, sir.
+[00:37:46.136 --> 00:37:47.976] LAFORGE: Your krellide storage cells are losing their charge.
+[00:37:47.976 --> 00:37:50.376] LAFORGE: Maintaining manual control is going to become increasingly difficult.
+[00:37:51.096 --> 00:37:52.776] PICARD: Estimated distance to the nebula's perimeter?
+[00:37:53.576 --> 00:37:55.016] DATA: Four point seven million kilometres, sir.
+[00:37:55.656 --> 00:37:58.536] PICARD: Is there a way to transfer the microfusion thrusters so I can get a power boost?
+[00:37:58.936 --> 00:37:59.416] DATA: Possibly.
+[00:38:00.056 --> 00:38:02.696] DATA: If you augment the thruster sequencing so that the inertial dampening
+[00:38:02.696 --> 00:38:03.176] DATA: fields
+[00:38:03.176 --> 00:38:04.616] PICARD: Bearing two seven,
+[00:38:04.616 --> 00:38:06.456] PICARD: make that two eight five, mark two five five!
+[00:38:07.976 --> 00:38:08.296] DATA: Commander,
+[00:38:12.216 --> 00:38:13.256] DATA: the shuttle is out of control.
+[00:38:13.576 --> 00:38:15.096] RIKER: Mister O'Brien do you have the Captain's signal?
+[00:38:15.976 --> 00:38:16.936] O'BRIEN: I'm having trouble locking on, sir.
+[00:38:18.056 --> 00:38:19.816] DATA: Sir, the shuttle's inertial dampeners have failed.
+[00:38:20.216 --> 00:38:20.856] DATA: It is breaking up.
+[00:38:22.136 --> 00:38:23.016] RIKER: Let's get him out of there.
+[00:38:24.536 --> 00:38:27.816] PICARD: Now would be a good time, Mister O'Brien.
+[00:38:28.536 --> 00:38:28.616] RIKER: Did we
+[00:38:34.536 --> 00:38:35.016] RIKER: get him back?
+[00:38:36.696 --> 00:38:37.656] O'BRIEN: Aye, sir, we got him.
+[00:38:38.776 --> 00:38:42.296] PICARD: I'm a little dizzy, Number One, but none the worse. I'm on my way.
+[00:38:43.336 --> 00:38:43.976] RIKER: Acknowledged, sir.
+[00:38:44.936 --> 00:38:46.776] DATA: Commander, we are nearing the perimeter.
+[00:38:47.096 --> 00:38:48.296] DATA: One million kilometres away.
+[00:38:48.856 --> 00:38:50.936] RIKER: All right, let's make a run for it.
+[00:38:51.336 --> 00:38:51.736] MCKNIGHT: Aye, sir.
+[00:39:05.808 --> 00:39:06.768] RIKER: We're clear of the nebula, sir.
+[00:39:07.408 --> 00:39:09.568] PICARD: Ensign, plot a course for Starbase two sixty,
+[00:39:09.568 --> 00:39:09.968] PICARD: warp two.
+[00:39:10.208 --> 00:39:10.608] MCKNIGHT: Aye, sir.
+[00:39:12.208 --> 00:39:12.528] PICARD: Engage.
+[00:39:31.168 --> 00:39:31.488] DATA: Enter.
+[00:39:33.328 --> 00:39:33.568] JENNA: Hi.
+[00:39:34.768 --> 00:39:34.928] DATA: Hi.
+[00:39:34.928 --> 00:39:34.928] JENNA: The
+[00:39:36.848 --> 00:39:38.048] JENNA: place looks great.
+[00:39:39.728 --> 00:39:39.968] DATA: Thank you.
+[00:39:40.928 --> 00:39:42.368] DATA: It is much less Spartan, is it not?
+[00:39:43.488 --> 00:39:43.888] JENNA: Much less.
+[00:39:45.328 --> 00:39:46.128] JENNA: It looks great,
+[00:39:46.368 --> 00:39:47.008] JENNA: it really does.
+[00:39:48.528 --> 00:39:50.528] JENNA: It looks great.
+[00:39:52.288 --> 00:39:54.368] DATA: Jenna, you are repeating yourself.
+[00:39:55.248 --> 00:39:57.808] DATA: I have often found this to be indicative of mental distraction.
+[00:39:58.448 --> 00:40:00.288] DATA: Is that a correct assumption in this instance?
+[00:40:00.688 --> 00:40:03.248] JENNA: I'm afraid it is.
+[00:40:04.288 --> 00:40:05.568] DATA: Then perhaps we should begin our meal.
+[00:40:06.368 --> 00:40:09.375] DATA: Among humans, a low serum glucose level is often responsible for
+[00:40:09.375 --> 00:40:09.648] JENNA: Data,
+[00:40:10.128 --> 00:40:11.728] JENNA: I think we should talk.
+[00:40:14.448 --> 00:40:15.168] JENNA: Could you sit down?
+[00:40:20.848 --> 00:40:21.568] JENNA: I'm
+[00:40:24.048 --> 00:40:25.248] JENNA: not sure how to begin.
+[00:40:26.368 --> 00:40:27.168] DATA: What is the subject?
+[00:40:28.606 --> 00:40:30.606] JENNA: You and I. Our relationship.
+[00:40:31.086 --> 00:40:31.486] DATA: Yes?
+[00:40:34.606 --> 00:40:34.926] JENNA: Data,
+[00:40:36.846 --> 00:40:41.246] JENNA: sometimes people blindly make the same mistake again and again.
+[00:40:42.366 --> 00:40:44.286] DATA: Are you currently experiencing this phenomenon?
+[00:40:45.726 --> 00:40:47.326] JENNA: I didn't see it until today.
+[00:40:49.006 --> 00:40:53.086] JENNA: I got out of a relationship with an unemotional man,
+[00:40:54.926 --> 00:40:57.406] JENNA: and I got right back into another,
+[00:40:59.406 --> 00:41:04.686] JENNA: with a man who is absolutely incapable of emotion.
+[00:41:06.846 --> 00:41:08.686] DATA: There does appear to be a recurring motif.
+[00:41:11.646 --> 00:41:13.246] JENNA: You were so kind and attentive.
+[00:41:14.846 --> 00:41:15.966] JENNA: I thought that would be enough.
+[00:41:17.646 --> 00:41:18.046] DATA: It is not?
+[00:41:20.126 --> 00:41:21.086] JENNA: No, it's not.
+[00:41:22.926 --> 00:41:24.526] JENNA: Because as close as we are,
+[00:41:26.286 --> 00:41:27.806] JENNA: I don't really matter to you.
+[00:41:28.846 --> 00:41:29.566] JENNA: Not really.
+[00:41:30.366 --> 00:41:34.766] JENNA: Nothing I can say or do will ever make you happy or sad,
+[00:41:36.766 --> 00:41:38.926] JENNA: or touch you in any way.
+[00:41:40.446 --> 00:41:41.566] DATA: That is a valid projection.
+[00:41:42.926 --> 00:41:46.766] DATA: It is apparent that my reach has exceeded my grasp in this particular area.
+[00:41:47.326 --> 00:41:50.606] DATA: I am perhaps not nearly so human as I aspire to become.
+[00:41:51.966 --> 00:41:52.846] DATA: If you are ready to eat,
+[00:41:53.086 --> 00:41:53.966] DATA: I will bring our meal.
+[00:41:55.646 --> 00:41:58.206] JENNA: No, that's alright, Data.
+[00:42:00.446 --> 00:42:01.566] JENNA: I'd better go now.
+[00:42:02.846 --> 00:42:03.326] DATA: As you wish.
+[00:42:07.886 --> 00:42:08.206] DATA: Jenna.
+[00:42:10.446 --> 00:42:12.926] DATA: Are we no longer a couple?
+[00:42:17.406 --> 00:42:18.126] JENNA: No, we're not.
+[00:42:19.646 --> 00:42:21.326] DATA: Then I will delete the appropriate programme.
+[00:42:23.486 --> 00:42:25.086] JENNA: I'll
+[00:42:27.006 --> 00:42:27.566] JENNA: see you later.
+[00:42:37.886 --> 00:42:41.566] DATA: Hello, Spot.
+[00:42:46.000 --> 00:42:55.000] [music]
+[00:42:57.000 --> 00:43:07.000] [music]
+[00:43:16.000 --> 00:43:25.000] [music]

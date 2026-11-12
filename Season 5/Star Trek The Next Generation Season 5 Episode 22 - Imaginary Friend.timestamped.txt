@@ -1,0 +1,725 @@
+[00:00:10.240 --> 00:00:17.040] CLARA: I like to cook all kinds of stuff, like yogurt and raisin salad, chocolate chip pancakes and purple omelettes.
+[00:00:17.760 --> 00:00:19.040] TROI: Purple omelettes?
+[00:00:20.320 --> 00:00:21.520] CLARA: You put grape juice in the eggs.
+[00:00:22.000 --> 00:00:23.520] CLARA: Isabella doesn't like it very much.
+[00:00:23.920 --> 00:00:25.040] CLARA: She says it tastes funny.
+[00:00:25.360 --> 00:00:26.320] TROI: I can see her point.
+[00:00:27.680 --> 00:00:28.880] TROI: Sugar with your tea?
+[00:00:29.600 --> 00:00:30.160] CLARA: Yes, please.
+[00:00:32.240 --> 00:00:33.440] TROI: Isabella would you like some too?
+[00:00:36.720 --> 00:00:38.480] CLARA: Yes, but she takes two cubes.
+[00:00:42.720 --> 00:00:44.800] TROI: I'll bet Isabella is very pretty.
+[00:00:45.680 --> 00:00:46.960] CLARA: She's very, very pretty.
+[00:00:47.280 --> 00:00:50.080] CLARA: She has blonde hair and a blue dress with white buttons.
+[00:00:50.560 --> 00:00:52.640] CLARA: Her ears are pierced and she's tall.
+[00:00:55.040 --> 00:00:56.320] TROI: Maybe you could draw me a picture.
+[00:00:56.720 --> 00:00:58.080] TROI: I'd love to see what she looks like.
+[00:00:58.080 --> 00:01:00.640] CLARA: You don't think she's real.
+[00:01:00.640 --> 00:01:04.400] TROI: I think she's real for you, and that is real enough for me.
+[00:01:06.400 --> 00:01:08.960] SUTTER: Honey, I think it's time for you to go.
+[00:01:08.960 --> 00:01:10.400] SUTTER: You don't want to keep Keiko waiting.
+[00:01:11.840 --> 00:01:13.280] CLARA: I have to go plant the nasturtiums now.
+[00:01:13.920 --> 00:01:15.440] CLARA: I'm Keiko's helper in the arboretum today.
+[00:01:15.840 --> 00:01:16.800] TROI: Is that so?
+[00:01:17.120 --> 00:01:19.200] SUTTER: You go ahead, sweetie, and be home for dinner.
+[00:01:21.760 --> 00:01:22.880] TROI: I hope I see you soon.
+[00:01:24.080 --> 00:01:25.120] TROI: Maybe we can be friends.
+[00:01:25.600 --> 00:01:25.920] CLARA: Okay.
+[00:01:30.560 --> 00:01:31.200] CLARA: Counsellor Troi?
+[00:01:31.680 --> 00:01:32.160] TROI: Yes?
+[00:01:32.720 --> 00:01:33.920] CLARA: Isabella says she likes you.
+[00:01:35.346 --> 00:01:35.586] TROI: Why,
+[00:01:35.666 --> 00:01:36.546] TROI: thank you, Isabella.
+[00:01:38.306 --> 00:01:38.386] TROI: I
+[00:01:44.386 --> 00:01:48.306] TROI: can understand your concern, Ensign Sutter, but really you have nothing to worry about.
+[00:01:49.106 --> 00:01:52.866] TROI: It's a normal, healthy activity for children to engage in imaginary play.
+[00:01:53.346 --> 00:01:56.306] SUTTER: I'm just afraid she's not making any real friends.
+[00:01:56.706 --> 00:01:58.466] SUTTER: She spends all of her time with Isabella.
+[00:01:59.986 --> 00:02:03.586] TROI: You've been moving from starship to starship since Clara was two years old.
+[00:02:04.546 --> 00:02:07.026] TROI: Maybe Isabella provides a constant companion.
+[00:02:07.666 --> 00:02:10.466] TROI: She knows this is one friend she won't have to leave behind.
+[00:02:11.506 --> 00:02:12.066] SUTTER: You're probably right.
+[00:02:13.586 --> 00:02:14.546] TROI: Give Clara a chance.
+[00:02:15.026 --> 00:02:20.866] TROI: As she learns to make friends on the Enterprise, you'll probably find that she'll leave her imaginary world behind.
+[00:02:24.466 --> 00:02:27.426] LOG: Captain's log, stardate 45852.1.
+[00:02:27.986 --> 00:02:33.506] LOG: The Enterprise has arrived at FGC four seven, a nebula which has formed around a neutron star.
+[00:02:34.066 --> 00:02:37.026] LOG: We are eager to investigate this unique formation.
+[00:02:37.986 --> 00:02:41.746] LAFORGE: We've got elevated quantities of hydrogen, helium and trionium, but nothing the shields can't handle.
+[00:02:42.066 --> 00:02:42.466] RIKER: Shields up.
+[00:02:42.946 --> 00:02:43.666] PICARD: Take us in, Ensign.
+[00:02:43.986 --> 00:02:44.866] PICARD: One quarter impulse.
+[00:02:45.186 --> 00:02:45.506] FELTON: Aye, sir.
+[00:02:45.506 --> 00:02:46.306] DATA: In
+[00:02:56.706 --> 00:03:01.506] DATA: order for the lateral sensors to complete their scheduled observations, additional processing time will be required.
+[00:03:01.746 --> 00:03:05.826] LAFORGE: We could steal a couple of hours from the Engineering team while they're recalibrating the thermal interferometery scanner.
+[00:03:06.182 --> 00:03:09.542] DATA: Will two hours be enough time to complete the high-resolution series on the neutron star?
+[00:03:09.622 --> 00:03:10.182] LAFORGE: No problem.
+[00:03:10.182 --> 00:03:13.622] LAFORGE: We'll just double up the main sensor bandwidth while they're freeing up the lateral unit.
+[00:03:18.582 --> 00:03:19.542] CRUSHER: And then after dinner, then what?
+[00:03:20.662 --> 00:03:24.342] OGAWA: We went to the holodeck and took a walk on the Champs Elysees.
+[00:03:26.342 --> 00:03:27.862] CRUSHER: The neural scanner still seems to be a bit off.
+[00:03:27.862 --> 00:03:29.462] CRUSHER: Let's check the sensor calibrations.
+[00:03:29.702 --> 00:03:30.662] OGAWA: I'll run a diagnostic.
+[00:03:39.942 --> 00:03:40.462] CRUSHER: And?
+[00:03:40.462 --> 00:03:40.982] OGAWA: And?
+[00:03:40.982 --> 00:03:42.022] CRUSHER: After Paris?
+[00:03:42.022 --> 00:03:45.142] OGAWA: He has shore leave next month.
+[00:03:46.022 --> 00:03:47.302] OGAWA: He asked me to go to Risa with him.
+[00:03:47.622 --> 00:03:48.182] CRUSHER: No problem.
+[00:03:48.182 --> 00:03:49.462] CRUSHER: Nurse McClukidge can cover for you.
+[00:03:50.102 --> 00:03:51.302] OGAWA: I don't think I'm going, Doctor.
+[00:03:51.462 --> 00:03:53.382] OGAWA: I hear it's a very uninhibited atmosphere.
+[00:03:53.622 --> 00:03:55.702] OGAWA: Personally, I don't think I'm ready for that kind of fun.
+[00:03:58.182 --> 00:03:59.782] CRUSHER: Try to talk him into Tavena Minor.
+[00:04:00.262 --> 00:04:03.382] CRUSHER: They have a cruise down the Jokri River. The iridescent currents
+[00:04:03.622 --> 00:04:04.182] CRUSHER: are beautiful.
+[00:04:07.382 --> 00:04:09.382] CLARA: See, Isabella? You have to
+[00:04:28.822 --> 00:04:30.262] CLARA: push your finger into the soil
+[00:04:30.662 --> 00:04:32.022] CLARA: as far as it can go.
+[00:04:33.222 --> 00:04:34.662] CLARA: I'm making a hole for the seeds.
+[00:04:38.262 --> 00:04:39.302] CLARA: Now they need to be watered.
+[00:04:41.382 --> 00:04:44.982] CLARA: But the baby seeds are very small, so we mustn't give them too much to drink.
+[00:04:54.438 --> 00:04:56.438] CLARA: Hello?
+[00:05:05.894 --> 00:05:07.894] CLARA: Is
+[00:05:13.622 --> 00:05:14.182] CLARA: anybody there?
+[00:05:15.462 --> 00:05:17.462] ISABELLA: Hello.
+[00:05:22.742 --> 00:05:22.742] CLARA: Isabella?
+[00:05:29.000 --> 00:05:37.000] [music]
+[00:05:43.000 --> 00:06:00.000] [music]
+[00:05:45.462 --> 00:05:47.462] ISABELLA: Hello,
+[00:05:51.302 --> 00:05:51.302] ISABELLA: Clara.
+[00:05:54.022 --> 00:05:56.822] PICARD: Space, the final frontier.
+[00:05:58.670 --> 00:06:01.550] PICARD: These are the voyages of the starship Enterprise.
+[00:06:02.670 --> 00:06:10.670] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:06:12.270 --> 00:06:15.150] PICARD: to boldly go where no one has gone before.
+[00:06:17.000 --> 00:06:30.000] [music]
+[00:06:31.000 --> 00:06:57.000] [music]
+[00:07:04.000 --> 00:07:13.000] [music]
+[00:07:12.670 --> 00:07:15.070] CLARA: Isabella, how come I can see you?
+[00:07:15.870 --> 00:07:17.310] ISABELLA: Is something wrong with the way I look?
+[00:07:18.190 --> 00:07:20.590] CLARA: No. I've just never seen you before.
+[00:07:21.790 --> 00:07:22.430] CLARA: Not for real.
+[00:07:23.177 --> 00:07:25.257] ISABELLA: Well, now you can see me for real.
+[00:07:26.057 --> 00:07:27.257] ISABELLA: Doesn't that make you happy?
+[00:07:28.217 --> 00:07:29.657] CLARA: Yes, it's wonderful.
+[00:07:30.937 --> 00:07:31.577] ISABELLA: Can we go now?
+[00:07:31.727 --> 00:07:32.327] CLARA: We'd
+[00:07:33.177 --> 00:07:34.937] CLARA: better finish planting the seeds first.
+[00:07:35.257 --> 00:07:36.217] ISABELLA: I'm tired of planting.
+[00:07:36.857 --> 00:07:37.977] ISABELLA: Let's do something else.
+[00:07:38.937 --> 00:07:39.417] CLARA: Like what?
+[00:07:39.897 --> 00:07:43.417] ISABELLA: Like, I would really like to explore the ship.
+[00:07:44.617 --> 00:07:46.217] CLARA: We'd better finish planting first.
+[00:07:46.777 --> 00:07:47.577] CLARA: I promised Keiko.
+[00:07:48.217 --> 00:07:49.097] ISABELLA: We can finish later.
+[00:07:49.497 --> 00:07:50.377] ISABELLA: Let's go look around.
+[00:07:51.417 --> 00:07:52.377] CLARA: I'd better ask my daddy.
+[00:07:52.937 --> 00:07:53.977] ISABELLA: Your daddy won't mind.
+[00:07:54.377 --> 00:07:55.177] ISABELLA: We can tell him later.
+[00:07:55.817 --> 00:07:56.137] ISABELLA: Come on.
+[00:08:02.057 --> 00:08:03.657] LAFORGE: So what are we going to name this nebula?
+[00:08:03.977 --> 00:08:06.137] LAFORGE: FGC forty seven just doesn't have the proper ring to it.
+[00:08:06.377 --> 00:08:08.377] SUTTER: Why don't we call it Sutter's Cloud?
+[00:08:08.617 --> 00:08:12.937] DATA: The rotational period of the neutron star is one point three five seconds.
+[00:08:13.017 --> 00:08:14.377] LAFORGE: That's a bit on the long side. Sutter, let's
+[00:08:14.377 --> 00:08:16.297] LAFORGE: see if you can get a reading on the particle flux.
+[00:08:16.377 --> 00:08:16.697] SUTTER: Aye, sir.
+[00:08:18.057 --> 00:08:22.457] LAFORGE: I was thinking about something more along the lines of the La Forge Nebula.
+[00:08:22.457 --> 00:08:23.817] LAFORGE: It's got sort of a majestic sound,
+[00:08:23.817 --> 00:08:24.377] LAFORGE: don't you think?
+[00:08:25.177 --> 00:08:27.177] DATA: Given the selections, I prefer FGC four seven.
+[00:08:28.377 --> 00:08:29.257] SUTTER: What
+[00:08:31.817 --> 00:08:32.297] SUTTER: was that?
+[00:08:32.937 --> 00:08:33.817] LAFORGE: It felt like we hit something.
+[00:08:34.697 --> 00:08:36.057] DATA: Shields have registered an impact,
+[00:08:36.057 --> 00:08:38.617] DATA: however sensors show nothing in the vicinity.
+[00:08:39.577 --> 00:08:42.617] WORF: Forward velocity is down by point two percent, and dropping.
+[00:08:43.897 --> 00:08:44.697] PICARD: Engineering. Report.
+[00:08:45.657 --> 00:08:47.417] LAFORGE: Could be something wrong with the shields, Captain.
+[00:08:47.657 --> 00:08:48.617] LAFORGE: We're checking it out now.
+[00:08:50.120 --> 00:08:50.920] SUTTER: Systems are normal, sir.
+[00:08:51.400 --> 00:08:52.840] LAFORGE: So did we hit something or not?
+[00:08:53.800 --> 00:08:55.000] LAFORGE: Shields say yes,
+[00:08:55.480 --> 00:08:56.600] LAFORGE: sensors say no.
+[00:08:58.920 --> 00:09:00.040] LAFORGE: This is very strange.
+[00:09:02.200 --> 00:09:05.880] LAFORGE: Ensign, give me a breakdown on shield energy conversion and then run a spectral.
+[00:09:05.880 --> 00:09:06.200] LAFORGE: Whoa.
+[00:09:07.240 --> 00:09:07.880] LAFORGE: Where did you come from?
+[00:09:08.520 --> 00:09:09.160] CLARA: I'm Clara Sutter.
+[00:09:09.960 --> 00:09:10.600] CLARA: That's my daddy.
+[00:09:14.600 --> 00:09:16.280] SUTTER: Clara, you can't be here right now.
+[00:09:16.920 --> 00:09:18.760] CLARA: But Isabella wanted to see Engineering.
+[00:09:18.840 --> 00:09:20.840] SUTTER: I don't care what Isabella wanted to see,
+[00:09:20.840 --> 00:09:22.200] SUTTER: you go back to our quarters right now.
+[00:09:22.760 --> 00:09:22.920] CLARA: But Daddy
+[00:09:22.920 --> 00:09:23.080] PICARD: Bridge to
+[00:09:23.320 --> 00:09:25.560] PICARD: La Forge. Our speed is still dropping.
+[00:09:25.800 --> 00:09:26.600] LAFORGE: I hear you, Captain.
+[00:09:26.760 --> 00:09:31.080] LAFORGE: I'm increasing the power to the impulse engines, but forward velocity just isn't consistent with engine output.
+[00:09:31.400 --> 00:09:31.960] PICARD: Explanation.
+[00:09:32.440 --> 00:09:35.400] LAFORGE: It seems like there's something increasing the drag coefficient on the ship.
+[00:09:35.400 --> 00:09:36.600] LAFORGE: But we can't find the source.
+[00:09:36.760 --> 00:09:39.480] PICARD: If we can't correct it we may have to reverse course and leave the nebula.
+[00:09:39.880 --> 00:09:41.080] LAFORGE: Give me a couple of minutes here, Captain.
+[00:09:42.920 --> 00:09:44.040] SUTTER: Clara, now.
+[00:09:46.760 --> 00:09:47.080] SUTTER: I'm sorry,
+[00:09:48.680 --> 00:09:50.680] SUTTER: Commander.
+[00:09:53.480 --> 00:09:54.840] CLARA: Why do you keep disappearing like that?
+[00:09:55.800 --> 00:09:58.760] ISABELLA: The grown-ups don't believe I'm real. When they're around,
+[00:09:59.560 --> 00:10:00.520] ISABELLA: I have to be invisible.
+[00:10:04.200 --> 00:10:04.520] ISABELLA: Wait here.
+[00:10:10.760 --> 00:10:12.680] DATA: The drag coefficient continues to increase.
+[00:10:13.400 --> 00:10:15.240] DATA: Our velocity has fallen by twelve percent.
+[00:10:17.975 --> 00:10:18.935] DATA: Velocity is increasing.
+[00:10:23.255 --> 00:10:25.415] DATA: Ship's speed has stabilised at one quarter impulse.
+[00:10:25.975 --> 00:10:26.455] LAFORGE: That's great, Data.
+[00:10:26.455 --> 00:10:26.935] LAFORGE: What'd you do?
+[00:10:27.735 --> 00:10:28.295] DATA: I did nothing.
+[00:10:29.015 --> 00:10:31.015] DATA: The problem seems to have corrected itself.
+[00:10:35.735 --> 00:10:36.375] CLARA: Where did you go?
+[00:10:37.015 --> 00:10:37.495] ISABELLA: There was something
+[00:10:42.775 --> 00:10:46.855] ISABELLA: I had to do.
+[00:10:47.575 --> 00:10:48.855] LAFORGE: I don't have an explanation, Captain.
+[00:10:49.095 --> 00:10:51.095] LAFORGE: We seemed to hit something, then we started losing speed.
+[00:10:51.335 --> 00:10:53.015] LAFORGE: So far as we can tell, there's nothing out there to hit.
+[00:10:53.815 --> 00:10:56.215] RIKER: Could some kind of damping field have caused us to lose velocity?
+[00:10:56.615 --> 00:11:00.855] DATA: We have simulated several such fields, but were unable to reproduce the same drag coefficient.
+[00:11:01.095 --> 00:11:03.335] LAFORGE: And we still don't know why the problem suddenly corrected itself.
+[00:11:03.735 --> 00:11:05.735] PICARD: It seems we're looking a unique phenomenon.
+[00:11:06.455 --> 00:11:07.815] PICARD: One that hasn't been recorded before.
+[00:11:08.295 --> 00:11:10.455] LAFORGE: The question is, do we stay here and check it out?
+[00:11:11.335 --> 00:11:12.164] RIKER: Might be dangerous.
+[00:11:12.164 --> 00:11:14.375] DATA: Since we have only experienced the phenomenon once,
+[00:11:14.375 --> 00:11:16.055] DATA: it is impossible to estimate the risks.
+[00:11:16.535 --> 00:11:17.975] LAFORGE: Captain, I'd like to stay here for a little bit,
+[00:11:19.095 --> 00:11:20.855] LAFORGE: collect some samples of the gaseous matter,
+[00:11:21.255 --> 00:11:21.975] LAFORGE: see what it tells us.
+[00:11:23.255 --> 00:11:23.735] PICARD: Agreed.
+[00:11:23.735 --> 00:11:25.095] PICARD: Collect your samples, Mister La Forge.
+[00:11:25.975 --> 00:11:27.575] PICARD: We'll proceed with caution.
+[00:11:27.895 --> 00:11:28.295] PICARD: Dismissed.
+[00:11:34.935 --> 00:11:35.495] ISABELLA: What's in here?
+[00:11:36.775 --> 00:11:38.055] CLARA: That's the door to the cargo bay.
+[00:11:38.615 --> 00:11:39.415] CLARA: We can't go in there.
+[00:11:44.135 --> 00:11:45.895] ISABELLA: Let's go someplace with a lot of people.
+[00:11:46.535 --> 00:11:48.295] CLARA: Okay. Isabella,
+[00:11:48.987 --> 00:11:50.347] CLARA: why are you so serious lately?
+[00:11:52.907 --> 00:11:53.547] ISABELLA: What do you mean?
+[00:11:54.427 --> 00:11:56.027] CLARA: You haven't even smiled once today.
+[00:12:04.107 --> 00:12:05.307] CLARA: You're my best friend, Isabella.
+[00:12:05.787 --> 00:12:05.787] ISABELLA: Why?
+[00:12:07.067 --> 00:12:10.907] CLARA: I don't know. Because we do things together and we trade secrets.
+[00:12:11.707 --> 00:12:13.227] ISABELLA: Does everybody have a best friend?
+[00:12:13.867 --> 00:12:14.587] CLARA: If they're lucky.
+[00:12:14.987 --> 00:12:16.747] CLARA: Before I had you, I didn't have one.
+[00:12:17.467 --> 00:12:19.867] ISABELLA: Why not?
+[00:12:19.867 --> 00:12:23.147] CLARA: Every time I made friends with someone, my daddy's job would change
+[00:12:23.627 --> 00:12:24.507] CLARA: and we'd move to a new ship.
+[00:12:25.947 --> 00:12:27.547] CLARA: It takes time to make a best friend.
+[00:12:28.027 --> 00:12:28.507] ISABELLA: How long?
+[00:12:29.947 --> 00:12:30.507] CLARA: It depends.
+[00:12:31.227 --> 00:12:33.547] CLARA: With you, not very long.
+[00:12:34.507 --> 00:12:35.707] CLARA: You always listened to me,
+[00:12:36.587 --> 00:12:38.587] CLARA: even when I was sad.
+[00:12:38.587 --> 00:12:38.987] ISABELLA: Clara,
+[00:12:39.867 --> 00:12:41.227] ISABELLA: I'm glad we're best friends.
+[00:12:42.107 --> 00:12:42.587] CLARA: Race you.
+[00:12:43.227 --> 00:12:43.627] ISABELLA: Okay.
+[00:12:43.627 --> 00:12:43.707] CLARA: Ready,
+[00:12:45.467 --> 00:12:45.787] CLARA: set,
+[00:12:46.027 --> 00:12:46.187] CLARA: go!
+[00:12:50.347 --> 00:12:54.347] WORF: This area is not designated for children.
+[00:12:55.067 --> 00:12:55.627] WORF: Are you lost?
+[00:12:57.227 --> 00:12:58.427] WORF: Where are you supposed to be?
+[00:12:59.307 --> 00:13:00.267] CLARA: We were only playing.
+[00:13:00.987 --> 00:13:01.627] CLARA: We're sorry.
+[00:13:03.387 --> 00:13:04.427] WORF: Return to your quarters,
+[00:13:06.827 --> 00:13:08.987] WORF: and we will forget this incident.
+[00:13:09.547 --> 00:13:10.187] CLARA: Thank you.
+[00:13:10.187 --> 00:13:12.827] CLARA: Come on.
+[00:13:29.968 --> 00:13:34.528] LAFORGE: Okay, I've configured the magnetic coil to collect samples of gaseous matter from the nebula.
+[00:13:34.848 --> 00:13:36.048] LAFORGE: Go ahead and activate the beam emitter.
+[00:13:36.048 --> 00:13:38.048] SUTTER: I'm setting the fractionater to a continuous cycle.
+[00:13:38.688 --> 00:13:40.928] LAFORGE: We'll take samples from eight random sections.
+[00:13:41.008 --> 00:13:42.448] LAFORGE: That ought to give us a reliable
+[00:13:44.288 --> 00:13:46.288] LAFORGE: measure.
+[00:13:46.288 --> 00:13:50.688] SUTTER: Commander, I understand that you had a parent who was in Starfleet.
+[00:13:51.328 --> 00:13:52.448] LAFORGE: Two of them, as a matter of fact.
+[00:13:53.088 --> 00:13:55.088] LAFORGE: My father was an exozoologist,
+[00:13:55.168 --> 00:13:56.368] LAFORGE: my mother a Command officer.
+[00:13:57.408 --> 00:13:59.248] SUTTER: They must have been posted to a lot of different assignments.
+[00:13:59.648 --> 00:14:02.528] LAFORGE: That's putting it mildly.
+[00:14:03.088 --> 00:14:04.288] LAFORGE: They were always on the move.
+[00:14:04.848 --> 00:14:07.488] LAFORGE: Some of the time together, sometimes separately.
+[00:14:08.368 --> 00:14:15.488] LAFORGE: I never knew whether or not I was going to be stationed with my father while he studied invertebrates in the Modean system or on some outpost near the Neutral Zone with my mom.
+[00:14:15.808 --> 00:14:16.608] SUTTER: Was that hard on you?
+[00:14:17.008 --> 00:14:18.048] LAFORGE: I don't remember it that way.
+[00:14:18.528 --> 00:14:21.648] SUTTER: It must have been disruptive if you didn't stay in one place long enough to make friends.
+[00:14:22.608 --> 00:14:23.008] LAFORGE: Well, I
+[00:14:24.528 --> 00:14:29.888] LAFORGE: suppose there were aspects of my childhood that were less than ideal, but to me it was just one long adventure.
+[00:14:30.768 --> 00:14:32.448] LAFORGE: Children are a lot stronger than you think.
+[00:14:32.928 --> 00:14:36.448] LAFORGE: As long as they know you love them, they can handle just about anything life throws at them,
+[00:14:36.688 --> 00:14:36.928] LAFORGE: you know.
+[00:14:38.688 --> 00:14:38.688] SUTTER: Thanks,
+[00:14:43.168 --> 00:14:43.168] SUTTER: Commander.
+[00:14:46.208 --> 00:14:47.728] GUINAN: It's a Samarian coral
+[00:14:47.914 --> 00:14:49.434] GUINAN: fish with its fin unfolded.
+[00:14:50.634 --> 00:14:56.874] DATA: I believe what you are seeing is the effect of the fluid dynamic processes inherent in the large scale motion of highly rarified gas.
+[00:14:57.274 --> 00:14:57.914] GUINAN: No, no.
+[00:14:59.034 --> 00:15:02.874] GUINAN: First it was a fish, and now it's a Mintonian sailing ship.
+[00:15:03.834 --> 00:15:04.074] DATA: Where?
+[00:15:04.474 --> 00:15:05.034] GUINAN: Right there.
+[00:15:05.594 --> 00:15:08.314] GUINAN: Don't you see the two swirls coming together to form the mast?
+[00:15:09.354 --> 00:15:10.074] DATA: I do not see it.
+[00:15:12.074 --> 00:15:16.714] DATA: It is interesting that people try to find meaningful patterns in things that are essentially random.
+[00:15:17.354 --> 00:15:22.314] DATA: I have noticed that the images they perceive sometimes suggest what they are thinking about at that particular moment.
+[00:15:24.234 --> 00:15:26.634] DATA: Besides, it is clearly a bunny rabbit.
+[00:15:33.194 --> 00:15:34.794] GUINAN: Looks as though someone's lost their way.
+[00:15:35.674 --> 00:15:36.234] GUINAN: Excuse me.
+[00:15:42.074 --> 00:15:42.394] GUINAN: Hello.
+[00:15:42.394 --> 00:15:44.234] GUINAN: Are you looking for someone?
+[00:15:45.034 --> 00:15:45.274] CLARA: No.
+[00:15:45.834 --> 00:15:47.594] CLARA: I brought Isabella to see Ten Forward.
+[00:15:48.394 --> 00:15:49.354] GUINAN: Oh, I see.
+[00:15:50.074 --> 00:15:55.514] GUINAN: Well, ordinarily we would only let you in with a grown-up, but since you've brought Isabella, you can be my guest.
+[00:15:56.154 --> 00:15:56.794] GUINAN: Won't you join me?
+[00:15:57.594 --> 00:15:57.994] CLARA: Thank you.
+[00:16:04.474 --> 00:16:09.034] GUINAN: Now, how about two Papalla juices with extra bubbles.
+[00:16:11.274 --> 00:16:12.074] CLARA: Just one, please.
+[00:16:12.714 --> 00:16:13.674] CLARA: Isabella isn't thirsty.
+[00:16:16.954 --> 00:16:19.114] GUINAN: One juice.
+[00:16:19.264 --> 00:16:20.664] CLARA: You're not like
+[00:16:21.036 --> 00:16:21.996] CLARA: the other grown-ups.
+[00:16:22.236 --> 00:16:22.556] GUINAN: Oh, no?
+[00:16:23.916 --> 00:16:25.116] CLARA: They don't think Isabella's real.
+[00:16:25.996 --> 00:16:28.876] GUINAN: Well, most grown-ups have a hard time with things they can't see.
+[00:16:29.756 --> 00:16:29.996] CLARA: Why?
+[00:16:31.276 --> 00:16:33.996] GUINAN: Well, because they get preoccupied by other things.
+[00:16:35.996 --> 00:16:36.396] CLARA: Like what?
+[00:16:38.716 --> 00:16:49.996] GUINAN: Like how much fuel it takes to power a ship, or whether we should go to one star system or another, or whether little girls should go to bed at seven or be allowed to stay up till eight.
+[00:16:50.876 --> 00:16:57.276] GUINAN: So their heads can get so full that they forget about the things that are important to you and me, like imaginary friends.
+[00:16:57.996 --> 00:17:01.036] CLARA: If the other grown-ups don't understand, how come you
+[00:17:02.876 --> 00:17:03.036] CLARA: do?
+[00:17:03.036 --> 00:17:06.476] GUINAN: Maybe because when I was your age, I had one.
+[00:17:07.356 --> 00:17:08.076] CLARA: You did?
+[00:17:08.076 --> 00:17:08.236] CLARA: What
+[00:17:08.876 --> 00:17:09.676] CLARA: was she like?
+[00:17:10.316 --> 00:17:12.156] GUINAN: It wasn't a she.
+[00:17:13.036 --> 00:17:13.836] CLARA: What was he like?
+[00:17:14.796 --> 00:17:15.596] GUINAN: It wasn't a he.
+[00:17:17.116 --> 00:17:17.116] CLARA: It?
+[00:17:18.396 --> 00:17:20.476] GUINAN: It was a Tarkassian razor beast.
+[00:17:21.196 --> 00:17:30.236] GUINAN: It had dark brown fur and gold eyes and huge spiny wings, and it would fly so fast nobody could see it except me.
+[00:17:31.516 --> 00:17:32.556] CLARA: Sounds scary.
+[00:17:32.716 --> 00:17:35.116] GUINAN: Oh, it was, especially when he smiled.
+[00:17:35.266 --> 00:17:35.866] GUINAN: But
+[00:17:36.956 --> 00:17:47.196] GUINAN: the best thing about him was I could curl up on his furry belly, and he had the softest purr you ever heard. It put me right to sleep every night.
+[00:17:48.908 --> 00:17:51.148] GUINAN: I tell you, that razorbeast was a good friend.
+[00:17:54.508 --> 00:17:55.388] CLARA: So is Isabella.
+[00:17:59.868 --> 00:18:00.508] TROI: Hello, Clara.
+[00:18:01.068 --> 00:18:01.308] CLARA: Hello.
+[00:18:02.028 --> 00:18:04.588] GUINAN: Clara and Isabella and I were just having a conversation.
+[00:18:05.708 --> 00:18:07.468] TROI: Would you and Isabella like to come for a walk with me?
+[00:18:08.908 --> 00:18:09.308] CLARA: I guess so.
+[00:18:10.508 --> 00:18:10.748] CLARA: Bye.
+[00:18:11.308 --> 00:18:11.948] GUINAN: Bye, Clara.
+[00:18:14.988 --> 00:18:15.788] GUINAN: Bye, Isabella.
+[00:18:21.948 --> 00:18:28.588] TROI: Clara, you haven't been on this she very long, so maybe you don't know, but Ten Forward is usually for grown-ups.
+[00:18:29.068 --> 00:18:29.468] CLARA: I know that.
+[00:18:30.188 --> 00:18:32.908] CLARA: I didn't want to go, but Isabella wanted to see it.
+[00:18:34.108 --> 00:18:38.908] TROI: If Isabella is making you do things you know are wrong, then you must tell her it's not acceptable.
+[00:18:39.388 --> 00:18:41.628] CLARA: I try to but she doesn't listen.
+[00:18:45.468 --> 00:18:46.108] TROI: Deck thirty two.
+[00:18:48.428 --> 00:18:50.028] TROI: Clara, do you want me to talk to Isabella?
+[00:18:54.828 --> 00:19:00.428] TROI: Isabella, it's not very nice to get Clara to do things that she isn't supposed to.
+[00:19:01.788 --> 00:19:02.428] CLARA: She's over there.
+[00:19:06.348 --> 00:19:10.588] TROI: From now on I want you to ask a grown-up before you go to any place that is off-limits.
+[00:19:16.348 --> 00:19:18.668] TROI: What does she say?
+[00:19:20.828 --> 00:19:21.228] CLARA: She said.
+[00:19:23.676 --> 00:19:25.116] TROI: Clara, please tell me what Isabella said.
+[00:19:27.596 --> 00:19:30.796] CLARA: She said, you'd better leave us alone.
+[00:19:36.716 --> 00:19:38.876] TROI: I'm a little concerned at the turn this is taking.
+[00:19:39.436 --> 00:19:43.356] TROI: It seems Clara is beginning to do inappropriate things and blaming them on Isabella.
+[00:19:43.836 --> 00:19:45.116] SUTTER: She came into Engineering today.
+[00:19:45.116 --> 00:19:46.476] SUTTER: She said it was Isabella's idea.
+[00:19:46.476 --> 00:19:52.716] TROI: I don't think it's too serious yet, but we should make more of an effort to get her involved with real friends her own age.
+[00:19:54.156 --> 00:19:56.636] TROI: The children's centre's having a ceramics class this afternoon.
+[00:19:56.636 --> 00:19:57.516] TROI: Why don't I take Clara?
+[00:19:57.516 --> 00:19:58.956] SUTTER: I think she'd like that.
+[00:19:59.676 --> 00:20:01.276] TROI: I'll see if there's any room left in the class.
+[00:20:02.236 --> 00:20:05.676] TROI: In the meantime, I think you should make yourself more available to Clara.
+[00:20:06.636 --> 00:20:10.236] TROI: Let her know she doesn't have to rely on Isabella when she needs someone to talk to.
+[00:20:11.276 --> 00:20:11.996] SUTTER: Counsellor, thank you.
+[00:20:24.556 --> 00:20:25.516] ISABELLA: Are you mad at me?
+[00:20:27.916 --> 00:20:29.436] ISABELLA: I'm sorry I got you in trouble.
+[00:20:30.636 --> 00:20:31.036] CLARA: That's okay.
+[00:20:32.156 --> 00:20:34.316] ISABELLA: Are we still best friends?
+[00:20:36.396 --> 00:20:39.036] CLARA: Here, you can help me put this together if you want.
+[00:20:40.796 --> 00:20:43.196] ISABELLA: Clara, why are grown-ups so mean?
+[00:20:43.996 --> 00:20:44.796] CLARA: They're not mean.
+[00:20:45.516 --> 00:20:46.796] CLARA: They're just more serious than we are.
+[00:20:47.596 --> 00:20:49.756] ISABELLA: Sometimes I wish they would just go away.
+[00:20:50.636 --> 00:20:51.036] CLARA: You do?
+[00:20:51.516 --> 00:20:52.876] ISABELLA: Yes, I don't like them.
+[00:20:56.651 --> 00:20:57.131] ISABELLA: I'm bored.
+[00:20:57.851 --> 00:20:59.211] ISABELLA: Let's go back to Engineering.
+[00:21:00.571 --> 00:21:01.451] CLARA: We're not allowed to go
+[00:21:03.291 --> 00:21:03.691] CLARA: there.
+[00:21:03.691 --> 00:21:06.171] ISABELLA: I thought we were best friends.
+[00:21:06.891 --> 00:21:07.611] CLARA: We are.
+[00:21:07.691 --> 00:21:09.291] ISABELLA: Then why won't you play with me?
+[00:21:09.611 --> 00:21:10.651] CLARA: I told you.
+[00:21:10.651 --> 00:21:12.731] ISABELLA: You always listen to the grown-ups.
+[00:21:13.211 --> 00:21:14.731] ISABELLA: You don't care about me.
+[00:21:15.131 --> 00:21:16.011] CLARA: That's not true.
+[00:21:16.651 --> 00:21:17.771] ISABELLA: I thought we'd have fun together,
+[00:21:18.571 --> 00:21:21.451] ISABELLA: once you could really see me. I thought you'd like me.
+[00:21:23.531 --> 00:21:25.451] ISABELLA: Let's go to Engineering, Clara.
+[00:21:26.091 --> 00:21:27.211] ISABELLA: Just for a little while.
+[00:21:28.171 --> 00:21:29.131] ISABELLA: No one will know.
+[00:21:29.771 --> 00:21:30.971] ISABELLA: It'll be our secret.
+[00:21:31.771 --> 00:21:34.811] ISABELLA: And if they find us, we'll tell them we got lost.
+[00:21:36.331 --> 00:21:36.651] CLARA: Who is it?
+[00:21:37.291 --> 00:21:38.011] TROI: Counsellor Troi.
+[00:21:44.651 --> 00:21:45.131] TROI: Hello, Clara.
+[00:21:46.971 --> 00:21:47.051] CLARA: Hi.
+[00:21:47.051 --> 00:21:49.611] TROI: I came to ask if you'd like to go to a ceramics class.
+[00:21:50.171 --> 00:21:51.211] CLARA: Can Isabella come too?
+[00:21:52.571 --> 00:21:52.891] TROI: No.
+[00:21:53.691 --> 00:21:55.371] TROI: Let's do something with Isabella another day.
+[00:22:00.811 --> 00:22:01.131] CLARA: Well,
+[00:22:02.091 --> 00:22:02.411] CLARA: okay.
+[00:22:26.967 --> 00:22:33.207] DATA: Sir, as we move deeper into the nebula, sensors indicate that the levels of helium and trionium are continuing to rise.
+[00:22:34.007 --> 00:22:35.367] PICARD: Is it something that the shields can't handle?
+[00:22:35.927 --> 00:22:36.247] DATA: No, sir.
+[00:22:36.247 --> 00:22:37.687] DATA: We are well within tolerance levels.
+[00:22:41.367 --> 00:22:42.098] PICARD: Mister Data?
+[00:22:42.098 --> 00:22:43.927] DATA: Shields have registered an impact.
+[00:22:43.927 --> 00:22:46.487] PICARD: But the sensors show nothing out there,
+[00:22:46.487 --> 00:22:46.647] PICARD: right?
+[00:22:47.287 --> 00:22:49.047] DATA: There is no indication of anything near the ship.
+[00:22:50.007 --> 00:22:51.527] WORF: Forward velocity is dropping, Captain.
+[00:22:51.767 --> 00:22:52.967] WORF: Down by point four percent.
+[00:22:53.447 --> 00:22:54.247] PICARD: Can we go to warp speed?
+[00:22:55.367 --> 00:22:58.407] DATA: Until we determine the cause of the drag coefficient, I would not recommend it, sir.
+[00:22:59.607 --> 00:23:01.767] WORF: Forward velocity down by one point one percent.
+[00:23:02.487 --> 00:23:04.167] PICARD: Ensign, increase power to the impulse engines.
+[00:23:04.327 --> 00:23:04.727] FELTON: Aye, sir.
+[00:23:05.927 --> 00:23:07.607] FELTON: Impulse engines now at full power.
+[00:23:08.967 --> 00:23:10.167] WORF: We are no longer losing speed.
+[00:23:10.487 --> 00:23:12.007] WORF: Forward velocity is holding steady.
+[00:23:13.207 --> 00:23:15.767] DATA: The drag coefficient is still present, but it has stabilised.
+[00:23:16.327 --> 00:23:17.207] PICARD: Bridge to Commander Riker.
+[00:23:17.767 --> 00:23:18.807] PICARD: Check with Mister La Forge.
+[00:23:18.807 --> 00:23:20.887] PICARD: See if he found anything in the matter sample from the nebula.
+[00:23:21.447 --> 00:23:21.847] RIKER: On my way, sir.
+[00:23:26.887 --> 00:23:27.287] RIKER: Any luck?
+[00:23:27.527 --> 00:23:27.767] LAFORGE: Yeah,
+[00:23:27.847 --> 00:23:28.567] LAFORGE: take a look at this.
+[00:23:29.287 --> 00:23:32.327] LAFORGE: We tried radiating the subject matter with just about everything we could think of.
+[00:23:32.327 --> 00:23:36.807] LAFORGE: We didn't find anything until we subjected it to a high frequency warp field.
+[00:23:37.447 --> 00:23:38.807] LAFORGE: We think this is what we've been running into.
+[00:23:38.957 --> 00:23:39.557] RIKER: Do
+[00:23:40.327 --> 00:23:40.807] RIKER: you know what it is?
+[00:23:41.527 --> 00:23:41.927] LAFORGE: We think so,
+[00:23:42.087 --> 00:23:47.127] LAFORGE: now that the sensors can read it. It seems to be a highly cohesive form of plasma, like a strand of energy.
+[00:23:47.432 --> 00:23:50.872] SUTTER: We figure it's a segment of just part of a network of much larger strands.
+[00:23:51.432 --> 00:23:56.952] LAFORGE: When these things come in contact with our shields it produces a resonant effect, and that creates the drag coefficient we've been experiencing.
+[00:23:57.272 --> 00:23:58.312] RIKER: Is there anything like this on record?
+[00:23:58.472 --> 00:23:58.792] LAFORGE: No, sir.
+[00:24:00.232 --> 00:24:01.352] RIKER: Do you know how many of them there might be?
+[00:24:02.232 --> 00:24:07.192] LAFORGE: No, but if we run the warp field generators through the deflector grid, we could radiate a field outside the ship.
+[00:24:07.752 --> 00:24:08.632] RIKER: And we'd be able to see for ourselves.
+[00:24:09.112 --> 00:24:09.432] RIKER: Let's do
+[00:24:12.712 --> 00:24:12.792] RIKER: it.
+[00:24:20.312 --> 00:24:22.872] TROI: Alexander, I thought you might like a partner.
+[00:24:23.992 --> 00:24:24.872] TROI: This is Clara Sutter.
+[00:24:25.032 --> 00:24:26.232] TROI: She's new on the Enterprise.
+[00:24:26.712 --> 00:24:28.872] TROI: Clara, meet Alexander Rozhenko.
+[00:24:30.232 --> 00:24:31.752] ALEXANDER: I'm making a cup for my father.
+[00:24:32.392 --> 00:24:32.872] ALEXANDER: Want to help?
+[00:24:34.792 --> 00:24:35.112] TROI: Go ahead.
+[00:24:40.712 --> 00:24:45.032] ALEXANDER: Well, you're supposed to put them in a row, like this.
+[00:24:46.712 --> 00:24:48.392] TROI: Clara, would you like some clay of your own?
+[00:24:50.232 --> 00:24:50.632] TEACHER: Here, honey.
+[00:24:55.032 --> 00:24:56.232] CLARA: I've never made a cup before.
+[00:24:57.112 --> 00:24:58.152] CLARA: How do you make the round part?
+[00:24:58.552 --> 00:24:59.512] ALEXANDER: Well, it's easy.
+[00:24:59.992 --> 00:25:01.832] ALEXANDER: You take a big piece of clay like this,
+[00:25:02.232 --> 00:25:03.592] ALEXANDER: and push your hand into it.
+[00:25:10.072 --> 00:25:12.198] WORF: Warp field generators are standing by.
+[00:25:12.198 --> 00:25:12.552] LAFORGE: Captain,
+[00:25:12.552 --> 00:25:14.312] LAFORGE: we should be able to illuminate any strands
+[00:25:14.290 --> 00:25:15.970] LAFORGE: within two thousand kilometres of the ship.
+[00:25:16.370 --> 00:25:16.770] PICARD: Proceed.
+[00:25:17.330 --> 00:25:18.690] LAFORGE: Initiating field generation.
+[00:25:30.850 --> 00:25:32.850] PICARD: Remarkable.
+[00:25:33.970 --> 00:25:38.210] DATA: It is an irregular lattice composed of approximately forty seven million strands of energy.
+[00:25:39.490 --> 00:25:43.170] LAFORGE: Captain, with this many of them, the resonant effect on our shields could cause a problem.
+[00:25:44.210 --> 00:25:44.690] PICARD: Agreed.
+[00:25:45.810 --> 00:25:46.610] PICARD: Ensign, bring us about.
+[00:25:47.170 --> 00:25:47.970] PICARD: Take us out of the nebula.
+[00:25:47.970 --> 00:25:49.010] DATA: It may be difficult, sir.
+[00:25:49.490 --> 00:25:51.970] DATA: I am detecting a significant number of strands behind us.
+[00:25:52.690 --> 00:25:53.490] PICARD: Do your best, Ensign.
+[00:25:53.570 --> 00:25:57.650] FELTON: Aye, sir.
+[00:26:01.090 --> 00:26:01.730] TROI: Hot chocolate.
+[00:26:13.890 --> 00:26:17.730] TROI: Computer, I need my appointment schedule for next week.
+[00:27:00.501 --> 00:27:02.341] ALEXANDER: Kryonian Tigers aren't so scary.
+[00:27:03.301 --> 00:27:04.341] ALEXANDER: I saw one once.
+[00:27:05.221 --> 00:27:05.781] CLARA: You did?
+[00:27:06.341 --> 00:27:08.341] ALEXANDER: My father took me to the zoo on Brentalia.
+[00:27:09.861 --> 00:27:12.821] ALEXANDER: All the tiger did was lick my hand. And he smelled funny.
+[00:27:17.701 --> 00:27:17.781] CLARA: I think
+[00:27:19.301 --> 00:27:20.021] CLARA: we need more water.
+[00:27:21.141 --> 00:27:21.621] ALEXANDER: I'll get some.
+[00:27:28.181 --> 00:27:28.634] CLARA: Isabella?
+[00:27:28.634 --> 00:27:29.088] ALEXANDER: Clara!
+[00:27:29.088 --> 00:27:29.541] CLARA: I
+[00:27:31.541 --> 00:27:32.181] CLARA: didn't do it.
+[00:27:32.181 --> 00:27:33.861] ALEXANDER: Who did?
+[00:27:34.661 --> 00:27:35.461] CLARA: It was Isabella.
+[00:27:37.461 --> 00:27:38.501] ALEXANDER: I don't see anybody.
+[00:27:39.381 --> 00:27:40.101] CLARA: She's invisible.
+[00:27:41.781 --> 00:27:44.661] ALEXANDER: I spent two weeks on that.
+[00:27:45.621 --> 00:27:46.421] ALEXANDER: That was really mean.
+[00:27:47.541 --> 00:27:48.181] CLARA: I didn't do it.
+[00:27:48.741 --> 00:27:49.541] CLARA: I didn't.
+[00:27:50.901 --> 00:27:54.261] ALEXANDER: Clara, there's no such thing as invisible people.
+[00:27:54.661 --> 00:27:55.381] ALEXANDER: You're lying.
+[00:27:56.981 --> 00:27:57.834] ALEXANDER: Hey!
+[00:27:57.834 --> 00:27:59.541] CLARA: Isabella, stop!
+[00:28:22.375 --> 00:28:22.775] ISABELLA: Clara.
+[00:28:25.095 --> 00:28:25.095] CLARA: Why
+[00:28:27.015 --> 00:28:28.375] CLARA: were you being so mean to me?
+[00:28:29.415 --> 00:28:30.695] CLARA: Why'd you do that to my friend?
+[00:28:31.975 --> 00:28:33.415] ISABELLA: Because you ran away from me.
+[00:28:34.535 --> 00:28:35.655] ISABELLA: You left me alone.
+[00:28:36.615 --> 00:28:38.615] ISABELLA: I had to do everything by myself.
+[00:28:39.495 --> 00:28:40.295] CLARA: You're scaring me.
+[00:28:41.095 --> 00:28:42.615] ISABELLA: I was going to protect you, Clara.
+[00:28:43.655 --> 00:28:44.375] ISABELLA: I liked you.
+[00:28:45.495 --> 00:28:46.375] ISABELLA: But now I don't care.
+[00:28:47.495 --> 00:28:52.375] ISABELLA: Now, when the others come, you can die along with everyone else.
+[00:29:04.935 --> 00:29:05.735] PICARD: Status, Mister Data.
+[00:29:06.775 --> 00:29:09.815] DATA: At our current speed, we will clear the nebula in twelve minutes four seconds.
+[00:29:11.415 --> 00:29:12.535] PICARD: Continue a full sensor sweep.
+[00:29:12.535 --> 00:29:13.895] PICARD: I want all the information we can gather.
+[00:29:19.655 --> 00:29:19.895] WORF: Captain,
+[00:29:20.375 --> 00:29:22.695] WORF: forward velocity is down by point six percent.
+[00:29:26.775 --> 00:29:28.535] WORF: Velocity down by two point four percent.
+[00:29:31.335 --> 00:29:31.882] PICARD: Mister Data?
+[00:29:31.882 --> 00:29:34.615] DATA: We are moving through a dense concentration of energy strands.
+[00:29:39.815 --> 00:29:40.455] RIKER: Can we go to warp?
+[00:29:40.455 --> 00:29:42.215] LAFORGE: The stress on the hull would be too great.
+[00:29:44.804 --> 00:29:47.764] DATA: Captain, density appears to be lower off the starboard bow.
+[00:29:48.564 --> 00:29:50.644] PICARD: Ensign, bring us to bearing oh three oh mark five.
+[00:29:51.284 --> 00:29:51.604] FELTON: Aye, sir.
+[00:29:56.244 --> 00:29:57.204] WORF: Forward velocity holding.
+[00:29:58.804 --> 00:29:59.604] PICARD: Steady as she goes.
+[00:30:10.164 --> 00:30:11.764] GUINAN: Is something wrong with the cake?
+[00:30:12.004 --> 00:30:12.484] TROI: Excuse me?
+[00:30:13.364 --> 00:30:16.804] GUINAN: Well, I see you sitting here with a piece of untouched chocolate cake in front of you.
+[00:30:16.804 --> 00:30:19.444] GUINAN: I assume something's wrong with the cake or something's bothering you.
+[00:30:20.084 --> 00:30:21.124] TROI: I'm sure the cake is fine.
+[00:30:21.604 --> 00:30:22.404] TROI: I've just been thinking.
+[00:30:23.204 --> 00:30:23.924] GUINAN: Let me guess.
+[00:30:24.964 --> 00:30:26.884] GUINAN: About the little girl with the imaginary friend?
+[00:30:28.404 --> 00:30:29.924] TROI: I'm wondering if I'm doing the right thing.
+[00:30:30.804 --> 00:30:31.124] GUINAN: How so?
+[00:30:31.124 --> 00:30:36.164] TROI: Well, I know the best thing to do is to gradually wean her away from her fantasy,
+[00:30:37.364 --> 00:30:40.084] TROI: and she did make some new friends today and had a good time.
+[00:30:41.124 --> 00:30:41.204] GUINAN: But?
+[00:30:41.204 --> 00:30:41.364] TROI: But I
+[00:30:43.284 --> 00:30:50.324] TROI: can't help feeling that I'm taking something from her. Something precious. A part of her childhood she'll never have again.
+[00:30:54.004 --> 00:30:54.884] GUINAN: Well, I'm not sure about that.
+[00:30:55.844 --> 00:30:59.284] GUINAN: I was just telling Clara about my imaginary friend.
+[00:31:01.124 --> 00:31:02.484] TROI: You have an imaginary friend?
+[00:31:03.764 --> 00:31:05.524] GUINAN: A Tarkassian razor beast.
+[00:31:06.324 --> 00:31:07.124] GUINAN: It protected me.
+[00:31:08.084 --> 00:31:11.124] GUINAN: I knew as long as that razorbeast was around, nothing could hurt me.
+[00:31:11.684 --> 00:31:16.084] GUINAN: You know, over the years his body kind of faded away but the idea stayed.
+[00:31:17.366 --> 00:31:19.926] GUINAN: And I just don't seem to talk to him as often as I used to.
+[00:31:20.246 --> 00:31:21.046] TROI: You still talk to it?
+[00:31:21.526 --> 00:31:22.006] GUINAN: Oh, yeah, when
+[00:31:22.966 --> 00:31:23.846] GUINAN: I'm afraid or
+[00:31:23.846 --> 00:31:26.726] GUINAN: I get confused or a little scared.
+[00:31:28.486 --> 00:31:31.446] GUINAN: I just don't think you should have to give up an imaginary friend.
+[00:31:32.166 --> 00:31:33.446] SUTTER: Ensign Sutter to Counsellor Troi.
+[00:31:34.646 --> 00:31:35.286] TROI: Go ahead, Ensign.
+[00:31:35.846 --> 00:31:36.806] SUTTER: Would you come to my quarters?
+[00:31:36.806 --> 00:31:38.246] SUTTER: I'm having a problem with Clara.
+[00:31:38.246 --> 00:31:40.246] TROI: I'm on my way.
+[00:31:47.046 --> 00:31:48.166] SUTTER: She won't even go into her room.
+[00:31:48.326 --> 00:31:50.086] SUTTER: She's terrified that Isabella's going to hurt her.
+[00:31:54.326 --> 00:31:54.886] TROI: Clara,
+[00:31:56.966 --> 00:32:00.806] TROI: your father tells me Isabella has been saying some very bad things to you.
+[00:32:03.206 --> 00:32:03.846] TROI: What did she say?
+[00:32:04.886 --> 00:32:06.646] CLARA: She said they were going to come and kill everyone.
+[00:32:08.086 --> 00:32:09.286] TROI: Who's going to come and kill everyone?
+[00:32:09.846 --> 00:32:11.606] CLARA: The others, like her.
+[00:32:12.806 --> 00:32:13.606] TROI: Did she say why?
+[00:32:18.246 --> 00:32:19.846] TROI: I know you're very frightened.
+[00:32:21.206 --> 00:32:25.126] TROI: Sometimes what we imagine can be just as scary as something real.
+[00:32:26.006 --> 00:32:31.366] TROI: But I promise you, there is no way Isabella can harm you or anyone on this ship.
+[00:32:32.166 --> 00:32:33.926] CLARA: But she's not imaginary anymore.
+[00:32:34.966 --> 00:32:36.006] CLARA: She's real now.
+[00:32:36.646 --> 00:32:37.446] CLARA: I can see her.
+[00:32:38.566 --> 00:32:39.126] TROI: You can see her?
+[00:32:40.406 --> 00:32:40.886] CLARA: Yes.
+[00:32:42.726 --> 00:32:46.086] TROI: If I go with you and hold your hand, will you go into your room?
+[00:32:48.042 --> 00:32:48.682] CLARA: I think so.
+[00:32:49.802 --> 00:32:52.682] TROI: We'll make sure Isabella isn't anywhere around,
+[00:32:52.682 --> 00:32:53.002] TROI: okay?
+[00:32:55.402 --> 00:32:55.562] TROI: Come on.
+[00:33:03.082 --> 00:33:03.882] TROI: Do you see anybody?
+[00:33:09.482 --> 00:33:10.522] TROI: Let's look under the bed.
+[00:33:14.682 --> 00:33:15.162] TROI: Is she there?
+[00:33:17.482 --> 00:33:17.962] TROI: Okay,
+[00:33:18.282 --> 00:33:19.242] TROI: where else?
+[00:33:21.482 --> 00:33:22.202] TROI: Is she behind here?
+[00:33:26.282 --> 00:33:27.802] TROI: Maybe Isabella's gone home.
+[00:33:30.442 --> 00:33:31.242] TROI: Let's see.
+[00:33:33.002 --> 00:33:33.482] TROI: Anything here?
+[00:33:41.482 --> 00:33:44.122] TROI: Maybe Isabella knows that you've got new friends now.
+[00:33:45.322 --> 00:33:47.962] TROI: In fact, I'll bet she won't be coming around as much anymore.
+[00:33:49.082 --> 00:33:49.482] CLARA: Maybe.
+[00:33:52.042 --> 00:33:53.002] CLARA: What about in the closet?
+[00:33:54.442 --> 00:33:54.682] TROI: Okay.
+[00:33:58.922 --> 00:33:59.722] TROI: Anybody in here?
+[00:34:00.762 --> 00:34:01.802] TROI: Looks pretty empty to me.
+[00:34:15.345 --> 00:34:17.185] TROI: She was eleven, maybe twelve, with
+[00:34:18.305 --> 00:34:18.785] TROI: blonde hair.
+[00:34:20.305 --> 00:34:20.705] TROI: Clara.
+[00:34:20.865 --> 00:34:21.665] CRUSHER: Clara's sleeping.
+[00:34:21.665 --> 00:34:22.705] CRUSHER: She's going to be fine.
+[00:34:24.545 --> 00:34:27.105] CRUSHER: Her bioelectrical processes were severely disrupted.
+[00:34:27.745 --> 00:34:29.745] CRUSHER: It's as if the energy were pulled right out of her body.
+[00:34:30.785 --> 00:34:31.025] SUTTER: Captain,
+[00:34:35.025 --> 00:34:38.785] SUTTER: Clara has told me that her imaginary friend has been making threats.
+[00:34:39.105 --> 00:34:43.185] SUTTER: She claimed that others were on the way and that they had plans to kill everyone on the ship.
+[00:34:46.385 --> 00:34:47.185] PICARD: Picard to Lieutenant Worf.
+[00:34:48.385 --> 00:34:48.945] WORF: Worf here, sir.
+[00:34:49.345 --> 00:34:53.585] PICARD: Lieutenant, We've established the presence of what appears to be an alien entity on board.
+[00:34:53.585 --> 00:34:59.665] PICARD: It seems the entity has manifested itself in the form of a twelve year old human girl who has been seen with Clara Sutter.
+[00:34:59.985 --> 00:35:01.713] PICARD: She has blonde hair, blue eyes
+[00:35:01.713 --> 00:35:02.865] WORF: And a blue dress.
+[00:35:03.185 --> 00:35:03.585] WORF: Yes sir,
+[00:35:03.585 --> 00:35:04.465] WORF: I have seen her.
+[00:35:05.105 --> 00:35:05.345] PICARD: When?
+[00:35:07.185 --> 00:35:08.705] WORF: Two days ago, near Engineering.
+[00:35:08.705 --> 00:35:10.065] WORF: She was with Miss Sutter.
+[00:35:10.465 --> 00:35:11.665] PICARD: Security Alert Mister Worf.
+[00:35:12.065 --> 00:35:12.785] PICARD: Keep a good lookout.
+[00:35:12.945 --> 00:35:13.265] WORF: Aye, sir.
+[00:35:17.265 --> 00:35:18.945] OGAWA: She insisted on talking to you.
+[00:35:20.305 --> 00:35:21.185] CLARA: It's about Isabella.
+[00:35:26.385 --> 00:35:27.105] SUTTER: What about her, Clara?
+[00:35:27.105 --> 00:35:29.345] CLARA: I think her feelings were hurt.
+[00:35:29.985 --> 00:35:30.945] CLARA: She said she liked me,
+[00:35:31.825 --> 00:35:32.865] CLARA: she liked being with me.
+[00:35:34.225 --> 00:35:35.185] CLARA: She was my friend.
+[00:35:36.625 --> 00:35:40.065] CLARA: She only got mean when I stopped paying attention to her.
+[00:35:40.065 --> 00:35:41.665] SUTTER: Did she say when the others were coming?
+[00:35:41.815 --> 00:35:42.815] SUTTER: All right,
+[00:35:44.018 --> 00:35:44.658] SUTTER: thanks, sweetie.
+[00:35:44.658 --> 00:35:45.538] SUTTER: You go back to bed now.
+[00:35:45.778 --> 00:35:46.418] SUTTER: We'll handle this.
+[00:35:46.898 --> 00:35:47.468] CLARA: But Daddy.
+[00:35:47.468 --> 00:35:51.458] PICARD: Clara, if we need your help again, I hope we can count on you.
+[00:35:52.338 --> 00:35:53.058] CLARA: Yes, Captain.
+[00:35:53.378 --> 00:35:56.978] RIKER: Captain Picard, report to the Bridge.
+[00:35:57.618 --> 00:35:58.098] PICARD: On my way.
+[00:36:05.218 --> 00:36:05.618] PICARD: Report.
+[00:36:05.938 --> 00:36:07.298] RIKER: Our speed is down by twenty two percent.
+[00:36:09.938 --> 00:36:12.018] LAFORGE: Strand density is ten times what it was, Captain.
+[00:36:12.098 --> 00:36:13.458] LAFORGE: We can't take many more of these hits.
+[00:36:14.258 --> 00:36:14.578] PICARD: All stop.
+[00:36:21.218 --> 00:36:21.458] WORF: Sir,
+[00:36:21.858 --> 00:36:23.298] WORF: something is heading toward us,
+[00:36:23.938 --> 00:36:24.898] WORF: bearing one oh three
+[00:36:25.298 --> 00:36:26.178] WORF: mark oh two four.
+[00:36:26.498 --> 00:36:26.898] PICARD: On screen.
+[00:36:29.938 --> 00:36:34.898] DATA: It appears to be an energy vortex of highly complex patterns. Possibly a life form.
+[00:36:35.378 --> 00:36:35.778] RIKER: Red alert.
+[00:36:38.498 --> 00:36:40.978] DATA: It is in direct physical contact with our shields.
+[00:36:41.698 --> 00:36:43.698] WORF: Shield strength dropping to seventy five percent.
+[00:36:44.498 --> 00:36:45.298] WORF: Seventy two percent.
+[00:36:45.938 --> 00:36:47.458] RIKER: The damn thing's feeding off our shields.
+[00:36:48.178 --> 00:36:50.338] RIKER: Mister Data, remodulate our shield frequencies.
+[00:36:50.418 --> 00:36:51.058] DATA: Aye, sir.
+[00:36:52.338 --> 00:36:52.898] DATA: No effect.
+[00:37:01.538 --> 00:37:03.458] WORF: Shield strength has dropped to sixty four percent.
+[00:37:04.178 --> 00:37:06.498] LAFORGE: We've got about eight minutes before this thing drains our shields.
+[00:37:08.578 --> 00:37:09.058] RIKER: Any ideas?
+[00:37:25.799 --> 00:37:26.199] CLARA: Isabella?
+[00:37:30.919 --> 00:37:31.479] CLARA: Isabella?
+[00:37:33.159 --> 00:37:34.279] CLARA: Don't you want to talk to me?
+[00:37:35.799 --> 00:37:36.679] CLARA: I'm not mad at you.
+[00:37:47.959 --> 00:37:48.519] CLARA: Isabella?
+[00:37:55.639 --> 00:38:02.519] PICARD: We know you've been on this ship for some time now, and that you're posing as Clara's friend, and that you've been threatening her.
+[00:38:05.879 --> 00:38:11.319] PICARD: We can only assume that there is some connection between yourself and the life forms attacking this ship.
+[00:38:17.639 --> 00:38:18.839] PICARD: You're obviously an intelligent being.
+[00:38:20.519 --> 00:38:21.559] PICARD: There's no reason to hide from us.
+[00:38:28.999 --> 00:38:29.479] PICARD: Talk to us.
+[00:38:29.629 --> 00:38:30.229] PICARD: Or
+[00:38:34.039 --> 00:38:36.439] PICARD: can you only communicate by threatening a small child?
+[00:38:38.999 --> 00:38:41.879] CLARA: I'm scared, Isabella.
+[00:38:53.944 --> 00:38:54.344] PICARD: Who are you?
+[00:38:55.544 --> 00:39:01.704] ISABELLA: I came here to determine whether you were a threat to us, and to examine the purity of your energy sources.
+[00:39:03.064 --> 00:39:03.544] PICARD: Energy?
+[00:39:04.584 --> 00:39:05.864] PICARD: Is that why you're draining our shields?
+[00:39:06.264 --> 00:39:06.744] ISABELLA: Yes.
+[00:39:07.304 --> 00:39:12.904] ISABELLA: The emissions from your graviton field generators are far richer than our normal sources of energy.
+[00:39:16.984 --> 00:39:17.864] PICARD: Picard to Bridge. Report.
+[00:39:18.424 --> 00:39:19.544] RIKER: Shields are down to three percent.
+[00:39:19.944 --> 00:39:21.144] RIKER: We're diverting all available power.
+[00:39:22.344 --> 00:39:22.824] PICARD: Acknowledged.
+[00:39:24.904 --> 00:39:27.144] PICARD: If it's energy that you want, we have other ways of providing it.
+[00:39:27.944 --> 00:39:28.824] PICARD: You needn't destroy us.
+[00:39:29.384 --> 00:39:30.824] ISABELLA: You should be destroyed.
+[00:39:31.304 --> 00:39:33.624] ISABELLA: You are cruel, uncaring creatures.
+[00:39:34.344 --> 00:39:35.144] PICARD: What makes you say that?
+[00:39:35.624 --> 00:39:36.984] ISABELLA: The way you treat Clara.
+[00:39:37.784 --> 00:39:38.824] PICARD: In what way have we mistreated her?
+[00:39:39.624 --> 00:39:43.624] ISABELLA: You wouldn't let her do what she wanted to, or go where she wanted to.
+[00:39:44.984 --> 00:39:46.024] PICARD: You mean where you wanted her to.
+[00:39:46.824 --> 00:39:48.104] ISABELLA: What difference does it make?
+[00:39:48.984 --> 00:39:51.704] PICARD: You were taking her to places that were inappropriate, even dangerous.
+[00:39:52.104 --> 00:39:54.264] ISABELLA: I wouldn't have let anything happen to her.
+[00:39:55.304 --> 00:39:56.024] PICARD: We didn't know that.
+[00:39:57.224 --> 00:39:58.424] PICARD: We didn't even know if you were real.
+[00:39:59.384 --> 00:40:04.824] PICARD: All we knew was that a little girl's imaginary friend was frightening her, threatening her.
+[00:40:05.624 --> 00:40:07.944] ISABELLA: That was only after you told Clara not
+[00:40:08.088 --> 00:40:09.128] ISABELLA: to be my friend.
+[00:40:13.848 --> 00:40:14.568] PICARD: I understand.
+[00:40:16.888 --> 00:40:24.488] PICARD: You are seeing this ship, all of us, from a unique perspective. From a child's point of view.
+[00:40:24.488 --> 00:40:29.208] PICARD: It must seem terribly unfair and restrictive to you.
+[00:40:30.488 --> 00:40:37.848] PICARD: As adults, we don't always stop to consider how everything we say and do shapes the impressions of young people.
+[00:40:38.728 --> 00:40:49.768] PICARD: But if you're judging us as a people by the way we treat our children, and I think there can be better criterion, then you must understand how deeply we care for them.
+[00:40:50.248 --> 00:40:54.008] PICARD: When our children are young, they don't understand what might be dangerous.
+[00:40:54.328 --> 00:41:01.128] PICARD: Our rules are to keep them from harm, real or imagined, and that's part of the continuity of our human species.
+[00:41:02.728 --> 00:41:06.888] PICARD: When Clara grows up, she will make rules for her children to protect them,
+[00:41:08.488 --> 00:41:09.368] PICARD: as we protect her.
+[00:41:13.448 --> 00:41:14.408] CLARA: Please don't hurt us.
+[00:41:16.088 --> 00:41:20.168] CLARA: If you still want to be my best friend, I'd like that very much.
+[00:41:42.785 --> 00:41:43.505] PICARD: Status, Number One.
+[00:41:44.065 --> 00:41:45.025] RIKER: We're clear of the strands.
+[00:41:45.265 --> 00:41:47.185] RIKER: We'll have full warp capability in twenty minutes.
+[00:41:47.265 --> 00:41:48.705] PICARD: Notify all sections
+[00:41:48.705 --> 00:41:52.189] PICARD: we'll be leaving this area in one hour.
+[00:41:52.189 --> 00:41:52.625] RIKER: Sir?
+[00:41:53.105 --> 00:41:59.345] PICARD: Mister La Forge, I want you to drive the warp engines to full power, and direct a flow of energy out into the nebula.
+[00:41:59.985 --> 00:42:00.385] LAFORGE: Aye, sir.
+[00:42:13.585 --> 00:42:15.585] ISABELLA: I came to say I'm sorry I frightened you.
+[00:42:17.025 --> 00:42:17.425] CLARA: That's okay.
+[00:42:18.545 --> 00:42:19.505] ISABELLA: And I misled you.
+[00:42:20.545 --> 00:42:22.065] ISABELLA: I wasn't really your Isabella.
+[00:42:22.705 --> 00:42:23.665] CLARA: For a while you were.
+[00:42:23.665 --> 00:42:23.665] ISABELLA: I
+[00:42:25.185 --> 00:42:26.385] ISABELLA: never had a friend before.
+[00:42:27.745 --> 00:42:28.785] CLARA: I'm sorry I have to go away.
+[00:42:30.465 --> 00:42:31.825] ISABELLA: Do you think you'll ever come back?
+[00:42:33.505 --> 00:42:34.145] CLARA: I hope so.
+[00:42:35.505 --> 00:42:36.225] ISABELLA: So do I.
+[00:43:04.000 --> 00:43:41.000] [music]

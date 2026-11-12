@@ -1,0 +1,666 @@
+[00:00:02.480 --> 00:00:04.814] NARRATOR: Last time on Star Trek, the Next Generation.
+[00:00:04.814 --> 00:00:07.440] LAFORGE: They found Data's head a mile beneath San Francisco.
+[00:00:08.240 --> 00:00:10.320] LAFORGE: Been down there about five centuries.
+[00:00:10.960 --> 00:00:15.360] DATA: At some future date I will be transported back to nineteenth century Earth, where I will die.
+[00:00:16.560 --> 00:00:17.200] DATA: It has occurred.
+[00:00:18.240 --> 00:00:18.720] DATA: It will occur.
+[00:00:23.200 --> 00:00:25.667] GUINAN: Do I know you, Mister?
+[00:00:25.667 --> 00:00:26.160] DATA: Data.
+[00:00:27.280 --> 00:00:30.880] DATA: Yes. We were on a ship together. The Enterprise.
+[00:00:31.200 --> 00:00:32.080] GUINAN: Is that a clipper ship?
+[00:00:33.280 --> 00:00:34.080] DATA: It is a starship.
+[00:00:34.720 --> 00:00:35.360] CLEMENS: Starship?
+[00:00:45.600 --> 00:00:50.880] RIKER: My God. They're delivering more of them for the others to ingest.
+[00:00:51.280 --> 00:00:52.560] GUINAN: Did my father send you here?
+[00:00:52.960 --> 00:00:55.520] GUINAN: Because if he did, you must go back and tell him I'm not done listening to
+[00:00:55.600 --> 00:00:56.800] DATA: I was not sent by your father.
+[00:00:57.760 --> 00:01:02.480] DATA: Our ship encountered a species who appears to be threatening nineteenth century Earth.
+[00:01:02.800 --> 00:01:05.040] RIKER: I'm not willing to accept that he's dead and just leave it at that.
+[00:01:05.360 --> 00:01:07.360] PICARD: We cannot make Mister Data our priority.
+[00:01:07.440 --> 00:01:08.720] RIKER: What is more important than Data?
+[00:01:09.040 --> 00:01:10.240] GUINAN: Do you remember the first time we met?
+[00:01:10.880 --> 00:01:11.360] PICARD: Of course.
+[00:01:11.840 --> 00:01:12.560] GUINAN: Don't be so sure.
+[00:01:13.760 --> 00:01:16.640] GUINAN: If you don't go on this mission, we'll never meet.
+[00:01:17.360 --> 00:01:17.360] NARRATOR: And
+[00:01:29.520 --> 00:01:30.640] NARRATOR: now, the conclusion.
+[00:01:33.225 --> 00:01:37.385] CLEMENS: I have long been interested in the notion of time travellers.
+[00:01:38.265 --> 00:01:50.745] CLEMENS: In fact, I wrote a book about it. It chronicles the tale of a man of our era who fouled the sixth century by introducing newfangled gadgets and weapons all in the name of progress.
+[00:01:51.225 --> 00:01:59.065] CLEMENS: This idea of time travel is not so far fetched as it might seem.
+[00:01:59.065 --> 00:02:07.785] CLEMENS: In fact, I have learned that, even now, there are people from the future right here in San Francisco
+[00:02:08.425 --> 00:02:14.665] CLEMENS: and I have no doubt that their intent is to foul our world just as my Yankee did in King Arthur's time.
+[00:02:15.065 --> 00:02:17.945] CLEMENS: Well, sir, let me serve notice.
+[00:02:18.345 --> 00:02:25.385] CLEMENS: As soon as I have the necessary evidence, I intend to expose them and make it absolutely clear that they are not welcome here.
+[00:02:25.945 --> 00:02:26.585] REPORTER: Yes, sir.
+[00:02:26.585 --> 00:02:29.225] REPORTER: And will this be a sequel to Connecticut Yankee, Mister Twain?
+[00:02:29.785 --> 00:02:30.985] CLEMENS: The name's Clemens, son.
+[00:02:31.545 --> 00:02:32.665] CLEMENS: Sam Clemens.
+[00:02:33.225 --> 00:02:34.025] CLEMENS: That's with an e.
+[00:02:34.185 --> 00:02:35.385] REPORTER: With an e.
+[00:02:36.345 --> 00:02:36.985] REPORTER: Got it.
+[00:02:41.705 --> 00:02:42.265] CLEMENS: Excuse me.
+[00:03:32.126 --> 00:03:34.926] PICARD: Space, the final frontier.
+[00:03:36.766 --> 00:03:39.646] PICARD: These are the voyages of the starship Enterprise.
+[00:03:40.766 --> 00:03:48.766] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:50.366 --> 00:03:53.246] PICARD: to boldly go where no one has gone before.
+[00:04:33.163 --> 00:04:33.163] RIKER: The
+[00:04:50.683 --> 00:04:53.163] RIKER: coroner said this is where they kept all the cholera victims.
+[00:04:54.603 --> 00:04:57.643] CRUSHER: It doesn't make sense that so many people are dying of cholera.
+[00:04:58.123 --> 00:04:59.563] CRUSHER: It just isn't that virulent.
+[00:05:08.123 --> 00:05:08.443] CRUSHER: Will,
+[00:05:14.523 --> 00:05:15.323] CRUSHER: this is strange.
+[00:05:16.283 --> 00:05:16.523] RIKER: What is it?
+[00:05:18.363 --> 00:05:25.883] CRUSHER: The cerebellum, the cerebral cortex, the brain stem, the entire nervous system has been depleted of electrochemical energy.
+[00:05:36.283 --> 00:05:36.843] CRUSHER: Here's another one.
+[00:05:37.643 --> 00:05:38.683] CRUSHER: Same neural depletion.
+[00:05:40.123 --> 00:05:41.883] CRUSHER: These people did not die of cholera.
+[00:05:42.363 --> 00:05:45.003] CRUSHER: They died because their neural energy was drained somehow.
+[00:05:45.883 --> 00:05:46.363] RIKER: Drained
+[00:05:48.443 --> 00:05:51.803] RIKER: and taken to Devidia Two for those aliens to ingest?
+[00:05:53.323 --> 00:05:58.043] RIKER: If you were a time traveller with a taste for human neural energy where would you get your supply?
+[00:06:00.203 --> 00:06:01.643] CRUSHER: I would travel back to a time
+[00:06:02.413 --> 00:06:06.893] CRUSHER: when there were plagues and epidemics, so I could murder and use disease as a
+[00:06:09.693 --> 00:06:09.933] CRUSHER: cover.
+[00:06:14.333 --> 00:06:18.768] CRUSHER: Over half the victims whose neural energy had been drained came from the Sisters of Hope Infirmary.
+[00:06:18.768 --> 00:06:20.333] RIKER: A charity hospital near the waterfront.
+[00:06:21.293 --> 00:06:25.133] TROI: If the aliens have been killing people there, well, someone might have noticed something unusual.
+[00:06:25.373 --> 00:06:28.333] PICARD: And if they're moving among humans, they must have taken on human form.
+[00:06:28.333 --> 00:06:30.653] PICARD: But the question is, how do we know who we're looking for?
+[00:06:31.293 --> 00:06:34.653] RIKER: The tricorder indicated triolic activity from most of the bodies we looked at.
+[00:06:35.293 --> 00:06:37.773] RIKER: If the aliens left that sort of signature, they'll be detectable.
+[00:06:38.173 --> 00:06:41.853] LAFORGE: You know, we might even be able to rig some kind of alien alarm system.
+[00:06:43.053 --> 00:06:44.013] RIKER: Any luck contacting Data?
+[00:06:45.133 --> 00:06:45.453] LAFORGE: None.
+[00:06:46.173 --> 00:06:48.573] LAFORGE: The tricorder's broadcasting random emissions on all frequencies
+[00:06:48.573 --> 00:06:51.133] LAFORGE: his sub-processors might pick up, but the range is limited.
+[00:06:51.773 --> 00:06:52.813] LAFORGE: Almost anything could interfere.
+[00:06:56.813 --> 00:06:57.373] LAFORGE: She's back.
+[00:06:59.853 --> 00:07:00.093] CARMICHAEL: Mister
+[00:07:00.093 --> 00:07:00.093] CARMICHAEL: Pikerd!
+[00:07:06.653 --> 00:07:07.453] PICARD: Yes, Mrs.
+[00:07:07.453 --> 00:07:08.013] PICARD: Carmichael.
+[00:07:10.413 --> 00:07:10.893] CARMICHAEL: Mister
+[00:07:10.893 --> 00:07:14.653] CARMICHAEL: Pikerd. I'll be reminding you that it's one o'clock.
+[00:07:16.013 --> 00:07:16.333] PICARD: Yes.
+[00:07:16.813 --> 00:07:18.413] CARMICHAEL: One o'clock on a Thursday.
+[00:07:19.053 --> 00:07:26.413] CARMICHAEL: I'm sure I made it clear to you that the rent is always due, payable in full, by one o'clock on Wednesdays.
+[00:07:27.373 --> 00:07:28.253] PICARD: Ah, yes,
+[00:07:28.573 --> 00:07:28.973] PICARD: er,
+[00:07:30.573 --> 00:07:30.893] PICARD: the rent.
+[00:07:32.712 --> 00:07:32.952] PICARD: Mrs.
+[00:07:32.952 --> 00:07:33.512] PICARD: Carmichael,
+[00:07:34.952 --> 00:07:40.312] PICARD: even now my troupe are in rehearsals for a new production.
+[00:07:40.792 --> 00:07:44.152] CARMICHAEL: Oh? I haven't heard of any new production.
+[00:07:44.552 --> 00:07:45.512] CARMICHAEL: What play is it?
+[00:07:46.792 --> 00:07:47.192] PICARD: The play?
+[00:07:50.712 --> 00:07:51.912] PICARD: A Midsummer Night's Dream.
+[00:07:52.552 --> 00:07:55.352] PICARD: We have performed in London, Paris, Milan.
+[00:07:56.872 --> 00:07:59.192] PICARD: Milan. To sold out houses.
+[00:07:59.432 --> 00:08:02.792] PICARD: I assure you, you will have the rent, in full, with a bonus.
+[00:08:03.272 --> 00:08:05.192] CARMICHAEL: Oh, no, no, no, no.
+[00:08:05.592 --> 00:08:08.792] CARMICHAEL: I've heard you silver-tongued devils before.
+[00:08:09.272 --> 00:08:14.392] CARMICHAEL: I'll have the rent in full tomorrow by one o'clock or you'll be out performing on the street.
+[00:08:18.792 --> 00:08:23.352] BELLBOY: I wouldn't do this for just anybody, Mister
+[00:08:23.352 --> 00:08:25.432] BELLBOY: Clemens. And I hope you won't spread it around
+[00:08:25.512 --> 00:08:25.992] BELLBOY: that I let you in.
+[00:08:26.232 --> 00:08:27.192] BELLBOY: People start talking.
+[00:08:27.192 --> 00:08:28.632] CLEMENS: Of course not, Jack.
+[00:08:29.032 --> 00:08:32.392] CLEMENS: And I assure you that Mister Data would be most upset if you didn't.
+[00:08:32.792 --> 00:08:40.632] CLEMENS: If I can't find that Letter of Intent that he left me, our major investor is going to pull out and take his business elsewhere.
+[00:08:41.272 --> 00:08:43.112] BELLBOY: It has to do with Mister Data's engine, doesn't it?
+[00:08:43.672 --> 00:08:44.072] CLEMENS: Engine?
+[00:08:44.632 --> 00:08:45.032] BELLBOY: Yes.
+[00:08:46.472 --> 00:08:49.432] CLEMENS: Oh, yes. Yes,
+[00:08:49.912 --> 00:08:52.632] CLEMENS: this is exactly what it's all about.
+[00:08:52.952 --> 00:08:53.372] CLEMENS: Ow!
+[00:08:53.372 --> 00:08:54.632] BELLBOY: You know, Mister
+[00:08:54.632 --> 00:08:56.392] BELLBOY: Clemens, I'm going to do you another favour today.
+[00:08:57.272 --> 00:08:58.632] BELLBOY: You're always looking for good stories, right?
+[00:08:59.272 --> 00:09:01.592] BELLBOY: Well, I've got a real humdinger for you.
+[00:09:02.373 --> 00:09:03.653] BELLBOY: The story of my life.
+[00:09:03.893 --> 00:09:09.813] BELLBOY: Now, I know you may think I'm young, but I've covered a lot of ground and if I do say so myself, it'd make for some pretty fascinating reading.
+[00:09:11.093 --> 00:09:12.373] BELLBOY: So, what do you think?
+[00:09:13.653 --> 00:09:14.373] CLEMENS: About what?
+[00:09:15.173 --> 00:09:16.373] BELLBOY: About writing my life story.
+[00:09:16.773 --> 00:09:19.093] BELLBOY: You and me. Literary partners, of course.
+[00:09:19.733 --> 00:09:23.573] CLEMENS: Young man, I have a maxim that I have always lived by.
+[00:09:24.533 --> 00:09:28.373] CLEMENS: No one is more qualified to write your story than you are.
+[00:09:29.333 --> 00:09:30.693] BELLBOY: Me? Be a writer?
+[00:09:31.413 --> 00:09:32.293] BELLBOY: You think I could do that?
+[00:09:32.293 --> 00:09:36.133] CLEMENS: As long as you write what you know. You got any passions, boy? Any dreams?
+[00:09:36.373 --> 00:09:37.973] BELLBOY: I'd like to do some travelling,
+[00:09:38.453 --> 00:09:39.253] BELLBOY: maybe go to sea.
+[00:09:39.893 --> 00:09:43.013] BELLBOY: And Alaska. I've had the strangest notion to go see Alaska.
+[00:09:43.013 --> 00:09:44.133] CLEMENS: That's a great idea, son.
+[00:09:44.133 --> 00:09:46.693] CLEMENS: That's exactly what I would do if I were your age.
+[00:09:46.693 --> 00:09:50.133] CLEMENS: Alaska, the Klondike, the Aurora Borealis.
+[00:09:50.133 --> 00:09:50.773] CLEMENS: That's it.
+[00:09:51.093 --> 00:09:53.733] CLEMENS: Follow your dreams and write about 'em.
+[00:09:54.373 --> 00:09:54.933] BELLBOY: Thank you, Mister
+[00:09:54.933 --> 00:09:55.333] BELLBOY: Clemens.
+[00:09:55.573 --> 00:09:57.173] BELLBOY: You know, that is exactly what I'm going to do.
+[00:09:57.173 --> 00:09:57.973] CLEMENS: You do that, son.
+[00:09:58.213 --> 00:09:59.493] BELLBOY: You'll see my name in print, too.
+[00:09:59.653 --> 00:10:00.453] CLEMENS: I'm sure I will.
+[00:10:00.613 --> 00:10:02.053] BELLBOY: Don't forget. The name's London.
+[00:10:02.533 --> 00:10:03.093] BELLBOY: Jack London.
+[00:10:03.333 --> 00:10:03.973] CLEMENS: Goodbye now.
+[00:10:05.173 --> 00:10:05.173] CLEMENS: Bye-bye.
+[00:10:05.323 --> 00:10:05.923] GUINAN: I
+[00:10:36.819 --> 00:10:37.619] GUINAN: found the Head Surveyor, I
+[00:10:38.339 --> 00:10:39.219] GUINAN: found the cavern.
+[00:10:39.459 --> 00:10:41.459] GUINAN: You will not be able to get to it.
+[00:10:41.459 --> 00:10:45.779] GUINAN: The entrance is on a mine shaft that is the middle of the Presidio on an army base.
+[00:10:46.179 --> 00:10:47.539] DATA: Perhaps you could arrange for us to get in.
+[00:10:48.259 --> 00:10:48.579] GUINAN: How?
+[00:10:48.979 --> 00:10:50.579] DATA: With permission to dig for the mine shaft.
+[00:10:51.619 --> 00:10:53.283] GUINAN: Oh, no, Data. I've done everything you've asked
+[00:10:53.283 --> 00:10:53.699] DATA: I have
+[00:10:53.699 --> 00:10:55.619] DATA: full confidence in your persuasive abilities.
+[00:10:55.769 --> 00:10:56.369] GUINAN: Well,
+[00:10:57.699 --> 00:11:00.179] GUINAN: I suppose it's more interesting than throwing a tea dance.
+[00:11:01.139 --> 00:11:01.699] DATA: Strange.
+[00:11:03.059 --> 00:11:04.739] DATA: The transceiver assembly has been removed.
+[00:11:05.459 --> 00:11:07.539] DATA: Without it I will be unable to track the time shifts.
+[00:11:09.939 --> 00:11:10.419] GUINAN: Twain.
+[00:11:11.379 --> 00:11:11.939] DATA: Clemens?
+[00:11:12.179 --> 00:11:12.659] GUINAN: Yes.
+[00:11:13.219 --> 00:11:14.579] GUINAN: He's been driving me crazy.
+[00:11:14.819 --> 00:11:16.099] GUINAN: He watches the house,
+[00:11:16.179 --> 00:11:18.899] GUINAN: he follows me down the street asking me questions.
+[00:11:19.059 --> 00:11:21.059] GUINAN: If anyone took this you can believe it was him.
+[00:11:21.939 --> 00:11:23.459] DATA: If you are correct, he must be warned.
+[00:11:24.019 --> 00:11:28.979] DATA: The device has been modified in such a way that prolonged contact with human tissue would be highly toxic.
+[00:11:30.339 --> 00:11:30.419] CLEMENS: Madame
+[00:11:32.419 --> 00:11:34.419] CLEMENS: Guinan.
+[00:11:34.419 --> 00:11:34.659] CLEMENS: Mister
+[00:11:59.379 --> 00:11:59.699] CLEMENS: Data.
+[00:12:00.101 --> 00:12:01.701] GUINAN: Shame on you, Mister Clemens.
+[00:12:01.701 --> 00:12:02.314] GUINAN: Shame.
+[00:12:02.314 --> 00:12:03.541] CLEMENS: Shame, madam?
+[00:12:03.701 --> 00:12:04.661] CLEMENS: I think not.
+[00:12:05.061 --> 00:12:08.341] CLEMENS: I find no shame in my efforts to uncover your plot.
+[00:12:08.341 --> 00:12:10.181] GUINAN: I keep telling you, there is no plot.
+[00:12:10.181 --> 00:12:13.621] CLEMENS: Yes, you do keep telling me that.
+[00:12:13.621 --> 00:12:13.621] CLEMENS: What
+[00:12:14.901 --> 00:12:17.141] CLEMENS: an interesting pair you are.
+[00:12:17.461 --> 00:12:20.581] CLEMENS: Where in Switzerland did you say you were from, Mister Data?
+[00:12:21.701 --> 00:12:23.301] DATA: I am French, sir, not Swiss.
+[00:12:23.621 --> 00:12:25.461] CLEMENS: Oh yes, that's right, now
+[00:12:25.461 --> 00:12:30.181] CLEMENS: I remember. A Frenchman with a talent for poker,
+[00:12:30.261 --> 00:12:34.661] CLEMENS: from what I hear. You know, I was talking to a friend of mine, Ches Whitley.
+[00:12:34.661 --> 00:12:38.821] CLEMENS: He says to say hello and wonders when you're coming back.
+[00:12:40.181 --> 00:12:41.781] DATA: I do not believe I know Mister Whitley.
+[00:12:42.341 --> 00:12:46.021] CLEMENS: No? He works at the County Assayer's office.
+[00:12:46.421 --> 00:12:58.021] CLEMENS: He says you've been in there a number of times claiming to be a geological engineer and wanting information about mining operations during the 1850's.
+[00:12:58.021 --> 00:12:59.381] CLEMENS: You remember him now?
+[00:12:59.861 --> 00:13:01.541] DATA: I am unfamiliar with the gentleman's name.
+[00:13:01.781 --> 00:13:03.781] DATA: I have spoken to several people at that office.
+[00:13:03.861 --> 00:13:05.381] CLEMENS: Yes, I know.
+[00:13:05.781 --> 00:13:15.381] CLEMENS: And in the Hall of Records, and in the Geological Society, and a little-known mineral shop in Chinatown. You do get around, don't you?
+[00:13:16.181 --> 00:13:17.941] DATA: As apparently you do, Mister Clemens.
+[00:13:18.021 --> 00:13:22.981] CLEMENS: I must admit you've got me mystified.
+[00:13:23.461 --> 00:13:26.341] CLEMENS: This contraption, for instance.
+[00:13:26.981 --> 00:13:28.501] CLEMENS: It's very unusual.
+[00:13:28.501 --> 00:13:31.141] CLEMENS: It looks quite futuristic.
+[00:13:31.541 --> 00:13:34.501] CLEMENS: Tell me, might it have something to do with
+[00:13:34.598 --> 00:13:36.198] CLEMENS: time shifts?
+[00:13:38.118 --> 00:13:44.838] DATA: In a sense. The time shift is a gearing system I have invented for the horseless carriage.
+[00:13:44.918 --> 00:13:47.238] CLEMENS: Do not insult me.
+[00:13:47.878 --> 00:13:54.918] CLEMENS: You have come here to this century and brought your infernal technology with you for God only knows what purpose,
+[00:13:55.078 --> 00:13:59.558] CLEMENS: but I have no doubt it will be the people of this century who will suffer for it.
+[00:14:00.038 --> 00:14:03.398] GUINAN: My dear Mister Clemens, I do think we've heard enough.
+[00:14:03.958 --> 00:14:07.878] GUINAN: Mister Data's business is his own, and I will thank you to leave now.
+[00:14:07.958 --> 00:14:11.078] CLEMENS: Pardon me, Madam Guinan, but it is my business too.
+[00:14:11.398 --> 00:14:19.638] CLEMENS: It is the business of all humanity, I believe, to stop both of you from whatever it is you are doing here. And that is what I intend to do.
+[00:14:37.398 --> 00:14:38.678] DOCTOR: Just what are you doing with those lamps?
+[00:14:40.038 --> 00:14:40.998] PICARD: Replacing the burners.
+[00:14:41.878 --> 00:14:44.678] PICARD: City ordinance. Makes it safer in
+[00:14:45.478 --> 00:14:46.278] PICARD: case of earthquake.
+[00:14:46.998 --> 00:14:48.758] DOCTOR: There hasn't been an earthquake here in thirty years.
+[00:14:50.118 --> 00:14:53.238] PICARD: Well, that's takes care of this ward.
+[00:14:54.598 --> 00:14:55.478] PICARD: Time to be moving on.
+[00:14:58.438 --> 00:14:59.318] DOCTOR: Earthquakes.
+[00:15:00.358 --> 00:15:00.758] DOCTOR: Nurse.
+[00:15:02.511 --> 00:15:06.111] DOCTOR: If you can handle things here, I've got a meeting with the Board of Patrons.
+[00:15:06.191 --> 00:15:06.991] CRUSHER: I'll try to manage.
+[00:15:12.911 --> 00:15:16.831] LAFORGE: There, by that bed. I can see an afterimage of triolic waves.
+[00:15:17.551 --> 00:15:20.591] LAFORGE: They've been here recently. I'd say within the last twenty four hours.
+[00:15:21.071 --> 00:15:22.831] CRUSHER: That's the bed where the man died last night.
+[00:15:23.391 --> 00:15:27.151] TROI: This man was complaining about a strange doctor and nurse who visited that patient.
+[00:15:28.271 --> 00:15:28.991] TROI: Perhaps they're still in the
+[00:15:32.351 --> 00:15:32.351] TROI: hospital.
+[00:15:33.000 --> 00:15:46.000] [throat clearing]
+[00:15:46.351 --> 00:15:47.551] CRUSHER: Here. This'll make you more comfortable.
+[00:15:50.271 --> 00:15:51.151] CRUSHER: Do
+[00:16:02.000 --> 00:16:06.000] [throat clearing]
+[00:16:11.631 --> 00:16:12.911] CRUSHER: you need any help, Doctor?
+[00:16:16.351 --> 00:16:19.471] CRUSHER: Doctor Apollinaire felt he had entered the algid stage.
+[00:16:19.471 --> 00:16:21.391] CRUSHER: He was cyanotic, pulse unobservable.
+[00:16:23.791 --> 00:16:24.911] CRUSHER: That's an interesting cane.
+[00:16:29.934 --> 00:16:30.254] LAFORGE: Doctor!
+[00:16:51.294 --> 00:16:52.654] POLICEMAN: Stand aside, stand aside. Let me in here.
+[00:16:53.214 --> 00:16:54.814] POLICEMAN: People said there was gunfire in here.
+[00:16:54.814 --> 00:16:55.454] POLICEMAN: What's going on?
+[00:16:55.454 --> 00:16:56.494] RIKER: Just a little misunderstanding.
+[00:16:56.494 --> 00:16:57.694] RIKER: I was just clearing these people out of here.
+[00:16:58.334 --> 00:16:59.534] POLICEMAN: I haven't seen you before.
+[00:17:00.414 --> 00:17:01.694] RIKER: I was just assigned here this morning.
+[00:17:01.694 --> 00:17:02.494] RIKER: I was working downtown.
+[00:17:03.214 --> 00:17:05.134] POLICEMAN: I worked downtown for three years.
+[00:17:05.614 --> 00:17:06.494] POLICEMAN: I don't remember you.
+[00:17:07.054 --> 00:17:07.694] PICARD: We'll be on our way.
+[00:17:08.014 --> 00:17:09.134] POLICEMAN: No, wait. Wait.
+[00:17:09.134 --> 00:17:13.374] POLICEMAN: I'm going to ask all of you to come down to the station for questioning. Including you.
+[00:17:15.694 --> 00:17:16.334] POLICEMAN: Where'd you get that?
+[00:17:16.894 --> 00:17:18.654] POLICEMAN: That's a gentleman's cane.
+[00:17:19.774 --> 00:17:21.134] POLICEMAN: Never seen a cane like this before.
+[00:17:21.934 --> 00:17:24.094] POLICEMAN: I'll have to confiscate it for evidence.
+[00:17:24.414 --> 00:17:28.014] RIKER: I just want you to know that I have the utmost respect for the law.
+[00:17:28.894 --> 00:17:30.574] PICARD: Let's go.
+[00:17:31.214 --> 00:17:31.294] RIKER: Data!
+[00:17:31.294 --> 00:17:34.254] LAFORGE: Boy, are we
+[00:17:48.414 --> 00:17:49.214] LAFORGE: glad to see you.
+[00:17:49.934 --> 00:17:52.254] DATA: I suggest we postpone our greetings for another occasion.
+[00:17:52.564 --> 00:17:52.884] PICARD: Agreed.
+[00:17:52.884 --> 00:17:53.524] PICARD: Get us out of here.
+[00:18:09.444 --> 00:18:14.244] LAFORGE: If we tune a phaser to the approximate frequency of triolic waves and lay down a field burst, it might respond.
+[00:18:16.084 --> 00:18:16.884] TROI: The
+[00:18:23.844 --> 00:18:25.524] TROI: ophidian the aliens were carrying.
+[00:18:27.684 --> 00:18:27.924] RIKER: What
+[00:18:29.284 --> 00:18:29.600] RIKER: the?
+[00:18:29.600 --> 00:18:34.964] LAFORGE: These look like minute distortions in the space-time continuum, like the one we saw on Devidia Two.
+[00:18:35.844 --> 00:18:37.524] RIKER: They were so small, and they lasted only a second.
+[00:18:38.164 --> 00:18:42.964] DATA: The aliens appear to be able to concentrate the distortion and direct it to a specific time and place.
+[00:18:43.764 --> 00:18:46.804] CRUSHER: Maybe they have something, a mechanism that focuses it.
+[00:18:47.364 --> 00:18:52.644] LAFORGE: Any device like that would produce significant levels of triolic waves. Like the ones in the cavern where Data's head was found.
+[00:18:53.364 --> 00:18:54.484] DATA: I have located that cavern.
+[00:18:55.604 --> 00:18:56.564] CARMICHAEL: Mister Pikerd!
+[00:18:59.124 --> 00:19:00.244] CARMICHAEL: I know you're in there.
+[00:19:00.324 --> 00:19:01.204] CARMICHAEL: Open the door!
+[00:19:02.164 --> 00:19:02.564] TROI: Mrs.
+[00:19:02.564 --> 00:19:03.284] TROI: Carmichael.
+[00:19:03.844 --> 00:19:04.964] DATA: How now, spirit.
+[00:19:05.204 --> 00:19:06.324] DATA: Whither wander you?
+[00:19:06.324 --> 00:19:09.364] CRUSHER: Over hill, over dale, thorough bush, thorough brier,
+[00:19:09.364 --> 00:19:09.924] TROI: Mrs.
+[00:19:09.924 --> 00:19:10.484] TROI: Carmichael,
+[00:19:10.564 --> 00:19:11.844] TROI: thank goodness you're here.
+[00:19:12.004 --> 00:19:13.684] PICARD: We need someone to read a part.
+[00:19:13.684 --> 00:19:14.324] PICARD: You're just in time.
+[00:19:14.324 --> 00:19:17.124] CARMICHAEL: Mister Picard, I need to be talking to you.
+[00:19:17.284 --> 00:19:18.164] CRUSHER: My mistress
+[00:19:18.164 --> 00:19:19.124] CRUSHER: would that he be gone.
+[00:19:19.524 --> 00:19:20.724] RIKER: Ill met by moonlight,
+[00:19:21.204 --> 00:19:22.164] RIKER: proud Titania.
+[00:19:22.512 --> 00:19:22.912] PICARD: Now, Mrs.
+[00:19:22.912 --> 00:19:23.712] PICARD: Carmichael Right there.
+[00:19:24.752 --> 00:19:27.392] RIKER: Ill met by moonlight, proud Titania.
+[00:19:31.392 --> 00:19:33.792] CARMICHAEL: What, jealous Oberon.
+[00:19:34.992 --> 00:19:36.992] CARMICHAEL: Fairies skip hence.
+[00:19:38.032 --> 00:19:43.312] CARMICHAEL: I have foresworn his bed and company.
+[00:19:44.672 --> 00:19:46.432] PICARD: Well, I don't think I need to hear any more.
+[00:19:47.552 --> 00:19:49.792] PICARD: That was truly unique.
+[00:19:51.312 --> 00:19:51.632] CARMICHAEL: Really?
+[00:19:52.112 --> 00:19:54.592] PICARD: Ladies and gentlemen, I think we have found our Titania.
+[00:19:54.832 --> 00:19:55.312] PICARD: Don't you agree?
+[00:19:57.872 --> 00:20:02.112] CARMICHAEL: Well, I did do a church play when I was a lass.
+[00:20:02.112 --> 00:20:03.872] PICARD: Well, there you are.
+[00:20:04.752 --> 00:20:06.832] PICARD: We start rehearsals tomorrow.
+[00:20:17.712 --> 00:20:18.272] GUINAN: You're back.
+[00:20:18.672 --> 00:20:19.792] GUINAN: I have wonderful news.
+[00:20:20.032 --> 00:20:22.832] GUINAN: I've found a way to get into the Presidio and into the mine shaft.
+[00:20:24.352 --> 00:20:24.912] DATA: It is all right.
+[00:20:24.912 --> 00:20:28.832] GUINAN: Do you know me?
+[00:20:31.472 --> 00:20:34.192] PICARD: Very well.
+[00:20:34.192 --> 00:20:37.472] GUINAN: Do I know you?
+[00:20:39.072 --> 00:20:39.552] PICARD: Not yet. But you
+[00:20:41.152 --> 00:20:41.392] PICARD: will.
+[00:20:46.992 --> 00:20:48.032] REPORTER: Thanks for your help, officer.
+[00:20:48.032 --> 00:20:51.152] POLICEMAN: Now, be sure you put in the part about me spotting that phony policeman.
+[00:20:51.152 --> 00:20:51.792] REPORTER: Yes, sir.
+[00:20:53.712 --> 00:20:54.512] CLEMENS: Hello, son.
+[00:20:54.605 --> 00:20:55.005] REPORTER: Mister
+[00:20:55.165 --> 00:20:57.485] REPORTER: Clemens. What brings you here?
+[00:20:57.645 --> 00:21:05.405] CLEMENS: Writer's curiosity. I heard that two people vanished into thin air in this Infirmary.
+[00:21:05.405 --> 00:21:09.565] REPORTER: One of the patients said that, yes, sir, but the police deny it.
+[00:21:09.965 --> 00:21:10.925] CLEMENS: I bet they do.
+[00:21:10.925 --> 00:21:15.645] REPORTER: They say a band of outlaws set off an explosion in the hospital and then escaped.
+[00:21:15.725 --> 00:21:18.205] CLEMENS: Well, what did these outlaws look like?
+[00:21:18.285 --> 00:21:21.965] REPORTER: The carriage they escaped in was driven by an albino.
+[00:21:22.045 --> 00:21:23.485] CLEMENS: Oh. Mister Data.
+[00:21:25.165 --> 00:21:25.885] REPORTER: You know him?
+[00:21:26.205 --> 00:21:27.165] CLEMENS: You bet I do.
+[00:21:27.165 --> 00:21:28.525] CLEMENS: You say there were others with him?
+[00:21:29.005 --> 00:21:31.325] REPORTER: Yes, at least a dozen.
+[00:21:32.125 --> 00:21:33.165] CLEMENS: His accomplices. They've
+[00:21:33.165 --> 00:21:34.285] CLEMENS: come from the future.
+[00:21:34.285 --> 00:21:36.352] CLEMENS: My God, it's an invasion.
+[00:21:36.352 --> 00:21:39.245] REPORTER: An invasion from the future? Mister Clemens,
+[00:21:39.325 --> 00:21:40.525] REPORTER: what can you tell me about this?
+[00:21:40.525 --> 00:21:41.325] REPORTER: Do you have any proof?
+[00:21:41.565 --> 00:21:42.333] CLEMENS: When's your deadline, boy?
+[00:21:42.333 --> 00:21:42.525] REPORTER: Five
+[00:21:42.525 --> 00:21:43.199] REPORTER: o'clock, sir.
+[00:21:43.199 --> 00:21:48.925] CLEMENS: I'll meet you at your paper at four thirty with a story that will make your career.
+[00:21:49.005 --> 00:21:49.885] REPORTER: Thanks, Mister Clemens
+[00:21:49.965 --> 00:21:52.525] CLEMENS: Take me to the Presidio, driver, and don't spare the whip.
+[00:21:53.965 --> 00:21:54.045] RIKER: The
+[00:21:56.525 --> 00:21:58.845] RIKER: triolic levels are as high as they were on Devidia Two.
+[00:21:59.485 --> 00:22:00.925] RIKER: There's no indication of a control mechanism.
+[00:22:01.325 --> 00:22:02.205] LAFORGE: I'm not so sure.
+[00:22:03.085 --> 00:22:05.245] LAFORGE: My visor is picking up crystalline fractures.
+[00:22:06.045 --> 00:22:10.205] LAFORGE: These cavern walls have undergone some kind of selective molecular polarisation.
+[00:22:11.085 --> 00:22:15.645] LAFORGE: In fact, if I'm right this whole cavern has been configured to focus the space-time distortion.
+[00:22:17.325 --> 00:22:18.605] LAFORGE: Just like a lens.
+[00:22:19.085 --> 00:22:19.405] LAFORGE: Captain,
+[00:22:21.885 --> 00:22:23.085] LAFORGE: we think we might be on to something.
+[00:22:24.045 --> 00:22:27.165] LAFORGE: The cavern itself seems to be acting as a focusing mechanism.
+[00:22:27.511 --> 00:22:29.111] LAFORGE: I'm willing to bet it's the same at their habitat
+[00:22:29.111 --> 00:22:29.991] LAFORGE: back on Devidia Two.
+[00:22:30.551 --> 00:22:33.991] PICARD: If we can get back there and destroy that site, it might put an end to their time travelling.
+[00:22:34.631 --> 00:22:35.351] RIKER: We have the ophidian.
+[00:22:35.671 --> 00:22:37.431] LAFORGE: Truthfully, I don't know that we can get back.
+[00:22:38.151 --> 00:22:40.551] LAFORGE: The aliens use triolic energy as a power source.
+[00:22:40.871 --> 00:22:43.911] LAFORGE: The energy our phasers generates might not be entirely compatible.
+[00:22:46.071 --> 00:22:47.111] PICARD: We have no choice but to try.
+[00:22:47.431 --> 00:22:51.111] CLEMENS: An event I would most certainly enjoy witnessing.
+[00:22:52.071 --> 00:23:00.863] CLEMENS: However, I will regretfully waive that opportunity for the privilege of taking you all in to the authorities.
+[00:23:00.863 --> 00:23:01.351] DATA: Mister
+[00:23:01.351 --> 00:23:01.911] DATA: Clemens,
+[00:23:02.711 --> 00:23:04.987] DATA: it is imperative that we continue our mission.
+[00:23:04.987 --> 00:23:05.271] CLEMENS: Mister
+[00:23:05.271 --> 00:23:05.831] CLEMENS: Data,
+[00:23:05.831 --> 00:23:10.951] CLEMENS: I have listened to your stories and your excuses and your evasions, and I will listen no longer.
+[00:23:11.671 --> 00:23:17.191] CLEMENS: It is my moral duty to protect mankind from whatever devious plan you have in mind.
+[00:23:17.671 --> 00:23:19.031] CLEMENS: Now, move along.
+[00:23:21.511 --> 00:23:26.391] CLEMENS: I suspect that even time travellers are vulnerable to the Colt forty five.
+[00:23:27.831 --> 00:23:29.431] CLEMENS: Now, let's go.
+[00:23:29.831 --> 00:23:33.266] CLEMENS: I made a young fellow a promise and I don't want to be late.
+[00:23:33.266 --> 00:23:33.511] PICARD: Follow
+[00:24:04.117 --> 00:24:04.437] PICARD: him!
+[00:24:43.717 --> 00:24:46.277] RIKER: Is everybody all right?
+[00:24:46.917 --> 00:24:47.637] CRUSHER: I think so.
+[00:24:48.037 --> 00:24:48.437] RIKER: You!
+[00:24:51.317 --> 00:24:52.197] CLEMENS: Where are we?
+[00:24:52.997 --> 00:24:53.637] CLEMENS: And when?
+[00:24:54.197 --> 00:24:55.637] RIKER: This is the twenty fourth century,
+[00:24:55.637 --> 00:24:58.437] RIKER: we're on Devidia Two, and you're not supposed to be here.
+[00:24:58.517 --> 00:25:03.957] CLEMENS: Well it seems to me I have as much right to be in your time as you had to be in mine.
+[00:25:04.517 --> 00:25:08.117] CLEMENS: I wanted to see how you've conducted my future affairs.
+[00:25:08.437 --> 00:25:09.774] TROI: Your future affairs?
+[00:25:09.774 --> 00:25:11.557] CLEMENS: The affairs of mankind.
+[00:25:11.637 --> 00:25:16.117] RIKER: But the disappearance of Mark Twain, one of the most noted literary figures of the nineteenth century
+[00:25:16.197 --> 00:25:16.597] CLEMENS: Thank you.
+[00:25:16.917 --> 00:25:18.037] RIKER: That's not supposed to happen.
+[00:25:18.277 --> 00:25:23.317] CLEMENS: I only took advantage of an irresistible opportunity, as any good writer would.
+[00:25:24.117 --> 00:25:24.997] WORF: Bridge to Away team.
+[00:25:25.240 --> 00:25:25.800] WORF: Acknowledge.
+[00:25:26.520 --> 00:25:27.400] RIKER: We're here, Mister Worf.
+[00:25:28.360 --> 00:25:30.360] RIKER: Stand by to transport five.
+[00:25:30.360 --> 00:25:30.760] LAFORGE: Commander.
+[00:25:40.120 --> 00:25:40.680] RIKER: Mister Worf?
+[00:25:41.320 --> 00:25:41.880] WORF: Yes, Commander.
+[00:25:43.080 --> 00:25:44.200] RIKER: Make that six to transport.
+[00:25:53.800 --> 00:25:55.364] CLEMENS: Where are we now?
+[00:25:55.364 --> 00:25:57.320] RIKER: The Federation Starship Enterprise. Ensign,
+[00:25:57.320 --> 00:25:57.960] RIKER: call security.
+[00:25:57.960 --> 00:25:59.080] RIKER: I want an escort for this man.
+[00:25:59.160 --> 00:25:59.480] CLEMENS: Security?
+[00:26:00.440 --> 00:26:01.000] CLEMENS: What for?
+[00:26:01.480 --> 00:26:03.880] CLEMENS: Are you afraid I'm going to go around stealing things?
+[00:26:05.960 --> 00:26:06.120] CLEMENS: A werewolf!
+[00:26:08.120 --> 00:26:10.200] RIKER: It's a long story, Mister Worf.
+[00:26:10.200 --> 00:26:10.920] RIKER: I'll brief you later.
+[00:26:11.480 --> 00:26:13.160] LAFORGE: Let's have Data's body taken to the science lab.
+[00:26:13.400 --> 00:26:15.080] LAFORGE: I'll try and re-attach the head we have.
+[00:26:15.640 --> 00:26:17.560] CRUSHER: Geordi, that head is over five hundred years old.
+[00:26:17.640 --> 00:26:18.920] LAFORGE: Yeah, but it's the best chance we've got.
+[00:26:20.760 --> 00:26:23.000] RIKER: I want Mister Clemens kept under escort at all times.
+[00:26:23.560 --> 00:26:26.440] TROI: Commander, perhaps I could handle that.
+[00:26:27.480 --> 00:26:29.960] TROI: I'd be happy to take Mister Clemens to his quarters.
+[00:26:31.000 --> 00:26:31.480] RIKER: Good idea.
+[00:26:32.120 --> 00:26:33.000] RIKER: If you would accompany the Counsellor.
+[00:26:33.480 --> 00:26:35.880] CLEMENS: Madam, I'd be delighted.
+[00:26:37.320 --> 00:26:39.880] CLEMENS: So, this is a space ship?
+[00:26:40.520 --> 00:26:42.680] CLEMENS: You ever run into Halley's comet?
+[00:26:55.240 --> 00:26:57.240] PICARD: Gently.
+[00:26:59.317 --> 00:27:00.357] PICARD: Don't sit up too quickly.
+[00:27:07.477 --> 00:27:09.797] GUINAN: Where'd everybody go?
+[00:27:10.917 --> 00:27:12.837] PICARD: I hope they're all safely back on the Enterprise by now.
+[00:27:12.997 --> 00:27:13.077] GUINAN: But
+[00:27:15.237 --> 00:27:15.877] GUINAN: you're still here.
+[00:27:16.437 --> 00:27:17.077] PICARD: You were hurt.
+[00:27:17.397 --> 00:27:18.517] PICARD: I had to make sure you were all right.
+[00:27:20.037 --> 00:27:20.997] GUINAN: And so you stayed for that?
+[00:27:20.997 --> 00:27:23.237] PICARD: I didn't want anything to happen to you.
+[00:27:23.237 --> 00:27:25.477] PICARD: You're far too important to
+[00:27:28.917 --> 00:27:28.917] PICARD: me.
+[00:27:28.917 --> 00:27:30.277] GUINAN: You know an awful lot about me.
+[00:27:31.957 --> 00:27:35.077] PICARD: Believe me, in the future the tables will be turned.
+[00:27:35.317 --> 00:27:35.557] GUINAN: So we
+[00:27:37.717 --> 00:27:38.677] GUINAN: become friends?
+[00:27:39.157 --> 00:27:42.197] PICARD: It goes far beyond friendship.
+[00:27:44.357 --> 00:27:47.717] GUINAN: Oh, but I'll have to wait almost five hundred years,
+[00:27:47.957 --> 00:27:51.877] GUINAN: and when we meet I won't be able to tell you about this, will I?
+[00:27:52.277 --> 00:27:56.997] PICARD: No. Because for me, none of this will have happened yet.
+[00:28:03.477 --> 00:28:03.797] GUINAN: What's that?
+[00:28:04.517 --> 00:28:07.957] PICARD: That's history fulfilling itself.
+[00:28:08.437 --> 00:28:08.917] GUINAN: History
+[00:28:17.957 --> 00:28:20.917] GUINAN: has to fulfill itself.
+[00:28:20.997 --> 00:28:22.117] GUINAN: Even Picard knew that.
+[00:28:22.997 --> 00:28:24.037] RIKER: You were there in the cavern.
+[00:28:24.197 --> 00:28:25.157] RIKER: You know what happened.
+[00:28:25.877 --> 00:28:26.997] RIKER: What am I supposed to do?
+[00:28:28.916 --> 00:28:33.876] GUINAN: If I told you what happened in that cavern, it would affect any decision you'd make now.
+[00:28:35.396 --> 00:28:36.116] GUINAN: I can't do that.
+[00:28:37.476 --> 00:28:37.876] GUINAN: I won't.
+[00:28:39.476 --> 00:28:40.996] RIKER: Not telling me might affect my decision.
+[00:28:40.996 --> 00:28:41.556] RIKER: Did you think of that?
+[00:28:42.836 --> 00:28:44.516] RIKER: We're talking about Jean-Luc Picard.
+[00:28:45.076 --> 00:28:47.636] RIKER: I can't sit around and hope it all works out.
+[00:28:47.636 --> 00:28:48.676] RIKER: I've got to do something.
+[00:29:00.356 --> 00:29:05.316] CLEMENS: Any place that doesn't stock a good cigar doesn't rank high in my book.
+[00:29:05.716 --> 00:29:08.516] TROI: If you must have one, I'm sure we can replicate it for you.
+[00:29:08.516 --> 00:29:15.796] CLEMENS: You think one of these imitations can take the place of a hand wrapped Havana?
+[00:29:15.796 --> 00:29:18.196] TROI: I wouldn't know.
+[00:29:18.276 --> 00:29:20.276] CLEMENS: Well, that's the problem I see here.
+[00:29:20.756 --> 00:29:26.036] CLEMENS: All this technology it only serves to take away life's simple pleasures.
+[00:29:26.676 --> 00:29:30.516] CLEMENS: You don't even let a man open the door for a lady.
+[00:29:31.876 --> 00:29:35.876] TROI: I think what we've gained far outweighs anything that might have been lost.
+[00:29:35.956 --> 00:29:39.636] CLEMENS: Oh? Well, I'm not so impressed with this future.
+[00:29:40.276 --> 00:29:48.756] CLEMENS: Huge starships, and weapons that can no doubt destroy entire cities, and military conquest as a way of life?
+[00:29:49.716 --> 00:29:50.756] TROI: Is that what you see here?
+[00:29:51.076 --> 00:29:52.916] CLEMENS: Well, I know what you say,
+[00:29:52.916 --> 00:29:58.596] CLEMENS: that this is a vessel of exploration and that your mission is to discover new worlds.
+[00:30:01.979 --> 00:30:04.379] CLEMENS: That's what the Spanish said.
+[00:30:04.379 --> 00:30:05.419] TROI: Deck thirty six.
+[00:30:05.419 --> 00:30:09.819] CLEMENS: And the Dutch and the Portuguese. It's what all conquerors say.
+[00:30:10.059 --> 00:30:16.779] CLEMENS: I'm sure that's what you told that blue-skinned fellow I just saw, before you brought him here to serve you.
+[00:30:17.819 --> 00:30:20.699] TROI: He's one of the thousands of species that we've encountered.
+[00:30:21.659 --> 00:30:24.139] TROI: We live in a peaceful Federation with most of them.
+[00:30:24.779 --> 00:30:26.779] TROI: The people you see are here by choice.
+[00:30:27.099 --> 00:30:33.259] CLEMENS: So there're a privileged few who serve on these ships, living in luxury and wanting for nothing.
+[00:30:33.259 --> 00:30:35.099] CLEMENS: But what about everyone else?
+[00:30:35.099 --> 00:30:36.059] CLEMENS: What about the poor?
+[00:30:36.059 --> 00:30:37.099] CLEMENS: You ignore them.
+[00:30:37.739 --> 00:30:43.659] TROI: Poverty was eliminated on Earth a long time ago, and a lot of other things disappeared with it.
+[00:30:44.779 --> 00:30:47.179] TROI: Hopelessness, despair, cruelty.
+[00:30:47.259 --> 00:30:53.019] CLEMENS: Young lady, I come from a time when men achieve power and wealth by standing on the backs of the poor,
+[00:30:53.339 --> 00:30:58.779] CLEMENS: where prejudice and intolerance are commonplace and power is an end unto itself.
+[00:30:58.939 --> 00:31:02.219] CLEMENS: And you're telling me that isn't how it is anymore?
+[00:31:03.179 --> 00:31:03.659] TROI: That's right.
+[00:31:03.809 --> 00:31:04.409] CLEMENS: Well,
+[00:31:08.539 --> 00:31:10.539] CLEMENS: maybe
+[00:31:12.539 --> 00:31:15.659] CLEMENS: it's worth giving up cigars for after all.
+[00:31:26.139 --> 00:31:26.539] TROI: Any luck?
+[00:31:27.187 --> 00:31:28.147] LAFORGE: Not so far.
+[00:31:29.187 --> 00:31:30.787] LAFORGE: His activating units won't initialise.
+[00:31:31.827 --> 00:31:37.267] LAFORGE: I thought they would have been protected by his buffering programme, but I guess five hundred years is just too long a wait.
+[00:31:37.907 --> 00:31:38.707] CLEMENS: My watch.
+[00:31:43.747 --> 00:31:45.747] LAFORGE: Yeah.
+[00:31:46.627 --> 00:31:48.627] LAFORGE: It was found in the cavern where Data's head was.
+[00:31:49.427 --> 00:31:51.907] LAFORGE: I guess after five hundred years, that's not likely to work either.
+[00:31:54.147 --> 00:31:54.867] CLEMENS: Mister Data,
+[00:31:55.987 --> 00:31:58.867] CLEMENS: I fear I sadly misjudged you.
+[00:32:00.947 --> 00:32:02.707] CLEMENS: As I have misjudged many things.
+[00:32:14.867 --> 00:32:15.747] PICARD: Can you communicate?
+[00:32:19.027 --> 00:32:19.027] ALIEN: Yes.
+[00:32:19.347 --> 00:32:19.427] PICARD: You're
+[00:32:21.347 --> 00:32:21.747] PICARD: injured.
+[00:32:21.897 --> 00:32:22.497] ALIEN: Why
+[00:32:23.267 --> 00:32:24.867] ALIEN: have you interfered with us?
+[00:32:24.867 --> 00:32:24.947] PICARD: You
+[00:32:26.627 --> 00:32:27.187] PICARD: hunt us.
+[00:32:27.507 --> 00:32:28.147] PICARD: You kill us.
+[00:32:29.187 --> 00:32:29.987] PICARD: We cannot allow that.
+[00:32:31.587 --> 00:32:32.307] ALIEN: We need your energy.
+[00:32:32.627 --> 00:32:36.067] PICARD: Perhaps we can find a substitute.
+[00:32:36.547 --> 00:32:38.467] ALIEN: No. There is none.
+[00:32:40.547 --> 00:32:41.507] ALIEN: We must continue.
+[00:32:43.827 --> 00:32:46.787] PICARD: We know how you move back and forth through time.
+[00:32:47.427 --> 00:32:52.080] PICARD: My crew have returned to the twenty fourth century to destroy your transport site on Devidia Two.
+[00:32:52.080 --> 00:32:52.627] ALIEN: Destroy it?
+[00:32:54.407 --> 00:32:54.487] ALIEN: Your
+[00:32:57.527 --> 00:33:01.127] ALIEN: weapons will only amplify the time distortion.
+[00:33:02.487 --> 00:33:03.767] ALIEN: You will annihilate your own world.
+[00:33:16.087 --> 00:33:19.447] RIKER: I'm going back for Captain Picard.
+[00:33:19.767 --> 00:33:22.327] RIKER: Mister Worf, assemble an Away team to accompany me to the surface.
+[00:33:23.047 --> 00:33:25.527] RIKER: Doctor, I need to know anything you can tell me about that ophidian.
+[00:33:25.687 --> 00:33:27.047] CRUSHER: I've just started running some tests.
+[00:33:27.047 --> 00:33:28.007] CRUSHER: If I can have a few hours.
+[00:33:28.007 --> 00:33:29.447] RIKER: I can't give the alien any more time.
+[00:33:29.847 --> 00:33:34.087] CRUSHER: Will, I haven't been able to determine if our phaser energy can generate a stable field.
+[00:33:34.087 --> 00:33:34.567] CRUSHER: The risk would be
+[00:33:34.567 --> 00:33:35.591] RIKER: I'll take that risk.
+[00:33:35.591 --> 00:33:35.847] WORF: Sir.
+[00:33:37.127 --> 00:33:38.407] WORF: Permission to speak frankly.
+[00:33:39.287 --> 00:33:39.687] RIKER: Go ahead.
+[00:33:41.047 --> 00:33:44.807] WORF: Our priority is to stop the aliens from any more incursions to Earth.
+[00:33:45.207 --> 00:33:46.567] WORF: Any delay is unacceptable.
+[00:33:47.047 --> 00:33:49.927] RIKER: If I can save Captain Picard, I consider that very acceptable.
+[00:33:50.167 --> 00:33:51.047] WORF: The Captain would not.
+[00:33:54.327 --> 00:33:59.287] WORF: I recommend we target photon torpedoes on the alien habitat and destroy it. Immediately.
+[00:34:02.967 --> 00:34:03.607] TROI: He's right, Will.
+[00:34:08.807 --> 00:34:10.167] RIKER: Power up the photons, Mister Worf.
+[00:34:11.127 --> 00:34:11.927] RIKER: Alert me when they're ready.
+[00:34:13.607 --> 00:34:17.047] LAFORGE: Computer, initialise the reload circuits.
+[00:34:17.927 --> 00:34:19.607] COMPUTER: Reload circuits are initialising.
+[00:34:19.757 --> 00:34:20.357] LAFORGE: Okay.
+[00:34:23.927 --> 00:34:24.247] LAFORGE: Data?
+[00:34:26.914 --> 00:34:27.634] LAFORGE: This ought to do it.
+[00:34:32.194 --> 00:34:33.554] LAFORGE: I don't get it.
+[00:34:34.754 --> 00:34:37.554] LAFORGE: I don't understand why isn't this working.
+[00:34:40.434 --> 00:34:40.914] LAFORGE: Computer,
+[00:34:43.314 --> 00:34:45.394] LAFORGE: run me a diagnostic on the input polarisers.
+[00:34:46.674 --> 00:34:49.634] COMPUTER: There is intermittent contact in the input polarisers.
+[00:34:50.514 --> 00:34:51.234] LAFORGE: Intermittent?
+[00:35:15.634 --> 00:35:15.634] LAFORGE: What?
+[00:35:15.634 --> 00:35:16.514] LAFORGE: An iron filing.
+[00:35:17.794 --> 00:35:18.514] LAFORGE: How'd that get in there?
+[00:36:12.062 --> 00:36:16.462] WORF: Commander, I have set the photons to fire in staggered rounds, detonating in ten second intervals.
+[00:36:17.262 --> 00:36:18.142] RIKER: Very well. Fire when ready.
+[00:36:19.102 --> 00:36:21.262] WORF: The sequence will be ready to initiate in one minute.
+[00:36:23.422 --> 00:36:26.462] LAFORGE: Computer, run another diagnostic on the input polarisers.
+[00:36:27.422 --> 00:36:29.182] COMPUTER: Polariser circuits are functioning.
+[00:36:29.582 --> 00:36:33.982] LAFORGE: Well, then, that ought to do it.
+[00:36:34.942 --> 00:36:34.942] LAFORGE: Okay, Data.
+[00:36:42.942 --> 00:36:45.702] LAFORGE: Come on, now.
+[00:36:46.542 --> 00:36:47.022] DATA: Torpedoes.
+[00:36:49.022 --> 00:36:49.342] DATA: Phasing.
+[00:36:51.182 --> 00:36:51.422] DATA: Alien.
+[00:36:56.142 --> 00:37:00.382] DATA: I am processing a binary message entered into my static memory by Captain Picard.
+[00:37:01.022 --> 00:37:03.982] DATA: Geordi, are we planning to fire on the alien habitat?
+[00:37:04.782 --> 00:37:05.280] LAFORGE: Yeah, but
+[00:37:05.280 --> 00:37:07.022] DATA: It is imperative that we do not.
+[00:37:07.342 --> 00:37:08.142] DATA: I will explain later.
+[00:37:09.022 --> 00:37:11.022] LAFORGE: La Forge to Riker. Hold your fire!
+[00:37:13.662 --> 00:37:15.102] DATA: The
+[00:37:16.942 --> 00:37:19.902] DATA: binary message left by the Captain is not entirely clear.
+[00:37:21.209 --> 00:37:24.729] DATA: He seemed to be concerned about the phase differential of our photon torpedoes.
+[00:37:25.049 --> 00:37:27.849] DATA: That firing them might produce catastrophic effects.
+[00:37:28.249 --> 00:37:29.609] CRUSHER: Then how do we destroy their habitat?
+[00:37:30.249 --> 00:37:36.409] DATA: If I am correct, we must modify our weapons so that the force of the explosion is re-phased into the aliens' time continuum.
+[00:37:37.129 --> 00:37:40.409] LAFORGE: If we outfit the photons with phase discriminators we could get the variance we need.
+[00:37:40.649 --> 00:37:41.369] RIKER: How long will it take you?
+[00:37:41.369 --> 00:37:42.969] LAFORGE: At least a couple of hours.
+[00:37:43.449 --> 00:37:43.769] RIKER: Fine.
+[00:37:44.489 --> 00:37:45.959] RIKER: I'll have time to go get him.
+[00:37:45.959 --> 00:37:46.169] DATA: Sir?
+[00:37:46.729 --> 00:37:49.449] RIKER: I'm going back to the nineteenth century to get the Captain. Doctor?
+[00:37:50.249 --> 00:37:56.809] CRUSHER: My analysis of the phasers suggests you'd be able to open the rift, but it won't be stable enough to transport more than one person.
+[00:37:57.929 --> 00:37:59.769] RIKER: You mean if I go back, only one of us can return?
+[00:38:00.009 --> 00:38:00.409] CRUSHER: That's right.
+[00:38:01.049 --> 00:38:03.129] CLEMENS: Then I have the perfect solution for you.
+[00:38:03.769 --> 00:38:09.529] CLEMENS: I'm the one who should return to the nineteenth century and remain there so your Captain can return here.
+[00:38:10.889 --> 00:38:11.609] RIKER: There's a risk.
+[00:38:11.929 --> 00:38:13.369] RIKER: We're not sure how stable the rift will be.
+[00:38:14.009 --> 00:38:15.769] CLEMENS: There's risk in everything.
+[00:38:15.769 --> 00:38:18.089] CLEMENS: The point is, it's the right choice.
+[00:38:18.489 --> 00:38:22.329] CLEMENS: I've got more books to write, and your Captain has a job to do here.
+[00:38:23.929 --> 00:38:25.849] RIKER: Geordi, you'll brief him on what he needs to know?
+[00:38:26.249 --> 00:38:26.649] LAFORGE: Aye, sir.
+[00:38:27.849 --> 00:38:30.809] CLEMENS: I'm glad I have the chance to thank you.
+[00:38:31.849 --> 00:38:32.409] DATA: For what, sir?
+[00:38:33.209 --> 00:38:46.009] CLEMENS: Why, for starting me out on the greatest adventure a man's ever had. And for helping a bitter old man to open his eyes and see that the future turned out pretty
+[00:38:48.089 --> 00:38:48.489] CLEMENS: well
+[00:38:49.449 --> 00:38:50.329] CLEMENS: after all.
+[00:38:53.283 --> 00:38:54.163] GUINAN: I'm thirsty.
+[00:38:54.163 --> 00:38:54.243] PICARD: I'm
+[00:39:00.883 --> 00:39:01.523] PICARD: going to get help.
+[00:39:02.083 --> 00:39:03.043] PICARD: We have to get you out of here.
+[00:39:04.323 --> 00:39:07.123] GUINAN: No, don't go. They'll be back for you soon.
+[00:39:07.523 --> 00:39:08.563] PICARD: No, you need help.
+[00:39:11.203 --> 00:39:14.163] CLEMENS: This thing put me down in the middle of Market Street.
+[00:39:14.643 --> 00:39:15.923] CLEMENS: Took forever to get here.
+[00:39:16.723 --> 00:39:16.883] WORF: Commander
+[00:39:19.203 --> 00:39:22.883] WORF: La Forge has completed the reconfiguration of the photon torpedoes.
+[00:39:23.033 --> 00:39:23.633] RIKER: If
+[00:39:25.123 --> 00:39:26.963] RIKER: Clemens got back, the Captain should have been here by now.
+[00:39:28.803 --> 00:39:31.763] WORF: We have no way of knowing if Mister Clemens was successful.
+[00:39:35.363 --> 00:39:36.883] RIKER: Re-establish your firing pattern, Mister Worf.
+[00:39:36.883 --> 00:39:38.883] RIKER: We'll wait five more minutes.
+[00:39:39.923 --> 00:39:40.243] WORF: Aye, sir.
+[00:39:42.083 --> 00:39:43.843] CLEMENS: No time for chit chat, sir.
+[00:39:45.363 --> 00:39:48.243] CLEMENS: According to Mister La Forge, who did get your message
+[00:39:48.243 --> 00:39:57.043] CLEMENS: by the way, a frequency setting of point oh four seven on your phaser will correctly activate this creature.
+[00:39:57.683 --> 00:39:58.483] PICARD: Now you have to get help.
+[00:39:59.123 --> 00:40:00.243] PICARD: Guinan needs medical attention.
+[00:40:00.483 --> 00:40:02.323] CLEMENS: I promise you she will be attended to.
+[00:40:02.483 --> 00:40:04.563] PICARD: And there is a bill to be settled at Mrs. Carmichael's boarding house.
+[00:40:04.803 --> 00:40:05.523] CLEMENS: I'll settle it.
+[00:40:05.843 --> 00:40:06.083] PICARD: Thank you.
+[00:40:07.443 --> 00:40:11.843] PICARD: I wish, I wish time would have allowed me to know you better.
+[00:40:12.883 --> 00:40:14.243] CLEMENS: You'll just have to read my books.
+[00:40:14.723 --> 00:40:16.243] CLEMENS: What I am is pretty much there.
+[00:40:23.443 --> 00:40:25.603] GUINAN: I'll see you in five hundred years, Picard.
+[00:40:26.947 --> 00:40:29.427] PICARD: And I'll see you in a few minutes.
+[00:40:36.147 --> 00:40:36.547] DATA: Commander,
+[00:40:37.107 --> 00:40:39.827] DATA: I am picking up massive triolic wave activity on the surface.
+[00:40:40.627 --> 00:40:41.187] RIKER: Is it the Captain?
+[00:40:42.067 --> 00:40:43.267] DATA: There are no human life signs.
+[00:40:44.307 --> 00:40:45.427] RIKER: No sign of a temporal distortion?
+[00:40:46.147 --> 00:40:48.627] DATA: No, sir, but triolic activity is increasing.
+[00:40:49.187 --> 00:40:49.747] RIKER: The aliens.
+[00:40:51.427 --> 00:40:52.547] RIKER: Mister Worf, are the photons ready?
+[00:40:53.347 --> 00:40:53.667] WORF: Yes, sir.
+[00:40:55.747 --> 00:40:56.067] RIKER: Fire.
+[00:40:59.667 --> 00:41:00.627] WORF: Torpedoes away, sir.
+[00:41:01.507 --> 00:41:06.787] DATA: Sir, I am detecting a temporal distortion on the surface and human life signs.
+[00:41:14.067 --> 00:41:15.107] RIKER: O'Brien, get him out of there!
+[00:41:21.267 --> 00:41:22.227] RIKER: Transporter room, have you got him?
+[00:41:22.387 --> 00:41:23.507] PICARD: He has indeed, Commander.
+[00:41:23.827 --> 00:41:25.667] PICARD: And believe me, it's good to be back.
+[00:41:28.147 --> 00:41:29.187] WORF: We have destroyed the target.
+[00:41:29.747 --> 00:41:32.307] WORF: There is no further indication of triolic activity.
+[00:41:33.587 --> 00:41:35.347] RIKER: Ensign, lay in a course to the nearest Starbase.
+[00:41:35.667 --> 00:41:36.147] RIKER: Warp six.
+[00:41:36.147 --> 00:41:36.307] LOG: Captain's
+[00:41:46.947 --> 00:41:49.747] LOG: log, stardate 46001.3.
+[00:41:50.787 --> 00:41:56.227] LOG: Everyone who should be in the nineteenth century is safely there, and those who should be in the twenty fourth are here.
+[00:41:57.145 --> 00:41:57.305] LOG: Mister
+[00:41:57.305 --> 00:42:04.265] LOG: Data has been restored to us, head and all, and Samuel Clemens will write the books he was to have written after our encounter.
+[00:42:07.545 --> 00:42:08.745] CLEMENS: Now be careful, boys.
+[00:42:08.825 --> 00:42:10.185] CLEMENS: Don't jostle her too much.
+[00:42:10.665 --> 00:42:12.105] CLEMENS: Don't worry, Madam Guinan,
+[00:42:12.585 --> 00:42:13.865] CLEMENS: you're going to be fine.

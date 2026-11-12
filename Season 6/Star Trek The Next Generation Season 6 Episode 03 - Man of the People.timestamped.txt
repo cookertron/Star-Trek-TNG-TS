@@ -1,0 +1,657 @@
+[00:00:01.760 --> 00:00:04.960] LOG: Captain's log, stardate 46071.6.
+[00:00:05.440 --> 00:00:09.920] LOG: We have been called to the aid of a transport ship, which has been attacked near Rekag-Seronia.
+[00:00:10.480 --> 00:00:16.960] LOG: Hostilities between the two factions on that planet have intensified recently, threatening an important Federation shipping route.
+[00:00:18.000 --> 00:00:20.560] DATA: Captain, sensors have located the transport ship.
+[00:00:21.120 --> 00:00:23.120] DATA: Two Rekag battle cruisers are flanking it.
+[00:00:23.520 --> 00:00:23.840] RIKER: Red alert.
+[00:00:24.160 --> 00:00:24.560] RIKER: Shields up.
+[00:00:25.680 --> 00:00:26.400] WORF: Phasers online.
+[00:00:26.400 --> 00:00:27.520] WORF: Photon torpedoes armed and ready.
+[00:00:28.000 --> 00:00:29.360] PICARD: Is the transport still under attack?
+[00:00:30.160 --> 00:00:32.400] DATA: The cruisers' weapons are powered up but sir,
+[00:00:33.120 --> 00:00:35.600] DATA: the Rekag ships are turning and heading out of sensor range.
+[00:00:35.600 --> 00:00:37.200] RIKER: They don't want to take on the Enterprise.
+[00:00:37.440 --> 00:00:39.360] DATA: We are within visual range of the transport, sir.
+[00:00:39.680 --> 00:00:40.448] PICARD: On screen.
+[00:00:40.448 --> 00:00:43.520] DATA: Sensors indicate damage to the Dorian's subspace emitter.
+[00:00:44.080 --> 00:00:45.600] DATA: Audio communication only.
+[00:00:46.880 --> 00:00:47.760] PICARD: Open a channel, Mister Worf.
+[00:00:48.000 --> 00:00:48.320] WORF: Aye, sir.
+[00:00:50.160 --> 00:00:53.920] PICARD: This is Captain Jean-Luc Picard of the Federation starship Enterprise.
+[00:00:54.720 --> 00:00:55.920] TALMADGE: Captain Talmadge of the Dorian.
+[00:00:56.800 --> 00:00:57.440] TALMADGE: Glad you're here
+[00:00:58.400 --> 00:01:01.920] TALMADGE: we took some shield damage from the Rekag ships but we're still intact.
+[00:01:02.880 --> 00:01:03.840] PICARD: Do you have injuries?
+[00:01:04.880 --> 00:01:06.080] PICARD: Can we assist you in any way?
+[00:01:06.960 --> 00:01:11.600] TALMADGE: No injuries, but I'd like permission to transport a couple of our passengers to your ship.
+[00:01:12.720 --> 00:01:13.200] PICARD: Of course.
+[00:01:13.920 --> 00:01:15.840] TALMADGE: We're conveying a mediator to Seronia.
+[00:01:16.560 --> 00:01:18.880] TALMADGE: I think he's the reason the Rekags fired on us.
+[00:01:19.680 --> 00:01:20.560] TALMADGE: He's
+[00:01:24.720 --> 00:01:25.760] PICARD: Captain, I'm losing you.
+[00:01:26.880 --> 00:01:29.760] PICARD: Go ahead and beam your passengers on board. Counsellor,
+[00:01:29.760 --> 00:01:32.160] PICARD: after you've seen to their needs will you escort them to my Ready room.
+[00:01:32.160 --> 00:01:32.720] TROI: Yes, Captain.
+[00:01:34.000 --> 00:01:35.440] RIKER: Cancel Red alert. Mister Worf,
+[00:01:35.680 --> 00:01:36.560] RIKER: take the weapons offline.
+[00:01:36.880 --> 00:01:37.040] WORF: Aye,
+[00:01:45.840 --> 00:01:47.840] WORF: sir.
+[00:01:47.840 --> 00:01:48.800] TROI: I'm Counsellor Deanna Troi.
+[00:01:49.600 --> 00:01:50.720] ALKAR: Ambassador Ves Alkar,
+[00:01:52.400 --> 00:01:52.960] ALKAR: and my mother,
+[00:01:54.480 --> 00:01:55.040] ALKAR: Sev
+[00:01:56.720 --> 00:01:59.360] ALKAR: Maylor. Counsellor, it's imperative that I speak to the Captain.
+[00:02:00.960 --> 00:02:04.080] MAYLOR: You think he's attracted to you, but he isn't.
+[00:02:04.880 --> 00:02:06.320] MAYLOR: You offer him nothing.
+[00:02:06.640 --> 00:02:07.840] ALKAR: She hasn't been feeling well.
+[00:02:08.640 --> 00:02:09.760] ALKAR: Could she be taken to quarters?
+[00:02:10.080 --> 00:02:11.600] TROI: Of course. Chief.
+[00:02:12.800 --> 00:02:14.160] TROI: I'll take you to Captain Picard.
+[00:02:16.240 --> 00:02:17.600] ALKAR: Mother, go with her.
+[00:02:20.720 --> 00:02:21.520] MAYLOR: Don't pursue him.
+[00:02:22.560 --> 00:02:23.280] MAYLOR: I won't have it.
+[00:02:24.400 --> 00:02:25.280] MAYLOR: I'll stop you.
+[00:03:02.373 --> 00:03:05.093] PICARD: Space, the final frontier.
+[00:03:07.013 --> 00:03:09.893] PICARD: These are the voyages of the starship Enterprise.
+[00:03:10.933 --> 00:03:18.933] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:20.613 --> 00:03:23.093] PICARD: to boldly go where no one has gone
+[00:03:24.853 --> 00:03:26.853] PICARD: before.
+[00:03:52.000 --> 00:04:01.000] [music]
+[00:04:20.423 --> 00:04:34.103] ALKAR: I am grateful for the Federation's offer to escort me, but if I arrive at Rekag-Seronia on board the Enterprise, the armed flagship of Starfleet, my mission as negotiator of peace will be compromised.
+[00:04:34.823 --> 00:04:38.663] ALKAR: There must be a Federation transport ship somewhere in the area that could take me there.
+[00:04:39.223 --> 00:04:47.863] PICARD: With all due respect. Admiral, to put the Ambassador on board another unarmed transport would be to invite a second assault.
+[00:04:48.103 --> 00:04:51.143] ALKAR: I believe the attack on us was an isolated incident, nothing more.
+[00:04:51.703 --> 00:04:57.463] SIMONS: Ambassador Alkar, the Rekag-Seronia dispute has threatened Federation ships for many months.
+[00:04:58.023 --> 00:05:02.183] SIMONS: We are grateful that you are willing to undertake this mission and you have our full support.
+[00:05:02.983 --> 00:05:03.463] ALKAR: Thank you, sir.
+[00:05:04.023 --> 00:05:09.943] SIMONS: However, we also recognise that safety is an issue. Not just yours, but the crew that escorts you.
+[00:05:10.823 --> 00:05:14.343] SIMONS: To send you on an unarmed transport puts everyone at risk.
+[00:05:14.743 --> 00:05:18.583] SIMONS: I think it best if you proceed to Rekag-Seronia aboard the Enterprise.
+[00:05:20.663 --> 00:05:21.703] ALKAR: Then I have no choice.
+[00:05:22.583 --> 00:05:26.983] SIMONS: Once you get to Rekag-Seronia, you can conduct your negotiations as you see fit.
+[00:05:27.623 --> 00:05:30.823] SIMONS: Until then, you'll be in good hands with Captain Picard.
+[00:05:33.223 --> 00:05:33.943] ALKAR: I understand, sir.
+[00:05:34.423 --> 00:05:36.423] SIMONS: Good luck, and a successful journey.
+[00:05:43.623 --> 00:05:44.583] PICARD: Picard to Commander Riker.
+[00:05:45.083 --> 00:05:45.323] RIKER: Yes, sir?
+[00:05:45.723 --> 00:05:46.843] PICARD: Set a course for Seronia.
+[00:05:47.243 --> 00:05:47.563] RIKER: Aye, sir.
+[00:06:19.883 --> 00:06:20.843] WORF: That will be all for today.
+[00:06:21.323 --> 00:06:23.643] WORF: There will be another class tomorrow at oh seven hundred hours.
+[00:06:27.883 --> 00:06:28.923] TROI: The skills are demanding.
+[00:06:30.203 --> 00:06:31.243] TROI: You're very disciplined.
+[00:06:32.123 --> 00:06:34.603] ALKAR: I believe in a strong connection between body and mind.
+[00:06:36.603 --> 00:06:38.203] ALKAR: You obviously share the same convictions.
+[00:06:38.683 --> 00:06:39.163] TROI: Yes, I do.
+[00:06:39.163 --> 00:06:43.883] TROI: Only sometimes my body has a problem conforming to my mind's wishes.
+[00:06:45.243 --> 00:06:45.323] TROI: I
+[00:06:47.883 --> 00:06:50.283] TROI: would imagine that your self-discipline helps you in your work.
+[00:06:51.323 --> 00:06:52.363] ALKAR: I don't know about that.
+[00:06:53.163 --> 00:06:55.483] ALKAR: I think maybe my biggest asset is patience.
+[00:06:57.083 --> 00:07:01.483] ALKAR: I let everybody else talk until they're exhausted, and when I start, they're too tired to argue.
+[00:07:03.083 --> 00:07:04.923] TROI: You're going to need all your patience at Seronia.
+[00:07:05.803 --> 00:07:08.763] TROI: I can't imagine how you'll get the two sides talking to each other.
+[00:07:09.083 --> 00:07:09.643] ALKAR: Neither can I.
+[00:07:10.763 --> 00:07:11.963] ALKAR: I won't know that until I get there.
+[00:07:13.723 --> 00:07:14.443] ALKAR: I tend to
+[00:07:15.339 --> 00:07:16.859] ALKAR: feel my way through a situation.
+[00:07:22.219 --> 00:07:22.699] ALKAR: Deck nine.
+[00:07:23.019 --> 00:07:27.499] ALKAR: If I were empathic like you, I'd have a real advantage.
+[00:07:28.219 --> 00:07:29.739] TROI: I thought Lumerians were empathic.
+[00:07:30.299 --> 00:07:32.299] ALKAR: Only with each other, not other species.
+[00:07:33.179 --> 00:07:33.419] ALKAR: So,
+[00:07:35.179 --> 00:07:38.539] ALKAR: I don't have any idea what you might be feeling just now.
+[00:07:39.739 --> 00:07:40.539] TROI: Curiosity.
+[00:07:41.339 --> 00:07:43.019] TROI: What I sense from you is very unusual.
+[00:07:44.139 --> 00:07:46.859] TROI: Calmness, serenity, tranquillity.
+[00:07:47.979 --> 00:07:51.179] TROI: You seem to embody the very qualities that you hope to draw out in others.
+[00:07:52.859 --> 00:07:56.619] ALKAR: Tell me, Counsellor, have you ever been involved in diplomatic negotiations?
+[00:07:56.859 --> 00:07:58.539] TROI: Several times with Captain Picard.
+[00:07:59.339 --> 00:08:02.379] TROI: There have been instances when having an empath along has been helpful.
+[00:08:02.939 --> 00:08:05.179] ALKAR: I'm sure. I could use some of that help.
+[00:08:08.379 --> 00:08:09.899] ALKAR: Would you come with me when we reach Seronia?
+[00:08:10.699 --> 00:08:12.539] TROI: If the Captain authorises it, of course I will.
+[00:08:13.259 --> 00:08:13.499] ALKAR: Good.
+[00:08:15.339 --> 00:08:15.979] ALKAR: I hope to see you again.
+[00:08:17.579 --> 00:08:18.859] MAYLOR: You're late.
+[00:08:18.859 --> 00:08:19.499] ALKAR: Mother,
+[00:08:19.979 --> 00:08:22.059] ALKAR: I told you that I'd be gone for over an hour.
+[00:08:22.619 --> 00:08:23.659] MAYLOR: You're late because of her.
+[00:08:26.219 --> 00:08:27.259] MAYLOR: Have you mated with him yet?
+[00:08:28.379 --> 00:08:28.539] TROI: What?
+[00:08:29.179 --> 00:08:30.379] MAYLOR: That's what you want, isn't it?
+[00:08:30.699 --> 00:08:30.859] ALKAR: Mother,
+[00:08:32.459 --> 00:08:33.659] ALKAR: please, come in.
+[00:08:34.459 --> 00:08:38.379] MAYLOR: I can always tell. The ones with a certain look in their eye.
+[00:08:39.979 --> 00:08:40.619] TROI: I'd better go.
+[00:08:41.419 --> 00:08:47.259] MAYLOR: And I'll tell you this. If you do, you'll regret it the rest of your life.
+[00:08:48.010 --> 00:08:48.810] ALKAR: Mother. come in please.
+[00:08:49.210 --> 00:08:49.850] ALKAR: You should lie down.
+[00:09:08.650 --> 00:09:09.050] TROI: Come in.
+[00:09:10.890 --> 00:09:11.130] RIKER: Hi.
+[00:09:12.810 --> 00:09:13.690] RIKER: It's that time again.
+[00:09:16.570 --> 00:09:18.330] RIKER: The dreaded crew evaluation reports.
+[00:09:18.570 --> 00:09:20.090] TROI: Does it have to be today?
+[00:09:20.410 --> 00:09:22.250] RIKER: It's not going to be any easier tomorrow.
+[00:09:23.850 --> 00:09:24.410] TROI: It might.
+[00:09:27.690 --> 00:09:28.250] RIKER: What's wrong?
+[00:09:31.050 --> 00:09:34.490] TROI: I've just had a disturbing encounter with Alkar's mother.
+[00:09:37.210 --> 00:09:38.410] TROI: She frightens me, Will.
+[00:09:39.050 --> 00:09:41.850] TROI: The feelings I sense from her are malevolent.
+[00:09:42.730 --> 00:09:43.850] TROI: They're out of proportion.
+[00:09:43.850 --> 00:09:44.410] TROI: They're evil.
+[00:09:45.930 --> 00:09:46.730] RIKER: I know she's been sick.
+[00:09:46.890 --> 00:09:47.770] RIKER: She's very old.
+[00:09:48.650 --> 00:09:49.610] RIKER: She's probably senile.
+[00:09:51.690 --> 00:09:52.010] RIKER: Who knows,
+[00:09:52.010 --> 00:09:53.290] RIKER: we could all end up that way some day.
+[00:09:58.650 --> 00:09:59.530] TROI: You're right.
+[00:10:00.730 --> 00:10:02.730] TROI: Okay,
+[00:10:04.090 --> 00:10:10.010] TROI: let's get through these evaluations, and when they're done I'm going to reward myself with two ice cream sundaes.
+[00:10:11.450 --> 00:10:13.130] RIKER: First, molecular biology.
+[00:10:14.650 --> 00:10:16.170] RIKER: Lieutenant Jeffrey Fratis.
+[00:10:16.777 --> 00:10:17.737] WORF: Worf to Commander Riker.
+[00:10:18.697 --> 00:10:19.177] RIKER: Go ahead.
+[00:10:19.657 --> 00:10:21.817] WORF: Can you report to Ambassador Alkar's quarters?
+[00:10:21.977 --> 00:10:22.857] WORF: There is an emergency.
+[00:10:23.977 --> 00:10:24.457] RIKER: We're on our way.
+[00:10:29.257 --> 00:10:30.457] CRUSHER: Forty cc's inaprovaline.
+[00:10:49.737 --> 00:10:50.697] RIKER: I'm sorry, Ambassador.
+[00:10:52.217 --> 00:10:52.777] ALKAR: She was ill.
+[00:10:53.417 --> 00:10:54.457] ALKAR: I should never have brought her along.
+[00:10:57.097 --> 00:10:58.057] ALKAR: She was ninety three.
+[00:10:59.577 --> 00:11:00.537] ALKAR: She'd lived a long life.
+[00:11:03.017 --> 00:11:04.057] ALKAR: I should be grateful for that.
+[00:11:04.937 --> 00:11:09.067] TROI: Alkar, is there anything I can do?
+[00:11:09.067 --> 00:11:09.657] ALKAR: Counsellor,
+[00:11:12.057 --> 00:11:13.097] ALKAR: there's a funeral meditation.
+[00:11:14.057 --> 00:11:14.857] ALKAR: Part of our rituals.
+[00:11:16.137 --> 00:11:19.657] ALKAR: As an empath, you're the only person on board who could perform it with me.
+[00:11:21.577 --> 00:11:25.417] TROI: I'll be glad to help.
+[00:11:25.417 --> 00:11:25.417] ALKAR: This
+[00:11:35.177 --> 00:11:37.017] ALKAR: meditation is one of our most sacred ceremonies.
+[00:11:41.417 --> 00:11:42.697] ALKAR: Hold the stone like this.
+[00:11:44.377 --> 00:11:47.817] ALKAR: Rohm gah sevi rohm.
+[00:11:48.077 --> 00:11:49.097] ALKAR: Say after me.
+[00:11:49.097 --> 00:11:51.177] ALKAR: An end
+[00:11:51.917 --> 00:11:52.728] ALKAR: to grief.
+[00:11:52.728 --> 00:11:54.351] TROI: An end to grief.
+[00:11:54.351 --> 00:11:55.974] ALKAR: An end to pain.
+[00:11:55.974 --> 00:11:57.597] TROI: An end to pain.
+[00:11:58.397 --> 00:11:59.997] ALKAR: Strength comes from love.
+[00:12:00.717 --> 00:12:02.850] TROI: Strength comes from love.
+[00:12:02.850 --> 00:12:04.984] ALKAR: And courage from wisdom.
+[00:12:04.984 --> 00:12:07.117] TROI: And courage from wisdom.
+[00:12:21.437 --> 00:12:21.757] ALKAR: Thank you.
+[00:12:47.997 --> 00:12:49.597] TROI: Computer today's appointment calendar.
+[00:12:50.637 --> 00:12:54.157] COMPUTER: Oh nine hundred hours, counselling session with Ensign Janeway.
+[00:12:55.277 --> 00:12:57.597] COMPUTER: Ten hundred hours, counselling session with
+[00:12:57.597 --> 00:12:58.157] TROI: Cancel them.
+[00:12:59.277 --> 00:13:00.557] TROI: Cancel everything till after lunch.
+[00:13:01.197 --> 00:13:01.997] COMPUTER: Acknowledged.
+[00:13:03.837 --> 00:13:03.837] PICARD: You
+[00:13:13.757 --> 00:13:14.637] PICARD: wanted to see me, Doctor?
+[00:13:15.117 --> 00:13:15.757] CRUSHER: Yes, Captain.
+[00:13:15.917 --> 00:13:17.597] CRUSHER: I'm sorry to bother you, but I'm a little concerned.
+[00:13:18.317 --> 00:13:20.157] CRUSHER: I haven't been able to determine the cause of death.
+[00:13:21.037 --> 00:13:26.237] CRUSHER: She was elderly. and Alkar said she had been ill, but I found no evidence of any disease.
+[00:13:27.144 --> 00:13:32.264] CRUSHER: I did find abnormally high levels of neurotransmitter residue in her cerebral cortex.
+[00:13:32.824 --> 00:13:33.544] PICARD: What are you suggesting?
+[00:13:35.064 --> 00:13:36.264] CRUSHER: I'd like to do an autopsy.
+[00:13:36.824 --> 00:13:40.584] CRUSHER: I've already spoken to Alkar, and he informs me that Lumerian custom forbids it.
+[00:13:41.304 --> 00:13:44.744] CRUSHER: Could you speak with him?
+[00:13:45.384 --> 00:13:48.184] PICARD: Do you suspect that her death poses some kind of threat to the Enterprise?
+[00:13:49.544 --> 00:13:49.864] CRUSHER: Well,
+[00:13:51.864 --> 00:13:53.864] CRUSHER: no.
+[00:13:56.504 --> 00:13:58.904] PICARD: Then we have no alternative but to concur with his
+[00:14:00.584 --> 00:14:02.584] PICARD: wishes.
+[00:15:31.351 --> 00:15:31.751] ALKAR: Deanna.
+[00:15:33.031 --> 00:15:33.351] TROI: Hello.
+[00:15:34.551 --> 00:15:37.191] ALKAR: Come in, please.
+[00:15:40.791 --> 00:15:42.311] TROI: I thought you might like some company,
+[00:15:43.351 --> 00:15:44.231] TROI: if you're not too busy.
+[00:15:45.831 --> 00:15:46.151] ALKAR: Nothing
+[00:15:46.151 --> 00:15:46.871] ALKAR: that can't wait.
+[00:15:48.311 --> 00:15:50.231] ALKAR: Would you like something to drink?
+[00:15:51.591 --> 00:15:51.831] TROI: No.
+[00:15:54.311 --> 00:15:55.511] TROI: I'd like you to talk to me.
+[00:15:57.111 --> 00:15:57.351] ALKAR: About?
+[00:15:59.031 --> 00:15:59.591] TROI: About you.
+[00:16:01.511 --> 00:16:02.871] TROI: I don't know anything about you. And
+[00:16:04.791 --> 00:16:05.271] TROI: I'd like to.
+[00:16:05.271 --> 00:16:07.991] ALKAR: There's not much to know.
+[00:16:07.991 --> 00:16:10.471] ALKAR: I lead a very simple life.
+[00:16:13.431 --> 00:16:14.951] TROI: What kind of woman do you find attractive?
+[00:16:14.951 --> 00:16:14.951] TROI: Do
+[00:16:18.871 --> 00:16:20.071] TROI: you find me attractive?
+[00:16:20.631 --> 00:16:22.631] ALKAR: Extremely.
+[00:16:25.031 --> 00:16:27.431] TROI: And when you find someone attractive, what do you usually do?
+[00:16:31.901 --> 00:16:35.261] ALKAR: That depends on a lot of things.
+[00:16:37.581 --> 00:16:39.421] TROI: Is it really so complicated?
+[00:16:39.421 --> 00:16:39.421] ALKAR: It
+[00:16:43.901 --> 00:16:44.301] ALKAR: can be.
+[00:16:46.301 --> 00:16:49.581] TROI: Well, perhaps you over think things.
+[00:16:57.341 --> 00:16:57.741] ALKAR: Deanna.
+[00:17:00.381 --> 00:17:00.861] TROI: Yes?
+[00:17:03.501 --> 00:17:06.541] ALKAR: I'm sorry. If I led you to believe? You
+[00:17:09.821 --> 00:17:10.541] ALKAR: are very beautiful,
+[00:17:13.901 --> 00:17:14.781] ALKAR: but our relationship
+[00:17:16.461 --> 00:17:17.581] ALKAR: can't be like that.
+[00:17:36.541 --> 00:17:36.781] ENSIGN: Deck four.
+[00:18:07.952 --> 00:18:08.072] CREWMAN: Sir.
+[00:18:08.072 --> 00:18:08.192] TROI: Will.
+[00:18:10.432 --> 00:18:12.672] RIKER: We were supposed to finish the crew evaluation reports.
+[00:18:13.392 --> 00:18:13.952] TROI: Of course. Come in.
+[00:18:18.672 --> 00:18:18.912] ENSIGN: Sir!
+[00:18:20.352 --> 00:18:21.312] RIKER: As you were.
+[00:18:21.312 --> 00:18:21.952] ENSIGN: Yes, sir.
+[00:18:22.352 --> 00:18:22.912] ENSIGN: Thank you, sir.
+[00:18:23.392 --> 00:18:24.112] ENSIGN: I was just leaving.
+[00:18:24.992 --> 00:18:27.472] TROI: If there's anything else I need, I know where to find you.
+[00:18:28.672 --> 00:18:28.992] ENSIGN: Yes, ma'am.
+[00:18:35.392 --> 00:18:36.912] TROI: Are you bothered by his being here?
+[00:18:36.912 --> 00:18:36.912] RIKER: Of
+[00:18:38.592 --> 00:18:38.992] RIKER: course not.
+[00:18:39.392 --> 00:18:41.392] TROI: Good. Because it's really none of your business.
+[00:18:42.192 --> 00:18:42.512] RIKER: I know that.
+[00:18:44.752 --> 00:18:48.032] RIKER: I believe we were with Lieutenant Fratis i n molecular biology.
+[00:18:48.992 --> 00:18:50.192] TROI: Why do I think you're upset?
+[00:18:51.472 --> 00:18:51.792] RIKER: I don't know.
+[00:18:53.632 --> 00:18:55.072] RIKER: Could we just continue with the evaluation?
+[00:18:56.592 --> 00:18:58.752] TROI: Will, remember who you're talking to.
+[00:18:59.872 --> 00:19:01.152] TROI: You are bothered, I can tell.
+[00:19:03.312 --> 00:19:04.512] RIKER: Deanna, I'm sorry I intruded.
+[00:19:06.912 --> 00:19:08.352] RIKER: When you're ready to work, why don't you give me a call.
+[00:19:09.152 --> 00:19:09.632] TROI: I will.
+[00:19:19.952 --> 00:19:23.152] LOG: Captain's log, stardate 46073.6.
+[00:19:23.712 --> 00:19:29.872] LOG: We have arrived without incident at Rekag-Seronia, where two members of Ambassador Alkar's delegation have been waiting.
+[00:19:30.432 --> 00:19:33.312] LOG: They have joined us to report on the situation in the capital city.
+[00:19:34.975 --> 00:19:36.495] JARTH: Things have deteriorated steadily.
+[00:19:37.055 --> 00:19:39.764] JARTH: Rekag sympathisers in outlying districts have attacked several towns.
+[00:19:39.764 --> 00:19:43.375] PICARD: But I was under the impression there was a cease fire agreement.
+[00:19:43.375 --> 00:19:45.215] JARTH: It was broken before it went into effect.
+[00:19:45.615 --> 00:19:49.375] JARTH: A Rekag shuttle strayed into Seronian space and was destroyed by fighter craft.
+[00:19:49.775 --> 00:19:51.855] LIVA: Naturally, the Rekags retaliated.
+[00:19:52.335 --> 00:19:53.775] LIVA: There's been fighting ever since.
+[00:19:55.295 --> 00:19:57.135] ALKAR: If they would just sit down with me.
+[00:19:57.135 --> 00:20:01.855] JARTH: The Rekags won't go into Seronian territory for talks. And the Seronians won't go to Rekag.
+[00:20:02.335 --> 00:20:03.615] JARTH: In the meantime, they fight.
+[00:20:04.095 --> 00:20:06.255] PICARD: Ambassador, the situation sounds so volatile.
+[00:20:06.255 --> 00:20:08.415] PICARD: Perhaps a cooling off period?
+[00:20:08.735 --> 00:20:10.495] ALKAR: These people need an end to the fighting now.
+[00:20:11.135 --> 00:20:16.015] ALKAR: To delay a week, even a few days, could cost thousands of lives.
+[00:20:16.335 --> 00:20:20.255] PICARD: Then I would recommend that we ask both sides if they would agree to meet in the city of Darthen.
+[00:20:20.655 --> 00:20:21.375] LIVA: Why Darthen?
+[00:20:22.175 --> 00:20:24.815] PICARD: It's a coastal city that has been neutral throughout the conflict.
+[00:20:25.055 --> 00:20:27.615] PICARD: Both Seronians and Rekag loyalists live there.
+[00:20:28.335 --> 00:20:29.935] PICARD: It might be acceptable as a compromise.
+[00:20:31.455 --> 00:20:32.335] ALKAR: Contact the leaders.
+[00:20:33.135 --> 00:20:36.015] ALKAR: If they'll meet me in Darthen, I will join them there tomorrow.
+[00:20:37.295 --> 00:20:43.215] JANEWAY: I know it must be my imagination, but it seems as though Lieutenant Pinder just doesn't want me in his section.
+[00:20:43.615 --> 00:20:44.495] TROI: What makes you think that?
+[00:20:45.375 --> 00:20:46.415] JANEWAY: He's so critical.
+[00:20:46.895 --> 00:20:49.455] JANEWAY: I can't ever do anything to please him and I try, Counsellor,
+[00:20:49.775 --> 00:20:52.415] JANEWAY: I try to make sure there's nothing he could find fault with.
+[00:20:53.055 --> 00:20:54.335] TROI: Give me an example of what you mean.
+[00:20:54.895 --> 00:20:58.815] JANEWAY: Well, yesterday I was running routine diagnostics on the sensor pallets.
+[00:20:59.055 --> 00:21:04.415] JANEWAY: They checked out, but Lieutenant Pinder questioned me because I'd allowed a point oh two three variance.
+[00:21:04.996 --> 00:21:06.676] JANEWAY: That's well within specifications.
+[00:21:07.476 --> 00:21:09.636] JANEWAY: He goes out of his way to criticise me.
+[00:21:10.036 --> 00:21:12.276] TROI: Do you know of any reason why he might do that?
+[00:21:12.916 --> 00:21:13.476] JANEWAY: No,
+[00:21:14.196 --> 00:21:15.156] JANEWAY: that's why I'm here.
+[00:21:16.676 --> 00:21:20.116] TROI: Well, maybe he's just tired of hearing you complain.
+[00:21:21.316 --> 00:21:21.716] JANEWAY: Pardon me?
+[00:21:22.436 --> 00:21:24.036] TROI: I know I'm certainly tired of it.
+[00:21:25.316 --> 00:21:29.636] TROI: How do you think it feels to sit and listen to someone whine about themselves all the time?
+[00:21:31.396 --> 00:21:32.996] JANEWAY: I didn't realise I was
+[00:21:32.996 --> 00:21:34.836] TROI: This isn't Starfleet Academy.
+[00:21:35.476 --> 00:21:36.836] TROI: You're not going to be coddled.
+[00:21:38.116 --> 00:21:41.636] TROI: If you can't take it here, then you might think about a transport ship.
+[00:21:42.276 --> 00:21:43.396] TROI: There's a lot less pressure there.
+[00:21:44.196 --> 00:21:45.956] JANEWAY: But I love being on the Enterprise
+[00:21:46.436 --> 00:21:47.796] JANEWAY: I don't want to be anywhere else.
+[00:21:48.276 --> 00:21:51.556] TROI: If you aren't up to it then you don't deserve to be here.
+[00:21:52.276 --> 00:21:52.916] TROI: Isn't that right?
+[00:21:54.356 --> 00:21:54.996] JANEWAY: I guess so.
+[00:21:55.636 --> 00:21:59.956] TROI: So you'd better take a hold of yourself, or be prepared for a transfer.
+[00:22:01.876 --> 00:22:02.596] JANEWAY: I will, Counsellor.
+[00:22:04.116 --> 00:22:04.516] JANEWAY: Thank you.
+[00:22:09.076 --> 00:22:09.716] TROI: Glad I could help.
+[00:22:21.556 --> 00:22:24.116] LAFORGE: Yeah, here we go.
+[00:22:25.236 --> 00:22:27.316] LAFORGE: Biofilter log on Sev Maylor.
+[00:22:32.516 --> 00:22:34.996] CRUSHER: Geordi, could this log have been damaged in any way?
+[00:22:35.204 --> 00:22:36.564] LAFORGE: I don't think so.
+[00:22:36.804 --> 00:22:37.364] LAFORGE: Why do you ask?
+[00:22:38.324 --> 00:22:42.804] CRUSHER: There's a discrepancy between the log and the tricorder readings I took just three days later.
+[00:22:43.924 --> 00:22:49.284] CRUSHER: The tricorder shows massive physiological deterioration compared with her condition when she beamed aboard.
+[00:22:50.724 --> 00:22:54.724] CRUSHER: I find it hard to believe that so much damage could have occurred in such a short period of time.
+[00:22:56.244 --> 00:22:59.764] LAFORGE: Well I can run a diagnostic of the biofilter system and your tricorder.
+[00:23:00.164 --> 00:23:00.564] CRUSHER: Thanks.
+[00:23:01.204 --> 00:23:04.404] CRUSHER: Of course, the best way to get the information I need would be to do an autopsy.
+[00:23:15.924 --> 00:23:20.484] RIKER: Ambassador? We've received word from the Seronian and the Rekag delegates.
+[00:23:20.724 --> 00:23:22.484] RIKER: They've agreed to meet with you in Darthen tomorrow.
+[00:23:23.124 --> 00:23:23.604] ALKAR: Thank you, Commander.
+[00:23:32.884 --> 00:23:34.564] DATA: Counsellor Troi has altered her appearance.
+[00:23:37.524 --> 00:23:38.324] TROI: Am I interrupting?
+[00:23:39.524 --> 00:23:40.404] LIVA: Hello, Counsellor.
+[00:23:43.284 --> 00:23:44.004] TROI: You want him.
+[00:23:44.564 --> 00:23:47.124] TROI: I can tell. But you have nothing to give him.
+[00:23:47.444 --> 00:23:48.804] ALKAR: Deanna, could I talk to you in private.
+[00:23:49.044 --> 00:23:49.604] TROI: And you.
+[00:23:50.644 --> 00:23:51.604] TROI: You're envious of him.
+[00:23:52.324 --> 00:23:55.124] TROI: You pretend to support him, but secretly you want him to fail.
+[00:23:55.524 --> 00:23:56.164] JARTH: That's not so.
+[00:23:56.964 --> 00:23:57.364] ALKAR: Please,
+[00:23:58.724 --> 00:23:59.924] ALKAR: you must return to your quarters.
+[00:23:59.924 --> 00:24:00.324] TROI: I won't.
+[00:24:00.324 --> 00:24:01.864] TROI: I want to be here, with you.
+[00:24:01.864 --> 00:24:02.084] RIKER: Ambassador,
+[00:24:04.026 --> 00:24:05.786] RIKER: the Counsellor and I are needed on the Bridge.
+[00:24:07.866 --> 00:24:08.506] ALKAR: Of course, Commander.
+[00:24:18.986 --> 00:24:21.626] RIKER: I don't know what you thought you were doing in there, but you were way out of line.
+[00:24:23.226 --> 00:24:23.706] RIKER: Deck nine.
+[00:24:29.466 --> 00:24:30.106] RIKER: All right, Deanna,
+[00:24:30.826 --> 00:24:32.586] RIKER: just what the hell is all this?
+[00:24:34.266 --> 00:24:34.346] TROI: Imzadi,
+[00:24:37.066 --> 00:24:38.266] TROI: do you still care about me?
+[00:24:38.906 --> 00:24:40.186] RIKER: Of course I care about you.
+[00:24:40.986 --> 00:24:42.026] RIKER: I'm worried about you.
+[00:24:43.466 --> 00:24:44.106] RIKER: What's all this?
+[00:24:45.146 --> 00:24:46.266] TROI: Don't you think I'm attractive?
+[00:24:48.506 --> 00:24:49.546] RIKER: This just isn't you.
+[00:24:51.866 --> 00:24:52.586] TROI: Oh, it is.
+[00:24:55.226 --> 00:24:56.266] TROI: You want me, don't you?
+[00:24:58.506 --> 00:24:58.826] RIKER: Deanna.
+[00:24:59.466 --> 00:25:00.026] TROI: I need you.
+[00:25:02.266 --> 00:25:04.266] RIKER: What
+[00:25:07.146 --> 00:25:07.786] RIKER: is this?
+[00:25:07.786 --> 00:25:07.946] TROI: Please!
+[00:25:07.946 --> 00:25:08.159] TROI: Come in.
+[00:25:08.159 --> 00:25:08.266] ALKAR: Deanna,
+[00:25:32.744 --> 00:25:33.784] ALKAR: I'm leaving for the surface.
+[00:25:38.504 --> 00:25:39.864] TROI: You said you'd take me with you.
+[00:25:40.584 --> 00:25:40.824] ALKAR: I know,
+[00:25:43.464 --> 00:25:44.584] ALKAR: but that's not possible now.
+[00:25:45.304 --> 00:25:46.584] TROI: You told me I'd be helpful.
+[00:25:47.144 --> 00:25:47.864] TROI: You needed me.
+[00:25:47.864 --> 00:25:48.824] ALKAR: And I still do.
+[00:25:49.624 --> 00:25:50.584] ALKAR: You've done so much for me.
+[00:25:51.544 --> 00:25:52.264] TROI: Then take me.
+[00:25:52.264 --> 00:25:53.224] TROI: Don't leave me here.
+[00:25:57.384 --> 00:25:58.744] TROI: Is Liva going with you?
+[00:25:59.544 --> 00:26:00.904] ALKAR: She's been on Seronia for weeks.
+[00:26:01.624 --> 00:26:03.384] ALKAR: She knows the people, the situation.
+[00:26:04.024 --> 00:26:05.464] TROI: She wants to take you away from me.
+[00:26:07.784 --> 00:26:09.944] ALKAR: Deanna, you are my anchor.
+[00:26:11.704 --> 00:26:13.784] ALKAR: I need you more than you can possibly realise.
+[00:26:13.784 --> 00:26:14.344] ALKAR: Do you understand that?
+[00:26:15.224 --> 00:26:18.584] ALKAR: I need you here, making it possible for me to do my work.
+[00:26:19.944 --> 00:26:21.144] TROI: I won't let her have you!
+[00:26:21.704 --> 00:26:22.424] TROI: I'll stop her!
+[00:26:29.864 --> 00:26:30.904] TROI: I will go with you.
+[00:26:31.304 --> 00:26:33.544] TROI: Take me with you. Please, Alkar.
+[00:26:33.944 --> 00:26:35.064] TROI: Don't leave me.
+[00:26:36.344 --> 00:26:36.664] TROI: Don't do
+[00:26:38.664 --> 00:26:40.664] TROI: this!
+[00:26:40.664 --> 00:26:40.664] TROI: No!
+[00:26:44.504 --> 00:26:52.104] RIKER: You wouldn't have recognised her. Her dress, her hair, everything about her.
+[00:26:52.104 --> 00:26:56.184] RIKER: I'm closer to Deanna than I've ever been to anyone, but
+[00:26:56.424 --> 00:26:59.864] RIKER: last night she was someone that I had never seen before.
+[00:27:02.024 --> 00:27:05.224] CRUSHER: And you don't know of anything that might have caused her to behave like that?
+[00:27:05.544 --> 00:27:06.904] RIKER: No. I've thought and
+[00:27:06.929 --> 00:27:07.969] RIKER: thought about it. I don't have an answer.
+[00:27:10.609 --> 00:27:13.676] CRUSHER: Computer, location of Counsellor Troi.
+[00:27:13.676 --> 00:27:16.129] COMPUTER: Deck six, corridor B.
+[00:27:16.129 --> 00:27:16.769] CRUSHER: Let's go.
+[00:27:23.249 --> 00:27:29.329] PICARD: Ambassador, I came to alert you that the Rekags and the Seronians are in disagreement about the seating arrangements at the conference table.
+[00:27:29.809 --> 00:27:30.689] ALKAR: I'm not surprised.
+[00:27:31.169 --> 00:27:34.209] PICARD: The good news, however, is that the cease fire seems to be holding.
+[00:27:35.569 --> 00:27:38.289] ALKAR: And that is by far the best news.
+[00:27:38.929 --> 00:27:39.489] ALKAR: Thank you, Captain.
+[00:27:40.289 --> 00:27:40.529] PICARD: Chief.
+[00:27:43.249 --> 00:27:44.369] TROI: Will you take me with you?
+[00:27:46.049 --> 00:27:46.049] PICARD: Deanna?
+[00:27:46.049 --> 00:27:48.049] ALKAR: Deanna, I've already told you I can't
+[00:27:48.129 --> 00:27:49.249] TROI: I won't let her have you
+[00:27:52.609 --> 00:27:52.769] PICARD: Security
+[00:28:01.489 --> 00:28:02.529] PICARD: to Transporter room two.
+[00:28:10.449 --> 00:28:10.689] TROI: Don't try and
+[00:28:10.715 --> 00:28:10.795] TROI: stop me!
+[00:28:10.822 --> 00:28:11.076] TROI: No, no, let go!
+[00:28:11.076 --> 00:28:11.329] PICARD: It's nothing, it's superficial.
+[00:28:12.769 --> 00:28:13.569] PICARD: What happened to Deanna?
+[00:28:15.009 --> 00:28:17.089] CRUSHER: All of the systems in her body have elevated readings.
+[00:28:17.169 --> 00:28:17.889] CRUSHER: Take her to Sickbay.
+[00:28:19.249 --> 00:28:21.311] CRUSHER: I want to see you in Sickbay too.
+[00:28:21.311 --> 00:28:21.569] ALKAR: Captain,
+[00:28:22.769 --> 00:28:24.769] ALKAR: perhaps we should delay transporting to the surface.
+[00:28:25.089 --> 00:28:25.329] PICARD: No.
+[00:28:26.449 --> 00:28:27.489] PICARD: You should proceed with your mission.
+[00:28:28.849 --> 00:28:29.471] ALKAR: Very well.
+[00:28:29.471 --> 00:28:31.649] PICARD: Chief, transport them to the planet surface.
+[00:28:32.129 --> 00:28:32.369] CHIEF: Aye, sir.
+[00:28:35.649 --> 00:28:36.449] CRUSHER: We'll have to sedate her.
+[00:28:36.689 --> 00:28:37.889] CRUSHER: Twenty cc's of melorazine.
+[00:28:38.049 --> 00:28:38.449] OGAWA: Yes, Doctor.
+[00:28:42.550 --> 00:28:43.190] CRUSHER: How's it feeling?
+[00:28:43.510 --> 00:28:46.310] PICARD: It's a little stiff, but it'll be fine.
+[00:28:46.710 --> 00:28:47.590] CRUSHER: It'll disappear in a day or two.
+[00:28:48.150 --> 00:28:50.870] OGAWA: Doctor Crusher? I think you should see these readings, Doctor.
+[00:28:51.750 --> 00:28:54.390] OGAWA: Her neurotransmitter levels are three hundred percent above normal.
+[00:29:00.790 --> 00:29:06.870] CRUSHER: If you remember, I found extremely high levels of neurotransmitter residue in Alkar's mother.
+[00:29:08.310 --> 00:29:10.070] PICARD: Could Deanna have picked up some kind of disease from her?
+[00:29:10.390 --> 00:29:10.710] CRUSHER: I don't know.
+[00:29:11.670 --> 00:29:13.350] CRUSHER: I need to do that autopsy.
+[00:29:14.470 --> 00:29:16.790] CRUSHER: I don't care about the customs of Alkar's people.
+[00:29:17.270 --> 00:29:21.190] CRUSHER: I need to find out if there's a connection between what killed Maylor and what's happening to Troi.
+[00:29:24.390 --> 00:29:25.270] PICARD: Picard to Lieutenant Worf.
+[00:29:25.750 --> 00:29:26.550] WORF: Worf here, Captain.
+[00:29:27.590 --> 00:29:27.990] PICARD: Mister Worf,
+[00:29:29.030 --> 00:29:30.390] PICARD: contact Ambassador Alkar.
+[00:29:30.390 --> 00:29:31.510] PICARD: I need to speak with him.
+[00:29:31.670 --> 00:29:34.950] OGAWA: Doctor, neural energy is now three hundred forty percent above normal.
+[00:29:35.750 --> 00:29:40.070] WORF: Captain, Ambassador Alkar is at the negotiation table and cannot be disturbed.
+[00:29:44.630 --> 00:29:45.670] PICARD: Proceed with the autopsy.
+[00:29:47.910 --> 00:29:50.950] LOG: Medical log, stardate 46075.1.
+[00:29:51.750 --> 00:29:58.550] LOG: I have performed an autopsy on Alkar's mother, but instead of answering our questions, the results have created an even deeper mystery.
+[00:29:59.670 --> 00:30:01.510] CRUSHER: I don't have any explanation for this.
+[00:30:02.070 --> 00:30:07.030] CRUSHER: When I examined Maylor's body, I found her heart, her lungs, her skeletal structure,
+[00:30:07.223 --> 00:30:10.663] CRUSHER: most of the systems in her body were those of a thirty year old.
+[00:30:11.863 --> 00:30:12.903] PICARD: But how could that be?
+[00:30:12.983 --> 00:30:13.783] PICARD: We both saw the woman.
+[00:30:14.023 --> 00:30:14.583] CRUSHER: That's not all.
+[00:30:15.063 --> 00:30:17.463] CRUSHER: I compared Maylor and Alkar's DNA.
+[00:30:17.463 --> 00:30:21.943] CRUSHER: I don't know who that woman was, but she was definitely not his mother.
+[00:30:26.423 --> 00:30:28.983] CRUSHER: Deanna's condition is deteriorating rapidly.
+[00:30:29.143 --> 00:30:30.103] CRUSHER: She could die.
+[00:30:31.383 --> 00:30:33.303] CRUSHER: There are questions that only Alkar can answer.
+[00:30:36.263 --> 00:30:37.223] PICARD: Picard to Lieutenant Worf.
+[00:30:37.543 --> 00:30:38.263] WORF: Worf here, Captain.
+[00:30:39.063 --> 00:30:40.343] PICARD: Meet me in Transporter room two.
+[00:30:41.703 --> 00:30:42.663] PICARD: We're going down to the surface.
+[00:30:43.143 --> 00:30:43.543] WORF: Aye, sir.
+[00:30:50.823 --> 00:30:52.023] ALKAR: No, she wasn't my mother.
+[00:30:52.023 --> 00:30:53.703] PICARD: And she wasn't ninety three years old.
+[00:30:55.543 --> 00:30:58.583] ALKAR: Captain, did you perform an autopsy against my wishes?
+[00:30:58.743 --> 00:31:00.663] PICARD: Yes, for a very good reason.
+[00:31:00.903 --> 00:31:03.223] PICARD: Counsellor Deanna Troi is in Sickbay, dying.
+[00:31:04.023 --> 00:31:07.223] PICARD: Doctor Crusher doesn't know the cause of her condition, but I believe you do.
+[00:31:08.583 --> 00:31:10.023] LIVA: Alkar, we need you.
+[00:31:10.903 --> 00:31:15.623] LIVA: The Rekags have withdrawn some of their concessions and the Seronians are threatening to break off the talks.
+[00:31:16.103 --> 00:31:16.743] ALKAR: I'll be right there.
+[00:31:17.223 --> 00:31:17.383] LIVA: But
+[00:31:20.343 --> 00:31:23.543] ALKAR: They've been arguing for hours in there.
+[00:31:24.503 --> 00:31:25.223] ALKAR: It seems hopeless.
+[00:31:26.663 --> 00:31:31.863] ALKAR: But now, when expectations are lowest, now is the moment I can be most effective.
+[00:31:33.455 --> 00:31:39.775] ALKAR: If I'm focused, centred, free of disquieting thoughts, I can turn these factions toward peace.
+[00:31:39.855 --> 00:31:40.255] PICARD: Alkar
+[00:31:40.415 --> 00:31:41.055] ALKAR: Hear me out, Captain.
+[00:31:41.535 --> 00:31:42.575] ALKAR: It's important you understand.
+[00:31:50.015 --> 00:31:58.815] ALKAR: You see, I discovered long ago I had the ability to channel my darker thoughts, my unwanted emotions, to others, leaving me unencumbered.
+[00:32:01.375 --> 00:32:02.975] PICARD: Is this what you've done to Counsellor Troi?
+[00:32:04.735 --> 00:32:05.535] ALKAR: I hadn't planned it.
+[00:32:06.495 --> 00:32:09.375] ALKAR: I'd expected Maylor to live through the negotiation.
+[00:32:10.175 --> 00:32:11.535] ALKAR: Her death could not have been more untimely.
+[00:32:12.575 --> 00:32:14.415] PICARD: So then you deliberately used Deanna.
+[00:32:16.175 --> 00:32:16.815] ALKAR: She's an empath.
+[00:32:18.335 --> 00:32:20.495] ALKAR: I was reasonably certain I could establish a link with her.
+[00:32:21.375 --> 00:32:23.695] ALKAR: Frankly, I was amazed when I saw how quickly she'd aged.
+[00:32:24.335 --> 00:32:26.095] ALKAR: Usually my receptacles survive for years.
+[00:32:27.375 --> 00:32:28.255] PICARD: Receptacles?
+[00:32:29.135 --> 00:32:29.855] ALKAR: Come now, Captain.
+[00:32:31.775 --> 00:32:33.935] ALKAR: Surely you can see there's a broader canvas here.
+[00:32:34.975 --> 00:32:42.575] ALKAR: If I came to these peace talks hindered by unwanted emotions, the Rekags and Seronians would be condemned to go on fighting
+[00:32:43.215 --> 00:32:51.215] PICARD: You cannot explain away a wantonly immoral act because you think it is connected to some higher purpose.
+[00:32:53.215 --> 00:32:58.575] ALKAR: Captain. do you know how many people have died on this planet in the last forty eight hours?
+[00:32:59.364 --> 00:32:59.924] ALKAR: Thousands.
+[00:33:01.524 --> 00:33:03.588] ALKAR: Deanna Troi is just one individual.
+[00:33:03.588 --> 00:33:08.404] PICARD: That does not justify brutalising her, nor any of the others you have used.
+[00:33:10.484 --> 00:33:14.004] ALKAR: Ask the Seronian and Rekag children who go to bed each night in fear of their lives.
+[00:33:15.684 --> 00:33:16.644] ALKAR: Captain, I get no payment,
+[00:33:17.604 --> 00:33:19.764] ALKAR: I have no power base, no agenda.
+[00:33:20.964 --> 00:33:23.604] ALKAR: I am willing to risk my life simply to help others.
+[00:33:24.084 --> 00:33:26.084] PICARD: Do you think that makes you appear courageous?
+[00:33:27.044 --> 00:33:27.924] PICARD: Because you're mistaken.
+[00:33:29.604 --> 00:33:30.644] PICARD: You're a coward, Alkar.
+[00:33:31.684 --> 00:33:40.164] PICARD: You exploit the innocent because you're unwilling to shoulder the burdens of unpleasant emotions.
+[00:33:41.364 --> 00:33:43.684] PICARD: Well, this time you will be held accountable.
+[00:33:45.044 --> 00:33:47.684] PICARD: I'm taking you back to the Enterprise to release Counsellor Troi.
+[00:33:48.084 --> 00:33:50.324] ALKAR: I have no intention of releasing her now or ever.
+[00:33:51.044 --> 00:33:53.764] LIVA: Alkar, everything is falling apart.
+[00:33:54.004 --> 00:33:54.964] LIVA: You have to come now.
+[00:33:56.884 --> 00:33:58.004] ALKAR: If you'll excuse me, Captain.
+[00:33:58.404 --> 00:33:58.564] PICARD: Mister
+[00:33:58.564 --> 00:33:58.884] PICARD: Worf.
+[00:34:04.484 --> 00:34:05.044] ALKAR: I'm needed.
+[00:34:05.684 --> 00:34:07.604] LIVA: You and your Security Chief will leave.
+[00:34:30.480 --> 00:34:31.280] PICARD: Lock on to Alkar's signal.
+[00:34:31.360 --> 00:34:32.576] PICARD: Bring him on board.
+[00:34:32.576 --> 00:34:32.880] WORF: Captain,
+[00:34:33.200 --> 00:34:35.680] WORF: I am sure the Seronians have re-activated their security field.
+[00:34:35.840 --> 00:34:37.920] PICARD: Then work with Mister La Forge to find a way to break through it.
+[00:34:38.000 --> 00:34:39.120] PICARD: I want that man on this ship.
+[00:34:39.360 --> 00:34:39.627] WORF: Aye, sir.
+[00:34:39.627 --> 00:34:40.160] PICARD: I'll be in Sickbay.
+[00:34:43.680 --> 00:34:49.360] CRUSHER: If Alkar is flooding her with this psychic waste, that would explain the high level of neurotransmitters.
+[00:34:50.000 --> 00:34:54.400] CRUSHER: All these negative emotions pouring into her have caused an abnormal chemical response in her brain.
+[00:34:54.880 --> 00:34:56.320] RIKER: Isn't there something you can do to counteract it?
+[00:34:56.800 --> 00:35:03.920] CRUSHER: Enzymic decontaminants will be able to reduce the level of the neurotransmitters, but I can't make any headway unless Alkar stops what he's doing.
+[00:35:04.320 --> 00:35:05.520] PICARD: He has no intention of stopping.
+[00:35:06.400 --> 00:35:09.440] PICARD: He feels perfectly justified in using her until she dies.
+[00:35:10.560 --> 00:35:11.520] CRUSHER: Then Deanna has to die.
+[00:35:13.760 --> 00:35:21.120] CRUSHER: In order to save Deanna, Alkar has to break his link with her. And the only he'll do that is if she's no longer an adequate receptacle.
+[00:35:22.000 --> 00:35:24.800] CRUSHER: When Maylor died, Alkar turned immediately to Deanna.
+[00:35:24.950 --> 00:35:25.550] PICARD: If
+[00:35:26.320 --> 00:35:28.800] PICARD: Deanna dies, and he breaks the link with her,
+[00:35:28.800 --> 00:35:32.240] PICARD: then he will choose someone else, possibly someone from his own delegation.
+[00:35:32.240 --> 00:35:32.640] RIKER: Wait a minute.
+[00:35:32.640 --> 00:35:34.720] RIKER: You're talking about killing Deanna!
+[00:35:34.960 --> 00:35:38.560] CRUSHER: I'll be able to resuscitate her, Will, as long as it's not more than thirty minutes.
+[00:35:38.960 --> 00:35:40.960] CRUSHER: The big question is, will that be enough time?
+[00:35:41.360 --> 00:35:46.320] CRUSHER: Alkar has to establish a link with someone else before we revive Deanna, or else he might turn back to her.
+[00:35:47.200 --> 00:35:50.320] PICARD: We must bear in mind that we'll be putting his next victim at risk.
+[00:35:52.160 --> 00:35:56.320] PICARD: I want every possible security measure taken to protect that person.
+[00:35:58.767 --> 00:35:59.487] RIKER: How will you?
+[00:36:00.527 --> 00:36:02.127] CRUSHER: I'll give her a hypospray of dylamadon.
+[00:36:02.287 --> 00:36:03.247] CRUSHER: It's the gentlest way.
+[00:36:04.767 --> 00:36:05.407] PICARD: Proceed, Doctor.
+[00:36:21.647 --> 00:36:22.207] ALKAR: Well, my friend, an
+[00:36:23.727 --> 00:36:25.247] ALKAR: era of conflict
+[00:36:25.887 --> 00:36:26.447] ALKAR: and bloodshed appears to be over.
+[00:36:26.597 --> 00:36:27.197] LIVA: Alkar.
+[00:36:28.527 --> 00:36:28.927] JARTH: What is it?
+[00:36:30.287 --> 00:36:30.607] ALKAR: I'm fine.
+[00:36:31.327 --> 00:36:32.447] ALKAR: Just a little light-headed.
+[00:36:32.687 --> 00:36:33.647] LIVA: You're exhausted.
+[00:36:33.647 --> 00:36:34.527] JARTH: Do you want a doctor?
+[00:36:35.407 --> 00:36:36.447] ALKAR: No of course not.
+[00:36:37.007 --> 00:36:38.527] PICARD: Enterprise to Ambassador Alkar.
+[00:36:39.007 --> 00:36:39.727] PICARD: Respond, sir.
+[00:36:41.327 --> 00:36:41.967] ALKAR: I'm here, Captain.
+[00:36:42.687 --> 00:36:45.007] PICARD: Ambassador, You must return to the Enterprise immediately.
+[00:36:45.007 --> 00:36:46.767] PICARD: Counsellor Troi is dying.
+[00:36:47.167 --> 00:36:50.687] PICARD: We are prepared to transport you from the surface whether you come willingly or not.
+[00:36:51.247 --> 00:36:53.327] JARTH: There are security force fields protecting us, Captain.
+[00:36:53.567 --> 00:36:54.687] PICARD: They won't protect you any longer.
+[00:36:55.087 --> 00:36:56.527] PICARD: Transporter room two, prepare to energise.
+[00:36:58.607 --> 00:36:59.327] ALKAR: We're ready, Captain.
+[00:37:13.007 --> 00:37:14.207] CRUSHER: Computer, make a note.
+[00:37:14.607 --> 00:37:17.727] CRUSHER: Death occurred at fourteen thirty hours from respiratory and renal failure.
+[00:37:17.887 --> 00:37:18.767] ALKAR: Will you wait for
+[00:37:20.687 --> 00:37:21.407] ALKAR: me in my quarters?
+[00:37:21.807 --> 00:37:22.367] LIVA: Of course.
+[00:37:31.727 --> 00:37:32.687] ALKAR: It's a tragic loss,
+[00:37:33.487 --> 00:37:34.447] ALKAR: but her death had a purpose.
+[00:37:34.447 --> 00:37:36.847] PICARD: I intend to make certain that you answer for what you have done.
+[00:37:37.807 --> 00:37:41.807] ALKAR: Your own Federation Council has granted me safe and timely passage back to my planet.
+[00:37:42.847 --> 00:37:44.207] ALKAR: I expect you to honour that, Captain.
+[00:37:44.367 --> 00:37:44.367] RIKER: How
+[00:37:58.367 --> 00:37:59.247] RIKER: much longer do we have?
+[00:37:59.327 --> 00:38:00.447] CRUSHER: Three minutes and forty seconds.
+[00:38:00.447 --> 00:38:01.487] PICARD: Picard to Transporter Room Two
+[00:38:01.887 --> 00:38:04.847] PICARD: lock on to the young woman in Ambassador Alkar's quarters.
+[00:38:04.847 --> 00:38:06.207] PICARD: We may have to transport her out of there.
+[00:38:06.367 --> 00:38:06.847] CHIEF: Yes, Captain.
+[00:38:07.167 --> 00:38:09.727] PICARD: Mister Worf, I want you to station yourself outside her quarters.
+[00:38:09.967 --> 00:38:10.287] WORF: Aye, sir.
+[00:38:22.207 --> 00:38:25.247] ALKAR: She helped me so much.
+[00:38:28.447 --> 00:38:31.807] ALKAR: Without her, I couldn't have accomplished what I did.
+[00:38:33.167 --> 00:38:34.127] LIVA: I'm so sorry.
+[00:38:35.967 --> 00:38:37.567] LIVA: Is there anything I can do?
+[00:38:42.047 --> 00:38:42.367] ALKAR: Yes,
+[00:38:45.407 --> 00:38:45.887] ALKAR: there is something.
+[00:38:49.887 --> 00:38:52.287] ALKAR: If we could share the funeral meditation.
+[00:38:55.007 --> 00:38:57.807] CRUSHER: We have a minute and a half left.
+[00:38:58.367 --> 00:38:59.647] CRUSHER: Prepare a hypospray of cordrazine.
+[00:39:00.309 --> 00:39:02.309] CRUSHER: We'll use that in conjunction with the cortical stimulator.
+[00:39:02.389 --> 00:39:02.789] OGAWA: Yes, Doctor.
+[00:39:04.309 --> 00:39:08.109] ALKAR: Rohm gah sevi rohm. Rohm gah.
+[00:39:08.109 --> 00:39:11.909] LIVA: Rohm gah sevi rohm. Rohm gah.
+[00:39:19.109 --> 00:39:19.989] CRUSHER: We can't wait any longer.
+[00:39:22.389 --> 00:39:23.429] CRUSHER: Release the stasis field.
+[00:39:23.669 --> 00:39:23.936] CRUSHER: Ten cc's of cordrazine.
+[00:39:23.936 --> 00:39:24.069] OGAWA: Yes, doctor.
+[00:39:24.869 --> 00:39:25.829] CRUSHER: Ten cc's cordrazine.
+[00:39:30.949 --> 00:39:31.749] CRUSHER: Cortical stimulators.
+[00:39:39.429 --> 00:39:39.589] CRUSHER: Now.
+[00:39:43.269 --> 00:39:45.269] ALKAR: An end
+[00:39:45.269 --> 00:39:45.989] ALKAR: An end to pain.
+[00:39:47.269 --> 00:39:48.629] LIVA: An end to pain.
+[00:39:50.549 --> 00:39:50.869] CRUSHER: Again.
+[00:39:53.509 --> 00:39:54.229] OGAWA: She has a pulse.
+[00:39:54.789 --> 00:39:55.589] OGAWA: Blood pressure climbing.
+[00:39:56.149 --> 00:39:56.949] OGAWA: Ninety over forty.
+[00:39:57.189 --> 00:39:58.869] OGAWA: Cortical activity approaching normal levels.
+[00:39:59.829 --> 00:40:01.349] CRUSHER: Let's neutralise the neurotransmitters.
+[00:40:02.069 --> 00:40:03.829] CRUSHER: Initiate decontamination sequence.
+[00:40:04.069 --> 00:40:05.029] OGAWA: Levels are dropping, Doctor.
+[00:40:05.509 --> 00:40:07.189] OGAWA: Down to four hundred and twenty percent above normal.
+[00:40:10.149 --> 00:40:10.949] OGAWA: Three hundred and ninety percent.
+[00:40:12.949 --> 00:40:13.989] PICARD: Picard to Transporter room three
+[00:40:14.869 --> 00:40:15.189] CRUSHER: Not yet.
+[00:40:16.549 --> 00:40:19.189] CRUSHER: We won't know if it's working till the levels are below three hundred percent.
+[00:40:28.869 --> 00:40:29.349] LIVA: Alkar!
+[00:40:29.349 --> 00:40:29.349] LIVA: Alkar,
+[00:40:32.469 --> 00:40:32.949] LIVA: what's wrong?
+[00:40:34.310 --> 00:40:37.030] OGAWA: Neurotransmitter levels are down to three hundred and ten percent.
+[00:40:39.190 --> 00:40:40.070] OGAWA: Two hundred and ninety percent.
+[00:40:40.870 --> 00:40:41.030] CRUSHER: Now.
+[00:40:41.670 --> 00:40:43.430] PICARD: Picard to Transporter room three, energise.
+[00:40:43.670 --> 00:40:44.310] LIVA: Let me go!
+[00:40:57.350 --> 00:41:00.870] OGAWA: Neurotransmitter levels are down to two hundred and thirty percent.
+[00:41:19.190 --> 00:41:20.070] WORF: Worf to Captain Picard.
+[00:41:20.870 --> 00:41:22.150] WORF: Ambassador Alkar is dead.
+[00:41:48.870 --> 00:41:48.950] TROI: Will.
+[00:41:48.950 --> 00:41:54.070] RIKER: Beverly thinks Alkar must have been at a susceptible point in the meditation ceremony. He was vulnerable.
+[00:41:54.950 --> 00:41:59.510] TROI: Then the flow of negative emotions and feelings were reversed back to him somehow.
+[00:41:59.916 --> 00:42:02.076] RIKER: That's our guess. Like a man with no immune system,
+[00:42:02.316 --> 00:42:03.356] RIKER: he wasn't able to handle the overload.
+[00:42:04.076 --> 00:42:04.556] TROI: And Liva?
+[00:42:05.116 --> 00:42:05.996] RIKER: She seems to be fine.
+[00:42:06.316 --> 00:42:08.636] RIKER: He wasn't able to establish a link on her.
+[00:42:10.796 --> 00:42:17.756] TROI: Looking back on the past few days, it's as though I'm looking at a holodeck projection of someone else.
+[00:42:18.876 --> 00:42:19.916] RIKER: That's how it seemed to all of us.
+[00:42:22.076 --> 00:42:23.116] TROI: Thanks for sticking by me.
+[00:42:25.916 --> 00:42:26.636] RIKER: I always will.
+[00:42:28.476 --> 00:42:29.596] RIKER: Even when you're old and grey.

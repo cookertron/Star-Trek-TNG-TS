@@ -1,0 +1,561 @@
+[00:00:02.080 --> 00:00:05.280] LOG: Captain's log, stardate 46357.4.
+[00:00:05.760 --> 00:00:12.000] LOG: We have rendezvoused with the starship Cairo near the Cardassian border for an urgent meeting with Vice Admiral Nechayev.
+[00:00:14.160 --> 00:00:14.480] PICARD: Come.
+[00:00:18.080 --> 00:00:19.863] RIKER: May I present Captain Jean-Luc Picard.
+[00:00:19.863 --> 00:00:20.160] PICARD: Admiral,
+[00:00:20.160 --> 00:00:20.880] PICARD: welcome aboard.
+[00:00:20.960 --> 00:00:21.280] NECHAYEV: Thank you.
+[00:00:21.520 --> 00:00:22.320] NECHAYEV: That'll be all, Commander.
+[00:00:24.960 --> 00:00:26.320] PICARD: Can I get you some coffee? Tea?
+[00:00:26.480 --> 00:00:27.440] NECHAYEV: Thank you, no, Captain.
+[00:00:27.920 --> 00:00:30.080] NECHAYEV: I'm afraid there's no time for the usual pleasantries.
+[00:00:31.040 --> 00:00:33.040] NECHAYEV: I'm here to relieve you of command of the Enterprise.
+[00:01:03.280 --> 00:01:05.840] PICARD: Space, the final frontier.
+[00:01:07.760 --> 00:01:10.640] PICARD: These are the voyagers of the starship Enterprise.
+[00:01:11.680 --> 00:01:19.680] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:01:21.360 --> 00:01:24.240] PICARD: to boldly go where no one has gone before.
+[00:01:31.082 --> 00:01:31.082] NECHAYEV: The
+[00:02:23.722 --> 00:02:29.642] NECHAYEV: Cardassian forces which were recently withdrawn from the Bajoran sector, have been redeployed along the Federation border.
+[00:02:30.762 --> 00:02:35.882] NECHAYEV: They have mobilised three divisions of ground troops and their subspace communications have been increased by fifty percent.
+[00:02:36.282 --> 00:02:39.082] NECHAYEV: We believe that they're preparing for an incursion into Federation space.
+[00:02:39.482 --> 00:02:41.082] RIKER: Are the Cardassians ready for a war?
+[00:02:41.642 --> 00:02:42.842] NECHAYEV: I didn't say war, Commander,
+[00:02:43.162 --> 00:02:43.962] NECHAYEV: I said incursion.
+[00:02:45.162 --> 00:02:49.642] NECHAYEV: Our intelligence reports suggests that they'll try to seize one of the disputed systems along the border.
+[00:02:50.442 --> 00:02:53.962] NECHAYEV: We think they're gambling that the Federation won't actually go to war over one system.
+[00:02:54.682 --> 00:02:55.082] TROI: Will we?
+[00:02:56.122 --> 00:02:57.722] NECHAYEV: I hope we won't need to make that decision.
+[00:02:59.581 --> 00:03:04.141] NECHAYEV: We have decided to send the Enterprise to meet with the Cardassian representative and open talks.
+[00:03:04.861 --> 00:03:12.141] NECHAYEV: We're hoping that the presence of the Federation flagship on the border will send a message to their leadership about just how seriously we view the situation.
+[00:03:13.101 --> 00:03:14.141] RIKER: Where's Captain Picard?
+[00:03:15.581 --> 00:03:19.421] NECHAYEV: The Captain, your Chief Medical Officer, and Security Chief have been reassigned.
+[00:03:20.541 --> 00:03:21.581] NECHAYEV: That's all I can tell you for now.
+[00:03:24.061 --> 00:03:25.581] NECHAYEV: Do any of you know Edward Jellico?
+[00:03:26.301 --> 00:03:28.061] DATA: He is the commanding officer of the Cairo.
+[00:03:28.621 --> 00:03:29.181] RIKER: I've heard of him.
+[00:03:29.341 --> 00:03:30.461] RIKER: I don't know that any of us have
+[00:03:30.461 --> 00:03:32.621] NECHAYEV: I'm giving him command of the Enterprise this afternoon.
+[00:03:33.581 --> 00:03:39.581] NECHAYEV: Captain Jellico helped to negotiate the original armistice two years ago and I believe he's the most qualified person to lead this mission.
+[00:03:41.341 --> 00:03:43.581] NECHAYEV: The change of command will take place at thirteen hundred hours.
+[00:03:44.381 --> 00:03:44.701] NECHAYEV: Thank you.
+[00:03:51.821 --> 00:03:52.141] RIKER: Admiral,
+[00:03:53.901 --> 00:04:00.061] RIKER: with all due respect, it's not necessary to give Captain Jellico command of the Enterprise just to conduct a negotiation.
+[00:04:00.461 --> 00:04:01.101] NECHAYEV: I disagree.
+[00:04:01.901 --> 00:04:07.501] NECHAYEV: The Enterprise will be in a dangerous situation and I want someone on the Bridge who has a great deal of experience with the Cardassians.
+[00:04:08.381 --> 00:04:10.781] NECHAYEV: No offence, Commander, but that's not you.
+[00:04:26.141 --> 00:04:26.381] SOLDIER: Halt!
+[00:04:28.381 --> 00:04:29.341] PICARD: Computer, freeze programme.
+[00:04:30.304 --> 00:04:31.664] PICARD: You were five seconds slower that time.
+[00:04:33.184 --> 00:04:34.784] WORF: You increased the difficulty level, sir.
+[00:04:35.504 --> 00:04:37.504] PICARD: Mister Worf, it's going to be far more difficult where we're going.
+[00:04:37.984 --> 00:04:39.184] CRUSHER: Which is where exactly?
+[00:04:39.824 --> 00:04:41.024] PICARD: I'm sorry, I can't tell you that yet.
+[00:04:41.584 --> 00:04:44.117] WORF: It would be helpful to know something about our mission.
+[00:04:44.117 --> 00:04:44.624] PICARD: Mister Worf,
+[00:04:44.944 --> 00:04:45.664] PICARD: I have my orders.
+[00:04:45.664 --> 00:04:47.344] PICARD: I'm sure you understand that. Now Doctor,
+[00:04:47.664 --> 00:04:49.104] PICARD: this deflector wasn't set properly.
+[00:04:49.424 --> 00:04:52.624] PICARD: It must be positioned so that the emitter array blocks the entire passageway, or
+[00:04:52.704 --> 00:04:53.424] PICARD: it's useless.
+[00:04:53.664 --> 00:04:56.944] CRUSHER: Sorry. I was concentrating on getting away from the last Cardassian.
+[00:04:56.944 --> 00:04:58.384] CRUSHER: Or maybe it was the falling rocks.
+[00:04:59.424 --> 00:05:00.624] PICARD: I understand this is difficult.
+[00:05:01.184 --> 00:05:02.784] PICARD: All I can do is ask you to trust me.
+[00:05:06.224 --> 00:05:07.184] CRUSHER: All right, let's do it again.
+[00:05:07.744 --> 00:05:08.384] PICARD: All right, Mister Worf.
+[00:05:08.384 --> 00:05:10.944] PICARD: I want you to time the Doctor and me through that first tunnel.
+[00:05:11.584 --> 00:05:14.144] PICARD: And this time we're going to pick up those five seconds.
+[00:05:17.824 --> 00:05:19.024] RIKER: Welcome
+[00:05:21.264 --> 00:05:21.904] RIKER: aboard, sir.
+[00:05:22.304 --> 00:05:22.944] RIKER: I'm Commander
+[00:05:22.944 --> 00:05:23.264] JELLICO: William
+[00:05:23.264 --> 00:05:25.824] JELLICO: T. Riker. Class of fifty seven, graduated eighth in his class.
+[00:05:25.824 --> 00:05:27.424] JELLICO: I'm looking forward to serving with you, Commander.
+[00:05:27.584 --> 00:05:28.304] RIKER: Thank you. And I you.
+[00:05:29.024 --> 00:05:31.664] JELLICO: I'm sure this change in command has taken everyone a little by surprise.
+[00:05:31.984 --> 00:05:33.344] RIKER: Well, yes, sir.
+[00:05:33.584 --> 00:05:34.944] JELLICO: It caught me by surprise too.
+[00:05:35.424 --> 00:05:37.184] JELLICO: I must admit, I miss the Cairo already.
+[00:05:37.424 --> 00:05:39.904] JELLICO: But a Galaxy class ship, that's something special.
+[00:05:40.784 --> 00:05:43.184] JELLICO: I can understand why you turned down a ship of your own to remain aboard.
+[00:05:43.504 --> 00:05:44.064] RIKER: Yes, sir.
+[00:05:44.384 --> 00:05:46.064] JELLICO: How many duty watches does the crew stand?
+[00:05:46.224 --> 00:05:47.824] RIKER: We've a standard three shift rotation.
+[00:05:47.984 --> 00:05:49.824] JELLICO: I'd like to change that to four starting tonight.
+[00:05:50.384 --> 00:05:54.544] JELLICO: I'd also like to examine the duty roster and the crew evaluations as soon as possible.
+[00:05:55.184 --> 00:06:01.504] JELLICO: I want readiness reports from each department head by fourteen hundred hours, and a meeting of the senior staff at fifteen hundred.
+[00:06:02.311 --> 00:06:03.511] JELLICO: Do you prefer Will or William?
+[00:06:03.910 --> 00:06:05.430] RIKER: Er, Will, sir.
+[00:06:06.391 --> 00:06:07.350] JELLICO: Where are my quarters, Will?
+[00:06:07.670 --> 00:06:09.972] RIKER: We have you assigned to cabin seven thirty five. Deck si
+[00:06:09.972 --> 00:06:10.391] JELLICO: Deck seven.
+[00:06:10.631 --> 00:06:12.071] JELLICO: I'll see you at thirteen hundred hours.
+[00:06:36.150 --> 00:06:36.550] JELLICO: Yeah, I
+[00:06:38.391 --> 00:06:40.391] JELLICO: know.
+[00:06:40.391 --> 00:06:41.670] JELLICO: Wearing these uniforms reminds me of my first days at the Academy.
+[00:06:41.670 --> 00:06:41.990] RIKER: Attention to orders.
+[00:06:41.990 --> 00:06:41.990] PICARD: To
+[00:06:48.870 --> 00:06:54.391] PICARD: Captain Jean-Luc Picard, Commanding Officer USS Enterprise, stardate 46358.1.
+[00:06:54.470 --> 00:07:02.790] PICARD: You are hereby requested and required to relinquish command of your vessel to Captain Edward Jellico, Commanding Officer USS Cairo as of this date.
+[00:07:03.110 --> 00:07:06.391] PICARD: Signed, Vice-Admiral Alynna Nechayev, Starfleet Command.
+[00:07:07.110 --> 00:07:10.631] PICARD: Computer, transfer all command codes to Captain Edward Jellico.
+[00:07:10.790 --> 00:07:12.710] PICARD: Voice authorisation, Picard delta five.
+[00:07:13.670 --> 00:07:14.550] COMPUTER: Transfer complete.
+[00:07:15.110 --> 00:07:18.631] COMPUTER: USS Enterprise now under command of Captain Edward Jellico.
+[00:07:21.110 --> 00:07:21.910] JELLICO: I relieve you, sir.
+[00:07:22.391 --> 00:07:23.191] PICARD: I stand relieved.
+[00:07:25.350 --> 00:07:25.990] JELLICO: Dismissed.
+[00:07:26.140 --> 00:07:26.740] LAFORGE: I
+[00:07:38.825 --> 00:07:40.425] LAFORGE: wonder how permanent this is going to be.
+[00:07:41.065 --> 00:07:41.545] RIKER: I don't know.
+[00:07:42.585 --> 00:07:45.305] RIKER: They don't usually go through the ceremony if it's just a temporary assignment.
+[00:07:53.545 --> 00:07:53.865] TROI: Sore?
+[00:07:54.265 --> 00:07:56.425] CRUSHER: Sore doesn't begin to describe it.
+[00:08:03.065 --> 00:08:03.305] CRUSHER: I know.
+[00:08:03.305 --> 00:08:05.545] CRUSHER: I wish I could talk about
+[00:08:08.905 --> 00:08:08.905] CRUSHER: it.
+[00:08:10.745 --> 00:08:13.945] PICARD: Most of the secondary systems were changed at the last overhaul.
+[00:08:13.945 --> 00:08:17.465] PICARD: I don't think they'll give you any problems, but you might want to check out the port lateral
+[00:08:17.625 --> 00:08:19.785] JELLICO: I'll take care of the Enterprise, Jean-Luc.
+[00:08:20.825 --> 00:08:21.705] JELLICO: You don't have to mother
+[00:08:23.385 --> 00:08:23.465] JELLICO: me.
+[00:08:26.745 --> 00:08:27.785] JELLICO: How's your team shaping up?
+[00:08:29.545 --> 00:08:35.145] PICARD: Very well. But I would prefer more recent intelligence on the exact layout of the installation.
+[00:08:36.025 --> 00:08:38.185] PICARD: The most current information we have is two years old.
+[00:08:38.905 --> 00:08:39.785] JELLICO: Two years?
+[00:08:42.265 --> 00:08:44.345] JELLICO: I don't know how Nechayev ever talked you into this.
+[00:08:44.905 --> 00:08:46.185] PICARD: She gave me no choice.
+[00:08:48.265 --> 00:08:49.705] JELLICO: Well, maybe there's something we can do to help.
+[00:08:51.145 --> 00:08:54.265] JELLICO: We'll launch a class five probe just before we reach the border.
+[00:08:55.465 --> 00:08:57.385] JELLICO: You could pick up the telemetry aboard the shuttle.
+[00:08:58.012 --> 00:08:59.292] PICARD: Now that would be extremely helpful.
+[00:09:02.092 --> 00:09:02.332] JELLICO: Will.
+[00:09:04.412 --> 00:09:04.972] RIKER: Captain.
+[00:09:05.132 --> 00:09:05.612] RIKER: Captain.
+[00:09:07.292 --> 00:09:11.532] JELLICO: I believe we're scheduled to arrive at the Cardassian border during delta shift.
+[00:09:12.012 --> 00:09:17.212] JELLICO: Please inform the delta tactical officer that I want to launch a class five probe just before we drop out of warp.
+[00:09:17.452 --> 00:09:19.932] RIKER: I was actually going to talk to you about delta shift a little later, sir.
+[00:09:20.252 --> 00:09:24.252] RIKER: Right now, gamma shift will be on duty when we arrive and I will tell Lieutenant McDowell about the probe.
+[00:09:25.052 --> 00:09:26.812] JELLICO: Is there a problem with delta shift, Will?
+[00:09:28.092 --> 00:09:29.372] RIKER: There is no delta shift yet, sir.
+[00:09:30.172 --> 00:09:36.252] RIKER: I have spoken to the department heads about changing from three shifts to four, and they assure me it's going to cause us significant personnel problems.
+[00:09:36.892 --> 00:09:38.972] JELLICO: So you have not changed the watch rotation.
+[00:09:43.292 --> 00:09:45.452] RIKER: I was going to explain this to you after the ceremony, sir.
+[00:09:45.612 --> 00:09:50.572] JELLICO: You will tell the department heads that as of now the Enterprise is on a four shift rotation.
+[00:09:51.372 --> 00:09:52.332] JELLICO: I don't want to talk about it.
+[00:09:53.132 --> 00:09:53.692] JELLICO: Get it done.
+[00:09:54.812 --> 00:09:58.172] JELLICO: Now that means delta shift will be due to come on duty in two hours.
+[00:09:59.292 --> 00:10:01.692] JELLICO: I expect you to have it fully manned and ready when it does.
+[00:10:02.812 --> 00:10:03.532] JELLICO: Is that clear?
+[00:10:06.012 --> 00:10:06.332] RIKER: Yes, sir.
+[00:10:07.372 --> 00:10:08.252] RIKER: If you'll excuse me, sir.
+[00:10:09.532 --> 00:10:10.012] RIKER: Captain.
+[00:10:15.052 --> 00:10:17.052] JELLICO: He was your first officer for five years.
+[00:10:18.492 --> 00:10:20.572] PICARD: One of the finest officers that I have ever served with.
+[00:10:22.332 --> 00:10:23.532] JELLICO: Of course he is, Jean-Luc.
+[00:10:25.772 --> 00:10:26.972] JELLICO: I'm sure it'll all work out.
+[00:10:32.855 --> 00:10:35.655] LOG: Captain's log, stardate 46358.2.
+[00:10:36.295 --> 00:10:39.815] LOG: The Enterprise is on course for a rendezvous with the Cardassian ship Reklar.
+[00:10:40.295 --> 00:10:43.895] LOG: Fortunately, I still have time to prepare the ship and crew for the task ahead.
+[00:10:44.455 --> 00:10:48.135] JELLICO: I want you to install a bypass between the main phaser array and the secondary generators.
+[00:10:48.215 --> 00:10:53.975] JELLICO: I also want to run the main deflector pathway through the warp power grid and the auxiliary conduits through the lateral relays.
+[00:10:54.535 --> 00:10:56.855] JELLICO: You may have to reconfigure the transfer interface.
+[00:10:57.095 --> 00:10:59.815] DATA: Sir, the transfer interface was not designed for that configuration.
+[00:10:59.975 --> 00:11:01.815] DATA: It will take seven hours to make those changes.
+[00:11:01.975 --> 00:11:06.695] RIKER: Sir, you may not be aware that our normal interface already routes auxiliary power through three separate relays.
+[00:11:07.015 --> 00:11:08.455] JELLICO: I'm aware of your current design system.
+[00:11:08.455 --> 00:11:09.255] JELLICO: It's not good enough.
+[00:11:09.895 --> 00:11:14.615] JELLICO: If these negotiations fail, we could find ourselves in a war zone and if that happens I want to be loaded for bear.
+[00:11:14.695 --> 00:11:15.255] RIKER: I'll get right on it.
+[00:11:15.335 --> 00:11:15.575] JELLICO: Good.
+[00:11:16.135 --> 00:11:19.815] JELLICO: Now these stations should be devoted to damage control and weapons status
+[00:11:19.975 --> 00:11:23.095] JELLICO: from now on. See that they're manned at all times.
+[00:11:23.175 --> 00:11:23.495] RIKER: Aye, sir.
+[00:11:25.095 --> 00:11:28.135] JELLICO: Mister Data, how long before we reach the rendezvous point?
+[00:11:28.615 --> 00:11:30.775] DATA: We will arrive in fifty one hours, thirty two minutes, sir.
+[00:11:31.495 --> 00:11:33.575] JELLICO: Schedule four battle drills, one for each shift.
+[00:11:34.055 --> 00:11:36.855] JELLICO: Run a series of simulated attacks from a Cardassian squadron.
+[00:11:37.655 --> 00:11:39.495] JELLICO: I want you to conduct the exercises personally,
+[00:11:39.495 --> 00:11:41.015] JELLICO: Will. Get it done.
+[00:11:44.615 --> 00:11:44.855] JELLICO: Oh,
+[00:11:46.375 --> 00:11:47.975] JELLICO: and get that fish out of the ready room.
+[00:11:48.455 --> 00:11:49.175] JELLICO: Data, you're with me.
+[00:12:00.184 --> 00:12:02.744] JELLICO: Power transfer levels need to be upgraded by twenty percent.
+[00:12:02.824 --> 00:12:05.544] JELLICO: The efficiency of your warp coils is also unsatisfactory.
+[00:12:05.544 --> 00:12:07.944] LAFORGE: Coil efficiency is well within specifications, Captain.
+[00:12:08.024 --> 00:12:09.864] JELLICO: I'm not interested in the specs, Geordi.
+[00:12:09.864 --> 00:12:12.744] JELLICO: The efficiency needs to be raised by at least fifteen percent.
+[00:12:13.704 --> 00:12:14.344] LAFORGE: Fifteen percent.
+[00:12:15.464 --> 00:12:21.384] DATA: That is an attainable goal, but it will require realigning the warp coil and taking the secondary distribution grid offline.
+[00:12:22.344 --> 00:12:22.904] JELLICO: Very good, Data.
+[00:12:23.784 --> 00:12:25.064] JELLICO: That's exactly what I want you to do.
+[00:12:25.384 --> 00:12:31.064] LAFORGE: If we take this grid offline, we're going to have to shut down exobiology, the astrophysics lab and geological research.
+[00:12:31.064 --> 00:12:32.344] JELLICO: We're not on a research mission.
+[00:12:32.344 --> 00:12:34.344] JELLICO: Get it done in two days.
+[00:12:35.304 --> 00:12:36.904] DATA: I believe that is also an attainable goal.
+[00:12:37.784 --> 00:12:42.824] DATA: If we utilise the entire Engineering department, there should be sufficient manpower available to complete the task.
+[00:12:42.984 --> 00:12:45.720] LAFORGE: Sure, if everybody works around the clock for the next two days.
+[00:12:45.720 --> 00:12:47.544] JELLICO: Then you'd better get to it, Geordi. It
+[00:12:47.544 --> 00:12:49.704] JELLICO: looks like you have some work to do. Data.
+[00:13:09.064 --> 00:13:09.464] JELLICO: Yes?
+[00:13:12.184 --> 00:13:13.464] TROI: May I speak with you, Captain?
+[00:13:13.864 --> 00:13:14.744] JELLICO: Deanna. Come in,
+[00:13:14.744 --> 00:13:15.304] JELLICO: come in.
+[00:13:22.264 --> 00:13:24.824] JELLICO: The latest masterpieces from my son.
+[00:13:26.504 --> 00:13:27.464] JELLICO: It's an elephant.
+[00:13:29.006 --> 00:13:29.566] JELLICO: I think.
+[00:13:31.086 --> 00:13:31.646] TROI: Definitely an elephant.
+[00:13:33.486 --> 00:13:34.686] JELLICO: I'm glad you're here.
+[00:13:36.206 --> 00:13:37.886] JELLICO: I'd like to go over the duty roster with you.
+[00:13:38.366 --> 00:13:44.526] TROI: I'd be happy to. But first, I'd like to talk about how the change in command is affecting the crew.
+[00:13:45.886 --> 00:13:48.606] JELLICO: I've noticed some resistance.
+[00:13:49.246 --> 00:13:50.606] TROI: I wouldn't call it resistance.
+[00:13:51.486 --> 00:13:53.326] TROI: More like uncertainty.
+[00:13:54.206 --> 00:13:57.566] TROI: Most of them had served under Captain Picard for several years.
+[00:13:58.606 --> 00:14:01.246] TROI: They knew him, they knew what he expected.
+[00:14:02.526 --> 00:14:10.846] TROI: Now they're being asked to adjust to a new captain and a new way of doing things, and they're uncertain how to react.
+[00:14:12.206 --> 00:14:12.846] JELLICO: I see your point.
+[00:14:14.366 --> 00:14:16.693] JELLICO: This all could be very unsettling to them.
+[00:14:16.693 --> 00:14:17.566] TROI: And to you.
+[00:14:19.726 --> 00:14:21.646] TROI: Perhaps everyone just needs some time.
+[00:14:22.606 --> 00:14:29.166] TROI: Time for you to get to know and trust the crew, and time for them to understand how you want things done.
+[00:14:30.526 --> 00:14:32.526] JELLICO: I'm glad you brought this to my attention, Deanna.
+[00:14:35.326 --> 00:14:38.286] JELLICO: Unfortunately, I don't have time for a honeymoon with the crew.
+[00:14:39.166 --> 00:14:44.046] JELLICO: You've clearly given this a lot of thought, so I'd like you to take charge of the morale situation.
+[00:14:44.446 --> 00:14:48.766] JELLICO: Please see to it that they make the adjustment to the new routine quickly and easily.
+[00:14:50.206 --> 00:14:55.326] JELLICO: I have a meeting with the new Security Chief in five minutes, so the duty roster will have to wait.
+[00:14:56.926 --> 00:14:57.566] JELLICO: Thank you, Counsellor.
+[00:15:02.993 --> 00:15:03.632] JELLICO: By the way.
+[00:15:06.113 --> 00:15:09.473] JELLICO: I prefer a certain formality on the Bridge.
+[00:15:11.313 --> 00:15:14.033] JELLICO: I'd appreciate it if you wore standard uniform when you're on duty.
+[00:15:16.113 --> 00:15:16.673] TROI: Of course, sir.
+[00:15:22.913 --> 00:15:31.313] LAFORGE: Commander, he's asked me to completely reroute half the power systems on the ship, change every duty roster, realign the warp coils in two days, and now he's transferred a third of my department to Security.
+[00:15:31.393 --> 00:15:33.153] RIKER: If it makes you feel any better, you're not alone.
+[00:15:33.153 --> 00:15:35.713] RIKER: Captain Jellico has made major changes in every department on the ship.
+[00:15:35.713 --> 00:15:40.833] LAFORGE: Yeah, well, I don't mind making changes and I don't mind hard work, but the man isn't giving me the time I need to do the work.
+[00:15:41.313 --> 00:15:42.752] LAFORGE: Someone's got to get him to listen to reason.
+[00:15:43.153 --> 00:15:44.033] RIKER: It's not going to be me.
+[00:15:44.033 --> 00:15:45.313] RIKER: He's made that abundantly clear.
+[00:15:45.313 --> 00:15:46.593] LAFORGE: Well then, can I make a suggestion?
+[00:15:47.473 --> 00:15:48.353] LAFORGE: Talk to Captain Picard.
+[00:15:48.913 --> 00:15:49.713] LAFORGE: Maybe he can do something.
+[00:15:49.713 --> 00:15:51.233] LAFORGE: We just need a little time.
+[00:15:51.553 --> 00:15:51.793] RIKER: All right.
+[00:16:11.073 --> 00:16:11.393] PICARD: Come.
+[00:16:11.543 --> 00:16:12.143] RIKER: Are
+[00:16:16.433 --> 00:16:16.913] RIKER: you all right, sir?
+[00:16:18.353 --> 00:16:18.833] PICARD: Yes, I am.
+[00:16:20.512 --> 00:16:23.473] PICARD: The last time I had to train like this was for the Academy marathon,
+[00:16:24.512 --> 00:16:26.353] PICARD: but I'm managing.
+[00:16:28.353 --> 00:16:29.073] PICARD: What can I do for you?
+[00:16:30.673 --> 00:16:31.393] RIKER: It's nothing urgent.
+[00:16:31.877 --> 00:16:32.437] RIKER: I'm sorry I bothered you.
+[00:16:32.437 --> 00:16:33.957] RIKER: Good night.
+[00:16:50.677 --> 00:16:53.637] PICARD: My orders are to maintain radio silence until we've completed the mission.
+[00:16:54.677 --> 00:16:58.677] JELLICO: Well the Enterprise will be monitoring your channel just in case you do need to transmit a signal.
+[00:16:59.077 --> 00:17:00.117] RIKER: Bridge to Captain Jellico.
+[00:17:00.757 --> 00:17:02.757] RIKER: We've arrived at the shuttle departure coordinates.
+[00:17:03.077 --> 00:17:04.677] JELLICO: Did you launch the probe I requested?
+[00:17:04.997 --> 00:17:05.317] RIKER: Yes, sir.
+[00:17:05.317 --> 00:17:07.077] RIKER: I wasn't aware you wanted to be informed.
+[00:17:07.317 --> 00:17:07.717] JELLICO: Thank you.
+[00:17:08.837 --> 00:17:09.557] JELLICO: Jellico out.
+[00:17:12.917 --> 00:17:15.077] JELLICO: I can see why he's still only a first officer.
+[00:17:16.197 --> 00:17:19.237] PICARD: Captain, I would just like you to know that Commander Riker is
+[00:17:19.237 --> 00:17:20.517] JELLICO: I've read your reports, Jean-Luc.
+[00:17:21.557 --> 00:17:22.917] JELLICO: I know you think highly of him.
+[00:17:23.477 --> 00:17:24.437] PICARD: It's not just my opinion.
+[00:17:25.397 --> 00:17:27.717] PICARD: He's been decorated by Starfleet Command five times.
+[00:17:27.717 --> 00:17:29.557] PICARD: He's been offered his own ship more than once.
+[00:17:30.837 --> 00:17:34.997] PICARD: I think if you just gave him a chance, you'd find him an outstanding officer.
+[00:17:38.757 --> 00:17:41.477] JELLICO: Jean-Luc, let's be candid for a moment.
+[00:17:42.837 --> 00:17:48.117] JELLICO: The Cardassians aren't going to listen to reason, and the Federation isn't going to give in to their demands.
+[00:17:48.757 --> 00:17:51.877] JELLICO: And the chances are you won't be coming back from this mission of yours.
+[00:17:52.597 --> 00:18:00.677] JELLICO: I want this ship ready for action and I don't have time to give Will Riker or anyone else a chance.
+[00:18:04.103 --> 00:18:08.583] JELLICO: And forgive me for being blunt, but the Enterprise is mine now.
+[00:18:14.423 --> 00:18:17.223] JELLICO: Well, here's hoping you beat the odds.
+[00:18:20.263 --> 00:18:20.583] JELLICO: Good hunting.
+[00:18:20.903 --> 00:18:22.236] PICARD: Thank you.
+[00:18:22.236 --> 00:18:22.903] JELLICO: Jean-Luc.
+[00:18:26.743 --> 00:18:27.783] JELLICO: I believe this is yours.
+[00:18:54.903 --> 00:18:56.343] WORF: Shuttlecraft Feynman to Enterprise.
+[00:18:56.343 --> 00:18:57.383] WORF: We have cleared the shuttlebay.
+[00:18:57.783 --> 00:18:58.663] RIKER: Acknowledged, Feynman.
+[00:18:58.903 --> 00:18:59.223] RIKER: Good luck.
+[00:19:00.183 --> 00:19:01.063] PICARD: Thank you, Enterprise.
+[00:19:03.943 --> 00:19:05.303] PICARD: Well,
+[00:19:07.063 --> 00:19:10.263] PICARD: now that we're under way, I can tell you about our mission.
+[00:19:11.863 --> 00:19:17.463] PICARD: Starfleet Intelligence believes the Cardassians are developing a metagenic weapon.
+[00:19:18.423 --> 00:19:19.143] CRUSHER: Oh my God.
+[00:19:21.223 --> 00:19:22.903] WORF: I am not familiar with metagenics.
+[00:19:24.023 --> 00:19:28.183] CRUSHER: They're genetically engineered viruses that are designed to destroy entire ecosystems.
+[00:19:28.706 --> 00:19:33.026] CRUSHER: When metagenic toxins are released into a planet's atmosphere, they immediately begin to mutate.
+[00:19:33.026 --> 00:19:35.826] CRUSHER: They seek out and destroy all forms of DNA they encounter.
+[00:19:35.826 --> 00:19:39.186] CRUSHER: In a few days, everything is dead.
+[00:19:39.186 --> 00:19:50.103] PICARD: In a month, the metagenic agent itself breaks down and dissipates completely, leaving every city, every road, every piece of equipment perfectly intact.
+[00:19:50.103 --> 00:19:53.426] WORF: Leaving the planet safe to be conquered.
+[00:19:54.946 --> 00:19:59.266] WORF: Wouldn't using such a weapon pose as great a risk to the attacker as to the target?
+[00:19:59.586 --> 00:20:03.106] CRUSHER: That's why metagenics and other biological weapons were outlawed years ago.
+[00:20:03.586 --> 00:20:05.906] CRUSHER: Even the Romulans have abided with those agreements.
+[00:20:06.146 --> 00:20:15.666] PICARD: Starfleet Intelligence believes that the Cardassians are developing a new delivery system, one that would protect them from accidental exposure to the toxin.
+[00:20:16.386 --> 00:20:24.078] PICARD: They believe that the Cardassians are testing a way of launching dormant metagenic material on a subspace carrier wave.
+[00:20:24.078 --> 00:20:29.746] CRUSHER: So they could activate the toxins after the launch, thereby preventing any accidental exposure.
+[00:20:31.746 --> 00:20:41.106] PICARD: And because the subspace wave would appear simply as background radiation, no one would realise what was happening until it was too late.
+[00:20:42.226 --> 00:20:47.906] PICARD: Now, for the past few weeks, theta-band subspace emissions have been detected coming from Celtris Three.
+[00:20:48.866 --> 00:20:54.466] PICARD: Those emissions may indicate that a metagenic delivery system in operation.
+[00:20:55.186 --> 00:20:56.706] WORF: What do we know about Celtris Three?
+[00:20:57.186 --> 00:20:57.666] PICARD: Very little.
+[00:20:57.986 --> 00:21:00.386] PICARD: It was thought to be uninhabited until these emissions were detected.
+[00:21:01.506 --> 00:21:02.466] PICARD: Starfleet believes that the
+[00:21:02.610 --> 00:21:07.170] PICARD: Cardassians may have a secret research lab located somewhere below the planet surface.
+[00:21:08.290 --> 00:21:17.090] PICARD: Our orders are to penetrate this Celtris Three installation and determine if the Cardassians are actually building a metagenic weapon.
+[00:21:18.530 --> 00:21:19.917] CRUSHER: And if they are?
+[00:21:19.917 --> 00:21:20.610] PICARD: Destroy it.
+[00:21:22.290 --> 00:21:22.930] PICARD: At any cost.
+[00:21:24.610 --> 00:21:28.930] PICARD: When I was on the Stargazer, we conducted extensive tests using theta band carrier waves.
+[00:21:29.090 --> 00:21:33.810] PICARD: One of the reasons I was selected for this mission is my familiarity with the methods used for generating them.
+[00:21:33.970 --> 00:21:35.810] PICARD: Mister Worf, your presence here is obvious.
+[00:21:36.290 --> 00:21:40.930] PICARD: Doctor, your job will be to locate and destroy any biotoxins we may find.
+[00:21:42.210 --> 00:21:45.250] WORF: Celtris Three is in Cardassian space.
+[00:21:46.850 --> 00:21:48.610] WORF: How will we get there undetected?
+[00:21:49.410 --> 00:21:53.650] PICARD: I know a way of acquiring some discreet transport.
+[00:21:54.450 --> 00:21:54.850] PICARD: Mister Worf,
+[00:21:56.690 --> 00:21:58.130] PICARD: set a course for Torman Five.
+[00:22:19.890 --> 00:22:26.850] SOLOK: If he doesn't pay up, I know three large Ferengi who will not be so forgiving.
+[00:22:28.467 --> 00:22:28.547] SOLOK: I
+[00:22:32.547 --> 00:22:33.107] SOLOK: didn't do it.
+[00:22:33.987 --> 00:22:35.107] PICARD: I'm not accusing you of anything.
+[00:22:36.067 --> 00:22:36.627] SOLOK: What do you want then?
+[00:22:39.747 --> 00:22:41.427] PICARD: We're looking for DaiMon Solok.
+[00:22:43.507 --> 00:22:43.747] SOLOK: Why?
+[00:22:44.867 --> 00:22:46.787] PICARD: I have a business proposition to discuss.
+[00:22:49.107 --> 00:22:52.787] SOLOK: Solok is a very busy, very important man.
+[00:22:52.947 --> 00:22:53.507] SOLOK: He isn't here.
+[00:22:56.867 --> 00:22:59.587] SOLOK: But I could relay a message.
+[00:23:00.467 --> 00:23:00.707] PICARD: Good.
+[00:23:01.587 --> 00:23:08.067] PICARD: Please, will you tell DaiMon Solok that we're interested in transportation to Celtris Three.
+[00:23:09.907 --> 00:23:11.907] SOLOK: That's a Cardassian planet.
+[00:23:12.387 --> 00:23:21.107] PICARD: Now, we understand that DaiMon Solok runs cargo there from time to time.
+[00:23:22.467 --> 00:23:24.307] SOLOK: Solok is no smuggler.
+[00:23:24.787 --> 00:23:35.587] PICARD: Yes, but if Solok were to go to Celtris Three for legitimate reasons, we would be interested in quietly booking passage for the journey.
+[00:23:39.267 --> 00:23:43.987] SOLOK: I don't think he would be interested in dealing with Federation spies.
+[00:23:45.027 --> 00:23:45.427] CRUSHER: You know,
+[00:23:48.147 --> 00:23:51.187] CRUSHER: I heard that Solok was quite a man.
+[00:23:52.307 --> 00:23:52.387] SOLOK: Why,
+[00:23:53.747 --> 00:23:58.707] SOLOK: yes, he is an extraordinary man.
+[00:23:59.507 --> 00:24:01.107] CRUSHER: That's why we came here,
+[00:24:01.863 --> 00:24:03.943] CRUSHER: because only Solok could help us.
+[00:24:05.863 --> 00:24:08.983] CRUSHER: I guess there's some things even Solok can't do.
+[00:24:09.703 --> 00:24:10.183] CRUSHER: It's too bad.
+[00:24:12.583 --> 00:24:13.223] CRUSHER: Because
+[00:24:15.223 --> 00:24:15.783] CRUSHER: if he could,
+[00:24:17.943 --> 00:24:20.503] CRUSHER: I would be very,
+[00:24:22.183 --> 00:24:23.023] CRUSHER: very
+[00:24:23.023 --> 00:24:23.863] SOLOK: Yes?
+[00:24:25.383 --> 00:24:26.023] CRUSHER: Grateful.
+[00:24:28.983 --> 00:24:29.783] SOLOK: When do you want to leave?
+[00:24:57.783 --> 00:25:02.263] PICARD: Beverly, make sure that your tricorder is keeping a precise map of the route.
+[00:25:02.263 --> 00:25:03.383] PICARD: We could very easily get lost in here.
+[00:25:04.183 --> 00:25:04.423] CRUSHER: Right.
+[00:25:06.583 --> 00:25:12.903] CRUSHER: I'm picking up some subspace signals, but I can't seem to get a lock on them.
+[00:25:14.663 --> 00:25:16.263] PICARD: That's typical of theta-band emissions.
+[00:25:17.463 --> 00:25:20.983] PICARD: You have to compress the detection band width in order to determine the fix.
+[00:25:21.133 --> 00:25:21.733] PICARD: The
+[00:25:23.303 --> 00:25:29.863] PICARD: source emission is five hundred metres east of here. And seven hundred metres below.
+[00:25:32.343 --> 00:25:34.663] PICARD: It's all right.
+[00:25:35.067 --> 00:25:36.027] PICARD: They're called lynars, a
+[00:25:36.667 --> 00:25:37.707] PICARD: kind of Celtrine bat.
+[00:25:38.027 --> 00:25:38.747] PICARD: They're harmless.
+[00:25:39.707 --> 00:25:40.187] WORF: Bats?
+[00:25:41.307 --> 00:25:42.827] CRUSHER: You're not afraid of bats, are you, Worf?
+[00:25:43.467 --> 00:25:44.187] WORF: Of course not.
+[00:25:56.347 --> 00:25:57.707] LOG: First Officer's log, supplemental.
+[00:25:58.347 --> 00:26:03.787] LOG: We have rendezvoused with the Cardassian ship Reklar to begin diplomatic talks designed to ease tensions along the border.
+[00:26:05.147 --> 00:26:06.027] RIKER: Gul Lemec has arrived.
+[00:26:06.267 --> 00:26:07.547] RIKER: He's waiting for you in the Observation Lounge.
+[00:26:07.947 --> 00:26:08.347] JELLICO: Very good.
+[00:26:08.347 --> 00:26:09.147] JELLICO: I'll be in my Ready room.
+[00:26:16.507 --> 00:26:16.827] JELLICO: Yes?
+[00:26:21.307 --> 00:26:21.627] TROI: Captain,
+[00:26:21.627 --> 00:26:21.787] TROI: I
+[00:26:21.787 --> 00:26:23.547] TROI: think there's been a slight miscommunication.
+[00:26:24.107 --> 00:26:25.707] TROI: Did you want to meet with Gul Lemec in here?
+[00:26:27.467 --> 00:26:30.667] JELLICO: No. The Observation Lounge is appropriate.
+[00:26:32.347 --> 00:26:32.747] TROI: I see.
+[00:26:36.667 --> 00:26:51.787] JELLICO: Lemec is a Cardassian, and Cardassians are like timber wolves, predators, bold in large numbers cautious by themselves, and with an instinctive need to establish a dominant position in any social gathering.
+[00:26:53.547 --> 00:26:57.227] TROI: So you're trying to establish a dominant position by making him wait for you.
+[00:27:01.547 --> 00:27:02.987] TROI: The trouble with wolves is that
+[00:27:03.961 --> 00:27:07.161] TROI: sometimes the fight for dominance, one of them ends up dead.
+[00:27:09.721 --> 00:27:11.561] JELLICO: In that case, the trick is
+[00:27:13.641 --> 00:27:15.641] JELLICO: to be the wolf that's still standing at the end.
+[00:27:25.161 --> 00:27:29.481] CRUSHER: The floor is over five hundred metres down from here.
+[00:27:29.881 --> 00:27:31.081] PICARD: There doesn't seem to be a way around.
+[00:27:31.961 --> 00:27:33.081] PICARD: We'll have to rappel from here.
+[00:27:34.041 --> 00:27:35.001] PICARD: This is sheer granite.
+[00:27:35.801 --> 00:27:37.161] PICARD: We'll have to use fusing pitons.
+[00:27:39.081 --> 00:27:40.921] CRUSHER: We could try to find another way down.
+[00:27:41.801 --> 00:27:43.481] PICARD: Unfortunately, that would take several hours.
+[00:27:43.481 --> 00:27:44.281] PICARD: We don't have the time.
+[00:27:46.361 --> 00:27:47.801] WORF: You're not afraid of heights, are you, Doctor?
+[00:27:49.001 --> 00:27:49.881] CRUSHER: Of course not.
+[00:28:20.041 --> 00:28:21.081] PICARD: Now, remember to control
+[00:28:21.081 --> 00:28:21.641] PICARD: your descent and
+[00:28:22.921 --> 00:28:23.881] PICARD: don't get the lines tangled.
+[00:28:24.601 --> 00:28:25.241] CRUSHER: I'll remember.
+[00:28:27.401 --> 00:28:27.561] PICARD: All right?
+[00:28:48.641 --> 00:28:49.681] LEMEC: What is going on?
+[00:28:49.681 --> 00:28:51.441] LEMEC: I have been waiting here for over an hour!
+[00:28:51.441 --> 00:28:54.961] JELLICO: I'm Captain Jellico. I believe you know Commander Riker, and this is Lieutenant Commander Troi.
+[00:28:55.361 --> 00:28:56.321] JELLICO: Let's get to it, shall we?
+[00:28:56.321 --> 00:28:59.121] LEMEC: This treatment is a deliberate insult to the Cardassian Union.
+[00:28:59.281 --> 00:29:01.441] LEMEC: I have been kept waiting here for over an hour.
+[00:29:01.841 --> 00:29:03.041] JELLICO: Then I'm sure you're ready to talk.
+[00:29:08.801 --> 00:29:11.361] LEMEC: I did not agree to allow others into this meeting.
+[00:29:12.321 --> 00:29:14.641] JELLICO: If it alarms you, I can ask them to leave.
+[00:29:14.961 --> 00:29:16.817] LEMEC: I am not alarmed. But we did not
+[00:29:16.817 --> 00:29:17.281] JELLICO: A great
+[00:29:17.281 --> 00:29:19.681] JELLICO: many people are depending on our efforts here, Gul Lemec.
+[00:29:20.721 --> 00:29:22.401] JELLICO: We don't need to quibble over minutiae.
+[00:29:24.641 --> 00:29:30.801] LEMEC: I have here come to negotiate a Federation withdrawal from the border, not to be dictated to by some mere captain.
+[00:29:34.481 --> 00:29:36.801] JELLICO: I can see you're not serious about these talks.
+[00:29:37.921 --> 00:29:44.961] JELLICO: If the Cardassian Union truly wishes to discuss peace, they can send someone who can negotiate in a civilised manner.
+[00:29:52.401 --> 00:29:53.361] DATA: Captain on the Bridge.
+[00:29:58.641 --> 00:29:59.841] JELLICO: Let him stew for a few minutes,
+[00:30:00.027 --> 00:30:03.227] JELLICO: then go in and tell him you've convinced me to meet with him one more time.
+[00:30:03.547 --> 00:30:07.707] JELLICO: Tell him I'm a loose cannon and that he needs to be more reasonable because I'm such an unreasonable man.
+[00:30:08.027 --> 00:30:09.707] JELLICO: Lemec will want to bring his own aides on board.
+[00:30:10.347 --> 00:30:15.307] JELLICO: Pretend to be worried that I'll object, and then give grudging permission for two aides, no more.
+[00:30:16.187 --> 00:30:16.587] JELLICO: Understood?
+[00:30:17.387 --> 00:30:17.654] TROI: Yes, sir.
+[00:30:17.654 --> 00:30:17.787] RIKER: Aye,
+[00:30:21.147 --> 00:30:21.147] RIKER: sir.
+[00:30:22.347 --> 00:30:25.307] RIKER: Well, I'll say this for him. He's sure of himself.
+[00:30:26.667 --> 00:30:27.467] TROI: No, he's not.
+[00:30:39.227 --> 00:30:41.227] PICARD: The installation should be about three hundred metres
+[00:30:42.427 --> 00:30:42.827] PICARD: this way.
+[00:30:44.187 --> 00:30:46.187] CRUSHER: I
+[00:30:48.587 --> 00:30:50.907] CRUSHER: don't suppose we'll be able to find another way to get back up there.
+[00:30:50.907 --> 00:30:52.267] WORF: I doubt it.
+[00:30:52.267 --> 00:30:53.707] CRUSHER: That's what I thought.
+[00:31:24.427 --> 00:31:32.427] PICARD: There's a lava tube beyond here that runs for seventy five metres,
+[00:31:33.712 --> 00:31:35.632] PICARD: then it connects with another chamber.
+[00:31:35.632 --> 00:31:36.752] PICARD: We need to get through here.
+[00:31:41.792 --> 00:31:44.752] PICARD: This tube opens up beyond this crack.
+[00:31:45.872 --> 00:31:49.152] PICARD: We could widen the opening, then we should be able to crawl through. Mister Worf.
+[00:31:55.392 --> 00:31:59.232] WORF: A phaser set to level sixteen should suffice.
+[00:31:59.552 --> 00:31:59.872] PICARD: Make it so.
+[00:32:13.712 --> 00:32:14.224] PICARD: Well done, Mister Worf.
+[00:32:14.224 --> 00:32:14.352] JELLICO: Gul
+[00:32:32.032 --> 00:32:33.292] JELLICO: Lemec, a
+[00:32:33.712 --> 00:32:34.032] JELLICO: pleasure.
+[00:32:35.312 --> 00:32:38.912] LEMEC: May I present my aides, Glin Corak and Glin Tajor.
+[00:32:39.312 --> 00:32:39.952] JELLICO: Welcome aboard.
+[00:32:50.272 --> 00:32:50.272] JELLICO: For
+[00:32:52.752 --> 00:32:58.752] JELLICO: the past three weeks you've been massing troops in staging areas, assembling strike forces, and pulling ships from their normal patrols.
+[00:32:59.312 --> 00:33:01.872] JELLICO: We will not stand for this clearly provocative behaviour.
+[00:33:02.832 --> 00:33:07.072] LEMEC: I see the Federation spy network has again provided you with faulty information.
+[00:33:07.712 --> 00:33:11.072] LEMEC: We are conducting routine training operations, nothing more.
+[00:33:12.192 --> 00:33:18.352] JELLICO: Then I'm sure you won't mind if we send a few starships into this sector for our own training operations.
+[00:33:18.672 --> 00:33:20.912] LEMEC: Your fleet deployments do not concern us.
+[00:33:21.392 --> 00:33:27.552] LEMEC: However, we are very concerned about your refusal to vacate those territories along the border which are clearly Cardassian.
+[00:33:28.272 --> 00:33:31.152] JELLICO: You gave up your claims on those territories when you signed the armistice.
+[00:33:31.712 --> 00:33:35.552] JELLICO: You couldn't take those worlds by force, so you want us to give them to you at the bargaining table.
+[00:33:35.552 --> 00:33:37.632] TROI: Captain, please, we should listen to them.
+[00:33:41.952 --> 00:33:47.158] RIKER: Gul Lemec, as you know. the systems are still subject to negotiation by the terms of the treaty.
+[00:33:47.158 --> 00:33:49.472] LEMEC: Negotiations which we have pursued in good faith.
+[00:33:50.112 --> 00:33:53.392] LEMEC: Unfortunately, the Federation has not been as forthcoming.
+[00:33:53.872 --> 00:33:56.352] JELLICO: So to speed up the process, you are preparing for war.
+[00:33:56.752 --> 00:33:58.912] LEMEC: We are preparing to defend ourselves.
+[00:33:59.632 --> 00:34:01.232] RIKER: The Federation will not start a war.
+[00:34:01.872 --> 00:34:03.792] LEMEC: That has always been your position.
+[00:34:05.872 --> 00:34:06.352] LEMEC: However,
+[00:34:07.872 --> 00:34:13.392] LEMEC: I have heard reports that a small team from the Federation has already been sent into our territory.
+[00:34:14.272 --> 00:34:15.792] LEMEC: Of course, I don't believe it.
+[00:34:16.832 --> 00:34:26.512] LEMEC: Such an attempt would almost certainly fail, and even if it succeeded, it would trigger a very serious response on our part.
+[00:34:28.032 --> 00:34:29.312] JELLICO: I don't know what you're talking about.
+[00:34:30.352 --> 00:34:31.872] LEMEC: Then there's no need for worry.
+[00:34:34.857 --> 00:34:37.257] LEMEC: A short recess would seem to be in order.
+[00:34:40.057 --> 00:34:40.537] JELLICO: Very well.
+[00:34:42.297 --> 00:34:43.577] LEMEC: Where is Captain Picard?
+[00:34:47.096 --> 00:34:47.657] JELLICO: Reassigned.
+[00:34:48.857 --> 00:34:51.817] LEMEC: Well, I hope his new assignment is not too dangerous.
+[00:34:52.617 --> 00:34:55.817] LEMEC: It would be a shame if something were to happen to such a, er,
+[00:34:57.337 --> 00:34:58.937] LEMEC: such a noted officer.
+[00:35:01.417 --> 00:35:01.897] JELLICO: Yes,
+[00:35:03.817 --> 00:35:04.217] JELLICO: it would.
+[00:35:14.056 --> 00:35:16.937] PICARD: Only a few more metres.
+[00:35:17.087 --> 00:35:19.287] PICARD: Beverly, get out of there!
+[00:36:03.449 --> 00:36:04.049] PICARD: Beverly!
+[00:36:12.872 --> 00:36:14.872] WORF: I have her.
+[00:36:14.872 --> 00:36:15.352] PICARD: Are you all right?
+[00:36:15.352 --> 00:36:16.632] CRUSHER: I think so.
+[00:36:18.792 --> 00:36:20.392] CRUSHER: Next time, you try bring up the rear.
+[00:36:20.712 --> 00:36:21.272] PICARD: We're nearly there.
+[00:36:21.272 --> 00:36:21.912] PICARD: Can you continue?
+[00:36:39.192 --> 00:36:40.952] PICARD: Looks like a maintenance hatch to the installation.
+[00:36:41.672 --> 00:36:43.912] PICARD: I'm picking up three proximity sensors around it.
+[00:36:54.632 --> 00:36:58.072] WORF: Sensor echoes established, but the false image will only last a few minutes.
+[00:37:00.632 --> 00:37:02.232] WORF: The
+[00:37:04.152 --> 00:37:06.712] WORF: hatch is magnetically sealed, but I believe I can bypass it.
+[00:37:07.112 --> 00:37:09.112] CRUSHER: I can't get a scan from the other side of the hatch.
+[00:37:09.672 --> 00:37:10.392] CRUSHER: It's been shielded.
+[00:37:11.032 --> 00:37:11.672] PICARD: We have no choice.
+[00:37:12.792 --> 00:37:15.752] PICARD: Remember, aim low. Fire in short, controlled bursts.
+[00:37:17.032 --> 00:37:17.592] WORF: Ready.
+[00:37:17.742 --> 00:37:18.342] PICARD: Now.
+[00:37:23.032 --> 00:37:23.032] CRUSHER: There's
+[00:37:36.312 --> 00:37:37.032] CRUSHER: no one here.
+[00:37:38.632 --> 00:37:39.032] CRUSHER: There's no lab.
+[00:37:47.684 --> 00:37:47.764] PICARD: It's a
+[00:38:38.324 --> 00:38:38.324] PICARD: trap.
+[00:38:38.404 --> 00:38:38.724] PICARD: Come on.
+[00:38:38.724 --> 00:38:38.804] WORF: Captain!
+[00:38:39.124 --> 00:38:39.364] CRUSHER: Let's go.
+[00:38:39.364 --> 00:38:39.364] WORF: The Captain.
+[00:38:39.364 --> 00:38:41.604] CRUSHER: No. There are five more of them heading this way from another tunnel.
+[00:38:42.964 --> 00:38:43.364] CRUSHER: Come on.
+[00:38:43.364 --> 00:38:43.364] CRUSHER: Now!
+[00:38:43.764 --> 00:38:44.004] CARDASSIAN: Come
+[00:38:46.724 --> 00:38:46.724] CARDASSIAN: on.
+[00:39:16.561 --> 00:39:17.441] DATA: Captain on the Bridge.
+[00:39:21.121 --> 00:39:21.761] JELLICO: What have you got, Will?
+[00:39:22.801 --> 00:39:23.281] RIKER: I'm not sure.
+[00:39:23.281 --> 00:39:26.481] RIKER: We're picking up a lot of coded messages from a Cardassian planet near the border.
+[00:39:26.881 --> 00:39:27.361] JELLICO: Which planet?
+[00:39:27.441 --> 00:39:28.321] RIKER: Celtris Three.
+[00:39:29.041 --> 00:39:32.001] JELLICO: Can you detect any theta-band subspace emissions coming from Celtris?
+[00:39:32.081 --> 00:39:33.361] RIKER: There are some residual traces.
+[00:39:33.761 --> 00:39:35.921] RIKER: It seems there were emissions up until a few minutes ago.
+[00:39:37.041 --> 00:39:38.801] JELLICO: Open a secure channel to Admiral Nechayev.
+[00:39:40.401 --> 00:39:41.041] JELLICO: Priority two.
+[00:39:41.121 --> 00:39:42.054] JELLICO: Put it through to my Ready room.
+[00:39:42.054 --> 00:39:42.321] RIKER: Aye, sir.
+[00:39:56.401 --> 00:39:56.801] NECHAYEV: Captain?
+[00:39:57.201 --> 00:39:59.761] JELLICO: Those emissions you were so concerned about have just stopped.
+[00:40:00.641 --> 00:40:03.521] JELLICO: I'd say one way or another, our friends have finished their task.
+[00:40:04.081 --> 00:40:05.521] NECHAYEV: Have you heard from our friends?
+[00:40:07.761 --> 00:40:07.921] JELLICO: No.
+[00:40:09.521 --> 00:40:10.321] NECHAYEV: Let me know if you do.
+[00:40:11.441 --> 00:40:13.201] NECHAYEV: I'd very much like to see them again.
+[00:40:13.921 --> 00:40:14.721] JELLICO: So would I, Admiral.
+[00:40:17.521 --> 00:40:18.161] MADRED: A challenge.
+[00:40:53.641 --> 00:40:55.561] MADRED: You should prove to be an interesting challenge.
+[00:40:57.561 --> 00:41:01.001] MADRED: Possibly the most interesting to come through that door in many years.
+[00:41:01.801 --> 00:41:02.281] PICARD: What do you want?
+[00:41:03.721 --> 00:41:04.601] MADRED: Why you, of course.
+[00:41:06.521 --> 00:41:06.841] MADRED: Picard.
+[00:41:08.921 --> 00:41:09.481] MADRED: Jean-Luc.
+[00:41:12.361 --> 00:41:13.241] MADRED: Serial number
+[00:41:15.241 --> 00:41:22.281] MADRED: SP dash nine three seven dash two one five.
+[00:41:24.041 --> 00:41:29.881] MADRED: Son of Maurice and Yvette Picard. Born in La Barre, France.
+[00:41:30.201 --> 00:41:32.441] MADRED: Formerly Captain of the Stargazer,
+[00:41:33.961 --> 00:41:38.281] MADRED: where you conducted extensive studies on theta-band subspace carrier waves.
+[00:41:40.281 --> 00:41:41.561] MADRED: Don't look so surprised.
+[00:41:42.201 --> 00:41:47.721] MADRED: How could we have designed a lure for the Captain of the Federation flagship unless we knew something about his background.
+[00:41:48.361 --> 00:41:51.241] PICARD: So you concocted an elaborate ruse to bring me here.
+[00:41:52.041 --> 00:41:52.361] PICARD: Why?
+[00:41:53.081 --> 00:41:55.401] MADRED: In this room, you do not ask questions.
+[00:41:56.681 --> 00:41:57.561] MADRED: I ask them,
+[00:41:58.681 --> 00:41:59.321] MADRED: you answer.
+[00:42:00.602 --> 00:42:04.602] MADRED: If I'm not satisfied with those answers, you will die.
+[00:42:18.000 --> 00:42:26.000] [music]

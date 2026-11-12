@@ -1,0 +1,740 @@
+[00:00:03.920 --> 00:00:05.920] RIKER: Damage report!
+[00:00:06.720 --> 00:00:08.560] CRUSHER: Casualty reports coming in from all over the ship.
+[00:00:09.040 --> 00:00:11.280] DATA: The starboard nacelle has sustained a direct impact.
+[00:00:11.520 --> 00:00:12.640] DATA: We are venting drive plasma.
+[00:00:13.120 --> 00:00:15.040] LAFORGE: Initiating emergency core shutdown.
+[00:00:15.600 --> 00:00:16.880] RO: Inertial dampers failing.
+[00:00:16.960 --> 00:00:18.000] RO: We're losing attitude control.
+[00:00:18.560 --> 00:00:19.200] RIKER: This is the Bridge.
+[00:00:19.520 --> 00:00:21.360] RIKER: All hands to emergency escape pods.
+[00:00:24.160 --> 00:00:26.880] DATA: Core shutdown is unsuccessful.
+[00:00:26.880 --> 00:00:29.600] DATA: We are losing antimatter containment.
+[00:00:29.680 --> 00:00:31.520] LAFORGE: We've got to eject the core!
+[00:00:32.080 --> 00:00:33.120] DATA: Ejection systems offline.
+[00:00:34.320 --> 00:00:35.280] DATA: Core breach is imminent.
+[00:00:36.080 --> 00:00:37.200] PICARD: All hands abandon ship.
+[00:00:38.080 --> 00:00:38.320] PICARD: Repeat,
+[00:00:38.880 --> 00:00:40.000] PICARD: all hands abandon
+[00:01:09.680 --> 00:01:13.760] PICARD: Space, the final frontier.
+[00:01:15.600 --> 00:01:18.560] PICARD: These are the voyagers of the starship Enterprise.
+[00:01:19.600 --> 00:01:23.360] PICARD: Its continuing mission to explore strange new worlds, to
+[00:01:24.880 --> 00:01:26.000] PICARD: seek out new life.
+[00:01:26.382 --> 00:01:27.582] PICARD: New civilizations
+[00:01:29.262 --> 00:01:32.142] PICARD: to boldly go where no one has gone before.
+[00:01:35.000 --> 00:01:47.000] [music]
+[00:01:48.000 --> 00:02:13.000] [music]
+[00:02:22.000 --> 00:02:33.000] [music]
+[00:02:29.742 --> 00:02:32.622] LOG: Captain's log, stardate 45652.1.
+[00:02:33.262 --> 00:02:40.302] LOG: The Enterprise has entered an area of space known as the Typhon Expanse. We're the first Starfleet vessel to chart this unexplored region.
+[00:02:50.142 --> 00:02:51.662] RIKER: Sometimes I wonder if he's stacking the deck.
+[00:02:52.382 --> 00:02:55.102] DATA: I assure you, Commander, the cards are sufficiently randomised.
+[00:02:55.102 --> 00:02:57.022] WORF: I hope so.
+[00:03:00.222 --> 00:03:00.622] DATA: Eight,
+[00:03:01.536 --> 00:03:05.296] DATA: Ace, Queen. The dealer receives a four.
+[00:03:07.776 --> 00:03:08.016] WORF: No bet.
+[00:03:12.576 --> 00:03:14.576] DATA: Ten. Seven.
+[00:03:14.576 --> 00:03:15.376] DATA: No help there.
+[00:03:16.256 --> 00:03:17.456] DATA: A pair of ladies for the Doctor.
+[00:03:18.656 --> 00:03:19.936] DATA: The dealer receives a nine.
+[00:03:25.616 --> 00:03:25.856] DATA: Doctor?
+[00:03:27.536 --> 00:03:30.416] DATA: May I remind you since you show the highest hand, you control the next bet.
+[00:03:31.616 --> 00:03:31.936] CRUSHER: Thank you,
+[00:03:33.616 --> 00:03:35.616] CRUSHER: Data.
+[00:03:35.616 --> 00:03:36.096] CRUSHER: I bet ten.
+[00:03:38.976 --> 00:03:39.216] CRUSHER: Worf?
+[00:03:42.336 --> 00:03:42.736] DATA: Jack.
+[00:03:43.856 --> 00:03:44.256] DATA: Four.
+[00:03:45.136 --> 00:03:45.696] DATA: Deuce.
+[00:03:46.416 --> 00:03:46.976] DATA: Six.
+[00:03:50.096 --> 00:03:50.336] CRUSHER: Twenty.
+[00:03:56.096 --> 00:03:58.256] RIKER: Your twenty, and fifty more.
+[00:03:58.976 --> 00:03:59.456] WORF: Fifty?
+[00:04:03.616 --> 00:04:05.616] CRUSHER: I'm
+[00:04:09.056 --> 00:04:09.216] CRUSHER: in.
+[00:04:10.816 --> 00:04:11.696] DATA: I will also see the bet.
+[00:04:13.856 --> 00:04:16.096] DATA: Seven. A possible straight for Commander Riker.
+[00:04:17.056 --> 00:04:17.376] DATA: Jack.
+[00:04:17.376 --> 00:04:18.656] DATA: Still no help for the Klingon.
+[00:04:19.616 --> 00:04:20.096] DATA: Eight.
+[00:04:21.776 --> 00:04:22.496] DATA: Nine for the dealer.
+[00:04:27.456 --> 00:04:27.696] CRUSHER: Twenty.
+[00:04:28.816 --> 00:04:31.776] DATA: Too rich for my blood.
+[00:04:34.096 --> 00:04:34.576] RIKER: Your twenty,
+[00:04:35.569 --> 00:04:36.049] RIKER: one hundred more.
+[00:04:40.049 --> 00:04:40.049] WORF: Fold.
+[00:04:45.809 --> 00:04:46.289] CRUSHER: Two hundred.
+[00:04:50.209 --> 00:04:52.209] RIKER: Your two, and three hundred more.
+[00:04:52.369 --> 00:04:55.729] WORF: He does not have a straight.
+[00:04:57.009 --> 00:04:58.449] CRUSHER: We'll soon find out, won't we.
+[00:05:01.889 --> 00:05:02.849] CRUSHER: Let's see your cards.
+[00:05:06.609 --> 00:05:07.169] RIKER: Take it.
+[00:05:07.249 --> 00:05:08.049] RIKER: How'd
+[00:05:09.889 --> 00:05:10.769] RIKER: you know I was bluffing?
+[00:05:11.489 --> 00:05:12.209] CRUSHER: I just had a feeling.
+[00:05:13.569 --> 00:05:15.009] RIKER: I guess it's better to be lucky than good.
+[00:05:15.569 --> 00:05:17.889] CRUSHER: It's the way your left eyebrow raises when your bluffing.
+[00:05:19.969 --> 00:05:20.849] CRUSHER: Just kidding, Commander.
+[00:05:22.369 --> 00:05:23.409] OGAWA: Ogawa to Doctor Crusher.
+[00:05:23.969 --> 00:05:24.449] CRUSHER: Go ahead.
+[00:05:25.249 --> 00:05:26.929] OGAWA: Commander La Forge needs you in Sickbay.
+[00:05:27.329 --> 00:05:27.889] CRUSHER: On my way.
+[00:05:34.929 --> 00:05:36.529] LAFORGE: At first I thought the catwalk was spinning.
+[00:05:37.729 --> 00:05:39.089] LAFORGE: As it turns out, it was me.
+[00:05:41.089 --> 00:05:42.609] LAFORGE: Luckily Ensign Fletcher was there to grab me.
+[00:05:42.609 --> 00:05:44.689] LAFORGE: It's a long way down to the bottom of the warp core.
+[00:05:46.849 --> 00:05:49.169] CRUSHER: You have all the symptoms of an inner ear infection.
+[00:05:50.529 --> 00:05:52.449] CRUSHER: That would explain the dizziness and the headaches.
+[00:05:53.809 --> 00:05:55.169] CRUSHER: But there's no physical evidence.
+[00:05:56.129 --> 00:05:57.729] CRUSHER: My guess is you've been working too hard.
+[00:05:58.529 --> 00:06:00.849] LAFORGE: I have been putting a lot of extra hours on this
+[00:06:01.028 --> 00:06:02.468] LAFORGE: Typhon Expanse project.
+[00:06:03.348 --> 00:06:04.948] CRUSHER: I'll give you twenty cc's of vertazine.
+[00:06:05.348 --> 00:06:06.548] CRUSHER: That should clear up the dizziness.
+[00:06:06.548 --> 00:06:09.588] CRUSHER: But finding time to relax is up to you.
+[00:06:11.348 --> 00:06:11.508] LAFORGE: What?
+[00:06:12.468 --> 00:06:12.868] LAFORGE: What is it?
+[00:06:13.828 --> 00:06:15.348] CRUSHER: Geordi, have you had these symptoms before?
+[00:06:16.948 --> 00:06:17.268] LAFORGE: No.
+[00:06:17.748 --> 00:06:18.068] CRUSHER: You're sure?
+[00:06:18.548 --> 00:06:19.348] LAFORGE: Yeah, I'm positive.
+[00:06:19.348 --> 00:06:19.668] LAFORGE: Why?
+[00:06:21.588 --> 00:06:22.148] CRUSHER: It's funny.
+[00:06:24.068 --> 00:06:29.108] CRUSHER: I feel like we've discussed this before, and I remember giving you a hypospray for dizziness.
+[00:06:30.148 --> 00:06:33.508] LAFORGE: I've never had these symptoms before today, so you must be thinking about another patient.
+[00:06:34.068 --> 00:06:35.588] CRUSHER: No. I'm sure it was you.
+[00:06:38.228 --> 00:06:42.868] CRUSHER: Well, try to get some rest, and try to stay away from high places for a few days, just in case.
+[00:06:43.988 --> 00:06:44.628] LAFORGE: Thanks, Doc.
+[00:06:46.628 --> 00:06:46.948] CRUSHER: Goodnight.
+[00:06:47.428 --> 00:06:47.748] LAFORGE: Goodnight.
+[00:08:07.778 --> 00:08:10.258] LAFORGE: As you can see, the Typhon Expanse is huge.
+[00:08:10.498 --> 00:08:14.578] LAFORGE: If we want to chart the most remote star system, we'll have to launch a probe within the next few hours.
+[00:08:14.658 --> 00:08:14.978] RIKER: Fine.
+[00:08:15.058 --> 00:08:16.178] RIKER: What about the luminosity studies?
+[00:08:16.258 --> 00:08:17.778] LAFORGE: That may pose a problem.
+[00:08:18.018 --> 00:08:18.338] PICARD: How so?
+[00:08:19.138 --> 00:08:21.378] LAFORGE: The flux spectrometers are still down for re-alignment.
+[00:08:21.378 --> 00:08:23.138] RIKER: I thought they were supposed to be back online yesterday.
+[00:08:23.218 --> 00:08:27.298] LAFORGE: They were, until the stellar dynamics lab decided they needed to install new modules.
+[00:08:28.018 --> 00:08:30.098] DATA: I recommend we use a gravitron polarimeter.
+[00:08:30.338 --> 00:08:31.698] DATA: It will perform a similar function.
+[00:08:32.498 --> 00:08:33.458] PICARD: Make it so, Mister Data.
+[00:08:34.018 --> 00:08:36.418] CRUSHER: Captain, I have something I'd like to report.
+[00:08:37.218 --> 00:08:37.778] PICARD: Yes, Doctor?
+[00:08:39.218 --> 00:08:41.458] CRUSHER: I heard voices in my room last night.
+[00:08:42.338 --> 00:08:45.298] CRUSHER: I was alone, so at first I thought I was imagining things.
+[00:08:45.858 --> 00:08:49.858] CRUSHER: But this morning, ten other people reported hearing them at the same time I did.
+[00:08:50.098 --> 00:08:51.218] TROI: What were the voices saying?
+[00:08:52.898 --> 00:08:53.858] CRUSHER: I couldn't make them out.
+[00:08:55.538 --> 00:08:57.618] RIKER: Data, did the sensors pick up anything unusual last night?
+[00:08:58.906 --> 00:09:00.426] DATA: No anomalous readings were reported.
+[00:09:00.576 --> 00:09:01.176] RIKER: When
+[00:09:02.186 --> 00:09:02.906] RIKER: we're through here,
+[00:09:03.226 --> 00:09:04.266] RIKER: re-check the sensor logs.
+[00:09:04.586 --> 00:09:04.826] DATA: Aye, sir.
+[00:09:05.866 --> 00:09:06.266] PICARD: Counsellor?
+[00:09:07.786 --> 00:09:09.386] TROI: I sensed nothing unusual last night.
+[00:09:11.146 --> 00:09:12.506] LAFORGE: Maybe it's a problem with the comm. system.
+[00:09:14.106 --> 00:09:15.226] WORF: Bridge to Captain Picard.
+[00:09:15.786 --> 00:09:16.266] PICARD: Go ahead.
+[00:09:16.666 --> 00:09:18.106] WORF: We are getting unusual readings
+[00:09:18.106 --> 00:09:20.026] WORF: twenty thousand kilometres off the starboard bow.
+[00:09:20.586 --> 00:09:21.146] PICARD: On our
+[00:09:25.626 --> 00:09:27.626] PICARD: way.
+[00:09:27.706 --> 00:09:27.946] PICARD: Report.
+[00:09:28.986 --> 00:09:31.786] RO: Sensors didn't detect the phenomenon until we were almost on top of it, sir.
+[00:09:32.586 --> 00:09:35.866] WORF: It is a highly localised distortion of the space-time continuum.
+[00:09:36.506 --> 00:09:36.986] RIKER: On screen.
+[00:09:43.866 --> 00:09:44.826] PICARD: Back us off, Ensign.
+[00:09:46.186 --> 00:09:46.906] PICARD: Nice and slow.
+[00:09:47.466 --> 00:09:47.866] RO: Aye sir.
+[00:09:49.546 --> 00:09:49.946] RO: Captain,
+[00:09:50.186 --> 00:09:51.706] RO: manoeuvring thrusters are not responding.
+[00:09:52.186 --> 00:09:53.626] DATA: The distortion field is fluctuating.
+[00:09:56.906 --> 00:10:00.826] LAFORGE: All main systems just went down.
+[00:10:00.826 --> 00:10:02.346] LAFORGE: Power levels are dropping rapidly.
+[00:10:02.346 --> 00:10:02.826] RIKER: Red alert.
+[00:10:02.826 --> 00:10:05.306] DATA: There is an energy build up in the distortion field.
+[00:10:05.866 --> 00:10:06.986] TROI: We have to get out of here now.
+[00:10:08.186 --> 00:10:08.426] DATA: Captain,
+[00:10:08.746 --> 00:10:09.626] DATA: something is emerging.
+[00:10:13.546 --> 00:10:13.946] RIKER: Shields up.
+[00:10:14.106 --> 00:10:14.746] RIKER: Evasive manoeuvres.
+[00:10:16.506 --> 00:10:17.306] WORF: Shields inoperative.
+[00:10:18.266 --> 00:10:19.386] RO: The helm's not responding.
+[00:10:19.866 --> 00:10:21.386] DATA: The vessel is on a collision course.
+[00:10:21.546 --> 00:10:23.226] DATA: Impact in thirty six seconds.
+[00:10:23.226 --> 00:10:24.106] PICARD: Hail them.
+[00:10:26.426 --> 00:10:27.066] WORF: No response.
+[00:10:29.386 --> 00:10:29.866] PICARD: Suggestions?
+[00:10:30.586 --> 00:10:31.706] RIKER: Decompress main shuttlebay. The
+[00:10:31.892 --> 00:10:34.052] RIKER: explosive reaction may kick us out of the way.
+[00:10:34.052 --> 00:10:34.292] DATA: Captain,
+[00:10:34.932 --> 00:10:37.812] DATA: I suggest we use the tractor beam to alter the other ship's trajectory.
+[00:10:38.692 --> 00:10:39.492] PICARD: Mister Worf, make it so.
+[00:10:40.212 --> 00:10:41.092] WORF: Engaging tractor beam.
+[00:10:48.452 --> 00:10:49.172] RIKER: Damage report!
+[00:10:50.132 --> 00:10:51.892] CRUSHER: Casualty reports coming in from all over the ship.
+[00:10:52.292 --> 00:10:55.812] DATA: Starboard nacelle sustained a direct impact. Venting drive plasma.
+[00:10:56.292 --> 00:10:58.292] LAFORGE: Initiating emergency core shutdown.
+[00:10:58.852 --> 00:10:59.892] RO: Inertial dampers failing.
+[00:11:00.212 --> 00:11:01.252] RO: We're losing attitude control.
+[00:11:01.732 --> 00:11:02.372] RIKER: This is the Bridge.
+[00:11:02.532 --> 00:11:04.532] RIKER: All hands to emergency escape pods.
+[00:11:08.132 --> 00:11:11.332] DATA: Core shutdown was unsuccessful.
+[00:11:11.732 --> 00:11:13.332] DATA: We are losing antimatter containment.
+[00:11:13.732 --> 00:11:15.092] LAFORGE: We've got to eject the engine core!
+[00:11:15.812 --> 00:11:17.412] DATA: Ejection systems are offline.
+[00:11:17.652 --> 00:11:18.612] DATA: Core breach is imminent.
+[00:11:19.252 --> 00:11:20.292] PICARD: All hands, abandon ship!
+[00:11:21.012 --> 00:11:22.532] PICARD: Repeat, all hands abandon
+[00:11:30.052 --> 00:11:33.012] LOG: Captain's log, stardate 45652.1.
+[00:11:33.492 --> 00:11:37.172] LOG: The Enterprise has entered an area of space known as the Typhon Expanse.
+[00:11:37.172 --> 00:11:40.132] LOG: We are the first Starfleet vessel to chart this unexplored region.
+[00:11:42.212 --> 00:11:43.892] RIKER: Sometimes I wonder if he's stacking the deck.
+[00:11:44.612 --> 00:11:47.492] DATA: I assure you, Commander, the cards have been sufficiently randomised.
+[00:11:47.732 --> 00:11:48.612] WORF: I hope so.
+[00:11:52.932 --> 00:11:56.452] DATA: Eight. Ace. Queen.
+[00:11:57.492 --> 00:11:58.452] DATA: The dealer receives a four.
+[00:12:02.852 --> 00:12:03.172] WORF: No bet.
+[00:12:04.339 --> 00:12:07.619] DATA: Ten. Seven.
+[00:12:07.619 --> 00:12:08.419] DATA: No help there.
+[00:12:09.539 --> 00:12:10.819] DATA: A pair of ladies for the Doctor.
+[00:12:11.779 --> 00:12:12.739] DATA: Dealer receives a nine.
+[00:12:15.139 --> 00:12:19.619] DATA: Doctor? May I remind you since you show the highest hand, you control the next bet.
+[00:12:22.819 --> 00:12:24.099] WORF: Is there something wrong, Doctor?
+[00:12:24.739 --> 00:12:24.899] CRUSHER: No.
+[00:12:25.779 --> 00:12:26.659] CRUSHER: I bet
+[00:12:28.179 --> 00:12:30.179] CRUSHER: ten.
+[00:12:31.939 --> 00:12:32.419] DATA: Jack.
+[00:12:33.619 --> 00:12:34.019] DATA: Four.
+[00:12:35.139 --> 00:12:35.699] DATA: Deuce.
+[00:12:36.579 --> 00:12:37.059] DATA: Six.
+[00:12:38.899 --> 00:12:39.219] CRUSHER: Twenty.
+[00:12:43.459 --> 00:12:45.619] RIKER: Your twenty and I'll raise you fifty.
+[00:12:47.779 --> 00:12:48.899] RIKER: You're going to call my bluff, aren't you.
+[00:12:52.099 --> 00:12:53.139] RIKER: I think I'll quit while I'm ahead.
+[00:12:54.579 --> 00:12:56.259] CRUSHER: How did you know I was going to call your bluff?
+[00:12:57.699 --> 00:12:58.339] RIKER: I just had a feeling.
+[00:13:00.899 --> 00:13:01.139] CRUSHER: Me too.
+[00:13:02.579 --> 00:13:03.539] OGAWA: Ogawa to Doctor Crusher.
+[00:13:04.819 --> 00:13:05.379] CRUSHER: Go ahead.
+[00:13:06.019 --> 00:13:07.459] OGAWA: Commander La Forge needs you in Sickbay.
+[00:13:07.939 --> 00:13:08.499] CRUSHER: On my way.
+[00:13:18.739 --> 00:13:20.259] LAFORGE: At first I thought the catwalk was spinning.
+[00:13:21.219 --> 00:13:22.339] LAFORGE: As it turns out, it was me.
+[00:13:23.539 --> 00:13:26.259] LAFORGE: I was lucky Ensign
+[00:13:26.259 --> 00:13:27.219] LAFORGE: Fletcher was there to grab me.
+[00:13:27.219 --> 00:13:29.219] LAFORGE: It's a long way down to the bottom of the warp core.
+[00:13:30.819 --> 00:13:32.979] CRUSHER: You have all the symptoms of an inner ear infection.
+[00:13:33.859 --> 00:13:35.539] CRUSHER: That would explain your the headaches and the dizziness.
+[00:13:36.424 --> 00:13:37.464] CRUSHER: But there's no physical
+[00:13:39.624 --> 00:13:39.784] LAFORGE: What?
+[00:13:42.584 --> 00:13:42.904] LAFORGE: What is it?
+[00:13:43.384 --> 00:13:44.904] CRUSHER: Geordi, have you ever had these symptoms before?
+[00:13:47.544 --> 00:13:48.104] LAFORGE: Now that you mention it,
+[00:13:48.104 --> 00:13:49.704] LAFORGE: I think I have.
+[00:13:49.864 --> 00:13:50.584] CRUSHER: Do you recall when?
+[00:13:51.864 --> 00:13:52.824] LAFORGE: No, I don't.
+[00:13:55.464 --> 00:13:58.824] CRUSHER: We've had this discussion before and I know I've given you this examination.
+[00:14:00.104 --> 00:14:01.304] CRUSHER: Let's check the medical logs.
+[00:14:10.504 --> 00:14:15.784] CRUSHER: You've been treated several times for headaches related to your visor, but I read no mention of dizziness.
+[00:14:18.344 --> 00:14:19.304] LAFORGE: Must be déjà vu.
+[00:14:20.344 --> 00:14:22.984] CRUSHER: Both of us? About the same thing?
+[00:15:29.879 --> 00:15:30.599] CRUSHER: Crusher to Captain Picard.
+[00:15:31.559 --> 00:15:32.039] PICARD: Yes, Doctor?
+[00:15:32.439 --> 00:15:35.399] CRUSHER: Do you have a minute, Jean-Luc?
+[00:15:42.359 --> 00:15:43.319] PICARD: My Aunt
+[00:15:43.639 --> 00:15:46.279] PICARD: Adele cured a lot of sleepless nights with this steamed milk.
+[00:15:48.679 --> 00:15:49.079] CRUSHER: Thank you.
+[00:15:49.229 --> 00:15:49.829] CRUSHER: Mmm,
+[00:15:51.559 --> 00:15:52.119] CRUSHER: nutmeg.
+[00:15:52.759 --> 00:15:55.799] PICARD: Whenever I get insomnia, I try to perfect the recipe.
+[00:15:57.079 --> 00:15:58.359] CRUSHER: It was the eeriest feeling.
+[00:15:59.799 --> 00:16:06.279] CRUSHER: When the glass broke, it triggered the sensation even more intensely that I'd done it all before.
+[00:16:09.079 --> 00:16:09.479] PICARD: You know,
+[00:16:11.799 --> 00:16:14.759] PICARD: earlier, I was reading this book, and
+[00:16:16.679 --> 00:16:19.719] PICARD: I had the distinct feeling I'd read certain paragraphs before.
+[00:16:21.159 --> 00:16:25.319] PICARD: But I assumed I'd read the book years ago and I'd forgotten.
+[00:16:27.639 --> 00:16:31.879] CRUSHER: I've had this feeling for hours. And then the voices.
+[00:16:34.039 --> 00:16:34.359] PICARD: Well,
+[00:16:36.809 --> 00:16:40.649] PICARD: it could be nothing more than the result of a sleepless night. But let's be sure.
+[00:16:41.369 --> 00:16:46.249] PICARD: Have Data and Geordi run a shipwide diagnostic, concentrating on the time and place you heard the voices, and
+[00:16:46.889 --> 00:16:50.249] PICARD: we'll discuss the results tomorrow at seven hundred hours.
+[00:16:50.249 --> 00:16:53.929] CRUSHER: Thank you.
+[00:16:55.849 --> 00:16:56.041] CRUSHER: For everything.
+[00:16:56.041 --> 00:16:56.329] PICARD: Thank Aunt Adele.
+[00:17:05.049 --> 00:17:06.489] DATA: The internal scans were negative.
+[00:17:06.809 --> 00:17:09.609] DATA: There was no evidence of auditory anomalies anywhere on the ship.
+[00:17:09.849 --> 00:17:12.809] LAFORGE: As far as the sensors are concerned, nothing unusual happened last night.
+[00:17:14.009 --> 00:17:17.529] CRUSHER: Ten other people reported hearing voices at the same time I did.
+[00:17:18.329 --> 00:17:19.369] WORF: Bridge to Captain Picard.
+[00:17:19.849 --> 00:17:20.329] PICARD: Go ahead.
+[00:17:20.649 --> 00:17:22.169] WORF: We are getting unusual readings
+[00:17:22.169 --> 00:17:24.169] WORF: twenty thousand kilometres off the starboard bow.
+[00:17:25.769 --> 00:17:26.169] PICARD: On our way.
+[00:17:31.689 --> 00:17:32.009] PICARD: Report.
+[00:17:32.889 --> 00:17:35.609] RO: Sensors didn't detect the phenomenon until we were almost on top of it, sir.
+[00:17:36.329 --> 00:17:39.209] WORF: It is a highly localised distortion of the space-time continuum.
+[00:17:39.929 --> 00:17:40.409] RIKER: On screen.
+[00:17:49.129 --> 00:17:49.929] PICARD: Back us off, Ensign.
+[00:17:51.449 --> 00:17:52.089] PICARD: Nice and slow.
+[00:17:52.409 --> 00:17:52.809] RO: Aye sir.
+[00:17:54.409 --> 00:17:56.569] RO: Captain, manoeuvreing thrusters are not responding.
+[00:17:56.569 --> 00:17:58.489] DATA: The distortion field is fluctuating.
+[00:18:02.969 --> 00:18:06.329] LAFORGE: All main systems just went down.
+[00:18:06.409 --> 00:18:07.849] LAFORGE: Power levels are dropping rapidly.
+[00:18:08.169 --> 00:18:08.569] RIKER: Red alert.
+[00:18:09.529 --> 00:18:11.369] DATA: There is an energy build up in the distortion field.
+[00:18:12.098 --> 00:18:14.160] TROI: We have to get out of here now.
+[00:18:14.160 --> 00:18:14.418] DATA: Captain,
+[00:18:14.978 --> 00:18:15.778] DATA: something is emerging.
+[00:18:19.698 --> 00:18:20.098] RIKER: Shields up.
+[00:18:20.338 --> 00:18:21.138] RIKER: Evasive manoeuvres.
+[00:18:22.738 --> 00:18:23.538] WORF: Shields inoperative.
+[00:18:24.178 --> 00:18:25.378] RO: The helm is not responding.
+[00:18:25.698 --> 00:18:27.058] DATA: The vessel is on a collision course.
+[00:18:27.298 --> 00:18:29.138] DATA: Impact in thirty six seconds.
+[00:18:29.378 --> 00:18:29.778] PICARD: Hail them.
+[00:18:32.178 --> 00:18:32.818] WORF: No response.
+[00:18:34.178 --> 00:18:34.658] PICARD: Suggestions?
+[00:18:35.538 --> 00:18:36.498] RIKER: Decompress main shuttlebay.
+[00:18:36.658 --> 00:18:38.178] RIKER: The explosive reaction may blow us out of the way.
+[00:18:38.898 --> 00:18:39.218] DATA: Captain,
+[00:18:40.018 --> 00:18:42.898] DATA: I suggest we use the tractor beam to alter the other ship's trajectory.
+[00:18:43.538 --> 00:18:44.258] PICARD: Make it so, Mister Worf.
+[00:18:44.818 --> 00:18:45.778] WORF: Engaging tractor beam.
+[00:18:51.218 --> 00:18:53.538] RIKER: Damage report!
+[00:18:54.258 --> 00:18:56.098] CRUSHER: Casualty reports coming in from all over the ship.
+[00:18:56.578 --> 00:18:58.738] DATA: Starboard nacelle has sustained a direct impact.
+[00:18:59.138 --> 00:19:00.418] DATA: We are venting drive plasma.
+[00:19:01.058 --> 00:19:02.658] LAFORGE: Initiating emergency core shutdown.
+[00:19:03.378 --> 00:19:04.578] RO: Inertial dampers failing.
+[00:19:04.578 --> 00:19:05.858] RO: We're losing attitude control.
+[00:19:06.258 --> 00:19:06.898] RIKER: This is the Bridge.
+[00:19:07.138 --> 00:19:09.138] RIKER: All hands to emergency escape pods.
+[00:19:13.698 --> 00:19:15.058] DATA: Core shutdown was unsuccessful.
+[00:19:15.458 --> 00:19:16.818] DATA: We are losing antimatter containment.
+[00:19:17.618 --> 00:19:18.578] LAFORGE: We've got to eject the core!
+[00:19:19.458 --> 00:19:20.978] DATA: Ejector systems are offline.
+[00:19:21.538 --> 00:19:22.578] DATA: Core breach is imminent
+[00:19:23.138 --> 00:19:24.018] PICARD: All hands abandon ship.
+[00:19:24.978 --> 00:19:25.298] PICARD: Repeat,
+[00:19:25.778 --> 00:19:32.674] PICARD: all hands abandon
+[00:19:33.778 --> 00:19:36.658] LOG: Captain's log, stardate 45652.1.
+[00:19:37.218 --> 00:19:40.738] LOG: The Enterprise has entered an area of space known as the Typhon Expanse.
+[00:19:40.818 --> 00:19:43.858] LOG: We are the first Starfleet vessel to chart this unexplored region.
+[00:19:46.742 --> 00:19:48.182] RIKER: Sometimes I wonder if he's stacking the deck.
+[00:19:49.142 --> 00:19:51.782] DATA: I assure you, Commander, the cards are sufficiently randomised.
+[00:19:52.182 --> 00:19:52.662] WORF: I hope
+[00:19:54.342 --> 00:19:54.582] WORF: so.
+[00:19:56.262 --> 00:19:56.982] RIKER: Something wrong, Mister Worf?
+[00:19:57.782 --> 00:20:02.342] WORF: I am experiencing nIb'poH,
+[00:20:02.342 --> 00:20:02.342] WORF: the
+[00:20:04.022 --> 00:20:05.222] WORF: feeling I have done this before.
+[00:20:05.622 --> 00:20:06.582] RIKER: Yeah, last Tuesday night.
+[00:20:06.822 --> 00:20:07.542] WORF: That's not what I mean.
+[00:20:08.182 --> 00:20:09.382] CRUSHER: I've been having the same feeling.
+[00:20:10.902 --> 00:20:11.622] CRUSHER: Keep dealing, Data.
+[00:20:14.422 --> 00:20:14.582] DATA: Eight.
+[00:20:15.942 --> 00:20:16.422] DATA: Ace.
+[00:20:16.582 --> 00:20:17.062] CRUSHER: A Queen.
+[00:20:17.142 --> 00:20:18.102] CRUSHER: You're going to give me a Queen.
+[00:20:22.262 --> 00:20:23.222] CRUSHER: And you're going to get a four.
+[00:20:30.742 --> 00:20:31.062] CRUSHER: Deal, Data.
+[00:20:32.262 --> 00:20:32.982] DATA: But no one has bet.
+[00:20:33.302 --> 00:20:33.942] CRUSHER: Forget the bet.
+[00:20:33.942 --> 00:20:34.422] CRUSHER: Just deal.
+[00:20:36.182 --> 00:20:36.582] CRUSHER: Ten,
+[00:20:38.582 --> 00:20:38.982] CRUSHER: seven,
+[00:20:39.942 --> 00:20:40.102] CRUSHER: queen.
+[00:20:42.182 --> 00:20:42.582] WORF: Nine.
+[00:20:44.102 --> 00:20:44.422] WORF: Jack.
+[00:20:45.622 --> 00:20:45.782] WORF: Four.
+[00:20:47.462 --> 00:20:47.942] RIKER: Deuce.
+[00:20:48.662 --> 00:20:49.222] RIKER: Six.
+[00:20:52.822 --> 00:20:53.862] DATA: This is highly improbable.
+[00:20:55.462 --> 00:20:55.942] RIKER: How did we know?
+[00:20:56.342 --> 00:20:56.662] CRUSHER: Wait.
+[00:20:58.422 --> 00:20:59.302] CRUSHER: Crusher to Sickbay.
+[00:20:59.702 --> 00:21:00.342] OGAWA: Sickbay here.
+[00:21:00.662 --> 00:21:02.022] CRUSHER: Is Commander La Forge there?
+[00:21:02.582 --> 00:21:03.622] OGAWA: No, Doctor, he's not.
+[00:21:06.742 --> 00:21:07.142] OGAWA: Wait a minute.
+[00:21:07.462 --> 00:21:08.582] OGAWA: He just came in.
+[00:21:17.462 --> 00:21:18.422] PICARD: You wanted to see me, Doctor?
+[00:21:18.834 --> 00:21:20.194] CRUSHER: Yes. Captain,
+[00:21:21.234 --> 00:21:24.434] CRUSHER: have you been getting the feeling that you've experienced certain things before?
+[00:21:25.154 --> 00:21:26.354] CRUSHER: A sense of repetition?
+[00:21:29.554 --> 00:21:30.114] PICARD: Yes, recently.
+[00:21:31.474 --> 00:21:32.114] PICARD: While I was reading.
+[00:21:32.114 --> 00:21:32.674] PICARD: Why do you ask?
+[00:21:32.674 --> 00:21:35.874] CRUSHER: There have been similar incidents reported all over the ship.
+[00:21:36.514 --> 00:21:38.194] CRUSHER: Feelings of déjà vu.
+[00:21:39.714 --> 00:21:41.954] CRUSHER: I had a premonition Geordi was going to come in to Sickbay.
+[00:21:42.034 --> 00:21:45.794] CRUSHER: A few seconds later he did, with the symptoms of an ear infection.
+[00:21:46.674 --> 00:21:50.594] CRUSHER: I was going to run the standard tests, but somehow I had a feeling they would turn out negative.
+[00:21:51.794 --> 00:21:57.234] CRUSHER: So I ran an optical diagnostic which traced the problem to Geordi's visor.
+[00:21:58.434 --> 00:22:02.114] CRUSHER: His dizziness is being caused by a phase shift in his visual receptors.
+[00:22:02.594 --> 00:22:04.514] CRUSHER: It's causing him to see images that aren't there.
+[00:22:05.154 --> 00:22:07.474] LAFORGE: They're like blurry after-images.
+[00:22:07.954 --> 00:22:10.514] CRUSHER: I ran a scan to see if I could detect what he was seeing.
+[00:22:10.674 --> 00:22:14.114] CRUSHER: I picked up miniscule distortions in the surrounding dekyon field.
+[00:22:14.994 --> 00:22:18.594] CRUSHER: Somehow, his visor is translating those distortions into visual impulses.
+[00:22:18.994 --> 00:22:20.754] LAFORGE: It could be a malfunction in the ship's warp field generator.
+[00:22:20.914 --> 00:22:21.394] LAFORGE: I'll check it out.
+[00:22:21.714 --> 00:22:24.034] PICARD: Run a localised subspace scan to look for anything else.
+[00:22:24.274 --> 00:22:24.514] LAFORGE: Aye, sir.
+[00:22:26.754 --> 00:22:27.394] PICARD: Keep me advised.
+[00:23:39.527 --> 00:23:40.647] CRUSHER: Crusher to Commander La Forge.
+[00:23:40.647 --> 00:23:42.007] LAFORGE: La Forge here.
+[00:23:42.247 --> 00:23:48.087] CRUSHER: Geordi, I just heard what sounded like voices in my room, but no one else is here.
+[00:23:49.047 --> 00:23:50.807] LAFORGE: Sensors just picked up something strange, too.
+[00:23:51.527 --> 00:23:52.167] LAFORGE: We're checking it out.
+[00:23:52.647 --> 00:23:53.527] CRUSHER: I'm on my way.
+[00:24:02.567 --> 00:24:04.887] LAFORGE: Looks like you managed to record six point two seconds worth.
+[00:24:05.767 --> 00:24:08.087] LAFORGE: Let's see if we can filter the signal and clear it up a little bit.
+[00:24:08.567 --> 00:24:10.007] CRUSHER: Then I wasn't just hearing things?
+[00:24:10.327 --> 00:24:12.007] DATA: The sound itself appears to have been real.
+[00:24:12.407 --> 00:24:18.247] DATA: However the acoustic energy does not correspond to any ship's system, nor to any voice communications sent at the time you heard it.
+[00:24:18.682 --> 00:24:19.802] CRUSHER: Then where did the sound come from?
+[00:24:20.362 --> 00:24:25.002] LAFORGE: You heard the voices at the same time our localised subspace scan picked up a dekyon field distortion.
+[00:24:25.402 --> 00:24:26.202] LAFORGE: The two may be related.
+[00:24:26.682 --> 00:24:27.642] LAFORGE: Let's give another listen.
+[00:24:34.762 --> 00:24:37.562] DATA: Computer, perform a narrow bandwidth analysis.
+[00:24:37.962 --> 00:24:40.282] DATA: Eliminate all non-vocal waveform components.
+[00:24:46.042 --> 00:24:49.082] CRUSHER: Can we isolate the voices? Find out what they're saying?
+[00:24:49.802 --> 00:24:51.722] DATA: Computer, continuous playback please.
+[00:25:01.562 --> 00:25:04.042] DATA: There are approximately one thousand voices overlapping.
+[00:25:05.802 --> 00:25:07.802] DATA: The voices are those of the Enterprise crew.
+[00:25:09.242 --> 00:25:09.402] DATA: Our voices.
+[00:25:09.562 --> 00:25:09.562] CRUSHER: I'm
+[00:25:23.882 --> 00:25:29.642] CRUSHER: sorry to call you here so early, but we couldn't wait until oh seven hundred hours.
+[00:25:29.962 --> 00:25:33.642] CRUSHER: We think we may have an explanation for the odd occurrences around here. Commander.
+[00:25:34.442 --> 00:25:35.722] LAFORGE: This is going to sound pretty wild.
+[00:25:37.162 --> 00:25:41.082] LAFORGE: Somehow, we've entered what seems to be a temporal causality loop.
+[00:25:41.882 --> 00:25:43.642] LAFORGE: We think we're stuck in a particular
+[00:25:43.605 --> 00:25:47.765] LAFORGE: fragment in time, and we've been repeating that same fragment over and over again.
+[00:25:48.005 --> 00:25:49.525] TROI: Is this what's causing our déjà vu?
+[00:25:49.845 --> 00:25:50.965] CRUSHER: Yes, but it's more than that.
+[00:25:51.045 --> 00:25:53.845] CRUSHER: In déjà vu, you only think you're repeating events.
+[00:25:54.005 --> 00:25:55.125] CRUSHER: We actually are.
+[00:25:55.605 --> 00:26:01.285] LAFORGE: Our theory is this. Every time the loop begins again, everything resets itself, and starts all over.
+[00:26:01.525 --> 00:26:06.325] LAFORGE: We don't remember anything that happened before, so each time through the loop, we think it's the first.
+[00:26:06.725 --> 00:26:10.485] RIKER: You mean we could have come into this room, sat at this table and had this conversation a dozen times already?
+[00:26:10.965 --> 00:26:12.005] LAFORGE: A dozen, a hundred,
+[00:26:12.325 --> 00:26:13.365] LAFORGE: it's impossible to tell.
+[00:26:14.165 --> 00:26:18.325] LAFORGE: We could have been trapped here for hours, days, maybe years.
+[00:26:19.205 --> 00:26:24.565] CRUSHER: If what we're saying is true, those voices I heard might have been echoes from previous loops.
+[00:26:24.965 --> 00:26:26.805] LAFORGE: It's the same thing with the phase shift in my visor.
+[00:26:27.365 --> 00:26:28.405] LAFORGE: After-images in time.
+[00:26:30.405 --> 00:26:32.725] PICARD: If you're right about this, how did it happen?
+[00:26:32.725 --> 00:26:33.525] PICARD: How did we get there?
+[00:26:34.165 --> 00:26:36.565] DATA: I have a hypothesis that may explain that, Captain.
+[00:26:37.045 --> 00:26:39.205] DATA: I have analysed the recording Doctor Crusher made.
+[00:26:39.605 --> 00:26:49.285] DATA: Most of it is quite ordinary. One hundred fifty discussions about ship operations, two hundred fifty two conversations of a personal nature, five couples engaged in romantic encounters.
+[00:26:49.285 --> 00:26:50.325] PICARD: Your point, Mister Data?
+[00:26:51.605 --> 00:26:58.805] DATA: There is evidence of some sort of disaster aboard the Enterprise, severe enough that the Captain ordered all hands to abandon ship.
+[00:26:59.765 --> 00:27:02.725] DATA: I have isolated three segments of the recording that are crucial.
+[00:27:02.875 --> 00:27:06.275] WORF: A highly localised distortion of the space-time continuum.
+[00:27:07.619 --> 00:27:08.619] DATA: Collision course.
+[00:27:08.805 --> 00:27:11.005] DATA: Impact in thirty six seconds.
+[00:27:11.771 --> 00:27:13.571] PICARD: All hands, abandon ship!
+[00:27:14.143 --> 00:27:15.943] PICARD: Repeat, all hands abandon
+[00:27:16.665 --> 00:27:18.505] LAFORGE: Worf refers to a distortion.
+[00:27:18.825 --> 00:27:25.945] LAFORGE: If this were a temporal distortion, and if we were close enough to it, it's possible that a large enough explosion might've ruptured the space-time continuum.
+[00:27:26.425 --> 00:27:29.945] LAFORGE: We collided, exploded, then got stuck in this repeating loop of time.
+[00:27:30.505 --> 00:27:33.625] PICARD: If you're right, perhaps we could escape the loop by avoiding the collision.
+[00:27:34.105 --> 00:27:34.905] LAFORGE: That's our guess.
+[00:27:35.865 --> 00:27:37.305] WORF: Maybe we should reverse course.
+[00:27:38.105 --> 00:27:40.585] RIKER: For all we know, reversing course may be what leads us into the crash.
+[00:27:42.585 --> 00:27:45.705] PICARD: No. We can't afford to start second guessing ourselves.
+[00:27:45.705 --> 00:27:47.865] PICARD: We'll stay on this course until we have reason to change it.
+[00:27:48.665 --> 00:27:51.625] PICARD: But let's do everything we can to avoid the collision.
+[00:27:52.025 --> 00:27:56.345] LAFORGE: Captain, we might not be able to figure out how to avoid this accident until it's too late.
+[00:27:56.345 --> 00:28:00.265] LAFORGE: And if the loop begins again, we'll forget everything we've learned this time around.
+[00:28:02.665 --> 00:28:03.465] PICARD: What do you suggest?
+[00:28:03.865 --> 00:28:08.745] LAFORGE: If we do find a way to avoid this collision, we should try to send that information into the next loop.
+[00:28:09.785 --> 00:28:10.345] RIKER: Is that possible?
+[00:28:11.225 --> 00:28:16.825] DATA: We have seen that echoes, or after-images, from previous loops appear as distortions in the dekyon field.
+[00:28:17.465 --> 00:28:20.025] DATA: We may be able to send a deliberate echo into the next loop.
+[00:28:21.065 --> 00:28:22.105] TROI: Like a message in a bottle.
+[00:28:22.265 --> 00:28:22.905] LAFORGE: Exactly.
+[00:28:23.465 --> 00:28:27.465] LAFORGE: We could enhance a dekyon emission to create a specific pattern and send ourselves a message.
+[00:28:27.865 --> 00:28:28.825] LAFORGE: Not a long one,
+[00:28:28.825 --> 00:28:30.265] LAFORGE: probably only a few characters.
+[00:28:30.745 --> 00:28:31.465] LAFORGE: Maybe one word.
+[00:28:32.265 --> 00:28:34.025] RIKER: How do we know we'll pick up that word the next time through?
+[00:28:34.825 --> 00:28:40.745] DATA: If the dekyon emission is modulated correctly, it will set up resonances in my positronic subprocessors.
+[00:28:41.439 --> 00:28:44.959] DATA: I will receive the information on what you would call a subconscious level.
+[00:28:45.519 --> 00:28:46.479] LAFORGE: Now there's the catch.
+[00:28:46.639 --> 00:28:49.839] LAFORGE: We have no way of knowing how this information will be perceived by Data.
+[00:28:49.839 --> 00:28:52.879] LAFORGE: It might be like a posthypnotic suggestion.
+[00:28:53.519 --> 00:28:55.199] PICARD: Even with all these uncertainties, we've got to try.
+[00:28:55.759 --> 00:28:57.679] PICARD: Take whatever steps are necessary to send a message.
+[00:28:57.679 --> 00:28:58.079] PICARD: Dismissed.
+[00:28:59.919 --> 00:29:04.479] LAFORGE: You know, it's possible we've tried this a thousand times and it's never worked.
+[00:29:05.999 --> 00:29:07.519] CRUSHER: Do you have a feeling that you've done this before?
+[00:29:08.399 --> 00:29:08.879] LAFORGE: No, I don't.
+[00:29:09.439 --> 00:29:10.239] CRUSHER: Neither do I.
+[00:29:10.559 --> 00:29:12.159] CRUSHER: Maybe that's a good sign.
+[00:29:12.159 --> 00:29:13.039] LAFORGE: Let's test the emitter.
+[00:29:16.559 --> 00:29:19.439] DATA: Particle accelerators at full power.
+[00:29:20.479 --> 00:29:22.399] LAFORGE: Dekyon field active.
+[00:29:23.199 --> 00:29:24.719] LAFORGE: Particle flux nominal.
+[00:29:25.199 --> 00:29:25.999] LAFORGE: We're in business.
+[00:29:26.319 --> 00:29:27.599] CRUSHER: All we need now is a message.
+[00:29:28.239 --> 00:29:29.839] RIKER: Senior officers, report to the Bridge.
+[00:29:30.319 --> 00:29:30.799] CRUSHER: On our way.
+[00:29:34.399 --> 00:29:36.079] RIKER: We've got to figure out how we've handled this before.
+[00:29:38.639 --> 00:29:41.439] PICARD: Back us off, Ensign.
+[00:29:42.239 --> 00:29:42.879] PICARD: Nice and slow.
+[00:29:43.759 --> 00:29:44.159] RO: Aye sir.
+[00:29:46.079 --> 00:29:47.679] RO: Captain manoeuvring thrusters are not responding.
+[00:29:48.239 --> 00:29:49.759] DATA: The distortion field is fluctuating.
+[00:29:51.199 --> 00:29:51.199] LAFORGE: All
+[00:29:54.799 --> 00:29:56.079] LAFORGE: main systems just went down.
+[00:29:56.079 --> 00:29:57.439] LAFORGE: Power levels are dropping rapidly.
+[00:29:58.239 --> 00:29:59.999] DATA: There is an energy build up in the distortion field.
+[00:30:00.879 --> 00:30:02.319] TROI: We have to get out of here now.
+[00:30:03.039 --> 00:30:04.559] DATA: Captain, something is emerging.
+[00:30:07.119 --> 00:30:07.519] RIKER: Shields up.
+[00:30:07.519 --> 00:30:08.399] RIKER: Evasive manoeuvres.
+[00:30:09.679 --> 00:30:10.399] WORF: Shields inoperative.
+[00:30:11.132 --> 00:30:12.172] RO: The helm's not responding.
+[00:30:13.212 --> 00:30:14.492] DATA: The vessel is on a collision course.
+[00:30:14.492 --> 00:30:16.172] DATA: Impact in thirty six seconds.
+[00:30:16.652 --> 00:30:16.972] PICARD: Hail them.
+[00:30:19.052 --> 00:30:19.692] WORF: No response.
+[00:30:24.012 --> 00:30:24.652] PICARD: Suggestions?
+[00:30:25.372 --> 00:30:26.332] RIKER: Decompress main shuttlebay.
+[00:30:26.332 --> 00:30:28.012] RIKER: The explosive reaction may blow us out of the way.
+[00:30:28.572 --> 00:30:32.172] DATA: Captain, I recommend we use the tractor beam to alter the other ship's trajectory.
+[00:30:32.652 --> 00:30:33.372] PICARD: Make it so, Mister Worf.
+[00:30:34.412 --> 00:30:35.372] WORF: Engaging tractor beam.
+[00:30:40.412 --> 00:30:42.172] RIKER: Damage report!
+[00:30:43.132 --> 00:30:44.892] CRUSHER: Casualty reports are coming in from all over the ship.
+[00:30:45.212 --> 00:30:47.372] DATA: Starboard nacelle has sustained a direct impact.
+[00:30:48.012 --> 00:30:49.452] DATA: We are venting drive plasma.
+[00:30:50.012 --> 00:30:52.092] LAFORGE: Initiating emergency core shutdown.
+[00:30:52.572 --> 00:30:53.692] RO: Inertial dampers failing.
+[00:30:53.692 --> 00:30:54.652] RO: We're losing attitude control.
+[00:30:55.292 --> 00:30:56.012] RIKER: This is the Bridge.
+[00:30:56.172 --> 00:30:58.172] RIKER: All hands to emergency escape pods.
+[00:31:02.492 --> 00:31:04.092] DATA: Core shutdown is unsuccessful.
+[00:31:04.412 --> 00:31:05.852] DATA: We are losing antimatter containment.
+[00:31:06.492 --> 00:31:07.452] LAFORGE: We got to eject the core!
+[00:31:08.572 --> 00:31:10.092] DATA: Ejection systems are offline.
+[00:31:10.652 --> 00:31:11.692] DATA: Core breach is imminent.
+[00:31:12.412 --> 00:31:13.372] PICARD: All hands abandon ship.
+[00:31:14.332 --> 00:31:14.332] PICARD: Repeat,
+[00:31:14.412 --> 00:31:15.852] PICARD: all hands abandon
+[00:31:23.772 --> 00:31:26.732] LOG: Captain's log, stardate 45652.1.
+[00:31:27.212 --> 00:31:30.972] LOG: The Enterprise has entered an area of space known as the Typhon Expanse.
+[00:31:31.212 --> 00:31:33.772] LOG: We are the first Starfleet vessel to chart this unexplored region.
+[00:31:36.412 --> 00:31:38.012] RIKER: Sometimes I wonder if he's stacking the deck.
+[00:31:38.940 --> 00:31:41.580] DATA: I assure you, Commander, the cards are sufficiently randomised.
+[00:31:41.980 --> 00:31:42.700] WORF: I hope so.
+[00:31:45.980 --> 00:31:46.780] RIKER: Something wrong, Mister Worf?
+[00:31:48.300 --> 00:31:49.420] WORF: I am experiencing nIb'poH.
+[00:31:50.940 --> 00:31:51.340] WORF: The feeling
+[00:31:51.340 --> 00:31:52.220] WORF: I have done this before.
+[00:31:53.340 --> 00:31:54.140] RIKER: Yeah, last Tuesday night.
+[00:31:54.620 --> 00:31:55.340] WORF: That is not what I mean.
+[00:31:56.380 --> 00:31:57.660] CRUSHER: I've been having the same feeling.
+[00:31:58.620 --> 00:31:58.860] CRUSHER: Wait.
+[00:32:01.580 --> 00:32:05.260] CRUSHER: An eight, an Ace, a Queen and a four.
+[00:32:05.980 --> 00:32:06.700] CRUSHER: Deal the cards, Data.
+[00:32:11.900 --> 00:32:12.220] DATA: Three.
+[00:32:12.460 --> 00:32:13.260] DATA: All threes.
+[00:32:13.660 --> 00:32:14.540] CRUSHER: I was positive
+[00:32:14.540 --> 00:32:16.060] CRUSHER: I knew what cards were going to be dealt.
+[00:32:17.900 --> 00:32:18.780] WORF: I was also sure.
+[00:32:19.980 --> 00:32:20.460] RIKER: Finish dealing the hand.
+[00:32:23.420 --> 00:32:25.500] RIKER: Look at
+[00:32:32.300 --> 00:32:32.700] RIKER: this,
+[00:32:33.500 --> 00:32:34.380] RIKER: we've all got three of a kind.
+[00:32:37.340 --> 00:32:42.300] CRUSHER: First we get a three, and then three of a kind.
+[00:32:42.540 --> 00:32:42.860] OGAWA: Ogawa to
+[00:32:42.860 --> 00:32:43.580] OGAWA: Doctor Crusher.
+[00:32:45.340 --> 00:32:45.820] CRUSHER: Go ahead.
+[00:32:46.460 --> 00:32:48.140] OGAWA: Commander La Forge needs you in Sickbay.
+[00:32:48.220 --> 00:32:50.780] CRUSHER: I'm on my way.
+[00:32:58.300 --> 00:32:59.900] LAFORGE: At first I thought the catwalk was spinning.
+[00:33:00.780 --> 00:33:01.980] LAFORGE: As it turns out, it was me.
+[00:33:03.340 --> 00:33:03.980] LAFORGE: I was lucky
+[00:33:03.980 --> 00:33:05.180] LAFORGE: Ensign Fletcher was there to grab me.
+[00:33:05.260 --> 00:33:07.260] LAFORGE: It's a long way down to the bottom of the warp core.
+[00:33:09.056 --> 00:33:13.296] CRUSHER: You have all the symptoms of an inner ear infection. That would explain the headaches, dizziness.
+[00:33:14.176 --> 00:33:16.016] CRUSHER: But I don't see any physical
+[00:33:17.376 --> 00:33:17.536] LAFORGE: What?
+[00:33:19.216 --> 00:33:19.536] LAFORGE: What is it?
+[00:33:20.096 --> 00:33:21.696] CRUSHER: Geordi, have you ever had these symptoms before?
+[00:33:24.016 --> 00:33:25.616] LAFORGE: Now that you mention it, I think I have.
+[00:33:26.496 --> 00:33:27.056] CRUSHER: Do you recall when?
+[00:33:29.136 --> 00:33:29.376] LAFORGE: No,
+[00:33:32.096 --> 00:33:32.176] LAFORGE: I don't.
+[00:33:32.176 --> 00:33:35.856] CRUSHER: I know we've had this discussion before, and I remember giving you this examination.
+[00:33:36.416 --> 00:33:37.616] CRUSHER: Let's check the medical logs.
+[00:33:43.136 --> 00:33:49.456] CRUSHER: You've been treated several times for headaches related to your visor but there's no mention of dizziness.
+[00:33:49.776 --> 00:33:50.736] LAFORGE: Must be déjà vu.
+[00:33:51.696 --> 00:33:53.856] CRUSHER: Both of us? About the same thing?
+[00:33:55.856 --> 00:33:57.456] CRUSHER: I'd like to run an optical diagnostic.
+[00:33:58.336 --> 00:33:59.136] LAFORGE: For an ear infection?
+[00:34:00.656 --> 00:34:01.856] CRUSHER: I have a hunch.
+[00:34:06.576 --> 00:34:07.136] CRUSHER: Hold still.
+[00:34:07.616 --> 00:34:08.496] CRUSHER: This pulse may be a little
+[00:34:12.016 --> 00:34:12.656] CRUSHER: bright.
+[00:34:18.256 --> 00:34:20.176] CRUSHER: Have you made any changes to your visor lately?
+[00:34:21.056 --> 00:34:21.216] LAFORGE: No.
+[00:34:21.216 --> 00:34:21.456] LAFORGE: Why?
+[00:34:23.056 --> 00:34:26.576] CRUSHER: I'm detecting a small phase shift in your visual receptors.
+[00:35:01.125 --> 00:35:02.165] CRUSHER: Crusher to Captain Picard.
+[00:35:03.845 --> 00:35:04.405] PICARD: Yes, Doctor?
+[00:35:04.805 --> 00:35:06.245] CRUSHER: Can you come to Sickbay immediately?
+[00:35:06.405 --> 00:35:06.885] CRUSHER: It's urgent.
+[00:35:07.205 --> 00:35:07.845] PICARD: I'm on my way.
+[00:35:18.485 --> 00:35:22.005] CRUSHER: His dizziness is being caused by a phase shift in his visual receptors.
+[00:35:22.165 --> 00:35:24.085] CRUSHER: It's causing him to see things that aren't there.
+[00:35:24.405 --> 00:35:26.005] LAFORGE: They're like blurry after-images.
+[00:35:26.325 --> 00:35:28.725] CRUSHER: I ran a scan to see if I could detect what he was seeing.
+[00:35:29.125 --> 00:35:32.565] CRUSHER: I picked up miniscule distortions in the surrounding dekyon field.
+[00:35:33.045 --> 00:35:37.285] CRUSHER: His visor seems to be translating those distortions into visual impulses.
+[00:35:37.925 --> 00:35:40.085] LAFORGE: Could be a malfunction in the ship's warp field generator.
+[00:35:40.645 --> 00:35:41.045] LAFORGE: I'll check it out.
+[00:35:41.445 --> 00:35:44.885] PICARD: While you're at it, run a localised subspace scan to look for anything unusual.
+[00:35:45.525 --> 00:35:45.845] LAFORGE: Aye, sir.
+[00:35:47.685 --> 00:35:48.485] PICARD: Keep me advised, Doctor.
+[00:35:52.645 --> 00:35:54.005] LAFORGE: Lateral sensors online.
+[00:35:54.245 --> 00:35:55.845] LAFORGE: Subspace scanners active.
+[00:35:56.325 --> 00:35:56.565] LAFORGE: Data,
+[00:35:56.725 --> 00:35:59.205] LAFORGE: would you run a level two diagnostic on the warp subsystems?
+[00:35:59.445 --> 00:36:00.445] DATA: Certainly.
+[00:36:00.445 --> 00:36:01.445] LAFORGE: All
+[00:36:05.605 --> 00:36:07.605] LAFORGE: threes.
+[00:36:08.338 --> 00:36:08.978] LAFORGE: that can't be right.
+[00:36:09.378 --> 00:36:12.978] DATA: I have encountered the numeral three an inordinate number of times over the last two hours.
+[00:36:12.978 --> 00:36:20.658] LAFORGE: We have got a dekyon field fluctuation on deck nine, section twenty eight.
+[00:36:20.978 --> 00:36:22.178] CRUSHER: Crusher to Commander La Forge.
+[00:36:22.418 --> 00:36:22.978] LAFORGE: La Forge here.
+[00:36:23.458 --> 00:36:26.818] CRUSHER: I just heard what sounded like voices in my room, but there's no one here.
+[00:36:27.458 --> 00:36:29.218] LAFORGE: Sensors just picked up something strange, too.
+[00:36:29.378 --> 00:36:30.098] LAFORGE: We're checking it out.
+[00:36:30.338 --> 00:36:31.218] CRUSHER: I'm on my way down.
+[00:36:33.138 --> 00:36:34.978] LAFORGE: Doctor Crusher, are you all right?
+[00:36:36.018 --> 00:36:36.658] CRUSHER: I'm fine.
+[00:36:39.378 --> 00:36:42.018] DATA: I have isolated three segments of this recording that are crucial.
+[00:36:42.018 --> 00:36:42.258] WORF: A
+[00:36:42.258 --> 00:36:45.618] WORF: highly localised distortion of the space-time continuum.
+[00:36:46.498 --> 00:36:48.818] DATA: Collision course. Impact in thirty six seconds.
+[00:36:49.698 --> 00:36:51.058] PICARD: All hands, abandon ship!
+[00:36:51.458 --> 00:36:51.938] PICARD: Repeat, all hands
+[00:36:54.258 --> 00:36:54.525] PICARD: abandon
+[00:36:54.525 --> 00:36:55.858] LAFORGE: Worf refers to a distortion.
+[00:36:56.338 --> 00:37:03.538] LAFORGE: If this were a temporal distortion, and if we were close enough to it, it's possible that a large enough explosion might've ruptured the space time continuum.
+[00:37:04.338 --> 00:37:08.258] LAFORGE: We collided, exploded, then got stuck in this repeating loop of time.
+[00:37:09.378 --> 00:37:12.898] PICARD: If you're right about this then perhaps we can escape the loop by avoiding the collision.
+[00:37:12.978 --> 00:37:13.698] LAFORGE: That's our guess.
+[00:37:13.698 --> 00:37:15.058] WORF: Perhaps we should reverse course.
+[00:37:15.218 --> 00:37:17.858] RIKER: For all we know, reversing course might be what leads us into the crash.
+[00:37:18.578 --> 00:37:20.498] PICARD: We can't afford to start second guessing ourselves.
+[00:37:20.578 --> 00:37:22.898] PICARD: We should stay on this course until we have reason to change it.
+[00:37:23.698 --> 00:37:27.138] PICARD: But in the meantime, I think we should do what we can to avoid a collision.
+[00:37:27.618 --> 00:37:30.818] LAFORGE: Captain. We've been seeing the number three all over the ship.
+[00:37:31.378 --> 00:37:33.138] LAFORGE: On consoles, in a poker game.
+[00:37:33.698 --> 00:37:34.818] DATA: To date we have encountered
+[00:37:34.965 --> 00:37:38.085] DATA: two thousand eighty five conspicuous examples of the number three.
+[00:37:38.565 --> 00:37:41.045] LAFORGE: All of these threes can't be coming up by accident.
+[00:37:41.605 --> 00:37:43.125] CRUSHER: Maybe somebody's trying to tell us something.
+[00:37:44.085 --> 00:37:46.885] LAFORGE: We came to the same conclusion so we ran a shipwide diagnostic.
+[00:37:46.965 --> 00:37:52.085] LAFORGE: The only unusual thing we found was a dekyon field modulation in Data's positronic subprocessors.
+[00:37:52.645 --> 00:37:53.365] RIKER: What could be causing it?
+[00:37:54.165 --> 00:37:59.925] LAFORGE: I don't know, but if I wanted to send information from one loop to the next I might use a method like a dekyon emission.
+[00:38:00.245 --> 00:38:01.605] TROI: You think we sent ourselves a message?
+[00:38:01.605 --> 00:38:02.485] LAFORGE: It would make sense.
+[00:38:03.125 --> 00:38:04.565] LAFORGE: Maybe we are trying to tell ourselves something.
+[00:38:05.525 --> 00:38:08.085] PICARD: If that were true, what could three indicate?
+[00:38:09.605 --> 00:38:12.005] RIKER: Maybe we should run a level three diagnostic on all key systems.
+[00:38:12.565 --> 00:38:13.205] LAFORGE: It's a good idea.
+[00:38:13.205 --> 00:38:15.845] LAFORGE: I'll have the computer run a pattern matching algorithm based on the number three.
+[00:38:16.165 --> 00:38:17.205] RO: Bridge to Captain Picard.
+[00:38:17.845 --> 00:38:18.325] PICARD: Go ahead.
+[00:38:18.645 --> 00:38:21.685] RO: We're getting unusual readings twenty thousand kilometres off the starboard bow.
+[00:38:22.885 --> 00:38:23.365] PICARD: On our way.
+[00:38:32.645 --> 00:38:32.965] PICARD: Report.
+[00:38:33.845 --> 00:38:36.405] RO: Sensors didn't detect the phenomenon until we were almost on top of it, Captain.
+[00:38:36.645 --> 00:38:39.525] WORF: It is a highly localised distortion of the space-time continuum.
+[00:38:39.765 --> 00:38:40.165] RIKER: On screen.
+[00:38:43.765 --> 00:38:46.725] RIKER: How do you think we handled this before?
+[00:38:49.765 --> 00:38:50.805] PICARD: Back us off, Ensign.
+[00:38:51.525 --> 00:38:52.165] PICARD: Nice and slow.
+[00:38:52.885 --> 00:38:53.285] RO: Aye, sir.
+[00:38:55.445 --> 00:38:55.925] RO: Captain,
+[00:38:56.165 --> 00:38:57.685] RO: manoeuvring thrusters are not responding.
+[00:38:58.085 --> 00:39:00.725] DATA: The distortion field is fluctuating.
+[00:39:03.365 --> 00:39:04.965] LAFORGE: All main systems just went down.
+[00:39:04.965 --> 00:39:06.245] LAFORGE: Power levels are dropping rapidly.
+[00:39:06.965 --> 00:39:08.885] DATA: There is an energy build up in the distortion field.
+[00:39:09.577 --> 00:39:11.639] TROI: We have to get out of here now.
+[00:39:11.639 --> 00:39:11.897] DATA: Captain,
+[00:39:12.377 --> 00:39:13.177] DATA: something is emerging.
+[00:39:16.297 --> 00:39:16.777] RIKER: Shields up.
+[00:39:16.937 --> 00:39:17.737] RIKER: Evasive manoeuvres.
+[00:39:19.177 --> 00:39:19.977] WORF: Shields inoperative.
+[00:39:20.537 --> 00:39:21.737] RO: The helm's not responding.
+[00:39:22.057 --> 00:39:23.497] DATA: The vessel is on a collision course.
+[00:39:23.497 --> 00:39:25.177] DATA: Impact in thirty six seconds.
+[00:39:25.577 --> 00:39:25.897] PICARD: Hail them.
+[00:39:27.977 --> 00:39:28.537] WORF: No response.
+[00:39:29.897 --> 00:39:30.457] PICARD: Suggestions?
+[00:39:31.577 --> 00:39:32.617] RIKER: Decompress main shuttlebay.
+[00:39:32.777 --> 00:39:34.137] RIKER: The explosive reaction may kick us out of the way.
+[00:39:34.777 --> 00:39:38.857] DATA: Captain, I suggest we use the tractor beam to alter the other ship's trajectory.
+[00:39:39.417 --> 00:39:40.137] PICARD: Make it so, Mister Worf.
+[00:39:40.857 --> 00:39:41.817] WORF: Engaging tractor beam.
+[00:39:41.967 --> 00:39:42.567] DATA: The
+[00:39:52.057 --> 00:39:53.337] DATA: tractor beam will not be successful.
+[00:39:54.697 --> 00:39:56.057] DATA: I am decompressing the main shuttlebay.
+[00:40:09.577 --> 00:40:10.937] WORF: We are clear of the distortion.
+[00:40:13.417 --> 00:40:14.057] PICARD: Data, what happened?
+[00:40:15.817 --> 00:40:21.257] DATA: At the last moment, I speculated that three might refer to the number of rank insignia on Commander Riker's uniform.
+[00:40:21.897 --> 00:40:25.177] DATA: That indicated to me that his suggestion might be the correct course of action.
+[00:40:25.897 --> 00:40:31.977] LAFORGE: Data, you must have picked up a message we sent from the last loop, and stacked the deck in the poker game without realising it.
+[00:40:32.697 --> 00:40:33.417] DATA: That is possible.
+[00:40:34.297 --> 00:40:36.697] DATA: I may also have been inadvertently responsible
+[00:40:37.238 --> 00:40:39.569] DATA: for the unexplained appearances of the number three.
+[00:40:39.569 --> 00:40:41.318] PICARD: Mister Worf, end Red alert. And
+[00:40:43.238 --> 00:40:45.478] PICARD: try to access a Federation time base beacon.
+[00:40:46.678 --> 00:40:49.638] PICARD: Let's see if we can find out how long we've been in this causality
+[00:40:52.598 --> 00:40:52.598] PICARD: loop.
+[00:40:52.758 --> 00:40:57.078] WORF: Time base confirms our chronometers are off by seventeen point four days.
+[00:41:03.158 --> 00:41:04.118] PICARD: Reset them, Mister Data.
+[00:41:04.758 --> 00:41:05.078] DATA: Aye, sir.
+[00:41:06.918 --> 00:41:08.918] WORF: Captain, we are being hailed by the other vessel.
+[00:41:09.398 --> 00:41:12.998] WORF: The computer identifies it as the USS Bozeman, a Federation starship,
+[00:41:15.158 --> 00:41:16.038] WORF: Soyuz class.
+[00:41:16.278 --> 00:41:17.478] LAFORGE: Soyuz class?
+[00:41:17.958 --> 00:41:19.718] LAFORGE: They haven't been in service in over eighty years.
+[00:41:22.278 --> 00:41:22.838] PICARD: Open a channel.
+[00:41:25.078 --> 00:41:27.718] BATESON: This is Captain Morgan Bateson of the Federation Starship Bozeman.
+[00:41:28.118 --> 00:41:29.078] BATESON: Can we render assistance?
+[00:41:30.838 --> 00:41:33.798] PICARD: I'm Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:41:34.998 --> 00:41:37.265] PICARD: We were just going to ask you the same thing.
+[00:41:37.265 --> 00:41:37.718] BATESON: Captain Picard,
+[00:41:37.718 --> 00:41:39.718] BATESON: your vessel is not familiar to us.
+[00:41:41.958 --> 00:41:43.958] PICARD: Captain, have you any idea what has just happened?
+[00:41:45.558 --> 00:41:47.478] BATESON: Our sensors detected a temporal distortion.
+[00:41:48.598 --> 00:41:49.398] BATESON: Then your ship appeared.
+[00:41:49.558 --> 00:41:50.278] BATESON: We nearly hit you.
+[00:41:51.238 --> 00:41:56.800] PICARD: The Enterprise has been caught in temporal causality loop, and I suspect that something similar may have happened to you.
+[00:41:56.800 --> 00:41:57.078] BATESON: You
+[00:41:58.038 --> 00:41:58.678] BATESON: must be mistaken.
+[00:41:58.678 --> 00:42:00.278] BATESON: We left starbase only three weeks ago.
+[00:42:04.438 --> 00:42:04.918] PICARD: Captain, do
+[00:42:06.838 --> 00:42:08.678] PICARD: you know what year this is?
+[00:42:08.678 --> 00:42:10.118] BATESON: Of course I do.
+[00:42:10.598 --> 00:42:11.478] BATESON: It's twenty two seventy eight.
+[00:42:15.632 --> 00:42:16.992] PICARD: Perhaps you should beam aboard our ship.
+[00:42:20.432 --> 00:42:21.712] PICARD: There's something we need to discuss.
+[00:42:32.000 --> 00:42:55.000] [music]
+[00:42:56.000 --> 00:43:16.000] [music]
+[00:43:17.000 --> 00:43:35.000] [music]

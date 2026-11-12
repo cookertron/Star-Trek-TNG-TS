@@ -1,0 +1,692 @@
+[00:00:01.280 --> 00:00:01.440] MARLEY: You
+[00:00:07.680 --> 00:00:09.440] MARLEY: don't believe in me.
+[00:00:10.240 --> 00:00:10.640] DATA: I don't.
+[00:00:11.680 --> 00:00:16.720] MARLEY: What evidence would you have of my reality beyond that of your senses?
+[00:00:17.440 --> 00:00:18.000] DATA: I don't know.
+[00:00:19.200 --> 00:00:21.920] MARLEY: Why do you doubt your senses?
+[00:00:23.040 --> 00:00:25.920] DATA: Because a little thing affects them.
+[00:00:27.120 --> 00:00:29.680] DATA: A slight disorder of the stomach makes them cheats.
+[00:00:30.160 --> 00:00:38.240] DATA: You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato.
+[00:00:38.390 --> 00:00:38.990] DATA: Why,
+[00:00:40.080 --> 00:00:42.560] DATA: there's more of gravy than of grave about you,
+[00:00:43.040 --> 00:00:45.760] DATA: whatever you are. Humbug, I tell you.
+[00:00:46.640 --> 00:00:46.960] DATA: Humbug.
+[00:00:49.920 --> 00:00:52.320] PICARD: Freeze programme.
+[00:00:52.320 --> 00:00:52.320] PICARD: Very
+[00:00:54.640 --> 00:00:55.760] PICARD: well done, Data.
+[00:00:57.120 --> 00:00:59.280] PICARD: Your performance skills really are improving.
+[00:01:00.000 --> 00:01:01.360] DATA: Your courtesy is appreciated, sir.
+[00:01:02.240 --> 00:01:06.000] DATA: But I am aware that I do not effectively convey the fear called for in this scene.
+[00:01:07.280 --> 00:01:09.200] PICARD: Well, you've never known fear, Data.
+[00:01:09.840 --> 00:01:13.723] PICARD: But as an acute observer of behaviour, you should be able to approximate it.
+[00:01:13.723 --> 00:01:14.000] DATA: Sir,
+[00:01:14.960 --> 00:01:17.680] DATA: that is not an appropriate basis for an effective performance.
+[00:01:18.000 --> 00:01:19.920] DATA: Not by the standards set by my mentors.
+[00:01:20.960 --> 00:01:21.680] PICARD: Your mentors?
+[00:01:21.920 --> 00:01:22.240] DATA: Yes, sir.
+[00:01:23.200 --> 00:01:26.320] DATA: I have studied the philosophies of virtually every known acting master.
+[00:01:27.011 --> 00:01:35.331] DATA: I find myself attracted to Stanislavsky, Adler, Garnav. Proponents of an acting technique known as the Method.
+[00:01:37.971 --> 00:01:38.371] PICARD: Method acting?
+[00:01:38.521 --> 00:01:39.121] PICARD: I'm
+[00:01:39.891 --> 00:01:44.131] PICARD: vaguely familiar with it, but why would you choose such an old-fashioned approach?
+[00:01:44.931 --> 00:01:50.531] DATA: Perhaps because the technique requires an actor to seek his own emotional awareness to understand the character he plays.
+[00:01:51.251 --> 00:01:53.331] PICARD: But surely that's an impossible task for you, Data.
+[00:01:54.771 --> 00:01:57.491] DATA: Sir, I have modified the Method for my own uses.
+[00:01:58.211 --> 00:02:04.531] DATA: Since I have no emotional awareness to create a performance, I am attempting to use performance to create emotional awareness.
+[00:02:05.331 --> 00:02:12.531] DATA: I believe if I can learn to duplicate the fear of Ebenezer Scrooge, I will be one step closer to truly understanding humanity.
+[00:02:13.011 --> 00:02:15.251] RIKER: Captain Picard, please report to the Bridge.
+[00:02:16.611 --> 00:02:17.571] PICARD: On my way, Number One.
+[00:02:18.771 --> 00:02:19.091] PICARD: Data,
+[00:02:20.611 --> 00:02:28.691] PICARD: the moment you decided to stop imitating other actors and create your own interpretation, you were already one step closer to understanding humanity.
+[00:02:36.931 --> 00:02:40.211] RIKER: We've received an emergency transmission from the science station on Ventax Two, sir.
+[00:02:40.451 --> 00:02:41.491] PICARD: What's the nature of the emergency?
+[00:02:41.651 --> 00:02:42.051] RIKER: Uncertain.
+[00:02:42.051 --> 00:02:43.171] RIKER: The signal was interrupted.
+[00:02:43.171 --> 00:02:45.411] WORF: Contact reestablished with Ventax Two, sir.
+[00:02:45.491 --> 00:02:46.051] RIKER: On screen.
+[00:02:47.411 --> 00:02:51.811] CLARK: I am Doctor Howard Clark, director of the science station here on Ventax Two.
+[00:02:52.371 --> 00:02:52.931] CLARK: Thank you for responding.
+[00:02:53.971 --> 00:02:55.171] PICARD: Worf, can you improve our reception?
+[00:02:56.051 --> 00:02:56.851] WORF: The trouble is at the transmission
+[00:02:56.889 --> 00:02:57.689] WORF: source, sir.
+[00:02:59.129 --> 00:03:02.409] PICARD: Doctor Clark, we are barely able maintain communication with you.
+[00:03:03.049 --> 00:03:04.809] PICARD: Can you boost the level of your power source?
+[00:03:05.049 --> 00:03:06.649] CLARK: I'm afraid not, Captain. It's
+[00:03:08.169 --> 00:03:08.729] CLARK: under attack.
+[00:03:09.049 --> 00:03:09.241] PICARD: Under attack?
+[00:03:09.257 --> 00:03:11.929] CLARK: There's a mob outside the door, trying to break into the station.
+[00:03:12.169 --> 00:03:13.529] CLARK: The planet is in chaos.
+[00:03:13.769 --> 00:03:16.409] CLARK: Lootings, fires, mass hysteria.
+[00:03:16.409 --> 00:03:20.329] CLARK: These people are all convinced their world is coming to an end.
+[00:03:20.649 --> 00:03:23.609] CLARK: Tomorrow. Please, we must have your immediate
+[00:03:23.609 --> 00:03:23.769] PICARD: Space,
+[00:03:58.409 --> 00:03:59.609] PICARD: the final frontier.
+[00:04:01.529 --> 00:04:04.409] PICARD: These are the voyagers of the starship Enterprise.
+[00:04:05.449 --> 00:04:13.449] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:15.129 --> 00:04:18.009] PICARD: to boldly go where no one has gone before.
+[00:04:47.000 --> 00:04:57.000] [music]
+[00:05:15.142 --> 00:05:18.102] LOG: Captain's log, stardate 44474.5.
+[00:05:18.742 --> 00:05:25.782] LOG: We have reached Ventax Two and are attempting to contact the Federation science station, which at last report was under siege by an angry mob.
+[00:05:27.222 --> 00:05:28.342] WORF: They are transmitting again.
+[00:05:28.902 --> 00:05:30.022] PICARD: On screen, before we lose contact.
+[00:05:31.622 --> 00:05:33.702] CLARK: Enterprise, Enterprise! Do you read me?
+[00:05:33.782 --> 00:05:33.782] CLARK: Emergency!
+[00:05:34.422 --> 00:05:35.222] CLARK: We need help!
+[00:05:35.222 --> 00:05:36.662] PICARD: Doctor Clark, this is Captain Picard.
+[00:05:37.062 --> 00:05:38.502] PICARD: We are ready to beam you and your staff on board the
+[00:05:38.502 --> 00:05:38.742] CLARK: They're in!
+[00:05:38.822 --> 00:05:42.342] PICARD: Transporter room three.
+[00:05:42.342 --> 00:05:44.182] PICARD: Lock onto the science team and
+[00:05:44.182 --> 00:05:44.822] PICARD: beam them aboard.
+[00:05:45.142 --> 00:05:46.262] CHIEF: I've locked onto Doctor Clark.
+[00:05:46.662 --> 00:05:47.702] CHIEF: I can't pick out the others.
+[00:05:48.262 --> 00:05:48.982] CHIEF: It's a mess down there.
+[00:05:49.942 --> 00:05:51.302] PICARD: Then beam Doctor Clark aboard by himself.
+[00:05:51.666 --> 00:05:52.066] CHIEF: Yes, Captain.
+[00:05:52.546 --> 00:05:54.066] PICARD: Mister Worf, will you escort him to my ready room.
+[00:05:54.546 --> 00:05:54.866] WORF: Aye, sir.
+[00:05:55.906 --> 00:05:56.306] PICARD: Number One,
+[00:05:58.146 --> 00:05:59.586] PICARD: try to make some sense out of this mess.
+[00:06:07.746 --> 00:06:11.106] CLARK: The people in Ventax Two live in an agrarian society.
+[00:06:12.066 --> 00:06:13.346] CLARK: At least, they do now.
+[00:06:13.986 --> 00:06:14.786] PICARD: What do you mean, now?
+[00:06:15.666 --> 00:06:17.666] CLARK: It's an interesting anthropological question.
+[00:06:17.666 --> 00:06:19.586] CLARK: One we were studying before the
+[00:06:21.986 --> 00:06:22.866] CLARK: trouble began.
+[00:06:24.866 --> 00:06:32.946] CLARK: In the distant past, the Ventaxian culture had achieved an extremely advanced scientific level,
+[00:06:32.946 --> 00:06:36.226] CLARK: but a millennium ago they turned their backs on technology.
+[00:06:36.946 --> 00:06:39.026] PICARD: They reverted to a simpler existence?
+[00:06:39.026 --> 00:06:41.106] CLARK: And remained that way for centuries.
+[00:06:42.146 --> 00:06:46.306] CLARK: First contact was made by a Klingon expedition seventy years ago.
+[00:06:46.626 --> 00:06:49.746] CLARK: Since then, the new technology has been available to the Ventaxians.
+[00:06:49.746 --> 00:06:51.346] CLARK: They simply are not interested in it.
+[00:06:51.986 --> 00:06:55.346] CLARK: Virtually no social problems to be found on this planet,
+[00:06:55.346 --> 00:06:58.866] CLARK: In fact, I would have described their society as idyllic until
+[00:07:00.306 --> 00:07:00.946] PICARD: Until what, Doctor?
+[00:07:01.906 --> 00:07:02.786] CLARK: It's hard to believe.
+[00:07:05.026 --> 00:07:06.146] CLARK: Several years ago,
+[00:07:07.746 --> 00:07:14.306] CLARK: Acost Jared, the Ventaxian head of state, began to grow increasingly obsessed with the legend of Ardra.
+[00:07:14.786 --> 00:07:18.306] CLARK: With each passing day, he grew more anxious, and he talked about little else.
+[00:07:18.946 --> 00:07:20.466] CLARK: Ardra is coming back.
+[00:07:21.106 --> 00:07:22.786] CLARK: Ardra will be here soon.
+[00:07:23.473 --> 00:07:26.353] CLARK: We must all leave before Ardra returns.
+[00:07:26.593 --> 00:07:28.513] PICARD: And who is this Ardra?
+[00:07:31.713 --> 00:07:33.393] CLARK: For all intents and purposes,
+[00:07:35.393 --> 00:07:35.953] CLARK: the devil.
+[00:07:37.633 --> 00:07:41.873] CLARK: Captain, these people actually believe they've sold their souls to the devil.
+[00:07:42.753 --> 00:07:44.833] RIKER: Riker to Captain Picard.
+[00:07:44.833 --> 00:07:46.433] PICARD: Have you located the science team, Number One?
+[00:07:46.993 --> 00:07:48.273] RIKER: Evidently they're being held hostage.
+[00:07:48.993 --> 00:07:49.473] CLARK: Hostage?
+[00:07:50.433 --> 00:07:53.393] RIKER: There's a Ventaxian leader on the viewscreen, name of Acost Jared.
+[00:07:54.833 --> 00:07:55.153] PICARD: Doctor.
+[00:08:04.033 --> 00:08:06.913] CLARK: Jared, you must secure the release of my people.
+[00:08:06.913 --> 00:08:08.513] CLARK: I can't believe you would allow this.
+[00:08:08.673 --> 00:08:09.313] JARED: Howard, my friend,
+[00:08:09.953 --> 00:08:12.113] JARED: you know how I abhor all acts of violence,
+[00:08:12.113 --> 00:08:14.113] JARED: but events are out of my control.
+[00:08:14.673 --> 00:08:16.033] PICARD: I'm Captain Jean-Luc Picard.
+[00:08:16.033 --> 00:08:17.233] PICARD: Is there nothing you can do?
+[00:08:17.793 --> 00:08:21.473] JARED: As the hour of Ardra's return approaches, fear has overwhelmed my people.
+[00:08:22.353 --> 00:08:23.953] JARED: It has been a thousand years.
+[00:08:23.953 --> 00:08:25.313] JARED: The prophecies have come true.
+[00:08:26.033 --> 00:08:26.513] PICARD: Prophecies?
+[00:08:27.473 --> 00:08:30.993] CLARK: Ardra's arrival was supposed to be heralded by the shaking of the cities.
+[00:08:30.993 --> 00:08:37.393] CLARK: Now there has been a series of geological tremors on the planet. Minor quakes, nothing extraordinary.
+[00:08:37.713 --> 00:08:38.433] PICARD: Poorly timed.
+[00:08:38.673 --> 00:08:39.313] JARED: There is more.
+[00:08:39.793 --> 00:08:45.633] JARED: For several nights there have been visions of Ardra. Again, just as the contract said would occur before her return.
+[00:08:46.113 --> 00:08:46.673] PICARD: Visions?
+[00:08:46.913 --> 00:08:47.713] PICARD: Do you mean dreams?
+[00:08:47.873 --> 00:08:49.633] JARED: No. She has appeared.
+[00:08:49.633 --> 00:08:50.673] JARED: I myself have seen her.
+[00:08:51.793 --> 00:08:55.713] PICARD: Jared, tell your people, if the hostages are released, I am prepared to offer
+[00:08:55.865 --> 00:09:00.265] PICARD: Federation assistance should this, this Ardra return.
+[00:09:01.145 --> 00:09:02.425] JARED: I am afraid it will not matter.
+[00:09:02.745 --> 00:09:04.825] JARED: They know your weapons are useless against her, Captain.
+[00:09:06.745 --> 00:09:09.065] JARED: I will make inquiries concerning the hostages.
+[00:09:09.625 --> 00:09:14.265] JARED: The innocent should not suffer from our sins. But I can make no promises.
+[00:09:16.905 --> 00:09:19.145] TROI: This situation is deteriorating, Captain.
+[00:09:19.625 --> 00:09:22.905] TROI: The people are approaching levels of anxiety that could lead to suicide.
+[00:09:23.465 --> 00:09:25.065] PICARD: Mister Data, what do we know about this Ardra?
+[00:09:26.105 --> 00:09:28.265] DATA: She is a cornerstone of Ventaxian theology.
+[00:09:29.225 --> 00:09:35.305] DATA: It seems that Ardra came to Ventax Two and promised one thousand years of peace and prosperity, for a price.
+[00:09:35.865 --> 00:09:38.825] DATA: Upon her return, she would enslave the entire population.
+[00:09:39.785 --> 00:09:43.465] DATA: In Ventaxian culture, it is considered bad luck to speak her name out loud.
+[00:09:43.865 --> 00:09:48.425] DATA: CLARK: There are ancient scrolls concerning Ardra that are stored in the Athenaeum vaults.
+[00:09:48.425 --> 00:09:49.625] DATA: Scholars study them.
+[00:09:49.625 --> 00:09:52.905] DATA: They have been of little public interest until recently
+[00:09:53.225 --> 00:09:54.905] PICARD: I think I should meet with this Acost Jared.
+[00:09:55.625 --> 00:09:57.545] PICARD: He's still our best hope for the release of the hostages.
+[00:09:58.105 --> 00:09:59.625] RIKER: I'll arrange to have him transported on board.
+[00:09:59.865 --> 00:10:02.069] PICARD: No. I'm going down to the planet myself.
+[00:10:02.069 --> 00:10:02.345] WORF: Sir,
+[00:10:02.825 --> 00:10:05.545] WORF: you run the risk of being taken as an additional hostage
+[00:10:06.265 --> 00:10:08.025] PICARD: Mister Worf, you and Mister Data will accompany me.
+[00:10:08.425 --> 00:10:11.465] PICARD: Mister O'Brien can keep a lock on our communicators.
+[00:10:12.025 --> 00:10:13.225] PICARD: He can pull us out if necessary.
+[00:10:13.865 --> 00:10:14.185] WORF: Yes, sir.
+[00:10:14.585 --> 00:10:15.865] PICARD: Counsellor, I want you to come too.
+[00:10:32.434 --> 00:10:34.674] JARED: Captain Picard, you shouldn't have come.
+[00:10:34.834 --> 00:10:36.354] JARED: Your life is in danger here.
+[00:10:36.354 --> 00:10:38.114] PICARD: You must calm your people.
+[00:10:38.114 --> 00:10:39.314] PICARD: There is no reason for panic.
+[00:10:39.394 --> 00:10:39.954] JARED: No reason?
+[00:10:40.114 --> 00:10:44.594] PICARD: If the tremors have frightened people, leading to this hysteria over Ardra, let us reassure them.
+[00:10:45.634 --> 00:10:48.594] DATA: We have scanned the tectonic stress patterns of your planet's crust.
+[00:10:49.074 --> 00:10:51.394] DATA: There is no evidence that the quakes pose any kind of threat.
+[00:10:51.634 --> 00:10:52.434] JARED: No, no, no,
+[00:10:52.434 --> 00:10:54.034] JARED: the threat is from Ardra.
+[00:10:55.234 --> 00:10:56.594] JARED: You cannot understand.
+[00:10:57.074 --> 00:10:59.874] PICARD: If you can at least help us locate our people.
+[00:11:05.074 --> 00:11:06.754] JARED: She is here.
+[00:11:07.314 --> 00:11:07.954] PICARD: Nonsense.
+[00:11:08.434 --> 00:11:08.914] PICARD: It is only
+[00:11:17.154 --> 00:11:17.634] ARDRA: Time's up.
+[00:11:28.194 --> 00:11:29.314] ARDRA: I'm disappointed.
+[00:11:30.434 --> 00:11:33.234] ARDRA: I expected my tenants to take better care of my property.
+[00:11:33.474 --> 00:11:35.314] JARED: Ardra, most powerful one,
+[00:11:35.874 --> 00:11:37.874] JARED: I am Jared, Leader of Ventax Two.
+[00:11:38.194 --> 00:11:40.674] JARED: I take responsibility for all that displeases you.
+[00:11:40.994 --> 00:11:42.994] JARED: Please, do not punish my people.
+[00:11:43.234 --> 00:11:44.034] ARDRA: Punish?
+[00:11:44.354 --> 00:11:46.034] ARDRA: Who said anything about punishing?
+[00:11:46.434 --> 00:11:49.234] ARDRA: I merely expect your end of our contract to be upheld.
+[00:11:49.794 --> 00:11:50.434] JARED: Thank you, Ardra.
+[00:11:50.914 --> 00:11:55.634] ARDRA: And don't talk like some ancient prophet around me, with thees and thous and most powerful ones.
+[00:11:56.194 --> 00:11:59.154] ARDRA: It was appealing for a few centuries, but I bore easily.
+[00:11:59.954 --> 00:12:02.274] ARDRA: And stop cowering. When I want you on your knees,
+[00:12:02.274 --> 00:12:02.994] ARDRA: I'll let you know.
+[00:12:05.950 --> 00:12:06.430] ARDRA: Much better.
+[00:12:07.470 --> 00:12:09.070] ARDRA: a fine example for the others.
+[00:12:09.950 --> 00:12:10.590] ARDRA: Who would you be?
+[00:12:11.070 --> 00:12:14.190] PICARD: I am Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:12:14.910 --> 00:12:15.870] ARDRA: Keep up the good work.
+[00:12:18.750 --> 00:12:22.190] ARDRA: Now, the first thing we'll need is an accounting of all you've been accumulating for me.
+[00:12:22.990 --> 00:12:30.910] ARDRA: This form will provide guidelines for a full census of the population, with emphasis on productivity and economic forecasts.
+[00:12:31.870 --> 00:12:32.750] PICARD: Who are you?
+[00:12:33.470 --> 00:12:35.070] ARDRA: My, you are forceful, aren't you?
+[00:12:35.470 --> 00:12:35.710] ARDRA: Good.
+[00:12:35.950 --> 00:12:38.830] ARDRA: I like my men to be forceful. At least at the start.
+[00:12:39.710 --> 00:12:41.150] PICARD: If your intent is to intimidate,
+[00:12:41.150 --> 00:12:42.030] PICARD: you are not succeeding.
+[00:12:42.030 --> 00:12:42.670] ARDRA: That's all right.
+[00:12:42.990 --> 00:12:44.350] ARDRA: I like a challenge.
+[00:12:44.830 --> 00:12:50.190] TROI: An entire planet has been terrorised because of the suggestion that you're going to enslave the population.
+[00:12:50.670 --> 00:12:52.030] ARDRA: Well, it's true.
+[00:12:52.110 --> 00:12:54.750] ARDRA: Of course, I wouldn't put it so melodramatically.
+[00:12:55.630 --> 00:12:58.430] ARDRA: It's just a standard contract with an unusually long term.
+[00:12:59.150 --> 00:13:01.310] DATA: So you do purport to be the mythic figure Ardra?
+[00:13:01.950 --> 00:13:03.870] ARDRA: I have many names, my pale friend.
+[00:13:04.990 --> 00:13:09.630] ARDRA: I'm Mendora in the Berussian Cluster. Torak to the Drellians.
+[00:13:10.590 --> 00:13:12.590] ARDRA: The Klingons call me Fek'lhr.
+[00:13:13.710 --> 00:13:15.118] WORF: You are not Fek'lhr.
+[00:13:15.118 --> 00:13:15.470] FEK'LHR: Ah,
+[00:13:16.190 --> 00:13:19.070] FEK'LHR: but I am
+[00:13:19.710 --> 00:13:21.950] FEK'LHR: I am the Guardian of Gre'thor.
+[00:13:22.670 --> 00:13:25.470] FEK'LHR: Where the dishonoured go when they die.
+[00:13:28.350 --> 00:13:30.510] ARDRA: But here on Ventax Two, I am called Ardra.
+[00:13:32.595 --> 00:13:36.915] ARDRA: The same Ardra who negotiated a contract with these people ten centuries ago today.
+[00:13:37.955 --> 00:13:45.235] ARDRA: Oh, you doubt me. A non-believer. Really, Jean-Luc Picard of the Federation Starship Enterprise,
+[00:13:45.795 --> 00:13:50.435] ARDRA: no doubt you have travelled the galaxy, encountered a diverse universe of creatures.
+[00:13:50.755 --> 00:13:52.435] ARDRA: Is there no room for the likes of me?
+[00:13:53.235 --> 00:13:56.595] PICARD: I have encountered many who more credibly could be called the devil than you.
+[00:13:57.235 --> 00:13:57.635] ARDRA: The devil!
+[00:13:59.395 --> 00:14:01.155] ARDRA: Now there's one I haven't heard in a long time.
+[00:14:02.835 --> 00:14:06.835] PICARD: You claim you visited this planet a thousand years ago and negotiated a contract?
+[00:14:08.035 --> 00:14:08.595] ARDRA: That's correct.
+[00:14:09.315 --> 00:14:10.515] PICARD: I would like to see that contract.
+[00:14:17.795 --> 00:14:18.275] JARED: The
+[00:14:20.675 --> 00:14:21.955] JARED: scrolls of Ardra, Captain.
+[00:14:22.515 --> 00:14:25.875] ARDRA: A long-winded description of a very simple business arrangement.
+[00:14:26.435 --> 00:14:31.955] ARDRA: I did away with their wars, famine and economic ruin, and provided them a thousand years of paradise.
+[00:14:32.595 --> 00:14:34.515] ARDRA: My terms were clearly stated.
+[00:14:35.155 --> 00:14:36.835] ARDRA: They went into this with their eyes open.
+[00:14:38.275 --> 00:14:40.035] ARDRA: I'm sure you'll find everything is in order.
+[00:14:41.075 --> 00:14:42.995] PICARD: You won't mind if I don't take your word for it?
+[00:14:44.435 --> 00:14:47.715] PICARD: Jared, with your permission, I'd like Mister Data will review these scrolls thoroughly.
+[00:14:48.915 --> 00:14:50.595] JARED: It is no longer my decision, Captain.
+[00:14:54.515 --> 00:14:57.235] ARDRA: I have intrigued you, haven't I, Picard?
+[00:14:57.955 --> 00:15:02.195] PICARD: I am only here to secure the release of the Federation hostages.
+[00:15:02.515 --> 00:15:03.555] ARDRA: Hostages?
+[00:15:04.195 --> 00:15:04.835] ARDRA: Is this true?
+[00:15:06.180 --> 00:15:07.220] JARED: Yes, Ardra.
+[00:15:07.860 --> 00:15:10.580] JARED: Panic gripped the people as the time of your return grew closer.
+[00:15:10.820 --> 00:15:12.820] ARDRA: Yes, I do have that effect on people.
+[00:15:13.860 --> 00:15:17.150] ARDRA: See that the hostages are released. Now.
+[00:15:17.150 --> 00:15:17.620] JARED: Immediately.
+[00:15:20.020 --> 00:15:22.180] ARDRA: Let us not cloud this with bit players, Picard.
+[00:15:23.220 --> 00:15:26.020] ARDRA: You will not leave because you find me irresistible.
+[00:15:29.300 --> 00:15:33.780] PICARD: Enterprise, advise Doctor Clark that the hostages are being released.
+[00:15:34.100 --> 00:15:34.820] CLARK: This is Clark.
+[00:15:35.140 --> 00:15:35.940] CLARK: You did it, Captain.
+[00:15:36.420 --> 00:15:37.060] CLARK: Thank goodness.
+[00:15:37.540 --> 00:15:39.300] PICARD: Goodness had nothing to do with it.
+[00:15:39.780 --> 00:15:40.580] PICARD: Three to beam up.
+[00:15:40.820 --> 00:15:42.580] PICARD: Mister Data will remain on the surface.
+[00:15:43.460 --> 00:15:47.380] PICARD: Data, I want a complete report on the contents of these documents.
+[00:15:48.980 --> 00:15:51.300] PICARD: I refuse to abandon this planet to that woman.
+[00:15:52.580 --> 00:15:53.140] PICARD: Energise.
+[00:16:00.420 --> 00:16:04.420] RIKER: Could she be another refugee from the Q continuum?
+[00:16:05.780 --> 00:16:07.540] CRUSHER: For that matter, could she be Q?
+[00:16:07.860 --> 00:16:10.153] PICARD: Q would never bother with contracts.
+[00:16:10.153 --> 00:16:11.300] TROI: Or economic forecasts.
+[00:16:11.620 --> 00:16:12.740] PICARD: I noticed that too, Counsellor.
+[00:16:13.380 --> 00:16:17.540] PICARD: I had the distinct impression of in the presence of a flim-flam artist.
+[00:16:18.180 --> 00:16:18.900] WORF: But her powers?
+[00:16:20.500 --> 00:16:22.900] PICARD: Her powers are, at the best, unclear.
+[00:16:23.300 --> 00:16:24.340] PICARD: Think about it, Mister Worf.
+[00:16:24.980 --> 00:16:27.220] PICARD: Transporter technology can make things appear and disappear.
+[00:16:27.540 --> 00:16:34.500] PICARD: The illusion that she can transform herself into a Klingon creature could be created by holographic projection.
+[00:16:34.811 --> 00:16:41.611] CLARK: And creating a minor tremor could be the result of a low frequency tractor beam projected against the tectonic plates.
+[00:16:42.411 --> 00:16:49.131] PICARD: We are capable of recreating all of these events. It's just that she dresses them up and she delivers them with more dramatic flair.
+[00:16:50.011 --> 00:16:50.811] CRUSHER: Like a magician.
+[00:16:52.491 --> 00:16:53.051] PICARD: Exactly.
+[00:16:53.531 --> 00:16:55.531] TROI: She has an incredibly focused mind.
+[00:16:55.931 --> 00:17:00.411] TROI: It was virtually impossible to sense any deception. Or anything else, for that matter.
+[00:17:00.811 --> 00:17:03.531] LAFORGE: The best magicians will never let you see what's up their sleeve, Counsellor.
+[00:17:03.931 --> 00:17:06.811] RIKER: She must be tapping into some sort of power source to produce these effects.
+[00:17:06.971 --> 00:17:08.171] RIKER: She's not hiding that up her sleeve.
+[00:17:08.811 --> 00:17:17.051] PICARD: Number One, I want you and Mister Worf to run high resolution scans of this star system. Look for a ship, a base of operations, anything large enough to generate that power.
+[00:17:17.371 --> 00:17:20.091] PICARD: Mister La Forge, accompany Doctor Clark back to the science station.
+[00:17:20.411 --> 00:17:22.971] PICARD: See if you can trace the origin of these tremors.
+[00:17:32.411 --> 00:17:34.731] ARDRA: Your chair offers a lovely view of my planet, Picard.
+[00:17:35.771 --> 00:17:36.651] ARDRA: Come, sit with me.
+[00:17:38.171 --> 00:17:41.531] PICARD: Either leave my Bridge or I will remove you by force.
+[00:17:42.251 --> 00:17:43.131] ARDRA: By force?
+[00:17:43.931 --> 00:17:46.971] ARDRA: You disappoint me.
+[00:17:47.691 --> 00:17:49.691] ARDRA: You didn't strike me as that sort, Picard,
+[00:17:50.331 --> 00:17:53.245] ARDRA: But by all means, try.
+[00:17:53.245 --> 00:17:54.411] PICARD: Mister Worf.
+[00:18:13.001 --> 00:18:15.881] ARDRA: I was really hoping you'd try it yourself.
+[00:18:17.641 --> 00:18:22.041] PICARD: Transporter room three, lock on to the intruder and transport her to the planet surface.
+[00:18:22.681 --> 00:18:23.001] CREWMAN: Aye, sir.
+[00:18:28.681 --> 00:18:30.601] PICARD: Ensign, put up the shields until further notice.
+[00:18:31.401 --> 00:18:32.121] ARDRA: Yes, sir, Captain.
+[00:18:32.521 --> 00:18:33.241] ARDRA: Whatever you say.
+[00:18:33.721 --> 00:18:35.481] RIKER: We are not impressed by your magic tricks.
+[00:18:36.041 --> 00:18:36.761] ARDRA: I pity you.
+[00:18:37.961 --> 00:18:42.121] ARDRA: We live in a universe of magic, which evidently you cannot see.
+[00:18:44.361 --> 00:18:46.281] ARDRA: Ah, my pale friend has returned.
+[00:18:46.841 --> 00:18:48.441] ARDRA: Have you finished examining the contract?
+[00:18:49.161 --> 00:18:49.561] DATA: I have, sir.
+[00:18:49.881 --> 00:18:50.681] PICARD: Report, Mister Data.
+[00:18:51.641 --> 00:18:58.441] DATA: The contract agrees to deliver the people of Ventax Two into the personal servitude of Ardra after one thousand years of peace.
+[00:18:59.241 --> 00:19:01.801] DATA: I have compared the terms to the body of laws which govern the planet.
+[00:19:02.041 --> 00:19:04.201] DATA: The language of the agreement is correct in every detail, sir.
+[00:19:04.761 --> 00:19:06.761] ARDRA: Such speed and accuracy.
+[00:19:07.481 --> 00:19:09.241] ARDRA: You're much too talented to be human.
+[00:19:10.041 --> 00:19:10.681] DATA: I am an android.
+[00:19:11.321 --> 00:19:11.641] ARDRA: Android.
+[00:19:12.761 --> 00:19:13.561] ARDRA: Of course.
+[00:19:13.881 --> 00:19:16.041] ARDRA: How wonderful. An unexpected bonus.
+[00:19:17.481 --> 00:19:17.881] RIKER: Bonus?
+[00:19:18.521 --> 00:19:19.001] ARDRA: Yes.
+[00:19:19.481 --> 00:19:27.161] ARDRA: When the contract came to term, I gained clear title to the planet, anything on the surface, in the air or in orbit.
+[00:19:28.841 --> 00:19:32.921] ARDRA: So you see, the Enterprise belongs to me now as well.
+[00:19:34.497 --> 00:19:34.497] DATA: I'm
+[00:19:36.817 --> 00:19:39.217] DATA: afraid the contract could be interpreted in that way, sir.
+[00:19:52.017 --> 00:19:53.217] LOG: Captain's log, supplemental.
+[00:19:53.857 --> 00:20:01.937] LOG: Although I consider this woman's claim upon my ship to be an empty threat, it has further inspired my determination to expose her for the fraud she is.
+[00:20:05.217 --> 00:20:05.537] PICARD: Come.
+[00:20:08.977 --> 00:20:09.857] DATA: You wished to see me, sir?
+[00:20:11.617 --> 00:20:12.257] PICARD: Yes, Mister Data.
+[00:20:12.257 --> 00:20:12.337] PICARD: A wise
+[00:20:16.337 --> 00:20:21.217] PICARD: man once said, there is a sucker born every minute.
+[00:20:22.017 --> 00:20:22.497] DATA: Barnum, sir.
+[00:20:22.977 --> 00:20:23.457] DATA: PT.
+[00:20:25.537 --> 00:20:28.417] PICARD: I've been examining the dynamics of what used to be called
+[00:20:30.017 --> 00:20:31.217] PICARD: the con game.
+[00:20:32.097 --> 00:20:32.897] PICARD: Quite fascinating.
+[00:20:33.057 --> 00:20:34.097] PICARD: Worthy of your study, Data.
+[00:20:35.217 --> 00:20:39.697] DATA: Sir, do you believe Ardra is, to use the vernacular, a con artist?
+[00:20:40.897 --> 00:20:41.937] PICARD: Yes, I do, Data.
+[00:20:41.937 --> 00:20:48.337] PICARD: And I believe it is our job to out-con the con artist.
+[00:20:49.857 --> 00:20:57.537] DATA: Sir, I must point out that the Ventaxians did have one thousand years of peace and tranquility as promised by Ardra.
+[00:20:57.857 --> 00:21:00.657] PICARD: We can only speculate what occurred on that planet a thousand years ago.
+[00:21:01.057 --> 00:21:03.857] PICARD: Maybe a Ventaxian leader saw the destruction of
+[00:21:03.883 --> 00:21:09.803] PICARD: his society at hand and he conceived this Contract of Ardra to motivate change.
+[00:21:09.803 --> 00:21:13.963] PICARD: Or maybe there was an Ardra of some sort who is the basis of this mythology.
+[00:21:13.963 --> 00:21:14.603] PICARD: Who knows?
+[00:21:14.923 --> 00:21:29.243] PICARD: The point is that somehow a fundamental theology was created which transformed this society, but in the process of change, created this latent fear which has been passed down through generations.
+[00:21:30.123 --> 00:21:37.803] PICARD: Data, from your own experience of performing Ebenezer Scrooge, you're aware how fear can be a very powerful motivator.
+[00:21:38.363 --> 00:21:38.843] DATA: Indeed, sir.
+[00:21:39.723 --> 00:21:44.043] DATA: In the story, the spirits used fear to motivate Scrooge to reform his character.
+[00:21:45.003 --> 00:21:56.683] PICARD: And in the hands of a con artist, fear can be used to motivate obedience, capitulation, the exploitation of innocent people. And that is what I believe has happened here.
+[00:21:57.243 --> 00:21:58.283] PICARD: I intend to prove that.
+[00:21:58.283 --> 00:21:59.883] PICARD: I need to find a loophole,
+[00:22:01.403 --> 00:22:04.123] PICARD: some way of challenging the validity of this contract.
+[00:22:04.843 --> 00:22:08.843] DATA: Sir, the language of the contract seems carefully chosen to avoid any loopholes.
+[00:22:09.483 --> 00:22:14.203] PICARD: Check it again, Mister Data, and check every Ventaxian legal precedent for the last one thousand years.
+[00:22:14.603 --> 00:22:15.623] PICARD: We'll talk again in the morning.
+[00:22:15.623 --> 00:22:15.963] DATA: Aye, sir,
+[00:22:47.233 --> 00:22:47.713] PICARD: Picard to Bridge.
+[00:22:47.793 --> 00:22:48.513] PICARD: Intruder alert.
+[00:22:49.793 --> 00:22:50.353] PICARD: Picard to Bridge.
+[00:22:50.993 --> 00:22:52.513] ARDRA: Oh, I've arranged for a bit of privacy.
+[00:23:10.033 --> 00:23:11.153] ARDRA: Just the two of us.
+[00:23:13.713 --> 00:23:15.313] PICARD: This is becoming very tiresome.
+[00:23:15.873 --> 00:23:16.913] ARDRA: Oh, come now, Picard.
+[00:23:18.033 --> 00:23:19.873] ARDRA: You know you find me tantalising.
+[00:23:22.033 --> 00:23:24.113] ARDRA: Give in to your desires.
+[00:23:26.113 --> 00:23:26.353] PICARD: You know,
+[00:23:28.033 --> 00:23:29.953] PICARD: there's nothing about you I find tantalising.
+[00:23:30.673 --> 00:23:34.113] PICARD: On the contrary, I find you obvious and vulgar.
+[00:23:35.153 --> 00:23:36.193] ARDRA: Easily fixed.
+[00:23:36.593 --> 00:23:38.993] ARDRA: I can be your ideal woman, Picard.
+[00:23:39.953 --> 00:23:40.753] ARDRA: Prim and proper.
+[00:23:42.593 --> 00:23:46.273] ARDRA: And chaste, until I succumb to your charms.
+[00:23:47.233 --> 00:23:51.873] ARDRA: Or would your fantasies turn more toward a professional woman, one perhaps who wears a Starfleet uniform?
+[00:23:53.153 --> 00:23:55.253] ARDRA: Perhaps I could even be
+[00:23:55.253 --> 00:23:58.193] TROI: Someone close at hand and yet unattainable.
+[00:24:01.713 --> 00:24:04.033] TROI: I can do anything for you, Captain.
+[00:24:06.825 --> 00:24:08.585] TROI: Anything you could ever imagine.
+[00:24:10.825 --> 00:24:15.065] ARDRA: I could give you a night that would light fire in your dreams until you die and you would reject me?
+[00:24:17.385 --> 00:24:17.945] PICARD: Oh, yes.
+[00:24:19.465 --> 00:24:20.265] ARDRA: You shall regret that.
+[00:24:20.745 --> 00:24:21.305] PICARD: I think not.
+[00:24:22.105 --> 00:24:22.825] ARDRA: Oh, but you will.
+[00:24:26.345 --> 00:24:26.985] LAFORGE: Captain Picard?
+[00:24:28.985 --> 00:24:30.665] LAFORGE: Captain, I wasn't expecting you here.
+[00:24:31.625 --> 00:24:32.025] PICARD: Neither was I.
+[00:24:33.865 --> 00:24:34.985] LAFORGE: La Forge to Enterprise.
+[00:24:35.305 --> 00:24:35.705] WORF: Go ahead.
+[00:24:35.865 --> 00:24:37.545] LAFORGE: Worf, Captain Picard is here.
+[00:24:37.865 --> 00:24:39.385] LAFORGE: You'd better transport him back on board.
+[00:24:40.505 --> 00:24:41.065] WORF: The Captain?
+[00:24:41.785 --> 00:24:42.318] WORF: But I have no
+[00:24:42.318 --> 00:24:42.985] PICARD: It's all right, Mister Worf.
+[00:24:43.785 --> 00:24:45.545] PICARD: Ardra somehow transported me here.
+[00:24:45.545 --> 00:24:47.305] PICARD: Will you beam me directly to my quarters.
+[00:24:47.785 --> 00:24:48.105] WORF: Aye, sir.
+[00:24:49.305 --> 00:24:50.025] WORF: We're locked on to you.
+[00:24:52.505 --> 00:24:54.345] WORF: Transporter is malfunctioning, Captain.
+[00:24:55.385 --> 00:24:56.425] WORF: Some sort of interference.
+[00:24:56.665 --> 00:24:57.065] WORF: Checking.
+[00:24:57.705 --> 00:25:01.865] PICARD: Just have Mister Data fetch me in a shuttle. And have him bring along a uniform.
+[00:25:02.505 --> 00:25:03.545] WORF: Did you say uniform?
+[00:25:04.185 --> 00:25:04.905] PICARD: Yes, I did.
+[00:25:06.825 --> 00:25:07.145] WORF: Aye, sir.
+[00:25:13.705 --> 00:25:15.545] PICARD: Mister La Forge and Doctor Clark have made no headway.
+[00:25:16.905 --> 00:25:19.945] PICARD: Commander Riker and Lieutenant Worf have picked nothing up anything on their scans.
+[00:25:20.665 --> 00:25:24.985] DATA: Sir, I believe I have found an obscure precedent in Ventaxian law which may be of interest.
+[00:25:25.545 --> 00:25:25.785] PICARD: Yes?
+[00:25:25.785 --> 00:25:33.545] DATA: The case involves a contract dispute over services rendered by a Klingon craftsman on the construction of a Ventaxian home.
+[00:25:33.945 --> 00:25:36.425] DATA: Because the dispute involved an alien culture,
+[00:25:37.055 --> 00:25:40.815] DATA: the parties decided that arbitration rather than the courts, should resolve the issue.
+[00:25:41.695 --> 00:25:43.535] DATA: Both sides agreed to choose an arbiter. It
+[00:25:44.175 --> 00:25:46.815] DATA: is the only known case involving an alien claimant.
+[00:25:48.735 --> 00:25:49.615] PICARD: That's exactly what I needed.
+[00:25:50.095 --> 00:25:50.655] PICARD: Well done, Data.
+[00:25:55.215 --> 00:25:58.175] DATA: Shuttlecraft One to Enterprise. Prepare for docking sequence
+[00:25:58.975 --> 00:26:00.815] RIKER: Proceed, Shuttle One.
+[00:26:04.815 --> 00:26:05.215] PICARD: Enterprise.
+[00:26:07.055 --> 00:26:08.015] PICARD: Enterprise, do you read me?
+[00:26:10.095 --> 00:26:14.175] PICARD: Enterprise, come in.
+[00:26:23.215 --> 00:26:26.495] DATA: I cannot locate the Enterprise anywhere within one light year of the planet, sir.
+[00:26:27.055 --> 00:26:30.015] PICARD: I don't believe Ardra is capable of transporting the Enterprise a light year away.
+[00:26:30.575 --> 00:26:31.615] PICARD: Keep hailing them, Mister Data.
+[00:26:31.935 --> 00:26:32.975] PICARD: Repeat on all frequencies.
+[00:26:33.455 --> 00:26:34.415] LAFORGE: Hey, I think we've found something here.
+[00:26:39.055 --> 00:26:42.735] LAFORGE: There's a sudden jump in Z-particle readings just about the time the Enterprise disappeared.
+[00:26:43.055 --> 00:26:43.775] PICARD: Where did it originate?
+[00:26:44.015 --> 00:26:45.558] CLARK: It was too brief to pinpoint.
+[00:26:45.558 --> 00:26:47.615] LAFORGE: But it could suggest a hidden power source.
+[00:26:48.015 --> 00:26:51.055] PICARD: Gentlemen, we need to find that source if we are to defeat this woman.
+[00:26:51.375 --> 00:26:55.615] LAFORGE: Well, if you can get her to perform a few more magic tricks like that one, we just might be able to track it down.
+[00:26:58.255 --> 00:27:00.495] ARDRA: So, I trust you have a bit more respect for me now.
+[00:27:01.055 --> 00:27:01.935] PICARD: What have you done with my ship?
+[00:27:02.575 --> 00:27:03.855] ARDRA: I've done nothing with your ship.
+[00:27:04.937 --> 00:27:06.857] ARDRA: My ship is safely in my possession.
+[00:27:07.497 --> 00:27:12.137] PICARD: I do not recognise your claim on the Enterprise. Nor on this world, for that matter.
+[00:27:12.857 --> 00:27:15.737] PICARD: In accordance with Ventaxian legal precedent,
+[00:27:17.337 --> 00:27:18.537] PICARD: I call for an arbitration.
+[00:27:18.697 --> 00:27:19.577] ARDRA: An arbitration?
+[00:27:20.057 --> 00:27:21.577] ARDRA: There's nothing here to arbitrate.
+[00:27:21.657 --> 00:27:22.297] PICARD: Oh, but there is.
+[00:27:22.857 --> 00:27:28.457] PICARD: You're a fraud, madame, and I intend to prove that you could not have affected the changes that took place on this planet.
+[00:27:28.457 --> 00:27:30.777] ARDRA: Do you not believe what you see with your own eyes?
+[00:27:31.257 --> 00:27:32.777] ARDRA: Your ship is gone, Captain.
+[00:27:32.937 --> 00:27:33.417] PICARD: An illusion.
+[00:27:33.737 --> 00:27:36.217] PICARD: Magicians have been making things of all sorts disappear for ages.
+[00:27:36.217 --> 00:27:37.657] ARDRA: You underestimate me.
+[00:27:38.297 --> 00:27:41.337] ARDRA: But then, most people do, until it's too late.
+[00:27:41.497 --> 00:27:45.177] PICARD: If you are who you say you are, then you have nothing to lose.
+[00:27:45.177 --> 00:27:46.617] ARDRA: I also have nothing to gain.
+[00:27:47.017 --> 00:27:49.977] ARDRA: I already have possession of this planet and your ship.
+[00:27:51.897 --> 00:27:56.217] PICARD: I am prepared to offer an added incentive. If you win,
+[00:27:58.377 --> 00:28:00.057] PICARD: I'll take you to the ruins of Ligillium.
+[00:28:01.417 --> 00:28:02.217] ARDRA: The Zaterl Emerald?
+[00:28:03.177 --> 00:28:04.377] ARDRA: You know where it is?
+[00:28:05.337 --> 00:28:05.977] PICARD: Yes, I do.
+[00:28:08.617 --> 00:28:09.497] ARDRA: Oh,
+[00:28:11.337 --> 00:28:12.857] ARDRA: you are too clever.
+[00:28:13.817 --> 00:28:15.417] ARDRA: But I have enough jewels.
+[00:28:16.217 --> 00:28:21.897] ARDRA: If you wish this foolish arbitration, I will choose my own prize.
+[00:28:22.457 --> 00:28:23.177] PICARD: And what would that be?
+[00:28:29.097 --> 00:28:29.417] ARDRA: You.
+[00:28:31.577 --> 00:28:33.497] ARDRA: By all rights, your body is already mine,
+[00:28:34.537 --> 00:28:35.257] ARDRA: but I want more.
+[00:28:36.183 --> 00:28:42.663] ARDRA: I want your heart, your mind, your soul, and I want you to give them to me without resistance, of your own free will.
+[00:28:44.343 --> 00:28:48.663] ARDRA: So, do you still wish to pursue this most dangerous game?
+[00:28:51.063 --> 00:28:53.383] PICARD: I agree to your terms.
+[00:28:54.343 --> 00:28:58.183] ARDRA: Oh, Picard, I will enjoy you morning, noon and night.
+[00:28:59.223 --> 00:29:02.343] PICARD: But we must agree to an arbiter.
+[00:29:03.863 --> 00:29:04.103] ARDRA: Very
+[00:29:05.623 --> 00:29:07.623] ARDRA: well.
+[00:29:07.623 --> 00:29:08.583] ARDRA: I choose Mister Data.
+[00:29:10.263 --> 00:29:11.223] ARDRA: Any objections?
+[00:29:12.423 --> 00:29:13.863] PICARD: But Mister Data is a member of my crew.
+[00:29:14.503 --> 00:29:17.143] ARDRA: Of my crew. And he's an android.
+[00:29:17.783 --> 00:29:19.943] ARDRA: He is incapable of deceit or bias.
+[00:29:20.663 --> 00:29:23.383] ARDRA: He has no feelings to get in the way of his judgment.
+[00:29:24.663 --> 00:29:28.903] DATA: Ardra, before he responds, may I have a word in private with Captain Picard?
+[00:29:39.623 --> 00:29:41.943] DATA: Sir, I request you reject me as arbitrator.
+[00:29:42.823 --> 00:29:43.063] PICARD: Why?
+[00:29:43.783 --> 00:29:44.423] DATA: Ardra is right.
+[00:29:45.143 --> 00:29:48.423] DATA: If I am chosen, I will perform my duties without bias or sentiment.
+[00:29:48.903 --> 00:29:51.223] DATA: I cannot guarantee I will deliver a verdict in your favour.
+[00:29:53.543 --> 00:29:57.623] PICARD: Data, where else on this planet can I find someone she cannot intimidate?
+[00:29:58.903 --> 00:30:02.903] DATA: Sir, I will have to follow the rules of conduct for a Ventaxian jurist.
+[00:30:04.103 --> 00:30:04.663] PICARD: I understand.
+[00:30:05.321 --> 00:30:06.521] PICARD: You'll make a fine judge.
+[00:30:10.521 --> 00:30:12.441] JARED: A thousand years ago our planet was dying.
+[00:30:12.921 --> 00:30:16.281] JARED: Overcrowded and dangerous city states warred unceasingly with each other.
+[00:30:16.521 --> 00:30:22.361] JARED: The air and water were polluted with industrial waste and there was a constant threat of starvation and epidemic.
+[00:30:22.361 --> 00:30:23.161] ARDRA: And then what happened?
+[00:30:24.121 --> 00:30:26.041] JARED: And then you came.
+[00:30:26.601 --> 00:30:27.001] PICARD: Objection.
+[00:30:27.641 --> 00:30:31.321] PICARD: There is no conclusive evidence that this woman ever visited the planet a thousand years ago.
+[00:30:31.801 --> 00:30:34.121] ARDRA: I suppose you want a thousand year old witness?
+[00:30:35.641 --> 00:30:36.441] PICARD: That would be acceptable.
+[00:30:37.641 --> 00:30:42.201] ARDRA: Jared. In the contract, does it specify how you would know me when I return?
+[00:30:43.081 --> 00:30:43.641] JARED: Yes
+[00:30:44.281 --> 00:30:44.921] JARED: by the date.
+[00:30:45.561 --> 00:30:46.281] ARDRA: Anything else?
+[00:30:47.081 --> 00:30:50.441] JARED: by the shaking of the cities, and by the visions.
+[00:30:51.321 --> 00:30:52.681] ARDRA: And all of these occurred on schedule?
+[00:30:53.241 --> 00:30:53.641] JARED: Yes.
+[00:30:54.601 --> 00:30:55.001] ARDRA: Thank you.
+[00:30:57.241 --> 00:31:02.201] ARDRA: Your honour, I submit that I have established my identity as stated by the contract.
+[00:31:04.041 --> 00:31:12.041] DATA: Captain Picard, my interpretation of Ventaxian law suggests under these circumstances, this is acceptable.
+[00:31:12.681 --> 00:31:14.041] DATA: Your objection is overruled.
+[00:31:15.241 --> 00:31:16.304] PICARD: But, your honour!
+[00:31:16.304 --> 00:31:17.721] DATA: Sir, I have ruled.
+[00:31:19.241 --> 00:31:19.801] DATA: Please sit down.
+[00:31:26.201 --> 00:31:26.841] DATA: You may proceed.
+[00:31:27.161 --> 00:31:27.801] ARDRA: Thank you, your Honour.
+[00:31:30.121 --> 00:31:33.801] ARDRA: Now, when I first set foot on Ventax Two, what did I offer your people?
+[00:31:34.601 --> 00:31:35.801] JARED: According to the scrolls,
+[00:31:35.926 --> 00:31:41.366] JARED: you offered us a thousand years of peace and prosperity, if we would promise to surrender ourselves to you at the end of the term.
+[00:31:41.846 --> 00:31:44.406] ARDRA: Now why do you think they would strike such a bargain?
+[00:31:44.566 --> 00:31:45.766] JARED: We had nothing to lose.
+[00:31:46.646 --> 00:31:48.374] JARED: There was no hope in sight.
+[00:31:48.374 --> 00:31:49.526] ARDRA: Until I came along.
+[00:31:49.686 --> 00:31:50.246] PICARD: Objection!
+[00:31:50.486 --> 00:31:52.006] ARDRA: I withdraw the observation.
+[00:31:53.846 --> 00:31:54.726] ARDRA: No further questions.
+[00:31:58.726 --> 00:32:04.086] PICARD: Your Honour, nothing in this testament proves that Ardra had the power to affect the lives of the Ventaxians.
+[00:32:04.806 --> 00:32:09.606] PICARD: My opponent has failed to prove her case and I move that her claim be summarily dismissed.
+[00:32:10.086 --> 00:32:13.046] DATA: I find no cause to invalidate the contract at this time.
+[00:32:13.606 --> 00:32:14.886] DATA: The arbitration will continue.
+[00:32:16.166 --> 00:32:16.646] ARDRA: Your Honour,
+[00:32:18.326 --> 00:32:23.446] ARDRA: Captain Picard as a new visitor to my planet has been a consistent doubter of my abilities.
+[00:32:23.846 --> 00:32:26.006] ARDRA: I would like to ask him a few questions, if I may.
+[00:32:26.646 --> 00:32:31.206] DATA: It is highly irregular to question the opposing advocate, but I see no reason to deny it.
+[00:32:31.926 --> 00:32:32.326] DATA: Proceed.
+[00:32:33.606 --> 00:32:35.926] ARDRA: Please don't take any offence at these questions,
+[00:32:36.406 --> 00:32:37.766] ARDRA: you know how fond I am of you.
+[00:32:38.246 --> 00:32:38.886] PICARD: Objection.
+[00:32:39.366 --> 00:32:39.846] DATA: Sustained.
+[00:32:40.886 --> 00:32:44.646] DATA: The advocate will refrain from expressing personal affections for her opponent.
+[00:32:47.446 --> 00:32:49.286] ARDRA: You do not believe my powers are real, do you.
+[00:32:50.166 --> 00:32:50.646] PICARD: No, I don't.
+[00:32:52.006 --> 00:32:54.966] ARDRA: Then, sir, may I ask you to explain this.
+[00:33:01.526 --> 00:33:02.326] DATA: You are out of order.
+[00:33:03.606 --> 00:33:04.406] ARDRA: Or this?
+[00:33:09.446 --> 00:33:09.926] DATA: The advocate
+[00:33:10.089 --> 00:33:12.329] DATA: will refrain from making her opponent disappear.
+[00:33:14.569 --> 00:33:16.089] ARDRA: Or this?
+[00:33:19.449 --> 00:33:21.769] DEVIL: Can you explain it, Picard?
+[00:33:22.569 --> 00:33:26.089] DATA: Any more disruptions and I will rule you in contempt of court.
+[00:33:26.329 --> 00:33:27.129] DATA: Is that understood?
+[00:33:29.769 --> 00:33:33.689] ARDRA: I am sorry, your Honour, but can you explain it, Picard?
+[00:33:35.689 --> 00:33:36.569] ARDRA: Yes or no.
+[00:33:39.129 --> 00:33:39.289] PICARD: No.
+[00:33:42.409 --> 00:33:44.009] ARDRA: I rest my case, your
+[00:33:49.449 --> 00:33:51.449] ARDRA: Honour.
+[00:33:57.609 --> 00:34:01.609] CLARK: The decay rate of these Z-particles makes it almost impossible to trace the source.
+[00:34:02.249 --> 00:34:05.609] LAFORGE: I'm correlating particle trajectories. They're beginning to align.
+[00:34:06.969 --> 00:34:07.449] LAFORGE: Wait a minute.
+[00:34:07.689 --> 00:34:19.529] LAFORGE: I have coordinates thirty four degrees north, sixty two degrees east, at an altitude of two hundred ten kilometres.
+[00:34:19.769 --> 00:34:23.769] CLARK: That would put it in orbit above the western magnetic pole,
+[00:34:23.769 --> 00:34:25.049] CLARK: Running visual scan.
+[00:34:27.289 --> 00:34:29.289] CLARK: Nothing.
+[00:34:31.129 --> 00:34:32.649] LAFORGE: This time, I don't buy the magic.
+[00:34:33.449 --> 00:34:34.409] LAFORGE: Something's got to be there.
+[00:34:37.369 --> 00:34:42.009] PICARD: Jared, you've described quite thoroughly the history of your people before and after
+[00:34:42.920 --> 00:34:47.480] PICARD: Ardra's first visit. But I am a little unclear about the change itself.
+[00:34:48.440 --> 00:34:55.240] PICARD: Did Ardra simply snap her fingers and transform the planet into this paradise?
+[00:34:55.480 --> 00:34:59.080] JARED: No, the changes occurred gradually over a long period of time.
+[00:34:59.480 --> 00:35:03.320] PICARD: Did she personally form the government that so peacefully ruled this planet for a millennium?
+[00:35:04.200 --> 00:35:10.200] JARED: No, historical records indicate a council was convened to assess our options.
+[00:35:10.520 --> 00:35:13.960] JARED: They drew up a new constitution which the population later ratified.
+[00:35:14.600 --> 00:35:15.320] PICARD: I see.
+[00:35:15.320 --> 00:35:17.080] PICARD: So she advised this council?
+[00:35:18.680 --> 00:35:19.000] JARED: No.
+[00:35:19.640 --> 00:35:19.880] PICARD: No?
+[00:35:22.040 --> 00:35:24.360] PICARD: Then she must have destroyed all the weapons on the planet.
+[00:35:25.000 --> 00:35:30.680] JARED: No, our leaders did that. And they signed a treaty of non-aggression.
+[00:35:33.560 --> 00:35:37.800] PICARD: Well then, let's move on to the environmental gains on Ventax Two.
+[00:35:37.800 --> 00:35:39.240] PICARD: How were those accomplished
+[00:35:40.200 --> 00:35:44.520] JARED: We shifted our economy from an industrial to an agrarian base.
+[00:35:44.760 --> 00:35:46.520] JARED: It was more ecologically sound.
+[00:35:47.800 --> 00:35:50.680] PICARD: But Ardra must have purified the polluted water and air?
+[00:35:51.800 --> 00:36:00.760] JARED: No, the record shows there were a series of initiatives covering everything from atmospheric contaminants to waste disposal.
+[00:36:01.320 --> 00:36:04.840] PICARD: Did she not even pick up one piece of trash?
+[00:36:05.560 --> 00:36:09.000] JARED: Ardra had left Ventax Two before the environmental reforms began.
+[00:36:09.973 --> 00:36:22.613] PICARD: Forgive me, but it sounds as if with a great deal of hard work and courage, your ancestors changed this world all by themselves.
+[00:36:23.013 --> 00:36:23.653] ARDRA: Objection.
+[00:36:25.333 --> 00:36:26.853] ARDRA: The advocate is drawing conclusions.
+[00:36:28.213 --> 00:36:28.773] DATA: Sustained.
+[00:36:29.173 --> 00:36:32.533] DATA: I will draw my own conclusions, if you do not mind. Sir.
+[00:36:34.133 --> 00:36:35.013] PICARD: No further questions.
+[00:36:39.253 --> 00:36:39.573] DATA: Rebuttal?
+[00:36:41.253 --> 00:36:42.453] ARDRA: Just two questions.
+[00:36:44.293 --> 00:36:52.213] ARDRA: Is there any doubt in your mind, any doubt at all, that if I had not intervened, the terrible conditions here would have continued?
+[00:36:54.213 --> 00:36:55.733] ARDRA: I remind you that you're under oath.
+[00:36:58.293 --> 00:36:59.493] JARED: No doubt at all.
+[00:37:00.773 --> 00:37:06.933] ARDRA: Then, as former head of state for the Ventaxian people, you are satisfied that I fulfilled my part of the bargain?
+[00:37:09.573 --> 00:37:10.213] JARED: Yes, Ardra.
+[00:37:11.413 --> 00:37:13.493] ARDRA: Thank you. Your Honour,
+[00:37:13.493 --> 00:37:14.373] ARDRA: what more can be said?
+[00:37:14.773 --> 00:37:17.493] ARDRA: Both sides agree the terms of the contract have been fulfilled.
+[00:37:18.933 --> 00:37:23.093] DATA: Captain Picard, do you have any further evidence to present before I render judgment?
+[00:37:25.893 --> 00:37:29.093] PICARD: I believe my associate, Mister La Forge, may be bringing the answer to that question.
+[00:37:29.493 --> 00:37:30.373] PICARD: I request a recess.
+[00:37:31.333 --> 00:37:31.653] LAFORGE: Hi, Data.
+[00:37:32.213 --> 00:37:32.453] DATA: Geordi.
+[00:37:34.773 --> 00:37:35.893] DATA: One hour recess is granted.
+[00:37:45.520 --> 00:37:45.680] PICARD: Mister
+[00:37:45.680 --> 00:37:47.760] PICARD: La Forge, my reputation as a litigator,
+[00:37:48.640 --> 00:37:51.600] PICARD: not to mention my immortal soul, is in serious jeopardy.
+[00:37:51.600 --> 00:37:54.160] LAFORGE: Well, whatever's been going on over here gave us exactly what we needed.
+[00:37:55.200 --> 00:37:56.560] PICARD: Have you identified the source of her power?
+[00:37:57.040 --> 00:37:57.920] LAFORGE: A cloaked ship.
+[00:37:59.120 --> 00:38:00.960] PICARD: She has a Romulan cloaking device?
+[00:38:01.360 --> 00:38:03.040] LAFORGE: More likely a bad copy of one.
+[00:38:03.200 --> 00:38:04.640] LAFORGE: We picked it up through a wavelength stretchout.
+[00:38:05.200 --> 00:38:05.840] PICARD: The Enterprise?
+[00:38:05.920 --> 00:38:07.600] LAFORGE: Exactly where it's supposed to be.
+[00:38:08.160 --> 00:38:12.640] LAFORGE: Ardra extended her cloaking shields around it, set up a subspace damping field to interfere with normal operations.
+[00:38:13.200 --> 00:38:15.520] LAFORGE: I've isolated the frequency spread and penetrated the field.
+[00:38:15.840 --> 00:38:16.560] PICARD: Can you make contact?
+[00:38:16.880 --> 00:38:17.520] LAFORGE: Already have.
+[00:38:19.600 --> 00:38:22.080] PICARD: This is what I want to do, but we have less than an
+[00:38:23.840 --> 00:38:25.840] PICARD: hour.
+[00:38:29.680 --> 00:38:33.600] PICARD: Jared, you're a wise and experienced leader, and I assume you trust your senses?
+[00:38:33.920 --> 00:38:35.120] JARED: Yes, I would say so.
+[00:38:35.440 --> 00:38:40.640] PICARD: And all your senses tell you that this woman here is the most powerful force on this planet, don't they?
+[00:38:41.200 --> 00:38:41.600] JARED: Yes.
+[00:38:42.720 --> 00:38:47.920] PICARD: Then what would you say if I were to tell you that she has no powers whatsoever?
+[00:38:49.040 --> 00:38:50.880] JARED: But we have seen her powers here.
+[00:38:51.440 --> 00:38:53.520] ARDRA: That's right, and you will again.
+[00:38:54.000 --> 00:38:56.480] PICARD: Oh, yes. Ardra's magic.
+[00:38:58.240 --> 00:39:05.440] PICARD: Jared, would you believe me if I told you that I could steal her powers and perform the same magical acts as she?
+[00:39:06.160 --> 00:39:09.440] JARED: I'm sorry, Captain Picard, but you are not Ardra.
+[00:39:10.960 --> 00:39:11.440] PICARD: No, that's true.
+[00:39:12.765 --> 00:39:13.485] PICARD: I'm not Ardra.
+[00:39:15.005 --> 00:39:17.965] PICARD: but I can create tremors just as she did.
+[00:39:21.645 --> 00:39:22.525] ARDRA: Objection, your honour!
+[00:39:24.525 --> 00:39:25.805] DATA: I think he deserves some leeway.
+[00:39:26.285 --> 00:39:26.765] DATA: Overruled.
+[00:39:27.645 --> 00:39:28.925] DATA: But that will be quite enough, Captain.
+[00:39:29.645 --> 00:39:30.205] PICARD: Of course.
+[00:39:31.085 --> 00:39:33.485] PICARD: Ardra, will you would do the honours and stop the tremors?
+[00:39:33.805 --> 00:39:35.725] ARDRA: Er, of course.
+[00:39:38.765 --> 00:39:39.405] PICARD: Is something the matter?
+[00:39:40.525 --> 00:39:41.725] ARDRA: I like the tremors.
+[00:39:42.445 --> 00:39:42.845] PICARD: Well, I don't.
+[00:39:46.125 --> 00:39:48.205] PICARD: You Recognise the old bag of tricks?
+[00:39:49.405 --> 00:39:49.965] PICARD: What about this one?
+[00:39:50.525 --> 00:39:53.645] PICARD: Come back, Ardra, if you can.
+[00:39:54.925 --> 00:39:55.165] PICARD: No?
+[00:39:56.285 --> 00:39:56.525] PICARD: Fine,
+[00:39:56.765 --> 00:39:57.245] PICARD: allow me
+[00:40:00.925 --> 00:40:02.365] ARDRA: Of all the impudence.
+[00:40:03.005 --> 00:40:03.565] PICARD: Impudence?
+[00:40:04.845 --> 00:40:08.685] FEK'LHR: Impudence is pretending to be Fek'lhr of Klingon.
+[00:40:08.845 --> 00:40:11.965] DATA: Your leeway has run out, Captain.
+[00:40:15.165 --> 00:40:17.485] PICARD: Your Honour, I appreciate your indulgence.
+[00:40:17.805 --> 00:40:18.605] PICARD: Allow me to explain.
+[00:40:19.565 --> 00:40:27.325] PICARD: A team from the Enterprise has taken control of this woman's ship now in orbit around Ventax Two.
+[00:40:28.125 --> 00:40:29.245] PICARD: Thank you for your help, Number One.
+[00:40:29.885 --> 00:40:30.685] RIKER: Glad to be of service,
+[00:40:30.685 --> 00:40:31.080] RIKER: sir.
+[00:40:31.080 --> 00:40:37.405] PICARD: They have been monitoring me on my communicator, executing a prearranged programme on her ship's computer,
+[00:40:37.885 --> 00:40:41.565] PICARD: a fairly ingenious combination of force-field projection, holography
+[00:40:42.042 --> 00:40:43.402] PICARD: and transporter effects.
+[00:40:44.122 --> 00:40:49.322] PICARD: Ardra controls her magic literally by the blink of an eye.
+[00:40:50.362 --> 00:40:57.082] PICARD: Centuries old technology. An implant which permits the movements of her eye to choose and activate each illusion.
+[00:40:59.082 --> 00:41:01.482] PICARD: Ardra once told us that she is known by many names.
+[00:41:01.482 --> 00:41:04.203] PICARD: Well, at least in that she was being honest.
+[00:41:04.362 --> 00:41:09.243] PICARD: Her crew has admitted that she is known by twenty three aliases in this sector alone.
+[00:41:09.482 --> 00:41:10.522] ARDRA: You had no right
+[00:41:11.002 --> 00:41:14.283] PICARD: Deceiving innocent people with her petty schemes for years.
+[00:41:14.522 --> 00:41:19.402] PICARD: Ventax Two must have offered her the greatest opportunity of her nefarious career.
+[00:41:19.723 --> 00:41:29.402] PICARD: She learned of the myth of Ardra, studied it and expertly played on your fears that your people were ready to virtually surrender to her.
+[00:41:32.522 --> 00:41:44.763] ARDRA: Your Honour, under the circumstances, I believe it is only fair that I release the Ventaxians from their obligation and I will let them keep the peace they have,
+[00:41:45.482 --> 00:41:48.442] ARDRA: and I will just be on my way.
+[00:41:55.562 --> 00:41:58.203] DATA: With the advocate's withdrawal, the contract is hereby dissolved.
+[00:41:59.082 --> 00:42:00.763] DATA: This arbitration is adjourned.
+[00:42:03.243 --> 00:42:04.203] JARED: Thank you, Captain Picard.
+[00:42:04.763 --> 00:42:05.882] JARED: You saved our lives.
+[00:42:06.203 --> 00:42:06.922] PICARD: No, Jared.
+[00:42:07.803 --> 00:42:10.683] PICARD: As I've tried to tell you, you saved your own lives a long time ago.
+[00:42:15.853 --> 00:42:16.573] DATA: Congratulations, sir.
+[00:42:17.933 --> 00:42:18.333] PICARD: Your Honour.
+[00:42:21.853 --> 00:42:24.253] ARDRA: You would have had a lot more fun if you'd lost.
+[00:42:25.213 --> 00:42:29.053] ARDRA: Till we meet again, Jean-Luc Picard of the Starship Enterprise.
+[00:42:48.000 --> 00:42:56.000] [music]
+[00:42:57.000 --> 00:43:05.000] [music]
+[00:43:09.000 --> 00:43:18.000] [music]

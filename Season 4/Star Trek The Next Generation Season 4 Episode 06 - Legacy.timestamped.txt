@@ -1,0 +1,711 @@
+[00:00:04.480 --> 00:00:06.480] WORF: One.
+[00:00:07.440 --> 00:00:09.120] RIKER: Are you trying to fill another inside straight, Worf?
+[00:00:09.920 --> 00:00:13.200] RIKER: Don't say I didn't warn you.
+[00:00:13.200 --> 00:00:13.440] WORF: Pah!
+[00:00:15.040 --> 00:00:15.600] TROI: I fold.
+[00:00:18.320 --> 00:00:20.560] DATA: I will raise you three.
+[00:00:22.000 --> 00:00:22.560] RIKER: No cards?
+[00:00:26.000 --> 00:00:27.360] RIKER: The best poker face I've ever seen.
+[00:00:28.160 --> 00:00:29.040] RIKER: Dealer takes two.
+[00:00:33.200 --> 00:00:36.080] RIKER: Your three and ten more.
+[00:00:39.280 --> 00:00:42.720] DATA: I will see your ten, and raise you twenty.
+[00:00:43.440 --> 00:00:46.640] RIKER: Data, Have you got a flush or a full house?
+[00:00:46.640 --> 00:00:49.840] DATA: It will cost you twenty to make that determination, sir.
+[00:00:54.560 --> 00:00:55.200] RIKER: Dealer folds.
+[00:00:57.280 --> 00:01:01.200] TROI: You two have successfully divided the evening between you.
+[00:01:02.400 --> 00:01:04.160] WORF: I suspect conspiracy.
+[00:01:05.840 --> 00:01:08.800] WORF: Far be it for me to accuse my superior officers.
+[00:01:09.360 --> 00:01:11.040] RIKER: You're getting harder and harder to bluff, Data.
+[00:01:11.600 --> 00:01:12.800] RIKER: You've learned this game very well.
+[00:01:13.280 --> 00:01:13.600] DATA: Yes sir,
+[00:01:14.000 --> 00:01:14.560] DATA: I believe I have.
+[00:01:15.680 --> 00:01:16.080] RIKER: Tell you what.
+[00:01:17.120 --> 00:01:22.640] RIKER: I'll bet that I can find any card that you hide in this deck. And furthermore, I will make you help me find it.
+[00:01:22.880 --> 00:01:23.760] TROI: Careful, Data.
+[00:01:24.720 --> 00:01:26.400] DATA: Your guidance is much valued, Counsellor.
+[00:01:27.863 --> 00:01:28.263] DATA: However.
+[00:01:30.743 --> 00:01:31.303] RIKER: Pick a card.
+[00:01:31.453 --> 00:01:32.053] RIKER: Don't
+[00:01:34.023 --> 00:01:34.663] RIKER: let me see it.
+[00:01:40.183 --> 00:01:40.983] RIKER: Now lose it in the deck.
+[00:01:46.423 --> 00:01:47.783] RIKER: Cut the deck into two even piles.
+[00:01:49.543 --> 00:01:49.783] RIKER: Okay.
+[00:01:51.943 --> 00:01:52.503] RIKER: Once more time.
+[00:01:55.943 --> 00:01:56.343] RIKER: And again.
+[00:02:00.183 --> 00:02:00.743] RIKER: How many cards?
+[00:02:01.223 --> 00:02:01.543] DATA: Eleven.
+[00:02:02.023 --> 00:02:02.423] RIKER: Take five.
+[00:02:08.023 --> 00:02:08.503] RIKER: Throw them away.
+[00:02:12.663 --> 00:02:13.223] RIKER: Pick three more.
+[00:02:15.623 --> 00:02:15.623] RIKER: Okay,
+[00:02:16.103 --> 00:02:17.143] RIKER: now pick one of those.
+[00:02:22.743 --> 00:02:23.223] RIKER: Is that your card?
+[00:02:25.063 --> 00:02:25.463] TROI: Incredible.
+[00:02:26.103 --> 00:02:26.903] DATA: Not at all, Counsellor.
+[00:02:29.063 --> 00:02:32.263] DATA: You surreptitiously placed the edge of your left thumb against the card.
+[00:02:32.823 --> 00:02:35.703] DATA: When you divided the deck to reshuffle, you kept that card on top.
+[00:02:36.343 --> 00:02:46.503] DATA: You thus were able to have me either save or discard, depending on the location of the card, which you followed at each step until we were left with just one. The card I originally chose.
+[00:02:47.703 --> 00:02:50.823] DATA: Sir, I believe under the circumstances
+[00:02:52.663 --> 00:02:53.943] PICARD: Picard to Riker.
+[00:02:54.959 --> 00:02:55.359] RIKER: Captain?
+[00:02:55.759 --> 00:02:57.199] PICARD: We've received a distress call.
+[00:02:57.199 --> 00:02:58.399] PICARD: We're changing course to intercept.
+[00:03:01.599 --> 00:03:04.479] LOG: Captain's log, stardate 44215.2.
+[00:03:04.959 --> 00:03:18.559] LOG: The Enterprise has bypassed its scheduled archaeological survey of Camus Two in response to a distress call from the Federation freighter Arcos, which has assumed an emergency orbit around Turkana Four, birthplace of our late comrade, Tasha Yar.
+[00:03:19.679 --> 00:03:23.919] DATA: We will be entering the Turkana system in eleven minutes, Captain.
+[00:03:24.319 --> 00:03:24.959] PICARD: Engine status.
+[00:03:25.679 --> 00:03:29.439] DATA: Stable. But we have maintained warp factor nine for longer than is recommended, sir.
+[00:03:29.919 --> 00:03:31.439] WORF: Subspace message from the Arcos.
+[00:03:31.439 --> 00:03:33.839] WORF: Their transmitter is failing, sir.
+[00:03:34.399 --> 00:03:35.039] WORF: Audio only.
+[00:03:35.279 --> 00:03:35.759] PICARD: Let's hear it.
+[00:03:36.559 --> 00:03:38.719] TAN TSU: Enterprise, this is Tan Tsu, Arcos engineer.
+[00:03:38.879 --> 00:03:41.279] TAN TSU: Estimate five minutes till warp drive containment breach. Make
+[00:03:41.439 --> 00:03:41.599] TAN TSU: that
+[00:03:43.439 --> 00:03:44.239] TAN TSU: three minutes.
+[00:03:44.799 --> 00:03:45.759] TAN TSU: Thanks for trying, Enterprise.
+[00:03:48.879 --> 00:03:50.479] PICARD: Ensign, warp nine point three.
+[00:03:52.239 --> 00:03:52.639] PICARD: How much time?
+[00:03:53.919 --> 00:03:56.799] DATA: Seven minutes and fifteen seconds will bring us within transporter range, Captain.
+[00:03:57.279 --> 00:03:57.999] PICARD: Nine point six. :
+[00:04:01.679 --> 00:04:05.759] PICARD: Mister O'Brien, prepare to lock onto the two crewmen.
+[00:04:05.999 --> 00:04:06.399] O'BRIEN: Aye, Captain.
+[00:04:07.199 --> 00:04:08.959] DATA: We are now entering the Turkana system, sir.
+[00:04:11.039 --> 00:04:11.599] PICARD: Slow to impulse.
+[00:04:11.599 --> 00:04:13.519] DATA: Visual contact.
+[00:04:13.919 --> 00:04:14.959] RIKER: Get them out of there, O'Brien.
+[00:04:19.119 --> 00:04:19.759] RIKER: Status, O'Brien?
+[00:04:20.239 --> 00:04:21.519] O'BRIEN: There's nothing to lock onto, Commander.
+[00:04:21.788 --> 00:04:25.868] DATA: I am reading an ion trail characteristic of a freighter escape pod.
+[00:04:26.908 --> 00:04:28.188] WORF: Unable to establish contact.
+[00:04:28.748 --> 00:04:30.028] PICARD: It could have been damaged by the explosion.
+[00:04:31.148 --> 00:04:32.348] PICARD: They may have been able to maintain orbit.
+[00:04:32.748 --> 00:04:34.188] RIKER: Let's hope they stay clear of the colony.
+[00:04:35.068 --> 00:04:37.148] DATA: That is exactly where the ion trail is leading, Commander.
+[00:04:37.708 --> 00:04:38.508] PICARD: Hail the colony.
+[00:04:39.628 --> 00:04:40.668] WORF: I've been trying to, Captain.
+[00:04:40.988 --> 00:04:41.628] WORF: No response.
+[00:04:42.268 --> 00:04:45.708] RIKER: They haven't been able to maintain reliable communications since their government fell apart.
+[00:04:45.708 --> 00:04:49.548] DATA: The last Federation vessel to make contact was the Potemkin, six years ago.
+[00:04:50.108 --> 00:04:52.748] DATA: They were warned that anyone transporting down to the colony would be killed.
+[00:04:55.308 --> 00:04:56.108] PICARD: Number One,
+[00:04:57.228 --> 00:04:57.868] PICARD: ready an away team.
+[00:05:30.348 --> 00:05:30.668] PICARD: Space.
+[00:05:31.628 --> 00:05:32.908] PICARD: The final frontier.
+[00:05:34.828 --> 00:05:37.628] PICARD: These are the voyages of the starship Enterprise.
+[00:05:38.748 --> 00:05:42.108] PICARD: Its continuing mission: to explore strange new worlds,
+[00:05:43.708 --> 00:05:46.828] PICARD: to seek out new life and new civilizations, to
+[00:05:48.588 --> 00:05:51.308] PICARD: boldly go where no one has gone before.
+[00:06:02.000 --> 00:06:11.000] [music]
+[00:06:20.000 --> 00:06:31.000] [music]
+[00:06:41.000 --> 00:06:51.000] [music]
+[00:06:49.503 --> 00:06:50.703] LOG: Captain's log, supplemental.
+[00:06:50.943 --> 00:06:56.463] LOG: We are in orbit above Turkana Four, an Earth colony that severed relations with the Federation nearly fifteen years ago.
+[00:06:57.183 --> 00:07:04.063] LOG: I am concerned about sending an away team, but if we are to discover the fate of the two missing Federation crewmen, I see no alternative.
+[00:07:06.623 --> 00:07:08.623] DATA: The surface settlement appears to be all but destroyed.
+[00:07:09.103 --> 00:07:13.663] DATA: Sensors show that the colonists now live in structures that extend nearly three kilometres beneath the city.
+[00:07:14.063 --> 00:07:15.823] RIKER: Have you located the escape pod's landing point, Chief?
+[00:07:16.063 --> 00:07:16.383] O'BRIEN: Yes, sir.
+[00:07:16.463 --> 00:07:18.563] O'BRIEN: Three hundred metres beyond the colony perimeter.
+[00:07:18.563 --> 00:07:18.863] WORF: Sir,
+[00:07:19.983 --> 00:07:22.703] WORF: we can anticipate a violent response to our presence.
+[00:07:23.183 --> 00:07:23.743] WORF: Perhaps the
+[00:07:23.843 --> 00:07:25.763] WORF: Doctor should wait here until we signal.
+[00:07:26.163 --> 00:07:27.683] CRUSHER: I appreciate your concern.
+[00:07:27.843 --> 00:07:28.963] CRUSHER: I think it's exaggerated.
+[00:07:29.443 --> 00:07:31.683] WORF: The colony is completely lawless.
+[00:07:31.843 --> 00:07:33.443] WORF: Lieutenant Yar spoke of rape gangs and
+[00:07:33.443 --> 00:07:36.403] CRUSHER: Mister Worf, I can handle myself.
+[00:07:37.523 --> 00:07:38.243] RIKER: She's coming.
+[00:07:38.243 --> 00:07:40.803] RIKER: The Arcos crewmen may require immediate medical assistance.
+[00:07:41.363 --> 00:07:42.963] RIKER: Phasers on maximum stun.
+[00:07:49.683 --> 00:07:50.163] RIKER: Energise.
+[00:07:50.163 --> 00:07:50.163] DATA: The
+[00:08:01.203 --> 00:08:03.043] DATA: dispersion trail continues in this direction.
+[00:08:03.523 --> 00:08:06.403] DATA: The concentration gradient definitely increases along this vector.
+[00:08:08.563 --> 00:08:11.123] DATA: The escape pod was apparently moved into the tunnels ahead of us.
+[00:08:20.243 --> 00:08:21.603] RIKER: Hardly the response we expected.
+[00:08:21.753 --> 00:08:22.753] PASSER-BY: Pardon me.
+[00:08:25.843 --> 00:08:26.963] CRUSHER: Maybe things have changed here.
+[00:08:28.083 --> 00:08:30.083] MAN: Freeze!
+[00:08:32.243 --> 00:08:34.563] MAN: Identify yourselves.
+[00:08:35.443 --> 00:08:36.643] RIKER: We're from the Federation Starship Enterprise.
+[00:08:37.043 --> 00:08:38.803] RIKER: We tracked two of our crewmen to this area.
+[00:08:38.803 --> 00:08:39.683] RIKER: Do you know anything about them?
+[00:08:40.163 --> 00:08:40.643] MAN: Possibly.
+[00:08:41.603 --> 00:08:43.923] RIKER: What do you mean?
+[00:08:44.003 --> 00:08:44.403] MAN: They found us.
+[00:08:44.883 --> 00:08:45.683] WORF: Proximity detectors.
+[00:08:46.163 --> 00:08:47.283] WORF: I've seen them used on Manu Three.
+[00:08:47.523 --> 00:08:50.963] MAN: Follow me.
+[00:08:50.963 --> 00:08:52.963] HAYNE: The
+[00:08:55.923 --> 00:08:57.683] HAYNE: Alliance is holding your men hostage,
+[00:08:57.754 --> 00:08:59.034] HAYNE: Commander Riker, not us.
+[00:08:59.674 --> 00:09:01.114] HAYNE: You can expect a ransom demand.
+[00:09:01.354 --> 00:09:02.218] RIKER: The Alliance?
+[00:09:02.218 --> 00:09:03.514] HAYNE: Our good friends.
+[00:09:05.034 --> 00:09:10.554] HAYNE: Our good friends are going to be upset when they realise we took their last crate of Telluridan synth-ale.
+[00:09:10.634 --> 00:09:11.994] RIKER: Maybe I should take this to the authorities.
+[00:09:12.954 --> 00:09:14.234] HAYNE: We are the authorities.
+[00:09:16.794 --> 00:09:19.994] HAYNE: The Coalition, our cadre, runs this side of the city.
+[00:09:19.994 --> 00:09:21.514] HAYNE: The Alliance controls the other side.
+[00:09:22.234 --> 00:09:22.794] HAYNE: Take your choice.
+[00:09:22.794 --> 00:09:25.019] RIKER: Are you offering to help us?
+[00:09:25.019 --> 00:09:26.874] HAYNE: In return for some consideration.
+[00:09:27.354 --> 00:09:28.954] HAYNE: Phasers are in short supply down here.
+[00:09:29.354 --> 00:09:31.274] HAYNE: A starship isn't going to miss a few.
+[00:09:31.994 --> 00:09:33.914] WORF: That is no better than a ransom demand.
+[00:09:34.154 --> 00:09:37.674] HAYNE: No matter what you give the Alliance, they'll eventually kill your crewmen anyway.
+[00:09:38.474 --> 00:09:41.274] HAYNE: With our help, at least there's a chance you'll get your men back alive.
+[00:09:41.914 --> 00:09:44.634] HAYNE: All I'm asking for is help in maintaining our defence.
+[00:09:44.874 --> 00:09:46.154] HAYNE: We are trying to keep the peace.
+[00:09:46.474 --> 00:09:48.314] RIKER: Everything we've seen would indicate otherwise.
+[00:09:48.794 --> 00:09:50.234] HAYNE: A prank.
+[00:09:51.194 --> 00:09:54.954] HAYNE: The proximity implants prevent either side from doing any serious damage.
+[00:09:55.114 --> 00:09:57.194] HAYNE: They warn us when an enemy is approaching.
+[00:09:57.354 --> 00:09:59.194] WORF: Then why do you need more phasers?
+[00:10:00.154 --> 00:10:02.714] HAYNE: The Alliance just discovered a large cache of weapons.
+[00:10:02.714 --> 00:10:05.834] HAYNE: I'm just trying to make things even, to preserve the peace.
+[00:10:06.394 --> 00:10:08.234] CRUSHER: You keep using the word peace.
+[00:10:08.794 --> 00:10:12.394] CRUSHER: We've heard a different version of life on Turkana Four.
+[00:10:12.394 --> 00:10:13.114] HAYNE: Ancient history.
+[00:10:14.554 --> 00:10:15.194] HAYNE: Where did you hear that?
+[00:10:15.594 --> 00:10:17.034] DATA: A former crewman was born here.
+[00:10:17.514 --> 00:10:18.314] HAYNE: Where's he now?
+[00:10:18.874 --> 00:10:20.554] DATA: She was killed in the line of duty.
+[00:10:21.834 --> 00:10:24.394] HAYNE: That's as good a way to die as any.
+[00:10:25.195 --> 00:10:27.115] HAYNE: As I said, ancient history.
+[00:10:28.395 --> 00:10:30.955] HAYNE: This is now, and your men are in trouble.
+[00:10:32.875 --> 00:10:34.955] RIKER: We'll return to the Enterprise and consider your proposal.
+[00:10:35.995 --> 00:10:37.435] HAYNE: A gift for your Captain.
+[00:10:41.675 --> 00:10:42.635] RIKER: Riker to Enterprise.
+[00:10:43.595 --> 00:10:44.235] RIKER: Energise.
+[00:10:50.635 --> 00:10:53.755] HAYNE: I want everything there is to know about the starship Enterprise.
+[00:10:55.675 --> 00:10:57.675] RIKER: According
+[00:11:01.035 --> 00:11:04.875] RIKER: to Hayne, the Coalition and the Alliance raid each other for supplies, much of it non-essential.
+[00:11:05.195 --> 00:11:05.515] PICARD: Why?
+[00:11:05.915 --> 00:11:06.795] WORF: A battle exercise.
+[00:11:07.115 --> 00:11:10.235] RIKER: Their defences apparently prevent deep strikes into each other's territory.
+[00:11:10.395 --> 00:11:11.835] RIKER: Minor skirmishes are all that's left.
+[00:11:12.235 --> 00:11:13.755] PICARD: Coalition. Alliance.
+[00:11:14.315 --> 00:11:18.395] PICARD: It all sounds so reasonable, but what you've described is the behaviour of urban street thugs.
+[00:11:19.435 --> 00:11:21.515] PICARD: We certainly won't trade weapons for crewmen.
+[00:11:22.155 --> 00:11:23.275] PICARD: How do you suggest we deal with them?
+[00:11:23.915 --> 00:11:24.795] RIKER: We have to tell them something.
+[00:11:25.355 --> 00:11:26.635] WORF: No promises, no denials.
+[00:11:28.715 --> 00:11:31.435] PICARD: For now, Hayne's Coalition is our only safe access to the colony.
+[00:11:32.155 --> 00:11:34.075] PICARD: We'll keep the door open, see where it leads us.
+[00:11:34.315 --> 00:11:34.555] WORF: Captain.
+[00:11:35.755 --> 00:11:39.115] WORF: Transmission coming in from Turkana Four, on a secure channel.
+[00:11:39.835 --> 00:11:40.155] PICARD: On screen.
+[00:11:41.995 --> 00:11:42.795] HAYNE: Hello, Enterprise.
+[00:11:43.595 --> 00:11:46.395] HAYNE: Commander Riker, would you introduce me to your Captain?
+[00:11:47.995 --> 00:11:49.355] PICARD: I'm Captain Jean-Luc Picard.
+[00:11:49.995 --> 00:11:51.275] HAYNE: I have someone here you might
+[00:11:51.261 --> 00:11:51.901] HAYNE: like to meet.
+[00:11:53.661 --> 00:11:55.901] HAYNE: This is Ishara. Ishara Yar.
+[00:11:57.101 --> 00:11:58.141] ISHARA: Tasha was my sister.
+[00:12:06.861 --> 00:12:08.061] HAYNE: There's an old saying, Captain.
+[00:12:08.061 --> 00:12:10.221] HAYNE: The enemy of my enemy is my friend.
+[00:12:11.581 --> 00:12:14.781] HAYNE: I've decided it's in my best interest to help you get your crewmen back.
+[00:12:15.821 --> 00:12:17.261] PICARD: With nothing from us in return?
+[00:12:17.901 --> 00:12:21.421] HAYNE: You could be forced into paying my adversary a ransom in weapons.
+[00:12:22.221 --> 00:12:24.301] HAYNE: I'll do anything I can to avoid that possibility.
+[00:12:25.101 --> 00:12:25.821] PICARD: What do you propose?
+[00:12:26.861 --> 00:12:28.541] HAYNE: Ishara will be our liaison.
+[00:12:30.061 --> 00:12:31.581] ISHARA: I know Alliance territory.
+[00:12:31.901 --> 00:12:33.341] ISHARA: I can help you with a rescue plan.
+[00:12:35.261 --> 00:12:35.661] PICARD: One moment.
+[00:12:37.581 --> 00:12:37.821] WORF: Mute.
+[00:12:38.621 --> 00:12:39.021] PICARD: Reactions?
+[00:12:39.581 --> 00:12:40.461] WORF: I do not trust him.
+[00:12:41.021 --> 00:12:41.821] RIKER: She could be a fake.
+[00:12:42.141 --> 00:12:43.981] RIKER: We told him a member of our crew was from the colony.
+[00:12:44.541 --> 00:12:48.301] CRUSHER: All Hayne had to do was search through their database had on Starfleet to come up with Tasha's name.
+[00:12:49.341 --> 00:12:49.661] PICARD: Counsellor?
+[00:12:50.381 --> 00:12:53.501] TROI: He's deceiving us, and he's clearly hoping to manipulate us.
+[00:12:55.021 --> 00:12:58.541] TROI: As for the identity of the young woman, I can't really tell.
+[00:12:59.581 --> 00:13:01.421] PICARD: Neverthe less, this is an option we cannot neglect.
+[00:13:02.061 --> 00:13:04.861] PICARD: We'll continue on other fronts as they present themselves.
+[00:13:06.221 --> 00:13:06.541] PICARD: For now,
+[00:13:07.661 --> 00:13:08.541] PICARD: let's see what she has to say.
+[00:13:08.941 --> 00:13:09.261] WORF: Open.
+[00:13:11.421 --> 00:13:12.861] PICARD: I have decided to accept your proposal.
+[00:13:13.981 --> 00:13:14.301] HAYNE: Thank you.
+[00:13:16.141 --> 00:13:16.541] HAYNE: Good luck.
+[00:13:26.617 --> 00:13:29.577] DATA: Welcome to the Enterprise, Ishara.
+[00:13:30.377 --> 00:13:31.257] DATA: I am Commander Data.
+[00:13:32.457 --> 00:13:33.177] ISHARA: You're not human.
+[00:13:34.297 --> 00:13:35.017] DATA: I am an android.
+[00:13:37.417 --> 00:13:38.297] ISHARA: Built for fighting?
+[00:13:39.737 --> 00:13:41.097] DATA: On what do you base that assumption?
+[00:13:41.977 --> 00:13:44.217] ISHARA: A cybernetic device serving on a starship.
+[00:13:44.617 --> 00:13:46.057] DATA: The Enterprise is not a ship of war.
+[00:13:46.377 --> 00:13:47.577] DATA: It is a ship of exploration.
+[00:13:49.337 --> 00:13:51.737] ISHARA: The first thing to do is help you map the colony.
+[00:13:52.297 --> 00:13:54.217] ISHARA: This is a general grid of the tunnel system.
+[00:13:54.297 --> 00:13:56.217] ISHARA: I can fill in the specific details from memory.
+[00:13:57.017 --> 00:13:59.337] DATA: My orders are to escort you to the Observation Lounge.
+[00:13:59.737 --> 00:14:00.377] DATA: Please come with me.
+[00:14:05.657 --> 00:14:06.937] DATA: Your sister never spoke of you.
+[00:14:07.657 --> 00:14:08.697] ISHARA: That's not surprising.
+[00:14:09.417 --> 00:14:10.457] DATA: It is surprising to me.
+[00:14:11.177 --> 00:14:12.777] DATA: Tasha and I spent much time together.
+[00:14:13.497 --> 00:14:15.097] DATA: We had a considerable number of conversations.
+[00:14:16.617 --> 00:14:18.377] ISHARA: Did she talk at all about the colony?
+[00:14:18.937 --> 00:14:20.857] DATA: Only to say that she was lucky to have escaped.
+[00:14:21.897 --> 00:14:22.617] ISHARA: It wasn't luck.
+[00:14:22.617 --> 00:14:23.737] ISHARA: It was cowardice.
+[00:14:25.897 --> 00:14:28.057] DATA: Cowardice is a term that I have never heard applied to Tasha.
+[00:14:34.057 --> 00:14:34.857] ISHARA: Is something wrong?
+[00:14:36.057 --> 00:14:36.217] DATA: No.
+[00:14:37.337 --> 00:14:42.137] DATA: It is just that for a moment, the expression on your face reminded me of her.
+[00:14:44.777 --> 00:14:45.977] ISHARA: It's been fifteen years.
+[00:14:47.017 --> 00:14:48.777] ISHARA: I don't even remember what she looked like.
+[00:15:00.331 --> 00:15:01.691] ISHARA: You don't believe I'm Tasha's sister.
+[00:15:03.851 --> 00:15:05.291] PICARD: We have considered the possibility.
+[00:15:06.171 --> 00:15:07.131] ISHARA: I'm not surprised.
+[00:15:08.251 --> 00:15:09.851] ISHARA: You can sample my DNA if you like.
+[00:15:10.491 --> 00:15:11.931] CRUSHER: Yes, I will.
+[00:15:13.371 --> 00:15:14.011] PICARD: Please, sit down.
+[00:15:19.931 --> 00:15:20.251] ISHARA: Thank you.
+[00:15:24.491 --> 00:15:29.691] PICARD: Perhaps it would help if you gave us some idea of what we're dealing with on Turkana Four.
+[00:15:29.851 --> 00:15:33.931] PICARD: The last information describes a colony in almost complete disarray.
+[00:15:35.051 --> 00:15:37.611] ISHARA: It started falling apart almost thirty years ago.
+[00:15:38.011 --> 00:15:39.611] ISHARA: There were dozens of factions.
+[00:15:40.411 --> 00:15:42.811] ISHARA: They fought until the city above ground was in ruins.
+[00:15:43.211 --> 00:15:44.971] RIKER: The Coalition and the Alliance are all that's left?
+[00:15:45.691 --> 00:15:47.211] ISHARA: We were the two strongest factions.
+[00:15:47.851 --> 00:15:50.971] ISHARA: When the government couldn't stop the violence, they gave us police powers.
+[00:15:51.451 --> 00:15:55.691] ISHARA: The proximity detectors were originally designed by the government to keep us under control.
+[00:15:56.171 --> 00:15:58.331] PICARD: Apparently, that part of the plan didn't work very well.
+[00:15:58.731 --> 00:15:58.891] ISHARA: No.
+[00:15:59.611 --> 00:16:03.211] ISHARA: After a few months, we didn't need the government any more.
+[00:16:03.771 --> 00:16:05.451] LAFORGE: Tasha left you in the middle of all that?
+[00:16:06.091 --> 00:16:07.851] ISHARA: She didn't abandon me, if that's what you mean.
+[00:16:09.211 --> 00:16:12.651] ISHARA: Tasha asked me to go with her, but I had already joined the Coalition.
+[00:16:13.531 --> 00:16:14.331] ISHARA: They were my family.
+[00:16:17.131 --> 00:16:18.491] ISHARA: Captain, we don't have a lot of time.
+[00:16:18.491 --> 00:16:19.371] ISHARA: Maybe we should get started.
+[00:16:19.763 --> 00:16:21.763] WORF: Incoming transmission from the colony, Captain.
+[00:16:22.723 --> 00:16:23.123] PICARD: On screen.
+[00:16:24.723 --> 00:16:25.443] TAN TSU: Enterprise,
+[00:16:26.163 --> 00:16:28.483] TAN TSU: I'm being held by Turkana Four Alliance.
+[00:16:29.603 --> 00:16:35.123] TAN TSU: I've been instructed to say that you have twenty hours to make reparations for Federation intrusion into this colony, or
+[00:16:36.003 --> 00:16:38.563] TAN TSU: my pilot and I will be killed.
+[00:16:39.283 --> 00:16:41.043] CRUSHER: Ask them if we can at least send some medical
+[00:16:42.963 --> 00:16:44.563] ISHARA: Take that threat seriously, Captain.
+[00:16:44.563 --> 00:16:46.163] ISHARA: They'll torture them and then they'll kill them.
+[00:16:46.643 --> 00:16:49.443] ISHARA: My cadre has never recovered a hostage alive from the Alliance.
+[00:16:50.243 --> 00:16:52.563] ISHARA: Your crewmen could be held in any number of places.
+[00:16:53.203 --> 00:17:00.003] ISHARA: The Alliance has two main headquarters and thirteen ancillary bases of operation. All underground, all heavily guarded.
+[00:17:00.323 --> 00:17:02.163] LAFORGE: Captain, if I could get to the myographic scanner.
+[00:17:02.643 --> 00:17:03.123] ISHARA: What's that?
+[00:17:03.443 --> 00:17:05.203] DATA: A sensing device from the escape pod.
+[00:17:05.763 --> 00:17:09.923] DATA: It monitors the bioelectric signatures of the crew, in the event they get separated from the pod.
+[00:17:10.563 --> 00:17:13.763] LAFORGE: I could install a booster on the device that would relay its signals to the Enterprise.
+[00:17:14.323 --> 00:17:15.683] LAFORGE: Then we could track the men from up here.
+[00:17:16.403 --> 00:17:18.323] PICARD: Unfortunately, we don't know where the escape pod is.
+[00:17:19.363 --> 00:17:22.083] ISHARA: Level three C, section five four seven.
+[00:17:26.403 --> 00:17:27.283] ISHARA: We have our sources.
+[00:17:31.123 --> 00:17:33.363] ISHARA: Access tunnels are here and here.
+[00:17:34.723 --> 00:17:37.203] RIKER: We could transfer the away team right into this intersection.
+[00:17:37.283 --> 00:17:38.643] ISHARA: Don't underestimate them, Commander.
+[00:17:38.963 --> 00:17:39.683] ISHARA: They'll be ready for that.
+[00:17:40.563 --> 00:17:42.403] ISHARA: I've seen them use this kind of strategy before.
+[00:17:43.763 --> 00:17:50.323] ISHARA: I know it looks isolated and easily accessible, but my guess is they have hundreds of men on the levels above and below just waiting for you to make your move.
+[00:17:50.723 --> 00:17:51.763] WORF: We will need a diversion.
+[00:17:52.496 --> 00:17:54.896] LAFORGE: Transport a couple of photon grenades into the adjoining chamber.
+[00:17:55.216 --> 00:17:58.496] LAFORGE: At minimum intensity it wouldn't kill anybody, but it would shake them up a bit.
+[00:17:58.976 --> 00:18:00.016] RIKER: That won't give us enough time.
+[00:18:00.336 --> 00:18:02.416] RIKER: We need to occupy them long enough for you to install the relay.
+[00:18:03.216 --> 00:18:05.056] ISHARA: Transport me into this corridor.
+[00:18:05.376 --> 00:18:08.016] ISHARA: My magnetic implant will set off the defence alarms.
+[00:18:08.496 --> 00:18:10.416] ISHARA: They'll think it's a raid by the Coalition.
+[00:18:10.416 --> 00:18:11.136] RIKER: Too dangerous.
+[00:18:11.296 --> 00:18:12.496] RIKER: We've seen what those tunnels look like.
+[00:18:12.656 --> 00:18:14.176] RIKER: You could easily be cut off from the rest of us.
+[00:18:14.336 --> 00:18:15.056] RIKER: Worf, if we
+[00:18:15.056 --> 00:18:17.936] ISHARA: Commander Riker. I was ordered to assist you in any way possible.
+[00:18:17.936 --> 00:18:20.336] ISHARA: That doesn't mean as long as it's safe or convenient.
+[00:18:20.896 --> 00:18:23.936] ISHARA: If you had the time, we could come up with another plan, but you don't.
+[00:18:24.416 --> 00:18:26.016] ISHARA: Right now, I'm your best option.
+[00:18:27.376 --> 00:18:28.416] DATA: She would have to be armed, sir.
+[00:18:31.536 --> 00:18:33.216] RIKER: I'd like to discuss this with the Captain.
+[00:18:33.536 --> 00:18:34.496] RIKER: Take Ishara down to see Doctor
+[00:18:34.496 --> 00:18:34.816] RIKER: Crusher.
+[00:18:38.096 --> 00:18:40.096] ISHARA: You
+[00:18:43.536 --> 00:18:44.976] ISHARA: have Tasha's DNA on file?
+[00:18:45.376 --> 00:18:46.576] CRUSHER: The ship's computer does.
+[00:18:46.976 --> 00:18:51.536] CRUSHER: There's always some differentiation between sonomic chromosomes, but not enough to affect results.
+[00:18:52.416 --> 00:18:55.056] CRUSHER: It should take me a few hours to run the sonomic comparison.
+[00:18:57.696 --> 00:18:58.576] ISHARA: That wasn't too bad.
+[00:19:02.176 --> 00:19:06.416] ISHARA: So, all that's left of my sister is a file in a computer.
+[00:19:07.856 --> 00:19:09.696] DATA: Tasha exists in our memories as well.
+[00:19:11.616 --> 00:19:12.416] ISHARA: How did she die?
+[00:19:13.776 --> 00:19:16.496] DATA: Lieutenant Yar was killed on Vagra Two by a malevolent entity.
+[00:19:18.176 --> 00:19:18.576] ISHARA: In battle?
+[00:19:19.744 --> 00:19:19.904] DATA: No.
+[00:19:21.024 --> 00:19:25.104] DATA: She was killed as a demonstration of the creature's power, without provocation.
+[00:19:29.744 --> 00:19:31.104] ISHARA: That's not how I intend to die.
+[00:19:35.024 --> 00:19:35.984] RIKER: The Captain approves.
+[00:19:36.144 --> 00:19:36.624] RIKER: You're with us.
+[00:19:41.904 --> 00:19:41.904] RIKER: Enterprise,
+[00:19:59.504 --> 00:20:00.144] RIKER: we're in position.
+[00:20:01.024 --> 00:20:02.784] PICARD: Mister O'Brien, energise.
+[00:20:03.104 --> 00:20:03.584] O'BRIEN: Aye, Captain.
+[00:20:06.464 --> 00:20:06.464] GUARD: They're at
+[00:20:17.824 --> 00:20:18.864] GUARD: level two.
+[00:20:18.864 --> 00:20:19.904] GIRL: Tunnel sixteen.
+[00:20:20.224 --> 00:20:20.464] GUARD: Come on.
+[00:20:21.664 --> 00:20:22.704] WOMAN: Josh, you're with us.
+[00:20:23.024 --> 00:20:23.424] GUARD: Spread out.
+[00:20:30.144 --> 00:20:30.144] GUARD: Let's
+[00:20:37.024 --> 00:20:37.504] GUARD: check five.
+[00:20:37.664 --> 00:20:37.984] GUARD 2: Yes, sir.
+[00:20:37.984 --> 00:20:37.984] GUARD: Check on
+[00:20:40.464 --> 00:20:40.744] GUARD: three.
+[00:20:40.744 --> 00:20:41.024] WOMAN: Checking.
+[00:20:53.801 --> 00:20:53.961] WOMAN: Somebody's
+[00:20:54.601 --> 00:20:55.721] WOMAN: here.
+[00:20:55.881 --> 00:20:56.281] GUARD: Watch your backs.
+[00:20:56.921 --> 00:20:57.401] GIRL: I'm right behind
+[00:20:58.521 --> 00:20:58.641] GIRL: you.
+[00:20:58.641 --> 00:20:58.761] WOMAN: This
+[00:20:58.761 --> 00:20:58.841] WOMAN: way.
+[00:20:58.841 --> 00:20:58.921] GUARD: Go,
+[00:20:58.921 --> 00:21:00.761] GUARD: go.
+[00:21:02.521 --> 00:21:04.521] LAFORGE: Damn!
+[00:21:06.281 --> 00:21:07.241] RIKER: Geordi, what is taking so long?
+[00:21:07.481 --> 00:21:08.441] LAFORGE: There's a lot of damage here.
+[00:21:08.601 --> 00:21:11.641] LAFORGE: The myographic scanner is operational, but the power source keeps fluctuating.
+[00:21:11.641 --> 00:21:12.201] RIKER: Can you fix it?
+[00:21:12.761 --> 00:21:14.281] LAFORGE: I can probably run a shunt from the convertor.
+[00:21:14.521 --> 00:21:15.001] RIKER: How long will that take?
+[00:21:15.561 --> 00:21:16.121] LAFORGE: Ten minutes?
+[00:21:16.281 --> 00:21:16.601] RIKER: Do it.
+[00:21:20.521 --> 00:21:21.721] RIKER: O'Brien, lock onto Ishara and
+[00:21:21.721 --> 00:21:22.441] RIKER: get her out of here!
+[00:21:23.881 --> 00:21:27.081] O'BRIEN: There's a transformer substation directly above the chamber she just entered.
+[00:21:27.801 --> 00:21:28.841] O'BRIEN: It's masking her signal.
+[00:21:29.481 --> 00:21:29.961] RIKER: Stand by.
+[00:21:30.921 --> 00:21:32.121] RIKER: Stay here and cover La Forge.
+[00:21:32.281 --> 00:21:32.621] WORF: Commander!
+[00:21:32.621 --> 00:21:33.641] RIKER: That's an order.
+[00:21:33.801 --> 00:21:35.001] RIKER: Return to the ship as soon as you're finished.
+[00:21:35.001 --> 00:21:36.121] RIKER: I'll signal for transport as soon as I can.
+[00:21:38.681 --> 00:21:40.681] RIKER: Get us
+[00:21:54.921 --> 00:21:56.921] RIKER: out
+[00:22:04.121 --> 00:22:04.361] RIKER: of here.
+[00:22:05.081 --> 00:22:05.641] O'BRIEN: Energising.
+[00:22:20.059 --> 00:22:20.379] PICARD: Come.
+[00:22:24.379 --> 00:22:24.699] PICARD: How is she?
+[00:22:25.419 --> 00:22:26.219] RIKER: A couple of cracked ribs.
+[00:22:26.459 --> 00:22:26.939] RIKER: She'll be all right.
+[00:22:27.739 --> 00:22:30.379] PICARD: Doctor Crusher just called me with the results of the DNA comparison.
+[00:22:31.099 --> 00:22:32.699] PICARD: Ishara is Tasha's sister.
+[00:22:33.899 --> 00:22:37.179] RIKER: After what she did for us down there, that doesn't surprise me one bit.
+[00:22:38.139 --> 00:22:40.219] PICARD: You took some unnecessary personal risks, Number One.
+[00:22:42.939 --> 00:22:45.419] RIKER: We lost Tasha on an away team under my command.
+[00:22:46.139 --> 00:22:48.939] RIKER: The thought of the same thing happening to her sister
+[00:22:48.939 --> 00:22:50.059] PICARD: That's an emotional response,
+[00:22:50.059 --> 00:22:51.179] PICARD: Will. We can't afford it.
+[00:22:51.979 --> 00:22:52.299] RIKER: Understood, Captain.
+[00:22:54.379 --> 00:22:54.619] PICARD: Commander.
+[00:22:57.339 --> 00:22:57.739] PICARD: Well done.
+[00:23:03.899 --> 00:23:06.379] CRUSHER: I've fused the bone tissue along both fractures.
+[00:23:10.539 --> 00:23:14.779] CRUSHER: The muscles around the area will be weak for a day or two, but you shouldn't feel any pain.
+[00:23:15.179 --> 00:23:15.979] ISHARA: Thank you, Doctor.
+[00:23:18.299 --> 00:23:22.379] PICARD: Ishara, I wanted to thank you personally for what you did for us down on the colony.
+[00:23:24.779 --> 00:23:25.819] PICARD: It was more than I expected.
+[00:23:27.339 --> 00:23:30.059] ISHARA: I don't run away when things get tough, like some people.
+[00:23:33.179 --> 00:23:34.299] ISHARA: Like my sister did.
+[00:23:35.179 --> 00:23:38.299] PICARD: Let me tell you about your sister.
+[00:23:41.739 --> 00:23:47.899] PICARD: The first time I saw Tasha Yar, she was making her way through a Carnelian mine field to reach a wounded colonist.
+[00:23:48.539 --> 00:23:50.939] PICARD: Her ship had responded to their distress call, as had mine.
+[00:23:52.134 --> 00:23:56.054] PICARD: When it was all over, I requested that she be assigned to the Enterprise.
+[00:23:56.294 --> 00:23:58.214] PICARD: Her ship's captain owed me a favour.
+[00:23:59.414 --> 00:24:07.894] PICARD: In the months that followed, she never once failed to put the safety of the crew before her own, and she died doing the same.
+[00:24:11.334 --> 00:24:13.254] PICARD: I'm sorry you never knew the woman Tasha became.
+[00:24:14.134 --> 00:24:15.574] PICARD: I think you would have been proud of her.
+[00:24:19.414 --> 00:24:24.854] PICARD: And she of you.
+[00:24:24.854 --> 00:24:25.654] DATA: What is this structure?
+[00:24:26.454 --> 00:24:27.734] ISHARA: A main fusion source.
+[00:24:28.134 --> 00:24:30.054] ISHARA: There's one next to each of the Alliance headquarters.
+[00:24:30.054 --> 00:24:31.814] ISHARA: It powers all of their defensive systems.
+[00:24:33.014 --> 00:24:35.014] ISHARA: This chamber is accessed from the level below.
+[00:24:35.494 --> 00:24:39.254] ISHARA: Entry points are evenly spaced along this wall every twenty five metres.
+[00:24:45.574 --> 00:24:47.654] ISHARA: Data, where was Tasha's post?
+[00:24:48.054 --> 00:24:48.854] DATA: Tactical station.
+[00:24:49.574 --> 00:24:50.614] DATA: Where Lieutenant Worf is now.
+[00:24:55.494 --> 00:24:56.854] ISHARA: Did Tasha have many friends here?
+[00:24:57.894 --> 00:24:58.214] DATA: Yes.
+[00:24:59.174 --> 00:25:03.094] DATA: She was especially close to Commander Riker and Lieutenant Worf. And to myself.
+[00:25:05.174 --> 00:25:06.454] ISHARA: Are you able to have friends?
+[00:25:08.214 --> 00:25:08.534] DATA: Yes.
+[00:25:10.534 --> 00:25:12.054] ISHARA: But you don't have feelings, do you?
+[00:25:13.254 --> 00:25:13.974] DATA: Not as such.
+[00:25:14.694 --> 00:25:21.494] DATA: However, even among humans, friendship is sometimes less an emotional response and more a sense of familiarity.
+[00:25:21.644 --> 00:25:22.244] ISHARA: So
+[00:25:23.481 --> 00:25:24.761] ISHARA: you can become used to someone?
+[00:25:25.241 --> 00:25:25.801] DATA: Exactly.
+[00:25:27.001 --> 00:25:32.041] DATA: As I experience certain sensory input patterns, my mental pathways become accustomed to them.
+[00:25:32.681 --> 00:25:36.921] DATA: The inputs eventually are anticipated, and even missed when absent.
+[00:25:39.961 --> 00:25:40.601] ISHARA: Like my sister.
+[00:25:42.121 --> 00:25:42.361] DATA: Yes,
+[00:25:43.561 --> 00:25:44.121] DATA: like your sister.
+[00:25:49.001 --> 00:25:52.041] LAFORGE: They've been moved so far underground it's been difficult to pinpoint their signatures.
+[00:25:52.761 --> 00:25:55.801] LAFORGE: But the men are here, next to one of the Alliance headquarters.
+[00:25:56.041 --> 00:25:58.521] LAFORGE: That's about two kilometres of solid granite above their heads.
+[00:25:58.841 --> 00:26:00.121] RIKER: So much for the transporter.
+[00:26:00.201 --> 00:26:00.921] LAFORGE: Not necessarily.
+[00:26:01.561 --> 00:26:04.921] LAFORGE: We could use the ship's phasers to cut a shaft through the bedrock to this storage tunnel here.
+[00:26:05.481 --> 00:26:08.521] LAFORGE: With a clear path through the rock, we'd be able to transport through the tunnel.
+[00:26:08.921 --> 00:26:10.361] LAFORGE: That would put us close enough to get to the crewmen.
+[00:26:11.401 --> 00:26:13.961] LAFORGE: But I'll need two hours to refit the ship's phasers for drilling.
+[00:26:14.441 --> 00:26:15.321] RIKER: It's a real maze down
+[00:26:18.601 --> 00:26:18.681] RIKER: there.
+[00:26:18.681 --> 00:26:21.321] ISHARA: I spent a lot of time in that section before they took it over.
+[00:26:22.281 --> 00:26:25.401] ISHARA: There are blind tunnels and dead ends that don't even show up on this map.
+[00:26:25.881 --> 00:26:27.241] WORF: We do not have much choice.
+[00:26:28.121 --> 00:26:32.361] ISHARA: If it wasn't for my implant setting off all the alarms, I could guide you to your men.
+[00:26:33.081 --> 00:26:34.201] DATA: We could remove the implant.
+[00:26:34.521 --> 00:26:38.521] ISHARA: No, it has a micro explosive inside that detonates on contact with air.
+[00:26:39.321 --> 00:26:41.641] ISHARA: When you join a cadre, you join for life.
+[00:26:44.681 --> 00:26:49.081] DATA: A small force field containing xenon or another inert gas could be placed over the incision site.
+[00:26:50.041 --> 00:26:53.081] DATA: The explosive could possibly be disarmed at the same time it is removed.
+[00:27:00.862 --> 00:27:03.262] RIKER: This is something you're going to have to decide for yourself, Ishara.
+[00:27:04.222 --> 00:27:05.582] RIKER: Think about it while we're waiting for Geordi.
+[00:27:13.262 --> 00:27:16.382] ISHARA: Our parents were killed in some crossfire just after I was born.
+[00:27:19.742 --> 00:27:21.742] ISHARA: Some people took care of us for a few months,
+[00:27:21.982 --> 00:27:22.142] ISHARA: then
+[00:27:24.142 --> 00:27:26.142] ISHARA: one day we came home and they were gone.
+[00:27:29.422 --> 00:27:33.022] ISHARA: So Tasha took care of me, and when I was old enough I joined the Coalition.
+[00:27:33.172 --> 00:27:33.772] DATA: And
+[00:27:34.542 --> 00:27:35.342] DATA: Tasha did not?
+[00:27:36.702 --> 00:27:38.302] ISHARA: My sister hated the cadres.
+[00:27:39.422 --> 00:27:40.782] ISHARA: She blamed them for our parents death.
+[00:27:43.102 --> 00:27:43.742] ISHARA: For everything.
+[00:27:48.382 --> 00:27:51.342] ISHARA: She refused to join, and she left as soon as she had the chance.
+[00:27:55.422 --> 00:27:58.302] ISHARA: I always thought she was weak for doing that, but
+[00:28:03.422 --> 00:28:04.542] ISHARA: maybe I was wrong.
+[00:28:04.542 --> 00:28:07.662] ISHARA: Maybe, maybe she made the right choice.
+[00:28:12.622 --> 00:28:17.022] ISHARA: To work together for something besides killing,
+[00:28:17.022 --> 00:28:22.942] ISHARA: to be close to someone without having to protect your back.
+[00:28:28.466 --> 00:28:29.906] ISHARA: Very appealing.
+[00:28:34.706 --> 00:28:35.826] ISHARA: You're the perfect example.
+[00:28:36.866 --> 00:28:40.626] ISHARA: I hardly even know you, Data, but already I completely trust you.
+[00:28:42.466 --> 00:28:47.506] ISHARA: I even consider you a friend.
+[00:28:49.746 --> 00:28:50.066] DATA: Thank you.
+[00:28:51.826 --> 00:28:53.666] DATA: I would like to consider you my friend as well.
+[00:28:56.386 --> 00:28:57.106] ISHARA: If
+[00:28:59.186 --> 00:29:01.426] ISHARA: I had known about this place fifteen years ago,
+[00:29:04.626 --> 00:29:05.586] ISHARA: things might've been different.
+[00:29:14.386 --> 00:29:15.426] ISHARA: Maybe it's not too late.
+[00:29:24.066 --> 00:29:26.146] DATA: Ishara is willing to have the implant removed, sir.
+[00:29:27.746 --> 00:29:28.066] PICARD: Good.
+[00:29:28.466 --> 00:29:29.266] PICARD: Inform Doctor Crusher.
+[00:29:29.906 --> 00:29:32.386] DATA: She also expressed a desire to leave the colony.
+[00:29:32.706 --> 00:29:35.346] DATA: She hopes to apply to the Academy and eventually join Starfleet.
+[00:29:38.146 --> 00:29:40.706] PICARD: Does she understand the magnitude of these decisions?
+[00:29:41.426 --> 00:29:42.306] DATA: She claims to, Captain.
+[00:29:43.426 --> 00:29:44.946] TROI: I get a sense of ambiguity from her.
+[00:29:45.906 --> 00:29:48.066] TROI: Her loyalties are clearly divided, Captain.
+[00:29:48.466 --> 00:29:51.106] PICARD: Are you suggesting we deny her an escape from this environment?
+[00:29:51.746 --> 00:29:52.146] TROI: No,
+[00:29:53.128 --> 00:29:54.888] TROI: I'm just not sure she wants to escape.
+[00:29:54.888 --> 00:29:56.568] TROI: It's the only way of life she's ever known.
+[00:29:58.328 --> 00:30:00.728] PICARD: Ultimately, it is her decision to make, not ours.
+[00:30:03.528 --> 00:30:06.168] PICARD: Mister Data, proceed with the mission as planned.
+[00:30:10.008 --> 00:30:10.328] TROI: Data?
+[00:30:11.288 --> 00:30:11.848] DATA: Yes, Counsellor?
+[00:30:12.648 --> 00:30:15.288] TROI: You seem so strong in your support.
+[00:30:16.808 --> 00:30:17.768] TROI: I'm curious.
+[00:30:19.368 --> 00:30:20.408] DATA: We must free the crewmen.
+[00:30:21.288 --> 00:30:22.968] DATA: She appears to be our best hope of doing so.
+[00:30:23.928 --> 00:30:24.488] DATA: In addition,
+[00:30:27.848 --> 00:30:28.568] DATA: I have become used to
+[00:30:32.008 --> 00:30:32.088] DATA: her.
+[00:30:39.208 --> 00:30:39.608] DATA: Ishara.
+[00:30:43.848 --> 00:30:44.488] ISHARA: Thank you, Data.
+[00:30:45.128 --> 00:30:45.688] DATA: You are welcome.
+[00:30:46.408 --> 00:30:48.008] DATA: Doctor Crusher is expecting you in Sickbay.
+[00:30:50.328 --> 00:30:51.368] ISHARA: It's all so different.
+[00:30:51.368 --> 00:30:53.448] DATA: To what are you referring?
+[00:30:54.488 --> 00:30:58.568] ISHARA: On the colony, nobody does anything for anyone else unless they have something to gain from it.
+[00:30:59.688 --> 00:31:01.048] DATA: But I do have something to gain from it.
+[00:31:02.008 --> 00:31:03.368] DATA: Your continued presence on this ship.
+[00:31:07.288 --> 00:31:07.928] DATA: Is something wrong?
+[00:31:09.288 --> 00:31:10.808] ISHARA: I have to tell Hayne and the others.
+[00:31:11.528 --> 00:31:12.088] ISHARA: I owe it to them.
+[00:31:14.648 --> 00:31:15.848] ISHARA: Guess I ought to get it over with.
+[00:31:17.048 --> 00:31:19.448] DATA: If you desire privacy, you may use the Observation lounge.
+[00:31:19.448 --> 00:31:21.128] ISHARA: That would probably make
+[00:31:21.160 --> 00:31:22.040] ISHARA: things a little easier.
+[00:31:36.280 --> 00:31:36.600] HAYNE: Report.
+[00:31:38.760 --> 00:31:39.320] ISHARA: It's working.
+[00:31:44.280 --> 00:31:47.240] LOG: Captain's log, stardate 44225.3.
+[00:31:47.720 --> 00:31:53.000] LOG: Doctor Crusher has successfully removed Ishara's magnetic implant, enabling the young woman to guide our rescue attempt.
+[00:31:53.720 --> 00:31:57.560] LOG: Without my intending it, she has virtually become an active member of the crew.
+[00:32:00.280 --> 00:32:01.880] CRUSHER: Cardiovascular functions normal.
+[00:32:02.920 --> 00:32:06.840] CRUSHER: Metabolism, immunity, all other vital signs excellent.
+[00:32:09.800 --> 00:32:10.520] CRUSHER: How do you feel?
+[00:32:12.200 --> 00:32:13.240] ISHARA: Better than I've ever felt.
+[00:32:17.240 --> 00:32:18.280] ISHARA: Thanks for staying with me.
+[00:32:21.080 --> 00:32:22.200] CRUSHER: You might want to keep this.
+[00:32:22.680 --> 00:32:23.880] CRUSHER: It's been with you a long time.
+[00:32:32.680 --> 00:32:33.400] ISHARA: You keep it, Data,
+[00:32:35.240 --> 00:32:36.200] ISHARA: so you won't forget me.
+[00:32:37.640 --> 00:32:39.640] DATA: Have you reconsidered your decision to stay with us?
+[00:32:40.120 --> 00:32:40.280] ISHARA: No.
+[00:32:41.560 --> 00:32:43.400] ISHARA: Just in case something goes wrong down there.
+[00:32:50.680 --> 00:32:52.760] WORF: I understand you wish to join Starfleet.
+[00:32:54.236 --> 00:32:56.796] ISHARA: Some day. If I'm lucky.
+[00:32:57.836 --> 00:33:00.236] WORF: On that day, it is we who will be lucky.
+[00:33:01.196 --> 00:33:02.796] PICARD: Picard to Riker. Is your away team ready?
+[00:33:02.956 --> 00:33:03.916] RIKER: Waiting for your signal, sir.
+[00:33:04.876 --> 00:33:05.836] PICARD: Status, Mister La Forge.
+[00:33:06.556 --> 00:33:07.996] LAFORGE: Phasers in alignment and ready to fire.
+[00:33:09.276 --> 00:33:11.516] PICARD: How far must we penetrate to safely allow transporter function?
+[00:33:11.836 --> 00:33:13.276] LAFORGE: One point six kilometres.
+[00:33:14.796 --> 00:33:15.116] PICARD: Fire phasers.
+[00:33:15.116 --> 00:33:15.436] LAFORGE: Aye, sir.
+[00:33:15.516 --> 00:33:15.756] LAFORGE: One point
+[00:33:21.356 --> 00:33:23.356] LAFORGE: three kilometres.
+[00:33:23.356 --> 00:33:23.356] LAFORGE: One point four.
+[00:33:23.356 --> 00:33:24.956] LAFORGE: One point five kilometres.
+[00:33:25.876 --> 00:33:28.636] LAFORGE: One point six kilometres.
+[00:33:29.556 --> 00:33:32.956] LAFORGE: Deep enough for transport, sir.
+[00:33:33.356 --> 00:33:33.916] PICARD: Cease fire.
+[00:33:35.516 --> 00:33:37.276] PICARD: Mister O'Brien, energise.
+[00:33:46.076 --> 00:33:46.236] ISHARA: This
+[00:33:51.596 --> 00:33:53.596] ISHARA: way.
+[00:33:56.556 --> 00:33:57.356] WORF: Caution is indicated.
+[00:33:58.156 --> 00:33:59.596] ISHARA: We're near the heart of the Alliance.
+[00:34:00.076 --> 00:34:01.036] ISHARA: Security is minimal here.
+[00:34:01.036 --> 00:34:02.636] ISHARA: They aren't expecting anybody this far in.
+[00:34:03.596 --> 00:34:04.316] RIKER: Ishara?
+[00:34:04.316 --> 00:34:05.756] ISHARA: Follow me.
+[00:34:05.756 --> 00:34:05.756] WORF: Are you
+[00:34:17.436 --> 00:34:17.676] WORF: certain?
+[00:34:18.716 --> 00:34:19.276] ISHARA: No, I'm not.
+[00:34:21.074 --> 00:34:24.114] ISHARA: I'm trying to remember. I was here, but it was a long time ago.
+[00:34:25.234 --> 00:34:26.514] ISHARA: There have been changes.
+[00:34:27.714 --> 00:34:28.274] ISHARA: It's through here.
+[00:34:34.594 --> 00:34:34.754] ISHARA: There.
+[00:34:35.634 --> 00:34:36.594] ISHARA: Your men are behind that door.
+[00:34:57.634 --> 00:34:58.434] RIKER: Hold out your hands.
+[00:35:22.114 --> 00:35:24.594] RIKER: Let's get moving.
+[00:35:26.754 --> 00:35:27.984] RIKER: Where is she?
+[00:35:27.984 --> 00:35:28.394] WORF: Commander,
+[00:35:29.074 --> 00:35:29.754] WORF: look.
+[00:35:30.434 --> 00:35:31.314] RIKER: What the hell happened here?
+[00:35:32.274 --> 00:35:33.154] WORF: She probably tried to draw their fire.
+[00:35:34.034 --> 00:35:34.754] WORF: It triggered the alarm.
+[00:35:35.074 --> 00:35:36.514] RIKER: Worf, get these men back to the Enterprise.
+[00:35:36.514 --> 00:35:36.754] WORF: Come on.
+[00:35:39.474 --> 00:35:40.354] RIKER: Data, you're with me.
+[00:36:00.978 --> 00:36:02.978] DATA: Ishara.
+[00:36:02.978 --> 00:36:03.538] DATA: What are you doing?
+[00:36:09.298 --> 00:36:10.978] DATA: The fusion generator is overloading.
+[00:36:12.498 --> 00:36:15.458] DATA: You are attempting to disable the defence system.
+[00:36:15.938 --> 00:36:16.578] DATA: For what reason?
+[00:36:16.578 --> 00:36:19.138] DATA: We have rescued the crewmen.
+[00:36:19.138 --> 00:36:20.498] ISHARA: I don't care about your crewmen.
+[00:36:21.458 --> 00:36:23.938] ISHARA: We have three thousand troops waiting at the perimeter.
+[00:36:24.498 --> 00:36:27.058] ISHARA: When the defences go down, they'll come in.
+[00:36:27.058 --> 00:36:28.578] ISHARA: The Alliance will fall.
+[00:36:29.138 --> 00:36:32.578] DATA: The Federation will be responsible for the resulting deaths.
+[00:36:33.298 --> 00:36:34.018] DATA: I cannot allow that.
+[00:36:34.258 --> 00:36:36.418] ISHARA: You don't have a choice.
+[00:36:37.218 --> 00:36:37.938] DATA: That is not so.
+[00:36:38.398 --> 00:36:40.658] ISHARA: I don't want to kill you, Data.
+[00:36:43.938 --> 00:36:44.098] ISHARA: But
+[00:36:45.858 --> 00:36:47.858] ISHARA: I
+[00:36:51.858 --> 00:36:51.858] ISHARA: will.
+[00:36:53.138 --> 00:36:55.538] DATA: We will both be destroyed by the explosion.
+[00:36:55.538 --> 00:36:58.338] ISHARA: The Coalition's been all I've had for fifteen years.
+[00:36:58.818 --> 00:36:59.778] ISHARA: They've given me a life.
+[00:36:59.858 --> 00:37:01.058] ISHARA: I don't mind dying for them.
+[00:37:01.058 --> 00:37:05.218] ISHARA: But you won't have to if you just get out of here now.
+[00:37:06.018 --> 00:37:07.538] DATA: Was this your intention from the beginning?
+[00:37:08.498 --> 00:37:11.698] ISHARA: We never could have gotten this deep into Alliance territory without your help.
+[00:37:12.381 --> 00:37:13.581] DATA: Our help was not deliberate.
+[00:37:13.581 --> 00:37:15.261] DATA: You deceived us.
+[00:37:15.661 --> 00:37:16.701] ISHARA: What's the difference?
+[00:37:16.701 --> 00:37:17.981] ISHARA: You got what you came for.
+[00:37:18.061 --> 00:37:19.341] ISHARA: Why do you care about what we do?
+[00:37:19.341 --> 00:37:22.701] DATA: Your friendship with me was part of the deception, was it not?
+[00:37:22.701 --> 00:37:27.741] DATA: You misled me at each step, and yet I was completely unaware.
+[00:37:28.301 --> 00:37:29.821] ISHARA: That doesn't matter now!
+[00:37:29.821 --> 00:37:30.701] ISHARA: None of it does!
+[00:37:30.701 --> 00:37:32.541] ISHARA: Now get out of here, Data, please.
+[00:37:33.501 --> 00:37:33.821] ISHARA: Now!
+[00:37:34.301 --> 00:37:35.741] DATA: My duty requires me to intercede.
+[00:37:36.701 --> 00:37:37.341] RIKER: Ishara!
+[00:37:42.941 --> 00:37:45.021] RIKER: What was she doing?
+[00:37:45.581 --> 00:37:48.301] DATA: Disabling the detection system so her forces could attack.
+[00:37:48.781 --> 00:37:49.741] RIKER: Set to kill.
+[00:38:12.141 --> 00:38:12.701] PICARD: Your strategy failed.
+[00:38:12.701 --> 00:38:15.261] HAYNE: It was a calculated risk.
+[00:38:16.141 --> 00:38:18.301] HAYNE: You gave us an opportunity we couldn't ignore.
+[00:38:19.741 --> 00:38:20.781] HAYNE: Ishara, are you hurt?
+[00:38:21.661 --> 00:38:21.981] ISHARA: No.
+[00:38:23.021 --> 00:38:24.461] HAYNE: I want her returned immediately.
+[00:38:25.021 --> 00:38:26.941] RIKER: You're not in a position to dictate to anybody.
+[00:38:27.421 --> 00:38:29.341] RIKER: She attacked two Federation officers.
+[00:38:29.341 --> 00:38:30.941] HAYNE: You have no jurisdiction here!
+[00:38:31.181 --> 00:38:32.381] RIKER: Don't talk about legal rights.
+[00:38:32.381 --> 00:38:35.341] RIKER: Your jurisdiction is based entirely on the threat of violence.
+[00:38:35.901 --> 00:38:37.101] HAYNE: You have your crewmen back.
+[00:38:37.101 --> 00:38:38.541] HAYNE: Isn't that enough?
+[00:38:38.701 --> 00:38:39.501] RIKER: What do you know about
+[00:38:48.043 --> 00:38:51.083] PICARD: Commander Data, escort Ishara to the transporter room.
+[00:38:52.523 --> 00:38:53.163] HAYNE: Thank you, Captain.
+[00:38:53.403 --> 00:38:55.723] HAYNE: I'm just trying to preserve the peace.
+[00:38:55.873 --> 00:38:57.273] PICARD: Close the channel.
+[00:39:03.243 --> 00:39:05.163] RIKER: You're far more charitable than I would have been, Captain.
+[00:39:07.323 --> 00:39:08.603] PICARD: I understand your feelings, Number One.
+[00:39:10.363 --> 00:39:10.923] PICARD: I share them.
+[00:39:11.963 --> 00:39:13.563] PICARD: But perhaps the fault lies in ourselves.
+[00:39:13.563 --> 00:39:15.003] PICARD: We were so eager to accept her.
+[00:39:16.843 --> 00:39:21.963] PICARD: Each of us, myself included, wanted to see something of Tasha in this woman.
+[00:39:23.483 --> 00:39:24.443] PICARD: We saw more than what was
+[00:39:25.963 --> 00:39:27.963] PICARD: there.
+[00:39:32.523 --> 00:39:33.803] ISHARA: You haven't said one word to me.
+[00:39:34.603 --> 00:39:35.563] DATA: What do you wish to talk about?
+[00:39:43.963 --> 00:39:46.923] ISHARA: I did what I had to do.
+[00:39:49.323 --> 00:39:51.163] ISHARA: I'm sorry if I hurt you in the process.
+[00:39:52.203 --> 00:39:53.003] DATA: I am an android.
+[00:39:53.963 --> 00:39:56.283] DATA: It is not possible for me to be injured in that fashion.
+[00:39:58.843 --> 00:39:59.403] O'BRIEN: Whenever you're ready.
+[00:40:06.603 --> 00:40:10.363] ISHARA: You know, Data, I wasn't always lying to you.
+[00:40:11.803 --> 00:40:13.323] ISHARA: That time we spent talking,
+[00:40:14.861 --> 00:40:17.181] ISHARA: that was the closest thing to friendship I've ever had.
+[00:40:17.331 --> 00:40:17.931] ISHARA: If
+[00:40:21.741 --> 00:40:22.861] ISHARA: that means anything to you.
+[00:40:28.621 --> 00:40:29.261] DATA: Energise.
+[00:40:29.981 --> 00:40:31.261] RIKER: Come in.
+[00:40:50.861 --> 00:40:53.901] RIKER: Data, what's on your mind?
+[00:40:54.941 --> 00:40:56.701] DATA: Recent events have left me puzzled, sir.
+[00:40:57.901 --> 00:41:05.981] DATA: It has been days since Ishara left, and yet my thoughts seem to dwell on her. Almost as if I were experiencing a feedback loop in my mnemonic network.
+[00:41:06.141 --> 00:41:06.781] RIKER: I know what you mean.
+[00:41:08.941 --> 00:41:11.421] DATA: It is curious that I was so easily misled.
+[00:41:12.061 --> 00:41:12.781] RIKER: Make that we.
+[00:41:13.501 --> 00:41:13.741] DATA: Yes, sir.
+[00:41:15.901 --> 00:41:16.381] RIKER: Data, sit down.
+[00:41:18.141 --> 00:41:18.461] DATA: Thank you, sir.
+[00:41:24.061 --> 00:41:26.701] RIKER: In all trust, there is the possibility of betrayal.
+[00:41:28.061 --> 00:41:30.221] RIKER: I'm not sure you were prepared for that.
+[00:41:31.741 --> 00:41:32.541] DATA: Were you prepared, sir?
+[00:41:32.861 --> 00:41:35.981] RIKER: I don't think anybody ever is.
+[00:41:39.661 --> 00:41:41.101] DATA: Then it is better not to trust.
+[00:41:43.821 --> 00:41:45.021] RIKER: Without trust, there's no friendship,
+[00:41:45.627 --> 00:41:49.547] RIKER: no closeness. None of the emotional bonds that make us what we are.
+[00:41:50.747 --> 00:41:52.027] DATA: And yet you put yourself at risk.
+[00:41:53.787 --> 00:41:54.667] RIKER: Every single time.
+[00:41:56.907 --> 00:42:00.587] DATA: Perhaps I am fortunate, sir, to be spared the emotional consequences.
+[00:42:02.907 --> 00:42:03.387] RIKER: Perhaps.
+[00:42:35.000 --> 00:42:46.000] [music]
+[00:42:48.000 --> 00:43:06.000] [music]
+[00:43:08.000 --> 00:43:19.000] [music]

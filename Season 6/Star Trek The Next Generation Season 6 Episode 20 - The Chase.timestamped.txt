@@ -1,0 +1,663 @@
+[00:00:02.080 --> 00:00:05.360] LOG: Captain's log, Stardate 46731.5. We are
+[00:00:05.920 --> 00:00:09.040] LOG: in the midst of the Volterra nebula, a stellar nursery.
+[00:00:09.520 --> 00:00:15.040] LOG: Our three week mission is a routine analysis of several dozen protostars in various stages of development.
+[00:00:15.920 --> 00:00:19.520] DATA: Captain, I have completed the spectral evaluation of the outer shell.
+[00:00:19.920 --> 00:00:21.440] DATA: Our survey of this protostar is complete.
+[00:00:21.920 --> 00:00:23.200] PICARD: Ensign, lay in a course to the next one,
+[00:00:23.200 --> 00:00:24.000] PICARD: three quarters impulse.
+[00:00:24.320 --> 00:00:25.520] RIKER: Riker to Captain Picard.
+[00:00:26.160 --> 00:00:26.880] PICARD: Go ahead, Number One.
+[00:00:27.440 --> 00:00:28.800] RIKER: May I see you in the Observation Lounge, sir?
+[00:00:28.880 --> 00:00:28.960] PICARD: I'll
+[00:00:32.400 --> 00:00:32.960] PICARD: be right there.
+[00:00:46.960 --> 00:00:47.760] PICARD: Oh, my God.
+[00:00:48.960 --> 00:00:51.760] GALEN: Then you can identify this object, Mister Picard.
+[00:00:54.160 --> 00:00:54.800] PICARD: Professor Galen?
+[00:00:55.280 --> 00:00:56.160] RIKER: Computer, lights up.
+[00:00:57.200 --> 00:00:59.760] GALEN: I suppose I should say Captain Picard.
+[00:01:00.400 --> 00:01:02.720] RIKER: Professor Galen contacted me from his shuttle an hour ago.
+[00:01:02.720 --> 00:01:04.000] RIKER: He suggested that we surprise you.
+[00:01:04.560 --> 00:01:08.320] GALEN: To clarify. I insisted and your First Officer was good enough to accommodate me.
+[00:01:09.040 --> 00:01:11.280] GALEN: I trust I'm not being overly presumptuous,
+[00:01:12.000 --> 00:01:15.280] GALEN: now that my star pupil is master of the stars.
+[00:01:20.240 --> 00:01:22.160] PICARD: No one is could be more welcome on the Enterprise.
+[00:01:27.680 --> 00:01:30.080] PICARD: I never thought I would see a Kurlan naiskos.
+[00:01:34.903 --> 00:01:35.623] PICARD: Fifth Dynasty?
+[00:01:36.423 --> 00:01:38.343] GALEN: Is that your conclusion, Mister Picard.
+[00:01:38.423 --> 00:01:39.063] GALEN: Forgive me again.
+[00:01:39.063 --> 00:01:40.663] GALEN: I should say Captain.
+[00:01:41.143 --> 00:01:42.263] PICARD: Oh, please,
+[00:01:42.663 --> 00:01:43.623] PICARD: Mister will do fine.
+[00:01:46.023 --> 00:01:50.743] PICARD: Well, the overall configuration is certainly Fifth Dynasty.
+[00:01:55.463 --> 00:01:58.103] PICARD: The surface ornamentation.
+[00:01:58.343 --> 00:01:58.823] GALEN: Yes?
+[00:01:59.863 --> 00:02:03.623] PICARD: Green polychrome over the eyes, and the eyes themselves are closed.
+[00:02:05.783 --> 00:02:06.743] PICARD: This is third Dynasty.
+[00:02:11.383 --> 00:02:14.423] PICARD: From the workshop of the Master of Tarquin Hill.
+[00:02:14.823 --> 00:02:15.223] GALEN: Well done.
+[00:02:18.983 --> 00:02:25.303] PICARD: Will, the Master of Tarquin Hill designed ceramic objects that were three hundred years ahead of their time.
+[00:02:25.863 --> 00:02:27.383] PICARD: All we know of him is the work.
+[00:02:28.023 --> 00:02:29.143] PICARD: His name has never been discovered.
+[00:02:31.383 --> 00:02:35.623] PICARD: This object is over twelve thousand years old.
+[00:02:35.943 --> 00:02:36.903] RIKER: The planet Kurl?
+[00:02:37.543 --> 00:02:39.623] RIKER: It's a hell of a long way outside Federation territory.
+[00:02:40.103 --> 00:02:40.583] PICARD: Indeed.
+[00:02:40.823 --> 00:02:43.623] PICARD: I thought your study of Kurlan artefacts was done long ago.
+[00:02:44.583 --> 00:02:46.423] GALEN: I happened to be in the neighbourhood last summer.
+[00:02:46.423 --> 00:02:47.303] GALEN: I couldn't resist.
+[00:02:48.503 --> 00:02:48.903] GALEN: Go ahead.
+[00:02:53.863 --> 00:02:54.903] PICARD: You mean it's complete?
+[00:03:11.649 --> 00:03:11.889] PICARD: Will,
+[00:03:14.289 --> 00:03:20.049] PICARD: the Kurlan civilisation believed that an individual was a community of individuals.
+[00:03:20.769 --> 00:03:21.889] PICARD: Inside us are
+[00:03:24.049 --> 00:03:31.409] PICARD: many voices, each with its own desires, its own style, its own view of the world.
+[00:03:31.969 --> 00:03:35.009] PICARD: The Kurlan civilisation died out thousands of years ago.
+[00:03:35.089 --> 00:03:38.849] PICARD: It is extraordinarily rare to find a figurine intact.
+[00:03:39.169 --> 00:03:41.089] PICARD: Professor, this is an incredible find.
+[00:03:41.409 --> 00:03:42.449] GALEN: It's yours, Jean-Luc.
+[00:03:44.049 --> 00:03:44.449] PICARD: Oh, no.
+[00:03:46.209 --> 00:03:46.449] PICARD: No.
+[00:03:46.849 --> 00:03:49.169] PICARD: How can I accept this?
+[00:03:49.409 --> 00:03:50.929] GALEN: Graciously, Mister Picard.
+[00:03:51.489 --> 00:03:53.409] GALEN: You could accept it graciously.
+[00:03:58.209 --> 00:04:00.289] PICARD: Thank you.
+[00:04:02.129 --> 00:04:03.969] PICARD: How long can you stay?
+[00:04:04.129 --> 00:04:05.329] PICARD: There's so much to talk about.
+[00:04:05.569 --> 00:04:08.049] RIKER: The Professor is scheduled to meet a Vulcan transport the day after tomorrow.
+[00:04:08.849 --> 00:04:10.609] PICARD: Two days? But that's not enough time.
+[00:04:10.609 --> 00:04:12.289] GALEN: We may have considerably more than that.
+[00:04:13.409 --> 00:04:14.289] PICARD: I don't understand.
+[00:04:14.689 --> 00:04:23.009] GALEN: I am currently on an expedition. A journey into an unexplored and historical territory, and I intend to take you with me.
+[00:04:53.195 --> 00:04:55.915] PICARD: Space, the final frontier.
+[00:04:57.835 --> 00:05:00.715] PICARD: These are the voyages of the starship Enterprise.
+[00:05:01.835 --> 00:05:09.755] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:11.435 --> 00:05:14.315] PICARD: to boldly go where no one has gone before.
+[00:05:18.000 --> 00:05:26.000] [music]
+[00:05:44.000 --> 00:05:52.000] [music]
+[00:06:09.816 --> 00:06:11.016] LOG: Captain's log, supplemental.
+[00:06:11.576 --> 00:06:14.616] LOG: It's been over thirty years since I last saw my archaeology professor.
+[00:06:15.016 --> 00:06:19.896] LOG: His presence has taken me back to a time when I had considered a very different career.
+[00:06:20.456 --> 00:06:22.346] PICARD: May I ask you a frank question?
+[00:06:22.346 --> 00:06:22.616] GALEN: Please.
+[00:06:24.216 --> 00:06:27.336] PICARD: Your published writings have been sporadic
+[00:06:27.816 --> 00:06:34.296] PICARD: for the last decade. Your appearance at symposia has been rare, or scheduled and then cancelled at the last moment.
+[00:06:35.416 --> 00:06:41.736] PICARD: The finest archaeologist of the century is now shrouded with a cloak of mystery.
+[00:06:42.456 --> 00:06:44.776] GALEN: And as a result my reputation has no doubt grown.
+[00:06:46.856 --> 00:06:49.016] PICARD: I've never heard of anyone that didn't love a good mystery.
+[00:06:50.056 --> 00:06:51.896] GALEN: The Satarran of Sothis Three disdained them,
+[00:06:52.936 --> 00:06:56.216] GALEN: but as a general idea, your statement holds.
+[00:06:57.096 --> 00:06:57.416] PICARD: So,
+[00:06:59.016 --> 00:07:00.776] PICARD: what have you been doing for the past decade?
+[00:07:04.136 --> 00:07:05.656] GALEN: Are you familiar with micropaleontology?
+[00:07:05.656 --> 00:07:11.416] PICARD: Yes, it's the study of fossil records at the microscopic level.
+[00:07:11.416 --> 00:07:12.936] PICARD: I read your papers on the subject, but
+[00:07:14.856 --> 00:07:15.736] PICARD: that was years ago.
+[00:07:17.016 --> 00:07:18.616] PICARD: It seemed as though the work had stopped.
+[00:07:20.056 --> 00:07:20.376] GALEN: No.
+[00:07:22.436 --> 00:07:23.476] GALEN: The work continued.
+[00:07:25.156 --> 00:07:31.876] GALEN: I made a discovery so profound in its implications that silence seemed the wisest course.
+[00:07:32.676 --> 00:07:36.356] GALEN: This work has occupied my every waking thought,
+[00:07:36.436 --> 00:07:38.196] GALEN: it's intruded upon my dreams,
+[00:07:38.196 --> 00:07:38.996] GALEN: it's become my life.
+[00:07:39.876 --> 00:07:40.836] GALEN: When finished and
+[00:07:42.356 --> 00:07:46.596] GALEN: I announce my findings, it will be heard half way across the galaxy.
+[00:07:50.916 --> 00:07:51.769] PICARD: Tell me.
+[00:07:51.769 --> 00:07:53.476] GALEN: I'm cannot, Mister Picard.
+[00:07:54.916 --> 00:07:56.436] GALEN: That information comes with a price.
+[00:07:57.396 --> 00:08:00.836] GALEN: Your agreement to join me on the final leg of this expedition.
+[00:08:02.916 --> 00:08:03.316] PICARD: For how long?
+[00:08:03.956 --> 00:08:05.716] GALEN: Three months, perhaps a year.
+[00:08:06.516 --> 00:08:11.236] GALEN: If I had complete diplomatic access and a starship, it'd be a matter of weeks.
+[00:08:11.796 --> 00:08:13.556] GALEN: But as it is, we'll have only my shuttle
+[00:08:15.076 --> 00:08:19.876] GALEN: and whatever arrangement we can make with transports, combined with our talents.
+[00:08:21.236 --> 00:08:22.516] PICARD: Why do you need my help in this?
+[00:08:25.076 --> 00:08:25.876] GALEN: I'm not a young man.
+[00:08:28.756 --> 00:08:30.516] GALEN: There will be hazards along the way.
+[00:08:31.956 --> 00:08:35.796] GALEN: I don't want my own inadequacies to jeopardise the completion of this work.
+[00:08:36.756 --> 00:08:38.676] PICARD: I'm deeply honoured that you'd think of me,
+[00:08:38.676 --> 00:08:39.076] PICARD: but
+[00:08:42.516 --> 00:08:44.004] PICARD: I have responsibilities.
+[00:08:44.004 --> 00:08:44.996] GALEN: To History.
+[00:08:45.236 --> 00:08:50.996] GALEN: What if you could have helped Schliemann discover the City of Troy, or been with M'Tell as she first stepped on Ya'Seem.
+[00:08:51.990 --> 00:08:53.110] GALEN: How could anything compare?
+[00:08:53.110 --> 00:08:53.190] PICARD: May I
+[00:08:55.510 --> 00:08:56.070] PICARD: sleep on it?
+[00:08:57.430 --> 00:08:59.830] GALEN: Dream not of today, Mister Picard.
+[00:09:00.630 --> 00:09:01.750] PICARD: Dream not of today.
+[00:09:03.990 --> 00:09:05.430] PICARD: The night blessing of the Yash-El.
+[00:09:06.950 --> 00:09:09.670] GALEN: As I recall, you missed that question on the final exam.
+[00:09:10.870 --> 00:09:14.550] PICARD: Well, I've had a few years to look it up. Professor,
+[00:09:14.710 --> 00:09:16.790] PICARD: the Enterprise is yours for as long as you're here.
+[00:09:17.110 --> 00:09:17.430] GALEN: Thank
+[00:09:18.950 --> 00:09:20.950] GALEN: you.
+[00:09:21.430 --> 00:09:22.470] PICARD: Dream not of today.
+[00:09:33.030 --> 00:09:33.270] PICARD: Come.
+[00:09:36.150 --> 00:09:36.710] CRUSHER: Good morning.
+[00:09:38.070 --> 00:09:39.350] CRUSHER: Looks like you've been up for a while.
+[00:09:39.910 --> 00:09:40.230] PICARD: Yes.
+[00:09:46.310 --> 00:09:46.710] CRUSHER: Let's hear it.
+[00:09:46.950 --> 00:09:47.030] PICARD: I
+[00:09:48.870 --> 00:09:51.030] PICARD: had a long talk with Professor Galen last night.
+[00:09:52.230 --> 00:09:58.630] PICARD: He asked me to leave the Enterprise, to join him in an archaeological expedition which could last for nearly a year.
+[00:09:59.510 --> 00:10:00.390] CRUSHER: That must be tempting.
+[00:10:01.110 --> 00:10:07.830] PICARD: I couldn't leave the Enterprise. But the offer raised in me certain feelings of regret.
+[00:10:09.190 --> 00:10:11.670] CRUSHER: That you could have been an archaeologist and not a starship Captain?
+[00:10:12.550 --> 00:10:13.910] PICARD: No, not really.
+[00:10:17.830 --> 00:10:24.310] PICARD: I'm not sorry for the path I chose. But the Professor did not choose this figure at random.
+[00:10:25.899 --> 00:10:27.979] PICARD: The many voices inside the one.
+[00:10:30.539 --> 00:10:36.299] PICARD: You see, he knows that the past is a very insistent voice inside of me.
+[00:10:37.579 --> 00:10:39.499] PICARD: This gift is meant to remind me of that.
+[00:10:41.019 --> 00:10:44.059] CRUSHER: And the exploration of space? Surely that must count for something.
+[00:10:44.699 --> 00:10:49.499] PICARD: I wouldn't trade it for anything, and I would still make the same choice I made all those years ago.
+[00:10:49.499 --> 00:10:53.499] PICARD: I just wish that I didn't have to say no to him a second time.
+[00:10:54.459 --> 00:10:55.499] CRUSHER: Were you two very close?
+[00:10:58.139 --> 00:11:02.219] PICARD: I had a father, but he was like a father who understood me.
+[00:11:03.739 --> 00:11:06.779] PICARD: And he had his own children but they didn't follow in his footsteps,
+[00:11:06.779 --> 00:11:10.299] PICARD: so I was like the son who understood him.
+[00:11:12.299 --> 00:11:13.499] CRUSHER: And yet you turned your back on
+[00:11:18.859 --> 00:11:20.859] CRUSHER: him.
+[00:11:20.859 --> 00:11:22.699] PICARD: In a way, I wish he'd never come on board the ship.
+[00:11:30.139 --> 00:11:31.739] GALEN: Good morning, Mister Picard.
+[00:11:32.539 --> 00:11:32.939] PICARD: Professor.
+[00:11:35.019 --> 00:11:37.499] GALEN: The Vulcan ship will take us as far as DS Four.
+[00:11:37.499 --> 00:11:46.139] GALEN: An Al-Leyan transport is scheduled to arrive at the station three weeks later. They'll take us as far as Caere, and then we'll use the shuttle to get us to Indri Eight,
+[00:11:46.539 --> 00:11:47.019] GALEN: our first stop.
+[00:11:48.699 --> 00:11:49.259] PICARD: Professor,
+[00:11:51.819 --> 00:11:53.099] PICARD: I'm afraid I won't be going.
+[00:11:56.619 --> 00:11:57.179] PICARD: The Enterprise
+[00:11:57.876 --> 00:12:01.156] PICARD: isn't something that I can leave and then come back to.
+[00:12:01.876 --> 00:12:03.476] PICARD: If I go, I go for good.
+[00:12:04.996 --> 00:12:06.436] PICARD: It's not something I'm not prepared to do.
+[00:12:08.196 --> 00:12:10.916] GALEN: This is not some undergraduate study project that you're turning down.
+[00:12:10.916 --> 00:12:12.116] GALEN: This is the chance of a lifetime.
+[00:12:14.036 --> 00:12:15.556] GALEN: Don't make the same mistake twice.
+[00:12:16.116 --> 00:12:18.756] PICARD: You don't believe that my career in Starfleet has been a mistake.
+[00:12:19.396 --> 00:12:20.516] GALEN: What are you doing at this very moment?
+[00:12:21.716 --> 00:12:22.996] GALEN: A study mission.
+[00:12:24.836 --> 00:12:31.956] GALEN: You're like some Roman centurion out patrolling the provinces, maintenancing a dull and bloated Empire.
+[00:12:32.756 --> 00:12:34.036] PICARD: We both know that's not true.
+[00:12:34.356 --> 00:12:35.076] GALEN: I know this.
+[00:12:36.276 --> 00:12:39.796] GALEN: I know that as a scholar, you're nothing but a dilettante.
+[00:12:40.836 --> 00:12:45.956] GALEN: Years ago, I gave you the opportunity to become the finest archaeologist of your generation.
+[00:12:47.716 --> 00:12:50.516] GALEN: Your achievements could have outstripped even my own, but no,
+[00:12:51.636 --> 00:12:55.636] GALEN: you decided to reject a life of profound discovery.
+[00:12:56.196 --> 00:12:57.236] GALEN: You walked out on me.
+[00:12:58.836 --> 00:13:00.356] PICARD: I never wanted to become
+[00:13:06.836 --> 00:13:07.556] GALEN: Will you come with me?
+[00:13:11.796 --> 00:13:12.356] PICARD: I can't.
+[00:13:15.076 --> 00:13:15.636] GALEN: I'll be going.
+[00:13:17.076 --> 00:13:21.556] PICARD: But Professor, you're not scheduled to catch the Vulcan ship for another two days.
+[00:13:21.556 --> 00:13:22.596] GALEN: There's nothing for me here.
+[00:13:22.996 --> 00:13:24.356] GALEN: Goodbye, Captain.
+[00:13:28.200 --> 00:13:29.400] LOG: Captain's log, supplemental.
+[00:13:29.960 --> 00:13:34.680] LOG: We have completed our mission in the nebula and are en route to a diplomatic conference on Atalia Seven.
+[00:13:35.160 --> 00:13:38.520] LOG: I must admit I've lost my enthusiasm for those proceedings.
+[00:13:39.320 --> 00:13:42.520] DATA: At our present speed, we will arrive at the Atalia system in thirty seven hours.
+[00:13:43.640 --> 00:13:44.040] TROI: Captain,
+[00:13:45.640 --> 00:13:47.160] TROI: I'm going for a walk in the arboretum.
+[00:13:47.480 --> 00:13:48.440] TROI: I wouldn't mind some company.
+[00:13:52.120 --> 00:13:56.040] WORF: Captain, a distress call from Professor Galen's shuttle. On screen.
+[00:13:58.280 --> 00:14:00.360] GALEN: Enterprise! I'm being boarded.
+[00:14:02.200 --> 00:14:03.320] WORF: Transmission has been blocked.
+[00:14:03.480 --> 00:14:04.680] DATA: I have located the shuttle.
+[00:14:05.000 --> 00:14:05.720] DATA: It is under attack.
+[00:14:06.920 --> 00:14:07.480] PICARD: Take us out of warp.
+[00:14:07.800 --> 00:14:08.280] PICARD: On screen.
+[00:14:09.880 --> 00:14:11.000] WORF: A Yridian destroyer.
+[00:14:11.400 --> 00:14:12.040] RIKER: Battle stations.
+[00:14:12.200 --> 00:14:12.520] WORF: Aye, sir.
+[00:14:12.680 --> 00:14:14.520] DATA: Professor Galen is still inside his vessel, sir.
+[00:14:14.920 --> 00:14:16.360] DATA: His vital signs are barely registering.
+[00:14:16.520 --> 00:14:17.080] PICARD: Get him out of there.
+[00:14:18.280 --> 00:14:19.960] WORF: The shuttle is enveloped by a tractor beam.
+[00:14:20.440 --> 00:14:21.720] WORF: The transporter cannot penetrate it.
+[00:14:22.120 --> 00:14:22.840] RIKER: Hail the Yridians.
+[00:14:24.360 --> 00:14:25.160] WORF: They are not responding.
+[00:14:27.560 --> 00:14:28.360] PICARD: Return phaser fire.
+[00:14:28.680 --> 00:14:29.800] PICARD: Disable their offensive systems.
+[00:14:34.360 --> 00:14:34.520] RIKER: Worf!
+[00:14:34.520 --> 00:14:37.160] WORF: I don't understand, Commander.
+[00:14:37.320 --> 00:14:39.640] WORF: The phaser blast was not powerful enough to destroy the ship.
+[00:14:39.960 --> 00:14:40.680] PICARD: Transporter Room One,
+[00:14:40.840 --> 00:14:43.400] PICARD: lock on to Professor Galen and transport him directly to Sickbay.
+[00:14:43.720 --> 00:14:43.960] CREWMAN: Aye, sir.
+[00:14:53.692 --> 00:14:55.372] CRUSHER: He took a disruptor hit point blank.
+[00:14:55.372 --> 00:14:57.532] CRUSHER: There is nothing I can
+[00:14:59.052 --> 00:14:59.052] CRUSHER: do.
+[00:15:02.732 --> 00:15:03.372] GALEN: Jean-Luc,
+[00:15:05.612 --> 00:15:07.292] GALEN: I was too harsh.
+[00:15:25.212 --> 00:15:27.452] LAFORGE: I'd say at least three Yridians boarded the Professor's shuttle.
+[00:15:28.092 --> 00:15:28.652] PICARD: What did they want?
+[00:15:29.132 --> 00:15:32.572] LAFORGE: I'm not sure, but it looks like they were trying to download something from his computer.
+[00:15:32.812 --> 00:15:36.652] DATA: When he was attacked, Professor Galen began to protect certain files in his computer memory.
+[00:15:36.892 --> 00:15:41.612] LAFORGE: We were able to partially reconstruct the shuttle's computers, so at least we have some of those files.
+[00:15:42.972 --> 00:15:45.932] LAFORGE: We found nineteen different blocks of numbers like this one.
+[00:15:46.332 --> 00:15:46.972] PICARD: What do they mean?
+[00:15:47.612 --> 00:15:48.412] DATA: They could mean anything.
+[00:15:49.372 --> 00:15:54.812] DATA: Unless we can narrow the parameters of the search, it would be almost impossible for the computer to identify the pattern with any accuracy.
+[00:15:55.052 --> 00:15:59.052] LAFORGE: We tried every decryption key on record in case Professor Galen was using some kind of code.
+[00:15:59.772 --> 00:16:01.212] LAFORGE: We still can't make heads or tails of them.
+[00:16:01.932 --> 00:16:03.932] WORF: Were the Yridians able to get these number blocks?
+[00:16:04.092 --> 00:16:04.812] LAFORGE: At least some of them.
+[00:16:05.052 --> 00:16:06.412] LAFORGE: It's impossible to say know many.
+[00:16:06.812 --> 00:16:09.692] PICARD: Apparently, the Yridians knew more about the Professor's work than we do.
+[00:16:10.092 --> 00:16:11.452] PICARD: They may have known what these numbers mean.
+[00:16:12.092 --> 00:16:12.492] LAFORGE: If they did,
+[00:16:12.492 --> 00:16:14.012] LAFORGE: that information died with them.
+[00:16:14.572 --> 00:16:15.372] PICARD: Not necessarily.
+[00:16:16.332 --> 00:16:18.492] PICARD: The Yridians are information dealers.
+[00:16:18.492 --> 00:16:21.452] PICARD: They may have been delivering the number blocks to someone else.
+[00:16:21.975 --> 00:16:23.575] PICARD: Did they send a signal before they were destroyed?
+[00:16:24.615 --> 00:16:25.015] WORF: No, sir.
+[00:16:25.095 --> 00:16:26.775] WORF: We detected no transmissions.
+[00:16:26.935 --> 00:16:28.455] LAFORGE: And there were no other vessels in the vicinity.
+[00:16:40.055 --> 00:16:45.015] PICARD: Did the shuttle's flight logs show where Galen had been before coming to the Enterprise?
+[00:16:45.335 --> 00:16:45.735] DATA: Yes, sir.
+[00:16:46.215 --> 00:16:50.535] DATA: The logs indicate Professor Galen visited an unexplored star system, Ruah Four.
+[00:16:50.855 --> 00:16:52.055] PICARD: What's the distance from our present position?
+[00:16:52.375 --> 00:16:53.655] DATA: Four days at warp six, sir.
+[00:16:55.095 --> 00:16:55.815] PICARD: The conference can wait.
+[00:16:56.615 --> 00:16:57.895] PICARD: Set a course for the Ruah system.
+[00:17:07.735 --> 00:17:08.375] RIKER: Standard orbit,
+[00:17:08.375 --> 00:17:08.415] RIKER: Ensign.
+[00:17:08.415 --> 00:17:08.455] DATA: Ruah
+[00:17:10.455 --> 00:17:11.975] DATA: Four is a class-M planet.
+[00:17:12.535 --> 00:17:14.935] DATA: Sixty seven percent of its surface is covered with water.
+[00:17:15.415 --> 00:17:20.375] DATA: Its landmass contains multiple animal species, including a genus of proto-hominids.
+[00:17:20.615 --> 00:17:24.055] PICARD: Scan for earthworks or monuments that might indicate a previous civilisation.
+[00:17:25.335 --> 00:17:28.455] DATA: There is nothing to indicate former occupancy by even a primitive culture, sir.
+[00:17:30.455 --> 00:17:33.255] PICARD: Then what was the foremost archaeologist in the Federation doing here?
+[00:17:34.055 --> 00:17:45.335] PICARD: He left the Enterprise in a Vulcan ship for Deep Space Four, and then an Al-Leyan transport to Caere, and then the shuttle to Indri Eight.
+[00:17:45.415 --> 00:17:46.935] PICARD: Mister Data, what do we know about Indri Eight?
+[00:17:47.535 --> 00:17:51.535] DATA: The Indri system was first identified by Federation vessels nearly sixty years ago.
+[00:17:52.095 --> 00:18:00.495] DATA: The eighth planet is L-class. It is covered by deciduous vegetation, unexplored, with no apparent evidence of civilisations, either present or past.
+[00:18:00.495 --> 00:18:03.375] DATA: The planet possesses no animal life whatsoever.
+[00:18:05.295 --> 00:18:07.615] PICARD: Number One, we'll proceed to Indri Eight.
+[00:18:09.295 --> 00:18:11.775] RIKER: With all due respect, sir, we've already run into one dead end.
+[00:18:12.335 --> 00:18:16.495] RIKER: Indri Eight doesn't seem much more promising. And we're late for the conference on Atalia Seven.
+[00:18:16.815 --> 00:18:18.735] PICARD: I'm aware of the Federation's timetable, Number One.
+[00:18:19.375 --> 00:18:23.455] PICARD: Professor Galen visited here a few days ago. And he was on his way to Indri Eight when he was killed.
+[00:18:23.455 --> 00:18:25.295] PICARD: There's some connection between these two planets.
+[00:18:25.535 --> 00:18:26.255] PICARD: I'm going to find it.
+[00:18:26.655 --> 00:18:27.055] RIKER: Aye, sir.
+[00:18:28.975 --> 00:18:31.215] RIKER: Ensign, lay in a course for Indri Eight, warp seven.
+[00:18:40.575 --> 00:18:42.575] PICARD: Come.
+[00:18:45.055 --> 00:18:45.535] TROI: How's it going?
+[00:18:47.535 --> 00:18:52.495] PICARD: I thought if I stared at these number blocks long enough then I would begin to see some kind of pattern.
+[00:18:54.015 --> 00:18:54.655] PICARD: So far,
+[00:18:57.215 --> 00:18:57.455] PICARD: nothing.
+[00:18:59.055 --> 00:19:00.575] TROI: I meant, how's it going with you?
+[00:19:11.295 --> 00:19:12.957] PICARD: If I had gone with him.
+[00:19:12.957 --> 00:19:14.895] TROI: Captain, you can't start thinking like that.
+[00:19:16.655 --> 00:19:18.015] TROI: You didn't abandon him.
+[00:19:18.981 --> 00:19:21.461] TROI: You chose not to abandon a life-long career.
+[00:19:22.181 --> 00:19:25.461] TROI: It was the right decision, and in no way responsible for his death.
+[00:19:26.181 --> 00:19:26.901] PICARD: I realise that.
+[00:19:27.461 --> 00:19:32.501] TROI: I know how much the Professor meant to you and how much you want to find out what happened,
+[00:19:34.341 --> 00:19:37.621] TROI: but staring at these numbers isn't going to bring him back.
+[00:19:38.261 --> 00:19:41.941] TROI: The conference on Atalia Seven has been scheduled for six months.
+[00:19:42.341 --> 00:19:44.821] TROI: Starfleet is relying on your mediation efforts to
+[00:19:44.821 --> 00:19:53.061] PICARD: Counsellor, this is not simply a case of me taking the Enterprise and its crew on some wild goose chase to purge myself of guilt and remorse.
+[00:19:53.861 --> 00:19:56.341] PICARD: I will not let Galen's death to be in vain.
+[00:19:56.341 --> 00:20:01.941] PICARD: Now, if that means inconveniencing a few squabbling delegates for a few days, then so be it.
+[00:20:02.181 --> 00:20:04.718] PICARD: I will take the full responsibility.
+[00:20:04.718 --> 00:20:05.141] TROI: Captain.
+[00:20:18.021 --> 00:20:19.541] WORF: We are about to enter the Indri system, sir.
+[00:20:20.021 --> 00:20:22.101] RIKER: Riker to Picard. We are approaching Indri Eight.
+[00:20:22.341 --> 00:20:22.821] PICARD: On my way.
+[00:20:24.101 --> 00:20:26.981] DATA: Sensors are picking up severe atmospheric fluctuations on the planet.
+[00:20:27.941 --> 00:20:28.661] RIKER: Assume a high orbit.
+[00:20:30.101 --> 00:20:30.901] PICARD: On screen, Mister Worf.
+[00:20:34.261 --> 00:20:37.141] WORF: Some kind of plasma reaction is consuming the lower atmosphere.
+[00:20:37.781 --> 00:20:38.421] PICARD: Can we stop it?
+[00:20:38.661 --> 00:20:38.981] WORF: No, sir.
+[00:20:39.701 --> 00:20:40.581] WORF: The reaction is global.
+[00:20:41.221 --> 00:20:43.141] DATA: All life on the planet is being destroyed, sir.
+[00:20:54.259 --> 00:21:01.619] RIKER: Why would anyone want to destroy all the life on an uninhabited, neutral planet with no strategic importance whatsoever?
+[00:21:02.739 --> 00:21:03.299] PICARD: All the life.
+[00:21:04.979 --> 00:21:08.179] PICARD: Perhaps the Professor's number blocks had something to do with organic matter.
+[00:21:09.059 --> 00:21:14.499] DATA: If we narrow the search parameters to the biological database, it might increase the chances of the computer finding a match.
+[00:21:15.539 --> 00:21:16.179] PICARD: I'll be in the lab.
+[00:21:18.579 --> 00:21:19.699] COMPUTER: Pattern match found.
+[00:21:21.619 --> 00:21:23.299] CRUSHER: Specify.
+[00:21:23.299 --> 00:21:30.499] COMPUTER: The number blocks are mathematical representations of fragments of deoxyribonucleic acid strands.
+[00:21:30.499 --> 00:21:31.699] PICARD: DNA fragments?
+[00:21:31.779 --> 00:21:34.819] CRUSHER: Each from a different lifeform from nineteen different worlds.
+[00:21:35.779 --> 00:21:38.419] PICARD: The planets that these fragments are from are scattered across the quadrant.
+[00:21:38.419 --> 00:21:40.259] PICARD: No wonder it took the Professor so long to collect them.
+[00:21:40.419 --> 00:21:40.979] PICARD: But why?
+[00:21:44.019 --> 00:21:44.419] CRUSHER: Wait a minute.
+[00:21:45.619 --> 00:21:49.139] CRUSHER: These fragments all seem to have similar protein configurations.
+[00:21:49.779 --> 00:21:51.059] CRUSHER: They may be chemically compatible.
+[00:21:51.699 --> 00:21:52.659] PICARD: But how can that be possible?
+[00:21:52.819 --> 00:21:54.419] PICARD: They're different species from different planets.
+[00:21:54.579 --> 00:21:55.779] PICARD: There should be no compatibility at all.
+[00:21:56.419 --> 00:21:56.659] CRUSHER: I know,
+[00:21:57.299 --> 00:21:58.579] CRUSHER: but look at the base pair combinations,
+[00:21:58.579 --> 00:21:59.219] CRUSHER: they're uniform.
+[00:21:59.859 --> 00:22:05.859] CRUSHER: If I'm right. Computer, connect the DNA fragments according to protein link compatibility.
+[00:22:07.299 --> 00:22:09.459] PICARD: What is it?
+[00:22:09.459 --> 00:22:09.619] CRUSHER: I
+[00:22:12.259 --> 00:22:13.139] CRUSHER: have no idea.
+[00:22:14.419 --> 00:22:16.979] LAFORGE: This is not a natural design. Captain.
+[00:22:17.459 --> 00:22:20.019] LAFORGE: This is part of an algorithm, coded at the molecular level.
+[00:22:20.321 --> 00:22:21.041] PICARD: An algorithm?
+[00:22:21.601 --> 00:22:24.721] PICARD: Are you saying that these DNA fragments are elements in some kind of computer programme?
+[00:22:25.121 --> 00:22:28.481] LAFORGE: I know how it sounds, but there's no way this could be a random formation.
+[00:22:28.481 --> 00:22:30.001] LAFORGE: This is definitely part of a programme.
+[00:22:30.641 --> 00:22:36.161] CRUSHER: This fragment has been part of every DNA strand on Earth since life began there, and the other fragments are just as old.
+[00:22:36.801 --> 00:22:39.761] CRUSHER: Someone must have written this programme over four billion years ago.
+[00:22:41.201 --> 00:22:50.401] PICARD: So, four billion years ago someone scattered this genetic material into the primordial soup of at least nineteen different planets across the galaxy?
+[00:22:50.641 --> 00:22:56.481] DATA: The genetic information must have been incorporated into the earliest lifeforms on these planets, and then passed down through each generation.
+[00:22:57.281 --> 00:22:58.961] CRUSHER: But why would anyone do this in the first place?
+[00:22:59.361 --> 00:23:00.881] PICARD: And what was this programme designed to do?
+[00:23:00.961 --> 00:23:03.601] LAFORGE: Well, we couldn't know that until we assembled the entire programme and then ran it.
+[00:23:04.081 --> 00:23:09.601] LAFORGE: We've tried all the DNA material in the Federation computer, but we haven't been able to come up with any with compatible protein configurations.
+[00:23:09.841 --> 00:23:12.001] PICARD: Then they must be from worlds outside the Federation.
+[00:23:12.561 --> 00:23:15.681] PICARD: Mister Data, how many people on the Enterprise are from non-Federation planets?
+[00:23:15.841 --> 00:23:16.401] DATA: Seventeen, sir.
+[00:23:17.201 --> 00:23:22.881] PICARD: You know, this may be a long shot, but we should check each one of these seventeen people to see if they have the correct protein configurations.
+[00:23:23.281 --> 00:23:24.961] CRUSHER: I'll begin collecting DNA samples now.
+[00:23:25.521 --> 00:23:28.561] LAFORGE: You know, Captain, I've been thinking. Somebody else must know about this programme.
+[00:23:29.681 --> 00:23:31.681] LAFORGE: I bet one of the missing fragments was on Indri Eight.
+[00:23:32.161 --> 00:23:33.201] LAFORGE: That's why it was destroyed.
+[00:23:34.161 --> 00:23:36.561] PICARD: To keep us from finding that piece of the puzzle.
+[00:23:38.481 --> 00:23:46.321] PICARD: It's four billion years old. A computer programme from a highly advanced civilisation, and it's hidden in the very fabric of life itself.
+[00:23:48.161 --> 00:23:50.321] PICARD: Whatever information this programme contains
+[00:23:51.485 --> 00:23:53.645] PICARD: could be the most profound discovery of our time.
+[00:23:55.965 --> 00:23:57.085] PICARD: Or the most dangerous.
+[00:23:57.235 --> 00:23:57.835] PICARD: And
+[00:23:59.085 --> 00:24:00.125] PICARD: the Professor knew that.
+[00:24:00.125 --> 00:24:00.205] CRUSHER: They
+[00:24:08.925 --> 00:24:09.565] CRUSHER: all came up negative.
+[00:24:11.245 --> 00:24:16.605] PICARD: Well I have been through every page of the Professor's published works, looking for some clue as to where to go next.
+[00:24:17.485 --> 00:24:18.285] PICARD: So far, nothing.
+[00:24:20.765 --> 00:24:22.205] CRUSHER: Maybe we've been at this too long.
+[00:24:22.605 --> 00:24:25.325] CRUSHER: Why don't we both get some sleep and start again tomorrow morning.
+[00:24:27.645 --> 00:24:31.885] PICARD: I was in the neighbourhood.
+[00:24:34.605 --> 00:24:41.725] PICARD: When I asked the Professor why he went all the way to Kurl, he said, I was in the neighbourhood. Doing what?
+[00:24:42.365 --> 00:24:43.725] CRUSHER: Collecting DNA samples.
+[00:24:44.845 --> 00:24:45.645] PICARD: There's
+[00:24:49.085 --> 00:24:52.845] PICARD: only one planet in the Kurlan system capable of supporting life. Loren Three.
+[00:24:54.765 --> 00:24:59.165] CRUSHER: No. There is no Loren Three sample from the data downloaded from the Professor's shuttle.
+[00:25:00.205 --> 00:25:03.245] CRUSHER: If he did have one it must have been taken by the Yridians when they attacked.
+[00:25:03.725 --> 00:25:07.165] PICARD: Mister Data, set course for Loren Three, maximum warp.
+[00:25:07.645 --> 00:25:07.885] DATA: Aye, sir.
+[00:25:15.165 --> 00:25:16.525] DATA: We are approaching the Loren system.
+[00:25:16.845 --> 00:25:17.805] RIKER: Slow to half impulse, and
+[00:25:17.805 --> 00:25:19.245] RIKER: take us into orbit above the third planet.
+[00:25:19.642 --> 00:25:22.202] PICARD: There is a good chance that our competition may be here before us.
+[00:25:23.162 --> 00:25:24.202] PICARD: Battle stations, Mister Worf.
+[00:25:24.442 --> 00:25:24.682] WORF: Aye.
+[00:25:25.882 --> 00:25:26.842] DATA: We are now entering orbit.
+[00:25:27.322 --> 00:25:27.722] PICARD: On screen.
+[00:25:29.082 --> 00:25:29.642] RIKER: You were right, Captain,
+[00:25:30.042 --> 00:25:30.682] RIKER: we've got company.
+[00:25:31.002 --> 00:25:31.962] RIKER: Cardassians.
+[00:25:32.202 --> 00:25:33.002] WORF: They are hailing us.
+[00:25:33.722 --> 00:25:34.202] PICARD: On screen.
+[00:25:35.482 --> 00:25:36.922] OCETT: My name is Gul Ocett.
+[00:25:37.802 --> 00:25:40.282] OCETT: Identify yourselves and state your business in this star system.
+[00:25:40.602 --> 00:25:44.522] PICARD: I am Captain Jean-Luc Picard of the Federation Starship Enterprise
+[00:25:45.642 --> 00:25:48.122] PICARD: and I see no reason why I should answer to you.
+[00:25:48.682 --> 00:25:50.682] PICARD: Cardassians have no claims in this sector.
+[00:25:51.242 --> 00:25:52.042] OCETT: I suppose not.
+[00:25:52.842 --> 00:25:59.242] OCETT: But my admittedly hasty estimate shows one Federation Starship and two Cardassian war vessels.
+[00:26:00.202 --> 00:26:01.482] OCETT: Perhaps I have miscounted.
+[00:26:02.362 --> 00:26:02.922] PICARD: Not at all.
+[00:26:03.882 --> 00:26:05.802] PICARD: But we are on a purely scientific mission.
+[00:26:06.842 --> 00:26:08.362] PICARD: You have no reason to interfere with us.
+[00:26:08.762 --> 00:26:13.082] OCETT: And you have nothing to lose by delaying a purely scientific mission for a few days.
+[00:26:13.962 --> 00:26:15.002] OCETT: I invite you to withdraw.
+[00:26:15.482 --> 00:26:18.762] WORF: Captain, a Klingon attack cruiser decloaking off the starboard bow.
+[00:26:19.882 --> 00:26:20.682] WORF: They are hailing us.
+[00:26:21.562 --> 00:26:23.322] KLINGON: This is the Klingon vessel Maht-H'a.
+[00:26:24.282 --> 00:26:25.562] KLINGON: What are you doing here?
+[00:26:30.922 --> 00:26:32.122] LOG: Captain's log, supplemental.
+[00:26:32.362 --> 00:26:37.322] LOG: It seems that we have not one, but two competitors in our attempt to complete Professor Galen's puzzle.
+[00:26:37.802 --> 00:26:41.082] LOG: I have prevailed upon the Cardassian and Klingon captains to meet with me.
+[00:26:41.962 --> 00:26:43.482] PICARD: I believe we all know why we're here.
+[00:26:44.122 --> 00:26:46.602] PICARD: If we admit that, then we can move forward.
+[00:26:47.642 --> 00:26:50.202] OCETT: We were merely scouting the planet for possible colonization
+[00:26:50.551 --> 00:26:52.951] NU'DAQ: Pah! A ridiculous story.
+[00:26:53.271 --> 00:26:54.551] OCETT: What were you doing here, then?
+[00:26:54.631 --> 00:26:56.791] NU'DAQ: Scientific research.
+[00:26:56.871 --> 00:26:57.111] OCETT: Ha!
+[00:26:57.991 --> 00:27:00.951] PICARD: Look, if we try to deceive one other, then we shall get nowhere.
+[00:27:01.751 --> 00:27:09.991] PICARD: I think we all know about Professor Galen's research, and about the computer programme composed of DNA fragments.
+[00:27:15.591 --> 00:27:17.351] PICARD: I'll take your silence as confirmation.
+[00:27:18.231 --> 00:27:23.271] PICARD: Now, it stands to reason that none of us has the DNA fragments necessary to complete the programme.
+[00:27:24.311 --> 00:27:25.991] PICARD: You were the first to arrive in this system.
+[00:27:27.431 --> 00:27:29.511] PICARD: Do you have an organic sample from the planet below?
+[00:27:31.911 --> 00:27:32.471] OCETT: Yes.
+[00:27:33.591 --> 00:27:36.231] OCETT: And I will fire on anyone who attempts to obtain another one.
+[00:27:36.311 --> 00:27:39.431] NU'DAQ: As if we fear Cardassian threats.
+[00:27:39.831 --> 00:27:43.271] PICARD: I believe that one of you has a fragment from Indri Eight.
+[00:27:43.991 --> 00:27:48.791] NU'DAQ: Yes. And there will be no other samples from Indri Eight.
+[00:27:49.271 --> 00:27:50.311] OCETT: What is that supposed to mean?
+[00:27:50.551 --> 00:27:53.591] PICARD: He destroyed the biosphere of the planet after he had taken the sample.
+[00:27:55.911 --> 00:27:57.431] OCETT: Typical Klingon thinking.
+[00:27:57.511 --> 00:27:59.591] OCETT: Take what you want and destroy the rest.
+[00:28:00.631 --> 00:28:04.071] PICARD: We're all missing some of the fragments, not necessarily the same ones.
+[00:28:05.111 --> 00:28:08.951] PICARD: Unless we combine the ones we have, we will never learn the secret of the programme.
+[00:28:09.351 --> 00:28:10.471] NU'DAQ: There is no secret.
+[00:28:10.951 --> 00:28:19.511] NU'DAQ: It is an ancient weapon design of incredible power. And the Klingon Empire will not allow it to fall into an enemy's hands. Or even a
+[00:28:19.555 --> 00:28:20.248] NU'DAQ: friend's.
+[00:28:20.248 --> 00:28:21.635] OCETT: A weapon?
+[00:28:22.435 --> 00:28:27.635] OCETT: The Yridian who sold us the information claimed that the programme would yield the key to an unlimited power source.
+[00:28:28.115 --> 00:28:31.315] PICARD: But until we assemble it, we will never know its purpose.
+[00:28:32.755 --> 00:28:33.315] OCETT: He's right.
+[00:28:33.955 --> 00:28:36.515] OCETT: As far as we know, it might just be a recipe for biscuits.
+[00:28:36.755 --> 00:28:37.475] NU'DAQ: Biscuits?
+[00:28:38.035 --> 00:28:41.075] NU'DAQ: If that is what you believe, then go back to Cardassia.
+[00:28:41.555 --> 00:28:43.795] NU'DAQ: I will send you my mother's recipe.
+[00:28:43.795 --> 00:28:44.435] OCETT: How dare you!
+[00:28:44.435 --> 00:28:44.995] PICARD: Myriap!
+[00:28:45.555 --> 00:28:47.075] PICARD: Enough.
+[00:28:47.075 --> 00:28:49.155] PICARD: Without cooperation we will get nowhere.
+[00:28:52.835 --> 00:28:53.955] OCETT: What do you propose?
+[00:28:54.995 --> 00:29:05.875] PICARD: If you each bring your samples on board the Enterprise, I will combine them with ours. And then we will all observe the results simultaneously, giving no one the advantage.
+[00:29:06.115 --> 00:29:07.635] NU'DAQ: And if we refuse?
+[00:29:10.435 --> 00:29:12.675] PICARD: Then this endeavour dies here, in this room.
+[00:29:20.595 --> 00:29:20.755] DATA: Captain.
+[00:29:30.755 --> 00:29:31.715] NU'DAQ: Excellent.
+[00:29:38.115 --> 00:29:38.195] CRUSHER: There's
+[00:29:41.315 --> 00:29:42.595] CRUSHER: still one missing piece.
+[00:29:42.755 --> 00:29:43.315] NU'DAQ: Pahk!
+[00:29:44.035 --> 00:29:45.875] NU'DAQ: We have surrendered what we had for nothing.
+[00:29:46.435 --> 00:29:48.355] OCETT: You are remarkably short sighted, Nu'Daq.
+[00:29:48.915 --> 00:29:50.355] OCETT: We are closer to the answer than we were.
+[00:29:50.448 --> 00:29:52.448] PICARD: We may be very much closer indeed.
+[00:29:52.928 --> 00:29:53.728] NU'DAQ: How can that be?
+[00:29:53.888 --> 00:29:56.848] NU'DAQ: We have no idea where to start looking for the missing DNA fragment.
+[00:29:56.928 --> 00:30:00.208] PICARD: This is a jigsaw puzzle whose pieces are scattered across the galaxy.
+[00:30:00.208 --> 00:30:05.008] PICARD: Doesn't it make it natural to assume that the original designers of the puzzle should want us to find it?
+[00:30:05.568 --> 00:30:07.728] PICARD: Why else would they have put the pieces in our DNA?
+[00:30:08.048 --> 00:30:13.008] PICARD: And in turn, doesn't suggest they would try to make it easy for us to find those pieces,
+[00:30:13.168 --> 00:30:15.408] PICARD: that there might be some pattern to their distribution?
+[00:30:15.728 --> 00:30:17.808] CRUSHER: The computer might be able to find that pattern.
+[00:30:18.048 --> 00:30:27.408] PICARD: Doctor, programme the computer to analyse the distribution of the pieces that we have, correcting for changes in star configurations over four billion years, then extrapolate for the missing piece.
+[00:30:27.488 --> 00:30:29.728] CRUSHER: That's going to take several hours to set up and to process.
+[00:30:29.728 --> 00:30:30.208] CRUSHER: If you'll excuse me.
+[00:30:31.328 --> 00:30:33.248] PICARD: If you wish, you can stay on board while we wait.
+[00:30:33.488 --> 00:30:34.608] NU'DAQ: I intend to.
+[00:30:37.648 --> 00:30:38.448] NU'DAQ: Good
+[00:30:47.728 --> 00:30:50.608] NU'DAQ: evening, Commander Data.
+[00:30:52.448 --> 00:30:52.712] DATA: Captain.
+[00:30:52.712 --> 00:30:55.088] NU'DAQ: Is there any word yet on the missing fragment?
+[00:30:55.568 --> 00:30:57.168] DATA: The computer is processing the data.
+[00:30:57.808 --> 00:30:59.808] DATA: I will be notified as soon as there is any information.
+[00:30:59.968 --> 00:31:07.888] NU'DAQ: Commander, your reputation for physical strength is known even in the Klingon Empire.
+[00:31:08.688 --> 00:31:11.248] NU'DAQ: You are familiar with the B'aht Qul challenge?
+[00:31:11.568 --> 00:31:14.448] DATA: I am familiar with many Klingon rituals, including the B'aht
+[00:31:21.021 --> 00:31:21.741] DATA: Qul.
+[00:31:27.661 --> 00:31:27.981] NU'DAQ: Wa'
+[00:31:28.781 --> 00:31:29.181] NU'DAQ: Cha'
+[00:31:30.141 --> 00:31:30.461] NU'DAQ: Wej Maw'
+[00:31:33.261 --> 00:31:33.661] NU'DAQ: tok!
+[00:31:44.701 --> 00:31:49.261] DATA: My upper spinal support is a polyalloy designed to withstand extreme stress.
+[00:31:49.901 --> 00:31:52.301] DATA: My skull is composed of cortenide and duranium.
+[00:32:00.861 --> 00:32:02.861] NU'DAQ: I
+[00:32:05.981 --> 00:32:11.901] NU'DAQ: understand your intellectual prowess is equally impressive.
+[00:32:14.621 --> 00:32:25.901] NU'DAQ: If I were to learn of the results from the computer search before the others, the Klingon Empire would have a strategic advantage.
+[00:32:26.861 --> 00:32:30.781] NU'DAQ: A being of your abilities would go far in the Empire.
+[00:32:33.101 --> 00:32:34.381] DATA: You are attempting to bribe me.
+[00:32:35.821 --> 00:32:36.541] NU'DAQ: Not at all.
+[00:32:37.021 --> 00:32:41.421] DATA: You suggested a plan that would work to your advantage, one that I would be capable of executing.
+[00:32:41.981 --> 00:32:43.101] DATA: You then implied a reward.
+[00:32:43.501 --> 00:32:44.401] DATA: Clearly you were
+[00:32:44.401 --> 00:32:44.701] NU'DAQ: Commander,
+[00:32:46.061 --> 00:32:47.021] NU'DAQ: never mind.
+[00:32:47.171 --> 00:32:47.771] LAFORGE: What
+[00:32:58.972 --> 00:32:59.532] LAFORGE: the hell?
+[00:33:03.372 --> 00:33:06.732] LAFORGE: Computer, perform a level three diagnostic on the primary defensive systems.
+[00:33:11.532 --> 00:33:12.812] LAFORGE: La Forge to Captain Picard.
+[00:33:13.052 --> 00:33:13.612] PICARD: What is it, Geordi?
+[00:33:13.852 --> 00:33:14.892] LAFORGE: You might want to come down here.
+[00:33:14.892 --> 00:33:16.732] LAFORGE: I found something that I think you should see.
+[00:33:16.732 --> 00:33:16.732] DATA: The
+[00:33:21.052 --> 00:33:22.732] DATA: computer has completed its analysis.
+[00:33:24.572 --> 00:33:29.052] CRUSHER: The computer was able to extrapolate this geometric pattern based on the distribution of the fragments.
+[00:33:30.732 --> 00:33:33.292] CRUSHER: Computer, highlight the section of the missing pattern.
+[00:33:35.212 --> 00:33:38.012] CRUSHER: The missing DNA fragment should be in this system.
+[00:33:38.412 --> 00:33:40.732] DATA: The star is in sector two one four five nine.
+[00:33:41.132 --> 00:33:42.012] DATA: The Rahm Izad system.
+[00:33:58.172 --> 00:34:01.292] WORF: Direct hit on our port nacelle.
+[00:34:03.132 --> 00:34:04.652] WORF: They are powering up for another volley.
+[00:34:06.172 --> 00:34:07.052] RIKER: Let's make it look good.
+[00:34:07.052 --> 00:34:08.572] RIKER: Ensign, release the inertial dampers.
+[00:34:08.812 --> 00:34:09.132] ENSIGN: Aye, sir.
+[00:34:11.692 --> 00:34:12.412] WORF: They are firing.
+[00:34:21.407 --> 00:34:22.127] PICARD: Report, Number One.
+[00:34:23.327 --> 00:34:25.967] RIKER: The power boost to the structural integrity field protected the nacelles.
+[00:34:25.967 --> 00:34:28.527] RIKER: We used the inertial dampers to simulate complete shield failure.
+[00:34:28.687 --> 00:34:33.567] NU'DAQ: It is fortunate that your Engineer discovered Gul Ocett's attempt to tamper with your defensive systems.
+[00:34:35.007 --> 00:34:36.847] NU'DAQ: Maht-H'a. Status.
+[00:34:37.167 --> 00:34:38.847] KLINGON: Minor damage to starboard nacelle.
+[00:34:39.567 --> 00:34:41.487] KLINGON: We will be operational in less than one hour.
+[00:34:42.207 --> 00:34:42.527] NU'DAQ: What?
+[00:34:43.167 --> 00:34:44.687] NU'DAQ: You incompetent Top'a.
+[00:34:44.927 --> 00:34:46.767] NU'DAQ: You were supposed to be prepared.
+[00:34:46.767 --> 00:34:49.007] WORF: The Cardassian vessels have set a course for Rahm Izad.
+[00:34:50.527 --> 00:34:54.847] PICARD: Well, it won't take them long to realise that Rahm Izad is the wrong planet. Captain,
+[00:34:56.127 --> 00:34:57.007] PICARD: you're welcome to join us.
+[00:34:57.967 --> 00:35:00.207] NU'DAQ: I will go with you.
+[00:35:00.847 --> 00:35:04.367] PICARD: Ensign, set in a course for the Vilmoran System. Warp nine.
+[00:35:04.527 --> 00:35:04.847] ENSIGN: Aye, sir.
+[00:35:05.007 --> 00:35:05.407] PICARD: Engage.
+[00:35:07.967 --> 00:35:12.367] DATA: I am scanning all seven planets of the Vilmoran system.
+[00:35:12.607 --> 00:35:13.807] DATA: None appears to support life.
+[00:35:14.127 --> 00:35:14.607] RIKER: How can that be?
+[00:35:14.607 --> 00:35:16.007] RIKER: The Professor's data depends on
+[00:35:16.007 --> 00:35:16.287] DATA: Correction.
+[00:35:16.367 --> 00:35:19.167] DATA: The second planet shows evidence of an ancient ocean, now dry.
+[00:35:19.567 --> 00:35:20.847] LAFORGE: It once supported life.
+[00:35:21.167 --> 00:35:25.887] DATA: Yes, and it still may, in a limited fashion not detectable by our long range sensors.
+[00:35:26.127 --> 00:35:26.927] RIKER: Lay in a course, Ensign.
+[00:35:27.087 --> 00:35:27.727] RIKER: Full impulse.
+[00:35:28.127 --> 00:35:29.327] RIKER: Riker to Transporter room one.
+[00:35:29.967 --> 00:35:32.047] RIKER: Captain, we've located a planet that may still support life.
+[00:35:32.287 --> 00:35:32.767] RIKER: We'll know in a minute.
+[00:35:33.647 --> 00:35:34.687] PICARD: Any sign of the Cardassians?
+[00:35:35.167 --> 00:35:37.087] RIKER: Not yet. We don't know how long it'll stay that way.
+[00:35:37.487 --> 00:35:38.047] PICARD: Acknowledged.
+[00:35:39.887 --> 00:35:47.647] DATA: I am reading a small pocket of vegetative life. A primitive lichen growing in a fossilised seabed.
+[00:35:48.016 --> 00:35:48.897] RIKER: Transporter room one.
+[00:35:48.897 --> 00:35:50.337] RIKER: I am programming the coordinates.
+[00:35:50.496 --> 00:35:51.056] RIKER: Stand by.
+[00:36:05.217 --> 00:36:06.096] CRUSHER: There. Over there.
+[00:36:20.096 --> 00:36:21.217] RIKER: Captain, we've got company.
+[00:36:21.456 --> 00:36:22.417] RIKER: I'm ready to pull you out of there.
+[00:36:22.897 --> 00:36:24.016] PICARD: Wait for my order, Number One.
+[00:36:30.177 --> 00:36:31.377] NU'DAQ: You dishonorable top'a!
+[00:36:31.377 --> 00:36:34.096] OCETT: Perhaps we could exchange insults some other time.
+[00:36:34.096 --> 00:36:35.137] OCETT: I'm rather busy now.
+[00:36:35.937 --> 00:36:40.337] ROMULAN: Well, it was quite a chase, wasn't it, my friends?
+[00:36:40.897 --> 00:36:41.241] NU'DAQ: How?
+[00:36:41.241 --> 00:36:44.337] ROMULAN: We intercepted several communiqués between the Yridians and Cardassia.
+[00:36:44.976 --> 00:36:48.096] ROMULAN: My ship was watching under cloak when Professor Galen's shuttle was attacked.
+[00:36:48.096 --> 00:36:51.297] WORF: And you have been shadowing us ever since.
+[00:36:53.377 --> 00:36:54.257] ROMULAN: And now the reward.
+[00:36:55.377 --> 00:36:56.177] ROMULAN: Step clear, please.
+[00:36:57.857 --> 00:37:01.777] OCETT: I shall destroy the entire rockface and every trace of DNA with it.
+[00:37:02.257 --> 00:37:04.417] OCETT: You will go back to Romulus empty-handed.
+[00:37:04.897 --> 00:37:07.056] OCETT: Your superiors will be quite pleased.
+[00:37:07.777 --> 00:37:09.697] ROMULAN: Perhaps we could come to a compromise?
+[00:37:10.897 --> 00:37:12.241] ROMULAN: You give us the gene code.
+[00:37:12.241 --> 00:37:13.137] PICARD: The seabed it may
+[00:37:13.881 --> 00:37:15.481] PICARD: be only partially fossilised.
+[00:37:16.121 --> 00:37:18.441] PICARD: It could still contain organic material.
+[00:37:18.441 --> 00:37:20.761] CRUSHER: Which would still contain the DNA.
+[00:37:21.001 --> 00:37:24.281] NU'DAQ: I will not be eliminated now.
+[00:37:24.681 --> 00:37:27.081] ROMULAN: You can be eliminated by a disrupter.
+[00:37:27.161 --> 00:37:28.121] ROMULAN: Now, what do you say to my offer.
+[00:37:28.361 --> 00:37:30.841] OCETT: How can I be sure you won't kill me if I acquiesce.
+[00:37:31.481 --> 00:37:32.961] ROMULAN: I've given you my word.
+[00:37:32.961 --> 00:37:34.441] NU'DAQ: Etched in stone, no doubt.
+[00:37:34.521 --> 00:37:35.321] NU'DAQ: No deals.
+[00:37:35.561 --> 00:37:38.281] NU'DAQ: There will be no deals as long as I'm still alive.
+[00:37:38.441 --> 00:37:39.561] ROMULAN: Do not press me, Klingon.
+[00:37:39.801 --> 00:37:41.401] ROMULAN: I don't care whether you live or die.
+[00:37:42.201 --> 00:37:44.521] WORF: If you fire, others will also. Many will die.
+[00:37:44.671 --> 00:37:45.271] PICARD: The
+[00:37:47.561 --> 00:37:48.681] PICARD: programme has been activated.
+[00:37:49.401 --> 00:37:51.241] PICARD: I think it's reconfiguring the tricorder.
+[00:37:51.641 --> 00:37:53.241] NU'DAQ: We die together, Brother.
+[00:37:53.721 --> 00:37:54.601] NU'DAQ: Tash Koh Tah.
+[00:37:55.321 --> 00:37:57.561] PICARD: It's modifying the emitter diode to project something.
+[00:38:06.281 --> 00:38:09.881] HUMANOID: You're wondering who we are, why we have done this,
+[00:38:10.761 --> 00:38:16.601] HUMANOID: how it has come that I stand before you, the image of a being from so long ago.
+[00:38:18.921 --> 00:38:23.801] HUMANOID: Life evolved on my planet before all others in this part of the galaxy.
+[00:38:25.161 --> 00:38:31.241] HUMANOID: We left our world, explored the stars, and found none like ourselves.
+[00:38:32.281 --> 00:38:41.881] HUMANOID: Our civilisation thrived for ages, but what is the life of one race, compared to the vast stretches of cosmic time?
+[00:38:42.281 --> 00:38:47.081] HUMANOID: We knew that one day we would be gone, that nothing of us would survive.
+[00:38:47.801 --> 00:38:47.961] HUMANOID: So,
+[00:38:48.839 --> 00:38:49.559] HUMANOID: we left you.
+[00:38:50.919 --> 00:38:56.519] HUMANOID: Our scientists seeded the primordial oceans of many worlds, where life was in its infancy.
+[00:38:57.159 --> 00:39:02.199] HUMANOID: The seed codes directed your evolution toward a physical form resembling ours.
+[00:39:03.399 --> 00:39:05.399] HUMANOID: This body you see before you,
+[00:39:06.999 --> 00:39:09.639] HUMANOID: which is, of course, shaped as yours is shaped,
+[00:39:10.439 --> 00:39:11.959] HUMANOID: for you are the end result.
+[00:39:13.079 --> 00:39:19.159] HUMANOID: The seed codes also contained this message, which we scattered in fragments on many different worlds.
+[00:39:20.599 --> 00:39:27.319] HUMANOID: It was our hope that you would have to come together in fellowship and companionship to hear this message.
+[00:39:28.119 --> 00:39:34.039] HUMANOID: And if you can see and hear me, our hope has been fulfilled.
+[00:39:34.839 --> 00:39:42.599] HUMANOID: You are a monument, not to our greatness, but to our existence.
+[00:39:44.039 --> 00:39:45.159] HUMANOID: That was our wish,
+[00:39:46.519 --> 00:39:48.759] HUMANOID: that you too would know life, and
+[00:39:50.599 --> 00:39:52.119] HUMANOID: would keep alive our memory.
+[00:39:54.999 --> 00:39:57.479] HUMANOID: There is something of us in each of you,
+[00:39:59.079 --> 00:40:02.999] HUMANOID: and so, something of you in each other.
+[00:40:04.519 --> 00:40:05.639] HUMANOID: Remember us.
+[00:40:10.279 --> 00:40:11.159] NU'DAQ: That's all?
+[00:40:12.199 --> 00:40:14.359] NU'DAQ: If she were not dead, I would kill her.
+[00:40:14.679 --> 00:40:15.639] OCETT: The very notion.
+[00:40:15.964 --> 00:40:19.804] OCETT: That a Cardassian could have anything in common with a Klingon, it turns my stomach.
+[00:40:21.884 --> 00:40:22.764] PICARD: Picard to Enterprise.
+[00:40:22.764 --> 00:40:23.644] RIKER: Standing by, sir.
+[00:40:25.084 --> 00:40:28.044] LOG: Captain's log, stardate 46735.2.
+[00:40:28.524 --> 00:40:33.404] LOG: Our frequent use of high warp over the last few days has overextended the propulsion systems.
+[00:40:33.804 --> 00:40:37.244] LOG: We are finishing minor repairs before returning to Federation territory.
+[00:40:38.524 --> 00:40:41.244] CRUSHER: It's a shame Professor Galen didn't live to see the end result of his search.
+[00:40:41.484 --> 00:40:43.484] PICARD: I can't think of anyone who would have appreciated it more.
+[00:40:44.204 --> 00:40:48.604] CRUSHER: If it hadn't been for you, his dream to solve that puzzle would never have been realised.
+[00:40:50.204 --> 00:40:51.884] CRUSHER: You left him a wonderful legacy.
+[00:40:52.764 --> 00:40:57.004] PICARD: Yes, but it would've been a more fitting legacy if the message had not fallen on such deaf ears.
+[00:40:58.364 --> 00:40:59.084] CRUSHER: You never know.
+[00:41:02.364 --> 00:41:05.804] CRUSHER: Well, I have to get this day started.
+[00:41:06.044 --> 00:41:06.524] PICARD: Both of us.
+[00:41:07.484 --> 00:41:08.284] CRUSHER: See you this afternoon.
+[00:41:11.804 --> 00:41:12.764] RIKER: Riker to Captain Picard.
+[00:41:13.404 --> 00:41:15.564] RIKER: Incoming transmission from the Romulan command ship.
+[00:41:16.044 --> 00:41:16.604] PICARD: Put it through.
+[00:41:17.244 --> 00:41:18.364] RIKER: Acknowledged.
+[00:41:18.364 --> 00:41:19.484] ROMULAN: Captain,
+[00:41:20.604 --> 00:41:23.004] ROMULAN: my ships are leaving orbit for Romulan space.
+[00:41:25.404 --> 00:41:26.764] ROMULAN: Until our next encounter.
+[00:41:29.004 --> 00:41:29.484] PICARD: Until then.
+[00:41:30.844 --> 00:41:34.524] ROMULAN: It would seem that we are not completely dissimilar after all,
+[00:41:35.484 --> 00:41:37.564] ROMULAN: in our hopes, or in our fears.
+[00:41:41.244 --> 00:41:41.644] PICARD: Yes.
+[00:41:42.924 --> 00:41:44.284] ROMULAN: Well, then. Perhaps,
+[00:41:46.339 --> 00:41:46.819] ROMULAN: one day.
+[00:41:50.659 --> 00:41:50.899] PICARD: One
+[00:42:37.059 --> 00:42:39.059] PICARD: day.

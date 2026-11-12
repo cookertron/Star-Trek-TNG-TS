@@ -1,0 +1,533 @@
+[00:00:02.000 --> 00:00:04.960] LOG: Captain's log, stardate 46271.5.
+[00:00:05.520 --> 00:00:13.040] LOG: The Enterprise has entered orbit of Deinonychus Seven, but our scheduled rendezvous with the supply ship Biko has been delayed for another forty eight hours.
+[00:00:13.760 --> 00:00:19.840] LOG: In the meantime, many members of the crew are taking advantage of the delay to pursue their own projects, myself included.
+[00:00:33.760 --> 00:00:34.720] PICARD: Computer, stop playback.
+[00:00:35.360 --> 00:00:36.640] PICARD: Change the clarinet to an oboe.
+[00:00:38.160 --> 00:00:38.880] PICARD: Continue recording.
+[00:00:47.280 --> 00:00:48.880] PICARD: Computer, pause playback.
+[00:00:49.440 --> 00:00:49.680] PICARD: Come.
+[00:00:52.880 --> 00:00:53.440] PICARD: Yes, gentlemen?
+[00:00:53.840 --> 00:00:58.320] LAFORGE: Captain we'd like your permission to take the Engineering computer offline for a couple of hours.
+[00:00:58.480 --> 00:01:03.280] LAFORGE: We're working on a new interface that would allow Data to act as an emergency backup in the event of a ship-wide systems failure.
+[00:01:03.680 --> 00:01:08.800] DATA: In theory, my neural network should be able to sustain key systems until primary control is restored.
+[00:01:09.840 --> 00:01:11.440] PICARD: It sounds like an intriguing experiment.
+[00:01:11.440 --> 00:01:12.800] PICARD: I'll be interested to see the results.
+[00:01:12.960 --> 00:01:13.600] PICARD: Permission granted.
+[00:01:13.920 --> 00:01:17.040] LAFORGE: It's possible we may even be able to run secondary systems through Data.
+[00:01:17.200 --> 00:01:18.000] LAFORGE: Weapons control, sensor arrays.
+[00:01:18.000 --> 00:01:19.600] PICARD: Yes, I get the idea, Mister La Forge.
+[00:01:19.600 --> 00:01:19.920] PICARD: Thank you.
+[00:01:20.080 --> 00:01:20.560] PICARD: Please proceed.
+[00:01:25.520 --> 00:01:28.400] PICARD: Computer, begin playback from the first measure.
+[00:01:37.082 --> 00:01:37.962] PICARD: Computer, pause recording.
+[00:01:38.202 --> 00:01:38.602] PICARD: Come.
+[00:01:42.362 --> 00:01:45.562] CRUSHER: Jean-Luc, I need to talk to you about Something for Breakfast.
+[00:01:46.122 --> 00:01:46.522] PICARD: Breakfast?
+[00:01:48.042 --> 00:01:48.522] CRUSHER: The play.
+[00:01:49.402 --> 00:01:50.282] PICARD: Ah, yes.
+[00:01:50.282 --> 00:01:56.042] PICARD: Well, it's a very intriguing drama, but I really don't have the time it would take to learn a part.
+[00:01:56.442 --> 00:01:59.242] PICARD: And anyway, I'm not much of an actor.
+[00:02:00.122 --> 00:02:01.162] CRUSHER: That's no problem.
+[00:02:01.802 --> 00:02:01.962] PICARD: Oh?
+[00:02:02.922 --> 00:02:04.682] CRUSHER: Well, you wouldn't be playing one of the leads.
+[00:02:05.802 --> 00:02:05.962] PICARD: Oh.
+[00:02:06.602 --> 00:02:07.402] CRUSHER: It's a very small part.
+[00:02:07.402 --> 00:02:08.362] CRUSHER: Only two lines.
+[00:02:09.322 --> 00:02:09.642] PICARD: Really.
+[00:02:10.282 --> 00:02:11.162] CRUSHER: You play the
+[00:02:13.002 --> 00:02:13.002] CRUSHER: butler.
+[00:02:13.002 --> 00:02:14.282] PICARD: Well, I'll think about it and let you know.
+[00:02:17.242 --> 00:02:18.602] CRUSHER: You would be wonderful, Jean-Luc.
+[00:02:22.362 --> 00:02:24.042] CRUSHER: We're rehearsing today at one thirty.
+[00:02:29.322 --> 00:02:29.322] PICARD: Computer,
+[00:02:30.842 --> 00:02:32.362] PICARD: begin playback from the first measure.
+[00:02:36.522 --> 00:02:37.322] PICARD: Computer, pause recording.
+[00:02:37.482 --> 00:02:37.962] PICARD: Yes?
+[00:02:40.282 --> 00:02:42.282] WORF: Captain, I am sorry to interrupt.
+[00:02:42.282 --> 00:02:43.402] PICARD: No, please, Mister Worf, come in.
+[00:02:43.962 --> 00:02:47.722] WORF: I was hoping to take advantage of the Biko's delay by staging shipwide security drills.
+[00:02:47.722 --> 00:02:49.322] WORF: I have planned a tentative schedule.
+[00:02:49.322 --> 00:02:49.322] PICARD: Oh
+[00:02:51.962 --> 00:02:53.482] PICARD: yes, this is very impressive, Mister Worf.
+[00:02:53.962 --> 00:02:57.322] PICARD: But we'll be taking on new personnel at Starbase one eighteen in a few weeks.
+[00:02:57.593 --> 00:02:59.033] PICARD: Surely the drills can wait until then.
+[00:02:59.993 --> 00:03:04.313] WORF: In that case, I will use the time to perform maintenance checks on the forward phaser array.
+[00:03:05.913 --> 00:03:10.713] PICARD: Mister Worf, is there some reason why you're trying to give yourself more work?
+[00:03:12.073 --> 00:03:12.793] WORF: No, sir.
+[00:03:12.793 --> 00:03:14.633] WORF: I simply wish to use the extra time
+[00:03:14.633 --> 00:03:15.513] PICARD: Enjoy yourself.
+[00:03:15.993 --> 00:03:17.513] PICARD: You have the free time.
+[00:03:18.553 --> 00:03:18.953] PICARD: Use it.
+[00:03:20.953 --> 00:03:21.273] WORF: Yes, sir.
+[00:03:21.993 --> 00:03:22.473] WORF: Thank you, sir.
+[00:03:33.193 --> 00:03:38.873] PICARD: Computer, continue recording and playback once more. From the top.
+[00:03:50.873 --> 00:03:53.193] ALEXANDER: Father! What did he say?
+[00:04:02.153 --> 00:04:04.473] WORF: The Captain saw fit to release me from my duties.
+[00:04:05.193 --> 00:04:05.833] ALEXANDER: You mean you can go?
+[00:04:07.993 --> 00:04:08.633] WORF: I can go.
+[00:04:12.473 --> 00:04:13.433] ALEXANDER: Saddle up, Father.
+[00:04:48.742 --> 00:04:51.542] PICARD: Space, the final frontier.
+[00:04:53.382 --> 00:04:56.262] PICARD: These are the voyages of the starship Enterprise.
+[00:04:57.382 --> 00:05:05.382] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:06.982 --> 00:05:09.862] PICARD: to boldly go where no one has gone before.
+[00:05:28.000 --> 00:05:36.000] [music]
+[00:05:39.000 --> 00:05:49.000] [music]
+[00:06:41.602 --> 00:06:44.162] WORF: Where are we?
+[00:06:44.882 --> 00:06:48.722] ALEXANDER: Deadwood. Nineteenth century Earth. The
+[00:06:50.322 --> 00:06:51.282] ALEXANDER: Ancient West.
+[00:06:53.122 --> 00:06:54.642] WORF: What is our function here?
+[00:06:55.522 --> 00:06:58.242] ALEXANDER: You're the Sheriff and I'm the deputy.
+[00:07:00.402 --> 00:07:03.693] WORF: So, we are in law enforcement.
+[00:07:03.693 --> 00:07:04.242] ALEXANDER: Right.
+[00:07:22.002 --> 00:07:22.002] DATA: Geordi,
+[00:07:23.881 --> 00:07:25.401] DATA: I have noticed that you have not shaved.
+[00:07:25.961 --> 00:07:27.401] DATA: Are you attempting to grow another beard?
+[00:07:28.201 --> 00:07:29.321] LAFORGE: As a matter of fact, I am, Data.
+[00:07:30.121 --> 00:07:30.601] LAFORGE: What do you think?
+[00:07:32.361 --> 00:07:38.281] DATA: As is the case with many natural growth processes, it is difficult to envision the end product based on an intermediate stage.
+[00:07:39.241 --> 00:07:39.721] LAFORGE: You're right.
+[00:07:40.441 --> 00:07:41.561] LAFORGE: Give it a few more days.
+[00:07:43.481 --> 00:07:45.641] LAFORGE: Okay, I'm going to need to access your auxiliary inputs.
+[00:07:47.481 --> 00:07:48.201] DATA: One moment.
+[00:07:52.841 --> 00:07:55.801] LAFORGE: I must admit, Data, I never get used to seeing you like this.
+[00:07:56.921 --> 00:07:57.881] DATA: I do not understand.
+[00:07:57.881 --> 00:08:03.161] DATA: You are constantly working on similar electronic systems, yet their appearances do not disturb you.
+[00:08:04.681 --> 00:08:06.601] LAFORGE: But you're not just another electronic system.
+[00:08:08.121 --> 00:08:10.281] DATA: Thank you, Geordi.
+[00:08:10.361 --> 00:08:12.361] DATA: Nor are you just another biological organism.
+[00:08:14.201 --> 00:08:15.001] LAFORGE: All right, that should do it.
+[00:08:15.881 --> 00:08:16.281] LAFORGE: Are you ready?
+[00:08:16.521 --> 00:08:16.841] DATA: Yes.
+[00:08:18.601 --> 00:08:19.881] DATA: Establishing computer linkup.
+[00:08:19.881 --> 00:08:21.561] DATA: Interface
+[00:08:24.921 --> 00:08:25.321] DATA: complete.
+[00:08:26.201 --> 00:08:26.361] LAFORGE: All right,
+[00:08:27.481 --> 00:08:28.281] LAFORGE: let's see what you can do.
+[00:08:28.941 --> 00:08:31.401] WORF: You wrote this holodeck
+[00:08:45.481 --> 00:08:46.281] WORF: programme yourself?
+[00:08:46.921 --> 00:08:48.201] ALEXANDER: Well, Mister
+[00:08:48.201 --> 00:08:49.081] ALEXANDER: Barclay helped a little.
+[00:08:49.081 --> 00:08:51.081] WORF: I
+[00:08:53.721 --> 00:08:54.921] WORF: must have a little talk with Mister
+[00:08:54.921 --> 00:08:55.401] WORF: Barclay.
+[00:08:59.176 --> 00:08:59.816] ELI: If I ever
+[00:09:07.976 --> 00:09:11.576] ELI: find the varmint who drew this, he'll be sorry he ever put pen to paper.
+[00:09:12.856 --> 00:09:14.136] ELI: I'm ten times uglier than that, ain't I?
+[00:09:15.000 --> 00:09:17.000] [laughter]
+[00:09:16.696 --> 00:09:17.656] ELI: Shut up.
+[00:09:18.856 --> 00:09:23.976] ELI: You laugh so much, it's a wonder you ain't got flies in your mouth.
+[00:09:27.176 --> 00:09:28.456] BANDITO: You're a very funny man,
+[00:09:28.456 --> 00:09:29.096] BANDITO: Senor Eli.
+[00:09:32.936 --> 00:09:33.896] ALEXANDER: That's the bad guy.
+[00:09:34.376 --> 00:09:35.816] ALEXANDER: His name's Eli Hollander.
+[00:09:36.216 --> 00:09:38.136] ALEXANDER: They call him the Butcher of Bozeman.
+[00:09:38.376 --> 00:09:39.816] ALEXANDER: He's killed twenty three men.
+[00:09:40.376 --> 00:09:43.416] ALEXANDER: He's the meanest and the toughest gunslinger in the West.
+[00:09:44.216 --> 00:09:44.936] ALEXANDER: You have to watch him.
+[00:09:45.096 --> 00:09:45.736] ALEXANDER: He's fast.
+[00:09:46.136 --> 00:09:47.496] WORF: So I am here to apprehend him?
+[00:09:48.216 --> 00:09:48.936] ALEXANDER: If you can.
+[00:09:52.296 --> 00:09:54.296] WORF: You
+[00:09:57.656 --> 00:09:59.736] WORF: are under arrest.
+[00:10:01.656 --> 00:10:02.296] ELI: Is that so.
+[00:10:11.576 --> 00:10:14.376] WORF: You will come with me.
+[00:10:16.616 --> 00:10:18.056] ALEXANDER: No, no, no.
+[00:10:19.176 --> 00:10:21.336] ALEXANDER: Computer, freeze programme.
+[00:10:23.256 --> 00:10:23.816] WORF: What is wrong?
+[00:10:23.816 --> 00:10:25.976] ALEXANDER: That was too easy.
+[00:10:25.976 --> 00:10:28.296] ALEXANDER: It has to be harder to beat the bad guys.
+[00:10:28.856 --> 00:10:29.976] ALEXANDER: Otherwise, it's no fun.
+[00:10:31.241 --> 00:10:34.921] ALEXANDER: Computer, increase programme difficulty to level four.
+[00:10:35.561 --> 00:10:38.761] ALEXANDER: Go back to where my father and I first walked into the saloon.
+[00:10:41.481 --> 00:10:44.921] ALEXANDER: Come on, Father.
+[00:10:52.761 --> 00:10:52.761] ELI: If
+[00:10:55.561 --> 00:11:01.561] ELI: I ever find the varmint who drew this, he'll be sorry he ever put pen to paper.
+[00:11:02.841 --> 00:11:06.921] ELI: I'm ten times uglier than that, ain't I?
+[00:11:05.000 --> 00:11:07.000] [laughter]
+[00:11:07.241 --> 00:11:07.721] ELI: Shut up.
+[00:11:09.001 --> 00:11:11.481] ELI: You laugh so much, it's a wonder you ain't got flies in your mouth.
+[00:11:17.321 --> 00:11:19.081] BANDITO: You're a very funny man, Senor Eli.
+[00:11:19.161 --> 00:11:19.321] WORF: Where
+[00:11:29.961 --> 00:11:32.441] WORF: are they going?
+[00:11:33.321 --> 00:11:34.921] ALEXANDER: They don't want to get hit by the bullets.
+[00:11:43.481 --> 00:11:47.081] WORF: You are under arrest.
+[00:11:48.281 --> 00:11:48.441] ELI: Well,
+[00:11:51.241 --> 00:11:53.161] ELI: looks like Sheriff Worf's here to arrest me.
+[00:11:57.603 --> 00:11:57.603] ELI: That
+[00:12:07.763 --> 00:12:09.203] ELI: don't sound like a bright idea.
+[00:12:20.163 --> 00:12:20.483] ELI: Do it?
+[00:12:25.283 --> 00:12:27.763] WORF: You have been accused of committing a homicide.
+[00:12:28.323 --> 00:12:31.603] ELI: If you mean murder, then I guess I'm guilty.
+[00:12:32.643 --> 00:12:35.443] ELI: I've killed twenty three men, Sheriff.
+[00:12:37.923 --> 00:12:39.683] ELI: One more ain't going to make much of a difference.
+[00:12:39.843 --> 00:12:41.443] ELI: Of course,
+[00:12:42.963 --> 00:12:46.403] ELI: shooting someone as ugly as you couldn't be considered a crime, could it?
+[00:12:48.163 --> 00:12:51.843] ELI: Was you just born that way, or did your momma marry an armadillo?
+[00:12:52.163 --> 00:12:59.203] ALEXANDER: Sheriff, look out!
+[00:13:01.283 --> 00:13:03.283] WORF: I'm
+[00:13:09.683 --> 00:13:11.523] WORF: beginning to see the appeal of this programme.
+[00:13:12.083 --> 00:13:15.683] ELI: Don't twitch a whisker, Sheriff, unless you want a shave.
+[00:13:15.683 --> 00:13:15.683] ELI: Okay, boys. Saddle up.
+[00:13:15.683 --> 00:13:15.683] ELI: But first,
+[00:13:27.151 --> 00:13:28.351] ELI: get their money and jewellry.
+[00:13:28.991 --> 00:13:31.231] WORF: You are a murderer and a thief.
+[00:13:31.381 --> 00:13:31.981] ELI: A
+[00:13:34.751 --> 00:13:35.951] ELI: man's got to make a living.
+[00:13:38.671 --> 00:13:41.311] TROI: I suggest you find a new line of work.
+[00:13:43.471 --> 00:13:47.151] ALEXANDER: I asked Counsellor Troi to join us.
+[00:13:47.391 --> 00:13:48.831] ALEXANDER: She loves Western stories.
+[00:13:49.711 --> 00:13:50.911] ELI: You'll regret this, stranger.
+[00:13:55.631 --> 00:13:57.631] DATA: I
+[00:14:00.591 --> 00:14:03.231] DATA: am now attempting to access the long range sensor array.
+[00:14:06.111 --> 00:14:08.191] LAFORGE: Forward sensor array coming online.
+[00:14:09.471 --> 00:14:10.431] LAFORGE: We're getting a clear scan.
+[00:14:12.111 --> 00:14:16.511] DATA: I will perform a routine maintenance check on the starboard inertial damping system.
+[00:14:16.831 --> 00:14:17.951] LAFORGE: Dampers online.
+[00:14:18.911 --> 00:14:20.991] LAFORGE: Maintenance check in progress.
+[00:14:21.311 --> 00:14:22.751] LAFORGE: Data, I think we're on to something here.
+[00:14:23.471 --> 00:14:25.551] LAFORGE: Let's see what you can do with secondary systems.
+[00:14:25.551 --> 00:14:27.551] LAFORGE: Try gravitational control.
+[00:14:28.431 --> 00:14:29.231] DATA: Initiating gravitational
+[00:14:29.231 --> 00:14:30.111] LAFORGE: What's
+[00:14:32.271 --> 00:14:32.991] LAFORGE: wrong?
+[00:14:34.351 --> 00:14:36.671] DATA: There appears to be an energy fluctuation in my neural net.
+[00:14:38.031 --> 00:14:40.031] DATA: I am disconnecting my interface to the computer.
+[00:14:43.551 --> 00:14:43.611] DATA: Interface deactivated.
+[00:14:43.631 --> 00:14:43.631] LAFORGE: You all right?
+[00:14:43.631 --> 00:14:45.631] DATA: I
+[00:14:47.391 --> 00:14:57.597] DATA: have experienced a brief power surge in my positronic subprocessor. But I am fine.
+[00:14:58.031 --> 00:14:59.471] LAFORGE: Maybe the interface coding
+[00:15:00.253 --> 00:15:01.533] LAFORGE: isn't as stable than we thought.
+[00:15:04.573 --> 00:15:08.093] LAFORGE: Looks like we've got a couple of hours of systems analysis before we can try this again.
+[00:15:09.453 --> 00:15:10.173] LAFORGE: Let's check the interface
+[00:15:13.293 --> 00:15:15.293] LAFORGE: programming.
+[00:15:34.973 --> 00:15:36.253] WORF: What are his rights in this century?
+[00:15:36.733 --> 00:15:39.533] WORF: Is there be a trial or shall I execute him?
+[00:15:40.813 --> 00:15:42.493] ALEXANDER: We're supposed to hold him until the US
+[00:15:42.493 --> 00:15:46.333] ALEXANDER: Marshal comes, and then we'll take him to Rapid City for a trial.
+[00:15:46.893 --> 00:15:50.253] ELI: Frankly, I don't think I'll be around here that long.
+[00:15:51.213 --> 00:15:52.893] ELI: Not after my old man hears about this.
+[00:15:54.733 --> 00:15:57.053] WORF: What old man are you referring to?
+[00:15:59.293 --> 00:16:00.013] ELI: My pa.
+[00:16:01.133 --> 00:16:05.373] ELI: When he breaks me out of this tin can, the gravedigger'll be working overtime.
+[00:16:06.653 --> 00:16:08.813] ALEXANDER: Your pa's no match for Sheriff Worf.
+[00:16:09.293 --> 00:16:12.573] WORF: Yes. When your pa comes, we will be ready for him.
+[00:16:16.413 --> 00:16:17.053] TROI: He's right.
+[00:16:21.853 --> 00:16:23.453] TROI: You're no match for the Hollanders.
+[00:16:26.892 --> 00:16:29.532] WORF: I am sure the three of us can handle any problems.
+[00:16:30.252 --> 00:16:35.372] TROI: Hold on. I was just passing through town, saw a little trouble, thought I'd lend a hand.
+[00:16:36.012 --> 00:16:37.772] TROI: But I ain't one of your deputies, Sheriff.
+[00:16:41.452 --> 00:16:43.932] WORF: Counsellor, I would appreciate some support in this matter.
+[00:16:45.132 --> 00:16:47.292] TROI: Durango. I'm called Durango.
+[00:16:47.532 --> 00:16:49.772] WORF: Yes, er, Counsellor Durango,
+[00:16:50.252 --> 00:16:52.652] WORF: perhaps you would consider becoming a temporary deputy?
+[00:16:56.412 --> 00:16:57.292] TROI: For a price.
+[00:17:01.612 --> 00:17:03.612] TROI: Five hundred dollars.
+[00:17:06.732 --> 00:17:09.532] WORF: Alexander we require large amounts of currency.
+[00:17:09.932 --> 00:17:10.332] ALEXANDER: Yes, sir.
+[00:17:10.332 --> 00:17:11.932] ALEXANDER: I'll go to the bank and make a withdrawal.
+[00:17:16.732 --> 00:17:20.092] WORF: Deanna, how do you know so much about this period in Earth's history?
+[00:17:21.532 --> 00:17:24.892] TROI: My father used to read me stories from the Ancient West when I was a little girl.
+[00:17:25.852 --> 00:17:31.372] TROI: I must admit, I always wanted to play the part of the mysterious stranger.
+[00:17:35.372 --> 00:17:37.372] ANNIE: You are
+[00:17:42.492 --> 00:17:46.412] ANNIE: so brave, facing down that evil man like you did.
+[00:17:47.852 --> 00:17:49.692] WORF: Why hank you. Miss?
+[00:17:50.252 --> 00:17:51.692] ANNIE: Annie, you big galoot.
+[00:17:52.172 --> 00:17:53.452] ANNIE: You best not forget that tonight,
+[00:17:54.010 --> 00:17:58.250] ANNIE: 'cos I'm going to make you beef steak and some gooseberry cobbler for dessert.
+[00:17:58.570 --> 00:18:00.010] TROI: Sounds delicious.
+[00:18:01.050 --> 00:18:04.570] ANNIE: And I bought some special candles for the table setting.
+[00:18:05.370 --> 00:18:08.010] ANNIE: Pure beeswax.
+[00:18:08.570 --> 00:18:10.810] WORF: I will not be able to come this evening.
+[00:18:10.810 --> 00:18:12.570] WORF: I have a prisoner.
+[00:18:12.970 --> 00:18:14.490] TROI: I'll watch him for you, Sheriff.
+[00:18:14.970 --> 00:18:16.570] TROI: You two go have a good time.
+[00:18:16.570 --> 00:18:21.290] WORF: That's very considerate of you, but I would be negligent in my duties if I did not stay.
+[00:18:21.290 --> 00:18:23.050] WORF: I am sorry, Miss Annie.
+[00:18:24.490 --> 00:18:25.610] ANNIE: It's another woman, ain't it?
+[00:18:26.410 --> 00:18:29.450] ANNIE: It's that floozy down there at Miss Langford's house of pleasure.
+[00:18:29.770 --> 00:18:29.930] WORF: Who?
+[00:18:37.530 --> 00:18:39.370] ELI: You sure got a way with women, Sheriff.
+[00:18:52.650 --> 00:18:55.690] PICARD: Computer, activate Picard Mozart trio, programme one.
+[00:18:57.050 --> 00:18:59.130] PICARD: Play back tracks one, two and three.
+[00:19:00.890 --> 00:19:01.770] PICARD: Tempo allegro.
+[00:19:07.674 --> 00:19:09.674] PICARD: Computer,
+[00:19:15.578 --> 00:19:17.578] PICARD: stop
+[00:19:21.530 --> 00:19:21.850] PICARD: playback.
+[00:19:25.051 --> 00:19:26.891] PICARD: Computer identify musical composition.
+[00:19:27.451 --> 00:19:29.211] COMPUTER: Picard Mozart trio, programme one.
+[00:19:36.651 --> 00:19:36.971] CRUSHER: Okay,
+[00:19:42.891 --> 00:19:45.211] CRUSHER: let's work through Act two from the
+[00:19:48.811 --> 00:19:50.811] CRUSHER: beginning.
+[00:19:54.891 --> 00:19:55.531] CRUSHER: Whenever you're ready.
+[00:20:02.571 --> 00:20:09.691] RIKER: Felis catus, is your taxonomic nomenclature. An endothermic quadruped, carnivorous by nature.
+[00:20:10.331 --> 00:20:10.731] CRUSHER: Hold it. Will,
+[00:20:10.811 --> 00:20:11.451] CRUSHER: what are you reading?
+[00:20:12.731 --> 00:20:13.211] RIKER: The lines.
+[00:20:13.211 --> 00:20:13.451] RIKER: Why?
+[00:20:14.251 --> 00:20:15.451] CRUSHER: That's not the right dialogue.
+[00:20:19.531 --> 00:20:22.011] CRUSHER: Your visual, olfactory, and auditory senses contribute to
+[00:20:22.011 --> 00:20:22.811] RIKER: I recognise it.
+[00:20:22.811 --> 00:20:23.931] RIKER: This is Data's poetry.
+[00:20:24.081 --> 00:20:24.681] CRUSHER: What?
+[00:20:25.611 --> 00:20:26.091] CRUSHER: The
+[00:20:29.691 --> 00:20:30.571] CRUSHER: play's gone.
+[00:20:31.451 --> 00:20:32.971] CRUSHER: I just keep getting more poetry.
+[00:20:32.971 --> 00:20:32.971] LAFORGE: Well,
+[00:20:41.931 --> 00:20:41.931] LAFORGE: the
+[00:20:44.091 --> 00:20:45.371] LAFORGE: PADDs are functioning normally.
+[00:20:45.771 --> 00:20:48.331] LAFORGE: It seems to be a problem with the information retrieval net.
+[00:20:48.331 --> 00:20:52.251] LAFORGE: Somehow when you tried to call up your play, the computer accessed Data's literary files.
+[00:20:52.411 --> 00:20:52.731] DATA: Geordi,
+[00:20:53.188 --> 00:20:55.748] DATA: perhaps this problem is related to our interface experiment.
+[00:20:56.548 --> 00:21:00.388] LAFORGE: We'd better run a level two diagnostic on the computer. See if this problem has spread to any other systems.
+[00:21:00.548 --> 00:21:01.668] DATA: And I will perform a self-diagnostic.
+[00:21:01.988 --> 00:21:02.628] LAFORGE: That's a good idea.
+[00:21:09.988 --> 00:21:11.668] CRUSHER: You will let me know if you find the play?
+[00:21:11.908 --> 00:21:12.708] LAFORGE: Oh yeah, don't worry.
+[00:21:12.788 --> 00:21:13.828] LAFORGE: It's in here somewhere.
+[00:21:15.028 --> 00:21:17.028] BANDITO: We
+[00:21:47.028 --> 00:21:48.308] BANDITO: got him, jefe.
+[00:21:49.908 --> 00:21:50.228] DATA-FRANK: Where's
+[00:21:53.668 --> 00:21:54.468] DATA-FRANK: my boy?
+[00:21:55.668 --> 00:21:57.508] ALEXANDER: I'm not supposed to be kidnapped now.
+[00:21:58.228 --> 00:21:59.908] ALEXANDER: Computer, freeze programme!
+[00:22:03.188 --> 00:22:05.748] ALEXANDER: Hey, Computer, freeze programme.
+[00:22:07.668 --> 00:22:08.788] BANDITO: You want us to kill him,
+[00:22:08.948 --> 00:22:09.748] BANDITO: Senor Frank?
+[00:22:10.628 --> 00:22:11.108] DATA-FRANK: No.
+[00:22:12.228 --> 00:22:13.988] DATA-FRANK: He's more valuable to us
+[00:22:14.868 --> 00:22:15.428] DATA-FRANK: alive.
+[00:22:26.423 --> 00:22:28.503] DATA: Feline supplement one hundred twenty seven.
+[00:22:28.503 --> 00:22:28.503] DATA: Spot,
+[00:22:35.463 --> 00:22:40.103] DATA: I have formulated a new mixture of foods specifically designed for your highly selective tastes.
+[00:22:50.823 --> 00:22:53.863] DATA: I find it extremely difficult to predict what you will find acceptable.
+[00:22:55.863 --> 00:22:57.943] DATA: Perhaps hunger will compel you to try it again.
+[00:23:09.543 --> 00:23:12.663] DATA: Spot, you are disrupting my ability to work.
+[00:23:19.543 --> 00:23:21.063] DATA: Vamoose, you little varmint.
+[00:23:54.975 --> 00:23:55.855] ANNIE: What'll it be?
+[00:23:57.055 --> 00:23:58.575] WORF: I was looking for my deputy.
+[00:23:58.975 --> 00:23:59.935] WORF: Perhaps you have seen him.
+[00:24:00.975 --> 00:24:01.375] ANNIE: Nope.
+[00:24:03.215 --> 00:24:03.935] ANNIE: What'll you have?
+[00:24:08.175 --> 00:24:09.135] WORF: Klingon fire wine.
+[00:24:11.535 --> 00:24:12.895] ANNIE: This ain't Kansas City.
+[00:24:13.695 --> 00:24:16.895] ANNIE: We ain't got none of that fancy European stuff here.
+[00:24:18.495 --> 00:24:20.735] ANNIE: Maybe I should get you a sherry.
+[00:24:21.135 --> 00:24:23.455] ANNIE: Ain't that is what they serve at Miss Langford's? It is,
+[00:24:23.455 --> 00:24:24.575] ANNIE: ain't it?
+[00:24:25.295 --> 00:24:25.535] ANNIE: Ain't
+[00:24:27.375 --> 00:24:27.375] ANNIE: it?
+[00:24:45.775 --> 00:24:47.215] DATA-FRANK: Howdy, Sheriff.
+[00:24:47.215 --> 00:24:47.935] WORF: Commander,
+[00:24:48.415 --> 00:24:49.215] WORF: what are you doing here?
+[00:24:49.935 --> 00:24:51.375] DATA-FRANK: The name is Frank Hollander.
+[00:24:54.015 --> 00:24:54.895] DATA-FRANK: What are you smiling at?
+[00:24:56.895 --> 00:24:57.215] WORF: Nothing.
+[00:24:57.855 --> 00:24:59.535] WORF: Nothing at all, Mister Hollander.
+[00:25:01.055 --> 00:25:04.255] WORF: What is it you want?
+[00:25:06.255 --> 00:25:06.895] DATA-FRANK: My boy.
+[00:25:12.015 --> 00:25:14.815] WORF: That is impossible.
+[00:25:15.375 --> 00:25:17.055] WORF: Your son is to stand trial for murder.
+[00:25:18.175 --> 00:25:23.055] DATA-FRANK: Well then, we'll just have to work something out.
+[00:25:23.055 --> 00:25:27.455] DATA-FRANK: Is there anything you want in exchange for my boy?
+[00:25:29.127 --> 00:25:30.727] WORF: You have nothing I want.
+[00:25:32.567 --> 00:25:33.367] DATA-FRANK: Is that so?
+[00:25:36.247 --> 00:25:37.607] DATA-FRANK: Is that so?
+[00:25:40.487 --> 00:25:42.407] DATA-FRANK: What about your deputy?
+[00:25:46.727 --> 00:25:47.287] WORF: What about him?
+[00:25:51.847 --> 00:25:52.407] WORF: Where is he?
+[00:25:55.527 --> 00:25:57.847] WORF: I do not negotiate with criminals.
+[00:26:00.887 --> 00:26:02.247] WORF: Your son will stand trial.
+[00:26:03.687 --> 00:26:04.807] DATA-FRANK: Not so fast.
+[00:26:07.047 --> 00:26:07.367] WORF: Commander,
+[00:26:07.367 --> 00:26:08.167] WORF: what are you doing?
+[00:26:08.727 --> 00:26:10.247] DATA-FRANK: I ain't in the mood for games, Sheriff.
+[00:26:10.397 --> 00:26:10.997] WORF: Data?
+[00:26:13.687 --> 00:26:14.087] WORF: Commander?
+[00:26:17.127 --> 00:26:18.167] WORF: Computer, freeze programme.
+[00:26:19.127 --> 00:26:22.807] DATA-FRANK: I wouldn't
+[00:26:26.087 --> 00:26:27.927] DATA-FRANK: walk out that door if I was you, Sheriff.
+[00:26:47.047 --> 00:26:49.367] TROI: What's wrong?
+[00:26:50.567 --> 00:26:54.327] WORF: The holodeck safeguards are not functioning.
+[00:26:55.127 --> 00:26:57.207] WORF: Alexander's in trouble.
+[00:26:59.298 --> 00:26:59.858] TROI: My God,
+[00:27:00.498 --> 00:27:01.618] TROI: you've been shot!
+[00:27:04.258 --> 00:27:05.778] TROI: Computer, end programme.
+[00:27:08.658 --> 00:27:09.298] TROI: Troi to Captain Picard.
+[00:27:09.458 --> 00:27:09.938] TROI: Troi to
+[00:27:11.618 --> 00:27:11.618] TROI: Security.
+[00:27:11.858 --> 00:27:12.018] WORF: There's
+[00:27:15.378 --> 00:27:16.898] WORF: another character in the programme.
+[00:27:17.858 --> 00:27:20.418] WORF: Hollander's father. And he looks like Commander Data.
+[00:27:20.818 --> 00:27:21.298] TROI: Data?
+[00:27:22.018 --> 00:27:23.218] WORF: But it is not Data.
+[00:27:23.378 --> 00:27:24.498] WORF: I cannot explain.
+[00:27:25.538 --> 00:27:27.538] WORF: I believe he has taken Alexander.
+[00:27:29.938 --> 00:27:32.738] DATA-ELI: Oh, now isn't that a shame?
+[00:27:33.618 --> 00:27:35.698] DATA-ELI: Poor Sheriff's been injured.
+[00:27:37.058 --> 00:27:37.698] DATA-ELI: What's the matter?
+[00:27:38.578 --> 00:27:40.738] DATA-ELI: Was my pa a little too rough on you?
+[00:27:44.418 --> 00:27:46.258] TROI: Data?
+[00:27:51.138 --> 00:27:51.458] DATA-ELI: What?
+[00:27:53.458 --> 00:27:56.018] TROI: Why is the computer creating characters that look like Data?
+[00:27:59.698 --> 00:28:02.738] WORF: Where have they taken my son?
+[00:28:02.738 --> 00:28:02.738] WORF: Where
+[00:28:05.138 --> 00:28:05.378] WORF: is he?
+[00:28:06.338 --> 00:28:08.098] DATA-ELI: Temper, temper, Sheriff.
+[00:28:09.058 --> 00:28:12.018] DATA-ELI: My pa ain't going to like if I come home all bruised.
+[00:28:12.418 --> 00:28:13.298] TROI: Worf, wait.
+[00:28:13.298 --> 00:28:13.458] TROI: We have
+[00:28:15.746 --> 00:28:17.746] TROI: to
+[00:28:20.034 --> 00:28:22.034] TROI: remember,
+[00:28:24.178 --> 00:28:27.858] TROI: even though the holodeck safeguards may be off, this is still a programme.
+[00:28:28.542 --> 00:28:34.382] TROI: If we can just get to the end of this story the way it was designed to play out, the programme will automatically terminate.
+[00:28:39.422 --> 00:28:39.822] WORF: You are right.
+[00:28:41.342 --> 00:28:43.662] WORF: I will begin by speaking to the people of this town.
+[00:28:44.302 --> 00:28:46.222] WORF: Perhaps someone witnessed Alexander's abduction.
+[00:28:53.902 --> 00:28:55.182] LOG: Captain's log, supplemental.
+[00:28:55.662 --> 00:29:01.982] LOG: Commander La Forge and Mister Data believe they have found the cause of the mysterious malfunctions which have been plaguing the ship.
+[00:29:03.822 --> 00:29:08.302] LAFORGE: We think our interface experiment may have caused one of the computer's core subroutines to be altered.
+[00:29:08.622 --> 00:29:13.742] DATA: When the interface malfunction occurred, subroutine C forty seven was replaced by elements from my personal programming.
+[00:29:14.302 --> 00:29:15.662] RIKER: What does C forty seven control?
+[00:29:16.142 --> 00:29:19.822] LAFORGE: Library computer access, replicator selection, recreational programming.
+[00:29:20.062 --> 00:29:20.862] LAFORGE: No critical systems.
+[00:29:21.262 --> 00:29:25.262] DATA: That would explain why your music composition programme began playing The Slavonic Dances.
+[00:29:25.662 --> 00:29:27.982] DATA: I have been analysing the collected works of Antonin Dvorak.
+[00:29:28.622 --> 00:29:31.902] LAFORGE: It's the same with Doctor Crusher's play, and with the food replicators.
+[00:29:32.062 --> 00:29:34.782] RIKER: The replicators on decks four through nine are producing nothing but cat food.
+[00:29:36.302 --> 00:29:36.782] PICARD: Cat food?
+[00:29:37.742 --> 00:29:40.142] DATA: I have been formulating nutritional supplements for Spot.
+[00:29:41.502 --> 00:29:42.862] PICARD: When can you correct the problem?
+[00:29:43.422 --> 00:29:46.542] DATA: We are currently attempting to isolate the corrupt circuit pathways.
+[00:29:47.182 --> 00:29:49.582] DATA: I reckon the process should take less then two hours.
+[00:29:49.982 --> 00:29:50.462] PICARD: What did you say?
+[00:29:51.502 --> 00:29:53.662] DATA: I said the process should take less than two hours.
+[00:29:54.542 --> 00:29:55.822] RIKER: No, you said I reckon.
+[00:29:58.476 --> 00:30:00.716] DATA: According to my memory log, I did not use those words.
+[00:30:01.596 --> 00:30:02.876] DATA: Ya'll must be mistaken.
+[00:30:03.436 --> 00:30:04.796] LAFORGE: There, Data, you did it again.
+[00:30:05.676 --> 00:30:06.156] DATA: Did whut?
+[00:30:07.916 --> 00:30:13.036] PICARD: Mister La Forge, perhaps you should take Mister Data to Engineering. See if you can find the problem.
+[00:30:13.276 --> 00:30:13.596] LAFORGE: Aye, sir.
+[00:31:00.876 --> 00:31:02.396] DATA-ELI: Can I help you with somethin?
+[00:31:09.356 --> 00:31:09.436] WORF: I
+[00:31:12.876 --> 00:31:17.596] WORF: spoke to several witnesses who saw Alexander being abducted as he was leaving the bank by one of Hollander's men.
+[00:31:18.716 --> 00:31:20.476] WORF: We must begin a systematic search of the town.
+[00:31:21.516 --> 00:31:22.716] TROI: Worf, we've got another problem.
+[00:31:23.756 --> 00:31:25.036] TROI: I saw Eli playing cards.
+[00:31:25.036 --> 00:31:27.516] TROI: He was shuffling the way Data does when he plays poker.
+[00:31:28.403 --> 00:31:29.763] TROI: He doesn't just look like Data,
+[00:31:29.763 --> 00:31:34.163] TROI: he has Data's abilities. Which means his father probably does also.
+[00:31:35.123 --> 00:31:35.203] DATA-FRANK: I've
+[00:31:54.803 --> 00:31:55.843] DATA-FRANK: came to see my boy.
+[00:31:57.603 --> 00:31:58.323] WORF: Remove your weapon.
+[00:32:05.363 --> 00:32:07.203] DATA-FRANK: Better take a good look at that gun, Sheriff.
+[00:32:07.843 --> 00:32:09.523] DATA-FRANK: You might be seeing it again real soon.
+[00:32:10.003 --> 00:32:10.483] DATA-ELI: Pa?
+[00:32:13.123 --> 00:32:15.123] DATA-FRANK: Eli!
+[00:32:17.683 --> 00:32:19.423] DATA-FRANK: How are they treating you, boy?
+[00:32:19.423 --> 00:32:20.003] DATA-ELI: Real bad,
+[00:32:20.083 --> 00:32:24.883] DATA-ELI: pa. They ain't fed me since I got here and the Sheriff's been roughin up on me somethin fierce.
+[00:32:26.083 --> 00:32:27.043] DATA-FRANK: Don't you worry, boy.
+[00:32:27.923 --> 00:32:28.803] DATA-FRANK: The Sheriff's going to pay.
+[00:32:31.363 --> 00:32:32.163] DATA-FRANK: Who's the stranger?
+[00:32:32.803 --> 00:32:33.523] DATA-ELI: Don't know.
+[00:32:33.843 --> 00:32:34.963] DATA-ELI: She ain't said her name.
+[00:32:35.603 --> 00:32:39.363] DATA-ELI: But she's in cahoots with the Sheriff and she's mighty mean with that Winchester.
+[00:32:40.883 --> 00:32:41.843] DATA-FRANK: You sit tight, boy.
+[00:32:42.963 --> 00:32:44.483] DATA-FRANK: I'll have you home in time for supper.
+[00:32:49.363 --> 00:32:51.203] DATA-FRANK: I'm going to give you one more opportunity, Sheriff,
+[00:32:52.723 --> 00:32:53.443] DATA-FRANK: to avoid a
+[00:32:54.188 --> 00:32:55.228] DATA-FRANK: ugly situation.
+[00:32:56.828 --> 00:32:57.468] DATA-FRANK: Release my boy.
+[00:33:01.628 --> 00:33:02.988] WORF: I have reconsidered your offer.
+[00:33:03.708 --> 00:33:06.268] WORF: I will release your son in exchange for my deputy.
+[00:33:07.868 --> 00:33:09.468] DATA-FRANK: I thought you might have a change of heart.
+[00:33:10.828 --> 00:33:12.028] DATA-FRANK: Meet me in two hours.
+[00:33:12.748 --> 00:33:13.948] DATA-FRANK: You be in front of the saloon.
+[00:33:14.828 --> 00:33:16.108] DATA-FRANK: I'll be in front of the livery station.
+[00:33:19.068 --> 00:33:20.348] DATA-FRANK: Strangers ain't invited.
+[00:33:24.668 --> 00:33:25.068] WORF: Agreed.
+[00:33:42.428 --> 00:33:45.948] TROI: In every Western I've ever read, the villains always break their word.
+[00:33:46.108 --> 00:33:47.068] TROI: he can't be trusted.
+[00:33:47.548 --> 00:33:49.228] WORF: But we have made an honourable agreement.
+[00:33:50.748 --> 00:33:52.588] TROI: They're not concerned with honour, Worf.
+[00:33:52.668 --> 00:33:53.948] TROI: This is the Ancient West.
+[00:33:54.988 --> 00:33:59.068] TROI: There's a gunfighter out there who has the speed and accuracy of an android.
+[00:34:00.828 --> 00:34:03.228] TROI: And in two hours, he's going to try to kill you.
+[00:34:08.940 --> 00:34:10.940] RIKER: Mister
+[00:34:16.652 --> 00:34:18.652] RIKER: Data.
+[00:34:22.508 --> 00:34:22.748] DATA: Howdy, Commander.
+[00:34:26.028 --> 00:34:26.588] RIKER: Geordi, what have you found?
+[00:34:27.137 --> 00:34:33.926] DATA: Well, we figure part of my memory structure was replaced with information from the computer's recreational data base.
+[00:34:33.926 --> 00:34:37.697] LAFORGE: Specifically, the files relating to the nineteenth century American West.
+[00:34:38.497 --> 00:34:39.457] RIKER: That would explain the accent.
+[00:34:40.257 --> 00:34:41.057] DATA: You got it, partner.
+[00:34:42.337 --> 00:34:44.177] RIKER: This is a result of the experimental interface?
+[00:34:44.177 --> 00:34:45.137] LAFORGE: I'm afraid so.
+[00:34:45.297 --> 00:34:49.217] LAFORGE: But we've initiated a progressive memory purge to restore Data's programming to its original state.
+[00:34:49.857 --> 00:34:51.377] LAFORGE: He should be back to normal in a couple of hours.
+[00:34:51.857 --> 00:34:54.017] RIKER: And what about the computer's recreational data base?
+[00:34:54.097 --> 00:34:55.697] LAFORGE: We started a memory purge there as well.
+[00:34:55.697 --> 00:34:57.057] LAFORGE: It'll take another hour, maybe two.
+[00:35:00.017 --> 00:35:03.217] DATA: Commander. You just sit tight.
+[00:35:04.097 --> 00:35:06.257] DATA: We'll have this all fixed up in time for supper.
+[00:35:07.137 --> 00:35:07.457] RIKER: Good.
+[00:35:12.417 --> 00:35:14.657] WORF: I will be positioned here, at the eastern end of the street.
+[00:35:14.977 --> 00:35:17.057] WORF: Frank Hollander says he will approach from this end.
+[00:35:17.697 --> 00:35:20.017] WORF: When he reaches this point, he will be within range.
+[00:35:20.337 --> 00:35:20.897] TROI: Understood.
+[00:35:21.057 --> 00:35:21.857] TROI: What about Alexander?
+[00:35:22.417 --> 00:35:24.177] WORF: There's a rain barrel in front of the saloon.
+[00:35:24.337 --> 00:35:25.777] WORF: It should be enough to stop the bullets.
+[00:35:37.057 --> 00:35:41.697] ANNIE: You would not believe what I went through to get old man Newsom to give up his telegraph machine.
+[00:35:49.137 --> 00:35:49.697] WORF: Excellent.
+[00:35:50.977 --> 00:35:52.977] ANNIE: Lord knows why I keep risking my life
+[00:35:53.514 --> 00:35:53.994] ANNIE: for you, Sheriff.
+[00:36:00.314 --> 00:36:02.874] WORF: Oh, yes.
+[00:36:02.954 --> 00:36:04.394] WORF: Thank you, Miss Annie.
+[00:36:04.874 --> 00:36:05.354] WORF: I am in your debt.
+[00:36:08.154 --> 00:36:08.794] WORF: I
+[00:36:19.354 --> 00:36:22.794] WORF: have connected the communicator's energy cell to serve as the power source.
+[00:36:24.794 --> 00:36:26.314] TROI: How long will the field last?
+[00:36:26.794 --> 00:36:28.314] WORF: No more than fifteen seconds.
+[00:36:28.314 --> 00:36:29.914] WORF: It is highly unstable.
+[00:36:30.234 --> 00:36:30.954] TROI: Let's hope it's enough.
+[00:36:31.104 --> 00:36:31.704] DATA-FRANK: Eli,
+[00:38:37.389 --> 00:38:37.389] DATA-FRANK: get
+[00:38:38.909 --> 00:38:39.909] DATA-FRANK: down!
+[00:38:39.909 --> 00:38:40.909] WORF: Alexander!
+[00:38:40.909 --> 00:38:42.349] TROI: Don't even think about it.
+[00:38:43.229 --> 00:38:44.349] DATA-MEXICAN: Senor Frank!
+[00:39:12.258 --> 00:39:12.258] DATA-FRANK: Go ahead.
+[00:39:13.858 --> 00:39:14.498] DATA-FRANK: Shoot me.
+[00:39:22.018 --> 00:39:25.938] WORF: Do not show your face in this town again.
+[00:39:30.258 --> 00:39:30.738] DATA-FRANK: Let's go.
+[00:39:50.098 --> 00:39:50.458] ALEXANDER: Father!
+[00:39:50.818 --> 00:39:52.018] WORF: Are you all right?
+[00:39:53.218 --> 00:39:53.778] ALEXANDER: Yes.
+[00:39:56.818 --> 00:39:57.458] WORF: End programme.
+[00:39:57.458 --> 00:39:57.458] TROI: I
+[00:39:59.938 --> 00:40:01.138] TROI: don't understand this.
+[00:40:02.338 --> 00:40:03.778] TROI: The story should be over.
+[00:40:03.778 --> 00:40:04.498] TROI: What's left?
+[00:40:05.298 --> 00:40:05.778] WORF: Computer,
+[00:40:06.178 --> 00:40:06.978] WORF: end programme.
+[00:40:08.898 --> 00:40:09.458] DATA-ANNIE: Sheriff!
+[00:40:12.178 --> 00:40:13.938] DATA-ANNIE: You're
+[00:40:15.698 --> 00:40:17.458] DATA-ANNIE: as
+[00:40:19.218 --> 00:40:20.498] DATA-ANNIE: handy with a shooting iron
+[00:40:22.978 --> 00:40:24.498] DATA-ANNIE: as you are with a woman's heart.
+[00:40:25.894 --> 00:40:27.574] WORF: Computer, end programme!
+[00:40:33.014 --> 00:40:34.454] WORF: Computer! Now!
+[00:40:48.934 --> 00:40:52.054] LOG: Captain's log, stardate 46278.3.
+[00:40:52.614 --> 00:40:56.294] LOG: Both Commander Data and the ship's computer have been restored to normal operation.
+[00:40:56.934 --> 00:40:59.974] LOG: Our rendezvous with the supply ship Biko has proceeded as planned.
+[00:41:13.654 --> 00:41:14.054] ALEXANDER: Father?
+[00:41:18.454 --> 00:41:22.694] ALEXANDER: After what happened I guess you'll never want to go back to the Ancient West.
+[00:41:29.814 --> 00:41:32.534] WORF: The town of Deadwood may face danger once again.
+[00:41:33.814 --> 00:41:36.934] WORF: If they do, they will need a Sheriff
+[00:41:40.694 --> 00:41:41.414] WORF: and a deputy.
+[00:43:17.000 --> 00:43:25.000] [music]
+[00:43:35.000 --> 00:43:44.000] [music]

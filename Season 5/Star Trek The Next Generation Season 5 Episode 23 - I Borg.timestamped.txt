@@ -1,0 +1,684 @@
+[00:00:01.600 --> 00:00:04.560] LOG: Captain's log, stardate 45854.2.
+[00:00:05.280 --> 00:00:11.680] LOG: The Enterprise is charting six star systems that make up the Argolis cluster, an area being considered for colonisation.
+[00:00:14.560 --> 00:00:15.280] RIKER: Very impressive.
+[00:00:16.080 --> 00:00:19.680] TROI: It's beautiful, but frightening at the same time.
+[00:00:20.400 --> 00:00:24.080] DATA: Captain, I am detecting a transmission emanating from within the system.
+[00:00:24.800 --> 00:00:25.360] RIKER: What sort of signal?
+[00:00:25.920 --> 00:00:28.080] DATA: It is self-repeating, of unknown pattern.
+[00:00:28.480 --> 00:00:29.120] PICARD: Where is it coming from?
+[00:00:29.920 --> 00:00:31.600] DATA: A small moon orbiting the fourth planet.
+[00:00:33.760 --> 00:00:34.240] PICARD: Life signs?
+[00:00:34.640 --> 00:00:35.200] DATA: Indeterminate.
+[00:00:35.840 --> 00:00:38.000] DATA: I am attempting to screen out sensor interference.
+[00:00:39.360 --> 00:00:40.560] DATA: Readings are still inconclusive,
+[00:00:40.560 --> 00:00:43.520] DATA: however the moon's atmosphere is capable of supporting life.
+[00:00:44.640 --> 00:00:45.440] RIKER: It could be a distress call.
+[00:00:48.720 --> 00:00:50.640] RIKER: Helm, take us into transport range.
+[00:00:50.800 --> 00:00:53.920] RIKER: Doctor Crusher, meet me in transporter room two with a medical away team.
+[00:00:54.240 --> 00:00:54.880] CRUSHER: Acknowledged.
+[00:00:55.280 --> 00:00:57.280] CRUSHER: I'm
+[00:01:21.840 --> 00:01:24.400] CRUSHER: reading one life form, very weak signs.
+[00:02:17.733 --> 00:02:20.453] PICARD: Space, the final frontier.
+[00:02:22.293 --> 00:02:25.253] PICARD: These are the voyages of the starship Enterprise.
+[00:02:26.293 --> 00:02:34.293] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:35.973 --> 00:02:38.853] PICARD: to boldly go where no one has gone before.
+[00:02:40.000 --> 00:02:54.000] [music]
+[00:02:55.000 --> 00:03:05.000] [music]
+[00:03:08.000 --> 00:03:21.000] [music]
+[00:03:36.257 --> 00:03:37.137] RIKER: Riker to Enterprise.
+[00:03:37.137 --> 00:03:38.177] PICARD: Go ahead, Number One.
+[00:03:39.297 --> 00:03:40.977] RIKER: We've found the wreckage of a small craft.
+[00:03:41.777 --> 00:03:42.737] RIKER: One survivor.
+[00:03:42.737 --> 00:03:45.457] RIKER: It's a Borg. Male, adolescent.
+[00:03:45.857 --> 00:03:47.117] RIKER: He's badly hurt.
+[00:03:47.117 --> 00:03:47.537] DATA: Sir,
+[00:03:48.017 --> 00:03:50.817] DATA: there is no indication of other Borg activity within sensor range.
+[00:03:53.217 --> 00:03:54.497] PICARD: Away team, prepare to return to the ship.
+[00:03:54.817 --> 00:03:56.417] CRUSHER: Captain, we can't Leave him here.
+[00:03:56.417 --> 00:03:57.217] CRUSHER: He won't survive.
+[00:03:58.097 --> 00:03:59.537] RIKER: I think the Captain understands that.
+[00:03:59.937 --> 00:04:00.497] CRUSHER: I don't.
+[00:04:01.057 --> 00:04:02.737] RIKER: The Borg usually collect their dead.
+[00:04:02.817 --> 00:04:03.777] CRUSHER: He's not dead.
+[00:04:05.057 --> 00:04:05.777] RIKER: The transmission
+[00:04:05.777 --> 00:04:06.257] CRUSHER: At least not yet.
+[00:04:06.737 --> 00:04:09.697] RIKER: The transmission that we intercepted was probably a homing signal.
+[00:04:09.937 --> 00:04:10.977] RIKER: We have to assume they're on their way.
+[00:04:11.377 --> 00:04:12.977] CRUSHER: Let me at least stabilise his condition,
+[00:04:12.977 --> 00:04:14.817] CRUSHER: give him a chance of surviving until they get here.
+[00:04:14.817 --> 00:04:16.417] PICARD: Your concern is noted, Doctor,
+[00:04:17.857 --> 00:04:21.137] PICARD: but any intervention on our part would alert the Borg to our having been here.
+[00:04:21.777 --> 00:04:23.697] CRUSHER: I'm afraid we've turned that corner already.
+[00:04:24.097 --> 00:04:24.657] WORF: Kill it now.
+[00:04:25.857 --> 00:04:27.457] WORF: Make it appear that it died in the crash.
+[00:04:27.849 --> 00:04:29.369] WORF: Leave no evidence that we were ever here.
+[00:04:33.529 --> 00:04:35.689] PICARD: Security measures must be taken before we beam it on board.
+[00:04:36.169 --> 00:04:36.889] CRUSHER: Thank you, Captain.
+[00:04:37.129 --> 00:04:37.849] CRUSHER: Standing by.
+[00:04:38.329 --> 00:04:40.729] PICARD: Mister Data, notify Security to prepare a detention cell.
+[00:04:41.449 --> 00:04:42.329] PICARD: Bridge to Engineering.
+[00:04:42.809 --> 00:04:43.369] LAFORGE: La Forge here.
+[00:04:43.689 --> 00:04:45.449] PICARD: We're bringing a Borg survivor on board.
+[00:04:45.529 --> 00:04:50.809] PICARD: We'll need to neutralise the homing signal Prevent it from sending or receiving transmissions of any kind.
+[00:04:50.809 --> 00:04:53.209] LAFORGE: I'll set up a subspace damping field around the detention cell.
+[00:04:53.609 --> 00:04:53.929] PICARD: Very well.
+[00:05:20.009 --> 00:05:20.489] WORF: Four more.
+[00:05:20.729 --> 00:05:21.369] WORF: None survived.
+[00:05:22.089 --> 00:05:22.929] PICARD: Picard to Riker.
+[00:05:22.929 --> 00:05:23.769] RIKER: Go ahead, Enterprise.
+[00:05:24.009 --> 00:05:26.329] PICARD: We are transporting you directly to the detention cell.
+[00:05:26.809 --> 00:05:28.409] CRUSHER: I need him in Sickbay, Captain.
+[00:05:28.409 --> 00:05:29.209] PICARD: The cell, Doctor.
+[00:05:29.849 --> 00:05:31.689] PICARD: Whatever equipment you need will be brought to you there.
+[00:05:32.489 --> 00:05:32.969] CRUSHER: Very well.
+[00:05:52.569 --> 00:05:53.729] PICARD: Come.
+[00:05:53.729 --> 00:05:54.889] TROI: Captain,
+[00:05:54.889 --> 00:05:57.049] TROI: I just wondered if there's anything you wanted to talk about.
+[00:05:57.369 --> 00:05:58.329] PICARD: I don't think so, Counsellor.
+[00:05:58.969 --> 00:06:01.689] TROI: I would have thought having a
+[00:06:01.783 --> 00:06:04.103] TROI: Borg on the ship would stir some feelings.
+[00:06:04.743 --> 00:06:06.503] PICARD: I'm quite recovered from my experience, thank you.
+[00:06:08.743 --> 00:06:15.783] TROI: Sometimes even when a victim has dealt with his assault there are residual effects of the event that linger.
+[00:06:16.743 --> 00:06:21.063] TROI: You were treated violently by the Borg. Kidnapped, assaulted, mutilated.
+[00:06:21.063 --> 00:06:21.463] PICARD: Counsellor.
+[00:06:24.263 --> 00:06:28.503] PICARD: Counsellor, I very much appreciate your concern for me, but I can assure you it is quite misplaced.
+[00:06:29.143 --> 00:06:32.183] PICARD: I have carefully considered the implications of having a Borg on this ship.
+[00:06:32.743 --> 00:06:34.183] PICARD: I have weighed the possible risks,
+[00:06:35.703 --> 00:06:37.543] PICARD: and I am convinced that we are doing the right thing.
+[00:06:39.303 --> 00:06:41.223] PICARD: Now, I am quite comfortable with my decision.
+[00:06:44.023 --> 00:06:44.423] TROI: I see.
+[00:06:46.343 --> 00:06:49.276] TROI: Well, if at any point you want to talk more.
+[00:06:49.276 --> 00:06:51.623] PICARD: I shall certainly avail myself of your help.
+[00:07:04.023 --> 00:07:04.823] WORF: Lower the forcefield.
+[00:07:12.183 --> 00:07:14.183] WORF: Captain, the Borg is still unconscious.
+[00:07:16.023 --> 00:07:17.703] CRUSHER: He suffered massive internal injuries.
+[00:07:17.783 --> 00:07:21.063] CRUSHER: We've been able to control the haemorrhaging, but some of the implants in his brain were damaged.
+[00:07:21.063 --> 00:07:23.063] CRUSHER: I may have to remove them.
+[00:07:23.063 --> 00:07:24.823] PICARD: The Borg will die if they're removed permanently.
+[00:07:25.943 --> 00:07:27.783] PICARD: Their brains grow dependent on the biochips.
+[00:07:28.503 --> 00:07:30.423] CRUSHER: Perhaps Geordi can construct some new implants.
+[00:07:30.903 --> 00:07:33.223] LAFORGE: They contain relatively straightforward programming,
+[00:07:33.223 --> 00:07:34.103] LAFORGE: interface protocols.
+[00:07:34.446 --> 00:07:36.766] LAFORGE: We have the files we downloaded after your experience, Captain.
+[00:07:37.246 --> 00:07:37.966] LAFORGE: I think I can manage it.
+[00:07:40.446 --> 00:07:41.086] PICARD: Mister La Forge,
+[00:07:44.126 --> 00:07:49.086] PICARD: do you know enough about Borg programming to alter the pathways to their root command structure?
+[00:07:49.166 --> 00:07:51.646] LAFORGE: I'm not sure, sir.
+[00:07:52.526 --> 00:07:53.966] LAFORGE: The subroutines are pretty complicated.
+[00:07:53.966 --> 00:07:56.366] LAFORGE: I'd probably have to study the data processing algorithms.
+[00:07:56.766 --> 00:07:58.766] LAFORGE: It's the only way I could trace the access codes.
+[00:07:58.766 --> 00:08:07.886] PICARD: If we could get to the root command, we could introduce an invasive programming sequence through its biochip system and then return it to the hive.
+[00:08:08.366 --> 00:08:11.265] LAFORGE: The Borg are so interconnected it would act like a virus.
+[00:08:11.265 --> 00:08:12.846] PICARD: Which would infect the entire Collective.
+[00:08:15.726 --> 00:08:17.670] PICARD: We could disable their neural network at a stroke.
+[00:08:17.670 --> 00:08:17.886] CRUSHER: Infect
+[00:08:19.406 --> 00:08:20.046] CRUSHER: it? You
+[00:08:20.446 --> 00:08:22.126] CRUSHER: make it sound like a disease.
+[00:08:22.846 --> 00:08:23.566] PICARD: Quite right, Doctor.
+[00:08:25.326 --> 00:08:26.126] PICARD: If all goes well, a
+[00:08:27.726 --> 00:08:29.086] PICARD: terminal one.
+[00:08:37.566 --> 00:08:44.046] LAFORGE: If this works the way I think it will, once the invasive programme starts spreading, it'll only be a matter of months before the Borg suffer total systems failure.
+[00:08:44.606 --> 00:08:44.846] PICARD: Comments.
+[00:08:44.846 --> 00:08:45.966] CRUSHER: A question.
+[00:08:46.366 --> 00:08:48.206] CRUSHER: What exactly is total systems failure?
+[00:08:48.686 --> 00:08:50.766] DATA: The Borg are extremely computer dependent.
+[00:08:51.166 --> 00:08:52.766] DATA: A systems failure will destroy them.
+[00:08:53.326 --> 00:08:54.846] CRUSHER: I just think we should be plain about that.
+[00:08:55.486 --> 00:08:57.726] CRUSHER: We're talking about annihilating an entire race.
+[00:08:57.726 --> 00:08:59.966] PICARD: Which under most circumstances would be unconscionable.
+[00:09:00.606 --> 00:09:02.766] PICARD: But as I see it, the Borg leave us with little choice.
+[00:09:03.326 --> 00:09:03.726] RIKER: I agree.
+[00:09:03.806 --> 00:09:04.366] RIKER: We're at war.
+[00:09:04.873 --> 00:09:06.753] CRUSHER: There's been no formal declaration of war.
+[00:09:06.753 --> 00:09:08.633] TROI: Not from us, but certainly from them.
+[00:09:09.593 --> 00:09:11.113] TROI: They've attacked us in every encounter.
+[00:09:11.353 --> 00:09:13.833] PICARD: They've declared war on our way of life. We are to be assimilated.
+[00:09:14.313 --> 00:09:15.993] CRUSHER: But even in war there are rules.
+[00:09:16.233 --> 00:09:18.073] CRUSHER: You don't kill civilians indiscriminately.
+[00:09:18.153 --> 00:09:19.913] RIKER: There are no civilians among the Borg.
+[00:09:20.073 --> 00:09:21.753] PICARD: Think of them as a single, collective being.
+[00:09:21.993 --> 00:09:25.033] PICARD: There's no one Borg who is more an individual than your arm or your leg.
+[00:09:25.673 --> 00:09:26.313] CRUSHER: How convenient.
+[00:09:26.953 --> 00:09:27.753] PICARD: Your point, Doctor?
+[00:09:29.353 --> 00:09:31.993] CRUSHER: When I look at my patient, I don't see a collective consciousness.
+[00:09:31.993 --> 00:09:32.953] CRUSHER: I don't see a hive.
+[00:09:33.353 --> 00:09:36.153] CRUSHER: I see a living, breathing boy who's been hurt and who needs our help.
+[00:09:36.793 --> 00:09:40.153] CRUSHER: And we're talking about sending him back to his people as an instrument of destruction.
+[00:09:41.033 --> 00:09:48.793] PICARD: It comes down to this. We're faced with an enemy who are determined to destroy us, and we have no hope of negotiating a peace. Unless that changes,
+[00:09:49.593 --> 00:09:52.633] PICARD: we are justified in doing anything we can to survive.
+[00:09:53.033 --> 00:09:54.073] SECURITY: Security to Captain.
+[00:09:55.193 --> 00:09:55.753] PICARD: Picard here.
+[00:09:56.153 --> 00:09:57.673] SECURITY: The Borg has regained consciousness, sir.
+[00:09:58.473 --> 00:09:58.953] PICARD: Acknowledged.
+[00:09:59.913 --> 00:10:00.793] PICARD: We proceed with the plan.
+[00:10:11.993 --> 00:10:12.633] CRUSHER: What's he doing?
+[00:10:13.193 --> 00:10:16.393] PICARD: He's trying to find an access terminal so he can interface with the collective.
+[00:10:17.433 --> 00:10:19.593] PICARD: He doesn't understand that the signal has been cut off.
+[00:10:20.313 --> 00:10:21.353] LAFORGE: He's emitting a homing signal
+[00:10:21.513 --> 00:10:23.113] LAFORGE: and a second subspace beacon,
+[00:10:23.753 --> 00:10:25.593] LAFORGE: but our damping field is blocking both signals.
+[00:10:27.513 --> 00:10:28.073] PICARD: He's alone.
+[00:10:28.223 --> 00:10:28.823] PICARD: For
+[00:10:29.673 --> 00:10:31.593] PICARD: the first time he's being forced to cope
+[00:10:31.665 --> 00:10:35.043] PICARD: with his environment without the resources of the Collective.
+[00:10:35.043 --> 00:10:36.545] CRUSHER: He must be hungry.
+[00:10:40.945 --> 00:10:42.465] CRUSHER: The Borg don't ingest food.
+[00:10:43.985 --> 00:10:48.145] CRUSHER: Their implants can synthesise any organic molecules the biological tissues require.
+[00:10:49.665 --> 00:10:51.825] CRUSHER: What they need is energy.
+[00:10:56.385 --> 00:10:57.105] PICARD: Arrange to feed it.
+[00:10:57.905 --> 00:10:58.225] LAFORGE: Aye, sir.
+[00:11:02.865 --> 00:11:06.225] LAFORGE: I'll have to adapt a power conduit and install it in there.
+[00:11:08.625 --> 00:11:09.505] CRUSHER: If I didn't know better,
+[00:11:11.585 --> 00:11:12.625] CRUSHER: I'd think he was scared.
+[00:11:14.785 --> 00:11:16.785] GUINAN: I
+[00:11:31.105 --> 00:11:34.145] GUINAN: don't think I like this sport.
+[00:11:34.705 --> 00:11:36.945] PICARD: Last week when you scored two touches, you liked it well enough.
+[00:11:37.905 --> 00:11:40.945] PICARD: Today you were dropping your foil. You kept letting me inside.
+[00:11:41.585 --> 00:11:44.545] GUINAN: Ah, but if I lift up, you lunge right underneath.
+[00:11:45.265 --> 00:11:47.025] GUINAN: Let's face it, you're just better at this than I
+[00:11:50.385 --> 00:11:50.385] GUINAN: am.
+[00:11:50.535 --> 00:11:51.135] GUINAN: I
+[00:11:53.105 --> 00:11:54.465] GUINAN: understand we have a guest on board.
+[00:11:56.945 --> 00:11:57.345] PICARD: Yes.
+[00:11:59.345 --> 00:12:00.145] GUINAN: Is that wise?
+[00:12:01.745 --> 00:12:02.225] PICARD: I'm not sure.
+[00:12:02.465 --> 00:12:02.865] PICARD: I hope so.
+[00:12:03.772 --> 00:12:06.652] GUINAN: I thought I understood you, Picard, but I don't understand this.
+[00:12:06.972 --> 00:12:07.932] PICARD: It was an errand of mercy.
+[00:12:07.932 --> 00:12:08.572] PICARD: He was injured,
+[00:12:09.772 --> 00:12:13.852] PICARD: Doctor Crusher decided for humanitarian reasons to care for him.
+[00:12:14.332 --> 00:12:15.212] GUINAN: They're going to come after us,
+[00:12:15.212 --> 00:12:15.612] GUINAN: you know that.
+[00:12:16.652 --> 00:12:18.172] GUINAN: You, of all people, know that.
+[00:12:21.132 --> 00:12:21.692] PICARD: Shall we go again?
+[00:12:21.842 --> 00:12:22.442] PICARD: Are
+[00:12:49.772 --> 00:12:50.252] PICARD: you all right?
+[00:12:54.172 --> 00:12:55.372] GUINAN: You felt sorry for me.
+[00:12:56.492 --> 00:12:57.212] GUINAN: Look what it got you.
+[00:13:12.972 --> 00:13:14.412] LAFORGE: I'll have to go in to connect the power conduit.
+[00:13:16.892 --> 00:13:17.932] WORF: I will follow the Commander.
+[00:13:18.252 --> 00:13:19.052] WORF: Reactivate the field
+[00:13:19.052 --> 00:13:19.692] WORF: once we're through.
+[00:13:35.889 --> 00:13:36.129] LAFORGE: Good.
+[00:13:37.249 --> 00:13:37.969] LAFORGE: Now stay that way.
+[00:13:52.049 --> 00:13:52.529] WORF: Commander.
+[00:14:04.049 --> 00:14:05.649] BORG: We are Borg.
+[00:14:07.489 --> 00:14:09.489] BORG: You will be assimilated.
+[00:14:10.529 --> 00:14:12.449] BORG: Resistance is futile.
+[00:14:13.489 --> 00:14:14.449] LAFORGE: Just look around, pal.
+[00:14:14.769 --> 00:14:17.729] LAFORGE: You're hardly in a position to make any demands.
+[00:14:18.689 --> 00:14:20.849] BORG: We must return to the Collective.
+[00:14:24.609 --> 00:14:25.009] LAFORGE: Who's we?
+[00:14:25.009 --> 00:14:25.249] BORG: We
+[00:14:28.689 --> 00:14:29.249] BORG: are Borg.
+[00:14:32.769 --> 00:14:37.489] LAFORGE: Yeah, but there's only one of you.
+[00:14:37.489 --> 00:14:37.729] LAFORGE: Do you have a name?
+[00:14:39.809 --> 00:14:41.969] LAFORGE: A means of identification?
+[00:14:42.289 --> 00:14:43.489] BORG: Third of five.
+[00:14:46.049 --> 00:14:47.089] LAFORGE: There were five on your ship.
+[00:14:49.009 --> 00:14:49.489] LAFORGE: Is that it?
+[00:14:49.489 --> 00:14:49.969] LAFORGE: Just a number?
+[00:14:51.009 --> 00:14:52.049] BORG: Third of five.
+[00:14:54.769 --> 00:14:55.569] LAFORGE: It does kind of suit you.
+[00:14:56.239 --> 00:14:56.910] LAFORGE: Okay.
+[00:14:57.581 --> 00:15:02.276] LAFORGE: This is for you.
+[00:15:02.947 --> 00:15:06.689] LAFORGE: It regulates the power flow to the frequency that you're used to.
+[00:15:06.689 --> 00:15:07.969] LAFORGE: This connection
+[00:15:08.759 --> 00:15:10.279] LAFORGE: should fit the coupling on your arm.
+[00:15:14.279 --> 00:15:15.799] LAFORGE: You're welcome.
+[00:15:19.719 --> 00:15:22.199] LAFORGE: Let's get out of here.
+[00:15:23.559 --> 00:15:24.439] WORF: Lower the forcefield.
+[00:15:56.279 --> 00:15:56.839] LAFORGE: He's hungry, all
+[00:15:58.598 --> 00:15:58.598] LAFORGE: right.
+[00:15:58.598 --> 00:16:00.279] BORG: Why do you do this?
+[00:16:01.079 --> 00:16:02.439] LAFORGE: I'm just a nice guy at heart.
+[00:16:02.839 --> 00:16:05.159] LAFORGE: You feeling better?
+[00:16:06.519 --> 00:16:07.719] BORG: You are not Borg.
+[00:16:08.598 --> 00:16:08.839] LAFORGE: That's right.
+[00:16:08.839 --> 00:16:10.759] LAFORGE: And I hope to stay that way.
+[00:16:11.559 --> 00:16:13.399] BORG: You will be assimilated.
+[00:16:14.839 --> 00:16:16.439] BORG: Resistance is futile.
+[00:16:17.719 --> 00:16:18.598] LAFORGE: That's gratitude for you.
+[00:16:18.598 --> 00:16:19.719] LAFORGE: I've
+[00:16:27.959 --> 00:16:31.639] LAFORGE: been rationing his portions of energy.
+[00:16:31.799 --> 00:16:33.559] LAFORGE: I think he understands.
+[00:16:33.879 --> 00:16:35.239] LAFORGE: When he cooperates, he gets fed.
+[00:16:35.239 --> 00:16:36.239] LAFORGE: If not.
+[00:16:36.239 --> 00:16:39.239] CRUSHER: Like a rat in a cage.
+[00:16:39.639 --> 00:16:39.879] LAFORGE: Look,
+[00:16:40.341 --> 00:16:50.981] LAFORGE: if I'm going to figure out his command pathways, I need to learn how he processes information, and the only way I know to do that is by giving him perceptual tests. And for that, I need his cooperation.
+[00:16:51.461 --> 00:16:54.341] CRUSHER: So he can participate in the destruction of his entire species.
+[00:16:54.341 --> 00:16:54.741] LAFORGE: Doctor.
+[00:16:54.981 --> 00:16:55.461] CRUSHER: I know,
+[00:16:55.461 --> 00:16:56.021] CRUSHER: I know.
+[00:16:56.421 --> 00:16:57.061] CRUSHER: We're at war.
+[00:16:59.461 --> 00:17:01.541] CRUSHER: I'm here to help but I don't have to like it.
+[00:17:03.141 --> 00:17:03.621] LAFORGE: Okay,
+[00:17:04.421 --> 00:17:06.261] LAFORGE: I think we're ready to transport him.
+[00:17:06.261 --> 00:17:09.381] LAFORGE: If he gives us any trouble, we can access the force field through that console.
+[00:17:09.381 --> 00:17:10.181] LAFORGE: Are you ready?
+[00:17:12.341 --> 00:17:13.781] LAFORGE: La Forge to transporter room three.
+[00:17:14.341 --> 00:17:14.901] LAFORGE: We're ready here.
+[00:17:15.621 --> 00:17:16.581] CREWMAN: We're standing by, Commander.
+[00:17:17.381 --> 00:17:18.101] LAFORGE: Energise.
+[00:17:41.061 --> 00:17:41.621] LAFORGE: Third of Five,
+[00:17:41.621 --> 00:17:42.581] LAFORGE: this is Doctor Crusher.
+[00:17:42.581 --> 00:17:43.381] LAFORGE: Doctor Crusher,
+[00:17:44.261 --> 00:17:45.701] LAFORGE: this is Third of Five.
+[00:17:46.341 --> 00:17:46.661] CRUSHER: Hello.
+[00:17:48.261 --> 00:17:49.221] BORG: What is a doctor?
+[00:17:50.261 --> 00:17:53.221] CRUSHER: A doctor heals the sick and repairs the injured.
+[00:17:54.741 --> 00:17:56.981] BORG: The sick and injured are reabsorbed.
+[00:17:57.701 --> 00:17:58.901] BORG: Others take their place.
+[00:18:00.181 --> 00:18:01.221] CRUSHER: That isn't what happen to you.
+[00:18:01.541 --> 00:18:02.901] CRUSHER: When we found you, you were dying.
+[00:18:03.861 --> 00:18:04.581] CRUSHER: I saved your life.
+[00:18:06.820 --> 00:18:07.140] BORG: Why?
+[00:18:07.860 --> 00:18:09.700] CRUSHER: It's my duty to help those who are hurt.
+[00:18:12.020 --> 00:18:12.900] BORG: You give us food.
+[00:18:14.740 --> 00:18:15.060] LAFORGE: Yeah.
+[00:18:15.620 --> 00:18:16.660] BORG: Is that your duty?
+[00:18:18.900 --> 00:18:19.460] LAFORGE: Yeah, that's right.
+[00:18:20.580 --> 00:18:21.700] LAFORGE: Listen, Third of Five,
+[00:18:21.700 --> 00:18:25.140] LAFORGE: Doctor Crusher here has repaired a lot of the damage to your biochip implants.
+[00:18:25.300 --> 00:18:27.540] LAFORGE: We want to run a few tests, make sure everything's working okay.
+[00:18:28.740 --> 00:18:29.300] BORG: Tests?
+[00:18:30.180 --> 00:18:33.780] CRUSHER: I'd like to show you a few diagrams and ask you some questions about them.
+[00:18:33.780 --> 00:18:34.900] CRUSHER: It's very simple really.
+[00:18:35.460 --> 00:18:36.900] BORG: You will be assimilated.
+[00:18:36.900 --> 00:18:40.260] LAFORGE: Yes, but before that happens, could we ask you a few questions?
+[00:18:43.700 --> 00:18:44.580] BORG: We will answer.
+[00:18:45.540 --> 00:18:45.940] LAFORGE: Terrific.
+[00:18:46.660 --> 00:18:48.980] LAFORGE: All right, hang on just a second here, Third of Five.
+[00:18:50.100 --> 00:18:51.380] BORG: What is your designation?
+[00:18:51.860 --> 00:18:52.500] LAFORGE: Designation?
+[00:18:53.460 --> 00:18:54.500] BORG: Third of Five.
+[00:18:55.380 --> 00:18:56.340] CRUSHER: You mean our names.
+[00:18:57.380 --> 00:18:58.900] CRUSHER: We don't have designations.
+[00:18:59.140 --> 00:18:59.860] CRUSHER: We have names.
+[00:19:00.900 --> 00:19:01.700] CRUSHER: I'm Beverly.
+[00:19:02.420 --> 00:19:03.060] CRUSHER: This is Geordi.
+[00:19:03.940 --> 00:19:05.060] BORG: Do I have a name?
+[00:19:05.620 --> 00:19:06.340] LAFORGE: Do you want one?
+[00:19:07.460 --> 00:19:07.860] BORG: A name.
+[00:19:09.700 --> 00:19:10.580] CRUSHER: I'm Beverly,
+[00:19:11.380 --> 00:19:13.060] CRUSHER: he's Geordi, and you.
+[00:19:14.260 --> 00:19:14.660] BORG: You
+[00:19:14.980 --> 00:19:15.540] CRUSHER: You
+[00:19:15.620 --> 00:19:15.780] LAFORGE: No, no,
+[00:19:15.780 --> 00:19:16.180] LAFORGE: wait a minute.
+[00:19:16.980 --> 00:19:17.300] LAFORGE: That's it.
+[00:19:18.420 --> 00:19:18.660] LAFORGE: Hugh.
+[00:19:20.180 --> 00:19:20.740] LAFORGE: What do you think?
+[00:19:22.180 --> 00:19:22.580] BORG: You.
+[00:19:23.060 --> 00:19:24.180] LAFORGE: No, not you.
+[00:19:24.820 --> 00:19:25.380] LAFORGE: Hugh.
+[00:19:28.420 --> 00:19:28.980] BORG: Hugh.
+[00:19:29.780 --> 00:19:30.260] CRUSHER: Okay.
+[00:19:30.420 --> 00:19:31.860] CRUSHER: Now, I'm Beverly.
+[00:19:33.140 --> 00:19:33.780] LAFORGE: I'm Geordi.
+[00:19:35.620 --> 00:19:36.420] BORG: We are Hugh.
+[00:19:46.509 --> 00:19:49.549] CRUSHER: Now imagine what this shape would look like if it were turned inside out.
+[00:19:56.109 --> 00:19:56.669] CRUSHER: Which one is it?
+[00:19:59.309 --> 00:19:59.709] BORG: This one.
+[00:20:00.349 --> 00:20:00.829] CRUSHER: That's right.
+[00:20:02.029 --> 00:20:02.909] CRUSHER: He's gotten every one.
+[00:20:03.629 --> 00:20:04.269] CRUSHER: Eight out of eight.
+[00:20:04.589 --> 00:20:07.309] CRUSHER: That blows the top right off the spatial-acuity percentiles.
+[00:20:07.709 --> 00:20:08.589] LAFORGE: It's the prosthetic eye.
+[00:20:09.469 --> 00:20:12.189] LAFORGE: It seems to be giving him very complex visual information.
+[00:20:12.909 --> 00:20:15.309] CRUSHER: Like some kind of holographic imaging system.
+[00:20:16.589 --> 00:20:17.309] LAFORGE: That could be helpful.
+[00:20:18.589 --> 00:20:21.629] LAFORGE: Hugh, I'd like to take a closer look at your eyepiece.
+[00:20:21.629 --> 00:20:22.029] LAFORGE: Is that okay?
+[00:20:25.149 --> 00:20:25.389] BORG: Here.
+[00:20:28.749 --> 00:20:29.229] LAFORGE: Thanks.
+[00:20:30.349 --> 00:20:33.549] BORG: When you are assimilated, you will have a similar device.
+[00:20:33.949 --> 00:20:36.349] CRUSHER: Hugh, do you understand
+[00:20:36.589 --> 00:20:38.109] CRUSHER: we don't want to be assimilated?
+[00:20:39.069 --> 00:20:40.269] BORG: Why do you resist us?
+[00:20:40.989 --> 00:20:43.069] CRUSHER: Because we don't want to live the way you do.
+[00:20:44.509 --> 00:20:45.709] BORG: Here it is quiet.
+[00:20:46.829 --> 00:20:48.109] BORG: There are no other voices.
+[00:20:49.469 --> 00:20:50.109] LAFORGE: Other voices?
+[00:20:51.149 --> 00:20:55.069] BORG: On a Borg ship we live with the thoughts of the others in our minds.
+[00:20:56.189 --> 00:20:58.349] BORG: Thousands of voices with us always.
+[00:21:00.749 --> 00:21:04.029] CRUSHER: I think what you're saying is that you're lonely.
+[00:21:06.057 --> 00:21:06.297] LAFORGE: Here.
+[00:21:12.057 --> 00:21:15.817] BORG: When you have completed these tests, what will be done with us?
+[00:21:21.737 --> 00:21:22.457] LAFORGE: We'll er,
+[00:21:24.057 --> 00:21:24.777] LAFORGE: we'll send you home.
+[00:21:27.497 --> 00:21:29.017] BORG: We will rejoin the Collective.
+[00:21:33.177 --> 00:21:35.177] LAFORGE: You
+[00:21:38.537 --> 00:21:39.097] LAFORGE: know, it's funny.
+[00:21:39.417 --> 00:21:42.217] LAFORGE: When I first creating this invasive programme I didn't have a problem with it.
+[00:21:43.017 --> 00:21:44.537] LAFORGE: The more I work with Hugh, the more I
+[00:21:46.217 --> 00:21:46.617] GUINAN: Hugh?
+[00:21:48.777 --> 00:21:51.657] LAFORGE: That's what we call him.
+[00:21:51.657 --> 00:21:52.617] GUINAN: You named the Borg?
+[00:21:52.937 --> 00:21:55.577] LAFORGE: Well, it was easier to have something to call him.
+[00:21:55.897 --> 00:21:58.057] GUINAN: Oh, so now you have a Borg named Hugh.
+[00:21:58.217 --> 00:21:58.537] LAFORGE: Right.
+[00:21:58.617 --> 00:22:01.017] LAFORGE: And he's nothing like what I expected.
+[00:22:02.537 --> 00:22:03.097] GUINAN: How so?
+[00:22:03.497 --> 00:22:04.217] LAFORGE: I don't know.
+[00:22:06.057 --> 00:22:11.257] LAFORGE: It's like he's just some kid who's far way from home.
+[00:22:12.297 --> 00:22:17.897] GUINAN: Do you know that you're the second person today to refer to that Borg as though it were some sort of lost child.
+[00:22:19.657 --> 00:22:21.577] LAFORGE: Anyway, I'm having second thoughts about what we're doing here.
+[00:22:22.137 --> 00:22:27.497] LAFORGE: I mean, programming him like some sort of walking bomb. Sending him back to destroy the others.
+[00:22:27.897 --> 00:22:28.937] GUINAN: Let me tell you something.
+[00:22:30.697 --> 00:22:35.657] GUINAN: When that kid's big brothers come looking for him, they're not going to stop until they find him.
+[00:22:37.257 --> 00:22:38.937] GUINAN: And then they're going to come looking for us, and
+[00:22:39.424 --> 00:22:46.144] GUINAN: they will destroy us. And they will not do any of the soul-searching that you are apparently doing right now.
+[00:22:46.384 --> 00:22:47.984] LAFORGE: Then why don't you go and talk to him.
+[00:22:48.224 --> 00:22:49.973] LAFORGE: It might not be so clear cut then.
+[00:22:49.973 --> 00:22:51.504] GUINAN: Because I wouldn't have anything to say.
+[00:22:59.584 --> 00:23:00.944] LAFORGE: Then why don't you just listen?
+[00:23:01.824 --> 00:23:02.864] LAFORGE: That is what you do best, isn't it?
+[00:23:15.424 --> 00:23:16.624] PICARD: What is it, Number One?
+[00:23:16.704 --> 00:23:19.344] RIKER: We've picked up a vessel on the long range scanners, headed this way.
+[00:23:21.024 --> 00:23:21.392] PICARD: Analysis.
+[00:23:21.392 --> 00:23:24.704] DATA: The vessel is traveling at warp seven point six.
+[00:23:24.704 --> 00:23:27.664] DATA: Mass two point five million metric tons.
+[00:23:28.064 --> 00:23:28.864] DATA: Configuration,
+[00:23:30.384 --> 00:23:30.584] DATA: cubical.
+[00:23:30.584 --> 00:23:30.784] RIKER: The
+[00:23:31.824 --> 00:23:32.224] RIKER: Borg.
+[00:23:33.504 --> 00:23:36.784] DATA: Its dimensions indicate that it is a scout ship similar to the one that crashed.
+[00:23:37.424 --> 00:23:40.624] DATA: Interference from the star's radiation will shield us from their sensors.
+[00:23:41.184 --> 00:23:43.184] DATA: We should remain undetected until they enter the system.
+[00:23:43.664 --> 00:23:44.384] PICARD: How long do we have?
+[00:23:46.144 --> 00:23:49.184] DATA: At present speed they will arrive in thirty one hours seven minutes.
+[00:23:49.184 --> 00:23:51.264] GUINAN: You don't
+[00:23:54.624 --> 00:23:54.944] GUINAN: look so
+[00:24:05.664 --> 00:24:06.064] GUINAN: tough.
+[00:24:13.689 --> 00:24:14.249] BORG: We are Borg.
+[00:24:17.129 --> 00:24:18.809] GUINAN: Aren't you going to tell me you have to assimilate me?
+[00:24:19.929 --> 00:24:21.289] BORG: You wish to be assimilated?
+[00:24:21.689 --> 00:24:22.729] GUINAN: No, but that's what you
+[00:24:24.249 --> 00:24:25.209] GUINAN: things do, isn't it?
+[00:24:28.249 --> 00:24:29.369] GUINAN: Resistance is futile.
+[00:24:30.889 --> 00:24:32.569] BORG: Resistance is futile.
+[00:24:35.209 --> 00:24:35.769] GUINAN: It isn't.
+[00:24:36.489 --> 00:24:42.169] GUINAN: My people resisted when the Borg came to assimilate us.
+[00:24:44.089 --> 00:24:45.289] GUINAN: Some of us survived.
+[00:24:46.569 --> 00:24:49.129] BORG: Resistance is not futile?
+[00:24:49.929 --> 00:24:54.649] GUINAN: No. But thanks to you, there are very few of us left.
+[00:24:56.649 --> 00:24:58.569] GUINAN: We're scattered throughout the galaxy.
+[00:25:01.049 --> 00:25:02.409] GUINAN: We don't even have a home any more.
+[00:25:06.009 --> 00:25:06.649] BORG: What you are saying
+[00:25:08.249 --> 00:25:09.129] BORG: is that you are lonely.
+[00:25:10.489 --> 00:25:10.569] GUINAN: What?
+[00:25:11.929 --> 00:25:12.969] BORG: You have no others.
+[00:25:14.649 --> 00:25:15.209] BORG: You have no home.
+[00:25:18.969 --> 00:25:19.289] BORG: We
+[00:25:20.809 --> 00:25:21.769] BORG: are also lonely.
+[00:25:35.529 --> 00:25:38.409] BORG: What is Geordi doing?
+[00:25:39.219 --> 00:25:42.259] LAFORGE: I'm studying the components in your prosthesis.
+[00:25:43.299 --> 00:25:45.299] BORG: Why?
+[00:25:45.299 --> 00:25:48.419] LAFORGE: We're trying to learn more about you.
+[00:25:50.339 --> 00:25:50.659] BORG: Why?
+[00:25:52.899 --> 00:25:55.539] LAFORGE: Because you're different than we are.
+[00:25:56.739 --> 00:25:59.859] LAFORGE: Part of what we do is to learn more about other species.
+[00:26:00.419 --> 00:26:04.659] BORG: We assimilate species. Then we know everything about them.
+[00:26:06.739 --> 00:26:07.059] LAFORGE: Yeah.
+[00:26:08.579 --> 00:26:08.739] LAFORGE: I
+[00:26:10.259 --> 00:26:12.259] LAFORGE: know.
+[00:26:14.579 --> 00:26:15.779] BORG: Is that not easier?
+[00:26:17.139 --> 00:26:17.859] LAFORGE: Maybe it is.
+[00:26:17.859 --> 00:26:19.219] LAFORGE: It's just not what we do.
+[00:26:20.819 --> 00:26:21.139] BORG: Why?
+[00:26:23.939 --> 00:26:24.179] LAFORGE: All right,
+[00:26:25.939 --> 00:26:26.739] LAFORGE: think of it this way.
+[00:26:27.619 --> 00:26:30.899] LAFORGE: Every time you talk about yourself, you use the word we.
+[00:26:30.979 --> 00:26:32.019] LAFORGE: We want this,
+[00:26:32.019 --> 00:26:32.899] LAFORGE: we want that.
+[00:26:33.459 --> 00:26:36.819] LAFORGE: You don't even know how to think of yourself as a single individual.
+[00:26:36.899 --> 00:26:40.259] LAFORGE: You don't say, I want this, or I am Hugh.
+[00:26:41.459 --> 00:26:45.379] LAFORGE: We are all separate individuals.
+[00:26:45.619 --> 00:26:47.379] LAFORGE: I am Geordi.
+[00:26:47.539 --> 00:26:49.459] LAFORGE: I choose what I want to do with my life.
+[00:26:49.539 --> 00:26:51.459] LAFORGE: I make decisions for myself.
+[00:26:52.419 --> 00:26:56.979] LAFORGE: For somebody like me, losing that sense of individuality is almost worse than dying.
+[00:26:58.339 --> 00:27:02.099] BORG: When you sleep, there are no other voices in your mind?
+[00:27:03.059 --> 00:27:03.619] LAFORGE: No.
+[00:27:07.619 --> 00:27:08.179] BORG: Are you ever
+[00:27:09.779 --> 00:27:10.339] BORG: lonely?
+[00:27:11.312 --> 00:27:12.112] LAFORGE: Sometimes.
+[00:27:14.032 --> 00:27:15.152] LAFORGE: But that's why we have friends.
+[00:27:16.512 --> 00:27:17.032] BORG: Friends?
+[00:27:17.032 --> 00:27:17.552] LAFORGE: Sure.
+[00:27:18.112 --> 00:27:21.712] LAFORGE: Someone you talk to, who will be with you when you're lonely.
+[00:27:22.752 --> 00:27:23.232] LAFORGE: Someone
+[00:27:25.392 --> 00:27:26.512] LAFORGE: who makes you feel better.
+[00:27:29.712 --> 00:27:30.352] BORG: Like Geordi
+[00:27:31.952 --> 00:27:32.432] BORG: and Hugh.
+[00:27:37.152 --> 00:27:37.952] LAFORGE: That's it, Captain.
+[00:27:38.752 --> 00:27:39.552] PICARD: It looks harmless enough.
+[00:27:39.952 --> 00:27:41.712] LAFORGE: We had to disguise it as something innocuous.
+[00:27:41.712 --> 00:27:44.032] LAFORGE: The Borg have ways of screening out programme anomalies.
+[00:27:44.752 --> 00:27:47.472] PICARD: How can a geometric form disable a computer system?
+[00:27:47.872 --> 00:27:49.072] DATA: The shape is a paradox, sir.
+[00:27:49.472 --> 00:27:51.712] DATA: It cannot exist in real space or time.
+[00:27:52.272 --> 00:27:55.152] LAFORGE: When Hugh's imaging apparatus imprints this on his biochips,
+[00:27:55.552 --> 00:27:56.432] LAFORGE: he'll try to analyse it.
+[00:27:56.832 --> 00:28:00.352] DATA: He will be unsuccessful, and will store the shape in his memory banks.
+[00:28:00.832 --> 00:28:03.312] DATA: It will be shunted to a subroutine for further analysis.
+[00:28:03.552 --> 00:28:07.232] LAFORGE: Then when the Borg download his memory, it'll be incorporated it into their network,
+[00:28:07.232 --> 00:28:08.832] LAFORGE: then they'll try to analyse it.
+[00:28:09.152 --> 00:28:12.672] DATA: It is designed so that each approach they take will spawn an anomalous solution.
+[00:28:13.072 --> 00:28:18.192] DATA: The anomalies are designed to interact with each other, linking together to form an endless and unsolvable puzzle.
+[00:28:19.072 --> 00:28:19.712] PICARD: Quite original.
+[00:28:20.672 --> 00:28:22.272] PICARD: How long before a total systems failure?
+[00:28:22.672 --> 00:28:25.552] LAFORGE: Not until the shape has gone through several hundred computational cycles.
+[00:28:26.192 --> 00:28:27.152] PICARD: When can you begin the process?
+[00:28:27.472 --> 00:28:28.752] LAFORGE: About another twenty hours.
+[00:28:28.992 --> 00:28:31.152] LAFORGE: Doctor Crusher wants to make sure the new implants have taken hold.
+[00:28:31.552 --> 00:28:31.872] PICARD: Very well.
+[00:28:32.912 --> 00:28:33.792] PICARD: Begin as soon as you're ready.
+[00:28:35.712 --> 00:28:36.032] LAFORGE: Captain.
+[00:28:38.992 --> 00:28:40.832] LAFORGE: I have to admit I've been having second thoughts about this plan.
+[00:28:42.832 --> 00:28:43.312] PICARD: In what way?
+[00:28:43.833 --> 00:28:44.153] LAFORGE: Well,
+[00:28:45.913 --> 00:28:48.313] LAFORGE: I've been getting to know him. The Borg.
+[00:28:50.793 --> 00:28:51.113] PICARD: I see.
+[00:28:52.553 --> 00:28:53.833] LAFORGE: He's not what I expected, Captain.
+[00:28:54.473 --> 00:28:55.433] LAFORGE: He's got feelings.
+[00:28:56.233 --> 00:28:57.113] LAFORGE: He's homesick.
+[00:28:59.753 --> 00:29:00.393] LAFORGE: I don't know.
+[00:29:01.113 --> 00:29:02.473] LAFORGE: It just doesn't seem right using him this way.
+[00:29:03.753 --> 00:29:09.593] PICARD: Centuries ago, when laboratory animals were used for experiments, scientists would sometimes become attached to the creatures.
+[00:29:10.553 --> 00:29:13.193] PICARD: This would a problem if the experiment involved killing them.
+[00:29:14.873 --> 00:29:17.993] PICARD: I would suggest that you unattach yourself from the Borg, Mister La Forge.
+[00:29:22.393 --> 00:29:22.713] LAFORGE: Aye,
+[00:29:26.393 --> 00:29:26.553] LAFORGE: Captain.
+[00:29:35.273 --> 00:29:37.353] PICARD: Guinan. Please, come in.
+[00:29:38.153 --> 00:29:41.513] GUINAN: Are you sure? You look like you're preparing for a quiet evening.
+[00:29:41.833 --> 00:29:43.113] PICARD: No, I'm delighted to see you.
+[00:29:43.353 --> 00:29:44.313] PICARD: Can I get you something to drink?
+[00:29:44.793 --> 00:29:45.273] GUINAN: No, thank you.
+[00:29:47.513 --> 00:29:54.393] GUINAN: I was thinking about how you said the other day that my foil was dipping. That I should get some exercise and strengthen my arm.
+[00:29:56.393 --> 00:29:59.273] PICARD: Well. a strong forearm is certainly an advantage in fencing.
+[00:30:00.473 --> 00:30:01.193] GUINAN: And bartending.
+[00:30:03.593 --> 00:30:04.713] GUINAN: About the Borg.
+[00:30:06.553 --> 00:30:08.233] GUINAN: Aren't you the least bit surprised by him?
+[00:30:09.833 --> 00:30:10.553] PICARD: Surprised?
+[00:30:10.873 --> 00:30:11.833] GUINAN: Did you know he has a name?
+[00:30:12.553 --> 00:30:13.513] GUINAN: La Forge gave it to him.
+[00:30:14.953 --> 00:30:17.433] GUINAN: His name's Hugh. And he's lonely.
+[00:30:19.186 --> 00:30:20.466] GUINAN: I don't know what made me go see him.
+[00:30:21.026 --> 00:30:22.866] GUINAN: La Forge said I should, but I said no.
+[00:30:23.826 --> 00:30:26.786] GUINAN: And suddenly there I was standing there, staring at him.
+[00:30:28.786 --> 00:30:33.026] GUINAN: I thought it was just curiosity. Just curious.
+[00:30:38.946 --> 00:30:43.346] GUINAN: I need to hear you say that you are sure you're doing the right thing.
+[00:30:45.586 --> 00:30:49.060] PICARD: If you're here to persuade me not to use the invasive programme.
+[00:30:49.060 --> 00:30:51.666] GUINAN: No. I think I need you to persuade me.
+[00:30:52.866 --> 00:30:57.586] PICARD: Two days ago, you were so upset about the Borg even being on the ship that you tore my foil out of my hand.
+[00:30:59.346 --> 00:31:03.506] PICARD: And now you're here questioning whether it should be treated as the enemy.
+[00:31:03.986 --> 00:31:08.866] GUINAN: No. But when you talk to him face to face, can you honestly say you don't have any doubt?
+[00:31:09.346 --> 00:31:10.066] PICARD: I haven't talked to it.
+[00:31:10.706 --> 00:31:11.026] GUINAN: Why not?
+[00:31:12.386 --> 00:31:13.026] PICARD: I saw no need.
+[00:31:13.826 --> 00:31:15.251] GUINAN: If you're going to use this person
+[00:31:15.251 --> 00:31:16.066] PICARD: It's not a person,
+[00:31:16.066 --> 00:31:17.026] PICARD: damn it, it's a Borg!
+[00:31:18.706 --> 00:31:30.866] GUINAN: If you are going to use this person to destroy his race, you should at least look him in the eye once before you do it. Because I am not sure he is still a Borg.
+[00:31:32.786 --> 00:31:36.546] PICARD: Because it's been given a name by a member of my crew doesn't mean it's not a Borg.
+[00:31:36.946 --> 00:31:39.026] PICARD: Because it's young doesn't mean that it's innocent.
+[00:31:39.986 --> 00:31:44.226] PICARD: It is what it is, and in spite of efforts to turn it into some kind of pet
+[00:31:45.586 --> 00:31:46.946] PICARD: I will not alter my plans.
+[00:31:49.956 --> 00:31:50.196] GUINAN: Fine.
+[00:31:52.276 --> 00:31:58.436] GUINAN: But if you don't talk to him at least once, you may find that decision a harder to live with than you realise.
+[00:32:10.356 --> 00:32:11.316] WORF: Worf to Captain Picard.
+[00:32:12.036 --> 00:32:12.756] PICARD: Yes, Lieutenant.
+[00:32:13.396 --> 00:32:14.436] WORF: We are ready to transport.
+[00:32:19.076 --> 00:32:21.076] PICARD: Proceed.
+[00:32:34.596 --> 00:32:34.996] PICARD: Lieutenant,
+[00:32:34.996 --> 00:32:35.716] PICARD: you may wait outside.
+[00:32:43.716 --> 00:32:44.436] BORG: Locutus.
+[00:32:51.396 --> 00:32:51.876] PICARD: Yes.
+[00:32:54.996 --> 00:32:59.716] PICARD: I am Locutus of Borg.
+[00:32:59.716 --> 00:33:00.516] BORG: Why are you here?
+[00:33:01.876 --> 00:33:03.156] PICARD: This is a primitive culture.
+[00:33:04.916 --> 00:33:07.796] PICARD: I am here to facilitate its incorporation.
+[00:33:08.756 --> 00:33:09.716] PICARD: Identify yourself.
+[00:33:11.636 --> 00:33:12.116] BORG: Hugh.
+[00:33:12.116 --> 00:33:14.596] PICARD: Identify yourself.
+[00:33:18.036 --> 00:33:18.836] BORG: We are Hugh.
+[00:33:19.585 --> 00:33:21.345] PICARD: This is not a Borg identification.
+[00:33:25.025 --> 00:33:26.225] BORG: Third of Five.
+[00:33:27.585 --> 00:33:29.105] PICARD: This culture will be assimilated.
+[00:33:31.345 --> 00:33:32.225] BORG: They do not wish it.
+[00:33:33.345 --> 00:33:33.905] PICARD: Irrelevant.
+[00:33:35.985 --> 00:33:37.025] BORG: They will resist us.
+[00:33:38.145 --> 00:33:39.265] PICARD: Resistance is futile.
+[00:33:42.305 --> 00:33:45.025] BORG: Resistance is not futile.
+[00:33:47.585 --> 00:33:48.705] BORG: Some have escaped.
+[00:33:49.265 --> 00:33:50.145] PICARD: They will be found.
+[00:33:50.945 --> 00:33:51.665] PICARD: It is inevitable.
+[00:33:53.345 --> 00:33:54.625] PICARD: All will be assimilated.
+[00:33:57.585 --> 00:33:59.185] BORG: Must Geordi be assimilated?
+[00:33:59.825 --> 00:34:00.225] PICARD: Yes.
+[00:34:02.305 --> 00:34:03.345] BORG: He does not wish it.
+[00:34:09.825 --> 00:34:12.145] BORG: He would rather die than be assimilated.
+[00:34:12.625 --> 00:34:13.425] PICARD: Then he will die.
+[00:34:16.465 --> 00:34:16.785] BORG: No.
+[00:34:17.265 --> 00:34:20.145] BORG: Geordi must not die.
+[00:34:22.065 --> 00:34:23.585] BORG: Geordi is a friend.
+[00:34:24.385 --> 00:34:26.385] PICARD: You will assist us to assimilate this vessel.
+[00:34:31.665 --> 00:34:32.785] PICARD: You are Borg.
+[00:34:33.025 --> 00:34:34.065] PICARD: You will assist us.
+[00:34:35.985 --> 00:34:36.705] BORG: I will not.
+[00:34:38.145 --> 00:34:38.625] PICARD: What did you say?
+[00:34:41.505 --> 00:34:43.665] BORG: I will not assist you.
+[00:34:44.465 --> 00:34:44.785] PICARD: I?
+[00:34:45.905 --> 00:34:47.425] BORG: Geordi must not be assimilated.
+[00:34:49.105 --> 00:34:50.225] PICARD: But you are Borg.
+[00:34:53.780 --> 00:34:54.020] BORG: No.
+[00:34:56.260 --> 00:34:57.140] BORG: I am Hugh.
+[00:35:06.660 --> 00:35:11.700] PICARD: I think I deliberately avoided speaking with the Borg because I didn't want anything to get in the way of our plan.
+[00:35:13.140 --> 00:35:14.340] PICARD: But now that I have,
+[00:35:16.580 --> 00:35:20.420] PICARD: he seems to be a fully realised
+[00:35:22.020 --> 00:35:22.580] PICARD: individual.
+[00:35:23.700 --> 00:35:27.540] PICARD: He has even accepted me as Picard, Captain of this ship, and not as Locutus.
+[00:35:27.540 --> 00:35:28.660] LAFORGE: So you've reconsidered the plan?
+[00:35:28.980 --> 00:35:29.460] PICARD: Yes.
+[00:35:30.100 --> 00:35:35.940] PICARD: To use him in this manner, we'd be no better than the enemy that we seek to destroy.
+[00:35:38.100 --> 00:35:40.020] PICARD: So, I want other options.
+[00:35:40.580 --> 00:35:42.100] RIKER: We could return him to the crash site.
+[00:35:42.500 --> 00:35:44.820] RIKER: We'd have to remove his memory of being on the Enterprise.
+[00:35:45.300 --> 00:35:49.460] CRUSHER: But if we erase his memory, who he is or who he has become would be destroyed.
+[00:35:49.940 --> 00:35:50.580] RIKER: Isn't that the point?
+[00:35:50.820 --> 00:35:52.980] RIKER: He'd be reassimilated into the hive without any questions.
+[00:35:53.220 --> 00:35:56.260] LAFORGE: Does that seems right, to help him become an individual and then take that away from him?
+[00:35:57.940 --> 00:36:01.060] CRUSHER: Is there any danger that the Borg might destroy him if they find out what's happened?
+[00:36:01.460 --> 00:36:01.940] PICARD: I doubt it.
+[00:36:02.340 --> 00:36:03.220] PICARD: There'd be nothing to gain.
+[00:36:03.620 --> 00:36:06.900] PICARD: It's more likely that they would simply wipe out his memory of those experiences.
+[00:36:07.380 --> 00:36:09.140] RIKER: Then either way, his memory would have been erased.
+[00:36:10.420 --> 00:36:14.580] PICARD: But perhaps in that short time before they purge his memory,
+[00:36:17.060 --> 00:36:20.420] PICARD: the sense of individuality which he has gained here
+[00:36:21.896 --> 00:36:24.376] PICARD: might be transmitted throughout the entire Borg Collective.
+[00:36:26.056 --> 00:36:29.736] PICARD: Every one of the Borg being given the opportunity to experience the feeling
+[00:36:32.296 --> 00:36:33.256] PICARD: of singularity.
+[00:36:36.616 --> 00:36:38.856] PICARD: Perhaps that's the most pernicious programme of all.
+[00:36:41.576 --> 00:36:47.976] PICARD: The knowledge of self being spread throughout the Collective, in that brief moment,
+[00:36:49.896 --> 00:36:50.856] PICARD: might alter them forever.
+[00:36:55.416 --> 00:36:56.776] PICARD: We leave his memory intact.
+[00:36:58.216 --> 00:36:59.016] CRUSHER: I have a question.
+[00:37:00.936 --> 00:37:02.536] CRUSHER: What if he doesn't want to go back?
+[00:37:15.896 --> 00:37:16.296] LAFORGE: Hello, Hugh.
+[00:37:17.336 --> 00:37:17.896] BORG: Hello, Geordi.
+[00:37:19.096 --> 00:37:22.056] PICARD: Hugh, a Borg rescue vessel is approaching.
+[00:37:22.216 --> 00:37:23.416] PICARD: It will be here within three hours.
+[00:37:24.776 --> 00:37:29.576] PICARD: We can return you to the crash site, where they will find you and take then you home.
+[00:37:30.696 --> 00:37:32.696] PICARD: Or, if you wish, you can stay here with us.
+[00:37:34.456 --> 00:37:36.696] BORG: What I wish is irrelevant.
+[00:37:37.576 --> 00:37:38.536] LAFORGE: It's not irrelevant, Hugh.
+[00:37:39.736 --> 00:37:40.616] LAFORGE: It matters to us.
+[00:37:41.176 --> 00:37:42.856] BORG: No Borg leaves the Collective.
+[00:37:43.896 --> 00:37:45.896] BORG: If they find I am missing, they will come for me.
+[00:37:47.016 --> 00:37:49.176] PICARD: Well, we'll deal with the repercussions later.
+[00:37:49.736 --> 00:37:51.416] PICARD: We must know what you want.
+[00:37:52.376 --> 00:37:53.336] BORG: You are many,
+[00:37:53.661 --> 00:37:54.381] BORG: I am one.
+[00:37:57.341 --> 00:37:58.861] BORG: What I want is not important.
+[00:37:59.341 --> 00:38:00.141] LAFORGE: Don't you understand, Hugh?
+[00:38:00.141 --> 00:38:01.261] LAFORGE: We're giving you a choice.
+[00:38:04.141 --> 00:38:04.781] BORG: Choice?
+[00:38:05.581 --> 00:38:06.541] LAFORGE: Yes, a choice.
+[00:38:07.421 --> 00:38:08.621] LAFORGE: Do you want to go back with the Borg
+[00:38:08.621 --> 00:38:10.381] LAFORGE: or stay with us?
+[00:38:11.741 --> 00:38:12.621] BORG: I could stay with you?
+[00:38:13.421 --> 00:38:14.701] PICARD: We could grant you asylum, Hugh.
+[00:38:21.341 --> 00:38:21.901] BORG: Choose
+[00:38:23.021 --> 00:38:23.901] BORG: what I want?
+[00:38:27.661 --> 00:38:31.181] BORG: I would choose to stay with Geordi,
+[00:38:36.301 --> 00:38:37.421] BORG: but it is too dangerous.
+[00:38:39.021 --> 00:38:39.741] BORG: They will follow.
+[00:38:43.981 --> 00:38:45.181] BORG: Return me to the crash site.
+[00:38:46.941 --> 00:38:47.821] BORG: It is the only way.
+[00:38:49.021 --> 00:38:49.261] LAFORGE: Hugh,
+[00:38:50.861 --> 00:38:51.661] LAFORGE: think about this.
+[00:38:54.221 --> 00:38:54.621] LAFORGE: Are you sure?
+[00:38:57.421 --> 00:38:57.821] BORG: Yes.
+[00:38:57.971 --> 00:38:58.571] PICARD: The
+[00:39:09.421 --> 00:39:12.701] PICARD: Borg ship will enter orbit in one hour.
+[00:39:13.261 --> 00:39:14.141] PICARD: You'll soon be headed home.
+[00:39:16.461 --> 00:39:19.261] PICARD: We'll beam him down and then we'll take up a position in the star's chromosphere.
+[00:39:19.711 --> 00:39:21.551] PICARD: The interference will hide us from their sensors.
+[00:39:24.031 --> 00:39:24.671] CRUSHER: Goodbye, Hugh.
+[00:39:26.111 --> 00:39:27.231] CRUSHER: It was nice getting to know you.
+[00:39:28.111 --> 00:39:28.911] BORG: Goodbye, Beverly.
+[00:39:30.751 --> 00:39:32.095] BORG: You saved my life.
+[00:39:32.095 --> 00:39:32.431] LAFORGE: Hugh,
+[00:39:33.711 --> 00:39:34.591] LAFORGE: it's not too late to change your
+[00:39:37.951 --> 00:39:38.191] LAFORGE: mind.
+[00:39:38.191 --> 00:39:38.911] BORG: I must return.
+[00:39:41.631 --> 00:39:41.951] LAFORGE: Captain,
+[00:39:42.511 --> 00:39:45.231] LAFORGE: I'd like to go down with him.
+[00:39:45.311 --> 00:39:47.311] PICARD: My experience suggests that they would ignore him.
+[00:39:47.311 --> 00:39:47.871] PICARD: Would you agree?
+[00:39:48.431 --> 00:39:51.711] BORG: The Borg assimilate civilisations, not individuals.
+[00:39:52.271 --> 00:39:53.631] CRUSHER: But, Captain, they kidnapped you.
+[00:39:54.191 --> 00:39:59.551] PICARD: Because they needed a liaison to communicate with humans. They ignored every away team we sent to their ship, including yours, Doctor.
+[00:40:00.191 --> 00:40:00.911] PICARD: You may accompany him.
+[00:40:09.871 --> 00:40:10.191] PICARD: Goodbye.
+[00:40:11.951 --> 00:40:12.351] BORG: Captain,
+[00:40:13.711 --> 00:40:15.471] BORG: I do not want to forget that I am Hugh.
+[00:40:19.631 --> 00:40:20.111] PICARD: Energise.
+[00:40:37.711 --> 00:40:40.346] LAFORGE: We found you there, in the middle of that debris.
+[00:40:40.346 --> 00:40:42.191] BORG: Then that is where I will wait.
+[00:40:54.085 --> 00:40:55.125] DATA: We are now entering position.
+[00:40:55.925 --> 00:40:57.125] DATA: Radiation levels are rising.
+[00:40:57.765 --> 00:40:58.725] PICARD: Increase power to the shields.
+[00:40:59.845 --> 00:41:00.245] PICARD: Hold us here.
+[00:41:00.965 --> 00:41:01.845] RIKER: Status of the Borg ship?
+[00:41:02.885 --> 00:41:05.205] DATA: Solar radiation is rendering our sensors inoperable.
+[00:41:05.845 --> 00:41:10.325] DATA: At last known course and speed, the Borg vessel should enter the system in three minutes.
+[00:41:14.325 --> 00:41:15.125] LAFORGE: Well, I guess this is it, huh?
+[00:41:18.885 --> 00:41:19.285] LAFORGE: So long, Hugh.
+[00:41:20.485 --> 00:41:20.885] BORG: Goodbye, Geordi.
+[00:41:22.885 --> 00:41:24.085] BORG: I will try to remember you.
+[00:42:44.000 --> 00:43:07.000] [music]
+[00:43:08.000 --> 00:43:45.000] [music]

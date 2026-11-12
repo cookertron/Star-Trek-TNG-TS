@@ -1,0 +1,668 @@
+[00:00:02.320 --> 00:00:05.200] LOG: Captain's log, Stardate 44143.7.
+[00:00:05.680 --> 00:00:11.440] LOG: We have moved into Sector two one nine four seven in response to a distress call from a Talarian observation craft.
+[00:00:11.440 --> 00:00:19.360] LOG: The alien vessel appears adrift, and our initial scans have detected a life-threatening radiation leak within its propulsion system.
+[00:00:20.560 --> 00:00:22.160] WORF: I get no further response from the vessel.
+[00:00:23.040 --> 00:00:23.840] PICARD: Maintain an open channel.
+[00:00:24.480 --> 00:00:26.800] RIKER: Doctor Crusher and her assistants are waiting in Transporter room three.
+[00:00:27.440 --> 00:00:36.173] DATA: Sir, may I remind you that during the Galen border conflict, it was a common tactic of the Talarians was to abandon their observation craft, rig them to self destruct
+[00:00:36.173 --> 00:00:37.920] PICARD: And issue a general distress call.
+[00:00:37.920 --> 00:00:38.720] PICARD: Yes, Mister Data, I know.
+[00:00:39.840 --> 00:00:44.640] DATA: That particular guerrilla manoeuvre resulted in two hundred and nineteen fatalities over a three day period.
+[00:00:44.960 --> 00:00:47.040] RIKER: Is there any way to detect their self-destruct device?
+[00:00:47.200 --> 00:00:47.760] DATA: Negative, sir.
+[00:00:48.400 --> 00:00:51.360] DATA: The Talarians employ a subspace proximity detonator.
+[00:00:51.840 --> 00:00:53.520] DATA: It is not detectable by our scans.
+[00:00:53.760 --> 00:00:55.200] RIKER: Or the away team's tricorders.
+[00:00:55.440 --> 00:00:55.680] RIKER: Right.
+[00:00:57.440 --> 00:01:01.600] WORF: Captain, the Talarian warship the Q'Maire is responding to the distress call.
+[00:01:01.920 --> 00:01:02.213] PICARD: Position?
+[00:01:02.213 --> 00:01:03.680] WORF: Halfway through the Woden sector.
+[00:01:04.160 --> 00:01:06.720] WESLEY: It'll take them hours to get here, sir, even at maximum warp.
+[00:01:07.280 --> 00:01:07.600] PICARD: Counsellor?
+[00:01:07.600 --> 00:01:10.160] TROI: There is life on board, but it's fading.
+[00:01:12.160 --> 00:01:13.840] PICARD: Number One, assemble the rest of your away team.
+[00:01:13.920 --> 00:01:15.120] PICARD: Prepare for immediate rescue operations.
+[00:01:15.440 --> 00:01:15.760] RIKER: Yes, sir.
+[00:01:38.377 --> 00:01:39.737] WORF: Ancillary power is failing.
+[00:01:39.737 --> 00:01:40.777] CRUSHER: They're
+[00:01:55.417 --> 00:01:56.537] CRUSHER: nothing more than children.
+[00:01:57.417 --> 00:01:59.897] RIKER: I am Commander Riker of the Federation Starship Enterprise.
+[00:02:00.297 --> 00:02:02.137] RIKER: We will evacuate you and give you medical care.
+[00:02:02.217 --> 00:02:03.497] RIKER: You will not be harmed.
+[00:02:03.977 --> 00:02:04.537] CRUSHER: Enterprise,
+[00:02:05.257 --> 00:02:08.297] CRUSHER: prepping five Talarian males for transport directly to Sickbay.
+[00:02:08.697 --> 00:02:10.297] CRUSHER: Trauma team, stand by to receive injured.
+[00:02:10.297 --> 00:02:13.017] CRUSHER: We have radiation burns and possible respiratory distress.
+[00:02:13.017 --> 00:02:14.617] CHIEF: Transport locked in and ready, Doctor.
+[00:02:15.017 --> 00:02:16.137] CRUSHER: Stand by for my orders.
+[00:02:16.537 --> 00:02:18.537] RIKER: Captain, this appears to be a basic training ship.
+[00:02:19.897 --> 00:02:22.137] RIKER: Five boys, all teens, all wearing uniforms.
+[00:02:23.097 --> 00:02:24.217] PICARD: Proceed with the evacuation,
+[00:02:24.217 --> 00:02:24.617] PICARD: Number One.
+[00:02:26.297 --> 00:02:27.497] WORF: No other life signs aboard, sir.
+[00:02:27.737 --> 00:02:28.617] CRUSHER: Commander, quickly.
+[00:02:29.817 --> 00:02:30.137] RIKER: What is it?
+[00:02:30.377 --> 00:02:31.577] CRUSHER: This boy. He's human.
+[00:03:04.751 --> 00:03:07.471] PICARD: Space, the final frontier.
+[00:03:09.391 --> 00:03:12.271] PICARD: These are the voyages of the starship Enterprise.
+[00:03:13.391 --> 00:03:21.311] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:22.991 --> 00:03:25.871] PICARD: to boldly go where no one has gone before.
+[00:03:57.000 --> 00:04:06.000] [music]
+[00:04:15.000 --> 00:04:25.000] [music]
+[00:04:24.313 --> 00:04:25.593] LOG: Captain's log, supplemental.
+[00:04:25.913 --> 00:04:30.633] LOG: We have completed emergency evacuation of four Talarians and one human.
+[00:04:31.273 --> 00:04:34.873] LOG: How this young man found himself in the company of these aliens remains a mystery.
+[00:04:36.953 --> 00:04:37.753] CRUSHER: It's Jono, right?
+[00:04:38.313 --> 00:04:39.273] CRUSHER: Is that what I heard them call you?
+[00:04:40.313 --> 00:04:41.033] CRUSHER: I'm Doctor Crusher.
+[00:04:41.753 --> 00:04:43.753] CRUSHER: I'm just examining you for radiation injuries.
+[00:04:43.913 --> 00:04:44.553] CRUSHER: It won't hurt.
+[00:04:46.393 --> 00:04:48.073] CRUSHER: I have a son not much older than you.
+[00:04:48.073 --> 00:04:49.033] CRUSHER: Perhaps you'd like to meet him.
+[00:04:56.073 --> 00:04:59.513] CRUSHER: Well, Jono, you seem to have escaped radiation damage.
+[00:04:59.833 --> 00:05:00.553] CRUSHER: Pretty lucky.
+[00:05:00.553 --> 00:05:01.273] NURSE: Doctor Crusher.
+[00:05:05.513 --> 00:05:06.473] CRUSHER: Now how did this happen?
+[00:05:07.193 --> 00:05:07.273] CRUSHER: What
+[00:05:10.953 --> 00:05:11.113] CRUSHER: is it?
+[00:05:15.513 --> 00:05:16.713] TROI: They're terrified.
+[00:05:17.753 --> 00:05:25.433] CRUSHER: They all just started up.
+[00:05:25.433 --> 00:05:26.473] PICARD: Please may I have your attention.
+[00:05:30.233 --> 00:05:32.313] PICARD: Please may
+[00:05:37.593 --> 00:05:39.993] PICARD: I have your attention!
+[00:05:40.276 --> 00:05:41.694] PICARD: Stop that immediately!
+[00:05:41.978 --> 00:05:43.273] PICARD: Well, that's better.
+[00:05:45.193 --> 00:05:46.233] PICARD: Now, what's your name, young man?
+[00:05:49.513 --> 00:05:50.633] TROI: He won't talk, Captain.
+[00:05:50.953 --> 00:05:52.313] TROI: We haven't been able to get through to him.
+[00:05:54.663 --> 00:05:55.063] JONO: Captain>
+[00:05:57.543 --> 00:05:58.103] JONO: I am Jono.
+[00:05:58.823 --> 00:06:00.103] JONO: Take me home to my Captain.
+[00:06:00.823 --> 00:06:01.783] JONO: Take me home to Endar!
+[00:06:06.663 --> 00:06:10.663] CRUSHER: He managed to escape radiation trauma but the scan shows something else.
+[00:06:10.823 --> 00:06:10.983] PICARD: What?
+[00:06:11.223 --> 00:06:14.663] CRUSHER: Two previously fractured ribs, a broken arm, and a low grade concussion.
+[00:06:15.623 --> 00:06:18.023] CRUSHER: There might be neurological impairment. I'd like to examine him further.
+[00:06:20.023 --> 00:06:23.543] CRUSHER: Jean-Luc, the Talarians have been known to be ruthless to their enemies.
+[00:06:23.943 --> 00:06:26.503] CRUSHER: I think there's a real possibility they may have brutalised the child.
+[00:06:29.703 --> 00:06:33.143] PICARD: Isn't it possible the injuries were caused prior to his captivity?
+[00:06:33.463 --> 00:06:34.983] CRUSHER: Not likely.
+[00:06:36.023 --> 00:06:40.903] CRUSHER: He's been with them a long time. Long enough to assimilate their cultural traits,
+[00:06:41.463 --> 00:06:45.943] CRUSHER: and calcium trace patterns indicate the injuries took place during the past seven years.
+[00:06:46.183 --> 00:06:49.463] PICARD: But if they have abused the boy, why would he so devoutly wish to return to them?
+[00:06:50.023 --> 00:06:50.983] CRUSHER: It's not uncommon.
+[00:06:51.703 --> 00:06:54.263] CRUSHER: It was identified centuries ago as the Stockholm syndrome.
+[00:06:57.383 --> 00:06:59.223] TROI: Jono, what is it?
+[00:07:05.383 --> 00:07:06.263] TROI: Jono!
+[00:07:07.463 --> 00:07:12.103] TROI: I just suggested he take off his gloves.
+[00:07:12.103 --> 00:07:13.143] TROI: Suddenly he lost control.
+[00:07:13.383 --> 00:07:15.943] CRUSHER: Security, we need some assistance down here in Sickbay.
+[00:07:15.943 --> 00:07:18.903] PICARD: Jono!
+[00:07:19.143 --> 00:07:20.023] JONO: She won't leave me alone!
+[00:07:20.023 --> 00:07:21.303] JONO: She keeps trying to dissect me!
+[00:07:21.463 --> 00:07:21.703] PICARD: She was
+[00:07:21.715 --> 00:07:22.515] PICARD: trying to help you.!
+[00:07:22.595 --> 00:07:23.795] JONO: I don't want her help!
+[00:07:24.115 --> 00:07:27.155] JONO: I should be back with my brothers! Send us back to Captain Endar!
+[00:07:27.395 --> 00:07:28.995] PICARD: Jono, I want you to stop this immediately!
+[00:07:33.155 --> 00:07:33.715] JONO: Yes, Captain.
+[00:07:34.675 --> 00:07:35.635] PICARD: Good. That's better.
+[00:07:37.075 --> 00:07:38.035] PICARD: Now, if we're to accomplish anything
+[00:07:38.035 --> 00:07:38.915] DATA: Data to Picard.
+[00:07:41.155 --> 00:07:41.475] PICARD: Go ahead.
+[00:07:41.875 --> 00:07:45.955] DATA: We have received a subspace communiqué from Starfleet Command regarding the young human, sir.
+[00:07:47.555 --> 00:07:48.755] PICARD: Very well. Doctor,
+[00:07:49.155 --> 00:07:49.555] PICARD: Counsellor.
+[00:07:51.155 --> 00:07:53.635] CRUSHER: Lieutenant Worf, escort this young man to quarters.
+[00:07:53.635 --> 00:07:55.715] CRUSHER: He is to be confined there until further notice.
+[00:07:56.595 --> 00:07:57.155] WORF: Yes, Doctor.
+[00:08:02.355 --> 00:08:04.115] JONO: Why are you here, Klingon, with them?
+[00:08:04.515 --> 00:08:05.475] JONO: Did they capture you too?
+[00:08:06.275 --> 00:08:07.955] WORF: They are not my captors.
+[00:08:08.435 --> 00:08:09.555] WORF: They are my comrades.
+[00:08:09.875 --> 00:08:11.395] JONO: Why do you take orders from a female?
+[00:08:13.155 --> 00:08:16.115] WORF: Doctor Crusher. She is my superior officer.
+[00:08:16.915 --> 00:08:19.235] JONO: Among my people, a female can never outrank a man.
+[00:08:23.715 --> 00:08:28.595] WORF: You are human, and among humans, females can achieve anything the males can.
+[00:08:29.235 --> 00:08:30.595] JONO: I am no more human than you are.
+[00:08:31.395 --> 00:08:32.275] JONO: I am Talarian.
+[00:08:34.275 --> 00:08:35.155] WORF: You are confused.
+[00:08:36.355 --> 00:08:36.675] WORF: Stop
+[00:08:39.635 --> 00:08:39.635] WORF: that!
+[00:08:41.555 --> 00:08:45.075] JONO: I will make the B'Nar, the mourning, until I am back with my brothers!
+[00:08:54.440 --> 00:08:59.240] DATA: By matching DNA gene types, Starfleet was able to identify the boy as Jeremiah Rossa.
+[00:08:59.480 --> 00:08:59.848] RIKER: Rossa?
+[00:08:59.848 --> 00:09:01.320] PICARD: As in Admiral Rossa?
+[00:09:01.800 --> 00:09:02.840] DATA: She is his grandmother, Captain.
+[00:09:05.320 --> 00:09:08.840] DATA: He was born fourteen years ago on the Federation colony, Galen Four.
+[00:09:09.240 --> 00:09:15.720] DATA: His parents, Connor and Moira Rossa, were killed three years, nine months later when their colony was overrun by Talarian forces.
+[00:09:16.280 --> 00:09:17.640] PICARD: I remember. There were no survivors.
+[00:09:17.640 --> 00:09:20.280] DATA: The boy was listed as missing, presumed dead.
+[00:09:20.760 --> 00:09:23.560] RIKER: I heard another Rossa was killed in action at the Krasner outpost.
+[00:09:24.120 --> 00:09:25.640] PICARD: Tragedy seems to follow that family.
+[00:09:25.880 --> 00:09:27.320] PICARD: The Admiral lost both her sons.
+[00:09:27.880 --> 00:09:29.480] CRUSHER: And now she'll have something to celebrate.
+[00:09:29.960 --> 00:09:37.720] TROI: Captain, if Jeremiah is returned to his family in his present condition, it would be a wrenching experience for everyone. Especially for him.
+[00:09:38.200 --> 00:09:42.200] TROI: He needs to re-discover his identity, make some connection with his roots.
+[00:09:42.920 --> 00:09:43.320] PICARD: I agree.
+[00:09:43.800 --> 00:09:45.240] PICARD: Do what you can to accomplish that, Counsellor.
+[00:09:46.280 --> 00:09:47.960] TROI: I don't think I can do anything, Captain.
+[00:09:48.440 --> 00:09:48.760] PICARD: Why not?
+[00:09:49.240 --> 00:09:49.720] CRUSHER: Troi's right.
+[00:09:50.440 --> 00:09:53.400] CRUSHER: It's very clear that the boy does not respond well to women.
+[00:09:54.040 --> 00:09:56.680] DATA: The Talarians are a rigidly patriarchical society, sir.
+[00:09:57.480 --> 00:10:03.480] TROI: Jeremiah needs to build a relationship with a man, a father figure with whom he can explore his origins.
+[00:10:04.760 --> 00:10:06.680] TROI: And I think it should be you, Captain.
+[00:10:09.160 --> 00:10:09.800] PICARD: Oh, no, Counsellor!
+[00:10:11.400 --> 00:10:12.040] PICARD: Oh, no, Counsellor,
+[00:10:12.520 --> 00:10:13.000] PICARD: I don't think so.
+[00:10:14.360 --> 00:10:16.448] PICARD: He needs someone who is trained in these things.
+[00:10:16.448 --> 00:10:16.680] TROI: But
+[00:10:17.240 --> 00:10:21.480] TROI: you are the only person with whom he has shown any connection.
+[00:10:22.280 --> 00:10:23.800] TROI: If he is to find his
+[00:10:24.720 --> 00:10:25.600] TROI: humanity
+[00:10:25.920 --> 00:10:27.680] TROI: then you are the only one who can help him.
+[00:10:28.560 --> 00:10:29.680] TROI: It's up to you, Captain.
+[00:10:39.440 --> 00:10:41.440] PICARD: Jono!
+[00:10:43.120 --> 00:10:44.480] PICARD: Jono, why do you make that noise?
+[00:10:45.040 --> 00:10:47.520] JONO: It is the custom of my people when we are in distress.
+[00:10:47.920 --> 00:10:51.280] PICARD: Is it not also the custom of your people to listen to the wishes of their Captain?
+[00:10:52.400 --> 00:10:52.720] JONO: Yes.
+[00:10:53.280 --> 00:10:57.040] PICARD: Then, as Captain of the starship Enterprise, I ask you not to make that sound.
+[00:10:59.120 --> 00:10:59.520] JONO: Yes, sir.
+[00:11:01.360 --> 00:11:01.520] PICARD: Good.
+[00:11:02.320 --> 00:11:02.560] PICARD: Well,
+[00:11:03.760 --> 00:11:04.640] PICARD: now that's cleared up,
+[00:11:04.640 --> 00:11:05.360] PICARD: let's, er,
+[00:11:08.240 --> 00:11:09.120] PICARD: let's, er,
+[00:11:12.400 --> 00:11:13.760] PICARD: let's get acquainted, shall we?
+[00:11:14.160 --> 00:11:15.760] PICARD: What do you think of your room?
+[00:11:16.080 --> 00:11:18.720] PICARD: I know it's a little sterile.
+[00:11:20.080 --> 00:11:26.320] PICARD: But if there's anything you'd like? Pictures, perhaps, or games.
+[00:11:26.640 --> 00:11:27.680] JONO: This is a cage.
+[00:11:28.400 --> 00:11:29.440] JONO: I am still your captive.
+[00:11:30.080 --> 00:11:31.040] PICARD: Oh, no, not at all.
+[00:11:32.080 --> 00:11:33.120] PICARD: I thought you'd be comfortable here.
+[00:11:34.160 --> 00:11:35.520] JONO: Are you going to return me to my Captain?
+[00:11:36.640 --> 00:11:39.440] PICARD: We will rendezvous with the warship Q'Maire at oh seven forty hours.
+[00:11:39.440 --> 00:11:42.512] PICARD: We will transfer the Talarians to Captain Endar.
+[00:11:42.512 --> 00:11:43.280] JONO: Including me?
+[00:11:44.640 --> 00:11:48.160] PICARD: We'll discuss your situation with Captain Endar.
+[00:11:51.840 --> 00:11:52.960] JONO: I don't like this place.
+[00:11:55.520 --> 00:11:56.720] PICARD: We could find some other quarters.
+[00:11:57.410 --> 00:11:58.930] JONO: I've always lived with my Captain.
+[00:12:01.010 --> 00:12:01.330] PICARD: Ah.
+[00:12:02.610 --> 00:12:04.370] PICARD: Yes, well, that wouldn't work here.
+[00:12:06.610 --> 00:12:09.410] PICARD: Well, I'm sure you'll see there's nothing here to appeal to a young person.
+[00:12:09.650 --> 00:12:10.450] PICARD: Put that down, please.
+[00:12:11.490 --> 00:12:12.050] JONO: It's Klingon.
+[00:12:12.210 --> 00:12:12.530] PICARD: Yes.
+[00:12:12.610 --> 00:12:13.810] PICARD: Would you put it back where you got
+[00:12:15.730 --> 00:12:15.730] PICARD: it.
+[00:12:21.490 --> 00:12:21.490] PICARD: Well.
+[00:12:36.850 --> 00:12:37.810] PICARD: Here we are, eh, Jono?
+[00:12:39.410 --> 00:12:41.090] PICARD: I notice you haven't taken off your gloves.
+[00:12:43.250 --> 00:12:43.730] JONO: Not here.
+[00:12:44.850 --> 00:12:45.170] PICARD: Why not?
+[00:12:48.130 --> 00:12:49.650] JONO: So that I don't have to touch an alien.
+[00:12:52.610 --> 00:12:55.250] PICARD: Jono, your Captain, Endar,
+[00:12:56.210 --> 00:12:59.410] PICARD: has he ever hurt you?
+[00:13:00.130 --> 00:13:01.170] PICARD: Inflicted pain?
+[00:13:01.650 --> 00:13:03.090] JONO: Pain is not a consideration.
+[00:13:04.610 --> 00:13:05.170] PICARD: Then he has?
+[00:13:05.890 --> 00:13:06.690] JONO: I did not say that.
+[00:13:08.610 --> 00:13:09.330] JONO: Don't you understand?
+[00:13:10.450 --> 00:13:11.810] JONO: Pain is not what matters.
+[00:13:12.530 --> 00:13:14.050] JONO: Passing the tests is everything.
+[00:13:15.330 --> 00:13:16.050] PICARD: Is that what they are?
+[00:13:16.530 --> 00:13:17.410] PICARD: Tests of pain?
+[00:13:18.690 --> 00:13:19.650] JONO: You understand nothing.
+[00:13:20.690 --> 00:13:23.010] PICARD: It's true, I don't fully understand Talarians.
+[00:13:24.450 --> 00:13:26.290] PICARD: But you are not Talarian.
+[00:13:30.292 --> 00:13:31.412] JONO: I will not listen to this.
+[00:13:32.452 --> 00:13:33.732] JONO: I will not listen to your lies.
+[00:13:38.852 --> 00:13:39.172] PICARD: Come.
+[00:13:41.252 --> 00:13:42.372] TROI: You wanted to see me, Captain?
+[00:13:43.172 --> 00:13:43.812] PICARD: Yes, Counsellor.
+[00:13:43.812 --> 00:13:44.452] PICARD: Please, come in,
+[00:13:44.532 --> 00:13:44.932] PICARD: sit down.
+[00:13:56.852 --> 00:14:01.972] PICARD: You're probably not aware of this, but I have never been particularly comfortable around children.
+[00:14:03.812 --> 00:14:04.292] TROI: Really?
+[00:14:05.652 --> 00:14:08.452] PICARD: For some reason, they just don't seem to respond to me.
+[00:14:09.012 --> 00:14:09.572] TROI: I see.
+[00:14:12.132 --> 00:14:20.772] PICARD: Frankly, I think my time would be best served carrying out the duties and responsibilities of a Starfleet Captain.
+[00:14:22.852 --> 00:14:26.692] TROI: Seldom have I heard an explanation so well-rehearsed.
+[00:14:27.252 --> 00:14:28.132] PICARD: Look, Counsellor, I
+[00:14:30.612 --> 00:14:33.012] PICARD: just feel that I'm not the right person for this job.
+[00:14:35.012 --> 00:14:35.972] TROI: Strange, isn't it?
+[00:14:36.772 --> 00:14:46.052] TROI: You'll travel light years, dodge asteroid storms, brave hostile aliens, and yet when asked to assume a parental role, you cringe.
+[00:14:46.692 --> 00:14:48.132] TROI: Why do you suppose that is?
+[00:14:48.132 --> 00:14:48.772] PICARD: I'm not cringing.
+[00:14:49.572 --> 00:14:49.972] PICARD: I'm just
+[00:14:52.292 --> 00:14:53.572] PICARD: acknowledging my limitations.
+[00:14:57.092 --> 00:14:58.932] TROI: When you were a child, did you have any friends?
+[00:14:59.892 --> 00:15:01.092] TROI: Other children you played with?
+[00:15:05.456 --> 00:15:09.056] PICARD: I don't think that has anything to do with anything.
+[00:15:09.206 --> 00:15:09.806] PICARD: Well,
+[00:15:11.696 --> 00:15:14.256] PICARD: perhaps it was because.
+[00:15:17.616 --> 00:15:18.496] PICARD: This is foolish.
+[00:15:24.016 --> 00:15:24.976] TROI: What were you going to say?
+[00:15:28.176 --> 00:15:28.736] PICARD: it's just that
+[00:15:31.936 --> 00:15:36.256] PICARD: ever since I was a child I've always known exactly what I wanted to do. Be a member of Starfleet.
+[00:15:36.736 --> 00:15:37.856] PICARD: Nothing else mattered to me.
+[00:15:39.536 --> 00:15:43.216] PICARD: Virtually my entire youth was spent in the pursuit of that goal.
+[00:15:45.936 --> 00:15:46.256] PICARD: In fact,
+[00:15:48.256 --> 00:15:50.096] PICARD: I probably skipped my childhood altogether.
+[00:15:52.096 --> 00:15:52.816] TROI: You know, Captain,
+[00:15:54.336 --> 00:15:57.056] TROI: almost no one is born being a good parent.
+[00:15:57.856 --> 00:16:01.216] TROI: Most people just have to muddle through and do the best that they can.
+[00:16:02.656 --> 00:16:04.016] PICARD: Are you saying that's what I'm going to have to do?
+[00:16:04.736 --> 00:16:05.296] TROI: Yes.
+[00:16:08.336 --> 00:16:11.456] TROI: And you might be surprised at just how good you can be.
+[00:16:18.016 --> 00:16:18.016] PICARD: Computer, turn off that
+[00:16:38.215 --> 00:16:38.695] PICARD: noise! Computer,
+[00:16:39.895 --> 00:16:40.215] PICARD: what was that?
+[00:16:40.615 --> 00:16:44.215] COMPUTER: The Alba Ra, a contemporary Talarian musical form.
+[00:16:51.255 --> 00:16:51.575] PICARD: Jono?
+[00:16:59.815 --> 00:17:00.455] PICARD: Jono, where are you?
+[00:17:02.295 --> 00:17:03.655] JONO: You turned off my music.
+[00:17:06.535 --> 00:17:07.495] PICARD: Yes, I certainly did, and
+[00:17:08.615 --> 00:17:10.295] PICARD: I expect it to stay turned off.
+[00:17:11.735 --> 00:17:12.535] PICARD: Would you come down from there?
+[00:17:12.685 --> 00:17:13.285] PICARD: I
+[00:17:21.095 --> 00:17:22.455] PICARD: see you've made yourself at home.
+[00:17:23.735 --> 00:17:25.015] JONO: I cannot rest on your beds.
+[00:17:25.575 --> 00:17:26.215] JONO: They hurt my back.
+[00:17:27.815 --> 00:17:28.295] PICARD: Would you come here.
+[00:17:29.255 --> 00:17:30.295] PICARD: There's something I want to show you.
+[00:17:40.135 --> 00:17:42.055] PICARD: Those are Connor and Moira
+[00:17:43.335 --> 00:17:43.735] PICARD: Rossa.
+[00:17:45.175 --> 00:17:45.895] PICARD: They are your parents.
+[00:17:50.135 --> 00:17:50.695] PICARD: The baby
+[00:17:52.535 --> 00:17:53.095] PICARD: is you.
+[00:17:55.095 --> 00:17:55.895] PICARD: Jeremiah Rossa.
+[00:17:57.495 --> 00:17:58.295] JONO: My name is Jono.
+[00:17:59.335 --> 00:18:04.695] PICARD: Well, you were born Jeremiah on Galen Four.
+[00:18:05.895 --> 00:18:08.055] PICARD: The colony was destroyed later,
+[00:18:09.064 --> 00:18:10.024] PICARD: during a border skirmish.
+[00:18:11.624 --> 00:18:11.784] PICARD: You
+[00:18:12.824 --> 00:18:12.984] PICARD: see? You
+[00:18:14.664 --> 00:18:15.704] PICARD: knew how to laugh once.
+[00:18:17.384 --> 00:18:19.224] PICARD: Do you remember any of this, Jono?
+[00:18:20.344 --> 00:18:21.064] PICARD: Your parents, your home?
+[00:18:22.024 --> 00:18:23.224] JONO: I know that Endar rescued me.
+[00:18:23.864 --> 00:18:24.424] JONO: He told me so.
+[00:18:25.224 --> 00:18:28.184] PICARD: Jono, your parents were killed by Talarians.
+[00:18:30.104 --> 00:18:30.664] JONO: It was war.
+[00:18:32.264 --> 00:18:33.224] JONO: Death is part of war.
+[00:18:33.704 --> 00:18:33.944] RIKER: Captain?
+[00:18:35.224 --> 00:18:35.384] PICARD: Yes,
+[00:18:35.384 --> 00:18:35.944] PICARD: what is it, Number One?
+[00:18:36.344 --> 00:18:38.904] RIKER: We've established visual contact with the warship Q'Maire.
+[00:18:40.264 --> 00:18:40.744] JONO: Endar!
+[00:18:41.064 --> 00:18:41.304] PICARD: Hey,
+[00:18:41.544 --> 00:18:41.784] PICARD: hey!
+[00:18:42.104 --> 00:18:42.264] PICARD: You
+[00:18:43.624 --> 00:18:44.184] PICARD: stay put.
+[00:18:44.334 --> 00:18:44.934] PICARD: I'm
+[00:18:46.504 --> 00:18:47.304] PICARD: on my way, Number One.
+[00:18:50.664 --> 00:18:50.744] CONNOR: Get
+[00:19:15.784 --> 00:19:18.197] CONNOR: to cover!
+[00:19:18.610 --> 00:19:20.264] MOIRA: I can't leave you!
+[00:19:20.264 --> 00:19:21.864] CONNOR: Take Jeremiah.
+[00:19:21.864 --> 00:19:23.224] CONNOR: Take him
+[00:19:23.224 --> 00:19:23.224] CONNOR: to the forest.
+[00:19:23.224 --> 00:19:23.464] CONNOR: I'll hold them off.
+[00:19:23.544 --> 00:19:24.984] MOIRA: No!
+[00:19:25.134 --> 00:19:25.734] MOIRA: No!
+[00:19:28.549 --> 00:19:29.949] MOIRA: Come with us!
+[00:19:38.795 --> 00:19:39.395] MOIRA: Jeremiah!
+[00:19:42.211 --> 00:19:42.811] JEREMIAH: Momma!
+[00:19:45.776 --> 00:19:46.816] PICARD: Status, Mister Data?
+[00:19:48.016 --> 00:19:52.976] DATA: Q'Maire at station, holding steady at bearing zero one three, mark zero one five.
+[00:19:53.376 --> 00:19:55.536] DATA: Distance five oh six kilometres.
+[00:19:56.256 --> 00:19:57.376] PICARD: Are its weapons systems active?
+[00:19:58.176 --> 00:19:58.656] DATA: Negative, sir.
+[00:19:59.856 --> 00:20:01.856] WORF: Captain Endar requests an open channel, sir.
+[00:20:02.016 --> 00:20:02.496] PICARD: On screen.
+[00:20:04.896 --> 00:20:07.696] ENDAR: I am Captain Endar of the warship Q'Maire.
+[00:20:08.256 --> 00:20:09.536] ENDAR: To whom am I speaking?
+[00:20:09.936 --> 00:20:12.656] PICARD: Captain Jean-Luc Picard of the Federation Starship Enterprise.
+[00:20:13.536 --> 00:20:17.536] PICARD: We have rescued four crew members from your observation craft.
+[00:20:17.616 --> 00:20:18.896] PICARD: They have received medical attention.
+[00:20:19.376 --> 00:20:20.256] PICARD: The are ready for transport.
+[00:20:21.056 --> 00:20:22.736] ENDAR: Your actions are duly noted.
+[00:20:22.816 --> 00:20:25.456] ENDAR: We will forward coordinates for immediate transport.
+[00:20:26.816 --> 00:20:27.456] RIKER: You're welcome,
+[00:20:27.456 --> 00:20:28.016] RIKER: I'm sure.
+[00:20:28.736 --> 00:20:29.456] PICARD: One moment, Captain.
+[00:20:31.056 --> 00:20:33.296] PICARD: We've also discovered a human among your crew.
+[00:20:34.496 --> 00:20:34.976] ENDAR: Jono.
+[00:20:35.616 --> 00:20:37.216] PICARD: Actually, his name is Jeremiah,
+[00:20:38.336 --> 00:20:39.376] PICARD: Jeremiah Rossa.
+[00:20:39.936 --> 00:20:40.976] ENDAR: What is his condition?
+[00:20:41.936 --> 00:20:42.656] ENDAR: Is he injured?
+[00:20:42.976 --> 00:20:49.456] PICARD: He was not wounded in the mishap, but as a representative of the Federation, I require an explanation.
+[00:20:51.136 --> 00:20:55.536] PICARD: Why has this child been held in your custody for so many years?
+[00:20:56.096 --> 00:20:58.816] ENDAR: No explanation is warranted, Captain.
+[00:20:59.616 --> 00:21:00.816] ENDAR: He is my son.
+[00:21:10.591 --> 00:21:11.791] LOG: Captain's log, supplemental.
+[00:21:12.191 --> 00:21:16.751] LOG: Captain Endar's claim that Jeremiah Rossa is his son is clearly unacceptable.
+[00:21:17.711 --> 00:21:26.031] LOG: However, to avoid escalating tensions, I have invited the Talarian leader to come aboard the Enterprise so that we may address the issue face to face.
+[00:21:26.831 --> 00:21:31.071] ENDAR: Yes, I was in charge of the force that repelled the trespassers on Galen Four.
+[00:21:31.951 --> 00:21:34.431] ENDAR: I must say your Federation troops fought tenaciously.
+[00:21:35.071 --> 00:21:37.151] PICARD: Among them Connor and Moira Rossa.
+[00:21:38.751 --> 00:21:45.391] ENDAR: I suppose. After the battle, I found this squalling child huddled by the body of a young woman, his mother presumably.
+[00:21:46.511 --> 00:21:48.751] ENDAR: There was almost no one left alive on Galen Four.
+[00:21:49.231 --> 00:21:51.551] ENDAR: Was I to leave him screaming by his mother's body?
+[00:21:51.951 --> 00:21:53.791] PICARD: You should have notified the Federation authorities.
+[00:21:54.591 --> 00:21:57.231] PICARD: To conceal him was a clear violation of our agreement.
+[00:21:57.631 --> 00:22:01.311] ENDAR: I took him in accordance with my peoples' traditions.
+[00:22:02.191 --> 00:22:05.551] PICARD: What tradition is it that empowered you to capture a helpless child?
+[00:22:06.191 --> 00:22:11.151] ENDAR: I lost my son at the hands of humans during the conflict over Castal One.
+[00:22:11.551 --> 00:22:15.711] ENDAR: Talarian custom allows me to claim the son of a slain enemy.
+[00:22:16.351 --> 00:22:19.711] PICARD: Does that custom extend also to brutalising this surrogate son?
+[00:22:21.151 --> 00:22:22.191] ENDAR: What are you talking about?
+[00:22:22.591 --> 00:22:24.911] PICARD: Our medical officer discovered evidence of injuries so severe,
+[00:22:25.231 --> 00:22:28.191] PICARD: they might be considered torture.
+[00:22:29.471 --> 00:22:30.271] ENDAR: Nonsense.
+[00:22:30.271 --> 00:22:31.631] ENDAR: I've never harmed Jono.
+[00:22:31.951 --> 00:22:35.231] PICARD: Then explain the fractured ribs, concussion, the broken arm.
+[00:22:39.471 --> 00:22:39.471] ENDAR: Broken arm? Youth.
+[00:22:39.471 --> 00:22:39.871] ENDAR: Have you
+[00:22:41.391 --> 00:22:43.391] ENDAR: ever been a father, Picard?
+[00:22:44.018 --> 00:22:48.498] ENDAR: Have you ever had a son desperately try to win your approval, your respect?
+[00:22:50.338 --> 00:22:57.298] ENDAR: Jono broke his ribs riding on a t'stayan. Six hooves. A very powerful beast.
+[00:22:58.018 --> 00:23:05.778] ENDAR: The arm, in a contest with other youths. He endured the pain and won the competition.
+[00:23:06.898 --> 00:23:08.898] ENDAR: One day, he will be a great warrior.
+[00:23:13.378 --> 00:23:14.818] PICARD: Doesn't he deserve to become more than that?
+[00:23:16.898 --> 00:23:18.418] PICARD: His true heritage is human, Endar.
+[00:23:20.018 --> 00:23:22.498] ENDAR: A heritage long since forgotten.
+[00:23:23.218 --> 00:23:29.458] PICARD: While on board, you are welcome to supervise the return of your crew, but I cannot allow Jeremiah Rossa to be returned to your custody.
+[00:23:29.858 --> 00:23:32.178] PICARD: His true family are waiting for him on Earth.
+[00:23:35.618 --> 00:23:41.858] ENDAR: Then under no circumstances will I allow your ship to leave our territory.
+[00:23:42.738 --> 00:23:46.705] PICARD: I have already reported our position and the nature of this violation to Starfleet.
+[00:23:46.705 --> 00:23:49.538] ENDAR: And I've already called for reserved forces into the sector.
+[00:23:51.378 --> 00:23:53.778] PICARD: Are you saying that you're willing to go to war over this boy?
+[00:23:54.178 --> 00:23:56.258] ENDAR: Would you not for your only son?
+[00:23:57.778 --> 00:23:59.378] PICARD: We have been at peace for many years.
+[00:23:59.378 --> 00:24:02.018] PICARD: Let us not rush headlong into war.
+[00:24:02.898 --> 00:24:04.578] ENDAR: Then help me to avoid it.
+[00:24:05.778 --> 00:24:10.498] ENDAR: If you will allow me to see Jono, it will be clear to you I have been a good father.
+[00:24:10.818 --> 00:24:12.738] ENDAR: He has grown up happy in my keeping.
+[00:24:16.548 --> 00:24:18.948] PICARD: So you think it would be unwise to let Endar see Jono?
+[00:24:19.428 --> 00:24:21.348] CRUSHER: I think it's dangerous.
+[00:24:21.508 --> 00:24:24.708] CRUSHER: Abusers can have subtle but powerful influence over their victims.
+[00:24:24.788 --> 00:24:27.988] PICARD: You see, I'm not convinced the boy has been abused, Doctor.
+[00:24:28.548 --> 00:24:35.188] PICARD: I've talked with the father, and if I am any judge of character, I would say that he deeply cares for the boy's welfare.
+[00:24:35.348 --> 00:24:37.428] TROI: I sense awakening memories in the boy.
+[00:24:37.828 --> 00:24:39.748] TROI: This is a very fragile time for Jono.
+[00:24:40.548 --> 00:24:47.508] TROI: If we send away the man he calls father without even letting them see each other, how will we ever gain his trust?
+[00:24:48.788 --> 00:24:51.508] PICARD: Yes. There is something else to keep in mind.
+[00:24:51.508 --> 00:24:53.268] PICARD: We are deep in Talarian territory.
+[00:24:53.268 --> 00:24:55.348] PICARD: A semblance of diplomacy is called for.
+[00:24:56.068 --> 00:24:57.108] PICARD: I'm going to agree to the meeting.
+[00:24:57.588 --> 00:25:00.788] CRUSHER: All I ask is that the visit be supervised.
+[00:25:00.948 --> 00:25:02.388] CRUSHER: Don't let them be alone together.
+[00:25:02.868 --> 00:25:03.188] PICARD: Agreed.
+[00:25:12.708 --> 00:25:13.028] JONO: Endar.
+[00:25:17.188 --> 00:25:17.908] ENDAR: Jono, my son.
+[00:25:27.508 --> 00:25:28.468] ENDAR: Have they treated you well?
+[00:25:30.548 --> 00:25:31.108] JONO: Yes, Captain.
+[00:25:32.068 --> 00:25:32.841] JONO: Except
+[00:25:32.841 --> 00:25:34.388] ENDAR: Except what?
+[00:25:36.548 --> 00:25:38.068] JONO: I was forbidden to make the B'Nar.
+[00:25:40.466 --> 00:25:41.106] ENDAR: That's all right.
+[00:25:41.906 --> 00:25:43.506] ENDAR: I know you've mourned in your heart.
+[00:25:45.506 --> 00:25:49.026] ENDAR: Well, Jono what do you think of these humans?
+[00:25:52.146 --> 00:25:52.946] JONO: They look like me.
+[00:25:54.706 --> 00:25:55.906] ENDAR: They want to keep you, you know.
+[00:25:57.986 --> 00:25:58.546] JONO: Yes, I know.
+[00:26:00.706 --> 00:26:02.546] ENDAR: You've reached the age of decision.
+[00:26:03.826 --> 00:26:04.706] ENDAR: What is your choice?
+[00:26:10.066 --> 00:26:11.026] ENDAR: Do you want to stay?
+[00:26:14.626 --> 00:26:16.066] JONO: No, of course not.
+[00:26:16.546 --> 00:26:17.426] ENDAR: Then you shall not.
+[00:26:23.186 --> 00:26:24.626] ENDAR: I'm returning to the Q'Maire.
+[00:26:25.906 --> 00:26:27.746] ENDAR: I will give the humans with a choice.
+[00:26:27.986 --> 00:26:30.386] ENDAR: If they do not make the one we know is right,
+[00:26:32.146 --> 00:26:33.026] ENDAR: it may lead to war.
+[00:26:35.026 --> 00:26:35.826] ENDAR: You may die.
+[00:26:37.906 --> 00:26:38.386] JONO: I am ready to
+[00:26:40.146 --> 00:26:42.146] JONO: die.
+[00:26:48.546 --> 00:26:48.786] WORF: Captain,
+[00:26:49.586 --> 00:26:53.106] WORF: sensors indicate two warships approaching from the opposite direction along the border.
+[00:26:54.226 --> 00:26:55.906] PICARD: Mister Data, what's their offensive potential?
+[00:26:57.906 --> 00:27:03.346] DATA: Talarian warships are limited to neutral particle weapons, high energy X-ray lasers and merculite rockets.
+[00:27:03.826 --> 00:27:04.946] DATA: No match for the Enterprise, Captain.
+[00:27:04.952 --> 00:27:05.032] PICARD: The
+[00:27:07.192 --> 00:27:09.832] PICARD: last thing I want is to be forced into destroying one of their ships.
+[00:27:10.552 --> 00:27:11.432] RIKER: They won't back off.
+[00:27:11.912 --> 00:27:14.072] RIKER: They've been willing to fight to the death in past encounters.
+[00:27:15.592 --> 00:27:16.952] PICARD: The lines are being drawn.
+[00:27:19.432 --> 00:27:22.243] PICARD: All this for a chosen son.
+[00:27:22.243 --> 00:27:22.712] WORF: Captain,
+[00:27:23.992 --> 00:27:26.712] WORF: is it worth it, to go to war over a child?
+[00:27:27.272 --> 00:27:29.592] CRUSHER: You might not ask that, Lieutenant, if it was your child.
+[00:27:31.112 --> 00:27:32.232] PICARD: There must be a way to avoid this.
+[00:27:33.192 --> 00:27:39.592] TROI: If we can just reach Jono, help him make some connections with his origins, he may choose to come with us.
+[00:27:39.912 --> 00:27:41.992] RIKER: You really think Endar would go along with that?
+[00:27:43.832 --> 00:27:46.632] DATA: If Endar respects Talarian custom, he may have to.
+[00:27:47.192 --> 00:27:51.592] DATA: According to their tradition, a male child of fourteen has reached the age of decision.
+[00:27:52.392 --> 00:27:56.792] DATA: He then undergoes a ceremony of initiation, after which he has the freedom to make his own choices.
+[00:27:57.432 --> 00:28:00.552] PICARD: Endar's entire claim on Jono is based on Talarian custom
+[00:28:01.752 --> 00:28:04.079] PICARD: he'd have a hard time backing away from it now.
+[00:28:04.079 --> 00:28:04.312] WORF: Captain,
+[00:28:04.792 --> 00:28:07.112] WORF: there is a subspace communication from Starfleet Command.
+[00:28:07.512 --> 00:28:08.525] PICARD: On screen.
+[00:28:08.525 --> 00:28:09.032] WORF: Sir,
+[00:28:09.992 --> 00:28:11.592] WORF: the message is for Jeremiah Rossa.
+[00:28:15.352 --> 00:28:16.472] PICARD: Have the boy brought to my Ready Room.
+[00:28:18.392 --> 00:28:19.032] CONNAUGHT: Jeremiah?
+[00:28:20.872 --> 00:28:22.872] CONNAUGHT: my name is Connaught Rossa.
+[00:28:25.112 --> 00:28:26.552] CONNAUGHT: I am your father's mother.
+[00:28:28.152 --> 00:28:30.472] CONNAUGHT: I wish we could talk in person, but that will have to wait.
+[00:28:31.253 --> 00:28:36.053] CONNAUGHT: When I heard the miracle that you were alive, I wanted to reach out to you as soon as possible.
+[00:28:37.173 --> 00:28:39.333] CONNAUGHT: I find myself wondering what you look like.
+[00:28:41.653 --> 00:28:44.453] CONNAUGHT: All I can do is imagine your father at your age.
+[00:28:45.253 --> 00:28:48.053] CONNAUGHT: You come from a family that would make you proud.
+[00:28:48.853 --> 00:28:53.013] CONNAUGHT: Many of them have given their lives to bring peace to the galaxy.
+[00:28:54.213 --> 00:28:56.453] CONNAUGHT: You are the last of the Rossas.
+[00:28:57.813 --> 00:29:02.693] CONNAUGHT: I was so very thankful when you were given back to us to carry on the line.
+[00:29:03.893 --> 00:29:07.893] CONNAUGHT: Your grandfather and I will greet you with all the love in our hearts.
+[00:29:09.573 --> 00:29:11.973] CONNAUGHT: Have a safe journey home, Jeremiah.
+[00:29:15.813 --> 00:29:17.173] JONO: She wears a Starfleet uniform.
+[00:29:19.413 --> 00:29:19.653] PICARD: Yes.
+[00:29:22.053 --> 00:29:22.773] JONO: What is her rank?
+[00:29:23.973 --> 00:29:24.453] PICARD: She is an Admiral.
+[00:29:27.493 --> 00:29:28.293] JONO: She outranks you?
+[00:29:30.213 --> 00:29:30.373] PICARD: Yes.
+[00:29:34.453 --> 00:29:40.881] JONO: If I were home now, I would go to the brae, and run along the river run as fast as I could!
+[00:29:40.881 --> 00:29:41.173] PICARD: Jono.
+[00:29:41.653 --> 00:29:43.813] JONO: I can't do any of the things that calm me here.
+[00:29:44.213 --> 00:29:45.413] JONO: You won't let me have my music,
+[00:29:45.413 --> 00:29:46.613] JONO: you won't let me make the B'Nar!
+[00:29:46.613 --> 00:29:49.573] JONO: I feel if I stay still much longer I will die!
+[00:29:51.493 --> 00:29:51.733] PICARD: Jono,
+[00:29:53.893 --> 00:29:56.453] PICARD: let me show you what I do when I get those feelings.
+[00:29:56.613 --> 00:29:56.853] PICARD: Come on.
+[00:30:04.492 --> 00:30:11.532] PICARD: Now, you can serve from within either of these two sections by bouncing the ball and hitting it into that top centre target.
+[00:30:11.932 --> 00:30:15.052] PICARD: You have to return the ball before it bounces twice.
+[00:30:15.132 --> 00:30:15.372] PICARD: Alright?
+[00:30:16.652 --> 00:30:16.972] PICARD: Let's try it.
+[00:30:24.972 --> 00:30:25.532] PICARD: Not bad.
+[00:30:26.412 --> 00:30:27.532] JONO: I win at all the games.
+[00:30:28.892 --> 00:30:29.452] PICARD: I can believe it.
+[00:31:04.412 --> 00:31:04.604] PICARD: Jono? You all right?
+[00:31:04.604 --> 00:31:04.652] JONO: I'm
+[00:31:06.652 --> 00:31:06.972] JONO: fine.
+[00:31:07.122 --> 00:31:07.722] JEREMIAH: Momma!
+[00:31:11.149 --> 00:31:11.749] MOIRA: Jeremiah!
+[00:31:15.176 --> 00:31:15.776] JONO: No!
+[00:31:19.202 --> 00:31:19.802] JONO: Momma!
+[00:31:23.379 --> 00:31:23.459] PICARD: It's
+[00:31:32.899 --> 00:31:35.219] PICARD: all right.
+[00:31:35.219 --> 00:31:35.699] PICARD: It's all right.
+[00:31:35.849 --> 00:31:37.649] JONO: She was all red.
+[00:31:40.819 --> 00:31:41.619] JONO: I cried.
+[00:31:42.819 --> 00:31:44.019] JONO: She didn't answer me.
+[00:31:52.819 --> 00:31:53.859] JONO: She used to sing to me.
+[00:31:56.419 --> 00:31:57.619] JONO: I don't remember the melody, just
+[00:31:58.899 --> 00:31:59.859] JONO: the sound of her voice.
+[00:32:02.899 --> 00:32:05.539] JONO: Before I remembered these things, I was strong.
+[00:32:07.379 --> 00:32:07.859] JONO: And now
+[00:32:13.939 --> 00:32:15.219] PICARD: It's part of being human, Jono.
+[00:32:17.939 --> 00:32:22.979] PICARD: But, as deeply as you can feel hurt, you can also feel joy.
+[00:32:25.219 --> 00:32:26.019] JONO: I do not think so.
+[00:32:26.169 --> 00:32:26.769] JONO: I
+[00:32:28.419 --> 00:32:29.939] JONO: think I will always feel like this.
+[00:32:31.219 --> 00:32:33.539] RIKER: How was the
+[00:32:40.899 --> 00:32:41.459] RIKER: racquetball?
+[00:32:41.779 --> 00:32:43.859] PICARD: Oh, he gave me quite a game for his first time out.
+[00:32:44.339 --> 00:32:44.979] JONO: Yes, Captain.
+[00:32:44.979 --> 00:32:46.099] JONO: I'm looking forward to next time.
+[00:32:46.579 --> 00:32:47.219] PICARD: I'm sure you are.
+[00:32:47.459 --> 00:32:47.859] PICARD: Sit down.
+[00:32:52.099 --> 00:32:52.659] PICARD: What would you like?
+[00:32:55.756 --> 00:32:56.236] JONO: What is that?
+[00:32:56.556 --> 00:32:58.236] WESLEY: This is called a banana split.
+[00:32:58.716 --> 00:33:01.196] WESLEY: It's quite possibly one of the greatest things in the universe.
+[00:33:01.756 --> 00:33:02.076] WESLEY: Here, try some.
+[00:33:10.556 --> 00:33:11.436] DATA: That is called a spoon.
+[00:33:19.116 --> 00:33:22.076] JONO: Forgive me.
+[00:33:22.000 --> 00:33:24.000] [laughter]
+[00:33:25.000 --> 00:33:31.000] [laughter]
+[00:33:31.356 --> 00:33:34.956] DATA: I fail to understand why this is amusing.
+[00:33:35.436 --> 00:33:39.473] RIKER: Access your data banks under humour, subheading slapstick.
+[00:33:39.473 --> 00:33:41.996] DATA: Comedy stressing farce and horseplay.
+[00:33:42.636 --> 00:33:42.796] DATA: Ah.
+[00:33:43.756 --> 00:33:46.396] DATA: This, no doubt, is a variation on pie in the face?
+[00:33:46.716 --> 00:33:47.596] RIKER: Now do you see why it's funny?
+[00:33:48.076 --> 00:33:48.396] DATA: No, sir,
+[00:33:49.516 --> 00:33:50.556] DATA: but I will take your word for it.
+[00:33:51.436 --> 00:33:52.476] DATA: It is very amusing.
+[00:33:55.036 --> 00:33:55.916] WESLEY: Let's try this again.
+[00:33:57.196 --> 00:33:59.836] WESLEY: I'd like a fresh banana split, and another one for my friend here.
+[00:34:00.396 --> 00:34:00.716] WAITER: Right away.
+[00:34:00.716 --> 00:34:00.796] PICARD: Look
+[00:34:04.156 --> 00:34:06.156] PICARD: at
+[00:34:09.516 --> 00:34:11.516] PICARD: him.
+[00:34:11.516 --> 00:34:11.596] PICARD: He's a
+[00:34:13.436 --> 00:34:14.076] PICARD: different person.
+[00:34:15.036 --> 00:34:16.956] RIKER: Who would have thought we'd see him laugh out loud like that?
+[00:34:18.796 --> 00:34:20.796] PICARD: Just half an hour ago he was crying like a baby.
+[00:34:21.934 --> 00:34:21.934] CRUSHER: Two
+[00:35:22.574 --> 00:35:23.854] CRUSHER: bleeders, single plane penetration.
+[00:35:23.854 --> 00:35:24.894] CRUSHER: I need the autosuture here.
+[00:35:25.214 --> 00:35:25.454] NURSE: Yes, Doctor.
+[00:35:34.094 --> 00:35:36.094] CRUSHER: Looks like the blade hit the sternum and was deflected.
+[00:35:36.094 --> 00:35:37.294] CRUSHER: It could have been a lot worse.
+[00:35:37.444 --> 00:35:38.044] PICARD: Then
+[00:35:40.414 --> 00:35:40.494] PICARD: it
+[00:35:43.534 --> 00:35:44.334] PICARD: wasn't a dream.
+[00:35:45.214 --> 00:35:46.014] CRUSHER: I'm afraid not.
+[00:35:47.859 --> 00:35:49.939] CRUSHER: No vital organs pierced, no major arteries.
+[00:35:51.139 --> 00:35:52.099] PICARD: Where is the boy now?
+[00:35:52.499 --> 00:35:53.699] CRUSHER: Worf has him in security.
+[00:35:55.059 --> 00:35:55.779] CRUSHER: Hold still.
+[00:35:58.099 --> 00:35:58.739] PICARD: I want to see him.
+[00:35:59.619 --> 00:36:00.259] PICARD: Here. Now.
+[00:36:01.059 --> 00:36:02.659] CRUSHER: He'll wait until I'm finished.
+[00:36:06.739 --> 00:36:08.179] WORF: Talarian warships converging.
+[00:36:08.339 --> 00:36:08.659] WORF: Range,
+[00:36:09.699 --> 00:36:10.659] WORF: five hundred kilometres.
+[00:36:10.979 --> 00:36:11.459] RIKER: On screen.
+[00:36:16.259 --> 00:36:17.539] RIKER: Any communication, Lieutenant Worf?
+[00:36:18.659 --> 00:36:18.979] WORF: No, sir.
+[00:36:19.219 --> 00:36:20.099] WORF: We have an open channel.
+[00:36:20.419 --> 00:36:22.819] WESLEY: Commander, the warships' closing velocities are slowing.
+[00:36:23.139 --> 00:36:28.019] WESLEY: Staggered approach vectors bearing zero, one hundred twenty, and two hundred forty degrees.
+[00:36:28.179 --> 00:36:29.939] RIKER: Riker to La Forge.
+[00:36:29.939 --> 00:36:30.339] LAFORGE: La Forge here, sir.
+[00:36:30.979 --> 00:36:32.899] RIKER: The Talarians are moving Into attack posture.
+[00:36:33.219 --> 00:36:34.659] RIKER: Classic triangular envelopment.
+[00:36:35.139 --> 00:36:37.379] LAFORGE: I've tapped the impulse engines for additional power to shields.
+[00:36:37.699 --> 00:36:38.419] LAFORGE: We're ready, Commander.
+[00:36:38.819 --> 00:36:39.219] WORF: Commander,
+[00:36:39.539 --> 00:36:41.379] WORF: the Captain of the Q'Maire requests communication.
+[00:36:41.379 --> 00:36:42.899] RIKER: Here we go.
+[00:36:44.499 --> 00:36:45.059] RIKER: On screen.
+[00:36:46.979 --> 00:36:47.939] ENDAR: Captain Picard,
+[00:36:48.899 --> 00:36:49.939] ENDAR: have you made your decision?
+[00:36:50.419 --> 00:36:51.459] RIKER: This is Commander Riker.
+[00:36:51.619 --> 00:36:53.299] RIKER: What are your intentions, Captain Endar?
+[00:36:53.699 --> 00:36:55.059] ENDAR: Where is Captain Picard?
+[00:36:55.539 --> 00:36:56.179] RIKER: He has been injured.
+[00:36:56.819 --> 00:36:57.619] RIKER: I am in command now.
+[00:36:58.099 --> 00:36:58.579] ENDAR: Very well.
+[00:36:59.459 --> 00:37:02.099] ENDAR: Please prepare my son for immediate transport.
+[00:37:02.659 --> 00:37:03.859] RIKER: I'm afraid that won't be possible.
+[00:37:04.499 --> 00:37:08.579] RIKER: Last night, Jono attacked Captain Picard and tried to murder him.
+[00:37:09.139 --> 00:37:10.019] RIKER: We're holding him in custody.
+[00:37:11.219 --> 00:37:16.099] ENDAR: If he had been returned to me with the others, this would never have happened.
+[00:37:16.499 --> 00:37:18.899] ENDAR: I hold you responsible for this incident.
+[00:37:19.059 --> 00:37:21.139] RIKER: He will have to come with us now, Endar.
+[00:37:21.476 --> 00:37:23.876] RIKER: It is up to Starfleet to decide the consequences.
+[00:37:24.916 --> 00:37:26.836] ENDAR: I do not accept that decision.
+[00:37:28.836 --> 00:37:29.636] ENDAR: I repeat,
+[00:37:31.316 --> 00:37:39.076] ENDAR: you will prepare my son for immediate transport. If he is not aboard the Q'Maire in five minutes,
+[00:37:40.916 --> 00:37:43.556] ENDAR: you will suffer the consequences.
+[00:37:45.476 --> 00:37:45.876] RIKER: Red alert.
+[00:37:48.356 --> 00:37:50.836] WORF: Talarian vessels routing power to forward rockets.
+[00:37:50.996 --> 00:37:52.116] RIKER: Ready all weapons, Mister Worf.
+[00:37:52.436 --> 00:37:52.596] PICARD: Jono,
+[00:38:10.596 --> 00:38:11.316] PICARD: why did you do it?
+[00:38:13.796 --> 00:38:14.516] JONO: That does not matter.
+[00:38:16.116 --> 00:38:17.236] PICARD: Yes, I think it does.
+[00:38:17.236 --> 00:38:18.436] PICARD: It matters to me.
+[00:38:19.156 --> 00:38:21.076] JONO: What matters is that I have attacked a Captain.
+[00:38:21.796 --> 00:38:22.836] JONO: I am ready to be put to death.
+[00:38:26.276 --> 00:38:27.476] PICARD: You think you're going to be killed?
+[00:38:28.836 --> 00:38:30.836] JONO: To attack a superior is the worst offence.
+[00:38:31.316 --> 00:38:32.356] JONO: I will die at your hands.
+[00:38:34.516 --> 00:38:35.316] PICARD: Jono, you're not
+[00:38:37.076 --> 00:38:39.156] PICARD: going to die at my hands or anyone else's.
+[00:38:41.396 --> 00:38:42.836] JONO: But I have committed a terrible crime.
+[00:38:43.796 --> 00:38:45.396] PICARD: What I want to know is why?
+[00:38:48.276 --> 00:38:50.596] PICARD: You seemed so happy just a few hours ago.
+[00:38:52.436 --> 00:38:52.996] JONO: I was.
+[00:38:56.207 --> 00:38:57.327] JONO: Then I thought about my father.
+[00:39:00.687 --> 00:39:01.807] JONO: I felt I had betrayed him.
+[00:39:03.327 --> 00:39:06.847] JONO: I'd be throwing away all that he's given me, all that I'd learned from him.
+[00:39:08.447 --> 00:39:12.847] JONO: My home, running along the river, playing in the games,
+[00:39:14.927 --> 00:39:16.447] JONO: sharing victory with my brothers. All
+[00:39:19.087 --> 00:39:20.287] JONO: the things that are part of my life.
+[00:39:24.287 --> 00:39:25.407] JONO: As I grew closer and closer
+[00:39:27.487 --> 00:39:27.807] JONO: to you,
+[00:39:30.127 --> 00:39:32.447] JONO: I knew that meant leaving more and more of that life behind.
+[00:39:35.727 --> 00:39:36.447] JONO: Forgive me, Captain,
+[00:39:38.447 --> 00:39:39.807] JONO: but I could not allow myself to do that.
+[00:39:46.527 --> 00:39:51.247] WORF: The Q'Maire is requesting communication on a secure channel, Commander.
+[00:39:51.487 --> 00:39:52.378] RIKER: On screen.
+[00:39:52.378 --> 00:39:57.727] ENDAR: Commander Riker, you have failed to transport my son aboard the Q'Maire.
+[00:39:58.127 --> 00:40:00.207] RIKER: Our intentions have not changed, Endar.
+[00:40:00.767 --> 00:40:02.127] RIKER: We're returning him to Starfleet.
+[00:40:04.047 --> 00:40:06.047] ENDAR: I regret your stubbornness.
+[00:40:07.007 --> 00:40:08.367] ENDAR: Much will be lost.
+[00:40:09.967 --> 00:40:10.687] PICARD: One moment, Captain.
+[00:40:18.287 --> 00:40:19.007] PICARD: Captain Endar,
+[00:40:23.691 --> 00:40:26.696] PICARD: last night Jono attacked me with a dagger.
+[00:40:26.696 --> 00:40:32.331] ENDAR: Which he could not have done had he been returned to me with the others!
+[00:40:32.571 --> 00:40:36.011] PICARD: There was a crime committed on board this ship, but it was not Jono's.
+[00:40:36.011 --> 00:40:36.651] PICARD: It was mine.
+[00:40:38.091 --> 00:40:41.051] PICARD: When we found Jono, it seemed so clear what had to be done.
+[00:40:41.851 --> 00:40:49.851] PICARD: We knew that if only we could persuade him to make the decision to stay, then you would most likely let him.
+[00:40:50.571 --> 00:40:55.291] PICARD: So with the best of intentions, we tried to convince him, and in so doing,
+[00:40:57.611 --> 00:41:02.331] PICARD: we thoroughly failed to listen to his feelings, to his needs.
+[00:41:03.771 --> 00:41:10.731] PICARD: That was the crime, and it has taken a huge toll on a strong and very
+[00:41:13.131 --> 00:41:14.251] PICARD: noble young man.
+[00:41:15.131 --> 00:41:16.171] PICARD: And it must be rectified.
+[00:41:17.051 --> 00:41:20.491] PICARD: He will return home. To the only home he's ever known.
+[00:41:22.171 --> 00:41:23.451] PICARD: And to the father that he loves.
+[00:41:25.371 --> 00:41:25.931] PICARD: To you, Endar.
+[00:41:31.051 --> 00:41:32.411] ENDAR: Thank you, Captain.
+[00:41:33.931 --> 00:41:36.411] PICARD: Please transmit coordinates for immediate transport.
+[00:41:53.376 --> 00:41:53.936] PICARD: Goodbye, Jono.
+[00:41:55.136 --> 00:41:55.776] JONO: Goodbye, Captain.
+[00:41:56.576 --> 00:41:56.816] JONO: Thank you.
+[00:42:34.000 --> 00:42:50.000] [music]

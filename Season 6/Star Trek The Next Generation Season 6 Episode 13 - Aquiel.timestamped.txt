@@ -1,0 +1,645 @@
+[00:00:03.120 --> 00:00:06.080] LOG: Captain's log, stardate 46461.3.
+[00:00:06.560 --> 00:00:11.680] LOG: We have arrived at a communication relay station near the Klingon border, where we are scheduled to deliver supplies.
+[00:00:12.160 --> 00:00:15.280] LOG: However, the station has not responded to repeated hails.
+[00:00:22.560 --> 00:00:23.520] CRUSHER: What's that noise?
+[00:00:23.840 --> 00:00:25.680] LAFORGE: They must've left an audio monitoring system on.
+[00:00:25.680 --> 00:00:27.680] LAFORGE: We're hearing a few thousand subspace messages.
+[00:00:28.160 --> 00:00:28.880] LAFORGE: I'll try and shut it
+[00:00:32.240 --> 00:00:32.240] LAFORGE: off.
+[00:00:39.040 --> 00:00:39.360] LAFORGE: Got it.
+[00:00:43.120 --> 00:00:43.680] RIKER: Geordi, what's that?
+[00:00:44.800 --> 00:00:45.040] LAFORGE: I don't know.
+[00:00:45.040 --> 00:00:46.560] LAFORGE: Sounds like a loose panel or something.
+[00:00:46.560 --> 00:00:50.000] LAFORGE: I think it's coming from this service duct over here.
+[00:00:58.880 --> 00:00:59.840] RIKER: Here's your loose panel.
+[00:01:05.440 --> 00:01:06.400] LAFORGE: Hey, pooch.
+[00:01:07.840 --> 00:01:08.480] LAFORGE: hey, pooch,
+[00:01:08.480 --> 00:01:09.040] LAFORGE: come on out of there.
+[00:01:09.360 --> 00:01:09.760] LAFORGE: Come on.
+[00:01:09.760 --> 00:01:11.680] LAFORGE: Come on.
+[00:01:12.640 --> 00:01:13.040] LAFORGE: Hey, pooch,
+[00:01:13.200 --> 00:01:15.680] LAFORGE: what are you doing in there?
+[00:01:17.200 --> 00:01:18.800] WORF: Commander, the shuttlecraft is gone.
+[00:01:18.960 --> 00:01:20.080] WORF: There is no one on board.
+[00:01:20.720 --> 00:01:21.200] CRUSHER: Commander?
+[00:01:21.200 --> 00:01:22.320] RIKER: What
+[00:01:32.960 --> 00:01:33.120] RIKER: is it?
+[00:01:34.620 --> 00:01:35.500] CRUSHER: Cellular residue.
+[00:01:38.140 --> 00:01:40.620] CRUSHER: I believe these are the remains of one of our lieutenants.
+[00:02:09.900 --> 00:02:12.700] PICARD: Space, the final frontier.
+[00:02:14.540 --> 00:02:17.420] PICARD: These are the voyages of the starship Enterprise.
+[00:02:18.540 --> 00:02:26.540] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:28.220 --> 00:02:30.700] PICARD: to boldly go where no one has gone
+[00:02:32.460 --> 00:02:34.460] PICARD: before.
+[00:03:01.000 --> 00:03:10.000] [music]
+[00:03:38.862 --> 00:03:42.622] CRUSHER: All of the blood traces I found match those of Lieutenant Aquiel Uhnari.
+[00:03:43.582 --> 00:03:47.102] CRUSHER: I'll assume those are her remains but I'll need to take the deck plate back to Sickbay just to be sure.
+[00:03:47.502 --> 00:03:49.102] RIKER: It would take a powerful weapon to do that.
+[00:03:50.222 --> 00:03:52.062] CRUSHER: I'll have a better idea once I've analysed the deck plate.
+[00:03:52.302 --> 00:03:53.982] RIKER: If that is Uhnari, where's Rocha?
+[00:03:53.982 --> 00:03:56.382] CRUSHER: The station's shuttle's gone.
+[00:03:56.782 --> 00:03:57.422] CRUSHER: Maybe he took it.
+[00:03:59.822 --> 00:04:01.262] RIKER: Before Uhnari died or after?
+[00:04:03.262 --> 00:04:03.982] WORF: We're ready, Commander.
+[00:04:04.132 --> 00:04:04.732] RIKER: Did
+[00:04:06.862 --> 00:04:10.302] RIKER: you have any luck downloading the station logs?
+[00:04:10.302 --> 00:04:10.702] LAFORGE: Not yet.
+[00:04:10.702 --> 00:04:13.342] LAFORGE: I can't get past these security lock-outs, and I think I know why.
+[00:04:13.822 --> 00:04:16.222] LAFORGE: All encrypted subspace messages are sent through this channel.
+[00:04:16.942 --> 00:04:18.622] LAFORGE: Take a look at this signal notation.
+[00:04:20.062 --> 00:04:20.782] RIKER: It's out of sequence.
+[00:04:20.942 --> 00:04:26.382] LAFORGE: Looks like somebody tried to by pass the access protocols and break into the coded messages. It caused the security lockouts to freeze right up.
+[00:04:27.102 --> 00:04:28.062] RIKER: Are there any messages missing?
+[00:04:28.942 --> 00:04:30.622] LAFORGE: I won't know until I get into the files.
+[00:04:31.502 --> 00:04:32.462] RIKER: Looks like you've made a friend.
+[00:04:32.942 --> 00:04:33.262] LAFORGE: Yeah.
+[00:04:33.262 --> 00:04:34.782] RIKER: We're going to back to the ship.
+[00:04:35.102 --> 00:04:36.142] RIKER: Let me know as soon as you have something.
+[00:04:36.142 --> 00:04:38.142] LAFORGE: I'm going to try accessing the logs from another console.
+[00:04:53.827 --> 00:04:54.867] LAFORGE: What's going on here?
+[00:04:55.017 --> 00:04:55.617] LAFORGE: Well,
+[00:04:58.627 --> 00:05:01.187] LAFORGE: we can start with repolarising the interface.
+[00:05:08.147 --> 00:05:08.387] LAFORGE: What
+[00:05:12.227 --> 00:05:12.627] LAFORGE: is it, pup?
+[00:05:15.187 --> 00:05:15.427] LAFORGE: What's the matter?
+[00:05:17.507 --> 00:05:18.067] LAFORGE: Something over here?
+[00:05:20.627 --> 00:05:20.627] LAFORGE: This
+[00:05:22.387 --> 00:05:23.587] LAFORGE: doesn't look like it belongs to you.
+[00:05:25.907 --> 00:05:26.627] LAFORGE: Ah,
+[00:05:28.307 --> 00:05:29.267] LAFORGE: This what you want, huh?
+[00:05:32.867 --> 00:05:33.427] LAFORGE: There you go.
+[00:05:35.427 --> 00:05:37.587] LAFORGE: Computer, run station logs in sequence.
+[00:05:38.307 --> 00:05:41.347] AQUIEL: Station log, stardate 46458.3.
+[00:05:41.827 --> 00:05:44.227] AQUIEL: Today we configured the relay controller grid.
+[00:05:44.467 --> 00:05:46.867] AQUIEL: It was the last primary system we had to overhaul.
+[00:05:47.267 --> 00:05:51.187] AQUIEL: We are scheduled to recalibrate and align the antennae systems in the next three days.
+[00:05:51.587 --> 00:05:53.187] LAFORGE: Computer, access visual output.
+[00:05:55.107 --> 00:05:57.587] AQUIEL: Sent in my third request for a message delay buffer.
+[00:05:57.587 --> 00:06:01.827] AQUIEL: Until it arrives, Lieutenant Rocha and I have rigged a memory module to compensate.
+[00:06:02.387 --> 00:06:06.307] AQUIEL: It better work, or about a half million subspace messages are going to end up drifting
+[00:06:06.512 --> 00:06:10.352] AQUIEL: through space. Computer, open Uhnari correspondence file.
+[00:06:12.832 --> 00:06:16.112] LAFORGE: Computer, access correspondence files, Lieutenant Aquiel Uhnari.
+[00:06:20.832 --> 00:06:21.712] AQUIEL: Hello, Shiana.
+[00:06:22.192 --> 00:06:25.632] AQUIEL: Sorry I haven't talked to you in a while but I've been dealing with the new Lieutenant, Rocha.
+[00:06:26.112 --> 00:06:30.752] AQUIEL: So far he's been rude, arrogant and condescending, and he's only been here two days.
+[00:06:31.152 --> 00:06:32.352] AQUIEL: This might be a long year.
+[00:06:33.472 --> 00:06:35.312] LAFORGE: Come on, Lieutenant. Stick with me.
+[00:06:35.792 --> 00:06:36.672] AQUIEL: I had the dream again.
+[00:06:37.312 --> 00:06:38.512] AQUIEL: Mother's calling out my name.
+[00:06:39.072 --> 00:06:40.272] AQUIEL: She's somewhere in the house.
+[00:06:40.272 --> 00:06:43.232] AQUIEL: I get to the top of the hill all right, but then the house is slanted.
+[00:06:43.712 --> 00:06:44.912] AQUIEL: I'm still walking uphill.
+[00:06:45.232 --> 00:06:46.192] AQUIEL: I can't find her.
+[00:06:46.672 --> 00:06:48.592] AQUIEL: Doors everywhere and they all look the same.
+[00:06:50.352 --> 00:06:52.352] CRUSHER: The
+[00:06:59.152 --> 00:07:02.112] CRUSHER: cellular residue is completely fused with to metal of the deck plate.
+[00:07:02.912 --> 00:07:06.112] CRUSHER: We're trying to micro-vaporise the metal in order to get a clear DNA sample.
+[00:07:06.832 --> 00:07:08.272] PICARD: Do you have any idea what killed her?
+[00:07:09.552 --> 00:07:16.032] CRUSHER: Well this is just a guess, but from the molecular deposition on the plating I'd say it was a high-level phaser blast.
+[00:07:16.672 --> 00:07:17.952] RIKER: Could it have been a Klingon disruptor?
+[00:07:18.112 --> 00:07:18.672] CRUSHER: Possibly.
+[00:07:19.392 --> 00:07:21.952] RIKER: Geordi's found evidence that the encrypted messages have been tampered with, and
+[00:07:22.272 --> 00:07:23.552] RIKER: we are close to Klingon space.
+[00:07:23.872 --> 00:07:27.472] PICARD: There hasn't been a Klingon raid against the Federation for more than seven years.
+[00:07:28.672 --> 00:07:31.232] PICARD: We can't risk a diplomatic incident until we have more evidence.
+[00:07:32.073 --> 00:07:34.713] CRUSHER: And there's still the question of what happened to Lieutenant Rocha.
+[00:07:35.753 --> 00:07:40.633] PICARD: Get Rocha's personnel file from Starfleet Command, and ask Starbase two twelve to help us find that shuttle.
+[00:07:40.873 --> 00:07:41.353] RIKER: Aye, sir.
+[00:07:41.353 --> 00:07:42.313] PICARD: Keep me apprised, Doctor.
+[00:07:43.513 --> 00:07:43.513] LAFORGE: All
+[00:07:51.193 --> 00:07:53.913] LAFORGE: right, let's try this again.
+[00:07:54.873 --> 00:07:56.233] LAFORGE: Come on, this should be working.
+[00:07:56.233 --> 00:07:57.833] LAFORGE: The phase inducters are aligned.
+[00:07:59.753 --> 00:08:01.433] LAFORGE: Come on, Lieutenant, I know you're in here somewhere.
+[00:08:03.353 --> 00:08:09.353] LAFORGE: Computer me run a subsystem diagnostic, with a frequency range of ten to one hundred megahertz.
+[00:08:10.393 --> 00:08:13.273] COMPUTER: Diagnostic cycle will be complete in twenty seconds.
+[00:08:13.753 --> 00:08:14.153] LAFORGE: Iced coffee?
+[00:08:25.113 --> 00:08:25.673] LAFORGE: What is it, girl?
+[00:08:42.233 --> 00:08:42.953] AQUIEL: Hello, Shiana.
+[00:08:43.193 --> 00:08:43.833] AQUIEL: By
+[00:08:43.913 --> 00:08:46.233] AQUIEL: the time you get this the Batarael will be over.
+[00:08:47.273 --> 00:08:48.793] AQUIEL: This is the first time I haven't been there.
+[00:08:49.993 --> 00:08:52.793] AQUIEL: I've been wondering, who's singing the Horath in my place.
+[00:08:55.513 --> 00:08:57.513] AQUIEL: Jomiael hahnalia ma marou nitalia. Rumael
+[00:08:59.433 --> 00:08:59.433] AQUIEL: tavariel fatra di va Jomiael.
+[00:09:01.642 --> 00:09:03.082] AQUIEL: I
+[00:09:23.802 --> 00:09:29.002] AQUIEL: had that dream again. The one where Mother is screaming.
+[00:09:29.402 --> 00:09:33.722] AQUIEL: I climb the hill to our house but I can't get to her.
+[00:09:34.362 --> 00:09:36.282] AQUIEL: Shiana, this time I ran away.
+[00:09:37.562 --> 00:09:38.522] AQUIEL: I was so scared
+[00:09:38.842 --> 00:09:39.962] AQUIEL: I ran back down the hill.
+[00:09:40.682 --> 00:09:45.482] AQUIEL: I think I know why I've been having the dreams about danger.
+[00:09:45.962 --> 00:09:48.202] AQUIEL: It's because of what's been happening with that Klingon.
+[00:09:49.002 --> 00:09:51.002] AQUIEL: He's getting more aggressive all the time.
+[00:09:52.202 --> 00:09:53.482] AQUIEL: Not just the usual threat.
+[00:09:55.322 --> 00:09:59.162] AQUIEL: It's because of what's been happening with that Klingon.
+[00:10:00.042 --> 00:10:02.362] AQUIEL: He's getting more aggressive all the time.
+[00:10:03.562 --> 00:10:04.922] AQUIEL: Not just the usual threat.
+[00:10:05.242 --> 00:10:08.682] AQUIEL: Morag actually locked his disruptors to the station this time.
+[00:10:09.562 --> 00:10:12.282] AQUIEL: I don't think there'll be any trouble.
+[00:10:13.402 --> 00:10:13.802] AQUIEL: It just
+[00:10:15.402 --> 00:10:22.282] AQUIEL: brings up those feelings of panic, of wanting to run, wanting to get away from danger.
+[00:10:23.082 --> 00:10:26.922] AQUIEL: Shiana, I couldn't say this to anyone but you,
+[00:10:27.777 --> 00:10:35.777] AQUIEL: but the panic? It's the same thing I used to feel whenever Father got angry, when I knew he was going to punish me.
+[00:10:37.937 --> 00:10:41.057] AQUIEL: Only now, I'm out here in space, and
+[00:10:43.217 --> 00:10:46.177] AQUIEL: there's no place to run.
+[00:10:46.177 --> 00:10:50.497] LAFORGE: There are three references to a Commander Morag, a Klingon officer who patrols this section of the border.
+[00:10:50.737 --> 00:10:53.697] LAFORGE: Apparently he would pass the station every few days and harass them.
+[00:10:54.897 --> 00:10:59.857] PICARD: Perhaps this Morag was the one who was interested in obtaining the encrypted messages.
+[00:11:00.097 --> 00:11:01.297] LAFORGE: Could be. She didn't say.
+[00:11:01.297 --> 00:11:03.617] LAFORGE: But I do have several more days of logs left to watch.
+[00:11:03.937 --> 00:11:04.657] LAFORGE: I'm hoping to learn more.
+[00:11:05.057 --> 00:11:05.537] PICARD: Very well.
+[00:11:06.097 --> 00:11:08.897] PICARD: In the meantime, I'll speak with the Klingon Governor about Commander Morag.
+[00:11:17.697 --> 00:11:20.577] TORAK: Are you saying we attacked your outpost?
+[00:11:21.377 --> 00:11:25.537] PICARD: I'm merely saying that I'm following up on evidence that my officers discovered on board.
+[00:11:26.177 --> 00:11:27.217] TORAK: Evidence.
+[00:11:28.097 --> 00:11:30.337] TORAK: So you are making an accusation.
+[00:11:30.737 --> 00:11:34.737] TORAK: The Klingon Empire will not stand for these kinds of lies.
+[00:11:35.057 --> 00:11:37.937] PICARD: Governor Torak, I apologise.
+[00:11:38.017 --> 00:11:41.617] PICARD: I can see that you honestly didn't know what happened aboard the station.
+[00:11:43.057 --> 00:11:45.297] PICARD: I will just have to take this matter up with Gowron.
+[00:11:45.297 --> 00:11:46.737] PICARD: I'm really sorry that we bothered you.
+[00:11:47.537 --> 00:11:49.937] TORAK: Gowron won't bother with such a minor incident.
+[00:11:50.337 --> 00:11:54.097] PICARD: Well, ordinarily he wouldn't, but of course I was his Arbiter of Succession.
+[00:11:54.657 --> 00:11:57.217] PICARD: I'm sure that he will be happy to come here and investigate this matter.
+[00:11:57.857 --> 00:11:59.297] PICARD: You needn't worry about it any longer.
+[00:12:00.417 --> 00:12:01.537] TORAK: Gowron will come here?
+[00:12:02.906 --> 00:12:03.466] PICARD: Oh, yes.
+[00:12:04.506 --> 00:12:06.266] PICARD: So once again, thank you for your help.
+[00:12:06.986 --> 00:12:10.266] PICARD: Oh, I will be sure to mention your name to Gowron when I speak to him.
+[00:12:11.226 --> 00:12:13.306] TORAK: I will investigate this further, Picard.
+[00:12:13.866 --> 00:12:17.306] TORAK: You need not bother Gowron with this matter.
+[00:12:19.066 --> 00:12:20.026] PICARD: That's very kind.
+[00:12:21.386 --> 00:12:22.146] PICARD: Qapla'!
+[00:12:22.146 --> 00:12:22.906] TORAK: Qapla'!
+[00:12:32.906 --> 00:12:36.746] LAFORGE: Computer access the personal logs of Aquiel Uhnari.
+[00:12:37.226 --> 00:12:38.186] COMPUTER: Logs accessed.
+[00:12:38.266 --> 00:12:38.986] LAFORGE: Begin playback.
+[00:12:40.506 --> 00:12:43.226] AQUIEL: Shiana, you always said I'd look great with a wig, so
+[00:12:44.426 --> 00:12:45.066] AQUIEL: here it is.
+[00:12:45.786 --> 00:12:46.346] AQUIEL: What do you think?
+[00:12:48.906 --> 00:12:49.626] LAFORGE: Definitely not you.
+[00:12:52.906 --> 00:12:55.786] AQUIEL: Okay, maybe I'm getting a little crazy.
+[00:12:56.986 --> 00:13:04.426] AQUIEL: You would too, if you were stuck on a relay station in the middle of nowhere with no one for company except an egomaniac like Keith Rocha.
+[00:13:05.866 --> 00:13:06.986] AQUIEL: I took a big risk today.
+[00:13:08.986 --> 00:13:10.586] AQUIEL: I countermanded an order he gave.
+[00:13:11.306 --> 00:13:15.786] AQUIEL: I agreed to handle the comm. traffic for Relay Station one nine four while they shut down for maintenance.
+[00:13:17.066 --> 00:13:21.066] AQUIEL: Rocha said we couldn't handle the additional signal load, but I think he's wrong.
+[00:13:23.066 --> 00:13:25.226] AQUIEL: When he finds out he'll be furious.
+[00:13:25.626 --> 00:13:25.626] AQUIEL: It's days
+[00:13:27.786 --> 00:13:29.066] AQUIEL: like this I wish I was home.
+[00:13:32.106 --> 00:13:33.226] AQUIEL: You know what I miss most?
+[00:13:34.416 --> 00:13:37.856] AQUIEL: Muskan seed punch. Real Muskan seed punch.
+[00:13:38.176 --> 00:13:40.576] AQUIEL: You can get it from the replicator, but it's not the same.
+[00:13:42.576 --> 00:13:48.896] AQUIEL: I'd give anything for some of the punch Mother used to make with chunks of the seeds still in it.
+[00:13:53.936 --> 00:13:55.136] AQUIEL: Keith, is that you?
+[00:13:57.696 --> 00:13:57.856] AQUIEL: Keith?
+[00:14:12.896 --> 00:14:14.896] WORF: Commander,
+[00:14:17.776 --> 00:14:19.216] WORF: there are DNA traces here.
+[00:14:19.856 --> 00:14:20.576] WORF: Klingon.
+[00:14:21.456 --> 00:14:22.976] RIKER: So Klingons did board the station?
+[00:14:23.776 --> 00:14:28.656] WORF: Yes, but I only found DNA from one Klingon so far.
+[00:14:28.976 --> 00:14:29.936] WORF: I will continue to scan.
+[00:14:39.776 --> 00:14:39.776] LAFORGE: How
+[00:14:42.656 --> 00:14:43.616] LAFORGE: could she read this stuff?
+[00:14:45.136 --> 00:14:45.456] RIKER: How's it going?
+[00:14:46.976 --> 00:14:50.096] LAFORGE: I've managed to access all of Lieutenant Uhnari's logs.
+[00:14:50.176 --> 00:14:51.936] LAFORGE: I'm still looking for Lieutenant Rocha's.
+[00:14:53.056 --> 00:14:57.056] LAFORGE: Whatever happened to the encrypted messages had a cascade effect on the whole storage system.
+[00:14:57.216 --> 00:14:58.336] LAFORGE: I can't find his files anywhere.
+[00:14:58.816 --> 00:15:00.416] LAFORGE: I'm running a level three diagnostic now.
+[00:15:00.976 --> 00:15:02.896] RIKER: Maybe Rocha didn't make the official logs.
+[00:15:03.136 --> 00:15:04.576] RIKER: Uhnari could have been responsible for them.
+[00:15:04.976 --> 00:15:05.776] LAFORGE: I don't think so.
+[00:15:06.200 --> 00:15:07.640] LAFORGE: Aquiel was the junior officer here.
+[00:15:08.840 --> 00:15:09.320] RIKER: Aquiel?
+[00:15:11.000 --> 00:15:12.040] LAFORGE: Lieutenant Uhnari.
+[00:15:12.680 --> 00:15:14.360] LAFORGE: I've been up all night watching her personal logs.
+[00:15:14.360 --> 00:15:16.760] LAFORGE: I guess I'm starting to feel like I know her.
+[00:15:16.760 --> 00:15:17.400] RIKER: What was she like?
+[00:15:18.840 --> 00:15:20.360] LAFORGE: Well she was Hahliian.
+[00:15:20.840 --> 00:15:23.000] LAFORGE: She had one sister named Shiana,
+[00:15:23.560 --> 00:15:25.000] LAFORGE: she drank muskan seed punch.
+[00:15:25.880 --> 00:15:29.000] LAFORGE: She had a quirky sense of humour.
+[00:15:30.280 --> 00:15:31.080] LAFORGE: She liked to sing.
+[00:15:31.880 --> 00:15:35.000] LAFORGE: She had questionable taste in literature.
+[00:15:36.040 --> 00:15:37.240] PICARD: Enterprise to Commander Riker.
+[00:15:38.040 --> 00:15:38.520] RIKER: Riker here.
+[00:15:39.080 --> 00:15:42.120] PICARD: The Klingon ship Qu'Vat has arrived with Governor Torak.
+[00:15:42.840 --> 00:15:44.360] PICARD: Please report to the Observation lounge.
+[00:15:45.000 --> 00:15:45.560] RIKER: We're on our way.
+[00:15:57.320 --> 00:15:58.200] WORF: Governor Torak, sir.
+[00:16:03.480 --> 00:16:04.440] PICARD: Governor. Welcome aboard.
+[00:16:05.560 --> 00:16:08.440] TORAK: Do not bore me with your human pleasantries.
+[00:16:10.200 --> 00:16:13.000] TORAK: I told you we did not kill the woman.
+[00:16:13.000 --> 00:16:15.160] TORAK: Now I will prove it to you.
+[00:16:15.960 --> 00:16:16.600] TORAK: ghoS!
+[00:16:21.240 --> 00:16:25.160] TORAK: This is Lieutenant Aquiel Uhnari.
+[00:16:41.819 --> 00:16:44.699] AQUIEL: We were running a level two diagnostic of the message buffer,
+[00:16:44.779 --> 00:16:45.419] AQUIEL: Nothing special.
+[00:16:46.139 --> 00:16:51.659] AQUIEL: Rocha had been on edge all morning, but he'd been irritable ever since he got there, so I didn't think anything of it.
+[00:16:52.779 --> 00:16:57.659] AQUIEL: We were halfway through the procedure when suddenly he attacked me.
+[00:16:58.539 --> 00:17:00.699] AQUIEL: He grabbed me, threw me against a bulkhead.
+[00:17:01.019 --> 00:17:03.179] AQUIEL: I yelled at him to stop but he wouldn't listen.
+[00:17:03.419 --> 00:17:04.779] AQUIEL: He took me by the throat.
+[00:17:05.019 --> 00:17:07.579] AQUIEL: I broke free and tried to get to the weapons locker.
+[00:17:08.939 --> 00:17:12.859] AQUIEL: I'm not sure what happened next but somehow I got aboard the shuttle and left.
+[00:17:14.139 --> 00:17:18.299] TORAK: We found her on our side of the border heading toward Sector two five two zero.
+[00:17:19.419 --> 00:17:22.379] TORAK: She is lucky my patrol ship did not destroy her vessel on sight.
+[00:17:23.659 --> 00:17:24.139] PICARD: Lieutenant,
+[00:17:26.139 --> 00:17:27.579] PICARD: why didn't you contact Starfleet?
+[00:17:27.579 --> 00:17:27.819] PICARD: Let
+[00:17:29.819 --> 00:17:31.739] PICARD: them know what happened on board the station?
+[00:17:32.379 --> 00:17:33.179] AQUIEL: I don't know, sir.
+[00:17:33.339 --> 00:17:34.139] AQUIEL: Maybe I passed out.
+[00:17:34.939 --> 00:17:38.219] AQUIEL: I'm not even sure how long I was in the shuttle before the Klingons picked me up.
+[00:17:38.859 --> 00:17:39.659] LAFORGE: Forty six hours.
+[00:17:40.619 --> 00:17:41.819] LAFORGE: You've been gone forty six hours.
+[00:17:43.099 --> 00:17:44.139] CRUSHER: We presumed you were dead.
+[00:17:45.179 --> 00:17:47.019] CRUSHER: Your blood stains were found at the murder scene.
+[00:17:47.339 --> 00:17:49.499] AQUIEL: I must have cut my head when he pushed me against the bulkhead.
+[00:17:50.139 --> 00:17:52.859] WORF: Then the remains we found must be those of Lieutenant Rocha.
+[00:17:53.499 --> 00:17:54.459] CRUSHER: I can't confirm that.
+[00:17:55.259 --> 00:18:00.539] CRUSHER: Until we're able to separate the cellular residue from the deck plate, I won't be able to do a clear DNA scan.
+[00:18:00.859 --> 00:18:02.619] RIKER: You said you were trying to get to the weapons locker.
+[00:18:03.659 --> 00:18:05.099] RIKER: Is there a possibility that you did?
+[00:18:05.579 --> 00:18:07.579] AQUIEL: No, I didn't.
+[00:18:09.537 --> 00:18:09.937] RIKER: You're sure?
+[00:18:12.177 --> 00:18:15.617] AQUIEL: I don't remember exactly what happened to me after I was attacked.
+[00:18:17.377 --> 00:18:17.937] AQUIEL: I'm sorry.
+[00:18:19.057 --> 00:18:22.577] AQUIEL: It's as if all my memories were drained out of me.
+[00:18:23.697 --> 00:18:26.177] LAFORGE: Your logs said that a Commander Morag had been harassing you.
+[00:18:26.737 --> 00:18:28.737] LAFORGE: Did you let him or any other Klingon aboard the station?
+[00:18:29.137 --> 00:18:29.937] AQUIEL: Absolutely not.
+[00:18:30.977 --> 00:18:36.417] WORF: If that is true, then Morag or some other Klingon must have boarded the station after she left.
+[00:18:37.137 --> 00:18:39.697] WORF: We found traces of Klingon DNA on the station.
+[00:18:40.177 --> 00:18:42.737] TORAK: You still try to blame us.
+[00:18:43.137 --> 00:18:48.657] WORF: Have the courage to admit your mistakes. Or are you a lo'Be Vos?
+[00:18:49.377 --> 00:18:51.617] TORAK: At least I do not wear the uniform of the P'tak!
+[00:18:52.177 --> 00:18:54.657] PICARD: Governor, we are merely exploring all the possibilities.
+[00:18:54.897 --> 00:18:59.457] PICARD: Lieutenant Uhnari's logs reported that Commander Morag had been harassing the station.
+[00:18:59.777 --> 00:19:01.057] TORAK: He was doing his job.
+[00:19:01.937 --> 00:19:06.017] PICARD: If he was only doing his job, then I'm sure you won't mind if we spoke with him.
+[00:19:08.497 --> 00:19:08.977] TORAK: Very well.
+[00:19:10.257 --> 00:19:15.057] TORAK: In the interests of diplomacy, I will allow you to speak to Morag.
+[00:19:16.257 --> 00:19:17.857] TORAK: But my patience has limits.
+[00:19:21.857 --> 00:19:26.337] LAFORGE: Lieutenant, I know a friend of yours who's very eager to see you.
+[00:19:27.217 --> 00:19:27.737] AQUIEL: Who?
+[00:19:27.737 --> 00:19:29.297] LAFORGE: Come with me.
+[00:19:33.937 --> 00:19:34.097] AQUIEL: Maura!
+[00:19:35.635 --> 00:19:36.595] AQUIEL: Come here, girl.
+[00:19:37.475 --> 00:19:38.755] AQUIEL: Come on, Maura.
+[00:19:39.075 --> 00:19:41.315] LAFORGE: Maura. That's the name.
+[00:19:41.315 --> 00:19:43.555] AQUIEL: Yes, it's from Cold Moon Over Blackwater.
+[00:19:44.035 --> 00:19:44.595] AQUIEL: Have you read it?
+[00:19:44.595 --> 00:19:46.115] LAFORGE: I'm not much for gothic fiction.
+[00:19:46.515 --> 00:19:48.035] AQUIEL: Not many people are nowadays.
+[00:19:50.355 --> 00:19:51.635] AQUIEL: Oh, your shoe.
+[00:19:51.715 --> 00:19:54.115] LAFORGE: Yeah, Maura got a little restless.
+[00:19:54.595 --> 00:19:56.195] AQUIEL: Maura, shame on you.
+[00:19:56.515 --> 00:19:57.475] AQUIEL: That's not like you.
+[00:19:57.795 --> 00:19:58.915] AQUIEL: What a naughty dog.
+[00:19:59.555 --> 00:20:00.115] LAFORGE: It's all right,
+[00:20:00.115 --> 00:20:00.915] LAFORGE: don't worry about it.
+[00:20:01.155 --> 00:20:02.835] LAFORGE: At least she's chewing them up in pairs.
+[00:20:03.715 --> 00:20:03.875] LAFORGE: I'll
+[00:20:08.995 --> 00:20:09.955] LAFORGE: arrange quarters for you.
+[00:20:10.515 --> 00:20:11.715] LAFORGE: I'm sure you want some time alone.
+[00:20:12.515 --> 00:20:15.555] AQUIEL: Actually I've been stuck on that station for over nine months.
+[00:20:15.875 --> 00:20:17.875] AQUIEL: I wouldn't mind going someplace with some activity.
+[00:20:18.025 --> 00:20:19.025] LAFORGE: I know
+[00:20:19.635 --> 00:20:20.435] LAFORGE: just the place.
+[00:20:20.675 --> 00:20:20.803] BARMAN: Here you are, sir.
+[00:20:20.803 --> 00:20:20.835] AQUIEL: Thank
+[00:20:22.675 --> 00:20:24.675] AQUIEL: you.
+[00:20:24.675 --> 00:20:24.675] LAFORGE: You're welcome.
+[00:20:24.675 --> 00:20:24.675] AQUIEL: Mmmm.
+[00:20:39.475 --> 00:20:40.245] AQUIEL: Have you ever tried Muskan seed punch?
+[00:20:40.245 --> 00:20:40.355] LAFORGE: Yeah.
+[00:20:40.995 --> 00:20:42.595] LAFORGE: It nearly made me sick.
+[00:20:42.595 --> 00:20:44.995] AQUIEL: You have to be raised on it.
+[00:20:45.635 --> 00:20:46.755] AQUIEL: It's very nutritious.
+[00:20:47.475 --> 00:20:49.795] AQUIEL: The taste grows on you.
+[00:20:50.035 --> 00:20:51.235] LAFORGE: Batar al nalia.
+[00:20:51.235 --> 00:20:51.395] AQUIEL: You
+[00:20:53.715 --> 00:20:54.675] AQUIEL: speak Hahliian.
+[00:20:55.795 --> 00:20:57.795] LAFORGE: We travelled around quite a bit when I was growing up.
+[00:20:58.435 --> 00:21:00.195] LAFORGE: I picked up a couple of languages along the way.
+[00:21:01.795 --> 00:21:02.675] AQUIEL: We never travelled.
+[00:21:03.395 --> 00:21:06.915] AQUIEL: My family lived in the same house for five generations.
+[00:21:07.715 --> 00:21:08.275] LAFORGE: The one on the hill.
+[00:21:10.717 --> 00:21:11.437] AQUIEL: How do you know about that?
+[00:21:14.477 --> 00:21:15.197] LAFORGE: Well, to be honest,
+[00:21:16.717 --> 00:21:25.037] LAFORGE: when we thought you were dead I needed to review your logs and personal correspondence for any possible clues about what happened.
+[00:21:28.157 --> 00:21:28.637] AQUIEL: All of it?
+[00:21:30.957 --> 00:21:31.277] LAFORGE: Most of
+[00:21:32.797 --> 00:21:34.877] LAFORGE: it, yeah.
+[00:21:44.237 --> 00:21:49.437] LAFORGE: You need to understand that we thought you'd been murdered.
+[00:21:51.597 --> 00:21:52.717] LAFORGE: We needed information.
+[00:21:54.797 --> 00:21:55.517] AQUIEL: I'm sorry.
+[00:21:57.437 --> 00:22:02.877] AQUIEL: It's just that I tell my sister things I wouldn't tell anyone else.
+[00:22:05.837 --> 00:22:07.757] AQUIEL: I guess I was feeling a little
+[00:22:09.277 --> 00:22:09.997] AQUIEL: exposed.
+[00:22:10.957 --> 00:22:11.997] LAFORGE: I'd feel the same way.
+[00:22:17.917 --> 00:22:20.477] AQUIEL: Especially if I had seen you in that wig.
+[00:22:20.717 --> 00:22:20.877] LAFORGE: It
+[00:22:24.557 --> 00:22:25.277] LAFORGE: really wasn't you.
+[00:22:26.077 --> 00:22:26.237] AQUIEL: I'm
+[00:22:28.637 --> 00:22:29.277] AQUIEL: curious.
+[00:22:30.237 --> 00:22:31.197] AQUIEL: Now that you've met me,
+[00:22:33.117 --> 00:22:34.317] AQUIEL: am I what you expected?
+[00:22:38.084 --> 00:22:38.804] LAFORGE: Actually, I'm
+[00:22:40.404 --> 00:22:40.884] LAFORGE: not sure.
+[00:22:43.044 --> 00:22:45.124] LAFORGE: The woman I saw in those logs is very complicated.
+[00:22:45.844 --> 00:22:49.604] LAFORGE: I think there's more to you than meets the eye, Lieutenant.
+[00:22:49.604 --> 00:22:50.164] AQUIEL: In what way?
+[00:22:51.124 --> 00:22:53.684] LAFORGE: Well, your relationship with Lieutenant Rocha, for example.
+[00:22:54.884 --> 00:22:58.724] LAFORGE: He was only there for five days and yet there was evidence of plenty of friction.
+[00:22:59.604 --> 00:23:04.164] LAFORGE: You seemed to delight in doing things that you knew would upset him.
+[00:23:05.844 --> 00:23:09.044] LAFORGE: Why take on extra comm. traffic when you knew it was going to make him angry?
+[00:23:10.564 --> 00:23:13.204] AQUIEL: Is that a personal question or part of a murder investigation?
+[00:23:15.204 --> 00:23:15.604] LAFORGE: I don't know.
+[00:23:17.124 --> 00:23:17.604] LAFORGE: Maybe both.
+[00:23:21.284 --> 00:23:24.564] AQUIEL: Keith Rocha was obnoxious from the minute he reported to duty.
+[00:23:25.444 --> 00:23:28.084] AQUIEL: He treated me as though I was beneath contempt.
+[00:23:30.484 --> 00:23:34.244] AQUIEL: I felt like I had to battle him to hold my own.
+[00:23:35.124 --> 00:23:36.564] AQUIEL: But I didn't want to see him dead.
+[00:23:38.004 --> 00:23:39.044] LAFORGE: Why do you think he attacked you?
+[00:23:40.644 --> 00:23:40.804] AQUIEL: I
+[00:23:44.244 --> 00:23:44.244] AQUIEL: don't
+[00:23:46.324 --> 00:23:46.804] AQUIEL: know.
+[00:23:49.924 --> 00:23:51.284] RIKER: Rocha's file is spotless.
+[00:23:51.844 --> 00:23:56.324] RIKER: Two decorations for valour, three outstanding evaluations from his previous commanders.
+[00:23:56.964 --> 00:23:59.284] RIKER: Doesn't sound like the same man that Lieutenant Uhnari described.
+[00:24:00.164 --> 00:24:01.364] PICARD: What did you found out about Uhnari?
+[00:24:01.364 --> 00:24:02.804] RIKER: I checked into her record, too.
+[00:24:02.884 --> 00:24:04.884] RIKER: Her last posting was on Deriben Five.
+[00:24:04.884 --> 00:24:06.084] RIKER: I spoke to her commanding officer there.
+[00:24:06.724 --> 00:24:09.444] RIKER: He said she was argumentative, quick to take offence.
+[00:24:10.103 --> 00:24:15.223] RIKER: He also told me he transferred her to that relay station because she was hampering their efforts.
+[00:24:16.023 --> 00:24:17.783] RIKER: To be honest, I'm having trouble believing her story, sir.
+[00:24:18.823 --> 00:24:18.983] PICARD: Why?
+[00:24:18.983 --> 00:24:22.023] RIKER: I sent Worf to check the weapons locker on the relay station.
+[00:24:23.463 --> 00:24:24.183] RIKER: There's a phaser missing.
+[00:24:26.183 --> 00:24:27.143] PICARD: You think that she lied?
+[00:24:27.783 --> 00:24:28.183] RIKER: Lied,
+[00:24:29.143 --> 00:24:30.263] RIKER: conveniently forgot,
+[00:24:30.263 --> 00:24:30.903] RIKER: I'm not sure.
+[00:24:31.223 --> 00:24:32.423] RIKER: I think it's something we have to consider.
+[00:24:33.303 --> 00:24:35.543] PICARD: As of now, we don't have sufficient evidence one way or the other.
+[00:24:36.823 --> 00:24:38.263] PICARD: I want you to examine her shuttle.
+[00:24:39.223 --> 00:24:42.103] PICARD: You might find something there which will shed some light on her story.
+[00:24:42.503 --> 00:24:42.743] RIKER: Aye, sir.
+[00:24:51.543 --> 00:24:53.623] AQUIEL: How much longer do you think the investigation will take?
+[00:24:54.023 --> 00:24:55.383] LAFORGE: Three, maybe four days.
+[00:24:55.383 --> 00:24:56.023] LAFORGE: It's tough to tell.
+[00:24:57.383 --> 00:24:58.743] AQUIEL: I know I'm a suspect in the murder, but
+[00:24:59.703 --> 00:25:00.663] AQUIEL: let me ask you something.
+[00:25:00.983 --> 00:25:02.103] AQUIEL: You've watched my logs.
+[00:25:02.423 --> 00:25:03.703] AQUIEL: You know me better than anyone here.
+[00:25:05.463 --> 00:25:07.623] AQUIEL: Do I seem like the kind of person who could murder someone?
+[00:25:09.943 --> 00:25:10.663] LAFORGE: No, you don't.
+[00:25:14.423 --> 00:25:17.303] AQUIEL: I don't think I realised how much I needed to hear that.
+[00:25:18.743 --> 00:25:19.623] LAFORGE: Look, Aquiel,
+[00:25:20.103 --> 00:25:21.623] LAFORGE: it's been a rough couple of days.
+[00:25:22.183 --> 00:25:23.063] LAFORGE: I think you need some sleep.
+[00:25:23.463 --> 00:25:23.543] AQUIEL: You
+[00:25:32.423 --> 00:25:33.543] AQUIEL: called me complicated.
+[00:25:34.903 --> 00:25:35.223] AQUIEL: You're right.
+[00:25:36.183 --> 00:25:37.383] AQUIEL: I don't make friends easily.
+[00:25:46.208 --> 00:25:46.288] AQUIEL: Oumriel.
+[00:26:12.048 --> 00:26:13.648] LAFORGE: Oumriel.
+[00:26:13.648 --> 00:26:14.368] WORF: Commander. It is set to kill.
+[00:26:20.208 --> 00:26:22.448] RIKER: We found this type two phaser in your shuttlecraft.
+[00:26:22.448 --> 00:26:24.688] RIKER: It was taken from the weapons locker on the station.
+[00:26:25.408 --> 00:26:27.248] AQUIEL: I told you I don't remember what happened.
+[00:26:27.328 --> 00:26:29.088] AQUIEL: Maybe I did make to the weapons locker.
+[00:26:29.408 --> 00:26:30.608] RIKER: It was set to level ten.
+[00:26:31.328 --> 00:26:34.848] RIKER: Standard procedure requires that all phasers are set on level one when they're in storage.
+[00:26:34.848 --> 00:26:37.648] WORF: That means that someone deliberately changed the setting.
+[00:26:38.448 --> 00:26:41.328] WORF: And then there is the matter of your conflict with Lieutenant Rocha.
+[00:26:41.328 --> 00:26:41.328] AQUIEL: Rocha
+[00:26:43.168 --> 00:26:46.688] AQUIEL: and I had our disagreements but that does not mean I would kill him.
+[00:26:47.728 --> 00:26:50.048] RIKER: Have you been able to remember anything that happened after he attacked you?
+[00:26:51.888 --> 00:26:52.128] AQUIEL: No.
+[00:26:53.408 --> 00:26:53.888] AQUIEL: Nothing.
+[00:26:55.568 --> 00:26:57.808] AQUIEL: I suppose maybe in self-defence I
+[00:26:57.808 --> 00:27:05.088] RIKER: Doctor Crusher tells me that in order to inflict the kind of molecular damage found in Rocha's remains, it would take a sustained phaser discharge of at least
+[00:27:05.136 --> 00:27:06.256] RIKER: thirty to forty seconds.
+[00:27:07.136 --> 00:27:08.656] RIKER: That doesn't sound like self-defence to me.
+[00:27:08.896 --> 00:27:09.456] LAFORGE: Now wait a minute.
+[00:27:11.696 --> 00:27:14.096] LAFORGE: We haven't even established this phaser is the murder weapon yet.
+[00:27:14.416 --> 00:27:16.576] LAFORGE: And even at level ten I don't see how it could have done the damage the
+[00:27:16.576 --> 00:27:17.776] LAFORGE: medical evidence says it did.
+[00:27:18.016 --> 00:27:20.176] LAFORGE: A phase disruptor like a Klingon weapon, maybe.
+[00:27:20.176 --> 00:27:22.096] RIKER: Look, we're not here to make accusations.
+[00:27:22.096 --> 00:27:23.456] RIKER: We're trying to find out what happened.
+[00:27:24.256 --> 00:27:26.096] RIKER: Commander Morag is due here in two hours.
+[00:27:26.096 --> 00:27:26.896] RIKER: Let's see what he has to say.
+[00:27:27.056 --> 00:27:27.296] LAFORGE: Fine.
+[00:27:27.936 --> 00:27:31.536] LAFORGE: In the meantime I'd like to go back to the station and see if I can access Rocha's personal logs again.
+[00:27:32.256 --> 00:27:32.736] RIKER: Good idea.
+[00:27:43.936 --> 00:27:44.176] RIKER: Geordi,
+[00:27:44.416 --> 00:27:44.896] RIKER: wait a second.
+[00:27:45.536 --> 00:27:45.776] RIKER: Thank you, Mister Worf.
+[00:27:46.496 --> 00:27:46.736] WORF: Aye, sir.
+[00:27:52.256 --> 00:27:53.056] RIKER: This is off the record.
+[00:27:53.056 --> 00:27:56.416] RIKER: I'm saying this as a friend, not your superior officer.
+[00:27:57.856 --> 00:28:01.696] RIKER: I think it would be best if you weren't so personally involved with Aquiel right now.
+[00:28:01.696 --> 00:28:02.816] RIKER: There's a lot about her we don't know.
+[00:28:02.976 --> 00:28:04.336] LAFORGE: And there's a lot about her that I do know,
+[00:28:04.496 --> 00:28:06.016] LAFORGE: and if she's innocent I want to help her prove it.
+[00:28:07.296 --> 00:28:09.536] RIKER: I think you've let your personal feelings cloud your judgement.
+[00:28:11.296 --> 00:28:12.576] LAFORGE: I'm not the one making judgements.
+[00:28:13.536 --> 00:28:13.776] LAFORGE: Got
+[00:28:22.576 --> 00:28:22.736] LAFORGE: it.
+[00:28:27.936 --> 00:28:31.296] LAFORGE: Computer, display the personal records of Lieutenant Rocha from stardates 46455
+[00:28:34.176 --> 00:28:34.176] LAFORGE: to 46460.
+[00:28:39.968 --> 00:28:43.248] LAFORGE: Computer, what happened to the log entries for stardate 46459?
+[00:28:44.048 --> 00:28:45.328] COMPUTER: The logs have been deleted.
+[00:28:46.528 --> 00:28:47.248] LAFORGE: Who deleted them?
+[00:28:47.968 --> 00:28:48.528] COMPUTER: Unknown.
+[00:28:51.248 --> 00:28:52.528] LOG: Captain's log, supplemental.
+[00:28:53.088 --> 00:28:55.568] LOG: The Qu'Vat has arrived with Commander Morag.
+[00:28:56.128 --> 00:29:00.288] LOG: We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha.
+[00:29:00.688 --> 00:29:01.568] MORAG: I killed no one!
+[00:29:01.968 --> 00:29:04.768] RIKER: We found your DNA on the bulkheads and the console.
+[00:29:05.168 --> 00:29:06.208] RIKER: We know you were there.
+[00:29:07.328 --> 00:29:08.688] TORAK: Answer their questions.
+[00:29:11.648 --> 00:29:13.648] MORAG: Yes. Yes, I was there.
+[00:29:14.928 --> 00:29:17.808] MORAG: My patrol route takes me near the station every six days.
+[00:29:18.048 --> 00:29:20.048] MORAG: Three days ago, I hailed them.
+[00:29:20.208 --> 00:29:21.808] MORAG: There was no response.
+[00:29:22.208 --> 00:29:24.688] MORAG: I was concerned.
+[00:29:25.888 --> 00:29:26.528] TROI: Concerned?
+[00:29:26.768 --> 00:29:29.168] MORAG: Yes. I went aboard to see what had happened.
+[00:29:29.488 --> 00:29:31.728] MORAG: There was no one was there, so I left.
+[00:29:32.368 --> 00:29:32.928] RIKER: Is that all?
+[00:29:33.328 --> 00:29:33.808] MORAG: That's all.
+[00:29:34.848 --> 00:29:39.568] DATA: Commander Morag, we have discovered that the encrypted message bank on the station has been tampered with.
+[00:29:40.448 --> 00:29:44.688] DATA: Our analysis indicates that twenty seven priority Starfleet messages are missing.
+[00:29:45.248 --> 00:29:45.808] MORAG: What of it?
+[00:29:46.368 --> 00:29:48.848] DATA: Your DNA was also found on the message control module.
+[00:29:49.248 --> 00:29:50.608] MORAG: This is outrageous!
+[00:29:50.608 --> 00:29:52.608] MORAG: We will not tolerate these ridiculous accusations!
+[00:29:52.608 --> 00:29:54.608] TORAK: This is a diplomatic matter, Morag!
+[00:29:57.248 --> 00:29:59.168] TORAK: Do not make me search your ship.
+[00:30:07.968 --> 00:30:08.688] MORAG: Yes,
+[00:30:11.343 --> 00:30:13.023] MORAG: I did take the messages.
+[00:30:14.623 --> 00:30:15.903] PICARD: Did you kill Lieutenant Rocha?
+[00:30:16.303 --> 00:30:18.303] MORAG: No. I killed no one.
+[00:30:18.303 --> 00:30:19.503] MORAG: There was no one there.
+[00:30:20.383 --> 00:30:22.943] MORAG: I took the codes, but I killed no one.
+[00:30:23.743 --> 00:30:28.543] PICARD: Governor, we would like Commander Morag to remain on board the Enterprise until this investigation is complete.
+[00:30:33.103 --> 00:30:34.343] TORAK: Take him.
+[00:30:34.343 --> 00:30:35.583] WORF: This way.
+[00:30:49.663 --> 00:30:53.583] LAFORGE: Last night, after I dropped you off at your quarters you established a subspace link with this console.
+[00:30:54.863 --> 00:31:00.063] LAFORGE: You deleted some of Rocha's personal files, didn't you?
+[00:31:00.063 --> 00:31:01.983] AQUIEL: Yes, I did.
+[00:31:02.383 --> 00:31:02.623] LAFORGE: Why?
+[00:31:04.303 --> 00:31:07.743] AQUIEL: I found a letter Rocha was planning to send to Starfleet Command about me.
+[00:31:08.783 --> 00:31:11.903] AQUIEL: The letter said I had become belligerent and insubordinate.
+[00:31:12.223 --> 00:31:13.903] AQUIEL: He was going to ask for a formal hearing.
+[00:31:17.103 --> 00:31:18.303] AQUIEL: Geordi, I know how this looks.
+[00:31:18.303 --> 00:31:19.903] LAFORGE: Yeah, it looks bad.
+[00:31:20.623 --> 00:31:24.863] LAFORGE: I find out that you've erased a letter that contained a possible motivation for murder?
+[00:31:24.863 --> 00:31:25.743] AQUIEL: I didn't kill him.
+[00:31:25.743 --> 00:31:27.423] LAFORGE: Then explain this.
+[00:31:30.303 --> 00:31:33.743] AQUIEL: I was afraid if they found the letter they'd blame me for the murder.
+[00:31:35.583 --> 00:31:37.023] AQUIEL: I'm not a model officer.
+[00:31:37.823 --> 00:31:38.783] AQUIEL: I realise that.
+[00:31:39.711 --> 00:31:43.631] AQUIEL: Sometimes I act on impulse instead of thinking things through.
+[00:31:50.431 --> 00:31:53.391] LAFORGE: Aquiel, this really complicates things.
+[00:32:03.631 --> 00:32:04.671] LAFORGE: What
+[00:32:06.351 --> 00:32:08.751] LAFORGE: are you doing?
+[00:32:08.911 --> 00:32:09.631] AQUIEL: Getting out of here.
+[00:32:10.111 --> 00:32:13.071] LAFORGE: Aquiel, running away isn't going to prove your innocence.
+[00:32:13.071 --> 00:32:14.271] LAFORGE: Facing the situation will.
+[00:32:14.431 --> 00:32:15.791] AQUIEL: I'm scared, Geordi.
+[00:32:15.791 --> 00:32:18.271] LAFORGE: Look, we'll get through this.
+[00:32:18.831 --> 00:32:19.471] LAFORGE: I promise you,
+[00:32:19.551 --> 00:32:19.871] LAFORGE: okay?
+[00:32:22.191 --> 00:32:23.471] AQUIEL: Then you believe me?
+[00:32:25.791 --> 00:32:27.071] LAFORGE: Yes, I do.
+[00:32:40.351 --> 00:32:43.551] LOG: Medical Officer's log, supplemental.
+[00:32:43.871 --> 00:32:48.031] LOG: I've isolated the cellular residue from the deck plate, but the DNA has destabilised.
+[00:32:48.191 --> 00:32:49.551] LOG: I'm attempting to reform it.
+[00:32:49.871 --> 00:32:50.191] CRUSHER: All right.
+[00:32:50.911 --> 00:32:52.751] CRUSHER: Initiate the resonance frequency burst.
+[00:33:08.031 --> 00:33:10.191] CRUSHER: I'm starting to get a stable DNA scan.
+[00:33:12.671 --> 00:33:13.391] CRUSHER: This is odd.
+[00:33:14.887 --> 00:33:17.767] CRUSHER: The nucleotide sequences are starting to fluctuate.
+[00:33:18.567 --> 00:33:19.527] CRUSHER: The DNA is becoming mobile.
+[00:33:23.527 --> 00:33:27.127] CRUSHER: Let's try another frequency burst, but increase the resonance level by twenty percent.
+[00:33:39.687 --> 00:33:41.687] AQUIEL: I
+[00:33:55.687 --> 00:33:57.927] AQUIEL: haven't been this close to someone in a long time.
+[00:34:00.487 --> 00:34:01.447] AQUIEL: I don't want to let go of it.
+[00:34:02.887 --> 00:34:03.527] LAFORGE: Neither do I,
+[00:34:05.367 --> 00:34:06.727] LAFORGE: but I've got six hundred logs to go through.
+[00:34:07.687 --> 00:34:09.927] AQUIEL: All right,
+[00:34:09.927 --> 00:34:13.927] AQUIEL: but first there's something I want to share with you.
+[00:34:17.607 --> 00:34:19.447] AQUIEL: A way that we can become more intimate.
+[00:34:22.567 --> 00:34:24.487] AQUIEL: My people are partially telepathic.
+[00:34:25.607 --> 00:34:29.687] AQUIEL: We use something called the Canar to help focus our thoughts.
+[00:34:31.447 --> 00:34:35.687] AQUIEL: We also use the Canar for a stronger emotional link
+[00:34:37.367 --> 00:34:37.927] AQUIEL: during love.
+[00:34:41.607 --> 00:34:43.047] LAFORGE: I was wondering what that was for.
+[00:34:45.181 --> 00:34:46.941] LAFORGE: Do both of us have to be telepathic for it to work?
+[00:34:49.181 --> 00:34:49.821] AQUIEL: Let's find out.
+[00:35:05.021 --> 00:35:07.341] LAFORGE: Like this.
+[00:35:10.941 --> 00:35:11.021] AQUIEL: Think of
+[00:35:25.661 --> 00:35:27.661] AQUIEL: me.
+[00:35:30.701 --> 00:35:34.221] CRUSHER: It's an exact reproduction of my hand, right down to the DNA structure.
+[00:35:35.021 --> 00:35:38.221] PICARD: Doctor, you said that this was formed from the organic matter found in the deck plates.
+[00:35:38.861 --> 00:35:43.261] CRUSHER: When I infused the matter with a resonance frequency burst, it activated its DNA.
+[00:35:43.661 --> 00:35:47.261] CRUSHER: Then it touched my hand and it began to mimic my cellular structure.
+[00:35:50.941 --> 00:35:52.301] PICARD: Doctor, what exactly is this?
+[00:35:53.261 --> 00:35:58.061] CRUSHER: This is going to sound very farfetched, but have you ever heard of a coalescent organism?
+[00:35:59.181 --> 00:35:59.341] PICARD: No.
+[00:36:00.141 --> 00:36:04.701] CRUSHER: They're rare microscopic lifeforms which need to absorb other organisms in order to survive.
+[00:36:05.101 --> 00:36:12.061] CRUSHER: Now, that in itself isn't so unusual, but coalescents become the organisms they've absorbed, right down to the cellular level.
+[00:36:12.701 --> 00:36:14.541] WORF: Do you think this is what happened with your hand?
+[00:36:15.511 --> 00:36:18.871] CRUSHER: There've been reports that these organisms can exist on a larger scale.
+[00:36:18.871 --> 00:36:21.431] CRUSHER: Certainly, what happened to my hand seems to support that theory.
+[00:36:21.831 --> 00:36:24.151] RIKER: So you think that Rocha was killed by one of these organisms?
+[00:36:24.791 --> 00:36:29.271] CRUSHER: It's possible that something happened to him before he reported for duty on the relay station.
+[00:36:29.351 --> 00:36:30.391] WORF: I do not understand.
+[00:36:30.791 --> 00:36:31.751] CRUSHER: I've checked the records.
+[00:36:32.071 --> 00:36:36.951] CRUSHER: Before he was posted to the relay station, Rocha served on an outpost in the Triona System.
+[00:36:37.351 --> 00:36:38.791] CRUSHER: That is a remote sector.
+[00:36:39.511 --> 00:36:42.071] CRUSHER: Maybe he was absorbed by a coalescent during that mission.
+[00:36:42.791 --> 00:36:46.951] RIKER: So what boarded the station could have been an organism that looked and acted like Lieutenant Rocha?
+[00:36:47.751 --> 00:36:49.591] WORF: How often do they have to change bodies?
+[00:36:50.551 --> 00:36:54.951] CRUSHER: The microscopic organisms have a cycle of no more than five to ten seconds.
+[00:36:55.671 --> 00:37:02.871] CRUSHER: We can only assume a larger, more complex coalescent would have a cycle of days, even weeks.
+[00:37:03.591 --> 00:37:07.831] PICARD: Doctor, if what you're saying is true, then Rocha attacked Lieutenant Uhnari to find a new body.
+[00:37:08.391 --> 00:37:08.631] CRUSHER: Right.
+[00:37:09.831 --> 00:37:11.831] RIKER: That means Uhnari is a coalescent.
+[00:37:12.551 --> 00:37:14.631] WORF: There was one other person on the station.
+[00:37:15.591 --> 00:37:15.991] WORF: Morag.
+[00:37:16.871 --> 00:37:20.471] WORF: It is possible he was the one who was absorbed.
+[00:37:21.191 --> 00:37:23.591] PICARD: Computer, locate Commander Morag and Lieutenant Uhnari.
+[00:37:24.391 --> 00:37:26.311] COMPUTER: Commander Morag is in his quarters.
+[00:37:26.631 --> 00:37:28.951] COMPUTER: Lieutenant Uhnari is not aboard the Enterprise.
+[00:37:30.551 --> 00:37:31.191] WORF: Where did she go?
+[00:37:31.991 --> 00:37:36.951] COMPUTER: Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours.
+[00:37:37.101 --> 00:37:37.701] RIKER: You
+[00:37:38.551 --> 00:37:39.031] RIKER: get Morag.
+[00:37:39.031 --> 00:37:39.831] RIKER: I'm going to the station.
+[00:37:40.231 --> 00:37:40.551] WORF: Aye, sir.
+[00:37:53.560 --> 00:37:53.960] AQUIEL: Geordi?
+[00:37:55.800 --> 00:37:56.840] LAFORGE: I can see you.
+[00:38:00.280 --> 00:38:00.840] LAFORGE: Oh.
+[00:38:02.840 --> 00:38:04.440] LAFORGE: And I can feel you.
+[00:38:11.160 --> 00:38:11.640] WORF: Do not move.
+[00:38:12.920 --> 00:38:13.800] MORAG: What is this?
+[00:38:14.840 --> 00:38:15.560] WORF: You will come with me.
+[00:38:27.000 --> 00:38:29.960] AQUIEL: You've never been as close to someone as you're about to be.
+[00:38:31.400 --> 00:38:31.960] AQUIEL: Think of me.
+[00:38:40.440 --> 00:38:41.480] RIKER: Step away from him, Lieutenant.
+[00:38:43.880 --> 00:38:45.240] LAFORGE: What are you doing, Commander?
+[00:38:45.880 --> 00:38:47.400] RIKER: That may not be Lieutenant Uhnari.
+[00:38:48.200 --> 00:38:48.360] LAFORGE: What?
+[00:38:48.680 --> 00:38:49.960] AQUIEL: What are you saying?
+[00:38:50.120 --> 00:38:50.760] RIKER: Step away
+[00:38:51.720 --> 00:38:52.040] RIKER: now.
+[00:38:57.480 --> 00:38:59.160] LOG: Medical Officer's Log, supplemental.
+[00:38:59.560 --> 00:39:03.480] LOG: Commander Morag and Lieutenant Uhnari are being kept under close observation.
+[00:39:04.120 --> 00:39:07.080] LOG: So far, no sign of coalescent behaviour has surfaced.
+[00:39:07.400 --> 00:39:11.080] RIKER: Aquiel and Morag will be transferred to a secure medical facility at Starbase twelve.
+[00:39:11.240 --> 00:39:12.760] RIKER: Maybe we'll know more by the time we get there.
+[00:39:13.240 --> 00:39:13.560] LAFORGE: Yeah,
+[00:39:13.880 --> 00:39:14.120] LAFORGE: right.
+[00:39:15.225 --> 00:39:16.425] RIKER: It could be Morag.
+[00:39:16.985 --> 00:39:17.625] RIKER: We don't know for sure.
+[00:39:18.905 --> 00:39:19.145] LAFORGE: Sure.
+[00:39:21.945 --> 00:39:22.585] RIKER: Get some rest.
+[00:39:23.145 --> 00:39:24.425] RIKER: You've had a rough couple of days.
+[00:39:26.585 --> 00:39:27.145] LAFORGE: Thanks.
+[00:39:37.945 --> 00:39:38.505] LAFORGE: Computer,
+[00:39:40.345 --> 00:39:43.625] LAFORGE: display the Engineering duty roster for the next three days.
+[00:39:43.775 --> 00:39:44.375] LAFORGE: Maura,
+[00:39:56.105 --> 00:39:56.265] LAFORGE: come
+[00:39:58.745 --> 00:40:00.505] LAFORGE: on, not now. Maura,
+[00:40:00.505 --> 00:40:01.545] LAFORGE: I said not now.
+[00:40:02.025 --> 00:40:03.385] LAFORGE: Come on, give me a break here.
+[00:40:03.945 --> 00:40:06.345] LAFORGE: Go lay down!
+[00:40:06.495 --> 00:40:07.095] LAFORGE: Maura?
+[00:40:56.316 --> 00:41:01.036] LAFORGE: Maybe the reason you don't remember anything that happened after Rocha attacked you is that the coalescing process had begun.
+[00:41:04.396 --> 00:41:04.716] LAFORGE: Thank you.
+[00:41:06.396 --> 00:41:09.676] LAFORGE: Remember when you said you felt like the memories had been drained right out of you?
+[00:41:10.476 --> 00:41:13.036] LAFORGE: That's probably exactly what was going on.
+[00:41:13.356 --> 00:41:14.716] AQUIEL: Then maybe I did take the phaser.
+[00:41:14.956 --> 00:41:18.796] LAFORGE: Whatever happened, at least you got away before the process took hold.
+[00:41:20.476 --> 00:41:21.996] AQUIEL: So he turned on Maura.
+[00:41:25.676 --> 00:41:25.836] LAFORGE: Right.
+[00:41:29.036 --> 00:41:29.516] LAFORGE: Well, what now?
+[00:41:31.516 --> 00:41:34.316] AQUIEL: I guess I'll be going to Starbase two twelve for re assignment.
+[00:41:34.956 --> 00:41:40.556] LAFORGE: You know, I had a talk with Chief Pendleton in Communications. There's an opening for a level two specialist.
+[00:41:41.756 --> 00:41:42.156] AQUIEL: Really?
+[00:41:44.396 --> 00:41:45.916] AQUIEL: I'm sure the waiting list so long
+[00:41:45.916 --> 00:41:47.276] AQUIEL: I'd be grey before I got here.
+[00:41:47.756 --> 00:41:48.556] LAFORGE: I could put in a good word.
+[00:41:51.676 --> 00:41:55.756] AQUIEL: It's an appealing offer, but I think I'd rather get here on my own merits.
+[00:42:00.076 --> 00:42:02.236] AQUIEL: Don't be surprised if you see my name on that list.

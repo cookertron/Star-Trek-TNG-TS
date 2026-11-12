@@ -1,0 +1,620 @@
+[00:00:02.240 --> 00:00:05.200] LOG: Captain's log, stardate 46235.7
+[00:00:05.760 --> 00:00:12.480] LOG: Ensign Ro, Keiko O'Brien, Guinan and I are returning to the Enterprise after a fascinating visit to the planet Marlonia.
+[00:00:13.200 --> 00:00:19.040] PICARD: And I found these pieces in the tertiary level of the dig. They're typical of second century Marlonian cookware.
+[00:00:19.760 --> 00:00:20.960] PICARD: Look at those markings.
+[00:00:21.360 --> 00:00:25.760] PICARD: They're very similar to early Taguan designs, but the patterns are more intricate,
+[00:00:25.920 --> 00:00:28.240] PICARD: they're much closer to Buranian than Taguan.
+[00:00:29.040 --> 00:00:34.080] GUINAN: You were on the most beautiful planet in the quadrant and you spent your entire shore leave in a cave?
+[00:00:34.720 --> 00:00:36.640] PICARD: It was a very rewarding experience.
+[00:00:37.920 --> 00:00:39.360] PICARD: Look at these fragments.
+[00:00:39.760 --> 00:00:43.520] PICARD: They're very nearly in perfect condition and yet they're seven hundred years old.
+[00:00:44.240 --> 00:00:45.120] GUINAN: So's my father.
+[00:00:46.960 --> 00:00:48.960] RO: Is that a Draebidium froctus?
+[00:00:49.360 --> 00:00:51.680] KEIKO: Actually, it's a Draebidium calimus.
+[00:00:51.680 --> 00:00:53.200] KEIKO: You can tell by the shape of the leaves.
+[00:00:53.360 --> 00:00:55.600] KEIKO: I didn't know you were interested in plant biology.
+[00:00:56.640 --> 00:00:59.120] RO: I took a class at the Academy.
+[00:00:59.440 --> 00:01:01.120] RO: I Don't remember very much though.
+[00:01:01.280 --> 00:01:02.720] WORF: Enterprise to shuttlecraft Fermi.
+[00:01:03.520 --> 00:01:04.160] RO: This is the Fermi.
+[00:01:04.160 --> 00:01:04.880] RO: Go ahead Enterprise.
+[00:01:05.200 --> 00:01:09.040] WORF: We have just received a distress signal from the Starfleet science team on Ligos Seven.
+[00:01:10.080 --> 00:01:12.080] PICARD: Can you identify the problem?
+[00:01:12.080 --> 00:01:12.560] WORF: No, sir.
+[00:01:12.720 --> 00:01:15.360] WORF: The call was cut off in mid-transmission.
+[00:01:15.360 --> 00:01:18.160] PICARD: Lay in a course and prepare to engage at warp eight as soon as we're on board.
+[00:01:18.880 --> 00:01:19.120] WORF: Aye, sir.
+[00:01:19.120 --> 00:01:21.600] RO: We'll rendezvous with the ship in three minutes, sir.
+[00:01:26.720 --> 00:01:30.080] RO: We're caught in some kind of energy field.
+[00:01:30.769 --> 00:01:31.809] PICARD: Hard about, full impulse.
+[00:01:32.209 --> 00:01:32.529] RO: Aye, sir.
+[00:01:36.929 --> 00:01:37.649] RIKER: What's happening, Mister Worf?
+[00:01:38.289 --> 00:01:40.129] WORF: The shuttle has been enveloped by an energy field.
+[00:01:40.369 --> 00:01:42.049] WORF: It's engines and life support have failed.
+[00:01:42.369 --> 00:01:43.569] RIKER: Increase to full impulse.
+[00:01:43.809 --> 00:01:45.009] RIKER: Bridge to Transporter room three.
+[00:01:45.729 --> 00:01:48.129] RIKER: Prepare to beam the shuttle crew back once we're in range.
+[00:01:48.689 --> 00:01:49.169] O'BRIEN: Ready, sir.
+[00:01:49.969 --> 00:01:51.249] RO: I can't contact the Enterprise.
+[00:01:51.249 --> 00:01:52.289] RO: There's too much interference.
+[00:01:53.089 --> 00:01:55.009] PICARD: Transfer auxiliary power to the inertial dampers.
+[00:01:55.489 --> 00:01:57.009] COMPUTER: Warning. Structural failure
+[00:02:00.129 --> 00:02:02.129] COMPUTER: imminent.
+[00:02:02.289 --> 00:02:03.089] RIKER: Have you got them, O'Brien?
+[00:02:03.089 --> 00:02:04.209] O'BRIEN: I'm trying, sir.
+[00:02:05.089 --> 00:02:06.129] O'BRIEN: I can't get a pattern lock.
+[00:02:07.089 --> 00:02:08.449] RIKER: The shuttle is Coming apart, Chief.
+[00:02:08.529 --> 00:02:09.409] RIKER: We've got to do it now.
+[00:02:11.089 --> 00:02:11.569] O'BRIEN: I've got them.
+[00:02:13.329 --> 00:02:14.849] O'BRIEN: There's a forty percent drop in mass.
+[00:02:14.849 --> 00:02:19.009] O'BRIEN: I may have lost one of them.
+[00:02:24.929 --> 00:02:25.969] PICARD JR: Thank you, Mister O'Brien.
+[00:02:26.129 --> 00:02:27.089] PICARD JR: Another moment and
+[00:03:03.889 --> 00:03:04.529] PICARD: space.
+[00:03:05.401 --> 00:03:06.601] PICARD: The final frontier.
+[00:03:08.521 --> 00:03:11.401] PICARD: These are the voyages of the starship Enterprise.
+[00:03:12.521 --> 00:03:20.441] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:22.121 --> 00:03:24.601] PICARD: to boldly go where no one has gone
+[00:03:29.801 --> 00:03:31.801] PICARD: before.
+[00:03:57.000 --> 00:04:05.000] [music]
+[00:04:38.238 --> 00:04:43.278] CRUSHER: According to the bioscans, their DNA structure is now consistent with those of preadolescence.
+[00:04:43.758 --> 00:04:46.718] CRUSHER: But as far as we can tell, only their bodies were changed.
+[00:04:47.358 --> 00:04:52.318] TROI: Their individual intelligence and their behavioural responses are exactly the same as they were before the accident.
+[00:04:53.038 --> 00:04:54.718] PICARD JR: What happened to the shuttlecraft, Number One?
+[00:04:57.758 --> 00:04:59.438] RIKER: The shuttle broke up just after we beamed you out.
+[00:04:59.918 --> 00:05:02.718] RIKER: Mister Data is coordinating the salvage efforts now. Sir.
+[00:05:05.598 --> 00:05:07.838] CRUSHER: What about the energy field the shuttle passed through?
+[00:05:08.238 --> 00:05:10.638] RIKER: We've trying to scan it, but it's we're running into lot of interference.
+[00:05:10.638 --> 00:05:11.518] RIKER: It's going to take some time.
+[00:05:11.998 --> 00:05:13.758] PICARD JR: We can't afford to stay here any longer.
+[00:05:14.398 --> 00:05:19.438] PICARD JR: We'll leave a class four probe behind to study the energy field but the distress signal from Ligos Seven has top priority.
+[00:05:20.558 --> 00:05:22.798] PICARD JR: Let me know as soon as you have any further information, Doctor.
+[00:05:23.278 --> 00:05:24.238] PICARD JR: Number One, you're with me.
+[00:05:26.238 --> 00:05:26.798] CRUSHER: Captain,
+[00:05:26.878 --> 00:05:29.278] CRUSHER: I need to run some additional tests.
+[00:05:29.518 --> 00:05:32.798] PICARD JR: Of course. The three of you will remain as needed to assist Doctor Crusher.
+[00:05:46.718 --> 00:05:47.198] RO JR: What?
+[00:05:48.158 --> 00:05:50.078] GUINAN JR: You know, you make a pretty cute kid.
+[00:05:50.798 --> 00:05:52.798] RO JR: Great. Just what I want to be. Cute.
+[00:05:53.918 --> 00:05:56.158] GUINAN JR: Were you this much fun when you were a kid?
+[00:05:56.798 --> 00:05:58.238] RO JR: I was in a refugee camp.
+[00:05:58.718 --> 00:06:01.358] RO JR: Fun wasn't exactly in my vocabulary.
+[00:06:02.318 --> 00:06:03.118] GUINAN JR: What about now?
+[00:06:03.598 --> 00:06:04.958] GUINAN JR: You're not in that camp anymore.
+[00:06:05.317 --> 00:06:09.077] RO JR: Fun is being back at work in my own uniform.
+[00:06:14.677 --> 00:06:15.077] PICARD JR: Bridge.
+[00:06:26.597 --> 00:06:29.877] PICARD JR: Mister Worf. Prepare to launch a class four probe to study the energy field.
+[00:06:39.157 --> 00:06:41.397] PICARD JR: I realise how unusual this must seem.
+[00:06:42.357 --> 00:06:46.517] PICARD JR: My appearance is the result of an accident, involving myself and three other crew members,
+[00:06:46.757 --> 00:06:49.717] PICARD JR: the effects of which Doctor Crusher is currently working to remedy.
+[00:06:50.517 --> 00:06:52.597] PICARD JR: I assure you I am Captain Picard.
+[00:06:52.747 --> 00:06:53.347] WORF: The
+[00:06:58.837 --> 00:06:59.157] WORF: probe.
+[00:06:59.637 --> 00:06:59.877] WORF: Aye, sir.
+[00:07:03.637 --> 00:07:05.957] PICARD JR: Mister Data, have you secured all of the shuttle debris?
+[00:07:06.597 --> 00:07:07.077] DATA: Almost.
+[00:07:07.397 --> 00:07:08.917] DATA: It is being stored in shuttlebay two.
+[00:07:09.877 --> 00:07:10.037] DATA: Sir.
+[00:07:11.557 --> 00:07:12.037] PICARD JR: Very well.
+[00:07:13.397 --> 00:07:16.437] PICARD JR: Ensign, as soon as Mister Data is finished take us to Ligos at warp eight.
+[00:07:17.477 --> 00:07:20.357] CRUSHER: Captain, may I see you privately for a few moments?
+[00:07:22.437 --> 00:07:23.077] PICARD JR: Of course.
+[00:07:31.797 --> 00:07:32.037] PICARD JR: Tea.
+[00:07:32.037 --> 00:07:32.757] PICARD JR: Earl Grey.
+[00:07:32.917 --> 00:07:33.237] PICARD JR: Hot.
+[00:07:39.910 --> 00:07:42.630] PICARD JR: Have you been able to determine the cause of our transformation?
+[00:07:43.190 --> 00:07:43.670] CRUSHER: Not yet.
+[00:07:43.830 --> 00:07:45.590] CRUSHER: I'm still waiting for some test results.
+[00:07:46.230 --> 00:07:46.710] PICARD JR: I see.
+[00:07:48.470 --> 00:07:48.630] PICARD JR: There
+[00:07:50.230 --> 00:07:53.430] PICARD JR: are one hundred and three members of the science team on Ligos Seven.
+[00:07:54.470 --> 00:07:58.790] PICARD JR: We should prepare shuttlebay three for a triage centre in case they have large numbers of casualties.
+[00:07:58.950 --> 00:07:59.590] CRUSHER: We'll be ready.
+[00:08:00.070 --> 00:08:03.510] PICARD JR: I see that Ligos Seven is prone to periodic volcanic activity.
+[00:08:04.230 --> 00:08:06.390] PICARD JR: Perhaps the planet has entered an active phase.
+[00:08:06.470 --> 00:08:06.790] CRUSHER: Jean-Luc.
+[00:08:09.110 --> 00:08:09.750] CRUSHER: We need to talk.
+[00:08:11.430 --> 00:08:12.310] PICARD JR: All right. Let's talk.
+[00:08:13.270 --> 00:08:14.630] PICARD JR: Are you here to relieve me of duty?
+[00:08:16.470 --> 00:08:17.990] CRUSHER: I'd rather not have to take that step.
+[00:08:19.030 --> 00:08:20.390] PICARD JR: I am still Jean-Luc Picard.
+[00:08:21.190 --> 00:08:24.950] PICARD JR: My judgement, my experiences, my mental capacities are all intact.
+[00:08:25.590 --> 00:08:26.150] CRUSHER: That's true,
+[00:08:27.030 --> 00:08:27.510] CRUSHER: for now.
+[00:08:29.270 --> 00:08:33.430] CRUSHER: But this could be the first stage of a condition that may begin to affect your mind as well.
+[00:08:39.350 --> 00:08:40.790] PICARD JR: But you see no evidence of that.
+[00:08:41.670 --> 00:08:42.150] CRUSHER: Not yet.
+[00:08:48.070 --> 00:08:53.190] CRUSHER: What I do know is that the Captain of this ship has undergone an extreme physical transformation,
+[00:08:53.510 --> 00:08:56.310] CRUSHER: the ultimate effects of which I can't even begin to guess.
+[00:08:59.190 --> 00:09:00.870] PICARD JR: You are asking me to step down.
+[00:09:04.790 --> 00:09:06.550] CRUSHER: You are still Jean-Luc Picard.
+[00:09:08.114 --> 00:09:09.234] CRUSHER: What do you think you should do?
+[00:09:20.354 --> 00:09:21.074] PICARD JR: Commander Riker,
+[00:09:21.314 --> 00:09:23.474] PICARD JR: please take command of the ship until further notice.
+[00:09:25.234 --> 00:09:25.634] RIKER: Understood.
+[00:09:37.954 --> 00:09:39.634] RO JR: So what the hell am I supposed to do now?
+[00:09:40.274 --> 00:09:42.114] GUINAN JR: You're not supposed to do anything.
+[00:09:42.754 --> 00:09:44.434] GUINAN JR: That's what relieved of duty means.
+[00:09:44.674 --> 00:09:48.754] RO JR: Well, I should be doing something instead of just standing around waiting for them to find a cure.
+[00:09:48.994 --> 00:09:49.474] GUINAN JR: You're right.
+[00:09:50.114 --> 00:09:50.834] GUINAN JR: Let's go play.
+[00:09:51.394 --> 00:09:51.634] RO JR: What?
+[00:09:52.594 --> 00:09:56.834] GUINAN JR: I haven't been young for a long time and I intend to enjoy every minute of it.
+[00:09:59.074 --> 00:10:00.514] RO JR: Fine. Enjoy yourself.
+[00:10:04.034 --> 00:10:04.994] GUINAN JR: What are you going to do?
+[00:10:05.394 --> 00:10:06.674] GUINAN JR: Go back to your room and pout?
+[00:10:07.714 --> 00:10:09.954] RO JR: I am not twelve years old.
+[00:10:10.194 --> 00:10:16.434] RO JR: If I want to go to my quarters and contemplate my situation, that does not mean that I am pouting.
+[00:10:18.274 --> 00:10:19.554] GUINAN JR: Okay, okay.
+[00:11:03.878 --> 00:11:06.438] O'BRIEN: I could use a cup of coffee.
+[00:11:06.918 --> 00:11:07.318] O'BRIEN: How about you?
+[00:11:07.718 --> 00:11:08.198] KEIKO JR: I'll get it.
+[00:11:11.958 --> 00:11:14.658] KEIKO JR: Two coffees. One with cream and sugar, the other
+[00:11:14.658 --> 00:11:15.558] O'BRIEN: Black, double sweet
+[00:11:15.958 --> 00:11:18.118] KEIKO JR: I know. One double sweet.
+[00:11:26.198 --> 00:11:26.918] O'BRIEN: Careful, that's hot.
+[00:11:27.158 --> 00:11:27.878] KEIKO JR: Miles.
+[00:11:30.038 --> 00:11:30.358] O'BRIEN: Sorry.
+[00:11:48.278 --> 00:11:48.918] KEIKO JR: What's wrong?
+[00:11:49.638 --> 00:11:53.878] O'BRIEN: It's. I don't know, but this feels wrong somehow.
+[00:11:54.678 --> 00:11:57.398] KEIKO JR: Miles Edward O'Brien, I am still your wife.
+[00:11:57.958 --> 00:11:59.318] O'BRIEN: Well technically, yes.
+[00:11:59.318 --> 00:11:59.878] KEIKO JR: Technically?
+[00:12:00.438 --> 00:12:00.758] O'BRIEN: No.
+[00:12:00.918 --> 00:12:05.558] O'BRIEN: I mean, of course you're my wife. But you're also ten years old.
+[00:12:05.558 --> 00:12:07.878] KEIKO JR: Beverly said it's actually closer to twelve.
+[00:12:08.198 --> 00:12:09.558] O'BRIEN: That's not the point.
+[00:12:09.558 --> 00:12:11.078] KEIKO JR: So what is the point?
+[00:12:12.776 --> 00:12:13.816] KEIKO JR: Is our marriage over?
+[00:12:14.136 --> 00:12:15.256] O'BRIEN: I didn't say that.
+[00:12:16.136 --> 00:12:25.336] O'BRIEN: But until they find a way to reverse this, this effect, it's going hard for me to ignore the fact that you're a little girl.
+[00:12:25.896 --> 00:12:27.496] KEIKO JR: What if they can't find a way?
+[00:12:28.536 --> 00:12:30.776] KEIKO JR: What if I'm like this the rest of my life?
+[00:12:32.136 --> 00:12:35.176] KEIKO JR: What does that mean for us, for our family?
+[00:12:36.216 --> 00:12:36.616] MOLLY: Mommy?
+[00:12:45.656 --> 00:12:45.896] MOLLY: Mommy.
+[00:12:45.896 --> 00:12:46.616] O'BRIEN: What's wrong, Sweetheart?
+[00:12:47.816 --> 00:12:49.896] MOLLY: I want Mommy to read me a story.
+[00:12:52.296 --> 00:12:52.856] KEIKO JR: All right.
+[00:12:53.656 --> 00:12:55.256] KEIKO JR: What story would you like to hear?
+[00:12:55.256 --> 00:12:56.136] MOLLY: Not you.
+[00:12:56.536 --> 00:12:56.936] MOLLY: I
+[00:13:00.216 --> 00:13:03.576] MOLLY: want Mommy.
+[00:13:03.576 --> 00:13:05.016] O'BRIEN: What if Daddy reads you a story tonight?
+[00:13:05.176 --> 00:13:05.496] O'BRIEN: Will that be okay?
+[00:13:05.576 --> 00:13:05.576] O'BRIEN: I'll
+[00:13:08.136 --> 00:13:08.696] O'BRIEN: be right back.
+[00:13:15.656 --> 00:13:15.976] O'BRIEN: Keiko.
+[00:13:20.456 --> 00:13:21.256] O'BRIEN: It's going to be all right.
+[00:13:22.856 --> 00:13:23.416] O'BRIEN: I promise.
+[00:13:24.936 --> 00:13:25.576] O'BRIEN: We'll work this out.
+[00:13:27.096 --> 00:13:27.416] KEIKO JR: How?
+[00:13:29.576 --> 00:13:30.136] O'BRIEN: I don't know.
+[00:13:38.816 --> 00:13:40.336] LOG: First Officer's log, supplemental.
+[00:13:41.216 --> 00:13:43.136] LOG: The Enterprise has reached the Ligos system,
+[00:13:43.456 --> 00:13:45.776] LOG: and we have begun to search for the missing Federation science team.
+[00:13:46.576 --> 00:13:50.016] LOG: Doctor Crusher reports no progress on a cure for the members of the shuttle crew.
+[00:14:08.976 --> 00:14:10.016] PICARD JR: Come.
+[00:14:13.856 --> 00:14:15.216] TROI: I came to see how you're doing.
+[00:14:16.416 --> 00:14:18.176] PICARD JR: I'll have to speak to my tailor,
+[00:14:18.736 --> 00:14:19.616] PICARD JR: but otherwise I'm well,
+[00:14:19.696 --> 00:14:20.096] PICARD JR: thank you.
+[00:14:22.736 --> 00:14:23.936] PICARD JR: It's just so ridiculous.
+[00:14:24.736 --> 00:14:26.736] PICARD JR: I can't really take myself seriously like this.
+[00:14:30.896 --> 00:14:36.816] PICARD JR: Counsellor, if Doctor Crusher can't find a cure, if I have to stay this way, nobody's going to take me seriously, are they?
+[00:14:38.176 --> 00:14:44.496] TROI: I would say the people that know you and have worked with you, will be able to make the adjustment eventually.
+[00:14:45.616 --> 00:14:50.096] TROI: But there are some people who would find it difficult to accept a twelve year old captain.
+[00:14:50.096 --> 00:14:58.016] PICARD JR: In that case, I suppose I'll just have to wait until I grow up again before I get another command. Which might be in ten, maybe fifteen years.
+[00:14:58.166 --> 00:14:58.766] PICARD JR: The
+[00:14:59.696 --> 00:15:01.056] PICARD JR: question is what to do until then?
+[00:15:01.780 --> 00:15:02.900] TROI: You're still a Starfleet captain.
+[00:15:03.380 --> 00:15:06.180] TROI: I'm sure there are other assignments you could be given in the interim. :
+[00:15:06.500 --> 00:15:08.900] PICARD JR: I've spent thirty years of my life aboard starships
+[00:15:08.900 --> 00:15:10.579] PICARD JR: I'm not about to sit behind a desk now.
+[00:15:11.060 --> 00:15:14.923] TROI: You could return to the Academy. Take another degree. Brush up on your Latin.
+[00:15:14.923 --> 00:15:16.579] PICARD JR: And be Wesley Crusher's room mate?
+[00:15:21.540 --> 00:15:27.300] PICARD JR: I will admit that returning to the Academy does have a certain appeal, but I've spent my life looking forward.
+[00:15:27.620 --> 00:15:29.940] PICARD JR: Going to the Academy again feels like looking backward.
+[00:15:31.459 --> 00:15:35.060] TROI: Then perhaps you could spend the time exploring another interests.
+[00:15:38.420 --> 00:15:39.700] TROI: Archeology, for instance.
+[00:15:40.260 --> 00:15:41.289] PICARD JR: Leave Starfleet?
+[00:15:41.289 --> 00:15:43.860] TROI: Not permanently, just a sabbatical.
+[00:15:44.339 --> 00:15:52.020] TROI: You could spend a few years crawling through caves and digging up artefacts, and still have enough time to become the youngest admiral in Starfleet history.
+[00:15:53.219 --> 00:15:58.260] PICARD JR: It would give me a chance to take up Doctor Langford's offer and accompany her to the ruins on Suvin Four.
+[00:15:59.219 --> 00:16:00.746] PICARD JR: But to leave the Enterprise.
+[00:16:00.746 --> 00:16:02.579] TROI: In a way, you're very lucky.
+[00:16:03.700 --> 00:16:06.420] TROI: You might have a chance do what most people can only dream about.
+[00:16:13.940 --> 00:16:14.979] TROI: Have a second childhood
+[00:16:16.500 --> 00:16:17.780] TROI: without the pain of growing up again.
+[00:16:23.700 --> 00:16:28.979] CRUSHER: This is Captain Picard's rybo-viroxic-nucleic structure from a tissue sample I took this morning.
+[00:16:29.940 --> 00:16:35.860] CRUSHER: It's the same as a sample I took before the accident, except it's missing several of the key viroxic sequences.
+[00:16:36.762 --> 00:16:38.602] RIKER: It's been a long time since I took genetics, Doctor.
+[00:16:40.042 --> 00:16:43.562] CRUSHER: RVN is one of the key factors in our development during puberty.
+[00:16:44.042 --> 00:16:49.722] CRUSHER: Unlike DNA, which never changes, RVN takes on some additional viroxic sequences during adolescence.
+[00:16:50.042 --> 00:16:52.922] CRUSHER: Those sequences determine how we develop physically.
+[00:16:53.162 --> 00:16:54.762] RIKER: Without them we would never mature into adults.
+[00:16:54.922 --> 00:16:55.402] CRUSHER: Exactly.
+[00:16:55.962 --> 00:17:00.522] CRUSHER: Somehow, those sequences were eliminated in the Captain and the others during transport.
+[00:17:01.482 --> 00:17:01.962] RIKER: So what do we do?
+[00:17:03.322 --> 00:17:05.002] CRUSHER: Well, we have a couple of options.
+[00:17:07.322 --> 00:17:09.962] CRUSHER: These are the plants Keiko was carrying on the shuttle.
+[00:17:10.602 --> 00:17:13.562] CRUSHER: Whatever turned the crew into children turned these plants into seedlings.
+[00:17:14.682 --> 00:17:19.722] CRUSHER: I accelerated the growth on one of them, and it developed into a perfectly normal adult plant.
+[00:17:20.282 --> 00:17:21.642] RIKER: I don't suppose that would work with people?
+[00:17:22.602 --> 00:17:28.762] CRUSHER: No, but at least we know that if we do nothing at all, they will probably grow up just as they did before.
+[00:17:29.802 --> 00:17:30.362] RIKER: That's one option.
+[00:17:31.802 --> 00:17:36.282] CRUSHER: However, I do have the adult RVN patterns of all four of them.
+[00:17:37.002 --> 00:17:41.642] CRUSHER: I might be able to send them back through the transporter pattern buffer and replace the missing sequences.
+[00:17:42.762 --> 00:17:45.882] CRUSHER: But we can't even attempt that until we know why this happened in the first place.
+[00:17:47.322 --> 00:17:50.282] CRUSHER: If somehow they were to lose more viroxic sequences.
+[00:17:51.882 --> 00:17:54.762] RIKER: They would get even younger.
+[00:18:11.205 --> 00:18:14.085] LAFORGE: Chief, I got the sensor report on the shuttle break-up. It
+[00:18:15.045 --> 00:18:17.765] LAFORGE: looks like the break-up began near the starboard bulkhead.
+[00:18:18.245 --> 00:18:19.685] O'BRIEN: There're some bulkhead fragments over here.
+[00:18:26.565 --> 00:18:31.205] LAFORGE: My visor's picking up some torsional stress damage, some micro-fractures.
+[00:18:31.205 --> 00:18:33.445] LAFORGE: Hang on a second.
+[00:18:36.085 --> 00:18:36.965] LAFORGE: What's this?
+[00:18:37.605 --> 00:18:38.885] O'BRIEN: It looks like tritanium from the hull.
+[00:18:39.845 --> 00:18:40.485] LAFORGE: Yeah, but look.
+[00:18:43.765 --> 00:18:45.125] LAFORGE: That's not tritanium anymore.
+[00:18:45.125 --> 00:18:50.165] LAFORGE: Somehow the molecular structure of this alloy's been changed, broken down into its constituent elements.
+[00:18:51.605 --> 00:18:52.965] O'BRIEN: No wonder the bulkhead shattered.
+[00:18:53.125 --> 00:18:53.525] LAFORGE: Yeah.
+[00:18:53.525 --> 00:18:57.285] LAFORGE: I want to get a sample of this down to Engineering and run a metallurgical analysis.
+[00:18:57.285 --> 00:18:57.285] GUINAN JR: Well,
+[00:19:12.485 --> 00:19:13.605] GUINAN JR: this is exciting.
+[00:19:14.965 --> 00:19:16.725] RO JR: Would you rather be playing with dolls?
+[00:19:17.285 --> 00:19:22.325] GUINAN JR: I'd rather be doing almost anything other than sitting here and watching you sulk.
+[00:19:22.965 --> 00:19:26.165] RO JR: This isn't some kind of glorious second childhood, Guinan.
+[00:19:26.885 --> 00:19:30.645] RO JR: Our bodies have been violated, changed.
+[00:19:31.205 --> 00:19:32.485] RO JR: Doesn't that bother you?
+[00:19:32.805 --> 00:19:34.005] GUINAN JR: Sure it bothers me,
+[00:19:34.485 --> 00:19:37.765] GUINAN JR: but at the moment I can't do anything about it.
+[00:19:38.111 --> 00:19:39.791] GUINAN JR: So I might as well enjoy it.
+[00:19:40.111 --> 00:19:40.831] RO JR: Enjoy what?
+[00:19:41.391 --> 00:19:45.631] RO JR: Where did you get the idea that being short and awkward is some kind of wonderful gift?
+[00:19:46.031 --> 00:19:49.311] GUINAN JR: There must've been some part of childhood that you didn't loathe.
+[00:19:50.031 --> 00:19:56.031] RO JR: Look, it was a long, depressing period of my life and I was grateful when it was finally over.
+[00:19:56.431 --> 00:19:57.631] RO JR: I'd rather not relive it.
+[00:19:59.471 --> 00:20:00.671] GUINAN JR: I bet you were a jumper.
+[00:20:02.751 --> 00:20:07.231] GUINAN JR: A jumper. You know, someone who jumped up and down on furniture all the time.
+[00:20:07.471 --> 00:20:07.791] RO JR: What?
+[00:20:08.511 --> 00:20:10.111] GUINAN JR: You were a jumper all right.
+[00:20:10.751 --> 00:20:11.711] GUINAN JR: The quiet ones,
+[00:20:12.111 --> 00:20:14.271] GUINAN JR: they always look so innocent.
+[00:20:14.911 --> 00:20:17.151] GUINAN JR: You think you can turn your back on them.
+[00:20:18.111 --> 00:20:19.871] GUINAN JR: Next thing you know, bam!
+[00:20:20.511 --> 00:20:22.191] GUINAN JR: They're bouncing on the bed.
+[00:20:23.551 --> 00:20:26.271] RO JR: That is the most ridiculous thing I've ever heard.
+[00:20:26.911 --> 00:20:29.478] RO JR: Most of the time I didn't even have a bed.
+[00:20:29.478 --> 00:20:33.071] GUINAN JR: Ah but you did have one sometimes and I bet you jumped on it.
+[00:20:33.711 --> 00:20:35.071] RO JR: I most certainly did not.
+[00:20:35.471 --> 00:20:37.631] GUINAN JR: Yeah I can see it in your eyes.
+[00:20:37.791 --> 00:20:43.711] GUINAN JR: You can barely resist the urge to leap up and start jumping around like a Tarkassian razorbeast.
+[00:20:43.951 --> 00:20:44.591] RO JR: Guinan.
+[00:20:44.831 --> 00:20:45.071] GUINAN JR: Oh yeah,
+[00:20:46.111 --> 00:20:46.991] GUINAN JR: oh yeah
+[00:20:49.711 --> 00:20:50.911] RO JR: This is ridiculous.
+[00:20:51.231 --> 00:20:51.951] GUINAN JR: That's right.
+[00:20:52.271 --> 00:20:54.431] GUINAN JR: And don't you dare join me, Ro Laren.
+[00:20:54.831 --> 00:20:56.671] GUINAN JR: You don't like jumping on beds!
+[00:20:57.871 --> 00:20:58.431] RO JR: Oh yeah?
+[00:20:59.471 --> 00:21:00.351] RO JR: I can jump higher.
+[00:21:02.511 --> 00:21:05.231] LAFORGE: We think the shuttle was caught in a molecular reversion
+[00:21:05.217 --> 00:21:07.617] LAFORGE: field, which caused the structure of the ship to deteriorate.
+[00:21:08.097 --> 00:21:10.977] LAFORGE: When the field penetrated the hull, it also began to affect the shuttle's crew.
+[00:21:11.377 --> 00:21:12.737] O'BRIEN: When I tried to beam them off,
+[00:21:12.737 --> 00:21:16.577] O'BRIEN: I wasn't able to get a lock because the reversion field was masking part of the patterns.
+[00:21:17.057 --> 00:21:20.577] CRUSHER: If the transporter only registered part of the RVN patterns,
+[00:21:20.577 --> 00:21:22.657] CRUSHER: that would explain why the key sequences are missing.
+[00:21:22.897 --> 00:21:23.457] LAFORGE: Exactly.
+[00:21:23.857 --> 00:21:26.977] LAFORGE: With those key sequences missing, the transporter reconstructed them as children.
+[00:21:27.857 --> 00:21:30.337] RIKER: If they're right, would you be able to use the transporter to reverse the effects?
+[00:21:30.737 --> 00:21:31.457] CRUSHER: I think so.
+[00:21:31.857 --> 00:21:35.457] CRUSHER: As long as there's no reversion field to mask their patterns, we should be able to do it.
+[00:21:36.417 --> 00:21:39.472] CRUSHER: Chief, can you adjust the molecular imaging scanners to accept
+[00:21:39.472 --> 00:21:39.777] WORF: Bridge
+[00:21:39.777 --> 00:21:40.577] WORF: to Commander Riker.
+[00:21:40.817 --> 00:21:41.217] RIKER: Go ahead.
+[00:21:41.457 --> 00:21:43.297] WORF: We are entering orbit around Ligos Seven, sir.
+[00:21:44.017 --> 00:21:44.417] RIKER: On my way.
+[00:21:44.817 --> 00:21:45.537] RIKER: We'll discuss this later.
+[00:21:49.297 --> 00:21:49.297] RIKER: Standard orbit,
+[00:21:59.537 --> 00:21:59.777] RIKER: Ensign.
+[00:22:00.497 --> 00:22:03.217] RIKER: Any sign of the science team?
+[00:22:03.937 --> 00:22:07.377] DATA: We've been scanning the area since entering the system, but our readings are being disrupted.
+[00:22:07.777 --> 00:22:08.303] RIKER: Cause?
+[00:22:08.303 --> 00:22:11.457] DATA: Extreme fluctuations in the electromagnetic field.
+[00:22:11.937 --> 00:22:16.817] DATA: However, there is no evidence of stellar or seismic activity which would cause the interference.
+[00:22:17.297 --> 00:22:18.577] RIKER: Any response to our hails, Mister Worf?
+[00:22:19.537 --> 00:22:19.857] WORF: No, sir.
+[00:22:20.177 --> 00:22:21.057] WORF: I have been attempting to.
+[00:22:23.377 --> 00:22:26.017] WORF: Commander, two ships decloaking fore and aft.
+[00:22:26.577 --> 00:22:27.457] WORF: Klingon birds of prey,
+[00:22:28.257 --> 00:22:28.897] WORF: B'rel class.
+[00:22:32.097 --> 00:22:33.057] RIKER: Maximum
+[00:22:36.897 --> 00:22:37.297] RIKER: shields.
+[00:22:38.172 --> 00:22:39.052] RIKER: Take us out of orbit, Ensign.
+[00:22:39.852 --> 00:22:41.372] RIKER: Mister Worf, prepare to return fire.
+[00:22:57.612 --> 00:22:59.852] RIKER: Damage report.
+[00:23:00.732 --> 00:23:02.092] WORF: We've lost primary life support.
+[00:23:02.252 --> 00:23:03.532] WORF: Switching to secondary systems.
+[00:23:03.932 --> 00:23:04.972] RIKER: Lock phasers on target
+[00:23:05.212 --> 00:23:05.852] RIKER: bearing to port.
+[00:23:06.332 --> 00:23:06.972] WORF: Phasers locked.
+[00:23:07.532 --> 00:23:07.772] RIKER: Fire.
+[00:23:11.612 --> 00:23:12.732] DATA: Minor damage to one ship.
+[00:23:13.452 --> 00:23:14.252] DATA: Its shields are holding.
+[00:23:14.572 --> 00:23:15.852] WORF: Starboard power coupling is down.
+[00:23:16.172 --> 00:23:17.132] WORF: Warp engines are offline.
+[00:23:18.732 --> 00:23:19.292] RIKER: Shields?
+[00:23:19.292 --> 00:23:21.532] WORF: Down to thirteen percent.
+[00:23:25.852 --> 00:23:28.012] WORF: Casualties reported on decks twenty six and twenty seven.
+[00:23:28.652 --> 00:23:30.812] DATA: Sensors and secondary generators are offline.
+[00:23:31.372 --> 00:23:33.212] DATA: Life support down to sixty seven percent.
+[00:23:33.612 --> 00:23:34.892] RIKER: Engineering, status report.
+[00:23:37.532 --> 00:23:40.572] LAFORGE: Those last shots took out auxiliary power and emergency back-up.
+[00:23:40.572 --> 00:23:42.972] LAFORGE: It's going to take at least an hour to get Warp power back online.
+[00:23:43.452 --> 00:23:44.172] WORF: We have lost shields.
+[00:23:44.252 --> 00:23:46.092] WORF: Heavy casualties on decks thirty five through forty.
+[00:23:46.172 --> 00:23:50.412] DATA: I am detecting transporter signatures in three cargo bays.
+[00:23:51.772 --> 00:23:52.732] DATA: We are being boarded, sir.
+[00:23:59.132 --> 00:23:59.772] FERENGI: Come with me.
+[00:24:03.852 --> 00:24:04.972] RIKER: Initiate intruder alert.
+[00:24:05.212 --> 00:24:05.852] RIKER: All security
+[00:24:05.930 --> 00:24:06.570] RIKER: teams report to
+[00:24:10.650 --> 00:24:11.690] BERIK: Put down your weapons.
+[00:24:20.090 --> 00:24:21.930] RIKER: Computer, deactivate all command functions.
+[00:24:21.930 --> 00:24:23.370] RIKER: Authorisation, Riker Omega Three
+[00:24:24.170 --> 00:24:25.690] COMPUTER: All command functions suspended.
+[00:24:30.090 --> 00:24:30.730] MORTA: This is Morta.
+[00:24:31.130 --> 00:24:32.330] MORTA: We have secured the Bridge.
+[00:24:32.650 --> 00:24:36.170] MORTA: Begin transporting all able-bodied adults to the surface.
+[00:24:36.170 --> 00:24:36.250] FERENGI: Come
+[00:24:45.330 --> 00:24:47.330] FERENGI: on, get up there.
+[00:24:47.480 --> 00:24:48.480] FERENGI: Up, up.
+[00:24:56.410 --> 00:25:00.090] BERIK: They have locked out the command functions.
+[00:25:00.330 --> 00:25:02.330] MORTA: You said they would not have time.
+[00:25:02.730 --> 00:25:03.850] BERIK: You led the assault team.
+[00:25:04.170 --> 00:25:05.210] BERIK: You were too slow.
+[00:25:05.450 --> 00:25:07.050] MORTA: You dare to blame me!
+[00:25:14.410 --> 00:25:15.690] BERIK: We have secured the ship, DaiMon,
+[00:25:15.930 --> 00:25:17.708] BERIK: but Morta's incompetence has denied us access to
+[00:25:17.708 --> 00:25:17.930] MORTA: My
+[00:25:17.930 --> 00:25:20.010] MORTA: incompetence? DaiMon,
+[00:25:20.250 --> 00:25:20.250] MORTA: you know that I am
+[00:25:22.570 --> 00:25:22.570] LURIN: Enough.
+[00:25:22.570 --> 00:25:24.650] LURIN: Where is the Captain of this ship?
+[00:25:25.370 --> 00:25:26.650] RIKER: I'm in command of this vessel.
+[00:25:27.530 --> 00:25:27.930] RIKER: Who are you
+[00:25:28.570 --> 00:25:29.450] RIKER: and on whose authority do you
+[00:25:29.450 --> 00:25:32.810] LURIN: I am DaiMon Lurin and I declare this ship
+[00:25:33.018 --> 00:25:35.338] LURIN: to be a loss and open to claim
+[00:25:35.738 --> 00:25:45.578] LURIN: according to the Ferengi Salvage Code. You will cooperate with our salvage operations or we will begin executing your crew.
+[00:25:57.578 --> 00:25:58.458] PICARD JR: Is
+[00:26:09.338 --> 00:26:09.898] PICARD JR: everyone all right?
+[00:26:10.218 --> 00:26:12.298] RO JR: No fatalities or injuries among the children.
+[00:26:12.778 --> 00:26:16.528] RO JR: The Ferengi have taken control of main Engineering and decks twenty three through thirty seven.
+[00:26:16.528 --> 00:26:18.778] PICARD JR: We have to assume they've also taken the Bridge.
+[00:26:19.018 --> 00:26:21.738] KEIKO JR: Captain, do you know what they've done with the younger children?
+[00:26:22.138 --> 00:26:23.098] KEIKO JR: With my little girl?
+[00:26:23.578 --> 00:26:25.818] PICARD JR: They're taking all the adults down to the surface.
+[00:26:26.618 --> 00:26:28.458] PICARD JR: It looks like they're keeping all the children on board the ship.
+[00:26:28.458 --> 00:26:29.178] PICARD JR: Where was your daughter?
+[00:26:29.578 --> 00:26:31.178] KEIKO JR: In primary care on deck fourteen.
+[00:26:31.738 --> 00:26:33.178] PICARD JR: She's probably still there with the others.
+[00:26:33.338 --> 00:26:33.898] PICARD JR: I wouldn't worry.
+[00:26:36.618 --> 00:26:38.218] PICARD JR: We need to regain control of the ship.
+[00:26:39.018 --> 00:26:39.418] PICARD JR: Options?
+[00:26:41.658 --> 00:26:43.658] RO JR: We could flood the ship with anesthizine gas.
+[00:26:44.218 --> 00:26:46.458] PICARD JR: That's been locked out with the rest of the command functions.
+[00:26:46.858 --> 00:26:49.978] RO JR: If they're typical Ferengi, they're probably very pleased with themselves by now.
+[00:26:50.378 --> 00:26:52.378] RO JR: Maybe even getting a little overconfident.
+[00:26:52.538 --> 00:26:53.018] PICARD JR: Agreed.
+[00:26:53.738 --> 00:26:56.058] PICARD JR: They might think they don't need as much of their crew to hold the ship.
+[00:26:56.778 --> 00:26:59.658] PICARD JR: We could use the element of surprise to give us a tactical advantage.
+[00:26:59.978 --> 00:27:03.018] GUINAN JR: Tactical advantage? Jean-Luc,
+[00:27:03.648 --> 00:27:04.768] GUINAN JR: look at your team for a minute.
+[00:27:05.248 --> 00:27:05.968] GUINAN JR: We're children.
+[00:27:06.528 --> 00:27:09.088] PICARD JR: We can't just stay here while our ship is being commandeered.
+[00:27:09.568 --> 00:27:14.288] GUINAN JR: I'm not suggesting that we do. But we can't act as if we were still adults.
+[00:27:14.688 --> 00:27:15.888] PICARD JR: What do you suggest we do?
+[00:27:16.608 --> 00:27:17.648] GUINAN JR: We look like children.
+[00:27:17.888 --> 00:27:20.288] GUINAN JR: Maybe it's time we started acting like children.
+[00:27:32.208 --> 00:27:36.928] RIKER: I hope your profit margin's pretty high for this little adventure, because you're risking war with the Federation.
+[00:27:38.048 --> 00:27:40.928] LURIN: We're not affiliated with the Ferengi Alliance.
+[00:27:41.248 --> 00:27:43.488] LURIN: We are in business for ourselves.
+[00:27:46.928 --> 00:27:55.088] LURIN: Yes, it will be highly profitable. For an investment of two surplus Klingon ships, a few repairs and some weapons,
+[00:27:55.888 --> 00:28:03.008] LURIN: we've netted a Federation starship and her crew, not to mention a planet rich in vendarite.
+[00:28:04.208 --> 00:28:05.328] RIKER: So that's what this is all about.
+[00:28:06.528 --> 00:28:08.368] RIKER: What did you do with the science team that was on the surface?
+[00:28:09.248 --> 00:28:13.568] LURIN: They have proved most helpful in extracting the mineral.
+[00:28:15.728 --> 00:28:17.488] RIKER: You used them as slave labourers.
+[00:28:17.888 --> 00:28:21.488] LURIN: The addition of your crew will greatly speed up the process.
+[00:28:24.768 --> 00:28:25.808] LURIN: As for your ship,
+[00:28:28.128 --> 00:28:29.648] LURIN: I'm sure that it will fetch
+[00:28:29.927 --> 00:28:32.407] LURIN: a handsome price on the Romulan market.
+[00:28:34.007 --> 00:28:38.647] LURIN: But before that can happen, we need to regain access to your central computer.
+[00:28:39.607 --> 00:28:41.287] RIKER: You don't really think I'm going to help you.
+[00:28:42.247 --> 00:28:46.647] LURIN: I think that the mines on Ligos Seven can be very hazardous.
+[00:28:48.247 --> 00:28:50.567] LURIN: Now, how many people on your ship?
+[00:28:52.407 --> 00:28:53.687] RIKER: One thousand fourteen.
+[00:28:55.047 --> 00:28:58.647] LURIN: Very hazardous, Commander.
+[00:29:03.687 --> 00:29:05.767] COMPUTER: Hello. I'm the classroom computer system.
+[00:29:06.007 --> 00:29:07.127] COMPUTER: What can I do for you, today?
+[00:29:07.687 --> 00:29:09.607] PICARD JR: Computer, display interior security grid.
+[00:29:10.407 --> 00:29:12.327] COMPUTER: I'm sorry, but I can't do that.
+[00:29:14.087 --> 00:29:15.287] COMPUTER: Would you like to play a game?
+[00:29:15.687 --> 00:29:16.727] PICARD JR: No, I would not.
+[00:29:17.047 --> 00:29:19.447] PICARD JR: Computer, display an internal schematic diagram.
+[00:29:20.327 --> 00:29:22.327] COMPUTER: I'm sorry, but I can't do that.
+[00:29:22.807 --> 00:29:25.767] COMPUTER: Would you like to see some interesting plants or animals?
+[00:29:28.007 --> 00:29:29.927] GUINAN JR: It's a child's computer, remember?
+[00:29:31.287 --> 00:29:34.887] GUINAN JR: Computer, can you show me a picture of the inside of the Enterprise?
+[00:29:35.287 --> 00:29:36.167] COMPUTER: Yes, I can.
+[00:29:36.487 --> 00:29:39.047] COMPUTER: The Enterprise is a Galaxy-class starship.
+[00:29:39.527 --> 00:29:41.607] COMPUTER: Do you know how to spell Enterprise?
+[00:29:42.087 --> 00:29:43.847] COMPUTER: E N T E
+[00:29:44.007 --> 00:29:44.887] PICARD JR: Delete audio.
+[00:29:46.887 --> 00:29:47.927] PICARD JR: All right, this'll have to do.
+[00:29:48.967 --> 00:29:49.687] PICARD JR: We're here.
+[00:29:50.487 --> 00:29:55.127] PICARD JR: there's a service conduit that runs to here and then leads to a Jeffries tube here.
+[00:29:55.687 --> 00:29:59.527] PICARD JR: But you and Ensign Ro will still have to cross this corridor before you can get to main Engineering.
+[00:30:04.280 --> 00:30:04.680] RO JR: Captain.
+[00:30:11.320 --> 00:30:11.880] PICARD JR: Excellent.
+[00:30:12.760 --> 00:30:13.160] PICARD JR: Ready?
+[00:30:14.280 --> 00:30:14.680] PICARD JR: Make it so.
+[00:30:23.880 --> 00:30:24.600] PICARD: What the devil?
+[00:30:24.920 --> 00:30:25.640] ALEXANDER: I was just playing.
+[00:30:26.760 --> 00:30:27.560] ALEXANDER: I'm sorry, Captain.
+[00:30:46.520 --> 00:30:50.040] PICARD JR: Alexander, would you mind if I borrowed your toy for a little while?
+[00:30:50.280 --> 00:30:50.520] ALEXANDER: Go ahead.
+[00:30:51.240 --> 00:30:51.560] PICARD JR: Thank you.
+[00:30:59.240 --> 00:30:59.720] PICARD: After you.
+[00:31:52.515 --> 00:31:53.635] KEIKO JR: I've got the phasers, Captain.
+[00:32:16.995 --> 00:32:19.955] RO JR: This is the first time these Jefferies tubes haven't seemed cramped. :
+[00:32:20.835 --> 00:32:22.675] GUINAN JR: How much farther do we have to go?
+[00:32:23.315 --> 00:32:24.595] RO JR: About fifty metres.
+[00:32:24.835 --> 00:32:25.875] RO JR: Don't tell me you're tired.
+[00:32:26.515 --> 00:32:28.675] GUINAN JR: I'm not as young as I used to be.
+[00:33:21.159 --> 00:33:21.799] RO JR: This is it.
+[00:33:22.439 --> 00:33:23.239] RO JR: Main Engineering.
+[00:33:24.439 --> 00:33:24.679] RO JR: Now we
+[00:33:26.519 --> 00:33:28.519] RO JR: wait.
+[00:33:29.479 --> 00:33:29.879] PICARD JR: Report?
+[00:33:30.519 --> 00:33:31.639] ALEXANDER: Mission accomplished, sir.
+[00:33:32.279 --> 00:33:33.639] ALEXANDER: The one in sickbay never saw me.
+[00:33:33.959 --> 00:33:34.359] PICARD JR: Very good.
+[00:33:39.399 --> 00:33:40.279] KEIKO JR: I'd say we're ready.
+[00:33:41.079 --> 00:33:42.679] KEIKO JR: Have you figured out how to get to the Bridge? :
+[00:33:45.159 --> 00:33:47.159] PICARD JR: I'm afraid I can only think of one way.
+[00:33:53.799 --> 00:33:54.599] BERIK: What do you want?
+[00:33:54.759 --> 00:33:55.959] PICARD JR: I need to see my father.
+[00:33:56.439 --> 00:33:57.319] BERIK: Go back inside.
+[00:33:57.639 --> 00:33:59.239] PICARD JR: I need to see him right now.
+[00:33:59.799 --> 00:34:00.919] BERIK: Do not argue with me.
+[00:34:01.079 --> 00:34:02.119] BERIK: Go back inside.
+[00:34:02.199 --> 00:34:03.559] PICARD JR: I need to see him now!
+[00:34:03.799 --> 00:34:06.519] PICARD JR: Now! Now! Now! Now! Now! Now! Now!
+[00:34:06.759 --> 00:34:07.159] PICARD JR: Stop it!
+[00:34:07.159 --> 00:34:07.639] PICARD JR: You've hurt me!
+[00:34:07.639 --> 00:34:08.679] PICARD JR: I want my father!
+[00:34:08.919 --> 00:34:10.119] PICARD JR: I want my father!
+[00:34:10.199 --> 00:34:10.679] BERIK: All right.
+[00:34:10.919 --> 00:34:11.639] BERIK: Just stop that.
+[00:34:14.359 --> 00:34:15.159] PICARD JR: Let me go!
+[00:34:16.039 --> 00:34:16.999] BERIK: Here he is.
+[00:34:18.279 --> 00:34:19.479] BERIK: Now be quiet!
+[00:34:20.039 --> 00:34:20.759] RIKER: What is going on?
+[00:34:21.479 --> 00:34:22.199] PICARD JR: Dad!
+[00:34:32.023 --> 00:34:33.703] RIKER: So, son, how are you?
+[00:34:34.743 --> 00:34:35.303] PICARD JR: I'm okay.
+[00:34:35.943 --> 00:34:38.183] RIKER: And how are your friends, Keiko, Guinan and Ro?
+[00:34:38.823 --> 00:34:39.623] PICARD JR: They're okay too.
+[00:34:40.903 --> 00:34:41.516] PICARD JR: But
+[00:34:41.516 --> 00:34:42.743] RIKER: What's wrong?
+[00:34:44.183 --> 00:34:45.623] PICARD JR: We don't have anything to do.
+[00:34:46.583 --> 00:34:48.023] PICARD JR: None of the games are working.
+[00:34:50.103 --> 00:34:53.303] RIKER: I know. The Ferengi made Daddy turn off the main computer.
+[00:34:54.423 --> 00:34:57.783] PICARD JR: Can't you just turn on the kid's computer in schoolroom eight?
+[00:34:58.503 --> 00:34:59.943] PICARD JR: We just want to play a few games.
+[00:35:01.783 --> 00:35:03.863] RIKER: I don't know if they'll let me do that, Jean-Luc, but I will ask.
+[00:35:04.743 --> 00:35:05.623] PICARD JR: Thanks, Number One.
+[00:35:09.863 --> 00:35:11.223] PICARD JR: He's my number one Dad.
+[00:35:11.373 --> 00:35:12.773] CHILD: Here they come.
+[00:35:26.103 --> 00:35:26.823] KEIKO JR: How did it go?
+[00:35:28.823 --> 00:35:30.423] KEIKO JR: Did Commander Riker get the message?
+[00:35:30.743 --> 00:35:31.383] PICARD JR: He understood.
+[00:35:34.663 --> 00:35:36.103] PICARD JR: We should have access very soon.
+[00:35:47.383 --> 00:35:49.543] LURIN: Come in.
+[00:35:53.863 --> 00:35:56.583] LURIN: I understand your son was here to see you.
+[00:35:58.183 --> 00:35:58.583] RIKER: That's right.
+[00:35:59.399 --> 00:36:03.319] LURIN: We Ferengi do not bring our offspring along with us aboard ship.
+[00:36:03.799 --> 00:36:04.999] RIKER: Then I suppose that's your loss.
+[00:36:05.639 --> 00:36:07.799] RIKER: We consider our families one of our strengths.
+[00:36:08.359 --> 00:36:11.879] LURIN: I think you will find that they can also be a weakness.
+[00:36:12.919 --> 00:36:20.759] LURIN: Unless you release the computer to our control, I will execute every child on this ship, beginning with yours.
+[00:36:23.879 --> 00:36:25.079] RIKER: Even you wouldn't be that cruel.
+[00:36:25.399 --> 00:36:30.119] LURIN: It is cruel to put children in danger by bringing them aboard a starship in the first place.
+[00:36:34.279 --> 00:36:34.599] RIKER: All right.
+[00:36:36.839 --> 00:36:38.039] RIKER: Just so you don't harm my son.
+[00:36:40.759 --> 00:36:45.879] LURIN: You will release the computer and show Morta exactly how to use it.
+[00:37:04.439 --> 00:37:05.559] RIKER: Computer, release command control
+[00:37:05.559 --> 00:37:07.959] RIKER: this station. Authorisation, Riker Omega three.
+[00:37:08.599 --> 00:37:09.959] COMPUTER: Command functions restored.
+[00:37:09.959 --> 00:37:10.039] RIKER: Okay,
+[00:37:11.639 --> 00:37:12.039] RIKER: Morta.
+[00:37:12.039 --> 00:37:23.959] RIKER: The Enterprise computer system is controlled by three primary main processing cores, cross-linked with a redundant melacortz ramistat. fourteen kiloquad interface modules.
+[00:37:24.519 --> 00:37:31.239] RIKER: The core element is based on an FTL nanoprocessor with twenty five bilateral kelilactirals,
+[00:37:31.239 --> 00:37:32.039] RIKER: with twenty of those
+[00:37:32.633 --> 00:37:35.673] RIKER: being slaved into the primary heisenfram terminal.
+[00:37:35.673 --> 00:37:37.913] RIKER: Now you do know what a bilateral kelilactiral is?
+[00:37:38.063 --> 00:37:38.663] MORTA: Well,
+[00:37:39.433 --> 00:37:40.473] MORTA: of course I do,
+[00:37:40.633 --> 00:37:41.113] MORTA: human.
+[00:37:41.593 --> 00:37:42.713] MORTA: I am not stupid.
+[00:37:44.153 --> 00:37:45.513] RIKER: No, of course not.
+[00:37:46.073 --> 00:37:50.873] RIKER: This is the isopalavial interface which controls the main firomactal drive unit.
+[00:37:50.873 --> 00:37:51.353] RIKER: Don't touch that.
+[00:37:51.353 --> 00:37:53.993] RIKER: You'll blow up the entire firomactal drive.
+[00:37:55.113 --> 00:37:55.113] MORTA: What?
+[00:37:55.113 --> 00:37:55.993] MORTA: Wait.
+[00:37:56.633 --> 00:37:59.193] MORTA: What is a firomactal drive?
+[00:38:00.953 --> 00:38:02.393] MORTA: Just explain it to me.
+[00:38:04.953 --> 00:38:06.633] RIKER: That is the firomactal drive unit.
+[00:38:07.993 --> 00:38:14.393] RIKER: It controls the ramistat core and also keeps the ontarian manifold at forty thousand KRGs.
+[00:38:14.393 --> 00:38:17.193] RIKER: The firomactal drive is powered by
+[00:38:17.913 --> 00:38:21.273] PICARD JR: Command lockout has been released.
+[00:38:23.433 --> 00:38:24.553] PICARD JR: Accessing transporter.
+[00:38:26.553 --> 00:38:28.793] PICARD JR: Weapons deactivation programme is in place.
+[00:38:29.113 --> 00:38:31.193] PICARD JR: Transporter security field standing by.
+[00:38:31.193 --> 00:38:31.673] PICARD JR: We're ready.
+[00:38:31.823 --> 00:38:32.423] RO JR: Tag!
+[00:38:45.447 --> 00:38:46.447] GUINAN JR: You're it!
+[00:39:12.844 --> 00:39:14.844] BERIK: Yes?
+[00:39:15.724 --> 00:39:16.844] ALEXANDER: I found this in the school room.
+[00:39:17.004 --> 00:39:17.724] ALEXANDER: Is it yours?
+[00:39:39.884 --> 00:39:41.644] PICARD JR: That's all of them except for the two on the Bridge.
+[00:39:41.964 --> 00:39:43.004] PICARD JR: Wait here until I return.
+[00:39:43.404 --> 00:39:43.644] ALEXANDER: Yes, sir.
+[00:39:45.884 --> 00:39:52.284] RIKER: So, one more time. The ramistat kiloquad capacity is a function of the square root of the intermix ratio times the sum of the plasma injector quotient.
+[00:39:56.924 --> 00:39:58.924] LURIN: Come
+[00:40:01.964 --> 00:40:02.284] LURIN: in.
+[00:40:02.284 --> 00:40:02.684] PICARD JR: I
+[00:40:07.964 --> 00:40:08.924] PICARD JR: believe you're in my chair.
+[00:40:14.844 --> 00:40:17.964] LOG: Captain's log, stardate: 46236.3. We have
+[00:40:18.364 --> 00:40:20.364] LOG: taken Lurin and his men into custody.
+[00:40:20.764 --> 00:40:24.124] LOG: The Ferengi Alliance has quickly disavowed any knowledge of these renegades.
+[00:40:24.524 --> 00:40:27.164] LOG: With the mining operation closed and our crew back on board,
+[00:40:27.539 --> 00:40:29.939] LOG: we can now turn our attention to other problems.
+[00:40:30.899 --> 00:40:31.939] O'BRIEN: Phase inducers activated.
+[00:40:33.539 --> 00:40:34.579] O'BRIEN: Energy levels nominal.
+[00:40:35.379 --> 00:40:36.979] CRUSHER: I'm loading the adult patterns into the buffer.
+[00:40:38.179 --> 00:40:39.699] O'BRIEN: Transposition matrix locked in.
+[00:40:41.699 --> 00:40:42.499] O'BRIEN: That should do it, Captain.
+[00:40:51.219 --> 00:40:51.859] PICARD JR: Energise.
+[00:41:19.059 --> 00:41:19.619] CRUSHER: How do you feel?
+[00:41:20.259 --> 00:41:22.899] PICARD: I feel fine.
+[00:41:22.979 --> 00:41:25.619] PICARD: Everything seems a little smaller.
+[00:41:44.179 --> 00:41:44.819] RO JR: It's my mother.
+[00:41:47.379 --> 00:41:51.459] RO JR: The funny thing is, I never really drew a picture of her when I was young.
+[00:41:52.579 --> 00:41:56.259] RO JR: It's just, for some reason I wanted to now.
+[00:41:57.683 --> 00:42:02.323] GUINAN: That's the wonderful thing about crayons. They can take you to more places than a starship.
+[00:42:07.123 --> 00:42:08.243] RO JR: It's my turn, isn't it?
+[00:42:09.283 --> 00:42:10.163] GUINAN: Only if you're ready.
+[00:42:12.643 --> 00:42:16.083] RO JR: It's not quite as bad as I remembered it.
+[00:42:17.203 --> 00:42:18.243] RO JR: Being a child, I mean.
+[00:42:23.043 --> 00:42:23.283] RO JR: Well,
+[00:42:24.963 --> 00:42:25.683] RO JR: we'd better get going.
+[00:42:26.643 --> 00:42:26.803] GUINAN: Well,
+[00:42:28.563 --> 00:42:29.283] GUINAN: what's the hurry?
+[00:42:29.283 --> 00:42:33.123] GUINAN: I mean, the transporter will still be there.
+[00:42:35.843 --> 00:42:37.763] GUINAN: Why don't you pass me the royal blue.
+[00:42:40.803 --> 00:42:40.830] RO JR: Here.
+[00:42:40.830 --> 00:42:40.883] GUINAN: Thank you.
+[00:42:40.883 --> 00:42:40.883] GUINAN: Did you
+[00:42:44.403 --> 00:42:44.963] GUINAN: do this one too?
+[00:42:45.113 --> 00:42:47.238] RO JR: I did all of them.
+[00:42:47.238 --> 00:42:48.513] GUINAN: All of them?
+[00:42:51.000 --> 00:43:04.000] [music]
+[00:43:15.000 --> 00:43:25.000] [music]

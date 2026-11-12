@@ -1,0 +1,680 @@
+[00:00:29.200 --> 00:00:30.240] CRUSHER: All right, come in.
+[00:00:34.320 --> 00:00:36.240] CRUSHER: Guinan? What's wrong?
+[00:00:36.480 --> 00:00:37.280] GUINAN: I need a doctor.
+[00:00:37.680 --> 00:00:39.280] GUINAN: Geordi beat me in straight sets today.
+[00:00:39.280 --> 00:00:40.880] GUINAN: I think I've developed tennis elbow.
+[00:00:41.520 --> 00:00:43.280] CRUSHER: Well, you'd better go to Sickbay.
+[00:00:43.280 --> 00:00:45.360] CRUSHER: I think Doctor Selar's on duty.
+[00:00:45.920 --> 00:00:47.360] GUINAN: I don't want to see Doctor Selar.
+[00:00:47.360 --> 00:00:48.080] GUINAN: I always see you.
+[00:00:48.080 --> 00:00:49.920] GUINAN: I'm very particular about my doctors.
+[00:00:50.560 --> 00:00:53.600] CRUSHER: Well, you'd better get a new one, because I'm not a doctor on this ship anymore.
+[00:01:23.680 --> 00:01:25.840] PICARD: Space, the final frontier.
+[00:01:28.303 --> 00:01:31.183] PICARD: These are the voyages of the Starship Enterprise.
+[00:01:32.303 --> 00:01:40.303] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:01:41.903 --> 00:01:44.783] PICARD: to boldly go where no one has gone before.
+[00:01:51.343 --> 00:01:51.343] CRUSHER: Three
+[00:02:37.423 --> 00:02:39.423] CRUSHER: days
+[00:02:48.143 --> 00:02:50.223] CRUSHER: on a shuttle to Starbase twenty three,
+[00:02:50.223 --> 00:02:51.583] CRUSHER: transport back to Earth.
+[00:02:52.063 --> 00:02:55.423] CRUSHER: I can hear Admiral Brooks now, telling me how I've disgraced Starfleet Medical.
+[00:02:56.537 --> 00:03:00.777] CRUSHER: Then a leisurely day and a half before the formal inquiry begins and my career ends.
+[00:03:02.377 --> 00:03:02.857] GUINAN: Beverly?
+[00:03:04.777 --> 00:03:05.257] GUINAN: My elbow.
+[00:03:06.217 --> 00:03:06.617] CRUSHER: Your elbow.
+[00:03:07.657 --> 00:03:08.297] CRUSHER: Let me see it.
+[00:03:10.777 --> 00:03:11.337] CRUSHER: Does this hurt?
+[00:03:12.457 --> 00:03:12.697] GUINAN: Ow!
+[00:03:12.697 --> 00:03:13.737] GUINAN: Yes, right there.
+[00:03:13.977 --> 00:03:15.257] CRUSHER: That's tennis elbow, all right.
+[00:03:16.057 --> 00:03:17.177] CRUSHER: Here, hold your arm like this.
+[00:03:18.457 --> 00:03:20.857] GUINAN: You know, I've never been to a formal inquiry.
+[00:03:21.497 --> 00:03:23.177] CRUSHER: Well I'll see if I can arrange one for you.
+[00:03:23.897 --> 00:03:29.817] CRUSHER: All you have to do is disobey orders, violate medical ethics, and cause an interstellar incident.
+[00:03:30.857 --> 00:03:32.137] GUINAN: Well I guess that would do it.
+[00:03:34.857 --> 00:03:35.417] CRUSHER: Make a fist.
+[00:03:38.217 --> 00:03:41.097] GUINAN: Do I have to hit you with my fist before you tell me what happened?
+[00:03:43.897 --> 00:03:46.057] CRUSHER: It all started when those scientists came on board.
+[00:03:46.457 --> 00:03:49.497] CRUSHER: No. It started when I got curious.
+[00:03:50.617 --> 00:03:51.657] GUINAN: Well, there's nothing wrong with that.
+[00:03:52.377 --> 00:03:54.297] CRUSHER: That's why I went to the Altine Conference.
+[00:03:54.857 --> 00:03:58.740] CRUSHER: I'd heard about a new subspace technology developed by a Ferengi, a Doctor Reyga.
+[00:03:58.740 --> 00:03:59.017] GUINAN: A
+[00:04:00.217 --> 00:04:01.657] GUINAN: Ferengi scientist.
+[00:04:01.817 --> 00:04:02.257] GUINAN: Hmm.
+[00:04:02.257 --> 00:04:07.977] CRUSHER: His invention was based on metaphasic fields, but his methodology was completely unorthodox.
+[00:04:08.057 --> 00:04:09.417] GUINAN: I like unorthodox.
+[00:04:09.897 --> 00:04:10.697] CRUSHER: Too bad you weren't there.
+[00:04:11.257 --> 00:04:12.457] CRUSHER: Nobody else would listen to him.
+[00:04:12.857 --> 00:04:14.617] CRUSHER: They all but jeered him off the stage.
+[00:04:15.497 --> 00:04:18.377] CRUSHER: But I had read his paper and his work was extraordinary.
+[00:04:19.497 --> 00:04:21.897] GUINAN: So you gathered all these scientists
+[00:04:22.524 --> 00:04:23.804] GUINAN: to come hear this Ferengi.
+[00:04:24.124 --> 00:04:26.444] CRUSHER: Yes. I hoped I could be a facilitator.
+[00:04:26.924 --> 00:04:34.449] CRUSHER: I thought if I invited scientists from various cultures to board the Enterprise, I could sit them and down help them understand the value of his ideas.
+[00:04:34.449 --> 00:04:35.564] GUINAN: Like a scientific diplomat.
+[00:04:36.044 --> 00:04:36.684] CRUSHER: Exactly.
+[00:04:37.084 --> 00:04:42.764] CRUSHER: So, after persuading the Captain, I had to round up as many scientists as I could from the field of subspace technology.
+[00:04:44.444 --> 00:04:49.324] CRUSHER: But of all the scientists I invited, only four were interested in hearing about Doctor Reyga's invention.
+[00:04:50.524 --> 00:04:53.564] CRUSHER: And I wasn't altogether sure they were going to be compatible.
+[00:04:54.524 --> 00:04:57.484] CRUSHER: Kurak was a warp field specialist on the Klingon Homeworld.
+[00:04:58.124 --> 00:05:00.844] CRUSHER: I don't think Klingons regard scientists very highly.
+[00:05:01.164 --> 00:05:03.164] CRUSHER: She always seemed a little defensive.
+[00:05:04.764 --> 00:05:08.204] CRUSHER: Doctor T'Pan is practically a legend in the field of subspace morphology.
+[00:05:08.844 --> 00:05:12.124] CRUSHER: She's been the director of the Vulcan Science Academy for fifteen years.
+[00:05:13.164 --> 00:05:15.084] CRUSHER: Her husband, Doctor Christopher, came with her.
+[00:05:15.724 --> 00:05:19.324] CRUSHER: I didn't know much about him, but he was some kind of subspace theoretician.
+[00:05:20.604 --> 00:05:23.644] CRUSHER: Jo'Bril was a Takaran, the first one I'd ever met.
+[00:05:24.444 --> 00:05:26.444] CRUSHER: I had no idea what to expect from him.
+[00:05:27.884 --> 00:05:30.844] CRUSHER: And then there was Doctor Reyga, the Ferengi scientist.
+[00:05:31.004 --> 00:05:33.804] REYGA: You've all seen my experimental data.
+[00:05:34.524 --> 00:05:36.844] REYGA: The metaphasic shield has been proven.
+[00:05:37.004 --> 00:05:40.524] T'PAN: Forgive my scepticism, Doctor, but your claims are somewhat extravagant.
+[00:05:40.924 --> 00:05:43.084] T'PAN: Protect a shuttle within a star's corona?
+[00:05:43.484 --> 00:05:45.644] T'PAN: Not even your own government believes it can be done.
+[00:05:45.884 --> 00:05:47.644] CRUSHER: That's why I've invited you all here.
+[00:05:48.844 --> 00:05:52.924] CRUSHER: You have the vision to see the potential of Doctor Reyga's metaphasic shield.
+[00:05:53.628 --> 00:05:55.468] REYGA: I need help to develop the shield.
+[00:05:56.108 --> 00:06:00.108] REYGA: I am willing to grant exclusive rights to whoever provides the necessary resources.
+[00:06:00.828 --> 00:06:03.948] CRUSHER: I think you all realise what this shielding process could mean.
+[00:06:04.508 --> 00:06:07.413] CRUSHER: The possibilities of exploration and research are endless.
+[00:06:07.413 --> 00:06:09.228] KURAK: But only if it works.
+[00:06:10.668 --> 00:06:17.308] KURAK: I'm not convinced that this metaphasic shield can withstand either the temperature or the radiation it would be exposed to.
+[00:06:17.548 --> 00:06:23.388] REYGA: But it has! Not only in countless simulations, but in a field test that I conducted myself.
+[00:06:24.428 --> 00:06:26.428] KURAK: For which, of course, we have only your word.
+[00:06:26.908 --> 00:06:29.868] REYGA: Are you accusing me of falsifying my data?
+[00:06:30.188 --> 00:06:34.588] KURAK: You would not be the first scientist to manipulate experimental data to his own advantage.
+[00:06:35.228 --> 00:06:38.268] CRUSHER: Doctor Reyga has offered to demonstrate his invention.
+[00:06:39.148 --> 00:06:42.108] CRUSHER: He's outfitted one of our shuttles with his metaphasic shield.
+[00:06:42.268 --> 00:06:44.748] REYGA: I will take it into the corona of the star Vaytan.
+[00:06:45.228 --> 00:06:46.828] CHRISTOPHER: That star has a superdense corona.
+[00:06:46.828 --> 00:06:49.388] CHRISTOPHER: The shuttle would be subjected to particularly intense radiation.
+[00:06:50.188 --> 00:06:52.908] CHRISTOPHER: Perhaps it would be wise to choose a star of lesser magnitude.
+[00:06:53.228 --> 00:06:53.788] T'PAN: I agree.
+[00:06:54.508 --> 00:06:59.868] T'PAN: My own research into solar energy transfer suggests that Vaytan's corona is extremely unstable.
+[00:07:00.748 --> 00:07:02.588] REYGA: What better way to test my invention?
+[00:07:03.388 --> 00:07:04.188] REYGA: I'm not concerned.
+[00:07:04.988 --> 00:07:06.028] REYGA: The shield will hold.
+[00:07:07.068 --> 00:07:10.828] KURAK: I for one would feel more comfortable if someone else flew the shuttle.
+[00:07:11.068 --> 00:07:12.108] KURAK: Someone more objective.
+[00:07:12.908 --> 00:07:14.748] JO'BRIL: I will volunteer for that task.
+[00:07:15.788 --> 00:07:18.908] JO'BRIL: I've spent years studying solar plasma reactions.
+[00:07:19.708 --> 00:07:21.068] JO'BRIL: The thought of being able to
+[00:07:21.724 --> 00:07:23.164] JO'BRIL: penetrate a star's corona.
+[00:07:24.284 --> 00:07:25.884] JO'BRIL: It is a remarkable opportunity.
+[00:07:26.764 --> 00:07:28.524] JO'BRIL: I've studied your data, Doctor Reyga.
+[00:07:29.004 --> 00:07:30.924] JO'BRIL: I think you're on solid scientific ground.
+[00:07:31.404 --> 00:07:33.644] KURAK: I do not share your optimism, Doctor Jo'Bril,
+[00:07:34.604 --> 00:07:39.884] KURAK: but if you wish to pilot the craft, I would be more confident in your assessment of the shield than Doctor Reyga's.
+[00:07:40.364 --> 00:07:41.004] CHRISTOPHER: I agree.
+[00:07:41.004 --> 00:07:43.084] CHRISTOPHER: At this point, we need an impartial evaluation.
+[00:07:43.964 --> 00:07:48.284] CRUSHER: We'll need to be sure that you're familiar with the shuttle's controls and Doctor Reyga's modifications.
+[00:07:48.604 --> 00:07:49.804] JO'BRIL: I'm an accomplished pilot.
+[00:07:49.804 --> 00:07:50.924] JO'BRIL: It will be no problem.
+[00:07:52.204 --> 00:07:53.324] CRUSHER: Well, what do you think?
+[00:07:55.484 --> 00:08:01.164] REYGA: I am gratified, Doctor Jo'Bril. And there will be no difficulty in operating the metaphasic controls.
+[00:08:01.564 --> 00:08:04.604] REYGA: The system will activate automatically as you approach the star.
+[00:08:05.644 --> 00:08:09.164] CRUSHER: Well, then. We'll proceed with the demonstration at fifteen hundred hours.
+[00:08:09.164 --> 00:08:10.364] CRUSHER: We'll meet on the Bridge.
+[00:08:13.884 --> 00:08:23.964] CRUSHER: It wasn't exactly an enthusiastic response to Doctor Reyga's technology, but given the circumstances and the scientist's quarrelsome personalities, I was quite pleased.
+[00:08:25.244 --> 00:08:26.604] CRUSHER: I thought that went well, didn't you?
+[00:08:27.244 --> 00:08:28.444] REYGA: Thanks to you, Doctor.
+[00:08:28.524 --> 00:08:29.404] CRUSHER: I didn't do anything.
+[00:08:34.604 --> 00:08:38.844] REYGA: This is an opportunity I would never have had without you, and I promise you, I'll never forget it.
+[00:08:39.164 --> 00:08:43.404] CRUSHER: Some of the scientists still seem a little doubtful, but after the demonstration I'm sure they'll come around.
+[00:08:43.404 --> 00:08:45.404] REYGA: Well, if there's anything I'm used to, it's scepticism.
+[00:08:46.124 --> 00:08:49.884] REYGA: After all, a Ferengi scientist is almost a contradiction in terms.
+[00:08:50.764 --> 00:08:51.644] REYGA: No, don't deny it.
+[00:08:52.124 --> 00:08:52.684] REYGA: I know how the
+[00:08:52.693 --> 00:08:53.653] REYGA: Ferengi are regarded.
+[00:08:54.373 --> 00:08:58.533] CRUSHER: I still expect the scientific community to be a little more open than they seem to be.
+[00:08:58.613 --> 00:09:01.413] REYGA: The metaphasic shield is a breakthrough in technology.
+[00:09:01.573 --> 00:09:03.253] REYGA: Many scientists have tried to develop it.
+[00:09:04.053 --> 00:09:07.493] REYGA: It's only natural that there would be some resistance.
+[00:09:07.973 --> 00:09:08.853] CRUSHER: You mean jealousy.
+[00:09:09.253 --> 00:09:09.653] CRUSHER: I know.
+[00:09:10.533 --> 00:09:12.853] CRUSHER: I wondered if that might account for Doctor T'Pan's attitude.
+[00:09:13.653 --> 00:09:17.973] CRUSHER: She's been working on subspace shielding technology for years and you've beaten her to the punch.
+[00:09:18.293 --> 00:09:20.053] REYGA: I'm really not interested in competition.
+[00:09:20.053 --> 00:09:24.453] REYGA: All I want is to be acknowledged. Respected as a scientist.
+[00:09:25.733 --> 00:09:27.253] REYGA: This invention will finally do that.
+[00:09:29.093 --> 00:09:30.453] CRUSHER: I figured the hard part was over.
+[00:09:30.773 --> 00:09:32.613] CRUSHER: I'd stepped out on a limb and it hadn't broken.
+[00:09:33.493 --> 00:09:36.293] CRUSHER: Not bad for my first venture into scientific diplomacy.
+[00:09:37.733 --> 00:09:39.653] DATA: Captain, the shuttle has been launched.
+[00:09:40.613 --> 00:09:42.213] PICARD: On screen. Open a channel.
+[00:09:42.853 --> 00:09:47.093] JO'BRIL: I am one million kilometres from the star's corona.
+[00:09:47.893 --> 00:09:49.733] JO'BRIL: Proceeding at three quarters impulse.
+[00:09:50.053 --> 00:09:52.293] JO'BRIL: I should reach it in approximately three minutes.
+[00:09:55.333 --> 00:09:57.173] REYGA: The metaphasic shielding has begun to form.
+[00:09:57.813 --> 00:10:01.013] DATA: External temperature is zero point nine million Kelvins and rising.
+[00:10:01.493 --> 00:10:04.213] DATA: Radiation levels are nearing ten thousand rads.
+[00:10:04.613 --> 00:10:06.213] REYGA: That should have no effect on the shuttle cabin.
+[00:10:06.613 --> 00:10:06.933] CRUSHER: That's right.
+[00:10:07.653 --> 00:10:11.813] CRUSHER: Temperature in the cabin is twenty one degrees Celsius and the radiation levels are normal.
+[00:10:12.453 --> 00:10:12.773] JO'BRIL: Wait.
+[00:10:13.573 --> 00:10:15.573] JO'BRIL: I'm reading elevated neutrino levels in the cabin.
+[00:10:16.133 --> 00:10:18.693] REYGA: Those are from the subspace field that's encapsulating the shuttle.
+[00:10:19.573 --> 00:10:21.413] REYGA: The levels are well within acceptable parameters.
+[00:10:21.893 --> 00:10:23.813] DATA: Outside temperature is rising rapidly.
+[00:10:24.119 --> 00:10:25.799] DATA: One point seven million Kelvins.
+[00:10:26.119 --> 00:10:29.159] CRUSHER: Temperature is still twenty one degrees and the shield is holding.
+[00:10:31.639 --> 00:10:33.559] JO'BRIL: Three hundred and fifty thousand kilometres
+[00:10:33.559 --> 00:10:34.039] JO'BRIL: and closing.
+[00:10:35.559 --> 00:10:36.439] JO'BRIL: This is incredible.
+[00:10:37.719 --> 00:10:40.119] JO'BRIL: I am actually flying into a star.
+[00:10:41.079 --> 00:10:41.959] PICARD: Congratulations, Doctor.
+[00:10:41.959 --> 00:10:43.319] PICARD: This is an amazing achievement.
+[00:10:51.159 --> 00:10:55.079] DATA: Radiation levels outside the shuttle are nearing fourteen thousand rads.
+[00:10:55.319 --> 00:10:56.919] CRUSHER: Temperature inside the cabin is still normal.
+[00:10:57.639 --> 00:10:59.719] JO'BRIL: I am now fully engulfed in the corona.
+[00:11:00.839 --> 00:11:01.719] JO'BRIL: It's astonishing.
+[00:11:04.199 --> 00:11:07.879] REYGA: You see, Doctors? Metaphasic shielding is a reality.
+[00:11:10.119 --> 00:11:13.559] REYGA: Doctor Jo'Bril, can you give us an estimate of the plasma turbulence?
+[00:11:16.679 --> 00:11:17.929] REYGA: Doctor Jo'Bril?
+[00:11:17.929 --> 00:11:19.179] CRUSHER: Something's wrong.
+[00:11:19.599 --> 00:11:21.079] RIKER: What's going on, Mister Data?
+[00:11:21.799 --> 00:11:24.759] DATA: Sensors indicate an increased level of baryon particles in the cabin.
+[00:11:25.239 --> 00:11:27.319] REYGA: No! That's not possible.
+[00:11:28.999 --> 00:11:30.199] PICARD: Doctor Jo'Bril, can you hear me?
+[00:11:31.079 --> 00:11:31.799] PICARD: Please respond.
+[00:11:36.439 --> 00:11:37.879] DATA: Baryon levels are continuing to rise, sir.
+[00:11:38.039 --> 00:11:38.039] REYGA: I
+[00:11:41.639 --> 00:11:42.359] REYGA: don't understand.
+[00:11:42.999 --> 00:11:44.039] REYGA: This shouldn't be happening.
+[00:11:44.439 --> 00:11:45.559] PICARD: Mister Worf, can you beam him out of there?
+[00:11:46.839 --> 00:11:48.439] WORF: The solar radiation is interfering.
+[00:11:48.679 --> 00:11:53.239] WORF: He must be at least five hundred thousand kilometres from the star before we can get a transporter lock.
+[00:11:56.682 --> 00:11:57.930] CRUSHER: We're losing him.
+[00:11:57.930 --> 00:11:58.762] PICARD: Doctor Jo'Bril,
+[00:11:58.842 --> 00:11:59.322] PICARD: listen to me.
+[00:12:00.122 --> 00:12:01.882] PICARD: It is imperative that you turn the shuttle.
+[00:12:02.522 --> 00:12:04.522] PICARD: Take it out of the corona.
+[00:12:04.762 --> 00:12:05.402] PICARD: Do you understand me?
+[00:12:06.762 --> 00:12:08.922] PICARD: Pilot the shuttle away from the star.
+[00:12:18.282 --> 00:12:19.722] DATA: The shuttle is emerging from the corona, sir.
+[00:12:20.122 --> 00:12:21.722] PICARD: Mister Worf, get a lock on him as soon as you can.
+[00:12:22.122 --> 00:12:23.242] CRUSHER: Beam him directly to Sickbay.
+[00:12:25.162 --> 00:12:27.962] CRUSHER: At that point, the doubts of the others seemed justified.
+[00:12:28.442 --> 00:12:32.682] CRUSHER: I had no idea what had gone wrong or how seriously Doctor Jo'Bril had been injured,
+[00:12:33.322 --> 00:12:37.802] CRUSHER: but I knew this incident could destroy Reyga's chance to be accepted by the scientific community.
+[00:12:41.482 --> 00:12:42.682] CRUSHER: Twenty cc's inaprovaline.
+[00:12:51.162 --> 00:12:51.882] CRUSHER: It's not working.
+[00:12:52.042 --> 00:12:52.842] CRUSHER: Cortical stimulators.
+[00:13:00.922 --> 00:13:01.162] CRUSHER: Now.
+[00:13:04.922 --> 00:13:05.242] CRUSHER: Again.
+[00:13:07.082 --> 00:13:07.162] JO'BRIL: I
+[00:13:12.642 --> 00:13:14.642] JO'BRIL: saw
+[00:13:20.122 --> 00:13:22.122] JO'BRIL: the sun.
+[00:13:41.555 --> 00:13:44.675] CRUSHER: So that was my first experience as a scientific diplomat.
+[00:13:45.075 --> 00:13:45.875] CRUSHER: A complete failure.
+[00:13:49.395 --> 00:13:50.355] CRUSHER: I don't understand.
+[00:13:51.155 --> 00:13:51.395] GUINAN: No?
+[00:13:52.835 --> 00:13:54.995] CRUSHER: I mean, I've lost patients before.
+[00:13:54.995 --> 00:13:56.435] GUINAN: But this was different.
+[00:13:57.875 --> 00:13:58.275] CRUSHER: Mmm.
+[00:13:59.955 --> 00:14:03.795] GUINAN: You know, when you're a doctor and you have patients, you're in control.
+[00:14:04.915 --> 00:14:09.155] GUINAN: But when you send someone out on a mission, all you can do is sit and watch.
+[00:14:11.395 --> 00:14:12.195] CRUSHER: That's what I felt.
+[00:14:12.835 --> 00:14:13.395] CRUSHER: Helpless.
+[00:14:14.275 --> 00:14:15.075] GUINAN: Anybody would.
+[00:14:16.755 --> 00:14:17.875] GUINAN: Don't be too hard on yourself.
+[00:14:21.475 --> 00:14:26.915] CRUSHER: You know, what you say reminds me of something Jean-Luc said to me when I was doing the autopsy on Jo'Bril.
+[00:14:27.955 --> 00:14:39.075] CRUSHER: It was probably the most puzzling autopsy I've ever performed, and the most frustrating, because Jo'Bril's anatomy was unlike any I'd encountered, and I've run into some unusual specimens.
+[00:14:40.035 --> 00:14:40.515] PICARD: How's it going?
+[00:14:42.115 --> 00:14:44.515] CRUSHER: I've never run into a humanoid species like this before.
+[00:14:45.555 --> 00:14:47.315] CRUSHER: His internal physiology's baffling.
+[00:14:47.875 --> 00:14:50.275] CRUSHER: He doesn't seem to have any discrete organs,
+[00:14:50.517 --> 00:14:52.037] CRUSHER: at least not in the traditional sense.
+[00:14:52.437 --> 00:14:55.957] CRUSHER: Practically every system is equally distributed throughout the body.
+[00:14:56.437 --> 00:14:59.877] CRUSHER: That kind of physiology should make him incredibly resistant to injury,
+[00:15:00.677 --> 00:15:03.557] CRUSHER: so whatever killed him must have occurred at the cellular level.
+[00:15:04.597 --> 00:15:05.637] PICARD: Do you have any idea what it was?
+[00:15:05.957 --> 00:15:06.277] CRUSHER: No.
+[00:15:06.837 --> 00:15:10.917] CRUSHER: Something caused a massive system-wide failure, but I don't know what.
+[00:15:11.877 --> 00:15:14.037] PICARD: Were the solar radiation levels high enough to kill him?
+[00:15:15.077 --> 00:15:17.157] CRUSHER: His exposure to the star's radiation was minimal.
+[00:15:18.197 --> 00:15:19.557] CRUSHER: It's all very strange.
+[00:15:20.197 --> 00:15:22.460] CRUSHER: There's no apparent cause of death.
+[00:15:22.460 --> 00:15:22.837] OGAWA: Doctor,
+[00:15:23.237 --> 00:15:25.157] OGAWA: here's the result of the tissue scan you asked for.
+[00:15:26.357 --> 00:15:27.157] CRUSHER: That's odd.
+[00:15:27.797 --> 00:15:30.037] CRUSHER: The rate of cellular decay is extremely low.
+[00:15:33.957 --> 00:15:35.477] PICARD: Beverly, the answers will come.
+[00:15:36.357 --> 00:15:40.357] CRUSHER: Maybe even minimal exposure to the radiation altered the cellular physiology.
+[00:15:42.117 --> 00:15:43.797] PICARD: You know, you've been at this for hours.
+[00:15:44.597 --> 00:15:46.437] PICARD: You might think more clearly if you got a good night's sleep.
+[00:15:46.677 --> 00:15:47.317] CRUSHER: I can't sleep.
+[00:15:47.317 --> 00:15:49.237] CRUSHER: I want to find out what killed him.
+[00:15:49.717 --> 00:15:50.917] CRUSHER: I owe that to Doctor Reyga.
+[00:15:52.677 --> 00:15:54.597] PICARD: You're doing it for Doctor Reyga, or yourself?
+[00:15:56.117 --> 00:15:56.517] CRUSHER: What do you mean?
+[00:15:57.397 --> 00:15:59.077] PICARD: You're the loneliest person in the world right now.
+[00:15:59.637 --> 00:16:00.517] PICARD: No one can say anything,
+[00:16:00.757 --> 00:16:02.437] PICARD: no one can do anything that will help.
+[00:16:03.877 --> 00:16:05.877] PICARD: And you think that it will never go away.
+[00:16:06.517 --> 00:16:06.837] PICARD: And you're right, it
+[00:16:07.157 --> 00:16:07.477] PICARD: won't.
+[00:16:09.557 --> 00:16:10.357] PICARD: But you can get used to it.
+[00:16:11.477 --> 00:16:12.837] PICARD: I know it doesn't feel like that now,
+[00:16:14.517 --> 00:16:15.237] PICARD: but you can.
+[00:16:18.651 --> 00:16:22.891] CRUSHER: At the time, I was too preoccupied with my problems to understand what he was saying.
+[00:16:23.691 --> 00:16:25.531] CRUSHER: I wasn't thinking about the rest of my life.
+[00:16:26.171 --> 00:16:30.091] CRUSHER: I was trying to make sense of what had happened. And I wasn't alone.
+[00:16:30.971 --> 00:16:33.051] CRUSHER: Jo'Bril's death had raised a lot of questions.
+[00:16:33.611 --> 00:16:40.891] CRUSHER: Geordi and Data were determined to find out what had gone wrong, and they were busy going over every millimetre of the shuttle, with Doctor Reyga's help.
+[00:16:42.891 --> 00:16:47.851] REYGA: Run another diagnostic on the EPS flow regulator.
+[00:16:48.651 --> 00:16:50.331] DATA: The flow regulator is functioning properly.
+[00:16:51.291 --> 00:16:52.651] REYGA: What about the field emitter coil?
+[00:16:52.731 --> 00:16:54.091] REYGA: Has it maintained polarity?
+[00:16:54.331 --> 00:16:54.891] DATA: Yes, Doctor.
+[00:16:55.131 --> 00:16:56.651] REYGA: The radial force compensator?
+[00:16:57.371 --> 00:16:59.131] DATA: I am unable to locate any malfunction.
+[00:16:59.611 --> 00:17:02.651] DATA: All systems are operating according to your design specifications.
+[00:17:06.571 --> 00:17:07.691] CRUSHER: Did you find anything wrong?
+[00:17:07.691 --> 00:17:08.091] REYGA: No.
+[00:17:08.491 --> 00:17:09.291] REYGA: I don't understand it.
+[00:17:09.371 --> 00:17:10.811] REYGA: There must be something we've overlooked.
+[00:17:11.211 --> 00:17:16.527] LAFORGE: I found micro-crystalline damage to the hull, which confirms that your shield was breached by a burst of baryonic radiation.
+[00:17:16.527 --> 00:17:19.451] CRUSHER: Were the levels high enough to cause damage to organic tissue?
+[00:17:19.931 --> 00:17:20.251] LAFORGE: I don't know.
+[00:17:20.891 --> 00:17:24.971] DATA: Perhaps there was an unexpected interaction between the solar radiation and the metaphasic shield.
+[00:17:25.131 --> 00:17:26.731] REYGA: No, that's not possible.
+[00:17:28.251 --> 00:17:30.651] REYGA: I anticipated every contingency.
+[00:17:31.131 --> 00:17:34.651] LAFORGE: Then maybe Jo'Bril ran into something in the corona which you didn't anticipate, and
+[00:17:35.211 --> 00:17:36.811] LAFORGE: your shield just wasn't able to protect him from it.
+[00:17:37.611 --> 00:17:38.651] REYGA: My shield was not
+[00:17:39.131 --> 00:17:39.643] REYGA: at fault.
+[00:17:39.643 --> 00:17:42.971] CRUSHER: Reyga seemed angry, but I knew it was because he was so disappointed.
+[00:17:43.859 --> 00:17:50.659] CRUSHER: Everything he'd worked for, hoped for, was slipping away. And that made what I had to do next even harder.
+[00:17:52.259 --> 00:17:57.219] CRUSHER: I'm sure you all understand that in light of what happened, I think it would be inappropriate to continue further testing.
+[00:17:58.019 --> 00:18:02.179] CRUSHER: Perhaps if Doctor Reyga has perfected his metaphasic technology, we can try again.
+[00:18:02.579 --> 00:18:09.241] REYGA: Doctor Crusher, please, if I could have a little more time to investigate I know I could find what went wrong.
+[00:18:09.241 --> 00:18:11.779] CHRISTOPHER: But that won't bring back Jo'Bril, will it?
+[00:18:12.499 --> 00:18:14.419] T'PAN: I do not believe the shield will ever work.
+[00:18:15.379 --> 00:18:17.379] T'PAN: Its very concept is flawed.
+[00:18:19.699 --> 00:18:21.459] REYGA: Just one more test.
+[00:18:22.339 --> 00:18:24.499] KURAK: Whom do you propose we sacrifice next?
+[00:18:26.179 --> 00:18:28.419] REYGA: I will pilot the shuttle myself.
+[00:18:29.139 --> 00:18:33.539] CRUSHER: I'm sorry. As Chief Medical Officer I'm responsible for the health and safety of all the people aboard.
+[00:18:34.179 --> 00:18:36.179] CRUSHER: I will not authorise any further tests.
+[00:18:38.659 --> 00:18:39.219] REYGA: Very well.
+[00:18:40.659 --> 00:18:42.579] REYGA: But I will prove myself.
+[00:18:44.979 --> 00:18:46.899] CRUSHER: I couldn't help but admire his tenacity.
+[00:18:46.979 --> 00:18:51.139] CRUSHER: He just wasn't going to accept defeat. And I hoped he would prove himself.
+[00:18:52.819 --> 00:18:55.299] CRUSHER: But that was the last time I saw him alive.
+[00:19:00.259 --> 00:19:04.659] CRUSHER: We'd gone to Science Lab four when the ship's sensors registered a sizable plasma surge there.
+[00:19:06.899 --> 00:19:08.979] CRUSHER: Look at this. A plasma infuser.
+[00:19:08.979 --> 00:19:10.659] CRUSHER: It's completely discharged.
+[00:19:11.059 --> 00:19:12.659] CRUSHER: The blast must have killed him instantly.
+[00:19:14.185 --> 00:19:18.345] WORF: Perhaps he could not live with the failure of his invention and took his own life.
+[00:19:18.825 --> 00:19:20.825] CRUSHER: Or perhaps someone just wanted it to look that way.
+[00:19:22.505 --> 00:19:26.665] CRUSHER: Isn't it odd that he could hold on so tightly to the infuser when it was discharged.
+[00:19:27.145 --> 00:19:28.905] CRUSHER: The normal reflex would have been to drop it.
+[00:19:29.465 --> 00:19:31.865] WORF: The plasma shock could have affected his nervous system.
+[00:19:31.945 --> 00:19:33.785] WORF: He may have reacted by gripping tighter.
+[00:19:34.905 --> 00:19:36.585] CRUSHER: I'll know for certain when I do the autopsy.
+[00:19:37.625 --> 00:19:39.065] WORF: Is your examination complete, Doctor?
+[00:19:39.385 --> 00:19:39.785] CRUSHER: For now.
+[00:19:40.345 --> 00:19:41.785] CRUSHER: Please have his body taken to the morgue.
+[00:19:42.425 --> 00:19:42.745] WORF: Very well.
+[00:19:45.865 --> 00:19:50.505] CRUSHER: I remembered his passion and commitment, and his determination to prove himself,
+[00:19:51.145 --> 00:19:54.425] CRUSHER: and I was sure that this man had not taken his own life.
+[00:19:56.185 --> 00:19:59.385] CRUSHER: If anyone could understand that, I knew it would be Captain Picard.
+[00:19:59.535 --> 00:20:00.135] CRUSHER: Jean-Luc,
+[00:20:02.025 --> 00:20:03.465] CRUSHER: I was with him right before he died.
+[00:20:03.625 --> 00:20:04.665] CRUSHER: He was not suicidal.
+[00:20:06.505 --> 00:20:10.585] PICARD: But by your own admission, Reyga was a difficult man to understand.
+[00:20:11.705 --> 00:20:14.185] PICARD: Isn't it possible that he was simply masking his feelings?
+[00:20:14.985 --> 00:20:15.945] CRUSHER: I don't think so.
+[00:20:16.905 --> 00:20:22.425] CRUSHER: He was disappointed at the failure of his device and certainly he was upset at Jo'Bril's death,
+[00:20:22.905 --> 00:20:25.385] CRUSHER: but I never got the sense that he was ready to end his own life.
+[00:20:25.625 --> 00:20:27.705] CRUSHER: And if that's true, then someone else killed him.
+[00:20:28.345 --> 00:20:29.545] PICARD: Do you have any evidence of that?
+[00:20:30.505 --> 00:20:30.905] CRUSHER: Not yet.
+[00:20:31.865 --> 00:20:34.265] CRUSHER: But when I finished the autopsy, I hope I'll have it.
+[00:20:36.425 --> 00:20:36.745] PICARD: Beverly.
+[00:20:39.225 --> 00:20:41.065] PICARD: I'm afraid there will be no autopsy.
+[00:20:41.385 --> 00:20:42.905] PICARD: The family has already been contacted.
+[00:20:43.065 --> 00:20:46.985] PICARD: They insist that the body must not be touched until they perform the Ferengi death ritual.
+[00:20:47.489 --> 00:20:49.809] CRUSHER: But there's a question as to the circumstances of his death.
+[00:20:50.129 --> 00:20:51.169] PICARD: To the family that's irrelevant.
+[00:20:51.409 --> 00:20:52.209] CRUSHER: Let me speak with them.
+[00:20:52.369 --> 00:20:54.769] PICARD: Please believe me, they're adamant.
+[00:20:55.169 --> 00:20:58.209] PICARD: We are scheduled to rendezvous with a Ferengi ship in seventeen hours.
+[00:20:58.209 --> 00:20:59.649] PICARD: They will pick up Reyga's body then.
+[00:21:00.769 --> 00:21:02.209] PICARD: I'm sorry, there will be no autopsy.
+[00:21:02.769 --> 00:21:04.529] CRUSHER: Jean-Luc, I cannot just drop this.
+[00:21:05.169 --> 00:21:05.809] CRUSHER: Don't you see?
+[00:21:06.609 --> 00:21:07.489] CRUSHER: There may have been a murder.
+[00:21:08.609 --> 00:21:11.649] PICARD: Then you will have to find evidence some way other than an autopsy.
+[00:21:21.649 --> 00:21:22.609] OGAWA: I don't understand, Doctor.
+[00:21:22.609 --> 00:21:25.169] OGAWA: Isn't it pretty clear that Reyga died from a plasma discharge?
+[00:21:25.729 --> 00:21:27.809] CRUSHER: It's won't be clear until after an autopsy.
+[00:21:28.289 --> 00:21:32.529] CRUSHER: As far as I know, he could have been poisoned and someone put the plasma infuser in his hand after he died.
+[00:21:32.769 --> 00:21:33.489] OGAWA: You think he was murdered?
+[00:21:33.649 --> 00:21:35.489] CRUSHER: I'm not discounting that possibility.
+[00:21:35.809 --> 00:21:39.169] CRUSHER: The point is, without a complete autopsy, there's no way of knowing for certain.
+[00:21:40.129 --> 00:21:41.409] OGAWA: Why won't the Ferengi allow it?
+[00:21:41.729 --> 00:21:43.409] CRUSHER: It has to do with their death rituals.
+[00:21:43.729 --> 00:21:45.729] CRUSHER: The body can't be violated before it's buried.
+[00:21:46.209 --> 00:21:50.129] CRUSHER: Apparently the family is more concerned about ritual than finding out the truth about how he died.
+[00:21:51.169 --> 00:21:54.049] CRUSHER: I just can't get the information I need from a tricorder scan.
+[00:21:56.369 --> 00:21:57.089] CRUSHER: Suspects.
+[00:21:58.049 --> 00:21:59.969] CRUSHER: If Reyga didn't kill himself. someone else did.
+[00:22:00.609 --> 00:22:02.529] CRUSHER: So who are the possible suspects?
+[00:22:02.929 --> 00:22:04.449] OGAWA: Whoever had something to gain from his death.
+[00:22:05.089 --> 00:22:07.889] CRUSHER: And the only ones to fit that category are the other scientists.
+[00:22:19.569 --> 00:22:21.169] CHRISTOPHER: I'm afraid I don't understand, Doctor.
+[00:22:21.197 --> 00:22:23.597] CHRISTOPHER: Do you have evidence that Reyga was murdered?
+[00:22:24.397 --> 00:22:29.357] CRUSHER: No, but I can't believe he took his own life and I would like to explore any possibilities a bit further.
+[00:22:29.757 --> 00:22:31.597] T'PAN: What reason would anyone have to kill him?
+[00:22:32.397 --> 00:22:34.637] CRUSHER: I was wondering if you might have any thoughts along that line.
+[00:22:36.397 --> 00:22:37.037] T'PAN: I see.
+[00:22:37.997 --> 00:22:40.157] T'PAN: You are suggesting that I had such a motive.
+[00:22:40.797 --> 00:22:47.117] CRUSHER: If Reyga's technology had been successful, you might have been displaced as the preeminent scientist in subspace technology.
+[00:22:47.757 --> 00:22:51.997] T'PAN: But since it wasn't successful, it is illogical to conclude that I had such a motive, isn't it.
+[00:22:53.437 --> 00:22:55.437] CHRISTOPHER: I must say I resent this, Doctor.
+[00:22:56.877 --> 00:22:58.717] CHRISTOPHER: We've all been shocked by recent events.
+[00:22:59.437 --> 00:23:03.517] CHRISTOPHER: I don't see that there's anything to gain by dragging us through these insinuations.
+[00:23:04.397 --> 00:23:07.357] CRUSHER: I'm just trying to uncover the truth, and I need your help to do it.
+[00:23:08.157 --> 00:23:12.557] CRUSHER: Have you seen or heard anything that might suggest that someone else had a motive?
+[00:23:13.037 --> 00:23:17.757] CHRISTOPHER: We are trying to forget the unpleasantness of these last several days, not have them stirred up again.
+[00:23:18.877 --> 00:23:22.797] CHRISTOPHER: I find it disturbing that you would try to foster suspicions among us.
+[00:23:23.197 --> 00:23:23.917] CRUSHER: Forgive me,
+[00:23:24.397 --> 00:23:25.597] CRUSHER: I don't mean to upset you,
+[00:23:26.797 --> 00:23:28.717] CRUSHER: but have you noticed anything unusual?
+[00:23:29.197 --> 00:23:30.797] CHRISTOPHER: I find your question distasteful.
+[00:23:39.757 --> 00:23:41.757] CRUSHER: Is there something you're not telling me?
+[00:23:46.477 --> 00:23:47.357] CHRISTOPHER: I'm sure it's nothing.
+[00:23:51.117 --> 00:23:53.357] CHRISTOPHER: I was in the storage room of the science laboratory yesterday.
+[00:23:53.997 --> 00:23:55.117] CHRISTOPHER: Kurak was working in the lab.
+[00:23:56.466 --> 00:24:01.266] CHRISTOPHER: Reyga came in and they got into, well, an argument.
+[00:24:02.706 --> 00:24:03.506] CRUSHER: About what?
+[00:24:04.786 --> 00:24:05.026] CHRISTOPHER: I don't know.
+[00:24:06.386 --> 00:24:11.506] CHRISTOPHER: I couldn't hear clearly until they started to shout at one other.
+[00:24:12.946 --> 00:24:18.866] CHRISTOPHER: Then I heard Kurak say that Reyga had insulted her honour, and no Klingon would stand for that.
+[00:24:19.666 --> 00:24:21.346] CHRISTOPHER: I do not believe she killed him.
+[00:24:22.546 --> 00:24:24.306] CHRISTOPHER: These were words spoken in the heat of anger.
+[00:24:25.186 --> 00:24:30.066] CHRISTOPHER: Kurak is volatile, passionate, but not a killer.
+[00:24:33.506 --> 00:24:35.026] CHRISTOPHER: And, Doctor, neither are we.
+[00:24:37.746 --> 00:24:38.066] CRUSHER: Thank you.
+[00:24:40.226 --> 00:24:41.986] CRUSHER: I knew he might be right about Kurak.
+[00:24:42.706 --> 00:24:44.786] CRUSHER: Klingons make threats as a matter of course.
+[00:24:45.506 --> 00:24:48.386] CRUSHER: On the other hand, sometimes they follow through.
+[00:24:58.386 --> 00:25:01.106] CRUSHER: That looks like one of Doctor Reyga's shield configurations.
+[00:25:01.906 --> 00:25:02.146] KURAK: Yes.
+[00:25:03.826 --> 00:25:04.706] KURAK: Personal research.
+[00:25:11.186 --> 00:25:12.866] CRUSHER: Even though this technology failed?
+[00:25:14.466 --> 00:25:17.316] KURAK: No one has denied there is potential in the idea.
+[00:25:17.316 --> 00:25:19.026] CRUSHER: Which you're now free to develop.
+[00:25:22.226 --> 00:25:23.826] KURAK: Are you accusing me of something?
+[00:25:24.867 --> 00:25:28.467] CRUSHER: No, but I want to know why you threatened Doctor Reyga.
+[00:25:30.467 --> 00:25:36.467] KURAK: I warned Doctor Reyga that if he persisted with his slander, he would pay the price.
+[00:25:37.107 --> 00:25:38.067] CRUSHER: What was his accusation?
+[00:25:40.227 --> 00:25:41.827] KURAK: I will not repeat his lies.
+[00:25:42.467 --> 00:25:43.187] CRUSHER: Were they lies?
+[00:25:46.787 --> 00:25:48.147] KURAK: Be careful, Doctor.
+[00:25:49.987 --> 00:25:54.547] KURAK: Insulting the honour of a Klingon can be extremely dangerous.
+[00:25:55.827 --> 00:25:57.187] CRUSHER: Did Reyga make that mistake?
+[00:25:59.347 --> 00:25:59.587] KURAK: I have
+[00:26:01.427 --> 00:26:04.307] KURAK: heard enough accusations!
+[00:26:04.707 --> 00:26:07.107] KURAK: Now I will have your silence.
+[00:26:10.787 --> 00:26:13.427] CRUSHER: Well, you're going to have to throw me a lot harder than that if you want to get it.
+[00:26:15.267 --> 00:26:18.387] CRUSHER: Now, what did he accuse you of?
+[00:26:22.067 --> 00:26:22.787] KURAK: Sabotage.
+[00:26:23.747 --> 00:26:25.587] CRUSHER: Sabotage of the metaphasic shield?
+[00:26:25.667 --> 00:26:26.707] CRUSHER: Was that why it failed?
+[00:26:27.027 --> 00:26:28.307] KURAK: How would I know?
+[00:26:28.467 --> 00:26:30.387] CRUSHER: Did you sabotage the project?
+[00:26:34.067 --> 00:26:34.307] KURAK: No.
+[00:26:35.987 --> 00:26:36.707] KURAK: I did not.
+[00:26:43.427 --> 00:26:45.827] KURAK: Goodbye, Doctor.
+[00:26:49.347 --> 00:26:51.187] CRUSHER: Kurak refused to say anything more.
+[00:26:52.206 --> 00:26:56.606] CRUSHER: I wasn't sure if her silence was motivated by guilt or just Klingon pride.
+[00:26:57.806 --> 00:27:10.046] CRUSHER: I was beginning to find out that investigating a murder was a little more perilous than I'd thought. And for everything I'd been though, I didn't have any more insight than I did before I started.
+[00:27:11.806 --> 00:27:24.686] CRUSHER: Which brought me back to Reyga's body. Because the more I thought about it, the more it seemed that the answers had to be there. DNA traces, tissue anomalies, a wealth of forensic clues that could shed some light on the mystery.
+[00:27:25.966 --> 00:27:27.566] CRUSHER: So I made the decision.
+[00:28:03.326 --> 00:28:03.646] PICARD: Come.
+[00:28:06.366 --> 00:28:06.686] PICARD: Beverly.
+[00:28:11.486 --> 00:28:15.086] CRUSHER: Jean-Luc, I want to tell you something that you need to know, but you're not going to like it.
+[00:28:17.086 --> 00:28:18.606] CRUSHER: I did an autopsy on Doctor Reyga.
+[00:28:24.953 --> 00:28:25.673] PICARD: What did you find?
+[00:28:27.753 --> 00:28:27.993] CRUSHER: Nothing.
+[00:28:28.143 --> 00:28:28.743] CRUSHER: I'm
+[00:28:31.673 --> 00:28:33.193] CRUSHER: sorry. I know I shouldn't have done it.
+[00:28:34.633 --> 00:28:35.753] PICARD: You most certainly should not.
+[00:28:37.513 --> 00:28:39.993] PICARD: I made it clear to you that the family would not allow it.
+[00:28:40.393 --> 00:28:44.713] PICARD: Not only have you disobeyed my orders, but you've interfered in the burial rituals of another culture.
+[00:28:50.233 --> 00:28:51.993] PICARD: You've put both of us in a very difficult position.
+[00:28:52.873 --> 00:28:54.153] PICARD: The family will have to be notified.
+[00:28:54.153 --> 00:28:56.713] PICARD: I don't doubt that they will react strongly.
+[00:28:58.153 --> 00:29:02.153] PICARD: If the Ferengi government becomes involved, as I'm certain they will,
+[00:29:03.833 --> 00:29:05.833] PICARD: this could have very significant repercussions.
+[00:29:07.193 --> 00:29:08.793] PICARD: I'm not sure how much I can protect you.
+[00:29:10.793 --> 00:29:11.833] CRUSHER: You don't have to, Jean-Luc.
+[00:29:14.313 --> 00:29:17.673] CRUSHER: I knew what I was doing and I'm prepared to accept the consequences.
+[00:29:20.553 --> 00:29:20.553] CRUSHER: I
+[00:29:23.993 --> 00:29:28.553] CRUSHER: could tell that he was terribly disappointed in me, and that was almost the hardest part of all.
+[00:29:30.153 --> 00:29:30.953] CRUSHER: So that's the story.
+[00:29:32.153 --> 00:29:33.513] CRUSHER: That's how I ended my career.
+[00:29:36.313 --> 00:29:37.113] GUINAN: Backhand volley.
+[00:29:38.073 --> 00:29:38.313] CRUSHER: What?
+[00:29:38.953 --> 00:29:39.593] GUINAN: That's how I did it.
+[00:29:40.233 --> 00:29:42.073] GUINAN: Geordi kept hitting to my backhand at the net.
+[00:29:43.513 --> 00:29:46.073] CRUSHER: Guinan, two people died on this ship.
+[00:29:46.393 --> 00:29:49.353] CRUSHER: Two lives that ended horribly and you're worried about your tennis game?
+[00:29:50.549 --> 00:29:51.269] GUINAN: Are you upset?
+[00:29:51.669 --> 00:29:52.069] CRUSHER: I don't know.
+[00:29:52.069 --> 00:29:52.709] CRUSHER: You tell me.
+[00:29:52.709 --> 00:29:53.909] CRUSHER: You're supposed to be wise.
+[00:29:55.189 --> 00:29:58.149] GUINAN: Well, if you are upset, why are you moping around here?
+[00:29:58.229 --> 00:29:59.589] GUINAN: Why don't you do something about it?
+[00:29:59.589 --> 00:30:01.349] CRUSHER: I've done everything I could think of.
+[00:30:01.429 --> 00:30:02.629] CRUSHER: It got me fired.
+[00:30:03.029 --> 00:30:03.989] GUINAN: Do you think Doctor
+[00:30:03.989 --> 00:30:05.029] GUINAN: Reyga killed himself?
+[00:30:05.669 --> 00:30:05.989] CRUSHER: No.
+[00:30:06.549 --> 00:30:08.229] GUINAN: Do you think there's a murderer on board?
+[00:30:08.469 --> 00:30:09.109] CRUSHER: Yes.
+[00:30:09.669 --> 00:30:10.869] GUINAN: Then why are you still sitting here?
+[00:30:11.589 --> 00:30:12.389] CRUSHER: Don't you get it?
+[00:30:12.789 --> 00:30:14.509] CRUSHER: If I start digging around again.
+[00:30:14.509 --> 00:30:16.229] GUINAN: You could be relieved of duty.
+[00:30:25.349 --> 00:30:29.589] LOG: Chief Medical Officer's log, personal, stardate 46830.1.
+[00:30:30.709 --> 00:30:33.349] LOG: I'll be leaving the ship tomorrow to attend the board of inquiry.
+[00:30:34.229 --> 00:30:37.669] LOG: That means I have less than twenty four hours to get to the bottom of this mystery.
+[00:30:43.189 --> 00:30:45.989] CRUSHER: What are you doing, Data?
+[00:30:46.789 --> 00:30:51.669] DATA: I am running additional diagnostics to make certain there was no permanent radiation damage to the shuttlecraft hull.
+[00:30:54.069 --> 00:30:54.869] CRUSHER: You've studied Doctor
+[00:30:54.869 --> 00:30:55.909] CRUSHER: Reyga's shield system.
+[00:30:57.349 --> 00:30:59.109] CRUSHER: Do you think it could have been sabotaged?
+[00:30:59.509 --> 00:31:01.269] DATA: There was no evidence to suggest sabotage.
+[00:31:01.829 --> 00:31:03.669] CRUSHER: Just consider the possibility.
+[00:31:05.269 --> 00:31:09.509] DATA: The system interlocks prevent access to the circuitry unless the shield emitter is active.
+[00:31:10.149 --> 00:31:13.669] DATA: Any attempt to sabotage the device would have to be made while the shield was in operation.
+[00:31:14.389 --> 00:31:17.749] CRUSHER: The only time the shield was active was during Jo'Bril's test flight.
+[00:31:18.309 --> 00:31:19.029] DATA: That is correct.
+[00:31:19.589 --> 00:31:21.029] DATA: It seems unlikely that Jo'Bril would
+[00:31:21.542 --> 00:31:23.782] DATA: perform sabotage which would result in his own death.
+[00:31:24.262 --> 00:31:24.662] CRUSHER: I agree.
+[00:31:24.662 --> 00:31:24.662] CRUSHER: Would
+[00:31:26.422 --> 00:31:30.022] CRUSHER: it be possible to sabotage the shuttle by remote, during the flight?
+[00:31:30.022 --> 00:31:37.782] DATA: A phased ionic pulse beamed directly into the metaphasic projection matrix would result in a temporary system malfunction.
+[00:31:38.342 --> 00:31:41.142] CRUSHER: Where on the Enterprise could you generate a phased ionic pulse?
+[00:31:41.702 --> 00:31:48.742] DATA: Such a pulse could be initiated from the lateral sensor arrays, science labs one, four, and sixteen, or any of the bridge science stations.
+[00:31:49.222 --> 00:31:52.422] CRUSHER: Let's assume for the moment that someone did send out a phased ionic pulse.
+[00:31:52.662 --> 00:31:54.182] CRUSHER: What would have happened inside the shuttle?
+[00:31:55.302 --> 00:32:00.262] DATA: A tetryon field would be formed briefly in the cabin, temporarily disrupting the metaphasic shield.
+[00:32:01.782 --> 00:32:02.982] CRUSHER: A tetryon field?
+[00:32:04.422 --> 00:32:09.382] CRUSHER: If Jo'Bril was exposed to a tetryon field, it might have left residual traces in his tissue.
+[00:32:13.062 --> 00:32:13.302] CRUSHER: Thanks,
+[00:32:16.422 --> 00:32:18.422] CRUSHER: Data.
+[00:32:27.062 --> 00:32:27.462] RIKER: Beverly?
+[00:32:28.822 --> 00:32:29.302] CRUSHER: Yes?
+[00:32:29.542 --> 00:32:32.342] RIKER: We've arranged for a shuttle to take you to Starbase twenty three.
+[00:32:32.342 --> 00:32:34.022] RIKER: You can leave the ship at oh seven hundred hours tomorrow.
+[00:32:34.262 --> 00:32:34.582] CRUSHER: Thank you.
+[00:32:35.462 --> 00:32:37.622] RIKER: About everything that's going on. I'm sorry.
+[00:32:38.502 --> 00:32:39.622] RIKER: I'm sure it will all work out.
+[00:32:39.862 --> 00:32:40.502] CRUSHER: Yes, of course.
+[00:32:40.822 --> 00:32:45.382] RIKER: You know the inquiry's just a formality, and Captain Picard will do everything he can for you.
+[00:32:45.622 --> 00:32:46.342] CRUSHER: I'm sure that'll help.
+[00:32:46.502 --> 00:32:49.702] RIKER: But if you do anything foolish before that inquiry. it's not going to look good for you.
+[00:32:50.262 --> 00:32:51.142] CRUSHER: I don't know what you mean.
+[00:32:51.926 --> 00:32:53.126] RIKER: I think you do know what I mean.
+[00:32:54.246 --> 00:32:56.886] RIKER: The best thing for you to do right now is go to your quarters and read a good book.
+[00:32:57.366 --> 00:33:00.406] RIKER: If you do anything to make the situation any worse it's going to be that much harder on you.
+[00:33:01.126 --> 00:33:01.846] CRUSHER: Thank you, Commander.
+[00:33:01.846 --> 00:33:02.806] CRUSHER: Your concern is noted.
+[00:33:03.126 --> 00:33:03.526] RIKER: Beverly.
+[00:33:05.126 --> 00:33:06.486] RIKER: I'm saying this to you as a friend.
+[00:33:07.766 --> 00:33:12.166] CRUSHER: Yes, Will, I know. But, as a friend, please try to understand.
+[00:33:12.246 --> 00:33:15.206] CRUSHER: I can't quit now and I don't want you to become involved in this.
+[00:33:23.766 --> 00:33:28.246] CRUSHER: Computer, access ship's medical logs and download current autopsy files.
+[00:33:28.726 --> 00:33:32.086] COMPUTER: Autopsy files are restricted to active medical personnel only.
+[00:33:32.486 --> 00:33:33.286] COMPUTER: Access denied.
+[00:33:34.726 --> 00:33:34.966] CRUSHER: Damn.
+[00:33:34.966 --> 00:33:35.446] OGAWA: Doctor Crusher?
+[00:33:36.646 --> 00:33:38.246] OGAWA: What do you need the autopsy files for?
+[00:33:40.566 --> 00:33:41.126] CRUSHER: Don't worry.
+[00:33:41.126 --> 00:33:42.646] CRUSHER: I know I'm not supposed to be here.
+[00:33:42.966 --> 00:33:43.286] CRUSHER: I'll go.
+[00:33:50.326 --> 00:33:50.806] OGAWA: Computer,
+[00:33:53.446 --> 00:33:54.486] OGAWA: access autopsy files.
+[00:33:56.166 --> 00:33:58.726] OGAWA: I assume you'll need the files on Doctor Reyga and Jo'Bril?
+[00:33:59.126 --> 00:33:59.358] CRUSHER: Alyssa.
+[00:33:59.358 --> 00:34:01.446] OGAWA: I can see how important this is to you.
+[00:34:02.086 --> 00:34:03.686] CRUSHER: I don't want you to get involved in this.
+[00:34:04.246 --> 00:34:05.206] OGAWA: Is that an order, Doctor?
+[00:34:05.766 --> 00:34:06.246] CRUSHER: Yes.
+[00:34:06.806 --> 00:34:07.926] OGAWA: Too bad you're not my boss now.
+[00:34:09.766 --> 00:34:10.246] CRUSHER: Thank you.
+[00:34:12.086 --> 00:34:12.726] OGAWA: So what do we do now?
+[00:34:13.046 --> 00:34:15.366] CRUSHER: First of all, I want to review Jo'Bril's physiology records.
+[00:34:15.446 --> 00:34:18.806] CRUSHER: Then I want to take another look at the body. I want to see if there's any tetryon traces.
+[00:34:18.966 --> 00:34:19.366] OGAWA: Let's do it.
+[00:34:36.991 --> 00:34:39.231] CRUSHER: We need to run a tissue scan at the molecular level.
+[00:34:40.672 --> 00:34:43.311] CRUSHER: Calibrate the scanner to pick up tetryon particles.
+[00:34:43.391 --> 00:34:43.871] OGAWA: Yes, Doctor.
+[00:34:45.631 --> 00:34:46.591] OGAWA: Re-calibration complete.
+[00:34:47.871 --> 00:34:48.511] CRUSHER: Activate the scan.
+[00:34:54.031 --> 00:34:54.351] OGAWA: Nothing.
+[00:34:55.951 --> 00:34:56.591] CRUSHER: Let's do it again.
+[00:34:57.471 --> 00:34:59.871] CRUSHER: Use the enhanced resolution mode to boost the sensitivity.
+[00:35:02.192 --> 00:35:03.551] OGAWA: There's something in the subdermal tissue.
+[00:35:04.111 --> 00:35:04.911] CRUSHER: Narrow the scan field.
+[00:35:08.591 --> 00:35:09.712] CRUSHER: Tetryon traces.
+[00:35:10.991 --> 00:35:12.511] CRUSHER: Someone did sabotage the shield.
+[00:35:13.232 --> 00:35:16.752] OGAWA: That's a possibility, but this is very circumstantial evidence.
+[00:35:16.752 --> 00:35:19.312] CRUSHER: There's only one way to know for certain.
+[00:35:28.911 --> 00:35:29.391] TROI: Captain,
+[00:35:31.232 --> 00:35:32.511] TROI: I'm concerned about Beverly.
+[00:35:32.752 --> 00:35:35.312] TROI: I've tried several times to talk to her, but she's been avoiding me.
+[00:35:35.631 --> 00:35:36.511] PICARD: I'm not surprised.
+[00:35:37.792 --> 00:35:39.591] TROI: This entire experience has been
+[00:35:39.591 --> 00:35:39.951] DATA: Captain,
+[00:35:41.071 --> 00:35:43.471] DATA: an unscheduled launch is taking place in Shuttlebay two.
+[00:35:48.192 --> 00:35:48.672] RIKER: No idea.
+[00:35:49.145 --> 00:35:49.945] RIKER: No one's filed a flight plan.
+[00:35:50.745 --> 00:35:51.225] PICARD: On screen.
+[00:35:56.425 --> 00:35:56.985] RIKER: That's the Justman,
+[00:35:57.465 --> 00:35:58.425] RIKER: the shuttle Reyga modified.
+[00:35:59.945 --> 00:36:00.985] PICARD: Open a hailing frequency.
+[00:36:07.385 --> 00:36:08.745] PICARD: Doctor Crusher, what do you think you're doing?
+[00:36:10.025 --> 00:36:11.225] CRUSHER: Testing a theory, Captain.
+[00:36:18.105 --> 00:36:18.665] PICARD: A theory?
+[00:36:19.145 --> 00:36:21.145] CRUSHER: I think Doctor Reyga's shield does work.
+[00:36:23.065 --> 00:36:24.185] PICARD: Return to the ship immediately.
+[00:36:25.785 --> 00:36:26.345] CRUSHER: I'm sorry.
+[00:36:28.585 --> 00:36:30.265] PICARD: Mister Worf, override the shuttle's computer.
+[00:36:30.265 --> 00:36:31.225] PICARD: Return it to the shuttlebay.
+[00:36:31.225 --> 00:36:31.705] WORF: Aye, sir.
+[00:36:34.105 --> 00:36:36.745] WORF: Sir, she has isolated her navigational control.
+[00:36:36.985 --> 00:36:39.305] WORF: It will not be possible to establish remote operation.
+[00:36:39.705 --> 00:36:40.665] RIKER: Get a tractor beam on her.
+[00:36:41.785 --> 00:36:43.065] WORF: I cannot establish a lock.
+[00:36:43.065 --> 00:36:44.265] WORF: She is too close to the star.
+[00:36:44.665 --> 00:36:46.025] WORF: Solar interference is too high.
+[00:36:46.345 --> 00:36:47.305] PICARD: Mister Data, what is her heading?
+[00:36:48.025 --> 00:36:49.625] DATA: Bearing two seven one mark four, sir.
+[00:36:49.945 --> 00:36:51.465] DATA: She is headed into the sun's corona.
+[00:36:56.745 --> 00:36:59.065] CRUSHER: Computer, begin monitoring external temperature.
+[00:37:00.185 --> 00:37:04.105] COMPUTER: External temperature zero point eight million Kelvins and rising.
+[00:37:04.985 --> 00:37:06.265] PICARD: Beverly, what do you hope to accomplish?
+[00:37:07.145 --> 00:37:09.065] CRUSHER: I think Doctor Reyga was right about his shield.
+[00:37:09.625 --> 00:37:12.985] CRUSHER: The only reason it failed is because it was sabotaged, and I'm going to prove it.
+[00:37:13.465 --> 00:37:14.425] PICARD: But you can't be certain of that.
+[00:37:15.225 --> 00:37:16.985] PICARD: You're betting your life on a hypothesis.
+[00:37:17.625 --> 00:37:18.745] CRUSHER: I'm not wrong.
+[00:37:19.869 --> 00:37:22.989] COMPUTER: External temperature one point nine million Kelvins.
+[00:37:29.389 --> 00:37:31.549] DATA: Sir, the shuttle is entering the corona.
+[00:37:33.549 --> 00:37:34.509] PICARD: Beverly, what's happening?
+[00:37:36.029 --> 00:37:36.749] CRUSHER: I'm all right.
+[00:37:38.269 --> 00:37:39.709] CRUSHER: Computer, shield status?
+[00:37:40.589 --> 00:37:42.029] COMPUTER: Metaphasic shield holding.
+[00:37:42.589 --> 00:37:45.229] COMPUTER: All systems within normal operating parameters.
+[00:37:46.989 --> 00:37:48.509] CRUSHER: Congratulations, Doctor Reyga.
+[00:37:49.069 --> 00:37:49.709] CRUSHER: You did it.
+[00:37:50.989 --> 00:37:54.749] CRUSHER: Captain, I want you to post security guards around the three visiting scientists.
+[00:37:55.069 --> 00:37:58.029] CRUSHER: One of them has to be responsible for sabotaging the first test.
+[00:37:58.429 --> 00:37:58.829] CRUSHER: I think if we
+[00:38:02.669 --> 00:38:04.509] WORF: Sir, we have lost contact.
+[00:38:12.509 --> 00:38:14.829] CRUSHER: Crusher to Enterprise. I've lost you.
+[00:38:15.229 --> 00:38:15.789] CRUSHER: Come in.
+[00:38:16.509 --> 00:38:17.709] CRUSHER: Justman to Enterprise.
+[00:38:18.029 --> 00:38:18.349] CRUSHER: Come in.
+[00:38:20.509 --> 00:38:21.629] CRUSHER: Enterprise, do you hear me?
+[00:38:21.709 --> 00:38:22.029] CRUSHER: Come in.
+[00:38:22.669 --> 00:38:23.549] JO'BRIL: They cannot hear you.
+[00:38:24.909 --> 00:38:26.269] JO'BRIL: I have severed communications.
+[00:38:27.949 --> 00:38:28.749] CRUSHER: How can you be alive?
+[00:38:29.309 --> 00:38:32.829] JO'BRIL: I'd think after your autopsy on me, you'd know the answer to that.
+[00:38:33.709 --> 00:38:35.149] CRUSHER: The slow rate of cellular decay.
+[00:38:35.789 --> 00:38:38.189] JO'BRIL: It is a natural result of physiostasis.
+[00:38:39.229 --> 00:38:42.269] JO'BRIL: Takarans can control their physiology at a cellular level.
+[00:38:42.909 --> 00:38:44.749] JO'BRIL: We can create the appearance of death.
+[00:38:45.785 --> 00:38:47.865] CRUSHER: In the morgue, you were conscious the whole time.
+[00:38:48.585 --> 00:38:49.545] CRUSHER: You heard everything we said.
+[00:38:49.545 --> 00:38:50.745] CRUSHER: You knew everything we were going to do.
+[00:38:51.785 --> 00:38:52.345] JO'BRIL: Move away.
+[00:38:53.945 --> 00:38:54.985] JO'BRIL: Move away.
+[00:39:02.985 --> 00:39:03.625] CRUSHER: What are you doing?
+[00:39:04.345 --> 00:39:06.585] JO'BRIL: I'm sending out a transient subspace signal.
+[00:39:07.865 --> 00:39:13.865] JO'BRIL: It will obscure the shuttle from the Enterprise sensors and they will interpret it as a warp engine breach.
+[00:39:14.585 --> 00:39:16.425] JO'BRIL: They will believe that you have been destroyed.
+[00:39:17.865 --> 00:39:18.985] JO'BRIL: I'd like to thank you, Doctor.
+[00:39:19.625 --> 00:39:20.105] CRUSHER: For what?
+[00:39:20.745 --> 00:39:26.025] JO'BRIL: All I wanted to do was discredit Reyga so that no one would pursue his technology except me.
+[00:39:27.385 --> 00:39:30.505] JO'BRIL: But you have given me more than I could have hoped.
+[00:39:31.545 --> 00:39:37.465] JO'BRIL: Now I can take the prototype itself back to Takara, where I will develop it into a weapon.
+[00:39:38.825 --> 00:39:45.305] JO'BRIL: All I have to do is wait here until the Enterprise is convinced you are dead, and leaves.
+[00:40:29.956 --> 00:40:32.436] DATA: Captain, there is no indication of debris.
+[00:40:32.676 --> 00:40:35.716] DATA: However, the subspace signal indicates a warp engine breach.
+[00:40:37.156 --> 00:40:40.996] PICARD: All right, begin a phase one search, starting with the shuttlecraft's last known coordinates.
+[00:40:41.236 --> 00:40:42.676] PICARD: Plot a proximity course toward the star.
+[00:40:42.916 --> 00:40:45.876] WORF: Sir, we are picking up an object emerging from the corona.
+[00:40:51.876 --> 00:40:54.196] CRUSHER: Crusher to Enterprise. I'm all right.
+[00:40:54.996 --> 00:40:59.076] CRUSHER: Returning to the ship. And I finally have the answers I've been looking for.
+[00:41:02.436 --> 00:41:06.196] LOG: Chief Medical Officer's log, stardate 46831.2. I have
+[00:41:07.076 --> 00:41:10.036] LOG: been reinstated and I will be resuming my duties shortly.
+[00:41:10.756 --> 00:41:13.556] LOG: In the meantime, I have a personal matter to attend to.
+[00:41:15.396 --> 00:41:15.876] CRUSHER: Hi, Guinan.
+[00:41:16.436 --> 00:41:16.916] GUINAN: Hello.
+[00:41:17.396 --> 00:41:19.396] GUINAN: Ooo, somebody's birthday?
+[00:41:19.556 --> 00:41:20.596] CRUSHER: Not unless it's yours.
+[00:41:20.756 --> 00:41:21.236] CRUSHER: It's for you.
+[00:41:21.636 --> 00:41:22.756] GUINAN: For me? What's the occasion?
+[00:41:23.236 --> 00:41:25.636] CRUSHER: It's a thank you. For giving me a good kick in the butt.
+[00:41:26.596 --> 00:41:27.796] GUINAN: Oh, now, I didn't,
+[00:41:28.516 --> 00:41:28.708] GUINAN: er.
+[00:41:28.708 --> 00:41:29.476] CRUSHER: I did some research.
+[00:41:29.716 --> 00:41:31.876] CRUSHER: This is the latest design, state of the art.
+[00:41:32.276 --> 00:41:37.396] CRUSHER: It's specially designed to cushion all vibration so you will never have tennis elbow again.
+[00:41:40.756 --> 00:41:42.116] GUINAN: Thank you, Doctor.
+[00:41:42.116 --> 00:41:44.436] GUINAN: This looks like a great racquet, but, er,
+[00:41:45.773 --> 00:41:46.733] GUINAN: I don't play tennis.
+[00:41:47.293 --> 00:41:47.773] GUINAN: Never have.
+[00:41:53.000 --> 00:42:02.000] [music]
+[00:42:40.000 --> 00:42:49.000] [music]
+[00:42:59.000 --> 00:43:08.000] [music]

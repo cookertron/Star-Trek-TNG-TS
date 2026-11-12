@@ -1,0 +1,747 @@
+[00:00:02.160 --> 00:00:04.960] LOG: Captain's Log, Stardate 44286.5.
+[00:00:05.440 --> 00:00:09.600] LOG: The Enterprise is conducting a security survey of the Onias Sector near the Neutral Zone.
+[00:00:10.160 --> 00:00:14.560] LOG: Despite our proximity to Romulan territory, the mission has been quiet and uneventful.
+[00:00:24.160 --> 00:00:26.560] LAFORGE: All right, Commander. You've got till your next birthday to get that right.
+[00:00:26.960 --> 00:00:28.480] TROI: Some things improve with age.
+[00:00:28.480 --> 00:00:30.080] TROI: Maybe your trombone playing will be one of them.
+[00:00:30.800 --> 00:00:32.560] CRUSHER: It's candle time, birthday boy.
+[00:00:37.040 --> 00:00:38.000] TROI: So, what did you wish for, Will?
+[00:00:40.160 --> 00:00:40.880] RIKER: Music lessons.
+[00:00:40.960 --> 00:00:43.760] PICARD: Mister Data, we must
+[00:00:47.040 --> 00:00:48.880] PICARD: hurry or we'll miss Commander Riker's party.
+[00:00:49.840 --> 00:00:50.240] DATA: Sir.
+[00:00:50.800 --> 00:00:56.800] DATA: I find it interesting how much importance humans place on celebrating the day of their birth. A day they cannot possibly remember.
+[00:00:57.120 --> 00:00:57.440] CREWMAN: Captain,
+[00:00:58.400 --> 00:01:01.760] CREWMAN: I am detecting some unusual fluctuations in subspace frequencies.
+[00:01:01.760 --> 00:01:02.080] PICARD: You'd
+[00:01:03.920 --> 00:01:04.800] PICARD: better take a look at it, Mister
+[00:01:04.800 --> 00:01:05.120] PICARD: Data.
+[00:01:06.880 --> 00:01:08.480] DATA: It
+[00:01:10.240 --> 00:01:11.520] DATA: appears we are being probed, sir.
+[00:01:13.600 --> 00:01:14.000] PICARD: Source?
+[00:01:14.000 --> 00:01:17.200] DATA: The third planet of the Alpha Onias system.
+[00:01:17.680 --> 00:01:19.840] DATA: Our reports list it as presently uninhabited.
+[00:01:20.400 --> 00:01:21.840] DATA: Perhaps reports were incorrect, sir.
+[00:01:23.680 --> 00:01:27.360] PICARD: Maybe the rumours of a secret Romulan base in this sector are true.
+[00:01:30.000 --> 00:01:30.800] PICARD: Picard to Commander Riker.
+[00:01:31.586 --> 00:01:35.186] PICARD: I apologise for interrupting your celebration, but I'm going to need an away team.
+[00:01:35.666 --> 00:01:36.786] PICARD: Could you report to the Bridge, please?
+[00:01:37.106 --> 00:01:37.586] DATA: Although
+[00:01:48.786 --> 00:01:55.095] DATA: Alpha Onias three is a class M planet, our survey teams have listed it as barren and inhospitable.
+[00:01:55.095 --> 00:01:56.146] RIKER: Any life signs?
+[00:01:56.626 --> 00:01:56.946] DATA: No, sir,
+[00:01:57.746 --> 00:02:01.746] DATA: but we have traced residual energy readings to a cavern two kilometres beneath the surface.
+[00:02:02.066 --> 00:02:02.706] WORF: Romulans?
+[00:02:03.426 --> 00:02:04.146] DATA: It is possible.
+[00:02:04.866 --> 00:02:06.546] PICARD: I suppose you'll just have to go down there and find out.
+[00:02:07.586 --> 00:02:07.826] RIKER: Geordi,
+[00:02:07.986 --> 00:02:08.946] RIKER: Worf, you're with me.
+[00:02:09.666 --> 00:02:10.146] PICARD: Number One.
+[00:02:12.386 --> 00:02:12.946] PICARD: Happy birthday.
+[00:02:13.096 --> 00:02:13.696] LAFORGE: I'm
+[00:02:32.866 --> 00:02:38.786] LAFORGE: detecting high levels of volcanic gases. Sulphur dioxide, methane, hydrogen sulphide.
+[00:02:39.346 --> 00:02:39.666] RIKER: Toxic?
+[00:02:40.386 --> 00:02:43.026] LAFORGE: We're okay for now, but I wouldn't want to spend my vacation here.
+[00:02:46.146 --> 00:02:47.186] RIKER: What about energy readings?
+[00:02:47.586 --> 00:02:48.866] WORF: Magnetic clutter is increasing.
+[00:02:49.346 --> 00:02:50.786] WORF: I cannot make an accurate determination.
+[00:02:51.746 --> 00:02:52.546] LAFORGE: Same here, Commander.
+[00:02:53.186 --> 00:02:54.706] LAFORGE: I'm getting a lot of confusing readings here,
+[00:02:55.106 --> 00:02:56.546] PICARD: Commander Riker, please acknowledge.
+[00:02:57.826 --> 00:02:58.466] RIKER: Riker here.
+[00:02:59.201 --> 00:03:00.493] RIKER: We're having trouble reading you.
+[00:03:00.493 --> 00:03:02.561] PICARD: And we are having similar difficulties reading you.
+[00:03:03.521 --> 00:03:06.561] PICARD: I am advising you and your away team to transport up at once.
+[00:03:07.121 --> 00:03:08.161] LAFORGE: That's good advice, Commander.
+[00:03:08.161 --> 00:03:10.881] LAFORGE: We've got a sudden build up of gases here, especially methane.
+[00:03:11.041 --> 00:03:13.841] RIKER: Transporter Room. Take us up.
+[00:03:16.241 --> 00:03:17.921] HUBBLE: I can't get a solid lock on you, sir.
+[00:03:18.641 --> 00:03:19.841] HUBBLE: Too much interference.
+[00:03:20.161 --> 00:03:20.801] HUBBLE: I'm trying again.
+[00:03:24.081 --> 00:03:25.201] PICARD: Transporter room, what's happening?
+[00:03:25.441 --> 00:03:25.761] PICARD: Report.
+[00:03:26.321 --> 00:03:27.361] HUBBLE: I'm trying again, sir.
+[00:03:28.000 --> 00:03:31.000] [throat clearing]
+[00:03:44.081 --> 00:03:45.441] OGAWA: Doctor Crusher, he's awake.
+[00:03:49.000 --> 00:03:51.000] [throat clearing]
+[00:03:49.361 --> 00:03:49.937] RIKER: Beverly?
+[00:03:49.937 --> 00:03:52.241] CRUSHER: Will. You remember me.
+[00:03:52.641 --> 00:03:53.281] CRUSHER: That's good.
+[00:03:54.721 --> 00:03:56.081] CRUSHER: What else do you remember, Captain?
+[00:04:00.001 --> 00:04:00.001] RIKER: Captain?
+[00:04:33.121 --> 00:04:33.601] PICARD: Space.
+[00:04:34.433 --> 00:04:35.713] PICARD: The final frontier.
+[00:04:37.553 --> 00:04:40.433] PICARD: These are the voyages of the starship Enterprise.
+[00:04:41.553 --> 00:04:49.553] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations, to
+[00:04:51.393 --> 00:04:54.113] PICARD: boldly go where no one has gone before.
+[00:04:55.553 --> 00:04:57.553] CRUSHER: Water,
+[00:05:54.273 --> 00:05:55.153] CRUSHER: three Celsius.
+[00:05:58.913 --> 00:05:59.073] CRUSHER: How
+[00:06:06.033 --> 00:06:06.593] CRUSHER: do you feel?
+[00:06:07.816 --> 00:06:08.536] RIKER: Confused.
+[00:06:09.816 --> 00:06:11.896] CRUSHER: That's understandable, considering what's happened.
+[00:06:13.736 --> 00:06:16.536] RIKER: What has happened?
+[00:06:16.856 --> 00:06:17.496] RIKER: What happened to Sickbay?
+[00:06:18.216 --> 00:06:18.456] RIKER: To you?
+[00:06:19.656 --> 00:06:20.056] RIKER: To me?
+[00:06:20.856 --> 00:06:23.496] CRUSHER: Sit down, Captain.
+[00:06:23.496 --> 00:06:25.416] RIKER: Captain? I am Commander William T
+[00:06:25.416 --> 00:06:25.816] RIKER: Riker.
+[00:06:25.816 --> 00:06:26.936] RIKER: What is going on here?
+[00:06:27.576 --> 00:06:29.416] CRUSHER: Sit. Please.
+[00:06:34.856 --> 00:06:37.576] CRUSHER: What is the last thing that you remember clearly?
+[00:06:39.976 --> 00:06:41.016] RIKER: Alpha Onias three.
+[00:06:41.896 --> 00:06:43.096] RIKER: The Enterprise had been probed.
+[00:06:43.976 --> 00:06:47.256] RIKER: Geordi, Worf, and I transported down to track the source.
+[00:06:47.576 --> 00:06:49.576] CRUSHER: But all you found there was toxic gas.
+[00:06:50.296 --> 00:06:52.136] CRUSHER: They barely had time to get the three of you out.
+[00:06:54.376 --> 00:06:57.496] CRUSHER: Will, that happened sixteen years ago.
+[00:07:03.176 --> 00:07:04.376] RIKER: That's not possible.
+[00:07:05.416 --> 00:07:07.816] CRUSHER: With an Altarian virus, anything is possible.
+[00:07:08.456 --> 00:07:10.136] CRUSHER: In fact, we've been expecting this.
+[00:07:13.576 --> 00:07:14.696] RIKER: Could you be more specific?
+[00:07:16.296 --> 00:07:26.616] CRUSHER: That day on Onias three, you were infected with a strain of Altarian encephalitis, a retrovirus that incorporates its DNA directly into the cells of its host.
+[00:07:26.936 --> 00:07:32.536] CRUSHER: It can lie dormant for many years and then suddenly become active again, as it did in your case ten days ago.
+[00:07:34.616 --> 00:07:37.016] CRUSHER: You have been in a coma, delirious.
+[00:07:37.656 --> 00:07:39.496] CRUSHER: Your fever finally broke this morning.
+[00:07:41.056 --> 00:07:42.336] RIKER: But what happened to my memory?
+[00:07:44.256 --> 00:07:47.376] CRUSHER: Let me show you a scan of your brain tissue.
+[00:07:52.576 --> 00:08:00.016] CRUSHER: When the encephalitis became active it caused widespread synapse degradation, interrupting the consolidation of your memory patterns.
+[00:08:00.016 --> 00:08:00.496] RIKER: Doctor.
+[00:08:05.856 --> 00:08:06.176] CRUSHER: Will,
+[00:08:07.776 --> 00:08:13.136] CRUSHER: this virus inevitably causes memory loss back to the moment of the original infection.
+[00:08:13.376 --> 00:08:16.256] CRUSHER: In your case, all the way back to Alpha Onias three.
+[00:08:17.216 --> 00:08:18.016] RIKER: I don't believe this.
+[00:08:18.016 --> 00:08:18.896] RIKER: Is this a dream?
+[00:08:19.216 --> 00:08:20.096] CRUSHER: Feel my hand.
+[00:08:20.576 --> 00:08:21.936] CRUSHER: It is flesh and bone.
+[00:08:22.816 --> 00:08:26.656] CRUSHER: This is not a dream and you are, in fact, Captain William T.
+[00:08:26.656 --> 00:08:28.896] CRUSHER: Riker in command of the Enterprise.
+[00:08:29.376 --> 00:08:30.096] RIKER: The Enterprise.
+[00:08:31.296 --> 00:08:32.016] RIKER: For how long?
+[00:08:32.816 --> 00:08:33.776] CRUSHER: Nine years.
+[00:08:37.216 --> 00:08:40.656] RIKER: If I have lost my memory, how do I get it back?
+[00:08:41.776 --> 00:08:43.776] CRUSHER: Memories are formed by association.
+[00:08:44.736 --> 00:08:48.496] CRUSHER: Smells, sounds, and images from the present could possibly trigger them.
+[00:08:50.496 --> 00:08:52.336] RIKER: Like a song reminds you of an old friend.
+[00:08:52.736 --> 00:08:53.376] CRUSHER: Exactly.
+[00:08:54.016 --> 00:08:57.696] CRUSHER: In associational therapy, we expose the patient to familiar surroundings.
+[00:08:58.016 --> 00:09:01.456] CRUSHER: This could stimulate the brain's neural synapses into regenerating.
+[00:09:01.696 --> 00:09:02.576] RIKER: Then let's get started.
+[00:09:02.576 --> 00:09:04.416] RIKER: There's nothing more familiar than the Enterprise.
+[00:09:05.056 --> 00:09:06.389] RIKER: Maybe that'll bring back some
+[00:09:06.389 --> 00:09:06.656] CRUSHER: Will,
+[00:09:08.610 --> 00:09:10.690] CRUSHER: I said your memory could return.
+[00:09:11.730 --> 00:09:13.810] CRUSHER: In many of these cases the damage is permanent.
+[00:09:22.850 --> 00:09:23.890] RIKER: What about Geordi and Worf?
+[00:09:24.450 --> 00:09:25.330] RIKER: Were they infected too?
+[00:09:25.490 --> 00:09:26.370] CRUSHER: Thankfully, no.
+[00:09:26.770 --> 00:09:30.610] CRUSHER: Geordi appears to have been immune and the Klingons don't seem to be affected by the virus.
+[00:09:30.610 --> 00:09:31.542] RIKER: Speaking of Klingons
+[00:09:31.542 --> 00:09:35.890] CRUSHER: There've been quite a few changes on the Enterprise in the last sixteen years.
+[00:09:37.970 --> 00:09:38.530] CRUSHER: Deck eight.
+[00:09:38.770 --> 00:09:39.730] RIKER: Belay that order.
+[00:09:40.610 --> 00:09:43.170] CRUSHER: We should begin the associational therapy in your quarters.
+[00:09:43.650 --> 00:09:45.650] CRUSHER: Personal recollections are always the most vivid.
+[00:09:46.050 --> 00:09:48.690] RIKER: My life was on the main Bridge. Always has been.
+[00:09:49.650 --> 00:09:52.610] RIKER: If anything's going to jog my memory. Main Bridge.
+[00:09:53.890 --> 00:09:54.770] COMPUTER: Repeat command.
+[00:09:55.970 --> 00:09:57.250] RIKER: I said main Bridge.
+[00:09:58.770 --> 00:09:59.970] CRUSHER: Computer's been slow all morning.
+[00:09:59.970 --> 00:10:01.810] CRUSHER: A processing accelerator's down.
+[00:10:01.890 --> 00:10:05.410] CRUSHER: Commander La Forge has running a level one diagnostic to isolate the problem.
+[00:10:10.210 --> 00:10:12.210] RIKER: Geordi.
+[00:10:14.210 --> 00:10:15.730] LAFORGE: Oh, it's good to see you up and about again, sir.
+[00:10:18.210 --> 00:10:18.610] RIKER: Your eyes.
+[00:10:18.610 --> 00:10:19.410] RIKER: What happened to your visor?
+[00:10:20.450 --> 00:10:21.010] LAFORGE: My visor?
+[00:10:23.250 --> 00:10:23.890] LAFORGE: I'm sorry, sir.
+[00:10:24.290 --> 00:10:25.810] LAFORGE: Doctor Crusher told us that you might not remember.
+[00:10:26.530 --> 00:10:28.770] LAFORGE: I haven't need a visor since I got these cloned implants, Captain.
+[00:10:41.170 --> 00:10:41.490] WORF: Captain.
+[00:10:45.178 --> 00:10:45.978] DATA: Welcome back, Captain.
+[00:10:46.538 --> 00:10:48.378] DATA: We were not expecting to see you on the Bridge so soon.
+[00:10:49.098 --> 00:10:51.418] RIKER: Commander Data. You're my First Officer?
+[00:10:52.218 --> 00:10:52.858] DATA: Do you remember, sir?
+[00:10:54.858 --> 00:10:57.338] RIKER: Data, I haven't remembered a day for the last sixteen years.
+[00:10:57.658 --> 00:10:59.578] WORF: Captain, warbird uncloaking.
+[00:10:59.978 --> 00:11:00.458] DATA: On screen.
+[00:11:05.578 --> 00:11:06.458] RIKER: Shields up. Red alert.
+[00:11:06.608 --> 00:11:07.208] DATA: Captain,
+[00:11:09.738 --> 00:11:11.018] DATA: we were expecting the Decius.
+[00:11:11.738 --> 00:11:12.698] DATA: There is no cause for alarm.
+[00:11:16.618 --> 00:11:17.338] RIKER: Cancel red alert.
+[00:11:19.738 --> 00:11:20.938] RIKER: Clearly I need to be briefed.
+[00:11:22.138 --> 00:11:24.298] WORF: Captain, the Decius is hailing us.
+[00:11:24.938 --> 00:11:26.298] WORF: The Admiral wishes to speak to you.
+[00:11:29.818 --> 00:11:30.298] RIKER: On screen.
+[00:11:32.778 --> 00:11:33.018] PICARD: Will.
+[00:11:37.018 --> 00:11:37.978] RIKER: Admiral Picard.
+[00:11:38.858 --> 00:11:39.178] RIKER: Deanna.
+[00:11:39.178 --> 00:11:40.458] TROI: How are you feeling?
+[00:11:41.578 --> 00:11:42.138] RIKER: I've felt better.
+[00:11:42.938 --> 00:11:43.498] PICARD: Not surprising.
+[00:11:43.738 --> 00:11:45.418] PICARD: Altarian viruses can be a nasty business.
+[00:11:46.218 --> 00:11:47.098] RIKER: That's an understatement.
+[00:11:47.098 --> 00:11:48.058] RIKER: I can't even
+[00:11:48.058 --> 00:11:48.458] PICARD: We'll discuss this
+[00:11:48.458 --> 00:11:49.658] PICARD: after we've transport over.
+[00:11:50.058 --> 00:11:50.538] PICARD: Picard out.
+[00:11:54.458 --> 00:11:54.938] RIKER: Transporter
+[00:12:02.298 --> 00:12:03.098] RIKER: room six.
+[00:12:05.178 --> 00:12:05.898] CRUSHER: How are you holding up?
+[00:12:07.178 --> 00:12:12.778] RIKER: I could get used to the idea of a Ferengi ensign, but Admiral Picard on a Romulan warbird?
+[00:12:13.617 --> 00:12:14.497] RIKER: What is that all about?
+[00:12:16.497 --> 00:12:19.377] CRUSHER: I think I should leave all the explanations to the Admiral.
+[00:12:22.737 --> 00:12:23.537] RIKER: Whenever you're ready, Chief.
+[00:12:32.657 --> 00:12:35.457] PICARD: Captain Riker. it's good to see you have recovered.
+[00:12:36.817 --> 00:12:38.737] RIKER: I'm not exactly sure you can call it a recovery, sir.
+[00:12:39.537 --> 00:12:41.297] TROI: Then there has been some memory loss.
+[00:12:43.857 --> 00:12:44.257] PICARD: How much?
+[00:12:45.297 --> 00:12:47.217] CRUSHER: Everything since Alpha Onias three.
+[00:12:48.257 --> 00:12:50.417] PICARD: To lose sixteen years. It's
+[00:12:52.657 --> 00:12:54.017] PICARD: almost beyond belief.
+[00:12:55.697 --> 00:12:57.297] RIKER: I have trouble believing it myself.
+[00:12:58.177 --> 00:13:00.577] TROI: It's overwhelming to have so much of your life missing.
+[00:13:00.897 --> 00:13:02.497] PICARD: And it couldn't have happened at a worse time.
+[00:13:02.977 --> 00:13:06.017] PICARD: A few more days of relatively simple negotiations, and the treaty will be signed.
+[00:13:06.817 --> 00:13:07.777] RIKER: What negotiations?
+[00:13:07.777 --> 00:13:08.337] RIKER: What treaty?
+[00:13:09.137 --> 00:13:11.617] PICARD: Sorry. I'll start at the beginning,
+[00:13:13.377 --> 00:13:15.217] PICARD: which is four years ago.
+[00:13:15.217 --> 00:13:17.937] PICARD: A Romulan battle cruiser strayed into Federation space.
+[00:13:18.577 --> 00:13:20.257] PICARD: Its warp coils had collapsed,
+[00:13:20.497 --> 00:13:21.697] PICARD: life support was failing.
+[00:13:21.857 --> 00:13:22.897] TROI: You saved them, Will,
+[00:13:23.457 --> 00:13:24.497] TROI: you and the Enterprise.
+[00:13:24.977 --> 00:13:29.057] PICARD: The Romulans were impressed, to say the least.
+[00:13:29.857 --> 00:13:34.417] PICARD: After years of distrust and conflict, they started to talk.
+[00:13:35.297 --> 00:13:39.297] PICARD: You were our key spokesman in securing the alliance with the Romulans.
+[00:13:39.857 --> 00:13:41.857] RIKER: How far have these negotiations progressed?
+[00:13:42.417 --> 00:13:43.377] PICARD: The preliminaries are over.
+[00:13:43.617 --> 00:13:46.577] PICARD: All we need do now is escort the Romulan Ambassador to the final session.
+[00:13:46.945 --> 00:13:50.945] TROI: Where you will complete the negotiations and sign the treaty.
+[00:13:50.945 --> 00:13:51.345] RIKER: Captain.
+[00:13:53.745 --> 00:13:54.225] RIKER: Admiral.
+[00:13:55.985 --> 00:13:59.505] RIKER: I am in no condition to negotiate with the Romulans or with anyone else.
+[00:14:00.465 --> 00:14:03.025] PICARD: Will, you're sound of mind and body.
+[00:14:03.105 --> 00:14:06.145] PICARD: If you are properly briefed, you will still be able to fulfill your duty.
+[00:14:06.385 --> 00:14:08.465] RIKER: With a sixteen year gap in my head?
+[00:14:10.145 --> 00:14:11.025] PICARD: We do need you.
+[00:14:15.745 --> 00:14:15.985] RIKER: Sir,
+[00:14:18.625 --> 00:14:20.225] RIKER: I'm not fit to resume command.
+[00:14:21.105 --> 00:14:28.305] PICARD: I appreciate your candour, but despite your condition there is no one better equipped to deal with these Romulans than you.
+[00:14:35.985 --> 00:14:36.625] RIKER: When do we leave?
+[00:14:37.345 --> 00:14:39.825] PICARD: As soon as the Ambassador transports over from the Decius.
+[00:14:41.345 --> 00:14:44.465] PICARD: We will get through this, as we have many times before.
+[00:14:46.305 --> 00:14:46.785] RIKER: I
+[00:14:50.145 --> 00:14:50.705] RIKER: hope so.
+[00:14:53.025 --> 00:14:54.385] TROI: Let me take you to your quarters.
+[00:14:55.665 --> 00:14:56.145] RIKER: Good idea.
+[00:14:56.945 --> 00:14:58.305] RIKER: I've had enough surprises for one day.
+[00:15:08.305 --> 00:15:09.185] TROI: Anything familiar?
+[00:15:24.928 --> 00:15:28.848] JEAN-LUC: Hi, Dad.
+[00:15:28.848 --> 00:15:36.208] JEAN-LUC: and then Mister Greenburg asked about the Fornax Disaster, and I knew the Enterprise saved all the colonists. But I didn't know.
+[00:15:38.528 --> 00:15:39.008] JEAN-LUC: Here it is.
+[00:15:43.008 --> 00:15:46.048] JEAN-LUC: But I didn't know the exact stardate their sun went nova,
+[00:15:46.688 --> 00:15:50.528] JEAN-LUC: so of you tell me, I'll write it down and that way I won't forget.
+[00:15:56.448 --> 00:15:58.528] JEAN-LUC: You don't remember me, do you?
+[00:16:01.488 --> 00:16:01.888] RIKER: I'm sorry.
+[00:16:03.808 --> 00:16:05.728] TROI: I need to talk to your father, Jean-Luc.
+[00:16:06.208 --> 00:16:07.968] TROI: Would you mind leaving us alone for a moment?
+[00:16:20.208 --> 00:16:23.008] RIKER: Why didn't you warn me?
+[00:16:25.248 --> 00:16:29.728] TROI: Beverly hoped that meeting him like this might make an impact. Help you remember.
+[00:16:30.368 --> 00:16:31.648] RIKER: Well, it made an impact alright.
+[00:16:33.648 --> 00:16:34.288] TROI: Give it time.
+[00:16:38.848 --> 00:16:39.328] RIKER: Jean-Luc.
+[00:16:42.208 --> 00:16:42.368] TROI: Yes.
+[00:16:43.587 --> 00:16:46.307] TROI: The Admiral was very pleased when you chose that name.
+[00:16:53.187 --> 00:16:54.627] TROI: He is a wonderful boy.
+[00:16:57.987 --> 00:16:58.387] RIKER: Deanna,
+[00:17:01.267 --> 00:17:01.827] RIKER: who's his mother?
+[00:17:06.867 --> 00:17:08.307] TROI: She died two years ago.
+[00:17:08.457 --> 00:17:09.057] TROI: A
+[00:17:10.227 --> 00:17:11.187] TROI: shuttle accident.
+[00:17:13.747 --> 00:17:14.547] TROI: I'm sorry, Will.
+[00:17:19.907 --> 00:17:23.507] RIKER: I have no recollection of her at all.
+[00:17:26.627 --> 00:17:27.187] RIKER: What was she like?
+[00:17:30.307 --> 00:17:38.707] TROI: Min was beautiful, of course, strong, intelligent, patient.
+[00:17:39.587 --> 00:17:41.027] RIKER: Well, if she was married to me,
+[00:17:41.907 --> 00:17:42.787] RIKER: she had to be patient.
+[00:17:43.667 --> 00:17:48.707] RIKER: TROI: She was an excellent Captain's wife, and a very good ship's counsellor.
+[00:17:51.347 --> 00:17:52.787] RIKER: She took over after I left.
+[00:17:53.347 --> 00:17:55.107] RIKER: I can't imagine you leaving the Enterprise.
+[00:17:57.587 --> 00:18:01.667] TROI: Admiral Picard offered me a position at Starfleet Command.
+[00:18:04.227 --> 00:18:05.747] TROI: It was a tremendous opportunity.
+[00:18:07.587 --> 00:18:08.707] TROI: I couldn't refuse.
+[00:18:10.627 --> 00:18:16.787] TROI: But, what's important right now, today, is that you have a son
+[00:18:16.895 --> 00:18:17.615] TROI: who needs you.
+[00:18:20.095 --> 00:18:21.055] TROI: Spend time with him.
+[00:18:24.575 --> 00:18:26.655] TROI: You may find part of what you've lost.
+[00:18:45.935 --> 00:18:46.495] JEAN-LUC: Pretty bad, huh?
+[00:18:47.455 --> 00:18:47.935] RIKER: I've heard better.
+[00:18:50.815 --> 00:18:53.375] JEAN-LUC: I've been practicing but I still can't get a good tone.
+[00:18:53.535 --> 00:18:55.135] RIKER: You're putting too much pressure on the mouthpiece.
+[00:18:55.135 --> 00:18:56.015] RIKER: Relax the embouchure.
+[00:18:56.415 --> 00:18:57.455] RIKER: Don't use any muscles you don't need.
+[00:18:58.495 --> 00:18:58.975] JEAN LUC: Show me again.
+[00:19:01.535 --> 00:19:03.055] RIKER: Left hand. Right hand.
+[00:19:18.175 --> 00:19:19.055] RIKER: Sixteen years,
+[00:19:19.055 --> 00:19:20.335] RIKER: you'd think I'd be able to hit that note.
+[00:19:20.975 --> 00:19:21.535] JEAN LUC: Come on, Dad,
+[00:19:21.695 --> 00:19:22.815] JEAN LUC: you always make that mistake.
+[00:19:29.215 --> 00:19:32.015] RIKER: Computer. Summarise service record. Riker, William T,
+[00:19:32.095 --> 00:19:32.415] RIKER: Captain.
+[00:19:33.615 --> 00:19:35.055] RIKER: Begin with the Fornax disaster.
+[00:19:36.415 --> 00:19:37.535] COMPUTER: Please restate question.
+[00:19:37.695 --> 00:19:40.095] RIKER: Service record, Riker, William T.
+[00:19:42.175 --> 00:19:43.375] RIKER: Damn it.
+[00:19:45.615 --> 00:19:45.855] JEAN-LUC: Dad?
+[00:19:46.605 --> 00:19:47.404] RIKER: Computer lag.
+[00:19:47.724 --> 00:19:49.964] RIKER: I can't believe Geordi's still running his diagnostic.
+[00:19:55.484 --> 00:19:56.684] JEAN-LUC: Is that what you wanted?
+[00:19:57.084 --> 00:20:01.644] PICARD: Picard to Captain Riker. The Romulan Ambassador is ready to transport over from the Decius.
+[00:20:02.284 --> 00:20:02.845] RIKER: On my way.
+[00:20:03.484 --> 00:20:03.804] RIKER: I'd better go.
+[00:20:04.524 --> 00:20:04.684] JEAN-LUC: Sure.
+[00:20:06.284 --> 00:20:06.524] JEAN-LUC: Dad.
+[00:20:08.125 --> 00:20:09.164] JEAN-LUC: Everything's going to be fine.
+[00:20:14.444 --> 00:20:14.764] PICARD: Troi
+[00:20:16.365 --> 00:20:17.644] PICARD: tells me you met Jean-Luc.
+[00:20:18.284 --> 00:20:19.724] PICARD: How's my namesake holding up to all this?
+[00:20:20.524 --> 00:20:21.084] RIKER: Better than I am.
+[00:20:22.044 --> 00:20:23.404] TROI: We did our best to prepare him.
+[00:20:24.444 --> 00:20:25.724] RIKER: I'm trying to catch up with all this.
+[00:20:25.724 --> 00:20:27.004] RIKER: I've still got a long way to go.
+[00:20:27.324 --> 00:20:27.964] RIKER: A long way.
+[00:20:28.284 --> 00:20:29.724] PICARD: Just follow my lead with the Ambassador.
+[00:20:29.964 --> 00:20:30.684] PICARD: You'll be fine.
+[00:20:31.644 --> 00:20:34.204] CHIEF: The Decius reports the Ambassador is waiting to transport.
+[00:20:35.164 --> 00:20:36.125] RIKER: Beam him aboard.
+[00:20:44.444 --> 00:20:47.964] TOMALAK: Admiral Picard, Captain Riker. It's good to see you again.
+[00:20:48.444 --> 00:20:49.244] PICARD: Ambassador Tomalak.
+[00:20:50.284 --> 00:20:51.324] PICARD: Welcome aboard the Enterprise.
+[00:20:51.724 --> 00:20:52.845] TOMALAK: Thank you, Admiral.
+[00:20:52.845 --> 00:20:57.084] TOMALAK: It is an honour to be the first Romulan to freely walk about a Federation Starship.
+[00:21:03.244 --> 00:21:04.125] RIKER: Ambassador Tomalak?
+[00:21:05.084 --> 00:21:08.845] RIKER: At Nelvana three, he threatened to take the hull of the Enterprise home as a war trophy.
+[00:21:10.524 --> 00:21:11.804] TROI: That was a long time ago.
+[00:21:12.365 --> 00:21:13.804] TROI: Many things have changed,
+[00:21:14.269 --> 00:21:15.149] TROI: including Tomalak.
+[00:21:19.069 --> 00:21:23.069] TOMALAK: As soon as we arrive at your Outpost twenty three, the final negotiations should go quickly.
+[00:21:23.549 --> 00:21:24.349] PICARD: I agree, Ambassador.
+[00:21:24.589 --> 00:21:26.742] PICARD: All of the difficult issues have been resolved.
+[00:21:26.742 --> 00:21:27.549] TOMALAK: After much debate.
+[00:21:28.029 --> 00:21:31.789] TOMALAK: Your Captain Riker is the kind of negotiator even the Ferengi should avoid.
+[00:21:32.669 --> 00:21:33.869] PICARD: But we have come to an agreement
+[00:21:33.869 --> 00:21:34.749] PICARD: both sides are happy with,
+[00:21:35.389 --> 00:21:36.709] PICARD: largely thanks to Captain Riker.
+[00:21:36.709 --> 00:21:38.029] TOMALAK: And we are grateful, Captain.
+[00:21:38.989 --> 00:21:41.208] TOMALAK: The new alliance will greatly benefit my people.
+[00:21:41.208 --> 00:21:43.149] RIKER: As I hope it will benefit mine.
+[00:21:43.229 --> 00:21:44.189] TOMALAK: It will, Captain.
+[00:21:44.189 --> 00:21:44.269] TOMALAK: It
+[00:21:46.029 --> 00:21:48.029] TOMALAK: will.
+[00:21:52.109 --> 00:21:52.749] RIKER: Main Bridge.
+[00:21:54.029 --> 00:21:55.789] TOMALAK: The virus you contracted, Captain.
+[00:21:55.949 --> 00:21:56.909] TOMALAK: Have you fully recovered?
+[00:21:57.389 --> 00:21:59.549] PICARD: I assure you Captain Riker is quite well.
+[00:22:00.029 --> 00:22:02.029] PICARD: He's looking forward to attending the final negotiations
+[00:22:02.029 --> 00:22:02.429] PICARD: as planned.
+[00:22:03.149 --> 00:22:03.629] TOMALAK: Excellent.
+[00:22:03.789 --> 00:22:07.149] TOMALAK: The signing of this treaty is an historic occasion.
+[00:22:08.829 --> 00:22:10.429] TOMALAK: You, of all people, deserve to be there.
+[00:22:11.549 --> 00:22:13.389] RIKER: Thank you, Ambassador.
+[00:22:19.629 --> 00:22:22.029] TOMALAK: So this is the Bridge of the Enterprise.
+[00:22:24.429 --> 00:22:26.509] TOMALAK: And this, I assume, is your Tactical position.
+[00:22:27.549 --> 00:22:28.029] TOMALAK: Impressive.
+[00:22:28.429 --> 00:22:30.669] RIKER: Excuse me. Admiral,
+[00:22:31.149 --> 00:22:32.269] RIKER: Deanna, I need a moment with you.
+[00:22:32.749 --> 00:22:35.949] RIKER: Commander Data, if you would accompany the Ambassador on his tour.
+[00:22:36.669 --> 00:22:37.069] DATA: Certainly, sir.
+[00:22:38.109 --> 00:22:39.069] RIKER: Excuse us, Ambassador.
+[00:22:42.349 --> 00:22:44.349] DATA: Ambassador, you may find this of interest.
+[00:22:45.229 --> 00:22:47.229] DATA: These newly refined sensors are capable of
+[00:22:47.318 --> 00:22:50.518] DATA: pinpointing the power emissions of a cloaked warbird even at warp.
+[00:22:50.758 --> 00:22:52.278] RIKER: Are you saying you trust Tomalak?
+[00:22:52.428 --> 00:22:53.028] PICARD: I
+[00:22:53.878 --> 00:22:57.398] PICARD: trust the process we have built with the Romulans over the past four years.
+[00:22:58.278 --> 00:22:59.638] PICARD: They have nothing to gain by betrayal.
+[00:23:00.438 --> 00:23:00.918] RIKER: Are you sure?
+[00:23:00.918 --> 00:23:05.478] RIKER: You've always said it's a chess game with the Romulans. Move, counter move, guile and deceit.
+[00:23:06.438 --> 00:23:08.758] TROI: I sense no such dishonesty in Tomalak.
+[00:23:09.638 --> 00:23:11.638] TROI: His desire for peace is sincere.
+[00:23:11.638 --> 00:23:13.158] TROI: He wants this alliance.
+[00:23:14.038 --> 00:23:15.318] TROI: There is no cause for concern.
+[00:23:16.518 --> 00:23:17.878] RIKER: No cause for concern?
+[00:23:17.878 --> 00:23:20.598] RIKER: We're talking about revealing the location of Outpost twenty three,
+[00:23:21.558 --> 00:23:23.718] RIKER: the key to all of our defences in the Neutral Zone.
+[00:23:25.318 --> 00:23:26.038] PICARD: I'm sorry, Will,
+[00:23:26.118 --> 00:23:27.558] PICARD: your information is out of date.
+[00:23:27.798 --> 00:23:30.918] PICARD: The strategic importance of Outpost twenty three is minimal.
+[00:23:31.238 --> 00:23:32.278] PICARD: Has been for years.
+[00:23:34.358 --> 00:23:36.518] CRUSHER: Doctor Crusher to Riker. Are you there, Captain?
+[00:23:36.998 --> 00:23:37.318] RIKER: What is it, Doctor?
+[00:23:38.038 --> 00:23:39.238] CRUSHER: Your son has been injured.
+[00:23:39.478 --> 00:23:40.438] CRUSHER: He's been taken to Sickbay.
+[00:23:40.678 --> 00:23:41.718] CRUSHER: You'd better come down here right
+[00:23:44.998 --> 00:23:46.998] CRUSHER: away.
+[00:23:49.718 --> 00:23:49.718] JEAN-LUC: Dad.
+[00:23:49.798 --> 00:23:51.478] RIKER: Are you alright?
+[00:23:52.358 --> 00:23:52.918] JEAN-LUC: I'm fine.
+[00:23:53.398 --> 00:23:53.878] RIKER: What happened?
+[00:23:54.918 --> 00:23:57.878] CRUSHER: It's broken, but it's going to be all right in just a minute.
+[00:23:59.318 --> 00:24:01.878] CRUSHER: Now, let's go easy on this arm for a little while, okay?
+[00:24:03.478 --> 00:24:03.958] RIKER: How'd this happen?
+[00:24:05.318 --> 00:24:08.278] JEAN-LUC: I was in the gym playing parrises squares.
+[00:24:08.278 --> 00:24:09.558] RIKER: Parrises squares?
+[00:24:11.078 --> 00:24:11.878] JEAN-LUC: I fell off the ramp.
+[00:24:12.118 --> 00:24:13.958] RIKER: At your age? You could break your neck!
+[00:24:14.838 --> 00:24:15.398] JEAN-LUC: I'm sorry.
+[00:24:16.256 --> 00:24:16.896] JEAN-LUC: I didn't mean to.
+[00:24:18.016 --> 00:24:20.656] CRUSHER: Continue the compression attenuator for two more minutes.
+[00:24:20.656 --> 00:24:21.136] OGAWA: Yes, Doctor.
+[00:24:21.936 --> 00:24:22.976] CRUSHER: Can I talk to you for a moment?
+[00:24:25.296 --> 00:24:25.936] RIKER: I'll be right back.
+[00:24:28.096 --> 00:24:32.416] CRUSHER: Will, how old were you when you first started playing parrises squares?
+[00:24:32.736 --> 00:24:34.736] RIKER: Alright, I was probably a little younger than he is.
+[00:24:35.776 --> 00:24:41.856] RIKER: It's just that, for all practical purposes, this is my first day as a father and he almost kills himself.
+[00:24:41.936 --> 00:24:43.776] CRUSHER: He didn't almost kill himself.
+[00:24:44.176 --> 00:24:48.096] CRUSHER: He just broke a wrist, just like a lot of other boys his age when they fall.
+[00:24:49.696 --> 00:24:49.936] RIKER: You're right.
+[00:24:51.536 --> 00:24:52.416] RIKER: It's difficult.
+[00:24:53.216 --> 00:24:54.016] CRUSHER: Difficult for you?
+[00:24:54.336 --> 00:24:55.296] CRUSHER: What about for Jean-Luc?
+[00:24:55.296 --> 00:24:56.736] CRUSHER: Can you imagine how he feels?
+[00:24:59.376 --> 00:25:00.896] CRUSHER: You've lost sixteen years.
+[00:25:01.536 --> 00:25:03.216] CRUSHER: Jean-Luc has lost a lot more than that.
+[00:25:04.096 --> 00:25:06.736] CRUSHER: First his mother and now his father.
+[00:25:13.776 --> 00:25:14.576] OGAWA: Good as new, Captain.
+[00:25:14.736 --> 00:25:15.456] OGAWA: You can take him home.
+[00:25:15.696 --> 00:25:16.016] RIKER: Thanks.
+[00:25:17.936 --> 00:25:18.416] RIKER: How's the arm?
+[00:25:19.136 --> 00:25:20.976] JEAN LUC: It's fine. Dad,
+[00:25:22.176 --> 00:25:22.976] JEAN LUC: I'm really sorry.
+[00:25:23.136 --> 00:25:25.136] JEAN LUC: I mean, I know you've got more important things to do.
+[00:25:25.136 --> 00:25:27.216] RIKER: There is nothing more important than this, son.
+[00:25:31.456 --> 00:25:31.856] JEAN-LUC: Deck
+[00:25:35.216 --> 00:25:35.696] JEAN-LUC: eight.
+[00:25:37.056 --> 00:25:37.376] RIKER: Halt.
+[00:25:37.696 --> 00:25:37.936] RIKER: I
+[00:25:40.336 --> 00:25:41.376] RIKER: know how hard this is for you.
+[00:25:42.576 --> 00:25:43.136] JEAN-LUC: It's okay, Dad.
+[00:25:43.296 --> 00:25:44.656] RIKER: No, okay's not good enough.
+[00:25:45.616 --> 00:25:52.336] RIKER: When I was your age, my own father he wasn't there for me. And I really needed him.
+[00:25:52.336 --> 00:25:54.176] RIKER: I've often wondered what kind of father I'd be.
+[00:25:54.326 --> 00:25:54.926] RIKER: I
+[00:25:56.416 --> 00:25:57.536] RIKER: never felt quite ready.
+[00:25:59.456 --> 00:26:01.056] RIKER: The idea even scared me a little.
+[00:26:01.776 --> 00:26:02.256] JEAN-LUC: Scared?
+[00:26:03.136 --> 00:26:03.456] JEAN-LUC: You?
+[00:26:04.496 --> 00:26:04.736] RIKER: Yeah.
+[00:26:06.816 --> 00:26:07.776] RIKER: But I guess I got over it.
+[00:26:07.776 --> 00:26:08.256] RIKER: You're here.
+[00:26:10.816 --> 00:26:11.216] RIKER: Resume.
+[00:26:13.376 --> 00:26:18.096] RIKER: It's important to me that I don't let you down, Jean-Luc.
+[00:26:19.216 --> 00:26:20.016] JEAN-LUC: You never have, Dad.
+[00:26:20.896 --> 00:26:22.096] JEAN-LUC: You've always been there for me.
+[00:26:23.376 --> 00:26:24.336] RIKER: I'll have to take your word for that
+[00:26:25.936 --> 00:26:27.216] RIKER: because I don't remember any of it.
+[00:26:28.576 --> 00:26:31.696] RIKER: Your first step, your first tooth, nothing.
+[00:26:34.976 --> 00:26:35.696] RIKER: And I want to remember.
+[00:26:39.776 --> 00:26:39.776] RIKER: I
+[00:26:45.616 --> 00:26:46.736] RIKER: guess there's only one thing we can do.
+[00:26:47.696 --> 00:26:48.976] RIKER: We've got to build some new memories.
+[00:26:51.936 --> 00:26:56.336] RIKER: I'm not sure it's still in the memory banks, but I used to have a great fishing programme on the holodeck.
+[00:26:56.656 --> 00:26:57.776] JEAN-LUC: The Curtis Creek programme?
+[00:26:58.336 --> 00:26:58.816] RIKER: You know it?
+[00:26:59.376 --> 00:27:01.456] JEAN-LUC: Sure. We've gone to Curtis Creek lots of times.
+[00:27:01.696 --> 00:27:02.336] RIKER: Would you like to go again?
+[00:27:02.576 --> 00:27:03.216] JEAN-LUC: You bet.
+[00:27:03.696 --> 00:27:06.576] RIKER: Well as soon as these negotiations are out of the way, you and I are going fishing.
+[00:27:06.896 --> 00:27:07.216] JEAN-LUC: Great!
+[00:27:07.366 --> 00:27:07.966] JEAN-LUC: And
+[00:27:09.776 --> 00:27:12.976] JEAN-LUC: then Mom tried to net the fish, and she fell in the creek, too.
+[00:27:13.776 --> 00:27:16.336] JEAN-LUC: And then you tried to pull us both out, and you fell in.
+[00:27:16.336 --> 00:27:16.336] RIKER: I'm
+[00:27:17.936 --> 00:27:19.056] RIKER: not sure I want to remember that.
+[00:27:20.154 --> 00:27:21.434] JEAN-LUC: Mom really liked Curtis Creek.
+[00:27:22.154 --> 00:27:24.394] JEAN-LUC: We went there for picnics and stuff lots of times.
+[00:27:26.554 --> 00:27:27.034] RIKER: What was she like?
+[00:27:31.274 --> 00:27:31.834] JEAN-LUC: She was great.
+[00:27:33.434 --> 00:27:34.154] JEAN-LUC: I think of her a lot.
+[00:27:37.514 --> 00:27:38.314] JEAN-LUC: I'd better go change.
+[00:27:49.114 --> 00:27:49.514] RIKER: Computer.
+[00:27:53.034 --> 00:27:53.674] RIKER: Display family record.
+[00:27:54.474 --> 00:27:55.594] RIKER: Riker. William T.
+[00:27:56.874 --> 00:27:57.594] RIKER: Limit to visual.
+[00:28:18.234 --> 00:28:20.954] RIKER: Display family record.
+[00:28:21.434 --> 00:28:22.154] RIKER: Riker, Mrs.
+[00:28:22.154 --> 00:28:22.714] RIKER: William T.
+[00:28:24.554 --> 00:28:25.834] COMPUTER: Please restate request.
+[00:28:26.634 --> 00:28:26.954] RIKER: Damn.
+[00:28:31.594 --> 00:28:32.074] JEAN-LUC: What's wrong, Dad?
+[00:28:32.714 --> 00:28:34.474] RIKER: The computer still isn't working properly.
+[00:28:34.474 --> 00:28:36.474] RIKER: I can't get a visual of your mother.
+[00:28:37.194 --> 00:28:38.634] JEAN-LUC: But I know Mom's pictures are there.
+[00:28:39.594 --> 00:28:40.394] JEAN-LUC: Did you give a stardate?
+[00:28:42.154 --> 00:28:42.634] JEAN-LUC: Computer.
+[00:28:43.834 --> 00:28:45.274] JEAN-LUC: Display family record.
+[00:28:45.514 --> 00:28:46.474] JEAN-LUC: Riker, Mrs.
+[00:28:46.474 --> 00:28:47.194] JEAN-LUC: William T.
+[00:28:47.434 --> 00:28:48.154] JEAN-LUC: Home file.
+[00:28:48.372 --> 00:28:50.665] JEAN-LUC: Stardate 58416.
+[00:28:50.665 --> 00:28:51.812] RIKER: Min!
+[00:29:19.012 --> 00:29:19.172] RIKER: Minuet.
+[00:29:19.172 --> 00:29:19.492] JEAN-LUC: Mom
+[00:29:20.932 --> 00:29:22.052] JEAN-LUC: was beautiful, wasn't she?
+[00:29:23.252 --> 00:29:23.652] RIKER: Yes.
+[00:29:27.732 --> 00:29:27.972] JEAN-LUC: What's wrong, Dad?
+[00:29:28.612 --> 00:29:29.492] LAFORGE: La Forge to Riker.
+[00:29:30.052 --> 00:29:30.612] RIKER: Riker here.
+[00:29:31.412 --> 00:29:32.612] LAFORGE: Captain, please come to the Bridge.
+[00:29:32.772 --> 00:29:33.492] RIKER: On my way.
+[00:29:38.932 --> 00:29:39.572] RIKER: What's the problem?
+[00:29:39.972 --> 00:29:41.572] LAFORGE: I've had to shut down the warp engines, Captain.
+[00:29:41.972 --> 00:29:42.212] RIKER: Why?
+[00:29:42.932 --> 00:29:44.532] LAFORGE: Antimatter containment fields are fluctuating.
+[00:29:44.772 --> 00:29:45.732] LAFORGE: It's nothing to worry about though.
+[00:29:46.052 --> 00:29:49.012] RIKER: We're on the edge of the Neutral Zone on impulse power, and you're not concerned?
+[00:29:49.172 --> 00:29:50.932] LAFORGE: I'll have the engines back online in no time, sir.
+[00:29:51.172 --> 00:29:53.732] RIKER: Like you tracked down that faulty processing accelerator?
+[00:29:54.372 --> 00:29:56.452] LAFORGE: I'm running a level one diagnostic.
+[00:29:56.452 --> 00:29:57.492] RIKER: For thirty hours?
+[00:29:57.572 --> 00:29:59.092] RIKER: It would never take you more than four.
+[00:29:59.332 --> 00:30:02.052] RIKER: You're incapable of that level of incompetence, Mister La Forge.
+[00:30:03.012 --> 00:30:03.012] RIKER: Worf,
+[00:30:03.012 --> 00:30:03.012] RIKER: where
+[00:30:05.172 --> 00:30:06.052] RIKER: did you get that scar?
+[00:30:07.252 --> 00:30:07.732] WORF: In combat.
+[00:30:08.452 --> 00:30:08.932] RIKER: What battle?
+[00:30:10.452 --> 00:30:10.772] RIKER: When?
+[00:30:12.452 --> 00:30:13.092] RIKER: Which sector?
+[00:30:13.892 --> 00:30:14.452] RIKER: Which unit?
+[00:30:15.332 --> 00:30:15.812] RIKER: Mister Data,
+[00:30:16.692 --> 00:30:19.332] RIKER: if we left immediately, when would we arrive at Outpost twenty three?
+[00:30:21.418 --> 00:30:23.338] DATA: At warp one, in three days, four hours.
+[00:30:23.338 --> 00:30:24.298] RIKER: How about at warp seven?
+[00:30:25.818 --> 00:30:26.298] RIKER: At warp eight?
+[00:30:27.578 --> 00:30:28.218] RIKER: At warp nine?
+[00:30:29.178 --> 00:30:29.739] RIKER: What's the matter, Data?
+[00:30:29.739 --> 00:30:31.818] RIKER: What happened to those millions of calculations per second?
+[00:30:32.779 --> 00:30:36.938] DATA: Pardon me, sir. I am experiencing subspace interference which limits my abilities.
+[00:30:37.658 --> 00:30:38.858] DATA: I can't operate as quickly as
+[00:30:38.858 --> 00:30:39.338] RIKER: What did you say?
+[00:30:39.338 --> 00:30:41.019] DATA: I said I cannot operate
+[00:30:41.019 --> 00:30:41.019] RIKER: No!
+[00:30:41.979 --> 00:30:42.698] RIKER: That's not what you said.
+[00:30:42.698 --> 00:30:43.338] RIKER: You said I can't.
+[00:30:43.418 --> 00:30:45.064] RIKER: You used a contraction, didn't you?
+[00:30:45.064 --> 00:30:45.338] DATA: Sir,
+[00:30:45.818 --> 00:30:47.658] DATA: I can explain if you would just give me a moment.
+[00:30:47.658 --> 00:30:48.298] RIKER: No you can't.
+[00:30:48.298 --> 00:30:49.498] RIKER: Don't even try.
+[00:30:49.498 --> 00:30:49.898] PICARD: Captain,
+[00:30:49.898 --> 00:30:53.178] PICARD: perhaps it would be best if we discussed this
+[00:30:53.178 --> 00:30:53.658] RIKER: Shut up!
+[00:30:56.378 --> 00:30:56.378] PICARD: I beg your pardon?
+[00:30:57.338 --> 00:30:58.138] RIKER: I said, shut up.
+[00:30:58.938 --> 00:31:00.938] RIKER: As in close your mouth and stop talking.
+[00:31:02.218 --> 00:31:04.218] TROI: Will, I sense how upset you are.
+[00:31:04.618 --> 00:31:05.818] TROI: You're angry and impatient.
+[00:31:05.898 --> 00:31:06.938] RIKER: Deanna, back off.
+[00:31:08.858 --> 00:31:09.178] RIKER: Well,
+[00:31:11.098 --> 00:31:12.538] RIKER: would anyone else like to speak up?
+[00:31:14.218 --> 00:31:15.818] RIKER: Or shall we end this charade?
+[00:31:21.259 --> 00:31:23.658] TOMALAK: As you wish, Commander Riker.
+[00:31:25.739 --> 00:31:26.538] TOMALAK: The charade is over.
+[00:31:26.688 --> 00:31:27.288] RIKER: The
+[00:31:41.898 --> 00:31:46.458] RIKER: Enterprise? my son you created it all.
+[00:31:46.698 --> 00:31:49.738] TOMALAK: With the help of our neural scanners and what you would call a holodeck.
+[00:31:50.698 --> 00:31:53.578] TOMALAK: Now, please tell me. How did you discover the truth?
+[00:31:54.938 --> 00:31:57.578] TOMALAK: The future we constructed for you should have been convincing.
+[00:31:58.858 --> 00:31:59.338] RIKER: It wasn't.
+[00:32:00.218 --> 00:32:03.170] RIKER: There was a computer time lag, for one thing.
+[00:32:03.170 --> 00:32:03.498] TOMALAK: Unavoidable.
+[00:32:04.058 --> 00:32:09.578] TOMALAK: Our scanners have a limited response time, so whenever you strayed from our expectations.
+[00:32:11.658 --> 00:32:13.553] TOMALAK: But surely that was not enough to
+[00:32:13.553 --> 00:32:15.178] RIKER: To smash your house of cards?
+[00:32:15.178 --> 00:32:21.658] RIKER: No. It was the visual record of my wife, Minuet.
+[00:32:21.658 --> 00:32:22.242] RIKER: Bad move.
+[00:32:22.242 --> 00:32:27.498] TOMALAK: But we chose someone from your past who is still alive. A woman you were extremely attracted to
+[00:32:27.738 --> 00:32:28.938] RIKER: Your mistake, Tomalak.
+[00:32:29.658 --> 00:32:35.338] RIKER: Minuet was nothing more than a computer generated fantasy I once experienced on another holodeck.
+[00:32:35.738 --> 00:32:36.298] TOMALAK: Impossible.
+[00:32:38.218 --> 00:32:40.858] TOMALAK: In your mind that woman exists, physically.
+[00:32:42.218 --> 00:32:45.098] TOMALAK: Your feelings toward her remain quite passionate.
+[00:32:46.618 --> 00:32:48.698] RIKER: She was part of a very special programme.
+[00:32:51.338 --> 00:32:54.058] TOMALAK: So much effort, so little accomplished.
+[00:32:55.098 --> 00:33:01.418] RIKER: If it was Outpost twenty three you were after, why didn't you use your neural scanners to probe my mind?
+[00:33:01.498 --> 00:33:04.298] TOMALAK: Our scanners are calibrated for Romulan brain patterns.
+[00:33:04.298 --> 00:33:06.458] TOMALAK: When it comes to human brains, they are less efficient.
+[00:33:06.698 --> 00:33:09.178] TOMALAK: There were gaps in the information we gathered from your memory.
+[00:33:09.658 --> 00:33:10.218] RIKER: Gaps?
+[00:33:13.498 --> 00:33:15.498] RIKER: From what I saw, I find that hard to believe.
+[00:33:16.799 --> 00:33:25.039] RIKER: You recreated the Enterprise, the crew, every nuance and smell, sound, with perfect accurate.
+[00:33:26.719 --> 00:33:27.919] RIKER: I didn't see any gaps.
+[00:33:28.959 --> 00:33:30.159] RIKER: I don't buy it, Tomalak.
+[00:33:33.199 --> 00:33:34.559] TOMALAK: We're wasting time.
+[00:33:38.159 --> 00:33:38.559] TOMALAK: Bring him.
+[00:33:44.879 --> 00:33:49.439] TOMALAK: When you and your colleagues transported to this planet, you were less than a kilometre from this base.
+[00:33:49.679 --> 00:33:51.039] TOMALAK: Your capture was a simple matter.
+[00:33:51.359 --> 00:33:52.799] RIKER: My colleagues, where are they?
+[00:33:53.199 --> 00:33:57.199] TOMALAK: We allowed them to transport safely back to the Enterprise, but your signal was diverted.
+[00:33:57.679 --> 00:33:59.439] RIKER: My people won't stop looking for me, Tomalak.
+[00:33:59.439 --> 00:34:00.239] TOMALAK: They already have.
+[00:34:01.999 --> 00:34:04.319] TOMALAK: Please, say hello to your son.
+[00:34:11.359 --> 00:34:11.759] RIKER: Jean-Luc?
+[00:34:11.999 --> 00:34:13.439] TOMALAK: That is not his name, of course,
+[00:34:13.439 --> 00:34:14.719] TOMALAK: nor have you ever really met him.
+[00:34:15.199 --> 00:34:17.519] TOMALAK: We merely used his image to augment your programme.
+[00:34:23.599 --> 00:34:24.479] RIKER: What have you done to him?
+[00:34:24.799 --> 00:34:28.479] TOMALAK: While I am gone, please give careful thought to your situation.
+[00:34:28.479 --> 00:34:28.639] RIKER: What's your name?
+[00:34:39.199 --> 00:34:39.199] RIKER: Whoa.
+[00:34:46.370 --> 00:34:48.450] RIKER: If we're going to get out of here, you're going to have to trust me.
+[00:34:49.810 --> 00:34:50.930] RIKER: Easy, I'm not going to hurt
+[00:34:52.530 --> 00:34:54.530] RIKER: you.
+[00:34:54.530 --> 00:34:57.890] RIKER: Who are you?
+[00:34:57.890 --> 00:34:58.450] RIKER: How did you get here?
+[00:35:00.850 --> 00:35:01.490] RIKER: My name is Will.
+[00:35:06.690 --> 00:35:08.690] ETHAN: Ethan.
+[00:35:08.690 --> 00:35:09.970] ETHAN: They brought me here with my parents.
+[00:35:11.410 --> 00:35:13.730] ETHAN: We were at a research station on Miridian six.
+[00:35:14.370 --> 00:35:18.690] RIKER: Miridian six? On the edge of the Neutral Zone?
+[00:35:18.690 --> 00:35:19.650] RIKER: I thought that was uninhabited.
+[00:35:19.650 --> 00:35:21.650] ETHAN: The station was set up last year.
+[00:35:23.090 --> 00:35:26.450] ETHAN: Then the Romulans came.
+[00:35:26.450 --> 00:35:28.210] RIKER: It's odd that the Enterprise wasn't advised.
+[00:35:31.330 --> 00:35:32.290] RIKER: Where are your parents now?
+[00:35:34.530 --> 00:35:35.010] ETHAN: They took them
+[00:35:36.770 --> 00:35:38.770] ETHAN: away.
+[00:35:38.770 --> 00:35:40.290] RIKER: Do you know why the Romulans are keeping you here?
+[00:35:40.850 --> 00:35:41.170] ETHAN: No.
+[00:35:42.370 --> 00:35:43.250] ETHAN: I just want to get away.
+[00:35:46.690 --> 00:35:49.970] RIKER: I'll get us out of here, Ethan.
+[00:35:49.970 --> 00:35:50.210] ETHAN: How?
+[00:35:52.130 --> 00:35:53.810] ETHAN: Even if we do get away, they'll find us.
+[00:35:54.930 --> 00:35:56.290] ETHAN: They found me when I escaped before.
+[00:35:57.650 --> 00:35:58.210] RIKER: You escaped?
+[00:35:58.370 --> 00:35:58.850] ETHAN: Yes.
+[00:35:59.330 --> 00:36:00.450] ETHAN: I hid in a secret place
+[00:36:01.330 --> 00:36:01.970] ETHAN: for weeks, but
+[00:36:01.970 --> 00:36:05.650] ETHAN: they caught me when I came out to find food.
+[00:36:05.650 --> 00:36:07.250] TOMALAK: I
+[00:36:08.850 --> 00:36:10.210] TOMALAK: want that information, Commander.
+[00:36:10.930 --> 00:36:12.690] TOMALAK: I want the location of Outpost twenty three.
+[00:36:14.355 --> 00:36:14.995] TOMALAK: Very well.
+[00:36:15.315 --> 00:36:18.115] TOMALAK: I have been given permission to use whatever means are necessary
+[00:36:19.155 --> 00:36:19.955] RIKER: Ethan, no!
+[00:36:20.035 --> 00:36:20.435] TOMALAK: Stop him!
+[00:36:24.115 --> 00:36:26.995] RIKER: That secret hiding place of yours?
+[00:36:29.795 --> 00:36:30.115] ETHAN: This way
+[00:36:36.595 --> 00:36:36.915] ETHAN: In here.
+[00:36:57.795 --> 00:36:59.795] RIKER: Their
+[00:37:18.995 --> 00:37:20.355] RIKER: sensors should have picked us up.
+[00:37:20.835 --> 00:37:21.795] ETHAN: No, they can't.
+[00:37:22.435 --> 00:37:22.915] ETHAN: I heard them.
+[00:37:23.235 --> 00:37:24.355] ETHAN: There's something in these rocks.
+[00:37:24.595 --> 00:37:25.235] RIKER: Heavy metals?
+[00:37:25.475 --> 00:37:25.715] ETHAN: Right.
+[00:37:25.865 --> 00:37:26.465] ETHAN: The
+[00:37:29.795 --> 00:37:32.595] ETHAN: Romulans forgot all about this storeroom when they rebuilt their tunnels.
+[00:37:37.395 --> 00:37:40.355] ETHAN: Here, use these.
+[00:37:40.355 --> 00:37:40.355] ETHAN: Help me.
+[00:37:52.122 --> 00:37:55.402] ETHAN: After I got away last time, I mapped out all their tunnels.
+[00:37:59.962 --> 00:38:03.642] ETHAN: Supply depot, communications, living quarters and shuttlebay.
+[00:38:05.002 --> 00:38:06.202] RIKER: How many guards in the shuttlebay?
+[00:38:06.762 --> 00:38:07.402] ETHAN: Only two or three.
+[00:38:10.442 --> 00:38:15.242] RIKER: If we stole a shuttlecraft, that would get us nowhere. The Romulans could follow their own ship to easily.
+[00:38:16.842 --> 00:38:23.882] RIKER: But if we broke into their communications system, we could send a message to the Enterprise.
+[00:38:25.002 --> 00:38:25.562] ETHAN: We can't do that.
+[00:38:25.962 --> 00:38:28.593] ETHAN: The transmitter is on a voice-activated security system.
+[00:38:28.593 --> 00:38:28.922] RIKER: Do
+[00:38:29.642 --> 00:38:30.682] RIKER: you know whose voice activates it?
+[00:38:31.402 --> 00:38:32.762] ETHAN: Only Ambassador Tomalak.
+[00:38:35.322 --> 00:38:35.402] RIKER: Who?
+[00:38:36.362 --> 00:38:36.762] ETHAN: Tomalak.
+[00:38:37.882 --> 00:38:38.842] RIKER: Ambassador Tomalak?
+[00:38:39.722 --> 00:38:42.922] RIKER: Tomalak is a Romulan Captain.
+[00:38:43.802 --> 00:38:46.522] RIKER: The only time he was ever called Ambassador was in a holodeck fantasy.
+[00:38:47.562 --> 00:38:48.442] RIKER: How do you know about that?
+[00:38:49.802 --> 00:38:51.962] ETHAN: You, er, you told me about him.
+[00:38:53.642 --> 00:38:54.042] RIKER: Who are you?
+[00:38:55.322 --> 00:38:56.522] RIKER: What is your part in all this?
+[00:38:57.962 --> 00:39:00.602] ETHAN: They've found us!
+[00:39:01.242 --> 00:39:03.482] RIKER: But you said their sensors didn't work in this tunnel.
+[00:39:03.642 --> 00:39:05.002] ETHAN: They must have fixed them.
+[00:39:05.002 --> 00:39:05.482] ETHAN: We've got to go!
+[00:39:06.682 --> 00:39:07.322] RIKER: Where are we going to go,
+[00:39:07.322 --> 00:39:07.482] RIKER: Ethan?
+[00:39:07.482 --> 00:39:08.682] ETHAN: The shuttlebay.
+[00:39:08.682 --> 00:39:09.402] ETHAN: There's still time.
+[00:39:10.442 --> 00:39:10.922] RIKER: I've had enough.
+[00:39:12.687 --> 00:39:14.847] TOMALAK: Commander, surrender your weapon.
+[00:39:15.327 --> 00:39:16.367] RIKER: No more games.
+[00:39:18.207 --> 00:39:19.247] RIKER: No more fantasies.
+[00:39:21.087 --> 00:39:21.807] RIKER: I'm not going to play anymore.
+[00:39:28.207 --> 00:39:29.007] RIKER: It
+[00:39:34.367 --> 00:39:35.407] RIKER: was never the Romulans.
+[00:39:35.407 --> 00:39:36.607] RIKER: It was you all along, wasn't
+[00:39:39.487 --> 00:39:41.487] RIKER: it?
+[00:39:44.847 --> 00:39:46.047] DATA: There is no question about it, sir.
+[00:39:46.447 --> 00:39:47.247] DATA: It is his signal.
+[00:39:47.727 --> 00:39:49.327] PICARD: Picard to Commander Riker. Do you read me?
+[00:39:50.447 --> 00:39:51.807] RIKER: Riker to Picard. I'm here.
+[00:39:52.527 --> 00:39:53.007] PICARD: Are you all right?
+[00:39:53.407 --> 00:39:53.647] RIKER: Yes, sir,
+[00:39:53.647 --> 00:39:54.207] RIKER: I'm all right.
+[00:39:54.607 --> 00:39:55.727] RIKER: What about Geordi and Worf?
+[00:39:55.727 --> 00:39:57.567] PICARD: We beamed them up an hour ago.
+[00:39:57.567 --> 00:39:58.047] PICARD: They're fine.
+[00:39:58.447 --> 00:39:59.807] PICARD: But we lost you in mid-transport.
+[00:40:00.207 --> 00:40:00.927] PICARD: Where've you been?
+[00:40:01.247 --> 00:40:02.207] PICARD: What is going on down there?
+[00:40:02.847 --> 00:40:03.807] RIKER: I'm not sure yet, sir.
+[00:40:04.127 --> 00:40:06.207] RIKER: But I think I'm about to find out.
+[00:40:06.607 --> 00:40:07.087] RIKER: Stand by.
+[00:40:17.967 --> 00:40:21.487] RIKER: What shall I call you? Ethan?
+[00:40:22.767 --> 00:40:22.847] RIKER: Jean-Luc?
+[00:40:22.997 --> 00:40:23.597] ETHAN: It
+[00:40:24.847 --> 00:40:25.407] ETHAN: doesn't matter.
+[00:40:28.127 --> 00:40:29.887] RIKER: This room, it's more than a holodeck, isn't it?
+[00:40:30.607 --> 00:40:31.167] ETHAN: Much more.
+[00:40:31.967 --> 00:40:33.487] ETHAN: The neural scanners read my mind,
+[00:40:34.287 --> 00:40:35.247] ETHAN: give me everything I want.
+[00:40:36.127 --> 00:40:37.967] ETHAN: Just like they tried to give you everything you wanted.
+[00:40:38.527 --> 00:40:39.407] RIKER: Everything I wanted?
+[00:40:39.407 --> 00:40:42.047] RIKER: You probed the Enterprise.
+[00:40:42.047 --> 00:40:44.127] RIKER: You lured us here so you could play games with me.
+[00:40:45.007 --> 00:40:45.887] RIKER: I didn't want that,
+[00:40:46.144 --> 00:40:46.544] RIKER: you did.
+[00:40:46.944 --> 00:40:47.264] RIKER: Why?
+[00:40:47.664 --> 00:40:48.704] ETHAN: My world was invaded.
+[00:40:49.584 --> 00:40:51.344] ETHAN: My people killed.
+[00:40:52.624 --> 00:40:55.024] ETHAN: My mother brought me here so our enemies would never find me.
+[00:41:02.064 --> 00:41:03.024] RIKER: They found her, didn't they?
+[00:41:07.504 --> 00:41:09.504] ETHAN: She knew that they would never stop looking for her,
+[00:41:11.664 --> 00:41:13.264] ETHAN: so she made sure I would be safe.
+[00:41:23.584 --> 00:41:27.024] ETHAN: She left the scanners to protect me, to give me anything I wanted.
+[00:41:28.304 --> 00:41:28.704] RIKER: Anything?
+[00:41:29.984 --> 00:41:31.424] RIKER: Then why did you kidnap me?
+[00:41:31.664 --> 00:41:32.704] ETHAN: I wanted you to stay.
+[00:41:34.064 --> 00:41:35.024] ETHAN: It's been so long.
+[00:41:36.224 --> 00:41:37.184] ETHAN: I just want somebody
+[00:41:38.864 --> 00:41:39.104] ETHAN: real.
+[00:41:41.184 --> 00:41:42.624] ETHAN: I thought that you'd be happy.
+[00:41:45.824 --> 00:41:46.304] ETHAN: I'm sorry.
+[00:41:52.624 --> 00:41:53.744] RIKER: I have to return to my ship.
+[00:42:02.544 --> 00:42:02.944] RIKER: Come with me.
+[00:42:04.384 --> 00:42:05.504] RIKER: You don't have to stay here anymore.
+[00:42:05.504 --> 00:42:09.184] RIKER: You don't have to be alone anymore.
+[00:42:15.024 --> 00:42:16.064] ETHAN: My name is Barash.
+[00:42:23.048 --> 00:42:26.168] RIKER: To me, you'll always be Jean-Luc.
+[00:42:31.368 --> 00:42:32.008] RIKER: Two to transport.
+[00:42:36.000 --> 00:42:45.000] [music]
+[00:42:48.000 --> 00:42:56.000] [music]
+[00:42:57.000 --> 00:43:06.000] [music]

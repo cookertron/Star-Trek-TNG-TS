@@ -1,0 +1,687 @@
+[00:00:02.320 --> 00:00:05.440] LOG: Captain's log, stardate 45959.1.
+[00:00:06.160 --> 00:00:10.000] LOG: The Enterprise has been recalled to sector zero zero one on a priority mission.
+[00:00:10.720 --> 00:00:17.360] LOG: All we've been told is that evidence has been discovered indicating the presence of extraterrestrials on Earth five centuries ago.
+[00:00:18.080 --> 00:00:22.640] SCIENTIST: Work crews were down here installing seismic regulators when they found some remarkable artefacts.
+[00:00:23.280 --> 00:00:25.680] PICARD: And it's been determined that they date back to the late nineteenth century?
+[00:00:26.080 --> 00:00:26.560] SCIENTIST: Yes.
+[00:00:31.120 --> 00:00:33.520] DATA: The bifocal vision aid is typical of the era.
+[00:00:36.240 --> 00:00:42.480] DATA: The weapon is a forty five calibre double-action cavalry pistol invented by Colt Firearms in 1873.
+[00:00:42.800 --> 00:00:44.480] SCIENTIST: Here, look inside the watch. .
+[00:00:53.520 --> 00:00:56.480] PICARD: What makes you think that extraterrestrials are related to these discoveries.
+[00:00:56.800 --> 00:00:58.880] SCIENTIST: The crew was having a problem with the regulators.
+[00:00:59.120 --> 00:01:02.160] SCIENTIST: Something inside the cavern was interfering with the phase conditioners.
+[00:01:02.880 --> 00:01:04.400] SCIENTIST: It turned out to be the cavern itself.
+[00:01:05.600 --> 00:01:05.680] DATA: The
+[00:01:13.680 --> 00:01:17.637] DATA: composition of the exposed rock face has been altered by exposure to triolic waves.
+[00:01:17.637 --> 00:01:22.160] SCIENTIST: Which you're not going to find on Earth in either the nineteenth or twenty fourth century.
+[00:01:22.560 --> 00:01:23.440] PICARD: Triolic waves?
+[00:01:24.400 --> 00:01:28.640] DATA: The by-product of an energy source employed by very few species because of its deleterious
+[00:01:28.770 --> 00:01:29.730] DATA: effect on living tissue.
+[00:01:30.050 --> 00:01:33.570] SCIENTIST: We've confirmed that no one has been in or out of this cavern in centuries,
+[00:01:34.210 --> 00:01:37.250] SCIENTIST: so we're left with a five hundred year old mystery.
+[00:01:38.050 --> 00:01:38.930] PICARD: I'm curious, Doctor.
+[00:01:39.730 --> 00:01:42.850] PICARD: There are far greater experts on Earth to investigate your mystery.
+[00:01:43.330 --> 00:01:44.770] PICARD: Why bring the Enterprise all the way home?
+[00:01:45.570 --> 00:01:49.570] SCIENTIST: As we continued our excavation, we found one other thing I haven't shown you yet.
+[00:01:51.090 --> 00:01:52.770] SCIENTIST: We've tried to leave everything as we found it.
+[00:01:53.810 --> 00:01:53.810] PICARD: Space,
+[00:02:32.130 --> 00:02:33.410] PICARD: the final frontier.
+[00:02:35.250 --> 00:02:38.210] PICARD: These are the voyagers of the starship Enterprise.
+[00:02:39.250 --> 00:02:47.250] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:02:48.930 --> 00:02:51.810] PICARD: to boldly go where no one has gone before.
+[00:02:56.000 --> 00:03:11.000] [music]
+[00:03:21.000 --> 00:03:34.000] [music]
+[00:03:47.308 --> 00:03:50.108] LOG: Captain's log, stardate 45960.2.
+[00:03:50.748 --> 00:03:54.588] LOG: We have transported the materials discovered in the cavern back to the ship for analysis.
+[00:03:55.228 --> 00:03:59.628] LOG: I wish I could be as dispassionate about the implications as my second officer.
+[00:04:00.748 --> 00:04:01.388] DATA: Interesting.
+[00:04:01.948 --> 00:04:06.588] DATA: There is a twelve percent decomposition of the bitanium in the neural pathway links.
+[00:04:07.228 --> 00:04:08.908] DATA: That suggests the alloys are vulnerable to
+[00:04:08.908 --> 00:04:13.228] RIKER: Data, how can you look inside that, analyse the decomposition without
+[00:04:15.388 --> 00:04:15.948] DATA: Emotion, sir?
+[00:04:16.028 --> 00:04:16.588] RIKER: Yes..
+[00:04:17.308 --> 00:04:19.308] DATA: I am simply trying to make an objective assessment.
+[00:04:19.388 --> 00:04:20.188] PICARD: Data, is this yours?
+[00:04:20.748 --> 00:04:21.468] DATA: I believe so, sir.
+[00:04:21.628 --> 00:04:23.228] PICARD: Could it be Lore?
+[00:04:23.628 --> 00:04:24.108] DATA: No, sir.
+[00:04:24.588 --> 00:04:26.668] DATA: My brother's positronic brain has a
+[00:04:27.007 --> 00:04:29.247] DATA: type L phase discriminating amplifier.
+[00:04:29.807 --> 00:04:30.847] DATA: Mine is a type R.
+[00:04:31.007 --> 00:04:31.487] PICARD: Type R?
+[00:04:31.647 --> 00:04:31.967] DATA: Yes, sir.
+[00:04:34.207 --> 00:04:35.887] PICARD: Can you predict how long this has been in the cavern?
+[00:04:36.847 --> 00:04:41.247] DATA: Decomposition strongly indicates that life was terminated approximately five hundred years ago.
+[00:04:41.807 --> 00:04:44.047] DATA: That would be consistent with the other artefacts we recovered.
+[00:04:44.447 --> 00:04:45.967] RIKER: Your head is not an artefact.
+[00:04:46.927 --> 00:04:48.367] DATA: In relative terms, perhaps not.
+[00:04:48.767 --> 00:04:52.447] DATA: Nevertheless, it seems clear that my life is to end in the late nineteenth century.
+[00:04:52.527 --> 00:04:53.407] RIKER: Not if we can help it.
+[00:04:54.127 --> 00:04:55.647] DATA: There is no way anyone can prevent it, sir.
+[00:04:56.367 --> 00:05:01.007] DATA: At some future date, I will be transported back to nineteenth century Earth, where I will die.
+[00:05:01.967 --> 00:05:02.687] DATA: It has occurred.
+[00:05:03.647 --> 00:05:04.207] DATA: It will occur.
+[00:05:05.967 --> 00:05:10.287] LAFORGE: Well, I can't tell you exactly who the aliens were, but I have found out a few things.
+[00:05:13.167 --> 00:05:13.167] LAFORGE: The
+[00:05:16.527 --> 00:05:22.127] LAFORGE: triolicised rock face tells us we're probably dealing with a species with microcentrum cell membranes.
+[00:05:22.607 --> 00:05:24.447] LAFORGE: Triolic waves wouldn't harm them.
+[00:05:24.447 --> 00:05:26.927] LAFORGE: It also might mean they're shape shifters of some kind.
+[00:05:27.407 --> 00:05:28.847] RIKER: So they could have appeared on Earth as humans.
+[00:05:29.007 --> 00:05:31.247] LAFORGE: I don't think it's anyone we've run into before.
+[00:05:31.487 --> 00:05:34.207] LAFORGE: Nothing we found matches up with any known lifeforms.
+[00:05:34.607 --> 00:05:39.407] LAFORGE: What does match up is a cellular fossil which might have been along just for the ride.
+[00:05:40.127 --> 00:05:41.007] PICARD: A cellular fossil?
+[00:05:42.047 --> 00:05:52.927] LAFORGE: A microscopic ciliated lifeform. Not unlike a thousand other single-celled lifeforms you'd find on any planet surface, except this particular one is LB one zero four four five. And
+[00:05:52.927 --> 00:05:52.927] LAFORGE: LB one zero four four five
+[00:05:54.447 --> 00:05:56.127] LAFORGE: is only known to exist on one place.
+[00:05:56.927 --> 00:05:58.767] LAFORGE: Devidia Two, in the Marrab sector.
+[00:06:00.447 --> 00:06:01.327] PICARD: Number One, lay in a course.
+[00:06:01.410 --> 00:06:01.809] RIKER: On my way.
+[00:06:14.770 --> 00:06:16.609] LAFORGE: So, do you want to talk about it?
+[00:06:18.929 --> 00:06:20.689] DATA: Are you referring to the foreknowledge of my death?
+[00:06:21.330 --> 00:06:21.570] LAFORGE: Yeah.
+[00:06:22.929 --> 00:06:25.330] DATA: I have no particular desire to discuss the matter.
+[00:06:26.530 --> 00:06:27.570] DATA: Do you need to talk about it?
+[00:06:27.570 --> 00:06:27.809] LAFORGE: Yeah.
+[00:06:29.330 --> 00:06:30.090] DATA: Why?
+[00:06:30.090 --> 00:06:30.850] LAFORGE: Data,
+[00:06:31.650 --> 00:06:32.689] LAFORGE: this has got to bother you a little.
+[00:06:33.330 --> 00:06:35.489] DATA: On the contrary. I find it rather comforting.
+[00:06:36.369 --> 00:06:36.689] LAFORGE: Comforting?
+[00:06:37.569 --> 00:06:42.049] DATA: I have often wondered about my own mortality as I have seen others around me age.
+[00:06:42.850 --> 00:06:46.450] DATA: Until now it has been theoretically possible that I would live an unlimited period of time.
+[00:06:46.850 --> 00:06:53.010] DATA: And although some might find this attractive, to me it only reinforces the fact that I am artificial.
+[00:06:54.049 --> 00:06:55.970] LAFORGE: I never knew how tough this must be for you.
+[00:06:56.450 --> 00:06:56.770] DATA: Tough?
+[00:06:57.890 --> 00:06:58.530] DATA: As in difficult?
+[00:06:59.569 --> 00:07:01.970] LAFORGE: Knowing that you would outlive all your friends.
+[00:07:03.330 --> 00:07:04.609] DATA: I expected to make new friends.
+[00:07:04.609 --> 00:07:06.130] LAFORGE: True.
+[00:07:07.569 --> 00:07:08.850] DATA: And then to outlive them as well.
+[00:07:10.770 --> 00:07:12.878] LAFORGE: Now that you know that you might not?
+[00:07:12.878 --> 00:07:15.250] DATA: It provides a sense of completion to my future.
+[00:07:16.130 --> 00:07:18.130] DATA: In a way, I am not that different from anyone else.
+[00:07:18.850 --> 00:07:20.130] DATA: I can now look forward to death.
+[00:07:21.489 --> 00:07:22.369] LAFORGE: I never thought of it that way.
+[00:07:23.090 --> 00:07:27.410] DATA: One might also conclude that it brings me one step closer to being human.
+[00:07:28.929 --> 00:07:29.489] DATA: I am mortal.
+[00:07:29.489 --> 00:07:31.170] PICARD: Picard to Bridge officers.
+[00:07:31.394 --> 00:07:32.834] PICARD: We're approaching the Devidia system.
+[00:07:32.994 --> 00:07:33.954] PICARD: Report to your stations.
+[00:07:35.714 --> 00:07:36.194] LAFORGE: I'll see you later.
+[00:07:36.514 --> 00:07:37.954] LAFORGE: Let's get together for a game of chess or something, okay?
+[00:07:41.874 --> 00:07:44.034] GUINAN: That sounded like a very intense discussion.
+[00:07:44.194 --> 00:07:47.714] LAFORGE: Yeah. They found Data's head a mile beneath San Francisco.
+[00:07:48.514 --> 00:07:50.594] LAFORGE: Been down there about five centuries.
+[00:07:51.874 --> 00:07:54.274] GUINAN: That's why the Enterprise has been sent back to Earth.
+[00:07:54.914 --> 00:07:55.565] GUINAN: I didn't realise.
+[00:07:55.565 --> 00:07:56.434] LAFORGE: It's something, isn't it?
+[00:07:59.074 --> 00:08:00.114] LAFORGE: He seems fine about it.
+[00:08:00.114 --> 00:08:00.274] LAFORGE: Better
+[00:08:03.554 --> 00:08:03.874] LAFORGE: than I am.
+[00:08:03.874 --> 00:08:05.634] LAFORGE: Well, I'd better get to Engineering.
+[00:08:07.234 --> 00:08:08.034] GUINAN: Full circle.
+[00:08:11.234 --> 00:08:11.394] TROI: I
+[00:08:14.114 --> 00:08:14.914] TROI: heard about Data.
+[00:08:15.154 --> 00:08:15.394] RIKER: Yeah.
+[00:08:16.914 --> 00:08:19.634] TROI: It's having an unusually traumatic effect on everyone.
+[00:08:20.434 --> 00:08:20.754] RIKER: Yeah.
+[00:08:22.994 --> 00:08:24.674] TROI: If you don't want to talk about it, it's okay.
+[00:08:24.914 --> 00:08:25.634] RIKER: I'm fine.
+[00:08:25.954 --> 00:08:26.194] RIKER: I'm just
+[00:08:26.754 --> 00:08:27.154] TROI: Angry.
+[00:08:27.474 --> 00:08:28.114] RIKER: I'm not angry.
+[00:08:30.514 --> 00:08:31.154] RIKER: Yeah, I'm angry.
+[00:08:34.994 --> 00:08:35.874] RIKER: Why should I be angry?
+[00:08:37.954 --> 00:08:39.954] TROI: Maybe because it reminds us of our own mortality.
+[00:08:40.674 --> 00:08:41.554] RIKER: I just don't want to believe it.
+[00:08:42.354 --> 00:08:44.034] TROI: Have you ever heard Data define friendship?
+[00:08:44.834 --> 00:08:45.074] RIKER: No.
+[00:08:47.634 --> 00:08:48.194] TROI: How did he put it?
+[00:08:51.154 --> 00:08:55.474] TROI: As I experience certain sensory input patterns, my mental pathways become accustomed to them.
+[00:08:55.714 --> 00:08:58.914] TROI: The inputs eventually are anticipated and even missed when absent.
+[00:09:01.696 --> 00:09:02.416] RIKER: So what's the point?
+[00:09:02.976 --> 00:09:05.216] TROI: He's used to us, and we're used to him.
+[00:09:07.056 --> 00:09:09.456] TROI: It's like finding out someone you love has a terminal illness and
+[00:09:10.576 --> 00:09:11.509] RIKER: Data.
+[00:09:11.509 --> 00:09:13.376] DATA: Counsellor. Commander.
+[00:09:23.376 --> 00:09:25.296] DATA: Would either of you mind if I made a personal inquiry?
+[00:09:27.216 --> 00:09:27.776] TROI: Personal inquiry?
+[00:09:27.776 --> 00:09:28.576] TROI: No, go right ahead.
+[00:09:29.616 --> 00:09:32.976] DATA: I am perceiving an apparent change in the way others behave toward me.
+[00:09:33.936 --> 00:09:40.096] DATA: For example, people abruptly end conversations when I appear, just as you did when the turbolift doors opened.
+[00:09:41.376 --> 00:09:42.736] DATA: Is that an accurate observation?
+[00:09:43.056 --> 00:09:43.616] RIKER: Not at all.
+[00:09:46.496 --> 00:09:46.976] TROI: Yes.
+[00:09:47.776 --> 00:09:47.930] RIKER: Yes.
+[00:09:47.930 --> 00:09:49.776] TROI: You're right, Data. And it's not a very nice thing to do.
+[00:09:52.816 --> 00:09:57.456] RIKER: It's just that our mental pathways have become accustomed to your sensory input patterns.
+[00:09:57.936 --> 00:10:00.576] DATA: I understand.
+[00:10:01.776 --> 00:10:04.896] DATA: I am also fond of you, Commander. And you as well, Counsellor.
+[00:10:04.896 --> 00:10:04.976] RIKER: We're in
+[00:10:24.976 --> 00:10:25.227] RIKER: orbit.
+[00:10:25.478 --> 00:10:27.238] PICARD: Any sign of life?
+[00:10:27.490 --> 00:10:28.244] WORF: Negative, sir.
+[00:10:28.496 --> 00:10:28.496] DATA: Captain,
+[00:10:29.719 --> 00:10:33.959] DATA: sensors are picking up an unusual temporal disturbance on a small area of the planet's surface.
+[00:10:34.839 --> 00:10:39.719] DATA: Forty two degrees seven minutes north by eighty eight degrees declination east.
+[00:10:40.679 --> 00:10:41.479] RIKER: Temporal disturbance?
+[00:10:41.799 --> 00:10:43.719] PICARD: Put us in a standard orbit above those coordinates.
+[00:10:44.279 --> 00:10:48.199] DATA: Spectral analysis shows a high level of triolic waves emanating from the same location.
+[00:10:48.599 --> 00:10:50.599] RIKER: Any correlation with the readings from Earth?
+[00:10:51.159 --> 00:10:51.799] DATA: Affirmative, sir.
+[00:10:52.039 --> 00:10:54.519] DATA: The magnetic signature is identical to the one found in the cavern.
+[00:10:54.759 --> 00:10:56.679] PICARD: Would these triolic waves be dangerous to humanoids?
+[00:10:56.999 --> 00:10:58.359] DATA: Only with long term exposure, sir.
+[00:10:58.359 --> 00:10:59.399] DATA: There is no immediate threat.
+[00:10:59.799 --> 00:11:00.359] PICARD: Take an away team.
+[00:11:00.439 --> 00:11:03.639] RIKER: Worf. Geordi. Troi. Join me in transporter room three for an away team.
+[00:11:04.599 --> 00:11:04.946] DATA: Commander.
+[00:11:04.946 --> 00:11:05.639] PICARD: Mister Data,
+[00:11:06.919 --> 00:11:10.119] PICARD: I'll need your help to monitor the sensor readings during this investigation.
+[00:11:14.199 --> 00:11:16.599] DATA: Captain, may I speak to you alone?
+[00:11:23.719 --> 00:11:24.039] DATA: Sir,
+[00:11:24.999 --> 00:11:28.599] DATA: it is standard procedure that the second officer accompany the away team.
+[00:11:28.599 --> 00:11:30.599] PICARD: Yes, yes, Mister Data, I am aware of that.
+[00:11:30.599 --> 00:11:34.279] DATA: Then I must assume your decision is related to the discovery on Earth of
+[00:11:34.279 --> 00:11:37.195] PICARD: I think it is reasonable to take precautions.
+[00:11:37.195 --> 00:11:37.559] DATA: Captain,
+[00:11:38.279 --> 00:11:40.599] DATA: there is no rational justification for this course.
+[00:11:40.599 --> 00:11:41.479] PICARD: Then I'll be irrational.
+[00:11:45.799 --> 00:11:50.679] DATA: It is possible, sir, that the events leading to my death will not occur for years, even centuries.
+[00:11:51.159 --> 00:11:52.599] PICARD: I hope that's true, Mister Data.
+[00:11:53.239 --> 00:11:56.279] PICARD: Nevertheless, this investigation began with your death.
+[00:11:56.679 --> 00:11:58.839] PICARD: I am simply trying to see that it doesn't end that way.
+[00:11:59.479 --> 00:12:00.839] DATA: I appreciate your concern, Captain,
+[00:12:01.479 --> 00:12:03.159] DATA: but, to employ an aphorism,
+[00:12:03.839 --> 00:12:05.199] DATA: one cannot cheat fate.
+[00:12:06.719 --> 00:12:07.679] PICARD: Cheat fate?
+[00:12:10.479 --> 00:12:11.679] PICARD: Perhaps we can't, Mister Data.
+[00:12:13.599 --> 00:12:14.719] PICARD: But at least we can give it a try.
+[00:12:14.869 --> 00:12:15.469] LAFORGE: The
+[00:12:36.959 --> 00:12:39.999] LAFORGE: concentration of triolic waves falls off about here.
+[00:12:45.439 --> 00:12:47.199] LAFORGE: It increases exponentially the closer in we go.
+[00:12:47.839 --> 00:12:48.479] RIKER: What's the source?
+[00:12:48.559 --> 00:12:49.359] RIKER: Something underground?
+[00:12:52.319 --> 00:12:53.039] LAFORGE: Negative, Commander.
+[00:12:53.279 --> 00:12:53.999] RIKER: What's the explanation?
+[00:12:54.399 --> 00:12:55.199] LAFORGE: I don't have one yet.
+[00:12:55.679 --> 00:12:56.639] LAFORGE: La Forge to Enterprise.
+[00:12:56.639 --> 00:12:57.492] DATA: Go ahead.
+[00:12:57.492 --> 00:12:57.919] LAFORGE: Data,
+[00:12:57.919 --> 00:12:59.599] LAFORGE: run a spectral field correlation for me.
+[00:12:59.599 --> 00:13:02.959] LAFORGE: Let's find out if these triolic readings are in any way related To the temporal distortions.
+[00:13:03.519 --> 00:13:04.079] DATA: Acknowledged.
+[00:13:07.439 --> 00:13:07.839] RIKER: Deanna?
+[00:13:12.319 --> 00:13:13.119] TROI: There's life here.
+[00:13:17.519 --> 00:13:18.159] TROI: A child.
+[00:13:19.519 --> 00:13:20.319] TROI: An old woman.
+[00:13:22.239 --> 00:13:23.759] TROI: Dozens more. Hundreds.
+[00:13:25.119 --> 00:13:25.759] TROI: Terrified.
+[00:13:26.959 --> 00:13:27.439] RIKER: Terrified?
+[00:13:31.519 --> 00:13:32.959] TROI: My God, Will. They're human.
+[00:13:41.745 --> 00:13:45.825] RIKER: Whatever they are, Troi's convinced they're human.
+[00:13:45.825 --> 00:13:46.865] RIKER: They may be trapped somehow.
+[00:13:47.265 --> 00:13:48.525] RIKER: We're not sure.
+[00:13:48.525 --> 00:13:48.945] DATA: Captain,
+[00:13:49.425 --> 00:13:51.585] DATA: the results of my temporal analysis may be pertinent.
+[00:13:51.825 --> 00:13:52.785] PICARD: Go ahead.
+[00:13:52.785 --> 00:13:53.265] DATA: Geordi,
+[00:13:53.265 --> 00:13:57.185] DATA: it indicates a synchronic distortion in the areas emanating Triolic waves.
+[00:13:57.745 --> 00:13:59.025] LAFORGE: That explains a few things.
+[00:13:59.265 --> 00:13:59.825] LAFORGE: How much, Data?
+[00:14:00.225 --> 00:14:03.185] DATA: A positive displacement of point zero zero four percent.
+[00:14:04.945 --> 00:14:09.185] LAFORGE: Well, whatever or whoever is there, we're out of phase with it, but
+[00:14:09.185 --> 00:14:10.865] LAFORGE: we're only talking by a fraction of a second.
+[00:14:11.425 --> 00:14:13.185] WORF: A fraction of a second would make them invisible?
+[00:14:13.185 --> 00:14:15.985] LAFORGE: A millisecond, a year, it wouldn't make any difference.
+[00:14:16.465 --> 00:14:21.825] LAFORGE: If what we're reading is true, then we're occupying the same space but in a different time.
+[00:14:21.905 --> 00:14:22.625] RIKER: How do we compensate?
+[00:14:23.105 --> 00:14:26.065] DATA: Commander, we might be able to Manipulate the synchronic distortion.
+[00:14:26.705 --> 00:14:30.065] LAFORGE: Maybe. If we were to create a contained subspace force field.
+[00:14:30.545 --> 00:14:34.545] LAFORGE: But to get a point zero zero four variance, we'd need an incredibly sensitive phase discriminator,
+[00:14:34.545 --> 00:14:37.265] LAFORGE: Data. I don't think we've got one that would come close.
+[00:14:37.505 --> 00:14:37.985] DATA: Yes, we do.
+[00:14:38.465 --> 00:14:40.545] DATA: It is built into my positronic decompiler.
+[00:14:41.825 --> 00:14:43.905] DATA: It will be necessary for me to join the away team, sir.
+[00:14:47.985 --> 00:14:50.545] PICARD: Proceed, Mister Data.
+[00:14:50.945 --> 00:14:50.945] RIKER: Mister Data.
+[00:15:06.145 --> 00:15:06.385] DATA: Sir.
+[00:15:06.945 --> 00:15:07.825] LAFORGE: Let me give you a hand with that, Data.
+[00:15:09.386 --> 00:15:12.346] DATA: Once I have adjusted the forcefield, I will no longer be visible, Commander.
+[00:15:12.986 --> 00:15:15.706] DATA: I have taken steps, however, to ensure that you will still be able to hear me.
+[00:15:16.346 --> 00:15:23.146] DATA: If you would assist me in a test of the comm. system. My voice will be transmitted on a delay correlated to the phase adjustment.
+[00:15:23.786 --> 00:15:25.786] DATA: That should allow me to maintain verbal contact.
+[00:15:26.346 --> 00:15:27.386] RIKER: Will we be able to talk to you?
+[00:15:27.706 --> 00:15:28.026] DATA: No, sir.
+[00:15:28.346 --> 00:15:29.226] DATA: That will not be possible.
+[00:15:31.946 --> 00:15:33.546] LAFORGE: The subspace field has been established.
+[00:15:34.426 --> 00:15:34.906] LAFORGE: You're set to go, Data.
+[00:15:38.346 --> 00:15:39.786] DATA: Adjusting the synchronic distortion.
+[00:15:40.906 --> 00:15:42.186] DATA: Point zero zero one.
+[00:15:43.386 --> 00:15:44.586] DATA: Point zero zero two.
+[00:15:45.946 --> 00:15:47.306] DATA: Point zero zero three.
+[00:15:48.586 --> 00:15:49.706] DATA: Point zero zero four.
+[00:15:55.226 --> 00:15:56.826] DATA: I have made visual contact.
+[00:15:56.826 --> 00:15:59.226] DATA: There are lifeforms here.
+[00:15:59.226 --> 00:16:03.066] DATA: They're either unaware of me or choosing to ignore me.
+[00:16:04.106 --> 00:16:08.346] DATA: I am moving approximately ten metres north of my starting position to observe more closely.
+[00:16:10.266 --> 00:16:14.186] DATA: They range from two to three metres in height. Silver grey in colour.
+[00:16:14.986 --> 00:16:18.106] DATA: They have four limbs. No eyes or ears are noticeable.
+[00:16:19.306 --> 00:16:22.506] DATA: There is a single orifice where a humanoid forehead would ordinarily be.
+[00:16:22.986 --> 00:16:27.226] DATA: They are reclined against the rock face surrounding an apparatus of some sort
+[00:16:27.866 --> 00:16:33.066] DATA: approximately one point five metres in height. It is releasing what appear to be energy
+[00:16:33.145 --> 00:16:38.425] DATA: fragments, which are then ingested by the entities through the orifice. Perhaps some sort of nourishment.
+[00:16:40.185 --> 00:16:44.345] DATA: The upper portion of the apparatus seems to be a holding facility for the energy segments.
+[00:16:44.825 --> 00:16:48.025] DATA: There are hundreds, perhaps thousands of these fragments inside.
+[00:16:48.265 --> 00:16:51.785] DATA: I have resumed a northerly direction.
+[00:16:52.345 --> 00:16:53.625] DATA: There is no evidence yet of humans.
+[00:16:54.745 --> 00:16:55.785] LAFORGE: Okay, that's enough Data.
+[00:16:56.425 --> 00:16:57.145] LAFORGE: Come on back now,
+[00:16:58.025 --> 00:17:02.745] DATA: I have encountered Another lifeform. An ophidian.
+[00:17:03.705 --> 00:17:05.705] DATA: It seems to be restricted by a forcefield.
+[00:17:05.705 --> 00:17:05.705] DATA: Two of the
+[00:17:09.065 --> 00:17:10.985] DATA: silver-grey entities are approaching it.
+[00:17:10.985 --> 00:17:12.745] DATA: They have released the forcefield.
+[00:17:12.745 --> 00:17:17.865] DATA: I am reading a temporal distortion of massive proportions.
+[00:17:17.865 --> 00:17:19.705] DATA: The ophidian is
+[00:17:20.905 --> 00:17:21.945] DATA: cap time-space continuum.
+[00:17:21.945 --> 00:17:24.245] DATA: Caught in the after effect.
+[00:17:24.505 --> 00:17:25.145] DATA: I am attempting
+[00:17:25.785 --> 00:17:27.225] TROI: Data!
+[00:17:30.105 --> 00:17:30.665] RIKER: Over here.
+[00:17:32.265 --> 00:17:34.025] PICARD: Commander Riker, report.
+[00:17:37.225 --> 00:17:37.785] RIKER: We've lost him.
+[00:18:11.399 --> 00:18:11.959] DATA: Excuse me.
+[00:18:15.159 --> 00:18:15.479] DATA: Pardon me.
+[00:18:17.319 --> 00:18:19.639] DATA: I am searching for two individuals with an ophidian.
+[00:18:21.559 --> 00:18:21.959] DATA: A snake.
+[00:18:23.000 --> 00:18:27.000] [laughter]
+[00:18:24.679 --> 00:18:25.239] MAN: Frenchman.
+[00:18:25.239 --> 00:18:27.159] BEGGAR: Could you help out
+[00:18:47.079 --> 00:18:47.959] BEGGAR: a Forty Niner?
+[00:18:50.119 --> 00:18:52.199] BEGGAR: I fell down a shaft.
+[00:18:52.679 --> 00:18:54.279] BEGGAR: I got blown up in a tunnel.
+[00:18:54.679 --> 00:18:55.479] DATA: That is unfortunate.
+[00:18:55.719 --> 00:18:57.319] BEGGAR: It is most unfortunate.
+[00:18:57.719 --> 00:19:00.919] BEGGAR: I require large amounts of whiskey as a linament.
+[00:19:01.399 --> 00:19:03.239] DATA: I am sorry, but I have no whiskey to give you.
+[00:19:04.199 --> 00:19:05.319] BEGGAR: I'll take a dime.
+[00:19:05.959 --> 00:19:08.039] DATA: I am sorry, but I have no form of legal tender.
+[00:19:09.479 --> 00:19:10.839] BEGGAR: Well, we're in the same boat, huh?
+[00:19:11.559 --> 00:19:13.719] BEGGAR: Well, this is my street.
+[00:19:14.359 --> 00:19:16.039] BEGGAR: You'll have to go find one of your own.
+[00:19:17.319 --> 00:19:21.159] DATA: I would be happy to do so, but I am presently in need of information.
+[00:19:22.919 --> 00:19:25.239] BEGGAR: Stockbrokers are cheap as hell.
+[00:19:25.879 --> 00:19:27.159] BEGGAR: Don't even bother to ask.
+[00:19:27.719 --> 00:19:30.519] BEGGAR: Your best handout is from a young fella
+[00:19:30.886 --> 00:19:34.886] BEGGAR: with his lady. You give him a chance to show her he's generous.
+[00:19:36.166 --> 00:19:38.246] BEGGAR: Steer clear of sailors.
+[00:19:38.726 --> 00:19:42.486] BEGGAR: Most likely you'll get a fist across the jaw for your trouble.
+[00:19:43.686 --> 00:19:45.046] DATA: Thank you for your advice, but
+[00:19:45.286 --> 00:19:47.526] DATA: I'm trying to find two individuals with a snake.
+[00:19:48.806 --> 00:19:49.526] BEGGAR: A snake?
+[00:19:51.126 --> 00:19:52.806] BEGGAR: You're an odd fellow, aren't you?
+[00:19:53.766 --> 00:19:57.446] BEGGAR: But just don't be too particular where you get your funds from.
+[00:19:59.206 --> 00:20:02.566] DATA: You are in need of medical attention.
+[00:20:02.646 --> 00:20:03.446] DATA: I will get a doctor.
+[00:20:03.686 --> 00:20:05.526] BEGGAR: No, no, no, it's too late for that.
+[00:20:06.646 --> 00:20:10.006] BEGGAR: Could you help out a Forty Niner?
+[00:20:21.206 --> 00:20:21.686] BELLBOY: Thanks.
+[00:20:25.766 --> 00:20:27.286] BELLBOY: Hey, put it on Gentleman Jim.
+[00:20:27.926 --> 00:20:28.566] BELLBOY: Knockout in the fifth.
+[00:20:29.206 --> 00:20:30.219] MAN: All right.
+[00:20:30.219 --> 00:20:30.726] DATA: Sir,
+[00:20:31.606 --> 00:20:32.886] DATA: I need temporary lodging.
+[00:20:33.926 --> 00:20:36.086] BELLBOY: Looks like the missus booted you out in the middle of the night.
+[00:20:37.926 --> 00:20:40.246] DATA: I understand the source of your misperception.
+[00:20:40.726 --> 00:20:43.446] DATA: However, this is not sleepware and I do not have a missus.
+[00:20:43.846 --> 00:20:44.166] BELLBOY: Well.
+[00:20:46.486 --> 00:20:47.206] DATA: I am a Frenchman.
+[00:20:47.926 --> 00:20:49.846] BELLBOY: Oh. Well, everybody's from somewhere.
+[00:20:50.166 --> 00:20:51.686] BELLBOY: That doesn't matter at this hotel.
+[00:20:52.006 --> 00:20:54.006] BELLBOY: It's six bits a day or four dollars a week.
+[00:20:55.126 --> 00:20:55.846] DATA: I have no money.
+[00:20:56.166 --> 00:20:57.366] BELLBOY: Well, now, that matters.
+[00:20:57.686 --> 00:20:58.566] DATA: But I am capable of
+[00:20:58.580 --> 00:21:01.380] DATA: performing significant tasks both mental and physical.
+[00:21:02.340 --> 00:21:04.340] DATA: Perhaps your hotel would offer me a job.
+[00:21:04.740 --> 00:21:05.860] BELLBOY: Geez, I don't know.
+[00:21:06.340 --> 00:21:07.620] BELLBOY: We're pretty happy with the maid we've got.
+[00:21:08.340 --> 00:21:08.980] BELLBOY: Cook's decent.
+[00:21:09.620 --> 00:21:12.100] BELLBOY: Dishwasher's drunk all day, but at least he gets here on time.
+[00:21:12.740 --> 00:21:13.940] BELLBOY: And there's me.
+[00:21:14.420 --> 00:21:15.380] BELLBOY: I do everything else.
+[00:21:16.420 --> 00:21:21.380] BELLBOY: Sorry. Lady Luck not with ya, tonight, Mister Lane?
+[00:21:22.980 --> 00:21:25.780] BELLBOY: Poor fella. Hasn't filled a straight in five weeks.
+[00:21:27.140 --> 00:21:27.460] DATA: Poker?
+[00:21:36.740 --> 00:21:37.380] GAMBLER: Fold.
+[00:21:38.820 --> 00:21:39.300] MAN: Me too.
+[00:21:39.300 --> 00:21:39.300] SEAMAN: Go to
+[00:21:46.500 --> 00:21:47.220] SEAMAN: blazes.
+[00:21:47.620 --> 00:21:47.700] GAMBLER: A
+[00:21:49.620 --> 00:21:52.020] GAMBLER: poker face carved in marble.
+[00:21:53.540 --> 00:21:54.500] DATA: Excuse me, gentlemen.
+[00:21:55.140 --> 00:21:56.180] SEAMAN: What in hell do you want?
+[00:21:56.820 --> 00:21:57.860] DATA: I would like to join the game.
+[00:21:58.980 --> 00:22:00.740] NATIVE: Pale face.
+[00:22:01.300 --> 00:22:03.380] SEAMAN: I don't like Easterners, personally.
+[00:22:04.260 --> 00:22:05.060] DATA: I am a Frenchman.
+[00:22:05.460 --> 00:22:09.620] GAMBLER: Ah. Mes parents sont originaires de Bourgonais.
+[00:22:10.740 --> 00:22:12.980] GAMBLER: Je suis ne a la New Orleans.
+[00:22:13.700 --> 00:22:14.100] DATA: Alors,
+[00:22:14.900 --> 00:22:15.860] DATA: nous sommes presque frères.
+[00:22:16.260 --> 00:22:17.220] DATA: Je suis heureux de vous connaitre.
+[00:22:20.500 --> 00:22:21.060] GAMBLER: Please, sir.
+[00:22:27.060 --> 00:22:28.100] GAMBLER: The game is poker.
+[00:22:28.740 --> 00:22:29.940] GAMBLER: The deal is yours.
+[00:22:30.580 --> 00:22:32.500] GAMBLER: The ante is four bits.
+[00:22:38.980 --> 00:22:39.892] GAMBLER: Family heirloom?
+[00:22:39.892 --> 00:22:47.188] DATA: In a manner of speaking. It is a crystalline composite of silicon, beryllium, Carbon seventy, and
+[00:22:47.188 --> 00:22:47.644] SEAMAN: Gold.
+[00:22:47.644 --> 00:22:48.100] DATA: Gold.
+[00:22:55.620 --> 00:22:57.780] GAMBLER: I'll give you three bucks for it.
+[00:23:00.740 --> 00:23:01.300] DATA: I accept.
+[00:23:04.820 --> 00:23:04.820] BELLBOY: Did
+[00:23:13.380 --> 00:23:14.580] BELLBOY: you see the looks on their faces?
+[00:23:15.140 --> 00:23:16.420] BELLBOY: I did everything I could not to laugh.
+[00:23:17.300 --> 00:23:18.180] DATA: To whom are you referring?
+[00:23:18.660 --> 00:23:20.580] BELLBOY: Frederick La Rouque and Joe Falling Hawk.
+[00:23:21.300 --> 00:23:22.580] BELLBOY: Those guys are card sharks.
+[00:23:23.220 --> 00:23:25.700] BELLBOY: Oh sure, they play easy at first not to scare off the marks,
+[00:23:25.700 --> 00:23:32.740] BELLBOY: but you give them a little time, they'll bleed a man dry. Especially an out-of-towner like yourself..
+[00:23:33.860 --> 00:23:35.780] DATA: What was the source of your jocular reaction?
+[00:23:39.780 --> 00:23:41.060] DATA: What was it you found humorous?
+[00:23:41.460 --> 00:23:42.660] BELLBOY: Don't you see?
+[00:23:43.140 --> 00:23:44.260] BELLBOY: They had you pegged for a sap.
+[00:23:44.900 --> 00:23:48.580] BELLBOY: The clothes you got on, the way you talk, it's like you were born yesterday.
+[00:23:49.060 --> 00:23:49.780] BELLBOY: You sure fooled them, though.
+[00:23:50.500 --> 00:23:52.100] DATA: It was not my intention to deceive.
+[00:23:53.380 --> 00:23:53.940] BELLBOY: Have it your way.
+[00:23:54.868 --> 00:23:55.508] BELLBOY: This is the place.
+[00:23:55.508 --> 00:23:56.868] BELLBOY: Breakfast is six to eight.
+[00:23:57.108 --> 00:23:58.388] BELLBOY: Checkout's at noon when you're ready to leave.
+[00:24:00.068 --> 00:24:00.308] DATA: Thank you.
+[00:24:02.868 --> 00:24:03.588] DATA: It has been a pleasure.
+[00:24:04.000 --> 00:24:07.000] [throat clearing]
+[00:24:05.108 --> 00:24:08.948] DATA: It would be advisable to monitor that cough.
+[00:24:09.908 --> 00:24:12.868] DATA: I have read that there is currently a cholera epidemic in San Francisco.
+[00:24:13.588 --> 00:24:14.308] BELLBOY: Never felt better.
+[00:24:15.988 --> 00:24:16.308] DATA: Of
+[00:24:19.348 --> 00:24:21.108] DATA: course. The gratuity.
+[00:24:22.308 --> 00:24:23.508] DATA: Thank you for your assistance.
+[00:24:23.908 --> 00:24:24.388] BELLBOY: A dollar?
+[00:24:25.588 --> 00:24:28.788] BELLBOY: If there's anything you need. It can get lonely in San Francisco.
+[00:24:29.188 --> 00:24:30.068] BELLBOY: You might want some company.
+[00:24:30.068 --> 00:24:32.708] BELLBOY: I can introduce you to Lillian.
+[00:24:33.348 --> 00:24:34.788] DATA: I have no need for companionship.
+[00:24:35.348 --> 00:24:37.108] DATA: However I do require some supplies.
+[00:24:37.508 --> 00:24:39.428] BELLBOY: Anything you need. I can get it for you wholesale.
+[00:24:39.988 --> 00:24:43.348] BELLBOY: I can get it for you less than wholesale if you don't ask me where it came from.
+[00:24:46.868 --> 00:24:48.068] BELLBOY: What do you need all this stuff for?
+[00:24:49.188 --> 00:24:49.988] DATA: I am an inventor.
+[00:24:50.548 --> 00:24:51.028] BELLBOY: No kidding.
+[00:24:52.148 --> 00:24:53.828] BELLBOY: Well, this stuff's going to take a while.
+[00:24:54.308 --> 00:24:57.748] BELLBOY: I'll have to go clear cross town. And it's not going to be cheap.
+[00:25:01.348 --> 00:25:01.988] DATA: Will this be enough?
+[00:25:03.268 --> 00:25:03.908] BELLBOY: More than enough.
+[00:25:04.548 --> 00:25:06.388] DATA: You may retain the surplus for yourself.
+[00:25:07.108 --> 00:25:07.828] BELLBOY: Keep the change?
+[00:25:08.388 --> 00:25:08.868] DATA: Exactly.
+[00:25:09.748 --> 00:25:09.908] BELLBOY: Done.
+[00:25:16.868 --> 00:25:16.948] BEGGAR: Help
+[00:25:23.108 --> 00:25:24.068] BEGGAR: out
+[00:25:25.188 --> 00:25:25.188] BEGGAR: a
+[00:25:25.338 --> 00:25:26.338] BEGGAR: Forty Niner.
+[00:25:27.033 --> 00:25:28.833] BEGGAR: Fell down a shaft.
+[00:25:30.574 --> 00:25:31.374] BEGGAR: Forty Niner.
+[00:25:34.066 --> 00:25:36.066] BEGGAR: Help
+[00:25:38.760 --> 00:25:40.760] BEGGAR: me.
+[00:25:43.454 --> 00:25:45.454] BEGGAR: Help
+[00:25:48.146 --> 00:25:50.146] BEGGAR: me
+[00:25:52.494 --> 00:25:52.494] BEGGAR: out.
+[00:25:53.294 --> 00:25:53.374] BEGGAR: No. No.
+[00:26:11.054 --> 00:26:12.173] LOG: Captain's log, supplemental.
+[00:26:12.814 --> 00:26:16.574] LOG: Close range sensor analysis has yielded no further trace of Commander Data.
+[00:26:17.294 --> 00:26:21.774] LOG: Despite the emotional repercussions among my crew, I must move this mission forward.
+[00:26:22.094 --> 00:26:24.574] RIKER: I'm not willing to accept that he's dead and just leave it at that.
+[00:26:24.654 --> 00:26:26.654] PICARD: We cannot make Mister Data our priority.
+[00:26:26.814 --> 00:26:28.014] RIKER: What is more important than Data?
+[00:26:28.574 --> 00:26:29.933] TROI: Look at what we have so far.
+[00:26:30.574 --> 00:26:33.774] TROI: Evidence that these aliens have been travelling back in time to Earth.
+[00:26:34.334 --> 00:26:36.894] CRUSHER: What if they're trying to undermine our history for some reason.
+[00:26:37.693 --> 00:26:38.814] WORF: Some kind of guerilla war?
+[00:26:39.534 --> 00:26:41.374] PICARD: We must assume that there is a threat,
+[00:26:41.854 --> 00:26:43.693] PICARD: if not to us then to 19th century Earth.
+[00:26:44.334 --> 00:26:46.014] PICARD: We have to determine what that threat may be.
+[00:26:46.014 --> 00:26:49.534] PICARD: Mister La Forge, we have to find some way to communicate with these life forms.
+[00:26:49.774 --> 00:26:51.854] LAFORGE: It's not going to be easy to reproduce what Data did.
+[00:26:52.654 --> 00:26:57.614] LAFORGE: We can create a contained subspace field, but we'd need an extraordinarily sensitive phase discriminator to get that
+[00:26:57.614 --> 00:26:59.214] LAFORGE: point zero zero four variance.
+[00:26:59.534 --> 00:27:00.094] PICARD: Can you build one?
+[00:27:00.244 --> 00:27:00.844] LAFORGE: It
+[00:27:02.771 --> 00:27:03.731] LAFORGE: won't be as good as Data's.
+[00:27:03.731 --> 00:27:05.171] RIKER: Will it be good enough?
+[00:27:05.651 --> 00:27:05.971] LAFORGE: I don't know.
+[00:27:05.971 --> 00:27:06.451] LAFORGE: I can try.
+[00:27:07.011 --> 00:27:07.891] LAFORGE: It's going to take some time though.
+[00:27:08.451 --> 00:27:10.291] PICARD: I don't want anyone else going in alone.
+[00:27:10.531 --> 00:27:17.411] LAFORGE: I can probably create a large enough subspace field to encompass everyone. But adjusting the phase inside the field, that's going to be the hard part.
+[00:27:17.971 --> 00:27:18.451] PICARD: Make it so.
+[00:27:20.851 --> 00:27:22.051] RIKER: We have to assume one thing, sir.
+[00:27:22.771 --> 00:27:24.771] RIKER: Wherever Data may be, he's doing the same thing we are,
+[00:27:24.931 --> 00:27:26.291] RIKER: which is trying to get to the bottom of this.
+[00:27:26.691 --> 00:27:31.251] RIKER: He may have a better idea about what's going on than we do, so it might be in the best interests of this mission to find him.
+[00:27:31.811 --> 00:27:33.731] PICARD: Perhaps in the course of this investigation, we will.
+[00:27:33.971 --> 00:27:34.451] PICARD: I hope so.
+[00:27:36.771 --> 00:27:40.851] WORF: If we find Commander Data, it may be our fate to die with him in the past.
+[00:27:41.971 --> 00:27:46.051] WORF: If our remains are in that cavern, they would have turned to dust long ago.
+[00:28:01.411 --> 00:28:02.371] PICARD: I'm afraid to interrupt.
+[00:28:03.891 --> 00:28:04.371] GUINAN: Captain,
+[00:28:05.171 --> 00:28:06.611] GUINAN: you didn't have to come all the way down here.
+[00:28:06.611 --> 00:28:08.531] GUINAN: I would've been more than happy to come up to you.
+[00:28:09.171 --> 00:28:09.971] PICARD: And miss all this?
+[00:28:11.731 --> 00:28:16.131] PICARD: I haven't seen such a complex operation since the Academy lab final in exochemistry.
+[00:28:17.331 --> 00:28:19.651] GUINAN: It's a Tzartak aperitif.
+[00:28:19.651 --> 00:28:20.611] GUINAN: It's very, very touchy.
+[00:28:21.891 --> 00:28:25.491] GUINAN: The trick is to change the evaporation point of the main ingredient.
+[00:28:25.891 --> 00:28:31.331] GUINAN: You want the temperature where the liquid goes to vapour to be a half a degree below the body temperature of the customer.
+[00:28:32.131 --> 00:28:35.091] GUINAN: That way, when the liquid touches the tongue, it evaporates,
+[00:28:35.025 --> 00:28:38.465] GUINAN: and the flavour is carried entirely by the vapour.
+[00:28:39.105 --> 00:28:45.265] GUINAN: A few molecules off, the vapour point crashes, and poof! It's all gone. All of it.
+[00:28:48.145 --> 00:28:49.345] PICARD: What is it you wanted to see me about?
+[00:28:50.865 --> 00:28:53.425] GUINAN: I hear you're sending an away team down to the surface.
+[00:28:55.265 --> 00:28:55.985] GUINAN: Are you going?
+[00:28:59.665 --> 00:29:04.385] PICARD: Well, now, this is rather unusual for you to be curious about an away mission.
+[00:29:04.385 --> 00:29:05.825] GUINAN: Maybe it's an unusual away mission.
+[00:29:08.625 --> 00:29:10.145] PICARD: If you have something to say, I'm listening.
+[00:29:11.345 --> 00:29:14.465] GUINAN: Starfleet captains don't usually accompany away teams.
+[00:29:16.065 --> 00:29:16.945] PICARD: It's general policy.
+[00:29:17.825 --> 00:29:18.865] GUINAN: This time, you have to.
+[00:29:21.105 --> 00:29:21.265] PICARD: Why?
+[00:29:23.025 --> 00:29:24.065] GUINAN: You just do.
+[00:29:27.425 --> 00:29:27.505] GUINAN: Do
+[00:29:30.785 --> 00:29:31.905] GUINAN: you remember the first time we met?
+[00:29:33.025 --> 00:29:33.505] PICARD: Of course.
+[00:29:34.785 --> 00:29:35.505] GUINAN: Don't be so sure.
+[00:29:37.905 --> 00:29:41.505] GUINAN: I just mean, if you don't go on this mission,
+[00:29:45.985 --> 00:29:46.705] GUINAN: we'll never meet.
+[00:30:16.526 --> 00:30:17.726] BELLBOY: Sorry it took so long, Mister Data.
+[00:30:18.286 --> 00:30:19.566] DATA: Apology is not necessary.
+[00:30:23.246 --> 00:30:25.246] DATA: Ow.
+[00:30:25.246 --> 00:30:26.366] BELLBOY: Are you all right?
+[00:30:27.406 --> 00:30:29.086] DATA: I believe I have overexerted myself.
+[00:30:29.166 --> 00:30:29.966] BELLBOY: Yeah, I'll say.
+[00:30:31.326 --> 00:30:33.326] BELLBOY: Did you get it working?
+[00:30:33.726 --> 00:30:34.126] DATA: Yes.
+[00:30:34.766 --> 00:30:35.726] BELLBOY: Whatever it is.
+[00:30:35.726 --> 00:30:37.326] DATA: This is for your trouble.
+[00:30:38.846 --> 00:30:39.886] BELLBOY: What are you going to do with the anvil?
+[00:30:41.166 --> 00:30:43.886] DATA: I require a low intensity magnetic field core.
+[00:30:44.366 --> 00:30:46.526] DATA: I believe the iron mass of the anvil will provide that.
+[00:30:48.046 --> 00:30:49.726] BELLBOY: What's it going to be when it's finished?
+[00:30:51.566 --> 00:30:53.086] DATA: What do you think it is going to be?
+[00:30:54.446 --> 00:30:58.926] BELLBOY: If I were to guess, maybe a new kind of motor for one of those horseless carriages.
+[00:31:01.166 --> 00:31:02.046] DATA: That is a good guess.
+[00:31:02.526 --> 00:31:02.926] BELLBOY: Hot damn.
+[00:31:03.566 --> 00:31:05.006] BELLBOY: You really think there's money in those things?
+[00:31:05.646 --> 00:31:06.206] DATA: Perhaps.
+[00:31:06.206 --> 00:31:06.766] BELLBOY: Isn't that
+[00:31:08.526 --> 00:31:09.646] BELLBOY: what makes America great?
+[00:31:09.646 --> 00:31:11.566] DATA: To what are you referring?
+[00:31:12.286 --> 00:31:18.606] BELLBOY: Well, a man rides into town in his pajamas, wins a grub stake at a poker table, turns it into a horseless carriage and makes a million bucks.
+[00:31:19.166 --> 00:31:19.726] BELLBOY: That's America.
+[00:31:21.486 --> 00:31:23.326] DATA: I believe I have given you an erroneous impression.
+[00:31:24.206 --> 00:31:27.166] BELLBOY: You know, some day my ship's going to come in.
+[00:31:28.686 --> 00:31:29.246] DATA: You have a ship?
+[00:31:29.646 --> 00:31:31.566] BELLBOY: Oh yeah, and it's full of gold too.
+[00:31:31.966 --> 00:31:35.406] BELLBOY: I'm just biding my time til it gets here, raising a stake any way I can.
+[00:31:36.926 --> 00:31:39.086] BELLBOY: I've been a newsie, cut fish at a cannery.
+[00:31:39.984 --> 00:31:41.344] BELLBOY: Heck, I've even been an oyster pirate.
+[00:31:42.064 --> 00:31:44.224] DATA: You have had a considerable spectrum of occupations.
+[00:31:44.544 --> 00:31:46.224] BELLBOY: Yeah, well, you can't stay in one place too long.
+[00:31:46.544 --> 00:31:47.984] BELLBOY: I'm always looking for the angle, you know.
+[00:31:49.744 --> 00:31:54.544] BELLBOY: Say, maybe you and I could go into business together, selling your horseless carriage and all.
+[00:31:55.264 --> 00:31:56.704] BELLBOY: You invent them, I sell them.
+[00:31:57.584 --> 00:31:58.864] BELLBOY: I can sell anybody anything.
+[00:31:59.664 --> 00:32:00.224] BELLBOY: What do you say?
+[00:32:03.344 --> 00:32:04.944] DATA: I believe your plan is a bit premature.
+[00:32:05.664 --> 00:32:07.984] BELLBOY: Keep it in mind, though.
+[00:32:10.544 --> 00:32:11.184] BELLBOY: I better get back.
+[00:32:14.064 --> 00:32:15.184] BELLBOY: Oh, I forgot.
+[00:32:15.984 --> 00:32:17.424] BELLBOY: I got you something at the bakery on Third.
+[00:32:17.984 --> 00:32:19.504] DATA: Thank you, Jack.
+[00:32:19.984 --> 00:32:22.544] BELLBOY: Oh, no, no, no. It's on me, partner.
+[00:32:43.264 --> 00:32:55.024] CLEMENS: The eminent scientist Alfred Russell Wallace has revived the theory that Earth is at the centre of the stellar universe.
+[00:32:59.504 --> 00:33:03.984] CLEMENS: This distinguished natural
+[00:33:06.197 --> 00:33:14.677] CLEMENS: philosopher has reaffirmed our planet as the only habitable globe in the heavens.
+[00:33:15.957 --> 00:33:21.077] CLEMENS: A world, furthermore, constructed for the sole benefit of man.
+[00:33:24.677 --> 00:33:27.237] CLEMENS: He's got a lot of folks excited about the notion.
+[00:33:28.837 --> 00:33:32.277] GUINAN: My dear Mister Clemens, why do I think you're not one of them?
+[00:33:32.757 --> 00:33:38.437] CLEMENS: Your suspicions, Madam Guinan, are undoubtedly based upon your keen observational skills.
+[00:33:38.677 --> 00:33:46.117] CLEMENS: Now, if you'll permit me, I'll continue my character assassination unimpeded.
+[00:33:47.157 --> 00:33:50.677] GUINAN: My dear Mister Clemens, please do. Please do.
+[00:33:51.317 --> 00:33:57.877] CLEMENS: According to our best geologic estimate, the Earth is approximately one hundred million years of age.
+[00:33:58.197 --> 00:34:00.117] CLEMENS: Perhaps it is less, perhaps more.
+[00:34:00.117 --> 00:34:01.717] GUINAN: Perhaps a great deal more.
+[00:34:03.397 --> 00:34:08.357] CLEMENS: Indeed. But regardless, it is ancient in the extreme.
+[00:34:09.317 --> 00:34:17.957] CLEMENS: Now, geology also tells us that man himself has existed for but a microscopic fraction of those years.
+[00:34:20.997 --> 00:34:21.317] CLEMENS: Curious, isn't it,
+[00:34:24.437 --> 00:34:30.997] CLEMENS: that the world got by for such a great long while with no humans around
+[00:34:31.195 --> 00:34:35.275] CLEMENS: to fill up space? I suppose
+[00:34:36.075 --> 00:34:45.435] CLEMENS: Mister Wallace and his supporters would say that the Earth needed all that time to prepare itself for our illustrious arrival.
+[00:34:45.585 --> 00:34:46.185] CLEMENS: Why,
+[00:34:47.195 --> 00:34:55.275] CLEMENS: the oyster alone probably required fifteen million years to get it to come out just right.
+[00:34:57.675 --> 00:35:03.115] GUINAN: But if the Earth is not alone, and there are millions of inhabited planets in the heavens.
+[00:35:03.115 --> 00:35:04.075] CLEMENS: Quite my point.
+[00:35:04.555 --> 00:35:08.075] CLEMENS: Man becomes a trivial creation, does he not?
+[00:35:08.715 --> 00:35:22.155] CLEMENS: Lost in the vastness of the cosmic prairie, adrift on the deep ocean of time. A single one among countless others.
+[00:35:22.795 --> 00:35:29.595] GUINAN: Someone may argue that a diamond is still a diamond, even if it is one amongst millions.
+[00:35:29.835 --> 00:35:31.275] GUINAN: It still shines as brightly.
+[00:35:31.915 --> 00:35:39.435] CLEMENS: Someone might say that, dear lady, if someone thought that the human race was akin to a precious jewel.
+[00:35:40.955 --> 00:35:41.355] CLEMENS: But this
+[00:35:42.955 --> 00:35:46.075] CLEMENS: increasingly hypothetical someone
+[00:35:47.595 --> 00:35:48.715] CLEMENS: would not be me.
+[00:35:49.595 --> 00:35:51.595] DOORMAN: Good
+[00:35:53.595 --> 00:35:54.315] DOORMAN: afternoon, sir.
+[00:35:54.635 --> 00:35:55.115] DATA: Good afternoon.
+[00:35:55.915 --> 00:35:57.035] DATA: I would like to speak to Guinan.
+[00:35:57.275 --> 00:35:59.035] DOORMAN: And you are?
+[00:35:59.035 --> 00:35:59.622] DATA: Data.
+[00:35:59.622 --> 00:36:00.795] DOORMAN: Mister Data.
+[00:36:02.475 --> 00:36:03.755] DOORMAN: Could it be under another name?
+[00:36:04.555 --> 00:36:04.715] DATA: No.
+[00:36:06.243 --> 00:36:08.403] DOORMAN: I can't seem to find your name on the guest list, sir.
+[00:36:08.403 --> 00:36:09.843] DATA: I am a personal friend.
+[00:36:10.323 --> 00:36:14.803] DOORMAN: Madam Guinan has discovered many personal friends since the newspaper announcement,
+[00:36:14.803 --> 00:36:17.923] DOORMAN: but if your name is not on the guest list, there's nothing I can do.
+[00:36:18.883 --> 00:36:20.447] DATA: It is urgent that I speak to her.
+[00:36:20.447 --> 00:36:20.643] DOORMAN: Sir,
+[00:36:20.963 --> 00:36:24.323] DOORMAN: unless you leave this house immediately, I will send for the police.
+[00:36:25.363 --> 00:36:26.483] DATA: That is an excellent idea.
+[00:36:27.123 --> 00:36:29.433] DATA: I will wait for them in there.
+[00:36:29.433 --> 00:36:29.763] DOORMAN: Sir,
+[00:36:29.763 --> 00:36:31.889] DOORMAN: please, you can't go in there.
+[00:36:31.889 --> 00:36:32.243] DATA: Guinan!
+[00:36:33.443 --> 00:36:33.443] DATA: Excuse me. I
+[00:36:35.843 --> 00:36:36.883] DATA: must speak to you immediately.
+[00:36:36.883 --> 00:36:37.523] DOORMAN: Forgive me, madam.
+[00:36:37.523 --> 00:36:38.483] DOORMAN: He just barged right in.
+[00:36:38.723 --> 00:36:42.083] DATA: I am sorry for the disruption, but he would not believe me when I told him we were friends.
+[00:36:42.963 --> 00:36:45.696] GUINAN: Do I know you, Mister?
+[00:36:45.696 --> 00:36:46.243] DATA: Data.
+[00:36:47.363 --> 00:36:49.683] DATA: Yes. We were on a ship together.
+[00:36:51.363 --> 00:36:52.483] GUINAN: I do so much travelling.
+[00:36:52.483 --> 00:36:53.843] GUINAN: What ship would that be?
+[00:36:54.723 --> 00:36:55.443] DATA: The Enterprise.
+[00:36:56.003 --> 00:36:56.803] GUINAN: Is that a clipper ship?
+[00:36:58.243 --> 00:36:59.123] DATA: It is a starship.
+[00:36:59.443 --> 00:37:00.163] CLEMENS: A starship?
+[00:37:00.803 --> 00:37:02.083] CLEMENS: What registry would that be?
+[00:37:02.083 --> 00:37:04.403] GUINAN: Of course! Mister Data.
+[00:37:04.553 --> 00:37:05.553] GUINAN: Excuse us.
+[00:37:07.043 --> 00:37:08.243] GUINAN: We have so much to catch up on.
+[00:37:08.483 --> 00:37:11.283] GUINAN: Excuse us. How are you?
+[00:37:14.163 --> 00:37:14.243] GUINAN: What
+[00:37:16.243 --> 00:37:17.203] GUINAN: exactly are you?
+[00:37:17.843 --> 00:37:19.843] DATA: Android. Artificial life form.
+[00:37:19.993 --> 00:37:20.593] GUINAN: Ah.
+[00:37:22.483 --> 00:37:23.763] GUINAN: Did my father send you here?
+[00:37:24.083 --> 00:37:26.723] GUINAN: Because if he did, you must go back and tell him I've not done listening
+[00:37:26.723 --> 00:37:28.003] DATA: I was not sent by your father.
+[00:37:28.883 --> 00:37:31.443] DATA: Circumstances demand that I take you into my confidence.
+[00:37:31.683 --> 00:37:32.883] DATA: I require your assistance.
+[00:37:33.843 --> 00:37:34.083] GUINAN: Sorry.
+[00:37:34.643 --> 00:37:37.683] DATA: I am from the twenty fourth century, where you and I serve aboard a starship.
+[00:37:39.861 --> 00:37:40.232] GUINAN: And?
+[00:37:40.232 --> 00:37:45.061] DATA: Our ship encountered a species who appears to be threatening 19th century Earth.
+[00:37:45.541 --> 00:37:48.741] DATA: I investigated, and was inadvertently pulled into their temporal vortex.
+[00:37:50.661 --> 00:37:56.341] DATA: When I saw your photograph in the newspaper, I assumed you had joined me from the future, from the Enterprise.
+[00:37:57.381 --> 00:38:01.621] DATA: I knew your species was long-lived, but I did not realise you had visited Earth so long ago.
+[00:38:10.181 --> 00:38:13.941] CLEMENS: Eavesdropping is by no means a proper activity for a gentleman.
+[00:38:15.061 --> 00:38:18.581] CLEMENS: Nonetheless, the deed is done.
+[00:38:24.261 --> 00:38:27.301] LOG: Captain's log, stardate 45965.3.
+[00:38:28.021 --> 00:38:33.541] LOG: An away team has beamed to the surface with a device which may enable them to phase-shift into the alien world.
+[00:38:36.501 --> 00:38:37.541] LAFORGE: Okay, Counsellor, right over there.
+[00:38:46.501 --> 00:38:48.901] CRUSHER: The triolic waves end right here.
+[00:38:50.421 --> 00:38:52.661] RIKER: Mister Worf?
+[00:39:10.981 --> 00:39:10.981] LAFORGE: Sir.
+[00:39:12.257 --> 00:39:13.217] PICARD: How soon will you be ready?
+[00:39:13.697 --> 00:39:14.817] LAFORGE: We're ready now, Captain.
+[00:39:15.057 --> 00:39:15.137] LAFORGE: The
+[00:39:19.137 --> 00:39:20.657] LAFORGE: subspace field is established.
+[00:39:21.777 --> 00:39:24.417] RIKER: I'd be more comfortable if you'd monitor our progress from the Bridge, Captain.
+[00:39:24.977 --> 00:39:27.457] PICARD: I have reason to believe that my presence on this mission is imperative.
+[00:39:28.097 --> 00:39:28.497] RIKER: Imperative?
+[00:39:28.817 --> 00:39:31.726] PICARD: Yes. Mister Worf, you will report back to the Bridge.
+[00:39:31.726 --> 00:39:32.017] WORF: Sir,
+[00:39:33.617 --> 00:39:35.777] WORF: as Chief of Security, my place is at your side.
+[00:39:36.257 --> 00:39:38.737] PICARD: The security of the Enterprise is of paramount importance, Mister Worf.
+[00:39:41.217 --> 00:39:41.457] WORF: Yes, sir.
+[00:39:43.617 --> 00:39:44.497] WORF: Worf to Enterprise.
+[00:39:45.137 --> 00:39:45.617] CREWMAN: Go ahead.
+[00:39:47.377 --> 00:39:47.777] WORF: Beam me up.
+[00:39:50.817 --> 00:39:51.537] PICARD: Proceed, Mister La Forge.
+[00:39:57.537 --> 00:40:00.417] LAFORGE: I've modified this tricorder to interface with the subspace generator.
+[00:40:00.977 --> 00:40:04.497] LAFORGE: It should allow me to control the phase discrimination, assuming this is going to work at all.
+[00:40:06.257 --> 00:40:07.617] LAFORGE: I need everyone within the field.
+[00:40:16.337 --> 00:40:18.097] LAFORGE: Adjusting synchronic distortion.
+[00:40:19.537 --> 00:40:20.417] LAFORGE: Point zero zero one.
+[00:40:23.697 --> 00:40:25.057] LAFORGE: Point zero zero two.
+[00:40:27.377 --> 00:40:28.657] LAFORGE: Point zero zero three.
+[00:40:28.817 --> 00:40:30.897] LAFORGE: Point zero zero four.
+[00:40:43.371 --> 00:40:45.051] PICARD: If we can see them, why they can't see us?
+[00:40:45.931 --> 00:40:48.891] LAFORGE: The phase displacement might not bring us far enough into their perceptual range.
+[00:40:54.891 --> 00:40:59.691] CRUSHER: These strands appear to be biomagnetic. Variable flux. Possibly organic in origin.
+[00:41:01.051 --> 00:41:01.691] PICARD: A life form.
+[00:41:06.011 --> 00:41:06.331] TROI: No.
+[00:41:08.091 --> 00:41:09.051] TROI: There is no life here.
+[00:41:17.931 --> 00:41:22.651] TROI: What I have sensed is more like an imprint.
+[00:41:25.851 --> 00:41:27.691] TROI: An echo of the last moment of
+[00:41:30.651 --> 00:41:32.811] TROI: life. Human life.
+[00:41:35.611 --> 00:41:36.811] TROI: They all died in terror
+[00:41:54.331 --> 00:41:56.811] RIKER: My God.
+[00:41:57.611 --> 00:42:01.691] RIKER: They're delivering more of them for the others to ingest.
+[00:42:03.051 --> 00:42:03.931] TROI: Look at what he's carrying.
+[00:42:49.000 --> 00:43:08.000] [music]
+[00:43:09.000 --> 00:43:38.000] [music]

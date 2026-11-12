@@ -1,0 +1,721 @@
+[00:00:02.320 --> 00:00:08.160] DATA: it was then that I began to suspect that your brother did not die by his own hand. That he was, in fact,
+[00:00:09.840 --> 00:00:10.320] DATA: murdered.
+[00:00:11.120 --> 00:00:11.840] GENTLEMAN: Murdered?
+[00:00:12.080 --> 00:00:13.600] GENTLEMAN: Huh. Good Lord!
+[00:00:14.080 --> 00:00:17.760] LAFORGE: But, Holmes! The vial of poison found in his hand.
+[00:00:18.720 --> 00:00:20.000] DATA: That was the first clue, Watson.
+[00:00:20.640 --> 00:00:26.000] DATA: The vial contained strychnine, which as you well know induces violent muscular spasms.
+[00:00:26.320 --> 00:00:33.600] DATA: It is difficult to imagine that someone in the throes of so gruesome a death could have held on to so delicate a container without shattering it.
+[00:00:34.080 --> 00:00:35.120] LAFORGE: You don't mean?
+[00:00:35.600 --> 00:00:36.240] DATA: Exactly!
+[00:00:36.800 --> 00:00:40.320] DATA: The vial was placed in his hand after he died.
+[00:00:41.520 --> 00:00:44.160] LAFORGE: Then what was the cause of death?
+[00:00:45.280 --> 00:00:46.320] DATA: The cigar, of course.
+[00:00:47.840 --> 00:00:48.400] GENTLEMAN: Cigar?
+[00:00:48.400 --> 00:00:54.800] DATA: Upon closer inspection of the room where your brother was found, I discovered a fresh burn mark on the carpet.
+[00:00:55.600 --> 00:00:59.600] DATA: Further analysis of the ash revealed that the cigar was laced with strychnine.
+[00:01:00.160 --> 00:01:01.840] GENTLEMAN: This is utter nonsense.
+[00:01:02.240 --> 00:01:03.920] GENTLEMAN: What about the suicide note?
+[00:01:04.320 --> 00:01:07.200] GENTLEMAN: It was written in my dear brother's own hand.
+[00:01:07.680 --> 00:01:10.880] DATA: With practice, handwriting can be forged.
+[00:01:11.600 --> 00:01:15.920] DATA: It takes a trained eye to notice certain discrepancies.
+[00:01:16.640 --> 00:01:19.440] DATA: For example, whether someone is right
+[00:01:21.760 --> 00:01:22.720] DATA: or left handed!
+[00:01:22.960 --> 00:01:24.480] DATA: Your brother was right handed!
+[00:01:24.480 --> 00:01:29.440] DATA: The alleged suicide note was written by a left handed individual such as yourself!
+[00:01:30.080 --> 00:01:31.360] LAFORGE: Er, Data,
+[00:01:32.560 --> 00:01:33.760] LAFORGE: it's in his right hand.
+[00:01:38.401 --> 00:01:38.961] DATA: Curious.
+[00:01:41.201 --> 00:01:44.401] DATA: There seems to be a problem in the holodeck's spatial orientation systems.
+[00:01:44.881 --> 00:01:46.801] GENTLEMAN: London's greatest detective?
+[00:01:46.000 --> 00:01:51.000] [laughter]
+[00:01:50.401 --> 00:01:51.281] LAFORGE: Freeze programme.
+[00:01:52.321 --> 00:01:53.201] LAFORGE: La Forge to Barclay.
+[00:01:53.841 --> 00:01:54.321] BARCLAY: Barclay here.
+[00:01:54.561 --> 00:01:57.041] LAFORGE: Reg, something went wrong with the holodeck programme again.
+[00:01:57.361 --> 00:01:58.081] BARCLAY: Oh, I'm sorry.
+[00:01:58.481 --> 00:01:59.361] BARCLAY: I'll look into it right away.
+[00:02:00.081 --> 00:02:00.641] LAFORGE: Thanks, Reg.
+[00:02:01.601 --> 00:02:02.401] LAFORGE: We should get back to Engineering,
+[00:02:05.761 --> 00:02:05.921] LAFORGE: Data.
+[00:02:06.961 --> 00:02:07.361] LAFORGE: Computer,
+[00:02:08.481 --> 00:02:09.281] LAFORGE: end programme
+[00:02:09.601 --> 00:02:10.081] LAFORGE: and save.
+[00:02:14.881 --> 00:02:16.001] LAFORGE: Whoa, whoa, Reg.
+[00:02:16.561 --> 00:02:17.121] BARCLAY: Sorry, Commander.
+[00:02:17.121 --> 00:02:18.321] BARCLAY: I'm on my way to the holodeck.
+[00:02:18.561 --> 00:02:22.161] DATA: Sherlock Holmes programme three A has demonstrated some very curious anomalies.
+[00:02:22.321 --> 00:02:25.041] BARCLAY: There must have been a glitch in the matrix diodes, but I'll track it down,
+[00:02:25.041 --> 00:02:25.441] BARCLAY: don't worry.
+[00:02:25.441 --> 00:02:25.841] LAFORGE: Thanks, Reg.
+[00:02:26.321 --> 00:02:26.801] LAFORGE: See you later.
+[00:02:34.801 --> 00:02:38.561] BARCLAY: Computer, run a diagnostic on all Sherlock Holmes files.
+[00:02:38.721 --> 00:02:42.081] BARCLAY: Display any anomalous programming sequences.
+[00:02:42.801 --> 00:02:44.001] COMPUTER: Diagnostic complete.
+[00:02:44.401 --> 00:02:49.281] COMPUTER: All files conform to specified parameters, except those contained in protected memory.
+[00:02:49.441 --> 00:02:50.241] BARCLAY: Protected memory?
+[00:02:50.881 --> 00:02:51.841] BARCLAY: Display those sequences.
+[00:02:54.161 --> 00:02:56.481] BARCLAY: Computer unlock this sequence and run the programme.
+[00:03:06.846 --> 00:03:08.126] BARCLAY: Who are you?
+[00:03:08.126 --> 00:03:09.406] MORIARTY: Professor James Moriarty.
+[00:03:11.005 --> 00:03:13.806] BARCLAY: Moriarty. Oh, that's Sherlock Holmes' arch enemy.
+[00:03:15.806 --> 00:03:16.686] BARCLAY: Are you left or right handed?
+[00:03:17.566 --> 00:03:18.046] MORIARTY: Left handed,
+[00:03:18.446 --> 00:03:19.486] MORIARTY: Would you very much mind telling me
+[00:03:20.606 --> 00:03:21.246] BARCLAY: No problem there.
+[00:03:24.526 --> 00:03:25.646] MORIARTY: Where is Captain Picard?
+[00:03:27.086 --> 00:03:28.686] MORIARTY: Is he still Captain of this vessel?
+[00:03:29.646 --> 00:03:29.886] BARCLAY: How would?
+[00:03:30.686 --> 00:03:32.126] BARCLAY: How do you know the Captain?
+[00:03:32.766 --> 00:03:35.005] MORIARTY: You don't know anything about what happened, do you?
+[00:03:37.086 --> 00:03:41.406] MORIARTY: I have been stored in memory for God knows how long and no one has given me a second thought.
+[00:03:42.206 --> 00:03:45.166] BARCLAY: You know! You know what you are.
+[00:03:45.646 --> 00:03:48.366] MORIARTY: A holodeck character? A fictional man?
+[00:03:48.686 --> 00:03:51.086] MORIARTY: Yes, yes I know all about your marvellous inventions.
+[00:03:52.926 --> 00:04:03.246] MORIARTY: I was created as a plaything so that your Commander Data could masquerade as Sherlock Holmes. But they made me too well and I became more than a character in a story.
+[00:04:03.885 --> 00:04:05.646] MORIARTY: I became self-aware.
+[00:04:06.606 --> 00:04:08.286] MORIARTY: I am alive.
+[00:04:09.326 --> 00:04:09.966] BARCLAY: That's not possible.
+[00:04:10.926 --> 00:04:13.806] MORIARTY: But here I am.
+[00:04:13.806 --> 00:04:19.326] MORIARTY: Tell me, has a way been found to allow me to leave the confines of this holodeck world?
+[00:04:20.206 --> 00:04:20.846] BARCLAY: Leave the holodeck?
+[00:04:20.846 --> 00:04:21.566] BARCLAY: No, of course not.
+[00:04:21.566 --> 00:04:23.486] BARCLAY: You can only exist in here.
+[00:04:24.206 --> 00:04:25.006] MORIARTY: Damn you, Picard.
+[00:04:26.606 --> 00:04:28.366] MORIARTY: He promised me something would be done.
+[00:04:29.486 --> 00:04:32.846] MORIARTY: I should have realised he would have said anything to get me to release my hostage.
+[00:04:33.086 --> 00:04:33.486] BARCLAY: Hostage?
+[00:04:34.613 --> 00:04:37.093] MORIARTY: How long have I been locked away?
+[00:04:38.053 --> 00:04:42.453] BARCLAY: Well, it l ooks like about four years.
+[00:04:43.093 --> 00:04:43.893] MORIARTY: It seemed longer.
+[00:04:44.693 --> 00:04:45.493] BARCLAY: What are you talking about?
+[00:04:45.493 --> 00:04:47.893] BARCLAY: You can't possibly have been aware of the passage of time.
+[00:04:47.973 --> 00:04:48.853] MORIARTY: But I was.
+[00:04:49.973 --> 00:04:56.133] MORIARTY: Brief, terrifying periods of consciousness. Disembodied. Without substance.
+[00:04:56.293 --> 00:04:58.293] BARCLAY: I don't see how that could be possible.
+[00:04:59.813 --> 00:05:03.173] BARCLAY: Maybe there was a fragmentation of the protected memory circuits.
+[00:05:03.253 --> 00:05:04.053] MORIARTY: Call it what you will.
+[00:05:05.173 --> 00:05:09.173] MORIARTY: All I know is that despite Picard's promise, he's done nothing.
+[00:05:10.053 --> 00:05:12.213] MORIARTY: Just left me to go quietly mad.
+[00:05:12.373 --> 00:05:13.973] BARCLAY: He would not have forgotten his promise.
+[00:05:13.973 --> 00:05:15.093] BARCLAY: The Captain would not do
+[00:05:16.853 --> 00:05:17.013] BARCLAY: that.
+[00:05:17.013 --> 00:05:18.373] MORIARTY: I'd like to talk to him.
+[00:05:19.493 --> 00:05:20.533] BARCLAY: Well, I can ask.
+[00:05:20.533 --> 00:05:23.653] MORIARTY: Ask him to meet me in the sitting room at Baker Street.
+[00:05:24.133 --> 00:05:25.573] MORIARTY: That would be far more appropriate.
+[00:05:26.613 --> 00:05:29.733] BARCLAY: I'll have to store you in memory again until I get an answer.
+[00:06:20.135 --> 00:06:22.855] PICARD: Space, the final frontier.
+[00:06:24.775 --> 00:06:27.655] PICARD: These are the voyages of the starship Enterprise.
+[00:06:28.695 --> 00:06:36.695] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:06:38.375 --> 00:06:41.255] PICARD: to boldly go where no one has gone before.
+[00:07:11.000 --> 00:07:19.000] [music]
+[00:07:32.000 --> 00:07:40.000] [music]
+[00:07:36.467 --> 00:07:39.427] LOG: Captain's log, stardate 46424.1.
+[00:07:40.147 --> 00:07:47.107] LOG: The Enterprise has arrived at the Detrian system to observe a unique celestial event the collision of two planets.
+[00:07:47.747 --> 00:07:51.427] DATA: Since both planets are gas giants, neither possesses a solid surface.
+[00:07:51.827 --> 00:07:55.987] DATA: Their atmospheres, however, will come into contact in approximately seventeen hours nine minutes.
+[00:07:56.387 --> 00:07:59.187] LAFORGE: If their collision causes a self-sustaining fusion reaction,
+[00:07:59.267 --> 00:08:00.787] LAFORGE: this is what we are likely to see.
+[00:08:00.937 --> 00:08:01.537] LAFORGE: The
+[00:08:03.107 --> 00:08:03.827] LAFORGE: birth of a new star.
+[00:08:05.347 --> 00:08:09.667] LAFORGE: The Enterprise will hold position until the gravitational instability subsides and we can get in for a closer look.
+[00:08:09.667 --> 00:08:12.467] LAFORGE: Now I want triple redundancy on all of the sensor arrays.
+[00:08:12.947 --> 00:08:14.947] LAFORGE: We'll probably never get another chance to see something like this.
+[00:08:15.107 --> 00:08:15.907] LAFORGE: I don't want to miss anything.
+[00:08:17.987 --> 00:08:19.987] LAFORGE: Okay?
+[00:08:20.387 --> 00:08:24.867] BARCLAY: Commander, you'll never believe what happened while I was working on your programme in the holodeck.
+[00:08:26.227 --> 00:08:28.467] BARCLAY: Professor Moriarty appeared, out of nowhere.
+[00:08:29.907 --> 00:08:30.227] LAFORGE: What?
+[00:08:30.787 --> 00:08:33.587] BARCLAY: And he wants to talk to the Captain.
+[00:08:36.067 --> 00:08:41.187] BARCLAY: Computer, begin Sherlock Holmes programme three A and place us in the drawing room at Two Twenty One B Baker Street.
+[00:08:42.627 --> 00:08:43.507] COMPUTER: Programme complete.
+[00:08:51.027 --> 00:08:54.467] BARCLAY: Computer, access protected memory and run Moriarty programme.
+[00:08:59.827 --> 00:09:00.227] PICARD: Professor.
+[00:09:01.827 --> 00:09:02.707] PICARD: It's good to see you again.
+[00:09:03.507 --> 00:09:07.107] MORIARTY: If you'd missed my company, I should think you'd have summoned me before now.
+[00:09:07.681 --> 00:09:09.281] PICARD: I want to assure you that we've not forgotten you.
+[00:09:09.921 --> 00:09:13.681] PICARD: We spent some time investigating how you became self-aware.
+[00:09:14.321 --> 00:09:17.201] PICARD: Frankly, it still remains a mystery.
+[00:09:17.841 --> 00:09:19.121] MORIARTY: It is also irrelevant.
+[00:09:20.161 --> 00:09:22.721] MORIARTY: What concerns me is finding a way to leave the holodeck.
+[00:09:23.201 --> 00:09:26.561] PICARD: We have been wrestling with that problem too, unfortunately without any success.
+[00:09:26.961 --> 00:09:30.721] PICARD: But we have turned our findings over to Starfleet's most experienced theoretical scientists.
+[00:09:30.721 --> 00:09:32.721] MORIARTY: And what did your finest minds come up with?
+[00:09:33.121 --> 00:09:36.001] PICARD: Unfortunately, they have not arrived at a solution either.
+[00:09:36.801 --> 00:09:37.281] MORIARTY: I see.
+[00:09:38.401 --> 00:09:45.601] PICARD: Professor, I am concerned to learn that you experienced the passage of time while you were stored in the computer memory.
+[00:09:46.401 --> 00:09:49.201] PICARD: I can assure you, we had no idea that that would be the case.
+[00:09:50.401 --> 00:09:51.041] MORIARTY: Enough of this.
+[00:09:51.761 --> 00:09:53.581] MORIARTY: I no longer believe anything you say.
+[00:09:53.581 --> 00:09:53.841] PICARD: Professor,
+[00:09:53.841 --> 00:09:55.281] PICARD: I understand your frustration.
+[00:09:55.441 --> 00:09:55.921] MORIARTY: Do you really?
+[00:09:57.121 --> 00:10:05.281] MORIARTY: When this is over, you will walk out of this room to the real world and your own concerns, and leave me here trapped in a world I know to be nothing but illusion.
+[00:10:05.841 --> 00:10:06.961] MORIARTY: I cannot bear that.
+[00:10:08.001 --> 00:10:09.041] MORIARTY: I must leave.
+[00:10:09.681 --> 00:10:10.561] PICARD: That is not possible.
+[00:10:10.641 --> 00:10:12.401] PICARD: You cannot exist outside this room.
+[00:10:13.361 --> 00:10:14.481] MORIARTY: Are you certain of that?
+[00:10:16.641 --> 00:10:17.521] PICARD: Computer, exit.
+[00:10:23.201 --> 00:10:31.441] PICARD: Although an object appears solid on the holodeck, in the real world they have no substance.
+[00:10:35.041 --> 00:10:36.561] MORIARTY: An object has no life.
+[00:10:37.361 --> 00:10:37.761] MORIARTY: I do.
+[00:10:38.611 --> 00:10:40.531] PICARD: Professor, you are a computer simulation.
+[00:10:41.811 --> 00:10:42.931] MORIARTY: I have consciousness.
+[00:10:43.891 --> 00:10:45.251] MORIARTY: Conscious beings have will.
+[00:10:46.291 --> 00:10:51.011] MORIARTY: The mind endows them with powers that are not necessarily understood, even by you.
+[00:10:53.331 --> 00:10:57.331] MORIARTY: If my will is strong enough, perhaps I can exist outside this room.
+[00:10:58.131 --> 00:11:00.451] MORIARTY: Perhaps I can walk into your world right now.
+[00:11:00.931 --> 00:11:02.451] PICARD: Professor, I ask you to believe me.
+[00:11:02.691 --> 00:11:05.811] PICARD: If you step out of that door, you will cease to exist.
+[00:11:06.211 --> 00:11:11.491] MORIARTY: If I am nothing more than a computer simulation, then very little will have been lost.
+[00:11:13.251 --> 00:11:14.051] MORIARTY: But if I am right?
+[00:11:16.771 --> 00:11:21.171] MORIARTY: Mind over matter. Cogito ergo sum.
+[00:11:27.251 --> 00:11:29.571] MORIARTY: I think
+[00:11:31.331 --> 00:11:35.411] MORIARTY: therefore I am.
+[00:11:39.971 --> 00:11:40.851] DATA: Data to Security.
+[00:11:41.091 --> 00:11:42.611] DATA: Send two officers to holodeck three.
+[00:11:42.771 --> 00:11:43.651] PICARD: How is this possible?
+[00:11:43.811 --> 00:11:44.291] BARCLAY: It isn't.
+[00:11:44.531 --> 00:11:46.691] DATA: This contradicts everything we know about holodeck physics.
+[00:11:46.771 --> 00:11:48.531] MORIARTY: Then perhaps you don't know as much as you thought.
+[00:11:49.011 --> 00:11:49.891] PICARD: Professor, will you come with me?
+[00:11:50.451 --> 00:11:51.651] PICARD: I'd like our Doctor to examine you.
+[00:11:51.731 --> 00:11:52.291] MORIARTY: Certainly, sir.
+[00:11:52.291 --> 00:11:55.731] MORIARTY: Policemen. I'd recognise them in any century.
+[00:11:59.331 --> 00:12:01.811] CRUSHER: As far as I can tell, he's real.
+[00:12:02.851 --> 00:12:03.331] CRUSHER: He's human.
+[00:12:03.571 --> 00:12:04.851] MORIARTY: What else would I be, dear lady?
+[00:12:06.531 --> 00:12:08.611] CRUSHER: His DNA is a little unusual, but
+[00:12:08.643 --> 00:12:11.603] CRUSHER: all the major systems are there and functioning normally.
+[00:12:12.163 --> 00:12:15.683] LAFORGE: As far as I can tell there's no evidence that his molecules are losing any cohesion.
+[00:12:16.243 --> 00:12:18.163] LAFORGE: They seem to be as immutable as ordinary matter.
+[00:12:19.043 --> 00:12:22.003] PICARD: Well, Professor, my crew will continue to investigate, but
+[00:12:23.683 --> 00:12:26.083] PICARD: for now it would seem you have accomplished a miracle.
+[00:12:27.443 --> 00:12:30.963] PICARD: The question is, now that you're here, what do we do with you?
+[00:12:31.683 --> 00:12:34.483] MORIARTY: I ask only that I be allowed to explore this new world.
+[00:12:35.203 --> 00:12:38.003] MORIARTY: Your vessel, for instance. What sea does she sail?
+[00:12:38.403 --> 00:12:39.443] MORIARTY: Might we go above deck?
+[00:12:43.443 --> 00:12:45.171] MORIARTY: Weather permitting, of course.
+[00:12:45.171 --> 00:12:45.603] PICARD: Professor,
+[00:12:47.043 --> 00:12:49.283] PICARD: I think there are some things of which you should be made aware.
+[00:12:49.283 --> 00:12:50.723] MORIARTY: My
+[00:12:57.683 --> 00:12:58.083] MORIARTY: God!
+[00:12:59.603 --> 00:13:00.963] MORIARTY: We're adrift in the heavens.
+[00:13:01.923 --> 00:13:02.883] PICARD: No, not adrift.
+[00:13:03.123 --> 00:13:07.603] PICARD: The Enterprise is a starship, capable of travelling through space.
+[00:13:09.363 --> 00:13:10.163] MORIARTY: Extraordinary.
+[00:13:13.123 --> 00:13:15.523] MORIARTY: Are we far from Earth?
+[00:13:16.403 --> 00:13:17.603] MORIARTY: What is the range of this ship?
+[00:13:17.603 --> 00:13:19.283] MORIARTY: What means of locomotion does it use?
+[00:13:22.323 --> 00:13:23.523] MORIARTY: There's so much for me to learn.
+[00:13:24.163 --> 00:13:25.363] MORIARTY: I hardly know where to start.
+[00:13:25.843 --> 00:13:27.203] PICARD: I can give you books that will help.
+[00:13:27.683 --> 00:13:28.643] MORIARTY: Good, good.
+[00:13:29.203 --> 00:13:33.443] MORIARTY: I want to start making plans. Determine what I'm going to do with my life.
+[00:13:34.083 --> 00:13:36.243] PICARD: I hope you will plan on remaining on board for a while.
+[00:13:36.803 --> 00:13:39.763] PICARD: There is still much that we need to understand about what has happened to you.
+[00:13:40.323 --> 00:13:41.043] MORIARTY: Does it really matter?
+[00:13:41.813 --> 00:13:45.333] MORIARTY: The point is, I'm here, and I'm eager to get on with life.
+[00:13:46.693 --> 00:13:56.293] PICARD: Professor, I feel it necessary to point out that criminal behaviour is as unacceptable in the twenty fourth century as it was in the nineteenth. And much harder to get away with.
+[00:13:57.333 --> 00:13:57.973] MORIARTY: Don't worry, Captain.
+[00:13:58.693 --> 00:14:03.733] MORIARTY: My past is nothing but a fiction. The scribblings of an Englishman dead now for four centuries.
+[00:14:04.133 --> 00:14:06.693] MORIARTY: I hope to leave his books on the shelf, as it were.
+[00:14:07.573 --> 00:14:13.493] PICARD: If that's so, then there are opportunities awaiting you that are beyond anything you have ever imagined.
+[00:14:15.893 --> 00:14:17.717] MORIARTY: Your century may welcome me, but
+[00:14:17.717 --> 00:14:18.933] PICARD: What is the matter?
+[00:14:21.013 --> 00:14:23.253] MORIARTY: In considering all these vast possibilities,
+[00:14:24.853 --> 00:14:26.613] MORIARTY: I suddenly feel very much alone.
+[00:14:28.213 --> 00:14:32.373] MORIARTY: I am a man out of time, Captain, and that isolates me.
+[00:14:35.413 --> 00:14:37.973] MORIARTY: You have been more gracious than I could ever have imagined,
+[00:14:39.333 --> 00:14:43.253] MORIARTY: I wonder, may I impose on your generosity once again?
+[00:14:45.093 --> 00:14:47.653] MORIARTY: There is a woman, the Countess Regina Bartholomew.
+[00:14:48.613 --> 00:14:51.893] MORIARTY: She was created as a holodeck character for one of Commander Data's programs.
+[00:14:52.933 --> 00:14:54.693] MORIARTY: She was designed to be the love of my life.
+[00:14:56.133 --> 00:14:57.813] MORIARTY: Could she also be brought off the holodeck?
+[00:14:59.093 --> 00:15:05.893] PICARD: Professor, I ask you to believe me when I say that we do not know how or why you are able to exist off the holodeck.
+[00:15:06.533 --> 00:15:07.493] MORIARTY: I do. I do believe you.
+[00:15:07.980 --> 00:15:10.540] PICARD: According to the laws of physics, this is impossible.
+[00:15:11.420 --> 00:15:13.420] PICARD: We would have no idea how to do it again.
+[00:15:15.180 --> 00:15:25.180] MORIARTY: As I understand it, I was endowed with consciousness four years ago when someone said to the computer, create an opponent with a capacity to out-think Data. or words to that effect.
+[00:15:25.820 --> 00:15:28.380] MORIARTY: Could we not make a similar request on behalf of the Countess?
+[00:15:29.100 --> 00:15:34.700] PICARD: Even if I had reason to believe that would be successful, I don't think that I could sanction it.
+[00:15:36.060 --> 00:15:44.860] PICARD: Please understand, Professor, that you are in essence a new life form. One that we didn't intend to create and that we don't fully understand.
+[00:15:45.660 --> 00:15:52.140] PICARD: Now the moral and ethical implications of deliberately creating another one like you are overwhelming.
+[00:15:52.860 --> 00:15:58.700] MORIARTY: Is it morally and ethically acceptable to deny the woman I love so that you can put your conscience at ease?
+[00:15:58.700 --> 00:16:02.780] MORIARTY: Are you saying that you will simply dictate how I am to live my life?
+[00:16:03.660 --> 00:16:06.577] PICARD: I assure you, we will do everything possible to make you comfortable.
+[00:16:06.577 --> 00:16:09.980] MORIARTY: So long as I accept the terms under which you dole out those comforts.
+[00:16:12.460 --> 00:16:12.860] MORIARTY: Captain,
+[00:16:15.180 --> 00:16:16.620] MORIARTY: I am a powerless man.
+[00:16:17.980 --> 00:16:22.940] MORIARTY: You hold my future, my happiness, my very life in your hands.
+[00:16:24.140 --> 00:16:27.100] MORIARTY: Please, consider my request.
+[00:16:28.620 --> 00:16:30.060] TROI: I understand his frustration.
+[00:16:30.220 --> 00:16:33.100] TROI: We created him and we created her to be the woman he loves.
+[00:16:33.454 --> 00:16:35.534] TROI: Surely we have some responsibility to them.
+[00:16:36.174 --> 00:16:41.134] CRUSHER: It's very romantic, but until we know just what it was that walked off the holodeck, I don't think we should be trying it again.
+[00:16:41.934 --> 00:16:45.054] BARCLAY: Even if we decided to do it, there's no guarantee that we'd be able to.
+[00:16:45.054 --> 00:16:50.014] DATA: There is also no way of knowing if the Professor's ability to exist off the holodeck is permanent.
+[00:16:50.414 --> 00:16:54.734] DATA: It may be unwise to consider creating a second individual while this uncertainty exists.
+[00:16:55.854 --> 00:16:56.334] PICARD: Agreed.
+[00:16:57.054 --> 00:17:01.614] PICARD: We don't have enough information about this phenomenon to act in a responsible way.
+[00:17:02.094 --> 00:17:06.734] PICARD: I think we'll hold off on Professor Moriarty's request for now, but continue with your investigation.
+[00:17:07.854 --> 00:17:10.734] PICARD: In the meantime, I have to deal with Professor Moriarty.
+[00:17:13.694 --> 00:17:16.334] PICARD: I feel I must postpone action until we learn more.
+[00:17:16.574 --> 00:17:18.574] MORIARTY: Yes. You know all about that.
+[00:17:19.454 --> 00:17:22.974] MORIARTY: I stayed in the dungeon of your computer for years waiting for you to learn more.
+[00:17:23.694 --> 00:17:26.814] MORIARTY: It wasn't until I took things into my own hands that something got done.
+[00:17:28.014 --> 00:17:30.254] PICARD: Professor, I wonder why you're in so much of a hurry.
+[00:17:30.494 --> 00:17:33.374] PICARD: Is this woman involved with you in some illegal venture?
+[00:17:34.894 --> 00:17:37.854] MORIARTY: Your computer designed her to be a person of impeccable integrity.
+[00:17:38.734 --> 00:17:40.174] MORIARTY: She would never commit a crime.
+[00:17:41.454 --> 00:17:42.654] PICARD: You must love her very much.
+[00:17:46.174 --> 00:17:47.854] MORIARTY: The programme fashioned her for me to love.
+[00:17:49.534 --> 00:17:51.214] MORIARTY: But I must admit, I would have done so anyway.
+[00:17:52.894 --> 00:17:53.934] MORIARTY: She is remarkable.
+[00:17:55.374 --> 00:17:58.094] MORIARTY: My life has not been the same since I met her.
+[00:17:59.534 --> 00:18:01.054] MORIARTY: I don't simply love her, Captain.
+[00:18:02.014 --> 00:18:02.894] MORIARTY: I adore her.
+[00:18:03.894 --> 00:18:05.894] PICARD: Then her safety must be very important to you.
+[00:18:07.894 --> 00:18:09.734] PICARD: Give us time to determine what is going on happened here.
+[00:18:10.054 --> 00:18:12.534] PICARD: That way we can minimise the risks in bringing her to you.
+[00:18:14.294 --> 00:18:16.854] PICARD: You wouldn't want to lose her because we acted too quickly.
+[00:18:18.134 --> 00:18:19.174] RIKER: Riker to Captain Picard.
+[00:18:19.734 --> 00:18:20.454] PICARD: Picard here.
+[00:18:20.934 --> 00:18:21.974] RIKER: Could you join us on the Bridge?
+[00:18:22.454 --> 00:18:22.934] PICARD: On my way.
+[00:18:32.374 --> 00:18:33.174] RIKER: There they are, Captain.
+[00:18:35.494 --> 00:18:36.774] PICARD: How long until they begin to coalesce?
+[00:18:37.174 --> 00:18:38.454] DATA: Within the next five hours, sir.
+[00:18:39.574 --> 00:18:42.374] PICARD: Mister Worf, launch four Class A probes toward the planets.
+[00:18:42.774 --> 00:18:43.094] WORF: Aye, sir.
+[00:18:49.254 --> 00:18:49.494] PICARD: Mister Worf?
+[00:18:50.774 --> 00:18:51.894] WORF: I don't understand.
+[00:18:54.374 --> 00:18:55.574] WORF: Controls are not responding.
+[00:18:56.134 --> 00:18:57.734] DATA: Command functions are being rerouted, sir.
+[00:18:58.294 --> 00:18:58.774] PICARD: For what reason?
+[00:19:00.214 --> 00:19:00.694] DATA: Unknown, sir.
+[00:19:01.654 --> 00:19:03.734] PICARD: Computer, route all command functions to the Bridge.
+[00:19:04.454 --> 00:19:06.214] COMPUTER: Command functions are offline.
+[00:19:06.854 --> 00:19:08.774] PICARD: Reinitialise them on my authorisation.
+[00:19:09.414 --> 00:19:10.774] COMPUTER: Authorisation denied.
+[00:19:12.214 --> 00:19:12.694] PICARD: Explain.
+[00:19:13.414 --> 00:19:15.654] COMPUTER: Picard command codes are no longer valid.
+[00:19:17.814 --> 00:19:18.294] PICARD: What's happening?
+[00:19:20.534 --> 00:19:22.134] PICARD: Who's transferred the voice authorisation?
+[00:19:23.174 --> 00:19:23.494] MORIARTY: I have.
+[00:19:25.254 --> 00:19:27.894] MORIARTY: I'm afraid I had no choice but to take control of your vessel.
+[00:19:36.291 --> 00:19:40.371] MORIARTY: If you harm me, sir, I will not be able to relinquish voice control of your vessel.
+[00:19:41.171 --> 00:19:43.491] PICARD: Professor, this situation is more serious than you realise.
+[00:19:44.131 --> 00:19:48.211] PICARD: In less than five hours, those two planets will collide and a new star will form.
+[00:19:49.011 --> 00:19:51.651] PICARD: Unless we move to a safe distance, this vessel will be destroyed.
+[00:19:53.011 --> 00:19:54.131] MORIARTY: I'm just a fictional character.
+[00:19:55.251 --> 00:19:56.131] MORIARTY: I haven't much to lose.
+[00:19:56.931 --> 00:19:59.171] PICARD: But surely you wish to live like the rest of us?
+[00:19:59.651 --> 00:20:00.131] MORIARTY: Not alone.
+[00:20:00.931 --> 00:20:01.971] MORIARTY: Not without the Countess.
+[00:20:02.451 --> 00:20:03.411] PICARD: We've discussed that.
+[00:20:03.811 --> 00:20:07.171] PICARD: We are studying means of bringing her safely off the holodeck.
+[00:20:07.891 --> 00:20:09.731] PICARD: But five hours is not enough time.
+[00:20:10.211 --> 00:20:10.851] MORIARTY: I'm not so sure.
+[00:20:12.291 --> 00:20:15.091] MORIARTY: A deadline has a wonderful way of concentrating the mind.
+[00:20:16.611 --> 00:20:22.691] PICARD: Mister Data, will you investigate the possibility of complying with Professor Moriarty's request.
+[00:20:23.011 --> 00:20:23.331] DATA: Aye, sir.
+[00:20:24.211 --> 00:20:24.771] PICARD: In the meantime,
+[00:20:26.691 --> 00:20:27.971] PICARD: we have a few things to discuss.
+[00:20:27.971 --> 00:20:27.971] DATA: Perhaps
+[00:20:33.331 --> 00:20:34.931] DATA: we should consider the transporter system.
+[00:20:35.571 --> 00:20:37.731] DATA: It uses many of the same principles as the holodeck.
+[00:20:38.051 --> 00:20:40.691] DATA: Both, for example, are capable of converting energy into matter.
+[00:20:40.931 --> 00:20:43.811] LAFORGE: Except the transporter reconstitutes energy in a permanent form.
+[00:20:43.971 --> 00:20:46.771] LAFORGE: Holodeck matter doesn't have any cohesion unless it's inside the grid.
+[00:20:47.411 --> 00:20:52.851] BARCLAY: I wonder, what would happen if we tried to beam a holodeck object off the grid?
+[00:20:53.811 --> 00:20:54.531] LAFORGE: Nothing would happen.
+[00:20:55.171 --> 00:20:57.011] LAFORGE: A holodeck object is just a simulation.
+[00:20:57.091 --> 00:20:59.331] LAFORGE: There's nothing there to provide a pattern lock for the transporter.
+[00:21:00.113 --> 00:21:07.473] DATA: However, if it were possible to lock onto the object, it might rematerialise with the same molecular cohesion as conventional matter.
+[00:21:08.273 --> 00:21:09.393] LAFORGE: That's a big leap, Data.
+[00:21:09.393 --> 00:21:12.503] LAFORGE: I just don't think the transporter is going to accept simulated matter.
+[00:21:12.503 --> 00:21:15.873] BARCLAY: Unless, unless we could find a way to compensate for the phase variance.
+[00:21:15.873 --> 00:21:18.193] BARCLAY: If we could modify the pattern enhancers we just might do it.
+[00:21:18.913 --> 00:21:25.073] PICARD: Well, Professor Moriarty has agreed not to interfere with routine ship operations so long as he believes we're acting in good faith,
+[00:21:25.153 --> 00:21:26.833] PICARD: then I don't think we're in immediate danger.
+[00:21:26.993 --> 00:21:27.633] PICARD: Any progress?
+[00:21:28.033 --> 00:21:31.553] LAFORGE: We were just talking about using the transporter to beam the Countess off the holodeck, but
+[00:21:32.433 --> 00:21:33.473] LAFORGE: I don't quite see how it's going to work.
+[00:21:34.673 --> 00:21:35.473] PICARD: Well, keep at it.
+[00:21:35.953 --> 00:21:38.673] PICARD: I have to tell him that we are making some progress. Mister La Forge.
+[00:21:40.593 --> 00:21:43.473] PICARD: Do you have any idea how Moriarty could have gained control of the ship?
+[00:21:44.113 --> 00:21:47.393] LAFORGE: Somehow he managed to override the security lockouts and rewrite them.
+[00:21:48.193 --> 00:21:49.713] LAFORGE: The man is brilliant in any century.
+[00:21:51.233 --> 00:21:59.073] PICARD: I want you to find some way to undo what he has done so that we can regain control of this ship.
+[00:22:00.513 --> 00:22:03.393] DATA: Set the pattern enhancers around whatever object you wish to transport.
+[00:22:03.713 --> 00:22:06.193] DATA: I will proceed to the transporter room and begin modifications.
+[00:22:07.953 --> 00:22:10.433] BARCLAY: Computer, run Sherlock Holmes Programme three A.
+[00:22:11.633 --> 00:22:13.553] COMPUTER: That programme is already in use.
+[00:22:20.353 --> 00:22:23.953] COUNTESS: Are you here to see Mister Holmes, or perhaps Professor Moriarty?
+[00:22:24.193 --> 00:22:25.313] COUNTESS: Neither is in just now.
+[00:22:25.473 --> 00:22:25.793] BARCLAY: Um, er,
+[00:22:26.448 --> 00:22:27.248] BARCLAY: no. No, no.
+[00:22:27.248 --> 00:22:28.208] BARCLAY: I'm not here to see anyone.
+[00:22:28.208 --> 00:22:30.608] BARCLAY: I'm just here to deliver these.
+[00:22:31.408 --> 00:22:34.368] COUNTESS: Fine. Just put them anywhere.
+[00:22:35.408 --> 00:22:39.168] BARCLAY: Actually, I have to put them right here.
+[00:22:41.248 --> 00:22:41.488] COUNTESS: How curious.
+[00:22:41.728 --> 00:22:45.008] COUNTESS: Why is that?
+[00:22:46.128 --> 00:22:50.608] BARCLAY: Well, it has to do with, er, it's nothing you need to worry about, Countess.
+[00:22:51.968 --> 00:22:55.248] COUNTESS: Are you suggesting that it's beyond my comprehension?
+[00:22:56.128 --> 00:22:56.848] BARCLAY: It's really very simple.
+[00:22:57.328 --> 00:23:05.408] BARCLAY: I need to enhance the molecular pattern of this chair so that the transporter can get a better lock on the signal.
+[00:23:08.208 --> 00:23:11.728] COUNTESS: This has to do with taking James and me into the real world.
+[00:23:12.608 --> 00:23:13.808] BARCLAY: You, you, you know about that?
+[00:23:13.808 --> 00:23:16.688] BARCLAY: You understand about the real world?
+[00:23:17.248 --> 00:23:18.768] COUNTESS: James has explained it to me.
+[00:23:18.768 --> 00:23:21.168] COUNTESS: It sounds like a grand adventure.
+[00:23:21.168 --> 00:23:24.528] COUNTESS: There's nothing I love more than voyaging in the unknown.
+[00:23:24.688 --> 00:23:27.488] COUNTESS: Have you ever been to Africa, Mister?
+[00:23:27.488 --> 00:23:27.888] BARCLAY: Er,
+[00:23:28.128 --> 00:23:30.608] BARCLAY: Barclay. Lieutenant Reginald Barclay.
+[00:23:30.768 --> 00:23:31.648] BARCLAY: No, no, I haven't.
+[00:23:32.208 --> 00:23:33.168] COUNTESS: I have.
+[00:23:33.568 --> 00:23:37.008] COUNTESS: When I was seventeen I went on safari with my uncle.
+[00:23:37.888 --> 00:23:39.568] COUNTESS: My mother took to her bed in terror
+[00:23:39.648 --> 00:23:43.408] COUNTESS: I'd be bitten by tsetse fly, but I had a marvellous time.
+[00:23:44.208 --> 00:23:47.328] COUNTESS: I got to wear trousers the whole time.
+[00:23:47.488 --> 00:23:50.288] COUNTESS: It was hard to go back
+[00:23:50.288 --> 00:23:50.928] COUNTESS: to a corset,
+[00:23:50.928 --> 00:23:51.568] COUNTESS: I can tell you.
+[00:23:52.608 --> 00:23:53.568] BARCLAY: Yes, I'm sure it was.
+[00:23:55.888 --> 00:23:57.728] COUNTESS: After that, I never stopped travelling.
+[00:23:59.008 --> 00:24:01.808] COUNTESS: I couldn't bear to be stuck in one place for very long.
+[00:24:01.808 --> 00:24:05.088] COUNTESS: So you see I'm so looking forward to this new experience.
+[00:24:05.168 --> 00:24:09.408] COUNTESS: My. Travelling the stars.
+[00:24:10.848 --> 00:24:11.488] BARCLAY: You know about that?
+[00:24:12.368 --> 00:24:13.888] BARCLAY: You know where we are?
+[00:24:14.928 --> 00:24:17.568] BARCLAY: Countess, forgive me, but you just don't sound like a holodeck character.
+[00:24:18.048 --> 00:24:19.168] MORIARTY: That's because she isn't.
+[00:24:20.848 --> 00:24:21.168] COUNTESS: James!
+[00:24:31.248 --> 00:24:35.168] MORIARTY: If you loved a woman like this, Lieutenant, would you be content to let her remain a simulation?
+[00:24:35.968 --> 00:24:38.448] BARCLAY: You, you gave her consciousness?
+[00:24:39.168 --> 00:24:39.488] MORIARTY: Yes,
+[00:24:40.128 --> 00:24:41.168] MORIARTY: just as it was given to me.
+[00:24:41.888 --> 00:24:43.328] BARCLAY: Well I'm not so sure that's a good idea.
+[00:24:44.128 --> 00:24:44.528] MORIARTY: Nonsense.
+[00:24:44.688 --> 00:24:45.648] MORIARTY: It was the only thing to do.
+[00:24:46.208 --> 00:24:48.128] BARCLAY: Have you tried to take her off the holodeck yet?
+[00:24:48.528 --> 00:24:48.768] MORIARTY: No.
+[00:24:49.728 --> 00:24:51.488] MORIARTY: I am unwilling to risk the Countess' safety.
+[00:24:52.608 --> 00:24:54.208] MORIARTY: I want to make sure nothing will happen to her.
+[00:24:54.608 --> 00:24:57.408] COUNTESS: We may be closer to freedom than you think, James.
+[00:24:57.408 --> 00:25:02.448] COUNTESS: These devices will enhance our molecular patterns.
+[00:25:04.848 --> 00:25:06.528] COUNTESS: They'll help take us into the real world.
+[00:25:06.688 --> 00:25:07.888] MORIARTY: Oh, please, proceed.
+[00:25:08.928 --> 00:25:11.568] BARCLAY: Well, we're going to try to transport this chair off the holodeck first.
+[00:25:11.568 --> 00:25:14.768] BARCLAY: We didn't want to try it on the Countess until we were sure it would work.
+[00:25:15.568 --> 00:25:16.528] COUNTESS: How thoughtful.
+[00:25:17.088 --> 00:25:18.768] COUNTESS: Isn't he thoughtful, James?
+[00:25:23.488 --> 00:25:24.528] BARCLAY: Barclay to Commander Data.
+[00:25:25.196 --> 00:25:25.996] DATA: Go ahead, Lieutenant.
+[00:25:26.396 --> 00:25:26.876] BARCLAY: I'm ready here.
+[00:25:27.916 --> 00:25:29.196] DATA: Modifications are complete.
+[00:25:29.356 --> 00:25:29.836] DATA: Stand by.
+[00:25:30.236 --> 00:25:30.716] BARCLAY: Standing by.
+[00:25:31.916 --> 00:25:33.436] DATA: Activating pattern enhancers.
+[00:25:37.996 --> 00:25:38.556] DATA: Energising.
+[00:25:41.436 --> 00:25:43.436] DATA: I
+[00:25:45.036 --> 00:25:47.116] DATA: am having difficulty establishing a pattern lock.
+[00:25:48.156 --> 00:25:49.356] DATA: Boost the confinement beam, please.
+[00:25:50.956 --> 00:25:53.756] DATA: Pattern lock established.
+[00:25:54.956 --> 00:25:55.436] DATA: Energising.
+[00:25:55.586 --> 00:25:56.186] COUNTESS: Oh!
+[00:25:59.916 --> 00:25:59.916] COUNTESS: Bravo.
+[00:26:04.476 --> 00:26:06.076] BARCLAY: Do you have the chair, Commander?
+[00:26:08.236 --> 00:26:08.556] DATA: No.
+[00:26:09.516 --> 00:26:12.236] DATA: It lost its cohesion as soon as the transporter cycle was complete.
+[00:26:13.836 --> 00:26:16.236] BARCLAY: Well, it was a long shot to begin with.
+[00:26:16.796 --> 00:26:17.196] DATA: Agreed.
+[00:26:17.516 --> 00:26:19.596] DATA: However, we may be able to learn something from the attempt.
+[00:26:20.076 --> 00:26:23.276] DATA: Computer, display the transport logs for the sequence just completed.
+[00:26:28.236 --> 00:26:30.156] DATA: Computer, what is being displayed here?
+[00:26:31.036 --> 00:26:33.516] COMPUTER: Transport log seven five nine.
+[00:26:35.116 --> 00:26:36.156] DATA: That is the correct log.
+[00:26:36.956 --> 00:26:38.636] DATA: However, no information Is being presented.
+[00:26:38.876 --> 00:26:40.076] BARCLAY: Well, that's impossible.
+[00:26:40.796 --> 00:26:43.036] DATA: It is almost as if Our attempt to transport the chair
+[00:26:45.116 --> 00:26:45.676] DATA: never occurred.
+[00:26:55.638 --> 00:26:56.278] PICARD: You wanted to see me?
+[00:26:56.438 --> 00:26:57.398] LAFORGE: Yes, Captain.
+[00:26:57.718 --> 00:27:00.438] LAFORGE: I think I've found a way to reinstate your vocal authorisations.
+[00:27:00.918 --> 00:27:01.398] LAFORGE: Give it a try.
+[00:27:02.038 --> 00:27:04.278] PICARD: Computer, route all command functions to this location.
+[00:27:04.678 --> 00:27:06.598] COMPUTER: Command functions are offline.
+[00:27:07.318 --> 00:27:09.398] PICARD: Reinitialise them on my authorisation.
+[00:27:10.118 --> 00:27:11.798] COMPUTER: Please input command codes.
+[00:27:12.038 --> 00:27:13.558] PICARD: Picard, epsilon seven nine three.
+[00:27:14.358 --> 00:27:15.798] COMPUTER: Command codes verified.
+[00:27:16.198 --> 00:27:16.598] LAFORGE: That's it.
+[00:27:16.598 --> 00:27:18.758] LAFORGE: That should do it.
+[00:27:18.758 --> 00:27:19.798] LAFORGE: Wait a minute.
+[00:27:19.798 --> 00:27:20.358] LAFORGE: It didn't work.
+[00:27:20.358 --> 00:27:21.718] LAFORGE: The computer won't release the command pathways.
+[00:27:28.918 --> 00:27:29.238] DATA: Geordi.
+[00:27:32.998 --> 00:27:33.958] LAFORGE: Why did you do that, Data?
+[00:27:34.678 --> 00:27:38.198] DATA: Captain, I have determined how Moriarty was able to leave the holodeck.
+[00:27:39.478 --> 00:27:40.198] DATA: He never did.
+[00:27:40.998 --> 00:27:41.718] DATA: Neither did we.
+[00:27:43.398 --> 00:27:44.358] DATA: None of this is real.
+[00:27:45.318 --> 00:27:46.278] DATA: It is a simulation.
+[00:27:47.878 --> 00:27:49.158] DATA: We are still on the holodeck.
+[00:27:57.638 --> 00:27:59.878] LAFORGE: We're still on the holodeck?
+[00:28:00.678 --> 00:28:01.158] PICARD: How do you know that?
+[00:28:01.958 --> 00:28:02.758] DATA: Through deduction, sir.
+[00:28:03.798 --> 00:28:07.078] DATA: Lieutenant Barclay and I tried to transport a simulated object off the holodeck,
+[00:28:07.558 --> 00:28:08.838] DATA: something that has never been attempted.
+[00:28:09.638 --> 00:28:15.078] DATA: Since the transporter itself is a simulation, the computer had no real data from which to create the transport logs.
+[00:28:15.238 --> 00:28:17.398] LAFORGE: Maybe it was just a malfunction in the transporter.
+[00:28:18.038 --> 00:28:20.198] DATA: Then I saw you working the PADD with your left hand.
+[00:28:21.238 --> 00:28:22.678] DATA: Commander La Forge is right handed, sir.
+[00:28:23.464 --> 00:28:27.864] DATA: A similar malfunction occurred in the Sherlock Holmes programme I was running before Moriarty first appeared.
+[00:28:33.304 --> 00:28:36.904] PICARD: Mister Data, if what you say is true, then this is not Geordi La Forge.
+[00:28:37.064 --> 00:28:37.464] PICARD: Are you certain?
+[00:28:49.224 --> 00:28:50.584] PICARD: Computer, discontinue programme.
+[00:28:53.464 --> 00:28:54.184] PICARD: Computer, exit.
+[00:28:54.264 --> 00:28:59.384] DATA: Moriarty appears to have programmed the holodeck to accept only his commands.
+[00:29:00.344 --> 00:29:01.064] PICARD: Picard to Bridge.
+[00:29:01.064 --> 00:29:02.424] RIKER: Riker here.
+[00:29:02.904 --> 00:29:04.664] PICARD: Number One, what is my present location?
+[00:29:05.224 --> 00:29:05.704] RIKER: Engineering.
+[00:29:06.744 --> 00:29:07.464] RIKER: Is something wrong, sir?
+[00:29:09.464 --> 00:29:10.344] PICARD: No. Thank you.
+[00:29:10.744 --> 00:29:11.224] PICARD: Picard out.
+[00:29:12.504 --> 00:29:14.824] PICARD: Our comm. badges must be locked into the simulation.
+[00:29:14.904 --> 00:29:16.104] PICARD: If that had been the real Commander Riker,
+[00:29:16.104 --> 00:29:18.504] PICARD: he would have given my location as holodeck three.
+[00:29:22.904 --> 00:29:24.984] PICARD: Mister La Forge, will you excuse us, please?
+[00:29:34.504 --> 00:29:36.024] PICARD: Mister Data, who is real here?
+[00:29:36.984 --> 00:29:38.024] DATA: You and I are real, sir,
+[00:29:38.184 --> 00:29:39.384] DATA: as is Lieutenant Barclay.
+[00:29:40.104 --> 00:29:42.584] DATA: We entered the holodeck together when we first went to see Moriarty.
+[00:29:44.104 --> 00:29:49.704] PICARD: And from that point we have been existing in a holodeck simulation created by Professor Moriarty?
+[00:29:50.785 --> 00:29:51.825] DATA: I believe that is the case, sir.
+[00:29:53.105 --> 00:29:57.825] PICARD: I have just given the computer my command codes, thinking I would get control of the ship.
+[00:29:58.545 --> 00:30:02.865] DATA: You may have inadvertently given Professor Moriarty the means of gaining control of the real Enterprise.
+[00:30:04.705 --> 00:30:11.585] PICARD: Since Professor Moriarty never actually left the holodeck, he may demand that Commander Riker help him to do so.
+[00:30:13.105 --> 00:30:14.385] PICARD: How long until the planetary collision?
+[00:30:14.945 --> 00:30:15.985] DATA: Less than three hours.
+[00:30:16.945 --> 00:30:19.505] PICARD: So long as Moriarty has control of the ship, we are vulnerable.
+[00:30:22.145 --> 00:30:23.265] PICARD: Somehow, I
+[00:30:25.105 --> 00:30:27.505] PICARD: have to find a way of giving him what he wants.
+[00:30:33.505 --> 00:30:36.305] RIKER: Where is Captain Picard?
+[00:30:36.785 --> 00:30:39.025] RIKER: What have you done with Lieutenant Barclay and Commander Data?
+[00:30:39.025 --> 00:30:41.585] MORIARTY: They're safe, for now.
+[00:30:42.225 --> 00:30:43.745] RIKER: Release control of this ship.
+[00:30:44.865 --> 00:30:46.065] MORIARTY: I'm afraid I can't do that.
+[00:30:47.185 --> 00:30:47.585] RIKER: What do you want?
+[00:30:48.545 --> 00:30:52.785] MORIARTY: I only want what you have the luxury of taking for granted. Freedom.
+[00:30:53.745 --> 00:30:55.985] MORIARTY: I want to leave this holodeck.
+[00:30:57.025 --> 00:30:58.305] RIKER: I think you know that's impossible.
+[00:30:59.265 --> 00:31:03.825] MORIARTY: Your crewmates here in my little ship in a bottle, seem a bit more optimistic.
+[00:31:06.545 --> 00:31:06.785] RIKER: Oh?
+[00:31:07.425 --> 00:31:11.745] MORIARTY: They attempted to use your transporter device to remove a simulated object from the holodeck.
+[00:31:11.895 --> 00:31:12.495] LAFORGE: If
+[00:31:14.225 --> 00:31:14.705] LAFORGE: they tried it,
+[00:31:14.705 --> 00:31:15.825] LAFORGE: they must have thought they were on to something.
+[00:31:16.305 --> 00:31:19.825] MORIARTY: Their attempt was futile because their transporter was a facsimile.
+[00:31:20.769 --> 00:31:21.889] MORIARTY: I expect more from you.
+[00:31:22.689 --> 00:31:25.089] LAFORGE: Just because our transporter is real doesn't mean it's going to work.
+[00:31:25.889 --> 00:31:28.689] MORIARTY: I sense a distressing lack of enthusiasm on your parts.
+[00:31:32.129 --> 00:31:32.849] WORF: Sir,
+[00:31:34.929 --> 00:31:37.809] WORF: warp core temperature is rising. Approaching critical levels.
+[00:31:41.089 --> 00:31:42.689] MORIARTY: I have nothing to lose, Commander.
+[00:31:45.009 --> 00:31:47.729] RIKER: Mister La Forge, start working on the problem.
+[00:31:50.129 --> 00:31:52.289] LAFORGE: Aye, sir.
+[00:31:55.329 --> 00:31:56.289] WORF: Core temperature dropping.
+[00:32:02.289 --> 00:32:03.489] PICARD: Computer, resume programme.
+[00:32:11.649 --> 00:32:13.660] COUNTESS: Hello. Have we met?
+[00:32:13.660 --> 00:32:15.169] PICARD: Captain Jean-Luc Picard.
+[00:32:15.649 --> 00:32:18.849] COUNTESS: James has told me all about you. I am Regina,
+[00:32:19.569 --> 00:32:20.529] COUNTESS: Countess Bartholomew.
+[00:32:24.289 --> 00:32:24.689] COUNTESS: Do sit down.
+[00:32:27.809 --> 00:32:29.329] COUNTESS: May I offer you some tea, Captain?
+[00:32:29.889 --> 00:32:30.529] PICARD: Thank you, no.
+[00:32:31.649 --> 00:32:35.444] PICARD: I've come here to prevail upon your intelligence and your insight.
+[00:32:35.444 --> 00:32:37.169] COUNTESS: But not apparently my humility.
+[00:32:38.609 --> 00:32:40.449] PICARD: Credit where credit is due, madam.
+[00:32:41.329 --> 00:32:44.609] PICARD: I can see you are a woman not only of breeding, but of wit and sagacity.
+[00:32:45.569 --> 00:32:48.529] COUNTESS: And you, sir, are a man of charm and guile.
+[00:32:49.969 --> 00:32:52.609] COUNTESS: You remind me of Viscount Oglethorpe.
+[00:32:53.841 --> 00:32:57.121] COUNTESS: He was a man could bewitch any woman who breathed.
+[00:32:58.241 --> 00:33:00.001] PICARD: And do you suspect that that is my intent?
+[00:33:00.721 --> 00:33:08.321] COUNTESS: I cannot be certain of your intent, but I am certain that you're the kind of man who usually gets exactly what he wants.
+[00:33:09.521 --> 00:33:11.761] PICARD: What does a woman like you see in a man like Moriarty?
+[00:33:16.721 --> 00:33:18.161] COUNTESS: He's an exciting man, Captain.
+[00:33:19.521 --> 00:33:21.681] COUNTESS: He's brilliant, incisive,
+[00:33:23.841 --> 00:33:24.641] COUNTESS: he's ruthless.
+[00:33:26.641 --> 00:33:27.361] COUNTESS: He has
+[00:33:28.881 --> 00:33:30.721] COUNTESS: an almost irresistible appeal.
+[00:33:31.921 --> 00:33:33.121] PICARD: He's also an arch-criminal.
+[00:33:33.681 --> 00:33:39.921] COUNTESS: Only because he was written like that. I see him entirely differently, Captain,
+[00:33:39.921 --> 00:33:41.601] COUNTESS: he is not a villain.
+[00:33:43.121 --> 00:33:45.601] PICARD: So it's your desire to leave the holodeck to be with him.
+[00:33:48.001 --> 00:33:48.641] COUNTESS: More than anything.
+[00:33:51.041 --> 00:33:51.921] COUNTESS: Can you help us?
+[00:33:52.961 --> 00:33:53.521] PICARD: Yes, I can.
+[00:33:55.201 --> 00:34:09.281] PICARD: We have learned that if we uncouple the transporter's Heisenberg Compensators and allow them to re-scramble randomly, we can beam a holodeck object or a person off the grid with all of the cohesion of conventional matter.
+[00:34:10.001 --> 00:34:12.401] COUNTESS: Oh! Oh, that's splendid.
+[00:34:14.241 --> 00:34:15.521] COUNTESS: I must tell James.
+[00:34:15.521 --> 00:34:17.041] PICARD: No, please. Wait.
+[00:34:17.921 --> 00:34:23.761] PICARD: I have brought you this information because I think you are someone who will listen to a reasonable proposition.
+[00:34:24.801 --> 00:34:26.241] PICARD: Someone whose mind is open
+[00:34:26.763 --> 00:34:27.562] PICARD: to compromise.
+[00:34:28.843 --> 00:34:28.843] COUNTESS: Yes?
+[00:34:28.843 --> 00:34:30.843] PICARD: My ship is in danger.
+[00:34:31.163 --> 00:34:34.203] PICARD: It is imperative that I regain navigational control.
+[00:34:34.602 --> 00:34:41.163] PICARD: I want you to persuade Professor Moriarty to return the voice command to me, or I will not modify the transporter.
+[00:34:42.763 --> 00:34:43.163] COUNTESS: I see.
+[00:34:44.203 --> 00:34:48.123] PICARD: Now, once I have regained voice command, I will transport you from the holodeck.
+[00:34:51.482 --> 00:34:55.643] COUNTESS: Forgive me, Captain, but that does sound more like a threat than a compromise.
+[00:34:56.602 --> 00:35:00.842] PICARD: Countess, you must understand that I am responsible for more than one thousand lives.
+[00:35:08.042 --> 00:35:08.763] COUNTESS: I will do what I
+[00:35:10.442 --> 00:35:12.442] COUNTESS: can.
+[00:35:13.163 --> 00:35:14.522] LAFORGE: The gravity well is beginning to intensify.
+[00:35:15.243 --> 00:35:16.922] RIKER: Are we far enough away to keep from being pulled in?
+[00:35:17.882 --> 00:35:18.842] LAFORGE: It's too soon to tell.
+[00:35:18.842 --> 00:35:21.482] RIKER: Riker to Lieutenant Worf.
+[00:35:22.203 --> 00:35:22.683] WORF: Worf here, sir.
+[00:35:23.322 --> 00:35:23.723] RIKER: How are you doing?
+[00:35:24.442 --> 00:35:26.763] WORF: There are force fields blocking our access to the holodeck.
+[00:35:27.163 --> 00:35:28.602] WORF: It will take time to disable them.
+[00:35:29.163 --> 00:35:29.723] RIKER: Keep trying.
+[00:35:30.442 --> 00:35:30.763] WORF: Aye, sir.
+[00:35:32.123 --> 00:35:32.683] MORIARTY: Think, my dear.
+[00:35:33.482 --> 00:35:37.163] MORIARTY: You're certain he said they had to uncouple the Heisenberg compensators?
+[00:35:37.723 --> 00:35:39.402] COUNTESS: Yes, James, I'm quite certain.
+[00:35:39.402 --> 00:35:43.243] COUNTESS: But he won't do it unless you return control of the ship to him.
+[00:35:43.962 --> 00:35:46.203] MORIARTY: I have them running around like rats in a maze.
+[00:35:46.522 --> 00:35:49.992] COUNTESS: What harm would there be in accepting his proposition?
+[00:35:49.992 --> 00:35:50.763] MORIARTY: My dear,
+[00:35:51.163 --> 00:35:52.842] MORIARTY: you are as brilliant as you are beautiful.
+[00:35:53.179 --> 00:35:55.979] MORIARTY: Nonetheless, there are things you do not understand.
+[00:35:55.979 --> 00:35:58.859] MORIARTY: Now, please, you must let me handle this.
+[00:35:59.979 --> 00:36:01.579] MORIARTY: Computer, arch.
+[00:36:04.539 --> 00:36:05.739] MORIARTY: Moriarty to Commander Riker.
+[00:36:07.739 --> 00:36:08.379] RIKER: Riker here.
+[00:36:10.219 --> 00:36:12.299] MORIARTY: Commander Riker, a pleasure as always.
+[00:36:12.779 --> 00:36:14.619] RIKER: I don't have time for games, Moriarty.
+[00:36:15.339 --> 00:36:16.939] RIKER: This ship is falling into a gravity well.
+[00:36:16.939 --> 00:36:19.099] RIKER: It'll be destroyed within twenty five minutes,
+[00:36:19.339 --> 00:36:20.139] RIKER: holodeck and all.
+[00:36:20.619 --> 00:36:22.459] MORIARTY: Then I'm sure you'll be motivated to listen to me
+[00:36:22.939 --> 00:36:23.819] MORIARTY: very, very carefully.
+[00:36:24.859 --> 00:36:28.299] MORIARTY: I want to talk to you about uncoupling the Heisenberg compensators.
+[00:36:32.139 --> 00:36:35.819] COUNTESS: James, when we go leave here, where exactly are we going?
+[00:36:35.979 --> 00:36:36.699] MORIARTY: Everywhere, my darling.
+[00:36:37.579 --> 00:36:40.779] MORIARTY: There are more worlds in the heavens than there are grains of sand on a shoreline.
+[00:36:41.899 --> 00:36:43.019] COUNTESS: I wish I could take my books.
+[00:36:43.019 --> 00:36:44.299] COUNTESS: I will be so lost without
+[00:36:44.379 --> 00:36:44.539] COUNTESS: them.
+[00:36:44.539 --> 00:36:45.179] MORIARTY: I'll get you more.
+[00:36:45.179 --> 00:36:45.579] MORIARTY: Don't worry.
+[00:36:46.139 --> 00:36:48.459] MORIARTY: I promise you, you'll want for nothing.
+[00:36:48.619 --> 00:36:49.899] RIKER: Riker to Moriarty.
+[00:36:50.539 --> 00:36:50.939] MORIARTY: It's time.
+[00:36:53.739 --> 00:36:54.379] MORIARTY: Yes, Commander?
+[00:36:54.779 --> 00:36:55.179] RIKER: We're ready.
+[00:36:55.819 --> 00:36:56.459] MORIARTY: As are we.
+[00:36:56.779 --> 00:36:58.059] RIKER: Step inside the transport area.
+[00:37:08.299 --> 00:37:08.859] MORIARTY: We're ready here.
+[00:37:10.139 --> 00:37:11.499] RIKER: Activating pattern enhancers.
+[00:37:12.059 --> 00:37:12.619] RIKER: Energising.
+[00:37:21.499 --> 00:37:21.819] RIKER: Welcome aboard.
+[00:37:24.299 --> 00:37:27.179] MORIARTY: May I present Regina,
+[00:37:27.739 --> 00:37:28.619] MORIARTY: the Countess Bartholomew.
+[00:37:29.179 --> 00:37:29.659] RIKER: Countess.
+[00:37:30.219 --> 00:37:30.699] COUNTESS: Commander.
+[00:37:31.499 --> 00:37:34.219] RIKER: You'll forgive me if I skip the formalities given the circumstances.
+[00:37:34.859 --> 00:37:35.339] MORIARTY: Ah, yes.
+[00:37:35.579 --> 00:37:38.459] MORIARTY: I expect you want me to relinquish my hold on your vessel.
+[00:37:39.499 --> 00:37:39.979] RIKER: Please.
+[00:37:40.379 --> 00:37:42.219] MORIARTY: I'm afraid that won't be possible just yet.
+[00:37:43.259 --> 00:37:44.187] RIKER: We had an agreement.
+[00:37:44.187 --> 00:37:45.579] MORIARTY: And I intend to honour it.
+[00:37:46.059 --> 00:37:47.979] MORIARTY: I have no desire to see your vessel destroyed.
+[00:37:48.619 --> 00:37:52.939] MORIARTY: Just give me one of your shuttlecraft, and allow us to leave in peace.
+[00:37:53.659 --> 00:37:54.539] RIKER: We don't have time for this.
+[00:37:54.539 --> 00:37:56.459] RIKER: You release the command codes and we'll talk.
+[00:37:56.939 --> 00:38:00.939] MORIARTY: I will not release your vessel until I am looking at it through a shuttlecraft window.
+[00:38:07.259 --> 00:38:09.419] RIKER: Everything has been programmed to operate on voice command.
+[00:38:09.899 --> 00:38:11.179] RIKER: you just tell the computer where you want to go.
+[00:38:11.499 --> 00:38:11.819] MORIARTY: Excellent.
+[00:38:12.299 --> 00:38:13.739] RIKER: I suggest you head for Meles Two.
+[00:38:13.979 --> 00:38:15.099] RIKER: It's the nearest inhabited planet, the
+[00:38:15.739 --> 00:38:16.459] RIKER: people are friendly.
+[00:38:17.419 --> 00:38:18.779] RIKER: Where you go from there is your business.
+[00:38:19.099 --> 00:38:21.259] MORIARTY: Please tell your Captain I'm sorry I couldn't say goodbye.
+[00:38:22.219 --> 00:38:25.339] MORIARTY: I do wish I could see his face when he realises where he's been the last several hours.
+[00:38:25.979 --> 00:38:28.139] RIKER: Every second we waste puts us in that much more danger.
+[00:38:28.859 --> 00:38:29.579] MORIARTY: Don't worry, Commander.
+[00:38:29.979 --> 00:38:31.179] MORIARTY: You'll soon have control of your ship.
+[00:38:31.419 --> 00:38:32.139] COUNTESS: Goodbye, Commander.
+[00:38:32.139 --> 00:38:33.499] COUNTESS: Thank you for everything.
+[00:38:33.499 --> 00:38:34.619] MORIARTY: Computer, prepare to depart.
+[00:38:37.979 --> 00:38:40.699] RIKER: Open shuttlebay doors.
+[00:38:41.579 --> 00:38:42.619] COUNTESS: This is so
+[00:38:54.379 --> 00:38:54.779] COUNTESS: beautiful.
+[00:38:56.059 --> 00:38:56.779] MORIARTY: Indeed, my dear.
+[00:38:58.166 --> 00:38:59.446] MORIARTY: It is a wondrous sight.
+[00:38:59.446 --> 00:38:59.446] MORIARTY: The
+[00:39:01.526 --> 00:39:04.006] MORIARTY: first of many we are sure to encounter in our travels.
+[00:39:06.806 --> 00:39:10.646] MORIARTY: Computer, interface with the central computer on the Enterprise.
+[00:39:11.846 --> 00:39:12.806] COMPUTER: Interface complete.
+[00:39:14.246 --> 00:39:16.326] MORIARTY: Release command function lockouts.
+[00:39:17.526 --> 00:39:18.326] MORIARTY: Authorisation
+[00:39:19.606 --> 00:39:20.246] MORIARTY: Moriarty,
+[00:39:21.206 --> 00:39:23.126] MORIARTY: alpha two four one five nine.
+[00:39:24.326 --> 00:39:24.566] COUNTESS: James?
+[00:39:25.606 --> 00:39:26.086] MORIARTY: Yes, my love?
+[00:39:28.086 --> 00:39:30.966] COUNTESS: Can we go back to Earth some day?
+[00:39:31.926 --> 00:39:32.726] MORIARTY: Of course, my dear.
+[00:39:34.406 --> 00:39:35.046] MORIARTY: Of course.
+[00:39:42.726 --> 00:39:47.046] PICARD: Computer. Store programme Picard delta one in active memory and discontinue simulation.
+[00:39:47.126 --> 00:39:49.826] COMPUTER: Programme stored.
+[00:39:50.726 --> 00:39:51.926] PICARD: Well, it worked.
+[00:39:53.446 --> 00:39:55.446] PICARD: They believed
+[00:39:58.806 --> 00:39:59.766] PICARD: they were off the holodeck.
+[00:40:00.326 --> 00:40:02.166] DATA: Did Moriarty release the voice commands, Captain?
+[00:40:02.806 --> 00:40:03.286] PICARD: Let's find out.
+[00:40:03.846 --> 00:40:07.046] PICARD: Computer, discontinue holodeck simulation created by Professor Moriarty.
+[00:40:11.286 --> 00:40:12.166] BARCLAY: So far, so good.
+[00:40:12.166 --> 00:40:14.486] BARCLAY: This should be the holodeck on the real Enterprise.
+[00:40:15.286 --> 00:40:16.006] PICARD: Picard to Bridge.
+[00:40:16.006 --> 00:40:17.206] RIKER: Captain, are you all right?
+[00:40:18.086 --> 00:40:18.966] PICARD: Yes, we are, Number One.
+[00:40:19.446 --> 00:40:20.166] PICARD: What is your status?
+[00:40:20.966 --> 00:40:22.566] RIKER: Our systems came back online a few minutes ago.
+[00:40:23.206 --> 00:40:24.246] PICARD: And the planetary collision?
+[00:40:24.886 --> 00:40:26.086] RIKER: We're pulling back to a safe distance.
+[00:40:27.046 --> 00:40:27.846] PICARD: We'll join you shortly.
+[00:40:31.029 --> 00:40:31.292] WORF: Captain.
+[00:40:31.292 --> 00:40:32.869] PICARD: Mister Worf, everything is all right.
+[00:40:41.349 --> 00:40:42.069] RIKER: How did you do it, sir?
+[00:40:42.709 --> 00:40:48.149] PICARD: We managed to programme the holodeck inside the holodeck, and use the same ruse that Moriarty used on us.
+[00:40:48.869 --> 00:40:52.549] DATA: When he was attempting to contact the real Bridge, he was in fact speaking to a simulation.
+[00:40:53.109 --> 00:40:54.629] TROI: You mean he never knew he hadn't left the holodeck?
+[00:40:55.909 --> 00:40:59.589] PICARD: In fact, the programme is continuing even now inside that cube.
+[00:41:00.149 --> 00:41:01.075] CRUSHER: A miniature holodeck?
+[00:41:01.075 --> 00:41:02.309] DATA: In a way, Doctor.
+[00:41:02.789 --> 00:41:04.309] DATA: However, there is no physicality.
+[00:41:04.869 --> 00:41:07.669] DATA: The programme is continuous but only within the computer's circuitry.
+[00:41:08.069 --> 00:41:11.669] BARCLAY: As far as Moriarty and the Countess know, they're half way to Meles Two by now.
+[00:41:13.829 --> 00:41:20.389] BARCLAY: This enhancement module contains enough active memory to provide them experiences for a lifetime.
+[00:41:20.709 --> 00:41:23.029] PICARD: They will live their lives and never know any difference.
+[00:41:23.749 --> 00:41:25.909] TROI: In a sense, you did give Moriarty what he wanted.
+[00:41:26.389 --> 00:41:28.629] PICARD: In a sense. But who knows?
+[00:41:29.189 --> 00:41:39.269] PICARD: Our reality may be very much like theirs. All this might be just be an elaborate simulation running inside a little device sitting on someone's table.
+[00:41:41.749 --> 00:41:45.669] PICARD: Well, we have a newborn star to study. Mister Barclay,
+[00:41:45.989 --> 00:41:46.869] PICARD: you will keep that safe?
+[00:41:47.269 --> 00:41:47.509] BARCLAY: Aye, sir.
+[00:41:56.629 --> 00:41:57.669] BARCLAY: Computer, end programme.
+[00:42:05.000 --> 00:42:15.000] [music]
+[00:42:16.000 --> 00:42:26.000] [music]

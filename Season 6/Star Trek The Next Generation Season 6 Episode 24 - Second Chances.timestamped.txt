@@ -1,0 +1,604 @@
+[00:00:02.000 --> 00:00:05.280] LOG: Captain's log, stardate 46915.2.
+[00:00:05.840 --> 00:00:16.000] LOG: The Enterprise is orbiting Nervala Four, waiting for an opportunity to retrieve scientific data left there by Starfleet researchers when they were forced to evacuate eight years ago.
+[00:01:03.440 --> 00:01:04.960] RIKER: Thank you. Thank you very much.
+[00:01:04.960 --> 00:01:05.048] RIKER: Thank you.
+[00:01:05.093 --> 00:01:05.315] RIKER: Thank you very much. Any requests tonight?
+[00:01:05.360 --> 00:01:06.080] TROI: Night Bird.
+[00:01:07.760 --> 00:01:08.240] RIKER: Any request?
+[00:01:08.240 --> 00:01:08.480] TROI: Night
+[00:01:09.040 --> 00:01:10.240] TROI: Bird!
+[00:01:14.080 --> 00:01:14.720] RIKER: Ladies and gentlemen,
+[00:01:15.840 --> 00:01:16.400] RIKER: Night Bird. One, two.
+[00:01:16.880 --> 00:01:17.040] CRUSHER: What
+[00:01:24.640 --> 00:01:27.120] CRUSHER: was that all about?
+[00:01:28.240 --> 00:01:30.960] TROI: Will's been trying to get this piece right for ten years now.
+[00:01:32.104 --> 00:01:33.544] TROI: He's never made it through the solo.
+[00:01:42.904 --> 00:01:43.144] TROI: Here it comes.
+[00:01:43.144 --> 00:01:43.944] DATA: Data to Commander Riker.
+[00:01:45.144 --> 00:01:46.051] RIKER: Go ahead.
+[00:01:46.051 --> 00:01:46.504] DATA: Commander,
+[00:01:46.824 --> 00:01:47.864] DATA: you are needed on the Bridge.
+[00:01:48.424 --> 00:01:48.984] RIKER: On my way.
+[00:01:53.384 --> 00:01:54.104] RIKER: Saved by the bell.
+[00:02:01.064 --> 00:02:08.264] RIKER: You wanted to see me, Mister Data?
+[00:02:08.584 --> 00:02:08.824] DATA: Yes, sir.
+[00:02:09.304 --> 00:02:12.744] DATA: It appears we will be able to transport to the surface sooner than anticipated.
+[00:02:12.744 --> 00:02:15.304] RIKER: Is the planet's distortion field re-phasing sooner than we predicted?
+[00:02:15.784 --> 00:02:16.024] DATA: No, sir.
+[00:02:16.664 --> 00:02:22.292] DATA: Using the Potemkin's transport logs from the original evacuation, Commander La Forge and I were able to modify the transporters.
+[00:02:22.292 --> 00:02:24.824] RIKER: So we can beam through a higher distortion field.
+[00:02:25.304 --> 00:02:28.824] DATA: The transporters are considerably more efficient than those used on the Potemkin eight years ago.
+[00:02:29.064 --> 00:02:31.544] RIKER: That's a good thing.
+[00:02:31.544 --> 00:02:32.904] RIKER: I almost didn't make it off the surface.
+[00:02:34.344 --> 00:02:34.984] RIKER: When can we get started?
+[00:02:35.464 --> 00:02:36.424] DATA: Ninety seven minutes, sir.
+[00:02:36.984 --> 00:02:38.184] RIKER: How long will the transport window be open?
+[00:02:38.904 --> 00:02:39.704] DATA: Twenty six minutes.
+[00:02:40.024 --> 00:02:41.944] DATA: After that, the distortion field will re-phase.
+[00:02:42.344 --> 00:02:44.264] RIKER: That doesn't give us much time to retrieve the database.
+[00:02:44.744 --> 00:02:49.144] DATA: The planet's proximity to its sun will create two additional transport windows in the next three days.
+[00:02:49.784 --> 00:02:50.424] RIKER: Let's hope that's enough.
+[00:02:51.064 --> 00:02:51.944] DATA: It will have to be, sir.
+[00:02:52.584 --> 00:02:58.744] DATA: The next transport window will not occur for another eight years, when the planet's orbit will bring it close enough to the sun to de-phase the distortion field.
+[00:02:59.144 --> 00:03:01.304] RIKER: Okay, notify the away team that we're going in ahead of schedule.
+[00:03:01.624 --> 00:03:02.344] RIKER: I'll tell the Captain.
+[00:03:02.344 --> 00:03:02.584] DATA: Aye, sir.
+[00:03:20.566 --> 00:03:21.686] RIKER: This is different than I remember.
+[00:03:23.206 --> 00:03:25.046] RIKER: The place was a mess when we left.
+[00:03:25.046 --> 00:03:25.446] DATA: Commander.
+[00:03:29.926 --> 00:03:30.566] RIKER: Someone was here.
+[00:03:31.286 --> 00:03:34.006] WORF: A ship could have been caught in the distortion field and crashed.
+[00:03:34.406 --> 00:03:36.166] WORF: The survivors may have taken refuge here.
+[00:03:36.726 --> 00:03:38.486] DATA: Commander, someone is approaching.
+[00:03:39.446 --> 00:03:42.326] DATA: A humanoid. Forty metres due east and closing.
+[00:04:28.406 --> 00:04:31.126] PICARD: Space, the final frontier.
+[00:04:33.022 --> 00:04:35.902] PICARD: These are the voyages of the starship Enterprise.
+[00:04:37.022 --> 00:04:45.022] PICARD: Its continuing mission: to explore strange new worlds, to seek out new life and new civilizations,
+[00:04:46.622 --> 00:04:49.102] PICARD: to boldly go where no one has gone
+[00:04:50.862 --> 00:04:52.862] PICARD: before.
+[00:04:58.990 --> 00:05:00.990] RIKER: Who
+[00:05:07.118 --> 00:05:09.118] RIKER: are
+[00:05:13.182 --> 00:05:13.182] RIKER: you?
+[00:05:56.862 --> 00:05:57.262] RIKER 2: Who are you?
+[00:06:01.502 --> 00:06:04.622] RIKER: I'm Commander William Riker from the Federation Starship Enterprise.
+[00:06:04.595 --> 00:06:06.915] RIKER 2: That's not possible.
+[00:06:08.035 --> 00:06:08.675] RIKER 2: I'm Will Riker.
+[00:06:10.515 --> 00:06:11.715] DATA: May I ask how you got here?
+[00:06:12.915 --> 00:06:15.635] RIKER 2: Eight years ago, I led a team to evacuate this station.
+[00:06:16.275 --> 00:06:18.035] RIKER: What ship were you on?
+[00:06:18.035 --> 00:06:18.675] RIKER 2: The Potemkin.
+[00:06:21.795 --> 00:06:23.875] DATA: Why did you not return to the Potemkin with the others?
+[00:06:25.475 --> 00:06:26.355] RIKER 2: I was the last one out.
+[00:06:26.355 --> 00:06:29.875] RIKER 2: The distortion field must have interfered with the transport.
+[00:06:29.875 --> 00:06:32.755] RIKER 2: They lost their signal lock on me.
+[00:06:33.795 --> 00:06:36.675] RIKER 2: When I tried to contact the ship, I couldn't get through the interference.
+[00:06:38.435 --> 00:06:41.715] RIKER 2: If you check with Starfleet I'm sure they will have recorded that I was lost on that day.
+[00:06:42.115 --> 00:06:42.915] RIKER: That's not what happened.
+[00:06:44.035 --> 00:06:46.355] RIKER: I was the last one out and I made it back to the Potemkin.
+[00:06:47.875 --> 00:06:48.835] RIKER 2: You don't believe me?
+[00:06:51.235 --> 00:06:52.675] RIKER: It's not that we don't believe you.
+[00:06:53.715 --> 00:06:55.475] RIKER: It's just hard to see how both stories could be true.
+[00:06:55.715 --> 00:06:59.155] RIKER: Would you be willing have our Doctor check you out?
+[00:06:59.155 --> 00:07:00.355] RIKER 2: Of course.
+[00:07:00.675 --> 00:07:05.715] RIKER: Mister Worf, take him directly to Sickbay, and notify the Captain once you're on board.
+[00:07:06.835 --> 00:07:07.475] RIKER: Let's get to work.
+[00:07:14.835 --> 00:07:16.275] WORF: Worf to Enterprise. Two to beam up.
+[00:07:17.075 --> 00:07:17.315] CREWMAN: Aye, sir.
+[00:07:17.635 --> 00:07:17.955] CREWMAN: Stand by.
+[00:07:17.955 --> 00:07:18.035] CRUSHER: Looks
+[00:07:24.755 --> 00:07:26.275] CRUSHER: like you fractured your arm a few years ago.
+[00:07:27.235 --> 00:07:29.635] RIKER 2: I was doing some repairs under the station when an earthquake hit.
+[00:07:30.355 --> 00:07:31.235] RIKER 2: I got caught in a rockslide.
+[00:07:32.115 --> 00:07:32.995] RIKER 2: I had to set it myself.
+[00:07:43.243 --> 00:07:43.963] PICARD: Jean-Luc Picard.
+[00:07:45.723 --> 00:07:46.203] RIKER 2: Lieutenant Will Riker.
+[00:07:46.203 --> 00:07:46.443] PICARD: I
+[00:07:49.643 --> 00:07:50.603] PICARD: hope you understand
+[00:07:50.603 --> 00:07:51.963] PICARD: our need to verify your claim.
+[00:07:52.683 --> 00:07:53.083] RIKER 2: Yes, sir.
+[00:07:53.643 --> 00:07:56.203] CRUSHER: Genetically, he's indistinguishable from Commander Riker.
+[00:07:58.283 --> 00:08:01.963] PICARD: Could there be some sort of cloning involved here?
+[00:08:02.363 --> 00:08:03.003] CRUSHER: I don't think so.
+[00:08:03.003 --> 00:08:04.203] CRUSHER: There's no genetic drift.
+[00:08:04.843 --> 00:08:05.723] PICARD: But it's not conclusive.
+[00:08:06.203 --> 00:08:07.963] CRUSHER: That's why I compared their brain scans.
+[00:08:08.363 --> 00:08:12.843] CRUSHER: Brain organisation patterns are as unique as fingerprints. Except for minor, minor differences,
+[00:08:12.843 --> 00:08:13.723] CRUSHER: theirs are identical.
+[00:08:14.763 --> 00:08:16.603] PICARD: But can't brain patterns be cloned?
+[00:08:16.923 --> 00:08:20.523] CRUSHER: No. They're determined by experience, mostly from early childhood.
+[00:08:22.603 --> 00:08:25.723] PICARD: How can two grown men share the same childhood experiences?
+[00:08:25.723 --> 00:08:27.003] PICARD: It just doesn't make any sense.
+[00:08:27.563 --> 00:08:28.123] RIKER 2: I am Will Riker.
+[00:08:28.123 --> 00:08:32.843] RIKER 2: I don't know who or what made it back to the Potemkin that day, but it wasn't me.
+[00:08:33.723 --> 00:08:37.643] PICARD: Lieutenant, our Chief Engineer is checking the transport logs of the Potemkin.
+[00:08:38.283 --> 00:08:39.883] PICARD: Perhaps that will shed some light on the matter.
+[00:08:41.563 --> 00:08:44.443] PICARD: Don't worry, we will get to the bottom of this.
+[00:08:45.643 --> 00:08:48.363] PICARD: And in the meantime, you will be taken to your quarters.
+[00:08:48.523 --> 00:08:50.363] PICARD: Try and make yourself as comfortable as possible.
+[00:08:50.763 --> 00:08:51.163] RIKER 2: I will.
+[00:08:52.123 --> 00:08:54.363] RIKER 2: The replicators on the station haven't worked for a long time ago.
+[00:08:54.443 --> 00:08:55.803] RIKER 2: It's been a while since I've had a decent meal.
+[00:08:57.083 --> 00:08:57.323] RIKER 2: Doctor.
+[00:09:06.816 --> 00:09:11.696] LAFORGE: Apparently there was a massive energy surge in the distortion field around the planet just at the moment you tried to beam out.
+[00:09:12.656 --> 00:09:15.696] LAFORGE: The Transporter Chief tried to compensate by initiating a second containment beam.
+[00:09:16.496 --> 00:09:17.536] DATA: An interesting approach.
+[00:09:17.936 --> 00:09:20.896] DATA: He must have been planning to reintegrate the two patterns in the transport buffer.
+[00:09:21.456 --> 00:09:23.456] LAFORGE: Actually, it wasn't really necessary.
+[00:09:25.056 --> 00:09:29.056] LAFORGE: Commander Riker's pattern maintained its integrity with just the one containment beam.
+[00:09:29.616 --> 00:09:30.896] LAFORGE: He made it back to the ship just fine.
+[00:09:31.296 --> 00:09:32.416] CRUSHER: What happened to the second beam?
+[00:09:32.736 --> 00:09:36.496] LAFORGE: The Transporter Chief shut it down, but somehow it was reflected back to the surface.
+[00:09:37.056 --> 00:09:39.216] PICARD: And another William Riker materialised there.
+[00:09:39.936 --> 00:09:42.336] RIKER: How was the second pattern able to maintained its integrity?
+[00:09:42.896 --> 00:09:46.896] LAFORGE: The containment beam must have had the exact same phase differential as the distortion field.
+[00:09:47.696 --> 00:09:48.576] RIKER: Which one of them is real?
+[00:09:49.216 --> 00:09:49.856] LAFORGE: That's the thing.
+[00:09:50.816 --> 00:09:51.296] LAFORGE: Both.
+[00:09:52.416 --> 00:09:55.456] LAFORGE: You were both materialised from a complete pattern.
+[00:09:56.496 --> 00:09:58.336] CRUSHER: Up until that moment, you were the same person.
+[00:09:58.896 --> 00:10:06.096] PICARD: But of course, as you and Lieutenant Riker have lived very different lives for the past eight years, you are now very different people.
+[00:10:06.096 --> 00:10:09.376] PICARD: I suppose it's a little like meeting someone's twin.
+[00:10:10.656 --> 00:10:16.736] PICARD: But no matter how strange it may seem to us, we now have two Will Rikers on board.
+[00:10:17.136 --> 00:10:23.936] PICARD: And as Lieutenant Riker will be with us for several days, I think we should do everything we can to make him comfortable and welcome.
+[00:10:24.336 --> 00:10:26.336] RIKER: We still have the problem of retrieving the database.
+[00:10:26.736 --> 00:10:28.656] RIKER: The computer on the station is not completely operational.
+[00:10:29.224 --> 00:10:31.624] DATA: Many of its components have been removed.
+[00:10:31.864 --> 00:10:35.864] DATA: Apparently Lieutenant Riker used them to keep the station's radiation shield operational.
+[00:10:36.184 --> 00:10:36.904] PICARD: Can it be repaired,
+[00:10:37.384 --> 00:10:39.384] PICARD: at least enough to access the database?
+[00:10:40.664 --> 00:10:42.264] RIKER: Without knowing what he did, that'll be tough.
+[00:10:42.984 --> 00:10:43.864] PICARD: Perhaps he can help us.
+[00:10:44.664 --> 00:10:46.424] PICARD: He was alone down there for a long time.
+[00:10:46.824 --> 00:10:49.464] PICARD: I'm hesitant to let him go back until he's been evaluated.
+[00:10:50.184 --> 00:10:50.904] TROI: I'll talk to him.
+[00:10:52.584 --> 00:10:53.224] PICARD: Thank you, Counsellor.
+[00:11:07.624 --> 00:11:09.464] RIKER 2: Come in.
+[00:11:10.344 --> 00:11:11.464] TROI: Hello, Will.
+[00:11:13.944 --> 00:11:17.304] RIKER 2: Imzadi.
+[00:11:26.024 --> 00:11:26.264] TROI: Will.
+[00:11:26.264 --> 00:11:28.504] RIKER 2: I never thought I'd see you again.
+[00:11:30.344 --> 00:11:31.384] TROI: We need to talk.
+[00:11:33.624 --> 00:11:35.064] RIKER 2: You're on board because of him.
+[00:11:35.224 --> 00:11:40.104] TROI: No. Commander Riker and I are friends. Close friends, but nothing more.
+[00:11:44.024 --> 00:11:45.064] TROI: Why don't we sit down?
+[00:11:56.824 --> 00:11:58.744] TROI: Do you remember the last time we saw each other?
+[00:12:00.294 --> 00:12:03.254] RIKER 2: Like yesterday. The Janaran Falls on Betazed.
+[00:12:05.014 --> 00:12:07.435] TROI: It was the day before you started your tour on the Potemkin.
+[00:12:07.435 --> 00:12:09.654] RIKER 2: And we were going to meet on Risa, six weeks later.
+[00:12:10.374 --> 00:12:10.934] TROI: We never did.
+[00:12:11.574 --> 00:12:11.814] RIKER 2: I know.
+[00:12:12.534 --> 00:12:16.214] TROI: No, what I mean is, Commander Riker and I never did.
+[00:12:19.014 --> 00:12:21.094] TROI: You see, he earned a promotion very quickly.
+[00:12:22.774 --> 00:12:23.574] RIKER 2: I know that too.
+[00:12:24.534 --> 00:12:28.534] RIKER 2: 'For exceptional valour during the evacuation of the research station on Nervala Four'.
+[00:12:30.934 --> 00:12:32.854] RIKER 2: I looked at his service record.
+[00:12:33.734 --> 00:12:35.894] TROI: He chose to make his career a priority.
+[00:12:37.334 --> 00:12:38.934] TROI: There wasn't much time for anything else.
+[00:12:40.694 --> 00:12:46.134] TROI: We kept in touch but we didn't see each other again until we were both posted to the Enterprise two years later.
+[00:12:47.334 --> 00:12:49.654] TROI: By then our feelings for each other had changed.
+[00:12:52.294 --> 00:12:53.974] TROI: We've served together for six years.
+[00:12:56.134 --> 00:12:58.054] TROI: Things never went back to the way they used to be.
+[00:13:07.654 --> 00:13:09.734] RIKER 2: I had a lot of time on my hands when I was down on that station.
+[00:13:11.814 --> 00:13:14.294] RIKER 2: There were days I felt so alone I thought I might lose my mind.
+[00:13:19.094 --> 00:13:19.894] RIKER 2: Do you know how I made it through?
+[00:13:21.414 --> 00:13:23.494] RIKER 2: I thought if I hung on for more day, they'd rescue me.
+[00:13:25.188 --> 00:13:26.068] RIKER 2: Maybe I'd see you again.
+[00:13:33.108 --> 00:13:35.748] RIKER 2: I guess things don't always work out the way you expect them to.
+[00:13:36.708 --> 00:13:38.308] TROI: I know this isn't what you were hoping for,
+[00:13:40.468 --> 00:13:42.628] TROI: but that doesn't mean you can't make a future for yourself.
+[00:13:43.748 --> 00:13:44.148] RIKER 2: Thanks.
+[00:13:50.548 --> 00:13:55.188] TROI: Captain Picard wanted me to find out if you'd be willing to help us retrieve the station's database.
+[00:13:58.148 --> 00:14:01.268] RIKER 2: I reconfigured that computer so many times they probably can't make heads or tails of it.
+[00:14:02.868 --> 00:14:03.668] RIKER 2: I'd be happy to help.
+[00:14:04.788 --> 00:14:05.428] TROI: Do you feel up to it?
+[00:14:06.548 --> 00:14:07.188] RIKER 2: Absolutely.
+[00:14:08.148 --> 00:14:08.388] TROI: Good.
+[00:14:08.388 --> 00:14:09.108] TROI: I'll tell the Captain.
+[00:14:11.428 --> 00:14:11.588] TROI: Well,
+[00:14:13.108 --> 00:14:13.748] TROI: I have to go.
+[00:14:16.788 --> 00:14:17.188] RIKER 2: Deanna.
+[00:14:20.628 --> 00:14:22.148] RIKER 2: I know it's been a long time since we've been together,
+[00:14:23.908 --> 00:14:25.428] RIKER 2: and I know your feelings have changed.
+[00:14:27.908 --> 00:14:28.468] RIKER 2: Mine haven't.
+[00:14:30.708 --> 00:14:31.428] RIKER 2: I can't just give up.
+[00:14:33.828 --> 00:14:34.708] RIKER 2: I'd like to be with you again.
+[00:14:39.668 --> 00:14:40.228] TROI: Goodnight, Will.
+[00:14:50.548 --> 00:14:53.748] PALMER: Phase distortion is dropping.
+[00:14:53.748 --> 00:14:56.628] PALMER: The second transport window opens in forty two seconds.
+[00:14:56.868 --> 00:14:57.908] RIKER: How long will we have, Lieutenant?
+[00:14:57.988 --> 00:14:58.868] PALMER: Thirty six minutes, sir.
+[00:14:59.184 --> 00:15:00.064] WORF: We are losing time.
+[00:15:00.224 --> 00:15:01.504] WORF: Lieutenant Riker should be here.
+[00:15:03.184 --> 00:15:04.304] RIKER: Computer, locate Lieutenant
+[00:15:07.104 --> 00:15:07.904] RIKER: Cancel inquiry.
+[00:15:08.624 --> 00:15:10.864] WORF: You were supposed to report here at eight hundred hours.
+[00:15:11.264 --> 00:15:11.664] RIKER 2: I'm sorry,
+[00:15:11.664 --> 00:15:11.952] RIKER 2: I was
+[00:15:11.952 --> 00:15:13.824] RIKER: I guess it's been a while since you've had to punch a clock.
+[00:15:14.304 --> 00:15:14.784] RIKER: Let's go.
+[00:15:18.544 --> 00:15:19.184] RIKER: Energise.
+[00:15:25.184 --> 00:15:27.184] RIKER 2: I've shut down most of the consoles to save power.
+[00:15:27.424 --> 00:15:28.944] RIKER 2: I re-routed just about everything through here.
+[00:15:37.024 --> 00:15:38.784] RIKER: Check out the primary EPS system.
+[00:15:39.104 --> 00:15:40.704] RIKER: See if you can get some power to the rest of these consoles.
+[00:15:44.544 --> 00:15:49.184] RIKER 2: I shunted the database to the main core underneath the station.
+[00:15:49.184 --> 00:15:50.144] RIKER: Can we access it from here?
+[00:15:50.544 --> 00:15:52.544] RIKER 2: There's been a lot of seismic activity over the years.
+[00:15:52.864 --> 00:15:53.984] RIKER 2: If the servo-links were damaged
+[00:15:53.984 --> 00:15:54.864] RIKER 2: we may not be able to.
+[00:15:56.064 --> 00:15:58.064] RIKER 2: I'll try to tap into the command pathways.
+[00:15:58.544 --> 00:15:59.584] RIKER 2: You see if you can access and
+[00:16:00.064 --> 00:16:01.664] RIKER 2: disable the file server.
+[00:16:15.584 --> 00:16:17.984] RIKER: You know, I've been thinking we should probably let Dad know what happened.
+[00:16:19.104 --> 00:16:21.024] RIKER 2: I'm sure he'll be thrilled to know there are two of us now.
+[00:16:21.584 --> 00:16:23.744] RIKER: Actually, he and I have been able to patch a few things up.
+[00:16:24.384 --> 00:16:27.504] RIKER 2: I've been able to get by for a long time without seeing him.
+[00:16:27.664 --> 00:16:28.704] RIKER 2: I'm not about to start now.
+[00:16:30.944 --> 00:16:32.064] RIKER 2: What made you contact him?
+[00:16:32.944 --> 00:16:33.504] RIKER: I didn't.
+[00:16:33.882 --> 00:16:36.682] RIKER: He came on board the Enterprise to brief me when I was offered the Aries.
+[00:16:37.722 --> 00:16:40.922] RIKER 2: What did he say when you turned down your own command?
+[00:16:40.922 --> 00:16:44.202] RIKER: He couldn't understand why I did it.
+[00:16:44.202 --> 00:16:45.722] RIKER 2: For once he and I agree on something.
+[00:16:45.882 --> 00:16:49.882] WORF: The primary EPS coupling is fused.
+[00:16:49.882 --> 00:16:51.482] WORF: The entire unit will have to be replaced.
+[00:16:51.482 --> 00:16:52.842] RIKER 2: I've accessed the command pathways.
+[00:16:52.842 --> 00:16:54.442] RIKER 2: The interlink pathways are functioning now.
+[00:16:57.082 --> 00:16:57.962] RIKER: See if that did the trick.
+[00:17:04.922 --> 00:17:05.642] RIKER: No, it's not working.
+[00:17:06.042 --> 00:17:07.482] RIKER 2: The servo-link must be damaged.
+[00:17:08.202 --> 00:17:10.602] RIKER 2: We're going to have to go under the station and access the core directly.
+[00:17:10.922 --> 00:17:12.522] DATA: We have less than three minutes left.
+[00:17:13.162 --> 00:17:13.802] RIKER 2: I'll stay here.
+[00:17:14.522 --> 00:17:16.202] RIKER 2: I'll be finished by the time the third window opens.
+[00:17:16.762 --> 00:17:17.562] RIKER: It's too dangerous.
+[00:17:17.722 --> 00:17:19.642] RIKER: Our scans show the caverns are unstable.
+[00:17:20.042 --> 00:17:21.242] RIKER 2: I've been down there dozens of times.
+[00:17:21.242 --> 00:17:22.122] RIKER 2: I know my way around.
+[00:17:24.122 --> 00:17:25.482] RIKER: We'll come back during the third window,
+[00:17:25.482 --> 00:17:27.002] RIKER: We'll bring a new EPS coupling
+[00:17:27.002 --> 00:17:29.402] RIKER: and try to access the core from another console up here.
+[00:17:31.402 --> 00:17:32.202] RIKER: Riker to Enterprise.
+[00:17:32.362 --> 00:17:32.842] LAFORGE: La Forge here.
+[00:17:32.922 --> 00:17:33.722] RIKER: We're ready to beam out.
+[00:17:34.202 --> 00:17:34.762] RIKER 2: You go ahead.
+[00:17:35.162 --> 00:17:36.442] RIKER 2: I'll be finished by the time you get back.
+[00:17:36.922 --> 00:17:37.322] RIKER: Hold it!
+[00:17:41.882 --> 00:17:43.162] RIKER: I gave you an order, Lieutenant.
+[00:17:52.762 --> 00:17:55.882] TROI: Computer, valerian root tea, hot.
+[00:18:13.164 --> 00:18:16.204] TROI: Meet me in Transporter room three at nineteen hundred hours.
+[00:18:16.684 --> 00:18:17.644] TROI: It's important.
+[00:18:17.644 --> 00:18:17.644] TROI: It
+[00:18:40.604 --> 00:18:42.844] TROI: pulses unendingly all through the night.
+[00:18:43.404 --> 00:18:45.884] TROI: Seek out the crystal that powers our flight.
+[00:19:08.764 --> 00:19:09.644] LAFORGE: Can I help you, Counsellor?
+[00:19:10.204 --> 00:19:10.844] TROI: No, thank you.
+[00:19:20.044 --> 00:19:26.844] TROI: What the future holds no one can know, But forward we look and forward we go.
+[00:20:04.307 --> 00:20:05.027] RIKER 2: The Janaran falls.
+[00:20:05.747 --> 00:20:06.387] TROI: I remember.
+[00:20:07.987 --> 00:20:08.947] TROI: Where did you get this?
+[00:20:08.947 --> 00:20:09.267] RIKER 2: I made it
+[00:20:09.267 --> 00:20:11.507] RIKER 2: a couple of years ago down on the station.
+[00:20:12.387 --> 00:20:13.507] TROI: You made this?
+[00:20:13.507 --> 00:20:14.707] RIKER 2: You should have seen the first two.
+[00:20:14.787 --> 00:20:17.027] RIKER 2: It took a while to get a fine enough beam out of the phaser.
+[00:20:19.107 --> 00:20:20.067] TROI: It's lovely.
+[00:20:20.547 --> 00:20:21.187] TROI: Thank you.
+[00:20:22.387 --> 00:20:23.427] RIKER 2: Can you stay and talk?
+[00:20:25.987 --> 00:20:30.707] RIKER 2: I wanted to remember our last night together.
+[00:20:40.307 --> 00:20:43.507] TROI: So, how does it feel being with people again?
+[00:20:43.827 --> 00:20:44.067] RIKER 2: Great.
+[00:20:47.507 --> 00:20:48.227] RIKER 2: Strange.
+[00:20:49.827 --> 00:20:52.307] RIKER 2: For a long time I did whatever I wanted, whenever I wanted.
+[00:20:52.307 --> 00:20:55.667] RIKER 2: It's been hard taking orders again.
+[00:20:56.547 --> 00:20:57.267] TROI: I can imagine.
+[00:20:57.987 --> 00:21:00.947] RIKER 2: But I guess I'll have to get used to it if I want to get my career going again.
+[00:21:01.587 --> 00:21:03.107] TROI: Is that what you've decided to do?
+[00:21:03.823 --> 00:21:06.303] RIKER 2: Remember, I'm the one who wanted to make Captain by the time I was thirty five.
+[00:21:06.303 --> 00:21:06.303] RIKER 2: I'm
+[00:21:07.823 --> 00:21:08.863] RIKER 2: a little behind schedule, I'll
+[00:21:09.663 --> 00:21:10.143] RIKER 2: admit that.
+[00:21:12.543 --> 00:21:14.143] TROI: It's good you don't feel set back.
+[00:21:17.423 --> 00:21:17.743] RIKER 2: I do.
+[00:21:20.223 --> 00:21:22.783] RIKER 2: Things are a little more complicated than I had planned, but
+[00:21:24.543 --> 00:21:29.103] RIKER 2: there's nothing going to stand in the way of my getting what I want.
+[00:21:29.183 --> 00:21:32.143] WAITER: There you go.
+[00:21:32.143 --> 00:21:32.383] RIKER 2: Thanks.
+[00:21:34.063 --> 00:21:34.223] RIKER 2: You
+[00:21:37.103 --> 00:21:39.583] RIKER 2: don't know how many times I thought about you, about us.
+[00:21:40.863 --> 00:21:46.943] RIKER 2: For weeks after the evacuation, I kept thinking they'd find a way through the distortion field and come back for me.
+[00:21:47.983 --> 00:21:48.543] RIKER 2: I even thought
+[00:21:50.623 --> 00:21:52.303] RIKER 2: we'd meet on Risa like we planned.
+[00:21:52.453 --> 00:21:53.053] RIKER 2: But
+[00:21:54.623 --> 00:21:56.223] RIKER 2: days went by and nobody came.
+[00:21:57.903 --> 00:21:58.943] RIKER 2: Then I realised why.
+[00:22:01.263 --> 00:22:02.783] RIKER 2: They thought that I had been killed in the beam out.
+[00:22:03.343 --> 00:22:06.063] RIKER 2: No one came down because they thought there was no one to come down for.
+[00:22:09.743 --> 00:22:13.343] RIKER 2: So I figured that they'd had a memorial service for me.
+[00:22:14.543 --> 00:22:15.823] RIKER 2: Somehow that made me feel better.
+[00:22:16.303 --> 00:22:19.263] TROI: I can understand that.
+[00:22:20.143 --> 00:22:22.143] RIKER 2: You were there, all dressed in black.
+[00:22:23.023 --> 00:22:24.223] RIKER 2: Very flattering on you, by the way.
+[00:22:24.623 --> 00:22:29.343] TROI: I'm sure I looked terrible with my eyes all red and swollen from crying.
+[00:22:32.638 --> 00:22:42.158] RIKER 2: Sometimes I would look up into the sky and I'd think, if I tried hard enough, I could make you feel my presence.
+[00:22:44.078 --> 00:22:45.998] RIKER 2: That if I could let you know that I was alive,
+[00:22:47.518 --> 00:22:48.398] RIKER 2: maybe you'd wait for me.
+[00:22:49.918 --> 00:22:54.718] RIKER 2: I know it sounds crazy, but there were times when I could've
+[00:22:56.318 --> 00:22:58.318] RIKER 2: sworn.
+[00:22:58.638 --> 00:22:59.518] RIKER 2: What am I talking about?
+[00:23:05.838 --> 00:23:11.278] TROI: The other day, when I told you about how Commander Riker and I didn't meet on Risa,
+[00:23:13.278 --> 00:23:15.358] TROI: what I didn't say was how disappointed I was.
+[00:23:17.278 --> 00:23:17.998] RIKER 2: You didn't have to.
+[00:23:19.598 --> 00:23:19.838] RIKER 2: I knew.
+[00:23:25.118 --> 00:23:26.878] TROI: I started to hear from him less and less.
+[00:23:29.118 --> 00:23:31.278] TROI: I knew his career was taking him away from me but I
+[00:23:32.958 --> 00:23:34.158] TROI: didn't want to believe it was over.
+[00:23:39.838 --> 00:23:41.598] TROI: I spent a lot of time thinking about him.
+[00:23:43.838 --> 00:23:45.598] TROI: Wondering where he was, what he was doing.
+[00:23:46.478 --> 00:23:51.038] TROI: Sometimes I'd look into the sky and imagine that he knew,
+[00:23:54.158 --> 00:23:57.598] TROI: and that somehow he could sense me
+[00:23:57.711 --> 00:23:58.431] TROI: thinking about him.
+[00:24:02.991 --> 00:24:04.351] TROI: So, who knows?
+[00:24:05.711 --> 00:24:08.591] TROI: Maybe one night we were looking up at the same star, and
+[00:24:10.351 --> 00:24:11.471] TROI: you were thinking about me,
+[00:24:15.311 --> 00:24:15.951] TROI: and in a way,
+[00:24:18.191 --> 00:24:19.311] TROI: I was thinking about you.
+[00:24:33.471 --> 00:24:33.814] PICARD: Come.
+[00:24:33.814 --> 00:24:35.871] RIKER: You wanted to see me, sir?
+[00:24:36.031 --> 00:24:36.991] PICARD: Yes, Number One. Come in.
+[00:24:37.631 --> 00:24:41.071] PICARD: Lieutenant Riker has been to see me to talk about the away mission.
+[00:24:42.271 --> 00:24:48.111] PICARD: He believes that the only way to retrieve the database is by directly accessing the main core underneath the station.
+[00:24:49.151 --> 00:24:51.631] RIKER: The seismic activity makes those caverns very unstable.
+[00:24:51.871 --> 00:24:52.991] RIKER: In my opinion, it's too risky.
+[00:24:53.471 --> 00:24:54.991] PICARD: He said that he was down there recently.
+[00:24:55.871 --> 00:24:57.871] PICARD: He seemed confident that it could be done safely.
+[00:24:58.351 --> 00:25:02.271] RIKER: There's a good chance we will be able to retrieve the database from one of the consoles inside the station.
+[00:25:03.871 --> 00:25:07.231] PICARD: But if it doesn't work, we won't have another chance for eight years.
+[00:25:09.631 --> 00:25:14.431] RIKER: Lieutenant Riker's plan is more dangerous, but it does have a better chance of succeeding.
+[00:25:15.231 --> 00:25:17.791] PICARD: Given the importance of the data, I think that it's worth the risk.
+[00:25:19.311 --> 00:25:21.231] RIKER: I'll look over the schematics and I'll draw up a mission plan.
+[00:25:22.351 --> 00:25:24.591] PICARD: I'm sure that Lieutenant Riker will be happy to help you with that.
+[00:25:26.671 --> 00:25:27.311] RIKER: I'll talk to him.
+[00:25:27.461 --> 00:25:28.061] CREWWOMAN: Sir.
+[00:25:44.350 --> 00:25:44.870] RIKER: Lieutenant.
+[00:25:44.870 --> 00:25:45.390] RIKER 2: Sir.
+[00:25:45.390 --> 00:25:50.590] RIKER: I just met with the Captain about your mission recommendation.
+[00:25:50.990 --> 00:25:53.950] RIKER: I would appreciate it if next time you came to me first.
+[00:25:54.190 --> 00:25:56.030] RIKER 2: I tried talking to you yesterday on the station.
+[00:25:56.110 --> 00:25:56.830] RIKER 2: You wouldn't hear me out.
+[00:25:56.830 --> 00:25:57.710] RIKER: I heard you, Lieutenant.
+[00:25:57.870 --> 00:25:58.910] RIKER: I rejected your plan.
+[00:26:01.070 --> 00:26:04.110] RIKER 2: May I ask what the Captain decided?
+[00:26:04.910 --> 00:26:07.390] RIKER: The Captain has decided to go with your recommendation, but
+[00:26:07.390 --> 00:26:08.297] RIKER: that's not the point.
+[00:26:08.297 --> 00:26:08.750] RIKER 2: Isn't it?
+[00:26:10.910 --> 00:26:14.190] RIKER: If you think I'm coming down on you because the Captain overruled me, think again.
+[00:26:15.470 --> 00:26:19.950] RIKER: I happen to disagree with his decision, but he is my commanding officer and I follow his orders.
+[00:26:21.390 --> 00:26:26.030] RIKER: Just so there's no confusion, I am your commanding officer and I expect you to do the same.
+[00:26:26.430 --> 00:26:29.070] RIKER: If you can't, there's no place for you on my away team.
+[00:26:31.390 --> 00:26:31.950] RIKER 2: Yes, sir.
+[00:26:32.670 --> 00:26:36.030] RIKER: There will be a meeting in the Observation lounge at fourteen hundred hours to draw up a mission plan.
+[00:26:43.870 --> 00:26:48.430] TROI: We stayed in Ten Forward talking for hours.
+[00:26:48.750 --> 00:26:49.390] CRUSHER: Then what happened?
+[00:26:49.950 --> 00:26:51.310] TROI: He walked me to my quarters.
+[00:26:52.590 --> 00:26:53.150] CRUSHER: Then what happened?
+[00:26:53.470 --> 00:26:53.930] TROI: Beverly!
+[00:26:53.930 --> 00:26:55.310] CRUSHER: I'm just asking.
+[00:26:56.590 --> 00:26:59.230] TROI: You know it's been over between Will and me for a long time.
+[00:26:59.390 --> 00:27:00.350] CRUSHER: He's not Will.
+[00:27:01.070 --> 00:27:01.710] CRUSHER: He is Will
+[00:27:01.881 --> 00:27:04.041] CRUSHER: but, you know what I mean.
+[00:27:05.961 --> 00:27:09.628] TROI: It's really hard for me to separate my feelings for them.
+[00:27:09.628 --> 00:27:09.961] CRUSHER: Deanna,
+[00:27:11.321 --> 00:27:19.321] CRUSHER: just because things turned out the way they did between you and Commander Riker, doesn't mean you shouldn't let things between you and Lieutenant Riker take their own course.
+[00:27:20.441 --> 00:27:21.721] TROI: I knew you'd encourage me.
+[00:27:22.041 --> 00:27:23.161] CRUSHER: I thought that's that why you brought it up.
+[00:27:34.121 --> 00:27:35.401] CRUSHER: Well, I think I'll call it a day.
+[00:27:37.001 --> 00:27:39.001] TROI: Beverly.
+[00:27:44.841 --> 00:27:45.241] CRUSHER: Bye.
+[00:27:51.401 --> 00:27:52.441] RIKER 2: Some form of tai chi chuan?
+[00:27:55.001 --> 00:27:56.361] TROI: Klingon exercises, actually.
+[00:27:56.841 --> 00:27:58.121] TROI: Lieutenant Worf teaches a class.
+[00:27:58.121 --> 00:27:59.081] RIKER 2: The forms are very similar.
+[00:27:59.161 --> 00:27:59.721] RIKER 2: Do that move again.
+[00:28:18.361 --> 00:28:19.721] TROI: You just did the KoH-man-ara.
+[00:28:19.961 --> 00:28:20.681] RIKER 2: Tai chi chuan.
+[00:28:20.761 --> 00:28:21.961] RIKER 2: It's called the crane block.
+[00:28:22.201 --> 00:28:23.161] RIKER 2: Now let's try something else.
+[00:28:27.561 --> 00:28:30.921] RIKER 2: What was that called?
+[00:28:32.233 --> 00:28:32.393] RIKER 2: Mister
+[00:28:32.393 --> 00:28:33.673] RIKER 2: Worf's a very good teacher.
+[00:28:56.313 --> 00:28:56.713] TROI: Hello, Will.
+[00:28:59.353 --> 00:29:01.593] RIKER: If you want to be with him, you don't have to ask my permission.
+[00:29:01.743 --> 00:29:02.343] RIKER: It's
+[00:29:05.753 --> 00:29:07.193] RIKER: the look in your eyes. I recognise it.
+[00:29:08.793 --> 00:29:09.353] RIKER: You used to have it
+[00:29:11.433 --> 00:29:13.513] RIKER: for me.
+[00:29:18.313 --> 00:29:20.313] TROI: We've both had relationships with other people.
+[00:29:22.393 --> 00:29:23.033] TROI: This is different.
+[00:29:23.273 --> 00:29:24.713] TROI: I didn't know how you'd feel about it.
+[00:29:25.433 --> 00:29:27.193] RIKER: Flattered, sort of.
+[00:29:29.513 --> 00:29:31.193] TROI: This must be very strange for you.
+[00:29:32.393 --> 00:29:33.513] RIKER: Ever since he came on board,
+[00:29:35.033 --> 00:29:37.193] RIKER: I find myself thinking about the choice you and I made.
+[00:29:38.953 --> 00:29:39.273] TROI: Me too.
+[00:29:43.353 --> 00:29:43.993] RIKER: Do me a favour.
+[00:29:46.073 --> 00:29:46.553] RIKER: Be careful.
+[00:29:48.553 --> 00:29:50.473] TROI: Will, I know you and he have had some problems.
+[00:29:50.473 --> 00:29:51.673] RIKER: That's not what I'm talking about.
+[00:29:54.633 --> 00:30:02.153] RIKER: If he had gotten off the planet instead of me, don't you think he would have made the same choices that I made?
+[00:30:02.153 --> 00:30:05.193] RIKER: I just don't want you to be hurt again.
+[00:30:14.934 --> 00:30:15.414] WORF: Two pair.
+[00:30:16.614 --> 00:30:17.094] RIKER: Full boat,
+[00:30:17.414 --> 00:30:17.894] RIKER: kings over.
+[00:30:18.054 --> 00:30:23.494] RIKER: I'd like to thank you both for your very generous contributions.
+[00:30:24.214 --> 00:30:24.214] RIKER: Come
+[00:30:27.974 --> 00:30:29.974] RIKER: in.
+[00:30:30.934 --> 00:30:31.734] RIKER 2: I thought you'd be alone.
+[00:30:31.814 --> 00:30:32.214] RIKER 2: Excuse me.
+[00:30:40.054 --> 00:30:42.774] RIKER: Why don't you join us?
+[00:30:45.734 --> 00:30:45.734] DATA: The
+[00:30:50.294 --> 00:30:52.294] DATA: game is five card draw, no limit.
+[00:30:53.334 --> 00:30:54.054] DATA: Ante, please.
+[00:31:08.934 --> 00:31:09.547] DATA: Lieutenant?
+[00:31:09.547 --> 00:31:10.774] RIKER 2: Three. please.
+[00:31:13.014 --> 00:31:14.347] DATA: Mister Worf?
+[00:31:14.347 --> 00:31:15.014] WORF: Four.
+[00:31:20.934 --> 00:31:21.334] DATA: Commander.
+[00:31:22.854 --> 00:31:23.574] RIKER: I'll play these.
+[00:31:27.734 --> 00:31:28.774] DATA: Dealer takes two.
+[00:31:29.774 --> 00:31:33.094] DATA: You control the bet, Lieutenant.
+[00:31:33.094 --> 00:31:33.094] RIKER 2: Fifty.
+[00:31:34.823 --> 00:31:35.383] WORF: Fold.
+[00:31:36.663 --> 00:31:39.223] RIKER: Here's your fifty. And ten more.
+[00:31:40.743 --> 00:31:41.703] RIKER 2: You didn't take any cards.
+[00:31:41.863 --> 00:31:42.663] RIKER 2: You must be holding something.
+[00:31:42.663 --> 00:31:43.623] RIKER 2: Why not make it a little sweeter?
+[00:31:44.743 --> 00:31:45.223] RIKER: No, thanks.
+[00:31:46.023 --> 00:31:46.663] RIKER 2: Playing it safe?
+[00:31:49.223 --> 00:31:49.543] RIKER: You in?
+[00:31:51.303 --> 00:31:51.863] DATA: I will call.
+[00:31:56.423 --> 00:31:59.863] RIKER 2: Here's your ten, and it will cost you another one hundred.
+[00:32:05.463 --> 00:32:08.023] RIKER: I've practised in the mirror too long to be fooled by that face.
+[00:32:08.903 --> 00:32:09.463] RIKER: You're bluffing.
+[00:32:10.663 --> 00:32:13.303] RIKER: Here's your hundred and twenty more.
+[00:32:16.343 --> 00:32:17.063] DATA: Dealer folds.
+[00:32:18.743 --> 00:32:23.383] RIKER 2: I thought if one thing were clear by now, it's that you and I play things a little differently.
+[00:32:24.183 --> 00:32:25.623] RIKER: Why don't we wait and see who comes out on top.
+[00:32:26.663 --> 00:32:28.823] RIKER 2: I thought you were willing to settle for second. Commander.
+[00:32:29.143 --> 00:32:31.143] RIKER: I've never settled for anything in my life.
+[00:32:31.623 --> 00:32:32.343] RIKER: I know what I want,
+[00:32:32.823 --> 00:32:36.823] RIKER: I know what I've got, and you'd be lucky to do as well. Lieutenant.
+[00:32:41.543 --> 00:32:42.183] RIKER 2: Here's your twenty.
+[00:32:46.663 --> 00:32:47.383] RIKER 2: Three hundred more.
+[00:32:49.143 --> 00:32:50.183] RIKER: Now I know you're bluffing.
+[00:32:50.743 --> 00:32:51.463] RIKER 2: Are you in or not?
+[00:32:51.463 --> 00:32:53.863] RIKER: Why don't we get this over with?
+[00:32:54.503 --> 00:32:57.623] RIKER: I'll call your three, and I'll raise you anything you've got left.
+[00:33:04.023 --> 00:33:04.263] RIKER: Well?
+[00:33:05.953 --> 00:33:06.193] RIKER 2: Take it.
+[00:33:07.473 --> 00:33:11.633] RIKER 2: You always had the better hand, in everything.
+[00:33:30.193 --> 00:33:30.593] TROI: Come in.
+[00:33:30.743 --> 00:33:31.343] RIKER 2: Hi.
+[00:33:33.953 --> 00:33:36.593] RIKER 2: I'm sorry to just stop by like this but there's something I'd like to talk to you about.
+[00:33:39.873 --> 00:33:42.993] RIKER 2: Captain Picard made has some inquiries. He managed to get me a posting on the Gandhi.
+[00:33:43.873 --> 00:33:47.233] RIKER 2: And considering how long I've been out of commission, it's an amazing opportunity.
+[00:33:48.433 --> 00:33:48.993] TROI: When would you leave?
+[00:33:50.433 --> 00:33:51.073] RIKER 2: In about a week.
+[00:33:52.753 --> 00:33:53.153] TROI: I see.
+[00:33:57.073 --> 00:33:57.393] RIKER 2: Deanna.
+[00:34:00.433 --> 00:34:03.313] RIKER 2: After I've served for six months, I'm eligible to bring family aboard.
+[00:34:05.873 --> 00:34:06.593] RIKER 2: If we got married
+[00:34:07.713 --> 00:34:10.593] TROI: You said those exact words to me before you went to serve on the Potemkin.
+[00:34:11.553 --> 00:34:11.873] RIKER 2: I know.
+[00:34:12.593 --> 00:34:13.553] RIKER 2: I was just held up for a while.
+[00:34:14.193 --> 00:34:17.313] TROI: But if you hadn't been, what would have happened between us?
+[00:34:17.953 --> 00:34:19.633] RIKER 2: I wouldn't've made the mistake of leaving you.
+[00:34:20.673 --> 00:34:21.393] RIKER 2: I know that much.
+[00:34:22.033 --> 00:34:23.313] TROI: I don't know if I can believe that.
+[00:34:29.393 --> 00:34:33.553] TROI: It took me a long time to get over what happened between Commander Riker and me.
+[00:34:34.802 --> 00:34:37.682] TROI: I don't know that I want to put myself in that position again.
+[00:34:38.562 --> 00:34:39.842] RIKER 2: I would never hurt you, Deanna.
+[00:34:40.322 --> 00:34:41.442] TROI: It's not just that.
+[00:34:42.082 --> 00:34:45.522] TROI: I've worked hard to make a life for myself on the Enterprise.
+[00:34:46.162 --> 00:34:47.042] TROI: I'm happy here.
+[00:34:47.522 --> 00:34:49.362] RIKER 2: If the situation were different, I'd stay.
+[00:34:50.882 --> 00:34:51.442] RIKER 2: But I can't.
+[00:34:54.882 --> 00:34:55.842] RIKER 2: Not while he's aboard.
+[00:34:57.442 --> 00:34:57.682] TROI: I know.
+[00:35:00.482 --> 00:35:01.122] RIKER 2: Are you saying it's over?
+[00:35:01.362 --> 00:35:01.762] TROI: No.
+[00:35:05.362 --> 00:35:05.522] TROI: No.
+[00:35:08.242 --> 00:35:10.962] TROI: I just don't know if I'm ready to give up my life here.
+[00:35:13.522 --> 00:35:14.962] TROI: Maybe we both need some time.
+[00:35:21.202 --> 00:35:21.442] RIKER 2: Goodnight.
+[00:35:33.762 --> 00:35:34.882] LOG: Captain's log, supplemental.
+[00:35:35.202 --> 00:35:40.642] LOG: The third transport window has opened and the away team is making their final attempt at retrieving the database.
+[00:35:42.002 --> 00:35:45.282] RIKER 2: Once we restore the servo link, you can shunt the database up to this console.
+[00:35:46.722 --> 00:35:47.442] RIKER 2: Are you ready, Commander Data?
+[00:35:49.762 --> 00:35:50.482] RIKER: You're with me, Lieutenant.
+[00:35:51.042 --> 00:35:52.192] RIKER 2: I thought Commander Data's expertise.
+[00:35:52.192 --> 00:35:54.722] RIKER: It doesn't take that much expertise to repair a servo link.
+[00:35:55.682 --> 00:35:56.482] RIKER: You and I can handle it.
+[00:36:05.042 --> 00:36:05.522] DATA: Lieutenant,
+[00:36:06.322 --> 00:36:07.522] DATA: I am curious about something.
+[00:36:08.801 --> 00:36:12.161] DATA: If you met a double of yourself, would you have difficulty interacting with him?
+[00:36:14.401 --> 00:36:15.041] WORF: I think so.
+[00:36:15.841 --> 00:36:16.161] DATA: Why?
+[00:36:18.721 --> 00:36:20.721] WORF: I am not easy to get along with.
+[00:36:21.521 --> 00:36:25.281] DATA: But Commander Riker and Lieutenant Riker are.
+[00:36:26.321 --> 00:36:28.401] DATA: Yet they seem to have trouble getting along with each another.
+[00:36:29.761 --> 00:36:35.761] DATA: I have found that humans value their uniqueness, that sense that they are different from every one else.
+[00:36:35.761 --> 00:36:39.601] DATA: The existence of a double would preclude that feeling.
+[00:36:40.161 --> 00:36:41.601] DATA: Could that be the source of the friction?
+[00:36:43.281 --> 00:36:48.641] WORF: Or perhaps it is more a matter of seeing something in your double. Something you do not like in yourself.
+[00:36:52.481 --> 00:36:52.481] RIKER 2: This
+[00:37:00.401 --> 00:37:00.721] RIKER 2: is it.
+[00:37:05.281 --> 00:37:06.241] RIKER 2: There's the core, over there.
+[00:37:11.201 --> 00:37:11.841] RIKER: You waiting for something?
+[00:37:12.881 --> 00:37:13.601] RIKER 2: Your orders, sir.
+[00:37:14.721 --> 00:37:16.001] RIKER 2: How would you like me to get over there, sir?
+[00:37:16.641 --> 00:37:18.481] RIKER: You've been down here dozens of times.
+[00:37:18.481 --> 00:37:19.761] RIKER: I'm sure you know the best way.
+[00:37:20.641 --> 00:37:20.881] RIKER 2: Yes, sir.
+[00:37:21.761 --> 00:37:22.001] RIKER 2: I do.
+[00:37:46.380 --> 00:37:47.820] RIKER 2: It's leaking ion radiation.
+[00:37:48.060 --> 00:37:49.100] RIKER: Why didn't you report this?
+[00:37:50.300 --> 00:37:51.260] RIKER 2: It wasn't here before.
+[00:37:51.820 --> 00:37:53.020] RIKER 2: This must have just happened recently.
+[00:37:54.780 --> 00:37:57.580] RIKER 2: If we have to repair this conduit, we won't have time to access that computer core.
+[00:38:04.460 --> 00:38:06.460] RIKER: Scan
+[00:38:11.100 --> 00:38:11.500] RIKER: it now.
+[00:38:18.620 --> 00:38:19.100] RIKER 2: It's working.
+[00:38:19.980 --> 00:38:21.740] RIKER 2: The radiation levels are dropping to normal.
+[00:38:31.340 --> 00:38:32.540] RIKER: Next time, don't give up so easily.
+[00:38:40.540 --> 00:38:40.700] RIKER: Hang
+[00:38:44.060 --> 00:38:44.380] RIKER: on!
+[00:38:47.420 --> 00:38:47.740] RIKER: Come on,
+[00:38:48.220 --> 00:38:48.220] RIKER: grab on.
+[00:38:48.220 --> 00:38:48.220] RIKER: Come on!
+[00:38:48.220 --> 00:38:48.220] RIKER: Come on,
+[00:38:48.300 --> 00:38:48.380] RIKER: climb!
+[00:38:48.380 --> 00:38:48.380] RIKER: Come on!
+[00:38:48.380 --> 00:38:48.380] RIKER: I'm
+[00:38:59.020 --> 00:38:59.580] RIKER: being pulled in.
+[00:39:00.380 --> 00:39:01.260] RIKER 2: Let go!
+[00:39:01.499 --> 00:39:02.939] RIKER 2: One of us has to get out of here.
+[00:39:03.579 --> 00:39:03.579] RIKER: Climb!
+[00:39:03.579 --> 00:39:06.219] RIKER: Come on!
+[00:39:07.099 --> 00:39:07.979] RIKER: Climb!
+[00:39:08.859 --> 00:39:08.859] RIKER: Climb!
+[00:39:54.859 --> 00:39:56.459] DATA: They have restored the servo link to the core.
+[00:39:57.019 --> 00:39:58.539] DATA: We can begin downloading the database.
+[00:39:58.779 --> 00:39:59.899] WORF: Initiating data transfer.
+[00:40:04.299 --> 00:40:07.499] LOG: Captain's log, stardate 46920.1.
+[00:40:08.059 --> 00:40:12.819] LOG: We have retrieved the database from Nervala station and are headed for our rendezvous with the Gandhi.
+[00:40:12.819 --> 00:40:13.099] RIKER 2: Come
+[00:40:17.819 --> 00:40:18.139] RIKER 2: in.
+[00:40:24.459 --> 00:40:28.219] TROI: I hear the Gandhi's going on a terraforming mission to the Lagana Sector.
+[00:40:29.070 --> 00:40:29.310] RIKER 2: That's right.
+[00:40:29.310 --> 00:40:31.390] RIKER 2: It'll take us four months just to get there.
+[00:40:33.550 --> 00:40:34.590] TROI: I won't be joining you.
+[00:40:36.750 --> 00:40:38.190] RIKER 2: I guess I'm not surprised to hear that.
+[00:40:40.190 --> 00:40:42.030] TROI: I'm just not ready to give up my life here.
+[00:40:44.590 --> 00:40:45.070] TROI: Not yet.
+[00:40:52.110 --> 00:40:52.510] RIKER 2: Come in.
+[00:40:55.310 --> 00:40:55.710] RIKER: I'm sorry.
+[00:40:56.190 --> 00:40:56.590] RIKER 2: It's all right.
+[00:40:58.590 --> 00:40:59.390] RIKER: I wanted to give you something.
+[00:41:06.190 --> 00:41:09.230] RIKER: My quarters are full of things that I suppose belong to both of us.
+[00:41:09.470 --> 00:41:10.910] RIKER: The least I could do is give you this.
+[00:41:13.630 --> 00:41:14.110] RIKER 2: Thanks.
+[00:41:15.390 --> 00:41:15.870] RIKER: Good luck, Will.
+[00:41:17.230 --> 00:41:18.910] RIKER 2: I actually thought I might go with the name Thomas.
+[00:41:19.390 --> 00:41:20.110] TROI: Your middle name.
+[00:41:22.830 --> 00:41:24.110] RIKER: I guess we really are different.
+[00:41:24.110 --> 00:41:25.790] RIKER: I never really cared for that name.
+[00:41:26.430 --> 00:41:28.350] RIKER 2: Well, I sort of like it.
+[00:41:29.230 --> 00:41:32.030] RIKER 2: I guess I'd better get going.
+[00:41:32.030 --> 00:41:32.030] RIKER 2: I
+[00:41:44.670 --> 00:41:45.470] RIKER 2: waited a long time.
+[00:41:46.830 --> 00:41:47.950] RIKER 2: I guess I can wait a little longer.
+[00:41:53.230 --> 00:41:53.710] RIKER 2: Take care of her.
+[00:42:11.000 --> 00:42:23.000] [music]
+[00:42:49.000 --> 00:43:05.000] [music]

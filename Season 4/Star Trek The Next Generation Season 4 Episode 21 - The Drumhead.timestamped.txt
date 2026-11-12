@@ -1,0 +1,667 @@
+[00:00:01.600 --> 00:00:04.560] LOG: Captain's Log, Stardate 44769.2.
+[00:00:04.960 --> 00:00:10.000] LOG: For some weeks we have had a Klingon exobiologist on board as part of a scientific exchange programme.
+[00:00:10.560 --> 00:00:17.040] LOG: Unfortunately, we suspect that he was involved in a security breach and in the possible sabotage of our warp drive.
+[00:00:17.840 --> 00:00:21.760] RIKER: What were you doing accessing the propulsion system files on Stardate 44758?
+[00:00:22.320 --> 00:00:22.880] J'DAN: I didn't.
+[00:00:23.520 --> 00:00:24.000] RIKER: Yes, you did,
+[00:00:24.000 --> 00:00:26.480] RIKER: from computer twelve B nine, deck thirty six.
+[00:00:27.040 --> 00:00:29.440] RIKER: The computer logged in your identification from your communicator.
+[00:00:29.840 --> 00:00:30.880] J'DAN: It must be a mistake.
+[00:00:31.360 --> 00:00:38.400] TROI: J'Dan, we have confirmed reports that schematic drawings of our dilithium chamber fell into Romulan hands
+[00:00:39.040 --> 00:00:40.080] TROI: one week later.
+[00:00:40.880 --> 00:00:41.840] J'DAN: I know nothing about it.
+[00:00:42.240 --> 00:00:46.080] RIKER: I suppose you know nothing about the explosion that disabled the warp drive at approximately the same time?
+[00:00:46.160 --> 00:00:47.520] J'DAN: No. I was not involved.
+[00:00:48.320 --> 00:00:50.160] J'DAN: You accuse me because I am Klingon.
+[00:00:52.960 --> 00:00:54.560] TROI: Our Chief Security Officer is Klingon.
+[00:00:54.560 --> 00:00:56.000] TROI: That has nothing to do with it.
+[00:00:57.280 --> 00:00:59.600] J'DAN: Send me home, then, if you are so distrusting.
+[00:01:00.400 --> 00:01:02.400] RIKER: We've already contacted the Klingon High Council.
+[00:01:03.200 --> 00:01:05.360] RIKER: You'll be returned home as soon as we finished our investigation.
+[00:01:06.480 --> 00:01:07.600] J'DAN: I have nothing more to say.
+[00:01:08.320 --> 00:01:08.800] RIKER: Very well.
+[00:01:09.280 --> 00:01:10.880] RIKER: Worf, accompany the Lieutenant to his quarters.
+[00:01:20.880 --> 00:01:21.280] RIKER: What do you think?
+[00:01:22.880 --> 00:01:23.680] TROI: It's hard to tell.
+[00:01:24.720 --> 00:01:28.240] TROI: He is very closed, but he is hiding something.
+[00:01:32.017 --> 00:01:34.737] J'DAN: On the Klingon Home World your name is not mentioned.
+[00:01:35.937 --> 00:01:37.377] J'DAN: It is as though you never existed.
+[00:01:37.527 --> 00:01:38.127] J'DAN: A
+[00:01:39.297 --> 00:01:47.857] J'DAN: terrible burden for a warrior to bear, to become nothing, to be without honour, without the chance for glory.
+[00:01:54.977 --> 00:01:58.017] J'DAN: I have friends, powerful friends, on the homeworld.
+[00:01:59.137 --> 00:01:59.697] J'DAN: I could talk to them.
+[00:02:00.897 --> 00:02:02.337] J'DAN: They might help to restore your name,
+[00:02:04.737 --> 00:02:06.897] J'DAN: if you could just take me to a shuttlecraft. It
+[00:02:13.217 --> 00:02:15.937] J'DAN: could be done without any one knowing about it.
+[00:02:17.297 --> 00:02:17.457] WORF: I don't know
+[00:02:20.817 --> 00:02:24.577] WORF: how you transferred secret information to the Romulans, but I will find out.
+[00:02:24.817 --> 00:02:25.217] J'DAN: Pahtk!
+[00:02:25.617 --> 00:02:30.497] WORF: When we inform the Klingon High Council, they will put you to a slow death.
+[00:03:06.352 --> 00:03:09.072] PICARD: Space, the final frontier.
+[00:03:10.912 --> 00:03:13.792] PICARD: These are the voyagers of the starship Enterprise.
+[00:03:14.912 --> 00:03:22.912] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:24.592 --> 00:03:27.392] PICARD: to boldly go where no one has gone before.
+[00:03:44.000 --> 00:03:54.000] [music]
+[00:03:56.000 --> 00:04:12.000] [music]
+[00:04:18.000 --> 00:04:26.000] [music]
+[00:04:24.112 --> 00:04:25.392] LOG: Captain's log, supplemental.
+[00:04:25.872 --> 00:04:34.832] LOG: Retired Admiral Norah Satie, whose investigation exposed the alien conspiracy against Starfleet Command three years ago, is arriving to assist in our inquiry.
+[00:04:40.327 --> 00:04:41.127] SATIE: Captain Picard.
+[00:04:41.927 --> 00:04:44.247] PICARD: Admiral Satie. Welcome aboard the Enterprise.
+[00:04:44.407 --> 00:04:45.527] SATIE: Delighted to be here.
+[00:04:46.407 --> 00:04:53.447] SATIE: I managed to acquire my former staff. My aide, Sabin Genestra, from Betazed, and my assistant, Nellen Tore, from Delb Two.
+[00:04:54.167 --> 00:04:55.927] PICARD: This is my First Officer, Commander William Riker.
+[00:04:57.767 --> 00:04:58.887] PICARD: May I show you to your quarters?
+[00:04:59.607 --> 00:05:04.407] SATIE: Captain, if Starfleet Command is so concerned with your report they brought me out of retirement,
+[00:05:04.967 --> 00:05:06.327] SATIE: I think I should get right to work.
+[00:05:07.367 --> 00:05:09.447] PICARD: Very well. Commander Riker, will you see to the Admiral's staff?
+[00:05:10.487 --> 00:05:12.967] SATIE: First, I'd like to inspect the damage to your engine room.
+[00:05:20.727 --> 00:05:22.487] PICARD: Admiral Satie, this is Commander Data,
+[00:05:22.647 --> 00:05:23.367] PICARD: Commander La Forge.
+[00:05:23.687 --> 00:05:26.167] LAFORGE: Admiral. We still can't get in there, Captain.
+[00:05:26.567 --> 00:05:29.447] LAFORGE: The radiation levels are dropping, but they're too high to raise the isolation door.
+[00:05:30.007 --> 00:05:30.887] PICARD: How much longer will it be?
+[00:05:31.367 --> 00:05:34.647] DATA: At the rate the levels are decreasing, we will gain entry in forty nine hours, Captain.
+[00:05:35.687 --> 00:05:38.167] LAFORGE: Maybe the Admiral would like to see the visual log of the explosion.
+[00:05:38.407 --> 00:05:38.567] SATIE: Yes.
+[00:05:48.007 --> 00:05:50.647] LAFORGE: This was logged four days ago at oh three hundred hours.
+[00:05:50.887 --> 00:05:51.047] LAFORGE: At
+[00:05:59.687 --> 00:06:03.207] LAFORGE: that point the emergency confinement field was activated and the isolation doors came down.
+[00:06:03.927 --> 00:06:05.527] LAFORGE: No one was killed, but I have two people in Sickbay with
+[00:06:05.602 --> 00:06:06.722] LAFORGE: radiation burns.
+[00:06:07.442 --> 00:06:09.362] SATIE: Have you been able to make any assessments?
+[00:06:09.602 --> 00:06:14.002] DATA: Slow motion study of the explosion suggests that the articulation frame collapsed.
+[00:06:14.562 --> 00:06:21.282] SATIE: The schematics that were stolen from the Enterprise, I believe some involved the articulation frame of the dilithium chamber.
+[00:06:21.762 --> 00:06:24.162] PICARD: That's one reason we tend to suspect sabotage.
+[00:06:24.642 --> 00:06:26.882] DATA: Other evidence lends credence to that theory, Captain.
+[00:06:27.522 --> 00:06:34.562] DATA: A review of the sensor logs indicates that every systems reading was well within normal parameters until fifty two milliseconds before the explosion.
+[00:06:34.962 --> 00:06:38.402] LAFORGE: We haven't found anything that suggests there was a malfunction anywhere along the line.
+[00:06:38.882 --> 00:06:42.962] SATIE: Captain, I think I'm going to need a full briefing before we go any further.
+[00:06:43.602 --> 00:06:44.482] PICARD: By all means, Admiral.
+[00:06:48.722 --> 00:06:53.042] SATIE: Commander Data, La Forge, I don't envy you your job.
+[00:06:54.002 --> 00:06:54.402] SATIE: Good luck.
+[00:06:55.922 --> 00:06:57.922] PICARD: There
+[00:07:01.522 --> 00:07:05.922] PICARD: are disturbing overtones in the idea of a Klingon providing information to the Romulans.
+[00:07:07.122 --> 00:07:12.082] PICARD: Are you aware of any other Klingon-Romulan connection that Starfleet Command might have encountered recently?
+[00:07:13.282 --> 00:07:14.002] SATIE: I don't believe
+[00:07:16.162 --> 00:07:20.322] SATIE: what Starfleet Command knows or doesn't know is for me to reveal.
+[00:07:22.562 --> 00:07:31.122] PICARD: This ship has encountered several incidents which might suggest a potential alliance between those two powers.
+[00:07:31.842 --> 00:07:33.442] SATIE: We're aware of that, Captain.
+[00:07:33.922 --> 00:07:36.322] SATIE: What we must concentrate on is the business at hand.
+[00:07:37.842 --> 00:07:38.162] PICARD: Come.
+[00:07:41.805 --> 00:07:42.685] WORF: Excuse me, Captain,
+[00:07:42.685 --> 00:07:43.565] WORF: I didn't know that
+[00:07:43.565 --> 00:07:44.765] PICARD: Please, Mister Worf, come in.
+[00:07:44.845 --> 00:07:47.005] PICARD: I particularly want my guest to meet you. Admiral Satie.
+[00:07:47.485 --> 00:07:49.725] PICARD: This is my Head of Security, Lieutenant Worf.
+[00:07:50.685 --> 00:07:54.285] WORF: Captain, I have been pursuing the investigation of Lieutenant J'Dan.
+[00:07:54.525 --> 00:07:57.725] WORF: I believe I know how he transferred information off the Enterprise.
+[00:07:57.965 --> 00:07:59.325] SATIE: Well done, Lieutenant.
+[00:08:00.045 --> 00:08:11.245] WORF: This is J'Dan's. A hypospray he uses to treat his Ba'ltmasor Syndrome. But this has been fitted with an optical reader specially modified to read data from Starfleet isolinear chips.
+[00:08:11.725 --> 00:08:20.045] WORF: He can extract digital information from a computer, encode it in the form of amino acid sequences, and transfer those sequences into a fluid in the syringe.
+[00:08:20.925 --> 00:08:24.319] WORF: Then he injects someone, perhaps even without their knowledge.
+[00:08:24.319 --> 00:08:26.205] SATIE: Or perhaps with their knowledge.
+[00:08:26.925 --> 00:08:30.445] WORF: The information would be carried in their bloodstream in the form of inert proteins.
+[00:08:31.005 --> 00:08:34.925] SATIE: The body itself becomes a conveyor of top secret files.
+[00:08:37.165 --> 00:08:43.165] SATIE: Lieutenant Worf, when we confront J'Dan, I want you to conduct the interrogation.
+[00:08:46.205 --> 00:08:49.485] WORF: I would be honoured. Captain. Admiral.
+[00:08:54.045 --> 00:08:58.925] SATIE: Captain, I predict that officer will be extremely valuable in this investigation.
+[00:09:03.885 --> 00:09:08.205] WORF: I have tracked the movements of every person who has left the Enterprise since you have been here.
+[00:09:08.685 --> 00:09:16.125] WORF: I traced one Tarkanian diplomat as far as the Cruces system where he disappeared and has not been seen since.
+[00:09:16.525 --> 00:09:17.885] J'DAN: That proves nothing.
+[00:09:22.525 --> 00:09:27.165] WORF: A hyposyringe was discovered in your quarters.
+[00:09:27.405 --> 00:09:28.445] J'DAN: I take injections.
+[00:09:28.605 --> 00:09:29.565] J'DAN: Everyone knows that.
+[00:09:30.045 --> 00:09:33.245] WORF: But your injections do not include an optical chip reader.
+[00:09:33.565 --> 00:09:35.885] WORF: This device has but one function,
+[00:09:37.405 --> 00:09:41.165] WORF: to transform computer information into biological sequences.
+[00:09:42.525 --> 00:09:44.445] J'DAN: The blood of all Klingons has become water.
+[00:09:45.165 --> 00:09:48.685] J'DAN: Since the Federation alliance we have turned into a nation of mewling babies.
+[00:09:49.085 --> 00:09:50.045] J'DAN: Romulans are strong.
+[00:09:50.525 --> 00:09:51.725] J'DAN: They are worthy allies.
+[00:09:52.125 --> 00:09:54.365] J'DAN: They do not turn Klingons into weaklings like you.
+[00:09:55.085 --> 00:09:55.725] SATIE: Lieutenant,
+[00:10:00.365 --> 00:10:03.085] SATIE: how did you damage the dilithium chamber?
+[00:10:03.725 --> 00:10:05.165] J'DAN: I had nothing to do with that
+[00:10:05.565 --> 00:10:11.885] SATIE: You mean it was sheer coincidence that it was sabotaged after you gave the plans for the design to the Romulans?
+[00:10:12.045 --> 00:10:12.605] J'DAN: I do not know.
+[00:10:12.605 --> 00:10:13.805] J'DAN: I had nothing to do with it.
+[00:10:14.445 --> 00:10:15.805] SATIE: You've admitted your crime.
+[00:10:16.765 --> 00:10:17.565] SATIE: Why lie now?
+[00:10:18.125 --> 00:10:19.485] J'DAN: I am not lying.
+[00:10:23.645 --> 00:10:23.805] PICARD: Mister
+[00:10:23.805 --> 00:10:24.045] PICARD: Worf,
+[00:10:24.525 --> 00:10:25.565] PICARD: you may have him confined.
+[00:10:35.565 --> 00:10:36.125] SATIE: Sabin?
+[00:10:37.618 --> 00:10:38.898] SABIN: I believe he's telling the truth.
+[00:10:39.538 --> 00:10:42.418] SABIN: He admits stealing the files but not sabotaging the dilithium chamber.
+[00:10:43.218 --> 00:10:44.418] SABIN: I get no sense that he's lying.
+[00:10:45.698 --> 00:10:48.738] PICARD: But if you're right, someone else may be involved.
+[00:10:49.218 --> 00:10:55.298] SATIE: I think, Captain, you have a bigger problem on your ship than one Klingon exchange officer.
+[00:11:01.938 --> 00:11:02.098] SATIE: I've
+[00:11:10.898 --> 00:11:11.938] SATIE: seen this before.
+[00:11:11.938 --> 00:11:15.618] SATIE: The spectre of conspiracy on a starship is a frightening one.
+[00:11:17.058 --> 00:11:18.658] PICARD: I can scarcely believe it myself,
+[00:11:20.178 --> 00:11:22.418] PICARD: but I am so grateful for your presence, Admiral.
+[00:11:23.138 --> 00:11:26.810] PICARD: If anyone in Starfleet can help us, it's you.
+[00:11:26.810 --> 00:11:27.218] SATIE: Captain,
+[00:11:28.498 --> 00:11:31.298] SATIE: I find myself changing my mind about you.
+[00:11:32.018 --> 00:11:32.498] PICARD: In what way?
+[00:11:34.098 --> 00:11:40.178] SATIE: When Starfleet ordered me here, it was with the express command that we work together on this problem as equals.
+[00:11:41.538 --> 00:11:44.018] SATIE: My father taught me to avoid partnerships.
+[00:11:44.658 --> 00:11:46.418] SATIE: Most of them are woefully lop-sided.
+[00:11:47.298 --> 00:11:49.378] PICARD: That sounds like Judge Aaron Satie.
+[00:11:49.778 --> 00:11:50.898] SATIE: You knew my father?
+[00:11:51.458 --> 00:11:52.418] PICARD: Only from his writings.
+[00:11:52.818 --> 00:11:54.978] PICARD: His judgments were required reading at the Academy.
+[00:11:56.338 --> 00:11:57.858] SATIE: He was an extraordinary man.
+[00:12:01.538 --> 00:12:02.898] SATIE: Every night at the dinner table
+[00:12:03.612 --> 00:12:05.372] SATIE: he would pose a question for debate.
+[00:12:06.012 --> 00:12:09.292] SATIE: My big brothers and I would wrangle it around, from one side and the other.
+[00:12:09.852 --> 00:12:14.412] SATIE: Father would referee, and he kept a stopwatch on us so we'd have to learn brevity.
+[00:12:15.292 --> 00:12:18.972] SATIE: But he wouldn't let us leave until he thought we'd completely explored the issue.
+[00:12:19.612 --> 00:12:22.572] PICARD: I'm willing to wager that you trounced your brothers during those debates.
+[00:12:22.972 --> 00:12:24.012] SATIE: More than once.
+[00:12:25.052 --> 00:12:29.452] SATIE: Father loved it when I nailed one of them with some subtle point of logic.
+[00:12:33.692 --> 00:12:35.292] SATIE: All that I am, I owe to him.
+[00:12:36.892 --> 00:12:37.772] SATIE: He was a giant.
+[00:12:39.772 --> 00:12:42.035] PICARD: You must miss him very much.
+[00:12:42.035 --> 00:12:42.412] SATIE: Captain,
+[00:12:43.372 --> 00:12:45.372] SATIE: I always preferred working alone.
+[00:12:46.172 --> 00:12:50.012] SATIE: That way, if something goes wrong, I don't have to go far for the cause.
+[00:12:51.372 --> 00:12:54.972] SATIE: I resented you being assigned to me, but I was wrong.
+[00:12:56.172 --> 00:12:57.452] SATIE: We're going to be quite a team.
+[00:13:01.452 --> 00:13:03.692] WORF: J'Dan did not make friends easily.
+[00:13:05.052 --> 00:13:06.332] WORF: There are not many to question.
+[00:13:06.892 --> 00:13:08.252] SABIN: You've done a thorough job, Lieutenant.
+[00:13:09.132 --> 00:13:10.732] WORF: I am strongly motivated in this matter.
+[00:13:11.532 --> 00:13:12.412] SABIN: Yes, I can see that.
+[00:13:14.332 --> 00:13:16.572] SABIN: I don't mind telling you I'm surprised.
+[00:13:17.532 --> 00:13:20.540] SABIN: Frankly, when I first heard about your father.
+[00:13:20.540 --> 00:13:21.292] WORF: My father?
+[00:13:22.492 --> 00:13:22.972] SABIN: Yes.
+[00:13:24.732 --> 00:13:27.212] SABIN: There are some who believe he betrayed your people to the Romulans.
+[00:13:27.532 --> 00:13:30.812] WORF: What he did or did not do is no one's concern but my own
+[00:13:31.292 --> 00:13:31.852] SABIN: Of course.
+[00:13:32.652 --> 00:13:36.652] SABIN: I only meant before I saw you in action, I naturally considered you a possible security risk.
+[00:13:37.812 --> 00:13:40.852] SABIN: But I want you to know you have the Admiral's and my complete confidence.
+[00:13:41.732 --> 00:13:43.092] SABIN: You have nothing to prove to us.
+[00:13:44.052 --> 00:13:47.812] WORF: If there is a conspiracy on board, I promise you I will find it.
+[00:13:48.372 --> 00:13:48.692] SABIN: Good.
+[00:13:49.492 --> 00:13:50.132] SABIN: You know the ship,
+[00:13:50.132 --> 00:13:51.012] SABIN: you know the personnel,
+[00:13:51.812 --> 00:13:53.252] SABIN: you know exactly what we're up against.
+[00:13:54.532 --> 00:13:55.572] SABIN: We're counting on you, Lieutenant.
+[00:13:57.012 --> 00:13:58.772] WORF: I will arrange for the interviews to begin.
+[00:14:02.852 --> 00:14:06.212] SATIE: And how often did Lieutenant J'Dan come in for his injections?
+[00:14:06.612 --> 00:14:07.732] CRUSHER: About once a week.
+[00:14:07.732 --> 00:14:09.252] SATIE: Did you administer them yourself?
+[00:14:09.572 --> 00:14:09.892] CRUSHER: No.
+[00:14:10.532 --> 00:14:11.332] SATIE: Then who did?
+[00:14:12.372 --> 00:14:13.732] CRUSHER: I had one of my assistants do that.
+[00:14:14.532 --> 00:14:15.812] SABIN: Did you ever hear him say anything?
+[00:14:15.812 --> 00:14:20.052] SABIN: Anything that may have seemed innocent at the time that might now shed some light on this investigation?
+[00:14:20.532 --> 00:14:21.412] CRUSHER: No, nothing.
+[00:14:22.452 --> 00:14:23.812] CRUSHER: In fact, he rarely spoke at all.
+[00:14:25.012 --> 00:14:25.812] PICARD: Thank you, Doctor Crusher,
+[00:14:25.972 --> 00:14:26.852] PICARD: we appreciate your time.
+[00:14:26.852 --> 00:14:27.972] PICARD: You are excused now. Mister Worf,
+[00:14:27.972 --> 00:14:28.692] PICARD: will you bring in the next
+[00:14:30.692 --> 00:14:32.692] PICARD: person?
+[00:14:38.132 --> 00:14:39.252] PICARD: Please sit down, Mister Tarses.
+[00:14:41.652 --> 00:14:44.052] PICARD: For the record, will you tell us your name and position?
+[00:14:45.012 --> 00:14:48.052] TARSES: Simon Tarses, Crewman First Class, medical technician.
+[00:14:49.412 --> 00:14:52.852] PICARD: I assure you this is an informal inquiry.
+[00:14:54.052 --> 00:14:55.572] PICARD: We are not accusing you of anything.
+[00:14:56.132 --> 00:14:59.092] PICARD: However, if you would like counsel, it can be provided for you.
+[00:14:59.732 --> 00:15:00.212] TARSES: No, sir.
+[00:15:00.292 --> 00:15:01.092] TARSES: I have nothing to hide.
+[00:15:02.212 --> 00:15:04.292] PICARD: Tell me, how long have you held your appointment onboard this vessel?
+[00:15:05.012 --> 00:15:07.172] TARSES: Since Stardate 43587.
+[00:15:07.989 --> 00:15:08.229] SATIE: Mister
+[00:15:08.229 --> 00:15:12.069] SATIE: Tarses, your records state that you were born on Mars Colony.
+[00:15:12.869 --> 00:15:13.189] TARSES: That's right.
+[00:15:14.149 --> 00:15:15.029] SATIE: Then you are human?
+[00:15:15.909 --> 00:15:18.629] TARSES: Largely. My paternal grandfather was Vulcan.
+[00:15:19.349 --> 00:15:20.149] SATIE: Yes, I see that.
+[00:15:20.709 --> 00:15:23.545] SATIE: Tell me, what is your relationship with the Klingon, J'Dan?
+[00:15:23.545 --> 00:15:23.829] TARSES: Er,
+[00:15:25.509 --> 00:15:29.349] TARSES: he, I mean, there's no relationship.
+[00:15:29.349 --> 00:15:30.949] TARSES: He just came in for his injections.
+[00:15:31.749 --> 00:15:33.189] SATIE: Did you give him those injections?
+[00:15:33.829 --> 00:15:34.469] TARSES: Sometimes.
+[00:15:35.349 --> 00:15:36.549] TARSES: There were several of us. Actually,
+[00:15:36.629 --> 00:15:38.149] TARSES: I might have done it twice.
+[00:15:38.709 --> 00:15:42.149] SABIN: Did he ever make any comments that might, in retrospect, be suspicious?
+[00:15:43.269 --> 00:15:43.749] TARSES: Not really.
+[00:15:43.989 --> 00:15:44.789] TARSES: He hardly ever talked.
+[00:15:45.829 --> 00:15:47.749] SATIE: Did you ever see him outside Sickbay?
+[00:15:48.949 --> 00:15:53.349] TARSES: Once or twice in Ten Forward, with a group of people, but I never had a conversation with him.
+[00:15:54.949 --> 00:15:55.429] SATIE: Thank you, Mister
+[00:15:55.429 --> 00:15:55.909] SATIE: Tarses.
+[00:15:56.469 --> 00:15:58.389] SATIE: I don't think there's need for more. Captain?
+[00:15:58.869 --> 00:15:59.749] PICARD: You're excused, crewman.
+[00:16:05.269 --> 00:16:05.429] PICARD: Mister
+[00:16:05.429 --> 00:16:05.669] PICARD: Worf?
+[00:16:06.309 --> 00:16:06.629] SABIN: Wait.
+[00:16:07.829 --> 00:16:08.389] SABIN: He's lying.
+[00:16:08.949 --> 00:16:09.989] SABIN: He's desperately frightened.
+[00:16:09.989 --> 00:16:10.869] SABIN: He's covering something.
+[00:16:11.429 --> 00:16:14.389] PICARD: It's clear that he's frightened, but that's hardly an indication
+[00:16:14.389 --> 00:16:15.269] SABIN: It's more than that.
+[00:16:15.509 --> 00:16:16.389] SABIN: He wasn't truthful.
+[00:16:17.429 --> 00:16:20.709] SABIN: He's covering a lie. One so big it's overwhelming him.
+[00:16:22.629 --> 00:16:23.669] SABIN: I think we've found the man.
+[00:16:37.183 --> 00:16:37.583] PICARD: Admiral.
+[00:16:42.783 --> 00:16:50.303] PICARD: I have to tell you, you must not expect me to permit any action against Mister Tarses solely on the basis of Betazoid intuition.
+[00:16:50.783 --> 00:16:52.863] SATIE: Sabin has uncanny instincts.
+[00:16:53.343 --> 00:16:54.383] SATIE: I've learned to trust them.
+[00:16:55.023 --> 00:16:56.863] PICARD: I'm not happy about this use of a Betazoid.
+[00:16:56.863 --> 00:16:59.263] SATIE: But you have a Betazoid counsellor.
+[00:16:59.663 --> 00:17:01.663] SATIE: Surely you're aware of the advantages.
+[00:17:01.743 --> 00:17:06.063] PICARD: There is a difference between a counsellor and an investigator.
+[00:17:06.783 --> 00:17:10.063] SATIE: Are you saying you never use your counsellor during interrogations?
+[00:17:11.983 --> 00:17:12.543] PICARD: Yes, I do,
+[00:17:14.223 --> 00:17:18.383] PICARD: but I would not act solely on the basis of her instinct.
+[00:17:20.303 --> 00:17:20.783] SATIE: Nor do I.
+[00:17:21.503 --> 00:17:22.543] PICARD: But you're asking,
+[00:17:24.543 --> 00:17:31.023] PICARD: you're asking me to restrict Mister Tarses' movements solely on the basis on Sabin's feeling.
+[00:17:32.223 --> 00:17:37.743] SATIE: If Counsellor Troi suggested to you that someone on the ship were dangerous, would you not act on that?
+[00:17:38.223 --> 00:17:40.543] SATIE: Observe him? Curb his activity?
+[00:17:42.623 --> 00:17:43.823] PICARD: Yes, I admit I probably would.
+[00:17:45.743 --> 00:17:47.903] PICARD: And perhaps I should re-evaluate that behaviour.
+[00:17:47.903 --> 00:17:49.343] SATIE: Oh, nonsense.
+[00:17:49.823 --> 00:17:51.503] SATIE: Let's keep our priorities straight.
+[00:17:52.223 --> 00:17:56.863] SATIE: The important thing is to uncover the conspiracy on this ship and to prevent further damage.
+[00:17:57.423 --> 00:18:05.583] SATIE: Now, if Tarses is a possible saboteur, you cannot allow him access to sensitive areas of the ship, and I strongly suggest continuous
+[00:18:05.598 --> 00:18:06.398] SATIE: surveillance.
+[00:18:07.118 --> 00:18:07.118] PICARD: If
+[00:18:13.838 --> 00:18:15.038] PICARD: we had clear evidence.
+[00:18:15.358 --> 00:18:17.038] SATIE: We will have clear evidence.
+[00:18:17.519 --> 00:18:23.678] SATIE: Sabin and Lieutenant Worf are continuing to investigate. But if you don't act until then, it may be too late.
+[00:18:28.798 --> 00:18:28.958] PICARD: No.
+[00:18:30.638 --> 00:18:33.678] PICARD: I won't treat a man as a criminal unless there is cause to do so.
+[00:18:34.479 --> 00:18:39.358] SATIE: And while you're being so generous, you give a saboteur a chance to strike again.
+[00:18:39.918 --> 00:18:41.598] SATIE: Last time it was just a hatch cover/
+[00:18:42.158 --> 00:18:43.759] SATIE: What if next time it's more serious?
+[00:18:43.918 --> 00:18:45.198] SATIE: What if lives are lost?
+[00:18:46.158 --> 00:18:47.838] SATIE: Can you afford not to act?
+[00:18:48.318 --> 00:18:49.519] LAFORGE: Engineering to Captain Picard.
+[00:18:50.479 --> 00:18:51.279] PICARD: Yes, Mister La Forge.
+[00:18:51.759 --> 00:18:52.158] LAFORGE: Captain,
+[00:18:52.318 --> 00:18:53.678] LAFORGE: could you come to Engineering right away?
+[00:18:54.078 --> 00:18:55.999] LAFORGE: We've got something interesting to show you.
+[00:18:56.638 --> 00:18:57.279] PICARD: I'll be right there.
+[00:19:01.438 --> 00:19:01.678] LAFORGE: Captain, we
+[00:19:02.078 --> 00:19:06.078] LAFORGE: finally got in here about six hours ago. We've been going over it inch by inch ever since.
+[00:19:06.318 --> 00:19:12.798] DATA: We have made micro-tomographic analyses of the dilithium chamber, the hatch mounting, the blast pattern from the explosion.
+[00:19:12.878 --> 00:19:17.678] LAFORGE: We did mass spectrometer readings of the residue for chemical content, sifted through the debris for bomb fragments.
+[00:19:17.999 --> 00:19:18.878] SATIE: What did you find?
+[00:19:19.358 --> 00:19:21.038] LAFORGE: This is the frame for the hatch.
+[00:19:21.198 --> 00:19:22.878] LAFORGE: It ruptured right along here.
+[00:19:24.958 --> 00:19:27.198] LAFORGE: When we take a reading of that spot.
+[00:19:29.279 --> 00:19:29.519] LAFORGE: See?
+[00:19:30.479 --> 00:19:32.398] SATIE: I'm afraid I'm out of my element, Commander.
+[00:19:32.718 --> 00:19:34.158] SATIE: You'll have to interpret for me.
+[00:19:34.878 --> 00:19:37.358] PICARD: There are submicron fractures in the metal casing.
+[00:19:37.759 --> 00:19:38.078] LAFORGE: That's right.
+[00:19:38.704 --> 00:19:40.864] LAFORGE: A breakdown of the atomic cohesive structure.
+[00:19:41.424 --> 00:19:43.104] SATIE: Yes? And what caused them?
+[00:19:43.664 --> 00:19:46.544] DATA: Those fractures suggest nothing more than simple neutron fatigue.
+[00:19:47.344 --> 00:19:54.624] DATA: I would speculate that when the engine was last inspected at McKinley station, the hatch casing was replaced with one which had an undetectable defect.
+[00:19:55.184 --> 00:20:00.384] DATA: I believe, sir, that the conclusion to our investigation must be that the explosion was not intentional.
+[00:20:01.024 --> 00:20:01.824] LAFORGE: That's the way I see it.
+[00:20:02.064 --> 00:20:03.664] LAFORGE: This wasn't sabotage at all.
+[00:20:03.664 --> 00:20:04.704] LAFORGE: It was nothing more than
+[00:20:06.784 --> 00:20:06.944] LAFORGE: an
+[00:20:08.864 --> 00:20:09.504] LAFORGE: accident.
+[00:20:10.224 --> 00:20:10.864] SABIN: An accident?
+[00:20:13.104 --> 00:20:14.544] SABIN: I find that hard to believe.
+[00:20:15.744 --> 00:20:18.704] PICARD: If my crew say there was no sabotage, then you can be sure there was none.
+[00:20:19.024 --> 00:20:20.704] SATIE: Let us keep our perspective, gentlemen.
+[00:20:21.264 --> 00:20:25.664] SATIE: Just because there was no sabotage doesn't mean there isn't a conspiracy on this ship.
+[00:20:26.224 --> 00:20:27.664] SATIE: We do have a confessed spy.
+[00:20:28.384 --> 00:20:29.504] SABIN: And he had confederates.
+[00:20:30.064 --> 00:20:30.864] PICARD: Do we know that for sure?
+[00:20:31.104 --> 00:20:31.824] SATIE: Of course he did.
+[00:20:31.904 --> 00:20:38.064] SATIE: Do you think J'Dan could have come on board the flagship of the Federation and accomplished what he did without help from within?
+[00:20:40.544 --> 00:20:41.504] PICARD: I agree it would be difficult,
+[00:20:43.504 --> 00:20:44.384] PICARD: but not impossible.
+[00:20:45.504 --> 00:20:47.824] WORF: We should continue to investigate Tarses.
+[00:20:48.384 --> 00:20:49.504] WORF: He was hiding something.
+[00:20:50.384 --> 00:20:53.344] SABIN: Captain Picard Lieutenant Worf and I have been working well together.
+[00:20:53.344 --> 00:20:57.424] SABIN: I suggest we continue, if for no other purpose than to determine Tarses' innocence.
+[00:20:57.904 --> 00:21:01.904] PICARD: Now, please! Let me remind you he is innocent until he is proved guilty.
+[00:21:02.304 --> 00:21:03.344] SATIE: Of course he is.
+[00:21:04.064 --> 00:21:06.624] SATIE: What Sabin is saying is that he and Lieutenant Worf
+[00:21:07.054 --> 00:21:11.374] SATIE: would like to establish his innocence unequivocally, for his own sake.
+[00:21:13.054 --> 00:21:16.494] PICARD: Very well. But let us put this to rest as quickly as possible.
+[00:21:33.774 --> 00:21:35.214] PICARD: You've opened the hearing to spectators?
+[00:21:36.254 --> 00:21:39.054] SATIE: It isn't good to have closed door proceedings for too long.
+[00:21:39.294 --> 00:21:41.134] SATIE: It invites rumour and speculation.
+[00:21:41.774 --> 00:21:43.614] PICARD: Nevertheless, Admiral, I think it would be wise
+[00:21:43.614 --> 00:21:47.774] SATIE: Because spies and saboteurs don't like the bright light of an open inquiry.
+[00:21:48.494 --> 00:21:51.374] SATIE: They're like roaches, scurrying for the dark corner.
+[00:21:57.934 --> 00:22:06.174] PICARD: This hearing is convened on Stardate 44780 as a continuing inquiry into the activities of Crewman Simon Tarses.
+[00:22:06.494 --> 00:22:12.414] PICARD: Mister Tarses, for your own protection, I have assigned a counsel to you in the person of Commander William Riker.
+[00:22:13.054 --> 00:22:13.534] TARSES: Thank you, sir,
+[00:22:13.774 --> 00:22:14.814] TARSES: but I don't need protection.
+[00:22:15.854 --> 00:22:17.214] TARSES: I have not done anything wrong.
+[00:22:17.694 --> 00:22:22.654] SATIE: Doctor Crusher, have you observed Crewman Tarses with J'Dan?
+[00:22:24.174 --> 00:22:26.014] CRUSHER: Well, yes, he gave him his injection.
+[00:22:26.814 --> 00:22:28.414] SATIE: I meant outside of Sickbay.
+[00:22:28.894 --> 00:22:31.694] CRUSHER: I think so,
+[00:22:31.774 --> 00:22:33.374] CRUSHER: perhaps in Ten Forward.
+[00:22:34.414 --> 00:22:36.974] SATIE: And whom else have you observed at these occasions?
+[00:22:37.294 --> 00:22:39.374] CRUSHER: I don't understand what relevance that has.
+[00:22:39.374 --> 00:22:41.534] CRUSHER: It was an innocent social gathering.
+[00:22:42.314 --> 00:22:46.154] SATIE: If it was so innocent, why do you hesitate to give us the names?
+[00:22:46.794 --> 00:22:47.514] PICARD: Thank you, Doctor.
+[00:22:49.594 --> 00:22:52.634] PICARD: If you have a case to make against Tarses, you had better make it,
+[00:22:53.274 --> 00:22:54.794] PICARD: otherwise I'm stopping this here and now.
+[00:23:02.634 --> 00:23:02.874] SABIN: Mister
+[00:23:02.874 --> 00:23:08.154] SABIN: Tarses. Isn't it true that you have access to the biological supplies in Sickbay?
+[00:23:08.634 --> 00:23:09.434] TARSES: It's part of my job,
+[00:23:09.434 --> 00:23:09.754] TARSES: yes.
+[00:23:10.394 --> 00:23:14.154] SABIN: J'Dan used suspensions of deoxyribose to carry the encoded files he stole.
+[00:23:14.474 --> 00:23:17.194] SABIN: Isn't it true one of your duties is to prepare those suspensions?
+[00:23:17.514 --> 00:23:19.114] TARSES: Several technicians share that job.
+[00:23:19.114 --> 00:23:24.074] SABIN: And isn't it true that your security clearance allows you access to all the stores and files in Sickbay?
+[00:23:24.314 --> 00:23:26.194] SABIN: Access which you can exercise at any time?
+[00:23:26.194 --> 00:23:28.074] TARSES: Because I have access does not mean I
+[00:23:28.074 --> 00:23:36.634] SABIN: What would you say if I told you there is evidence that the explosion in the engine room was caused by a corrosive chemical. One that is kept stored in Sickbay.
+[00:23:38.314 --> 00:23:39.274] TARSES: I had nothing to do with that.
+[00:23:39.834 --> 00:23:40.794] SABIN: How can we believe you?
+[00:23:41.754 --> 00:23:45.514] SABIN: How can we believe someone whom we know, we know, to be a liar?
+[00:23:45.674 --> 00:23:46.314] RIKER: I object!
+[00:23:46.314 --> 00:23:48.794] RIKER: There is no basis for calling Crewman Tarses a liar.
+[00:23:49.194 --> 00:23:49.994] PICARD: Agreed. Mister
+[00:23:49.994 --> 00:23:50.314] PICARD: Sabin.
+[00:23:50.314 --> 00:23:52.714] SABIN: Captain, there is a basis which will become clear in a moment.
+[00:23:53.834 --> 00:23:54.074] SABIN: Mister
+[00:23:54.074 --> 00:24:01.034] SABIN: Tarses, didn't you deliberately and premeditatively lied when you filled out your personnel application and compounded that lie by repeating it to this committee?
+[00:24:01.914 --> 00:24:02.074] TARSES: What?
+[00:24:02.074 --> 00:24:08.874] SABIN: Isn't it true that the paternal grandfather of whom you speak was not a Vulcan but was in fact a Romulan?
+[00:24:09.514 --> 00:24:13.354] SABIN: That it is Romulan blood you carry and a Romulan heritage that you honour?
+[00:24:15.557 --> 00:24:16.757] SABIN: We're waiting, Mister Tarses.
+[00:24:18.117 --> 00:24:22.357] TARSES: On the advice of my counsel I refuse to answer that question,
+[00:24:23.477 --> 00:24:26.037] TARSES: in that the answer
+[00:24:27.957 --> 00:24:29.637] TARSES: may serve to incriminate me.
+[00:24:48.197 --> 00:24:52.277] WORF: You and Crewman Marcus will coordinate to track Tarses' movements over the last five years.
+[00:24:53.157 --> 00:24:53.717] WORF: Ensign Kellogg,
+[00:24:54.357 --> 00:24:58.997] WORF: I want a list of all relatives, known associates, and especially old school friends.
+[00:25:00.037 --> 00:25:02.459] WORF: And make arrangements to do an encephalographic polygraph scan.
+[00:25:02.459 --> 00:25:02.997] PICARD: Mister Worf?
+[00:25:04.517 --> 00:25:04.917] WORF: Yes, Captain?
+[00:25:06.357 --> 00:25:07.077] PICARD: I need to speak with
+[00:25:10.517 --> 00:25:10.597] PICARD: you.
+[00:25:10.597 --> 00:25:11.157] WORF: You are dismissed.
+[00:25:11.557 --> 00:25:13.317] WORF: Please get your reports to me as soon as possible.
+[00:25:14.277 --> 00:25:14.277] PICARD: Do you
+[00:25:24.437 --> 00:25:26.117] PICARD: see what is happening here, Mister Worf?
+[00:25:28.917 --> 00:25:29.349] WORF: Sir?
+[00:25:29.349 --> 00:25:31.077] PICARD: This is not unlike
+[00:25:32.837 --> 00:25:33.877] PICARD: a drumhead trial.
+[00:25:36.517 --> 00:25:37.877] WORF: I do not understand.
+[00:25:40.197 --> 00:25:44.117] PICARD: Five hundred years ago, military officers would upend a drum on the battlefield
+[00:25:44.197 --> 00:25:46.117] PICARD: sit at it and dispense summary justice.
+[00:25:46.117 --> 00:25:46.757] PICARD: Decisions were quick,
+[00:25:47.034 --> 00:25:49.594] PICARD: punishments severe, appeals denied.
+[00:25:51.514 --> 00:25:53.674] PICARD: Those who came to a drumhead were doomed.
+[00:25:54.474 --> 00:25:56.794] WORF: But we know there is a traitor here.
+[00:25:57.594 --> 00:25:59.114] WORF: J'Dan has admitted his guilt.
+[00:25:59.434 --> 00:26:01.274] PICARD: That's true, and he will stand for his crimes.
+[00:26:01.754 --> 00:26:03.354] WORF: Tarses has all but done the same.
+[00:26:03.594 --> 00:26:03.914] PICARD: How?
+[00:26:04.474 --> 00:26:07.434] WORF: He refused to answer the question about his Romulan grandfather.
+[00:26:07.674 --> 00:26:08.714] PICARD: That is not a crime, Worf.
+[00:26:10.874 --> 00:26:14.001] PICARD: Nor can we infer his guilt because he didn't respond.
+[00:26:14.001 --> 00:26:14.314] WORF: Sir,
+[00:26:14.874 --> 00:26:17.834] WORF: if a man were not afraid of the truth, he would answer.
+[00:26:18.554 --> 00:26:18.794] PICARD: Oh, no.
+[00:26:20.714 --> 00:26:22.394] PICARD: We cannot allow ourselves think that.
+[00:26:23.914 --> 00:26:29.034] PICARD: The Seventh Guarantee is one of the most important rights granted by the Federation.
+[00:26:29.274 --> 00:26:34.824] PICARD: We cannot take a fundamental principle of the Constitution and turn it against a citizen.
+[00:26:34.824 --> 00:26:35.194] WORF: Sir,
+[00:26:35.994 --> 00:26:37.994] WORF: the Federation does have enemies.
+[00:26:38.474 --> 00:26:39.834] WORF: We must seek them out.
+[00:26:41.834 --> 00:26:42.394] PICARD: Oh, yes.
+[00:26:44.554 --> 00:26:45.594] PICARD: That's how it starts.
+[00:26:47.674 --> 00:26:53.994] PICARD: But the road from legitimate suspicion to rampant paranoia is very much shorter than we think.
+[00:26:54.634 --> 00:26:55.994] PICARD: Something is wrong here, Mister Worf.
+[00:26:56.794 --> 00:26:57.994] PICARD: I don't like what we have become.
+[00:26:59.674 --> 00:26:59.834] PICARD: There you are,
+[00:27:10.314 --> 00:27:11.354] PICARD: Mister Tarses.
+[00:27:11.354 --> 00:27:13.114] PICARD: Would you care for some lemon?
+[00:27:13.573 --> 00:27:14.213] TARSES: No, thank you, sir.
+[00:27:14.213 --> 00:27:14.853] TARSES: This is fine.
+[00:27:16.293 --> 00:27:18.453] PICARD: Well, tell me a little about yourself, Crewman.
+[00:27:18.773 --> 00:27:20.453] PICARD: I know you were born on Mars Colony.
+[00:27:21.413 --> 00:27:21.813] TARSES: Yes, sir.
+[00:27:24.293 --> 00:27:25.973] TARSES: All my life I wanted to be in Starfleet.
+[00:27:28.133 --> 00:27:31.173] TARSES: I went to the Academy's training programme for enlisted personnel.
+[00:27:32.293 --> 00:27:35.573] TARSES: I took training as a medical technician and I served at several outposts.
+[00:27:37.253 --> 00:27:40.213] TARSES: The day that I was posted to the Enterprise was the happiest day of my life.
+[00:27:40.853 --> 00:27:44.693] PICARD: Did you ever consider applying to the Academy, going the whole route, apply to become an officer?
+[00:27:45.573 --> 00:27:49.093] TARSES: My parents wanted me to. And then I thought about it.
+[00:27:51.573 --> 00:27:54.453] TARSES: I used to sit under this big tree near the parade grounds
+[00:27:54.773 --> 00:27:56.213] PICARD: An elm tree with a circular bench?
+[00:27:56.373 --> 00:27:57.253] TARSES: Yes, that's the one.
+[00:27:57.813 --> 00:27:58.853] PICARD: I spent many an hour there.
+[00:27:59.013 --> 00:28:00.373] PICARD: It was my favourite spot to study.
+[00:28:03.173 --> 00:28:06.053] TARSES: I used to sit under that tree and watch the drills,
+[00:28:07.253 --> 00:28:08.373] TARSES: picture myself an officer.
+[00:28:11.013 --> 00:28:13.013] TARSES: I know that it would have made my mother very happy, but.
+[00:28:14.933 --> 00:28:15.493] PICARD: You didn't do it.
+[00:28:16.373 --> 00:28:16.533] TARSES: No.
+[00:28:18.133 --> 00:28:18.853] TARSES: I was eighteen,
+[00:28:20.133 --> 00:28:20.533] TARSES: and eager.
+[00:28:22.773 --> 00:28:26.293] TARSES: The last thing I wanted to do was spend four years sitting in classrooms.
+[00:28:27.893 --> 00:28:30.773] TARSES: I wanted to be out there, travelling the stars.
+[00:28:32.373 --> 00:28:35.333] TARSES: I didn't want to wait for anything.
+[00:28:35.483 --> 00:28:36.083] TARSES: And
+[00:28:38.933 --> 00:28:39.893] TARSES: now it's done, isn't it?
+[00:28:41.973 --> 00:28:43.653] TARSES: My career in Starfleet is finished.
+[00:28:45.346 --> 00:28:46.626] PICARD: Not if you aren't guilty, Simon.
+[00:28:46.776 --> 00:28:47.376] TARSES: It
+[00:28:48.306 --> 00:28:48.866] TARSES: doesn't matter.
+[00:28:50.466 --> 00:28:51.986] TARSES: I lied on my application,
+[00:28:54.946 --> 00:28:57.746] TARSES: and that mistake will be with me for the rest of my life.
+[00:29:05.426 --> 00:29:08.546] SATIE: Mister Worf has found a brother who still lives on Mars Colony.
+[00:29:08.786 --> 00:29:10.786] SATIE: Contact someone there and have him interviewed.
+[00:29:10.786 --> 00:29:11.336] PICARD: Admiral Satie?
+[00:29:11.336 --> 00:29:15.186] SATIE: And start a background check into all his friends at the Academy training programme.
+[00:29:15.186 --> 00:29:15.586] PICARD: Admiral Satie?
+[00:29:15.666 --> 00:29:16.146] SATIE: Yes, Captain?
+[00:29:16.786 --> 00:29:17.906] PICARD: I would like to have a word with you.
+[00:29:18.306 --> 00:29:18.706] SATIE: Of course.
+[00:29:19.986 --> 00:29:20.626] PICARD: In private
+[00:29:22.226 --> 00:29:22.866] PICARD: and off the record.
+[00:29:24.306 --> 00:29:24.866] SATIE: Of course.
+[00:29:25.746 --> 00:29:27.106] SATIE: After all, you are my partner in this.
+[00:29:30.306 --> 00:29:34.466] SATIE: I cannot possibly believe you mean this.
+[00:29:34.626 --> 00:29:35.106] PICARD: But I do.
+[00:29:35.906 --> 00:29:36.546] PICARD: This must stop.
+[00:29:36.546 --> 00:29:37.346] PICARD: It has gone too far.
+[00:29:38.306 --> 00:29:39.906] PICARD: You lied to him about the Engine Room.
+[00:29:40.066 --> 00:29:41.826] PICARD: There were no volatile chemicals found there.
+[00:29:42.386 --> 00:29:44.866] SATIE: It was a tactic. A way of applying pressure.
+[00:29:46.306 --> 00:29:47.906] PICARD: We are hounding an innocent man.
+[00:29:48.546 --> 00:29:51.266] SATIE: And how, may I ask, have you managed to determine that?
+[00:29:51.666 --> 00:29:53.826] PICARD: I've talked with him.
+[00:29:54.866 --> 00:29:55.346] SATIE: I see.
+[00:29:57.026 --> 00:30:01.506] SATIE: And he told you he was a victim of circumstance, blameless and pure.
+[00:30:01.986 --> 00:30:02.306] PICARD: No,
+[00:30:02.946 --> 00:30:07.426] PICARD: he admits his mistake in falsifying his application. That does not make him a traitor.
+[00:30:10.306 --> 00:30:12.706] SATIE: How can you be so incredibly naive?
+[00:30:15.551 --> 00:30:15.951] SATIE: Captain,
+[00:30:17.951 --> 00:30:22.751] SATIE: may I tell you how I've spent the last four years? From planet to Starbase to planet.
+[00:30:23.951 --> 00:30:24.671] SATIE: I have no home.
+[00:30:25.471 --> 00:30:27.551] SATIE: I live on starships and shuttlecraft.
+[00:30:28.751 --> 00:30:30.351] SATIE: I haven't seen a family member in years.
+[00:30:31.871 --> 00:30:35.551] SATIE: I have no friends. But I have a purpose.
+[00:30:36.591 --> 00:30:46.831] SATIE: My father taught me from the time I was a little girl still clutching a blanket, that the United Federation of Planets is the most remarkable institution ever conceived.
+[00:30:47.551 --> 00:30:53.231] SATIE: And it is my cause to make sure that this extraordinary union be preserved.
+[00:30:54.191 --> 00:30:58.191] SATIE: I cannot imagine why you are trying to block this investigation.
+[00:30:58.831 --> 00:31:00.991] SATIE: There have been others in the past who doubted me.
+[00:31:02.671 --> 00:31:03.791] SATIE: They came to regret it.
+[00:31:11.471 --> 00:31:13.471] PICARD: The hearings on Simon Tarses will stop.
+[00:31:14.591 --> 00:31:15.071] PICARD: If necessary,
+[00:31:15.071 --> 00:31:16.591] PICARD: I will go to Starfleet Command.
+[00:31:17.471 --> 00:31:18.831] SATIE: I have news for you, Captain.
+[00:31:19.791 --> 00:31:22.431] SATIE: I've been in constant contact with Starfleet Command.
+[00:31:23.231 --> 00:31:24.911] SATIE: The hearings are not going to stop.
+[00:31:25.791 --> 00:31:27.071] SATIE: They're going to be expanded.
+[00:31:27.071 --> 00:31:28.351] PICARD: What are you saying?
+[00:31:29.071 --> 00:31:34.831] SATIE: I'm going to get to the heart of this conspiracy if it means investigating every last person on this ship.
+[00:31:36.191 --> 00:31:43.071] SATIE: And every hearing from now on will be held in the presence of Admiral Thomas Henry of Starfleet Security.
+[00:31:43.951 --> 00:31:45.791] SATIE: I've requested he be brought here at once.
+[00:31:46.351 --> 00:31:47.311] PICARD: You never told me about this.
+[00:31:47.861 --> 00:31:50.101] SATIE: I report to Starfleet Command directly.
+[00:31:50.821 --> 00:31:53.941] SATIE: I do not need your permission or your approval for my decisions.
+[00:31:56.901 --> 00:31:57.301] PICARD: Admiral,
+[00:31:59.061 --> 00:31:59.861] PICARD: what you're doing here
+[00:32:01.381 --> 00:32:01.941] PICARD: is unethical.
+[00:32:03.541 --> 00:32:04.101] PICARD: It's immoral.
+[00:32:06.341 --> 00:32:06.981] PICARD: I'll fight it.
+[00:32:09.461 --> 00:32:10.581] SATIE: Do what you must, Captain.
+[00:32:10.741 --> 00:32:15.301] SATIE: And so will I.
+[00:32:24.101 --> 00:32:26.101] DATA: Captain, warp engines are back online.
+[00:32:26.661 --> 00:32:28.501] DATA: We are ready to commence restart sequences.
+[00:32:31.461 --> 00:32:31.701] DATA: Sir?
+[00:32:32.821 --> 00:32:33.061] PICARD: Yes?
+[00:32:33.941 --> 00:32:34.341] PICARD: Yes,
+[00:32:34.581 --> 00:32:34.901] PICARD: yes,
+[00:32:34.901 --> 00:32:35.941] PICARD: of course. Proceed, Mister Data.
+[00:32:36.091 --> 00:32:36.691] PIKER: Are
+[00:32:40.341 --> 00:32:41.141] PIKER: you all right, Captain?
+[00:32:42.981 --> 00:32:44.101] PICARD: Yes, of course, Number One.
+[00:32:44.101 --> 00:32:44.981] PICARD: Just a little preoccupied.
+[00:32:47.861 --> 00:32:53.221] NELLEN: Admiral Satie has ordered you to report to the interrogation room at oh nine hundred hours tomorrow morning.
+[00:32:54.421 --> 00:32:56.341] NELLEN: You are to be questioned before the committee.
+[00:33:09.621 --> 00:33:10.821] LOG: Captain's log, supplemental.
+[00:33:11.541 --> 00:33:17.621] LOG: Admiral Thomas Henry, who has worked closely with Norah Satie in the past, has arrived to observe the hearings.
+[00:33:20.261 --> 00:33:21.221] SABIN: Your full name?
+[00:33:21.221 --> 00:33:21.861] PICARD: Jean-Luc Picard.
+[00:33:22.282 --> 00:33:23.516] SABIN: Rank and position?
+[00:33:23.516 --> 00:33:25.162] PICARD: Captain, Federation Starship Enterprise.
+[00:33:25.322 --> 00:33:26.522] SABIN: How long have you held this post?
+[00:33:27.162 --> 00:33:29.722] PICARD: For three years, since stardate 41124.
+[00:33:30.202 --> 00:33:32.202] SABIN: Very well. Admiral?
+[00:33:32.442 --> 00:33:32.922] PICARD: If you don't mind,
+[00:33:32.922 --> 00:33:33.882] PICARD: there's something I'd like to say.
+[00:33:34.602 --> 00:33:37.722] SATIE: If you have a statement, you'll have an opportunity to make it later.
+[00:33:38.282 --> 00:33:44.922] PICARD: I believe that Chapter Four, Article Twelve of the Uniform Code of Justice grants me the right to make a statement before questioning begins.
+[00:33:46.362 --> 00:33:46.922] SATIE: Very well.
+[00:33:50.762 --> 00:33:52.922] PICARD: I am deeply concerned by what is happening here.
+[00:33:55.482 --> 00:34:02.042] PICARD: It began when we apprehended a spy, a man who admitted his guilt and who will answer for his crime.
+[00:34:03.322 --> 00:34:04.842] PICARD: But the hunt didn't end there.
+[00:34:05.002 --> 00:34:05.802] PICARD: Another man,
+[00:34:07.402 --> 00:34:07.642] PICARD: Mister
+[00:34:07.642 --> 00:34:14.362] PICARD: Simon Tarses, was brought to trial and it was a trial, no matter what others choose to call it.
+[00:34:14.512 --> 00:34:15.112] PICARD: A
+[00:34:15.882 --> 00:34:23.322] PICARD: trial based on insinuation and innuendo. Nothing substantive offered against Mister
+[00:34:23.322 --> 00:34:24.682] PICARD: Tarses, much less proven.
+[00:34:28.362 --> 00:34:28.602] PICARD: Mister
+[00:34:28.602 --> 00:34:36.762] PICARD: Tarses' grandfather is Romulan, and for that reason his career now stands in ruins.
+[00:34:39.642 --> 00:34:40.842] PICARD: Have we become so
+[00:34:42.682 --> 00:34:43.242] PICARD: fearful?
+[00:34:43.242 --> 00:34:44.922] PICARD: Have we become so cowardly
+[00:34:46.762 --> 00:34:53.162] PICARD: that we must extinguish a man because he carries the blood of a current enemy?
+[00:34:55.532 --> 00:34:56.092] PICARD: Admiral,
+[00:34:57.692 --> 00:35:08.652] PICARD: let us not condemn Simon Tarses, or anyone else, because of their bloodlines, or investigate others for their innocent associations.
+[00:35:08.802 --> 00:35:09.402] PICARD: I
+[00:35:10.332 --> 00:35:13.052] PICARD: implore you, do not continue with this
+[00:35:14.732 --> 00:35:15.372] PICARD: proceeding.
+[00:35:16.892 --> 00:35:17.532] PICARD: End it now.
+[00:35:20.412 --> 00:35:20.972] SATIE: Captain,
+[00:35:20.972 --> 00:35:22.652] SATIE: do you believe in the Prime Directive?
+[00:35:23.292 --> 00:35:23.772] PICARD: Of course.
+[00:35:24.572 --> 00:35:27.852] SATIE: In fact, it's Starfleet General Order Number One, is it not?
+[00:35:28.412 --> 00:35:29.132] PICARD: Your point, Admiral?
+[00:35:29.532 --> 00:35:36.492] SATIE: Would it surprise you to learn that you have violated the Prime Directive a total of nine times since you took command of the Enterprise?
+[00:35:37.932 --> 00:35:40.092] SATIE: I must say, Captain, it surprised the hell out of me.
+[00:35:41.292 --> 00:35:44.972] PICARD: My reports to Starfleet document the circumstances in each of those instances
+[00:35:45.532 --> 00:35:50.012] SATIE: Yes, we're looking into those reports, Captain, very closely into those reports,
+[00:35:50.732 --> 00:35:56.652] SATIE: after which I'm sure we'll have more questions for you about your so-called commitment to Starfleet's Prime Directive.
+[00:36:01.772 --> 00:36:06.332] SABIN: Captain, could you tell us just what happened on Stardate 44390?
+[00:36:08.012 --> 00:36:08.492] PICARD: I beg your pardon?
+[00:36:08.972 --> 00:36:10.092] SABIN: Let me refresh your memory.
+[00:36:11.292 --> 00:36:14.172] SABIN: You were transporting a Vulcan ambassador, T'Pel.
+[00:36:16.172 --> 00:36:22.732] PICARD: I was following orders to take this ambassador to a location near the Neutral Zone.
+[00:36:22.732 --> 00:36:24.252] SATIE: I don't think we need the preamble.
+[00:36:25.292 --> 00:36:27.292] SABIN: In fact, she was not a Vulcan at all, was she?
+[00:36:28.153 --> 00:36:29.513] SABIN: She was a Romulan spy.
+[00:36:32.233 --> 00:36:32.793] PICARD: That's correct.
+[00:36:33.273 --> 00:36:35.993] SABIN: A spy whom you were delivering back into the hands of the enemy.
+[00:36:36.553 --> 00:36:44.953] SATIE: Tell me, Captain, when the deception was revealed and she stood proudly on the bridge of a Romulan ship, did you make any effort to retrieve her?
+[00:36:45.913 --> 00:36:46.153] PICARD: No.
+[00:36:46.633 --> 00:36:46.953] SATIE: No.
+[00:36:47.913 --> 00:36:53.221] SATIE: Even though you knew she carried Federation secrets that she'd been accumulating for years?
+[00:36:53.221 --> 00:36:56.633] WORF: The Enterprise could have been captured by the Romulans!
+[00:36:58.073 --> 00:36:59.993] WORF: Captain Picard did the only thing he could.
+[00:37:00.473 --> 00:37:04.873] SATIE: Really, Lieutenant? And where were you when this traitor was on board the Enterprise?
+[00:37:05.353 --> 00:37:07.033] SATIE: Where was ship's Security?
+[00:37:07.673 --> 00:37:12.393] SABIN: Don't you think it's questionable judgment, Captain, to have a security officer whose father was a Romulan collaborator?
+[00:37:13.993 --> 00:37:14.473] PICARD: Lieutenant.
+[00:37:25.833 --> 00:37:30.873] SATIE: Tell me, Captain, have you completely recovered from your experience with the Borg?
+[00:37:33.753 --> 00:37:35.593] PICARD: Yes, I have completely recovered.
+[00:37:36.873 --> 00:37:38.313] SATIE: It must have been awful for you,
+[00:37:40.153 --> 00:37:47.913] SATIE: actually becoming one of them, being forced to use your vast knowledge of Starfleet operations to aid the Borg.
+[00:37:48.953 --> 00:37:51.193] SATIE: Just how many of our ships were lost?
+[00:37:52.233 --> 00:37:52.713] SATIE: Thirty nine?
+[00:37:54.393 --> 00:37:55.833] SATIE: And a loss of life, I believe,
+[00:37:56.391 --> 00:37:58.391] SATIE: measured at nearly eleven thousand.
+[00:37:59.751 --> 00:38:04.311] SATIE: One wonders how you can sleep at night, having caused so much destruction.
+[00:38:05.671 --> 00:38:07.671] SATIE: I question your actions, Captain.
+[00:38:08.151 --> 00:38:09.431] SATIE: I question your choices.
+[00:38:09.991 --> 00:38:11.591] SATIE: I question your loyalty.
+[00:38:14.231 --> 00:38:17.111] PICARD: You know, there some words I've known since I was a school boy.
+[00:38:18.951 --> 00:38:20.951] PICARD: With the first link, the chain is forged.
+[00:38:21.101 --> 00:38:21.701] PICARD: The
+[00:38:22.631 --> 00:38:28.071] PICARD: first speech censured, the first thought forbidden, the first freedom denied,
+[00:38:28.631 --> 00:38:30.151] PICARD: chains us all irrevocably.
+[00:38:32.791 --> 00:38:38.951] PICARD: Those words were uttered by Judge Aaron Satie as wisdom and warning.
+[00:38:39.911 --> 00:38:46.871] PICARD: The first time any man's freedom is trodden on, we're all damaged.
+[00:38:48.791 --> 00:38:50.231] PICARD: I fear that today
+[00:38:50.231 --> 00:38:51.031] SATIE: How dare
+[00:38:52.711 --> 00:38:52.711] SATIE: you!
+[00:38:52.711 --> 00:38:59.351] SATIE: You who consort with Romulans invoke my father's name to support your traitorous arguments.
+[00:39:00.151 --> 00:39:07.671] SATIE: It is an offence to everything I hold dear. And to hear those words used to subvert the United Federation of Planets.
+[00:39:08.391 --> 00:39:10.071] SATIE: My father was a great man.
+[00:39:11.511 --> 00:39:14.151] SATIE: His name stands for integrity and principle.
+[00:39:15.351 --> 00:39:17.911] SATIE: You dirty his name when you speak it.
+[00:39:18.791 --> 00:39:22.311] SATIE: He loved the Federation, but you, Captain, corrupt it.
+[00:39:22.871 --> 00:39:24.871] SATIE: You undermine our very way of life.
+[00:39:26.071 --> 00:39:28.471] SATIE: I will expose you for what you are.
+[00:39:29.306 --> 00:39:31.866] SATIE: I've brought down bigger men than you, Picard!
+[00:39:34.426 --> 00:39:41.626] SATIE: I have nothing more
+[00:39:55.466 --> 00:39:57.866] SATIE: to say.
+[00:40:07.786 --> 00:40:09.306] SABIN: Perhaps we should call a recess
+[00:40:10.826 --> 00:40:11.626] SABIN: until tomorrow.
+[00:40:52.666 --> 00:40:53.786] WORF: Am I bothering you, Captain?
+[00:40:54.717 --> 00:40:56.078] PICARD: No. Please, Mister Worf. Come in.
+[00:41:06.558 --> 00:41:07.197] WORF: It is over.
+[00:41:08.797 --> 00:41:12.397] WORF: Admiral Henry has called an end to any more hearings on this matter.
+[00:41:14.078 --> 00:41:14.558] PICARD: That's good.
+[00:41:17.437 --> 00:41:20.477] WORF: Admiral Satie has left the Enterprise.
+[00:41:25.757 --> 00:41:27.038] PICARD: We think we've come so far.
+[00:41:27.188 --> 00:41:27.788] PICARD: The
+[00:41:28.797 --> 00:41:32.877] PICARD: torture of heretics, the burning of witches, it's all ancient history.
+[00:41:34.317 --> 00:41:40.477] PICARD: Then, before you can blink an eye, it suddenly threatens to start all over again.
+[00:41:44.158 --> 00:41:45.518] WORF: I believed her.
+[00:41:47.437 --> 00:41:48.558] WORF: I helped her.
+[00:41:50.877 --> 00:41:53.615] WORF: I did not see what she was.
+[00:41:53.615 --> 00:41:54.397] PICARD: Mister Worf,
+[00:41:55.678 --> 00:41:58.078] PICARD: villains who wear twirl their moustaches are easy to spot.
+[00:41:58.877 --> 00:42:02.477] PICARD: Those who clothe themselves in good deeds are well camouflaged.
+[00:42:04.078 --> 00:42:04.797] WORF: I think
+[00:42:06.717 --> 00:42:10.237] WORF: after yesterday, people will not be as ready to trust her.
+[00:42:11.277 --> 00:42:11.678] PICARD: Maybe.
+[00:42:13.757 --> 00:42:22.558] PICARD: But she, or someone like her, will always be with us, waiting for the right climate in which to flourish, spreading fear in the name of righteousness.
+[00:42:27.486 --> 00:42:28.206] PICARD: Vigilance, Mister
+[00:42:28.206 --> 00:42:28.526] PICARD: Worf,
+[00:42:30.366 --> 00:42:32.206] PICARD: that is the price we have to continually pay.
+[00:42:37.000 --> 00:43:07.000] [music]
+[00:43:16.000 --> 00:43:25.000] [music]
+[00:43:26.000 --> 00:43:35.000] [music]

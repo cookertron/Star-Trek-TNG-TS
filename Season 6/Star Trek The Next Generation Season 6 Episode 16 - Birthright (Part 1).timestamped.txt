@@ -1,0 +1,537 @@
+[00:00:03.200 --> 00:00:06.240] LOG: Captain's log, stardate 46578.4.
+[00:00:06.720 --> 00:00:15.600] LOG: The Enterprise has arrived at Station Deep Space Nine, to assist in the reconstruction of the Bajoran aqueduct systems damaged during the Cardassian occupation.
+[00:00:18.480 --> 00:00:21.520] CRUSHER: I should be through with the water contaminant analysis in a few hours.
+[00:00:22.000 --> 00:00:24.240] CRUSHER: Then I'm going to check out one of the holosuites.
+[00:00:24.720 --> 00:00:26.880] CRUSHER: They have got a relaxation programme here, Jean-Luc,
+[00:00:26.960 --> 00:00:28.000] CRUSHER: from Alture Seven.
+[00:00:28.720 --> 00:00:29.360] CRUSHER: Listen to this.
+[00:00:29.440 --> 00:00:31.440] CRUSHER: First they bath you in a protein bath.
+[00:00:32.240 --> 00:00:36.160] CRUSHER: Then a cloud of chromal vapour carries you into a meditation chamber.
+[00:00:36.800 --> 00:00:37.440] CRUSHER: You should try it.
+[00:00:38.000 --> 00:00:43.360] PICARD: Well, I'll be too busy discussing the finer points of water management with ten Bajoran bureaucrats.
+[00:00:44.240 --> 00:00:46.560] PICARD: And they won't be carrying me on a cloud of chromal vapour.
+[00:00:48.000 --> 00:00:48.400] PICARD: Ops.
+[00:00:54.000 --> 00:00:54.800] WORF: What is this?
+[00:00:55.200 --> 00:00:56.560] LAFORGE: It's pasta al fiorella.
+[00:00:56.880 --> 00:00:57.600] LAFORGE: One of my favourites.
+[00:00:57.600 --> 00:00:59.840] LAFORGE: Don't worry, you'll love it.
+[00:01:00.720 --> 00:01:03.120] LAFORGE: You know, I really want to take a look at those Ktarian antiques.
+[00:01:03.120 --> 00:01:05.440] LAFORGE: I understand they've got a twenty first century plasma coil
+[00:01:05.840 --> 00:01:07.280] LAFORGE: in almost perfect condition.
+[00:01:07.760 --> 00:01:07.760] LAFORGE: I'll
+[00:01:11.360 --> 00:01:11.760] LAFORGE: have
+[00:01:13.840 --> 00:01:16.000] LAFORGE: to talk to Chief O'Brien about these replicators.
+[00:01:16.160 --> 00:01:16.320] LAFORGE: Worf,
+[00:01:17.680 --> 00:01:18.000] LAFORGE: I
+[00:01:18.880 --> 00:01:20.080] LAFORGE: don't see how you can eat that stuff.
+[00:01:20.560 --> 00:01:22.160] LAFORGE: It tastes like liquid polymer.
+[00:01:24.080 --> 00:01:24.640] WORF: Delicious.
+[00:01:27.520 --> 00:01:30.400] LAFORGE: You know, I think I'm going to try that kiosk on the other side of the promenade.
+[00:01:30.400 --> 00:01:31.840] LAFORGE: It looked like they had some real food.
+[00:01:43.395 --> 00:01:46.915] DATA: Commander, I am reading a minor power drain in the starboard EPS conduit.
+[00:01:47.875 --> 00:01:48.435] RIKER: What's causing it?
+[00:01:49.555 --> 00:01:51.555] DATA: The problem's originating in Sickbay.
+[00:01:51.555 --> 00:01:54.755] DATA: There has been an unauthorized access into the computer's bio-imaging systems.
+[00:01:55.475 --> 00:01:56.104] RIKER: You'd better check it out.
+[00:01:56.104 --> 00:01:56.355] DATA: Aye, sir.
+[00:01:57.107 --> 00:01:59.363] DATA: Excuse me.
+[00:02:00.115 --> 00:02:00.195] DATA: Do
+[00:02:12.755 --> 00:02:14.355] DATA: you have authorisation to work in this area?
+[00:02:14.835 --> 00:02:15.475] BASHIR: Come in, come in.
+[00:02:16.515 --> 00:02:18.035] BASHIR: I need a hand with this field generator.
+[00:02:20.035 --> 00:02:22.915] BASHIR: See if you can boost the power output to sixty five percent.
+[00:02:25.155 --> 00:02:29.235] DATA: I am sorry, but use of sickbay equipment is limited to ship's medical personnel.
+[00:02:30.195 --> 00:02:36.318] BASHIR: Ah. Doctor Julian Bashir, Chief Medical officer, Deep Space Nine. And you are Commander?
+[00:02:36.318 --> 00:02:36.755] DATA: Data.
+[00:02:38.195 --> 00:02:41.875] BASHIR: Commander Data. The synthetic lifeform.
+[00:02:42.035 --> 00:02:42.275] DATA: Yes.
+[00:02:42.275 --> 00:02:43.955] BASHIR: It's an honour to meet you, sir.
+[00:02:43.955 --> 00:02:45.075] BASHIR: I've heard so much about you.
+[00:02:45.635 --> 00:02:49.315] BASHIR: You must have a fascinating perspective into biocybernetic research.
+[00:02:49.475 --> 00:02:51.555] BASHIR: I'd be delighted if we could discuss the subject sometime.
+[00:02:51.635 --> 00:02:52.595] DATA: I would be happy to do so.
+[00:02:52.595 --> 00:02:54.835] DATA: However, I must ask you to stop your experiment.
+[00:02:55.555 --> 00:02:58.755] BASHIR: Ah, yes. I realise I should have asked before using your sickbay,
+[00:02:58.759 --> 00:03:03.159] BASHIR: but it would've taken me days to analyse this device with the computer I have on Deep Space Nine.
+[00:03:03.719 --> 00:03:04.999] DATA: What type of device is this?
+[00:03:05.639 --> 00:03:06.919] BASHIR: It was discovered in the Gamma Quadrant.
+[00:03:06.999 --> 00:03:08.599] BASHIR: I think it must be some sort of medical instrument.
+[00:03:08.999 --> 00:03:10.839] DATA: It appears to employ plasma inputs.
+[00:03:10.839 --> 00:03:12.679] BASHIR: I'm hoping it's a medical scanner.
+[00:03:13.159 --> 00:03:15.319] BASHIR: I wanted to use your computer to find out how it works.
+[00:03:16.679 --> 00:03:19.959] DATA: I suggest we take it to Engineering and run a complete circuit-pathway diagnostic.
+[00:03:21.879 --> 00:03:22.359] BASHIR: Splendid.
+[00:03:25.959 --> 00:03:30.919] BASHIR: I must admit, Commander I didn't think you'd be so personable.
+[00:03:42.519 --> 00:03:42.999] SHREK: Klingon.
+[00:03:46.439 --> 00:03:48.519] SHREK: You are Starfleet Klingon.
+[00:03:49.079 --> 00:03:51.399] WORF: I am Lieutenant Worf.
+[00:03:52.679 --> 00:03:52.999] SHREK: Worf.
+[00:03:54.759 --> 00:03:56.039] SHREK: Son of Mogh.
+[00:04:00.519 --> 00:04:00.999] WORF: What of it?
+[00:04:05.879 --> 00:04:11.319] SHREK: I am Jaglom Shrek, a man with information to sell.
+[00:04:11.959 --> 00:04:13.959] WORF: You have no information I could use.
+[00:04:15.319 --> 00:04:17.159] SHREK: I would not be so sure.
+[00:04:19.079 --> 00:04:22.199] SHREK: It is about your father, Mogh.
+[00:04:24.679 --> 00:04:26.839] WORF: My father died twenty five years ago at Khitomer.
+[00:04:27.399 --> 00:04:28.999] SHREK: That is what you believe.
+[00:04:30.517 --> 00:04:34.677] SHREK: What if I tell you he is still alive?
+[00:05:03.637 --> 00:05:06.197] PICARD: Space, the final frontier.
+[00:05:08.117 --> 00:05:10.997] PICARD: These are the voyages of the starship Enterprise.
+[00:05:12.037 --> 00:05:20.037] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:05:21.717 --> 00:05:24.197] PICARD: to boldly go where no one has gone
+[00:05:25.957 --> 00:05:27.957] PICARD: before.
+[00:05:53.000 --> 00:06:02.000] [music]
+[00:06:18.557 --> 00:06:21.677] WORF: My father is dead.
+[00:06:22.637 --> 00:06:24.157] SHREK: No, he's not.
+[00:06:25.517 --> 00:06:26.797] SHREK: I know where he is.
+[00:06:28.157 --> 00:06:29.037] WORF: How is that possible?
+[00:06:29.997 --> 00:06:32.637] SHREK: I expect to be paid for my information.
+[00:06:33.117 --> 00:06:35.197] SHREK: Perhaps we could negotiate an exchange.
+[00:06:35.677 --> 00:06:37.117] SHREK: The location of your father, for
+[00:06:38.957 --> 00:06:40.237] WORF: Tell me what you know.
+[00:06:40.957 --> 00:06:44.397] SHREK: Not all of the Klingons at Khitomer were killed during the massacre.
+[00:06:44.797 --> 00:06:50.237] SHREK: Many were captured by the Romulans and placed in a prison camp on a remote planet.
+[00:06:51.197 --> 00:06:52.637] SHREK: Your father was among them.
+[00:06:54.077 --> 00:06:55.037] WORF: Where is this planet?
+[00:06:55.517 --> 00:06:56.637] SHREK: Not far from here.
+[00:06:57.597 --> 00:07:01.677] SHREK: I could give you the location, for a price.
+[00:07:01.917 --> 00:07:04.797] WORF: A Klingon would rather die than be taken prisoner.
+[00:07:06.477 --> 00:07:09.757] WORF: I should kill you for spreading lies about my family.
+[00:07:10.157 --> 00:07:12.797] WORF: My father was killed defending Khitomer.
+[00:07:12.797 --> 00:07:12.797] WORF: Ensign
+[00:07:35.917 --> 00:07:37.917] WORF: Lopez.
+[00:07:38.674 --> 00:07:40.434] WORF: This duty roster is unacceptable.
+[00:07:40.434 --> 00:07:42.514] WORF: The assignments should be listed in order of priority.
+[00:07:42.674 --> 00:07:43.394] WORF: Prepare it again.
+[00:07:44.114 --> 00:07:46.114] WORF: I will expect it no later than oh nine hundred hours.
+[00:07:46.114 --> 00:07:46.674] WORF: Dismissed.
+[00:07:50.434 --> 00:07:54.594] RIKER: Worf, we need to get your rendezvous schedule to Commander Rudman on board the Merrimac as soon as you
+[00:07:54.594 --> 00:07:56.354] WORF: I am well aware of your request, Commander.
+[00:07:57.474 --> 00:07:58.274] RIKER: Lieutenant, are you all right?
+[00:07:58.424 --> 00:07:59.024] WORF: Yes,
+[00:07:59.874 --> 00:08:00.034] WORF: sir.
+[00:08:00.194 --> 00:08:01.794] WORF: I am fine.
+[00:08:02.914 --> 00:08:04.114] WORF: I will send your schedule, sir.
+[00:08:05.714 --> 00:08:06.114] WORF: Excuse me.
+[00:08:48.674 --> 00:08:48.994] WORF: Enter.
+[00:08:57.314 --> 00:08:58.674] TROI: Did the table do something wrong?
+[00:09:01.394 --> 00:09:01.634] WORF: No.
+[00:09:01.634 --> 00:09:05.554] TROI: I'm glad you weren't that hard on Ensign Lopez.
+[00:09:06.434 --> 00:09:07.394] WORF: He made a mistake.
+[00:09:07.634 --> 00:09:09.154] WORF: The duty roster was inaccurate.
+[00:09:11.470 --> 00:09:16.270] TROI: Would you like to talk about what's bothering you or would you like to break some more furniture?
+[00:09:24.590 --> 00:09:25.870] WORF: Today on the Promenade, a
+[00:09:27.390 --> 00:09:29.150] WORF: Yridian approached me.
+[00:09:30.350 --> 00:09:34.910] WORF: He knew who I was and tried to sell me information about Mogh.
+[00:09:36.270 --> 00:09:36.750] TROI: Your father?
+[00:09:41.390 --> 00:09:46.910] WORF: He claimed that he's alive and is being held captive in a Romulan prison camp.
+[00:09:48.670 --> 00:09:50.670] TROI: My god. Could it be true?
+[00:09:51.070 --> 00:09:53.550] WORF: A Klingon would never allow himself to be captured.
+[00:09:53.550 --> 00:09:54.990] WORF: A warrior fights to the death.
+[00:09:55.630 --> 00:09:59.550] WORF: If my father were alive it would dishonour his sons and their sons for three generations.
+[00:09:59.790 --> 00:10:01.790] WORF: Even Alexander would bear the burden of guilt.
+[00:10:03.790 --> 00:10:09.070] TROI: So, you're willing to ignore the possibility because you're concerned about dishonour?
+[00:10:10.910 --> 00:10:12.830] WORF: My father is dead.
+[00:10:13.390 --> 00:10:15.310] WORF: That Yridian is selling lies!
+[00:10:17.950 --> 00:10:20.270] TROI: If you're so sure about that, why are you still so upset?
+[00:10:26.430 --> 00:10:31.230] TROI: Worf, you can't deny the possibility just because you don't want it to be true.
+[00:10:34.350 --> 00:10:36.430] TROI: If you want to talk about this, you know where to find me.
+[00:10:43.339 --> 00:10:50.139] DATA: If we transfer twenty megajoules of energy from the dilithium chamber into the plasma inputs, it should be sufficient to activate the device.
+[00:10:50.459 --> 00:10:51.099] LAFORGE: It's worth a try.
+[00:10:51.659 --> 00:10:53.739] LAFORGE: You two can begin by connecting the coil to the chamber.
+[00:10:53.739 --> 00:10:54.939] LAFORGE: I'll configure the energy transfer.
+[00:10:54.939 --> 00:10:55.179] BASHIR: Right.
+[00:11:00.379 --> 00:11:02.859] BASHIR: Data, can I ask you a personal question?
+[00:11:04.539 --> 00:11:04.939] DATA: Certainly.
+[00:11:05.899 --> 00:11:07.179] BASHIR: Does your hair grow?
+[00:11:08.699 --> 00:11:10.859] DATA: I can control the rate of my follicle replenishment.
+[00:11:11.259 --> 00:11:14.059] DATA: However, I have not yet had a reason to modify the length of my hair.
+[00:11:14.379 --> 00:11:14.939] DATA: Why do you ask?
+[00:11:15.099 --> 00:11:15.819] BASHIR: Just curious.
+[00:11:17.739 --> 00:11:19.179] DATA: Power conduits are ready.
+[00:11:30.059 --> 00:11:30.939] DATA: Is something wrong, Doctor?
+[00:11:30.939 --> 00:11:33.179] BASHIR: You're breathing.
+[00:11:33.179 --> 00:11:33.499] DATA: Yes.
+[00:11:34.459 --> 00:11:36.139] DATA: I do have a functional respiration system.
+[00:11:36.539 --> 00:11:39.979] DATA: However, its purpose is to maintain thermal control of my internal systems.
+[00:11:40.619 --> 00:11:43.819] DATA: I am, in fact, capable of functioning for extended periods in a vacuum.
+[00:11:47.019 --> 00:11:47.979] BASHIR: And you have a pulse.
+[00:11:49.259 --> 00:11:54.459] DATA: My circulatory system not only produces bio-chemical lubricants, it regulates micro-hydraulic power.
+[00:11:55.659 --> 00:12:03.339] DATA: Most people are interested in my extraordinary abilities. How fast I can compute, my memory capacity, how long I will live.
+[00:12:04.619 --> 00:12:07.979] DATA: No one has ever asked me if my hair will grow, or noticed that I can breathe.
+[00:12:09.846 --> 00:12:13.366] BASHIR: Your creator went to a lot of trouble to make you seem human.
+[00:12:14.326 --> 00:12:15.286] BASHIR: I find that fascinating.
+[00:12:18.486 --> 00:12:20.086] LAFORGE: Okay, I think we're ready to begin the transfer.
+[00:12:20.326 --> 00:12:21.446] DATA: Power connections are complete.
+[00:12:22.806 --> 00:12:24.166] BASHIR: I'll monitor the coil's transfer rate.
+[00:12:26.406 --> 00:12:28.166] BASHIR: Will you keep an eye on the transient power response?
+[00:12:28.406 --> 00:12:28.886] DATA: Of course.
+[00:12:30.006 --> 00:12:30.646] DATA: We are ready, Geordi.
+[00:12:31.286 --> 00:12:33.046] LAFORGE: Okay. Initiating energy transfer.
+[00:12:38.486 --> 00:12:40.246] BASHIR: Power levels are holding steady.
+[00:12:41.046 --> 00:12:42.246] DATA: Transient response is normal.
+[00:12:44.326 --> 00:12:45.286] BASHIR: Hold on.
+[00:12:45.286 --> 00:12:46.406] BASHIR: I'm picking up a power surge.
+[00:12:46.406 --> 00:12:48.726] BASHIR: Reduce the transfer rate.
+[00:12:49.206 --> 00:12:51.286] LAFORGE: Reducing rate by twenty percent.
+[00:12:53.766 --> 00:12:53.846] LAFORGE: What
+[00:12:57.206 --> 00:12:57.206] LAFORGE: happened?
+[00:12:57.846 --> 00:12:58.726] BASHIR: The power connections blew.
+[00:12:58.966 --> 00:13:00.406] BASHIR: It sent out some kind of plasma shock.
+[00:13:01.446 --> 00:13:02.166] LAFORGE: His synaptic energy
+[00:13:09.766 --> 00:13:11.766] LAFORGE: is dropping.
+[00:14:03.757 --> 00:14:04.797] BASHIR: Data, are you all right?
+[00:14:06.237 --> 00:14:06.717] DATA: I believe so.
+[00:14:08.957 --> 00:14:09.357] DATA: What has happened?
+[00:14:09.997 --> 00:14:11.757] LAFORGE: A plasma shock overloaded your positronic net.
+[00:14:12.477 --> 00:14:14.317] LAFORGE: You were down a good thirty seconds.
+[00:14:15.677 --> 00:14:16.637] DATA: That cannot be possible.
+[00:14:17.517 --> 00:14:19.277] DATA: I have a memory record for that period of time.
+[00:14:20.477 --> 00:14:21.837] DATA: I can recall a series of images.
+[00:14:22.797 --> 00:14:23.757] DATA: I saw Doctor Soong.
+[00:14:26.397 --> 00:14:26.877] DATA: My father.
+[00:14:26.877 --> 00:14:26.957] LAFORGE: Data, I
+[00:14:45.997 --> 00:14:49.357] LAFORGE: can't find anything wrong with your positronic subprocessors or your circuit controllers.
+[00:14:49.837 --> 00:14:54.157] LAFORGE: No sign of any residual energy fluctuation, cascade overload.
+[00:14:54.717 --> 00:14:59.117] DATA: My internal diagnostic indicates that my memory systems are functioning within normal parameters.
+[00:14:59.597 --> 00:15:03.357] DATA: For the forty seven seconds that I was inactive, there is no record of cognitive activity.
+[00:15:04.157 --> 00:15:05.037] LAFORGE: There's no doubt about it, Data.
+[00:15:05.037 --> 00:15:06.397] LAFORGE: You were completely shut down.
+[00:15:08.077 --> 00:15:13.677] LAFORGE: Maybe you had some kind of random power fluctuation, caused you to access one of your memory files.
+[00:15:14.060 --> 00:15:14.700] DATA: That cannot be.
+[00:15:15.340 --> 00:15:17.580] DATA: The image I saw was of Doctor Soong as a young man.
+[00:15:18.060 --> 00:15:20.300] DATA: I did not encounter him until much later in his life.
+[00:15:21.900 --> 00:15:25.100] DATA: There appears to be no rational explanation for my experience.
+[00:15:26.220 --> 00:15:28.220] LAFORGE: I'll take another look at the diagnostic log.
+[00:15:28.540 --> 00:15:32.220] LAFORGE: In the meantime, you'd better disconnect that device.
+[00:15:36.460 --> 00:15:40.220] BASHIR: Data, perhaps we're going about this the wrong way.
+[00:15:40.700 --> 00:15:41.100] DATA: How so?
+[00:15:41.820 --> 00:15:44.620] BASHIR: Well, maybe you had a dream or a hallucination.
+[00:15:45.180 --> 00:15:47.100] DATA: I am not capable of either of those functions.
+[00:15:47.100 --> 00:15:49.260] BASHIR: Yet you can't account for what happened today, can you?
+[00:15:50.940 --> 00:15:52.860] DATA: At present, I cannot.
+[00:15:53.660 --> 00:15:56.460] BASHIR: Well maybe you should approach this from a more human standpoint.
+[00:15:57.020 --> 00:15:57.420] BASHIR: You're right that
+[00:15:57.900 --> 00:16:00.060] BASHIR: machines can't have hallucinations,
+[00:16:00.620 --> 00:16:03.340] BASHIR: but then again, most machines can't grow hair.
+[00:16:19.100 --> 00:16:19.340] WORF: Wait.
+[00:16:21.340 --> 00:16:22.060] WORF: What is it, Commander?
+[00:16:24.380 --> 00:16:28.220] DATA: I am sorry to bother you, but I have a question of a personal nature.
+[00:16:28.780 --> 00:16:29.500] DATA: Do you have a moment?
+[00:16:31.020 --> 00:16:31.500] WORF: A moment.
+[00:16:38.220 --> 00:16:39.180] DATA: I have heard you mention
+[00:16:39.626 --> 00:16:41.226] DATA: that you once experienced a vision.
+[00:16:43.306 --> 00:16:48.826] WORF: Yes. When I was young my adoptive parents arranged for me to partake in the Rite of MajQa.
+[00:16:49.706 --> 00:16:57.546] DATA: I understand it involves deep meditation in the lava caves of No'Mat. That prolonged exposure to the heat induces a hallucinatory effect.
+[00:16:59.226 --> 00:17:00.426] WORF: Why are you asking me about this?
+[00:17:01.786 --> 00:17:05.946] DATA: I have recently had an unusual experience, which might be described as a vision.
+[00:17:07.786 --> 00:17:08.346] WORF: What happened?
+[00:17:09.146 --> 00:17:13.386] DATA: An accident in Engineering shut down my cognitive functions for a short period of time,
+[00:17:13.706 --> 00:17:16.026] DATA: yet I seemed to remain conscious.
+[00:17:17.066 --> 00:17:17.866] DATA: I saw my father.
+[00:17:19.626 --> 00:17:21.226] WORF: You are very fortunate.
+[00:17:22.666 --> 00:17:23.946] WORF: That is a powerful vision.
+[00:17:25.306 --> 00:17:28.026] DATA: If it was a vision, I do not know how to proceed.
+[00:17:29.466 --> 00:17:31.306] WORF: You must find its meaning.
+[00:17:32.666 --> 00:17:36.746] WORF: If it has anything to do with your father, you must learn all you can about it.
+[00:17:37.466 --> 00:17:42.986] WORF: In the Klingon MajQa ritual, there is nothing more important than receiving a revelation about your father.
+[00:17:45.226 --> 00:17:47.066] WORF: Your father is part of you,
+[00:17:48.746 --> 00:17:49.386] WORF: always.
+[00:17:51.386 --> 00:17:53.786] WORF: Learning about him teaches you about yourself.
+[00:17:55.066 --> 00:17:58.026] WORF: That is why no matter
+[00:18:00.106 --> 00:18:01.786] WORF: where he is or what he has done,
+[00:18:04.826 --> 00:18:05.626] WORF: you must find him.
+[00:18:08.260 --> 00:18:09.540] DATA: But I am not looking for my father.
+[00:18:12.020 --> 00:18:13.060] WORF: Yes, of course.
+[00:18:14.660 --> 00:18:16.580] WORF: Do not stop until you have the answer.
+[00:18:20.260 --> 00:18:20.580] DATA: Thank you, Worf.
+[00:19:03.380 --> 00:19:08.340] SHREK: Lieutenant Worf. You have reconsidered.
+[00:19:09.060 --> 00:19:11.940] WORF: Yes. I wish to go to the Romulan prison camp.
+[00:19:12.340 --> 00:19:12.900] SHREK: Excellent.
+[00:19:13.380 --> 00:19:15.940] SHREK: I can provide you with the coordinates.
+[00:19:16.180 --> 00:19:18.420] WORF: No. You will take me there.
+[00:19:19.060 --> 00:19:20.260] SHREK: No, it's not possible.
+[00:19:20.740 --> 00:19:22.820] SHREK: I have no means of transportation.
+[00:19:22.900 --> 00:19:24.260] WORF: I checked the station records.
+[00:19:24.500 --> 00:19:26.580] WORF: You have a vessel that is capable of warp speed.
+[00:19:27.140 --> 00:19:29.780] SHREK: I, I do not have the time.
+[00:19:30.020 --> 00:19:31.380] SHREK: I have other business.
+[00:19:33.220 --> 00:19:36.820] WORF: What is the real reason you do not wish to take
+[00:19:36.838 --> 00:19:39.398] WORF: me? Is it because what you have told me is not true?
+[00:19:39.798 --> 00:19:44.918] SHREK: No. The camp is located on the edge of Romulan space.
+[00:19:45.558 --> 00:19:46.758] SHREK: It is a dangerous journey.
+[00:19:46.758 --> 00:19:47.398] WORF: Dangerous?
+[00:19:47.398 --> 00:19:50.918] WORF: It would be more dangerous for you to refuse.
+[00:19:51.238 --> 00:19:53.078] SHREK: Very well.
+[00:19:53.878 --> 00:19:56.358] SHREK: But I will require full payment in advance.
+[00:19:56.358 --> 00:19:58.038] WORF: No. No, I will pay you after.
+[00:19:58.438 --> 00:19:58.598] SHREK: But
+[00:20:00.198 --> 00:20:01.798] SHREK: Yes, yes, of course.
+[00:20:02.998 --> 00:20:03.478] SHREK: After.
+[00:20:03.958 --> 00:20:07.878] WORF: If you are lying, if there is no prison camp, I will kill you.
+[00:20:30.998 --> 00:20:33.478] SHREK: The Romulan guards have a detection perimeter.
+[00:20:33.878 --> 00:20:39.078] SHREK: It will be necessary to transport you to the surface thirty kilometres from the prison camp.
+[00:20:39.798 --> 00:20:41.478] WORF: The foliage is very dense.
+[00:20:41.958 --> 00:20:44.278] WORF: It will take me approximately twelve hours to reach the camp.
+[00:20:46.198 --> 00:20:47.798] WORF: I may have to travel during the night.
+[00:20:48.278 --> 00:20:49.478] SHREK: That would be unwise.
+[00:20:50.998 --> 00:20:52.438] SHREK: This is not an empty jungle.
+[00:20:53.158 --> 00:20:54.278] SHREK: There are many predators.
+[00:20:55.318 --> 00:20:57.958] WORF: I am prepared.
+[00:20:58.918 --> 00:21:03.958] SHREK: Very well. But I recommend that you look up from time to time.
+[00:21:04.678 --> 00:21:07.878] SHREK: The arboreal needle snake likes to attack from above.
+[00:21:08.038 --> 00:21:09.798] SHREK: I
+[00:21:12.758 --> 00:21:15.078] SHREK: will provide you with a map of the camp.
+[00:21:15.078 --> 00:21:15.238] WORF: How
+[00:21:22.758 --> 00:21:24.518] WORF: did you learn of this camp?
+[00:21:24.518 --> 00:21:27.078] SHREK: It is not important for you to know.
+[00:21:28.038 --> 00:21:30.678] WORF: Why have you not informed the Klingon government of this place?
+[00:21:31.398 --> 00:21:33.078] SHREK: I sell information.
+[00:21:33.718 --> 00:21:35.238] SHREK: I do not give it away.
+[00:21:35.798 --> 00:21:37.078] WORF: You do this for profit.
+[00:21:40.278 --> 00:21:43.558] SHREK: I have my reasons, Mister Worf.
+[00:21:44.118 --> 00:21:46.518] WORF: What reasons could you have for letting these people suffer?
+[00:21:46.518 --> 00:21:51.558] SHREK: We will arrive in the Carraya Sector in approximately three hours.
+[00:21:52.198 --> 00:21:54.038] SHREK: I suggest you get some rest.
+[00:21:54.038 --> 00:21:55.158] PICARD: Come.
+[00:22:20.198 --> 00:22:20.998] PICARD: Yes, Mister Data?
+[00:22:21.398 --> 00:22:22.518] DATA: I am sorry to disturb you, sir.
+[00:22:22.998 --> 00:22:23.798] PICARD: Not at all.
+[00:22:24.838 --> 00:22:28.678] PICARD: I'm here studying the intricacies of Bajoran aqueduct management.
+[00:22:28.998 --> 00:22:30.358] PICARD: I would welcome an interruption.
+[00:22:30.358 --> 00:22:30.918] PICARD: Please, sit down.
+[00:22:34.118 --> 00:22:35.398] DATA: I require your advice.
+[00:22:36.198 --> 00:22:39.958] DATA: I have come to an impasse regarding my recent unexplained experience.
+[00:22:41.350 --> 00:22:43.430] PICARD: Your vision of Doctor Soong.
+[00:22:43.430 --> 00:22:44.870] PICARD: How is your investigation proceeding?
+[00:22:45.670 --> 00:22:55.190] DATA: I have analysed over four thousand different religious and philosophical systems, as well as over two hundred psychological schools of thought, in an effort to understand what happened.
+[00:22:55.830 --> 00:22:56.630] PICARD: And what have you found?
+[00:22:57.670 --> 00:23:02.070] DATA: I have been unable to find a single interpretation of the images I saw during the time I was shut down.
+[00:23:02.550 --> 00:23:04.550] DATA: The hammer, for instance, has several meanings.
+[00:23:05.190 --> 00:23:07.830] DATA: The Klingon culture views the hammer as a symbol of power.
+[00:23:08.470 --> 00:23:12.390] DATA: However, the Taqua tribe of Nagor sees it as an icon of hearth and home.
+[00:23:13.590 --> 00:23:16.230] DATA: The Ferengis view it as a sign of sexual prowess.
+[00:23:16.470 --> 00:23:19.910] PICARD: I'm curious, Mister Data. Why are you looking at all these other cultures?
+[00:23:20.790 --> 00:23:28.310] DATA: The interpretation of visions and other metaphysical experiences are almost always culturally derived, and I have no culture of my own.
+[00:23:28.950 --> 00:23:29.430] PICARD: Yes, you do.
+[00:23:30.230 --> 00:23:34.710] PICARD: You're a culture of one, which is no less valid than a culture of one billion.
+[00:23:36.310 --> 00:23:42.710] PICARD: Perhaps the key to understanding your experience is to stop looking into other sources for a meaning.
+[00:23:44.070 --> 00:23:49.670] PICARD: When we look at Michaelangelo's David or Symnay's Tomb and we don't ask what does this mean to other people.
+[00:23:50.150 --> 00:23:52.070] PICARD: The real question is, what does it mean to us?
+[00:23:53.190 --> 00:23:55.110] PICARD: Explore this image, Data.
+[00:23:55.670 --> 00:23:58.310] PICARD: Let it excite your imagination.
+[00:23:58.310 --> 00:23:59.030] PICARD: Focus on it.
+[00:23:59.590 --> 00:24:00.310] PICARD: See where it leads you.
+[00:24:02.070 --> 00:24:03.110] PICARD: Let it inspire you.
+[00:24:06.630 --> 00:24:07.750] DATA: I believe I understand, sir.
+[00:24:08.950 --> 00:24:09.270] DATA: Thank you.
+[00:25:23.187 --> 00:25:24.467] PICARD: Good luck, Mister Data.
+[00:25:24.467 --> 00:25:25.827] SHREK: The camp is in a southeasterly direction.
+[00:25:26.707 --> 00:25:31.107] SHREK: After approximately ten kilometres, you will come to the edge of the sulphur canyon.
+[00:25:31.907 --> 00:25:35.187] SHREK: Look for a riverbank and follow it until you come to the camp.
+[00:25:37.987 --> 00:25:39.107] SHREK: This is a homing device.
+[00:25:39.728 --> 00:25:42.048] SHREK: It will allow you to find my ship when I return.
+[00:25:42.288 --> 00:25:44.208] SHREK: I will not be landing in the same location.
+[00:25:44.848 --> 00:25:45.728] WORF: When will you return?
+[00:25:46.448 --> 00:25:47.328] SHREK: Fifty hours.
+[00:25:48.848 --> 00:25:49.808] SHREK: Do not be late.
+[00:27:32.234 --> 00:27:32.714] BA'EL: Who's there?
+[00:27:35.754 --> 00:27:36.074] BA'EL: Toq,
+[00:27:37.434 --> 00:27:38.074] BA'EL: is that you?
+[00:27:41.194 --> 00:27:42.154] BA'EL: I can see you.
+[00:27:44.234 --> 00:27:45.514] BA'EL: I hope you're enjoying yourself.
+[00:27:47.754 --> 00:27:47.994] BA'EL: Toq,
+[00:27:48.154 --> 00:27:50.554] BA'EL: I swear I will hang you by your
+[00:27:54.874 --> 00:27:55.114] WORF: Stop,
+[00:27:56.954 --> 00:27:57.114] WORF: please,
+[00:27:57.914 --> 00:27:58.314] BA'EL: Who are you?
+[00:28:00.874 --> 00:28:01.834] WORF: I've come to help you.
+[00:28:02.474 --> 00:28:03.034] BA'EL: Help me?
+[00:28:03.754 --> 00:28:04.074] WORF: Yes.
+[00:28:04.394 --> 00:28:05.274] WORF: How did you get out of the camp?
+[00:28:05.754 --> 00:28:06.714] WORF: Does anyone know you are gone?
+[00:28:07.354 --> 00:28:07.834] BA'EL: Yes
+[00:28:08.474 --> 00:28:09.274] BA'EL: I come here often
+[00:28:09.674 --> 00:28:11.274] WORF: You must lead me to the camp.
+[00:28:12.554 --> 00:28:13.514] BA'EL: You are Klingon.
+[00:28:14.554 --> 00:28:15.674] BA'EL: Where did you come from?
+[00:28:15.674 --> 00:28:16.394] WORF: That does not matter.
+[00:28:16.394 --> 00:28:16.394] WORF: I
+[00:28:18.074 --> 00:28:20.394] WORF: have come to take you home.
+[00:28:20.394 --> 00:28:20.394] BA'EL: Home?
+[00:28:21.594 --> 00:28:22.394] BA'EL: This is my home.
+[00:28:22.794 --> 00:28:22.954] ROMULAN: Ba'el?
+[00:28:22.954 --> 00:28:28.554] WORF: It is very important you tell no one you saw me.
+[00:28:28.704 --> 00:28:31.304] BA'EL: Is it time for the ceremony?
+[00:28:43.196 --> 00:28:45.396] ROMULAN: Yes, we're about to begin.
+[00:28:55.423 --> 00:28:55.823] DATA: Come in.
+[00:28:57.343 --> 00:28:57.583] LAFORGE: Data,
+[00:28:57.583 --> 00:28:58.143] LAFORGE: what are you doing?
+[00:28:58.223 --> 00:28:59.183] LAFORGE: We were supposed to meet at
+[00:29:12.783 --> 00:29:13.663] LAFORGE: Data, what are you doing?
+[00:29:14.223 --> 00:29:14.783] DATA: I am painting.
+[00:29:15.583 --> 00:29:16.143] LAFORGE: I can see that.
+[00:29:18.063 --> 00:29:19.343] LAFORGE: How long have you been at this?
+[00:29:20.063 --> 00:29:24.623] DATA: I have created twenty three individual illustrations in the past six hours, twenty seven minutes.
+[00:29:25.503 --> 00:29:29.023] DATA: I believe you could say I have been inspired.
+[00:29:29.663 --> 00:29:30.223] LAFORGE: I'll say.
+[00:29:31.743 --> 00:29:33.583] DATA: I have done as Captain Picard suggested.
+[00:29:34.703 --> 00:29:36.383] DATA: I have tried to explore the images.
+[00:29:38.303 --> 00:29:38.943] LAFORGE: Has it helped?
+[00:29:41.343 --> 00:29:42.143] DATA: I am not certain.
+[00:29:45.663 --> 00:29:46.223] DATA: I began
+[00:29:47.743 --> 00:29:49.183] DATA: by painting the image of the blacksmith.
+[00:29:50.703 --> 00:29:54.783] DATA: Then I painted the corridor.
+[00:29:57.423 --> 00:29:57.743] DATA: After that, the
+[00:30:00.223 --> 00:30:01.503] DATA: anvil, the hammer,
+[00:30:03.183 --> 00:30:04.543] DATA: and Doctor Soong's face.
+[00:30:07.503 --> 00:30:08.703] DATA: The thought then occurred to me
+[00:30:11.663 --> 00:30:12.863] DATA: that I should paint smoke.
+[00:30:13.663 --> 00:30:14.063] LAFORGE: Smoke?
+[00:30:14.971 --> 00:30:15.371] LAFORGE: Why smoke?
+[00:30:16.091 --> 00:30:17.051] DATA: I cannot explain it.
+[00:30:18.331 --> 00:30:20.091] DATA: It is not an image I saw during my vision.
+[00:30:21.291 --> 00:30:23.131] LAFORGE: Well, you have the smoke coming out of a bucket of water.
+[00:30:24.011 --> 00:30:26.251] LAFORGE: Blacksmiths used to use water to cool the metal.
+[00:30:26.971 --> 00:30:29.131] LAFORGE: Maybe that's why you painted it.
+[00:30:29.211 --> 00:30:29.771] DATA: Perhaps.
+[00:30:31.451 --> 00:30:34.891] DATA: After I painted the smoke, it then occurred to me
+[00:30:36.971 --> 00:30:38.251] DATA: to paint a bird's wing.
+[00:30:39.851 --> 00:30:47.211] DATA: I then drew an entire bird. A flock of birds flying in formation. An individual feather.
+[00:30:48.411 --> 00:30:52.091] DATA: If the image of a bird is related to my vision, I do not understand how.
+[00:30:53.611 --> 00:30:55.451] DATA: I am left with more of a mystery than ever.
+[00:30:57.531 --> 00:30:57.851] DATA: Geordi,
+[00:30:59.371 --> 00:31:02.171] DATA: I would like to recreate the experiment which caused my initial shut down.
+[00:31:02.891 --> 00:31:03.291] LAFORGE: What for?
+[00:31:04.011 --> 00:31:07.371] DATA: I do not know how much longer my vision would have continued had I not been reactivated.
+[00:31:07.771 --> 00:31:10.171] LAFORGE: Data, that plasma shock almost fused your neural net.
+[00:31:10.811 --> 00:31:12.651] LAFORGE: I don't think it's such a good idea to try that again.
+[00:31:13.051 --> 00:31:17.211] DATA: I am aware of the risks involved. But I can think of no other way to investigate my experience.
+[00:31:18.171 --> 00:31:18.731] DATA: Will you help?
+[00:31:21.851 --> 00:31:22.331] LAFORGE: Yeah.
+[00:31:22.971 --> 00:31:23.531] LAFORGE: Yeah, sure.
+[00:31:24.491 --> 00:31:25.051] LAFORGE: I'll go find Doctor
+[00:31:25.051 --> 00:31:25.451] LAFORGE: Bashir.
+[00:31:25.771 --> 00:31:27.131] DATA: I will prepare the power transfer.
+[00:31:31.211 --> 00:31:31.611] LAFORGE: Okay, Data,
+[00:31:32.411 --> 00:31:35.531] LAFORGE: we're going to monitor every subsystem in your positronic net.
+[00:31:35.931 --> 00:31:41.291] LAFORGE: If I see any neural pathways overload beyond sixty five percent, I'm shutting down the experiment.
+[00:31:41.771 --> 00:31:42.171] DATA: Agreed.
+[00:31:43.291 --> 00:31:43.611] BASHIR: We're ready.
+[00:31:51.242 --> 00:31:52.682] LAFORGE: Initiating energy transfer.
+[00:31:56.922 --> 00:31:57.402] LAFORGE: Get ready, Data.
+[00:32:02.042 --> 00:32:05.162] BASHIR: Power levels are rising.
+[00:32:05.962 --> 00:32:09.722] LAFORGE: It should be any second now.
+[00:32:09.872 --> 00:32:10.472] DATA: The
+[00:33:38.146 --> 00:33:40.306] DATA: bird did not appear in my original experience.
+[00:33:41.746 --> 00:33:42.866] DATA: This vision is different.
+[00:33:43.746 --> 00:33:45.106] SOONG: Of course it's different.
+[00:33:46.946 --> 00:33:49.826] SOONG: It's never the same.
+[00:33:51.106 --> 00:33:52.386] SOONG: Always changing.
+[00:33:53.426 --> 00:33:54.146] SOONG: Unpredictable.
+[00:33:55.506 --> 00:33:57.826] SOONG: It doesn't make sense.
+[00:33:59.506 --> 00:34:01.506] DATA: What
+[00:34:05.026 --> 00:34:05.906] DATA: is happening, Father?
+[00:34:07.346 --> 00:34:08.146] SOONG: I don't know, Data.
+[00:34:10.786 --> 00:34:11.506] SOONG: What is happening?
+[00:34:14.706 --> 00:34:16.226] DATA: We are on the Bridge of the Enterprise.
+[00:34:19.826 --> 00:34:20.786] DATA: My cat is present,
+[00:34:23.586 --> 00:34:24.466] DATA: my potted plant,
+[00:34:27.826 --> 00:34:30.626] DATA: and my paintings.
+[00:34:31.746 --> 00:34:32.386] SOONG: A beginning.
+[00:34:33.826 --> 00:34:36.946] SOONG: Still a little grounded in the mundane, but
+[00:34:39.346 --> 00:34:40.626] SOONG: showing promise.
+[00:34:42.466 --> 00:34:43.666] DATA: I do not understand.
+[00:34:46.553 --> 00:34:47.433] SOONG: You're not supposed to.
+[00:34:49.993 --> 00:34:52.393] SOONG: No man should know where his dreams come from.
+[00:34:53.913 --> 00:34:55.273] SOONG: It spoils the mystery, the fun.
+[00:34:57.433 --> 00:34:57.673] SOONG: I'm
+[00:35:04.633 --> 00:35:08.233] SOONG: proud of you, son.
+[00:35:08.233 --> 00:35:12.073] SOONG: I wasn't sure you'd ever develop the cognitive abilities to make it this far.
+[00:35:12.553 --> 00:35:15.353] SOONG: But if you're here,
+[00:35:17.273 --> 00:35:18.313] SOONG: if you can see me,
+[00:35:20.713 --> 00:35:26.473] SOONG: you've crossed over the threshold from being a collection of circuits and subprocessors
+[00:35:28.073 --> 00:35:31.113] SOONG: and have started a wonderful journey.
+[00:35:32.153 --> 00:35:33.193] DATA: What type of journey?
+[00:35:34.713 --> 00:35:35.193] SOONG: Think of it,
+[00:35:38.073 --> 00:35:39.513] SOONG: think of it as an empty sky.
+[00:35:44.793 --> 00:35:45.833] DATA: I do not understand.
+[00:35:45.983 --> 00:35:46.583] SOONG: Shh.
+[00:35:50.553 --> 00:35:52.153] SOONG: Just dream, Data.
+[00:35:53.913 --> 00:35:55.433] SOONG: Dream.
+[00:35:58.073 --> 00:36:00.073] SOONG: Data,
+[00:36:01.033 --> 00:36:03.753] SOONG: you are the bird.
+[00:36:53.352 --> 00:36:59.112] DATA: The images I saw during the time I was shut down were generated by a series of previously dormant circuits in my neural net.
+[00:36:59.992 --> 00:37:06.872] DATA: I believe Doctor Soong incorporated those circuits into my base programming, intending to activate them when I reached a certain level of development.
+[00:37:07.032 --> 00:37:09.272] BASHIR: But the plasma shock activated them prematurely.
+[00:37:09.832 --> 00:37:10.312] DATA: That is correct.
+[00:37:11.352 --> 00:37:12.312] BASHIR: I'm curious.
+[00:37:12.392 --> 00:37:14.632] BASHIR: Now that those circuits are active, what are you going to do with them?
+[00:37:15.112 --> 00:37:18.312] DATA: I plan to shut down my cognitive functions for a brief period each day.
+[00:37:18.712 --> 00:37:20.392] DATA: I hope to generate new internal visions.
+[00:37:20.392 --> 00:37:22.472] BASHIR: It sounds to me like you're talking about dreaming.
+[00:37:22.872 --> 00:37:23.912] DATA: An accurate analogy.
+[00:37:24.312 --> 00:37:25.192] BASHIR: Remarkable.
+[00:37:26.072 --> 00:37:29.432] BASHIR: You know, this is just the kind of thing that might get me published in the Starfleet Cybernetics Journal.
+[00:37:30.152 --> 00:37:31.912] BASHIR: Would you mind if I authored a paper on all this?
+[00:37:32.312 --> 00:37:32.952] DATA: Of course not.
+[00:37:33.912 --> 00:37:34.632] BASHIR: Thank you, Data.
+[00:37:35.442 --> 00:37:37.202] BASHIR: And sweet dreams.
+[00:37:37.352 --> 00:37:41.952] L'KOR: van'aj javDIch Qong DIr Sa'VIch ghIH yot quelI'Pa qevas HoH Qa.
+[00:38:57.180 --> 00:38:59.380] L'KOR: teblaw'nghu mughato'Du ylja'Qo' ylja'Qo' ylja'Qo'
+[00:39:33.615 --> 00:39:34.015] WORF: Quiet!
+[00:39:34.975 --> 00:39:35.935] WORF: I'm a friend.
+[00:39:35.935 --> 00:39:36.255] L'KOR: Who?
+[00:39:39.295 --> 00:39:40.895] L'KOR: Who
+[00:39:42.735 --> 00:39:44.068] L'KOR: are you?
+[00:39:44.068 --> 00:39:46.735] WORF: Worf, son of Mogh.
+[00:39:47.775 --> 00:39:48.495] L'KOR: Why have you come here?
+[00:39:48.495 --> 00:39:50.975] WORF: I have come to find my father.
+[00:39:52.655 --> 00:39:53.135] WORF: Is he alive?
+[00:39:54.015 --> 00:39:54.575] WORF: Is he here?
+[00:39:55.615 --> 00:39:57.295] L'KOR: Your father fell at
+[00:39:57.615 --> 00:39:57.935] L'KOR: Khitomer.
+[00:40:00.975 --> 00:40:01.455] WORF: Did
+[00:40:04.815 --> 00:40:06.175] WORF: he die in battle?
+[00:40:08.095 --> 00:40:08.975] L'KOR: He was fortunate.
+[00:40:12.095 --> 00:40:12.735] WORF: You were captured.
+[00:40:13.295 --> 00:40:13.775] L'KOR: Yes.
+[00:40:15.535 --> 00:40:15.775] WORF: Romulans.
+[00:40:15.775 --> 00:40:15.775] WORF: They
+[00:40:17.535 --> 00:40:19.215] WORF: robbed you of your right to die in battle.
+[00:40:22.895 --> 00:40:23.935] WORF: There's very little time.
+[00:40:24.815 --> 00:40:26.175] WORF: How many Klingons are being held here?
+[00:40:27.135 --> 00:40:27.535] L'KOR: Seventy three.
+[00:40:28.575 --> 00:40:30.289] WORF: How many Romulans guard the camp?
+[00:40:30.289 --> 00:40:30.575] L'KOR: Worf,
+[00:40:30.575 --> 00:40:32.735] L'KOR: there are things you do not understand.
+[00:40:32.975 --> 00:40:33.535] WORF: What do you mean?
+[00:40:34.095 --> 00:40:34.575] L'KOR: I must
+[00:40:35.855 --> 00:40:36.895] L'KOR: speak with the Elders.
+[00:40:37.832 --> 00:40:37.992] L'KOR: ghoS! I
+[00:40:47.752 --> 00:40:48.952] L'KOR: knew
+[00:40:53.192 --> 00:40:56.232] L'KOR: your father well, Worf.
+[00:40:57.912 --> 00:41:04.472] L'KOR: And I remember you. A boy, barely able to lift a bat'leth.
+[00:41:05.752 --> 00:41:08.552] L'KOR: Once your father insisted we take you on the ritual hunt.
+[00:41:09.672 --> 00:41:13.592] L'KOR: You were so eager, you tried to take the beast with your bare hands.
+[00:41:14.392 --> 00:41:16.152] L'KOR: It mauled your arm.
+[00:41:20.952 --> 00:41:22.232] WORF: I still have the scar.
+[00:41:25.272 --> 00:41:27.912] WORF: I do remember you now.
+[00:41:31.272 --> 00:41:32.712] L'KOR: You should not have come here, Worf.
+[00:41:32.792 --> 00:41:32.952] WORF: I
+[00:41:34.792 --> 00:41:35.752] WORF: do not understand.
+[00:41:37.112 --> 00:41:38.232] L'KOR: You should not have come.
+[00:41:40.472 --> 00:41:40.472] GI'RAL: Who
+[00:41:42.312 --> 00:41:42.792] GI'RAL: is this?
+[00:41:44.152 --> 00:41:45.512] WORF: I am Worf, son of Mogh.
+[00:41:45.512 --> 00:41:46.552] WORF: I have come to help you escape.
+[00:41:46.952 --> 00:41:47.672] L'KOR: He does not know.
+[00:41:48.392 --> 00:41:49.432] GI'RAL: He must leave at once.
+[00:41:49.512 --> 00:41:50.632] L'KOR: No, it is too late for that.
+[00:41:50.632 --> 00:41:51.512] L'KOR: He would bring others.
+[00:41:52.232 --> 00:41:52.712] L'KOR: vang ghaH!
+[00:41:52.712 --> 00:41:52.952] L'KOR: We are
+[00:42:01.832 --> 00:42:04.392] L'KOR: not leaving here
+[00:42:05.905 --> 00:42:06.705] L'KOR: and neither are you.
+[00:42:16.000 --> 00:42:29.000] [music]
+[00:42:59.000 --> 00:43:08.000] [music]

@@ -1,0 +1,618 @@
+[00:00:02.400 --> 00:00:05.440] LOG: Captain's log, stardate 45397.3.
+[00:00:06.080 --> 00:00:13.600] LOG: Two days ago, Starbase five one four lost contact with the research vessel Vico, which was sent to explore the interior of a Black Cluster.
+[00:00:14.560 --> 00:00:15.680] LOG: We are en route to investigate.
+[00:00:17.520 --> 00:00:19.440] FELTON: Captain, we are entering sector nine seven.
+[00:00:19.840 --> 00:00:22.160] DATA: I am picking up massive gravitational fluctuations, sir.
+[00:00:22.560 --> 00:00:23.600] PICARD: Take us out of warp, Ensign.
+[00:00:23.840 --> 00:00:24.160] FELTON: Yes, sir.
+[00:00:25.360 --> 00:00:27.840] WORF: The Black Cluster is within visual range, Captain.
+[00:00:27.920 --> 00:00:28.400] PICARD: On screen.
+[00:00:28.960 --> 00:00:29.200] WORF: Aye, Captain.
+[00:00:31.360 --> 00:00:34.000] RIKER: Let's find that ship.
+[00:00:34.400 --> 00:00:35.440] RIKER: Full sensor sweep, Mister Data.
+[00:00:35.920 --> 00:00:36.240] DATA: Aye, sir.
+[00:00:37.520 --> 00:00:37.920] RIKER: What a sight.
+[00:00:39.280 --> 00:00:41.280] PICARD: One of the most ancient formations in the galaxy.
+[00:00:42.000 --> 00:00:43.200] DATA: I have located the Vico, sir.
+[00:00:43.520 --> 00:00:44.880] DATA: The vessel appears to be adrift.
+[00:00:45.680 --> 00:00:46.080] RIKER: Let's see it.
+[00:00:57.600 --> 00:01:00.000] RIKER: Life signs?
+[00:01:01.440 --> 00:01:02.000] WORF: Nothing, Commander.
+[00:01:02.560 --> 00:01:03.360] RIKER: Damage report, Mister Data.
+[00:01:04.480 --> 00:01:06.000] DATA: Outer and inner hulls have been breached.
+[00:01:06.480 --> 00:01:08.640] DATA: Decks seven through twelve are exposed to space.
+[00:01:09.280 --> 00:01:11.040] RIKER: Set up a translink to their computer core.
+[00:01:11.200 --> 00:01:11.840] RIKER: Let's see what happened.
+[00:01:12.400 --> 00:01:12.960] DATA: I cannot, sir.
+[00:01:13.680 --> 00:01:15.760] DATA: The emergency bulkheads on that deck are in place.
+[00:01:16.320 --> 00:01:17.760] DATA: Our linkup signal cannot penetrate them.
+[00:01:18.320 --> 00:01:19.440] PICARD: Structural status, Commander?
+[00:01:20.160 --> 00:01:23.520] DATA: Stress readings indicate considerable pressure on the transverse supports.
+[00:01:23.680 --> 00:01:25.600] PICARD: Is it stable enough for an away team?
+[00:01:25.631 --> 00:01:25.951] DATA: Yes, sir,
+[00:01:26.431 --> 00:01:28.271] DATA: but the risk of structural collapse is quite high.
+[00:01:29.151 --> 00:01:32.191] PICARD: Have transporter room one maintain a lock on each member of your away team.
+[00:01:32.191 --> 00:01:33.551] PICARD: I want you out of there at the first sign of trouble.
+[00:01:33.871 --> 00:01:35.151] RIKER: Take us to fifteen thousand metres, Ensign.
+[00:01:35.551 --> 00:01:35.871] FELTON: Yes, sir.
+[00:01:36.031 --> 00:01:36.671] RIKER: Data, you're with me.
+[00:03:06.288 --> 00:03:07.488] DATA: This station is inoperable, sir.
+[00:03:08.368 --> 00:03:09.968] LAFORGE: This one seems to be stuck in a feedback loop.
+[00:03:10.368 --> 00:03:12.128] RIKER: Let's see if we can tap directly into the computer core.
+[00:03:12.288 --> 00:03:13.888] LAFORGE: The ODN junction is right down here.
+[00:03:25.328 --> 00:03:25.568] LAFORGE: Data?
+[00:03:31.008 --> 00:03:32.368] DATA: Core transfer is engaged.
+[00:03:33.888 --> 00:03:35.168] LAFORGE: Exchange protocol verified.
+[00:03:36.368 --> 00:03:40.448] LAFORGE: The files are intact. At least some of them, anyway.
+[00:03:42.448 --> 00:03:43.008] RIKER: Stay here, Geordi.
+[00:03:43.568 --> 00:03:43.728] RIKER: Data.
+[00:03:43.878 --> 00:03:45.678] TIMOTHY: Are my parents alright?
+[00:04:47.607 --> 00:04:50.327] PICARD: Space, the final frontier.
+[00:04:52.247 --> 00:04:55.127] PICARD: These are the voyages of the starship Enterprise.
+[00:04:56.247 --> 00:05:00.007] PICARD: Its continuing mission to explore strange new worlds, to
+[00:05:01.527 --> 00:05:04.167] PICARD: seek out new life and new civilizations,
+[00:05:05.847 --> 00:05:09.367] PICARD: to boldly go where no one has gone before.
+[00:05:13.000 --> 00:05:24.000] [music]
+[00:05:25.000 --> 00:05:35.000] [music]
+[00:05:37.000 --> 00:05:49.000] [music]
+[00:06:04.715 --> 00:06:05.835] LOG: Captain's log, supplemental.
+[00:06:06.395 --> 00:06:11.515] LOG: A young boy, shielded from our initial sensor scans, has been discovered pinned beneath a fallen beam.
+[00:06:12.235 --> 00:06:15.275] LOG: The degree of damage to the Vico is making our rescue attempt difficult.
+[00:06:16.875 --> 00:06:21.995] PICARD: Transporter room one, can you lock on To him and transport directly to Sickbay?
+[00:06:22.875 --> 00:06:23.755] HUTCHINSON: I'll try, Captain,
+[00:06:24.555 --> 00:06:26.395] HUTCHINSON: but there's a lot of shielding to pull him through.
+[00:06:27.275 --> 00:06:27.755] PICARD: Acknowledged.
+[00:06:28.395 --> 00:06:28.955] PICARD: Picard to Crusher.
+[00:06:30.155 --> 00:06:31.035] CRUSHER: Sickbay here, Captain.
+[00:06:31.595 --> 00:06:33.035] PICARD: Prepare for emergency transport.
+[00:06:34.075 --> 00:06:34.475] CRUSHER: Yes, sir.
+[00:06:34.795 --> 00:06:35.275] CRUSHER: Crusher out.
+[00:06:35.675 --> 00:06:37.435] PICARD: Picard to Commander Riker. Is the boy ready,
+[00:06:37.435 --> 00:06:37.835] PICARD: Number One?
+[00:06:37.835 --> 00:06:39.035] RIKER: Ready, sir.
+[00:06:39.675 --> 00:06:40.315] PICARD: It's your signal.
+[00:06:41.275 --> 00:06:41.675] RIKER: Aye, Captain.
+[00:06:41.675 --> 00:06:43.355] RIKER: It's going to be okay.
+[00:06:45.435 --> 00:06:45.755] RIKER: Here we go.
+[00:06:50.795 --> 00:06:50.795] RIKER: Energise.
+[00:06:50.875 --> 00:06:50.875] PICARD: Ensign,
+[00:06:54.635 --> 00:06:54.635] PICARD: do
+[00:06:57.755 --> 00:06:58.075] PICARD: we have him?
+[00:06:58.555 --> 00:06:59.435] HUTCHINSON: The lock is holding.
+[00:06:59.515 --> 00:07:03.035] HUTCHINSON: I just can't resolve the matter stream,
+[00:07:03.835 --> 00:07:05.595] HUTCHINSON: not with all that victurium alloy in the way.
+[00:07:10.875 --> 00:07:13.035] HUTCHINSON: Commander Riker. You'll have to get him out into the corridor.
+[00:07:13.595 --> 00:07:14.475] DATA: I could move the beam, sir.
+[00:07:14.854 --> 00:07:17.574] DATA: However, it may initiate the collapse of the surrounding supports.
+[00:07:18.134 --> 00:07:19.654] DATA: I recommend you and Geordi return to the ship.
+[00:07:23.414 --> 00:07:23.734] RIKER: Agreed.
+[00:07:38.454 --> 00:07:38.854] RIKER: La Forge.
+[00:07:38.854 --> 00:07:40.294] HUTCHINSON: I'm locked onto Commander Data and the boy, sir.
+[00:07:40.294 --> 00:07:42.374] HUTCHINSON: I'll energise as soon as they've cleared the bulkheads.
+[00:07:42.694 --> 00:07:43.414] RIKER: Whenever you're ready, Data.
+[00:07:44.054 --> 00:07:44.294] DATA: Yes, sir.
+[00:07:45.494 --> 00:07:46.214] TIMOTHY: Are you're going to lift that?
+[00:07:48.774 --> 00:07:49.094] DATA: Yes.
+[00:07:49.894 --> 00:07:51.014] DATA: Then I will take you to the corridor.
+[00:07:51.014 --> 00:07:53.414] DATA: We will transport back to the Enterprise from there.
+[00:07:53.574 --> 00:07:54.134] DATA: Do you understand?
+[00:07:55.494 --> 00:07:57.094] TIMOTHY: How come you can pick up something so heavy?
+[00:07:57.734 --> 00:07:58.374] DATA: I am an android.
+[00:07:59.014 --> 00:08:00.534] DATA: My strength is many times that of a human.
+[00:08:03.094 --> 00:08:04.854] DATA: It is going to be okay.
+[00:08:11.814 --> 00:08:12.614] DATA: I will count to three.
+[00:08:13.654 --> 00:08:15.974] DATA: One two three.
+[00:08:19.574 --> 00:08:19.574] DATA: Energise.
+[00:08:48.169 --> 00:08:49.209] LOG: Captain's log, supplemental.
+[00:08:49.769 --> 00:08:52.649] LOG: A thorough search of the Vico has revealed no additional survivors.
+[00:08:53.209 --> 00:08:56.649] LOG: We have begun the process of counselling the boy with regard to the tragedy.
+[00:08:58.809 --> 00:08:59.156] CRUSHER: Don't be afraid.
+[00:08:59.156 --> 00:08:59.849] TIMOTHY: We were in the Black Cluster.
+[00:09:03.449 --> 00:09:04.489] TIMOTHY: I don't know where they came from.
+[00:09:08.009 --> 00:09:08.809] TIMOTHY: They had a big ship
+[00:09:12.249 --> 00:09:14.089] TIMOTHY: and they kept shooting at us.
+[00:09:14.889 --> 00:09:15.689] TIMOTHY: Then they beamed over.
+[00:09:16.809 --> 00:09:20.089] TIMOTHY: They had purple helmets on and phaser rifles.
+[00:09:23.609 --> 00:09:23.929] TIMOTHY: I saw them.
+[00:09:24.729 --> 00:09:25.449] TIMOTHY: They didn't see me.
+[00:09:25.929 --> 00:09:27.209] CRUSHER: You're safe now, Timothy.
+[00:09:28.409 --> 00:09:29.609] CRUSHER: I'm sorry for what happened.
+[00:09:30.169 --> 00:09:30.969] CRUSHER: It's going to be all right.
+[00:09:32.649 --> 00:09:33.529] CRUSHER: I bet you're hungry.
+[00:09:34.089 --> 00:09:35.449] CRUSHER: Would you like me to get you something to eat?
+[00:09:44.009 --> 00:09:46.169] DATA: Counsellor, I must join Commander La Forge in Engineering.
+[00:09:46.729 --> 00:09:47.529] DATA: If you will excuse me.
+[00:09:51.129 --> 00:09:56.169] TROI: Timothy, would you like Data to stay with you a little bit longer?
+[00:10:06.656 --> 00:10:09.856] LAFORGE: Sections of the primary and secondary hull were torn right off.
+[00:10:10.176 --> 00:10:13.136] LAFORGE: The shearing planes are here, here, and here.
+[00:10:16.896 --> 00:10:18.736] PICARD: How much longer till we can access their logs?
+[00:10:19.696 --> 00:10:20.336] LAFORGE: Almost an hour.
+[00:10:27.296 --> 00:10:28.576] PICARD: The boy was here.
+[00:10:29.856 --> 00:10:31.456] LAFORGE: The hallway outside the computer core.
+[00:10:32.416 --> 00:10:34.656] LAFORGE: His mother was the ship's systems engineer.
+[00:10:34.896 --> 00:10:38.416] LAFORGE: The second away team found her body here inside the core.
+[00:10:38.496 --> 00:10:40.096] PICARD: And his father?
+[00:10:40.816 --> 00:10:41.696] LAFORGE: Ship's second officer.
+[00:10:42.096 --> 00:10:44.496] LAFORGE: He was most likely on the bridge when it was exposed to space.
+[00:10:48.336 --> 00:10:48.896] PICARD: Most likely.
+[00:10:59.696 --> 00:11:03.136] CRUSHER: He'll sleep for a few hours at least.
+[00:11:05.616 --> 00:11:08.736] CRUSHER: I don't need to keep him here but I will need to see him again tomorrow.
+[00:11:11.776 --> 00:11:13.136] CRUSHER: You've got some work cut out for you.
+[00:11:21.296 --> 00:11:22.336] TROI: His world is gone, Data.
+[00:11:23.536 --> 00:11:24.976] TROI: We're going to have to help him build a new one.
+[00:11:33.251 --> 00:11:34.371] LAFORGE: This is not good.
+[00:11:35.411 --> 00:11:39.171] LAFORGE: Whatever hit the Vico must have set up an EM pulse that flashed through their computer banks.
+[00:11:39.731 --> 00:11:42.531] DATA: Nearly eighty three percent of their records have been lost.
+[00:11:42.531 --> 00:11:44.211] LAFORGE: And all of their sensor logs.
+[00:11:44.931 --> 00:11:49.491] LAFORGE: Let's use what we got from our own sensors. I'll call up the structural analysis and the surface scans.
+[00:11:54.851 --> 00:12:00.691] DATA: Geordi, as a child, did you ever experience a traumatic event?
+[00:12:04.051 --> 00:12:06.131] LAFORGE: You're wondering about Timothy?
+[00:12:06.531 --> 00:12:06.771] DATA: Yes.
+[00:12:06.851 --> 00:12:06.851] LAFORGE: I
+[00:12:21.971 --> 00:12:24.851] LAFORGE: was caught in a fire once.
+[00:12:26.611 --> 00:12:30.771] LAFORGE: I must have been, I don't know, about five,
+[00:12:31.251 --> 00:12:33.571] LAFORGE: I guess. It was before I got the first visor.
+[00:12:35.411 --> 00:12:40.931] LAFORGE: And it was only a couple of minutes before my parents found me and pulled me out.
+[00:12:40.931 --> 00:12:45.731] LAFORGE: And nobody got hurt, but I tell you that
+[00:12:48.291 --> 00:12:50.371] LAFORGE: was the longest couple of minutes of my life.
+[00:12:54.691 --> 00:12:58.931] LAFORGE: It was a while after that before I could even let my parents get out of earshot.
+[00:13:00.851 --> 00:13:01.411] LAFORGE: It was like
+[00:13:03.011 --> 00:13:08.211] LAFORGE: I absolutely needed to know that they were there, you know?
+[00:13:12.211 --> 00:13:14.131] DATA: Timothy no longer has that kind of support.
+[00:13:15.251 --> 00:13:15.491] LAFORGE: Yeah.
+[00:13:19.491 --> 00:13:29.571] TEACHER: Dara and her brother found themselves in the land of Tagas where the ruler, Elamos the Magnificent, had proclaimed as law. 'No children will be tolerated within the Great Kingdom'.
+[00:13:30.291 --> 00:13:36.851] TEACHER: When Dara saw the proclamation, she just laughed, and said, 'How magnificent a ruler, to be frightened by the likes of us.'
+[00:13:38.531 --> 00:13:40.051] TEACHER: Timothy, we're done with sculpture for now.
+[00:13:40.691 --> 00:13:41.571] TIMOTHY: It's not finished.
+[00:13:44.611 --> 00:13:45.811] TEACHER: We'll come back to it next period.
+[00:13:46.291 --> 00:13:48.371] TEACHER: Why don't you pick up your mythology book and follow along?
+[00:13:48.931 --> 00:13:49.971] TIMOTHY: But it's not finished.
+[00:14:00.851 --> 00:14:05.411] LAFORGE: Magnetic residual analysis confirms that the Vico was attacked inside the Black Cluster.
+[00:14:05.571 --> 00:14:09.091] LAFORGE: The graviton wave fronts pushed the ship to where we found it.
+[00:14:09.091 --> 00:14:11.011] PICARD: No signs of phaser burns on the hull.
+[00:14:11.251 --> 00:14:11.491] LAFORGE: No, sir.
+[00:14:12.691 --> 00:14:15.571] LAFORGE: Torsional stress levels point to a disrupter-style weapon.
+[00:14:17.651 --> 00:14:21.491] DATA: Fracture points indicate that the energy burst came from a range of less than three thousand metres.
+[00:14:23.091 --> 00:14:25.811] PICARD: But that's a strategy consistent with a cloaked vessel.
+[00:14:27.331 --> 00:14:27.891] PICARD: Romulan.
+[00:14:29.474 --> 00:14:32.114] PICARD: Or Klingon. But we're quite a distance from either of their territories.
+[00:14:32.754 --> 00:14:34.754] DATA: The Breen have outposts in this sector.
+[00:14:35.234 --> 00:14:38.994] DATA: The attack on the Vico is consistent with their battle tactics and their level of technology.
+[00:14:41.634 --> 00:14:42.034] PICARD: Thank you, Data.
+[00:14:43.794 --> 00:14:47.954] PICARD: But what would the Breen be doing inside the Black Cluster?
+[00:14:49.074 --> 00:14:53.874] PICARD: The boy described a boarding party with helmets and phaser rifles.
+[00:14:54.034 --> 00:14:54.594] LAFORGE: Boarding party?
+[00:14:55.634 --> 00:14:56.594] LAFORGE: I don't think that's likely, sir.
+[00:14:57.074 --> 00:14:57.394] PICARD: Counsellor.
+[00:15:00.594 --> 00:15:03.554] LAFORGE: There was absolutely no evidence of anybody coming on board the Vico.
+[00:15:03.554 --> 00:15:10.754] LAFORGE: We would have found a transporter field trace. Or if somebody had used the entry ports, we would have found an electrostatic differential in the docking latches, and we didn't.
+[00:15:12.114 --> 00:15:13.874] LAFORGE: Could Timothy have imagined that, Counsellor?
+[00:15:14.354 --> 00:15:15.154] PICARD: Or could he be lying?
+[00:15:17.394 --> 00:15:19.474] TROI: If he's lying, I haven't been able to sense it.
+[00:15:20.274 --> 00:15:22.594] TROI: Perhaps his emotional trauma level is too high.
+[00:15:23.314 --> 00:15:24.514] PICARD: Why wouldn't he tell us the truth?
+[00:15:24.994 --> 00:15:25.714] TROI: He's still in shock.
+[00:15:26.594 --> 00:15:29.874] TROI: it's hard to know what's going on in his mind right now.
+[00:15:30.034 --> 00:15:33.154] LAFORGE: Well, I'll go back and check the sensor readings again but I don't think we're going to find anything.
+[00:15:33.154 --> 00:15:33.634] PICARD: Thank you, Geordi.
+[00:15:34.034 --> 00:15:34.354] TROI: Data.
+[00:15:37.954 --> 00:15:40.754] TROI: Captain, I think we should ask Data to spend some time with him.
+[00:15:42.114 --> 00:15:42.994] DATA: I do not understand.
+[00:15:43.394 --> 00:15:47.154] TROI: I'm very worried about his behaviour and what I've just heard doesn't make me feel any better.
+[00:15:48.274 --> 00:15:51.474] TROI: Data, you're the only one he's reached out to, because you rescued him.
+[00:15:52.194 --> 00:15:54.674] TROI: We can use your relationship with him to help his recovery.
+[00:15:54.994 --> 00:15:58.274] PICARD: Would Timothy also be more inclined to tell Data the truth about what happened?
+[00:15:58.994 --> 00:15:59.874] TROI: It's a possibility.
+[00:16:01.132 --> 00:16:05.292] PICARD: Commander, proceed with Timothy as the Counsellor suggests.
+[00:16:05.692 --> 00:16:06.012] DATA: Aye, sir.
+[00:16:09.052 --> 00:16:11.692] DATA: Counsellor, exactly how shall I proceed?
+[00:16:12.252 --> 00:16:13.212] TROI: Just be with him.
+[00:16:14.492 --> 00:16:17.852] TROI: You're a presence he trusts, and that's what he needs most right now.
+[00:16:33.052 --> 00:16:33.372] TIMOTHY: What?
+[00:16:36.892 --> 00:16:37.132] TIMOTHY: Data.
+[00:16:38.012 --> 00:16:38.572] DATA: Hello, Timothy.
+[00:16:39.132 --> 00:16:39.612] DATA: May I enter?
+[00:16:42.172 --> 00:16:44.172] TIMOTHY: Yeah.
+[00:16:44.492 --> 00:16:44.652] DATA: Ah.
+[00:16:45.932 --> 00:16:47.132] DATA: You are attempting to recreate
+[00:16:49.212 --> 00:16:50.812] DATA: the Dokkaran temple of Kural Hanesh?
+[00:16:52.092 --> 00:16:52.652] TIMOTHY: Isn't it great?!
+[00:16:54.012 --> 00:16:58.412] TIMOTHY: See, there's the big hallway the teacher told us about. That's where everybody came in.
+[00:16:59.372 --> 00:17:01.852] TIMOTHY: That's where they stood. And that's where the altar was.
+[00:17:03.372 --> 00:17:03.852] TIMOTHY: What do you think?
+[00:17:08.092 --> 00:17:09.532] DATA: Do you wish a frank evaluation?
+[00:17:11.612 --> 00:17:15.932] DATA: It lacks the harmony that characterised this particular temple and Dokkaran culture in general.
+[00:17:21.292 --> 00:17:21.852] TIMOTHY: You hate it.
+[00:17:22.892 --> 00:17:25.132] DATA: No, I am not capable of hatred.
+[00:17:25.282 --> 00:17:25.882] TIMOTHY: I
+[00:17:27.052 --> 00:17:27.932] TIMOTHY: can't do anything right.
+[00:17:28.652 --> 00:17:30.572] DATA: You are making an unwarranted extrapolation.
+[00:17:31.132 --> 00:17:33.932] DATA: I was merely offering an aesthetic analysis of this particular model.
+[00:17:40.552 --> 00:17:41.752] DATA: The base appears quite sturdy.
+[00:17:55.832 --> 00:17:58.632] TIMOTHY: I told you.
+[00:17:59.192 --> 00:18:00.952] DATA: May I suggest a different approach?
+[00:18:01.432 --> 00:18:05.032] DATA: You were attempting to construct the upper level before the supports were in place.
+[00:18:05.832 --> 00:18:06.152] DATA: Observe.
+[00:18:07.512 --> 00:18:08.952] LAFORGE: La Forge to Data.
+[00:18:10.632 --> 00:18:11.112] DATA: Data here.
+[00:18:11.672 --> 00:18:13.432] LAFORGE: I need your help with the shield modulators.
+[00:18:14.152 --> 00:18:15.272] DATA: I will join you in a moment, Geordi.
+[00:18:15.432 --> 00:18:15.992] DATA: Data out.
+[00:18:16.632 --> 00:18:18.392] DATA: Lieutenant La Forge requires my assistance.
+[00:18:42.952 --> 00:18:44.952] TIMOTHY: Incredible.
+[00:18:47.832 --> 00:18:48.152] TIMOTHY: Data,
+[00:18:51.432 --> 00:18:52.232] TIMOTHY: how come you can do that?
+[00:18:53.112 --> 00:18:56.472] DATA: I am designed to exceed human capacity, both mentally and physically.
+[00:18:56.872 --> 00:18:58.472] TIMOTHY: Androids are better than humans?
+[00:18:59.992 --> 00:19:01.672] DATA: Better is a highly subjective term.
+[00:19:02.392 --> 00:19:06.152] DATA: I do not, for example, possess the ability to experience emotion as humans do.
+[00:19:09.893 --> 00:19:10.613] TIMOTHY: No emotions?
+[00:19:12.053 --> 00:19:14.933] TIMOTHY: You mean you can't be happy or sad?
+[00:19:16.053 --> 00:19:16.773] DATA: That is correct.
+[00:19:17.813 --> 00:19:18.213] TIMOTHY: Why not?
+[00:19:19.253 --> 00:19:22.213] DATA: My positronic brain is not capable of generating those conditions.
+[00:19:24.533 --> 00:19:24.773] DATA: Goodbye.
+[00:19:29.973 --> 00:19:30.293] TIMOTHY: Data!
+[00:19:32.133 --> 00:19:33.893] TIMOTHY: Can we build something else later?
+[00:19:35.013 --> 00:19:35.893] DATA: That would be acceptable.
+[00:19:39.813 --> 00:19:40.133] TIMOTHY: Bye.
+[00:20:07.413 --> 00:20:09.253] UNKNOWN: I am designed to exceed human capacity.
+[00:20:12.373 --> 00:20:15.013] TIMOTHY: That is correct.
+[00:20:15.013 --> 00:20:15.973] DATA: The
+[00:20:23.013 --> 00:20:30.213] DATA: Black Cluster was formed almost nine billion years ago when hundreds of protostars collapsed in close proximity.
+[00:20:31.093 --> 00:20:34.693] DATA: The resulting gravitational forces are both violent and highly unpredictable.
+[00:20:35.333 --> 00:20:40.213] LAFORGE: To get anywhere near the centre, we're going to have to push through the gravitational wavefronts like the science vessel was designed
+[00:20:40.315 --> 00:20:40.395] LAFORGE: to do.
+[00:20:41.115 --> 00:20:42.635] LAFORGE: I've already adjusted our shields accordingly.
+[00:20:43.275 --> 00:20:46.155] WORF: The gravitational forces will affect sensor accuracy.
+[00:20:46.475 --> 00:20:48.315] WORF: Detecting an enemy vessel will be difficult.
+[00:20:48.955 --> 00:20:50.155] RIKER: Maybe that's what happened to the Vico.
+[00:20:50.475 --> 00:20:52.075] RIKER: They didn't see anything coming until it was too late.
+[00:20:52.955 --> 00:20:55.995] PICARD: Counsellor, has the boy volunteered any further information?
+[00:20:56.235 --> 00:20:58.795] TROI: No, but I do have an appointment with him in less than half an hour.
+[00:20:59.275 --> 00:21:02.075] PICARD: If there's a possibility of getting more from him, I'd like you to pursue it.
+[00:21:03.515 --> 00:21:05.915] PICARD: But we need to continue our investigation.
+[00:21:06.155 --> 00:21:09.195] PICARD: We'll enter the Black Cluster at oh seven hundred hours tomorrow morning.
+[00:21:09.435 --> 00:21:09.915] PICARD: Dismissed.
+[00:21:18.955 --> 00:21:19.595] TROI: Hello, Timothy.
+[00:21:20.235 --> 00:21:20.875] TROI: Are you ready to go?
+[00:21:21.515 --> 00:21:22.075] TIMOTHY: Yes, Counsellor.
+[00:21:22.315 --> 00:21:22.715] TIMOTHY: I am ready.
+[00:21:23.675 --> 00:21:24.235] TROI: How are you feeling?
+[00:21:26.315 --> 00:21:28.635] TIMOTHY: I am functioning within established parameters.
+[00:21:29.195 --> 00:21:30.315] TROI: Established parameters?
+[00:21:30.555 --> 00:21:31.995] TROI: You sound like Data.
+[00:21:33.835 --> 00:21:34.635] TIMOTHY: I am an android.
+[00:21:36.475 --> 00:21:36.955] TROI: I see.
+[00:21:38.235 --> 00:21:39.755] TROI: Well, let's go for our walk, shall we?
+[00:21:41.595 --> 00:21:42.315] TIMOTHY: That would be acceptable.
+[00:21:50.875 --> 00:21:51.995] TROI: So, what would you like?
+[00:21:57.195 --> 00:21:59.035] TIMOTHY: Androids do not need to eat or drink.
+[00:22:07.595 --> 00:22:08.075] TIMOTHY: However,
+[00:22:08.258 --> 00:22:09.938] TIMOTHY: sometimes we like to taste things.
+[00:22:10.498 --> 00:22:11.698] TIMOTHY: A Tamarin frost, please.
+[00:22:12.258 --> 00:22:13.298] TIMOTHY: Would you like anything, Counsellor?
+[00:22:13.778 --> 00:22:14.978] TROI: No, I'm fine, thank you.
+[00:22:15.858 --> 00:22:16.338] TIMOTHY: As you wish.
+[00:22:18.178 --> 00:22:20.418] TROI: So you're no longer a human?
+[00:22:22.338 --> 00:22:22.978] TIMOTHY: I'm an android.
+[00:22:24.338 --> 00:22:25.138] TROI: When did this happen?
+[00:22:26.898 --> 00:22:28.178] TIMOTHY: I've always been an android.
+[00:22:29.458 --> 00:22:31.058] TROI: What's it like being an android?
+[00:22:31.938 --> 00:22:35.378] TIMOTHY: I am designed to exceed human capacity, both mentally and physically.
+[00:22:36.578 --> 00:22:38.178] TIMOTHY: But I do not experience emotions.
+[00:22:38.578 --> 00:22:39.058] TROI: You don't?
+[00:22:39.858 --> 00:22:40.738] TROI: No emotion at all?
+[00:22:42.898 --> 00:22:43.538] TIMOTHY: That is correct.
+[00:22:44.418 --> 00:22:45.138] PICARD: An android?
+[00:22:45.458 --> 00:22:48.578] TROI: I know it sounds unusual, but it is understandable.
+[00:22:49.458 --> 00:22:53.298] TROI: Technically, it's called enantiodromia. Conversion into the opposite.
+[00:22:54.018 --> 00:22:59.458] TROI: Timothy went from human to machine, from being emotional to being emotionless.
+[00:22:59.698 --> 00:23:01.778] TROI: But the underlying trauma is still there.
+[00:23:02.338 --> 00:23:04.178] TROI: He's just found a new way to suppress it.
+[00:23:07.298 --> 00:23:07.778] PICARD: Counsellor,
+[00:23:10.098 --> 00:23:12.498] PICARD: how long will this behaviour last?
+[00:23:13.138 --> 00:23:14.498] TROI: As long as he needs it to.
+[00:23:14.818 --> 00:23:17.938] TROI: Timothy is rebuilding his identity as best he can.
+[00:23:18.498 --> 00:23:21.538] TROI: The android persona is just one step along the way.
+[00:23:22.258 --> 00:23:25.858] TROI: As soon as he feels stronger and more sure of himself, it should drop away naturally.
+[00:23:26.338 --> 00:23:29.618] PICARD: I assume this is not a time to confront him about what happened to his ship.
+[00:23:29.938 --> 00:23:30.498] TROI: Not yet.
+[00:23:30.658 --> 00:23:34.418] TROI: The best thing we can do right now is to let Timothy take us where he wants to go.
+[00:23:35.218 --> 00:23:37.698] TROI: We should support the process and even encourage it.
+[00:23:39.647 --> 00:23:43.967] PICARD: Data, I would like you to make Timothy the best android he can possibly be.
+[00:24:01.567 --> 00:24:04.447] DATA: Timothy, your head movements are counterproductive.
+[00:24:05.167 --> 00:24:05.887] DATA: Can you be still?
+[00:24:06.687 --> 00:24:07.247] TIMOTHY: But you do it.
+[00:24:09.887 --> 00:24:13.087] DATA: The servo mechanisms in my neck are designed to approximate human movements.
+[00:24:13.727 --> 00:24:15.887] DATA: I did not realize the effect was so distracting.
+[00:24:17.007 --> 00:24:17.327] TIMOTHY: I like it.
+[00:24:23.567 --> 00:24:26.127] TIMOTHY: Data, are there any other androids in Starfleet?
+[00:24:26.687 --> 00:24:28.847] DATA: No. I am the only one.
+[00:24:29.887 --> 00:24:30.847] TIMOTHY: How come you're not Captain?
+[00:24:31.807 --> 00:24:34.847] DATA: My service experience does not yet warrant such a position.
+[00:24:37.567 --> 00:24:37.887] TIMOTHY: Data,
+[00:24:41.727 --> 00:24:43.727] TIMOTHY: what's the scariest thing that ever happened to you?
+[00:24:45.007 --> 00:24:46.767] DATA: Fear is a quality that I do not possess.
+[00:24:48.447 --> 00:24:49.487] TIMOTHY: Because it's an emotion?
+[00:24:50.047 --> 00:24:50.287] DATA: Correct.
+[00:24:50.287 --> 00:24:51.807] TIMOTHY: But
+[00:24:54.607 --> 00:24:57.327] TIMOTHY: what if you had a nightmare?
+[00:24:58.127 --> 00:24:59.247] DATA: I have never had a nightmare.
+[00:24:59.887 --> 00:25:01.007] DATA: I do not require sleep.
+[00:25:07.714 --> 00:25:08.034] DATA: Timothy,
+[00:25:09.794 --> 00:25:11.394] DATA: are you having disturbing dreams?
+[00:25:15.314 --> 00:25:16.674] TIMOTHY: I do not require sleep.
+[00:25:29.874 --> 00:25:30.834] DATA: Is that satisfactory?
+[00:25:33.234 --> 00:25:33.234] TIMOTHY: It's
+[00:25:37.234 --> 00:25:37.714] TIMOTHY: perfect.
+[00:25:37.714 --> 00:25:40.614] CRUSHER: Transfer circuits are functioning properly.
+[00:25:40.614 --> 00:25:42.354] TIMOTHY: Within established parameters?
+[00:25:42.434 --> 00:25:42.994] CRUSHER: Absolutely.
+[00:25:44.194 --> 00:25:49.394] CRUSHER: Input processing, pattern recognition, all within established parameters.
+[00:25:51.554 --> 00:25:52.194] DATA + TIMOTHY: Thank you, Doctor.
+[00:26:22.514 --> 00:26:23.314] TIMOTHY: I ran out of red ochre.
+[00:26:24.194 --> 00:26:24.914] DATA: You may use mine.
+[00:26:26.594 --> 00:26:26.914] TIMOTHY: Thank you.
+[00:26:39.238 --> 00:26:40.758] DATA: Perhaps you should return to your quarters.
+[00:26:42.998 --> 00:26:43.478] TIMOTHY: I'm fine.
+[00:26:45.958 --> 00:26:50.118] TIMOTHY: The servo mechanisms in my mouth are designed to approximate human movements.
+[00:26:55.158 --> 00:26:55.878] TIMOTHY: That is not bad.
+[00:26:57.798 --> 00:26:58.118] DATA: Thank you.
+[00:27:05.158 --> 00:27:07.078] DATA: It is very expressive.
+[00:27:09.718 --> 00:27:10.038] TIMOTHY: Thank you.
+[00:27:11.478 --> 00:27:13.798] DATA: Is your painting representative of something?
+[00:27:16.038 --> 00:27:16.918] TIMOTHY: It's just a painting.
+[00:27:21.718 --> 00:27:22.118] DATA: Timothy,
+[00:27:23.638 --> 00:27:27.478] DATA: you understand that you may speak with me about anything you wish? Any subject?
+[00:27:28.678 --> 00:27:29.318] TIMOTHY: I understand.
+[00:27:32.358 --> 00:27:37.318] DATA: At times, I too find it difficult to share my thoughts with others.
+[00:27:38.358 --> 00:27:43.158] DATA: I am not always confident that I am expressing myself in a manner which humans can comprehend.
+[00:27:44.118 --> 00:27:44.758] DATA: But do I know that
+[00:28:30.755 --> 00:28:31.795] WORF: We are approaching the perimeter.
+[00:28:31.875 --> 00:28:33.715] WORF: I'm picking up the gravitational wavefronts.
+[00:28:34.675 --> 00:28:36.515] RIKER: Engage forward shields thirty five percent.
+[00:28:37.155 --> 00:28:37.635] WORF: Shields up.
+[00:28:43.635 --> 00:28:45.075] PICARD: Drop to one quarter impulse, Ensign.
+[00:28:45.155 --> 00:28:45.475] FELTON: Yes, sir.
+[00:28:50.915 --> 00:28:53.555] RIKER: Bridge to Engineering.
+[00:28:55.475 --> 00:28:57.235] LAFORGE: Adjusting shield frequencies now, Commander.
+[00:28:57.475 --> 00:28:59.555] LAFORGE: We'll have this smoothed out in just a second.
+[00:29:02.595 --> 00:29:03.235] RIKER: Ensign,
+[00:29:07.635 --> 00:29:10.435] RIKER: adjust course for any deviations.
+[00:29:10.915 --> 00:29:11.395] FELTON: Yes, sir.
+[00:29:11.875 --> 00:29:13.347] RIKER: Resume one third impulse.
+[00:29:13.347 --> 00:29:13.715] WORF: Captain,
+[00:29:14.195 --> 00:29:17.315] WORF: I am reading something at four hundred thousand kilometres off the starboard bow.
+[00:29:17.715 --> 00:29:18.435] WORF: Possibly a ship.
+[00:29:18.835 --> 00:29:19.235] RIKER: Red alert.
+[00:29:21.075 --> 00:29:22.115] PICARD: Take us to visual range, Ensign.
+[00:29:22.995 --> 00:29:24.035] FELTON: Adjusting course.
+[00:29:24.915 --> 00:29:26.275] WORF: Sensor readings have disappeared.
+[00:29:27.395 --> 00:29:27.635] WORF: Wait,
+[00:29:27.635 --> 00:29:33.075] WORF: I am picking up another reading at four hundred thousand kilometres off the port bow.
+[00:29:33.404 --> 00:29:35.164] WORF: It's gone.
+[00:29:35.884 --> 00:29:38.833] WORF: No, it is back to starboard.
+[00:29:38.833 --> 00:29:39.324] RIKER: Captain,
+[00:29:39.324 --> 00:29:43.964] RIKER: the Black Cluster is distorting the sensors. We're picking up echoes of the Enterprise reflecting off the wavefronts.
+[00:29:44.764 --> 00:29:45.564] PICARD: Cancel Red alert.
+[00:29:46.764 --> 00:29:49.004] PICARD: Mister Worf, adjust the sensors to compensate for the distortion.
+[00:29:49.964 --> 00:29:51.964] WORF: Aye.
+[00:29:51.964 --> 00:29:55.964] PICARD: Sensor difficulties have been reported by ships travelling through black clusters, but never this extreme.
+[00:29:56.524 --> 00:30:00.844] WORF: Captain, that formation is seven times more massive than any explored previously.
+[00:30:01.564 --> 00:30:02.764] WORF: That could explain the difference.
+[00:30:03.884 --> 00:30:04.924] PICARD: Resume previous course, Ensign.
+[00:30:05.724 --> 00:30:06.044] FELTON: Yes, sir.
+[00:30:22.124 --> 00:30:22.764] DATA: He laughed.
+[00:30:23.804 --> 00:30:26.364] TROI: Yes. It's nice to see, isn't it?
+[00:30:27.004 --> 00:30:29.244] DATA: It is certainly not consistent with his android persona.
+[00:30:30.764 --> 00:30:33.644] TROI: I'd say he's beginning the process of letting go of that fantasy.
+[00:30:35.244 --> 00:30:36.284] DATA: Then my work with him is done.
+[00:30:38.284 --> 00:30:40.444] TROI: No, I don't think it is, Data.
+[00:30:41.564 --> 00:30:43.724] TROI: A laugh is one step in the right direction.
+[00:30:45.244 --> 00:30:47.244] TROI: We need to help him take a few more steps.
+[00:30:48.044 --> 00:30:48.764] DATA: How, Counsellor?
+[00:30:49.564 --> 00:30:53.724] TROI: I'd like you to talk to him about your own fascination with humanity.
+[00:30:54.604 --> 00:31:01.004] TROI: If you can explain to Timothy the appeal that humanity has for you, he might find it easier to become a boy again.
+[00:31:14.579 --> 00:31:15.059] TIMOTHY: This is great.
+[00:31:15.539 --> 00:31:16.099] TIMOTHY: How is yours?
+[00:31:18.019 --> 00:31:26.899] DATA: The complex polysaccharides, in reaction with the carbon dioxide, produces an unusual combination of texture and effervescence.
+[00:31:27.539 --> 00:31:28.499] TIMOTHY: But how does it taste?
+[00:31:29.779 --> 00:31:30.099] TIMOTHY: Is it good?
+[00:31:31.539 --> 00:31:33.939] DATA: I am not capable of tasting in the manner you suggest.
+[00:31:34.739 --> 00:31:41.219] DATA: However, I can analyse the composition of a dessert and make comparative conclusions about its possible effect on the human palate.
+[00:31:41.219 --> 00:31:44.419] DATA: But I neither like it nor dislike it.
+[00:31:45.939 --> 00:31:47.699] TIMOTHY: Oh. I didn't realise that.
+[00:31:48.339 --> 00:31:58.979] DATA: I have often wondered what it must be like to have one's mouth water in anticipation of the arrival of a confection, or to feel the pleasure I have observed in humans as they consume it.
+[00:31:59.699 --> 00:32:01.539] TIMOTHY: You sound like you don't want to be an android.
+[00:32:02.819 --> 00:32:03.619] DATA: I am an android.
+[00:32:05.139 --> 00:32:06.019] DATA: That will never change.
+[00:32:08.339 --> 00:32:11.219] TIMOTHY: But if you could change,
+[00:32:12.819 --> 00:32:13.059] TIMOTHY: would you?
+[00:32:14.499 --> 00:32:17.619] DATA: I have often wished to be human.
+[00:32:18.979 --> 00:32:22.659] DATA: I study people carefully in order to more closely approximate human behaviour.
+[00:32:23.139 --> 00:32:23.539] TIMOTHY: Why?
+[00:32:24.019 --> 00:32:25.779] TIMOTHY: We're stronger and smarter than humans.
+[00:32:26.179 --> 00:32:27.459] TIMOTHY: We can do more than they can.
+[00:32:28.099 --> 00:32:29.859] DATA: But I cannot take pride in my abilities.
+[00:32:31.059 --> 00:32:32.739] DATA: I cannot take pleasure in my accomplishments.
+[00:32:32.739 --> 00:32:32.979] TIMOTHY: But
+[00:32:35.181 --> 00:32:38.781] TIMOTHY: we never have to feel bad, either.
+[00:32:41.741 --> 00:32:48.621] DATA: I would gladly risk feeling bad at times if it also meant that I could also taste my dessert.
+[00:32:59.021 --> 00:33:02.221] WORF: Captain, gravitational wavefront intensity is increasing steadily.
+[00:33:02.541 --> 00:33:04.381] WORF: Eleven hundred standard G units and rising.
+[00:33:09.261 --> 00:33:12.381] PICARD: Let's see if anyone's out there.
+[00:33:14.221 --> 00:33:17.021] PICARD: Mister Worf, attempt a wide range sensor sweep.
+[00:33:17.181 --> 00:33:17.501] WORF: Aye, sir.
+[00:33:20.221 --> 00:33:21.981] WORF: Gravitational distortion is too great, Captain.
+[00:33:21.981 --> 00:33:25.421] WORF: The scanning signal is again being reflected off the wavefronts.
+[00:33:26.461 --> 00:33:27.501] WORF: I am unable to compensate.
+[00:33:27.651 --> 00:33:28.251] WORF: The
+[00:33:29.101 --> 00:33:29.981] WORF: sensors are useless.
+[00:33:30.461 --> 00:33:31.501] PICARD: Mister Data to the Bridge, please.
+[00:33:31.901 --> 00:33:32.461] DATA: Acknowledged.
+[00:33:33.021 --> 00:33:34.141] PICARD: Adjust sensors to short range.
+[00:33:34.461 --> 00:33:35.901] PICARD: Attempt a limited positron scan.
+[00:33:38.301 --> 00:33:39.501] WORF: The distortion is still in effect.
+[00:33:40.541 --> 00:33:41.261] RIKER: Better jacket the scanning beam.
+[00:33:41.341 --> 00:33:41.421] WORF: The
+[00:33:44.381 --> 00:33:46.701] WORF: secondary beam is being distorted as well.
+[00:33:48.381 --> 00:33:52.781] PICARD: Mister Data, our sensors have been rendered ineffective by the field distortion.
+[00:33:52.781 --> 00:33:55.101] PICARD: I want your analysis. Mister Worf,
+[00:33:57.741 --> 00:34:02.301] PICARD: fire phasers, maximum intensity, limited spectrum. Zero zero one
+[00:34:02.699 --> 00:34:03.819] PICARD: mark zero four five.
+[00:34:04.619 --> 00:34:05.259] RIKER: An experiment, Captain?
+[00:34:06.619 --> 00:34:07.339] PICARD: Exactly, Number One.
+[00:34:08.059 --> 00:34:08.699] WORF: Firing phasers.
+[00:34:18.859 --> 00:34:21.259] PICARD: Explanation, Mister Data.
+[00:34:22.059 --> 00:34:24.779] DATA: Phaser energy was reflected by the gravitational wavefronts.
+[00:34:24.779 --> 00:34:27.419] DATA: It is similar to the phenomenon distorting our sensor signals.
+[00:34:27.419 --> 00:34:31.099] PICARD: Phasers and sensors both useless?
+[00:34:33.099 --> 00:34:37.979] PICARD: Mister Data, this reflection phenomenon, would it have the same effect on a disruptor-style weapon?
+[00:34:38.699 --> 00:34:38.939] DATA: Yes, sir.
+[00:34:39.179 --> 00:34:40.379] DATA: Disruptors would be ineffectual.
+[00:34:40.859 --> 00:34:42.059] PICARD: And a ship's cloaking field?
+[00:34:42.059 --> 00:34:43.739] DATA: It would be extremely difficult to maintain.
+[00:34:45.339 --> 00:34:50.619] PICARD: Mister Data, is it at all likely that the Vico could have been attacked inside the cluster?
+[00:34:51.499 --> 00:34:54.619] DATA: Given the effects we have observed, the probability is exceedingly remote, sir.
+[00:34:56.779 --> 00:34:59.899] PICARD: Picard to Counsellor Troi.
+[00:35:00.139 --> 00:35:00.699] TROI: Yes, Captain?
+[00:35:02.139 --> 00:35:04.219] PICARD: Counsellor, will you bring Timothy to my Ready room?
+[00:35:06.699 --> 00:35:09.419] PICARD: Timothy, can you tell us what happened to your ship?
+[00:35:09.739 --> 00:35:10.619] TIMOTHY: I did tell you.
+[00:35:10.779 --> 00:35:11.339] TROI: Tell us again.
+[00:35:11.739 --> 00:35:12.699] TIMOTHY: We were attacked.
+[00:35:13.179 --> 00:35:14.219] DATA: That is highly unlikely.
+[00:35:14.699 --> 00:35:16.299] DATA: Our investigations have clearly demonstrated
+[00:35:16.299 --> 00:35:16.939] TIMOTHY: We were attacked!
+[00:35:16.939 --> 00:35:17.339] TIMOTHY: We were attacked!
+[00:35:19.019 --> 00:35:19.419] DATA: Timothy,
+[00:35:20.939 --> 00:35:22.939] DATA: androids do not lie.
+[00:35:28.219 --> 00:35:29.019] TIMOTHY: It was me.
+[00:35:30.539 --> 00:35:31.099] DATA: Please explain.
+[00:35:34.908 --> 00:35:35.388] TIMOTHY: It was me.
+[00:35:37.548 --> 00:35:38.028] TIMOTHY: I did it.
+[00:35:38.988 --> 00:35:41.548] TIMOTHY: I killed them
+[00:35:45.868 --> 00:35:45.868] TIMOTHY: all.
+[00:35:52.588 --> 00:35:53.468] TIMOTHY: Everything was shaking.
+[00:35:56.828 --> 00:35:57.868] TIMOTHY: I lost my balance.
+[00:36:00.908 --> 00:36:01.948] TIMOTHY: I was just trying to hold on to something.
+[00:36:01.948 --> 00:36:01.948] TIMOTHY: I
+[00:36:05.868 --> 00:36:06.988] TIMOTHY: didn't mean to do it.
+[00:36:09.708 --> 00:36:11.228] PICARD: What was it that didn't you mean to do, Timothy?
+[00:36:13.308 --> 00:36:13.788] TIMOTHY: My arm
+[00:36:15.548 --> 00:36:16.748] TIMOTHY: hit the computer panel.
+[00:36:18.828 --> 00:36:20.188] TIMOTHY: That's what destroyed the ship.
+[00:36:20.908 --> 00:36:24.188] TROI: The ship was damaged when your arm hit the computer panel?
+[00:36:26.428 --> 00:36:28.188] TROI: Timothy, listen to me.
+[00:36:28.908 --> 00:36:36.668] TROI: The damage to your ship might have occurred at the same time your arm touched the panel, but it was only a coincidence.
+[00:36:38.268 --> 00:36:39.628] TROI: This wasn't your fault.
+[00:36:40.028 --> 00:36:40.908] TIMOTHY: Yes it was.
+[00:36:41.308 --> 00:36:42.348] DATA: It is not possible.
+[00:36:43.388 --> 00:36:47.868] DATA: The onboard control systems for every starship require a user code clearance.
+[00:36:48.348 --> 00:36:51.468] DATA: You could not have inadvertently affected any of the Vico's systems.
+[00:36:51.868 --> 00:36:54.108] PICARD: Your computer had safety precautions.
+[00:36:54.108 --> 00:36:57.228] PICARD: There is nothing you could have touched that would have damaged your ship.
+[00:36:57.708 --> 00:37:00.908] TROI: You're not responsible for what happened to your parents, Timothy.
+[00:37:02.250 --> 00:37:03.370] TIMOTHY: But if it wasn't me
+[00:37:04.090 --> 00:37:10.090] PICARD: We're trying to determine what happened right now, and if there is anything you can remember that may assist
+[00:37:12.410 --> 00:37:13.450] TIMOTHY: That's just how it was when
+[00:37:15.610 --> 00:37:16.890] TIMOTHY: it started on the Vico.
+[00:37:29.370 --> 00:37:30.890] WORF: Wavefront intensity has increased.
+[00:37:31.210 --> 00:37:32.570] RIKER: Increase shields to seventy five percent.
+[00:37:32.730 --> 00:37:33.050] WORF: Aye, sir.
+[00:37:36.330 --> 00:37:38.730] RIKER: Damage, Mister Worf.
+[00:37:39.530 --> 00:37:39.930] WORF: Minimal, sir.
+[00:37:40.090 --> 00:37:40.730] WORF: Shields are holding.
+[00:37:41.690 --> 00:37:42.890] PICARD: Ensign, full about. Go to warp two.
+[00:37:46.250 --> 00:37:48.410] FELTON: The gravitational distortion is too high.
+[00:37:48.650 --> 00:37:50.090] FELTON: We can't maintain a warp field.
+[00:37:51.370 --> 00:37:51.850] PICARD: Full shields.
+[00:37:52.250 --> 00:37:52.490] WORF: Aye.
+[00:37:55.610 --> 00:37:57.610] FELTON: Captain, impulse power has been disrupted.
+[00:37:58.090 --> 00:37:59.210] FELTON: The helm won't respond.
+[00:38:00.570 --> 00:38:01.450] TIMOTHY: We couldn't get out either.
+[00:38:02.250 --> 00:38:05.130] TROI: Timothy, perhaps you and I should go below and get out of everyone's way.
+[00:38:05.370 --> 00:38:05.690] TIMOTHY: No.
+[00:38:06.010 --> 00:38:06.890] RIKER: Riker to La Forge.
+[00:38:06.890 --> 00:38:08.650] RIKER: Can you give me more power to the shields?
+[00:38:08.970 --> 00:38:09.610] LAFORGE: Stand by.
+[00:38:10.090 --> 00:38:10.890] TIMOTHY: That's what they kept saying.
+[00:38:11.930 --> 00:38:12.650] TIMOTHY: More shields,
+[00:38:12.970 --> 00:38:13.770] TIMOTHY: more shields.
+[00:38:14.570 --> 00:38:15.610] DATA: Timothy, accompany me, please.
+[00:38:20.730 --> 00:38:24.250] DATA: I want you to recall everything you heard people say aboard the Vico before it was destroyed.
+[00:38:24.810 --> 00:38:25.210] TIMOTHY: I don't know.
+[00:38:25.210 --> 00:38:25.610] TIMOTHY: Just that.
+[00:38:25.690 --> 00:38:26.570] TIMOTHY: Just more shields.
+[00:38:29.687 --> 00:38:33.527] LAFORGE: Captain, I've transferred Fusion reactors four through nine into the shield array.
+[00:38:33.927 --> 00:38:35.207] LAFORGE: That should double the shield strength.
+[00:38:35.847 --> 00:38:38.407] WORF: Wavefront intensity has increased by an order of magnitude.
+[00:38:38.967 --> 00:38:41.927] WORF: Impact in three, two, one.
+[00:38:45.047 --> 00:38:47.207] WORF: Wave front intensity is continuing to increase.
+[00:38:47.447 --> 00:38:49.927] WORF: Structural over-pressure now exceeding one hundred eighty percent.
+[00:38:50.247 --> 00:38:50.567] PICARD: La Forge?
+[00:38:51.127 --> 00:38:51.767] LAFORGE: I don't understand.
+[00:38:51.767 --> 00:38:52.487] LAFORGE: That should have been enough.
+[00:38:52.967 --> 00:38:55.127] LAFORGE: We could run the shield grid directly off the warp drive.
+[00:38:55.687 --> 00:38:56.247] PICARD: Go ahead, Commander.
+[00:38:56.887 --> 00:38:58.727] WORF: Initiating warp-transfer pathways
+[00:38:59.367 --> 00:38:59.687] WORF: now.
+[00:39:00.487 --> 00:39:02.487] LAFORGE: Diverting warp power to the shields.
+[00:39:03.607 --> 00:39:04.807] TIMOTHY: Warp power to the shields.
+[00:39:04.807 --> 00:39:06.167] TIMOTHY: They said that too, Data.
+[00:39:06.247 --> 00:39:06.807] TIMOTHY: I'm positive.
+[00:39:11.847 --> 00:39:14.087] WORF: Wavefront intensity has increased by a factor of ten.
+[00:39:14.567 --> 00:39:16.167] WORF: Contact in thirty one seconds.
+[00:39:16.567 --> 00:39:18.967] WORF: Without additional power to the shields, the outer hull will not hold.
+[00:39:19.687 --> 00:39:20.327] RIKER: La Forge?
+[00:39:20.887 --> 00:39:22.167] LAFORGE: Warp transfer to the shields
+[00:39:22.167 --> 00:39:22.567] LAFORGE: complete.
+[00:39:22.647 --> 00:39:24.167] LAFORGE: That's as strong as they're going to get.
+[00:39:25.927 --> 00:39:27.447] WORF: Impact in fifteen seconds.
+[00:39:28.007 --> 00:39:29.127] DATA: Sir, drop the shields.
+[00:39:29.767 --> 00:39:30.727] RIKER: That's suicide, Data.
+[00:39:31.767 --> 00:39:33.927] DATA: Captain, drop the shields.
+[00:39:33.927 --> 00:39:34.167] PICARD: Make
+[00:39:40.007 --> 00:39:41.207] PICARD: it so.
+[00:39:41.207 --> 00:39:41.447] WORF: Aye.
+[00:39:41.447 --> 00:39:41.447] DATA: Our
+[00:39:52.807 --> 00:39:56.887] DATA: own shields caused the increases in the wavefronts, sir.
+[00:39:57.287 --> 00:40:00.167] DATA: We have been experiencing a harmonic amplification effect.
+[00:40:00.167 --> 00:40:02.167] RIKER: The more energy we dumped into the shield grid, the
+[00:40:02.192 --> 00:40:02.992] RIKER: worse the impact.
+[00:40:03.792 --> 00:40:04.272] DATA: Precisely.
+[00:40:04.992 --> 00:40:06.512] DATA: That is also what destroyed the Vico.
+[00:40:07.312 --> 00:40:15.472] DATA: When Timothy remembered similar procedures on his ship, I initiated an analysis of shield output to wavefront amplitude and discovered a correlation.
+[00:40:17.472 --> 00:40:22.192] PICARD: If we had transferred all that warp power to the shields, it would have torn the ship apart.
+[00:40:26.832 --> 00:40:27.552] RIKER: Status, Ensign?
+[00:40:29.072 --> 00:40:30.672] FELTON: Navigation is coming back online.
+[00:40:31.152 --> 00:40:31.552] PICARD: Full about,
+[00:40:31.952 --> 00:40:32.832] PICARD: one quarter impulse.
+[00:40:34.592 --> 00:40:35.232] PICARD: Take us out of here.
+[00:40:45.712 --> 00:40:47.712] TROI: Timothy's a boy feeling a great deal of pain.
+[00:40:47.862 --> 00:40:50.462] TROI: But he is a boy again.
+[00:40:54.527 --> 00:40:57.127] TROI: Is this difficult for you, Data?
+[00:41:01.193 --> 00:41:01.793] DATA: Difficult?
+[00:41:02.304 --> 00:41:06.104] TROI: To watch him moving away from being like you.
+[00:41:12.302 --> 00:41:16.502] DATA: That would require an emotional context which I cannot provide.
+[00:41:23.411 --> 00:41:25.211] TEACHER: Okay, everybody, let's go.
+[00:41:27.855 --> 00:41:28.855] TEACHER: Come on.
+[00:41:30.076 --> 00:41:31.076] DATA: Hello, Timothy.
+[00:41:32.298 --> 00:41:33.298] TIMOTHY: Hi, Data.
+[00:41:34.670 --> 00:41:34.990] TIMOTHY: How are you?
+[00:41:37.550 --> 00:41:39.950] DATA: I am operating within established parameters.
+[00:41:40.430 --> 00:41:40.910] DATA: How are you?
+[00:41:42.430 --> 00:41:43.310] TIMOTHY: I miss my parents.
+[00:41:45.950 --> 00:41:47.550] TIMOTHY: But I'm okay.
+[00:41:51.470 --> 00:41:55.550] TIMOTHY: I guess you thought I was pretty silly when I had my hair like yours and everything.
+[00:41:57.390 --> 00:42:00.510] DATA: I have been told that imitation is the highest form of flattery.
+[00:42:03.790 --> 00:42:08.670] TIMOTHY: Can we still do things together, even if I'm not really an android?
+[00:42:09.390 --> 00:42:10.830] DATA: I have many human friends.
+[00:42:11.230 --> 00:42:12.830] DATA: I would be pleased to count you among them.
+[00:42:14.110 --> 00:42:14.430] TIMOTHY: That would be
+[00:42:17.950 --> 00:42:18.510] TIMOTHY: acceptable.
+[00:42:21.000 --> 00:42:36.000] [music]
+[00:42:39.000 --> 00:42:54.000] [music]
+[00:42:55.000 --> 00:43:03.000] [music]
+[00:43:08.000 --> 00:43:35.000] [music]

@@ -1,0 +1,612 @@
+[00:00:12.560 --> 00:00:13.520] LAFORGE: No question about it.
+[00:00:14.160 --> 00:00:15.040] LAFORGE: She was bluffing, Worf.
+[00:00:16.400 --> 00:00:19.200] WORF: Bluffing is not one of Counsellor Troi's strong suits.
+[00:00:19.680 --> 00:00:22.640] LAFORGE: I'm still reading some chlorinide leakage, but I can't pin it down.
+[00:00:25.600 --> 00:00:26.160] LAFORGE: Maybe up here.
+[00:00:28.560 --> 00:00:31.120] WORF: It would have been unwise to call.
+[00:00:31.270 --> 00:00:31.870] WORF: Yes.
+[00:00:32.640 --> 00:00:34.160] WORF: My hand was not strong enough.
+[00:00:34.640 --> 00:00:35.680] LAFORGE: You had jacks and eights,
+[00:00:35.680 --> 00:00:37.600] LAFORGE: she bluffed you with a pair of sixes.
+[00:00:38.720 --> 00:00:40.080] WORF: How did you know what I had?
+[00:00:40.080 --> 00:00:43.520] LAFORGE: Let's just say I had a special insight into the cards.
+[00:00:45.120 --> 00:00:49.120] LAFORGE: Maybe next time you should bring a deck that's not transparent to infrared light.
+[00:00:53.440 --> 00:00:54.400] LAFORGE: Not to worry, Worf.
+[00:00:54.800 --> 00:00:56.640] LAFORGE: I only peek after the hand is over.
+[00:00:59.120 --> 00:01:00.960] LAFORGE: Still nothing.
+[00:01:01.040 --> 00:01:02.000] LAFORGE: I'll get a dynoscan.
+[00:01:02.000 --> 00:01:02.960] LAFORGE: We'll try again.
+[00:01:04.400 --> 00:01:04.425] CREWMAN: Commander, is that what you wanted?
+[00:01:04.425 --> 00:01:04.476] LAFORGE: Yes. If anything changes, you let me know. Ensign, run a dynoscan.
+[00:01:04.476 --> 00:01:04.480] CREWWOMAN: Look
+[00:01:06.320 --> 00:01:06.320] CREWWOMAN: out!
+[00:01:06.470 --> 00:01:07.070] LAFORGE: Worf!
+[00:01:19.528 --> 00:01:20.128] CREWMAN: Commander,
+[00:01:32.737 --> 00:01:33.217] CREWMAN: what happened?
+[00:01:42.257 --> 00:01:43.137] LAFORGE: La Forge to Sickbay!
+[00:01:43.297 --> 00:01:45.057] LAFORGE: Medical emergency in cargo bay three!
+[00:01:53.137 --> 00:01:53.617] WORF: What happened?
+[00:01:53.617 --> 00:01:53.617] CRUSHER: The
+[00:01:55.457 --> 00:01:57.217] CRUSHER: containers you were checking fell on you.
+[00:01:58.017 --> 00:01:59.057] CRUSHER: You're lucky to be alive.
+[00:02:03.617 --> 00:02:07.537] WORF: Doctor, I will not attempt to leave Sickbay without your approval.
+[00:02:07.857 --> 00:02:09.297] WORF: The restraining field is not necessary.
+[00:02:13.937 --> 00:02:14.177] CRUSHER: Worf,
+[00:02:15.857 --> 00:02:17.297] CRUSHER: there is no restraining field.
+[00:02:19.777 --> 00:02:20.977] WORF: But I can't move my legs.
+[00:02:22.097 --> 00:02:22.417] CRUSHER: I know.
+[00:02:23.377 --> 00:02:28.737] CRUSHER: You can't move because one of the containers shattered seven of your vertebrae and crushed your spinal cord.
+[00:02:32.897 --> 00:02:36.977] CRUSHER: I'm afraid there's no way we can repair this kind of injury.
+[00:03:12.871 --> 00:03:15.671] PICARD: Space, the final frontier.
+[00:03:17.511 --> 00:03:20.391] PICARD: These are the voyages of the starship Enterprise.
+[00:03:21.511 --> 00:03:29.511] PICARD: Its continuing mission to explore strange new worlds, to seek out new life and new civilizations,
+[00:03:31.111 --> 00:03:34.631] PICARD: to boldly go where no one has gone before.
+[00:03:36.000 --> 00:03:44.000] [music]
+[00:04:02.000 --> 00:04:14.000] [music]
+[00:04:30.597 --> 00:04:33.397] LOG: Captain's log, stardate 45587.3.
+[00:04:33.877 --> 00:04:37.877] LOG: Lieutenant Worf has been removed from active duty following a severe injury.
+[00:04:38.277 --> 00:04:42.837] LOG: Although a neuro-specialist has arrived, Doctor Crusher believes his paralysis may be permanent.
+[00:04:46.517 --> 00:04:48.357] CRUSHER: Welcome to the Enterprise, Doctor Russell.
+[00:04:48.437 --> 00:04:49.317] CRUSHER: I'm Beverly Crusher.
+[00:04:49.477 --> 00:04:50.197] RUSSELL: A pleasure.
+[00:04:50.917 --> 00:04:52.517] RUSSELL: I have some equipment aboard the Potemkin.
+[00:04:52.517 --> 00:04:54.197] RUSSELL: Would you please have it sent to one of your medical labs.
+[00:04:54.197 --> 00:04:54.597] CRUSHER: Of course.
+[00:04:55.077 --> 00:04:56.117] CRUSHER: Send it to medlab four.
+[00:04:56.277 --> 00:04:56.597] CREWMAN: Yes, Doctor.
+[00:04:56.597 --> 00:05:02.837] RUSSELL: Before we get down to business, I just wanted to say that I had the pleasure of reading your paper on cybernetic regeneration recently.
+[00:05:02.997 --> 00:05:03.557] CRUSHER: Really?
+[00:05:03.877 --> 00:05:05.157] CRUSHER: You're the first person to mention it.
+[00:05:05.797 --> 00:05:06.917] RUSSELL: I thought it was brilliant.
+[00:05:07.877 --> 00:05:12.037] RUSSELL: Your ideas on bio-active interfaces border on revolutionary.
+[00:05:13.077 --> 00:05:14.917] RUSSELL: It's going to be a genuine pleasure working with you.
+[00:05:15.237 --> 00:05:15.717] CRUSHER: Thank you.
+[00:05:16.517 --> 00:05:18.757] CRUSHER: Have you had a chance to review Worf's case history yet?
+[00:05:18.997 --> 00:05:19.797] RUSSELL: Only briefly.
+[00:05:20.117 --> 00:05:24.597] RUSSELL: I must admit, I was a little shocked to find the state of Klingon neurological medicine to be so primitive.
+[00:05:24.837 --> 00:05:25.877] CRUSHER: It's a cultural bias.
+[00:05:26.197 --> 00:05:31.557] CRUSHER: When I contacted the Klingon Medical Division, they informed me that they usually let the patient die in a case like this.
+[00:05:31.957 --> 00:05:34.757] CRUSHER: As a result they've done almost no research on neurological trauma.
+[00:05:35.477 --> 00:05:36.837] RUSSELL: We'll be in uncharted waters.
+[00:05:37.637 --> 00:05:39.877] CRUSHER: Worf is having a hard time dealing with his injuries.
+[00:05:40.117 --> 00:05:41.477] CRUSHER: He's always been a difficult patient, but
+[00:05:41.717 --> 00:05:46.037] CRUSHER: now. He's a little tough at first, but I'm sure you'll get to like him after you get to
+[00:05:46.917 --> 00:05:54.677] RUSSELL: Doctor, I know that as a starship doctor, you have to maintain close ties with patients, but I think it would be best if I maintain a discreet distance.
+[00:05:55.077 --> 00:05:58.117] RUSSELL: That way, I can give you a completely objective opinion regarding treatment.
+[00:06:00.357 --> 00:06:00.597] CRUSHER: Yes.
+[00:06:01.317 --> 00:06:02.117] CRUSHER: You're probably right.
+[00:06:02.980 --> 00:06:03.140] RUSSELL: Good.
+[00:06:03.940 --> 00:06:07.460] RUSSELL: Well, I believe you said I'll be working in medlab four?
+[00:06:08.020 --> 00:06:08.740] CRUSHER: Right. This way.
+[00:06:15.540 --> 00:06:18.180] RIKER: You look pretty good for someone who's been eating sickbay food for three days.
+[00:06:20.820 --> 00:06:22.500] WORF: Please, sit down, Commander.
+[00:06:30.500 --> 00:06:33.940] WORF: Thank you for agreeing to see me in this condition.
+[00:06:34.100 --> 00:06:36.260] RIKER: I'm not a Klingon.
+[00:06:36.820 --> 00:06:38.580] RIKER: I don't think there's any shame in someone being injured.
+[00:06:39.540 --> 00:06:41.300] WORF: I am not merely injured, Commander.
+[00:06:42.420 --> 00:06:44.420] WORF: Doctor Crusher believes my paralysis to be
+[00:06:46.020 --> 00:06:46.420] WORF: permanent.
+[00:06:48.660 --> 00:06:51.140] RIKER: I'm sorry.
+[00:06:57.060 --> 00:06:58.660] WORF: I have a personal favour to ask.
+[00:07:03.140 --> 00:07:03.460] RIKER: Name it.
+[00:07:03.460 --> 00:07:03.460] WORF: I
+[00:07:05.780 --> 00:07:08.580] WORF: want you to assist me in performing the Hegh'bat ceremony.
+[00:07:11.540 --> 00:07:12.580] WORF: I want you to help me die.
+[00:07:14.500 --> 00:07:14.740] RIKER: What?
+[00:07:15.860 --> 00:07:26.420] WORF: When a Klingon can no longer stand and face his enemies as a warrior, when he becomes a burden to his friends and family, it is time for the Hegh'bat.
+[00:07:27.300 --> 00:07:30.020] WORF: Time for him to die.
+[00:07:31.060 --> 00:07:32.340] RIKER: There must be other options.
+[00:07:32.420 --> 00:07:33.620] WORF: No, there are not.
+[00:07:34.820 --> 00:07:36.500] WORF: I will not live as an object of
+[00:07:37.226 --> 00:07:38.346] WORF: pity or shame.
+[00:07:39.306 --> 00:07:41.146] WORF: My life as a Klingon is over.
+[00:07:44.026 --> 00:07:44.426] RIKER: Mister Worf,
+[00:07:44.506 --> 00:07:44.506] RIKER: I
+[00:07:47.466 --> 00:07:49.306] RIKER: will not help a friend commit suicide.
+[00:07:54.906 --> 00:07:59.946] WORF: You and I have served together for many years. Fought side by side
+[00:08:01.146 --> 00:08:03.626] WORF: I know you to be a brave and honourable man.
+[00:08:04.746 --> 00:08:06.826] WORF: If you truly consider me a friend,
+[00:08:08.746 --> 00:08:09.226] WORF: help me now.
+[00:08:11.226 --> 00:08:17.946] WORF: Help me end my life as I have lived it, with dignity and honour.
+[00:08:22.026 --> 00:08:22.506] WORF: Please.
+[00:08:29.786 --> 00:08:37.466] CRUSHER: The cortical spinal tract has continued to deteriorate over the last seventy two hours despite CPK enzymatic therapy.
+[00:08:39.066 --> 00:08:40.186] RUSSELL: What about alkysine treatment?
+[00:08:40.346 --> 00:08:40.826] CRUSHER: Ineffective.
+[00:08:44.266 --> 00:08:45.146] RUSSELL: Overdesigned.
+[00:08:46.586 --> 00:08:54.506] RUSSELL: Klingon anatomy. Twenty three ribs, two livers, eight-chambered heart, double-lined neural pia mater.
+[00:08:55.706 --> 00:08:58.586] RUSSELL: I've never seen so many unnecessary redundancies in one body.
+[00:08:59.066 --> 00:08:59.946] CRUSHER: Unnecessary?
+[00:09:00.906 --> 00:09:02.666] CRUSHER: The Klingons refer to it as the brak'lul.
+[00:09:03.466 --> 00:09:09.626] CRUSHER: Almost every vital function in their bodies has a built-in redundancy in case any primary organ or system fails.
+[00:09:10.057 --> 00:09:15.257] RUSSELL: It's a good design in theory, but in practice, all the extra organs means just that much more can go wrong.
+[00:09:17.097 --> 00:09:19.097] RUSSELL: Let me show you something.
+[00:09:19.097 --> 00:09:21.737] RUSSELL: I've been experimenting with DNA based generators.
+[00:09:22.537 --> 00:09:24.857] RUSSELL: This is a genetronic replicator.
+[00:09:25.657 --> 00:09:35.177] RUSSELL: It reads the DNA coding of damaged organs, translates that into a specific set of replicant instructions and then begins to grow a replacement.
+[00:09:36.777 --> 00:09:38.617] CRUSHER: I've read of some of the preliminary work you've done.
+[00:09:40.377 --> 00:09:42.297] RUSSELL: The early results have been very encouraging.
+[00:09:43.977 --> 00:09:44.457] RUSSELL: Beverly,
+[00:09:45.337 --> 00:09:50.537] RUSSELL: the genetronic replicator can create a completely new neural conduit for your Lieutenant Worf.
+[00:09:50.697 --> 00:09:52.377] CRUSHER: Replace his entire spinal column?
+[00:09:52.857 --> 00:09:53.497] RUSSELL: Exactly.
+[00:09:53.737 --> 00:10:01.817] RUSSELL: Instead of splicing and pasting together broken connections like a couple of glorified tailors, we create a new living system.
+[00:10:02.457 --> 00:10:05.097] CRUSHER: I had no idea you were already using this on humanoids.
+[00:10:05.737 --> 00:10:06.377] RUSSELL: I haven't been.
+[00:10:07.497 --> 00:10:08.537] RUSSELL: This'll be the first time.
+[00:10:11.257 --> 00:10:12.057] CRUSHER: First time?
+[00:10:13.177 --> 00:10:15.257] RUSSELL: I've done dozens of holosimulations.
+[00:10:15.897 --> 00:10:17.817] RUSSELL: The success rate is up to thirty seven percent.
+[00:10:18.457 --> 00:10:20.697] CRUSHER: Even a holographic patient would balk at those odds.
+[00:10:21.897 --> 00:10:24.937] RUSSELL: Sooner or later, it has to be tried on a living patient.
+[00:10:26.217 --> 00:10:28.137] CRUSHER: You're talking about a spinal column.
+[00:10:28.937 --> 00:10:35.737] CRUSHER: Even before we could replace it, we have to remove the existing one, and we don't know enough about Klingon neurological medicine to re-attach it.
+[00:10:36.457 --> 00:10:38.457] CRUSHER: If something goes wrong, he'll die.
+[00:10:39.577 --> 00:10:39.817] CRUSHER: I
+[00:10:39.897 --> 00:10:40.217] CRUSHER: agree
+[00:10:40.297 --> 00:10:45.577] CRUSHER: it has remarkable potential, but you're still in the most preliminary stages of research.
+[00:10:46.857 --> 00:10:48.857] CRUSHER: No, I'm afraid I can't justify the risk to Worf.
+[00:10:50.057 --> 00:10:52.137] CRUSHER: We'll have to do with more conventional approaches.
+[00:10:52.287 --> 00:10:53.104] RUSSELL: You're probably right.
+[00:10:53.104 --> 00:10:54.467] RUSSELL: It's too radical an approach.
+[00:10:54.617 --> 00:10:56.777] PICARD: Doctor Crusher, please report to the Bridge.
+[00:10:57.257 --> 00:10:57.817] CRUSHER: On my way.
+[00:11:08.937 --> 00:11:13.017] PICARD: Doctor, the transport ship Denver has struck a gravitic mine left over from the Cardassian war.
+[00:11:13.017 --> 00:11:14.057] PICARD: They've sustained heavy damage.
+[00:11:14.377 --> 00:11:18.217] RIKER: Their last message said they were attempting to crash land on one of the planets in the Mericor system.
+[00:11:18.457 --> 00:11:19.897] RIKER: We should arrive in just under seven hours.
+[00:11:20.217 --> 00:11:21.257] CRUSHER: How many people were aboard?
+[00:11:21.577 --> 00:11:27.657] DATA: The Denver's standard crew complement is twenty three, but they were transporting five hundred seventeen colonists to the Beloti sector.
+[00:11:29.577 --> 00:11:32.537] CRUSHER: I'll need to convert all three shuttlebays to emergency triage centres.
+[00:11:32.697 --> 00:11:35.417] CRUSHER: I also want all civilians with medical training to report for duty.
+[00:11:35.657 --> 00:11:37.337] PICARD: Make it so.
+[00:11:37.337 --> 00:11:39.097] RIKER: Captain, may I speak with you in private?
+[00:11:39.337 --> 00:11:40.057] PICARD: Of course, Number One.
+[00:11:40.297 --> 00:11:41.177] PICARD: You have the Bridge, Mister Data.
+[00:11:41.337 --> 00:11:41.657] DATA: Aye, sir.
+[00:11:48.617 --> 00:11:57.577] RIKER: I have always tried to keep an open mind, not to judge someone else's culture by my own, but for me to be a part of this ceremony.
+[00:11:57.577 --> 00:12:02.377] PICARD: I understand from Doctor Crusher that Worf will never regain the use of his legs.
+[00:12:03.177 --> 00:12:04.697] RIKER: That doesn't mean his life is over.
+[00:12:04.857 --> 00:12:08.937] PICARD: That's a very human perspective, Will. For a Klingon in Worf's position,
+[00:12:10.478 --> 00:12:11.198] PICARD: his life is over.
+[00:12:12.558 --> 00:12:13.998] RIKER: I can't accept that.
+[00:12:14.558 --> 00:12:25.038] PICARD: Will, if you were dying, if you were terminally ill with an incurable disease and facing the remaining few days of your life in pain, wouldn't you come to look on death as a release?
+[00:12:25.758 --> 00:12:27.838] RIKER: Worf isn't dying and he is not in pain.
+[00:12:28.398 --> 00:12:29.758] RIKER: He could live a long life
+[00:12:29.758 --> 00:12:33.278] PICARD: You or I could learn to live with that disability, but not Worf.
+[00:12:35.518 --> 00:12:38.398] PICARD: His life ended when those containers fell on him.
+[00:12:39.518 --> 00:12:40.318] PICARD: We don't have to agree with it,
+[00:12:40.318 --> 00:12:41.518] PICARD: we don't have to understand it,
+[00:12:43.918 --> 00:12:45.998] PICARD: but we do have to respect his beliefs.
+[00:12:46.798 --> 00:12:52.318] RIKER: I can respect his beliefs, but he is asking me to take an active role in his committing suicide.
+[00:12:52.878 --> 00:12:55.358] PICARD: He's asking for your help because you're his friend.
+[00:12:58.798 --> 00:13:02.078] PICARD: That means that you're going to have to make your decision based on that friendship.
+[00:13:04.718 --> 00:13:05.918] RIKER: Which leaves me back where I started.
+[00:13:07.118 --> 00:13:07.358] PICARD: Will.
+[00:13:10.718 --> 00:13:11.518] PICARD: Look, I'm sorry,
+[00:13:11.518 --> 00:13:15.678] PICARD: I cannot help you to make this decision, but I can tell you this.
+[00:13:18.158 --> 00:13:20.558] PICARD: Klingons choose their friends with great care.
+[00:13:22.798 --> 00:13:25.838] PICARD: If he didn't know he could count on you, he never would have asked.
+[00:13:30.318 --> 00:13:33.048] ALEXANDER: Why won't you let me see him?
+[00:13:33.048 --> 00:13:33.438] TROI: Alexander,
+[00:13:33.438 --> 00:13:35.118] TROI: I told you it's not my decision.
+[00:13:35.998 --> 00:13:36.798] TROI: Your father doesn't want to
+[00:13:36.878 --> 00:13:37.758] ALEXANDER: I don't believe you.
+[00:13:37.758 --> 00:13:39.278] ALEXANDER: My father wants to see me.
+[00:13:39.561 --> 00:13:41.321] ALEXANDER: You're the one keeping me away from him!
+[00:13:42.681 --> 00:13:44.201] TROI: I think you know that's not true.
+[00:13:44.841 --> 00:13:46.201] ALEXANDER: Then why can't I see him?
+[00:13:51.081 --> 00:13:51.401] TROI: Come here.
+[00:13:59.481 --> 00:14:07.401] TROI: He's been injured, and he's embarrassed. And to have anyone see him now would make him feel worse, even if it were you.
+[00:14:08.441 --> 00:14:10.281] ALEXANDER: This is part of that Klingon stuff, isn't it.
+[00:14:11.481 --> 00:14:14.841] ALEXANDER: My mother always said that Klingons had a lot of dumb ideas about honour.
+[00:14:15.321 --> 00:14:18.681] TROI: Alexander, that Klingon stuff is very important to your father.
+[00:14:19.641 --> 00:14:21.481] ALEXANDER: Well, it isn't very important to me.
+[00:14:22.121 --> 00:14:23.401] ALEXANDER: I don't care about being Klingon,
+[00:14:23.481 --> 00:14:24.921] ALEXANDER: I just want to see my father.
+[00:14:27.401 --> 00:14:28.281] TROI: It's been a long day.
+[00:14:29.401 --> 00:14:32.201] TROI: Why don't you get ready for bed and we'll talk about this again in the morning.
+[00:14:43.161 --> 00:14:49.401] TROI: Alexander is scared, confused, hurt, all because his father is refusing to see him.
+[00:14:50.681 --> 00:14:52.761] WORF: You know why I left those instructions.
+[00:14:53.081 --> 00:14:53.721] TROI: Yes I do.
+[00:14:53.801 --> 00:14:55.561] TROI: It's not the Klingon way, right?
+[00:14:56.121 --> 00:15:01.241] WORF: It is a question of honour, and I would ask you that you respect my wishes in this matter, Counsellor.
+[00:15:01.881 --> 00:15:05.161] TROI: All I care about at this moment is a little boy
+[00:15:05.248 --> 00:15:07.888] TROI: who's terrified he's going to lose his father.
+[00:15:15.488 --> 00:15:23.968] TROI: Maybe it's time you stopped lying here worrying about your honour, and started thinking about someone else, like your son.
+[00:15:30.208 --> 00:15:31.488] CRUSHER: Would you like us to come back later?
+[00:15:32.608 --> 00:15:33.888] WORF: No. Please come in, Doctor.
+[00:15:36.368 --> 00:15:37.648] CRUSHER: This is Doctor Toby Russell.
+[00:15:37.728 --> 00:15:39.808] CRUSHER: She's from the Adelman Neurological Institute.
+[00:15:40.608 --> 00:15:42.848] CRUSHER: She specialises in spinal injuries like yours.
+[00:15:43.488 --> 00:15:45.808] CRUSHER: We've discussed a variety of surgical procedures.
+[00:15:46.528 --> 00:15:52.288] CRUSHER: I'm afraid none of them will repair the spinal cord, but we have found a way for you to regain much of your mobility.
+[00:15:53.328 --> 00:15:57.248] CRUSHER: We can implant a series of neural transducers in your lower torso and legs.
+[00:15:57.968 --> 00:16:02.528] CRUSHER: They're designed to pick up the electrical impulses from your brain and stimulate the corresponding muscles.
+[00:16:03.168 --> 00:16:07.568] CRUSHER: With a little work, you can eventually regain sixty to seventy percent of your motor control.
+[00:16:08.528 --> 00:16:12.768] RUSSELL: The first step would be to fit your legs with motor assist units like this one.
+[00:16:14.608 --> 00:16:15.648] RUSSELL: They're a training device.
+[00:16:16.528 --> 00:16:19.728] RUSSELL: Once you've mastered using them, we can move on to the implants.
+[00:16:22.368 --> 00:16:23.408] RUSSELL: Now try to move your leg.
+[00:16:26.448 --> 00:16:28.048] CRUSHER: No,
+[00:16:29.888 --> 00:16:31.808] CRUSHER: no, that's good for a first try.
+[00:16:32.368 --> 00:16:34.928] CRUSHER: It will take some time before you get used to manipulating the
+[00:16:34.928 --> 00:16:35.248] WORF: No!
+[00:16:35.537 --> 00:16:37.137] WORF: I will
+[00:16:39.377 --> 00:16:40.337] WORF: not live like that.
+[00:16:41.297 --> 00:16:43.537] CRUSHER: These are very sophisticated devices.
+[00:16:44.017 --> 00:16:46.117] CRUSHER: With enough time, they will give you
+[00:16:46.117 --> 00:16:47.617] WORF: Sixty percent of my mobility.
+[00:16:47.937 --> 00:16:55.377] WORF: No, I will not be seen lurching through corridors like some half-Klingon machine,
+[00:16:56.657 --> 00:16:58.417] WORF: the object of ridicule and disgust.
+[00:16:59.537 --> 00:17:01.697] CRUSHER: Perhaps this all seems a bit frightening to you know.
+[00:17:03.057 --> 00:17:05.617] CRUSHER: I want you to take some time before making a decision.
+[00:17:06.257 --> 00:17:07.057] CRUSHER: Think about it.
+[00:17:10.017 --> 00:17:12.177] RUSSELL: There is one other option I'd like you to consider.
+[00:17:13.217 --> 00:17:15.217] RUSSELL: It's called genetronic replication.
+[00:17:16.177 --> 00:17:24.577] RUSSELL: It's still in the experimental stage, but if it works, it will restore virtually all of your mobility and without the need for artificial implants.
+[00:17:39.137 --> 00:17:40.817] CRUSHER: I thought we had discussed genetronics.
+[00:17:41.297 --> 00:17:41.777] RUSSELL: We did.
+[00:17:42.417 --> 00:17:44.657] CRUSHER: I also thought we'd decided against recommending it.
+[00:17:44.897 --> 00:17:45.617] RUSSELL: You heard him.
+[00:17:46.177 --> 00:17:48.097] RUSSELL: He'd rather die than live with the implants.
+[00:17:48.497 --> 00:17:50.417] RUSSELL: I just gave him a better option than suicide.
+[00:17:50.657 --> 00:17:53.217] CRUSHER: He's grasping for straws and you're giving him one.
+[00:17:53.217 --> 00:17:57.137] CRUSHER: Now instead of dealing with his paralysis, he's going to be thinking about this miracle cure of yours.
+[00:17:57.297 --> 00:18:05.617] RUSSELL: There's a real chance this could work. And if it does, it'll be a major breakthrough in neurogenetics that will change a lot of people's lives.
+[00:18:06.017 --> 00:18:08.897] CRUSHER: You're using the desperation of an injured man as an excuse
+[00:18:09.293 --> 00:18:12.333] CRUSHER: to try a procedure that you couldn't do under normal circumstances.
+[00:18:15.053 --> 00:18:16.253] CRUSHER: I checked with Starfleet Medical.
+[00:18:16.653 --> 00:18:20.813] CRUSHER: They have turned down your request to test genetronics on humanoids three times already.
+[00:18:21.453 --> 00:18:26.093] RUSSELL: Are you really going to hide behind the rules of some bureaucracy? Beverly,
+[00:18:26.413 --> 00:18:28.333] RUSSELL: your patient's life is at stake here.
+[00:18:28.813 --> 00:18:30.137] CRUSHER: Look, before you do any of this
+[00:18:30.137 --> 00:18:30.893] PICARD: Picard to Doctor Crusher.
+[00:18:32.973 --> 00:18:33.613] CRUSHER: Go ahead, Captain.
+[00:18:34.173 --> 00:18:35.693] PICARD: We've located the survivors from the Denver.
+[00:18:36.493 --> 00:18:37.213] CRUSHER: We're ready down here.
+[00:18:37.693 --> 00:18:39.293] CRUSHER: We have triage teams standing by.
+[00:18:39.693 --> 00:18:40.173] PICARD: Very well.
+[00:18:40.173 --> 00:18:42.173] PICARD: We'll begin transporting the survivors on board immediately.
+[00:18:42.573 --> 00:18:42.973] PICARD: Bridge out.
+[00:18:44.573 --> 00:18:44.973] RUSSELL: Beverly,
+[00:18:46.573 --> 00:18:47.773] RUSSELL: could you use an extra pair of hands?
+[00:18:48.733 --> 00:18:49.293] CRUSHER: Absolutely.
+[00:18:53.053 --> 00:18:53.533] ALEXANDER: Father?
+[00:18:56.973 --> 00:18:57.773] WORF: Come in, Alexander.
+[00:18:59.853 --> 00:19:01.213] ALEXANDER: Deanna said you hurt your back,
+[00:19:03.133 --> 00:19:04.013] ALEXANDER: that you couldn't walk.
+[00:19:04.813 --> 00:19:07.053] WORF: I am still struggling with my injury.
+[00:19:08.253 --> 00:19:09.373] ALEXANDER: I was worried about you.
+[00:19:12.013 --> 00:19:13.693] WORF: There is much to discuss.
+[00:19:15.133 --> 00:19:17.373] WORF: There will be difficult times ahead.
+[00:19:17.853 --> 00:19:18.893] WORF: You must be strong.
+[00:19:19.693 --> 00:19:20.573] ALEXANDER: I understand.
+[00:19:21.453 --> 00:19:21.613] WORF: Good.
+[00:19:23.133 --> 00:19:26.733] WORF: As Klingons, we must always be prepared for any
+[00:19:28.493 --> 00:19:28.973] ALEXANDER: Father!
+[00:19:32.653 --> 00:19:33.293] WORF: Take him away.
+[00:19:33.613 --> 00:19:34.493] TROI: Worf, let me help you.
+[00:19:34.653 --> 00:19:35.133] WORF: Leave!
+[00:19:36.145 --> 00:19:36.785] TROI: Alexander, go on.
+[00:19:37.345 --> 00:19:37.985] TROI: It'll be all right.
+[00:19:38.065 --> 00:19:39.025] TROI: I'll take care of your father.
+[00:20:03.825 --> 00:20:04.965] CRUSHER: Use this to cauterise the tissue.
+[00:20:04.965 --> 00:20:05.345] MEDIC: Yes, Doctor.
+[00:20:25.185 --> 00:20:25.745] CRUSHER: What happened here?
+[00:20:26.385 --> 00:20:27.985] RUSSELL: He went into neural metaphasic shock.
+[00:20:28.545 --> 00:20:29.185] CRUSHER: From leporazine?
+[00:20:29.265 --> 00:20:29.745] CRUSHER: That's unusual.
+[00:20:30.465 --> 00:20:31.585] RUSSELL: He couldn't take leporazine,
+[00:20:31.585 --> 00:20:32.785] RUSSELL: his blood pressure was too low.
+[00:20:33.265 --> 00:20:34.305] RUSSELL: I had to try a different treatment.
+[00:20:34.865 --> 00:20:35.905] CRUSHER: A morathial series?
+[00:20:35.985 --> 00:20:36.305] RUSSELL: No.
+[00:20:36.625 --> 00:20:38.065] RUSSELL: I tried a new rybo-therapy
+[00:20:38.065 --> 00:20:38.785] RUSSELL: I've been working with.
+[00:20:39.265 --> 00:20:41.105] RUSSELL: It's called borathium.
+[00:20:41.185 --> 00:20:42.305] RUSSELL: I've had some very good results.
+[00:20:43.825 --> 00:20:47.345] CRUSHER: You used this man to test one of your theories?
+[00:20:47.825 --> 00:20:50.465] RUSSELL: Borathium is decades ahead of leporazine and morathial.
+[00:20:51.025 --> 00:20:52.785] CRUSHER: Morathial would have saved his life.
+[00:20:53.745 --> 00:20:55.265] RUSSELL: His injuries were so severe
+[00:20:55.585 --> 00:20:58.145] RUSSELL: I don't think any conventional treatment could've saved him.
+[00:20:58.145 --> 00:21:00.625] CRUSHER: The point is, you didn't even try standard treatments.
+[00:21:02.065 --> 00:21:05.505] RUSSELL: I made the choice I thought gave him the best chance of surviving.
+[00:21:05.825 --> 00:21:07.025] RUSSELL: Isn't that what you would have done?
+[00:21:07.018 --> 00:21:11.418] CRUSHER: I think you used this situation in order to test one of your theories just like you're trying to do with Worf.
+[00:21:11.978 --> 00:21:14.698] RUSSELL: That's what this is really about, isn't it? Lieutenant Worf.
+[00:21:16.298 --> 00:21:20.938] RUSSELL: I'm offering him a chance to recover fully. A chance you can't give him.
+[00:21:20.938 --> 00:21:23.898] CRUSHER: What this is about is the kind of medicine you seem to practice.
+[00:21:24.378 --> 00:21:26.938] RUSSELL: I make no excuses for my approach to medicine.
+[00:21:26.938 --> 00:21:29.258] RUSSELL: I don't like losing a patient any more than you do.
+[00:21:30.218 --> 00:21:32.298] RUSSELL: But I'm looking down a long road, Doctor.
+[00:21:32.298 --> 00:21:35.658] RUSSELL: This man didn't die for nothing.
+[00:21:35.658 --> 00:21:37.818] RUSSELL: The data that I gathered is invaluable.
+[00:21:38.218 --> 00:21:40.538] RUSSELL: It will eventually help save thousands of lives.
+[00:21:40.858 --> 00:21:42.858] CRUSHER: I doubt if that will be any comfort his family.
+[00:21:44.218 --> 00:21:52.538] RUSSELL: Let me ask you this. If some years from now, borathium therapy were to save the life of someone you loved, would you still condemn me?
+[00:21:53.098 --> 00:21:55.338] CRUSHER: I will not be drawn into a hypothetical argument, Doctor.
+[00:21:55.898 --> 00:21:57.418] CRUSHER: Your research on this ship is over.
+[00:21:57.738 --> 00:21:59.898] CRUSHER: You're relieved of all medical duties until further notice.
+[00:21:59.898 --> 00:22:00.458] CRUSHER: Is that clear?
+[00:22:02.538 --> 00:22:02.858] RUSSELL: Perfectly.
+[00:22:16.698 --> 00:22:16.938] PICARD: Doctor?
+[00:22:18.538 --> 00:22:19.978] PICARD: I'm on my way to look in on your patient.
+[00:22:21.258 --> 00:22:22.138] CRUSHER: Be my guest.
+[00:22:22.698 --> 00:22:24.298] CRUSHER: Just don't expect a lot of conversation.
+[00:22:24.298 --> 00:22:25.898] CRUSHER: He's in full Klingon mode.
+[00:22:26.538 --> 00:22:28.618] CRUSHER: Honourable, strong and closed minded.
+[00:22:31.018 --> 00:22:34.298] PICARD: I understand that you've relieved Doctor Russell of duty.
+[00:22:35.108 --> 00:22:35.508] CRUSHER: That's right.
+[00:22:36.068 --> 00:22:36.948] CRUSHER: She's irresponsible.
+[00:22:37.188 --> 00:22:38.948] CRUSHER: I won't have her practicing medicine on this ship.
+[00:22:44.468 --> 00:22:44.788] PICARD: Beverly,
+[00:22:50.308 --> 00:22:54.388] PICARD: maybe you should consider letting her go ahead with this genetronic procedure.
+[00:22:57.108 --> 00:22:58.708] CRUSHER: How can you say that?
+[00:23:01.508 --> 00:23:07.028] CRUSHER: She has a theory, based on a little empirical knowledge and a lot of supposition.
+[00:23:07.988 --> 00:23:10.148] PICARD: If he can't make a full recovery,
+[00:23:11.988 --> 00:23:13.588] PICARD: Worf will to kill himself.
+[00:23:13.908 --> 00:23:15.268] CRUSHER: Not in my Sickbay,
+[00:23:15.268 --> 00:23:15.588] CRUSHER: he won't.
+[00:23:16.068 --> 00:23:19.988] CRUSHER: I'll put him in a restraining field and post security around his door before I let him commit suicide.
+[00:23:20.308 --> 00:23:21.268] PICARD: And how long will you keep him there?
+[00:23:21.348 --> 00:23:23.188] PICARD: A week? A month? A year?
+[00:23:23.668 --> 00:23:24.308] CRUSHER: If I have to.
+[00:23:24.868 --> 00:23:26.948] CRUSHER: Suicide is not an option.
+[00:23:28.708 --> 00:23:29.908] CRUSHER: Putting aside for a moment
+[00:23:29.908 --> 00:23:32.708] CRUSHER: the fact that a paraplegic can live a very full life,
+[00:23:33.268 --> 00:23:36.388] CRUSHER: there is also a conventional therapy that could restore much of his mobility.
+[00:23:36.548 --> 00:23:37.348] PICARD: But not all of it.
+[00:23:37.428 --> 00:23:38.628] CRUSHER: No, not all of it!
+[00:23:38.948 --> 00:23:40.788] CRUSHER: There are some things I can't fix.
+[00:23:43.028 --> 00:23:46.788] CRUSHER: Klingon or no, he is going to have to accept his condition.
+[00:23:47.188 --> 00:23:50.068] PICARD: Beverly, he can't make the journey you're asking of him.
+[00:23:50.868 --> 00:23:56.388] PICARD: You want him to go from contemplating suicide to accepting his condition and living with the disability,
+[00:23:56.388 --> 00:23:57.348] PICARD: but it's too far.
+[00:23:58.948 --> 00:24:03.588] PICARD: The road between covers a lifetime of values, beliefs.
+[00:24:03.738 --> 00:24:04.338] PICARD: He
+[00:24:05.306 --> 00:24:06.266] PICARD: can't do it, Beverly.
+[00:24:08.586 --> 00:24:08.746] PICARD: But
+[00:24:10.746 --> 00:24:12.986] PICARD: perhaps he can come part of the way.
+[00:24:14.426 --> 00:24:22.826] PICARD: Maybe he can be persuaded to forgo the ritual in order to take the chance at regaining the kind of life he needs.
+[00:24:24.906 --> 00:24:26.666] PICARD: A Klingon may not be good at accepting defeat,
+[00:24:28.266 --> 00:24:30.426] PICARD: but he knows all about taking risks.
+[00:24:32.266 --> 00:24:37.626] CRUSHER: The first tenet of good medicine is never make the patient any worse.
+[00:24:39.146 --> 00:24:43.146] CRUSHER: Right now, Worf is alive and functioning.
+[00:24:44.026 --> 00:24:47.706] CRUSHER: If he goes into that operation, he could come out a corpse.
+[00:24:50.666 --> 00:24:56.746] PICARD: This may not be good medicine, but for Worf, it may be his only choice.
+[00:25:15.626 --> 00:25:16.586] WORF: I am ready, Commander.
+[00:25:18.106 --> 00:25:19.706] RIKER: I've been studying this ritual of yours.
+[00:25:19.706 --> 00:25:21.706] RIKER: Do you know what I've decided?
+[00:25:23.626 --> 00:25:24.506] RIKER: I think it's despicable.
+[00:25:25.626 --> 00:25:26.506] RIKER: I hate everything about it.
+[00:25:27.466 --> 00:25:32.826] RIKER: The casual disregard for life, the way it tries to cloak suicide in some glorious notion of honour.
+[00:25:34.561 --> 00:25:38.161] RIKER: I may have to respect your beliefs, but I don't have to like them.
+[00:25:40.401 --> 00:25:43.521] WORF: It is not something I expect you to understand.
+[00:25:44.161 --> 00:25:51.121] RIKER: No. All you really expect me to do is bring you the knife and then walk away, so you can kill yourself in peace.
+[00:25:52.721 --> 00:25:53.041] RIKER: Well,
+[00:25:55.681 --> 00:25:56.881] RIKER: I'm not going to make it that easy for you.
+[00:26:00.321 --> 00:26:05.681] WORF: It is not easy for me. But each of us must die in our own time, and my time
+[00:26:05.681 --> 00:26:08.481] RIKER: Remember Sandoval? Hit by a disruptor blast two years ago.
+[00:26:08.961 --> 00:26:09.921] RIKER: She lived for about a week.
+[00:26:10.721 --> 00:26:14.961] RIKER: Fang-lee? Marla Aster? Tasha Yar?
+[00:26:16.161 --> 00:26:16.961] RIKER: How many men and women,
+[00:26:16.961 --> 00:26:18.801] RIKER: how many friends have we watched die?
+[00:26:18.801 --> 00:26:19.601] RIKER: I've lost count.
+[00:26:21.441 --> 00:26:22.321] RIKER: Every one of them,
+[00:26:22.321 --> 00:26:25.601] RIKER: every single one fought for life until the very end.
+[00:26:25.681 --> 00:26:27.361] WORF: I do not welcome death, Commander.
+[00:26:28.081 --> 00:26:28.641] RIKER: Are you sure?
+[00:26:31.681 --> 00:26:34.161] RIKER: Because I get the sense you're feeling pretty noble about the whole thing.
+[00:26:34.161 --> 00:26:34.961] RIKER: Look at me,
+[00:26:35.201 --> 00:26:36.081] RIKER: aren't I courageous?
+[00:26:36.081 --> 00:26:37.601] RIKER: Aren't I an honourable Klingon?
+[00:26:38.721 --> 00:26:39.681] RIKER: Let me remind you of something.
+[00:26:40.401 --> 00:26:44.081] RIKER: A Klingon does not put his desires above those of his family or his friends.
+[00:26:45.841 --> 00:26:45.921] RIKER: How
+[00:26:49.281 --> 00:26:51.281] RIKER: many people on this ship consider you a friend?
+[00:26:53.121 --> 00:26:54.321] RIKER: How many owe you their lives?
+[00:26:56.081 --> 00:26:58.321] RIKER: Have you ever thought about how you've affected the people around you?
+[00:26:58.961 --> 00:27:00.881] RIKER: How we might feel about your dying?
+[00:27:00.990 --> 00:27:06.030] WORF: Will you, or will you not, help me with the Hegh'bat?
+[00:27:11.390 --> 00:27:12.110] RIKER: You are my friend,
+[00:27:15.710 --> 00:27:18.990] RIKER: and in spite of everything I've said, if it were my place,
+[00:27:20.990 --> 00:27:21.870] RIKER: I would probably help you.
+[00:27:21.870 --> 00:27:29.310] RIKER: But I've been studying Klingon ritual and Klingon law, and I've discovered that it's not my place to fill that role.
+[00:27:30.910 --> 00:27:37.550] RIKER: According to tradition, that honour falls to a family member. Preferably the oldest son.
+[00:27:37.950 --> 00:27:38.990] WORF: That is impossible.
+[00:27:39.390 --> 00:27:40.350] WORF: He is a child.
+[00:27:41.790 --> 00:27:44.830] RIKER: The son of a Klingon is a man the day he can first hold a blade.
+[00:27:45.710 --> 00:27:45.950] RIKER: True?
+[00:27:46.430 --> 00:27:48.590] WORF: Alexander is not fully Klingon
+[00:27:48.910 --> 00:27:50.030] WORF: he is part human.
+[00:27:50.350 --> 00:27:51.230] RIKER: That's an excuse.
+[00:27:51.550 --> 00:27:56.910] RIKER: What you really mean is it would be too hard for you to look at your son and tell him to bring you the knife.
+[00:27:58.750 --> 00:28:05.070] RIKER: Watch you stab it into your heart, then pull the knife from your chest and wipe your blood on his sleeve.
+[00:28:06.670 --> 00:28:07.630] RIKER: That's the rite of death, isn't it?
+[00:28:11.630 --> 00:28:12.590] RIKER: Well, I'm sorry, Mister Worf.
+[00:28:14.590 --> 00:28:15.230] RIKER: I can't help you.
+[00:28:16.830 --> 00:28:18.510] RIKER: There's only one person on this ship who can.
+[00:28:37.798 --> 00:28:39.078] ALEXANDER: You said you wanted to see me?
+[00:28:41.318 --> 00:28:42.278] WORF: I need you to help me.
+[00:28:43.558 --> 00:28:44.358] ALEXANDER: Anything, Father.
+[00:28:46.358 --> 00:28:52.438] WORF: I have taught you about Klingon customs, the beliefs which we value.
+[00:28:54.358 --> 00:29:00.118] WORF: According to tradition, I must take my life after suffering this kind of injury.
+[00:29:03.158 --> 00:29:05.558] WORF: But I have decided to break with tradition.
+[00:29:07.318 --> 00:29:08.118] WORF: I have decided to live.
+[00:29:11.798 --> 00:29:12.598] ALEXANDER: I'm glad, Father.
+[00:29:13.638 --> 00:29:15.558] WORF: I must still undergo a dangerous operation.
+[00:29:16.598 --> 00:29:20.838] WORF: I may still die, but it will not be by my own hand.
+[00:29:24.598 --> 00:29:25.958] WORF: Return this to our quarters.
+[00:29:26.838 --> 00:29:27.238] ALEXANDER: Yes, sir.
+[00:29:48.518 --> 00:29:50.678] LOG: Chief Medical Officer's log, supplemental.
+[00:29:51.398 --> 00:29:59.958] LOG: After further consultation with Starfleet Medical, and a great deal of soul searching, I have reluctantly granted Lieutenant Worf's request to undergo the genetronic procedure.
+[00:30:00.598 --> 00:30:02.518] ALEXANDER: We started doing multiplications today.
+[00:30:02.838 --> 00:30:05.398] ALEXANDER: The teacher said I'm faster than anybody else in my class.
+[00:30:15.928 --> 00:30:17.848] WORF: We will speak again soon.
+[00:30:20.568 --> 00:30:21.128] ALEXANDER: Yes, Father.
+[00:30:32.888 --> 00:30:33.608] WORF: If I die,
+[00:30:36.888 --> 00:30:38.168] WORF: he must be cared for.
+[00:30:40.568 --> 00:30:43.128] TROI: I'll make sure he reaches your parents' home safely.
+[00:30:43.528 --> 00:30:48.408] WORF: No. They are elderly. They cannot care for Alexander.
+[00:30:56.088 --> 00:30:56.488] WORF: Counsellor,
+[00:30:56.488 --> 00:31:00.568] WORF: I have a serious request to make of you.
+[00:31:02.168 --> 00:31:05.368] WORF: Would you consider?
+[00:31:09.128 --> 00:31:11.048] TROI: You want me to raise Alexander?
+[00:31:13.528 --> 00:31:16.168] WORF: I have come to have a great respect for you, Deanna.
+[00:31:19.368 --> 00:31:23.528] WORF: You have been most helpful in guiding me since Alexander's arrival.
+[00:31:27.688 --> 00:31:29.368] WORF: I can't imagine anyone who
+[00:31:30.968 --> 00:31:32.728] WORF: would be a better parent to my son.
+[00:31:36.648 --> 00:31:37.768] WORF: If it is too much to ask.
+[00:31:42.834 --> 00:31:43.634] TROI: I'd be honoured.
+[00:31:53.554 --> 00:31:54.034] WORF: I am ready.
+[00:31:59.474 --> 00:32:02.994] RUSSELL: Focus the drechtal beams on the anterior and posterior spinal roots.
+[00:32:03.874 --> 00:32:04.354] CRUSHER: Focused.
+[00:32:05.074 --> 00:32:05.554] RUSSELL: Initiate.
+[00:32:09.554 --> 00:32:12.274] CRUSHER: All neural connections below the first cervical vertebrae have been separated.
+[00:32:15.394 --> 00:32:15.874] RUSSELL: Microtome.
+[00:32:19.314 --> 00:32:21.554] RUSSELL: I'm severing the brain stem now.
+[00:32:22.514 --> 00:32:22.514] OGAWA: Cerebral
+[00:32:25.074 --> 00:32:27.794] OGAWA: cortex placed on life support at zero eight thirty one hours.
+[00:32:27.954 --> 00:32:31.154] OGAWA: Three hours twenty six minutes remaining until onset of primary brain dysfunction.
+[00:32:32.194 --> 00:32:33.714] RUSSELL: Okay, let's remove the support frame.
+[00:32:36.994 --> 00:32:37.474] CRUSHER: Exoscalpel.
+[00:32:45.074 --> 00:32:51.234] RIKER: I've notified Starfleet that our survey of sector three seven six two eight will be delayed at least a week
+[00:32:51.474 --> 00:32:52.914] RIKER: while we drop off survivors from the Denver.
+[00:32:53.634 --> 00:32:53.874] PICARD: Good.
+[00:32:54.024 --> 00:32:54.624] PICARD: I
+[00:32:56.754 --> 00:33:00.034] PICARD: understand from Mister La Forge there's a minor fluctuation in the starboard warp coil.
+[00:33:00.594 --> 00:33:03.394] RIKER: I've scheduled a stress simulation routine for this afternoon to check it out.
+[00:33:11.494 --> 00:33:12.294] RIKER: Has there been any word?
+[00:33:19.014 --> 00:33:21.014] PICARD: No.
+[00:33:21.014 --> 00:33:22.214] CRUSHER: Preliminary genetronic scans are complete.
+[00:33:31.734 --> 00:33:33.254] RUSSELL: Initiating DNA sequencer.
+[00:33:38.054 --> 00:33:40.614] CRUSHER: Reading the initial sequences at ten to the ninth base pairs per second.
+[00:33:41.414 --> 00:33:44.214] RUSSELL: Once we're past the first two levels, we'll begin the encoding sequence.
+[00:33:45.334 --> 00:33:47.094] RUSSELL: Increase TCH levels to
+[00:33:48.454 --> 00:33:48.934] CRUSHER: What's happened?
+[00:33:49.334 --> 00:33:51.974] RUSSELL: The scanner is having trouble reading the Klingon dorsal root ganglia.
+[00:33:52.454 --> 00:33:53.974] CRUSHER: Did this show up in your simulations?
+[00:33:54.854 --> 00:33:56.774] RUSSELL: Yes, but I thought I'd made sufficient adjustments.
+[00:33:57.094 --> 00:33:58.214] RUSSELL: Bring me the detronal scanner.
+[00:34:00.934 --> 00:34:04.694] RUSSELL: I can scan the ganglia manually.
+[00:34:05.894 --> 00:34:06.854] RUSSELL: It'll just take a little longer.
+[00:34:07.814 --> 00:34:10.374] OGAWA: One hour forty three minutes until primary brain dysfunction.
+[00:34:40.710 --> 00:34:41.990] RUSSELL: Retract the paraspinal muscle.
+[00:34:42.710 --> 00:34:42.950] CRUSHER: Got it.
+[00:34:44.070 --> 00:34:45.430] CRUSHER: Watch the proximal nerve endings.
+[00:34:45.990 --> 00:34:46.390] RUSSELL: I see them.
+[00:34:47.670 --> 00:34:51.270] RUSSELL: Make sure the cranial segment is at least fifteen centimetres from the brain stem.
+[00:34:51.430 --> 00:34:53.430] OGAWA: I'm reading a slight fluctuation in the isocortex.
+[00:34:53.510 --> 00:34:54.710] CRUSHER: Twenty cc's inoprovaline.
+[00:34:59.190 --> 00:34:59.590] RUSSELL: Okay.
+[00:35:01.430 --> 00:35:02.710] RUSSELL: Release retractors on the paraspinal.
+[00:35:02.710 --> 00:35:06.390] RUSSELL: How much longer can we keep him on life support?
+[00:35:06.630 --> 00:35:07.350] OGAWA: Twenty seven minutes.
+[00:35:08.390 --> 00:35:08.710] RUSSELL: Cover.
+[00:35:11.350 --> 00:35:11.990] RUSSELL: Close, please.
+[00:35:14.070 --> 00:35:14.390] CRUSHER: Ready.
+[00:35:20.470 --> 00:35:22.630] RUSSELL: Tissue growth proceeding at anticipated rates.
+[00:35:23.910 --> 00:35:25.350] RUSSELL: No initial signs of rejection.
+[00:35:40.790 --> 00:35:41.270] RUSSELL: Okay.
+[00:35:41.510 --> 00:35:41.830] RUSSELL: Ready.
+[00:35:42.630 --> 00:35:43.670] RUSSELL: Terminate life support.
+[00:35:44.630 --> 00:35:47.750] OGAWA: Life support disengaged.
+[00:35:49.030 --> 00:35:50.470] RUSSELL: Neural connections appear stable.
+[00:35:51.830 --> 00:35:52.870] CRUSHER: Looking good so far.
+[00:35:57.228 --> 00:35:58.428] OGAWA: Fluctuations in the isocortex.
+[00:35:58.428 --> 00:35:59.548] CRUSHER: Forty cc's inoprovaline.
+[00:36:01.548 --> 00:36:02.908] RUSSELL: Synaptic response falling.
+[00:36:02.908 --> 00:36:03.708] OGAWA: BP dropping.
+[00:36:03.708 --> 00:36:04.588] OGAWA: Now sixty over ten.
+[00:36:04.588 --> 00:36:06.588] OGAWA: VeK'tal response falling rapidly.
+[00:36:07.228 --> 00:36:09.148] CRUSHER: Increase oxygen mixture to ninety five percent.
+[00:36:09.468 --> 00:36:10.988] RUSSELL: Beginning direct synaptic stimulation.
+[00:36:12.828 --> 00:36:14.028] OGAWA: Respiration is shallow and rapid.
+[00:36:14.108 --> 00:36:16.028] OGAWA: No response in the isocortex.
+[00:36:16.508 --> 00:36:17.788] CRUSHER: Seventy five cc's inoprovaline.
+[00:36:22.588 --> 00:36:23.228] OGAWA: Heart rate is erratic.
+[00:36:23.548 --> 00:36:24.988] RUSSELL: He's going into cardiac arrest.
+[00:36:25.228 --> 00:36:26.828] CRUSHER: All right, let's go to chloromydride.
+[00:36:27.148 --> 00:36:27.948] CRUSHER: Fifteen cc's.
+[00:36:29.148 --> 00:36:29.708] RUSSELL: We're losing him.
+[00:36:30.508 --> 00:36:30.988] RUSSELL: No BP,
+[00:36:30.988 --> 00:36:31.468] RUSSELL: no pulse.
+[00:36:31.948 --> 00:36:32.588] RUSSELL: Brain activity?
+[00:36:33.228 --> 00:36:34.508] OGAWA: Showing no higher brain functions.
+[00:36:34.748 --> 00:36:35.068] CRUSHER: All right
+[00:36:35.388 --> 00:36:36.748] CRUSHER: twenty five cc's cordrazine.
+[00:36:37.868 --> 00:36:38.508] RUSSELL: That'll kill him.
+[00:36:38.668 --> 00:36:40.428] CRUSHER: Looks like we've done a pretty good job of that already, Doctor.
+[00:36:42.188 --> 00:36:42.588] OGAWA: No BP,
+[00:36:42.588 --> 00:36:43.068] OGAWA: no pulse.
+[00:36:43.628 --> 00:36:44.828] OGAWA: No activity in the isocortex.
+[00:36:46.188 --> 00:36:46.908] CRUSHER: Cortical stimulator.
+[00:36:54.908 --> 00:36:56.908] CRUSHER: Now.
+[00:37:11.068 --> 00:37:13.068] CRUSHER: Again.
+[00:37:13.068 --> 00:37:13.068] CRUSHER: Again.
+[00:37:13.548 --> 00:37:15.548] CRUSHER: Again.
+[00:37:17.548 --> 00:37:17.868] CRUSHER: Again.
+[00:37:23.388 --> 00:37:23.788] RUSSELL: Doctor.
+[00:37:37.435 --> 00:37:37.675] CRUSHER: All right,
+[00:37:39.115 --> 00:37:39.915] CRUSHER: make a note in the log.
+[00:37:42.075 --> 00:37:45.435] CRUSHER: Death occurred at twelve hundred forty hours.
+[00:37:48.795 --> 00:37:48.875] RUSSELL: It
+[00:37:54.715 --> 00:37:55.755] RUSSELL: was all going so well.
+[00:37:57.355 --> 00:37:59.035] RUSSELL: No anomalies during replication,
+[00:38:00.315 --> 00:38:01.275] RUSSELL: no initial rejection.
+[00:38:11.995 --> 00:38:13.995] TROI: No.
+[00:38:15.035 --> 00:38:17.115] CRUSHER: Alexander, I
+[00:38:19.115 --> 00:38:21.115] CRUSHER: am
+[00:38:23.115 --> 00:38:25.755] CRUSHER: so sorry.
+[00:38:31.595 --> 00:38:34.235] ALEXANDER: I want to see
+[00:38:36.315 --> 00:38:36.395] ALEXANDER: him.
+[00:38:36.395 --> 00:38:36.595] TROI: Alex.
+[00:38:36.595 --> 00:38:36.795] ALEXANDER: No!
+[00:38:37.435 --> 00:38:40.155] ALEXANDER: I want to see him.
+[00:39:27.861 --> 00:39:28.901] CRUSHER: Activate biomonitors. Twenty
+[00:39:32.501 --> 00:39:34.101] CRUSHER: five cc's polyadrenaline.
+[00:39:34.341 --> 00:39:35.141] RUSSELL: What's going on?
+[00:39:35.461 --> 00:39:39.375] CRUSHER: I'm not sure, but if I'm right, one of those unnecessary redundancies
+[00:39:39.375 --> 00:39:39.701] OGAWA: Doctor!
+[00:39:39.861 --> 00:39:41.461] CRUSHER: I don't believe it.
+[00:39:42.021 --> 00:39:43.221] CRUSHER: Begin cardio-aid and ventilation.
+[00:39:46.421 --> 00:39:48.021] CRUSHER: That's amazing.
+[00:39:48.021 --> 00:39:50.101] CRUSHER: There must be a back-up for his synaptic functions as well.
+[00:39:50.661 --> 00:39:52.101] OGAWA: Vital signs are stabilising.
+[00:39:53.061 --> 00:39:54.341] CRUSHER: Begin rybo-synetic therapy.
+[00:39:54.581 --> 00:39:56.341] CRUSHER: Increase oxygen mixture to ninety percent.
+[00:39:56.821 --> 00:39:58.501] CRUSHER: Let's prepare a thalamic booster series.
+[00:40:03.381 --> 00:40:05.381] RUSSELL: Well,
+[00:40:14.021 --> 00:40:16.021] RUSSELL: I'd say your patient's recovery is going well.
+[00:40:16.021 --> 00:40:16.341] RUSSELL: You're
+[00:40:22.901 --> 00:40:25.061] RUSSELL: not even going to acknowledge what I did for him, are you.
+[00:40:27.141 --> 00:40:28.501] RUSSELL: You just can't admit
+[00:40:28.581 --> 00:40:30.821] RUSSELL: that it was my research that made this possible.
+[00:40:34.821 --> 00:40:37.141] CRUSHER: I am delighted that Worf is going to recover.
+[00:40:38.821 --> 00:40:40.741] CRUSHER: You gambled, he won.
+[00:40:43.381 --> 00:40:45.061] CRUSHER: Not all of your patients are so lucky.
+[00:40:48.821 --> 00:40:49.701] CRUSHER: You scare me, Doctor.
+[00:40:51.621 --> 00:40:54.981] CRUSHER: You risk your patient's lives and justify it in the name of research.
+[00:40:56.421 --> 00:40:58.101] CRUSHER: Genuine research takes time.
+[00:40:59.461 --> 00:41:05.301] CRUSHER: Sometimes a lifetime of painstaking, detailed work in order to get any results.
+[00:41:06.901 --> 00:41:07.461] CRUSHER: Not for you.
+[00:41:08.261 --> 00:41:11.781] CRUSHER: You take short cuts, right through living tissue.
+[00:41:13.861 --> 00:41:21.701] CRUSHER: You put your research ahead of your patient's lives, and as far as I'm concerned that's a violation of our most sacred trust.
+[00:41:25.221 --> 00:41:27.941] CRUSHER: I'm sure your work will be hailed as a stunning breakthrough.
+[00:41:30.341 --> 00:41:31.621] CRUSHER: Enjoy your laurels, Doctor.
+[00:41:32.101 --> 00:41:33.221] CRUSHER: I'm not sure I could.
+[00:41:36.741 --> 00:41:36.821] CRUSHER: This
+[00:42:01.461 --> 00:42:02.661] CRUSHER: is going to take time, Worf.
+[00:42:03.990 --> 00:42:06.070] CRUSHER: Your muscles are still sorting out their new signals.
+[00:42:06.070 --> 00:42:06.790] CRUSHER: Don't rush it.
+[00:42:12.230 --> 00:42:14.230] TROI: Alexander,
+[00:42:15.830 --> 00:42:17.030] TROI: remember what we talked about?
+[00:42:17.990 --> 00:42:19.510] TROI: Your father wants to do this by himself.
+[00:42:22.390 --> 00:42:23.270] WORF: It's all right, Counsellor.
+[00:42:23.270 --> 00:42:26.310] WORF: I would appreciate some help from my son.
+[00:42:37.270 --> 00:42:38.550] WORF: We will work together.
+[00:42:40.230 --> 00:42:40.710] ALEXANDER: Yes, sir.
+[00:42:44.000 --> 00:43:14.000] [music]
+[00:43:16.000 --> 00:43:24.000] [music]
+[00:43:25.000 --> 00:43:45.000] [music]
